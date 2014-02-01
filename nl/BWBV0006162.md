@@ -4,7 +4,7 @@ identifier: "BWBV0006162"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-02-01"
-last_updated: "2013-05-23"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006162"
 soort: "verdrag"
@@ -82,15 +82,15 @@ Each of the Implementing Authorities of the Kingdom of the Netherlands, on the o
 
 ##### Article III
 
-Any activities undertaken pursuant to this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities of the Parties. Any contractual agreements or other arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2013-05-23&g=2013-05-23), shall specify that all activities implementing this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities.
+Any activities undertaken pursuant to this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities of the Parties. Any contractual agreements or other arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01), shall specify that all activities implementing this Agreement shall be subject to the availability of funds and resources of the Implementing Authorities.
 
 ##### Article IV
 
-Any equipment imported into the Kingdom of the Netherlands by the FAA pursuant to the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2013-05-23&g=2013-05-23), shall be exempt from custom tax or tariffs.
+Any equipment imported into the Kingdom of the Netherlands by the FAA pursuant to the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01), shall be exempt from custom tax or tariffs.
 
 ##### Article V
 
-1. Subject to paragraph 2 of this Article, the Government of Aruba, the Government of Curaçao, the Government of Sint Maarten, and the Government of the Netherlands, as the case may be, acting on behalf of the Kingdom of the Netherlands, shall hold the Government of the United States of America, any agency, contractor or employee thereof harmless from any and all claims and legal proceedings arising out of work performed on behalf of, or equipment provided to, Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands pursuant to this Agreement and any contractual agreement or arrangement referred to in [Article I.3.C](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2013-05-23&g=2013-05-23).
+1. Subject to paragraph 2 of this Article, the Government of Aruba, the Government of Curaçao, the Government of Sint Maarten, and the Government of the Netherlands, as the case may be, acting on behalf of the Kingdom of the Netherlands, shall hold the Government of the United States of America, any agency, contractor or employee thereof harmless from any and all claims and legal proceedings arising out of work performed on behalf of, or equipment provided to, Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands pursuant to this Agreement and any contractual agreement or arrangement referred to in [Article I.3.C](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01).
 
 2. Acts by the Government of the United States or any agency, contractor or employee thereof arising out of or relating to this Agreement that are determined by agreement of the Parties (i) to constitute intentional misconduct or gross negligence, and (ii) to have resulted in personal injury, death, or property damage, shall not be considered within the scope of the obligation in paragraph 1 of this Article. For the purposes of this Agreement, gross negligence means the willful, wanton, and reckless disregard for the safety of life and property, not ordinary negligence.
 
@@ -104,13 +104,13 @@ Each Party and its Implementing Authorities may at any time request consultation
 
 1. Any amendments to this Agreement shall be mutually agreed upon by the Parties and shall come into force on the date on which the Parties have informed each other in writing, through the exchange of diplomatic notes, of the completion of their respective internal procedures for entry into force of the amendment.
 
-2. The Implementing Authorities may agree in writing to amend any contractual agreement or non-binding arrangement referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2013-05-23&g=2013-05-23)**.**
+2. The Implementing Authorities may agree in writing to amend any contractual agreement or non-binding arrangement referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01)**.**
 
 ##### Article VIII
 
 1. Any disagreement concerning the interpretation or application of this Agreement shall be resolved by consultation between the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
 
-2. The Parties shall ensure that any disagreement concerning the interpretation or application of the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2013-05-23&g=2013-05-23) shall be resolved by consultation between the appropriate authorities of the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
+2. The Parties shall ensure that any disagreement concerning the interpretation or application of the contractual agreements or arrangements referred to in [Article I.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006162&artikel=I&z=2014-02-01&g=2014-02-01) shall be resolved by consultation between the appropriate authorities of the Parties and shall not be referred to any international tribunal, arbitration, or third party for settlement.
 
 ##### Article IX
 
