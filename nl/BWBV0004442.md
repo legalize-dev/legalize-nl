@@ -4,7 +4,7 @@ identifier: "BWBV0004442"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-02-01"
-last_updated: "1989-02-10"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004442"
 soort: "verdrag"
@@ -152,17 +152,11 @@ Het Belgische gedeelte van de nieuwe directe verbinding, hetwelk de vervanging z
 
 ##### Artikel 10
 
-§ 1. — De Hoge Verdragsluitende Partijen voorzien de mogelijkheid dat in de toekomst behoefte zal ontstaan om een directe verbinding te verwezenlijken tussen het Albertkanaal bij Briegden en de Maas ter hoogte van de bovenmond van het Julianakanaal.
+1. Het Vlaams Gewest en het Koninkrijk der Nederlanden bevestigen het belang van het behoud van de scheepvaartrelatie tussen het Julianakanaal en het Albertkanaal, rekening houdend met de ontwikkeling van de scheepvaart en de modernisering in de sector. Als lange termijn streefbeeld wordt daarbij uitgegaan van een verbinding op niveau van CEMT klasse V (Conférence européenne des ministres des Transports).
 
-§ 2. — De Hoge Verdragsluitende Partijen aanvaarden als oplossing voor de in paragraaf 1 van dit artikel genoemde directe verbinding deze waarvan de toelichtende beschrijving is opgenomen, onder B, in het verslag van de Belgische en Nederlandse technici hetwelk als bijlage I is gevoegd bij het advies over vraagstukken inzake waterwegen en havenproblemen, uitgebracht op 11 maart 1954 aan de Regeringen van België en Nederland door de Heren F. Van Cauwelaert en M. P. L. Steenberghe.
+Het Koninkrijk der Nederlanden zal, indien een onderbouwde behoefte ontstaat om tot aanpassing van deze scheepvaartrelatie te komen, deze behoefte en mogelijke oplossingen onderzoeken conform de procedures die daarvoor op dat moment nationaal gelden. Aanpassing van de scheepvaartrelatie heeft in dat geval betrekking op het vaarweggedeelte in het stedelijk gebied van Maastricht.
 
-Deze toelichtende beschrijving met de twee bijbehorende kaarten zijn de bijlagen II, III en IV bij dit Verdrag.
-
-§ 3. — De Hoge Verdragsluitende Partijen zullen, op verzoek van één hunner, nader overleg plegen omtrent het tijdstip en de modaliteiten van uitvoering en de verdeling der kosten van de in paragraaf 2 van dit artikel voorziene oplossing.
-
-§ 4. — Een overeenkomst tussen de Hoge Verdragsluitende Partijen zal definitief de verwezenlijking regelen van de in paragraaf 1 van dit artikel genoemde directe verbinding.
-
-§ 5. De Hoge Verdragsluitende Partijen verplichten zich echter er voor zorg te dragen, dat bij de uitbreidingsplannen rekening wordt gehouden met een eventuele latere uitvoering van de in paragraaf 2 van dit artikel voorziene oplossing.
+2. Het Vlaams Gewest en het Koninkrijk der Nederlanden zullen, op verzoek van één hunner en op het moment dat de ontwikkelingen in de scheepvaart naar het oordeel van één hunner daartoe aanleiding geven, in overleg treden over de verwezenlijking van de doelstellingen in het eerste lid. Het Waals Gewest kan, indien het Vlaams Gewest en het Koninkrijk der Nederlanden dat wenselijk achten, worden uitgenodigd voor dit overleg.
 
 ##### Artikel 11
 
