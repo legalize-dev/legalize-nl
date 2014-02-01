@@ -4,7 +4,7 @@ identifier: "BWBR0033007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2013-03-16"
+last_updated: "2014-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033007"
 soort: "ministeriele-regeling"
@@ -41,23 +41,33 @@ Besluit:
 
 ##### Artikel 1
 
-De verhuurder, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), is degene, bedoeld in [artikel 24, derde lid, onderdeel a, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=24), te wiens aanzien de beschikking, bedoeld in [artikel 22 van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), is genomen voor de door die verhuurder aangeduide woonruimte, bedoeld in artikel 252a, eerste lid, van Boek 7 van het Burgerlijk Wetboek, waarop het verzoek om een verklaring betrekking heeft.
+1. In deze regeling wordt verstaan onder inspecteur: de inspecteur, bedoeld in [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a).
+
+2.
+
+De verhuurder, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), is degene, bedoeld in [artikel 24, derde lid, onderdeel a, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=24), ter zake van de woonruimte, bedoeld in [artikel 252a, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), waarop het verzoek om een verklaring betrekking heeft.
 
 ##### Artikel 2
 
-Het verzoek om een verklaring als bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) wordt op de door de inspecteur, bedoeld in artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek, aangegeven wijze langs elektronische weg gedaan.
+1.
+
+Het verzoek om een verklaring als bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) wordt op de door de inspecteur aangegeven wijze langs elektronische weg gedaan.
+
+2. Het verzoek, bedoeld in het eerste lid, wordt niet gedaan dan nadat de verhuurder, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033007&artikel=1&z=2014-02-01&g=2014-02-01), op de door de inspecteur aangegeven wijze langs elektronische wijze een aanmeldprocedure heeft doorlopen.
+
+3. De inspecteur maakt bekend in welke periode of perioden in een kalenderjaar het verzoek, bedoeld in het eerste lid, kan worden gedaan en de aanmeldprocedure, bedoeld in het tweede lid, kan worden doorlopen.
 
 ##### Artikel 3
 
-De verhuurder geeft de plaats van de woonruimte, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), aan met behulp van de postcode, het huisnummer en, zo nodig, een huisnummertoevoeging.
+De verhuurder, bedoeld in artikel 1, geeft de plaats van de woonruimte, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), aan met behulp van de postcode, het huisnummer en, zo nodig, een huisnummertoevoeging.
 
 ##### Artikel 4
 
-De verklaring, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), wordt op de door de inspecteur, bedoeld in artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek, aangegeven wijze langs elektronische weg verstrekt en is voorzien van de datum van afgifte ervan.
+De verklaring, bedoeld in [artikel 252a, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), wordt op de door de inspecteur aangegeven wijze langs elektronische weg verstrekt en is voorzien van de datum van afgifte ervan.
 
 ##### Artikel 5
 
-Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
+Deze regeling wordt aangehaald als: Uitvoeringsregeling verklaring rijksbelastingdienst over huishoudinkomen voor een inkomensafhankelijke huurverhoging.
 
 ##### Artikel 6
 
