@@ -4,7 +4,7 @@ identifier: "BWBV0006284"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-02-06"
-last_updated: "1966-05-14"
+last_updated: "2014-02-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006284"
 soort: "verdrag"
@@ -52,7 +52,7 @@ Geen enkele bepaling van dit Verdrag wordt geacht afbreuk te doen aan de rechten
 
 3. Behalve wanneer in dit Verdrag anders is bepaald, worden de besluiten van de Commissie genomen met een meerderheid van stemmen van de verdragsluitende partijen; elke verdragsluitende partij heeft één stem. Het quorum wordt gevormd door twee derde van de verdragsluitende partijen.
 
-4. De Commissie komt om de twee jaar in gewone zitting bijeen. Buitengewone zittingen kunnen te allen tijde worden bijeengeroepen op verzoek van een meerderheid van de verdragsluitende partijen of bij besluit van de krachtens [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=V&z=1966-05-14&g=1966-05-14) opgerichte Raad.
+4. De Commissie komt om de twee jaar in gewone zitting bijeen. Buitengewone zittingen kunnen te allen tijde worden bijeengeroepen op verzoek van een meerderheid van de verdragsluitende partijen of bij besluit van de krachtens [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=V&z=2014-02-06&g=2014-02-06) opgerichte Raad.
 
 5. De Commissie kiest tijdens haar eerste zitting, en vervolgens tijdens elke gewone zitting, onder haar leden een voorzitter, een eerste vicevoorzitter en een tweede vicevoorzitter, die slechts eenmaal herkiesbaar zijn.
 
@@ -106,7 +106,7 @@ De Commissie benoemt een uitvoerend secretaris, die aanblijft zolang de Commissi
 
 - d. beheren van de rekeningen van de Commissie;
 
-- e. regelen van de samenwerking met de in [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XI&z=1966-05-14&g=1966-05-14) van dit Verdrag bedoelde organisaties;
+- e. regelen van de samenwerking met de in [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XI&z=2014-02-06&g=2014-02-06) van dit Verdrag bedoelde organisaties;
 
 - f. verzamelen en analyseren van de gegevens die nodig zijn voor het verwezenlijken van de doelstellingen van dit Verdrag, en met name de gegevens over de huidige en de maximale duurzame vangst uit de tonijnbestanden;
 
@@ -218,7 +218,7 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 4. Dit Verdrag staat open voor ondertekening of toetreding door elke intergouvernementele organisatie voor economische integratie gevormd door staten die bevoegdheden aan de organisatie hebben overgedragen voor aangelegenheden waarop dit Verdrag betrekking heeft, met inbegrip van de bevoegdheid verdragen over deze aangelegenheden te sluiten.
 
-5. Vanaf de nederlegging van haar akte van formele bevestiging of toetreding is elke in het vierde lid bedoelde organisatie verdragsluitende partij, die dezelfde rechten en verplichtingen op grond van de bepalingen van het Verdrag heeft als de andere verdragsluitende partijen. Verwijzingen in de tekst van het Verdrag naar het begrip „staat” in [artikel IX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=IX&z=1966-05-14&g=1966-05-14), en het begrip „regering” in de preambule en in [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIII&z=1966-05-14&g=1966-05-14), dienen in deze zin te worden begrepen.
+5. Vanaf de nederlegging van haar akte van formele bevestiging of toetreding is elke in het vierde lid bedoelde organisatie verdragsluitende partij, die dezelfde rechten en verplichtingen op grond van de bepalingen van het Verdrag heeft als de andere verdragsluitende partijen. Verwijzingen in de tekst van het Verdrag naar het begrip „staat” in [artikel IX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=IX&z=2014-02-06&g=2014-02-06), en het begrip „regering” in de preambule en in [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIII&z=2014-02-06&g=2014-02-06), dienen in deze zin te worden begrepen.
 
 6. Zodra een organisatie als bedoeld in het vierde lid partij wordt bij dit Verdrag, zijn de lidstaten van die organisatie en de staten die in de toekomst tot die organisatie toetreden, niet langer partij bij het Verdrag; zij dienen een daartoe strekkende schriftelijke kennisgeving te richten aan de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties.
 
@@ -226,13 +226,13 @@ De bijdragen zijn verschuldigd op 1 januari van het jaar waarop zij betrekking h
 
 4) Zoals gewijzigd bij het Protocol van Parijs, dat op 14 december 1997 in werking trad.
 
-De Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties stelt alle regeringen bedoeld in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIV&z=1966-05-14&g=1966-05-14), alsmede de organisaties bedoeld in artikel XIV, vierde lid, in kennis van de nederlegging van akten van bekrachtiging, goedkeuring en formele bevestiging van toetreding, alsmede van de inwerkingtreding van het Verdrag, de voorstellen voor wijziging, de kennisgevingen van aanvaarding van de wijzigingen, de inwerkingtreding van de wijzigingen en de kennisgevingen van terugtrekking.
+De Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties stelt alle regeringen bedoeld in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIV&z=2014-02-06&g=2014-02-06), alsmede de organisaties bedoeld in artikel XIV, vierde lid, in kennis van de nederlegging van akten van bekrachtiging, goedkeuring en formele bevestiging van toetreding, alsmede van de inwerkingtreding van het Verdrag, de voorstellen voor wijziging, de kennisgevingen van aanvaarding van de wijzigingen, de inwerkingtreding van de wijzigingen en de kennisgevingen van terugtrekking.
 
 ##### Artikel XVI
 
 5) Zoals gewijzigd bij het Protocol van Parijs, dat op 14 december 1997 in werking trad.
 
-De oorspronkelijke tekst van dit Verdrag wordt nedergelegd bij de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties, die gewaarmerkte afschriften ervan toezendt aan de regeringen bedoeld in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIV&z=1966-05-14&g=1966-05-14), en aan de organisaties bedoeld in artikel XIV, vierde lid.
+De oorspronkelijke tekst van dit Verdrag wordt nedergelegd bij de Directeur-Generaal van de Voedsel- en Landbouworganisatie van de Verenigde Naties, die gewaarmerkte afschriften ervan toezendt aan de regeringen bedoeld in [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006284&artikel=XIV&z=2014-02-06&g=2014-02-06), en aan de organisaties bedoeld in artikel XIV, vierde lid.
 
 IN WITNESS WHEREOF the representatives duly authorized by their respective Governments have signed the present Convention.
 
