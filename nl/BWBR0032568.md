@@ -4,7 +4,7 @@ identifier: "BWBR0032568"
 country: "nl"
 rank: "wet"
 publication_date: "2014-02-08"
-last_updated: "2013-07-01"
+last_updated: "2014-02-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032568"
 soort: "wet"
@@ -119,7 +119,7 @@ Wijzigt de Faillissementswet.
 
 ##### Artikel XI
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Bij dat besluit kan worden bepaald dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032568&artikel=II&z=2013-07-01&g=2013-07-01) terugwerkt tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Bij dat besluit kan worden bepaald dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0032568&artikel=II&z=2014-02-08&g=2014-02-08) terugwerkt tot en met een in dat besluit te bepalen tijdstip.
 
 ##### Artikel XII
 
