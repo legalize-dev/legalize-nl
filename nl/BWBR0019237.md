@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2014-02-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -129,17 +129,23 @@ Vervallen
 
 - b. van een gemeente op grond van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer van de Nederlandse Vereniging voor Volkskrediet of overeenkomsten met dezelfde strekking;
 
-- c. van een curator in een faillissement;
+- c. van een derde die: voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer of overeenkomsten met dezelfde strekking;
 
-- d. van een bewindvoerder in een schuldsaneringsregeling natuurlijke personen;
+- 1°. een subsidiebeschikking heeft ontvangen van een gemeente dan wel een contract heeft met een zorgkantoor voor het leveren zorg in natura ingevolge de Algemene Wet Bijzondere Ziektekosten; en
 
-- e. van een derde indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.
+- 2°. voldoet aan de norm NEN-ISO 9001;
+
+- d. van een curator in een faillissement;
+
+- e. van een bewindvoerder in een schuldsaneringsregeling natuurlijke personen;
+
+- f. van een derde indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.
 
 3. Bij gevallen als bedoeld [artikel 7a, vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a) is [artikel 25, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) niet van toepassing.
 
 4. Indien op grond van [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) de uitbetaling van een voorschot of een tegemoetkoming plaatsvindt op een andere bankrekening dan die van de belanghebbende of diens partner, vindt het gegevensverkeer met betrekking tot de uitbetaling tussen de Belastingdienst/Toeslagen en die rekeninghouder plaats met gebruikmaking van het burgerservicenummer van de belanghebbende.
 
-5. Bij toepassing van het tweede lid, onderdelen a en b, wijst het aldaar bedoelde lid of de aldaar bedoelde gemeente aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belanghebbende en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het tweede lid, onderdelen a en b, bedoelde overeenkomst.
+5. Bij toepassing van het tweede lid, onderdelen a tot en met c, wijst het aldaar bedoelde lid, de aldaar bedoelde gemeente of de aldaar bedoelde derde aan op welke bankrekening wordt uitbetaald, ten behoeve van welke belanghebbende en voor welke uitbetaling. Voorts wordt melding gemaakt van de beëindiging van de in het tweede lid, onderdelen a tot en met c, bedoelde overeenkomst.
 
 ##### Artikel 7. Uitstel van betaling in verband met betalingsproblemen
 
@@ -233,7 +239,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-01-06&g=2014-01-06), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-02-13&g=2014-02-13), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -261,7 +267,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-02-13&g=2014-02-13), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
