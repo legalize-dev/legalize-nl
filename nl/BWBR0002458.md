@@ -4,7 +4,7 @@ identifier: "BWBR0002458"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2014-01-01"
+last_updated: "2014-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002458"
 soort: "wet"
@@ -89,13 +89,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 3°. personen wier aanwezigheid in de inrichting wegens dringende redenen noodzakelijk is;
 
-– vergunninghouder: de natuurlijke persoon of de rechtspersoon aan wie de vergunning, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), is verleend;
+– vergunninghouder: de natuurlijke persoon of de rechtspersoon aan wie de vergunning, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15), is verleend;
 
-bijlage: bijlage bedoeld in [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=8&artikel=44b&z=2014-01-01&g=2014-01-01).
+bijlage: bijlage bedoeld in [artikel 44b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=8&artikel=44b&z=2014-02-15&g=2014-02-15).
 
 2. Onder een inrichting wordt niet verstaan een vervoermiddel voor het rondtrekkend uitoefenen van een bedrijf.
 
-3. Deze wet is, met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=21&z=2014-01-01&g=2014-01-01) en [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-01-01&g=2014-01-01), niet van toepassing op:
+3. Deze wet is, met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=21&z=2014-02-15&g=2014-02-15) en [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-02-15&g=2014-02-15), niet van toepassing op:
 
 - a. vervoermiddelen die bestemd zijn voor het vervoer van personen, tijdens hun gebruik als zodanig;
 
@@ -151,6 +151,8 @@ Vervallen
 
 5. De ontheffing, of een afschrift daarvan, is in de inrichting aanwezig.
 
+6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een ontheffing als bedoeld in het vierde lid.
+
 ##### Artikel 5
 
 Vervallen
@@ -189,7 +191,7 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 5. Bij regeling van Onze Minister worden de bewijsstukken aangewezen waaruit moet blijken dat is voldaan aan de eisen, bedoeld in het derde lid. Van deze bewijsstukken wordt door een door Onze Minister aan te wijzen instantie een register bijgehouden. Dit register kan worden geraadpleegd door:
 
-- a. de burgemeester, bij het verlenen van een vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), bij het verlenen van een ontheffing op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=5&artikel=35&z=2014-01-01&g=2014-01-01) en bij een melding als bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01);
+- a. de burgemeester, bij het verlenen van een vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15), bij het verlenen van een ontheffing op grond van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=5&artikel=35&z=2014-02-15&g=2014-02-15) en bij een melding als bedoeld in [artikel 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15);
 
 - b. de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet.
 
@@ -201,7 +203,7 @@ Op de voorbereiding van een beslissing tot verlening van een vergunning op grond
 
 2. In het reglement wordt vastgelegd:
 
-- a. welke kwalificatienormen worden gesteld aan de voorlichtingsinstructie op het gebied van sociale hygiëne die barvrijwilligers krijgen om te kunnen voldoen aan de eis gesteld in [artikel 24, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-01-01&g=2014-01-01);
+- a. welke kwalificatienormen worden gesteld aan de voorlichtingsinstructie op het gebied van sociale hygiëne die barvrijwilligers krijgen om te kunnen voldoen aan de eis gesteld in [artikel 24, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-02-15&g=2014-02-15);
 
 - b. de wijze waarop door of namens het bestuur wordt toegezien op de naleving van het reglement.
 
@@ -217,7 +219,7 @@ De inrichting dient te voldoen aan bij algemene maatregel van bestuur in het bel
 
 ##### Artikel 11
 
-Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) verleende vergunning geldt ten aanzien van het verstrekken van alcoholhoudende drank niet voor andere gedeelten van de openbare weg dan die, waar dat verstrekken door de burgemeester uitdrukkelijk is toegestaan.
+Een krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15) verleende vergunning geldt ten aanzien van het verstrekken van alcoholhoudende drank niet voor andere gedeelten van de openbare weg dan die, waar dat verstrekken door de burgemeester uitdrukkelijk is toegestaan.
 
 ##### Artikel 11a
 
@@ -257,9 +259,9 @@ Vervallen
 
 ##### Artikel 15
 
-1. Het is verboden de kleinhandel, met uitzondering van de kleinhandel in condooms en damesverband, of de zelfbedieningsgroothandel of een in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01), genoemde activiteit, uit te oefenen in een lokaliteit behorende tot een inrichting waarin het horecabedrijf wordt uitgeoefend, indien het publiek uitsluitend toegang heeft tot die lokaliteit door een lokaliteit te betreden waar alcoholhoudende drank aanwezig is.
+1. Het is verboden de kleinhandel, met uitzondering van de kleinhandel in condooms en damesverband, of de zelfbedieningsgroothandel of een in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2014-02-15&g=2014-02-15), genoemde activiteit, uit te oefenen in een lokaliteit behorende tot een inrichting waarin het horecabedrijf wordt uitgeoefend, indien het publiek uitsluitend toegang heeft tot die lokaliteit door een lokaliteit te betreden waar alcoholhoudende drank aanwezig is.
 
-2. Het is verboden dat een slijtlokaliteit in verbinding staat met een ruimte waarin de kleinhandel of zelfbedieningsgroothandel of enige in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01), genoemde activiteit wordt uitgeoefend, tenzij is voldaan aan bij algemene maatregel van bestuur te stellen voorschriften.
+2. Het is verboden dat een slijtlokaliteit in verbinding staat met een ruimte waarin de kleinhandel of zelfbedieningsgroothandel of enige in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=14&z=2014-02-15&g=2014-02-15), genoemde activiteit wordt uitgeoefend, tenzij is voldaan aan bij algemene maatregel van bestuur te stellen voorschriften.
 
 ##### Artikel 15a
 
@@ -299,7 +301,7 @@ Vervallen
 
 - a. een niet voor publiek toegankelijke besloten ruimte, waarin overeenkomstige bestellingen plegen te worden aanvaard, niet zijnde een horecalokaliteit;
 
-- b. een ruimte als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-01-01&g=2014-01-01);
+- b. een ruimte als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-02-15&g=2014-02-15);
 
 - c. een inrichting waarin het slijtersbedrijf wordt uitgeoefend.
 
@@ -315,7 +317,7 @@ Vervallen
 
 - b. blijft achterwege, indien het een persoon betreft die onmiskenbaar de vereiste leeftijd heeft bereikt.
 
-4. Bij de voor het publiek bestemde toegang tot een horecalokaliteit, een slijtlokaliteit, een ruimte als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-01-01&g=2014-01-01), of een vervoermiddel waarin bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven welke leeftijdsgrens of leeftijdsgrenzen gelden. Bij regeling van Onze Minister kunnen daaromtrent nadere regels worden gesteld of modellen worden vastgesteld.
+4. Bij de voor het publiek bestemde toegang tot een horecalokaliteit, een slijtlokaliteit, een ruimte als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-02-15&g=2014-02-15), of een vervoermiddel waarin bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven welke leeftijdsgrens of leeftijdsgrenzen gelden. Bij regeling van Onze Minister kunnen daaromtrent nadere regels worden gesteld of modellen worden vastgesteld.
 
 5. Het is verboden in een slijtlokaliteit of horecalokaliteit of op een terras de aanwezigheid toe te laten van een persoon die in kennelijke staat van dronkenschap of kennelijk onder invloed van andere psychotrope stoffen verkeert.
 
@@ -351,35 +353,35 @@ Vervallen
 
 1. Het is verboden een horecalokaliteit of een slijtlokaliteit voor het publiek geopend te houden indien in de inrichting niet aanwezig is:
 
-- a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-01-01&g=2014-01-01), met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of
+- a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-02-15&g=2014-02-15), met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of
 
-- b. een persoon wiens bijschrijving op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01), is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist.
+- b. een persoon wiens bijschrijving op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15), is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist.
 
 2. In afwijking van het eerste lid is het een paracommerciële rechtspersoon verboden een horecalokaliteit, gedurende de tijd dat daar alcoholhoudende drank wordt verstrekt, geopend te houden, indien in de inrichting niet aanwezig is:
 
-- a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-01-01&g=2014-01-01), met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of
+- a. een leidinggevende die vermeld staat op het aanhangsel bij de vergunning, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-02-15&g=2014-02-15), met betrekking tot die inrichting of een andere vergunning van dezelfde vergunninghouder of
 
-- b. een persoon wiens bijschrijving op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01), is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist of
+- b. een persoon wiens bijschrijving op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15), is gevraagd, mits de ontvangst van die aanvraag is bevestigd, zolang nog niet op die aanvraag is beslist of
 
-- c. een barvrijwilliger die een voorlichtingsinstructie als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=9&z=2014-01-01&g=2014-01-01), heeft gekregen.
+- c. een barvrijwilliger die een voorlichtingsinstructie als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=9&z=2014-02-15&g=2014-02-15), heeft gekregen.
 
 3. Het is verboden in een slijtlokaliteit of horecalokaliteit, gedurende de tijd dat daarin dranken worden verstrekt, personen jonger dan 16 jaar dienst te laten doen.
 
-4. Indien dit voor de naleving van [artikel 20, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), noodzakelijk is, kan bij algemene maatregel van bestuur de leeftijd, genoemd in het derde lid, op 18 jaar worden gesteld, met dien verstande dat zulks alsdan niet geldt voor personen die alcoholhoudende drank verstrekken in het kader van een in de maatregel aan te geven beroepsopleiding.
+4. Indien dit voor de naleving van [artikel 20, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), noodzakelijk is, kan bij algemene maatregel van bestuur de leeftijd, genoemd in het derde lid, op 18 jaar worden gesteld, met dien verstande dat zulks alsdan niet geldt voor personen die alcoholhoudende drank verstrekken in het kader van een in de maatregel aan te geven beroepsopleiding.
 
 ##### Artikel 25
 
 1. Het is degene die, anders dan in de rechtmatige uitoefening van het slijtersbedrijf of horecabedrijf, een ruimte voor het publiek geopend houdt, verboden:
 
-- a. in die ruimte alcoholhoudende drank aanwezig te hebben, tenzij dit geschiedt ten dienste van het rechtmatig in die ruimte bedrijfsmatig of anders dan om niet aan particulieren verstrekken van zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse, mits deze drank zich bevindt in een verpakking die voldoet aan de bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=17&z=2014-01-01&g=2014-01-01) gestelde eis;
+- a. in die ruimte alcoholhoudende drank aanwezig te hebben, tenzij dit geschiedt ten dienste van het rechtmatig in die ruimte bedrijfsmatig of anders dan om niet aan particulieren verstrekken van zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse, mits deze drank zich bevindt in een verpakking die voldoet aan de bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=17&z=2014-02-15&g=2014-02-15) gestelde eis;
 
 - b. in de voor het publiek niet toegankelijke delen van die ruimte alcoholhoudende drank in voorraad te hebben, tenzij het betreft:
 
-- 1°. het in voorraad hebben van zwak-alcoholhoudende drank ten dienste van het in de rechtmatige uitoefening van een ander bedrijf dan het slijtersbedrijf bedrijfsmatig aan particulieren verstrekken van deze drank voor gebruik elders dan ter plaatse, mits deze drank zich bevindt in een verpakking die voldoet aan de bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=17&z=2014-01-01&g=2014-01-01) gestelde eis;
+- 1°. het in voorraad hebben van zwak-alcoholhoudende drank ten dienste van het in de rechtmatige uitoefening van een ander bedrijf dan het slijtersbedrijf bedrijfsmatig aan particulieren verstrekken van deze drank voor gebruik elders dan ter plaatse, mits deze drank zich bevindt in een verpakking die voldoet aan de bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=17&z=2014-02-15&g=2014-02-15) gestelde eis;
 
 - 2°. het in voorraad hebben van alcoholhoudende drank ten dienste van het uitoefenen van een bedrijf, waarin waren uit onder meer alcoholhoudende drank plegen te worden vervaardigd.
 
-2. Het is degene die, anders dan in de rechtmatige uitoefening van het horecabedrijf, een ruimte voor publiek geopend houdt, verboden toe te laten dat in die ruimte alcoholhoudende drank wordt genuttigd. Dit verbod geldt niet, indien er sprake is van de uitzondering bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01).
+2. Het is degene die, anders dan in de rechtmatige uitoefening van het horecabedrijf, een ruimte voor publiek geopend houdt, verboden toe te laten dat in die ruimte alcoholhoudende drank wordt genuttigd. Dit verbod geldt niet, indien er sprake is van de uitzondering bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-02-15&g=2014-02-15).
 
 3. Het is degene die een vervoermiddel gebruikt voor het rondtrekkend uitoefenen van de kleinhandel verboden daarin, daarop of daaraan alcoholhoudende drank aanwezig te hebben, tenzij het betreft een vervoermiddel dat wordt gebruikt voor:
 
@@ -391,11 +393,11 @@ Vervallen
 
 ##### Artikel 26
 
-1. Een aanvraag om een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) wordt gesteld op een formulier of een elektronische informatiedrager, die bij regeling van Onze Minister worden vastgesteld.
+1. Een aanvraag om een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15) wordt gesteld op een formulier of een elektronische informatiedrager, die bij regeling van Onze Minister worden vastgesteld.
 
 2. De gemeenteraad kan bij verordening een formulier vaststellen met aanvullende vragen, voor zover hij gebruik maakt van zijn bevoegdheid om:
 
-- a. in een verordening op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) rekening te houden met de aard van de paracommerciële rechtspersoon;
+- a. in een verordening op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-02-15&g=2014-02-15) rekening te houden met de aard van de paracommerciële rechtspersoon;
 
 - b. aan een vergunning voorschriften of beperkingen te verbinden op grond van artikel 25a;
 
@@ -407,15 +409,15 @@ Vervallen
 
 1. Een vergunning wordt geweigerd indien:
 
-- a. niet wordt voldaan aan de ingevolge de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01) geldende eisen;
+- a. niet wordt voldaan aan de ingevolge de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-02-15&g=2014-02-15) geldende eisen;
 
 - b. redelijkerwijs moet worden aangenomen, dat de feitelijke toestand niet met het in de aanvrage vermelde in overeenstemming zal zijn;
 
-- c. [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01), [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-01-01&g=2014-01-01), en [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=32&z=2014-01-01&g=2014-01-01), zich tegen de verlening van de gevraagde vergunning verzet;
+- c. [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=7&z=2014-02-15&g=2014-02-15), [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-02-15&g=2014-02-15), en [artikel 32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=32&z=2014-02-15&g=2014-02-15), zich tegen de verlening van de gevraagde vergunning verzet;
 
-- d. redelijkerwijs moet worden aangenomen dat een of meer van de bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01) en [13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01) gestelde verboden zal worden overtreden of dat in strijd zal worden gehandeld met aan de vergunning verbonden beperkingen of voorschriften.
+- d. redelijkerwijs moet worden aangenomen dat een of meer van de bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=2&z=2014-02-15&g=2014-02-15) en [13 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-02-15&g=2014-02-15) gestelde verboden zal worden overtreden of dat in strijd zal worden gehandeld met aan de vergunning verbonden beperkingen of voorschriften.
 
-2. Een vergunning ten aanzien van een inrichting, waarvan de vergunning op grond van [artikel 31, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-01-01&g=2014-01-01), is ingetrokken, kan gedurende een bij die intrekking vastgestelde termijn van ten hoogste vijf jaar worden geweigerd.
+2. Een vergunning ten aanzien van een inrichting, waarvan de vergunning op grond van [artikel 31, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-02-15&g=2014-02-15), is ingetrokken, kan gedurende een bij die intrekking vastgestelde termijn van ten hoogste vijf jaar worden geweigerd.
 
 3. Een vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -423,7 +425,7 @@ Vervallen
 
 ##### Artikel 28
 
-Een vergunning wordt verleend, indien geen der in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=27&z=2014-01-01&g=2014-01-01) bedoelde weigeringsgronden aanwezig is.
+Een vergunning wordt verleend, indien geen der in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=27&z=2014-02-15&g=2014-02-15) bedoelde weigeringsgronden aanwezig is.
 
 ##### Artikel 29
 
@@ -439,15 +441,15 @@ Een vergunning wordt verleend, indien geen der in [artikel 27](https://wetten.ov
 
 - e. de voorschiften of beperkingen welke aan de vergunning zijn verbonden.
 
-2. De burgemeester vermeldt in een aanhangsel bij de vergunning de leidinggevenden. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01), maakt de burgemeester daaromtrent een aantekening.
+2. De burgemeester vermeldt in een aanhangsel bij de vergunning de leidinggevenden. Ten aanzien van een leidinggevende bij wie sprake is van een situatie als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-02-15&g=2014-02-15), maakt de burgemeester daaromtrent een aantekening.
 
-3. De vergunning en het daarbij behorende aanhangsel, of afschriften daarvan, en in voorkomende gevallen een afschrift van de aanvraag, bedoeld in [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01), en de ontvangstbevestiging, bedoeld in artikel 30a, vierde lid, of een afschrift daarvan, zijn in de inrichting aanwezig.
+3. De vergunning en het daarbij behorende aanhangsel, of afschriften daarvan, en in voorkomende gevallen een afschrift van de aanvraag, bedoeld in [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15), en de ontvangstbevestiging, bedoeld in artikel 30a, vierde lid, of een afschrift daarvan, zijn in de inrichting aanwezig.
 
 4. De vergunning en het aanhangsel worden gesteld op een formulier dat bij regeling van Onze Minister wordt vastgesteld.
 
 ##### Artikel 30
 
-Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in overeenstemming is met de in de vergunning gegeven omschrijving, is de vergunninghouder verplicht bedoelde wijziging binnen één maand bij de burgemeester te melden. De burgemeester verstrekt, indien nog aan de ten aanzien van de inrichting gestelde eisen wordt voldaan, een gewijzigde vergunning, waarin de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-01-01&g=2014-01-01) vereiste omschrijving is aangepast aan de nieuwe situatie.
+Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in overeenstemming is met de in de vergunning gegeven omschrijving, is de vergunninghouder verplicht bedoelde wijziging binnen één maand bij de burgemeester te melden. De burgemeester verstrekt, indien nog aan de ten aanzien van de inrichting gestelde eisen wordt voldaan, een gewijzigde vergunning, waarin de ingevolge [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-02-15&g=2014-02-15) vereiste omschrijving is aangepast aan de nieuwe situatie.
 
 ##### Artikel 31
 
@@ -455,11 +457,11 @@ Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in 
 
 - a. de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvrage een andere beslissing zou zijn genomen, als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
-- b. niet langer wordt voldaan aan de bij of krachtens [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01) geldende eisen;
+- b. niet langer wordt voldaan aan de bij of krachtens [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-02-15&g=2014-02-15) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-02-15&g=2014-02-15) geldende eisen;
 
 - c. zich in de betrokken inrichting feiten hebben voorgedaan, die de vrees wettigen, dat het van kracht blijven der vergunning gevaar zou opleveren voor de openbare orde, veiligheid of zedelijkheid;
 
-- d. de vergunninghouder in de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30&z=2014-01-01&g=2014-01-01) en [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01), eerste lid, bedoelde gevallen geen melding als in die artikelen bedoeld heeft gedaan.
+- d. de vergunninghouder in de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30&z=2014-02-15&g=2014-02-15) en [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15), eerste lid, bedoelde gevallen geen melding als in die artikelen bedoeld heeft gedaan.
 
 2. Een vergunning kan door de burgemeester worden ingetrokken indien de vergunninghouder de bij of krachtens deze wet gestelde regels, dan wel de aan een vergunning of ontheffing verbonden voorschriften en beperkingen, niet nakomt.
 
@@ -467,15 +469,15 @@ Indien een inrichting een zodanige verandering ondergaat dat zij niet langer in 
 
 - a. er sprake is van het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3). Voordat daaraan toepassing wordt gegeven, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van voornoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd;
 
-- b. een vergunninghouder in een periode van twee jaar ten minste drie maal op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-01-01&g=2014-01-01), om bijschrijving van een persoon op het aanhangsel bij de vergunning heeft verzocht en de burgemeester die wijziging van het aanhangsel ten minste driemaal heeft geweigerd op grond van artikel 30a, vijfde lid.
+- b. een vergunninghouder in een periode van twee jaar ten minste drie maal op grond van [artikel 30a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=30a&z=2014-02-15&g=2014-02-15), om bijschrijving van een persoon op het aanhangsel bij de vergunning heeft verzocht en de burgemeester die wijziging van het aanhangsel ten minste driemaal heeft geweigerd op grond van artikel 30a, vijfde lid.
 
-4. Indien een vergunning is ingetrokken omdat is gehandeld in strijd met de voorschriften en beperkingen verbonden aan de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) of 25a, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.
+4. Indien een vergunning is ingetrokken omdat is gehandeld in strijd met de voorschriften en beperkingen verbonden aan de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-02-15&g=2014-02-15) of 25a, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.
 
 ##### Artikel 32
 
-1. Een vergunning kan in de gevallen bedoeld in [artikel 31, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-01-01&g=2014-01-01), door de burgemeester worden geschorst voor een periode van ten hoogste 12 weken.
+1. Een vergunning kan in de gevallen bedoeld in [artikel 31, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-02-15&g=2014-02-15), door de burgemeester worden geschorst voor een periode van ten hoogste 12 weken.
 
-2. Tijdens de schorsing verleent de burgemeester de vergunninghouder geen nieuwe vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01).
+2. Tijdens de schorsing verleent de burgemeester de vergunninghouder geen nieuwe vergunning op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15).
 
 ##### Artikel 33
 
@@ -489,13 +491,13 @@ Een vergunning vervalt, wanneer:
 
 ##### Artikel 34
 
-Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen heeft ten aanzien van het krachtens [artikel 31, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-01-01&g=2014-01-01), of [33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=33&z=2014-01-01&g=2014-01-01), intrekken of vervallen van de vergunning een opschortende werking tot het tijdstip waarop het faillissement onderscheidenlijk de toepassing van de schuldsaneringsregeling eindigt.
+Een faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen heeft ten aanzien van het krachtens [artikel 31, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-02-15&g=2014-02-15), of [33, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=33&z=2014-02-15&g=2014-02-15), intrekken of vervallen van de vergunning een opschortende werking tot het tijdstip waarop het faillissement onderscheidenlijk de toepassing van de schuldsaneringsregeling eindigt.
 
 #### § 5. Ontheffing
 
 ##### Artikel 35
 
-1. De burgemeester kan ten aanzien van het verstrekken van zwak-alcoholhoudende drank op aanvraag ontheffing verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) voor de uitoefening van het horecabedrijf gestelde verbod, bij een in de beschikking aangewezen bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen, mits de verstrekking geschiedt onder onmiddellijke leiding van een persoon die:
+1. De burgemeester kan ten aanzien van het verstrekken van zwak-alcoholhoudende drank op aanvraag ontheffing verlenen van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15) voor de uitoefening van het horecabedrijf gestelde verbod, bij een in de beschikking aangewezen bijzondere gelegenheid van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen, mits de verstrekking geschiedt onder onmiddellijke leiding van een persoon die:
 
 - a. de leeftijd van eenentwintig jaar heeft bereikt;
 
@@ -505,13 +507,13 @@ De naam van deze persoon staat op de ontheffing vermeld.
 
 2. Een ontheffing kan onder beperkingen worden verleend; aan een ontheffing kunnen voorschriften worden verbonden.
 
-3. Ten aanzien van een ontheffing is [artikel 31, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-01-01&g=2014-01-01), van overeenkomstige toepassing.
+3. Ten aanzien van een ontheffing is [artikel 31, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=31&z=2014-02-15&g=2014-02-15), van overeenkomstige toepassing.
 
 4. De ontheffing, of een afschrift daarvan, is ter plaatse aanwezig.
 
-5. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste lid.
-
 5. Een burgemeester kan naar aanleiding van een aanvraag voor ontheffingen als bedoeld in dit artikel, voor jaarlijks terugkerende identieke bijzondere gelegenheden van zeer tijdelijke aard, besluiten één ontheffing te verlenen, mits de verstrekking van zwak-alcoholhoudende drank telkenmale geschiedt onder onmiddellijke leiding van dezelfde persoon.
+
+6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een ontheffing als bedoeld in dit artikel.
 
 #### § 6. Overige bepalingen
 
@@ -545,19 +547,19 @@ Voor zover in deze wet niet anders is bepaald, kunnen ten aanzien van de onderwe
 
 - b. in een gemeente: de door de burgemeester van die gemeente aangewezen ambtenaren.
 
-2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties:
+2. Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Veiligheid en Justitie:
 
 - a. wordt de taakverdeling tussen de ambtenaren, behorende tot de onderscheidene in het eerste lid bedoelde categorieën geregeld;
 
-- b. kunnen eisen omtrent de opleiding van die ambtenaren worden gesteld.
+- b. kunnen aanstellings- en opleidingseisen voor die ambtenaren worden gesteld.
 
 ##### Artikel 42
 
-De in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2014-01-01&g=2014-01-01) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, waar bedrijfsmatig of anders dan om niet alcoholhoudende drank aan particulieren wordt verstrekt of waar naar hun redelijk vermoeden zodanige verstrekking plaatsvindt.
+De in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2014-02-15&g=2014-02-15) bedoelde ambtenaren zijn bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner, waar bedrijfsmatig of anders dan om niet alcoholhoudende drank aan particulieren wordt verstrekt of waar naar hun redelijk vermoeden zodanige verstrekking plaatsvindt.
 
 ##### Artikel 43
 
-Van een besluit als bedoeld in [artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2014-01-01&g=2014-01-01) wordt mededeling gedaan door plaatsing in de Staatscourant.
+Van een besluit als bedoeld in [artikel 41, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=7&artikel=41&z=2014-02-15&g=2014-02-15) wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 44
 
@@ -577,7 +579,7 @@ Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang t
 
 ##### Artikel 46
 
-1. Indien de tot een inrichting behorende lokaliteiten die op 30 september 1967 in gebruik waren voor de verstrekking van alcoholhoudende drank in de uitoefening van het horecabedrijf of slijtersbedrijf, toen wel voldeden aan de ingevolge de Drankwet (Stb. 1931, 476) met betrekking tot hun afmetingen geldende eisen maar niet in overeenstemming zijn met de eisen, ter zake van de afmetingen van lokaliteiten voor die uitoefening gesteld krachtens [artikel 10 van de onderhavige wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01), worden zij nochtans geacht aan de ingevolge dat artikel voor de uitoefening van dat bedrijf geldende afmetingseisen te voldoen.
+1. Indien de tot een inrichting behorende lokaliteiten die op 30 september 1967 in gebruik waren voor de verstrekking van alcoholhoudende drank in de uitoefening van het horecabedrijf of slijtersbedrijf, toen wel voldeden aan de ingevolge de Drankwet (Stb. 1931, 476) met betrekking tot hun afmetingen geldende eisen maar niet in overeenstemming zijn met de eisen, ter zake van de afmetingen van lokaliteiten voor die uitoefening gesteld krachtens [artikel 10 van de onderhavige wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-02-15&g=2014-02-15), worden zij nochtans geacht aan de ingevolge dat artikel voor de uitoefening van dat bedrijf geldende afmetingseisen te voldoen.
 
 2. Het eerste lid geldt niet:
 
@@ -587,7 +589,7 @@ Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang t
 
 3. Het tweede lid, onder a, is niet van toepassing:
 
-- a. met betrekking tot verkleiningen, strekkende tot aanpassing van de inrichting aan ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01) geldende, andere dan de in het eerste lid bedoelde eisen;
+- a. met betrekking tot verkleiningen, strekkende tot aanpassing van de inrichting aan ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=10&z=2014-02-15&g=2014-02-15) geldende, andere dan de in het eerste lid bedoelde eisen;
 
 - b. met betrekking tot wijzigingen ten aanzien waarvan Onze Minister, van oordeel zijnde dat daartegen uit het oogpunt van sociale hygiëne geen overwegende bezwaren bestaan, op aanvrage van de ondernemer die bepaling buiten toepassing heeft verklaard.
 
@@ -595,13 +597,13 @@ Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang t
 
 ##### Artikel 47
 
-1. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01) gestelde verbod geldt tot een door Ons te bepalen tijdstip niet voor degene, die op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse en sterke drank voor gebruik elders dan ter plaatse verstrekte in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende volledige vergunning gold, voor zover het die lokaliteit betreft.
+1. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-02-15&g=2014-02-15) gestelde verbod geldt tot een door Ons te bepalen tijdstip niet voor degene, die op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse en sterke drank voor gebruik elders dan ter plaatse verstrekte in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende volledige vergunning gold, voor zover het die lokaliteit betreft.
 
-2. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01) gestelde verbod geldt tot een door Ons te bepalen tijdstip voorts niet voor degene, die in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende vergunning of verleend verlof A gold, op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse verstrekte en tevens bedrijfsmatig aan particulieren zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse verstrekte, voor zover het betreft het gelijktijdig in gebruik hebben van die lokaliteit voor het bedrijfsmatig verstrekken van alcoholhoudende drank voor gebruik ter plaatse en voor het bedrijfsmatig aan particulieren verstrekken van zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse.
+2. Het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=13&z=2014-02-15&g=2014-02-15) gestelde verbod geldt tot een door Ons te bepalen tijdstip voorts niet voor degene, die in een lokaliteit, waarvoor een op grond van de Drankwet (Stb. 1931, 476) verleende vergunning of verleend verlof A gold, op 30 september 1967 feitelijk alcoholhoudende drank voor gebruik ter plaatse verstrekte en tevens bedrijfsmatig aan particulieren zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse verstrekte, voor zover het betreft het gelijktijdig in gebruik hebben van die lokaliteit voor het bedrijfsmatig verstrekken van alcoholhoudende drank voor gebruik ter plaatse en voor het bedrijfsmatig aan particulieren verstrekken van zwak-alcoholhoudende drank voor gebruik elders dan ter plaatse.
 
 ##### Artikel 48
 
-[Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=9&artikel=47&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing voor degene, die op 1 november 1967 feitelijk een horecabedrijf of slijtersbedrijf uitoefende:
+[Artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=9&artikel=47&z=2014-02-15&g=2014-02-15) is van overeenkomstige toepassing voor degene, die op 1 november 1967 feitelijk een horecabedrijf of slijtersbedrijf uitoefende:
 
 - a. met gebruikmaking van een op hem krachtens artikel 29, eerste lid, van de Drankwet (Stb. 1931, 476) overgeschreven vergunning of verlof A van een persoon, die dat bedrijf feitelijk uitoefende op 30 september 1967, of
 
@@ -615,7 +617,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 44a
 
-1. De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01), [9, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=9&z=2014-01-01&g=2014-01-01), [12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=12&z=2014-01-01&g=2014-01-01), [20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=22&z=2014-01-01&g=2014-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-01-01&g=2014-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=25&z=2014-01-01&g=2014-01-01), behoudens het derde lid, [25a tot en met 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25a&z=2014-01-01&g=2014-01-01), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-01-01&g=2014-01-01), [35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=5&artikel=35&z=2014-01-01&g=2014-01-01), of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=6&artikel=38&z=2014-01-01&g=2014-01-01) gestelde.
+1. De burgemeester kan een bestuurlijke boete opleggen ter zake van overtreding binnen zijn gemeente van het bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=4&z=2014-02-15&g=2014-02-15), [9, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=9&z=2014-02-15&g=2014-02-15), [12 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=12&z=2014-02-15&g=2014-02-15), [20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=22&z=2014-02-15&g=2014-02-15), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-02-15&g=2014-02-15), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=25&z=2014-02-15&g=2014-02-15), behoudens het derde lid, [25a tot en met 25d](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3a&artikel=25a&z=2014-02-15&g=2014-02-15), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=4&artikel=29&z=2014-02-15&g=2014-02-15), [35, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=5&artikel=35&z=2014-02-15&g=2014-02-15), of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=6&artikel=38&z=2014-02-15&g=2014-02-15) gestelde.
 
 2. De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste € 100 000 bedraagt.
 
@@ -625,7 +627,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. de in de bijlage ter zake van de overtreding voorziene bestuurlijke boete aanmerkelijk wordt overschreden door het met de overtreding behaalde economisch voordeel; of
 
-- c. door de burgemeester toepassing is gegeven aan [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19a&z=2014-01-01&g=2014-01-01).
+- c. door de burgemeester toepassing is gegeven aan [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19a&z=2014-02-15&g=2014-02-15).
 
 4. De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt, indien ter zake van de overtreding op grond waarvan de bestuurlijke boete kan worden opgelegd door de burgemeester aan de vergunninghouder schriftelijk mededeling is gedaan van het voornemen de vergunning in te trekken.
 
@@ -675,7 +677,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 19a
 
-1. De burgemeester kan de natuurlijke persoon of de rechtspersoon die een bedrijf exploiteert als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-01-01&g=2014-01-01), of [artikel 19, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19&z=2014-01-01&g=2014-01-01), en die in een periode van 12 maanden drie maal [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), heeft overtreden, de bevoegdheid ontzeggen zwak-alcoholhoudende drank te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
+1. De burgemeester kan de natuurlijke persoon of de rechtspersoon die een bedrijf exploiteert als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-02-15&g=2014-02-15), of [artikel 19, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19&z=2014-02-15&g=2014-02-15), en die in een periode van 12 maanden drie maal [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), heeft overtreden, de bevoegdheid ontzeggen zwak-alcoholhoudende drank te verkopen vanaf de locatie waar bedoeld gedrag heeft plaatsgevonden.
 
 2. De ontzegging wordt opgelegd voor ten minste een week en ten hoogste 12 weken.
 
@@ -691,7 +693,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. het verbod slechts geldt voor inrichtingen van een bij die verordening aangewezen aard, in bij die verordening aangewezen delen van de gemeente of voor een bij die verordening aangewezen tijdsruimte;
 
-- b. de burgemeester volgens bij die verordening te stellen regels voorschriften aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) kan verbinden en de vergunning kan beperken tot het verstrekken van zwak-alcoholhoudende drank.
+- b. de burgemeester volgens bij die verordening te stellen regels voorschriften aan een vergunning als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=3&z=2014-02-15&g=2014-02-15) kan verbinden en de vergunning kan beperken tot het verstrekken van zwak-alcoholhoudende drank.
 
 ##### Artikel 25b
 
@@ -701,11 +703,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - a. het verbod slechts geldt voor horecalokaliteiten en terrassen van een bij die verordening aangewezen aard, in bij die verordening aangewezen delen van de gemeente of voor een bij die verordening aangewezen tijdsruimte;
 
-- b. de leeftijd van degene die wenst te worden toegelaten, wordt vastgesteld op de in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), bedoelde wijze.
+- b. de leeftijd van degene die wenst te worden toegelaten, wordt vastgesteld op de in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), bedoelde wijze.
 
 ##### Artikel 25c
 
-1. Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van zwak-alcoholhoudende drank in of vanuit locaties als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-01-01&g=2014-01-01), of [artikel 19, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19&z=2014-01-01&g=2014-01-01), worden verboden of aan beperkingen worden onderworpen. Een dergelijk verbod of beperking heeft slechts betrekking op een beperkte tijdsruimte.
+1. Bij gemeentelijke verordening kan het bedrijfsmatig of anders dan om niet verstrekken van zwak-alcoholhoudende drank in of vanuit locaties als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=18&z=2014-02-15&g=2014-02-15), of [artikel 19, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=19&z=2014-02-15&g=2014-02-15), worden verboden of aan beperkingen worden onderworpen. Een dergelijk verbod of beperking heeft slechts betrekking op een beperkte tijdsruimte.
 
 2. Bij zodanige verordening kan worden bepaald dat het verbod slechts geldt in bij die verordening aangewezen delen van de gemeente.
 
@@ -737,7 +739,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 5. De burgemeester weigert de wijziging van het aanhangsel:
 
-- a. indien de persoon bedoeld in het eerste lid, niet voldoet aan de bij of krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01) gestelde eisen;
+- a. indien de persoon bedoeld in het eerste lid, niet voldoet aan de bij of krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=8&z=2014-02-15&g=2014-02-15) gestelde eisen;
 
 - b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
@@ -753,11 +755,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het gestelde bij of krachtens:
 
-- a. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01) en [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=25&z=2014-01-01&g=2014-01-01), waar ook te lande gepleegd;
+- a. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=2&artikel=2&z=2014-02-15&g=2014-02-15) en [25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=25&z=2014-02-15&g=2014-02-15), waar ook te lande gepleegd;
 
-- b. de [artikelen 20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-01-01&g=2014-01-01), en [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-01-01&g=2014-01-01), gepleegd in of op de in [artikel 1, derde lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=1&artikel=1&z=2014-01-01&g=2014-01-01), genoemde vervoermiddelen, legerplaatsen en lokaliteiten, die aan het militair gezag onderworpen zijn, en op luchtvaartterreinen gelegen winkels.
+- b. de [artikelen 20, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=20&z=2014-02-15&g=2014-02-15), en [24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=3&artikel=24&z=2014-02-15&g=2014-02-15), gepleegd in of op de in [artikel 1, derde lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=1&artikel=1&z=2014-02-15&g=2014-02-15), genoemde vervoermiddelen, legerplaatsen en lokaliteiten, die aan het militair gezag onderworpen zijn, en op luchtvaartterreinen gelegen winkels.
 
-2. [Artikel 44a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=8&artikel=44a&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+2. [Artikel 44a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&paragraaf=8&artikel=44a&z=2014-02-15&g=2014-02-15), is van overeenkomstige toepassing.
 
 3. De boete komt toe aan de staat.
 
