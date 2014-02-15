@@ -4,7 +4,7 @@ identifier: "BWBR0027338"
 country: "nl"
 rank: "wet"
 publication_date: "2014-02-15"
-last_updated: "2010-08-01"
+last_updated: "2014-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027338"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op de jeugdzorg.
 
 ##### Artikel II
 
-Onze Minister voor Jeugd en Gezin zendt binnen vier jaar na de inwerkingtreding van het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0027338&artikel=I&z=2010-08-01&g=2010-08-01), opgenomen [Hoofdstuk IA, paragraaf 4, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&paragraaf=4) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat hoofdstuk in de praktijk. Onverminderd het bepaalde in de eerste volzin zendt Onze Minister voor Jeugd en Gezin binnen twee jaar na de inwerkingtreding aan de Staten-Generaal een verslag over het gebruik van de verwijsindex door meldingsbevoegden als bedoeld in [artikel 2b van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=2b).
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen vier jaar na de inwerkingtreding van het in [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0027338&artikel=I&z=2014-02-15&g=2014-02-15), opgenomen [Hoofdstuk IA, paragraaf 4, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&paragraaf=4) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dat hoofdstuk in de praktijk. Onverminderd het bepaalde in de eerste volzin zendt Onze Minister van Volksgezondheid, Welzijn en Sport binnen twee jaar na de inwerkingtreding aan de Staten-Generaal een verslag over het gebruik van de verwijsindex door meldingsbevoegden als bedoeld in [artikel 2b van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=2b).
 
 ##### Artikel III
 
