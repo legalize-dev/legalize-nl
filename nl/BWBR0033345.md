@@ -4,7 +4,7 @@ identifier: "BWBR0033345"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-03-07"
-last_updated: "2014-01-01"
+last_updated: "2014-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033345"
 soort: "ministeriele-regeling"
@@ -62,13 +62,13 @@ Voor de toepassing van deze beleidsregels wordt verstaan onder tolken: zij die d
 
 4a. Indien de tolk niet op de afgesproken aanvangstijd telefonisch wordt benaderd, kan hij de afspraak na 15 minuten als geannuleerd beschouwen. De tolk heeft hierbij recht op een vergoeding zoals hieronder vermeld.
 
-Indien met de tolk een eindtijd voor een telefonische tolkdienst is overeengekomen, dan heeft de tolk bij annulering recht op een vergoeding van de tolktijd. Indien geen eindtijd is overeengekomen vanwege de aard van het gehoor, dan geldt de annuleringsregeling bedoeld in [art. 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=3&z=2013-05-01&g=2014-01-01) en heeft de tolk recht op een vergoeding van een uur werktijd.
+Indien met de tolk een eindtijd voor een telefonische tolkdienst is overeengekomen, dan heeft de tolk bij annulering recht op een vergoeding van de tolktijd. Indien geen eindtijd is overeengekomen vanwege de aard van het gehoor, dan geldt de annuleringsregeling bedoeld in [art. 3 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=3&z=2014-02-15&g=2014-02-15) en heeft de tolk recht op een vergoeding van een uur werktijd.
 
 4b. Indien de tolk om welke reden dan ook niet bereikbaar blijkt op de afgesproken aanvangstijd van de tolkdienst vervalt het recht op vergoeding voor deze tolkdienst.
 
 ##### Artikel 4
 
-De vergoeding voor de tolkwerkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=2&z=2013-05-01&g=2014-01-01), wordt met de helft verhoogd voor werkzaamheden die worden verricht op:
+De vergoeding voor de tolkwerkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=2&z=2014-02-15&g=2014-02-15), wordt met de helft verhoogd voor werkzaamheden die worden verricht op:
 
 - a. zaterdag;
 
@@ -84,13 +84,13 @@ Voor tolkwerkzaamheden bij beroepsprocedures wordt de geplande tijd uitbetaald, 
 
 ##### Artikel 6
 
-1. Voor het totale aantal reisuren, verminderd met één uur, tussen het GBA-adres van de tolk, dan wel het adres waar de voorafgaande opdracht van de Immigratie- en Naturalisatiedienst is verricht wanneer er direct is doorgereisd, en de plaats van gehoor van de vreemdeling, geldt per reisuur een vergoeding van 50% van het tarief waarvoor de tolk werkt. Ook indien de tolk op één dag op meerdere plaatsen van gehoor werkzaam is, wordt voor die dag maximaal één uur in mindering gebracht op het totale aantal reisuren.
+1. Voor het totale aantal reisuren, verminderd met één uur, tussen het BRP-adres van de tolk, dan wel het adres waar de voorafgaande opdracht van de Immigratie- en Naturalisatiedienst is verricht wanneer er direct is doorgereisd, en de plaats van gehoor van de vreemdeling, geldt per reisuur een vergoeding van 50% van het tarief waarvoor de tolk werkt. Ook indien de tolk op één dag op meerdere plaatsen van gehoor werkzaam is, wordt voor die dag maximaal één uur in mindering gebracht op het totale aantal reisuren.
 
-2. Als basis voor de reistijdberekening geldt bij een reis met eigen vervoer de reistijd volgens de weergave van de snelste route volgens de ANWB-routeplanner en bij een reis met het openbaar vervoer de website 9292ov.nl.
+2. Als basis voor de reistijdberekening geldt bij een reis met eigen vervoer de reisafstand tussen de coördinaten van de in het eerste lid genoemde adressen, zoals vastgesteld door Google Maps en bij een reis met het openbaar vervoer de snelste route volgens de website 9292ov.nl.
 
 ##### Artikel 7
 
-Indien de reisuren zijn gemaakt als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=6&z=2013-05-01&g=2014-01-01) voor werkzaamheden die worden verricht op de dagen c.q. tijden als genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=4&z=2013-05-01&g=2014-01-01), dan wordt het bedrag voor de reiskostenvergoeding waarop de tolk recht heeft met 50% verhoogd.
+Indien de reisuren zijn gemaakt als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=6&z=2014-02-15&g=2014-02-15) voor werkzaamheden die worden verricht op de dagen c.q. tijden als genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=4&z=2014-02-15&g=2014-02-15), dan wordt het bedrag voor de reiskostenvergoeding waarop de tolk recht heeft met 50% verhoogd.
 
 ##### Artikel 8
 
@@ -98,11 +98,11 @@ Indien de reisuren zijn gemaakt als bedoeld in [artikel 6](https://wetten.overhe
 
 2. Indien de Immigratie- en Naturalisatiedienst vaststelt dat een opdrachtlocatie per openbaar vervoer slecht bereikbaar is kan de Immigratie- en Naturalisatiedienst, in afwijking van het eerste lid, een andere reiskostenvergoeding vaststellen.
 
-3. De tolk heeft in het kader van een tolkopdracht niet zijnde een telefonische tolkdienst recht op een reiskostenvergoeding van zijn woonadres (GBA-registratie) naar de IND-locatie en vice versa.
+3. De tolk heeft in het kader van een tolkopdracht niet zijnde een telefonische tolkdienst recht op een reiskostenvergoeding van zijn woonadres (BRP-registratie) naar de IND-locatie en vice versa.
 
-3a. In afwijking van lid 3, ontvangt de tolk indien hij op één dag op meerdere IND-locaties wordt ingezet, een reiskostenvergoeding van zijn woonadres (GBA-registratie) naar de eerste IND-locatie, vervolgens van deze IND-locatie naar de volgende IND-locatie met als eindpunt zijn woonadres (GBA-registratie).
+4. In afwijking van lid 3, ontvangt de tolk indien hij op één dag op meerdere IND-locaties wordt ingezet, een reiskostenvergoeding van zijn woonadres (BRP-registratie) naar de eerste IND-locatie, vervolgens van deze IND-locatie naar de volgende IND-locatie met als eindpunt zijn woonadres (BRP-registratie).
 
-4. In afwijking van lid 3, ontvangt de tolk indien met de IND is overeengekomen dat de tolk gebruik zal maken van een overnachtingsmogelijkheid in de nabijheid van IND-locatie Ter Apel, in het geval dat de tolk op achtereenvolgende dagen een tolkopdracht uitvoert op deze IND-locatie, voor de opeenvolgende dagen waarop hij op de IND-locatie werkzaam is een reiskostenvergoeding voor slechts één heenreis van zijn woonadres (GBA-registratie) en slechts één terugreis van de IND-locatie naar zijn woonadres (GBA-locatie)
+5. In afwijking van lid 3, ontvangt de tolk indien met de IND is overeengekomen dat de tolk gebruik zal maken van een overnachtingsmogelijkheid in de nabijheid van IND-locatie Ter Apel, in het geval dat de tolk op achtereenvolgende dagen een tolkopdracht uitvoert op deze IND-locatie, voor de opeenvolgende dagen waarop hij op de IND-locatie werkzaam is een reiskostenvergoeding voor slechts één heenreis van zijn woonadres (BRP-registratie) en slechts één terugreis van de IND-locatie naar zijn woonadres (BRP-registratie)
 
 ##### Artikel 9
 
@@ -110,13 +110,13 @@ Indien de reisuren zijn gemaakt als bedoeld in [artikel 6](https://wetten.overhe
 
 2. De tolk heeft naast de vergoeding, bedoeld in het eerste lid, recht op een dagvergoeding vanaf de dag van vertrek naar het buitenland tot aan terugkomst in Nederland, conform de regeling ‘Daily Subsistence allowances for countries in the European Union’ van het ministerie van Buitenlandse Zaken, geldend op de dag van vertrek.
 
-3. De tolk heeft naast de vergoedingen, bedoeld in het eerste en tweede lid, tevens recht op een reiskostenvergoeding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=6&z=2013-05-01&g=2014-01-01) en het eerste lid van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=8&z=2013-05-01&g=2014-01-01) voor de reis van zijn woonadres (GBA-registratie) naar de luchthaven en vice versa.
+3. De tolk heeft naast de vergoedingen, bedoeld in het eerste en tweede lid, tevens recht op een reiskostenvergoeding, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=6&z=2014-02-15&g=2014-02-15) en het eerste lid van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=8&z=2014-02-15&g=2014-02-15) voor de reis van zijn woonadres (BRP-registratie) naar de luchthaven en vice versa.
 
 4. Indien de tolk in de situatie, bedoeld in het derde lid, gebruik maakt van de mogelijkheid ‘Lang parkeren’ op de luchthaven, dan worden deze kosten vergoed op basis van de werkelijk gemaakte kosten met een maximum van drie dagen.
 
 5. Indien op verzoek van de Immigratie- en Naturalisatiedienst een dienstreis wordt gemaakt, reserveert en betaalt de Immigratie- en Naturalisatiedienst het vliegticket en de hotelkamer voor de tolk.
 
-6. Om in aanmerking te komen voor uitbetaling van de vergoedingen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=8&z=2013-05-01&g=2014-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=9&z=2013-05-01&g=2014-01-01) dient de tolk een factuur, met de betreffende instapkaarten en bonnen, uiterlijk 14 dagen na terugkomst, in te leveren bij de Immigratie- en Naturalisatiedienst.
+6. Om in aanmerking te komen voor uitbetaling van de vergoedingen, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=8&z=2014-02-15&g=2014-02-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033345&artikel=9&z=2014-02-15&g=2014-02-15) dient de tolk een factuur, met de betreffende instapkaarten en bonnen, uiterlijk 14 dagen na terugkomst, in te leveren bij de Immigratie- en Naturalisatiedienst.
 
 ##### Artikel 10
 
