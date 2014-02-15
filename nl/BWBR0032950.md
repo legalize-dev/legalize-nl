@@ -4,7 +4,7 @@ identifier: "BWBR0032950"
 country: "nl"
 rank: "wet"
 publication_date: "2014-02-15"
-last_updated: "2013-07-01"
+last_updated: "2014-02-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032950"
 soort: "wet"
@@ -53,23 +53,33 @@ Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Wijzigt de Wet Landelijk Bureau Inning Onderhoudsbijdragen.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Wijzigt de Uitvoeringswet internationale kinderbescherming.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Wijzigt de Wet opneming buitenlandse kinderen ter adoptie.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Op een ouderbijdrage die door het Landelijk Bureau Inning Onderhoudsbijdragen is vastgesteld op een tijdstip voor inwerkingtreding van deze wet blijft [hoofdstuk XIII van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&hoofdstuk=XIII) zoals dat tot de datum van inwerkingtreding van deze wet luidde van toepassing.
 
 ##### Artikel VIII
 
@@ -85,7 +95,9 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2013/560.
+
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XII
 
