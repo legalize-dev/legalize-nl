@@ -4,7 +4,7 @@ identifier: "BWBR0033649"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-19"
-last_updated: "2013-07-12"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033649"
 soort: "ministeriele-regeling"
@@ -60,7 +60,7 @@ Het [Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Leefom
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met de datum van inwerkingtreding van de artikelen, bedoeld in [artikel 1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0033649&artikel=1&z=2013-07-12&g=2013-07-12).
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met de datum van inwerkingtreding van de artikelen, bedoeld in [artikel 1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0033649&artikel=1&z=2013-07-12&g=2014-02-19).
 
 ##### Artikel 4
 
