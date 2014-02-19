@@ -4,7 +4,7 @@ identifier: "BWBR0020586"
 country: "nl"
 rank: "wet"
 publication_date: "2025-11-21"
-last_updated: "2014-01-25"
+last_updated: "2014-02-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020586"
 soort: "wet"
@@ -135,7 +135,7 @@ De Autoriteit Consument en Markt is belast met de handhaving van de wettelijke b
 
 ##### Artikel 2.7
 
-Deze paragraaf heeft, met uitzondering van [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), uitsluitend betrekking op overtredingen van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage bij deze wet.
+Deze paragraaf heeft, met uitzondering van [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), uitsluitend betrekking op overtredingen van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage bij deze wet.
 
 ##### Artikel 2.8
 
@@ -161,7 +161,7 @@ Deze paragraaf heeft, met uitzondering van [artikel 2.10, tweede lid](https://we
 
 1. Op het opleggen van een last onder dwangsom krachtens deze paragraaf zijn de [artikelen 5:48 tot en met 5:51 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
 
-2. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen, die strekt tot verzekering van de medewerking die krachtens [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan worden gevorderd bij de uitoefening van de bevoegdheden van de toezichthouders, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25).
+2. De Autoriteit Consument en Markt kan een last onder dwangsom opleggen, die strekt tot verzekering van de medewerking die krachtens [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) kan worden gevorderd bij de uitoefening van de bevoegdheden van de toezichthouders, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19).
 
 3. Aan een last onder dwangsom, opgelegd krachtens deze paragraaf, kunnen voorschriften worden verbonden die redelijkerwijs noodzakelijk zijn om effectieve controle op de uitvoering van de last te verzekeren.
 
@@ -183,7 +183,7 @@ Vervallen
 
 ##### Artikel 2.15
 
-De bestuurlijke boete, bedoeld in de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-01-25&g=2014-01-25) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2014-01-25&g=2014-01-25) bedraagt ten hoogste € 450.000.
+De bestuurlijke boete, bedoeld in de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-02-19&g=2014-02-19) en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.9&z=2014-02-19&g=2014-02-19) bedraagt ten hoogste € 450.000.
 
 ##### Artikel 2.16
 
@@ -225,7 +225,7 @@ Vervallen
 
 ##### Artikel 2.24
 
-Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2014-01-25&g=2014-01-25) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&z=2014-01-25&g=2014-01-25) van deze wet maakt de Autoriteit Consument en Markt alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.
+Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde autoriteiten en andere overheidsinstanties als bedoeld in [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&z=2014-02-19&g=2014-02-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&z=2014-02-19&g=2014-02-19) van deze wet maakt de Autoriteit Consument en Markt alleen openbaar met toestemming van de desbetreffende autoriteit of instantie.
 
 ### Hoofdstuk 3. Andere bevoegde autoriteiten
 
@@ -241,13 +241,13 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 1. De bij besluit van de Autoriteit Financiële Markten aangewezen personen zijn belast met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in de onderdelen a, c en d van de bijlage bij deze wet, voor zover de overtreding betrekking heeft op een financiële dienst of activiteit. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-2. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25) en [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) zijn van overeenkomstige toepassing.
+2. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19) en [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.3
 
 1. De Stichting Autoriteit Financiële Markten kan een verzoekschrift als bedoeld in [artikel 305d van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305d) indienen indien naar haar oordeel sprake is van een overtreding van een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage bij deze wet, en de overtreding betrekking heeft op een financiële dienst of activiteit.
 
-2. De [artikelen 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-01-25&g=2014-01-25), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-01-25&g=2014-01-25), zijn van overeenkomstige toepassing.
+2. De [artikelen 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-02-19&g=2014-02-19), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-02-19&g=2014-02-19), zijn van overeenkomstige toepassing.
 
 ##### Artikel 3.4
 
@@ -259,7 +259,7 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 2. Met betrekking tot de toepassing van het eerste lid:
 
-- a. zijn de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-01-25&g=2014-01-25), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) van overeenkomstige toepassing; en
+- a. zijn de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-02-19&g=2014-02-19), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) van overeenkomstige toepassing; en
 
 - b. zijn [artikel 1:81 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:81) van overeenkomstige toepassing.
 
@@ -269,7 +269,7 @@ Gegevens die de Autoriteit Consument en Markt verkrijgt van andere bevoegde auto
 
 - b. een last onder dwangsom opleggen.
 
-4. Met betrekking tot de toepassing van het derde lid zijn de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-01-25&g=2014-01-25), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.15&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25), [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) en [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-01-25&g=2014-01-25), van overeenkomstige toepassing.
+4. Met betrekking tot de toepassing van het derde lid zijn de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.8&z=2014-02-19&g=2014-02-19), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.15&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19), [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) en [4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-02-19&g=2014-02-19), van overeenkomstige toepassing.
 
 #### § 2. Het Staatstoezicht op de volksgezondheid
 
@@ -287,7 +287,7 @@ Het Staatstoezicht op de volksgezondheid wordt aangewezen als bevoegde autoritei
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) zijn van overeenkomstige toepassing.
 
 4. Wat betreft de hoogte van de bestuurlijke boete is het [eerste lid van artikel 101 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=101) van overeenkomstige toepassing.
 
@@ -307,7 +307,7 @@ Het Commissariaat voor de Media wordt aangewezen als bevoegde autoriteit voor in
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) zijn van overeenkomstige toepassing.
 
 4. De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [7.19 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.19) zijn van overeenkomstige toepassing.
 
@@ -321,13 +321,13 @@ De Inspectie Verkeer en Waterstaat wordt aangewezen als bevoegde autoriteit voor
 
 1. Met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel g van de bijlage bij deze wet, zijn belast de bij besluit van Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-2. Onze Minister van Infrastructuur en Milieu kan, indien naar zijn oordeel een intracommunautaire inbreuk op een van de bepalingen van Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2004, L 364) of een overtreding van een van de bepalingen van Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010, L 334) heeft plaatsgevonden:
+2. Onze Minister van Infrastructuur en Milieu kan, indien naar zijn oordeel een intercommunautaire inbreuk op een van de bepalingen van Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2004, L364), een intercommunautaire inbreuk op een van de bepalingen van Verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2011, L 55) of een inbreuk op een van de bepalingen van Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010, L 334) heeft plaatsgevonden:
 
 - a. een bestuurlijke boete opleggen;
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) zijn van overeenkomstige toepassing.
 
 4. De in het tweede lid bedoelde bestuurlijke boete bedraagt ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -347,7 +347,7 @@ De Voedsel en Warenautoriteit wordt aangewezen als bevoegde autoriteit voor intr
 
 - b. een last onder dwangsom opleggen.
 
-3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-01-25&g=2014-01-25), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-01-25&g=2014-01-25), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-01-25&g=2014-01-25) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-01-25&g=2014-01-25) zijn van overeenkomstige toepassing.
+3. De [artikelen 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-02-19&g=2014-02-19), [2.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.10&z=2014-02-19&g=2014-02-19), [2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=3&artikel=2.23&z=2014-02-19&g=2014-02-19) en [2.24](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=2&paragraaf=4&artikel=2.24&z=2014-02-19&g=2014-02-19) zijn van overeenkomstige toepassing.
 
 4. [Artikel 11b, tweede lid, van de Tabakswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=11b) is van overeenkomstige toepassing.
 
@@ -377,13 +377,13 @@ Alle informatie die een bevoegde autoriteit op grond van [verordening 2006/2004]
 
 - a. de andere overheidsinstantie de Autoriteit Consument en Markt daaromtrent verzoekt; of
 
-- b. de andere overheidsinstantie niet aan de verplichting uit [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.5&z=2014-01-25&g=2014-01-25), kan voldoen.
+- b. de andere overheidsinstantie niet aan de verplichting uit [artikel 4.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.5&z=2014-02-19&g=2014-02-19), kan voldoen.
 
 ##### Artikel 4.3
 
-1. Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan wordt deze uitleg afgestemd met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2014-01-25&g=2014-01-25), worden hierover nadere afspraken gemaakt.
+1. Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel a van de bijlage van deze wet, dan wordt deze uitleg afgestemd met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2014-02-19&g=2014-02-19), worden hierover nadere afspraken gemaakt.
 
-2. Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2014-01-25&g=2014-01-25), worden hierover nadere afspraken gemaakt.
+2. Voor zover door een andere overheidsinstantie bij de uitoefening van haar bevoegdheden begrippen worden uitgelegd, die worden gehanteerd in een van de wettelijke bepalingen, bedoeld in onderdeel b van de bijlage van deze wet, dan vindt deze uitleg plaats in overeenstemming met de Autoriteit Consument en Markt. In de samenwerkingsprotocollen, bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=5&artikel=5.1&z=2014-02-19&g=2014-02-19), worden hierover nadere afspraken gemaakt.
 
 ##### Artikel 4.4
 
@@ -433,7 +433,7 @@ Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt 
 
 4. De afspraken bedoeld in het tweede lid, onderdeel a, worden vastgelegd in een samenwerkingsprotocol en hebben betrekking op:
 
-- a. de uitleg van begrippen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-01-25&g=2014-01-25);
+- a. de uitleg van begrippen als bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=4&artikel=4.3&z=2014-02-19&g=2014-02-19);
 
 - b. de samenwerking tussen de Stichting Autoriteit Financiële Markten en de Autoriteit Consument en Markt in de uitoefening van haar taak als het verbindingsbureau.
 
@@ -467,7 +467,7 @@ Bij algemene maatregel van bestuur kunnen instanties worden aangewezen die een r
 
 ##### Artikel 7.1
 
-Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.8&z=2014-01-25&g=2014-01-25).
+Tegen een uitspraak in hoger beroep van het College van Beroep voor het bedrijfsleven kan de procureur-generaal bij de Hoge Raad der Nederlanden beroep in cassatie in het belang der wet instellen wegens schending of verkeerde toepassing van [artikel 8.8](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=8&artikel=8.8&z=2014-02-19&g=2014-02-19).
 
 ##### Artikel 7.2
 
@@ -563,7 +563,7 @@ Wijzigt de Gaswet.
 
 ##### Artikel 9.9
 
-Zolang het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van wet tot vaststelling van een nieuwe Geneesmiddelenwet, Kamerstukken II, nr. 29 359, nog niet tot wet is verheven en in werking is getreden, zijn de krachtens [artikel 22 van de Wet op de geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=22) aangewezen ambtenaren van het Staatstoezicht op de volksgezondheid belast met het toezicht, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2014-01-25&g=2014-01-25).
+Zolang het bij koninklijke boodschap van 8 december 2003 ingediende voorstel van wet tot vaststelling van een nieuwe Geneesmiddelenwet, Kamerstukken II, nr. 29 359, nog niet tot wet is verheven en in werking is getreden, zijn de krachtens [artikel 22 van de Wet op de geneesmiddelenvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0002290&artikel=22) aangewezen ambtenaren van het Staatstoezicht op de volksgezondheid belast met het toezicht, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&hoofdstuk=3&paragraaf=2&artikel=3.6&z=2014-02-19&g=2014-02-19).
 
 ### Hoofdstuk 10. Slotbepalingen
 
