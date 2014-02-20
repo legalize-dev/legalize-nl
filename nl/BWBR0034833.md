@@ -4,7 +4,7 @@ identifier: "BWBR0034833"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-04-11"
-last_updated: "2014-01-01"
+last_updated: "2014-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034833"
 soort: "zbo"
@@ -61,7 +61,7 @@ Het college keert het voorlopig vastgesteld en definitief vastgesteld beheerskos
 
 ##### Artikel 4
 
-Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=3&z=2014-02-20&g=2014-01-01) genoemde totaalbedrag als volgt:
+Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=3&z=2014-02-20&g=2014-02-20) genoemde totaalbedrag als volgt:
 
 - a. een derde deel van het bedrag verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
 
@@ -69,11 +69,11 @@ Het college verdeelt het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 5
 
-Ter vaststelling van de beheerskostenbudgetten per zorgverzekeraar sommeert het college per zorgverzekeraar de ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01) berekende bedragen. Het college rondt de beheerskostenbudgetten af op hele euro’s, waarbij het college bedragen van een halve euro en hoger afrondt naar boven en overige bedragen naar beneden.
+Ter vaststelling van de beheerskostenbudgetten per zorgverzekeraar sommeert het college per zorgverzekeraar de ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) berekende bedragen. Het college rondt de beheerskostenbudgetten af op hele euro’s, waarbij het college bedragen van een halve euro en hoger afrondt naar boven en overige bedragen naar beneden.
 
 ##### Artikel 6
 
-Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 4, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01), gebruikt het college de opgaven van de verzekerdenaantallen per 1 juli 2013 van de zorgverzekeraars. Deze opgave staat vermeld in de kwartaalstaat AWBZ zorgverzekeraars 2013 en dient te zijn voorzien van een bestuursverklaring.
+Voor de bepaling van het aantal verzekerden, bedoeld in [artikel 4, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20), gebruikt het college de opgaven van de verzekerdenaantallen per 1 juli 2013 van de zorgverzekeraars. Deze opgave staat vermeld in de kwartaalstaat AWBZ zorgverzekeraars 2013 en dient te zijn voorzien van een bestuursverklaring.
 
 ##### Artikel 7
 
@@ -83,7 +83,7 @@ Voor een nieuwe zorgverzekeraar, die geen rechtsopvolger is van een of meer best
 
 ##### Artikel 8
 
-Uiterlijk in 2016 stelt het college de beheerskostenbudgetten, met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=5&z=2014-02-20&g=2014-01-01), definitief vast. In afwijking van artikel 4 gaat het college bij de definitieve vaststelling uit van de opgaven van de verzekerdenaantallen per 1 juli 2014 van de zorgverzekeraars.
+Uiterlijk in 2016 stelt het college de beheerskostenbudgetten, met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034833&paragraaf=2&artikel=5&z=2014-02-20&g=2014-02-20), definitief vast. In afwijking van artikel 4 gaat het college bij de definitieve vaststelling uit van de opgaven van de verzekerdenaantallen per 1 juli 2014 van de zorgverzekeraars.
 
 #### § 4. Slot
 
