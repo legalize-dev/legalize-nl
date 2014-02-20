@@ -4,7 +4,7 @@ identifier: "BWBR0034832"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-07-06"
-last_updated: "2014-01-01"
+last_updated: "2014-02-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034832"
 soort: "zbo"
@@ -67,7 +67,7 @@ Dit besluit verstaat onder:
 
 ##### Artikel 4
 
-Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=3&z=2014-02-20&g=2014-01-01), genoemde totaalbedrag als volgt over de verbindingskantoren:
+Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=3&z=2014-02-20&g=2014-02-20), genoemde totaalbedrag als volgt over de verbindingskantoren:
 
 - a. een bedrag van 24,327 miljoen euro op basis van een bedrag van € 193,30 per budgethouder uitgaande van 125.850 budgethouders op grond van het aantal budgethouders per verbindingskantoor;
 
@@ -87,15 +87,15 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 ##### Artikel 5
 
-Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01) resterende bedrag als volgt:
+Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) resterende bedrag als volgt:
 
-- a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen in de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=1&z=2014-02-20&g=2014-01-01) genoemde [Beschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0034132);
+- a. 15% op basis van een vast bedrag per verbindingskantoor, vermeerderd met een zelfde bedrag per regio waarvoor het verbindingskantoor is aangewezen in de in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=1&artikel=1&z=2014-02-20&g=2014-02-20) genoemde [Beschikking](https://wetten.overheid.nl/jci1.3:c:BWBR0034132);
 
 - b. 85% op basis van het aantal inwoners per 1 januari 2013 in de regio’s, waarvoor het verbindingskantoor als zodanig is aangewezen, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners, waaronder die van vijfenzestig jaar en ouder, gebruikt het college de gegevens van het Centraal Bureau voor de Statistiek.
 
 ##### Artikel 6
 
-1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=5&z=2014-02-20&g=2014-01-01) herberekent het college per regio.
+1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=5&z=2014-02-20&g=2014-02-20) herberekent het college per regio.
 
 2. Ter verkrijging van het voorlopige beheerskostenbudget AWBZ per verbindingskantoor sommeert het college het herberekende bedrag per regio voor de regio’s waarvoor het verbindingskantoor is aangewezen.
 
@@ -105,7 +105,7 @@ Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.n
 
 ##### Artikel 7
 
-1. Uiterlijk in 2016 stelt het college het beheerskostenbudget over het jaar 2014 met overeenkomstige toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-01-01) definitief vast, met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit. Het college doet dit op basis van:
+1. Uiterlijk in 2016 stelt het college het beheerskostenbudget over het jaar 2014 met overeenkomstige toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034832&paragraaf=2&artikel=4&z=2014-02-20&g=2014-02-20) definitief vast, met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit. Het college doet dit op basis van:
 
 - a. de werkelijke inwoneraantallen per 1 januari 2014, waarbij inwoners die op die datum vijfenzestig jaar of ouder zijn, dubbel tellen. Voor de bepaling van het aantal inwoners baseert het college zich op de gegevens van het Centraal Bureau voor de Statistiek;
 
