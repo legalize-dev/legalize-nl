@@ -4,7 +4,7 @@ identifier: "BWBR0014479"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2007-09-01"
+last_updated: "2014-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014479"
 soort: "ministeriele-regeling"
@@ -60,5 +60,15 @@ Als ambtenaren belast met het toezicht op de naleving met betrekking tot communi
 ##### Artikel 5
 
 Dit besluit treedt met ingang van 1 januari 2003 in werking.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Als ambtenaren belast met het toezicht op de naleving worden mede aangewezen ambtenaren van de Kustwacht Nederland, bedoeld in [artikel 2, eerste lid, van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=2) voor de uitvoering van taken die krachtens [artikel 4 van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=4) aan de Kustwacht Nederland zijn opgedragen
+
+##### Artikel 2b
+
+Als de bevoegde autoriteit, bedoeld in [artikel 14 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=14), met betrekking tot het verlenen van toestemming voor het verrichten van verkenningsonderzoek bij zicht vanaf het verkenningsvaartuig als bedoeld in dat artikel, wordt aangewezen de directeur Kustwacht, bedoeld in [artikel 3 van het Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546&artikel=3).
 
 Dit besluit zal in de Staatscourant worden geplaatst.
