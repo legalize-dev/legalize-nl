@@ -4,7 +4,7 @@ identifier: "BWBR0034835"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2012-07-01"
+last_updated: "2014-02-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034835"
 soort: "ministeriele-regeling"
@@ -102,7 +102,7 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014.
 
-## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034835&artikel=1&z=2014-02-21&g=2012-07-01) van de Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034835&artikel=1&z=2014-02-21&g=2014-02-21) van de Beleidsregel boeteoplegging Wet allocatie arbeidskrachten door intermediairs 2014
 
 | Artikel | Lid | Overtreding | Boetenormbedrag |
 | --- | --- | --- | --- |
