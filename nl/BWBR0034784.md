@@ -4,7 +4,7 @@ identifier: "BWBR0034784"
 country: "nl"
 rank: "wet"
 publication_date: "2021-07-01"
-last_updated: "2014-01-01"
+last_updated: "2014-02-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034784"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2014-02-22"
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-### Hoofdstuk 2. Programma’s en uitvoerende autoriteiten
+### Hoofdstuk 1. Algemene bepalingen
 
 #### § 2.1. Grensoverschrijdende programma’s
 
@@ -63,11 +63,15 @@ entry_into_force: "2014-02-22"
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij algemene maatregel van bestuur kan voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, nader worden voorzien in een taakomschrijving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2014-02-22&g=2014-02-22) bedoelde autoriteiten.
+
+2. Bij algemene maatregel van bestuur kunnen voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, regels worden gesteld inzake de onderlinge verhouding tussen de autoriteiten en de verhouding van de autoriteiten met de Europese Commissie. Deze regels kunnen mede betrekking hebben op gegevensuitwisseling.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Indien de noodzaak daartoe voortvloeit uit een EFRO-verordening kan Onze Minister organen of instanties aanwijzen die geen autoriteit zijn binnen een programma maar die anderszins zijn betrokken bij de uitvoering van die verordening of een andere EFRO-verordening.
+
+2. Een orgaan of een instantie als bedoeld in het eerste lid heeft de taken en bevoegdheden die uit een EFRO-verordening voortvloeien. [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2014-02-22&g=2014-02-22), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Subsidies
 
