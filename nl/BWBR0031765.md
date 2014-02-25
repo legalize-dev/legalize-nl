@@ -4,7 +4,7 @@ identifier: "BWBR0031765"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-09-27"
-last_updated: "2014-01-01"
+last_updated: "2014-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031765"
 soort: "ministeriele-regeling"
@@ -200,45 +200,20 @@ De onkostenvergoeding voor het jaar 2008 bedraagt:
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2013-06-13&g=2014-01-01) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031765&artikel=3&z=2014-02-25&g=2014-02-25) van de Regeling algemene onkostenvergoeding rechterlijke ambtenaren
 
 | Functie | Totaal per jaar | Totaal per maand |
 | --- | --- | --- |
-| president Hoge Raad | € 4.954,00 | € 412,83 |
-| procureur-generaal Hoge Raad |   |   |
-| procureurs-generaal die het College van PG 's vormen | € 4.801,00 | € 400,08 |
-| plaatsvervangend procureur-generaal bij de Hoge Raad | € 2.768,00 | € 230,67 |
-| landelijk hoofdadvocaat-generaal | € 2.616,00 | € 218,00 |
-| hoofdadvocaat-generaal |   |   |
-| hoofdofficier van justitie |   |   |
-| plaatsvervangend hoofdofficier van justitie | € 2.000,00 | € 166,67 |
-| vice-president van de Hoge Raad | € 1.845,00 | € 153,75 |
-| senior raadsheer gerechtshof |   |   |
-| senior raadsheer Centrale Raad van Beroep |   |   |
-| senior raadsheer College van Beroep voor het Bedrijfsleven |   |   |
-| **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** |   |   |
-| senior rechter A | € 1.692,00 | € 141,00 |
-| senior rechter |   |   |
-| advocaat-generaal Hoge Raad |   |   |
-| senior advocaat-generaal ressortsparket |   |   |
-| advocaat-generaal ressortsparket |   |   |
-| **cvp-senior bij de rechtbanken (overgangsregeling)** |   |   |
-| senior officier van justitie A | € 1.539,00 | € 128,25 |
-| senior officier van justitie |   |   |
-| officier van justitie |   |   |
-| substituut-officier van justitie |   |   |
-| officier enkelvoudige zittingen |   |   |
-| raadsheer Hoge Raad | € 1.387,00 | € 115,58 |
-| raadsheer gerechtshof |   |   |
-| rechter |   |   |
-| raadsheer Centrale Raad van Beroep |   |   |
-| raadsheer College van Beroep voor het Bedrijfsleven |   |   |
-| (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger |   |   |
-| in een gerechtshof waarbij hij is aangesteld |   |   |
-| (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in |   |   |
-| een rechtbank waarbij hij is aangesteld |   |   |
-| griffier (+ substituut-griffiers) Hoge Raad | € 774,00 | € 64,50 |
-| (senior) gerechtsauditeur | € 556,00 | € 46,33 |
-| rechterlijk ambtenaar in opleiding |   |   |
+| president Hoge Raad procureur-generaal Hoge Raad | **€ 5 014,00** | **€ 417,84** |
+| procureurs-generaal die het College van PG’s vormen | **€ 4 859,00** | **€ 404,92** |
+| plaatsvervangend procureur-generaal bij de Hoge Raad | **€ 2 802,00** | **€ 233,50** |
+| landelijk hoofdadvocaat-generaal hoofdadvocaat-generaal hoofdofficier van justitie | **€ 2 648,00** | **€ 220,67** |
+| plaatsvervangend hoofdofficier van justitie | **€ 2 024,00** | **€ 168,67** |
+| vice-president van de Hoge Raad senior raadsheer gerechtshof senior raadsheer Centrale Raad van Beroep senior raadsheer College van Beroep voor het Bedrijfsleven **cvp-senior bij de gerechtshoven, CRvB en CBb (overgangsregeling)** | **€ 1 868,00** | **€ 155,67** |
+| senior rechter A senior rechter advocaat-generaal Hoge Raad senior advocaat generaal ressortsparket advocaat-generaal ressortsparket **cvp-senior bij de rechtbanken (overgangsregeling)** | **€ 1 713,00** | **€ 142,75** |
+| senior officier van justitie A senior officier van justitie officier van justitie substituut-officier van justitie officier enkelvoudige zaken | **€ 1 558,00** | **€ 129,84** |
+| raadsheer Hoge Raad raadsheer gerechtshof rechter raadsheer Centrale Raad van Beroep raadsheer College van Beroep voor het Bedrijfsleven (senior) gerechtsauditeur, tevens raadsheer-plaatsvervanger in een gerechtshof waarbij hij is aangesteld (senior) gerechtsauditeur, tevens rechter-plaatsvervanger in een rechtbank waarbij hij is aangesteld | **€ 1 404,00** | **€ 117,00** |
+| griffier (+ substituut-griffier) Hoge Raad | **€ 784,00** | **€ 65,34** |
+| (senior) gerechtsauditeur rechterlijk ambtenaar in opleiding | **€ 563,00** | **€ 46,92** |
 
 Deze regeling zal met toelichting en bijlagen in de Staatscourant worden geplaatst.
