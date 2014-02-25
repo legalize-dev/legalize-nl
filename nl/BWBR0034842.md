@@ -4,7 +4,7 @@ identifier: "BWBR0034842"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2014-02-25"
-last_updated: "2014-01-01"
+last_updated: "2014-02-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034842"
 soort: "ministeriele-regeling-BES"
@@ -52,7 +52,7 @@ De openbare lichamen vermelden via de jaarrekening, bedoeld in [artikel 31 van d
 
 ##### Artikel 3
 
-De Minister van Volksgezondheid, Welzijn en Sport kan de gelden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034842&artikel=1&z=2014-02-25&g=2014-01-01), over de periode 2014 tot 2020, terugvorderen voor zover deze gelden niet zijn besteed aan de uitvoering van de taken op het terrein van publieke gezondheid, bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705).
+De Minister van Volksgezondheid, Welzijn en Sport kan de gelden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034842&artikel=1&z=2014-02-25&g=2014-02-25), over de periode 2014 tot 2020, terugvorderen voor zover deze gelden niet zijn besteed aan de uitvoering van de taken op het terrein van publieke gezondheid, bedoeld in de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705).
 
 ##### Artikel 4
 
