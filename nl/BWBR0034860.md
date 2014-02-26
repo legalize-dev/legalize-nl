@@ -4,7 +4,7 @@ identifier: "BWBR0034860"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-05-11"
-last_updated: "2014-01-01"
+last_updated: "2014-02-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034860"
 soort: "ministeriele-regeling"
@@ -74,13 +74,13 @@ De in artikel 5, eerste lid, onderdelen d en e, van het Ondermandaatbesluit dire
 
 ##### Artikel 4. Verlening volmacht en machtiging
 
-De in artikel 5, tweede lid, van het Ondermandaatbesluit directoraat-generaal Bereikbaarheid Infrastructuur en Milieu 2012 aan de directeur-generaal verleende volmacht en machtiging worden eveneens verleend aan de functionarissen genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034860&artikel=1&z=2014-02-26&g=2014-01-01) van dit besluit.
+De in artikel 5, tweede lid, van het Ondermandaatbesluit directoraat-generaal Bereikbaarheid Infrastructuur en Milieu 2012 aan de directeur-generaal verleende volmacht en machtiging worden eveneens verleend aan de functionarissen genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034860&artikel=1&z=2014-02-26&g=2014-02-26) van dit besluit.
 
 ##### Artikel 5. Bevoegdheid bij afwezigheid
 
 1. Bij afwezigheid van de directeur-generaal Rijkswaterstaat is bevoegd de plaatsvervangend directeur-generaal of de chief financial officer.
 
-2. [Artikel 10 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=10) is van overeenkomstige toepassing, met dien verstande dat alleen functionarissen binnen de organisatieonderdelen, zoals genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034860&artikel=1&z=2014-02-26&g=2014-01-01), bevoegd zijn.
+2. [Artikel 10 van het Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034184&artikel=10) is van overeenkomstige toepassing, met dien verstande dat alleen functionarissen binnen de organisatieonderdelen, zoals genoemd in de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034860&artikel=1&z=2014-02-26&g=2014-02-26), bevoegd zijn.
 
 ##### Artikel 6. Grensbedragen
 
