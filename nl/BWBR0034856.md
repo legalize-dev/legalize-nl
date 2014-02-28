@@ -4,7 +4,7 @@ identifier: "BWBR0034856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-02-28"
-last_updated: "2014-01-01"
+last_updated: "2014-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034856"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 - a. de Europese Commissie het projectvoorstel heeft goedgekeurd;
 
-- b. de uitvoering conform de aanvraag en het convenant, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034856&artikel=4&z=2014-02-28&g=2014-01-01), geschiedt;
+- b. de uitvoering conform de aanvraag en het convenant, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034856&artikel=4&z=2014-02-28&g=2014-02-28), geschiedt;
 
 - c. de gerealiseerde kosten zijn gecontroleerd door de managementautoriteit.
 
@@ -120,7 +120,7 @@ De minister verstrekt subsidie aan de aanvrager ter hoogte van het door de Europ
 
 4. De aanvrager geeft inzage in of toegang tot de projectadministratie op verzoek voor controle door de minister, de auditautoriteit, de Europese Commissie en de Europese Rekenkamer.
 
-5. De projectadministratie wordt bewaard tot 3 jaar na de vaststelling van de subsidie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034856&artikel=10&z=2014-02-28&g=2014-01-01).
+5. De projectadministratie wordt bewaard tot 3 jaar na de vaststelling van de subsidie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034856&artikel=10&z=2014-02-28&g=2014-02-28).
 
 6. De aanvrager verstrekt aan de managementautoriteit, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, 3 maal het burgerservicenummer van de deelnemers aan zijn project.
 
