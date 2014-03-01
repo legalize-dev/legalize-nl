@@ -4,7 +4,7 @@ identifier: "BWBR0009669"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2013-01-01"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009669"
 soort: "AMvB"
@@ -72,17 +72,17 @@ Hebben goedgevonden en verstaan:
 
 - g. **%**: massaprocent;
 
-- h. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354).
+- h. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
 
-2. De [artikelen 7 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op een eetwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
+- i. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad.
+
+2. De [artikelen 6a tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2014-03-01&g=2014-03-01) zijn niet van toepassing op een eetwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
 
 ##### Artikel 2
 
 1. Het is verboden de bij of krachtens dit besluit bedoelde waren te bereiden of te verhandelen of te gebruiken voor de bereiding van brood, die niet voldoen aan de eisen, bij dit besluit gesteld met betrekking tot hun samenstelling of hun hoedanigheid of eigenschappen.
 
 2. Het is verboden met gebruikmaking van de bij dit besluit aangegeven aanduidingen andere waren te verhandelen dan die waaraan die aanduidingen bij dit besluit zijn voorbehouden.
-
-3. Het is verboden de bij dit besluit bedoelde waren te verhandelen anders dan met inachtneming van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=4&artikel=17&z=2013-01-01&g=2013-01-01).
 
 #### § 2:. bereiding en samenstelling
 
@@ -199,7 +199,7 @@ Vervallen
 
 ##### Artikel 18
 
-In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2013-01-01&g=2013-01-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2013-01-01&g=2013-01-01).
+In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2014-03-01&g=2014-03-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2014-03-01&g=2014-03-01).
 
 #### § 5:. slotbepalingen
 
@@ -224,5 +224,19 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Meel en brood.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+1. De hoeveelheid droge stof van brood met of zonder decoratie met een gewicht tussen 350 gram en 1000 gram ligt tussen de 240 en 265 gram onderscheidenlijk tussen de 480 en 530 gram.
+
+2. Het eerste lid is niet van toepassing op roggebrood en tarweroggebrood.
+
+#### § 3:. gereserveerde aanduidingen
+
+#### § 4:. vermeldingen
+
+#### § 5:. slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
