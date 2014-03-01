@@ -4,7 +4,7 @@ identifier: "BWBR0028123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2013-10-11"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028123"
 soort: "ministeriele-regeling"
@@ -162,7 +162,7 @@ In deze regeling wordt verstaan onder:
 
 3. Water dat wordt gebruikt voor het bereiden, bewerken of verwerken van een diervoeder is van voldoende kwaliteit.
 
-4. Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2013-10-11&g=2013-10-11) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
+4. Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2014-03-01&g=2014-03-01) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
 
 ##### Artikel 4
 
@@ -178,7 +178,7 @@ Vervallen
 
 ##### Artikel 6
 
-De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) zijn van overeenkomstige toepassing op handelingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2013-10-11&g=2013-10-11), met diervoeders.
+De [artikelen 8.9 tot en met 8.18 van de Regeling diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032626&artikel=8.10) zijn van overeenkomstige toepassing op handelingen als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2014-03-01&g=2014-03-01), met diervoeders.
 
 ### Hoofdstuk 3. Regels ter uitvoering van communautaire verordeningen
 
@@ -232,11 +232,11 @@ Het is eenieder verboden met diervoeders die vallen binnen de werkingssfeer, bed
 
 ##### Artikel 15
 
-Indien een inrichting een activiteit als bedoeld in artikel 10, onder 1, van verordening (EG) nr. 183/2005 verricht, is een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2013-10-11&g=2013-10-11) vereist.
+Indien een inrichting een activiteit als bedoeld in artikel 10, onder 1, van verordening (EG) nr. 183/2005 verricht, is een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2014-03-01&g=2014-03-01) vereist.
 
 ##### Artikel 16
 
-Indien aan een bedrijf een erkenning voor een activiteit, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2013-10-11&g=2013-10-11) is verleend, dan is voor diezelfde activiteit geen registratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2013-10-11&g=2013-10-11), meer nodig.
+Indien aan een bedrijf een erkenning voor een activiteit, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2014-03-01&g=2014-03-01) is verleend, dan is voor diezelfde activiteit geen registratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2014-03-01&g=2014-03-01), meer nodig.
 
 ##### Artikel 17
 
@@ -292,23 +292,23 @@ Het is verboden in strijd te handelen met de artikel 4, 5, eerste en tweede lid,
 
 1. De volgende aanvragen worden bij de NVWA ingediend:
 
-- a. een aanvraag tot erkenning of registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=8&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- a. een aanvraag tot erkenning of registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=8&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- b. een aanvraag tot goedkeuring als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- b. een aanvraag tot goedkeuring als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- c. een aanvraag tot toestemming als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- c. een aanvraag tot toestemming als bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- d. een aanvraag tot erkenning als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- d. een aanvraag tot erkenning als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- e. een aanvraag tot registratie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- e. een aanvraag tot registratie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- f. een aanvraag tot erkenning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2013-10-11&g=2013-10-11), dan wel tot wijziging daarvan;
+- f. een aanvraag tot erkenning als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2014-03-01&g=2014-03-01), dan wel tot wijziging daarvan;
 
-- g. een aanvraag tot goedkeuring als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=18&z=2013-10-11&g=2013-10-11).
+- g. een aanvraag tot goedkeuring als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=18&z=2014-03-01&g=2014-03-01).
 
-2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 35, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2013-10-11&g=2013-10-11), verschuldigde bedrag is voldaan.
+2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 35, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2014-03-01&g=2014-03-01), verschuldigde bedrag is voldaan.
 
-3. De aanvrager van een registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=8&z=2013-10-11&g=2013-10-11), is geregistreerd, indien een termijn van zes weken, te rekenen vanaf de datum van ontvangst van de aanvraag tot registratie, is verstreken zonder dat de minister op de aanvraag heeft beslist.
+3. De aanvrager van een registratie als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=8&z=2014-03-01&g=2014-03-01), is geregistreerd, indien een termijn van zes weken, te rekenen vanaf de datum van ontvangst van de aanvraag tot registratie, is verstreken zonder dat de minister op de aanvraag heeft beslist.
 
 ##### Artikel 27
 
@@ -390,7 +390,7 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 1. Toevoegingsmiddelen, voormengsels en diervoeders die in Nederland in het douanegebied van de Europese Economische Ruimte worden binnengebracht, die een diervoeder bevatten als bedoeld in bijlage I van verordening (EG) nr. 669/2009 worden aan de NVWA aangeboden voor een meer uitgebreide officiële controle als bedoeld in artikel 15, vijfde lid, van verordening (EG) nr. 882/2004 in samenhang met artikel 1 van verordening (EG) nr. 669/2009.
 
-2. De belanghebbende bij een lading die een diervoeder bevat als bedoeld in het eerste lid stelt de NVWA voor inklaring schriftelijk in kennis van de aanvoer, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2013-10-11&g=2013-10-11), met de vooraanmelding, bedoeld in artikel 6 van verordening (EG) nr. 669/2009 met een document als bedoeld in dat artikel.
+2. De belanghebbende bij een lading die een diervoeder bevat als bedoeld in het eerste lid stelt de NVWA voor inklaring schriftelijk in kennis van de aanvoer, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2014-03-01&g=2014-03-01), met de vooraanmelding, bedoeld in artikel 6 van verordening (EG) nr. 669/2009 met een document als bedoeld in dat artikel.
 
 3. Het is verboden in strijd te handelen met de artikelen 10, 11 en 12 van verordening (EG) nr. 669/2009.
 
@@ -402,7 +402,7 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 ##### Artikel 34
 
-1. Na afronding van de controle, bedoeld in [artikel 31, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2013-10-11&g=2013-10-11), [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), of [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=33&z=2013-10-11&g=2013-10-11) wordt door de NVWA een document als bedoeld in [artikel 30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=30&z=2013-10-11&g=2013-10-11), afgegeven en wordt van dat document aantekening gemaakt op de documenten, bedoeld in artikel 30, eerste lid, onderdeel a, ingeval de producten:
+1. Na afronding van de controle, bedoeld in [artikel 31, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2014-03-01&g=2014-03-01), [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2014-03-01&g=2014-03-01), of [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=33&z=2014-03-01&g=2014-03-01) wordt door de NVWA een document als bedoeld in [artikel 30, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=30&z=2014-03-01&g=2014-03-01), afgegeven en wordt van dat document aantekening gemaakt op de documenten, bedoeld in artikel 30, eerste lid, onderdeel a, ingeval de producten:
 
 - a. bestemd zijn om in het vrije verkeer gebracht te worden in een andere lidstaat dan Nederland;
 
@@ -416,47 +416,19 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 ##### Artikel 35
 
-Voor de be- en afhandeling van een aanvraag tot:
-
-- (i). een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2013-10-11&g=2013-10-11);
-
-- (ii). een erkenning als bedoeld in [artikel 11, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=1&artikel=11&z=2013-10-11&g=2013-10-11), of
-
-- (iii). een wijziging van de onder (i) of (ii) bedoelde erkenningen, wordt bij de aanvrager een retributie in rekening gebracht bestaande uit:
-
-- a. een starttarief van € 110,86 per ambtenaar voor een onderzoek ter plaatse naar het voldoen aan de eisen voor het verkrijgen van de in de onderdelen (i) en (ii) bedoelde erkenningen, en
-
-- b. een bedrag van € 30,16 per kwartier dat aan het onderzoek ter plaatse door een ambtenaar is besteed.
+Vervallen
 
 ##### Artikel 36
 
-Voor de be- en afhandeling van een aanvraag tot registratie als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2013-10-11&g=2013-10-11) dan wel tot wijziging van deze registratie, is de aanvrager per aanvraag een retributie verschuldigd van € 23,68.
+Vervallen
 
 ##### Artikel 37
 
-Voor de door de NVWA aangekondigde en vastgelegde periodieke controles, bij een inrichting als bedoeld in artikel 10 van verordening (EG) nr. 183/2005 op de naleving van de voorschriften verbonden aan de erkenning ten behoeve van de instandhouding daarvan, is de houder van de erkenning een retributie verschuldigd bestaande uit:
-
-- a. een starttarief van € 110,86 per ambtenaar, en
-
-- b. een bedrag van € 30,16 per kwartier dat door de ambtenaar aan de werkzaamheden is besteed.
+Vervallen
 
 ##### Artikel 38
 
-1. Voor een aanvullende officiële controle na vaststelling van niet-naleving als bedoeld in artikel 28 van verordening (EG) nr. 882/2004, is de exploitant een bedrag verschuldigd, bestaande uit:
-
-- a. een starttarief van € 110,86, en
-
-- b. een bedrag van € 30,16 per kwartier dat door de ambtenaar aan de werkzaamheden is besteed.
-
-2. In afwijking van het eerste lid is de exploitant voor een aanvullende officiële controle na vaststelling van niet-naleving in het kader van een controle als bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), in verbinding met [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=40&z=2013-10-11&g=2013-10-11), een bedrag verschuldigd, bestaande uit:
-
-- a. een starttarief van € 43,83;
-
-- b. een bedrag van € 27,52 per kwartier dat aan de aanvullende officiële controle is besteed.
-
-3. Voor zover in het kader van de in het eerste of tweede lid bedoelde aanvullende officiële controle laboratoriumonderzoek is verricht van chemische en microbiologische monsters die ten behoeve van die controle zijn genomen, is de exploitant, naast de in het eerste lid onderscheidenlijk tweede lid bedoelde vergoeding, een bedrag voor dit laboratoriumonderzoek verschuldigd.
-
-4. Het in het derde lid bedoelde bedrag bestaat uit de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in elk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
+Vervallen
 
 ##### Artikel 39
 
@@ -464,143 +436,51 @@ Vervallen
 
 ##### Artikel 40
 
-1. Voor de controles, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), welke plaatsvinden op een werkdag tussen 06:00 uur en 23:00 uur, is de aanbieder een retributie verschuldigd van € 0,04117 per ton toevoegingsmiddel, voormengsel of diervoeder dat ter controle wordt aangeboden.
-
-2. De retributie, bedoeld in het eerste lid, bedraagt ten minste € 60,16 en ten hoogste € 462,93.
-
-3. Voor de afgifte van het document, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=34&z=2013-10-11&g=2013-10-11), wordt een retributie van € 27,52 in rekening gebracht.
-
-4. Voor de controles, bedoeld in het eerste lid, welke plaatsvinden tussen 23:00 uur en 06:00 uur, op een zaterdag of zondag onderscheidenlijk op een algemeen erkende feestdag of 5 mei, is de aanbieder een retributie verschuldigd van € 0,05336 per ton toevoegingsmiddel, voormengsel of diervoeder dat ter controle wordt aangeboden, met dien verstande dat de retributie ten minste € 76,66 en ten hoogste € 590,00 bedraagt.
+Vervallen
 
 ##### Artikel 41
 
-Voor de be- en afhandeling van een aanvraag tot toestemming als bedoeld in artikel 3, tweede lid, van verordening (EG) nr. 1831/2003 is de aanvrager een retributie verschuldigd bestaande uit:
-
-- a. een bedrag van € 58,90 aan administratiekosten per aanvraag,
-
-- b. een starttarief van € 48,19 voor een onderzoek naar het voldoen aan de eisen aan de toestemming, en
-
-- (i). een bedrag van € 21,42 per kwartier dat aan het onderzoek door een academische geschoolde ambtenaar is besteed;
-
-- (ii). een bedrag van € 16,06 per kwartier dat aan het onderzoek door een niet-academisch geschoolde ambtenaar is besteed.
+Vervallen
 
 ##### Artikel 42
 
-1. Voor werkzaamheden binnen openingstijd, die op verzoek van de aanbieder door of vanwege de NVWA worden verricht met betrekking tot toevoegingsmiddelen, voormengsels of diervoeders, is de aanbieder een retributie verschuldigd, bestaande uit:
-
-- a. een starttarief van € 101,00 per ambtenaar, en
-
-- b. een bedrag van € 34,75 per kwartier dat door een ambtenaar aan de werkzaamheden is besteed.
-
-2. Voor zover voor de verrichtingen, bedoeld in het eerste lid, op verzoek van de aanbieder een certificaat, een geleidebiljet of een gewaarmerkt afschrift van een certificaat of geleidebiljet wordt afgegeven zonder dat direct voorafgaand onderzoek ter plaatse van de aanbieder wordt verricht door een ambtenaar, is de aanbieder een retributie verschuldigd van:
-
-- a. € 46,73 per certificaat of geleidebiljet dat wordt aangevraagd, onderscheidenlijk
-
-- b. indien meerdere certificaten of geleidebiljetten tegelijk worden aangevraagd die betrekking hebben op een zelfde lading producten, die op dezelfde dag wordt afgevoerd, en waarbij op de certificaten of geleidebiljetten hetzelfde oorsprongs- en bestemmingsadres, alsmede dezelfde datum van vertrek wordt vermeld:
-
-- (i). € 46,73 voor het certificaat of het geleidebiljet dat als eerste wordt afgegeven, en
-
-- (ii). € 11,68 per certificaat of geleidebiljet dat na het onder (i) bedoelde eerste certificaat of geleidebiljet wordt afgegeven, en
-
-- c. € 11,68 per gewaarmerkt afschrift van een certificaat of een geleidebiljet.
+Vervallen
 
 ##### Artikel 43
 
-1. Voor zover laboratoriumonderzoeken zijn verricht van chemische en microbiologische monsters die zijn genomen in het kader van werkzaamheden als bedoeld in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2013-10-11&g=2013-10-11), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=36&z=2013-10-11&g=2013-10-11), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=37&z=2013-10-11&g=2013-10-11), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=39&z=2013-10-11&g=2013-10-11), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=40&z=2013-10-11&g=2013-10-11), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=41&z=2013-10-11&g=2013-10-11) of [42](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), is de aanbieder, naast de retributies die ter zake van de desbetreffende werkzaamheden zijn verschuldigd, een retributie voor deze laboratoriumonderzoeken verschuldigd.
-
-2. De in het eerste lid bedoelde retributie bedraagt de door de Minister te berekenen werkelijke kosten verbonden aan de onderzoeken, waaronder in elk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede personeelskosten en huisvestingskosten.
+Vervallen
 
 ##### Artikel 44
 
-Indien op grond van dit hoofdstuk een starttarief verschuldigd is, wordt deze in rekening gebracht ten aanzien van werkzaamheden die door iedere aanwezige medewerker van de NVWA op één dag, in één aaneengesloten periode, reguliere pauzes daaronder begrepen, voor één aanbieder op één plaats worden verricht.
+Vervallen
 
 ##### Artikel 45
 
-1. In afwijking van [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), en [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), meldt de aanbieder de werkzaamheden die hij door een ambtenaar op een zaterdag, zondag, algemeen erkende feestdag, onderscheidenlijk op een werkdag tussen 18:00 uur en 06:00 uur wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk twee weken vóór de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden zoals deze zijn aangemeld.
-
-2. De aanbieder meldt de werkzaamheden tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), die hij door de NVWA wenst te laten verrichten, schriftelijk bij de NVWA, uiterlijk vóór 14:00 uur op de derde werkdag, voorafgaande aan de dag van transport van de lading waarop het certificaat of geleidebiljet ingevolge de aanvraag betrekking heeft.
+Vervallen
 
 ##### Artikel 46
 
-1. Indien de datum of het tijdstip van aanvang of beëindiging van de werkzaamheden afwijkt van de datum of het tijdstip volgens de melding, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), [artikel 45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), onderscheidenlijk [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), wordt degene die de melding heeft verricht, hiervan door de NVWA in kennis gesteld.
-
-2. Indien de gemelde werkzaamheden niet zullen plaatsvinden, worden uitgesteld of wijziging ondergaan als gevolg van niet aan de NVWA te wijten oorzaken of omstandigheden, wordt dit door degene die de melding heeft verricht, schriftelijk aan de NVWA bericht:
-
-- a. indien het de melding, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), betreft: uiterlijk vóór 14:00 uur op de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden;
-
-- b. indien het de melding, bedoeld in [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), betreft: uiterlijk één week voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden;
-
-- c. indien het de melding, bedoeld in [artikel 45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), betreft: uiterlijk vóór 14:00 uur op de derde werkdag, voorafgaande aan de dag van transport van de lading waarop het certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet ingevolge de aanvraag betrekking heeft;
-
-- d. indien het de melding, bedoeld in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), betreft: uiterlijk vóór 07:00 uur op de werkdag voorafgaand aan de dag van de voorgenomen uitvoering van de werkzaamheden.
+Vervallen
 
 ##### Artikel 47
 
-1. Indien:
-
-- a. de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=40&z=2013-10-11&g=2013-10-11) onderscheidenlijk [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), bedoelde werkzaamheden, onderscheidenlijk de werkzaamheden tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet als bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), later zijn aangemeld dan op de werkdag en het tijdstip, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), [artikel 45, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), onderscheidenlijk [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), of
-
-- b. de in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=39&z=2013-10-11&g=2013-10-11) onderscheidenlijk [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), bedoelde werkzaamheden meer tijd in beslag nemen dan is aangemeld op grond van [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), [artikel 45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), onderscheidenlijk [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), zullen de aangevraagde werkzaamheden niet worden uitgevoerd op de daartoe aangevraagde dag, en dient de aanbieder voor de uitvoering van die werkzaamheden een nieuwe aanvraag in te dienen.
-
-2. Het eerste lid is niet van toepassing indien:
-
-- a. ten aanzien van de werkzaamheden zich een van de volgende situaties voordoet:
-
-- 1°. de werkzaamheden zijn later door de aanbieder aangemeld dan op de werkdag en het tijdstip, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), onderscheidenlijk [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), of
-
-- 2°. de werkzaamheden nemen meer tijd in beslag dan door de aanbieder is aangemeld op grond van [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=32&z=2013-10-11&g=2013-10-11), [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=45&z=2013-10-11&g=2013-10-11), onderscheidenlijk [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11);
-
-- b. de aanbieder ten genoegen van de NVWA aantoont dat de te late melding onderscheidenlijk het feit dat de werkzaamheden meer tijd in beslag nemen dan is aangemeld, is veroorzaakt door:
-
-- 1°. omstandigheden die redelijkerwijs niet voor rekening of risico van de aanbieder komen, of
-
-- 2°. bijzondere, incidentele omstandigheden, niet zijnde omstandigheden, als bedoeld onder 1°, en
-
-- c. de NVWA de benodigde werkzaamheden op dat moment redelijkerwijs feitelijk kan inplannen en uitvoeren, voor zover het gaat om omstandigheden als bedoeld in onderdeel b, onder 2°.
-
-3. Indien de aanbieder overeenkomstig het tweede lid heeft aangetoond dat de te late melding, onderscheidenlijk het feit dat de werkzaamheden meer tijd in beslag nemen dan is aangemeld, is veroorzaakt door omstandigheden als bedoeld in het tweede lid, onderdeel b, onder 1°, onderscheidenlijk 2°, en de werkzaamheden in afwijking van het eerste lid alsnog op de daartoe aangevraagde dag worden uitgevoerd, is de aanbieder de retributie, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=48&z=2013-10-11&g=2013-10-11) onderscheidenlijk [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=51&z=2013-10-11&g=2013-10-11), verschuldigd.
+Vervallen
 
 ##### Artikel 48
 
-1. Indien de werkzaamheden als bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), onderscheidenlijk de werkzaamheden tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet als bedoeld in artikel 42, tweede lid, later zijn aangemeld dan het van toepassing zijnde tijdstip genoemd in [artikel 46, tweede lid, onderdeel b, c, onderscheidenlijk d](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=46&z=2013-10-11&g=2013-10-11), is de aanbieder een retributie verschuldigd naast de ingevolge artikel 42, eerste of tweede lid, verschuldigde retributie.
-
-2. De retributie, bedoeld in het eerste lid, bedraagt:
-
-- a. € 10,43, per kwartier dat de te laat aangemelde werkzaamheden bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), duren;
-
-- b. € 14,02, voor zover de te late aanmelding betrekking heeft op de werkzaamheden tot afgifte van een certificaat of geleidebiljet overeenkomstig [artikel 42, tweede lid, onderdeel a of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), onder (i);
-
-- c. € 3,50, voor zover de te late aanmelding betrekking heeft op de werkzaamheden tot afgifte van een certificaat of geleidebiljet overeenkomstig [artikel 42, tweede lid, onderdeel b, onder (ii) onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11).
+Vervallen
 
 ##### Artikel 49
 
-1. Naast de retributie bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=35&z=2013-10-11&g=2013-10-11) onderscheidenlijk [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=37&z=2013-10-11&g=2013-10-11), is de aanbieder een retributie verschuldigd van € 9,05 per kwartier dat de in het desbetreffende artikel bedoelde werkzaamheden plaatsvinden buiten openingstijd.
-
-2. Naast de retributie bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), is de aanbieder een retributie verschuldigd van € 10,43 per kwartier dat de in het desbetreffende artikel bedoelde werkzaamheden plaatsvinden buiten openingstijd.
-
-3. Indien het voor de goede uitvoering van de aanvullende officiële controle, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=38&z=2013-10-11&g=2013-10-11), naar het oordeel van de NVWA noodzakelijk is deze buiten openingstijd te doen plaatsvinden, is de exploitant ten aanzien van de onderneming waarvan de aanvullende officiële controle wordt uitgevoerd een bedrag verschuldigd, naast het in artikel 38, eerste, onderscheidenlijk tweede lid, bedoelde bedrag, bestaande uit een bedrag van 30% van het in artikel 38, eerste, onderscheidenlijk tweede lid, bedoelde bedrag per kwartier, per kwartier dat de controle plaatsvindt buiten openingstijd.
-
-4. Indien het voor de goede uitvoering van de aanvullende officiële controle, bedoeld in [artikel 38a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=38a&z=2013-10-11&g=2013-10-11), naar het oordeel van de NVWA noodzakelijk is deze buiten openingstijd te doen plaatsvinden, is de exploitant ten aanzien van de onderneming waarvan de aanvullende officiële controle wordt uitgevoerd een bedrag verschuldigd, naast het in artikel 38a bedoelde bedrag, bestaande uit een bedrag van 30% van het in artikel 38a, eerste lid, bedoelde bedrag per aanvullende officiële controle.
-
-5. De openingstijd, bedoeld in dit artikel, is de periode van maandag tot en met vrijdag, van 07:00 uur tot 18:00 uur, met uitzonderling van algemeen erkende feestdagen en 5 mei.
+Vervallen
 
 ##### Artikel 50
 
-1. De aanbieder is een retributie verschuldigd, voor zover door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11) bedoelde werkzaamheden worden onderbroken, of uitgesteld, onderscheidenlijk geheel of gedeeltelijk niet plaatsvinden, bestaande uit een bedrag van € 34,75.
-
-- a. per kwartier dat de onderbreking onderscheidenlijk het uitstel voor de met de werkzaamheden belaste persoon of personen heeft geduurd, onderscheidenlijk
-
-- b. per kwartier dat de werkzaamheden, blijkens de aanvraag bedoeld in [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), zouden hebben geduurd, indien zij daadwerkelijk zouden zijn verricht.
-
-2. De aanbieder is een retributie verschuldigd, voor zover door omstandigheden buiten toedoen van de met de werkzaamheden belaste persoon of personen, de aanvraag tot afgifte van een certificaat, geleidebiljet of gewaarmerkt afschrift van een certificaat of geleidebiljet als bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), wordt ingetrokken, bestaande uit een bedrag gelijk aan de retributie die ingevolge artikel 42, tweede lid, verschuldigd zou zijn indien daadwerkelijk tot afgifte zou zijn overgegaan.
-
-3. Het eerste en tweede lid zijn niet van toepassing indien de melding als bedoeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=46&z=2013-10-11&g=2013-10-11) tijdig is gedaan.
-
-4. De in het eerste lid bedoelde retributie wordt naast de [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11) verschuldigde retributies in rekening gebracht, voor zover er sprake is van een situatie waarin de desbetreffende werkzaamheden worden uitgesteld of waarin een aanvang met de desbetreffende werkzaamheden is gemaakt, maar deze vervolgens zijn onderbroken of gedeeltelijk niet plaatsvinden.
+Vervallen
 
 ##### Artikel 51
 
-Indien de werkzaamheden bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=42&z=2013-10-11&g=2013-10-11), naar het oordeel van de aanwezige ambtenaar van de NVWA meer tijd in beslag nemen dan is aangemeld op grond van [artikel 61, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=5&artikel=61&z=2013-10-11&g=2013-10-11), is de aanbieder een retributie verschuldigd, naast de ingevolge artikel 42, eerste lid verschuldigde retributies, bestaande uit een bedrag van € 34,75 per kwartier dat de werkzaamheden langer duren dan is aangemeld.
+Vervallen
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -622,13 +502,13 @@ Vervallen
 
 - a. het signaleren van toevoegingsmiddelen, voormengsels of diervoeders die in of uit Nederland worden gevoerd;
 
-- b. het in ontvangst nemen en behandelen van een kennisgeving als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2013-10-11&g=2013-10-11);
+- b. het in ontvangst nemen en behandelen van een kennisgeving als bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=31&z=2014-03-01&g=2014-03-01);
 
 - c. het uitvoeren van de controles, bedoeld in artikelen 14 en 15 van [verordening (EG) nr. 882/2004](32004R0882) alsmede verordening (EG) nr. 669/2009;
 
-- d. het nemen van beslissingen over het voldoen van producten aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=29&z=2013-10-11&g=2013-10-11) voorzover het producten betreft waarvoor uitsluitend een documenten- en een overeenstemmingscontrole plaatsvindt;
+- d. het nemen van beslissingen over het voldoen van producten aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=29&z=2014-03-01&g=2014-03-01) voorzover het producten betreft waarvoor uitsluitend een documenten- en een overeenstemmingscontrole plaatsvindt;
 
-- e. het aantekenen van de in onderdeel d bedoelde beslissing, voorzover de producten voldoen aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=29&z=2013-10-11&g=2013-10-11) en overige gegevens op het in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=34&z=2013-10-11&g=2013-10-11), bedoelde document;
+- e. het aantekenen van de in onderdeel d bedoelde beslissing, voorzover de producten voldoen aan [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=29&z=2014-03-01&g=2014-03-01) en overige gegevens op het in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=4&artikel=34&z=2014-03-01&g=2014-03-01), bedoelde document;
 
 - f. het controleren van vervoer van toevoegingsmiddelen, voormengsels en diervoeders over Nederlands grondgebied onder douanetoezicht;
 
@@ -654,11 +534,11 @@ Als instellingen als bedoeld in [artikel 10.2 van de wet](https://wetten.overhei
 
 1. Als bemonsterings- en analysemethoden als bedoeld in artikel 11, eerste lid, van verordening (EG) nr. 882/2004 worden aangemerkt de methoden, genoemd in:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2013-10-11&g=2013-10-11) bij deze regeling, en
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2014-03-01&g=2014-03-01) bij deze regeling, en
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2013-10-11&g=2013-10-11) bij deze regeling, met dien verstande dat deze worden toegepast binnen de toepassingsgebieden en in de titels genoemde onderwerpen in genoemde bijlage.
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2014-03-01&g=2014-03-01) bij deze regeling, met dien verstande dat deze worden toegepast binnen de toepassingsgebieden en in de titels genoemde onderwerpen in genoemde bijlage.
 
-2. Indien in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2013-10-11&g=2013-10-11) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2013-10-11&g=2013-10-11) geen analysemethode is vermeld voor het te onderzoeken toepassingsgebied of onderwerp wordt een voor dat toepassingsgebied en onderwerp geschikte bemonsterings- of analysemethode gehanteerd met toepassing van artikel 11 van verordening (EG) nr. 882/2004.
+2. Indien in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=1&z=2014-03-01&g=2014-03-01) of [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&bijlage=2&z=2014-03-01&g=2014-03-01) geen analysemethode is vermeld voor het te onderzoeken toepassingsgebied of onderwerp wordt een voor dat toepassingsgebied en onderwerp geschikte bemonsterings- of analysemethode gehanteerd met toepassing van artikel 11 van verordening (EG) nr. 882/2004.
 
 #### § 3. Aanwijzing schadelijke stoffen
 
@@ -666,17 +546,17 @@ Als instellingen als bedoeld in [artikel 10.2 van de wet](https://wetten.overhei
 
 1. Het is een houder van een dier verboden een diervoeder te vervoederen dat:
 
-- a. een stof bevat in strijd met een voorschrift als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2013-10-11&g=2013-10-11);
+- a. een stof bevat in strijd met een voorschrift als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=2&artikel=3&z=2014-03-01&g=2014-03-01);
 
 - b. onveilig is of onveilig wordt geacht als bedoeld in artikel 15, eerste lid, van verordening (EG) nr. 178/2002, onverminderd artikel 20;
 
-- c. in strijd met de algemene verplichting, bedoeld in artikel 4, tweede lid, van verordening (EG) nr. 183/2005, verontreinigingen bevat, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=13&z=2013-10-11&g=2013-10-11);
+- c. in strijd met de algemene verplichting, bedoeld in artikel 4, tweede lid, van verordening (EG) nr. 183/2005, verontreinigingen bevat, onverminderd [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=13&z=2014-03-01&g=2014-03-01);
 
 - d. in strijd met de goede praktijken voor het voederen van dieren, bedoeld in artikel 5, vijfde lid, en bijlage III, van verordening (EG) nr. 183/2005, wordt vervoederd aan voedselproducerende dieren, onverminderd artikel 13;
 
 - e. in strijd met etiketteringsvoorschriften als bedoeld in artikel 3, eerste lid, onderdeel c, van verordening (EG) nr. 1831/2003, onverminderd artikel 23.
 
-2. Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2013-10-11&g=2013-10-11) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
+2. Indien het vervoederen van een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2014-03-01&g=2014-03-01) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
 
 #### § 3. Aanwijzing schadelijke stoffen
 
@@ -686,13 +566,13 @@ De minister kan toestemming verlenen voor een onderzoek voor wetenschappelijke d
 
 ##### Artikel 59
 
-1. Een aanvraag tot toestemming als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=58&z=2013-10-11&g=2013-10-11) dan wel tot verlenging of wijziging daarvan, wordt ingediend bij het Bureau Diergeneesmiddelen.
+1. Een aanvraag tot toestemming als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=58&z=2014-03-01&g=2014-03-01) dan wel tot verlenging of wijziging daarvan, wordt ingediend bij het Bureau Diergeneesmiddelen.
 
-2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 41, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=41&z=2013-10-11&g=2013-10-11), verschuldigde bedrag is voldaan.
+2. Een aanvraag wordt in behandeling genomen nadat het ingevolge [artikel 41, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=5&artikel=41&z=2014-03-01&g=2014-03-01), verschuldigde bedrag is voldaan.
 
 ##### Artikel 60
 
-Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=59&z=2013-10-11&g=2013-10-11) wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831).
+Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=59&z=2014-03-01&g=2014-03-01) wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831).
 
 #### § 5. Verrichtingen op verzoek
 
@@ -856,7 +736,7 @@ Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage 1. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2013-10-11&g=2013-10-11)
+## Bijlage 1. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2014-03-01&g=2014-03-01)
 
 ### Urine en diervoeder(grondstoffen) – screening op hormonale activiteit; gist bioassay met fluorescentiemeting
 
@@ -870,9 +750,7 @@ Vervallen
 
 ##### Artikel 40a
 
-1. Voor de meer uitgebreide officiële controles, bedoeld in artikel 8 van verordening (EG) nr. 669/2009, is de belanghebbende bij de lading een bedrag verschuldigd.
-
-2. Het in het eerste lid bedoelde bedrag bedraagt de door de Minister te berekenen werkelijke kosten van de controles op bepaalde stoffen of residuen van die stoffen en het daarvoor noodzakelijke laboratoriumonderzoek, waaronder in elk geval zijn begrepen de kosten voor het verbruik van chemicaliën, hulpmiddelen en materialen, alsmede administratiekosten, personeelskosten en huisvestingskosten.
+Vervallen
 
 ### Hoofdstuk 6. Overige bepalingen
 
@@ -886,7 +764,7 @@ Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-## Bijlage 2. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2013-10-11&g=2013-10-11)
+## Bijlage 2. behorend bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=2&artikel=56&z=2014-03-01&g=2014-03-01)
 
 ### Plantaardige en dierlijke producten, diervoeders, water – bepaling van het gehalte lactose na chromatografische scheiding; LCRI
 
