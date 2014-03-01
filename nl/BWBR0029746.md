@@ -4,7 +4,7 @@ identifier: "BWBR0029746"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-03-01"
-last_updated: "2013-07-11"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029746"
 soort: "AMvB"
@@ -100,7 +100,9 @@ In dit besluit wordt verstaan onder [verordening (EG) 1223/2009](32009R1223): Ve
 
 - s. artikel 25, derde lid.
 
-2. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=3&z=2013-07-11&g=2013-07-11).
+2. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=3&z=2014-03-01&g=2014-03-01).
+
+3. Het is verboden te handelen in strijd met de krachtens artikel 20, tweede lid, van verordening (EG) 1223/2009 gestelde voorschriften.
 
 ##### Artikel 3
 
@@ -146,11 +148,11 @@ Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en prepar
 
 1. Dit besluit treedt in werking met ingang van 11 juli 2013.
 
-2. In afwijking van het eerste lid treden [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=1&z=2013-07-11&g=2013-07-11), [artikel 2, eerste lid, aanhef en onder k, 1°, en l](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=2&z=2013-07-11&g=2013-07-11), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=4&z=2013-07-11&g=2013-07-11) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
+2. In afwijking van het eerste lid treden [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=1&z=2014-03-01&g=2014-03-01), [artikel 2, eerste lid, aanhef en onder k, 1°, en l](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=2&z=2014-03-01&g=2014-03-01), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=4&z=2014-03-01&g=2014-03-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-3. In afwijking van het eerste lid treedt [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=8&z=2013-07-11&g=2013-07-11) in werking met ingang van acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt en vervalt met ingang van 11 juli 2013.
+3. In afwijking van het eerste lid treedt [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=8&z=2014-03-01&g=2014-03-01) in werking met ingang van acht weken na de datum van uitgifte van het Staatsblad waarin dit besluit geplaatst wordt en vervalt met ingang van 11 juli 2013.
 
-4. In afwijking van het eerste lid treden [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=6&z=2013-07-11&g=2013-07-11) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=7&z=2013-07-11&g=2013-07-11) in werking met ingang van 11 januari 2013.
+4. In afwijking van het eerste lid treden [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=6&z=2014-03-01&g=2014-03-01) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029746&artikel=7&z=2014-03-01&g=2014-03-01) in werking met ingang van 11 januari 2013.
 
 ##### Artikel 13
 
