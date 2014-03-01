@@ -4,7 +4,7 @@ identifier: "BWBR0020861"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2007-02-01"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020861"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit opsporing terroristische misdrijven.
 
-## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2007-02-01&g=2007-02-01)
+## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2014-03-01&g=2014-03-01)
 
 ### Veiligheidsrisicogebieden
 
@@ -205,5 +205,69 @@ Het gebied begrensd door:
 ### **KNP-toren en Wereldomroep:**
 
 Het gebied ingesloten door:
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### World Forum – Internationale Zone te Den Haag
+
+Het gebied ingesloten door de volgende straten:
+
+Vanaf de Scheveningseweg loopt de grens naar de Van Stolkweg ter hoogte van perceel nummer 15 over het daar gelegen fietspad
+
+### Aanrijroute NSS
+
+Het gebied – de hoofdroute vanaf Schiphol naar het World Forum – dat de autosnelwegen A5, A4 en de A44 omvat alsmede de N14 Landscheidingsweg, de N4400 Landscheidingsweg, de Hubertustunnel S200, de Professor B.M. Teldersweg (S200) en de Johan de Wittlaan. Het gebied omvat mede de stroken land van 250 meter aan weerszijden van deze route.
+
+### Huis ten Bosch te Den Haag
+
+Het gebied, begrensd en inclusief:
+
+aan de westzijde:
+
+aan de zuidzijde:
+
+aan de oostzijde:
+
+aan de noordzijde:
+
+### Huis ter Duin en Hotels van Oranje te Noordwijk
+
+Het gebied, begrensd en inclusief:
+
+aan de westzijde:
+
+aan de zuidzijde:
+
+aan de oostzijde:
+
+aan de noordzijde:
+
+Het gebied omvat de volgende aanrijroutes:
+
+de aanrijroute van Huis ter Duin te Noordwijk richting het World Forum te Den Haag:
+
+de aanrijroute van Hotels van Oranje te Noordwijkerhout richting het World Forum te Den Haag:
+
+### Kurhaus te Den Haag
+
+Het gebied, begrensd door en inclusief:
+
+Het gebied omvat de navolgende aanrijroute vanaf het Kurhaus tot aan het World Forum alsmede de stroken land van 250 meter aan weerszijden van deze route:
+
+### Toegevoegde gebieden rondom Luchthaven Schiphol
+
+Aan het veiligheidsrisicogebied rondom de luchthaven Schiphol wordt het gebied toegevoegd, begrensd door en inclusief:
+
+aan de noordzijde:
+
+aan de westzijde:
+
+aan de zuidzijde:
+
+aan de oostzijde:
+
+### Okurahotel te Amsterdam
+
+Het gebied, begrensd door en inclusief:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
