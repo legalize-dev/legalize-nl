@@ -4,7 +4,7 @@ identifier: "BWBR0019442"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-09"
-last_updated: "2014-01-01"
+last_updated: "2014-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019442"
 soort: "ministeriele-regeling"
@@ -76,7 +76,17 @@ In deze regeling wordt verstaan onder:
 
 - d. de bedrijfslocatie; en
 
-- e. de kernactiviteiten.
+- e. de kernactiviteiten;
+
+- f. door primaire producenten voor levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen:
+
+- 1°. de soorten levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen die worden verzameld;
+
+- 2°. de vergunning en het overheidsorgaan die de vergunning heeft afgegeven of de private toestemming en rechthebbende op basis waarvan levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen mogen worden verzameld;
+
+- 3°. de geografische locatie waar levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen worden verzameld; en
+
+- 4°. de periode waarin levende tweekleppige weekdieren, stekelhuidigen, levende manteldieren of levende mariene buikpotigen worden verzameld.
 
 2. De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de NVWA. Dit formulier is verkrijgbaar bij de NVWA.
 
@@ -84,33 +94,21 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De exploitant van een levensmiddelenbedrijf wordt geacht voldaan te hebben aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01) voor zover ten aanzien van een inrichting de in artikel 2 bedoelde informatie bekend is bij:
+1. De exploitant van een levensmiddelenbedrijf heeft voldaan aan artikel 2 voor zover ten aanzien van een inrichting de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01) bedoelde informatie bekend is bij:
 
-- a. het Hoofdbedrijfschap Detailhandel;
+- a. de Stichting Nationale en Internationale Wegvervoer Organisatie;
 
-- b. het Hoofdbedrijfschap Ambachten;
+- b. de Vereniging Nederlandse Cateringorganisaties;
 
-- c. het Hoofdbedrijfschap Agrarische Groothandel Groenten en Fruit;
+- c. het COKZ;
 
-- d. het Bedrijfschap Horeca en Catering;
+- d. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgezondheid, Welzijn en Sport;
 
-- e. de Productschappen Vee, Vlees en Eieren;
+- e. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of
 
-- f. het Productschap Vis;
+- f. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken.
 
-- g. de Stichting Nationale en Internationale Wegvervoer Organisatie;
-
-- h. de Vereniging Nederlandse Cateringorganisaties;
-
-- i. de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;
-
-- j. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgezondheid, Welzijn en Sport;
-
-- k. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of
-
-- l. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken, Landbouw en Innovatie.
-
-2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01) bedoelde informatie reeds in het bezit is van de NVWA.
+2. De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01) bedoelde informatie reeds in het bezit is van de NVWA.
 
 ##### Artikel 4
 
@@ -120,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van [verordening (EG) 853/2004](32004R0853), voorschriften bevat; of
 
-- c. het COKZ, onderscheidenlijk het CPE de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of
+- c. het COKZ de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn; of
 
 - d. de NVWA, voor zover het een erkenning betreft op grond van Verordening (EU) nr. 210/2013 van de Commissie van 11 maart 2013 betreffende de erkenning van inrichtingen die kiemgroenten produceren overeenkomstig Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad (PbEU 2013, L 68).
 
@@ -136,6 +134,6 @@ Deze regeling wordt aangehaald als: Warenwetregeling procedures registratie en e
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-01-01&g=2014-01-01).
+Deze bijlage behoort bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019442&artikel=2&z=2014-03-01&g=2014-03-01).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
