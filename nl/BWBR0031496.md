@@ -4,7 +4,7 @@ identifier: "BWBR0031496"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-06"
-last_updated: "2013-11-02"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031496"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 1. Het is verboden te handelen in strijd met artikel 2, eerste lid, artikel 3, eerste en vierde lid, artikel 4, artikel 5, eerste lid en tweede lid, artikel 8, eerste lid, artikel 9, artikel 10 bis, artikel 10 ter, artikel 10 quinquies, eerste lid, artikel 10 sexies, artikel 11, eerste lid, artikel 13, eerste lid, artikel 14 bis, eerste lid, artikel 15, eerste lid, artikel 15 bis, eerste lid, artikel 15 ter, eerste lid, artikel 16, artikel 17, eerste en vierde lid, artikel 18, eerste lid, artikel 22, artikel 23, eerste tot en met vierde lid, artikel 30, eerste lid, derde tot en met zesde lid, artikel 30 bis, artikel 31, eerste lid, artikel 33 tot en met artikel 35, eerste en vierde lid, artikel 36, eerste lid, artikel 37, eerste en tweede lid, artikel 37 bis, artikel 37 ter, eerste lid, artikel 40, eerste lid, en artikel 41 van Verordening (EU) nr. 267/2012 van de Raad van de Europese Unie van 23 maart 2012 (Pb L 88).
 
-2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 6, artikel 7, eerste lid, artikel 10, artikel 10 quater, artikel 10 septies, artikel 12, artikel 14, artikel 14 bis, tweede lid, artikel 15 bis, derde lid, artikel 15 ter, tweede lid, artikel 15 quater, artikel 19, eerste lid, artikel 20, artikel 21, artikel 24 tot en met artikel 28 bis, artikel 29, eerste en tweede lid, artikel 30, tweede lid, artikel 35, tweede en derde lid, artikel 37 ter, tweede lid, of artikel 43 bis, eerste en tweede lid, van Verordening (EU) nr. 267/2012 van toepassing is.
+2. Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 6, artikel 7, eerste lid, artikel 10, artikel 10 quater, artikel 10 septies, artikel 11, derde en vierde lid, artikel 12, artikel 13, derde lid, artikel 14, artikel 14 bis, tweede lid, artikel 15, derde lid, artikel 15 bis, derde lid, artikel 15 ter, tweede lid, artikel 15 quater, artikel 19, eerste lid, artikel 20, artikel 21, artikel 24 tot en met artikel 28 bis, artikel 28 ter, artikel 29, eerste en tweede lid, artikel 30, tweede lid, artikel 35, tweede en derde lid, artikel 37 ter, tweede en derde lid, of artikel 43 bis, eerste en tweede lid, van Verordening (EU) nr. 267/2012 van toepassing is.
 
 ##### Artikel 2
 
@@ -120,7 +120,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5a
 
-Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2013-11-02&g=2013-11-02).
+Een instelling als bedoeld in [artikel 1.1, onderdeel g, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.1), verstrekt de Minister van Onderwijs, Cultuur en Wetenschap gevraagd en ongevraagd alle inlichtingen over wijzigingen in het door de instelling verzorgde onderwijs en onderzoek die van belang kunnen zijn voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031496&artikel=5&z=2014-03-06&g=2014-03-06).
 
 ## Bijlage. bij Sanctieregeling Iran 2012
 
