@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2013-10-01"
+last_updated: "2014-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ Besluit:
 
 ##### Artikel 2
 
-Onverminderd [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1&z=2013-10-01&g=2013-10-01), en [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1a&z=2013-10-01&g=2013-10-01) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1&z=2013-10-01&g=2014-03-06), en [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1a&z=2013-10-01&g=2014-03-06) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
 
 - a. de vlucht wordt uitgevoerd in overeenstemming met de algemene vliegvoorschriften voor zover daarvan niet wordt afgeweken in deze regeling;
 
