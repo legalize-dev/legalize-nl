@@ -4,7 +4,7 @@ identifier: "BWBR0023543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-18"
-last_updated: "2014-01-16"
+last_updated: "2014-03-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023543"
 soort: "ministeriele-regeling"
@@ -188,7 +188,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 ##### Artikel 8. Mandaat aan het hoofd van de baten-lastendienst Nationaal Archief
 
-1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2014-01-16&g=2014-01-16), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
+1. Het hoofd van het Nationaal Archief heeft, onverminderd [artikel 4, eerste lid, onderdeel l](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=4&z=2014-03-07&g=2014-03-07), en de mandaatverlening aan de secretaris-generaal en de directeur-generaal, binnen het kader van de managementafspraak mandaat ten aanzien van alle aangelegenheden die verband houden met de taken en verantwoordelijkheden op zijn werkterrein.
 
 2. Het hoofd van het Nationaal Archief is budgethouder voor de hem door de secretaris-generaal toegewezen budgetten.
 
@@ -226,7 +226,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. stukken gericht aan de Nationale ombudsman,
 
-- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2014-01-16&g=2014-01-16),
+- d. het verlenen van mandaat inzake een bevoegdheid, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=13&z=2014-03-07&g=2014-03-07),
 
 - e. de afwikkeling van een gemeld vermoeden van een misstand,
 
@@ -248,7 +248,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - c. de voorlopige buiteninvorderingstelling van vorderingen op derden, het kwijtschelden van vorderingen op derden, het deelnemen in een NV of BV met een financieel belang en het sluiten van huur-, huurkoop- en leaseovereenkomsten, een en ander voor een bedrag tot € 500.000 voor de duur van de overeenkomst.
 
-2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2014-01-16&g=2014-01-16), en [artikel 14, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2014-01-16&g=2014-01-16).
+2. De directeur-generaal DUO is gemandateerd met betrekking tot het nemen van beslissingen op bezwaar- en beroepschriften onverminderd [artikel 7, vierde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=7&z=2014-03-07&g=2014-03-07), en [artikel 14, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14&z=2014-03-07&g=2014-03-07).
 
 3. Met uitzondering van de bevoegdheid bedoeld in het tweede lid is ondermandaat van de bevoegdheden, bedoeld in dit artikel niet mogelijk.
 
@@ -272,13 +272,13 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - 6°. de toekenning van financiële tegemoetkomingen als onderdeel van sociaal flankerende maatregelen;
 
-- c. het afkondigen van een vacaturestop voor het ministerie;
+- c. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is;
 
-- d. het beslissen op bezwaren, voor zover die betrekking hebben op handelingen of besluiten waarbij een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) als zodanig belanghebbende is;
+- d. besluiten als genoemd in het derde lid ten aanzien van medewerkers voor wie hij als direct-leidinggevende optreedt, voor zover niet bij of krachtens wet anders is of wordt bepaald.
 
-- e. besluiten als genoemd in het tweede lid ten aanzien van medewerkers voor wie hij als direct-leidinggevende optreedt, voor zover niet bij of krachtens wet anders is of wordt bepaald.
+2. De secretaris-generaal, de directeuren-generaal en de inspecteur-generaal van het onderwijs hebben mandaat voor het openstellen van vacatures voor de onder hen ressorterende dienstonderdelen.
 
-2. Onverminderd het eerste lid zijn naasthogere leidinggevenden ten aanzien van het onder hen ressorterende personeel met uitzondering van de medewerkers aan wie zij rechtstreeks leiding geven gemandateerd met betrekking tot:
+3. Onverminderd het eerste en tweede lid zijn naasthogere leidinggevenden ten aanzien van het onder hen ressorterende personeel met uitzondering van de medewerkers aan wie zij rechtstreeks leiding geven gemandateerd met betrekking tot:
 
 - a. aanstellings- en benoemingsbesluiten en daaraan voorafgaande besluiten die daarop betrekking hebben;
 
@@ -296,11 +296,11 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - h. besluiten als bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=48), [66](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=66), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=69) en [73 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=73).
 
-3. Onverminderd het eerste en tweede lid hebben de directeuren-generaal, de inspecteur-generaal van het onderwijs, het hoofd van de Erfgoedinspectie, het hoofd van het Nationaal Archief en de directeuren mandaat voor het nemen van personele besluiten ten behoeve van het onder hen ressorterende personeel.
+4. Onverminderd het eerste, tweede en derde lid hebben de directeuren-generaal, de inspecteur-generaal van het onderwijs, het hoofd van de Erfgoedinspectie, het hoofd van het Nationaal Archief en de directeuren mandaat voor het nemen van personele besluiten ten behoeve van het onder hen ressorterende personeel.
 
-4. Direct-leidinggevenden hebben binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
+5. Direct-leidinggevenden hebben binnen het kader van de managementafspraak mandaat ten aanzien van de personele aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein voor zover deze worden afgehandeld via het P-direktportaal.
 
-5. Het verlenen van ondermandaat van het in dit artikel bepaalde is uitsluitend mogelijk voor de personele besluiten, bedoeld in het derde lid, en voor zover het betreft de mandaten aan de directeur-generaal DUO, de inspecteur-generaal van het onderwijs, het hoofd van het Nationaal Archief en de directeur van de Rijksdienst voor het Cultureel Erfgoed.
+6. Het verlenen van ondermandaat van het in dit artikel bepaalde is uitsluitend mogelijk voor de personele besluiten, bedoeld in het vierde lid, en voor zover het betreft de mandaten aan de directeur-generaal DUO, de inspecteur-generaal van het onderwijs, het hoofd van het Nationaal Archief en de directeur van de Rijksdienst voor het Cultureel Erfgoed.
 
 ##### Artikel 15. Afwezigheid of verhindering
 
@@ -326,7 +326,7 @@ handtekening van de gemandateerde,
 
 naam van de gemandateerde.
 
-2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2014-01-16&g=2014-01-16) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
+2. De gemandateerde is gehouden in de ondertekening van stukken als bedoeld in [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0023543&artikel=14a&z=2014-03-07&g=2014-03-07) zijn vertegenwoordigingsbevoegdheid tot uitdrukking te brengen door opneming van de formule:
 
 **De minister van Onderwijs, Cultuur en Wetenschap en de minister van Infrastructuur en Milieu,**
 
