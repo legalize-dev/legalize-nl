@@ -4,7 +4,7 @@ identifier: "BWBR0012811"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2014-02-05"
+last_updated: "2014-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012811"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Besluit:
 
 - k. **reisdocumentenmodule:** de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;
 
-- l. **standaardclausule:** een clausule, waarvan de tekst in [bijlage A van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=A&z=2014-02-05&g=2014-02-05) is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;
+- l. **standaardclausule:** een clausule, waarvan de tekst in [bijlage A van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=A&z=2014-03-09&g=2014-03-09) is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;
 
 - m. **openbaar lichaam:** openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
@@ -82,11 +82,11 @@ Besluit:
 
 - q. **spoedopdracht:** de opdracht aan de leverancier om versneld over te gaan tot vervaardiging en levering van een reisdocument;
 
-- r. **agentschap BPR:** het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+- r. vervallen;;
 
-- s. **identificatiekaart:** een document als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=80&z=2014-02-05&g=2014-02-05), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;
+- s. **identificatiekaart:** een document als bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=80&z=2014-03-09&g=2014-03-09), waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;
 
-- t. **leverancier:** een bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;
+- t. **leverancier:** een bedrijf dat in opdracht van de Minister van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;
 
 - u. **distributeur:** het bedrijf dat zorg draagt voor de distributie van reisdocumenten, identificatiekaarten en overige materialen die door de leverancier worden geleverd;
 
@@ -102,9 +102,9 @@ Besluit:
 
 - aa. **aanvraagstation:** de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;
 
-- bb. **foto- en handtekeningenformulier:** het daartoe door de leverancier beschikbaar gestelde formulier dat bestemd is voor het opnemen van de foto en de handtekening, bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-02-05&g=2014-02-05);
+- bb. **foto- en handtekeningenformulier:** het daartoe door de leverancier beschikbaar gestelde formulier dat bestemd is voor het opnemen van de foto en de handtekening, bedoeld in [artikel 38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-03-09&g=2014-03-09);
 
-- cc. **aanvraagstationlocatie:**de locatie waar de bevoegde autoriteit met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-02-05&g=2014-02-05) één of meerdere aanvraagstations heeft geplaatst;
+- cc. **aanvraagstationlocatie:**de locatie waar de bevoegde autoriteit met inachtneming van [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-03-09&g=2014-03-09) één of meerdere aanvraagstations heeft geplaatst;
 
 - dd. **mobiel vingerafdrukopname-apparaat:** de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt;
 
@@ -156,7 +156,7 @@ Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, e
 
 6. In het model noodpaspoort, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen.
 
-7. Op de houderpagina van de in het eerste lid, onder a, derde lid en vierde lid, genoemde modellen van reisdocumenten wordt, indien de aanvrager Nederlander is en als ingezetene staat ingeschreven in de gemeentelijke basisadministratie persoonsgegevens, bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0006723&artikel=2), het burgerservicenummer van de houder vermeld.
+7. De in het eerste lid, onder a, en derde lid genoemde reisdocumenten en de Nederlandse identiteitskaart, bedoeld in het vierde lid, vermelden het burgerservicenummer van de houder, tenzij aan de houder geen burgerservicenummer is toegekend.
 
 8. De woonplaats en het adres worden niet opgenomen in de in het eerste tot en met vierde lid genoemde modellen.
 
@@ -164,7 +164,7 @@ Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, e
 
 ##### Artikel 4. Vestigingsplaats van het register
 
-Het register paspoortsignaleringen is ondergebracht bij het agentschap BPR.
+Het register paspoortsignaleringen is ondergebracht bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 5. Administratie van kennisgevingen uit het register
 
@@ -182,7 +182,7 @@ Het register paspoortsignaleringen is ondergebracht bij het agentschap BPR.
 
 - b. tweede paspoorten.
 
-2. De gezaghebber neemt ten behoeve van een persoon die in aanmerking komt voor een reisdocument als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) of [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15), maar op het moment van vertrek uit het openbaar lichaam niet in het bezit is van een geldig nationaal paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, met inachtneming van het bepaalde in [hoofdstuk XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&z=2014-02-05&g=2014-02-05), een aanvraag in ontvangst voor en gaat over tot de verstrekking van:
+2. De gezaghebber neemt ten behoeve van een persoon die in aanmerking komt voor een reisdocument als bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) of [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15), maar op het moment van vertrek uit het openbaar lichaam niet in het bezit is van een geldig nationaal paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, met inachtneming van het bepaalde in [hoofdstuk XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&z=2014-03-09&g=2014-03-09), een aanvraag in ontvangst voor en gaat over tot de verstrekking van:
 
 - a. een noodpaspoort, indien de aanvrager Nederlander is;
 
@@ -190,11 +190,11 @@ Het register paspoortsignaleringen is ondergebracht bij het agentschap BPR.
 
 ##### Artikel 7. De burgemeesters van aangewezen gemeenten
 
-De burgemeesters van Bergen op Zoom, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland en Oldambt verrichten de handelingen ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=6&z=2014-02-05&g=2014-02-05), tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
+De burgemeesters van Bergen op Zoom, Echt-Susteren, Enschede, ’s-Gravenhage, Haarlemmermeer, Maastricht, Montferland en Oldambt verrichten de handelingen ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) en [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=6&z=2014-03-09&g=2014-03-09), tevens ten behoeve van personen die geen ingezetene van een gemeente zijn.
 
 ##### Artikel 8. Verwijzing
 
-De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de burgemeester of de gezaghebber die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=6&z=2014-02-05&g=2014-02-05) en [7 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) daartoe wel bevoegd is.
+De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de burgemeester of de gezaghebber die ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=6&z=2014-03-09&g=2014-03-09) en [7 van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) daartoe wel bevoegd is.
 
 ### Hoofdstuk II. Vaststelling aanspraken op reisdocumenten en geldigheid
 
@@ -208,11 +208,11 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 ##### Artikel 10. Geldigheid
 
-1. Het nationaal paspoort is geldig voor vijf jaren en voor alle landen.
+1. Het nationaal paspoort is geldig voor tien jaren en voor alle landen. Indien de aanvrager bij de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt, is het nationaal paspoort in afwijking van de eerste zin geldig voor vijf jaren en voor alle landen.
 
-2. De Nederlandse identiteitskaart is geldig voor vijf jaren en voor de landen die behoren tot de Europese Unie, alsmede voor Andorra, Liechtenstein, Monaco, Noorwegen, San Marino, Turkije, IJsland en Zwitserland.
+2. Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken in het nationaal paspoort worden opgenomen, bedraagt in afwijking van het eerste lid de geldigheidsduur van het betreffende nationaal paspoort één jaar.
 
-3. Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken in het document worden opgenomen, bedraagt in afwijking van het eerste en tweede lid, de geldigheidsduur van het betreffende reisdocument één jaar.
+3. De Nederlandse identiteitskaart is geldig voor tien jaren. Indien de aanvrager bij de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt, is de Nederlandse identiteitskaart, in afwijking van de eerste zin geldig voor vijf jaren.
 
 #### § 2. Reisdocumenten voor vluchtelingen en reisdocumenten voor vreemdelingen
 
@@ -234,7 +234,7 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 ##### Artikel 12. Vaststelling aanspraken op reisdocumenten als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) en [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15)
 
-1. Behoudens het bepaalde in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=15a&z=2014-02-05&g=2014-02-05), wordt gebruik gemaakt van het daartoe door het agentschap BPR beschikbaar gestelde formulier bij de vaststelling van de aanspraak op verstrekking:
+1. Behoudens het bepaalde in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=15a&z=2014-03-09&g=2014-03-09), wordt gebruik gemaakt van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier bij de vaststelling van de aanspraak op verstrekking:
 
 - a. van een reisdocument als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=14) of [15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15) door de burgemeester, of
 
@@ -298,7 +298,7 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 - d. het aan de aanvrager verstrekte verblijfsdocument met vermelding van het documentnummer en de geldigheidsduur, dan wel de reden waarom de aanvrager niet in aanmerking komt voor een verblijfsdocument.
 
-4. In het formulier wordt tevens vermeld of en zo ja, op welke punten de ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=12&z=2014-02-05&g=2014-02-05) vermelde gegevens afwijken van de gegevens die omtrent de aanvrager in de vreemdelingenadministratie zijn opgenomen.
+4. In het formulier wordt tevens vermeld of en zo ja, op welke punten de ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=12&z=2014-03-09&g=2014-03-09) vermelde gegevens afwijken van de gegevens die omtrent de aanvrager in de vreemdelingenadministratie zijn opgenomen.
 
 5. De daartoe aangewezen ambtenaar voorziet het formulier op de bestemde plaats van zijn handtekening.
 
@@ -352,7 +352,7 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 5. Een reisdocument voor vreemdelingen, verstrekt aan een persoon die op grond van de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld, is geldig voor vijf jaren en voor alle landen.
 
-6. Op een reisdocument voor vreemdelingen, verstrekt op grond van [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=15a&z=2014-02-05&g=2014-02-05), is het bepaalde in het derde en vierde lid van overeenkomstige toepassing, met dien verstande dat het reisdocument ten hoogste geldig is tot de datum waarop de houder de leeftijd van zestien jaren bereikt.
+6. Op een reisdocument voor vreemdelingen, verstrekt op grond van [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=15a&z=2014-03-09&g=2014-03-09), is het bepaalde in het derde en vierde lid van overeenkomstige toepassing, met dien verstande dat het reisdocument ten hoogste geldig is tot de datum waarop de houder de leeftijd van zestien jaren bereikt.
 
 7. Een reisdocument voor vreemdelingen als bedoeld in [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15), is geldig:
 
@@ -372,7 +372,7 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 ##### Artikel 18. Geldigheid
 
-1. Een faciliteitenpaspoort is geldig voor vijf jaren en voor alle landen.
+1. Een faciliteitenpaspoort is geldig voor tien jaren en voor alle landen. Indien de aanvrager bij de aanvraag de leeftijd van achttien jaar nog niet heeft bereikt, is het faciliteitenpaspoort in afwijking van de eerste zin geldig voor vijf jaren en voor alle landen.
 
 2. Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken in het document worden opgenomen, bedraagt in afwijking van het eerste lid, de geldigheidsduur van het betreffende reisdocument één jaar.
 
@@ -408,7 +408,7 @@ De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen
 
 1. De gegevens voor de aanvraag van een reisdocument worden opgenomen met behulp van de reisdocumentenmodule en het aanvraagstation.
 
-2. In de aanvraag wordt de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=2&artikel=83&z=2014-02-05&g=2014-02-05) bedoelde locatiecode, behorende bij de uitgiftelocatie, vermeld.
+2. In de aanvraag wordt de in [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=2&artikel=83&z=2014-03-09&g=2014-03-09) bedoelde locatiecode, behorende bij de uitgiftelocatie, vermeld.
 
 3. In de aanvraag wordt aangegeven op welk model reisdocument deze betrekking heeft.
 
@@ -480,7 +480,7 @@ In de aanvraag voor een reisdocument, niet zijnde een Nederlandse identiteitskaa
 
 1. Indien een eerder uitgereikt Nederlands reisdocument is vermist of op andere gronden dan ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, in de aanvraag vermeld. Indien deze gegevens op het moment van de aanvraag niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.
 
-2. De ingevolge [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door het agentschap BPR beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.
+2. De ingevolge [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) door de aanvrager af te leggen schriftelijke verklaring omtrent de vermissing geschiedt ten overstaan van de daartoe aangewezen ambtenaar overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) genoemde gewaarmerkte kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.
 
 3. De daartoe aangewezen ambtenaar maakt een kopie van de door de aanvrager over te leggen schriftelijke verklaring omtrent de inname van zijn reisdocument als bedoeld in [artikel 31, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31).
 
@@ -494,7 +494,7 @@ In de aanvraag voor een reisdocument, niet zijnde een Nederlandse identiteitskaa
 
 1. Bij het indienen van een aanvraag voor een reisdocument wordt een pasfoto overgelegd die een goedgelijkend beeld van de aanvrager geeft.
 
-2. De overgelegde pasfoto voldoet aan de acceptatiecriteria van de in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=L&z=2014-02-05&g=2014-02-05) bij deze regeling opgenomen fotomatrix.
+2. De overgelegde pasfoto voldoet aan de acceptatiecriteria van de in [bijlage L](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=L&z=2014-03-09&g=2014-03-09) bij deze regeling opgenomen fotomatrix.
 
 3. In afwijking van het tweede lid kan een pasfoto worden geaccepteerd indien de aanvrager heeft aangetoond dat godsdienstige of levensbeschouwelijke redenen zich verzetten tegen het niet bedekken van het hoofd.
 
@@ -562,19 +562,19 @@ Vervallen
 
 ##### Artikel 38
 
-1. De daartoe aangewezen ambtenaar vergelijkt, behoudens in het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-02-05&g=2014-02-05) bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto op de bestemde plaats in het foto- en handtekeningformulier aan.
+1. De daartoe aangewezen ambtenaar vergelijkt, behoudens in het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-03-09&g=2014-03-09) bedoelde geval, nauwkeurig de overgelegde foto van de aanvrager dan wel van degene ten behoeve van wie de aanvraag wordt ingediend met de persoon die voor hem staat en brengt deze foto op de bestemde plaats in het foto- en handtekeningformulier aan.
 
-2. De in het eerste lid bedoelde ambtenaar ziet, behoudens in het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=29&z=2014-02-05&g=2014-02-05) bedoelde geval, er op toe dat in het foto- en handtekeningformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan.
+2. De in het eerste lid bedoelde ambtenaar ziet, behoudens in het in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=29&z=2014-03-09&g=2014-03-09) bedoelde geval, er op toe dat in het foto- en handtekeningformulier op de bestemde plaats de duidelijk leesbare handtekening wordt geplaatst van de aanvrager dan wel van de persoon ten behoeve van wie de aanvraag van het reisdocument wordt gedaan.
 
 3. Het foto- en handtekeningformulier wordt door de in het eerste lid bedoelde ambtenaar met gebruikmaking van het aanvraagstation gedigitaliseerd.
 
-4. Het opnemen van de vingerafdrukken als bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=28a&z=2014-02-05&g=2014-02-05), geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.
+4. Het opnemen van de vingerafdrukken als bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=28a&z=2014-03-09&g=2014-03-09), geschiedt met gebruikmaking van het aanvraagstation. Indien de aanvrager op grond van [artikel 28, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=28) niet in persoon verschijnt, worden zijn vingerafdrukken opgenomen met behulp van het mobiel vingerafdrukopname-apparaat.
 
 #### § 2. Aanvraag ten behoeve van een handelingsonbekwame
 
 ##### Artikel 39
 
-1. Een aanvraag waarbij niet is voldaan aan het bepaalde in de [artikelen 9 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-02-05&g=2014-02-05) wordt niet in behandeling genomen.
+1. Een aanvraag waarbij niet is voldaan aan het bepaalde in de [artikelen 9 tot en met 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-03-09&g=2014-03-09) wordt niet in behandeling genomen.
 
 2. Indien de daartoe aangewezen ambtenaar, met inachtneming van het bij of krachtens de wet bepaalde, heeft beslist dat het aangevraagde reisdocument kan worden uitgereikt, worden in de aanvraag vermeld het feit van deze verstrekking, de datum van deze verstrekking en de datum waarop de geldigheidsduur van het uit te reiken reisdocument eindigt.
 
@@ -588,19 +588,19 @@ Vervallen
 
 ##### Artikel 40
 
-1. De daartoe aangewezen ambtenaar draagt zorg dat de aanvraaggegevens, genoemd in de [artikelen 21 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-02-05&g=2014-02-05), [30 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-02-05&g=2014-02-05) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=39&z=2014-02-05&g=2014-02-05) in de reisdocumentenmodule en de foto, vingerafdrukken en handtekening in het aanvraagstation worden vastgelegd.
+1. De daartoe aangewezen ambtenaar draagt zorg dat de aanvraaggegevens, genoemd in de [artikelen 21 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-03-09&g=2014-03-09), [30 tot en met 37](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-03-09&g=2014-03-09) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=39&z=2014-03-09&g=2014-03-09) in de reisdocumentenmodule en de foto, vingerafdrukken en handtekening in het aanvraagstation worden vastgelegd.
 
-2. Indien bij de aanvraag voor het opnemen van de vingerafdrukken gebruik is gemaakt van het mobiel vingerafdrukopname-apparaat worden de gegevens uitsluitend verwerkt in een aanvraagstation dat zich op de uitgiftelocatie bevindt. Het mobiel vingerafdrukopname-apparaat wordt in het locale netwerk van de uitgiftelocatie aangesloten, waarna de daarin vastgelegde vingerafdrukken door het aanvraagstation uit het mobiel vingerafdrukopname-apparaat worden opgehaald en samengevoegd met de ingevolge [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-02-05&g=2014-02-05), gedigitaliseerde foto en handtekening.
+2. Indien bij de aanvraag voor het opnemen van de vingerafdrukken gebruik is gemaakt van het mobiel vingerafdrukopname-apparaat worden de gegevens uitsluitend verwerkt in een aanvraagstation dat zich op de uitgiftelocatie bevindt. Het mobiel vingerafdrukopname-apparaat wordt in het locale netwerk van de uitgiftelocatie aangesloten, waarna de daarin vastgelegde vingerafdrukken door het aanvraagstation uit het mobiel vingerafdrukopname-apparaat worden opgehaald en samengevoegd met de ingevolge [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-03-09&g=2014-03-09), gedigitaliseerde foto en handtekening.
 
 3. De in de reisdocumentenmodule en het aanvraagstation vastgelegde gegevens worden verwerkt en doorgezonden naar het reisdocumentenstation.
 
-4. Indien de aanvraaggegevens zijn doorgezonden aan het reisdocumentenstation, maar de beslissing op de aanvraag is aangehouden, worden de in [artikel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=39&z=2014-02-05&g=2014-02-05), genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
+4. Indien de aanvraaggegevens zijn doorgezonden aan het reisdocumentenstation, maar de beslissing op de aanvraag is aangehouden, worden de in [artikel 39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=39&z=2014-03-09&g=2014-03-09), genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
 
 ### Hoofdstuk IV. Verzending van het aanvraagbestand en levering van documenten
 
 ##### Artikel 41. Het toevoegen van de foto, de vingerafdrukken en de handtekening aan de aanvraag
 
-De in het aanvraagstation vastgelegde foto, handtekening en vingerafdrukken worden met de aanvraaggegevens, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=40&z=2014-02-05&g=2014-02-05), samengevoegd tot een aanvraagbestand in het reisdocumentenstation.
+De in het aanvraagstation vastgelegde foto, handtekening en vingerafdrukken worden met de aanvraaggegevens, bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=40&z=2014-03-09&g=2014-03-09), samengevoegd tot een aanvraagbestand in het reisdocumentenstation.
 
 ##### Artikel 42. Het verzenden van het aanvraagbestand
 
@@ -608,9 +608,9 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 
 ##### Artikel 43. In ontvangstneming van geleverde documenten in de gemeenten
 
-1. De reisdocumenten en identificatiekaarten worden in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=81&z=2014-02-05&g=2014-02-05).
+1. De reisdocumenten en identificatiekaarten worden in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in [artikel 81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=81&z=2014-03-09&g=2014-03-09).
 
-2. De in het eerste lid genoemde ambtenaar toont de in [artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=81&z=2014-02-05&g=2014-02-05), bedoelde postmachtiging van de distributeur en legitimeert zich, op verzoek van de besteller, met een identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
+2. De in het eerste lid genoemde ambtenaar toont de in [artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=81&z=2014-03-09&g=2014-03-09), bedoelde postmachtiging van de distributeur en legitimeert zich, op verzoek van de besteller, met een identiteitsdocument als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
 3. De aflevering van de zending vindt plaats op het voor de desbetreffende uitgiftelocatie afgesproken tijdstip. Bij aflevering kan de besteller worden verplicht zich te identificeren met een door de distributeur aan haar werknemers beschikbaar gestelde legitimatie.
 
@@ -620,7 +620,7 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 
 1. De tot ontvangst bevoegde ambtenaar controleert in het bijzijn van de besteller of de zending voor hem bestemd is. Indien dit het geval is en het pakket is onbeschadigd, tekent de tot ontvangst bevoegde ambtenaar de door de besteller overgelegde distributielijst voor ontvangst.
 
-2. Indien de zending niet voor de uitgiftelocatie bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.
+2. Indien de zending niet voor de uitgiftelocatie bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken wordt gehandeld overeenkomstig bijlage D. Het in kennis stellen van de leverancier geschiedt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.
 
 3. Bij de constatering dat het pakket beschadigd is, wordt het pakket in het bijzijn van de besteller in een voor het publiek afgesloten ruimte gecontroleerd. Ook in geval van beschadiging wordt het pakket in ontvangst genomen.
 
@@ -636,9 +636,9 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 
 ##### Artikel 46. Ophalen verkeerd geleverde reisdocumenten bij gemeenten
 
-1. De reisdocumenten, die na de controle van de zending als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=44&z=2014-02-05&g=2014-02-05) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=45&z=2014-02-05&g=2014-02-05) in een gemeente voor een andere burgemeester blijken te zijn bestemd, worden op de uitgiftelocatie op de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-02-05&g=2014-02-05) aangegeven wijze opgeslagen tot ze worden opgehaald door de leverancier.
+1. De reisdocumenten, die na de controle van de zending als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=44&z=2014-03-09&g=2014-03-09) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=45&z=2014-03-09&g=2014-03-09) in een gemeente voor een andere burgemeester blijken te zijn bestemd, worden op de uitgiftelocatie op de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-03-09&g=2014-03-09) aangegeven wijze opgeslagen tot ze worden opgehaald door de leverancier.
 
-2. Het overdragen van de verkeerd geleverde documenten aan de leverancier geschiedt overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=D&z=2014-02-05&g=2014-02-05), met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.
+2. Het overdragen van de verkeerd geleverde documenten aan de leverancier geschiedt overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=D&z=2014-03-09&g=2014-03-09), met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.
 
 ##### Artikel 47. Nabezorgen niet ontvangen reisdocumenten
 
@@ -648,13 +648,13 @@ De daartoe aangewezen ambtenaar zendt, nadat is vastgesteld dat het aangevraagde
 
 3. In het geval reisdocumenten op een verkeerde uitgiftelocatie in het Europese deel van Nederland zijn afgeleverd, draagt de leverancier er zorg voor dat de desbetreffende documenten, zo mogelijk nog dezelfde dag, op de juiste uitgiftelocatie in het Europese deel van Nederland worden aangeboden.
 
-4. Het in ontvangst nemen van reisdocumenten als bedoeld in het derde lid geschiedt overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=D&z=2014-02-05&g=2014-02-05), met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.
+4. Het in ontvangst nemen van reisdocumenten als bedoeld in het derde lid geschiedt overeenkomstig [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&bijlage=D&z=2014-03-09&g=2014-03-09), met gebruikmaking van het daartoe door de leverancier beschikbaar gestelde formulier.
 
 5. In het geval de zending zich nog onder de transporteur bevindt, draagt deze er zorg voor dat de zending alsnog zo spoedig mogelijk wordt afgeleverd.
 
 ##### Artikel 48. Herzending van de aanvraag
 
-Indien een reisdocument is beschadigd, onjuist is geproduceerd of gepersonaliseerd, dan wel niet op het verwachte tijdstip is ontvangen en niet alsnog ingevolge [artikel 47, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=47&z=2014-02-05&g=2014-02-05), zal worden bezorgd, wordt het op het reisdocument betrekking hebbende aanvraagbestand opnieuw verzonden aan de leverancier.
+Indien een reisdocument is beschadigd, onjuist is geproduceerd of gepersonaliseerd, dan wel niet op het verwachte tijdstip is ontvangen en niet alsnog ingevolge [artikel 47, tweede, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=47&z=2014-03-09&g=2014-03-09), zal worden bezorgd, wordt het op het reisdocument betrekking hebbende aanvraagbestand opnieuw verzonden aan de leverancier.
 
 ##### Artikel 49. Terugzending onjuist geproduceerde of gepersonaliseerde, beschadigde of te laat afgeleverde documenten
 
@@ -662,7 +662,7 @@ Reisdocumenten die:
 
 - a. bij de controle van de zending in het reisdocumentenstation dan wel bij de uitreiking onjuist blijken te zijn geproduceerd of gepersonaliseerd, dan wel blijken te zijn beschadigd;
 
-- b. na het verwachte tijdstip zijn ontvangen en waarvan inmiddels het daarop betrekking hebbende aanvraagbestand ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=48&z=2014-02-05&g=2014-02-05) opnieuw is verzonden, worden per aangetekende post, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, teruggestuurd aan de leverancier.
+- b. na het verwachte tijdstip zijn ontvangen en waarvan inmiddels het daarop betrekking hebbende aanvraagbestand ingevolge [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=48&z=2014-03-09&g=2014-03-09) opnieuw is verzonden, worden per aangetekende post, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, teruggestuurd aan de leverancier.
 
 ### Hoofdstuk V. Uitreiking van het reisdocument en bijschrijvingssticker
 
@@ -676,9 +676,9 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 2. Het reisdocument wordt per aangetekende post verstuurd naar het hoofd burgerzaken van de gemeente waarvan de aanvrager inmiddels ingezetene is.
 
-3. De burgemeester van de gemeente, bedoeld in het tweede lid, gaat tot uitreiking van het reisdocument over met in achtneming van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=50&z=2014-02-05&g=2014-02-05). De op de uitreiking betrekking hebbende gegevens worden geregistreerd in de basisregistratie personen.
+3. De burgemeester van de gemeente, bedoeld in het tweede lid, gaat tot uitreiking van het reisdocument over met in achtneming van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=50&z=2014-03-09&g=2014-03-09). De op de uitreiking betrekking hebbende gegevens worden geregistreerd in de basisregistratie personen.
 
-4. Van de uitreiking van het reisdocument wordt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis gegeven aan de burgemeester van de gemeente waar de aanvraag in behandeling is genomen.
+4. Van de uitreiking van het reisdocument wordt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis gegeven aan de burgemeester van de gemeente waar de aanvraag in behandeling is genomen.
 
 5. De burgemeester die een kennisgeving ontvangt als bedoeld in het vierde lid registreert de uitreiking van het reisdocument in het reisdocumentenstation en de reisdocumentenmodule, waarin de gegevens betreffende de aanvraag zijn vastgelegd.
 
@@ -686,7 +686,7 @@ Tot uitreiking van het reisdocument wordt slechts overgegaan, nadat de identitei
 
 1. Indien het bij de uitreiking van het aangevraagde reisdocument in te leveren reisdocument is vermist of op andere gronden dan ingevolge de wet door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven, alsmede het nummer van het desbetreffende reisdocument en de autoriteit die het heeft verstrekt, alsnog in de aanvraag met betrekking tot het uit te reiken reisdocument opgenomen. Indien deze gegevens op het moment van de uitreiking niet voorhanden zijn, wordt hiernaar een gericht onderzoek ingesteld.
 
-2. [Artikel 27, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-02-05&g=2014-02-05), is van overeenkomstige toepassing.
+2. [Artikel 27, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-03-09&g=2014-03-09), is van overeenkomstige toepassing.
 
 ##### Artikel 53. Bijschrijving door middel van een sticker
 
@@ -694,9 +694,9 @@ Vervallen
 
 ##### Artikel 54
 
-1. Uitsluitend indien op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) door een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) een reisdocument wordt verstrekt en de aanvrager bij de aanvraag aannemelijk heeft gemaakt dat van hem redelijkerwijs niet kan worden gevergd dat hij in persoon verschijnt bij de uitreiking, wordt het reisdocument per aangetekende post aan hem toegezonden.
+1. Uitsluitend indien op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) door een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) een reisdocument wordt verstrekt en de aanvrager bij de aanvraag aannemelijk heeft gemaakt dat van hem redelijkerwijs niet kan worden gevergd dat hij in persoon verschijnt bij de uitreiking, wordt het reisdocument per aangetekende post aan hem toegezonden.
 
-2. De inlevering van de Nederlandse reisdocumenten als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=32) geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.
+2. De inlevering van de Nederlandse reisdocumenten, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=32), geschiedt in dat geval door deze reisdocumenten per aangetekende post toe te sturen aan de in het eerste lid bedoelde autoriteit.
 
 3. Tot toezending van het uit te reiken reisdocument wordt niet overgegaan dan na ontvangst van de ingevolge het tweede lid toegestuurde reisdocumenten.
 
@@ -722,15 +722,15 @@ Dit hoofdstuk is niet van toepassing op Nederlandse identiteitskaarten.
 
 ##### Artikel 58. Informatie over de gesignaleerde persoon
 
-1. De burgemeester of de gezaghebber die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=4&artikel=5&z=2014-02-05&g=2014-02-05) bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=44) bij brief of per faxbericht aan het agentschap BPR hem mede te delen of zulks nog steeds het geval is.
+1. De burgemeester of de gezaghebber die een aanvraag in behandeling neemt dan wel een ingehouden reisdocument ontvangt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=4&artikel=5&z=2014-03-09&g=2014-03-09) bedoelde administratie in het register paspoortsignaleringen is opgenomen, verzoekt ingevolge [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=44) bij brief of per faxbericht aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties hem mede te delen of zulks nog steeds het geval is.
 
 2. In afwijking van het eerste lid kan in spoedgevallen het verzoek ook met gebruikmaking van andere communicatiemiddelen worden gedaan, mits het daarna bij brief of per faxbericht wordt bevestigd.
 
-3. De burgemeester of de gezaghebber die ingevolge [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=44) de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan het agentschap BPR. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.
+3. De burgemeester of de gezaghebber die ingevolge [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=44) de in het register paspoortsignaleringen opgenomen gegevens van een persoon wenst te ontvangen, doet daartoe op de in het eerste en tweede lid voorgeschreven wijze een verzoek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Dit verzoek kan ook tegelijkertijd met het in het eerste lid bedoelde verzoek worden gedaan.
 
 ##### Artikel 59. Kennisgeving van de beslissing op grond van [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=45)
 
-De burgemeester of de gezaghebber geeft het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=45).
+De burgemeester of de gezaghebber geeft de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis van zijn beslissing, bedoeld in [artikel 45, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=45).
 
 ### Hoofdstuk VI. Procedures inzake weigering en vervallenverklaring
 
@@ -738,19 +738,19 @@ De burgemeester of de gezaghebber geeft het agentschap BPR met gebruikmaking van
 
 ##### Artikel 60. Vermist of ingenomen reisdocument anders dan bij aanvraag of uitreiking
 
-1. Indien de houder van een uitgereikt reisdocument aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan hij ingezetene is buiten de gevallen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-02-05&g=2014-02-05) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-02-05&g=2014-02-05), mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door het agentschap BPR beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.
+1. Indien de houder van een uitgereikt reisdocument aan de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan hij ingezetene is buiten de gevallen, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-03-09&g=2014-03-09) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-03-09&g=2014-03-09), mededeling doet van de vermissing of de inname van het desbetreffende reisdocument, wordt de ingevolge [artikel 31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) af te leggen schriftelijke verklaring omtrent de vermissing door de houder gedaan ten overstaan van de daartoe aangewezen ambtenaar, die de mededeling omtrent de vermissing in ontvangst neemt overeenkomstig het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier. De in [artikel 31, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=31) genoemde kopie van het proces-verbaal vormt een integraal onderdeel van de schriftelijke verklaring omtrent de vermissing en wordt aan deze verklaring toegevoegd.
 
 2. De schriftelijke verklaring omtrent de vermissing en de bijgevoegde kopie van het proces-verbaal van de politie dan wel de overgelegde kopie van de schriftelijke verklaring die omtrent de inname is overgelegd, worden bewaard in de reisdocumentenadministratie in de gemeente of het openbaar lichaam waar de in het eerste lid bedoelde mededeling is gedaan.
 
 3. Indien een eerder uitgereikt Nederlands reisdocument, niet zijnde een nooddocument, is vermist of op andere gronden dan ingevolge de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) door een daartoe bevoegde autoriteit is ingenomen, wordt dit gegeven terstond opgenomen in de basisadministratie waarin de houder als ingezetene is ingeschreven.
 
-4. De burgemeester verwijst de houder die een mededeling van vermissing van het aan hem uitgereikte reisdocument wil doen en geen ingezetene van zijn gemeente is, naar de burgemeester van de gemeente waar de houder ingezetene is dan wel naar een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05), indien de houder geen ingezetene van een gemeente is.
+4. De burgemeester verwijst de houder die een mededeling van vermissing van het aan hem uitgereikte reisdocument wil doen en geen ingezetene van zijn gemeente is, naar de burgemeester van de gemeente waar de houder ingezetene is dan wel naar een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09), indien de houder geen ingezetene van een gemeente is.
 
 5. De gezaghebber neemt ook de verklaring van vermissing op van personen die geen ingezetene zijn van zijn openbaar lichaam.
 
 ##### Artikel 61. Melding van de vermissing of inname van een reisdocument
 
-Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-02-05&g=2014-02-05), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-02-05&g=2014-02-05) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VII&paragraaf=1&artikel=60&z=2014-02-05&g=2014-02-05) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan het agentschap BPR door verstrekking van dit gegeven uit de basisadministratie. Indien de melding wordt gedaan door of namens de gezaghebber van een openbaar lichaam, geschiedt de melding met gebruikmaking van het daartoe beschikbaar gestelde formulier.
+Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-03-09&g=2014-03-09), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-03-09&g=2014-03-09) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VII&paragraaf=1&artikel=60&z=2014-03-09&g=2014-03-09) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door verstrekking van dit gegeven uit de basisadministratie. Indien de melding wordt gedaan door of namens de gezaghebber van een openbaar lichaam, geschiedt de melding met gebruikmaking van het daartoe beschikbaar gestelde formulier.
 
 #### § 2. Doorzending ingehouden reisdocumenten
 
@@ -766,7 +766,7 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ##### Artikel 63. Definitief aan het verkeer te onttrekken reisdocumenten
 
-1. De burgemeester of de gezaghebber die een reisdocument heeft ingehouden of bij wie een reisdocument is ingeleverd dan wel die een gevonden reisdocument heeft ontvangen, dat blijkens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-02-05&g=2014-02-05) definitief aan het verkeer moet worden onttrokken en daartoe niet bevoegd is, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond aan de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een door de Minister van Buitenlandse Zaken op grond van [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15) aan een vreemdeling verstrekt laissez-passer betreft.
+1. De burgemeester of de gezaghebber die een reisdocument heeft ingehouden of bij wie een reisdocument is ingeleverd dan wel die een gevonden reisdocument heeft ontvangen, dat blijkens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-03-09&g=2014-03-09) definitief aan het verkeer moet worden onttrokken en daartoe niet bevoegd is, zendt dit reisdocument per aangetekende post en met vermelding van de reden van doorzending terstond aan de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een door de Minister van Buitenlandse Zaken op grond van [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15) aan een vreemdeling verstrekt laissez-passer betreft.
 
 2. Indien het een op grond van [artikel 16, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=16) verstrekt nooddocument betreft, is de burgemeester of de gezaghebber bevoegd dit namens de Minister van Binnenlandse Zaken en Koninkrijksrelaties definitief aan het verkeer te onttrekken.
 
@@ -780,7 +780,7 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 - c. de Minister van Buitenlandse Zaken, indien het een diplomatiek paspoort, een dienstpaspoort of een op grond van [artikel 15, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=15) verstrekt laissez-passer betreft.
 
-2. Indien het reisdocument op grond van een daartoe strekkende vermelding in het opsporingsregister is ingehouden, wordt terstond contact opgenomen met het agentschap BPR ten einde te vernemen aan welke autoriteit het reisdocument moet worden doorgezonden.
+2. Indien het reisdocument op grond van een daartoe strekkende vermelding in het opsporingsregister is ingehouden, wordt terstond contact opgenomen met de Minister van Binnenlandse Zaken en Koninkrijksrelaties ten einde te vernemen aan welke autoriteit het reisdocument moet worden doorgezonden.
 
 3. Bij inhouding of inlevering wordt aan de betrokken persoon een ontvangstbewijs verstrekt.
 
@@ -800,19 +800,19 @@ Van de vermissing of de inname van een Nederlands reisdocument als bedoeld in de
 
 ##### Artikel 65. Mededelingen inzake vermelding en verwijdering van de vermelding
 
-1. De burgemeester of de gezaghebber deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) het agentschap BPR de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.
+1. De burgemeester of de gezaghebber deelt met het oog op een vermelding in het register paspoortsignaleringen op grond van [artikel 47, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) de Minister van Binnenlandse Zaken en Koninkrijksrelaties de gegevens mede van de houder van een reisdocument dat van rechtswege is vervallen, indien de houder weigert het reisdocument in te leveren dan wel de woon- of verblijfplaats van de houder niet kan worden achterhaald.
 
-2. De autoriteit die het in het eerste lid bedoelde reisdocument heeft ingehouden, dan wel bij wie het desbetreffende reisdocument is ingeleverd deelt met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register paspoortsignaleringen het agentschap BPR zulks terstond mede.
+2. De autoriteit die het in het eerste lid bedoelde reisdocument heeft ingehouden, dan wel bij wie het desbetreffende reisdocument is ingeleverd deelt met het oog op de verwijdering van de in het eerste lid bedoelde vermelding uit het register paspoortsignaleringen de Minister van Binnenlandse Zaken en Koninkrijksrelaties zulks terstond mede.
 
-3. De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.
+3. De in het eerste en tweede lid bedoelde mededeling geschiedt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.
 
-4. Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan het agentschap BPR door verstrekking van dit gegeven uit de basisadministratie, dan wel met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier indien verstrekking van dit gegeven uit de basisadministratie niet mogelijk is.
+4. Van het van rechtswege vervallen van een reisdocument ingevolge [artikel 47, eerste lid, onder a, b, c, e, f of h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) wordt, met het oog op de vermelding daarvan in het basisregister reisdocumenten, terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties door verstrekking van dit gegeven uit de basisadministratie, dan wel met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier indien verstrekking van dit gegeven uit de basisadministratie niet mogelijk is.
 
 #### § 2. Doorzending ingehouden reisdocumenten
 
 ##### Artikel 66
 
-De burgemeester of de gezaghebber geeft van een gevonden reisdocument, niet zijnde een nooddocument, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier terstond kennis aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.
+De burgemeester of de gezaghebber geeft van een gevonden reisdocument, niet zijnde een nooddocument, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier terstond kennis aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.
 
 ### Hoofdstuk VIII. Definitieve onttrekking van reisdocumenten en ongedaan maken van bijschrijvingen
 
@@ -836,13 +836,13 @@ De burgemeester of de gezaghebber geeft van een gevonden reisdocument, niet zijn
 
 3. Op verzoek van de houder wordt diens nationaal paspoort, Nederlandse identiteitskaart, faciliteitenpaspoort, tweede paspoort, reisdocument voor vluchtelingen of reisdocument voor vreemdelingen, na inlevering, onbruikbaar gemaakt aan hem teruggegeven.
 
-4. Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van tenminste 12 mm) door het gehele reisdocument op zodanige wijze dat het in het reisdocument aangebrachte kinegram gedeeltelijk en de aangebrachte chip geheel onbruikbaar worden gemaakt. Voordat het reisdocument wordt teruggegeven aan de houder, wordt gecontroleerd of de chip onbruikbaar is.
+4. Het onbruikbaar maken geschiedt door het aanbrengen van drie ponsgaten (elk van ten minste 12 mm) door het gehele reisdocument op zodanige wijze dat het in het reisdocument aangebrachte kinegram gedeeltelijk en de aangebrachte chip geheel onbruikbaar worden gemaakt. Voordat het reisdocument wordt teruggegeven aan de houder, wordt gecontroleerd of de chip onbruikbaar is.
 
-5. Indien het ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=26&z=2014-02-05&g=2014-02-05), worden de desbetreffende bladzijden en het documentnummer intact gelaten.
+5. Indien het ingeleverde reisdocument bladzijden met een nog geldig visum of een geldige verblijfstitel bevat en in verband daarmee het verzoek is gedaan, bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=26&z=2014-03-09&g=2014-03-09), worden de desbetreffende bladzijden en het documentnummer intact gelaten.
 
-6. In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het per aangetekende post, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, terug te sturen aan de leverancier.
+6. In afwijking van het tweede lid wordt een reisdocument, dat ingevolge het eerste lid, onder d, tengevolge van misdruk of verkeerde personalisatie is ingehouden of ingeleverd, definitief aan het verkeer onttrokken door het per aangetekende post, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, terug te sturen aan de leverancier.
 
-7. De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54) is ingehouden, dan wel [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIII&artikel=97&z=2014-02-05&g=2014-02-05), of [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIII&artikel=98&z=2014-02-05&g=2014-02-05), van toepassing is.
+7. De in het eerste lid, onder e, en in het derde lid bedoelde teruggave van een reisdocument vindt niet plaats, indien het reisdocument op grond van [artikel 47, eerste lid, onder a, b, c, g of h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=47) van rechtswege is vervallen, op grond van [54, eerste lid, onder b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=54) is ingehouden, dan wel [artikel 97, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIII&artikel=97&z=2014-03-09&g=2014-03-09), of [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIII&artikel=98&z=2014-03-09&g=2014-03-09), van toepassing is.
 
 ##### Artikel 68. Registratie van de onttrekking in de basisadministratie
 
@@ -862,15 +862,15 @@ Vervallen
 
 ##### Artikel 71
 
-Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede van de uitreiking van een vervangend reisdocument, wordt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis gegeven aan:
+Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede van de uitreiking van een vervangend reisdocument, wordt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis gegeven aan:
 
-- a. het hoofd van de Nederlandse consulaire post in het buitenland, indien deze het reisdocument heeft verstrekt, dan wel
+- a. de Minister van Buitenlandse Zaken indien het reisdocument is verstrekt in het buitenland, dan wel
 
-- b. een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05), indien deze autoriteit het reisdocument heeft verstrekt aan een houder die ten tijde van de verstrekking geen ingezetene was, dan wel
+- b. een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09), indien deze autoriteit het reisdocument heeft verstrekt aan een houder die ten tijde van de verstrekking geen ingezetene was, dan wel
 
 - c. de autoriteit in Aruba, Curaçao of Sint Maarten, die het reisdocument heeft verstrekt, dan wel
 
-- d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waar de houder als ingezetene in de basisadministratie is, of voor het laatst was ingeschreven, indien het definitief aan het verkeer onttrokken reisdocument niet door een in a, b of c genoemde autoriteit is verstrekt.
+- d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam waarvan de houder ingezetene is, of laatstelijk ingezetene was, indien het reisdocument niet in het buitenland of door de in onderdeel b of c genoemde autoriteit is verstrekt.
 
 ### Hoofdstuk IX. Reisdocumentenadministratie
 
@@ -878,15 +878,19 @@ Van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde
 
 1. Van elk verstrekt reisdocument wordt een administratie bijgehouden.
 
-2. De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=40&z=2014-02-05&g=2014-02-05) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=55&z=2014-02-05&g=2014-02-05) opgenomen gegevens betreft.
+2. De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=5&artikel=40&z=2014-03-09&g=2014-03-09) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=55&z=2014-03-09&g=2014-03-09) opgenomen gegevens betreft.
 
 3. De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.
 
-4. De in de reisdocumentenadministratie opgenomen gegevens worden gedurende elf jaren na de datum van verstrekking van het betreffende reisdocument bewaard.
+4. De in de reisdocumentenadministratie opgenomen gegevens, met uitzondering van de gegevens, bedoeld in [artikel 3, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3) worden na de datum van verstrekking bewaard gedurende een periode van:
+
+- a. 11 jaar indien de geldigheidsduur van het verstrekte document 5 jaar of korter is of indien het verstrekte document niet wordt uitgereikt;
+
+- b. 16 jaar indien de geldigheidsduur van het verstrekte document langer dan 5 jaar is.
 
 ##### Artikel 73. Verstrekking van gegevens
 
-Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), wordt de verstrekking van gegevens uit de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=72&z=2014-02-05&g=2014-02-05) bedoelde reisdocumentenadministratie uitsluitend toegestaan aan:
+Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=3), wordt de verstrekking van gegevens uit de in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=72&z=2014-03-09&g=2014-03-09) bedoelde reisdocumentenadministratie uitsluitend toegestaan aan:
 
 - a. degenen die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) belast zijn met de uitvoering daarvan, voor zover die gegevens noodzakelijk zijn voor het verrichten van werkzaamheden met betrekking tot reisdocumenten;
 
@@ -906,15 +910,15 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 - i. de ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst en de Militaire Inlichtingen- en Veiligheidsdienst, voor zover die gegevens noodzakelijk zijn voor de uitvoering van hun taken als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=6), en [artikel 7, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013409&artikel=7).
 
-##### Artikel 74. Administratie van reisdocumenten die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) zijn verstrekt
+##### Artikel 74. Administratie van reisdocumenten die op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) zijn verstrekt
 
-1. Een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) voert een aparte administratie van de door hem ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) verstrekte reisdocumenten.
+1. Een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) voert een aparte administratie van de door hem ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) verstrekte reisdocumenten.
 
-2. De [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=72&z=2014-02-05&g=2014-02-05) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=73&z=2014-02-05&g=2014-02-05) zijn van overeenkomstige toepassing op de inrichting van deze administratie en op de verstrekking van gegevens daaruit.
+2. De [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=72&z=2014-03-09&g=2014-03-09) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=73&z=2014-03-09&g=2014-03-09) zijn van overeenkomstige toepassing op de inrichting van deze administratie en op de verstrekking van gegevens daaruit.
 
 ##### Artikel 75. Registratie van ontvangen kennisgevingen in de basisadministratie
 
-1. De burgemeester of de gezaghebber die door toezending van het daartoe door het agentschap BPR beschikbaar gestelde formulier een kennisgeving ontvangt van:
+1. De burgemeester of de gezaghebber die door toezending van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier een kennisgeving ontvangt van:
 
 - a. de definitieve onttrekking aan het verkeer van een reisdocument en de uitreiking van een vervangend reisdocument, waarbij is vermeld of het oude reisdocument is ingehouden, ingeleverd of vermist, dan wel
 
@@ -934,7 +938,7 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 ##### Artikel 76. Vaststelling identiteit aanvrager
 
-1. Een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) verschaft zich, zoveel mogelijk overeenkomstig het bepaalde in het [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&z=2014-02-05&g=2014-02-05) en [derde hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&z=2014-02-05&g=2014-02-05), de nodige zekerheid over de identiteit en de nationaliteit van een aanvrager, die stelt niet als ingezetene in de basisadministratie te zijn ingeschreven, aan de hand van het door de aanvrager overgelegde reisdocument en eventuele andere bewijsstukken.
+1. Een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) verschaft zich, zoveel mogelijk overeenkomstig het bepaalde in het [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&z=2014-03-09&g=2014-03-09) en [derde hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&z=2014-03-09&g=2014-03-09), de nodige zekerheid over de identiteit en de nationaliteit van een aanvrager, die stelt niet als ingezetene in de basisadministratie te zijn ingeschreven, aan de hand van het door de aanvrager overgelegde reisdocument en eventuele andere bewijsstukken.
 
 2. Indien onvoldoende zekerheid bestaat over de juistheid van de door de aanvrager gedane mededeling dat hij geen ingezetene is, dan wel over de identiteit of de nationaliteit van de aanvrager, wordt de betrokken persoon, indien deze op korte termijn over een reisdocument moet beschikken, doorverwezen naar een autoriteit die bevoegd is tot de verstrekking van nooddocumenten.
 
@@ -942,17 +946,17 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 ##### Artikel 77. Kennisgevingen en meldingen
 
-1. Een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05) geeft van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede van de uitreiking van een vervangend reisdocument aan een persoon die geen ingezetene is met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier kennis aan:
+1. Een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09) geeft van de definitieve onttrekking aan het verkeer van een reisdocument, niet zijnde een nooddocument of een gevonden reisdocument, alsmede van de uitreiking van een vervangend reisdocument aan een persoon die geen ingezetene is met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier kennis aan:
 
 - a. de burgemeester of de gezaghebber, indien de houder laatstelijk ingezetene was van diens gemeente of openbaar lichaam en het bepaalde onder b of c niet van toepassing is, dan wel
 
 - b. de autoriteit in Aruba, Curaçao of Sint Maarten, indien deze het definitief aan het verkeer onttrokken reisdocument heeft verstrekt, dan wel
 
-- c. het hoofd van de Nederlandse consulaire post in het buitenland, indien deze het definitief aan het verkeer onttrokken reisdocument heeft verstrekt en de houder ten tijde van die verstrekking niet in de basisadministratie als ingezetene was ingeschreven.
+- c. de Minister van Buitenlandse Zaken indien het definitief aan het verkeer onttrokken reisdocument is verstrekt in het buitenland en de houder ten tijde van die verstrekking geen ingezetene was.
 
-2. Indien een burgemeester als genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-02-05&g=2014-02-05)door toezending van het daartoe door het agentschap BPR beschikbaar gestelde formulier op de hoogte wordt gesteld van de definitieve onttrekking aan het verkeer van een door hem verstrekt reisdocument en de uitreiking van een vervangend reisdocument, neemt hij deze feiten op in zijn administratie als bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=74&z=2014-02-05&g=2014-02-05).
+2. Indien een burgemeester als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=5&artikel=7&z=2014-03-09&g=2014-03-09)door toezending van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier op de hoogte wordt gesteld van de definitieve onttrekking aan het verkeer van een door hem verstrekt reisdocument en de uitreiking van een vervangend reisdocument, neemt hij deze feiten op in de administratie, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=74&z=2014-03-09&g=2014-03-09).
 
-3. Van de vermissing van een Nederlands reisdocument als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-02-05&g=2014-02-05), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-02-05&g=2014-02-05) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VII&paragraaf=1&artikel=60&z=2014-02-05&g=2014-02-05) wordt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier melding gemaakt aan het agentschap BPR.
+3. Van een vermissing van een Nederlands reisdocument als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-03-09&g=2014-03-09), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=52&z=2014-03-09&g=2014-03-09) en [60](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VII&paragraaf=1&artikel=60&z=2014-03-09&g=2014-03-09) wordt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier melding gemaakt aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Hoofdstuk XI. Organisatie en beheer van het aanvraagsysteem reisdocumenten
 
@@ -962,15 +966,15 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 1. De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar wijst de personen aan die bevoegd zijn tot het verrichten van de handelingen die bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) zijn voorgeschreven.
 
-2. De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=93&z=2014-02-05&g=2014-02-05).
+2. De in het eerste lid bedoelde aanwijzing van personen, alsmede de registratie van hun bevoegdheden geschiedt met inachtneming van de functionele beschrijvingen met betrekking tot het aanvraagsysteem reisdocumenten en overeenkomstig de beveiligingsprocedure, bedoeld in [artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=93&z=2014-03-09&g=2014-03-09).
 
 3. De burgemeester of de gezaghebber draagt er zorg voor dat de handelingen, bedoeld in het eerste lid, die plaatsvinden in een niet tot de gemeentelijke organisatie, onderscheidenlijk de organisatie van het openbaar lichaam, behorende uitgiftelocatie uitsluitend worden verricht door bezoldigde ambtenaren van de gemeente onderscheidenlijk het openbaar lichaam.
 
 ##### Artikel 79. De autorisatiebevoegden reisdocumenten
 
-1. De burgemeester of de gezaghebber wijst per uitgiftelocatie tenminste twee ambtenaren aan die binnen het aanvraagsysteem reisdocumenten zullen functioneren als autorisatiebevoegde reisdocumentenstation overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05). Tevens wijst de burgemeester of de gezaghebber per aanvraagstationlocatie tenminste twee ambtenaren aan die zullen functioneren als autorisatiebevoegde aanvraagstation overeenkomstig de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05).
+1. De burgemeester of de gezaghebber wijst per uitgiftelocatie ten minste twee ambtenaren aan die binnen het aanvraagsysteem reisdocumenten zullen functioneren als autorisatiebevoegde reisdocumentenstation overeenkomstig de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09). Tevens wijst de burgemeester of de gezaghebber per aanvraagstationlocatie ten minste twee ambtenaren aan die zullen functioneren als autorisatiebevoegde aanvraagstation overeenkomstig de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09).
 
-2. Van de aanwijzing of de vervanging van een autorisatiebevoegde wordt terstond met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier melding gedaan aan het agentschap BPR, die een registratie bijhoudt van de autorisatiebevoegden.
+2. Van de aanwijzing of de vervanging van een autorisatiebevoegde wordt terstond met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties, die een registratie bijhoudt van de autorisatiebevoegden.
 
 3. De burgemeester of de gezaghebber draagt er zorg voor, dat een autorisatiebevoegde in staat wordt gesteld alle handelingen te verrichten die uit zijn taak voortvloeien.
 
@@ -980,7 +984,7 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 1. Per reisdocumentenstation worden ten minste 2 en ten hoogste 20 identificatiekaarten beschikbaar gesteld aan de autorisatiebevoegde reisdocumentenstation.
 
-2. De autorisatiebevoegde reisdocumentenstation is, met inachtneming van de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05), verantwoordelijk voor het autorisatiebeheer, de bewaring van de identificatiekaarten en de registratie van de personen aan wie hij in een bepaald tijdvak een kaart verstrekt. Identificatiekaarten worden slechts verstrekt aan ambtenaren, aangesteld door of vanwege het gemeentebestuur.
+2. De autorisatiebevoegde reisdocumentenstation is, met inachtneming van de gebruikershandleiding bij het reisdocumentenstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09), verantwoordelijk voor het autorisatiebeheer, de bewaring van de identificatiekaarten en de registratie van de personen aan wie hij in een bepaald tijdvak een kaart verstrekt. Identificatiekaarten worden slechts verstrekt aan ambtenaren, aangesteld door of vanwege het gemeentebestuur.
 
 3. De autorisatiebevoegde reisdocumentenstation registreert in het reisdocumentenstation met inachtneming van de gebruikershandleiding de intrekking van identificatiekaarten indien deze na verlies, diefstal of defect verloren zijn gegaan of onbruikbaar zijn geworden of anderszins niet langer gebruikt mogen worden. De autorisatiebevoegde draagt zorg voor de vernietiging van ingetrokken identificatiekaarten voor zover deze in zijn bezit zijn en geen nader onderzoek daaraan hoeft plaats te vinden.
 
@@ -992,7 +996,7 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 2. De aanmelding, registratie en vervanging van de tot ontvangst bevoegde ambtenaren, bedoeld in de eerste zin van het eerste lid, vindt plaats bij de distributeur, met gebruikmaking van de door de distributeur daartoe kosteloos beschikbaar gestelde postmachtiging.
 
-3. De postmachtiging wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-02-05&g=2014-02-05) en de handtekening van de burgemeester of de door hem daartoe aangewezen ambtenaar.
+3. De postmachtiging wordt gewaarmerkt met een afdruk van een dienststempel als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-03-09&g=2014-03-09) en de handtekening van de burgemeester of de door hem daartoe aangewezen ambtenaar.
 
 4. De gemeente bewaart een kopie van het in het derde lid genoemde formulier.
 
@@ -1006,15 +1010,15 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 ##### Artikel 83. Aanmelding en registratie van aanvraagstationlocaties en uitgiftelocaties
 
-1. De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar meldt met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier aan het agentschap BPR de aanvraagstationlocatie in zijn gemeente of openbare lichaam waar één of meerdere aanvraagstations zijn geplaatst alsmede de uitgiftelocatie waar de verzending van de aanvragen naar de leverancier en de aflevering van de zendingen door de distributeur of de transporteur plaatsvindt.
+1. De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar meldt met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties de aanvraagstationlocatie in zijn gemeente of openbare lichaam waar één of meerdere aanvraagstations zijn geplaatst alsmede de uitgiftelocatie waar de verzending van de aanvragen naar de leverancier en de aflevering van de zendingen door de distributeur of de transporteur plaatsvindt.
 
-2. Indien in de gemeente of het openbaar lichaam gebruik wordt gemaakt van meerdere aanvraagstationlocaties en uitgiftelocaties als bedoeld in het eerste lid, worden deze locaties, mits de beveiliging daarvan voldoet aan de beveiligingseisen als bedoeld in [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&z=2014-02-05&g=2014-02-05), op de in het eerste lid aangegeven wijze, eveneens aangemeld.
+2. Indien in de gemeente of het openbaar lichaam gebruik wordt gemaakt van meerdere aanvraagstationlocaties en uitgiftelocaties als bedoeld in het eerste lid, worden deze locaties, mits de beveiliging daarvan voldoet aan de beveiligingseisen als bedoeld in [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&z=2014-03-09&g=2014-03-09), op de in het eerste lid aangegeven wijze, eveneens aangemeld.
 
-3. Wijzigingen met betrekking tot aanvraagstationlocaties en uitgiftelocaties worden, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, uiterlijk drie maanden voor het tijdstip waarop de wijziging ingaat, gemeld aan het agentschap BPR.
+3. Wijzigingen met betrekking tot aanvraagstationlocaties en uitgiftelocaties worden, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, uiterlijk drie maanden voor het tijdstip waarop de wijziging ingaat, gemeld aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-4. Het agentschap BPR houdt een registratie bij van de ingevolge het eerste, tweede en derde lid aangemelde aanvraagstationlocaties en uitgiftelocaties en geeft deze gegevens door aan de leverancier.
+4. De Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een registratie bij van de ingevolge het eerste, tweede en derde lid aangemelde aanvraagstationlocaties en uitgiftelocaties en geeft deze gegevens door aan de leverancier.
 
-5. De leverancier wijst aan elke uitgiftelocatie een unieke locatiecode toe en meldt deze terug aan het agentschap BPR en aan de burgemeester dan wel de gezaghebber.
+5. De leverancier wijst aan elke uitgiftelocatie een unieke locatiecode toe en meldt deze terug aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties en aan de burgemeester dan wel de gezaghebber.
 
 ##### Artikel 84. Vastlegging tijdstip van aflevering
 
@@ -1026,13 +1030,13 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 ##### Artikel 85. Bewaring reisdocumenten
 
-1. De reisdocumenten worden bewaard op de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-02-05&g=2014-02-05) voorgeschreven wijze tot het tijdstip dat zij worden uitgereikt, dan wel:
+1. De reisdocumenten worden bewaard op de in [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-03-09&g=2014-03-09) voorgeschreven wijze tot het tijdstip dat zij worden uitgereikt, dan wel:
 
-- a. indien het een gemeente betreft, worden opgehaald door de leverancier ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=46&z=2014-02-05&g=2014-02-05) of per aangetekende post worden verstuurd ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=49&z=2014-02-05&g=2014-02-05) of [51](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=51&z=2014-02-05&g=2014-02-05);
+- a. indien het een gemeente betreft, worden opgehaald door de leverancier ingevolge [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=46&z=2014-03-09&g=2014-03-09) of per aangetekende post worden verstuurd ingevolge [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=49&z=2014-03-09&g=2014-03-09) of [51](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=V&artikel=51&z=2014-03-09&g=2014-03-09);
 
-- b. indien het een openbaar lichaam betreft, per aangetekende post, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, worden teruggestuurd aan de leverancier.
+- b. indien het een openbaar lichaam betreft, per aangetekende post, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, worden teruggestuurd aan de leverancier.
 
-2. Aan de hand van de gegevens in het reisdocumentenstation wordt nagegaan welke reisdocumenten langer dan drie maanden na de datum dat zij voor uitreiking beschikbaar zijn gesteld nog niet zijn uitgereikt, teneinde deze ingevolge [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-02-05&g=2014-02-05) definitief aan het verkeer te onttrekken.
+2. Aan de hand van de gegevens in het reisdocumentenstation wordt nagegaan welke reisdocumenten langer dan drie maanden na de datum dat zij voor uitreiking beschikbaar zijn gesteld nog niet zijn uitgereikt, teneinde deze ingevolge [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-03-09&g=2014-03-09) definitief aan het verkeer te onttrekken.
 
 ##### Artikel 86. Ontbrekende reisdocumenten
 
@@ -1040,7 +1044,7 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 2. De ontbrekende reisdocumenten worden geregistreerd in het reisdocumentenstation.
 
-3. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=48&z=2014-02-05&g=2014-02-05) is van overeenkomstige toepassing.
+3. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=48&z=2014-03-09&g=2014-03-09) is van overeenkomstige toepassing.
 
 #### § 2. Aflevering van zendingen
 
@@ -1048,7 +1052,7 @@ Onverminderd het bepaald in [artikel 3, negende lid, van de wet](https://wetten.
 
 1. De burgemeester of de gezaghebber maakt binnen het aanvraagsysteem reisdocumenten gebruik van het reisdocumentenstation, het aanvraagstation het mobiel vingerafdrukopname-apparaat en de overige materialen, overeenkomstig het bepaalde in deze regeling en met inachtneming van de bijgeleverde gebruikershandleidingen.
 
-2. De burgemeester of de gezaghebber draagt zorg voor de technische inrichting, de werking en de beveiliging van de reisdocumentenmodule en de correcte uitwisseling van de daarin opgenomen gegevens met het reisdocumentenstation en de basisadministratie, overeenkomstig het bepaalde in deze regeling en met inachtneming van de terzake door de Minister van Binnenlandse Zaken en Koninkrijksrelaties nader gegeven voorschriften.
+2. De burgemeester of de gezaghebber draagt zorg voor de technische inrichting, de werking en de beveiliging van de reisdocumentenmodule en de correcte uitwisseling van de daarin opgenomen gegevens met het reisdocumentenstation en de basisadministratie, overeenkomstig het bepaalde in deze regeling en met inachtneming van de ter zake door de Minister van Binnenlandse Zaken en Koninkrijksrelaties nader gegeven voorschriften.
 
 ##### Artikel 88. Dienststempel en clausulestempel
 
@@ -1056,11 +1060,11 @@ Het dienststempel is een inktstempel van een rond formaat met een diameter van 1
 
 ##### Artikel 89. Foto- en handtekeningformulieren en andere standaardformulieren
 
-1. De in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-02-05&g=2014-02-05) bedoelde foto- en handtekeningformulieren worden vier maal per jaar door de leverancier beschikbaar gesteld.
+1. De in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-03-09&g=2014-03-09) bedoelde foto- en handtekeningformulieren worden vier maal per jaar door de leverancier beschikbaar gesteld.
 
-2. Het aantal foto- en handtekeningformulieren dat jaarlijks beschikbaar wordt gesteld, is gebaseerd op het jaarlijkse aantal aanvraagbestanden, dat ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=42&z=2014-02-05&g=2014-02-05) vanuit de desbetreffende uitgiftelocatie aan de leverancier is gezonden, in de periode tussen 1 oktober en 30 september, vermeerderd met vijf procent. De leverancier maakt jaarlijks voor 1 november het aantal beschikbaar te stellen foto- en handtekeningformulieren voor het volgende kalenderjaar en de tijdstippen waarop deze worden afgeleverd, bekend aan de uitgiftelocatie.
+2. Het aantal foto- en handtekeningformulieren dat jaarlijks beschikbaar wordt gesteld, is gebaseerd op het jaarlijkse aantal aanvraagbestanden, dat ingevolge [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=42&z=2014-03-09&g=2014-03-09) vanuit de desbetreffende uitgiftelocatie aan de leverancier is gezonden, in de periode tussen 1 oktober en 30 september, vermeerderd met vijf procent. De leverancier maakt jaarlijks voor 1 november het aantal beschikbaar te stellen foto- en handtekeningformulieren voor het volgende kalenderjaar en de tijdstippen waarop deze worden afgeleverd, bekend aan de uitgiftelocatie.
 
-3. Indien tussen twee aflevertijdstippen blijkt dat de voorraad foto- en handtekeningformulieren ontoereikend zal zijn, kan met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier een spoedbestelling worden gedaan. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot het eerstvolgende aflevertijdstip te overbruggen.
+3. Indien tussen twee aflevertijdstippen blijkt dat de voorraad foto- en handtekeningformulieren ontoereikend zal zijn, kan met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier een spoedbestelling worden gedaan. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot het eerstvolgende aflevertijdstip te overbruggen.
 
 4. De foto- en handtekeningformulieren worden door de leverancier binnen tien werkdagen na de spoedbestelling geleverd op de uitgiftelocatie waarvoor de bestelling is gedaan.
 
@@ -1090,7 +1094,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 1. Van de in de reisdocumentenmodule en de in het reisdocumentenstation opgeslagen gegevens wordt dagelijks een reservekopie gemaakt. Voor het reisdocumentenstation wordt daartoe gebruik gemaakt van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties te verstrekken opslagmedia. Per reisdocumentenstation worden 5 opslagmedia verstrekt. Na het maken van de reservekopie wordt gecontroleerd of deze is geslaagd.
 
-2. De bewaring van de reservekopieën geschiedt zodanig, dat de twee oudste reservekopieën op de uitgiftelocatie worden bewaard, terwijl de drie meest recente reservekopieën elders worden bewaard, in een vergelijkbare voorziening als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-02-05&g=2014-02-05).
+2. De bewaring van de reservekopieën geschiedt zodanig, dat de twee oudste reservekopieën op de uitgiftelocatie worden bewaard, terwijl de drie meest recente reservekopieën elders worden bewaard, in een vergelijkbare voorziening als bedoeld in [artikel 91, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=91&z=2014-03-09&g=2014-03-09).
 
 3. De verstrekkende autoriteit beschikt over een op schrift gestelde procedure inzake back-up en herstel, die er in voorziet dat reconstructie van de gegevens mogelijk is.
 
@@ -1116,17 +1120,17 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 - c. de namen van de ambtenaren die in de onder b bedoelde periode zijn belast met de verstrekking, het beheer en de uitreiking van de reisdocumenten.
 
-4. Na afloop van de periode, bedoeld in het derde lid, controleert de daartoe aangewezen ambtenaar, die in de desbetreffende periode niet betrokken is geweest bij de verstrekking, het beheer en de uitreiking van de reisdocumenten, of de schriftelijke vastlegging, bedoeld in het derde lid, aanwezig is en de verstrekking, het beheer en de uitreiking op de voorgeschreven wijze hebben plaatsgevonden. In het geval er sprake is van onregelmatigheden wordt gehandeld overeenkomstig [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=95&z=2014-02-05&g=2014-02-05).
+4. Na afloop van de periode, bedoeld in het derde lid, controleert de daartoe aangewezen ambtenaar, die in de desbetreffende periode niet betrokken is geweest bij de verstrekking, het beheer en de uitreiking van de reisdocumenten, of de schriftelijke vastlegging, bedoeld in het derde lid, aanwezig is en de verstrekking, het beheer en de uitreiking op de voorgeschreven wijze hebben plaatsgevonden. In het geval er sprake is van onregelmatigheden wordt gehandeld overeenkomstig [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=95&z=2014-03-09&g=2014-03-09).
 
 5. De burgemeester of de gezaghebber draagt zorg, dat de bij de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) betrokken ambtenaren regelmatig worden geïnformeerd over ontvreemdingsrisico's en ten minste één maal per jaar worden geïnstrueerd met betrekking tot risicobeperkende afspraken en maatregelen terzake.
 
 6. De beveiligingsprocedure wordt jaarlijks geëvalueerd en zo nodig aangepast.
 
-7. Ten behoeve van het opstellen en evalueren van de beveiligingsprocedure wordt gebruik gemaakt van de door het Agentschap BPR daarvoor beschikbaar gestelde hulpmiddelen. Afwijkingen van de beveiligingsvoorschriften worden schriftelijk vastgelegd en ten minste vijf jaren naast de beveiligingsprocedure bewaard.
+7. Ten behoeve van het opstellen en evalueren van de beveiligingsprocedure wordt gebruik gemaakt van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvoor beschikbaar gestelde hulpmiddelen. Afwijkingen van de beveiligingsvoorschriften worden schriftelijk vastgelegd en ten minste vijf jaren naast de beveiligingsprocedure bewaard.
 
 8. De burgemeester of de gezaghebber wijst een beveiligingsfunctionaris aan die belast is met het beheer van en het toezicht op de naleving van de beveiligingsprocedure.
 
-9. Van de aanwijzing of de vervanging van de beveiligingsfunctionaris wordt terstond melding gedaan aan het agentschap BPR met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier.
+9. Van de aanwijzing of de vervanging van de beveiligingsfunctionaris wordt terstond melding gedaan aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier.
 
 10. De functie van beveiligingsfunctionaris is niet verenigbaar met het verrichten van andere handelingen ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212).
 
@@ -1138,17 +1142,17 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 ##### Artikel 94. Controle op de toepassing van de beveiligingsmaatregelen
 
-1. De burgemeester of de gezaghebber voert voor 1 oktober van ieder jaar een controle uit op de toepassing van de beveiligingsmaatregelen, genoemd in de [artikelen 90 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=90&z=2014-02-05&g=2014-02-05), en de overige aspecten van het aanvraag- en uitgifteproces van reisdocumenten en informeert voor 1 november van ieder jaar de Minister van Binnenlandse Zaken en Koninkrijksrelaties over de bevindingen van de controle.
+1. De burgemeester of de gezaghebber voert voor 1 oktober van ieder jaar een controle uit op de toepassing van de beveiligingsmaatregelen, genoemd in de [artikelen 90 tot en met 93](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XII&artikel=90&z=2014-03-09&g=2014-03-09), en de overige aspecten van het aanvraag- en uitgifteproces van reisdocumenten en informeert voor 1 november van ieder jaar de Minister van Binnenlandse Zaken en Koninkrijksrelaties over de bevindingen van de controle.
 
-2. Bij de controle en de verslaglegging wordt gebruik gemaakt van de daarvoor door het agentschap BPR beschikbaar gestelde hulpmiddelen.
+2. Bij de controle en de verslaglegging wordt gebruik gemaakt van de daarvoor door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde hulpmiddelen.
 
 3. De minister kan in aanvulling op de in het eerste lid bedoelde controle steekproefsgewijze een nader onderzoek uitvoeren teneinde de bevindingen van de controle, bedoeld in het eerste lid, te verifiëren.
 
 ##### Artikel 95. Ontvreemding of vernietiging
 
-1. In het geval van ontvreemding dan wel vernietiging van reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond het agentschap BPR daarvan in kennis te stellen.
+1. In het geval van ontvreemding dan wel vernietiging van reisdocumenten, apparatuur, programmatuur, opslagmedia, documentatie en overige materialen ten gevolge van inbraak, diefstal, verduistering, overvallen, brand of anderszins dient de met de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) belaste autoriteit daarvan terstond aangifte te doen bij de plaatselijke politie en tevens terstond de Minister van Binnenlandse Zaken en Koninkrijksrelaties daarvan in kennis te stellen.
 
-2. De in het eerste lid bedoelde autoriteit zendt het agentschap BPR vervolgens binnen één werkdag, eventueel per fax, een schriftelijke kennisgeving waarin de navolgende gegevens zijn opgenomen:
+2. De in het eerste lid bedoelde autoriteit zendt de Minister van Binnenlandse Zaken en Koninkrijksrelaties vervolgens binnen één werkdag, eventueel per fax, een schriftelijke kennisgeving waarin de navolgende gegevens zijn opgenomen:
 
 - a. het tijdstip en de exacte toedracht van de ontvreemding of vernietiging;
 
@@ -1156,7 +1160,7 @@ De met de uitvoering van de wet belaste autoriteiten treffen maatregelen om de o
 
 - c. de ontvreemde of vernietigde apparatuur, programmatuur, opslagmedia, documentatie en overige materialen met de eventueel daarop vermelde nummers.
 
-3. Zodra het door de plaatselijke politie opgemaakte proces-verbaal beschikbaar is, wordt daarvan een afschrift gezonden aan het agentschap BPR.
+3. Zodra het door de plaatselijke politie opgemaakte proces-verbaal beschikbaar is, wordt daarvan een afschrift gezonden aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ### Hoofdstuk XII. Beveiliging
 
@@ -1168,13 +1172,13 @@ Onverminderd de eigen verantwoordelijkheid van de houder van een reisdocument in
 
 1. De burgemeester of de gezaghebber die in verband met een handeling op grond van deze regeling enig Nederlands reis- of identiteitsdocument krijgt overgelegd, gaat aan de hand van de door de Minister van Binnenlandse Zaken en Koninkrijksrelaties verstrekte lijst van toetsingspunten na of met het desbetreffende reisdocument enige onregelmatigheid is gepleegd.
 
-2. Indien het vermoeden bestaat dat met een overgelegd reisdocument enige onregelmatigheid is gepleegd, wordt daarvan met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier melding gemaakt aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.
+2. Indien het vermoeden bestaat dat met een overgelegd reisdocument enige onregelmatigheid is gepleegd, wordt daarvan met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier melding gemaakt aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee.
 
 ##### Artikel 98. Aangifte bij de politie en definitieve onttrekking aan het verkeer
 
-1. Indien het vermoeden bestaat dat de met het reisdocument gepleegde onregelmatigheden strafbare feiten opleveren en de vermoedelijke dader bekend is, wordt daarvan onder gelijktijdige overlegging van het desbetreffende reisdocument aangifte gedaan bij de plaatselijke politie. In het geval de vermoedelijke dader niet bekend is, wordt het desbetreffende reisdocument per aangetekende post met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee gezonden.
+1. Indien het vermoeden bestaat dat de met het reisdocument gepleegde onregelmatigheden strafbare feiten opleveren en de vermoedelijke dader bekend is, wordt daarvan onder gelijktijdige overlegging van het desbetreffende reisdocument aangifte gedaan bij de plaatselijke politie. In het geval de vermoedelijke dader niet bekend is, wordt het desbetreffende reisdocument per aangetekende post met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier aan het Expertise Centrum Identiteitsfraude en Documenten van de Koninklijke Marechaussee gezonden.
 
-2. De burgemeester of de gezaghebber die van mening is dat met het reisdocument onregelmatigheden zijn gepleegd die geen strafbare feiten opleveren, onttrekt dit document op de in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-02-05&g=2014-02-05) bedoelde wijze definitief aan het verkeer.
+2. De burgemeester of de gezaghebber die van mening is dat met het reisdocument onregelmatigheden zijn gepleegd die geen strafbare feiten opleveren, onttrekt dit document op de in [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-03-09&g=2014-03-09) bedoelde wijze definitief aan het verkeer.
 
 ### Hoofdstuk XIV. Verantwoording
 
@@ -1182,13 +1186,13 @@ Onverminderd de eigen verantwoordelijkheid van de houder van een reisdocument in
 
 1. De aan het Rijk verschuldigde kosten worden vastgesteld aan de hand van de aanvraagbestanden die met gebruikmaking van het reisdocumentenstation aan de leverancier zijn verzonden.
 
-2. Het college van burgemeester en wethouders stelt het agentschap BPR op de hoogte van:
+2. Het college van burgemeester en wethouders stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op de hoogte van:
 
 - a. het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in [artikel 2, tweede lid, van het Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&artikel=2), door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend;
 
 - b. een situatie waarin een spoedlevering niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten niet op de juiste wijze blijken te zijn vervaardigd, door het zenden van een daarop betrekking hebbende en door de leverancier geverifieerde mededeling.
 
-3. Het bestuurscollege stelt het agentschap BPR op de hoogte van het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in in [artikel 2a, tweede lid, van het Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&artikel=2a), door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend.
+3. Het bestuurscollege stelt de Minister van Binnenlandse Zaken en Koninkrijksrelaties op de hoogte van het verlenen van gehele of gedeeltelijke kwijtschelding van rechten als bedoeld in in [artikel 2a, tweede lid, van het Besluit paspoortgelden](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&artikel=2a), door het zenden van een afschrift van de beschikking waarbij de kwijtschelding is verleend.
 
 ##### Artikel 100. Reviewrecht accountant
 
@@ -1202,7 +1206,7 @@ De reisdocumenten die voor de inwerkingtreding van deze regeling zijn verstrekt,
 
 ##### Artikel 102. Raadpleging originele aanvraagformulieren
 
-1. Indien ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-02-05&g=2014-02-05) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-02-05&g=2014-02-05) raadpleging moet plaatsvinden van gegevens, behorende bij een reisdocument dat is uitgereikt voor de inwerkingtreding van deze regeling, verstrekt de autoriteit bij wie de gegevens in de reisdocumentenadministratie berusten op verzoek van de autoriteit die de aanvraag in ontvangst neemt kosteloos het originele aanvraagformulier, behorende bij het desbetreffende reisdocument. Alvorens tot verstrekking van het originele aanvraagformulier wordt overgegaan, maakt de desbetreffende autoriteit daarvan een kopie die in zijn reisdocumentenadministratie wordt bewaard, waarop wordt aangetekend aan welke autoriteit het originele aanvraagformulier is verstrekt.
+1. Indien ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-03-09&g=2014-03-09) of [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-03-09&g=2014-03-09) raadpleging moet plaatsvinden van gegevens, behorende bij een reisdocument dat is uitgereikt voor de inwerkingtreding van deze regeling, verstrekt de autoriteit bij wie de gegevens in de reisdocumentenadministratie berusten op verzoek van de autoriteit die de aanvraag in ontvangst neemt kosteloos het originele aanvraagformulier, behorende bij het desbetreffende reisdocument. Alvorens tot verstrekking van het originele aanvraagformulier wordt overgegaan, maakt de desbetreffende autoriteit daarvan een kopie die in zijn reisdocumentenadministratie wordt bewaard, waarop wordt aangetekend aan welke autoriteit het originele aanvraagformulier is verstrekt.
 
 2. Na vergelijking wordt het originele aanvraagformulier bewaard als onderdeel van de reisdocumentenadministratie, behorende bij het uitgereikte nieuwe reisdocument. Indien geen nieuw reisdocument wordt uitgereikt, zendt de autoriteit die de aanvraag in behandeling heeft genomen het originele aanvraagformulier terug naar de autoriteit die het heeft verstrekt.
 
@@ -1216,7 +1220,7 @@ Vervallen
 
 ##### Artikel 105. Ingebruikneming aanvraagsysteem reisdocumenten
 
-De burgemeester of de gezaghebber is slechts bevoegd van een aanvraagsysteem reisdocumenten in zijn gemeente of openbaar lichaam gebruik te maken nadat uit een daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties ingesteld onderzoek is gebleken, dat aan het bepaalde in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05), wordt voldaan.
+De burgemeester of de gezaghebber is slechts bevoegd van een aanvraagsysteem reisdocumenten in zijn gemeente of openbaar lichaam gebruik te maken nadat uit een daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties ingesteld onderzoek is gebleken, dat aan het bepaalde in [artikel 87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09), wordt voldaan.
 
 ##### Artikel 106. Gebruik aanvraagstation
 
@@ -2358,7 +2362,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De vaststelling van de aanspraak op verstrekking van het reisdocument dat ingevolge het eerste lid wordt aangevraagd, geschiedt aan de hand van het door de aanvrager overgelegde verblijfsdocument, waaruit diens verblijfsrecht ingevolge [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) of [20 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), dan wel ingevolge de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), en diens nationaliteit blijkt, alsmede op grond van de gegevens die over het verblijfsrecht en de nationaliteit van de aanvrager in de basisadministratie zijn opgenomen.
 
-3. [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-02-05&g=2014-02-05), is van overeenkomstige toepassing.
+3. [Artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-03-09&g=2014-03-09), is van overeenkomstige toepassing.
 
 #### § 3. Faciliteitenpaspoorten
 
@@ -3106,7 +3110,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 1. Per aanvraagstationlocatie worden door de leverancier twee opstartkaarten verstrekt, waarmee het aanvraagstation in werking kan worden gesteld.
 
-2. De autorisatiebevoegde aanvraagstation is, met inachtneming van de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05), verantwoordelijk voor de bewaring en het gebruik van de opstartkaart.
+2. De autorisatiebevoegde aanvraagstation is, met inachtneming van de gebruikershandleiding bij het aanvraagstation, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09), verantwoordelijk voor de bewaring en het gebruik van de opstartkaart.
 
 3. Bij defect of verlies van een opstartkaart wordt terstond contact opgenomen met de leverancier.
 
@@ -3851,13 +3855,13 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 80b. Het mobiel vingerafdrukopname-apparaat
 
-1. De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar wijst per uitgiftelocatie ten hoogste drie ambtenaren aan die aanvragen in behandeling mogen nemen met behulp van het mobiel vingerafdrukopname-apparaat overeenkomstig de gebruikershandleiding bij het mobiel vingerafdrukopname-apparaat, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-02-05&g=2014-02-05).
+1. De burgemeester dan wel de gezaghebber, of de door hem daartoe aangewezen ambtenaar wijst per uitgiftelocatie ten hoogste drie ambtenaren aan die aanvragen in behandeling mogen nemen met behulp van het mobiel vingerafdrukopname-apparaat overeenkomstig de gebruikershandleiding bij het mobiel vingerafdrukopname-apparaat, bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=87&z=2014-03-09&g=2014-03-09).
 
 2. De leverancier verstrekt aan de autorisatiebevoegde aanvraagstation het wachtwoord waarmee toegang tot het mobiel vingerafdrukopname-apparaat kan worden verkregen en een authenticatiekaart waarmee het mobiel vingerafdrukopname-apparaat in het locale netwerk van de uitgiftelocatie kan worden aangesloten.
 
 3. De autorisatiebevoegde aanvraagstation brengt dit wachtwoord uitsluitend ter kennis aan de aangewezen ambtenaren bedoeld in het eerste lid en ziet er op toe dat het wachtwoord te allen tijde gescheiden van het mobiel vingerafdrukopname-apparaat wordt bewaard. Alle betrokkenen nemen alle daartoe noodzakelijke maatregelen om te voorkomen dat het wachtwoord bekend wordt. Indien het wachtwoord is zoekgeraakt of ter kennis is gekomen van een onbevoegde wordt terstond contact opgenomen met de leverancier.
 
-4. [Artikel 80a, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=80a&z=2014-02-05&g=2014-02-05), is van overeenkomstige toepassing op de verstrekte authenticatiekaart.
+4. [Artikel 80a, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=80a&z=2014-03-09&g=2014-03-09), is van overeenkomstige toepassing op de verstrekte authenticatiekaart.
 
 #### § 3. Beheer van ontvangen reisdocumenten en bijschrijvingsstickers
 
@@ -4096,7 +4100,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De in het eerste lid bedoelde documenten worden door de transporteur afgeleverd bij de uitgiftelocatie in de openbare lichamen.
 
-3. Op de uitgiftelocatie worden de in het eerste lid bedoelde documenten in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=82&z=2014-02-05&g=2014-02-05), die zich legitimeert met een geldig identiteitsdocument.
+3. Op de uitgiftelocatie worden de in het eerste lid bedoelde documenten in ontvangst genomen door een daartoe aangewezen ambtenaar als bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=1&artikel=82&z=2014-03-09&g=2014-03-09), die zich legitimeert met een geldig identiteitsdocument.
 
 4. De aflevering van de zending vindt plaats op het voor de desbetreffende uitgiftelocatie afgesproken tijdstip.
 
@@ -4104,7 +4108,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 46a. Vernietigen van verkeerd geleverde documenten bij de openbare lichamen
 
-De documenten die na de controle van de zending als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=44&z=2014-02-05&g=2014-02-05) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=45&z=2014-02-05&g=2014-02-05) in de openbare lichamen voor een andere autoriteit blijken te zijn bestemd, worden op de uitgiftelocatie vernietigd op de in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-02-05&g=2014-02-05), aangegeven wijze.
+De documenten die na de controle van de zending als bedoeld in de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=44&z=2014-03-09&g=2014-03-09) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IV&artikel=45&z=2014-03-09&g=2014-03-09) in de openbare lichamen voor een andere autoriteit blijken te zijn bestemd, worden op de uitgiftelocatie vernietigd op de in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-03-09&g=2014-03-09), aangegeven wijze.
 
 ### Hoofdstuk V. Uitreiking van het reisdocument en bijschrijvingssticker
 
@@ -4339,23 +4343,23 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 100c. Verificatie identiteit, nationaliteit en verblijfsrechtelijke positie
 
-1. Op het verkrijgen van de nodige zekerheid over de identiteit, de nationaliteit en, voor zover het een vreemdeling betreft, tevens de verblijfsrechtelijke positie van de aanvrager, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-02-05&g=2014-02-05), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-02-05&g=2014-02-05) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=12&z=2014-02-05&g=2014-02-05), met uitzondering van onderdeel II, derde lid en [artikel 22, met uitzondering van het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-02-05&g=2014-02-05), van overeenkomstige toepassing.
+1. Op het verkrijgen van de nodige zekerheid over de identiteit, de nationaliteit en, voor zover het een vreemdeling betreft, tevens de verblijfsrechtelijke positie van de aanvrager, zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=1&artikel=9&z=2014-03-09&g=2014-03-09), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=11&z=2014-03-09&g=2014-03-09) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=II&paragraaf=2&artikel=12&z=2014-03-09&g=2014-03-09), met uitzondering van onderdeel II, derde lid en [artikel 22, met uitzondering van het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-03-09&g=2014-03-09), van overeenkomstige toepassing.
 
 2. Indien de aanvrager blijkens de basisadministratie ingezetene is van een ander openbaar lichaam of een gemeente, dan wel als ingezetene is ingeschreven in de basisadministratie van Aruba, Curaçao of Sint Maarten, vindt zover mogelijk verificatie van diens identiteit, nationaliteit en verblijfsrechtelijke positie in die basisadministratie plaats.
 
 ##### Artikel 100d. Het opmaken van de aanvraag
 
-1. Op het opmaken van de aanvraag voor een nooddocument zijn de [artikelen 21, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-02-05&g=2014-02-05), [23, met uitzondering van het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-02-05&g=2014-02-05), [26, met uitzondering van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=26&z=2014-02-05&g=2014-02-05), [27, met uitzondering van het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-02-05&g=2014-02-05), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=28&z=2014-02-05&g=2014-02-05), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=29&z=2014-02-05&g=2014-02-05), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-02-05&g=2014-02-05), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=2&artikel=31&z=2014-02-05&g=2014-02-05) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=2&artikel=32&z=2014-02-05&g=2014-02-05) van overeenkomstige toepassing.
+1. Op het opmaken van de aanvraag voor een nooddocument zijn de [artikelen 21, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-03-09&g=2014-03-09), [23, met uitzondering van het achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-03-09&g=2014-03-09), [26, met uitzondering van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=26&z=2014-03-09&g=2014-03-09), [27, met uitzondering van het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=27&z=2014-03-09&g=2014-03-09), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=28&z=2014-03-09&g=2014-03-09), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=29&z=2014-03-09&g=2014-03-09), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=1&artikel=30&z=2014-03-09&g=2014-03-09), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=2&artikel=31&z=2014-03-09&g=2014-03-09) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=2&artikel=32&z=2014-03-09&g=2014-03-09) van overeenkomstige toepassing.
 
-2. Op het opnemen van de foto en de handtekening van de aanvrager is [artikel 38, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-02-05&g=2014-02-05), van overeenkomstige toepassing.
+2. Op het opnemen van de foto en de handtekening van de aanvrager is [artikel 38, met uitzondering van het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=III&paragraaf=4&artikel=38&z=2014-03-09&g=2014-03-09), van overeenkomstige toepassing.
 
 ##### Artikel 100e. Beslissing op de aanvraag en machtiging tot verstrekking
 
 1. Indien de aanvraag voor een nooddocument betrekking heeft op een Nederlander dan wel op een als ingezetene in de basisadministratie van een openbaar lichaam ingeschreven vreemdeling die recht heeft op verstrekking van een reisdocument als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=11) of [13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=13), beslist de gezaghebber of het aangevraagde nooddocument kan worden uitgereikt, onverminderd het bepaalde in het derde lid.
 
-2. In alle andere dan de in het eerste lid bedoelde gevallen vindt verstrekking van een nooddocument door de gezaghebber slechts plaats na machtiging van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, aan wie daartoe per fax of op een andere beveiligde wijze een kopie van de aanvraaggegevens, waaronder het het daartoe door het agentschap BPR beschikbaar gestelde formulier, ter beschikking wordt gesteld.
+2. In alle andere dan de in het eerste lid bedoelde gevallen vindt verstrekking van een nooddocument door de gezaghebber slechts plaats na machtiging van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, aan wie daartoe per fax of op een andere beveiligde wijze een kopie van de aanvraaggegevens, waaronder het het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, ter beschikking wordt gesteld.
 
-3. De gezaghebber die een aanvraag in behandeling neemt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=4&artikel=5&z=2014-02-05&g=2014-02-05) bedoelde administratie in het register paspoortsignaleringen is vermeld, legt deze aanvraag onverwijld voor aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties die beslist of hij de gezaghebber machtigt om tot verstrekking van een nooddocument over te gaan.
+3. De gezaghebber die een aanvraag in behandeling neemt betreffende een persoon die blijkens de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=I&paragraaf=4&artikel=5&z=2014-03-09&g=2014-03-09) bedoelde administratie in het register paspoortsignaleringen is vermeld, legt deze aanvraag onverwijld voor aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties die beslist of hij de gezaghebber machtigt om tot verstrekking van een nooddocument over te gaan.
 
 ##### Artikel 100f. Afhandeling van de aanvraag na de beslissing
 
@@ -4369,7 +4373,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 - d. de verstrekkende autoriteit.
 
-2. Indien sprake is van een aanvraag als bedoeld in [artikel 100e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100e&z=2014-02-05&g=2014-02-05), of een aanvraag voor een laissez-passer, wordt in de aanvraag vermeld voor welke landen het nooddocument geldig is.
+2. Indien sprake is van een aanvraag als bedoeld in [artikel 100e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100e&z=2014-03-09&g=2014-03-09), of een aanvraag voor een laissez-passer, wordt in de aanvraag vermeld voor welke landen het nooddocument geldig is.
 
 ##### Artikel 100g. Vastlegging aanvraaggegevens, foto en handtekening
 
@@ -4377,7 +4381,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De in het aanvraagstation vastgelegde gegevens worden verwerkt en doorgezonden naar het reisdocumentenstation.
 
-3. Indien de beslissing op de aanvraag ingevolge [artikel 100e, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100e&z=2014-02-05&g=2014-02-05), is aangehouden, worden de in de [artikel 100f](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100f&z=2014-02-05&g=2014-02-05) genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
+3. Indien de beslissing op de aanvraag ingevolge [artikel 100e, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100e&z=2014-03-09&g=2014-03-09), is aangehouden, worden de in de [artikel 100f](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100f&z=2014-03-09&g=2014-03-09) genoemde gegevens in het reisdocumentenstation vastgelegd, nadat de verstrekking heeft plaatsgevonden.
 
 ##### Artikel 100h. Vastlegging tijdstip en autoriteit van inlevering nooddocument
 
@@ -4403,7 +4407,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. Het personaliseren van een noodpaspoort geschiedt met behulp van het in het reisdocumentenstation opgenomen aanvraagbestand en met gebruikmaking van de daartoe bestemde reisdocumentenprinter, overeenkomstig de gebruikershandleiding bij het reisdocumentenstation.
 
-3. Het personaliseren van een laissez-passer geschiedt door de gegevens met de pen op onuitwisbare wijze in de daartoe bestemde rubrieken van het reisdocument in te vullen, overeenkomstig de in bijlage J opgenomen invulinstructie laissez-passer. Vervolgens wordt op de in de invulinstructie aangegeven wijze de autoriteit vermeld, die het document heeft verstrekt en het laissez-passer gewaarmerkt met het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-02-05&g=2014-02-05) bedoelde dienststempel.
+3. Het personaliseren van een laissez-passer geschiedt door de gegevens met de pen op onuitwisbare wijze in de daartoe bestemde rubrieken van het reisdocument in te vullen, overeenkomstig de in bijlage J opgenomen invulinstructie laissez-passer. Vervolgens wordt op de in de invulinstructie aangegeven wijze de autoriteit vermeld, die het document heeft verstrekt en het laissez-passer gewaarmerkt met het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-03-09&g=2014-03-09) bedoelde dienststempel.
 
 4. Na het personaliseren van het nooddocument wordt het bijbehorende laminaat over de houderpagina aangebracht.
 
@@ -4423,7 +4427,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 1. De gezaghebber voert een administratie van de door hem verstrekte nooddocumenten.
 
-2. De in het eerste lid bedoelde administratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 100g](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100g&z=2014-02-05&g=2014-02-05) en [100j](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=3&artikel=100j&z=2014-02-05&g=2014-02-05) opgenomen gegevens betreft.
+2. De in het eerste lid bedoelde administratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de [artikelen 100g](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=2&artikel=100g&z=2014-03-09&g=2014-03-09) en [100j](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=3&artikel=100j&z=2014-03-09&g=2014-03-09) opgenomen gegevens betreft.
 
 3. De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de administratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.
 
@@ -4431,7 +4435,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 100l. Verstrekking van gegevens
 
-[Artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=73&z=2014-02-05&g=2014-02-05) is van overeenkomstige toepassing op de verstrekking van gegevens uit de administratie van nooddocumenten.
+[Artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=IX&artikel=73&z=2014-03-09&g=2014-03-09) is van overeenkomstige toepassing op de verstrekking van gegevens uit de administratie van nooddocumenten.
 
 #### § 3. Personaliseren en uitreiking
 
@@ -4439,35 +4443,35 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 1. De gezaghebber of de door hem daartoe aangewezen ambtenaar wijst ten minste drie ambtenaren aan om namens hem bestellingen te doen van blanco noodpaspoorten en laissez-passer's bij de leverancier en tevens drie ambtenaren om leveringen daarvan in ontvangst te nemen.
 
-2. De aanmelding van de tot bestelling en van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, alsmede wijzigingen in deze gegevens, vindt plaats bij het agentschap BPR, met gebruikmaking van de daartoe door het agentschap BPR beschikbaar gestelde formulieren.
+2. De aanmelding van de tot bestelling en van de tot ontvangst bevoegde ambtenaren, bedoeld in het eerste lid, alsmede wijzigingen in deze gegevens, vindt plaats bij de Minister van Binnenlandse Zaken en Koninkrijksrelaties, met gebruikmaking van de daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulieren.
 
-3. Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-02-05&g=2014-02-05) bedoelde dienststempel.
+3. Het ingevulde registratieformulier wordt gewaarmerkt met een afdruk van het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-03-09&g=2014-03-09) bedoelde dienststempel.
 
-4. Het agentschap BPR houdt een registratie bij van de ingevolge het eerste lid aangemelde personen en geeft deze gegevens door aan de leverancier.
+4. De Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een registratie bij van de ingevolge het eerste lid aangemelde personen en geeft deze gegevens door aan de leverancier.
 
 ##### Artikel 100n. Bestelling en aflevering nooddocumenten
 
-1. De nooddocumenten worden met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van het openbaar lichaam en, na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-02-05&g=2014-02-05) bedoelde dienststempel.
+1. De nooddocumenten worden met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier door de daartoe aangewezen ambtenaar maximaal vier maal binnen een jaar bij de leverancier besteld. De bestelopdracht wordt gesteld op briefpapier van het openbaar lichaam en, na ondertekening van de daartoe aangewezen ambtenaar, gewaarmerkt met een afdruk van het in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XI&paragraaf=4&artikel=88&z=2014-03-09&g=2014-03-09) bedoelde dienststempel.
 
 2. Het aantal blanco noodpaspoorten en laissez-passer's dat binnen een jaar kan worden besteld, wordt bepaald door de leverancier en is gebaseerd op het jaarlijkse aantal verstrekte documenten, in de periode tussen 1 oktober en 30 september, vermeerderd met vijf procent. De leverancier maakt jaarlijks voor 1 november het aantal te bestellen nooddocumenten voor het daaropvolgende jaar bekend aan de gezaghebber.
 
 3. Indien tussen twee bestellingen blijkt dat de voorraad noodpaspoorten dan wel laissez-passer's ontoereikend zal zijn, kan een opdracht voor een spoedbestelling worden geplaatst. De opdracht voor een spoedbestelling kan slechts worden gedaan, nadat in overleg met de leverancier is vastgesteld dat het aflevertijdstip van de eerstvolgende bestelopdracht niet kan worden vervroegd. De omvang van de spoedbestelling is niet groter dan noodzakelijk om de periode tot de levering van de eerstvolgende bestelling te overbruggen.
 
-4. Alvorens een bestelopdracht te plaatsen, wordt nagegaan of de in [artikel 100m](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100m&z=2014-02-05&g=2014-02-05) bedoelde gegevens nog juist zijn.
+4. Alvorens een bestelopdracht te plaatsen, wordt nagegaan of de in [artikel 100m](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100m&z=2014-03-09&g=2014-03-09) bedoelde gegevens nog juist zijn.
 
-5. Indien gegevens zijn gewijzigd, dient het nieuwe registratieformulier minstens vijf werkdagen voor het plaatsen van een nieuwe bestelopdracht in het bezit van het agentschap BPR te zijn.
+5. Indien gegevens zijn gewijzigd, dient het nieuwe registratieformulier minstens vijf werkdagen voor het plaatsen van een nieuwe bestelopdracht in het bezit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties te zijn.
 
 6. De bestelling wordt door de leverancier bevestigd door toezending van een leveringsbevestiging aan de gezaghebber.
 
 7. De daadwerkelijke aflevering vindt gemiddeld maximaal tien werkdagen na de op de leveringsbevestigingen vermelde dagtekening plaats door de transporteur.
 
-8. Bij aflevering ondertekent de tot ontvangst bevoegde persoon, bedoeld in [artikel 100m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100m&z=2014-02-05&g=2014-02-05), de strook die aan de leveringsbevestiging is gehecht.
+8. Bij aflevering ondertekent de tot ontvangst bevoegde persoon, bedoeld in [artikel 100m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100m&z=2014-03-09&g=2014-03-09), de strook die aan de leveringsbevestiging is gehecht.
 
 9. De tot ontvangst bevoegde persoon legitimeert zich, op verzoek van de transporteur, met een binnen het koninkrijk uitgegeven reisdocument of rijbewijs.
 
 10. De aflevering van de zending vindt plaats in de kluisruimte. Indien aflevering in de kluisruimte niet mogelijk of niet doelmatig is, vindt aflevering plaats in een voor het publiek afgesloten ruimte zo dicht mogelijk bij de kluis.
 
-11. De tot ontvangst bevoegde persoon controleert in het bijzijn van de transporteur aan de hand van de leveringsbevestiging het aantal pakketten alsmede de verzegeling. Indien de zending niet voor de gezaghebber bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken, wordt hiervan aantekening gemaakt op de aan de leveringsbevestiging gehechte strook en het agentschap BPR hiervan terstond in kennis gesteld.
+11. De tot ontvangst bevoegde persoon controleert in het bijzijn van de transporteur aan de hand van de leveringsbevestiging het aantal pakketten alsmede de verzegeling. Indien de zending niet voor de gezaghebber bestemd is, afwijkingen vertoont, beschadigd is dan wel documenten ontbreken, wordt hiervan aantekening gemaakt op de aan de leveringsbevestiging gehechte strook en de Minister van Binnenlandse Zaken en Koninkrijksrelaties hiervan terstond in kennis gesteld.
 
 12. De ingevulde en ondertekende strook wordt aan de transporteur overhandigd.
 
@@ -4479,9 +4483,9 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. De bij de zending gevoegde ontvangstbevestiging wordt na vergelijking van de verpakkingseenheden van de zending met de opgave in de leveringsbevestiging binnen vijf werkdagen na aflevering van de zending, aan de leverancier geretourneerd.
 
-3. De controle van de inhoud van de verpakkingseenheden als bedoeld in het tweede lid geschiedt door de tot ontvangst bevoegde persoon, en tenminste één andere persoon. Van de controle wordt een proces-verbaal opgemaakt, dat bij de in [artikel 100p](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100p&z=2014-02-05&g=2014-02-05) bedoelde voorraadadministratie wordt gearchiveerd.
+3. De controle van de inhoud van de verpakkingseenheden als bedoeld in het tweede lid geschiedt door de tot ontvangst bevoegde persoon, en ten minste één andere persoon. Van de controle wordt een proces-verbaal opgemaakt, dat bij de in [artikel 100p](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=XIVa&paragraaf=5&artikel=100p&z=2014-03-09&g=2014-03-09) bedoelde voorraadadministratie wordt gearchiveerd.
 
-4. Bij constatering van afwijkingen tussen de inhoud van de zending en de opgave in de leveringsbevestiging wordt terstond contact opgenomen met de leverancier. De geconstateerde afwijkingen worden schriftelijk medegedeeld aan het agentschap BPR.
+4. Bij constatering van afwijkingen tussen de inhoud van de zending en de opgave in de leveringsbevestiging wordt terstond contact opgenomen met de leverancier. De geconstateerde afwijkingen worden schriftelijk medegedeeld aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 ##### Artikel 100p. Voorraadadministratie nooddocumenten
 
@@ -4507,9 +4511,9 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 2. Indien op enig moment een omissie in de voorraad of in de administratie wordt geconstateerd, maakt de gezaghebber terstond een inventarisatie op van de aanwezige nooddocumenten.
 
-3. De inventarisatie wordt opgesteld door tenminste twee personen.
+3. De inventarisatie wordt opgesteld door ten minste twee personen.
 
-4. Van de inventarisatie wordt een proces-verbaal opgemaakt, dat naar het agentschap BPR wordt gezonden.
+4. Van de inventarisatie wordt een proces-verbaal opgemaakt, dat naar de Minister van Binnenlandse Zaken en Koninkrijksrelaties wordt gezonden.
 
 ##### Artikel 100r. Verbruik van nooddocumenten
 
@@ -4519,7 +4523,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 ##### Artikel 100s. Verantwoording nooddocumenten
 
-1. De gezaghebber verstrekt, met gebruikmaking van het daartoe door het agentschap BPR beschikbaar gestelde formulier, een keer per kwartaal een schriftelijke verantwoording van het totale voorraadverloop met betrekking tot nooddocumenten over het voorgaande jaar aan het agentschap BPR.
+1. De gezaghebber verstrekt, met gebruikmaking van het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties beschikbaar gestelde formulier, een keer per kwartaal een schriftelijke verantwoording van het totale voorraadverloop met betrekking tot nooddocumenten over het voorgaande jaar aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. Deze verantwoording bevat, uitgesplitst naar noodpaspoorten en laissez-passer's:
 
@@ -4535,7 +4539,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 3. Nooddocumenten die onjuist blijken te zijn geproduceerd of beschadigd worden met het in het eerste lid bedoelde verantwoordingsformulier meegezonden aan de leverancier.
 
-4. Nooddocumenten die als gevolg van verschrijvingen of anderszins onbruikbaar zijn geworden, worden definitief aan het verkeer onttrokken door ze deugdelijk te vernietigen op de in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-02-05&g=2014-02-05), aangegeven wijze.
+4. Nooddocumenten die als gevolg van verschrijvingen of anderszins onbruikbaar zijn geworden, worden definitief aan het verkeer onttrokken door ze deugdelijk te vernietigen op de in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012811&hoofdstuk=VIII&paragraaf=1&artikel=67&z=2014-03-09&g=2014-03-09), aangegeven wijze.
 
 5. Het in het eerste lid bedoelde verantwoordingsformulier wordt ondertekend door of namens de gezaghebber.
 
@@ -4598,7 +4602,7 @@ Vervallen
 | **Afgiftedatum** | Zie geboortedatum |   |
 | **Geboorteplaats** | Geboorteplaatsnaam vermelden |   |
 | **Geldig tot** | Datum tot wanneer het document geldig is. Datum weergeven zoals aangegeven bij geboortedatum. |   |
-| **Autoriteit** | Gouverneur van Minister van Buitenlandse Zaken Ambassadeur te Consul-Generaal te Consul te Hfd. cons. afd. te |   |
+| **Autoriteit** | Gouverneur van Minister van Buitenlandse Zaken |   |
 | **Waarmerking** | Stempel autoriteit moet over de foto vallen. |   |
 | **Handtekening** | De houder plaatst zijn handtekening op de bestemde plaats onder de foto. |   |
 | **Opmerkingen** | Pagina 3 is te gebruiken voor opmerkingen van bevoegde instanties. Op deze pagina worden de datum waarop het reisdocument uiterlijk moet worden ingeleverd en de autoriteit bij wie de inlevering dient plaats te vinden ingevuld. |   |
@@ -4784,7 +4788,7 @@ Vervallen
 
 - Huidig reisdocument – autoriteit verstrekking
 
-- burgerservicenummer (alleen voor Nederlanders die in een gemeentelijke basisadministatie zijn ingeschreven)
+- Burgerservicenummer (alleen voor Nederlanders die in een gemeentelijke basisadministatie zijn ingeschreven)
 
 - Nationaliteit
 
@@ -4807,8 +4811,6 @@ Vervallen
 - Adres
 
 - Postcode+Woonplaats
-
-- Documentnummer ouder (als ks)
 
 - Toestemming wettelijke vertegenwoordiger(s)
 
@@ -5154,21 +5156,21 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 | **Burgerlijke Staat** | **Standaardclausule I (uitgeschreven) *** | **afkorting *** |
 | --- | --- | --- |
 | H – gehuwd |   |   |
-| **(geslacht houder = ‘V’)** | echtgenote van/Wife of/Epouse de | e/v |
-| **(geslacht houder = ‘M’)** | echtgenoot van/Husband of/ Epoux de | e/v |
-| W - weduwe/weduwnaar | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | w/v |
-| S - gescheiden | gehuwd geweest met/ formerly married to/ anciennement marié(e) à | g/v |
-| P - geregistreerde partner | geregistreerde partner van/registered partner of/partenaire enregistré(e) de | p/v |
-| B - gescheiden geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | b/v |
-| A - achtergebleven geregistreerde partner | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de | a/v |
+| **(geslacht houder = ‘V’)** | echtgenote van/wife of/éspouse de | e/v |
+| **(geslacht houder = ‘M’)** | echtgenoot van/husband of/ époux de | e/v |
+| W - weduwe/weduwnaar | gehuwd geweest met/formerly married to/anciennement marié(e) à | w/v |
+| S - gescheiden | gehuwd geweest met/formerly married to/anciennement marié(e) à | g/v |
+| P - geregistreerde partner | geregistreerd partner van/registered partner of/partenaire enregistré(e) de | p/v |
+| B - gescheiden geregistreerde partner | geregistreerd partner geweest van/former registered partner of/ancien partenaire enregistré(e) de | b/v |
+| A - achtergebleven geregistreerde partner | geregistreerd partner geweest van/former registered partner of/ancien partenaire enregistré(e) de | a/v |
 
-- II. Zie pagina/See page/Voir page
+- II. zie/see/voir p.
 
 - III. Vervallen.
 
 - IV. Pseudoniem/Pseudonym/Pseudonyme
 
-- V. Niet in staat tot tekening/Unable to sign/Incapable de signer
+- V. Niet in staat tot ondertekening/Unable to sign/Incapable de signer
 
 - VI. Wordt als Nederlander behandeld op grond van de Wet van/Treated as Netherlands citizen pursuant to Act of/Traité comme Néerlandais conf. Loi 9-9-1976, Stb. 468
 
