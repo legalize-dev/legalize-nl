@@ -4,7 +4,7 @@ identifier: "BWBR0034694"
 country: "nl"
 rank: "rijkswet"
 publication_date: "2014-03-09"
-last_updated: "2014-01-20"
+last_updated: "2014-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034694"
 soort: "rijkswet"
@@ -73,11 +73,13 @@ Wijzigt de Wet op de identificatieplicht.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een gemeentelijke belastingverordening of een eilandverordening ter zake van het heffen van rechten als bedoeld in [artikel 7, tweede lid, van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=7), zoals dat luidde voor de inwerkingtreding van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034694&artikel=I&z=2014-03-09&g=2014-03-09), van deze wet, voor het verrichten van handelingen ten behoeve van de aanvraag van een reisdocument, berust vanaf de dag van inwerkingtreding van artikel I, onderdeel D, van deze wet op artikel 7, tweede lid, van de Paspoortwet.
+
+2. Het eerste lid is van overeenkomstige toepassing op het heffen van rechten als bedoeld in [artikel 1 van de Wet van 13 oktober 2011, houdende regeling van een grondslag voor de heffing van rechten voor de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0030530&artikel=1) (Stb. 2011, 440).
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+De [Wet van 13 oktober 2011, houdende regeling van een grondslag voor de heffing van rechten voor de Nederlandse identiteitskaart](https://wetten.overheid.nl/jci1.3:c:BWBR0030530) (Stb. 2011, 440) wordt ingetrokken.
 
 ##### Artikel X
 
