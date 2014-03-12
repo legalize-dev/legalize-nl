@@ -4,7 +4,7 @@ identifier: "BWBR0023007"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023007"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 wet: [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919);
 
-klachtencommissie: commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023007&paragraaf=2&artikel=2&z=2008-01-01&g=2013-01-01);
+klachtencommissie: commissie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023007&paragraaf=2&artikel=2&z=2014-03-12&g=2014-03-12);
 
 Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij de opsporingsambtenaar is aangesteld over wiens gedraging een schriftelijke klacht is ingediend.
 
@@ -58,19 +58,19 @@ Minister: Minister onder wie de bijzondere opsporingsdienst ressorteert waarbij 
 
 1. Er is een Klachtencommissie bijzondere opsporingsdiensten, die is belast met de behandeling van klachten en met de advisering over de afhandeling daarvan, over gedragingen van opsporingsambtenaren, werkzaam bij:
 
-- a. de Fiscale Inlichtingen- en Opsporingsdienst en Economische Controledienst, ressorterend onder de Minister van Financiën, bedoeld in [artikel 2, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- a. de Fiscale Inlichtingen- en Opsporingsdienst – Economische controledienst, ressorterend onder de Minister van Financiën, bedoeld in [artikel 2, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- b. de Inlichtingen- en Opsporingsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, ressorterend onder de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, bedoeld in [artikel 2, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- b. de Inlichtingen- en Opsporingsdienst van de Inspectie voor de Leefomgeving en Transport, ressorterend onder de Minister van Infrastructuur en Milieu, bedoeld in [artikel 2, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- c. de Algemene inspectiedienst, Dienstonderdeel Opsporing, ressorterend onder de Minister van Landbouw, Natuur en Voedselkwaliteit, bedoeld in [artikel 2, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
+- c. de Inlichtingen- en Opsporingsdienst van de Nederlandse Voedsel- en Warenautoriteit, ressorterend onder de Minister van Economische Zaken, bedoeld in [artikel 2, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2);
 
-- d. de Sociale Inlichtingen- en Opsporingsdienst, ressorterend onder de Minister van Sociale Zaken en Werkgelegenheid, bedoeld in [artikel 2, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2).
+- d. de directie Opsporing van de Inspectie SZW, ressorterend onder de Minister van Sociale Zaken en Werkgelegenheid, bedoeld in [artikel 2, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2).
 
 2. [Afdeling 9.1.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing.
 
-3. De klachtencommissie bestaat uit een onafhankelijke voorzitter en twee onafhankelijke leden. Zij worden benoemd en kunnen worden herbenoemd door de Minister van Financiën, de Minister van Ruimtelijke Ordening en Milieubeheer, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Sociale Zaken en Werkgelegenheid. De benoeming geldt, behoudens tussentijds ontslag, voor een periode van vijf jaar.
+3. De klachtencommissie bestaat uit een onafhankelijke voorzitter en twee onafhankelijke leden. Zij worden benoemd en kunnen worden herbenoemd door de Minister van Financiën, de Minister van Infrastructuur en Milieu, de Minister van Economische Zaken en de Minister van Sociale Zaken en Werkgelegenheid, De benoeming geldt, behoudens tussentijds ontslag, voor een periode van vijf jaar.
 
-4. De voorzitter en de leden van de klachtencommissie ontvangen een vacatiegeld volgens het [Vacatiegeldenbesluit 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) of een vaste beloning. Vergoeding van reis- en verblijfskosten geschiedt volgens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
+4. De voorzitter en de leden van de klachtencommissie ontvangen een bij of krachtens de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) bepaalde vergoeding.
 
 ##### Artikel 3
 
