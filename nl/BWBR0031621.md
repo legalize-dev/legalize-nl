@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2014-01-01"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -88,9 +88,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
 
-- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat;
+- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat en de wijze waarop de houder van een kindercentrum die inventarisatie openbaar maakt;
 
-- b. de wijze waarop de houder van een kindercentrum de inventarisatie openbaar maakt.
+- b. de wijze waarop de houder van een kindercentrum de veiligheid van kinderen in relatie tot de in het kindercentrum aanwezige beroepskrachten en beroepskrachten in opleiding waarborgt.
 
 ##### Artikel 3. Opleidingseisen beroepskrachten en inzet beroepskrachten in opleiding
 
@@ -198,7 +198,7 @@ Vervallen
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2014-03-12&g=2014-03-12) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -238,7 +238,7 @@ Vervallen
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2014-03-12&g=2014-03-12).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
@@ -252,9 +252,9 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 2. Bij ministeriële regeling kunnen in elk geval nadere regels worden gesteld met betrekking tot:
 
-- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat;
+- a. de elementen die de inventarisatie, bedoeld in het eerste lid, minimaal bevat en de wijze waarop de houder van een peuterspeelzaal die inventarisatie openbaar maakt;
 
-- b. de wijze waarop de houder van een peuterspeelzaal de inventarisatie openbaar maakt.
+- b. de wijze waarop de houder van een peuterspeelzaal de veiligheid van kinderen in relatie tot de in de peuterspeelzaal aanwezige beroepskrachten en beroepskrachten in opleiding waarborgt.
 
 ##### Artikel 18. Opleidingseisen beroepskrachten en inzet van vrijwilligers
 
@@ -310,7 +310,7 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
-2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2014-01-01&g=2014-01-01), van dit besluit bedoelde deskundigheidseis.
+2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-03-12&g=2014-03-12), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2014-03-12&g=2014-03-12), van dit besluit bedoelde deskundigheidseis.
 
 3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.
 
