@@ -4,7 +4,7 @@ identifier: "BWBR0011708"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2013-01-01"
+last_updated: "2014-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011708"
 soort: "AMvB"
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2. Berekening van de bestuurlijke boete
 
-1. De bestuurlijke boete wordt vastgesteld op de hoogte van het benadelingsbedrag, met dien verstande dat zij op ten minste €150 wordt vastgesteld. Bij verminderde verwijtbaarheid wordt de bestuurlijke boete verlaagd.
+1. De bestuurlijke boete wordt vastgesteld op de hoogte van het benadelingsbedrag, en bij recidive van overtreding van de inlichtingenverplichting op 150 procent van het benadelingsbedrag, met dien verstande dat zij op ten minste € 150 wordt vastgesteld. Bij verminderde verwijtbaarheid wordt de bestuurlijke boete verlaagd.
 
 2. De bestuurlijke boete wordt naar boven afgerond op een veelvoud van € 10.
 
@@ -118,7 +118,7 @@ Vervallen
 
 ##### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
-[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2013-01-01&g=2013-01-01), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
+[Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2014-03-12&g=2014-03-12), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
 
 ##### Artikel 7. Inwerkingtreding van dit besluit.
 
@@ -172,7 +172,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a. Overgangsbepaling met betrekking tot wijziging van de Ziektewet
 
-De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2013-01-01&g=2013-01-01) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2013-01-01&g=2013-01-01), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
+De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2014-03-12&g=2014-03-12) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2014-03-12&g=2014-03-12), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
