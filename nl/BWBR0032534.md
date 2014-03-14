@@ -4,7 +4,7 @@ identifier: "BWBR0032534"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-14"
-last_updated: "2014-01-01"
+last_updated: "2014-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032534"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. Van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen, worden vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden en leden.
+1. Van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen, worden vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden en leden.
 
 2. Een vrijstelling als bedoeld in het eerste lid is van toepassing op gezinsleden die inwonen bij van belasting vrijgestelde hoofden en leden als bedoeld in het eerste lid en particuliere bedienden die werkzaam zijn voor die hoofden en leden. Het derde lid, aanhef en onderdeel e, is van overeenkomstige toepassing op deze gezinsleden en bedienden.
 
@@ -76,7 +76,7 @@ Besluit:
 
 ##### Artikel 3
 
-1. De volgende organisaties of personen worden vrijgesteld van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen:
+1. De volgende organisaties of personen worden vrijgesteld van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen:
 
 - a. de **African Management Services Company**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de African Management Services Company betreffende privileges en immuniteiten van het personeel van de African Management Services Company en hun gezinsleden (**Trb. 2005, 306**);
 
@@ -106,41 +106,49 @@ Besluit:
 
 - n. het **Europees Ruimte Agentschap**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied (**Trb. 2008, 33**);
 
-- o. het **Internationaal Tribunaal voor Rwanda**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Tribunaal voor Rwanda betreffende privileges en immuniteiten van het personeel van het International Criminal Tribunal for Rwanda en hun gezinsleden (**Trb. 2005, 317**);
+- o. het **Gemeenschappelijk Onderzoekscentrum van de Europese Commissie, Instituut voor Energie en Transport**, bedoeld in het besluit van 4 december 2013, kenmerk IFZ/2013/798, betreffende de eenzijdige toekenning van fiscale privileges aan het Gemeenschappelijk Onderzoekscentrum van de Europese Commissie;
 
-- p. het **International Criminal Tribunal for the Former Yugoslavia**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het International Criminal Tribunal for the Former Yugoslavia (ICTY) betreffende privileges en immuniteiten van het personeel van het International Criminal Tribunal for the Former Yugoslavia (ICTY) en hun gezinsleden (**Trb. 2005, 331**);
+- p. het **Internationaal Tribunaal voor Rwanda**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Tribunaal voor Rwanda betreffende privileges en immuniteiten van het personeel van het International Criminal Tribunal for Rwanda en hun gezinsleden (**Trb. 2005, 317**);
 
-- q. de **Internationale Organisatie voor Migratie**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland (**Trb. 2012, 73**);
+- q. het **International Criminal Tribunal for the Former Yugoslavia**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het International Criminal Tribunal for the Former Yugoslavia (ICTY) betreffende privileges en immuniteiten van het personeel van het International Criminal Tribunal for the Former Yugoslavia (ICTY) en hun gezinsleden (**Trb. 2005, 331**);
 
-- r. het **Internationale Hof van Justitie**, bedoeld in artikel 7, eerste lid, van het Handvest van de Verenigde Naties (**Trb. 1987, 113**);
+- r. de **Internationale Organisatie voor Migratie**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland (**Trb. 2012, 73**);
 
-- s. de **International Institute for Democracy and Electoral Assistance**, bedoeld in het gastlandverdrag tussen het Koninkrijk der Nederlanden en het International Institute for Democracy and Electoral Assistance betreffende privileges en immuniteiten van het het International Institute for Democracy and Electoral Assistance en personeel (**Trb. 2012, 157**);
+- s. de **Internationale Organisatie voor Ontwikkelingsrecht**, bedoeld in het Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Ontwikkelingsrecht **(Trb. 2014, 7)**;
 
-- t. het **Internationale Strafhof**, bedoeld in het zetelverdrag tussen het Internationaal Strafhof en het Koninkrijk der Nederlanden **(****Trb. 2007, 125****);**
+- t. het **Internationale Hof van Justitie**, bedoeld in artikel 7, eerste lid, van het Handvest van de Verenigde Naties (**Trb. 1987, 113**);
 
-- u. het **Iran-United States, Claimes Tribunal**, bedoeld in de briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de President van het ‘Iran-United States, Claimes Tribunal’ inzake het toekennen van voorrechten aan het Tribunaal (**Trb. 1988, 25**);
+- u. de **International Institute for Democracy and Electoral Assistance**, bedoeld in het gastlandverdrag tussen het Koninkrijk der Nederlanden en het International Institute for Democracy and Electoral Assistance betreffende privileges en immuniteiten van het het International Institute for Democracy and Electoral Assistance en personeel (**Trb. 2012, 157**);
 
-- v. het **NATO Airborne Early Warning and Contol Programme Manegement Agency (NAPMA),** bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Noord Atlantische Verdragsorganisatie (NAVO) betreffende de privileges en immuniteiten van het personeel van het NATO Airborne Early Warning and Contol Programme Management Agency (NAPMA) en hun gezinsleden (**Trb. 2006, 228**);
+- v. het **Internationale Strafhof**, bedoeld in het zetelverdrag tussen het Internationaal Strafhof en het Koninkrijk der Nederlanden **(****Trb. 2007, 125****);**
 
-- w. het **Permanente Hof van Arbitrage**, bedoeld in het verdrag inzake de zetel van het Permanente Hof van Arbitrage (**Trb. 1999, 68**);
+- w. het **Iran-United States, Claimes Tribunal**, bedoeld in de briefwisseling tussen de Regering van het Koninkrijk der Nederlanden en de President van het ‘Iran-United States, Claimes Tribunal’ inzake het toekennen van voorrechten aan het Tribunaal (**Trb. 1988, 25**);
 
-- x. het **Speciale Hof voor Sierra Leone**, bedoeld in het zetelverdrag tussen het Koninkrijk der Nederlanden en het Speciale Hof voor Sierra Leone (**Trb. 2006, 131**);
+- x. het **NATO Airborne Early Warning and Contol Programme Manegement Agency (NAPMA),** bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Noord Atlantische Verdragsorganisatie (NAVO) betreffende de privileges en immuniteiten van het personeel van het NATO Airborne Early Warning and Contol Programme Management Agency (NAPMA) en hun gezinsleden (**Trb. 2006, 228**);
 
-- y. het **Speciale Tribunaal voor Libanon**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (**Trb. 2007, 228**);
+- y. het **Permanente Hof van Arbitrage**, bedoeld in het verdrag inzake de zetel van het Permanente Hof van Arbitrage (**Trb. 1999, 68**);
 
-- z. het **Technical Centre for Agricultural and Rural Co-operation**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het Technical Centre for Agricultural and Rural Co-operation betreffende privileges en immuniteiten van het personeel van het Technical Centre for Agricultural and Rural Co-operation en hun gezinsleden (**Trb. 2005, 314**);
+- z. het **Speciale Hof voor Sierra Leone**, bedoeld in het zetelverdrag tussen het Koninkrijk der Nederlanden en het Speciale Hof voor Sierra Leone (**Trb. 2006, 131**);
 
-- aa. het **UNESCO-instituut voor wateropleiding**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het UNESCO-instituut voor wateropleiding betreffende privileges en immuniteiten van het personeel van het UNESCO-IHE en hun gezinsleden (**Trb. 2005, 320**); en
+- aa. het **Speciale Tribunaal voor Libanon**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (**Trb. 2007, 228**);
 
-- ab. het **United Nations University Institute for New technologies**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het United Nations University Institute for New technologies betreffende privileges en immuniteiten van het personeel van het United Nations University Institute for New technologies en hun gezinsleden (**Trb. 2005, 313**).
+- ab. het **Technical Centre for Agricultural and Rural Co-operation**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het Technical Centre for Agricultural and Rural Co-operation betreffende privileges en immuniteiten van het personeel van het Technical Centre for Agricultural and Rural Co-operation en hun gezinsleden (**Trb. 2005, 314**);
 
-2. [Artikel 2, eerste en derde lid, de onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2014-01-01), zijn van overeenkomstige toepassing op de organisaties, bedoeld in het eerste lid, hun hoofden en personeel. Artikel 2, tweede lid, is van overeenkomstige toepassing op inwonende gezinsleden en particuliere bedienden van die hoofden en dat personeel.
+- ac. het **UNESCO-instituut voor wateropleiding**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het UNESCO-instituut voor wateropleiding betreffende privileges en immuniteiten van het personeel van het UNESCO-IHE en hun gezinsleden (**Trb. 2005, 320**);
 
-3. [Artikel 2, eerste en derde lid, de onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2013-01-01&g=2014-01-01), zijn van overeenkomstige toepassing op het hoofd en de secretaris-generaal van de International Institute for Democracy and Electoral Assistance, bedoeld in het eerste lid, onderdeel s. Artikel 2, tweede lid, is van overeenkomstige toepassing op hun inwonende gezinsleden en particuliere bedienden.
+- ad. het **United Nations University Institute for New technologies**, bedoeld in het verdrag tussen het Koninkrijk der Nederlanden en het United Nations University Institute for New technologies betreffende privileges en immuniteiten van het personeel van het United Nations University Institute for New technologies en hun gezinsleden (**Trb. 2005, 313**);
+
+- ae. de **Vertegenwoordiging van de Europese Commissie**, bedoeld in het besluit van 4 december 2013, kenmerk IFZ/2013/799, betreffende de eenzijdige toekenning van fiscale privileges aan de Vertegenwoordiging van de Europese Commissie;
+
+- af. het **Voorlichtingsbureau van het Europees Parlement**, bedoeld in het besluit van 4 december 2013, kenmerk IFZ/2013/800, betreffende de eenzijdige toekenning van fiscale privileges aan het Voorlichtingsbureau van het Europees Parlement.
+
+2. [Artikel 2, eerste en derde lid, de onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2014-03-14&g=2014-03-14), zijn van overeenkomstige toepassing op de organisaties, bedoeld in het eerste lid, hun hoofden en personeel. Artikel 2, tweede lid, is van overeenkomstige toepassing op inwonende gezinsleden en particuliere bedienden van die hoofden en dat personeel.
+
+3. [Artikel 2, eerste en derde lid, de onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2014-03-14&g=2014-03-14), zijn van overeenkomstige toepassing op het hoofd en de secretaris-generaal van de International Institute for Democracy and Electoral Assistance, bedoeld in het eerste lid, onderdeel s. Artikel 2, tweede lid, is van overeenkomstige toepassing op hun inwonende gezinsleden en particuliere bedienden.
 
 ##### Artikel 4
 
-1. Van de in [artikel 1, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2013-01-01&g=2014-01-01), genoemde belastingen worden vrijgesteld:
+1. Van de in [artikel 1, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen worden vrijgesteld:
 
 - a. leden van een krijgsmacht, een civiele dienst en hun gezinsleden als bedoeld in artikel I, eerste lid, de onderdelen a, b, en c van het Verdrag tussen de Staten die partij zijn bij het Noord-Atlantisch Verdrag, nopens de rechtspositie van hun krijgsmachten; en
 
@@ -154,14 +162,16 @@ Besluit:
 
 ##### Artikel 5
 
-Een vrijstelling voor een personeelslid van het hof, bedoeld in [artikel 3, onderdeel r](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=3&z=2013-01-01&g=2014-01-01), blijft van toepassing op dat personeelslid als diegene sinds 30 februari 2001 onafgebroken in Nederland verblijf heeft gehouden en sindsdien onafgebroken werkzaam is bij dit hof.
+Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 ##### Artikel 6
 
-Deze regeling treedt in werking met ingang van 1 januari 2013.
+Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen.
 
 ##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
