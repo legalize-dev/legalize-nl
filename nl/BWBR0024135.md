@@ -4,7 +4,7 @@ identifier: "BWBR0024135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-23"
-last_updated: "2009-01-24"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024135"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ entry_into_force: "2008-07-10"
 
 In deze regeling wordt verstaan onder:
 
-Minister: Minister van Verkeer en Waterstaat;
+Minister: Minister van Infrastructuur en Milieu;
 
 wet: [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066).
 
@@ -96,11 +96,7 @@ Besluit:
 
 ##### Artikel 7
 
-1. Een bewijs van bevoegdheid, bevoegdverklaring, aantekening bij de bevoegdverklaring, aantekening betreffende de taalvaardigheid als bedoeld in respectievelijk [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=17) en [18, eerste en tweede lid, van het Besluit bewijzen van bevoegdheid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18) en een medische verklaring afgegeven door een andere lidstaat van de Europese Unie overeenkomstig [richtlijn nr. 2006/23/EG](32006L0023) van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 inzake een communautaire vergunning van luchtverkeersleiders wordt door de Minister erkend.
-
-2. Na een erkenning als bedoeld in het eerste lid stelt de Minister op aanvraag binnen 6 weken het programma vast ter vaststelling van de kennis, bedrevenheid en ervaring met betrekking tot de aantekening betreffende de eenheid, bedoeld in [artikel 18, tweede lid, onderdeel c, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=18), waarbij rekening wordt gehouden met door betrokkene verworven bekwaamheden en ervaring.
-
-3. Een wijziging van [richtlijn nr. 2006/23/EG](32006L0023) van het Europees Parlement en de Raad van de Europese Unie van 5 april 2006 inzake een communautaire vergunning van luchtverkeersleiders gaat voor de toepassing van onderhavige regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Vervallen
 
 #### § 4. Slotbepalingen
 
@@ -110,7 +106,7 @@ Besluit:
 
 ##### Artikel 9
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2009-01-24&g=2009-01-24) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2009-01-24&g=2009-01-24) terugwerken tot en met 21 december 2007.
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst met dien verstande dat [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=1&z=2014-03-15&g=2014-03-15) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0024135&paragraaf=2&z=2014-03-15&g=2014-03-15) terugwerken tot en met 21 december 2007.
 
 ##### Artikel 10
 
