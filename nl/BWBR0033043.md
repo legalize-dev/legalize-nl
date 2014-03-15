@@ -4,7 +4,7 @@ identifier: "BWBR0033043"
 country: "nl"
 rank: "wet"
 publication_date: "2025-09-01"
-last_updated: "2013-04-01"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033043"
 soort: "wet"
@@ -49,7 +49,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- –. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01);
+- –. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15);
 
 - –. **Onze Minister:** Onze Minister van Economische Zaken, Landbouw en Innovatie.
 
@@ -83,7 +83,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Onze Minister stelt ten behoeve van de uitvoering van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01), bedoelde taken, personeel ter beschikking van de Autoriteit Consument en Markt.
+1. Onze Minister stelt ten behoeve van de uitvoering van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15), bedoelde taken, personeel ter beschikking van de Autoriteit Consument en Markt.
 
 2. De Autoriteit Consument en Markt stelt een mandaatregeling op ten aanzien van de bevoegdheden van het personeel.
 
@@ -103,7 +103,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-1. Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01), zijn verkregen mogen uitsluitend worden gebruikt voor de uitvoering van die taak of enige andere taak als bedoeld in artikel 2, tweede lid.
+1. Gegevens of inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van een taak als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15), zijn verkregen mogen uitsluitend worden gebruikt voor de uitvoering van die taak of enige andere taak als bedoeld in artikel 2, tweede lid.
 
 2. Het eerste lid is niet van toepassing voor zover een wettelijk voorschrift het gebruik van verkregen gegevens of inlichtingen regelt.
 
@@ -111,7 +111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. een bestuursorgaan, dienst, toezichthouder en andere persoon, belast met de opsporing van strafbare feiten, onderscheidenlijk het toezicht op de naleving van wettelijke voorschriften, indien bij regeling van Onze Minister is bepaald dat verstrekking noodzakelijk is voor de goede vervulling van een aan dat bestuursorgaan, die dienst, die toezichthouder of die andere persoon opgedragen taak,
 
-- b. een buitenlandse instelling, indien het gaat om gegevens of inlichtingen die van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die buitenlandse instelling en die buitenlandse instelling op grond van nationale wettelijke regels is belast met de toepassing van regels op dezelfde gebieden als waarop de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01), betrekking hebben, of
+- b. een buitenlandse instelling, indien het gaat om gegevens of inlichtingen die van betekenis zijn of kunnen zijn voor de uitoefening van de taak van die buitenlandse instelling en die buitenlandse instelling op grond van nationale wettelijke regels is belast met de toepassing van regels op dezelfde gebieden als waarop de taken, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15), betrekking hebben, of
 
 - c. degene op wie de gegevens of inlichtingen betrekking hebben voor zover deze gegevens of inlichtingen door of namens hem zijn verstrekt.
 
@@ -209,7 +209,7 @@ Wijzigt de Telecommunicatiewet.
 
 ##### Artikel 28
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Warmtewet.
 
 ##### Artikel 29
 
@@ -267,19 +267,19 @@ Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen
 
 ##### Artikel 42
 
-1. Besluiten van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet aangemerkt als besluiten van de Autoriteit Consument en Markt.
+1. Besluiten van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet aangemerkt als besluiten van de Autoriteit Consument en Markt.
 
-2. Aanvragen en bezwaarschriften, ingediend bij de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet aangemerkt als aanvragen en bezwaarschriften, ingediend bij de Autoriteit Consument en Markt.
+2. Aanvragen en bezwaarschriften, ingediend bij de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, worden na inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet aangemerkt als aanvragen en bezwaarschriften, ingediend bij de Autoriteit Consument en Markt.
 
-3. In bestuursrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet de Autoriteit Consument en Markt in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
+3. In bestuursrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet de Autoriteit Consument en Markt in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
 
-4. In civielrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
+4. In civielrechtelijke rechtsgedingen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
 
-5. In overeenkomsten treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
+5. In overeenkomsten treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet de Staat in de plaats van het college voor de post- en telecommunicatieautoriteit.
 
-6. In samenwerkingsprotocollen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet de Autoriteit Consument en Markt in de plaats van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
+6. In samenwerkingsprotocollen treedt op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet de Autoriteit Consument en Markt in de plaats van de raad van bestuur van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit.
 
-7. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, treedt de Autoriteit Consument en Markt op dat tijdstip in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt respectievelijk de Consumentenautoriteit.
+7. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt of de Consumentenautoriteit, treedt de Autoriteit Consument en Markt op dat tijdstip in de plaats van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt respectievelijk de Consumentenautoriteit.
 
 8. Archiefbescheiden van de Nederlandse Mededingingsautoriteit, het college voor de post- en telecommunicatiemarkt en de Consumentenautoriteit worden overgedragen aan de Autoriteit Consument en Markt, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
@@ -293,21 +293,21 @@ Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen
 
 ##### Artikel 44
 
-1. Met ingang van het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet is het personeel van het college voor de post- en telecommunicatiemarkt aangesteld in algemene dienst van het Rijk.
+1. Met ingang van het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet is het personeel van het college voor de post- en telecommunicatiemarkt aangesteld in algemene dienst van het Rijk.
 
 2. De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij het college voor de post- en telecommunicatiemarkt.
 
-3. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01) van deze wet gaan de vermogensbestanddelen van het college voor de post- en telecommunicatiemarkt onder algemene titel over op de Staat tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
+3. Op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=2&artikel=2&z=2014-03-15&g=2014-03-15) van deze wet gaan de vermogensbestanddelen van het college voor de post- en telecommunicatiemarkt onder algemene titel over op de Staat tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
 
 4. Ingeval krachtens het derde lid registergoederen overgaan, doet Onze Minister van Financiën de overgang van die registergoederen onverwijld inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=24) is niet van toepassing.
 
 ##### Artikel 44a
 
-Op overtredingen van het bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&artikel=30&z=2013-04-01&g=2013-04-01) van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip.
+Op overtredingen van het bij of krachtens de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) bepaalde, waarvoor op grond van de Wet handhaving consumentenbescherming zoals die luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3&artikel=30&z=2014-03-15&g=2014-03-15) van deze wet, een bestuurlijke boete kon worden opgelegd, en die zijn begaan en beëindigd voor het tijdstip van inwerkingtreding van artikel 30 van deze wet, blijft de Wet handhaving consumentenbescherming van toepassing zoals die luidde onmiddellijk voor het genoemde tijdstip.
 
 ##### Artikel 45
 
-Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover de [artikelen 42 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=4&artikel=42&z=2013-04-01&g=2013-04-01) daarin niet voorzien. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.
+Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevolgen van de inwerkingtreding van deze wet voor zover de [artikelen 42 tot en met 44](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=4&artikel=42&z=2014-03-15&g=2014-03-15) daarin niet voorzien. Deze regels gelden uiterlijk tot en met 31 december van het kalenderjaar na dat waarin zij in werking zijn getreden. Van het vaststellen van deze regels wordt kennis gegeven aan de beide kamers der Staten-Generaal.
 
 ##### Artikel 45a
 
