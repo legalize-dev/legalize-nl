@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2013-10-24"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -46,7 +46,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad.
+- **verordening (EG) nr. 2042/2003:** verordening (EG) nr. 2042/2003 van de Commissie van 20 november 2003 betreffende de permanente luchtwaardigheid van luchtvaartuigen en luchtvaartproducten, -onderdelen en -uitrustingsstukken, en betreffende de goedkeuring van bij voornoemde taken betrokken organisaties en personen (PbEU L 315);
+
+- **verordening (EU) nr. 805/2011:** verordening (EU) nr. 805/2011 van de Commissie van 10 augustus 2011 tot vaststelling van gedetailleerde regels voor vergunningen en bepaalde certificaten van luchtverkeersleiders, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad (PB L 206);
+
+- **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad;
+
+- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224).
 
 #### § 2. Uitvoering
 
@@ -75,5 +81,29 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 ##### Artikel 4.2. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling uitvoering en handhaving luchtvaartveiligheid.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3.1. (aanwijzing overtredingen)
+
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn:
+
+- a. artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, 3, 4, 5, bijlage 1, paragrafen 21.A.177, 21.A.181, 21.A.209, 21.B.345 van verordening (EU) nr. 748/2012 of artikel 5 en bijlage I, paragrafen M.A.201, van verordening (EG) nr. 2042/2003;
+
+- b. artikel 6, eerste en derde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.A.211, van verordening (EU) nr. 748/2012;
+
+- c. artikel 7, eerste, tweede en zesde lid, van de basisverordening juncto artikel 3, bijlage 1, paragrafen FCL.050, FCL.065, FCL.070 en FCL.075, of bijlage IV, paragraaf MED.020, van verordening (EU) nr. 1178/2011;
+
+- d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 1, vijfde lid, of artikel 17, van verordening (EU) nr. 805/2011.
+
+2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.
+
+##### Artikel 3.2. (aanwijzing misdrijven)
+
+1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.B.320 of subdeel H, van verordening (EU) nr. 748/2012.
+
+2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
+
+#### § 4. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
