@@ -4,7 +4,7 @@ identifier: "BWBR0024639"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2013-08-23"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024639"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Minister:** Minister van Infrastructuur en Milieu;
+- **minister:** Minister van Infrastructuur en Milieu;
 
 - **typebevoegdheid:** bevoegdheid tot het uitvoeren van onderhoudswerkzaamheden aan een bepaald type vliegtuig met een maximum startmassa van 5700 kg of minder.
 
@@ -56,21 +56,17 @@ In deze regeling wordt verstaan onder:
 
 Deze regeling berust op Verordening (EG) nr. 2042/2003 en de [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=13), [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) en [16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=16).
 
-### Hoofdstuk 3. Examencommissie
+### Hoofdstuk 3. Examinatoren
 
 ##### Artikel 3
 
-De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de Regeling bijzondere bevoegdverklaringen AML en Part-66 AML en bijlage III bij verordening (EG) nr. 2042/2003.
+De ingevolge [artikel 15, tweede lid, van het Besluit bewijzen van bevoedheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=15) benoemde examinatoren en examinatoren in dienst van erkende opleidingsinstellingen zijn bevoegd tot het afnemen van het examen waarmee wordt aangetoond dat wordt voldaan aan de eisen inzake basiskennis of typekennis voor de afgifte van de bijzondere bevoegdverklaringen die kunnen worden vermeld op een AML of een Part-66 AML conform respectievelijk de [Regeling bijzondere bevoegdverklaringen AML en Part-66 AML](https://wetten.overheid.nl/jci1.3:c:BWBR0024644) en bijlage II bij verordening (EG) nr. 2042/2003.
 
 ##### Artikel 4
 
-1. De Minister stelt ten minste eenmaal per twee jaar het aantal examinatoren vast en biedt gelegenheid aan erkende onderhoudsorganisaties, erkende opleidingsinstellingen, examinatoren en de voorzitter, bij een vacature personen voor te dragen.
+1. De minister stelt ten minste eenmaal per twee jaar het aantal examinatoren vast en biedt gelegenheid aan erkende onderhoudsorganisaties, erkende opleidingsinstellingen en examinatoren, bij een vacature personen voor te dragen.
 
-2. De Minister kan een voorgedragen persoon voor ten hoogste twee jaren autoriseren als examinator, nadat is aangetoond, dat hij of zij beschikt over de kennis, ervaring en bekwaamheid die voor het afnemen van het examen relevant is.
-
-3. De Minister benoemt de voorzitter en de secretaris. De secretaris vervangt de voorzitter bij diens afwezigheid.
-
-4. De voorzitter roept de examencommissie ten minste eenmaal per jaar bijeen.
+2. De minister kan een voorgedragen persoon voor ten hoogste twee jaren benoemen als examinator, nadat is aangetoond, dat hij of zij beschikt over de kennis, ervaring en bekwaamheid die voor het afnemen van het examen relevant is.
 
 ##### Artikel 5
 
@@ -84,15 +80,7 @@ De examencommissie voor onderhoudstechnici in de luchtvaart is bevoegd tot het a
 
 - c. een vergoeding volgens het Reisbesluit binnenland voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie.
 
-3. De voorzitter en de secretaris kunnen bij de Minister een vergoeding voor de verrichte werkzaamheden declareren. De vergoeding bedraagt voor:
-
-- a. de voorzitter € 40 per uur voor alle werkzaamheden;
-
-- b. de secretaris € 25 per uur voor alle werkzaamheden.
-
-Daarnaast kunnen de voorzitter en de secretaris een vergoeding volgens het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) voor gemaakte reis- en verblijfkosten voor alle werkzaamheden ten behoeve van de commissie declareren.
-
-4. Het eerste lid is niet van toepassing op de in het eerste en derde lid bedoelde personen, die rijksambtenaar zijn en de desbetreffende werkzaamheden verrichtten tijdens diensttijd.
+3. Het eerste lid is niet van toepassing op de examinator die rijksambtenaar is en de betreffende werkzaamheden verricht tijdens diensttijd.
 
 ##### Artikel 6
 
@@ -100,9 +88,9 @@ De examinator is verplicht tot geheimhouding met betrekking tot de examenopgaven
 
 ##### Artikel 7
 
-1. De autorisatie kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2013-08-23&g=2013-08-23), of het examenreglement.
+1. De benoeming tot examinator kan worden geschorst wanneer een ernstig vermoeden bestaat dat de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2014-03-15&g=2014-03-15), of het examenreglement.
 
-2. De autorisatie kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2013-08-23&g=2013-08-23), of het examenreglement.
+2. De benoeming tot examinator kan worden ingetrokken wanneer de examinator in strijd heeft gehandeld met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=3&artikel=6&z=2014-03-15&g=2014-03-15), of het examenreglement.
 
 ### Hoofdstuk 4. Examenreglement
 
@@ -112,13 +100,13 @@ Vervallen
 
 ##### Artikel 9
 
-1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2013-08-23&g=2013-08-23).
+1. De basiskennismodules die deel uitmaken van het examen voor de in tabel 1 genoemde bevoegdverklaringen op een AML zijn vastgelegd in tabel 2 en nader gespecificeerd in de bij deze regeling behorende [bijlagen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2014-03-15&g=2014-03-15).
 
 | Bevoegdverklaring | Basiskennis | Examen duur |
 | --- | --- | --- |
-| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2013-08-23&g=2013-08-23) | tabel 2 |
-| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2013-08-23&g=2013-08-23) | tabel 2 |
-| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2013-08-23&g=2013-08-23) | tabel 2 |
+| A | [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=1&z=2014-03-15&g=2014-03-15) | tabel 2 |
+| B | [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=2&z=2014-03-15&g=2014-03-15) | tabel 2 |
+| C | [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&bijlage=3&z=2014-03-15&g=2014-03-15) | tabel 2 |
 
 |   | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten | Examen (schriftelijk) in minuten |
 | --- | --- | --- | --- |
@@ -177,13 +165,11 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 1. Als regel wordt tweemaal per jaar gelegenheid gegeven tot het afleggen van het examen.
 
-2. In afwijking van het eerste lid kan, wanneer in een jaar het aantal examenkandidaten minder dan 10 bedraagt, de voorzitter besluiten dat in het daaropvolgende jaar slechts eenmaal gelegenheid wordt gegeven tot het afleggen van het examen.
-
-3. De voorzitter stelt na consultatie van de examencommissie de plaats, datum en tijd van het examen vast en publiceert deze op de website www.ivw.nl van de Inspectie Verkeer en Waterstaat.
+2. In afwijking van het eerste lid kan, wanneer in een jaar het aantal examenkandidaten minder dan 10 bedraagt, de minister besluiten dat in het daaropvolgende jaar slechts eenmaal gelegenheid wordt gegeven tot het afleggen van het examen.
 
 ##### Artikel 12
 
-1. Aanmelding voor het examen vindt plaats bij de secretaris van de examencommissie.
+1. Aanmelding van het examen vindt plaats bij de minister.
 
 2. Een ieder, die daartoe een aanvraag indient, wordt met inachtneming van het derde lid tot het examen toegelaten.
 
@@ -191,15 +177,15 @@ Tabel 4. Examen voor deelnemers die houder zijn van een Part-66 AML.
 
 ##### Artikel 13
 
-1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=8&z=2013-08-23&g=2013-08-23).
+1. De examinandus kan door de examinator van verdere deelname aan het examen worden uitgesloten indien deze in strijd handelt met het reglement, bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&z=2014-03-15&g=2014-03-15) van deze regeling.
 
-2. De voorzitter wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
+2. De minister wordt door de examinator over een uitsluiting, bedoeld in het eerste lid, geïnformeerd.
 
 ##### Artikel 14
 
-1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De voorzitter is evenwel bevoegd een andere examinator voor de beoordeling van het examenresultaat aan te wijzen.
+1. Het examenresultaat wordt als regel beoordeeld door de examinator die het examen heeft afgenomen. De minister kan een andere examinator voor de beoordeling van het examenresultaat aanwijzen.
 
-2. De uitslag van het examen wordt namens de Minister vastgesteld door de beoordelende examinator met instemming van de voorzitter. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2013-08-23&g=2013-08-23), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
+2. De uitslag van het examen wordt namens de minister vastgesteld door de beoordelende examinator. Bij een uitsluiting bedoeld in [artikel 13, het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024639&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15), wordt als uitslag van het examen het cijfer 1,0 of 0% vastgesteld.
 
 3. De uitslag van het examen wordt uiterlijk zes weken nadat het examen is afgelegd schriftelijk aan de examinandus bekend gemaakt.
 
