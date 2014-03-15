@@ -4,7 +4,7 @@ identifier: "BWBR0016584"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-15"
-last_updated: "2009-04-05"
+last_updated: "2014-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016584"
 soort: "ministeriele-regeling"
@@ -41,11 +41,15 @@ Besluit:
 
 ##### Artikel 1
 
-Uiterlijk zeven dagen na de dag van kandidaatstelling voor de verkiezing van de leden van het Europees Parlement verstrekken burgemeester en wethouders aan Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties per e-mail de gegevens van de in [artikel Y 3, onder b, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_3) bedoelde personen, waarvan de kiesgerechtigdheid voor de verkiezing van de leden van het Europees Parlement in de gemeentelijke administratie is geregistreerd.
+1. De minister van Binnenlandse Zaken en Koninkrijksrelaties verzendt namens burgemeester en wethouders zo spoedig mogelijk na de zevende dag na de kandidaatstelling de gegevens van de personen, bedoeld in [artikel Y 3, onder b, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_3), waarvan de kiesgerechtigdheid voor de verkiezing van de Nederlandse leden van het Europees Parlement is geregistreerd aan de autoriteiten, bedoeld in [artikel Y 32, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_32).
+
+2. De minister van Binnenlandse Zaken en Koninkrijksrelaties ontleent de gegevens, voor zover mogelijk, aan de basisregistratie personen.
+
+3. Burgemeester en wethouders verstrekken aan de minister van Binnenlandse Zaken en Koninkrijksrelaties op diens verzoek uiterlijk de zevende dag na de kandidaatstelling per beveiligde e-mail de gegevens die ter vervulling van de taak, bedoeld in het eerste lid, niet uit de basisregistratie personen kunnen worden verstrekt.
 
 ##### Artikel 2
 
-1. Onder de gegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016584&artikel=1&z=2009-04-05&g=2009-04-05), wordt verstaan:
+1. Onder de gegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016584&artikel=1&z=2014-03-15&g=2014-03-15), wordt verstaan:
 
 - a. naam of namen;
 
@@ -69,7 +73,7 @@ Uiterlijk zeven dagen na de dag van kandidaatstelling voor de verkiezing van de 
 
 ##### Artikel 3
 
-Na ontvangst van de gegevens draagt Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties zorg dat deze gegevens onverwijld worden toegezonden aan de autoriteiten, bedoeld in [artikel Y 32, achtste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_32).
+Vervallen
 
 ##### Artikel 4
 
