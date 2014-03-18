@@ -4,7 +4,7 @@ identifier: "BWBR0034924"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-03-18"
-last_updated: "2014-03-02"
+last_updated: "2014-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034924"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **adviesraad:** externe Adviesraad kansspelautoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034924&artikel=2&z=2014-03-18&g=2014-03-02);
+- a. **adviesraad:** externe Adviesraad kansspelautoriteit als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034924&artikel=2&z=2014-03-18&g=2014-03-18);
 
 - b. **raad:** raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
@@ -60,7 +60,7 @@ De adviesraad heeft tot taak de raad gevraagd en ongevraagd te adviseren over on
 
 ##### Artikel 4
 
-In het licht van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034924&artikel=3&z=2014-03-18&g=2014-03-02) geformuleerde taakstelling beziet de adviesraad jaarlijks de begroting, het werkplan, het jaarverslag en andere van belang zijnde publicaties van de kansspelautoriteit.
+In het licht van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034924&artikel=3&z=2014-03-18&g=2014-03-18) geformuleerde taakstelling beziet de adviesraad jaarlijks de begroting, het werkplan, het jaarverslag en andere van belang zijnde publicaties van de kansspelautoriteit.
 
 ##### Artikel 5
 
