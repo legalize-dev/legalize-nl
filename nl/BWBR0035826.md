@@ -4,7 +4,7 @@ identifier: "BWBR0035826"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-03-16"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035826"
 soort: "wet"
@@ -56,7 +56,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gemeentewet.
 
 ##### Artikel IVa. [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&wetgeving)
 
