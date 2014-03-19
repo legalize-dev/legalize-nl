@@ -4,7 +4,7 @@ identifier: "BWBR0002691"
 country: "nl"
 rank: "wet"
 publication_date: "2026-02-20"
-last_updated: "2014-01-06"
+last_updated: "2014-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002691"
 soort: "wet"
@@ -64,19 +64,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. aanmelding: aanmelding als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-01-06&g=2014-01-06);
+- a. aanmelding: aanmelding als bedoeld in [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-03-19&g=2014-03-19);
 
 - b. nabestaande: de man of vrouw met wie de overleden politieke ambtsdrager, gewezen politieke ambtsdrager of gepensioneerde politieke ambtsdrager op de dag van overlijden gehuwd was, dan wel de man of vrouw ten aanzien van wie door de overledene aanmelding had plaatsgevonden.
 
 2. Onder politieke ambtsdrager wordt verstaan voor de toepassing van
 
-- a. de [tweede afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) van deze wet: minister;
+- a. de [tweede afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) van deze wet: minister;
 
-- b. de [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet: lid van de Tweede Kamer der Staten-Generaal;
+- b. de [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet: lid van de Tweede Kamer der Staten-Generaal;
 
-- c. de [vierde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&z=2014-01-06&g=2014-01-06) van deze wet: minister of lid van de Tweede Kamer der Staten-Generaal;
+- c. de [vierde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&z=2014-03-19&g=2014-03-19) van deze wet: minister of lid van de Tweede Kamer der Staten-Generaal;
 
-- d. de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06) van deze wet: commissaris van de Koning, lid van gedeputeerde staten, burgemeester, wethouder, lid van het dagelijks bestuur van een deelgemeente, voorzitter of lid van het dagelijks bestuur van een waterschap of de Rijksvertegenwoordiger.
+- d. de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19) van deze wet: commissaris van de Koning, lid van gedeputeerde staten, burgemeester, wethouder, lid van het dagelijks bestuur van een deelgemeente in de zin van [hoofdstuk V, paragraaf 2, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&paragraaf=2), zoals deze paragraaf luidde op de dag voorafgaand aan de datum van de verkiezing van de gemeenteraden in 2014, voorzitter of lid van het dagelijks bestuur van een waterschap of de Rijksvertegenwoordiger.
 
 3. Waar in deze wet betekenis toekomt aan het gegeven dat een belanghebbende gehuwd is, gehuwd is geweest of een huwelijk aangaat, wordt mede begrepen onder gehuwd: als partner geregistreerd, respectievelijk onder huwelijk: geregistreerd partnerschap.
 
@@ -84,7 +84,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2a
 
-1. De politieke ambtsdrager, bedoeld in [artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06), alsmede de Rijksvertegenwoordiger kan bij Onze Minister één man of vrouw aanmelden, indien hij en deze man of vrouw:
+1. De politieke ambtsdrager, bedoeld in [artikel 2, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19), alsmede de Rijksvertegenwoordiger kan bij Onze Minister één man of vrouw aanmelden, indien hij en deze man of vrouw:
 
 - a. beiden als ingezetene met het zelfde woonadres in de basisregistratie personen zijn ingeschreven;
 
@@ -124,9 +124,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 2b
 
-1. [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing op de politieke ambtsdrager, bedoeld in [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06) met uitzondering van de Rijksvertegenwoordiger.
+1. [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-03-19&g=2014-03-19) is van overeenkomstige toepassing op de politieke ambtsdrager, bedoeld in [artikel 2, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19) met uitzondering van de Rijksvertegenwoordiger.
 
-2. Voor de toepassing, bedoeld in het eerste lid, treden gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur van het waterschap in de plaats van Onze Minister, uitgezonderd ten aanzien van diens bevoegdheid, gegeven in [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-01-06&g=2014-01-06).
+2. Voor de toepassing, bedoeld in het eerste lid, treden gedeputeerde staten, het college van burgemeester en wethouders onderscheidenlijk het dagelijks bestuur van het waterschap in de plaats van Onze Minister, uitgezonderd ten aanzien van diens bevoegdheid, gegeven in [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 3. Bijzonder nabestaandenpensioen
 
@@ -174,7 +174,7 @@ Op een bij of krachtens deze wet vastgestelde pensioenregeling zijn de [artikele
 
 - b. wegens enig strafbaar feit is veroordeeld waaruit naar Ons oordeel blijkt dat hij zich uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen.
 
-4. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-01-06&g=2014-01-06), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
+4. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-03-19&g=2014-03-19), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
 
 ##### Artikel 7. Duur van de uitkering
 
@@ -184,11 +184,11 @@ Op een bij of krachtens deze wet vastgestelde pensioenregeling zijn de [artikele
 
 3. Als de belanghebbende ten tijde van zijn aftreden negen jaar en zeven maanden of minder verwijderd is van de pensioengerechtigde leeftijd die is vastgesteld voor het kalenderjaar vijf jaren na het jaar van aftreden, en hij in het tijdvak van twaalf jaren dat direct aan zijn ontslag voorafgaat ten minste tien jaren minister is geweest, wordt de uitkering voortgezet tot hij zijn pensioengerechtigde leeftijd heeft bereikt.
 
-4. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende minister is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbreking in de uitoefening van deze functies.
+4. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende minister is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbreking in de uitoefening van deze functies.
 
-5. In geval van tussentijds vervallen van de uitkering krachtens [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-01-06&g=2014-01-06), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
+5. In geval van tussentijds vervallen van de uitkering krachtens [artikel 11, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-03-19&g=2014-03-19), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
 
-6. In bijzondere gevallen kunnen Wij, de Raad van State gehoord, bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-01-06&g=2014-01-06) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
+6. In bijzondere gevallen kunnen Wij, de Raad van State gehoord, bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-03-19&g=2014-03-19) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
 
 ##### Artikel 18
 
@@ -196,7 +196,7 @@ Na het overlijden van een minister, gewezen minister of gepensioneerd minister h
 
 ##### Artikel 19
 
-Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensioneerde minister ten tijde van zijn overlijden een onderhoudsplicht krachtens [artikel 394 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=394) dan wel [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) was opgelegd, dan wel door hem bij authentieke akte een dergelijke verplichting was erkend, hebben onder dezelfde voorwaarden als genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=18&z=2014-01-06&g=2014-01-06) recht op wezenpensioen.
+Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensioneerde minister ten tijde van zijn overlijden een onderhoudsplicht krachtens [artikel 394 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=394) dan wel [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) was opgelegd, dan wel door hem bij authentieke akte een dergelijke verplichting was erkend, hebben onder dezelfde voorwaarden als genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=18&z=2014-03-19&g=2014-03-19) recht op wezenpensioen.
 
 ##### Artikel 8. Bedrag van de uitkering
 
@@ -210,7 +210,7 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 ##### Artikel 8a
 
-1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-01-06&g=2014-01-06), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8b&z=2014-01-06&g=2014-01-06).
+1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=11&z=2014-03-19&g=2014-03-19), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8b&z=2014-03-19&g=2014-03-19).
 
 2. Algemeen invalide, geheel of gedeeltelijk, in de zin van deze wet is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekten of gebreken geheel of gedeeltelijk niet in staat is om met arbeid te verdienen hetgeen gezonde personen, met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan, met arbeid gewoonlijk verdienen. Onder de eerstgenoemde arbeid wordt verstaan alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is. Onder deze arbeid wordt niet begrepen arbeid op grond van een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2).
 
@@ -224,7 +224,7 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 1. De voortzetting van de uitkering vindt plaats als aangegeven in het tweede en derde lid en vervolgens als aangegeven in het vierde en het vijfde lid van dit artikel.
 
-2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de laatstelijk als minister genoten wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06), bij een algemene invaliditeit van 80% of meer, 60% van deze wedde bij een algemene invaliditeit van 55% tot 80% en 40% van die wedde bij een algemene invaliditeit van 25% tot 55%.
+2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de laatstelijk als minister genoten wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19), bij een algemene invaliditeit van 80% of meer, 60% van deze wedde bij een algemene invaliditeit van 55% tot 80% en 40% van die wedde bij een algemene invaliditeit van 25% tot 55%.
 
 3. De in het tweede lid bedoelde periode is ten hoogste voor de betrokkene die op het tijdstip van voortzetting van de uitkering:
 
@@ -242,7 +242,7 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 jonger is dan 33 jaar: nihil.
 
-4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de laatstelijk als minister genoten wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06), en het minimumloon.
+4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de laatstelijk als minister genoten wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19), en het minimumloon.
 
 5. Voor de berekening van het in het vierde lid bedoelde bedrag geldt een percentage van 2 maal het aantal verstreken jaren tussen het 15e jaar en de leeftijd van de belanghebbende op het tijdstip van voortzetting van de uitkering.
 
@@ -252,17 +252,17 @@ jonger is dan 33 jaar: nihil.
 
 8. De aanvulling is gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het zevende lid bedoelde percentage van de laatstelijk als minister genoten wedde.
 
-9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de laatstelijk als minister genoten wedde, indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-01-06&g=2014-01-06).
+9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de laatstelijk als minister genoten wedde, indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-03-19&g=2014-03-19).
 
 10. Het in het negende lid bedoelde percentage bedraagt bij een algemene invaliditeit van 80% of meer 65%, bij een algemene invaliditeit van 55% tot 80%: 56% en bij een algemene invaliditeit van 25% tot 55%: 37%.
 
-11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-01-06&g=2014-01-06), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Onze Minister stelt regels met betrekking tot de wijze en het tijdstip waarop de minister of de gewezen minister de in het negende lid bedoelde keuze, die eenmalig is, kenbaar dient te maken.
+11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-03-19&g=2014-03-19), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Onze Minister stelt regels met betrekking tot de wijze en het tijdstip waarop de minister of de gewezen minister de in het negende lid bedoelde keuze, die eenmalig is, kenbaar dient te maken.
 
-12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
+12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
 
 ##### Artikel 8c
 
-1. De voortzetting van de uitkering, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
+1. De voortzetting van de uitkering, bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
 
 2. Onze Minister stelt de belanghebbende uiterlijk vier maanden voor het verstrijken van de in het eerste lid bedoelde termijn schriftelijk in kennis van de mogelijkheid tot het doen van een aanvraag tot voortzetting van de uitkering na afloop van die termijn.
 
@@ -278,7 +278,7 @@ jonger is dan 33 jaar: nihil.
 
 ##### Artikel 8d
 
-1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06) is voortgezet, doet Onze Minister een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
+1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19) is voortgezet, doet Onze Minister een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
 
 2. Onze Minister kan ten aanzien van bepaalde groepen algemeen invaliden bepalen dat geen termijn geldt dan wel een termijn zal gelden die afwijkt van de in het eerste lid genoemde termijn.
 
@@ -290,13 +290,13 @@ jonger is dan 33 jaar: nihil.
 
 - b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van de maand volgende op die waarin de beslissing tot wijziging is genomen.
 
-5. De toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van Onze Minister zich te onderwerpen aan een onderzoek door een of meer door hem aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
+5. De toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van Onze Minister zich te onderwerpen aan een onderzoek door een of meer door hem aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
 
-6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, is Onze Minister bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid als bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband met arbeid worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06).
+6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, is Onze Minister bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid als bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband met arbeid worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 8e
 
-1. Op verzoek van een minister doet Onze Minister een onderzoek instellen door een of meer door hem aangewezen geneeskundigen, ter beantwoording van de vraag of de minister die het verzoek deed algemene invalide is als bedoeld in [artikel 8**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06).
+1. Op verzoek van een minister doet Onze Minister een onderzoek instellen door een of meer door hem aangewezen geneeskundigen, ter beantwoording van de vraag of de minister die het verzoek deed algemene invalide is als bedoeld in [artikel 8**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19).
 
 2. Onze Minister brengt de uitkomst van een onderzoek dat is ingesteld ingevolge het eerste lid ter kennis van de verzoeker.
 
@@ -314,19 +314,19 @@ jonger is dan 33 jaar: nihil.
 
 Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsongeschiktheidsuitkering of een inkomensvoorziening krachtens de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
-3. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten wedde, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7c&z=2014-01-06&g=2014-01-06), opgelegde inhouding buiten beschouwing gelaten.
+3. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten wedde, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7c&z=2014-03-19&g=2014-03-19), opgelegde inhouding buiten beschouwing gelaten.
 
 4. Indien in het bedrag der inkomsten bedoeld in de vorige leden, is of geacht kan worden te zijn begrepen een vergoeding ter zake van de premie [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), blijft deze vergoeding voor de toepassing van dit artikel buiten beschouwing. De vorige volzin is slechts van toepassing voor zover de daar bedoelde inkomsten betrekking hebben op een tijdvak gelegen voor 1 juni 1985.
 
 5. Kinderbijslag wordt niet aangemerkt als inkomst.
 
-6. Voor de toepassing van dit artikel ten aanzien van de voortgezette uitkering bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-01-06&g=2014-01-06), en [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06), kan Onze Minister andere inkomsten aanmerken als te zijn genoten wegens activiteiten bedoeld in het tweede lid.
+6. Voor de toepassing van dit artikel ten aanzien van de voortgezette uitkering bedoeld in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-03-19&g=2014-03-19), en [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19), kan Onze Minister andere inkomsten aanmerken als te zijn genoten wegens activiteiten bedoeld in het tweede lid.
 
 ##### Artikel 9a
 
-1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06), terstond mededeling te doen aan Onze Minister onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen door de belanghebbende met betrekking tot de activiteiten bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06).
+1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19), terstond mededeling te doen aan Onze Minister onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen door de belanghebbende met betrekking tot de activiteiten bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19).
 
-2. Brengt de aard van de activiteiten of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06) van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
+2. Brengt de aard van de activiteiten of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19) van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
 
 3. Onze Minister kan bij de vaststelling van het bedrag van de vermindering van de opgave van de belanghebbende afwijken.
 
@@ -336,7 +336,7 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 1. De uitkering, berekend over een maand, wordt in maandelijkse termijnen betaald.
 
-2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-01-06&g=2014-01-06).
+2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 11. Einde en verval van de uitkering
 
@@ -348,9 +348,9 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 - b. met ingang van de dag waarop de gewezen minister wederom minister wordt;
 
-- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-01-06&g=2014-01-06). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
+- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 6, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-03-19&g=2014-03-19). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
 
-3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-01-06&g=2014-01-06).
+3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-03-19&g=2014-03-19).
 
 4. Voorts kunnen Wij, de Raad van State gehoord, de uitkering vervallen verklaren, indien de gewezen minister:
 
@@ -376,7 +376,7 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 3. Het pensioen kan niet eerder in gaan dan op het tijdstip waarop de betrokkene de leeftijd van 60 jaren heeft bereikt.
 
-4. Gedurende de tijd dat de betrokkene optreedt als minister en gedurende de tijd dat hij een uitkering geniet als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06), kan het pensioen niet ingaan.
+4. Gedurende de tijd dat de betrokkene optreedt als minister en gedurende de tijd dat hij een uitkering geniet als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19), kan het pensioen niet ingaan.
 
 5. Het pensioen gaat, zo nodig in afwijking van het vierde lid, niet later in dan het tijdstip waarop de betrokkene de leeftijd heeft bereikt, bedoeld in [artikel 18a, vierde lid, onder 5, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a).
 
@@ -400,9 +400,9 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 - d. het bepalen van het pensioen;
 
-- e. de herrekening, bedoeld in [artikel 13e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13e&z=2014-01-06&g=2014-01-06);
+- e. de herrekening, bedoeld in [artikel 13e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13e&z=2014-03-19&g=2014-03-19);
 
-- f. de beperkingen die bij toepassing van [artikel 13e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13e&z=2014-01-06&g=2014-01-06), in acht worden genomen en de herrekening die bij die toepassing wordt gehanteerd;
+- f. de beperkingen die bij toepassing van [artikel 13e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13e&z=2014-03-19&g=2014-03-19), in acht worden genomen en de herrekening die bij die toepassing wordt gehanteerd;
 
 - g. de verhoging van het pensioen door omzetting van nabestaandenpensioen, waaronder de daarbij te hanteren ruilvoet;
 
@@ -472,9 +472,9 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 - b. bij overlijden van een gewezen minister vóór het bereiken van de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- c. bij overlijden van een gepensioneerd minister, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-01-06&g=2014-01-06).
+- c. bij overlijden van een gepensioneerd minister, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-03-19&g=2014-03-19).
 
-3. Voor de toepassing van het tweede lid geldt niet als gewezen minister de gewezen minister met recht op uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-01-06&g=2014-01-06).
+3. Voor de toepassing van het tweede lid geldt niet als gewezen minister de gewezen minister met recht op uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 16
 
@@ -498,7 +498,7 @@ Vervallen
 
 - c. bij overlijden van een minister of gewezen minister voor de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- d. bij overlijden van een gepensioneerd minister voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-01-06&g=2014-01-06).
+- d. bij overlijden van een gepensioneerd minister voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 18
 
@@ -510,7 +510,7 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 ##### Artikel 20
 
-1. Kinderen voor welke de minister, gewezen minister of gepensioneerde minister ten tijde van zijn overlijden de pleegouderlijke zorg droeg, hebben onder dezelfde voorwaarden als genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=18&z=2014-01-06&g=2014-01-06), recht op wezenpensioen met dien verstande dat in plaats van het tijdstip van geboorte of adoptie het tijdstip van aanvang van de pleegouderlijke zorg in aanmerking wordt genomen.
+1. Kinderen voor welke de minister, gewezen minister of gepensioneerde minister ten tijde van zijn overlijden de pleegouderlijke zorg droeg, hebben onder dezelfde voorwaarden als genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=18&z=2014-03-19&g=2014-03-19), recht op wezenpensioen met dien verstande dat in plaats van het tijdstip van geboorte of adoptie het tijdstip van aanvang van de pleegouderlijke zorg in aanmerking wordt genomen.
 
 2. Onder pleegouderlijke zorg bedoeld in het vorige lid wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.
 
@@ -524,7 +524,7 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 ##### Artikel 22. Nabestaandenpensioen
 
-1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop de overleden minister als zodanig aanspraak zou hebben gehad indien hij met ingang van de dag na die van zijn overlijden was ontslagen of waarop de overleden gewezen minister als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 15, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=15&z=2014-01-06&g=2014-01-06).
+1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop de overleden minister als zodanig aanspraak zou hebben gehad indien hij met ingang van de dag na die van zijn overlijden was ontslagen of waarop de overleden gewezen minister als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 15, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=15&z=2014-03-19&g=2014-03-19).
 
 2. In afwijking van het vorige lid bedraagt het pensioen van de nabestaande van hem die overlijdt:
 
@@ -532,19 +532,19 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 - b. als gewezen minister in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop de gewezen minister aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de pensioengerechtigde leeftijd recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld naar de mate van medetelling van diensttijd op de dag van overlijden.
 
-3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) of [vijfde afdeling van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06), wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd, die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
+3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de [derde](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) of [vijfde afdeling van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19), wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd, die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
 4. Bij de toepassing van het eerste tot en met derde lid wordt ten aanzien van het eigen pensioen opgebouwd tussen 31 december 1985 en 1 januari 1995, gerekend met een bij of krachtens algemene maatregel van bestuur vastgestelde franchise.
 
 ##### Artikel 22a
 
-1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat.
 
 3. De nabestaande, bedoeld in het eerste lid, die jonger is dan 40 jaar, heeft recht op de in dat lid bedoelde toeslag voor de duur van 12 maanden.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999.
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999.
 
 5. Het recht op toeslag vervalt:
 
@@ -554,17 +554,17 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 ##### Artikel 22b
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.
 
 3. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld:
 
-- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999;
+- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999;
 
 - b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
-4. [Artikel 22a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22a&z=2014-01-06&g=2014-01-06), zijn mede van toepassing op de toeslag ingevolge dit artikel.
+4. [Artikel 22a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22a&z=2014-03-19&g=2014-03-19), zijn mede van toepassing op de toeslag ingevolge dit artikel.
 
 ##### Artikel 23. Bijzonder nabestaandenpensioen
 
@@ -572,9 +572,9 @@ Kinderen ten opzichte van welke aan een mannelijke minister, gewezen of gepensio
 
 - a. de berekeningsgrondslag waarnaar het pensioen van de minister, gewezen minister of gepensioneerd minister zou zijn berekend indien deze op de dag van ontbinding van het huwelijk dan wel van het einde van de aanmelding als partner recht op pensioen zou hebben verkregen;
 
-- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 17, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-01-06&g=2014-01-06), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking wordt genomen.
+- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 17, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-03-19&g=2014-03-19), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking wordt genomen.
 
-2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 17, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-01-06&g=2014-01-06), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de diensttijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
+2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 17, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-03-19&g=2014-03-19), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de diensttijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
 
 3. Indien er bij een overlijden recht bestaat op een of meer bijzondere nabestaandenpensioenen wordt het nabestaandenpensioen dat aan hetzelfde overlijden wordt ontleend met het bedrag daarvan verminderd.
 
@@ -588,31 +588,31 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 - a. voor elk kind, wiens ouder aan het overlijden van de minister, gewezen minister of gepensioneerd minister recht op pensioen ontleent, een zevende gedeelte;
 
-- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06).
+- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19).
 
-2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van zijn overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=20&z=2014-01-06&g=2014-01-06).
+2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van zijn overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=20&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 25a
 
 1. Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.
 
-2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
+2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
 
-- a. voor de wees, bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
+- a. voor de wees, bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
 
-- b. voor de wees bedoeld in [artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), 0,75 percent van het onder **a** bedoelde jaarbedrag.
+- b. voor de wees bedoeld in [artikel 25, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), 0,75 percent van het onder **a** bedoelde jaarbedrag.
 
 3. Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan Onze Minister. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06).
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 26
 
-1. Onze Minister maakt een herberekening van het wezenpensioen overeenkomstig de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06) en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25a&z=2014-01-06&g=2014-01-06), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
+1. Onze Minister maakt een herberekening van het wezenpensioen overeenkomstig de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19) en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25a&z=2014-03-19&g=2014-03-19), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
 
-2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) wegens hertrouwen of een aanmelding opnieuw wordt vastgesteld, verhoogt Onze Minister het wezenpensioen bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06), vóór en na toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
+2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) wegens hertrouwen of een aanmelding opnieuw wordt vastgesteld, verhoogt Onze Minister het wezenpensioen bedoeld in [artikel 25, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19), vóór en na toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
 
-3. Voor de toepassing van dit artikel is [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), van overeenkomstige toepassing.
+3. Voor de toepassing van dit artikel is [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), van overeenkomstige toepassing.
 
 ##### Artikel 27. Beperking gezamenlijk bedrag wezenpensioenen
 
@@ -620,25 +620,25 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 2. Indien wegens toepassing van het eerste lid de wezenpensioenen worden verminderd, geschiedt deze vermindering in evenredigheid naar de omvang van die pensioenen.
 
-3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=27b&z=2014-01-06&g=2014-01-06), buiten beschouwing gelaten.
+3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=27b&z=2014-03-19&g=2014-03-19), buiten beschouwing gelaten.
 
 ##### Artikel 27a. Toeslag op nabestaandenpensioen
 
 1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
-3. Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) opnieuw is vastgesteld.
+3. Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) opnieuw is vastgesteld.
 
-4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 27b. Toeslag op wezenpensioen
 
-1. De wees bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
+1. De wees bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
-3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 28. Tijdelijk pensioen
 
@@ -656,7 +656,7 @@ Wij, de Raad van State gehoord, verklaren het uitzicht of het recht op pensioen 
 
 ##### Artikel 30. Herstel van uitzicht op pensioen
 
-In bijzondere gevallen kunnen Wij, de Raad van State gehoord, een door of als gevolg van de toepassing van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=29&z=2014-01-06&g=2014-01-06) vervallen uitzicht of recht op pensioen geheel of gedeeltelijk herstellen.
+In bijzondere gevallen kunnen Wij, de Raad van State gehoord, een door of als gevolg van de toepassing van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=29&z=2014-03-19&g=2014-03-19) vervallen uitzicht of recht op pensioen geheel of gedeeltelijk herstellen.
 
 ##### Artikel 31. Verval van recht op pensioen bij het niet-invorderen
 
@@ -684,7 +684,7 @@ Vervallen
 
 1. Indien een wees die reeds recht op een wezenpensioen heeft, hetzij krachtens deze wet, hetzij krachtens een andere regeling, daarna eveneens recht op enig ander wezenpensioen verkrijgt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, wordt voor de berekening van de eigen pensioenen waarvan die wezenpensioenen zijn of geacht moeten worden te zijn afgeleid, samenlopende tijd slechts medegeteld bij de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
-2. [Artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+2. [Artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
@@ -694,13 +694,13 @@ Vervallen
 
 2. Artikel 4 van de wet van 1 augustus 1956, **Stb.** 455, blijft van toepassing tot 1 januari 1969.
 
-3. Artikel 14, onder **a**, van de wet van 1 augustus 1956, **Stb.** 455, blijft van toepassing tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), bedoelde tijdstip.
+3. Artikel 14, onder **a**, van de wet van 1 augustus 1956, **Stb.** 455, blijft van toepassing tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), bedoelde tijdstip.
 
 4. Te rekenen van 1 september 1956 af wordt in de opsomming van artikelen in de aanhef van artikel 50, eerste lid, van de wet van 1 augustus 1956, **Stb.** 455, ingevoegd: 14, onder **a**.
 
 ##### Artikel 36
 
-De wettelijke bepalingen bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=35&z=2014-01-06&g=2014-01-06) blijven van kracht voor wat betreft de rechten en verplichtingen die op grond van die bepalingen voor het tijdstip van de inwerkingtreding van deze wet zijn ontstaan en die op dat tijdstip nog niet tot gelding zijn gebracht onderscheidenlijk waaraan op dat tijdstip nog niet is voldaan.
+De wettelijke bepalingen bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=35&z=2014-03-19&g=2014-03-19) blijven van kracht voor wat betreft de rechten en verplichtingen die op grond van die bepalingen voor het tijdstip van de inwerkingtreding van deze wet zijn ontstaan en die op dat tijdstip nog niet tot gelding zijn gebracht onderscheidenlijk waaraan op dat tijdstip nog niet is voldaan.
 
 ##### Artikel 37. Toepasselijkheid van deze wet
 
@@ -708,7 +708,7 @@ De met ingang van een datum voorafgaande aan het tijdstip van de inwerkingtredin
 
 ##### Artikel 38. Keuze-bepaling
 
-1. Met inachtneming van het volgende lid zullen de [artikelen 6 tot en met 14 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-01-06&g=2014-01-06) geen toepassing vinden en in de plaats daarvan zullen de daarmede overeenkomende artikelen van Ons besluit van 31 oktober 1952, **Stb.** 543, en van de Pensioenwet 1922, **Stb.** 240, alsmede artikel 68, vierde lid, van laatstgenoemde wet, zoals deze artikelen luidden op 31 augustus 1956, van overeenkomstige toepassing zijn ten aanzien van hem, die op 31 augustus 1956 het ambt van minister bekleedde en daartoe binnen zes maanden na het tijdstip, waarop hem ontslag wordt verleend, schriftelijk aan Onze Minister de wens te kennen geeft.
+1. Met inachtneming van het volgende lid zullen de [artikelen 6 tot en met 14 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-03-19&g=2014-03-19) geen toepassing vinden en in de plaats daarvan zullen de daarmede overeenkomende artikelen van Ons besluit van 31 oktober 1952, **Stb.** 543, en van de Pensioenwet 1922, **Stb.** 240, alsmede artikel 68, vierde lid, van laatstgenoemde wet, zoals deze artikelen luidden op 31 augustus 1956, van overeenkomstige toepassing zijn ten aanzien van hem, die op 31 augustus 1956 het ambt van minister bekleedde en daartoe binnen zes maanden na het tijdstip, waarop hem ontslag wordt verleend, schriftelijk aan Onze Minister de wens te kennen geeft.
 
 2. Ten aanzien van de belanghebbende, die de in het vorige lid bedoelde wens heeft kenbaar gemaakt, wordt met ingang van de dag waarop hem pensioen als gewezen minister wordt toegekend, over de tijd voorafgaand aan het ministerschap, die krachtens de Pensioenwet 1922, **Stb.** 240, zoals die wet op 31 december 1965 luidde, als diensttijd in aanmerking kwam, op de voet van de Algemene burgerlijke pensioenwet ten laste van het Algemeen burgerlijk pensioenfonds pensioen toegekend.
 
@@ -722,7 +722,7 @@ De met ingang van een datum voorafgaande aan het tijdstip van de inwerkingtredin
 
 2. Ten aanzien van uitkeringen die zijn toegekend ter zake van een ontslag voor het tijdstip van de inwerkingtreding van deze wet, blijft het bepaalde in artikel 3, eerste lid, en artikel 8, eerste lid, van de wet van 1 augustus 1956, **Stb.** 455, van kracht.
 
-3. Uitkeringen die zijn toegekend ter zake van een ontslag voor het tijdstip van de inwerkingtreding van deze wet, worden te rekenen van 1 januari 1969 of het latere tijdstip waarop de uitkering is ingegaan, overeenkomstig het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06) herzien.
+3. Uitkeringen die zijn toegekend ter zake van een ontslag voor het tijdstip van de inwerkingtreding van deze wet, worden te rekenen van 1 januari 1969 of het latere tijdstip waarop de uitkering is ingegaan, overeenkomstig het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19) herzien.
 
 ##### Artikel 40. Het bedrag van het eigen pensioen (behoort bij hoofdstuk 4)
 
@@ -732,17 +732,17 @@ Pensioenen toegekend ter zake van een ontslag verleend met een ingangsdatum gele
 
 1. Aan de weduwe wier weduwenpensioen wegens een volgend huwelijk is geëindigd op grond van artikel 22 van de wet van 1 augustus 1956, **Stb.** 455, of op grond van het vierde lid wordt op haar verzoek aan Onze Minister opnieuw weduwenpensioen toegekend indien dat huwelijk, anders dan door opvolgend huwelijk met rechterlijk verlof, wordt ontbonden.
 
-Indien haar ter zake van het latere huwelijk eveneens pensioen toekomt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06), wordt het opnieuw toe te kennen pensioen berekend met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) en [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06), tenzij toekenning van een dezer pensioenen, waarbij het recht op het andere pensioen vervalt, tot een hoger bedrag leidt. De vorige volzin vindt overeenkomstige toepassing, indien de weduwe ter zake van het latere huwelijk recht op bijzonder weduwenpensioen verkrijgt.
+Indien haar ter zake van het latere huwelijk eveneens pensioen toekomt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, als bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19), wordt het opnieuw toe te kennen pensioen berekend met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) en [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19), tenzij toekenning van een dezer pensioenen, waarbij het recht op het andere pensioen vervalt, tot een hoger bedrag leidt. De vorige volzin vindt overeenkomstige toepassing, indien de weduwe ter zake van het latere huwelijk recht op bijzonder weduwenpensioen verkrijgt.
 
-2. Bij toekenning aan de weduwe van weduwenpensioen ingevolge het vorige lid wordt het wezenpensioen van haar kinderen, als bedoeld in [artikel 25, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), nader vastgesteld overeenkomstig het bepaalde in dat artikel en met inachtneming van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-01-06&g=2014-01-06), indien [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) overeenkomstige toepassing vindt bij de berekening van het weduwenpensioen.
+2. Bij toekenning aan de weduwe van weduwenpensioen ingevolge het vorige lid wordt het wezenpensioen van haar kinderen, als bedoeld in [artikel 25, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), nader vastgesteld overeenkomstig het bepaalde in dat artikel en met inachtneming van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-03-19&g=2014-03-19), indien [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) overeenkomstige toepassing vindt bij de berekening van het weduwenpensioen.
 
 3. Het weduwenpensioen of de weduwenpensioenen en het nader vastgestelde wezenpensioen gaan in met de dag volgende op die van de ontbinding van het huwelijk. Herberekening van de pensioenen ingevolge de laatste volzin van het eerste lid geschiedt met ingang van de dag, waarop het bijzonder weduwenpensioen ingaat of zou ingaan.
 
-4. In afwijking van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) eindigt een ingevolge het eerste lid opnieuw toegekend weduwenpensioen, indien de weduwe hertrouwt met een man, met wie zij vóór 1 januari 1966 reeds gehuwd is geweest, met ingang van de maand volgende op die waarin zij hertrouwt.
+4. In afwijking van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) eindigt een ingevolge het eerste lid opnieuw toegekend weduwenpensioen, indien de weduwe hertrouwt met een man, met wie zij vóór 1 januari 1966 reeds gehuwd is geweest, met ingang van de maand volgende op die waarin zij hertrouwt.
 
 ##### Artikel 41a
 
-Indien krachtens [artikel U 31a van de Algemene burgerlijke pensioenwet](onbekend) of een in strekking met dat artikel overeenkomende bepaling in andere pensioenwetten recht op pensioen bestaat en voor het tijdstip van de inwerkingtreding van deze wet ter zake van een eerder huwelijk reeds recht op pensioen bestond krachtens de wet van 1 augustus 1956 (**Stb.** 455), wordt laatstbedoeld pensioen met ingang van de dag, waarop eerstbedoeld pensioen ingaat, nader vastgesteld met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) en [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-01-06&g=2014-01-06), en is voorts [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06), van toepassing.
+Indien krachtens [artikel U 31a van de Algemene burgerlijke pensioenwet](onbekend) of een in strekking met dat artikel overeenkomende bepaling in andere pensioenwetten recht op pensioen bestaat en voor het tijdstip van de inwerkingtreding van deze wet ter zake van een eerder huwelijk reeds recht op pensioen bestond krachtens de wet van 1 augustus 1956 (**Stb.** 455), wordt laatstbedoeld pensioen met ingang van de dag, waarop eerstbedoeld pensioen ingaat, nader vastgesteld met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) en [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-03-19&g=2014-03-19), en is voorts [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19), van toepassing.
 
 ##### Artikel 42
 
@@ -750,9 +750,9 @@ Aan de weduwe en wezen van de gewezen minister aan wie op grond van artikel 54 v
 
 ##### Artikel 43
 
-1. Op verzoek wordt weduwenpensioen of wezenpensioen toegekend aan de weduwe, die voor het tijdstip van de inwerkingtreding van deze wet niet dan wel op dat tijdstip niet meer is hertrouwd, onderscheidenlijk aan de kinderen, die recht op weduwenpensioen of wezenpensioen hadden gehad, indien [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=15&z=2014-01-06&g=2014-01-06) had gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
+1. Op verzoek wordt weduwenpensioen of wezenpensioen toegekend aan de weduwe, die voor het tijdstip van de inwerkingtreding van deze wet niet dan wel op dat tijdstip niet meer is hertrouwd, onderscheidenlijk aan de kinderen, die recht op weduwenpensioen of wezenpensioen hadden gehad, indien [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=15&z=2014-03-19&g=2014-03-19) had gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
 
-2. Indien voor het tijdstip van de inwerkingtreding van deze wet ter zake van een ander huwelijk reeds recht op pensioen bestond krachtens de wet van 1 augustus 1956 (**Stb.** 455), wordt het pensioen, waarop ter zake van het eerdere huwelijk krachtens de wet van 1 augustus 1956 **(Stb.** 455) recht bestond dan wel krachtens het vorige lid recht bestaat, met ingang van de dag, waarop het krachtens het vorige lid toe te kennen pensioen ingaat, nader vastgesteld dan wel vastgesteld met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-01-06&g=2014-01-06) en [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-01-06&g=2014-01-06), en is voorts [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06), van toepassing.
+2. Indien voor het tijdstip van de inwerkingtreding van deze wet ter zake van een ander huwelijk reeds recht op pensioen bestond krachtens de wet van 1 augustus 1956 (**Stb.** 455), wordt het pensioen, waarop ter zake van het eerdere huwelijk krachtens de wet van 1 augustus 1956 **(Stb.** 455) recht bestond dan wel krachtens het vorige lid recht bestaat, met ingang van de dag, waarop het krachtens het vorige lid toe te kennen pensioen ingaat, nader vastgesteld dan wel vastgesteld met overeenkomstige toepassing van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=24&z=2014-03-19&g=2014-03-19) en [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=26&z=2014-03-19&g=2014-03-19), en is voorts [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19), van toepassing.
 
 3. Het vorige lid is van overeenkomstige toepassing, indien ter zake van een ander huwelijk voor het tijdstip van de inwerkingtreding van deze wet reeds recht op pensioen bestond krachtens een andere regeling als bedoeld in artikel 20**a**, tweede lid, van de wet van 1 augustus 1956 (**Stb.** 455), dan wel recht op pensioen bestaat krachtens een in strekking met het eerste lid overeenkomende bepaling in andere pensioenwetten.
 
@@ -760,7 +760,7 @@ Aan de weduwe en wezen van de gewezen minister aan wie op grond van artikel 54 v
 
 5. Vervallen.
 
-6. De in het eerste lid bedoelde pensioenen gaan in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), is gedaan, zij niet vroeger ingaan dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
+6. De in het eerste lid bedoelde pensioenen gaan in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), is gedaan, zij niet vroeger ingaan dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
 
 ##### Artikel 44
 
@@ -768,31 +768,31 @@ Vervallen
 
 ##### Artikel 45
 
-1. Op verzoek wordt wezenpensioen toegekend aan het kind dat de leeftijd van eenentwintig jaren nog niet heeft bereikt en niet gehuwd is of gehuwd geweest is dat recht op zodanig pensioen had gehad, indien de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=19&z=2014-01-06&g=2014-01-06) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=20&z=2014-01-06&g=2014-01-06) hadden gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
+1. Op verzoek wordt wezenpensioen toegekend aan het kind dat de leeftijd van eenentwintig jaren nog niet heeft bereikt en niet gehuwd is of gehuwd geweest is dat recht op zodanig pensioen had gehad, indien de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=19&z=2014-03-19&g=2014-03-19) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=20&z=2014-03-19&g=2014-03-19) hadden gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
 
 2. Vervallen.
 
-3. Het in het eerste lid bedoelde pensioen gaat in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), is gedaan, het niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
+3. Het in het eerste lid bedoelde pensioen gaat in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), is gedaan, het niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
 
 ##### Artikel 46. De berekening van het weduwen- en wezenpensioen (behoort bij hoofdstuk 5, § 2)
 
-De pensioenen toegekend aan weduwen en wezen van ministers, gewezen ministers of gepensioneerde ministers worden, voor zover het recht op pensioen niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet herberekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06) onderscheidenlijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), met inachtneming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=27&z=2014-01-06&g=2014-01-06), indien dit voor de belanghebbende voordeliger is. Bij de herberekening worden onder een uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-01-06&g=2014-01-06) mede begrepen uitkeringen, toegekend aan gewezen ministers krachtens aan deze wet voorafgaande uitkeringsregelingen.
+De pensioenen toegekend aan weduwen en wezen van ministers, gewezen ministers of gepensioneerde ministers worden, voor zover het recht op pensioen niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet herberekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19) onderscheidenlijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), met inachtneming van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=27&z=2014-03-19&g=2014-03-19), indien dit voor de belanghebbende voordeliger is. Bij de herberekening worden onder een uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-03-19&g=2014-03-19) mede begrepen uitkeringen, toegekend aan gewezen ministers krachtens aan deze wet voorafgaande uitkeringsregelingen.
 
 ##### Artikel 47
 
-De weduwen- en wezenpensioenen toe te kennen uit hoofde van een overlijden op of na het tijdstip van de inwerkingtreding van deze wet van degenen, die zich krachtens artikel 50 van de wet van 1 augustus 1956, **Stb.** 455, hebben uitgesproken voor de berekening van hun pensioen krachtens het bepaalde in artikel 68, tweede lid, van de Pensioenwet 1922, **Stb.** 240, zoals dit artikel luidde op 31 augustus 1956, worden berekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06), onderscheidenlijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-01-06&g=2014-01-06), indien dit voor de belanghebbende voordeliger is.
+De weduwen- en wezenpensioenen toe te kennen uit hoofde van een overlijden op of na het tijdstip van de inwerkingtreding van deze wet van degenen, die zich krachtens artikel 50 van de wet van 1 augustus 1956, **Stb.** 455, hebben uitgesproken voor de berekening van hun pensioen krachtens het bepaalde in artikel 68, tweede lid, van de Pensioenwet 1922, **Stb.** 240, zoals dit artikel luidde op 31 augustus 1956, worden berekend overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19), onderscheidenlijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=25&z=2014-03-19&g=2014-03-19), indien dit voor de belanghebbende voordeliger is.
 
 ##### Artikel 48. Verval van pensioen (behoort bij hoofdstuk 6)
 
-Voor de termijn van vijf achtereenvolgende jaren bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=31&z=2014-01-06&g=2014-01-06), telt mede de tijd voor het tijdstip van de inwerkingtreding van deze wet, gedurende welke de invordering van het pensioen achterwege is gebleven.
+Voor de termijn van vijf achtereenvolgende jaren bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=31&z=2014-03-19&g=2014-03-19), telt mede de tijd voor het tijdstip van de inwerkingtreding van deze wet, gedurende welke de invordering van het pensioen achterwege is gebleven.
 
 ##### Artikel 49. Samenloop van pensioenen (behoort bij hoofdstuk 7)
 
 1. Pensioenen ten aanzien waarvan artikel 11 of 20**a** van de wet van 1 augustus 1956, **Stb.** 455, toepassing heeft gevonden, worden, onverminderd de artikelen 93 en 94 zoals deze luidden op het tijdstip van inwerkingtreding van deze wet en met inachtneming van het volgende lid, met ingang van het tijdstip van de inwerkingtreding van deze wet of het later tijdstip waarop zij zijn ingegaan, nader vastgesteld zonder de in eerstgenoemde artikelen vervatte beperking.
 
-2. De nadere vaststelling bedoeld in het vorige lid geschiedt zodanig, dat niet daadwerkelijk gelijktijdig vervulde diensttijd slechts wordt medegeteld bij de berekening van het pensioen waarbij die tijd het hoogste bedrag oplevert. Bij de toepassing van de vorige volzin wordt onder pensioen tevens verstaan een pensioen krachtens een andere regeling bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-01-06&g=2014-01-06).
+2. De nadere vaststelling bedoeld in het vorige lid geschiedt zodanig, dat niet daadwerkelijk gelijktijdig vervulde diensttijd slechts wordt medegeteld bij de berekening van het pensioen waarbij die tijd het hoogste bedrag oplevert. Bij de toepassing van de vorige volzin wordt onder pensioen tevens verstaan een pensioen krachtens een andere regeling bedoeld in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&artikel=34&z=2014-03-19&g=2014-03-19).
 
-3. De voorgaande leden vinden slechts toepassing, indien tengevolge daarvan de som van de pensioenen meer bedraagt dan deze zou hebben bedragen, indien de op de dag voor het tijdstip van de inwerkingtreding van deze wet van kracht geweest zijnde bepalingen van toepassing zouden zijn gebleven. Indien krachtens de voorgaande volzin geen nadere vaststelling der pensioenen plaatsvindt, is op het totaal der pensioenen [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) van toepassing.
+3. De voorgaande leden vinden slechts toepassing, indien tengevolge daarvan de som van de pensioenen meer bedraagt dan deze zou hebben bedragen, indien de op de dag voor het tijdstip van de inwerkingtreding van deze wet van kracht geweest zijnde bepalingen van toepassing zouden zijn gebleven. Indien krachtens de voorgaande volzin geen nadere vaststelling der pensioenen plaatsvindt, is op het totaal der pensioenen [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) van toepassing.
 
 ### afdeling Derde. Leden van de Tweede Kamer der Staten-Generaal
 
@@ -824,7 +824,7 @@ Voor de toepassing van het bij of krachtens deze afdeling bepaalde wordt verstaa
 
 - b. indien aan de belanghebbende rechtens zijn vrijheid is ontnomen.
 
-3. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
+3. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
 
 4. Een tijdelijk ontslag als bedoeld in [artikel X 10 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_10), wordt niet aangemerkt als aftreden als bedoeld in het eerste lid.
 
@@ -836,13 +836,13 @@ Voor de toepassing van het bij of krachtens deze afdeling bepaalde wordt verstaa
 
 3. Als de belanghebbende ten tijde van zijn aftreden negen jaar en zeven maanden of minder verwijderd is van de pensioengerechtigde leeftijd die is vastgesteld voor het kalenderjaar vijf jaren na het jaar van aftreden, en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren kamerlid is geweest, wordt de uitkering voortgezet tot hij zijn pensioengerechtigde leeftijd heeft bereikt.
 
-4. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende kamerlid is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.
+4. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende kamerlid is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder a en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.
 
 5. Voor de toepassing van dit artikel wordt onder kamerlid mede begrepen lid van het Europees Parlement, voorzover dat lidmaatschap niet gelijktijdig werd vervuld met het kamerlidmaatschap. Voor de vaststelling van de tijd gedurende welke de belanghebbende kamerlid is geweest, telt niet mee de tijd gedurende welke de schadeloosstelling als kamerlid niet werd genoten.
 
-6. In geval van tussentijds vervallen van de uitkering krachtens [artikel 56, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-01-06&g=2014-01-06), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
+6. In geval van tussentijds vervallen van de uitkering krachtens [artikel 56, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-03-19&g=2014-03-19), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
 
-7. In bijzondere gevallen kunnen Wij, de Raad van State gehoord, bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-01-06&g=2014-01-06) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
+7. In bijzondere gevallen kunnen Wij, de Raad van State gehoord, bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-03-19&g=2014-03-19) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
 
 ##### Artikel 52a
 
@@ -852,7 +852,7 @@ Vervallen
 
 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- a. een pensioen: een pensioen of een gedeelte van een pensioen voor zover berekend over tijd voor 1 januari 1986 dat is toegekend of geacht wordt te zijn toegekend krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) en [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet, met uitzondering van de overgangstoeslag bedoeld in artikel 4 van de derde afdeling van de Pensioenmaatregelen 1963;
+- a. een pensioen: een pensioen of een gedeelte van een pensioen voor zover berekend over tijd voor 1 januari 1986 dat is toegekend of geacht wordt te zijn toegekend krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) en [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet, met uitzondering van de overgangstoeslag bedoeld in artikel 4 van de derde afdeling van de Pensioenmaatregelen 1963;
 
 - b. een algemeen pensioen:
 
@@ -866,7 +866,7 @@ Vervallen
 
 2. Voor de toepassing van deze paragraaf wordt onder het algemeen pensioen van de belanghebbende die de pensioengerechtigde leeftijd heeft bereikt, mede begrepen het algemeen pensioen waarop zijn echtgenoot recht heeft, tenzij het echtpaar duurzaam gescheiden leeft. Voor de toepassing van de vorige volzin wordt mede als echtgenoot aangemerkt degene die voor de toepassing van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) als echtgenoot van de belanghebbende wordt aangemerkt.
 
-3. Voor de toepassing van dit hoofdstuk wordt een pensioen als bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-01-06&g=2014-01-06), dan wel enig ander pensioen als bedoeld in [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-01-06&g=2014-01-06), voorzover dit pensioen of gedeelte daarvan is berekend over tijd voor 1 januari 1986, in aanmerking genomen.
+3. Voor de toepassing van dit hoofdstuk wordt een pensioen als bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-03-19&g=2014-03-19), dan wel enig ander pensioen als bedoeld in [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-03-19&g=2014-03-19), voorzover dit pensioen of gedeelte daarvan is berekend over tijd voor 1 januari 1986, in aanmerking genomen.
 
 ##### Artikel 53. Bedrag van de uitkering
 
@@ -880,7 +880,7 @@ Vervallen
 
 ##### Artikel 53a
 
-1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-01-06&g=2014-01-06), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 53b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53b&z=2014-01-06&g=2014-01-06).
+1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=56&z=2014-03-19&g=2014-03-19), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 53b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53b&z=2014-03-19&g=2014-03-19).
 
 2. Algemeen invalide, geheel of gedeeltelijk, in de zin van deze wet is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekten of gebreken geheel of gedeeltelijk niet in staat is om met arbeid te verdienen hetgeen gezonde personen, met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan, met arbeid gewoonlijk verdienen. Onder de eerstgenoemde arbeid wordt verstaan alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is. Onder deze arbeid wordt niet begrepen arbeid op grond van een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2).
 
@@ -894,7 +894,7 @@ Vervallen
 
 1. De voortzetting van de uitkering vindt plaats als aangegeven in het tweede en derde lid en vervolgens als aangegeven in het vierde en het vijfde lid van dit artikel.
 
-2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06), bij een algemene invaliditeit van 80% of meer, 60% van die berekeningsgrondslag bij een algemene invaliditeit van 55% tot 80% en 40% van die berekeningsgrondslag bij een algemene invaliditeit van 25% tot 55%.
+2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19), bij een algemene invaliditeit van 80% of meer, 60% van die berekeningsgrondslag bij een algemene invaliditeit van 55% tot 80% en 40% van die berekeningsgrondslag bij een algemene invaliditeit van 25% tot 55%.
 
 3. De in het tweede lid bedoelde periode is ten hoogste voor de belanghebbende die op het tijdstip van voortzetting van de uitkering:
 
@@ -912,27 +912,27 @@ Vervallen
 
 jonger is dan 33 jaar: nihil.
 
-4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06), en het minimumloon.
+4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19), en het minimumloon.
 
 5. Voor de berekening van het in het vierde lid bedoelde bedrag geldt een percentage van 2 maal het aantal verstreken jaren tussen het 15e jaar en de leeftijd van de betrokkene op het tijdstip van voortzetting van de uitkering.
 
 6. Het minimumloon, bedoeld in het vierde lid, is het tot een jaarbedrag herleide minimumloon per maand, bedoeld in [artikel 8, eerste lid, onderdeel **a**, van de Wet mimimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) of, indien het een betrokkene jonger dan 23 jaar betreft, het tot een jaarbedrag herleide voor zijn leeftijd geldende minimumloon per maand, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), en [artikel 8, derde lid, van de genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), beide vermeerderd met de daarover berekende vakantietoeslag, bedoeld in [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15).
 
-7. De belanghebbende heeft recht op een aanvulling van de uitkering, indien die uitkering minder bedraagt dan het volgens het tweede lid vastgestelde percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06).
+7. De belanghebbende heeft recht op een aanvulling van de uitkering, indien die uitkering minder bedraagt dan het volgens het tweede lid vastgestelde percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19).
 
-8. De aanvulling is gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het zevende lid bedoelde percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06).
+8. De aanvulling is gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het zevende lid bedoelde percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19).
 
-9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06), indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-01-06&g=2014-01-06).
+9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de berekeningsgrondslag, eventueel verhoogd en aangepast volgens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19), indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-03-19&g=2014-03-19).
 
 10. Het in het negende lid bedoelde percentage bedraagt bij een algemene invaliditeit van 80% of meer 65%, bij een algemene invaliditeit van 55% tot 80%: 56% en bij een algemene invaliditeit van 25% tot 55%: 37%.
 
-11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-01-06&g=2014-01-06), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Onze Minister stelt regels met betrekking tot de wijze en het tijdstip waarop het lid van de Tweede Kamer der Staten-Generaal of het gewezen lid van de Tweede Kamer der Staten-Generaal de in het negende lid bedoelde keuze, die eenmalig is, kenbaar dient te maken.
+11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=106&z=2014-03-19&g=2014-03-19), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Onze Minister stelt regels met betrekking tot de wijze en het tijdstip waarop het lid van de Tweede Kamer der Staten-Generaal of het gewezen lid van de Tweede Kamer der Staten-Generaal de in het negende lid bedoelde keuze, die eenmalig is, kenbaar dient te maken.
 
-12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-01-06&g=2014-01-06), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
+12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-03-19&g=2014-03-19), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
 
 ##### Artikel 53c
 
-1. De voortzetting van de uitkering, bedoeld in [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
+1. De voortzetting van de uitkering, bedoeld in [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
 
 2. Onze Minister stelt de belanghebbende uiterlijk vier maanden voor het verstrijken van de in het eerste lid bedoelde termijn schriftelijk in kennis van de mogelijkheid tot het doen van een aanvraag tot voortzetting van de uitkering na afloop van die termijn.
 
@@ -948,7 +948,7 @@ jonger is dan 33 jaar: nihil.
 
 ##### Artikel 53d
 
-1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06) is voortgezet, doet Onze Minister een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
+1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19) is voortgezet, doet Onze Minister een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
 
 2. Onze Minister kan ten aanzien van bepaalde groepen algemeen invaliden bepalen dat geen termijn geldt dan wel een termijn zal gelden die afwijkt van de in het eerste lid genoemde termijn.
 
@@ -960,13 +960,13 @@ jonger is dan 33 jaar: nihil.
 
 - b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van de maand volgende op die waarin de beslissing tot wijziging is genomen.
 
-5. De toepassing van [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van Onze Minister zich te onderwerpen aan een onderzoek door een of meer door hem aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
+5. De toepassing van [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van Onze Minister zich te onderwerpen aan een onderzoek door een of meer door hem aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
 
-6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, is Onze Minister bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid als bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06).
+6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, is Onze Minister bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid als bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 53a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 53e
 
-1. Op verzoek van een kamerlid doet Onze Minister een onderzoek instellen door een of meer door hem aangewezen geneeskundigen, ter beantwoording van de vraag of het kamerlid dat het verzoek deed algemene invalide is als bedoeld in [artikel 53**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06).
+1. Op verzoek van een kamerlid doet Onze Minister een onderzoek instellen door een of meer door hem aangewezen geneeskundigen, ter beantwoording van de vraag of het kamerlid dat het verzoek deed algemene invalide is als bedoeld in [artikel 53**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19).
 
 2. Onze Minister brengt de uitkomst van een onderzoek dat is ingesteld ingevolge het eerste lid ter kennis van de verzoeker.
 
@@ -984,21 +984,21 @@ jonger is dan 33 jaar: nihil.
 
 Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsongeschiktheidsuitkering of een inkomensvoorziening krachtens de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
-3. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, het bedrag, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 52c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52c&z=2014-01-06&g=2014-01-06), opgelegde inhouding buiten beschouwing gelaten. Wanneer naast recht op een uitkering krachtens deze afdeling recht bestaat op een wachtgeld of uitkering krachtens een andere regeling, niet zijnde een uitkering krachtens de [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0003251), vindt het vorenstaande ten aanzien van bedoeld wachtgeld of uitkering geen toepassing, indien de uitkering krachtens deze afdeling elders voor verrekening met wachtgeld of uitkering in aanmerking komt.
+3. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, het bedrag, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 52c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52c&z=2014-03-19&g=2014-03-19), opgelegde inhouding buiten beschouwing gelaten. Wanneer naast recht op een uitkering krachtens deze afdeling recht bestaat op een wachtgeld of uitkering krachtens een andere regeling, niet zijnde een uitkering krachtens de [Wet schadeloosstelling, uitkering en pensioen leden Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0003251), vindt het vorenstaande ten aanzien van bedoeld wachtgeld of uitkering geen toepassing, indien de uitkering krachtens deze afdeling elders voor verrekening met wachtgeld of uitkering in aanmerking komt.
 
 4. Indien in het bedrag der inkomsten bedoeld in de vorige leden, is of geacht kan worden te zijn begrepen een vergoeding ter zake van de premie [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), blijft deze vergoeding voor de toepassing van dit artikel buiten beschouwing. De vorige volzin is slechts van toepassing voor zover de daar bedoelde inkomsten betrekking hebben op een tijdvak gelegen voor 1 juni 1985.
 
 5. Kinderbijslag wordt niet aangemerkt als inkomst.
 
-6. Voor de toepassing van dit artikel ten aanzien van de voortgezette uitkering bedoeld in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06), en [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06), kan Onze Minister andere inkomsten aanmerken als te zijn genoten wegens activiteiten bedoeld in het tweede lid.
+6. Voor de toepassing van dit artikel ten aanzien van de voortgezette uitkering bedoeld in [artikel 52, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19), en [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19), kan Onze Minister andere inkomsten aanmerken als te zijn genoten wegens activiteiten bedoeld in het tweede lid.
 
 ##### Artikel 54a
 
-1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-01-06&g=2014-01-06), terstond mededeling te doen aan Onze Minister, onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen door de belanghebbende met betrekking tot de activiteiten, bedoeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-01-06&g=2014-01-06).
+1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-03-19&g=2014-03-19), terstond mededeling te doen aan Onze Minister, onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen door de belanghebbende met betrekking tot de activiteiten, bedoeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-03-19&g=2014-03-19).
 
 2. Brengt de aard van de activiteiten of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het einde van de evenbedoelde termijn.
 
-Ten aanzien van deze verrekening is [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-01-06&g=2014-01-06) van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
+Ten aanzien van deze verrekening is [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-03-19&g=2014-03-19) van toepassing, met dien verstande, dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
 
 3. Onze Minister kan bij de vaststelling van het bedrag van de vermindering van de opgave van de belanghebbende afwijken.
 
@@ -1008,7 +1008,7 @@ Ten aanzien van deze verrekening is [artikel 54](https://wetten.overheid.nl/jci1
 
 1. De uitkering, berekend over een maand, wordt in maandelijkse termijnen betaald.
 
-2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54a&z=2014-01-06&g=2014-01-06).
+2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 56. Einde en verval van de uitkering
 
@@ -1020,9 +1020,9 @@ Ten aanzien van deze verrekening is [artikel 54](https://wetten.overheid.nl/jci1
 
 - b. met ingang van de dag waarop het gewezen kamerlid wederom als kamerlid optreedt dan wel lid wordt van het Europees Parlement;
 
-- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 51, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-01-06&g=2014-01-06). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
+- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 51, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-03-19&g=2014-03-19). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
 
-3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54a&z=2014-01-06&g=2014-01-06).
+3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 54a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 57. Uitkering bij overlijden
 
@@ -1036,7 +1036,7 @@ Ten aanzien van deze verrekening is [artikel 54](https://wetten.overheid.nl/jci1
 
 ##### Artikel 58. **Het recht op eigen pensioen**
 
-De [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-01-06&g=2014-01-06) zijn van overeenkomstige toepassing op het eigen pensioen van een kamerlid.
+De [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op het eigen pensioen van een kamerlid.
 
 ##### Artikel 58a. Bedrag van het eigen pensioen per jaar als kamerlid
 
@@ -1076,9 +1076,9 @@ Vervallen
 
 - b. bij overlijden van een gewezen kamerlid vóór het bereiken van de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- c. bij overlijden van een gepensioneerd kamerlid, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-01-06&g=2014-01-06).
+- c. bij overlijden van een gepensioneerd kamerlid, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-03-19&g=2014-03-19).
 
-3. Voor de toepassing van het tweede lid geldt niet als gewezen kamerlid het gewezen kamerlid met recht op uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-01-06&g=2014-01-06).
+3. Voor de toepassing van het tweede lid geldt niet als gewezen kamerlid het gewezen kamerlid met recht op uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 61
 
@@ -1102,7 +1102,7 @@ Vervallen
 
 - c. bij overlijden van een kamerlid of gewezen kamerlid voor de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- d. bij overlijden van een gepensioneerd kamerlid, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-01-06&g=2014-01-06).
+- d. bij overlijden van een gepensioneerd kamerlid, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 63
 
@@ -1110,11 +1110,11 @@ Na het overlijden van een kamerlid, gewezen kamerlid of gepensioneerd kamerlid h
 
 ##### Artikel 64
 
-Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn overlijden een onderhoudsplicht krachtens [artikel 394 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=394) dan wel [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) was opgelegd, dan wel door hem bij authentieke akte een dergelijke verplichting was erkend, hebben onder dezelfde voorwaarden als genoemd in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=63&z=2014-01-06&g=2014-01-06) recht op wezenpensioen.
+Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn overlijden een onderhoudsplicht krachtens [artikel 394 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=394) dan wel [artikel 394 van Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743&artikel=394) was opgelegd, dan wel door hem bij authentieke akte een dergelijke verplichting was erkend, hebben onder dezelfde voorwaarden als genoemd in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=63&z=2014-03-19&g=2014-03-19) recht op wezenpensioen.
 
 ##### Artikel 65
 
-1. Kinderen voor welke het kamerlid, gewezen kamerlid of gepensioneerde kamerlid ten tijde van zijn overlijden de pleegouderlijke zorg droeg, hebben onder dezelfde voorwaarden als genoemd in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=63&z=2014-01-06&g=2014-01-06), recht op wezenpensioen met dien verstande dat in plaats van het tijdstip van geboorte of adoptie het tijdstip van aanvang van de pleegouderlijke zorg in aanmerking wordt genomen.
+1. Kinderen voor welke het kamerlid, gewezen kamerlid of gepensioneerde kamerlid ten tijde van zijn overlijden de pleegouderlijke zorg droeg, hebben onder dezelfde voorwaarden als genoemd in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=63&z=2014-03-19&g=2014-03-19), recht op wezenpensioen met dien verstande dat in plaats van het tijdstip van geboorte of adoptie het tijdstip van aanvang van de pleegouderlijke zorg in aanmerking wordt genomen.
 
 2. Onder pleegouderlijke zorg bedoeld in het vorige lid wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind, als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor.
 
@@ -1128,7 +1128,7 @@ Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn ov
 
 ##### Artikel 67. Nabestaandenpensioen
 
-1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop het overleden kamerlid als zodanig aanspraak zou hebben gehad, indien hij met ingang van de dag na die van zijn overlijden was ontslagen, of waarop het overleden gewezen kamerlid als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 60, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-01-06&g=2014-01-06).
+1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop het overleden kamerlid als zodanig aanspraak zou hebben gehad, indien hij met ingang van de dag na die van zijn overlijden was ontslagen, of waarop het overleden gewezen kamerlid als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 60, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-03-19&g=2014-03-19).
 
 2. In afwijking van het vorige lid bedraagt het pensioen van de nabestaande van hem die overlijdt:
 
@@ -1136,19 +1136,19 @@ Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn ov
 
 - b. als gewezen kamerlid in de periode, waarover hem een uitkering is toegekend, vijf zevende gedeelte van het pensioen waarop het gewezen kamerlid aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de pensioengerechtigde leeftijd recht op uitkering zou hebben gehad, met dien verstande dat voor de berekening van het pensioen de kamerlidtijd wordt doorgeteld naar de mate van medetelling van kamerlidtijd op de dag van overlijden.
 
-3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) of [vijfde afdeling van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06), wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
+3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat zowel op nabestaandenpensioen krachtens deze afdeling als op een nabestaandenpensioen krachtens of op de voet van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) of [vijfde afdeling van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19), wordt voor de berekening van de eigen pensioenen waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
 4. Bij de toepassing van het eerste tot en met derde lid wordt ten aanzien van het eigen pensioen opgebouwd tussen 31 december 1985 en 1 januari 1995, gerekend met een bij of krachtens algemene maatregel van bestuur vastgestelde franchise.
 
 ##### Artikel 67a
 
-1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
 3. De nabestaande, bedoeld in het eerste lid, die jonger is dan 40 jaar, heeft recht op de in dat lid bedoelde toeslag voor de duur van 12 maanden.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999.
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999.
 
 5. Het recht op toeslag vervalt:
 
@@ -1158,17 +1158,17 @@ Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn ov
 
 ##### Artikel 67b
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.
 
 3. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld:
 
-- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999;
+- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999;
 
 - b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
-4. [Artikel 67a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67a&z=2014-01-06&g=2014-01-06), zijn mede van toepassing op de toeslag ingevolge dit artikel.
+4. [Artikel 67a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67a&z=2014-03-19&g=2014-03-19), zijn mede van toepassing op de toeslag ingevolge dit artikel.
 
 ##### Artikel 68. Bijzonder nabestaandenpensioen
 
@@ -1176,9 +1176,9 @@ Kinderen ten opzichte van welke aan een mannelijk kamerlid ten tijde van zijn ov
 
 - a. de berekeningsgrondslag waarnaar het pensioen van het kamerlid, gewezen kamerlid of gepensioneerd kamerlid zou zijn berekend indien deze op de dag van ontbinding van het huwelijk dan wel van het einde van de aanmelding als partner recht op pensioen zou hebben verkregen;
 
-- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 62, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-01-06&g=2014-01-06), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking wordt genomen.
+- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 62, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-03-19&g=2014-03-19), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking wordt genomen.
 
-2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 62, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-01-06&g=2014-01-06), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de kamerlidtijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
+2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 62, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-03-19&g=2014-03-19), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de kamerlidtijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
 
 3. Indien er bij een overlijden recht bestaat op een of meer bijzondere nabestaandenpensioenen wordt het nabestaandenpensioen dat aan hetzelfde overlijden wordt ontleend met het bedrag daarvan verminderd.
 
@@ -1192,31 +1192,31 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 - a. voor elk kind, wiens ouder aan het overlijden van het kamerlid, gewezen kamerlid of gepensioneerd kamerlid recht op pensioen ontleent, een zevende gedeelte;
 
-- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06).
+- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19).
 
-2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van diens overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=65&z=2014-01-06&g=2014-01-06).
+2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van diens overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=65&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 70a
 
 1. Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.
 
-2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
+2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
 
-- a. voor de wees, bedoeld in [artikel 70, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
+- a. voor de wees, bedoeld in [artikel 70, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
 
-- b. voor de wees bedoeld in [artikel 70, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), 0,75 percent van het onder a bedoelde jaarbedrag.
+- b. voor de wees bedoeld in [artikel 70, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), 0,75 percent van het onder a bedoelde jaarbedrag.
 
 3. Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan Onze Minister. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06).
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 71
 
-1. Onze Minister maakt een herberekening van het wezenpensioen overeenkomstig de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06) en [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70a&z=2014-01-06&g=2014-01-06), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
+1. Onze Minister maakt een herberekening van het wezenpensioen overeenkomstig de [artikelen 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19) en [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70a&z=2014-03-19&g=2014-03-19), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
 
-2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) wegens hertrouwen of een aanmelding opnieuw wordt vastgesteld, verhoogt Onze Minister het wezenpensioen bedoeld in [artikel 70, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-01-06&g=2014-01-06), vóór en na toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
+2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) wegens hertrouwen of een aanmelding opnieuw wordt vastgesteld, verhoogt Onze Minister het wezenpensioen bedoeld in [artikel 70, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-03-19&g=2014-03-19), vóór en na toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
 
-3. Voor de toepassing van dit artikel is [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), van overeenkomstige toepassing.
+3. Voor de toepassing van dit artikel is [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), van overeenkomstige toepassing.
 
 ##### Artikel 72. Beperking gezamenlijk bedrag wezenpensioenen
 
@@ -1224,25 +1224,25 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 2. Indien wegens toepassing van het eerste lid de wezenpensioenen worden verminderd, geschiedt deze vermindering in evenredigheid naar de omvang van die pensioenen.
 
-3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=73a&z=2014-01-06&g=2014-01-06), buiten beschouwing gelaten.
+3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 73a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=73a&z=2014-03-19&g=2014-03-19), buiten beschouwing gelaten.
 
 ##### Artikel 73. Toeslag op nabestaandenpensioen
 
 1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt, heeft tot de eerste dag van de maand waarin hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
 3. Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen wegens hertrouwen of een aanmelding opnieuw is vastgesteld.
 
-4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 73a. Toeslag op wezenpensioen
 
-1. De wees bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
+1. De wees bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
-3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat op dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 105, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat op dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 74. Tijdelijk pensioen
 
@@ -1256,7 +1256,7 @@ Het recht op pensioen vervalt indien gedurende vijf achtereenvolgende jaren iede
 
 ##### Artikel 76. Herstel van uitzicht of recht op pensioen
 
-Wij kunnen, de Raad van State gehoord, een door of als gevolg van de toepassing van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=13&artikel=75&z=2014-01-06&g=2014-01-06) vervallen recht of uitzicht op pensioen herstellen.
+Wij kunnen, de Raad van State gehoord, een door of als gevolg van de toepassing van [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=13&artikel=75&z=2014-03-19&g=2014-03-19) vervallen recht of uitzicht op pensioen herstellen.
 
 ### Hoofdstuk 13. Verval van pensioen
 
@@ -1278,7 +1278,7 @@ Vervallen
 
 1. Indien een wees die reeds recht op een wezenpensioen heeft, hetzij krachtens deze wet, hetzij krachtens een andere regeling, daarna eveneens recht op enig ander wezenpensioen verkrijgt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, wordt voor de berekening van de eigen pensioenen waarvan die wezenpensioenen zijn of geacht moeten worden te zijn afgeleid, samenlopende tijd slechts medegeteld bij de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
-2. [Artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing.
+2. [Artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
 
 ### Hoofdstuk 14. Samenloop van pensioenen
 
@@ -1288,11 +1288,11 @@ Vervallen
 
 2. De artikelen 3, 9, 17 en 18 van de wet van 31 juli 1957, **Stb.** 324, blijven van toepassing tot 1 januari 1969.
 
-3. Artikel 13, onder **a**, van de wet van 31 juli 1957, **Stb.** 324, blijft van toepassing tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), bedoelde tijdstip.
+3. Artikel 13, onder **a**, van de wet van 31 juli 1957, **Stb.** 324, blijft van toepassing tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), bedoelde tijdstip.
 
 ##### Artikel 81
 
-De wettelijke bepalingen bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=80&z=2014-01-06&g=2014-01-06) blijven van kracht voor wat betreft de rechten en verplichtingen die op grond van die bepalingen voor het tijdstip van de inwerkingtreding van deze wet zijn ontstaan en die op dat tijdstip nog niet tot gelding zijn gebracht onderscheidenlijk waaraan op dat tijdstip nog niet is voldaan.
+De wettelijke bepalingen bedoeld in [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=80&z=2014-03-19&g=2014-03-19) blijven van kracht voor wat betreft de rechten en verplichtingen die op grond van die bepalingen voor het tijdstip van de inwerkingtreding van deze wet zijn ontstaan en die op dat tijdstip nog niet tot gelding zijn gebracht onderscheidenlijk waaraan op dat tijdstip nog niet is voldaan.
 
 ##### Artikel 82. Toepasselijkheid van deze wet
 
@@ -1300,41 +1300,41 @@ De met ingang van een datum voorafgaande aan het tijdstip van de inwerkingtredin
 
 ##### Artikel 83. Keuze-bepaling
 
-De in de [hoofdstukken 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-01-06&g=2014-01-06) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-01-06&g=2014-01-06) van deze afdeling vervatte regelingen zullen geen toepassing vinden en in de plaats daarvan zullen de bepalingen omtrent het pensioen van afgetreden en aftredende kamerleden, zoals deze luidden op 31 augustus 1957, blijven gelden ten aanzien van hem, die op die datum het lidmaatschap van de Tweede Kamer der Staten-Generaal bekleedde en daartoe binnen drie maanden na het tijdstip, waarop hij is afgetreden, zonder onmiddellijk herkozen en toegelaten te zijn, schriftelijk aan Onze Minister de wens te kennen geeft.
+De in de [hoofdstukken 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-03-19&g=2014-03-19) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-03-19&g=2014-03-19) van deze afdeling vervatte regelingen zullen geen toepassing vinden en in de plaats daarvan zullen de bepalingen omtrent het pensioen van afgetreden en aftredende kamerleden, zoals deze luidden op 31 augustus 1957, blijven gelden ten aanzien van hem, die op die datum het lidmaatschap van de Tweede Kamer der Staten-Generaal bekleedde en daartoe binnen drie maanden na het tijdstip, waarop hij is afgetreden, zonder onmiddellijk herkozen en toegelaten te zijn, schriftelijk aan Onze Minister de wens te kennen geeft.
 
 ##### Artikel 84. Uitkering (behoort bij hoofdstuk 10)
 
 1. Ten aanzien van uitkeringen die zijn toegekend ter zake van een aftreden verleend met een ingangsdatum vóór 1 januari 1969, blijft het bepaalde in artikel 5 van de wet van 31 juli 1957, **Stb.** 324, van kracht.
 
-2. Op de in het vorige lid bedoelde uitkeringen is te rekenen van 1 januari 1969 af [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) van overeenkomstige toepassing.
+2. Op de in het vorige lid bedoelde uitkeringen is te rekenen van 1 januari 1969 af [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
 
-3. Uitkeringen die zijn toegekend ter zake van een aftreden voor het tijdstip van de inwerkingtreding van deze wet, worden te rekenen van 1 januari 1969 of het latere tijdstip waarop de uitkering is ingegaan, overeenkomstig de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06), genoemde percentages herzien.
+3. Uitkeringen die zijn toegekend ter zake van een aftreden voor het tijdstip van de inwerkingtreding van deze wet, worden te rekenen van 1 januari 1969 of het latere tijdstip waarop de uitkering is ingegaan, overeenkomstig de in [artikel 53, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19), genoemde percentages herzien.
 
 ##### Artikel 85. Het bedrag van het eigen pensioen (behoort bij hoofdstuk 11)
 
-Pensioenen toegekend of toe te kennen ter zake van een aftreden met een ingangsdatum gelegen vóór 1 januari 1969 worden afgeleid van de laatstelijk als kamerlid genoten schadeloosstelling aangepast naar de regelen vastgesteld bij de algemene maatregel van bestuur bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), met dien verstande, dat, indien het betreft een aftreden vóór 1 januari 1959 de schadeloosstelling wordt verminderd overeenkomstig artikel 4, eerste lid, onder **b**, van de wet van 17 juli 1923, **Stb.** 364, zoals dit artikel luidde tot 1 januari 1959.
+Pensioenen toegekend of toe te kennen ter zake van een aftreden met een ingangsdatum gelegen vóór 1 januari 1969 worden afgeleid van de laatstelijk als kamerlid genoten schadeloosstelling aangepast naar de regelen vastgesteld bij de algemene maatregel van bestuur bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), met dien verstande, dat, indien het betreft een aftreden vóór 1 januari 1959 de schadeloosstelling wordt verminderd overeenkomstig artikel 4, eerste lid, onder **b**, van de wet van 17 juli 1923, **Stb.** 364, zoals dit artikel luidde tot 1 januari 1959.
 
 ##### Artikel 86. Het recht op weduwen- en wezenpensioen (behoort bij hoofdstuk 12, § 1)
 
 1. Aan de weduwe wier weduwenpensioen wegens een volgend huwelijk is geëindigd op grond van artikel 22 van de wet van 31 juli 1957, **Stb.** 324, of op grond van het vierde lid wordt op haar verzoek aan Onze Minister opnieuw weduwenpensioen toegekend indien dat huwelijk, anders dan door opvolgend huwelijk met rechterlijk verlof, wordt ontbonden.
 
-Indien haar ter zake van het latere huwelijk eveneens pensioen toekomt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, als bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06), wordt het opnieuw toe te kennen pensioen berekend met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) en [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06), tenzij toekenning van een dezer pensioenen, waarbij het recht op het andere pensioen vervalt, tot een hoger bedrag leidt. De vorige volzin vindt overeenkomstige toepassing, indien de weduwe ter zake van het latere huwelijk recht op bijzonder weduwenpensioen verkrijgt.
+Indien haar ter zake van het latere huwelijk eveneens pensioen toekomt, hetzij krachtens deze wet, hetzij krachtens een andere regeling, als bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19), wordt het opnieuw toe te kennen pensioen berekend met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) en [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19), tenzij toekenning van een dezer pensioenen, waarbij het recht op het andere pensioen vervalt, tot een hoger bedrag leidt. De vorige volzin vindt overeenkomstige toepassing, indien de weduwe ter zake van het latere huwelijk recht op bijzonder weduwenpensioen verkrijgt.
 
-2. Bij toekenning aan de weduwe van weduwenpensioen ingevolge het vorige lid wordt het wezenpensioen van haar kinderen, als bedoeld in [artikel 70, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), nader vastgesteld overeenkomstig het bepaalde in dat artikel en met inachtneming van [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-01-06&g=2014-01-06), indien [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) overeenkomstige toepassing vindt bij de berekening van het weduwenpensioen.
+2. Bij toekenning aan de weduwe van weduwenpensioen ingevolge het vorige lid wordt het wezenpensioen van haar kinderen, als bedoeld in [artikel 70, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), nader vastgesteld overeenkomstig het bepaalde in dat artikel en met inachtneming van [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-03-19&g=2014-03-19), indien [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) overeenkomstige toepassing vindt bij de berekening van het weduwenpensioen.
 
 3. Het weduwenpensioen of de weduwenpensioenen en het nader vastgestelde wezenpensioen gaan in met de dag volgende op die van de ontbinding van het huwelijk. Herberekening van de pensioenen ingevolge de laatste volzin van het eerste lid geschiedt met ingang van de dag, waarop het bijzonder weduwenpensioen ingaat of zou ingaan.
 
-4. In afwijking van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) eindigt een ingevolge het eerste lid opnieuw toegekend weduwenpensioen, indien de weduwe hertrouwt met een man, met wie zij vóór 1 januari 1966 reeds gehuwd is geweest, met ingang van de maand volgende op die waarin zij hertrouwt.
+4. In afwijking van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) eindigt een ingevolge het eerste lid opnieuw toegekend weduwenpensioen, indien de weduwe hertrouwt met een man, met wie zij vóór 1 januari 1966 reeds gehuwd is geweest, met ingang van de maand volgende op die waarin zij hertrouwt.
 
 ##### Artikel 86a
 
-Indien krachtens [artikel U 31a van de Algemene burgerlijke pensioenwet](onbekend) of een in strekking met dat artikel overeenkomende bepaling in andere pensioenwetten recht op pensioen bestaat en voor het tijdstip van de inwerkingtreding van deze wet terzake van een eerder huwelijk reeds recht op pensioen bestond krachtens de wet van 31 juli 1957 (**Stb.** 324), wordt laatstbedoeld pensioen met ingang van de dag, waarop eerstbedoeld pensioen ingaat, nader vastgesteld met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) en [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-01-06&g=2014-01-06), en is voorts [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06), van toepassing.
+Indien krachtens [artikel U 31a van de Algemene burgerlijke pensioenwet](onbekend) of een in strekking met dat artikel overeenkomende bepaling in andere pensioenwetten recht op pensioen bestaat en voor het tijdstip van de inwerkingtreding van deze wet terzake van een eerder huwelijk reeds recht op pensioen bestond krachtens de wet van 31 juli 1957 (**Stb.** 324), wordt laatstbedoeld pensioen met ingang van de dag, waarop eerstbedoeld pensioen ingaat, nader vastgesteld met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) en [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-03-19&g=2014-03-19), en is voorts [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19), van toepassing.
 
 ##### Artikel 87
 
-1. Op verzoek wordt weduwenpensioen of wezenpensioen toegekend aan de weduwe, die voor het tijdstip van de inwerkingtreding van deze wet niet dan wel op dat tijdstip niet meer is hertrouwd, onderscheidenlijk aan de kinderen, die recht op weduwenpensioen of wezenpensioen hadden gehad, indien [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-01-06&g=2014-01-06) had gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
+1. Op verzoek wordt weduwenpensioen of wezenpensioen toegekend aan de weduwe, die voor het tijdstip van de inwerkingtreding van deze wet niet dan wel op dat tijdstip niet meer is hertrouwd, onderscheidenlijk aan de kinderen, die recht op weduwenpensioen of wezenpensioen hadden gehad, indien [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=60&z=2014-03-19&g=2014-03-19) had gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
 
-2. Indien voor het tijdstip van de inwerkingtreding van deze wet ter zake van een ander huwelijk reeds recht op pensioen bestond krachtens de wet van 31 juli 1957 (**Stb.** 324), wordt het pensioen, waarop ter zake van het eerdere huwelijk krachtens de wet van 31 juli 1957 (**Stb.** 324) recht bestond dan wel krachtens het vorige lid recht bestaat, met ingang van de dag, waarop het krachtens het vorige lid toe te kennen pensioen ingaat, nader vastgesteld dan wel vastgesteld met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-01-06&g=2014-01-06) en [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-01-06&g=2014-01-06), en is voorts [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06), van toepassing.
+2. Indien voor het tijdstip van de inwerkingtreding van deze wet ter zake van een ander huwelijk reeds recht op pensioen bestond krachtens de wet van 31 juli 1957 (**Stb.** 324), wordt het pensioen, waarop ter zake van het eerdere huwelijk krachtens de wet van 31 juli 1957 (**Stb.** 324) recht bestond dan wel krachtens het vorige lid recht bestaat, met ingang van de dag, waarop het krachtens het vorige lid toe te kennen pensioen ingaat, nader vastgesteld dan wel vastgesteld met overeenkomstige toepassing van [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=69&z=2014-03-19&g=2014-03-19) en [artikel 71, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=71&z=2014-03-19&g=2014-03-19), en is voorts [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19), van toepassing.
 
 3. Het vorige lid is van overeenkomstige toepassing, indien ter zake van een ander huwelijk voor het tijdstip van de inwerkingtreding van deze wet reeds recht op pensioen bestond krachtens een andere regeling als bedoeld in artikel 19, tweede lid, van de wet van 31 juli 1957 (**Stb.** 324), dan wel recht op pensioen bestaat krachtens een in strekking met het eerste lid overeenkomende bepaling in andere pensioenwetten.
 
@@ -1342,7 +1342,7 @@ Indien krachtens [artikel U 31a van de Algemene burgerlijke pensioenwet](onbeken
 
 5. Het verzoek bedoeld in het eerste lid moet bij Onze Minister worden ingediend binnen vijf jaren na het tijdstip van de inwerkingtreding van deze wet.
 
-6. De in het eerste lid bedoelde pensioenen gaan in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), is gedaan, zij niet vroeger ingaan dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
+6. De in het eerste lid bedoelde pensioenen gaan in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), is gedaan, zij niet vroeger ingaan dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
 
 ##### Artikel 88
 
@@ -1350,29 +1350,29 @@ Vervallen
 
 ##### Artikel 89
 
-1. Op verzoek wordt wezenpensioen toegekend aan het kind dat de leeftijd van eenentwintig jaren nog niet heeft bereikt en niet gehuwd is of gehuwd geweest is dat recht op zodanig pensioen had gehad, indien de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=64&z=2014-01-06&g=2014-01-06) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=65&z=2014-01-06&g=2014-01-06) hadden gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
+1. Op verzoek wordt wezenpensioen toegekend aan het kind dat de leeftijd van eenentwintig jaren nog niet heeft bereikt en niet gehuwd is of gehuwd geweest is dat recht op zodanig pensioen had gehad, indien de [artikelen 64](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=64&z=2014-03-19&g=2014-03-19) en [65](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=65&z=2014-03-19&g=2014-03-19) hadden gegolden op het tijdstip van het overlijden waaraan zij zodanig recht konden ontlenen.
 
 2. Vervallen.
 
-3. Het in het eerste lid bedoelde pensioen gaat in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), is gedaan, het niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
+3. Het in het eerste lid bedoelde pensioen gaat in op het tijdstip van de inwerkingtreding van deze wet met dien verstande dat, indien het verzoek meer dan een jaar na het tijdstip bedoeld in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), is gedaan, het niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
 
 ##### Artikel 90. De berekening van het weduwen- en wezenpensioen (behoort bij hoofdstuk 12, § 2)
 
-1. De pensioenen toegekend aan weduwen en wezen van kamerleden, gewezen kamerleden of gepensioneerde kamerleden worden, voor zover het recht op pensioen niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet herberekend, overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06), met inachtneming van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=72&z=2014-01-06&g=2014-01-06) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=73&z=2014-01-06&g=2014-01-06), indien dit voor belanghebbenden voordeliger is. Bij de herberekening worden onder een uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-01-06&g=2014-01-06) mede begrepen uitkeringen, toegekend krachtens de wet van 31 juli 1957, **Stb.** 324.
+1. De pensioenen toegekend aan weduwen en wezen van kamerleden, gewezen kamerleden of gepensioneerde kamerleden worden, voor zover het recht op pensioen niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet herberekend, overeenkomstig [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19) onderscheidenlijk [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19), met inachtneming van de [artikelen 72](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=72&z=2014-03-19&g=2014-03-19) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=73&z=2014-03-19&g=2014-03-19), indien dit voor belanghebbenden voordeliger is. Bij de herberekening worden onder een uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-03-19&g=2014-03-19) mede begrepen uitkeringen, toegekend krachtens de wet van 31 juli 1957, **Stb.** 324.
 
-2. Het bepaalde in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=85&z=2014-01-06&g=2014-01-06) is ten aanzien van toegekende of toe te kennen pensioenen aan weduwen en wezen van kamerleden, gewezen kamerleden of gepensioneerde kamerleden, die zijn afgetreden c.q. overleden vóór 1 januari 1969, van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=85&z=2014-03-19&g=2014-03-19) is ten aanzien van toegekende of toe te kennen pensioenen aan weduwen en wezen van kamerleden, gewezen kamerleden of gepensioneerde kamerleden, die zijn afgetreden c.q. overleden vóór 1 januari 1969, van overeenkomstige toepassing.
 
 ##### Artikel 91. Verval van pensioen (behoort bij hoofdstuk 13)
 
-Voor de termijn van vijf achtereenvolgende jaren bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=13&artikel=75&z=2014-01-06&g=2014-01-06), telt mede de tijd voor het tijdstip van de inwerkingtreding van deze wet, gedurende welke de invordering van het pensioen achterwege is gebleven.
+Voor de termijn van vijf achtereenvolgende jaren bedoeld in [artikel 75](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=13&artikel=75&z=2014-03-19&g=2014-03-19), telt mede de tijd voor het tijdstip van de inwerkingtreding van deze wet, gedurende welke de invordering van het pensioen achterwege is gebleven.
 
 ##### Artikel 92. Samenloop van pensioenen (behoort bij hoofdstuk 14)
 
-1. Pensioenen ten aanzien waarvan artikel 10 of 19 van de wet van 31 juli 1957, **Stb.** 324, toepassing heeft gevonden, worden, onverminderd de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-01-06&g=2014-01-06) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-01-06&g=2014-01-06) zoals deze luidden op het tijdstip van inwerkingtreding van deze wet en met inachtneming van het volgende lid, met ingang van het tijdstip van de inwerkingtreding van deze wet of het later tijdstip waarop zij zijn ingegaan, nader vastgesteld zonder de in eerstgenoemde artikelen vervatte beperking.
+1. Pensioenen ten aanzien waarvan artikel 10 of 19 van de wet van 31 juli 1957, **Stb.** 324, toepassing heeft gevonden, worden, onverminderd de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-03-19&g=2014-03-19) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-03-19&g=2014-03-19) zoals deze luidden op het tijdstip van inwerkingtreding van deze wet en met inachtneming van het volgende lid, met ingang van het tijdstip van de inwerkingtreding van deze wet of het later tijdstip waarop zij zijn ingegaan, nader vastgesteld zonder de in eerstgenoemde artikelen vervatte beperking.
 
-2. De nadere vaststelling bedoeld in het vorige lid geschiedt zodanig, dat niet daadwerkelijk gelijktijdig vervulde kamerlidtijd slechts wordt medegeteld bij de berekening van het pensioen waarbij die tijd het hoogste bedrag oplevert. Bij toepassing van de vorige volzin wordt onder pensioen tevens verstaan een pensioen krachtens een andere regeling als bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-01-06&g=2014-01-06).
+2. De nadere vaststelling bedoeld in het vorige lid geschiedt zodanig, dat niet daadwerkelijk gelijktijdig vervulde kamerlidtijd slechts wordt medegeteld bij de berekening van het pensioen waarbij die tijd het hoogste bedrag oplevert. Bij toepassing van de vorige volzin wordt onder pensioen tevens verstaan een pensioen krachtens een andere regeling als bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=14&artikel=79&z=2014-03-19&g=2014-03-19).
 
-3. De voorgaande leden vinden slechts toepassing, indien tengevolge daarvan de som van de pensioenen meer bedraagt dan deze zou hebben bedragen, indien de op de dag voor het tijdstip van de inwerkingtreding van deze wet van kracht geweest zijnde bepalingen van toepassing zouden zijn gebleven. Indien krachtens de voorgaande volzin geen nadere vaststelling der pensioenen plaatsvindt, is op het totaal der pensioenen [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) van toepassing.
+3. De voorgaande leden vinden slechts toepassing, indien tengevolge daarvan de som van de pensioenen meer bedraagt dan deze zou hebben bedragen, indien de op de dag voor het tijdstip van de inwerkingtreding van deze wet van kracht geweest zijnde bepalingen van toepassing zouden zijn gebleven. Indien krachtens de voorgaande volzin geen nadere vaststelling der pensioenen plaatsvindt, is op het totaal der pensioenen [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) van toepassing.
 
 ### afdeling Vierde. Gemeenschappelijke bepalingen ten aanzien van de pensioenen bedoeld in de tweede en derde afdeling
 
@@ -1428,7 +1428,7 @@ Het in de vorige volzin omschreven deel wordt inbouwbedrag genoemd.
 
 4. Ten aanzien van hem die op het tijdstip met ingang waarvan voor hem recht op algemeen pensioen ontstaat, reeds recht op pensioen heeft, vindt het vorige lid toepassing met ingang van de eerste dag van de maand waarin het recht op algemeen pensioen is ontstaan, of zo veel later als het pensioen is ingegaan.
 
-5. Op een nabestaandenpensioen, niet zijnde een pensioen als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-01-06&g=2014-01-06) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-01-06&g=2014-01-06), dat is afgeleid van een pensioen waarop, in verband met het recht op een algemeen pensioen voor gehuwden, het eerste lid van toepassing was, vindt dat lid niet eerder toepassing dan met ingang van de eerste dag van de maand, volgend op die waarin dat pensioen krachtens het bepaalde in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-01-06&g=2014-01-06), is geëindigd.
+5. Op een nabestaandenpensioen, niet zijnde een pensioen als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=1&artikel=17&z=2014-03-19&g=2014-03-19) of [62](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=1&artikel=62&z=2014-03-19&g=2014-03-19), dat is afgeleid van een pensioen waarop, in verband met het recht op een algemeen pensioen voor gehuwden, het eerste lid van toepassing was, vindt dat lid niet eerder toepassing dan met ingang van de eerste dag van de maand, volgend op die waarin dat pensioen krachtens het bepaalde in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-03-19&g=2014-03-19), is geëindigd.
 
 6. Het inbouwbedrag overschrijdt niet het bedrag van het algemeen pensioen, dat geacht kan worden betrekking te hebben op het tijdvak, liggende tussen de aanvang en het einde van de diensttijd waarnaar het pensioen is of geacht wordt te zijn berekend.
 
@@ -1440,11 +1440,11 @@ Het in de vorige volzin omschreven deel wordt inbouwbedrag genoemd.
 
 ##### Artikel 99. Algemeen pensioen en diensttijd
 
-Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-01-06&g=2014-01-06) geldt het volgende:
+Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-03-19&g=2014-03-19) geldt het volgende:
 
 - a. Het algemeen pensioen wordt geacht betrekking te hebben op het tijdvak liggende tussen de tijdstippen waarop belanghebbende de aanvangsleeftijd en de pensioengerechtigde leeftijd, bedoeld in [artikel 1 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) heeft bereikt met dien verstande dat, indien een belanghebbende recht heeft op nabestaanden- of wezenpensioen, het vorenstaande overeenkomstige toepassing vindt in verband met degene aan wiens overlijden het recht op pensioen wordt ontleend.
 
-- b. Het recht op een algemeen pensioen, dat bestond op de dag waarop de rechthebbende is overleden of sedert welke hij is vermist, wordt geacht voort te duren tot het tijdstip waarop diens pensioen krachtens het bepaalde in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-01-06&g=2014-01-06), is geëindigd.
+- b. Het recht op een algemeen pensioen, dat bestond op de dag waarop de rechthebbende is overleden of sedert welke hij is vermist, wordt geacht voort te duren tot het tijdstip waarop diens pensioen krachtens het bepaalde in [artikel 115, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-03-19&g=2014-03-19), is geëindigd.
 
 - c. Indien een nabestaande recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14), maar geen van de kinderen aan welke de nabestaande het recht op die nabestaandenuitkering ontleent recht heeft op pensioen, wordt uitsluitend uitgegaan van het bedrag van de nabestaandenuitkering, bedoeld in [artikel 17, eerste lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17).
 
@@ -1452,7 +1452,7 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 - e. Als diensttijd wordt uitsluitend in aanmerking genomen de diensttijd, gelegen tussen de tijdstippen, waarop de aanvangsleeftijd en de pensioengerechtigde leeftijd, bedoeld in [artikel 1 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) is bereikt.
 
-- f. De diensttijd, waarnaar een pensioen is berekend op grond van artikel 68, tweede lid, van de Pensioenwet 1922, **Stb.** 240, zoals dit artikel luidde op 31 augustus 1956, van hem die na het tijdstip van de inwerkingtreding van deze wet de wens te kennen geeft als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=38&z=2014-01-06&g=2014-01-06), wordt tot een maximum van 2,4 jaar vermenigvuldigd met 4,76.
+- f. De diensttijd, waarnaar een pensioen is berekend op grond van artikel 68, tweede lid, van de Pensioenwet 1922, **Stb.** 240, zoals dit artikel luidde op 31 augustus 1956, van hem die na het tijdstip van de inwerkingtreding van deze wet de wens te kennen geeft als bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=38&z=2014-03-19&g=2014-03-19), wordt tot een maximum van 2,4 jaar vermenigvuldigd met 4,76.
 
 - g. Een pensioen dat niet is berekend naar diensttijd wordt geacht te zijn berekend naar een diensttijd van 40 jaren.
 
@@ -1464,7 +1464,7 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 ##### Artikel 100. Gehuwde vrouw met recht op pensioen
 
-Indien de belanghebbende een gehuwde vrouw is, wordt voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-01-06&g=2014-01-06) uitgegaan van het algemeen pensioen voor een ongehuwde pensioengerechtigde.
+Indien de belanghebbende een gehuwde vrouw is, wordt voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-03-19&g=2014-03-19) uitgegaan van het algemeen pensioen voor een ongehuwde pensioengerechtigde.
 
 ##### Artikel 101. Vermindering inbouwbedragen bij samenvallende diensttijd
 
@@ -1480,11 +1480,11 @@ Het bepaalde in de vorige volzin geldt met dien verstande, dat indien het betref
 
 5. Onder een pensioen krachtens een andere regeling als bedoeld in het vorige lid wordt verstaan een pensioen ten laste van de Nederlandse schatkist - anders dan ingevolge wettelijke garanties of ingevolge overneming van de verplichting tot betaling -, ten laste van Aruba, van Curaçao, van Sint Maarten, van de openbare lichamen Bonaire, Sint Eustatius of Saba, van een publiekrechtelijk lichaam in Nederland of in evengenoemde landen, dan wel ten laste van een door het openbaar gezag in Nederland, in die landen of in die openbare lichamen ingesteld fonds.
 
-6. Op verzoek van de belanghebbende wordt dit artikel overeenkomstig toegepast, indien aan diens echtgenoot een of meer pensioenen zijn of geacht worden te zijn toegekend, hetzij krachtens deze wet, hetzij krachtens een andere regeling als bedoeld in het vijfde lid. [Artikel 102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-01-06&g=2014-01-06), is daarbij van overeenkomstige toepassing.
+6. Op verzoek van de belanghebbende wordt dit artikel overeenkomstig toegepast, indien aan diens echtgenoot een of meer pensioenen zijn of geacht worden te zijn toegekend, hetzij krachtens deze wet, hetzij krachtens een andere regeling als bedoeld in het vijfde lid. [Artikel 102, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-03-19&g=2014-03-19), is daarbij van overeenkomstige toepassing.
 
 ##### Artikel 102. Vermindering inbouwbedragen bij korting op particulier pensioen
 
-1. Op verzoek van degene die aantoont, dat uit hoofde van zijn recht op algemeen pensioen een vermindering plaatsvindt van enig ander pensioen dan bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-01-06&g=2014-01-06), wordt het bedrag van die vermindering voor zoveel mogelijk in mindering gebracht op het inbouwbedrag. De vorige volzin is slechts van toepassing voor zover bedoelde vermindering betrekking heeft op tijd die gelijktijdig in de desbetreffende betrekkingen is of geacht kan worden te zijn vervuld. Aan diensttijd die niet daadwerkelijk in dienstverhouding of als politiek ambtsdrager is doorgebracht wordt een plaats toegekend overeenkomstig het bepaalde bij [artikel 99, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=99&z=2014-01-06&g=2014-01-06).
+1. Op verzoek van degene die aantoont, dat uit hoofde van zijn recht op algemeen pensioen een vermindering plaatsvindt van enig ander pensioen dan bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-03-19&g=2014-03-19), wordt het bedrag van die vermindering voor zoveel mogelijk in mindering gebracht op het inbouwbedrag. De vorige volzin is slechts van toepassing voor zover bedoelde vermindering betrekking heeft op tijd die gelijktijdig in de desbetreffende betrekkingen is of geacht kan worden te zijn vervuld. Aan diensttijd die niet daadwerkelijk in dienstverhouding of als politiek ambtsdrager is doorgebracht wordt een plaats toegekend overeenkomstig het bepaalde bij [artikel 99, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=99&z=2014-03-19&g=2014-03-19).
 
 2. De vermindering van het inbouwbedrag bedoeld in het vorige lid gaat in met de dag waarop de in dat lid bedoelde omstandigheid is opgetreden, met dien verstande dat deze niet vroeger ingaat dan een jaar voor de eerste dag van de maand waarin het desbetreffende verzoek werd ingediend.
 
@@ -1492,7 +1492,7 @@ Het bepaalde in de vorige volzin geldt met dien verstande, dat indien het betref
 
 4. Indien de som van het inbouwbedrag en de vermindering van het andere pensioen, ook na toepassing van de overige bepalingen van dit artikel, een bedrag gelijk aan 80 percent van het algemeen pensioen overschrijdt, wordt van deze overschrijding een deel in mindering gebracht op het inbouwbedrag, en wel in de verhouding waarin de diensttijd waarnaar het pensioen, waarop vorenbedoeld inbouwbedrag betrekking heeft, is of wordt geacht te zijn berekend, staat tot het totaal van de diensttijden.
 
-5. Dit artikel is van overeenkomstige toepassing, indien een vermindering plaats vindt van enig ander pensioen dan bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-01-06&g=2014-01-06), toegekend aan de echtgenoot van belanghebbende.
+5. Dit artikel is van overeenkomstige toepassing, indien een vermindering plaats vindt van enig ander pensioen dan bedoeld in [artikel 101, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=101&z=2014-03-19&g=2014-03-19), toegekend aan de echtgenoot van belanghebbende.
 
 ##### Artikel 103. Verrekening
 
@@ -1508,7 +1508,7 @@ De bepalingen van dit hoofdstuk blijven buiten toepassing ten aanzien van degene
 
 ##### Artikel 105
 
-1. Een pensioen op grond van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) of de [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet, daaronder niet begrepen de inbouw- en franchisebedragen, wordt telkens aangepast overeenkomstig een aanpassing aan een algemene bezoldigingswijziging, van een pensioen van een gepensioneerde overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) die werkzaam is geweest in de sector Rijk.
+1. Een pensioen op grond van de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) of de [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet, daaronder niet begrepen de inbouw- en franchisebedragen, wordt telkens aangepast overeenkomstig een aanpassing aan een algemene bezoldigingswijziging, van een pensioen van een gepensioneerde overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) die werkzaam is geweest in de sector Rijk.
 
 2. Indien aan een gepensioneerde overheidswerknemer, als bedoeld in het eerste lid, een eenmalige uitkering wordt toegekend, wordt aan degene die recht heeft op een pensioen, als bedoeld in dat lid, overeenkomstig een eenmalige uitkering toegekend.
 
@@ -1520,7 +1520,7 @@ De bepalingen van dit hoofdstuk blijven buiten toepassing ten aanzien van degene
 
 2. Op de uitkering van de gewezen minister of het gewezen kamerlid worden, volgens bij of krachtens algemene maatregel van bestuur te stellen regelen, bedragen ingehouden overeenkomstig de inhouding van bedragen, terzake van aanspraken als bedoeld in het eerste lid, op een werkloosheids- of arbeidsongeschiktheidsuitkering op grond van een voor overheidspersoneel getroffen regeling.
 
-3. Geen inhouding van bedragen ter zake van aanspraken bij ouderdom en overlijden vindt plaats voor zover tijd niet meetelt als pensioendiensttijd en op uitkeringen bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06) en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06), alsmede op een uitkering gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
+3. Geen inhouding van bedragen ter zake van aanspraken bij ouderdom en overlijden vindt plaats voor zover tijd niet meetelt als pensioendiensttijd en op uitkeringen bedoeld in de [artikelen 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19) en [53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19), alsmede op een uitkering gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
 
 ##### Artikel 107
 
@@ -1538,7 +1538,7 @@ De bepalingen van dit hoofdstuk blijven buiten toepassing ten aanzien van degene
 
 1. Op aanvraag van een minister of een kamerlid is het Rijk verplicht om de waarde van door betrokkene opgebouwde pensioenaanspraken aan te wenden ter verwerving van pensioenaanspraken op grond van de tweede respectievelijk derde afdeling van deze wet. Deze waardeoverdracht geschiedt overeenkomstig de voorwaarden die in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) aan een ontvangende pensioenuitvoerder worden gesteld met betrekking tot de waardeoverdracht van opgebouwde pensioenaanspraken.
 
-2. De overgedragen pensioenaanspraken worden beschouwd als aanspraken krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06), respectievelijk [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet en behandeld als een geheel met de aanspraken die de minister of het kamerlid verkrijgt krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) respectievelijk [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet.
+2. De overgedragen pensioenaanspraken worden beschouwd als aanspraken krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19), respectievelijk [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet en behandeld als een geheel met de aanspraken die de minister of het kamerlid verkrijgt krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) respectievelijk [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet.
 
 3. De bij of krachtens [artikel 71 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71) gestelde regels zijn van overeenkomstige toepassing op de waardeoverdracht.
 
@@ -1572,7 +1572,7 @@ Het eigen pensioen gaat in met de dag waarop het recht daarop ontstaat, met dien
 
 ##### Artikel 113. Ingang nabestaanden- en wezenpensioen en tijdelijk pensioen
 
-1. Het nabestaanden- en wezenpensioen gaat in met de dag volgende op die van het overlijden van hem aan wie het wordt ontleend, met dien verstande dat [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=112&z=2014-01-06&g=2014-01-06) van overeenkomstige toepassing is.
+1. Het nabestaanden- en wezenpensioen gaat in met de dag volgende op die van het overlijden van hem aan wie het wordt ontleend, met dien verstande dat [artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=112&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing is.
 
 2. Het tijdelijk pensioen gaat in met een door Onze Minister te bepalen dag.
 
@@ -1586,7 +1586,7 @@ Wanneer een vervallen recht op pensioen geheel of gedeeltelijk wordt hersteld ga
 
 2. Het tijdelijk pensioen eindigt wanneer de vermiste in leven blijkt te zijn, met een door Onze Minister te bepalen dag.
 
-3. Een pensioen waarop het recht krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=29&z=2014-01-06&g=2014-01-06) vervallen is verklaard, eindigt met het einde van de maand waarin de beslissing inzake het vervallen verklaren is genomen.
+3. Een pensioen waarop het recht krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=6&artikel=29&z=2014-03-19&g=2014-03-19) vervallen is verklaard, eindigt met het einde van de maand waarin de beslissing inzake het vervallen verklaren is genomen.
 
 4. Het wezenpensioen eindigt voorts met het einde van de maand waarin:
 
@@ -1600,13 +1600,13 @@ Wanneer een vervallen recht op pensioen geheel of gedeeltelijk wordt hersteld ga
 
 2. Indien de overleden gepensioneerde geen betrekkingen als bedoeld in het vorige lid nalaat, kan het daarbedoelde bedrag door Onze Minister geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien de nalatenschap van de overledene voor de betaling van die kosten ontoereikend is.
 
-3. Voor de toepassing van dit artikel wordt onder pensioen verstaan het bedrag waarop de overledene recht had, eventueel na toepassing van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06).
+3. Voor de toepassing van dit artikel wordt onder pensioen verstaan het bedrag waarop de overledene recht had, eventueel na toepassing van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 117. Terugvordering
 
-1. Indien meer pensioen is betaald dan overeenstemt met [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-01-06&g=2014-01-06), wordt het te veel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met een uitkering krachtens [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-01-06&g=2014-01-06).
+1. Indien meer pensioen is betaald dan overeenstemt met [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-03-19&g=2014-03-19), wordt het te veel betaalde teruggevorderd voor zover verrekening daarvan kan plaatsvinden met een uitkering krachtens [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-03-19&g=2014-03-19).
 
-2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-01-06&g=2014-01-06), is betaald worden teruggevorderd.
+2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen en aan uitkering, bedoeld in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-03-19&g=2014-03-19), is betaald worden teruggevorderd.
 
 #### § 4. Betaling van de pensioenen
 
@@ -1634,7 +1634,7 @@ Wanneer een vervallen recht op pensioen geheel of gedeeltelijk wordt hersteld ga
 
 ##### Artikel 121. Beroep
 
-De besluiten ter uitvoering van deze wet, met uitzondering van de [Vijfde Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06), worden genomen door Onze Minister.
+De besluiten ter uitvoering van deze wet, met uitzondering van de [Vijfde Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19), worden genomen door Onze Minister.
 
 ##### Artikel 122. Herziening, wijziging en herstel
 
@@ -1646,7 +1646,7 @@ De besluiten ter uitvoering van deze wet, met uitzondering van de [Vijfde Afdeli
 
 2. Indien na een beslissing van Onze Minister de feiten waarmede in die beslissing rekening is gehouden zodanig zijn gewijzigd, dat deze beslissing anders zou luiden als zij nog genomen zou moeten worden, wijzigt Onze Minister de beslissing, rekening houdend met de gewijzigde feiten.
 
-3. Onze Minister herstelt een door hem genomen beslissing omtrent toekenning - inbegrepen aanpassing overeenkomstig [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) -, herziening, wijziging of betaalbaarstelling van een pensioen, indien daarin een onjuistheid, anders dan bedoeld in de vorige leden, voorkomt.
+3. Onze Minister herstelt een door hem genomen beslissing omtrent toekenning - inbegrepen aanpassing overeenkomstig [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) -, herziening, wijziging of betaalbaarstelling van een pensioen, indien daarin een onjuistheid, anders dan bedoeld in de vorige leden, voorkomt.
 
 4. Indien vijf jaren zijn verstreken na de dagtekening van een overeenkomstig de vorige leden voor herziening, wijziging of herstel vatbare beslissing, kan Onze Minister die leden buiten toepassing laten.
 
@@ -1658,35 +1658,35 @@ De besluiten ter uitvoering van deze wet, met uitzondering van de [Vijfde Afdeli
 
 3. Een wijzigingsbeslissing leidt slechts tot terugvordering of verrekening van reeds betaalde bedragen indien de betrokkene, hoewel enige bepaling van deze wet hem daartoe verplicht of dit redelijkerwijs van hem mocht worden verwacht, heeft nagelaten aan Onze Minister mededeling te doen van een wijziging in de feiten.
 
-4. In afwijking van de vorige twee leden en onverminderd [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=117&z=2014-01-06&g=2014-01-06) is Onze Minister bevoegd tot terugvordering of verrekening van te veel betaalde bedragen, indien de herzieningsbeslissing, onderscheidenlijk de wijzigingsbeslissing is genomen binnen vier maanden na de dagtekening van de herziene beslissing, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten.
+4. In afwijking van de vorige twee leden en onverminderd [artikel 117](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=117&z=2014-03-19&g=2014-03-19) is Onze Minister bevoegd tot terugvordering of verrekening van te veel betaalde bedragen, indien de herzieningsbeslissing, onderscheidenlijk de wijzigingsbeslissing is genomen binnen vier maanden na de dagtekening van de herziene beslissing, onderscheidenlijk binnen vier maanden nadat Onze Minister bericht heeft ontvangen van wijziging in de feiten.
 
-5. Herstel van een beslissing, als bedoeld in [artikel 122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-01-06&g=2014-01-06), binnen vier maanden na de dagtekening van de herstelde beslissing, leidt tot terugvordering of verrekening van te veel betaalde pensioenbedragen. Herstel van een beslissing, als bedoeld in de vorige volzin, na de daargenoemde termijn, leidt slechts tot terugvordering of verrekening van te veel betaalde pensioenbedragen, indien de betrokkene redelijkerwijze had moeten begrijpen, dat hem te veel werd uitbetaald.
+5. Herstel van een beslissing, als bedoeld in [artikel 122, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-03-19&g=2014-03-19), binnen vier maanden na de dagtekening van de herstelde beslissing, leidt tot terugvordering of verrekening van te veel betaalde pensioenbedragen. Herstel van een beslissing, als bedoeld in de vorige volzin, na de daargenoemde termijn, leidt slechts tot terugvordering of verrekening van te veel betaalde pensioenbedragen, indien de betrokkene redelijkerwijze had moeten begrijpen, dat hem te veel werd uitbetaald.
 
 ### Hoofdstuk 18. Bepalingen van administratieve aard
 
 ##### Artikel 124. Samenloop van pensioenen bedoeld in de tweede en derde afdeling en samenloop van een of meer van die pensioenen met een pensioen krachtens een andere regeling (behoort bij hoofdstuk 16)
 
-1. De [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-01-06&g=2014-01-06) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-01-06&g=2014-01-06) vinden tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-01-06&g=2014-01-06), bedoelde tijdstip geen toepassing in gevallen waarin die toepassing zou leiden tot terugvordering van reeds betaalde pensioenbedragen.
+1. De [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-03-19&g=2014-03-19) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-03-19&g=2014-03-19) vinden tot het in [artikel 167, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Zesde&hoofdstuk=30&artikel=167&z=2014-03-19&g=2014-03-19), bedoelde tijdstip geen toepassing in gevallen waarin die toepassing zou leiden tot terugvordering van reeds betaalde pensioenbedragen.
 
 2. Ten aanzien van de in het vorige lid bedoelde pensioenen blijven tot het daar bedoelde tijdstip de artikelen 11 en 20**a** van de wet van 1 augustus 1956, **Stb.** 455, en de artikelen 10 en 19 van de wet van 31 juli 1957, **Stb.** 324, van toepassing.
 
-3. Met ingang van het in het eerste lid bedoelde tijdstip worden de daar bedoelde pensioenen herberekend met inachtneming van de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-01-06&g=2014-01-06) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-01-06&g=2014-01-06) en wordt een toelage toegekend ten bedrage van het verschil tussen het bedrag van het toegekende pensioen en het bedrag van het herberekende pensioen. Op deze toelage, die voor de toepassing van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=119&z=2014-01-06&g=2014-01-06) en van de [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=118&z=2014-01-06&g=2014-01-06) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=119&z=2014-01-06&g=2014-01-06) als pensioen wordt aangemerkt, worden verhogingen van die pensioenen na het in de vorige volzin bedoelde tijdstip in mindering gebracht.
+3. Met ingang van het in het eerste lid bedoelde tijdstip worden de daar bedoelde pensioenen herberekend met inachtneming van de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=93&z=2014-03-19&g=2014-03-19) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=16&artikel=94&z=2014-03-19&g=2014-03-19) en wordt een toelage toegekend ten bedrage van het verschil tussen het bedrag van het toegekende pensioen en het bedrag van het herberekende pensioen. Op deze toelage, die voor de toepassing van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=119&z=2014-03-19&g=2014-03-19) en van de [artikelen 118](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=118&z=2014-03-19&g=2014-03-19) en [119](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=119&z=2014-03-19&g=2014-03-19) als pensioen wordt aangemerkt, worden verhogingen van die pensioenen na het in de vorige volzin bedoelde tijdstip in mindering gebracht.
 
 ##### Artikel 125. Samenloop van pensioen en algemeen pensioen (behoort bij hoofdstuk 17)
 
-In afwijking in zoverre van het bepaalde in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-01-06&g=2014-01-06) en onverminderd het bepaalde in [artikel 99, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=99&z=2014-01-06&g=2014-01-06), vindt voor de berekening van het inbouwbedrag geen vermenigvuldiging plaats van tijd, gelegen voor het tijdstip van de inwerkingtreding van deze wet die voor de berekening van een pensioen als daarbedoeld in aanmerking wordt genomen.
+In afwijking in zoverre van het bepaalde in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-03-19&g=2014-03-19) en onverminderd het bepaalde in [artikel 99, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=99&z=2014-03-19&g=2014-03-19), vindt voor de berekening van het inbouwbedrag geen vermenigvuldiging plaats van tijd, gelegen voor het tijdstip van de inwerkingtreding van deze wet die voor de berekening van een pensioen als daarbedoeld in aanmerking wordt genomen.
 
 ##### Artikel 126
 
 1. Voor de toepassing van deze wet wordt de overgangstoeslag toegekend krachtens artikel 4 van de derde afdeling van de Pensioenmaatregelen 1963, geacht krachtens deze wet te zijn toegekend.
 
-2. Met ingang van de dag waarop voor belanghebbende na de dag voorafgaand aan die van de inwerkingtreding van de Pensioenmaatregelen 1963, recht op een lager bedrag aan algemeen pensioen, als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=95&z=2014-01-06&g=2014-01-06) ontstaat, of het recht op evenbedoeld algemeen pensioen vervalt dan wel recht op een hoger pensioen anders dan krachtens [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) ontstaat, vervalt de overgangstoeslag of wordt deze op zodanig lager bedrag vastgesteld, alsof de omstandigheid die tot wijziging luidde reeds op laatstbedoelde dag aanwezig was geweest.
+2. Met ingang van de dag waarop voor belanghebbende na de dag voorafgaand aan die van de inwerkingtreding van de Pensioenmaatregelen 1963, recht op een lager bedrag aan algemeen pensioen, als bedoeld in [artikel 95](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=95&z=2014-03-19&g=2014-03-19) ontstaat, of het recht op evenbedoeld algemeen pensioen vervalt dan wel recht op een hoger pensioen anders dan krachtens [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) ontstaat, vervalt de overgangstoeslag of wordt deze op zodanig lager bedrag vastgesteld, alsof de omstandigheid die tot wijziging luidde reeds op laatstbedoelde dag aanwezig was geweest.
 
-3. Het pensioen en de daarbij behorende overgangstoeslag worden als een eenheid beschouwd, waarop de op het pensioen betrekking hebbende wettelijke bepalingen van overeenkomstige toepassing zijn, met uitzondering van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06) en van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06).
+3. Het pensioen en de daarbij behorende overgangstoeslag worden als een eenheid beschouwd, waarop de op het pensioen betrekking hebbende wettelijke bepalingen van overeenkomstige toepassing zijn, met uitzondering van [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19) en van [hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 127
 
-1. Op verzoek van de weduwe, die aantoont, dat een rente of uitkering als bedoeld in artikel 19, onder 2e, der Ongevallenwet 1921, artikel 40, onder 2e, der Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk artikel 2, tweede lid, der Zeeongevallenwet 1919 dan wel een zodanige uitkering krachtens de liquiditeitswet ongevallenwetten, daaronder begrepen de daarop verleende toe- en bijslagen anders dan ingevolge de Wet compensatie premie Algemene Ouderdomswet Ongevallenrentetrekkers, is beperkt uit hoofde van haar recht op algemeen weduwenpensioen als bedoeld in de Algemene Weduwen- en Wezenwet, wordt het bedrag van die beperking in mindering gebracht op het inbouwbedrag bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-01-06&g=2014-01-06).
+1. Op verzoek van de weduwe, die aantoont, dat een rente of uitkering als bedoeld in artikel 19, onder 2e, der Ongevallenwet 1921, artikel 40, onder 2e, der Land- en Tuinbouwongevallenwet 1922, onderscheidenlijk artikel 2, tweede lid, der Zeeongevallenwet 1919 dan wel een zodanige uitkering krachtens de liquiditeitswet ongevallenwetten, daaronder begrepen de daarop verleende toe- en bijslagen anders dan ingevolge de Wet compensatie premie Algemene Ouderdomswet Ongevallenrentetrekkers, is beperkt uit hoofde van haar recht op algemeen weduwenpensioen als bedoeld in de Algemene Weduwen- en Wezenwet, wordt het bedrag van die beperking in mindering gebracht op het inbouwbedrag bedoeld in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-03-19&g=2014-03-19).
 
 2. Indien op de dag waarop het verzoek, bedoeld in het vorige lid, bij Onze Minister is ingekomen, meer dan een jaar is verstreken nadat de omstandigheid, bedoeld in het vorige lid, is opgetreden, gaat de in dat lid bedoelde vermindering niet vroeger in dan een jaar voor de eerste dag van de maand waarin het verzoek werd ingediend.
 
@@ -1694,11 +1694,11 @@ In afwijking in zoverre van het bepaalde in [artikel 97](https://wetten.overheid
 
 ##### Artikel 128. Betaling AOW/AWW-premie (behoort bij hoofdstuk 18)
 
-De rechthebbende op een pensioen, die krachtens artikel 6 van de derde afdeling van de Pensioenmaatregelen 1963 op de dag voor het tijdstip van de inwerkingtreding van deze wet een vergoeding geniet ter zake van de premie die van dat pensioen wordt geheven ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de Algemene Weduwen- en Wezenwet, met uitzondering van degene op wie [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=108&z=2014-01-06&g=2014-01-06) toepassing vindt, heeft recht op een vergoeding ter zake van die premie. Deze vergoeding beloopt een zodanig gedeelte van bedoelde premie als wordt aangegeven door een breuk, waarvan de teller is 7,1 en de noemer 10,2 is.
+De rechthebbende op een pensioen, die krachtens artikel 6 van de derde afdeling van de Pensioenmaatregelen 1963 op de dag voor het tijdstip van de inwerkingtreding van deze wet een vergoeding geniet ter zake van de premie die van dat pensioen wordt geheven ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de Algemene Weduwen- en Wezenwet, met uitzondering van degene op wie [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=108&z=2014-03-19&g=2014-03-19) toepassing vindt, heeft recht op een vergoeding ter zake van die premie. Deze vergoeding beloopt een zodanig gedeelte van bedoelde premie als wordt aangegeven door een breuk, waarvan de teller is 7,1 en de noemer 10,2 is.
 
 ##### Artikel 129. Beroep en herziening
 
-In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-01-06&g=2014-01-06) is herziening van een in dat artikel bedoelde beslissing, die genomen is met toepassing van de in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=35&z=2014-01-06&g=2014-01-06) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=80&z=2014-01-06&g=2014-01-06) genoemde wetten niet meer mogelijk nadat vijf jaren zijn verstreken sinds het tijdstip van de inwerkingtreding van deze wet.
+In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-03-19&g=2014-03-19) is herziening van een in dat artikel bedoelde beslissing, die genomen is met toepassing van de in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=35&z=2014-03-19&g=2014-03-19) en [80](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=80&z=2014-03-19&g=2014-03-19) genoemde wetten niet meer mogelijk nadat vijf jaren zijn verstreken sinds het tijdstip van de inwerkingtreding van deze wet.
 
 ### afdeling Vijfde. Leden van gedeputeerde staten en wethouders
 
@@ -1706,9 +1706,9 @@ In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&a
 
 ##### Artikel 130
 
-1. Deze afdeling is van overeenkomstige toepassing op burgemeesters, wethouders en leden van het dagelijks bestuur van een deelgemeente, met dien verstande dat wordt gelezen voor:
+1. Deze afdeling is van overeenkomstige toepassing op burgemeesters en wethouders, met dien verstande dat wordt gelezen voor:
 
-- a. lid van gedeputeerde staten: burgemeester, wethouder of lid van het dagelijks bestuur van een deelgemeente;
+- a. lid van gedeputeerde staten: burgemeester of wethouder;
 
 - b. provincie: gemeente;
 
@@ -1728,7 +1728,7 @@ In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&a
 
 3. Onder lid van gedeputeerde staten wordt voor de toepassing van deze afdeling en de daarop gebaseerde bepalingen verstaan: de commissaris van de Koning of de gedeputeerde.
 
-4. In afwijking van het eerste, tweede en derde lid, zijn de [hoofdstukken 22 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-01-06&g=2014-01-06) niet van toepassing op de commissaris van de Koning, de burgemeester alsmede op de voorzitter en de leden van het dagelijks bestuur van het waterschap waarvan de aan hun functie verbonden werkzaamheden een dagtaak vormen. Voor de toepassing van de hoofdstukken 22 tot en met 29 wordt verstaan onder:
+4. In afwijking van het eerste, tweede en derde lid, zijn de [hoofdstukken 22 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-03-19&g=2014-03-19) niet van toepassing op de commissaris van de Koning, de burgemeester alsmede op de voorzitter en de leden van het dagelijks bestuur van het waterschap waarvan de aan hun functie verbonden werkzaamheden een dagtaak vormen. Voor de toepassing van de hoofdstukken 22 tot en met 29 wordt verstaan onder:
 
 - a. **gewezen lid van gedeputeerde staten:** hij die uit hoofde van een ontslag uitzicht op pensioen heeft;
 
@@ -1752,7 +1752,7 @@ In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&a
 
 - b. indien aan de belanghebbende rechtens zijn vrijheid is ontnomen.
 
-3. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
+3. Tenzij de omstandigheid bedoeld in het tweede lid, onder b, te rekenen vanaf de dag van ingang van het ontslag even lang als of langer heeft geduurd dan de duur van de uitkering berekend volgens [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), wordt de uitkering alsnog toegekend met ingang van de dag dat die omstandigheid zich niet meer voordoet, voor de resterende duur.
 
 #### § 3. Ingang en einde van de pensioenen
 
@@ -1762,13 +1762,13 @@ In afwijking van [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&a
 
 2. Als de belanghebbende ten tijde van zijn aftreden negen jaar en zeven maanden of minder verwijderd is van de pensioengerechtigde leeftijd die is vastgesteld voor het kalenderjaar vijf jaren na het jaar van aftreden, en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren lid van gedeputeerde staten is geweest, wordt de uitkering voortgezet tot hij zijn pensioengerechtigde leeftijd heeft bereikt.
 
-3. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het tweede lid, wordt met tijd waarin de belanghebbende lid van gedeputeerde staten is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.
+3. Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het tweede lid, wordt met tijd waarin de belanghebbende lid van gedeputeerde staten is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in [artikel 2, tweede lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19). Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.
 
 4. In afwijking van het eerste lid wordt de uitkering toegekend voor de duur van zes maanden, indien de belanghebbende korter dan drie maanden lid van gedeputeerde staten is geweest.
 
-5. In geval van tussentijds vervallen van de uitkering krachtens [artikel 136, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-01-06&g=2014-01-06), wordt de volgende uitkering toegekend ten minste tot het tijdstip, waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
+5. In geval van tussentijds vervallen van de uitkering krachtens [artikel 136, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-03-19&g=2014-03-19), wordt de volgende uitkering toegekend ten minste tot het tijdstip, waarop eerstgenoemde uitkering, indien zij niet was vervallen, zou zijn geëindigd.
 
-6. In bijzondere gevallen kunnen provinciale staten bepalen dat de uitkering wordt voortgezet voor een met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-01-06&g=2014-01-06) vast te stellen termijn, welke op dezelfde wijze kan worden verlengd.
+6. In bijzondere gevallen kunnen provinciale staten bepalen dat de uitkering wordt voortgezet voor een met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-03-19&g=2014-03-19) vast te stellen termijn, welke op dezelfde wijze kan worden verlengd.
 
 ##### Artikel 132a
 
@@ -1792,7 +1792,7 @@ Vervallen
 
 ##### Artikel 133a
 
-1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-01-06&g=2014-01-06), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 133b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133b&z=2014-01-06&g=2014-01-06).
+1. Indien de belanghebbende op de dag waarop de duur van de uitkering eindigt geheel of gedeeltelijk algemeen invalide is, wordt, met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-03-19&g=2014-03-19), de uitkering voor de duur van de invaliditeit voortgezet op de voet van [artikel 133b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133b&z=2014-03-19&g=2014-03-19).
 
 2. Algemeen invalide, geheel of gedeeltelijk, in de zin van deze wet is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekten of gebreken geheel of gedeeltelijk niet in staat is om met arbeid te verdienen hetgeen gezonde personen, met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan, met arbeid gewoonlijk verdienen. Onder de eerstgenoemde arbeid wordt verstaan alle algemeen geaccepteerde arbeid waartoe de betrokkene met zijn krachten en bekwaamheden in staat is. Onder deze arbeid wordt niet begrepen arbeid op grond van een arbeidsovereenkomst als bedoeld in [hoofdstuk 2 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2).
 
@@ -1806,7 +1806,7 @@ Vervallen
 
 1. De voortzetting van de uitkering vindt plaats als aangegeven in het tweede en derde lid en vervolgens als aangegeven in het vierde en het vijfde lid van dit artikel.
 
-2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de laatstelijk als lid van gedeputeerde staten genoten wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06), bij een algemene invaliditeit van 80% of meer, 60% van die wedde bij een algemene invaliditeit van 55% tot 80% en 40% van die wedde bij een algemene invaliditeit van 25% tot 55%.
+2. De uitkering bedraagt gedurende een periode als aangegeven in het derde lid 70% van de laatstelijk als lid van gedeputeerde staten genoten wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19), bij een algemene invaliditeit van 80% of meer, 60% van die wedde bij een algemene invaliditeit van 55% tot 80% en 40% van die wedde bij een algemene invaliditeit van 25% tot 55%.
 
 3. De in het tweede lid bedoelde periode is ten hoogste voor de belanghebbende die op het tijdstip van voortzetting van de uitkering:
 
@@ -1824,7 +1824,7 @@ Vervallen
 
 jonger is dan 33 jaar: nihil.
 
-4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de laatstelijk als lid van gedeputeerde staten genoten wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06), en het minimumloon.
+4. De uitkering bedraagt na afloop van de volgens het derde lid bepaalde periode een percentage, volgens het tweede lid, van een bedrag gelijk aan het minimumloon verhoogd met een percentage van het verschil tussen de laatstelijk als lid van gedeputeerde staten genoten wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19), en het minimumloon.
 
 5. Voor de berekening van het in het vierde lid bedoelde bedrag geldt een percentage van 2 maal het aantal verstreken jaren tussen het 15e jaar en de leeftijd van de betrokkene op het tijdstip van voortzetting van de uitkering.
 
@@ -1834,17 +1834,17 @@ jonger is dan 33 jaar: nihil.
 
 8. De aanvulling is gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het zevende lid bedoelde percentage van de laatstelijk als lid van gedeputeerde staten genoten wedde.
 
-9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de laatstelijk als lid van gedeputeerde staten genoten wedde, indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=28&artikel=160&z=2014-01-06&g=2014-01-06).
+9. In afwijking van het achtste lid is de aanvulling gelijk aan het bedrag dat nodig is om de uitkering te verhogen tot het in het tiende lid aangegeven percentage van de laatstelijk als lid van gedeputeerde staten genoten wedde, indien de belanghebbende de keuze heeft gemaakt voor een verlaging van de inhouding ingevolge [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=28&artikel=160&z=2014-03-19&g=2014-03-19).
 
 10. Het in het negende lid bedoelde percentage bedraagt bij een algemene invaliditeit van 80% of meer 65%, bij een algemene invaliditeit van 55% tot 80%: 56% en bij een algemene invaliditeit van 25% tot 55%: 37%.
 
-11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=28&artikel=160&z=2014-01-06&g=2014-01-06), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Regels op grond van [artikel 8b, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8b&z=2014-01-06&g=2014-01-06), zijn van overeenkomstige toepassing op de in het negende lid bedoelde keuze.
+11. Bij de algemene maatregel van bestuur, bedoeld in [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=28&artikel=160&z=2014-03-19&g=2014-03-19), worden regels gesteld met betrekking tot de verlaging, bedoeld in het negende lid. Regels op grond van [artikel 8b, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8b&z=2014-03-19&g=2014-03-19), zijn van overeenkomstige toepassing op de in het negende lid bedoelde keuze.
 
-12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-01-06&g=2014-01-06), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
+12. Indien de wegens algemene invaliditeit voortgezette uitkering te zamen met inkomsten, bedoeld in [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-03-19&g=2014-03-19), minder bedraagt dan het minimumloon wordt de uitkering verhoogd tot het minimumloon. De verhoging bedraagt niet meer dan het verschil tussen de uitkering en het bedrag waarvan deze is afgeleid en tevens niet meer dan 30% van het minimumloon.
 
 ##### Artikel 133c
 
-1. De voortzetting van de uitkering, bedoeld in [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
+1. De voortzetting van de uitkering, bedoeld in [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19), geschiedt op aanvraag van de belanghebbende en voor termijnen van niet langer dan drie jaar, onverminderd het in deze wet bepaalde over herziening of intrekking van de uitkering.
 
 2. Gedeputeerde staten stellen de belanghebbende uiterlijk vier maanden voor het verstrijken van de in het eerste lid bedoelde termijn schriftelijk in kennis van de mogelijkheid tot het doen van een aanvraag tot voortzetting van de uitkering na afloop van die termijn.
 
@@ -1856,13 +1856,13 @@ jonger is dan 33 jaar: nihil.
 
 6. Indien de uitkering na afloop van de in het eerste lid bedoelde termijn wordt voortgezet, wordt de uitkering berekend op de wijze die van toepassing zou zijn geweest indien die termijn niet zou zijn afgelopen.
 
-7. Bepalingen op grond van [artikel 8c, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8c&z=2014-01-06&g=2014-01-06), zijn van overeenkomstige toepassing op in het eerste lid bedoelde belanghebbenden.
+7. Bepalingen op grond van [artikel 8c, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8c&z=2014-03-19&g=2014-03-19), zijn van overeenkomstige toepassing op in het eerste lid bedoelde belanghebbenden.
 
 ##### Artikel 133d
 
-1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06) is voortgezet, doen gedeputeerde staten een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
+1. Binnen een jaar na het tijdstip waarop de uitkering voor de eerste maal met toepassing van [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19) is voortgezet, doen gedeputeerde staten een onderzoek instellen ten einde te doen bezien of er als gevolg van gronden die invloed hebben op de mate van algemene invaliditeit redenen aanwezig zijn voor herziening of intrekking van de uitkering.
 
-2. Bepalingen op grond van [artikel 8d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8d&z=2014-01-06&g=2014-01-06), zijn van overeenkomstige toepassing op het in het eerste lid bedoelde onderzoek.
+2. Bepalingen op grond van [artikel 8d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8d&z=2014-03-19&g=2014-03-19), zijn van overeenkomstige toepassing op het in het eerste lid bedoelde onderzoek.
 
 3. Gedeputeerde staten wijzigen ambtshalve of op aanvraag van de belanghebbende het bedrag van de uitkering bij wijziging van de mate van algemene invaliditeit.
 
@@ -1872,13 +1872,13 @@ jonger is dan 33 jaar: nihil.
 
 - b. indien de wijziging ambtshalve plaatsvindt, met ingang van de eerste dag van de maand volgende op die waarin de beslissing tot wijziging is genomen.
 
-5. De toepassing van [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van gedeputeerde staten zich te onderwerpen aan een onderzoek door een of meer door hen aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
+5. De toepassing van [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19) wordt ten aanzien van een belanghebbende gestaakt indien en zolang hij niet voldoet aan een uitnodiging van gedeputeerde staten zich te onderwerpen aan een onderzoek door een of meer door hen aangewezen geneeskundigen ter beantwoording van de vraag, of er nog sprake is van algemene invaliditeit.
 
-6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, zijn gedeputeerde staten bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 133a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 133a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06).
+6. Indien degene die recht heeft op wegens algemene invaliditeit voortgezette uitkering inkomsten uit of in verband met arbeid geniet, zijn gedeputeerde staten bevoegd, zolang niet vaststaat of deze arbeid als arbeid, bedoeld in [artikel 133a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19), kan worden aangemerkt, niet tot herziening of intrekking van de uitkering over te gaan. De toepassing van de eerste volzin vindt ten hoogste plaats over een aaneengesloten periode van drie jaren, aanvangende op de eerste dag waarover de inkomsten uit of in verband met arbeid bedoeld in de eerste volzin worden genoten. Deze periode wordt geacht niet te zijn onderbroken indien korter dan een maand geen inkomsten uit of in verband worden genoten. Na afloop van de in de tweede volzin genoemde periode wordt de in de eerste volzin bedoelde arbeid aangemerkt als arbeid, bedoeld in [artikel 133a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 133e
 
-1. Op verzoek van een lid van gedeputeerde staten doen provinciale staten een onderzoek instellen, door een of meer door hen aangewezen geneeskundigen, ter beantwoording van de vraag of het lid van gedeputeerde staten dat het verzoek deed algemeen invalide is als bedoeld in [artikel 133**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06).
+1. Op verzoek van een lid van gedeputeerde staten doen provinciale staten een onderzoek instellen, door een of meer door hen aangewezen geneeskundigen, ter beantwoording van de vraag of het lid van gedeputeerde staten dat het verzoek deed algemeen invalide is als bedoeld in [artikel 133**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19).
 
 2. Provinciale staten brengen de uitkomst van een onderzoek als bedoeld in het eerste lid ter kennis van de verzoeker.
 
@@ -1908,17 +1908,17 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 4. Indien de belanghebbende op of na de dag bedoeld in het tweede lid inkomsten of hogere inkomsten, anders dan ten gevolge van algemene loonsverhogingen, verkrijgt uit in het tweede lid bedoelde activiteiten ter hand genomen voor de dag van aftreden, anders dan bedoeld in het derde lid, is ten aanzien van die inkomsten of hogere inkomsten het bepaalde in het eerste lid van toepassing.
 
-5. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten wedde, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 132c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132c&z=2014-01-06&g=2014-01-06), opgelegde inhouding buiten beschouwing gelaten.
+5. De in het eerste lid bedoelde verrekening geschiedt aldus dat de uitkering wordt verminderd met het bedrag waarmede de uitkering, vermeerderd met die inkomsten, de laatstelijk genoten wedde, waarvan de uitkering is afgeleid, overschrijdt. Bij de verrekening wordt voor de hoogte van de uitkering de op grond van [artikel 132c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132c&z=2014-03-19&g=2014-03-19), opgelegde inhouding buiten beschouwing gelaten.
 
 6. Onder inkomsten bedoeld in de voorgaande leden wordt niet verstaan kinderbijslag alsmede de compensatie voor de premie ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), welke in die inkomsten is of geacht kan worden te zijn begrepen. De vorige volzin is wat betreft de premiecompensatie slechts van toepassing voor zover de daar bedoelde inkomsten betrekking hebben of kunnen worden geacht betrekking te hebben op een tijdvak gelegen voor 1 juni 1985.
 
-7. Een ministeriële regeling op grond van [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06), geldt mede voor de toepassing van dit artikel, ten aanzien van de voortgezette uitkering bedoeld in [artikel 132, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), en in [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06).
+7. Een ministeriële regeling op grond van [artikel 9, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19), geldt mede voor de toepassing van dit artikel, ten aanzien van de voortgezette uitkering bedoeld in [artikel 132, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), en in [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 134a
 
-1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-01-06&g=2014-01-06), terstond mededeling te doen aan gedeputeerde staten onder opgave, voor zover mogelijk, van de inkomsten die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Voorschriften, bedoeld in [artikel 9a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-01-06&g=2014-01-06), zijn van overeenkomstige toepassing.
+1. De belanghebbende is verplicht van het ter hand nemen van enige activiteiten als bedoeld in [artikel 134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-03-19&g=2014-03-19), terstond mededeling te doen aan gedeputeerde staten onder opgave, voor zover mogelijk, van de inkomsten die hij uit die activiteiten zal trekken. Zijn de inkomsten niet vooraf op te geven dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de activiteiten of sinds de vorige opgave heeft genoten. Voorschriften, bedoeld in [artikel 9a, eerste lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9a&z=2014-03-19&g=2014-03-19), zijn van overeenkomstige toepassing.
 
-2. Brengt de aard van de activiteiten of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-01-06&g=2014-01-06) van toepassing, met dien verstande dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
+2. Brengt de aard van de activiteiten of van de inkomsten mede, dat de inkomsten over een langere termijn moeten worden berekend, dan geschiedt de opgave dienovereenkomstig en wordt op de uitkering een vermindering toegepast van een voorlopig vastgesteld bedrag onder voorbehoud van verrekening aan het eind van de evenbedoelde termijn. Ten aanzien van deze verrekening is [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-03-19&g=2014-03-19) van toepassing, met dien verstande dat zij geschiedt over de in de vorige volzin bedoelde langere termijn in plaats van over iedere maand afzonderlijk.
 
 3. Gedeputeerde staten kunnen bij de vaststelling van het bedrag van de vermindering van de opgave van de belanghebbende afwijken.
 
@@ -1930,7 +1930,7 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 1. De uitkering, berekend over een maand, wordt in maandelijkse termijnen betaald.
 
-2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134a&z=2014-01-06&g=2014-01-06).
+2. De uitkering wordt niet uitbetaald zolang de belanghebbende niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134a&z=2014-03-19&g=2014-03-19).
 
 #### Voortzetting van de uitkering bij invaliditeit
 
@@ -1944,9 +1944,9 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 - b. met ingang van de dag waarop de belanghebbende opnieuw lid van gedeputeerde staten wordt in de provincie ten laste waarvan de uitkering wordt genoten, tenzij hij als zodanig een betrekking is gaan uitoefenen in een mindere omvang dan voor het aftreden waaraan hij het recht op uitkering ontleent;
 
-- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 131, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-01-06&g=2014-01-06). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
+- c. wanneer tijdens de duur van de uitkering zich de omstandigheid voordoet, bedoeld in [artikel 131, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-03-19&g=2014-03-19). Zodra die omstandigheid zich niet langer voordoet is het daar bepaalde van overeenkomstige toepassing.
 
-3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134a&z=2014-01-06&g=2014-01-06).
+3. De uitkering kan geheel of ten dele vervallen worden verklaard indien de belanghebbende herhaaldelijk niet of niet op de voorgeschreven wijze voldoet aan zijn verplichtingen op grond van [artikel 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134a&z=2014-03-19&g=2014-03-19).
 
 #### Bedrag van de uitkering
 
@@ -1962,15 +1962,15 @@ Onder inkomsten bedoeld in de vorige volzin, wordt mede verstaan een arbeidsonge
 
 ##### Artikel 137a. Waarneming
 
-1. Dit hoofdstuk is van overeenkomstige toepassing op degene die krachtens [artikel 76, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76), dan wel krachtens [artikel 78, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) het ambt van commissaris van de Koning, respectievelijk het ambt van burgemeester gedurende meer dan dertig dagen zonder onderbreking heeft waargenomen. Voor degene die aftreedt als waarnemer is de duur van de uitkering, ten dele in afwijking van [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), steeds gelijk aan de duur van de waarneming. De uitkering bedraagt het volgens [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06) toepasselijke percentage van de als waarnemer genoten vergoeding en wordt aangepast overeenkomstig het derde lid van dat artikel.
+1. Dit hoofdstuk is van overeenkomstige toepassing op degene die krachtens [artikel 76, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76), dan wel krachtens [artikel 78, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) het ambt van commissaris van de Koning, respectievelijk het ambt van burgemeester gedurende meer dan dertig dagen zonder onderbreking heeft waargenomen. Voor degene die aftreedt als waarnemer is de duur van de uitkering, ten dele in afwijking van [artikel 132](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), steeds gelijk aan de duur van de waarneming. De uitkering bedraagt het volgens [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19) toepasselijke percentage van de als waarnemer genoten vergoeding en wordt aangepast overeenkomstig het derde lid van dat artikel.
 
-2. In afwijking van [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-01-06&g=2014-01-06) komt de uitkering die de provincie of de gemeente na ontheffing van de waarneming verschuldigd is op grond van het eerste lid ten laste van Hoofdstuk VII van de rijksbegroting.
+2. In afwijking van [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-03-19&g=2014-03-19) komt de uitkering die de provincie of de gemeente na ontheffing van de waarneming verschuldigd is op grond van het eerste lid ten laste van Hoofdstuk VII van de rijksbegroting.
 
 ### Hoofdstuk 22. Het eigen pensioen
 
 ##### Artikel 138. **Het recht op eigen pensioen**
 
-De [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-01-06&g=2014-01-06) zijn van overeenkomstige toepassing op het eigen pensioen van een lid van gedeputeerde staten, met dien verstande dat gedeputeerde staten in de plaats treden van Onze Minister.
+De [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op het eigen pensioen van een lid van gedeputeerde staten, met dien verstande dat gedeputeerde staten in de plaats treden van Onze Minister.
 
 ##### Artikel 138a. Bedrag van het eigen pensioen per jaar als lid van gedeputeerde staten
 
@@ -2014,9 +2014,9 @@ Vervallen
 
 - b. bij overlijden van een gewezen lid van gedeputeerde staten vóór het bereiken van de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- c. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-01-06&g=2014-01-06).
+- c. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-03-19&g=2014-03-19).
 
-3. Voor de toepassing van het tweede lid geldt niet als gewezen lid van gedeputeerde staten het gewezen lid van gedeputeerde staten met recht op uitkering als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-01-06&g=2014-01-06).
+3. Voor de toepassing van het tweede lid geldt niet als gewezen lid van gedeputeerde staten het gewezen lid van gedeputeerde staten met recht op uitkering als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 141
 
@@ -2040,7 +2040,7 @@ Vervallen
 
 - c. bij overlijden van een lid van gedeputeerde staten of gewezen lid van gedeputeerde staten voor de pensioengerechtigde leeftijd, voorzover de pensioengeldige tijd van de overledene is gelegen na 31 juli 2003;
 
-- d. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-01-06&g=2014-01-06).
+- d. bij overlijden van een gepensioneerd lid van gedeputeerde staten, voorzover de pensioengeldige tijd van de overledene is gelegen na 30 juni 1999 en de keuze is gedaan, bedoeld in [artikel 13f](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13f&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 143. Wezenpensioen
 
@@ -2064,7 +2064,7 @@ Vervallen
 
 ##### Artikel 145. Nabestaandenpensioen
 
-1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop het overleden lid van gedeputeerde staten als zodanig aanspraak zou hebben gehad, indien hij met ingang van de dag na die van zijn overlijden was ontslagen, of waarop het overleden gewezen lid van gedeputeerde staten als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 140, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=140&z=2014-01-06&g=2014-01-06).
+1. Het nabestaandenpensioen bedraagt vijf zevende gedeelte van het pensioen, waarop het overleden lid van gedeputeerde staten als zodanig aanspraak zou hebben gehad, indien hij met ingang van de dag na die van zijn overlijden was ontslagen, of waarop het overleden gewezen lid van gedeputeerde staten als zodanig recht of uitzicht had, een en ander met inachtneming van [artikel 140, tweede lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=140&z=2014-03-19&g=2014-03-19).
 
 2. In afwijking van het vorige lid bedraagt het pensioen van de nabestaande van hem die overlijdt:
 
@@ -2072,19 +2072,19 @@ Vervallen
 
 - b. als gewezen lid van gedeputeerde staten in de periode, waarover hem een uitkering is toegekend, vijf zevende gedeelte van het pensioen waarop het gewezen lid aanspraak zou hebben kunnen maken, indien hij tot het bereiken van de pensioengerechtigde leeftijd recht op uitkering zou hebben gehad, met dien verstande dat voor de berekening van het pensioen de diensttijd wordt doorgeteld naar de mate van medetelling van diensttijd op de dag van overlijden.
 
-3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat op meer dan een nabestaandenpensioen op de voet van deze afdeling dan wel op een nabestaandenpensioen op de voet van deze afdeling en op een nabestaandenpensioen krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-01-06&g=2014-01-06) of [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-01-06&g=2014-01-06) van deze wet, wordt voor de berekening van de eigen pensioenen, waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
+3. Indien wegens eenzelfde sterfgeval voor een nabestaande recht ontstaat op meer dan een nabestaandenpensioen op de voet van deze afdeling dan wel op een nabestaandenpensioen op de voet van deze afdeling en op een nabestaandenpensioen krachtens de [tweede](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&z=2014-03-19&g=2014-03-19) of [derde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&z=2014-03-19&g=2014-03-19) van deze wet, wordt voor de berekening van de eigen pensioenen, waarvan de nabestaandenpensioenen zijn afgeleid, tijd die zowel voor de berekening van eerstbedoeld pensioen als voor de berekening van het andere pensioen medetelt en niet daadwerkelijk gelijktijdig in de verschillende ambten is doorgebracht, slechts medegeteld voor de berekening van het pensioen, waarbij die tijd het hoogste bedrag oplevert.
 
 4. Bij de toepassing van het eerste tot en met derde lid wordt ten aanzien van het eigen pensioen opgebouwd tussen 31 december 1985 en 1 januari 1995, gerekend met een bij of krachtens algemene maatregel van bestuur vastgestelde franchise.
 
 ##### Artikel 145a
 
-1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt maar geen recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat.
 
 3. De nabestaande, bedoeld in het eerste lid, die jonger is dan 40 jaar, heeft recht op de in dat lid bedoelde toeslag voor de duur van 12 maanden.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999.
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999.
 
 5. Het recht op toeslag vervalt:
 
@@ -2094,17 +2094,17 @@ Vervallen
 
 ##### Artikel 145b
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), waarop inkomen in mindering wordt gebracht, heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985.
 
 2. Recht op toeslag heeft eveneens de nabestaande aan wie in het tijdvak van 1 juli 1996 tot 1 juli 1999 nabestaandenpensioen is toegekend en op wiens uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) in dat tijdvak inkomen in mindering is gebracht, met ingang van die vermindering.
 
 3. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 percent van het verschil tussen 75 percent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, zonder de vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 percent van het in de eerste volzin eerstbedoelde bedrag en kan niet negatief zijn. De toeslag wordt nader vastgesteld:
 
-- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-01-06&g=2014-01-06), vanaf 1 juli 1999;
+- a. met ingang van 1 januari van ieder jaar volgens de regels, bedoeld in [artikel 105, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=105&z=2014-03-19&g=2014-03-19), vanaf 1 juli 1999;
 
 - b. bij iedere nadere vaststelling van de verminderdering van een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795).
 
-3. [Artikel 145a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145a&z=2014-01-06&g=2014-01-06), zijn mede van toepassing op de toeslag ingevolge dit artikel.
+3. [Artikel 145a, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145a&z=2014-03-19&g=2014-03-19), zijn mede van toepassing op de toeslag ingevolge dit artikel.
 
 ##### Artikel 146. Bijzonder nabestaandenpensioen
 
@@ -2112,9 +2112,9 @@ Vervallen
 
 - a. de berekeningsgrondslag waarnaar het pensioen van het lid van gedeputeerde staten, gewezen lid van gedeputeerde staten of gepensioneerde lid van gedeputeerde staten zou zijn berekend indien deze op de dag van ontbinding van het huwelijk dan wel van het einde van de aanmelding als partner recht op pensioen zou hebben verkregen;
 
-- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 142, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=142&z=2014-01-06&g=2014-01-06), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking word genomen.
+- b. pensioengeldige tijd die is gelegen vóór de onder a bedoelde dag, met dien verstande dat in de gevallen bedoeld in [artikel 142, derde lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=142&z=2014-03-19&g=2014-03-19), uitsluitend tijd vóór respectievelijk 1 augustus 2003 en 1 juli 1999 in aanmerking word genomen.
 
-2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 142, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=142&z=2014-01-06&g=2014-01-06), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de diensttijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
+2. Indien er recht bestaat op meer dan een bijzonder nabestaandenpensioen als bedoeld in [artikel 142, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=1&artikel=142&z=2014-03-19&g=2014-03-19), vindt het eerste lid overeenkomstige toepassing met dien verstande, dat voor de berekening van het bijzonder nabestaandenpensioen ontleend aan elk huwelijk en elke aanmelding waaraan een eerder huwelijk dan wel een eerdere aanmelding voorafgaat slechts de diensttijd medetelt die samenloopt of geacht kan worden samen te lopen met de huwelijksduur dan wel de duur van de aanmelding.
 
 3. Indien er bij een overlijden recht bestaat op een of meer bijzondere nabestaandenpensioenen wordt het nabestaandenpensioen dat aan hetzelfde overlijden wordt ontleend met het bedrag daarvan verminderd.
 
@@ -2128,31 +2128,31 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 - a. voor elk kind, wiens ouder aan het overlijden van het lid, gewezen lid of gepensioneerd lid van gedeputeerde staten recht op pensioen ontleent, een zevende gedeelte;
 
-- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06).
+- b. voor elk ander kind, twee zevende gedeelte, van het pensioen van de overledene, berekend overeenkomstig [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19).
 
-2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van zijn overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06).
+2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande, die op het tijdstip van zijn overlijden de pleegouderlijke zorg had van het kind, bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 148a
 
 1. Dit artikel is uitsluitend van toepassing op pensioenberekeningen over diensttijd na 31 december 1985.
 
-2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
+2. De wees die geen recht heeft op wezenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) heeft recht op een toeslag op zijn volgens [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19) berekende pensioen, tenzij zijn ouder recht heeft op nabestaandenuitkering op grond van [artikel 14, eerste lid, onder a, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=14). Deze toeslag bedraagt jaarlijks voor elk voor de berekening van het wezenpensioen tellend jaar:
 
-- a. voor de wees, bedoeld in [artikel 148, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
+- a. voor de wees, bedoeld in [artikel 148, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19), 0,375 percent van de tot een jaarbedrag herleide nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), zoals die wet geldt op 1 januari van het jaar waarin recht op nabestaandenpensioen ontstaat, vermeerderd met de daarover berekende vakantie-uitkering ingevolge die wet;
 
-- b. voor de wees bedoeld in [artikel 148, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06), 0,75 percent van het onder **a** bedoelde jaarbedrag.
+- b. voor de wees bedoeld in [artikel 148, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19), 0,75 percent van het onder **a** bedoelde jaarbedrag.
 
 3. Indien aanspraak ontstaat op de toeslag, bedoeld in het tweede lid, geeft de wees hiervan onverwijld kennis aan de provincie. De toeslag gaat niet eerder in dan een jaar voor de eerste dag van de maand waarin de kennisgeving werd gedaan of waarin die toeslag ambtshalve is toegekend.
 
-4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06).
+4. De toeslag gaat in met ingang van de maand waarin het recht daarop ontstaat en wordt met ingang van 1 januari van ieder jaar aangepast volgens de regels, bedoeld in [artikel 157, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19).
 
 ##### Artikel 149
 
-1. Het wezenpensioen wordt herberekend overeenkomstig de [artikelen 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06) en [148a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148a&z=2014-01-06&g=2014-01-06), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
+1. Het wezenpensioen wordt herberekend overeenkomstig de [artikelen 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19) en [148a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148a&z=2014-03-19&g=2014-03-19), wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
 
-2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-01-06&g=2014-01-06) wegens hertrouwen dan wel een aanmelding opnieuw wordt vastgesteld, wordt het wezenpensioen bedoeld in [artikel 148, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06), verhoogd met een bedrag dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06), vóór en na toepassing van [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-01-06&g=2014-01-06) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
+2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-03-19&g=2014-03-19) wegens hertrouwen dan wel een aanmelding opnieuw wordt vastgesteld, wordt het wezenpensioen bedoeld in [artikel 148, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19), verhoogd met een bedrag dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19), vóór en na toepassing van [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-03-19&g=2014-03-19) zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
 
-3. Voor de toepassing van dit artikel is [artikel 148, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06), van overeenkomstige toepassing.
+3. Voor de toepassing van dit artikel is [artikel 148, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19), van overeenkomstige toepassing.
 
 ##### Artikel 150. Beperking gezamenlijk bedrag wezenpensioenen
 
@@ -2160,25 +2160,25 @@ Indien een nabestaande hertrouwt, partij is bij een aanmelding of wordt aangemer
 
 2. Indien wegens toepassing van het eerste lid de wezenpensioenen worden verminderd, geschiedt deze vermindering in evenredigheid naar de omvang van die pensioenen.
 
-3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 150b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=150b&z=2014-01-06&g=2014-01-06), buiten beschouwing gelaten.
+3. Bij de toepassing van dit artikel wordt de toeslag, bedoeld in [artikel 150b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=150b&z=2014-03-19&g=2014-03-19), buiten beschouwing gelaten.
 
 ##### Artikel 150a. Toeslag op nabestaandenpensioen
 
 1. De nabestaande die de pensioengerechtigde leeftijd nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
-3. Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-01-06&g=2014-01-06) opnieuw is vastgesteld.
+3. Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van [artikel 147](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=147&z=2014-03-19&g=2014-03-19) opnieuw is vastgesteld.
 
-4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+4. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 150b. Toeslag op wezenpensioen
 
-1. De wees bedoeld in [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-01-06&g=2014-01-06) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
+1. De wees bedoeld in [artikel 148](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=148&z=2014-03-19&g=2014-03-19) heeft vanaf de eerste dag van de maand waarin hij de leeftijd van vijftien jaar heeft bereikt, recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van vijftien percent van dat pensioen, behoudens het bepaalde in het tweede en derde lid.
 
-2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&z=2014-01-06&g=2014-01-06) toepassing heeft gevonden.
+2. Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel [hoofdstuk 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&z=2014-03-19&g=2014-03-19) toepassing heeft gevonden.
 
-3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
+3. De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19), overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985 € 28 678,91 bedroeg.
 
 ##### Artikel 151. Tijdelijk pensioen
 
@@ -2198,7 +2198,7 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 ##### Artikel 153
 
-[Hoofdstuk 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing ten aanzien van de in deze afdeling bedoelde pensioenen.
+[Hoofdstuk 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=7&z=2014-03-19&g=2014-03-19) is van overeenkomstige toepassing ten aanzien van de in deze afdeling bedoelde pensioenen.
 
 #### § 2. Bedrag van het pensioen
 
@@ -2210,19 +2210,19 @@ Vervallen
 
 ##### Artikel 155
 
-[Hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-01-06&g=2014-01-06) en de [artikelen 125 tot en met 127 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=125&z=2014-01-06&g=2014-01-06) zijn van overeenkomstige toepassing ten aanzien van de in deze afdeling bedoelde pensioenen.
+[Hoofdstuk 17](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&z=2014-03-19&g=2014-03-19) en de [artikelen 125 tot en met 127 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=125&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing ten aanzien van de in deze afdeling bedoelde pensioenen.
 
 ##### Artikel 156. Verlaging inbouwbedrag
 
 1. Dit artikel is uitsluitend van toepassing op pensioenberekeningen over jaren gelegen voor 1 januari 1986.
 
-2. Indien het bedrag dat tot grondslag heeft gestrekt voor de berekening van het pensioen, nadat dat bedrag is aangepast aan de hand van de regels, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06), op de dag met ingang waarvan [artikel 155](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&paragraaf=3&artikel=155&z=2014-01-06&g=2014-01-06) voor de eerste maal ten aanzien van het pensioen toepassing vindt, lager is dan f 32.094,- per 1 januari 2007 € 16.519,54, wordt het met toepassing van laatstgenoemd artikel berekende inbouwbedrag vermenigvuldigd met een breuk, waarvan de teller is eerstbedoeld bedrag op bedoelde dag en waarvan de noemer is f 32.094,- per 1 januari 2007 € 16.519,54. De uitkomst van deze vermenigvuldiging vormt in dat geval het inbouwbedrag. Het in de eerste volzin genoemd bedrag wordt gewijzigd bij de ministeriële regeling bedoeld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-01-06&g=2014-01-06).
+2. Indien het bedrag dat tot grondslag heeft gestrekt voor de berekening van het pensioen, nadat dat bedrag is aangepast aan de hand van de regels, bedoeld in [artikel 157, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19), op de dag met ingang waarvan [artikel 155](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=25&paragraaf=3&artikel=155&z=2014-03-19&g=2014-03-19) voor de eerste maal ten aanzien van het pensioen toepassing vindt, lager is dan f 32.094,- per 1 januari 2007 € 16.519,54, wordt het met toepassing van laatstgenoemd artikel berekende inbouwbedrag vermenigvuldigd met een breuk, waarvan de teller is eerstbedoeld bedrag op bedoelde dag en waarvan de noemer is f 32.094,- per 1 januari 2007 € 16.519,54. De uitkomst van deze vermenigvuldiging vormt in dat geval het inbouwbedrag. Het in de eerste volzin genoemd bedrag wordt gewijzigd bij de ministeriële regeling bedoeld in [artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=26&artikel=157&z=2014-03-19&g=2014-03-19).
 
 3. Indien het pensioen rechtstreeks of middellijk is afgeleid van een eigen pensioen, geldt voor de toepassing van het vorige lid als grondslag voor de berekening van het pensioen, het bedrag dat heeft gestrekt tot grondslag voor de berekening van het eigen pensioen.
 
-4. Indien het bedrag van het algemeen ouderdomspensioen, dat gerekend wordt deel uit te maken van het pensioen, reeds is verminderd krachtens het eerste lid, vindt [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-01-06&g=2014-01-06), slechts toepassing voor zover zulks nodig is om te voorkomen, dat de som van evenbedoeld verminderd bedrag en het bedrag van de vermindering, bedoeld in het [eerste lid van artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-01-06&g=2014-01-06), zou overschrijden het bedrag dat, zonder toepassing van het [eerste lid, krachtens artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-01-06&g=2014-01-06) gerekend zou worden deel uit te maken van het bedrag van het pensioen.
+4. Indien het bedrag van het algemeen ouderdomspensioen, dat gerekend wordt deel uit te maken van het pensioen, reeds is verminderd krachtens het eerste lid, vindt [artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-03-19&g=2014-03-19), slechts toepassing voor zover zulks nodig is om te voorkomen, dat de som van evenbedoeld verminderd bedrag en het bedrag van de vermindering, bedoeld in het [eerste lid van artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-03-19&g=2014-03-19), zou overschrijden het bedrag dat, zonder toepassing van het [eerste lid, krachtens artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=97&z=2014-03-19&g=2014-03-19) gerekend zou worden deel uit te maken van het bedrag van het pensioen.
 
-De vorige volzin is van overeenkomstige toepassing in het geval bedoeld in [artikel 102, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-01-06&g=2014-01-06).
+De vorige volzin is van overeenkomstige toepassing in het geval bedoeld in [artikel 102, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=17&artikel=102&z=2014-03-19&g=2014-03-19).
 
 ### Hoofdstuk 24. Verval van pensioen
 
@@ -2238,11 +2238,11 @@ De vorige volzin is van overeenkomstige toepassing in het geval bedoeld in [arti
 
 ##### Artikel 158
 
-Ten aanzien van de in deze afdeling bedoelde pensioenen zijn de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=2&artikel=111&z=2014-01-06&g=2014-01-06), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=112&z=2014-01-06&g=2014-01-06), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=113&z=2014-01-06&g=2014-01-06), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=114&z=2014-01-06&g=2014-01-06), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-01-06&g=2014-01-06), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-01-06&g=2014-01-06), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=123&z=2014-01-06&g=2014-01-06) en [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=128&z=2014-01-06&g=2014-01-06) van overeenkomstige toepassing.
+Ten aanzien van de in deze afdeling bedoelde pensioenen zijn de [artikelen 111](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=2&artikel=111&z=2014-03-19&g=2014-03-19), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=112&z=2014-03-19&g=2014-03-19), [113](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=113&z=2014-03-19&g=2014-03-19), [114](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=114&z=2014-03-19&g=2014-03-19), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=115&z=2014-03-19&g=2014-03-19), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=122&z=2014-03-19&g=2014-03-19), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=5&artikel=123&z=2014-03-19&g=2014-03-19) en [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=128&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
 
 ##### Artikel 159. Nabestaandenuitkering
 
-Het bepaalde in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-01-06&g=2014-01-06) is ten aanzien van de in deze afdeling bedoelde pensioenen van overeenkomstige toepassing.
+Het bepaalde in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=3&artikel=116&z=2014-03-19&g=2014-03-19) is ten aanzien van de in deze afdeling bedoelde pensioenen van overeenkomstige toepassing.
 
 ### Hoofdstuk 28. Algemene bepalingen
 
@@ -2252,11 +2252,11 @@ Het bepaalde in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&af
 
 2. Op de uitkering van het gewezen lid van gedeputeerde staten worden, volgens bij of krachtens algemene maatregel van bestuur te stellen regelen, bedragen ingehouden overeenkomstig de inhouding van bedragen, terzake van aanspraken als bedoeld in het eerste lid, op een werkloosheids- of arbeidsongeschiktheidsuitkering op grond van een voor overheidspersoneel getroffen regeling.
 
-3. Geen inhouding van bedragen ter zake van aanspraken bij ouderdom en overlijden vindt plaats voor zover tijd niet meetelt als pensioendiensttijd en op uitkeringen bedoeld in de [artikelen 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06), alsmede op een uitkering gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
+3. Geen inhouding van bedragen ter zake van aanspraken bij ouderdom en overlijden vindt plaats voor zover tijd niet meetelt als pensioendiensttijd en op uitkeringen bedoeld in de [artikelen 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19), alsmede op een uitkering gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
 
 ##### Artikel 160a
 
-1. Op aanvraag van een gewezen gedeputeerde draagt de desbetreffende provincie de waarde van de door de aanvrager krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06) van deze wet verkregen pensioenaanspraken over, overeenkomstig de bepalingen in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) inzake waardeoverdracht.
+1. Op aanvraag van een gewezen gedeputeerde draagt de desbetreffende provincie de waarde van de door de aanvrager krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19) van deze wet verkregen pensioenaanspraken over, overeenkomstig de bepalingen in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) inzake waardeoverdracht.
 
 2. De bij of krachtens [artikel 71 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71) gestelde regels zijn van overeenkomstige toepassing op de waardeoverdracht.
 
@@ -2268,9 +2268,9 @@ Het bepaalde in [artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&af
 
 ##### Artikel 160b
 
-1. Op aanvraag van een gedeputeerde is de desbetreffende provincie verplicht om de waarde van door betrokkene opgebouwde pensioenaanspraken aan te wenden ter verwerving van pensioenaanspraken op grond van de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06) van deze wet. Deze waardeoverdracht geschiedt overeenkomstig de voorwaarden die in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) aan een ontvangende pensioenuitvoerder worden gesteld met betrekking tot de waardeoverdracht van opgebouwde pensioenaanspraken.
+1. Op aanvraag van een gedeputeerde is de desbetreffende provincie verplicht om de waarde van door betrokkene opgebouwde pensioenaanspraken aan te wenden ter verwerving van pensioenaanspraken op grond van de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19) van deze wet. Deze waardeoverdracht geschiedt overeenkomstig de voorwaarden die in de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) aan een ontvangende pensioenuitvoerder worden gesteld met betrekking tot de waardeoverdracht van opgebouwde pensioenaanspraken.
 
-2. De overgedragen pensioenaanspraken worden beschouwd als aanspraken krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06) van deze wet en behandeld als een geheel met de aanspraken die de gedeputeerde verkrijgt krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-01-06&g=2014-01-06) van deze wet.
+2. De overgedragen pensioenaanspraken worden beschouwd als aanspraken krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19) van deze wet en behandeld als een geheel met de aanspraken die de gedeputeerde verkrijgt krachtens de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&z=2014-03-19&g=2014-03-19) van deze wet.
 
 3. De bij of krachtens [artikel 71 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=71) gestelde regels zijn van overeenkomstige toepassing op de waardeoverdracht.
 
@@ -2290,13 +2290,13 @@ De besluiten ter uitvoering van deze afdeling worden genomen door gedeputeerde s
 
 ##### Artikel 163
 
-1. Bij verordening kan worden bepaald dat de pensioenen van gewezen leden van gedeputeerde staten zomede die van de weduwen en wezen van leden, gewezen leden of gepensioneerde leden van gedeputeerde staten, voor zover het recht daarop niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet, worden herberekend overeenkomstig de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=90&z=2014-01-06&g=2014-01-06) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=92&z=2014-01-06&g=2014-01-06).
+1. Bij verordening kan worden bepaald dat de pensioenen van gewezen leden van gedeputeerde staten zomede die van de weduwen en wezen van leden, gewezen leden of gepensioneerde leden van gedeputeerde staten, voor zover het recht daarop niet is vervallen, met ingang van het tijdstip van de inwerkingtreding van deze wet, worden herberekend overeenkomstig de [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=90&z=2014-03-19&g=2014-03-19) en [92](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=92&z=2014-03-19&g=2014-03-19).
 
 2. De verordeningen vastgesteld op grond van de wet van 1 augustus 1956, **Stb.** 455, behouden hun rechtskracht gedurende twee jaren na het tijdstip van de inwerkingtreding van deze wet voor zover zij niet eerder door andere verordeningen overeenkomstig deze wet zijn vervangen.
 
-In laatstbedoelde verordeningen kunnen zo nodig overeenkomstige overgangsbepalingen worden opgenomen als vermeld in de [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&z=2014-01-06&g=2014-01-06) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&z=2014-01-06&g=2014-01-06), en in [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=124&z=2014-01-06&g=2014-01-06).
+In laatstbedoelde verordeningen kunnen zo nodig overeenkomstige overgangsbepalingen worden opgenomen als vermeld in de [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&z=2014-03-19&g=2014-03-19) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&z=2014-03-19&g=2014-03-19), en in [artikel 124](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=124&z=2014-03-19&g=2014-03-19).
 
-3. [Artikel 134, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-01-06&g=2014-01-06), vindt geen toepassing ten aanzien van uitkeringen toegekend ter zake van een aftreden voor het tijdstip van de inwerkingtreding van deze wet.
+3. [Artikel 134, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=134&z=2014-03-19&g=2014-03-19), vindt geen toepassing ten aanzien van uitkeringen toegekend ter zake van een aftreden voor het tijdstip van de inwerkingtreding van deze wet.
 
 ### afdeling Zesde
 
@@ -2320,17 +2320,17 @@ Deze wet kan worden aangehaald als: Algemene pensioenwet politieke ambtsdragers.
 
 2. Vervallen.
 
-3. Met uitzondering van de in het tweede en vierde lid genoemde artikelen en onderdelen van artikelen en van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=37&z=2014-01-06&g=2014-01-06), [39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=39&z=2014-01-06&g=2014-01-06), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=43&z=2014-01-06&g=2014-01-06), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=44&z=2014-01-06&g=2014-01-06), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=45&z=2014-01-06&g=2014-01-06), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=82&z=2014-01-06&g=2014-01-06), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=84&z=2014-01-06&g=2014-01-06), [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=87&z=2014-01-06&g=2014-01-06), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=88&z=2014-01-06&g=2014-01-06), [89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=89&z=2014-01-06&g=2014-01-06), [118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=118&z=2014-01-06&g=2014-01-06), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=128&z=2014-01-06&g=2014-01-06), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=129&z=2014-01-06&g=2014-01-06) en [163, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=29&artikel=163&z=2014-01-06&g=2014-01-06), werkt deze wet terug tot 1 januari 1966.
+3. Met uitzondering van de in het tweede en vierde lid genoemde artikelen en onderdelen van artikelen en van de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=37&z=2014-03-19&g=2014-03-19), [39, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=39&z=2014-03-19&g=2014-03-19), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=43&z=2014-03-19&g=2014-03-19), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=44&z=2014-03-19&g=2014-03-19), [45, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=8&artikel=45&z=2014-03-19&g=2014-03-19), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=82&z=2014-03-19&g=2014-03-19), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=84&z=2014-03-19&g=2014-03-19), [87, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=87&z=2014-03-19&g=2014-03-19), [88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=88&z=2014-03-19&g=2014-03-19), [89, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=15&artikel=89&z=2014-03-19&g=2014-03-19), [118, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=4&artikel=118&z=2014-03-19&g=2014-03-19), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=128&z=2014-03-19&g=2014-03-19), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=129&z=2014-03-19&g=2014-03-19) en [163, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=29&artikel=163&z=2014-03-19&g=2014-03-19), werkt deze wet terug tot 1 januari 1966.
 
-4. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06), [50, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=9&artikel=50&z=2014-01-06&g=2014-01-06), [52, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-01-06&g=2014-01-06), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=59&z=2014-01-06&g=2014-01-06), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-01-06&g=2014-01-06) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06) werken terug tot 1 januari 1969.
+4. De [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19), [50, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=9&artikel=50&z=2014-03-19&g=2014-03-19), [52, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19), [54](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=54&z=2014-03-19&g=2014-03-19), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=59&z=2014-03-19&g=2014-03-19), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=70&z=2014-03-19&g=2014-03-19) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19) werken terug tot 1 januari 1969.
 
-5. Waar in deze wet sprake is van het tijdstip van de inwerkingtreding van deze wet wordt daarmede, behoudens in de in het derde lid genoemde artikelen en artikelleden en in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=125&z=2014-01-06&g=2014-01-06), bedoeld 1 januari 1966.
+5. Waar in deze wet sprake is van het tijdstip van de inwerkingtreding van deze wet wordt daarmede, behoudens in de in het derde lid genoemde artikelen en artikelleden en in [artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=19&artikel=125&z=2014-03-19&g=2014-03-19), bedoeld 1 januari 1966.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
 ##### Artikel 22c
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag.
 
@@ -2344,7 +2344,7 @@ De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf 
 
 - c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
 
-4. [Artikel 22a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22a&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing. [Artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22b&z=2014-01-06&g=2014-01-06) is niet van toepassing.
+4. [Artikel 22a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22a&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing. [Artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&paragraaf=2&artikel=22b&z=2014-03-19&g=2014-03-19) is niet van toepassing.
 
 ### Hoofdstuk 6. Verval van pensioen
 
@@ -2370,7 +2370,7 @@ De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf 
 
 ##### Artikel 67c
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 67](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag.
 
@@ -2384,7 +2384,7 @@ De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf 
 
 - c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
 
-4. [Artikel 67a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67a&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing. [Artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67b&z=2014-01-06&g=2014-01-06) is niet van toepassing.
+4. [Artikel 67a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67a&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing. [Artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&paragraaf=2&artikel=67b&z=2014-03-19&g=2014-03-19) is niet van toepassing.
 
 ### Hoofdstuk 13. Verval van pensioen
 
@@ -2468,7 +2468,7 @@ Vervallen
 
 ##### Artikel 145c
 
-1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-01-06&g=2014-01-06) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
+1. De nabestaande die recht heeft op nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en op 1 januari 1998 55 jaar of ouder is, heeft recht op een toeslag op zijn volgens [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145&z=2014-03-19&g=2014-03-19) berekende pensioen, indien dat is berekend of mede berekend over diensttijd na 31 december 1985, indien en voor zo lang hij recht heeft op een nabestaandenuitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), die krachtens [artikel 67, derde of negende lid van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de nabestaande vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon onafgebroken ongehuwd samenwoont.
 
 2. De toeslag bedraagt jaarlijks voor elk voor de berekening van het nabestaandenpensioen tellend jaar na 31 december 1985 2,5 procent van het verschil tussen 75 procent van het tot een jaarbedrag herleide bedrag van de nabestaandenuitkering en de vakantie-uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) zonder vermindering en het verminderde bedrag. De toeslag bedraagt niet meer dan 75 procent van het in de eerste volzin eerstbedoelde bedrag.
 
@@ -2482,7 +2482,7 @@ De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de vanaf 
 
 - c. met ingang van de eerste dag van de maand waarin de vermindering van de nabestaandenuitkering, bedoeld in het eerste lid, ongedaan wordt gemaakt.
 
-4. [Artikel 145a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145a&z=2014-01-06&g=2014-01-06), is van overeenkomstige toepassing. [Artikel 145b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145b&z=2014-01-06&g=2014-01-06) is niet van toepassing.
+4. [Artikel 145a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145a&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing. [Artikel 145b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&paragraaf=2&artikel=145b&z=2014-03-19&g=2014-03-19) is niet van toepassing.
 
 ### Hoofdstuk 22. Het eigen pensioen
 
@@ -2624,7 +2624,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 7a
 
-1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-01-06&g=2014-01-06), is verplicht:
+1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=6&z=2014-03-19&g=2014-03-19), is verplicht:
 
 - a. in voldoende mate te trachten passende arbeid te vinden;
 
@@ -2662,19 +2662,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 5. Dit artikel is niet van toepassing op de belanghebbende die:
 
-- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06), en daaruit inkomsten geniet ten bedrage van 70% of meer van de wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06);
+- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19), en daaruit inkomsten geniet ten bedrage van 70% of meer van de wedde, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19);
 
-- b. recht heeft op een voortgezette uitkering ingevolge [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-01-06&g=2014-01-06).
+- b. recht heeft op een voortgezette uitkering ingevolge [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8a&z=2014-03-19&g=2014-03-19).
 
 6. Dit artikel is niet van toepassing gedurende de eerste drie maanden na het aftreden van de belanghebbende.
 
 ##### Artikel 7b
 
-1. Onze Minister kan de belanghebbende, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-01-06&g=2014-01-06), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
+1. Onze Minister kan de belanghebbende, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-03-19&g=2014-03-19), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
 
 2. Onze Minister verstrekt de belanghebbende een tegemoetkoming in de kosten van planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid.
 
-3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als minister per jaar genoten wedde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-01-06&g=2014-01-06). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
+3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als minister per jaar genoten wedde, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=8&z=2014-03-19&g=2014-03-19). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
 
 4. Bij algemene maatregel van bestuur worden regels gesteld omtrent:
 
@@ -2686,7 +2686,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 7c
 
-1. Indien de belanghebbende een bij of krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-01-06&g=2014-01-06) of [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7b&z=2014-01-06&g=2014-01-06) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit Onze Minister tot gehele of gedeeltelijke inhouding van de uitkering. Onze Minister is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
+1. Indien de belanghebbende een bij of krachtens [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-03-19&g=2014-03-19) of [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7b&z=2014-03-19&g=2014-03-19) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit Onze Minister tot gehele of gedeeltelijke inhouding van de uitkering. Onze Minister is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitvoering van het eerste lid.
 
@@ -2708,9 +2708,9 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 36a. **(behoort bij hoofdstuk 3)**
 
-1. De [artikelen 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-01-06&g=2014-01-06), en [7a tot en met 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ter zake van een ontslag dat is ingegaan vóór 27 februari 2010.
+1. De [artikelen 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-03-19&g=2014-03-19), en [7a tot en met 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ter zake van een ontslag dat is ingegaan vóór 27 februari 2010.
 
-2. De [artikelen 7a tot en met 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ten aanzien van het eerste ontslag vanaf 27 februari 2010 van de betrokkene die:
+2. De [artikelen 7a tot en met 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ten aanzien van het eerste ontslag vanaf 27 februari 2010 van de betrokkene die:
 
 - a. het ambt van minister vervulde op die datum en
 
@@ -2788,7 +2788,7 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 ##### Artikel 132a
 
-1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-01-06&g=2014-01-06), is verplicht:
+1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=131&z=2014-03-19&g=2014-03-19), is verplicht:
 
 - a. in voldoende mate te trachten passende arbeid te vinden;
 
@@ -2826,19 +2826,19 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 5. Dit artikel is niet van toepassing op de belanghebbende die:
 
-- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06), en daaruit inkomsten geniet ten bedrage van 70% of meer van de wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06);
+- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19), en daaruit inkomsten geniet ten bedrage van 70% of meer van de wedde, bedoeld in [artikel 133](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19);
 
-- b. recht heeft op een voortgezette uitkering ingevolge [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-01-06&g=2014-01-06).
+- b. recht heeft op een voortgezette uitkering ingevolge [artikel 133a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133a&z=2014-03-19&g=2014-03-19).
 
 6. Dit artikel is niet van toepassing gedurende de eerste drie maanden na het aftreden van de belanghebbende.
 
 ##### Artikel 132b
 
-1. Gedeputeerde staten kunnen de belanghebbende, bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-01-06&g=2014-01-06), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
+1. Gedeputeerde staten kunnen de belanghebbende, bedoeld in [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-03-19&g=2014-03-19), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
 
 2. Gedeputeerde staten verstrekken de belanghebbende een tegemoetkoming in de kosten van planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid.
 
-3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als gedeputeerde per jaar genoten wedde, bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-01-06&g=2014-01-06). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
+3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als gedeputeerde per jaar genoten wedde, bedoeld in [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=133&z=2014-03-19&g=2014-03-19). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
 
 4. Bij algemene maatregel van bestuur worden regels gesteld omtrent:
 
@@ -2850,7 +2850,7 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 ##### Artikel 132c
 
-1. Indien de belanghebbende een bij of krachtens [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-01-06&g=2014-01-06) of [132b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132b&z=2014-01-06&g=2014-01-06) geregelde verplichting niet of niet behoorlijk is nagekomen, besluiten gedeputeerde staten tot gehele of gedeeltelijke inhouding van de uitkering. Gedeputeerde staten zijn bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
+1. Indien de belanghebbende een bij of krachtens [artikel 132a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-03-19&g=2014-03-19) of [132b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132b&z=2014-03-19&g=2014-03-19) geregelde verplichting niet of niet behoorlijk is nagekomen, besluiten gedeputeerde staten tot gehele of gedeeltelijke inhouding van de uitkering. Gedeputeerde staten zijn bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitvoering van het eerste lid.
 
@@ -2872,13 +2872,13 @@ Voor de toepassing van [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0002
 
 ##### Artikel 163a
 
-In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=20&artikel=130&z=2014-01-06&g=2014-01-06) is deze afdeling niet van toepassing op gewezen commissarissen van de Koning, gewezen burgemeesters en gewezen leden van het dagelijks bestuur van een waterschap die in de vervulling van dat ambt overheidswerknemer waren in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791), en wier ontslag of aftreden is ingegaan vóór de datum van inwerkingtreding van die bepaling.
+In afwijking van [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=20&artikel=130&z=2014-03-19&g=2014-03-19) is deze afdeling niet van toepassing op gewezen commissarissen van de Koning, gewezen burgemeesters en gewezen leden van het dagelijks bestuur van een waterschap die in de vervulling van dat ambt overheidswerknemer waren in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791), en wier ontslag of aftreden is ingegaan vóór de datum van inwerkingtreding van die bepaling.
 
-##### Artikel 163b. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-01-06&g=2014-01-06))
+##### Artikel 163b. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-03-19&g=2014-03-19))
 
-1. De [artikelen 132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), en [132a tot en met 132c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ter zake van een ontslag of aftreden dat is ingegaan vóór 27 februari 2010.
+1. De [artikelen 132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), en [132a tot en met 132c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ter zake van een ontslag of aftreden dat is ingegaan vóór 27 februari 2010.
 
-2. De [artikelen 132a tot en met 132c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ten aanzien van het eerste ontslag of aftreden vanaf 27 februari 2010 van de betrokkenen die:
+2. De [artikelen 132a tot en met 132c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ten aanzien van het eerste ontslag of aftreden vanaf 27 februari 2010 van de betrokkenen die:
 
 - a. op die datum was benoemd als lid van gedeputeerde staten, wethouder, of lid van het dagelijks bestuur van een deelgemeente,
 
@@ -2922,7 +2922,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 52a
 
-1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-01-06&g=2014-01-06), is verplicht:
+1. De belanghebbende die recht heeft op een uitkering als bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=51&z=2014-03-19&g=2014-03-19), is verplicht:
 
 - a. in voldoende mate te trachten passende arbeid te vinden;
 
@@ -2960,19 +2960,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 5. Dit artikel is niet van toepassing op de belanghebbende die:
 
-- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-01-06&g=2014-01-06), en daaruit inkomsten geniet ten bedrage van 70% of meer van de berekeningsgrondslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06);
+- a. een ambt heeft aanvaard als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Eerste&hoofdstuk=1&artikel=2&z=2014-03-19&g=2014-03-19), en daaruit inkomsten geniet ten bedrage van 70% of meer van de berekeningsgrondslag, bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19);
 
-- b. recht heeft op een voortgezette uitkering ingevolge [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-01-06&g=2014-01-06).
+- b. recht heeft op een voortgezette uitkering ingevolge [artikel 53a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53a&z=2014-03-19&g=2014-03-19).
 
 6. Dit artikel is niet van toepassing gedurende de eerste drie maanden na het aftreden van de belanghebbende.
 
 ##### Artikel 52b
 
-1. Onze Minister kan de belanghebbende, bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-01-06&g=2014-01-06), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
+1. Onze Minister kan de belanghebbende, bedoeld in [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-03-19&g=2014-03-19), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
 
 2. Onze Minister verstrekt de belanghebbende een tegemoetkoming in de kosten van planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid.
 
-3. De tegemoetkoming bedraagt ten hoogste 20% van de berekeningsgrondslag, bedoeld in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-01-06&g=2014-01-06). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
+3. De tegemoetkoming bedraagt ten hoogste 20% van de berekeningsgrondslag, bedoeld in [artikel 53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=53&z=2014-03-19&g=2014-03-19). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
 
 4. Bij algemene maatregel van bestuur worden regels gesteld omtrent:
 
@@ -2984,13 +2984,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 52c
 
-1. Indien de belanghebbende een bij of krachtens [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-01-06&g=2014-01-06) of [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52b&z=2014-01-06&g=2014-01-06) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit Onze Minister tot gehele of gedeeltelijke inhouding van de uitkering. Onze Minister is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
+1. Indien de belanghebbende een bij of krachtens [artikel 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-03-19&g=2014-03-19) of [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52b&z=2014-03-19&g=2014-03-19) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit Onze Minister tot gehele of gedeeltelijke inhouding van de uitkering. Onze Minister is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan belanghebbende op grond van deze wet.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitvoering van het eerste lid.
 
 ##### Artikel 52d
 
-De voordracht voor een krachtens de [artikelen 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-01-06&g=2014-01-06), [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52b&z=2014-01-06&g=2014-01-06) of [52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52c&z=2014-01-06&g=2014-01-06) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
+De voordracht voor een krachtens de [artikelen 52a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-03-19&g=2014-03-19), [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52b&z=2014-03-19&g=2014-03-19) of [52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52c&z=2014-03-19&g=2014-03-19) vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.
 
 #### Voortzetting van de uitkering bij invaliditeit
 
@@ -3006,11 +3006,11 @@ De voordracht voor een krachtens de [artikelen 52a](https://wetten.overheid.nl/j
 
 ### Hoofdstuk 15. Overgangsbepalingen
 
-##### Artikel 84a. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-01-06&g=2014-01-06))
+##### Artikel 84a. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-03-19&g=2014-03-19))
 
-1. De [artikelen 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ter zake van een aftreden dat is ingegaan vóór 24 maart 2010.
+1. De [artikelen 52, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19), en [52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ter zake van een aftreden dat is ingegaan vóór 24 maart 2010.
 
-2. De [artikelen 52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-01-06&g=2014-01-06) zijn niet van toepassing ten aanzien van het eerste aftreden vanaf 24 maart 2010 van de betrokkene die:
+2. De [artikelen 52a tot en met 52c](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52a&z=2014-03-19&g=2014-03-19) zijn niet van toepassing ten aanzien van het eerste aftreden vanaf 24 maart 2010 van de betrokkene die:
 
 - a. lid was van de Tweede Kamer op die datum en
 
@@ -3094,15 +3094,15 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - d. gedeputeerde staten: Onze Minister.
 
-2. Voor zover het de Rijksvertegenwoordiger betreft, kunnen Wij in bijzondere gevallen, de Raad van State gehoord, in afwijking van [artikel 132, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-01-06&g=2014-01-06) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
+2. Voor zover het de Rijksvertegenwoordiger betreft, kunnen Wij in bijzondere gevallen, de Raad van State gehoord, in afwijking van [artikel 132, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), bepalen, dat de uitkering wordt voortgezet voor een, met inachtneming van [artikel 136](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=136&z=2014-03-19&g=2014-03-19) vast te stellen termijn, die op dezelfde wijze kan worden verlengd.
 
-3. Voor de toepassing van [artikel 137a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=137a&z=2014-01-06&g=2014-01-06) wordt gelezen voor:
+3. Voor de toepassing van [artikel 137a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=137a&z=2014-03-19&g=2014-03-19) wordt gelezen voor:
 
 - a. [artikel 76, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=76): [artikel 200, eerste lid, Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200);
 
 - b. commissaris van de Koning: Rijksvertegenwoordiger.
 
-4. In afwijking van [artikel 152, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=24&artikel=152&z=2014-01-06&g=2014-01-06), kunnen Wij, de Raad van State gehoord, een door of als gevolg van de toepassing van artikel 152, eerste lid, vervallen recht op pensioen herstellen.
+4. In afwijking van [artikel 152, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=24&artikel=152&z=2014-03-19&g=2014-03-19), kunnen Wij, de Raad van State gehoord, een door of als gevolg van de toepassing van artikel 152, eerste lid, vervallen recht op pensioen herstellen.
 
 ### Hoofdstuk 21. De uitkering
 
@@ -3154,7 +3154,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13b. **Een dienstjaar**
 
-Ieder jaar dat de betrokkene als minister werkzaam is geweest, of in het genot is geweest van een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06), is voor hem een dienstjaar.
+Ieder jaar dat de betrokkene als minister werkzaam is geweest, of in het genot is geweest van een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19), is voor hem een dienstjaar.
 
 ### Hoofdstuk 5. Het nabestaanden- en wezenpensioen
 
@@ -3168,13 +3168,13 @@ Ieder jaar dat de betrokkene als minister werkzaam is geweest, of in het genot i
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-##### Artikel 40a. (behoort bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-01-06&g=2014-01-06))
+##### Artikel 40a. (behoort bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-03-19&g=2014-03-19))
 
-1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig de [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-01-06&g=2014-01-06) voor dienstjaren vanaf 1 januari 2014.
+1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig de [artikelen 13 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13&z=2014-03-19&g=2014-03-19) voor dienstjaren vanaf 1 januari 2014.
 
 2. Voor dienstjaren vóór 1 januari 2014 geschiedt de opbouw overeenkomstig de regels zoals die golden op de dag voorafgaand aan de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
-3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-01-06&g=2014-01-06), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn ontslagen. Daarbij wordt de laatstelijk genoten wedde niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
+3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-03-19&g=2014-03-19), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn ontslagen. Daarbij wordt de laatstelijk genoten wedde niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot en met derde lid.
 
@@ -3196,13 +3196,13 @@ Vervallen
 
 ### Hoofdstuk 15. Overgangsbepalingen
 
-##### Artikel 85a. (behoort bij [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-01-06&g=2014-01-06))
+##### Artikel 85a. (behoort bij [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-03-19&g=2014-03-19))
 
-1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-01-06&g=2014-01-06) voor dienstjaren vanaf 1 januari 2014.
+1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-03-19&g=2014-03-19) voor dienstjaren vanaf 1 januari 2014.
 
 2. Voor dienstjaren vóór 1 januari 2014 geschiedt de opbouw overeenkomstig de regels zoals die golden op de dag voorafgaand aan de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
-3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-01-06&g=2014-01-06), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn afgetreden. Daarbij wordt de berekeningsgrondslag niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
+3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-03-19&g=2014-03-19), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn afgetreden. Daarbij wordt de berekeningsgrondslag niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot en met derde lid.
 
@@ -3238,7 +3238,15 @@ Vervallen
 
 ##### Artikel 163c
 
-Vervallen
+1. Deze afdeling is van overeenkomstige toepassing op leden van het dagelijks bestuur van een deelgemeente in de zin van hoofdstuk V, paragraaf 2, van de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416), zoals deze paragraaf luidde op de dag voorafgaand aan de datum van de verkiezing van de gemeenteraden in 2014, met dien verstande dat gelezen wordt voor:
+
+- a. lid van gedeputeerde staten: lid van het dagelijks bestuur van een deelgemeente;
+
+- b. provincie: gemeente;
+
+- c. provinciale staten: de raad;
+
+- d. gedeputeerde staten: college van burgemeester en wethouders.
 
 ##### Artikel 163d
 
@@ -3256,7 +3264,7 @@ Ten aanzien van leden van het dagelijks bestuur van een waterschap die na de wat
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 39a. (behoort bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06))
+##### Artikel 39a. (behoort bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19))
 
 Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0031991), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.
 
@@ -3274,7 +3282,7 @@ Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag vóó
 
 ### Hoofdstuk 13. Verval van pensioen
 
-##### Artikel 84b. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-01-06&g=2014-01-06))
+##### Artikel 84b. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-03-19&g=2014-03-19))
 
 Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0031991), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.
 
@@ -3300,7 +3308,7 @@ Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag of af
 
 ### Hoofdstuk 29. Overgangsbepalingen
 
-##### Artikel 163e. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-01-06&g=2014-01-06))
+##### Artikel 163e. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-03-19&g=2014-03-19))
 
 Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0031991), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.
 
@@ -3312,13 +3320,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13c. **Het opbouwpercentage**
 
-1. Het opbouwpercentage, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13a&z=2014-01-06&g=2014-01-06), dat voor enig dienstjaar wordt gehanteerd, is het percentage dat voor dat dienstjaar voor de opbouw van het ouderdomspensioen van overheidswerknemers wordt gehanteerd.
+1. Het opbouwpercentage, bedoeld in [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13a&z=2014-03-19&g=2014-03-19), dat voor enig dienstjaar wordt gehanteerd, is het percentage dat voor dat dienstjaar voor de opbouw van het ouderdomspensioen van overheidswerknemers wordt gehanteerd.
 
-2. Gedurende de jaren dat langer dan drie jaren en twee maanden een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06) wordt genoten, is het opbouwpercentage de helft van het in het eerste lid bedoelde percentage.
+2. Gedurende de jaren dat langer dan drie jaren en twee maanden een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19) wordt genoten, is het opbouwpercentage de helft van het in het eerste lid bedoelde percentage.
 
 3. In afwijking van het tweede lid wordt het opbouwpercentage niet gehalveerd gedurende de tijd dat de betrokkene voor 55 procent of meer algemeen invalide is.
 
-4. Gedurende de tijd waarin de uitkering is verminderd vanwege inkomsten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-01-06&g=2014-01-06), wordt het met toepassing van het eerste tot en met derde lid gevonden opbouwpercentage vermenigvuldigd met een factor die gelijk is aan de verminderde uitkering gedeeld door de uitkering zonder vermindering.
+4. Gedurende de tijd waarin de uitkering is verminderd vanwege inkomsten als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=9&z=2014-03-19&g=2014-03-19), wordt het met toepassing van het eerste tot en met derde lid gevonden opbouwpercentage vermenigvuldigd met een factor die gelijk is aan de verminderde uitkering gedeeld door de uitkering zonder vermindering.
 
 5. Het opbouwpercentage is nul indien de betrokkene daarom verzoekt.
 
@@ -3326,7 +3334,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 1. De pensioengrondslag is gebaseerd op de in het dienstjaar als minister genoten wedde, waaronder begrepen vakantie-uitkering en eindejaarsuitkering, verminderd met een franchise in verband met het op grond van [artikel 18a, achtste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in aanmerking te nemen bedrag ter zake van uitkeringen op grond van de Algemene Ouderdomswet.
 
-2. Voor zover de betrokkene in het dienstjaar in het genot is van een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06), is het eerste lid van overeenkomstige toepassing, met dien verstande dat de pensioengrondslag wordt gebaseerd op de laatstelijk voor het ontslag als minister genoten wedde. De wedde wordt geïndexeerd op een wijze die aansluit bij de overeenkomstige indexering die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
+2. Voor zover de betrokkene in het dienstjaar in het genot is van een uitkering als bedoeld in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19), is het eerste lid van overeenkomstige toepassing, met dien verstande dat de pensioengrondslag wordt gebaseerd op de laatstelijk voor het ontslag als minister genoten wedde. De wedde wordt geïndexeerd op een wijze die aansluit bij de overeenkomstige indexering die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
 
 ##### Artikel 13e. **Het pensioen**
 
@@ -3340,7 +3348,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13f. **Verhoging eigen pensioen door omzetting van nabestaandenpensioen**
 
-1. Een minister of gewezen minister kan bij de ingang van het pensioen de opgebouwde aanspraken op nabestaandenpensioen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&z=2014-01-06&g=2014-01-06), omzetten in aanspraken op ouderdomspensioen.
+1. Een minister of gewezen minister kan bij de ingang van het pensioen de opgebouwde aanspraken op nabestaandenpensioen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&z=2014-03-19&g=2014-03-19), omzetten in aanspraken op ouderdomspensioen.
 
 2. Met de keuze voor de omzetting vervalt de aanspraak op het nabestaandenpensioen. De keuze is onherroepelijk.
 
@@ -3350,13 +3358,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 13g. **Verlaging eigen pensioen door omzetting in nabestaandenpensioen**
 
-1. Een gewezen minister kan na afloop van de uitkeringsduur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-01-06&g=2014-01-06), een deel van de opgebouwde aanspraken op eigen pensioen, omzetten in een aanspraak op nabestaandenpensioen bij overlijden voor het bereiken van de pensioengerechtigde leeftijd.
+1. Een gewezen minister kan na afloop van de uitkeringsduur, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-03-19&g=2014-03-19), een deel van de opgebouwde aanspraken op eigen pensioen, omzetten in een aanspraak op nabestaandenpensioen bij overlijden voor het bereiken van de pensioengerechtigde leeftijd.
 
 2. Onze Minister doet binnen vier maanden voor de afloop van de uitkering mededeling van deze omzettingsmogelijkheid. De gewezen minister maakt zijn keuze voor een omzetting binnen zes weken na de mededeling schriftelijk aan Onze Minister kenbaar. Tot het einde van die termijn verkrijgt de gewezen minister een premievrije aanspraak op nabestaandenpensioen overeenkomstig de tijd tot het aftreden van de minister.
 
 3. De in het eerste lid bedoelde omzetting wordt gevolgd door een omzetting van de verkregen aanspraken op nabestaandenpensioen in een aanspraak op eigen pensioen indien:
 
-- a. de in het eerste lid bedoelde omzetting gevolgd wordt door een waardeoverdracht als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=107&z=2014-01-06&g=2014-01-06);
+- a. de in het eerste lid bedoelde omzetting gevolgd wordt door een waardeoverdracht als bedoeld in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vierde&hoofdstuk=18&paragraaf=1&artikel=107&z=2014-03-19&g=2014-03-19);
 
 - b. de gewezen minister opnieuw minister wordt;
 
@@ -3396,21 +3404,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-##### Artikel 39b. (behoort bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06))
+##### Artikel 39b. (behoort bij [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19))
 
 1. Uitkeringen ter zake van een ontslag vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) worden verstrekt overeenkomstig de regels zoals die golden op de dag voorafgaand aan dat tijdstip.
 
-2. De uitkering van een betrokkene ter zake van een ontslag vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-01-06&g=2014-01-06).
+2. De uitkering van een betrokkene ter zake van een ontslag vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&artikel=7&z=2014-03-19&g=2014-03-19).
 
-##### Artikel 40b. (behoort bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-01-06&g=2014-01-06))
+##### Artikel 40b. (behoort bij [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&z=2014-03-19&g=2014-03-19))
 
-1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-01-06&g=2014-01-06) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
+1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-03-19&g=2014-03-19) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
 2. Bij de toepassing kunnen tevens de pensioenaanspraken worden verlaagd die zijn opgebouwd vóór de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719). De verlaging kan eveneens betrekking hebben op de pensioenen die zijn gebaseerd op pensioenaanspraken die zijn opgebouwd vóór die inwerkingtreding.
 
 3. De toepassing vindt plaats ter zake van een verlaging door het pensioenfonds ABP vanaf 1 januari 2013.
 
-##### Artikel 45a. (behoort bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&z=2014-01-06&g=2014-01-06))
+##### Artikel 45a. (behoort bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=5&z=2014-03-19&g=2014-03-19))
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent de bepaling van het nabestaandenpensioen, het bijzonder nabestaandenpensioen, het wezenpensioen en het tijdelijk pensioen in verband met de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
@@ -3440,7 +3448,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk 15. Overgangsbepalingen
 
-##### Artikel 84c. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-01-06&g=2014-01-06))
+##### Artikel 84c. (behoort bij [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-03-19&g=2014-03-19))
 
 1. De uitkering van een betrokkene wordt voortgezet tot zijn pensioengerechtigde leeftijd indien hij:
 
@@ -3450,21 +3458,21 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - c. bij de herbenoeming ten minste 50 jaar oud was en
 
-- d. voldoet aan de in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06), bedoelde eisen ten aanzien van de diensttijd.
+- d. voldoet aan de in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19), bedoelde eisen ten aanzien van de diensttijd.
 
 2. Uitkeringen ter zake van een aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) worden verstrekt overeenkomstig de regels zoals die golden op de dag voorafgaand aan dat tijdstip.
 
-3. De uitkering van een betrokkene ter zake van een aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-01-06&g=2014-01-06).
+3. De uitkering van een betrokkene ter zake van een aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&artikel=52&z=2014-03-19&g=2014-03-19).
 
-##### Artikel 85b. (behoort bij [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-01-06&g=2014-01-06))
+##### Artikel 85b. (behoort bij [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&z=2014-03-19&g=2014-03-19))
 
-1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-01-06&g=2014-01-06) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
+1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=11&artikel=58&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-03-19&g=2014-03-19) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
 2. Bij de toepassing kunnen tevens de pensioenaanspraken worden verlaagd die zijn opgebouwd vóór de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719). De verlaging kan eveneens betrekking hebben op de pensioenen die zijn gebaseerd op pensioenaanspraken die zijn opgebouwd vóór die inwerkingtreding.
 
 3. De toepassing vindt plaats ter zake van een verlaging door het pensioenfonds ABP vanaf 1 januari 2013.
 
-##### Artikel 90a. (behoort bij [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&z=2014-01-06&g=2014-01-06))
+##### Artikel 90a. (behoort bij [hoofdstuk 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=12&z=2014-03-19&g=2014-03-19))
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent de bepaling van het nabestaandenpensioen, het bijzonder nabestaandenpensioen, het wezenpensioen en het tijdelijk pensioen in verband met de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
@@ -3506,13 +3514,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 158a
 
-De rijksbelastingdienst verstrekt Onze Minister de benodigde gegevens ten behoeve van de verrekening van een belanghebbende van inkomsten met een uitkering als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-01-06&g=2014-01-06), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-01-06&g=2014-01-06) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-01-06&g=2014-01-06).
+De rijksbelastingdienst verstrekt Onze Minister de benodigde gegevens ten behoeve van de verrekening van een belanghebbende van inkomsten met een uitkering als bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=3&z=2014-03-19&g=2014-03-19), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Derde&hoofdstuk=10&z=2014-03-19&g=2014-03-19) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-03-19&g=2014-03-19).
 
 ### Hoofdstuk 28. Algemene bepalingen
 
 ### Hoofdstuk 29. Overgangsbepalingen
 
-##### Artikel 163ca. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-01-06&g=2014-01-06))
+##### Artikel 163ca. (behoort bij [hoofdstuk 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&z=2014-03-19&g=2014-03-19))
 
 1. De uitkering van een betrokkene wordt voortgezet tot zijn pensioengerechtigde leeftijd indien hij:
 
@@ -3522,7 +3530,7 @@ De rijksbelastingdienst verstrekt Onze Minister de benodigde gegevens ten behoev
 
 - c. bij zijn herbenoeming ten minste 50 jaar oud was en
 
-- d. voldoet aan de in [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), bedoelde eisen ten aanzien van de diensttijd.
+- d. voldoet aan de in [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), bedoelde eisen ten aanzien van de diensttijd.
 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van een lid van het dagelijks bestuur van een waterschap dat geen overheidswerknemer in de zin van de [Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791) is, met dien verstande dat het betreft de eerstvolgende verkiezingen voor het algemeen bestuur van het waterschap na 27 februari 2010.
 
@@ -3532,31 +3540,31 @@ De rijksbelastingdienst verstrekt Onze Minister de benodigde gegevens ten behoev
 
 - b. onmiddellijk na de eerstvolgende verkiezingen voor het algemeen bestuur van het waterschap na 27 februari 2010 niet is herbenoemd en
 
-- c. voldoet aan de in [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06), bedoelde eisen ten aanzien van de diensttijd.
+- c. voldoet aan de in [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19), bedoelde eisen ten aanzien van de diensttijd.
 
 4. Uitkeringen ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) worden verstrekt overeenkomstig de regels zoals die golden op de dag voorafgaand aan dat tijdstip.
 
-5. De uitkering van een betrokkene ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-01-06&g=2014-01-06).
+5. De uitkering van een betrokkene ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719) wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=21&artikel=132&z=2014-03-19&g=2014-03-19).
 
-##### Artikel 163f. (behoort bij [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-01-06&g=2014-01-06))
+##### Artikel 163f. (behoort bij [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-03-19&g=2014-03-19))
 
-1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-01-06&g=2014-01-06) voor dienstjaren vanaf 1 januari 2014.
+1. De opbouw van aanspraken op het eigen pensioen geschiedt overeenkomstig [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-03-19&g=2014-03-19) voor dienstjaren vanaf 1 januari 2014.
 
 2. Voor dienstjaren vóór 1 januari 2014 geschiedt de opbouw overeenkomstig de regels zoals die golden op de dag voorafgaand aan de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
-3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-01-06&g=2014-01-06), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn afgetreden. Daarbij wordt de wedde niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
+3. Indien de betrokkene op 31 december 2013 pensioen opbouwt op grond van [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-03-19&g=2014-03-19), wordt de in het tweede lid bedoelde opbouw vastgesteld met als pensioengrondslag de grondslag die zou gelden als hij met ingang van 1 januari 2014 zou zijn afgetreden. Daarbij wordt de wedde niet aangepast. De opgebouwde aanspraak wordt vervolgens geïndexeerd op een wijze die aansluit bij de indexering van de opbouw die wordt gehanteerd ten aanzien van het ouderdomspensioen van overheidswerknemers.
 
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot en met derde lid.
 
-##### Artikel 163g. (behoort bij [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-01-06&g=2014-01-06))
+##### Artikel 163g. (behoort bij [hoofdstuk 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&z=2014-03-19&g=2014-03-19))
 
-1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-01-06&g=2014-01-06) in samenhang met [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-01-06&g=2014-01-06) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
+1. Pensioenaanspraken en pensioenen kunnen met toepassing van [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=22&artikel=138&z=2014-03-19&g=2014-03-19) in samenhang met [artikel 13h](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Tweede&hoofdstuk=4&artikel=13h&z=2014-03-19&g=2014-03-19) worden verlaagd vanaf de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
 2. Bij de toepassing kunnen tevens de pensioenaanspraken worden verlaagd die zijn opgebouwd vóór de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719). De verlaging kan eveneens betrekking hebben op de pensioenen die zijn gebaseerd op pensioenaanspraken die zijn opgebouwd vóór die inwerkingtreding.
 
 3. De toepassing vindt plaats ter zake van een verlaging door het pensioenfonds ABP vanaf 1 januari 2013.
 
-##### Artikel 163h. (behoort bij [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&z=2014-01-06&g=2014-01-06))
+##### Artikel 163h. (behoort bij [hoofdstuk 23](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&afdeling=Vijfde&hoofdstuk=23&z=2014-03-19&g=2014-03-19))
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent de bepaling van het nabestaandenpensioen, het bijzonder nabestaandenpensioen, het wezenpensioen en het tijdelijk pensioen in verband met de inwerkingtreding van de [Wet aanpassing pensioenleeftijd Appa](https://wetten.overheid.nl/jci1.3:c:BWBR0033719).
 
