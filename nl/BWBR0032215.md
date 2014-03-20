@@ -4,7 +4,7 @@ identifier: "BWBR0032215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-19"
-last_updated: "2013-01-01"
+last_updated: "2014-03-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032215"
 soort: "ministeriele-regeling"
@@ -64,9 +64,9 @@ Besluit:
 
 - f. Berekening van de relatieve energiezuinigheid: Relatieve energiezuinigheid = [CO2-uitstoot - CO2-uitstootref.]/ CO2-uitstootref. x 100%
 
-3. Voor het bepalen van de energie-efficiëntieklasse voor personenauto’s waarvoor de test als bedoeld in [Richtlijn 80/1268/EG](31980L1268) (mede) met LPG, aardgas of E-85 als brandstof is uitgevoerd, wordt de CO2-uitstoot van de auto met respectievelijk LPG, aardgas en E-85 als brandstof gehanteerd. Hierbij wordt voor deze auto’s daar waar sprake is van de referentie CO2-uitstoot (CO2-uitstootref.) uitgegaan van de referentiewaarden voor auto’s met benzine als brandstof.
+3. Voor het bepalen van de energie-efficiëntieklasse voor personenauto’s waarvoor de test als bedoeld in Verordening (EG) 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG 2008, L 199) (mede) met LPG, aardgas of E-85 als brandstof is uitgevoerd, wordt de CO2-uitstoot van de auto met respectievelijk LPG, aardgas en E-85 als brandstof gehanteerd. Hierbij wordt voor deze auto’s daar waar sprake is van de referentie CO2-uitstoot (CO2-uitstootref.) uitgegaan van de referentiewaarden voor auto’s met benzine als brandstof.
 
-4. Personenauto's met een achteraf ingebouwde LPG- of aardgas installatie hebben de test van [richtlijn 80/1268/EEG](31980L1268) met benzine als brandstof ondergaan en worden beschouwd als personenauto's met benzine als brandstof.
+4. Personenauto's met een achteraf ingebouwde LPG- of aardgas installatie hebben de test van Verordening (EG) 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEG 2008, L 199) met benzine als brandstof ondergaan en worden beschouwd als personenauto's met benzine als brandstof.
 
 5. De bij toepassing van de formules in te vullen lengte is de voor de variant waartoe de personenauto behoort, laagste lengtewaarde die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046). Indien de variant waartoe de personenauto behoort uitvoeringen met verschillende wielbases kent, dan wordt per wielbasisversie de laagste lengtewaarde van de desbetreffende uitvoeringen genomen die is vermeld in de aan het EG-typegoedkeuringscertificaat gehechte bijlage I bij [richtlijn 2007/46/EG](32007L0046).
 
@@ -78,7 +78,7 @@ Besluit:
 
 1. De constanten, bedoeld in [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8), C1, lengte, C2, lengte, C3, lengte, C1, benzine, C2, benzine, C3, benzine, C1, diesel, C2, diesel en C3, dieselworden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Hierbij wordt het aantal verkochte auto’s van elke uitvoering in rekening gebracht. Varianten van voertuigtypen met een lengte x breedte groter dan 11 m2 worden bij de berekening van deze constanten buiten beschouwing gelaten.
 
-2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2013-01-01&g=2013-01-01) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
+2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2014-03-20&g=2014-03-20) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
 
 3. De constanten en waarden worden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in de twee kalenderjaren voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.
 
