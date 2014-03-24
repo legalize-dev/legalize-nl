@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2014-01-01"
+last_updated: "2014-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -47,7 +47,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
@@ -192,11 +192,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVII. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen in de wetgeving op het terrein van het Ministerie van Sociale Zaken en Werkgelegenheid aan te brengen;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
