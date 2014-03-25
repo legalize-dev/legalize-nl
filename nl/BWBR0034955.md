@@ -1,0 +1,143 @@
+---
+title: "Regeling van de Minister van Buitenlandse Zaken van 19 maart 2014, nr. MinBuZa.2014.119597, houdende beperkende maatregelen in verband met acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Sanctieregeling territoriale integriteit Oekraïne 2014)"
+identifier: "BWBR0034955"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-05"
+last_updated: "2014-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034955"
+soort: "ministeriele-regeling"
+stam_id: "12615743"
+version_id: "30263252"
+internal_id: "C43344281"
+label_id: "12586124"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034955/2026-03-05/0"
+intitule_bron: "Stcrt.2014-8792"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-19"
+intitule_published: "2014-03-24"
+intitule_in_force: "2014-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-23642"
+original_signed_date: "2024-07-15"
+original_published_date: "2024-07-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-23642"
+entry_into_force_date: "2024-07-15"
+jci_1_3: "jci1.3:c:BWBR0034955&z=2026-03-05&g=2026-03-05"
+jci_1_0: "1.0:c:BWBR0034955&g=2026-03-05"
+citeertitel_status: "officieel"
+short_title: "Sanctieregeling territoriale integriteit Oekraïne 2014"
+signed_date: "2024-07-15"
+entry_into_force: "2024-07-15"
+---
+# Regeling van de Minister van Buitenlandse Zaken van 19 maart 2014, nr. MinBuZa.2014.119597, houdende beperkende maatregelen in verband met acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Sanctieregeling territoriale integriteit Oekraïne 2014)
+
+Handelende in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Financiën;
+
+Gelet op [Verordening 269/2014](32014R0269) van de Raad van de Europese Unie van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Pb 2014, L78);
+
+Gelet op Besluit 2014/145/GBVB van de Raad van de Europese Unie van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Pb 2014, L78);
+
+Gelet op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), en [artikel 3 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=3);
+
+Besluit:
+
+##### Artikel 1
+
+1. Het is verboden te handelen in strijd met artikel 2, artikel 8, eerste lid, en artikel 9 van [Verordening 269/2014](32014R0269) van de Raad van de Europese Unie van 17 maart 2014 betreffende beperkende maatregelen met betrekking tot acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Pb 2014, L78).
+
+2. Het verbod te handelen in strijd met artikel 2 van [Verordening 269/2014](32014R0269), geldt niet in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, of artikel 7 van [Verordening 269/2014](32014R0269) van toepassing is.
+
+##### Artikel 2
+
+1. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister van Financiën voor zover het betreft de vrijgave of beschikbaarstelling van tegoeden of informatie van financiële aard.
+
+2. De bevoegde autoriteit, bedoeld in artikel 4, eerste lid, artikel 5, eerste lid, artikel 6, eerste lid, en artikel 8, eerste lid, van [Verordening 269/2014](32014R0269) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave of beschikbaarstelling van economische middelen of informatie anders dan van financiële aard.
+
+##### Artikel 3
+
+Deze regeling wordt aangehaald als: Sanctieregeling territoriale integriteit Oekraïne 2014.
+
+##### Artikel 4
+
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+1. Het is verboden te handelen in strijd met artikel 2, artikel 3, artikel 4, artikel 5 en artikel 12 van Verordening (EU) nr. 833/2014 van de Raad van de Europese Unie van 31 juli 2014 betreffende beperkende maatregelen naar aanleiding van de acties van Rusland die de situatie in Oekraïne destabiliseren (Pb L 229).
+
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 2, tweede lid, tweede volzin, artikel 3, vijfde lid, tweede volzin, artikel 4, vierde lid jo artikel 3, vijfde lid, tweede volzin, van Verordening (EU) nr. 833/2014 van toepassing is.
+
+##### Artikel 1b
+
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen, dan wel door of uit te voeren naar personen of entiteiten in Rusland, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
+
+2. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect in te voeren, te kopen, te vervoeren, over te dragen of geleverd te krijgen van natuurlijke personen of rechtspersonen uit de Russische Federatie.
+
+3. Een verbod, bedoeld in het eerste of tweede lid, is niet van toepassing in geval het de uitvoering betreft van een van vóór 1 augustus 2014 gesloten contract of overeenkomst en het de levering van reserveonderdelen en de verstrekking van diensten voor de instandhouding en veiligheid van binnen de Unie bestaande capaciteiten onverlet laat.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1c
+
+Het verbod tot overtreding van artikel 4, eerste lid, onder a en b, tweede lid en de leden 2bis, 2bisbis en 2ter, van Verordening (EU) nr. 833/2014, op grond van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1a&z=2018-08-30&g=2018-08-30) strekt zich tevens uit tot het verlenen van tussenhandeldiensten met betrekking tot goederen en technologie vermeld in de gemeenschappelijke lijst van militaire goederen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2b
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 2c
+
+Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2d
+
+1. De Kamer van Koophandel is bevoegd om bij in het handelsregister ingeschreven onderneming of rechtspersoon een aantekening op te nemen van een relatie die bestaat tussen:
+
+- a. enig in het handelsregister opgenomen gegeven over die onderneming of rechtspersoon dat wordt genoemd in de [artikelen 9 tot en met 15a van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=9), of andere gegevens krachtens [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=17), en
+
+- b. natuurlijke personen of rechtspersonen, entiteiten of lichamen, of met hen verbonden natuurlijke personen of rechtspersonen, entiteiten of lichamen, bedoeld in artikel 2 van [Verordening (EU) nr. 269/2014](32014R0269).
+
+2. Een aantekening als bedoeld in het eerste lid, wordt in ieder geval in het handelsregister opgenomen, indien de Kamer van Koophandel informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
+
+3. De Kamer van Koophandel verwijdert op grond van informatie die hij ontvangt van een instantie als bedoeld in het tweede lid, een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
+
+##### Artikel 2e
+
+1. Het Octrooicentrum Nederland is bevoegd een aantekening op te nemen bij octrooien, aanvullende beschermingscertificaten en topografieën van halfgeleiderproducten onderscheidenlijk daartoe strekkende aanvragen, geregistreerd in het register als bedoeld in [artikel 19 van de Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118&artikel=19) of het register als bedoeld in [artikel 1, onder d, van de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224&artikel=1), indien er sprake is van een relatie tussen dat geregistreerd recht onderscheidenlijk die geregistreerde aanvraag en:
+
+- a. natuurlijke personen of rechtspersonen, entiteiten of lichamen, of met hen verbonden natuurlijke personen of rechtspersonen, entiteiten of lichamen, bedoeld in artikel 2 van Verordening (EU) nr. 269/2014, of
+
+- b. rechtspersonen, entiteiten of lichamen, bedoeld in artikel 5 bis bis van Verordening (EU) nr. 833/2014.
+
+2. Een aantekening als bedoeld in het eerste lid, wordt in het register opgenomen indien het Octrooicentrum Nederland op eigen gezag deze relatie constateert of informatie ontvangt van Nederlandse of buitenlandse overheidsinstanties dan wel van Nederlandse of buitenlandse van overheidswege aangewezen instanties die belast zijn met het toezicht op de naleving of met de uitvoering van de verdragen, besluiten, aanbevelingen en afspraken, bedoeld in [artikel 2 van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=2), die de relatie legt of bevestigt als bedoeld in het eerste lid.
+
+3. Het Octrooicentrum Nederland verwijdert een aantekening als bedoeld in het eerste lid, indien de relatie als bedoeld in het eerste lid, zich niet langer voordoet.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1d
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage. als bedoeld in [artikel 1d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034955&artikel=1d&z=2024-07-30&g=2024-07-30)
+
+Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
