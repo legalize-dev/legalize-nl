@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2014-03-08"
+last_updated: "2014-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -3003,27 +3003,27 @@ De Richtlijn langdurig ingezetenen geeft een vreemdeling uit een derde land en z
 
 In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
 
-De werkingssfeer van de Richtlijn 2003/109/EG van de Raad (hierna: de Richtlijn langdurig ingezetenen) is ingevolge de Richtlijn 2011/51/EU tot wijziging van Richtlijn langdurig ingezetenen uitgebreid tot vreemdelingen die internationale bescherming genieten. De termijn voor de implementatie van bedoelde uitbreiding verstrijkt op 20 mei 2013.
+Ten aanzien van Uganda geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 In het wetsvoorstel ter implementatie van de gewijzigde Richtlijn langdurig ingezetenen (Kamerstukken II, 33 581) is voorzien in de invoeging van een nieuwe [afdeling 5 in hoofdstuk 3 van de Vw2000](onbekend). Daarin worden bepalingen voorgesteld over de EU-verblijfsvergunning voor langdurig ingezetenen, die daarin wordt opgenomen als een Europese verblijfsvergunning, naast de bestaande verblijfsvergunningen regulier en asiel voor bepaalde dan wel onbepaalde tijd. In verband daarmee zal ook het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) worden aangepast. Deze wettelijke maatregelen kunnen echter niet al per 20 mei 2013, de uiterste datum van implementatie, in werking treden.
 
-Delen van de gewijzigde Richtlijn langdurig ingezetenen hebben naar hun aard al rechtstreekse werking, waardoor vreemdelingen zich daarop ingaande 21 mei 2013 kunnen beroepen.
+Geen bijzonderheden.
 
 Dit bijzondere beleid dient om aan de rechten van die vreemdelingen tegemoet te komen bij wijze van tijdelijke implementatie van de richtlijn, in afwachting van de inwerkingtreding van de voorgenomen wettelijke implementatiemaatregelen. Tijdelijk wil in dit geval ook zeggen in aanvulling op de implementatie die heeft plaatsgevonden per 1 december 2006.
 
 De beleidsregels in dit hoofdstuk zien daarom uitsluitend op de vreemdelingen die:
 
-De Richtlijn langdurig ingezetenen geeft een vreemdeling uit een derde land en zijn gezinsleden die minimaal gedurende vijf jaren ononderbroken legaal op het grondgebied van een EU-lidstaat hebben verbleven, onder voorwaarden aanspraak op toekenning van de status van EU-langdurig ingezetene. Met het verlenen van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen kunnen een vreemdeling uit een derde land en zijn gezinsleden gedurende maximaal drie maanden op het grondgebied van andere lidstaten verblijven. Deze vergunning biedt de vreemdeling en zijn gezinsleden de mogelijkheid om gedurende een periode van langer dan drie maanden in andere EU-lidstaten te verblijven en daartoe daar onder bepaalde voorwaarden een verblijfsvergunning te verkrijgen. Voor het verblijf in Nederland als tweede lidstaat, langer dan drie maanden maar nog geen vijf jaren, is dat een verblijfsvergunning regulier voor bepaalde tijd, waarop kan worden aangetekend welke lidstaat verantwoordelijk is voor de internationale bescherming.
+De IND beschouwt Uganda niet als land waarin sprake is van groepsvervolging.
 
-### 2.2. De algemene voorwaarden voor de verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+### 28.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-De IND maakt binnen zes maanden na ontvangst van de aanvraag tot het verlenen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen een besluit aan de vreemdeling bekend (ingevolge artikel 7, tweede lid, Richtlijn langdurig ingezetenen).
+De IND heeft met betrekking tot Uganda geen risicogroepen aangewezen.
 
 De IND mag de termijn voor het bekend maken van het besluit verlengen, indien er sprake is van bijzondere omstandigheden die verband houden met het complexe karakter van de behandeling van de aanvraag.
 
 ### 2.2.1. De aard van het verblijfsrecht
 
-Indien de vreemdeling niet voldoet aan de vereisten voor verlening van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen toetst de IND of de vreemdeling aan de bestaande voorwaarden voor de (nationale)verblijfsvergunning asiel voor onbepaalde tijd voldoet. Indien dat het geval is verleent de IND de verblijfsvergunning asiel voor onbepaalde tijd aan de vreemdeling.
+De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3 Vc – bij terugkeer wordt blootgesteld aan vervolging.
 
 ### 2.2.1. De aard van het verblijfsrecht
 
@@ -3039,47 +3039,47 @@ De IND mag de termijn voor het bekend maken van het besluit verlengen, indien er
 
 De IND verleent de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen met ingang van de datum waarop de vreemdeling heeft aangetoond dat hij aan alle voorwaarden voldoet, maar niet eerder dan met ingang van de datum waarop de IND de aanvraag heeft ontvangen.
 
-Indien de vreemdeling de aanvraag tot verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen dan wel de gegevens waaruit blijkt dat hij aan de voorwaarden voldoet, niet tijdig indient en de IND concludeert dat hem dit niet is toe te rekenen, verleent de IND de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen alsnog met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), afloopt.
+De IND heeft met betrekking tot Uganda geen kwetsbare minderheidsgroepen aangewezen.
 
-### 2.2.2. De duur van het ononderbroken verblijf in Nederland
+### 28.5. Bescherming
 
 De IND verstrekt het verblijfsdocument met daarop de aantekening ‘EU-langdurig ingezetene’ indien de vreemdeling voldoet aan de onder paragraaf 2.2 gestelde voorwaarden. De IND plaatst ook de aantekening ‘Internationale bescherming verleend op {datum} door Nederland’ op het verblijfsdocument, tenzij de grond voor het verlenen van de internationale bescherming, ingevolge de kwalificatierichtlijn, is vervallen (zie ook paragraaf 2.3).
 
-De vreemdeling moet ervoor zorgen dat het verblijfsdocument, waaruit het verblijfsrecht voor onbepaalde tijd blijkt, vijf jaar na de afgifte daarvan wordt vervangen door een nieuw verblijfsdocument.
+De IND acht het voor Ugandese LHBT’s niet mogelijk om bescherming te verkrijgen van de autoriteiten of internationale organisaties.
 
-### 2.2.2. De duur van het ononderbroken verblijf in Nederland
+### 28.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-In lijn met de bepaling voor de verlenging van de verblijfsvergunning asiel voor bepaalde tijd en de verlening van de verblijfsvergunning asiel voor onbepaalde tijd mag de vreemdeling, onder omstandigheden, op grond van [artikel 1a besluit uitvoering WAV](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1a) in afwachting van zijn aanvraag voor de **verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen** werken zonder dat er een TWV is vereist.
+De IND neemt ten aanzien van Ugandese LHBT’s geen vlucht- of vestigingsalternatief aan in Uganda.
 
-### 2.2. De algemene voorwaarden voor de verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De voorwaarden hebben betrekking op:
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
-De IND wijst de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling niet voldoet aan een of meerdere voorwaarden zoals die in de paragrafen 2.2.1 tot en met 2.2.9 staan beschreven.
+Voor Uganda geldt in ieder geval dat:
 
-### 2.2.1. De aard van het verblijfsrecht
+### 28.7. Vertrekmoratorium
 
-De IND wijst, ingevolge artikel 3, tweede lid, onder c en onder e, Richtlijn langdurig ingezetenen, de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen aan de vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd af, indien:
+Ten aanzien van Uganda geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 2.2.2. De duur van het ononderbroken verblijf in Nederland
+### 28.8. Bijzonderheden
 
-De IND wijst, ingevolge artikel 4 van de Richtlijn, de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling niet tenminste vijf jaar onmiddellijk voorafgaand aan de indiening van de aanvraag legaal en -in beginsel- ononderbroken in Nederland heeft verbleven (zie ook paragraaf 2.2.3).
+Geen bijzonderheden.
 
-### 2.2.9. Document voor grensoverschrijding
+### C8. De verblijfsvergunning asiel voor onbepaalde tijd met de aantekening ‘EU-langdurig ingezetene’ in de zin van Richtlijn 2011/51/EU (hierna: verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen)
 
 Deze factoren zijn verwerkt in de zogeheten glijdende schaal. Voor de beoordeling sluit de IND aan bij het gestelde in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [art 3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87).
 
-Het verblijf in Nederland van de vreemdeling moet in beginsel ononderbroken zijn om in aanmerking te kunnen komen voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen. De IND wijst de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU- langdurig ingezetenen niet af, indien:
+De werkingssfeer van de Richtlijn 2003/109/EG van de Raad (hierna: de Richtlijn langdurig ingezetenen) is ingevolge de Richtlijn 2011/51/EU tot wijziging van Richtlijn langdurig ingezetenen uitgebreid tot vreemdelingen die internationale bescherming genieten. De termijn voor de implementatie van bedoelde uitbreiding verstrijkt op 20 mei 2013.
 
 ### 2.2.4. Middelen van bestaan
 
 ### 2.2.7. Ziektekostenverzekering
 
-Voor het verkrijgen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen gelden geen vrijstellingen inzake het beschikken over voldoende middelen van bestaan.
+Dit bijzondere beleid dient om aan de rechten van die vreemdelingen tegemoet te komen bij wijze van tijdelijke implementatie van de richtlijn, in afwachting van de inwerkingtreding van de voorgenomen wettelijke implementatiemaatregelen. Tijdelijk wil in dit geval ook zeggen in aanvulling op de implementatie die heeft plaatsgevonden per 1 december 2006.
 
 ### 2.2.5. Openbare orde
 
-De IND wijst, ingevolge artikel 6, eerste lid, Richtlijn langdurig ingezetenen, de aanvraag voor de verblijfsvergunning voor onbepaalde tijd EU-langdurig ingezetenen af als de vreemdeling een gevaar voor de openbare orde vormt. Bij de beoordeling houdt de IND mede rekening met:
+De Richtlijn langdurig ingezetenen geeft een vreemdeling uit een derde land en zijn gezinsleden die minimaal gedurende vijf jaren ononderbroken legaal op het grondgebied van een EU-lidstaat hebben verbleven, onder voorwaarden aanspraak op toekenning van de status van EU-langdurig ingezetene. Met het verlenen van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen kunnen een vreemdeling uit een derde land en zijn gezinsleden gedurende maximaal drie maanden op het grondgebied van andere lidstaten verblijven. Deze vergunning biedt de vreemdeling en zijn gezinsleden de mogelijkheid om gedurende een periode van langer dan drie maanden in andere EU-lidstaten te verblijven en daartoe daar onder bepaalde voorwaarden een verblijfsvergunning te verkrijgen. Voor het verblijf in Nederland als tweede lidstaat, langer dan drie maanden maar nog geen vijf jaren, is dat een verblijfsvergunning regulier voor bepaalde tijd, waarop kan worden aangetekend welke lidstaat verantwoordelijk is voor de internationale bescherming.
 
 ### 2.3. De grond voor internationale bescherming is vervallen
 
@@ -3089,57 +3089,57 @@ De IND wijst, ingevolge artikel 6, eerste lid van de Richtlijn langdurig ingezet
 
 ### 2.2.7. Ziektekostenverzekering
 
-De vreemdeling moet, ingevolge artikel 5, eerste lid, onder b, Richtlijn langdurig ingezetenen, om in aanmerking te kunnen komen voor de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen beschikken over een ziektekostenverzekering.
+Indien de vreemdeling niet voldoet aan de vereisten voor verlening van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen toetst de IND of de vreemdeling aan de bestaande voorwaarden voor de (nationale)verblijfsvergunning asiel voor onbepaalde tijd voldoet. Indien dat het geval is verleent de IND de verblijfsvergunning asiel voor onbepaalde tijd aan de vreemdeling.
 
 ### 3.1.3. Openbare orde en nationale veiligheid
 
-De IND mag, ingevolge artikel 9, eerste lid onder b, juncto artikel 12, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de vreemdeling een actuele en (voldoende) ernstige bedreiging voor de openbare orde of nationale veiligheid vormt. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.3](onbekend).
+De IND beoordeelt conform de beleidsregels van paragraaf Vc C5/2 of de vreemdeling de aanvraag op het juiste moment heeft ingediend.
 
-De IND wijst, ingevolge artikel 5, tweede lid van de Richtlijn langdurig ingezetenen de aanvraag tot het verlenen van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet Inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), niet heeft behaald.
+De vreemdeling maakt voor het indienen van de aanvraag gebruik van het aanvraagformulier ‘Aanvraag Verlenging verblijfsvergunning asiel bepaalde tijd; of Verblijfsvergunning asiel onbepaalde tijd; of EU-verblijfsvergunning voor langdurig ingezetenen’.
 
 ### 2.2.9. Document voor grensoverschrijding
 
-De IND wijst de aanvraag af indien de vreemdeling niet in het bezit is van een geldig document voor grensoverschrijding.
+De IND mag de termijn voor het bekend maken van het besluit verlengen, indien er sprake is van bijzondere omstandigheden die verband houden met het complexe karakter van de behandeling van de aanvraag.
 
 ### 2.3. De grond voor internationale bescherming is vervallen
 
-Indien de vreemdeling, die in het bezit is van de verblijfsvergunning asiel voor bepaalde tijd, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen aanvraagt, beoordeelt de IND of de vreemdeling nog internationale bescherming behoeft. Indien de IND de bescherming intrekt, beëindigt of niet verlengt overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de Kwalificatierichtlijn, verleent de IND, ingevolge artikel 4, eerste lid bis, Richtlijn langdurig ingezetenen, niet de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen met de aantekening ‘internationale bescherming verleend op {datum} door Nederland’.
+De IND verleent de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen met ingang van de datum waarop de vreemdeling heeft aangetoond dat hij aan alle voorwaarden voldoet, maar niet eerder dan met ingang van de datum waarop de IND de aanvraag heeft ontvangen.
 
-Indien de vreemdeling wel voldoet aan de overige voorwaarden verleent de IND een verblijfsvergunning regulier voor onbepaalde tijd met de aantekening EU-langdurig ingezetene.
+Indien de vreemdeling de aanvraag tot verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen dan wel de gegevens waaruit blijkt dat hij aan de voorwaarden voldoet, niet tijdig indient en de IND concludeert dat hem dit niet is toe te rekenen, verleent de IND de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen alsnog met ingang van de dag na die waarop de geldigheidsduur van de verblijfsvergunning, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), afloopt.
 
 ### 3. Intrekken verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
 
-De IND mag, ingevolge artikel 9, derde lid bis, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de internationale bescherming is ingetrokken of indien is geweigerd deze te verlengen, overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de kwalificatierichtlijn.
+De IND verstrekt het verblijfsdocument met daarop de aantekening ‘EU-langdurig ingezetene’ indien de vreemdeling voldoet aan de onder paragraaf 2.2 gestelde voorwaarden. De IND plaatst ook de aantekening ‘Internationale bescherming verleend op {datum} door Nederland’ op het verblijfsdocument, tenzij de grond voor het verlenen van de internationale bescherming, ingevolge de kwalificatierichtlijn, is vervallen (zie ook paragraaf 2.3).
 
-De IND trekt de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen ingevolge artikel 9 van de Richtlijn in indien één of meerdere van de volgende redenen op de zaak van de vreemdeling van toepassing zijn:
+De vreemdeling moet ervoor zorgen dat het verblijfsdocument, waaruit het verblijfsrecht voor onbepaalde tijd blijkt, vijf jaar na de afgifte daarvan wordt vervangen door een nieuw verblijfsdocument.
 
 ### 3.1.1. Frauduleuze verkrijging
 
-De IND trekt, ingevolge artikel 9, eerste lid onder a, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vergunning op frauduleuze wijze is verkregen. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.2](onbekend).
+In lijn met de bepaling voor de verlenging van de verblijfsvergunning asiel voor bepaalde tijd en de verlening van de verblijfsvergunning asiel voor onbepaalde tijd mag de vreemdeling, onder omstandigheden, op grond van [artikel 1a besluit uitvoering WAV](https://wetten.overheid.nl/jci1.3:c:BWBR0007523&artikel=1a) in afwachting van zijn aanvraag voor de **verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen** werken zonder dat er een TWV is vereist.
 
 Op grond hiervan kan de IND de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen intrekken indien:
 
-De IND trekt, ingevolge artikel 9, eerste lid, onder c, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vreemdeling een aaneengesloten periode van 12 maanden of langer buiten het grondgebied van de Europese Unie dan wel zes jaar of langer buiten Nederland heeft verbleven.
+De voorwaarden hebben betrekking op:
 
 ### 5. Gezinsleden van de EU-langdurig ingezetene uit een eerste lidstaat die willen verblijven in de tweede lidstaat
 
-### 3.1.3. Openbare orde en nationale veiligheid
+### 2.2.1. De aard van het verblijfsrecht
 
-De IND mag, ingevolge artikel 9, eerste lid onder b, juncto artikel 12, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de vreemdeling een actuele en (voldoende) ernstige bedreiging voor de openbare orde of nationale veiligheid vormt. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.3](onbekend).
+De IND wijst, ingevolge artikel 3, tweede lid, onder c en onder e, Richtlijn langdurig ingezetenen, de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen aan de vreemdeling die in het bezit is van een verblijfsvergunning asiel voor bepaalde tijd af, indien:
 
 De termijn waarbinnen de vreemdeling zijn zienswijze op het voornemen tot intrekking van de IND schriftelijk naar voren brengt bedraagt zes weken, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd.
 
 ### 3.3. Niet verwijderen van het grondgebied
 
-Op grond hiervan kan de IND de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen intrekken indien:
+De IND neemt de gehele periode tussen de datum van indiening van de asielaanvraag die heeft geleid tot internationale bescherming, en de datum van afgifte van de verblijfsvergunning asiel voor bepaalde tijd in aanmerking bij de berekening van de duur van het ononderbroken verblijf.
 
-### 3.1.5. Verkrijging EU-verblijfsvergunning in een andere lidstaat
+### 2.2.3. Afwezigheid van de vreemdeling in Nederland
 
-De IND trekt, ingevolge artikel 9, vierde lid, van de Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vreemdeling overeenkomstig hoofdstuk III van de Richtlijn langdurig ingezetenen zich in een andere lidstaat heeft gevestigd en daar op grond van artikel 23 van de Richtlijn langdurig ingezetenen de status van langdurig ingezetene (opnieuw) heeft verkregen.
+Het verblijf in Nederland van de vreemdeling moet in beginsel ononderbroken zijn om in aanmerking te kunnen komen voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen. De IND wijst de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU- langdurig ingezetenen niet af, indien:
 
-### 3.2. Procedure bij intrekken van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+### 2.2.4. Middelen van bestaan
 
-Voor de procedurele bepalingen wordt verwezen naar het [artikel 3.116 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.116).
+Ingevolge artikel 5, eerste lid onder a, van de Richtlijn langdurig ingezetenen moet de vreemdeling, al dan niet tezamen met de gezinsleden met wie hij verblijft zelfstandig en duurzaam te beschikken over voldoende middelen van bestaan. Voor de voorwaarden hiertoe wordt aangesloten bij het gestelde in de [artikelen 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73), [3.74, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74), en [3.75 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75) en [B1/4.3.1. t/m/ B1/4.3.4 Vc](onbekend).
 
 ### 6.1. Terugnameverplichting eerste lidstaat
 
@@ -3147,7 +3147,7 @@ Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde vo
 
 ### 5.1. Gezinshereniging
 
-In deze gevallen toetst de IND ambtshalve of de vreemdeling nog voldoet aan de voorwaarden voor een verblijfsvergunning asiel voor onbepaalde tijd. Als dat het geval is wijzigt de IND de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in een verblijfsvergunning asiel voor onbepaalde tijd.
+Deze factoren zijn verwerkt in de zogeheten glijdende schaal. Voor de beoordeling sluit de IND aan bij het gestelde in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [art 3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87).
 
 ## Bijlage
 
@@ -3913,13 +3913,13 @@ Geen bijzonderheden.
 
 In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
 
-### 2.1. Procedure
+### 28.3.3. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (LHBT’s)
 
-De IND verleent de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen op aanvraag. De IND verstrekt de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen als de vreemdeling voldoet aan de voorwaarden die volgen uit de Richtlijn langdurig ingezeten en nader zijn omschreven in paragraaf 2.2.
+De IND beoordeelt de asielaanvraag van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
 
-### 2.2.2. De duur van het ononderbroken verblijf in Nederland
+### 28.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-De IND maakt binnen zes maanden na ontvangst van de aanvraag tot het verlenen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen een besluit aan de vreemdeling bekend (ingevolge artikel 7, tweede lid, Richtlijn langdurig ingezetenen).
+In Uganda is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
 ### 2.2.4. Middelen van bestaan
 
@@ -3935,49 +3935,49 @@ De vreemdeling moet, ingevolge artikel 5, eerste lid, onder b, Richtlijn langdur
 
 ### 2.2.6. Gevaar voor de nationale veiligheid
 
-De IND wijst, ingevolge artikel 6, eerste lid van de Richtlijn langdurig ingezetenen, de aanvraag af als de vreemdeling een gevaar voor de nationale veiligheid vormt. Voor de beoordeling sluit de IND aan bij Vc B1/7.1.6.
+In het wetsvoorstel ter implementatie van de gewijzigde Richtlijn langdurig ingezetenen (Kamerstukken II, 33 581) is voorzien in de invoeging van een nieuwe [afdeling 5 in hoofdstuk 3 van de Vw2000](onbekend). Daarin worden bepalingen voorgesteld over de EU-verblijfsvergunning voor langdurig ingezetenen, die daarin wordt opgenomen als een Europese verblijfsvergunning, naast de bestaande verblijfsvergunningen regulier en asiel voor bepaalde dan wel onbepaalde tijd. In verband daarmee zal ook het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) worden aangepast. Deze wettelijke maatregelen kunnen echter niet al per 20 mei 2013, de uiterste datum van implementatie, in werking treden.
 
-Ingevolge artikel 5, eerste lid onder a, van de Richtlijn langdurig ingezetenen moet de vreemdeling, al dan niet tezamen met de gezinsleden met wie hij verblijft zelfstandig en duurzaam te beschikken over voldoende middelen van bestaan. Voor de voorwaarden hiertoe wordt aangesloten bij het gestelde in de [artikelen 3.73](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.73), [3.74, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74), en [3.75 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.75) en [B1/4.3.1. t/m/ B1/4.3.4 Vc](onbekend).
+Delen van de gewijzigde Richtlijn langdurig ingezetenen hebben naar hun aard al rechtstreekse werking, waardoor vreemdelingen zich daarop ingaande 21 mei 2013 kunnen beroepen.
 
 ### 3. Intrekken verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
 
-### 3.1.2. Afwezigheid uit Nederland of het grondgebied van de EU-lidstaten
+### 2.1. Procedure
 
-De IND trekt, ingevolge artikel 9, eerste lid, onder c, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vreemdeling een aaneengesloten periode van 12 maanden of langer buiten het grondgebied van de Europese Unie dan wel zes jaar of langer buiten Nederland heeft verbleven.
+De IND verleent de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen op aanvraag. De IND verstrekt de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen als de vreemdeling voldoet aan de voorwaarden die volgen uit de Richtlijn langdurig ingezeten en nader zijn omschreven in paragraaf 2.2.
 
 ### 3.1. De intrekkingsgronden
 
-De IND trekt de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen ingevolge artikel 9 van de Richtlijn in indien één of meerdere van de volgende redenen op de zaak van de vreemdeling van toepassing zijn:
+De IND maakt binnen zes maanden na ontvangst van de aanvraag tot het verlenen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen een besluit aan de vreemdeling bekend (ingevolge artikel 7, tweede lid, Richtlijn langdurig ingezetenen).
 
 ### 3.2. Procedure bij intrekken van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
 
-Ingevolge artikel 9, vierde lid van de Richtlijn langdurig ingezetenen mag de IND om specifieke of uitzonderlijke redenen niet overgaan tot intrekking. Voor de voorwaarden van deze redenen sluit de IND aan bij het gestelde in [Vc B1/8.1](onbekend).
+Het is de vreemdeling in het bezit van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen toegestaan voor onbepaalde tijd in Nederland te verblijven. De vreemdeling hoeft deze vergunning niet te verlengen.
 
 ### 3.3. Niet verwijderen van het grondgebied
 
-Uit artikel 9, lid 7, Richtlijn langdurig ingezetenen volgt dat indien de beëindiging of de intrekking van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen door de IND niet leidt tot verwijdering van de vreemdeling, de IND de vreemdeling toestaat op het grondgebied te blijven. Hiervoor moet de vreemdeling voldoen aan de voorwaarden die de nationale wetgeving hieraan stelt en behoudens gevaar voor de openbare orde of veiligheid.
+Het is de vreemdeling in het bezit van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen toegestaan om arbeid te verrichten, zonder dat een tewerkstellingsvergunning is vereist.
 
-### 3.1.2. Afwezigheid uit Nederland of het grondgebied van de EU-lidstaten
+### 2.2. De algemene voorwaarden voor de verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
 
-Ingevolge artikel 9, vierde lid van de Richtlijn langdurig ingezetenen mag de IND om specifieke of uitzonderlijke redenen niet overgaan tot intrekking. Voor de voorwaarden van deze redenen sluit de IND aan bij het gestelde in [Vc B1/8.1](onbekend).
+De IND wijst de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling niet voldoet aan een of meerdere voorwaarden zoals die in de paragrafen 2.2.1 tot en met 2.2.9 staan beschreven.
 
 Voor de procedure en beoordeling van de aanvraag van de langdurig ingezetenen en zijn gezinsleden uit de tweede EU lidstaat wordt verwezen naar de beleidsregels in [Vc B17](onbekend).
 
 ### 5. Gezinsleden van de EU-langdurig ingezetene uit een eerste lidstaat die willen verblijven in de tweede lidstaat
 
-### 3.1.4. Intrekking of niet-verlenging van de internationale bescherming
+### 2.2.2. De duur van het ononderbroken verblijf in Nederland
 
-De IND mag, ingevolge artikel 9, derde lid bis, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de internationale bescherming is ingetrokken of indien is geweigerd deze te verlengen, overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de kwalificatierichtlijn.
+De IND wijst, ingevolge artikel 4 van de Richtlijn, de aanvraag voor de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling niet tenminste vijf jaar onmiddellijk voorafgaand aan de indiening van de aanvraag legaal en -in beginsel- ononderbroken in Nederland heeft verbleven (zie ook paragraaf 2.2.3).
 
-### 4. Nederland is tweede lidstaat van verblijf van de EU-langdurig ingezetene met internationale bescherming verleend door een andere EU-lidstaat
+### 2.2.6. Gevaar voor de nationale veiligheid
 
-Indien Nederland de tweede lidstaat van verblijf is van de vreemdeling die in een andere lidstaat op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verworven, moet de vreemdeling om hier gedurende een periode van meer dan drie maanden te verblijven een verblijfsvergunning regulier voor bepaalde tijd aanvragen. Als de vreemdeling voldoet aan de gestelde voorwaarden en de IND de gevraagde verblijfsvergunning regulier voor bepaalde tijd verleent, blijft de vreemdeling ook in het bezit van het document van de eerste EU-lidstaat waaruit blijkt dat die lidstaat hem op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verleend.
+De IND wijst, ingevolge artikel 6, eerste lid van de Richtlijn langdurig ingezetenen, de aanvraag af als de vreemdeling een gevaar voor de nationale veiligheid vormt. Voor de beoordeling sluit de IND aan bij Vc B1/7.1.6.
 
 ## Bijlage
 
 ### Aanvraag
 
-De IND mag, ingevolge artikel 22, eerste lid, onder b, Richtlijn langdurig ingezetenen de verblijfsvergunning voor bepaalde tijd van de langdurig ingezetene en de gezinsleden beëindigen, indien niet meer aan de voorwaarden voor verblijf wordt voldaan.
+Gelet op het bestaande toezicht ingevolge de ‘[Wet opsporing en verzekering onverzekerden zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0029695)’ is het voor de vreemdeling in het kader van zijn aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen niet nodig om bewijsvoering ten aanzien van de ziektekostenverzekering aan de IND te overleggen.
 
 De IND toetst alle aanvragen voor een verblijfsvergunning asiel voor bepaalde tijd individueel, ook als de vreemdeling eerder door de UNHCR als vluchteling is erkend.
 
@@ -4819,13 +4819,13 @@ De IND heeft met betrekking tot Turkije geen risicogroepen aangewezen.
 
 ### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
 
-### C8. De verblijfsvergunning asiel voor onbepaalde tijd met de aantekening ‘EU-langdurig ingezetene’ in de zin van Richtlijn 2011/51/EU (hierna: verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen)
+### 28. Het asielbeleid ten aanzien van Uganda
 
-De vreemdeling dient de aanvraag schriftelijk in bij de IND.
+Gelet op de zeer fragiele positie van LHBT’s in Uganda, mede als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND in de regel aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), verleent, tenzij contra-indicaties vergunning verlening in de weg staan.
 
-De IND past, vooruitlopend op de inwerkingtreding van artikel 45f van het daartoe strekkend wetsvoorstel ter implementatie van de gewijzigde Richtlijn langdurig ingezetenen (2011/51/EU), in de volgende gevallen de voornemenprocedure toe:
+In Uganda is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-### 2.2. De algemene voorwaarden voor de verlening van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Voor het verkrijgen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen gelden geen vrijstellingen inzake het beschikken over voldoende middelen van bestaan.
 
@@ -4833,15 +4833,15 @@ Voor het verkrijgen van een verblijfsvergunning asiel voor onbepaalde tijd EU-la
 
 De IND neemt de gehele periode tussen de datum van indiening van de asielaanvraag die heeft geleid tot internationale bescherming, en de datum van afgifte van de verblijfsvergunning asiel voor bepaalde tijd in aanmerking bij de berekening van de duur van het ononderbroken verblijf.
 
-### 2.2.3. Afwezigheid van de vreemdeling in Nederland
+### 1. Inleiding
 
 ### 3.1. De intrekkingsgronden
 
-Gelet op het bestaande toezicht ingevolge de ‘[Wet opsporing en verzekering onverzekerden zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0029695)’ is het voor de vreemdeling in het kader van zijn aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen niet nodig om bewijsvoering ten aanzien van de ziektekostenverzekering aan de IND te overleggen.
+De vreemdeling dient de aanvraag schriftelijk in bij de IND.
 
 ### 2.2.8. Inburgeringsvereiste
 
-De IND trekt, ingevolge artikel 9, eerste lid onder a, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vergunning op frauduleuze wijze is verkregen. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.2](onbekend).
+De IND past, vooruitlopend op de inwerkingtreding van artikel 45f van het daartoe strekkend wetsvoorstel ter implementatie van de gewijzigde Richtlijn langdurig ingezetenen (2011/51/EU), in de volgende gevallen de voornemenprocedure toe:
 
 ### 3.1.2. Afwezigheid uit Nederland of het grondgebied van de EU-lidstaten
 
@@ -4849,11 +4849,11 @@ In deze gevallen toetst de IND ambtshalve of de vreemdeling nog voldoet aan de v
 
 ### 5.1. Gezinshereniging
 
-De termijn waarbinnen de vreemdeling zijn zienswijze op het voornemen tot intrekking van de IND schriftelijk naar voren brengt bedraagt zes weken, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd.
+Voor het verkrijgen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen gelden geen vrijstellingen inzake het beschikken over voldoende middelen van bestaan.
 
-### 6.1. Terugnameverplichting eerste lidstaat
+### 2.2.7. Ziektekostenverzekering
 
-Voor de procedure en beoordeling van de aanvraag van de langdurig ingezetenen en zijn gezinsleden uit de tweede EU lidstaat wordt verwezen naar de beleidsregels in [Vc B17](onbekend).
+De vreemdeling moet, ingevolge artikel 5, eerste lid, onder b, Richtlijn langdurig ingezetenen, om in aanmerking te kunnen komen voor de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen beschikken over een ziektekostenverzekering.
 
 ### 5. Gezinsleden van de EU-langdurig ingezetene uit een eerste lidstaat die willen verblijven in de tweede lidstaat
 
@@ -4867,7 +4867,7 @@ Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde vo
 
 ### Aanvraag
 
-Het koppelingsbureau van de IND fungeert als contactpunt voor het verstrekken en ontvangen van informatie, zoals in de in paragraaf 6.2 genoemde gevallen.
+Indien de vreemdeling, die in het bezit is van de verblijfsvergunning asiel voor bepaalde tijd, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen aanvraagt, beoordeelt de IND of de vreemdeling nog internationale bescherming behoeft. Indien de IND de bescherming intrekt, beëindigt of niet verlengt overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de Kwalificatierichtlijn, verleent de IND, ingevolge artikel 4, eerste lid bis, Richtlijn langdurig ingezetenen, niet de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen met de aantekening ‘internationale bescherming verleend op {datum} door Nederland’.
 
 De IND heeft met betrekking tot Mongolië geen kwetsbare minderheidsgroepen aangewezen.
 
@@ -4917,21 +4917,21 @@ De IND beschouwt Turkije niet als land waarin sprake is van groepsvervolging.
 
 ### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
 
-### 2.1. Procedure
+### 28.2. Artikel 1F Vluchtelingenverdrag
 
-### 2.2.1. De aard van het verblijfsrecht
+### 28.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 De IND neemt de gehele periode tussen de datum van indiening van de asielaanvraag die heeft geleid tot internationale bescherming, en de datum van afgifte van de verblijfsvergunning asiel voor bepaalde tijd in aanmerking bij de berekening van de duur van het ononderbroken verblijf.
 
 ### 2.2.3. Afwezigheid van de vreemdeling in Nederland
 
-Gelet op het bestaande toezicht ingevolge de ‘[Wet opsporing en verzekering onverzekerden zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0029695)’ is het voor de vreemdeling in het kader van zijn aanvraag om een verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen niet nodig om bewijsvoering ten aanzien van de ziektekostenverzekering aan de IND te overleggen.
+De beleidsregels in dit hoofdstuk zien daarom uitsluitend op de vreemdelingen die:
 
 ### 2.2.8. Inburgeringsvereiste
 
-Deze factoren zijn verwerkt in de zogeheten glijdende schaal. Voor de beoordeling sluit de IND aan bij het gestelde in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [art 3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87).
+In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
 
-### 2.2.6. Gevaar voor de nationale veiligheid
+### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
 
 ### 3.1.1. Frauduleuze verkrijging
 
@@ -4943,7 +4943,7 @@ Deze factoren zijn verwerkt in de zogeheten glijdende schaal. Voor de beoordelin
 
 Indien Nederland de tweede lidstaat van verblijf is van de vreemdeling die in een andere lidstaat op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verworven, moet de vreemdeling om hier gedurende een periode van meer dan drie maanden te verblijven een verblijfsvergunning regulier voor bepaalde tijd aanvragen. Als de vreemdeling voldoet aan de gestelde voorwaarden en de IND de gevraagde verblijfsvergunning regulier voor bepaalde tijd verleent, blijft de vreemdeling ook in het bezit van het document van de eerste EU-lidstaat waaruit blijkt dat die lidstaat hem op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verleend.
 
-### 3.3. Niet verwijderen van het grondgebied
+### 2.2.5. Openbare orde
 
 Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde voorwaarden wijst de IND de aanvraag voor een verblijfsvergunning van het gezinslid afwijzen.
 
@@ -4951,15 +4951,15 @@ Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde vo
 
 ### 6. Nederland is tweede lidstaat van verblijf: intrekken verblijfsvergunning
 
-### 5.1. Gezinshereniging
+### 2.2.8. Inburgeringsvereiste
 
-De IND verleent de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 3.13, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13), onder een beperking verband houdend met gezinshereniging, aan de echtgenoot/echtgenote (hierna: echtgenoot) van de langdurig ingezetene die in het bezit is van een verblijfsvergunning voor bepaalde tijd als onder paragraaf 4 bedoeld, en aan het minderjarige kind van die echtgenoot of die langdurig ingezetene, indien dat kind of die echtgenoot:
+De IND wijst, ingevolge artikel 5, tweede lid van de Richtlijn langdurig ingezetenen de aanvraag tot het verlenen van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen af indien de vreemdeling het examen, bedoeld in [artikel 7, tweede lid, onderdeel a, van de Wet Inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), of een diploma, certificaat of ander document, bedoeld in [artikel 5, eerste lid, onderdeel c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=5), niet heeft behaald.
 
-### 6.2. In kennis stellen eerste lidstaat
+### 2.2.9. Document voor grensoverschrijding
 
-In de volgende gevallen moet de IND de (eerste) lidstaat die de EU-status als langdurig ingezetenen aan de vreemdeling heeft verleend informeren:
+De IND wijst de aanvraag af indien de vreemdeling niet in het bezit is van een geldig document voor grensoverschrijding.
 
-### 6.3. Contactpunt IND
+### 2.3. De grond voor internationale bescherming is vervallen
 
 ## Bijlage
 
@@ -4973,11 +4973,99 @@ Het algemene beleid, in de zin van paragraaf C2/4.1 Vc is van toepassing.
 
 ### 27.8. Bijzonderheden
 
-### 1. Inleiding
+### 28.1. Besluitmoratorium
 
 ### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
 
+De IND wijst, ingevolge artikel 6, eerste lid, Richtlijn langdurig ingezetenen, de aanvraag voor de verblijfsvergunning voor onbepaalde tijd EU-langdurig ingezetenen af als de vreemdeling een gevaar voor de openbare orde vormt. Bij de beoordeling houdt de IND mede rekening met:
+
+### 5.2. Gezinsvorming/ongehuwde partners en verruimde gezinshereniging
+
+De Richtlijn langdurig ingezetenen is niet van toepassing op gezins**vorming** of indien sprake is van gezinshereniging met ongehuwde partners of verruimde gezinshereniging. In die gevallen zijn de algemene regels (zie [artikel 3.13 tot en met 3.28 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13) en [Vc B2](onbekend)) van toepassing.
+
+### 6. Nederland is tweede lidstaat van verblijf: intrekken verblijfsvergunning
+
+Indien de vreemdeling wel voldoet aan de overige voorwaarden verleent de IND een verblijfsvergunning regulier voor onbepaalde tijd met de aantekening EU-langdurig ingezetene.
+
+### 3. Intrekken verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+
+### 6.2. In kennis stellen eerste lidstaat
+
+In de volgende gevallen moet de IND de (eerste) lidstaat die de EU-status als langdurig ingezetenen aan de vreemdeling heeft verleend informeren:
+
+### 6.3. Contactpunt IND
+
+Het koppelingsbureau van de IND fungeert als contactpunt voor het verstrekken en ontvangen van informatie, zoals in de in paragraaf 6.2 genoemde gevallen.
+
+## Bijlage
+
+### Aanvraag
+
+Verlenging verblijfsvergunning asiel bepaalde tijd; of Verblijfsvergunning asiel onbepaalde tijd; of EU-verblijfsvergunning voor langdurig ingezetenen
+
+### 28.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+### 28.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+### 28.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+
+### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+### 3.1. De intrekkingsgronden
+
+De IND trekt de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen ingevolge artikel 9 van de Richtlijn in indien één of meerdere van de volgende redenen op de zaak van de vreemdeling van toepassing zijn:
+
+### 3.1.1. Frauduleuze verkrijging
+
+De IND trekt, ingevolge artikel 9, eerste lid onder a, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vergunning op frauduleuze wijze is verkregen. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.2](onbekend).
+
+### 3.1.2. Afwezigheid uit Nederland of het grondgebied van de EU-lidstaten
+
+De IND trekt, ingevolge artikel 9, eerste lid, onder c, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vreemdeling een aaneengesloten periode van 12 maanden of langer buiten het grondgebied van de Europese Unie dan wel zes jaar of langer buiten Nederland heeft verbleven.
+
+Ingevolge artikel 9, vierde lid van de Richtlijn langdurig ingezetenen mag de IND om specifieke of uitzonderlijke redenen niet overgaan tot intrekking. Voor de voorwaarden van deze redenen sluit de IND aan bij het gestelde in [Vc B1/8.1](onbekend).
+
+### 3.1.3. Openbare orde en nationale veiligheid
+
+De IND mag, ingevolge artikel 9, eerste lid onder b, juncto artikel 12, Richtlijn langdurig ingezetenen, de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de vreemdeling een actuele en (voldoende) ernstige bedreiging voor de openbare orde of nationale veiligheid vormt. Voor de voorwaarden hiertoe sluit de IND aan bij het gestelde in [Vc B1/8.3](onbekend).
+
+### 3.1.4. Intrekking of niet-verlenging van de internationale bescherming
+
+De IND mag, ingevolge artikel 9, derde lid bis, Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen intrekken indien de internationale bescherming is ingetrokken of indien is geweigerd deze te verlengen, overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de kwalificatierichtlijn.
+
+Op grond hiervan kan de IND de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen intrekken indien:
+
+### 3.1.5. Verkrijging EU-verblijfsvergunning in een andere lidstaat
+
+De IND trekt, ingevolge artikel 9, vierde lid, van de Richtlijn langdurig ingezetenen de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in indien de vreemdeling overeenkomstig hoofdstuk III van de Richtlijn langdurig ingezetenen zich in een andere lidstaat heeft gevestigd en daar op grond van artikel 23 van de Richtlijn langdurig ingezetenen de status van langdurig ingezetene (opnieuw) heeft verkregen.
+
+### 3.2. Procedure bij intrekken van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+
+Voor de procedurele bepalingen wordt verwezen naar het [artikel 3.116 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.116).
+
+De termijn waarbinnen de vreemdeling zijn zienswijze op het voornemen tot intrekking van de IND schriftelijk naar voren brengt bedraagt zes weken, tenzij een met redenen omkleed verzoek om verlenging van deze termijn wordt ingewilligd.
+
+### 3.3. Niet verwijderen van het grondgebied
+
 Uit artikel 9, lid 7, Richtlijn langdurig ingezetenen volgt dat indien de beëindiging of de intrekking van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen door de IND niet leidt tot verwijdering van de vreemdeling, de IND de vreemdeling toestaat op het grondgebied te blijven. Hiervoor moet de vreemdeling voldoen aan de voorwaarden die de nationale wetgeving hieraan stelt en behoudens gevaar voor de openbare orde of veiligheid.
+
+In deze gevallen toetst de IND ambtshalve of de vreemdeling nog voldoet aan de voorwaarden voor een verblijfsvergunning asiel voor onbepaalde tijd. Als dat het geval is wijzigt de IND de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen in een verblijfsvergunning asiel voor onbepaalde tijd.
+
+### 4. Nederland is tweede lidstaat van verblijf van de EU-langdurig ingezetene met internationale bescherming verleend door een andere EU-lidstaat
+
+Indien Nederland de tweede lidstaat van verblijf is van de vreemdeling die in een andere lidstaat op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verworven, moet de vreemdeling om hier gedurende een periode van meer dan drie maanden te verblijven een verblijfsvergunning regulier voor bepaalde tijd aanvragen. Als de vreemdeling voldoet aan de gestelde voorwaarden en de IND de gevraagde verblijfsvergunning regulier voor bepaalde tijd verleent, blijft de vreemdeling ook in het bezit van het document van de eerste EU-lidstaat waaruit blijkt dat die lidstaat hem op grond van internationale bescherming de EU-status van langdurig ingezetene heeft verleend.
+
+De vreemdeling dient de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd, ingevolge artikel 15, eerste lid, van de Richtlijn langdurig ingezetenen, zo spoedig mogelijk en uiterlijk drie maanden na aankomst op het grondgebied van Nederland in bij de IND. De vreemdeling mag de aanvraag ook indienen terwijl hij nog verblijft op het grondgebied van de eerste lidstaat.
+
+Voor de procedure en beoordeling van de aanvraag van de langdurig ingezetenen en zijn gezinsleden uit de tweede EU lidstaat wordt verwezen naar de beleidsregels in [Vc B17](onbekend).
+
+### 5. Gezinsleden van de EU-langdurig ingezetene uit een eerste lidstaat die willen verblijven in de tweede lidstaat
+
+### 5.1. Gezinshereniging
+
+De IND verleent de verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 3.13, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.13), onder een beperking verband houdend met gezinshereniging, aan de echtgenoot/echtgenote (hierna: echtgenoot) van de langdurig ingezetene die in het bezit is van een verblijfsvergunning voor bepaalde tijd als onder paragraaf 4 bedoeld, en aan het minderjarige kind van die echtgenoot of die langdurig ingezetene, indien dat kind of die echtgenoot:
+
+Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde voorwaarden wijst de IND de aanvraag voor een verblijfsvergunning van het gezinslid afwijzen.
 
 ### 5.2. Gezinsvorming/ongehuwde partners en verruimde gezinshereniging
 
@@ -4988,6 +5076,8 @@ De Richtlijn langdurig ingezetenen is niet van toepassing op gezins**vorming** o
 De IND mag, ingevolge artikel 22, eerste lid, onder b, Richtlijn langdurig ingezetenen de verblijfsvergunning voor bepaalde tijd van de langdurig ingezetene en de gezinsleden beëindigen, indien niet meer aan de voorwaarden voor verblijf wordt voldaan.
 
 ### 6.1. Terugnameverplichting eerste lidstaat
+
+De IND mag, indien Nederland tweede lidstaat is, ingevolge artikel 22, eerste lid, Richtlijn langdurig ingezetenen onder omstandigheden besluiten de verblijfsvergunning regulier voor bepaalde tijd van de uit de eerste lidstaat afkomstige langdurig ingezetene niet te verlengen of die vergunning in te trekken en betrokkene en zijn gezinsleden verplichten het land te verlaten. In een dergelijk geval moet de eerste lidstaat ingevolge artikel 22, tweede lid, Richtlijn langdurig ingezetenen de langdurig ingezetene en zijn gezinsleden onmiddellijk en zonder formaliteiten terugnemen.
 
 ### 6.2. In kennis stellen eerste lidstaat
 
