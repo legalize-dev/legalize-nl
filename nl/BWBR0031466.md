@@ -4,7 +4,7 @@ identifier: "BWBR0031466"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-03-27"
-last_updated: "2012-04-19"
+last_updated: "2014-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031466"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ In deze beleidsregel wordt verstaan onder:
 
 1. Bij de vaststelling van een tracébesluit is de SBR-richtlijn B van toepassing met uitzondering van paragraaf 9.6, hoofdstuk 10 en bijlage V alsmede van de verwijzingen naar die paragraaf, dat hoofdstuk en die bijlage.
 
-2. De omschrijving van de begrippen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=1&z=2012-04-19&g=2012-04-19), komt in de plaats van de omschrijving van die begrippen, opgenomen in paragraaf 5.3 van de SBR-richtlijn B.
+2. De omschrijving van de begrippen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=1&z=2014-03-27&g=2014-03-27), komt in de plaats van de omschrijving van die begrippen, opgenomen in paragraaf 5.3 van de SBR-richtlijn B.
 
 ##### Artikel 3. uitgangspunten
 
-1. Welke streefwaarde of grenswaarde, genoemd in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=5&z=2012-04-19&g=2012-04-19), met betrekking tot een gebouw van toepassing is, hangt af van de functie van dat gebouw en het tijdstip waarop de trillingen voorkomen.
+1. Welke streefwaarde of grenswaarde, genoemd in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=5&z=2014-03-27&g=2014-03-27), met betrekking tot een gebouw van toepassing is, hangt af van de functie van dat gebouw en het tijdstip waarop de trillingen voorkomen.
 
 2. Voor het bepalen van het tijdstip wordt uitgegaan van de volgende perioden:
 
@@ -92,15 +92,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - a. de Vmax en de Vper in de bestaande situatie;
 
-- b. de Vmax en de Vper in de plansituatie; en
+- b. de Vmax en de Vper in de plansituatie;
 
-- c. de toename van de Vmax in de plansituatie ten opzichte van de bestaande situatie.
+- c. de toename van de Vmax in de plansituatie ten opzichte van de bestaande situatie; en
+
+- d. een beschrijving van de methode voor de meettechnische bepaling van de Vmax, bedoeld in de bijlage, waarin de statistische verwerking van de meetresultaten in relatie tot de statistische verwerking als bedoeld in paragraaf 9.6 van de SBR-richtlijn B wordt toegelicht en ingegaan wordt op de uitkomsten van de gehanteerde formule, de milieuhygiënische aspecten, de samenhang van effecten, de reproduceerbaarheid, de plausibiliteit van de methode en de compatibiliteit met de bestaande praktijk.
 
 3. Indien binnen tien jaar na de vaststelling van een tracébesluit, bedoeld in het tweede lid, opnieuw een tracébesluit wordt vastgesteld dat betrekking heeft op hetzelfde gedeelte van de landelijke spoorweg als waarop het eerste tracébesluit betrekking had, wordt voor de beschrijving van de Vmax, en de Vper, in de bestaande situatie uitgegaan van de Vmax en de Vper in de bestaande situatie van het eerste tracébesluit.
 
 ##### Artikel 5. Vmax (artikel 4, eerste lid: tracébesluit nieuwe situatie)
 
-1. In een tracébesluit als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2012-04-19&g=2012-04-19), kunnen maatregelen ter voorkoming of beperking van de trillinghinder achterwege blijven indien de Vmax in de plansituatie voldoet aan de in de tabel 1 opgenomen streefwaarde.
+1. In een tracébesluit als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2014-03-27&g=2014-03-27), kunnen maatregelen ter voorkoming of beperking van de trillinghinder achterwege blijven indien de Vmax in de plansituatie voldoet aan de in de tabel 1 opgenomen streefwaarde.
 
 2. Indien de Vmax in de plansituatie niet voldoet aan de streefwaarde, bedoeld in het eerste lid, bevat het tracébesluit maatregelen waarmee beoogd wordt te voldoen aan de streefwaarde maar waarmee voldaan wordt aan de in de tabel 1 opgenomen grenswaarde.
 
@@ -117,7 +119,7 @@ A1 = streefwaarde A2 = grenswaarde
 
 ##### Artikel 6. Vmax (artikel 4, tweede lid: tracébesluit bestaande situatie)
 
-1. In een tracébesluit als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2012-04-19&g=2012-04-19), kunnen maatregelen ter voorkoming of beperking van de trillinghinder met betrekking tot de Vmaxachterwege blijven indien:
+1. In een tracébesluit als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2014-03-27&g=2014-03-27), kunnen maatregelen ter voorkoming of beperking van de trillinghinder met betrekking tot de Vmaxachterwege blijven indien:
 
 - a. de Vmax in de plansituatie voldoet aan de in tabel 2 opgenomen streefwaarde; of
 
@@ -140,7 +142,7 @@ A1 = streefwaarde voor Vmax A2 = grenswaarde voor Vmax
 
 ##### Artikel 7. Vper (artikel 4, tweede lid: tracébesluit bestaande situatie)
 
-1. In een tracébesluit als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2012-04-19&g=2012-04-19), kunnen maatregelen ter voorkoming of beperking van de trillinghinder met betrekking tot de Vper achterwege blijven indien de Vper in de plansituatie voldoet aan de in tabel 3 opgenomen grenswaarde.
+1. In een tracébesluit als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=4&z=2014-03-27&g=2014-03-27), kunnen maatregelen ter voorkoming of beperking van de trillinghinder met betrekking tot de Vper achterwege blijven indien de Vper in de plansituatie voldoet aan de in tabel 3 opgenomen grenswaarde.
 
 2. Indien de Vper in de bestaande situatie voldoet aan de in tabel 3 opgenomen grenswaarde, maar in de plansituatie daaraan niet voldoet, bevat het tracébesluit maatregelen waarmee de toename van de trillingssterkte tot die grenswaarde wordt teruggebracht.
 
@@ -166,7 +168,19 @@ A3 = grenswaarde voor Vper
 
 ##### Artikel 9. doelmatigheid
 
-Het treffen van maatregelen, voorgeschreven ingevolge de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=5&z=2012-04-19&g=2012-04-19), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=6&z=2012-04-19&g=2012-04-19), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=7&z=2012-04-19&g=2012-04-19), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=8&z=2012-04-19&g=2012-04-19), kan achterwege blijven indien de maatregelen niet doelmatig zijn. In de toelichting bij het tracébesluit of, indien van toepassing, de opleveringstoets wordt het achterwege laten van een maatregel gemotiveerd.
+1. Het treffen van maatregelen, voorgeschreven ingevolge de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=5&z=2014-03-27&g=2014-03-27), [6, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=6&z=2014-03-27&g=2014-03-27), [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=7&z=2014-03-27&g=2014-03-27), en [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=8&z=2014-03-27&g=2014-03-27), kan achterwege blijven indien de maatregelen niet doelmatig zijn. In de toelichting bij het tracébesluit of, indien van toepassing, de opleveringstoets wordt het achterwege laten van een maatregel gemotiveerd.
+
+2. Het treffen van maatregelen blijft niet achterwege als de Vmax zonder maatregelen meer dan 3.2 bedraagt.
+
+3. In de toelichting bij het tracébesluit of, indien van toepassing, de opleveringstoets wordt gemotiveerd ingegaan op:
+
+- a. de geraamde kosten van een maatregel;
+
+- b. de geraamde opbrengsten van de maatregel in termen van trillinghinderreductie en het aantal woningen;
+
+- c. het gehanteerde normbedrag per woning; en
+
+- d. de gemaakte doelmatigheidsafweging.
 
 ##### Artikel 10. inwerkingtreding
 
@@ -176,24 +190,22 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 
 Deze beleidsregel kan worden aangehaald als: Beleidsregel trillinghinder spoor.
 
-## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=1&z=2012-04-19&g=2012-04-19) van de Beleidsregel trillinghinder spoor
+## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031466&artikel=1&z=2014-03-27&g=2014-03-27) van de Beleidsregel trillinghinder spoor
 
 Voor de meettechnische bepaling van de waarde van Vmax wordt de volgende procedure gevolgd:
 
-- –. Bij keuze, gebruik en toepassing van meetapparatuur wordt toepassing gegeven aan hoofdstuk 7 en de paragrafen 8.1 en 8.2 van de SBR-richtlijn B.
+- –. Bij keuze, gebruik en toepassing van meetapparatuur wordt toepassing gegeven aan hoofdstuk 7 en de paragrafen 8.1 en 8.2 van de SBR-richtlijn B. In aanvulling op paragraaf 8.2.4. kan ook de fundering van het pand, conform de indicatieve methode van SBR richtlijn A, als positie voor een meetpunt in overweging worden genomen.
 
-- –. Voor de meetduur T (paragraaf 8.4.3) wordt een aaneengesloten periode gekozen waarmee een representatief beeld van het spoorverkeer kan worden verkregen. Waar geen informatie voorhanden is (voorgaande metingen, treinenloop, bodemgesteldheid) is een aaneengesloten periode van één week noodzakelijk. In geval van afwijkende meetduur (bijvoorbeeld een kortere bij een herhalingsmeting of een langere in geval dat beperkt verkeer aanleiding is te veronderstellen dat één week niet voldoende is voor een representatief beeld) wordt dit in het meetrapport gemotiveerd. De meetduur moet in alle gevallen ten minste één volledig etmaal bedragen.
+- –. De meetduur T (paragraaf 8.4.3.) bedraagt ten minste een week.
 
 - –. De meetresultaten worden uitgewerkt conform paragraaf 9.1 tot en met 9.4 van de SBR-richtlijn B.
 
 - –. Alle resultaten voor intervallen waarin geen spoorverkeer aanwezig was, worden uit de set verwijderd.
 
-- –. Uit de dataset worden resultaten verwijderd die samenhangen met een passage waarvan uit een analyse blijkt dat de omstandigheden (snelheid, voertuigtype, spoorgebruik) op het betreffende baanvak twaalf keer per jaar of minder optreden.
-
-- –. Uit de dan verkregen dataset worden voor de dag en de nacht periode afzonderlijk de twee procent meetwaarden verwijderd die de hoogste effectieve waarde opleveren (hiermee wordt beoogd de ‘uitschieters’ uit de dataset te verwijderen).
+- –. Uit de dan verkregen dataset wordt het weekmaximum bepaald alsmede de onzekerheid van dat resultaat uitgedrukt in een percentage. Indien de onzekerheid 10% of minder bedraagt komt de toetswaarde overeen met het weekmaximum. Indien de onzekerheid meer dan 10% bedraagt wordt bij bepaling van de toetswaarde rekening gehouden met die onzekerheid.
 
 - –. De waarde per dataset (voor dag en nachtperiode) die vervolgens de hoogste is, is de toetswaarde.
 
-- –. De toetswaarde voor de dag- en avondperiode wordt vergeleken met de streefwaarde en grenswaarde voor die periodes. De toetswaarde voor de nachtperiode wordt vergeleken met de streefwaarde en de grenswaarde voor de nachtperiode.
+- –. De toetswaarde wordt vergeleken met de streef- en grenswaarde voor de dag- en avondperiode en die voor de nachtperiode.
 
 Deze beleidsregel wordt met toelichting in de Staatscourant geplaatst.
