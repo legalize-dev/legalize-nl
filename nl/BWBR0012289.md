@@ -4,7 +4,7 @@ identifier: "BWBR0012289"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-03"
-last_updated: "2014-03-01"
+last_updated: "2014-03-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012289"
 soort: "circulaire"
@@ -2551,37 +2551,37 @@ De verblijfsvergunning regulier onder de beperking ‘ verblijf als economisch n
 
 ### 2.1. Inburgeringsvereiste
 
-### 3.4. Middelen van bestaan
+### 2.1. De duur van het verblijf in Nederland
 
 ### 2.1.1. Ontheffing vanwege een psychische of lichamelijke belemmering of verstandelijke handicap
 
-### 3.5. Openbare orde of nationale veiligheid
+### 2.2. De aard van het verblijfsrecht
 
 ### 2.1.2. Ontheffing met een beroep op de hardheidsclausule
 
-### 4. Bewijsmiddelen
+### 2.3. Middelen van bestaan
 
 ### 3.6. Rechtmatig verblijf (werkingssfeer)
 
 ### 4.4.3. Terugkeeroptie
 
-### 3. Specifieke beleidsregels status langdurig ingezetene
+### 2.4. Openbare orde of nationale veiligheid
 
 ### 2.3. Gelegaliseerde akten
 
-### 3.1. De duur van het ononderbroken verblijf in Nederland
+### 2.5. Hoofdverblijf
 
 ### 1. Inleiding
 
-### 3.2. De aard van het verblijfsrecht
+### 2.6. Inburgeringsvereiste
 
 ### 2.4. Verblijfsstatus en verblijfsduur van de hoofdpersoon
 
-### 2. Algemene beleidsregels
+### 2.6.1. Ontheffing vanwege een psychische of lichamelijke belemmering of verstandelijke handicap
 
 ### 3.3. Afwezigheid van het grondgebied
 
-### 2.1. Inburgeringsvereiste
+### 2.6.2. Ontheffing met een beroep op de hardheidsclausule
 
 ### 3.4. Middelen van bestaan
 
@@ -2589,35 +2589,35 @@ De verblijfsvergunning regulier onder de beperking ‘ verblijf als economisch n
 
 ### 3.5. Openbare orde of nationale veiligheid
 
-### 2.1.2. Ontheffing met een beroep op de hardheidsclausule
+### 2.7. Bijzondere categorieën verblijfsvergunning onbepaalde tijd
 
-### 7. Bewijsmiddelen
+### 2.7.1. Oud-Nederlanders ([artikel 15, eerste lid, aanhef en onder b, d en f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-### 3.6. Rechtmatig verblijf (werkingssfeer)
+### 2.7.1.1. Algemene beleidsregels
 
 ### 3. Specifieke beleidsregels status langdurig ingezetene
 
-De IND wijst de aanvraag tot het verlenen of wijzigen van de beperking van een verblijfsvergunning regulier voor onbepaalde tijd als langdurig ingezetene af als in ieder geval één van de in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde gronden zich voordoet en [artikel 3.92 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92) hierop geen uitzondering maakt.
+De vreemdeling:
 
-De IND wijst een aanvraag tot het verlenen of wijzigen van de beperking van een verblijfsvergunning regulier voor onbepaalde tijd op nationale gronden af wanneer in ieder geval één van de in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde gronden zich voordoet, voor zover de [artikelen 21a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [artikel 3.93 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.94) en [3.95 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95) hierop geen uitzondering maken.
+De IND wijst deze aanvraag niet af als de vreemdeling:
 
-### 4.1. De duur van het verblijf in Nederland
+### 2.7.1.2. Specifieke beleidsregels oud-Nederlanders door intrekking
 
 ### 3.2. De aard van het verblijfsrecht
 
-### 4.2. Middelen van bestaan
+### 2.7.1.3. Specifieke beleidsregels oud-Nederlanders door het afleggen van een verklaring van afstand
 
 ### 4.4.3. Terugkeeroptie
 
-### 4.3. Openbare orde of nationale veiligheid
+### 2.7.2. Terugkeer op grond van [artikel 8 Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8)
 
 ### 3.3. Afwezigheid van het grondgebied
 
-### 4.4. Bijzondere categorieën verblijfsvergunning onbepaalde tijd op nationale gronden
+### 2.7.3. Terugkeeroptie
 
 ### 4.4.1. Oud-Nederlanders ([artikel 15, eerste lid, aanhef en onder b, d en f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15))
 
-### 4.4.1.1. Algemene beleidsregels
+### 2.7.4. (Ex) geprivilegieerde en diens afhankelijke gezinsleden
 
 ### 3.5. Openbare orde of nationale veiligheid
 
@@ -2625,11 +2625,11 @@ De IND wijst een aanvraag tot het verlenen of wijzigen van de beperking van een 
 
 ### 3.6. Rechtmatig verblijf (werkingssfeer)
 
-### 4.4.1.2. Specifieke beleidsregels oud-Nederlanders door intrekking
+### 2.8. Intrekking verblijfsvergunning regulier voor onbepaalde tijd
 
 ### 4. Specifieke beleidsregels nationale verblijfsvergunning regulier onbepaalde tijd
 
-### 4.4.1.3. Specifieke beleidsregels oud-Nederlanders door het afleggen van een verklaring van afstand
+### 3. Bewijsmiddelen
 
 ### 4.1. De duur van het verblijf in Nederland
 
@@ -2857,7 +2857,7 @@ De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij de Rijks
 
 ### B12. De verblijfsvergunning regulier onbepaalde tijd
 
-### 2. Algemene beleidsregels
+### 2. Beleidsregels
 
 De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) gegeven bevoegdheid als de vreemdeling stelt dat hij:
 
@@ -3389,9 +3389,9 @@ In dit hoofdstuk zijn de beleidsregels opgenomen die gelden voor:
 
 Voor verplaatsing van het hoofdverblijf wordt verwezen naar paragraaf B1/6.2.1. Vc.
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/ 4.4.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van [artikel 15, eerste lid, aanhef en onder d of f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) wordt ingetrokken.
+Paragraaf B9/14.1 Vc is van toepassing.
 
-De IND wijst een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd op nationale gronden niet af op grond van [artikel 21, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als de vreemdeling op het moment van het nemen van het besluit vijf jaar ononderbroken rechtmatig verblijf heeft.
+De IND beschouwt de beschikking van de SVB als bewijsmiddel van de vertrekdatum en het recht op basisvoorzieningen of toekenning van de remigratievoorziening.
 
 ### 2.8. Openbare orde beleid
 
@@ -4821,55 +4821,55 @@ De IND beschouwt als bewijsmiddel waarmee de vreemdeling de herkomst van zijn ve
 
 Op grond van [artikel 3.4, eerste lid, aanhef en onder m, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.4) verleent de IND de verblijfsvergunning regulier voor bepaalde tijd onder de beperking: ‘het zoeken en verrichten van arbeid al dan niet in loondienst’.
 
-Op grond van [artikel 3.59, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.59) verlengt de IND de verblijfsvergunning voor de duur van vijf jaar aan de vermogende vreemdeling.
+De IND wijst een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd niet af op grond van [artikel 21, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als de vreemdeling direct voorafgaande aan het nemen van het besluit vijf achtereenvolgende jaren rechtmatig verblijf heeft genoten als bedoeld in [artikel 8, onder a, c, e, l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), dan wel op grond van een EU-verblijfsvergunning voor langdurig ingezetenen.
 
-In dit verband wordt verwezen naar paragraaf B9/8.1, ad 2 Vc.
+Als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan ter hoogte van minimaal het normbedrag voor alleenstaanden als bedoeld in [artikel 3.19, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.19), telt de IND het duurzame, zelfstandig verworven inkomen van het gezinslid bij wie hij verblijft mee bij de berekening van de middelen van bestaan. In dat geval geldt het toepasselijke normbedrag voor gezinnen als bedoeld in [artikel 3.74, eerste lid, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74). Een kind dat feitelijk niet langer bij een gezinslid verblijft omdat hij buitenshuis een volledige dagopleiding volgt (al dan niet met een studiebeurs), wordt geacht nog steeds bij dit gezinslid te verblijven.
 
-De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) gegeven bevoegdheid als de vreemdeling stelt dat hij:
+De IND telt bij de in [artikel 21, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde periode van tien jaar aaneengesloten rechtmatig verblijf, mee:
 
-De IND wijst de aanvraag tot het verlenen of wijzigen van de beperking van een verblijfsvergunning regulier voor onbepaalde tijd als langdurig ingezetene af als in ieder geval één van de in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde gronden zich voordoet en [artikel 3.92 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92) hierop geen uitzondering maakt.
+De IND maakt gebruik van de bevoegdheid om een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd wegens gevaar voor de openbare orde of de nationale veiligheid af te wijzen, zoals bedoeld in [artikel 21, eerste lid, aanhef en onder c en d, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) en [artikel 3.95 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95), tenzij dit in strijd is met internationale verplichtingen.
 
-De IND neemt aan dat sprake is van een formeel beperkt verblijfsrecht van de vreemdeling als bedoeld in [artikel 21, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als:
+In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) geldt dat de IND niet verlangt dat de vreemdeling gedurende acht jaar **ononderbroken** was ingeschreven in de GBA of rechtmatig in Nederland verbleef.
 
 Als de IND de verblijfsvergunning regulier vervolgens alsnog verleent, dan beschouwt de IND de periode van verblijf gedurende bezwaar- of beroepsprocedure (achteraf bezien) niet meer als formeel beperkt verblijfsrecht.
 
-De IND maakt gebruik van de bevoegdheid om een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd wegens gevaar voor de openbare orde op nationale gronden af te wijzen, zoals bedoeld in [artikel 21, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [artikel 21a, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [artikel 3.92, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92), tenzij dit in strijd is met internationale verplichtingen.
-
-In aanvulling op [artikel 3.96a, tweede lid, aanhef en onder b, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) geldt dat de IND niet verlangt dat de vreemdeling gedurende acht jaar **ononderbroken** was ingeschreven als ingezetene in de BRP of rechtmatig in Nederland verbleef.
-
 Op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) ontheft de IND de vreemdeling van de wettelijke verplichting het inburgeringsexamen te behalen als hij aantoont dat hij een zodanige psychische of lichamelijke belemmering of verstandelijke handicap heeft, dat hij binnen vijf jaren niet in staat is om het inburgeringsexamen te behalen.
+
+Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) past de IND in ieder geval de hardheidsclausule toe als de vreemdeling ondanks aantoonbaar geleverde inspanning redelijkerwijs niet in staat kan worden geacht het inburgeringsexamen te behalen.
+
+De IND maakt in ieder geval geen gebruik van de in [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) gegeven bevoegdheid als de vreemdeling stelt dat hij:
 
 De IND beoordeelt of sprake is van een gevaar voor de nationale veiligheid. In welk geval hiervan in ieder geval sprake is staat vermeld in paragraaf B1/4.4 Vc.
 
-Op grond van [artikel 21, eerste lid, aanhef en onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) verleent de IND de verblijfsvergunning voor onbepaalde tijd met de aantekening ‘EG-langdurig ingezetene’ niet als sprake is van een vreemdeling die:
+De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de volgende voorwaarden.
 
-De IND wijst een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd op nationale gronden niet af op grond van [artikel 21, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als de vreemdeling op het moment van het nemen van het besluit vijf jaar ononderbroken rechtmatig verblijf heeft.
+De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/2.7.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren op grond van [artikel 15, eerste lid, aanhef en onder d of f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15).
 
 De IND neemt aan dat sprake is van een formeel beperkt verblijfsrecht van de vreemdeling als bedoeld in [artikel 21, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als:
 
-De IND telt bij de in [artikel 21a, eerste lid, aanhef en onder a en b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) genoemde periode van tien jaar aaneengesloten rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder a of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), mee:
+De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/2.7.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren door het afleggen van een verklaring van afstand, nadat het Nederlanderschap is verleend en voordat het Nederlanderschap met toepassing van [artikel 15, eerste lid, aanhef en onder d of f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15) wordt ingetrokken.
 
-De IND maakt gebruik van de bevoegdheid om een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd wegens gevaar voor de openbare orde op nationale gronden af te wijzen, zoals bedoeld in [artikel 21, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [artikel 21a, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [artikel 3.92, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92), tenzij dit in strijd is met internationale verplichtingen.
+De IND verleent de verblijfsvergunning voor onbepaalde tijd op grond van [artikel 3.92, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92) aan de vreemdeling die in aanmerking komt voor de terugkeeroptie op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8) als:
 
 Voor verplaatsing van het hoofdverblijf wordt verwezen naar paragraaf B1/6.2.1. Vc.
 
 Als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan ter hoogte van minimaal het normbedrag voor alleenstaanden als bedoeld in [artikel 3.19, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.19), telt de IND het duurzame, zelfstandig verworven inkomen van het gezinslid bij wie hij verblijft mee bij de berekening van de middelen van bestaan. In dat geval geldt het toepasselijke normbedrag voor gezinnen als bedoeld in [artikel 3.74, eerste lid, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74).
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de volgende voorwaarden.
+De IND verleent een verblijfsvergunning voor onbepaalde tijd aan de vreemdeling als bedoeld in [artikel 3.93, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en met inachtneming van artikel 3.93, tweede, derde en vierde lid, Vb.
 
-De IND wijst deze aanvraag niet af als de vreemdeling:
+Ten aanzien van de in [artikel 3.93, eerste lid, aanhef en onder b, sub 2, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93) genoemde vreemdelingen geldt het volgende:
 
 Op grond van [artikel 21, eerste lid, aanhef en onder i, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) verleent de IND de verblijfsvergunning voor onbepaalde tijd met de aantekening ‘EG-langdurig ingezetene’ niet als sprake is van een vreemdeling die:
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als de vreemdeling naast de in paragraaf B12/4.4.1.1 Vc genoemde voorwaarden ook voldoet aan de voorwaarde dat hij het Nederlanderschap heeft verloren op grond van [artikel 15, eerste lid, aanhef en onder d of f, RWN](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=15).
+IND trekt de verblijfsvergunning regulier voor onbepaalde tijd in als zich een omstandigheid voordoet als genoemd in [artikel 22, tweede lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22) en als de [artikelen 3.97](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.97) en [3.98 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98) hierop geen uitzondering maken.
 
 De IND wijst een aanvraag tot het verlenen of wijzigen van de beperking van een verblijfsvergunning regulier voor onbepaalde tijd op nationale gronden af wanneer in ieder geval één van de in [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde gronden zich voordoet, voor zover de [artikelen 21a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [artikel 3.93 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.94) en [3.95 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95) hierop geen uitzondering maken.
 
-De IND verleent de verblijfsvergunning voor onbepaalde tijd op grond van [artikel 8 van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8) als:
+De IND beschouwt als bewijsmiddel dat de ex-geprivilegieerde tien aaneengesloten jaren in Nederland heeft verbleven:
 
-De IND wijst deze aanvraag niet af als de vreemdeling:
+De IND beschouwt een verklaring van het Ministerie van BuZa waaruit blijkt dat de vreemdeling tien aaneengesloten jaren in Nederland heeft verbleven als afhankelijk gezinslid van een vreemdeling die gedurende deze periode in Nederland heeft verbleven op grond van een geprivilegieerde status als bewijsmiddel dat de vreemdeling voldoet aan de voorwaarde als bedoeld in [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93).
 
-De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de voorwaarden genoemd in [artikel 3.92, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92).
+Als het afhankelijke gezinslid van de ex-geprivilegieerde niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan, dan beschouwt de IND een verklaring van de ex-geprivilegieerde waaruit blijkt dat het afhankelijke gezinslid kan beschikken over het inkomen als bewijsmiddel dat het afhankelijke gezinslid zelfstandig en duurzaam beschikt over voldoende middelen van bestaan.
 
 De IND verleent een verblijfsvergunning voor onbepaalde tijd met toepassing van [artikel 21a Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) op nationale gronden.
 
@@ -9693,23 +9693,23 @@ De IND beschouwt als bewijsmiddel waaruit blijkt dat de vreemdeling een verblijf
 
 De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling een investering van minimaal € 1.250.000 doet in een onderneming in Nederland:
 
-In dit hoofdstuk zijn de beleidsregels opgenomen die gelden voor:
+In dit hoofdstuk zijn de beleidsregels opgenomen die gelden voor vreemdelingen die een verblijfsvergunning voor onbepaalde tijd als bedoeld in [artikel 20 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20) aanvragen.
 
 De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij de Rijksdienst voor Ondernemend Nederland:
 
 De IND beschouwt als bewijsmiddel waarmee de vreemdeling de herkomst van zijn vermogen kan aantonen:
 
-Als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan ter hoogte van minimaal het normbedrag voor alleenstaanden als bedoeld in [artikel 3.19, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.19), telt de IND het duurzame, zelfstandig verworven inkomen van het gezinslid bij wie hij verblijft mee bij de berekening van de middelen van bestaan. In dat geval geldt het toepasselijke normbedrag voor gezinnen als bedoeld in [artikel 3.74, eerste lid, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74).
+In dit verband wordt verwezen naar paragraaf B9/8.1, ad 2 Vc.
 
 De IND maakt gebruik van de bevoegdheid om een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd wegens gevaar voor de openbare orde af te wijzen, zoals bedoeld in [artikel 21, eerste lid, aanhef en onder e, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) en [artikel 3.92, vijfde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92), tenzij dit in strijd is met internationale verplichtingen.
 
 Als de IND de verblijfsvergunning regulier vervolgens alsnog verleent, dan beschouwt de IND de periode van verblijf gedurende bezwaar- of beroepsprocedure (achteraf bezien) niet meer als formeel beperkt verblijfsrecht.
 
-Als de vreemdeling niet zelfstandig en duurzaam beschikt over voldoende middelen van bestaan ter hoogte van minimaal het normbedrag voor alleenstaanden als bedoeld in [artikel 3.19, eerste lid, VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.19), telt de IND het duurzame, zelfstandig verworven inkomen van het gezinslid bij wie hij verblijft mee bij de berekening van de middelen van bestaan. In dat geval geldt het toepasselijke normbedrag voor gezinnen als bedoeld in [artikel 3.74, eerste lid, aanhef en onder a, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.74).
+De IND verleent een verblijfsvergunning regulier voor onbepaalde tijd als wordt voldaan aan de voorwaarden genoemd in [artikel 3.92, eerste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92).
 
-De vreemdeling:
+De IND verleent een verblijfsvergunning voor onbepaalde tijd aan het afhankelijk gezinslid van een ex-geprivilegieerde als geen van de gronden van [artikel 21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) zich voordoet en wordt voldaan aan [artikel 3.93, eerste lid, aanhef en onder c, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), artikel 3.93, derde lid, Vb en [artikel 3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a).
 
-De IND telt bij de in [artikel 21a, eerste lid, aanhef en onder a en b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) genoemde periode van tien jaar aaneengesloten rechtmatig verblijf als bedoeld in [artikel 8, aanhef en onder a of l, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), mee:
+De IND beschouwt als bewijsmiddel waaruit een familierechtelijke relatie moet blijken:
 
 De IND wijst deze aanvraag niet af als:
 
@@ -11759,13 +11759,13 @@ De IND verleent de verblijfsvergunning niet of trekt deze in als de FIU meldt da
 
 Op grond van [artikel 3.58, achtste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), verleent de IND de verblijfsvergunning voor de duur van één jaar aan de vermogende vreemdeling.
 
-De beleidsregels zijn een aanvulling op of een uitwerking van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21a) en [22 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=22).
+De beleidsregels zijn een aanvulling op of een uitwerking van de artikelen 20 en [21 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=20).
 
-Op grond van [artikel 3.58, achtste lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), verleent de IND de verblijfsvergunning voor de duur van vijf jaar aan economisch niet-actieve langdurig ingezetenen.
+De IND wijst een aanvraag tot het verlenen van een verblijfsvergunning regulier voor onbepaalde tijd af wanneer één van de in [artikel 21, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) genoemde gronden zich voordoet, voor zover artikel 21, tweede, derde en vierde lid, Vw en de [artikelen 3.92](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.92), [3.93](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.93), [3.94](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.94)[3.95](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.95), [3.96](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96) en [3.96a Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) hierop geen uitzondering maken.
 
 Op grond van [artikel 3.96a, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) ontheft de IND de vreemdeling van de wettelijke verplichting het inburgeringsexamen te behalen als hij aantoont dat hij een zodanige psychische of lichamelijke belemmering of verstandelijke handicap heeft, dat hij binnen vijf jaren niet in staat is om het inburgeringsexamen te behalen.
 
-Op grond van [artikel 3.58, zesde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.58), verleent de IND de verblijfsvergunning voor de duur van ten hoogste één jaar voor het verrichten van arbeid al dan niet in loondienst.
+De IND neemt aan dat sprake is van een verblijfsrecht van tijdelijke aard als bedoeld in [artikel 21, eerste lid, onder f, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als de verblijfsvergunning is verleend onder een beperking als genoemd in [artikel 3.5, tweede lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.5), tenzij de geldigheidsduur van de verblijfsvergunning onbeperkt kan worden verlengd.
 
 Op grond van [artikel 3.96a, vierde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.96a) past de IND in ieder geval de hardheidsclausule toe als de vreemdeling ondanks aantoonbaar geleverde inspanning redelijkerwijs niet in staat kan worden geacht het inburgeringsexamen te behalen.
 
@@ -12667,7 +12667,7 @@ Op grond van [artikel 3.1, derde lid, aanhef en onder f, VV](https://wetten.over
 
 ### 9.1.4. Noodzakelijke medische behandeling
 
-De IND wijst een aanvraag voor een verblijfsvergunning regulier voor onbepaalde tijd met de aantekening ‘EG-langdurig ingezetene’ niet af op grond van [artikel 21, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=21) als de vreemdeling op het moment van het nemen van het besluit vijf jaar ononderbroken rechtmatig verblijf heeft.
+Voor verplaatsing van het hoofdverblijf wordt verwezen naar paragraaf B1/6.2.1. Vc.
 
 **Frauduleuze verkrijging**
 
