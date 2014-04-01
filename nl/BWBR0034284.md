@@ -4,7 +4,7 @@ identifier: "BWBR0034284"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2013-12-31"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034284"
 soort: "ministeriele-regeling"
@@ -74,6 +74,6 @@ Code 104 zoals die luidde tot 31 december 2013 blijft van toepassing op rijbewij
 
 ##### Artikel IX
 
-Deze regeling treedt in werking met ingang van 31 december 2013, met uitzondering van de [artikelen VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034284&artikel=VI&z=2013-12-31&g=2013-12-31), met betrekking tot de toepassing van punt 8.4.1, en onderdeel B, en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034284&artikel=VII&z=2013-12-31&g=2013-12-31), met betrekking tot de toepassing van punt 8.4.1, en onderdeel B, die in werking treden met ingang van 1 april 2014.
+Deze regeling treedt in werking met ingang van 31 december 2013, met uitzondering van de [artikelen VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034284&artikel=VI&z=2014-04-01&g=2014-04-01), met betrekking tot de toepassing van punt 8.4.1, en onderdeel B, en [VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034284&artikel=VII&z=2014-04-01&g=2014-04-01), met betrekking tot de toepassing van punt 8.4.1, en onderdeel B, die in werking treden met ingang van 1 april 2014.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
