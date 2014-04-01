@@ -4,7 +4,7 @@ identifier: "BWBR0032024"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2012-11-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032024"
 soort: "ministeriele-regeling"
@@ -83,13 +83,13 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 
 ##### Artikel 4. dienst van algemeen belang
 
-1. De zorgautoriteit belast een opleidende zorgaanbieder op diens aanvraag met een dienst van algemeen belang voor opleidingsactiviteiten voor een vervolgopleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=2&z=2012-11-01&g=2012-11-01).
+1. De zorgautoriteit belast een opleidende zorgaanbieder op diens aanvraag met een dienst van algemeen belang voor opleidingsactiviteiten voor een vervolgopleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=2&z=2014-04-01&g=2014-04-01).
 
 2. De zorgautoriteit toetst de aanvraag aan het verdeelplan dat ik met betrekking tot het jaar 2013 vaststel, en wat betreft de doorstroom tevens aan de opleidingsoverzichten die de voor de desbetreffende vervolgopleidingen relevante registratiecommissies met betrekking tot het jaar 2013 bijhouden.
 
 ##### Artikel 5. verstrekken beschikbaarheidbijdrage
 
-1. De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage vast ter compensatie voor het verlenen van de dienst van algemeen belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=4&z=2012-11-01&g=2012-11-01). Zij vermeldt daarbij, met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=7&z=2012-11-01&g=2012-11-01), per vervolgopleiding of de beschikbaarheidbijdrage ten laste van het Algemeen Fonds Bijzondere Ziektekosten, dan wel het Zorgverzekeringsfonds bij het College voor zorgverzekeringen in rekening kan worden gebracht.
+1. De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage vast ter compensatie voor het verlenen van de dienst van algemeen belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=4&z=2014-04-01&g=2014-04-01). Zij vermeldt daarbij, met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=7&z=2014-04-01&g=2014-04-01), per vervolgopleiding of de beschikbaarheidbijdrage ten laste van het Algemeen Fonds Bijzondere Ziektekosten, dan wel het Zorgverzekeringsfonds bij het Zorginstituut in rekening kan worden gebracht.
 
 2. De zorgautoriteit stelt de beschikbaarheidbijdrage vast op basis van het aantal gerealiseerde opleidingsplaatsen. Daarbij laat zij verrekening van rente in verband met een eventueel verschil tussen verlening en vaststelling achterwege.
 
