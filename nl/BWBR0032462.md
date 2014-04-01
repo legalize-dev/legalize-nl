@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -314,15 +314,15 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 2. Goudse kaas is:
 
-- a. halfhard tot hard;
+- a. halfhard of hard;
 
-- b. bereid uit koemelk;
+- b. bereid uit koemelk of producten uit koemelk waarbij de verhouding tussen wei-eiwit en caseïne van koemelk niet wordt overstegen;
 
 - c. ivoor tot geel van kleur;
 
 - d. platcilindrisch dan wel rechthoekig van vorm;
 
-- e. bereid uit gepasteuriseerde grondstoffen met voor Goudse kaas typische cultures van melkzuur- en aromavormende micro-organismen;
+- e. bereid uit gepasteuriseerde of hoogverhitte grondstoffen met voor Goudse kaas typische cultures van melkzuur- en aromavormende micro-organismen;
 
 - f. gezouten door pekelen.
 
@@ -334,7 +334,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 - 1°. ten hoogste 52% bij een vetgehalte van 30% tot 40% in de droge stof;
 
-- 2°. ten hoogste 48% bij een vetgehalte van 40 tot 48% in de droge stof;
+- 2°. ten hoogste 48% bij een vetgehalte van 40% tot 48% in de droge stof;
 
 - 3°. ten hoogste 45% bij een vetgehalte van 48% tot 60% in de droge stof;
 
@@ -346,15 +346,15 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 2. Edammer kaas is:
 
-- a. halfhard tot hard;
+- a. halfhard of hard;
 
-- b. bereid uit koemelk;
+- b. bereid uit koemelk of producten uit koemelk waarbij de verhouding tussen wei-eiwit en caseïne van koemelk niet wordt overstegen;
 
 - c. ivoor tot geel van kleur;
 
 - d. afgeplat bolvormig dan wel rechthoekig van vorm;
 
-- e. bereid uit gepasteuriseerde grondstoffen met voor Edammer kaas typische cultures van melkzuur- en aromavormende micro-organismen;
+- e. bereid uit gepasteuriseerde of hoogverhitte grondstoffen met voor Edammer kaas typische cultures van melkzuur- en aromavormende micro-organismen;
 
 - f. gezouten door pekelen.
 
@@ -366,9 +366,9 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 - 1°. ten hoogste 53% bij een vetgehalte van 30% tot 40% in de droge stof;
 
-- 2°. ten hoogste 49% bij een vetgehalte van 40 tot 45% in de droge stof;
+- 2°. ten hoogste 49% bij een vetgehalte van 40% tot 45% in de droge stof;
 
-- 3°. ten hoogste 45% bij een vetgehalte van 45 % tot 50% in de droge stof;
+- 3°. ten hoogste 45% bij een vetgehalte van 45% tot 50% in de droge stof;
 
 - 4°. ten hoogste 43% bij een vetgehalte van 50% tot 60% in de droge stof;
 
@@ -380,15 +380,15 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 2. Commissiekaas is:
 
-- a. halfhard tot hard;
+- a. halfhard of hard;
 
-- b. bereid uit koemelk;
+- b. bereid uit koemelk of producten uit koemelk waarbij de verhouding tussen wei-eiwit en caseïne van koemelk niet wordt overstegen;
 
 - c. oranje tot oranjerood van kleur;
 
 - d. afgeplat bolvormig dan wel rechthoekig van vorm;
 
-- e. bereid uit gepasteuriseerde grondstoffen met voor Commissiekaas typische cultures van melkzuur- en aromavormende micro-organismen;
+- e. bereid uit gepasteuriseerde of hoogverhitte grondstoffen met voor Commissiekaas typische cultures van melkzuur- en aromavormende micro-organismen;
 
 - f. gezouten door pekelen.
 
@@ -400,7 +400,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 - 1°. ten hoogste 53% bij een vetgehalte van 30% tot 40% in de droge stof;
 
-- 2°. ten hoogste 49% bij een vetgehalte van 40 tot 45% in de droge stof;
+- 2°. ten hoogste 49% bij een vetgehalte van 40% tot 45% in de droge stof;
 
 - 3°. ten hoogste 45% bij een vetgehalte van 45% tot 50% in de droge stof;
 
@@ -418,7 +418,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-01-01&g=2014-01-01);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-04-01&g=2014-04-01);
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
 
@@ -586,7 +586,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](onbekend), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-01-01&g=2014-01-01) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-04-01&g=2014-04-01) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -632,15 +632,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-01-01&g=2014-01-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-04-01&g=2014-04-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-01-01&g=2014-01-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-04-01&g=2014-04-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-01-01&g=2014-01-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-04-01&g=2014-04-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-01-01&g=2014-01-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-04-01&g=2014-04-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -664,7 +664,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-01-01&g=2014-01-01).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-04-01&g=2014-04-01).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
@@ -676,7 +676,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-01-01&g=2014-01-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-01-01&g=2014-01-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-01-01&g=2014-01-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-01-01&g=2014-01-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-04-01&g=2014-04-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-04-01&g=2014-04-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-04-01&g=2014-04-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-04-01&g=2014-04-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
@@ -781,7 +781,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in artikel 17, eerste lid, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
-## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-01-01&g=2014-01-01) van de Regeling dierlijke producten
+## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-04-01&g=2014-04-01) van de Regeling dierlijke producten
 
 In deze bijlage wordt verstaan onder:
 
