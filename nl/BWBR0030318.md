@@ -4,7 +4,7 @@ identifier: "BWBR0030318"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2012-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030318"
 soort: "ministeriele-regeling"
@@ -132,29 +132,29 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ##### Artikel 4. grens
 
-1. De zorgautoriteit stelt voor instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) voor het jaar 2012 en het jaar 2013 ambtshalve een vaste grens als bedoeld in [artikel 50, tweede lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast voor de som van de tarieven die met betrekking tot die jaren in rekening worden gebracht of hadden of zullen kunnen worden gebracht voor zorg in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) die in 2011 niet zou hebben behoord tot het vrije segment bij instellingen en in 2011 bekostigd zou zijn op basis van de beleidsregels van de zorgautoriteit met betrekking tot functiegerichte budgettering of delen van die zorg.
+1. De zorgautoriteit stelt voor instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) voor het jaar 2012 en het jaar 2013 ambtshalve een vaste grens als bedoeld in [artikel 50, tweede lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast voor de som van de tarieven die met betrekking tot die jaren in rekening worden gebracht of hadden of zullen kunnen worden gebracht voor zorg in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) die in 2011 niet zou hebben behoord tot het vrije segment bij instellingen en in 2011 bekostigd zou zijn op basis van de beleidsregels van de zorgautoriteit met betrekking tot functiegerichte budgettering of delen van die zorg.
 
 2. De grens voor de zorg bedoeld in het eerste lid voor het jaar 2012 bestaat uit de som van:
 
 - a. de som van de tarieven die met betrekking tot die zorg in het jaar 2012 in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden in het jaar 2012 en
 
-- b. 95 procent van het transitiebedrag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2012-01-01&g=2012-01-01).
+- b. 95 procent van het transitiebedrag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2014-04-01&g=2014-04-01).
 
 3. De grens voor de zorg bedoeld in het eerste lid voor het jaar 2013 bestaat uit de som van:
 
 - a. de som van de tarieven die met betrekking tot die zorg in het jaar 2013 in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de beleidsregels die gelden in het jaar 2013 en
 
-- b. 70 procent van het transitiebedrag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2012-01-01&g=2012-01-01).
+- b. 70 procent van het transitiebedrag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2014-04-01&g=2014-04-01).
 
 ##### Artikel 5. transitiebedrag
 
-1. De zorgautoriteit stelt voor de overgang van functiegerichte bekostiging naar prestatiegerichte bekostiging van de instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) eenmalig een transitiebedrag vast per instelling.
+1. De zorgautoriteit stelt voor de overgang van functiegerichte bekostiging naar prestatiegerichte bekostiging van de instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) eenmalig een transitiebedrag vast per instelling.
 
 2. Het transitiebedrag is gebaseerd op:
 
-- a. de som van de tarieven die met betrekking tot zorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), in het jaar 2012 in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de nader door de zorgautoriteit vast te stellen beleidsregels die de situatie van de budgetsystematiek in het jaar 2011 benaderen minus;
+- a. de som van de tarieven die met betrekking tot zorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), in het jaar 2012 in rekening zijn gebracht of hadden kunnen worden gebracht met toepassing van de nader door de zorgautoriteit vast te stellen beleidsregels die de situatie van de budgetsystematiek in het jaar 2011 benaderen minus;
 
-- b. de som van de tarieven die met betrekking tot zorg of delen van die zorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), in het jaar 2012 in rekening zijn gebracht of hadden of zullen kunnen worden gebracht met toepassing van de beleidsregels die gelden in het jaar 2012.
+- b. de som van de tarieven die met betrekking tot zorg of delen van die zorg als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), in het jaar 2012 in rekening zijn gebracht of hadden of zullen kunnen worden gebracht met toepassing van de beleidsregels die gelden in het jaar 2012.
 
 3. Het vastgestelde transitiebedrag geldt voor de gehele transitieperiode, bestaande uit de jaren 2012 en 2013.
 
@@ -162,13 +162,13 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 1. De zorgautoriteit stelt per instelling voor het jaar 2012 en het jaar 2013 een verrekenbedrag vast.
 
-2. Het verrekenbedrag is de resultante van de vermenigvuldiging van het op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2012-01-01&g=2012-01-01) vastgestelde transitiebedrag met een verrekenfactor.
+2. Het verrekenbedrag is de resultante van de vermenigvuldiging van het op basis van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2014-04-01&g=2014-04-01) vastgestelde transitiebedrag met een verrekenfactor.
 
 3. De verrekenfactor voor het jaar 2012 is vastgesteld op 0,95. De verrekenfactor voor het jaar 2013 is vastgesteld op 0,70.
 
 ##### Artikel 7. afwikkeling transitie via opbrengstverrekening en sluittarief
 
-1. Indien de vaststelling van het verrekenbedrag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=6&z=2012-01-01&g=2012-01-01) door de zorgautoriteit leidt tot negatief bedrag voor de desbetreffende instelling, wordt door de zorgautoriteit met toepassing van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b) een vereffeningbedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling.
+1. Indien de vaststelling van het verrekenbedrag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=6&z=2014-04-01&g=2014-04-01) door de zorgautoriteit leidt tot negatief bedrag voor de desbetreffende instelling, wordt door de zorgautoriteit met toepassing van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b) een vereffeningbedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling.
 
 2. Indien de vaststelling van het verrekenbedrag door de zorgautoriteit leidt tot een positief bedrag voor de desbetreffende instelling wordt door de zorgautoriteit een sluittarief per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling.
 
@@ -178,13 +178,13 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 1. Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die zijn geopend vóór het jaar 2012, blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luiden op het moment van openen van de prestatie.
 
-2. Alle in 2011 en daarvoor geopende diagnose behandeling combinaties en het daarop betrekking hebbende functiegericht budget van instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), worden afgehandeld met inachtneming van de systematiek die is opgenomen in de Aanwijzing van 19 juni 2009 inzake overdekking ziekenhuiszorg 2007 en verder (Stcrt. 2009, nr. 9643).
+2. Alle in 2011 en daarvoor geopende diagnose behandeling combinaties en het daarop betrekking hebbende functiegericht budget van instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01), worden afgehandeld met inachtneming van de systematiek die is opgenomen in de Aanwijzing van 19 juni 2009 inzake overdekking ziekenhuiszorg 2007 en verder (Stcrt. 2009, nr. 9643).
 
 ##### Artikel 9. einde DOT-experiment
 
 1. Met de invoering van de product- en tariefstructuur als bedoeld in de [Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030210) van 27 juni 2011 (Stcrt. 2011, nr. 11796) vervalt het experiment als bedoeld in [Aanwijzing inzake experiment met de DOT-structuur](https://wetten.overheid.nl/jci1.3:c:BWBR0029155) van 10 december 2010 (Stcrt. 2010, nr. 20441) met ingang van 2012 en wordt met deze aanwijzing en de invoering van die structuur bij eerstgenoemde aanwijzing het experiment als geslaagd en als afgehandeld beschouwd overeenkomstig het bepaalde in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-2. Gelet op het risico waaraan de aan het experiment deelnemende instelling zich gedurende de looptijd van het experiment en het vorige experiment betreffende volledige bekostiging van revalidatiezorg in combinatie met vrije tarieven vrijwillig heeft onderworpen, is een transitiemodel als omschreven in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&z=2012-01-01&g=2012-01-01) van deze aanwijzing op die instelling niet van toepassing.
+2. Gelet op het risico waaraan de aan het experiment deelnemende instelling zich gedurende de looptijd van het experiment en het vorige experiment betreffende volledige bekostiging van revalidatiezorg in combinatie met vrije tarieven vrijwillig heeft onderworpen, is een transitiemodel als omschreven in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&z=2014-04-01&g=2014-04-01) van deze aanwijzing op die instelling niet van toepassing.
 
 ### Hoofdstuk IV. Categorale instellingen
 
@@ -202,27 +202,27 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ##### Artikel 12. opschorting 2008–2011
 
-De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2012-01-01&g=2012-01-01) daadwerkelijk plaats vindt.
+De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01) daadwerkelijk plaats vindt.
 
 ##### Artikel 13. toerekening opbrengstverschil
 
-1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door het College voor zorgverzekeringen, verder te noemen het CVZ, verstrekte gegevens, per categorale instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2012-01-01&g=2012-01-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
+1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door het Zorginstituut, verder te noemen het CVZ, verstrekte gegevens, per categorale instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
 - a. zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en
 
 - b. andere particuliere verzekeraars, zijnde financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar uitoefenen.
 
-2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2012-01-01&g=2012-01-01), aan de desbetreffende categorale instelling bekend maakt.
+2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01), aan de desbetreffende categorale instelling bekend maakt.
 
-3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2012-01-01&g=2012-01-01), aan deze bekend maakt.
+3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01), aan deze bekend maakt.
 
 ##### Artikel 14. opbrengstverrekening 2012 en volgende
 
-Met ingang van 2012 vindt met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=8&z=2012-01-01&g=2012-01-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
+Met ingang van 2012 vindt met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=8&z=2014-04-01&g=2014-04-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
 
 ##### Artikel 15. audiologische centra
 
-1. De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op zelfstandige audiologische centra met dien verstande dat:
+1. De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige audiologische centra met dien verstande dat:
 
 - a. voor deze instellingen een door de zorgautoriteit goedgekeurd en zo nodig aangepast overgangsmodel ontwikkeld door de Federatie van Nederlandse Audiologische Centra en Zorgverzekeraars Nederland kan worden gehanteerd;
 
@@ -242,15 +242,15 @@ Met ingang van 2012 vindt met inachtneming van [artikel 8](https://wetten.overhe
 
 ##### Artikel 16. dialysecentra
 
-De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op zelfstandige dialysecentra met dien verstande dat voor prestaties door dialysecentra vrije tarieven gelden.
+De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige dialysecentra met dien verstande dat voor prestaties door dialysecentra vrije tarieven gelden.
 
 ##### Artikel 17. radiotherapeutische centra
 
-De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op zelfstandige radiotherapeutische centra met dien verstande dat voor prestaties door radiotherapeutische centra vrije tarieven gelden.
+De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige radiotherapeutische centra met dien verstande dat voor prestaties door radiotherapeutische centra vrije tarieven gelden.
 
 ##### Artikel 18. revalidatie centra
 
-De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) zijn van overeenkomstige toepassing op zelfstandige revalidatiecentra met dien verstande dat:
+De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige revalidatiecentra met dien verstande dat:
 
 - a. de transitietermijn drie jaren bedraagt te rekenen vanaf 1 januari 2012;
 
@@ -286,7 +286,7 @@ In aanvulling op opdrachten in de [aanwijzing transparante prestatiebeschrijving
 
 ##### Artikel 22. afwikkeling transitie via beschikbaarheidbijdrage
 
-Het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=7&z=2012-01-01&g=2012-01-01) is niet van toepassing indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan, daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven en de zorgautoriteit op grond van die aanwijzing met betrekking tot die afwikkeling beleidsregels heeft vastgesteld.
+Het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=7&z=2014-04-01&g=2014-04-01) is niet van toepassing indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan, daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven en de zorgautoriteit op grond van die aanwijzing met betrekking tot die afwikkeling beleidsregels heeft vastgesteld.
 
 ##### Artikel 23. citeertitel
 
@@ -294,11 +294,11 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing transitiemodel prestatiebekosti
 
 ##### Artikel 24. inwerkingtreding
 
-1. Met uitzondering van de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=9&z=2012-01-01&g=2012-01-01), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=14&z=2012-01-01&g=2012-01-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) treedt deze aanwijzing terstond in werking.
+1. Met uitzondering van de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=9&z=2014-04-01&g=2014-04-01), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=14&z=2014-04-01&g=2014-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) treedt deze aanwijzing terstond in werking.
 
-2. De artikelen genoemd in het eerste lid, met uitzondering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01), treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
+2. De artikelen genoemd in het eerste lid, met uitzondering van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01), treden in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
 
-3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2012-01-01&g=2012-01-01) van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
+3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
 
 ##### Artikel 25. publicatie
 
