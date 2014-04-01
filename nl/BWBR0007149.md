@@ -4,7 +4,7 @@ identifier: "BWBR0007149"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007149"
 soort: "wet"
@@ -60,25 +60,29 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. niet eerder toegelaten vreemdeling: een vreemdeling die niet eerder over een voor het verrichten van arbeid geldige vergunning tot verblijf heeft beschikt, dan wel een vreemdeling die, na over een zodanige vergunning te hebben beschikt, zijn hoofdverblijf weer buiten Nederland heeft gevestigd dan wel buiten Nederland heeft voortgezet;
 
-- e. tewerkstellingsvergunning: een vergunning als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01);
+- e. tewerkstellingsvergunning: vergunning voor een werkgever die wordt verleend door Onze Minister op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=5&z=2014-04-01&g=2014-04-01), ten behoeve van een vreemdeling die rechtmatig verblijf heeft of heeft aangevraagd, anders dan op grond van een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) die is verleend onder de beperking «arbeid in loondienst» of «lerend werken»;
 
 - f. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- g. prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdelingen als bedoeld in de [artikelen 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=3&z=2014-01-01&g=2014-01-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=4&z=2014-01-01&g=2014-01-01).
+- g. prioriteitgenietend aanbod: aanbod van de zijde van Nederlanders en vreemdelingen als bedoeld in de [artikelen 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=3&z=2014-04-01&g=2014-04-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=4&z=2014-04-01&g=2014-04-01);
+
+- h. gecombineerde vergunning: verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), verleend door Onze Minister van Veiligheid en Justitie onder de beperking «arbeid in loondienst» of «lerend werken», tevens zijnde vergunning voor het verrichten van werkzaamheden bij een specifieke werkgever, met het aanvullend document;
+
+- i. aanvullend document: document waarin de aanvullende informatie is opgenomen, bedoeld in artikel 6, eerste lid, tweede alinea, van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven (PbEU 2011, L343).
 
 #### § II. Tewerkstelling van vreemdelingen
 
 ##### Artikel 2
 
-1. Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning.
+1. Het is een werkgever verboden een vreemdeling in Nederland arbeid te laten verrichten zonder tewerkstellingsvergunning of zonder dat een vreemdeling in het bezit is van een gecombineerde vergunning voor werkzaamheden bij die werkgever.
 
-2. Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning of indien die vreemdeling beschikt over een gecombineerde vergunning voor werkzaamheden bij die werkgever.
 
 ##### Artikel 3
 
-1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01), is niet van toepassing met betrekking tot:
+1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-04-01&g=2014-04-01), is niet van toepassing met betrekking tot:
 
-- a. een vreemdeling ten aanzien van wie ingevolge bepalingen, vastgesteld bij overeenkomst met andere mogendheden dan wel bij een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, een tewerkstellingsvergunning niet mag worden verlangd;
+- a. een vreemdeling ten aanzien van wie ingevolge bepalingen, vastgesteld bij overeenkomst met andere mogendheden dan wel bij een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, een tewerkstellingsvergunning of een gecombineerde vergunning niet mag worden verlangd;
 
 - b. een vreemdeling die beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) voor het verrichten van arbeid als zelfstandige, voor zover deze vreemdeling arbeid verricht als zelfstandige;
 
@@ -88,7 +92,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01), is evenmin van toepassing met betrekking tot een vreemdeling die beschikt over een krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven verblijfsvergunning, welke is voorzien van een aantekening van Onze Minister van Veiligheid en Justitie waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid.
+1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-04-01&g=2014-04-01), is evenmin van toepassing met betrekking tot een vreemdeling die beschikt over een krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) afgegeven verblijfsvergunning, welke is voorzien van een aantekening van Onze Minister van Veiligheid en Justitie waaruit blijkt dat aan die vergunning geen beperkingen zijn verbonden voor het verrichten van arbeid.
 
 2. Een zodanige aantekening wordt afgegeven aan een vreemdeling:
 
@@ -102,7 +106,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Onze Minister is bevoegd tot het afgeven en intrekken van tewerkstellingsvergunningen.
 
-2. Onze Minister kan de in het eerste lid bedoelde bevoegdheden delegeren aan het Uitvoeringsinstituut werknemersverzekeringen.
+2. Onze Minister wijst een instantie aan die Onze Minister van Veiligheid en Justitie adviseert inzake het verlenen, verlengen of intrekken van een gecombineerde vergunning.
+
+3. Het advies, bedoeld in het tweede lid, wordt binnen een termijn van vijf weken na ontvangst van het verzoek om advies uitgebracht.
+
+4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de advisering, bedoeld in het tweede lid.
+
+5. De werkgever verstrekt op verzoek van de aangewezen instantie, bedoeld in het tweede lid, kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor het uitbrengen van het in dat lid bedoelde advies.
+
+6. Onze Minister kan de in het eerste lid bedoelde bevoegdheden delegeren aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 6
 
@@ -112,11 +124,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de werkgever, de persoonsgegevens van de vreemdeling, de geldigheidsduur van de tewerkstellingsvergunning, alsmede een omschrijving van de aard en de plaats van de door de vreemdeling te verrichten arbeid.
+1. De tewerkstellingsvergunning en het aanvullend document als onderdeel van de gecombineerde vergunning vermelden de naam en de plaats van vestiging van de werkgever en andere identificerende gegevens van de werkgever, het loon van de vreemdeling, de persoonsgegevens van de vreemdeling, de geldigheidsduur van de tewerkstellingsvergunning of de gecombineerde vergunning, alsmede een omschrijving van de aard en de plaats van de door de vreemdeling te verrichten arbeid.
+
+2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de identificerende gegevens, bedoeld in het eerste lid.
 
 ##### Artikel 8
 
-1. Een tewerkstellingsvergunning wordt geweigerd:
+1. Onze Minister weigert een tewerkstellingsvergunning of Onze Minister van Veiligheid en Justitie weigert een gecombineerde vergunning:
 
 - a. indien voor de desbetreffende arbeidsplaats prioriteitgenietend aanbod op de arbeidsmarkt aanwezig is;
 
@@ -136,9 +150,9 @@ De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de 
 
 - g. indien het een arbeidsplaats betreft die behoort tot een bij algemene maatregel van bestuur aangewezen categorie van werkzaamheden, waarvan het niet in het Nederlands belang is deze door vreemdelingen te laten verrichten; of
 
-- h. indien het een categorie van werkzaamheden of van vreemdelingen betreft waarvoor overeenkomstig artikel 5a een limiet aan het aantal te verlenen tewerkstellingsvergunningen is gesteld, welke limiet is bereikt.
+- h. indien het een categorie van werkzaamheden of van vreemdelingen betreft waarvoor overeenkomstig [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=5a&z=2014-04-01&g=2014-04-01) een limiet aan het aantal te verlenen tewerkstellingsvergunningen of gecombineerde vergunningen is gesteld, welke limiet is bereikt.
 
-2. Onder bij of krachtens algemene maatregel van bestuur te stellen voorwaarden is het eerste lid, onder a, b, c, f en h niet van toepassing op de vreemdeling die de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend en die ten bewijze daarvan door Onze Minister van Veiligheid en Justitie in het bezit is gesteld van een daartoe aangewezen document, en niet beschikt over een aantekening als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=4&z=2014-01-01&g=2014-01-01), van de wet, en die gelet op de verbetering van de kwaliteit van het verblijf van die vreemdeling arbeid mag verrichten.
+2. Onder bij of krachtens algemene maatregel van bestuur te stellen voorwaarden is het eerste lid, onder a, b, c, f en h niet van toepassing op de vreemdeling die de toegang tot Nederland niet is geweigerd en door wie of ten behoeve van wie een asielaanvraag is ingediend en die ten bewijze daarvan door Onze Minister van Veiligheid en Justitie in het bezit is gesteld van een daartoe aangewezen document, en niet beschikt over een aantekening als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=4&z=2014-04-01&g=2014-04-01), van de wet, en die gelet op de verbetering van de kwaliteit van het verblijf van die vreemdeling arbeid mag verrichten.
 
 3. In door Onze Minister te bepalen gevallen kan:
 
@@ -154,7 +168,7 @@ De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de 
 
 ##### Artikel 9
 
-1. Een tewerkstellingsvergunning kan worden geweigerd:
+1. Onze Minister kan een tewerkstellingsvergunning weigeren of Onze Minister van Veiligheid en Justitie kan een gecombineerde vergunning weigeren:
 
 - a. indien voorzienbaar is dat binnen een redelijke termijn voor de desbetreffende arbeidsplaats prioriteitgenietend aanbod op de arbeidsmarkt beschikbaar zal komen;
 
@@ -170,9 +184,9 @@ De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de 
 
 - g. indien de werkgever geen erkende referent is als bedoeld in [artikel 1, onderdeel t, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen;
 
-- h. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108);
+- h. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108);
 
-- i. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning een bestuurlijke boete is opgelegd op grond van:
+- i. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd op grond van:
 
 - 1°. [artikel 10:1 van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=10:1);
 
@@ -180,11 +194,11 @@ De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de 
 
 - 3°. [artikel 18b van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b);
 
-- 4°. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-01-01&g=2014-01-01) van de Wet arbeid vreemdelingen; of
+- 4°. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-04-01&g=2014-04-01) van de Wet arbeid vreemdelingen; of
 
 - 5°. [artikel 16 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=16);
 
-- j. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning is gestraft op grond van:
+- j. indien de werkgever binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning is gestraft op grond van:
 
 - 1°. [artikel 273f, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f);
 
@@ -202,7 +216,7 @@ De tewerkstellingsvergunning vermeldt de naam en de plaats van vestiging van de 
 
 ##### Artikel 10
 
-Aan een tewerkstellingsvergunning kunnen voorschriften worden verbonden welke ertoe strekken:
+Onze Minister kan voorschriften verbinden aan een tewerkstellingsvergunning of Onze Minister van Veiligheid en Justitie kan voorschriften verbinden aan een gecombineerde vergunning, die ertoe strekken:
 
 - a. dat de werkgever inspanningen pleegt arbeidsplaatsen door prioriteitgenietend op de arbeidsmarkt beschikbaar aanbod te doen vervullen;
 
@@ -218,11 +232,11 @@ Aan een tewerkstellingsvergunning kunnen voorschriften worden verbonden welke er
 
 2. Ten behoeve van tijdelijk werk wordt een tewerkstellingsvergunning voor ten hoogste vier en twintig weken verleend, indien de desbetreffende arbeid wordt verricht door een niet eerder toegelaten vreemdeling. Deze vreemdeling mag gedurende een periode van veertien weken direct voorafgaande aan de tewerkstellingsvergunning niet over een voor het verrichten van arbeid geldige verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) hebben beschikt.
 
-3. In afwijking van het eerste lid wordt een tewerkstellingsvergunning die is verleend met toepassing van [artikel 8, derde lid, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=8&z=2014-01-01&g=2014-01-01), voor ten hoogste drie jaar verleend.
+3. In afwijking van het eerste lid wordt een tewerkstellingsvergunning die is verleend met toepassing van [artikel 8, derde lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=8&z=2014-04-01&g=2014-04-01), voor ten hoogste drie jaar verleend.
 
 ##### Artikel 12
 
-1. Een tewerkstellingsvergunning wordt ingetrokken:
+1. Onze Minister kan een tewerkstellingsvergunning intrekken of Onze Minister van Veiligheid en Justitie kan een gecombineerde vergunning intrekken:
 
 - a. indien de voor verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken te zijn geweest, dat op de aanvraag een andere beslissing zou zijn genomen als bij de beoordeling daarvan de juiste omstandigheden volledig bekend waren geweest;
 
@@ -234,7 +248,7 @@ Aan een tewerkstellingsvergunning kunnen voorschriften worden verbonden welke er
 
 ##### Artikel 13
 
-Onverminderd de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12&z=2014-01-01&g=2014-01-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12a&z=2014-01-01&g=2014-01-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12b&z=2014-01-01&g=2014-01-01), kan intrekking van een tewerkstellingsvergunning slechts geschieden ingevolge:
+Onverminderd de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12&z=2014-04-01&g=2014-04-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12a&z=2014-04-01&g=2014-04-01) en [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=12b&z=2014-04-01&g=2014-04-01), en onverminderd [artikel 19 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) kan Onze Minister een tewerkstellingsvergunning slechts intrekken of kan Onze Minister van Veiligheid en Justitie een gecombineerde vergunning slechts intrekken ingevolge:
 
 - a. het niet in acht nemen van een beperking waaronder de tewerkstellingsvergunning is verleend, of
 
@@ -262,11 +276,11 @@ Onverminderd de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 16
 
-1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-01-01&g=2014-01-01), zijn bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.
+1. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-04-01&g=2014-04-01), zijn bevoegd bij het verwerken van persoonsgegevens gebruik te maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.
 
-2. Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-01-01&g=2014-01-01), kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet. Bestuursorganen kunnen daarbij gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voor zover zij daartoe gerechtigd zijn.
+2. Bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd aan de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-04-01&g=2014-04-01), kosteloos alle gegevens en inlichtingen te verstrekken die noodzakelijk zijn voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet. Bestuursorganen kunnen daarbij gebruik maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer, voor zover zij daartoe gerechtigd zijn.
 
-3. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-01-01&g=2014-01-01), verstrekken andere bestuursorganen kosteloos gegevens welke zij behoeven ter uitvoering van hun taak. De laatste volzin van het tweede lid is van overeenkomstige toepassing.
+3. De door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=14&z=2014-04-01&g=2014-04-01), verstrekken andere bestuursorganen kosteloos gegevens welke zij behoeven ter uitvoering van hun taak. De laatste volzin van het tweede lid is van overeenkomstige toepassing.
 
 4. De in het tweede en derde lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.
 
@@ -276,11 +290,11 @@ Onverminderd de [artikelen 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 17
 
-De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner indien sprake is van een redelijk vermoeden van een overtreding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-01-01&g=2014-01-01).
+De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner indien sprake is van een redelijk vermoeden van een overtreding als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-04-01&g=2014-04-01).
 
 ##### Artikel 18
 
-1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=15&z=2014-01-01&g=2014-01-01) en het bepaalde bij of krachtens [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2a&z=2014-01-01&g=2014-01-01).
+1. Als overtreding wordt aangemerkt het niet naleven van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-04-01&g=2014-04-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=15&z=2014-04-01&g=2014-04-01) en het bepaalde bij of krachtens [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2a&z=2014-04-01&g=2014-04-01).
 
 2. Als overtreding wordt tevens aangemerkt het door de werkgever niet naleven van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) voor zover het betreft het door de toezichthouder uitoefenen van bevoegdheden ter vaststelling van de identiteit van degene die voor de werkgever arbeid verricht of heeft verricht.
 
@@ -306,7 +320,7 @@ Onze Minister stelt nadere regels ter bevordering van een goede uitvoering van d
 
 1. De werkgever is verplicht de vreemdeling die arbeid heeft verricht zijn loon als bedoeld in artikel 2, onderdeel j, van de Richtlijn nr. 2009/52/EG van het Europees Parlement en de Raad van 18 juni 2009 tot vaststelling van minimumnormen inzake sancties en maatregelen tegen werkgevers van illegaal verblijvende onderdanen van derde landen (PbEU 2009 L 168) te voldoen.
 
-2. Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01), wordt de vreemdeling vermoed gedurende ten minste zes maanden werkzaam te zijn voor die werkgever tegen het loon, bedoeld in het eerste lid, en voor de duur van het verrichten van de arbeid die in de desbetreffende bedrijfstak gebruikelijk is.
+2. Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-04-01&g=2014-04-01), wordt de vreemdeling vermoed gedurende ten minste zes maanden werkzaam te zijn voor die werkgever tegen het loon, bedoeld in het eerste lid, en voor de duur van het verrichten van de arbeid die in de desbetreffende bedrijfstak gebruikelijk is.
 
 3. De vreemdeling kan tevens elke naast hogere werkgever aansprakelijk stellen voor de nakoming van het eerste lid.
 
@@ -362,7 +376,7 @@ Vervallen
 
 - b. het officiële nummer waaronder het betreffende vervoermiddel is geregistreerd, voor zover in verband met de overtreding van belang.
 
-2. Het rapport wordt toegezonden aan de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-01-01&g=2014-01-01), aangewezen ambtenaar.
+2. Het rapport wordt toegezonden aan de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-04-01&g=2014-04-01), aangewezen ambtenaar.
 
 ##### Artikel 19a
 
@@ -382,11 +396,11 @@ Vervallen
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-2. Onverminderd het eerste lid verhoogt de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-01-01&g=2014-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
+2. Onverminderd het eerste lid verhoogt de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-04-01&g=2014-04-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 100 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boete wegens de eerdere overtreding onherroepelijk is geworden.
 
 3. De verhoging van de bestuurlijke boete, bedoeld in het tweede lid, bedraagt 200 procent indien zowel de overtreding als de eerdere overtreding, bedoeld in dat lid, bij of krachtens algemene maatregel van bestuur zijn aangewezen als ernstige overtredingen.
 
-4. Onverminderd het eerste lid verhoogt de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-01-01&g=2014-01-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
+4. Onverminderd het eerste lid verhoogt de op grond van [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=19a&z=2014-04-01&g=2014-04-01), aangewezen ambtenaar de op te leggen bestuurlijke boete met 200 procent van het boetebedrag, vastgesteld op grond van het zesde lid, indien binnen een tijdvak van vijf jaar voorafgaand aan de dag van constatering van de overtreding twee maal een eerdere overtreding, bestaande uit het niet naleven van eenzelfde wettelijke verplichting of verbod of het niet naleven van bij of krachtens algemene maatregel van bestuur aan te wijzen soortgelijke verplichtingen en verboden, is geconstateerd en de bestuurlijke boeten wegens de eerdere overtredingen onherroepelijk zijn geworden.
 
 5. In afwijking van het tweede en vierde lid is het tijdvak van vijf jaar in die leden tien jaar indien de onherroepelijke boetes, bedoeld in die leden, zijn opgelegd wegens bij of krachtens algemene maatregel van bestuur aangewezen ernstige overtredingen.
 
@@ -424,11 +438,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 12a
 
-Een tewerkstellingsvergunning kan worden ingetrokken:
+Onze Minister kan een tewerkstellingsvergunning intrekken of Onze Minister van Veiligheid en Justitie kan een gecombineerde vergunning intrekken indien:
 
 - a. indien de werkgever geen erkende referent is als bedoeld in [artikel 1, onderdeel t, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) omdat zijn erkenning is ingetrokken of geschorst of omdat zijn aanvraag tot erkenning is afgewezen, of
 
-- b. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108).
+- b. indien de werkgever een referent is als bedoeld in [artikel 1, onderdeel s, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1) of een erkende referent als bedoeld in artikel 1, onderdeel t, van die wet en hem op grond van [artikel 55a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=55a) binnen een periode van vijf jaar direct voorafgaande aan de aanvraag voor een tewerkstellingsvergunning of gecombineerde vergunning een bestuurlijke boete is opgelegd of indien hij in die periode is gestraft op grond van [artikel 108 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=108);
+
+- c. het een gecombineerde vergunning betreft, eveneens met toepassing van de in [artikel 19 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=19) bedoelde intrekkingsgronden voor een verblijfsvergunning regulier voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14).
 
 #### § III. Toezicht
 
@@ -438,7 +454,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 2a
 
-1. Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-01-01&g=2014-01-01), niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken.
+1. Een werkgever die een vreemdeling arbeid in Nederland laat verrichten, ten aanzien waarvan het verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=II&artikel=2&z=2014-04-01&g=2014-04-01), niet geldt, is verplicht dit gegeven schriftelijk te melden ten minste twee werkdagen voor aanvang van de werkzaamheden aan een bij ministeriële regeling aan te wijzen instantie, onder overlegging van een verklaring en bewijsstukken.
 
 2. De verplichting, bedoeld in het eerste lid, geldt niet, indien de werkgever reeds uit hoofde van andere, bij algemene maatregel van bestuur aan te wijzen, bepalingen een meldingsplicht heeft.
 
@@ -470,7 +486,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 17d
 
-Een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=17b&z=2014-01-01&g=2014-01-01), wordt genomen namens Onze Minister.
+Een beschikking op grond van deze wet van een ambtenaar als bedoeld in [artikel 17b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=III&artikel=17b&z=2014-04-01&g=2014-04-01), wordt genomen namens Onze Minister.
 
 #### § IV. Bestuursrechtelijke handhaving
 
@@ -480,11 +496,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 5a
 
-Bij algemene maatregel van bestuur kan worden bepaald dat voor bepaalde categorieën van werkzaamheden of, indien daarvoor een volkenrechtelijke verplichting bestaat, voor bepaalde categorieën van vreemdelingen een limiet aan het aantal te verlenen tewerkstellingsvergunningen wordt ingesteld.
+Bij algemene maatregel van bestuur kan worden bepaald dat voor bepaalde categorieën van werkzaamheden of, indien daarvoor een volkenrechtelijke verplichting bestaat, voor bepaalde categorieën van vreemdelingen een limiet aan het aantal te verlenen tewerkstellingsvergunningen of gecombineerde vergunningen wordt ingesteld.
 
 ##### Artikel 12b
 
-Een tewerkstellingsvergunning kan worden ingetrokken indien de werkgever binnen een periode van vijf jaar voorafgaand aan het moment waarop de vergunning wordt ingetrokken:
+Onze Minister kan voorts een tewerkstellingsvergunning intrekken of Onze Minister van Veiligheid en Justitie kan voorts een gecombineerde vergunning intrekken indien de werkgever binnen een periode van vijf jaar voorafgaand aan het moment waarop de vergunning wordt ingetrokken:
 
 - a. een bestuurlijke boete is opgelegd op grond van:
 
@@ -494,7 +510,7 @@ Een tewerkstellingsvergunning kan worden ingetrokken indien de werkgever binnen 
 
 - 3°. [artikel 18b van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=18b);
 
-- 4°. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-01-01&g=2014-01-01) van de Wet arbeid vreemdelingen; of
+- 4°. [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&paragraaf=IV&artikel=18&z=2014-04-01&g=2014-04-01) van de Wet arbeid vreemdelingen; of
 
 - 5°. [artikel 16 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=16);
 
