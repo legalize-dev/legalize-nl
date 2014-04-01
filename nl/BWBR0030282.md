@@ -4,7 +4,7 @@ identifier: "BWBR0030282"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2011-09-08"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030282"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - f. **bestaande instelling:** een instelling die vóór 1 januari 2012 is toegelaten in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) én sindsdien feitelijk zorg levert ten laste van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) én voor die datum een budget kapitaallasten heeft toegekend gekregen door de zorgautoriteit;
 
-- g. **AWBZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2011-09-08&g=2011-09-08);
+- g. **AWBZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
-- h. **GGZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2011-09-08&g=2011-09-08);
+- h. **GGZ-instelling:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
-- i. **kinderdagcentrum:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2011-09-08&g=2011-09-08);
+- i. **kinderdagcentrum:** een instelling die zorg of diensten levert als bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01);
 
 - j. **invoeringsperiode:** de periode van 1 januari 2012 tot en met 31 december 2017.
 
@@ -130,7 +130,7 @@ Bij de opbouw van de nhc's hanteert de zorgautoriteit voor onderstaande elemente
 
 2. Met ingang van 2012 rekent de zorgautoriteit met een rente van vijf procent.
 
-3. De zorgautoriteit houdt voor de jaren na 2012 in het kader van het algehele onderhoud van de nhc’s als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=4&artikel=15&z=2011-09-08&g=2011-09-08) rekening met de renteontwikkelingen. Er vindt niet eerder een rentebijstelling plaats dan nadat de zorgautoriteit het onderhoudsplan als bedoeld in dat artikel heeft vastgesteld.
+3. De zorgautoriteit houdt voor de jaren na 2012 in het kader van het algehele onderhoud van de nhc’s als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=4&artikel=15&z=2014-04-01&g=2014-04-01) rekening met de renteontwikkelingen. Er vindt niet eerder een rentebijstelling plaats dan nadat de zorgautoriteit het onderhoudsplan als bedoeld in dat artikel heeft vastgesteld.
 
 ##### Artikel 7. afbouw nacalculatie en opbouw risico
 
@@ -163,7 +163,7 @@ De zorgautoriteit voorziet voor bestaande AWBZ-instellingen in een compensatiere
 
 - b. wat betreft oude plankosten of het verwijderen van asbest gaat het om de daaraan verbonden werkelijke kosten tot een door de zorgautoriteit vast te stellen maximum dat berekend wordt volgens een door haar vast te stellen methode;
 
-- c. aan de onder a en b bedoelde situaties dient een vergunning ten grondslag te liggen op grond van de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753), de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906), de [Tijdelijke verstrekkingenwet maatschappelijke dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0002957), de Wet op de bejaardenoorden, of de Regeling subsidiëring verzorgingshuizen van het College voor zorgverzekeringen;
+- c. aan de onder a en b bedoelde situaties dient een vergunning ten grondslag te liggen op grond van de [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753), de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906), de [Tijdelijke verstrekkingenwet maatschappelijke dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0002957), de Wet op de bejaardenoorden, of de Regeling subsidiëring verzorgingshuizen van het Zorginstituut;
 
 - d. voor de vaststelling van de hoogte van de vergoeding hanteert de zorgautoriteit de stand van zaken per ultimo 2011, zoals deze blijkt uit de jaarrekeningen 2011 van de instellingen;
 
@@ -185,11 +185,11 @@ De zorgautoriteit voorziet erin dat kosten voor extramurale zorginfrastructuur t
 
 ##### Artikel 13. GGZ-instellingen
 
-De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de huisvestingskosten van GGZ-instellingen overeenkomstig de wijze als voorzien in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&z=2011-09-08&g=2011-09-08) van deze aanwijzing, met dien verstande dat de huisvestingskosten met betrekking tot verblijf met behandeling ten laste van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in 2012 honderd procent worden nagecalculeerd.
+De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de huisvestingskosten van GGZ-instellingen overeenkomstig de wijze als voorzien in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&z=2014-04-01&g=2014-04-01) van deze aanwijzing, met dien verstande dat de huisvestingskosten met betrekking tot verblijf met behandeling ten laste van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in 2012 honderd procent worden nagecalculeerd.
 
 ##### Artikel 14. kinderdagcentra
 
-De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de kapitaalcomponent van de extramurale prestaties van kinderdagcentra overeenkomstig de opbouw van nhc's en het invoeringsregime als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&artikel=4&z=2011-09-08&g=2011-09-08) van deze aanwijzing.
+De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de kapitaalcomponent van de extramurale prestaties van kinderdagcentra overeenkomstig de opbouw van nhc's en het invoeringsregime als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&artikel=4&z=2014-04-01&g=2014-04-01) van deze aanwijzing.
 
 ### Hoofdstuk 4. Slot
 
