@@ -4,7 +4,7 @@ identifier: "BWBR0011373"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2013-07-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011373"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. raad: de raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a);
 
-- j. speelautomatenhal: een inrichting als bedoeld in [artikel 30c, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
+- j. speelautomatenhal: een inrichting als bedoeld in [artikel 30c, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30c);
 
 - k. speelcasino: een inrichting als bedoeld in [artikel 27g, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=27g);
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan drie biljarttafels aanwezig zijn en waarvoor ingevolge [artikel 3, eerste lid, onder a of c, van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) vergunning is verleend en deze nog van kracht is, of waarvan de ondernemer inschrijfplichtig en ingeschreven is bij het Bedrijfschap Horeca.
+Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan drie biljarttafels aanwezig zijn en waarvoor ingevolge [artikel 3, eerste lid, van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3) vergunning is verleend en deze nog van kracht is, of waarvan de ondernemer inschrijfplichtig en ingeschreven is bij het Bedrijfschap Horeca.
 
 ##### Artikel 3
 
@@ -120,7 +120,7 @@ Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan dri
 
 - e. een gedetineerde is als bedoeld in [artikel 1, onder e, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1).
 
-2. Aan degene die wegens misdrijf onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door de rechter in Nederland, de Nederlandse Antillen of Aruba wordt binnen vijf jaar na die veroordeling een vergunning als in het eerste lid bedoeld niet verleend.
+2. Aan degene die wegens misdrijf onherroepelijk is veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door de rechter in Nederland, Aruba, Curaçao of Sint Maarten wordt binnen vijf jaar na die veroordeling een vergunning als in het eerste lid bedoeld niet verleend.
 
 3. Met een veroordeling als bedoeld in het tweede lid worden gelijkgesteld:
 
@@ -130,15 +130,17 @@ Als laagdrempelige inrichtingen worden aangemerkt inrichtingen waar meer dan dri
 
 4. Aan degene die bij rechterlijke uitspraak onherroepelijk is veroordeeld tot een onvoorwaardelijke geldboete van € 450 of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, eerste lid, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9), op grond van of wegens of mede wegens overtreding van:
 
-- a. [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=31);
+- a. [artikel 36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=36);
 
-- b. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18)[juncto 73](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=73), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=21), [37, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=37), [38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=38), [43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=43), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44), en [56 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=56);
+- b. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=10), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=18), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=21) en [24 van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=24);
 
 - c. de [artikelen 140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [240b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=240b), [250ter](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=250ter), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=252), [416](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416), [417](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417) of [417bis van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=417bis);
 
 - d. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=2) en [5, tweede en vierde lid, van de Wet particuliere beveiligingsorganisaties en recherchebureaus](https://wetten.overheid.nl/jci1.3:c:BWBR0008973&artikel=5);
 
-- e. de artikelen 54 en 55 van de Wet wapens en munitie
+- e. de artikelen 54 en 55 van de Wet wapens en munitie;
+
+- f. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=2) en [3 van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3)
 
 en binnen vijf jaar na deze veroordeling opnieuw wordt veroordeeld tot een straf als hiervoor bedoeld, wordt een vergunning als in het eerste lid bedoeld niet verleend, totdat vijf jaar zijn verstreken sinds de aan deze laatste veroordeling voorafgaande eerdere veroordeling.
 
@@ -146,7 +148,7 @@ en binnen vijf jaar na deze veroordeling opnieuw wordt veroordeeld tot een straf
 
 6. Met een veroordeling tot een onvoorwaardelijke geldboete van € 450 of meer als bedoeld in het vierde lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige voorwaardelijke straf.
 
-7. Aan degene die de houder van een aanwezigheidsvergunning voor of bedrijfsleider of beheerder was van een inrichting waarvoor de vergunning onherroepelijk is ingetrokken op grond van [artikel 30f, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30f) of [artikel 31, eerste lid, onder d, van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=31) of die voor tenminste een maand is gesloten op grond van [artikel 174 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of van een op grond van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) vastgestelde verordening, wordt binnen drie jaar na die intrekking of sluiting een vergunning als in het eerste lid bedoeld niet verleend, tenzij aannemelijk wordt gemaakt dat hem ter zake geen verwijt treft.
+7. Aan degene die de houder van een aanwezigheidsvergunning voor of bedrijfsleider of beheerder was van een inrichting waarvoor de vergunning onherroepelijk is ingetrokken op grond van [artikel 30f, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30f) of [artikel 31, eerste lid, onder c, van de Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=31) of die voor tenminste een maand is gesloten op grond van [artikel 174 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of van een op grond van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) vastgestelde verordening, wordt binnen drie jaar na die intrekking of sluiting een vergunning als in het eerste lid bedoeld niet verleend, tenzij aannemelijk wordt gemaakt dat hem ter zake geen verwijt treft.
 
 8. De eisen van het eerste tot en met het zevende lid zijn van overeenkomstige toepassing op bedrijfsleiders en beheerders van een hoogdrempelige inrichting of een speelautomatenhal.
 
@@ -158,7 +160,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. De aanvrager van een exploitatievergunning verstrekt bij de aanvraag gegevens betreffende zijn onderneming en de personen die met de dagelijkse leiding van de onderneming zijn belast, alsmede over de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=8&z=2013-07-01&g=2013-07-01) bedoelde faciliteiten.
+1. De aanvrager van een exploitatievergunning verstrekt bij de aanvraag gegevens betreffende zijn onderneming en de personen die met de dagelijkse leiding van de onderneming zijn belast, alsmede over de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=8&z=2014-04-01&g=2014-04-01) bedoelde faciliteiten.
 
 2. Bij de indiening van de aanvraag van een exploitatievergunning is de aanvrager een vergoeding voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning verschuldigd van € 1 815,12.
 
@@ -168,7 +170,7 @@ Vervallen
 
 ##### Artikel 7
 
-[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2013-07-01&g=2013-07-01) is van overeenkomstige toepassing op de aanvrager van een exploitatievergunning en de bedrijfsleiders en beheerders van een exploitatie.
+[Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01) is van overeenkomstige toepassing op de aanvrager van een exploitatievergunning en de bedrijfsleiders en beheerders van een exploitatie.
 
 ##### Artikel 8
 
@@ -200,7 +202,7 @@ De houder van een exploitatievergunning heeft de beschikking over een werkplaats
 
 ##### Artikel 11
 
-In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een speelcasino worden voorschriften gegeven, welke gelden als voorwaarden tot toelating van het model van de kansspelautomaten, bestemd voor de opstelling in speelcasino's. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=9&z=2013-07-01&g=2013-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=10&z=2013-07-01&g=2013-07-01) zijn van toepassing.
+In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een speelcasino worden voorschriften gegeven, welke gelden als voorwaarden tot toelating van het model van de kansspelautomaten, bestemd voor de opstelling in speelcasino's. De [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=9&z=2014-04-01&g=2014-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.1&artikel=10&z=2014-04-01&g=2014-04-01) zijn van toepassing.
 
 #### § 4.3. Kansspelautomaten niet bestemd voor opstelling in speelautomatenhallen of speelcasino's
 
@@ -396,9 +398,9 @@ In de vergunning tot het aanwezig hebben van een of meer speelautomaten in een s
 
 ##### Artikel 14
 
-1. De raad kan aan de houder van een aanwezigheidsvergunning voor speelautomaten in een speelautomatenhal ontheffing verlenen van het vereiste van [artikel 13, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.4&artikel=13&z=2013-07-01&g=2013-07-01), dat de teller zich in de automaat moet bevinden, indien deze ten genoegen van de raad aantoont dat de door hem in de speelautomatenhal gehanteerde tellers voldoen aan de overige vereisten van dat artikelonderdeel.
+1. De raad kan aan de houder van een aanwezigheidsvergunning voor speelautomaten in een speelautomatenhal ontheffing verlenen van het vereiste van [artikel 13, eerste lid, onder u](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.4&artikel=13&z=2014-04-01&g=2014-04-01), dat de teller zich in de automaat moet bevinden, indien deze ten genoegen van de raad aantoont dat de door hem in de speelautomatenhal gehanteerde tellers voldoen aan de overige vereisten van dat artikelonderdeel.
 
-2. De raad kan aan de houder van een aanwezigheidsvergunning voor speelautomaten in een speelautomatenhal ontheffing verlenen van het vereiste van [artikel 12, eerste lid, onder d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.3&artikel=12&z=2013-07-01&g=2013-07-01), en artikel 13, eerste lid, onder d en j, indien deze ten genoegen van de raad aantoont dat de door hem in de speelautomatenhal gehanteerde centrale inworp- en uitbetalingssystemen een betrouwbare afhandeling van inworp en uitbetaling garanderen.
+2. De raad kan aan de houder van een aanwezigheidsvergunning voor speelautomaten in een speelautomatenhal ontheffing verlenen van het vereiste van [artikel 12, eerste lid, onder d en j](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=4&sub-paragraaf=4.3&artikel=12&z=2014-04-01&g=2014-04-01), en artikel 13, eerste lid, onder d en j, indien deze ten genoegen van de raad aantoont dat de door hem in de speelautomatenhal gehanteerde centrale inworp- en uitbetalingssystemen een betrouwbare afhandeling van inworp en uitbetaling garanderen.
 
 3. De raad kan aan de ontheffingen, bedoeld in het eerste en tweede lid, voorschriften verbinden, waaronder het voorschrift dat het centrale inworp- en uitbetalingssysteem in ieder geval zodanig functioneert dat:
 
@@ -464,13 +466,13 @@ Wijzigt het Besluit inlichtingen justitiële documentatie.
 
 ##### Artikel 20
 
-1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2013-07-01&g=2013-07-01), is degene die gedurende de overgangstermijn van [artikel IV, tweede lid, van de wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten) (Stb. 1999, 9)](https://wetten.overheid.nl/jci1.3:c:BWBR0010183&artikel=IV) een exploitatievergunning aanvraagt ter vervanging van een aan het einde van de overgangstermijn ingevolge dat artikellid nog geldende exploitatievergunning, voor die aanvraag geen vergoeding verschuldigd voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning.
+1. In afwijking van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2014-04-01&g=2014-04-01), is degene die gedurende de overgangstermijn van [artikel IV, tweede lid, van de wet van 24 december 1998 tot wijziging van de Wet op de kansspelen (speelautomaten) (Stb. 1999, 9)](https://wetten.overheid.nl/jci1.3:c:BWBR0010183&artikel=IV) een exploitatievergunning aanvraagt ter vervanging van een aan het einde van de overgangstermijn ingevolge dat artikellid nog geldende exploitatievergunning, voor die aanvraag geen vergoeding verschuldigd voor de kosten verbonden aan de behandeling van de aanvraag en de afgifte van de vergunning.
 
-2. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2013-07-01&g=2013-07-01), is degene die gedurende de in het eerste lid bedoelde overgangstermijn een aanvraag als in dat lid bedoeld indient, bij de indiening van deze aanvraag een vergoeding voor de kosten verbonden aan het toezicht op de naleving door hem van de bij of krachtens titel VA van de wet vastgestelde voorschriften verschuldigd ten bedrage van € 453,78 maal het aantal jaren waarvoor de vergunning geldt, alsmede een éénmalig bedrag van € 453,78 maal de breuk die gevormd wordt door het aantal dagen dat gelegen is tussen de laatste keer dat de aanvrager € 453,78 op grond van artikel 12 van het Speelautomatenbesluit heeft betaald en het begin van de overgangstermijn, bedoeld in het eerste lid, en 365.
+2. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2014-04-01&g=2014-04-01), is degene die gedurende de in het eerste lid bedoelde overgangstermijn een aanvraag als in dat lid bedoeld indient, bij de indiening van deze aanvraag een vergoeding voor de kosten verbonden aan het toezicht op de naleving door hem van de bij of krachtens titel VA van de wet vastgestelde voorschriften verschuldigd ten bedrage van € 453,78 maal het aantal jaren waarvoor de vergunning geldt, alsmede een éénmalig bedrag van € 453,78 maal de breuk die gevormd wordt door het aantal dagen dat gelegen is tussen de laatste keer dat de aanvrager € 453,78 op grond van artikel 12 van het Speelautomatenbesluit heeft betaald en het begin van de overgangstermijn, bedoeld in het eerste lid, en 365.
 
-3. Indien op een aanvraag van een exploitatievergunning die voor de inwerkingtreding van dit besluit is ingediend, na de inwerkingtreding van dit besluit wordt beslist, is, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2013-07-01&g=2013-07-01), de in dat artikellid bedoelde vergoeding verschuldigd bij de verlening van de exploitatievergunning.
+3. Indien op een aanvraag van een exploitatievergunning die voor de inwerkingtreding van dit besluit is ingediend, na de inwerkingtreding van dit besluit wordt beslist, is, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=6&z=2014-04-01&g=2014-04-01), de in dat artikellid bedoelde vergoeding verschuldigd bij de verlening van de exploitatievergunning.
 
-4. [Artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2013-07-01&g=2013-07-01), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=7&z=2013-07-01&g=2013-07-01) juncto [artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2013-07-01&g=2013-07-01), gelden ten aanzien van hen, die op het tijdstip van inwerkingtreding van dit besluit houder waren van een aanwezigheidsvergunning respectievelijk een exploitatievergunning, dan wel werkzaam waren als bedrijfsleider of beheerder van een inrichting waarvoor een dergelijke vergunning wordt aangevraagd of is verleend, niet met betrekking tot feiten als in [artikel 4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2013-07-01&g=2013-07-01), bedoeld die een grond zijn een vergunning te weigeren, die zich voorgedaan hebben vóór de inwerkingtreding van dit besluit.
+4. [Artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=3&artikel=7&z=2014-04-01&g=2014-04-01) juncto [artikel 4, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01), gelden ten aanzien van hen, die op het tijdstip van inwerkingtreding van dit besluit houder waren van een aanwezigheidsvergunning respectievelijk een exploitatievergunning, dan wel werkzaam waren als bedrijfsleider of beheerder van een inrichting waarvoor een dergelijke vergunning wordt aangevraagd of is verleend, niet met betrekking tot feiten als in [artikel 4, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01), bedoeld die een grond zijn een vergunning te weigeren, die zich voorgedaan hebben vóór de inwerkingtreding van dit besluit.
 
 ##### Artikel 21
 
