@@ -4,7 +4,7 @@ identifier: "BWBR0031415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2013-12-31"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031415"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op richtlijn nr. 2006/126/EG van het Europees Parlement en de Raad van de 
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, van de Wijzigingswet Wegenverkeerswet 1994, enz. (implementatie derde rijbewijsrichtlijn) in werking treedt.
+
 #### § 1. Eisen voor de praktijkexamens voor de rijbewijscategorieën C1 en E bij C1
 
 ##### Artikel 1
@@ -70,7 +72,7 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A 
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C.
 
-## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=1&artikel=1&z=2013-12-31&g=2013-12-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=2&artikel=2&z=2013-12-31&g=2013-12-31) van de Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C
+## Bijlage. bij de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031415&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) van de Regeling eisen praktijkexamens rijbewijscategorieën C1, E bij C1, C en E bij C
 
 ### Eind- en toetstermen voor het praktijk-examen rijbewijs voor categorie C1, E bij C1, C en E bij C
 
