@@ -4,7 +4,7 @@ identifier: "BWBR0030490"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2012-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030490"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Besluit:
 
 - c. **zorgautoriteit:** de Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **College zorgverzekeringen:** het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- d. **het Zorginstituut:** het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - e. **zorg:** zorg of diensten omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en waarop aanspraak bestaat ingevolge een zorgverzekering als bedoeld in [artikel 1, onder d, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
@@ -80,11 +80,11 @@ De Nederlandse Zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsre
 
 ##### Artikel 4. opbrengstverschil
 
-1. De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) bedoelde instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde zorgproductie, verder te noemen het opbrengstverschil.
+1. De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) bedoelde instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde zorgproductie, verder te noemen het opbrengstverschil.
 
 2. De zorgautoriteit stelt ambtshalve ten behoeve van de verrekening van het opbrengstverschil per instelling per jaar een bedrag vast.
 
-3. De zorgautoriteit informeert het College zorgverzekeringen over een verrekenpercentage per instelling waarmee de som van de door de instelling in rekening gebrachte tarieven ten behoeve van de vaststelling van de vereveningsbijdrage kunnen worden gecorrigeerd.
+3. De zorgautoriteit informeert het Zorginstituut over een verrekenpercentage per instelling waarmee de som van de door de instelling in rekening gebrachte tarieven ten behoeve van de vaststelling van de vereveningsbijdrage kunnen worden gecorrigeerd.
 
 ##### Artikel 5. opschorting
 
@@ -92,19 +92,19 @@ De zorgautoriteit schort de toepassing op van de verrekening van opbrengstversch
 
 ##### Artikel 6. toerekening opbrengstverschil
 
-1. De zorgautoriteit stelt voor de afrekening van het budgetjaar 2010 en daarna voor ieder volgend jaar, mede op basis van door het College zorgverzekeringen verstrekte gegevens, per instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
+1. De zorgautoriteit stelt voor de afrekening van het budgetjaar 2010 en daarna voor ieder volgend jaar, mede op basis van door het Zorginstituut verstrekte gegevens, per instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
 - a. zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en
 
 - b. andere particuliere verzekeraars, zijnde financiële ondernemingen die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar uitoefenen.
 
-2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), aan de desbetreffende instelling bekend maakt.
+2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), aan de desbetreffende instelling bekend maakt.
 
-3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2012-01-01&g=2012-01-01), aan deze bekend maakt.
+3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01), aan deze bekend maakt.
 
 ##### Artikel 7. opbrengstverrekening 2012 en volgende
 
-Met ingang van 2012 vindt met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=9&z=2012-01-01&g=2012-01-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
+Met ingang van 2012 vindt met inachtneming van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=9&z=2014-04-01&g=2014-04-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
 
 ### Hoofdstuk III. Versnelling opbrengstverrekening
 
@@ -116,17 +116,17 @@ Dit hoofdstuk is van toepassing voor:
 
 - b. gebudgetteerde categorale instellingen, bedoeld in [artikel 10 van Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&artikel=10) (Stcrt. 2011, nr. 13950);
 
-- c. cggz-instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2012-01-01&g=2012-01-01) van onderhavige aanwijzing.
+- c. cggz-instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) van onderhavige aanwijzing.
 
 ##### Artikel 9. Versnelling tijdpad opbrengstverrekening
 
-De zorgautoriteit voorziet er met betrokkenheid van het College zorgverzekeringen in dat met ingang van het budgetjaar 2010 het tijdpad bij de toepassing van de opbrengstverrekening voor de instellingen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=8&z=2012-01-01&g=2012-01-01) als volgt kan verlopen:
+De zorgautoriteit voorziet er met betrokkenheid van het Zorginstituut in dat met ingang van het budgetjaar 2010 het tijdpad bij de toepassing van de opbrengstverrekening voor de instellingen bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=III&artikel=8&z=2014-04-01&g=2014-04-01) als volgt kan verlopen:
 
 - a. September jaar t+1 vaststelling opbrengstresultaten per instelling over jaar t door de zorgautoriteit;
 
-- b. Eind september jaar t+1 berekening definitieve marktaandelen zorgverzekeraars per instelling jaar t-1 door het College zorgverzekeringen;
+- b. Eind september jaar t+1 berekening definitieve marktaandelen zorgverzekeraars per instelling jaar t-1 door het Zorginstituut;
 
-- c. Begin november jaar t+1 → vaststelling voorlopige verrekeningsbedragen jaar t per aanbieder, per verzekeraar door de zorgautoriteit. Eind september jaar t+2 berekening definitieve marktaandelen verzekeraars jaar t door het College zorgverzekeringen;
+- c. Begin november jaar t+1 → vaststelling voorlopige verrekeningsbedragen jaar t per aanbieder, per verzekeraar door de zorgautoriteit. Eind september jaar t+2 berekening definitieve marktaandelen verzekeraars jaar t door het Zorginstituut;
 
 - d. November jaar t+2 → vaststelling definitieve verrekeningsbedragen jaar t per aanbieder, per verzekeraar door de zorgautoriteit.
 
@@ -144,8 +144,8 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing opbrengstverrekening cggz-inste
 
 ##### Artikel 12
 
-1. Met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=7&z=2012-01-01&g=2012-01-01) treedt deze aanwijzing terstond in werking.
+1. Met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=7&z=2014-04-01&g=2014-04-01) treedt deze aanwijzing terstond in werking.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=7&z=2012-01-01&g=2012-01-01) treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030490&hoofdstuk=II&artikel=7&z=2014-04-01&g=2014-04-01) treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden.
 
 Deze aanwijzing wordt met de toelichting in de Staatscourant geplaatst.
