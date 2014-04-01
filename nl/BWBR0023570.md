@@ -4,7 +4,7 @@ identifier: "BWBR0023570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2008-05-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023570"
 soort: "ministeriele-regeling"
@@ -40,6 +40,6 @@ Gelet op [artikel 58, tweede lid, van de Zorgverzekeringswet](https://wetten.ove
 
 Besluit:
 
-Het College voor zorgverzekeringen is gevestigd in de gemeente Diemen.
+Het Zorginstituut is gevestigd in de gemeente Diemen.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
