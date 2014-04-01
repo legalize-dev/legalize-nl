@@ -4,7 +4,7 @@ identifier: "BWBR0030585"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2012-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030585"
 soort: "ministeriele-regeling"
@@ -82,7 +82,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing de nodige regels of b
 
 ##### Artikel 6. tarief
 
-1. Voor de prestatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030585&artikel=5&z=2012-01-01&g=2012-01-01), geldt een maximumtarief als bedoeld in [artikel 57, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
+1. Voor de prestatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030585&artikel=5&z=2014-04-01&g=2014-04-01), geldt een maximumtarief als bedoeld in [artikel 57, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
 2. De zorgautoriteit stelt de hoogte van het maximumtarief ambtshalve vast, zo nodig met terugwerkende kracht tot en met 1 januari 2012. Bij de vaststelling baseert zij zich op het maximumtarief, genoemd in artikel 2.9.4, tweede lid, van de ADL-subsidieregeling.
 
@@ -90,7 +90,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing de nodige regels of b
 
 De zorgautoriteit voorziet voor de jaren 2012 en 2013 in een budgetgarantie voor de zorgaanbieders die in 2011 subsidie ontvingen op grond van de ADL-subsidieregeling. Hierbij hanteert de zorgautoriteit de volgende uitgangspunten:
 
-- a. de budgetgarantie per zorgaanbieder komt overeen met de bedragen die het College voor zorgverzekeringen voor 2011 als subsidie heeft verleend aan de onderscheiden zorgaanbieders;
+- a. de budgetgarantie per zorgaanbieder komt overeen met de bedragen die het Zorginstituut voor 2011 als subsidie heeft verleend aan de onderscheiden zorgaanbieders;
 
 - b. de budgetgarantie wordt jaarlijks geïndexeerd op de voor de zorgautoriteit gebruikelijke wijze.
 
