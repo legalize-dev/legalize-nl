@@ -4,7 +4,7 @@ identifier: "BWBR0034551"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-04-01"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034551"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Het [Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2014.
 
-2. In afwijking van het eerste lid, treedt [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034551&artikel=I&z=2014-01-01&g=2014-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. In afwijking van het eerste lid, treedt [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034551&artikel=I&z=2014-04-01&g=2014-04-01), in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel IV
 
