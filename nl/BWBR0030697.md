@@ -4,7 +4,7 @@ identifier: "BWBR0030697"
 country: "nl"
 rank: "wet"
 publication_date: "2014-04-01"
-last_updated: "2013-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030697"
 soort: "wet"
@@ -73,7 +73,7 @@ Wijzigt de Ambtenarenwet.
 
 ##### Artikel VII
 
-In afwijking van [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), stelt de Minister geen beleidsregels vast voor zover het College zorgverzekeringen hiertoe bevoegd is op grond van [artikel 41, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=41).
+In afwijking van [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21), stelt de Minister geen beleidsregels vast voor zover het Zorginstituut hiertoe bevoegd is op grond van [artikel 41, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=41).
 
 ##### Artikel VIII
 
@@ -93,6 +93,6 @@ In afwijking van [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https
 
 1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel VA](https://wetten.overheid.nl/jci1.3:c:BWBR0030697&artikel=Va&z=2013-01-01&g=2013-01-01) werkt terug tot en met 1 januari 2009.
+2. [Artikel VA](https://wetten.overheid.nl/jci1.3:c:BWBR0030697&artikel=Va&z=2014-04-01&g=2014-04-01) werkt terug tot en met 1 januari 2009.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
