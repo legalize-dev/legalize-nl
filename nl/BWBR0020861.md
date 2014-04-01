@@ -4,7 +4,7 @@ identifier: "BWBR0020861"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2014-03-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020861"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit opsporing terroristische misdrijven.
 
-## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2014-03-01&g=2014-03-01)
+## Bijlage. als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020861&paragraaf=1&artikel=3&z=2014-04-01&g=2014-04-01)
 
 ### Veiligheidsrisicogebieden
 
