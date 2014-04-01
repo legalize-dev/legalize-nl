@@ -4,7 +4,7 @@ identifier: "BWBV0001698"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-04-01"
-last_updated: "2005-02-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001698"
 soort: "verdrag"
@@ -58,7 +58,7 @@ Zijn het volgende overeengekomen:
 
 ##### Artikel 1
 
-1. De Verdragsluitende Partijen belasten de Nederlands-Vlaamse Accreditatieorganisatie, hierna te noemen de Accreditatieorganisatie, met de taak zowel Nederlandse als Vlaamse opleidingen binnen het hoger onderwijs een toets nieuwe opleiding te laten ondergaan of te accrediteren overeenkomstig de regels die bij of krachtens Nederlandse wet respectievelijk Vlaams decreet zijn gesteld.
+1. De Verdragsluitende Partijen belasten de Nederlands-Vlaamse Accreditatieorganisatie, hierna te noemen de Accreditatieorganisatie, met de taak opleidingen binnen het hoger onderwijs, verzorgd door in Nederland of in Vlaanderen gevestigde instellingen, een toets nieuwe opleiding te laten ondergaan of te accrediteren of deze instellingen een instellingstoets kwaliteitszorg, respectievelijk instellingsreview, af te nemen overeenkomstig de regels die bij of krachtens Nederlandse wet respectievelijk Vlaams decreet zijn gesteld.
 
 2. De Verdragsluitende Partijen kunnen, na overleg, de Accreditatieorganisatie belasten met opdrachten die de opdracht, bedoeld in het eerste lid, ondersteunen of aanvullen.
 
@@ -110,7 +110,7 @@ De Accreditatieorganisatie bestaat in ieder geval uit een Bestuur en een Adviesr
 
 1. Het Bestuur wordt geregeld door een Bestuursreglement. Het Bestuursreglement treft ten minste op de volgende punten een regeling:
 
-- a. het voorzien in een Dagelijks Bestuur, waarbij de benoeming van de leden, waaronder de voorzitter en de vice-voorzitter, overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=2&artikel=5&z=2005-02-01&g=2005-02-01), geschiedt,
+- a. het voorzien in een Dagelijks Bestuur, waarbij de benoeming van de leden, waaronder de voorzitter en de vice-voorzitter, overeenkomstig [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01), geschiedt,
 
 - b. het voorzien in een bureau,
 
@@ -144,11 +144,23 @@ De Accreditatieorganisatie oordeelt binnen de termijnen en met inachtneming van 
 
 ##### Artikel 11
 
-1. Afgestudeerden van een door de Accreditatieorganisatie geaccrediteerde Nederlandse of Vlaamse opleiding worden geacht over een gelijkwaardig getuigschrift te beschikken als de afgestudeerden van een overeenkomstige Vlaamse respectievelijk Nederlandse geaccrediteerde opleiding, indien dat getuigschrift binnen het gevolgde hoger onderwijs recht geeft op doorstroming naar een andere opleiding binnen dat hoger onderwijs. Het getuigschrift wordt geacht gelijkwaardig te zijn voor zover het betreft de toelatingseisen in het kader van de doorstroom naar een andere Nederlandse of Vlaamse geaccrediteerde opleiding voor hoger onderwijs.
+1. Afgestudeerden van een door de Accreditatieorganisatie geaccrediteerde Nederlandse, respectievelijk Vlaamse opleiding in het hoger onderwijs worden geacht over een gelijkwaardig getuigschrift te beschikken als de afgestudeerden van een overeenkomstige Vlaamse, respectievelijk Nederlandse geaccrediteerde opleiding in het hoger onderwijs, met dien verstande dat:
 
-2. Eventuele aanvullende eisen die gelden voor de toelating tot een geaccrediteerde opleiding, blijven op de afgestudeerden, bedoeld in het eerste lid, op dezelfde wijze van toepassing als voor personen die op een andere wijze toelating tot de opleiding willen verkrijgen.
+- a. Nederlandse bacheloropleidingen in het hoger beroepsonderwijs en Vlaamse professioneel gerichte bacheloropleidingen met elkaar gelijk worden gesteld;
 
-3. Het eerste en tweede lid is van overeenkomstige toepassing op opleidingen waarvan de Accreditatieorganisatie heeft geoordeeld dat ze met positief gevolg de toets nieuwe opleiding hebben ondergaan.
+- b. Nederlandse bacheloropleidingen in het wetenschappelijk onderwijs en Vlaamse academisch gerichte bacheloropleidingen met elkaar gelijk worden gesteld; en
+
+- c. Nederlandse masteropleidingen in het hoger beroepsonderwijs en het wetenschappelijk onderwijs en Vlaamse masteropleidingen met elkaar gelijk worden gesteld.
+
+- d. De gelijkstelling de gelijkwaardigheid betreft van het academisch niveau van de opleidingen in Nederland en Vlaanderen en de toepassing van Richtlijn 2005/36/EG, waaronder het opleggen van compenserende maatregelen van het Europees Parlement en de Raad van de Europese Unie betreffende de erkenning van beroepskwalificaties (Pb EU 2005, L 255) onverlet laat.
+
+2. In afwijking van het eerste lid, onderdeel a, wordt het Nederlandse kunstonderwijs op het niveau van bacheloropleidingen en masteropleidingen in het hoger onderwijs gelijk gesteld met het Vlaamse kunstonderwijs op het niveau van professioneel gerichte bacheloropleidingen dan wel academisch gerichte bachelor-, respectievelijk masteropleidingen.
+
+3. Eventuele aanvullende eisen die gelden voor de toelating tot een geaccrediteerde opleiding, blijven op de afgestudeerden, bedoeld in het eerste lid, op dezelfde wijze van toepassing als voor personen die op een andere wijze toelating tot de opleiding willen verkrijgen.
+
+4. Het eerste en derde lid is van overeenkomstige toepassing op opleidingen waarvan de Accreditatieorganisatie heeft geoordeeld dat ze met positief gevolg de toets nieuwe opleiding hebben ondergaan.
+
+5. De Nederlandse Minister en de Vlaamse Minister zijn belast met de uitvoering van de bovengenoemde gelijkstelling van opleidingen en informeren elkaar binnen het Comité van Ministers. Zij zorgen ook voor een grensoverschrijdende bekendmaking van de Nederlandse respectievelijk Vlaamse lijst van de geaccrediteerde bachelor- en masteropleidingen in Vlaanderen respectievelijk in Nederland.
 
 ##### Artikel 12
 
@@ -180,11 +192,11 @@ De Verdragsluitende Partijen stellen aan de Accreditatieorganisatie voor uitvoer
 
 ##### Artikel 15
 
-1. Na overleg met de Accreditatieorganisatie, bepaalt elke Minister de tarieven die de Accreditatieorganisatie hanteert voor het verlenen van de accreditatie en voor het uitvoeren van de toets nieuwe opleiding voor de opleidingen waarvoor zij verantwoordelijk zijn.
+1. Na overleg met de Accreditatieorganisatie, bepaalt elke Minister de tarieven die de Accreditatieorganisatie hanteert voor het verlenen van de accreditatie en voor het uitvoeren van de toets nieuwe opleiding en de instellingstoets kwaliteitszorg, respectievelijk de instellingsreview.
 
 2. De inkomsten die de Accreditatieorganisatie ingevolge het eerste lid genereert, worden, voor zover het Comité van Ministers hier geen maximum aan heeft gesteld, beschouwd als een onderdeel van de door de respectieve partij beschikbaar gestelde financiering.
 
-3. Aanvullende opdrachten als bedoeld in artikel 1, tweede lid, die slechts door één van de Verdragsluitende Partijen aan de Accreditatieorganisatie wordt opgedragen, worden enkel en alleen door deze partij gefinancierd en vallen niet onder de verhouding, bedoeld in artikel 14.
+3. Aanvullende opdrachten als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=1&artikel=1&z=2014-04-01&g=2014-04-01), die slechts door één van de Verdragsluitende Partijen aan de Accreditatieorganisatie wordt opgedragen, worden enkel en alleen door deze partij gefinancierd en vallen niet onder de verhouding, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=4&artikel=14&z=2014-04-01&g=2014-04-01).
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
@@ -202,11 +214,11 @@ Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, 
 
 ##### Artikel 19
 
-Dit Verdrag is van toepassing op het Europese deel van het Koninkrijk der Nederlanden.
+Voor zover het het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op het land Nederland.
 
 ##### 1
 
-Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2005-02-01&g=2005-02-01) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
+Het gerecht, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001698&hoofdstuk=5&artikel=16&z=2014-04-01&g=2014-04-01) van dit Verdrag, bestaat uit drie arbiters, van wie elke Verdragsluitende Partij er één benoemt. De twee aldus gekozen arbiters bereiken overeenstemming over de derde arbiter. Deze derde arbiter mag geen onderdaan zijn of in dienst zijn van het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Verdragsluitende Partijen wijst een arbiter aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Verdragsluitende Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechtelijke beslissing wordt verzocht. Over de derde arbiter wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Verdragsluitende Partijen haar eigen arbiter niet aanwijst binnen de termijn van dertig dagen of indien over de derde arbiter niet binnen de genoemde termijn overeenstemming is bereikt, kan de Secretaris-Generaal van het Permanente Hof van Arbitrage door één van de Partijen worden verzocht een arbiter of arbiters te benoemen.
 
 ##### 2
 
