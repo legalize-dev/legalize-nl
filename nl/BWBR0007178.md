@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en [70, vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en [70, vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -67,7 +67,33 @@ Vervallen
 
 ##### Artikel 4
 
-Vervallen
+Voor de toepassing van [artikel 22, tweede lid, van de we](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22)t wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden gestort, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor, dan wel bestaan uit:
+
+- a. materiaal voor het realiseren en onderhouden van een afrastering;
+
+- b. materiaal voor het realiseren van de onderafdichtingsconstructie, de geohydrologische maatregelen en het controlesysteem zoals verlangd in het [Stortbesluit bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0005858), de [Regeling stortplaatsen voor baggerspecie op land](https://wetten.overheid.nl/jci1.3:c:BWBR0012665), dan wel de Richtlijnen voor baggerspeciestortplaatsen in het beleidsstandpunt «Verwijdering baggerspecie» (Kamerstukken II 1993/94, 23 450, nr. 1);
+
+- c. materiaal voor het realiseren van de bovenafdichtingsconstructie zoals verlangd in het besluit, de regeling, of de richtlijnen, genoemd in onderdeel b;
+
+- d. (riool)buizen voor de opvang en afvoer van percolaat en neerslag en materiaal voor installaties voor de behandeling van percolaat en neerslag;
+
+- e. verzamelleidingen voor de opvang en afvoer van stortgas in de egalisatie- of steunlaag en materiaal voor installaties voor de behandeling van stortgas;
+
+- f. het realiseren en in werking houden van nutsvoorzieningen;
+
+- g. het realiseren en in werking houden van installaties voor het be- of verwerken van afvalstoffen;
+
+- h. het operationeel houden van kantoren, van de controle- en registratieposten, van een laboratorium, van werkplaatsen, van het aanwezige rollende materieel en van de wasplaats;
+
+- i. materiaal voor het realiseren en in stand houden van bouwwerken;
+
+- j. materiaal voor het realiseren en in stand houden van een terreinverharding buiten het deel van de stortplaats, al dan niet in compartimenten onderverdeeld, waar tussen een onderafdichtings- en een bovenafdichtingsconstructie, als verlangd in het besluit, de regeling, dan wel de richtlijnen, genoemd in onderdeel b, afvalstoffen worden gestort (stortlichaam);
+
+- k. ongediertebestrijding;
+
+- l. bouwstoffen als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), die voorzien zijn van een overeenkomstig bij of krachtens dat besluit gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat zij voldoen aan de voorwaarden, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=28), of [artikel 30, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=30), en die worden toegepast in een voorziening die op grond van de voor de inrichting verleende omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), binnen de inrichting is aangebracht;
+
+- m. grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), die voorzien is van een overeenkomstig bij of krachtens dat besluit gestelde regels afgegeven erkende kwaliteitsverklaring, partijkeuring of fabrikant-eigenverklaring waaruit blijkt dat de kwaliteit van de grond de maximale waarde voor de bodemfunctieklasse industrie, bedoeld in [artikel 55, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=55), niet overschrijdt en die wordt toegepast in een voorziening die op grond van de voor de inrichting verleende omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), binnen de inrichting is aangebracht.
 
 ### Hoofdstuk IV. Afvalstoffenbelasting
 
@@ -327,7 +353,9 @@ Vervallen
 
 ##### Artikel 11
 
-Vervallen
+1. Voor zover sprake is van een verwerking of bewerking van afvalstoffen die gepaard gaat met gewichtsverlies, wordt de vermindering, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), zodanig toegepast dat ter zake van de stoffen, preparaten of voorwerpen bij het verlaten van de inrichting wordt uitgegaan van de belasting die verschuldigd werd bij de afgifte ter verwijdering van de afvalstoffen waaruit zij zijn ontstaan.
+
+2. Het verhoudingsgetal, bedoeld in [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), wordt uitsluitend toegepast door degene die beschikt over een door de inspecteur afgegeven vergunning. In deze vergunning kan de inspecteur nadere voorwaarden stellen met betrekking tot de administratie.
 
 ##### Artikel 12
 
@@ -399,7 +427,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2014-01-01&g=2014-01-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2014-04-01&g=2014-04-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -549,7 +577,7 @@ Vervallen
 
 3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
@@ -633,7 +661,7 @@ Vervallen
 
 ### Hoofdstuk VIII. Algemene bepaling
 
-### Hoofdstuk IX. Slotbepalingen
+### Hoofdstuk VIII. Algemene bepaling
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
@@ -719,9 +747,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk VII. Verpakkingenbelasting
 
-### Afdeling 1. Sierteelt
+### Afdeling 2. Groenten en fruit
 
 ### Afdeling 2. Groenten en fruit
+
+### Hoofdstuk IX. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+### Hoofdstuk VIa. Vliegbelasting
+
+### Hoofdstuk VII. Verpakkingenbelasting
+
+### Afdeling 1. Sierteelt
 
 ### Hoofdstuk IX. Slotbepalingen
 
