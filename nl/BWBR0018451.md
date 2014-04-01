@@ -4,7 +4,7 @@ identifier: "BWBR0018451"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018451"
 soort: "wet"
@@ -59,7 +59,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. drempelinkomen: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) bedoelde bedrag per maand;
 
-- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2014-01-01&g=2014-01-01) vastgestelde bedrag;
+- g. de standaardpremie: het op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2014-04-01&g=2014-04-01) vastgestelde bedrag;
 
 - h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen van de verzekerde berekende premie voor een zorgverzekering in het berekeningsjaar.
 
@@ -85,7 +85,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2014-01-01&g=2014-01-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
+1. De standaardpremie voor een persoon als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) is, in afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=4&z=2014-04-01&g=2014-04-01), gelijk aan het met toepassing van dat artikel bepaalde bedrag, vermenigvuldigd met het getal dat wordt berekend uit de verhouding tussen de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in het woonland van deze persoon, en de gemiddelde uitgaven voor zorg voor een persoon ten laste van de sociale zorgverzekeringen in Nederland.
 
 2. Bij ministeriële regeling wordt jaarlijks uiterlijk in november per land het in het eerste lid bedoelde verhoudingsgetal vastgesteld.
 
@@ -99,7 +99,7 @@ Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij 
 
 1. De Belastingdienst/Toeslagen is belast met de uitvoering van deze wet.
 
-2. In afwijking van [artikel 25, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) betaalt de Belastingdienst/Toeslagen in opdracht van het College zorgverzekeringen, bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de zorgtoeslag of het voorschot op de zorgtoeslag als tegemoetkoming in de bestuursrechtelijke premie, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) of [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e), aan dat college uit.
+2. In afwijking van [artikel 25, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) betaalt de Belastingdienst/Toeslagen in opdracht van het Zorginstituut Nederland, bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), de zorgtoeslag of het voorschot op de zorgtoeslag als tegemoetkoming in de bestuursrechtelijke premie, bedoeld in [artikel 18d](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18d) of [18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e), aan dat instituut uit.
 
 3. De zorgtoeslag komt ten laste van het Rijk.
 
