@@ -4,7 +4,7 @@ identifier: "BWBR0023117"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2010-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023117"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - b. Minister: Minister van Economische Zaken;
 
-- c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.6) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst of van een huurlijn.
+- c. aanbieder: een op grond van [artikel 14.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=14.6) aangewezen aanbieder van een openbaar telecommunicatienetwerk, van een openbare telecommunicatiedienst.
 
 ##### Artikel 2
 
