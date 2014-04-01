@@ -4,7 +4,7 @@ identifier: "BWBR0032519"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2013-02-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032519"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - c. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- d. **College zorgverzekeringen:** het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- d. **Zorginstituut:** het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - e. **geneeskundige geestelijke gezondheidszorg:** zorg als bedoeld in de wet van 2 november 2006 tot wijziging van het tijdstip waarop die zorg deel uitmaakt van de aanspraken ingevolge een zorgverzekering als bedoeld in de Zorgverzekeringswet (Stb. 2006, 630, artikel III);
 
@@ -94,7 +94,7 @@ De zorgautoriteit stelt voor het jaar 2013 per instelling het verschil vast tuss
 
 ##### Artikel 6. toerekening opbrengstverschil en opbrengstverrekening
 
-1. De zorgautoriteit stelt voor de afrekening van de afwikkeling oude bekostigingssysteem, mede op basis van door het College zorgverzekeringen verstrekte gegevens, per instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032519&hoofdstuk=III&artikel=5&z=2013-02-01&g=2013-02-01), is toe te rekenen aan te onderscheiden individuele zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
+1. De zorgautoriteit stelt voor de afrekening van de afwikkeling oude bekostigingssysteem, mede op basis van door het Zorginstituut verstrekte gegevens, per instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032519&hoofdstuk=III&artikel=5&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
 2. De opbrengstverrekening vindt plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
 
