@@ -4,7 +4,7 @@ identifier: "BWBR0033959"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-02-10"
-last_updated: "2013-10-18"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033959"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Besluit:
 
 - j. **paramedische behandeling en onderzoek:** een overig zorgproduct dat betrekking heeft op ergotherapie, fysiotherapie, logopedie, dieetadvisering, oefentherapie, orthoptie, psychologie of verloskunde geleverd in een instelling;
 
-- k. **landelijke vaste kosten factor:** een factor waarmee het College zorgverzekeringen op basis van historische kosten van ziekenhuisverpleging en historische kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2014;
+- k. **landelijke vaste kosten factor:** een factor waarmee het Zorginstituut op basis van historische kosten van ziekenhuisverpleging en historische kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar per zorgverzekeraar de ex ante deelbedragen berekent voor de kosten van het cluster ‘vaste zorgkosten’ in 2014;
 
 - l. **geriatrische revalidatiezorg:** zorg zoals omschreven in [artikel 2.5c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c);
 
@@ -110,7 +110,7 @@ Besluit:
 
 - a. de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar;
 
-- b. de overige kosten, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=15&z=2013-10-18&g=2013-10-18).
+- b. de overige kosten, genoemd in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=15&z=2014-04-01&g=2014-04-01).
 
 3. Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), is € 550.
 
@@ -148,27 +148,27 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 6
 
-1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6) en [3.7 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7) en de klassen en gewichten die aan de criteria, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=5&z=2013-10-18&g=2013-10-18) worden toegekend, zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2013-10-18&g=2013-10-18) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2&z=2013-10-18&g=2013-10-18).
+1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6) en [3.7 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7) en de klassen en gewichten die aan de criteria, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01) worden toegekend, zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2014-04-01&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2&z=2014-04-01&g=2014-04-01).
 
-2. Het College zorgverzekeringen verdeelt het macro-deelbedrag ‘vaste zorgkosten’ over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2012, de landelijke vaste kosten factor 2014 en de geraamde aantallen verzekerden voor het vereveningsjaar 2014.
+2. Het Zorginstituut verdeelt het macro-deelbedrag ‘vaste zorgkosten’ over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2012, de landelijke vaste kosten factor 2014 en de geraamde aantallen verzekerden voor het vereveningsjaar 2014.
 
 ##### Artikel 7
 
-In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-10-18), en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2013-10-18&g=2013-10-18), tabellen 1.2, 1.3, en 1.4, en [b](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2&z=2013-10-18&g=2013-10-18), tabellen 2.3 en 2.4, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, DKG ‘0’, ‘Geen HKG’, ‘Geen FKG psychische aandoeningen’ en DKG-klasse psychische aandoeningen ‘0’, waarbij voor hem het gewicht van die klassen door het College zorgverzekeringen wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
+In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01), en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2014-04-01&g=2014-04-01), tabellen 1.2, 1.3, en 1.4, en [b](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=2&z=2014-04-01&g=2014-04-01), tabellen 2.3 en 2.4, wordt een verzekerde die in het buitenland woont ingedeeld in de klassen ‘Geen FKG’, DKG ‘0’, ‘Geen HKG’, ‘Geen FKG psychische aandoeningen’ en DKG-klasse psychische aandoeningen ‘0’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van de gewichten van de desbetreffende klassen zoals deze op grond van de genoemde tabellen voor in Nederland wonende verzekerden gelden.
 
 ##### Artikel 8
 
 1. De nominale rekenpremie per jaar bedraagt € 1 121 per zorgverzekering waarvoor premie moet worden betaald.
 
-2. Het College zorgverzekeringen raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.
+2. Het Zorginstituut raamt de opbrengst van de nominale rekenpremie per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal zorgverzekeringen waarvoor premie moet worden betaald te vermenigvuldigen met de nominale rekenpremie.
 
-3. Het College zorgverzekeringen raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
+3. Het Zorginstituut raamt het aantal zorgverzekeringen waarvoor premie moet worden betaald, bedoeld in het tweede lid, door het geraamde aantal zorgverzekeringen van verzekerden van achttien jaar en ouder bij een zorgverzekeraar, te verminderen met het geraamde aantal zorgverzekeringen van verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24).
 
 ##### Artikel 9
 
-1. Het College zorgverzekeringen raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
+1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
 
-2. Het College zorgverzekeringen gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het vereveningscriterium ‘Geen FKG’, als onder de vereveningscriteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=4&z=2013-10-18&g=2013-10-18) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
+2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het vereveningscriterium ‘Geen FKG’, als onder de vereveningscriteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=4&z=2014-04-01&g=2014-04-01) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
 
 3. De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 338,48 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.
 
@@ -182,9 +182,9 @@ In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 11
 
-1. Nadat het College zorgverzekeringen de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=12&z=2013-10-18&g=2013-10-18), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=17&z=2013-10-18&g=2013-10-18) beschreven wijze heeft toegedeeld, herberekent het College zorgverzekeringen voor de clusters ‘variabele kosten van medisch-specialistische zorg’, ‘kosten van geneeskundige geestelijke gezondheidszorg’ en ‘kosten van overige prestaties’, de relevante gewichten.
+1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=12&z=2014-04-01&g=2014-04-01), en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=17&z=2014-04-01&g=2014-04-01) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele kosten van medisch-specialistische zorg’, ‘kosten van geneeskundige geestelijke gezondheidszorg’ en ‘kosten van overige prestaties’, de relevante gewichten.
 
-2. Het College zorgverzekeringen gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties, van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium en, voor de herberekening van de gewichten voor de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’ van de verhouding tussen de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2013-10-18&g=2013-10-18), respectievelijk, voor de herberekening van de gewichten voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’, van de verhouding tussen de gewichten in de tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3&z=2013-10-18&g=2013-10-18).
+2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties, van gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium en, voor de herberekening van de gewichten voor de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’ van de verhouding tussen de gewichten in de tabellen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=1&z=2014-04-01&g=2014-04-01), respectievelijk, voor de herberekening van de gewichten voor het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’, van de verhouding tussen de gewichten in de tabellen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&bijlage=3&z=2014-04-01&g=2014-04-01).
 
 3. De gerealiseerde aantallen verzekerden per klasse van ieder vereveningscriterium worden voor de hiernavolgende criteria aan de hand van realisatiecijfers over de volgende jaren berekend:
 
@@ -214,11 +214,11 @@ In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - m. kosten geneeskundige geestelijke gezondheidszorg boven de lage drempel: 2013;
 
-4. In afwijking van het tweede en derde lid herberekent het College zorgverzekeringen de gewichten van de klasse ‘0’ van de vereveningscriteria ‘DKG’s’ en ‘DKG’s psychische aandoeningen’, het gewicht van de klasse ‘Geen MHK’ van het vereveningscriterium ‘MHK’, het gewicht van de klasse ‘Geen HKG’ van het vereveningscriterium ‘HKG’, en het gewicht van de klassen ‘kosten geneeskundige GGZ boven de lage drempel ‘Niet’ en ‘kosten van geneeskundige GGZ boven de lage drempel ‘Wel en DKG psychische aandoeningen is niet ‘0’’’ van het vereveningscriterium ‘kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel’ zodanig, dat de per criterium gesommeerde resultaten van de vermenigvuldiging van de gewichten met het gerealiseerde aantal verzekerden, macro per saldo nul bedraagt.
+4. In afwijking van het tweede en derde lid herberekent het Zorginstituut de gewichten van de klasse ‘0’ van de vereveningscriteria ‘DKG’s’ en ‘DKG’s psychische aandoeningen’, het gewicht van de klasse ‘Geen MHK’ van het vereveningscriterium ‘MHK’, het gewicht van de klasse ‘Geen HKG’ van het vereveningscriterium ‘HKG’, en het gewicht van de klassen ‘kosten geneeskundige GGZ boven de lage drempel ‘Niet’ en ‘kosten van geneeskundige GGZ boven de lage drempel ‘Wel en DKG psychische aandoeningen is niet ‘0’’’ van het vereveningscriterium ‘kosten van geneeskundige geestelijke gezondheidszorg boven de lage drempel’ zodanig, dat de per criterium gesommeerde resultaten van de vermenigvuldiging van de gewichten met het gerealiseerde aantal verzekerden, macro per saldo nul bedraagt.
 
 ##### Artikel 12
 
-1. Het College zorgverzekeringen merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13) voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat:
+1. Het Zorginstituut merkt kosten als bedoeld in [artikel 3.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13) voor prestaties van grensoverschrijdende zorg die zodanig zijn gespecificeerd, dat:
 
 - a. uit de specificatie blijkt dat zij ofwel gelden als kosten van geneeskundige zorg zoals medisch-specialisten die plegen te bieden – met uitzondering van de kosten, bedoeld in subonderdeel b –, ofwel als kosten van verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) – met uitzondering van de kosten, bedoeld in subonderdeel b – voor 90 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’ en voor 10 procent aan als kosten van het cluster ‘vaste zorgkosten’;
 
@@ -226,55 +226,55 @@ In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c. uit de specificatie niet blijkt dat zij gelden als kosten als bedoeld onder a of b voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
 
-2. Het College zorgverzekeringen merkt kosten voor prestaties van grensoverschrijdende zorg die gemaakt zijn met toepassing van internationale regelingen inzake sociale zekerheid, voor 80 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’, voor 5 procent aan als kosten van het cluster ‘vaste zorgkosten’, en voor 15 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
+2. Het Zorginstituut merkt kosten voor prestaties van grensoverschrijdende zorg die gemaakt zijn met toepassing van internationale regelingen inzake sociale zekerheid, voor 80 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’, voor 5 procent aan als kosten van het cluster ‘vaste zorgkosten’, en voor 15 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
 
 ##### Artikel 13
 
-1. Met uitzondering van betalingen uit hoofde van een verplicht of vrijwillig eigen risico, deelt het College zorgverzekeringen zorgkosten die voor rekening komen van de verzekerden niet toe aan een cluster van prestaties.
+1. Met uitzondering van betalingen uit hoofde van een verplicht of vrijwillig eigen risico, deelt het Zorginstituut zorgkosten die voor rekening komen van de verzekerden niet toe aan een cluster van prestaties.
 
-2. Het College zorgverzekeringen deelt renteheffingskosten niet toe aan een cluster van prestaties.
+2. Het Zorginstituut deelt renteheffingskosten niet toe aan een cluster van prestaties.
 
 ##### Artikel 14
 
-1. Het College zorgverzekeringen merkt de kosten van dbc-zorgproducten in het vrije segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+1. Het Zorginstituut merkt de kosten van dbc-zorgproducten in het vrije segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
-2. Het College zorgverzekeringen merkt de kHet College van zorgverzekeringen merkt kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+2. Het Zorginstituut merkt de kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
-3. Het College zorgverzekeringen merkt de honorariumHet College van zorgverzekeringen merkt kcomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+3. Het Zorginstituut merkt de honorariumcomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
-4. Het College zorgverzekeringen merkt de kosten- en honorariumcomponentHet College van zorgverzekeringen merkt van de kosten van overige zorgproducten voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’, met uitzondering van de kosten van eerstelijnsdiagnostiek, de kosten van paramedische behandeling en onderzoek, en de kosten van de add-ons voor dure en weesgeneesmiddelen niet zijnde add-ons voor groeihormonen of fertiliteitshormonen.
+4. Het Zorginstituut merkt de kosten van overige zorgproducten voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’, met uitzondering van de kosten van eerstelijnsdiagnostiek, de kosten van paramedische behandeling en onderzoek, en de kosten van de add-ons voor dure en weesgeneesmiddelen niet zijnde add-ons voor groeihormonen of fertiliteitshormonen.
 
-5. Het College zorgverzekeringen merkt kHet College van zorgverzekeringen merkt kosten voor prestaties waarop de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met medisch-specialistische zorg’ van de zorgautoriteit van toepassing is, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+5. Het Zorginstituut merkt kosten voor prestaties waarop de beleidsregel ‘Verpleging in de thuissituatie, noodzakelijk in verband met medisch-specialistische zorg’ van de zorgautoriteit van toepassing is, voor 100 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
-6. Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+6. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling vast te stellen percentage aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
-7. Het College zorgverzekeringen merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
+7. Het Zorginstituut merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 75 procent aan als kosten van het cluster ‘variabele kosten van medisch-specialistische zorg’.
 
 ##### Artikel 15
 
-1. Het College zorgverzekeringen baseert de herberekening per zorgverzekeraar van de kosten van het cluster ‘vaste zorgkosten’ op de vaste kosten in het jaar 2013.
+1. Het Zorginstituut baseert de herberekening per zorgverzekeraar van de kosten van het cluster ‘vaste zorgkosten’ op de vaste kosten in het jaar 2013.
 
-2. Het College zorgverzekeringen merkt de kHet College van zorgverzekeringen merkt kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
+2. Het Zorginstituut merkt de kostencomponent van de kosten van dbc-zorgproducten in het gereguleerde segment, uitgezonderd de kosten van expertproducten, voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
-3. Het College zorgverzekeringen merkt de kostencomponent en de honorariumcomponent Het College van zorgverzekeringen merkt van de kosten van expertproducten in het vrije en gereguleerde segment voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
+3. Het Zorginstituut merkt de kostencomponent en de honorariumcomponent van de kosten van expertproducten in het vrije en gereguleerde segment voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
-4. Het College zorgverzekeringen merkt de kosten Het College van zorgverzekeringen merkt van de add-ons voor dure en weesgeneesmiddelen, uitgezonderd de kosten van de add-ons voor groeihormonen en fertiliteitshormonen, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
+4. Het Zorginstituut merkt van de add-ons voor dure en weesgeneesmiddelen, uitgezonderd de kosten van de add-ons voor groeihormonen en fertiliteitshormonen, voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
-5. Het College zorgverzekeringen merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.
+5. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.
 
-6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=14&z=2013-10-18&g=2013-10-18).
+6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=14&z=2014-04-01&g=2014-04-01).
 
-7. Het College zorgverzekeringen merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
+7. Het Zorginstituut merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
-8. Het College zorgverzekeringen merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
+8. Het Zorginstituut merkt de kosten van de trombosediensten, de Stichting Kinderoncologie Nederland en van de Nederlandse Transplantatiestichting voor 25 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
-9. Het College zorgverzekeringen merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten en de ‘Projectgelden geneeskundige GGZ die voortvloeien uit het bestuurlijk akkoord Toekomst GGZ 2013–2014 en het onderhandelaarsresultaat Geestelijke gezondheidszorg 2014–2017’ voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten.
+9. Het Zorginstituut merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten en de ‘Projectgelden geneeskundige GGZ die voortvloeien uit het bestuurlijk akkoord Toekomst GGZ 2013–2014 en het onderhandelaarsresultaat Geestelijke gezondheidszorg 2014–2017’ voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten.
 
-10. Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag ‘vaste zorgkosten’ na toepassing van het eerste lid, anderzijds.
+10. Het Zorginstituut calculeert 100 procent na op het verschil tussen de kosten van het cluster ‘vaste zorgkosten’, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag ‘vaste zorgkosten’ na toepassing van het eerste lid, anderzijds.
 
 ##### Artikel 16
 
-Het College zorgverzekeringen past als volgt hogekostencompensatie toe op het herberekende deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12):
+Het Zorginstituut past als volgt hogekostencompensatie toe op het herberekende deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12):
 
 - a. 90 procent van de kosten van geneeskundige geestelijke gezondheidszorg, voor zover deze kosten het bedrag van € 25.000 per verzekerde op jaarbasis overschrijden, wordt berekend;
 
@@ -286,11 +286,11 @@ Het College zorgverzekeringen past als volgt hogekostencompensatie toe op het he
 
 ##### Artikel 17
 
-1. Het College zorgverzekeringen merkt de kostenHet College van zorgverzekeringen merkt van eerstelijnsdiagnostiek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
+1. Het Zorginstituut merkt de kosten van eerstelijnsdiagnostiek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
 
-2. Het College zorgverzekeringen merkt de kostenHet College van zorgverzekeringen merkt van paramedische behandeling en onderzoek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
+2. Het Zorginstituut merkt de kosten van paramedische behandeling en onderzoek voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
 
-3. Het College zorgverzekeringen merkt de kosten van prestaties waarop de beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
+3. Het Zorginstituut merkt de kosten van prestaties waarop de beleidsregels ‘Innovatie ten behoeve van nieuwe zorgprestaties’ of ‘Prestatiebekostiging multidisciplinaire zorgverlening chronische aandoeningen’ van de zorgautoriteit van toepassing zijn, voor 100 procent aan als kosten van het cluster ‘kosten van overige prestaties’.
 
 ##### Artikel 18
 
@@ -298,9 +298,9 @@ Het bedrag en het percentage bedoeld in [artikel 3.17, tweede lid, van het Beslu
 
 ##### Artikel 19
 
-1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=8&z=2013-10-18&g=2013-10-18), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.
+1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=8&z=2014-04-01&g=2014-04-01), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.
 
-2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2013-10-18&g=2013-10-18), met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.
+2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2014-04-01&g=2014-04-01), met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -308,11 +308,11 @@ Het bedrag en het percentage bedoeld in [artikel 3.17, tweede lid, van het Beslu
 
 Het in [artikel 3.22, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) bedoelde bedrag per verzekerde bedraagt € 50.
 
-### Hoofdstuk 5. Betaling van de vereveningsbijdrage aan zorgverzekeraar door het college zorgverzekeringen
+### Hoofdstuk 5. Betaling van de vereveningsbijdrage aan zorgverzekeraar door het Zorginstituut
 
 ##### Artikel 21
 
-De betaling van de bijdrage geschiedt overeenkomstig door het College zorgverzekeringen te stellen beleidsregels, waarin ten minste een betaalschema is opgenomen dat rekening houdt met het betaalschema van de zorgverzekeraars.
+De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te stellen beleidsregels, waarin ten minste een betaalschema is opgenomen dat rekening houdt met het betaalschema van de zorgverzekeraars.
 
 ### Hoofdstuk 6. Wijziging van de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525)
 
@@ -328,13 +328,13 @@ Deze regeling wordt aangehaald als: Regeling risicoverevening 2014.
 
 2. Indien het in het eerste lid genoemde artikel na 30 september 2013 in werking treedt, werkt deze regeling terug tot en met 30 september 2013.
 
-3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=6&artikel=22&z=2013-10-18&g=2013-10-18) werkt terug tot en met 1 januari 2013, met dien verstande dat de in dat artikel opgenomen wijzingen in de [Regeling risicoverevenigng 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) slechts worden toegepast bij de vaststelling van de vereveningsbijdragen over dat jaar.
+3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=6&artikel=22&z=2014-04-01&g=2014-04-01) werkt terug tot en met 1 januari 2013, met dien verstande dat de in dat artikel opgenomen wijzingen in de [Regeling risicoverevenigng 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) slechts worden toegepast bij de vaststelling van de vereveningsbijdragen over dat jaar.
 
-## Bijlage 1. behorende bij [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-10-18) en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18)
+## Bijlage 1. behorende bij [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01) en [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01)
 
 De bijlage betreft kosten van zorg behorende tot de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-10-18)) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01)) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01)).
 
 | Leeftijd en geslacht | Leeftijd en geslacht | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
 | --- | --- | --- | --- |
@@ -498,11 +498,11 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening va
 | MHK 3 jaar hoge kosten in top 4 procent | 4.558,44 | 4.629,36 |
 | MHK 3 jaar hoge kosten in top 1,5 procent | 11.615,02 | 13.146,18 |
 
-## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-10-18)
+## Bijlage 2. behorende bij [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01)
 
 De bijlage betreft de kosten van zorg behorende tot het cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’.
 
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2013-10-18&g=2013-10-18)).
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01)).
 
 De gewichten bevatten geen correctie voor hogekostencompensatie.
 
@@ -615,11 +615,11 @@ De gewichten bevatten geen correctie voor hogekostencompensatie.
 | Wel en DKG psychische aandoeningen is ‘0’ | 1.407,48 |
 | Wel en DKG psychische aandoeningen is niet ‘0’ | –42,72 |
 
-## Bijlage 3. behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18)
+## Bijlage 3. behorende bij [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01)
 
 De bijlage betreft kosten van zorg behorend tot de cluster ‘kosten van geneeskundige geestelijke gezondheidszorg’.
 
-De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18)).
+De in deze bijlage genoemde vereveningscriteria zijn van toepassing voor verzekerden van achttien jaar en ouder; de gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01)).
 
 De gewichten bevatten een correctie voor hogekostencompensatie.
 
@@ -682,7 +682,7 @@ De gewichten bevatten een correctie voor hogekostencompensatie.
 
 | DKG’s psychische aandoeningen |   |
 | --- | --- |
-| 0 | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18) van de Regeling risicoverevening 2014 |
+| 0 | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01) van de Regeling risicoverevening 2014 |
 | 1 | 2.102,61 |
 | 2 | 7.140,97 |
 | 3 | 10.703,16 |
@@ -728,15 +728,15 @@ De gewichten bevatten een correctie voor hogekostencompensatie.
 
 | Kosten geneeskundige ggz boven lage drempel | Kosten geneeskundige ggz boven lage drempel |
 | --- | --- |
-| Niet | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18) van de Regeling risicoverevening 2014 |
+| Niet | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01) van de Regeling risicoverevening 2014 |
 | Wel en DKG psychische aandoeningen is ‘0’ | 1.466,19 |
-| Wel en DKG psychische aandoeningen is niet ‘0’ | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2013-10-18&g=2013-10-18) van de Regeling risicoverevening 2014 |
+| Wel en DKG psychische aandoeningen is niet ‘0’ | Zie [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01) van de Regeling risicoverevening 2014 |
 
-## Bijlage 4. behorende bij [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2013-10-18&g=2013-10-18), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2013-10-18&g=2013-10-18)
+## Bijlage 4. behorende bij [artikelen 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2014-04-01&g=2014-04-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2014-04-01&g=2014-04-01)
 
 De bijlage betreft het eigen risico.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2013-10-18&g=2013-10-18)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2013-10-18&g=2013-10-18)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de berekening van de specifiek voor de zorgverzekeraar geraamde opbrengst van het verplicht eigen risico ([artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=2&artikel=9&z=2014-04-01&g=2014-04-01)) en vormen de basis voor de herberekening van de opbrengst van het verplicht eigen risico ten behoeve van de vaststelling van de vereveningsbijdrage van een zorgverzekeraar ([artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033959&hoofdstuk=4&artikel=20&z=2014-04-01&g=2014-04-01)).
 
 | Leeftijd en geslacht | Leeftijd en geslacht | Eigen betaling ten gevolge van verplicht eigen risico |
 | --- | --- | --- |
