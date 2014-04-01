@@ -4,7 +4,7 @@ identifier: "BWBR0036024"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2013-12-31"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036024"
 soort: "wet"
@@ -104,7 +104,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XVI
 
@@ -120,7 +120,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XX
 
@@ -209,17 +209,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXVIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het voor het jaar 2015 en volgende wenselijk is een aantal fiscale maatregelen te treffen die voortvloeien uit het regeerakkoord, de Begrotingsafspraken 2014 en de koopkrachtbesluitvorming en dat het in het kader van het fiscale beleid voor het jaar 2015 wenselijk is in een aantal belastingwetten en enige andere wetten wijzigingen, bijstellingen of technische reparaties aan te brengen die niet later dan 1 januari 2015 in werking moeten treden;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-##### Artikel XXXIVa
-
-Voor zover een renteperiode waarover ingevolge de [artikelen 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30h) en [30ha van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30ha) met betrekking tot een naheffingsaanslag ter zake van dividendbelasting belastingrente in rekening wordt gebracht, onderscheidenlijk met betrekking tot een teruggaafbeschikking ter zake van dividendbelasting belastingrente wordt vergoed, is gelegen vóór 1 januari 2013, is in afwijking van [artikel 30hb, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30hb) de regeling inzake het rentepercentage van de heffingsrente van [artikel 30f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=30f), zoals dat luidde op 31 december 2012, van toepassing.
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
