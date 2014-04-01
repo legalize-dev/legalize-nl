@@ -4,7 +4,7 @@ identifier: "BWBR0018830"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-19"
-last_updated: "2014-02-15"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018830"
 soort: "wet"
@@ -47,11 +47,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&z=2014-02-15&g=2014-02-15), met uitzondering van de [artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2014-02-15&g=2014-02-15) en [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2014-02-15&g=2014-02-15), [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2014-02-15&g=2014-02-15) en [2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.4&artikel=2.4.2&z=2014-02-15&g=2014-02-15), [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&z=2014-02-15&g=2014-02-15), [artikelen 3.1.2 tot en met 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15), en de [Hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=4&z=2014-02-15&g=2014-02-15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=5&z=2014-02-15&g=2014-02-15) en de daarop berustende bepalingen wordt verstaan onder:
+In [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&z=2014-04-01&g=2014-04-01), met uitzondering van de [artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.3&z=2014-04-01&g=2014-04-01) en [2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.4&z=2014-04-01&g=2014-04-01), [2.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.4&artikel=2.4.1&z=2014-04-01&g=2014-04-01) en [2.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.4&artikel=2.4.2&z=2014-04-01&g=2014-04-01), [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&z=2014-04-01&g=2014-04-01), [artikelen 3.1.2 tot en met 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01), en de [Hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=4&z=2014-04-01&g=2014-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=5&z=2014-04-01&g=2014-04-01) en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. College zorgverzekeringen: het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
+- b. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
 - c. College toezicht: het College van toezicht op de zorgverzekeringen, genoemd in [artikel 77, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=77);
 
@@ -135,13 +135,13 @@ Onverminderd [artikel 1x1 van de Ziekenfondswet](https://wetten.overheid.nl/jci1
 
 ##### Artikel 2.1.9
 
-1. Onverminderd [artikel 43d, eerste lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=43d), heeft het College zorgverzekeringen ten behoeve van de Algemene Kas op 1 juli 2009 een onmiddellijk opeisbare vordering op het ziekenfonds ten belope van de som van de reserve [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en de middelen waarover het ziekenfonds ten behoeve van de uitvoering van de verzekering ingevolge die wet de beschikking heeft gekregen, voor zover deze door het ziekenfonds niet zijn aangewend ter dekking van zijn ten behoeve van de uitvoering van de verzekering ingevolge die wet noodzakelijke uitgaven. Uitgaven waarvan de zorgautoriteit heeft vastgesteld dat deze niet verantwoord zijn, blijven daarbij buiten beschouwing, tenzij de zorgautoriteit anders heeft besloten.
+1. Onverminderd [artikel 43d, eerste lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=43d), heeft het Zorginstituut ten behoeve van de Algemene Kas op 1 juli 2009 een onmiddellijk opeisbare vordering op het ziekenfonds ten belope van de som van de reserve [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460) en de middelen waarover het ziekenfonds ten behoeve van de uitvoering van de verzekering ingevolge die wet de beschikking heeft gekregen, voor zover deze door het ziekenfonds niet zijn aangewend ter dekking van zijn ten behoeve van de uitvoering van de verzekering ingevolge die wet noodzakelijke uitgaven. Uitgaven waarvan de zorgautoriteit heeft vastgesteld dat deze niet verantwoord zijn, blijven daarbij buiten beschouwing, tenzij de zorgautoriteit anders heeft besloten.
 
 2. Het eerste lid is niet van toepassing ten aanzien van een ziekenfonds dat of zijn rechtsopvolger onder algemene titel die voor 1 januari 2008 heeft voldaan aan [artikel 25, eerste en tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=25).
 
-3. In afwijking van het tweede lid heeft het College zorgverzekeringen een onmiddellijk opeisbare vordering ten behoeve van ’s Rijks schatkist op een ziekenfonds dat of zijn rechtsopvolger onder algemene titel die niet in zijn statuten heeft vastgelegd dat hij ten doel heeft te werken als zorgverzekeraar zonder winstoogmerk, dan wel zodanige statutaire bepaling uit zijn statuten heeft geschrapt voordat tien jaren zijn verstreken na de inwerkingtreding van deze wet, dan wel gedurende minder dan tien jaren na de inwerkingtreding van deze wet als zorgverzekeraar werkzaam is.
+3. In afwijking van het tweede lid heeft het Zorginstituut een onmiddellijk opeisbare vordering ten behoeve van ’s Rijks schatkist op een ziekenfonds dat of zijn rechtsopvolger onder algemene titel die niet in zijn statuten heeft vastgelegd dat hij ten doel heeft te werken als zorgverzekeraar zonder winstoogmerk, dan wel zodanige statutaire bepaling uit zijn statuten heeft geschrapt voordat tien jaren zijn verstreken na de inwerkingtreding van deze wet, dan wel gedurende minder dan tien jaren na de inwerkingtreding van deze wet als zorgverzekeraar werkzaam is.
 
-4. In geval van bedrijfsbeëindiging van de zorgverzekeraar wordt de vordering van het College zorgverzekeringen, bedoeld in het derde lid, voldaan, nadat de vorderingen van alle andere schuldeisers van de zorgverzekeraar in overeenstemming met hun wettelijke rangorde zijn voldaan.
+4. In geval van bedrijfsbeëindiging van de zorgverzekeraar wordt de vordering van het Zorginstituut, bedoeld in het derde lid, voldaan, nadat de vorderingen van alle andere schuldeisers van de zorgverzekeraar in overeenstemming met hun wettelijke rangorde zijn voldaan.
 
 ##### Artikel 2.1.10
 
@@ -153,7 +153,7 @@ Het saldo van de Algemene Kas naar de situatie op 1 januari 2010 komt ten bate o
 
 ##### Artikel 2.1.12
 
-Baten en lasten die het College zorgverzekeringen na 1 januari 2006 heeft in verband met de uitvoering van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), komen ten goede aan of ten laste van de Algemene Kas.
+Baten en lasten die het Zorginstituut na 1 januari 2006 heeft in verband met de uitvoering van de [Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460), komen ten goede aan of ten laste van de Algemene Kas.
 
 ##### Artikel 2.1.13
 
@@ -171,7 +171,7 @@ De [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overhei
 
 2. Het vermogen van de in het eerste lid bedoelde rechtspersoon, voor zover dit is gevormd als gevolg van de uitvoering van de taken die haar bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) zijn opgedragen, met uitsluiting van de voorziening die is opgebouwd ten behoeve van de wachtgeldregeling van het personeel, komt met ingang van 1 januari 2009 ten laste of ten gunste van de Algemene Kas.
 
-3. Het College zorgverzekeringen draagt met ingang van 1 januari 2009 zorg voor de afwikkeling van zaken met betrekking tot de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) als bedoeld in het eerste lid. Het College zorgverzekeringen treedt van rechtswege in de rechten en verplichtingen van de rechtspersoon, bedoeld in het eerste lid, met betrekking tot die afwikkeling.
+3. Het Zorginstituut draagt met ingang van 1 januari 2009 zorg voor de afwikkeling van zaken met betrekking tot de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) als bedoeld in het eerste lid. Het Zorginstituut treedt van rechtswege in de rechten en verplichtingen van de rechtspersoon, bedoeld in het eerste lid, met betrekking tot die afwikkeling.
 
 4. Baten en lasten met betrekking tot de afwikkeling van zaken met betrekking tot de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750) komen ten goede aan of ten laste van de Algemene Kas, dan wel ’s Rijks schatkist.
 
@@ -201,7 +201,7 @@ De [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](h
 
 1. Ten aanzien van aanspraken, rechten en verplichtingen welke bij of krachtens de [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933) zijn ontstaan voor het tijdstip van intrekking van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003933), dan wel na dat tijdstip zijn ontstaan terzake van de afwikkeling van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003933), blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip. De afwikkeling van zaken met betrekking tot de in het eerste lid genoemde wet, geschiedt voor 1 januari 2007 door de rechtspersoon, aangewezen ingevolge [artikel 17 van de Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=17).
 
-2. Het resultaat van de financiële afwikkeling van de wet, bedoeld in [artikel 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2014-02-15&g=2014-02-15), over het jaar 2004 wordt ten bate of ten laste van de Algemene Kas gebracht.
+2. Het resultaat van de financiële afwikkeling van de wet, bedoeld in [artikel 2.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.3&artikel=2.3.1&z=2014-04-01&g=2014-04-01), over het jaar 2004 wordt ten bate of ten laste van de Algemene Kas gebracht.
 
 3. Bij ministeriële regeling van Onze Minister kunnen zonodig regels worden gesteld die voor een goede afwikkeling van de [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933) noodzakelijk zijn.
 
@@ -253,7 +253,7 @@ Wijzigt de Zorgverzekeringswet.
 
 ##### Artikel 2.5.1a
 
-Indien een persoon als bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) reeds bij het College zorgverzekeringen geregistreerd is als een persoon die op grond van de in dat lid genoemde verordening, overeenkomst of verdrag ingeval van behoefte aan zorg recht heeft op zorg of vergoeding van de kosten daarvan, zoals voorzien in de wetgeving over de verzekering voor zorg van zijn woonland, geldt deze registratie als de melding, bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69).
+Indien een persoon als bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) reeds bij het Zorginstituut geregistreerd is als een persoon die op grond van de in dat lid genoemde verordening, overeenkomst of verdrag ingeval van behoefte aan zorg recht heeft op zorg of vergoeding van de kosten daarvan, zoals voorzien in de wetgeving over de verzekering voor zorg van zijn woonland, geldt deze registratie als de melding, bedoeld in [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69).
 
 ##### Artikel 2.5.2
 
@@ -319,7 +319,7 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ##### Artikel 3.1.2
 
-De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2014-02-15&g=2014-02-15) vrijwillig verzekerd is ingevolge [artikel 32a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=32a), heeft aanspraak op een vergoeding ter zake van de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
+De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2014-04-01&g=2014-04-01) vrijwillig verzekerd is ingevolge [artikel 32a van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=32a), heeft aanspraak op een vergoeding ter zake van de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
 
 - a. de verlening van de zorg op of voor die dag is begonnen of
 
@@ -327,9 +327,9 @@ De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 3.1.1
 
 ##### Artikel 3.1.3
 
-1. De vergoeding, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15), is gelijk aan het bedrag dat ingevolge de wettelijke regeling van de staat van wonen of verblijf voor rekening van de rechthebbende blijft, in geval in die staat op de desbetreffende zorg recht bestaat met toepassing van enig door Nederland gesloten verdrag inzake sociale zekerheid of van een verordening van de Raad van Europese Gemeenschappen.
+1. De vergoeding, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01), is gelijk aan het bedrag dat ingevolge de wettelijke regeling van de staat van wonen of verblijf voor rekening van de rechthebbende blijft, in geval in die staat op de desbetreffende zorg recht bestaat met toepassing van enig door Nederland gesloten verdrag inzake sociale zekerheid of van een verordening van de Raad van Europese Gemeenschappen.
 
-2. De vergoeding, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15), is gelijk aan de in rekening gebrachte kosten tot het in het land van wonen of verblijf voor de verleende zorg geldende tarief, en bij het ontbreken van een zodanig tarief tot het bedrag dat daar voor de desbetreffende zorg in rekening pleegt te worden gebracht, indien op die zorg in het woonland geen aanspraak bestaat op grond van de in het eerste lid bedoelde verdragen of verordeningen.
+2. De vergoeding, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01), is gelijk aan de in rekening gebrachte kosten tot het in het land van wonen of verblijf voor de verleende zorg geldende tarief, en bij het ontbreken van een zodanig tarief tot het bedrag dat daar voor de desbetreffende zorg in rekening pleegt te worden gebracht, indien op die zorg in het woonland geen aanspraak bestaat op grond van de in het eerste lid bedoelde verdragen of verordeningen.
 
 3. Indien voor de zorg geen tarief geldt of er geen tarief bestaat dat daarvoor in rekening pleegt te worden gebracht, is de vergoeding gelijk aan de in rekening gebrachte kosten, voor zover die gelet op het kostenniveau van de gezondheidszorg in het land van wonen of verblijf in redelijkheid aanvaardbaar zijn.
 
@@ -337,21 +337,21 @@ De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 3.1.1
 
 ##### Artikel 3.1.4
 
-1. De aanspraak op een vergoeding als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15), bestaat slechts indien de rechthebbende zich, binnen een termijn van vier maanden nadat deze wet in werking is getreden, dan wel binnen een termijn van vier maanden nadat hij in redelijkheid van de inwerkingtreding van deze wet heeft kunnen kennisnemen, als zodanig heeft aangemeld bij het College zorgverzekeringen. Dat College verleent de vergoedingen, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15).
+1. De aanspraak op een vergoeding als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01), bestaat slechts indien de rechthebbende zich, binnen een termijn van vier maanden nadat deze wet in werking is getreden, dan wel binnen een termijn van vier maanden nadat hij in redelijkheid van de inwerkingtreding van deze wet heeft kunnen kennisnemen, als zodanig heeft aangemeld bij het Zorginstituut. Dat instituut verleent de vergoedingen, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01).
 
-2. Het College zorgverzekeringen kan een rechtspersoon, aangewezen ingevolge [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), mandaat en volmacht verlenen om namens hem besluiten te nemen of werkzaamheden te verrichten die verband houden met het verlenen van vergoedingen als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15).
+2. Het Zorginstituut kan een rechtspersoon, aangewezen ingevolge [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), mandaat en volmacht verlenen om namens hem besluiten te nemen of werkzaamheden te verrichten die verband houden met het verlenen van vergoedingen als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01).
 
 ##### Artikel 3.1.5
 
-De vergoedingen, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15), en de kosten verbonden aan de werkzaamheden, verband houdende met het verlenen van vergoedingen, komen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89).
+De vergoedingen, bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01), en de kosten verbonden aan de werkzaamheden, verband houdende met het verlenen van vergoedingen, komen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in [artikel 89 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89).
 
 ##### Artikel 3.1.6
 
-Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-02-15&g=2014-02-15) is het recht zoals dat geldt ten aanzien van besluiten inzake een aanspraak op zorg ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), met uitzondering van [artikel 58 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=58), van overeenkomstige toepassing.
+Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in [artikel 3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.2&z=2014-04-01&g=2014-04-01) is het recht zoals dat geldt ten aanzien van besluiten inzake een aanspraak op zorg ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), met uitzondering van [artikel 58 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=58), van overeenkomstige toepassing.
 
 ##### Artikel 3.1.7
 
-In aanvulling op [artikel 44, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) kan tot een bij ministeriële regeling te bepalen tijdstip door het College zorgverzekeringen volgens bij ministeriële regeling te stellen regels ten laste van het Algemeen Fonds Bijzondere Ziektekosten subsidie worden verstrekt aan instellingen die in 2008 subsidie ontvingen voor laagdrempelige, onafhankelijke ondersteuning voor verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap al dan niet veroorzaakt door een chronische ziekte of een beperking uit het autistisch spectrum.
+In aanvulling op [artikel 44, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) kan tot een bij ministeriële regeling te bepalen tijdstip door het Zorginstituut volgens bij ministeriële regeling te stellen regels ten laste van het Algemeen Fonds Bijzondere Ziektekosten subsidie worden verstrekt aan instellingen die in 2008 subsidie ontvingen voor laagdrempelige, onafhankelijke ondersteuning voor verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap al dan niet veroorzaakt door een chronische ziekte of een beperking uit het autistisch spectrum.
 
 ##### Artikel 3.1.8
 
@@ -359,7 +359,7 @@ In aanvulling op [artikel 44, eerste lid, van de Algemene Wet Bijzondere Ziektek
 
 2. Als zorgverzekeraar die voortkomt uit een ziekenfonds of een orgaan dat een publiekrechtelijke ziektekostenregeling voor ambtenaren uitvoert, wordt beschouwd:
 
-- a. indien de verzekerde een aanbod heeft gekregen als bedoeld in [artikel 2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2014-02-15&g=2014-02-15): de in dat aanbod aangewezen zorgverzekeraar;
+- a. indien de verzekerde een aanbod heeft gekregen als bedoeld in [artikel 2.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.5&artikel=2.5.1&z=2014-04-01&g=2014-04-01): de in dat aanbod aangewezen zorgverzekeraar;
 
 - b. in andere gevallen: de zorgverzekeraar die als rechtsopvolger van dat ziekenfonds of van dat orgaan te beschouwen is.
 
@@ -607,7 +607,7 @@ Wijzigt de Wet toezicht verzekeringsbedrijf 1993.
 
 2. De [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) is niet van toepassing op instellingen die een publiekrechtelijke ziektekostenregeling uitvoeren, voor zover zij:
 
-- a. bij algemene maatregel van bestuur, bedoeld in [artikel 20, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=20) zoals dat artikel luidde op de dag voorafgaande aan de dag waarop [artikel 3.6.6, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.6&artikel=3.6.6&z=2014-02-15&g=2014-02-15), in werking trad, waren aangewezen;
+- a. bij algemene maatregel van bestuur, bedoeld in [artikel 20, van de Wet toezicht verzekeringsbedrijf 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006509&artikel=20) zoals dat artikel luidde op de dag voorafgaande aan de dag waarop [artikel 3.6.6, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.6&artikel=3.6.6&z=2014-04-01&g=2014-04-01), in werking trad, waren aangewezen;
 
 - b. blijven voldoen aan de voorwaarden van de algemene maatregel van bestuur, bedoeld in onderdeel a; en
 
@@ -755,7 +755,7 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 5.3
 
-Het [Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585) berust met ingang van de datum van inwerkingtreding van [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2014-02-15&g=2014-02-15) op [artikel 40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40).
+Het [Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585) berust met ingang van de datum van inwerkingtreding van [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2014-04-01&g=2014-04-01) op [artikel 40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40).
 
 ##### Artikel 5.4
 
@@ -767,11 +767,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. Een in het buitenland wonende persoon, niet zijnde of geweest zijnde een verzekeringsplichtige als bedoeld in [artikel 1, onderdeel e, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) of een persoon op wie [artikel 69 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is of is geweest, die onmiddellijk voor de inwerkingtreding van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) verzekerd was op grond van een overeenkomst van standaardverzekering in de zin van de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750), heeft tijdens zijn verblijf in Nederland aanspraak op een vergoeding ter zake van de kosten van zorg waarop aanspraak zou bestaan indien betrokkene ingevolge een zorgverzekering als bedoeld [1, onderdeel d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) verzekerd zou zijn.
 
-2. Aanspraak op de in het eerste lid bedoelde vergoeding bestaat slechts indien de rechthebbende zich binnen vier maanden nadat deze wet in werking is getreden of hij in redelijkheid van de inwerkingtreding van deze wet heeft kunnen kennisnemen, als zodanig heeft aangemeld bij het College zorgverzekeringen. Dat College verleent de vergoedingen, bedoeld in het eerste lid.
+2. Aanspraak op de in het eerste lid bedoelde vergoeding bestaat slechts indien de rechthebbende zich binnen vier maanden nadat deze wet in werking is getreden of hij in redelijkheid van de inwerkingtreding van deze wet heeft kunnen kennisnemen, als zodanig heeft aangemeld bij het Zorginstituut. Dat instituut verleent de vergoedingen, bedoeld in het eerste lid.
 
 3. De vergoeding, bedoeld in het eerste lid, is gelijk aan de in rekening gebrachte kosten onder aftrek van het deel daarvan dat voor verzekerden in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voor rekening van de verzekerde blijft.
 
-4. De belanghebbende die zich heeft aangemeld, is aan het College zorgverzekeringen per maand een bijdrage verschuldigd die gelijk is aan eentwaalfde van het bedrag van de standaardpremie als bedoeld in de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), nadat die is verminderd met het bedrag dat de zorgtoeslag ten hoogste bedraagt, voor een in Nederland wonende verzekeringsplichtige zonder partner.
+4. De belanghebbende die zich heeft aangemeld, is aan het Zorginstituut per maand een bijdrage verschuldigd die gelijk is aan eentwaalfde van het bedrag van de standaardpremie als bedoeld in de [Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451), nadat die is verminderd met het bedrag dat de zorgtoeslag ten hoogste bedraagt, voor een in Nederland wonende verzekeringsplichtige zonder partner.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld die noodzakelijk zijn voor een goede uitvoering van de aanspraak op de vergoeding, bedoeld in het eerste lid.
 
@@ -781,9 +781,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.2.6
 
-1. Indien een rechthebbende zich heeft aangemeld voor de toepassing van [artikel 2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.2&artikel=2.2.5&z=2014-02-15&g=2014-02-15), heeft hij op de voet van dat artikel eveneens aanspraak op vergoeding van de kosten van zorg die hem na 31 december 2005 doch voor het tijdstip van de aanmelding is verleend.
+1. Indien een rechthebbende zich heeft aangemeld voor de toepassing van [artikel 2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.2&artikel=2.2.5&z=2014-04-01&g=2014-04-01), heeft hij op de voet van dat artikel eveneens aanspraak op vergoeding van de kosten van zorg die hem na 31 december 2005 doch voor het tijdstip van de aanmelding is verleend.
 
-2. De rechthebbende, bedoeld in het eerste lid, is de bijdrage, bedoeld in het vierde lid van [artikel 2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.2&artikel=2.2.5&z=2014-02-15&g=2014-02-15) eveneens verschuldigd over de periode die is verstreken na 31 december 2005.
+2. De rechthebbende, bedoeld in het eerste lid, is de bijdrage, bedoeld in het vierde lid van [artikel 2.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.2&artikel=2.2.5&z=2014-04-01&g=2014-04-01) eveneens verschuldigd over de periode die is verstreken na 31 december 2005.
 
 #### Paragraaf 2.3. Overgangsrecht [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933)
 
@@ -817,15 +817,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.1.7b
 
-1. Het College zorgverzekeringen merkt na 1 juli 2009 bekend geworden, over de jaren 2002 tot en met 2005 door zorgautoriteit berekende verschillen tussen opbrengsten en budgetten van dialysecentra, van radiotherapeutische centra, van centra voor erfelijkheidsonderzoek en van epilepsiecentra aan als kosten van het macro-deelbedrag vaste kosten van ziekenhuisverpleging, waarna het college deze bedragen uiterlijk 1 januari 2013 verrekent.
+1. Het Zorginstituut merkt na 1 juli 2009 bekend geworden, over de jaren 2002 tot en met 2005 door zorgautoriteit berekende verschillen tussen opbrengsten en budgetten van dialysecentra, van radiotherapeutische centra, van centra voor erfelijkheidsonderzoek en van epilepsiecentra aan als kosten van het macro-deelbedrag vaste kosten van ziekenhuisverpleging, waarna het instituut deze bedragen uiterlijk 1 januari 2013 verrekent.
 
-2. Indien de in [artikel 2.1.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.9&z=2014-02-15&g=2014-02-15), bedoelde situatie optreedt, ziet de in dat lid geregelde, onmiddellijk opeisbare vordering jegens het ziekenfonds of zijn rechtsopvolger onder algemene titel, mede op de op grond van het eerste lid verrekende bedragen.
+2. Indien de in [artikel 2.1.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.9&z=2014-04-01&g=2014-04-01), bedoelde situatie optreedt, ziet de in dat lid geregelde, onmiddellijk opeisbare vordering jegens het ziekenfonds of zijn rechtsopvolger onder algemene titel, mede op de op grond van het eerste lid verrekende bedragen.
 
 #### Paragraaf 2.2. Overgangsrecht [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750)
 
 ##### Artikel 2.2.2b
 
-[Artikel 2.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7b&z=2014-02-15&g=2014-02-15) is van overeenkomstige toepassing.
+[Artikel 2.1.7b](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7b&z=2014-04-01&g=2014-04-01) is van overeenkomstige toepassing.
 
 #### Paragraaf 2.3. Overgangsrecht [Wet medefinanciering oververtegenwoordiging oudere ziekenfondsverzekerden](https://wetten.overheid.nl/jci1.3:c:BWBR0003933)
 
@@ -857,9 +857,9 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 2.1.7a
 
-1. In afwijking van [artikel 2.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7&z=2014-02-15&g=2014-02-15), verricht het College zorgverzekeringen binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 een nieuwe nadere vaststelling als bedoeld in [artikel 19, vijfde lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=19).
+1. In afwijking van [artikel 2.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7&z=2014-04-01&g=2014-04-01), verricht het Zorginstituut binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 een nieuwe nadere vaststelling als bedoeld in [artikel 19, vijfde lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=19).
 
-2. De gegevens die gebruikt worden voor de nieuwe nadere vaststelling, bedoeld in het eerste lid, zijn gelijk aan de gegevens die zijn gebruikt voor de nadere vaststelling, bedoeld in [artikel 2.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7&z=2014-02-15&g=2014-02-15), met dien verstande dat voor de nieuwe nadere vaststelling rekening wordt gehouden met na 1 juli 2009 over de jaren 2002 tot en met 2005 door de zorgautoriteit per ziekenfonds berekende verschillen tussen opbrengsten en budgetten van ziekenhuizen.
+2. De gegevens die gebruikt worden voor de nieuwe nadere vaststelling, bedoeld in het eerste lid, zijn gelijk aan de gegevens die zijn gebruikt voor de nadere vaststelling, bedoeld in [artikel 2.1.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&hoofdstuk=2&paragraaf=2.1&artikel=2.1.7&z=2014-04-01&g=2014-04-01), met dien verstande dat voor de nieuwe nadere vaststelling rekening wordt gehouden met na 1 juli 2009 over de jaren 2002 tot en met 2005 door de zorgautoriteit per ziekenfonds berekende verschillen tussen opbrengsten en budgetten van ziekenhuizen.
 
 3. De nieuwe nadere vaststelling, bedoeld in het eerste lid, geschiedt op basis van de regelgeving zoals deze met betrekking tot het jaar 2005 gold, met dien verstande dat uit de nieuwe nadere vaststelling voortvloeiende financiële verplichtingen direct met 's Rijks schatkist worden verrekend.
 
@@ -869,7 +869,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 1. In dit artikel wordt onder «de [Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750)» verstaan: de Wet op de toegang tot ziektekostenverzekeringen 1998 zoals deze op 31 december 2005 luidde.
 
-2. In aanvulling op en zonodig in afwijking van eerdere beschikkingen dienaangaande, stelt het College zorgverzekeringen binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 nieuwe verrekeningsbeschikkingen als bedoeld in [artikel 8 van de Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=8) vast.
+2. In aanvulling op en zonodig in afwijking van eerdere beschikkingen dienaangaande, stelt het Zorginstituut binnen een half jaar na inwerkingtreding van dit artikel met betrekking tot het jaar 2005 nieuwe verrekeningsbeschikkingen als bedoeld in [artikel 8 van de Wet op de toegang tot ziektekostenverzekeringen 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009750&artikel=8) vast.
 
 3. De gegevens die gebruikt worden voor de nieuwe beschikkingen, bedoeld in het tweede lid, zijn gelijk aan de gegevens die zijn gebruikt voor de eerdere verrekeningsbeschikkingen met betrekking tot het jaar 2005, met dien verstande dat voor de nieuwe verrekeningsbeschikkingen rekening wordt gehouden met na 1 juli 2009 over de jaren 2002 tot en met 2005 door de zorgautoriteit berekende verschillen tussen opbrengsten en budgetten van ziekenhuizen.
 
