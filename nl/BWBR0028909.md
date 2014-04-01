@@ -4,7 +4,7 @@ identifier: "BWBR0028909"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-26"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028909"
 soort: "beleidsregel"
@@ -176,7 +176,11 @@ Bedenkingen in verband met onvoldoende toegang tot het cao-overleg zijn doorgaan
 
 Avv heeft tot doel de totstandkoming en de inhoud van collectieve afspraken over arbeidsvoorwaarden te ondersteunen, met als beoogd effect te voorkomen dat niet gebonden werkgevers en werknemers door onderbieding concurreren op arbeidsvoorwaarden. De minister heeft de bevoegdheid om uitzonderingen te maken op de algemeenverbindendverklaring ([artikel 2, eerste lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Nadere regels over deze bevoegdheid zijn neergelegd in het [Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051). Deze bevoegdheid is, blijkens de memorie van toelichting (Bijlage Handelingen II 1936/37, 274 nr. 3), behalve ter voorkoming van samenloop van collectieve regelingen met name gegeven om rekening te houden met de situatie dat de verbindendverklaring in het algemeen wel gemotiveerd is, doch voor bepaalde ondernemingen op gegronde bezwaren zou stuiten omdat de situatie van de onderneming(en) verschilt van de ondernemingen die onder de avv’de cao vallen. Uitzondering van avv maakt in die gevallen maatwerk in de collectieve arbeidsvoorwaardenvorming in een afzonderlijke onderneming of subsector mogelijk.
 
-Cao-partijen regelen uitzondering van bedrijven of subsectoren zoveel mogelijk zelf, via de daarvoor beschikbare mogelijkheden door middel van:
+Belangrijke uitgangspunten in het cao- en avv-beleid zijn de eigen verantwoordelijkheid van cao-partijen voor de afbakening van de werkingssfeer en dat dispensatie zoveel mogelijk door cao-partijen zelf wordt geregeld, teneinde voor de desbetreffende sector maatwerk te realiseren. De daarvoor beschikbare mogelijkheden zijn:
+
+In de cao opgenomen dispensatiebepalingen komen alleen voor algemeenverbindendverklaring in aanmerking als deze ten minste de volgende elementen bevatten:
+
+Bij deze beschrijving van de procedure wordt tevens vermeld dat de beslissing op het dispensatieverzoek te allen tijde schriftelijk en gemotiveerd wordt genomen.
 
 Voor zover werkgevers niet al door maatregelen van de cao-partijen zelf van de werking van de cao zijn uitgesloten, kan de minister toepassing geven aan zijn bevoegdheid uit hoofde van [art. 2 Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) tot het verlenen van dispensatie van algemeenverbindendverklaring.
 
@@ -194,7 +198,7 @@ In het kader van de dispensatieprocedure kan de minister alle belanghebbende par
 
 Een verzoek om dispensatie wordt nietgehonoreerdindien één van de volgende situaties zich voordoet:
 
-Verzoeken om dispensatie in verband met gebondenheid aan een eigen rechtsgeldige subsector-cao waarvan bepalingen algemeen verbindend zijn verklaard c.q. ten aanzien van welke bepalingen om avv is verzocht, worden aangehouden totdat de overlap van de werkingssfeer tussen beide cao’s is opgelost.
+### 8. Citeertitel
 
 Gelet op het belang dat als zodanig met AVV is gemoeid, zijn de in het kader van de dispensatieprocedure gestelde termijnen kort. Als door de verzoeker binnen de gestelde termijnen niet of niet voldoende wordt gereageerd, wordt het verzoek om dispensatie niet gehonoreerd.
 
@@ -205,6 +209,8 @@ Deze beleidsregel wordt aangehaald als: Toetsingskader Algemeen Verbindend Verkl
 ### 9. Publicatie
 
 Dit toetsingskader wordt gepubliceerd in de Staatscourant.
+
+Verzoeken om dispensatie in verband met gebondenheid aan een eigen rechtsgeldige subsector-cao waarvan bepalingen algemeen verbindend zijn verklaard c.q. ten aanzien van welke bepalingen om avv is verzocht, worden aangehouden totdat de overlap van de werkingssfeer tussen beide cao’s is opgelost.
 
 ### 10. Werkingsduur
 
