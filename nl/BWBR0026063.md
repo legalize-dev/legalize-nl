@@ -4,7 +4,7 @@ identifier: "BWBR0026063"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-01"
-last_updated: "2009-07-06"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026063"
 soort: "ministeriele-regeling"
@@ -56,15 +56,15 @@ Besluit:
 
 ##### Artikel 3
 
-1. De zorgautoriteit stelt voor 2007 en daarna voor ieder volgend jaar, mede op basis van door het College voor zorgverzekeringen, verder te noemen het CVZ, verstrekte gegevens, per ziekenhuis ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2009-07-06&g=2009-07-06), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
+1. De zorgautoriteit stelt voor 2007 en daarna voor ieder volgend jaar, mede op basis van door het Zorginstituut, verder te noemen het CVZ, verstrekte gegevens, per ziekenhuis ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
 - a. verzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en,
 
 - b. andere particuliere verzekeraars, zijnde financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar uitoefenen.
 
-2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2009-07-06&g=2009-07-06), aan het desbetreffende ziekenhuis bekend maakt.
+2. De zorgautoriteit vermeldt de in het vorige lid bedoelde toerekening naar verzekeraars in een brief waarmee zij het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2014-04-01&g=2014-04-01), aan het desbetreffende ziekenhuis bekend maakt.
 
-3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2009-07-06&g=2009-07-06), aan deze bekend maakt.
+3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026063&artikel=2&z=2014-04-01&g=2014-04-01), aan deze bekend maakt.
 
 ##### Artikel 4
 
