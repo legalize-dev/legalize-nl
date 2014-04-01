@@ -4,7 +4,7 @@ identifier: "BWBV0005360"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-04-01"
-last_updated: "2011-05-12"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005360"
 soort: "verdrag"
@@ -100,7 +100,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 2. De terugnameplicht uit lid (1) geldt ook voor de persoon die na binnenkomst op het grondgebied van de verzoekende Partij de nationaliteit of het staatsburgerschap van de aangezochte Partij heeft verloren, tenzij die persoon tenminste een naturalisatietoezegging van de verzoekende Partij heeft ontvangen.
 
-3. Op verzoek van de verzoekende Partij, en conform de bepalingen van [artikel 7, lid (6)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2011-05-12&g=2011-05-12), van deze Overeenkomst, verstrekt de aangezochte Partij onverwijld en uiterlijk binnen drie dagen na de datum van ontvangst van het verzoek de met het oog op de teruggeleiding van de terug te nemen personen vereiste reisdocumenten.
+3. Op verzoek van de verzoekende Partij, en conform de bepalingen van [artikel 7, lid (6)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), van deze Overeenkomst, verstrekt de aangezochte Partij onverwijld en uiterlijk binnen drie dagen na de datum van ontvangst van het verzoek de met het oog op de teruggeleiding van de terug te nemen personen vereiste reisdocumenten.
 
 4. De verzoekende Partij neemt deze persoon onder dezelfde voorwaarden terug, indien uit een onderzoek, uitgevoerd binnen een termijn van drie maanden na de terugname van betrokkene, blijkt dat hij op het moment van het verlaten van het grondgebied van de verzoekende Partij niet de nationaliteit of het staatsburgerschap van de aangezochte Partij had, tenzij de terugnameplicht volgt uit lid (2).
 
@@ -122,13 +122,13 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ##### Artikel 4. Indiening van het verzoek om terug- of overname
 
-1. Een verzoek om terug- of overname op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2011-05-12&g=2011-05-12) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2011-05-12&g=2011-05-12) wordt schriftelijk ingediend bij de bevoegde autoriteit van de aangezochte Partij.
+1. Een verzoek om terug- of overname op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2014-04-01&g=2014-04-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2014-04-01&g=2014-04-01) wordt schriftelijk ingediend bij de bevoegde autoriteit van de aangezochte Partij.
 
 2. Elk verzoek om terug- of overname bevat de volgende inlichtingen:
 
 - 1. de personalia van de betrokkene (naam, voornamen, eventueel vroegere namen, namen van de ouders, bijnamen en pseudoniemen, alias, geslacht, geboortedatum en, indien mogelijk, geboorteplaats en laatste verblijfplaats op het grondgebied van de aangezochte Partij);
 
-- 2. een kopie van de bewijsmiddelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=5&z=2011-05-12&g=2011-05-12) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=6&z=2011-05-12&g=2011-05-12).
+- 2. een kopie van de bewijsmiddelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=5&z=2014-04-01&g=2014-04-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=6&z=2014-04-01&g=2014-04-01).
 
 3. Het verzoek om terug- of overname moet in een voorkomend geval ook de volgende inlichtingen bevatten:
 
@@ -142,7 +142,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ##### Artikel 5. Bewijsmiddelen met betrekking tot eigen onderdanen of staatsburgers
 
-1. Het bewijs van de nationaliteit of het staatsburgerschap overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2011-05-12&g=2011-05-12) kan worden geleverd door middel van de navolgende documenten:
+1. Het bewijs van de nationaliteit of het staatsburgerschap overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2014-04-01&g=2014-04-01) kan worden geleverd door middel van de navolgende documenten:
 
 - 1. een geldig paspoort of paspoortvervangend reisdocument met foto (laissez-passer);
 
@@ -164,7 +164,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 Wanneer dergelijke documenten worden voorgelegd, erkennen de Partijen de nationaliteit of het staatsburgerschap zonder verdere formaliteiten.
 
-2. Het begin van bewijs van de nationaliteit of het staatsburgerschap overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2011-05-12&g=2011-05-12) kan worden geleverd door middel van de navolgende documenten of elementen:
+2. Het begin van bewijs van de nationaliteit of het staatsburgerschap overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=2&z=2014-04-01&g=2014-04-01) kan worden geleverd door middel van de navolgende documenten of elementen:
 
 - 1. een kopie van één van de in lid (1) genoemde documenten;
 
@@ -194,7 +194,7 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Partijen 
 
 ##### Artikel 6. Bewijsmiddelen met betrekking tot onderdanen van een derde Staat
 
-1. Het bewijs dat is voldaan aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2011-05-12&g=2011-05-12) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
+1. Het bewijs dat is voldaan aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2014-04-01&g=2014-04-01) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
 - 1. geldige visa of verblijfstitels afgegeven door de aangezochte Partij;
 
@@ -210,7 +210,7 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Partijen 
 
 Bovengenoemde bewijsmiddelen worden tussen de Partijen zonder verdere formaliteiten erkend.
 
-2. Een begin van bewijs dat is voldaan aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2011-05-12&g=2011-05-12) genoemde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
+2. Een begin van bewijs dat is voldaan aan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=3&z=2014-04-01&g=2014-04-01) genoemde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
 - 1. op naam gestelde reisbiljetten, bescheiden of facturen indien daaruit de binnenkomst of het verblijf van de betrokkene op het grondgebied van de aangezochte Partij blijkt, of waarmee zijn binnenkomst op het grondgebied van de verzoekende Partij vanuit het grondgebied van de aangezochte Partij kan worden aangetoond (bijvoorbeeld: hotelrekeningen, afspraakkaarten voor bezoek aan arts/tandarts, toegangsbewijzen voor openbare/particuliere instellingen, passagierslijsten voor vlieg- of bootreizen);
 
@@ -242,7 +242,7 @@ Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorw
 
 3. Een verzoek om terug- of overname moet onverwijld en in elk geval uiterlijk binnen een termijn van 28 kalenderdagen worden beantwoord en de afwijzing van een verzoek om terug- of overname moet worden gemotiveerd. Deze termijn begint te lopen vanaf de datum van ontvangst van het verzoek om terug- of overname. Wanneer niet binnen deze termijn wordt geantwoord, wordt aangenomen dat met de overdracht wordt ingestemd.
 
-4. De resultaten van een onderzoek in het bevolkingsregister overeenkomstig [artikel 5, lid (3)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=5&z=2011-05-12&g=2011-05-12) moeten onverwijld en in elk geval binnen 7 kalenderdagen dagen2)[Red: Redactie Tractatenblad: hier dient het woord „dagen” niet gelezen te worden.]vanaf de datum van het verzoek aan de verzoekende Partij worden verstrekt.
+4. De resultaten van een onderzoek in het bevolkingsregister overeenkomstig [artikel 5, lid (3)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=5&z=2014-04-01&g=2014-04-01) moeten onverwijld en in elk geval binnen 7 kalenderdagen dagen2)[Red: Redactie Tractatenblad: hier dient het woord „dagen” niet gelezen te worden.]vanaf de datum van het verzoek aan de verzoekende Partij worden verstrekt.
 
 5. Nadat de instemming is gegeven of, in voorkomend geval, nadat de termijn van 28 kalenderdagen is verstreken, draagt de verzoekende Partij de persoon met wiens terug- of overname werd ingestemd onverwijld en in elk geval uiterlijk binnen een termijn van drie maanden over. Deze termijn kan op verzoek worden verlengd met de tijd die nodig is om de juridische of praktische belemmeringen op te heffen.
 
@@ -278,7 +278,7 @@ Wanneer dit begin van bewijs is geleverd, nemen de Partijen aan dat aan de voorw
 
 - 3. voorgestelde plaats van grensoverschrijding, tijdstip van overdracht en eventueel gebruik van begeleiders;
 
-- 4. een verklaring waarin wordt gesteld dat volgens de verzoekende Partij is voldaan aan de voorwaarden vermeld in [artikel 9, lid (1) en (2)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=9&z=2011-05-12&g=2011-05-12), en dat er geen redenen bekend zijn voor een weigering op grond van artikel 9, lid (3).
+- 4. een verklaring waarin wordt gesteld dat volgens de verzoekende Partij is voldaan aan de voorwaarden vermeld in [artikel 9, lid (1) en (2)](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=9&z=2014-04-01&g=2014-04-01), en dat er geen redenen bekend zijn voor een weigering op grond van artikel 9, lid (3).
 
 2. De bevoegde autoriteit van de aangezochte Partij brengt de bevoegde autoriteit van de verzoekende Partij onverwijld schriftelijk op de hoogte van de toelating, met bevestiging van de plaats waar de grens wordt overschreden en het geplande tijdstip van toelating, of van de weigering van de toelating en de redenen daarvoor.
 
@@ -412,7 +412,7 @@ de Republiek Kosovo,
 
 hierna genoemd „de Partijen”,
 
-Op grond van [artikel 15, van de op 12 mei te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de BENELUX-Staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2011-05-12&g=2011-05-12),
+Op grond van [artikel 15, van de op 12 mei te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de BENELUX-Staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01),
 
 hierna genoemd „de Overeenkomst”,
 
@@ -428,33 +428,33 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 ##### Artikel 2. Verzoek om terug- of overname
 
-1. Een verzoek om terug- of overname dat de inlichtingen bevat als bedoeld in [artikel 4, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2011-05-12&g=2011-05-12), wordt per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij.
+1. Een verzoek om terug- of overname dat de inlichtingen bevat als bedoeld in [artikel 4, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2014-04-01&g=2014-04-01), wordt per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij.
 
-2. Voor de indiening van het verzoek om terugname van een eigen onderdaan of staatsburger wordt gebruik gemaakt van het formulier dat als [bijlage 1 A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht. Voor de indiening van het verzoek om overname van een onderdaan van een derde Staat wordt gebruik gemaakt van het formulier dat als [bijlage 1 B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+2. Voor de indiening van het verzoek om terugname van een eigen onderdaan of staatsburger wordt gebruik gemaakt van het formulier dat als [bijlage 1 A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht. Voor de indiening van het verzoek om overname van een onderdaan van een derde Staat wordt gebruik gemaakt van het formulier dat als [bijlage 1 B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
-3. Indien is voldaan aan de voorwaarden genoemd in [artikel 4, lid (4), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2011-05-12&g=2011-05-12), volstaat een schriftelijke mededeling door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=3&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+3. Indien is voldaan aan de voorwaarden genoemd in [artikel 4, lid (4), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2014-04-01&g=2014-04-01), volstaat een schriftelijke mededeling door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=3&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
 4. De verzoekende Partij wendt zich voor het verstrekken alsmede voor het verkrijgen van nadere inlichtingen met betrekking tot het ingediende verzoek om terug- of overname tot de bevoegde autoriteit van de aangezochte Partij.
 
-5. Het antwoord op een verzoek om terug- of overname wordt per telefax of via elektronische weg overgemaakt aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2011-05-12&g=2011-05-12) of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+5. Het antwoord op een verzoek om terug- of overname wordt per telefax of via elektronische weg overgemaakt aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2014-04-01&g=2014-04-01) of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
 ##### Artikel 3. Reisdocumenten
 
-1. Ingeval van een positief antwoord op het verzoek om terug- of overname, worden de voor terugkeer noodzakelijke reisdocumenten overeenkomstig [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2011-05-12&g=2011-05-12), op naam van de over te dragen persoon gesteld en door de diplomatieke vertegenwoordiging aan de bevoegde autoriteiten van de verzoekende Partij overhandigd.
+1. Ingeval van een positief antwoord op het verzoek om terug- of overname, worden de voor terugkeer noodzakelijke reisdocumenten overeenkomstig [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), op naam van de over te dragen persoon gesteld en door de diplomatieke vertegenwoordiging aan de bevoegde autoriteiten van de verzoekende Partij overhandigd.
 
-2. Op grond van [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2011-05-12&g=2011-05-12), wordt de aangezochte Partij, indien de diplomatieke vertegenwoordiging het gevraagde reisdocument niet binnen drie werkdagen na de datum van ontvangst van het verzoek daartoe kan verstrekken, geacht in te stemmen met het gebruik van een door de verzoekende Partij verstrekt reisdocument. De documenten die de Partijen voor dit doel zullen gebruiken zijn als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=4&z=2011-05-12&g=2011-05-12) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=5&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol gehecht.
+2. Op grond van [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), wordt de aangezochte Partij, indien de diplomatieke vertegenwoordiging het gevraagde reisdocument niet binnen drie werkdagen na de datum van ontvangst van het verzoek daartoe kan verstrekken, geacht in te stemmen met het gebruik van een door de verzoekende Partij verstrekt reisdocument. De documenten die de Partijen voor dit doel zullen gebruiken zijn als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=4&z=2014-04-01&g=2014-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=5&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol gehecht.
 
 ##### Artikel 4. Overdracht
 
-1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij, per telefax of via elektronische weg, minimaal twee werkdagen vóór de geplande overdracht in kennis van haar voornemen daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij, per telefax of via elektronische weg, minimaal twee werkdagen vóór de geplande overdracht in kennis van haar voornemen daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
-2. Indien de overdracht van de terug- of over te nemen persoon binnen de in [artikel 7, lid (5), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2011-05-12&g=2011-05-12) genoemde termijn van drie maanden niet kan plaatsvinden stelt de verzoekende Partij de bevoegde autoriteit van de aangezochte Partij, daarvan onverwijld in kennis.
+2. Indien de overdracht van de terug- of over te nemen persoon binnen de in [artikel 7, lid (5), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01) genoemde termijn van drie maanden niet kan plaatsvinden stelt de verzoekende Partij de bevoegde autoriteit van de aangezochte Partij, daarvan onverwijld in kennis.
 
-3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Partij daarvan afzonderlijk melding op het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Partij daarvan afzonderlijk melding op het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
 ##### Artikel 5. Procedure met het oog op de doorgeleiding van onderdanen van een derde Staat en staatlozen
 
-1. Een verzoek om doorgeleiding wordt minimaal twee dagen voor de geplande doorgeleiding per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij. Voor de indiening van het verzoek wordt gebruik gemaakt van het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+1. Een verzoek om doorgeleiding wordt minimaal twee dagen voor de geplande doorgeleiding per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij. Voor de indiening van het verzoek wordt gebruik gemaakt van het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
 2. De bevoegde autoriteit van de aangezochte Partij bericht onverwijld, per telefax of via elektronische weg, of zij instemt met de doorgeleiding en het hiervoor geplande tijdstip, de plaats waar de grens wordt overschreden, de wijze van vervoer en het gebruik van begeleiders. Daartoe wordt gebruik gemaakt van het in lid 1, van dit artikel, bedoelde formulier.
 
@@ -462,7 +462,7 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 ##### Artikel 6. Ondersteuning van de doorgeleiding
 
-1. Indien de verzoekende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Partij noodzakelijk acht, geeft zij dit verzoek aan in het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2011-05-12&g=2011-05-12) aan dit Uitvoeringsprotocol is gehecht.
+1. Indien de verzoekende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Partij noodzakelijk acht, geeft zij dit verzoek aan in het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
 
 2. Bij gelegenheid van het antwoord op het verzoek om doorgeleiding bericht de aangezochte Partij of zij kan voorzien in de gevraagde ondersteuning. De Partijen treden zo nodig nader met elkaar in overleg.
 
@@ -480,19 +480,19 @@ Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
 
 ##### Artikel 8. Aanwijzing bevoegde autoriteiten
 
-Overeenkomstig [artikel 15, onder 1, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2011-05-12&g=2011-05-12) wisselen de Partijen uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
+Overeenkomstig [artikel 15, onder 1, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) wisselen de Partijen uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
 
 ##### Artikel 9. Aanwijzing plaatsen grensoverschrijding
 
-Overeenkomstig [artikel 15, onder 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2011-05-12&g=2011-05-12) delen de Partijen elkaar uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk mede via welke grensovergangen personen daadwerkelijk worden overgedragen en toegelaten. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
+Overeenkomstig [artikel 15, onder 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) delen de Partijen elkaar uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk mede via welke grensovergangen personen daadwerkelijk worden overgedragen en toegelaten. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
 
 ##### Artikel 10. Kosten
 
-Door de aangezochte Partij gemaakte kosten in verband met terug- of overname en doorgeleiding welke op grond van [artikel 11, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=11&z=2011-05-12&g=2011-05-12) ten laste van de verzoekende Partij komen, worden door de verzoekende Partij na overlegging van een factuur vergoed.
+Door de aangezochte Partij gemaakte kosten in verband met terug- of overname en doorgeleiding welke op grond van [artikel 11, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=11&z=2014-04-01&g=2014-04-01) ten laste van de verzoekende Partij komen, worden door de verzoekende Partij na overlegging van een factuur vergoed.
 
 ##### Artikel 11. Comité van deskundigen
 
-De Partijen stellen elkaar binnen de dertig dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 14, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=14&z=2011-05-12&g=2011-05-12) ingestelde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
+De Partijen stellen elkaar binnen de dertig dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 14, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=14&z=2014-04-01&g=2014-04-01) ingestelde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
 
 ##### Artikel 12. Taal
 
@@ -506,7 +506,7 @@ Partijen communiceren met elkaar in de Engelse taal.
 
 ##### Artikel 14. Inwerkingtreding en opzegging
 
-Dit Uitvoeringsprotocol wordt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=17&z=2011-05-12&g=2011-05-12) en [18, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=18&z=2011-05-12&g=2011-05-12) toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
+Dit Uitvoeringsprotocol wordt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=17&z=2014-04-01&g=2014-04-01) en [18, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=18&z=2014-04-01&g=2014-04-01) toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
 
 ##### Artikel 15. Depositaris
 
