@@ -4,7 +4,7 @@ identifier: "BWBR0024926"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024926"
 soort: "ministeriele-regeling"
@@ -114,7 +114,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
-- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2014-01-01&g=2014-01-01) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
+- 1. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens ter uitvoering van de onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=2&z=2014-04-01&g=2014-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=3&z=2014-04-01&g=2014-04-01) vermelde artikelen en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
 - 2. [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61): persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens die noodzakelijk zijn voor de interne en externe controle van de naleving van een door de zorgautoriteit vastgestelde regeling door een op grond van [artikel 61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) door de zorgautoriteit aangewezen persoon en voor zover de categorie van persoonsgegevens daarbij is vermeld;
 
@@ -126,7 +126,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 5 van de
 
 De zorgautoriteit verstrekt aan de in [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=70) genoemde instanties persoonsgegevens indien en voor zover verwerking van die gegevens voor de uitoefening van hun taken en bevoegdheden noodzakelijk is en voor zover die gegevens behoren tot de hieronder bij die instanties vermelde categorieën van persoonsgegevens:
 
-- 1. het College zorgverzekeringen: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars, dan wel een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de Zorgverzekeringswet voldoen en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten;
+- 1. het Zorginstituut: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en ziektekostenverzekeraars, dan wel een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de Zorgverzekeringswet voldoen en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten;
 
 - 2. het College bouw en het College sanering: persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders, ziektekostenverzekeraars en rechtspersonen als bedoeld in [artikel 40 Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40);
 
