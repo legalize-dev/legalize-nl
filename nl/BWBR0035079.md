@@ -265,35 +265,3 @@ Dit besluit kan worden aangehaald als: Bestuursreglement Zorginstituut Nederland
 Dit besluit treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 april 2014.
 
 Dit besluit, wordt na verkregen goedkeuring van de minister van Volksgezondheid, Welzijn en Sport, geplaatst in de Staatscourant.
-
-##### Artikel 7a
-
-1. De Raad van Bestuur stelt een Auditcommissie in.
-
-2. De Raad van Bestuur benoemt de voorzitter en de overige leden van de Auditcommissie.
-
-3. De Raad van Bestuur bepaalt de werkwijze van de Auditcommissie bij reglement.
-
-4. De Raad van Bestuur stelt voor de leden van de Auditcommissie een profiel op dat bij het in het vorige lid bedoelde reglement wordt vastgesteld.
-
-5. Bijeenkomsten van de Raad van Bestuur en de Auditcommissie zijn niet openbaar.
-
-6. De Auditcommissie adviseert de Raad van Bestuur gevraagd en ongevraagd.
-
-7. De Raad van Bestuur reageert met een appreciatie op de adviezen van de Auditcommissie.
-
-8. De Raad van Bestuur besteedt in zijn jaarverslag aandacht aan de adviezen van de Auditcommissie en de wijze waarop hij is omgegaan met deze adviezen.
-
-9. De werkzaamheden van de leden van de Auditcommissie worden vergoed overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=11&z=2018-03-22&g=2017-09-01).
-
-### Hoofdstuk 5. De commissies
-
-### Hoofdstuk 6. Voorbereiding en inspraak ([artikel 3:2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:2))
-
-### Hoofdstuk 7. Klachtenregeling en integriteit
-
-### Hoofdstuk 8. Vertrouwelijkheid
-
-### Hoofdstuk 9. Slotbepalingen
-
-Dit besluit, wordt na verkregen goedkeuring van de minister van Volksgezondheid, Welzijn en Sport, geplaatst in de Staatscourant.
