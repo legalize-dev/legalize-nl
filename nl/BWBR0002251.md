@@ -4,7 +4,7 @@ identifier: "BWBR0002251"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2006-01-01"
+last_updated: "2014-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002251"
 soort: "wet"
@@ -78,7 +78,7 @@ Op het tijdstip van inwerkingtreding van deze wet worden buiten werking gesteld:
 
 - e. "Nederlandse pensioenen": pensioenuitkeringen, welke voor de berekening van het totaal der pensioenen, bedoeld in artikel 69, eerste lid, dan wel artikel 98, eerste lid, van de Pensioenwet 1922 (**Stb.** 240), in beschouwing worden genomen dan wel, met betrekking tot na het tijdstip van inwerkingtreding van de [Algemene burgerlijke pensioenwet](onbekend) gelegen perioden, pensioenuitkeringen als bedoeld in [artikel A 2](onbekend) en [artikel J 14, lid 5 , van die wet](onbekend), alsmede pensioenuitkeringen op grond van een overeenkomst als bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4) die van toepassing is op overheidswerknemers die werkzaam zijn in de sector Rijk,
 
-2. Naar de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002251&hoofdstuk=VI&artikel=32&z=2006-01-01&g=2006-01-01) gemaakte onderscheiding is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk Onze Minister van Buitenlandse Zaken bevoegd andere periodieke uitkeringen dan die, omschreven in het eerste lid, onder **c** of **d,** voor de toepassing van deze wet gelijk te stellen met pensioenen, weduwenpensioenen of wezenonderstanden dan wel met overige uitkeringen.
+2. Naar de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0002251&hoofdstuk=VI&artikel=32&z=2014-04-01&g=2014-04-01) gemaakte onderscheiding is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk Onze Minister van Buitenlandse Zaken bevoegd andere periodieke uitkeringen dan die, omschreven in het eerste lid, onder **c** of **d,** voor de toepassing van deze wet gelijk te stellen met pensioenen, weduwenpensioenen of wezenonderstanden dan wel met overige uitkeringen.
 
 3. Tenzij anders blijkt, worden voor de toepassing van deze wet pensioenen, weduwenpensioenen, wezenonderstanden en overige uitkeringen geacht in euro's te luiden.
 
@@ -262,7 +262,7 @@ Vervallen
 
 ##### Artikel 31
 
-1. Indien een persoon, die recht heeft op pensioen, weduwenpensioen, wezenonderstand of overige uitkering ingevolge het bepaalde bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6) en [13 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=13) een bijdrage verschuldigd is in de kosten van zorg, is het orgaan, dat belast is met de uitbetaling van het pensioen, het weduwenpensioen, de wezenonderstand of de overige uitkering en toeslagen krachtens deze wet, bevoegd het pensioen, het weduwenpensioen, de wezenonderstand, de overige uitkering en de toeslagen tot ten hoogste het bedrag van die bijdrage in plaats van aan die persoon zonder diens machtiging uit te betalen aan het College voor zorgverzekeringen, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
+1. Indien een persoon, die recht heeft op pensioen, weduwenpensioen, wezenonderstand of overige uitkering ingevolge het bepaalde bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6) en [13 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=13) een bijdrage verschuldigd is in de kosten van zorg, is het orgaan, dat belast is met de uitbetaling van het pensioen, het weduwenpensioen, de wezenonderstand of de overige uitkering en toeslagen krachtens deze wet, bevoegd het pensioen, het weduwenpensioen, de wezenonderstand, de overige uitkering en de toeslagen tot ten hoogste het bedrag van die bijdrage in plaats van aan die persoon zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
 2. Het in het voorgaande lid bepaalde is van overeenkomstige toepassing ten aanzien van uitbetaling van pensioenen als bedoeld in de Bijzondere Ongevallenregeling Dienst- en Reserveplichtigen (**Ind. Stb.** 1947, 154) en daarop verleende toeslagen.
 
