@@ -4,7 +4,7 @@ identifier: "BWBR0024875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-30"
-last_updated: "2012-01-19"
+last_updated: "2014-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024875"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en b
 
 - a. door middel van publicatie op een door de Minister van Buitenlandse Zaken aan te wijzen vervangend internetadres,
 
-- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2012-01-19&g=2012-01-19) genoemde uitgiftepunt, of
+- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2012-01-19&g=2014-04-10) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
@@ -83,5 +83,23 @@ Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdeel A en
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling elektronische bekendmaking Tractatenblad.
+
+Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
+
+##### Artikel 4a
+
+1. De teksten en in voorkomend geval de vertalingen in het Nederlands van de op grond van de [Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799) bekendgemaakte verdragen en besluiten van volkenrechtelijke organisaties zijn in geconsolideerde vorm voor een ieder beschikbaar op internet.
+
+2. Het eerste lid is niet van toepassing op:
+
+- a. verdragen en besluiten van volkenrechtelijke organisaties, die voor 1 januari 2005 tot stand gekomen zijn en die op die datum niet in werking zijn getreden of niet voorlopig worden toegepast voor enig deel van het Koninkrijk der Nederlanden;
+
+- b. verdragen en besluiten van volkenrechtelijke organisaties, voor zover deze strekken tot wijziging van een of meer verdragen of besluiten van volkenrechtelijke organisaties;
+
+- c. bijlagen, als bedoeld in [artikel 20, derde lid, van de Rijkswet goedkeuring en bekendmaking verdragen](https://wetten.overheid.nl/jci1.3:c:BWBR0006799&artikel=20);
+
+- d. bijlagen, die in geconsolideerde vorm worden aangeboden door de Europese Unie;
+
+- e. verdragen en besluiten van volkenrechtelijke organisaties, die niet bekend gemaakt zijn in het Tractatenblad of het Staatsblad.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
