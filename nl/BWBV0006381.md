@@ -4,7 +4,7 @@ identifier: "BWBV0006381"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-02-19"
-last_updated: "2014-04-11"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006381"
 soort: "verdrag"
@@ -140,9 +140,9 @@ Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 2 me
 
 ##### Artikel 4
 
-1. De regelingen die zijn opgenomen in de [Toetredingsakte van 9 december 2011](onbekend) en bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006381&bijlage=B&z=2014-04-11&g=2014-04-11) bij deze overeenkomst, worden in de [EER-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) opgenomen.
+1. De regelingen die zijn opgenomen in de [Toetredingsakte van 9 december 2011](onbekend) en bedoeld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006381&bijlage=B&z=2014-04-12&g=2014-04-12) bij deze overeenkomst, worden in de [EER-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) opgenomen.
 
-2. Alle in de [Toetredingsakte van 9 december 2011](onbekend) vermelde of op basis van deze toetredingsakte goedgekeurde voor de [EER-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) relevante regelingen die niet in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006381&bijlage=B&z=2014-04-11&g=2014-04-11) bij deze overeenkomst worden vermeld, worden overeenkomstig de in de EER-overeenkomst vastgelegde procedures getroffen.
+2. Alle in de [Toetredingsakte van 9 december 2011](onbekend) vermelde of op basis van deze toetredingsakte goedgekeurde voor de [EER-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) relevante regelingen die niet in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0006381&bijlage=B&z=2014-04-12&g=2014-04-12) bij deze overeenkomst worden vermeld, worden overeenkomstig de in de EER-overeenkomst vastgelegde procedures getroffen.
 
 ##### Artikel 5
 
