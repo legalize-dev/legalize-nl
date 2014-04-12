@@ -4,7 +4,7 @@ identifier: "BWBV0001070"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-02-19"
-last_updated: "2007-08-01"
+last_updated: "2014-04-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001070"
 soort: "verdrag"
@@ -57,6 +57,8 @@ het Koninkrijk Spanje,
 
 de Franse Republiek,
 
+de Republiek Kroatië,
+
 de Italiaanse Republiek,
 
 de Republiek Cyprus,
@@ -67,9 +69,9 @@ de Republiek Litouwen,
 
 het Groothertogdom Luxemburg,
 
-de Republiek Hongarije,
+Hongarije,
 
-Malta,
+de Republiek Malta,
 
 het Koninkrijk der Nederlanden,
 
@@ -169,7 +171,7 @@ In deze Overeenkomst wordt verstaan onder :
 
 - e). [Toetredingsakte van 25 april 2005](onbekend): de Akte betreffende de toetredingsvoorwaarden voor de Republiek Bulgarije en Roemenië en de aanpassing van de Verdragen waarop de Europese Unie is gegrond, goedgekeurd te Luxemburg op 25 april 2005.
 
-- f). [Toetredingsprotocol van 25 april 2005](onbekend): het Protocol betreffende de voorwaarden en de nadere regels voor de toelating van de Republiek Bulgarije en Roemenië tot de Europese Unie, goedgekeurd te Luxemburg op 25 april 2005.
+- f). het begrip „Toetredingsakte van 9 december 2011” heeft betrekking op „de Akte betreffende de voorwaarden voor de toetreding van de Republiek Kroatië en de aanpassing van het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, ondertekend te Brussel op 9 december 2011.
 
 ##### Artikel 3
 
@@ -1145,7 +1147,7 @@ De EVA-Staten stellen een financieel mechanisme in om in het kader van de EER en
 
 ##### Artikel 117
 
-Protocol 38, Protocol 38 bis en het addendum bij Protocol 38 bis bevatten bepalingen betreffende het financieel mechanisme.
+Protocol 38, Protocol 38 bis, het addendum bij Protocol 38 bis, Protocol 38 ter en het addendum bij Protocol 38 ter bevatten bepalingen betreffende het financieel mechanisme.
 
 ## DEEL IX. ALGEMENE EN SLOTBEPALINGEN
 
@@ -1227,9 +1229,9 @@ Onmiddellijk na de kennisgeving van de voorgenomen opzegging, roepen de overige 
 
 1. Deze Overeenkomst wordt opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de IJslandse, de Nederlandse, de Noorse, de Portugese, de Spaanse en de Zweedse taal. zijnde elk van deze teksten gelijkelijk authentiek.
 
-Naar aanleiding van de uitbreidingen van de Europese Economische Ruimte zijn eveneens de versies van deze overeenkomst in de Bulgaarse, de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Roemeense, de Sloveense, de Slowaakse en de Tsjechische taal gelijkelijk authentiek.
+Naar aanleiding van de uitbreidingen van de Europese Economische Ruimte zijn eveneens de versies van deze overeenkomst in de Bulgaarse, de Estse, de Hongaarse, de Kroatische, de Letse, de Litouwse, de Maltese, de Poolse, de Roemeense, de Sloveense, de Slowaakse en de Tsjechische taal gelijkelijk authentiek.
 
-De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zoals zij in het **Publicatieblad van de Europese Unie** zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt en in het EER-supplement bij het **Publicatieblad van de Europese Unie** bekendgemaakt.
+De teksten van de in de bijlagen genoemde besluiten zijn gelijkelijk authentiek in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zoals zij in het **Publicatieblad van de Europese Unie** zijn verschenen, en worden met het oog op hun echtverklaring in de IJslandse en Noorse taal opgemaakt en in het EER-supplement bij het **Publicatieblad van de Europese Unie** bekendgemaakt.
 
 2. Deze Overeenkomst zal door de overeenkomstsluitende partijen worden bekrachtigd of goedgekeurd overeenkomstig hun onderscheidene grondwettelijke bepalingen.
 
