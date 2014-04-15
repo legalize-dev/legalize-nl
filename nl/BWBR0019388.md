@@ -4,7 +4,7 @@ identifier: "BWBR0019388"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2008-06-13"
+last_updated: "2014-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019388"
 soort: "wet"
@@ -50,25 +50,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. GSB-steden: de gemeenten Alkmaar, Almelo, Amersfoort, Amsterdam, Arnhem, Breda, Den Haag, Deventer, Dordrecht, Eindhoven, Emmen, Enschede, Groningen, Haarlem, Heerlen, Helmond, Hengelo (Overijssel), ’s–Hertogenbosch, Leeuwarden, Leiden, Lelystad, Maastricht, Nijmegen, Rotterdam, Schiedam, Sittard-Geleen, Tilburg, Utrecht, Venlo, Zaanstad en Zwolle;
+- a. huisvestingsvergunning: vergunning als bedoeld in [artikel 7, eerste lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=7);
 
-- b. huisvestingsvergunning: vergunning als bedoeld in [artikel 7, eerste lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=7);
+- b. regio: gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd;
 
-- c. regio: gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd;
+- c. huisvestingsverordening: verordening als bedoeld in [artikel 2 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2);
 
-- d. huisvestingsverordening: verordening als bedoeld in [artikel 2 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2);
+- d. Onze Minister: Onze Minister voor Wonen en Rijksdienst;
 
-- e. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie.
+- e. persoonsgegeven: persoonsgegeven als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1).
 
 ### Hoofdstuk 2. Onroerendezaakbelastingen
 
 ##### Artikel 2
 
-Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2008-06-13&g=2008-06-13).
+Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2014-04-15&g=2014-04-15).
 
 ##### Artikel 3
 
-1. Een gebied binnen een gemeente met meer dan 100.000 inwoners of binnen een van de GSB-steden met 100.000 of minder inwoners dat een bijzondere behoefte heeft aan omschakeling wegens lokale sociaal-economische problemen kan door de gemeenteraad als kansenzone worden aangewezen indien het voldoet aan de volgende eisen:
+1. Een gebied binnen een gemeente dat een bijzondere behoefte heeft aan omschakeling wegens lokale sociaal-economische problemen kan door de gemeenteraad als kansenzone worden aangewezen indien het voldoet aan de volgende eisen:
 
 - a. binnen het gebied bedraagt
 
@@ -86,55 +86,51 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 - b. een beschrijving van de sociaal-economische situatie in de kansenzone, inclusief een toets aan de eisen, bedoeld in het eerste lid, waarbij de herkomst van de gegevens zodanig is, dat zij controleerbaar zijn.
 
-4. Een kansenzone kan slechts een maal als zodanig worden aangewezen. Deze aanwijzing geldt voor de duur van ten hoogste vier jaar. Deze termijn kan een maal met ten hoogste vier jaar worden verlengd. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
+4. Een kansenzone kan slechts een maal als zodanig worden aangewezen. Deze aanwijzing geldt voor de duur van ten hoogste vier jaar. Deze termijn kan vier maal met telkens ten hoogste vier jaar worden verlengd. Het eerste tot en met derde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 4
 
 1. In de verordening op de heffing en invordering van de onroerendezaakbelastingen, bedoeld in [artikel 220 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220), kan worden bepaald dat de belastingaanslag ter zake van onroerende zaken, die niet in hoofdzaak tot woning dienen zoals bedoeld in [artikel 220a, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220a), waarvan de waarde zoals die op grond van de [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119) is vastgesteld, niet hoger is dan € 500.000,– wordt verminderd.
 
-2. Jaarlijks wordt het bedrag, bedoeld in het eerste lid, aangepast overeenkomstig de procentuele wijziging die de consumentenprijsindex over de maand april van het lopende kalenderjaar heeft ondergaan ten opzichte van deze prijsindex over de maand april van het daaraan voorafgaande jaar. De uitkomst van die berekening wordt naar boven afgerond op € 1.000,–. Het aldus berekende bedrag wordt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vóór 1 september in de Staatscourant bekend gemaakt en geldt voor het daarop volgende kalenderjaar.
+2. De vermindering wordt zodanig vastgesteld dat deze niet leidt tot een negatieve aanslag.
 
-3. Onder de consumentenprijsindex wordt verstaan de consumentenprijsindex reeks: Alle huishoudens, totaal, op meest recente tijdsbasis, zoals dat wordt berekend door het Centraal bureau voor de statistiek en gepubliceerd in het Statistisch bulletin van het Centraal bureau voor de statistiek.
+3. Het bedrag van de vermindering wordt op het aanslagbiljet vermeld.
 
-4. De vermindering wordt zodanig vastgesteld dat deze niet leidt tot een negatieve aanslag.
+4. Indien binnen het grondgebied van een gemeente meer dan een kansenzone is aangewezen wordt de vermindering van de belastingaanslag, bedoeld in het eerste lid, voor alle kansenzones op dezelfde wijze bepaald.
 
-5. Het bedrag van de vermindering wordt op het aanslagbiljet vermeld.
-
-6. Indien binnen het grondgebied van een gemeente meer dan een kansenzone is aangewezen wordt de vermindering van de belastingaanslag, bedoeld in het eerste lid, voor alle kansenzones op dezelfde wijze bepaald.
-
-7. Het eerste tot en met zesde lid zijn van overeenkomstige toepassing op de belastingen, bedoeld in [artikel 221 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=221), voor zover die worden geheven ter zake van bedrijfsruimten.
+5. Het eerste tot met vierde lid zijn van overeenkomstige toepassing op de belastingen, bedoeld in [artikel 221 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=221), voor zover die worden geheven ter zake van bedrijfsruimten.
 
 ### Hoofdstuk 3. Toegang tot de woningmarkt
 
 ##### Artikel 5
 
-1. Onze Minister kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2008-06-13&g=2008-06-13) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2008-06-13&g=2008-06-13) eisen kunnen worden gesteld.
+1. Onze Minister kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2014-04-15&g=2014-04-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2014-04-15&g=2014-04-15) eisen kunnen worden gesteld.
 
-2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad een maal met ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2008-06-13&g=2008-06-13) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2008-06-13&g=2008-06-13) zijn van overeenkomstige toepassing.
+2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad vier maal met telkens ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2014-04-15&g=2014-04-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2014-04-15&g=2014-04-15) zijn van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
+1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
 
 - a. noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente, en
 
 - b. voldoet aan de eisen van subsidiariteit en proportionaliteit.
 
-2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
+2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
 
 3. Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.
 
-4. Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
+4. Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
 
 ##### Artikel 7
 
-1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), in indien hem is gebleken dat:
+1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), in indien hem is gebleken dat:
 
-- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2008-06-13&g=2008-06-13), of
+- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2014-04-15&g=2014-04-15), of
 
-- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
+- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
 
-2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), voorts in indien de gemeenteraad daarom verzoekt.
+2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), voorts in indien de gemeenteraad daarom verzoekt.
 
 ##### Artikel 8
 
@@ -166,9 +162,9 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ##### Artikel 10
 
-1. In afwijking van [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), ten aanzien van de gebieden aangewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13), de huisvestingsverordening vast.
+1. In afwijking van [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), ten aanzien van de gebieden aangewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), de huisvestingsverordening vast.
 
-2. De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2008-06-13&g=2008-06-13) aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.
+2. De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15) aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.
 
 ### Hoofdstuk 4. Wijziging van enkele wetten
 
@@ -200,7 +196,7 @@ Wijzigt deze wet.
 
 ##### Artikel 17
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister zendt iedere vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel 18
 
