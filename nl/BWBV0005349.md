@@ -4,7 +4,7 @@ identifier: "BWBV0005349"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-04-23"
-last_updated: "2002-11-01"
+last_updated: "2014-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005349"
 soort: "verdrag"
@@ -122,7 +122,7 @@ Indien en voor zover de schade bovengenoemde grens te boven gaat, is de vervoerd
 
 6. De aansprakelijkheid van de vervoerder krachtens dit artikel heeft uitsluitend betrekking op schade als gevolg van incidenten die zich tijdens het vervoer hebben voorgedaan. De bewijslast dat het incident dat de schade heeft veroorzaakt zich tijdens het vervoer heeft voorgedaan, en omtrent de omvang van de schade berust bij de eiser.
 
-7. Niets in dit Verdrag doet afbreuk aan een recht van verhaal dat de vervoerder tegen een derde zou kunnen hebben, of aan een verweer gebaseerd op de nalatigheid van een medeverantwoordelijke passagier op grond van artikel 6 van dit Verdrag. Niets in dit artikel doet afbreuk aan een uit de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) van dit Verdrag voortvloeiend recht op het stellen van grenzen aan de aansprakelijkheid.
+7. Niets in dit Verdrag doet afbreuk aan een recht van verhaal dat de vervoerder tegen een derde zou kunnen hebben, of aan een verweer gebaseerd op de nalatigheid van een medeverantwoordelijke passagier op grond van artikel 6 van dit Verdrag. Niets in dit artikel doet afbreuk aan een uit de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) of [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) van dit Verdrag voortvloeiend recht op het stellen van grenzen aan de aansprakelijkheid.
 
 8. Enig vermoeden van schuld of nalatigheid van een partij of de toewijzing van de bewijslast aan een partij heeft niet tot gevolg dat bewijzen ten gunste van die partij niet in overweging worden genomen.
 
@@ -194,7 +194,7 @@ Indien en voor zover de schade bovengenoemde grens te boven gaat, is de vervoerd
 
 ##### Artikel 5. Waardevolle voorwerpen
 
-De vervoerder is niet aansprakelijk voor verlies of beschadiging van geld, verhandelbare effecten, goud, zilverwerk, juwelen, bijouterieën, kunstvoorwerpen of andere waardevolle voorwerpen, tenzij dergelijke waardevolle voorwerpen volgens afspraak bij de vervoerder in veilige bewaring zijn gegeven in welk geval de aansprakelijkheid van de vervoerder beperkt is tot het bedrag voorzien in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01), tenzij een hogere aansprakelijkheidsgrens wordt overeengekomen in overeenstemming met [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2002-11-01&g=2002-11-01).
+De vervoerder is niet aansprakelijk voor verlies of beschadiging van geld, verhandelbare effecten, goud, zilverwerk, juwelen, bijouterieën, kunstvoorwerpen of andere waardevolle voorwerpen, tenzij dergelijke waardevolle voorwerpen volgens afspraak bij de vervoerder in veilige bewaring zijn gegeven in welk geval de aansprakelijkheid van de vervoerder beperkt is tot het bedrag voorzien in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23), tenzij een hogere aansprakelijkheidsgrens wordt overeengekomen in overeenstemming met [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2014-04-23&g=2014-04-23).
 
 ##### Artikel 6. Medeschuld
 
@@ -202,7 +202,7 @@ Indien de vervoerder bewijst dat het overlijden of persoonlijk letsel van een pa
 
 ##### Artikel 7. Aansprakelijkheidsgrens bij overlijden en persoonlijk letsel
 
-1. De aansprakelijkheid van de vervoerder voor het overlijden of het persoonlijk letsel van een passagier ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01) is in geen geval hoger dan een bedrag van 400.000 rekeneenheden per passagier, per afzonderlijk geval. Indien de schadevergoeding volgens het recht van de rechter bij wie de zaak aanhangig is gemaakt wordt verleend in de vorm van periodieke betalingen, mag de kapitaalwaarde van deze betalingen deze limiet niet overschrijden.
+1. De aansprakelijkheid van de vervoerder voor het overlijden of het persoonlijk letsel van een passagier ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23) is in geen geval hoger dan een bedrag van 400.000 rekeneenheden per passagier, per afzonderlijk geval. Indien de schadevergoeding volgens het recht van de rechter bij wie de zaak aanhangig is gemaakt wordt verleend in de vorm van periodieke betalingen, mag de kapitaalwaarde van deze betalingen deze limiet niet overschrijden.
 
 2. Een staat die partij is kan de in het eerste lid voorgeschreven aansprakelijkheidsgrens regelen bij specifieke bepalingen van nationaal recht, mits de nationale aansprakelijkheidsgrens, voor zover aanwezig, niet lager is dan die welke in het eerste lid wordt voorgeschreven. Een staat die partij is die gebruik maakt van de in dit lid voorziene mogelijkheid, stelt de Secretaris-Generaal in kennis van de vastgestelde aansprakelijkheidsgrens, dan wel van het feit dat deze ontbreekt.
 
@@ -218,17 +218,17 @@ Indien de vervoerder bewijst dat het overlijden of persoonlijk letsel van een pa
 
 ##### Artikel 9. Rekeneenheid en omrekening
 
-1. De rekeneenheid bedoeld in dit Verdrag is het Bijzondere Trekkingsrecht zoals dit is omschreven door het Internationale Monetaire Fonds. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2002-11-01&g=2002-11-01), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) genoemde bedragen worden omgerekend in de nationale munteenheid van de staat van de rechter bij wie de zaak aanhangig is gemaakt, overeenkomstig de waarde van de desbetreffende munteenheid ten opzichte van het Bijzondere Trekkingsrecht op de datum van de uitspraak of op de door de partijen overeengekomen datum. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die staat die partij is vastgestelde wijze.
+1. De rekeneenheid bedoeld in dit Verdrag is het Bijzondere Trekkingsrecht zoals dit is omschreven door het Internationale Monetaire Fonds. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) genoemde bedragen worden omgerekend in de nationale munteenheid van de staat van de rechter bij wie de zaak aanhangig is gemaakt, overeenkomstig de waarde van de desbetreffende munteenheid ten opzichte van het Bijzondere Trekkingsrecht op de datum van de uitspraak of op de door de partijen overeengekomen datum. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die staat die partij is vastgestelde wijze.
 
 2. Niettemin kan een staat die geen lid is van het Internationale Monetaire Fonds en wiens wet de toepassing van de bepalingen van het eerste lid niet toelaat, op het tijdstip van bekrachtiging, aanvaarding goedkeuring van dan wel toetreding tot dit Verdrag of op enig tijdstip daarna, verklaren dat de in het eerste lid bedoelde rekeneenheid gelijk zal zijn aan 15 goudfranken. De in dit lid bedoelde goudfrank komt overeen met vijfenzestig en een halve milligram goud van een gehalte van negenhonderdduizendste fijn. De omrekening van de goudfrank in de nationale munteenheid geschiedt volgens de wet van de betrokken staat.
 
-3. De in de laatste zin van het eerste lid genoemde berekening en de in het tweede lid genoemde omrekening geschieden op zodanige wijze dat in de nationale munteenheden van de staten die partij zijn zo veel mogelijk dezelfde reële waarde voor de bedragen in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2002-11-01&g=2002-11-01), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) wordt uitgedrukt als zou volgen uit de toepassing van de eerste drie zinnen van het eerste lid. De staten doen de Secretaris-Generaal mededeling van de wijze van berekening overeenkomstig het eerste lid, of van het resultaat van de omrekening in het tweede lid, naargelang van het geval, wanneer zij een akte van bekrachtiging, aanvaarding, goedkeuring van, of van toetreding tot dit Verdrag nederleggen, en telkens wanneer zich in deze berekening of omrekening een wijziging voordoet.
+3. De in de laatste zin van het eerste lid genoemde berekening en de in het tweede lid genoemde omrekening geschieden op zodanige wijze dat in de nationale munteenheden van de staten die partij zijn zo veel mogelijk dezelfde reële waarde voor de bedragen in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) wordt uitgedrukt als zou volgen uit de toepassing van de eerste drie zinnen van het eerste lid. De staten doen de Secretaris-Generaal mededeling van de wijze van berekening overeenkomstig het eerste lid, of van het resultaat van de omrekening in het tweede lid, naargelang van het geval, wanneer zij een akte van bekrachtiging, aanvaarding, goedkeuring van, of van toetreding tot dit Verdrag nederleggen, en telkens wanneer zich in deze berekening of omrekening een wijziging voordoet.
 
 ##### Artikel 10. Aanvullende bepalingen inzake aansprakelijkheidsgrenzen
 
-1. De vervoerder en de passagier kunnen uitdrukkelijk en schriftelijk hogere aansprakelijkheidsgrenzen overeenkomen dan de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) bepaalde.
+1. De vervoerder en de passagier kunnen uitdrukkelijk en schriftelijk hogere aansprakelijkheidsgrenzen overeenkomen dan de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde.
 
-2. Rente en proceskosten zijn niet begrepen in de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) bepaalde aansprakelijkheidsgrenzen.
+2. Rente en proceskosten zijn niet begrepen in de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen.
 
 ##### Artikel 11. Verweermiddelen en grenzen waarop hulppersonen van de vervoerder zich kunnen beroepen
 
@@ -236,15 +236,15 @@ Indien een rechtsvordering tegen een hulppersoon van de vervoerder of van de fei
 
 ##### Artikel 12. Samentelling van vorderingen
 
-1. Wanneer de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) vastgestelde aansprakelijkheidsgrenzen van toepassing zijn, zijn zij van toepassing op de totale som van de schadevergoeding die kan worden verkregen in het kader van alle vorderingen die worden ingesteld in geval van dood of persoonlijk letsel van een passagier of verlies of beschadiging van zijn bagage.
+1. Wanneer de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) vastgestelde aansprakelijkheidsgrenzen van toepassing zijn, zijn zij van toepassing op de totale som van de schadevergoeding die kan worden verkregen in het kader van alle vorderingen die worden ingesteld in geval van dood of persoonlijk letsel van een passagier of verlies of beschadiging van zijn bagage.
 
 2. Voor het vervoer verricht door een feitelijke vervoerder kan de totale som van de schadevergoeding die kan worden gevorderd van de vervoerder en van de feitelijke vervoerder, alsmede van hun hulppersonen die handelen in de uitoefening van hun werkzaamheden, niet hoger zijn dan de hoogste vergoeding die de vervoerder of de feitelijke vervoerder krachtens dit Verdrag kan worden opgelegd, met dien verstande dat geen van de vermelde personen aansprakelijk kan worden gesteld voor een hoger bedrag dan de grens die voor hem van toepassing is.
 
-3. In elk geval waarin een hulppersoon van de vervoerder of van de feitelijke vervoerder zich krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=11&z=2002-11-01&g=2002-11-01) van dit Verdrag kan beroepen op de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) bepaalde aansprakelijkheidsgrenzen, mag de totale som van de schadevergoeding die kan worden verkregen van de vervoerder of, in voorkomende gevallen, van de feitelijke vervoerder en van deze hulppersoon, die grenzen niet overschrijden.
+3. In elk geval waarin een hulppersoon van de vervoerder of van de feitelijke vervoerder zich krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=11&z=2014-04-23&g=2014-04-23) van dit Verdrag kan beroepen op de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen, mag de totale som van de schadevergoeding die kan worden verkregen van de vervoerder of, in voorkomende gevallen, van de feitelijke vervoerder en van deze hulppersoon, die grenzen niet overschrijden.
 
 ##### Artikel 13. Verlies van het recht tot beperking van aansprakelijkheid
 
-1. Het voordeel van de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) en in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2002-11-01&g=2002-11-01) bepaalde aansprakelijkheidsgrenzen vervalt voor de vervoerder indien is bewezen dat de schade voortvloeit uit een handelen of nalaten van de vervoerder, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en in de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
+1. Het voordeel van de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) en in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen vervalt voor de vervoerder indien is bewezen dat de schade voortvloeit uit een handelen of nalaten van de vervoerder, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en in de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
 2. Het voordeel van de aansprakelijkheidsgrenzen vervalt voor de hulppersoon van de vervoerder of feitelijke vervoerder indien is bewezen dat de schade voortvloeit uit een handelen of nalaten van deze hulppersoon, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en in de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
@@ -290,7 +290,7 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 ##### Artikel 17. Bevoegde rechter
 
-1. Een vordering ingesteld overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4&z=2002-11-01&g=2002-11-01) van dit Verdrag wordt naar keuze van de eiser aanhangig gemaakt bij een van de hieronder genoemde rechters, op voorwaarde dat deze zitting houdt in een staat die partij is bij dit Verdrag, en overeenkomstig het nationaal recht van elke staat die partij is ten aanzien van de aanwijzing van een bevoegde rechter binnen die staten waar een keuze uit meerdere rechters mogelijk is:
+1. Een vordering ingesteld overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4&z=2014-04-23&g=2014-04-23) van dit Verdrag wordt naar keuze van de eiser aanhangig gemaakt bij een van de hieronder genoemde rechters, op voorwaarde dat deze zitting houdt in een staat die partij is bij dit Verdrag, en overeenkomstig het nationaal recht van elke staat die partij is ten aanzien van de aanwijzing van een bevoegde rechter binnen die staten waar een keuze uit meerdere rechters mogelijk is:
 
 - a. de rechter van de staat waar de verweerder zijn gewone verblijfplaats of hoofdkantoor heeft, of
 
@@ -300,13 +300,13 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 - d. de rechter van de staat waar de vervoersovereenkomst is gesloten, indien de verweerder aldaar een bedrijfsinrichting heeft en aan de rechtsmacht van die staat onderworpen is.
 
-2. Een vordering ingesteld overeenkomstig [artikel 4**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2002-11-01&g=2002-11-01) van dit Verdrag wordt, naar keuze van de eiser, aanhangig gemaakt bij een van de rechters bij wie overeenkomstig het eerste lid vorderingen kunnen worden ingesteld tegen de vervoerder of feitelijke vervoerder.
+2. Een vordering ingesteld overeenkomstig [artikel 4**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23) van dit Verdrag wordt, naar keuze van de eiser, aanhangig gemaakt bij een van de rechters bij wie overeenkomstig het eerste lid vorderingen kunnen worden ingesteld tegen de vervoerder of feitelijke vervoerder.
 
 3. Na het plaatsvinden van het incident dat de schade heeft veroorzaakt, kunnen de partijen overeenkomen of de eis tot schadevergoeding aan een rechter of voor arbitrage moet worden voorgelegd.
 
 ##### Artikel 17bis. Erkenning en tenuitvoerlegging
 
-1. Uitspraken van een uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2002-11-01&g=2002-11-01) bevoegde rechter die voor tenuitvoerlegging vatbaar zijn in de staat waarin zij zijn gewezen en waartegen geen gewoon rechtsmiddel meer openstaat, worden erkend in elke andere staat die partij is, tenzij
+1. Uitspraken van een uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2014-04-23&g=2014-04-23) bevoegde rechter die voor tenuitvoerlegging vatbaar zijn in de staat waarin zij zijn gewezen en waartegen geen gewoon rechtsmiddel meer openstaat, worden erkend in elke andere staat die partij is, tenzij
 
 - a. de uitspraak is verkregen door bedrog; of
 
@@ -318,7 +318,7 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 ##### Artikel 18. Ongeldigheid van contractuele bedingen
 
-Elk contractueel beding dat is overeengekomen vóór het plaatsvinden van het incident dat het overlijden of persoonlijk letsel van een passagier of het verlies of de beschadiging van zijn bagage heeft veroorzaakt en dat een uit hoofde van dit Verdrag aansprakelijke persoon jegens de passagier van zijn aansprakelijkheid ontheft of voorziet in een lagere aansprakelijkheidsgrens dan is bepaald in dit Verdrag, met uitzondering van het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01), of de bewijslast die op de vervoerder of feitelijke vervoerder rust, omkeert, dan wel tot gevolg heeft dat de in [artikel 17, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2002-11-01&g=2002-11-01), omschreven keuze wordt beperkt, is nietig, maar de nietigheid van dit beding heeft niet de nietigheid tot gevolg van de vervoersovereenkomst, die onderworpen blijft aan de bepalingen van dit Verdrag.
+Elk contractueel beding dat is overeengekomen vóór het plaatsvinden van het incident dat het overlijden of persoonlijk letsel van een passagier of het verlies of de beschadiging van zijn bagage heeft veroorzaakt en dat een uit hoofde van dit Verdrag aansprakelijke persoon jegens de passagier van zijn aansprakelijkheid ontheft of voorziet in een lagere aansprakelijkheidsgrens dan is bepaald in dit Verdrag, met uitzondering van het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23), of de bewijslast die op de vervoerder of feitelijke vervoerder rust, omkeert, dan wel tot gevolg heeft dat de in [artikel 17, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2014-04-23&g=2014-04-23), omschreven keuze wordt beperkt, is nietig, maar de nietigheid van dit beding heeft niet de nietigheid tot gevolg van de vervoersovereenkomst, die onderworpen blijft aan de bepalingen van dit Verdrag.
 
 ##### Artikel 19. Andere verdragen inzake de beperking van aansprakelijkheid
 
@@ -334,7 +334,7 @@ Er ontstaat ingevolge dit Verdrag geen aansprakelijkheid voor schade voorvloeien
 
 ##### Artikel 21. Commercieel vervoer door overheidsdiensten
 
-Dit Verdrag is van toepassing op commercieel vervoer verricht door staten of door overheidsdiensten uit hoofde van vervoersovereenkomsten in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=1&z=2002-11-01&g=2002-11-01).
+Dit Verdrag is van toepassing op commercieel vervoer verricht door staten of door overheidsdiensten uit hoofde van vervoersovereenkomsten in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=1&z=2014-04-23&g=2014-04-23).
 
 ##### Artikel 22. Verklaring van niet-toepassing
 
@@ -394,9 +394,9 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 2. Indien een organisatie voor regionale economische integratie haar stemrecht uitoefent in aangelegenheden ten aanzien waarvan zij bevoegd is, krijgt zij een aantal stemmen dat gelijk is aan het aantal van haar lidstaten die partij zijn bij dit Protocol en die bevoegdheid ten aanzien van de aangelegenheid in kwestie aan haar hebben overgedragen. Een organisatie voor regionale economische integratie oefent haar stemrecht niet uit indien haar lidstaten hun stemrecht uitoefenen en vice versa.
 
-3. Indien het aantal staten die partij zijn relevant is in dit Protocol, met inbegrip van maar niet beperkt tot de artikelen 20 en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2002-11-01&g=2002-11-01) van dit Protocol, telt de organisatie voor regionale economische integratie niet als een staat die partij is naast haar lidstaten die partij zijn.
+3. Indien het aantal staten die partij zijn relevant is in dit Protocol, met inbegrip van maar niet beperkt tot de artikelen 20 en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23) van dit Protocol, telt de organisatie voor regionale economische integratie niet als een staat die partij is naast haar lidstaten die partij zijn.
 
-4. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding legt de organisatie voor regionale economische integratie een verklaring af aan de Secretaris-Generaal ter aanduiding van de bij dit Protocol geregelde aangelegenheden ten aanzien waarvan bevoegdheden door haar lidstaten die ondertekenaar van of partij zijn bij dit Protocol zijn overgedragen aan die organisatie en van andere relevante beperkingen ten aanzien van de reikwijdte van die bevoegdheden. De organisatie voor regionale economische integratie stelt de Secretaris-Generaal onverwijld in kennis van veranderingen in de verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden, als aangeduid in de in dit lid bedoelde verklaring. Dergelijke verklaringen worden, krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=24&z=2002-11-01&g=2002-11-01) van dit Protocol, door de Secretaris-Generaal ter beschikking gesteld.
+4. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding legt de organisatie voor regionale economische integratie een verklaring af aan de Secretaris-Generaal ter aanduiding van de bij dit Protocol geregelde aangelegenheden ten aanzien waarvan bevoegdheden door haar lidstaten die ondertekenaar van of partij zijn bij dit Protocol zijn overgedragen aan die organisatie en van andere relevante beperkingen ten aanzien van de reikwijdte van die bevoegdheden. De organisatie voor regionale economische integratie stelt de Secretaris-Generaal onverwijld in kennis van veranderingen in de verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden, als aangeduid in de in dit lid bedoelde verklaring. Dergelijke verklaringen worden, krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=24&z=2014-04-23&g=2014-04-23) van dit Protocol, door de Secretaris-Generaal ter beschikking gesteld.
 
 5. Staten die partij zijn en die lidstaat zijn van een organisatie voor regionale economische integratie die zelf partij is bij dit Protocol, worden geacht bevoegd te zijn ten aanzien van alle bij dit Protocol geregelde aangelegenheden ten aanzien waarvan de overdracht van bevoegdheden aan de organisatie niet uitdrukkelijk overeenkomstig het vierde lid zijn aangeduid of medegedeeld.
 
@@ -414,7 +414,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 3. Een opzegging wordt van kracht twaalf maanden na nederlegging van de akte van opzegging bij de Secretaris-Generaal of na een langere termijn wanneer zulks in die akte is bepaald.
 
-4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=25&z=2002-11-01&g=2002-11-01) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
+4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=25&z=2014-04-23&g=2014-04-23) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
 
 ##### Artikel 22. Herziening en wijziging
 
@@ -424,9 +424,9 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 ##### Artikel 23. Wijziging van de aansprakelijkheidsgrenzen
 
-1. Onverminderd het bepaalde in artikel 22 is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2002-11-01&g=2002-11-01), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) van het Verdrag zoals herzien bij dit Protocol.
+1. Onverminderd het bepaalde in artikel 22 is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) van het Verdrag zoals herzien bij dit Protocol.
 
-2. Op verzoek van ten minste de helft, maar in geen geval minder dan zes van de staten die partij zijn bij dit Protocol wordt een voorstel tot wijziging van de aansprakelijkheidsgrenzen, met inbegrip van de aftrekbare bedragen, zoals aangeduid in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2002-11-01&g=2002-11-01), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2002-11-01&g=2002-11-01), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2002-11-01&g=2002-11-01), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2002-11-01&g=2002-11-01) van het Verdrag zoals herzien bij dit Protocol, door de Secretaris-Generaal onder alle leden van de Organisatie en alle staten die partij zijn verspreid.
+2. Op verzoek van ten minste de helft, maar in geen geval minder dan zes van de staten die partij zijn bij dit Protocol wordt een voorstel tot wijziging van de aansprakelijkheidsgrenzen, met inbegrip van de aftrekbare bedragen, zoals aangeduid in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) van het Verdrag zoals herzien bij dit Protocol, door de Secretaris-Generaal onder alle leden van de Organisatie en alle staten die partij zijn verspreid.
 
 3. Elke ingevolge de bovenstaande procedure voorgestelde en verspreide wijziging wordt ter overweging voorgelegd aan de Juridische Commissie van de Organisatie (hierna te noemen „de Juridische Commissie”) op een datum ten minste zes maanden na de datum van toezending.
 
@@ -452,7 +452,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 ##### Artikel 24. Depositaris
 
-1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2002-11-01&g=2002-11-01) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
+1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
 
 2. De Secretaris-Generaal:
 
@@ -460,15 +460,15 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 - i. iedere nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede de datum ervan;
 
-- ii. iedere verklaring en mededeling overeenkomstig [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=9&z=2002-11-01&g=2002-11-01), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=18&z=2002-11-01&g=2002-11-01), en [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=19&z=2002-11-01&g=2002-11-01), van het Verdrag zoals herzien bij dit Protocol;
+- ii. iedere verklaring en mededeling overeenkomstig [artikel 9, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=9&z=2014-04-23&g=2014-04-23), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=18&z=2014-04-23&g=2014-04-23), en [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=19&z=2014-04-23&g=2014-04-23), van het Verdrag zoals herzien bij dit Protocol;
 
 - iii. de datum van inwerkingtreding van dit Protocol;
 
-- iv. ieder voorstel tot wijziging van de aansprakelijkheidsgrenzen in overeenstemming met [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2002-11-01&g=2002-11-01), tweede lid, van dit Protocol;
+- iv. ieder voorstel tot wijziging van de aansprakelijkheidsgrenzen in overeenstemming met [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23), tweede lid, van dit Protocol;
 
-- v. iedere wijziging die is aangenomen overeenkomstig [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2002-11-01&g=2002-11-01), van dit Protocol;
+- v. iedere wijziging die is aangenomen overeenkomstig [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol;
 
-- vi. iedere wijziging die ingevolge [artikel 23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2002-11-01&g=2002-11-01), van dit Protocol wordt geacht te zijn aanvaard, alsmede de datum waarop die wijziging in werking treedt overeenkomstig het negende en tiende lid van dat artikel;
+- vi. iedere wijziging die ingevolge [artikel 23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol wordt geacht te zijn aanvaard, alsmede de datum waarop die wijziging in werking treedt overeenkomstig het negende en tiende lid van dat artikel;
 
 - vii. de nederlegging van iedere akte van opzegging van dit Protocol, de datum van nederlegging en de datum waarop deze van kracht wordt;
 
