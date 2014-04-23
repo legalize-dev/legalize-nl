@@ -4,7 +4,7 @@ identifier: "BWBV0005350"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-04-23"
-last_updated: "2002-11-01"
+last_updated: "2014-04-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005350"
 soort: "verdrag"
@@ -112,7 +112,7 @@ Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage o
 
 2. Het Verdrag, zoals herzien bij dit Protocol, is enkel van toepassing op vorderingen naar aanleiding van gebeurtenissen die plaatsvinden nadat dit Protocol voor iedere staat in werking is getreden.
 
-3. De artikelen 1 tot en met 22 van het Verdrag zoals herzien bij dit Protocol, tezamen met de [artikelen 17 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=17&z=2002-11-01&g=2002-11-01) van dit Protocol en de Bijlage daarbij vormen tezamen het [Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002](https://wetten.overheid.nl/jci1.3:c:BWBV0005349), en worden als zodanig aangeduid.
+3. De artikelen 1 tot en met 22 van het Verdrag zoals herzien bij dit Protocol, tezamen met de [artikelen 17 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=17&z=2014-04-23&g=2014-04-23) van dit Protocol en de Bijlage daarbij vormen tezamen het [Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002](https://wetten.overheid.nl/jci1.3:c:BWBV0005349), en worden als zodanig aangeduid.
 
 ##### Artikel 16
 
@@ -144,7 +144,7 @@ Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage o
 
 - c. het Protocol van 1990 tot wijziging van het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, gedaan te Londen op 29 maart 1990,
 
-met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2002-11-01&g=2002-11-01).
+met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2014-04-23&g=2014-04-23).
 
 ##### Artikel 18. Staten met meer dan een rechtsstelsel
 
@@ -166,9 +166,9 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 2. Indien een organisatie voor regionale economische integratie haar stemrecht uitoefent in aangelegenheden ten aanzien waarvan zij bevoegd is, krijgt zij een aantal stemmen dat gelijk is aan het aantal van haar lidstaten die partij zijn bij dit Protocol en die bevoegdheid ten aanzien van de aangelegenheid in kwestie aan haar hebben overgedragen. Een organisatie voor regionale economische integratie oefent haar stemrecht niet uit indien haar lidstaten hun stemrecht uitoefenen en vice versa.
 
-3. Indien het aantal staten die partij zijn relevant is in dit Protocol, met inbegrip van maar niet beperkt tot de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2002-11-01&g=2002-11-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2002-11-01&g=2002-11-01) van dit Protocol, telt de organisatie voor regionale economische integratie niet als een staat die partij is naast haar lidstaten die partij zijn.
+3. Indien het aantal staten die partij zijn relevant is in dit Protocol, met inbegrip van maar niet beperkt tot de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2014-04-23&g=2014-04-23) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23) van dit Protocol, telt de organisatie voor regionale economische integratie niet als een staat die partij is naast haar lidstaten die partij zijn.
 
-4. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding legt de organisatie voor regionale economische integratie een verklaring af aan de Secretaris-Generaal ter aanduiding van de bij dit Protocol geregelde aangelegenheden ten aanzien waarvan bevoegdheden door haar lidstaten die ondertekenaar van of partij zijn bij dit Protocol zijn overgedragen aan die organisatie en van andere relevante beperkingen ten aanzien van de reikwijdte van die bevoegdheden. De organisatie voor regionale economische integratie stelt de Secretaris-Generaal onverwijld in kennis van veranderingen in de verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden, als aangeduid in de in dit lid bedoelde verklaring. Dergelijke verklaringen worden, krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=24&z=2002-11-01&g=2002-11-01) van dit Protocol, door de Secretaris-Generaal ter beschikking gesteld.
+4. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding legt de organisatie voor regionale economische integratie een verklaring af aan de Secretaris-Generaal ter aanduiding van de bij dit Protocol geregelde aangelegenheden ten aanzien waarvan bevoegdheden door haar lidstaten die ondertekenaar van of partij zijn bij dit Protocol zijn overgedragen aan die organisatie en van andere relevante beperkingen ten aanzien van de reikwijdte van die bevoegdheden. De organisatie voor regionale economische integratie stelt de Secretaris-Generaal onverwijld in kennis van veranderingen in de verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden, als aangeduid in de in dit lid bedoelde verklaring. Dergelijke verklaringen worden, krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=24&z=2014-04-23&g=2014-04-23) van dit Protocol, door de Secretaris-Generaal ter beschikking gesteld.
 
 5. Staten die partij zijn en die lidstaat zijn van een organisatie voor regionale economische integratie die zelf partij is bij dit Protocol, worden geacht bevoegd te zijn ten aanzien van alle bij dit Protocol geregelde aangelegenheden ten aanzien waarvan de overdracht van bevoegdheden aan de organisatie niet uitdrukkelijk overeenkomstig het vierde lid zijn aangeduid of medegedeeld.
 
@@ -186,7 +186,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 3. Een opzegging wordt van kracht twaalf maanden na nederlegging van de akte van opzegging bij de Secretaris-Generaal of na een langere termijn wanneer zulks in die akte is bepaald.
 
-4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=25&z=2002-11-01&g=2002-11-01) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
+4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=25&z=2014-04-23&g=2014-04-23) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
 
 ##### Artikel 22. Herziening en wijziging
 
@@ -196,7 +196,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 ##### Artikel 23. Wijziging van de aansprakelijkheidsgrenzen
 
-1. Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=22&z=2002-11-01&g=2002-11-01) is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in artikel 3, eerste lid, artikel 4**bis**, eerste lid, artikel 7, eerste lid en artikel 8 van het Verdrag zoals herzien bij dit Protocol.
+1. Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=22&z=2014-04-23&g=2014-04-23) is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in artikel 3, eerste lid, artikel 4**bis**, eerste lid, artikel 7, eerste lid en artikel 8 van het Verdrag zoals herzien bij dit Protocol.
 
 2. Op verzoek van ten minste de helft, maar in geen geval minder dan zes van de staten die partij zijn bij dit Protocol wordt een voorstel tot wijziging van de aansprakelijkheidsgrenzen, met inbegrip van de aftrekbare bedragen, zoals aangeduid in artikel 3, eerste lid, artikel 4**bis**, eerste lid, artikel 7, eerste lid, en artikel 8 van het Verdrag zoals herzien bij dit Protocol, door de Secretaris-Generaal onder alle leden van de Organisatie en alle staten die partij zijn verspreid.
 
@@ -218,13 +218,13 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 9. Een wijziging die geacht wordt te zijn aanvaard overeenkomstig het achtste lid, treedt in werking achttien maanden na aanvaarding ervan.
 
-10. Alle staten die partij zijn worden gebonden door de wijziging, tenzij zij ten minste zes maanden voordat de wijziging in werking treedt dit Protocol opzeggen overeenkomstig [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=21&z=2002-11-01&g=2002-11-01). Een dergelijke opzegging wordt van kracht wanneer de wijziging in werking treedt.
+10. Alle staten die partij zijn worden gebonden door de wijziging, tenzij zij ten minste zes maanden voordat de wijziging in werking treedt dit Protocol opzeggen overeenkomstig [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=21&z=2014-04-23&g=2014-04-23). Een dergelijke opzegging wordt van kracht wanneer de wijziging in werking treedt.
 
 11. Wanneer een wijziging is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een staat die gedurende dat tijdvak partij wordt, door de wijziging gebonden indien deze in werking treedt. Een staat die na dat tijdvak Partij wordt, is gebonden door een wijziging die overeenkomstig het achtste lid is aanvaard. In de gevallen bedoeld in dit lid wordt een staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die staat in werking treedt, indien deze datum later valt.
 
 ##### Artikel 24. Depositaris
 
-1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2002-11-01&g=2002-11-01) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
+1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
 
 2. De Secretaris-Generaal:
 
@@ -236,11 +236,11 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 - iii. de datum van inwerkingtreding van dit Protocol;
 
-- iv. ieder voorstel tot wijziging van de aansprakelijkheidsgrenzen in overeenstemming met [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2002-11-01&g=2002-11-01), van dit Protocol;
+- iv. ieder voorstel tot wijziging van de aansprakelijkheidsgrenzen in overeenstemming met [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol;
 
-- v. iedere wijziging die is aangenomen overeenkomstig [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2002-11-01&g=2002-11-01), van dit Protocol;
+- v. iedere wijziging die is aangenomen overeenkomstig [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol;
 
-- vi. iedere wijziging die ingevolge [artikel 23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2002-11-01&g=2002-11-01), van dit Protocol wordt geacht te zijn aanvaard, alsmede de datum waarop die wijziging in werking treedt overeenkomstig het negende en tiende lid van dat artikel;
+- vi. iedere wijziging die ingevolge [artikel 23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol wordt geacht te zijn aanvaard, alsmede de datum waarop die wijziging in werking treedt overeenkomstig het negende en tiende lid van dat artikel;
 
 - vii. de nederlegging van iedere akte van opzegging van dit Protocol, de datum van nederlegging en de datum waarop deze van kracht wordt;
 
