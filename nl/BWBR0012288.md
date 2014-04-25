@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2014-04-01"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2061,7 +2061,7 @@ De IND heeft met betrekking tot Irak geen risicogroepen aangewezen.
 
 In Irak is geen gebied waar sprake is van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-De IND neemt ten aanzien van de volgende categorieën vreemdelingen “personal and knowing participation” in de zin van paragraaf C2/6.2.8 Vc aan:
+De IND neemt in ieder geval ten aanzien van de volgende categorieën vreemdelingen “personal and knowing participation” in de zin van paragraaf C2/6.2.8 Vc aan:
 
 ### 13.3. Vervolging in de zin van het Vluchtelingenverdrag
 
@@ -2071,9 +2071,9 @@ Indien vreemdelingen stellen te vrezen voor bloedwraak of vergelijkbare inter-tr
 
 De IND verleent aan Iraakse LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), tenzij de omstandigheden genoemd in de paragrafen C2/5 Vc en C2/6 Vc zich voordoen.
 
-Voor Irak geldt in ieder geval dat:
+De IND heeft met betrekking tot Irak geen risicogroepen aangewezen.
 
-### 13.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+### 13.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
@@ -2083,39 +2083,39 @@ In Irak is geen gebied waar sprake is van een uitzonderlijke situatie als bedoel
 
 ### 13.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 13.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+De IND beschouwt uitsluitend de volgende groepen als kwetsbare minderheidsgroep:
 
 ### 14.1. Besluitmoratorium
 
-De IND betrekt bij de beoordeling of een in Nederland tot het christendom bekeerde vreemdeling bij terugkeer een risico loopt op schending van 3 EVRM, ook problemen die de vreemdeling in Irak heeft ondervonden om andere redenen dan de christelijke geloofsovertuiging, maar die op zichzelf onvoldoende redenen vormen om een verblijfsvergunning asiel voor bepaalde tijd te verlenen.
+De IND beschouwt de gezinsband in elk geval als verbroken, indien:
 
 ### 13.5. Bescherming
 
 ### 13.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+De IND acht het in beginsel niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties in Centraal-en Zuid-Irak. De IND acht het wel mogelijk voor vreemdelingen afkomstig uit de Koerdische Autonome Regio om bescherming te verkrijgen van de autoriteiten of internationale organisaties.
 
-### 14. Het asielbeleid ten aanzien van Iran
+### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-De IND beschouwt Iran niet als land waarin sprake is van groepsvervolging.
+De IND beoordeelt bij elke vreemdeling individueel, met inachtneming van de voorwaarden die volgen uit [artikel 3.37 d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) of een vlucht- of vestigingsalternatief binnen Irak kan worden tegengeworpen.
 
-### 14.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND heeft met betrekking tot Iran geen risicogroepen aangewezen.
+Aan de hand van [paragraaf B8/6 Vc](328899) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Voor Irak geldt in ieder geval dat:
 
 Voor Irak geldt in ieder geval dat:
 
 ### 13.7. Vertrekmoratorium
 
-### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 13.8. Bijzonderheden
 
-In Iran is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+De IND beschouwt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens het regime van Saddam Hoessein, niet als staatloos. De IND neemt aan dat zij de Iraakse nationaliteit hebben.
 
-### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 14. Het asielbeleid ten aanzien van Iran
 
 In Iran is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
@@ -2125,7 +2125,7 @@ Ten aanzien van Iran geldt geen besluit in de zin van [artikel 43, aanhef en ond
 
 ### 14.2. Artikel 1F Vluchtelingenverdrag
 
-### 14.3.4. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (LHBT’s)
+### 14.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Iraanse LHBT’s komen in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd asiel op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), tenzij uit het individuele asielrelaas blijkt dat de vreemdeling niet zal worden blootgesteld aan vervolging.
 
@@ -2137,37 +2137,37 @@ De IND beschouwt Iran niet als land waarin sprake is van groepsvervolging.
 
 De IND heeft met betrekking tot Iran geen risicogroepen aangewezen.
 
-In Iran is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+De IND beoordeelt welke handelingen voor de vreemdeling persoonlijk een bijzonder belangrijk onderdeel vormen van zijn geloofsbeleving en waarvan dientengevolge in redelijkheid kan worden aangenomen dat hij die bij terugkeer in Iran zal verrichten. Daarbij zal betrokken worden zijn persoonlijke situatie, de wijze waarop hij in het verleden in Iran uiting heeft gegeven aan zijn religie, hoe hij hieraan in de toekomst in Iran uiting wil geven en hoe hij dit heeft gedaan nadat hij Iran heeft verlaten. De IND zal vervolgens mede aan de hand van de informatie uit het ambtsbericht en hetgeen de vreemdeling in Iran eventueel reeds aan problemen heeft ondervonden als gevolg van zijn geloofsovertuiging, toetsen of hij bij het verrichten van die specifieke handelingen een gegronde reden heeft om te vrezen voor vervolging.
 
 ### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Christenen, bahai’s en soefi’s worden aangemerkt als groep van bijzondere aandacht. Dit betekent dat de IND in het geval van christenen, bahai’s en soefi’s minder eisen stelt aan de aannemelijkheid van het individuele asielrelaas. Dit wil zeggen dat de asielzoeker het gestelde causale verband tussen de ondervonden problemen en zijn geloofsovertuiging met geringe indicaties aannemelijk kan maken. Dit betekent ook dat wanneer de individuele problemen aannemelijk zijn gemaakt, snel zal worden geconcludeerd dat deze problemen ook voldoende zwaarwegend zijn om, behoudens contra-indicaties, in aanmerking te komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+Belangrijk bij de beoordeling is dat uit het algemeen ambtsbericht blijkt dat in het bijzonder personen die zich hebben bekeerd tot het christendom en openlijk hun geloof (willen) belijden, bijvoorbeeld door het bijwonen van kerkdiensten, als ook personen die (willen) evangeliseren een aanzienlijk risico lopen op vervolging. Asielzoekers die aannemelijk maken dat hun persoonlijke godsdienstuitoefening ingevolge het vorenstaande zal leiden tot vervolging kunnen op die grond in aanmerking kunnen voor een verblijfsvergunning asiel, behoudens contra-indicaties, op grond van [artikel 29, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) (zie ook C2/3.2 Vc).
 
-### 14.5. Bescherming
+### 14.3.4. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (LHBT’s)
 
-Ten aanzien van Iran geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
-
-### 14.8. Bijzonderheden
+Iraanse LHBT’s komen in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd asiel op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), tenzij uit het individuele asielrelaas blijkt dat de vreemdeling niet zal worden blootgesteld aan vervolging.
 
 ### 14.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Geen bijzonderheden.
+### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 14.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+In Iran is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 14.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 15.2. Artikel 1F Vluchtelingenverdrag
+In Iran is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+
+### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 14.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Iran geen kwetsbare minderheidsgroepen aangewezen.
 
-### 14.5. Bescherming
+### 14.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 Geen bijzonderheden.
 
-### 15. Het asielbeleid ten aanzien van Ivoorkust
+### 14.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 14.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
@@ -2175,57 +2175,57 @@ Geen bijzonderheden.
 
 ### 14.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Daarbij geldt voor Iran in ieder geval dat:
 
-### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 14.7. Vertrekmoratorium
 
-In Ivoorkust is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Iran geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 14.8. Bijzonderheden
 
 ### 14.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 15. Het asielbeleid ten aanzien van Ivoorkust
+### 15.1. Besluitmoratorium
 
-De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+Ten aanzien van Ivoorkust geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-### 15.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
-Geen bijzonderheden.
+### 15.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
+Geen bijzonderheden.
 
-De IND heeft met betrekking tot Ivoorkust geen kwetsbare minderheidsgroepen aangewezen.
+### 15.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 15.5. Bescherming
+De IND beschouwt Ivoorkust niet als land waarin sprake is van groepsvervolging.
 
-Ten aanzien van Ivoorkust geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+### 15.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 15.8. Bijzonderheden
+De IND heeft met betrekking tot Ivoorkust geen risicogroepen aangewezen.
 
 ### 15.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Geen bijzonderheden.
+### 15.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 15.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+In Ivoorkust is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 15.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 16.2. Artikel 1F Vluchtelingenverdrag
+In Ivoorkust is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+
+### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 15.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Ivoorkust geen kwetsbare minderheidsgroepen aangewezen.
 
-### 15.5. Bescherming
+### 15.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Geen bijzonderheden.
+De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
-### 16. Het asielbeleid ten aanzien van Libië
+### 15.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 15.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
@@ -2233,57 +2233,57 @@ Geen bijzonderheden.
 
 ### 15.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Daarbij geldt voor Ivoorkust in ieder geval dat:
 
-### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 15.7. Vertrekmoratorium
 
-In Libië is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Ivoorkust geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 16.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 15.8. Bijzonderheden
 
 ### 15.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 16. Het asielbeleid ten aanzien van Libië
+### 16.1. Besluitmoratorium
 
-Als de vreemdeling aannemelijk heeft gemaakt dat hij in Libië te vrezen heeft voor vervolging of schending van artikel 3 EVRM, verlangt de IND niet dat hij zich tot de Libische autoriteiten wendt voor bescherming.
+Ten aanzien van Libië geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-### 16.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
-Geen bijzonderheden.
+### 16.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
+Geen bijzonderheden.
 
-De IND beschouwt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroep:
+### 16.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 16.5. Bescherming
+De IND beschouwt Libië niet als land waarin sprake is van groepsvervolging.
 
-Ten aanzien van Libië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+### 16.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 16.8. Bijzonderheden
+De IND heeft met betrekking tot Libië geen risicogroepen aangewezen.
 
 ### 16.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Geen bijzonderheden.
+### 16.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+In Libië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 16.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 17.2. Artikel 1F Vluchtelingenverdrag
+In Libië is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+
+### 16.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 16.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND beschouwt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroep:
 
-### 16.5. Bescherming
+### 16.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-De wijzigingen van omstandigheden in Libië hebben, gelet op de informatie uit het ambtsbericht van de Minister van Buitenlandse Zaken, een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in [artikel 3.37 e Vv](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e). De IND zal daarom een aan Libische vreemdelingen verleende verblijfsvergunning asiel voor bepaalde tijd heroverwegen vanwege de regimewisseling in Libië.
+Als de vreemdeling aannemelijk heeft gemaakt dat hij in Libië te vrezen heeft voor vervolging of schending van artikel 3 EVRM, verlangt de IND niet dat hij zich tot de Libische autoriteiten wendt voor bescherming.
 
-### 17. Het asielbeleid ten aanzien van Mongolië
+### 16.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 16.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
@@ -2291,27 +2291,27 @@ Geen bijzonderheden.
 
 ### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Voor Libië geldt in ieder geval dat:
 
-### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 16.7. Vertrekmoratorium
 
-In Mongolië is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Libië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 17.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 16.8. Bijzonderheden
 
 ### 16.8. Bijzonderheden
 
 De wijzigingen van omstandigheden in Libië hebben, gelet op de informatie uit het ambtsbericht van de Minister van Buitenlandse Zaken, een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in [artikel 3.37 e Vv](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e). De IND zal daarom een aan Libische vreemdelingen verleende verblijfsvergunning asiel voor bepaalde tijd heroverwegen vanwege de regimewisseling in Libië.
 
-### 17. Het asielbeleid ten aanzien van Mongolië
+### 17.1. Besluitmoratorium
+
+Ten aanzien van Mongolië geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+
+### 17.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 17.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
-Geen bijzonderheden.
-
-### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 In Mongolië is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
@@ -2321,7 +2321,7 @@ De IND beschouwt Mongolië niet als land waarin sprake is van groepsvervolging.
 
 ### 17.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 18.1. Besluitmoratorium
+### 17.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 Ten aanzien van Nepal geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
@@ -2331,15 +2331,33 @@ In Mongolië is geen sprake van een uitzonderlijke situatie als bedoeld in artik
 
 ### 17.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
+### 17.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+
+De IND heeft met betrekking tot Mongolië geen kwetsbare minderheidsgroepen aangewezen.
+
+### 17.5. Bescherming
+
+Geen bijzonderheden.
+
+### 17.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+### 17.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+
+Geen bijzonderheden.
+
+### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+In Mongolië is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
+
 ### 17.7. Vertrekmoratorium
 
 Ten aanzien van Mongolië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 ### 17.8. Bijzonderheden
 
-Geen bijzonderheden.
+### 17.8. Bijzonderheden
 
-### 17.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+Geen bijzonderheden.
 
 ### 18.1. Besluitmoratorium
 
@@ -2349,77 +2367,59 @@ Ten aanzien van Nepal geldt geen besluit in de zin van [artikel 43, aanhef en on
 
 Geen bijzonderheden.
 
-### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
+Geen bijzonderheden.
+
+### 18.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+De IND beschouwt Nepal niet als land waarin sprake is van groepsvervolging.
+
+### 18.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+De IND heeft met betrekking tot Nepal geen risicogroepen aangewezen.
+
+### 18.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+
+### 18.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+
+In Nepal is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+### 18.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 In Nepal is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
 ### 18.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 17.8. Bijzonderheden
+### 18.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Geen bijzonderheden.
+De IND heeft met betrekking tot Nepal geen kwetsbare minderheidsgroepen aangewezen.
 
-### 18. Het asielbeleid ten aanzien van Nepal
+### 18.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
 ### 18.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Geen bijzonderheden.
-
-Geen bijzonderheden.
-
-### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-De IND heeft met betrekking tot Nepal geen kwetsbare minderheidsgroepen aangewezen.
-
-### 18.5. Bescherming
-
-Ten aanzien van Nepal geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
-
-### 18.8. Bijzonderheden
-
-### 18.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-Geen bijzonderheden.
-
-### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
-
-### 19.2. Artikel 1F Vluchtelingenverdrag
-
-### 18.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-De IND heeft met betrekking tot Nepal geen kwetsbare minderheidsgroepen aangewezen.
-
-### 18.5. Bescherming
-
-Geen bijzonderheden.
-
-### 19. Het asielbeleid ten aanzien van Nigeria
-
 ### 18.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 Geen bijzonderheden.
 
 ### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Voor Nepal geldt in ieder geval dat:
 
-### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 18.7. Vertrekmoratorium
 
-In Nigeria is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Nepal geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 18.8. Bijzonderheden
 
 ### 18.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 19. Het asielbeleid ten aanzien van Nigeria
+### 19.1. Besluitmoratorium
 
-De IND acht het in ieder geval voor de volgende categorie niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+Ten aanzien van Nigeria geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 Ten aanzien van Nigeria geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
@@ -2437,7 +2437,7 @@ De IND beschouwt Nigeria niet als land waarin sprake is van groepsvervolging.
 
 De IND heeft met betrekking tot Nigeria geen risicogroepen aangewezen.
 
-### 19.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 19.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 19.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
@@ -2449,7 +2449,7 @@ In Nigeria is geen sprake van systematische blootstelling aan een behandeling in
 
 ### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 19.7. Vertrekmoratorium
+### 19.5. Bescherming
 
 Ten aanzien van Nigeria geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
@@ -2465,13 +2465,13 @@ Of vrouwen zich kunnen onttrekken aan besnijdenis door zich elders (buiten de ei
 
 ### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Daarbij geldt voor Nigeria in ieder geval dat:
 
-### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 19.7. Vertrekmoratorium
 
-In Pakistan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Nigeria geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 20.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
+### 19.8. Bijzonderheden
 
 ### 19.8. Bijzonderheden
 
@@ -2497,7 +2497,7 @@ De IND beschouwt Pakistan niet als land waarin sprake is van groepsvervolging.
 
 Ahmadi’s zijn aangewezen als een risicogroep.
 
-### 20.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 20.4.1. Uitzonderlijke situatie in de zin van C2/3.3
 
 ### 20.4.1. Uitzonderlijke situatie in de zin van C2/3.3
 
@@ -2509,15 +2509,15 @@ In Pakistan is geen sprake van systematische blootstelling aan een behandeling i
 
 ### 20.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
 
-### 20.7. Vertrekmoratorium
+### 20.5. Bescherming
 
 Ten aanzien van Pakistan geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 ### 20.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/6
 
-De IND verlangt van ahmadi’s en christenen niet dat zij zich tot de Pakistaanse autoriteiten wenden voor bescherming om vervolging en/of 3 EVRM schending te voorkomen.
+Voor overige personen geldt het algemene beleid in de zin van C2/6 Vc.
 
-### 21. Het asielbeleid ten aanzien van Rusland
+### 20.5.2. Vlucht- en vestigingsalternatief in de zin van C2/6
 
 ### 20.5.2. Vlucht- en vestigingsalternatief in de zin van C2/6
 
@@ -2525,57 +2525,57 @@ Het algemene beleid in de zin van C2/6 is van toepassing.
 
 ### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Voor Pakistan geldt in ieder geval dat:
 
-### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 20.7. Vertrekmoratorium
 
-In Rusland is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Pakistan geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 20.8. Bijzonderheden
 
 ### 20.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 21. Het asielbeleid ten aanzien van Rusland
+### 21.1. Besluitmoratorium
+
+Ten aanzien van Rusland geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+
+### 21.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 21.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+### 21.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
+De IND beschouwt Rusland niet als land waarin sprake is van groepsvervolging.
 
-De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangewezen.
+### 21.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 21.5. Bescherming
-
-Ten aanzien van Rusland geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
-
-### 21.8. Bijzonderheden
+De IND heeft met betrekking tot Rusland geen risicogroepen aangewezen.
 
 ### 21.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Geen bijzonderheden.
+### 21.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+In Rusland is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 21.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 22.2. Artikel 1F Vluchtelingenverdrag
+In Rusland is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+
+### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangewezen.
 
-### 21.5. Bescherming
+### 21.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 Geen bijzonderheden.
 
-### 22. Het asielbeleid ten aanzien van Sierra Leone
+### 21.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 21.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
@@ -2583,97 +2583,97 @@ Geen bijzonderheden.
 
 ### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Daarbij geldt voor Rusland in ieder geval dat:
 
-### 22.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 21.7. Vertrekmoratorium
 
-In Sierra Leone is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+Ten aanzien van Rusland geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 22.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 21.8. Bijzonderheden
 
 ### 21.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 22. Het asielbeleid ten aanzien van Sierra Leone
-
-De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+### 22.1. Besluitmoratorium
 
 Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-In Sierra Leone is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 Geen bijzonderheden.
 
-### 22.3. Vervolging in de zin van het Vluchtelingenverdrag
+Geen bijzonderheden.
 
-De IND heeft met betrekking tot Sierra Leone geen kwetsbare minderheidsgroepen aangewezen.
+### 22.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 22.5. Bescherming
+De IND beschouwt Sierra Leone niet als land waarin sprake is van groepsvervolging.
 
-In Sierra Leone is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
+### 22.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 22.7. Vertrekmoratorium
+De IND heeft met betrekking tot Sierra Leone geen risicogroepen aangewezen.
+
+### 22.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 Het tegenwerpen van een vestigingsalternatief, bij vrees voor besnijdenis, wordt per vreemdeling bezien. Bij een meerderjarige vrouwelijke vreemdeling is hierbij van belang of zij aan de controle van haar familie kan ontkomen en hoe zij zich voor haar vertrek uit Sierra Leone heeft kunnen onttrekken aan de besnijdenis.
 
 ### 22.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 23.1. Besluitmoratorium
+### 22.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-Van een minderjarige vrouwelijke vreemdeling kan niet worden verlangd dat zij zich elders in Sierra Leone vestigt, wanneer zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan besnijdenis heeft kunnen onttrekken.
+In Sierra Leone is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-### 23.1. Besluitmoratorium
+### 22.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
-
-### 23.2. Artikel 1F Vluchtelingenverdrag
+De IND heeft met betrekking tot Sierra Leone geen kwetsbare minderheidsgroepen aangewezen.
 
 ### 22.5. Bescherming
 
-Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+### 22.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-### 22.8. Bijzonderheden
+De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
-Geen bijzonderheden.
+### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+
+In Sierra Leone is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
 
 ### 23. Het asielbeleid ten aanzien van Somalië
 
 ### 23.1. Besluitmoratorium
 
-Van een minderjarige vrouwelijke vreemdeling kan niet worden verlangd dat zij zich elders in Sierra Leone vestigt, wanneer zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan besnijdenis heeft kunnen onttrekken.
+Van een meerderjarige vreemdeling wordt verwacht dat hij zich aan het lidmaatschap van het geheime genootschap onttrekt door zich elders in Sierra Leone te vestigen. Van een minderjarige vreemdeling wordt niet verlangd dat de vreemdeling zich elders in Sierra Leone vestigt, wanneer de vreemdeling hierin niet ondersteund wordt door familie of derden, tenzij de vreemdeling zich eerder aan het lidmaatschap van een geheim genootschap heeft kunnen onttrekken.
 
 Van een meerderjarige vreemdeling wordt verwacht dat hij zich aan het lidmaatschap van het geheime genootschap onttrekt door zich elders in Sierra Leone te vestigen. Van een minderjarige vreemdeling wordt niet verlangd dat de vreemdeling zich elders in Sierra Leone vestigt, wanneer de vreemdeling hierin niet ondersteund wordt door familie of derden, tenzij de vreemdeling zich eerder aan het lidmaatschap van een geheim genootschap heeft kunnen onttrekken.
+
+In Sierra Leone is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
+
+### 22.7. Vertrekmoratorium
+
+Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+
+Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+
+Geen bijzonderheden.
+
+### 23. Het asielbeleid ten aanzien van Somalië
+
+In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+
+### 23.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
 ### 23.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2004/83/EG in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
-
-Ten aanzien van Sierra Leone geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
-
-In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan een behandeling in strijd met artikel 3 EVRM.
-
-### 23.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
-
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2004/83/EG die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
-
-### 23.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
-
-### 23.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
 De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
-
-In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan een behandeling in strijd met artikel 3 EVRM.
 
 De IND beschouwt Somalië niet als land waarin sprake is van groepsvervolging.
 
-De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
+De IND beschouwt Somalië niet als land waarin sprake is van groepsvervolging.
+
+De IND heeft met betrekking tot Somalië geen risicogroepen aangewezen.
 
 De IND heeft met betrekking tot Somalië geen risicogroepen aangewezen.
 
@@ -2683,21 +2683,21 @@ Een alleenstaande vrouw kan in aanmerking komen voor een verblijfsvergunning op 
 
 ### 23.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
 De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
 ### 23.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan een behandeling in strijd met artikel 3 EVRM.
-
 De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van het behoren tot de Benadiri/Reer Hamar. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
+
+De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
 De IND wijst om diezelfde reden niet aanvragen tot verlenging van de verblijfsvergunning asiel voor bepaalde tijd of een verblijfsvergunning asiel voor onbepaalde tijd af van vreemdelingen die op grond het behoren tot de Benadiri/Reer Hamar in het bezit zijn van een verblijfsvergunning asiel voor bepaalde tijd.
 
 ### 23.4.3. Alleenstaande vrouwen
 
-Een alleenstaande vrouw kan in aanmerking komen voor een verblijfsvergunning op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
+De IND beschouwt een vrouw in ieder geval als alleenstaand, indien:
 
 De IND beschouwt een vrouw in ieder geval als alleenstaand, indien:
 
@@ -2707,33 +2707,33 @@ De IND heeft met betrekking tot Somalië geen kwetsbare minderheidsgroepen aange
 
 ### 23.4.5. Individuele kenmerken
 
-De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, indien de vreemdeling voldoet aan alle volgende voorwaarden:
+Deze opsomming is cumulatief.
 
 ### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 23.5. Bescherming
 
-Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab.
+Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestersing waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
 
-### 24.1. Besluitmoratorium
+### 23.4.6. Aandachtsgroepen
 
-De IND acht het voor de volgende categorieën vreemdelingen in ieder geval niet aannemelijk dat het voor de vreemdeling in Somalië (inclusief Noord-Somalië) mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+De hieronder genoemde groepen staan in de negatieve aandacht van Al- Shabaab en zijn aangewezen als aandachtsgroep:
 
 ### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
 ### 23.8. Bijzonderheden
 
-Ook gebieden waarover onvoldoende actuele informatie beschikbaar is, maar een bestendige invloedrijke rol van Al-Shabaab aannemelijk is, moeten hiertoe worden gerekend.
+Bij het beoordelen van het individuele risico in het herkomstgebied en tijdens de reis daar naar toe betrekt de IND in ieder geval:
 
 ### 24. Het asielbeleid ten aanzien van Sri Lanka
 
-Er is sprake van een individuele toets waarbij de asielzoeker aannemelijk moet maken dat hij behoort tot een dergelijke groep én dat hij persoonlijk in die hoedanigheid risico’s loopt van de zijde van Al-Shabaab.
-
-### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+Voor leden van de aandachtsgroepen die terugkeren naar Mogadishu geldt in het licht van de positie van terugkeerders aldaar dat indicaties van geringe aard niet volstaan. De IND beoordeelt op basis van het algemene toetsingkader of de individuele omstandigheden van de vreemdeling tot inwilliging van de aanvraag leiden.
 
 ### 23.5. Bescherming
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 23.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+De IND verlangt van vreemdelingen afkomstig uit Centraal- en Zuid-Somalië niet dat zij zich tot de (lokale) autoriteiten hebben gewend voor bescherming.
 
 ### 24.3. Vervolging in de zin van het Vluchtelingenverdrag
 
@@ -2741,67 +2741,67 @@ De IND acht het voor de volgende categorieën vreemdelingen in ieder geval niet 
 
 ### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-In Somalië is geen sprake van een binnenlands vlucht- en of/vestigingsalternatief, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden tenminste zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
+Van de vreemdeling wordt verwacht dat hij zich in het desbetreffende gebied onder de bescherming van zijn clan kan stellen.
 
 ### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-Uitzonderingen voor wie geen vestigingsalternatief geldt in Somalië (inclusief Noord-Somalië) zijn in ieder geval:
-
 Verder geldt dat – indien is vastgesteld dat de vreemdeling behoort tot een aandachtsgroep zoals genoemd onder paragraaf 23.4.6 en in die hoedanigheid bij terugkeer een reëel risico loopt op een schending zoals bedoeld in artikel 3 EVRM – individueel wordt beoordeeld of er sprake is van een vestigingsalternatief in overige delen van Zuid- en Centraal-Somalië. Op voorhand verwacht de IND niet van de vreemdeling dat hij zich vestigt in:
 
-### 24.5. Bescherming
+Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vestigingsalternatief, in de individuele zaak van de vreemdeling aanknopingspunten zoals:
 
 ### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 23.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 24.3. Vervolging in de zin van het Vluchtelingenverdrag
+Daarbij geldt voor Somalië in ieder geval dat:
 
-De IND heeft met betrekking tot Sri Lanka geen kwetsbare minderheidsgroepen aangewezen.
+### 23.7. Vertrekmoratorium
 
-### 24.4.4. Tamils
+Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils mede aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklisten en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om er van uit te gaan dat er sprake is van een reëel risico op schending van artikel 3 EVRM bij terugkeer naar Colombo. Zij kunnen dit wel cumulatief zijn in combinatie met enkele andere risicofactoren.
+### 23.8. Bijzonderheden
 
 Geen bijzonderheden.
 
-### 24. Het asielbeleid ten aanzien van Sri Lanka
+Geen bijzonderheden.
 
-De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils mede aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklisten en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om er van uit te gaan dat er sprake is van een reëel risico op schending van artikel 3 EVRM bij terugkeer naar Colombo. Zij kunnen dit wel cumulatief zijn in combinatie met enkele andere risicofactoren.
+### 24.1. Besluitmoratorium
 
-### 24.7. Vertrekmoratorium
+Ten aanzien van Sri Lanka geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-Ten aanzien van Sri Lanka geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+### 24.2. Artikel 1F Vluchtelingenverdrag
 
-### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+Geen bijzonderheden.
 
 ### 24.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-De IND heeft met betrekking tot Sri Lanka geen kwetsbare minderheidsgroepen aangewezen.
+### 24.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 24.4.4. Tamils
+De IND beschouwt Sri Lanka niet als land waarin sprake is van groepsvervolging.
 
-De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils mede aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklisten en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om er van uit te gaan dat er sprake is van een reëel risico op schending van artikel 3 EVRM bij terugkeer naar Colombo. Zij kunnen dit wel cumulatief zijn in combinatie met enkele andere risicofactoren.
+### 24.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 25.2. Artikel 1F Vluchtelingenverdrag
+De IND heeft met betrekking tot Sri Lanka geen risicogroepen aangewezen.
 
 ### 24.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Geen bijzonderheden.
+### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 25. Het asielbeleid ten aanzien van Sudan
+In Sri Lanka is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-De IND beschouwt Sudan niet als land waarin sprake is van groepsvervolging.
+### 24.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 25.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+In Sri Lanka is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+### 24.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 ### 24.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Sri Lanka geen kwetsbare minderheidsgroepen aangewezen.
 
-Voor Sri Lanka geldt in ieder geval dat:
-
 De IND beoordeelt een verzoek om een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) van Srilankaanse Tamils mede aan de hand van de door het Europese Hof van de Rechten van de Mens benoemde risicofactoren. De genoemde risicofactoren vormen geen checklisten en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om er van uit te gaan dat er sprake is van een reëel risico op schending van artikel 3 EVRM bij terugkeer naar Colombo. Zij kunnen dit wel cumulatief zijn in combinatie met enkele andere risicofactoren.
+
+De door het Europese Hof van de Rechten van de Mens, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
 
 De door het Europese Hof van de Rechten van de Mens, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
 
@@ -2839,7 +2839,7 @@ Ten aanzien van Sudan geldt geen besluit in de zin van [artikel 43, aanhef en on
 
 Geen bijzonderheden.
 
-### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 25.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 25.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
@@ -2849,27 +2849,27 @@ De IND beschouwt Sudan niet als land waarin sprake is van groepsvervolging.
 
 De IND heeft met betrekking tot Sudan uitsluitend de volgende risicogroepen aangewezen:
 
-### 25.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 25.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 25.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-In Sudan is sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM voor:
+De uitzonderlijke situatie van artikel 15c van [richtlijn 2011/95](32011L0095)/EU is niet gerelateerd aan individuele vrees.
 
 ### 26. Het asielbeleid ten aanzien van Syrië
 
-Een vreemdeling afkomstig uit Noord en Zuid-Darfur en uit Zuid-Kordofan (inclusief Abyei) en Blue Nile kan een vestigingsalternatief in een ander deel van Sudan hebben, wanneer de dreiging waaraan de vreemdeling wordt blootgesteld niet op de vreemdeling is gericht, maar uitsluitend een gevolg is van extreme situatie van willekeurig geweld als bedoeld in artikel 15c van [richtlijn 2011/95](32011L0095)/EU.
+Dit vestigingsalternatief geldt niet voor de vreemdeling, die:
 
 ### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 25.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 25.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+In Sudan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+De IND beschouwt uitsluitend als kwetsbare minderheidsgroep:
 
-### 26.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 25.5. Bescherming
 
 In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
@@ -2879,9 +2879,9 @@ De autoriteiten en/of internationale organisaties in Sudan bieden in ieder geval
 
 ### 25.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+### 25.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Geen bijzonderheden.
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
 ### 26.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
@@ -2891,9 +2891,9 @@ Daarbij geldt voor Sudan in ieder geval dat:
 
 Ten aanzien van Sudan geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-De IND acht het aannemelijk dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de vreemdeling voldoet aan alle volgende voorwaarden:
+Geen bijzonderheden.
 
-### 26.5. Bescherming
+### 26. Het asielbeleid ten aanzien van Syrië
 
 Voor Syrië geldt in ieder geval dat:
 
@@ -2903,7 +2903,7 @@ Ten aanzien van Syrië geldt geen besluit in de zin van [artikel 43, aanhef en o
 
 ### 26.2. Artikel 1F Vluchtelingenverdrag
 
-### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -2913,7 +2913,7 @@ De IND beschouwt Syrië niet als land waarin sprake is van groepsvervolging.
 
 ### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 26.5. Bescherming
+### 26.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 Geen bijzonderheden.
 
@@ -2925,37 +2925,37 @@ In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 
 
 In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+De IND heeft met betrekking tot Syrië geen kwetsbare minderheidsgroepen aangewezen.
 
-### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 26.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
 
 ### 26.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
 
 De IND acht het aannemelijk dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de vreemdeling voldoet aan alle volgende voorwaarden:
 
-### 26.5. Bescherming
+### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+Geen bijzonderheden.
+
+### 26.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+
+Geen bijzonderheden.
+
+### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+Voor Syrië geldt in ieder geval dat:
+
+### 26.7. Vertrekmoratorium
+
+Ten aanzien van Syrië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+
+### 26.8. Bijzonderheden
 
 Geen bijzonderheden.
 
 ### 27. Het asielbeleid ten aanzien van Turkije
-
-Het algemene beleid, in de zin van paragraaf C2/4.1 Vc is van toepassing.
-
-### 27.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
-
-### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-Geen bijzonderheden.
-
-### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-In Turkije is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
-
-### 27.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 Niet van toepassing.
 
@@ -2965,45 +2965,43 @@ Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 43, aanhef en 
 
 ### 27.2. Artikel 1F Vluchtelingenverdrag
 
+### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+In Turkije is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+De IND beschouwt Turkije niet als land waarin sprake is van groepsvervolging.
+
+De IND beschouwt Turkije niet als land waarin sprake is van groepsvervolging.
+
+De IND heeft met betrekking tot Turkije geen risicogroepen aangewezen.
+
+De IND heeft met betrekking tot Turkije geen risicogroepen aangewezen.
+
+Het algemene beleid, in de zin van paragraaf C2/4.1 Vc is van toepassing.
+
+De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd als:
+
+### 27.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+
 ### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 In Turkije is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
-
-De IND beschouwt Turkije niet als land waarin sprake is van groepsvervolging.
-
-Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
-
-De IND heeft met betrekking tot Turkije geen risicogroepen aangewezen.
-
-Geen bijzonderheden.
-
-Het algemene beleid, in de zin van paragraaf C2/4.1 Vc is van toepassing.
-
-### 27.8. Bijzonderheden
-
-### 27.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-Geen bijzonderheden.
-
 In Turkije is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
-
-In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
 
 Niet van toepassing.
 
-Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+Niet van toepassing.
+
+De IND heeft met betrekking tot Turkije geen kwetsbare minderheidsgroepen aangewezen.
 
 De IND heeft met betrekking tot Turkije geen kwetsbare minderheidsgroepen aangewezen.
 
 Geen bijzonderheden.
 
-De Richtlijn langdurig ingezetenen geeft een vreemdeling uit een derde land en zijn gezinsleden die minimaal gedurende vijf jaren ononderbroken legaal op het grondgebied van een EU-lidstaat hebben verbleven, onder voorwaarden aanspraak op toekenning van de status van EU-langdurig ingezetene. Met het verlenen van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen kunnen een vreemdeling uit een derde land en zijn gezinsleden gedurende maximaal drie maanden op het grondgebied van andere lidstaten verblijven. Deze vergunning biedt de vreemdeling en zijn gezinsleden de mogelijkheid om gedurende een periode van langer dan drie maanden in andere EU-lidstaten te verblijven en daartoe daar onder bepaalde voorwaarden een verblijfsvergunning te verkrijgen. Voor het verblijf in Nederland als tweede lidstaat, langer dan drie maanden maar nog geen vijf jaren, is dat een verblijfsvergunning regulier voor bepaalde tijd, waarop kan worden aangetekend welke lidstaat verantwoordelijk is voor de internationale bescherming.
-
 Geen bijzonderheden.
 
-Ten aanzien van Uganda geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+Geen bijzonderheden.
 
 Geen bijzonderheden.
 
@@ -3011,7 +3009,9 @@ Geen bijzonderheden.
 
 In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
 
-De beleidsregels in dit hoofdstuk zien daarom uitsluitend op de vreemdelingen die:
+In Turkije is adequate opvang beschikbaar in de zin van [paragraaf B8/6 Vc](onbekend).
+
+Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
@@ -3039,21 +3039,21 @@ De IND beschouwt Uganda niet als land waarin sprake is van groepsvervolging.
 
 De IND heeft met betrekking tot Uganda geen risicogroepen aangewezen.
 
-De IND heeft met betrekking tot Uganda geen kwetsbare minderheidsgroepen aangewezen.
+De IND beoordeelt de asielaanvraag van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
 
 ### 28.5. Bescherming
 
-De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3 Vc – bij terugkeer wordt blootgesteld aan vervolging.
+Gelet op de zeer fragiele positie van LHBT’s in Uganda, mede als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND in de regel aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), verleent, tenzij contra-indicaties vergunning verlening in de weg staan.
 
 Gelet op de zeer fragiele positie van LHBT’s in Uganda, mede als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND in de regel aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), verleent, tenzij contra-indicaties vergunning verlening in de weg staan.
 
-### 28.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 28.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-De IND neemt ten aanzien van Ugandese LHBT’s geen vlucht- of vestigingsalternatief aan in Uganda.
+In Uganda is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+In Uganda is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
 In Uganda is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
@@ -3061,13 +3061,13 @@ In Uganda is geen sprake van systematische blootstelling aan een behandeling in 
 
 De IND heeft met betrekking tot Uganda geen kwetsbare minderheidsgroepen aangewezen.
 
-### 28.5. Bescherming
+### 28.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Geen bijzonderheden.
+De IND acht het voor Ugandese LHBT’s niet mogelijk om bescherming te verkrijgen van de autoriteiten of internationale organisaties.
 
-### C8. De verblijfsvergunning asiel voor onbepaalde tijd met de aantekening ‘EU-langdurig ingezetene’ in de zin van Richtlijn 2011/51/EU (hierna: verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen)
+### 28.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Deze factoren zijn verwerkt in de zogeheten glijdende schaal. Voor de beoordeling sluit de IND aan bij het gestelde in [artikel 3.86 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.86) en [art 3.87 Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.87).
+De IND neemt ten aanzien van Ugandese LHBT’s geen vlucht- of vestigingsalternatief aan in Uganda.
 
 De IND neemt ten aanzien van Ugandese LHBT’s geen vlucht- of vestigingsalternatief aan in Uganda.
 
@@ -3587,7 +3587,7 @@ Geen bijzonderheden.
 
 ### 14.3.3. Christenen, bahai’s en soefi’s
 
-Christenen, bahai’s en soefi’s worden aangemerkt als groep van bijzondere aandacht. Dit betekent dat de IND in het geval van christenen, bahai’s en soefi’s minder eisen stelt aan de aannemelijkheid van het individuele asielrelaas. Dit wil zeggen dat de asielzoeker het gestelde causale verband tussen de ondervonden problemen en zijn geloofsovertuiging met geringe indicaties aannemelijk kan maken. Dit betekent ook dat wanneer de individuele problemen aannemelijk zijn gemaakt, snel zal worden geconcludeerd dat deze problemen ook voldoende zwaarwegend zijn om, behoudens contra-indicaties, in aanmerking te komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
+Ten aanzien van Irak geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 Ten aanzien van Irak geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
@@ -3595,29 +3595,29 @@ Ten aanzien van Irak geldt geen besluit in de zin van [artikel 45, vierde lid, V
 
 Geen bijzonderheden.
 
-### 14.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 14.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 14.3.3. Christenen, bahai’s en soefi’s
 
-De IND beoordeelt welke handelingen voor de vreemdeling persoonlijk een bijzonder belangrijk onderdeel vormen van zijn geloofsbeleving en waarvan dientengevolge in redelijkheid kan worden aangenomen dat hij die bij terugkeer in Iran zal verrichten. Daarbij zal betrokken worden zijn persoonlijke situatie, de wijze waarop hij in het verleden in Iran uiting heeft gegeven aan zijn religie, hoe hij hieraan in de toekomst in Iran uiting wil geven en hoe hij dit heeft gedaan nadat hij Iran heeft verlaten. De IND zal vervolgens mede aan de hand van de informatie uit het ambtsbericht en hetgeen de vreemdeling in Iran eventueel reeds aan problemen heeft ondervonden als gevolg van zijn geloofsovertuiging, toetsen of hij bij het verrichten van die specifieke handelingen een gegronde reden heeft om te vrezen voor vervolging.
+Christenen, bahai’s en soefi’s worden aangemerkt als groep van bijzondere aandacht. Dit betekent dat de IND in het geval van christenen, bahai’s en soefi’s minder eisen stelt aan de aannemelijkheid van het individuele asielrelaas. Dit wil zeggen dat de asielzoeker het gestelde causale verband tussen de ondervonden problemen en zijn geloofsovertuiging met geringe indicaties aannemelijk kan maken. Dit betekent ook dat wanneer de individuele problemen aannemelijk zijn gemaakt, snel zal worden geconcludeerd dat deze problemen ook voldoende zwaarwegend zijn om, behoudens contra-indicaties, in aanmerking te komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29).
 
 Geen bijzonderheden.
 
 ### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+De IND heeft met betrekking tot Iran geen kwetsbare minderheidsgroepen aangewezen.
+
+### 14.5. Bescherming
+
 Geen bijzonderheden.
 
+### 14.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+Geen bijzonderheden.
+
+### 15. Het asielbeleid ten aanzien van Ivoorkust
+
 ### 15.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-De IND heeft met betrekking tot Ivoorkust geen risicogroepen aangewezen.
-
-### 15.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-De IND heeft met betrekking tot Ivoorkust geen kwetsbare minderheidsgroepen aangewezen.
-
-### 15.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-### 15.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -3625,19 +3625,19 @@ Geen bijzonderheden.
 
 ### 15.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+De IND heeft met betrekking tot Ivoorkust geen kwetsbare minderheidsgroepen aangewezen.
+
+### 15.5. Bescherming
+
 Geen bijzonderheden.
 
+### 15.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+Geen bijzonderheden.
+
+### 16. Het asielbeleid ten aanzien van Libië
+
 ### 16.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-De IND heeft met betrekking tot Libië geen risicogroepen aangewezen.
-
-### 16.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-De IND beschouwt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroep:
-
-### 16.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -3645,21 +3645,21 @@ De wijzigingen van omstandigheden in Libië hebben, gelet op de informatie uit h
 
 ### 16.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+De IND beschouwt uitsluitend de volgende categorieën vreemdelingen als kwetsbare minderheidsgroep:
+
+### 16.5. Bescherming
+
 Geen bijzonderheden.
 
-### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 16.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De wijzigingen van omstandigheden in Libië hebben, gelet op de informatie uit het ambtsbericht van de Minister van Buitenlandse Zaken, een voldoende ingrijpend en niet-voorbijgaand karakter heeft zoals bedoeld in [artikel 3.37 e Vv](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e). De IND zal daarom een aan Libische vreemdelingen verleende verblijfsvergunning asiel voor bepaalde tijd heroverwegen vanwege de regimewisseling in Libië.
+
+### 17. Het asielbeleid ten aanzien van Mongolië
 
 De IND heeft met betrekking tot Mongolië geen risicogroepen aangewezen.
-
-### 17.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-De IND heeft met betrekking tot Mongolië geen kwetsbare minderheidsgroepen aangewezen.
 
 ### 17.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-De IND heeft met betrekking tot Mongolië geen risicogroepen aangewezen.
-
-### 17.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 In Mongolië is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
@@ -3669,11 +3669,11 @@ Geen bijzonderheden.
 
 ### 17.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-De IND heeft met betrekking tot Nepal geen kwetsbare minderheidsgroepen aangewezen.
+Geen bijzonderheden.
 
-### 18.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 18. Het asielbeleid ten aanzien van Nepal
 
-### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 18.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -3681,67 +3681,67 @@ Geen bijzonderheden.
 
 ### 18.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+De IND heeft met betrekking tot Nepal geen kwetsbare minderheidsgroepen aangewezen.
+
+### 18.5. Bescherming
+
 Geen bijzonderheden.
 
-### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 18.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND heeft met betrekking tot Nigeria geen risicogroepen aangewezen.
+Geen bijzonderheden.
 
-### 19.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 19. Het asielbeleid ten aanzien van Nigeria
+
+### 19.2. Artikel 1F Vluchtelingenverdrag
+
+Geen bijzonderheden.
+
+### 19.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+De IND beschouwt Nigeria niet als land waarin sprake is van groepsvervolging.
+
+In Nigeria is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+### 19.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Nigeria geen kwetsbare minderheidsgroepen aangewezen.
 
-### 19.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 19.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-### 19.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+Of vrouwen zich kunnen onttrekken aan besnijdenis door zich elders (buiten de eigen leefgemeenschap) te vestigen kan per geval verschillen. Dit is afhankelijk van de vraag in hoeverre vrouwen elders een nieuw bestaan kunnen opbouwen. Hierbij speelt het sociale netwerk een belangrijke rol. Het sociale netwerk kan bestaan uit de familie- of gezinsleden, maar ook uit andere sociale netwerken zoals verenigingen en kerkgenootschappen.
 
-In Nigeria is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+### 19.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
-
-De IND heeft met betrekking tot Nigeria geen kwetsbare minderheidsgroepen aangewezen.
-
-In Nigeria is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+Geen bijzonderheden.
 
 ### 20. Het asielbeleid ten aanzien van Pakistan
 
-De IND heeft met betrekking tot Nigeria geen kwetsbare minderheidsgroepen aangewezen.
+### 20.1. Besluitmoratorium
 
-### 19.5. Bescherming
+Ten aanzien van Pakistan geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-In Nigeria is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+### 20.3.1. Groepsvervolging in de zin van C2/3.2
 
-### 20.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+De IND beschouwt Pakistan niet als land waarin sprake is van groepsvervolging.
 
-De IND heeft met betrekking tot Pakistan geen kwetsbare minderheidsgroepen aangewezen.
+In Pakistan is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-### 20.4.1. Uitzonderlijke situatie in de zin van C2/3.3
-
-### 20. Het asielbeleid ten aanzien van Pakistan
-
-De IND verlangt van ahmadi’s en christenen niet dat zij zich tot de Pakistaanse autoriteiten wenden voor bescherming om vervolging en/of 3 EVRM schending te voorkomen.
-
-### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 20.4.2. Systematische blootstelling in de zin van C2/3.3
 
 De IND heeft met betrekking tot Pakistan geen kwetsbare minderheidsgroepen aangewezen.
+
+### 20.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van C2/6
+
+Het algemene beleid in de zin van C2/6 is van toepassing.
+
+### 20.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Geen bijzonderheden.
 
 ### 21. Het asielbeleid ten aanzien van Rusland
 
-De IND heeft met betrekking tot Pakistan geen kwetsbare minderheidsgroepen aangewezen.
-
-### 20.5. Bescherming
-
-De IND heeft met betrekking tot Rusland geen risicogroepen aangewezen.
-
-### 21.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
-
-De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangewezen.
-
-### 21.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 21.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -3749,19 +3749,19 @@ Geen bijzonderheden.
 
 ### 21.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
+De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangewezen.
+
+### 21.5. Bescherming
+
 Geen bijzonderheden.
 
-### 22.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND heeft met betrekking tot Sierra Leone geen risicogroepen aangewezen.
+Geen bijzonderheden.
 
-### 22.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 22. Het asielbeleid ten aanzien van Sierra Leone
 
-De IND heeft met betrekking tot Sierra Leone geen kwetsbare minderheidsgroepen aangewezen.
-
-### 22.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
-
-### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+### 22.2. Artikel 1F Vluchtelingenverdrag
 
 Van een minderjarige vrouwelijke vreemdeling kan niet worden verlangd dat zij zich elders in Sierra Leone vestigt, wanneer zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan besnijdenis heeft kunnen onttrekken.
 
@@ -3773,15 +3773,15 @@ Geen bijzonderheden.
 
 ### 22.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Het tegenwerpen van een vestigingsalternatief, bij vrees voor besnijdenis, wordt per vreemdeling bezien. Bij een meerderjarige vrouwelijke vreemdeling is hierbij van belang of zij aan de controle van haar familie kan ontkomen en hoe zij zich voor haar vertrek uit Sierra Leone heeft kunnen onttrekken aan de besnijdenis.
+Van een minderjarige vrouwelijke vreemdeling kan niet worden verlangd dat zij zich elders in Sierra Leone vestigt, wanneer zij hierin niet ondersteund wordt door familie of derden, tenzij zij zich eerder aan besnijdenis heeft kunnen onttrekken.
 
 ### 23.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-### 23.2. Artikel 1F Vluchtelingenverdrag
+### 22.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 In Sierra Leone is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
-### 23.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 22.8. Bijzonderheden
 
 Geen bijzonderheden.
 
@@ -3791,29 +3791,29 @@ Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 43, aanhef en
 
 ### 23.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-De IND beschouwt een vrouw in ieder geval als alleenstaand, indien:
-
 In Somalië (inclusief Mogadishu) is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+De IND herbeoordeelt vooralsnog niet de verblijfsvergunning asiel voor bepaalde tijd die aan Somaliërs verleend zijn op grond van de uitzonderlijke situatie zoals bedoeld in artikel 15c van de richtlijn 2011/95/EU die heeft gegolden ten aanzien van personen afkomstig uit Mogadishu. De IND zal niet eerder overgaan tot intrekking, tot is gebleken van een wijziging van omstandigheden die een voldoende ingrijpend en niet-voorbijgaand karakter heeft (zie [artikel 3.37e VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37e)).
 
 ### 23.5. Bescherming
 
-### 23.4.5. Individuele kenmerken
+### 23.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, indien de vreemdeling voldoet aan alle volgende voorwaarden:
+In Somalië is geen sprake van systematische blootstelling van een specifieke groep aan een behandeling in strijd met artikel 3 EVRM.
 
 ### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestersing waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
+Een alleenstaande vrouw kan in aanmerking komen voor een verblijfsvergunning op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien zij aannemelijk heeft gemaakt dat zij een gegronde vrees heeft voor een onmenselijke behandeling bij terugkeer naar Somalië.
 
-### 23.4.6. Aandachtsgroepen
+### 23.4.4. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Vreemdelingen behorende tot een aandachtsgroep kunnen, mede gelet op de omstandigheid dat zij op basis van hun terugkeer uit het westen in de negatieve aandacht van de zijde van Al Shabaab kunnen komen te staan, op basis van geringe indicaties in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw indien de herkomst geloofwaardig is en zij afkomstig zijn uit:
+De IND heeft met betrekking tot Somalië geen kwetsbare minderheidsgroepen aangewezen.
 
-De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handhaven onder de regels van Al-Shabaab in ieder geval de volgende aspecten:
+Doordat Mogadishu niet onder controle staat van Al-Shabaab, is het voor de terugkeer naar Mogadishu niet noodzakelijk dat de vreemdeling ervaring heeft met het leven onder Al-Shabaab.
 
 ### 23.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Vreemdelingen behorende tot een aandachtsgroep kunnen, mede gelet op de omstandigheid dat zij op basis van hun terugkeer uit het westen in de negatieve aandacht van de zijde van Al Shabaab kunnen komen te staan, op basis van geringe indicaties in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw indien de herkomst geloofwaardig is en zij afkomstig zijn uit:
+Ook gebieden waarover onvoldoende actuele informatie beschikbaar is, maar een bestendige invloedrijke rol van Al-Shabaab aannemelijk is, moeten hiertoe worden gerekend.
 
 ### 23.7. Vertrekmoratorium
 
@@ -3825,11 +3825,11 @@ De IND heeft met betrekking tot Sri Lanka geen risicogroepen aangewezen.
 
 Hierbij betrekt de IND, naast de in [artikel 3.37d VV](https://wetten.overheid.nl/jci1.3:c:BWBR0012002&artikel=3.37d) genoemde voorwaarden die in het algemeen gelden voor het tegenwerpen van een vestigingsalternatief, in de individuele zaak van de vreemdeling aanknopingspunten zoals:
 
-De door het Europese Hof van de Rechten van de Mens, die in onderlinge samenhang moeten worden bezien in het licht van de algemene situatie in Sri Lanka, zijn:
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
 ### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 24. Het asielbeleid ten aanzien van Sri Lanka
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
@@ -3841,27 +3841,27 @@ Voor Sri Lanka geldt in ieder geval dat:
 
 ### 24.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-De IND heeft met betrekking tot Sudan uitsluitend de volgende risicogroepen aangewezen:
-
-### 25.1. Besluitmoratorium
+De IND heeft met betrekking tot Sri Lanka geen kwetsbare minderheidsgroepen aangewezen.
 
 ### 24.4.4. Tamils
 
-Geen bijzonderheden.
+### 24.4.4. Tamils
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
-### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
+Voor Sri Lanka geldt in ieder geval dat:
 
-### 25. Het asielbeleid ten aanzien van Sudan
+### 24.7. Vertrekmoratorium
 
-In Sudan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+### 25.1. Besluitmoratorium
 
-Uitzondering hierop is de situatie dat de vreemdeling tenminste zes maanden zonder problemen heeft verbleven in de gebieden waar geen sprake is van een uitzonderlijke situatie.
+Ten aanzien van Sudan geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-### 25.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+De IND beschouwt Sudan niet als land waarin sprake is van groepsvervolging.
 
-Daarbij geldt voor Sudan in ieder geval dat:
+### 25.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+In Sudan is sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM voor:
 
 ### 25.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
@@ -3879,27 +3879,27 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 26.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 De IND heeft met betrekking tot Syrië geen risicogroepen aangewezen.
 
-### 26.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 26.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 26.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND heeft met betrekking tot Syrië geen kwetsbare minderheidsgroepen aangewezen.
 
-De IND verleent in ieder geval geen verblijfsvergunning asiel voor bepaalde tijd als:
+De IND acht het aannemelijk dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de vreemdeling voldoet aan alle volgende voorwaarden:
 
-### 27.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 26.5. Bescherming
 
-De IND heeft met betrekking tot Turkije geen kwetsbare minderheidsgroepen aangewezen.
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
 ### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
-### 27.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 27.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
 ### 27.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
@@ -3909,37 +3909,37 @@ Geen bijzonderheden.
 
 ### 27.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 27.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 27.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
+Geen bijzonderheden.
 
-### 28. Het asielbeleid ten aanzien van Uganda
+### 28.1. Besluitmoratorium
 
-De IND beoordeelt de asielaanvraag van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
+Ten aanzien van Uganda geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-### 28.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 28.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-In Uganda is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+De IND beschouwt Uganda niet als land waarin sprake is van groepsvervolging.
 
 ### 28.3.3. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (LHBT’s)
 
-De IND beoordeelt de asielaanvraag van Ugandese LHBT’s op basis van de individuele omstandigheden, afgezet tegen de positie van deze groep in Uganda.
+De IND beoordeelt of de vreemdeling aannemelijk heeft gemaakt dat hij behoort tot deze groep en dat hij – met in achtneming van het beleid dat volgt uit paragraaf C2/3 Vc – bij terugkeer wordt blootgesteld aan vervolging.
 
-### 2.2.5. Openbare orde
+### 28.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 Het is de vreemdeling in het bezit van de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen toegestaan om arbeid te verrichten, zonder dat een tewerkstellingsvergunning is vereist.
 
-### 2.2.7. Ziektekostenverzekering
+### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De vreemdeling moet, ingevolge artikel 5, eerste lid, onder b, Richtlijn langdurig ingezetenen, om in aanmerking te kunnen komen voor de verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen beschikken over een ziektekostenverzekering.
+De IND heeft met betrekking tot Uganda geen kwetsbare minderheidsgroepen aangewezen.
 
-### 2.2.6. Gevaar voor de nationale veiligheid
-
-In het wetsvoorstel ter implementatie van de gewijzigde Richtlijn langdurig ingezetenen (Kamerstukken II, 33 581) is voorzien in de invoeging van een nieuwe [afdeling 5 in hoofdstuk 3 van de Vw2000](onbekend). Daarin worden bepalingen voorgesteld over de EU-verblijfsvergunning voor langdurig ingezetenen, die daarin wordt opgenomen als een Europese verblijfsvergunning, naast de bestaande verblijfsvergunningen regulier en asiel voor bepaalde dan wel onbepaalde tijd. In verband daarmee zal ook het [Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825) worden aangepast. Deze wettelijke maatregelen kunnen echter niet al per 20 mei 2013, de uiterste datum van implementatie, in werking treden.
+### 28.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
-### 3. Intrekken verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen
+Voor Uganda geldt in ieder geval dat:
+
+### 28.7. Vertrekmoratorium
 
 ### 2.1. Procedure
 
@@ -4363,13 +4363,13 @@ De IND verleent aan Iraakse LHBT’s een verblijfsvergunning asiel voor bepaalde
 
 De IND beschouwt Iraakse vreemdelingen met een homoseksuele of biseksuele geaardheid en transgenders (verder: LHBT’s) als groep die systematisch wordt blootgesteld aan vervolging in de zin van artikel 1A Vluchtelingenverdrag.
 
-Indien vreemdelingen stellen te vrezen voor bloedwraak of vergelijkbare inter-tribale problemen van een andere familie, clan of stam, neemt de IND aan dat zij bescherming kunnen krijgen binnen de eigen familie, clan of stam.
+In Irak is geen gebied waar sprake is van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-### 13.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+### 13.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-• De IND neemt ten aanzien van Iraakse vreemdelingen geen vlucht- en vestigingsalternatief aan binnen Irak.
+In Irak is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-De IND beschouwt uitsluitend de volgende groepen als kwetsbare minderheidsgroep:
+Een Iraakse vrouw wordt als alleenstaand aangemerkt als zij voldoet aan alle volgende voorwaarden:
 
 ### 13.7. Vertrekmoratorium
 
@@ -4381,23 +4381,23 @@ Ten aanzien van Irak geldt geen besluit in de zin van [artikel 45, vierde lid, V
 
 ### 13.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-### 14.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 13.7. Vertrekmoratorium
 
 De IND beschouwt Fayli-Koerden van wie de Iraakse nationaliteit is ontnomen tijdens het regime van Saddam Hoessein, niet als staatloos. De IND neemt aan dat zij de Iraakse nationaliteit hebben.
 
-### 14. Het asielbeleid ten aanzien van Iran
+### 14.1. Besluitmoratorium
 
-De IND beoordeelt welke handelingen voor de vreemdeling persoonlijk een bijzonder belangrijk onderdeel vormen van zijn geloofsbeleving en waarvan dientengevolge in redelijkheid kan worden aangenomen dat hij die bij terugkeer in Iran zal verrichten. Daarbij zal betrokken worden zijn persoonlijke situatie, de wijze waarop hij in het verleden in Iran uiting heeft gegeven aan zijn religie, hoe hij hieraan in de toekomst in Iran uiting wil geven en hoe hij dit heeft gedaan nadat hij Iran heeft verlaten. De IND zal vervolgens mede aan de hand van de informatie uit het ambtsbericht en hetgeen de vreemdeling in Iran eventueel reeds aan problemen heeft ondervonden als gevolg van zijn geloofsovertuiging, toetsen of hij bij het verrichten van die specifieke handelingen een gegronde reden heeft om te vrezen voor vervolging.
+Ten aanzien van Iran geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-Belangrijk bij de beoordeling is dat uit het algemeen ambtsbericht blijkt dat in het bijzonder personen die zich hebben bekeerd tot het christendom en openlijk hun geloof (willen) belijden, bijvoorbeeld door het bijwonen van kerkdiensten, als ook personen die (willen) evangeliseren een aanzienlijk risico lopen op vervolging. Asielzoekers die aannemelijk maken dat hun persoonlijke godsdienstuitoefening ingevolge het vorenstaande zal leiden tot vervolging kunnen op die grond in aanmerking kunnen voor een verblijfsvergunning asiel, behoudens contra-indicaties, op grond van [artikel 29, eerste lid, onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) (zie ook C2/3.2 Vc).
+Geen bijzonderheden.
 
-In Iran is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+De IND beschouwt Iran niet als land waarin sprake is van groepsvervolging.
 
-### 14.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+### 14.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-In Iran is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+De IND heeft met betrekking tot Iran geen risicogroepen aangewezen.
 
-### 14.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 14.3.3. Christenen, bahai’s en soefi’s
 
 ### 14.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
@@ -4503,17 +4503,17 @@ Ten aanzien van Mongolië geldt geen besluit in de zin van [artikel 43, aanhef e
 
 Geen bijzonderheden.
 
-### 17.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 17.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
+
+In Mongolië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
+
+### 17.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+
+In Mongolië is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+
+### 17.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
 Geen bijzonderheden.
-
-### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
-
-In Mongolië is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
-
-### 17.5. Bescherming
-
-Ten aanzien van Nepal geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 ### 17.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4563,15 +4563,15 @@ In Nigeria is geen sprake van een uitzonderlijke situatie als bedoeld in artikel
 
 Of vrouwen zich kunnen onttrekken aan besnijdenis door zich elders (buiten de eigen leefgemeenschap) te vestigen kan per geval verschillen. Dit is afhankelijk van de vraag in hoeverre vrouwen elders een nieuw bestaan kunnen opbouwen. Hierbij speelt het sociale netwerk een belangrijke rol. Het sociale netwerk kan bestaan uit de familie- of gezinsleden, maar ook uit andere sociale netwerken zoals verenigingen en kerkgenootschappen.
 
-Daarbij geldt voor Nigeria in ieder geval dat:
+In Nigeria is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-### 19.7. Vertrekmoratorium
+### 19.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-Daarbij geldt voor Nigeria in ieder geval dat:
+De IND heeft met betrekking tot Nigeria geen kwetsbare minderheidsgroepen aangewezen.
 
-### 20.1. Besluitmoratorium
+### 19.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Ten aanzien van Pakistan geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+In Nigeria is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
 
 ### 20.3.1. Groepsvervolging in de zin van C2/3.2
 
@@ -4581,17 +4581,17 @@ Daarbij geldt voor Nigeria in ieder geval dat:
 
 Ten aanzien van Nigeria geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
+Ahmadi’s zijn aangewezen als een risicogroep.
+
+### 20.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+
 Voor overige personen geldt het algemene beleid in de zin van C2/6 Vc.
 
-### 20.5.2. Vlucht- en vestigingsalternatief in de zin van C2/6
+In Pakistan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-Voor overige personen geldt het algemene beleid in de zin van C2/6 Vc.
+### 20.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3
 
-Voor Pakistan geldt in ieder geval dat:
-
-### 20.7. Vertrekmoratorium
-
-Voor Pakistan geldt in ieder geval dat:
+De IND heeft met betrekking tot Pakistan geen kwetsbare minderheidsgroepen aangewezen.
 
 ### 21.1. Besluitmoratorium
 
@@ -4653,7 +4653,7 @@ De IND beschouwt Sierra Leone niet als land waarin sprake is van groepsvervolgin
 
 De IND heeft met betrekking tot Sierra Leone geen risicogroepen aangewezen.
 
-In Sierra Leone is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+In Sierra Leone is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
 In Sierra Leone is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
@@ -4663,7 +4663,7 @@ De IND heeft met betrekking tot Sierra Leone geen kwetsbare minderheidsgroepen a
 
 ### 22.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-In Sierra Leone is een vlucht- en vestigingsalternatief voor de volgende categorieën vreemdelingen:
+Het tegenwerpen van een vestigingsalternatief, bij vrees voor besnijdenis, wordt per vreemdeling bezien. Bij een meerderjarige vrouwelijke vreemdeling is hierbij van belang of zij aan de controle van haar familie kan ontkomen en hoe zij zich voor haar vertrek uit Sierra Leone heeft kunnen onttrekken aan de besnijdenis.
 
 ### 22.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4675,35 +4675,35 @@ In Sierra Leone is een vlucht- en vestigingsalternatief voor de volgende categor
 
 Geen bijzonderheden.
 
-### 23.4.3. Alleenstaande vrouwen
+### 23.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 23.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 23.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 ### 23.4.6. Aandachtsgroepen
 
-### 23.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+### 23.4.5. Individuele kenmerken
 
-Bij het beoordelen van het individuele risico in het herkomstgebied en tijdens de reis daar naar toe betrekt de IND in ieder geval:
+De IND verleent, behoudens contra-indicaties, in ieder geval een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling afkomstig uit Centraal- en Zuid-Somalië, indien de vreemdeling voldoet aan alle volgende voorwaarden:
 
-Deze opsomming is cumulatief.
+De IND betrekt bij de beoordeling van de vraag of de vreemdeling zich kan handhaven onder de regels van Al-Shabaab in ieder geval de volgende aspecten:
 
 Bij de beoordeling of het verblijf in Nederland bij een individuele Somalische vreemdeling heeft geleid tot een verwestersing waarbij een of meer specifieke kenmerken bij terugkeer feitelijk niet meer verborgen kunnen worden gehouden, spelen in ieder geval de volgende elementen een rol:
 
 ### 23.4.6. Aandachtsgroepen
 
-De hieronder genoemde groepen staan in de negatieve aandacht van Al- Shabaab en zijn aangewezen als aandachtsgroep:
+Vreemdelingen behorende tot een aandachtsgroep kunnen, mede gelet op de omstandigheid dat zij op basis van hun terugkeer uit het westen in de negatieve aandacht van de zijde van Al Shabaab kunnen komen te staan, op basis van geringe indicaties in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw indien de herkomst geloofwaardig is en zij afkomstig zijn uit:
 
 ### 23.8. Bijzonderheden
 
 Voor leden van de aandachtsgroepen die terugkeren naar Mogadishu geldt in het licht van de positie van terugkeerders aldaar dat indicaties van geringe aard niet volstaan. De IND beoordeelt op basis van het algemene toetsingkader of de individuele omstandigheden van de vreemdeling tot inwilliging van de aanvraag leiden.
 
-### 23.7. Vertrekmoratorium
+### 23.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+In Somalië is geen sprake van een binnenlands vlucht- en of/vestigingsalternatief, tenzij de vreemdeling onder naar plaatselijke maatstaven gemeten redelijke omstandigheden tenminste zes maanden voorafgaand aan zijn vertrek heeft verbleven in:
 
 ### 23.8. Bijzonderheden
 
-Van de vreemdeling wordt verwacht dat hij zich in het desbetreffende gebied onder de bescherming van zijn clan kan stellen.
+Uitzonderingen voor wie geen vestigingsalternatief geldt in Somalië (inclusief Noord-Somalië) zijn in ieder geval:
 
 ### 24. Het asielbeleid ten aanzien van Sri Lanka
 
@@ -4727,75 +4727,75 @@ In Sri Lanka is geen sprake van een uitzonderlijke situatie als bedoeld in artik
 
 ### 24.7. Vertrekmoratorium
 
-### 24.5. Bescherming
+### 24.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+### 24.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+Ten aanzien van Sri Lanka geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+
+### 24.8. Bijzonderheden
+
+Geen bijzonderheden.
 
 ### 25. Het asielbeleid ten aanzien van Sudan
 
-De uitzonderlijke situatie van artikel 15c van richtlijn 2004/83 EG is niet gerelateerd aan individuele vrees.
+### 25.2. Artikel 1F Vluchtelingenverdrag
 
-De uitzonderlijke situatie van artikel 15c van richtlijn 2004/83 EG is niet gerelateerd aan individuele vrees.
+Geen bijzonderheden.
 
-### 25.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
-
-Dit vestigingsalternatief geldt niet voor de vreemdeling, die:
-
-### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
-
-De uitzonderlijke situatie van artikel 15c van richtlijn 2004/83 EG is niet gerelateerd aan individuele vrees.
-
-### 25.5. Bescherming
+### 25.3. Vervolging in de zin van het Vluchtelingenverdrag
 
 Dit vestigingsalternatief geldt niet voor de vreemdeling, die:
 
-In Sudan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+De IND heeft met betrekking tot Sudan uitsluitend de volgende risicogroepen aangewezen:
 
-### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+### 25.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
 De IND beschouwt uitsluitend als kwetsbare minderheidsgroep:
 
 ### 25.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-Dit vestigingsalternatief geldt niet voor de vreemdeling, die:
+Uitzondering hierop is de situatie dat de vreemdeling tenminste zes maanden zonder problemen heeft verbleven in de gebieden waar geen sprake is van een uitzonderlijke situatie.
 
 ### 25.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 De IND beschouwt uitsluitend als kwetsbare minderheidsgroep:
 
-### 25.5. Bescherming
+### 25.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
+
+De autoriteiten en/of internationale organisaties in Sudan bieden in ieder geval geen bescherming aan de volgende categorieën vreemdelingen:
+
+### 25.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
+
+Daarbij geldt voor Sudan in ieder geval dat:
+
+### 25.7. Vertrekmoratorium
+
+Ten aanzien van Sudan geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+
+### 25.8. Bijzonderheden
+
+### 26.1. Besluitmoratorium
+
+Ten aanzien van Syrië geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+
+### 26.2. Artikel 1F Vluchtelingenverdrag
 
 Geen bijzonderheden.
 
-### 26. Het asielbeleid ten aanzien van Syrië
+De IND beschouwt Syrië niet als land waarin sprake is van groepsvervolging.
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+### 26.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 26.3. Vervolging in de zin van het Vluchtelingenverdrag
+De IND heeft met betrekking tot Syrië geen risicogroepen aangewezen.
 
-De IND heeft met betrekking tot Syrië geen kwetsbare minderheidsgroepen aangewezen.
+### 26.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-### 26.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
+In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-### 26. Het asielbeleid ten aanzien van Syrië
-
-De IND acht het aannemelijk dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de vreemdeling voldoet aan alle volgende voorwaarden:
-
-### 26.5. Bescherming
-
-Geen bijzonderheden.
-
-De IND heeft met betrekking tot Syrië geen kwetsbare minderheidsgroepen aangewezen.
-
-### 26.4.4. Vreemdelingen die geen actieve aanhanger zijn van het regime
-
-De IND acht het aannemelijk dat vreemdelingen uit Syrië die vanuit het buitenland terugkeren, bij of na inreis een reëel risico lopen op een behandeling in strijd met artikel 3 EVRM. Een vreemdeling uit Syrië komt in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de vreemdeling voldoet aan alle volgende voorwaarden:
-
-### 26.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
-
-Geen bijzonderheden.
-
-### 26.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+### 26.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
 Geen bijzonderheden.
 
@@ -4809,23 +4809,23 @@ Ten aanzien van Syrië geldt geen besluit in de zin van [artikel 45, vierde lid,
 
 Geen bijzonderheden.
 
-### 27. Het asielbeleid ten aanzien van Turkije
+### 27.1. Besluitmoratorium
 
-### 27.7. Vertrekmoratorium
+### 27.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 27.8. Bijzonderheden
-
-### 27.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
-
-### 27.5. Bescherming
+### 27.3.3. Vervolging vanwege dienstweigering of desertie
 
 ### 27.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Gelet op de zeer fragiele positie van LHBT’s in Uganda, mede als gevolg van de ondertekening van de anti-homoseksualiteitswet, betekent dit dat de IND in de regel aan Ugandese LHBT’s een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), verleent, tenzij contra-indicaties vergunning verlening in de weg staan.
+### 27.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-In Uganda is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
+### 27.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-### 28.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+Geen bijzonderheden.
+
+De IND heeft met betrekking tot Uganda geen risicogroepen aangewezen.
+
+### 28.3.3. Lesbiennes, homoseksuelen, biseksuelen en transseksuelen (LHBT’s)
 
 Voor het verkrijgen van een verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen gelden geen vrijstellingen inzake het beschikken over voldoende middelen van bestaan.
 
@@ -4869,25 +4869,25 @@ Indien de vreemdeling niet voldoet aan één of meerdere van de hier gestelde vo
 
 Indien de vreemdeling, die in het bezit is van de verblijfsvergunning asiel voor bepaalde tijd, bedoeld in [artikel 28 Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen aanvraagt, beoordeelt de IND of de vreemdeling nog internationale bescherming behoeft. Indien de IND de bescherming intrekt, beëindigt of niet verlengt overeenkomstig artikel 14, derde lid, en artikel 19, derde lid, van de Kwalificatierichtlijn, verleent de IND, ingevolge artikel 4, eerste lid bis, Richtlijn langdurig ingezetenen, niet de verblijfsvergunning asiel voor onbepaalde tijd EU-langdurig ingezetenen met de aantekening ‘internationale bescherming verleend op {datum} door Nederland’.
 
-De IND heeft met betrekking tot Mongolië geen kwetsbare minderheidsgroepen aangewezen.
+De IND beschouwt Mongolië niet als land waarin sprake is van groepsvervolging.
 
-### 17.5. Bescherming
+### 17.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 19.5. Bescherming
+### 19.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-### 20.5. Bescherming
+### 20.3.2. Risicogroepen in de zin van C2/3.2
 
-### 22.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 22.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
-### 23. Het asielbeleid ten aanzien van Somalië
+### 23.1. Besluitmoratorium
 
-### 23.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 23.3.1. Groepsvervolging in de zin van paragraaf C2/3.2 Vc
 
-### 23.4.3. Alleenstaande vrouwen
+### 23.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
 
-Bij het beoordelen van het individuele risico in het herkomstgebied en tijdens de reis daar naar toe betrekt de IND in ieder geval:
+Er is sprake van een individuele toets waarbij de asielzoeker aannemelijk moet maken dat hij behoort tot een dergelijke groep én dat hij persoonlijk in die hoedanigheid risico’s loopt van de zijde van Al-Shabaab.
 
-De IND verlangt van vreemdelingen afkomstig uit Centraal- en Zuid-Somalië niet dat zij zich tot de (lokale) autoriteiten hebben gewend voor bescherming.
+De IND acht het voor de volgende categorieën vreemdelingen in ieder geval niet aannemelijk dat het voor de vreemdeling in Somalië (inclusief Noord-Somalië) mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
 Daarbij geldt voor Somalië in ieder geval dat:
 
@@ -4899,11 +4899,11 @@ Ten aanzien van Somalië geldt geen besluit in de zin van [artikel 45, vierde li
 
 In Sri Lanka is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
-De uitzonderlijke situatie van artikel 15c van [richtlijn 2011/95](32011L0095)/EU is niet gerelateerd aan individuele vrees.
+Een vreemdeling afkomstig uit Noord en Zuid-Darfur en uit Zuid-Kordofan (inclusief Abyei) en Blue Nile kan een vestigingsalternatief in een ander deel van Sudan hebben, wanneer de dreiging waaraan de vreemdeling wordt blootgesteld niet op de vreemdeling is gericht, maar uitsluitend een gevolg is van extreme situatie van willekeurig geweld als bedoeld in artikel 15c van [richtlijn 2011/95](32011L0095)/EU.
 
 In Sudan is geen sprake van systematische blootstelling aan een behandeling in strijd met artikel 3 EVRM.
 
-Geen bijzonderheden.
+In Syrië is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 3 EVRM.
 
 ### 26.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
@@ -4917,7 +4917,7 @@ Geen bijzonderheden.
 
 ### 27.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-### 28.2. Artikel 1F Vluchtelingenverdrag
+### 27.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 28.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
@@ -4925,11 +4925,11 @@ In Uganda is geen sprake van een uitzonderlijke situatie als bedoeld in artikel 
 
 ### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
-De beleidsregels in dit hoofdstuk zien daarom uitsluitend op de vreemdelingen die:
+Ten aanzien van Uganda geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
-### 2.2.8. Inburgeringsvereiste
+### 28.8. Bijzonderheden
 
-In dit hoofdstuk zijn beleidsregels opgenomen, die gelden:
+Geen bijzonderheden.
 
 ### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
 
@@ -4967,15 +4967,15 @@ De IND wijst de aanvraag af indien de vreemdeling niet in het bezit is van een g
 
 De IND mag, indien Nederland tweede lidstaat is, ingevolge artikel 22, eerste lid, Richtlijn langdurig ingezetenen onder omstandigheden besluiten de verblijfsvergunning regulier voor bepaalde tijd van de uit de eerste lidstaat afkomstige langdurig ingezetene niet te verlengen of die vergunning in te trekken en betrokkene en zijn gezinsleden verplichten het land te verlaten. In een dergelijk geval moet de eerste lidstaat ingevolge artikel 22, tweede lid, Richtlijn langdurig ingezetenen de langdurig ingezetene en zijn gezinsleden onmiddellijk en zonder formaliteiten terugnemen.
 
-Het algemene beleid, in de zin van paragraaf C2/4.1 Vc is van toepassing.
+Ten aanzien van Turkije geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
-### 27.7. Vertrekmoratorium
+### 27.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-### 27.8. Bijzonderheden
+### 27.5. Bescherming
 
-### 28.1. Besluitmoratorium
+### 27.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-### 2. De verblijfsvergunning asiel voor onbepaalde tijd EU langdurig ingezetenen
+### 28. Het asielbeleid ten aanzien van Uganda
 
 De IND wijst, ingevolge artikel 6, eerste lid, Richtlijn langdurig ingezetenen, de aanvraag voor de verblijfsvergunning voor onbepaalde tijd EU-langdurig ingezetenen af als de vreemdeling een gevaar voor de openbare orde vormt. Bij de beoordeling houdt de IND mede rekening met:
 
@@ -5003,13 +5003,13 @@ Het koppelingsbureau van de IND fungeert als contactpunt voor het verstrekken en
 
 Verlenging verblijfsvergunning asiel bepaalde tijd; of Verblijfsvergunning asiel onbepaalde tijd; of EU-verblijfsvergunning voor langdurig ingezetenen
 
-### 28.3. Vervolging in de zin van het Vluchtelingenverdrag
+### 27.7. Vertrekmoratorium
 
 ### 27.7. Vertrekmoratorium
 
-### 28.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 28.3. Vervolging in de zin van het Vluchtelingenverdrag
 
-### 28.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
+### 28.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
 ### 3.1. De intrekkingsgronden
 
@@ -5235,7 +5235,7 @@ De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van [
 
 De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
-### 13.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+### 13.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
 
 Indien vreemdelingen stellen te vrezen voor bloedwraak of vergelijkbare inter-tribale problemen van een andere familie, clan of stam, neemt de IND aan dat zij bescherming kunnen krijgen binnen de eigen familie, clan of stam.
 
@@ -5254,6 +5254,68 @@ De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk da
 ### 27.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
 ### 28.4.1. Uitzonderlijke situatie in de zin van paragraaf C2/3.3 Vc
+
+## Bijlage
+
+Vervallen
+
+### 13.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
+
+### 14.2. Artikel 1F Vluchtelingenverdrag
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+De IND heeft met betrekking tot Mongolië geen risicogroepen aangewezen.
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+### 19.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+De IND heeft met betrekking tot Nigeria geen risicogroepen aangewezen.
+
+### 19.4. Foltering, onmenselijke of vernederende behandeling of bestraffing in de zin van artikel 3 EVRM
+
+De IND acht het in ieder geval voor de volgende categorie niet aannemelijk dat het voor de vreemdeling mogelijk is de bescherming te verkrijgen van de autoriteiten of internationale organisaties:
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+### 20.2. Artikel 1F Vluchtelingenverdrag
+
+Geen bijzonderheden.
+
+### 20.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+De IND verlangt van ahmadi’s en christenen niet dat zij zich tot de Pakistaanse autoriteiten wenden voor bescherming om vervolging en/of 3 EVRM schending te voorkomen.
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+
+### 22.3. Vervolging in de zin van het Vluchtelingenverdrag
+
+### 23.4.3. Alleenstaande vrouwen
+
+### 24.5. Bescherming
+
+Geen bijzonderheden.
+
+### 24.6. Adequate opvang alleenstaande minderjarige vreemdelingen
+
+De IND werpt een vlucht- of vestigingsalternatief niet tegen, behoudens de situatie als vermeld in paragraaf C7/25.4.1 Vc.
+
+### 27.2. Artikel 1F Vluchtelingenverdrag
+
+Geen bijzonderheden.
+
+### 27.8. Bijzonderheden
+
+### 28.2. Artikel 1F Vluchtelingenverdrag
+
+### 28.5. Bescherming
 
 ## Bijlage
 
