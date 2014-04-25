@@ -4,7 +4,7 @@ identifier: "BWBR0021921"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-03-13"
-last_updated: "2013-06-18"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021921"
 soort: "ministeriele-regeling"
@@ -170,11 +170,27 @@ EN 14781:2005 ‘Racefietsen – Veiligheidseisen en beproevingsmethoden’
 
 EN 14872:2006 ‘Fietsen – Toebehoren voor fietsen – Bagagedragers’
 
+EN 15649-1:2009 + A1:2012 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 1: Classificatie, materialen, algemene eisen en beproevingsmethoden
+
+EN 15649-2:2009 + A1:2012 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 2: Consumenteninformatie
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+EN 15649-3:2009 + A1:2012 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 3: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse A toestellen
+
+EN 15649-4:2010 + A1:2012 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 4: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse B toestellen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+EN 15649-5:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 5: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse C toestellen
+
+EN 15649-6:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 6: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse D toestellen
+
+EN 15649-7:2009 – Opblaasbare vrijetijdsartikelen voor gebruik op en in het water – Deel 7: Aanvullende bijzondere veiligheidseisen en beproevingsmethoden voor klasse E toestellen.
+
 EN 16156:2010 ‘Sigaretten – Vaststellen van het ontstekend vermogen – Veiligheidseis’
 
 EN ISO 12863:2010 ‘Standaardbeproevingsmethode voor bepaling van het ontstekend vermogen van sigaretten’
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 EN 60065:2002/A12:2011 Audio-, video- en soortgelijke elektronische toestellen – Veiligheidseisen
 
