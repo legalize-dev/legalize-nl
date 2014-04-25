@@ -4,7 +4,7 @@ identifier: "BWBR0024262"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2011-01-01"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024262"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als normen bedoeld in [artikel 3, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3) worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2011-01-01&g=2011-01-01) bij deze regeling vermelde normen.
+1. Als normen bedoeld in [artikel 3, tweede lid, van het Warenwetbesluit kinderbedden en -boxen](https://wetten.overheid.nl/jci1.3:c:BWBR0004710&artikel=3) worden aangewezen de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=I&z=2014-04-25&g=2014-04-25) bij deze regeling vermelde normen.
 
-2. Als nadere eisen voor kinderbedden en -boxen die in de kinderopvang worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2011-01-01&g=2011-01-01) bij deze regeling opgenomen eisen.
+2. Als nadere eisen voor kinderbedden en -boxen die in de kinderopvang worden gebruikt en voor te gebruiken methoden van onderzoek worden aangewezen de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024262&bijlage=II&z=2014-04-25&g=2014-04-25) bij deze regeling opgenomen eisen.
 
 ##### Artikel 2
 
@@ -262,7 +262,7 @@ Wanneer textiel, behandeld textiel of plastic hoes een oppervlak heeft van meer 
 
 ### **3.11 Eisen fysieke belasting**
 
-3.11.1 Voor een bed van kinderen die niet zelfstandig in het bed kunnen klimmen ligt de bovenkant van het matras op een hoogte van 850–100 mm boven de vloer.
+3.11.1 Voor een bed van kinderen die niet zelfstandig in het bed kunnen klimmen ligt de bovenkant van het matras op een hoogte van 850–1100 mm boven de vloer.
 
 3.11.2 Een bed voor kinderen die wel zelfstandig in bed kunnen klimmen heeft een maximale opstap van vloer of de bovenzijde van de bovenste trede of sport naar de bovenzijde van de matras van 300 mm.
 
