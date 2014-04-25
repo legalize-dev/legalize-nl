@@ -4,7 +4,7 @@ identifier: "BWBR0028710"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2014-04-25"
-last_updated: "2010-10-10"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028710"
 soort: "ministeriele-regeling-BES"
@@ -41,9 +41,9 @@ entry_into_force: "2010-10-10"
 
 In deze ministeriële regeling wordt verstaan onder:
 
-- a. **wet:** Warenwet BES;
+- a. **wet:** [Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619);
 
-- b. **bevoegde instantie:** Voedsel en Waren Autoriteit;
+- b. **bevoegde instantie:** door het bestuurscollege aangewezen personen;
 
 - c. **Commissie:** de Commissie van de Europese Unie;
 
@@ -107,7 +107,7 @@ In deze ministeriële regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Ontheffing van enig verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), kan door de Minister worden verleend met betrekking tot visserijproducten die niet voor de uitvoer zijn bestemd, voor zover niet-nakoming van de betreffende voorschriften een effect op de volksgezondheid heeft dat niet of niet onaanvaardbaar ongunstiger is dan wanneer de verboden zouden zijn gehandhaafd.
+1. Ontheffing van enig verbod, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=2&z=2014-04-25&g=2014-04-25), kan door de Minister worden verleend met betrekking tot visserijproducten die niet voor de uitvoer zijn bestemd, voor zover niet-nakoming van de betreffende voorschriften een effect op de volksgezondheid heeft dat niet of niet onaanvaardbaar ongunstiger is dan wanneer de verboden zouden zijn gehandhaafd.
 
 2. Ontheffing van een zodanig verbod kan met betrekking tot voor de uitvoer bestemde visserijproducten door de Minister slechts verleend worden, voor zover zulks in overeenstemming is met een verordening, beschikking of richtlijn, vastgesteld door de Commissie of de Raad van de Europese Gemeenschap, en onder verwijzing naar de desbetreffende bepaling daarin.
 
@@ -135,7 +135,7 @@ Het is verboden de navolgende visserijproducten te verhandelen:
 
 ##### Artikel 7
 
-[Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=4&artikel=20&z=2010-10-10&g=2010-10-10) is mede van toepassing op de detailhandel, met uitzondering van de verkoop in het klein en de rechtstreekse overdracht op een lokale markt in kleine hoeveelheden door een visser aan de kleinhandel of de consument; de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=2&artikel=9&z=2010-10-10&g=2010-10-10) zijn mede van toepassing op de detailhandel, met inbegrip van de bedoelde verkoop in het klein door een visser.
+[Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=4&artikel=20&z=2014-04-25&g=2014-04-25) is mede van toepassing op de detailhandel, met uitzondering van de verkoop in het klein en de rechtstreekse overdracht op een lokale markt in kleine hoeveelheden door een visser aan de kleinhandel of de consument; de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=4&z=2014-04-25&g=2014-04-25), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=5&z=2014-04-25&g=2014-04-25), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=6&z=2014-04-25&g=2014-04-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=2&artikel=9&z=2014-04-25&g=2014-04-25) zijn mede van toepassing op de detailhandel, met inbegrip van de bedoelde verkoop in het klein door een visser.
 
 #### § 2. Behandeling, be- en verwerking
 
@@ -145,11 +145,11 @@ Het is verboden de navolgende visserijproducten te verhandelen:
 
 - a. de wijze waarop de producten zijn gevangen en aan boord van enig vaartuig, niet zijnde een fabrieksvaartuig, zijn uitgebloed, ontkopt, gestript, van de vinnen ontdaan en gekoeld of ingevroren, voor zover deze bewerkingen hebben plaatsgevonden, stemt overeen met de door de Minister bij ministeriële regeling vastgestelde hygiënische voorschriften;
 
-- b. indien de producten een behandeling hebben ondergaan aan boord van een fabrieksvaartuig, dient dit vaartuig ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10) als inrichting te zijn erkend en te voldoen aan de eisen welke de Minister bij ministeriële regeling vaststelt;
+- b. indien de producten een behandeling hebben ondergaan aan boord van een fabrieksvaartuig, dient dit vaartuig ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2014-04-25&g=2014-04-25) als inrichting te zijn erkend en te voldoen aan de eisen welke de Minister bij ministeriële regeling vaststelt;
 
 - c. tijdens en na het lossen van de producten wordt gehandeld met inachtneming van de eisen welke de Minister bij ministeriële regeling dienaangaande vaststelt;
 
-- d. de producten worden behandeld in inrichtingen die voldoen aan door de Minister bij ministeriële regeling vastgestelde voorschriften en die ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10) als inrichting zijn erkend;
+- d. de producten worden behandeld in inrichtingen die voldoen aan door de Minister bij ministeriële regeling vastgestelde voorschriften en die ingevolge [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2014-04-25&g=2014-04-25) als inrichting zijn erkend;
 
 - e. de producten worden ingevroren, ontdooid, bewerkt, verwerkt, verpakt of opgeslagen in overeenstemming met de algemene hygiënische eisen voor inrichtingen en de bijzondere hygiënische eisen voor het hanteren van visserijproducten in zodanige inrichtingen, welke de Minister bij ministeriële regeling vaststelt;
 
@@ -167,7 +167,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 ##### Artikel 10
 
-1. Een inrichting behoeft om te kunnen worden gebruikt voor de werkzaamheden waarvoor zij is aangelegd de erkenning door de bevoegde instantie, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10). De erkenning wordt schriftelijk aangevraagd door de ondernemer. Het Bestuurscollege kan nadere voorschriften vaststellen met betrekking tot de vorm van de aanvrage en de bij de indiening ervan te volgen procedure.
+1. Een inrichting behoeft om te kunnen worden gebruikt voor de werkzaamheden waarvoor zij is aangelegd de erkenning door de bevoegde instantie, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=1&artikel=1&z=2014-04-25&g=2014-04-25). De erkenning wordt schriftelijk aangevraagd door de ondernemer. Het Bestuurscollege kan nadere voorschriften vaststellen met betrekking tot de vorm van de aanvrage en de bij de indiening ervan te volgen procedure.
 
 2. De erkenning wordt verleend, indien door de aanvrager is aangetoond dat de inrichting voldoet aan de bij deze en andere van toepassing zijnde beschikkingen gestelde voorschriften.
 
@@ -197,7 +197,7 @@ Visserijproducten die levend worden verhandeld, worden voortdurend gehouden in o
 
 ##### Artikel 13
 
-De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10) zijn mede op fabrieksvaartuigen van toepassing.
+De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2014-04-25&g=2014-04-25), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=11&z=2014-04-25&g=2014-04-25) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=12&z=2014-04-25&g=2014-04-25) zijn mede op fabrieksvaartuigen van toepassing.
 
 ##### Artikel 14
 
@@ -207,7 +207,7 @@ De voor een inrichting verantwoordelijke ondernemer draagt er eigener beweging z
 
 - b. methoden voor de uitoefening van toezicht en controle op deze kritische punten worden opgesteld en ten uitvoer gelegd;
 
-- c. monsters worden genomen ter analyse in een door de bevoegde instantie overeenkomstig [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=18&z=2010-10-10&g=2010-10-10), goedgekeurd laboratorium; door middel van de analyse worden de reinigings- en desinfecteringsmethoden gecontroleerd en wordt nagegaan of de bij deze en andere van toepassing zijnde beschikkingen vastgestelde normen worden nageleefd;
+- c. monsters worden genomen ter analyse in een door de bevoegde instantie overeenkomstig [artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=18&z=2014-04-25&g=2014-04-25), goedgekeurd laboratorium; door middel van de analyse worden de reinigings- en desinfecteringsmethoden gecontroleerd en wordt nagegaan of de bij deze en andere van toepassing zijnde beschikkingen vastgestelde normen worden nageleefd;
 
 - d. de resultaten van de verschillende controles en tests met betrekking tot de voorgaande aangele-genheden worden gedurende ten minste twee jaren bewaard; zij worden in geschrifte of op andere niet gemakkelijk uitwisbare wijze vastgelegd in een registratiesysteem, aangaande de samenstelling waarvan door de Minister bij beschikking met algemene werking nadere voorschriften kunnen worden vastgesteld;
 
@@ -227,17 +227,17 @@ De ondernemer is verplicht om, indien uit de interne controles of langs andere h
 
 ##### Artikel 17
 
-1. Bij de identificatie van kritische punten, die ingevolge [artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10), in het kader van de interne controle in elke inrichting voorgeschreven is, worden al die kritische punten opgespoord die, afhankelijk van de gebruikte of te gebruiken grondstoffen, de toegepaste fabricage-procédé's, de structuur en de uitrusting van de inrichting en de aard van de eindproducten en van het afzetsysteem, van belang kunnen zijn om de naleving van deze en andere van toepassing zijnde regelingen vastgestelde voorschriften te verzekeren.
+1. Bij de identificatie van kritische punten, die ingevolge [artikel 14, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=14&z=2014-04-25&g=2014-04-25), in het kader van de interne controle in elke inrichting voorgeschreven is, worden al die kritische punten opgespoord die, afhankelijk van de gebruikte of te gebruiken grondstoffen, de toegepaste fabricage-procédé's, de structuur en de uitrusting van de inrichting en de aard van de eindproducten en van het afzetsysteem, van belang kunnen zijn om de naleving van deze en andere van toepassing zijnde regelingen vastgestelde voorschriften te verzekeren.
 
 2. De interne controle op de in het voorgaande lid bedoelde kritische punten omvat het geheel van vooraf vastgestelde, voor een doelmatige risicobeheersing op elk kritisch punt vereiste waarnemingen en metingen, doch niet mede de toetsing die ten doel heeft na te gaan of de eindproducten van de inrichting met de bij deze en andere van toepassing zijnde beschikkingen vastgestelde normen in overeenstemming zijn.
 
 3. Nadere voorschriften en aanwijzingen met betrekking tot de identificatie van kritische punten, de interne controles, de bij die controles toe te passen methoden, en de toetsing van de systemen van interne controles worden door de Minister bij ministeriële regeling vastgesteld.
 
-4. Bij de externe inspectie en controle die ingevolge het vijfde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10) door de bevoegde instantie worden uitgeoefend wordt nagegaan of de systemen van interne controle op zodanige wijze zijn uitgewerkt en worden gehandhaafd, dat het beoogde resultaat daarvan gewaarborgd is.
+4. Bij de externe inspectie en controle die ingevolge het vijfde lid van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=10&z=2014-04-25&g=2014-04-25) door de bevoegde instantie worden uitgeoefend wordt nagegaan of de systemen van interne controle op zodanige wijze zijn uitgewerkt en worden gehandhaafd, dat het beoogde resultaat daarvan gewaarborgd is.
 
 ##### Artikel 18
 
-1. De doelmatigheid van de ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=17&z=2010-10-10&g=2010-10-10) opgezette systemen van interne controles wordt onderzocht door middel van de monsterneming, bedoeld in [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10). Nadere voorschriften met betrekking tot deze monsterneming worden door de Minister bij ministeriële regeling vastgesteld.
+1. De doelmatigheid van de ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=17&z=2014-04-25&g=2014-04-25) opgezette systemen van interne controles wordt onderzocht door middel van de monsterneming, bedoeld in [artikel 14, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=3&artikel=14&z=2014-04-25&g=2014-04-25). Nadere voorschriften met betrekking tot deze monsterneming worden door de Minister bij ministeriële regeling vastgesteld.
 
 2. De voor de inrichting verantwoordelijke ondernemer stelt een bemonsteringsprogramma vast, op grond waarvan, ook zonder dat daartoe van elke geproduceerde partij systematisch monsters worden genomen:
 
@@ -289,7 +289,7 @@ De uitvoer van visserijproducten geschiedt uitsluitend, indien aan de navolgende
 
 ##### Artikel 23
 
-De Minister stelt in verband met de bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=5&artikel=22&z=2010-10-10&g=2010-10-10) gestelde voorwaarden bij ministeriële regeling nadere voorschriften vast met betrekking tot:
+De Minister stelt in verband met de bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028710&paragraaf=5&artikel=22&z=2014-04-25&g=2014-04-25) gestelde voorwaarden bij ministeriële regeling nadere voorschriften vast met betrekking tot:
 
 - a. de verpakking,
 
