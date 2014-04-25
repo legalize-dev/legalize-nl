@@ -4,7 +4,7 @@ identifier: "BWBR0023923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2013-08-29"
+last_updated: "2014-04-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023923"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ De Minister publiceert op het internet de gegevens die zijn opgenomen in verstre
 
 1. Voor een toegangsmiddel wordt een vergoeding voor drie jaar in rekening gebracht van:
 
-- a. 357 euro voor een pas.
+- a. 255 euro voor een pas.
 
 - b. 522 euro voor een certificaat.
 
