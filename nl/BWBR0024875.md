@@ -4,7 +4,7 @@ identifier: "BWBR0024875"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-04-30"
-last_updated: "2014-04-10"
+last_updated: "2014-04-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024875"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 16, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop artikel I, onderdeel A en onderdeel B, wat betreft artikel 16a en artikel 16b, van de Rijkswet houdende wijziging van de Rijkswet goedkeuring en bekendmaking verdragen in werking treedt.
+
 ##### Artikel 1
 
 1. Het Tractatenblad wordt uitgegeven op het internetadres www.officielebekendmakingen.nl.
@@ -68,7 +70,7 @@ Vervangende uitgifte als bedoeld in artikel 16a van de Rijkswet goedkeuring en b
 
 - a. door middel van publicatie op een door de Minister van Buitenlandse Zaken aan te wijzen vervangend internetadres,
 
-- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2012-01-19&g=2014-04-10) genoemde uitgiftepunt, of
+- b. door middels van een papieren uitgave te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024875&artikel=4&z=2014-04-30&g=2014-04-30) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Buitenlandse Zaken te bepalen wijze.
 
