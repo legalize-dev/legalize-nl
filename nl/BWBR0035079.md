@@ -4,7 +4,7 @@ identifier: "BWBR0035079"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-22"
-last_updated: "2014-04-01"
+last_updated: "2014-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035079"
 soort: "zbo"
@@ -158,13 +158,13 @@ De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 ##### Artikel 9
 
-1. De Raad van Bestuur benoemt de voorzitter, de plaatsvervangend voorzitter en de andere leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-04-01), benoemen.
+1. De Raad van Bestuur benoemt de voorzitter, de plaatsvervangend voorzitter en de andere leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-05-01), benoemen.
 
-2. Benoeming van commissieleden van de commissies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-04-01), geldt voor de duur van ten hoogste vier jaar. Na afloop van deze periode kan de Raad van Bestuur de leden steeds opnieuw voor ten hoogste vier jaar benoemen.
+2. Benoeming van commissieleden van de commissies, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-05-01), geldt voor de duur van ten hoogste vier jaar. Na afloop van deze periode kan de Raad van Bestuur de leden steeds opnieuw voor ten hoogste vier jaar benoemen.
 
-3. De leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-04-01), worden op basis van hun ervaring of deskundigheid benoemd.
+3. De leden van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-05-01), worden op basis van hun ervaring of deskundigheid benoemd.
 
-4. Een lid van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-04-01), kan tussentijds worden ontslagen.
+4. Een lid van een commissie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=8&z=2014-05-01&g=2014-05-01), kan tussentijds worden ontslagen.
 
 5. De voorzitter van de Raad van Bestuur kan, na overleg met de voorzitter van een commissie, een medewerker van de organisatie van het Zorginstituut als secretaris en plaatsvervangend secretaris van een commissie aanwijzen.
 
@@ -194,7 +194,7 @@ De voorzitter van de Raad van Bestuur voert overleg met de Ondernemingsraad.
 
 - b. het adviseren aan de Raad van Bestuur over de signalen die gevraagd en ongevraagd aan de Minister van Volksgezondheid, Welzijn en Sport worden gegeven over feitelijke ontwikkelingen inzake vernieuwingen en verbeteringen in de structuur van beroepen en opleidingen in de gezondheidszorg als bedoeld in [artikel 66f, tweede lid van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66f).
 
-5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=9&z=2014-05-01&g=2014-04-01) is van overeenkomstige toepassing op de Wetenschappelijke Adviesraad en de Adviescommissie Innovatie Zorgberoepen & Opleidingen.
+5. [Artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=5&artikel=9&z=2014-05-01&g=2014-05-01) is van overeenkomstige toepassing op de Wetenschappelijke Adviesraad en de Adviescommissie Innovatie Zorgberoepen & Opleidingen.
 
 ##### Artikel 11
 
@@ -226,7 +226,7 @@ Het Zorginstituut verleent de leden van commissies een vergoeding voor hun werkz
 
 ##### Artikel 14
 
-Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=12&z=2014-05-01&g=2014-04-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=13&z=2014-05-01&g=2014-04-01) onderhoudt de Raad van Bestuur, met het oog op een adequate uitvoering van zijn taken en bevoegdheden, contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de wettelijke zorgverzekeringen en de kwaliteit van zorg.
+Onverminderd [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=12&z=2014-05-01&g=2014-05-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&hoofdstuk=6&artikel=13&z=2014-05-01&g=2014-05-01) onderhoudt de Raad van Bestuur, met het oog op een adequate uitvoering van zijn taken en bevoegdheden, contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de wettelijke zorgverzekeringen en de kwaliteit van zorg.
 
 ### Hoofdstuk 7. Klachtenregeling en integriteit
 
@@ -254,7 +254,7 @@ In geval van onvoorziene omstandigheden waarin dit bestuursreglement niet voorzi
 
 ##### Artikel 19
 
-Het [Bestuursreglement College voor zorgverzekeringen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0033353&wetgeving) wordt ingetrokken.
+Het [Bestuursreglement College voor zorgverzekeringen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0033353) wordt ingetrokken.
 
 ##### Artikel 20
 
