@@ -4,7 +4,7 @@ identifier: "BWBR0009867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-03-01"
-last_updated: "2008-06-01"
+last_updated: "2014-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009867"
 soort: "AMvB"
@@ -68,9 +68,9 @@ In dit besluit wordt verstaan onder:
 
 1. De aanvraag om een vergunning wordt gedaan door de organisator van de activiteit voor de uitvoering waarvan een vergunning wordt aangevraagd.
 
-2. De aanvraag wordt in viervoud op een door Onze Ministers vast te stellen formulier ingediend.
+2. De aanvraag wordt op een door Onze Ministers vast te stellen formulier ingediend.
 
-3. Bij de aanvraag wordt een Engelse vertaling gevoegd.
+3. Bij de aanvraag wordt op een daartoe strekkend verzoek van onze Ministers een Engelse vertaling gevoegd.
 
 4. De bij de aanvraag behorende stukken worden door de aanvrager gekenmerkt als behorende tot de aanvraag.
 
@@ -100,7 +100,7 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 1°. namen, nationaliteiten en adressen van de aanvrager en de in verband met de uitvoering van de activiteit werkzame personen;
 
-- 2°. namen, nationaliteiten en adressen van de deelnemers aan de activiteit;
+- 2°. een voorlopige lijst met namen, nationaliteiten en adressen van de deelnemers aan de activiteit, die uiterlijk 48 uur voor aanvang van de activiteit wordt aangevuld met de definitieve gegevens;
 
 - 3°. gegevens met betrekking tot de deskundigheid van de organisator onderscheidenlijk de in verband met de uitvoering van de activiteit werkzame personen;
 
@@ -112,11 +112,11 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 3°. technieken, materialen, apparaten en installaties, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt, alsmede de wijze van energievoorziening daarvan;
 
-- 4°. gevaarlijke stoffen en preparaten, radio-actieve stoffen, niet-steriele aarde, chips, polystyrene bolletjes of daarmee naar zijn aard vergelijkbaar verpakkingsmateriaal en genetisch gemodificeerde organismen, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt;
+- 4°. gevaarlijke stoffen en preparaten, radio-actieve stoffen, chips, polystyrene bolletjes of daarmee naar zijn aard vergelijkbaar verpakkingsmateriaal en genetisch gemodificeerde organismen, die ten behoeve van de uitvoering van de activiteit worden meegenomen of gebruikt;
 
-- 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
+- 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dode dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
 
-- 6°. soort, aantallen, leeftijden en geslachten van planten en dieren die niet bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
+- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2014-05-01&g=2014-05-01) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
 
 - d. een nauwkeurige beschrijving van de nadelige gevolgen die de activiteit voor het Antarctisch milieu zal of kan veroorzaken, alsmede de aard en omvang van de te onderscheiden vormen van nadelige gevolgen, en de tijdseenheden waarbinnen deze zich kunnen voordoen, waaronder in ieder geval worden begrepen:
 
@@ -134,7 +134,11 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 3°. de cumulatieve effecten van de combinatie van de voorgenomen activiteit met andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn;
 
-- e. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om nadelige gevolgen voor het Antarctisch milieu, die de activiteit kan veroorzaken, zoveel mogelijk te voorkomen of te beperken;
+- e. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om nadelige gevolgen voor het Antarctisch milieu, die de activiteit kan veroorzaken, zoveel mogelijk te voorkomen of te beperken,
+
+- 1°. een beschrijving van de voorzorgsmaatregelen die worden getroffen om te voorkomen dat onbedoeld niet-steriele aarde en niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, gisten en schimmels binnen het Antarctisch gebied worden gebracht.
+
+- 2°. dit onderdeel is nog niet in werking getreden;
 
 - f. de nadelige invloeden die de activiteit kan hebben op andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn, alsmede de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om deze invloeden zoveel mogelijk te voorkomen of te beperken;
 
@@ -162,17 +166,19 @@ Indien de aanvraag mede betrekking heeft op het onttrekken van levende rijkdomme
 
 - d. het aantal exemplaren van levende rijkdommen ten aanzien waarvan die handelingen worden verricht en de onderbouwing van dit aantal;
 
-- e. de gevolgen die de bedoelde handelingen kunnen hebben op het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie en het natuurlijke ecosysteem ter plaatse.
+- e. de gevolgen die de bedoelde handelingen kunnen hebben op het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie en het natuurlijke ecosysteem ter plaatse;
+
+- f. indien letale technieken worden gebruikt, waarom geen geschikte alternatieve technieken bestaan.
 
 ##### Artikel 5
 
-Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied brengen van dieren of planten die behoren tot een soort, aangewezen in Aanhangsel B bij Bijlage II bij het Protocol, vermeldt de aanvrager in of bij de aanvraag tevens:
+Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied brengen van gecultiveerde planten en hun voortplantingscellen voor gecontroleerd gebruik en exemplaren van levende organismen voor gecontroleerd experimenteel gebruik, vermeldt de aanvrager in of bij de aanvraag tevens:
 
 - a. de voorzorgsmaatregelen die worden getroffen om ontsnapping of contact met de inheemse flora en fauna te voorkomen;
 
-- b. de voorzieningen die worden getroffen opdat deze dieren of planten vóór het verlopen van de vergunning uit het Antarctisch gebied worden verwijderd of worden verwijderd door verbranding in een emissie-arme verbrandingsoven of met behulp van even doeltreffende middelen, waardoor risico voor de inheemse flora en fauna wordt uitgesloten;
+- b. de voorzieningen die worden getroffen opdat deze planten of organismen vóór het verlopen van de vergunning uit het Antarctisch gebied worden verwijderd of worden verwijderd door verbranding in een emissie-arme verbrandingsoven of met behulp van even doeltreffende middelen, waardoor risico voor de inheemse flora en fauna wordt uitgesloten;
 
-- c. de voorzorgsmaatregelen die worden getroffen om het binnen het Antarctisch gebied brengen van niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, parasieten, gisten en zwammen, te voorkomen;
+- c. de voorzorgsmaatregelen die worden getroffen om het binnen het Antarctisch gebied brengen van niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, parasieten, gisten en schimmels, te voorkomen;
 
 - d. de gevolgen die de bedoelde handeling kan hebben op het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie en het natuurlijke ecosysteem ter plaatse.
 
@@ -186,7 +192,7 @@ Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied br
 
 - c. de voorzieningen die worden getroffen opdat de niet geconsumeerde delen van dieren en planten onder zorgvuldig gecontroleerde omstandigheden worden bewaard en uit het Antarctisch gebied worden verwijderd of worden verwijderd door verbranding in een emissie-arme verbrandingsoven of met behulp van even doeltreffende middelen, waardoor risico voor de inheemse flora en fauna wordt uitgesloten;
 
-- d. de voorzorgsmaatregelen die worden getroffen om het binnen het Antarctisch gebied brengen van niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, parasieten, gisten en zwammen, te voorkomen.
+- d. de voorzorgsmaatregelen die worden getroffen om het binnen het Antarctisch gebied brengen van niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, parasieten, gisten en schimmels, te voorkomen.
 
 ##### Artikel 7
 
@@ -198,7 +204,7 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
 
-- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2008-06-01&g=2008-06-01), met betrekking tot deze handelingen;
+- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2014-05-01&g=2014-05-01), met betrekking tot deze handelingen;
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
 
@@ -215,5 +221,13 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit bescherming Antarctica.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 4. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
