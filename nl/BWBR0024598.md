@@ -4,7 +4,7 @@ identifier: "BWBR0024598"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-05-02"
-last_updated: "2011-07-28"
+last_updated: "2014-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024598"
 soort: "ministeriele-regeling"
@@ -60,15 +60,15 @@ Tot lid van de klachtadviescommissie, bedoeld in [artikel 23, eerste lid, van de
 
 ##### Artikel 2. Secretariaat
 
-De Minister van Onderwijs, Cultuur en Wetenschap voegt aan de klachtadviescommissie een secretariaat toe. Het secretariaat wordt verzorgd door de Inspectie van het onderwijs.
+Vervallen
 
 ##### Artikel 3. Beheer archiefbescheiden
 
-[Artikel 6 van het Beheersreglement Documentaire informatieverzorging OCW](https://wetten.overheid.nl/jci1.3:c:BWBR0012238&artikel=6) is van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 4. Vergoeding
 
-Als vergoeding worden toegekend vacatiegeld en reiskosten op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) en de daarop gebaseerde voor het Ministerie van Onderwijs, Cultuur en Wetenschap geldende bepalingen, waarbij de klachtadviescommissie als zware commissie in de zin van de [Regeling maximumbedragen vacatiegeld](https://wetten.overheid.nl/jci1.3:c:BWBR0017556) (Stcrt. 2004, 231) wordt aangemerkt.
+Vervallen
 
 ##### Artikel 5. Inwerkingtreding
 
