@@ -4,7 +4,7 @@ identifier: "BWBR0032219"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2014-04-03"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032219"
 soort: "ministeriele-regeling"
@@ -74,17 +74,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3. Bevoegdheden [Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642)
 
-1. De in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), en [8a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8a) bedoelde bevoegdheid van de minister tot het afgeven van certificaten, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+1. De in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8), en [8a van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=8a) bedoelde bevoegdheid van de minister tot het afgeven van certificaten, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
-2. De in [artikel 34 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=34) bedoelde bevoegdheid van de minister tot het verlenen van ontheffing van het in [artikel 13 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13) genoemde verbod, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+2. De in [artikel 34 van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=34) bedoelde bevoegdheid van de minister tot het verlenen van ontheffing van het in [artikel 13 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=13) genoemde verbod, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
-3. De in [artikel 9, derde lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9) bedoelde bevoegdheid van de minister tot het intrekken van certificaten, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties .
+3. De in [artikel 9, derde lid, van de Wet voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0003642&artikel=9) bedoelde bevoegdheid van de minister tot het intrekken van certificaten, voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties .
 
 ##### Artikel 4. Bevoegdheden [Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378)
 
-1. De in [artikel 4, tweede lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=4) bedoelde bevoegdheid van de minister tot het afgeven van meetbrieven voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+1. De in [artikel 4, tweede lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=4) bedoelde bevoegdheid van de minister tot het afgeven van meetbrieven voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
-2. De in [artikel 9, eerste lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=9), bedoelde bevoegdheid van de minister tot het intrekken van de Internationale Meetbrief (1969), voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+2. De in [artikel 9, eerste lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=9), bedoelde bevoegdheid van de minister tot het intrekken van de Internationale Meetbrief (1969), voor zover nader omlijnd in de Appendix bij Annex I van de overeenkomsten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
 3. Ten aanzien van de door Register Holland BV te Enkhuizen, Nederland, geklasseerde zeeschepen en zeegaande pleziervaartuigen met een lengte van meer dan 24m, wordt de directeur van die organisatie:
 
@@ -92,15 +92,15 @@ In dit besluit wordt verstaan onder:
 
 - b. gemandateerd tot het uitoefenen van de in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=4), en [artikel 9, eerste lid, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=9), bedoelde bevoegdheid van de minister tot het afgeven, respectievelijk intrekken van meetbrieven.
 
-##### Artikel 5. Bevoegdheden [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) (Wet zeevarenden)
+##### Artikel 5. Bevoegdheden [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124)
 
-1. De in [artikel 48c, eerste en vijfde lid, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=48c) genoemde bevoegdheid van de minister tot het afgeven van certificaten wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+1. De in [artikel 48c, eerste en vijfde lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=48c) genoemde bevoegdheid van de minister tot het afgeven van certificaten wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
-2. De in [artikel 48e, tweede lid, van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=48e) genoemde bevoegdheid van de minister tot het intrekken van certificaten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03), genoemde functionarissen van erkende organisaties.
+2. De in [artikel 48e, tweede lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=48e) genoemde bevoegdheid van de minister tot het intrekken van certificaten, wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03), genoemde functionarissen van erkende organisaties.
 
 ##### Artikel 6. Omvang mandaat
 
-1. Voor de toepassing van dit besluit wordt met de verlening van mandaat als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=3&z=2014-04-03&g=2014-04-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=4&z=2014-04-03&g=2014-04-03) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=5&z=2014-04-03&g=2014-04-03) dan wel in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-04-03&g=2014-04-03)gelijkgesteld de verlening van machtiging om in naam van de minister onderscheidenlijk het Hoofd van de Scheepvaartinspectie handelingen te verrichten die noch een besluit noch een privaatrechtelijke handeling zijn.
+1. Voor de toepassing van dit besluit wordt met de verlening van mandaat als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=3&z=2014-05-03&g=2014-05-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=4&z=2014-05-03&g=2014-05-03) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=5&z=2014-05-03&g=2014-05-03) dan wel in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032219&artikel=2&z=2014-05-03&g=2014-05-03)gelijkgesteld de verlening van machtiging om in naam van de minister onderscheidenlijk het Hoofd van de Scheepvaartinspectie handelingen te verrichten die noch een besluit noch een privaatrechtelijke handeling zijn.
 
 2. De verlening van mandaat omvat niet mede de bevoegdheid tot het beslissen op bezwaar.
 
