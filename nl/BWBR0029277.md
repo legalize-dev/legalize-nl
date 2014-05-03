@@ -4,7 +4,7 @@ identifier: "BWBR0029277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2013-08-20"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029277"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat die belast zijn met toezicht:
+Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat die belast zijn met toezicht:
 
 - –. [artikel 45a, eerste lid, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45a);
 
@@ -64,7 +64,7 @@ Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna ge
 
 - –. [artikel 27, derde en vierde lid, van het Besluit voorkoming verontreiniging door schepen](https://wetten.overheid.nl/jci1.3:c:BWBR0020762&artikel=27);
 
-- –. [artikel 94, vijfde lid, van het Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=94);
+- –. [artikel 94, vijfde lid, van het Besluit zeevarenden handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778&artikel=94);
 
 - –. [artikel 50, vijfde lid, van het Besluit zeevisvaartbemanning](https://wetten.overheid.nl/jci1.3:c:BWBR0012790&artikel=50);
 
@@ -76,7 +76,7 @@ Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna ge
 
 ##### Artikel 2
 
-Als ambtenaar van de Inspectie Verkeer en Waterstaat als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Verkeer en Waterstaat die belast zijn met de opsporing van strafbare feiten:
+Als ambtenaar van de Inspectie Leefomgeving en Transport als bedoeld in de hierna genoemde artikelen, worden aangewezen de ambtenaren van de Inspectie Leefomgeving en Transport die belast zijn met de opsporing van strafbare feiten:
 
 - –. [artikel 31, onderdeel b, van de Meetbrievenwet 1981](https://wetten.overheid.nl/jci1.3:c:BWBR0003378&artikel=31);
 
@@ -90,7 +90,7 @@ Deze regeling treedt in werking met ingang van 31 december 2010. Indien de Staat
 
 ##### Artikel 4
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing toezichthoudende ambtenaren Inspectie Verkeer en Waterstaat op het domein scheepvaart.
+Deze regeling wordt aangehaald als: Regeling aanwijzing toezichthoudende ambtenaren Inspectie Leefomgeving en Transport op het domein scheepvaart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
