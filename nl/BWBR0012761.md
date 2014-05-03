@@ -4,7 +4,7 @@ identifier: "BWBR0012761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2013-01-01"
+last_updated: "2014-05-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012761"
 soort: "ministeriele-regeling"
@@ -42,22 +42,20 @@ Besluit:
 
 ##### Artikel 1
 
-Met het toezicht op de naleving van het bij of krachtens de Zeevaartbemanningswet bepaalde zijn belast:
+Met het toezicht op de naleving van het bij of krachtens de [Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124) bepaalde zijn belast:
 
-- a. de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de dienst Zeehavenpolitie van de regionale eenheid Rotterdam;
+- a. de ambtenaren van het Korps Nationale Politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij het district Zeehavenpolitie van de Regionale Eenheid Rotterdam;
 
-- b. de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de dienst Waterpolitie van de Landelijke eenheid;
+- b. de ambtenaren van het Korps Nationale Politie die zijn aangesteld voor de uitvoering van de politietaak en zijn tewerkgesteld bij de Dienst Infrastructuur van de Landelijke Eenheid; en
 
-- c. de ambtenaren van de Koninklijke marechaussee die belast zijn met de grensbewaking;
-
-- d. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane.
+- c. de ambtenaren van de Koninklijke Marechaussee.
 
 ##### Artikel 2
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 49 van de Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=49) in werking treedt.
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet zeevarenden.
 
 ##### Artikel 3
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Zeevaartbemanningswet.
+Vervallen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
