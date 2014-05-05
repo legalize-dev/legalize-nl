@@ -379,29 +379,3 @@ Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhor
 ### V. Verplichte bijlagen
 
 Bij uw aanvraag voegt u in elk geval de volgende bijlagen, die u nummert ten behoeve van een juiste verwijzing in de onderdelen waar daar om wordt gevraagd in dit aanvraagstramien.
-
-### Praktische aanwijzingen ten aanzien van de voorstellen
-
-### I. Algemene informatie
-
-**Algemene gegevens van de aanvrager en voorstel**
-
-### II. Drempelcriteria
-
-**Indien een voorstel niet aan één of meerdere criteria voldoet wordt deze afgewezen en niet verder beoordeeld. Deze criteria worden hieronder vermeld en indien nodig toegelicht.**
-
-U onderbouwt de cases met verwijzing naar evaluaties en/of impactstudies en/of ander materiaal. Iedere casus mag niet langer zijn dan **4.000** woorden (ongeveer 8 pagina’s).
-
-Daarnaast beschrijft u in maximaal **500** woorden:
-
-U noemt **3 referenten** waaronder in ieder geval
-
-Beschrijf in de ‘**Theory of Change’** welke sociale verandering u voor een bepaald thema wilt bewerkstelligen, op welke analyse u zich baseert en voor welke strategie u kiest.
-
-Een geografische focus is voor de **‘Theory of Change’** niet per se noodzakelijk. Indien geografische keuzes worden gemaakt geldt dat de **‘Theory of Change**’ zich bij voorkeur richt op de landen opgenomen in Annex 1 bij dit aanvraagstramien en op andere landen indien dat noodzakelijk is voor het behalen van het strategisch doel van het beleidskader, dat zich richt op de landen van Annex 1.
-
-### IV. Afsluiting: ondertekening
-
-**Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhorende bijlagen naar waarheid zijn ingevuld en bijgevoegd.**
-
-### V. Verplichte bijlagen
