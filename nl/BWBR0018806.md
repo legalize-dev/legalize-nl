@@ -4,7 +4,7 @@ identifier: "BWBR0018806"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-05-09"
-last_updated: "2005-10-01"
+last_updated: "2014-05-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018806"
 soort: "zbo"
@@ -50,7 +50,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- a. instelling: een instelling als bedoeld in [artikel 10, tweede lid, onder a tot en met h, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10);
+- a. instelling: een instelling als bedoeld in [artikel 10, tweede lid, van de Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10);
 
 - b. relatie: een ieder die betrokken is bij een financiële dienst of een financiële transactie;
 
@@ -70,7 +70,7 @@ Indien de instelling constateert dat de identiteit van een relatie overeenkomt m
 
 ##### Artikel 4
 
-De instelling bewaart de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018806&artikel=3&z=2005-10-01&g=2005-10-01) bedoelde meldingen alsmede de gegevens van rekeningen van, en transacties met de bij de meldingen betrokken relaties tot vijf jaar nadat de Sanctieregelgeving, waarin de desbetreffende (rechts)persoon of entiteit is genoemd, niet meer van kracht is of buiten werking is gesteld.
+De instelling bewaart de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018806&artikel=3&z=2014-05-09&g=2014-05-09) bedoelde meldingen alsmede de gegevens van rekeningen van, en transacties met de bij de meldingen betrokken relaties tot vijf jaar nadat de Sanctieregelgeving, waarin de desbetreffende (rechts)persoon of entiteit is genoemd, niet meer van kracht is of buiten werking is gesteld.
 
 ##### Artikel 5
 
