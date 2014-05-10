@@ -4,7 +4,7 @@ identifier: "BWBR0035095"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-11"
-last_updated: "2014-04-01"
+last_updated: "2014-05-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035095"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-Aan de functionarissen van het team Juridische Zaken, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage, wordt machtiging verleend voor de behandeling van beroepschriften over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035095&artikel=2&z=2014-05-10&g=2014-04-01) bedoelde besluiten en het voeren van verweer.
+Aan de functionarissen van het team Juridische Zaken, bedoeld in de bij het Organisatie- en mandaatbesluit Inspectie Leefomgeving en Transport 2012 behorende bijlage, wordt machtiging verleend voor de behandeling van beroepschriften over de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035095&artikel=2&z=2014-05-10&g=2014-05-10) bedoelde besluiten en het voeren van verweer.
 
 ##### Artikel 5
 
