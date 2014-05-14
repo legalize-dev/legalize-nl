@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - 1. Onze Minister op grond van een regeling als bedoeld in [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
-- 2. het College voor zorgverzekeringen op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68);
+- 2. het Zorginstituut op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68);
 
 - c. de vaccinatie ten behoeve van de preventie van influenza;
 
