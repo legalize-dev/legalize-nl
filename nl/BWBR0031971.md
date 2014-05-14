@@ -4,7 +4,7 @@ identifier: "BWBR0031971"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031971"
 soort: "AMvB"
@@ -72,9 +72,11 @@ De zorgautoriteit kan de beschikbaarheidbijdrage toekennen in de vorm van:
 
 - c. de-minimissteun als bedoeld in [Verordening (EG) nr. 1998/2006](32006R1998) van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L 379);
 
-- d. individuele steun als bedoeld in [Verordening (EG) nr. 800/2008](32008R0800) van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (PbEU L 214) niet zijnde ad-hoc steun, of
+- d. de-minimissteun verleend aan diensten van algemeen economisch belang verrichtende ondernemingen als bedoeld in Verordening (EU) nr. 360/2012 van de Commissie van 25 april 2012 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie (PbEU L 114);
 
-- e. steun anders dan bedoeld in de onderdelen a tot en met d.
+- e. individuele steun als bedoeld in [Verordening (EG) nr. 800/2008](32008R0800) van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (PbEU L 214) niet zijnde ad-hoc steun, of
+
+- f. steun anders dan bedoeld in de onderdelen a tot en met e.
 
 ##### Artikel 4
 
@@ -94,17 +96,7 @@ Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
 ##### Artikel 7
 
-1. De volgende subsidieregelingen worden ingetrokken:
-
-- a. [Subsidieregeling academische functie](https://wetten.overheid.nl/jci1.3:c:BWBR0023139);
-
-- b. dit onderdeel is nog niet in werking getreden;
-
-- c. [Subsidieregeling zorgopleidingen 1e tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0020873);
-
-- d. [Subsidieregeling zorgopleidingen 2e tranche](https://wetten.overheid.nl/jci1.3:c:BWBR0023026).
-
-2. De subsidieregelingen, genoemd in het eerste lid, blijven van toepassingen op de subsidies die voor de intrekking van die regelingen op basis van die regelingen zijn verleend.
+Vervallen
 
 ##### Artikel 8
 
@@ -114,14 +106,14 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Besluit beschikbaarheidbijdrage WMG.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2013-01-01&g=2014-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2013-01-01&g=2014-01-01) van het Besluit beschikbaarheidbijdrage WMG
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2014-05-14&g=2014-05-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14) van het Besluit beschikbaarheidbijdrage WMG
 
 ### Onderdeel A
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2013-01-01&g=2014-01-01), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
 
 ### Onderdeel B
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2013-01-01&g=2014-01-01), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
