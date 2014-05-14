@@ -4,7 +4,7 @@ identifier: "BWBR0022514"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-05-14"
-last_updated: "2006-01-01"
+last_updated: "2014-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022514"
 soort: "AMvB"
@@ -52,7 +52,7 @@ Wijzigt het Besluit zorgverzekering.
 
 ##### Artikel II
 
-In afwijking van [artikel 3.18, tweede lid, onderdeel c, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18) verstrekt het College voor zorgverzekeringen voor de kalenderjaren 2006 en 2007 slechts de in dat artikel bedoelde bijdrage indien de zorgverzekering tot 1 januari 2008 niet door de zorgverzekeraar is opgezegd of ontbonden, noch de dekking ervan is geschorst of beperkt.
+In afwijking van [artikel 3.18, tweede lid, onderdeel c, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.18) verstrekt het Zorginstituut voor de kalenderjaren 2006 en 2007 slechts de in dat artikel bedoelde bijdrage indien de zorgverzekering tot 1 januari 2008 niet door de zorgverzekeraar is opgezegd of ontbonden, noch de dekking ervan is geschorst of beperkt.
 
 ##### Artikel III
 
