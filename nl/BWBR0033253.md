@@ -4,7 +4,7 @@ identifier: "BWBR0033253"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-05-15"
-last_updated: "2013-04-01"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033253"
 soort: "zbo"
@@ -64,9 +64,11 @@ Bij de beoordeling van een vervolgaanvraag voor mobiele nummers betrekt de Autor
 
 ##### Artikel 4
 
-1. De Autoriteit Consument en Markt kent mobiele nummers toe in blokken van een veelvoud van 100.000 nummers, ongeacht welke aanbieder naastgelegen nummerblokken toegekend heeft gekregen.
+1. ACM kent mobiele nummers toe in blokken van een veelvoud van minimaal 10.000 nummers, ongeacht welke aanbieder naastgelegen nummerblokken toegekend heeft gekregen.
 
-2. Bij de toekenning bedoeld in het eerste lid concentreert de Autoriteit Consument en Markt de toegekende blokken van 100.000 nummers in zo min mogelijk blokken van 1.000.000 nummers.
+2. Bij de toekenning bedoeld in het eerste lid concentreert ACM de toegekende blokken van 10.000 nummers in zo min mogelijk blokken van 100.000 nummers.
+
+3. Bij de toekenning bedoeld in het eerste lid concentreert ACM de toegekende blokken van 100.000 nummers in zo min mogelijk blokken van 1.000.000 nummers.
 
 ##### Artikel 5
 
@@ -75,6 +77,8 @@ De cijfers en de lengte van de MGT van nummerhouders die een eigen MGT gebruiken
 - a. voor nummerhouders aan wie ten minste een aaneengesloten blok met een grootte van 1.000.000 nummers toegekend is, is een 5-cijferige MGT toegestaan
 
 - b. nummerhouders met een toegekend aantal van minder dan 1.000.000 nummers dienen een 6-cijferige MGT dienen te gebruiken.
+
+- c. nummerhouders met een toegekend aantal in een veelvoud van 10.000 nummers dienen een 7-cijferige MGT te gebruiken.
 
 #### § 3. Overgangsbepaling
 
@@ -98,6 +102,6 @@ Deze beleidsregels treden in werking met ingang van de dag na publicatie in de N
 
 ##### Artikel 10
 
-Deze beleidsregels worden aangehaald als Uitgiftebeleid mobiele nummers OPTA 2011.
+Deze beleidsregels worden aangehaald als Uitgiftebeleid mobiele nummers ACM.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
