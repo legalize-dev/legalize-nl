@@ -4,7 +4,7 @@ identifier: "BWBR0022543"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-14"
-last_updated: "2014-01-01"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022543"
 soort: "ministeriele-regeling"
@@ -68,9 +68,9 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ##### Artikel 4
 
-1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2014-01-01&g=2014-01-01) bij deze regeling.
+1. Het aantal grootvee-eenheden, bedoeld in artikel 15 van verordening (EG) 889/2008, wordt vastgesteld door 170 kg stikstof per jaar per hectare te delen door de omvang van de mestproductie per dier van de desbetreffende diercategorie per jaar uitgedrukt in kilogrammen stikstof, zoals opgenomen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2014-05-15&g=2014-05-15) bij deze regeling.
 
-2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2014-01-01&g=2014-01-01) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
+2. Ingeval de desbetreffende diercategorie in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=I&z=2014-05-15&g=2014-05-15) ontbreekt, is [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D) van toepassing.
 
 ##### Artikel 5
 
@@ -202,7 +202,7 @@ Vervallen
 
 ##### Artikel 23
 
-Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2014-01-01&g=2014-01-01) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
+Onder bloembollen wordt verstaan: bollen, knollen, wortelstokken en andere voor vermeerdering of bloemproductie bestemde plantendelen van de in de [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&bijlage=II&z=2014-05-15&g=2014-05-15) bij deze regeling onder I genoemde gewassen, voor zover zij behoren tot de daarachter onder II vermelde botanische families, geslachten of soorten.
 
 ##### Artikel 24
 
@@ -234,7 +234,7 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 ##### Artikel 27
 
-De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2014-01-01&g=2014-01-01), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
+De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=4&artikel=17&z=2014-05-15&g=2014-05-15), worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
 ##### Artikel 28
 
@@ -1484,7 +1484,7 @@ Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor 
 | Fluorverbindingen | Alleen voor de reiniging van glas in lege kassen |
 | Middelen die door de Plantenziektekundige Dienst zijn verplicht voor de reiniging van productielocaties in geval van besmetting met quarantaineorganismen |   |
 
-## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2014-01-01&g=2014-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage I. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=4&z=2014-05-15&g=2014-05-15) van de Landbouwkwaliteitsregeling 2007
 
 **Omvang van de mestproductie voor de onderscheiden diercategorieën, uitgedrukt in kilogrammen stikstof per dier per jaar als bedoeld in artikel 4**
 
@@ -1565,7 +1565,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7b
 
-In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.
+1. Tot en met 31 december 2015 is in bedrijven met ten hoogste vijftig runderen het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.
+
+2. Vanaf 1 januari 2016 is in bedrijven met ten hoogste tien runderen het aanbinden van deze dieren toegestaan indien ze niet in aan hun gedrag aangepaste groepen kunnen worden gehouden en indien voldaan is aan de voorwaarden, bedoeld in artikel 39 van verordening (EG) 889/2008.
 
 ### Hoofdstuk 2. Het in de handel brengen van groenten en fruit
 
@@ -1579,7 +1581,7 @@ In bedrijven met ten hoogste tien runderen is het aanbinden van deze dieren toeg
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2014-01-01&g=2014-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage II. als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=6&artikel=23&z=2014-05-15&g=2014-05-15) van de Landbouwkwaliteitsregeling 2007
 
 | I | II |
 | --- | --- |
@@ -1982,7 +1984,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=11), bekend op haar website.
 
-## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2014-01-01&g=2014-01-01) van de Landbouwkwaliteitsregeling 2007
+## Bijlage III. als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=1&artikel=8a&z=2014-05-15&g=2014-05-15) van de Landbouwkwaliteitsregeling 2007
 
 Producten voor de reiniging en de ontsmetting van gebouwen en installaties voor de plantaardige productie:
 
