@@ -153,31 +153,3 @@ Dit besluit wordt aangehaald als: Beleidsregel vergunningen voor geregeld en ong
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het geplaatst wordt.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 9a
-
-1. Voor de toepassing van dit artikel wordt verstaan onder:
-
-- **COVID-19:** de ziekte die wordt veroorzaakt door het virus SARS-CoV-2.
-
-2. In afwijking van [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-04-15&g=2020-04-15), [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=8&z=2020-04-15&g=2020-04-15), en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=9&z=2020-04-15&g=2020-04-15), kan tijdelijk vergunning worden verleend voor ongeregeld vervoer van passagiers en vracht, voor zover dat vervoer noodzakelijk is voor:
-
-- a. de repatriëring van personen waarvoor naar aanleiding van de COVID-19 uitbraak op grond van Nederlandse regelgeving en EU-besluitvorming vergunning is verleend;
-
-- b. vervoer van vitale beroepsgroepen, waaronder medici;
-
-- c. vervoer van medische en andere cruciale goederen, waarbij deze goederen een substantieel deel van de vervoerde vracht uitmaken.
-
-3. De vergunning als bedoeld in het tweede lid kan worden verleend aan:
-
-- a. EU-luchtvaartmaatschappijen;
-
-- b. niet EU-luchtvaartmaatschappijen.
-
-4. In afwijking van [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035117&paragraaf=2&artikel=7&z=2020-04-15&g=2020-04-15), en met inachtneming van de complexiteit van de aanvraag kan een aanvraag voor een vergunning als bedoeld in het tweede lid, tot uiterlijk een dag voor de uitvoer van het vervoer worden gedaan en afgehandeld.
-
-5. De vergunning als bedoeld in het tweede lid wordt voor ten hoogste vier weken verleend met de mogelijkheid tot verlenging.
-
-6. Dit artikel geldt tot en met 15 mei 2020, tenzij de Minister gelet op de ontwikkelingen rond COVID-19 voor dat tijdstip tot verlenging heeft besloten.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
