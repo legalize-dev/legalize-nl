@@ -4,7 +4,7 @@ identifier: "BWBR0033898"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-05-15"
-last_updated: "2013-09-25"
+last_updated: "2014-05-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033898"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aanvragen op grond van de [Regeling cofinanciering sectorplannen](https://wetten
 
 ##### Artikel 2. Subsidieplafond
 
-Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033898&artikel=1&z=2013-09-25&g=2013-09-25), bedraagt 200 miljoen EUR.
+Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033898&artikel=1&z=2014-05-15&g=2014-05-15), bedraagt 260 miljoen EUR.
 
 ##### Artikel 3. Inwerkingtreding
 
