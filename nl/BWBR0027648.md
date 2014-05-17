@@ -4,7 +4,7 @@ identifier: "BWBR0027648"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-16"
-last_updated: "2013-05-02"
+last_updated: "2014-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027648"
 soort: "ministeriele-regeling"
@@ -48,23 +48,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met de artikelen 2, 3, 6, en 12, eerste lid, van Verordening (EU) nr. 1284/2009 van de Raad van de Europese Unie van 22 december 2009 tot vaststelling van bepaalde specifieke beperkende maatregelen ten aanzien van de Republiek Guinee (Pb EG L 346).
+1. Het is verboden te handelen in strijd met artikel 6 en artikel 12, eerste lid, van Verordening (EU) nr. 1284/2009 van de Raad van de Europese Unie van 22 december 2009 tot vaststelling van bepaalde specifieke beperkende maatregelen ten aanzien van de Republiek Guinee (Pb EG L 346).
 
-2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 4, 5, 8, 9 of 10 van Verordening (EU) nr. 1284/2009 van toepassing is.
+2. Een verbod, bedoeld in het eerste lid, geldt niet indien artikel 9 of 10 van Verordening (EU) nr. 1284/2009 van toepassing is.
 
 ##### Artikel 2
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030610), dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Guinee, ongeacht of de goederen afkomstig zijn uit de lidstaten van de Europese Unie.
-
-2. Het eerste lid is niet van toepassing op de verkoop, de levering, overdracht of uitvoer, met vooraf verleende ontheffing van de minister van Economische Zaken, Landbouw en Innovatie, van niet-dodelijke militaire uitrusting die uitsluitend is bedoeld voor humanitair of beschermend gebruik of voor programma’s voor institutionele opbouw van de Verenigde Naties, de Europese Unie en de Gemeenschap, of voor materieel dat bedoeld is voor crisisbeheersingsoperaties van de Europese Unie en de Verenigde Naties.
-
-3. Het eerste lid is niet van toepassing voor voertuigen, niet zijnde gevechtsvoertuigen, die zijn gemaakt van of uitgerust met materiaal dat bescherming biedt tegen kogels en die uitsluitend bestemd zijn voor de bescherming van personeel van de Europese Unie en haar lidstaten in de Republiek Guinee en met vooraf verleende ontheffing van de minister van Economische Zaken, Landbouw en Innovatie.
-
-4. Het eerste lid is niet van toepassing op de tijdelijke uitvoer van beschermende kleding voor persoonlijk gebruik, met inbegrip van kogelvrije vesten en militaire helmen, door personeel van de Verenigde Naties, personeel van de Europese Unie of haar lidstaten, vertegenwoordigers van de media, medewerkers van humanitaire en ontwikkelingsorganisaties en daarmee verbonden personeel.
-
-5. Het eerste lid is niet van toepassing op de teruggave van transporthelikopters, niet zijnde gevechtshelikopter, ontdaan van militaire uitrusting en uitsluitend voor gebruik door de Guineese autoriteiten, mits de regering van Guinee vooraf schriftelijk akkoord gaat met de voorwaarden dat die helikopters niet worden uitgerust met militaire apparatuur en dat het gebruik van die helikopters onder civiele controle blijft.
-
-6. Het eerste lid is niet van toepassing op de verkoop, de levering, overdracht of uitvoer van explosieven en daaraan gerelateerde uitrusting, uitsluitend bestemd voor civiel gebruik in de mijnbouw en bij infrastructuurinvesteringen, mits de opslag en het gebruik van de explosieven en de uitrusting gecontroleerd en geverifieerd worden door een onafhankelijk orgaan.
+Vervallen
 
 ##### Artikel 3
 
