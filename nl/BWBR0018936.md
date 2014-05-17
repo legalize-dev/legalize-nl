@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2013-05-02"
+last_updated: "2014-05-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -70,7 +70,9 @@ Besluit:
 
 - b. beschermende kledingstukken, waaronder scherfwerende vesten en militaire helmen, die door VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel louter voor hun eigen bescherming tijdelijk naar de Democratische Republiek Congo worden uitgevoerd;
 
-- c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is.
+- c. niet-dodelijke militaire uitrusting die uitsluitend voor humanitaire of beschermende doeleinden bestemd is;
+
+- d. militaire goederen of militaire technologie uitsluitend bestemd ter ondersteuning van of voor gebruik door de regionale taskforce van de Afrikaanse Unie.
 
 3. Het verkopen, leveren, overdragen of uitvoeren van militaire goederen, militaire technologie of onderdelen daarvan op grond van het tweede lid is onderworpen aan een door de bevoegde autoriteiten vooraf te verlenen vergunning.
 
