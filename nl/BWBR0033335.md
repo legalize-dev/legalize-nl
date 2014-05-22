@@ -4,7 +4,7 @@ identifier: "BWBR0033335"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-05-01"
+last_updated: "2014-05-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033335"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2025-04-01"
 Gelet op de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=11), en [27, tweede lid, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=27);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop de Wet financiering politieke partijen in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -78,7 +80,7 @@ De accountant wijst de politieke partij op onjuistheden in het verslag en de ove
 
 ##### Artikel 5
 
-Voor de accountantsverklaring gebruikt de accountant het daartoe door de Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde model.
+Voor de accountantsverklaring gebruikt de accountant de modellen die in de bijlage bij deze regeling zijn opgenomen.
 
 #### § 3. Inrichting van het activiteitenplan en de begroting
 
@@ -101,5 +103,93 @@ Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.o
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling financiering politieke partijen.
+
+Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
+
+## Bijlage. bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033335&paragraaf=2&artikel=5&z=2014-05-22&g=2014-05-22) van de Regeling financiering politieke partijen
+
+### Model I: Goedkeurende controleverklaring voor een partij die subsidie ontvangt
+
+CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+
+Aan: het bestuur van: [**naam partij**]
+
+### Verklaring betreffende het financieel verslag en de overzichten
+
+Wij hebben het financieel verslag en de overzichten 20XX van [**naam partij**] te ... gecontroleerd. Overeenkomstig [artikel 25, eerste lid onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=25), en [artikel 26, onder c tot en met e, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=26) bestaat de gecontroleerde (financiële) informatie uit:
+
+### Verantwoordelijkheid van het bestuur
+
+Het bestuur van [**naam partij**] is verantwoordelijk voor het opmaken van het financieel verslag en de overzichten in overeenstemming met de [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004). Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van het financieel verslag en de overzichten mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
+
+### Verantwoordelijkheid van de accountant
+
+Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag en de overzichten op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden alsmede de Regeling financiering politieke partijen. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag en de overzichten geen afwijkingen van materieel belang bevat.
+
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag en de overzichten. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico's dat het financieel verslag en de overzichten een afwijking van materieel belang bevat als gevolg van fraude of fouten.
+
+Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van het financieel verslag en de overzichten en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden.
+
+Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de politieke partij. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door het bestuur van de politieke partij gemaakte schattingen, alsmede een evaluatie van het algehele beeld van het financieel verslag.
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
+
+### Oordeel betreffende het financieel verslag en de overzichten
+
+Naar ons oordeel geven:
+
+Tevens zijn wij van oordeel dat de bij het financieel verslag 20XX gevoegde opgave omtrent het ledental van de politieke partij en, indien van toepassing, van de aangewezen politieke jongerenorganisatie, conform [artikel 26, onder d van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=26), juist is.
+
+### Verklaring betreffende overige bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033004) gestelde eisen
+
+Wij zijn van oordeel dat de partij de aan de subsidie verbonden verplichtingen heeft nageleefd en het financieel verslag en de overzichten voldoen aan de bij of krachtens de [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004) gestelde voorschriften.
+
+Tevens melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met het financieel verslag.
+
+**Ondertekening**
+
+**Plaats en datum**
+
+... [**naam accountantspraktijk**]
+
+... [**naam accountant**]
+
+### Model II: goedkeurende controleverklaring voor een partij die geen subsidie ontvangt
+
+CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT
+
+Aan: het bestuur van: [**naam partij**]
+
+### Verklaring betreffende het financieel verslag en de overzichten
+
+Wij hebben het financieel verslag en de overzichten 20XX van [**naam partij**] te ...gecontroleerd. Overeenkomstig [artikel 25, eerste lid onder a tot en met c, van de Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004&artikel=25) bestaat de gecontroleerde (financiële) informatie uit:
+
+### Verantwoordelijkheid van het bestuur
+
+Het bestuur van [**naam partij**] is verantwoordelijk voor het opmaken van het financieel verslag en de overzichten in overeenstemming met de [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004). Het bestuur is tevens verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van het financieel verslag en de overzichten mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten.
+
+### Verantwoordelijkheid van de accountant
+
+Onze verantwoordelijkheid is het geven van een oordeel over het financieel verslag en de overzichten op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden alsmede de Regeling financiering politieke partijen. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat het financieel verslag en de overzichten geen afwijkingen van materieel belang bevat.
+
+Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in het financieel verslag en de overzichten. De geselecteerde werkzaamheden zijn afhankelijk van de door de accountant toegepaste oordeelsvorming, met inbegrip van het inschatten van de risico's dat het financieel verslag en de overzichten een afwijking van materieel belang bevat als gevolg van fraude of fouten.
+
+Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van het financieel verslag en de overzichten en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden.
+
+Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van de politieke partij. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door het bestuur van de politieke partij gemaakte schattingen, alsmede een evaluatie van het algehele beeld van het financieel verslag.
+
+Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
+
+### Oordeel betreffende het financieel verslag en de overzichten
+
+Naar ons oordeel geven:
+
+**Ondertekening**
+
+**Plaats en datum**
+
+... [**naam accountantspraktijk**]
+
+... [**naam accountant**]
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
