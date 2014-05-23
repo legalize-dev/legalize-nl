@@ -4,7 +4,7 @@ identifier: "BWBR0038973"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038973"
 soort: "ministeriele-regeling"
@@ -123,8 +123,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
