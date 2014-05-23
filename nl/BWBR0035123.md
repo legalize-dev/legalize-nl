@@ -4,7 +4,7 @@ identifier: "BWBR0035123"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-05-23"
-last_updated: "2014-01-01"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035123"
 soort: "ministeriele-regeling"
@@ -62,9 +62,9 @@ In deze regeling wordt verstaan onder:
 
 - e. **klacht:** een schriftelijke klacht over ongewenste omgangsvormen;
 
-- f. **vertrouwenspersoon:** de vertrouwenspersoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=1&artikel=2&z=2014-05-23&g=2014-01-01);
+- f. **vertrouwenspersoon:** de vertrouwenspersoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=1&artikel=2&z=2014-05-23&g=2014-05-23);
 
-- g. **klachtencommissie:** de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=2&artikel=5&z=2014-05-23&g=2014-01-01);
+- g. **klachtencommissie:** de commissie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035123&paragraaf=2&artikel=5&z=2014-05-23&g=2014-05-23);
 
 - h. **melder:** de ambtenaar of de gewezen ambtenaar die zich in verband met een vermoeden van een misstand, in verband met ongewenste omgangsvormen of in verband met een jegens hem ingesteld intern onderzoek tot de vertrouwenspersoon heeft gewend;
 
