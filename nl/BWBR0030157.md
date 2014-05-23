@@ -4,7 +4,7 @@ identifier: "BWBR0030157"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-05-23"
-last_updated: "2011-07-01"
+last_updated: "2014-05-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030157"
 soort: "AMvB"
@@ -52,10 +52,8 @@ Wijzigt het Besluit justitiële gegevens.
 
 ##### Artikel II
 
-A. Onze Minister zendt binnen twee jaar na de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030157&artikel=I&z=2011-07-01&g=2011-07-01), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit onderdeel in de praktijk.
+A. Onze Minister zendt binnen twee jaar na de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030157&artikel=I&z=2014-05-23&g=2014-05-23), aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit onderdeel in de praktijk.
 
 B. Dit besluit treedt in werking op 1 juli 2011.
-
-C. [Artikel 11a van het Besluit justitiële gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=11a) vervalt per 1 juli 2014, tenzij bij algemene maatregel van bestuur anders wordt bepaald.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
