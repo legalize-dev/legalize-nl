@@ -4,7 +4,7 @@ identifier: "BWBR0035135"
 country: "nl"
 rank: "pbo"
 publication_date: "2014-05-25"
-last_updated: "2013-05-01"
+last_updated: "2014-05-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035135"
 soort: "pbo"
@@ -64,15 +64,15 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die bloembollen teelt is over het oogstjaar een algemene heffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=3&artikel=4&z=2014-05-25&g=2013-05-01) vermelde heffingsgrondslag met bijbehorende tarieven.
+1. De ondernemer die bloembollen teelt is over het oogstjaar een algemene heffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=3&artikel=4&z=2014-05-25&g=2014-05-25) vermelde heffingsgrondslag met bijbehorende tarieven.
 
 2. In geval van contractteelt waarbij de contractgever eigenaar is van de bloembollen die door de contractnemer worden geteeld, wordt de contractgever aangemerkt als de ondernemer die bloembollen teelt als bedoeld in het eerste lid.
 
-3. De heffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=4&artikel=5&z=2014-05-25&g=2013-05-01) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+3. De heffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=4&artikel=5&z=2014-05-25&g=2014-05-25) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 ##### Artikel 3
 
-Voor het vaststellen van de heffing op de grondslag van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=3&artikel=4&z=2014-05-25&g=2013-05-01), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2013-05-01), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
+Voor het vaststellen van de heffing op de grondslag van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=3&artikel=4&z=2014-05-25&g=2014-05-25), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2014-05-25), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
 
 #### § 3. Grondslag en hoogte
 
@@ -90,7 +90,7 @@ Voor het vaststellen van de heffing op de grondslag van [artikel 4, eerste lid](
 
 - c. om niet in gebruik is ontvangen, of
 
-- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2013-05-01).
+- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2014-05-25).
 
 4. De heffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per bloembolgewas, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor:
 
@@ -115,11 +115,11 @@ Voor het vaststellen van de heffing op de grondslag van [artikel 4, eerste lid](
 
 1. De krachtens deze verordening verschuldigde heffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd in of na afloop van het oogstjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer.
 
-2. Indien geen opgave als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=3&z=2014-05-25&g=2013-05-01) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen opgave als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=3&z=2014-05-25&g=2014-05-25) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de door de ondernemer verstrekte gegevens of een ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid dan wel in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2013-05-01), bedoelde geval, dan kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld en opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de door de ondernemer verstrekte gegevens of een ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid dan wel in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035135&paragraaf=2&artikel=2&z=2014-05-25&g=2014-05-25), bedoelde geval, dan kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld en opgelegd.
 
 ##### Artikel 7
 
