@@ -4,7 +4,7 @@ identifier: "BWBR0020781"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2006-01-01"
+last_updated: "2014-05-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020781"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-De voorzitter van het bestuur van ZorgOnderzoek Nederland ontvangt een vaste vergoeding. De vergoeding wordt vastgesteld op maximaal de bezoldiging van een lid van de topmanagementgroep van een departement van algemeen bestuur als bedoeld in [Bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A). De deeltijdfactor wordt vastgesteld op 0,2.
+De voorzitter van het bestuur van ZorgOnderzoek Nederland ontvangt een vaste vergoeding. De vergoeding wordt vastgesteld op maximaal de bezoldiging van een lid van de topmanagementgroep van een departement van algemeen bestuur als bedoeld in [Bijlage A van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=A). De deeltijdfactor wordt vastgesteld op 0,4.
 
 ##### Artikel 2
 
