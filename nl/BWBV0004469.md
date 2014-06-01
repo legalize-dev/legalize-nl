@@ -4,7 +4,7 @@ identifier: "BWBV0004469"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-06-01"
-last_updated: "1978-11-01"
+last_updated: "2014-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004469"
 soort: "verdrag"
@@ -48,70 +48,40 @@ Hebben tot dat doel besloten een Protocol te sluiten en zijn de volgende bepalin
 
 ##### Artikel 1. Definities
 
-In dit Protocol wordt verstaan onder:
-
-- a). [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547): het Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van de personen in dienst van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 29 april 1969;
-
-- b). Raad van Bestuur: de Raad van Bestuur, bedoeld in artikel 3 van het Benelux-Verdrag inzake de warenmerken, ondertekend te Brussel op 19 maart 1962 en de Raad van Bestuur, bedoeld in artikel 3 van het Benelux-Verdrag inzake tekeningen of modellen, ondertekend te Brussel op 25 oktober 1966, of, naar gelang van de belangen die in het geding zijn, één van deze raden;
-
-- c). Bureau: het Benelux-Merkenbureau en het Benelux-Bureau voor tekeningen of modellen, ingesteld door de onder b) bedoelde Verdragen, of één van deze bureaus;
-
-- d). Directeur: de Directeur van het Bureau;
-
-- e). Adjunct-Directeur: de Adjunct-Directeur van het Bureau.
+Vervallen
 
 ### Rechtsbescherming
 
 ##### Artikel 2
 
-Onder voorbehoud van de bijzondere bepalingen van de artikelen 3 – 5 van dit Protocol zijn de bepalingen van het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547) van toepassing ten aanzien van de personen in dienst van het Bureau.
+Vervallen
 
 ##### Artikel 3
 
-Voor de toepassing van het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547) op de personen in dienst van het Bureau:
-
-- § 1.
-
-- a. worden de Directeur en de gewezen Directeuren gelijkgesteld met de personen, waarop [artikel 3 onder a.](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3) van toepassing is, onverminderd het bepaalde in artikel 4 van dit Protocol;
-
-- b. worden andere personen dan onder a. bedoelde, die in dienst van het Bureau zijn of zijn geweest, gelijkgesteld met de personen, waarop [artikel 3 onder b.](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3) van toepassing is;
-
-- c. worden de weduwen en wezen van de onder a. en b. bedoelde personen gelijkgesteld met de personen, waarop [artikel 3 onder c.](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3) van toepassing is;
-
-- § 2.
-
-- a. treedt de Raad van Bestuur in de plaats van het Comité van Ministers, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=8) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=10);
-
-- b. treedt de Voorzitter van de Raad van Bestuur in de plaats van het Comité van Ministers, genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=14);
-
-- c. treden de Raad van Bestuur en de Directeur in de plaats van de organen van de Unie, bedoeld in [artikelen 3 onder b.](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3) en 3 onder c.;
-
-- d. treedt het Bureau in de plaats van de Unie en de instellingen van de Unie, genoemd in de [artikelen 3 onder b.](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=15), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=19), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=24) en [29](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=29);
-
-- e. treden de Directeur en de Adjunct-Directeur in de plaats van de Secretaris-Generaal en de Adjunct-Secretaris-Generaal, genoemd in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=15) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=35).
+Vervallen
 
 ##### Artikel 4
 
-De in [artikel 2 van het Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=2) bedoelde Kamer neemt eveneens kennis van het beroep, ingesteld door de Directeur tegen niet in [artikel 3 onder a. van het Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=3) bedoelde besluiten van de Raad van Bestuur met betrekking tot schorsingen, op non-activiteitstelling en definitieve beëindiging van de ambtsvervulling. In die gevallen en in afwijking van [artikel 29 van het Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547&artikel=29) kan de Kamer aan de verzoeker ten laste van het Bureau slechts een naar billijkheid te bepalen vergoeding toekennen voor geleden nadeel.
+Vervallen
 
 ##### Artikel 5
 
-De Raad van Bestuur kan een Adjunct-Directeur benoemen. De Raad kan beslissen, dat de Adjunct-Directeur en de gewezen Adjunct-Directeuren voor de toepassing van artikel 3 van dit Protocol worden geacht te behoren tot de onder § 1. a. van dat artikel bedoelde personen.
+Vervallen
 
 ### Slotbepalingen
 
 ##### Artikel 6
 
-Dit Protocol maakt een integrerend bestanddeel uit van het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004547).
+Vervallen
 
 ##### Artikel 7
 
-1. Dit Protocol zal worden bekrachtigd en de akten van bekrachtiging zullen worden neergelegd bij de Secretaris-Generaal van de Benelux Economische Unie, die de Overeenkomstsluitende Partijen kennis geeft van de neerlegging van die akten.
-
-2. Het Protocol treedt in werking op de eerste dag van de tweede maand, volgende op de datum van neerlegging van de derde akte van bekrachtiging.
-
-3. De Secretaris-Generaal van de Benelux Economische Unie geeft de Raad van Bestuur kennis van de datum van inwerkingtreding van dit Protocol.
+Vervallen
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend.
 
 GEDAAN te Brussel, op 11 mei 1974, in drievoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
+
+### Rechtsbescherming
+
+### Slotbepalingen
