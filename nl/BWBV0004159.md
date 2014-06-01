@@ -4,7 +4,7 @@ identifier: "BWBV0004159"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-06-01"
-last_updated: "2010-05-10"
+last_updated: "2014-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004159"
 soort: "verdrag"
@@ -286,7 +286,7 @@ De partijen werken samen en wisselen standpunten uit in regionale en internation
 
 1. De partijen werken samen teneinde, tot hun wederzijds voordeel, de voorwaarden te scheppen voor duurzame toename en ontwikkeling van hun onderlinge handel en investeringen en deze te stimuleren. De partijen gaan een dialoog aan en versterken hun samenwerking op alle met handel en investeringen samenhangende gebieden van wederzijds belang, teneinde duurzame handels- en investeringsstromen te bevorderen, belemmeringen voor handel en investeringen te voorkomen en weg te nemen en het multilaterale handelsstelsel te bevorderen.
 
-2. De samenwerking tussen de partijen op het gebied van handel en investeringen wordt verwezenlijkt door middel van de vrijhandelsovereenkomst. De vrijhandelsovereenkomst vormt een specifieke overeenkomst die uitvoering geeft aan de handelsbepalingen van deze overeenkomst, zoals bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=43&z=2010-05-10&g=2010-05-10).
+2. De samenwerking tussen de partijen op het gebied van handel en investeringen wordt verwezenlijkt door middel van de vrijhandelsovereenkomst. De vrijhandelsovereenkomst vormt een specifieke overeenkomst die uitvoering geeft aan de handelsbepalingen van deze overeenkomst, zoals bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=43&z=2014-06-01&g=2014-06-01).
 
 3. De partijen houden elkaar op de hoogte van en wisselen inzichten uit over de ontwikkeling van de bilaterale en internationale handel, investeringen en daarmee samenhangende beleidsterreinen en aangelegenheden.
 
@@ -586,7 +586,7 @@ Bij hun samenwerking op het gebied van justitie, vrijheid en veiligheid hechten 
 
 2. De partijen komen overeen arbitrale beslechting van civiele en particuliere handelsgeschillen waar mogelijk te faciliteren en aan te moedigen, overeenkomstig de toepasselijke internationale instrumenten.
 
-3. Wat de justitiële samenwerking in strafzaken betreft, streven de partijen naar verbetering van de regeling inzake wederzijdse juridische bijstand en uitlevering. Dit kan inhouden, de toetreding tot en de toepassing van de desbetreffende internationale instrumenten van de Verenigde Naties, waaronder het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=II&artikel=6&z=2010-05-10&g=2010-05-10) van deze overeenkomst bedoelde [Statuut van Rome inzake het Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBV0001489).
+3. Wat de justitiële samenwerking in strafzaken betreft, streven de partijen naar verbetering van de regeling inzake wederzijdse juridische bijstand en uitlevering. Dit kan inhouden, de toetreding tot en de toepassing van de desbetreffende internationale instrumenten van de Verenigde Naties, waaronder het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=II&artikel=6&z=2014-06-01&g=2014-06-01) van deze overeenkomst bedoelde [Statuut van Rome inzake het Internationaal Strafhof](https://wetten.overheid.nl/jci1.3:c:BWBV0001489).
 
 ##### Artikel 32. Bescherming van persoonsgegevens
 
@@ -712,9 +712,9 @@ De samenwerking is gericht op:
 
 - f). zij zoekt naar passende middelen ter voorkoming van problemen die in de onder deze overeenkomst vallende gebieden zouden kunnen rijzen;
 
-- g). zij beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen bij consensus, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2010-05-10&g=2010-05-10);
+- g). zij beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen bij consensus, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01);
 
-- h). zij onderzoekt alle door een partij ingediende informatie betreffende niet-naleving van verplichtingen en pleegt overleg met de andere partij om een oplossing te vinden die voor beide partijen aanvaardbaar is, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2010-05-10&g=2010-05-10).
+- h). zij onderzoekt alle door een partij ingediende informatie betreffende niet-naleving van verplichtingen en pleegt overleg met de andere partij om een oplossing te vinden die voor beide partijen aanvaardbaar is, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01).
 
 4. De Gemengde Commissie komt gewoonlijk eenmaal per jaar bijeen, afwisselend in Brussel en Seoul. Speciale vergaderingen vinden plaats wanneer een van de partijen daarom verzoekt. De Gemengde Commissie wordt beurtelings door een van beide partijen voorgezeten. Zij vergadert gewoonlijk op het niveau van hoge ambtenaren.
 
@@ -726,7 +726,7 @@ De samenwerking is gericht op:
 
 3. Indien een partij van mening is dat de andere partij een verplichting die uit deze overeenkomst voortvloeit niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, verstrekt zij, behalve in bijzonder dringende gevallen, de Gemengde Commissie alle informatie die nodig is voor een grondig onderzoek van de situatie. De partijen plegen overleg in de Gemengde Commissie, en indien beide partijen daarmee instemmen, kan dit overleg worden begeleid door een bemiddelaar, die door de Gemengde Commissie wordt benoemd.
 
-4. In bijzonder dringende gevallen wordt de maatregel onmiddellijk ter kennis gebracht van de andere partij. Op verzoek van de andere partij wordt gedurende ten hoogste twintig dagen overleg gepleegd. Na afloop van deze periode is de maatregel van toepassing. In dit geval kan de andere partij om arbitrage verzoeken overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=46&z=2010-05-10&g=2010-05-10), waarbij elk aspect van de maatregel, alsmede de grondslag daarvan, kan worden onderzocht.
+4. In bijzonder dringende gevallen wordt de maatregel onmiddellijk ter kennis gebracht van de andere partij. Op verzoek van de andere partij wordt gedurende ten hoogste twintig dagen overleg gepleegd. Na afloop van deze periode is de maatregel van toepassing. In dit geval kan de andere partij om arbitrage verzoeken overeenkomstig [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=46&z=2014-06-01&g=2014-06-01), waarbij elk aspect van de maatregel, alsmede de grondslag daarvan, kan worden onderzocht.
 
 ##### Artikel 46. Arbitrageprocedure
 
@@ -754,7 +754,7 @@ Niets in deze overeenkomst mag zodanig worden uitgelegd dat een partij verplicht
 
 ##### Artikel 50. Kennisgevingen
 
-De in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=X&artikel=49&z=2010-05-10&g=2010-05-10) bedoelde kennisgevingen worden toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie onderscheidenlijk het ministerie van Buitenlandse Zaken van de Republiek Korea.
+De in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=X&artikel=49&z=2014-06-01&g=2014-06-01) bedoelde kennisgevingen worden toegezonden aan het secretariaat-generaal van de Raad van de Europese Unie onderscheidenlijk het ministerie van Buitenlandse Zaken van de Republiek Korea.
 
 ##### Artikel 51. Verklaringen en bijlagen
 
@@ -836,7 +836,7 @@ De Republiek Korea, anderzijds,
 
 bijeengekomen te Brussel op 10 mei 2010 voor de ondertekening van de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, hebben de kaderovereenkomst aangenomen.
 
-De gevolmachtigden van de lidstaten en de gevolmachtigde van de Republiek Korea nemen kennis van de volgende unilaterale verklaring van de Europese Unie betreffende [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IV&artikel=12&z=2010-05-10&g=2010-05-10):
+De gevolmachtigden van de lidstaten en de gevolmachtigde van de Republiek Korea nemen kennis van de volgende unilaterale verklaring van de Europese Unie betreffende [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IV&artikel=12&z=2014-06-01&g=2014-06-01):
 
 Gedaan te Brussel, de tiende mei 2010.
 
