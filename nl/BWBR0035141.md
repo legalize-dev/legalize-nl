@@ -115,27 +115,3 @@ De syllabi voor de centrale examens v.m.b.o. 2015 die bij [Regeling syllabi cent
 ### Initiële vaststelling toetswijzers rekenen 2015
 
 De toetswijzers voor de rekentoets VO centrale 2015 worden nader vastgesteld voor de volgende niveaus:
-
-## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
-
-## Bijlage 2c. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
-
-## Bijlage 1b. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
-
-## Bijlage 1c. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
-
-## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
-
-## Bijlage 2c. bij de Regeling syllabi centrale examens VO 2016, van 15 april 2014, nummer cve-14.01070
-
-Vervallen
