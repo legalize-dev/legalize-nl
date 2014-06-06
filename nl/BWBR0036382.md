@@ -96,15 +96,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Het vangsnoer (voor de heren) en het armsnoer (voor de dames), zoals afgebeeld in hoofdstuk 7 van het handboek politielogo en huisstijl, wordt op aanwijzing van de korpschef op het colbert gedragen aan de linker schouder, c.q. de linker arm bij officiële of feestelijke gelegenheden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-Bij het dragen van het uniform onthoudt de ambtenaar, in contact met het publiek, zich van zichtbare uitingen van overtuiging en religie of een andere vorm van lifestyle, die afbreuk doet aan de gezagsuitstraling, neutraliteit en veiligheid van de politiefunctie.
-
-## Bijlage
-
-### Het vangsnoer
-
-Het vangsnoer (voor de heren) en het armsnoer (voor de dames), zoals afgebeeld in hoofdstuk 7 van het handboek politielogo en huisstijl, wordt op aanwijzing van de korpschef op het colbert gedragen aan de linker schouder, c.q. de linker arm bij officiële of feestelijke gelegenheden.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
