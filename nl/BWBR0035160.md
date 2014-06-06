@@ -4,7 +4,7 @@ identifier: "BWBR0035160"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-06-06"
-last_updated: "2013-09-01"
+last_updated: "2014-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035160"
 soort: "zbo"
@@ -49,6 +49,6 @@ Besluit:
 
 - 2. Met het toezicht als bedoeld in [artikel 15, tweede lid, van de Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&artikel=15) zijn naast de voorzitter en de leden van het Commissariaat voor de Media de medewerkers van het Commissariaat voor de Media belast, met uitzondering van het hoofd en de medewerkers van de stafeenheid Bedrijfsvoering.
 
-- 3. Het [Besluit aanwijzing toezichthouders Commissariaat voor de Media](510089) van 12 september 2006 wordt ingetrokken.
+- 3. Het [Besluit aanwijzing toezichthouders Commissariaat voor de Media](onbekend) van 12 september 2006 wordt ingetrokken.
 
 - 4. Dit besluit treedt in werking met ingang van de dag na de datum van publicatie in de Staatscourant en werkt terug tot en met 1 september 2013.
