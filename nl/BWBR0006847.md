@@ -4,7 +4,7 @@ identifier: "BWBR0006847"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-06-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006847"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Hebben goedgevonden en verstaan;
 
 - c. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- d. bevoegde ambtenaar: de ambtenaar, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01) van dit besluit;
+- d. bevoegde ambtenaar: de ambtenaar, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2014-06-07&g=2014-06-07) van dit besluit;
 
 - e. hoofdofficier van justitie: de officier van justitie, hoofd van het arrondissementsparket;
 
@@ -66,15 +66,15 @@ Hebben goedgevonden en verstaan;
 
 2. Als korpschef in de zin van dit besluit wordt aangemerkt met betrekking tot:
 
-- a. de ambtenaren, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01): de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
+- a. de ambtenaren, bedoeld in [artikel 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2014-06-07&g=2014-06-07): de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
 
-- b. de ambtenaren, bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01):
+- b. de ambtenaren, bedoeld in [artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2014-06-07&g=2014-06-07):
 
-- 1. voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01): de betrokken districtscommandant,
+- 1. voor de toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=3&z=2014-06-07&g=2014-06-07): de betrokken districtscommandant,
 
 - 2. voor de toepassing van de overige artikelen: de commandant van de Koninklijke marechaussee;
 
-- c. de ambtenaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01): het hoofd van de organisatie, waarbij zij werkzaam zijn.
+- c. de ambtenaren, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2014-06-07&g=2014-06-07): het hoofd van de organisatie, waarbij zij werkzaam zijn.
 
 3. In dit besluit wordt verstaan onder «toezichthouder» respectievelijk «direct toezichthouder» hetgeen daaronder wordt verstaan in [artikel 1 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1).
 
@@ -104,7 +104,7 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 2. De korpschef draagt zorg voor de uitvoering van de beschikking. De hoofdofficier van justitie geeft zijn nader bericht slechts na hernieuwd overleg. Het eerste lid, tweede volzin, is van overeenkomstige toepassing.
 
-3. Van de beschikking die betrekking heeft op een ambtenaar als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), wordt een afschrift gezonden aan de direct toezichthouder. Indien de hoofdofficier van justitie niet tevens de toezichthouder van de ambtenaar is, wordt tevens een afschrift gezonden aan de toezichthouder.
+3. Van de beschikking die betrekking heeft op een ambtenaar als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=2&artikel=2&z=2014-06-07&g=2014-06-07), wordt een afschrift gezonden aan de direct toezichthouder. Indien de hoofdofficier van justitie niet tevens de toezichthouder van de ambtenaar is, wordt tevens een afschrift gezonden aan de toezichthouder.
 
 #### § 3. De betaling en het Centraal Justitieel Incassobureau
 
@@ -132,13 +132,13 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 ##### Artikel 6
 
-1. In het belang van een juist gebruik van de bevoegdheid tot het opleggen van een administratieve sanctie wordt er op toegezien, dat in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), onverwijld een betalingsbewijs wordt uitgereikt dat door de ambtenaar aan wie de administratieve sanctie wordt voldaan, is gedagtekend en ondertekend.
+1. In het belang van een juist gebruik van de bevoegdheid tot het opleggen van een administratieve sanctie wordt er op toegezien, dat in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2014-06-07&g=2014-06-07), onverwijld een betalingsbewijs wordt uitgereikt dat door de ambtenaar aan wie de administratieve sanctie wordt voldaan, is gedagtekend en ondertekend.
 
 2. De bevoegde ambtenaar en de ambtenaar aan wie de administratieve sanctie kan worden voldaan, worden in het bezit gesteld van de bijlage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=2) van de wet. Aan de betrokkenen verlenen zij desgevraagd inzage in deze bijlage.
 
 ##### Artikel 7
 
-1. De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij een administratieve sanctie heeft opgelegd. Tevens wordt in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), aantekening gehouden van de voldoening van de administratieve sanctie.
+1. De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij een administratieve sanctie heeft opgelegd. Tevens wordt in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2014-06-07&g=2014-06-07), aantekening gehouden van de voldoening van de administratieve sanctie.
 
 2. De aantekeningen worden, uiterlijk binnen een jaar nadat zij zijn opgemaakt, desverlangd getoond aan de ambtenaren van het openbaar ministerie in het arrondissement waar de bevoegde ambtenaren hun dienst hebben uitgeoefend.
 
@@ -156,7 +156,7 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 ##### Artikel 9
 
-1. Door de betrokken korpschef worden ambtenaren aangewezen aan wie de administratieve sanctie in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), kan worden betaald.
+1. Door de betrokken korpschef worden ambtenaren aangewezen aan wie de administratieve sanctie in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2014-06-07&g=2014-06-07), kan worden betaald.
 
 2. Na betaling aan de ambtenaren, bedoeld in het eerste lid, wordt een betalingsbewijs uitgereikt. Onze Minister stelt de eisen vast waaraan het betalingsbewijs moet voldoen.
 
@@ -166,19 +166,21 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 ##### Artikel 10
 
-De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2013-01-01&g=2013-01-01), en al degenen die verder bij de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2013-01-01&g=2013-01-01), bedoelde voorschriften zijn betrokken, verstrekken desgevraagd alle inlichtingen hieromtrent aan de hoofdofficier van justitie, alsmede aan de directeur van het Centraal Justitieel Incassobureau.
+De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2014-06-07&g=2014-06-07), en al degenen die verder bij de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2014-06-07&g=2014-06-07), bedoelde voorschriften zijn betrokken, verstrekken desgevraagd alle inlichtingen hieromtrent aan de hoofdofficier van justitie, alsmede aan de directeur van het Centraal Justitieel Incassobureau.
 
 ##### Artikel 11
 
-1. Wat de politie betreft doet de korpschef op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2013-01-01&g=2013-01-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
+1. Wat de politie betreft doet de korpschef op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2014-06-07&g=2014-06-07), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
 
-2. Wat de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaren betreft doen de betrokken korpschefs op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2013-01-01&g=2013-01-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
+2. Wat de Koninklijke Marechaussee en de buitengewoon opsporingsambtenaren betreft doen de betrokken korpschefs op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2014-06-07&g=2014-06-07), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
 
 #### § 5a. De administratiekosten en de kosten van verhaal
 
 ##### Artikel 11a
 
-Degene aan wie een administratieve sanctie wordt opgelegd, is administratiekosten verschuldigd. De omvang van deze kosten wordt bepaald bij ministeriële regeling. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de administratieve sanctie, het toezicht en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de administratieve sanctie in rekening gebracht.
+1. Degene aan wie een administratieve sanctie wordt opgelegd, is administratiekosten verschuldigd. De omvang van deze kosten wordt bepaald bij ministeriële regeling. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de administratieve sanctie, het toezicht en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de administratieve sanctie in rekening gebracht.
+
+2. Gedane betalingen strekken in de eerste plaats tot voldoening van de administratiekosten, vervolgens tot voldoening van eventuele verhogingen en ten slotte tot voldoening van de administratieve sanctie.
 
 #### § 6. Bijstand
 
