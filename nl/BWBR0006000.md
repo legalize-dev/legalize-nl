@@ -4,7 +4,7 @@ identifier: "BWBR0006000"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2011-05-25"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006000"
 soort: "wet"
@@ -78,7 +78,7 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 2. Onder geheelen koopprijs wordt verstaan de som van alle betalingen, waartoe de kooper bij regelmatige nakoming van de overeenkomst gehouden is.
 
-3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2011-05-25&g=2011-05-25) is hier niet van toepassing.
+3. Het [tweede lid van artikel 1576b](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576b&z=2014-06-13&g=2014-06-13) is hier niet van toepassing.
 
 ##### Artikel 1576d
 
@@ -114,7 +114,7 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576i
 
-1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2011-05-25&g=2011-05-25).
+1. Huurkoop wordt aangegaan bij authentieke of onderhandsche akte, welke voldoet aan de bepalingen van [artikel 1576j](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576j&z=2014-06-13&g=2014-06-13).
 
 2. Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zoodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.
 
@@ -126,9 +126,9 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1576j
 
-1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2011-05-25&g=2011-05-25), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2011-05-25&g=2011-05-25), en de bedingen betreffende voorbehoud en overgang van eigendom.
+1. De akte van huurkoop moet duidelijk vermelden den geheelen koopprijs, als bedoeld in [artikel 1576c](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576c&z=2014-06-13&g=2014-06-13), het plan van regelmatige afbetaling, als bedoeld in [artikel 1576f](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=1&artikel=1576f&z=2014-06-13&g=2014-06-13), en de bedingen betreffende voorbehoud en overgang van eigendom.
 
-2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2011-05-25&g=2011-05-25), treden de overeenkomstige gegevens hiervoor in de plaats.
+2. In de gevallen, bedoeld in het [tweede en het derde lid van artikel 1576h](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576h&z=2014-06-13&g=2014-06-13), treden de overeenkomstige gegevens hiervoor in de plaats.
 
 3. Ontbreekt eene akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan den kooper overgaat.
 
@@ -150,7 +150,7 @@ Ter zake van huurkoop kan de koper, indien hij bij het aangaan van de overeenkom
 
 3. Hare gedaante of inrichting mag hij niet veranderen, noch de zaak verhuren of zijn genot aan anderen afstaan.
 
-4. De zaak is voor risico van de koper van de aflevering af. De [leden 2, 3 en 4 van artikel 10 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=10) zijn van toepassing.
+4. De zaak is voor risico van de koper van de aflevering af. De [leden 2, 3 en 4 van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=10), alsmede [artikel 11 van Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=11) zijn van toepassing.
 
 5. Van deze bepalingen kan bij overeenkomst worden afgeweken. Van lid 4 kan echter bij een consumentenkoop niet ten nadele van de koper worden afgeweken.
 
@@ -190,7 +190,7 @@ Indien bij ontbinding der overeenkomst de kooper recht mocht hebben op eenige te
 
 3. Bij herhaling van het in het eerste lid genoemde geval heeft de kooper het recht van inlossing alleen onder volledige betaling.
 
-4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2011-05-25&g=2011-05-25) aanleiding zouden geven.
+4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkooper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1576r](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Vijfde_A&afdeling=2&artikel=1576r&z=2014-06-13&g=2014-06-13) aanleiding zouden geven.
 
 5. Van de bepalingen van dit artikel kan ten voordeele van den kooper door partijen worden afgeweken.
 
@@ -1002,7 +1002,7 @@ De maatschap begint van het oogenblik der overeenkomst, indien daarbij geen ande
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2011-05-25&g=2011-05-25) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1584-1623](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1584&z=2014-06-13&g=2014-06-13) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1665
 
@@ -1310,7 +1310,7 @@ Indien men is overeengekomen dat hij die een goed ter leen heeft ontvangen dit z
 
 ##### Artikel 1799
 
-De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2011-05-25&g=2011-05-25) is op verbruikleening toepasselijk.
+De bepaling van [artikel 1790](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&boek=7a&titeldeel=Dertiende&afdeling=Derde&artikel=1790&z=2014-06-13&g=2014-06-13) is op verbruikleening toepasselijk.
 
 ### afdeeling Derde. Van de verpligtingen des leeners
 
