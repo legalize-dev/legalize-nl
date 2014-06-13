@@ -4,7 +4,7 @@ identifier: "BWBR0035190"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-06-13"
-last_updated: "2014-05-20"
+last_updated: "2014-06-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035190"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel I
 
-Het subsidie plafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035122&wetgeving) voor het jaar 2014 is € 19.400.000,– zegge: negentien miljoen vierhonderdduizend euro. Het subsidieplafond voor de eerste aanvraagronde op 5 juni 2014 bedraagt € 9.700.000,– zegge negen miljoen en zevenhonderdduizend euro.
+Het subsidie plafond van het [Reglement Stimuleringsmaatregel Filmproductie in Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035122) voor het jaar 2014 is € 19.400.000,– zegge: negentien miljoen vierhonderdduizend euro. Het subsidieplafond voor de eerste aanvraagronde op 5 juni 2014 bedraagt € 9.700.000,– zegge negen miljoen en zevenhonderdduizend euro.
 
 ##### Artikel II
 
