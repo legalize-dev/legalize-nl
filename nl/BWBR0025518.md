@@ -4,7 +4,7 @@ identifier: "BWBR0025518"
 country: "nl"
 rank: "pbo"
 publication_date: "2014-06-14"
-last_updated: "2013-01-19"
+last_updated: "2014-06-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025518"
 soort: "pbo"
@@ -93,7 +93,7 @@ De Commissie Arbeids- en Ondernemingsrecht kan de Subcommissie Ontheffingen Stru
 
 ##### Artikel 6
 
-Het dagelijks bestuur is gemachtigd te beslissen dat, in afwijking van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025518&paragraaf=2&artikel=4&z=2013-01-19&g=2013-01-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025518&paragraaf=2&artikel=5&z=2013-01-19&g=2013-01-19) verleende machtigingen, de Raad het advies zelf zal uitbrengen.
+Het dagelijks bestuur is gemachtigd te beslissen dat, in afwijking van de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025518&paragraaf=2&artikel=4&z=2014-06-14&g=2014-06-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025518&paragraaf=2&artikel=5&z=2014-06-14&g=2014-06-14) verleende machtigingen, de Raad het advies zelf zal uitbrengen.
 
 #### § 3. Slotbepalingen
 
@@ -132,5 +132,13 @@ Dit besluit wordt aangehaald als: Algemeen machtigingsbesluit SER.
 1. Het dagelijks bestuur wordt mandaat verleend met betrekking tot het nemen van besluiten ten aanzien van de taken en bevoegdheden die in de statuten van de Stichting Certificering Opleiding Ondernemingsraden aan de Raad zijn opgedragen.
 
 2. Het dagelijks bestuur informeert de Raad regelmatig over de gebruikmaking van het in het eerste lid verleende mandaat.
+
+#### § 3. Slotbepalingen
+
+##### Artikel 2c
+
+1. Het dagelijks bestuur wijst, ten behoeve van de controle van de jaarrekening en de daarop betrekking hebbende boeken en bescheiden, namens de Raad een accountant aan, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
+
+2. Het dagelijks bestuur verstrekt namens de Raad jaarlijks voor 1 juli een raming van de inkomsten en uitgaven van de Raad in het volgende begrotingsjaar aan de Minister van Sociale Zaken en Werkgelegenheid.
 
 #### § 3. Slotbepalingen
