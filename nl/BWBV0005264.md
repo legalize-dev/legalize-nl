@@ -4,7 +4,7 @@ identifier: "BWBV0005264"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-04-01"
-last_updated: "2013-06-07"
+last_updated: "2014-06-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005264"
 soort: "verdrag"
@@ -5901,9 +5901,9 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 1. Het bedrag van de aanvullende financiële middelen is gelijk aan de daling van de exportopbrengsten vermenigvuldigd met het rekenkundig gemiddelde van de verhouding overheidsinkomsten/bruto binnenlands product in de vier aan het toepassingsjaar voorafgaande jaren, waarbij geen rekening wordt gehouden met de meest extreme waarde en het verhoudingscijfer ten hoogste 25% bedraagt.
 
-2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2013-06-07&g=2013-06-07) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
+2. De door de ACS-staten verstrekte gegevens voor het bepalen van de toekenningscriteria en de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2014-06-20&g=2014-06-20) omschreven aanvullende financiële middelen worden door de Commissie geanalyseerd in de plaatselijke munteenheid, gecorrigeerd voor inflatie. De Commissie rekent vervolgens het potentiële bedrag van de aanvullende financiële middelen overeenkomstig haar procedures om in euro.
 
-3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2013-06-07&g=2013-06-07) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
+3. Binnen de totale toewijzing voor de nationale indicatieve programma’s stelt de Commissie jaarlijks voor alle ACS-staten een toewijzing vast voor steun in geval van kortetermijnfluctuaties van de exportopbrengsten. Indien het bedrag van de financiële middelen dat op basis van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=II&hoofdstuk=3&artikel=9&z=2014-06-20&g=2014-06-20) vastgestelde criteria wordt berekend, hoger is dan die toewijzing, worden de nationale toewijzingen verdeeld naar verhouding van het in euro uitgedrukte potentiële bedrag van de aanvullende financiële middelen voor iedere ACS-staat.
 
 ##### Artikel 10. Voorschotten
 
@@ -7919,7 +7919,7 @@ GEDAAN te Cotonou, de drieëntwintigste juni 2000.
 
 4. Bij gedecentraliseerd beheer zijn de ACS-staten of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau verantwoordelijk voor de onderhandelingen over en de opstelling, ondertekening en uitvoering van overeenkomsten voor opdrachten. Deze ACS-staten of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau kunnen de Commissie echter verzoeken namens hen te onderhandelen over opdrachten of de desbetreffende overeenkomst op te stellen, te ondertekenen en uit te voeren.
 
-5. Overeenkomstig de in artikel 50 van de Overeenkomst genoemde gehechtheid aan de internationaal erkende fundamentele arbeidsnormen worden de door het meerjarige financiële kader voor samenwerking gefinancierde opdrachten en subsidies uitgevoerd overeenkomstig die internationaal erkende fundamentele arbeidsnormen.
+5. Overeenkomstig de in artikel 32, lid 1, onder a), en artikel 50 van deze overeenkomst vervatte afspraak worden de uit het meerjarige financiële kader voor samenwerking met de ACS gefinancierde opdrachten en subsidies uitgevoerd in overeenstemming met de geldende milieuwetgeving en internationaal erkende grondregels van het arbeidsrecht.
 
 6. Er wordt een groep van deskundigen samengesteld met vertegenwoordigers van het secretariaat van de Groep van ACS-staten en de Commissie, die op verzoek van een van de partijen passende veranderingen kan identificeren en wijzigingen en verbeteringen kan voorstellen voor de in de leden 1 en 2 bedoelde regels en procedures.
 
@@ -9695,7 +9695,7 @@ De betrokken ACS-staten verbinden zich ertoe om ten aanzien van maatregelen uit 
 
 2. Het recht op aanvullende financiële middelen is van toepassing wanneer de in lid 1 omschreven daling van de exportopbrengsten ten minste 0,5% van het bbp bedraagt. Het recht op aanvullende financiële middelen is beperkt tot drie opeenvolgende jaren.
 
-3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2013-06-07&g=2013-06-07), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
+3. De aanvullende financiële middelen worden opgenomen in de openbare rekeningen van het betrokken land. Zij worden gebruikt overeenkomstig de programmeringsregels en -methoden, inclusief de specifieke bepalingen van [bijlage IV „Procedures voor tenuitvoerlegging en beheer”](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&z=2014-06-20&g=2014-06-20), op basis van vooraf opgestelde overeenkomsten tussen de Gemeenschap en de betrokken ACS-staat in het jaar volgend op het toepassingsjaar. Bij overeenstemming tussen de partijen kunnen de middelen worden gebruikt voor financiering van in de nationale begroting opgenomen programma’s. Een deel van de aanvullende financiële middelen kan evenwel worden bestemd voor specifieke sectoren, met name voor de ontwikkeling van commerciële verzekeringsregelingen die bescherming bieden tegen fluctuaties van exportopbrengsten.
 
 ##### Artikel 10. Voorschotten
 
@@ -10211,27 +10211,33 @@ De indicatieve toewijzing van middelen wordt gebaseerd op schattingen van de beh
 
 ##### Artikel 20. Deelnemingsvoorwaarden
 
-Tenzij overeenkomstig artikel 22 een uitzondering is toegestaan en onverminderd het bepaalde in artikel 26, gelden de volgende regels:
+Tenzij overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=22&z=2014-06-20&g=2014-06-20) een uitzondering is toegestaan en onverminderd het bepaalde in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=26&z=2014-06-20&g=2014-06-20), gelden de volgende regels:
 
-- 1. De deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies uit het meerjarige financiële kader voor samenwerking uit hoofde van deze Overeenkomst staat open voor:
+- 1. De deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst staat open voor alle natuurlijke personen die onderdaan zijn van, en alle rechtspersonen die daadwerkelijk gevestigd zijn in:
 
-- a). alle natuurlijke personen die onderdaan zijn van, of alle rechtspersonen die gevestigd zijn in, een ACS-staat, een lidstaat van de Europese Gemeenschap, een kandidaat-lidstaat van de Europese Gemeenschap of een lidstaat van de Europese Economische Ruimte;
+- a. een ACS-staat, een lidstaat van de Europese Gemeenschap, een staat die gerechtigd is in het kader van het instrument voor pretoetredingssteun van de Europese Gemeenschap, een lidstaat van de Europese Economische Ruimte, of in een van de landen en gebieden overzee in de zin van Besluit 2013/755/EU van de Raad van 25 november 2013 betreffende de associatie van de landen en gebieden overzee met de Europese Unie5)**PBEU**L 344 van 19.12.2013, blz. 1. ;
 
-- b). alle natuurlijke personen die onderdaan zijn van, of alle rechtspersonen die gevestigd zijn in, een van de minst ontwikkelde landen volgens de definitie van de Verenigde Naties.
+- b. een ontwikkelingsland of -gebied dat is vermeld in de OESO/DAC-lijst van landen die officiële ontwikkelingshulp ontvangen en die geen lid zijn van de Groep van Twintig, onverminderd de status van de Republiek van Zuid-Afrika, die is geregeld bij Protocol 3;
 
-- 1 bis. De deelname aan procedures voor de gunning van overeenkomsten voor de plaatsing van opdrachten of de toekenning van subsidies die uit het meerjarige financiële kader voor samenwerking uit hoofde van deze Overeenkomst worden gefinancierd, staat open voor alle natuurlijke personen die onderdaan zijn van, of alle rechtspersonen die gevestigd zijn in, een ander land dan de in lid 1 genoemde, in die gevallen waarin wederzijdse toegang tot buitenlandse hulp tot stand is gebracht. Aan de OESO/DAC-leden wordt automatisch wederzijdse toegang verleend in de minst ontwikkelde landen volgens de definitie van de Verenigde Naties. De wederzijdse toegang wordt vastgelegd in een apart besluit van de Commissie voor een bepaald land of regionale groep landen. Dit besluit wordt door de Commissie vastgesteld in overleg met de ACS-staten en is ten minste één jaar van kracht.
+- c. een land ten aanzien waarvan de Commissie in overeenstemming met de ACS-landen heeft vastgesteld dat er sprake is van wederkerigheid bij de toegang tot externe steun. Wederkerigheid bij de toegang kan voor een beperkte periode van ten minste één jaar worden vastgesteld indien een land entiteiten van de Gemeenschap en entiteiten uit landen die voor deelname aan de onder dit artikel vallende instrumenten in aanmerking komen, op gelijke voorwaarden tot deelname toelaat;
+
+- d. een lidstaat van de OESO, in het geval van opdrachten die worden uitgevoerd in een van de minst ontwikkelde landen of een arm land met een hoge schuldenlast, in de zin van de OESO/DAC-lijst van landen die officiële ontwikkelingshulp ontvangen, die door de OESO/DAC is gepubliceerd.
 
 - 2. Diensten in het kader van een opdracht die gefinancierd wordt uit het meerjarige financiële kader voor samenwerking uit hoofde van deze Overeenkomst mogen verleend worden door deskundigen van elke nationaliteit, onverminderd de kwalitatieve en financiële vereisten die zijn opgenomen in de communautaire regels voor overheidsopdrachten.
 
-- 3. Leveringen en materialen die zijn verkregen uit hoofde van een uit het meerjarige financiële kader voor samenwerking gefinancierde overeenkomst moeten van oorsprong zijn uit een staat die krachtens de leden 1 of 1 bis mag deelnemen. In dit verband wordt de definitie van „producten van oorsprong” beoordeeld aan de hand van de relevante internationale overeenkomsten en worden leveringen van oorsprong uit de landen en gebieden overzee aangemerkt als leveringen van oorsprong uit de Gemeenschap.
+- 3. Alle leveringen en materialen die in het kader van een overheidsopdracht of subsidieovereenkomst zijn verkregen, en die uit het meerjarige financiële kader voor samenwerking in het kader van deze partnerschapsovereenkomst zijn gefinancierd, zijn afkomstig uit een staat die krachtens dit artikel mag deelnemen. Zij mogen echter uit een andere staat afkomstig zijn indien de totale waarde van de aan te kopen leveringen en materialen onder de drempel ligt voor het gebruik van de concurrentiële onderhandelingsprocedure, vastgesteld volgens artikel 19 quater, lid 1. In dit verband wordt de definitie van „producten van oorsprong” beoordeeld aan de hand van de desbetreffende internationale overeenkomsten en worden leveringen van oorsprong uit de landen en gebieden overzee aangemerkt als leveringen van oorsprong uit de Gemeenschap.
 
 - 4. De deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies uit het meerjarige financiële kader voor samenwerking staat open voor internationale organisaties.
 
-- 5. Wanneer de financiering uit het meerjarige financiële kader voor samenwerking betrekking heeft op een transactie die door een internationale organisatie wordt uitgevoerd, staat deelname aan aanbestedingen en aan procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens de leden 1 of 1 bis mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens het reglement van die organisatie mogen deelnemen, waarbij alle donoren op gelijke voet moeten worden behandeld. Dezelfde regels gelden voor leveringen en materialen.
+- 5. Indien de financiering uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst betrekking heeft op een transactie die door een internationale organisatie wordt uitgevoerd, staat de deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens lid 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens het reglement van de organisatie mogen deelnemen; alle donoren moeten daarbij op gelijke voet worden behandeld. Deze regels gelden tevens voor leveringen en materialen.
 
-- 6. Wanneer de financiering uit het meerjarige financiële kader voor samenwerking betrekking heeft op een transactie die in het kader van een regionaal initiatief wordt uitgevoerd, staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens de leden 1 of 1 bis mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen van de landen die aan het betrokken initiatief deelnemen. Dezelfde regels gelden voor leveringen en materialen.
+- 6. Indien de financiering uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst betrekking heeft op een transactie in het kader van een regionaal initiatief, staat de deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens lid 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen van de landen die aan het betrokken initiatief deelnemen. Deze regels gelden tevens voor leveringen en materialen.
 
-- 7. Wanneer de financiering uit het meerjarige financiële kader voor samenwerking betrekking heeft op een transactie die door een derde staat wordt medegefinancierd, staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens de leden 1 of 1 bis mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens de regelgeving van die derde staat mogen deelnemen. Dezelfde regels gelden voor leveringen en materialen.
+- 7. Indien de financiering uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst betrekking heeft op een transactie die mede door een partner of andere donor wordt gefinancierd of die via een door de Commissie opgezet trustfonds wordt uitgevoerd, staat de deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens lid 1, en voor alle natuurlijke personen en rechtspersonen die krachtens de voorschriften van de partner of andere donor, dan wel volgens de bepalingen in het oprichtingsbesluit van het trustfonds mogen deelnemen. Indien het acties betreft die worden uitgevoerd door daarmee belaste organisaties, die lidstaten zijn of agentschappen van lidstaten, de Europese Investeringsbank of internationale organisaties of hun agentschappen, staat de deelname ook open voor natuurlijke personen en rechtspersonen die krachtens de voorschriften van bedoelde daarmee belaste organisaties mogen deelnemen, zoals vastgesteld in de overeenkomsten die zijn gesloten met de medefinancierings- of tenuitvoerleggingsinstantie. Deze regels gelden tevens voor leveringen en materialen.
+
+- 8. Indien de financiering uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst betrekking heeft op een transactie die mede in het kader van een ander financieel instrument van de EU wordt gefinancierd, staat de deelname aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies open voor alle natuurlijke personen en rechtspersonen die krachtens lid 1 mogen deelnemen, en voor alle natuurlijke personen en rechtspersonen die krachtens de voorschriften van één van deze instrumenten mogen deelnemen. Deze regels gelden tevens voor leveringen en materialen.
+
+- 9. De mogelijkheid om deel te nemen, als bedoeld in dit artikel, kan worden beperkt wat de nationaliteit, de vestigingsplaats of de aard van de aanvragers betreft, indien het vereist is op grond van de aard en de doelstellingen van de actie en voor zover het met het oog op een doeltreffende uitvoering noodzakelijk is.
 
 ##### Artikel 21. Deelname op gelijke voorwaarden
 
@@ -10239,21 +10245,13 @@ Vervallen
 
 ##### Artikel 22. Uitzonderingen
 
-1. In deugdelijk gemotiveerde uitzonderingsgevallen staat de deelname aan aanbestedingen en de procedures voor de toekenning van subsidies die door de Gemeenschap uit het meerjarige financiële kader voor samenwerking uit hoofde van deze Overeenkomst worden gefinancierd, op gemotiveerd verzoek van de betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau, evenwel open voor natuurlijke personen of rechtspersonen uit derde landen die niet mogen deelnemen uit hoofde van artikel 20. De betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau verstrekt de Commissie voor elk geval de noodzakelijke gegevens om over deze uitzonderingsgevallen een besluit te nemen, waarbij bijzondere aandacht wordt besteed aan:
+1. Op gemotiveerd verzoek van de betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau kan inschrijvers, aanvragers en kandidaten uit derde landen die niet op grond van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005264&bijlage=IV&hoofdstuk=4&artikel=20&z=2014-06-20&g=2014-06-20) mogen deelnemen, worden toegestaan deel te nemen aan procedures voor de gunning van overheidsopdrachten of voor de toekenning van subsidies die door de Gemeenschap uit het meerjarige financiële kader voor samenwerking op grond van deze overeenkomst worden gefinancierd, en kunnen leveringen en materialen afkomstig uit landen die niet mogen deelnemen in de volgende gevallen worden toegestaan:
 
-- a). de geografische ligging van de betrokken ACS-staat of de betrokken regio;
+- a. landen met traditionele economische, commerciële of geografische banden met buurlanden die een begunstigd land zijn; of
 
-- b). het concurrentievermogen van aannemers, leveranciers en adviseurs uit de lidstaten en de ACS-staten;
+- b. er is sprake van spoedeisendheid of niet-beschikbaarheid van goederen of diensten op de markt van de betrokken landen, of andere naar behoren aangetoonde gevallen, ten gevolge waarvan de toepassing van de voorschriften voor de mogelijkheid van deelname de uitvoering van een project, programma of actie onmogelijk of uiterst moeilijk zou maken.
 
-- c). de noodzaak om buitensporige stijging van de uitvoeringskosten van de overeenkomst te vermijden;
-
-- d). vervoersproblemen en vertragingen in verband met levertijden of soortgelijke problemen;
-
-- e). de meest geschikte en aan de lokale omstandigheden optimaal aangepaste technologie;
-
-- f). uiterst dringende gevallen;
-
-- g). de beschikbaarheid van goederen en diensten op de betrokken markten.
+De betrokken ACS-staat of de bevoegde organisatie of instantie op regionaal of intra-ACS-niveau verstrekt de Commissie voor elk geval de noodzakelijke gegevens om over deze uitzonderingsgevallen een besluit te nemen.
 
 2. De regels voor de gunning van opdrachten van de Bank zijn van toepassing op de projecten die door de Investeringsfaciliteit worden gefinancierd.
 
@@ -10277,33 +10275,27 @@ Vervallen
 
 1. Om optimaal gebruik van de fysieke en menselijke middelen van de ACS-staten mogelijk te maken, worden maatregelen getroffen om zo breed mogelijke deelname van natuurlijke personen en rechtspersonen uit die staten aan de uitvoering van door het meerjarige financiële kader voor samenwerking gefinancierde opdrachten aan te moedigen. Hiertoe geldt het volgende:
 
-- a. bij opdrachten voor werken van minder dan 5 miljoen EUR wordt aan inschrijvers uit ACS-staten bij het vergelijken van inschrijvingen van gelijkwaardige economische, technische en administratieve kwaliteiteen preferentie van 10% toegekend, mits ten minste een vierde van het kapitaal en een vierde van het leidinggevend personeel van oorsprong zijn uit een of meer ACS-staten;
+- a. bij opdrachten voor werken van minder dan 5 miljoen EUR wordt aan inschrijvers uit ACS-staten bij de financiële evaluatie een preferentie van 10 % toegekend, mits ten minste een vierde van het kapitaal en een vierde van het leidinggevend personeel afkomstig is uit een of meer ACS-staten;
 
-- b. bij opdrachten voor leveringen, ongeacht het bedrag, wordt aan inschrijvers uit ACS-staten die leveringen aanbieden waarvoor ten minste 50% van de contractwaarde van ACS-oorsprong is, bij het vergelijken van inschrijvingen van gelijkwaardige economische, technische en administratieve kwaliteit een preferentie van 15 % toegekend;
+- b. bij opdrachten voor werken van minder dan 300 000 EUR wordt aan inschrijvers uit de ACS-staten die individueel of in een consortium deelnemen met Europese partners, bij de financiële evaluatie een preferentie van 15 % toegekend;
 
-- c. bij opdrachten voor diensten wordt bij het vergelijken van inschrijvingen van gelijkwaardige economische en technische kwaliteit voorrang gegeven aan:
-
-- i. deskundigen, instellingen of adviesbureaus uit ACS-staten, mits aan de bekwaamheidseisen is voldaan;
-
-- ii. aanbiedingen van een onderneming uit de ACS die individueel of in een consortium deelneemt met Europese partners, en
-
-- iii. aanbiedingen van Europese inschrijvers met onderaannemers of deskundigen uit de ACS;
+- c. bij de beoordeling van technische offertes met betrekking tot overheidsopdrachten voor diensten, met uitzondering van de raamovereenkomsten van de Commissie, wordt de voorkeur gegeven aan inschrijvingen die door rechtspersonen of natuurlijke personen van ACS-staten individueel of in een door hen samen gevormd consortium worden ingediend.
 
 - d. gekozen inschrijvers geven, indien zij gebruikmaken van onderaannemers, voorrang aan natuurlijke personen en ondernemingen uit de ACS-staten die in staat zijn de opdracht op het vereiste niveau uit te voeren, en
 
 - e. de ACS-staat kan in de aanbesteding aan gegadigden de bijstand aanbieden van andere ondernemingen, deskundigen of adviseurs uit de ACS die in gezamenlijk overleg zijn gekozen. Deze samenwerking kan gestalte krijgen in de vorm van een gezamenlijke onderneming of onderaanneming of ook in die van opleiding van het personeel bij de werkzaamheden.
 
-2. Indien twee inschrijvingen op grond van bovengenoemde criteria gelijkwaardig worden bevonden, wordt de voorkeur gegeven:
+2. Onverminderd het bepaalde in lid 1, wordt in het geval van twee gelijkwaardig beoordeelde inschrijvingen betreffende opdrachten voor werken, leveringen of diensten de voorkeur geven aan:
 
-- a. aan de inschrijving van de inschrijver uit een ACS-staat, of
+- a. de inschrijving uit een ACS-staat; of
 
-- b. indien een dergelijke inschrijving ontbreekt:
+- b. bij gebreke van een dergelijke inschrijving:
 
-- i. aan de inschrijving die optimaal gebruik van de fysieke en menselijke middelen van de ACS-staten mogelijk maakt;
+- i. de inschrijving die optimaal gebruik van de materiële en menselijke middelen van de ACS-staten mogelijk maakt;
 
-- ii. aan de inschrijving die ondernemingen of natuurlijke personen uit de ACS-staten de beste mogelijkheden voor onderaanneming biedt, of
+- ii. de inschrijving die ondernemingen, vennootschappen of natuurlijke personen uit de ACS-staten de beste mogelijkheden voor onderaanneming biedt; of
 
-- iii. aan een consortium van natuurlijke personen of ondernemingen uit de ACS-staten en de Gemeenschap.
+- iii. de inschrijving van een consortium van natuurlijke personen, ondernemingen of vennootschappen uit de ACS-staten en de Gemeenschap.
 
 ##### Artikel 27. Gunning van opdrachten
 
