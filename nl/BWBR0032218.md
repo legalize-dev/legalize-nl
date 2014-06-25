@@ -4,7 +4,7 @@ identifier: "BWBR0032218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2012-11-15"
+last_updated: "2014-06-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032218"
 soort: "ministeriele-regeling"
@@ -48,19 +48,17 @@ Als erkende rechtspersonen, bevoegd tot het verrichten van onderzoeken als bedoe
 
 - b. Bureau Veritas (BV) te Neuilly-sur-Seine, Frankrijk;
 
-- c. Det Norske Veritas (DNV) te Oslo, Noorwegen;
+- c. DNV GL AS te Høvik, Noorwegen;
 
-- d. Germanischer Lloyd (GL) SE te Hamburg, Duitsland;
+- d. Lloyds Register EMEA (LR) te Londen, Verenigd Koninkrijk;
 
-- e. Lloyds Register EMEA (LR) te Londen, Verenigd Koninkrijk;
+- e. Nippon Kaiji Kyokai (NK) te Tokio, Japan;
 
-- f. Nippon Kaiji Kyokai (NK) te Tokio, Japan;
-
-- g. Registro Italiano Navale (RINA) te Genua, Italië.
+- f. Registro Italiano Navale (RINA) te Genua, Italië.
 
 ##### Artikel 2
 
-De ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032218&artikel=1&z=2012-11-15&g=2012-11-15) aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=5.9).
+De ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032218&artikel=1&z=2014-06-25&g=2014-06-25) aangewezen rechtspersonen blijven voldoen aan de erkenningscriteria, opgenomen in [artikel 5.9, eerste en tweede lid, van de Regeling zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0032140&artikel=5.9).
 
 ##### Artikel 3
 
