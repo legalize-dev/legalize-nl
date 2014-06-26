@@ -387,5 +387,3 @@ www.rijksoverheid.nl/venj
 Maart 2014 | Publicatienr: |-22848
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
