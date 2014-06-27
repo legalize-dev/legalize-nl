@@ -4,7 +4,7 @@ identifier: "BWBR0032751"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-06-27"
-last_updated: "2013-01-15"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032751"
 soort: "ministeriele-regeling"
@@ -41,6 +41,8 @@ Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artike
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wet verbod pelsdierhouderij in werking treedt.
+
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -57,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Voor de melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3) en [artikel 4, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4), wordt gebruik gemaakt van het voor de desbetreffende melding door de Dienst Regelingen van het ministerie verstrekte formulier.
+1. Voor de melding, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=3) en [artikel 4, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=4), wordt gebruik gemaakt van het voor de desbetreffende melding door de Minister verstrekte formulier.
 
 2. De melding geschiedt door toezending van een volledig ingevuld en ondertekend formulier en eventuele bijlagen.
 
@@ -79,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 Als ambtenaren als bedoeld in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=5), belast met het toezicht op de naleving van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032739) en de daarop berustende bepalingen, worden aangewezen:
 
-- a. de ambtenaren van de Dienst Regelingen van het ministerie;
+- a. de ambtenaren van de Rijksdienst voor Ondernemend Nederland van het ministerie;
 
 - b. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit van het ministerie.
 
