@@ -4,7 +4,7 @@ identifier: "BWBR0034313"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034313"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- **Dienst Regelingen:** Dienst Regelingen van het Ministerie van Economische Zaken;
-
 - **merk:** merk als bedoeld in de [artikelen 1, onderdeel w](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=1), en [8, eerste tot en met vierde lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=8);
+
+- **minister**: Minister van Economische Zaken;
 
 - **NMi:** Nederlands Meetinstituut N.V.;
 
@@ -90,7 +90,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **afkeurbewijs:** door de minister ondertekende lijst met het gewicht van de op last van de minister afgesneden delen van een geslacht rund;
 
-- **afkeurgewicht:** gewicht zoals opgenomen in het afkeurbewijs van op last van de minister afgesneden delen van een geslacht rund die niet in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-01-01&g=2014-01-01), worden genoemd;
+- **afkeurgewicht:** gewicht zoals opgenomen in het afkeurbewijs van op last van de minister afgesneden delen van een geslacht rund die niet in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-06-27&g=2014-06-27), worden genoemd;
 
 - **be- of verwerker:** ondernemer die slachtrunderen slacht of doet slachten en vervolgens weegt;
 
@@ -148,7 +148,7 @@ Een be- of verwerker administreert per leverancier de dag en het tijdstip van de
 
 ##### Artikel 2:6
 
-Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-01-01&g=2014-01-01) verlengen indien hij dit tevoren met de leverancier is overeengekomen en hij dit zo spoedig mogelijk bij de NVWA heeft gemeld.
+Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-06-27&g=2014-06-27) verlengen indien hij dit tevoren met de leverancier is overeengekomen en hij dit zo spoedig mogelijk bij de NVWA heeft gemeld.
 
 ##### Artikel 2:7
 
@@ -206,7 +206,7 @@ Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten
 
 1. Een be- of verwerker weegt een geslacht slachtrund binnen 45 minuten na de eerste handeling die plaatsvindt na het steken van een slachthaak in het karkas.
 
-2. Het eerste lid is niet van toepassing als [Artikel 2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:14&z=2014-01-01&g=2014-01-01) van toepassing is.
+2. Het eerste lid is niet van toepassing als [Artikel 2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:14&z=2014-06-27&g=2014-06-27) van toepassing is.
 
 3. Een be- of verwerker die slachtrunderen weegt, of toestaat dat slachtrunderen door derden op zijn bedrijf worden gewogen, zorgt dat het gewicht van de te wegen slachtrunderen niet onjuist wordt beïnvloed.
 
@@ -248,19 +248,19 @@ Een be- of verwerker kan een termijn als bedoeld in [Artikel 2:5](https://wetten
 
 1. Een be- of verwerker past geen gewichtscorrectie toe na het afdouchen van een geslacht rund.
 
-2. Een be- of verwerker telt het geschatte of gewogen gewicht van een op grond van [Verordening nr. 854/2004](32004R0854) afgekeurd deel van het geslachte rund op bij het gewicht van het geslachte rund, indien dit deel voor de weging is afgekeurd en afgesneden en niet is genoemd in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-01-01&g=2014-01-01).
+2. Een be- of verwerker telt het geschatte of gewogen gewicht van een op grond van [Verordening nr. 854/2004](32004R0854) afgekeurd deel van het geslachte rund op bij het gewicht van het geslachte rund, indien dit deel voor de weging is afgekeurd en afgesneden en niet is genoemd in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-06-27&g=2014-06-27).
 
 ##### Artikel 2:14
 
-Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-01-01&g=2014-01-01), niet mogen worden verwijderd vanwege een uitstel van een goedkeuring op grond van [Verordening nr. 854/2004](32004R0854):
+Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-06-27&g=2014-06-27), niet mogen worden verwijderd vanwege een uitstel van een goedkeuring op grond van [Verordening nr. 854/2004](32004R0854):
 
 - a. kan een be- of verwerker die delen na een goedkeuring verwijderen en wegen en wordt het vastgestelde koud gewicht met 2% verhoogd;
 
-- b. verwijdert, weegt of schat een be- of verwerker het gewicht van die delen na een afkeuring overeenkomstig [Artikel 2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-01-01&g=2014-01-01).
+- b. verwijdert, weegt of schat een be- of verwerker het gewicht van die delen na een afkeuring overeenkomstig [Artikel 2:13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-06-27&g=2014-06-27).
 
 ##### Artikel 2:15
 
-1. In het geval van reeds geclassiceerde runderen, is het in afwijking van [Artikel 2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:14&z=2014-01-01&g=2014-01-01) toegestaan voorafgaand aan de goedkeuring het vastgestelde gewicht, – waarbij het niervet, de nieren, het slotvet, het oppervlakkig borstvet vanaf de navelinplant, het vet rond de aarsopening, het vet van de schaamnaad, het zak- of uiervet, het aangewassen vet aan de ribwand, het vet rond de halsslagaders, de staart en de longhaas zijn meegewogen – met de volgende percentages te verlagen:
+1. In het geval van reeds geclassiceerde runderen, is het in afwijking van [Artikel 2:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:14&z=2014-06-27&g=2014-06-27) toegestaan voorafgaand aan de goedkeuring het vastgestelde gewicht, – waarbij het niervet, de nieren, het slotvet, het oppervlakkig borstvet vanaf de navelinplant, het vet rond de aarsopening, het vet van de schaamnaad, het zak- of uiervet, het aangewassen vet aan de ribwand, het vet rond de halsslagaders, de staart en de longhaas zijn meegewogen – met de volgende percentages te verlagen:
 
 | vetklasse | vrouwelijke runderen | mannelijke runderen |
 | --- | --- | --- |
@@ -282,13 +282,13 @@ Indien de delen, bedoeld in [Artikel 2:7, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 2:16
 
-1. Een be- of verwerker die slacht, of een leverancier die laat slachten, rekent af op basis van het niet afgeronde gewicht dat is vastgesteld op grond van [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-01-01&g=2014-01-01), [Artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:9&z=2014-01-01&g=2014-01-01) en [Artikel 2:13 tot en met Artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-01-01&g=2014-01-01), dat wordt verhoogd:
+1. Een be- of verwerker die slacht, of een leverancier die laat slachten, rekent af op basis van het niet afgeronde gewicht dat is vastgesteld op grond van [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-06-27&g=2014-06-27), [Artikel 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:9&z=2014-06-27&g=2014-06-27) en [Artikel 2:13 tot en met Artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-06-27&g=2014-06-27), dat wordt verhoogd:
 
-- a. met 1% van dat gewicht als bijtelling voor elke wachtdag als [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-01-01&g=2014-01-01) niet is nagekomen, maar wel [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-01-01&g=2014-01-01);
+- a. met 1% van dat gewicht als bijtelling voor elke wachtdag als [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-06-27&g=2014-06-27) niet is nagekomen, maar wel [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-06-27&g=2014-06-27);
 
-- b. met 1% van dat gewicht als [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-01-01&g=2014-01-01) niet is nagekomen, maar wel [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-01-01&g=2014-01-01), of
+- b. met 1% van dat gewicht als [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-06-27&g=2014-06-27) niet is nagekomen, maar wel [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-06-27&g=2014-06-27), of
 
-- c. met 1% van dat gewicht als bijtelling voor elke wachtdag en verhoogd met 1% van dat gewicht als [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-01-01&g=2014-01-01) en [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-01-01&g=2014-01-01) niet zijn nagekomen,
+- c. met 1% van dat gewicht als bijtelling voor elke wachtdag en verhoogd met 1% van dat gewicht als [Artikel 2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:5&z=2014-06-27&g=2014-06-27) en [Artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=3&artikel=2:8&z=2014-06-27&g=2014-06-27) niet zijn nagekomen,
 
 waarbij een gedeelte van een dag geldt als een volle dag.
 
@@ -344,7 +344,7 @@ waarbij een gedeelte van een dag geldt als een volle dag.
 
 ##### Artikel 2:19
 
-1. Een be- of verwerker meldt de tijd van een geplande slachting tijdig aan Dienst Regelingen.
+1. Een be- of verwerker meldt de tijd van een geplande slachting tijdig aan de minister.
 
 2. Een be- of verwerker stelt een geschikte kantoorruimte ter beschikking aan de NVWA.
 
@@ -431,7 +431,7 @@ Voor de aanbrenging van classificatiemerken bestemde werktuigen worden gebruikt 
 
 ##### Artikel 2:27
 
-1. Een be- of verwerker informeert Dienst Regelingen per geslacht slachtrund over:
+1. Een be- of verwerker informeert de minister per geslacht slachtrund over:
 
 - a. het nummer van het merk;
 
@@ -441,11 +441,11 @@ Voor de aanbrenging van classificatiemerken bestemde werktuigen worden gebruikt 
 
 - d. het gewicht.
 
-2. Een be- of verwerker controleert of zijn administratie overeenstemt met de gegevens van de classificatielijst, bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-01-01&g=2014-01-01).
+2. Een be- of verwerker controleert of zijn administratie overeenstemt met de gegevens van de classificatielijst, bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-06-27&g=2014-06-27).
 
-3. Een be- of verwerker meldt op grond van het tweede lid geconstateerde verschillen aan Dienst Regelingen. Indien van het laatste niet is gebleken wordt aan de classificatielijst, bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-01-01&g=2014-01-01), doorslaggevend belang toegekend.
+3. Een be- of verwerker meldt op grond van het tweede lid geconstateerde verschillen aan de minister. Indien van het laatste niet is gebleken wordt aan de classificatielijst, bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-06-27&g=2014-06-27), doorslaggevend belang toegekend.
 
-4. De be- of verwerker verzendt de in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-01-01&g=2014-01-01), bedoelde gegevens dagelijks aan Dienst Regelingen.
+4. De be- of verwerker verzendt de in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-06-27&g=2014-06-27), bedoelde gegevens dagelijks aan de minister.
 
 ##### Artikel 2:28
 
@@ -461,7 +461,7 @@ Voor de aanbrenging van classificatiemerken bestemde werktuigen worden gebruikt 
 
 ##### Artikel 2:29
 
-1. Een exploitant van een slachthuis waarin jaarlijks ten minste 20.000 runderen worden geslacht en een grossier die jaarlijks tenminste 10.000 runderen in een slachthuis laat slachten melden de volgende gegevens voor woensdag 9.00 uur aan Dienst Regelingen:
+1. Een exploitant van een slachthuis waarin jaarlijks ten minste 20.000 runderen worden geslacht en een grossier die jaarlijks tenminste 10.000 runderen in een slachthuis laat slachten melden de volgende gegevens voor woensdag 9.00 uur aan de minister:
 
 - a. de marktprijs, zijnde het aankoopbedrag franco abattoir, exclusief BTW;
 
@@ -487,7 +487,7 @@ Voor de aanbrenging van classificatiemerken bestemde werktuigen worden gebruikt 
 
 1. Een be- of verwerker voert een zodanige administratie dat te allen tijde op eenvoudige wijze inzicht kan worden verkregen in de koopcondities van de betrokken slachtrunderen. Voor slachtrunderen bevat deze administratie in ieder geval de namen en de adressen van leveranciers, het nummer van het merk en de conditie waaronder het desbetreffende slachtrund is gekocht.
 
-2. Een be- of verwerker bewaart een afschrift van een classificatielijst als bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-01-01&g=2014-01-01), gedurende ten minste één jaar op overzichtelijke wijze.
+2. Een be- of verwerker bewaart een afschrift van een classificatielijst als bedoeld in [Artikel 2:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=7&artikel=2:26&z=2014-06-27&g=2014-06-27), gedurende ten minste één jaar op overzichtelijke wijze.
 
 3. Een be- of verwerker en de leverancier dragen er zorg voor dat van elk weegdocument en elke factuur een gelijkluidend afschrift op overzichtelijke wijze gedurende ten minste één jaar wordt bewaard.
 
@@ -497,7 +497,7 @@ Voor de aanbrenging van classificatiemerken bestemde werktuigen worden gebruikt 
 
 ##### Artikel 2:31
 
-De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffing verlenen van de verplichtingen, bedoeld in [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-01-01&g=2014-01-01) of [Artikel 2:13 tot en met Artikel 2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-01-01&g=2014-01-01) en daaraan voorwaarden verbinden.
+De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffing verlenen van de verplichtingen, bedoeld in [Artikel 2:7](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2014-06-27&g=2014-06-27) of [Artikel 2:13 tot en met Artikel 2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=2&paragraaf=4&artikel=2:13&z=2014-06-27&g=2014-06-27) en daaraan voorwaarden verbinden.
 
 ### Hoofdstuk 3. Marktordening varkensvlees
 
@@ -509,7 +509,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 - **afkeurbewijs:** lijst waarop de gewichten van de op last van de minister afgesneden delen van een geslacht varken vermeld staan en die door de minister is afgetekend;
 
-- **afkeurgewicht:** gewicht van de door de minister afgekeurde delen van het geslachte varken, niet zijnde delen als bedoeld in [Artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01);
+- **afkeurgewicht:** gewicht van de door de minister afgekeurde delen van het geslachte varken, niet zijnde delen als bedoeld in [Artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27);
 
 - **basisprijs:** prijs per kilogram geslacht gewicht;
 
@@ -539,7 +539,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 - **uitbetalen naar kwaliteit:** uitbetalen van slachtvarkens op basis van classificatiegegevens;
 
-- **uitbetalingsgewicht:** overeenkomstig [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-01-01&g=2014-01-01), [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-01-01&g=2014-01-01) en [Artikel 3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=4&artikel=3:14&z=2014-01-01&g=2014-01-01) bepaalde gewicht;
+- **uitbetalingsgewicht:** overeenkomstig [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-06-27&g=2014-06-27), [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-06-27&g=2014-06-27) en [Artikel 3:14](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=4&artikel=3:14&z=2014-06-27&g=2014-06-27) bepaalde gewicht;
 
 - **Uitvoeringsbesluit:** Uitvoeringsbesluit van de Commissie van 20 mei 2011 tot toelating van methoden voor de indeling van geslachte varkens in Nederland (2011/303/EU) (PbEU 2011, L 136);
 
@@ -549,11 +549,11 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 - **volgnummers:** nummers die per dag de volgorde aangeven waarin slachtvarkens na de slachting gewogen zijn;
 
-- **warm geslacht gewicht:** overeenkomstig het bepaalde gewicht op grond van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-01-01&g=2014-01-01) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-01-01&g=2014-01-01);
+- **warm geslacht gewicht:** overeenkomstig het bepaalde gewicht op grond van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-06-27&g=2014-06-27) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-06-27&g=2014-06-27);
 
-- **weegdocument en factuur:** weegdocument en gedagtekende factuur als bedoeld in [Artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:15&z=2014-01-01&g=2014-01-01);
+- **weegdocument en factuur:** weegdocument en gedagtekende factuur als bedoeld in [Artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:15&z=2014-06-27&g=2014-06-27);
 
-- **weeggegevens:** door een weegwerktuig vastgesteld gewicht, de toegepaste tarra en de gewichtscorrecties als bedoeld in [Artikel 3:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01);
+- **weeggegevens:** door een weegwerktuig vastgesteld gewicht, de toegepaste tarra en de gewichtscorrecties als bedoeld in [Artikel 3:5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27);
 
 - **eegwerktuig:** wweegwerktuig met inbegrip van de daaraan gekoppelde apparatuur, die functies van het weegwerktuig uitvoert;
 
@@ -679,7 +679,7 @@ Het is een be- of verwerker niet toegestaan:
 
 ##### Artikel 3:12
 
-Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware slachtvarkens, slacht of doet slachten, kan in zoverre in afwijking van [Artikel 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:11&z=2014-01-01&g=2014-01-01) bij de weging gebruik maken van twee typen spreiders, mits:
+Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware slachtvarkens, slacht of doet slachten, kan in zoverre in afwijking van [Artikel 3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:11&z=2014-06-27&g=2014-06-27) bij de weging gebruik maken van twee typen spreiders, mits:
 
 - a. slechts één type spreider aangewend wordt voor zware slachtvarkens;
 
@@ -709,7 +709,7 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 ##### Artikel 3:14
 
-1. Na toepassing van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), [Artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:6&z=2014-01-01&g=2014-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-01-01&g=2014-01-01) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-01-01&g=2014-01-01) wordt het gewicht als volgt vermeerderd:
+1. Na toepassing van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), [Artikel 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:6&z=2014-06-27&g=2014-06-27), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-06-27&g=2014-06-27) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-06-27&g=2014-06-27) wordt het gewicht als volgt vermeerderd:
 
 - a. als de varkens vóór 14.00 uur op de slachtplaats zijn aangevoerd en de weging niet op de dag van aanvoer plaatsvindt, maar op de eerstvolgende werkdag vóór 12.00 uur, wordt het gewicht vermeerderd met 1,25%;
 
@@ -721,15 +721,15 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 3. Indien de weging van de geslachte varkens later dan op de eerste werkdag na aanvoer plaatsvindt, wordt het gewicht van deze varkens vermeerderd met 1,25% daarvan per wachtdag, bovenop de gewichtsvermeerdering als bepaald onder a tot en met c. Een gedeelte van een wachtdag wordt aangemerkt als een volle dag.
 
-4. Na toepassing van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-01-01&g=2014-01-01) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-01-01&g=2014-01-01), wordt het gewicht vermeerderd met:
+4. Na toepassing van [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-06-27&g=2014-06-27) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-06-27&g=2014-06-27), wordt het gewicht vermeerderd met:
 
-- a. een half procent van dat gewicht indien de in [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:8&z=2014-01-01&g=2014-01-01) genoemde termijn met maximaal 20 minuten wordt overschreden;
+- a. een half procent van dat gewicht indien de in [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:8&z=2014-06-27&g=2014-06-27) genoemde termijn met maximaal 20 minuten wordt overschreden;
 
-- b. één procent van dat gewicht indien de in [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:8&z=2014-01-01&g=2014-01-01) genoemde termijn met méér dan 20 minuten wordt overschreden.
+- b. één procent van dat gewicht indien de in [Artikel 3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:8&z=2014-06-27&g=2014-06-27) genoemde termijn met méér dan 20 minuten wordt overschreden.
 
-5. Een be- of verwerker kan ten aanzien van de in [Artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), genoemde slachtvarkens, het bepaalde gewicht verminderen met 2% van dat gewicht.
+5. Een be- of verwerker kan ten aanzien van de in [Artikel 3:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), genoemde slachtvarkens, het bepaalde gewicht verminderen met 2% van dat gewicht.
 
-6. Het overeenkomstig [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-01-01&g=2014-01-01) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-01-01&g=2014-01-01), bepaalde gewicht, waar nodig aangepast conform het gestelde in het eerste, derde of vierde lid, dient ter bepaling van het uitbetalingsgewicht.
+6. Het overeenkomstig [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27), [Artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2014-06-27&g=2014-06-27) en [Artikel 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=3&artikel=3:10&z=2014-06-27&g=2014-06-27), bepaalde gewicht, waar nodig aangepast conform het gestelde in het eerste, derde of vierde lid, dient ter bepaling van het uitbetalingsgewicht.
 
 #### § 5. Administratieve voorschriften
 
@@ -749,9 +749,9 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 - e. per slachtvarken, de eigen code van het slachtmerk of het volgnummer dat tijdens de weging van het slachtvarken in de afdrukinrichting is ingevoerd;
 
-- f. per slachtvarken het uitbetalingsgewicht, bedoeld in [Artikel 3:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=4&artikel=3:14&z=2014-01-01&g=2014-01-01);
+- f. per slachtvarken het uitbetalingsgewicht, bedoeld in [Artikel 3:14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=4&artikel=3:14&z=2014-06-27&g=2014-06-27);
 
-- g. indien wordt uitbetaald naar kwaliteit, tevens de gegevens, bedoeld in [Artikel 3:27](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:27&z=2014-01-01&g=2014-01-01).
+- g. indien wordt uitbetaald naar kwaliteit, tevens de gegevens, bedoeld in [Artikel 3:27](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:27&z=2014-06-27&g=2014-06-27).
 
 3. Een be- of verwerker vermeldt de kosten van de naleving van deze regeling op de factuur ten behoeve van de leverancier.
 
@@ -787,13 +787,13 @@ Een be- of verwerker die zware slachtvarkens en slachtvarkens, niet zijnde zware
 
 ##### Artikel 3:18
 
-Het is niet toegestaan wijzingen aan te brengen in de documenten, bedoeld in [Artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:15&z=2014-01-01&g=2014-01-01), [Artikel 3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:16&z=2014-01-01&g=2014-01-01) en [Artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:17&z=2014-01-01&g=2014-01-01), ter zake van de daarop vermelde en in deze regeling genoemde gegevens.
+Het is niet toegestaan wijzingen aan te brengen in de documenten, bedoeld in [Artikel 3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:15&z=2014-06-27&g=2014-06-27), [Artikel 3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:16&z=2014-06-27&g=2014-06-27) en [Artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=5&artikel=3:17&z=2014-06-27&g=2014-06-27), ter zake van de daarop vermelde en in deze regeling genoemde gegevens.
 
 #### § 6. Prijsregistratie
 
 ##### Artikel 3:19
 
-1. De exploitant van het slachthuis en de leverancier melden de marktprijs, bedoeld in artikel 25, eerste lid, van [Verordening 1249/2008](32008R1249), zijnde het aankoopbedrag franco abattoir, exclusief BTW, elke woensdag voor 9.00 uur aan Dienst Regelingen.
+1. De exploitant van het slachthuis en de leverancier melden de marktprijs, bedoeld in artikel 25, eerste lid, van [Verordening 1249/2008](32008R1249), zijnde het aankoopbedrag franco abattoir, exclusief BTW, elke woensdag voor 9.00 uur aan de minister.
 
 2. De gegevens, bedoeld in het eerste lid, hebben betrekking op de periode van maandag tot en met zondag die direct aan de woensdag is voorafgegaan.
 
@@ -876,11 +876,11 @@ Indien slachtvarkens naar kwaliteit worden uitbetaald, vermeldt een be- of verwe
 
 - a. met betrekking tot slachtvarkens waarvan het warm geslacht gewicht meer dan 73,5 kilogram doch minder dan 107,5 kilogram bedraagt: het aandeel mager vlees, afgerond op hele procenten en wel naar boven indien het cijfer van het gemeten percentage achter de komma 5 of meer bedraagt en naar beneden indien dat cijfer achter de komma minder dan 5 bedraagt, en
 
-- b. het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-01-01&g=2014-01-01).
+- b. het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-06-27&g=2014-06-27).
 
 ##### Artikel 3:28
 
-Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkenshouder onder conditie van uitbetaling naar kwaliteit heeft gekocht, informeert de varkenshouder op diens verzoek schriftelijk binnen drie weken na de slachting over het aandeel mager vlees van ieder slachtvarken, alsmede indien van toepassing over het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-01-01&g=2014-01-01), van het slachtvarken.
+Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkenshouder onder conditie van uitbetaling naar kwaliteit heeft gekocht, informeert de varkenshouder op diens verzoek schriftelijk binnen drie weken na de slachting over het aandeel mager vlees van ieder slachtvarken, alsmede indien van toepassing over het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-06-27&g=2014-06-27), van het slachtvarken.
 
 ##### Artikel 3:29
 
@@ -888,9 +888,9 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 - a. het nummer van het individueel oormerk of het bedrijfsoormerk;
 
-- b. het percentage mager vlees, afgerond overeenkomstig het bepaalde in [Artikel 3:27](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:27&z=2014-01-01&g=2014-01-01), en
+- b. het percentage mager vlees, afgerond overeenkomstig het bepaalde in [Artikel 3:27](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:27&z=2014-06-27&g=2014-06-27), en
 
-- c. indien van toepassing, het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-01-01&g=2014-01-01).
+- c. indien van toepassing, het type, bedoeld in [Artikel 3:24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:24&z=2014-06-27&g=2014-06-27).
 
 2. Een be- of verwerker verzendt de slachtgegevens dagelijks aan de minister.
 
@@ -898,13 +898,13 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 ##### Artikel 3:30
 
-1. Een be- of verwerker meldt wijzigingen in de bedrijfsvoering die van invloed kunnen zijn op het toezicht op de naleving of de uitvoering van de classificatiewerkzaamheden zo spoedig mogelijk aan Dienst Regelingen.
+1. Een be- of verwerker meldt wijzigingen in de bedrijfsvoering die van invloed kunnen zijn op het toezicht op de naleving of de uitvoering van de classificatiewerkzaamheden zo spoedig mogelijk aan de minister.
 
 2. Een be- of verwerker stelt de minister een door hem af te sluiten en alleen voor hem toegankelijke, vochtvrije ruimte ter beschikking. Deze ruimte moet voldoende groot zijn om zowel te kunnen dienen als opslagruimte, als voor het kunnen uitoefenen van de benodigde administratieve werkzaamheden.
 
 3. Een be- of verwerker stelt door de minister benodigde elektriciteit en water om niet ter beschikking.
 
-4. Een be- of verwerker meldt de geplande tijden van slachtingen aan Dienst Regelingen.
+4. Een be- of verwerker meldt de geplande tijden van slachtingen aan de minister.
 
 5. Een be- of verwerker draagt zorg voor zodanige arbeidsomstandigheden dat op grond van deze regeling uit te voeren werkzaamheden goed kunnen worden verricht door de minister.
 
@@ -912,7 +912,7 @@ Degene die slachtvarkens die na slachting zijn geclassificeerd van een varkensho
 
 ##### Artikel 3:31
 
-1. De minister kan in uitzonderlijke gevallen vrijstelling of ontheffing verlenen van de verplichting, bedoeld in [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-01-01&g=2014-01-01) of [Artikel 3:25](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:25&z=2014-01-01&g=2014-01-01).
+1. De minister kan in uitzonderlijke gevallen vrijstelling of ontheffing verlenen van de verplichting, bedoeld in [Artikel 3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2014-06-27&g=2014-06-27) of [Artikel 3:25](https://wetten.overheid.nl/jci1.3:c:BWBR0034313&hoofdstuk=3&paragraaf=7&artikel=3:25&z=2014-06-27&g=2014-06-27).
 
 2. Aan een vrijstelling of ontheffing als bedoeld in het eerste lid kunnen voorschriften of voorwaarden worden verbonden.
 
