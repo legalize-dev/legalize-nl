@@ -4,7 +4,7 @@ identifier: "BWBR0028590"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-15"
-last_updated: "2010-10-10"
+last_updated: "2014-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028590"
 soort: "ministeriele-regeling-BES"
@@ -50,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Als de beheersinstantie, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=5) wordt aangewezen de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
+Als de beheersinstantie, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=5) wordt aangewezen de Minister van Economische Zaken.
 
 ##### Artikel 3
 
