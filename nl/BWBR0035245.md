@@ -4,7 +4,7 @@ identifier: "BWBR0035245"
 country: "nl"
 rank: "wet"
 publication_date: "2014-06-28"
-last_updated: "2014-01-01"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035245"
 soort: "wet"
@@ -64,7 +64,7 @@ Voor het kalenderjaar 2013 wordt voor de toepassing van de [artikelen 2.2](https
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
-2. In afwijking van het eerste lid treedt [artikel I, onderdeel Ra](https://wetten.overheid.nl/jci1.3:c:BWBR0035245&artikel=I&z=2014-06-28&g=2014-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2014.
+2. In afwijking van het eerste lid treedt [artikel I, onderdeel Ra](https://wetten.overheid.nl/jci1.3:c:BWBR0035245&artikel=I&z=2014-06-28&g=2014-06-28), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2014.
 
 ##### Artikel VI
 
