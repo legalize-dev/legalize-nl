@@ -4,7 +4,7 @@ identifier: "BWBR0032452"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-29"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032452"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - **bezoldiging:** de bezoldiging in de zin van [artikel 1.1, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1);
 
-- **topfunctionarissen in het beroepsonderwijs en educatie:** de topfunctionarissen van de instellingen onder de nummers 16 tot en met 19, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 en 2 onder het opschrift ‘Ministerie van Economische Zaken’;
+- **topfunctionarissen in het beroepsonderwijs en educatie:** de topfunctionarissen van de instellingen onder de nummers 13 tot en met 16, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 en 2 onder het opschrift ‘Ministerie van Economische Zaken’;
 
-- **topfunctionarissen in het onderwijs:** de topfunctionarissen van de instellingen onder de nummers 1 tot en met 9 en 16 tot en met 20, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ respectievelijk de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken’;
+- **topfunctionarissen in het onderwijs:** de topfunctionarissen van de instellingen onder de nummers 1 tot en met 9 en 13 tot en met 17, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ respectievelijk de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken’;
 
 - **topfunctionarissen in het primair onderwijs:** de topfunctionarissen van de instellingen onder de nummers 1, 2 en 4 tot en met 6, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **topfunctionarissen van de cultuurfondsen:** de topfunctionarissen van een rechtspersoon, bedoeld in [artikel 1.3, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3), voor zover het betreft een fonds als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=1);
 
-- **topfunctionarissen van hogescholen:** de topfunctionarissen van de instellingen onder nummer 20, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de [bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend);
+- **topfunctionarissen van hogescholen:** de topfunctionarissen van de instellingen onder nummer 17, genoemd in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de [bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](77499);
 
 - **wet:** [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
@@ -96,13 +96,13 @@ De melding, bedoeld in [artikel 5.2, eerste en tweede lid, van de wet](https://w
 
 ##### Artikel 6. Toezicht en handhaving door de Inspectie van het onderwijs
 
-1. De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3), zijn belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en deze regeling, ten aanzien van de rechtspersonen, genoemd onder de nummers 1 tot en met 9 en 17, 18 en 20 in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken, Landbouw en Innovatie’.
+1. De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, tweede lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3), zijn belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en deze regeling, ten aanzien van de rechtspersonen, genoemd onder de nummers 1 tot en met 9 en 14, 15, en 17 in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken, Landbouw en Innovatie’.
 
 2. De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4), [5.5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5), en [5.6, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6).
 
 ##### Artikel 7. Toezicht en handhaving door het Commissariaat voor de Media
 
-1. De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in [artikel 7.11, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) zijn belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en deze regeling ten aanzien van de rechtspersonen, genoemd onder de nummers 21 en 22 in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’.
+1. De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in [artikel 7.11, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) zijn belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en deze regeling ten aanzien van de rechtspersonen, genoemd onder de nummers 18 en 19 in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’.
 
 2. De leden van het Commissariaat voor de Media zijn gemandateerd om ten aanzien van de rechtspersonen waarop het op grond van het eerste lid toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4), [5.5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5), en [5.6, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6).
 
@@ -156,7 +156,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Begripsbepaling toezicht overige OCW-sectoren
 
-In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2014-01-29&g=2014-01-29) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2014-01-29&g=2014-01-29), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2014-01-29&g=2014-01-29), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
+In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2014-06-28&g=2014-06-28) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2014-06-28&g=2014-06-28), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2014-06-28&g=2014-06-28), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
 
 ##### Artikel 7b. Sector primair onderwijs voor zover geen onderwijsinstelling
 
