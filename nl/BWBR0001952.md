@@ -4,7 +4,7 @@ identifier: "BWBR0001952"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001952"
 soort: "wet"
@@ -483,7 +483,7 @@ Lasten en bevelen, dat deze met een indeeling in het **Staatsblad** zal worden g
 
 ##### Artikel 12n
 
-Dit onderdeel is nog niet inwerking getreden
+Een ontslag van een militair die is ingezet als bedoeld in [artikel 1, onder d, van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1) gaat niet eerder in dan nadat ten minste drie maanden zijn verstreken na de dag waarop de militair is teruggekeerd van de inzet, tenzij de militair uitdrukkelijk anders verzoekt.
 
 ## Titel V. Overgangs- en slotbepalingen
 
