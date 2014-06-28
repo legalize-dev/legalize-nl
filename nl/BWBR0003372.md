@@ -4,7 +4,7 @@ identifier: "BWBR0003372"
 country: "nl"
 rank: "wet"
 publication_date: "2022-07-01"
-last_updated: "2013-01-01"
+last_updated: "2014-06-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003372"
 soort: "wet"
@@ -43,13 +43,15 @@ entry_into_force: "2012-02-11"
 
 Deze wet verstaat onder:
 
-- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01);
+- a. ombudsman: de Nationale ombudsman, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2014-06-28&g=2014-06-28);
 
-- b. **Kinderombudsman:** de als zodanig aangewezen substituut-ombudsman, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01);
+- b. **Kinderombudsman:** de als zodanig aangewezen substituut-ombudsman, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2014-06-28&g=2014-06-28);
 
-- c. ambtenaar: een ambtenaar, een gewezen ambtenaar, een persoon met wie door een bestuursorgaan een arbeidsovereenkomst is gesloten naar burgerlijk recht, ook na beëindiging van de arbeidsovereenkomst, een dienstplichtig militair, ook na het einde van de dienstplicht, alsmede andere personen werkzaam onder de verantwoordelijkheid van het bestuursorgaan, ook na het beëindigen van de werkzaamheden;
+- c. veteranenombudsman: de ombudsman voor zover hij optreedt als bedoeld in [hoofdstuk IIB](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&z=2014-06-28&g=2014-06-28), of de als zodanig aangewezen substituut-ombudsman bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2014-06-28&g=2014-06-28);
 
-- d. openbare lichamen: openbare lichamen Bonaire, Sint Eustatius en Saba.
+- d. ambtenaar: een ambtenaar, een gewezen ambtenaar, een persoon met wie door een bestuursorgaan een arbeidsovereenkomst is gesloten naar burgerlijk recht, ook na beëindiging van de arbeidsovereenkomst, een dienstplichtig militair, ook na het einde van de dienstplicht, alsmede andere personen werkzaam onder de verantwoordelijkheid van het bestuursorgaan, ook na het beëindigen van de werkzaamheden;
+
+- e. openbare lichamen: openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 1a
 
@@ -73,11 +75,11 @@ Deze wet verstaat onder:
 
 1. Indien de ombudsman een besluit als bedoeld in [artikel 79q, tweede of derde lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=79q), [artikel 81p, tweede of derde lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=81p), artikel 107, tweede of derde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba [artikel 51b, tweede of derde lid, van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=51b) of [artikel 10, vierde lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=10) heeft ontvangen, bevestigt hij onverwijld de ontvangst daarvan.
 
-2. De ombudsman registreert de provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen met een eigen voorziening als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01). Hij maakt deze registratie openbaar.
+2. De ombudsman registreert de provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen met een eigen voorziening als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28). Hij maakt deze registratie openbaar.
 
 ##### Artikel 1c
 
-1. Provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), zijn een vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan de behandeling van verzoekschriften ten aanzien van hun bestuursorganen door de ombudsman. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de vergoeding vast.
+1. Provincies, gemeenten, openbare lichamen, waterschappen en gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), zijn een vergoeding verschuldigd ter dekking van de kosten die zijn verbonden aan de behandeling van verzoekschriften ten aanzien van hun bestuursorganen door de ombudsman. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt de vergoeding vast.
 
 2. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent:
 
@@ -99,7 +101,7 @@ Deze wet verstaat onder:
 
 4. Indien de Tweede Kamer voornemens is de ombudsman opnieuw te benoemen, kan zij bepalen dat het tweede lid, tweede volzin, buiten toepassing blijft.
 
-5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=10&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+5. Indien blijkt dat de Tweede Kamer niet tijdig tot de benoeming van een nieuwe ombudsman zal kunnen komen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman. [Artikel 10, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=10&z=2014-06-28&g=2014-06-28), is van overeenkomstige toepassing.
 
 ##### Artikel 3
 
@@ -131,7 +133,7 @@ Deze wet verstaat onder:
 
 - c. hij onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), zouden kunnen leiden.
+2. De Tweede Kamer kan de ombudsman op non-activiteit stellen, indien hij wordt vervolgd wegens een misdrijf of indien er een ander ernstig vermoeden is voor het bestaan van feiten of omstandigheden die tot ontslag, anders dan op gronden vermeld in [artikel 3, tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2014-06-28&g=2014-06-28), zouden kunnen leiden.
 
 3. In het geval, bedoeld in het tweede lid, eindigt de non-activiteit na drie maanden. De Tweede Kamer kan de maatregel echter telkens voor ten hoogste drie maanden verlengen.
 
@@ -175,33 +177,33 @@ Alvorens zijn ambt te aanvaarden legt de ombudsman in de handen van de Voorzitte
 
 ##### Artikel 9
 
-1. De Tweede Kamer benoemt op verzoek van de ombudsman een of meer personen tot substituut-ombudsman en wijst daarbij de substituut-ombudsman aan die de functie van Kinderombudsman heeft. De ombudsman maakt daartoe een aanbeveling op, die de namen van ten minste drie personen bevat. Indien er geen Kinderombudsman is, draagt de ombudsman zo spoedig mogelijk zorg voor een verzoek als bedoeld in de eerste volzin.
+1. De Tweede Kamer benoemt op verzoek van de ombudsman een of meer personen tot substituut-ombudsman en wijst daarbij de substituut-ombudsman aan die de functie van Kinderombudsman of Veteranenombudsman heeft. De ombudsman maakt daartoe een aanbeveling op, die de namen van ten minste drie personen bevat. Indien er geen Kinderombudsman of Veteranenombudsman is, draagt de ombudsman zo spoedig mogelijk zorg voor een verzoek als bedoeld in de eerste volzin.
 
 2. De benoeming van een substituut-ombudsman geschiedt voor de duur van de ambtstermijn van de ombudsman op wiens verzoek hij is benoemd, vermeerderd met een jaar.
 
 3. Indien de Tweede Kamer voornemens is een substituut-ombudsman opnieuw te benoemen, kan zij bepalen dat het eerste lid, tweede volzin, buiten toepassing blijft.
 
-4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01), en de [artikelen 9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21) en [9:30 tot en met 9:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:30), zijn van overeenkomstig toepassing op een substituut-ombudsman.
+4. De[artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2014-06-28&g=2014-06-28), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2014-06-28&g=2014-06-28), en de [artikelen 9:21](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:21) en [9:30 tot en met 9:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:30), zijn van overeenkomstig toepassing op een substituut-ombudsman.
 
 5. De ombudsman regelt de werkzaamheden van een substituut-ombudsman.
 
-6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=16&z=2013-01-01&g=2013-01-01), en de [artikelen 9:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:27), [9:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:35) en [9:36 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
+6. De ombudsman kan bepalen dat de bevoegdheden, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=16&z=2014-06-28&g=2014-06-28), en de [artikelen 9:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:27), [9:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:35) en [9:36 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:36), tevens worden uitgeoefend door een substituut-ombudsman. De ombudsman kan voor de uitoefening van die bevoegdheden richtlijnen vaststellen.
 
 ##### Artikel 10
 
-1. De ombudsman regelt zijn vervanging door een substituut-ombudsman, voor het geval dat hij tijdelijk niet in staat is zijn ambt te vervullen. De ombudsman regelt tevens de vervanging van de Kinderombudsman door een substituut-ombudsman, voor het geval dat die tijdelijk niet in staat is zijn ambt te vervullen.
+1. De ombudsman regelt zijn vervanging door een substituut-ombudsman, voor het geval dat hij tijdelijk niet in staat is zijn ambt te vervullen. De ombudsman regelt tevens de vervanging van de Kinderombudsman of de Veteranenombudsman door een substituut-ombudsman, voor het geval dat die tijdelijk niet in staat is zijn ambt te vervullen.
 
-2. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de vervanging van de ombudsman of Kinderombudsman. In dat geval eindigt de vervanging wanneer de ombudsman of Kinderombudsman weer in staat is zijn ambt te vervullen of, indien de ombudsman of Kinderombudsman op non-activiteit is gesteld, op het tijdstip dat de non-activiteit eindigt.
+2. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de vervanging van de ombudsman, Kinderombudsman of Veteranenombudsman. In dat geval eindigt de vervanging wanneer de ombudsman, Kinderombudsman of Veteranenombudsman weer in staat is zijn ambt te vervullen of, indien de ombudsman, Kinderombudsman of Veteranenombudsman op non-activiteit is gesteld, op het tijdstip dat de non-activiteit eindigt.
 
-3. Indien de ombudsman of Kinderombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01) wordt ontslagen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman of Kinderombudsman door een substituut-ombudsman.
+3. Indien de ombudsman, Kinderombudsman of Veteranenombudsman overlijdt of ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2014-06-28&g=2014-06-28) wordt ontslagen, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman, Kinderombudsman of Veteranenombudsman door een substituut-ombudsman.
 
-4. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman of Kinderombudsman.
+4. Indien geen substituut-ombudsman aanwezig of beschikbaar is, voorziet de Tweede Kamer zo spoedig mogelijk in de waarneming van het ambt van ombudsman, Kinderombudsman of Veteranenombudsman.
 
-5. De waarneming eindigt van rechtswege op het tijdstip waarop een nieuwe ombudsman of Kinderombudsman in functie is getreden.
+5. De waarneming eindigt van rechtswege op het tijdstip waarop een nieuwe ombudsman, Kinderombudsman of Veteranenombudsman in functie is getreden.
 
-6. Op degene die krachtens het tweede of het vierde lid de ombudsman of Kinderombudsman vervangt of het ambt van ombudsman of Kinderombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2013-01-01&g=2013-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=6&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2013-01-01&g=2013-01-01) van deze wet niet van toepassing.
+6. Op degene die krachtens het tweede of het vierde lid de ombudsman, Kinderombudsman of Veteranenombudsman vervangt of het ambt van ombudsman, Kinderombudsman of Veteranenombudsman waarneemt, zijn de[artikelen 2, tweede lid, tweede volzin, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=2&z=2014-06-28&g=2014-06-28), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=3&z=2014-06-28&g=2014-06-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=6&z=2014-06-28&g=2014-06-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=9&z=2014-06-28&g=2014-06-28) van deze wet niet van toepassing.
 
-7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=5&z=2013-01-01&g=2013-01-01), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld. De bezoldiging voor die betrekking of dat lidmaatschap met inbegrip van eventuele toelagen blijft gedurende de periode van non-activiteit achterwege.
+7. Indien de in het zesde lid bedoelde vervanger respectievelijk waarnemer een betrekking of lidmaatschap als bedoeld in [artikel 5, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=II&artikel=5&z=2014-06-28&g=2014-06-28), bekleedt of gaat bekleden, is hij voor de duur van de vervanging respectievelijk de waarneming in die betrekking of dat lidmaatschap van rechtswege op non-activiteit gesteld. De bezoldiging voor die betrekking of dat lidmaatschap met inbegrip van eventuele toelagen blijft gedurende de periode van non-activiteit achterwege.
 
 ##### Artikel 11
 
@@ -231,7 +233,7 @@ De ombudsman kan bevelen dat personen die, hoewel wettelijk opgeroepen, niet zij
 
 ##### Artikel 16
 
-1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
+1. De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan de beide Kamers der Staten-Generaal en aan Onze Ministers, alsmede aan de vertegenwoordigende organen van provincies, gemeenten openbare lichamen en waterschappen en aan de algemene besturen van gemeenschappelijke regelingen als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), voorzover de ombudsman ten aanzien van hun bestuursorganen verzoekschriften heeft behandeld. [Artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) is van overeenkomstige toepassing met dien verstande dat de ombudsman bij het verslag gegevens kan voegen, slechts ter vertrouwelijke kennisneming door de leden van de Staten-Generaal en Onze Ministers.
 
 2. De ombudsman draagt er zorg voor dat het verslag openbaar wordt gemaakt en algemeen verkrijgbaar wordt gesteld.
 
@@ -243,11 +245,11 @@ De voordrachten voor ter uitvoering van deze wet te nemen koninklijke besluiten 
 
 ##### Artikel 18
 
-Indien provincies, gemeenten, openbare lichamen, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
+Indien provincies, gemeenten, openbare lichamen, waterschappen of gemeenschappelijke regelingen een eigen voorziening voor de behandeling van verzoekschriften hebben ingesteld als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), blijft de ombudsman bevoegd verzoekschriften ten aanzien van hun bestuursorganen te behandelen die voor de ingangsdatum van de eigen voorziening door hem zijn ontvangen.
 
 ##### Artikel 19
 
-Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
+Tot een jaar na inwerkingtreding van een besluit als bedoeld in [artikel 1a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), kan met betrekking tot een gedraging van het desbetreffende bestuursorgaan die heeft plaatsgevonden voordat het desbetreffende bestuursorgaan is uitgezonderd, een verzoekschrift bij de ombudsman worden ingediend.
 
 ##### Artikel 20
 
@@ -315,7 +317,7 @@ Deze wet wordt aangehaald als: Wet Nationale ombudsman.
 
 3. De ombudsman kan ook dadelijk na het afsluiten van een onderzoek de beide Kamers der Staten-Generaal inlichten omtrent zijn bevindingen en oordeel, zo dikwijls hij de eerdere kennisneming daarvan voor de Kamers van belang acht of één der Kamers dit verzoekt.
 
-### Hoofdstuk III. Overgangs- en slotbepalingen
+### Hoofdstuk IV. Overgangs- en slotbepalingen
 
 ##### Artikel 29
 
@@ -345,13 +347,13 @@ Deze wet kan worden aangehaald als: Wet Nationale ombudsman.
 
 ##### Artikel 19a
 
-1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), is deze wet tot twee jaar na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba alleen van toepassing op de gedragingen van de bestuursorganen van de openbare lichamen, voor zover de ombudsman hiertoe op een gezamenlijk verzoek van de eilandsraden van de openbare lichaam heeft besloten. De ombudsman kan daarbij een termijn bepalen waarop deze wet ten aanzien van de gedragingen van de bestuursorganen van de openbare lichamen van toepassing zal zijn.
+1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), is deze wet tot twee jaar na de inwerkingtreding van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba alleen van toepassing op de gedragingen van de bestuursorganen van de openbare lichamen, voor zover de ombudsman hiertoe op een gezamenlijk verzoek van de eilandsraden van de openbare lichaam heeft besloten. De ombudsman kan daarbij een termijn bepalen waarop deze wet ten aanzien van de gedragingen van de bestuursorganen van de openbare lichamen van toepassing zal zijn.
 
 2. Een besluit als bedoeld in het eerste lid wordt bekend gemaakt in de Staatscourant en in de afkondigingsbladen van de openbare lichamen.
 
 ##### Artikel 1d
 
-De [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1b&z=2013-01-01&g=2013-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1c&z=2013-01-01&g=2013-01-01) zijn niet van toepassing op de Kinderombudsman, voor zover die als zodanig optreedt.
+De [artikelen 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1b&z=2014-06-28&g=2014-06-28) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1c&z=2014-06-28&g=2014-06-28) zijn niet van toepassing op de Kinderombudsman of de Veteranenombudsman, voor zover die als zodanig optreedt.
 
 ### Hoofdstuk II. De Nationale Ombudsman
 
@@ -385,7 +387,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 1. Een ieder die meent dat een of meer rechten van jeugdigen niet geëerbiedigd worden door:
 
-- a. een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), met dien verstande dat, in afwijking van artikel 1a, eerste lid, onder b, daaronder mede worden begrepen bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in artikel 1a, eerste lid, onder b;
+- a. een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), met dien verstande dat, in afwijking van artikel 1a, eerste lid, onder b, daaronder mede worden begrepen bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in artikel 1a, eerste lid, onder b;
 
 - b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voor zover die:
 
@@ -395,19 +397,19 @@ In dit hoofdstuk wordt verstaan onder:
 
 kan een klacht indienen bij de Kinderombudsman.
 
-2. Een klacht over een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), geldt als een verzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18).
+2. Een klacht over een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), geldt als een verzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18).
 
 3. Een gedraging van een medewerker van een rechtspersoon als bedoeld in het eerste lid, onder b, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van die rechtspersoon.
 
 ##### Artikel 11d
 
-1. Op de behandeling van klachten over en onderzoek uit eigen beweging naar bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2013-01-01&g=2013-01-01), en organen van rechtspersonen als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2013-01-01&g=2013-01-01), door de Kinderombudsman zijn [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2013-01-01&g=2013-01-01) alsmede [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) van overeenkomstige toepassing.
+1. Op de behandeling van klachten over en onderzoek uit eigen beweging naar bestuursorganen met een eigen voorziening voor de behandeling van verzoekschriften als bedoeld in [artikel 1a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), en organen van rechtspersonen als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2014-06-28&g=2014-06-28), door de Kinderombudsman zijn [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2014-06-28&g=2014-06-28) alsmede [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), kan een klacht als bedoeld in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2013-01-01&g=2013-01-01), mondeling worden ingediend. De [artikelen 9:23 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:23) en [9:28 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:28) zijn in dat geval niet van toepassing.
+2. In afwijking van [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18), kan een klacht als bedoeld in [artikel 11c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2014-06-28&g=2014-06-28), mondeling worden ingediend. De [artikelen 9:23 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:23) en [9:28 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:28) zijn in dat geval niet van toepassing.
 
-3. In afwijking van [artikel 9:18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18) is de Kinderombudsman niet verplicht een onderzoek in te stellen, indien de klacht een orgaan als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2013-01-01&g=2013-01-01), betreft.
+3. In afwijking van [artikel 9:18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18) is de Kinderombudsman niet verplicht een onderzoek in te stellen, indien de klacht een orgaan als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2014-06-28&g=2014-06-28), betreft.
 
-4. De in [artikel 9:33 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:33) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2013-01-01&g=2013-01-01).
+4. De in [artikel 9:33 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:33) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in [artikel 11c, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIa&artikel=11c&z=2014-06-28&g=2014-06-28).
 
 ##### Artikel 11e
 
@@ -422,3 +424,47 @@ kan een klacht indienen bij de Kinderombudsman.
 ### Hoofdstuk III. Aanvullende bepalingen betreffende het onderzoek
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
+
+##### Artikel 11f
+
+In dit hoofdstuk wordt verstaan onder:
+
+- a. **veteraan:** een veteraan als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1);
+
+- b. **relaties van een veteraan:** relaties als bedoeld in [artikel 1 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1).
+
+##### Artikel 11g
+
+1. De Veteranenombudsman is bevoegd:
+
+- a. naar aanleiding van klachten of uit eigen beweging een onderzoek in te stellen naar de wijze waarop een instantie als bedoeld in [artikel 11h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&artikel=11h&z=2014-06-28&g=2014-06-28), zich in een bepaalde aangelegenheid heeft gedragen, tenzij [artikel 9:22 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:22) van toepassing is;
+
+- b. gevraagd en ongevraagd advies te geven aan de regering en de beide Kamers der Staten-Generaal over de uitvoering van de [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401) en over beleid dat een behoorlijke behandeling van Veteranen raakt;
+
+- c. de wijze waarop klachten van veteranen of hun relaties door de daartoe bevoegde instanties, niet zijnde de ombudsman, worden behandeld te monitoren en te analyseren en de regering en de Tweede Kamer in te lichten over zijn bevindingen.
+
+##### Artikel 11h
+
+1. Een veteraan of namens deze, een relatie van een veteraan, die meent niet behoorlijk behandeld te zijn door:
+
+- a. een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28);
+
+- b. een orgaan van een rechtspersoon, niet zijnde een bestuursorgaan, voorzover die:
+
+- 1°. . een bij of krachtens wet geregelde taak ten aanzien van veteranen uitoefent; of
+
+- 2°. . anderszins een taak ten aanzien van veteranen uitoefent,
+
+kan een klacht indienen bij de Veteranenombudsman.
+
+2. Een klacht over een bestuursorgaan als bedoeld in [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=I&artikel=1a&z=2014-06-28&g=2014-06-28), geldt als een verzoek als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:18).
+
+3. Een gedraging van een medewerker van een rechtspersoon als bedoeld in het eerste lid, onder b, verricht in de uitoefening van zijn functie, wordt aangemerkt als een gedraging van die rechtspersoon.
+
+##### Artikel 11i
+
+1. Op de behandeling van klachten over en onderzoek uit eigen beweging naar organen van rechtspersonen als bedoeld in [artikel 11h, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&artikel=11h&z=2014-06-28&g=2014-06-28), door de Veteranenombudsman zijn [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=III&artikel=15&z=2014-06-28&g=2014-06-28) alsmede [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) van overeenkomstige toepassing.
+
+2. De in [artikel 9:33 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:33) bedoelde vergoeding van kosten vindt plaats ten laste van het Rijk indien het onderzoek betrekking heeft op een orgaan van een rechtspersoon als bedoeld in [artikel 11h, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&hoofdstuk=IIb&artikel=11h&z=2014-06-28&g=2014-06-28).
+
+### Hoofdstuk III. Aanvullende bepalingen betreffende het onderzoek
