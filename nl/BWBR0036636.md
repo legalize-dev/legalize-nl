@@ -4,7 +4,7 @@ identifier: "BWBR0036636"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2013-04-01"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036636"
 soort: "AMvB"
@@ -96,7 +96,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2015-05-28&g=2013-04-01) dat met ingang van 1 juli 2015 in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2015-05-28&g=2014-06-30) dat met ingang van 1 juli 2015 in werking treedt.
 
 ##### Artikel 7
 
