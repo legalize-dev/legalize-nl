@@ -4,7 +4,7 @@ identifier: "BWBV0006199"
 country: "nl"
 rank: "verdrag"
 publication_date: "2019-01-01"
-last_updated: "2013-07-01"
+last_updated: "2014-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006199"
 soort: "verdrag"
@@ -108,7 +108,7 @@ Voor de toepassing van de artikelen 4 tot en met 6 neemt elke overeenkomstsluite
 
 ##### Artikel 5. Overgangsbepalingen
 
-1. Indien de uiteindelijk gerechtigde tot de rente zijn woonplaats in de Republiek Kroatië en de uitbetalende instantie zijn woonplaats in Curaçao heeft, heft Curaçao gedurende de in artikel 10 van de richtlijn bedoelde overgangsperiode bronbelasting op rentebetalingen tegen een tarief van 35%. Gedurende deze periode is Curaçao niet gehouden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=4&z=2013-07-01&g=2013-07-01) toe te passen. Curaçao ontvangt echter gegevens van de Republiek Kroatië overeenkomstig dat artikel.
+1. Indien de uiteindelijk gerechtigde tot de rente zijn woonplaats in de Republiek Kroatië en de uitbetalende instantie zijn woonplaats in Curaçao heeft, heft Curaçao gedurende de in artikel 10 van de richtlijn bedoelde overgangsperiode bronbelasting op rentebetalingen tegen een tarief van 35%. Gedurende deze periode is Curaçao niet gehouden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=4&z=2014-06-30&g=2014-06-30) toe te passen. Curaçao ontvangt echter gegevens van de Republiek Kroatië overeenkomstig dat artikel.
 
 2. De uitbetalende instantie houdt de bronbelasting in op de wijze als omschreven in artikel 11, leden 2 en 3, van de richtlijn.
 
@@ -116,13 +116,13 @@ Voor de toepassing van de artikelen 4 tot en met 6 neemt elke overeenkomstsluite
 
 4. Gedurende de overgangsperiode kan Curaçao bepalen dat een marktdeelnemer die rente uitbetaalt aan of een rentebetaling bewerkstelligt voor een in de Republiek Kroatië gevestigde entiteit als bedoeld in artikel 4, lid 2, van de richtlijn, wordt aangemerkt als de uitbetalende instantie in plaats van de entiteit, en heft hij de bronbelasting op die rente, tenzij de entiteit formeel heeft aanvaard dat haar naam en adres alsmede het totale bedrag van de rentebetaling die aan haar is verricht of voor haar is bewerkstelligd, worden meegedeeld overeenkomstig de laatste alinea van artikel 4, lid 2.
 
-5. Aan het einde van de overgangsperiode is Curaçao gehouden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=4&z=2013-07-01&g=2013-07-01) toe te passen en past Curaçao niet langer bronbelasting en verdeling van belastingopbrengsten als bedoeld in de artikelen 5 en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=6&z=2013-07-01&g=2013-07-01) toe. Indien Curaçao er tijdens de overgangsperiode voor kiest de bepalingen van artikel 4 toe te passen, past Curaçao niet langer bronbelasting en verdeling van belastingopbrengsten als bedoeld in de artikelen 5 en 6 toe.
+5. Aan het einde van de overgangsperiode is Curaçao gehouden de bepalingen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=4&z=2014-06-30&g=2014-06-30) toe te passen en past Curaçao niet langer bronbelasting en verdeling van belastingopbrengsten als bedoeld in de artikelen 5 en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=6&z=2014-06-30&g=2014-06-30) toe. Indien Curaçao er tijdens de overgangsperiode voor kiest de bepalingen van artikel 4 toe te passen, past Curaçao niet langer bronbelasting en verdeling van belastingopbrengsten als bedoeld in de artikelen 5 en 6 toe.
 
 ##### Artikel 6. Verdeling van belastingopbrengsten
 
-1. Curaçao behoudt 25% van de opbrengsten van de bronbelasting als bedoeld [artikel 5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2013-07-01&g=2013-07-01), en draagt 75% van de opbrengsten over aan de Republiek Kroatië.
+1. Curaçao behoudt 25% van de opbrengsten van de bronbelasting als bedoeld [artikel 5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2014-06-30&g=2014-06-30), en draagt 75% van de opbrengsten over aan de Republiek Kroatië.
 
-2. Indien Curaçao overeenkomstig [artikel 5, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2013-07-01&g=2013-07-01), bronbelasting heft, behoudt Curaçao 25% van de opbrengsten van de bronbelasting geheven op rentebetalingen aan in de Republiek Kroatië gevestigde entiteiten als bedoeld in artikel 4, lid 2, van de richtlijn en draagt 75% over aan de Republiek Kroatië.
+2. Indien Curaçao overeenkomstig [artikel 5, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2014-06-30&g=2014-06-30), bronbelasting heft, behoudt Curaçao 25% van de opbrengsten van de bronbelasting geheven op rentebetalingen aan in de Republiek Kroatië gevestigde entiteiten als bedoeld in artikel 4, lid 2, van de richtlijn en draagt 75% over aan de Republiek Kroatië.
 
 3. Deze overdrachten vinden uiterlijk plaats in de zes maanden die volgen op het eind van het belastingjaar van Curaçao.
 
@@ -136,11 +136,11 @@ Voor de toepassing van de artikelen 4 tot en met 6 neemt elke overeenkomstsluite
 
 ##### Artikel 8. Vermijden van dubbele belasting
 
-De Republiek Kroatië zorgt ervoor dat dubbele belasting wordt vermeden die zou kunnen voortvloeien uit het heffen van bronbelasting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2013-07-01&g=2013-07-01), overeenkomstig het bepaalde in artikel 14, leden 2 en 3, van de richtlijn, of zorgt voor restitutie van de bronbelasting.
+De Republiek Kroatië zorgt ervoor dat dubbele belasting wordt vermeden die zou kunnen voortvloeien uit het heffen van bronbelasting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2014-06-30&g=2014-06-30), overeenkomstig het bepaalde in artikel 14, leden 2 en 3, van de richtlijn, of zorgt voor restitutie van de bronbelasting.
 
 ##### Artikel 9. Andere bronbelastingen
 
-De Overeenkomst belet de overeenkomstsluitende staten niet, naast de bronbelasting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2013-07-01&g=2013-07-01), overeenkomstig hun nationale wetten en verdragen tot voorkoming van dubbele belasting, ook andere bronbelastingen te heffen.
+De Overeenkomst belet de overeenkomstsluitende staten niet, naast de bronbelasting als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006199&bijlage=1&artikel=5&z=2014-06-30&g=2014-06-30), overeenkomstig hun nationale wetten en verdragen tot voorkoming van dubbele belasting, ook andere bronbelastingen te heffen.
 
 ##### Artikel 10. Omzetting
 
