@@ -4,7 +4,7 @@ identifier: "BWBR0035259"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-06-28"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035259"
 soort: "wet"
@@ -45,7 +45,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
@@ -73,7 +73,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIIa. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel VIII. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
