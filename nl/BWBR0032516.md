@@ -4,7 +4,7 @@ identifier: "BWBR0032516"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-18"
-last_updated: "2013-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032516"
 soort: "ministeriele-regeling"
@@ -54,17 +54,37 @@ Met het toezicht op de naleving, bedoeld in [artikel 8.1, eerste lid, van de wet
 
 - a. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit;
 
-- b. de ambtenaren van de Dienst Regelingen;
+- b. de ambtenaren van de Rijksdienst voor Ondernemend Nederland;
 
-- c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, onverminderd artikel 54 van de Regeling diervoeders 2012;
+- c. de ambtenaren van de rijksbelastingdienst, bevoegd inzake de douane, onverminderd [artikel 54 van de Regeling diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&artikel=54);
 
 - d. de ambtenaren van de Inspectie voor de Gezondheidszorg van het Ministerie van Volksgezondheid, Welzijn en sport, voor zover het betreft het toezicht op de naleving van:
 
-- 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de hoofdstukken 4 en 5 van het Besluit diergeneesmiddelen;
+- 1°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=4) en [5 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=5);
 
 - 2°. de [artikelen 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.19), [2.20](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.20), [2.21](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.21), [2.22](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.22) en [2.25 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.25) in samenhang met het bepaalde bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=2) en [3 van het Besluit diergeneesmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0032386&hoofdstuk=3) ten aanzien van goede laboratoriumpraktijken als bedoeld in bijlage I, inleiding en algemene beginselen, onderdeel 6, van [richtlijn 2001/82/EG](32001L0082);
 
-- e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ.
+- e. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;
+
+- f. de ambtenaren van de politie, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2) voor zover het betreft het toezicht op de naleving van de [artikelen 2.1, eerste en zesde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1) en het [Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&wetgeving);
+
+- g. de inspecteurs van de stichting Landelijke Inspectiedienst Dierenbescherming, voor zover het betreft het toezicht op de naleving van:
+
+- 1.°. de [artikelen 2.1, eerste en zesde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1);
+
+- 2.°. de [artikelen 2.2, tiende lid, onderdeel b, c, d, e, f, g, k, l, m, n, en p](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2), [2.6, tweede lid, onderdeel a, b, d, e, en f](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.6), [2.7, tweede lid, onderdeel a, c, d, g, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.7), [2.8, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.8), [2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.16), in samenhang met [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, onderdeel c, d, e, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), en [7.6, tweede lid, onderdeel c, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), in samenhang met het bepaalde bij of krachtens [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.4) en [paragraaf 3.2 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&paragraaf=3);
+
+- 3.°. [artikel 2.5 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.5) in samenhang met het bepaalde in [hoofdstuk 4 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=4);
+
+- 4.°. [artikel 2.2, zevende lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) in samenhang met het bepaalde in artikel 1.20 van de Regeling houders van dieren;
+
+- 5.°. [artikel 2.9 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.9) in samenhang met [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.1), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.5), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.7) en [2.8 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.8) voor zover het ingrepen betreft ten aanzien van gezelschapsdieren als bedoeld in [artikel 1.1 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.1);
+
+- 6.°. [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.13) en [2.14 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.14);
+
+- 7.°. [artikel 96 van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=96) voor zover het honden betreft;
+
+- h. ten hoogste vier daartoe door het College van Burgemeester en Wethouders van de gemeente Capelle aan den IJssel aangewezen ambtenaren van die gemeente, voor zover het betreft het toezicht op de naleving van [artikel 2.1, eerste en zesde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.1), met uitzondering van de bevoegdheid, bedoeld in [artikel 8.2 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.2), voor een periode tot en met 15 februari 2016.
 
 ##### Artikel 3
 
