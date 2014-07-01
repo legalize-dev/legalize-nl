@@ -4,7 +4,7 @@ identifier: "BWBR0021917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-05-01"
-last_updated: "2013-07-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021917"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2013-07-01&g=2013-07-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
+1. Aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&bijlage=1&z=2014-07-01&g=2014-07-01) bij deze regeling genoemde functionarissen of instanties wordt mandaat verleend om:
 
 - a. besluiten te nemen op aanvragen van vergunningen als bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0021605&artikel=3);
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4
 
-1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2013-07-01&g=2013-07-01), bedoelde besluiten worden als volgt ondertekend:
+1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -88,7 +88,7 @@ namens deze:
 
 (gevolgd door handtekening en naam van de gemandateerde)
 
-2. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2013-07-01&g=2013-07-01), bedoelde besluiten worden als volgt ondertekend:
+2. De in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021917&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde besluiten worden als volgt ondertekend:
 
 De Minister van Volksgezondheid, Welzijn en Sport,
 
@@ -104,36 +104,34 @@ Deze regeling treedt in werking met ingang van 1 juni 2007.
 
 Deze regeling wordt aangehaald als: Regeling mandaatverlening aan de GGD’en met betrekking tot de uitvoering van het Warenwetbesluit tatoeëren en piercen.
 
-## Bijlage 1. Functionarissen/instanties aan wie mandaat wordt verleend
+## Bijlage 1
 
 | GGD | Gemandateerde |
 | --- | --- |
-| GGD Amsterdam | algemeen directeur |
-| GGD Drenthe | dagelijks bestuur |
-| GGD Flevoland | algemeen directeur |
-| GGD Noord- en Oost Gelderland | dagelijks bestuur |
-| GGD Hart voor Brabant | directie |
-| GGD Hollands Midden | algemeen bestuur Regionale Dienst Openbare Gezondheidszorg Hollands Midden |
-| GGD Hollands Noorden | dagelijks bestuur |
-| GGD Rotterdam-Rijnmond | directeur Publieke Gezondheid |
-| GGD West-Brabant | dagelijks bestuur Regeling Openbare Gezondheidszorg West-Brabant |
-| GGD Zaanstreek-Waterland | algemeen bestuur |
-| GGD Zeeland | directeur |
-| Dienst Gezondheid en Jeugd | directeur |
-| Hulpverlening Gelderland Midden | directeur Publieke Gezondheid |
-| GGD Limburg-Noord | directeur Publieke Gezondheid |
-| GGD Zuid- Holland West | directeur |
-| GGD Gooi & Vechtstreek | dagelijks bestuur Gewest Gooi & Vechtstreek |
-| GGD Zuid Limburg | dagelijks bestuur |
-| GGD Gr. | bestuurscommissie GGD |
-| GGD Midden-Nederland | dagelijks bestuur |
-| GGD IJsselland | directeur Publieke Gezondheid |
-| GGD Regio Twente | bestuurscommissie Publieke Gezondheid |
-| Veiligheids Regio Kennemerland | dagelijks bestuur |
-| GGD Brabant-Zuidoost | dagelijks bestuur |
-| GG&GD Utrecht | directeur |
-| Gemeente Den Haag, Dienst Onderwijs, Cultuur en Welzijn | directeur Volksgezondheid, GGD Den Haag |
-| GGD Fryslân | algemeen bestuur |
-| GGD Gelderland-Zuid | directeur Publieke Gezondheid |
+| Dienst Gezondheid Jeugd | Directeur Publieke Gezondheid |
+| GGD Amsterdam | Directeur Publieke Gezondheid |
+| GGD Brabant Zuid-Oost | Directeur Publieke Gezondheid |
+| GGD Drenthe | Directeur Publieke Gezondheid |
+| GGD Flevoland | Directeur Publieke Gezondheid |
+| GGD Gelderland Zuid | Directeur Publieke Gezondheid |
+| GGD Gooi & Vechtstreek | Directeur Publieke Gezondheid |
+| GGD Groningen | Directeur Publieke Gezondheid |
+| GGD Haaglanden | Directeur Publieke Gezondheid |
+| GGD Hollands Midden, Gouda | Directeur Publieke Gezondheid |
+| GGD Hollands Midden, Leiden | Directeur Publieke Gezondheid |
+| GGD Hollands Noorden | Directeur Publieke Gezondheid |
+| GGD IJsselland | Directeur Publieke Gezondheid |
+| GGD Noord en Oost Gelderland | Directeur Publieke Gezondheid |
+| GGD Rotterdam-Rijnmond | Directeur Publieke Gezondheid |
+| GGD Twente | Directeur Publieke Gezondheid |
+| GGD West Brabant | Directeur Publieke Gezondheid |
+| GGD Zaanstreek Waterland | Directeur Publieke Gezondheid |
+| GGD Zeeland | Directeur Publieke Gezondheid |
+| GGD Zuid Limburg | Directeur Publieke Gezondheid |
+| Veiligheids- en Gezondheidsregio Gelderland-Midden | Directeur Publieke Gezondheid |
+| Veiligheidsregio Fryslân | Directeur Publieke Gezondheid |
+| Veiligheidsregio Kennemerland | Directeur Publieke Gezondheid |
+| Veiligheidsregio Limburg Noord | Directeur Publieke Gezondheid |
+| Volksgezondheid regio Utrecht | Directeur Publieke Gezondheid |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
