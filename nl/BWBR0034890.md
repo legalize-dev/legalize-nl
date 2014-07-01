@@ -4,7 +4,7 @@ identifier: "BWBR0034890"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-07-10"
-last_updated: "2014-03-12"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034890"
 soort: "zbo"
@@ -145,7 +145,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 ##### Artikel 8. Afwijkende vergoeding tolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen als bedoeld in [artikel 5 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-03-12), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-03-12) en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen als bedoeld in [artikel 5 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-07-01), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-07-01) en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
 2. Indien er sprake is van teamtolken, waarbij maximaal twee tolken tegelijkertijd voor één cliënt optreden, wordt tot 150% van het geldende normbedrag per team vergoed, uit te keren als 75% per tolk.
 
@@ -165,7 +165,7 @@ De voorwaarden hiervoor zijn:
 
 4. Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk en in ieder geval uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend.
 
-5. Lid 1 t/m 4 zijn niet van toepassing op de tolkdiensten die worden verleend aan de personen die doof en blind of doof en slechtziend zijn als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-03-12).
+5. Lid 1 t/m 4 zijn niet van toepassing op de tolkdiensten die worden verleend aan de personen die doof en blind of doof en slechtziend zijn als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-07-01).
 
 6. Onder tolk op afstand wordt verstaan de gediplomeerde tolk die vanuit een eigen werklocatie tolkdiensten verleent aan een gebruiker, die op zijn eigen locatie dan wel op een derde locatie van de tolkdiensten gebruik maakt.
 
@@ -177,7 +177,7 @@ De voorwaarden hiervoor zijn:
 
 2. Indien de oorzaak van de annulering aan de tolk moet worden toegeschreven, wordt geen vergoeding verstrekt.
 
-3. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren. Het totaal van getolkte tijd en geannuleerde tijd mag de oorspronkelijk overeengekomen duur van de opdracht, te bepalen volgens [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-03-12), niet overtreffen.
+3. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren. Het totaal van getolkte tijd en geannuleerde tijd mag de oorspronkelijk overeengekomen duur van de opdracht, te bepalen volgens [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-07-01), niet overtreffen.
 
 4. De reisvergoeding van volledig geannuleerde opdrachten wordt niet verstrekt. Deze regel geldt ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
