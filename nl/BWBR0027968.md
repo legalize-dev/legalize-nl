@@ -4,7 +4,7 @@ identifier: "BWBR0027968"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2010-09-09"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027968"
 soort: "ministeriele-regeling"
@@ -74,7 +74,7 @@ Deze regeling is niet van toepassing op:
 
 1. Valschermspringen is uitsluitend toegestaan:
 
-- a. binnen een vast valschermspringgebied onder de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2010-09-09&g=2010-09-09), dan wel binnen een incidenteel valschermspringgebied onder de voorwaarden, bedoeld in de artikelen 4 en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=5&z=2010-09-09&g=2010-09-09);
+- a. binnen een vast valschermspringgebied onder de voorwaarden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2014-07-01&g=2014-07-01), dan wel binnen een incidenteel valschermspringgebied onder de voorwaarden, bedoeld in de artikelen 4 en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=5&z=2014-07-01&g=2014-07-01);
 
 - b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit gesprongen wordt;
 
@@ -110,7 +110,7 @@ Deze regeling is niet van toepassing op:
 
 ##### Artikel 5
 
-In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2010-09-09&g=2010-09-09) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
+In aanvulling op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=4&z=2014-07-01&g=2014-07-01) gelden voor het gebruik van een incidenteel valschermspringgebied de volgende voorwaarden:
 
 - a. voor het valschermspringgebied is een NOTAM uitgegeven. Deze NOTAM moet ten minste vijf werkdagen tevoren zijn aangevraagd bij de betrokken luchtverkeersdienst. Wanneer verschillende luchtverkeersdiensten zijn betrokken, wordt de aanvraag ingediend bij de dienst die luchtverkeersleiding geeft in het gebied met de laagste verticale begrenzing, inclusief luchtruim klasse E. Deze dienst stemt de beoordeling van de aanvraag af met de andere betrokken luchtverkeersdiensten;
 
@@ -170,7 +170,7 @@ Deze regeling treedt in werking met ingang van 9 september 2010.
 
 Deze regeling wordt aangehaald als: Regeling valschermspringen 2010.
 
-## Bijlage
+## Bijlage. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027968&artikel=1&z=2014-07-01&g=2014-07-01) van de Regeling valschermspringen 2010
 
 ### Vaste valschermspringgebieden
 
