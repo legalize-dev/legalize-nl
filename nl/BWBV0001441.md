@@ -4,7 +4,7 @@ identifier: "BWBV0001441"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001441"
 soort: "verdrag"
@@ -415,11 +415,11 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 - d). de som van de geïnde verwijderingsbijdragen;
 
-- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2014-01-01&g=2014-01-01) bedoelde maatregelen.
+- e). de financiële consequenties van de in [artikel 6, eerste lid, vijfde zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=6&z=2014-07-01&g=2014-07-01) bedoelde maatregelen.
 
 De modaliteiten van deze procedure worden door het internationale verevenings- en coördinatieorgaan vastgesteld.
 
-2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2014-01-01&g=2014-01-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
+2. Het internationale verevenings- en coördinatieorgaan stelt voor elk afgelopen kwartaal op grond van de ingevolge het eerste lid verstrekte cijfers en de vereveningsprocedure, bedoeld in [artikel 4.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.04&z=2014-07-01&g=2014-07-01), de voorlopige bedragen van de kwartaalverevening vast en legt deze binnen een termijn van twee weken na ontvangst van alle in het eerste lid genoemde mededelingen aan de nationale instituten voor.
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
@@ -427,7 +427,7 @@ De modaliteiten van deze procedure worden door het internationale verevenings- e
 
 1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
-2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2014-01-01&g=2014-01-01), te verrichten.
+2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2014-07-01&g=2014-07-01), te verrichten.
 
 ##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
@@ -692,11 +692,13 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 ##### Artikel 9.03. Verzameling en behandeling aan boord, afgifte aan ontvangstinrichtingen
 
-1. De schipper dient zeker te stellen dat het in artikel 9.01, eerste lid, genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, overige her te gebruiken stoffen en overig afval te worden afgegeven.
+1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2014-07-01&g=2014-07-01), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, overige her te gebruiken stoffen en overig afval te worden afgegeven.
 
-2. Het is verboden het in artikel 9.01, eerste lid, genoemde afval aan boord te verbranden.
+2. Het is verboden het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2014-07-01&g=2014-07-01), genoemde afval aan boord te verbranden.
 
-3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan Aanhangsel V, dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
+3. De exploitanten van passagiersschepen die over boordzuiveringsinstallaties beschikken welke voldoen aan [Aanhangsel V](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=V&z=2014-07-01&g=2014-07-01), dienen zelf op passende wijze te zorgen voor de correcte afgifte van het zuiveringsslib tegen ontvangstbewijs volgens de nationale voorschriften.
+
+4. De schipper van een passagiersschip dat krachtens [artikel 9.01, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2014-07-01&g=2014-07-01), onder het lozingsverbod voor huishoudelijk afvalwater valt, dient zeker te stellen dat het huishoudelijk afvalwater op een passende wijze aan boord van het schip wordt verzameld en overeenkomstig [artikel 8.02 derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.02&z=2014-07-01&g=2014-07-01), bij een installatie of inzamelstation wordt afgegeven, voor zover het passagiersschip niet over een zuiveringsinstallatie overeenkomstig artikel 9.01, vierde lid, beschikt.
 
 ### HOOFDSTUK X. VERPLICHTINGEN VAN DE EXPLOITANT VAN DE ONTVANGSTINRICHTING
 
@@ -716,7 +718,7 @@ GEDAAN te Straatsburg, op 9 september 1996.
 
 2. Het transactiebewijs met betrekking tot de verwijderingsbijdrage dat door het SPE-CDNI wordt afgegeven, moet aan deze bunkerverklaring worden gehecht. De schipper ontvangt een afschrift van beide voornoemde documenten die hij ten minste twaalf maanden aan boord moet bewaren. Een ander afschrift van beide moet ten minste twaalf maanden bij het bunkerbedrijf worden bewaard.
 
-3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2014-01-01&g=2014-01-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
+3. In het geval de schriftelijke procedure conform [artikel 3.03, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=III&artikel=3.03&z=2014-07-01&g=2014-07-01) wordt toegepast, vermeldt het bunkerbedrijf op de betreffende bunkerverklaring dat de exploitant van het schip de verwijderingsbijdrage niet heeft voldaan.
 
 4. De overeenstemming tussen de door de schepen betrokken hoeveelheden gasolie en de hoogte van de betaalde verwijderingsbijdragen wordt door het nationale instituut of de bevoegde autoriteit gecontroleerd aan de hand van de door de bunkerbedrijven te overleggen afschriften van de bunkerverklaringen.
 
