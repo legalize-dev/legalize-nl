@@ -4,7 +4,7 @@ identifier: "BWBR0014329"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2012-09-22"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014329"
 soort: "AMvB"
@@ -68,9 +68,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1.2.1
 
-1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2012-09-22&g=2012-09-22) bij dit besluit.
+1. Het luchthavengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2014-07-01&g=2014-07-01) bij dit besluit.
 
-2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=2&z=2012-09-22&g=2012-09-22) bij dit besluit.
+2. Het beperkingengebied is het gebied dat als zodanig is aangewezen op de kaart in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=2&z=2014-07-01&g=2014-07-01) bij dit besluit.
 
 ### Hoofdstuk 2. Regels omtrent de bestemming en het gebruik van de grond
 
@@ -78,29 +78,29 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.1.1
 
-De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2012-09-22&g=2012-09-22) bij dit besluit.
+De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zodanig aangewezen op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=1&z=2014-07-01&g=2014-07-01) bij dit besluit.
 
 #### § 2.2. Regels binnen het beperkingengebied
 
 ##### Artikel 2.2.1
 
-1. Op de gronden die op de kaarten in [bijlage 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3A&z=2012-09-22&g=2012-09-22) bij dit besluit met nummer 1 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
+1. Op de gronden die op de kaarten in bijlage 3A bij dit besluit met nummer 1 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
 
-2. Op de gronden die op de kaarten in [bijlage 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3A&z=2012-09-22&g=2012-09-22) bij dit besluit met nummer 2 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
+2. Op de gronden die op de kaarten in bijlage 3A bij dit besluit met nummer 2 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik van gebouwen met een kantoorfunctie of van bedrijven.
 
-3. Op de gronden die op de kaarten in [bijlage 3B](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3B&z=2012-09-22&g=2012-09-22) bij dit besluit met nummer 3 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik.
+3. Op de gronden die op de kaarten in bijlage 3B bij dit besluit met nummer 3 zijn aangewezen, zijn geen gebouwen toegestaan, behoudens bestaand gebruik.
 
-4. Op de gronden die op de kaarten in [bijlage 3B](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3B&z=2012-09-22&g=2012-09-22) bij dit besluit met nummer 4 zijn aangewezen, zijn geen woningen, woonwagens, gebouwen met een onderwijsfunctie of gebouwen met een gezondheidszorgfunctie toegestaan, behoudens bestaand gebruik.
+4. Op de gronden die op de kaarten in bijlage 3B bij dit besluit met nummer 4 zijn aangewezen, zijn geen woningen, woonwagens, gebouwen met een onderwijsfunctie of gebouwen met een gezondheidszorgfunctie toegestaan, behoudens bestaand gebruik.
 
 5. Van bestaand gebruik als bedoeld in het eerste tot en met vierde lid, is sprake indien op de datum van inwerkingtreding van dit besluit op de desbetreffende plaats een gebouw rechtmatig aanwezig is en overeenkomstig de bestemming wordt gebruikt, of voor de datum van inwerkingtreding van dit besluit een bouwvergunning is verleend voor dit gebouw op de desbetreffende plaats, mits binnen zes maanden na die datum een begin met de werkzaamheden is gemaakt.
 
-6. Ten aanzien van degene die op de datum van inwerkingtreding van dit besluit rechtmatig gebruiker is van een woning of een woonwagen op de gronden die op de kaarten in [bijlage 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=3A&z=2012-09-22&g=2012-09-22) van dit besluit met de nummers 1 en 2 zijn aangewezen, kan indien sprake is van bestaand gebruik als bedoeld in het vijfde lid, beëindiging van dit gebruik niet worden gevergd.
+6. Ten aanzien van degene die op de datum van inwerkingtreding van dit besluit rechtmatig gebruiker is van een woning of een woonwagen op de gronden die op de kaarten in bijlage 3A van dit besluit met de nummers 1 en 2 zijn aangewezen, kan indien sprake is van bestaand gebruik als bedoeld in het vijfde lid, beëindiging van dit gebruik niet worden gevergd.
 
 7. In afwijking van het eerste tot en met vierde lid, zijn daarin bedoelde gebouwen eveneens toegestaan voor zover dit in overeenstemming is met een verklaring van geen bezwaar als bedoeld in [artikel 8.9 van de wet](onbekend).
 
 ##### Artikel 2.2.2
 
-1. Op de gronden die zijn aangewezen op de kaarten in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2012-09-22&g=2012-09-22) bij dit besluit zijn geen objecten toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden.
+1. Op de gronden die zijn aangewezen op de kaarten in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=4&z=2014-07-01&g=2014-07-01) bij dit besluit zijn geen objecten toegestaan die hoger zijn dan de in die bijlage aangegeven maximale waarden.
 
 2. In afwijking van het eerste lid is een object dat hoger is dan de desbetreffende maximale waarde toegestaan indien:
 
@@ -114,7 +114,7 @@ De gronden die bestemd zijn voor het banenstelsel van de luchthaven zijn als zod
 
 ##### Artikel 2.2.3
 
-1. Op de gronden die zijn aangewezen op de kaart in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=5&z=2012-09-22&g=2012-09-22) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
+1. Op de gronden die zijn aangewezen op de kaart in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0014329&bijlage=5&z=2014-07-01&g=2014-07-01) bij dit besluit is een grondgebruik of een bestemming binnen de volgende categorieën niet toegestaan:
 
 - a. industrie in de voedingssector met extramurale opslag of overslag;
 
@@ -152,24 +152,14 @@ Dit besluit wordt aangehaald als: Luchthavenindelingbesluit Schiphol.
 
 ## Bijlage 2
 
-## Bijlage 3A
-
-Raadpleeg voor de kaarten de gedrukte Staatsbladen 2002/591 en 2004/425.
-
-Door Staatsblad 2012/367 zijn onderstaande kaarten vervangen.
-
-## Bijlage 3B
-
-Raadpleeg voor de kaarten de gedrukte Staatsbladen 2002/591 en 2004/425.
-
-Door Staatsblad 2012/367 zijn onderstaande kaarten vervangen.
+## Bijlage 3
 
 ## Bijlage 4
 
-Raadpleeg voor de kaarten het gedrukte Staatsblad 2002/591.
-
-Door Staatsblad 2012/367 is onderstaande kaart vervangen.
+## Bijlage 5
 
 ## Bijlage 5
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
