@@ -4,7 +4,7 @@ identifier: "BWBR0034264"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2015-07-01"
-last_updated: "2014-03-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034264"
 soort: "beleidsregel"
@@ -57,8 +57,8 @@ Vervallen
 
 Dit besluit treedt in werking met ingang van 1 december 2013 met dien verstande dat:
 
-- a. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034264&artikel=II&z=2014-03-01&g=2014-03-01) vervalt met ingang van 1 juli 2014;
+- a. [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0034264&artikel=II&z=2014-07-01&g=2014-07-01) vervalt met ingang van 1 juli 2015;
 
-- b. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0034264&artikel=III&z=2014-03-01&g=2014-03-01) vervalt met ingang van 1 maart 2014.
+- b. [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0034264&artikel=III&z=2014-07-01&g=2014-07-01) vervalt met ingang van 1 maart 2014.
 
 Dit besluit wordt in de Staatscourant gepubliceerd.
