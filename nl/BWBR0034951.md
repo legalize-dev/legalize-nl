@@ -161,15 +161,3 @@ Deze regeling wordt aangehaald als: Remigratieregeling.
 ### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2014-07-01&g=2014-07-01) bij deze regeling
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2015-07-15&g=2015-07-15)
-
-### Bruto tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland per categorie van bestemmingslanden op basis van de indeling in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2015-07-15&g=2015-07-15) bij deze regeling
-
-Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
-
-### Bijlage 3b. – Bruto periodieke remigratieuitkering per 1-1-2018
-
-## Bijlage 3. behorend bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&artikel=6&z=2021-01-01&g=2021-01-01)
-
-Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
