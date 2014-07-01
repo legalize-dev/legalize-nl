@@ -4,7 +4,7 @@ identifier: "BWBR0028868"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-12-06"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028868"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 1. Indien een wijziging optreedt in de gegevens op grond waarvan de instantie is aangewezen, doet zij hiervan terstond mededeling aan de minister.
 
-2. Indien de aangewezen instantie voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet zij hiervan terstond mededeling aan de minister. In dat geval draagt zij de gegevens, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=30&z=2013-12-06&g=2013-12-06), over aan de minister.
+2. Indien de aangewezen instantie voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet zij hiervan terstond mededeling aan de minister. In dat geval draagt zij de gegevens, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=30&z=2013-12-06&g=2014-07-01), over aan de minister.
 
 ##### Artikel 32
 
@@ -108,9 +108,9 @@ In artikel 4 van de Regeling aanwijzing keuringsinstelling pyrotechnische artike
 
 1. Deze regeling treedt in werking met ingang van 4 juli 2013.
 
-2. In afwijking van het eerste lid treden de [artikelen 27 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2013-12-06&g=2013-12-06) in werking op 1 januari 2012.
+2. In afwijking van het eerste lid treden de [artikelen 27 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=27&z=2013-12-06&g=2014-07-01) in werking op 1 januari 2012.
 
-3. In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2013-12-06&g=2013-12-06). Indien aan dat artikel toepassing wordt gegeven, zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=6&z=2013-12-06&g=2013-12-06), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2013-12-06&g=2013-12-06), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2013-12-06&g=2013-12-06), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-12-06&g=2013-12-06), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=17&z=2013-12-06&g=2013-12-06), [18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2013-12-06&g=2013-12-06), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2013-12-06&g=2013-12-06), en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2013-12-06&g=2013-12-06) van toepassing.
+3. In afwijking van het eerste lid kan een fabrikant of importeur in de periode vanaf 1 januari 2012 tot en met 3 juli 2013 met betrekking tot een pyrotechnisch artikel waarop deze regeling met ingang van 4 juli 2013 van toepassing wordt, toepassing geven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=14&z=2013-12-06&g=2014-07-01). Indien aan dat artikel toepassing wordt gegeven, zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=6&z=2013-12-06&g=2014-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2013-12-06&g=2014-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=15&z=2013-12-06&g=2014-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-12-06&g=2014-07-01), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=17&z=2013-12-06&g=2014-07-01), [18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2013-12-06&g=2014-07-01), [22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2013-12-06&g=2014-07-01), en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2013-12-06&g=2014-07-01) van toepassing.
 
 ##### Artikel 35
 
@@ -124,15 +124,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **aangemelde instantie:** aangemelde instantie als bedoeld in artikel 10 van de EG-richtlijn pyrotechnische artikelen;
 
-- **aangewezen instantie:** aangewezen instantie, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26&z=2013-12-06&g=2013-12-06);
+- **aangewezen instantie:** aangewezen instantie, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=6&artikel=26&z=2013-12-06&g=2014-07-01);
 
 - **bijlage I bij de EG-richtlijn pyrotechnische artikelen:** bijlage I bij de EG-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld;
 
 - **bijlage II bij de EG-richtlijn pyrotechnische artikelen:** bijlage II bij de EG-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld, voor zover het betreft de in het tweede lid genoemde onderdelen van die bijlage, en bijlage II bij de EG-richtlijn pyrotechnische artikelen voor de overige onderdelen van die bijlage;
 
-- **categorie P1 en P2:** categorie P1 onderscheidenlijk P2 als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2013-12-06&g=2013-12-06);
+- **categorie P1 en P2:** categorie P1 onderscheidenlijk P2 als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=7&z=2013-12-06&g=2014-07-01);
 
-- **CE-markering:** CE-markering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=10&z=2013-12-06&g=2013-12-06) en bijlage IV bij de EG-richtlijn pyrotechnische artikelen;
+- **CE-markering:** CE-markering, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=1&artikel=10&z=2013-12-06&g=2014-07-01) en bijlage IV bij de EG-richtlijn pyrotechnische artikelen;
 
 - **conformiteitsbeoordelingsprocedure:** procedure als bedoeld in bijlage II bij de EG-richtlijn pyrotechnische artikelen;
 
@@ -160,7 +160,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - **module B, C, D, E, G en H:** module B, C, D, E, G en H als bedoeld in bijlage II bij de EG-richtlijn pyrotechnische artikelen;
 
-- **persoon met gespecialiseerde kennis:** persoon, aangewezen krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=3&z=2013-12-06&g=2013-12-06);
+- **persoon met gespecialiseerde kennis:** persoon, aangewezen krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=3&z=2013-12-06&g=2014-07-01);
 
 - **primaire verpakking:** verpakking waarin zich meer dan één exemplaar bevindt van eenzelfde type pyrotechnische artikelen, bedoeld om in zijn geheel aan de particulier ter beschikking te worden gesteld;
 
@@ -220,7 +220,7 @@ Het is verboden een pyrotechnisch artikel te gebruiken in strijd met het doel wa
 
 ##### Artikel 6
 
-1. Een wijziging van artikel 10 of 11 van de EG-richtlijn pyrotechnische artikelen, van bijlage IIbij de EG-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=1&z=2013-12-06&g=2013-12-06), en van bijlage III of IV bij de EG-richtlijn pyrotechnische artikelen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van artikel 10 of 11 van de EG-richtlijn pyrotechnische artikelen, van bijlage IIbij de EG-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=1&z=2013-12-06&g=2014-07-01), en van bijlage III of IV bij de EG-richtlijn pyrotechnische artikelen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
 2. De minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid, daarvan mededeling in de Staatscourant.
 
@@ -264,13 +264,13 @@ Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij z
 
 2. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen indien die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure.
 
-3. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2013-12-06&g=2013-12-06) met betrekking tot de aanduiding en het bezigen van vermeldingen.
+3. Het is verboden pyrotechnische artikelen in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de [artikelen 23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=4&artikel=23&z=2013-12-06&g=2014-07-01) met betrekking tot de aanduiding en het bezigen van vermeldingen.
 
-4. Het is verboden te handelen in strijd met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-12-06&g=2013-12-06), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2013-12-06&g=2013-12-06), [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2013-12-06), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=21&z=2013-12-06&g=2013-12-06).
+4. Het is verboden te handelen in strijd met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=16&z=2013-12-06&g=2014-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=18&z=2013-12-06&g=2014-07-01), [20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2014-07-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=21&z=2013-12-06&g=2014-07-01).
 
 ##### Artikel 12
 
-1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2013-12-06&g=2013-12-06) is niet van toepassing op pyrotechnische artikelen die niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor de marketing van pyrotechnische artikelen, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2013-12-06&g=2014-07-01) is niet van toepassing op pyrotechnische artikelen die niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor de marketing van pyrotechnische artikelen, mits is voldaan aan het bepaalde in het derde lid.
 
 2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen pas verkocht worden nadat ze door de fabrikant, wanneer die is gevestigd op het grondgebied van de Europese Unie, of door de importeur in overeenstemming zijn gebracht met de bepalingen van de in het eerste lid genoemde richtlijn.
 
@@ -282,7 +282,7 @@ Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij z
 
 ##### Artikel 13
 
-1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2013-12-06&g=2013-12-06) is niet van toepassing op pyrotechnische artikelen die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EG-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=11&z=2013-12-06&g=2014-07-01) is niet van toepassing op pyrotechnische artikelen die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EG-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
 
 2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
 
@@ -358,9 +358,9 @@ kwaliteitssysteem aan de in bijlage II van de EG-richtlijn pyrotechnische artike
 
 - a. het in bijlage II bij de EG-richtlijn pyrotechnische artikelen, onderdeel 3.1, onder b, van module D en module E, bedoelde document,
 
-- b. de documenten betreffende de wijzigingen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2013-12-06),
+- b. de documenten betreffende de wijzigingen, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2014-07-01),
 
-- c. de in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2013-12-06), en in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2013-12-06&g=2013-12-06) bedoelde besluiten en verslagen van de aangemelde instantie.
+- c. de in [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=20&z=2013-12-06&g=2014-07-01), en in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=3&artikel=22&z=2013-12-06&g=2014-07-01) bedoelde besluiten en verslagen van de aangemelde instantie.
 
 ##### Artikel 22
 
@@ -404,7 +404,7 @@ kwaliteitssysteem aan de in bijlage II van de EG-richtlijn pyrotechnische artike
 
 - c. de naam en het type van het artikel,
 
-- d. de minimumleeftijdsgrenzen zoals aangegeven in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=4&z=2013-12-06&g=2013-12-06),
+- d. de minimumleeftijdsgrenzen zoals aangegeven in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=1&artikel=4&z=2013-12-06&g=2014-07-01),
 
 - e. de desbetreffende categorie en gebruiksaanwijzingen,
 
@@ -416,7 +416,7 @@ kwaliteitssysteem aan de in bijlage II van de EG-richtlijn pyrotechnische artike
 
 3. Indien op het pyrotechnische artikel niet voldoende plaats is voor de gegevens, bedoeld in het eerste lid, wordt de informatie op de primaire verpakking weergegeven.
 
-4. Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=12&z=2013-12-06&g=2013-12-06) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=13&z=2013-12-06&g=2013-12-06).
+4. Dit artikel is niet van toepassing op de pyrotechnische artikelen, bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=12&z=2013-12-06&g=2014-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028868&hoofdstuk=2&paragraaf=2&artikel=13&z=2013-12-06&g=2014-07-01).
 
 ##### Artikel 25
 
