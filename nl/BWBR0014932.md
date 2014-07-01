@@ -4,7 +4,7 @@ identifier: "BWBR0014932"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-07-01"
-last_updated: "2003-08-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014932"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Dit besluit wordt aangehaald als: Besluit servicekosten.
 
-## Bijlage behorende bij [artikel 1 van het Besluit servicekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0014932&artikel=1&z=2003-08-01&g=2003-08-01)
+## Bijlage. behorende bij [artikel 1 van het Besluit servicekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0014932&artikel=1&z=2014-07-01&g=2014-07-01)
 
 ### 1. Warmtevoorzieningen
 
@@ -69,14 +69,6 @@ b. het gebruik en het aflezen van warmtemeters en verbruiksmeters.
 ### 2. Nutsvoorzieningen
 
 a. de levering van elektriciteit, gas en water voor het verbruik in het woonruimtegedeelte van het gehuurde en in de gemeenschappelijke gedeelten en voor het gebruik van de gemeenschappelijke voorzieningen;
-
-b. het gebruik en het aflezen van meters, het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders.
-
-### 3. Roerende zaken
-
-De krachtens de huurovereenkomst mede ter beschikking gestelde roerende zaken in het woonruimtegedeelte van het gehuurde dan wel in de gemeenschappelijke gedeelten, waaronder in elk geval:
-
-### 4. Kleine herstellingen
 
 Het verrichten van kleine herstellingen die krachtens [artikel 217 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=217) of het [Besluit kleine herstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0014931) voor rekening van de huurder komen, maar krachtens de huurovereenkomst door de verhuurder ten behoeve van de huurder worden verricht aan het woonruimtegedeelte van het gehuurde of aan de gemeenschappelijke gedeelten en aan de gemeenschappelijke voorzieningen.
 
@@ -107,5 +99,23 @@ De in dit besluit bedoelde zaken en diensten ten behoeve van het krachtens de hu
 ### 11. Administratiekosten
 
 De administratiekosten van het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders, alsmede die van de overige in dit besluit bedoelde zaken en diensten.
+
+### 10. Gemeenschappelijke ruimten
+
+De in dit besluit bedoelde zaken en diensten ten behoeve van het krachtens de huurovereenkomst gegeven gebruiksrecht van gemeenschappelijke gedeelten.
+
+### 11. Administratiekosten
+
+De administratiekosten van het verwerken van de opnamen van de meters in het overzicht, bedoeld in [artikel 259 lid 2 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=259), en de overige administratieve werkzaamheden in verband met de toedeling van het verbruik en de verbruikskosten aan de individuele huurders, alsmede die van de overige in dit besluit bedoelde zaken en diensten.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+### 2. Elektriciteit, gas en water
+
+### 3. Roerende zaken
+
+De krachtens de huurovereenkomst mede ter beschikking gestelde roerende zaken in het woonruimtegedeelte van het gehuurde dan wel in de gemeenschappelijke gedeelten, waaronder in elk geval:
+
+### 4. Kleine herstellingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
