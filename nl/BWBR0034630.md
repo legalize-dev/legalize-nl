@@ -4,7 +4,7 @@ identifier: "BWBR0034630"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2014-07-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034630"
 soort: "beleidsregel"
@@ -53,7 +53,7 @@ De Staatssecretaris van Financiën heeft het volgende besloten.
 
 Wijzigt de Leidraad Invordering 2008.
 
-In afwijking van [artikel 48a van de Leidraad Invordering 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=48a) gaat de ontvanger tot en met 30 juni 2014 niet over tot aansprakelijkstelling bij uitbetaling van inkomstenbelasting of omzetbelasting op de bankrekening van een derde als:
+In afwijking van [artikel 48a van de Leidraad Invordering 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024096&artikel=48a) gaat de ontvanger tot en met 30 juni 2015 niet over tot aansprakelijkstelling bij uitbetaling van inkomstenbelasting of omzetbelasting op de bankrekening van een derde als:
 
 ### Artikel III
 
@@ -62,5 +62,11 @@ In afwijking van [artikel 48a van de Leidraad Invordering 2008](https://wetten.o
 ### Artikel IV
 
 Dit besluit treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0034630&artikel=I&z=2014-01-01&g=2014-01-01), terugwerkt tot en met 1 januari 2013.
+
+Dit besluit wordt in de Staatscourant gepubliceerd.
+
+### Artikel IV
+
+Dit besluit treedt in werking met ingang van 1 januari 2014, met dien verstande dat [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0034630&artikel=I&z=2014-07-01&g=2014-07-01), terugwerkt tot en met 1 januari 2013.
 
 Dit besluit wordt in de Staatscourant gepubliceerd.
