@@ -69,9 +69,3 @@ Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening v
 Deze regeling wordt aangehaald als: Bezoldigingsregeling centrale commissie medisch-wetenschappelijk onderzoek.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a
-
-De bezoldiging van de plaatsvervangend voorzitters van de centrale commissie wordt vastgesteld volgens het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, rekening houdend met een arbeidsduur van gemiddeld 8 uren per week.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
