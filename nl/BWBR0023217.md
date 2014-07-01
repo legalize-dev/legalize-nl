@@ -4,7 +4,7 @@ identifier: "BWBR0023217"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-07-01"
-last_updated: "2008-01-06"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023217"
 soort: "ministeriele-regeling"
@@ -45,11 +45,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. militaire steunverlening in het openbaar belang: Steunverlening door de krijgsmacht aan een bestuursorgaan in het kader van het openbaar belang, niet zijnde militaire bijstand in de zin van [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=58) of [59 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=59) of [artikel 18 van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=18);
+- a. militaire steunverlening in het openbaar belang: Steunverlening door de krijgsmacht aan een bestuursorgaan in het kader van het openbaar belang, niet zijnde militaire bijstand in de zin van [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) of [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) of [artikel 20 van de Wet Veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=20);
 
 - b. openbaar belang: Belang van een bestuursorgaan, dat samenhangt met de wettelijke verantwoordelijkheden en bevoegdheden van dat orgaan;
 
-- c. bestuursorgaan: Minister, commissaris van de Koningin, burgemeester of dijkgraaf;
+- c. bestuursorgaan: Minister, commissaris van de Koning, burgemeester of dijkgraaf;
 
 - d. operationeel bevel: De bevoegdheid om aan militairen die deel uitmaken van de steunverlenende eenheid ter zake opdrachten te geven;
 
@@ -65,15 +65,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-Deze regeling is uitsluitend van toepassing op steunverlening in Nederland door onderdelen van Defensie. Deze regeling is derhalve niet van toepassing op steunverlening in de Nederlandse Antillen en Aruba of buiten het Koninkrijk door onderdelen van Defensie.
+Deze regeling is uitsluitend van toepassing op steunverlening in Nederland door onderdelen van Defensie. Deze regeling is derhalve niet van toepassing op steunverlening in Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba of buiten het Koninkrijk door onderdelen van Defensie.
 
 ##### Artikel 3
 
 1. Aanvragen om steunverlening kunnen uitsluitend worden ingediend door een bestuursorgaan.
 
-2. Steun aan een bestuursorgaan kan worden verleend in het kader van het openbaar belang wanneer het bestuursorgaan zelf niet, niet tijdig of niet afdoende in het gevraagde kan (laten) voorzien. Het bestuursorgaan dient in de aanvraag te motiveren waarom niet op een andere wijze het gevraagde kan worden voorzien.
+2. Steun aan een bestuursorgaan kan worden verleend in het kader van het openbaar belang wanneer het bestuursorgaan zelf niet, niet tijdig of niet afdoende in het gevraagde kan (laten) voorzien. Het bestuursorgaan dient in de aanvraag te motiveren waarom niet op een andere wijze in het gevraagde kan worden voorzien.
 
-3. Het bestuursorgaan motiveert tevens in de aanvraag waarom geen opdracht aan civiele marktpartijen kan worden gegund of voegt een verklaring van geen bezwaar van de betreffende branchevereniging toe.
+3. Het bestuursorgaan motiveert tevens in de aanvraag waarom geen opdracht aan civiele marktpartijen kan worden gegund.
 
 4. Het gestelde in het vorige lid is niet van toepassing indien de aanvraag om steunverlening door een Minister is ingediend.
 
@@ -109,7 +109,7 @@ Met inachtneming van de verstrekte opdrachten bepaalt de commandant de wijze van
 
 1. De verrekening van de uitgaven van het Ministerie van Defensie voor de steunverlening vindt plaats conform de Regeling verrekening additionele uitgaven militaire bijstand en steunverlening. Als de Minister een aanvraag om steunverlening honoreert, wordt in het bericht van de Minister aan het LOCC gemeld dat de additionele uitgaven verrekend worden conform de regeling verrekening additionele uitgaven militaire bijstand en steunverlening.
 
-2. Voor zover het verzoeken betreft, als bedoeld in [artikel 4 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023217&artikel=4&z=2008-01-06&g=2008-01-06), wordt de vergoeding vastgesteld door de Dienst der Domeinen.
+2. Voor zover het verzoeken betreft, als bedoeld in [artikel 4 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023217&artikel=4&z=2014-07-01&g=2014-07-01), wordt de vergoeding vastgesteld door de Dienst der Domeinen.
 
 ##### Artikel 10
 
