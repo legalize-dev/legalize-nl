@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,7 +76,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -124,13 +124,13 @@ Vervallen
 
 - a. de toezichthouder, bedoeld in [artikel 1.61 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.61), tijdig de gegevens, bedoeld in het tweede lid, onder a tot en met f, respectievelijk in het derde lid, kunnen worden verstrekt die voor de naleving van bij en krachtens [hoofdstuk 1, afdeling 3, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=2) en [3, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&paragraaf=3) gegeven voorschriften van belang zijn; of
 
-- b. de Belastingdienst/Toeslagen, het college of het Uitvoeringsinstituut werknemersverzekeringen tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder f en g, respectievelijk derde lid, eerste volzin, voor zover betrekking hebbend op onderdeel f, en tweede volzin, onder c, d, e, f of g kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag, de hoogte van de tegemoetkoming van de gemeente of de hoogte van de tegemoetkoming van het Uitvoeringsinstituut werknemersverzekeringen van belang zijn.
+- b. de Belastingdienst/Toeslagen of het college tijdig, de gegevens of inlichtingen over de gegevens, bedoeld in het tweede lid, onder f en g, respectievelijk derde lid, eerste volzin, voor zover betrekking hebbend op onderdeel f, en tweede volzin, onder c, d, e, f of g kunnen worden verstrekt die voor de aanspraak van een ouder op en de hoogte van de kinderopvangtoeslag of de hoogte van de tegemoetkoming van de gemeente van belang zijn.
 
 2. De administratie van een kindercentrum bevat de volgende gegevens:
 
 - a. een overzicht van alle bij dat kindercentrum werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften,
 
-- b. afschriften van alle afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) van bij het kindercentrum werkzame personen,
+- b. afschriften van alle afgegeven verklaringen omtrent het gedrag van bij het kindercentrum werkzame personen,
 
 - c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 1.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51),
 
@@ -146,7 +146,7 @@ Vervallen
 
 - a. een overzicht van alle bij dat gastouderbureau aangesloten gastouders, vermeldende in ieder geval naam en adres, postcode, woonplaats, telefoonnummer,
 
-- b. afschriften van afgegeven verklaringen omtrent het gedrag, volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) van bij het gastouderbureau aangesloten gastouders,
+- b. afschriften van afgegeven verklaringen omtrent het gedrag van bij het gastouderbureau aangesloten gastouders en de andere personen, bedoeld in [artikel 1.56b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.56b),
 
 - c. afschriften van alle met vraagouders overeengekomen schriftelijke overeenkomsten, vermeldende per overeenkomst: de voor de gastouderopvang te betalen prijs per uur en, indien van toepassing, de bemiddelingskosten, naam, geboortedatum, adres, postcode en woonplaats van het kind, het aantal uren gastouderopvang per kind per jaar, evenals de duur van de overeenkomst,
 
@@ -176,7 +176,7 @@ Vervallen
 
 ##### Artikel 12. Verslag
 
-Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-01-01&g=2014-01-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
+Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-07-01&g=2014-07-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -198,17 +198,15 @@ Vervallen
 
 - c. gastouderopvang door ‘onthaalouders’.
 
-2. ‘Zelfstandige onthaalouder’ is uitgezonderd van de in het eerste lid genoemde voorzieningen.
+2. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het eerste lid geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldige erkenning of attest van toezicht, afgegeven door Kind en Gezin.
 
-3. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het eerste lid geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldige erkenning of attest van toezicht, afgegeven door Kind en Gezin.
-
-4. Onder een voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) in Wallonië en Brussel wordt in ieder geval verstaan:
+3. Onder een voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48) in Wallonië en Brussel wordt in ieder geval verstaan:
 
 - a. dagopvang door ‘crèche’, ‘prégardiennat’ en ‘Maison communale d’Accueil de l’Enfance’;
 
 - b. gastouderopvang door ‘Service d’Accueillant(e)s d’Enfants conventionné(e)’;
 
-5. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het vierde lid geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldige ‘attestation de qualité’, afgegeven door ‘l’Office de la Naissance et de l’Enfance’.
+4. Indien de aanvraag, bedoeld in [artikel 1.48, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48), betrekking heeft op een voorziening als bedoeld in het vierde lid geldt als een bewijsstuk als bedoeld in [artikel 10a, onderdeel h, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=10a), een geldige ‘attestation de qualité’, afgegeven door ‘l’Office de la Naissance et de l’Enfance’.
 
 ##### Artikel 16. Wijzigingen in het register buitenlandse kinderopvang
 
@@ -218,7 +216,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-01-01&g=2014-01-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-07-01&g=2014-07-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -434,9 +432,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Als opleiding, bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op tenminste het niveau, bedoeld in[artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
 
-- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-01-01&g=2014-01-01) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-01-01&g=2014-01-01);
+- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01);
 
-- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-01-01&g=2014-01-01), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-01-01&g=2014-01-01), alsmede:
+- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01), alsmede:
 
 - a. Branche Ervaren Peuterspeelzaalleidster (BEP),
 
@@ -516,7 +514,7 @@ Vervallen
 
 ##### Artikel 9b. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-01-01&g=2014-01-01).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-07-01&g=2014-07-01).
 
 ##### Artikel 9c. Taak Dienst Uitvoering Onderwijs
 
@@ -3040,9 +3038,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. geregistreerd certificaat Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert,
 
-- g. geregistreerd certificaat Basis Eerstehulpverlener-LPEV met de aantekening Eerste hulp aan Kinderen van Stichting LPEV, of
+- g. geregistreerd certificaat Basis Eerstehulpverlener-LPEV met de aantekening Eerste hulp aan Kinderen van Stichting LPEV,
 
-- h. geregistreerd certificaat Eerste Hulp aan Baby’s en Kinderen van het Nederlandse Rode Kruis.
+- h. geregistreerd certificaat Eerste Hulp aan Baby’s en Kinderen van het Nederlandse Rode Kruis, of
+
+- i. geregistreerd certificaat 'Eerste Hulp bij werken met kinderen' van het Nederlands Instituut voor Bedrijfshulpverlening.
 
 2. In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 13, eerste lid, onderdeel b, het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
 
@@ -3088,7 +3088,7 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ## Bijlage 1e
 
-## Bijlage 1. , behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2014-01-01&g=2014-01-01)
+## Bijlage 1. , behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2014-07-01&g=2014-07-01)
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
@@ -3654,7 +3654,7 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2014-01-01&g=2014-01-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-01-01&g=2014-01-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-01-01&g=2014-01-01).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2014-07-01&g=2014-07-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
@@ -3732,7 +3732,7 @@ De vraagouder betaalt periodiek de kosten voor gastouderopvang uiterlijk binnen 
 
 - a. een overzicht van alle bij die peuterspeelzaal werkzame beroepskrachten, vermeldende in ieder geval naam, geboortedatum, en de behaalde diploma’s en getuigschriften;
 
-- b. afschriften van alle afgegeven verklaringen omtrent het gedrag afgegeven volgens de Wet justitiële en strafvorderlijke gegevens van bij de peuterspeelzaal werkzame personen;
+- b. afschriften van alle afgegeven verklaringen omtrent het gedrag van bij de peuterspeelzaal werkzame personen;
 
 - c. een afschrift van de risico-inventarisatie, bedoeld in [artikel 2.9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.9),
 
@@ -3854,7 +3854,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2014-01-01&g=2014-01-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2014-07-01&g=2014-07-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
 
 ## Bijlage 1a
 
@@ -3884,6 +3884,6 @@ Vervallen
 
 Vervallen
 
-## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-01-01&g=2014-01-01)
+## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-07-01&g=2014-07-01)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
