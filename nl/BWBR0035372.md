@@ -259,25 +259,3 @@ Wanneer zich tijdens het transport bijzonderheden, aangaande de justitiabele, he
 2. Deze regeling wordt aangehaald als: Regeling vervoer van justitiabelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze regeling berust mede op [artikel 6.11, eerste lid, onder b, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
-
-### Hoofdstuk 2. De transportuitvoering
-
-### Hoofdstuk 3. Algemene beveiliging
-
-### Hoofdstuk 4. Toezicht tijdens het transport
-
-### Hoofdstuk 5. Bagagedoos en preciosazak
-
-### Hoofdstuk 6. Voeding en verzorging van de justitiabele
-
-### Hoofdstuk 7. Bijzondere transporten
-
-### Hoofdstuk 8. Rapportageverplichtingen
-
-### Hoofdstuk 9. Slotbepaling
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
