@@ -4,7 +4,7 @@ identifier: "BWBR0041571"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2012-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0041571"
 soort: "wet"
@@ -82,8 +82,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel VII. [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424)
 
 Wijzigt de Remigratiewet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
