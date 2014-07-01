@@ -4,7 +4,7 @@ identifier: "BWBV0003267"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003267"
 soort: "verdrag"
@@ -80,15 +80,15 @@ Bij de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald,
 
 - a. schepen die zijn geregistreerd in landen waarvan de Regering een Verdragsluitende Regering is;
 
-- b. schepen die zijn geregistreerd in gebieden waarop dit Verdrag krachtens [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=32&z=2014-01-01&g=2014-01-01) eveneens van toepassing is;
+- b. schepen die zijn geregistreerd in gebieden waarop dit Verdrag krachtens [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=32&z=2014-07-01&g=2014-07-01) eveneens van toepassing is;
 
 - c. ongeregistreerde schepen die de vlag voeren van een Staat waarvan de Regering een Verdragsluitende Regering is.
 
 2. Dit Verdrag is van toepassing op schepen die internationale reizen maken.
 
-3. Tenzij uitdrukkelijk anderszins bepaald, zijn de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&z=2014-01-01&g=2014-01-01) vervatte voorschriften van toepassing op nieuwe schepen.
+3. Tenzij uitdrukkelijk anderszins bepaald, zijn de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&z=2014-07-01&g=2014-07-01) vervatte voorschriften van toepassing op nieuwe schepen.
 
-4. Bestaande schepen die niet geheel voldoen aan de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&z=2014-01-01&g=2014-01-01) vervatte Voorschriften of aan enig deel daarvan, dienen tenminste te voldoen aan de minder stringente overeenkomstige voorschriften die door de Administratie vóór de inwerkingtreding van dit Verdrag werden toegepast op schepen die internationale reizen maken; in geen geval mag worden geëist dat het vrijboord van deze schepen wordt vergroot. Ten einde het voordeel te kunnen genieten van een geringer vrijboord dan hetwelk voorheen werd voorgeschreven, dienen bestaande schepen aan alle vereisten van dit Verdrag te voldoen.
+4. Bestaande schepen die niet geheel voldoen aan de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&z=2014-07-01&g=2014-07-01) vervatte Voorschriften of aan enig deel daarvan, dienen tenminste te voldoen aan de minder stringente overeenkomstige voorschriften die door de Administratie vóór de inwerkingtreding van dit Verdrag werden toegepast op schepen die internationale reizen maken; in geen geval mag worden geëist dat het vrijboord van deze schepen wordt vergroot. Ten einde het voordeel te kunnen genieten van een geringer vrijboord dan hetwelk voorheen werd voorgeschreven, dienen bestaande schepen aan alle vereisten van dit Verdrag te voldoen.
 
 5. De in Bijlage II vervatte Voorschriften zijn van toepassing op nieuwe en bestaande schepen waarop dit Verdrag van toepassing is.
 
@@ -172,7 +172,7 @@ Het onderzoek en de inspectie van schepen en het aanbrengen van merken daarop wo
 
 - a). Een eerste onderzoek vóór het schip in dienst wordt gesteld, hetwelk dient in te houden een volledige inspectie van zijn constructie en uitrusting voor zover hieraan door dit Verdrag eisen worden gesteld. Het onderzoek dient zodanig te zijn dat wordt gewaarborgd dat de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.
 
-- b). Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen, die niet langer mogen zijn dan vijf jaar, behalve wanneer [artikel 19, tweede, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=19&z=2014-01-01&g=2014-01-01) van toepassing zijn, dat zodanig dient te zijn dat wordt gewaarborgd dat de constructie, de uitrusting, de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.
+- b). Een hernieuwd onderzoek dat wordt verricht met inachtneming van door de Administratie vast te stellen tussenpozen, die niet langer mogen zijn dan vijf jaar, behalve wanneer [artikel 19, tweede, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=19&z=2014-07-01&g=2014-07-01) van toepassing zijn, dat zodanig dient te zijn dat wordt gewaarborgd dat de constructie, de uitrusting, de inrichting, het materiaal en de verbanddelen ten volle voldoen aan de eisen van dit Verdrag.
 
 - c). Een jaarlijks onderzoek binnen 3 maanden voor of na de verjaardatum van het certificaat, ten einde vast te stellen dat
 
@@ -182,19 +182,19 @@ Het onderzoek en de inspectie van schepen en het aanbrengen van merken daarop wo
 
 - (iii). de diepgangsmerken juist en op onwisbare wijze zijn aangebracht;
 
-- (iv). de in [voorschrift 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=10&z=2014-01-01&g=2014-01-01) vereiste inlichtingen zijn verstrekt.
+- (iv). de in [voorschrift 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=10&z=2014-07-01&g=2014-07-01) vereiste inlichtingen zijn verstrekt.
 
 2. De jaarlijkse onderzoeken bedoeld in het eerste lid, letter (c) van dit artikel worden aangetekend op de rugzijde van het Internationale Certificaat van Uitwatering of van het Internationale Certificaat van Vrijstelling betreffende de Uitwatering dat wordt afgegeven ten behoeve van een schip dat vrijstelling geniet krachtens artikel 6, tweede lid van dit Verdrag.
 
 ##### Artikel 15. Handhaving van de toestand na het onderzoek
 
-Nadat een onderzoek van het schip krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) is voltooid, mogen in de constructie, de uitrusting, de inrichting, het materiaal of de verbanddelen waarop het onderzoek betrekking heeft, geen veranderingen worden aangebracht dan na goedkeuring door de Administratie.
+Nadat een onderzoek van het schip krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) is voltooid, mogen in de constructie, de uitrusting, de inrichting, het materiaal of de verbanddelen waarop het onderzoek betrekking heeft, geen veranderingen worden aangebracht dan na goedkeuring door de Administratie.
 
 ##### Artikel 16. Afgifte van certificaten
 
 1. Ten behoeve van ieder schip dat is onderzocht en waarop een merk is aangebracht overeenkomstig de bepalingen van dit Verdrag wordt een Internationaal Certificaat van Uitwatering afgegeven.
 
-2. Ten behoeve van ieder schip waaraan vrijstelling is verleend krachtens [lid 2 of lid 4 van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=4&z=2014-01-01&g=2014-01-01) wordt een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering afgegeven.
+2. Ten behoeve van ieder schip waaraan vrijstelling is verleend krachtens [lid 2 of lid 4 van artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=4&z=2014-07-01&g=2014-07-01) wordt een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering afgegeven.
 
 3. Deze certificaten worden afgegeven door de Administratie of een door haar behoorlijk gemachtigde persoon of organisatie. In ieder geval aanvaardt de Administratie de volle verantwoordelijkheid voor het certificaat.
 
@@ -204,13 +204,13 @@ Nadat een onderzoek van het schip krachtens [artikel 14](https://wetten.overheid
 
 2. Een afschrift van het certificaat, een afschrift van het verslag van het onderzoek gebruikt voor de berekening van het vrijboord, alsmede een afschrift van de berekeningen dienen zo spoedig mogelijk aan de verzoekende Regering te worden toegezonden.
 
-3. Een op deze wijze afgegeven certificaat dient een verklaring te bevatten inhoudende dat het is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip voert of zal gaan voeren; dit certificaat bezit dezelfde rechtskracht en geniet dezelfde erkenning als een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=16&z=2014-01-01&g=2014-01-01) afgegeven certificaat.
+3. Een op deze wijze afgegeven certificaat dient een verklaring te bevatten inhoudende dat het is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip voert of zal gaan voeren; dit certificaat bezit dezelfde rechtskracht en geniet dezelfde erkenning als een krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=16&z=2014-07-01&g=2014-07-01) afgegeven certificaat.
 
 4. Ten behoeve van een schip dat de vlag voert van een Staat waarvan de Regering geen Verdragsluitende Regering is mag geen Internationaal Certificaat van Uitwatering worden afgegeven.
 
 ##### Artikel 18. Vorm van het certificaat
 
-De certificaten worden opgemaakt in de vorm overeenkomstig de modellen opgenomen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=III&z=2014-01-01&g=2014-01-01) bij dit Verdrag. Indien de gebruikte taal noch Engels noch Frans is, dient een vertaling in een van deze twee talen te worden bijgevoegd.
+De certificaten worden opgemaakt in de vorm overeenkomstig de modellen opgenomen in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=III&z=2014-07-01&g=2014-07-01) bij dit Verdrag. Indien de gebruikte taal noch Engels noch Frans is, dient een vertaling in een van deze twee talen te worden bijgevoegd.
 
 ##### Artikel 19. Looptijd en geldigheid der certificaten
 
@@ -222,9 +222,9 @@ De certificaten worden opgemaakt in de vorm overeenkomstig de modellen opgenomen
 
 - c). Wanneer het hernieuwde onderzoek wordt voltooid meer dan drie maanden voor de vervaldatum van het bestaande certificaat is het nieuwe certificaat geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot een datum uiterlijk vijf jaar na de datum van voltooiing van het hernieuwde onderzoek.
 
-3. Indien een certificaat wordt afgegeven voor een tijdvak korter dan vijf jaar kan de Administratie de geldigheidsduur van een certificaat tot na de vervaldatum verlengen tot het in het eerste lid aangegeven maximum tijdvak, mits de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) bedoelde jaarlijkse onderzoeken die van toepassing zijn wanneer een certificaat wordt afgegeven voor een tijdvak van 5 jaar naar behoren worden verricht.
+3. Indien een certificaat wordt afgegeven voor een tijdvak korter dan vijf jaar kan de Administratie de geldigheidsduur van een certificaat tot na de vervaldatum verlengen tot het in het eerste lid aangegeven maximum tijdvak, mits de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) bedoelde jaarlijkse onderzoeken die van toepassing zijn wanneer een certificaat wordt afgegeven voor een tijdvak van 5 jaar naar behoren worden verricht.
 
-4. Indien na het in [artikel 4, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=4&z=2014-01-01&g=2014-01-01) bedoelde hernieuwde onderzoek geen nieuw certificaat ten behoeve van het schip kan worden afgegeven vóór de vervaldatum van het bestaande certificaat, kan de persoon of de organisatie die het onderzoek verricht de geldigheidsduur van het bestaande certificaat verlengen voor een tijdvak van ten hoogste 5 maanden. Deze verlenging wordt aangetekend op de rugzijde van het certificaat en wordt slechts verleend indien er geen veranderingen hebben plaats gehad in de constructie, de uitrusting, de inrichting, het materiaal of de verbanddelen die van invloed zijn op het vrijboord van het schip.
+4. Indien na het in [artikel 4, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=4&z=2014-07-01&g=2014-07-01) bedoelde hernieuwde onderzoek geen nieuw certificaat ten behoeve van het schip kan worden afgegeven vóór de vervaldatum van het bestaande certificaat, kan de persoon of de organisatie die het onderzoek verricht de geldigheidsduur van het bestaande certificaat verlengen voor een tijdvak van ten hoogste 5 maanden. Deze verlenging wordt aangetekend op de rugzijde van het certificaat en wordt slechts verleend indien er geen veranderingen hebben plaats gehad in de constructie, de uitrusting, de inrichting, het materiaal of de verbanddelen die van invloed zijn op het vrijboord van het schip.
 
 5. Indien een schip zich op het tijdstip waarop een certificaat zijn geldigheid verliest niet in een haven bevindt waar het moet worden onderzocht, kan de Administratie de geldigheidsduur van het certificaat verlengen, maar deze verlenging wordt uitsluitend verleend om het schip in staat te stellen zijn reis naar de haven waar het moet worden onderzocht te voltooien en dan uitsluitend in gevallen waarin het juist en redelijk voorkomt zulks te doen. Een certificaat mag niet worden verlengd voor een tijdvak langer dan 3 maanden en een schip ten behoeve waarvan een verlenging is verleend, is bij zijn aankomst in de haven waar het moet worden onderzocht, niet gerechtigd uit hoofde van een zodanige verlenging die haven te verlaten zonder een nieuw certificaat. Wanneer het hernieuwde onderzoek is voltooid, is het nieuwe certificaat geldig tot een datum uiterlijk 5 jaar na de vervaldatum van het bestaande certificaat voordat de verlenging werd verleend.
 
@@ -232,27 +232,27 @@ De certificaten worden opgemaakt in de vorm overeenkomstig de modellen opgenomen
 
 7. In bijzondere omstandigheden, zoals bepaald door de Administratie, behoeft een nieuw certificaat niet te worden gedateerd te rekenen van de vervaldatum van het bestaande certificaat zoals voorgeschreven in het eerste, vijfde en zesde lid. In deze bijzondere omstandigheden is het nieuwe certificaat geldig tot een datum uiterlijk vijf jaar na de datum van voltooiing van het hernieuwde onderzoek.
 
-8. Indien een jaarlijks onderzoek is voltooid vóór het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) aangegeven tijdvak:
+8. Indien een jaarlijks onderzoek is voltooid vóór het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) aangegeven tijdvak:
 
 - a). wordt de verjaardatum op het certificaat door een aantekening op de rugzijde gewijzigd in een datum ten hoogste 3 maanden na de datum waarop het onderzoek was voltooid;
 
-- b). wordt het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) voorgeschreven volgende jaarlijkse onderzoek voltooid met de in dat artikel voorgeschreven tussenpozen met inachtneming van de nieuwe verjaardatum;
+- b). wordt het in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) voorgeschreven volgende jaarlijkse onderzoek voltooid met de in dat artikel voorgeschreven tussenpozen met inachtneming van de nieuwe verjaardatum;
 
-- c). kan de vervaldatum onveranderd blijven mits er een of meer jaarlijkse onderzoeken zijn verricht zodat de maximumtussenpozen tussen de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) voorgeschreven onderzoeken niet worden overschreden.
+- c). kan de vervaldatum onveranderd blijven mits er een of meer jaarlijkse onderzoeken zijn verricht zodat de maximumtussenpozen tussen de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) voorgeschreven onderzoeken niet worden overschreden.
 
 9. Een Internationaal Certificaat van Uitwatering verliest zijn geldigheid indien zich een der volgende omstandigheden voordoet:
 
 - a). de romp of de bovenbouw van het schip hebben ingrijpende veranderingen ondergaan van die aard dat de vaststelling van een groter vrijboord noodzakelijk is;
 
-- b). de in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01) genoemde onderdelen en middelen zijn niet in deugdelijke toestand gehouden;
+- b). de in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01) genoemde onderdelen en middelen zijn niet in deugdelijke toestand gehouden;
 
-- c). het certificaat vertoont aan de rugzijde geen aantekening waaruit blijkt dat het schip is onderzocht zoals bepaald in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-01-01&g=2014-01-01);
+- c). het certificaat vertoont aan de rugzijde geen aantekening waaruit blijkt dat het schip is onderzocht zoals bepaald in [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=14&z=2014-07-01&g=2014-07-01);
 
 - d). de sterkte van de constructie van het schip is zoveel geringer geworden dat het onveilig is.
 
-- a). De geldigheidsduur van een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering afgegeven door een Administratie ten behoeve van een schip dat vrijstelling geniet krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=6&z=2014-01-01&g=2014-01-01), mag niet meer dan vijf jaar bedragen. Een dergelijk certificaat is onderworpen aan de procedures betreffende verlenging, endossering, tijdelijke verlenging en intrekking van dezelfde aard als die waarin krachtens dit artikel wordt voorzien ten aanzien van een Internationaal Certificaat van Uitwatering.
+- a). De geldigheidsduur van een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering afgegeven door een Administratie ten behoeve van een schip dat vrijstelling geniet krachtens [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=6&z=2014-07-01&g=2014-07-01), mag niet meer dan vijf jaar bedragen. Een dergelijk certificaat is onderworpen aan de procedures betreffende verlenging, endossering, tijdelijke verlenging en intrekking van dezelfde aard als die waarin krachtens dit artikel wordt voorzien ten aanzien van een Internationaal Certificaat van Uitwatering.
 
-- b). De geldigheidsduur van een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering dat is afgegeven ten behoeve van een schip dat vrijstelling geniet krachtens [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=6&z=2014-01-01&g=2014-01-01) is beperkt tot de reis waarvoor het is afgegeven.
+- b). De geldigheidsduur van een Internationaal Certificaat van Vrijstelling betreffende de Uitwatering dat is afgegeven ten behoeve van een schip dat vrijstelling geniet krachtens [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=6&z=2014-07-01&g=2014-07-01) is beperkt tot de reis waarvoor het is afgegeven.
 
 11. Een door de Administratie ten behoeve van een schip afgegeven certificaat houdt op geldig te zijn bij overdracht van zulk een schip onder de vlag van een andere Staat.
 
@@ -262,13 +262,13 @@ De onder gezag van een Verdragsluitende Regering overeenkomstig de bepalingen va
 
 ##### Artikel 21. Toezicht
 
-1. Schepen in het bezit van een certificaat afgegeven krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=16&z=2014-01-01&g=2014-01-01) of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=17&z=2014-01-01&g=2014-01-01) zijn, wanneer zij zich in havens van andere Verdragsluitende Regeringen bevinden, onderworpen aan het toezicht door daartoe door deze Regeringen behoorlijk gemachtigde ambtenaren. De Verdragsluitende Regeringen zien erop toe dat een dergelijk toezicht voor zover redelijk en praktisch uitvoerbaar is wordt uitgeoefend ten einde vast te stellen dat zich aan boord een krachtens dit Verdrag geldig certificaat bevindt. Indien zich aan boord van het schip een geldig Internationaal Certificaat van Uitwatering bevindt, heeft dit toezicht slechts tot doel vast te stellen dat:
+1. Schepen in het bezit van een certificaat afgegeven krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=16&z=2014-07-01&g=2014-07-01) of [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=17&z=2014-07-01&g=2014-07-01) zijn, wanneer zij zich in havens van andere Verdragsluitende Regeringen bevinden, onderworpen aan het toezicht door daartoe door deze Regeringen behoorlijk gemachtigde ambtenaren. De Verdragsluitende Regeringen zien erop toe dat een dergelijk toezicht voor zover redelijk en praktisch uitvoerbaar is wordt uitgeoefend ten einde vast te stellen dat zich aan boord een krachtens dit Verdrag geldig certificaat bevindt. Indien zich aan boord van het schip een geldig Internationaal Certificaat van Uitwatering bevindt, heeft dit toezicht slechts tot doel vast te stellen dat:
 
 - a. de belading van het schip de door het certificaat toegestane grenzen niet overschrijdt;
 
 - b. de plaats van de uitwateringslijn overeenkomt met hetgeen daaromtrent op het certificaat is aangegeven;
 
-- c. het schip ten aanzien van de onder **a** en **b** van het [negende lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=19&z=2014-01-01&g=2014-01-01) vermelde delen niet zodanige ingrijpende veranderingen heeft ondergaan dat het kennelijk ongeschikt is om zonder gevaar voor mensenlevens zee te kiezen.
+- c. het schip ten aanzien van de onder **a** en **b** van het [negende lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=19&z=2014-07-01&g=2014-07-01) vermelde delen niet zodanige ingrijpende veranderingen heeft ondergaan dat het kennelijk ongeschikt is om zonder gevaar voor mensenlevens zee te kiezen.
 
 Indien zich aan boord een geldig Internationaal Certificaat van Vrijstelling betreffende de Uitwatering bevindt, heeft dit toezicht slechts tot doel vast te stellen dat aan de in dat certificaat gestelde voorwaarden wordt voldaan.
 
@@ -326,13 +326,13 @@ Wanneer in overeenstemming met de bepalingen van dit Verdrag bij overeenkomst bi
 
 ##### Artikel 28. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste vijftien Regeringen van Staten, waarvan zeven met elk ten minste één miljoen bruto registerton aan scheepsruimte, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27&z=2014-01-01&g=2014-01-01) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van de datum van inwerkingtreding.
+1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste vijftien Regeringen van Staten, waarvan zeven met elk ten minste één miljoen bruto registerton aan scheepsruimte, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27&z=2014-07-01&g=2014-07-01) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of ertoe zijn toegetreden in kennis van de datum van inwerkingtreding.
 
 2. Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd gedurende het in lid 1 van dit artikel bedoelde tijdvak van twaalf maanden, wordt de aanvaarding of toetreding van kracht bij de inwerkingtreding van dit Verdrag, dan wel drie maanden na de datum van de nederlegging van de akte van aanvaarding of toetreding, al naar gelang welk tijdstip het laatst valt.
 
 3. Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd na de datum van inwerkingtreding, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van een zodanige akte.
 
-4. Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens [lid 2 **b** van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=29&z=2014-01-01&g=2014-01-01) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd geacht te gelden voor het gewijzigde Verdrag.
+4. Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens [lid 2 **b** van artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=29&z=2014-07-01&g=2014-07-01) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd geacht te gelden voor het gewijzigde Verdrag.
 
 ##### Artikel 29. Wijzigingen
 
@@ -420,7 +420,7 @@ Dit Verdrag is, in een enkel exemplaar, opgesteld in de Engelse en de Franse taa
 
 - 1. De Administratie overtuigt zich ervan dat de algemene structurele sterkte van het schip voldoende is voor de diepgang overeenkomende met het vastgestelde vrijboord.
 
-- 2. Een schip ontworpen, gebouwd en onderhouden overeenkomstig de relevante eisen van een organisatie, waaronder een classificatiebureau, die door de Organisatie is erkend of overeenkomstig de geldende nationale normen van de Administratie in overeenstemming met de bepalingen van [voorschrift 2-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=2&z=2014-01-01&g=2014-01-01), kan geacht worden een aanvaardbaar niveau van sterkte te bezitten. De bovenstaande bepalingen zijn van toepassing op alle constructies, apparatuur en installaties waarop deze bijlage van toepassing is, waarvoor geen uitdrukkelijke normen voor sterkte en constructie zijn gegeven.
+- 2. Een schip ontworpen, gebouwd en onderhouden overeenkomstig de relevante eisen van een organisatie, waaronder een classificatiebureau, die door de Organisatie is erkend of overeenkomstig de geldende nationale normen van de Administratie in overeenstemming met de bepalingen van [voorschrift 2-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01), kan geacht worden een aanvaardbaar niveau van sterkte te bezitten. De bovenstaande bepalingen zijn van toepassing op alle constructies, apparatuur en installaties waarop deze bijlage van toepassing is, waarvoor geen uitdrukkelijke normen voor sterkte en constructie zijn gegeven.
 
 - 3. Naleving
 
@@ -440,7 +440,7 @@ Dit Verdrag is, in een enkel exemplaar, opgesteld in de Engelse en de Franse taa
 
 - 5. De voorschriften 10 tot en met 26 zijn van toepassing op elk schip waarvoor een minimumvrijboord is vastgesteld. Afwijkingen van deze eisen kunnen worden toegestaan met betrekking tot schepen waarvoor een groter dan minimumvrijboord is vastgesteld op voorwaarde dat de Administratie ervan overtuigd is dat de veiligheid van deze schepen voldoende is gewaarborgd.
 
-- 6. Wanneer het vastgestelde zomervrijboord zodanig wordt vermeerderd dat de resulterende diepgang niet meer bedraagt dan die welke overeenkomt met een minimumzomervrijboord voor hetzelfde schip, maar met een aangenomen vrijboorddek gelegen op een afstand onder het feitelijke vrijboorddek die ten minste gelijk is aan de standaardhoogte van de bovenbouw, mogen de voorwaarden voor de vaststelling in overeenstemming met de [voorschriften 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01), 14-1 tot en met 20, [23](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=23&z=2014-01-01&g=2014-01-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=24&z=2014-01-01&g=2014-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-01-01&g=2014-01-01), naar gelang van toepassing, ten aanzien van het feitelijke vrijboorddek zijn zoals vereist voor een bovenbouwdek.
+- 6. Wanneer het vastgestelde zomervrijboord zodanig wordt vermeerderd dat de resulterende diepgang niet meer bedraagt dan die welke overeenkomt met een minimumzomervrijboord voor hetzelfde schip, maar met een aangenomen vrijboorddek gelegen op een afstand onder het feitelijke vrijboorddek die ten minste gelijk is aan de standaardhoogte van de bovenbouw, mogen de voorwaarden voor de vaststelling in overeenstemming met de [voorschriften 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01), 14-1 tot en met 20, [23](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=23&z=2014-07-01&g=2014-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=24&z=2014-07-01&g=2014-07-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-07-01&g=2014-07-01), naar gelang van toepassing, ten aanzien van het feitelijke vrijboorddek zijn zoals vereist voor een bovenbouwdek.
 
 - 7. Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op schepen waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2005.
 
@@ -1279,9 +1279,9 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 - 1. Behalve als bepaald in lid 2 van dit voorschrift, is de in rekening te brengen lengte (E) van een gesloten bovenbouw van standaardhoogte dezelfde als de werkelijke lengte.
 
-- 2. In alle gevallen waarin een gesloten bovenbouw van standaardhoogte vanaf de zijden van het schip naar binnen is geplaatst zoals toegestaan in [voorschrift 3, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-01-01&g=2014-01-01), is de in rekening te brengen lengte de in de verhouding b/Bs gewijzigde lengte, waarbij: b de breedte is van de bovenbouw op het midden van de lengte; en Bs de breedte is van het schip op het midden van de lengte van de bovenbouw. Wanneer een bovenbouw over een gedeelte van de lengte ervan naar binnen is geplaatst, dan is deze wijziging slechts van toepassing voor het naar binnen geplaatste gedeelte.
+- 2. In alle gevallen waarin een gesloten bovenbouw van standaardhoogte vanaf de zijden van het schip naar binnen is geplaatst zoals toegestaan in [voorschrift 3, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-07-01&g=2014-07-01), is de in rekening te brengen lengte de in de verhouding b/Bs gewijzigde lengte, waarbij: b de breedte is van de bovenbouw op het midden van de lengte; en Bs de breedte is van het schip op het midden van de lengte van de bovenbouw. Wanneer een bovenbouw over een gedeelte van de lengte ervan naar binnen is geplaatst, dan is deze wijziging slechts van toepassing voor het naar binnen geplaatste gedeelte.
 
-- 3. Wanneer de hoogte van een gesloten bovenbouw kleiner is dan de standaardhoogte, wordt de in rekening te brengen lengte verminderd in de verhouding van de werkelijke hoogte tot de standaardhoogte. Wanneer de hoogte de standaardhoogte overtreft, mag de in rekening te brengen lengte van de bovenbouw niet worden vergroot (zie de afbeeldingen 34.1 en 34.2). Wanneer de hoogte, boven het hellende gedeelte, van een bovenbouw met schuin aflopende schotten minder is dan de standaardhoogte, is de in rekening te brengen lengte E de lengte S als verkregen uit figuur 34.1, verminderd met de verhouding van de feitelijke lengte tot de standaardlengte. Wanneer een kampanje of bak van minder dan standaardhoogte is aangebracht op een schip met een overmatige zeeg, doch zonder een bovenbouw binnen 0,2 L midscheeps, mag rekening worden gehouden met de hoogte van de kampanje of bak door de feitelijke hoogte te vermeerderen met het verschil tussen het feitelijke en het standaard zeegprofiel. De vermindering voor overmaat aan zeeg overeenkomstig [voorschrift 38, lid 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-01-01&g=2014-01-01), mag niet worden toegekend.
+- 3. Wanneer de hoogte van een gesloten bovenbouw kleiner is dan de standaardhoogte, wordt de in rekening te brengen lengte verminderd in de verhouding van de werkelijke hoogte tot de standaardhoogte. Wanneer de hoogte de standaardhoogte overtreft, mag de in rekening te brengen lengte van de bovenbouw niet worden vergroot (zie de afbeeldingen 34.1 en 34.2). Wanneer de hoogte, boven het hellende gedeelte, van een bovenbouw met schuin aflopende schotten minder is dan de standaardhoogte, is de in rekening te brengen lengte E de lengte S als verkregen uit figuur 34.1, verminderd met de verhouding van de feitelijke lengte tot de standaardlengte. Wanneer een kampanje of bak van minder dan standaardhoogte is aangebracht op een schip met een overmatige zeeg, doch zonder een bovenbouw binnen 0,2 L midscheeps, mag rekening worden gehouden met de hoogte van de kampanje of bak door de feitelijke hoogte te vermeerderen met het verschil tussen het feitelijke en het standaard zeegprofiel. De vermindering voor overmaat aan zeeg overeenkomstig [voorschrift 38, lid 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-07-01&g=2014-07-01), mag niet worden toegekend.
 
 - 4. De in rekening te brengen lengte van een verhoogd halfdek is, wanneer het is voorzien van een intact schot, de werkelijke lengte tot aan een maximum van 0,6 L. Wanneer het schot niet intact is, wordt het verhoogde halfdek beschouwd als een kampanje met een hoogte die minder is dan de standaardhoogte. De maximale in rekening te brengen lengte van 0,6 L van een verhoogd halfdek moet worden gemeten vanaf de achterste loodlijn, zelfs wanneer een kampanje is aangebracht in combinatie met het verhoogde halfdek.
 
@@ -1299,7 +1299,7 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 - d. luchtkokers door de trunk, door waterdichte deksels of door gelijkwaardige middelen worden beschermd;
 
-- e. naast de trunk op de aan weer en wind blootgestelde gedeelten van het vrijboorddek over ten minste de halve lengte daarvan open relingwerk is aangebracht, of anders erin wordt voorzien dat de oppervlakte van de waterloospoorten in het onderste gedeelte van de verschansingen, onverminderd [voorschrift 24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=24&z=2014-01-01&g=2014-01-01), 33% van de totale oppervlakte van de verschansingen bedraagt;
+- e. naast de trunk op de aan weer en wind blootgestelde gedeelten van het vrijboorddek over ten minste de halve lengte daarvan open relingwerk is aangebracht, of anders erin wordt voorzien dat de oppervlakte van de waterloospoorten in het onderste gedeelte van de verschansingen, onverminderd [voorschrift 24, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=24&z=2014-07-01&g=2014-07-01), 33% van de totale oppervlakte van de verschansingen bedraagt;
 
 - f. de schachten boven de machineruimten door de trunk, door middel van een bovenbouw van standaardhoogte of door een dekhuis van dezelfde hoogte en van overeenkomstige sterkte zijn beschermd;
 
@@ -1311,7 +1311,7 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 - 3. De standaardhoogte van een trunk is gelijk aan de standaardhoogte van een bovenbouw geen verhoogd halfdek zijnde.
 
-- 4. Wanneer de hoogte van een trunk kleiner is dan de standaardhoogte, wordt de in rekening te brengen lengte in verhouding van de werkelijke hoogte tot de standaardhoogte verkleind. Wanneer de hoogte van de luikhoofden op het trunkdek geringer is dan wat krachtens [voorschrift 14-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14-1&z=2014-01-01&g=2014-01-01) wordt vereist, moet een vermindering van de werkelijke hoogte van de trunk die overeenkomt met het verschil tussen de werkelijke hoogte en de vereiste hoogte van de hoofden in rekening worden gebracht.
+- 4. Wanneer de hoogte van een trunk kleiner is dan de standaardhoogte, wordt de in rekening te brengen lengte in verhouding van de werkelijke hoogte tot de standaardhoogte verkleind. Wanneer de hoogte van de luikhoofden op het trunkdek geringer is dan wat krachtens [voorschrift 14-1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14-1&z=2014-07-01&g=2014-07-01) wordt vereist, moet een vermindering van de werkelijke hoogte van de trunk die overeenkomt met het verschil tussen de werkelijke hoogte en de vereiste hoogte van de hoofden in rekening worden gebracht.
 
 - 5. Wanneer de trunkhoogte kleiner is dan de standaardhoogte en de luikhoofden van de trunk ook kleiner zijn dan de standaardhoogte, of volledig afwezig zijn, moet de vermindering van de feitelijke hoogte van de trunk vanwege onvoldoende hoogte van het luikhoofd worden genomen als het verschil tussen 600 mm en de feitelijke hoogte van het luikhoofd, of 600 mm indien geen luikhoofden zijn aangebracht. Een vermindering van de feitelijke hoogte van een trunk wordt niet verlangd in gevallen waarin in het trunkdek slechts kleine luiken met een geringere hoogte dan de standaardhoogte zijn aangebracht waarvoor ontheffing van het vereiste van standaardhoogte van het luikhoofd mag worden verleend.
 
@@ -1378,7 +1378,7 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 | --- | --- |
 | y | het verschil is tussen de werkelijke hoogte en standaardhoogte van de bovenbouw op de achter- of voorloodlijn; |
 | **L** | „de gemiddelde gesloten lengte is van de kampanje of de bak tot een maximumlengte van 0,5 L; en |
-| **L** | de lengte is van het schip als omschreven in [voorschrift 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-01-01&g=2014-01-01). |
+| **L** | de lengte is van het schip als omschreven in [voorschrift 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-07-01&g=2014-07-01). |
 
 - 13.
 
@@ -1386,11 +1386,11 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 - b. Wanneer de hoogte van een bovenbouw kleiner is dan de standaardhoogte, mag het bovenbouwdek op geen enkel punt lager dan de minimumhoogte van de bovenbouw op enig punt boven de virtuele zeegkromme liggen. Voor de toepassing hiervan moet y worden genomen als het verschil tussen de feitelijke en de minimumhoogte van de bovenbouw ter hoogte van de achterste/voorste loodlijn.
 
-- c. Met een verhoogd halfdek mag alleen rekening worden gehouden wanneer de hoogte van dit halfdek groter is dan de standaardhoogte van ’andere bovenbouwen’ als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-01-01&g=2014-01-01), en uitsluitend voor het gedeelte waarmee de feitelijke hoogte van het verhoogde halfdek die standaardhoogte overschrijdt.
+- c. Met een verhoogd halfdek mag alleen rekening worden gehouden wanneer de hoogte van dit halfdek groter is dan de standaardhoogte van ’andere bovenbouwen’ als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-07-01&g=2014-07-01), en uitsluitend voor het gedeelte waarmee de feitelijke hoogte van het verhoogde halfdek die standaardhoogte overschrijdt.
 
 - d. Wanneer een kampanje of bak schuin aflopende eindschotten heeft, mag een vergroting van de zeeg worden toegestaan vanwege de overmaat aan hoogte. De in lid 12 gegeven formule moet worden gebruikt, waarbij de waarden voor y en L’ de in figuur 38.3 aangegeven waarden zijn.
 
-- 14. De correctie voor zeeg is het tekort of de overmaat aan zeeg (zie de leden 9 tot en met 11) vermenigvuldigd met waarbij **S1** de totale lengte S voorstelt van een gesloten bovenbouw als omschreven in [voorschrift 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=34&z=2014-01-01&g=2014-01-01) zonder trunk.
+- 14. De correctie voor zeeg is het tekort of de overmaat aan zeeg (zie de leden 9 tot en met 11) vermenigvuldigd met waarbij **S1** de totale lengte S voorstelt van een gesloten bovenbouw als omschreven in [voorschrift 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=34&z=2014-07-01&g=2014-07-01) zonder trunk.
 
 - 15. Wanneer de zeeg kleiner is dan de standaardzeeg, wordt de wijziging voor het tekort aan zeeg (zie lid 14) bij het vrijboord opgeteld.
 
@@ -1402,22 +1402,22 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 | Fb | de berekende minimumboeghoogte is, in mm; |
 | --- | --- |
-| L | de lengte is als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-01-01&g=2014-01-01), in m; |
+| L | de lengte is als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-07-01&g=2014-07-01), in m; |
 | B | de breedte naar de mal is als omschreven in voorschrift 3, in m; |
 | **d**1 | de diepgang is op 85% van de kleinste holte naar de mal, in m; |
 | Cb | de volheidscoëfficiënt is, als omschreven in voorschrift 3; |
 | Cwf | de watervlakoppervlaktecoëfficiënt is van L/2 naar voren: Cwf = Awf/{(L/2) x B}; |
 | Awf | de watervlakoppervlakte is van L/2 naar voren bij de diepgang d1, in m2. |
 
-- 2. Wanneer de in lid 1 vereiste boeghoogte door middel van een zeeg wordt verkregen, moet de zeeg zich uitstrekken over ten minste 15% van de lengte van het schip, gemeten van de voorloodlijn. Wanneer zij wordt verkregen door het aanbrengen van een bovenbouw, dan moet de lengte van de bovenbouw zich uitstrekken vanaf de voorsteven tot een punt ten minste 0,07 L achter de voorste loodlijn gelegen en moet de bovenbouw gesloten zijn als omschreven in [voorschrift 3, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-01-01&g=2014-01-01).
+- 2. Wanneer de in lid 1 vereiste boeghoogte door middel van een zeeg wordt verkregen, moet de zeeg zich uitstrekken over ten minste 15% van de lengte van het schip, gemeten van de voorloodlijn. Wanneer zij wordt verkregen door het aanbrengen van een bovenbouw, dan moet de lengte van de bovenbouw zich uitstrekken vanaf de voorsteven tot een punt ten minste 0,07 L achter de voorste loodlijn gelegen en moet de bovenbouw gesloten zijn als omschreven in [voorschrift 3, lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-07-01&g=2014-07-01).
 
 - 3. Ten behoeve van schepen die wegens bijzondere exploitatie-eisen niet kunnen voldoen aan de eisen van de leden 1 en 2 van dit voorschrift kunnen door de Administratie afwijkingen worden toegestaan.
 
-- 4. De vertaling van de teksten in figuur 39.1 luidt als volgt: standaardparabool meegerekende boeghoogte hf = de halve standaardhoogte van de bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-01-01&g=2014-01-01).
+- 4. De vertaling van de teksten in figuur 39.1 luidt als volgt: standaardparabool meegerekende boeghoogte hf = de halve standaardhoogte van de bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-07-01&g=2014-07-01).
 
-- a. De zeeg van de bak mag in rekening worden gebracht, zelfs als de lengte van de bak kleiner is dan 0,15 L, maar groter dan 0,07 L, mits de hoogte van de bak niet kleiner is dan een halve standaardhoogte van de bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-01-01&g=2014-01-01) tussen 0,07 L en de voorste loodlijn.
+- a. De zeeg van de bak mag in rekening worden gebracht, zelfs als de lengte van de bak kleiner is dan 0,15 L, maar groter dan 0,07 L, mits de hoogte van de bak niet kleiner is dan een halve standaardhoogte van de bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-07-01&g=2014-07-01) tussen 0,07 L en de voorste loodlijn.
 
-- b. Wanneer de hoogte van de bak kleiner is dan een halve standaardhoogte van de bovenbouw, als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-01-01&g=2014-01-01), kan de meegerekende boeghoogte als volgt worden bepaald:
+- b. Wanneer de hoogte van de bak kleiner is dan een halve standaardhoogte van de bovenbouw, als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-07-01&g=2014-07-01), kan de meegerekende boeghoogte als volgt worden bepaald:
 
 - i. Wanneer het vrijboorddek een zeeg heeft die zich uitstrekt van achter 0,15 L, door middel van een parabolische kromme die zijn oorsprong heeft op 0,15 L achter de voorste loodlijn op een hoogte gelijk aan de diepte van het schip midscheeps, doorlopend door het snijpunt van het schot van de bak en het dek, en tot aan een punt ter hoogte van de voorste loodlijn niet hoger dan het niveau van het bakdek (als weergegeven in figuur 39.1). Indien de waarde van de hoogte ht in figuur 39.1 echter kleiner is dan de waarde van de hoogte hb, dan mag ht in de beschikbare boeghoogte worden vervangen door hb.
 
@@ -1427,23 +1427,23 @@ Voor de tussenliggende lengten wordt de standaardhoogte verkregen door middel va
 
 | Fmin | wordt berekend door: Fmin = (F0 x f1) + f2; |
 | --- | --- |
-| F0 | het basisvrijboord is, in mm, uit [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-01-01&g=2014-01-01), gecorrigeerd voor [voorschrift 27, lid 9, of lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-01-01&g=2014-01-01), naar gelang van toepassing; |
-| f1 | de correctie voor volheidscoëfficiënt is als vermeld in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-01-01&g=2014-01-01); en |
-| f2 | de correctie voor diepte is, in mm, als vermeld in [voorschrift 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-01-01&g=2014-01-01). |
+| F0 | het basisvrijboord is, in mm, uit [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01), gecorrigeerd voor [voorschrift 27, lid 9, of lid 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01), naar gelang van toepassing; |
+| f1 | de correctie voor volheidscoëfficiënt is als vermeld in [voorschrift 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-07-01&g=2014-07-01); en |
+| f2 | de correctie voor diepte is, in mm, als vermeld in [voorschrift 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-07-01&g=2014-07-01). |
 
 ##### Voorschrift 40. Minimumvrijboord
 
-- 1. Het minimumvrijboord in de zomer is het vrijboord verkregen uit de tabellen in [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-01-01&g=2014-01-01) als gewijzigd door de correcties in [voorschrift 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-01-01&g=2014-01-01), voor zover van toepassing, en in de [voorschriften 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=29&z=2014-01-01&g=2014-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-01-01&g=2014-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-01-01&g=2014-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-01-01&g=2014-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-01-01&g=2014-01-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-01-01&g=2014-01-01) en, indien van toepassing, [39](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=39&z=2014-01-01&g=2014-01-01).
+- 1. Het minimumvrijboord in de zomer is het vrijboord verkregen uit de tabellen in [voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) als gewijzigd door de correcties in [voorschrift 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01), voor zover van toepassing, en in de [voorschriften 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=29&z=2014-07-01&g=2014-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-07-01&g=2014-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-07-01&g=2014-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-07-01&g=2014-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-07-01&g=2014-07-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-07-01&g=2014-07-01) en, indien van toepassing, [39](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=39&z=2014-07-01&g=2014-07-01).
 
-- 2. Het vrijboord in zoutwater als berekend krachtens lid 1, doch zonder de correctie voor de deklijn als bedoeld in [voorschrift 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-01-01&g=2014-01-01), mag niet minder zijn dan 50 mm. Voor schepen die op plaatsen van categorie 1 luikopeningen hebben met luiken die niet voldoen aan de eisen van [voorschrift 16 leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01) of [voorschrift 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=26&z=2014-01-01&g=2014-01-01), mag het vrijboord niet minder zijn dan 150 mm.
+- 2. Het vrijboord in zoutwater als berekend krachtens lid 1, doch zonder de correctie voor de deklijn als bedoeld in [voorschrift 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-07-01&g=2014-07-01), mag niet minder zijn dan 50 mm. Voor schepen die op plaatsen van categorie 1 luikopeningen hebben met luiken die niet voldoen aan de eisen van [voorschrift 16 leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01) of [voorschrift 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=26&z=2014-07-01&g=2014-07-01), mag het vrijboord niet minder zijn dan 150 mm.
 
 - 3. Het minimumvrijboord in het tropisch vaargebied is het vrijboord verkregen door aftrek van het zomervrijboord van één achtenveertigste van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de cirkel van het uitwateringsmerk.
 
-- 4. Het vrijboord in zoutwater als berekend krachtens lid 3, doch zonder de correctie voor de deklijn als bedoeld in [voorschrift 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-01-01&g=2014-01-01), mag niet minder zijn dan 50 mm. Voor schepen die op plaatsen van categorie 1 luikopeningen hebben met luiken die niet voldoen aan de eisen van [voorschrift 16, leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), of [voorschrift 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=26&z=2014-01-01&g=2014-01-01), mag het vrijboord niet minder zijn dan 150 mm.
+- 4. Het vrijboord in zoutwater als berekend krachtens lid 3, doch zonder de correctie voor de deklijn als bedoeld in [voorschrift 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-07-01&g=2014-07-01), mag niet minder zijn dan 50 mm. Voor schepen die op plaatsen van categorie 1 luikopeningen hebben met luiken die niet voldoen aan de eisen van [voorschrift 16, leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), of [voorschrift 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=26&z=2014-07-01&g=2014-07-01), mag het vrijboord niet minder zijn dan 150 mm.
 
 - 5. Het minimumwintervrijboord is het vrijboord verkregen door optelling bij het zomervrijboord van één achtenveertigste van de zomerdiepgang, gemeten van de bovenkant van de kiel tot het middelpunt van de cirkel van het uitwateringsmerk.
 
-- 6. Het minimumvrijboord voor schepen van niet meer dan 100 m lengte die gedurende het winterseizoen enig deel van de Noord-Atlantische Oceaan als aangegeven in [voorschrift 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=II&artikel=52&z=2014-01-01&g=2014-01-01) (Bijlage II) bevaren, moet het wintervrijboord zijn, vermeerderd met 50 mm. Voor andere schepen is het wintervrijboord in de Noord-Atlantische Oceaan gelijk aan het wintervrijboord.
+- 6. Het minimumvrijboord voor schepen van niet meer dan 100 m lengte die gedurende het winterseizoen enig deel van de Noord-Atlantische Oceaan als aangegeven in [voorschrift 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=II&artikel=52&z=2014-07-01&g=2014-07-01) (Bijlage II) bevaren, moet het wintervrijboord zijn, vermeerderd met 50 mm. Voor andere schepen is het wintervrijboord in de Noord-Atlantische Oceaan gelijk aan het wintervrijboord.
 
 - 7. Het minimumvrijboord in zoetwater met een soortelijk gewicht van **l** wordt verkregen door van het minimumvrijboord in zoutwater af te trekken: waarbij: de waterverplaatsing is in tonnen bij de lijn voor zomeruitwatering, en T het aantal tonnen is waarmee de waterverplaatsing per centimeter in zoutwater bij zomeruitwatering toeneemt.
 
@@ -1459,7 +1459,7 @@ De voorschriften 42 tot en met 45 zijn uitsluitend van toepassing op schepen waa
 
 - 1. **Deklast hout.** De uitdrukking „deklast hout” duidt een lading hout aan die op een niet overdekt gedeelte van een vrijboorddek wordt vervoerd. Houtpulp of dergelijke lading wordt niet als een deklast hout beschouwd.
 
-- 2. **Houtvaartuitwatering.** Aangenomen mag worden dat een deklast hout aan een schip een zekere mate extra drijfvermogen en een betere bescherming tegen de zee verleent. Derhalve kan aan schepen die een deklast hout vervoeren een vermindering van vrijboord worden toegekend, berekend volgens de bepalingen van [voorschrift 45](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=45&z=2014-01-01&g=2014-01-01) en in overeenstemming met het bepaalde in [voorschrift 6, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=6&z=2014-01-01&g=2014-01-01), op de zijde van het schip aangegeven. Wil dit speciale vrijboord echter toegekend worden en mogen worden gebruikt, dan moet de deklast hout voldoen aan zekere in [voorschrift 44](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=44&z=2014-01-01&g=2014-01-01) neergelegde voorwaarden en moet het schip zelf voldoen aan zekere in [voorschrift 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=43&z=2014-01-01&g=2014-01-01) gestelde voorwaarden met betrekking tot zijn constructie.
+- 2. **Houtvaartuitwatering.** Aangenomen mag worden dat een deklast hout aan een schip een zekere mate extra drijfvermogen en een betere bescherming tegen de zee verleent. Derhalve kan aan schepen die een deklast hout vervoeren een vermindering van vrijboord worden toegekend, berekend volgens de bepalingen van [voorschrift 45](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=45&z=2014-07-01&g=2014-07-01) en in overeenstemming met het bepaalde in [voorschrift 6, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=6&z=2014-07-01&g=2014-07-01), op de zijde van het schip aangegeven. Wil dit speciale vrijboord echter toegekend worden en mogen worden gebruikt, dan moet de deklast hout voldoen aan zekere in [voorschrift 44](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=44&z=2014-07-01&g=2014-07-01) neergelegde voorwaarden en moet het schip zelf voldoen aan zekere in [voorschrift 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=IV&artikel=43&z=2014-07-01&g=2014-07-01) gestelde voorwaarden met betrekking tot zijn constructie.
 
 ##### Voorschrift 43. Constructie van het schip
 
@@ -1493,7 +1493,7 @@ De voorschriften 42 tot en met 45 zijn uitsluitend van toepassing op schepen waa
 
 ##### Voorschrift 45. Berekening van het vrijboord
 
-- 1. De minimumzomervrijboorden moeten worden berekend overeenkomstig de [voorschriften 27, leden 5, 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-01-01&g=2014-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14&z=2014-01-01&g=2014-01-01), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-01-01&g=2014-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=29&z=2014-01-01&g=2014-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-01-01&g=2014-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-01-01&g=2014-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-01-01&g=2014-01-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-01-01&g=2014-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-01-01&g=2014-01-01), met dien verstande dat [voorschrift 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-01-01&g=2014-01-01) wordt gewijzigd door de in dat voorschrift aangegeven percentages te vervangen door de volgende: Voor tussenliggende lengten van de bovenbouw worden de percentages verkregen door middel van lineaire interpolatie.
+- 1. De minimumzomervrijboorden moeten worden berekend overeenkomstig de [voorschriften 27, leden 5, 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14&z=2014-07-01&g=2014-07-01), [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=29&z=2014-07-01&g=2014-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=30&z=2014-07-01&g=2014-07-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=31&z=2014-07-01&g=2014-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=32&z=2014-07-01&g=2014-07-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-07-01&g=2014-07-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=38&z=2014-07-01&g=2014-07-01), met dien verstande dat [voorschrift 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=37&z=2014-07-01&g=2014-07-01) wordt gewijzigd door de in dat voorschrift aangegeven percentages te vervangen door de volgende: Voor tussenliggende lengten van de bovenbouw worden de percentages verkregen door middel van lineaire interpolatie.
 
 |   | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw | Totale in rekening te brengen lengte van bovenbouw |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1502,11 +1502,11 @@ De voorschriften 42 tot en met 45 zijn uitsluitend van toepassing op schepen waa
 
 - 2. Het winterhoutvaartvrijboord wordt verkregen door bij het zomerhoutvaartvrijboord één zesendertigste van de zomerhoutvaartdiepgang naar de mal gemeten op te tellen.
 
-- 3. Het winterhoutvaartvrijboord in de Noord-Atlantische Oceaan is gelijk aan het in [voorschrift 40, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-01-01&g=2014-01-01), voorgeschreven wintervrijboord in de Noord-Atlantische Oceaan.
+- 3. Het winterhoutvaartvrijboord in de Noord-Atlantische Oceaan is gelijk aan het in [voorschrift 40, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-07-01&g=2014-07-01), voorgeschreven wintervrijboord in de Noord-Atlantische Oceaan.
 
 - 4. Het tropische houtvaartvrijboord wordt verkregen door bij het zomerhoutvaartvrijboord één achtenveertigste van de zomerhoutvaartdiepgang naar de mal gemeten af te trekken.
 
-- 5. Het zoetwaterhoutvaartvrijboord wordt berekend overeenkomstig [voorschrift 40, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-01-01&g=2014-01-01), waarbij wordt uitgegaan van de zomerhoutvaartuitwatering, of overeenkomstig voorschrift 40, lid 8, waarbij wordt uitgegaan van de zomerdiepgang voor de houtvaart gemeten van de bovenkant van de kiel tot de uitwateringslijn voor houtvaart in de zomer.
+- 5. Het zoetwaterhoutvaartvrijboord wordt berekend overeenkomstig [voorschrift 40, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-07-01&g=2014-07-01), waarbij wordt uitgegaan van de zomerhoutvaartuitwatering, of overeenkomstig voorschrift 40, lid 8, waarbij wordt uitgegaan van de zomerdiepgang voor de houtvaart gemeten van de bovenkant van de kiel tot de uitwateringslijn voor houtvaart in de zomer.
 
 - 6. Houtvaartvrijboorden mogen worden toegekend aan schepen met verminderde vrijboorden voor het type B, mits de houtvaartvrijboorden worden berekend uitgaande van de gewone vrijboorden voor het type B.
 
@@ -1708,7 +1708,7 @@ Seizoenen:
 
 ##### Voorschrift 52. De lijn voor Noordatlantische winteruitwatering
 
-Het deel van de Noordatlantische Oceaan bedoeld in [Voorschrift 40 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-01-01&g=2014-01-01) (Bijlage I) omvat:
+Het deel van de Noordatlantische Oceaan bedoeld in [Voorschrift 40 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=40&z=2014-07-01&g=2014-07-01) (Bijlage I) omvat:
 
 - a. het gedeelte van de periodieke wintervaarzone II in de Noordatlantische Oceaan dat ligt tussen de meridiaan van 15° Westerlengte en de meridiaan van 50° Westerlengte;
 
@@ -1888,7 +1888,7 @@ De cirkel, lijnen en letters moeten in wit of geel op donkere ondergrond of in z
 
 ##### Voorschrift 9. Verificatie van de merken
 
-Het Internationale Certificaat van Uitwatering wordt niet ten behoeve van het schip uitgereikt voordat de ambtenaar of de toezichthoudende ambtenaar die handelt krachtens de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=13&z=2014-01-01&g=2014-01-01) van het Verdrag heeft verklaard dat de merken juist en onuitwisbaar op de scheepsboorden zijn aangebracht.
+Het Internationale Certificaat van Uitwatering wordt niet ten behoeve van het schip uitgereikt voordat de ambtenaar of de toezichthoudende ambtenaar die handelt krachtens de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=13&z=2014-07-01&g=2014-07-01) van het Verdrag heeft verklaard dat de merken juist en onuitwisbaar op de scheepsboorden zijn aangebracht.
 
 ### HOOFDSTUK II. VOORWAARDEN WAARAAN HET SCHIP MOET VOLDOEN VOOR HET VERKRIJGEN VAN EEN INTERNATIONAAL CERTIFICAAT VAN UITWATERING
 
@@ -1942,7 +1942,7 @@ Op blootgestelde bovenbouwdekken gelegen voor een punt op een kwart van de lengt
 
 ##### Voorschrift 14. Luik- en andere hoofden
 
-- 1. De constructie van de luikhoofden en de andere openingen gelegen op plaatsen van categorie 1 en 2, moeten voldoen aan de eisen die ten minste gelijkwaardig zijn aan die van [voorschrift 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), tenzij de Administratie de toepassing van [voorschrift 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=15&z=2014-01-01&g=2014-01-01) op deze luikhoofden heeft goedgekeurd.
+- 1. De constructie van de luikhoofden en de andere openingen gelegen op plaatsen van categorie 1 en 2, moeten voldoen aan de eisen die ten minste gelijkwaardig zijn aan die van [voorschrift 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), tenzij de Administratie de toepassing van [voorschrift 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=15&z=2014-07-01&g=2014-07-01) op deze luikhoofden heeft goedgekeurd.
 
 - 2. De hoofden en luiken voor blootgestelde luikopeningen die zich bevinden in dekken boven het bovenbouwdek moeten voldoen aan de eisen van de Administratie.
 
@@ -1954,7 +1954,7 @@ Op blootgestelde bovenbouwdekken gelegen voor een punt op een kwart van de lengt
 
 - b. 450 mm indien zij zich bevinden op een plaats van categorie 2.
 
-- 2. In het geval van luikopeningen die voldoen aan [voorschrift 16, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), mag de hoogte van deze luikhoofden worden verminderd, of mogen de hoofden geheel achterwege worden gelaten, op voorwaarde dat de Administratie ervan overtuigd is dat de veiligheid van het schip daardoor in alle omstandigheden op zee onaangetast blijft.
+- 2. In het geval van luikopeningen die voldoen aan [voorschrift 16, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), mag de hoogte van deze luikhoofden worden verminderd, of mogen de hoofden geheel achterwege worden gelaten, op voorwaarde dat de Administratie ervan overtuigd is dat de veiligheid van het schip daardoor in alle omstandigheden op zee onaangetast blijft.
 
 ##### Voorschrift 15. Luikopeningen gesloten door middel van wegneembare luiken en waterdicht gemaakt met presennings en schalminrichtingen
 
@@ -1962,13 +1962,13 @@ Op blootgestelde bovenbouwdekken gelegen voor een punt op een kwart van de lengt
 
 - 2. Wanneer de luiken van hout zijn, moet de dikte na afwerking ten minste 60 mm bedragen voor een overspanning van niet meer dan 1,5 m.
 
-- 3. Wanneer de luiken van staal zijn gemaakt, moet de sterkte ervan worden berekend in overeenstemming met de vereisten van [voorschrift 16, lid 2 tot en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), en mag het product van de aldus berekende maximumtrekspanning en de factor 1,25 niet meer bedragen dan de minimumtreksterkte van het materiaal. Zij moeten zodanig zijn ontworpen dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0056 maal de overspanning.
+- 3. Wanneer de luiken van staal zijn gemaakt, moet de sterkte ervan worden berekend in overeenstemming met de vereisten van [voorschrift 16, lid 2 tot en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), en mag het product van de aldus berekende maximumtrekspanning en de factor 1,25 niet meer bedragen dan de minimumtreksterkte van het materiaal. Zij moeten zodanig zijn ontworpen dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0056 maal de overspanning.
 
 - 4. Wanneer wegneembare luikschilden voor de ondersteuning van de luiken van staal zijn gemaakt, moet de sterkte ervan worden berekend met een aangenomen belasting van ten minste 3,5 t/m2 wat betreft de luiken op een plaats van categorie 1 en met een aangenomen belasting van ten minste 2,6 t/m2 wat betreft luiken op een plaats van categorie 2 en het product van de aldus berekende maximumtrekspanning en de factor 1,47 mag niet groter zijn dan de minimumtreksterkte van het materiaal. Zij moeten zodanig zijn ontworpen dat de doorbuiging bij de aangenomen belasting niet meer bedraagt dan 0,0044 maal de overspanning.
 
 - 5. De aangenomen belasting voor luiken op een plaats van categorie 1 kan worden verlaagd tot 2 t/m2 voor schepen met een lengte van 24 m en mag niet minder zijn dan 3,5 t/m2 voor schepen met een lengte van 100 m. De overeenkomstige belastingen voor luiken op een plaats van categorie 2 kunnen worden verlaagd tot respectievelijk 1,5 t/m2 en 2,6 t/m2. In alle gevallen moeten de waarden voor de tussenliggende lengten worden verkregen door middel van lineaire interpolatie.
 
-- 6. Wanneer pontonluiken die worden gebruikt in plaats van wegneembare luikschilden en luiken, gemaakt zijn van staal moet de sterkte ervan worden berekend in overeenstemming met de vereisten van [voorschrift 16, leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), en mag het product van de aldus berekende maximumtrekspanning en de factor 1,47 niet meer bedragen dan de minimumtreksterkte van het materiaal. Zij moeten zodanig zijn ontworpen dat de doorbuiging niet meer bedraagt dan 0,0044 maal de overspanning. Beplating van staal die de bovenkant vormt van luiken moet een minimumdikte hebben van 1% van de onderlinge afstand tussen de verstijvingen, ofwel 6 mm, indien dit meer is.
+- 6. Wanneer pontonluiken die worden gebruikt in plaats van wegneembare luikschilden en luiken, gemaakt zijn van staal moet de sterkte ervan worden berekend in overeenstemming met de vereisten van [voorschrift 16, leden 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), en mag het product van de aldus berekende maximumtrekspanning en de factor 1,47 niet meer bedragen dan de minimumtreksterkte van het materiaal. Zij moeten zodanig zijn ontworpen dat de doorbuiging niet meer bedraagt dan 0,0044 maal de overspanning. Beplating van staal die de bovenkant vormt van luiken moet een minimumdikte hebben van 1% van de onderlinge afstand tussen de verstijvingen, ofwel 6 mm, indien dit meer is.
 
 - 7. De sterkte en stijfheid van niet van staal vervaardigde luiken moeten gelijkwaardig zijn aan de sterkte en stijfheid van staal ten genoegen van de Administratie.
 
@@ -1984,11 +1984,11 @@ Op blootgestelde bovenbouwdekken gelegen voor een punt op een kwart van de lengt
 
 ##### Voorschrift 16. Luikhoofden gesloten door waterdichte luiken van staal of een ander gelijkwaardig materiaal
 
-- 1. Alle luiken op de plaatsen van categorie 1 en 2 moeten worden uitgerust met luiken van staal of een ander gelijkwaardig materiaal. Behoudens als bepaald in [voorschrift 14, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14&z=2014-01-01&g=2014-01-01), moeten deze luiken waterdicht zijn en voorzien zijn van pakking en knevels. De middelen ter verkrijging en handhaving van waterdichtheid moeten ten genoegen van de Administratie zijn. De genomen maatregelen moeten zodanig zijn dat de waterdichtheid onder alle omstandigheden op zee kan worden gehandhaafd. Voor dit doel moeten de luiken bij het eerste onderzoek op de waterdichtheid worden beproefd; deze proeven kunnen ook geëist worden bij het periodieke onderzoek, alsmede bij de jaarlijkse onderzoeken, of met kortere tussenpozen.
+- 1. Alle luiken op de plaatsen van categorie 1 en 2 moeten worden uitgerust met luiken van staal of een ander gelijkwaardig materiaal. Behoudens als bepaald in [voorschrift 14, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=14&z=2014-07-01&g=2014-07-01), moeten deze luiken waterdicht zijn en voorzien zijn van pakking en knevels. De middelen ter verkrijging en handhaving van waterdichtheid moeten ten genoegen van de Administratie zijn. De genomen maatregelen moeten zodanig zijn dat de waterdichtheid onder alle omstandigheden op zee kan worden gehandhaafd. Voor dit doel moeten de luiken bij het eerste onderzoek op de waterdichtheid worden beproefd; deze proeven kunnen ook geëist worden bij het periodieke onderzoek, alsmede bij de jaarlijkse onderzoeken, of met kortere tussenpozen.
 
 - 2. Ten aanzien van schepen met een lengte van 100 m of meer:
 
-- a. moeten luiken op plaatsen van categorie 1 die zich bevinden in het voorste kwart van de lengte van het schip zijn ontworpen voor belastingen door golven ter hoogte van de voorste loodlijn, berekend aan de hand van de volgende vergelijking: Belasting = 5 + (LH-100)a in t/m2 waarbij: LH is L voor schepen van ten hoogste 340 m lengte, doch ten minste 100 m lengte en gelijk aan 340 m voor schepen met een lengte van meer dan 340 m; L is de lengte van het schip (meters), als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-01-01&g=2014-01-01); a is vermeld in tabel 16.1, en lineair verminderd tot 3,5 t/m2 aan het einde van de lengte van het voorste kwart, zoals vermeld in tabel 16.2. De voor elk luikschot gehanteerde ontwerpbelasting moet worden bepaald op het middelpunt ervan;
+- a. moeten luiken op plaatsen van categorie 1 die zich bevinden in het voorste kwart van de lengte van het schip zijn ontworpen voor belastingen door golven ter hoogte van de voorste loodlijn, berekend aan de hand van de volgende vergelijking: Belasting = 5 + (LH-100)a in t/m2 waarbij: LH is L voor schepen van ten hoogste 340 m lengte, doch ten minste 100 m lengte en gelijk aan 340 m voor schepen met een lengte van meer dan 340 m; L is de lengte van het schip (meters), als omschreven in [voorschrift 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=I&artikel=3&z=2014-07-01&g=2014-07-01); a is vermeld in tabel 16.1, en lineair verminderd tot 3,5 t/m2 aan het einde van de lengte van het voorste kwart, zoals vermeld in tabel 16.2. De voor elk luikschot gehanteerde ontwerpbelasting moet worden bepaald op het middelpunt ervan;
 
 - b. moeten alle andere luiken op een plaats van categorie 1 worden ontworpen op 3,5 t/m2;
 
@@ -1999,7 +1999,7 @@ Op blootgestelde bovenbouwdekken gelegen voor een punt op een kwart van de lengt
 |   | a |
 | --- | --- |
 | Vrijboord van schepen van het type B | 0,0074 |
-| Schepen aan welke een vermindering van vrijboord is toegewezen door [voorschrift 27, lid 9 of 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-01-01&g=2014-01-01) | 0,0363 |
+| Schepen aan welke een vermindering van vrijboord is toegewezen door [voorschrift 27, lid 9 of 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01) | 0,0363 |
 
 Tabel 16.1
 
@@ -2046,13 +2046,13 @@ Tabel 16.2
 
 ##### Voorschrift 17. Openingen boven machineruimten
 
-- 1. Openingen boven machineruimten op plaatsen van categorie 1 en 2 moeten rondom naar behoren versterkt en op doeltreffende wijze door stalen schachten van ruim voldoende sterkte omsloten zijn; wanneer de schachten niet door andere constructies beschermd zijn, moet bijzondere aandacht aan de sterkte ervan worden besteed. De toegangsopeningen in deze schachten moeten zijn voorzien van deuren die voldoen aan de eisen van [voorschrift 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01); de drempels moeten een hoogte van ten minste 600 mm boven het dek hebben op plaatsen van categorie 1 en van ten minste 380 mm boven het dek op plaatsen van categorie 2. Andere openingen in zulke schachten moeten zijn voorzien van gelijkwaardige afsluitmiddelen, die blijvend zijn bevestigd op de juiste plaats.
+- 1. Openingen boven machineruimten op plaatsen van categorie 1 en 2 moeten rondom naar behoren versterkt en op doeltreffende wijze door stalen schachten van ruim voldoende sterkte omsloten zijn; wanneer de schachten niet door andere constructies beschermd zijn, moet bijzondere aandacht aan de sterkte ervan worden besteed. De toegangsopeningen in deze schachten moeten zijn voorzien van deuren die voldoen aan de eisen van [voorschrift 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01); de drempels moeten een hoogte van ten minste 600 mm boven het dek hebben op plaatsen van categorie 1 en van ten minste 380 mm boven het dek op plaatsen van categorie 2. Andere openingen in zulke schachten moeten zijn voorzien van gelijkwaardige afsluitmiddelen, die blijvend zijn bevestigd op de juiste plaats.
 
-- 2. Wanneer schachten boven een machineruimte niet door andere structuren worden beschermd, zijn dubbele deuren (bijvoorbeeld binnen- en buitendeuren die voldoen aan de eisen van [voorschrift 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01), vereist voor schepen voor welke een vrijboord wordt vastgesteld van minder dan het op [tabel 28.2 van voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-01-01&g=2014-01-01) gebaseerde vrijboord. Er moet een binnendrempel van 230 mm in combinatie met een buitendrempel van 600 mm worden voorzien.
+- 2. Wanneer schachten boven een machineruimte niet door andere structuren worden beschermd, zijn dubbele deuren (bijvoorbeeld binnen- en buitendeuren die voldoen aan de eisen van [voorschrift 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01), vereist voor schepen voor welke een vrijboord wordt vastgesteld van minder dan het op [tabel 28.2 van voorschrift 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) gebaseerde vrijboord. Er moet een binnendrempel van 230 mm in combinatie met een buitendrempel van 600 mm worden voorzien.
 
-- 3. Hoofden van luchtroosters boven ketelruimen, van schoorstenen of van luchtkokers in machineruimten op blootgestelde plaatsen op het vrijboord- of bovenbouwdek moeten zo hoog boven dit het dek uitsteken als redelijk en praktisch uitvoerbaar is. In het algemeen moeten luchtkokers die in permanente verbinding met de machineruimten moeten staan hoofden van voldoende hoogte hebben om te voldoen aan [voorschrift 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=19&z=2014-01-01&g=2014-01-01), zonder dat het nodig is waterdichte afsluitmiddelen aan te brengen. Luchtkokers die in permanente verbinding met de noodgeneratorkamer moeten staan, moeten, indien deze volgens de stabiliteitsberekening over drijfvermogen beschikt of een naar beneden leidende opening beschermt, hoofden van voldoende hoogte hebben om te voldoen aan voorschrift 19, lid 3, zonder dat het nodig is waterdichte afsluitmiddelen aan te brengen.
+- 3. Hoofden van luchtroosters boven ketelruimen, van schoorstenen of van luchtkokers in machineruimten op blootgestelde plaatsen op het vrijboord- of bovenbouwdek moeten zo hoog boven dit het dek uitsteken als redelijk en praktisch uitvoerbaar is. In het algemeen moeten luchtkokers die in permanente verbinding met de machineruimten moeten staan hoofden van voldoende hoogte hebben om te voldoen aan [voorschrift 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=19&z=2014-07-01&g=2014-07-01), zonder dat het nodig is waterdichte afsluitmiddelen aan te brengen. Luchtkokers die in permanente verbinding met de noodgeneratorkamer moeten staan, moeten, indien deze volgens de stabiliteitsberekening over drijfvermogen beschikt of een naar beneden leidende opening beschermt, hoofden van voldoende hoogte hebben om te voldoen aan voorschrift 19, lid 3, zonder dat het nodig is waterdichte afsluitmiddelen aan te brengen.
 
-- 4. Wanneer een en ander als gevolg van de omvang en inrichting van een schip niet praktisch uitvoerbaar is, mogen geringere hoogten voor hoofden van machineruimten en noodgeneratorkamers, voorzien van waterdichte afsluitmiddelen in overeenstemming met [voorschrift 19, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=19&z=2014-01-01&g=2014-01-01), door de Administratie worden toegestaan in combinatie met andere geschikte voorzieningen ter waarborging van een ononderbroken, deugdelijke ventilering van deze ruimten.
+- 4. Wanneer een en ander als gevolg van de omvang en inrichting van een schip niet praktisch uitvoerbaar is, mogen geringere hoogten voor hoofden van machineruimten en noodgeneratorkamers, voorzien van waterdichte afsluitmiddelen in overeenstemming met [voorschrift 19, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=19&z=2014-07-01&g=2014-07-01), door de Administratie worden toegestaan in combinatie met andere geschikte voorzieningen ter waarborging van een ononderbroken, deugdelijke ventilering van deze ruimten.
 
 - 5. Openingen boven ketelruimen moeten worden uitgerust met stevige deksels van staal of van een ander gelijkwaardig materiaal die blijvend op de juiste plaats zijn aangebracht en waterdicht kunnen worden afgesloten.
 
@@ -2110,7 +2110,7 @@ Tabel 16.2
 
 - 1. De vertaling van de teksten in tabel 22.1 luidt als volgt: afvoerpijpen uit ingesloten ruimten onder het vrijboordek of op het vrijboorddek afvoerpijpen uit andere ruimten algemene eis Vs. 22.1 indien binnenboordeinde < 0,01L boven ZW afvoerpijpen door machineruimte alternatieven (Vs 22.10 indien binnenboordeinde 0,01L boven ZW 0,02L boven ZW buitenboordeinde > 450 mm onder VB-dek of < 600 mm boven ZW Vs22.4 anders Vs. 22(5) bovenbouw- of dekhuisdek VB-dek binnenboordeinde pijpen buitenboordeinde pijpen pijpen uitkomend op open dek terugslagklep zonder afsluitmiddel terugslagklep met ter plaatse bediend afsluitmiddel ter plaatse bediende klep bediening op afstand normale dikte aanzienlijke dikte
 
-- a. Door de huid gaande afvoerpijpen van ruimten beneden het vrijboorddek of van bovenbouwen en dekhuizen op het vrijboorddek voorzien van deuren die voldoen aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01) moeten, behoudens het bepaalde in lid 2, zijn voorzien van deugdelijke en toegankelijke middelen ter voorkoming van het binnendringen van water in het schip. Normaal moet iedere afzonderlijke afvoerpijp een zelfsluitende terugslagklep hebben met een inrichting waardoor de klep rechtstreeks van een plaats boven het vrijboorddek kan worden gesloten. Wanneer het binnenboordeinde van de afvoerpijp is geplaatst op ten minste 0,01 L boven de lijn voor zomeruitwatering, mag de afvoerpijp twee zelfsluitende terugslagkleppen hebben zonder bovengenoemd afsluitmiddel. Wanneer de bovengenoemde verticale afstand groter is dan 0,02 L, kan worden volstaan met een enkele zelfsluitende terugslagklep zonder bovengenoemd afsluitmiddel. De middelen voor de bediening van de rechtstreeks beweegbare klep moeten gemakkelijk toegankelijk zijn en voorzien zijn van een indicator die aangeeft of de klep open dan wel gesloten is.
+- a. Door de huid gaande afvoerpijpen van ruimten beneden het vrijboorddek of van bovenbouwen en dekhuizen op het vrijboorddek voorzien van deuren die voldoen aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01) moeten, behoudens het bepaalde in lid 2, zijn voorzien van deugdelijke en toegankelijke middelen ter voorkoming van het binnendringen van water in het schip. Normaal moet iedere afzonderlijke afvoerpijp een zelfsluitende terugslagklep hebben met een inrichting waardoor de klep rechtstreeks van een plaats boven het vrijboorddek kan worden gesloten. Wanneer het binnenboordeinde van de afvoerpijp is geplaatst op ten minste 0,01 L boven de lijn voor zomeruitwatering, mag de afvoerpijp twee zelfsluitende terugslagkleppen hebben zonder bovengenoemd afsluitmiddel. Wanneer de bovengenoemde verticale afstand groter is dan 0,02 L, kan worden volstaan met een enkele zelfsluitende terugslagklep zonder bovengenoemd afsluitmiddel. De middelen voor de bediening van de rechtstreeks beweegbare klep moeten gemakkelijk toegankelijk zijn en voorzien zijn van een indicator die aangeeft of de klep open dan wel gesloten is.
 
 - b. In plaats van één zelfsluitende terugslagklep met een inrichting waardoor de klep rechtstreeks vanaf een plaats boven het vrijboorddek kan worden gesloten, kunnen één zelfsluitende terugslagklep en één sluitklep die vanaf een plaats boven het vrijboorddek kunnen worden bediend, worden aanvaard.
 
@@ -2130,7 +2130,7 @@ Tabel 16.2
 
 - 4. Spuipijpen en afvoerpijpen, ongeacht het niveau waar zij hun oorsprong hebben, die de scheepshuid hetzij op meer dan 450 mm onder het vrijboorddek, hetzij op minder dan 600 mm boven de lijn voor zomeruitwatering doorboren, moeten zijn voorzien van een terugslagklep op de scheepshuid. Deze klep kan, tenzij de aanwezigheid ervan wordt geëist door lid 1, vervallen indien de pijpen voldoende wanddikte hebben (zie lid 7 hieronder).
 
-- 5. Spuipijpen in bovenbouwen of dekhuizen die niet voorzien zijn van deuren die voldoen aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01) moeten overboord worden gevoerd.
+- 5. Spuipijpen in bovenbouwen of dekhuizen die niet voorzien zijn van deuren die voldoen aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01) moeten overboord worden gevoerd.
 
 - 6. Alle aan de huid aangebrachte appendages en de kleppen die ingevolge dit voorschrift moeten zijn aangebracht, moeten zijn vervaardigd van staal, brons of van een ander goedgekeurd smeedbaar materiaal. Kleppen van gewoon gietijzer of van een soortgelijk materiaal zijn niet toegestaan. Alle pijpen waarop dit voorschrift betrekking heeft, moeten zijn vervaardigd van staal of van een gelijkwaardig materiaal ten genoegen van de Administratie.
 
@@ -2326,7 +2326,7 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - *. Olietankschepen, chemicaliëntankschepen en gastankschepen als omschreven in respectievelijk [voorschriften II-1/2.12](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=2), [VII/8.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=8) en [VII/11.2 van het Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=11), zoals gewijzigd
 
-- **. Af: het minimumzomervrijboord voor schepen van het type ‘A” ongeacht het werkelijk vastgestelde vrijboord Hs: de standaardhoogte van een bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-01-01&g=2014-01-01)
+- **. Af: het minimumzomervrijboord voor schepen van het type ‘A” ongeacht het werkelijk vastgestelde vrijboord Hs: de standaardhoogte van een bovenbouw als omschreven in [voorschrift 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=33&z=2014-07-01&g=2014-07-01)
 
 - ***. Voorzieningen (a)-(f) zijn omschreven in het onderstaande lid 2. Locati es (i)-(v) zijn omschreven in het onderstaande lid 3.
 
@@ -2334,9 +2334,9 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - a. Een goed verlichte en geventileerde gang beneden het dek (met een duidelijke opening met een breedte van ten minste 0,8 m en een hoogte van 2 m), zo dicht als praktisch mogelijk bij het vrijboorddek, die de desbetreffende locaties verbindt en daartoe toegang biedt.
 
-- b. Een permanent aangebrachte en deugdelijk geconstrueerde loopbrug, aangebracht op of boven het niveau van het bovenbouwdek, op of zo dicht als praktisch mogelijk bij het hart van het schip, dat een doorlopend platform biedt van ten minste 0,6 m breed met anti-slipoppervlak en met relingwerk dat zich aan beide zijden over de volledige lengte ervan uitstrekt. Relingwerk moet ten minste 1 m hoog zijn met drie roeden en zijn geconstrueerd in overeenstemming met de vereisten van [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-01-01&g=2014-01-01). Er moet een voetstop worden aangebracht.
+- b. Een permanent aangebrachte en deugdelijk geconstrueerde loopbrug, aangebracht op of boven het niveau van het bovenbouwdek, op of zo dicht als praktisch mogelijk bij het hart van het schip, dat een doorlopend platform biedt van ten minste 0,6 m breed met anti-slipoppervlak en met relingwerk dat zich aan beide zijden over de volledige lengte ervan uitstrekt. Relingwerk moet ten minste 1 m hoog zijn met drie roeden en zijn geconstrueerd in overeenstemming met de vereisten van [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-07-01&g=2014-07-01). Er moet een voetstop worden aangebracht.
 
-- c. Een vast aangebracht looppad met een breedte van ten minste 0,6 m, aangebracht op het niveau van het vrijboorddek en bestaande uit twee rijen relingwerk met houvasten met een tussenruimte van ten hoogste 3 m. Het aantal roeden van het relingwerk en de onderlinge afstand ervan moeten in overeenstemming zijn met [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-01-01&g=2014-01-01). Op schepen van het type B mogen luikhoofden met een hoogte van ten minste 0,6 m worden aanvaard als vormende één zijde van het looppad, mits twee rijen relingwerk tussen de luiken worden aangebracht.
+- c. Een vast aangebracht looppad met een breedte van ten minste 0,6 m, aangebracht op het niveau van het vrijboorddek en bestaande uit twee rijen relingwerk met houvasten met een tussenruimte van ten hoogste 3 m. Het aantal roeden van het relingwerk en de onderlinge afstand ervan moeten in overeenstemming zijn met [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-07-01&g=2014-07-01). Op schepen van het type B mogen luikhoofden met een hoogte van ten minste 0,6 m worden aanvaard als vormende één zijde van het looppad, mits twee rijen relingwerk tussen de luiken worden aangebracht.
 
 - d. Handleiders van staaldraad met een diameter van ten minste 10 mm, ondersteund door houvasten met een tussenruimte van ten hoogste 10 m, of een enkele aan de luikhoofden bevestigde, doorlopende en tussen de luiken ondersteunde handrail of staaldraad.
 
@@ -2352,7 +2352,7 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - v. is vervaardigd van brandwerend en anti-slipmateriaal;
 
-- vi. is voorzien van relingwerk dat zich aan beide zijden over de volle lengte ervan uitstrekt; het relingwerk moet ten minste 1 m hoog zijn, met de roeden als vereist in [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-01-01&g=2014-01-01), en worden ondersteund door houvasten met een tussenruimte van ten hoogste 1,5 m;
+- vi. is voorzien van relingwerk dat zich aan beide zijden over de volle lengte ervan uitstrekt; het relingwerk moet ten minste 1 m hoog zijn, met de roeden als vereist in [voorschrift 25, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-07-01&g=2014-07-01), en worden ondersteund door houvasten met een tussenruimte van ten hoogste 1,5 m;
 
 - vii. aan beide zijden van een voetstop is voorzien;
 
@@ -2394,15 +2394,15 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 ##### Voorschrift 26. Bijzondere voorwaarden waaraan moet worden voldaan voor schepen van het type A
 
-- 1. Schachten boven de machineruimte op schepen van het type A als omschreven in [voorschrift 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-01-01&g=2014-01-01) moeten worden beschermd door een van de volgende voorzieningen:
+- 1. Schachten boven de machineruimte op schepen van het type A als omschreven in [voorschrift 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01) moeten worden beschermd door een van de volgende voorzieningen:
 
 - a. een gesloten kampanje of brug van ten minste standaardhoogte; of
 
 - b. een dekhuis van gelijke hoogte en van gelijke sterkte.
 
-- 2. De schachten boven een machineruimte mogen evenwel zijn blootgesteld indien er geen openingen zijn die rechtstreeks toegang verlenen vanaf het vrijboorddek naar de machineruimte. Een deur die voldoet aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01) mag evenwel in de schachten boven de machineruimte aanwezig zijn, mits deze leidt naar een ruimte of gang die van even sterke constructie is als de schacht en van de trap naar de machinekamer gescheiden is door een tweede waterdichte deur van staal of van een ander gelijkwaardig materiaal.
+- 2. De schachten boven een machineruimte mogen evenwel zijn blootgesteld indien er geen openingen zijn die rechtstreeks toegang verlenen vanaf het vrijboorddek naar de machineruimte. Een deur die voldoet aan de eisen van [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01) mag evenwel in de schachten boven de machineruimte aanwezig zijn, mits deze leidt naar een ruimte of gang die van even sterke constructie is als de schacht en van de trap naar de machinekamer gescheiden is door een tweede waterdichte deur van staal of van een ander gelijkwaardig materiaal.
 
-- 3. Op schepen van het type A moet een in overeenstemming met de bepalingen van [voorschrift 25-1, lid 2, e](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25-1&z=2014-01-01&g=2014-01-01), gebouwde vaste loopbrug worden aangebracht op een hoogte gelijk aan die van het dek van de bovenbouw tussen de kampanje en een midscheeps geplaatst brughuis of eventueel dekhuis. De in voorschrift 25-1, lid 2, a, genoemde voorziening wordt beschouwd als een gelijkwaardig toegangsmiddel om als loopbrug dienst te doen.
+- 3. Op schepen van het type A moet een in overeenstemming met de bepalingen van [voorschrift 25-1, lid 2, e](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25-1&z=2014-07-01&g=2014-07-01), gebouwde vaste loopbrug worden aangebracht op een hoogte gelijk aan die van het dek van de bovenbouw tussen de kampanje en een midscheeps geplaatst brughuis of eventueel dekhuis. De in voorschrift 25-1, lid 2, a, genoemde voorziening wordt beschouwd als een gelijkwaardig toegangsmiddel om als loopbrug dienst te doen.
 
 - 4. Er moet te allen tijde een veilig middel aanwezig zijn om vanaf de loopbrug de verschillende verblijven van de bemanning te bereiken en om van deze verblijven de machineruimte te bereiken, en omgekeerd.
 
@@ -2428,11 +2428,11 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - 3. Een schip van het type A van meer dan 150 m lengte, waarvoor een kleiner vrijboord dan voor een schip van het type B is vastgesteld, moet, wanneer het is geladen overeenkomstig de eisen van lid 11, het vollopen van (een) afdeling(en) met een aangenomen permeabiliteit van 0,95 kunnen doorstaan na de aangenomen beschadiging omschreven in lid 12 en blijven drijven in een voldoende geachte eindtoestand zoals omschreven in lid 13. In een dergelijk schip moet de machineruimte worden aangemerkt als een afdeling die kan vollopen, doch met een permeabiliteit van 0,85.
 
-- 4. Voor een schip van het type A moet een vrijboord worden vastgesteld dat niet kleiner is dan dat gebaseerd op tabel 28.1.
+- 4. Voor een schip van het type A moet een vrijboord worden vastgesteld dat niet kleiner is dan dat gebaseerd op [tabel 28.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01).
 
 - 5. Alle schepen die niet voldoen aan de bepalingen betreffende schepen van het type A van de leden 2 en 3 van dit voorschrift worden geacht schepen van het type B te zijn.
 
-- 6. Voor schepen van het type B die op een plaats van categorie 1 zijn voorzien van luiken die van de Administratie mogen voldoen aan de vereisten van voorschrift 15 (behalve lid 6) of die zijn voorzien van vastzetvoorzieningen die worden aanvaard ingevolge de bepalingen van voorschrift 16, lid 6, moet een vrijboord worden vastgesteld dat is gebaseerd op de in tabel 28.2 vermelde waarden, vermeerderd met de waarden in tabel 27.1: Tabel 27.1 Vermeerdering van vrijboord ten opzichte van het basisvrijboord voor schepen van het type B waarvan de luiken van de luikopeningen voldoen aan de bepalingen van voorschrift 15 (anders dan lid 6) Voor de tussenliggende lengten wordt het vrijboord verkregen door middel van lineaire interpolatie. Het vrijboord van schepen van meer dan 200 m lengte wordt door de Administratie vastgesteld.
+- 6. Voor schepen van het type B die op een plaats van categorie 1 zijn voorzien van luiken die van de Administratie mogen voldoen aan de vereisten van [voorschrift 15 (behalve lid 6)](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=15&z=2014-07-01&g=2014-07-01) of die zijn voorzien van vastzetvoorzieningen die worden aanvaard ingevolge de bepalingen van [voorschrift 16, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), moet een vrijboord worden vastgesteld dat is gebaseerd op de in [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) vermelde waarden, vermeerderd met de waarden in tabel 27.1: Tabel 27.1 Vermeerdering van vrijboord ten opzichte van het basisvrijboord voor schepen van het type B waarvan de luiken van de luikopeningen voldoen aan de bepalingen van [voorschrift 15 (anders dan lid 6)](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=15&z=2014-07-01&g=2014-07-01) Voor de tussenliggende lengten wordt het vrijboord verkregen door middel van lineaire interpolatie. Het vrijboord van schepen van meer dan 200 m lengte wordt door de Administratie vastgesteld.
 
 | Lengte van het schip (m) | Vermeerdering van vrijboord(mm) | Lengte van het schip (m) | Vermeerdering van vrijboord(mm) | Lengte van het schip (m) | Vermeerdering van vrijboord(mm) |
 | --- | --- | --- | --- | --- | --- |
@@ -2468,7 +2468,7 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 | 137 | 164 | 168 | 285 | 199 | 357 |
 | 138 | 170 | 169 | 287 | 200 | 358 |
 
-- 7. Voor schepen van het type B die op een plaats van categorie 1 luikopeningen hebben, voorzien van luiken die voldoen aan de eisen van voorschrift 16, leden 2 tot en met 5, wordt behalve als bepaald in de leden 8 tot en met 13, een vrijboord vastgesteld gebaseerd op tabel 28.2.
+- 7. Voor schepen van het type B die op een plaats van categorie 1 luikopeningen hebben, voorzien van luiken die voldoen aan de eisen van [voorschrift 16, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), wordt behalve als bepaald in de leden 8 tot en met 13, een vrijboord vastgesteld gebaseerd op [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01).
 
 - 8. Voor alle schepen van het type B die meer dan 100 meter lang zijn kunnen vrijboorden worden vastgesteld die kleiner zijn dan die vereist krachtens lid 7, mits de Administratie er ten aanzien van de toegestane vermindering van vrijboord van overtuigd is dat:
 
@@ -2476,17 +2476,17 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - b. de middelen tot lozing van water toereikend zijn;
 
-- c. de deksels op plaatsen van categorie 1 en 2 voldoen aan de bepalingen van voorschrift 16, leden 1 tot en met 5 en lid 7; en
+- c. de deksels op plaatsen van categorie 1 en 2 voldoen aan de bepalingen van [voorschrift 16, leden 1 tot en met 5 en lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01); en
 
 - d. het schip wanneer het is geladen overeenkomstig de eisen van lid 11, het vollopen van (een) afdeling(en) met een aangenomen permeabiliteit van 0,95 kan doorstaan na de aangenomen beschadiging omschreven in lid 12 en blijven drijven in een voldoende geachte eindtoestand zoals omschreven in lid 13. In een dergelijk schip, indien meer dan 150 m lang, moet de machineruimte worden aangemerkt als een afdeling die kan vollopen, doch met een permeabiliteit van 0,85.
 
-- 9. Bij het berekenen van het vrijboord voor schepen van het type B die voldoen aan de eisen van de leden 8, 11, 12 en 13, mogen de waarden van tabel 28.2 met niet meer dan 60% van het verschil tussen de waarden van de tabellen 28.1 en 28.2 voor de desbetreffende scheepslengten worden verminderd.
+- 9. Bij het berekenen van het vrijboord voor schepen van het type B die voldoen aan de eisen van de leden 8, 11, 12 en 13, mogen de waarden van [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) met niet meer dan 60% van het verschil tussen de waarden van de [tabellen 28.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) en 28.2 voor de desbetreffende scheepslengten worden verminderd.
 
 - 10.
 
-- a. De vermindering in vrijboord toegestaan ingevolge lid 9 kan worden vergroot tot het volle verschil tussen de waarden in tabel 28.1 en die in tabel 28.2 op voorwaarde dat het schip voldoet aan de bepalingen van:
+- a. De vermindering in vrijboord toegestaan ingevolge lid 9 kan worden vergroot tot het volle verschil tussen de waarden in [tabel 28.1](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) en die in [tabel 28.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=28&z=2014-07-01&g=2014-07-01) op voorwaarde dat het schip voldoet aan de bepalingen van:
 
-- i. voorschrift 26, uitgezonderd lid 5, alsof het een schip van het type A was;
+- i. [voorschrift 26, uitgezonderd lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=26&z=2014-07-01&g=2014-07-01), alsof het een schip van het type A was;
 
 - ii. de leden 8, 11, 13; en
 
@@ -2506,11 +2506,31 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - iii. indien het schip is bestemd om bij de lastlijn bij zomeruitwatering te worden geëxploiteerd met lege afdelingen, worden deze afdelingen als leeg beschouwd, mits de hoogte van het aldus berekende zwaartepunt niet minder is dan die zoals berekend volgens ii;
 
-- iv. er wordt 50% aangenomen van de afzonderlijke totale capaciteit van alle voor brandstoffen en voorraden bestemde tanks en ruimten. Aangenomen wordt dat voor elke soort vloeistof ten minste één paar dwarstanks of een enkele midscheeps geplaatste tank een maximaal vrij vloeistofoppervlak heeft en dat de tank of combinatie van tanks die wordt/worden aangenomen diegenen is/zijn waar de invloed van het vrije vloeistofoppervlak het grootst is; in elke tank wordt het midden van het volume van de tank als het zwaartepunt van de inhoud genomen. De overblijvende tanks worden geacht hetzij geheel leeg hetzij geheel gevuld te zijn en de verdeling van verbruiksvloeistoffen tussen deze tanks geschiedt zodanig dat het zwaartepunt zo hoog mogelijk boven de kiel ligt;
+- iv. er wordt 50% aangenomen van de totale capaciteit van tanks en ruimten van het schip bestemd voor elke soort brandstoffen en voorraden. Aangenomen wordt dat voor elke soort vloeistof ten minste één paar dwarstanks of een enkele midscheeps geplaatste tank een maximaal vrij vloeistofoppervlak heeft en dat de tank of combinatie van tanks die wordt/worden aangenomen diegenen is/zijn waar de invloed van het vrije vloeistofoppervlak het grootst is; in elke tank wordt het midden van het volume van de tank als het zwaartepunt van de inhoud genomen. De overblijvende tanks worden geacht hetzij geheel leeg hetzij geheel gevuld te zijn en de verdeling van verbruiksvloeistoffen tussen deze tanks geschiedt zodanig dat het zwaartepunt zo hoog mogelijk boven de kiel ligt;
 
-- v. bij een slagzij van niet meer dan 5° in elke afdeling die vloeistoffen bevat, zoals voorgeschreven in ii, met dien verstande dat in het geval van afdelingen die verbruiksvloeistoffen bevatten, zoals voorgeschreven in iv, rekening moet worden gehouden met de invloed van het maximale vrije vloeistofoppervlak. Het is ook mogelijk het werkelijk optredende effect van het vrije vloeistofoppervlak te hanteren, mits de berekeningsmethoden voor de Administratie aanvaardbaar zijn;
+- v. Ballastwatertanks worden gewoonlijk geacht leeg te zijn en worden niet gecorrigeerd voor vrij vloeistofoppervlak;
 
-- vi. gewichten worden berekend op basis van de volgende waarden voor het soortelijk gewicht:
+- vi. Alternatieve berekenwijzen van de vrije vloeistofeffecten mogen gebruikt worden voor het bepalen van de stabiliteit in lekke toestand als beschreven in [artikel 27(12)](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&artikel=27&z=2014-07-01&g=2014-07-01):
+
+- (aa). Methode 1 (van toepassing op denkbeeldige correcties). Het gecorrigeerde zwaartepunt voor de aanvankelijke beladingstoestand wordt als volgt vastgesteld:
+
+- i. de beladingstoestand wordt bepaald in overeenstemming met de paragrafen (i) tot en met (iv);
+
+- ii. de correctie voor vrije vloeistofoppervlakken wordt opgeteld bij de hoogteligging van het zwaartepunt;
+
+- iii. een denkbeeldige aanvankelijke beladingstoestand waarbij alle ruimten leeg zijn wordt gegenereerd op basis van de diepgang op de gelijklastige zomerlastlijn, gebruikmakend van de hoogteligging van het zwaartepunt uit de bovenstaande beladingstoestand; en
+
+- iv. de lekgevallen worden getoetst aan de lekstabiliteitcriteria gebruikmakend van de bovenstaande aanvankelijke beladingtoestand.
+
+- (bb). Methode 2 (van toepassing op het gebruik van het werkelijke vrije vloeistofoppervlak volgens de aangenomen inhoud van de tank voor het schadegeval). Het gecorrigeerde zwaartepunt voor de aanvankelijke beladingstoestand wordt als volgt bepaald:
+
+- i. de beladingstoestand wordt bepaald in overeenstemming met de paragrafen (i) tot en met (iv);
+
+- ii. per schadegeval kan een denkbeeldige aanvankelijke toestand worden gegenereerd waarbij alle ruimten gevuld zijn met vloeistof tot de gelijklastige diepgang op de zomerlastlijn, gebruikmakend van de aanvankelijke denkbeeldige toestand met gevulde ruimten gegenereerd tot de diepgang op de zomerlastlijn met niveautrim. Gebruikmakend van de hoogteligging van het zwaartepunt en de correctie voor vrije vloeistofoppervlakken uit de bovenstaande beladingstoestand wordt voor elk schadegeval een afzonderlijke berekening gemaakt, met dien verstande dat alleen de met vloeistof gevulde ruimten die beschadigd worden leeg gelaten worden voor de schade; en
+
+- iii. de lekgevallen worden getoetst aan de lekstabiliteitcriteria gebruikmakend van de bovenstaande aanvankelijke beladingtoestand (één aanvankelijke beladingstoestand per schadegeval).
+
+- vii. gewichten worden berekend op basis van de volgende waarden voor het soortelijk gewicht:
 
 | Zout water | 1,025 |
 | --- | --- |
@@ -2535,7 +2555,7 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - 13. De evenwichtstoestand na het vollopen wordt als bevredigend beschouwd, op voorwaarde dat:
 
-- a. De bereikte waterlijn na het vollopen, met inachtneming van inzinking, slagzij en trim onder de onderste rand ligt van openingen waardoor geleidelijk binnenstromen kan plaatsvinden. Deze openingen omvatten luchtpijpen, luchtkokers (zelfs als deze voldoen aan voorschrift 19, lid 4, en openingen gesloten door middel van wind- en weerdichte deuren (zelfs als deze voldoen aan voorschrift 12) of luiken (zelfs als deze voldoen aan voorschrift 16, leden 1 tot en met 5, doch niet de openingen gesloten door middel van deksels voor mangaten en verzonken stortranden (die voldoen aan voorschrift 18), luiken voor laadopeningen van het type beschreven in voorschrift 27, lid 2, op afstand bediende waterdichte schuifdeuren en patrijspoorten die niet geopend kunnen worden (die voldoen aan voorschrift 23). In het geval evenwel van deuren die een hoofdmachineruimte scheiden van een stuurmachineruimte, mogen de waterdichte deuren zijn van een scharnierend, snelsluitend type, dat op zee gesloten blijft wanneer niet in gebruik, mits ook de drempel van deze deuren boven de lastlijn bij zomeruitwatering ligt.
+- a. De bereikte waterlijn na het vollopen, met inachtneming van inzinking, slagzij en trim onder de onderste rand ligt van openingen waardoor geleidelijk binnenstromen kan plaatsvinden. Deze openingen omvatten luchtpijpen, luchtkokers (zelfs als deze voldoen aan [voorschrift 19, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=19&z=2014-07-01&g=2014-07-01), en openingen gesloten door middel van wind- en weerdichte deuren (zelfs als deze voldoen aan [voorschrift 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=12&z=2014-07-01&g=2014-07-01)) of luiken (zelfs als deze voldoen aan [voorschrift 16, leden 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=16&z=2014-07-01&g=2014-07-01), doch niet de openingen gesloten door middel van deksels voor mangaten en verzonken stortranden (die voldoen aan [voorschrift 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=18&z=2014-07-01&g=2014-07-01)), luiken voor laadopeningen van het type beschreven in [voorschrift 27, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=27&z=2014-07-01&g=2014-07-01), op afstand bediende waterdichte schuifdeuren en patrijspoorten die niet geopend kunnen worden (die voldoen aan [voorschrift 23](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=23&z=2014-07-01&g=2014-07-01)). In het geval evenwel van deuren die een hoofdmachineruimte scheiden van een stuurmachineruimte, mogen de waterdichte deuren zijn van een scharnierend, snelsluitend type, dat op zee gesloten blijft wanneer niet in gebruik, mits ook de drempel van deze deuren boven de lastlijn bij zomeruitwatering ligt.
 
 - b. Indien pijpleidingen, kokers of tunnels gelegen zijn binnen de dwarsscheepse omvang van de aangenomen schade zoals omschreven in lid 12, b, voorzieningen moeten worden getroffen zodat het geleidelijk vollopen zich daardoor niet kan uitstrekken tot andere afdelingen dan die waarvan bij de berekening voor elk geval van schade wordt aangenomen dat zij vollopen.
 
@@ -2547,11 +2567,13 @@ De oppervlakte van waterloospoorten op tussenliggende breedten moet worden verkr
 
 - f. De Administratie ervan overtuigd is dat de stabiliteit tijdens de tussenliggende stadia van vollopen voldoende is.
 
+- g. Naleving van de criteria voor de resterende stabiliteit in de eindtoestand omschreven in de bovenstaande paragrafen (a), (c), (d) en (e) behoeft niet te worden aangetoond in operationele beladingtoestanden die met behulp van een stabiliteitsinstrument, stabiliteitssoftware of een andere goedgekeurde methode worden berekend.
+
 - 14. Voor een lichter, sleepschip of ander schip zonder eigen voortstuwingsmiddelen wordt een vrijboord vastgesteld overeenkomstig de bepalingen van deze voorschriften. Voor sleepschepen die voldoen aan het vereiste van de leden 2 en 3 kunnen vrijboorden van het type A worden vastgesteld.
 
 - a. De Administratie moet in het bijzonder de stabiliteit bezien van sleepschepen met lading op het aan weer en wind blootgestelde dek. Deklading mag alleen worden vervoerd op schepen waarvoor het gewone type B vrijboord is vastgesteld.
 
-- b. Op sleepschepen die niet bemand zijn, zijn evenwel de eisen van de voorschriften 25, 26, leden 3 en 4, en 39 niet van toepassing.
+- b. Op sleepschepen die niet bemand zijn, zijn evenwel de eisen van de [voorschriften 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=25&z=2014-07-01&g=2014-07-01), [26, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=II&artikel=26&z=2014-07-01&g=2014-07-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBV0003267&bijlage=I&hoofdstuk=III&artikel=39&z=2014-07-01&g=2014-07-01) niet van toepassing.
 
 - c. Voor deze onbemande sleepschepen, die op het vrijboorddek slechts kleine toegangsopeningen hebben, die gesloten zijn door waterdichte van pakking voorziene deksels van staal of van een gelijkwaardig materiaal, kan een vrijboord worden vastgesteld dat 25 procent kleiner is dan dat berekend overeenkomstig deze voorschriften.
 
