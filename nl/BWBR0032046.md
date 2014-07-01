@@ -4,7 +4,7 @@ identifier: "BWBR0032046"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032046"
 soort: "wet"
@@ -73,6 +73,8 @@ Wijzigt de Binnenvaartwet.
 
 ##### Artikel VIII
 
+Wijzigt de Scheepvaartverkeerswet.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
@@ -81,17 +83,17 @@ Wijzigt de Loodsenwet.
 
 ##### Artikel X
 
-Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-01-01&g=2014-01-01), gaan de vermogensbestanddelen van de Stichting Centraal Bureau Rijvaardigheidsbewijzen onder algemene titel over op het Centraal Bureau Rijvaardigheidsbewijzen.
+Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-07-01&g=2014-07-01), gaan de vermogensbestanddelen van de Stichting Centraal Bureau Rijvaardigheidsbewijzen onder algemene titel over op het Centraal Bureau Rijvaardigheidsbewijzen.
 
 ##### Artikel XI
 
-Archiefbescheiden van de Stichting Centraal Bureau Rijvaardigheidsbewijzen betreffende zaken die op het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-01-01&g=2014-01-01), nog niet zijn afgedaan, worden overgedragen aan het Centraal Bureau Rijvaardigheidsbewijzen voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
+Archiefbescheiden van de Stichting Centraal Bureau Rijvaardigheidsbewijzen betreffende zaken die op het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-07-01&g=2014-07-01), nog niet zijn afgedaan, worden overgedragen aan het Centraal Bureau Rijvaardigheidsbewijzen voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel XII
 
-1. In wettelijke procedures en rechtsgedingen waarbij de Stichting Centraal Bureau Rijvaardigheidsbewijzen is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-01-01&g=2014-01-01), het Centraal Bureau Rijvaardigheidsbewijzen in de plaats van de Stichting Centraal Bureau Rijvaardigheidsbewijzen.
+1. In wettelijke procedures en rechtsgedingen waarbij de Stichting Centraal Bureau Rijvaardigheidsbewijzen is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-07-01&g=2014-07-01), het Centraal Bureau Rijvaardigheidsbewijzen in de plaats van de Stichting Centraal Bureau Rijvaardigheidsbewijzen.
 
-2. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-01-01&g=2014-01-01), op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Stichting Centraal Bureau Rijvaardigheidsbewijzen, treedt het Centraal Bureau Rijvaardigheidsbewijzen op dat tijdstip in de plaats van de Stichting Centraal Bureau Rijvaardigheidsbewijzen.
+2. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I, onderdelen R tot en met W](https://wetten.overheid.nl/jci1.3:c:BWBR0032046&artikel=I&z=2014-07-01&g=2014-07-01), op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Stichting Centraal Bureau Rijvaardigheidsbewijzen, treedt het Centraal Bureau Rijvaardigheidsbewijzen op dat tijdstip in de plaats van de Stichting Centraal Bureau Rijvaardigheidsbewijzen.
 
 ##### Artikel XIII
 
@@ -104,6 +106,8 @@ Bij de eerste samenstelling van de directie van het Centraal Bureau Rijvaardighe
 2. Bij de eerste samenstelling van de raad van toezicht van het Centraal Bureau Rijvaardigheidsbewijzen benoemt Onze Minister van Infrastructuur en Milieu, in tegenstelling tot het bepaalde in [artikel 4ah, derde lid, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4ah), de voorzitter van de raad van toezicht, zonder dat hij de raad hoort.
 
 ##### Artikel XV
+
+Wijzigt deze wet.
 
 Dit onderdeel is nog niet inwerking getreden
 
