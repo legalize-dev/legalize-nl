@@ -4,7 +4,7 @@ identifier: "BWBR0019237"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-02-13"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019237"
 soort: "ministeriele-regeling"
@@ -139,7 +139,7 @@ Vervallen
 
 - e. van een bewindvoerder in een schuldsaneringsregeling natuurlijke personen;
 
-- f. van een derde indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.
+- f. van een derde, die meerderjarig en handelingsbekwaam is, indien een belanghebbende niet beschikt over een bankrekening die op zijn naam staat, naar het oordeel van de Belastingdienst/Toeslagen niet in staat is een bankrekening op zijn naam te openen door zijn lichamelijke of geestelijke toestand, en de belanghebbende hierom verzoekt.
 
 3. Bij gevallen als bedoeld [artikel 7a, vierde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a) is [artikel 25, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) niet van toepassing.
 
@@ -239,7 +239,7 @@ Indien de Belastingdienst/Toeslagen overeenkomstig artikel 6 van Verordening (EG
 
 - b. worden de in [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=19) genoemde beslissingstermijnen voor toekenning van de tegemoetkoming verlengd met de tijd gedurende welke een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan;
 
-- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-02-13&g=2014-02-13), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
+- c. worden de in de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=21), en [27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=27) genoemde termijnen en de in [artikel 5a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=5a&z=2014-07-01&g=2014-07-01), genoemde termijn verlengd met de tijd gedurende welk een orgaan in een andere lidstaat aangewezen is geweest als voorlopig bevoegd orgaan.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -267,12 +267,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. waarvan de hoogte is vastgelegd in een overeenkomst of rechterlijke uitspraak die is gedateerd voor 11 oktober 2010, dan wel, indien de uitkering op andere grond tot stand is gekomen, de hoogte is vastgesteld voor 11 oktober 2010.
 
-2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-02-13&g=2014-02-13), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
+2. [Artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019237&artikel=9&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing op het verzoek, bedoeld in het eerste lid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 9ter
 
-Indien bij de Belastingdienst/Toeslagen op 1 december 2013 geen bankrekening op naam van de belanghebbende bekend is, wordt tot en met 30 juni 2014 als geval als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) aangewezen de uitbetaling van een verleend voorschot of toegekende tegemoetkoming door de Belastingdienst/Toeslagen op de bankrekening die vóór 1 december 2013 door de Belastingdienst/Toeslagen werd gebruikt voor de uitbetaling van een verleend voorschot of toegekende tegemoetkoming aan de belanghebbende.
+Indien bij de Belastingdienst/Toeslagen op 1 december 2013 geen bankrekening op naam van de belanghebbende bekend is, wordt tot en met 30 juni 2015 als geval als bedoeld in [artikel 25, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=25) aangewezen de uitbetaling van een verleend voorschot of toegekende tegemoetkoming door de Belastingdienst/Toeslagen op de bankrekening die vóór 1 december 2013 door de Belastingdienst/Toeslagen werd gebruikt voor de uitbetaling van een verleend voorschot of toegekende tegemoetkoming aan de belanghebbende.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
