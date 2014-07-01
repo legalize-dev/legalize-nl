@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -127,13 +127,15 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - z. het op basis van [artikel 25b, derde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=25b) eveneens bij afwezigheid van deel I bij de bevoegde autoriteiten van de lidstaat waar het voertuig voordien was ingeschreven langs schriftelijke of elektronische weg de bevestiging verkrijgen dat de aanvrager het recht heeft om het voertuig in een andere lidstaat in te schrijven;
 
-- aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
+- aa. het als dataprovider verrichten van alle handelingen die noodzakelijk zijn voor de ontsluiting van data met betrekking tot beperkingen voor het wegtransport op grond van de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie;
+
+- bb. het op verzoek van de eigenaar of houder van een motorrijtuig of aanhangwagen afgeven van een kentekencard ter vervanging van een voor 1 januari 2014 voor dat motorvoertuig of die aanhangwagen afgegeven kentekenbewijs.
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-01-06&g=2014-01-06), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-01-06&g=2014-01-06) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-07-01&g=2014-07-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
