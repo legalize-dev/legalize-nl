@@ -4,7 +4,7 @@ identifier: "BWBR0022535"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-12-29"
-last_updated: "2013-06-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022535"
 soort: "AMvB"
@@ -72,6 +72,12 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. richtlijn 98/56/EG: richtlijn nr. 1998/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226);
 
+- –. richtlijn 2007/45/EG: richtlijn 2007/45/EG van het Europees Parlement en de Raad van 5 september 2007 tot vaststelling van regels betreffende nominale hoeveelheden voor voorverpakte producten, tot intrekking van de Richtlijnen 75/106/EEG en 80/232/EEG van de Raad en tot wijziging van Richtlijn 76/211/EEG van de Raad (PbEU 2007, L 247);
+
+- –. wijn: niet-mousserende wijn, gele wijn, mousserende wijn en likeurwijn als bedoeld in punt 2 van de bijlage bij richtlijn 2007/45/EG;
+
+- –. gearomatiseerde wijn: gearomatiseerde wijn als bedoeld in punt 2 van de bijlage bij richtlijn 2007/45/EG;
+
 - –. biologische productiemethode: voortbrenging van plantaardige producten overeenkomstig de bij of krachtens verordening (EG) 834/2007 gestelde voorschriften;
 
 - –. teeltmateriaal van bloembollen: teeltmateriaal als bedoeld in artikel 2, eerste lid, van richtlijn 98/56/EG, van bloembollen;
@@ -98,7 +104,13 @@ Bij het in de handel brengen of etiketteren van of reclame maken voor producten 
 
 ##### Artikel 3
 
-Vervallen
+1. Wijn en gearomatiseerde wijn die in voorverpakkingen binnen de in punt 1 van de bijlage bij richtlijn 2007/45/EG vermelde intervallen zijn verpakt, worden slechts in de handel gebracht indien zij zijn verpakt in de nominale hoeveelheden vermeld in punt 1 van die bijlage.
+
+2. Het eerste lid is niet van toepassing op voorverpakkingen die in belastingvrije winkels worden verkocht voor consumptie buiten de Europese Unie.
+
+3. Bij twee of meer individuele voorverpakkingen die samen een meervoudige verpakking vormen, zijn de in het eerste lid bedoelde nominale hoeveelheden van toepassing op elke individuele voorverpakking.
+
+4. Indien een voorverpakking bestaat uit twee of meer individuele verpakkingen die niet voor individuele verkoop zijn bestemd, zijn de in het eerste lid bedoelde nominale hoeveelheden van toepassing op de voorverpakking.
 
 ##### Artikel 4
 
@@ -130,7 +142,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ##### Artikel 10
 
-1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2013-06-01&g=2013-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2013-06-01&g=2013-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2013-06-01&g=2013-06-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2013-06-01&g=2013-06-01) genoemde EU-richtlijn noodzakelijk is.
+1. Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=2&z=2014-07-01&g=2014-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=4&z=2014-07-01&g=2014-07-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=6&z=2014-07-01&g=2014-07-01) genoemde EU-verordeningen en voor de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=9&z=2014-07-01&g=2014-07-01) genoemde EU-richtlijn noodzakelijk is.
 
 2. De regels bedoeld in het eerste lid kunnen betrekking hebben op:
 
@@ -142,7 +154,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 - d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;
 
-- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2013-06-01&g=2013-06-01).
+- e. de nadere aanduiding van het begrip bloembollen, bedoeld in [artikel 1, onder r](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=1&z=2014-07-01&g=2014-07-01).
 
 3. Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde EU-verordeningen en EU-richtlijn zich daartegen niet verzet.
 
@@ -204,7 +216,9 @@ Vervallen
 
 - b. artikel 27, eerste lid, van verordening (EG) nr. 834/2007;
 
-- c. artikel 34 van verordening (EU) 1151/2012.
+- c. artikel 34 van verordening (EU) 1151/2012;
+
+- d. het toezicht op de naleving van bij dit besluit gestelde regels inzake wijn en gearomatiseerde wijn.
 
 2. In afwijking van het eerste lid is de Stichting Skal de bevoegde autoriteit, bedoeld in artikel 17, eerste lid, onderdeel a, en artikel 28, eerste lid, onderdeel a, van verordening (EG) nr. 834/2007.
 
