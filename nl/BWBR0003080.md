@@ -4,7 +4,7 @@ identifier: "BWBR0003080"
 country: "nl"
 rank: "wet"
 publication_date: "2014-07-01"
-last_updated: "2012-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003080"
 soort: "wet"
@@ -57,9 +57,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. akten als bedoeld in [artikel 19a, eerste lid, onder a tot en met e, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=19a) die overeenkomstig de voorschriften van het recht van Aruba, Curaçao of Sint Maarten zijn opgemaakt.
 
-2. De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60), draagt zorg voor de inrichting en het bijhouden van het testamentenregister.
+2. In het register worden voorts opgenomen de in het volgende artikel vermelde gegevens van naar het in de openbare lichamen Bonaire, Sint Eustatius en Saba geldende recht opgemaakte akten, bevattende uiterste wilsbeschikkingen en schenkingen van de gehele of de gedeeltelijke nalatenschap van de schenker, alsmede akten waarbij uiterste wilsbeschikkingen worden herroepen of olografische testamenten worden teruggenomen. Onder akten, bevattende uiterste wilsbeschikkingen, worden verstaan: uiterste willen bij openbare akte, akten van bewaargeving van uiterste wil, akten van superscriptie, onderhandse stukken als bedoeld in [artikel 961 van Boek 4 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=961), voor zover deze na het overlijden van de erflater aan een notaris zijn ter hand gesteld en akten van benoeming ingaande bij overlijden.
 
-3. Onze Minister van Justitie draagt de zorg voor de inrichting en het bijhouden van het testamentenregister.
+3. De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60), draagt zorg voor de inrichting en het bijhouden van het testamentenregister.
 
 ##### Artikel 2
 
@@ -75,21 +75,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. indien de akte is verleden door of ten overstaan van een persoon als bedoeld in de [artikelen 98 tot en met 104 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=98), diens naam, voorletters en hoedanigheid;
 
-- c. de soort van de akte naar de onderscheiding van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01);
+- c. de soort van de akte naar de onderscheiding van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01);
 
-- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
+- d. indien de akte behoort tot de categorie van [artikel 1, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01), de mededeling of bij deze akte alle vorige uiterste willen al dan niet zijn herroepen.
 
-3. Met betrekking tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01), bedoelde akten wordt, voor zover daarvan uit de opgaven blijkt, aantekening gehouden van de in het eerste en tweede lid bedoelde gegevens, met dien verstande dat:
+3. Met betrekking tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01), bedoelde akten wordt, voor zover daarvan uit de opgaven blijkt, aantekening gehouden van de in het eerste en tweede lid bedoelde gegevens, met dien verstande dat:
 
 - a. voor de toepassing van het tweede lid, onder b in plaats van «de [artikelen 98 tot en met 104 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=98)» wordt gelezen: de [artikelen 972 tot en met 974 van Boek 4 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&artikel=972);
 
-- b. voor de toepassing van het tweede lid, onder c, in plaats van «[artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01), wordt gelezen: artikel 1, tweede lid;
+- b. voor de toepassing van het tweede lid, onder c, in plaats van «[artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01), wordt gelezen: artikel 1, tweede lid;
 
 - c. de in het tweede lid, onder d, bedoelde mededeling wordt opgenomen indien het een notariële akte betreft die uiterste wilsbeschikkingen of de herroeping van uiterste wilsbeschikkingen bevat.
 
 ##### Artikel 3
 
-De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door de Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60) vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
+De notaris door of ten overstaan van wie een akte als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01) is verleden, is verplicht uiterlijk op de eerste werkdag volgende op die waarop de akte is verleden aan het testamentenregister op een door de Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=60) vast te stellen formulier opgaaf te doen van de in het vorige artikel bedoelde gegevens, alsmede van de woonplaats van de persoon die de akte deed verlijden of te verklaren dat en om welke reden deze gegevens niet kunnen worden opgegeven.
 
 ##### Artikel 4
 
@@ -121,9 +121,9 @@ De Koninklijke Notariële Beroepsorganisatie, genoemd in [artikel 60 van de Wet 
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-##### Artikel 6a*
+##### Artikel 6a
 
-De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) en [41 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) zijn van overeenkomstige toepassing op uitoefening van de taak, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2012-01-01&g=2012-01-01).
+De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=27), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) en [41 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=41) zijn van overeenkomstige toepassing op uitoefening van de taak, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003080&artikel=1&z=2014-07-01&g=2014-07-01).
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -132,3 +132,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 6b
+
+Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
