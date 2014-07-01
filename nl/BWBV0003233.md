@@ -4,7 +4,7 @@ identifier: "BWBV0003233"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-07-01"
-last_updated: "2012-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003233"
 soort: "verdrag"
@@ -242,7 +242,7 @@ Het origineel van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, 
 
 - (a). Op elke goedgekeurde container dient op een gemakkelijk zichtbare plaats blijvend een veiligheidskeurplaat overeenkomstig de omschrijving in het aanhangsel bij deze Bijlage te zijn aangebracht, nabij eventuele andere goedkeuringsmerken voor officiële doeleinden en daar waar deze niet gemakkelijk kan worden beschadigd.
 
-- (b). Op elke container dienen alle aanduidingen van het maximale bruto gewicht overeen te stemmen met de gegevens inzake het maximale bruto gewicht op de veiligheidskeurplaat.
+- (b). Op elke container dienen alle aanduidingen van de maximale brutomassa tijdens vervoer overeen te stemmen met de gegevens inzake de maximale brutomassa tijdens vervoer op de veiligheidskeurplaat.
 
 - (c). De eigenaar van de container dient de veiligheidskeurplaat op de container te verwijderen indien:
 
@@ -252,13 +252,15 @@ Het origineel van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, 
 
 - -. de goedkeuring door de Administratie is ingetrokken.
 
-- a). De plaat bevat de volgende gegevens in ten minste de Engelse of de Franse taal: „CSC VEILIGHEIDSKEUR” Land waar de goedkeuring is verkregen en goedkeuringsnummer Datum (maand en jaar) van fabricage Door de fabrikant van de container toegewezen identificatienummer of, in het geval van bestaande containers waarvan dat nummer onbekend is, het door de Administratie toegewezen nummer Maximaal brutogewicht (in kg en lb) Toelaatbaar stapelgewicht bij 1,8 g (in kg en lb) Belastingswaarde bij de torsiebeproeving.
+- a). De plaat bevat de volgende gegevens in ten minste de Engelse of de Franse taal: „CSC VEILIGHEIDSKEUR” Land waar de goedkeuring is verkregen en goedkeuringsnummer Datum (maand en jaar) van fabricage Door de fabrikant van de container toegewezen identificatienummer of, in het geval van bestaande containers waarvan dat nummer onbekend is, het door de Administratie toegewezen nummer, Maximale brutomassa tijdens vervoer (in kg en lb) Toelaatbare stapelbelasting bij 1,8 g (in kg en lb) Kracht bij de torsiebeproeving (in newton)
 
 - b). Op de plaat dient een ruimte te worden opengelaten voor het noteren van de waarden (factoren) die sterkte van kop- en/of zijwanden aangeven overeenkomstig paragraaf 3 van deze Bepaling en Bijlage II, beproevingen 6 en 7. Op de plaat dient ook een ruimte te worden opengelaten voor de data (maand en jaar) van de eerste en de daarop volgende controles van het onderhoud wanneer de containers in gebruik zijn.
 
-3. Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen.
+3. Wanneer de Administratie van oordeel is dat een nieuwe container voldoet aan de voorschriften van deze Overeenkomst inzake veiligheid en indien voor zulk een container de ontwerpwaardefactor van de sterkte van kop- en/of zijwanden groter of kleiner is dan die bepaald in Bijlage II, dan dient deze waarde te worden aangegeven op de veiligheidskeurplaat. Wanneer het toelaatbaar stapelgewicht of de belastingswaarde bij torsiebeproeving lager is dan 192.000 kg respectievelijk 150 kN, wordt de container geacht een verminderd stapelvermogen of verminderde bestendigheid bij torsiebelasting te hebben en wordt de container op een in het oog springende plaats gemarkeerd, zoals vereist uit hoofde van de relevante normen op het moment van of voor de volgende geplande controle of voor een andere datum, goedgekeurd door de Administratie, mits dat uiterlijk 1 juli 2015 is.
 
 4. De aanwezigheid van de veiligheidskeurplaat betekent geen ontheffing van de verplichting de containers te voorzien van labels of andere gegevens die door eventueel van kracht zijnde andere voorschriften worden vereist.
+
+5. Een container waarvan de constructie voltooid was vóór 1 juli 2014, kan de veiligheidskeurplaat die vóór die datum op grond van de Overeenkomst was toegestaan, behouden, zo lang er geen structurele wijzigingen aan die container plaatsvinden.
 
 ##### Bepaling 2. Onderhoud en controle
 
@@ -360,7 +362,7 @@ Voor de aanvang van de produktie van elke nieuwe serie containers die zal worden
 
 Er kan goedkeuring van afzonderlijke containers worden verleend wanneer na controle en het bijwonen van proeven, ten genoegen van de Administratie is aangetoond dat de container voldoet aan de vereisten van deze Overeenkomst; indien zulks het geval is, stelt de Administratie de aanvrager hiervan schriftelijk in kennis en deze kennisgeving geeft hem het recht de veiligheidskeurplaat op een zodanige container aan te brengen.
 
-### HOOFDSTUK IV. – BEPALINGEN VOOR DE GOEDKEURING VAN BESTAANDE CONTAINERS EN VAN NIEUW VERVAARDIGDE MAAR NOG NIET ONDERZOCHTE CONTAINERS
+### HOOFDSTUK IV. BEPALINGEN VOOR DE GOEDKEURING VAN BESTAANDE CONTAINERS EN VAN NIEUW VERVAARDIGDE MAAR NOG NIET GOEDGEKEURDE CONTAINERS
 
 ##### Bepaling 9. Goedkeuring van bestaande containers
 
@@ -370,7 +372,7 @@ Er kan goedkeuring van afzonderlijke containers worden verleend wanneer na contr
 
 - b). door de fabrikant van de container toegewezen identificatienummer indien voorhanden;
 
-- c). werkelijk maximum brutogewicht;
+- c). maximale brutomassa tijdens vervoer;
 
 - d).
 
@@ -380,7 +382,7 @@ Er kan goedkeuring van afzonderlijke containers worden verleend wanneer na contr
 
 - (iii). het bewijs dat de container was gebouwd volgens normen die naar de mening van de Administratie gelijkwaardig waren aan de technische voorwaarden neergelegd in Bijlage II, met uitzondering van de technische voorwaarden betreffende de proeven inzake de sterkte van kop- en zijwanden;
 
-- e). toelaatbaar stapelgewicht bij 1,8 g (in kg en lb); en
+- e). toelaatbare stapelbelasting bij 1,8 g (in kg en lb); en
 
 - f). de eventuele andere gegevens vereist voor de veiligheidskeurplaat, dan geeft de Administratie, na onderzoek, de eigenaar schriftelijk ervan kennis of de goedkeuring is verleend; en indien zulks het geval is, geeft deze kennisgeving de eigenaar het recht de veiligheidskeurplaat aan te brengen nadat controle van de betrokken container is verricht overeenkomstig Bepaling 2.
 
@@ -388,7 +390,7 @@ De controle van de betrokken container en het aanbrengen van de veiligheidskeurp
 
 2. Bestaande containers die niet in aanmerking komen voor goedkeuring krachtens paragraaf 1 van deze Bepaling kunnen ter goedkeuring worden voorgelegd krachtens de bepalingen van Hoofdstuk II of Hoofdstuk III van deze Bijlage. Voor zodanige containers zijn de vereisten van Bijlage II betreffende de proeven inzake de sterkte van kop- en/of zijwanden niet van toepassing. Indien ten genoegen van de Administratie is aangetoond dat de betrokken containers gebruikt zijn, kan zij, naar het haar passend voorkomt, de vereisten van voorlegging van tekeningen en de beproeving, behalve de hijsen vloersterkteproeven, terzijde stellen.
 
-##### Bepaling 10. Goedkeuring van nieuw vervaardigde maar nog niet onderzochte containers
+##### Bepaling 10. Goedkeuring van nieuw vervaardigde maar nog niet goedgekeurde containers
 
 Indien op of voor 6 september 1982 de eigenaar van een nieuw vervaardigde maar nog niet onderzochte container, de volgende gegevens aan een Administratie voorlegt:
 
@@ -396,15 +398,15 @@ Indien op of voor 6 september 1982 de eigenaar van een nieuw vervaardigde maar n
 
 - (b). het door de fabrikant van de container toegewezen identificatienummer, indien voorhanden;
 
-- (c). werkelijk maximaal brutogewicht;
+- (c). maximale brutomassa tijdens vervoer;
 
-- (d). het bewijs, ten genoegen van de Administratie, dat de container was vervaardigd volgens een ontwerptype dat was beproefd en bevonden te voldoen aan de technische voorwaarden neergelegd in Bijlage II;
+- (d). het bewijs, ten genoegen van de Administratie, dat de container was vervaardigd volgens een ontwerptype dat was beproefd en bevonden te voldoen aan de technische voorwaarden neergelegd in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003233&bijlage=II&z=2014-07-01&g=2014-07-01);
 
-- (e). toelaatbaar stapelgewicht bij 1,8 g (in kg en lb); en
+- (e). toelaatbare stapelbelasting bij 1,8 g (in kg en lb); en
 
 - (f). de eventuele andere gegevens, vereist voor de veiligheidskeurplaat,
 
-kan de Administratie, na onderzoek, de container goedkeuren, niettegenstaande de bepalingen van Hoofdstuk II. Wanneer de goedkeuring is verleend, wordt de eigenaar schriftelijk ervan in kennis gesteld, en deze kennisgeving geeft de eigenaar het recht de veiligheidskeurplaat aan te brengen, nadat controle van de betrokken container is verricht overeenkomstig Bepaling 2. De controle van de betrokken container en het aanbrengen van de veiligheidskeurplaat dienen uiterlijk 1 januari 1985 te zijn geschied.
+kan de Administratie, na onderzoek, de container goedkeuren, niettegenstaande de bepalingen van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003233&bijlage=I&hoofdstuk=II&z=2014-07-01&g=2014-07-01). Wanneer de goedkeuring is verleend, wordt de eigenaar schriftelijk ervan in kennis gesteld, en deze kennisgeving geeft de eigenaar het recht de veiligheidskeurplaat aan te brengen, nadat controle van de betrokken container is verricht overeenkomstig [Bepaling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003233&bijlage=I&hoofdstuk=I&artikel=2&z=2014-07-01&g=2014-07-01). De controle van de betrokken container en het aanbrengen van de veiligheidskeurplaat dienen uiterlijk 1 januari 1985 te zijn geschied.
 
 ### HOOFDSTUK V. - BEPALINGEN VOOR DE GOEDKEURING VAN GEWIJZIGDE CONTAINERS
 
