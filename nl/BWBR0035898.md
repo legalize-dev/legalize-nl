@@ -4,7 +4,7 @@ identifier: "BWBR0035898"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035898"
 soort: "wet"
@@ -120,7 +120,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2014.
 
 ##### Artikel XXII
 
