@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2014-06-27"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 1.2. Minister bevoegde instantie EU-verordeningen
 
-De minister is bevoegd de besluiten te nemen waartoe een voorschrift van een EU-verordening als bedoeld in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.1), [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.7) of [3.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=3.1) een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft of de keuze laat, tenzij in deze regeling anders is bepaald.
+Vervallen
 
 ### Hoofdstuk 2. : Voor menselijke consumptie bestemde dierlijke producten
 
@@ -188,37 +188,47 @@ De onderwerpen, bedoeld in [artikel 2.10 van het besluit](https://wetten.overhei
 
 - a. voor Stichting COKZ: de bescherming van kwaliteitsaanduidingen van landbouwproducten en levensmiddelen van dierlijke oorsprong, handelsnormen voor eieren en vlees van pluimvee, zuigelingenvoeding bestemd voor derde landen en nationale kwaliteitsvoorschriften voor kaas;
 
-- b. Dit onderdeel is nog niet in werking getreden.
+- b. voor Stichting Skal: de biologische productiemethode.
 
 #### § 2.2. Biologische productiemethode
 
 ##### Artikel 2.12. Stichting Skal
 
-Dit onderdeel is nog niet inwerking getreden
+De Stichting Skal is de controlerende autoriteit, bedoeld in artikel 27, vierde lid, onderdeel a, van [verordening (EG) nr. 834/2007](onbekend).
 
 ##### Artikel 2.13. Verbodsbepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Het is verboden bij het in de handel brengen of etiketteren van of reclame maken voor producten te verwijzen naar de biologische productiemethode, bedoeld in [verordening (EG) nr. 834/2007](onbekend) en het logo, bedoeld in artikel 25 van die verordening, tenzij is voldaan aan de voorschriften van die verordening, van [verordening (EG) nr. 889/2008](onbekend), [verordening (EG) nr. 1235/2008](onbekend) en deze paragraaf.
 
 ##### Artikel 2.14. Deelname controlesysteem
 
-Dit onderdeel is nog niet inwerking getreden
+1. De inkennisstelling, bedoeld in artikel 28, eerste lid, onderdeel a, van [verordening (EG) nr. 834/2007](onbekend), wordt gedaan bij Stichting Skal.
+
+2. Met toepassing van artikel 28, tweede lid, van [verordening (EG) nr. 834/2007](onbekend) is artikel 28, eerste lid, van die verordening niet van toepassing op marktdeelnemers die producten direct aan de eindconsument of eindgebruiker verkopen, mits zij deze producten niet produceren, bereiden of opslaan op een plaats die geen verband houdt met het verkooppunt, of dergelijke activiteiten aan een derde partij hebben uitbesteed.
 
 ##### Artikel 2.15. Aanvragen vergunningen en ontheffingen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanvraag voor een vergunning als bedoeld in artikel 29, eerste lid, van [verordening (EG) nr. 889/2008](onbekend) wordt ingediend bij de minister.
+
+2. Een aanvraag voor ontheffing om gelijkwaardige producten als bedoeld in artikel 19, eerste lid, van [verordening (EG) nr. 1235/2008](onbekend) overeenkomstig dat artikel in de handel te brengen, wordt ingediend bij de minister.
 
 ##### Artikel 2.16. Vrijstellingen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Tot en met 31 december 2015, met toepassing van artikel 39 van verordening (EG) nr. 889/2008, mogen bedrijven met ten hoogste vijftig runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel. Vanaf 1 januari 2016, met toepassing van artikel 39 van verordening (EG) nr. 889/2008, mogen bedrijven met ten hoogste tien runderen die dieren aanbinden, indien is voldaan aan de voorwaarden, bedoeld in dat artikel.
+
+2. Met toepassing van artikel 27, vierde lid, van [verordening 889/2008](onbekend) is het tijdens de drie maanden die voorafgaan aan Pasen toegestaan eieren te kleuren met gebruikmaking van natuurlijke kleurstoffen en natuurlijke bedekkingsstoffen.
 
 ##### Artikel 2.17. Veebezetting
 
-Dit onderdeel is nog niet inwerking getreden
+De maximale omvang van de mestproductie per hectare landbouwgrond, bedoeld in artikel 15 van [verordening (EG) nr. 889/2008](onbekend), bedraagt de hoeveelheid stikstof zoals opgenomen in de bijlage bij deze regeling, of, indien de betreffende diercategorie daarin ontbreekt, in [bijlage D van de Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989&bijlage=D).
 
 ##### Artikel 2.18. Uitlopen pluimvee
 
-Dit onderdeel is nog niet inwerking getreden
+De duur van de periode waarin de uitlopen van pluimveestallen leeg moeten blijven, bedoeld in artikel 23, vijfde lid, van [verordening (EG) nr. 889/2008](onbekend) bedraagt telkens na het houden van een koppel:
+
+- a. legkippen: 60 dagen;
+
+- b. vleeskuikens: 30 dagen.
 
 #### § 2.3. Bescherming van kwaliteitsaanduiding van landbouwproducten en levensmiddelen van dierlijke oorsprong
 
@@ -416,7 +426,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-06-27&g=2014-06-27);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-07-01&g=2014-07-01);
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
 
@@ -584,7 +594,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](onbekend), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-06-27&g=2014-06-27) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-07-01&g=2014-07-01) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -630,15 +640,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-06-27&g=2014-06-27), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-06-27&g=2014-06-27), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-06-27&g=2014-06-27), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-06-27&g=2014-06-27) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -662,11 +672,15 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-06-27&g=2014-06-27).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-07-01&g=2014-07-01).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
-Dit onderdeel is nog niet inwerking getreden
+Met toepassing van artikel 95, eerste en tweede lid van [verordening (EG) nr. 889/2008](onbekend) kan de Stichting Skal tot en met 30 december 2013 op aanvraag toestemming verlenen om:
+
+- a. runderen aangebonden te houden, indien is voldaan aan de voorwaarden, bedoeld in artikel 95, eerste lid, van [verordening (EG) nr. 889/2008](onbekend);
+
+- b. de bezetting van de buitenruimte van vleeskuikens te laten plaatsvinden volgens artikel 95, tweede lid, van [verordening nr. 889/2008](onbekend), indien is voldaan aan de voorwaarden, bedoeld in dat lid.
 
 ##### Artikel 4.3. Wijziging [Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543)
 
@@ -674,7 +688,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-06-27&g=2014-06-27), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-06-27&g=2014-06-27), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-06-27&g=2014-06-27) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-06-27&g=2014-06-27), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-07-01&g=2014-07-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-07-01&g=2014-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-07-01&g=2014-07-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-07-01&g=2014-07-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
@@ -779,7 +793,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in artikel 17, eerste lid, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
-## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-06-27&g=2014-06-27) van de Regeling dierlijke producten
+## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-07-01&g=2014-07-01) van de Regeling dierlijke producten
 
 In deze bijlage wordt verstaan onder:
 
