@@ -191,33 +191,3 @@ Dit onderdeel is nog niet inwerking getreden
 Dit besluit wordt aangehaald als: Besluit uitvoering kinderbijslag.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 11. Aanwijzing intensieve zorg
-
-1. Van intensieve zorg als bedoeld in [artikel 7a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7a) is sprake als het een kind betreft dat zodanig ernstig beperkt is in het dagelijks functioneren als gevolg van een ziekte of stoornis van lichamelijke, verstandelijke, zintuiglijke of geestelijke aard dat de verzorging en oppassing door de ouders in ernstige mate wordt verzwaard.
-
-2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop vastgesteld wordt of er sprake is van intensieve zorg als bedoeld in het eerste lid.
-
-##### Artikel 12. Aanwijzing adviseur intensieve zorg
-
-1. Om te bepalen of een kind intensieve zorg behoeft, wint de Sociale verzekeringsbank een op medische gegevens gebaseerd advies in bij het Centrum indicatiestelling zorg, genoemd in [artikel 7.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.1.1).
-
-2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de procedure alsmede de beoordelingscriteria waarop het advies, bedoeld in het eerste lid, wordt gebaseerd.
-
-### Hoofdstuk 6. Dubbele kinderbijslag bij om onderwijsredenen niet thuis wonende kinderen
-
-##### Artikel 15. Aanwijzing beroep en woonplaats verzekerde
-
-1. Onder beroep als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt verstaan: het beroep dat wordt uitgeoefend door de personen, bedoeld in [artikel 1, eerste lid, onderdelen b, c en d, van de Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan](https://wetten.overheid.nl/jci1.3:c:BWBR0026965&artikel=1), alsmede het beroep dat wordt uitgeoefend door een persoon die op grond van artikel 1, tweede lid, van genoemde subsidieregeling is gelijkgesteld met een in [artikel 1, eerste lid, onderdelen b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), van de genoemde subsidieregeling genoemde persoon.
-
-2. Onder deel van Nederland als bedoeld in [artikel 7, zesde lid, onderdeel b, onder 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7) wordt verstaan: Ameland, Vlieland, Terschelling of Schiermonnikoog.
-
-### Hoofdstuk 8. Overgangs- en slotbepalingen
-
-##### Artikel 20a. Geldigheid oude indicatiebesluiten
-
-1. De artikelen van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035261&hoofdstuk=5&z=2015-01-01&g=2015-01-01) zoals die luidden voor de datum van inwerkingtreding van het besluit van 11 december 2014, Stb. 556 tot wijziging van het Besluit uitvoering kinderbijslag in verband met de aanpassing aanwijzing intensieve zorg blijven van toepassing voor een indicatiebesluit dat is afgegeven voor 1 januari 2015.
-
-2. In geval van toepassing van het eerste lid blijven indicatiebesluiten waarvan de geldigheidsduur eindigt in 2015 gedurende zes maanden na de datum van het einde van de geldigheidsduur van het indicatiebesluit van kracht.
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
