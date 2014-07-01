@@ -4,7 +4,7 @@ identifier: "BWBR0002844"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002844"
 soort: "wet"
@@ -102,7 +102,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - 2. de Nederlander, die tijdens de oorlogsjaren 1940-1945 vreemdeling zijnde, vervolging onderging, indien hij sedert 7 december 1941 tot het tijdstip van zijn naturalisatie onafgebroken in het voormalige Nederlands-Indië, in Indonesië of in het voormalige Nederlands Nieuw-Guinea gevestigd is geweest, dan wel sedert 7 december 1941 onafgebroken in het voormalige Nederlands-Indië, in Indonesië of in het voormalige Nederlands Nieuw-Guinea was gevestigd en aansluitend daaraan vóór 1 april 1964 in Nederland is gekomen of vóór genoemde datum een verzoek om toestemming tot vestiging in Nederland heeft ingediend, waarop gunstig is beslist, en sedert zijn aankomst tot aan het tijdstip van zijn naturalisatie onafgebroken hier te lande gevestigd is geweest.
 
-- 3. de Nederlander, die tijdens de oorlogsjaren 1940-1945 vreemdeling zijnde, vervolging onderging, indien hij zich niet later dan 15 augustus 1955 in Nederland heeft gevestigd en tot de datum van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-01-06), dan wel tot zijn overlijden onafgebroken in Nederland gevestigd is geweest;
+- 3. de Nederlander, die tijdens de oorlogsjaren 1940-1945 vreemdeling zijnde, vervolging onderging, indien hij zich niet later dan 15 augustus 1955 in Nederland heeft gevestigd en tot de datum van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-07-01), dan wel tot zijn overlijden onafgebroken in Nederland gevestigd is geweest;
 
 - c. de vreemdeling, die tijdens de oorlogsjaren 1940-1945 vervolging onderging, indien hij sedert 9 mei 1940 onafgebroken in Nederland is gevestigd, dan wel tot zijn overlijden is geweest;
 
@@ -126,9 +126,9 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - b. de vervolgde en diens nabestaanden, die aanspraken ontlenen aan de [Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) of de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968);
 
-- c. de vervolgde in de zin van [artikel 3, eerste lid, onder **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=3&z=2014-01-06&g=2014-01-06), en diens nabestaanden, die een andere dan de Nederlandse nationaliteit bezitten en zich metterwoon in het buitenland vestigen dan wel reeds buiten Nederland zijn of waren gevestigd, ook indien zij zich nadien in Nederland vestigen;
+- c. de vervolgde in de zin van [artikel 3, eerste lid, onder **c** en **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=3&z=2014-01-06&g=2014-07-01), en diens nabestaanden, die een andere dan de Nederlandse nationaliteit bezitten en zich metterwoon in het buitenland vestigen dan wel reeds buiten Nederland zijn of waren gevestigd, ook indien zij zich nadien in Nederland vestigen;
 
-- d. de nabestaande van de vervolgde in de zin van [artikel 3, eerste lid, onder **b** 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=3&z=2014-01-06&g=2014-01-06), die een andere dan de Nederlandse nationaliteit bezitten.
+- d. de nabestaande van de vervolgde in de zin van [artikel 3, eerste lid, onder **b** 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=3&z=2014-01-06&g=2014-07-01), die een andere dan de Nederlandse nationaliteit bezitten.
 
 2. Bij de toepassing van het eerste lid, onder **c**, wordt een verblijf in het buitenland van langere duur dan een jaar in ieder geval aangemerkt als vestiging aldaar.
 
@@ -136,7 +136,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 5
 
-1. Voor een uitkering, een vergoeding en een tegemoetkoming, alsmede voor een verklaring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-01-06) komt niet in aanmerking de vervolgde die blijkens opgave van Onze Minister van Justitie:
+1. Voor een uitkering, een vergoeding en een tegemoetkoming, alsmede voor een verklaring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-07-01) komt niet in aanmerking de vervolgde die blijkens opgave van Onze Minister van Justitie:
 
 - a. bij onherroepelijke uitspraak van een bijzondere strafrechter is veroordeeld;
 
@@ -148,7 +148,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - e. zich door de vlucht aan vervolging door een orgaan van de bijzondere rechtspleging heeft onttrokken.
 
-2. Voor een uitkering, een vergoeding en een tegemoetkoming, alsmede voor een verklaring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-01-06), komt niet in aanmerking de vervolgde die zich tijdens de vijandelijke bezetting uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen.
+2. Voor een uitkering, een vergoeding en een tegemoetkoming, alsmede voor een verklaring als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-07-01), komt niet in aanmerking de vervolgde die zich tijdens de vijandelijke bezetting uit Nederlands nationaal oogpunt beschouwd onwaardig heeft gedragen.
 
 3. Voor een uitkering komen evenmin in aanmerking de nabestaanden van de vervolgde, indien ten aanzien van hem uitspraken zijn gedaan of beslissingen zijn genomen als in het eerste lid bedoeld, dan wel indien hij zich heeft gedragen als in het tweede lid omschreven.
 
@@ -166,7 +166,7 @@ Vervallen
 
 1. Recht op een uitkering heeft:
 
-- a. de vervolgde, die wegens ziekten of gebreken, welke door of in verband met de vervolging zijn ontstaan of verergerd, buiten staat is door arbeid een inkomen te verwerven dat gelijk is aan de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag;
+- a. de vervolgde, die wegens ziekten of gebreken, welke door of in verband met de vervolging zijn ontstaan of verergerd, buiten staat is door arbeid een inkomen te verwerven dat gelijk is aan de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag;
 
 - b. de weduwe of weduwnaar, alsmede de minderjarige volle wees van de vervolgde van wie het overlijden redelijkerwijs aan de vervolging kan worden toegeschreven;
 
@@ -186,7 +186,7 @@ Vervallen
 
 1. Indien aanspraak op een uitkering bestaat wordt de grondslag vastgesteld waarnaar die uitkering wordt berekend.
 
-2. De grondslag wordt vastgesteld naar het inkomen uit arbeid in beroep of bedrijf dat de vervolgde, al naar voor hem het gunstigst is, ten tijde van de aanvraag bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-01-06) in Nederland zou hebben genoten:
+2. De grondslag wordt vastgesteld naar het inkomen uit arbeid in beroep of bedrijf dat de vervolgde, al naar voor hem het gunstigst is, ten tijde van de aanvraag bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-07-01) in Nederland zou hebben genoten:
 
 - a. uit het laatstelijk door hem uitgeoefende beroep of bedrijf;
 
@@ -202,7 +202,7 @@ Vervallen
 
 5. Indien de vervolgde ten tijde van het tot uiting komen van de ziekten of gebreken, of de verergering daarvan, dan wel ten tijde van het overlijden, niet aangewezen was op inkomsten uit arbeid in beroep of bedrijf, wordt de grondslag vastgesteld op het van toepassing zijnde bedrag, genoemd in het zevende lid, onder a, dan wel het bedrag, genoemd in het achtste lid, onder a.
 
-6. Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-01-06) terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.
+6. Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-07-01) terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.
 
 7. De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op:
 
@@ -226,11 +226,11 @@ Het bepaalde in deze paragraaf is niet van toepassing, indien de aanspraken op e
 
 ##### Artikel 10
 
-1. De uitkering bedraagt een percentage van de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag, en wel:
+1. De uitkering bedraagt een percentage van de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag, en wel:
 
 - a. 85% voor de gehuwde vervolgde, tenzij het bepaalde onder b van toepassing is;
 
-- b. 75% voor de gehuwde vervolgde, indien het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in [artikel 8, zevende lid, onder b, onderscheidenlijk achtste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06);
+- b. 75% voor de gehuwde vervolgde, indien het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in [artikel 8, zevende lid, onder b, onderscheidenlijk achtste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01);
 
 - c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
@@ -240,27 +240,27 @@ Het bepaalde in deze paragraaf is niet van toepassing, indien de aanspraken op e
 
 - f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2014: € 2.581,74.
 
-- a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt, tenzij [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), van toepassing is.
+- a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt, tenzij [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), van toepassing is.
 
-- b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt, tenzij [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), van toepassing is.
+- b. De percentages, genoemd in het eerste lid, onder e en f, worden met 20 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt, tenzij [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), van toepassing is.
 
-3. In de in het eerste lid onder a, b, c en d genoemde percentages is een toeslagpercentage van 5 begrepen. Deze toeslag bedraagt niet minder dan een bedrag overeenkomende met 10% van de grondslag genoemd in [artikel 8, zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06).
+3. In de in het eerste lid onder a, b, c en d genoemde percentages is een toeslagpercentage van 5 begrepen. Deze toeslag bedraagt niet minder dan een bedrag overeenkomende met 10% van de grondslag genoemd in [artikel 8, zevende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01).
 
 4. Bij overlijden van de echtgenoot van de vervolgde blijft het uitkeringspercentage ongewijzigd tot en met de laatste dag van de maand, volgende op die, waarin het overlijden heeft plaatsgevonden.
 
 ##### Artikel 11
 
-1. Indien de vervolgde, bedoeld in [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), in staat is zich door passende arbeid een inkomen te verwerven, doch deze arbeid om niet gegronde redenen niet of slechts ten dele verricht, wordt de uitkering bepaald overeenkomstig de graad van zijn onvermogen het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) bedoelde inkomen te verwerven.
+1. Indien de vervolgde, bedoeld in [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), in staat is zich door passende arbeid een inkomen te verwerven, doch deze arbeid om niet gegronde redenen niet of slechts ten dele verricht, wordt de uitkering bepaald overeenkomstig de graad van zijn onvermogen het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) bedoelde inkomen te verwerven.
 
-2. Het bepaalde in het eerste lid is niet van toepassing, indien de vervolgde buiten staat is 40% van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) bedoelde inkomen te verwerven.
+2. Het bepaalde in het eerste lid is niet van toepassing, indien de vervolgde buiten staat is 40% van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) bedoelde inkomen te verwerven.
 
 ##### Artikel 12
 
 Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende rechten:
 
-- a. een uitkering ingevolge [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), en
+- a. een uitkering ingevolge [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), en
 
-- b. een uitkering ingevolge [artikel 7, eerste lid, onder **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), wordt slechts die uitkering verleend, welke leidt tot de hoogste uitbetaling aan de uitkeringsgerechtigde.
+- b. een uitkering ingevolge [artikel 7, eerste lid, onder **b** of **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), wordt slechts die uitkering verleend, welke leidt tot de hoogste uitbetaling aan de uitkeringsgerechtigde.
 
 ##### Artikel 13
 
@@ -272,11 +272,11 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 1. Bij verblijf van een alleenstaande of een echtpaar ter verpleging of verzorging in een daartoe bestemde inrichting, waarvan de kosten met toepassing van één der sociale verzekeringswetten worden betaald, wordt de uitkering, met ingang van het tijdstip waarop redelijkerwijs kan worden aangenomen dat deze verpleging of verzorging een langdurig karakter draagt, doch in ieder geval na verloop van een jaar, nader bepaald op:
 
-- a. 12% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag voor een alleenstaande;
+- a. 12% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag voor een alleenstaande;
 
-- b. 20% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag voor een gehuwde, tenzij onderdeel **c** van toepassing is;
+- b. 20% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag voor een gehuwde, tenzij onderdeel **c** van toepassing is;
 
-- c. 12% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag voor een gehuwde, indien het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in [artikel 8, zevende lid, onder b, onderscheidenlijk achtste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06).
+- c. 12% van de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag voor een gehuwde, indien het inkomen van de echtgenoot, inkomsten uit vermogen daaronder niet begrepen, meer bedraagt dan 30% van het bedrag, bedoeld in [artikel 8, zevende lid, onder b, onderscheidenlijk achtste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01).
 
 2. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, wordt op de overeenkomstig het eerste lid vastgestelde uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend die per categorie van uitkeringsgerechtigden verschilt.
 
@@ -294,15 +294,15 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 5. Indien de in het eerste lid bedoelde kosten van verpleging of verzorging met toepassing van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het eerste lid vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.
 
-6. Op de overeenkomstig het eerste tot en met derde en vijfde lid vastgestelde uitkering worden in mindering gebracht de inkomsten van de uitkeringsgerechtigde en van zijn echtgenoot. De inkomsten uit vermogen worden berekend overeenkomstig het bepaalde in [artikel 19, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-01-06).
+6. Op de overeenkomstig het eerste tot en met derde en vijfde lid vastgestelde uitkering worden in mindering gebracht de inkomsten van de uitkeringsgerechtigde en van zijn echtgenoot. De inkomsten uit vermogen worden berekend overeenkomstig het bepaalde in [artikel 19, vijfde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-07-01).
 
 7. Het eerste, tweede, vijfde en zesde lid zijn niet van toepassing indien de uitkeringsgerechtigde op 31 december 2000 verbleef in een verzorgingshuis als bedoeld in [artikel 1, eerste lid, onder b, van de Overgangswet verzorgingshuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0008252&artikel=1) zoals dat luidde voor het vervallen van deze bepaling.
 
 ##### Artikel 15
 
-1. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, bij wie de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag niet hoger is dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), wordt op de uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend die per categorie van uitkeringsgerechtigden verschilt.
+1. Voor de in Nederland gevestigde uitkeringsgerechtigde en de uitkeringsgerechtigde op wie [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, bij wie de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag niet hoger is dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), wordt op de uitkering ten behoeve van de te zijnen laste komende premie van verzekering tegen ziektekosten een bij algemene maatregel van bestuur vastgestelde toeslag verleend die per categorie van uitkeringsgerechtigden verschilt.
 
-2. Voor de niet in Nederland gevestigde uitkeringsgerechtigde, met uitzondering van de uitkeringsgerechtigde op wie [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, bij wie de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag niet hoger is dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), wordt op de uitkering een toeslag verleend gelijk aan het bij de toekenning van de periodieke uitkering eenmalig vast te stellen bedrag van de te zijnen lasten blijvende premie van verzekering tegen ziektekosten, doch ten hoogste tot een bij algemene maatregel van bestuur vast te stellen bedrag.
+2. Voor de niet in Nederland gevestigde uitkeringsgerechtigde, met uitzondering van de uitkeringsgerechtigde op wie [artikel 69, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) van toepassing is, bij wie de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag niet hoger is dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), wordt op de uitkering een toeslag verleend gelijk aan het bij de toekenning van de periodieke uitkering eenmalig vast te stellen bedrag van de te zijnen lasten blijvende premie van verzekering tegen ziektekosten, doch ten hoogste tot een bij algemene maatregel van bestuur vast te stellen bedrag.
 
 3. Het ingevolge het tweede lid vastgestelde bedrag van de ten laste van de uitkeringsgerechtigde blijvende premie van verzekering tegen ziektekosten wordt door de Sociale verzekeringsbank herzien:
 
@@ -314,19 +314,19 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 - d. indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het vastgestelde bedrag gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-4. Indien de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag meer bedraagt dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), wordt de uitkering van de uitkeringsgerechtigde alleen dan vermeerderd met een toeslag wegens de premie van verzekering tegen ziektekosten, indien en voorzover de uitkering minder zou bedragen dan de uitkering, welke is afgeleid van het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) verhoogd met de in het eerste lid bedoelde toeslag.
+4. Indien de overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag meer bedraagt dan het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), wordt de uitkering van de uitkeringsgerechtigde alleen dan vermeerderd met een toeslag wegens de premie van verzekering tegen ziektekosten, indien en voorzover de uitkering minder zou bedragen dan de uitkering, welke is afgeleid van het bedrag, bedoeld in het [zevende lid, onder a, van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) verhoogd met de in het eerste lid bedoelde toeslag.
 
 ##### Artikel 16
 
-1. Indien geen kinderbijslag uit welken hoofde of onder welke benaming ook wordt genoten, wordt op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06) bedoelde uitkering een toeslag verleend voor de minderjarige kinderen waarvoor kinderbijslag zou worden ontvangen, indien de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) van toepassing zou zijn.
+1. Indien geen kinderbijslag uit welken hoofde of onder welke benaming ook wordt genoten, wordt op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01) bedoelde uitkering een toeslag verleend voor de minderjarige kinderen waarvoor kinderbijslag zou worden ontvangen, indien de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) van toepassing zou zijn.
 
 2. Deze toeslag beloopt een bedrag gelijk aan de kinderbijslag ingevolge de in het eerste lid genoemde wet.
 
-3. In afwijking van het tweede lid wordt, indien [artikel 8, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), van toepassing is, de toeslag bepaald op het bedrag aan kindertoelage dat in Indonesië zou worden genoten, indien het beroep of bedrijf waarnaar de grondslag is vastgesteld aldaar zou worden uitgeoefend.
+3. In afwijking van het tweede lid wordt, indien [artikel 8, derde lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), van toepassing is, de toeslag bepaald op het bedrag aan kindertoelage dat in Indonesië zou worden genoten, indien het beroep of bedrijf waarnaar de grondslag is vastgesteld aldaar zou worden uitgeoefend.
 
 ##### Artikel 17
 
-1. Op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06) bedoelde uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt:
+1. Op de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01) bedoelde uitkering wordt, indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt, een toeslag verleend. Deze toeslag bedraagt:
 
 - a. voor de gehuwde uitkeringsgerechtigde 60% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met de vakantie-uitkering, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29);
 
@@ -336,9 +336,9 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 2. De in het eerste lid bedoelde toeslag wordt niet verleend:
 
-- a. indien [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), van toepassing is;
+- a. indien [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), van toepassing is;
 
-- b. aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op enig pensioen en ten aanzien van wie [artikel 19, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-01-06), wordt toegepast.
+- b. aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op enig pensioen en ten aanzien van wie [artikel 19, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-07-01), wordt toegepast.
 
 3. Onder enig pensioen als bedoeld in het tweede lid, onder b, wordt verstaan, een pensioen ten laste van de Nederlandse Schatkist of die van de Nederlandse Antillen of Aruba, van een publiekrechtelijk lichaam of een privaatrechtelijke rechtspersoon in Nederland, de Nederlandse Antillen of Aruba, dan wel ten laste van een door het openbaar gezag in Nederland, de Nederlandse Antillen of Aruba ingesteld fonds, alsmede een uitkering ingevolge deze wet of de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664).
 
@@ -346,25 +346,25 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 1. De uitkering wordt door de Sociale verzekeringsbank aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
-2. De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), en de bedragen genoemd in [artikel 8, zevende lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), en [artikel 10, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06), worden door Onze Minister aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
+2. De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), en de bedragen genoemd in [artikel 8, zevende lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), en [artikel 10, eerste lid, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01), worden door Onze Minister aangepast overeenkomstig de normen en voorwaarden waarmee het bedrag, genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) ingevolge [artikel 14 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) wordt herzien.
 
 3. In afwijking van het eerste lid wordt, indien de vervolging in het voormalige Nederlands-Indië heeft plaats gehad en de uitkeringsgerechtigde in Indonesië gevestigd is, de uitkering door de Sociale verzekeringsbank aangepast indien de lonen en prijzen in Indonesië daartoe aanleiding geven.
 
-4. In afwijking van het tweede lid worden, indien de vervolging in het voormalige Nederlands-Indië heeft plaats gehad en de uitkeringsgerechtigde in Indonesië gevestigd is, de grondslag, bedoeld in [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), en de bedragen genoemd in [artikel 8, achtste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), door Onze Minister aangepast indien de lonen en prijzen in Indonesië daartoe aanleiding geven.
+4. In afwijking van het tweede lid worden, indien de vervolging in het voormalige Nederlands-Indië heeft plaats gehad en de uitkeringsgerechtigde in Indonesië gevestigd is, de grondslag, bedoeld in [artikel 8, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), en de bedragen genoemd in [artikel 8, achtste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), door Onze Minister aangepast indien de lonen en prijzen in Indonesië daartoe aanleiding geven.
 
-5. Bij de aanpassing van een uitkering, bedoeld in het eerste en derde lid, wordt uitgegaan van de laatst vastgestelde dan wel overeenkomstig die leden aangepaste uitkering, waarbij de toeslagen, bedoeld in de [artikelen 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06), en [15, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-01-06) buiten beschouwing worden gelaten.
+5. Bij de aanpassing van een uitkering, bedoeld in het eerste en derde lid, wordt uitgegaan van de laatst vastgestelde dan wel overeenkomstig die leden aangepaste uitkering, waarbij de toeslagen, bedoeld in de [artikelen 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-07-01), en [15, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-07-01) buiten beschouwing worden gelaten.
 
 6. De aanpassing van een uitkering, bedoeld in het eerste en derde lid, vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
 7. De aangepaste uitkering, bedoeld in het zesde lid, wordt betaald bij de eerstvolgende betaling nadat de aanpassing heeft plaatsgevonden.
 
-8. Het bedrag, genoemd in [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-01-06), wordt door Onze Minister telkens herzien met ingang van 1 januari, voor zover de ontwikkeling van de consumentenprijsindex in de periode 1 november tot en met 31 oktober daaraan voorafgaande, daartoe aanleiding geeft.
+8. Het bedrag, genoemd in [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-07-01), wordt door Onze Minister telkens herzien met ingang van 1 januari, voor zover de ontwikkeling van de consumentenprijsindex in de periode 1 november tot en met 31 oktober daaraan voorafgaande, daartoe aanleiding geeft.
 
 9. Een besluit van Onze Minister ingevolge het achtste lid wordt in de **Staatscourant** bekend gemaakt.
 
 ##### Artikel 19
 
-1. Behoudens het bepaalde in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06), worden op de uitkeringen, vermeerderd met de toeslagen als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-01-06) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-01-06), in mindering gebracht:
+1. Behoudens het bepaalde in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-07-01), worden op de uitkeringen, vermeerderd met de toeslagen als bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-07-01), in mindering gebracht:
 
 - a. indien de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, de bruto- inkomsten uit tegenwoordige arbeid in beroep of bedrijf, na aftrek van verwervingskosten, voorzover deze inkomsten 20% van de grondslag waarnaar de uitkering is berekend te boven gaan;
 
@@ -378,15 +378,15 @@ Indien de uitkeringsgerechtigde recht kan doen gelden op twee van de volgende re
 
 3. Met inkomsten uit tegenwoordige arbeid worden gelijkgesteld uitkeringen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), alsmede de daarmede vergelijkbare uitkeringen welke worden verleend aan het overheidspersoneel.
 
-4. Indien toepassing is gegeven aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-01-06&g=2014-01-06) worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06), overtreft.
+4. Indien toepassing is gegeven aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-01-06&g=2014-07-01) worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01), overtreft.
 
-5. De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-01-06), bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2014: € 850,63 per jaar wordt vrijgelaten.
+5. De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-07-01), bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2014: € 850,63 per jaar wordt vrijgelaten.
 
 6. Bij bedrijfsbeëindiging vindt het bepaalde in het eerste lid, onder **c** en het vijfde lid, van dat tijdstip af overeenkomstige toepassing.
 
-7. Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=10) en [11 van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11), de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=9) en [10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=10) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=13) en [14 van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=14), voorzover deze de toeslag, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06), of het bedrag, bedoeld in [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21b&z=2014-01-06&g=2014-01-06), indien dit is toegekend, overschrijdt.
+7. Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=10) en [11 van de Wet buitengewoon pensioen 1940-1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11), de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=9) en [10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=10) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=13) en [14 van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=14), voorzover deze de toeslag, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01), of het bedrag, bedoeld in [artikel 21b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21b&z=2014-01-06&g=2014-07-01), indien dit is toegekend, overschrijdt.
 
-8. Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-01-06), en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met 40% van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), met inbegrip van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), op de uitkering in mindering wordt gebracht.
+8. Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-07-01), en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in [artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9), vermeerderd met 40% van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), met inbegrip van de vakantie-uitkering, bedoeld in [artikel 29 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=29), op de uitkering in mindering wordt gebracht.
 
 9. Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op een uitkering ingevolge deze wet, zijn het eerste tot en met het negende lid van toepassing, met dien verstande dat:
 
@@ -408,15 +408,15 @@ Vervallen
 
 2. De vergoeding wordt eveneens verleend in het geval dat een geneeskundige behandeling of verpleging kan bijdragen tot het voorkomen van ziekten of gebreken als in het eerste lid bedoeld.
 
-3. Indien de in het eerste en tweede lid bedoelde kosten betrekking hebben op verpleging of verzorging van een alleenstaande of een echtpaar in een daartoe bestemde inrichting, en niet met toepassing van een der sociale verzekeringswetten worden betaald, worden deze kosten vergoed voor zover de inkomsten daartoe ontoereikend zijn. Van de inkomsten blijft buiten beschouwing een bedrag ter grootte van de overeenkomstig [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06), vastgestelde uitkering.
+3. Indien de in het eerste en tweede lid bedoelde kosten betrekking hebben op verpleging of verzorging van een alleenstaande of een echtpaar in een daartoe bestemde inrichting, en niet met toepassing van een der sociale verzekeringswetten worden betaald, worden deze kosten vergoed voor zover de inkomsten daartoe ontoereikend zijn. Van de inkomsten blijft buiten beschouwing een bedrag ter grootte van de overeenkomstig [artikel 14, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-07-01), vastgestelde uitkering.
 
 4. Een vergoeding ter zake van de kosten, bedoeld in het eerste tot en met derde lid, wordt slechts verleend voor zover deze niet ten laste kunnen worden gebracht van een zorgverzekering ingevolge de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of een andere ziektekostenverzekering of ten laste daarvan zouden kunnen worden gebracht indien een zodanige verzekering is of zou zijn gesloten. De Raad of de Sociale verzekeringsbank kan van de eerste volzin afwijken, indien, gezien de individuele omstandigheden van de aanvrager, naar het oordeel van de Raad of de Sociale verzekeringsbank daartoe gegronde redenen aanwezig zijn.
 
 ##### Artikel 21
 
-1. In de ten laste van de vervolgde blijvende kosten van voorzieningen verband houdende met ziekten en gebreken als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06), welke voorzieningen strekken tot verbetering van diens levensomstandigheden, kan een tegemoetkoming worden verleend.
+1. In de ten laste van de vervolgde blijvende kosten van voorzieningen verband houdende met ziekten en gebreken als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01), welke voorzieningen strekken tot verbetering van diens levensomstandigheden, kan een tegemoetkoming worden verleend.
 
-2. De tegemoetkoming heeft ten hoogste betrekking op de in het eerste lid bedoelde kosten in zover deze, met inachtneming van de totale financiële omstandigheden van de vervolgde en het levenspeil waarop hij placht te leven vóór het tot uiting komen van de ziekten of gebreken, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06), als bijzondere kosten moeten worden aangemerkt.
+2. De tegemoetkoming heeft ten hoogste betrekking op de in het eerste lid bedoelde kosten in zover deze, met inachtneming van de totale financiële omstandigheden van de vervolgde en het levenspeil waarop hij placht te leven vóór het tot uiting komen van de ziekten of gebreken, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01), als bijzondere kosten moeten worden aangemerkt.
 
 3. De tegemoetkoming in de bijzondere kosten bedoeld in het tweede lid wordt bepaald met inachtneming van de financiële draagkracht van de vervolgde.
 
@@ -424,11 +424,11 @@ Vervallen
 
 ##### Artikel 21a
 
-1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de aard, de ingangsdatum, de duur en de wijze van verstrekken van de voorzieningen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-01-06).
+1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regelen worden gesteld met betrekking tot de aard, de ingangsdatum, de duur en de wijze van verstrekken van de voorzieningen, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-07-01).
 
-2. In afwijking van het eerste lid van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06) en 21 kan aan categorieën vervolgden, die ziekten of gebreken hebben welke door of in verband met de vervolging zijn ontstaan of verergerd, in de kosten van bepaalde voorzieningen een vergoeding of tegemoetkoming worden verleend zonder dat het in die artikelleden bedoelde verband is vereist. Bij algemene maatregel van bestuur worden ter zake regels gesteld.
+2. In afwijking van het eerste lid van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01) en 21 kan aan categorieën vervolgden, die ziekten of gebreken hebben welke door of in verband met de vervolging zijn ontstaan of verergerd, in de kosten van bepaalde voorzieningen een vergoeding of tegemoetkoming worden verleend zonder dat het in die artikelleden bedoelde verband is vereist. Bij algemene maatregel van bestuur worden ter zake regels gesteld.
 
-3. Bij algemene maatregel van bestuur worden regels gesteld betreffende de mogelijkheid om de vergoeding of tegemoetkoming in de kosten van bepaalde voorzieningen als bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-01-06) na het overlijden van de vervolgde, die ziekten of gebreken had welke door of in verband met de vervolging zijn ontstaan of verergerd, gedurende een bepaalde tijd ten gunste van de weduwe of weduwnaar voort te zetten.
+3. Bij algemene maatregel van bestuur worden regels gesteld betreffende de mogelijkheid om de vergoeding of tegemoetkoming in de kosten van bepaalde voorzieningen als bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-07-01) na het overlijden van de vervolgde, die ziekten of gebreken had welke door of in verband met de vervolging zijn ontstaan of verergerd, gedurende een bepaalde tijd ten gunste van de weduwe of weduwnaar voort te zetten.
 
 ##### Artikel 21b
 
@@ -518,7 +518,7 @@ Vervallen
 
 4. Het rapport wordt opgesteld binnen zes weken nadat de opdracht daartoe bij een instantie als bedoeld in het tweede, onderscheidenlijk het derde lid, is ingekomen, met dien verstande dat het rapport binnen vier weken wordt opgesteld, indien de aanvraag betrekking heeft op een vergoeding of een tegemoetkoming. Indien die instantie niet tijdig in het opstellen van het rapport voorziet kan de Raad of de Sociale verzekeringsbank, met instemming van de betrokkene, besluiten op andere wijze informatie omtrent de aard en de gevolgen van de vervolging en de levensomstandigheden van de betrokkene in te winnen.
 
-5. Indien de belanghebbende in het buitenland is gevestigd, wordt het rapport opgesteld onder verantwoordelijkheid van de instantie, waarbij de aanvraag op grond van [artikel 30, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-01-06), moet worden ingediend.
+5. Indien de belanghebbende in het buitenland is gevestigd, wordt het rapport opgesteld onder verantwoordelijkheid van de instantie, waarbij de aanvraag op grond van [artikel 30, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=30&z=2014-01-06&g=2014-07-01), moet worden ingediend.
 
 6. Indien een aanvraag betrekking heeft op een vergoeding of tegemoetkoming behoeft het in het eerste lid bedoelde rapport slechts te worden opgesteld indien de Raad of de Sociale verzekeringsbank dat nodig acht.
 
@@ -528,13 +528,13 @@ Vervallen
 
 ##### Artikel 32
 
-1. Van de beschikking wordt mededeling gedaan aan het orgaan dat het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=31&z=2014-01-06&g=2014-01-06) bedoelde rapport heeft opgesteld.
+1. Van de beschikking wordt mededeling gedaan aan het orgaan dat het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=31&z=2014-01-06&g=2014-07-01) bedoelde rapport heeft opgesteld.
 
 2. Bij de bekendmaking van de beschikking wordt voorlichting gegeven over de procedure en de voor het bezwaarschrift geldende termijn van behandeling.
 
-3. De beschikking op een aanvraag krachtens [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), voor zover de aanvrager niet reeds op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-01-06) als vervolgde is erkend, [artikel 7, eerste lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), voor zover de overledene geen aanspraken op deze wet heeft doen gelden, de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-01-06), voorzover de aanvrager niet eerder aanspraken op deze wet heeft doen gelden, of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-01-06) wordt gegeven binnen zeven maanden na de datum waarop de aanvraag bij de Raad is ingekomen. Indien de Raad ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste acht weken worden verlengd. Van de verlenging doet de Raad schriftelijk mededeling aan de belanghebbende.
+3. De beschikking op een aanvraag krachtens [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), voor zover de aanvrager niet reeds op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-07-01) als vervolgde is erkend, [artikel 7, eerste lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), voor zover de overledene geen aanspraken op deze wet heeft doen gelden, de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-07-01), voorzover de aanvrager niet eerder aanspraken op deze wet heeft doen gelden, of [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-07-01) wordt gegeven binnen zeven maanden na de datum waarop de aanvraag bij de Raad is ingekomen. Indien de Raad ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste acht weken worden verlengd. Van de verlenging doet de Raad schriftelijk mededeling aan de belanghebbende.
 
-4. De beschikking op een aanvraag krachtens [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), voorzover de aanvrager reeds op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-01-06) als vervolgde is erkend, [artikel 7, eerste lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-01-06), voor zover de overledene aanspraken op deze wet heeft doen gelden of de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-01-06) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-01-06), voor zover de aanvrager reeds eerder aanspraken op deze wet heeft doen gelden, wordt gegeven binnen dertien weken na de datum waarop de aanvraag bij de Raad of de Sociale verzekeringsbank is ingekomen.
+4. De beschikking op een aanvraag krachtens [artikel 7, eerste lid, onder **a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), voorzover de aanvrager reeds op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=5&artikel=22&z=2014-01-06&g=2014-07-01) als vervolgde is erkend, [artikel 7, eerste lid, onder **b** en **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=1&artikel=7&z=2014-01-06&g=2014-07-01), voor zover de overledene aanspraken op deze wet heeft doen gelden of de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=20&z=2014-01-06&g=2014-07-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21&z=2014-01-06&g=2014-07-01), voor zover de aanvrager reeds eerder aanspraken op deze wet heeft doen gelden, wordt gegeven binnen dertien weken na de datum waarop de aanvraag bij de Raad of de Sociale verzekeringsbank is ingekomen.
 
 Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstandigheden niet binnen deze termijn kan beslissen, kan hij eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad of de Sociale verzekeringsbank schriftelijk mededeling aan de belanghebbende.
 
@@ -542,7 +542,7 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 ##### Artikel 32a
 
-1. Indien de Raad vier weken voor het verstrijken van de verlengde termijn, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-01-06), onvoldoende gegevens aanwezig acht om tot een beoordeling van de aanvraag te komen en dientengevolge niet in staat is een beschikking te geven, stelt hij de aanvrager gedurende die vier weken in de gelegenheid zijn zienswijze naar voren te brengen.
+1. Indien de Raad vier weken voor het verstrijken van de verlengde termijn, bedoeld in [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-07-01), onvoldoende gegevens aanwezig acht om tot een beoordeling van de aanvraag te komen en dientengevolge niet in staat is een beschikking te geven, stelt hij de aanvrager gedurende die vier weken in de gelegenheid zijn zienswijze naar voren te brengen.
 
 2. [Artikel 4:9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:9) is op het horen van toepassing.
 
@@ -564,25 +564,25 @@ Indien de Raad of de Sociale verzekeringsbank ten gevolge van bijzondere omstand
 
 ##### Artikel 34
 
-1. De uitkering bedoeld in[§ 3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-01-06) gaat in:
+1. De uitkering bedoeld in[§ 3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-07-01) gaat in:
 
 - a. met ingang van de eerste dag van de maand waarin de aanvraag om een uitkering is ingediend, behoudens het bepaalde onder **b** van dit lid;
 
 - b. voor de weduwe, de weduwnaar of de minderjarige volle wees, die, aansluitend aan het overlijden van de uitkeringsgerechtigde die een uitkering ingevolge deze wet genoot, aanspraak op een uitkering maakt, met ingang van de eerste dag van de derde maand volgend op die, waarin het overlijden heeft plaatsgehad.
 
-2. De uitkering bedoeld in [§ 3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-01-06) wordt beëindigd:
+2. De uitkering bedoeld in [§ 3 van hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&z=2014-01-06&g=2014-07-01) wordt beëindigd:
 
 - a. bij overlijden van de uitkeringsgerechtigde die een echtgenoot of minderjarige kinderen achterlaat, met ingang van de eerste dag van de derde maand volgend op die, waarin het overlijden heeft plaatsgehad;
 
 - b. bij overlijden van de uitkeringsgerechtigde die geen echtgenoot of minderjarige kinderen achterlaat, met ingang van de eerste dag van de maand volgend op die, waarin het overlijden heeft plaatsgehad;
 
-- c. bij huwelijk, daaronder begrepen de in [artikel 1a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=1a&z=2014-01-06&g=2014-01-06), bedoelde situatie, van de weduwe of de weduwnaar, die niet als vervolgde recht heeft op een uitkering ingevolge deze wet, met ingang van de eerste dag van de maand, volgend op die waarin daarvan sprake is.
+- c. bij huwelijk, daaronder begrepen de in [artikel 1a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=1a&z=2014-01-06&g=2014-07-01), bedoelde situatie, van de weduwe of de weduwnaar, die niet als vervolgde recht heeft op een uitkering ingevolge deze wet, met ingang van de eerste dag van de maand, volgend op die waarin daarvan sprake is.
 
-3. De uitkering, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-01-06), wordt beëindigd bij het bereiken van de leeftijd van 21 jaar, tenzij [artikel 13, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-01-06), van toepassing is, of bij het aangaan van een huwelijk door de volle wees vóór het bereiken van die leeftijd, daaronder mede begrepen de in [artikel 1a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=1a&z=2014-01-06&g=2014-01-06), bedoelde situatie, met ingang van de eerste dag van de maand, volgend op die, waarin de volle wees de leeftijd van 21 jaar bereikt heeft, onderscheidenlijk het huwelijk heeft plaatsgehad.
+3. De uitkering, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-07-01), wordt beëindigd bij het bereiken van de leeftijd van 21 jaar, tenzij [artikel 13, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-06&g=2014-07-01), van toepassing is, of bij het aangaan van een huwelijk door de volle wees vóór het bereiken van die leeftijd, daaronder mede begrepen de in [artikel 1a, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=I&artikel=1a&z=2014-01-06&g=2014-07-01), bedoelde situatie, met ingang van de eerste dag van de maand, volgend op die, waarin de volle wees de leeftijd van 21 jaar bereikt heeft, onderscheidenlijk het huwelijk heeft plaatsgehad.
 
 ##### Artikel 35
 
-De uitkering, die op grond van [artikel 34, tweede lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-01-06), werd beëindigd, wordt opnieuw verleend, indien het huwelijk is ontbonden. In dat geval gaat de uitkering in op de eerste dag van de maand waarin de hernieuwde aanvraag wordt ingediend.
+De uitkering, die op grond van [artikel 34, tweede lid, onder **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-07-01), werd beëindigd, wordt opnieuw verleend, indien het huwelijk is ontbonden. In dat geval gaat de uitkering in op de eerste dag van de maand waarin de hernieuwde aanvraag wordt ingediend.
 
 ##### Artikel 36
 
@@ -616,9 +616,9 @@ Van alle rechten op grond van het bij of krachtens deze wet bepaalde wordt terst
 
 1. De belanghebbende is verplicht desgevraagd aan de Sociale verzekeringsbank die gegevens te verstrekken, welke voor de uitvoering van de beschikkingen van die Raad noodzakelijk zijn.
 
-2. Zolang de belanghebbende niet voldoet aan het bepaalde in het eerste lid, wordt de beschikking niet uitgevoerd of wordt de uitvoering ervan geschorst. Hiervan doet de Sociale verzekeringsbank mededeling aan de belanghebbende en aan het orgaan dat het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=31&z=2014-01-06&g=2014-01-06) bedoelde rapport heeft opgesteld.
+2. Zolang de belanghebbende niet voldoet aan het bepaalde in het eerste lid, wordt de beschikking niet uitgevoerd of wordt de uitvoering ervan geschorst. Hiervan doet de Sociale verzekeringsbank mededeling aan de belanghebbende en aan het orgaan dat het in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=31&z=2014-01-06&g=2014-07-01) bedoelde rapport heeft opgesteld.
 
-3. Indien de belanghebbende eerst na twee jaar, nadat het recht op een uitkering, een vergoeding of een tegemoetkoming is vastgesteld, de in het eerste lid bedoelde gegevens verstrekt, beslist de Sociale verzekeringsbank of, gelet op alle omstandigheden, de in de beschikking genoemde ingangsdatum kan worden gehandhaafd. Zo nodig stelt de Sociale verzekeringsbank, in afwijking van het bepaalde in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-01-06), dan wel in afwijking van het bepaalde in de algemene maatregel van bestuur, bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21a&z=2014-01-06&g=2014-01-06), een nieuwe ingangsdatum vast.
+3. Indien de belanghebbende eerst na twee jaar, nadat het recht op een uitkering, een vergoeding of een tegemoetkoming is vastgesteld, de in het eerste lid bedoelde gegevens verstrekt, beslist de Sociale verzekeringsbank of, gelet op alle omstandigheden, de in de beschikking genoemde ingangsdatum kan worden gehandhaafd. Zo nodig stelt de Sociale verzekeringsbank, in afwijking van het bepaalde in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-07-01), dan wel in afwijking van het bepaalde in de algemene maatregel van bestuur, bedoeld in [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=4&artikel=21a&z=2014-01-06&g=2014-07-01), een nieuwe ingangsdatum vast.
 
 4. Indien de belanghebbende eerst na twee jaar, nadat de uitvoering van de beschikking werd geschorst, de in het eerste lid bedoelde gegevens verstrekt, beslist de Sociale verzekeringsbank, rekening houdend met alle omstandigheden, of en in hoeverre de uitvoering van zijn beschikking, voor zover deze betrekking heeft op de periode van schorsing, alsnog kan plaatsvinden.
 
@@ -648,7 +648,7 @@ Vervallen
 
 ##### Artikel 43
 
-1. [Artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32b&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing.
+1. [Artikel 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32b&z=2014-01-06&g=2014-07-01) is van overeenkomstige toepassing.
 
 2. In afwijking van [artikel 7:10, eerste, derde en vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de Raad of de Sociale verzekeringsbank binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. Ingeval van bijzondere omstandigheden kan deze termijn eenmaal met ten hoogste vier weken worden verlengd. Van de verlenging doet de Raad of de Sociale verzekeringsbank schriftelijk mededeling aan de belanghebbende.
 
@@ -718,9 +718,9 @@ Vervallen
 
 ##### Artikel 56
 
-1. De uitkering, de toeslagen, bedoeld in de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-01-06) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-01-06), de vergoeding en de tegemoetkoming zijn niet vatbaar voor vervreemding of verpanding.
+1. De uitkering, de toeslagen, bedoeld in de [artikelen 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-07-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=17&z=2014-01-06&g=2014-07-01), de vergoeding en de tegemoetkoming zijn niet vatbaar voor vervreemding of verpanding.
 
-2. De toeslag, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-01-06), de vergoeding en de tegemoetkoming, alsmede de op grond van onderdeel **a** van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-01-06), na overlijden doorlopende uitkering zijn niet vatbaar voor beslag.
+2. De toeslag, bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-01-06&g=2014-07-01), de vergoeding en de tegemoetkoming, alsmede de op grond van onderdeel **a** van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=V&artikel=34&z=2014-01-06&g=2014-07-01), na overlijden doorlopende uitkering zijn niet vatbaar voor beslag.
 
 3. Volmacht tot ontvangst van de uitkering, vergoeding of tegemoetkoming, onder welke vorm of welke benaming ook verleend, is steeds herroepelijk.
 
@@ -738,7 +738,7 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 ##### Artikel 59
 
-1. De uitkering wordt, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag, opnieuw vastgesteld:
+1. De uitkering wordt, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag, opnieuw vastgesteld:
 
 - a. wanneer de uitkeringsgerechtigde of zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt;
 
@@ -748,7 +748,7 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 - d. wanneer een kind of pleegkind van de uitkeringsgerechtigde meerderjarig wordt;
 
-- e. wanneer toepassing wordt gegeven aan [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06);
+- e. wanneer toepassing wordt gegeven aan [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-07-01);
 
 - f. wanneer er sprake is van bedrijfsbeëindiging door de uitkeringsgerechtigde of zijn echtgenoot;
 
@@ -764,15 +764,15 @@ De vervolgde is gehouden medewerking te verlenen aan een medisch onderzoek, indi
 
 ##### Artikel 59a
 
-1. Op aanvraag van de uitkeringsgerechtigde wordt de uitkering, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-01-06) vastgestelde grondslag, opnieuw vastgesteld:
+1. Op aanvraag van de uitkeringsgerechtigde wordt de uitkering, met uitzondering van de op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-01-06&g=2014-07-01) vastgestelde grondslag, opnieuw vastgesteld:
 
 - a. indien de vast te stellen uitkering ten minste 1% van de op de datum van deze aanvraag geldende grondslag hoger is dan de laatst vastgestelde of aangepaste uitkering, mits dit niet uitsluitend het gevolg is van de koersomrekening van inkomsten die door de uitkeringsgerechtigde of zijn echtgenoot worden ontvangen, of;
 
-- b. indien het vermogen van de uitkeringsgerechtigde en zijn echtgenoot door oorzaken gelegen in factoren waarop de uitkeringsgerechtigde geen invloed heeft kunnen uitoefenen, zodanig is verminderd, dat het niet herzien van de laatst vastgestelde inkomsten uit vermogen, bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-01-06), tot een klaarblijkelijke hardheid zou leiden. Bij de beoordeling hiervan wordt rekening gehouden met de totale vermogens- en inkomstenpositie van de uitkeringsgerechtigde en zijn echtgenoot.
+- b. indien het vermogen van de uitkeringsgerechtigde en zijn echtgenoot door oorzaken gelegen in factoren waarop de uitkeringsgerechtigde geen invloed heeft kunnen uitoefenen, zodanig is verminderd, dat het niet herzien van de laatst vastgestelde inkomsten uit vermogen, bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=19&z=2014-01-06&g=2014-07-01), tot een klaarblijkelijke hardheid zou leiden. Bij de beoordeling hiervan wordt rekening gehouden met de totale vermogens- en inkomstenpositie van de uitkeringsgerechtigde en zijn echtgenoot.
 
 2. Indien toepassing is gegeven aan het eerste lid gaat de opnieuw vastgestelde uitkering in op de eerste dag van de maand waarin de aanvraag is ingediend.
 
-3. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-01-06), van overeenkomstige toepassing.
+3. Op een beschikking, voortvloeiende uit de toepassing van het eerste lid, is [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-07-01), van overeenkomstige toepassing.
 
 ##### Artikel 60
 
@@ -788,11 +788,11 @@ Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uit
 
 2. De Raad of de Sociale verzekeringsbank is bevoegd, op daartoe door of vanwege de belanghebbende gedane aanvraag, een door de Raad of de Sociale verzekeringsbank of door de Centrale Raad van Beroep gegeven beschikking dan wel uitspraak in het voordeel van de bij die beschikking dan wel uitspraak betrokkene te herzien.
 
-3. Op een beschikking, voortvloeiende uit de toepassing van het tweede lid, is [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&z=2014-01-06&g=2014-01-06) van overeenkomstige toepassing, met uitzondering van [artikel 32, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-01-06), en [artikel 32**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32a&z=2014-01-06&g=2014-01-06).
+3. Op een beschikking, voortvloeiende uit de toepassing van het tweede lid, is [hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&z=2014-01-06&g=2014-07-01) van overeenkomstige toepassing, met uitzondering van [artikel 32, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32&z=2014-01-06&g=2014-07-01), en [artikel 32**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=IV&artikel=32a&z=2014-01-06&g=2014-07-01).
 
 ##### Artikel 61a
 
-Onverminderd het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59&z=2014-01-06&g=2014-01-06) en [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59a&z=2014-01-06&g=2014-01-06) wordt, indien een ingevolge deze wet gegeven beschikking in het nadeel van de belanghebbende wordt herzien, hetgeen reeds was uitbetaald niet teruggevorderd of verrekend, tenzij:
+Onverminderd het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59&z=2014-01-06&g=2014-07-01) en [59a](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=VIII&artikel=59a&z=2014-01-06&g=2014-07-01) wordt, indien een ingevolge deze wet gegeven beschikking in het nadeel van de belanghebbende wordt herzien, hetgeen reeds was uitbetaald niet teruggevorderd of verrekend, tenzij:
 
 - a. in de herzieningsbeschikking is uitgesproken dat de gebleken onjuistheid van de aan de oorspronkelijke beschikking ten grondslag gelegde feiten was te wijten aan zijn opzet dan wel grove nalatigheid;
 
@@ -810,7 +810,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ##### Artikel 18a
 
-De op grond van de [artikelen 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-01-06), en [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-01-06), bij algemene maatregel van bestuur vastgestelde bedragen worden door Onze Minister herzien naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1).
+De op grond van de [artikelen 14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=14&z=2014-01-06&g=2014-07-01), en [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-06&g=2014-07-01), bij algemene maatregel van bestuur vastgestelde bedragen worden door Onze Minister herzien naar evenredigheid van de ontwikkeling van de standaardpremie, bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=1).
 
 #### § 4. Vergoeding en tegemoetkoming
 
