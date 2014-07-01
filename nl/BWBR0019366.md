@@ -4,7 +4,7 @@ identifier: "BWBR0019366"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-24"
-last_updated: "2014-05-15"
+last_updated: "2014-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019366"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ De minister kan met het oog op de bevordering van de sociale en politieke aspect
 
 ##### Artikel 2.3
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=2&artikel=2.2&z=2014-05-15&g=2014-05-15), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=2&paragraaf=2&artikel=2.2&z=2014-07-01&g=2014-07-01), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. de mondigheid en organisatiegraad van burgers, de pluriformiteit van maatschappelijke organisaties, de mogelijkheden tot betrokkenheid van burgers bij de inrichting van hun maatschappij en het particulier initiatief;
 
@@ -112,7 +112,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 3.2
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.1&z=2014-05-15&g=2014-05-15), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.1&z=2014-07-01&g=2014-07-01), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. directe hulpverlening ter voorziening van de primaire behoeften van slachtoffers, meer in het bijzonder de meest kwetsbaren onder hen, op het terrein van :
 
@@ -150,7 +150,7 @@ Voor subsidie komen niet in aanmerking:
 
 - –. het genereren van inkomen als voornaamste doelstelling hebben en
 
-- c. aanvragen voor een bedrag lager dan € 300.000, uitgezonderd aanvragen met betrekking tot activiteiten, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.2&z=2014-05-15&g=2014-05-15).
+- c. aanvragen voor een bedrag lager dan € 300.000, uitgezonderd aanvragen met betrekking tot activiteiten, bedoeld in [artikel 3.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01).
 
 ##### Artikel 3.4
 
@@ -170,7 +170,7 @@ Voor subsidieverlening op grond van deze afdeling komen uitsluitend in aanmerkin
 
 ##### Artikel 3.5
 
-In aanvulling op de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.2&z=2014-05-15&g=2014-05-15) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.3&z=2014-05-15&g=2014-05-15) blijkt uit aanvragen om subsidie op grond van deze afdeling dat:
+In aanvulling op de [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01) en [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=3&paragraaf=1&artikel=3.3&z=2014-07-01&g=2014-07-01) blijkt uit aanvragen om subsidie op grond van deze afdeling dat:
 
 - a. de activiteiten voldoen aan internationaal gangbare humanitaire hulpprincipes;
 
@@ -266,7 +266,7 @@ Voor de toepassing van deze afdeling wordt verstaand onder:
 
 ##### Artikel 4.5
 
-1. De beoordeling in de eerste fase omvat naast een toets aan de criteria, genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&paragraaf=2&artikel=4.3&z=2014-05-15&g=2014-05-15), een beoordeling van de kwaliteit van de aanvraag aan de hand van een trackrecord en een theory of change.
+1. De beoordeling in de eerste fase omvat naast een toets aan de criteria, genoemd in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&paragraaf=2&artikel=4.3&z=2014-07-01&g=2014-07-01), een beoordeling van de kwaliteit van de aanvraag aan de hand van een trackrecord en een theory of change.
 
 2. Het trackrecord omvat een feitelijk onderbouwde beschrijving van de ervaring en de bereikte resultaten van de organisatie of de alliantie op het terrein van pleiten en beïnvloeden.
 
@@ -400,7 +400,7 @@ In de uiteenzetting over de voorgenomen werkzaamheden komen aan de orde:
 
 ##### Artikel 5.1
 
-De minister kan subsidie verlenen voor andere activiteiten, dan bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&z=2014-05-15&g=2014-05-15), in of ten behoeve van ontwikkelingslanden op het terrein van een of meer van de volgende thema’s:
+De minister kan subsidie verlenen voor andere activiteiten, dan bedoeld in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&z=2014-07-01&g=2014-07-01), in of ten behoeve van ontwikkelingslanden op het terrein van een of meer van de volgende thema’s:
 
 - –. voedselzekerheid,
 
@@ -502,7 +502,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 6.5
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=6&paragraaf=3&artikel=6.4&z=2014-05-15&g=2014-05-15), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=6&paragraaf=3&artikel=6.4&z=2014-07-01&g=2014-07-01), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. samenwerking tussen Nederlandse onderwijsinstellingen en onderwijsinstellingen in ontwikkelingslanden;
 
@@ -522,7 +522,15 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 7.2
 
-De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot of dienstig zijn aan bevordering van duurzame vergroting van werkgelegenheid en economische groei in ontwikkelingslanden door versterking van het bedrijfsleven in die landen of van transacties in het economisch verkeer met een vernieuwend of stimulerend effect op de verbetering van het milieu in ontwikkelingslanden. Voor subsidieverlening in het kader van deze paragraaf komen uitsluitend bedrijven in aanmerking.
+1. De minister kan subsidie verlenen ten behoeve van:
+
+- a. activiteiten die strekken tot of dienstig zijn aan bevordering van een duurzame vergroting van werkgelegenheid en economische groei in ontwikkelingslanden door versterking van het bedrijfsleven in die landen,
+
+- b. transacties in het economisch verkeer met een vernieuwend of stimulerend effect op de verbetering van het milieu in ontwikkelingslanden, en
+
+- c. activiteiten die strekken of dienstig zijn aan de bevordering van de internationale economische betrekkingen en de buitenlandse handel.
+
+2. Voor subsidieverlening in het kader van deze paragraaf komen uitsluitend bedrijven en organisaties gericht op de behartiging van de belangen van het bedrijfsleven in aanmerking.
 
 ##### Artikel 7.3
 
@@ -552,7 +560,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 8.2
 
-1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2014-05-15&g=2014-05-15), komen in aanmerking:
+1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2014-07-01&g=2014-07-01), komen in aanmerking:
 
 - a. bezoekersprogramma’s voor buitenlandse cultuurdeskundigen;
 
@@ -568,7 +576,7 @@ De Minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 8.3
 
-1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2014-05-15&g=2014-05-15), komen in aanmerking:
+1. Voor subsidie met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 8.1, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=8&paragraaf=1&artikel=8.1&z=2014-07-01&g=2014-07-01), komen in aanmerking:
 
 - a. activiteiten gericht op de totstandkoming van cultuuruitingen met name in ontwikkelingslanden door kunstenaars en culturele instellingen afkomstig uit of werkzaam in ontwikkelingslanden,
 
@@ -592,7 +600,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 9.2
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=1&artikel=9.1&z=2014-05-15&g=2014-05-15), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=1&artikel=9.1&z=2014-07-01&g=2014-07-01), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. publieksvoorlichting in brede zin en voorlichting gericht op specifieke doelgroepen;
 
@@ -616,7 +624,7 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ##### Artikel 9.4
 
-Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=2&artikel=9.3&z=2014-05-15&g=2014-05-15), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
+Met het oog op en binnen het raam van de doelstellingen, genoemd in [artikel 9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=9&paragraaf=2&artikel=9.3&z=2014-07-01&g=2014-07-01), komen voor subsidie in aanmerking activiteiten gericht op of ter bevordering van:
 
 - a. publieksvoorlichting in brede zin en voorlichting gericht op specifieke doelgroepen;
 
@@ -638,7 +646,7 @@ Voor de toepassing van deze afdeling wordt onder publiek private samenwerking ve
 
 1. De minister kan subsidie verlenen met het oog op de uitvoering van activiteiten, bedoeld in deze regeling, verricht in het kader van publiek private samenwerking.
 
-2. De minister kan daarbij buiten toepassing laten het ten aanzien van subsidiëring van de desbetreffende activiteiten vastgestelde subsidieplafond, het bepaalde ingevolge [artikel 7, tweede lid, van het Subsidiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7), de [artikelen 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&paragraaf=3&artikel=4.5&z=2014-05-15&g=2014-05-15) en [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&afdeling=4&paragraaf=3&artikel=4.6&z=2014-05-15&g=2014-05-15) en het in deze regeling bepaalde ten aanzien van de hoedanigheid van de subsidieontvanger.
+2. De minister kan daarbij buiten toepassing laten het ten aanzien van subsidiëring van de desbetreffende activiteiten vastgestelde subsidieplafond, het bepaalde ingevolge [artikel 7, tweede lid, van het Subsidiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7) alsmede bepalingen van deze regeling.
 
 3. De subsidie wordt in de vorm van een activiteitensubsidie verleend, in voorkomend geval in aanvulling op een reeds aan dezelfde ontvanger verleende instellingssubsidie. De subsidieontvanger draagt zorg voor een zodanig beheer van de desbetreffende subsidiegelden dat gewaarborgd is dat de subsidie uitsluitend wordt besteed voor de activiteiten waarvoor zij is bestemd en dat daarvan afzonderlijk verslag kan worden gedaan.
 
