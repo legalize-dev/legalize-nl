@@ -4,7 +4,7 @@ identifier: "BWBR0035277"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-07-04"
-last_updated: "2014-05-01"
+last_updated: "2014-07-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035277"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **de minister:** de Minister van Economische Zaken;
 
-- b. **ICR:** de Interdepartementale commissie ruimtevaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035277&artikel=2&z=2014-07-04&g=2014-05-01);
+- b. **ICR:** de Interdepartementale commissie ruimtevaart, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035277&artikel=2&z=2014-07-04&g=2014-07-04);
 
 - c. **Convenant:** het Convenant ter oprichting van een Netherlands Space Office (Stcrt. 2008, 217);
 
@@ -110,7 +110,7 @@ De ICR kan, al dan niet uit haar midden, voor bepaalde onderwerpen werkgroepen i
 
 ##### Artikel 6
 
-De ICR stelt haar eigen werkwijze schriftelijk vast en de werkwijze van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035277&artikel=5&z=2014-07-04&g=2014-05-01) bedoelde werkgroepen.
+De ICR stelt haar eigen werkwijze schriftelijk vast en de werkwijze van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035277&artikel=5&z=2014-07-04&g=2014-07-04) bedoelde werkgroepen.
 
 ##### Artikel 7
 
