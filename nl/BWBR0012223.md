@@ -4,7 +4,7 @@ identifier: "BWBR0012223"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2014-06-28"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012223"
 soort: "AMvB"
@@ -104,7 +104,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het onder oorlogsnabootsende omstandigheden in praktijk brengen van theoretisch onderwezen bekwaamheden teneinde aldus de bedrevenheid in het uitvoeren van oorlogstaken te verwerven, op te voeren of te onderhouden, voor zover sprake is van een verhoogd risico;
 
-- b. afzonderlijk door Onze Minister te bepalen gevallen die bijzonder van aard zijn en waarbij een verhoogd risico aanwezig is;
+- b. gevaarzettende situaties die rechtstreeks verband houden met de uitvoering van zijn taak waaraan de militair zich vanwege zijn specifieke functie niet kan onttrekken;
+
+- c. afzonderlijk door Onze Minister te bepalen gevallen die bijzonder van aard zijn en waarbij een verhoogd risico aanwezig is;
 
 een en ander voor zover de gebruikelijke veiligheidsmaatregelen ter bescherming van de gezondheid geheel of gedeeltelijk door de Commandant Zeestrijdkrachten, de Commandant Landstrijdkrachten, de Commandant Luchtstrijdkrachten, of de Commandant Koninklijke Marechaussee buiten werking zijn gesteld.
 
@@ -164,7 +166,7 @@ bij een arbeidsongeschiktheid van:
 
 ##### Artikel 4. Het garantiepensioen
 
-De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de suppletie en de arbeidsongeschiktheidsuitkering waarop ingevolge de voorgaande artikelen, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-06-28&g=2014-06-28), de [suppletieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008977) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) aanspraak bestaat, is over enige betalingstermijn niet lager dan het aan dezelfde militaire betrekking te ontlenen ouderdomspensioen krachtens het pensioenreglement, zonder toepassing van de daarbij te hanteren franchise berekend naar de op het moment van ontslag uit die betrekking aan te wijzen diensttijd. Indien de betreffende som lager is dan dat ouderdomspensioen heeft de belanghebbende bij wijze van garantiepensioen recht op het verschil.
+De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de suppletie en de arbeidsongeschiktheidsuitkering waarop ingevolge de voorgaande artikelen, [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-07-05&g=2014-07-05), de [suppletieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008977) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) aanspraak bestaat, is over enige betalingstermijn niet lager dan het aan dezelfde militaire betrekking te ontlenen ouderdomspensioen krachtens het pensioenreglement, zonder toepassing van de daarbij te hanteren franchise berekend naar de op het moment van ontslag uit die betrekking aan te wijzen diensttijd. Indien de betreffende som lager is dan dat ouderdomspensioen heeft de belanghebbende bij wijze van garantiepensioen recht op het verschil.
 
 ##### Artikel 5. Kortingen en beperkingen met betrekking tot het arbeidsongeschiktheidspensioen
 
@@ -176,7 +178,7 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 ##### Artikel 6. Verhoging tot minimumloon
 
-1. Indien de som van het krachtens de voorgaande artikelen vastgestelde arbeidsongeschiktheidspensioen en de andere inkomsten uit of in verband met arbeid of bedrijf van de rechthebbende, met uitzondering van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-06-28&g=2014-06-28) bedoelde bijzondere invaliditeitsverhoging, de aan zijn arbeidsongeschiktheid, invaliditeit met dienstverband of werkloosheid te relateren andere inkomsten daaronder begrepen, minder bedraagt dan het op enig moment geldend en met de daarbij behorende vakantie-uitkering verhoogde wettelijk minimumloon voor een volwassene op jaarbasis, wordt dat pensioen verhoogd met het bedrag dat nodig is om die som tot dat minimumloon te verhogen.
+1. Indien de som van het krachtens de voorgaande artikelen vastgestelde arbeidsongeschiktheidspensioen en de andere inkomsten uit of in verband met arbeid of bedrijf van de rechthebbende, met uitzondering van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-07-05&g=2014-07-05) bedoelde bijzondere invaliditeitsverhoging, de aan zijn arbeidsongeschiktheid, invaliditeit met dienstverband of werkloosheid te relateren andere inkomsten daaronder begrepen, minder bedraagt dan het op enig moment geldend en met de daarbij behorende vakantie-uitkering verhoogde wettelijk minimumloon voor een volwassene op jaarbasis, wordt dat pensioen verhoogd met het bedrag dat nodig is om die som tot dat minimumloon te verhogen.
 
 2. De in het eerste lid bedoelde verhoging bedraagt niet meer dan het verschil tussen enerzijds de voor de berekening van het arbeidsongeschiktheidspensioen geldende berekeningsgrondslag en anderzijds de som van dat pensioen en de aan dezelfde militaire betrekking te ontlenen arbeidsongeschiktheidsuitkering en tevens niet meer dan 30 procent van het in het eerste lid bedoelde minimumloon.
 
@@ -194,17 +196,43 @@ De som van het arbeidsongeschiktheidspensioen, het invaliditeitspensioen, de sup
 
 ##### Artikel 8. De bijzondere invaliditeitsverhoging
 
-1. De beroepsmilitair met een recht op invaliditeitspensioen heeft recht op een bijzondere invaliditeitsverhoging van:
+1. De beroepsmilitair met een recht op invaliditeitspensioen wiens ontslag heeft plaatsgevonden vóór 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
 
-- a. 40 procent van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-06-28&g=2014-06-28) bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan dat recht op pensioen wordt ontleend 100 procent bedraagt,
+- a. 40 procent van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-07-05&g=2014-07-05) bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan.
 
-- b. 30 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 80 maar minder dan 100 procent bedraagt,
+- b. dat recht op pensioen wordt ontleend 100 procent bedraagt,
 
-- c. 20 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 60 maar minder dan 80 procent bedraagt,
+- c. 30 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 80 maar minder dan 100 procent bedraagt,
 
-- d. 10 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 40 maar minder dan 60 procent bedraagt,
+- d. 20 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 60 maar minder dan 80 procent bedraagt,
 
-- e. 5 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 20 maar minder dan 40 procent bedraagt,
+- e. 10 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 40 maar minder dan 60 procent bedraagt,
+
+- f. 5 procent van die berekeningsgrondslag indien die mate van invaliditeit ten minste 20 maar minder dan 40 procent bedraagt,
+
+en daling van die percentages voor de toekomst niet aannemelijk wordt geacht.
+
+De beroepsmilitair met een recht op een invaliditeitspensioen wiens ontslag heeft plaatsgevonden op of na 1 juli 2007 heeft recht op een bijzondere invaliditeitsverhoging van:
+
+- a. 40 procent van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-07-05&g=2014-07-05) bedoelde berekeningsgrondslag indien de mate van invaliditeit met dienstverband waaraan dat recht op pensioen wordt ontleend 100 procent bedraagt,
+
+- b. 35 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 90 maar minder dan 100 procent bedraagt,
+
+- c. 30 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 80 maar minder dan 90 procent bedraagt,
+
+- d. 25 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 70 maar minder dan 80 procent bedraagt,
+
+- e. 20 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 60 maar minder dan 70 procent bedraagt,
+
+- f. 15 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 50 maar minder dan 60 procent bedraagt,
+
+- g. 10 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 40 maar minder dan 50 procent bedraagt,
+
+- h. 7,5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 30 maar minder dan 40 procent bedraagt,
+
+- i. 5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 20 maar minder dan 30 procent bedraagt,
+
+- j. 2,5 procent van die berekeningsgrondslag indien de mate van invaliditeit ten minste 10 maar minder dan 20 procent bedraagt,
 
 en daling van die percentages voor de toekomst niet aannemelijk wordt geacht.
 
@@ -278,7 +306,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 15 tot 25%: 15,00%
 
-2. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=4&z=2014-06-28&g=2014-06-28), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2014-06-28&g=2014-06-28) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=6&z=2014-06-28&g=2014-06-28) zijn op de in het eerste lid bedoelde verhoging van overeenkomstige toepassing.
+2. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=4&z=2014-07-05&g=2014-07-05), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2014-07-05&g=2014-07-05) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=6&z=2014-07-05&g=2014-07-05) zijn op de in het eerste lid bedoelde verhoging van overeenkomstige toepassing.
 
 3. De in het eerste lid bedoelde verhoging behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.
 
@@ -286,11 +314,11 @@ bij een mate van arbeidsongeschiktheid van:
 
 1. De dienstplichtige of reservist bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld die is ontstaan in het met een ontslag als zodanig beëindigde tijdvak van zijn werkelijke dienst, heeft recht op een invaliditeitspensioen.
 
-2. De in het eerste lid bedoelde gewezen militair heeft naar de daartoe in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-06-28&g=2014-06-28) neergelegde normen en voorwaarden recht op een bijzondere invaliditeitsverhoging.
+2. De in het eerste lid bedoelde gewezen militair heeft naar de daartoe in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-07-05&g=2014-07-05) neergelegde normen en voorwaarden recht op een bijzondere invaliditeitsverhoging.
 
-3. De in het eerste en tweede lid bedoelde rechten worden vastgesteld met overeenkomstige toepassing van [artikel 7, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-06-28&g=2014-06-28) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-06-28&g=2014-06-28).
+3. De in het eerste en tweede lid bedoelde rechten worden vastgesteld met overeenkomstige toepassing van [artikel 7, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-07-05&g=2014-07-05) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-07-05&g=2014-07-05).
 
-4. Het invaliditeitspensioen voor de dienstplichtige of reservist wordt uitbetaald voor zover het de som van de aan dezelfde dienstverhouding te ontlenen uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) en de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2014-06-28&g=2014-06-28) bedoelde verhoging daarvan overschrijdt.
+4. Het invaliditeitspensioen voor de dienstplichtige of reservist wordt uitbetaald voor zover het de som van de aan dezelfde dienstverhouding te ontlenen uitkering ingevolge de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) en de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2014-07-05&g=2014-07-05) bedoelde verhoging daarvan overschrijdt.
 
 5. Het in het eerste lid bedoelde invaliditeitspensioen behoort niet tot de inkomsten die ingevolge de kortingsbepalingen van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) of een daarmee vergelijkbare andere wettelijke regeling op een arbeidsongeschiktheidsuitkering kunnen worden gekort.
 
@@ -316,7 +344,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 ##### Artikel 13. Uitkering bij overlijden
 
-1. Zo spoedig mogelijk na het overlijden van de rechthebbende op een pensioen, een pensioenverhoging of een herplaatsingtoelage wordt aan de partner van wie hij niet duurzaam gescheiden leefde een uitkering toegekend gelijk aan het totaal van de aanspraken op het overlijdensmoment over een tijdvak van twee maanden. Bij de vaststelling van de uitkering wordt [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=3&z=2014-06-28&g=2014-06-28), niet toegepast. Een overlijdensuitkering op grond van het genot van de in dat lid bedoelde arbeidsongeschiktheidsuitkering wordt op het gevonden bedrag in mindering gebracht.
+1. Zo spoedig mogelijk na het overlijden van de rechthebbende op een pensioen, een pensioenverhoging of een herplaatsingtoelage wordt aan de partner van wie hij niet duurzaam gescheiden leefde een uitkering toegekend gelijk aan het totaal van de aanspraken op het overlijdensmoment over een tijdvak van twee maanden. Bij de vaststelling van de uitkering wordt [artikel 3, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=3&z=2014-07-05&g=2014-07-05), niet toegepast. Een overlijdensuitkering op grond van het genot van de in dat lid bedoelde arbeidsongeschiktheidsuitkering wordt op het gevonden bedrag in mindering gebracht.
 
 2. Bij ontstentenis van een partner als bedoeld in het eerste lid komt de overlijdensuitkering toe aan de wezen die ingevolge het pensioenreglement of het [Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222) aan het overlijden recht op wezenpensioen kunnen ontlenen.
 
@@ -328,9 +356,9 @@ bij een mate van arbeidsongeschiktheid van:
 
 ##### Artikel 14. Indexering
 
-1. De berekeningsgrondslagen worden overeenkomstig in hoofdstuk 12 van het pensioenreglement aangepast aan de algemene bezoldigingswijzigingen van het overheidspersoneel. De pensioenen, verhogingen en toelagen, de verhoging, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-06-28&g=2014-06-28), uitgezonderd, worden aan de hand van die aangepaste berekeningsgrondslagen herberekend.
+1. De berekeningsgrondslagen worden overeenkomstig in hoofdstuk 12 van het pensioenreglement aangepast aan de algemene bezoldigingswijzigingen van het overheidspersoneel. De pensioenen, verhogingen en toelagen, de verhoging, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=8&z=2014-07-05&g=2014-07-05), uitgezonderd, worden aan de hand van die aangepaste berekeningsgrondslagen herberekend.
 
-2. Het eerste lid is van overeenkomstige toepassing op de bedragen, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-06-28&g=2014-06-28), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2014-06-28&g=2014-06-28), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2014-06-28&g=2014-06-28).
+2. Het eerste lid is van overeenkomstige toepassing op de bedragen, genoemd in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=7&z=2014-07-05&g=2014-07-05), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2014-07-05&g=2014-07-05), en [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2014-07-05&g=2014-07-05).
 
 ##### Artikel 15. Toekenning
 
@@ -350,7 +378,7 @@ bij een mate van arbeidsongeschiktheid van:
 
 - c. indien het onderzoek naar de mate van invaliditeit met dienstverband uitwijst dat het berekeningspercentage moet worden verlaagd, met ingang van de eerste dag van de maand volgende op die waarin aan de belanghebbende het bericht van die verlaging is verzonden.
 
-6. Bij de toepassing van dit artikel wordt uitgegaan van bedragen die overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=14&z=2014-06-28&g=2014-06-28) en de daaraan voorafgaande vergelijkbare regels zijn gebracht op het niveau van het moment van toekenning.
+6. Bij de toepassing van dit artikel wordt uitgegaan van bedragen die overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=14&z=2014-07-05&g=2014-07-05) en de daaraan voorafgaande vergelijkbare regels zijn gebracht op het niveau van het moment van toekenning.
 
 ##### Artikel 16. Einde
 
@@ -388,15 +416,15 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 - 2e. Indien het recht op een bijzondere invaliditeitsverhoging wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt dat recht uitsluitend getoetst naar hetgeen daarvoor geldt op de peildatum.
 
-- 3e. Indien het recht op pensioen van de dienstplichtige of reservist wordt ontleend aan een periode van werkelijke dienst die is afgesloten met een voor 1 januari 1998 liggend ontslag, wordt [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2014-06-28&g=2014-06-28), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2014-06-28&g=2014-06-28), buiten toepassing gelaten.
+- 3e. Indien het recht op pensioen van de dienstplichtige of reservist wordt ontleend aan een periode van werkelijke dienst die is afgesloten met een voor 1 januari 1998 liggend ontslag, wordt [artikel 11, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=11&z=2014-07-05&g=2014-07-05), en [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=12&z=2014-07-05&g=2014-07-05), buiten toepassing gelaten.
 
-- 4e. Indien het recht op pensioen wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2014-06-28&g=2014-06-28), buiten toepassing gelaten en wordt de vraag of op het pensioen moet worden gekort uitsluitend, rekening houdend met het bij die artikelen behorende overgangsrecht, getoetst naar hetgeen daarvoor geldt op de peildatum.
+- 4e. Indien het recht op pensioen wordt ontleend aan een met een voor 1 januari 1998 liggend ontslag afgesloten periode van militaire dienst, wordt [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=2&artikel=5&z=2014-07-05&g=2014-07-05), buiten toepassing gelaten en wordt de vraag of op het pensioen moet worden gekort uitsluitend, rekening houdend met het bij die artikelen behorende overgangsrecht, getoetst naar hetgeen daarvoor geldt op de peildatum.
 
 - 5e. Indien aan de gewezen militair een vast pensioenbedrag is toegekend, bedoeld in de artikelen E 3 en E 4 van de Algemene militaire pensioenwet, zoals die artikelen daags voor intrekking luidden, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
 
 - 6e. Indien aan de gewezen dienstplichtige of reservist in verband met een ontslag ter zake van ziekten of gebreken een naar diensttijd te berekenen pensioen was toegekend, wordt dat pensioen naar dezelfde normen en voorwaarden opnieuw toegekend, en, waar mogelijk, op het krachtens dit besluit toe te kennen invaliditeitspensioen in mindering gebracht.
 
-- 7e. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2014-06-28&g=2014-06-28) wordt buiten toepassing gelaten indien de daar bedoelde dienstplichtige of reservist voor 1 januari 1998 als zodanig is ontslagen.
+- 7e. [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=3&artikel=10&z=2014-07-05&g=2014-07-05) wordt buiten toepassing gelaten indien de daar bedoelde dienstplichtige of reservist voor 1 januari 1998 als zodanig is ontslagen.
 
 - 8e. De vast te stellen mate van invaliditeit met dienstverband die wordt ontleend aan een periode van werkelijke die voor 1 januari 1966 met een ontslag is beëindigd, wordt naar boven afgerond op veelvouden van 10.
 
@@ -408,13 +436,13 @@ De betaling van de pensioenen, toeslagen, verhogingen en toelagen geschiedt in m
 
 1. Indien een lopende aanspraak op pensioen ter zake van ziekten of gebreken krachtens een vroegere regeling is omgezet naar een vergelijkbare aanspraak ingevolge dit besluit en die aanspraak een lager bruto totaalbedrag oplevert dan dat waarop voor die omzetting recht bestond, heeft de belanghebbende recht op een toeslag ten bedrage van het verschil. De betreffende toeslag wordt uitgedrukt in een percentage van het na omzetting gevonden totale pensioenbedrag. Dit verhogingspercentage wordt op het pensioen ingevolge dit besluit toegepast zolang de aanspraak daarop ononderbroken voortduurt.
 
-2. Bij de toepassing van het eerste lid wordt de toeslag, bedoeld in [artikel 19, onder 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=5&artikel=19&z=2014-06-28&g=2014-06-28), tot het pensioen gerekend.
+2. Bij de toepassing van het eerste lid wordt de toeslag, bedoeld in [artikel 19, onder 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=5&artikel=19&z=2014-07-05&g=2014-07-05), tot het pensioen gerekend.
 
 #### Paragraaf 6. Andere voorzieningen in verband met arbeidsongeschiktheid of invaliditeit
 
 ##### Artikel 21. Voorzieningen en verstrekkingen
 
-In aanvulling op de bij of krachtens de[Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) en de[Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-06-28&g=2014-06-28), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
+In aanvulling op de bij of krachtens de[Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565), de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) en de[Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) gestelde regels, kan Onze Minister ten behoeve van de beroepsmilitair, de dienstplichtige, de reservist en de militair met een recht of uitzicht op pensioen krachtens dit besluit, die lijdt aan een ziekte of gebrek waarvoor in de zin van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05), verband met de uitoefening van de militaire dienst is aangenomen, nadere en zonodig afwijkende regels stellen op grond waarvan genoemde militairen dan wel gewezen militairen in aanmerking kunnen worden gebracht voor, naar het oordeel van Onze Minister, noodzakelijke voorzieningen tot behoud of herstel van de arbeidsgeschiktheid of die de arbeidsgeschiktheid bevorderen, voorzieningen ter verbetering van de levensomstandigheden en geneeskundige verstrekkingen. De door Onze Minister krachtens dit artikel te stellen regels mogen niet afwijken ten nadele van de belanghebbenden.
 
 #### Paragraaf 7. Slotbepalingen
 
@@ -434,13 +462,29 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a. Volledige schadevergoeding
 
-Dit onderdeel is nog niet inwerking getreden
+1. De beroepsmilitair die op of na 1 juli 2007 is ontslagen en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+2. De beroepsmilitair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
+
+4. De aanspraak op een schadevergoeding ingevolge het eerste of tweede lid, wordt eenmalig vastgesteld en, in afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2014-07-05&g=2014-07-05), niet meer aangepast.
+
+5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
 
 #### Paragraaf 3. Aanspraken voor de dienstplichtige en reservist
 
 ##### Artikel 11a. Volledige schadevergoeding
 
-Dit onderdeel is nog niet inwerking getreden
+1. De reservist die op of na 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie een bepaalde mate van invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+2. De reservist die voor 1 juli 2007 is ontslagen of de dienstplichtige wiens dienstplicht op of na 1 juli 2007 is geëindigd en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe op of na 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld na het bereiken van een medische eindtoestand, heeft recht op een volledige vergoeding van de schade die hij ten gevolge daarvan lijdt. In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=1&artikel=2&z=2014-07-05&g=2014-07-05), is hiervoor niet een mate van invaliditeit van ten minste 10% vereist.
+
+3. Bij de vaststelling van de omvang van de volledige schadevergoeding wordt rekening gehouden met de aanspraken op grond van de militaire rechtspositie en andere uitkeringen welke in verband staan met de invaliditeit met dienstverband, uitgezonderd de bijzondere invaliditeitsverhoging.
+
+4. De aanspraak op een schadevergoeding ingevolge het eerste en tweede lid, wordt eenmalig vastgesteld en, in afwijking [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2014-07-05&g=2014-07-05), niet meer aangepast.
+
+5. Onze Minister kan nadere voorschriften geven ten aanzien van de uitvoering van dit artikel.
 
 #### Paragraaf 4. Gemeenschappelijke bepalingen
 
@@ -452,7 +496,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a. Bijzondere uitkering
 
-Dit onderdeel is nog niet inwerking getreden
+1. De gewezen militair die voor 1 juli 2007 is ontslagen en bij wie als gevolg van inzet tijdens oorlogsomstandigheden of een crisisbeheersingsoperatie op een daartoe voor 1 juni 2012 gedane eerste aanvraag, invaliditeit met dienstverband is vastgesteld, heeft aanspraak op een eenmalige bijzondere uitkering.
+
+2. Het bedrag van de bijzondere uitkering is gelijk aan een percentage van de grondslag overeenkomend met de mate van invaliditeit.
+
+3. Een mate van invaliditeit van minder dan 10% wordt voor de toekenning van de bijzondere uitkering afgerond op 5%.
+
+4. In afwijking van het tweede en derde lid is het bedrag van de bijzondere uitkering gelijk aan een percentage van de grondslag overeenkomend met de mate van arbeidsongeschiktheid met dienstverband indien deze hoger is dan de mate van invaliditeit met dienstverband.
+
+5. Voor de vaststelling van de bijzondere uitkering wordt de definitieve mate van invaliditeit of de mate van arbeidsongeschiktheid met dienstverband gehanteerd op de peildatum, 1 juni 2012. Indien er op het moment van de peildatum nog geen definitieve mate van invaliditeit is vastgesteld, dan wordt de bijzondere uitkering vastgesteld nadat, vanwege het bereiken van een medische eindtoestand, de definitieve mate van invaliditeit is vastgesteld.
+
+6. De bijzondere uitkering wordt eenmalig vastgesteld. In afwijking van [artikel 15 vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&paragraaf=4&artikel=15&z=2014-07-05&g=2014-07-05) leidt een latere wijziging in de mate van invaliditeit of arbeidsongeschiktheid met dienstverband niet tot aanpassing van de bijzondere uitkering.
+
+7. In voorkomend geval wordt de mate van arbeidsongeschiktheid met dienstverband bepaald op het hoogste percentage van de toepasselijke arbeidsongeschiktheidsklasse als bedoeld in [artikel 21 tweede lid van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=21).
+
+8. De grondslag van de bijzondere uitkering is € 125.000,–.
+
+9. In afwijking van artikel 17 wordt de bijzondere uitkering in een keer uitbetaald.
+
+10. In het geval dat de gewezen militair een schadevergoeding heeft ontvangen voor zijn invaliditeit met dienstverband als bedoeld in het eerste lid bedraagt de bijzondere uitkering slechts het meerdere boven het totaal van de reeds ontvangen materiële schadevergoeding.
+
+11. De over de bijzondere uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) en premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) komen ten laste van het Rijk.
 
 #### Paragraaf 7. Slotbepalingen
 
