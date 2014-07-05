@@ -4,7 +4,7 @@ identifier: "BWBR0012681"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-08"
-last_updated: "2014-05-31"
+last_updated: "2014-07-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012681"
 soort: "ministeriele-regeling"
@@ -92,7 +92,11 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - u. voor deelname aan de European Union Police Mission voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Bosnië-Herzegowina, vanaf september 2002 en voor zover deze deelname heeft plaatsgehad op het grondgebied van de Republiek Macedonië, vanaf december 2003: EUPM;
 
-- v. voor deelname aan de Nederlandse operatie Tulip Guardian van 8 februari 2003 tot 4 maart 2003 danwel voor deelname aan de NAVO operatie Display Deterrence vanaf 4 maart 2003 i.v.m. de stationering van Patriot raketten ter ondersteuning van Turkije: LUCHTVERDEDIGING TURKIJE;
+- v. voor deelname aan:
+
+- 1°. de Nederlandse operatie Tulip Guardian van 8 februari 2003 tot 4 maart 2003 dan wel voor deelname aan de NAVO-operatie Display Deterrence vanaf 4 maart 2003 in verband met de stationering van Patriotraketten ter ondersteuning van Turkije;
+
+- 2°. de NAVO-operatie Patriot missie Active Fence, 1(NL) Ballistic Missile Defence Task Force, voor zover deze deelname heeft plaatsgevonden op en rondom Incirlik Airbase te Adana, Turkije, vanaf 21 januari 2013: LUCHTVERDEDIGING TURKIJE;
 
 - w. voor deelname aan een uitzending in het kader van een Mine Action Center, waar ook ter wereld, vanaf september 2002: MINE ACTION CENTER;
 
@@ -146,9 +150,7 @@ Als gespen behorende bij de Herinneringsmedaille Vredesoperaties worden ingestel
 
 - 5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin;
 
-- 6°. de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011;
-
-- 7°. de Patriot missie Active Fence, 1(NL) Ballistic Missile Defence Task Force, voor zover deze deelname heeft plaatsgevonden op en rondom Incirlik Airbase te Adana, Turkije, vanaf 21 januari 2013: NAVO OPERATIES;
+- 6°. de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;
 
 - ee. voor deelname aan operaties van de Europese Unie:
 
