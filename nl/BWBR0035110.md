@@ -4,7 +4,7 @@ identifier: "BWBR0035110"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-07-10"
-last_updated: "2014-05-05"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035110"
 soort: "ministeriele-regeling"
@@ -272,13 +272,13 @@ Tussen 1–30 september worden de aanvragen voor een strategisch partnerschap op
 
 De aanvragen van de organisaties of allianties die aan alle drempelcriteria voldoen worden verder beoordeeld aan de hand van de maatstaven voor de kwaliteit van hun track record en ‘**Theory of Change**’. Besluitvorming over de selectie van de partners vindt plaats op uiterlijk 31 januari 2015.
 
-### Annex. Aanvraagstramien ‘Samenspraak en tegenspraak’ strategische partnerschappen voor pleiten en beinvloeden
+### Herzien aanvraagstramien ‘Samenspraak en tegenspraak’ strategische partnerschappen voor pleiten en beinvloeden
 
 ### Inleiding
 
 Voor u ligt het aanvraagstramien voor de **selectie van partners ten behoeve van het aangaan van strategische partnerschappen in het kader van pleiten en beïnvloeden.**
 
-Ten grondslag aan dit aanvraagstramien liggen de beleidsregels zoals die gepubliceerd in zijn in bovengenoemd besluit. Het aanvraagstramien maakt onderdeel uit van het beleidskader, aanvragers zijn **verplicht** dit aanvraagstramien te gebruiken bij hun voorstel om in aanmerking te komen voor een strategisch partnerschap.
+Ten grondslag aan dit aanvraagstramien liggen de beleidsregels zoals die gepubliceerd in zijn in bovengenoemd besluit. Het aanvraagstramien maakt onderdeel uit van het beleidskader, aanvragers zijn **verplicht**dit aanvraagstramien te gebruiken bij hun voorstel om in aanmerking te komen voor een strategisch partnerschap.
 
 Per voorstel dient één aanvraagstramien te worden ingevuld en ingediend, voorzien van de in dit stramien genoemde bijlagen.
 
@@ -292,21 +292,21 @@ Voor de wijze van beoordeling van de ingediende voorstellen en de bijbehorende p
 
 ### Indiening van de voorstellen
 
-Indien u uw voorstel digitaal aanlevert, dient u het te zenden naar samen-tegenspraak@minbuza.nl o.v.v. tender ‘Samenspraak en tegenspraak’, Strategische partnerschappen voor pleiten en beïnvloeden 2016–2020.
+Indien u uw voorstel digitaal aanlevert, dient u het te zenden naar samen-tegenspraak@minbuza.nl o.v.v. tender ‘Samenspraak en tegenspraak’, Strategische partnerschappen voor pleiten en beïnvloeden 2016-2020.
 
-Originele papieren versies dient u te sturen aan het Ministerie van Buitenlandse Zaken t.a.v. DSO/MO, Bezuidenhoutseweg 67, 2594 AC ’s-Gravenhage, o.v.v. tender strategisch partnerschap pleiten en beïnvloeden 2016–2020.
+Originele papieren versies dient u te sturen aan het Ministerie van Buitenlandse Zaken t.a.v. DSO/MO, Bezuidenhoutseweg 67, 2594 AC ’s-Gravenhage, o.v.v. tender strategisch partnerschap pleiten en beïnvloeden 2016-2020.
 
-Voorstellen dienen uiterlijk op 1 september 2014 om 12.00 uur te zijn ontvangen door het ministerie van Buitenlandse Zaken.
+Voorstellen dienen uiterlijk op ****1 september 2014 om 12.00 uur****te zijn ontvangen door het ministerie van Buitenlandse Zaken.
 
 Als u het voorstel persoonlijk of per koerier wilt aanleveren, dan kunt u het voorstel (laten) afgeven bij het afgifteloket voor poststukken (expeditie) van het ministerie van Buitenlandse Zaken, Bezuidenhoutseweg 67, te 's-Gravenhage.
 
 ### Vereisten aan de voorstellen
 
-In het kader van de aanvraagprocedure wordt met nadruk gewezen op [artikel 7, derde lid, van het Subsidiebesluit ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7). Mocht een voorstel onvolledig worden ingediend, dan kan de minister vragen om een aanvulling. Als datum van ontvangst van het voorstel zal vervolgens gelden de datum waarop het voorstel is aangevuld. Indien een voorstel pas in de laatste vier weken voor het verstrijken van de deadline van 1 september 2014 12.00 uur wordt ingediend, loopt de indiener het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om de indiener om een aanvulling te vragen aangezien een dergelijke aanvulling niet meer mogelijk is zonder de deadline te overschrijden. In dat geval zal het voorstel derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals hij primair was ingediend.
+In het kader van de aanvraagprocedure wordt met nadruk gewezen op artikel 7, derde lid, van het Subsidiebesluit ministerie van Buitenlandse Zaken. Mocht een voorstel onvolledig worden ingediend, dan kan de minister vragen om een aanvulling. Als datum van ontvangst van het voorstel zal vervolgens gelden de datum waarop het voorstel is aangevuld. Indien een voorstel pas in de laatste vier weken voor het verstrijken van de deadline van 1 september 2014 12.00 uur wordt ingediend, loopt de indiener het risico dat de Minister geen toepassing zal geven aan zijn bevoegdheid om de indiener om een aanvulling te vragen aangezien een dergelijke aanvulling niet meer mogelijk is zonder de deadline te overschrijden. In dat geval zal het voorstel derhalve niet meer kunnen worden aangevuld, maar zal deze worden beoordeeld zoals hij primair was ingediend.
 
 ### Meer informatie
 
-Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze indienen uiterlijk voor 6 juni 17.00 uur 2014, waarna de vragen geanonimiseerd beantwoord worden, uiterlijk op 16 juni, 17.00 uur door middel van publicatie via internet op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties .
+Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze indienen uiterlijk voor 6 juni 17.00 uur 2014, waarna de vragen geanonimiseerd beantwoord worden, uiterlijk op 16 juni, 17.00 uur door middel van publicatie via internet op http://www.rijksoverheid.nl/documenten-en-publicaties/brochures/2014/06/16/vragen-naar-aanleiding-van-het-beleidskader-samenspraak-en-tegenspraak.html.
 
 Vragen kunnen uitsluitend schriftelijk worden ingediend per e-mail op samen-tegenspraak@minbuza.nl
 
@@ -314,7 +314,7 @@ Praktische aanwijzingen ten aanzien van de voorstellen
 
 ### Algemene instructies voor het opstellen van het voorstel
 
-Inhoudsopgave
+**Onderstaande volgorde houdt u aan met vermelding van eventuele sub paragrafen en bijbehorende paginanummers.**
 
 Onderstaande volgorde houdt u aan met vermelding van eventuele sub paragrafen en bijbehorende paginanummers.
 
@@ -324,39 +324,39 @@ Algemene gegevens van de aanvrager en voorstel
 
 ### II. Drempelcriteria
 
-**Indien een voorstel niet aan één of meerdere criteria voldoet wordt deze afgewezen en niet verder beoordeeld. Deze criteria worden hieronder vermeld en indien nodig toegelicht.**
+**De **organisatie** voldoet aan de onderstaande criteria:**
 
-**De organisatie voldoet aan de onderstaande criteria:**
+1Indien het land van vestiging geen statuten kent geldt het lokale equivalent ten aanzien van statutaire vestiging.
 
 ### III. Selectie criteria partnerschap
 
-### III..1. Track record
+### III.1. Track record
 
-### CASUSSEN
+### Casussen
 
-Beschrijf aan de hand van casussen (minimaal 3 en maximaal 5) uit de laatste 3 jaar de ervaring van de organisatie of de alliantie op het terrein van ‘pleiten en beïnvloeden’. De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie of alliantie wat betreft ‘pleiten en beïnvloeden’. De vorm van presenteren is vrij, en het geheel van de beschreven voorbeelden geven inzicht in:
+Beschrijf aan de hand van casussen (**minimaal 3 en maximaal 5**) uit de laatste 3 jaar voorafgaand aan 1 januari 2014 de ervaring van de organisatie of de alliantie op het terrein van ‘pleiten en beïnvloeden’. De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie of alliantie wat betreft ‘pleiten en beïnvloeden’. De vorm van presenteren is vrij, en het geheel van de beschreven voorbeelden geven inzicht in:
 
 ### Expertise en effectiviteit
 
-### Flexibiliteit en lerend vermogen
+### Algemeen
 
 ### Transparantie, verantwoording en draagvlak
 
 ### Inclusiviteit
 
-### Duurzaamheid
+### III.2. Theory of change
 
 ### Toegevoegde waarde van organisatie of de alliantie
 
-In het geval van een alliantie beschrijven de cases tevens:
+De vorm van presentatie van deze ‘**Theory of Change**’ is vrij. De ‘**Theory of Change**’ moet in ieder geval de volgende elementen bevatten:
 
-U onderbouwt de cases met verwijzing naar evaluaties en/of impactstudies en/of ander materiaal. Iedere casus mag niet langer zijn dan 4.000 woorden (ongeveer 8 pagina’s).
+Ook maakt u de onderliggende aannames expliciet. Deze aannames beschrijven en verklaren de grondslag van het beoogde veranderproces (sociaal, politiek, economisch en cultureel) en de verwachtingen over hoe en waarom de voorgestelde interventies bijdragen aan het realiseren van de beoogde verandering. Tevens verklaren zij de verbinding tussen het uiteindelijk te bereiken doel (impact) en de tussenliggende stappen van output en outcome.
 
 ### ALGEMEEN
 
-Daarnaast beschrijft u in maximaal 500 woorden:
+NB: Een organisatie of alliantie die op meer thema’s aan ‘pleiten en beïnvloeden’ werkt, **kan**voor maximaal 4 thema’s een ‘**Theory of Change**’ inleveren.
 
-U noemt 3 referenten waaronder in ieder geval
+De ‘**Theory of Change**’ is niet langer dan **3.000** woorden (ongeveer 6 pagina’s).
 
 Het moet gaan om referenten die in staat zijn een goed beeld te schetsen van uw ervaring met en resultaten van ‘pleiten en beïnvloeden’. U overlegt de naam, telefoon en e-mail gegevens.
 
@@ -364,9 +364,9 @@ Het moet gaan om referenten die in staat zijn een goed beeld te schetsen van uw 
 
 Beschrijf in de ‘**Theory of Change’** welke sociale verandering u voor een bepaald thema wilt bewerkstelligen, op welke analyse u zich baseert en voor welke strategie u kiest.
 
-De vorm van presentatie van deze ‘**Theory of Change**’ is vrij. De ‘**Theory of Change**’ moet in ieder geval de volgende elementen bevatten:
+**Bij uw aanvraag voegt u in elk geval de volgende bijlagen, die u nummert ten behoeve van een juiste verwijzing in de onderdelen waar daar om wordt gevraagd in dit aanvraagstramien.**
 
-Ook maakt u de onderliggende aannames expliciet. Deze aannames beschrijven en verklaren de grondslag van het beoogde veranderproces (sociaal, politiek, economisch en cultureel) en de verwachtingen over hoe en waarom de voorgestelde interventies bijdragen aan het realiseren van de beoogde verandering. Tevens verklaren zij de verbinding tussen het uiteindelijk te bereiken doel (impact) en de tussenliggende stappen van output en outcome.
+1De samenwerkingsovereenkomst bevat een beschrijving van de wijze waarop elk van de partijen bijdraagt aan de werkzaamheden van de alliantie en van de wijze waarop de besluitvorming in de alliantie plaats vindt, alsook een overeenkomst tussen de partijen op grond waarvan de naleving van de aan de subsidie verbonden verplichtingen jegens de Minister is gewaarborgd.
 
 NB: Een organisatie of alliantie die op meer thema’s aan ‘pleiten en beïnvloeden’ werkt, **kan**voor maximaal 4 thema’s een ‘**Theory of Change**’ inleveren.
 
@@ -379,3 +379,29 @@ Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhor
 ### V. Verplichte bijlagen
 
 Bij uw aanvraag voegt u in elk geval de volgende bijlagen, die u nummert ten behoeve van een juiste verwijzing in de onderdelen waar daar om wordt gevraagd in dit aanvraagstramien.
+
+### Praktische aanwijzingen ten aanzien van de voorstellen
+
+### I. Algemene informatie
+
+**Algemene gegevens van de aanvrager en voorstel**
+
+### II. Drempelcriteria
+
+**Indien een voorstel niet aan één of meerdere criteria voldoet wordt deze afgewezen en niet verder beoordeeld. Deze criteria worden hieronder vermeld en indien nodig toegelicht.**
+
+U onderbouwt de cases met verwijzing naar evaluaties en/of impactstudies en/of ander materiaal. Iedere casus mag niet langer zijn dan **4.000** woorden (ongeveer 8 pagina’s).
+
+Daarnaast beschrijft u in maximaal **500** woorden:
+
+U noemt **3 referenten** waaronder in ieder geval
+
+Beschrijf in de ‘**Theory of Change’** welke sociale verandering u voor een bepaald thema wilt bewerkstelligen, op welke analyse u zich baseert en voor welke strategie u kiest.
+
+Een geografische focus is voor de **‘Theory of Change’** niet per se noodzakelijk. Indien geografische keuzes worden gemaakt geldt dat de **‘Theory of Change**’ zich bij voorkeur richt op de landen opgenomen in Annex 1 bij dit aanvraagstramien en op andere landen indien dat noodzakelijk is voor het behalen van het strategisch doel van het beleidskader, dat zich richt op de landen van Annex 1.
+
+### IV. Afsluiting: ondertekening
+
+**Aanvrager verklaart hierbij dat alle gegevens in het aanvraagformulier en bijhorende bijlagen naar waarheid zijn ingevuld en bijgevoegd.**
+
+### V. Verplichte bijlagen
