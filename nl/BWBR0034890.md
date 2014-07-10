@@ -4,7 +4,7 @@ identifier: "BWBR0034890"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-07-10"
-last_updated: "2014-07-01"
+last_updated: "2014-07-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034890"
 soort: "zbo"
@@ -145,7 +145,7 @@ Afronding van de te vergoeden getolkte tijd vindt per opdracht en locatie per et
 
 ##### Artikel 8. Afwijkende vergoeding tolkopdrachten
 
-1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen als bedoeld in [artikel 5 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-07-01), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-07-01) en wordt op basis van maatwerk een passende vergoeding verstrekt.
+1. Voor groepsgewijze toepassingen en opdrachten in het buitenland wordt afgeweken van de vergoedingen als bedoeld in [artikel 5 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-07-10&g=2014-07-10), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-07-10&g=2014-07-10) en wordt op basis van maatwerk een passende vergoeding verstrekt.
 
 2. Indien er sprake is van teamtolken, waarbij maximaal twee tolken tegelijkertijd voor één cliënt optreden, wordt tot 150% van het geldende normbedrag per team vergoed, uit te keren als 75% per tolk.
 
@@ -165,7 +165,7 @@ De voorwaarden hiervoor zijn:
 
 4. Een aanvraag voor vergoeding van tolkopdrachten als bedoeld in het eerste en tweede lid dient zo vroeg mogelijk en in ieder geval uiterlijk drie weken voorafgaand aan de datum van uitvoering te zijn ingediend.
 
-5. Lid 1 t/m 4 zijn niet van toepassing op de tolkdiensten die worden verleend aan de personen die doof en blind of doof en slechtziend zijn als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-03-12&g=2014-07-01).
+5. Lid 1 t/m 4 zijn niet van toepassing op de tolkdiensten die worden verleend aan de personen die doof en blind of doof en slechtziend zijn als bedoeld in [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=7&z=2014-07-10&g=2014-07-10).
 
 6. Onder tolk op afstand wordt verstaan de gediplomeerde tolk die vanuit een eigen werklocatie tolkdiensten verleent aan een gebruiker, die op zijn eigen locatie dan wel op een derde locatie van de tolkdiensten gebruik maakt.
 
@@ -177,7 +177,7 @@ De voorwaarden hiervoor zijn:
 
 2. Indien de oorzaak van de annulering aan de tolk moet worden toegeschreven, wordt geen vergoeding verstrekt.
 
-3. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren. Het totaal van getolkte tijd en geannuleerde tijd mag de oorspronkelijk overeengekomen duur van de opdracht, te bepalen volgens [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-03-12&g=2014-07-01), niet overtreffen.
+3. Onder geannuleerde tijd wordt ook verstaan de tijd die de opdracht korter heeft geduurd dan oorspronkelijk was geboekt. Dit verschil moet tenminste vijftien minuten hebben bedragen. Verrekening vindt plaats in hele kwartieren. Het totaal van getolkte tijd en geannuleerde tijd mag de oorspronkelijk overeengekomen duur van de opdracht, te bepalen volgens [artikel 5 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034890&hoofdstuk=3&artikel=5&z=2014-07-10&g=2014-07-10), niet overtreffen.
 
 4. De reisvergoeding van volledig geannuleerde opdrachten wordt niet verstrekt. Deze regel geldt ook in de situatie dat het bericht van de annulering de tolk te laat of in het geheel niet heeft bereikt.
 
@@ -198,8 +198,8 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 | Code | Beschrijving |   | 31-12-2013 | 1-1-2014 |   |   |
 | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** | **ALGEMENE NORMBEDRAGEN** |   |   |
 |   | **Drempelbedrag voorzieningen** |   |   |   |   |   |
-| B11 | Drempelbedrag waar beneden geen vergoeding wordt verleend. | Voorzieningen die minder dan dit bedrag kosten, worden niet vergoed. Meerdere aangevraagde voorzieningen die ieder minder kosten dan het drempelbedrag kunnen worden opgeteld en vergoed. | € 128,00 | € 129,00 | X | X |
-| B11 | **(kostenbedrag inclusief BTW)** | € 128,00 geldt vanaf 1-7-2013 | € 128,00 | € 129,00 |   |   |
+| B11 | Drempelbedrag waar beneden geen vergoeding wordt verleend. | Voorzieningen die minder dan dit bedrag kosten, worden niet vergoed. Meerdere aangevraagde voorzieningen die ieder minder kosten dan het drempelbedrag kunnen worden opgeteld en vergoed. | € 128,00 | € 128,– | X | X |
+| B11 | **(kostenbedrag inclusief BTW)** | € 128,00 geldt vanaf 1-7-2013 | € 128,00 | € 128,– |   |   |
 |   |   |   |   |   |   |   |
 |   | **Referentieauto** |   |   |   |   |   |
 | C18-II | Normbedrag referentieauto | Een referentieauto is een gemiddeld type auto standaard voorzien van faciliteiten. | € 21.500,00 | € 21.500,00 | X | X |
@@ -226,7 +226,7 @@ Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staats
 | C71 | Vergoeding reiskosten begeleider per jaar | Jaarlijkse vergoeding als de arbeidsgehandicapte klant niet zelf kan reizen en de begeleider een deel niet samen kan reizen (bijv. de terugweg). | € 833,00 | € 842,00 | X | X |
 | **VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING** | **VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING** | **VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING** | **VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING** | **VOORZIENINGEN VOOR INTERMEDIAIRE DIENSTVERLENING** |   |   |
 | E17-I | Uurvergoeding geregistreerde tolk gebarentaal of schrijftolk **(bedrag exclusief BTW)** | Registratie van tolk op www.stichtingrtg.nl | € 51,48 | € 52,05 | X | X |
-| E17-III | Uurvergoeding communicatieassistent en overige intermediaire dienstverlener **(bedrag exclusief BTW** | Bedrag verhoogd naar € 19.05 op 1 juli 2013 | € 19,05 | € 19,15 | X | X |
+| E17-III | Uurvergoeding communicatieassistent en overige intermediaire dienstverlener **(bedrag exclusief BTW** | Bedrag verhoogd naar € 19.05 op 1 juli 2013 | € 19,05 | € 19,27 | X | X |
 | E17-A1 | Reisvergoeding geregistreerde doventolk per kilometer **(bedrag exclusief BTW)** |   | € 0,67 | € 0,68 | X | X |
 | E17-A3 | Reisvergoeding communicatieassistent en overige intermediaire dienstverlener per kilometer **(bedrag exclusief BTW** | Inclusief vergoeding voor gereisde werktijd; reisvergoeding voor student-tolk is vervallen. | € 0,30 | € 0,30 | X | X |
 | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** | **MEENEEMBARE VOORZIENINGEN** |   |   |
