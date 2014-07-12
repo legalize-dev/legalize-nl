@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2014-01-01"
+last_updated: "2014-07-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -130,7 +130,9 @@ Niet tot de middelen, bedoeld in [artikel 31 van de wet](https://wetten.overheid
 
 - l. de vergoeding, toegekend aan slachtoffers van seksueel misbruik in de Rooms-Katholieke Kerk, bedoeld in de Compensatieregelingen R.-K. Kerk Nederland;
 
-- m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut voor de buitengerechtelijke afhandeling van civiele vorderingen tot schadevergoeding in verband met seksueel misbruik van minderjarigen in instellingen en pleeggezinnen en de uitkering, bedoeld in de [Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen](https://wetten.overheid.nl/jci1.3:c:BWBR0033690).
+- m. de financiële tegemoetkoming in de geleden schade, bedoeld in het Statuut voor de buitengerechtelijke afhandeling van civiele vorderingen tot schadevergoeding in verband met seksueel misbruik van minderjarigen in instellingen en pleeggezinnen en de uitkering, bedoeld in de [Tijdelijke regeling uitkeringen seksueel misbruik minderjarigen in instellingen en pleeggezinnen](https://wetten.overheid.nl/jci1.3:c:BWBR0033690);
+
+- n. de eenmalige bijzondere uitkering, bedoeld in [artikel 21a, eerste lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=21a), dan wel artikel [21a, eerste lid, van het Besluit bijzondere militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0012222&artikel=21a).
 
 #### § 4. Uit- en aanbesteding
 
@@ -152,7 +154,7 @@ Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantie
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2014-01-01&g=2014-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2014-01-01&g=2014-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2014-01-01&g=2014-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2014-07-12&g=2014-07-12), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2014-07-12&g=2014-07-12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2014-07-12&g=2014-07-12) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2014-07-12&g=2014-07-12) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -291,7 +293,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2014-01-01&g=2014-01-01), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2014-07-12&g=2014-07-12), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
@@ -410,7 +412,7 @@ Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](https://wetten
 
 Vervallen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2014-01-01&g=2014-01-01) van de Regeling WWB, IOAW en IOAZ
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2014-07-12&g=2014-07-12) van de Regeling WWB, IOAW en IOAZ
 
 Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
 
