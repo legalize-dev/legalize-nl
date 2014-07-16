@@ -4,7 +4,7 @@ identifier: "BWBR0008903"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2013-01-01"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008903"
 soort: "wet"
@@ -59,7 +59,7 @@ dienstbetrekking: een arbeidsovereenkomst als bedoeld in [artikel 610, eerste li
 
 doelgroep: personen, die nog niet de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), hebben bereikt en die door lichamelijke, verstandelijke of psychische beperkingen uitsluitend onder aangepaste omstandigheden tot regelmatige arbeid in staat zijn;
 
-geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2013-01-01&g=2013-01-01) tot de doelgroep behoren;
+geïndiceerd: blijkens een indicatiebeschikking of herindicatiebeschikking als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2014-07-16&g=2014-07-16) tot de doelgroep behoren;
 
 gerealiseerd arbeidsjaar: het equivalent van een dienstbetrekking op basis van een volledige werkweek die het gehele kalenderjaar is vervuld door een geïndiceerde ingezetene of een daarmee gelijkgestelde, gebaseerd op het gemiddelde van de twaalf eindemaandsstanden;
 
@@ -69,11 +69,11 @@ Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemer
 
 werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.
 
-2. Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2013-01-01&g=2013-01-01), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=14&z=2013-01-01&g=2013-01-01), in de plaats van de betrokken colleges, met dien verstande dat:
+2. Indien bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van deze wet volledig is overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8), treedt dat bestuur voor de toepassing van deze wet, met uitzondering van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2014-07-16&g=2014-07-16), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2014-07-16&g=2014-07-16), en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=14&z=2014-07-16&g=2014-07-16), in de plaats van de betrokken colleges, met dien verstande dat:
 
-- a. voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01) de met toepassing van [artikel 34a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a) door het openbaar lichaam op de wijze, bedoeld in [artikel 17a van de Financiële- verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), verantwoorde informatie in aanmerking kan worden genomen;
+- a. voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2014-07-16&g=2014-07-16) de met toepassing van [artikel 34a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=34a) door het openbaar lichaam op de wijze, bedoeld in [artikel 17a van de Financiële- verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), verantwoorde informatie in aanmerking kan worden genomen;
 
-- b. voor de termijn van twaalf maanden in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01), wordt gelezen: vierentwintig maanden.
+- b. voor de termijn van twaalf maanden in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2014-07-16&g=2014-07-16), wordt gelezen: vierentwintig maanden.
 
 3. Het college draagt er zorg voor dat aan zoveel mogelijk ingezetenen die geïndiceerd zijn, een dienstbetrekking wordt aangeboden voor het verrichten van arbeid onder aangepaste omstandigheden.
 
@@ -83,7 +83,7 @@ werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.
 
 ##### Artikel 2
 
-1. Het college kan ter uitvoering van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), aan een ingezetene die geïndiceerd is een dienstbetrekking aanbieden voor het verrichten van arbeid onder aangepaste omstandigheden.
+1. Het college kan ter uitvoering van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), aan een ingezetene die geïndiceerd is een dienstbetrekking aanbieden voor het verrichten van arbeid onder aangepaste omstandigheden.
 
 2. Het college kan een privaatrechtelijke rechtspersoon aanwijzen ten behoeve van de uitvoering van deze wet. Het college regelt in het aanwijzingsbesluit de inhoud van de rechtsbetrekking tussen zichzelf en de betrokken rechtspersoon.
 
@@ -97,9 +97,9 @@ werknemer: degene die een dienstbetrekking heeft als bedoeld in het derde lid.
 
 ##### Artikel 3
 
-1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
+1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
 
-2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
+2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
 
 ##### Artikel 4
 
@@ -113,7 +113,7 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 1. De werknemer is verplicht mee te werken aan het behoud dan wel het bevorderen van zijn arbeidsbekwaamheid en aan het verkrijgen van arbeid onder normale omstandigheden, voor zover hij daartoe in staat wordt geacht.
 
-2. Zo nodig in afwijking van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670a), zegt het college uit eigen beweging, dan wel onverwijld op een daartoe strekkend verzoek van het college van de gemeente dat een vergoeding als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2013-01-01&g=2013-01-01), betaalt, de dienstbetrekking op, indien:
+2. Zo nodig in afwijking van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670a), zegt het college uit eigen beweging, dan wel onverwijld op een daartoe strekkend verzoek van het college van de gemeente dat een vergoeding als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2014-07-16&g=2014-07-16), betaalt, de dienstbetrekking op, indien:
 
 - a. zijn werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
 
@@ -127,7 +127,7 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 ##### Artikel 7
 
-1. Indien een werkgever met een ingezetene die geïndiceerd is een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), aangaat, en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd kan het college:
+1. Indien een werkgever met een ingezetene die geïndiceerd is een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), aangaat, en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd kan het college:
 
 - a. aan de werkgever een subsidie verstrekken; en
 
@@ -135,7 +135,7 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 2. Op verzoek van de ingezetene die geïndiceerd is verstrekt het college in ieder geval een periodieke subsidie aan de werkgever aan wie op grond van het eerste lid subsidie kan worden verstrekt alsmede aan de begeleidingsorganisatie een periodieke vergoeding voor de noodzakelijke kosten van de begeleiding op de werkplek indien:
 
-- a. betrokkene een werknemer is of met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2013-01-01&g=2013-01-01) en de daarop berustende regels recht heeft op aanbieding van een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), door het college; en
+- a. betrokkene een werknemer is of met inachtneming van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2014-07-16&g=2014-07-16) en de daarop berustende regels recht heeft op aanbieding van een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), door het college; en
 
 - b. het bedrag van de subsidie en de vergoeding omgerekend op jaarbasis niet meer bedraagt dan
 
@@ -143,9 +143,9 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 waarbij:
 
-A staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01);
+A staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16);
 
-B staat voor het op grond van artikel 8, tweede lid, vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), behorende minimumaantal arbeidsjaren;
+B staat voor het op grond van artikel 8, tweede lid, vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), behorende minimumaantal arbeidsjaren;
 
 C staat voor 1 als de ingezetene is ingedeeld in de arbeidshandicapcategorie matig en voor 1,25 als hij is ingedeeld in de arbeidshandicapcategorie ernstig;
 
@@ -163,7 +163,7 @@ D staat voor de voor het college rechtstreeks aan de subsidieverlening verbonden
 
 - b. indien de werknemer niet meewerkt aan een herindicatie overeenkomstig de daaromtrent bij of krachtens algemene maatregel van bestuur gestelde regels;
 
-- c. indien de werknemer niet voldoet aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2013-01-01&g=2013-01-01).
+- c. indien de werknemer niet voldoet aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2014-07-16&g=2014-07-16).
 
 7. Zo nodig in afwijking van de [artikelen 670](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) en [670a van titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670a) kan de werkgever de dienstbetrekking opzeggen indien de periodieke subsidie op grond van het zesde lid niet langer wordt verleend.
 
@@ -185,7 +185,7 @@ D staat voor de voor het college rechtstreeks aan de subsidieverlening verbonden
 
 ##### Artikel 8
 
-1. Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college een uitkering voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2013-01-01&g=2013-01-01). De uitkering wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
+1. Onze Minister verstrekt jaarlijks ten laste van ’s Rijks kas aan het college een uitkering voor de uitvoering van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2014-07-16&g=2014-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2014-07-16&g=2014-07-16). De uitkering wordt ten minste drie maanden voorafgaand aan het kalenderjaar waarop zij betrekking heeft door Onze Minister vastgesteld.
 
 2. Het bedrag van de uitkering wordt, overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels, berekend aan de hand van het voor ieder jaar bij wet vast te stellen totale bedrag dat beschikbaar is voor de uitkeringen, bedoeld in het eerste lid. Daarbij wordt, overeenkomstig bij of krachtens de algemene maatregel van bestuur te stellen regels, het bijbehorende minimumaantal arbeidsjaren vastgesteld.
 
@@ -195,7 +195,7 @@ D staat voor de voor het college rechtstreeks aan de subsidieverlening verbonden
 
 ##### Artikel 9
 
-1. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2013-01-01&g=2013-01-01), blijkt dat in het kalenderjaar waarop de uitkering betrekking heeft het aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2013-01-01&g=2013-01-01) minder bedraagt dan het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde minimumaantal arbeidsjaren, wordt van de uitkering teruggevorderd:
+1. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2014-07-16&g=2014-07-16), blijkt dat in het kalenderjaar waarop de uitkering betrekking heeft het aantal in dat jaar gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2014-07-16&g=2014-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2014-07-16&g=2014-07-16) minder bedraagt dan het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), vastgestelde minimumaantal arbeidsjaren, wordt van de uitkering teruggevorderd:
 
 ( A – B ) x C
 
@@ -203,21 +203,21 @@ A
 
 waarbij:
 
-A staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), behorende minimumaantal arbeidsjaren;
+A staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), behorende minimumaantal arbeidsjaren;
 
-B staat voor het aantal gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2013-01-01&g=2013-01-01);
+B staat voor het aantal gerealiseerde arbeidsjaren uit dienstbetrekkingen als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2014-07-16&g=2014-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2014-07-16&g=2014-07-16);
 
-C staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01).
+C staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16).
 
 2. Verlies van ingezetenschap van de gemeente heeft geen invloed op de toepassing van het eerste lid, zolang de dienstbetrekking voortduurt tot en met het kalenderjaar na het jaar waarin het ingezetenschap is verloren. Indien de werknemer buiten Nederland gaat wonen heeft het verlies van ingezetenschap geen invloed op de toepassing van het eerste lid zolang de dienstbetrekking voortduurt tot en met het kalenderjaar na het jaar waarin hij wederom in Nederland gaat wonen.
 
-3. Onze Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2013-01-01&g=2013-01-01), mededeling van terugvordering op grond van het eerste lid aan het college.
+3. Onze Minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2014-07-16&g=2014-07-16), mededeling van terugvordering op grond van het eerste lid aan het college.
 
-4. Indien de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2013-01-01&g=2013-01-01), niet door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen binnen twaalf maanden na het kalenderjaar waarop zij betrekking heeft, wordt de uitkering met betrekking tot het desbetreffende kalenderjaar op nihil vastgesteld en wordt de reeds betaalde uitkering teruggevorderd. Indien volledige terugvordering naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard, stelt Onze Minister de terugvordering vast op een percentage van de uitkering. Onze Minister doet binnen drie maanden na de in de eerste zin bedoelde datum mededeling van terugvordering aan het college.
+4. Indien de verantwoordingsinformatie, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2014-07-16&g=2014-07-16), niet door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen binnen twaalf maanden na het kalenderjaar waarop zij betrekking heeft, wordt de uitkering met betrekking tot het desbetreffende kalenderjaar op nihil vastgesteld en wordt de reeds betaalde uitkering teruggevorderd. Indien volledige terugvordering naar het oordeel van Onze Minister leidt tot een onbillijkheid van overwegende aard, stelt Onze Minister de terugvordering vast op een percentage van de uitkering. Onze Minister doet binnen drie maanden na de in de eerste zin bedoelde datum mededeling van terugvordering aan het college.
 
 ##### Artikel 10
 
-1. Bij overgang van ingezetenschap van de ene naar de andere gemeente treedt het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), ingezetene wordt per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar van die overgang bij de toepassing van dat artikel in de plaats van het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), niet langer ingezetene is.
+1. Bij overgang van ingezetenschap van de ene naar de andere gemeente treedt het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), ingezetene wordt per 1 januari van het tweede kalenderjaar volgend op het kalenderjaar van die overgang bij de toepassing van dat artikel in de plaats van het college van de gemeente waarvan de betrokkene, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), niet langer ingezetene is.
 
 2. Bij overgang van ingezetenschap van de ene naar de andere gemeente betaalt het college van de gemeente waarvan de betrokkene ingezetene wordt vanaf het tweede kalenderjaar volgend op het kalenderjaar van die overgang aan het college van de gemeente waarvan de betrokkene niet langer ingezetene is een vergoeding voorzover zijn dienstbetrekking met dat college voortduurt.
 
@@ -227,9 +227,9 @@ C staat voor de uitkering bedoeld in [artikel 8, eerste lid](https://wetten.over
 
 waarbij:
 
-A staat voor de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01) aan de gemeente waarvan de betrokkene ingezetene is;
+A staat voor de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16) aan de gemeente waarvan de betrokkene ingezetene is;
 
-B staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), behorende minimumaantal arbeidsjaren voor de gemeente waarvan de betrokkene ingezetene is;
+B staat voor het op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), vastgestelde aantal bij de uitkering, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), behorende minimumaantal arbeidsjaren voor de gemeente waarvan de betrokkene ingezetene is;
 
 C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kalenderjaar berekend op honderdsten nauwkeurig waarbij vijfduizendste of meer naar boven wordt afgerond op een honderdste.
 
@@ -251,9 +251,9 @@ C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kal
 
 - 2°. de indeling van de persoon in één van de arbeidshandicapcategorieën, die bepaald worden door de zwaarte van de aanpassing van de omstandigheden en de productiviteit.
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen verricht periodiek herindicatie van personen die tot de doelgroep behoren overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2013-01-01&g=2013-01-01), gestelde regels. Het eerste lid is van overeenkomstige toepassing.
+2. Het Uitvoeringsinstituut werknemersverzekeringen verricht periodiek herindicatie van personen die tot de doelgroep behoren overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2014-07-16&g=2014-07-16), gestelde regels. Het eerste lid is van overeenkomstige toepassing.
 
-3. Op aanvraag van het college verricht het Uitvoeringsinstituut werknemersverzekeringen, overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2013-01-01&g=2013-01-01), gestelde regels, herindicatie van de werknemer die de bedongen arbeid gedurende een ononderbroken periode van ten minste 13 weken niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte daartoe verhinderd was en die naar het inzicht van het college duurzaam niet in staat zal zijn tot het verrichten van arbeid onder aangepaste omstandigheden. Het eerste lid is van overeenkomstige toepassing.
+3. Op aanvraag van het college verricht het Uitvoeringsinstituut werknemersverzekeringen, overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2014-07-16&g=2014-07-16), gestelde regels, herindicatie van de werknemer die de bedongen arbeid gedurende een ononderbroken periode van ten minste 13 weken niet heeft verricht omdat hij in verband met ongeschiktheid ten gevolge van ziekte daartoe verhinderd was en die naar het inzicht van het college duurzaam niet in staat zal zijn tot het verrichten van arbeid onder aangepaste omstandigheden. Het eerste lid is van overeenkomstige toepassing.
 
 4. Indicatie vindt slechts plaats met betrekking tot
 
@@ -261,9 +261,9 @@ C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kal
 
 - 1°. die als werkzoekende staan ingeschreven bij het Uitvoeringsinstituut werknemersverzekeringen,
 
-- 2°. die voor een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), in aanmerking wensen te komen, en
+- 2°. die voor een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), in aanmerking wensen te komen, en
 
-- 3°. van wie niet in de periode van 12 maanden voorafgaand aan de aanvraag de indicatiebeschikking of herindicatiebeschikking is ingetrokken op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2013-01-01&g=2013-01-01);
+- 3°. van wie niet in de periode van 12 maanden voorafgaand aan de aanvraag de indicatiebeschikking of herindicatiebeschikking is ingetrokken op grond van [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=12&z=2014-07-16&g=2014-07-16);
 
 - b. werknemers die voor herindicatie in aanmerking komen.
 
@@ -277,25 +277,25 @@ C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kal
 
 ##### Artikel 12
 
-1. Het college beheert een wachtlijst. De wachtlijst bevat een overzicht van ingezetenen die geïndiceerd zijn, geen dienstbetrekking hebben als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2013-01-01&g=2013-01-01) en beschikbaar zijn om een dergelijke dienstbetrekking te aanvaarden.
+1. Het college beheert een wachtlijst. De wachtlijst bevat een overzicht van ingezetenen die geïndiceerd zijn, geen dienstbetrekking hebben als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2014-07-16&g=2014-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2014-07-16&g=2014-07-16) en beschikbaar zijn om een dergelijke dienstbetrekking te aanvaarden.
 
-2. De gemeenteraad kan bij verordening regels stellen over de volgorde waarin de ingezetenen die op de wachtlijst zijn geplaatst voor een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), in aanmerking worden gebracht. Bij het ontbreken van een dergelijke verordening geldt de volgorde van de plaatsing op de wachtlijst.
+2. De gemeenteraad kan bij verordening regels stellen over de volgorde waarin de ingezetenen die op de wachtlijst zijn geplaatst voor een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), in aanmerking worden gebracht. Bij het ontbreken van een dergelijke verordening geldt de volgorde van de plaatsing op de wachtlijst.
 
 3. Het college kan de indicatiebeschikking of herindicatiebeschikking van een betrokkene intrekken indien:
 
 - a. betrokkene passende arbeid in dienstbetrekking onder aangepaste omstandigheden weigert;
 
-- b. de dienstbetrekking van betrokkene door het college is opgezegd op grond van [artikel 6, tweede lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2013-01-01&g=2013-01-01), of door de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), in verband met de toepassing van [artikel 7, zesde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), vanaf het moment dat de opzegging rechtens onaantastbaar is;
+- b. de dienstbetrekking van betrokkene door het college is opgezegd op grond van [artikel 6, tweede lid, onderdeel a of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2014-07-16&g=2014-07-16), of door de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), in verband met de toepassing van [artikel 7, zesde lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), vanaf het moment dat de opzegging rechtens onaantastbaar is;
 
-- c. de dienstbetrekking van betrokkene door het college of de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), is opgezegd om een dringende reden in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) en de werknemer ter zake een verwijt kan worden gemaakt, vanaf het moment dat de opzegging rechtens onaantastbaar is;
+- c. de dienstbetrekking van betrokkene door het college of de werkgever, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), is opgezegd om een dringende reden in de zin van [artikel 678 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=678) en de werknemer ter zake een verwijt kan worden gemaakt, vanaf het moment dat de opzegging rechtens onaantastbaar is;
 
 - d. de dienstbetrekking op verzoek van betrokkene is geëindigd; of
 
-- e. betrokkene niet beschikbaar is om een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), te aanvaarden.
+- e. betrokkene niet beschikbaar is om een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), te aanvaarden.
 
 4. De indicatiebeschikking of herindicatiebeschikking vervalt:
 
-- a. per de dag dat betrokkene arbeid in een dienstbetrekking anders dan een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), aanvaardt of arbeid gaat verrichten in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, tenzij deze arbeid gericht is op het verkrijgen van een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01);
+- a. per de dag dat betrokkene arbeid in een dienstbetrekking anders dan een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), aanvaardt of arbeid gaat verrichten in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, tenzij deze arbeid gericht is op het verkrijgen van een dienstbetrekking als bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16);
 
 - b. per de dag dat betrokkene de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), bereikt; of
 
@@ -303,7 +303,7 @@ C staat voor het aantal door de ingezetene gerealiseerde arbeidsjaren in dat kal
 
 5. Het college trekt de indicatiebeschikking of herindicatiebeschikking van een betrokkene in op schriftelijk verzoek van de betrokkene aan het college per de datum van dat verzoek.
 
-6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij het eerste lid aan het college opgedragen taak en de wijze van uitoefening daarvan, met dien verstande dat in ieder geval bij of krachtens algemene maatregel van bestuur wordt geregeld wanneer ingezetenen die geïndiceerd zijn, beschikbaar zijn om een dienstbetrekking als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2013-01-01&g=2013-01-01) te aanvaarden.
+6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de bij het eerste lid aan het college opgedragen taak en de wijze van uitoefening daarvan, met dien verstande dat in ieder geval bij of krachtens algemene maatregel van bestuur wordt geregeld wanneer ingezetenen die geïndiceerd zijn, beschikbaar zijn om een dienstbetrekking als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&z=2014-07-16&g=2014-07-16) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&z=2014-07-16&g=2014-07-16) te aanvaarden.
 
 7. De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -321,15 +321,15 @@ Het college legt verantwoording af aan Onze Minister over de uitvoering van deze
 
 ##### Artikel 15
 
-1. Andere colleges, de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), aangewezen rechtspersonen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
+1. Andere colleges, de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), aangewezen rechtspersonen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
 
-2. Het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
+2. Het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), aangewezen rechtspersoon zijn bevoegd uit eigen beweging en verplicht op verzoek uit de administratie aangelegd voor de uitvoering van deze wet kosteloos aan bestuursorganen de gegevens te verstrekken die noodzakelijk zijn voor de bij of krachtens wet aan deze bestuursorganen opgedragen taken.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen voor de toepassing van het eerste en tweede lid nadere regels worden gesteld.
 
-4. Een ieder verstrekt desgevraagd aan het college, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), aangewezen rechtspersoon kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
+4. Een ieder verstrekt desgevraagd aan het college, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), aangewezen rechtspersoon kosteloos alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van deze wet ten opzichte van hemzelf, hem in wiens dienst dan wel ten behoeve van wie hij werkt of gewerkt heeft of hem die in zijn dienst dan wel te zijnen behoeve werkt of gewerkt heeft.
 
-5. Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), aangewezen rechtspersoon gebruiken het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), bij de verwerking van persoonsgegevens voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat burgerservicenummer.
+5. Het college van burgemeester en wethouders, het Uitvoeringsinstituut werknemersverzekeringen en de krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), aangewezen rechtspersoon gebruiken het burgerservicenummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), bij de verwerking van persoonsgegevens voor de uitvoering van deze wet, indien dat nodig is voor de uitvoering van deze wet of voor de uitvoering van andere wetten, waarbij gebruik wordt gemaakt van dat burgerservicenummer.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
@@ -347,17 +347,25 @@ Vervallen
 
 ##### Artikel 19
 
-Tenzij hij daartoe verzoekt behoeft de persoon, die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, zolang de dienstbetrekking voortduurt, niet overeenkomstig [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2013-01-01&g=2013-01-01), te worden geherindiceerd.
+1. Dit lid is nog niet in werking getreden.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Het Uitvoeringsinstituut werknemersverzekeringen verricht geen onderzoek en besluit niet over de indicatie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2014-07-16&g=2014-07-16), indien het een aanvraag betreft die niet minimaal 16 weken voorafgaand aan de dag van inwerkingtreding van [artikel II, onderdeel A, van de Invoeringswet Participatiewet](onbekend) is ingediend. Dit lid vervalt met ingang van de dag van inwerkingtreding van artikel II, onderdeel G, van de Invoeringswet Participatiewet.
 
 ##### Artikel 20
 
-1. Indien op de datum van inwerkingtreding van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2013-01-01&g=2013-01-01), de werknemer ingezetene is van een andere gemeente dan de gemeente waarvan het college ten behoeve van hem subsidie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01) verstrekt, treedt het college van de gemeente waarvan de werknemer ingezetene is per die datum bij de toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01) in de plaats van het andere college.
+1. Indien op de datum van inwerkingtreding van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2014-07-16&g=2014-07-16), de werknemer ingezetene is van een andere gemeente dan de gemeente waarvan het college ten behoeve van hem subsidie als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16) verstrekt, treedt het college van de gemeente waarvan de werknemer ingezetene is per die datum bij de toepassing van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16) in de plaats van het andere college.
 
-2. Indien op de datum van inwerkingtreding van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2013-01-01&g=2013-01-01), de werknemer in een dienstbetrekking staat tot het college van een andere gemeente dan de gemeente waarvan hij ingezetene is betaalt het college van de gemeente waarvan de betrokkene ingezetene is vanaf die datum aan het andere college een overeenkomstig [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2013-01-01&g=2013-01-01), berekende vergoeding voorzover zijn dienstbetrekking met dat college voortduurt.
+2. Indien op de datum van inwerkingtreding van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2014-07-16&g=2014-07-16), de werknemer in een dienstbetrekking staat tot het college van een andere gemeente dan de gemeente waarvan hij ingezetene is betaalt het college van de gemeente waarvan de betrokkene ingezetene is vanaf die datum aan het andere college een overeenkomstig [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=10&z=2014-07-16&g=2014-07-16), berekende vergoeding voorzover zijn dienstbetrekking met dat college voortduurt.
 
 ##### Artikel 21
 
-De verordeningen, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01), en [7, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2013-01-01&g=2013-01-01), treden uiterlijk zes maanden na de datum van inwerkingtreding van artikel I, onderdeel B, respectievelijk artikel I, onderdeel G, van de Wet van 20 december 2007 tot wijziging van de Wet sociale werkvoorziening in verband met een betere realisering van de met die wet beoogde doelen (Stb. 564) in werking.
+De verordeningen, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2014-07-16&g=2014-07-16), en [7, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3&artikel=7&z=2014-07-16&g=2014-07-16), treden uiterlijk zes maanden na de datum van inwerkingtreding van artikel I, onderdeel B, respectievelijk artikel I, onderdeel G, van de Wet van 20 december 2007 tot wijziging van de Wet sociale werkvoorziening in verband met een betere realisering van de met die wet beoogde doelen (Stb. 564) in werking.
 
 ### Hoofdstuk 8
 
@@ -491,7 +499,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 9a
 
-In afwijking van [artikel 7:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:11), wordt bij de toepassing van de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2013-01-01&g=2013-01-01), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2013-01-01&g=2013-01-01) gebruikgemaakt van de gegevens in de bijlage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2013-01-01&g=2013-01-01), en de informatie, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2013-01-01&g=2013-01-01), waarvan Onze Minister kennis heeft op 15 augustus voor zover het betreft artikel 8, tweede lid, en 30 september voor zover het betreft artikel 9 van het tweede jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen.
+In afwijking van [artikel 7:11 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:11), wordt bij de toepassing van de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=8&z=2014-07-16&g=2014-07-16), en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=4&artikel=9&z=2014-07-16&g=2014-07-16) gebruikgemaakt van de gegevens in de bijlage, bedoeld in [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=6&artikel=13&z=2014-07-16&g=2014-07-16), en de informatie, bedoeld in [artikel 1, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=1&artikel=1&z=2014-07-16&g=2014-07-16), waarvan Onze Minister kennis heeft op 15 augustus voor zover het betreft artikel 8, tweede lid, en 30 september voor zover het betreft artikel 9 van het tweede jaar volgend op het verantwoordingsjaar, met dien verstande dat gegevens die het college op verzoek van Onze Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
 ### Hoofdstuk 5. De indicatie en het aanbod
 
