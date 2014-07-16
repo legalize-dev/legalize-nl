@@ -4,7 +4,7 @@ identifier: "BWBR0035323"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035323"
 soort: "wet"
@@ -86,7 +86,7 @@ Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel X
 
-Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VI tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=VI&z=2014-07-16&g=2014-01-01), na het tijdstip van inwerkingtreding van die artikelen eenmalig per 1 januari 2014 vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en de uitkomst vervolgens naar boven af te ronden op hele getallen.
+Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen VI tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=VI&z=2014-07-16&g=2014-07-16), na het tijdstip van inwerkingtreding van die artikelen eenmalig per 1 januari 2014 vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en de uitkomst vervolgens naar boven af te ronden op hele getallen.
 
 ##### Artikel XI
 
@@ -110,18 +110,28 @@ Wet op de zorgtoeslag.
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit lid is nog niet in werking getreden.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Dit lid is nog niet in werking getreden.
+
+6. Vervallen.
 
 ##### Artikel XVII
 
-1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=I&z=2014-07-16&g=2014-01-01), [artikel II, onderdelen B, C, onder 1, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=II&z=2014-07-16&g=2014-01-01), [artikel III, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=III&z=2014-07-16&g=2014-01-01), [artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=IIIA&z=2014-07-16&g=2014-01-01), [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=V&z=2014-07-16&g=2014-01-01), de [artikelen VI tot en met XII](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=VI&z=2014-07-16&g=2014-01-01), [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-01-01), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XV&z=2014-07-16&g=2014-01-01) treden in werking met ingang van 1 januari 2014. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2013, treden de hiervoor genoemde artikelen en onderdelen daarvan, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werken deze terug tot en met 1 januari 2014.
+1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=I&z=2014-07-16&g=2014-07-16), [artikel II, onderdelen B, C, onder 1, en F](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=II&z=2014-07-16&g=2014-07-16), [artikel III, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=III&z=2014-07-16&g=2014-07-16), [artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=IIIA&z=2014-07-16&g=2014-07-16), [artikel V, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=V&z=2014-07-16&g=2014-07-16), de [artikelen VI tot en met XII](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=VI&z=2014-07-16&g=2014-07-16), [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-07-16), en [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XV&z=2014-07-16&g=2014-07-16) treden in werking met ingang van 1 januari 2014. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 2013, treden de hiervoor genoemde artikelen en onderdelen daarvan, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst, en werken deze terug tot en met 1 januari 2014.
 
-2. [Artikel II, onderdelen A, C, onder 2 en 3, D, E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=II&z=2014-07-16&g=2014-01-01), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=V&z=2014-07-16&g=2014-01-01), [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-01-01), en [artikel XVI, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVI&z=2014-07-16&g=2014-01-01), treden in werking met ingang van 1 januari 2015.
+2. [Artikel II, onderdelen A, C, onder 2 en 3, D, E en G](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=II&z=2014-07-16&g=2014-07-16), [artikel V, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=V&z=2014-07-16&g=2014-07-16), [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-07-16), en [artikel XVI, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVI&z=2014-07-16&g=2014-07-16), treden in werking met ingang van 1 januari 2015.
 
-3. [Artikel III, onderdeel A, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=III&z=2014-07-16&g=2014-01-01), [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIII&z=2014-07-16&g=2014-01-01), [artikel XIV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-01-01), en [artikel XVI, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVI&z=2014-07-16&g=2014-01-01), treden in werking met ingang van 1 januari 2016.
+3. [Artikel III, onderdeel A, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=III&z=2014-07-16&g=2014-07-16), [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIII&z=2014-07-16&g=2014-07-16), [artikel XIV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XIV&z=2014-07-16&g=2014-07-16), en [artikel XVI, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVI&z=2014-07-16&g=2014-07-16), treden in werking met ingang van 1 januari 2016.
 
 ##### Artikel XVIII
 
-Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid binnen drie jaar na de inwerkingtreding als bedoeld in [artikel XVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVII&z=2014-07-16&g=2014-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Onze Minister van Volksgezondheid, Welzijn en Sport zendt in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid binnen drie jaar na de inwerkingtreding als bedoeld in [artikel XVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035323&artikel=XVII&z=2014-07-16&g=2014-07-16), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
