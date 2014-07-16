@@ -4,7 +4,7 @@ identifier: "BWBR0020566"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2012-12-04"
+last_updated: "2014-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020566"
 soort: "ministeriele-regeling"
@@ -270,7 +270,7 @@ Een niet-automatisch weegwerktuig dat niet voldoet aan een hogere nauwkeurigheid
 
 - d. het wegen van afvalstoffen en van zand, grind en aarde;
 
-- e. het wegen van visserijproducten aan boord van een vissersvaartuig, mits de weegapparatuur deiningsgecompenseerd is.
+- e. het wegen van visserijproducten aan boord van een vissersvaartuig.
 
 #### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
 
@@ -293,5 +293,15 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 19a
+
+Een niet-automatisch weegwerktuig dat wordt gebruikt voor het wegen van visserijproducten aan boord van een vissersvaartuig is deiningsgecompenseerd.
+
+#### § 5. Specifieke bepalingen inzake korenschalen, alcoholmeters en areometers voor alcohol
+
+#### § 6. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
