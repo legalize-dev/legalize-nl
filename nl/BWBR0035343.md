@@ -79,9 +79,3 @@ Voor de centrale examens h.a.v.o. 2017 worden syllabi voor de volgende vakken va
 ### Syllabi v.w.o. 2018
 
 Voor de centrale examens v.w.o. 2018 worden syllabi voor de volgende vakken vastgesteld:
-
-## Bijlage 2. bij de regeling syllabi centrale examens wiskunde h.a.v.o. 2017 en v.w.o. 2018, van 17 juni 2014, nummer cve-14.01699
-
-### Syllabi v.w.o. 2018
-
-Voor de centrale examens v.w.o. 2018 worden syllabi voor de volgende vakken vastgesteld:
