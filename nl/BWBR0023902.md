@@ -4,7 +4,7 @@ identifier: "BWBR0023902"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-03-01"
-last_updated: "2014-06-14"
+last_updated: "2014-07-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023902"
 soort: "AMvB"
@@ -64,19 +64,31 @@ In dit besluit wordt verstaan onder:
 
 - f. **geregistreerde:** in een register opgenomen zorgaanbieder, indicatieorgaan of zorgverzekeraar;
 
-- g. **SBV-Z:** sectorale berichtenvoorziening in de zorg als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-06-14&g=2014-06-14);
+- g. **SBV-Z:** sectorale berichtenvoorziening in de zorg als bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-07-19&g=2014-07-19);
 
 - h. **beheervoorziening:** beheervoorziening als bedoeld in [artikel 3 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3);
 
-- i. **systeembeschrijving:** systeembeschrijving als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=12&z=2014-06-14&g=2014-06-14);
+- i. **systeembeschrijving:** systeembeschrijving als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=12&z=2014-07-19&g=2014-07-19);
 
-- j. **toegangsmiddel:** certificaat of ander authenticatiemiddel als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=18&z=2014-06-14&g=2014-06-14) met inbegrip van de drager van het toegangsmiddel.
+- j. **toegangsmiddel:** certificaat of ander authenticatiemiddel als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=18&z=2014-07-19&g=2014-07-19) met inbegrip van de drager van het toegangsmiddel;
+
+- k. **elektronisch uitwisselingssysteem:** een systeem waarmee zorgaanbieders op elektronische wijze, dossiers, gedeelten van dossiers of gegevens uit dossiers voor andere zorgaanbieders raadpleegbaar kunnen maken, waaronder niet begrepen een systeem binnen een zorgaanbieder, voor het bijhouden van een elektronisch dossier.
 
 ##### Artikel 2
 
 1. De verbindingskantoren, bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1), worden aangewezen als zorgverzekeraar in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864) voor zover zij het in [artikel 8 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=8) aangegeven deel van de administratie verrichten voor de bij [artikel 2 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=2) aangewezen zorg.
 
 2. Als zorgaanbieder, respectievelijk zorg in de zin van de wet wordt aangewezen de Stichting Sanquin Bloedvoorziening voor zover het betreft haar werkzaamheden met betrekking tot het diagnostisch laboratoriumonderzoek voor een zorgaanbieder en het beheer en de exploitatie van het Transfusie Register Irregulaire antistoffen en X(kruis)-proeven.
+
+3. Het beheren en in stand houden van een elektronisch uitwisselingssysteem waarin het burgerservicenummer is opgenomen, wordt aangewezen als zorg in de zin van de wet.
+
+4. Een rechtspersoon die een elektronisch uitwisselingssysteem beheert en in stand houdt, niet zijnde een zorgaanbieder als bedoeld in [artikel 1, onderdeel c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=1), is aangewezen als zorgaanbieder in de zin van de wet zolang voldaan wordt aan elk van de volgende voorwaarden:
+
+- a. een van de rechtspersoon onafhankelijke organisatie heeft na onderzoek vastgesteld dat de rechtspersoon en de voorziening voldoen aan de door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm 7510:2011 en heeft die bevinding opgenomen in een door die organisatie ten behoeve van de rechtspersoon opgesteld auditrapport;
+
+- b. de rechtspersoon heeft het College bescherming persoonsgegevens de in [artikel 27 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) voorgeschreven melding gedaan onder overlegging van het in onderdeel a bedoelde audit-rapport dat niet ouder is dan drie maanden;
+
+- c. de in onderdeel a bedoelde vaststelling is niet langer dan vijf jaar geleden gedaan.
 
 ### Hoofdstuk II. Registers
 
@@ -86,11 +98,11 @@ Bij ministeriële regeling kan worden bepaald welke gegevens en bescheiden worde
 
 ##### Artikel 4
 
-Onze Minister stelt, voor zover mogelijk aan de hand van wettelijk gestelde vereisten voor de hoedanigheid van zorgaanbieder, indicatieorgaan en zorgverzekeraar, vast of de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-06-14&g=2014-06-14), is gedaan door onderscheidenlijk een zorgaanbieder, een indicatieorgaan of een zorgverzekeraar.
+Onze Minister stelt, voor zover mogelijk aan de hand van wettelijk gestelde vereisten voor de hoedanigheid van zorgaanbieder, indicatieorgaan en zorgverzekeraar, vast of de aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-07-19&g=2014-07-19), is gedaan door onderscheidenlijk een zorgaanbieder, een indicatieorgaan of een zorgverzekeraar.
 
 ##### Artikel 5
 
-De aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-06-14&g=2014-06-14), wordt in ieder geval afgewezen indien deze niet is gedaan door een zorgaanbieder, indicatieorgaan of zorgverzekeraar.
+De aanvraag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-07-19&g=2014-07-19), wordt in ieder geval afgewezen indien deze niet is gedaan door een zorgaanbieder, indicatieorgaan of zorgverzekeraar.
 
 ##### Artikel 6
 
@@ -172,7 +184,7 @@ De inschrijving in het register wordt slechts doorgehaald:
 
 - a. de hoofdlijnen van de inrichting van de SBV-Z;
 
-- b. de inrichting en werking van de voorzieningen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-06-14&g=2014-06-14), met inbegrip van de wijze waarop de uitwisseling van gegevens door de SBV-Z met een zorgaanbieder, indicatieorgaan, zorgverzekeraar of jeugdzorgaanbieder enerzijds en de beheervoorziening anderzijds, plaatsvindt;
+- b. de inrichting en werking van de voorzieningen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-07-19&g=2014-07-19), met inbegrip van de wijze waarop de uitwisseling van gegevens door de SBV-Z met een zorgaanbieder, indicatieorgaan, zorgverzekeraar of jeugdzorgaanbieder enerzijds en de beheervoorziening anderzijds, plaatsvindt;
 
 - c. de wijze waarop de SBV-Z het geautomatiseerde systeem van een zorgaanbieder, indicatieorgaan, zorgverzekeraar of jeugdzorgaanbieder in staat stelt aan te sluiten op de SBV-Z;
 
@@ -188,7 +200,7 @@ Onze Minister zorgt er voor dat de SBV-Z functioneert op een wijze die overeenst
 
 1. Onze Minister draagt zorg voor de nodige maatregelen van technische en organisatorische aard ter beveiliging van de gegevens die de SBV-Z verwerkt tegen verlies of aantasting van deze gegevens en tegen onbevoegde kennisneming, opneming, wijziging, verwijdering of verstrekking van deze gegevens.
 
-2. Onze Minister draagt zorg voor de nodige maatregelen van technische en organisatorische aard ter beveiliging van de SBV-Z tegen onbevoegd gebruik en belemmering van de goede werking van de voorzieningen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-06-14&g=2014-06-14).
+2. Onze Minister draagt zorg voor de nodige maatregelen van technische en organisatorische aard ter beveiliging van de SBV-Z tegen onbevoegd gebruik en belemmering van de goede werking van de voorzieningen, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=III&artikel=11&z=2014-07-19&g=2014-07-19).
 
 3. De maatregelen, bedoeld in het eerste en tweede lid, hebben ten minste betrekking op:
 
@@ -238,7 +250,7 @@ Bij ministeriële regeling kan worden bepaald welke gegevens en bescheiden worde
 
 ##### Artikel 20
 
-1. De aanvraag, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=18&z=2014-06-14&g=2014-06-14), wordt toegekend, tenzij:
+1. De aanvraag, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=18&z=2014-07-19&g=2014-07-19), wordt toegekend, tenzij:
 
 - a. de aanvraag niet is gedaan door een geregistreerde;
 
@@ -276,9 +288,9 @@ Bij ministeriële regeling kan worden bepaald welke gegevens en bescheiden worde
 
 Het toegangsmiddel kan worden ingetrokken:
 
-- a. indien het toegangsmiddel niet is verstrekt op grond van [artikel 20, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=20&z=2014-06-14&g=2014-06-14);
+- a. indien het toegangsmiddel niet is verstrekt op grond van [artikel 20, tweede lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=20&z=2014-07-19&g=2014-07-19);
 
-- b. indien de vergoeding, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=21&z=2014-06-14&g=2014-06-14), niet is voldaan;
+- b. indien de vergoeding, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=21&z=2014-07-19&g=2014-07-19), niet is voldaan;
 
 - c. indien de inschrijving in het register is geschorst of is doorgehaald;
 
@@ -332,7 +344,7 @@ In afwijking van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 29
 
-1. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-06-14&g=2014-06-14) kan het burgerservicenummer worden gebruikt door apothekers en bij zorg die per telefoon of per elektronische bericht aan de cliënt wordt verleend, indien:
+1. In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-07-19&g=2014-07-19) kan het burgerservicenummer worden gebruikt door apothekers en bij zorg die per telefoon of per elektronische bericht aan de cliënt wordt verleend, indien:
 
 - a. de zorgaanbieder de identiteit van de cliënt aan de hand van de volgende gegevens van de cliënt controleert:
 
@@ -348,7 +360,7 @@ In afwijking van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. de zorgaanbieder bij het verstrekken van het burgerservicenummer vermeldt dat de identiteit van de cliënt niet is vastgesteld.
 
-2. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-06-14&g=2014-06-14), kan, met betrekking tot cliënten tot de leeftijd van 14 jaar, waarbij het vaststellen van de identiteit overeenkomstig het bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=5) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=6) bepaalde onmogelijk blijkt, het burgerservicenummer worden gebruikt bij jeugdgezondheidszorg als omschreven bij of krachtens de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) en bij vaccinaties, opgenomen in een vaccinatieprogramma als bedoeld in [artikel 18 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=18), indien de zorgaanbieder:
+2. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-07-19&g=2014-07-19), kan, met betrekking tot cliënten tot de leeftijd van 14 jaar, waarbij het vaststellen van de identiteit overeenkomstig het bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=5) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=6) bepaalde onmogelijk blijkt, het burgerservicenummer worden gebruikt bij jeugdgezondheidszorg als omschreven bij of krachtens de [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705) en bij vaccinaties, opgenomen in een vaccinatieprogramma als bedoeld in [artikel 18 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=18), indien de zorgaanbieder:
 
 - a. de identiteit van de cliënt controleert aan de hand van de gegevens genoemd in het eerste lid, onderdeel a, met de persoonslijst met burgerservicenummer die verstrekt is door de gemeente aan de cliënt, en
 
@@ -358,7 +370,7 @@ In afwijking van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 4. Als de cliënt, bedoeld in het tweede en derde lid, de leeftijd van 14 jaren heeft bereikt, stelt de zorgaanbieder, bedoeld in het tweede en derde lid, alsnog eenmalig de identiteit van de cliënt vast overeenkomstig het bepaalde krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=5) en [6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=6).
 
-5. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-06-14&g=2014-06-14), kan met betrekking tot een pasgeborene het burgerservicenummer gebruikt worden bij zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen, verloskundigen en kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) en [2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), indien de zorgaanbieder:
+5. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-07-19&g=2014-07-19), kan met betrekking tot een pasgeborene het burgerservicenummer gebruikt worden bij zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen, verloskundigen en kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling als bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) en [2.12 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), indien de zorgaanbieder:
 
 - a. tijdens de bevalling of direct daarna ter plaatse deze zorg heeft geboden en zich van de identiteit van de pasgeborene heeft kunnen vergewissen als kind van de kraamvrouw,
 
@@ -368,7 +380,7 @@ In afwijking van [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 30
 
-Bij ministeriële regeling kunnen regels worden gesteld over de aan de gegevensverwerking, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-06-14&g=2014-06-14), en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=29&z=2014-06-14&g=2014-06-14), te stellen beveiligingseisen.
+Bij ministeriële regeling kunnen regels worden gesteld over de aan de gegevensverwerking, bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=28&z=2014-07-19&g=2014-07-19), en [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=V&artikel=29&z=2014-07-19&g=2014-07-19), te stellen beveiligingseisen.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
@@ -378,9 +390,9 @@ Vervallen
 
 ##### Artikel 32
 
-1. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-06-14&g=2014-06-14), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=4&z=2014-06-14&g=2014-06-14) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=5&z=2014-06-14&g=2014-06-14) wordt in het register van zorgaanbieders opgenomen elke zorgaanbieder die een op het tijdstip van inwerkingtreding van dit besluit geldige overeenkomst terzake van een certificaat heeft gesloten met de Staat der Nederlanden.
+1. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=3&z=2014-07-19&g=2014-07-19), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=4&z=2014-07-19&g=2014-07-19) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=II&artikel=5&z=2014-07-19&g=2014-07-19) wordt in het register van zorgaanbieders opgenomen elke zorgaanbieder die een op het tijdstip van inwerkingtreding van dit besluit geldige overeenkomst terzake van een certificaat heeft gesloten met de Staat der Nederlanden.
 
-2. Op het tijdstip dat de overeenkomst, bedoeld in het eerste lid, met inachtneming van de daarvoor geldende termijn door Onze Minister is opgezegd, wordt een certificaat waarover de zorgaanbieder uit hoofde van de overeenkomst beschikt, aangemerkt als een certificaat dat op grond van dit besluit is verstrekt. De [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=21&z=2014-06-14&g=2014-06-14), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=22&z=2014-06-14&g=2014-06-14), [23, onderdelen b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=23&z=2014-06-14&g=2014-06-14), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=24&z=2014-06-14&g=2014-06-14) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=25&z=2014-06-14&g=2014-06-14) zijn van overeenkomstige toepassing op het certificaat.
+2. Op het tijdstip dat de overeenkomst, bedoeld in het eerste lid, met inachtneming van de daarvoor geldende termijn door Onze Minister is opgezegd, wordt een certificaat waarover de zorgaanbieder uit hoofde van de overeenkomst beschikt, aangemerkt als een certificaat dat op grond van dit besluit is verstrekt. De [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=21&z=2014-07-19&g=2014-07-19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=22&z=2014-07-19&g=2014-07-19), [23, onderdelen b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=23&z=2014-07-19&g=2014-07-19), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=24&z=2014-07-19&g=2014-07-19) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&hoofdstuk=IV&artikel=25&z=2014-07-19&g=2014-07-19) zijn van overeenkomstige toepassing op het certificaat.
 
 ##### Artikel 33
 
