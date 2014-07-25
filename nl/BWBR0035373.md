@@ -4,7 +4,7 @@ identifier: "BWBR0035373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-07-25"
-last_updated: "2014-07-01"
+last_updated: "2014-07-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035373"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Aan de directeur van het CIBG worden mandaat, volmacht en machtiging verleend vo
 
 ##### Artikel 2
 
-1. De directeur van het CIBG kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035373&artikel=1&z=2014-07-25&g=2014-07-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de hoofden van de afdelingen binnen het CIBG.
+1. De directeur van het CIBG kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035373&artikel=1&z=2014-07-25&g=2014-07-25) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de hoofden van de afdelingen binnen het CIBG.
 
 2. Het verlenen van ondermandaat, volmacht en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het ministerie van Veiligheid en Justitie.
 
