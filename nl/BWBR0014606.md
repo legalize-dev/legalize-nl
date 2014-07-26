@@ -4,7 +4,7 @@ identifier: "BWBR0014606"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-04-17"
-last_updated: "2014-03-19"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014606"
 soort: "AMvB"
@@ -266,11 +266,11 @@ De paragraaf betreffende de bedrijfsvoering geeft ten minste inzicht in de stand
 
 - b. het openbaar belang dat op deze wijze behartigd wordt;
 
-- c. de veranderingen die zich hebben voorgedaan gedurende het begrotingsjaar in het belang dat de gemeente onderscheidenlijk provincie in de verbonden partij heeft;
+- c. het belang dat de provincie onderscheidenlijk de gemeente in de verbonden partij heeft aan het begin en de verwachte omvang aan het einde van het begrotingsjaar;
 
-- d. het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;
+- d. de verwachte omvang van het eigen vermogen en het vreemd vermogen van de verbonden partij aan het begin en aan het einde van het begrotingsjaar;
 
-- e. het resultaat van de verbonden partij.
+- e. de verwachte omvang van het financiële resultaat van de verbonden partij in het begrotingsjaar.
 
 ##### Artikel 16
 
@@ -348,7 +348,7 @@ De toelichting op de uiteenzetting van de financiële positie bevat ten minste d
 
 1. De meerjarenraming bevat een raming van de financiële gevolgen voor de drie jaren volgend op het begrotingsjaar, waaronder de baten en de lasten van het bestaande en het nieuwe beleid dat in de programma's is opgenomen.
 
-2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.5&artikel=20&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
+2. [Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.5&artikel=20&z=2014-07-26&g=2014-07-26), is van overeenkomstige toepassing.
 
 ##### Artikel 23
 
@@ -404,7 +404,7 @@ De toelichting op de meerjarenraming bevat ten minste:
 
 ##### Artikel 26
 
-Het jaarverslag bevat de paragrafen die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.3&artikel=9&z=2014-03-19&g=2014-03-19) in de begroting zijn opgenomen. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
+Het jaarverslag bevat de paragrafen die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.3&artikel=9&z=2014-07-26&g=2014-07-26) in de begroting zijn opgenomen. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.
 
 ## Titel 4.4. Het overzicht van baten en lasten in de jaarrekening en de toelichting
 
@@ -412,7 +412,7 @@ Het jaarverslag bevat de paragrafen die ingevolge [artikel 9](https://wetten.ove
 
 1. Het overzicht van baten en lasten in de jaarrekening bevat:
 
-- a. per programma, of per programmaonderdeel als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.2&artikel=8&z=2014-03-19&g=2014-03-19), de gerealiseerde baten en lasten en het saldo daarvan;
+- a. per programma, of per programmaonderdeel als bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.2&artikel=8&z=2014-07-26&g=2014-07-26), de gerealiseerde baten en lasten en het saldo daarvan;
 
 - b. het overzicht van de gerealiseerde algemene dekkingsmiddelen;
 
@@ -428,7 +428,7 @@ Het jaarverslag bevat de paragrafen die ingevolge [artikel 9](https://wetten.ove
 
 De toelichting op het overzicht van baten en lasten in de jaarrekening bevat ten minste:
 
-- a. voor alle onderdelen van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.4&artikel=27&z=2014-03-19&g=2014-03-19), een analyse van de afwijkingen tussen de begroting na wijziging en de jaarstukken;
+- a. voor alle onderdelen van [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.4&artikel=27&z=2014-07-26&g=2014-07-26), een analyse van de afwijkingen tussen de begroting na wijziging en de jaarstukken;
 
 - b. een overzicht van de aanwending van het bedrag voor onvoorzien;
 
@@ -440,7 +440,7 @@ De toelichting op het overzicht van baten en lasten in de jaarrekening bevat ten
 
 ##### Artikel 29
 
-Het overzicht van baten en lasten in de jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de jaarstukken en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=I&artikel=3&z=2014-03-19&g=2014-03-19) bedoelde inzicht.
+Het overzicht van baten en lasten in de jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële positie op de balansdatum is gebleken tussen het moment van opmaken van de jaarstukken en het tijdstip van vaststelling daarvan, voor zover deze aanvullende informatie onontbeerlijk is voor het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=I&artikel=3&z=2014-07-26&g=2014-07-26) bedoelde inzicht.
 
 ## Titel 4.5. De balans en de toelichting
 
@@ -598,9 +598,9 @@ Onder de vaste passiva worden afzonderlijk opgenomen het eigen vermogen, de voor
 
 - c. kosten die in een volgend begrotingsjaar zullen worden gemaakt, mits het maken van die kosten zijn oorsprong mede vindt in het begrotingsjaar of in een voorafgaand begrotingsjaar en de voorziening strekt tot gelijkmatige verdeling van lasten over een aantal begrotingsjaren;
 
-- d. de bijdragen aan toekomstige vervangingsinvesteringen, waarvoor een heffing wordt geheven als bedoeld in [artikel 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=35&z=2014-03-19&g=2014-03-19).
+- d. de bijdragen aan toekomstige vervangingsinvesteringen, waarvoor een heffing wordt geheven als bedoeld in [artikel 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=35&z=2014-07-26&g=2014-07-26).
 
-2. Tot de voorzieningen worden ook gerekend van derden verkregen middelen die specifiek besteed moeten worden, met uitzondering van de voorschotbedragen, bedoeld in [artikel 49, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-03-19&g=2014-03-19).
+2. Tot de voorzieningen worden ook gerekend van derden verkregen middelen die specifiek besteed moeten worden, met uitzondering van de voorschotbedragen, bedoeld in [artikel 49, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-07-26&g=2014-07-26).
 
 3. Voorzieningen worden niet gevormd voor jaarlijks terugkerende arbeidskosten gerelateerde verplichtingen van vergelijkbaar volume.
 
@@ -724,7 +724,7 @@ In de toelichting op de balans worden de niet in de balans opgenomen belangrijke
 
 ##### Artikel 55
 
-1. In de toelichting op de balans worden de aard en reden van de voorzieningen, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-03-19&g=2014-03-19) en de wijzigingen daarin toegelicht.
+1. In de toelichting op de balans worden de aard en reden van de voorzieningen, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-07-26&g=2014-07-26) en de wijzigingen daarin toegelicht.
 
 2. Per voorziening wordt het verloop gedurende het jaar in een overzicht weergegeven. Daaruit blijken:
 
@@ -740,11 +740,11 @@ In de toelichting op de balans worden de niet in de balans opgenomen belangrijke
 
 ##### Artikel 56
 
-In de toelichting op de balans wordt de rentelast voor het begrotingsjaar vermeld van alle vaste schulden, genoemd in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=46&z=2014-03-19&g=2014-03-19).
+In de toelichting op de balans wordt de rentelast voor het begrotingsjaar vermeld van alle vaste schulden, genoemd in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=46&z=2014-07-26&g=2014-07-26).
 
 ##### Artikel 57
 
-1. In de toelichting op de balans worden de borgstellingen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=50&z=2014-03-19&g=2014-03-19), gespecificeerd naar de aard van de geldleningen.
+1. In de toelichting op de balans worden de borgstellingen, bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=50&z=2014-07-26&g=2014-07-26), gespecificeerd naar de aard van de geldleningen.
 
 2. Per specificatie wordt vermeld:
 
@@ -756,13 +756,13 @@ In de toelichting op de balans wordt de rentelast voor het begrotingsjaar vermel
 
 - d. het restantbedrag van de lening aan het eind van het begrotingsjaar.
 
-3. In de toelichting op de balans wordt een specificatie opgenomen van de garantstellingen als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=50&z=2014-03-19&g=2014-03-19).
+3. In de toelichting op de balans wordt een specificatie opgenomen van de garantstellingen als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=50&z=2014-07-26&g=2014-07-26).
 
 4. In de toelichting wordt ook opgenomen het totaalbedrag van de betalingen die inzake de borg- en garantstelling zijn gedaan tot en met het eind van het begrotingsjaar.
 
 ##### Artikel 58
 
-[Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.4&artikel=29&z=2014-03-19&g=2014-03-19) is van overeenkomstige toepassing op de balans.
+[Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.4&artikel=29&z=2014-07-26&g=2014-07-26) is van overeenkomstige toepassing op de balans.
 
 ### Hoofdstuk V. Waardering, activeren en afschrijven
 
@@ -806,9 +806,9 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd, indien:
 
 2. In afwijking van het eerste lid kunnen bijdragen van derden die in directe relatie staan met een actief op de waardering daarvan in mindering worden gebracht.
 
-3. In afwijking van het eerste lid kunnen reserves in mindering worden gebracht op investeringen, als bedoeld in [artikel 59, het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=59&z=2014-03-19&g=2014-03-19).
+3. In afwijking van het eerste lid kunnen reserves in mindering worden gebracht op investeringen, als bedoeld in [artikel 59, het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=59&z=2014-07-26&g=2014-07-26).
 
-4. In afwijking van het eerste lid moeten de voorzieningen, bedoeld in [artikel 44, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-03-19&g=2014-03-19), in mindering gebracht worden op de investeringen, bedoeld in [artikel 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=35&z=2014-03-19&g=2014-03-19).
+4. In afwijking van het eerste lid moeten de voorzieningen, bedoeld in [artikel 44, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-07-26&g=2014-07-26), in mindering gebracht worden op de investeringen, bedoeld in [artikel 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=35&z=2014-07-26&g=2014-07-26).
 
 ##### Artikel 63
 
@@ -834,13 +834,13 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd, indien:
 
 2. Slechts om gegronde redenen mogen de afschrijvingen geschieden op andere grondslagen dan die welke in het voorafgaande begrotingsjaar zijn toegepast. De reden van de verandering wordt in de toelichting op de balans uiteengezet. Tevens wordt inzicht gegeven in haar betekenis voor de financiële positie en voor de baten en de lasten aan de hand van aangepaste cijfers voor het begrotingsjaar of voor het voorafgaande begrotingsjaar.
 
-3. Op vaste activa met een beperkte gebruiksduur, waaronder begrepen de financiële vaste activa, bedoeld in [artikel 36, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=36&z=2014-03-19&g=2014-03-19), wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
+3. Op vaste activa met een beperkte gebruiksduur, waaronder begrepen de financiële vaste activa, bedoeld in [artikel 36, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=36&z=2014-07-26&g=2014-07-26), wordt jaarlijks afgeschreven volgens een stelsel dat is afgestemd op de verwachte toekomstige gebruiksduur.
 
-4. In afwijking van het eerste en het derde lid kan er op de activa, bedoeld in [artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=59&z=2014-03-19&g=2014-03-19), extra worden afgeschreven.
+4. In afwijking van het eerste en het derde lid kan er op de activa, bedoeld in [artikel 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=59&z=2014-07-26&g=2014-07-26), extra worden afgeschreven.
 
-5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 34 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=34&z=2014-03-19&g=2014-03-19), maximaal gelijk aan de looptijd van de lening.
+5. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 34 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=34&z=2014-07-26&g=2014-07-26), maximaal gelijk aan de looptijd van de lening.
 
-6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 34 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=34&z=2014-03-19&g=2014-03-19), ten hoogste vijf jaar.
+6. In afwijking van het derde lid is de afschrijvingsduur voor de immateriële vaste activa, bedoeld in [artikel 34 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=34&z=2014-07-26&g=2014-07-26), ten hoogste vijf jaar.
 
 ##### Artikel 65
 
@@ -882,7 +882,7 @@ Bijdragen aan activa in eigendom van derden kunnen worden geactiveerd, indien:
 
 - a. een overzicht van kapitaallasten;
 
-- b. de toelichting op onderhanden werk inzake grondexploitatie, bedoeld in [artikel 38, onder a, onder 1 en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=38&z=2014-03-19&g=2014-03-19).
+- b. de toelichting op onderhanden werk inzake grondexploitatie, bedoeld in [artikel 38, onder a, onder 1 en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=38&z=2014-07-26&g=2014-07-26).
 
 ##### Artikel 68
 
@@ -918,7 +918,7 @@ Vervallen
 
 2. Van de nog niet in exploitatie genomen gronden wordt de gemiddelde boekwaarde per m2 vermeld.
 
-### Hoofdstuk VII. Informatie voor derden
+### Hoofdstuk VI. Uitvoeringsinformatie
 
 ##### Artikel 71
 
@@ -982,19 +982,19 @@ Indien de informatie voor derden niet voldoende inzicht biedt kan Onze Minister 
 
 - b. de stand van zaken betreffende de volgende activa:
 
-- 1. de financiële vaste activa, als bedoeld in [artikel 36, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=36&z=2014-03-19&g=2014-03-19);
+- 1. de financiële vaste activa, als bedoeld in [artikel 36, onder a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.3&artikel=36&z=2014-07-26&g=2014-07-26);
 
-- 2. de uitzettingen, als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=39&z=2014-03-19&g=2014-03-19);
+- 2. de uitzettingen, als bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=39&z=2014-07-26&g=2014-07-26);
 
-- 3. de liquide middelen, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40&z=2014-03-19&g=2014-03-19);
+- 3. de liquide middelen, als bedoeld in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40&z=2014-07-26&g=2014-07-26);
 
 - 4. de overlopende activa;
 
 - c. de stand van zaken betreffende de volgende passiva:
 
-- 1. de vaste schulden, als bedoeld en onderverdeeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=46&z=2014-03-19&g=2014-03-19);
+- 1. de vaste schulden, als bedoeld en onderverdeeld in [artikel 46](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=46&z=2014-07-26&g=2014-07-26);
 
-- 2. de netto-vlottende schulden, als bedoeld en onderverdeeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=48&z=2014-03-19&g=2014-03-19);
+- 2. de netto-vlottende schulden, als bedoeld en onderverdeeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=48&z=2014-07-26&g=2014-07-26);
 
 - 3. de overlopende passiva.
 
@@ -1076,9 +1076,9 @@ Bij het besluit tot benoeming houdt de voorzitter rekening met in de commissie n
 
 ##### Artikel 76
 
-1. In afwijking van [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-03-19&g=2014-03-19), worden activa, die op 31 december 1994 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde voor de rest van de periode afgeschreven.
+1. In afwijking van [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-07-26&g=2014-07-26), worden activa, die op 31 december 1994 tegen actuele waarde zijn gewaardeerd, volgens de op dat moment aanwezige boekwaarde voor de rest van de periode afgeschreven.
 
-2. In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=62&z=2014-03-19&g=2014-03-19), worden alle activa waar voor 31 december 2003 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2003 aanwezige boekwaarde voor de rest van de periode afgeschreven.
+2. In afwijking van [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=62&z=2014-07-26&g=2014-07-26), worden alle activa waar voor 31 december 2003 reserves op in mindering zijn gebracht op de waarde volgens de op 31 december 2003 aanwezige boekwaarde voor de rest van de periode afgeschreven.
 
 ##### Artikel 77
 
@@ -1128,7 +1128,7 @@ In de balans worden onder de overlopende activa afzonderlijk opgenomen:
 
 ##### Artikel 52a
 
-1. In de toelichting op de balans wordt per uitkering met een specifiek bestedingsdoel het verloop gedurende het jaar van de ontvangen voorschotbedragen, bedoeld in [artikel 49, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-03-19&g=2014-03-19), in een overzicht weergegeven. Daaruit blijken:
+1. In de toelichting op de balans wordt per uitkering met een specifiek bestedingsdoel het verloop gedurende het jaar van de ontvangen voorschotbedragen, bedoeld in [artikel 49, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-07-26&g=2014-07-26), in een overzicht weergegeven. Daaruit blijken:
 
 - a. het saldo aan het begin van het begrotingsjaar;
 
@@ -1138,7 +1138,7 @@ In de balans worden onder de overlopende activa afzonderlijk opgenomen:
 
 - d. het saldo aan het einde van het begrotingsjaar.
 
-2. In de toelichting op de balans wordt per uitkering met een specifiek bestedingsdoel het verloop gedurende het jaar van de nog te ontvangen voorschotbedragen, bedoeld in [artikel 40a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40a&z=2014-03-19&g=2014-03-19), in een overzicht weergegeven. Daaruit blijken:
+2. In de toelichting op de balans wordt per uitkering met een specifiek bestedingsdoel het verloop gedurende het jaar van de nog te ontvangen voorschotbedragen, bedoeld in [artikel 40a, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40a&z=2014-07-26&g=2014-07-26), in een overzicht weergegeven. Daaruit blijken:
 
 - a. het saldo aan het begin van het begrotingsjaar;
 
@@ -1150,7 +1150,7 @@ In de balans worden onder de overlopende activa afzonderlijk opgenomen:
 
 ##### Artikel 52b
 
-De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-03-19&g=2014-03-19), van de vaste activa, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=65&z=2014-03-19&g=2014-03-19), en van de deelnemingen en voorraden, bedoeld in [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=65&z=2014-03-19&g=2014-03-19), worden in de toelichting op de balans opgenomen.
+De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van de leningen en vorderingen, bedoeld in [artikel 63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-07-26&g=2014-07-26), van de vaste activa, bedoeld in [artikel 65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=65&z=2014-07-26&g=2014-07-26), en van de deelnemingen en voorraden, bedoeld in [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=65&z=2014-07-26&g=2014-07-26), worden in de toelichting op de balans opgenomen.
 
 ## Titel 4.6. De bijlage met de verantwoordingsinformatie over specifieke uitkeringen.
 
@@ -1164,10 +1164,30 @@ De aard en omvang van de aangebrachte dan wel geraamde waardeverminderingen van 
 
 ##### Artikel 76a
 
-1. De [artikelen 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40a&z=2014-03-19&g=2014-03-19), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=52a&z=2014-03-19&g=2014-03-19) en [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=52b&z=2014-03-19&g=2014-03-19) zijn niet van toepassing op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007.
+1. De [artikelen 40a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.4&artikel=40a&z=2014-07-26&g=2014-07-26), [52a](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=52a&z=2014-07-26&g=2014-07-26) en [52b](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=52b&z=2014-07-26&g=2014-07-26) zijn niet van toepassing op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007.
 
-2. Op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007, zijn de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=I&artikel=2&z=2014-03-19&g=2014-03-19), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.4&artikel=19&z=2014-03-19&g=2014-03-19), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=43&z=2014-03-19&g=2014-03-19), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-03-19&g=2014-03-19), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-03-19&g=2014-03-19), [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=55&z=2014-03-19&g=2014-03-19), [63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-03-19&g=2014-03-19), [64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=64&z=2014-03-19&g=2014-03-19), van toepassing zoals deze golden op 9 juli 2007.
+2. Op de begrotingswijzigingen, de jaarstukken, de uitvoeringsinformatie en de informatie voor derden en de daarbij behorende toelichtingen voor het begrotingsjaar 2007, zijn de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=I&artikel=2&z=2014-07-26&g=2014-07-26), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=II&titeldeel=2.4&artikel=19&z=2014-07-26&g=2014-07-26), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=43&z=2014-07-26&g=2014-07-26), [44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-07-26&g=2014-07-26), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-07-26&g=2014-07-26), [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=55&z=2014-07-26&g=2014-07-26), [63, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=63&z=2014-07-26&g=2014-07-26), [64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=V&artikel=64&z=2014-07-26&g=2014-07-26), van toepassing zoals deze golden op 9 juli 2007.
 
-3. Gemeenten die meerjarige specifieke uitkeringen ontvangen, waarvan de meerjarige uitkeringsperiode vóór 1-1-2007 aanving, kunnen hierover verantwoording afleggen op grond van de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-03-19&g=2014-03-19), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-03-19&g=2014-03-19) en [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=55&z=2014-03-19&g=2014-03-19) zoals deze golden op 9 juli 2007.
+3. Gemeenten die meerjarige specifieke uitkeringen ontvangen, waarvan de meerjarige uitkeringsperiode vóór 1-1-2007 aanving, kunnen hierover verantwoording afleggen op grond van de [artikelen 44, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.5&artikel=44&z=2014-07-26&g=2014-07-26), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.6&artikel=49&z=2014-07-26&g=2014-07-26) en [55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&hoofdstuk=IV&titeldeel=4.5&paragraaf=4.5.7&artikel=55&z=2014-07-26&g=2014-07-26) zoals deze golden op 9 juli 2007.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 52c
+
+In de toelichting op de balans wordt vermeld:
+
+- a. het drempelbedrag voor het begrotingsjaar waarover verantwoording wordt afgelegd; en
+
+- b. voor ieder kwartaal van dat jaar, het bedrag aan middelen, bedoeld in [artikel 2, vierde lid, van de Wet financiering decentrale overheden](https://wetten.overheid.nl/jci1.3:c:BWBR0011987&artikel=2), dat in het kader van het drempelbedrag door de provincie onderscheidenlijk de gemeente buiten ’s Rijks schatkist is aangehouden.
+
+## Titel 4.6. De bijlage met de verantwoordingsinformatie over specifieke uitkeringen.
+
+### Hoofdstuk V. Waardering, activeren en afschrijven
+
+### Hoofdstuk VII. Informatie voor derden
+
+### Hoofdstuk VIII. Commissie besluit begroting en verantwoording
+
+### Hoofdstuk IX. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
