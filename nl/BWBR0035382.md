@@ -4,7 +4,7 @@ identifier: "BWBR0035382"
 country: "nl"
 rank: "zbo"
 publication_date: "2018-03-31"
-last_updated: "2014-07-01"
+last_updated: "2014-07-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035382"
 soort: "zbo"
@@ -46,7 +46,7 @@ Besluit:
 
 - a. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
 
-- b. **uitkering:** een uitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving), alsook ziekengeld ingevolge de Ziektewet, inkomensvoorziening ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten en toeslag ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+- b. **uitkering:** een uitkering ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) en de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), alsook ziekengeld ingevolge de Ziektewet, inkomensvoorziening ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten en toeslag ingevolge de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
 
 - c. **verzekerde:** de aanvrager van een uitkering of de rechthebbende op een uitkering;
 
@@ -60,7 +60,7 @@ Als van de verzekerde bij UWV een adres in Nederland bekend is, terwijl in de ba
 
 ##### Artikel 3. Geen opschorting en beëindiging opschorting
 
-1. Opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-01), vindt niet plaats of wordt beëindigd, als:
+1. Opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-26), vindt niet plaats of wordt beëindigd, als:
 
 - a. de uitkering of een deel van de uitkering niet of niet langer rechtstreeks aan de verzekerde zelf wordt uitbetaald; of
 
@@ -82,7 +82,7 @@ Een opschorting wordt geëffectueerd met ingang van de eerstvolgende betaling.
 
 ##### Artikel 5. Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006
 
-De Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006 zijn niet van toepassing op de opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-01).
+De Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006 zijn niet van toepassing op de opschorting in verband met de afwijkende registratie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035382&artikel=2&z=2014-07-26&g=2014-07-26).
 
 ##### Artikel 6. Inwerkingtreding
 
