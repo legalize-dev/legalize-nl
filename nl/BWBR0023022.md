@@ -4,7 +4,7 @@ identifier: "BWBR0023022"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023022"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 1. Bij concentraties waarbij ten minste twee van de betrokken ondernemingen in het voorafgaande kalenderjaar met het verlenen van zorg, als bedoeld in het tweede lid, ieder afzonderlijk een omzet hebben behaald van meer dan € 5 500 000, worden de bedragen, bedoeld in [artikel 29, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=29), als volgt verlaagd:
 
-- a. het bedrag van € 113 450 000 wordt verlaagd tot € 55 000 000;
+- a. het bedrag van € 150.000.000 wordt verlaagd tot € 55 000 000;
 
 - b. het bedrag van € 30 000 000 wordt verlaagd tot € 10 000 000.
 
