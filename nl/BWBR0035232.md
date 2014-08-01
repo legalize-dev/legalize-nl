@@ -4,7 +4,7 @@ identifier: "BWBR0035232"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2014-07-16"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035232"
 soort: "ministeriele-regeling"
@@ -102,21 +102,21 @@ Wijzigt de Uitvoeringsregeling energie-investeringsaftrek 2001.
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2014.
 
-2. [Artikel I, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=I&z=2014-07-16&g=2014-07-16), werkt terug tot en met 1 januari 2011.
+2. [Artikel I, onderdelen B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=I&z=2014-08-01&g=2014-08-01), werkt terug tot en met 1 januari 2011.
 
-3. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=I&z=2014-07-16&g=2014-07-16), en [artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIII&z=2014-07-16&g=2014-07-16), werken terug tot en met 1 januari 2013.
+3. [Artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=I&z=2014-08-01&g=2014-08-01), en [artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIII&z=2014-08-01&g=2014-08-01), werken terug tot en met 1 januari 2013.
 
-4. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=V&z=2014-07-16&g=2014-07-16) werkt terug tot en met 24 december 2013.
+4. [Artikel V](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=V&z=2014-08-01&g=2014-08-01) werkt terug tot en met 24 december 2013.
 
-5. [Artikel VII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=VII&z=2014-07-16&g=2014-07-16), [artikel VIII, onderdelen A, H, I, J en M, onder 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=VIII&z=2014-07-16&g=2014-07-16), [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=X&z=2014-07-16&g=2014-07-16), [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XII&z=2014-07-16&g=2014-07-16), en [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIV&z=2014-07-16&g=2014-07-16) werken terug tot en met 1 januari 2014.
+5. [Artikel VII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=VII&z=2014-08-01&g=2014-08-01), [artikel VIII, onderdelen A, H, I, J en M, onder 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=VIII&z=2014-08-01&g=2014-08-01), [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=X&z=2014-08-01&g=2014-08-01), [artikel XII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XII&z=2014-08-01&g=2014-08-01), en [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIV&z=2014-08-01&g=2014-08-01) werken terug tot en met 1 januari 2014.
 
-6. In afwijking van het eerste lid treedt [artikel III, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=III&z=2014-07-16&g=2014-07-16), in werking met ingang van 1 augustus 2014 en werkt terug tot en met januari 2013.
+6. In afwijking van het eerste lid treedt [artikel III, onderdeel B, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=III&z=2014-08-01&g=2014-08-01), in werking met ingang van 1 augustus 2014 en werkt terug tot en met januari 2013.
 
-7. In afwijking van het eerste lid treedt [artikel XIII, onderdelen B, C en G](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIII&z=2014-07-16&g=2014-07-16), in werking met ingang van 1 oktober 2014.
+7. In afwijking van het eerste lid treedt [artikel XIII, onderdelen B, C en G](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XIII&z=2014-08-01&g=2014-08-01), in werking met ingang van 1 oktober 2014.
 
-8. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=IV&z=2014-07-16&g=2014-07-16), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XI&z=2014-07-16&g=2014-07-16) en [XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XII&z=2014-07-16&g=2014-07-16), in werking met ingang van 1 januari 2015.
+8. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=IV&z=2014-08-01&g=2014-08-01), [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XI&z=2014-08-01&g=2014-08-01) en [XII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=XII&z=2014-08-01&g=2014-08-01), in werking met ingang van 1 januari 2015.
 
-9. In afwijking van het eerste lid treedt [artikel III, onderdelen A, B, onder 1, en C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=III&z=2014-07-16&g=2014-07-16), in werking op het tijdstip waarop het bij koninklijke boodschap van 9 september 2013 ingediende [voorstel van wet tot afschaffing van de algemene tegemoetkoming voor chronisch zieken en gehandicapten, de compensatie voor het verplicht eigen risico, de fiscale aftrek van uitgaven voor specifieke zorgkosten en de tegemoetkoming specifieke zorgkosten en wijziging van de grondslag van de tegemoetkoming voor arbeidsongeschikten](onbekend) (Kamerstukken 33 726) tot wet is verheven en die wet in werking treedt, en werkt terug tot en met 1 januari 2014.
+9. In afwijking van het eerste lid treedt [artikel III, onderdelen A, B, onder 1, en C](https://wetten.overheid.nl/jci1.3:c:BWBR0035232&artikel=III&z=2014-08-01&g=2014-08-01), in werking op het tijdstip waarop het bij koninklijke boodschap van 9 september 2013 ingediende [voorstel van wet tot afschaffing van de algemene tegemoetkoming voor chronisch zieken en gehandicapten, de compensatie voor het verplicht eigen risico, de fiscale aftrek van uitgaven voor specifieke zorgkosten en de tegemoetkoming specifieke zorgkosten en wijziging van de grondslag van de tegemoetkoming voor arbeidsongeschikten](onbekend) (Kamerstukken 33 726) tot wet is verheven en die wet in werking treedt, en werkt terug tot en met 1 januari 2014.
 
 Handelende wat [artikel 3.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft, in overeenstemming met de Minister van Infrastructuur en Milieu;
 
