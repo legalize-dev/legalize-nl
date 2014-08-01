@@ -4,7 +4,7 @@ identifier: "BWBR0003848"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-04-01"
-last_updated: "2013-12-19"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003848"
 soort: "AMvB"
@@ -54,9 +54,9 @@ wet: [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549
 
 **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschappen;
 
-school: een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder a, b, c, f, g, h, j, k, m of n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 9, eerste lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=9), tenzij het tegendeel blijkt;
+school: een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 2, tweede lid, onder f, g, h, j, k, m of n, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2), dan wel een instelling voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), tenzij het tegendeel blijkt;
 
-instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8);
+instelling: instelling als bedoeld in [artikel 8, eerste lid, tweede of derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8);
 
 **bevoegd gezag** voor wat betreft:
 
@@ -92,23 +92,21 @@ instelling: instelling als bedoeld in [artikel 8, eerste lid, van de wet](https:
 
 **symbiose:** onderwijs waarbij een leerling of leerlingen, ter uitvoering van een deel van het schoolplan voor zover het betrekking heeft op speciaal onderwijs en voortgezet speciaal onderwijs als bedoeld in [artikel 14, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), en [artikel 14a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14a), van de wet, onderwijs ontvangt onderscheidenlijk ontvangen op een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs;
 
-**ambulante begeleiding**: de begeleiding, bedoeld in [artikel 8a, derde lid onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8a);
-
-**teldatum:** een van de data, bedoeld in [artikel 93**b** van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=93).
+**teldatum:** een van de data, bedoeld in [artikel 118 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=118).
 
 ## Titel II. Afdelingen
 
 ##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
-1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel **a** tot en met **c**, **f**, en **h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2013-12-19&g=2013-12-19) tot en met **m** van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
+1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2014-08-01&g=2014-08-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
-2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap, met dien verstande dat een van de handicaps de handicap is op grond waarvan zij tot de school waaraan de afdeling is verbonden, kunnen worden toegelaten.
+2. De afdeling bedoeld in het eerste lid, is bestemd voor kinderen met eenzelfde meervoudige handicap.
 
 3. Onze Minister geeft voorschriften voor de toelating tot een afdeling als bedoeld in het eerste lid.
 
 ##### Artikel 3. Afdelingen voor kinderen met ernstige spraakmoeilijkheden
 
-Aan scholen voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs aan slechthorende kinderen kan een afdeling voor speciaal onderwijs aan kinderen met ernstige spraakmoeilijkheden worden verbonden.
+Vervallen
 
 ##### Artikel 4. Inhoud ontwikkelingsperspectief speciaal onderwijs
 
@@ -176,13 +174,13 @@ Vervallen
 
 ##### Artikel 11. Symbiose
 
-Indien symbiose plaatsheeft, volgt de leerling, dan wel volgen de leerlingen aan de andere school, de basisschool, de speciale school voor basisonderwijs, de school voor voortgezet onderwijs of de instelling voor educatie en beroepsonderwijs gedurende ten minste 180 minuten per week onderwijs.
+Vervallen
 
 ##### Artikel 12. Symbiose-overeenkomst
 
 1. Voor symbiose is vereist dat tussen het bevoegd gezag van een school en het bevoegd gezag van een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs een schriftelijke overeenkomst inzake de uitvoering daarvan wordt gesloten.
 
-2. De overeenkomst bedoeld in het eerste lid, wordt aangegaan voor een termijn van ten minste 2 aaneengesloten schooljaren en bevat in elk geval:
+2. De overeenkomst bedoeld in het eerste lid bevat in elk geval:
 
 - a. de termijn waarvoor de overeenkomst is aangegaan;
 
