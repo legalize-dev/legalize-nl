@@ -4,7 +4,7 @@ identifier: "BWBR0011400"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2013-08-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011400"
 soort: "AMvB"
@@ -52,9 +52,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2013-08-01&g=2013-08-01),
+**cursist**: degene die een opleiding volgt als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2014-08-01&g=2014-08-01),
 
-**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2013-08-01&g=2013-08-01) vastgesteld bedrag,
+**cursusgeld:**krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2014-08-01&g=2014-08-01) vastgesteld bedrag,
 
 **cursusgeldplichtige**: cursist of indien deze minderjarig is, de wettelijke vertegenwoordiger,
 
@@ -138,7 +138,7 @@ Voor een leerling die na 31 oktober van een schooljaar wordt ingeschreven aan ee
 
 - a. het met goed gevolg hebben afgerond van de opleiding,
 
-- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2013-08-01&g=2013-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
+- b. de inschrijving voor een cursus als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2014-08-01&g=2014-08-01), mits die inschrijving plaatsvindt in het desbetreffende schooljaar,
 
 - c. overlijden of ernstige ziekte van de leerling, of
 
@@ -164,9 +164,9 @@ De dagscholen verstrekken Onze minister gegevens omtrent de inschrijving op een 
 
 4. Inschrijving geschiedt niet dan nadat:
 
-- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2013-08-01&g=2013-08-01) van toepassing is, of
+- a. het cursusgeld is voldaan, tenzij [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2014-08-01&g=2014-08-01) van toepassing is, of
 
-- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2013-08-01&g=2013-08-01) is getroffen.
+- b. een betalingsregeling als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=11&z=2014-08-01&g=2014-08-01) is getroffen.
 
 ##### Artikel 10. Beëindiging inschrijving
 
@@ -182,13 +182,13 @@ Het bevoegd gezag beëindigt de inschrijving van de cursist op aanvraag van de c
 
 - b. het bij de inschrijving treffen van een regeling inzake de betaling van het cursusgeld tussen het bevoegd gezag en de cursusgeldplichtige alsmede de naleving door de cursusgeldplichtige, of
 
-- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2013-08-01&g=2013-08-01) van toepassing is.
+- c. schriftelijke vaststelling bij de inschrijving door of namens het bevoegd gezag dat op de cursusgeldplichtige [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=13&z=2014-08-01&g=2014-08-01) van toepassing is.
 
 3. De laatste termijn van het cursusgeld wordt in ieder geval betaald binnen 4 maanden na aanvang van de cursus, en uiterlijk voor het einde van de cursus.
 
 4. Indien een cursist in een cursusjaar bij dezelfde instelling voor meerdere cursussen staat ingeschreven, is het cursusgeld van de cursus met het hoogste cursusgeldtarief verschuldigd.
 
-5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2013-08-01&g=2013-08-01).
+5. De cursusgeldplichtige verstrekt aan het bevoegd gezag bewijsstukken voor de aanspraak op terugbetaling van cursusgeld als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=14&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 12. Vermindering cursusgeld
 
@@ -196,7 +196,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 13. Geen cursusgeld verschuldigd
 
-1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2013-08-01&g=2013-08-01).
+1. Geen cursusgeld is verschuldigd indien de cursist bij aanvang van het cursusjaar waarin de cursus plaatsvindt de leeftijd van 18 jaren nog niet heeft bereikt, tenzij het betreft de inschrijving bij een deeltijdopleiding als bedoeld in [artikel 15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2014-08-01&g=2014-08-01).
 
 2. Geen cursusgeld is verschuldigd indien de cursist bij de instelling die de cursus verzorgt, tevens is ingeschreven voor een opleiding waarvoor lesgeld is verschuldigd.
 
@@ -224,7 +224,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 1. Het cursusgeldtarief voor de volgende categorieën cursussen bedraagt naar de maatstaf van 1 augustus 2006:
 
-- a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2012: € 221 per cursusjaar,
+- a. opleidingen beroepsonderwijs voor zover het betreft de assistent-opleiding, de entreeopleiding en de basisberoepsopleiding: € 199,71 per 1 augustus 2012: € 221 per cursusjaar,
 
 - b. opleidingen beroepsonderwijs voor zover het betreft de vakopleiding, de middenkaderopleiding en de specialistenopleiding: € 485,60 per 1 augustus 2012: € 536 per cursusjaar,
 
@@ -240,7 +240,7 @@ Voor een cursist die in de loop van het cursusjaar wordt ingeschreven, wordt het
 
 ##### Artikel 16. Afwijking cursusgeldtarieven
 
-Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2013-08-01&g=2013-08-01) genoemde cursusgeldtarieven worden verlaagd.
+Indien de aard van het onderwijs, de cursusduur, het aantal lessen of de doelgroep van de cursus daartoe aanleiding geeft, kunnen bij ministeriële regeling de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0011400&hoofdstuk=3&artikel=15&z=2014-08-01&g=2014-08-01) genoemde cursusgeldtarieven worden verlaagd.
 
 ### Hoofdstuk 4. Slot- en overgangsbepalingen
 
