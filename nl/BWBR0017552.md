@@ -4,7 +4,7 @@ identifier: "BWBR0017552"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2004-12-08"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017552"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Onverminderd [artikel 2, zesde lid, onderdeel a, van de Regeling VFR-nachtvluchten en minimum vlieghoogten voor militaire luchtvaartuigen](onbekend) gelden ten aanzien van vluchten met militaire luchtvaartuigen, waarbij door het doel van de vlucht niet kan worden voldaan aan de bij en krachtens [artikel 28 van het Luchtverkeersreglement](onbekend) gestelde regels met betrekking tot het voeren van luchtvaartuiglichten, de volgende nadere regels:
+Onverminderd [artikel 13, onderdeel a, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=13) gelden ten aanzien van vluchten met militaire luchtvaartuigen, waarbij door het doel van de vlucht niet kan worden voldaan aan de bij en krachtens [artikel 28 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=28) gestelde regels met betrekking tot het voeren van luchtvaartuiglichten, de volgende nadere regels:
 
 - a. de noodzaak tot het uitvoeren van de vlucht, of een deel daarvan, met gedoofde luchtvaartuiglichten blijkt uit de vluchtopdracht;
 
