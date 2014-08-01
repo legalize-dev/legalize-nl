@@ -4,7 +4,7 @@ identifier: "BWBR0033092"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-16"
-last_updated: "2013-04-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033092"
 soort: "ministeriele-regeling"
@@ -120,7 +120,7 @@ De Minister of de Minister van Infrastructuur en Milieu zendt zaken die aanhangi
 
 2. Indien de betrokken minister voornemens is te reageren op het ontwerp, stelt hij de ACM hiervan binnen twee weken na ontvangst van het ontwerp in kennis.
 
-3. Het eerste en het tweede lid zijn niet van toepassing op beleidsregels waarop [artikel 5l van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5l) van toepassing is.
+3. Het eerste en het tweede lid zijn niet van toepassing op beleidsregels waarop [artikel 5a van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=5a) of [artikel 2.4 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.4) van toepassing is.
 
 ##### Artikel 9
 
