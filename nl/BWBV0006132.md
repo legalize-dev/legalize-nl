@@ -4,7 +4,7 @@ identifier: "BWBV0006132"
 country: "nl"
 rank: "verdrag"
 publication_date: "2014-08-01"
-last_updated: "1933-07-29"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006132"
 soort: "verdrag"
@@ -82,13 +82,17 @@ De aanvrage om mededeeling bevat, ingeval de mede te deelen stukken uitgaan van 
 
 (c). De mede te deelen stukken worden hetzij gesteld in de taal van het land, in hetwelk de mededeeling moet geschieden, hetzij vergezeld van eene vertaling in genoemde taal. Deze vertaling moet voor eensluidend verklaard zijn door een diplomatieken of consulairen ambtenaar der Hooge Verdragsluitende Partij, uit wier grondgebied de stukken afkomstig zijn.
 
-(d). Aanvragen om mededeeling worden gericht en gezonden:
+(d). **Aanvragen om mededeling worden gericht en gezonden:**
 
-- In Nederland aan den Officier van Justitie bij de Arrondissements Rechtbank, binnen wier ressort de stukken moeten worden medegedeeld;
+In het Koninkrijk der Nederlanden aan:
 
-- In Engeland aan den „Senior Master of the Supreme Court of Judicature”.
+- - voor wat het deel van het Koninkrijk gelegen in Europa betreft, de officier van justitie bij de rechtbank, binnen wier rechtsgebied de stukken moeten worden medegedeeld;
 
-Indien de autoriteit aan wie eene aanvrage om mededeeling is gezonden, niet bevoegd is, daaraan gevolg te geven, zendt zij het stuk ambtshalve aan de bevoegde autoriteit van haar eigen land.
+- - voor wat de delen van het Koninkrijk gelegen buiten Europa betreft, de procureurs-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba binnen wier respectievelijke rechtsgebied de stukken moeten worden medegedeeld.
+
+In Engeland aan de „Senior Master of the Senior Court of England and Wales”.
+
+Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoegd is daaraan gevolg te geven, zendt zij het stuk ambtshalve aan de bevoegde autoriteit van haar eigen land.
 
 (e). De mededeeling geschiedt door de bevoegde autoriteit van het land, waarin de stukken moeten worden medegedeeld. Indien in de aanvrage om mededeeling is verzocht, deze op eene bijzondere wijze te doen geschieden, wordt deze wijze van mededeeling gevolgd, mits deze niet in strijd zij met het recht van dat land.
 
@@ -138,11 +142,15 @@ Indien de autoriteit aan wie eene aanvrage om mededeeling is gezonden, niet bevo
 
 (c). De rogatoire commissie zal worden overgemaakt:
 
-- In Engeland door den Consul-Generaal der Nederlanden te Londen aan den „Senior Master of the Supreme Court of Judicature”.
+- In Engeland door een consulair ambtenaar van het Koninkrijk der Nederlanden te Londen aan de „Senior Master of the Senior Court of England and Wales”.
 
-- In Nederland door een Britsch Consulair Ambtenaar aan den Officier van Justitie bij de Arrondissements Rechtbank binnen wier ressort de getuigen of de meerderheid hunner woonachtig zijn, of, indien de namen en woonplaatsen der getuigen niet zijn opgegeven, aan den Officier van Justitie bij de Arrondissements Rechtbank te 's-Gravenhage.
+- In het Koninkrijk der Nederlanden door een Brits consulair ambtenaar aan:
 
-Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd is daaraan gevolg te geven, draagt zij dezelve amtshalve zonder eenig verder verzoek aan de bevoegde autoriteit van haar eigen land over.
+- - voor wat het deel van het Koninkrijk gelegen in Europa betreft, de rechtbank binnen wier rechtsgebied de getuigen of de meerderheid van de getuigen woonachtig zijn, of, indien de namen en adressen van de getuigen niet zijn opgegeven, aan de rechtbank ’s-Gravenhage;
+
+- - voor wat de delen van het Koninkrijk gelegen buiten Europa betreft, het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+
+Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd is daaraan gevolg te geven, draagt zij de rogatoire commissie ambtshalve zonder enig verder verzoek aan de bevoegde autoriteit van haar eigen land over.
 
 (d). De bevoegde autoriteit aan wie de rogatoire commissie is overgemaakt of doorgezonden, zal daaraan uitvoering geven en de verlangde bewijslevering doen plaats vinden met aanwending van dezelfde dwangmiddelen en met toepassing van dezelfde procedure als gebruikelijk bij de uitvoering van eene opdracht of bevel uitgaande van de autoriteiten van haar eigen land, behoudens dat, indien in de rogatoire commissie de wensch is te kennen gegeven, dat eene bijzondere procedure moge worden toegepast, deze procedure zal gevolgd worden, mits zulks niet strijdig zij met het recht van het land, waar de bewijslevering moet plaats vinden.
 
