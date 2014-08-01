@@ -4,7 +4,7 @@ identifier: "BWBR0020537"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-25"
-last_updated: "2014-01-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020537"
 soort: "ministeriele-regeling"
@@ -90,7 +90,7 @@ In de informatie die een aanbieder op grond van [artikel 59aa, eerste lid, onder
 
 ##### Artikel 6
 
-Vervallen
+De Nederlandsche Bank maakt met betrekking tot het prudentieel toezicht op banken en beleggingsondernemingen de informatie, bedoeld in de artikelen 143, eerste lid, en 144 van de richtlijn kapitaalvereisten openbaar, met inachtneming van artikel 143, tweede en derde lid, van de richtlijn.
 
 ##### Artikel 7
 
@@ -104,19 +104,19 @@ Vervallen
 
 ### Hoofdstuk 3. Inrichting begroting toezichthouder
 
-### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
+### Hoofdstuk 3. Inrichting begroting toezichthouder
 
 ### Hoofdstuk 4. Lichte ontheffingen
 
-### Hoofdstuk 3. Inrichting begroting toezichthouder
+### Hoofdstuk 4. Lichte ontheffingen
 
 ### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
 
-### Hoofdstuk 4. Lichte ontheffingen
+### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
 
 ### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
-### Hoofdstuk 4a. Verhoging minimumbedrag solvabiliteitsmarge verzekeraars als bedoeld in [artikel 68, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=68)
+### Hoofdstuk 5. Vertrouwenscommissie opvangregeling leven
 
 ## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2011-10-01&g=2001-06-02)
 
@@ -252,21 +252,21 @@ De posten waarin de begroting, bedoeld in [artikel 1:30 van de wet](https://wett
 
 De dekking van de beroepsaansprakelijkheidsverzekering of de daarmee vergelijkbare voorziening, bedoeld in de [artikelen 4:75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:75), en [4:76, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:76) bedraagt ten minste € 1.250.618 per schadegeval en ten minste € 1.875.927 per jaar voor alle schadegevallen gezamenlijk.
 
-### Hoofdstuk 6. Dekking beroepsaansprakelijkheidsverzekering en vergelijkbare voorziening
+### Hoofdstuk 7. Model volmacht en ondervolmacht
 
 ##### Artikel 16
 
-Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2014-01-01&g=2014-01-01).
+Het model van de volmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=A&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 17
 
-Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2014-01-01&g=2014-01-01).
+Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79), wordt vastgesteld conform [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 18
 
-1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2014-01-01&g=2014-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2014-01-01&g=2014-01-01).
+1. Een volmacht of ondervolmacht, opgemaakt voor 1 januari 2006 overeenkomstig het voorafgaand aan die datum voorgeschreven model ingevolge de [Wet assurantiebemiddelingsbedrijf](https://wetten.overheid.nl/jci1.3:c:BWBR0004993), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2014-08-01&g=2014-08-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2014-08-01&g=2014-08-01).
 
-2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2014-01-01&g=2014-01-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2014-01-01&g=2014-01-01).
+2. Een volmacht of ondervolmacht, opgemaakt tussen 1 januari 2006 en 1 januari 2007 overeenkomstig het voorafgaand aan laatstgenoemde datum voorgeschreven model ingevolge het [Besluit financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0019283), wordt geacht te zijn opgemaakt overeenkomstig het model, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2014-08-01&g=2014-08-01) onderscheidenlijk [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2014-08-01&g=2014-08-01).
 
 ### Hoofdstuk 8. Houder van een gereglementeerde markt
 
@@ -282,13 +282,13 @@ Het model van de ondervolmacht, bedoeld in [artikel 4:79, eerste lid, van de wet
 
 2. De houder van een gereglementeerde markt op wie de in [artikel 5:26, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:26) bedoelde vrijstelling van toepassing is, stelt de Minister van Financiën binnen vijf werkdagen in kennis van wijzigingen in de gegevens, bedoeld in het eerste lid.
 
-### Hoofdstuk 8. Houder van een gereglementeerde markt
+### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
 
 ##### Artikel 20
 
 De termijn van twaalf maanden, bedoeld in de eerste volzin van artikel 31, tweede lid, van de Invoerings- en aanpassingswet Wet op het financieel toezicht, wordt met zes maanden verlengd.
 
-### Hoofdstuk 9. Uitbreiding termijn vergunningverlening
+### Hoofdstuk 9a. Bepalingen ter uitvoering van [artikel 124b, eerste lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b)
 
 ##### Artikel 21
 
@@ -322,29 +322,29 @@ De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van to
 
 ### **Volmacht**
 
-De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
+als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
 
 De ondergetekende1Achter ‘De ondergetekende’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld. … verklaart hierbij volmacht te verlenen aan ….
 
-### **Bevoegdheden**
+### **Paragraaf I**
 
 ### **Bevoegdheden**
 
-Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar wordt daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
+Om in Nederland, in naam van de ondergetekende – binnen de perken van haar/zijn statuten – verzekeringen te accepteren van risico’s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en in dat verband alle rechten van de ondergetekende uit te oefenen en alle verplichtingen na te komen, omvat deze volmacht onder meer:
 
 ### **Paragraaf II**
 
-### **Ondervolmacht**
+### **Paragraaf II**
 
 Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2014-01-01&g=2014-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
-Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2009-01-01&g=2009-01-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
+Deze volmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&bijlage=B&z=2014-08-01&g=2014-08-01) bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de gevolmachtigde om aan derden ondervolmacht te verlenen.
 
 ## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2007-01-01&g=2007-01-01)
 
 ### **Toepasselijk recht**
 
-…..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
+Op deze volmacht is Nederlands recht van toepassing.
 
 …..2Handtekening van de ondertekenaar, met vermelding van de datum van ondertekening.
 
@@ -356,9 +356,9 @@ als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht]
 
 ### **Ondervolmacht**
 
-verklaart hierbij ondervolmacht te verlenen aan ….
+daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld die zijn gevolmachtigde agent (zie onder 3) machtigt om ondervolmacht te verlenen.
 
-De gevolmachtigde …1Achter ‘De gevolmachtigde’ wordt de naam en, indien van toepassing, de handelsnaam van de gevolmachtigde agent ingevuld die hierbij door de verzekeraar wordt gemachtigd om ondervolmacht te verlenen.
+verklaart hierbij ondervolmacht te verlenen aan ….
 
 daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld die zijn gevolmachtigde agent (zie onder 3) machtigt om ondervolmacht te verlenen.
 
@@ -366,21 +366,21 @@ daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt 
 
 ### **Paragraaf I**
 
-Waar in deze ondervolmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar worden daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
+waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
 
 ### **Paragraaf II**
 
-### **Verlenen van ondervolmacht door de ondergevolmachtigde**
+### **Paragraaf II**
 
 Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
 
 Deze ondervolmacht houdt, behoudens via een ondervolmacht opgemaakt overeenkomstig bijlage B bij de Uitvoeringsregeling Wft, niet in de bevoegdheid van de ondergevolmachtigde om aan derden ondervolmacht te verlenen.
 
-### **Einde ondervolmacht**
+### **Paragraaf III**
 
 ### **Einde ondervolmacht**
 
-Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
+Deze ondervolmacht kan zowel door de verzekeraar als door de gevolmachtigde te allen tijde worden ingetrokken.
 
 Het ophouden van kracht te zijn van de volmacht van de gevolmachtigde tast de kracht van de ondervolmacht niet aan.
 
@@ -400,7 +400,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Uit de in het eerste lid bedoelde gegevens en bescheiden blijkt dat:
 
-- a. de obligaties op het tijdstip van de aanvraag een kredietbeoordeling hebben van een ingevolge [artikel 88 van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=88) erkend kredietbeoordelingsbureau, welke kredietbeoordeling is ondergebracht in de kredietbeoordelingscategorie 1 van de kwaliteitsbeoordelingsschaal in paragraaf 6.4 van bijlage VI van de herziene richtlijn banken, onder de toepassing van het bepaalde in Deel 3, paragraaf 2, punten 8 en 9 van die bijlage, en dat de kredietbeoordeling en de door het kredietbeoordelingsbureau aan de kredietbeoordeling verbonden voorwaarden met betrekking tot de activa en de uitgevende bank naar het oordeel van de Nederlandsche Bank adequaat zijn;
+- a. de obligaties op het tijdstip van de aanvraag een kredietbeoordeling hebben als bedoeld in artikel 135, eerste lid, van de verordening kapitaalvereisten, welke kredietbeoordeling is ondergebracht in de kredietbeoordelingscategorie 1 van de kwaliteitsbeoordelingsschaal in artikel 120, eerste lid, van de verordening kapitaalvereisten, onder de toepassing van artikel 139, eerste en tweede lid, van de verordening, en dat de kredietbeoordeling en de door het kredietbeoordelingsbureau aan de kredietbeoordeling verbonden voorwaarden met betrekking tot de activa en de uitgevende bank naar het oordeel van de Nederlandsche Bank adequaat zijn;
 
 - b. de totale nominale waarde van de uitgegeven of de nog uit te geven gedekte obligaties in een gezonde verhouding staat tot de voor dekking van deze obligaties in aanmerking komende activa. De Nederlandsche Bank stelt na overleg met de uitgevende bank vast of de verhouding tussen de totale nominale waarde van deze obligaties ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank als gezonde verhouding kan worden beschouwd;
 
@@ -410,7 +410,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Een uitgevende bank gaat slechts over tot verdere uitgifte in het kader van een aanbiedingsprogramma van gedekte obligaties die zijn geregistreerd overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) als zij heeft geconstateerd dat wordt voldaan aan de voor registratie gestelde voorschriften.
 
-2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-01-01&g=2014-01-01), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
+2. Indien de totale nominale waarde van de gedekte obligaties uitstijgt boven de verhouding, bedoeld in [artikel 20a, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-08-01&g=2014-08-01), ten opzichte van het geconsolideerde balanstotaal van de uitgevende bank, toont de uitgevende bank voordat verdere uitgifte plaatsvindt aan de Nederlandsche Bank aan dat sprake blijft van een gezonde verhouding als bedoeld in dat onderdeel.
 
 ##### Artikel 20c
 
@@ -418,49 +418,49 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. toont ten minste een maal per kwartaal aan de Nederlandsche Bank aan dat de gedekte obligaties voldoen aan de voor registratie gestelde voorwaarden, door aan de Nederlandsche Bank rapportages over de activa te verstrekken en toe te lichten, en
 
-- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-01-01&g=2014-01-01).
+- b. toont ten minste jaarlijks aan de Nederlandsche Bank aan dat de bank voldoet aan het bepaalde in [artikel 20a, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-08-01&g=2014-08-01).
 
 2. De uitgevende bank verstrekt aan de Nederlandsche Bank binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag van de rechtspersoon waarnaar de activa overeenkomstig het [Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420) zijn overgegaan. De documenten zijn opgemaakt in overeenstemming met Titel 2 van Boek 9 van het Burgerlijk Wetboek, de internationale jaarrekeningstandaarden, dan wel volgens het recht van de staat waar de rechtspersoon haar zetel heeft. Indien de rechtspersoon haar zetel in Nederland heeft, vermeldt zij daarbij of de jaarrekening al dan niet is vastgesteld en goedgekeurd in overeenstemming met haar statuten of oprichtingsakte.
 
 3. De uitgevende bank doet onverwijld mededeling aan de Nederlandsche Bank indien gedurende de looptijd van de gedekte obligaties:
 
-- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-01-01&g=2014-01-01), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-01-01&g=2014-01-01), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
+- a. wijzigingen optreden ten opzichte van de gegevens en bescheiden waarop de juridische opinie bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-08-01&g=2014-08-01), was gebaseerd of ten opzichte van de schriftelijke bescheiden, bedoeld in [artikel 20a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=9a&artikel=20a&z=2014-08-01&g=2014-08-01), die tot gevolg hebben dat de uitstaande gedekte obligaties niet meer voldoen of zullen voldoen aan de voor registratie gestelde voorschriften, of
 
 - b. significante wijzigingen worden aangebracht in een aanbiedingsprogramma of in de voorwaarden met betrekking tot de gedekte obligaties.
 
-### Hoofdstuk 10. Wijziging [Tijdelijke vrijstellingsregeling openbare biedingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019870)
-
 ### Hoofdstuk 11. Wijziging [Regeling aanwijzing bevoegde autoriteiten Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007778)
 
-## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2009-01-01&g=2009-01-01)
+### Hoofdstuk 12. Slotbepalingen
+
+## Bijlage A. behorend bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=16&z=2014-08-01&g=2014-08-01)
 
 Waar in deze volmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar wordt daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
 
 ### **Ondervolmacht**
 
-### **Toepasselijk recht**
+### **Paragraaf III**
 
-## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2009-01-01&g=2009-01-01)
+## Bijlage B. behorend bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0020537&hoofdstuk=7&artikel=17&z=2014-08-01&g=2014-08-01)
 
 ### **Ondervolmacht**
 
+als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=4:79).
+
 De gevolmachtigde …1Achter ‘De gevolmachtigde’ wordt de naam en, indien van toepassing, de handelsnaam van de gevolmachtigde agent ingevuld die hierbij door de verzekeraar wordt gemachtigd om ondervolmacht te verlenen.
 
-daartoe bij deze gemachtigd door verzekeraar …2Achter ‘verzekeraar’ wordt de naam en, indien van toepassing, de handelsnaam van de verzekeraar ingevuld die zijn gevolmachtigde agent (zie onder 3) machtigt om ondervolmacht te verlenen.
-
-### **Bevoegdheden**
-
-waarbij alle desbetreffende handelingen en verbintenissen van de genoemde ondergevolmachtigde voor de bovenvermelde verzekeraar zullen gelden, geheel als waren zij door haar verricht of aangegaan.
+### **Paragraaf I**
 
 Om in Nederland, in naam van de bovenvermelde verzekeraar – binnen de perken van diens statuten – verzekeringen te accepteren van risico s, zowel binnen als buiten Nederland, en in het algemeen al datgene te verrichten wat de uitoefening van het verzekeringsbedrijf in Nederland als vertegenwoordiger van een in Nederland of in het buitenland gevestigde verzekeraar meebrengt en met betrekking daartoe alle rechten van de bovenvermelde verzekeraar uit te oefenen en alle verplichtingen na te komen, omvat deze ondervolmacht onder meer:
 
+Waar in deze ondervolmacht wordt gesproken van verzekeringen, verzekerden of verzekeraar worden daaronder ook verstaan herverzekeringen, herverzekerden of herverzekeraar.
+
 ### **Verlenen van ondervolmacht door de ondergevolmachtigde**
 
-### **Toepasselijk recht**
+### **Paragraaf IV**
 
 ### **Toepasselijk recht**
 
-…..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
+Op deze ondervolmacht is Nederlands recht van toepassing.
 
 …..3Handtekening van de machtigende verzekeraar en van de ondervolmacht verlenende gevolmachtigde agent, met vermelding van datum van ondertekening.
 
@@ -553,3 +553,5 @@ als bedoeld in [artikel 4:79, eerste lid, van de Wet op het financieel toezicht]
 ### **Paragraaf I**
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+### Hoofdstuk 2a. Door de toezichthouder te publiceren informatie
