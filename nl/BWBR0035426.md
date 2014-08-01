@@ -4,7 +4,7 @@ identifier: "BWBR0035426"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-08-01"
-last_updated: "2014-07-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035426"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt de Subsidieregeling internationaal excelleren.
 
 ##### Artikel II
 
-Op subsidies verstrekt voor inwerkingtreding van deze regeling blijven de [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983&wetgeving), zoals geldend voor inwerkingtreding van deze regeling, en de op die subsidies betrekking hebbende voorschriften vermeld in [artikel 1.5 van de Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983&artikel=1.5), zoals luidend na inwerkingtreding van deze regeling, van toepassing.
+Op subsidies verstrekt voor inwerkingtreding van deze regeling blijven de [Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983), zoals geldend voor inwerkingtreding van deze regeling, en de op die subsidies betrekking hebbende voorschriften vermeld in [artikel 1.5 van de Subsidieregeling internationaal excelleren](https://wetten.overheid.nl/jci1.3:c:BWBR0026983&artikel=1.5), zoals luidend na inwerkingtreding van deze regeling, van toepassing.
 
 ##### Artikel III
 
