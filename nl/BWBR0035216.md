@@ -215,27 +215,3 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 Dit besluit wordt aangehaald als: Toetsbesluit PO.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Omhangbepaling
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### § 2. Centrale eindtoets en andere eindtoetsen
-
-#### § 3. Erkenning doorstroomtoetsen
-
-#### § 4. Toetsen leerling- en onderwijsvolgsysteem
-
-#### § 5. Wijziging andere besluiten
-
-#### § 6. Slot- en overgangsbepalingen
-
-## Bijlage 1. Overzicht van de referentieniveaus Nederlands als vreemde taal en Engels
-
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 2. Beschrijving van de referentieniveaus Papiaments
-
-Dit onderdeel is nog niet inwerking getreden
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
