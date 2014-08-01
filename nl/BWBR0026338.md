@@ -4,7 +4,7 @@ identifier: "BWBR0026338"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2013-04-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026338"
 soort: "wet"
@@ -91,7 +91,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - d. stichting ten aanzien waarvan bij besluit van Onze Minister is vastgesteld dat in haar statuten en in de tussen de stichting en de publiekrechtelijke rechtspersoon of rechtspersonen, die haar hebben opgericht, van kracht zijnde overeenkomsten zodanige bepalingen zijn opgenomen dat gewaarborgd wordt dat de volledige zeggenschap over het betreffende drinkwaterbedrijf wordt uitgeoefend door een of meer publiekrechtelijke rechtspersonen;
 
-- **inspecteur:** inspecteur als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2013-04-01&g=2013-04-01);
+- **inspecteur:** inspecteur als bedoeld in [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2014-08-01&g=2014-08-01);
 
 - **installatie:** samenstel van leidingen, fittingen en toestellen dat middellijk of onmiddellijk is aangesloten op het distributienet van een drinkwaterbedrijf;
 
@@ -125,11 +125,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Voor de uitvoering en naleving van deze wet en de daarop berustende bepalingen wordt met de eigenaar van een drinkwaterbedrijf, collectieve watervoorziening of collectief leidingnet, indien deze niet zelf dat bedrijf, die voorziening of dat leidingnet exploiteert, gelijkgesteld de exploitant daarvan, voor zover het betreft de uitvoering van maatregelen of de naleving van verplichtingen die, naar gebruikelijk is, behoren tot de bevoegdheid van een exploitant.
 
-4. Onze Minister kan een of meer bedrijven aanwijzen die voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&z=2013-04-01&g=2013-04-01), met uitzondering van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2013-04-01&g=2013-04-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2013-04-01&g=2013-04-01), met een drinkwaterbedrijf worden gelijkgesteld.
+4. Onze Minister kan een of meer bedrijven aanwijzen die voor de toepassing van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&z=2014-08-01&g=2014-08-01), met uitzondering van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-08-01&g=2014-08-01), met een drinkwaterbedrijf worden gelijkgesteld.
 
 5. De artikelen van deze wet en de daarop berustende bepalingen, voor zover betrekking hebbend op collectieve watervoorzieningen, zijn mede van toepassing op voorzieningen voor de winning, behandeling of distributie van water op een binnen het Nederlandse deel van het continentale plat gelegen mijnbouwinstallatie als bedoeld in [artikel 1, onderdeel o, van de Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168&artikel=1), welk water als drinkwater aan consumenten binnen die mijnbouwinstallatie ter beschikking wordt gesteld.
 
-6. In geval van levering van warm tapwater aan consumenten of andere afnemers zijn de artikelen van de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&z=2013-04-01&g=2013-04-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&z=2013-04-01&g=2013-04-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&z=2013-04-01&g=2013-04-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&z=2013-04-01&g=2013-04-01) en de daarop berustende bepalingen van overeenkomstige toepassing.
+6. In geval van levering van warm tapwater aan consumenten of andere afnemers zijn de artikelen van de [hoofdstukken III](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&z=2014-08-01&g=2014-08-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&z=2014-08-01&g=2014-08-01), [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&z=2014-08-01&g=2014-08-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&z=2014-08-01&g=2014-08-01) en de daarop berustende bepalingen van overeenkomstige toepassing.
 
 7. De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -145,7 +145,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een voldoende en duurzame uitvoering van de openbare drinkwatervoorziening binnen een distributiegebied berust bij de eigenaar van het drinkwaterbedrijf die bevoegd en, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2013-04-01&g=2013-04-01), verplicht is tot levering van drinkwater in dat gebied.
+De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een voldoende en duurzame uitvoering van de openbare drinkwatervoorziening binnen een distributiegebied berust bij de eigenaar van het drinkwaterbedrijf die bevoegd en, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-08-01&g=2014-08-01), verplicht is tot levering van drinkwater in dat gebied.
 
 ##### Artikel 4
 
@@ -203,7 +203,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 ##### Artikel 5
 
-1. Onze Minister stelt voor elk drinkwaterbedrijf een distributiegebied vast, waarbinnen de eigenaar van het betreffende drinkwaterbedrijf de exclusieve bevoegdheid en plicht, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2013-04-01&g=2013-04-01), tot het leveren van drinkwater heeft.
+1. Onze Minister stelt voor elk drinkwaterbedrijf een distributiegebied vast, waarbinnen de eigenaar van het betreffende drinkwaterbedrijf de exclusieve bevoegdheid en plicht, overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-08-01&g=2014-08-01), tot het leveren van drinkwater heeft.
 
 2. Het is de eigenaar van een drinkwaterbedrijf verboden om door middel van een watervoorzieningswerk water, niet zijnde drinkwater, te leveren buiten het voor dat drinkwaterbedrijf vastgestelde distributiegebied.
 
@@ -213,7 +213,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 5. Alvorens tot een wijziging als bedoeld in het vierde lid over te gaan, legt Onze Minister zijn voornemen aan de betrokken eigenaars voor, onder opgave van redenen. Binnen zes weken kunnen belanghebbenden hun zienswijze schriftelijk of mondeling bij Onze Minister kenbaar maken.
 
-6. De eigenaren van drinkwaterbedrijven die het aangaat kunnen gezamenlijk, onverminderd de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=14&z=2013-04-01&g=2013-04-01), Onze Minister verzoeken om wijziging van het voor hun bedrijf vastgestelde distributiegebied.
+6. De eigenaren van drinkwaterbedrijven die het aangaat kunnen gezamenlijk, onverminderd de [artikelen 14 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=14&z=2014-08-01&g=2014-08-01), Onze Minister verzoeken om wijziging van het voor hun bedrijf vastgestelde distributiegebied.
 
 7. Onze Minister kan besluiten geen gevolg te geven aan een verzoek als bedoeld in het zesde lid, indien de gevraagde wijziging naar zijn oordeel in strijd is met het belang van de openbare drinkwatervoorziening. Binnen zes weken kunnen belanghebbenden hun zienswijze schriftelijk of mondeling bij Onze Minister kenbaar maken.
 
@@ -265,7 +265,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - 2°. het opstellen van technische eisen ten aanzien van de op zijn distributienet aan te sluiten en aangesloten installaties;
 
-- 3°. het overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=24&z=2013-04-01&g=2013-04-01) uitvoeren van controles ten aanzien van bedoelde installaties.
+- 3°. het overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=24&z=2014-08-01&g=2014-08-01) uitvoeren van controles ten aanzien van bedoelde installaties.
 
 3. De infrastructuur die door de eigenaar van een drinkwaterbedrijf overeenkomstig het eerste lid, onderdeel b, is of wordt aangelegd, hersteld, vernieuwd of uitgebreid wordt voor de toepassing van de [Belemmeringenwet Verordeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0001865) en de [Belemmeringenwet Privaatrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001936) aangemerkt als openbaar werk of openbare werken van algemeen nut.
 
@@ -305,7 +305,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 1. De eigenaar van een drinkwaterbedrijf hanteert tarieven die kostendekkend, transparant en niet discriminerend zijn.
 
-2. De eigenaar van een drinkwaterbedrijf hanteert bij de bepaling van de vermogenskosten die in het tarief mogen worden doorberekend ten hoogste de geldende gewogen gemiddelde vermogenskostenvoet, vastgesteld krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=10&z=2013-04-01&g=2013-04-01).
+2. De eigenaar van een drinkwaterbedrijf hanteert bij de bepaling van de vermogenskosten die in het tarief mogen worden doorberekend ten hoogste de geldende gewogen gemiddelde vermogenskostenvoet, vastgesteld krachtens [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-08-01&g=2014-08-01).
 
 3. De toerekening van de kosten van materiële vaste activa vindt plaats op basis van afschrijvingsmethoden en afschrijvingstermijnen die volgens algemeen aanvaarde bedrijfseconomische principes zijn bepaald.
 
@@ -317,17 +317,17 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 2. De eigenaar van een drinkwaterbedrijf brengt jaarlijks voor 1 oktober aan Onze Minister een verslag uit dat inzicht verschaft in de kosten, waaronder de vermogenskosten, die in het voorafgaande kalenderjaar zijn gehanteerd bij het vaststellen van de tarieven voor de levering van drinkwater en het gerealiseerde bedrijfsresultaat over dat jaar. Het verslag dient voorzien te zijn van een goedkeurende verklaring van een registeraccountant. Onze Minister zendt dit verslag voor het einde van het kalenderjaar aan de beide Kamers der Staten-Generaal.
 
-3. Indien uit het verslag, bedoeld in het tweede lid, blijkt dat het gerealiseerde bedrijfsresultaat de voor dat jaar op basis van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2013-04-01&g=2013-04-01), bepaalde vermogenskosten overschrijdt, draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat die overschrijding wordt gecompenseerd in de tariefstelling voor het daaropvolgende kalenderjaar.
+3. Indien uit het verslag, bedoeld in het tweede lid, blijkt dat het gerealiseerde bedrijfsresultaat de voor dat jaar op basis van [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-08-01&g=2014-08-01), bepaalde vermogenskosten overschrijdt, draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat die overschrijding wordt gecompenseerd in de tariefstelling voor het daaropvolgende kalenderjaar.
 
 ##### Artikel 13
 
 1. In het belang van de openbare drinkwatervoorziening worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld met betrekking tot:
 
-- a. de kosten die ten grondslag liggen aan het tarief, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2013-04-01&g=2013-04-01);
+- a. de kosten die ten grondslag liggen aan het tarief, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-08-01&g=2014-08-01);
 
-- b. de elementen en wijze van berekening van de tarieven, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2013-04-01&g=2013-04-01).
+- b. de elementen en wijze van berekening van de tarieven, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2014-08-01&g=2014-08-01).
 
-2. Indien niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2013-04-01&g=2013-04-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2013-04-01&g=2013-04-01) of nadere regels als bedoeld in het eerste lid kan Onze Minister een aanwijzing geven aan de eigenaar van een drinkwaterbedrijf. Bij de aanwijzing wordt aangegeven op welke gronden niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2013-04-01&g=2013-04-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2013-04-01&g=2013-04-01) of de bedoelde regels en welke wijzigingen met het oog daarop in het tarief vereist zijn. Bij de aanwijzing wordt een termijn gesteld waarbinnen aan de aanwijzing voldaan moet worden.
+2. Indien niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-08-01&g=2014-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2014-08-01&g=2014-08-01) of nadere regels als bedoeld in het eerste lid kan Onze Minister een aanwijzing geven aan de eigenaar van een drinkwaterbedrijf. Bij de aanwijzing wordt aangegeven op welke gronden niet wordt voldaan aan [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-08-01&g=2014-08-01) of [12](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=12&z=2014-08-01&g=2014-08-01) of de bedoelde regels en welke wijzigingen met het oog daarop in het tarief vereist zijn. Bij de aanwijzing wordt een termijn gesteld waarbinnen aan de aanwijzing voldaan moet worden.
 
 #### § 4. De zeggenschap over een drinkwaterbedrijf
 
@@ -347,7 +347,7 @@ De zorg, overeenkomstig deze wet en de daarop berustende bepalingen, voor een vo
 
 - f. het sluiten van een overeenkomst waardoor de zeggenschap over het drinkwaterbedrijf geheel of gedeeltelijk door of tezamen met derden wordt uitgeoefend, dan wel waardoor deze daartoe feitelijk in de gelegenheid worden gesteld.
 
-2. Bij de melding geeft de eigenaar van het betreffende drinkwaterbedrijf aan of sprake is van een overdracht als bedoeld in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2013-04-01&g=2013-04-01).
+2. Bij de melding geeft de eigenaar van het betreffende drinkwaterbedrijf aan of sprake is van een overdracht als bedoeld in [artikel 5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 15
 
@@ -355,7 +355,7 @@ Het is verboden een rechtshandeling te verrichten, die tot gevolg heeft dat midd
 
 ##### Artikel 16
 
-Tot de rechtshandelingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2013-04-01&g=2013-04-01), behoren in elk geval:
+Tot de rechtshandelingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2014-08-01&g=2014-08-01), behoren in elk geval:
 
 - a. het wijzigen van de bepalingen in de statuten van een drinkwaterbedrijf, zodanig dat daardoor de mogelijkheid wordt geboden dat een derde, niet zijnde een gekwalificeerde rechtspersoon, houder wordt van aandelen in het kapitaal van dat drinkwaterbedrijf;
 
@@ -371,7 +371,7 @@ Tot de rechtshandelingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci
 
 ##### Artikel 17
 
-1. Indien er naar het oordeel van Onze Minister sprake is van een rechtshandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2013-04-01&g=2013-04-01), geeft hij een aanwijzing aan de daarbij betrokken personen tot het binnen een daarbij te stellen termijn beëindigen van die handeling, dan wel, voor zover die handeling reeds is voltooid, tot het binnen die termijn ongedaan maken van de gevolgen van die handeling.
+1. Indien er naar het oordeel van Onze Minister sprake is van een rechtshandeling als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2014-08-01&g=2014-08-01), geeft hij een aanwijzing aan de daarbij betrokken personen tot het binnen een daarbij te stellen termijn beëindigen van die handeling, dan wel, voor zover die handeling reeds is voltooid, tot het binnen die termijn ongedaan maken van de gevolgen van die handeling.
 
 2. Degene tot wie een aanwijzing als bedoeld in het eerste lid wordt gericht, is verplicht daaraan gevolg te geven.
 
@@ -393,7 +393,7 @@ Tot de rechtshandelingen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci
 
 ##### Artikel 20
 
-De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2013-04-01&g=2013-04-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2013-04-01&g=2013-04-01), berust uitsluitend bij de algemene vergadering van een drinkwaterbedrijf.
+De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-08-01&g=2014-08-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-08-01&g=2014-08-01), berust uitsluitend bij de algemene vergadering van een drinkwaterbedrijf.
 
 ### Hoofdstuk III. De zorg voor de kwaliteit van drinkwater
 
@@ -461,7 +461,7 @@ De bevoegdheid tot goedkeuring van de tarieven en voorwaarden, bedoeld in [artik
 
 ##### Artikel 23
 
-Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van ernstig gevaar voor de volksgezondheid een onverwijlde voorziening noodzakelijk is, na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, een regeling vaststellen van de in [artikel 21, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2013-04-01&g=2013-04-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2013-04-01&g=2013-04-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2013-04-01&g=2013-04-01) bedoelde strekking. Een zodanige regeling vervalt een jaar nadat deze in werking is getreden, of, indien binnen die periode een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Bij ministeriële regeling kan de geldigheidsduur van de regeling eenmaal met ten hoogste een jaar worden verlengd.
+Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van ernstig gevaar voor de volksgezondheid een onverwijlde voorziening noodzakelijk is, na overleg met Onze Minister van Volksgezondheid, Welzijn en Sport, een regeling vaststellen van de in [artikel 21, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2014-08-01&g=2014-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2014-08-01&g=2014-08-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2014-08-01&g=2014-08-01) bedoelde strekking. Een zodanige regeling vervalt een jaar nadat deze in werking is getreden, of, indien binnen die periode een algemene maatregel van bestuur ter vervanging van die regeling in werking is getreden, op het tijdstip waarop die maatregel in werking treedt. Bij ministeriële regeling kan de geldigheidsduur van de regeling eenmaal met ten hoogste een jaar worden verlengd.
 
 ##### Artikel 24
 
@@ -469,7 +469,7 @@ Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van erns
 
 2. De eigenaar van een drinkwaterbedrijf controleert tevens de middellijk of onmiddellijk op het leidingnet van zijn bedrijf aangesloten collectieve watervoorzieningen en collectieve leidingnetten op gevaar voor verontreiniging van het door middel van deze voorzieningen en leidingnetten aan consumenten of andere afnemers ter beschikking gestelde drinkwater.
 
-3. Indien bij een controle als bedoeld in het tweede lid blijkt dat niet wordt voldaan aan [artikel 21, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), de daarop berustende bepalingen of een ministeriële regeling van die strekking als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2013-04-01&g=2013-04-01), dan wel dat gevaar bestaat dat daar niet aan voldaan wordt, informeert de eigenaar van het drinkwaterbedrijf terstond de toezichthouder en de desbetreffende eigenaar van een op zijn leidingnet aangesloten collectieve watervoorziening of collectief leidingnet.
+3. Indien bij een controle als bedoeld in het tweede lid blijkt dat niet wordt voldaan aan [artikel 21, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), de daarop berustende bepalingen of een ministeriële regeling van die strekking als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-08-01&g=2014-08-01), dan wel dat gevaar bestaat dat daar niet aan voldaan wordt, informeert de eigenaar van het drinkwaterbedrijf terstond de toezichthouder en de desbetreffende eigenaar van een op zijn leidingnet aangesloten collectieve watervoorziening of collectief leidingnet.
 
 4. De eigenaar van een middellijk of onmiddellijk op het leidingnet van een drinkwaterbedrijf aangesloten collectieve watervoorziening, collectief leidingnet, woninginstallatie of andere installatie, dan wel de huurder van het betreffende gebouw of de betreffende woning, is verplicht medewerking te verlenen aan de in het eerste en tweede lid bedoelde controles.
 
@@ -477,7 +477,7 @@ Onze Minister kan, indien naar zijn oordeel ter voorkoming of beperking van erns
 
 ##### Artikel 25
 
-1. In geval van levering door een collectieve watervoorziening van drinkwater aan consumenten of andere afnemers, zijn de [artikelen 21, eerste lid en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=22&z=2013-04-01&g=2013-04-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2013-04-01&g=2013-04-01) en de daarop berustende bepalingen van overeenkomstige toepassing.
+1. In geval van levering door een collectieve watervoorziening van drinkwater aan consumenten of andere afnemers, zijn de [artikelen 21, eerste lid en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-08-01&g=2014-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-08-01&g=2014-08-01) en de daarop berustende bepalingen van overeenkomstige toepassing.
 
 2. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat dit hoofdstuk of een of meer daarbij aan te geven artikelen daarvan niet van toepassing zijn op drinkwater dat afkomstig is van een collectieve watervoorziening:
 
@@ -503,11 +503,11 @@ De eigenaar van een collectief leidingnet verstrekt de daarop aangesloten consum
 
 2. De eigenaren, bedoeld in het eerste lid, houden de resultaten van de metingen gedurende vijf jaren ter beschikking van de toezichthouder.
 
-3. Indien uit de metingen blijkt dat niet wordt voldaan aan de krachtens [artikel 21, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2013-04-01&g=2013-04-01) juncto voornoemde bepaling gestelde eisen, dan wel dat anderszins de deugdelijkheid van het drinkwater wordt aangetast, geven de eigenaren, bedoeld in het eerste lid, daarvan onmiddellijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2013-04-01&g=2013-04-01), kennis aan de betreffende consumenten en treden zij onmiddellijk in overleg met de toezichthouder.
+3. Indien uit de metingen blijkt dat niet wordt voldaan aan de krachtens [artikel 21, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-08-01&g=2014-08-01) juncto voornoemde bepaling gestelde eisen, dan wel dat anderszins de deugdelijkheid van het drinkwater wordt aangetast, geven de eigenaren, bedoeld in het eerste lid, daarvan onmiddellijk, overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2014-08-01&g=2014-08-01), kennis aan de betreffende consumenten en treden zij onmiddellijk in overleg met de toezichthouder.
 
 ##### Artikel 29
 
-1. De eigenaar van een collectief leidingnet draagt er zorg voor dat het ontwerp en de staat van dat collectieve leidingnet en de daarin toe te passen materialen zodanig zijn dat deze geen omstandigheid opleveren waardoor niet voldaan wordt aan de krachtens [artikel 21, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2013-04-01&g=2013-04-01) juncto voornoemde bepaling gestelde eisen, alsmede dat dat ontwerp, die staat of die materialen niet de deugdelijkheid van het drinkwater aantasten.
+1. De eigenaar van een collectief leidingnet draagt er zorg voor dat het ontwerp en de staat van dat collectieve leidingnet en de daarin toe te passen materialen zodanig zijn dat deze geen omstandigheid opleveren waardoor niet voldaan wordt aan de krachtens [artikel 21, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), of [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-08-01&g=2014-08-01) juncto voornoemde bepaling gestelde eisen, alsmede dat dat ontwerp, die staat of die materialen niet de deugdelijkheid van het drinkwater aantasten.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de aanleg, uitbreiding of wijziging van, dan wel herstelling aan, een collectief leidingnet, voor zover dat leidingnet geen deel uitmaakt van een gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1), alsmede aan de in dat leidingnet te gebruiken materialen.
 
@@ -541,9 +541,9 @@ De eigenaar van een drinkwaterbedrijf draagt zorg voor de uitvoering van een ana
 
 ##### Artikel 34
 
-1. De eigenaar van een drinkwaterbedrijf neemt op basis van de uitkomsten van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=2&artikel=33&z=2013-04-01&g=2013-04-01) bedoelde analyse passende maatregelen om verstoringen zo veel mogelijk te voorkomen.
+1. De eigenaar van een drinkwaterbedrijf neemt op basis van de uitkomsten van de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=2&artikel=33&z=2014-08-01&g=2014-08-01) bedoelde analyse passende maatregelen om verstoringen zo veel mogelijk te voorkomen.
 
-2. De eigenaar van een drinkwaterbedrijf legt de uitkomsten van de analyse, alsmede de maatregelen, bedoeld in het eerste lid, vast in het leveringsplan, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2013-04-01&g=2013-04-01).
+2. De eigenaar van een drinkwaterbedrijf legt de uitkomsten van de analyse, alsmede de maatregelen, bedoeld in het eerste lid, vast in het leveringsplan, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2014-08-01&g=2014-08-01).
 
 #### § 3. Optreden en levering in geval van een verstoring
 
@@ -569,9 +569,9 @@ De eigenaar van een drinkwaterbedrijf draagt zorg voor de uitvoering van een ana
 
 ##### Artikel 37
 
-1. De eigenaar van een drinkwaterbedrijf stelt een leveringsplan op, waarin wordt aangegeven op welke wijze aan de uitvoering van de op grond van de [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=1&artikel=32&z=2013-04-01&g=2013-04-01) voor hem geldende verplichtingen ten aanzien van de leveringszekerheid, de dekking van de toekomstige behoefte aan drinkwater en de levering van nooddrinkwater en noodwater, wordt voldaan.
+1. De eigenaar van een drinkwaterbedrijf stelt een leveringsplan op, waarin wordt aangegeven op welke wijze aan de uitvoering van de op grond van de [artikelen 32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=1&artikel=32&z=2014-08-01&g=2014-08-01) voor hem geldende verplichtingen ten aanzien van de leveringszekerheid, de dekking van de toekomstige behoefte aan drinkwater en de levering van nooddrinkwater en noodwater, wordt voldaan.
 
-2. Bij het opstellen van het leveringsplan wordt rekening gehouden met de beleidsnota inzake de openbare drinkwatervoorziening, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=6&z=2013-04-01&g=2013-04-01).
+2. Bij het opstellen van het leveringsplan wordt rekening gehouden met de beleidsnota inzake de openbare drinkwatervoorziening, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=6&z=2014-08-01&g=2014-08-01).
 
 3. Het leveringsplan behoeft de goedkeuring van de inspecteur en wordt daartoe aan hem overgelegd.
 
@@ -587,9 +587,9 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 - c. de levering van noodwater;
 
-- d. de wijze waarop de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=2&artikel=33&z=2013-04-01&g=2013-04-01) bedoelde analyse wordt uitgevoerd en actueel wordt gehouden en de aard van de op grond van de uitkomsten van die analyse te treffen maatregelen, en
+- d. de wijze waarop de in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=2&artikel=33&z=2014-08-01&g=2014-08-01) bedoelde analyse wordt uitgevoerd en actueel wordt gehouden en de aard van de op grond van de uitkomsten van die analyse te treffen maatregelen, en
 
-- e. de opzet, inhoud, wijze van totstandkoming, wijziging en herziening van een leveringsplan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2013-04-01&g=2013-04-01).
+- e. de opzet, inhoud, wijze van totstandkoming, wijziging en herziening van een leveringsplan als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2014-08-01&g=2014-08-01).
 
 ### Hoofdstuk V. De doelmatigheid van de openbare drinkwatervoorziening
 
@@ -603,7 +603,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 40
 
-1. De in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=39&z=2013-04-01&g=2013-04-01), bedoelde instantie stelt ten behoeve van de uitvoering van een prestatievergelijking uiterlijk op 1 maart van het jaar, waarin die prestatievergelijking wordt uitgevoerd, een protocol vast, inhoudend:
+1. De in [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=39&z=2014-08-01&g=2014-08-01), bedoelde instantie stelt ten behoeve van de uitvoering van een prestatievergelijking uiterlijk op 1 maart van het jaar, waarin die prestatievergelijking wordt uitgevoerd, een protocol vast, inhoudend:
 
 - a. een uitwerking van de in dat lid genoemde categorieën van prestaties waarop de vergelijking betrekking heeft;
 
@@ -629,17 +629,17 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 41
 
-1. De uitvoering van een prestatievergelijking geschiedt overeenkomstig het daartoe vastgestelde en krachtens [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2013-04-01&g=2013-04-01), goedgekeurde protocol.
+1. De uitvoering van een prestatievergelijking geschiedt overeenkomstig het daartoe vastgestelde en krachtens [artikel 40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2014-08-01&g=2014-08-01), goedgekeurde protocol.
 
 2. Indien het betreffende protocol niet of niet tijdig wordt vastgesteld, dan wel indien daaraan geheel of gedeeltelijk goedkeuring wordt onthouden, kan Onze Minister, ter gehele of gedeeltelijke vervanging van dat protocol, die regels stellen die naar zijn oordeel noodzakelijk zijn voor een goede uitvoering van de prestatievergelijking.
 
-3. De in het tweede lid bedoelde regels kunnen in elk geval betrekking hebben op de in [artikel 40, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2013-04-01&g=2013-04-01), genoemde onderwerpen.
+3. De in het tweede lid bedoelde regels kunnen in elk geval betrekking hebben op de in [artikel 40, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2014-08-01&g=2014-08-01), genoemde onderwerpen.
 
 4. Op grond van het tweede lid gestelde regels treden voor de toepassing van dit hoofdstuk geheel of gedeeltelijk in de plaats van het protocol.
 
 ##### Artikel 42
 
-1. De eigenaar van een drinkwaterbedrijf verstrekt de in [artikel 40, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2013-04-01&g=2013-04-01), bedoelde gegevens binnen de daarvoor gestelde termijn aan de met de uitvoering van de prestatievergelijking belaste instantie.
+1. De eigenaar van een drinkwaterbedrijf verstrekt de in [artikel 40, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=40&z=2014-08-01&g=2014-08-01), bedoelde gegevens binnen de daarvoor gestelde termijn aan de met de uitvoering van de prestatievergelijking belaste instantie.
 
 2. Indien niet of niet tijdig aan de in het eerste lid bedoelde verplichting wordt voldaan, of indien onvoldoende, onjuiste of onvolledige gegevens worden aangeleverd, meldt die instantie dat onverwijld aan Onze Minister.
 
@@ -657,7 +657,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 44
 
-1. De eigenaar van een drinkwaterbedrijf maakt binnen zes maanden na het uitbrengen van een verslag als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=2&artikel=43&z=2013-04-01&g=2013-04-01), de voornemens ter verbetering van de prestaties van zijn drinkwaterbedrijf, alsmede de termijn of termijnen waarbinnen deze gerealiseerd zullen worden, schriftelijk kenbaar aan Onze Minister.
+1. De eigenaar van een drinkwaterbedrijf maakt binnen zes maanden na het uitbrengen van een verslag als bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=2&artikel=43&z=2014-08-01&g=2014-08-01), de voornemens ter verbetering van de prestaties van zijn drinkwaterbedrijf, alsmede de termijn of termijnen waarbinnen deze gerealiseerd zullen worden, schriftelijk kenbaar aan Onze Minister.
 
 2. Onze Minister informeert de beide Kamers der Staten-Generaal omtrent de voornemens, bedoeld in het eerste lid.
 
@@ -671,11 +671,11 @@ Bij of krachtens algemene maatregel van bestuur worden nadere eisen gesteld ten 
 
 ##### Artikel 46
 
-Het verslag, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&artikel=45&z=2013-04-01&g=2013-04-01), bevat ten minste gegevens over de kwaliteit van het drinkwater afkomstig van de voorzieningen die gemiddeld meer dan 1000 m3 drinkwater per dag leveren aan consumenten of andere afnemers of waarvan, gemeten over een periode van een jaar, gemiddeld meer dan 5000 personen per dag gebruik maken.
+Het verslag, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&artikel=45&z=2014-08-01&g=2014-08-01), bevat ten minste gegevens over de kwaliteit van het drinkwater afkomstig van de voorzieningen die gemiddeld meer dan 1000 m3 drinkwater per dag leveren aan consumenten of andere afnemers of waarvan, gemeten over een periode van een jaar, gemiddeld meer dan 5000 personen per dag gebruik maken.
 
 ##### Artikel 47
 
-Ten behoeve van het verslag, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&artikel=45&z=2013-04-01&g=2013-04-01), verstrekken de eigenaren van drinkwaterbedrijven, collectieve watervoorzieningen en collectieve leidingnetten, voor zover daarmee drinkwater wordt geleverd aan consumenten of andere afnemers, aan Onze Minister op zijn verzoek de hun ter beschikking staande inlichtingen en gegevens, die Onze Minister voor het opstellen van dat verslag noodzakelijk acht.
+Ten behoeve van het verslag, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VI&artikel=45&z=2014-08-01&g=2014-08-01), verstrekken de eigenaren van drinkwaterbedrijven, collectieve watervoorzieningen en collectieve leidingnetten, voor zover daarmee drinkwater wordt geleverd aan consumenten of andere afnemers, aan Onze Minister op zijn verzoek de hun ter beschikking staande inlichtingen en gegevens, die Onze Minister voor het opstellen van dat verslag noodzakelijk acht.
 
 ### Hoofdstuk VII. Handhaving
 
@@ -687,11 +687,11 @@ Ten behoeve van het verslag, bedoeld in [artikel 45](https://wetten.overheid.nl/
 
 3. Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-4. In afwijking van het eerste en tweede lid is de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2), belast met het toezicht op de naleving van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=7&z=2013-04-01&g=2013-04-01). [Hoofdstuk 6 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6) is van overeenkomstige toepassing.
+4. In afwijking van het eerste en tweede lid is de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2), belast met het toezicht op de naleving van [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=2&artikel=7&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 49
 
-De eigenaar van een drinkwaterbedrijf, respectievelijk collectieve watervoorziening of collectief leidingnet, geeft onmiddellijk kennis aan de inspecteur, respectievelijk de voor die watervoorziening of dat leidingnet krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2013-04-01&g=2013-04-01) aangewezen andere toezichthouder, van omstandigheden in verband met zijn drinkwaterbedrijf, respectievelijk collectieve watervoorziening of collectief leidingnet die, naar hij redelijkerwijze kan weten of vermoeden, gevaar of beletsel voor de naleving van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2013-04-01&g=2013-04-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=22&z=2013-04-01&g=2013-04-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2013-04-01&g=2013-04-01), respectievelijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=2&artikel=25&z=2013-04-01&g=2013-04-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=2&artikel=26&z=2013-04-01&g=2013-04-01) dan wel [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2013-04-01&g=2013-04-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2013-04-01&g=2013-04-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2013-04-01&g=2013-04-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=30&z=2013-04-01&g=2013-04-01) of van de daarop berustende bepalingen kunnen vormen.
+De eigenaar van een drinkwaterbedrijf, respectievelijk collectieve watervoorziening of collectief leidingnet, geeft onmiddellijk kennis aan de inspecteur, respectievelijk de voor die watervoorziening of dat leidingnet krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2014-08-01&g=2014-08-01) aangewezen andere toezichthouder, van omstandigheden in verband met zijn drinkwaterbedrijf, respectievelijk collectieve watervoorziening of collectief leidingnet die, naar hij redelijkerwijze kan weten of vermoeden, gevaar of beletsel voor de naleving van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=21&z=2014-08-01&g=2014-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=22&z=2014-08-01&g=2014-08-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-08-01&g=2014-08-01), respectievelijk [25](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=2&artikel=25&z=2014-08-01&g=2014-08-01) of [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=2&artikel=26&z=2014-08-01&g=2014-08-01) dan wel [27](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=27&z=2014-08-01&g=2014-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=28&z=2014-08-01&g=2014-08-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=29&z=2014-08-01&g=2014-08-01) of [30](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III&paragraaf=3&artikel=30&z=2014-08-01&g=2014-08-01) of van de daarop berustende bepalingen kunnen vormen.
 
 ##### Artikel 50
 
@@ -711,7 +711,7 @@ Indien de levering van drinkwater aan consumenten of andere afnemers naar het oo
 
 ##### Artikel 53
 
-Hetgeen ten aanzien van de inspecteur of de eigenaar van een drinkwaterbedrijf is bepaald in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&artikel=51&z=2013-04-01&g=2013-04-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&artikel=52&z=2013-04-01&g=2013-04-01) en de daarop berustende bepalingen, is van overeenkomstige toepassing ten aanzien van een op grond van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2013-04-01&g=2013-04-01) aangewezen andere toezichthouder, respectievelijk de eigenaar van een collectieve watervoorziening of collectief leidingnet, voor zover daarmee drinkwater wordt geleverd aan consumenten of andere afnemers.
+Hetgeen ten aanzien van de inspecteur of de eigenaar van een drinkwaterbedrijf is bepaald in de [artikelen 51](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&artikel=51&z=2014-08-01&g=2014-08-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VIII&artikel=52&z=2014-08-01&g=2014-08-01) en de daarop berustende bepalingen, is van overeenkomstige toepassing ten aanzien van een op grond van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2014-08-01&g=2014-08-01) aangewezen andere toezichthouder, respectievelijk de eigenaar van een collectieve watervoorziening of collectief leidingnet, voor zover daarmee drinkwater wordt geleverd aan consumenten of andere afnemers.
 
 ##### Artikel 54
 
@@ -743,17 +743,17 @@ Wijzigt de Wet verontreiniging oppervlaktewateren.
 
 ##### Artikel 60
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&z=2013-04-01&g=2013-04-01) in de praktijk.
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&z=2014-08-01&g=2014-08-01) in de praktijk.
 
 ### Hoofdstuk XI. Overgangs- en slotbepalingen
 
 ##### Artikel 61
 
-Aan de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2013-04-01&g=2013-04-01), bedoelde verplichting wordt voor de eerste maal gevolg gegeven binnen ten hoogste één jaar nadat deze wet in werking is getreden.
+Aan de in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=IV&paragraaf=5&artikel=37&z=2014-08-01&g=2014-08-01), bedoelde verplichting wordt voor de eerste maal gevolg gegeven binnen ten hoogste één jaar nadat deze wet in werking is getreden.
 
 ##### Artikel 62
 
-Aan de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=41&z=2013-04-01&g=2013-04-01), bedoelde verplichting wordt voor de eerste maal gevolg gegeven vóór een door Onze Minister te bepalen tijdstip.
+Aan de in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=V&paragraaf=1&artikel=41&z=2014-08-01&g=2014-08-01), bedoelde verplichting wordt voor de eerste maal gevolg gegeven vóór een door Onze Minister te bepalen tijdstip.
 
 ##### Artikel 63
 
@@ -769,11 +769,11 @@ Vervallen
 
 1. De [Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246) wordt ingetrokken op het tijdstip waarop deze wet in werking treedt, met dien verstande dat [hoofdstuk III van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&hoofdstuk=III), zoals die onmiddellijk voorafgaand aan dat tijdstip luidt, ook na dat tijdstip van toepassing blijft op plannen tot reorganisatie van de openbare drinkwatervoorziening in gevallen waarbij op dat tijdstip de overgang van een distributiegebied als bedoeld in [artikel 21, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&artikel=21), nog niet is voltooid.
 
-2. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=3&z=2013-04-01&g=2013-04-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2013-04-01&g=2013-04-01) van deze wet kan, voor de periode gedurende welke dat nodig is voor de uitvoering van een plan tot reorganisatie als bedoeld in [hoofdstuk III van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&hoofdstuk=III), een distributiegebied worden toegewezen aan een drinkwaterbedrijf dat niet of niet geheel voldoet aan de voorwaarden, bedoeld in onderdeel b van de definitie van gekwalificeerde rechtspersoon, opgenomen in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=I&artikel=1&z=2013-04-01&g=2013-04-01), van deze wet.
+2. In afwijking van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=3&z=2014-08-01&g=2014-08-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=4&artikel=15&z=2014-08-01&g=2014-08-01) van deze wet kan, voor de periode gedurende welke dat nodig is voor de uitvoering van een plan tot reorganisatie als bedoeld in [hoofdstuk III van de Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246&hoofdstuk=III), een distributiegebied worden toegewezen aan een drinkwaterbedrijf dat niet of niet geheel voldoet aan de voorwaarden, bedoeld in onderdeel b van de definitie van gekwalificeerde rechtspersoon, opgenomen in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=I&artikel=1&z=2014-08-01&g=2014-08-01), van deze wet.
 
-3. Met ingang van het tijdstip van de inwerkingtreding van deze wet berust de [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743) op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2013-04-01&g=2013-04-01).
+3. Met ingang van het tijdstip van de inwerkingtreding van deze wet berust de [Regeling distributiegebieden waterleidingbedrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0017743) op [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01).
 
-4. Met ingang van het tijdstip van de inwerkingtreding van deze wet berust het [Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740), voor zover dat onmiddellijk voorafgaand aan dat tijdstip berustte op de [Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246), op [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2013-04-01&g=2013-04-01).
+4. Met ingang van het tijdstip van de inwerkingtreding van deze wet berust het [Besluit aanwijzing ambtenaren VROM-regelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0017740), voor zover dat onmiddellijk voorafgaand aan dat tijdstip berustte op de [Waterleidingwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002246), op [artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=VII&artikel=48&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 66
 
