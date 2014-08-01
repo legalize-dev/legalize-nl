@@ -4,7 +4,7 @@ identifier: "BWBR0031208"
 country: "nl"
 rank: "wet"
 publication_date: "2014-08-01"
-last_updated: "2012-08-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031208"
 soort: "wet"
@@ -57,12 +57,10 @@ Wijzigt de Wet voortgezet onderwijs BES.
 
 ##### Artikel IIa. Overgangsrecht
 
-1. De periode van twaalf maanden, bedoeld in [artikel 33, derde lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=33), [artikel 3, vijfde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) en [artikel 80, zesde lid, van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=80) gaat voor het eerst in vanaf het moment van inwerkingtreding van de Wet van 15 december 2011 tot wijziging van de Wet op het voortgezet onderwijs en de Wet voortgezet onderwijs BES in verband met het uitbreiden en verduidelijken van de mogelijkheden tot benoeming of tewerkstelling van leraren in het voortgezet onderwijs (Stb. 2012, 22).
-
-2. Dit artikel vervalt met ingang van 1 augustus 2014.
+Vervallen
 
 ##### Artikel III. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kan ten aanzien van de [artikelen I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031208&artikel=I&z=2012-08-01&g=2012-08-01), en [II, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031208&artikel=II&z=2012-08-01&g=2012-08-01), terugwerken tot en met een in dat besluit te bepalen tijdstip, welk tijdstip voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kan ten aanzien van de [artikelen I, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031208&artikel=I&z=2014-08-01&g=2014-08-01), en [II, onderdeel A, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031208&artikel=II&z=2014-08-01&g=2014-08-01), terugwerken tot en met een in dat besluit te bepalen tijdstip, welk tijdstip voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
