@@ -1116,5 +1116,3 @@ Deze beleidsregel wordt aangehaald als: Boetebeleidsregel ACM 2014.
 9 Zie in geval van overtreding van deze bepaling in de context van oneerlijke handelspraktijken, deze Bijlage onder art. 6:193f aanhef en onder g BW.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
