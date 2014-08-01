@@ -4,7 +4,7 @@ identifier: "BWBR0025364"
 country: "nl"
 rank: "wet"
 publication_date: "2024-08-01"
-last_updated: "2013-08-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025364"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder:
 
-- **college:** College voor examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-08-01&g=2013-08-01);
+- **college:** College voor toetsen en examens, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2014-08-01&g=2014-08-01);
 
 - **Cito:** Stichting Cito Instituut voor Toetsontwikkeling, genoemd in [artikel 12 van de Wet subsidiëring landelijke ondersteunende activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0008725&artikel=12);
 
@@ -56,7 +56,7 @@ In deze wet wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Er is een College voor examens.
+1. Er is een College voor toetsen en examens.
 
 2. Het college is belast met de volgende taken op het gebied van de centrale examens, bedoeld in de [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399), de [Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284), [artikel 7.4.11 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.11) en [artikel 7.4.13 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.4.13) en de daarop berustende bepalingen:
 
@@ -102,7 +102,23 @@ In deze wet wordt verstaan onder:
 
 - c. het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen.
 
-6. Het college is verder nog belast met de volgende taken:
+6. Het college is belast met de volgende taken op het gebied van de centrale eindtoets, bedoeld in [artikel 9b, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), en de toets, bedoeld in artikel 9b, tweede lid, tweede volzin, van de Wet op het primair onderwijs en artikel 18b, tweede lid, tweede volzin, van de Wet op de expertisecentra:
+
+- a. het vaststellen van de verschillende niveaus van de toetsen;
+
+- b. het vaststellen van het tijdstip en de tijdsduur van de toets, de wijze waarop en de vorm waarin de toets wordt afgenomen;
+
+- c. het tot stand brengen en vaststellen van de opgaven van de toets en het bij regeling vaststellen van de toetswijzer voor de verschillende niveaus overeenkomstig de kerndoelen met betrekking tot Nederlandse taal en rekenen en wiskunde, bedoeld in [artikel 9 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13);
+
+- d. het tot stand brengen en vaststellen van de opgaven van de toets en het bij regeling vaststellen van de toetswijzer overeenkomstig de kerndoelen voor de kennisgebieden, genoemd in [artikel 9, tweede lid, onderdelen a, b en c, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13, derde lid, onderdelen a, b en c, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13);
+
+- e. het tot stand brengen en bij regeling vaststellen van de beoordelingsnormen en de daarbij behorende scores;
+
+- f. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen worden bij het maken van de toets; en
+
+- g. het opstellen van het leerlingrapport.
+
+7. Het college is verder nog belast met de volgende taken:
 
 - a. het afnemen van examens onder bijzondere omstandigheden;
 
@@ -110,9 +126,9 @@ In deze wet wordt verstaan onder:
 
 - c. het uitoefenen van andere door Onze Minister opgedragen taken.
 
-7. De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.
+8. De regelingen, bedoeld in het tweede lid, onderdelen e en f, en vijfde lid, onderdeel a, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.
 
-8. In afwijking van [artikel 4, eerste lid, onderdeel b, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.
+9. In afwijking van [artikel 4, eerste lid, onderdeel b, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=4) kan de bekendmaking van een regeling als bedoeld in het tweede lid, onderdeel d, vierde lid, onderdeel c, of vijfde lid, onderdeel c, geschieden op een andere geschikte, al dan niet elektronische, wijze.
 
 ##### Artikel 3
 
@@ -152,15 +168,15 @@ Het college stelt een bestuursreglement vast, waarin in elk geval regels over de
 
 - a. de voorgenomen activiteiten van het college;
 
-- b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de centrale examens of op het terrein van de staatsexamens, bedoeld in [artikel 60 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;
+- b. de voorstellen voor de uitvoerende werkzaamheden op het terrein van de toetsen, bedoeld in [artikel 9b van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9b) en [artikel 18b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18b), de centrale examens of op het terrein van de staatsexamens, bedoeld in [artikel 60 van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de daarop berustende bepalingen, waaronder in ieder geval de werkzaamheden van de Cito;
 
 - c. de voorstellen voor de kosten van de werkzaamheden, bedoeld in onderdeel b.
 
 3. Het college kan, mits gemotiveerd, aan Onze Minister tussentijds een wijziging van het werkprogramma voorstellen.
 
-##### Artikel 9
+##### Artikel 9*
 
-Wijzigt de Wet educatie en beroepsonderwijs.
+Zolang een of meer van de in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2014-08-01&g=2014-08-01), genoemde artikelen van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) niet in werking is of zijn getreden, hebben de in het zesde lid beschreven taken van het college en het werkprogramma, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=8&z=2014-08-01&g=2014-08-01), uitsluitend betrekking op de toetsen, bedoeld in de reeds in werking getreden artikelen van de Wet op het primair onderwijs en de Wet op de expertisecentra.
 
 ##### Artikel 10
 
@@ -172,11 +188,11 @@ Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel 12
 
-De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2013-08-01&g=2013-08-01) worden overgedragen aan het college.
+De archiefbescheiden van de centrale examencommissie vaststelling opgaven, bedoeld in [artikel 39, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39), de staatsexamencommissie, bedoeld in [artikel 60, eerste lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=60) en de commissie, bedoeld in [artikel 1, van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=1) zoals deze artikelen luidden op de dag voor de inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=11&z=2014-08-01&g=2014-08-01) worden overgedragen aan het college.
 
 ##### Artikel 13
 
-Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2013-08-01&g=2013-08-01) van deze wet.
+Na de inwerkingtreding van deze wet berusten de regelingen op grond van de [artikelen 13 van het Besluit staatsexamens vwo-havo-mavo 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011538&artikel=13), [39 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](https://wetten.overheid.nl/jci1.3:c:BWBR0004593&artikel=39) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=3) en [10 van het Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192&artikel=10) op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2&z=2014-08-01&g=2014-08-01) van deze wet.
 
 ##### Artikel 14
 
@@ -184,6 +200,12 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 
 ##### Artikel 15
 
-Deze wet wordt aangehaald als: Wet College voor examens.
+Deze wet wordt aangehaald als: Wet College voor toetsen en examens.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9
+
+Wijzigt de Wet educatie en beroepsonderwijs.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
