@@ -4,7 +4,7 @@ identifier: "BWBR0008974"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-05"
-last_updated: "2012-01-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008974"
 soort: "wet"
@@ -65,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. dat het verboden is zonder zijn vergunning apparatuur van een bij de regeling aangegeven aard ten behoeve van het uitvoeren van medische verrichtingen aan te schaffen of te gebruiken.
 
-2. Een regeling als bedoeld in het eerste lid vervalt uiterlijk vier jaar na de inwerkingtreding. Voortzetting van het verbod kan slechts geschieden bij algemene maatregel van bestuur.
+2. De vaststelling krachtens het eerste lid van een ministeriële regeling houdende beëindiging van een verbod als in dat lid bedoeld, wordt niet eerder gedaan dan vier weken nadat een ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
 ##### Artikel 3
 
@@ -77,25 +77,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-1. Met betrekking tot medische verrichtingen waarvoor subsidie wordt verstrekt door Onze Minister in het kader van een project van ontwikkelingsgeneeskunde, kan Onze Minister, indien het belang van dat project of een belang als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01) daartoe aanleiding geeft dan wel indien moet worden onderzocht of de verrichting, gezien de maatschappelijke, ethische of juridische aspecten, al dan niet gewenst is, bij ministeriële regeling bepalen dat het verboden is die medische verrichtingen uit te voeren elders dan in de bij dat project betrokken instelling.
+1. Met betrekking tot medische verrichtingen waarvoor subsidie wordt verstrekt door Onze Minister in het kader van een project van ontwikkelingsgeneeskunde, kan Onze Minister, indien het belang van dat project of een belang als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01) daartoe aanleiding geeft dan wel indien moet worden onderzocht of de verrichting, gezien de maatschappelijke, ethische of juridische aspecten, al dan niet gewenst is, bij ministeriële regeling bepalen dat het verboden is die medische verrichtingen uit te voeren elders dan in de bij dat project betrokken instelling.
 
 2. Een regeling als bedoeld in het eerste lid vervalt een jaar na het tijdstip waarop de subsidiëring van dat project wordt beëindigd.
 
 ##### Artikel 5
 
-Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan verrichtingen en apparatuur, bedoeld in [artikel 2, eerste lid, onder a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), alsmede de wijze waarop in die behoefte kan worden voorzien.
+Onze Minister bepaalt bij ministeriële regeling de omvang van de behoefte aan verrichtingen en apparatuur, bedoeld in [artikel 2, eerste lid, onder a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), alsmede de wijze waarop in die behoefte kan worden voorzien.
 
 ##### Artikel 6
 
-1. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), kan slechts worden geweigerd indien het verlenen daarvan in strijd zou zijn met het bepaalde krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01).
+1. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), kan slechts worden geweigerd indien het verlenen daarvan in strijd zou zijn met het bepaalde krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01).
 
 2. Bij ministeriële regeling wordt de procedure met betrekking tot de vergunningverlening vastgesteld. Een vergunning kan onder beperkingen worden verleend. Aan een vergunning kunnen voorschriften worden verbonden. De beperkingen en voorschriften kunnen worden gewijzigd of ingetrokken en nieuwe beperkingen of voorschriften kunnen worden gesteld.
 
-3. De vergunninghouder is verplicht Onze Minister periodiek de gegevens te verstrekken die Onze Minister van belang acht voor een goede uitvoering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01).
+3. De vergunninghouder is verplicht Onze Minister periodiek de gegevens te verstrekken die Onze Minister van belang acht voor een goede uitvoering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01).
 
-4. Indien bij het in werking treden van een regeling als bedoeld in [artikel 2, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), de daarin aangegeven verrichtingen reeds werden uitgevoerd onderscheidenlijk de daarin bedoelde apparatuur reeds werd gebruikt, niet in strijd met het bepaalde bij of krachtens deze wet, mag dit, mits hieraan geen uitbreiding wordt gegeven, worden voortgezet gedurende drie maanden. Onze Minister kan desgevraagd deze termijn verlengen.
+4. Indien bij het in werking treden van een regeling als bedoeld in [artikel 2, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), de daarin aangegeven verrichtingen reeds werden uitgevoerd onderscheidenlijk de daarin bedoelde apparatuur reeds werd gebruikt, niet in strijd met het bepaalde bij of krachtens deze wet, mag dit, mits hieraan geen uitbreiding wordt gegeven, worden voortgezet gedurende drie maanden. Onze Minister kan desgevraagd deze termijn verlengen.
 
-5. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), kan worden ingetrokken indien de vergunninghouder in strijd handelt met een beperking of voorschrift als bedoeld in het tweede lid dan wel met het derde lid, alsmede indien de omstandigheden na de verlening van de vergunning zodanig zijn gewijzigd, dat de vergunning niet meer zou zijn verleend.
+5. Een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), kan worden ingetrokken indien de vergunninghouder in strijd handelt met een beperking of voorschrift als bedoeld in het tweede lid dan wel met het derde lid, alsmede indien de omstandigheden na de verlening van de vergunning zodanig zijn gewijzigd, dat de vergunning niet meer zou zijn verleend.
 
 ### Hoofdstuk III. Regulering door financiële ondersteuning
 
@@ -105,11 +105,11 @@ Vervallen
 
 ##### Artikel 8
 
-1. Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01) van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen.
+1. Onze Minister kan met betrekking tot medische verrichtingen waarop niet een regeling als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=3&z=2014-08-01&g=2014-08-01) van toepassing is en die niet behoren tot de ontwikkelingsgeneeskunde, zijn beleidsvisie bekend maken ten aanzien van bijzondere aspecten van die verrichtingen, welke aspecten die verrichtingen onderscheiden van andere medische verrichtingen.
 
 2. Een instelling kan Onze Minister verzoeken haar aan te wijzen voor de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen. Onze Minister kan zodanige aanwijzing uitsluitend weigeren indien het geven daarvan in strijd zou zijn met zijn beleidsvisie, bedoeld in het eerste lid.
 
-3. Onze Minister kan aan een aanwijzing voorschriften verbinden, voor zover die voortvloeien uit de beleidsvisie. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), is van overeenkomstige toepassing.
+3. Onze Minister kan aan een aanwijzing voorschriften verbinden, voor zover die voortvloeien uit de beleidsvisie. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=6&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
 
 4. De beleidsvisie, bedoeld in het eerste lid, kan inhouden dat Onze Minister, voor zover dat naar zijn oordeel noodzakelijk is in het belang van de volksgezondheid, zorg draagt voor bekostiging van de instandhouding dan wel continuïteit van de uitvoering van de bijzondere aspecten van de in het eerste lid bedoelde verrichtingen door een instelling die op grond van het tweede lid is aangewezen.
 
@@ -117,11 +117,17 @@ Vervallen
 
 ##### Artikel 9
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
+1. Degene die een medische verrichting uitvoert waarvoor niet langer ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01) een vergunning is vereist, doet daarvan binnen drie maanden nadat hij met de uitvoering is begonnen mededeling aan het Staatstoezicht op de volksgezondheid. Deze verplichting rust niet op degene die op de datum waarop de vergunningplicht eindigde, in het bezit was van een zodanige vergunning.
+
+2. De verplichting tot het doen van een mededeling als bedoeld in het eerste lid, eindigt twee jaar na de datum waarop de vergunningplicht is geëindigd.
+
+3. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de mededeling, bedoeld in het eerste lid geschiedt en de gegevens die daarbij worden verstrekt.
+
+4. Onze Minister zendt een jaar nadat voor een medische verrichting een verplichting tot het doen van een mededeling als bedoeld in het eerste lid is ontstaan, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van die verplichting in de praktijk.
 
 ##### Artikel 10
 
-Vervallen
+Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.
 
 ##### Artikel 11
 
@@ -129,7 +135,9 @@ De toezichthouders zijn bevoegd, met medeneming van de benodigde apparatuur, een
 
 ##### Artikel 12
 
-Vervallen
+1. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=4&z=2014-08-01&g=2014-08-01).
+
+2. Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 13.400,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=IV&artikel=9&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 13
 
@@ -155,9 +163,9 @@ Wijzigt de Wet ziekenhuisvoorzieningen.
 
 ##### Artikel 18
 
-1. Na de inwerkingtreding van deze wet berust het [Besluit bijzondere verrichtingen en apparatuur Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0005209) op [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), van deze wet, berusten de Regeling harttransplantatie, de Regeling longtransplantatie, de Regeling levertransplantatie en de Regeling klinisch-genetisch onderzoek en erfelijkheidsadvisering op [de artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) van deze wet, berusten het Planningsbesluit niertransplantatie, het Planningsbesluit radiotherapie, het Planningsbesluit in vitro fertilisatie, het Planningsbesluit neonatale intensive care, het Planningsbesluit neurochirurgie, het Planningsbesluit dialyse en het Planningsbesluit bijzondere interventies aan het hart op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) van deze wet, en berust het Besluit procedures voor bijzondere functies [Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753) op [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), van deze wet.
+1. Na de inwerkingtreding van deze wet berusten de Regeling harttransplantatie, de Regeling longtransplantatie, de Regeling levertransplantatie en de Regeling klinisch-genetisch onderzoek en erfelijkheidsadvisering op [de artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01) van deze wet, berusten het Planningsbesluit niertransplantatie, het Planningsbesluit radiotherapie, het Planningsbesluit in vitro fertilisatie, het Planningsbesluit neonatale intensive care, het Planningsbesluit neurochirurgie, het Planningsbesluit dialyse en het [Planningsbesluit bijzondere interventies aan het hart](https://wetten.overheid.nl/jci1.3:c:BWBR0008447) op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=5&z=2014-08-01&g=2014-08-01) van deze wet, en berust het Besluit procedures voor bijzondere functies Wet ziekenhuisvoorzieningen op [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=6&z=2014-08-01&g=2014-08-01), van deze wet.
 
-2. Een vergunning, verleend op grond van [artikel 18, eerste lid, onder **a** of **b**, van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18), zoals dat artikel luidde tot de inwerkingtreding van deze wet, wordt gelijkgesteld met een vergunning, verleend op grond van [artikel 2, eerste lid, onder **a** onderscheidenlijk **b**, van de onderhavige wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2012-01-01&g=2012-01-01).
+2. Een vergunning, verleend op grond van [artikel 18, eerste lid, onder a of b, van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18), zoals dat artikel luidde tot de inwerkingtreding van deze wet, wordt gelijkgesteld met een vergunning, verleend op grond van [artikel 2, eerste lid, onder a onderscheidenlijk b, van de onderhavige wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01).
 
 3. Beroepen, ingesteld tegen beslissingen op grond van [artikel 18 van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18), worden afgewikkeld overeenkomstig de in die wet voorziene procedure, zoals die wet luidde tot de inwerkingtreding van deze wet.
 
@@ -190,6 +198,12 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 2. Bij algemene maatregel van bestuur kan het begrip xenotransplantatie nader worden omschreven en kunnen verrichtingen waarbij naar heersend medisch inzicht onaanvaardbare risico's voor de patiënt en de volksgezondheid redelijkerwijs zijn uitgesloten, worden aangewezen waarop het in het eerste lid bedoelde verbod niet van toepassing is.
 
 ### Hoofdstuk IV. Toezicht
+
+### Hoofdstuk V. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+### Hoofdstuk IVa. Sancties
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
