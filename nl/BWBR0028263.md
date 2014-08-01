@@ -4,7 +4,7 @@ identifier: "BWBR0028263"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028263"
 soort: "wet-BES"
@@ -45,11 +45,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **openbaar lichaam:** het openbaar lichaam Bonaire, Sint Eustatius of Saba;
 
-- c. **houder van de concessie:** de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25);
+- c. **houder van de concessie:** de rechtspersoon, waaraan een concessie is verleend op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01);
 
 - d. **brieven:** bescheiden en schriftelijke mededelingen, al dan niet verpakt, met uitzondering van die welke door toepassing van druk- of andere vermenigvuldigingstechnieken in een aantal geheel met elkaar overeenstemmende exemplaren ter verspreiding zijn vervaardigd en waarin, behoudens de adressering, geen bijvoegingen, doorhalingen of aanduidingen zijn aangebracht;
 
-- e. **postzendingen:** brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), verplicht is te vervoeren;
+- e. **postzendingen:** brieven en andere geadresseerde zendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), verplicht is te vervoeren;
 
 - f. **vervoer:** het geheel van handelingen dat ertoe leidt dat een ter verzending aangeboden postzending wordt afgeleverd;
 
@@ -63,7 +63,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Ter waarborging van een goede dienstverlening ter zake van het vervoer van postzendingen op en tussen het grondgebied van de openbare lichamen, van en naar Nederland en van en naar Aruba, Curaçao en Sint Maarten, alsmede van en naar het buitenland wordt aan een door Onze Minister aan te wijzen rechtspersoon met uitsluiting van anderen voor de duur van ten minste 10 jaar concessie verleend voor:
 
-- a. het vervoer tegen vergoeding van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, behoudens de gevallen genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25), en de gevallen waarin ontheffing is verleend krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25);
+- a. het vervoer tegen vergoeding van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, behoudens de gevallen genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01), en de gevallen waarin ontheffing is verleend krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01);
 
 - b. het aan of op de openbare weg plaatsen van voor het publiek bestemde brievenbussen dan wel postbussen;
 
@@ -97,11 +97,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Daartoe geeft de houder van de concessie aan de in het eerste lid bedoelde rechtspersoon de nodige instructies, die deze gehouden is op te volgen.
 
-4. Bij toepassing van het eerste lid geldt het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2014-01-25&g=2014-01-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2014-01-25&g=2014-01-25), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=11&z=2014-01-25&g=2014-01-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25) met betrekking tot de houder van de concessie bepaalde mede ten aanzien van de in het eerste lid bedoelde rechtspersoon.
+4. Bij toepassing van het eerste lid geldt het in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2014-08-01&g=2014-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2014-08-01&g=2014-08-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=11&z=2014-08-01&g=2014-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01) met betrekking tot de houder van de concessie bepaalde mede ten aanzien van de in het eerste lid bedoelde rechtspersoon.
 
 ##### Artikel 5
 
-1. Een concessie wordt verleend onder voorwaarden welke de houder van de concessie bij de uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), gehouden is op te volgen. In plaats van concessievoorwaarden kan Onze Minister aan de houder van de concessie algemene richtlijnen geven die hij bij de uitvoering van genoemde artikelen gehouden is op te volgen.
+1. Een concessie wordt verleend onder voorwaarden welke de houder van de concessie bij de uitvoering van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), gehouden is op te volgen. In plaats van concessievoorwaarden kan Onze Minister aan de houder van de concessie algemene richtlijnen geven die hij bij de uitvoering van genoemde artikelen gehouden is op te volgen.
 
 2. Deze concessievoorwaarden of deze algemene richtlijnen kunnen in elk geval betrekking hebben op:
 
@@ -125,7 +125,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 6
 
-Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2014-01-25&g=2014-01-25) bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang zulks dringend vordert of de houder van de concessie instemt dat de wijziging eerder van kracht wordt.
+Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2014-08-01&g=2014-08-01) bedoelde richtlijnen wordt niet eerder van kracht dan een jaar na de vaststelling van dit besluit, tenzij een bij dit besluit aan te geven algemeen belang zulks dringend vordert of de houder van de concessie instemt dat de wijziging eerder van kracht wordt.
 
 ##### Artikel 7
 
@@ -149,7 +149,7 @@ Een besluit tot wijziging van de in [artikel 5](https://wetten.overheid.nl/jci1.
 
 5. De houder van de concessie kan zich niet beroepen op een uit de voorgaande leden van dit artikel voortvloeiende uitsluiting of beperking van zijn aansprakelijkheid voor zover de schade is ontstaan uit zijn eigen handelen of nalaten, geschied hetzij met de opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
-6. Ter zake van het internationale vervoer van postzendingen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van de akten van de Wereldpostunie dan wel andere voor Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.
+6. Ter zake van het internationale vervoer van postzendingen als bedoeld in [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), is de houder van de concessie slechts aansprakelijk overeenkomstig de bepalingen van de akten van de Wereldpostunie dan wel andere voor Nederland bindende verdragen of besluiten van volkenrechtelijke organisaties.
 
 ##### Artikel 8
 
@@ -209,7 +209,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 - f. in hoofdzaak tekst bevatten uitgevoerd in voor blinden bestemde tekens; of
 
-- g. worden vervoerd met een ontheffing verleend ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25).
+- g. worden vervoerd met een ontheffing verleend ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01).
 
 3. Het is verboden brieven te doen vervoeren, indien dit vervoer geschiedt in strijd met het eerste lid.
 
@@ -221,7 +221,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ##### Artikel 13
 
-1. De Minister is bevoegd om voor bijzondere omstandigheden, waarin de houder van de concessie niet voorziet in het vervoer van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, aan anderen dan de houder van de concessie van het verbod bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25), ontheffing te verlenen onder door Onze Minister daaraan te verbinden voorschriften en beperkingen, welke in verband met de bijzondere omstandigheden redelijkerwijze nodig zijn.
+1. De Minister is bevoegd om voor bijzondere omstandigheden, waarin de houder van de concessie niet voorziet in het vervoer van brieven die elk afzonderlijk ten hoogste 2000 gram wegen, aan anderen dan de houder van de concessie van het verbod bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01), ontheffing te verlenen onder door Onze Minister daaraan te verbinden voorschriften en beperkingen, welke in verband met de bijzondere omstandigheden redelijkerwijze nodig zijn.
 
 2. Bij toepassing van het eerste lid is Onze Minister bevoegd voor deze ontheffing, als tegemoetkoming in de kosten die met verlening van de ontheffing zijn gemoeid, een vergoeding vast te stellen.
 
@@ -229,7 +229,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ##### Artikel 14
 
-1. De houder van de concessie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), de vervoerder, bedoeld in [artikel 12, tweede lid, onderdeel a, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25), en de houder van een ontheffing als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25), zijn ter dekking van de kosten die verband houden met de werkzaamheden van Onze Minister, of de bestuursorganen of het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2), bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=VII&artikel=27&z=2014-01-25&g=2014-01-25), jaarlijks een vergoeding verschuldigd voor zover deze kosten niet reeds krachtens artikel 13, tweede lid, verschuldigd zijn.
+1. De houder van de concessie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), de vervoerder, bedoeld in [artikel 12, tweede lid, onderdeel a, sub 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01), en de houder van een ontheffing als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01), zijn ter dekking van de kosten die verband houden met de werkzaamheden van Onze Minister, of de bestuursorganen of het college genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2), bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=VII&artikel=27&z=2014-08-01&g=2014-08-01), jaarlijks een vergoeding verschuldigd voor zover deze kosten niet reeds krachtens artikel 13, tweede lid, verschuldigd zijn.
 
 2. De vergoeding wordt bepaald aan de hand van de door Onze Minister, de bestuursorganen of het college te verrichten werkzaamheden toegerekend aan de onderscheiden marktcategorieën. Van de toerekening van kosten van werkzaamheden zijn uitgezonderd de kosten verbonden aan de behandeling van bezwaarschriften en aan het optreden als procespartij bij behandeling van beroepsschriften.
 
@@ -267,9 +267,9 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 ##### Artikel 17
 
-1. Overtreding van de [artikel 8, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2014-01-25&g=2014-01-25), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25) en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-01-25&g=2014-01-25), wordt gestraft met hechtenis van ten hoogste vijf maanden of een geldboete van USD 5.600.
+1. Overtreding van de [artikel 8, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=8&z=2014-08-01&g=2014-08-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01) en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-08-01&g=2014-08-01), wordt gestraft met hechtenis van ten hoogste vijf maanden of een geldboete van USD 5.600.
 
-2. Overtreding van de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25), en [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-01-25&g=2014-01-25), alsmede van de voorschriften en de beperkingen verbonden aan ontheffing verleend krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25), wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van USD 2.800.
+2. Overtreding van de [artikelen 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01), en [16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-08-01&g=2014-08-01), alsmede van de voorschriften en de beperkingen verbonden aan ontheffing verleend krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01), wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van USD 2.800.
 
 3. Met een geldboete van ten hoogste USD 2.800 wordt gestraft:
 
@@ -279,7 +279,7 @@ Beslag op postzendingen welke ten vervoer aan de houder van de concessie zijn to
 
 - c. degene, die onbevoegd gebruik maakt van één of meer der in onderdeel b bedoelde opschriften of aanduidingen.
 
-4. De voorwerpen, waarmede één der overtredingen, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-01-25&g=2014-01-25), is gepleegd, kunnen voor zover zij de veroordeelde toebehoren, bij de veroordeling worden verbeurd verklaard.
+4. De voorwerpen, waarmede één der overtredingen, bedoeld in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=16&z=2014-08-01&g=2014-08-01), is gepleegd, kunnen voor zover zij de veroordeelde toebehoren, bij de veroordeling worden verbeurd verklaard.
 
 5. De strafbare feiten in deze wet, worden beschouwd als overtredingen.
 
@@ -307,7 +307,7 @@ Alle bescheiden, welke door de houder van de concessie bij de uitvoering van de 
 
 ##### Artikel 22
 
-Bij de voorbereiding van besluiten als bedoeld in de [artikel 2, tweede lid, aanhef onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=3&z=2014-01-25&g=2014-01-25), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2014-01-25&g=2014-01-25), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2014-01-25&g=2014-01-25), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=9&z=2014-01-25&g=2014-01-25), [12, tweede lid, onderdeel a, ten 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=III&artikel=14&z=2014-01-25&g=2014-01-25), of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie.
+Bij de voorbereiding van besluiten als bedoeld in de [artikel 2, tweede lid, aanhef onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=3&z=2014-08-01&g=2014-08-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=5&z=2014-08-01&g=2014-08-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=7&z=2014-08-01&g=2014-08-01), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=9&z=2014-08-01&g=2014-08-01), [12, tweede lid, onderdeel a, ten 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=III&artikel=14&z=2014-08-01&g=2014-08-01), of wijzigingen van die besluiten, voert Onze Minister tijdig overleg met de houder van de concessie.
 
 ### Hoofdstuk VI
 
@@ -321,21 +321,21 @@ Gerechtelijke procedures die zijn aangevangen vóór het tijdstip van het in wer
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen over de in deze wet geregelde onderwerpen, in het kader van de goede uitvoering van deze wet, nadere regels worden gesteld. Voorts kunnen bij algemene maatregel van bestuur regels worden gesteld waarbij artikelen van de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) geheel of gedeeltelijk van toepassing worden verklaard op een openbaar lichaam, dan wel regels worden gesteld die overeenkomen met de in die wet geregelde onderwerpen.
 
-2. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=15&z=2014-01-25&g=2014-01-25), kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2). Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd de bevoegdheden van artikel 15 toe te passen.
+2. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=15&z=2014-08-01&g=2014-08-01), kan bij algemene maatregel van bestuur het toezicht op de daarbij aangegeven onderwerpen worden opgedragen aan de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2). Bij het uitoefenen van de opgedragen toezichtstaken is de Autoriteit Consument en Markt bevoegd [artikel 15, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=IV&artikel=15&z=2014-08-01&g=2014-08-01), toe te passen.
 
 3. Bij algemene maatregel van bestuur kunnen taken worden opgedragen en bevoegdheden worden verleend aan de Autoriteit Consument en Markt of aan een of meer bestuursorganen van een openbaar lichaam.
 
 ##### Artikel 27a
 
-1. Een concessie die is verleend krachtens artikel 2, eerste lid, van Postlandsverordening 1998, wordt gelijkgesteld met een concessie verleend krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-01-25&g=2014-01-25), en heeft een geldigheidsduur tot 31 december 2012. Indien het belang van de continuïteit van de postvoorziening dat vordert kan de concessie eenmaal met een periode van maximaal 3 jaar worden verlengd. Aan de verlenging kunnen voorwaarden worden verbonden.
+1. Een concessie die is verleend krachtens artikel 2, eerste lid, van Postlandsverordening 1998, wordt gelijkgesteld met een concessie verleend krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=2&z=2014-08-01&g=2014-08-01), en heeft een geldigheidsduur tot 31 december 2012. Indien het belang van de continuïteit van de postvoorziening dat vordert kan de concessie eenmaal met een periode van maximaal 3 jaar worden verlengd. Aan de verlenging kunnen voorwaarden worden verbonden.
 
 2. Voor de houder van een concessie als bedoeld in het eerste lid blijft het bepaalde bij of krachtens de artikelen 3 en 5 van Postlandsverordening 1998 van toepassing met dien verstande dat nieuwe concessievoorwaarden kunnen worden gegeven en bestaande voorwaarden kunnen worden gewijzigd.
 
 ##### Artikel 27b
 
-1. Een registratie die is verleend krachtens artikel 12, tweede lid, onderdeel a, sub 2, van Postlandsverordening 1998, wordt gelijkgesteld met een registratie verleend krachtens [artikel 12, tweede lid, onderdeel a, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-01-25&g=2014-01-25).
+1. Een registratie die is verleend krachtens artikel 12, tweede lid, onderdeel a, sub 2, van Postlandsverordening 1998, wordt gelijkgesteld met een registratie verleend krachtens [artikel 12, tweede lid, onderdeel a, sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=12&z=2014-08-01&g=2014-08-01).
 
-2. Een ontheffing die is verleend krachtens artikel 13, eerste lid, van de Postlandsverordening 1998, wordt gelijkgesteld met een ontheffing verleend krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-01-25&g=2014-01-25).
+2. Een ontheffing die is verleend krachtens artikel 13, eerste lid, van de Postlandsverordening 1998, wordt gelijkgesteld met een ontheffing verleend krachtens [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&hoofdstuk=II&artikel=13&z=2014-08-01&g=2014-08-01).
 
 3. Bij algemene maatregel van bestuur kan de termijn worden vastgesteld gedurende welke een registratie of een ontheffing als bedoeld in het eerste lid onderscheidenlijk het tweede lid geldt.
 
