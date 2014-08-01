@@ -4,7 +4,7 @@ identifier: "BWBR0025572"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2014-01-25"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025572"
 soort: "wet"
@@ -56,17 +56,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. **Autoriteit Consument en Markt:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2);
 
-- c. vervallen;
+- c. **akten van de Wereldpostunie:** de op 10 juli 1964 te Wenen tot stand gekomen Constitutie van de Wereldpostunie (Trb. 1965, 170) en de daarbij behorende voor Nederland bindende verdragen, reglementen en protocollen (Trb. 1965, 170 en Trb. 2002, 205);
 
-- d. **akten van de Wereldpostunie:** de op 10 juli 1964 te Wenen tot stand gekomen Constitutie van de Wereldpostunie (Trb. 1965, 170) en de daarbij behorende voor Nederland bindende verdragen, reglementen en protocollen (Trb. 1965, 170 en Trb. 2002, 205);
+- d. **bindende gedragslijn:** een zelfstandige last die niet wegens een overtreding wordt opgelegd;
 
-- e. **bestuurlijke boete:** de bestraffende sanctie, inhoudende een onvoorwaardelijke verplichting tot betaling van een geldsom;
+- e. **zelfstandige last:** de enkele last tot het verrichten van bepaalde handelingen, bedoeld in [artikel 5:2, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:2), ter bevordering van de naleving van wettelijke voorschriften.
 
-- f. **overtreding:** een gedraging die in strijd is met het bepaalde bij of krachtens enig wettelijk voorschrift;
-
-- g. **overtreder:** degene die de overtreding pleegt of medepleegt.
-
-2. Bij besluit van Onze Minister kunnen de vindplaatsen, bedoeld in het eerste lid, onderdeel d, worden gewijzigd. Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. Bij besluit van Onze Minister kunnen de vindplaatsen, bedoeld in het eerste lid, onderdeel c, worden gewijzigd. Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 2
 
@@ -82,9 +78,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - e. **postvervoerbedrijf:** eenieder die postvervoerdiensten aanbiedt;
 
-- f. **universele postdienst:** de universele postdienst, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-01-25&g=2014-01-25) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-01-25&g=2014-01-25);
+- f. **universele postdienst:** de universele postdienst, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-08-01&g=2014-08-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-08-01&g=2014-08-01);
 
-- g. **verlener van de universele postdienst:** een postvervoerbedrijf dat ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-01-25&g=2014-01-25), is aangewezen;
+- g. **verlener van de universele postdienst:** een postvervoerbedrijf dat ingevolge [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-08-01&g=2014-08-01), is aangewezen;
 
 - h. **postbus:** een in een gebouw aanwezige afgesloten ruimte die bestemd is voor de aflevering van de voor de gebruiker daarvan bestemde poststukken;
 
@@ -102,9 +98,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - o. **eindgebruiker:** natuurlijke persoon of rechtspersoon die van een postvervoerdienst gebruik maakt of wil gaan maken en die niet zelf postvervoerdiensten aanbiedt;
 
-- p. **rouwbrief:** brief als bedoeld in [artikel 16, eerste lid, onderdeel a, of tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-01-25&g=2014-01-25), waarmee wordt kennis gegeven van het overlijden van een natuurlijke persoon, voor zover die brief wordt aangeboden overeenkomstig de door een verlener van de universele postdienst gepubliceerde voorwaarden;
+- p. **rouwbrief:** brief als bedoeld in [artikel 16, eerste lid, onderdeel a, of tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-08-01&g=2014-08-01), waarmee wordt kennis gegeven van het overlijden van een natuurlijke persoon, voor zover die brief wordt aangeboden overeenkomstig de door een verlener van de universele postdienst gepubliceerde voorwaarden;
 
-- q. **medische brief:** brief als bedoeld in [artikel 16, eerste lid, onderdeel a, of tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-01-25&g=2014-01-25), met een diagnostisch monster van menselijk celmateriaal, voor zover die brief wordt aangeboden overeenkomstig de door een verlener van de universele postdienst gepubliceerde voorwaarden.
+- q. **medische brief:** brief als bedoeld in [artikel 16, eerste lid, onderdeel a, of tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-08-01&g=2014-08-01), met een diagnostisch monster van menselijk celmateriaal, voor zover die brief wordt aangeboden overeenkomstig de door een verlener van de universele postdienst gepubliceerde voorwaarden.
 
 2. In afwijking van het eerste lid, onderdeel c, wordt onder postvervoer niet verstaan:
 
@@ -116,13 +112,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **postrichtlijn of -verordening:** een richtlijn, onderscheidenlijk verordening, van het Europees Parlement en de Raad van de Europese Unie die geheel of gedeeltelijk berust op de artikelen 47, 52, 55 of 95 van het Verdrag tot oprichting van de Europese Gemeenschap, betrekking heeft op de postsector en regels stelt over de economische activiteiten in die sector, de belangen van afnemers, geschilbeslechting, de infrastructuur, de interne markt, de kwaliteit, de handel, de mededinging, de universele dienstverlening, technische eisen of het verschaffen van informatie;
+- a. **postrichtlijn of -verordening:** een richtlijn, onderscheidenlijk verordening, van het Europees Parlement en de Raad van de Europese Unie die geheel of gedeeltelijk berust op de artikelen 53, 59, 62 en 114 van het Verdrag betreffende de werking van de Europese Unie, betrekking heeft op de postsector en regels stelt over de economische activiteiten in die sector, de belangen van afnemers, geschilbeslechting, de infrastructuur, de interne markt, de kwaliteit, de handel, de mededinging, de universele dienstverlening, technische eisen of het verschaffen van informatie;
 
-- b. **gedelegeerde richtlijn, verordening of beschikking:** een richtlijn, verordening, onderscheidenlijk beschikking, van de Commissie van de Europese Gemeenschappen die berust op een postrichtlijn of -verordening;
+- b. **gedelegeerde richtlijn, verordening of beschikking:** een richtlijn, verordening, onderscheidenlijk beschikking, van de Europese Commissie die berust op een postrichtlijn of -verordening;
 
-- c. **liberalisatierichtlijn:** een richtlijn van de Commissie van de Europese Gemeenschappen die berust op artikel 86, derde lid, van het Verdrag tot oprichting van de Europese Gemeenschap en regels stelt met betrekking tot de postsector.
+- c. **liberalisatierichtlijn:** een richtlijn van de Europese Commissie die berust op artikel 106, derde lid, van het Verdrag betreffende de werking van de Europese Unie en regels stelt met betrekking tot de postsector.
 
-2. In deze wet wordt onder «wet» mede verstaan: een krachtens [artikel 66, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=10&artikel=66&z=2014-01-25&g=2014-01-25), aangewezen voorschrift uit een postverordening of een gedelegeerde verordening.
+2. In deze wet wordt onder «wet» mede verstaan: een krachtens [artikel 66, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=10&artikel=66&z=2014-08-01&g=2014-08-01), aangewezen voorschrift uit een postverordening of een gedelegeerde verordening.
 
 ### Hoofdstuk 2. Regels voor postvervoerbedrijven
 
@@ -134,7 +130,7 @@ Een postvervoerbedrijf zorgt ervoor dat bij de uitvoering van postvervoerdienste
 
 ##### Artikel 5
 
-Gesloten poststukken die in het kader van postvervoerdiensten als onbestelbaar zijn aan te merken en niet aan de afzender kunnen worden teruggegeven, kunnen slechts worden geopend op last van de kantonrechter te ’s-Gravenhage, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens omtrent de afzender of de geadresseerde.
+Gesloten poststukken die in het kader van postvervoerdiensten als onbestelbaar zijn aan te merken en niet aan de afzender kunnen worden teruggegeven, kunnen slechts worden geopend op last van de kantonrechter van de rechtbank Den Haag, zulks uitsluitend ter opsporing van de voor teruggave of aflevering nodige gegevens omtrent de afzender of de geadresseerde.
 
 ##### Artikel 6
 
@@ -212,7 +208,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 - a. de goede uitvoering van de universele postdienst of een gedeelte hiervan niet meer gewaarborgd is;
 
-- b. een verlener van de universele postdienst overeenkomstig [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=30&z=2014-01-25&g=2014-01-25), heeft aangegeven dat de uitvoering van deze dienst nettokosten zal opleveren;
+- b. een verlener van de universele postdienst overeenkomstig [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=30&z=2014-08-01&g=2014-08-01), heeft aangegeven dat de uitvoering van deze dienst nettokosten zal opleveren;
 
 - c. het aangewezen postvervoerbedrijf daarom verzoekt;
 
@@ -298,7 +294,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 1. Een verlener van de universele postdienst verzorgt binnen Nederland en van of naar gebieden buiten Nederland de universele postdienst.
 
-2. De verplichting, bedoeld in het eerste lid, geldt alleen indien poststukken zijn aangeboden aan een verlener van de universele postdienst in overeenstemming met de regels, bedoeld in [artikel 17, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-01-25&g=2014-01-25).
+2. De verplichting, bedoeld in het eerste lid, geldt alleen indien poststukken zijn aangeboden aan een verlener van de universele postdienst in overeenstemming met de regels, bedoeld in [artikel 17, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 19
 
@@ -316,7 +312,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 1. Een verlener van de universele postdienst kan gedeelten van de universele postdienst door anderen onder zijn verantwoordelijkheid doen uitvoeren.
 
-2. Een verlener van de universele postdienst rekent de kosten die anderen in rekening brengen voor het uitvoeren van gedeelten van de universele postdienst slechts toe aan de universele postdienst voor zover die kosten overeenkomstig de op grond van de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-01-25&g=2014-01-25), en [25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-01-25&g=2014-01-25), vastgestelde regels zijn toe te rekenen aan de universele postdienst.
+2. Een verlener van de universele postdienst rekent de kosten die anderen in rekening brengen voor het uitvoeren van gedeelten van de universele postdienst slechts toe aan de universele postdienst voor zover die kosten overeenkomstig de op grond van de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-08-01&g=2014-08-01), en [25, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-08-01&g=2014-08-01), vastgestelde regels zijn toe te rekenen aan de universele postdienst.
 
 3. Een verlener van de universele postdienst maakt de toerekening van de kosten van anderen, bedoeld in het tweede lid, inzichtelijk voor ieder gedeelte van de universele postdienst dat hij door anderen laat uitvoeren.
 
@@ -332,7 +328,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 ##### Artikel 23
 
-1. Een verlener van de universele postdienst verstrekt jaarlijks aan de Autoriteit Consument en Markt een rapportage over de uitvoering van de universele postdienst. Deze rapportage bevat de resultaten van regelmatige metingen van de kwaliteit van de universele postdienstverlening en de hierbij behorende kwaliteitsnormen, alsmede een overzicht van de kosten en opbrengsten van de universele postdienstverlening, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-01-25&g=2014-01-25).
+1. Een verlener van de universele postdienst verstrekt jaarlijks aan de Autoriteit Consument en Markt een rapportage over de uitvoering van de universele postdienst. Deze rapportage bevat de resultaten van regelmatige metingen van de kwaliteit van de universele postdienstverlening en de hierbij behorende kwaliteitsnormen, alsmede een overzicht van de kosten en opbrengsten van de universele postdienstverlening, bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-08-01&g=2014-08-01).
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de rapportage. Deze regels kunnen betrekking hebben op de inrichting van de rapportage, op de metingen, bedoeld in het eerste lid, alsmede op de op te nemen financiële gegevens.
 
@@ -360,7 +356,7 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 4. Het eerste en het tweede lid zijn van overeenkomstige toepassing op de tarieven, bedoeld in het derde lid.
 
-5. In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2014-01-25&g=2014-01-25) worden de tarieven, bedoeld in het derde lid, door de Autoriteit Consument en Markt vastgesteld.
+5. In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2014-08-01&g=2014-08-01) worden de tarieven, bedoeld in het derde lid, door de Autoriteit Consument en Markt vastgesteld.
 
 6. Bij de ministeriële regeling, bedoeld in het derde lid, worden regels vastgesteld met betrekking tot de elementen van de tarieven, de wijze van berekening van de tarieven en de toerekening van de kosten.
 
@@ -370,13 +366,13 @@ Dit hoofdstuk is van toepassing op de verlener van de universele postdienst voor
 
 ##### Artikel 26
 
-In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-01-25&g=2014-01-25) worden de kosten van het vervoer van poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk ten hoogste zeven kilogram wegen door de verlener van de universele postdienst gedragen.
+In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-08-01&g=2014-08-01) worden de kosten van het vervoer van poststukken die in hoofdzaak tekst bevatten in voor blinden bestemde tekens en die elk afzonderlijk ten hoogste zeven kilogram wegen door de verlener van de universele postdienst gedragen.
 
 ##### Artikel 27
 
-1. De tarieven, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25), en de wijzigingen hiervan worden niet eerder vastgesteld dan een maand na het tijdstip waarop zij aan de Autoriteit Consument en Markt zijn toegezonden ter toetsing aan [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25), en aan het bepaalde krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-01-25&g=2014-01-25).
+1. De tarieven, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01), en de wijzigingen hiervan worden niet eerder vastgesteld dan een maand na het tijdstip waarop zij aan de Autoriteit Consument en Markt zijn toegezonden ter toetsing aan [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01), en aan het bepaalde krachtens [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-08-01&g=2014-08-01).
 
-2. Bij ministeriële regeling kunnen voorschriften worden gegeven over de procedure van de toetsing, alsmede over de wijze en het tijdstip van de toetsing aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25).
+2. Bij ministeriële regeling kunnen voorschriften worden gegeven over de procedure van de toetsing, alsmede over de wijze en het tijdstip van de toetsing aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 28
 
@@ -418,7 +414,7 @@ In afwijking van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR00255
 
 1. Een verlener van de universele postdienst meldt uiterlijk drie maanden voor de afloop van het kalenderjaar aan de Autoriteit Consument en Markt dat in het daaropvolgende kalenderjaar nettokosten worden verwacht voor de uitvoering van de universele postdienst. Daarbij wordt aangegeven hoe hoog de voor dat kalenderjaar verwachte nettokosten zullen zijn.
 
-2. De nettokosten zijn de kosten die een verlener van de universele postdienst voor de aan hem opgedragen universele postdiensten maakt waartegenover door toepassing van de regels, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-01-25&g=2014-01-25), geen vergoeding staat, verminderd met andere op geld waardeerbare voordelen die verband houden met de verlening van de universele postdienst, waaronder begrepen immateriële voordelen.
+2. De nettokosten zijn de kosten die een verlener van de universele postdienst voor de aan hem opgedragen universele postdiensten maakt waartegenover door toepassing van de regels, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=25&z=2014-08-01&g=2014-08-01), geen vergoeding staat, verminderd met andere op geld waardeerbare voordelen die verband houden met de verlening van de universele postdienst, waaronder begrepen immateriële voordelen.
 
 3. Een postvervoerbedrijf dat ingevolge het eerste lid nettokosten heeft aangekondigd, kan binnen een half jaar na afloop van het kalenderjaar waarin de nettokosten zijn ontstaan, bij de Autoriteit Consument en Markt een aanvraag indienen om vergoeding van de in het afgelopen kalenderjaar gemaakte nettokosten.
 
@@ -482,27 +478,23 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 
 ##### Artikel 37
 
-1. De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25).
-
-2. De bij besluit van de Autoriteit Consument en Markt aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 38
 
-1. Onze Minister is belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25).
+1. Onze Minister is belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01).
 
-2. De bij besluit van Onze Minister aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
+2. De bij besluit van Onze Minister aangewezen ambtenaren zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01). Van het besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 
 ##### Artikel 39
 
-1. Een ieder verstrekt de Autoriteit Consument en Markt desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van hem bij of krachtens deze wet opgedragen taken.
+1. Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de uitvoering van de hem bij of krachtens deze wet opgedragen taken.
 
-2. Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet opgedragen taken.
+2. Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
-3. Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door de Autoriteit Consument en Markt respectievelijk Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van haar respectievelijk zijn bevoegdheden.
+3. Zij die uit hoofde van een ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
 4. Gegevens en inlichtingen welke door Onze Minister in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) worden gebruikt.
-
-5. Met inachtneming van een goede vervulling van haar toezichthoudende taken ingevolge deze wet draagt de Autoriteit Consument en Markt er zorg voor dat het verzamelen van de gegevens of inlichtingen, bedoeld in het eerste lid, op zodanige wijze geschiedt dat de daaruit voortvloeiende administratieve lasten voor postvervoerbedrijven of andere bedrijven en instellingen zo laag mogelijk zijn.
 
 ##### Artikel 40
 
@@ -516,21 +508,21 @@ Een postvervoerbedrijf deelt aan de Autoriteit Consument en Markt in ieder geval
 
 ##### Artikel 42
 
-1. De Autoriteit Consument en Markt stelt vast welke andere gegevens dan genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25) bij de mededeling aan de Autoriteit Consument en Markt worden overgelegd, alsmede de wijze waarop de mededeling wordt gedaan.
+1. De Autoriteit Consument en Markt stelt vast welke andere gegevens dan genoemd in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) bij de mededeling aan de Autoriteit Consument en Markt worden overgelegd, alsmede de wijze waarop de mededeling wordt gedaan.
 
-2. De gegevens, bedoeld [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25) en het eerste lid, worden slechts verzameld ten behoeve van de goede uitvoering van deze wet.
+2. De gegevens, bedoeld [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) en het eerste lid, worden slechts verzameld ten behoeve van de goede uitvoering van deze wet.
 
-3. De Autoriteit Consument en Markt registreert het postvervoerbedrijf na ontvangst van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25) bedoelde mededeling en de daarbij behorende gegevens.
+3. De Autoriteit Consument en Markt registreert het postvervoerbedrijf na ontvangst van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) bedoelde mededeling en de daarbij behorende gegevens.
 
-4. Een postvervoerbedrijf geeft wijzigingen van de gegevens, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25) en het eerste lid, onverwijld aan de Autoriteit Consument en Markt door.
+4. Een postvervoerbedrijf geeft wijzigingen van de gegevens, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) en het eerste lid, onverwijld aan de Autoriteit Consument en Markt door.
 
 ##### Artikel 43
 
-1. De Autoriteit Consument en Markt gaat niet over tot registratie als bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-01-25&g=2014-01-25), indien:
+1. De Autoriteit Consument en Markt gaat niet over tot registratie als bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-08-01&g=2014-08-01), indien:
 
 - a. de mededeling geen betrekking heeft op het postvervoerbedrijf, of
 
-- b. de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-01-25&g=2014-01-25), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
+- b. de op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) en [42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-08-01&g=2014-08-01), te overleggen gegevens niet, onvolledig, of niet juist zijn verstrekt.
 
 2. De Autoriteit Consument en Markt beëindigt de registratie indien de grond voor registratie is vervallen.
 
@@ -540,53 +532,45 @@ Een postvervoerbedrijf deelt aan de Autoriteit Consument en Markt in ieder geval
 
 2. Het register ligt voor eenieder kosteloos ter inzage op een door de Autoriteit Consument en Markt te bepalen plaats. De gegevens uit het register zijn kosteloos op elektronische wijze te raadplegen.
 
-3. De Autoriteit Consument en Markt brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-01-25&g=2014-01-25), en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=43&z=2014-01-25&g=2014-01-25).
+3. De Autoriteit Consument en Markt brengt het register in overeenstemming met de wijzigingen die voortvloeien uit [artikel 42, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-08-01&g=2014-08-01), en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=43&z=2014-08-01&g=2014-08-01).
 
 4. De Autoriteit Consument en Markt kan de gegevens met betrekking tot de registratie wijzigen indien dit noodzakelijk is om feitelijke onjuistheden van eenvoudige aard weg te nemen.
 
 ##### Artikel 45
 
-1. De Autoriteit Consument en Markt verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-01-25&g=2014-01-25), aan het postvervoerbedrijf een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25), aan de Autoriteit Consument en Markt is gedaan.
+1. De Autoriteit Consument en Markt verstrekt zo spoedig mogelijk na de registratie, bedoeld in [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-08-01&g=2014-08-01), aan het postvervoerbedrijf een schriftelijke verklaring waaruit blijkt dat de mededeling, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01), aan de Autoriteit Consument en Markt is gedaan.
 
 2. De Autoriteit Consument en Markt verstrekt binnen een week na ontvangst van een daartoe strekkend schriftelijk verzoek van een postvervoerbedrijf een verklaring.
 
 ##### Artikel 46
 
-De Autoriteit Consument en Markt is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de gegevensverzameling, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-01-25&g=2014-01-25), en voor het register, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2014-01-25&g=2014-01-25).
+De Autoriteit Consument en Markt is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1) voor de gegevensverzameling, bedoeld in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=42&z=2014-08-01&g=2014-08-01), en voor het register, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=44&z=2014-08-01&g=2014-08-01).
 
 #### § 7.1. Algemeen
 
 ##### Artikel 47
 
-1. De Autoriteit Consument en Markt kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25).
+1. De Autoriteit Consument en Markt kan een bindende gedragslijn opleggen in verband met de naleving van het bepaalde bij of krachtens deze wet, met uitzondering van [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01).
 
-2. Onze Minister kan bindende aanwijzingen geven in verband met de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25).
+2. Onze Minister kan een zelfstandige last opleggen in verband met de naleving van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01).
 
-3. Een beschikking als bedoeld in het eerste of tweede lid, wordt gepubliceerd in de Staatscourant.
+3. Van een beschikking als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.
 
 #### § 7.4. Bestuursdwang
 
 ##### Artikel 48
 
-1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25).
+1. De Autoriteit Consument en Markt is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01).
 
-2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25) gestelde verplichtingen.
+2. Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01) gestelde verplichtingen.
 
 #### § 7.5. Bestuurlijke boete
 
 ##### Artikel 49
 
-1. De Autoriteit Consument en Markt kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2014-01-25&g=2014-01-25), alsmede overtreding van het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-01-25&g=2014-01-25), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-01-25&g=2014-01-25), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2014-01-25&g=2014-01-25), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=9&z=2014-01-25&g=2014-01-25), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=10&z=2014-01-25&g=2014-01-25), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=13&z=2014-01-25&g=2014-01-25), [13b tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-01-25&g=2014-01-25), [16, vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-01-25&g=2014-01-25), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=18&z=2014-01-25&g=2014-01-25), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=19&z=2014-01-25&g=2014-01-25), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-01-25&g=2014-01-25), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=23&z=2014-01-25&g=2014-01-25), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-01-25&g=2014-01-25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=26&z=2014-01-25&g=2014-01-25), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2014-01-25&g=2014-01-25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=28&z=2014-01-25&g=2014-01-25), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=31&z=2014-01-25&g=2014-01-25), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=5&artikel=32&z=2014-01-25&g=2014-01-25), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=35&z=2014-01-25&g=2014-01-25), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=36&z=2014-01-25&g=2014-01-25), [39, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.1&artikel=39&z=2014-01-25&g=2014-01-25), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-01-25&g=2014-01-25), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=59&z=2014-01-25&g=2014-01-25), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=61&z=2014-01-25&g=2014-01-25), [63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=63&z=2014-01-25&g=2014-01-25), en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2014-01-25&g=2014-01-25) van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
+1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-08-01&g=2014-08-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-08-01&g=2014-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2014-08-01&g=2014-08-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=9&z=2014-08-01&g=2014-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=10&z=2014-08-01&g=2014-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=12&z=2014-08-01&g=2014-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=13&z=2014-08-01&g=2014-08-01), [13b tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-08-01&g=2014-08-01), [16, vijfde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-08-01&g=2014-08-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=18&z=2014-08-01&g=2014-08-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=19&z=2014-08-01&g=2014-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=22&z=2014-08-01&g=2014-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.4&artikel=23&z=2014-08-01&g=2014-08-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=24&z=2014-08-01&g=2014-08-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=26&z=2014-08-01&g=2014-08-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=27&z=2014-08-01&g=2014-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.5&artikel=28&z=2014-08-01&g=2014-08-01), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.7&artikel=31&z=2014-08-01&g=2014-08-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=5&artikel=32&z=2014-08-01&g=2014-08-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=35&z=2014-08-01&g=2014-08-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=6&artikel=36&z=2014-08-01&g=2014-08-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.2&artikel=41&z=2014-08-01&g=2014-08-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=61&z=2014-08-01&g=2014-08-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de omzet van de onderneming.
 
-2. Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2014-01-25&g=2014-01-25), alsmede overtreding van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-01-25&g=2014-01-25) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.
-
-3. De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid,
-
-- a. geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377);
-
-- b. betreft het boekjaar voorafgaande aan de beschikking, bedoeld in het eerste en het tweede lid;
-
-- c. is beperkt tot de omzet die betrekking heeft op de postvervoerdiensten, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2014-01-25&g=2014-01-25).
+2. Onze Minister kan in geval van overtreding van een zelfstandige last als bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.3&artikel=47&z=2014-08-01&g=2014-08-01), alsmede overtreding van het bepaalde bij of krachtens [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&z=2014-08-01&g=2014-08-01) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de omzet van de onderneming in Nederland. [Artikel 12o van de Instellingswet Autoriteit Consument en Markt](488909) is van overeenkomstige toepassing.
 
 ##### Artikel 50
 
@@ -610,71 +594,61 @@ Vervallen
 
 ##### Artikel 55
 
-1. Een beschikking waarbij een last onder dwangsom dan wel een bestuurlijke boete als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.5&artikel=49&z=2014-01-25&g=2014-01-25) wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij de Autoriteit Consument en Markt respectievelijk Onze Minister.
+1. Een beschikking waarbij een bestuurlijke boete als bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.5&artikel=49&z=2014-08-01&g=2014-08-01), wordt opgelegd of waarbij op basis van [artikel 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=7&paragraaf=7.4&artikel=48&z=2014-08-01&g=2014-08-01), een last onder dwangsom wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij Onze Minister.
 
 2. Van de beschikking wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 56
 
-Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete.
+Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van een door Onze Minister opgelegde bestuurlijke boete.
 
 ##### Artikel 57
 
-De te betalen geldsom van de door de Autoriteit Consument en Markt opgelegde bestuurlijke boete, de verbeurde dwangsommen bij een door de Autoriteit Consument en Markt opgelegde last en de als gevolg van die boete en dwangsom verschuldigde wettelijke rente, komen toe aan de Staat.
+Vervallen
 
 ### Hoofdstuk 8. Geschillenbeslechting
 
 ##### Artikel 58
 
-1. Indien tussen postvervoerbedrijven, tussen een postvervoerbedrijf en iemand die postbussen exploiteert, tussen een postvervoerbedrijf en iemand die een systeem met adresgegevens als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=11&z=2014-01-25&g=2014-01-25) exploiteert of beheert of tussen een postvervoerbedrijf en iemand die een postcodesysteem exploiteert of beheert een geschil is ontstaan inzake de nakoming van de verplichtingen bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2014-01-25&g=2014-01-25) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&z=2014-01-25&g=2014-01-25), beslecht de Autoriteit Consument en Markt op aanvraag van een bij dat geschil betrokken partij het geschil voor zover naar het oordeel van de Autoriteit Consument en Markt verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot overeenstemming.
+1. Indien tussen postvervoerbedrijven, tussen een postvervoerbedrijf en iemand die postbussen exploiteert, tussen een postvervoerbedrijf en iemand die een systeem met adresgegevens als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&artikel=11&z=2014-08-01&g=2014-08-01) exploiteert of beheert of tussen een postvervoerbedrijf en iemand die een postcodesysteem exploiteert of beheert een geschil is ontstaan inzake de nakoming van de verplichtingen bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2014-08-01&g=2014-08-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&z=2014-08-01&g=2014-08-01), beslecht de Autoriteit Consument en Markt op aanvraag van een bij dat geschil betrokken partij het geschil voor zover naar het oordeel van de Autoriteit Consument en Markt verdere onderhandelingen redelijkerwijs niet meer zullen leiden tot overeenstemming.
 
-2. Onder een geschil als bedoeld in het eerste lid, wordt mede verstaan een geschil inzake de vraag of, indien de in dat lid bedoelde postvervoerbedrijven, natuurlijke of rechtspersonen een overeenkomst hebben gesloten op basis van een bij of krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2014-01-25&g=2014-01-25) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&z=2014-01-25&g=2014-01-25) van deze wet, een op een of meer van hen rustende verplichting, de ter zake daarvan tussen hen bestaande verbintenissen, of de wijze waarop die verbintenissen worden nagekomen strijdig zijn, onderscheidenlijk strijdig is met het bij of krachtens deze wet bepaalde.
+2. Onder een geschil als bedoeld in het eerste lid, wordt mede verstaan een geschil inzake de vraag of, indien de in dat lid bedoelde postvervoerbedrijven, natuurlijke of rechtspersonen een overeenkomst hebben gesloten op basis van een bij of krachtens de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3&z=2014-08-01&g=2014-08-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&z=2014-08-01&g=2014-08-01) van deze wet, een op een of meer van hen rustende verplichting, de ter zake daarvan tussen hen bestaande verbintenissen, of de wijze waarop die verbintenissen worden nagekomen strijdig zijn, onderscheidenlijk strijdig is met het bij of krachtens deze wet bepaalde.
 
 3. De Autoriteit Consument en Markt is onbevoegd tot het beslechten van een op grond van het eerste lid voorgelegd geschil indien de bij dat geschil betrokken partijen de Autoriteit Consument en Markt verzoeken het geschil niet langer te beslechten.
 
 ##### Artikel 59
 
-1. Op vordering van de Autoriteit Consument en Markt verstrekken de bij een geschil betrokken partijen binnen een door de Autoriteit Consument en Markt te bepalen redelijke termijn aan de Autoriteit Consument en Markt alle gegevens die relevant zijn voor de beoordeling van het geschil.
-
-2. De bij het geschil betrokken partijen zijn verplicht binnen de door de Autoriteit Consument en Markt gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen ten behoeve van de beoordeling van het geschil.
+Vervallen
 
 ##### Artikel 60
 
-1. De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=58&z=2014-01-25&g=2014-01-25), binnen zeventien weken na ontvangst van de aanvraag.
+1. De Autoriteit Consument en Markt beslist op een aanvraag als bedoeld in [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=58&z=2014-08-01&g=2014-08-01), binnen vier maanden na ontvangst van de aanvraag. [Artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) is van overeenkomstige toepassing indien de Autoriteit Consument en Markt aan een andere partij dan de aanvrager om gegevens verzoekt met het oog op het te nemen besluit.
 
-2. In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het eerste lid, met ten hoogste acht weken verlengen. De Autoriteit Consument en Markt stelt de betrokken postvervoerbedrijven hiervan in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten.
+2. In uitzonderlijke gevallen kan de Autoriteit Consument en Markt de termijn, bedoeld in het eerste lid, met ten hoogste twee maanden verlengen. De Autoriteit Consument en Markt stelt de betrokken postvervoerbedrijven hiervan in kennis en geeft de termijn aan waarbinnen de Autoriteit Consument en Markt het geschil zal beslechten.
 
 3. De Autoriteit Consument en Markt kan in spoedeisende gevallen een voorlopig besluit nemen dat tussen de betrokken postvervoerbedrijven geldt tot het definitieve besluit van de Autoriteit Consument en Markt in werking treedt.
 
 ##### Artikel 61
 
-Een postvervoerbedrijf volgt het door de Autoriteit Consument en Markt op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2014-01-25&g=2014-01-25) genomen besluit op. De Autoriteit Consument en Markt kan daarbij een termijn stellen.
+Een postvervoerbedrijf volgt het door de Autoriteit Consument en Markt op grond van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2014-08-01&g=2014-08-01) genomen besluit op. De Autoriteit Consument en Markt kan daarbij een termijn stellen.
 
 ##### Artikel 62
 
-De Autoriteit Consument en Markt doet mededeling in de Staatscourant van een besluit als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2014-01-25&g=2014-01-25).
+De Autoriteit Consument en Markt doet mededeling in de Staatscourant van een besluit als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=8&artikel=60&z=2014-08-01&g=2014-08-01).
 
 ##### Artikel 63
 
-1. Indien een partij door de Autoriteit Consument en Markt in het gelijk wordt gesteld en hij voor het beslechten van een geschil een vergoeding aan de Autoriteit Consument en Markt verschuldigd is, kan de Autoriteit Consument en Markt bepalen dat die vergoeding door de bij het geschil betrokken andere partij wordt vergoed.
-
-2. Een bij een geschil betrokken partij volgt de door de Autoriteit Consument en Markt op grond van het eerste lid gegeven voorschriften op. De Autoriteit Consument en Markt kan daarbij termijnen stellen.
+Vervallen
 
 ### Hoofdstuk 9. Kosten werkzaamheden Autoriteit Consument en Markt
 
 ##### Artikel 64
 
-1. Postvervoerbedrijven zijn ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van deze wet, jaarlijks een vergoeding verschuldigd.
-
-2. Van de vergoeding zijn uitgezonderd de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.
-
-3. Van de verplichting, bedoeld in het eerste lid, zijn uitgezonderd bedrijven die voldoen aan een bij algemene maatregel van bestuur vast te stellen criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland.
+Vervallen
 
 ##### Artikel 65
 
-1. Onze Minister stelt de hoogte van de vergoeding, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2014-01-25&g=2014-01-25), vast.
-
-2. Bij of krachtens algemene maatregel van bestuur worden nadere regels nadere gesteld over de vergoeding, bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=9&artikel=64&z=2014-01-25&g=2014-01-25). Deze regels kunnen mede betrekking hebben op de wijze waarop de vergoeding wordt vastgesteld, geheven en ingevorderd.
+Vervallen
 
 ### Hoofdstuk 10. Implementatie van Europese richtlijnen en verordeningen
 
@@ -682,7 +656,7 @@ De Autoriteit Consument en Markt doet mededeling in de Staatscourant van een bes
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ter implementatie van postrichtlijnen en liberalisatierichtlijnen regels worden gesteld.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van een bindende overeenkomst tussen de Europese Gemeenschap en een derde land of een internationale organisatie die betrekking heeft op een onderwerp dat wordt bestreken door een postrichtlijn ofverordening.
+2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ter implementatie van een bindende overeenkomst tussen de Europese Unie en een derde land of een internationale organisatie die betrekking heeft op een onderwerp dat wordt bestreken door een postrichtlijn ofverordening.
 
 3. Bij ministeriële regeling kunnen voor een goede uitvoering van postverordeningen en gedelegeerde verordeningen regels worden gesteld.
 
@@ -702,7 +676,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 68
 
-1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2014-01-25&g=2014-01-25) in werking worden gesteld.
+1. Onverminderd de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kan, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een deel daarvan [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2014-08-01&g=2014-08-01) in werking worden gesteld.
 
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 
@@ -716,7 +690,7 @@ In bijzondere omstandigheden in verband met de handhaving van de internationale 
 
 ##### Artikel 69
 
-In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, oefent Onze Minister de in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2014-01-25&g=2014-01-25), bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie.
+In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7), of [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8), bepalingen uit de [Oorlogswet voor Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0007983) in werking zijn gesteld, oefent Onze Minister de in [artikel 70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=70&z=2014-08-01&g=2014-08-01), bedoelde bevoegdheid uit in overeenstemming met Onze Minister van Defensie.
 
 ##### Artikel 70
 
@@ -730,7 +704,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 72
 
-Onze Minister geeft aan een verlener van de universele postdienst voorschriften ten aanzien van de door deze te nemen organisatorische en personele maatregelen met betrekking tot de voorbereiding van de uitvoering van de universele postdienst in buitengewone omstandigheden als bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=68&z=2014-01-25&g=2014-01-25) en de door deze daarover aan Onze Minister te verstrekken informatie. Onze Minister bepaalt in die voorschriften welke kosten van de uitvoering redelijkerwijs ten laste van een verlener van de universele postdienst komen.
+Onze Minister geeft aan een verlener van de universele postdienst voorschriften ten aanzien van de door deze te nemen organisatorische en personele maatregelen met betrekking tot de voorbereiding van de uitvoering van de universele postdienst in buitengewone omstandigheden als bedoeld in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=11&artikel=68&z=2014-08-01&g=2014-08-01) en de door deze daarover aan Onze Minister te verstrekken informatie. Onze Minister bepaalt in die voorschriften welke kosten van de uitvoering redelijkerwijs ten laste van een verlener van de universele postdienst komen.
 
 ### Hoofdstuk 9. Kosten werkzaamheden Autoriteit Consument en Markt
 
@@ -794,11 +768,11 @@ Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 
 ##### Artikel 84
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-01-25&g=2014-01-25), wordt met ingang van het tijdstip van inwerkingtreding van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-01-25&g=2014-01-25), een bij besluit van Onze Minister te bepalen rechtspersoon aangewezen als verlener van de universele postdienst.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-08-01&g=2014-08-01), wordt met ingang van het tijdstip van inwerkingtreding van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.2&artikel=15&z=2014-08-01&g=2014-08-01), een bij besluit van Onze Minister te bepalen rechtspersoon aangewezen als verlener van de universele postdienst.
 
 ##### Artikel 85
 
-Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
+Vervallen
 
 ##### Artikel 86
 
@@ -832,21 +806,21 @@ Onder een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht wordt ve
 
 ##### Artikel 13b
 
-1. Indien de Autoriteit Consument en Markt op basis van een marktanalyse van oordeel is dat een postvervoerbedrijf beschikt over aanmerkelijke marktmacht kan zij dat postvervoerbedrijf een verplichting als bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-01-25&g=2014-01-25) opleggen.
+1. Indien de Autoriteit Consument en Markt op basis van een marktanalyse van oordeel is dat een postvervoerbedrijf beschikt over aanmerkelijke marktmacht kan zij dat postvervoerbedrijf een verplichting als bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-08-01&g=2014-08-01) opleggen.
 
-2. De Autoriteit Consument en Markt kan de verplichtingen, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-01-25&g=2014-01-25), niet opleggen aan de verlener van de universele postdienst met betrekking tot postvervoerdiensten die bij of krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-01-25&g=2014-01-25) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-01-25&g=2014-01-25) deel uitmaken van de universele postdienst.
+2. De Autoriteit Consument en Markt kan de verplichtingen, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-08-01&g=2014-08-01), niet opleggen aan de verlener van de universele postdienst met betrekking tot postvervoerdiensten die bij of krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=16&z=2014-08-01&g=2014-08-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=4&paragraaf=4.3&artikel=17&z=2014-08-01&g=2014-08-01) deel uitmaken van de universele postdienst.
 
-3. De Autoriteit Consument en Markt neemt bij het opleggen van de verplichtingen, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-01-25&g=2014-01-25) de eisen van proportionaliteit in acht.
+3. De Autoriteit Consument en Markt neemt bij het opleggen van de verplichtingen, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-08-01&g=2014-08-01) de eisen van proportionaliteit in acht.
 
 ##### Artikel 13c
 
-1. Uiterlijk binnen drie jaar nadat een besluit als bedoeld in [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-01-25&g=2014-01-25), in werking is getreden of in stand is gehouden, besluit de Autoriteit Consument en Markt op basis van een marktanalyse of de verplichting in stand blijft, gewijzigd wordt of wordt ingetrokken.
+1. Uiterlijk binnen drie jaar nadat een besluit als bedoeld in [artikel 13b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-08-01&g=2014-08-01), in werking is getreden of in stand is gehouden, besluit de Autoriteit Consument en Markt op basis van een marktanalyse of de verplichting in stand blijft, gewijzigd wordt of wordt ingetrokken.
 
-2. De Autoriteit Consument en Markt trekt de verplichting, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-01-25&g=2014-01-25) in ieder geval in, indien de Autoriteit Consument en Markt van oordeel is dat een postvervoerbedrijf niet meer over aanmerkelijke marktmacht beschikt.
+2. De Autoriteit Consument en Markt trekt de verplichting, bedoeld in de [artikelen 13e tot en met 13k](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13e&z=2014-08-01&g=2014-08-01) in ieder geval in, indien de Autoriteit Consument en Markt van oordeel is dat een postvervoerbedrijf niet meer over aanmerkelijke marktmacht beschikt.
 
 ##### Artikel 13d
 
-1. Op de voorbereiding van een besluit als bedoeld in [artikel 13b, eerste li](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-01-25&g=2014-01-25)d, of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13c&z=2014-01-25&g=2014-01-25) is de [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
+1. Op de voorbereiding van een besluit als bedoeld in [artikel 13b, eerste li](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-08-01&g=2014-08-01)d, of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13c&z=2014-08-01&g=2014-08-01) is de [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing.
 
 2. In afwijking van het eerste lid kan de Autoriteit Consument en Markt besluiten om de in het eerste lid bedoelde procedure niet toe te passen:
 
@@ -854,11 +828,11 @@ Onder een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht wordt ve
 
 - b. in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedure, teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.
 
-3. Een besluit als bedoeld in [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-01-25&g=2014-01-25) dat wordt genomen met toepassing van onderdeel b geldt voor een periode van maximaal 26 weken.
+3. Een besluit als bedoeld in [artikel 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-08-01&g=2014-08-01) dat wordt genomen met toepassing van onderdeel b geldt voor een periode van maximaal 26 weken.
 
 4. Indien het een besluit op aanvraag betreft, is [artikel 3.18, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:18) niet van toepassing.
 
-5. Van een besluit als bedoeld in de[artikelen 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-01-25&g=2014-01-25) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13c&z=2014-01-25&g=2014-01-25) of het tweede lid wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) wordt geen mededeling gedaan.
+5. Van een besluit als bedoeld in de[artikelen 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13b&z=2014-08-01&g=2014-08-01) of [13c](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13c&z=2014-08-01&g=2014-08-01) of het tweede lid wordt door de Autoriteit Consument en Markt mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) wordt geen mededeling gedaan.
 
 ##### Artikel 13e
 
@@ -914,25 +888,25 @@ Onder een postvervoerbedrijf dat beschikt over aanmerkelijke marktmacht wordt ve
 
 1. Voor door haar te bepalen postvervoerdiensten aan eindgebruikers kan de Autoriteit Consument en Markt verplichtingen opleggen betreffende het beheersen van de hiervoor te rekenen tarieven of de kostentoerekening.
 
-2. [Artikel 13f, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13f&z=2014-01-25&g=2014-01-25), zijn van overeenkomstige toepassing.
+2. [Artikel 13f, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13f&z=2014-08-01&g=2014-08-01), zijn van overeenkomstige toepassing.
 
 3. Aan een verplichting als bedoeld in het eerste lid kunnen door de Autoriteit Consument en Markt nadere voorschriften worden verbonden die nodig zijn voor een goede uitvoering van die verplichtingen.
 
 ##### Artikel 13k
 
-1. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in [artikel 13j](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25) oplegt of in stand houdt, kan zij tevens de verplichting opleggen om invoering van nieuwe of gewijzigde tarieven voor postvervoerdiensten aan eindgebruikers niet plaats te laten vinden dan nadat zij deze tarieven heeft goedgekeurd.
+1. Indien de Autoriteit Consument en Markt een verplichting als bedoeld in [artikel 13j](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01) oplegt of in stand houdt, kan zij tevens de verplichting opleggen om invoering van nieuwe of gewijzigde tarieven voor postvervoerdiensten aan eindgebruikers niet plaats te laten vinden dan nadat zij deze tarieven heeft goedgekeurd.
 
-2. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van een verzoek tot goedkeuring, of het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25). Indien gegevens als bedoeld in het zevende lid, ontbreken wordt het postvervoerbedrijf binnen drie dagen na ontvangst van het verzoek, hiervan op de hoogte gesteld.
+2. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van een verzoek tot goedkeuring, of het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01). Indien gegevens als bedoeld in het zevende lid, ontbreken wordt het postvervoerbedrijf binnen drie dagen na ontvangst van het verzoek, hiervan op de hoogte gesteld.
 
 3. De Autoriteit Consument en Markt kan de termijn, bedoeld in het tweede lid, eerste volzin, eenmaal met drie weken verlengen. Zij doet hiervan schriftelijk mededeling aan het postvervoerbedrijf dat het verzoek heeft ingediend.
 
-4. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25), keurt zij de invoering hiervan goed.
+4. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01), keurt zij de invoering hiervan goed.
 
-5. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde tarief niet in overeenstemming is met de verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25), doet zij hiervan mededeling aan het desbetreffende postvervoerbedrijf. Zij deelt hierbij mede op welke punten niet voldaan is aan de verplichting, bedoeld in artikel 13j, eerste lid.
+5. Indien de Autoriteit Consument en Markt van oordeel is dat het nieuwe of gewijzigde tarief niet in overeenstemming is met de verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01), doet zij hiervan mededeling aan het desbetreffende postvervoerbedrijf. Zij deelt hierbij mede op welke punten niet voldaan is aan de verplichting, bedoeld in artikel 13j, eerste lid.
 
-6. Het postvervoerbedrijf deelt de Autoriteit Consument en Markt binnen vier weken na de datum van de mededeling, bedoeld in het vijfde lid, schriftelijk mede in hoeverre het nieuwe of gewijzigde tarief wordt aangepast aan de mededeling van de Autoriteit Consument en Markt. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van de mededeling van het postvervoerbedrijf, bedoeld in de eerste volzin, op het verzoek tot goedkeuring, of het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25).
+6. Het postvervoerbedrijf deelt de Autoriteit Consument en Markt binnen vier weken na de datum van de mededeling, bedoeld in het vijfde lid, schriftelijk mede in hoeverre het nieuwe of gewijzigde tarief wordt aangepast aan de mededeling van de Autoriteit Consument en Markt. De Autoriteit Consument en Markt beoordeelt binnen drie weken na ontvangst van de mededeling van het postvervoerbedrijf, bedoeld in de eerste volzin, op het verzoek tot goedkeuring, of het nieuwe of gewijzigde tarief in overeenstemming is met de opgelegde of in stand gehouden verplichting, bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01).
 
-7. Uiterlijk op het tijdstip waarop de Autoriteit Consument en Markt een verplichting als bedoeld in [artikel 13j](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-01-25&g=2014-01-25) oplegt of in stand houdt, in werking treedt, stelt zij vast welke gegevens door de desbetreffende onderneming bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en in welke vorm deze gegevens worden ingediend. De Autoriteit Consument en Markt doet hiervan mededeling aan het desbetreffende postvervoerbedrijf.
+7. Uiterlijk op het tijdstip waarop de Autoriteit Consument en Markt een verplichting als bedoeld in [artikel 13j](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&hoofdstuk=3a&artikel=13j&z=2014-08-01&g=2014-08-01) oplegt of in stand houdt, in werking treedt, stelt zij vast welke gegevens door de desbetreffende onderneming bij een verzoek als bedoeld in het tweede lid overgelegd moeten worden, en in welke vorm deze gegevens worden ingediend. De Autoriteit Consument en Markt doet hiervan mededeling aan het desbetreffende postvervoerbedrijf.
 
 ### Hoofdstuk 4. Universele postdienst
 
