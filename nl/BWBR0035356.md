@@ -262,17 +262,3 @@ Deze regeling wordt aangehaald als: Regeling minimum VFR-vlieghoogten en VFR-vlu
 ### Laagvlieggebieden en -route voor militaire helikopters
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 20
-
-Deze regeling berust op de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=18), en [19, eerste lid, onderdeel e, en tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=19).
-
-## Bijlage A. behorende bij [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=2&z=2014-12-12&g=2014-12-12), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvliegroutes militaire straal- en transportvliegtuigen
-
-## Bijlage B. behorende bij [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&paragraaf=1&artikel=9&z=2014-12-12&g=2014-12-12), van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters
-
-### Laagvlieggebieden en -route voor militaire helikopters
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
