@@ -4,7 +4,7 @@ identifier: "BWBR0027679"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2013-08-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027679"
 soort: "wet"
@@ -97,19 +97,21 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel 7. Wijziging van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628)
 
+Wijzigt de Leerplichtwet 1969.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8. Invoerings- en overgangsrecht
 
-1. Van de eindtermen die voor het tijdstip van inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2013-08-01&g=2013-08-01), zijn vastgesteld op grond van [artikel 7.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4) voor beroepsopleidingen met de verzorging waarvan instellingen een aanvang maken op of na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, wordt geacht deel uit te maken een deelkwalificatie Nederlandse taal en rekenen, omvattende het voor de desbetreffende soort opleiding vastgestelde referentieniveau Nederlandse taal en het referentieniveau rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2&z=2013-08-01&g=2013-08-01).
+1. Van de eindtermen die voor het tijdstip van inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2014-08-01&g=2014-08-01), zijn vastgesteld op grond van [artikel 7.2.4 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4) voor beroepsopleidingen met de verzorging waarvan instellingen een aanvang maken op of na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, wordt geacht deel uit te maken een deelkwalificatie Nederlandse taal en rekenen, omvattende het voor de desbetreffende soort opleiding vastgestelde referentieniveau Nederlandse taal en het referentieniveau rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=2&z=2014-08-01&g=2014-08-01).
 
-2. Het eerste lid is van overeenkomstige toepassing op de eindtermen die na het tijdstip van inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2013-08-01&g=2013-08-01), worden vastgesteld voor beroepsopleidingen met de verzorging waarvan instellingen een aanvang maken na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, voor zover het voorstel van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in [artikel 7.2.4, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4) is gedaan voor het tijdstip van inwerkingtreding van artikel 6, onderdeel A.
+2. Het eerste lid is van overeenkomstige toepassing op de eindtermen die na het tijdstip van inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2014-08-01&g=2014-08-01), worden vastgesteld voor beroepsopleidingen met de verzorging waarvan instellingen een aanvang maken na het tijdstip van inwerkingtreding van artikel 6, onderdeel A, voor zover het voorstel van het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven, bedoeld in [artikel 7.2.4, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.4) is gedaan voor het tijdstip van inwerkingtreding van artikel 6, onderdeel A.
 
 3. De deelkwalificatie Nederlandse taal en rekenen, bedoeld in het eerste lid, treedt in de plaats van de eisen aan de beheersing van de Nederlandse taal en het rekenen die elders in de desbetreffende eindtermen zijn opgenomen, tenzij het betreft eisen die specifiek met het oog op de beroepsuitoefening zijn gesteld.
 
 4. Indien de algemene maatregel van bestuur, bedoeld in [artikel 7.4.3a, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.3a), later in werking treedt dan dit artikel, wordt bij ministeriële regeling bepaald hoe de door een deelnemer behaalde resultaten bij de deelkwalificatie Nederlandse taal en rekenen meetellen voor het met gunstig gevolg afleggen van het examen van de beroepsopleiding, indien nodig in afwijking van [artikel 7.4.2, derde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.4.2).
 
-5. Het bevoegd gezag stelt deelnemers die voor de inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2013-08-01&g=2013-08-01), zijn gestart met een meerjarige beroepsopleiding in de gelegenheid hun opleiding binnen een redelijke tijd te voltooien onder de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, bij of krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde voorschriften. Deze deelnemers ontvangen na het met goed gevolg voltooien van de opleiding een diploma overeenkomstig de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, geldende voorschriften.
+5. Het bevoegd gezag stelt deelnemers die voor de inwerkingtreding van [artikel 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0027679&artikel=6&z=2014-08-01&g=2014-08-01), zijn gestart met een meerjarige beroepsopleiding in de gelegenheid hun opleiding binnen een redelijke tijd te voltooien onder de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, bij of krachtens de [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625) vastgestelde voorschriften. Deze deelnemers ontvangen na het met goed gevolg voltooien van de opleiding een diploma overeenkomstig de op de dag voor de inwerkingtreding van artikel 6, onderdeel A, geldende voorschriften.
 
 ##### Artikel 9. Inwerkingtreding
 
