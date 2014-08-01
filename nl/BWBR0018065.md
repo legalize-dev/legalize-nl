@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2014-01-01"
+last_updated: "2014-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -56,7 +56,7 @@ school: een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs
 
 bevoegd gezag: een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) dan wel [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1);
 
-regionaal expertisecentrum: een regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=28b);
+samenwerkingsverband: een samenwerkingsverband als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=1);
 
 centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=68) en [69 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=69).
 
@@ -64,9 +64,9 @@ centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet 
 
 1. Het jaarverslag, bedoeld in [artikel 171 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.
 
-2. In het bestuursverslag, bedoeld in [artikel 171, eerste lid onder a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), geeft het bevoegd gezag informatie over de school of scholen, en geeft het regionaal expertisecentrum of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over:
+2. In het bestuursverslag, bedoeld in [artikel 171, eerste lid onder a, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder a, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), geeft het bevoegd gezag informatie over de school of scholen, en geeft het samenwerkingsverband of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over:
 
-- a. de kernactiviteiten die onder verantwoordelijkheid van het bevoegd gezag, het regionaal expertisecentrum of de centrale dienst hebben plaatsgevonden, en de daarbij behorende kerngegevens die, voor zover van toepassing, in ieder geval betrekking hebben op ontwikkelingen ten aanzien van leerlingen, personeel, aangesloten dan wel betrokken bevoegde gezagsorganen en op financiën, voor zover niet opgenomen in de jaarrekening;
+- a. de kernactiviteiten die onder verantwoordelijkheid van het bevoegd gezag, het samenwerkingsverband of de centrale dienst hebben plaatsgevonden, en de daarbij behorende kerngegevens die, voor zover van toepassing, in ieder geval betrekking hebben op ontwikkelingen ten aanzien van leerlingen, personeel, aangesloten dan wel betrokken bevoegde gezagsorganen en op financiën, voor zover niet opgenomen in de jaarrekening;
 
 - b. de juridische structuur;
 
@@ -76,7 +76,7 @@ centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet 
 
 - e. de financiën, bestaande uit tenminste een analyse van de financiële situatie, onderbouwd met financiële kengetallen waaronder begrepen gegevens over de solvabiliteits- en liquiditeitspositie per balansdatum, de rentabiliteit en de streefwaarden.
 
-3. Het bevoegd gezag, het regionaal expertisecentrum of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in [artikel 171, eerste lid onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.
+3. Het bevoegd gezag, het samenwerkingsverband of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in [artikel 171, eerste lid onder b, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171) dan wel [artikel 157, eerste lid onder b, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157), alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.
 
 4. Bij ministeriële regeling kan Onze minister voor de jaarrekening, bedoeld in het derde lid, alsmede voor de grondslagen daarvan een model vaststellen.
 
@@ -88,7 +88,7 @@ De gegevens, bedoeld in de [artikelen 172](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-01-01&g=2014-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-08-01&g=2014-08-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Inwerkingtreding
 
@@ -98,9 +98,9 @@ Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgi
 
 Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-01-01&g=2014-01-01) van het Besluit informatievoorziening WPO/WEC
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-08-01&g=2014-08-01) van het Besluit informatievoorziening WPO/WEC
 
-Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of regionaal expertise centrum (REC) dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
 Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
 
@@ -120,7 +120,7 @@ Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
 Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
 
-Gegevens van de regionale expertisecentra waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
+Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
 
 ### A2. School, instelling, vestiging
 
