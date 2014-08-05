@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2014-07-19"
+last_updated: "2014-08-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1977,13 +1977,13 @@ Vreemdelingen die aannemelijk hebben gemaakt dat zij zijn gedeserteerd komen in 
 
 ### 12. Het asielbeleid ten aanzien van Guinee
 
-Vreemdelingen die aannemelijk hebben gemaakt dat zij vanwege hun dienstweigering of dienstplichtontduiking in de negatieve aandacht van de autoriteiten staan, komen in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan vreemdelingen die aannemelijk hebben gemaakt dat zij vanwege hun dienstweigering of dienstplichtontduiking in de negatieve aandacht van de autoriteiten staan.
 
 ### 11.4.5. Illegale en legale uitreis
 
 ### 11.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29), indien de omstandigheden genoemd in de paragrafen C2/5 Vc en C2/6 Vc zich voordoen.
+De IND kan de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd van een vreemdeling van Eritrese nationaliteit die Eritrea op legale wijze (met geldig document voor grensoverschrijding en uitreisvisum) heeft verlaten, afwijzen.
 
 ### 11.5. Bescherming
 
@@ -2007,7 +2007,7 @@ Ten aanzien van Eritrea geldt geen besluit in de zin van [artikel 45, vierde lid
 
 Gedwongen terugkeer van Eritrese vreemdelingen naar Eritrea zal niet plaatsvinden. Aangenomen wordt dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een risico op schending van artikel 3 EVRM aanwezig is.
 
-Gedwongen terugkeer van Eritrese vreemdelingen naar Eritrea zal niet plaatsvinden. Aangenomen wordt dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een risico op schending van artikel 3 EVRM aanwezig is.
+Gedwongen terugkeer van Eritrese vreemdelingen naar Eritrea zal niet plaatsvinden. Aangenomen wordt dat bij gedwongen terugkeer, zowel na legale als na illegale uitreis, een reëel risico op schending van artikel 3 EVRM aanwezig is.
 
 ### 12. Het asielbeleid ten aanzien van Guinee
 
@@ -3533,11 +3533,11 @@ De IND heeft met betrekking tot Eritrea geen kwetsbare minderheidsgroepen aangew
 
 ### 11.4.4. Dienstplichtigen en deserteurs
 
-De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling met de Eritrese nationaliteit, die illegaal Eritrea uitgereisd is.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling met de Eritrese nationaliteit, die illegaal Eritrea is uitgereisd.
 
 ### 11.5.2. Vlucht- en vestigingsalternatief in de zin van paragraaf C2/6 Vc
 
-In Eritrea wordt geen vestigingsalternatief aanwezig geacht voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor besnijdenis.
+De IND acht geen vestigingsalternatief in Eritrea aanwezig voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor besnijdenis.
 
 ### 11.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
@@ -4333,7 +4333,7 @@ De IND acht het in ieder geval voor de volgende categorieën niet aannemelijk da
 
 In Eritrea wordt geen vestigingsalternatief aanwezig geacht voor vrouwen die aannemelijk hebben gemaakt dat zij hebben te vrezen voor besnijdenis.
 
-In Eritrea is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
+In Eritrea is adequate opvang in de zin van [paragraaf B8/6 Vc](328899).
 
 ### 11.7. Vertrekmoratorium
 
@@ -5233,7 +5233,7 @@ In Eritrea is geen sprake van systematische blootstelling aan een behandeling in
 
 De IND heeft met betrekking tot Eritrea geen kwetsbare minderheidsgroepen aangewezen.
 
-Vreemdelingen die aannemelijk hebben gemaakt dat zij zijn gedeserteerd komen in aanmerking voor een verblijfsvergunning asiel voor bepaalde tijd.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan vreemdelingen die aannemelijk hebben gemaakt dat zij zijn gedeserteerd.
 
 ### 13.2. Artikel 1F Vluchtelingenverdrag
 
@@ -5389,7 +5389,7 @@ De IND beschouwt Eritrea niet als land waarin sprake is van groepsvervolging.
 
 ### 11.3.2. Risicogroepen in de zin van paragraaf C2/3.2 Vc
 
-De IND verleent geen verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling met de Eritrese nationaliteit, die legaal Eritrea uitgereisd is, tenzij er andere, individuele redenen zijn om de vreemdeling een verblijfsvergunning asiel voor bepaalde tijd op grond van artikel 29, eerste lid, aanhef en onder b, Vw te verlenen.
+De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan een vreemdeling van Eritrese nationaliteit die Eritrea op legale wijze (met geldig document voor grensoverschrijding en uitreisvisum) heeft verlaten, indien de vreemdeling individuele omstandigheden naar voren heeft gebracht die aannemelijk maken dat hij bij terugkeer wordt blootgesteld aan een reëel risico op schending van artikel 3 EVRM. Hiervan kan sprake zijn indien de vreemdeling heeft aangetoond dat hij aanmerkelijk langer in het buitenland heeft verbleven dan was beoogd voor het doel waarvoor de Eritrese autoriteiten een uitreisvisum hebben afgegeven.
 
 ### 12.4.2. Systematische blootstelling in de zin van paragraaf C2/3.3 Vc
 
