@@ -109,9 +109,3 @@ Deze beleidsregel treedt in werking vier weken na de datum van uitgifte van de S
 Deze beleidsregel wordt aangehaald als: Beleidsregel openbaarmaking inspectiegegevens bij zware of ernstige asbestovertredingen.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Deze beleidsregel is gebaseerd op [artikel 3.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.1).
-
-Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
