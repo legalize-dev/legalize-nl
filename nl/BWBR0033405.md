@@ -4,7 +4,7 @@ identifier: "BWBR0033405"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-12-05"
+last_updated: "2014-08-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033405"
 soort: "ministeriele-regeling"
@@ -70,13 +70,13 @@ In deze regeling wordt verstaan onder:
 
 - m. **politievakorganisaties:** de politievakorganisaties vertegenwoordigd in de Commissie voor georganiseerd overleg in politieambtenarenzaken, bedoeld in [artikel 2 van het Besluit overleg medezeggenschap politie 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006518);
 
-- n. **het reglement:** het reglement voor de werkwijze van de werkgroep matching, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=4&z=2013-12-05&g=2013-12-05);
+- n. **het reglement:** het reglement voor de werkwijze van de werkgroep matching, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=4&z=2014-08-16&g=2014-08-16);
 
 - o. **toekenning van een LFNP functie:** het door toekenning vervangen van een functiebeschrijving van een ambtenaar door een LFNP functie voor de periode vanaf 1 januari 2010 tot en met 31 december 2011;
 
 - p. **de transponeringstabel:** de als bijlage bij deze regeling gevoegde tabel waarin de vastgestelde resultaten van de matching zijn opgenomen;
 
-- q. **de werkgroep matching:** de werkgroep, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=4&z=2013-12-05&g=2013-12-05);
+- q. **de werkgroep matching:** de werkgroep, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=4&z=2014-08-16&g=2014-08-16);
 
 - r. **uitgangspositie:** de functie en in samenhang daarmee de functiebeschrijving en de extra werkzaamheden, bijzondere situaties, afspraken, of specifieke werkzaamheden van een ambtenaar op enig moment vanaf 31 december 2009 tot en met 31 december 2011, zoals vastgelegd in een besluit.
 
@@ -150,19 +150,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 6. Bedenkingen
 
-1. Binnen drie weken na verzending van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=5&z=2013-12-05&g=2013-12-05) bedoelde voorgenomen besluit kan de ambtenaar bij het bevoegd gezag tegen het voorgenomen besluit schriftelijk en met redenen omkleed zijn bedenkingen indienen.
+1. Binnen drie weken na verzending van het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=5&z=2014-08-16&g=2014-08-16) bedoelde voorgenomen besluit kan de ambtenaar bij het bevoegd gezag tegen het voorgenomen besluit schriftelijk en met redenen omkleed zijn bedenkingen indienen.
 
 2. De ambtenaar wordt in de gelegenheid gesteld om zijn bedenkingen mondeling toe te lichten.
 
 ##### Artikel 7. Besluit
 
-1. Indien de ambtenaar geen gebruik maakt van de mogelijkheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=6&z=2013-12-05&g=2013-12-05), stelt het bevoegd gezag het besluit vast na afloop van een termijn van zes weken na verzending van het voornemen.
+1. Indien de ambtenaar geen gebruik maakt van de mogelijkheid, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=6&z=2014-08-16&g=2014-08-16), stelt het bevoegd gezag het besluit vast na afloop van een termijn van zes weken na verzending van het voornemen.
 
-2. Het bevoegd gezag neemt binnen zes weken na ontvangst van de bedenkingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=6&z=2013-12-05&g=2013-12-05), een besluit.
+2. Het bevoegd gezag neemt binnen zes weken na ontvangst van de bedenkingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=6&z=2014-08-16&g=2014-08-16), een besluit.
 
 ##### Artikel 8. Horen in bezwaar
 
-1. Indien een ambtenaar zich niet kan verenigen met een besluit, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=7&z=2013-12-05&g=2013-12-05), kan hij bij het bevoegd gezag bezwaar maken.
+1. Indien een ambtenaar zich niet kan verenigen met een besluit, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033405&artikel=7&z=2014-08-16&g=2014-08-16), kan hij bij het bevoegd gezag bezwaar maken.
 
 2. Het horen van de ambtenaar geschiedt door twee hoorambtenaren waarvan een is benoemd op voordracht van het bevoegd gezag en een op voordracht van de politievakorganisaties.
 
