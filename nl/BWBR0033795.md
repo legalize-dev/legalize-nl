@@ -4,7 +4,7 @@ identifier: "BWBR0033795"
 country: "nl"
 rank: "pbo"
 publication_date: "2022-01-01"
-last_updated: "2014-01-08"
+last_updated: "2014-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033795"
 soort: "pbo"
@@ -116,11 +116,11 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 7
 
-Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2014-01-08&g=2014-01-08).
+Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2014-08-20&g=2014-08-20).
 
 ##### Artikel 8
 
-1. Het bestuur stelt binnen een stagebureau beoordelaars als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.1&artikel=12&z=2014-01-08&g=2014-01-08), en praktijkbegeleiders aan.
+1. Het bestuur stelt binnen een stagebureau beoordelaars als bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.1&artikel=12&z=2014-08-20&g=2014-08-20), en praktijkbegeleiders aan.
 
 2. Een praktijkbegeleider is belast met de begeleiding van een trainee gedurende de praktijkopleiding.
 
@@ -162,11 +162,9 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 ##### Artikel 11
 
-1. De praktijkopleiding AA duurt ten hoogste vijf jaren en duurt rekening houdend met onderbrekingen, niet meer dan negen jaren.
+1. Aan de voortzetting van de praktijkopleiding AA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
 
-2. Aan de voortzetting van de praktijkopleiding AA, na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
-
-3. De trainee welke de praktijkopleiding AA volgt, besteedt aan voor de praktijkopleiding relevante werkzaamheden ten minste drieduizend uren.
+2. De trainee welke de praktijkopleiding AA volgt, besteedt aan voor de praktijkopleiding relevante werkzaamheden ten minste drieduizend uren.
 
 ##### Artikel 12
 
@@ -224,7 +222,7 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 - a. het portfolio;
 
-- b. de afstudeerscriptie, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.2&artikel=14&z=2014-01-08&g=2014-01-08); en
+- b. de afstudeerscriptie, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=5&paragraaf=5.2&artikel=14&z=2014-08-20&g=2014-08-20); en
 
 - c. een mondeling examen waarin mede op basis van de afstudeerscriptie de vaardigheid, bedoeld in het eerste lid, wordt getoetst.
 
@@ -246,7 +244,7 @@ De trainee welke de praktijkopleiding AA volgt, wordt tot het mondeling examen t
 
 ##### Artikel 20
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.1&artikel=19&z=2014-01-08&g=2014-01-08), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.1&artikel=19&z=2014-08-20&g=2014-08-20), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
@@ -262,7 +260,7 @@ De trainee welke de praktijkopleiding RA volgt wordt tot het mondeling examen to
 
 ##### Artikel 22
 
-Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in [artikel 21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.2&artikel=21&z=2014-01-08&g=2014-01-08), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
+Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eisen, bedoeld in [artikel 21, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&paragraaf=7.2&artikel=21&z=2014-08-20&g=2014-08-20), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 ### Hoofdstuk 8. Vrijstellingen
 
@@ -328,7 +326,7 @@ Bij de inwerkingtreding van deze verordening, wordt de Raad voor de Praktijkople
 
 ##### Artikel 10a
 
-1. Het bestuur kan tot de praktijkopleiding toelaten, degene die niet beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.1&artikel=9&z=2014-01-08&g=2014-01-08), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.2&artikel=10&z=2014-01-08&g=2014-01-08), maar wel over een getuigschrift op grond waarvan voor 1 oktober 2006 toegang tot de praktijkopleiding kon worden verkregen.
+1. Het bestuur kan tot de praktijkopleiding toelaten, degene die niet beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.1&artikel=9&z=2014-08-20&g=2014-08-20), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&paragraaf=4.2&artikel=10&z=2014-08-20&g=2014-08-20), maar wel over een getuigschrift op grond waarvan voor 1 oktober 2006 toegang tot de praktijkopleiding kon worden verkregen.
 
 2. Het bestuur kan aan toepassing van het eerste lid de volgende voorwaarden verbinden:
 
