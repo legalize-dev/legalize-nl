@@ -4,7 +4,7 @@ identifier: "BWBR0030386"
 country: "nl"
 rank: "wet"
 publication_date: "2019-11-15"
-last_updated: "2013-08-20"
+last_updated: "2014-08-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030386"
 soort: "wet"
@@ -71,7 +71,7 @@ Wijzigt de Wet ruimtevaartactiviteiten.
 
 ##### Artikel VII. Omhangbepalingen
 
-Na de inwerkingtreding van [artikel I, onderdeel JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=1&artikel=I&z=2013-08-20&g=2013-08-20), van deze wet berust:
+Na de inwerkingtreding van [artikel I, onderdeel JJ](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=1&artikel=I&z=2014-08-20&g=2014-08-20), van deze wet berust:
 
 - a. het [Besluit zeevaartbemanning handelsvaart en zeilvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0012778), voor zover dit berustte op de [Zeevaartbemanningswet](https://wetten.overheid.nl/jci1.3:c:BWBR0009124), op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=16), [18, derde, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=18), [19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=19), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=22), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=25), [34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=34), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=36), [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=44), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=64) en [71, eerste en vierde lid, van de Wet zeevarenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009124&artikel=71);
 
@@ -125,15 +125,15 @@ Wijzigt het Wetboek van strafrecht.
 
 ##### Artikel XII. Overgangsbepalingen
 
-1. Het bepaalde bij en krachtens [artikel 407 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=407) alsmede [artikel 470a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=470a) blijven na het tijdstip van inwerkingtreding van de [artikelen IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2013-08-20&g=2013-08-20), en [XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=XI&z=2013-08-20&g=2013-08-20), van toepassing met betrekking tot vissersvaartuigen.
+1. Het bepaalde bij en krachtens [artikel 407 van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=407) alsmede [artikel 470a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=470a) blijven na het tijdstip van inwerkingtreding van de [artikelen IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2014-08-20&g=2014-08-20), en [XI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=XI&z=2014-08-20&g=2014-08-20), van toepassing met betrekking tot vissersvaartuigen.
 
-2. Het bepaalde bij en krachtens [artikel 407, eerste en derde tot en met zevende lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=407) ten aanzien van de verblijven van de schepeling aan boord, alsmede kombuizen en andere ruimten voor de voeding, blijft na het tijdstip van inwerkingtreding van [artikel IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2013-08-20&g=2013-08-20), van toepassing met betrekking tot schepen waarvan de kiel is gelegd of de bouw zich in een soortgelijk stadium bevond voor dat tijdstip.
+2. Het bepaalde bij en krachtens [artikel 407, eerste en derde tot en met zevende lid, van het Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838&artikel=407) ten aanzien van de verblijven van de schepeling aan boord, alsmede kombuizen en andere ruimten voor de voeding, blijft na het tijdstip van inwerkingtreding van [artikel IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2014-08-20&g=2014-08-20), van toepassing met betrekking tot schepen waarvan de kiel is gelegd of de bouw zich in een soortgelijk stadium bevond voor dat tijdstip.
 
 ##### Artikel XIII
 
 Wijzigt het [Burgerlijk Wetboek Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290).
 
-##### Artikel XIIIa. Aanpassing [artikel IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2013-08-20&g=2013-08-20)
+##### Artikel XIIIa. Aanpassing [artikel IX, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0030386&hoofdstuk=2&artikel=IX&z=2014-08-20&g=2014-08-20)
 
 Wijzigt deze wet.
 
