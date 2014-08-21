@@ -4,7 +4,7 @@ identifier: "BWBR0035394"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-03-21"
-last_updated: "2014-07-29"
+last_updated: "2014-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035394"
 soort: "ministeriele-regeling"
@@ -46,15 +46,15 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2 en artikel 4 van [Verordening (EG) nr. 692/2014](32014R0692) van de Raad van de Europese Unie van 23 juni 2014 betreffende beperkingen op de invoer in de Unie van goederen van oorsprong uit de Krim of Sebastopol, als antwoord op de illegale inlijving van de Krim en Sebastopol (Pb 2014, L183).
+1. Het is verboden te handelen in strijd met de artikelen 2, 2bis, 2ter, 2quater, eerste, derde en vierde lid, en 4 van Verordening (EU) nr. 692/2014 van de Raad van de Europese Unie van 23 juni 2014 betreffende beperkingen op de invoer in de Unie van goederen van oorsprong uit de Krim of Sebastopol, als antwoord op de illegale inlijving van de Krim en Sebastopol (Pb L 183).
 
-2. Het verbod te handelen in strijd met artikel 2 van [Verordening (EG) nr. 692/2014](32014R0692), geldt niet in gevallen waarin artikel 3 van [Verordening 692/2014](32014R0692) van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 2quater, vijfde lid, artikel 2quinquies of artikel 3 van Verordening (EU) nr. 692/2014 van toepassing is.
 
 ##### Artikel 2
 
-1. De bevoegde autoriteit, bedoeld in artikel 3, onderdeel a, van [Verordening (EG) nr. 692/2014](32014R0692) is de Minister van Financiën voor zover het een aanmelding betreft over de financiering of verlening van financiële bijstand, verzekeringen of herverzekering in verband met de invoer van goederen van oorsprong uit de Krim of Sebastopol.
+1. De bevoegde autoriteit, bedoeld in artikel 2quater, vijfde lid, artikel 2quinquies en artikel 3, onderdeel a, van Verordening (EU) nr. 692/2014 is de Minister van Financiën voor zover het een melding betreft omtrent financiering, het verlenen van een financiële lening, financiële bijstand, een krediet, een verzekering, een herverzekering, het uitbreiden van een deelneming of het oprichten van een joint venture.
 
-2. De bevoegde autoriteit, bedoeld in artikel 3, onderdeel a, van [Verordening (EG) nr. 692/2014](32014R0692) is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het een aanmelding betreft over invoer van de goederen van oorsprong uit de Krim of Sebastopol.
+2. De bevoegde autoriteit, bedoeld in artikel 2quater, vijfde lid, en artikel 3, onderdeel a, van Verordening (EU) nr. 692/2014 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het een melding betreft omtrent het verlenen van technische bijstand of tussenhandeldiensten dan wel een melding over de invoer van goederen.
 
 ##### Artikel 3
 
