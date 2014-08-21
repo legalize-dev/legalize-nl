@@ -4,7 +4,7 @@ identifier: "BWBR0016722"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-05-02"
+last_updated: "2014-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016722"
 soort: "ministeriele-regeling"
@@ -66,7 +66,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-De bevoegde autoriteit, bedoeld in artikel 6, eerste lid, van Verordening (EG) nr. 1210/2003 van de Raad van de Europese Unie van 7 juli 2003 betreffende bepaalde beperkende specifieke restricties op de economische en financiële betrekkingen met Irak en tot intrekking van Verordening (EG) nr. 2465/96 (Pb EG L 169), is de Minister van Economische Zaken voor zover het betreft het aanwenden van economische middelen als bedoeld in voornoemd artikel 6, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft de aanwending van bevroren tegoeden als bedoeld in voornoemd artikel 6, eerste lid.
+1. De bevoegde autoriteit, bedoeld in artikel 5, eerste lid, van Verordening (EG) nr. 1210/2003 is de Minister van Financiën.
+
+2. De bevoegde autoriteit, bedoeld in de artikelen 5, tweede lid, en artikel 6, eerste lid, van Verordening (EG) nr. 1210/2003 is de Minister van Financiën voor zover het betreft de vrijgave van bevroren tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave van economische middelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
