@@ -4,7 +4,7 @@ identifier: "BWBR0035464"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-08-21"
-last_updated: "2014-06-01"
+last_updated: "2014-08-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035464"
 soort: "zbo"
@@ -67,7 +67,7 @@ Deze regeling heeft tot doel het waarborgen van een effectieve procedure op het 
 
 In deze regeling wordt verstaan onder:
 
-- a. **instelling:** instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2), en voor zover genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder de nummers 1 tot en met 6, audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;
+- a. **instelling:** instellingen voor medisch specialistische zorg als bedoeld in [artikel 1.2, onder 1, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2), en voor zover genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder de nummers 1 tot en met 6, audiologische centra als bedoeld in artikel 1.2, onder 2, van het Uitvoeringsbesluit WTZi, en instellingen voor erfelijkheidsadvisering als bedoeld in artikel 1.2, onder 13, van het Uitvoeringsbesluit WTZi;
 
 - b. **beleidsregel:** de beleidsregel ‘Transitie bekostigingsstructuur medisch specialistische zorg’;
 
@@ -91,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Administratievoorschriften
 
-1. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 1, 2, 3, 4, 7 en 8 richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447&wetgeving)’, op een zodanige wijze in, dat hieruit kunnen worden afgeleid:
+1. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 1, 2, 3, 4, 7 en 8 richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447)’, op een zodanige wijze in, dat hieruit kunnen worden afgeleid:
 
 - (1.). de gedeclareerde tariefopbrengst DBC-A die overlopen uit 2011, minus het onderhanden werk per ultimo 2011;
 
@@ -105,7 +105,7 @@ In deze regeling wordt verstaan onder:
 
 - (6.). de honorariumomzet met betrekking tot productie ten behoeve van de segmenten A2012 en Bnieuw van medisch specialisten in loondienst waarvoor in 2012 op grond van de beleidsregel een loonkostenvergoeding in het schaduwbudget is opgenomen. Honorariumomzet moet worden uitgesplitst naar onderhanden werk per ultimo 2011, gedeclareerde DBC-zorgproducten 2012 en onderhanden werk per ultimo 2012.
 
-2. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 5 en 6, richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447&wetgeving)’, op een zodanige wijze in, dat hieruit, zowel voor het kostendeel als de honorariumomzet van medisch specialisten in loondienst, kunnen worden afgeleid:
+2. Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, richten hun administratie, met inachtneming van de regeling ‘[Medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035447)’, op een zodanige wijze in, dat hieruit, zowel voor het kostendeel als de honorariumomzet van medisch specialisten in loondienst, kunnen worden afgeleid:
 
 - (1.). de tariefopbrengst DBC-zorgproducten en overige zorgproducten die overlopen uit 2012, minus het onderhanden werk per ultimo 2012;
 
@@ -121,7 +121,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5. Voorschriften met betrekking tot de aanlevering van gegevens
 
-1. Instellingen, met uitzondering van de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 5 en 6, zijn verplicht:
+1. Instellingen, met uitzondering van de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht:
 
 - a. uiterlijk 1 september 2013 een **voorlopige** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2012 en van het schaduwbudget over 2012;
 
@@ -131,7 +131,7 @@ In deze regeling wordt verstaan onder:
 
 3. Bij zowel de voorlopige als definitieve opgave bedoeld in het eerste lid doen instellingen eveneens mededeling van in 2012 uit het Zorgverzekeringsfonds ontvangen bedragen in het kader van toegekende beschikbaarheidbijdragen.
 
-4. Voor de voorlopige en definitieve opgave bedoeld in het eerste lid dienen instellingen verplicht gebruik te maken van een daartoe door de NZa beschikbaar te stellen digitaal formulier, dat via de website van de NZa kan worden gedownload (zie ook [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=8&z=2014-08-21&g=2014-06-01)).
+4. Voor de voorlopige en definitieve opgave bedoeld in het eerste lid dienen instellingen verplicht gebruik te maken van een daartoe door de NZa beschikbaar te stellen digitaal formulier, dat via de website van de NZa kan worden gedownload (zie ook [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=8&z=2014-08-21&g=2014-08-21)).
 
 5. Zowel de voorlopige als definitieve opgave bedoeld in het eerste lid bevat in ieder geval de volgende onderdelen:
 
@@ -139,21 +139,21 @@ In deze regeling wordt verstaan onder:
 
 - –. een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
 
-- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-06-01)).
+- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
 
-6. Voor de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 5 (zelfstandige longrevalidatie-instellingen) en 6 (zelfstandige epilepsiecentra), geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01), onder 1b: Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 5 en 6, zijn verplicht uiterlijk 1 juni 2015 een **definitieve** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.
+6. Voor de instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 (zelfstandige longrevalidatie-instellingen) en 6 (zelfstandige epilepsiecentra), geldt dat de leden 1 tot en met 5 van overeenkomstige toepassing zijn, met dien verstande dat bij de in die leden genoemde jaartallen telkens één jaar moet worden opgeteld. Uitzondering hierop vormt [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21), onder 1b: Instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 5 en 6, zijn verplicht uiterlijk 1 juni 2015 een **definitieve** opgave bij de NZa in te dienen van de gerealiseerde omzet uit prestatiebekostiging over 2013 en van het schaduwbudget over 2013.
 
 ##### Artikel 6. Aanvullende voorschriften met betrekking tot de aanlevering van gegevens door zelfstandige revalidatiecentra en zelfstandige audiologische centra
 
-1. De instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 4 (zelfstandige revalidatiecentra), zijn verplicht – in aanvulling op de voorschriften en verplichtingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01) – uiterlijk 1 juni 2015 eenmalig een (definitieve) opgave bij de NZa in te dienen van de omzet uit prestatiebekostiging over 2013 en het schaduwbudget over 2013.
+1. De instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 4 (zelfstandige revalidatiecentra), zijn verplicht – in aanvulling op de voorschriften en verplichtingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) – uiterlijk 1 juni 2015 eenmalig een (definitieve) opgave bij de NZa in te dienen van de omzet uit prestatiebekostiging over 2013 en het schaduwbudget over 2013.
 
-2. De instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-06-01), onder 7 (zelfstandige audiologische centra), zijn verplicht – in aanvulling op de voorschriften en verplichtingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01) – uiterlijk 1 september 2014 eenmalig een (definitieve) opgave bij de NZa in te dienen van de omzet uit prestatiebekostiging over 2013 en het schaduwbudget over 2013.
+2. De instellingen genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=1&z=2014-08-21&g=2014-08-21), onder 7 (zelfstandige audiologische centra), zijn verplicht – in aanvulling op de voorschriften en verplichtingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) – uiterlijk 1 september 2014 eenmalig een (definitieve) opgave bij de NZa in te dienen van de omzet uit prestatiebekostiging over 2013 en het schaduwbudget over 2013.
 
 3. Berekeningen ten behoeve van de opgaven bedoeld in de leden 1 en 2 dienen te geschieden met inachtneming van het hieromtrent bepaalde in de beleidsregel.
 
 4. Bij de opgaven bedoeld in de leden 1 en 2 doen de in die leden genoemde instellingen eveneens mededeling van in 2013 uit het Zorgverzekeringsfonds ontvangen bedragen in het kader van toegekende beschikbaarheidbijdragen.
 
-5. Voor de opgaven bedoeld in de leden 1 en 2 dienen de in die leden genoemde instellingen verplicht gebruik te maken van een daartoe door de NZa beschikbaar te stellen digitaal formulier, dat via de website van de NZa kan worden gedownload (zie ook [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=8&z=2014-08-21&g=2014-06-01)).
+5. Voor de opgaven bedoeld in de leden 1 en 2 dienen de in die leden genoemde instellingen verplicht gebruik te maken van een daartoe door de NZa beschikbaar te stellen digitaal formulier, dat via de website van de NZa kan worden gedownload (zie ook [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=8&z=2014-08-21&g=2014-08-21)).
 
 6. De opgaven bedoeld in de leden 1 en 2 bevatten in ieder geval de volgende onderdelen:
 
@@ -161,19 +161,19 @@ In deze regeling wordt verstaan onder:
 
 - –. een Excelversie van het ingediende formulier, waarbij geldt dat het controlegetal op het Excel-voorblad dient overeen te komen met het ondertekende voorblad;
 
-- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-06-01)).
+- –. de bijbehorende accountantsverklaring (zie ook [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=7&z=2014-08-21&g=2014-08-21)).
 
 ##### Artikel 7. Accountantcontrole gegevensverstrekking
 
-De instelling draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de te verstrekken gegevens en inlichtingen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-06-01), bevestigt, overeenkomstig de wijze als beschreven in een met het oog hierop door de NZa beschikbaar te stellen Controleprotocol.
+De instelling draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de te verstrekken gegevens en inlichtingen als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21), bevestigt, overeenkomstig de wijze als beschreven in een met het oog hierop door de NZa beschikbaar te stellen Controleprotocol.
 
 ##### Artikel 8. Wijze van gegevensverstrekking
 
-De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-06-01) bedoelde formulieren en het desbetreffende controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl)1Zie: www.nza.nl → Wet- en regelgeving → Formulieren (Ziekenhuiszorg).. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-06-01) bedoelde opgaven moeten worden verzonden naar: formulierencure@nza.nl.
+De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21) bedoelde formulieren en het desbetreffende controleprotocol worden beschikbaar gesteld op de website van de NZa (www.nza.nl)1Zie: www.nza.nl → Wet- en regelgeving → Formulieren (Ziekenhuiszorg).. De in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=5&z=2014-08-21&g=2014-08-21) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035464&artikel=6&z=2014-08-21&g=2014-08-21) bedoelde opgaven moeten worden verzonden naar: formulierencure@nza.nl.
 
 ##### Artikel 9. Intrekking oude regeling(en)
 
-Met de inwerkingtreding van deze regeling wordt de [Regeling Transitie bekostigingsstructuur medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033911&wetgeving), kenmerk NR/CU-236, ingetrokken.
+Met de inwerkingtreding van deze regeling wordt de [Regeling Transitie bekostigingsstructuur medisch specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033911), kenmerk NR/CU-236, ingetrokken.
 
 ##### Artikel 10. Inwerkingtreding en citeertitel
 
