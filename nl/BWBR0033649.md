@@ -4,7 +4,7 @@ identifier: "BWBR0033649"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-03-19"
-last_updated: "2014-02-19"
+last_updated: "2014-08-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033649"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De ambtenaren van de Inspectie Leefomgeving en Transport belast met toezicht en 
 
 - c. [artikel 7, onderdeel b, van de Wet capaciteitsbeheersing binnenvaartvloot](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=7);
 
-- d. [artikel 87, eerste lid, onderdeel a, en vierde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II) voor zover dit betrekking heeft op concessies door de Minister van Infrastructuur en Milieu verleend voor openbaar vervoer per trein.
+- d. [artikel 87, eerste lid, onderdeel a, vierde en zesde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=87), met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=12) en [hoofdstuk II van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&hoofdstuk=II) voor zover dit betrekking heeft op concessies door de Minister van Infrastructuur en Milieu verleend voor openbaar vervoer per trein.
 
 ##### Artikel 2
 
@@ -60,7 +60,7 @@ Het [Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Leefom
 
 ##### Artikel 3
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met de datum van inwerkingtreding van de artikelen, bedoeld in [artikel 1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0033649&artikel=1&z=2013-07-12&g=2014-02-19).
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met de datum van inwerkingtreding van de artikelen, bedoeld in [artikel 1, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0033649&artikel=1&z=2014-08-22&g=2014-08-22).
 
 ##### Artikel 4
 
