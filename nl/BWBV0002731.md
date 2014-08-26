@@ -4,7 +4,7 @@ identifier: "BWBV0002731"
 country: "nl"
 rank: "verdrag"
 publication_date: "2017-10-23"
-last_updated: "1997-09-10"
+last_updated: "2014-08-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002731"
 soort: "verdrag"
@@ -77,7 +77,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - ix. „Bevoegde autoriteit”: de nationale autoriteit of autoriteiten die een Partij belast met de uitvoering van de in dit Verdrag vervatte taken en/of de autoriteit of autoriteiten aan welke een Partij de beslissingsbevoegdheid ten aanzien van een voorgenomen activiteit heeft opgedragen;
 
-- x. „Het publiek”: een of meer natuurlijke personen of rechtspersonen.
+- x. „Het publiek”: een of meer natuurlijke personen of rechtspersonen en, in overeenstemming met de nationale wetgeving of praktijk, hun verenigingen, organisaties of groepen.
 
 ##### Artikel 2. Algemene bepalingen
 
@@ -257,11 +257,15 @@ Dit Verdrag staat van 25 februari tot 1 maart 1991 te Espoo (Finland), en daarna
 
 2. Dit Verdrag staat vanaf 3 september 1991 open voor toetreding door de in artikel 16 bedoelde Staten en organisaties.
 
-3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die de functie van Depositaris vervult.
+3. Elke andere, niet in het tweede lid van dit artikel bedoelde, Staat die lid is van de Verenigde Naties kan, na goedkeuring door de Vergadering van de Partijen, toetreden tot het Verdrag. De Vergadering van de Partijen kan een verzoek tot toetreding van een dergelijke Staat pas overwegen of goedkeuren nadat dit lid in werking is getreden voor alle Staten en organisaties die op 27 februari 2001 Partij waren bij het Verdrag.
 
-4. Iedere organisatie zoals bedoeld in artikel 16 die Partij wordt bij dit Verdrag zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Verdrag. Wanneer een of meer lidstaten van een zodanige organisatie Partij bij dit Verdrag zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens het Verdrag. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Verdrag uitoefenen.
+4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die de functie van Depositaris vervult.
 
-5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 16 bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheid.
+5. Iedere organisatie zoals bedoeld in artikel 16 die Partij wordt bij dit Verdrag zonder dat een van haar lidstaten Partij is, is gebonden door alle verplichtingen krachtens dit Verdrag. Wanneer een of meer lidstaten van een zodanige organisatie Partij bij dit Verdrag zijn, beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen krachtens het Verdrag. In dat geval mogen de organisatie en de lidstaten niet tegelijkertijd rechten krachtens dit Verdrag uitoefenen.
+
+6. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in artikel 16 bedoelde regionale organisaties voor economische integratie de reikwijdte aan van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheid.
+
+7. Elke Staat of organisatie die dit Verdrag bekrachtigt, aanvaardt of goedkeurt, wordt geacht tegelijkertijd de wijziging van het Verdrag als vastgesteld in Besluit II/14, genomen tijdens de tweede zitting van de vergadering van de Partijen, te bekrachtigen, te aanvaarden of goed te keuren.
 
 ##### Artikel 18. Inwerkingtreding
 
