@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2014-07-02"
+last_updated: "2014-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - e. pneumokokkenziekte: alleen de vaststelling bij kinderen in de leeftijd tot en met 5 jaar wordt gemeld,
 
-- f. dengue: alleen de vaststelling in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gemeld.
+- f. dengue en chikungunya: alleen de vaststelling in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt gemeld.
 
 2. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), geldt voor het Middle East respiratory syndrome coronavirus (MERS-CoV) het volgende: de meldingsplicht wordt beperkt tot de vaststelling van een infectie bij een persoon, die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis, door de behandelend arts van het ziekenhuis.
 
@@ -136,7 +136,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-07-02&g=2014-07-02), bedraagt € 98,63.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-09-01&g=2014-09-01), bedraagt € 98,63.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,66 per kwartier.
 
@@ -160,7 +160,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-07-02&g=2014-07-02), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-09-01&g=2014-09-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -170,7 +170,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-07-02&g=2014-07-02), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-09-01&g=2014-09-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -202,7 +202,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-07-02&g=2014-07-02) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-09-01&g=2014-09-01) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
