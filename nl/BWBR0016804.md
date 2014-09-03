@@ -4,7 +4,7 @@ identifier: "BWBR0016804"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-04-09"
-last_updated: "2013-06-18"
+last_updated: "2014-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016804"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&arti
 
 Besluit:
 
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1
 
 Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 373](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=373), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=391), [541, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=541), [556, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=556), en [587, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=587) worden aangewezen:
@@ -70,7 +72,9 @@ Voor de uitvoering van opdrachten of werkzaamheden als bedoeld in de [artikelen 
 
 - m. functionarissen werkzaam in een particuliere justitiële inrichting voor verpleging van ter beschikking gestelden;
 
-- n. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties.
+- n. functionarissen, die door het Centraal Justitieel Incassobureau te Leeuwarden worden belast met de invordering van geldboeten en administratieve sancties;
+
+- o. ambtenaren en functionarissen, werkzaam bij de interdepartementale post- en koeriersdienst.
 
 ##### Artikel 2
 
