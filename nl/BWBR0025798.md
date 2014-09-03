@@ -4,7 +4,7 @@ identifier: "BWBR0025798"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-07-01"
+last_updated: "2014-09-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025798"
 soort: "ministeriele-regeling"
@@ -103,16 +103,6 @@ Besluit:
 - **dagrijlicht:** een licht dat voorwaarts gericht is en wordt gebruikt om het voertuig tijdens het overdag rijden beter zichtbaar te maken;
 
 - **dimlicht:** licht waarmee de weg vóór het voertuig wordt verlicht zonder dat hierdoor andere weggebruikers worden verblind of gehinderd;
-
-- **dolly:** aanhangwagen met carrosserietype DA, DB of DC, bestemd voor: in ieder geval wordt als dolly aangemerkt een voertuig dat blijkens het kentekenregister een dolly is;
-
-- a. het koppelen van een oplegger aan een trekkend voertuig waarbij de dolly de voorzijde van een oplegger draagt;
-
-- b. het dragen van de achterzijde van in de lengte ondeelbare lading, indien deze lading het chassis van het voertuig vervangt;
-
-- c. het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras(sen) van het trekkend voertuig en de as(sen) van de dolly; of
-
-- d. het dragen van één van de assen van een motorvoertuig; de afsleepdolly;
 
 - **dolly:** aanhangwagen met carrosserietype DB, DC of subcategorie SJ, bestemd voor: onder dolly wordt tevens verstaan een aanhangwagen van het carrosserietype DA, DB, DC of subcategorie SJ bestemd voor het koppelen van een ontheffingsplichtige oplegger aan een trekkend voertuig, waarbij de dolly de massa van de lading verdeelt over de achteras(sen) van het trekkend voertuig en de as(sen) van de dolly; in ieder geval wordt als dolly aangemerkt een voertuig dat blijkens het kentekenregister een dolly is;
 
@@ -452,7 +442,7 @@ Besluit:
 
 - 3. zijdelings gerichte zitplaats: zitplaats die, gelet op haar gerichtheid ten opzichte van het middenlangsvlak van het voertuig, niet voldoet aan de onderdelen 1 en 2.
 
-### Afdeling 2. Besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de europese unie
+### Afdeling 2. Besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie
 
 ##### Artikel 1.2
 
@@ -502,13 +492,13 @@ Waar in deze regeling wordt bepaald dat voertuigen, systemen, onderdelen, techni
 
 2. Indien van een voertuig het voertuigidentificatienummer ontbreekt, teniet is gegaan of geheel of ten dele onleesbaar is geworden, kan door de Dienst Wegverkeer een voertuigidentificatienummer worden vastgesteld, toegekend en ingeslagen.
 
-3. Het voertuigidentificatienummer wordt vastgesteld, toegekend en ingeslagen op de wijze zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-07-01&g=2014-07-01).
+3. Het voertuigidentificatienummer wordt vastgesteld, toegekend en ingeslagen op de wijze zoals vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 2.2
 
 1. Onder de datum waarop een voertuig in gebruik is genomen, wordt in deze regeling verstaan de datum van eerste toelating van het voertuig zoals vermeld in het kentekenregister.
 
-2. De in het eerste lid vermelde datum van eerste toelating wordt door de Dienst Wegverkeer vastgesteld op de wijze zoals vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=II&z=2014-07-01&g=2014-07-01).
+2. De in het eerste lid vermelde datum van eerste toelating wordt door de Dienst Wegverkeer vastgesteld op de wijze zoals vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=II&z=2014-09-03&g=2014-09-03).
 
 3. Voor voertuigen waarvoor vóór 1 januari 1995 een kentekenbewijs is afgegeven waarop geen datum eerste toelating is vermeld, wordt als datum eerste toelating beschouwd de op het kentekenbewijs vermelde datum van afgifte van deel I van het kentekenbewijs. Indien op het kentekenbewijs onder ‘bijzonderheden’ een bouwjaar is vermeld, wordt als datum eerste toelating beschouwd 30 juni van dit bouwjaar.
 
@@ -544,19 +534,19 @@ Waar in deze regeling wordt bepaald dat voertuigen, systemen, onderdelen, techni
 
 1. Voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een EG-typegoedkeuring voldoen aan [richtlijn 2002/24/EG](32002L0024).
 
-2. Voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan het gestelde in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-07-01&g=2014-07-01).
+2. Voertuigen van de voertuigcategorie L moeten voor het verkrijgen van een nationale kleine serie typegoedkeuring voldoen aan het gestelde in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 3.4
 
 1. Voertuigen met de voertuigclassificatie T1 tot en met T3 moeten voor het verkrijgen van een EG-typegoedkeuring voldoen aan [richtlijn 2003/37/EG](32003L0037).
 
-2. Voertuigen met de voertuigclassificatie T4.2 en T5 moeten voor het verkrijgen van een nationale typegoedkeuring voldoen aan het gestelde in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIc&z=2014-07-01&g=2014-07-01).
+2. Voertuigen met de voertuigclassificatie T4.2 en T5 moeten voor het verkrijgen van een nationale typegoedkeuring voldoen aan het gestelde in [bijlage IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIc&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 3.5
 
-1. De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van [richtlijn 2002/24/EG](32002L0024), artikel 11 van [richtlijn 2003/37/EG](32003L0037) of artikel 20 van [richtlijn 2007/46/EG](32007L0046) verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen EG-verordeningen of VN/ECE-reglementen.
+1. De Dienst Wegverkeer kan een voorlopige EG-typegoedkeuring als bedoeld in artikel 16, derde lid, van [richtlijn 2002/24/EG](32002L0024), artikel 11 van [richtlijn 2003/37/EG](32003L0037) of artikel 20 van [richtlijn 2007/46/EG](32007L0046) verlenen aan voertuigen, systemen, onderdelen, technische eenheden, uitrustingsstukken of voorzieningen ter bescherming van weggebruikers en passagiers indien hierin nieuwe technologieën of nieuwe concepten zijn toegepast die onverenigbaar zijn met een of meer bijzondere EG-richtlijnen, EG-verordeningen of VN/ECE-reglementen.
 
-2. De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) bij deze regeling kunnen voldoen, een tijdelijke nationale kleine serie goedkeuring kan worden verleend, mits er naar het oordeel van de Dienst Wegverkeer geen gevaar is voor de verkeersveiligheid.
+2. De Dienst Wegverkeer kan bepalen dat voor een type waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) bij deze regeling kunnen voldoen, een tijdelijke nationale kleine serie goedkeuring kan worden verleend, mits er naar het oordeel van de Dienst Wegverkeer geen gevaar is voor de verkeersveiligheid.
 
 ##### Artikel 3.6
 
@@ -570,13 +560,13 @@ Waar in deze regeling wordt bepaald dat voertuigen, systemen, onderdelen, techni
 
 ##### Artikel 3.7
 
-1. Voertuigen van de voertuigcategorieën L, M, N, O en T moeten voor het verkrijgen van een individuele goedkeuring voldoen aan [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) bij deze regeling.
+1. Voertuigen van de voertuigcategorieën L, M, N, O en T moeten voor het verkrijgen van een individuele goedkeuring voldoen aan [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) bij deze regeling.
 
-2. In afwijking van het eerste lid mogen voertuigen met de voertuigclassificaties M1 of N1, die in grote series worden geproduceerd in of voor derde landen en die niet of niet langer dan zes maanden zijn geregistreerd, voldoen aan [bijlage IV, deel I, aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01), bij richtlijn 2007/46/EG.
+2. In afwijking van het eerste lid mogen voertuigen met de voertuigclassificaties M1 of N1, die in grote series worden geproduceerd in of voor derde landen en die niet of niet langer dan zes maanden zijn geregistreerd, voldoen aan [bijlage IV, deel I, aanhangsel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03), bij richtlijn 2007/46/EG.
 
 ##### Artikel 3.8
 
-De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuigen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen genoemd in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) bij deze regeling kunnen voldoen en waarvan bij de keuring niet kan worden vastgesteld dan wel slechts op termijn kan worden vastgesteld of aan de in dit hoofdstuk gestelde eisen wordt voldaan, tijdelijke individuele goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid.
+De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuigen waarin technologieën of concepten zijn verwerkt, die wegens hun specifieke aard niet aan de eisen genoemd in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) bij deze regeling kunnen voldoen en waarvan bij de keuring niet kan worden vastgesteld dan wel slechts op termijn kan worden vastgesteld of aan de in dit hoofdstuk gestelde eisen wordt voldaan, tijdelijke individuele goedkeuring kan worden verleend, mits naar het oordeel van de Dienst Wegverkeer er geen gevaar is voor de verkeersveiligheid.
 
 ### Afdeling 3. Goedkeuring systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers
 
@@ -592,17 +582,17 @@ De Dienst Wegverkeer kan bepalen dat voor prototypen van voertuigen of voertuige
 
 2. Een systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening ter bescherming van weggebruikers en passagiers dat bedoeld is om deel uit te maken van een voertuig met de voertuigclassificatie T4.2 of T5 en waarvoor onafhankelijk van een voertuig een typegoedkeuring kan worden verleend moet voor het verkrijgen van een nationale of EG-typegoedkeuring voldoen aan de voorschriften van de relevante bijzondere EG-richtlijnen, EG-verordeningen of VN/ECE-reglementen opgenomen in bijlage II, hoofdstuk B, van [richtlijn 2003/37/EG](32003L0037).
 
-3. De systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers als bedoeld in [bijlage VA](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=Va&z=2014-07-01&g=2014-07-01) moeten voor het verkrijgen van een overeenkomstig de bij het desbetreffende systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening vermelde VN/ECE-reglement af te geven goedkeuring voldoen aan de voorschriften van het relevante VN/ECE-reglement.
+3. De systemen, onderdelen, technische eenheden, uitrustingsstukken en voorzieningen ter bescherming van weggebruikers en passagiers als bedoeld in [bijlage VA](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=Va&z=2014-09-03&g=2014-09-03) moeten voor het verkrijgen van een overeenkomstig de bij het desbetreffende systeem, onderdeel, technische eenheid, uitrustingsstuk of voorziening vermelde VN/ECE-reglement af te geven goedkeuring voldoen aan de voorschriften van het relevante VN/ECE-reglement.
 
-4. Retroreflecterende voorzieningen voor fietsen, zijspanwagens aan fietsen, aanhangwagens achter fietsen en wagens moeten voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voorschriften opgenomen in [bijlage VB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=Vb&z=2014-07-01&g=2014-07-01).
+4. Retroreflecterende voorzieningen voor fietsen, zijspanwagens aan fietsen, aanhangwagens achter fietsen en wagens moeten voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voorschriften opgenomen in [bijlage VB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=Vb&z=2014-09-03&g=2014-09-03).
 
 5. Een reminrichting of stuurinrichting die is bedoeld om deel uit te maken van:
 
-- a. een voertuig van de voertuigcategorie M, N of O, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01), deel I, bij richtlijn 2007/46/EG, waarbij de fabrikant tot tevredenheid van de Dienst Wegverkeer aantoont dat aan de essentiële voorschriften van de regelgeving is voldaan.
+- a. een voertuig van de voertuigcategorie M, N of O, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03), deel I, bij richtlijn 2007/46/EG, waarbij de fabrikant tot tevredenheid van de Dienst Wegverkeer aantoont dat aan de essentiële voorschriften van de regelgeving is voldaan.
 
-- b. een voertuig van de voertuigcategorie L of T, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-07-01&g=2014-07-01) of [IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIc&z=2014-07-01&g=2014-07-01) bij deze regeling.
+- b. een voertuig van de voertuigcategorie L of T, moet voor het verkrijgen van een nationale typegoedkeuring voldoen aan de voor het desbetreffende onderdeel relevante voorschriften opgenomen in [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-09-03&g=2014-09-03) of [IIIC](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIc&z=2014-09-03&g=2014-09-03) bij deze regeling.
 
-6. Een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) voldoet voor het verkrijgen van een nationale typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet aan de in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-07-01&g=2014-07-01) bij deze regeling vermelde eisen. De houder van een typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet verstrekt bij het alcoholslot een afschrift van het typegoedkeuringscertificaat.
+6. Een alcoholslot als bedoeld in [artikel 132e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132e) voldoet voor het verkrijgen van een nationale typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet aan de in [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-09-03&g=2014-09-03) bij deze regeling vermelde eisen. De houder van een typegoedkeuring als bedoeld in artikel 132e, eerste lid, van de wet verstrekt bij het alcoholslot een afschrift van het typegoedkeuringscertificaat.
 
 ### Afdeling 4. Goedkeuring productieprocessen
 
@@ -626,17 +616,17 @@ Vervallen
 
 ##### Artikel 3.12
 
-Een taxi moet in het kader van de toelating tot het verkeer op de weg in aanvulling op de eisen opgenomen in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&z=2014-07-01&g=2014-07-01), voldoen aan de in deze afdeling opgenomen eisen.
+Een taxi moet in het kader van de toelating tot het verkeer op de weg in aanvulling op de eisen opgenomen in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&z=2014-09-03&g=2014-09-03), voldoen aan de in deze afdeling opgenomen eisen.
 
 ##### Artikel 3.13
 
-1. Een taxi met een EG-typegoedkeuring wordt verondersteld te voldoen aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01), indien het een voertuig betreft dat is typegoedgekeurd met een vaste indeling en deuren aan beide zijden van elke zitrij met een drempelhoogte van minder dan 50 cm vanaf het wegdek. Hierbij wordt het hoogste aantal te vervoeren personen gelijk gesteld aan het aantal zitplaatsen, met uitzondering van de bestuurderszitplaats.
+1. Een taxi met een EG-typegoedkeuring wordt verondersteld te voldoen aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03), indien het een voertuig betreft dat is typegoedgekeurd met een vaste indeling en deuren aan beide zijden van elke zitrij met een drempelhoogte van minder dan 50 cm vanaf het wegdek. Hierbij wordt het hoogste aantal te vervoeren personen gelijk gesteld aan het aantal zitplaatsen, met uitzondering van de bestuurderszitplaats.
 
-2. Een taxi met een EG-typegoedkeuring met een vaste indeling die niet is uitgevoerd met deuren aan beide zijden van elke zitrij wordt goedgekeurd indien het voertuig voldoet aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01). De zitplaatsen met deuren aan beide zijden van de zitrij worden verondersteld te voldoen aan [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01). Hierbij wordt het hoogste aantal te vervoeren personen gelijkt gesteld aan het aantal bereikbare zitplaatsen, met uitzondering van de bestuurderszitplaats.
+2. Een taxi met een EG-typegoedkeuring met een vaste indeling die niet is uitgevoerd met deuren aan beide zijden van elke zitrij wordt goedgekeurd indien het voertuig voldoet aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03). De zitplaatsen met deuren aan beide zijden van de zitrij worden verondersteld te voldoen aan [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03). Hierbij wordt het hoogste aantal te vervoeren personen gelijkt gesteld aan het aantal bereikbare zitplaatsen, met uitzondering van de bestuurderszitplaats.
 
-3. Een taxi met een variabele indeling wordt per indeling goedgekeurd, indien het voertuig voldoet aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01). Hierbij wordt het hoogste aantal te vervoeren personen per indeling gelijk gesteld aan het aantal bereikbare zitplaatsen met uitzondering van de bestuurderszitplaats.
+3. Een taxi met een variabele indeling wordt per indeling goedgekeurd, indien het voertuig voldoet aan het gestelde in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03). Hierbij wordt het hoogste aantal te vervoeren personen per indeling gelijk gesteld aan het aantal bereikbare zitplaatsen met uitzondering van de bestuurderszitplaats.
 
-4. Overige taxi’s worden beoordeeld op de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01) gestelde eisen ten aanzien van:
+4. Overige taxi’s worden beoordeeld op de in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03) gestelde eisen ten aanzien van:
 
 - a. een vaste indeling volgens de typegoedkeuring en deuren aan beide zijden van elke zitrij;
 
@@ -652,9 +642,9 @@ Deze afdeling is van overeenkomstige toepassing op personenauto’s bestemd voor
 
 ##### Artikel 3.15
 
-1. Bij de inschrijving van de taxi als bedoeld in [artikel 3.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-07-01&g=2014-07-01), wordt in het kentekenregister vermeld: ‘Taxi, ingericht voor het vervoer van ten hoogste […] personen buiten de bestuurder’.
+1. Bij de inschrijving van de taxi als bedoeld in [artikel 3.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-09-03&g=2014-09-03), wordt in het kentekenregister vermeld: ‘Taxi, ingericht voor het vervoer van ten hoogste […] personen buiten de bestuurder’.
 
-2. Bij de inschrijving van de taxi bedoeld in [artikel 3.13 derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-07-01&g=2014-07-01) wordt een goedkeuringsdocument afgegeven waaruit blijkt dat het voertuig is goedgekeurd voor het gebruik als taxi als bedoeld in [artikel 76, eerste lid, van het Besluit Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=76). Bij de inschrijving in het kentekenregister wordt onder bijzonderheden vermeld: ‘Taxi, zie goedkeuringsdocument’.
+2. Bij de inschrijving van de taxi bedoeld in [artikel 3.13 derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-09-03&g=2014-09-03) wordt een goedkeuringsdocument afgegeven waaruit blijkt dat het voertuig is goedgekeurd voor het gebruik als taxi als bedoeld in [artikel 76, eerste lid, van het Besluit Personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=76). Bij de inschrijving in het kentekenregister wordt onder bijzonderheden vermeld: ‘Taxi, zie goedkeuringsdocument’.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de inschrijving van een voertuig voor gebruik als OV-voertuig. In het kentekenregister wordt vermeld: ‘OV-auto, ingericht voor het vervoer van ten hoogste […] personen buiten de bestuurder’ dan wel ‘OV-auto, zie goedkeuringsdocument’.
 
@@ -708,7 +698,7 @@ Deze afdeling is van overeenkomstige toepassing op personenauto’s bestemd voor
 
 ##### Artikel 3.22
 
-De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.16&z=2014-07-01&g=2014-07-01) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.18&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing op de aanvraag van en het toezicht op een nationale typegoedkeuring voor voertuigen, onderdelen, systemen en technische eenheden.
+De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.16&z=2014-09-03&g=2014-09-03) en [3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.18&z=2014-09-03&g=2014-09-03) zijn van overeenkomstige toepassing op de aanvraag van en het toezicht op een nationale typegoedkeuring voor voertuigen, onderdelen, systemen en technische eenheden.
 
 ##### Artikel 3.23
 
@@ -718,7 +708,7 @@ De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&
 
 ##### Artikel 3.24
 
-1. De [artikelen 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.20&z=2014-07-01&g=2014-07-01) en [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.21&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing op de aanvraag van en het toezicht op een nationale kleine serie typegoedkeuring voor voertuigen van de voertuigcategorieën M, N, O en L.
+1. De [artikelen 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.20&z=2014-09-03&g=2014-09-03) en [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=1&artikel=3.21&z=2014-09-03&g=2014-09-03) zijn van overeenkomstige toepassing op de aanvraag van en het toezicht op een nationale kleine serie typegoedkeuring voor voertuigen van de voertuigcategorieën M, N, O en L.
 
 2. De fabrikant mag de in [richtlijn 2002/24/EG](32002L0024) en 2007/46/EG vermelde maximale aantal jaarlijks te verkopen, registreren, of in het verkeer te brengen voertuigen niet overschrijden en doet opgave aan de Dienst Wegverkeer van de per kalenderjaar verkochte, geregistreerde of in het verkeer gebrachte voertuigen.
 
@@ -730,7 +720,7 @@ De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&
 
 - a. in [richtlijn 2002/24/EG](32002L0024), 2003/37/EG of 2007/46/EG, of een hierop gebaseerde bijzondere EG-richtlijn, anders is bepaald, of
 
-- b. [artikel 3.26, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.26&z=2014-07-01&g=2014-07-01) van toepassing is.
+- b. [artikel 3.26, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.26&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 2. Een typegoedkeuring op basis van een VN/ECE-reglement vervalt van rechtswege zodra zwaardere eisen van kracht worden, tenzij in het VN/ECE-reglement op basis waarvan de typegoedkeuring is verleend anders is bepaald.
 
@@ -738,11 +728,11 @@ De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&
 
 - a. in 2007/46/EG, of een hierop gebaseerde bijzondere EG-richtlijn, anders is bepaald, of
 
-- b. [artikel 3.26, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.26&z=2014-07-01&g=2014-07-01) van toepassing is.
+- b. [artikel 3.26, eerste tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.26&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 4. Een nationale typegoedkeuring van een reminrichting of stuurinrichting vervalt van rechtswege zodra zwaardere eisen van kracht worden.
 
-5. Een nationale kleine serie typegoedkeuring vervalt van rechtswege zodra zwaardere eisen van kracht worden, tenzij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.27&z=2014-07-01&g=2014-07-01) van toepassing is.
+5. Een nationale kleine serie typegoedkeuring vervalt van rechtswege zodra zwaardere eisen van kracht worden, tenzij [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.27&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 6. Een individuele goedkeuring vervalt zodra zwaardere eisen van kracht worden.
 
@@ -762,7 +752,7 @@ De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&
 
 5. Voltooide voertuigen mogen op grond van een ingevolge [richtlijn 2007/46/EG](32007L0046) verleende goedkeuring nog gedurende een periode van 18 maanden na het van kracht worden van zwaardere eisen tot het verkeer worden toegelaten, mits wordt voldaan aan de voorwaarden genoemd in artikel 27 en bijlage XII, deel B, tweede gedachtestreepje, van deze richtlijn.
 
-6. Met betrekking tot het opnemen van voertuigen in een restantvoorraad, als bedoeld in het eerste tot en met vijfde lid, moet worden voldaan aan de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VII&z=2014-07-01&g=2014-07-01) van deze regeling opgenomen voorschriften.
+6. Met betrekking tot het opnemen van voertuigen in een restantvoorraad, als bedoeld in het eerste tot en met vijfde lid, moet worden voldaan aan de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VII&z=2014-09-03&g=2014-09-03) van deze regeling opgenomen voorschriften.
 
 7. Alcoholsloten die op basis van de oude eisen zijn typegoedgekeurd mogen tot twee jaar na de dag waarop de zwaardere eisen van kracht zijn geworden, worden ingebouwd.
 
@@ -770,7 +760,7 @@ De [artikelen 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&
 
 ##### Artikel 3.27
 
-Voertuigen mogen op grond van een verleende nationale typegoedkeuring of kleine serie typegoedkeuring nog gedurende een periode van 18 maanden na het van kracht worden van zwaardere eisen tot het verkeer worden toegelaten, mits wordt voldaan aan de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VII&z=2014-07-01&g=2014-07-01) opgenomen voorschriften.
+Voertuigen mogen op grond van een verleende nationale typegoedkeuring of kleine serie typegoedkeuring nog gedurende een periode van 18 maanden na het van kracht worden van zwaardere eisen tot het verkeer worden toegelaten, mits wordt voldaan aan de in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VII&z=2014-09-03&g=2014-09-03) opgenomen voorschriften.
 
 ### Hoofdstuk 4. Verkoopverboden
 
@@ -780,7 +770,7 @@ Het is verboden nieuwe voertuigen van de voertuigcategorieën M, N, O, L of T me
 
 ##### Artikel 4.2
 
-1. Het is verboden een nieuw onderdeel dat, of een nieuwe technische eenheid die bedoeld is om deel uit te maken van een voertuig van één van de voertuigcategorieën, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=4&artikel=4.1&z=2014-07-01&g=2014-07-01), te verkopen of in het verkeer te brengen indien het onderdeel of de technische eenheid:
+1. Het is verboden een nieuw onderdeel dat, of een nieuwe technische eenheid die bedoeld is om deel uit te maken van een voertuig van één van de voertuigcategorieën, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=4&artikel=4.1&z=2014-09-03&g=2014-09-03), te verkopen of in het verkeer te brengen indien het onderdeel of de technische eenheid:
 
 - a. niet voldoet aan de voorschriften van de relevante bijzondere richtlijnen of EG-verordeningen opgenomen in bijlage IV of XI van richtlijn 2007/46/EG, bijlage II, deel 2, van richtlijn 2002/24/EG, bijlage II, en hoofdstuk B, van richtlijn 2003/37/EG, of de relevante VN/ECE-reglementen, of
 
@@ -790,13 +780,13 @@ Het is verboden nieuwe voertuigen van de voertuigcategorieën M, N, O, L of T me
 
 - a. speciaal worden gebouwd of ontworpen voor nieuwe voertuigen die niet onder de in het eerste lid genoemde richtlijnen vallen;
 
-- b. zijn bedoeld voor montage op voertuigen waarvoor uit hoofde van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01), typegoedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid;
+- b. zijn bedoeld voor montage op voertuigen waarvoor uit hoofde van [artikel 3.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-09-03&g=2014-09-03), typegoedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid;
 
-- c. zijn bedoeld voor montage op voertuigen van voertuigcategorie M, N, O, L waarvoor uit hoofde van [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01), en [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2014-07-01&g=2014-07-01), goedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid;
+- c. zijn bedoeld voor montage op voertuigen van voertuigcategorie M, N, O, L waarvoor uit hoofde van [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-09-03&g=2014-09-03), en [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2014-09-03&g=2014-09-03), goedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid;
 
-- d. zijn bedoeld voor montage op voertuigen waarvoor uit hoofde van [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-07-01&g=2014-07-01), goedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid, of
+- d. zijn bedoeld voor montage op voertuigen waarvoor uit hoofde van [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-09-03&g=2014-09-03), goedkeuringen zijn verleend die betrekking hebben op het desbetreffende onderdeel of de desbetreffende technische eenheid, of
 
-- e. zijn bedoeld voor montage op voertuigen waarvoor goedkeuringen zijn verleend als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01).
+- e. zijn bedoeld voor montage op voertuigen waarvoor goedkeuringen zijn verleend als bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 4.3
 
@@ -814,15 +804,15 @@ Het is slechts toegestaan de onderdelen of uitrustingstukken die zijn opgenomen 
 
 - b. zodanig is gebouwd of ingericht dat de bestuurder onvoldoende uitzicht naar voren of opzij heeft, of
 
-- c. niet voldoet aan de in de [afdelingen 2 tot en met 17 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-07-01&g=2014-07-01) ten aanzien van de bouw of inrichting van voertuigen van de categorie waartoe het voertuig behoort, gestelde eisen.
+- c. niet voldoet aan de in de [afdelingen 2 tot en met 17 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-09-03&g=2014-09-03) ten aanzien van de bouw of inrichting van voertuigen van de categorie waartoe het voertuig behoort, gestelde eisen.
 
-2. Het is de bestuurder en de eigenaar of houder van een voertuig verboden het voertuig te laten staan, indien het voertuig niet voldoet aan de in de [afdelingen 2 tot en met 17 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-07-01&g=2014-07-01) ten aanzien van de verplichte rode retroreflectoren aan de achterzijde van voertuigen gestelde eisen.
+2. Het is de bestuurder en de eigenaar of houder van een voertuig verboden het voertuig te laten staan, indien het voertuig niet voldoet aan de in de [afdelingen 2 tot en met 17 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-09-03&g=2014-09-03) ten aanzien van de verplichte rode retroreflectoren aan de achterzijde van voertuigen gestelde eisen.
 
-3. Voor de toepassing van het bepaalde in het eerste lid, onderdeel c, en het tweede lid, zijn op motorvoertuigen welke niet vallen onder een van de in de [afdelingen 2 tot en met 8 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-07-01&g=2014-07-01) vermelde categorieën motorvoertuigen, de in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-07-01&g=2014-07-01) vermelde eisen van overeenkomstige toepassing.
+3. Voor de toepassing van het bepaalde in het eerste lid, onderdeel c, en het tweede lid, zijn op motorvoertuigen welke niet vallen onder een van de in de [afdelingen 2 tot en met 8 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-09-03&g=2014-09-03) vermelde categorieën motorvoertuigen, de in [afdeling 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&z=2014-09-03&g=2014-09-03) vermelde eisen van overeenkomstige toepassing.
 
 ##### Artikel 5.1.2
 
-Het is de bestuurder van een voertuig of een samenstel van voertuigen verboden daarmee te rijden en de eigenaar of houder verboden daarmee te laten rijden, indien niet wordt voldaan aan de in [afdeling 18 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&z=2014-07-01&g=2014-07-01) ten aanzien van het gebruik van voertuigen of samenstellen van voertuigen van de categorie of categorieën, waartoe die voertuigen behoren, gestelde eisen.
+Het is de bestuurder van een voertuig of een samenstel van voertuigen verboden daarmee te rijden en de eigenaar of houder verboden daarmee te laten rijden, indien niet wordt voldaan aan de in [afdeling 18 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&z=2014-09-03&g=2014-09-03) ten aanzien van het gebruik van voertuigen of samenstellen van voertuigen van de categorie of categorieën, waartoe die voertuigen behoren, gestelde eisen.
 
 ##### Artikel 5.1.3
 
@@ -830,7 +820,7 @@ Het is de bestuurder van een voertuig verboden daarmee te rijden en de eigenaar 
 
 ##### Artikel 5.1.4
 
-Gehandicaptenvoertuigen zonder motor moeten voldoen aan de in [afdeling 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&z=2014-07-01&g=2014-07-01) van dit hoofdstuk aan fietsen gestelde eisen, met uitzondering van het in [artikel 5.9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=2&artikel=5.9.6&z=2014-07-01&g=2014-07-01)ter zake van de afmetingen bepaalde, waarvoor [artikel 5.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=2&artikel=5.10.6&z=2014-07-01&g=2014-07-01) in de plaats treedt.
+Gehandicaptenvoertuigen zonder motor moeten voldoen aan de in [afdeling 9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&z=2014-09-03&g=2014-09-03) van dit hoofdstuk aan fietsen gestelde eisen, met uitzondering van het in [artikel 5.9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=2&artikel=5.9.6&z=2014-09-03&g=2014-09-03)ter zake van de afmetingen bepaalde, waarvoor [artikel 5.10.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=2&artikel=5.10.6&z=2014-09-03&g=2014-09-03) in de plaats treedt.
 
 ##### Artikel 5.1.5
 
@@ -868,13 +858,13 @@ Gehandicaptenvoertuigen zonder motor moeten voldoen aan de in [afdeling 9](https
 
 ##### Artikel 5.1a.1
 
-Bij de vaststelling van de afmetingen van motorvoertuigen en samenstellen daarvan, met uitzondering van landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid en gehandicaptenvoertuigen, worden delen en onderdelen buiten beschouwing gelaten overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 1, paragraaf 1.
+Bij de vaststelling van de afmetingen van motorvoertuigen en samenstellen daarvan, met uitzondering van landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid en gehandicaptenvoertuigen, worden delen en onderdelen buiten beschouwing gelaten overeenkomstig [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 1, paragraaf 1.
 
 ##### Artikel 5.1a.2
 
 1. De wielbasis van een voertuig wordt gemeten bij onbeladen toestand van het voertuig met alle wielen op het wegdek en in de stand van rechtuitrijden.
 
-2. De afmetingen van voertuigen alsmede de last onder de as of assen worden, onverminderd het bepaalde in [afdeling 18 van hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&z=2014-07-01&g=2014-07-01), bepaald bij onbeladen toestand van het voertuig.
+2. De afmetingen van voertuigen alsmede de last onder de as of assen worden, onverminderd het bepaalde in [afdeling 18 van hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&z=2014-09-03&g=2014-09-03), bepaald bij onbeladen toestand van het voertuig.
 
 ##### Artikel 5.1a.3
 
@@ -969,7 +959,7 @@ Indien in het kentekenregister of op het kentekenbewijs deel 1A dan wel deel I o
 
 ##### Artikel 5.2.0
 
-Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 0. Algemeen
 
@@ -977,7 +967,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De personenauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |
+| 1. | De personenauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |
 | 2. | De personenauto moet zijn voorzien van de juiste kentekenplaten. |   |
 | 3. | Het voertuigidentificatienummer moet in het chassis, frame of soortgelijke structuur zijn ingeslagen en moet goed leesbaar zijn. | Visuele controle. |
 | 4. | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd. | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
@@ -991,7 +981,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | --- | --- | --- |
 |   | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van personenauto’s mogen: | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 |   | a. geen breuken of scheuren vertonen, en |   |
-|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.2.4
 
@@ -1005,7 +995,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Personenauto’s mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Visuele controle. In geval van twijfel wordt de personenauto gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | Personenauto’s mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Visuele controle. In geval van twijfel wordt de personenauto gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 ##### Artikel 5.2.7
 
@@ -1020,7 +1010,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Alle onderdelen van brandstofsystemen van personenauto’s moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Alle onderdelen van brandstofsystemen van personenauto’s moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Brandstofsystemen mogen geen lekkage vertonen. | – Visuele controle, terwijl de personenauto zich met draaiende respectievelijk niet-draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 |   |   | – Indien de motor van de personenauto is uitgerust met meer dan één brandstofsysteem, wordt de controle uitgevoerd wanneer de motor wordt gevoed met de hoofdbrandstof zoals deze is vermeld in het kentekenregister. Het tweede brandstofsysteem wordt eveneens gecontroleerd indien het mogelijk is de motor op de tweede brandstof te laten draaien. Indien controle van het tweede brandstofsysteem niet mogelijk is, wordt dit vermeld op het keuringsrapport. |
 |   |   | – Een installatie voor een al dan niet tot vloeistof verdicht gas wordt gecontroleerd met behulp van een middel dat lekkage zichtbaar maakt, waarbij het contact moet zijn ingeschakeld. |
@@ -1030,7 +1020,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de personenauto is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=3&artikel=5.2.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de personenauto is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=3&artikel=5.2.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De LPG tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Visuele controle, zo nodig terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | De LPG-tank mag niet in de motorruimte zijn geplaatst. | Lid 3 en 4: visuele controle. |
 | 4. | De LPG-tank moet zijn voorzien van een deugdelijke gasdichte kast die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst. |   |
@@ -1043,7 +1033,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de personenauto is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=3&artikel=5.2.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de personenauto is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=3&artikel=5.2.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De CNG-tank: a. moet permanent zijn aangebracht aan het voertuig, en b. mag geen deuken vertonen. | Visuele controle, zo nodig terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | De CNG-tank mag niet in de motorruimte zijn geplaatst. | Visuele controle. |
 | 4. | De vervaldatum van de goedkeuring, en indien van toepassing van de herkwalificatie, van een CNG-tank, mag niet verstreken zijn. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
@@ -1060,12 +1050,12 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | 1. | Personenauto’s met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes. | Visuele en auditieve controle, terwijl de personenauto zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Personenauto’s moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 715/2007. | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
-| 4. | Personenauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
-| 5. | Personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min-1 voor zover het betreft een personenauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min-1 voor zover het betreft een personenauto met een verbrandingsmotor met compressieontsteking. Personenauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min-1. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 30 tot en met 32, van toepassing. |   |
-| 6. | De uitlaatgassen van personenauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volumepercentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 41 en 43, van toepassing. | – |
-| 7. | Bij personenauto’s in gebruik genomen na 31 december 1992, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxyde van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 42 en 43, van toepassing. | – |
-| 8. | De uitlaatgassen van personenauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 44 en 45, van toepassing. | – |
-| 9. | Personenauto’s met een verbrandingsmotor met elektrische ontsteking die in gebruik zijn genomen na 31 december 1995 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 40 van toepassing. | Visuele controle. |
+| 4. | Personenauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+| 5. | Personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min-1 voor zover het betreft een personenauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min-1 voor zover het betreft een personenauto met een verbrandingsmotor met compressieontsteking. Personenauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min-1. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 30 tot en met 32, van toepassing. |   |
+| 6. | De uitlaatgassen van personenauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volumepercentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 41 en 43, van toepassing. | – |
+| 7. | Bij personenauto’s in gebruik genomen na 31 december 1992, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxyde van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 42 en 43, van toepassing. | – |
+| 8. | De uitlaatgassen van personenauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 44 en 45, van toepassing. | – |
+| 9. | Personenauto’s met een verbrandingsmotor met elektrische ontsteking die in gebruik zijn genomen na 31 december 1995 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 40 van toepassing. | Visuele controle. |
 | 10. | Indien personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van bijlage VIII van toepassing. | – |
 
 ##### Artikel 5.2.12
@@ -1079,7 +1069,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De motorsteunen van personenauto’s moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De motorsteunen van personenauto’s moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De motorsteunen mogen niet in ernstige mate zijn beschadigd, de rubbers mogen niet zijn doorgescheurd en de vulcanisatie mag niet geheel zijn losgeraakt. |   |
 
 #### § 4. Krachtoverbrenging
@@ -1094,7 +1084,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De aandrijving van personenauto’s en de bevestiging daarvan moeten deugdelijk zijn. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
+| 1. | De aandrijving van personenauto’s en de bevestiging daarvan moeten deugdelijk zijn. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
 | 2. | Stofhoezen van aandrijfassen moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 
 #### § 5. Assen
@@ -1103,10 +1093,10 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De assen van personenauto’s moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De assen van personenauto’s moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De assen mogen niet zodanig zijn vervormd dat de sterkte ervan in gevaar wordt gebracht. |   |
 | 3. | De assen mogen niet zodanig zijn bevestigd, beschadigd of vervormd dat het weggedrag nadelig wordt beïnvloed. | De wijze van keuren bij het eerste lid is van toepassing. In geval van twijfel wordt een rijproef uitgevoerd. |
-| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 ##### Artikel 5.2.19
 
@@ -1114,21 +1104,21 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van personenauto’s moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt vindt visuele controle plaats, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ##### Artikel 5.2.20
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van personenauto’s mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van personenauto’s mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel, al dan niet met behulp van apparatuur, wordt rondgedraaid. Zo nodig wordt een rijproef uitgevoerd. |
 
 ##### Artikel 5.2.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wielbasis van personenauto’s mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=0&artikel=5.2.1&z=2014-07-01&g=2014-07-01) getoetst. |
+| 1. | De wielbasis van personenauto’s mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=0&artikel=5.2.1&z=2014-09-03&g=2014-09-03) getoetst. |
 | 2. | Behoudens fabrieksmatige verschillen mag de wielbasis, links en rechts gemeten, niet meer dan 15 mm verschillen. | Visuele controle, waarbij in geval van twijfel wordt gemeten. |
 
 ##### Artikel 5.2.22
@@ -1182,7 +1172,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Personenauto’s moeten zijn voorzien van een goed werkend veersysteem. Banden worden niet als deel van het veersysteem beschouwd. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. In geval van twijfel wordt een rijproef uitgevoerd. |
-| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Personenauto’s moeten zijn voorzien van deugdelijk bevestigde en goed werkende schokdempers. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt, waarbij de personenauto zo mogelijk enkele malen wordt ingeveerd. In geval van twijfel wordt een rijproef uitgevoerd. |
 
 #### § 4. Krachtoverbrenging
@@ -1193,11 +1183,11 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | --- | --- | --- |
 | 1. | De bestuurde wielen van personenauto’s moeten goed reageren op de draaiing van het stuurwiel. | Visuele controle waarbij, met de wielen in de stand van rechtuitrijden, het stuurwiel naar links en naar rechts wordt gedraaid, met een hoekverdraaiing van ten hoogste 15° zo nodig met draaiende motor. De bestuurde wielen moeten hierbij van stand veranderen. |
 | 2. | Bij draaiing van het stuurwiel tot aan de aanslagen mogen geen weerstanden voelbaar zijn en moeten de wielen onderscheidenlijk de banden vrij kunnen draaien. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt waarbij de stuurbekrachtiging buiten werking is gesteld. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand bewogen waarbij de bestuurde wielen gedeeltelijk mogen worden ontlast. |
-| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de personenauto op de wielen rust. |
+| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de personenauto op de wielen rust. |
 | 4. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 5. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 5 en 6: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Hierbij wordt het stuurwiel langzaam naar links en naar rechts gedraaid en axiaal bewogen. |
-| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
+| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing | – Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; |
 |   |   | b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
@@ -1212,12 +1202,12 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Personenauto’s moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen, indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien er sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat over de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
+| 1. | Personenauto’s moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen, indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien er sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat over de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
 | 2. | De rembekrachtiger en de remkrachtregelaar moeten goed functioneren. | – Voor de controle van de vacuüm-rembekrachtiger wordt bij uitgeschakelde motor allereerst de vacuümvoorraad opgebruikt door het rempedaal meerdere malen in te trappen. Vervolgens wordt met ingetrapt rempedaal de motor gestart waarna door de opbouw van het vacuüm het pedaal verder moet wegzakken. |
 |   |   | – Visuele controle van de remkrachtregelaar, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt, waarbij de rem in werking wordt gesteld met draaiende motor. Hierbij wordt de as eventueel ontlast. |
 | 3. | Bij hydraulische remsystemen mag bij het bedienen van het rempedaal de slag van het pedaal niet door een aanslag worden beperkt. | Controle door het rempedaal in te trappen Bij twijfel wordt het pedaal met een kracht van ten hoogste 700N ingetrapt. |
 | 4. | Het oppervlak van het rempedaal moet stroef zijn. | Visuele controle. |
-| 5. | Remslangen mogen: a. niet in ernstige mate zijn misvormd; Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 5. | Remslangen mogen: a. niet in ernstige mate zijn misvormd; Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 6. | Wielen die zijn voorzien van een trommelrem, moeten in onberemde toestand in beide richtingen kunnen draaien zonder dat de remvoering aanloopt. De remvoering van wielen die zijn voorzien van een schijfrem, mag in onberemde toestand in beide richtingen enigszins slepen. | Controle door de wielen vrij van de grond of hefinrichting met de hand rond te draaien. |
 | 7. | De remtrommel of remschijf mag tijdens het remmen niet worden geraakt door delen die zijn bestemd als drager of bevestigingsmiddel van de remvoering. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. Indien de remvoering zonder demontage niet zichtbaar te maken is, wordt de rem in werking gesteld, terwijl het wiel met de hand of met behulp van een wielspinner wordt rondgedraaid. Hierbij mogen geen schurende geluiden van metaal op metaal hoorbaar zijn. |
 | 8. | De noodzakelijke bewegingsvrijheid van de remonderdelen mag niet worden beperkt. | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
@@ -1236,19 +1226,19 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Personenauto’s, in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,8 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 500 N. Bij controle van de remvertraging van personenauto’s is het bepaalde in bijlage VIII, hoofdstuk 1, titel 7, afdeling 2 van toepassing. |   |
-| 2. | Personenauto’s, in gebruik genomen na 30 juni 1967 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,2 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 500 N. Bij controle van de remvertraging van personenauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Leden 1 tot en met 3: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
-| 3. | Personenauto’s, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij controle van de remvertraging van personenauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | Personenauto’s, in gebruik genomen na 30 juni 1967 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,2 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 500 N. Bij controle van de remvertraging van personenauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Leden 1 tot en met 3: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
+| 3. | Personenauto’s, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij controle van de remvertraging van personenauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | De bedrijfsrem moet op alle wielen werken. | Terwijl de wielen zich vrij van de grond of van de hefinrichting bevinden, wordt het rempedaal licht ingetrapt en wordt gecontroleerd of elk wiel wordt geremd. Bij gebruik van een remtestinrichting voor de controle van de remwerking, wordt gelijktijdig hierop gecontroleerd. |
-| 5. | Personenauto’s mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 5 en 6: de wijze van keuren bij het eerste lid is van toepassing. |
-| 6. | In afwijking van het eerste en tweede lid moeten ambulances, kampeerwagens en lijkwagens met een toegestane maximummassa van meer dan 2.500 kg, zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij controle van de remvertraging van deze voertuigen is het bepaalde ten aanzien van personenauto’s in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 5. | Personenauto’s mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 5 en 6: de wijze van keuren bij het eerste lid is van toepassing. |
+| 6. | In afwijking van het eerste en tweede lid moeten ambulances, kampeerwagens en lijkwagens met een toegestane maximummassa van meer dan 2.500 kg, zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij controle van de remvertraging van deze voertuigen is het bepaalde ten aanzien van personenauto’s in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.2.39
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Personenauto’s moeten zijn voorzien van een parkeerrem die op ten minste twee wielen werkt. | Terwijl twee wielen zich vrij van de grond of van de hefinrichting bevinden, wordt de parkeerrem vast aangetrokken en met behulp van de vergrendeling in deze stand gehouden, waarna gecontroleerd wordt of elk van beide wielen wordt geremd. Bij gebruik van een remtestinrichting wordt gelijktijdig hierop gecontroleerd. |
-| 2. | De parkeerrem van personenauto’s, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
-| 3. | De remvertraging van de parkeerrem van personenauto’s, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 2. | De parkeerrem van personenauto’s, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
+| 3. | De remvertraging van de parkeerrem van personenauto’s, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 #### § 9. Carrosserie
 
@@ -1258,13 +1248,13 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | --- | --- | --- |
 | 1. | De deuren van personenauto’s moeten goed sluiten. De deuren die direkt toegang geven tot de personenruimte, moeten op normale wijze vanaf de binnenzijde en vanaf de buitenzijde kunnen worden geopend. | Visuele controle, waarbij de deuren worden geopend en gesloten. |
 | 2. | Het slot en de scharnieren van de motorkap en het kofferdeksel van het voertuig moeten een goede sluiting waarborgen. | Visuele controle, waarbij de motorkap en het kofferdeksel wordt geopend en gesloten. |
-| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 
 ##### Artikel 5.2.42
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van personenauto’s mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing. | Visuele controle. |
+| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van personenauto’s mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing. | Visuele controle. |
 | 2. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van personenauto’s mogen niet zijn voorzien van onnodige voorwerpen die het uitzicht van de bestuurder belemmeren. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 3. | De lichtdoorlatendheid van de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten mag niet minder dan 55% bedragen. | Visuele controle. In geval van twijfel wordt gemeten. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 4. | Indien de personenauto niet is voorzien van een rechterbuitenspiegel, mag de achterruit geen beschadigingen of verkleuringen vertonen. | Visuele controle. |
@@ -1300,7 +1290,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | --- | --- | --- |
 | 1. | Personenauto’s, in gebruik genomen na 21 juli 2013, mogen niet zijn voorzien van zijdelings gerichte zitplaatsen. | Visuele controle. |
 | 2. | Het eerste lid is niet van toepassing op ambulances, personenauto’s ten dienste van de politie of brandweer en andere door de Minister van Infrastructuur en Milieu aangewezen categorieën voertuigen ten dienste van de burgerbescherming of ordehandhaving en op zitplaatsen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig. | – |
-| 3. | De zitplaatsen en rugleuningen van personenauto’s moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
+| 3. | De zitplaatsen en rugleuningen van personenauto’s moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
 
 ##### Artikel 5.2.47
 
@@ -1310,14 +1300,14 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 | 2. | Personenauto’s die na 31 december 1989 doch voor 1 oktober 2000 in gebruik zijn genomen, moeten zijn voorzien van gordels voor alle naar voren gerichte zitplaatsen. |   |
 | 3. | Personenauto’s die na 1 januari 1971 doch voor 1 januari 1990 in gebruik zijn genomen, moeten zijn voorzien van gordels voor de zitplaats van de bestuurder en de naast deze plaats aanwezige zitplaatsen, voor zover deze aan een portier grenzen. | Lid 3 en 4: visuele controle. |
 | 4. | Het eerste, tweede en derde lid zijn niet van toepassing op klapstoelen en zitplaatsen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig. |   |
-| 5. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
+| 5. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
 | 6. | De gordels moeten zijn voorzien van een goed werkende sluiting en een goed werkende blokkering. Oprolmechanismen moeten zodanig functioneren dat de gordel aanligt na het omdoen ervan. | Visuele controle. Hierbij wordt de gordel in de sluiting gebracht. Indien de gordel is voorzien van een oprolmechanisme wordt de gordel omgedaan. De blokkering wordt gecontroleerd door te trekken aan de gordel; indien dit geen uitsluitsel biedt, wordt tijdens een remproef op de weg het blokkeren van de gordel gecontroleerd. |
 
 ##### Artikel 5.2.47a
 
-| 1. | Personenauto’s die na 1 september 2008 in gebruik zijn genomen en zijn ingericht voor het vervoer van één of meer passagiers in een rolstoel moeten voldoen aan de in [artikel 5.2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.78&z=2014-07-01&g=2014-07-01) gestelde eisen. | Lid 1 en 2: visuele controle. Aan deze eisen wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
+| 1. | Personenauto’s die na 1 september 2008 in gebruik zijn genomen en zijn ingericht voor het vervoer van één of meer passagiers in een rolstoel moeten voldoen aan de in [artikel 5.2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.78&z=2014-09-03&g=2014-09-03) gestelde eisen. | Lid 1 en 2: visuele controle. Aan deze eisen wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | --- | --- | --- |
-| 2. | Personenauto’s die zijn voorzien van een ligplaats moeten voldoen aan de in [artikel 5.2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.79&z=2014-07-01&g=2014-07-01) gestelde eisen. |   |
+| 2. | Personenauto’s die zijn voorzien van een ligplaats moeten voldoen aan de in [artikel 5.2.79](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.79&z=2014-09-03&g=2014-09-03) gestelde eisen. |   |
 
 ##### Artikel 5.2.48
 
@@ -1340,7 +1330,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Frontbeschermingsinrichtingen van personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, die na 31 december 2008 in gebruik zijn genomen, moeten zijn goedgekeurd voor het voertuig waarop zij zijn aangebracht en moeten zijn voorzien van een EG-typegoedkeuringsmerk dat voldoet aan de daaromtrent in [bijlage VIII, artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen. | Visuele controle. Indien een EG-typegoedkeuringsmerk aanwezig is, blijft verdere controle achterwege. |
+|   | Frontbeschermingsinrichtingen van personenauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, die na 31 december 2008 in gebruik zijn genomen, moeten zijn goedgekeurd voor het voertuig waarop zij zijn aangebracht en moeten zijn voorzien van een EG-typegoedkeuringsmerk dat voldoet aan de daaromtrent in [bijlage VIII, artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen. | Visuele controle. Indien een EG-typegoedkeuringsmerk aanwezig is, blijft verdere controle achterwege. |
 
 #### § 9. Carrosserie
 
@@ -1348,7 +1338,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Personenauto’s moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met l: visuele controle. – Onderdeel m tot en met p: visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Personenauto’s moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met l: visuele controle. – Onderdeel m tot en met p: visuele controle. In geval van twijfel wordt gemeten. |
 |   | c. twee stadslichten; |   |
 |   | d. twee richtingaanwijzers aan de voorzijde en twee aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant indien het voertuig vóór 1 juli 1967 in gebruik is genomen; het licht van de richtingaanwijzers van personenauto’s die na 30 juni 1967 in gebruik zijn genomen moet knipperen; |   |
 |   | e. waarschuwingsknipperlichten indien het voertuig na 31 december 1997 in gebruik is genomen; |   |
@@ -1360,8 +1350,8 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |   | k. één mistachterlicht indien het voertuig na 31 december 1997 in gebruik is genomen; dit mistachterlicht moet zich bevinden in of links van het middenlangsvlak van het voertuig; |   |
 |   | l. één achteruitrijlicht indien het voertuig na 31 december 1997 in gebruik is genomen; |   |
 |   | m. twee markeringslichten aan de voorzijde en twee aan de achterzijde van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en breder is dan 2,10 m, dan wel voor 1 januari 1998 in gebruik is genomen en breder is dan 2,60 m; |   |
-|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; |   |
-|   | o. ambergele retroreflectoren aan elke zijkant van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; |   |
+|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; |   |
+|   | o. ambergele retroreflectoren aan elke zijkant van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; |   |
 |   | p. een derde remlicht indien het voertuig in gebruik is genomen na 30 september 2001, aangebracht zodanig dat: |   |
 |   | 1°. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en |   |
 |   | 2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in onderdeel h. |   |
@@ -1392,20 +1382,20 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
-| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing |   |
+| 1. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voor zover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
-| 6. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren van het voertuig mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
+| 5. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voor zover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
+| 6. | De in [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren van het voertuig mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
 | 7. | Indien de personenauto is uitgerust met een inrichting waarmee de dimlichtafstelling vanaf de bestuurderszitplaats aan de beladingstoestand kan worden aangepast moet deze inrichting goed werken. | Visuele controle, waarbij de inrichting met de hand wordt bediend. |
 
 ##### Artikel 5.2.56
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het dimlicht van personenauto’s moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 2. | Personenauto’s die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 1. | Het dimlicht van personenauto’s moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 2. | Personenauto’s die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.2.57
 
@@ -1416,25 +1406,25 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 |   | b. meerdere grote lichten, tegelijkertijd mogen niet meer dan vier grote lichten werken; |   |
 |   | c. twee extra stadslichten; |   |
 |   | d. twee extra achterlichten; |   |
-|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | g. twee staaklichten; |   |
 |   | h. parkeerlichten; |   |
 |   | i. één extra mistachterlicht aan de achterzijde van het voertuig; |   |
 |   | j. extra achteruitrijlichten; |   |
 |   | k. twee extra richtingaanwijzers en waarschuwingsknipperlichten aan de voor- en achterzijde van het voertuig; |   |
 |   | l. extra zijrichtingaanwijzers aan beide zijkanten van het voertuig; |   |
-|   | m. ambergele retroreflectoren aan de zijkanten van het voertuig, indien deze retroreflectoren niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht zijn, de achterste retroreflector aan de zijkant mag rood zijn; |   |
+|   | m. ambergele retroreflectoren aan de zijkanten van het voertuig, indien deze retroreflectoren niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht zijn, de achterste retroreflector aan de zijkant mag rood zijn; |   |
 |   | n. witte retroreflectoren aan de voorzijde van het voertuig; |   |
-|   | o. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht zijn, waarbij [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing is; |   |
+|   | o. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht zijn, waarbij [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing is; |   |
 |   | p. werklichten; |   |
-|   | q. een derde remlicht, indien dit licht niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht is, aangebracht overeenkomstig het gestelde in [artikel 5.2.51, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01); |   |
+|   | q. een derde remlicht, indien dit licht niet reeds ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht is, aangebracht overeenkomstig het gestelde in [artikel 5.2.51, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03); |   |
 |   | r. twee dagrijlichten; |   |
 |   | s. verlichte transparanten; |   |
 |   | t. twee bochtlichten; |   |
 |   | u. twee hoeklichten; |   |
 |   | v. één manoeuvreerlicht aan elke zijkant van het voertuig. |   |
-| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.53&z=2014-07-01&g=2014-07-01) met betrekking tot die lichten gestelde eisen. | Lid 2 en 3: visuele controle. |
+| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.53&z=2014-09-03&g=2014-09-03) met betrekking tot die lichten gestelde eisen. | Lid 2 en 3: visuele controle. |
 | 3. | Personenauto’s mogen zijn voorzien van extra rode retroreflecterende voorzieningen aan de achterzijde en extra retroreflecterende voorzieningen aan de zijkanten van het voertuig, welke ambergeel moeten zijn, met uitzondering van de achterste retroreflector aan de zijkant, welke rood mag zijn. |   |
 | 4. | In afwijking van het eerste lid, onderdeel q, mogen twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 5. | Verlichte transparanten: a. moeten afzonderlijk zijn geschakeld; b. mogen niet breder zijn dan het voertuig waarop de verlichting is gemonteerd, en c. mogen niet langer zijn dan het voertuig waarop de verlichting is gemonteerd. | Visuele controle. |
@@ -1462,15 +1452,15 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.2.61
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bij personenauto’s in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01) en [5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-07-01&g=2014-07-01) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Bij personenauto’s in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03) en [5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-09-03&g=2014-09-03) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | Het bepaalde in het eerste lid geldt niet voor de grote lichten, achteruitrijlichten, remlichten, de achterkentekenplaatverlichting, de mistachterlichten en werklichten. | – |
 
 ##### Artikel 5.2.62
@@ -1493,7 +1483,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Personenauto’s mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-07-01&g=2014-07-01), [5.2.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51a&z=2014-07-01&g=2014-07-01), [5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-07-01&g=2014-07-01) en [5.2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Personenauto’s mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.2.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51&z=2014-09-03&g=2014-09-03), [5.2.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.51a&z=2014-09-03&g=2014-09-03), [5.2.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57&z=2014-09-03&g=2014-09-03) en [5.2.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=10&artikel=5.2.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Personenauto’s niet in gebruik bij de in [artikel 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 #### § 11. Verbinding tussen personenauto en aanhangwagen
@@ -1502,14 +1492,14 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Indien de personenauto is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet zijn gescheurd, gebroken, of vervormd of in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie ter plaatse van de bevestiging geschiedt de controle op de wijze zoals bepaald in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01). | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
+|   | Indien de personenauto is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet zijn gescheurd, gebroken, of vervormd of in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie ter plaatse van de bevestiging geschiedt de controle op de wijze zoals bepaald in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03). | Visuele controle, terwijl de personenauto zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ##### Artikel 5.2.67
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Indien een personenauto is voorzien van een koppelingskogel met een kogel moet de diameter van de kogel ten minste 49,0 mm bedragen. | Het bolvormige gedeelte wordt gemeten met een geschikt meetmiddel. |
-| 2. | Bij personenauto’s die zijn voorzien van andere inrichtingen tot het koppelen van een aanhangwagen dan bedoeld in het eerste lid, moet worden voldaan aan het bepaalde bij of krachtens [artikel 5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-07-01&g=2014-07-01). | De wijze van keuren bij [artikel 5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-07-01&g=2014-07-01) is van toepassing. |
+| 2. | Bij personenauto’s die zijn voorzien van andere inrichtingen tot het koppelen van een aanhangwagen dan bedoeld in het eerste lid, moet worden voldaan aan het bepaalde bij of krachtens [artikel 5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-09-03&g=2014-09-03). | De wijze van keuren bij [artikel 5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-09-03&g=2014-09-03) is van toepassing. |
 
 #### § 12. Diversen
 
@@ -1529,14 +1519,14 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Een taxi waarvoor een goedkeuringsdocument is afgegeven, moet in aanvulling op de eisen opgenomen in de [paragrafen 0 tot en met 12 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=0&z=2014-07-01&g=2014-07-01) voldoen aan de in deze paragraaf opgenomen eisen. | – |
+| 1. | Een taxi waarvoor een goedkeuringsdocument is afgegeven, moet in aanvulling op de eisen opgenomen in de [paragrafen 0 tot en met 12 van deze afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=0&z=2014-09-03&g=2014-09-03) voldoen aan de in deze paragraaf opgenomen eisen. | – |
 | 2. | Deze paragraaf is van overeenkomstige toepassing op personenauto’s bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1), hetgeen blijkt uit een vermelding in het kentekenregister. | – |
 
 ##### Artikel 5.2.74
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | De inrichting van een taxi moet overeenstemmen met het goedkeuringsdocument bedoeld in [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.15&z=2014-07-01&g=2014-07-01), tenzij in deze afdeling anders is bepaald. | Visuele controle. |
+|   | De inrichting van een taxi moet overeenstemmen met het goedkeuringsdocument bedoeld in [artikel 3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.15&z=2014-09-03&g=2014-09-03), tenzij in deze afdeling anders is bepaald. | Visuele controle. |
 
 ##### Artikel 5.2.75
 
@@ -1576,7 +1566,7 @@ Een personenauto moet voldoen aan de in deze afdeling opgenomen eisen en wordt b
 
 ##### Artikel 5.3.0
 
-Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kentekenregister de aanduiding ‘bus’ dan wel ‘autobus’ is vermeld, moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kentekenregister de aanduiding ‘bus’ dan wel ‘autobus’ is vermeld, moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 0. Algemeen
 
@@ -1584,7 +1574,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De bedrijfsauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |
+| 1. | De bedrijfsauto moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |
 | 2. | De bedrijfsauto moet zijn voorzien van de juiste kentekenplaten. |   |
 | 3. | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd. | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 4. | Het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd. | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m vóór dan wel achter het midden van de bedrijfsauto staat. |
@@ -1599,14 +1589,14 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 |   | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van bedrijfsauto’s mogen: | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 |   | a. geen breuken of scheuren vertonen; |   |
-|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing |   |
+|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing |   |
 
 ##### Artikel 5.3.4
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | De bovenbouw van bedrijfsauto’s moet deugdelijk op het onderstel zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
-| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 #### § 2. Afmetingen en massa’s
 
@@ -1614,7 +1604,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bedrijfsauto’s mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Leden 1 tot en met 3: visuele controle. In geval van twijfel wordt de bedrijfsauto gemeten, waarbij de in het eerste lid, onderdeel a, en tweede lid, bedoelde maten niet meer dan 1% mogen afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) is van toepassing. |
+| 1. | Bedrijfsauto’s mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Leden 1 tot en met 3: visuele controle. In geval van twijfel wordt de bedrijfsauto gemeten, waarbij de in het eerste lid, onderdeel a, en tweede lid, bedoelde maten niet meer dan 1% mogen afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) is van toepassing. |
 | 2. | In afwijking van het bepaalde in het eerste lid, onderdeel a, mogen: |   |
 |   | a. rijdende werktuigen niet langer zijn dan 20,00 m, en |   |
 |   | b. kermis- en circusvoertuigen niet langer zijn dan 14,00 m. |   |
@@ -1637,7 +1627,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Alle onderdelen van brandstofsystemen van bedrijfsauto’s moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Alle onderdelen van brandstofsystemen van bedrijfsauto’s moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Brandstofsystemen mogen geen lekkage vertonen. | – Visuele controle, terwijl de bedrijfsauto zich met draaiende respectievelijk niet-draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 |   |   | – Indien de motor van de bedrijfsauto is uitgerust met meer dan één brandstofsysteem, wordt de controle uitgevoerd wanneer de motor wordt gevoed met de hoofdbrandstof zoals deze is vermeld in het kentekenregister. Het tweede brandstofsysteem wordt eveneens gecontroleerd indien het mogelijk is de motor op de tweede brandstof te laten draaien. Indien controle van het tweede brandstofsysteem niet mogelijk is, wordt dit vermeld op het keuringsrapport. |
 |   |   | – Een installatie voor een al dan niet tot vloeistof verdicht gas wordt gecontroleerd met behulp van een middel dat lekkage zichtbaar maakt, waarbij het contact moet zijn ingeschakeld. |
@@ -1647,7 +1637,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de bedrijfsauto is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.3.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de bedrijfsauto is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.3.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De LPG tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Visuele controle, zo nodig terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | De LPG-tank mag niet in de motorruimte zijn geplaatst. | Lid 3 en 4: visuele controle. |
 | 4. | De LPG tank moet zijn voorzien van een deugdelijke gasdichte kast, die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst. |   |
@@ -1660,7 +1650,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de bedrijfsauto is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.3.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de bedrijfsauto is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.3.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De CNG-tank: a. moet permanent zijn aangebracht aan het voertuig, en b. mag geen deuken vertonen. | Visuele controle, zo nodig terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | De CNG-tank mag niet in de motorruimte zijn geplaatst. | Visuele controle. |
 | 4. | De vervaldatum van de goedkeuring, en indien van toepassing van de herkwalificatie, van een CNG-tank, mag niet verstreken zijn. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
@@ -1677,13 +1667,13 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 1. | Bedrijfsauto’s met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes. | Visuele en auditieve controle, terwijl de bedrijfsauto zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Bedrijfsauto’s moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 595/2009. | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
-| 4. | Bedrijfsauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+| 4. | Bedrijfsauto’s mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
 | 5. | Bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min-1 voor zover het betreft een bedrijfsauto met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min-1 voor zover het betreft een bedrijfsauto met een verbrandingsmotor met compressieontsteking. Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min-1. Hierbij is het bepaalde in bijlage VIII, artikelen 30 tot en met 32, van toepassing. |   |
-| 6. | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 41 en 43, van toepassing. | – |
-| 7. | Bij bedrijfsauto’s in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 42 en 43, van toepassing. | – |
-| 8. | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 44 en 45, van toepassing. | – |
-| 9. | Bedrijfsauto's met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 40 van toepassing. | Visuele controle. |
-| 10. | Indien bedrijfsauto’s met een toegestane maximum massa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing. | – |
+| 6. | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 41 en 43, van toepassing. | – |
+| 7. | Bij bedrijfsauto’s in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 42 en 43, van toepassing. | – |
+| 8. | De uitlaatgassen van bedrijfsauto’s met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 44 en 45, van toepassing. | – |
+| 9. | Bedrijfsauto's met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 40 van toepassing. | Visuele controle. |
+| 10. | Indien bedrijfsauto’s met een toegestane maximum massa van niet meer dan 3.500 kg, die in gebruik zijn genomen na 31 december 2005, met een verbrandingsmotor met elektrische ontsteking welke uitsluitend wordt gevoed door benzine, dan wel met een verbrandingsmotor met compressie-ontsteking, zijn voorzien van een emissiegerelateerd diagnostisch boordsysteem moet dit systeem zijn voorzien van een goed functionerende waarschuwingsinrichting, en mag het systeem geen emissiegerelateerde fouten bevatten. Hierbij is het bepaalde in de artikelen 45a tot en met 45d van [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing. | – |
 
 ##### Artikel 5.3.12
 
@@ -1696,7 +1686,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De motorsteunen van bedrijfsauto’s moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De motorsteunen van bedrijfsauto’s moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De motorsteunen mogen niet in ernstige mate zijn beschadigd, de rubbers mogen niet zijn doorgescheurd en de vulcanisatie mag niet geheel zijn losgeraakt. |   |
 
 #### § 1. Algemene bouwwijze van het voertuig
@@ -1722,7 +1712,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De aandrijving van bedrijfsauto’s en de bevestiging daarvan moeten deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
+| 1. | De aandrijving van bedrijfsauto’s en de bevestiging daarvan moeten deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
 | 2. | Stofhoezen van aandrijfassen moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 
 #### § 1. Algemene bouwwijze van het voertuig
@@ -1731,10 +1721,10 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De assen van bedrijfsauto’s moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De assen van bedrijfsauto’s moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De assen mogen niet zodanig zijn vervormd dat de sterkte ervan in gevaar wordt gebracht. |   |
 | 3. | De assen mogen niet zodanig zijn bevestigd, beschadigd of vervormd dat het weggedrag nadelig wordt beïnvloed. | De wijze van keuren bij het eerste lid is van toepassing. Bij bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 ##### Artikel 5.3.19
 
@@ -1742,21 +1732,21 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van bedrijfsauto’s moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ##### Artikel 5.3.20
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van bedrijfsauto’s mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van bedrijfsauto’s mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – De speling wordt op de juiste wijze zichtbaar gemaakt. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. Indien het een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt zonodig een rijproef uitgevoerd. |
 
 ##### Artikel 5.3.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wielbasis van bedrijfsauto’s mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=0&artikel=5.3.1&z=2014-07-01&g=2014-07-01) getoetst. |
+| 1. | De wielbasis van bedrijfsauto’s mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=0&artikel=5.3.1&z=2014-09-03&g=2014-09-03) getoetst. |
 | 2. | Behoudens fabrieksmatige verschillen mag de wielbasis links en rechts gemeten niet meer dan: a.15 mm verschillen bij bedrijfsauto’s met een toegestane maximummassa van ten hoogste 3.500 kg, en b. 0,5% afwijken van de hoogst gemeten waarde bij bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg. | Visuele controle, waarbij in geval van twijfel wordt gemeten. |
 
 ##### Artikel 5.3.22
@@ -1804,7 +1794,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 4. | De profilering van de hoofdgroeven van de banden van bedrijfsauto’s moet over de gehele omtrek van het loopvlak ten minste 1,6 mm bedragen, met uitzondering van slijtage-indicatoren. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt, waarbij het wiel wordt rondgedraaid. In geval van twijfel wordt de profieldiepte gemeten met de profieldieptemeter. De minimale profieldiepte wordt gemeten in de brede groeven waarin door de fabrikant de maximale diepte is bepaald, alsmede in de groeven waarin een slijtage-indicator aanwezig is. |
 | 5. | De banden van bedrijfsauto’s mogen niet zijn nageprofileerd. Van naprofileren is sprake indien slijtage-indicatoren zijn weggesneden, indien de profielvorm van de groef afwijkt van de originele profielvorm, of indien in de bodem van de groef het karkas van de band zichtbaar is. In afwijking van het hiervoor bepaalde is naprofileren toegestaan indien de mogelijkheid daartoe op de band is vermeld door de aanduiding ‘REGROOVABLE’ of door het teken met dien verstande dat het karkas van de band niet zichtbaar mag zijn. | De wijze van keuren bij het tweede lid is van toepassing. |
 | 6. | De op de band aangegeven draairichting moet overeenkomen met de draairichting van het wiel in voorwaartse rijrichting van de bedrijfsauto. Een band moet zodanig gemonteerd zijn dat dit overeenkomt met de door de bandenfabrikant aangebrachte markering op de band die de draairichting of de binnenkant of buitenkant aangeeft. | Lid 6 en 7: visuele controle. |
-| 7. | De op de band van een bedrijfsauto, in gebruik genomen na 31 december 1997, vermelde loadindex mag niet kleiner zijn dan de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 7. | De op de band van een bedrijfsauto, in gebruik genomen na 31 december 1997, vermelde loadindex mag niet kleiner zijn dan de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 8. | Het loopvlak van de banden mag geen metalen elementen bevatten die tijdens het rijden daarbuiten kunnen uitsteken. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 9. | De banden op één as moeten dezelfde maataanduiding hebben, behalve wanneer een nood- of reservewiel wordt gebruikt. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport is een nood- of reservewiel met een afwijkende maataanduiding niet toegestaan. |
 | 10. | Bij bedrijfsauto’s met een maximummassa van niet meer dan 3.500 kg moeten de banden een juiste bandenspanning hebben zoals deze door de voertuigfabrikant is voorgeschreven voor het betreffende voertuig. Indien geen bandenspanning door de voertuigfabrikant is voorgeschreven, moeten de banden op één as een gelijke bandenspanning hebben. | – Visuele controle met behulp van een doelmatige bandenspanningsmeter. – De juiste minimale bandenspanning wordt vastgesteld aan de hand van de in of op het voertuig aanwezige bandenspanningstabel. – Indien een differentiatie in bandenmaat is gegeven moet hiermee rekening gehouden worden. – Indien de gemonteerde bandenmaat niet vermeld wordt moet de voorgeschreven spanning van de meest overeenkomende bandenmaat gebruikt worden. |
@@ -1818,7 +1808,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bedrijfsauto’s moeten zijn voorzien van een goed werkend veersysteem. Banden worden niet als deel van het veersysteem beschouwd. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Indien het een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt zonodig een rijproef uitgevoerd. |
-| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Bedrijfsauto’s die zijn voorzien van gasvering, en bedrijfsauto’s met een toegestane maximummassa van ten hoogste 3.500 kg, moeten zijn voorzien van goed werkende schokdempers. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt, Een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg wordt zo mogelijk enkele malen ingeveerd en zonodig aan een rijproef onderworpen. |
 | 4. | Schokdempers van bedrijfsauto’s moeten deugdelijk zijn bevestigd. | De wijze van keuren bij het tweede lid is van toepassing. |
 
@@ -1830,11 +1820,11 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | De bestuurde wielen van bedrijfsauto’s moeten goed reageren op de draaiing van het stuurwiel. | Visuele controle waarbij, met de wielen in de stand van rechtuitrijden, het stuurwiel naar links en naar rechts wordt gedraaid met een hoekverdraaing van ten hoogste 15°, bij bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en 30° bij bedrijfauto’s met een toegestane maximummassa van meer dan 3.500 kg, zo nodig met draaiende motor. De bestuurde wielen moeten hierbij van stand veranderen. |
 | 2. | Bij draaiing van het stuurwiel tot aan de aanslagen mogen geen weerstanden voelbaar zijn en moeten de wielen onderscheidenlijk de banden vrij kunnen draaien. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt waarbij de stuurbekrachtiging buiten werking is gesteld. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand bewogen waarbij de bestuurde wielen gedeeltelijk mogen worden ontlast. |
-| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de bedrijfsauto op de wielen rust. |
+| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de bedrijfsauto op de wielen rust. |
 | 4. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 5. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 5 en 6: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Hierbij wordt het stuurwiel langzaam naar links en naar rechts gedraaid en axiaal bewogen. |
-| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing |   |
-| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
+| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing |   |
+| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; |
 |   |   | b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
@@ -1849,13 +1839,13 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bedrijfsauto’s moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele of auditieve controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat omtrent de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
+| 1. | Bedrijfsauto’s moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele of auditieve controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat omtrent de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
 | 2. | De rembekrachtiger en de hydraulische remkrachtregelaar moeten goed functioneren. | – Voor de controle van de vacuüm-rembekrachtiger wordt bij uitgeschakelde motor allereerst de vacuümvoorraad opgebruikt door het rempedaal meerdere malen in te trappen. Vervolgens wordt met ingetrapt rempedaal de motor gestart waarna door de opbouw van het vacuüm het pedaal verder moet wegzakken. |
 |   |   | – Visuele controle van de remkrachtregelaar, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt, waarbij de rem in werking wordt gesteld met draaiende motor. Hierbij wordt de as eventueel ontlast. |
 | 3. | De compressor en de drukregelaar moeten goed functioneren en tijdig in werking treden. | Visuele controle met behulp van de dashboardmeter(s) door bij draaiende motor het rempedaal diverse malen in te trappen. |
 | 4. | Bij hydraulische remsystemen mag bij het bedienen van het rempedaal de slag van het pedaal niet door een aanslag worden beperkt. | Controle door het rempedaal in te trappen. Bij twijfel wordt het pedaal met een kracht van ten hoogste 700N ingetrapt. |
 | 5. | Het oppervlak van het rempedaal moet stroef zijn. | Visuele controle. |
-| 6. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 6. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 7. | Kunststofremleidingen mogen geen knikken vertonen. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 8. | Wielen die zijn voorzien van een trommelrem, moeten in onberemde toestand in beide richtingen kunnen draaien zonder dat de remvoering aanloopt. De remvoering van wielen die zijn voorzien van een schijfrem, mag in onberemde toestand in beide richtingen enigszins slepen. | Controle door de wielen vrij van de grond of hefinrichting met de hand rond te draaien. |
 | 9. | De remtrommel of remschijf mag tijdens het remmen niet worden geraakt door delen die zijn bestemd als drager of bevestigingsmiddel van de remvoering. | Visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. Indien de remvoering niet zonder demontage zichtbaar te maken is, moet de rem in werking worden gesteld terwijl het wiel met de hand of met behulp van een wielspinner wordt rondgedraaid. Hierbij mogen geen schurende geluiden van metaal op metaal hoorbaar zijn. |
@@ -1927,20 +1917,20 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bedrijfsauto’s, in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,0 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij controle van de remvertraging van bedrijfsauto’s is het bepaalde in bijlage VIII, hoofdstuk 1, titel 7, afdeling 2 van toepassing. |   |
-| 2. | Bedrijfsauto’s, in gebruik genomen na 31 december 1997 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Leden 1 tot en met 4: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
-| 3. | Bedrijfsauto’s, in gebruik genomen na 30 juni 1967 doch voor 1 januari 1998, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 4. | Bedrijfsauto’s, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in bijlage [VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 5. | Indien de remkrachten van de bedrijfsauto groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste en tweede lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 2. | Bedrijfsauto’s, in gebruik genomen na 31 december 1997 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Leden 1 tot en met 4: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
+| 3. | Bedrijfsauto’s, in gebruik genomen na 30 juni 1967 doch voor 1 januari 1998, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 4. | Bedrijfsauto’s, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van bedrijfsauto’s is het bepaalde in bijlage [VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 5. | Indien de remkrachten van de bedrijfsauto groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste en tweede lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 | 6. | De bedrijfsrem moet op alle wielen werken. | Terwijl de wielen zich vrij van de grond of van de hefinrichting bevinden, wordt het rempedaal licht ingetrapt en wordt gecontroleerd of elk wiel wordt geremd. Bij gebruik van een remtestinrichting voor de controle van de remwerking, wordt gelijktijdig hierop gecontroleerd. |
-| 7. | Bedrijfsauto’s mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 7. | Bedrijfsauto’s mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 ##### Artikel 5.3.39
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bedrijfsauto’s moeten zijn voorzien van een parkeerrem die op ten minste twee wielen van één niet hefbare as werkt. | Terwijl twee wielen zich vrij van de grond of van de hefinrichting bevinden, wordt de parkeerrem vast aangetrokken en met behulp van de vergrendeling in deze stand gehouden, waarna gecontroleerd wordt of elk van beide wielen wordt geremd. Bij gebruik van een remtestinrichting wordt gelijktijdig hierop gecontroleerd. |
-| 2. | De parkeerrem van bedrijfsauto’s, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
-| 3. | De remvertraging van de parkeerrem van bedrijfsauto’s, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 2. | De parkeerrem van bedrijfsauto’s, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
+| 3. | De remvertraging van de parkeerrem van bedrijfsauto’s, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 #### § 9. Carrosserie
 
@@ -1950,13 +1940,13 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | De deuren en de laadbakkleppen van bedrijfsauto’s moeten goed sluiten. De deuren die direct toegang geven tot de personenruimte, moeten op normale wijze vanaf de binnenzijde en vanaf de buitenzijde kunnen worden geopend. | Visuele controle, waarbij de deuren worden geopend en gesloten. |
 | 2. | Het slot en de scharnieren van de motorkap en het kofferdeksel van het voertuig moeten een goede sluiting waarborgen. | Visuele controle, waarbij de motorkap en het kofferdeksel wordt geopend en gesloten. |
-| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 
 ##### Artikel 5.3.42
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bedrijfsauto’s mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 100](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bedrijfsauto’s mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 100](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 | 2. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bedrijfsauto’s mogen niet zijn voorzien van onnodige voorwerpen die het uitzicht van de bestuurder belemmeren. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 3. | De lichtdoorlatendheid van de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten mag niet minder dan 55% bedragen. | Visuele controle, in geval van twijfel wordt gemeten. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport |
 | 4. | Indien de bedrijfsauto niet is voorzien van een rechterbuitenspiegel, mag de achterruit geen beschadigingen of verkleuringen vertonen. | Visuele controle. |
@@ -2010,7 +2000,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | Bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg, in gebruik genomen na 21 januari 2014, mogen niet zijn voorzien van zijdelings gerichte zitplaatsen. | Visuele controle. |
 | 2. | Het eerste lid is niet van toepassing op ambulances, bedrijfsauto’s ten dienste van de politie of brandweer en andere door de Minister van Infrastructuur en Milieu aangewezen categorieën voertuigen ten dienste van de burgerbescherming of ordehandhaving en op zitplaatsen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig. | – |
-| 3. | De zitplaatsen en rugleuningen van bedrijfsauto’s moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
+| 3. | De zitplaatsen en rugleuningen van bedrijfsauto’s moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
 
 ##### Artikel 5.3.47
 
@@ -2018,14 +2008,14 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | bedrijfsauto’s, die na 31 december 1997 in gebruik zijn genomen, moeten zijn voorzien van gordels voor: a. de zitplaats van de bestuurder en de ernaast gelegen naar voren gerichte zitplaatsen, en b. de overige naar voren gerichte zitplaatsen indien op een afstand van maximaal 1.30 m voor de rugleuning van deze zitplaats zich geen veiligheidsscherm of rugleuning van een ervoor gelegen zitplaats bevindt. | Visuele controle. Indien in het middelste gedeelte van een bank geen gordel aanwezig is, wordt dit gedeelte niet aangemerkt als zitplaats. In geval van een kampeerwagen is de controle beperkt tot de voorste zitplaatsen en tot de overige zitplaatsen voor zover deze zijn voorzien van gordels. |
 | 2. | Het eerste lid is niet van toepassing op klapstoelen en zitplaatsen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig. | Visuele controle. |
-| 3. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
+| 3. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
 | 4. | De gordels moeten zijn voorzien van een goed werkende sluiting en een goed werkende blokkering. Oprolmechanismen moeten zodanig functioneren dat de gordel aanligt na het omdoen ervan. | Visuele controle. Hierbij wordt de gordel in de sluiting gebracht. Indien de gordel is voorzien van een oprolmechanisme wordt de gordel omgedaan. De blokkering wordt gecontroleerd door te trekken aan de gordel; indien dit geen uitsluitsel biedt, moet bij een bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg tijdens een remproef op de weg het blokkeren van de gordel worden gecontroleerd. |
 
 ##### Artikel 5.3.47a
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Bedrijfsauto’s die na 1 september 2008 in gebruik zijn genomen en zijn ingericht voor het vervoer van één of meer passagiers in een rolstoel moeten voldoen aan de in [artikel 5.2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.78&z=2014-07-01&g=2014-07-01) gestelde eisen. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
+|   | Bedrijfsauto’s die na 1 september 2008 in gebruik zijn genomen en zijn ingericht voor het vervoer van één of meer passagiers in een rolstoel moeten voldoen aan de in [artikel 5.2.78](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=13&artikel=5.2.78&z=2014-09-03&g=2014-09-03) gestelde eisen. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 ##### Artikel 5.3.48
 
@@ -2035,7 +2025,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 2. | Onverminderd het bepaalde in het eerste lid moeten uitstekende delen van bedrijfsauto’s, die in geval van botsing het gevaar voor lichamelijk letsel voor andere weggebruikers aanzienlijk kunnen vergroten, zijn afgeschermd. |   |
 | 3. | Het bepaalde in het eerste en tweede lid is niet van toepassing op voertuigdelen die zich hoger dan 2,00 m boven het wegdek bevinden. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 4. | De wielen onderscheidenlijk banden van bedrijfsauto’s: | Leden 4 tot en met 6: visuele controle. |
-| 5. | Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Deze verplichting geldt niet voor opleggertrekkers. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 107 tot en met 111, van toepassing. |   |
+| 5. | Bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Deze verplichting geldt niet voor opleggertrekkers. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 107 tot en met 111, van toepassing. |   |
 | 6. | Geen deel aan de buitenzijde van de bedrijfsauto mag zodanig zijn bevestigd, beschadigd, versleten of door corrosie zijn aangetast, dat gevaar bestaat voor losraken. |   |
 
 ##### Artikel 5.3.49
@@ -2072,7 +2062,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Frontbeschermingsinrichtingen van bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3500 kg, die na 31 december 2008 in gebruik zijn genomen, moeten zijn goedgekeurd voor het voertuig waarop zij zijn aangebracht en moeten zijn voorzien van een EG-typegoedkeuringsmerk dat voldoet aan de daaromtrent in [bijlage VIII, artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen. | Visuele controle. Indien een EG-typegoedkeuringsmerk aanwezig is blijft verdere controle achterwege. |
+|   | Frontbeschermingsinrichtingen van bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3500 kg, die na 31 december 2008 in gebruik zijn genomen, moeten zijn goedgekeurd voor het voertuig waarop zij zijn aangebracht en moeten zijn voorzien van een EG-typegoedkeuringsmerk dat voldoet aan de daaromtrent in [bijlage VIII, artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen. | Visuele controle. Indien een EG-typegoedkeuringsmerk aanwezig is blijft verdere controle achterwege. |
 
 #### § 9. Carrosserie
 
@@ -2080,7 +2070,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bedrijfsauto’s moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met e: visuele controle. – Onderdeel f: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen g tot en met k: visuele controle. – Onderdelen l tot en met r: visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Bedrijfsauto’s moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met e: visuele controle. – Onderdeel f: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen g tot en met k: visuele controle. – Onderdelen l tot en met r: visuele controle. In geval van twijfel wordt gemeten. |
 |   | c. twee stadslichten; |   |
 |   | d. twee richtingaanwijzers aan de voorzijde en twee aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant indien het voertuig vóór 1 juli 1967 in gebruik is genomen; het licht van de richtingaanwijzers van bedrijfsauto`s in gebruik genomen na 30 juni 1967 moet knipperen; |   |
 |   | e. waarschuwingsknipperlichten indien het voertuig na 31 december 1997 in gebruik is genomen; |   |
@@ -2092,11 +2082,11 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | k. één mistachterlicht indien het voertuig na 31 december 1997 in gebruik is genomen; dit mistachterlicht moet zich bevinden in of links van het middenlangsvlak van het voertuig; |   |
 |   | l. één achteruitrijlicht indien het voertuig na 31 december 1997 in gebruik is genomen en twee achteruitrijlichten indien het voertuig langer is dan 6,00 m en na 31 december 2012 in gebruik is genomen; |   |
 |   | m. twee markeringslichten aan de voorzijde en twee aan de achterzijde van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en breder is dan 2,10 m, dan wel voor 1 januari 1998 in gebruik is genomen en breder is dan 2,60 m; |   |
-|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. Deze lichten zijn niet verplicht voor chassiscabines; |   |
+|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. Deze lichten zijn niet verplicht voor chassiscabines; |   |
 |   | o. ambergele retroreflectoren aan elke zijkant van het voertuig indien het voertuig langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in bijlage VIII, artikelen 119 tot en met 122, van toepassing; |   |
 |   | p. een derde remlicht indien de toegestane maximummassa van het voertuig niet meer bedraagt dan 3.500 kg en het voertuig in gebruik is genomen na 31 december 2012, aangebracht zodanig dat: het derde remlicht is niet verplicht voor chassiscabines, opleggertrekkers en voertuigen met een open laadbak; |   |
-|   | q. lijnmarkering aan de achterzijde indien het voertuig breder is dan 2,10 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153, van toepassing; |   |
-|   | r. lijnmarkering aan de zijkant indien het voertuig langer is dan 6,00 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153, van toepassing. |   |
+|   | q. lijnmarkering aan de achterzijde indien het voertuig breder is dan 2,10 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153, van toepassing; |   |
+|   | r. lijnmarkering aan de zijkant indien het voertuig langer is dan 6,00 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 7.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153, van toepassing. |   |
 | 2. | Onverminderd het eerste lid, voldoen begeleidingsvoertuigen als bedoeld in [artikel 1, onderdeel a, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=1), aan de krachtens [artikel 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=71) gestelde eisen. | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 3. | In afwijking van het eerste lid, onderdeel p, moeten twee extra remlichten worden aangebracht indien het derde remlicht niet op een vast deel van de carrosserie of bovenbouw binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. | Leden 3 en 4: visuele controle. |
 | 4. | Het eerste lid, onderdelen q en r, is niet van toepassing op opleggertrekkers. |   |
@@ -2125,20 +2115,20 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
-| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
-| 6. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
+| 5. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
+| 6. | De in [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
 | 7. | Indien de bedrijfsauto is uitgerust met een inrichting waarmee de dimlichtafstelling vanaf de bestuurderszitplaats aan de beladingstoestand kan worden aangepast, moet deze inrichting goed werken. | Visuele controle, waarbij de inrichting met de hand wordt bediend. |
 
 ##### Artikel 5.3.56
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het dimlicht van bedrijfsauto’s moet goed zijn afgesteld, hierbij is het gestelde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 2. | Bedrijfsauto’s die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 1. | Het dimlicht van bedrijfsauto’s moet goed zijn afgesteld, hierbij is het gestelde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 2. | Bedrijfsauto’s die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.3.57
 
@@ -2147,8 +2137,8 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 1. | Bedrijfsauto’s mogen zijn voorzien van: a. twee mistvoorlichten; b. meerdere grote lichten, tegelijkertijd mogen niet meer dan vier grote lichten werken; | – Onderdelen a tot en met r: visuele controle. – Onderdeel s: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen t tot en met aa: visuele controle. |
 |   | c. twee extra stadslichten; |   |
 |   | d. twee extra achterlichten; |   |
-|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | g. twee staaklichten; |   |
 |   | h. één extra mistachterlicht; |   |
 |   | i. extra achteruitrijlichten; |   |
@@ -2158,9 +2148,9 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | m. waarschuwingsknipperlichten aan het meest naar achteren gelegen gedeelte van de zich aan de zij- of achterkant van het voertuig bevindende laad- en losklep in horizontale stand; |   |
 |   | n. ambergele retroreflectoren aan de zijkanten van het voertuig indien het voertuig niet langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn; |   |
 |   | o. witte retroreflectoren aan de voorzijde van het voertuig; |   |
-|   | p. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht zijn, waarbij [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing is; |   |
+|   | p. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht zijn, waarbij [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing is; |   |
 |   | q. werklichten; |   |
-|   | r. een derde remlicht, indien dit niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht is, aangebracht overeenkomstig het gestelde in [artikel 5.3.51, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01); |   |
+|   | r. een derde remlicht, indien dit niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht is, aangebracht overeenkomstig het gestelde in [artikel 5.3.51, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03); |   |
 |   | s. in afwijking van onderdeel r, mogen bij bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd; |   |
 |   | t. in afwijking van onderdeel r, mogen bij bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg twee extra remlichten worden aangebracht; |   |
 |   | u. twee dagrijlichten; |   |
@@ -2168,9 +2158,9 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | w. twee bochtlichten; |   |
 |   | x. twee hoeklichten; |   |
 |   | y. een markering aan de achterzijde van het voertuig, indien de toegestane maximum massa van het voertuig meer bedraagt dan 3.500 kg; |   |
-|   | z. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering, aan de zijkant en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig, voor zover deze niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht is; hierbij is [bijlage VIII, artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; |   |
+|   | z. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering, aan de zijkant en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig, voor zover deze niet reeds ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht is; hierbij is [bijlage VIII, artikel 153](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; |   |
 |   | aa. één manoeuvreerlicht aan elke zijkant van het voertuig. |   |
-| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.53&z=2014-07-01&g=2014-07-01) met betrekking tot die lichten gestelde eisen. | Leden 2 en 3: visuele controle. |
+| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.3.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.53&z=2014-09-03&g=2014-09-03) met betrekking tot die lichten gestelde eisen. | Leden 2 en 3: visuele controle. |
 | 3. | Bedrijfsauto’s mogen zijn voorzien van extra rode retroreflectoren aan de achterzijde en extra ambergele retroreflectoren aan de zijkanten van het voertuig. |   |
 | 4. | De extra achteruitrijlichten, bedoeld in het eerste lid, onderdeel i, mogen aan de zijkant van het voertuig zijn gemonteerd. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 5. | Verlichte transparanten: a. moeten afzonderlijk zijn geschakeld; b. mogen niet breder zijn dan het voertuig waarop de verlichting is gemonteerd, en c. mogen niet langer zijn dan het voertuig waarop de verlichting is gemonteerd. | Visuele controle. |
@@ -2201,15 +2191,15 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.3.61
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bij bedrijfsauto’s in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01) en [5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-07-01&g=2014-07-01) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Bij bedrijfsauto’s in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03) en [5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-09-03&g=2014-09-03) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | Het bepaalde in het eerste lid geldt niet voor de grote lichten, achteruitrijlichten, remlichten, de achterkentekenplaatverlichting, de markering aan de achterzijde van het voertuig, mistachterlichten en werklichten. | – |
 
 ##### Artikel 5.3.62
@@ -2232,7 +2222,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bedrijfsauto’s mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-07-01&g=2014-07-01), [5.3.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51a&z=2014-07-01&g=2014-07-01), [5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-07-01&g=2014-07-01) en [5.3.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Bedrijfsauto’s mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.3.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51&z=2014-09-03&g=2014-09-03), [5.3.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.51a&z=2014-09-03&g=2014-09-03), [5.3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-09-03&g=2014-09-03) en [5.3.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Bedrijfsauto’s niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 #### § 11. Verbinding tussen bedrijfsauto en aanhangwagen
@@ -2241,7 +2231,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de bedrijfsauto is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet gescheurd, gebroken, vervormd, in ernstige mate door corrosie zijn aangetast, dan wel overmatig gesleten zijn, onverminderd het bepaalde in [artikel 5.3.68, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-07-01&g=2014-07-01). Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Indien de bedrijfsauto is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet gescheurd, gebroken, vervormd, in ernstige mate door corrosie zijn aangetast, dan wel overmatig gesleten zijn, onverminderd het bepaalde in [artikel 5.3.68, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-09-03&g=2014-09-03). Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bedrijfsauto zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De achtertraverse met inbegrip van alle profielen die daar deel van uitmaken, moet deugdelijk zijn bevestigd en mag: |   |
 |   | a. geen breuken of scheuren vertonen, en |   |
 |   | b. niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak. |   |
@@ -2290,7 +2280,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 ##### Artikel 5.3a.0
 
-1. Een bus moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+1. Een bus moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 2. Deze afdeling is van overeenkomstige toepassing op een bedrijfsauto waarvoor in het kentekenregister de aanduiding ‘bus’ dan wel ‘autobus’ is vermeld.
 
@@ -2300,7 +2290,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De bus moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Leden 1 tot en met 3: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |
+| 1. | De bus moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Leden 1 tot en met 3: visuele controle. Tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |
 | 2. | De bus moet zijn voorzien van de juiste kentekenplaten. |   |
 | 3. | De kentekenplaten moeten zijn voorzien van het in [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) voorgeschreven goedkeuringsmerk en moeten deugdelijk aan de voor- en achterzijde van het voertuig zijn bevestigd. |   |
 | 4. | Het kenteken moet goed leesbaar zijn en de kentekenplaten mogen niet zijn afgeschermd. | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m vóór dan wel achter het midden van de bus staat. |
@@ -2318,14 +2308,14 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 |   | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van bussen mogen: | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 |   | a. geen breuken of scheuren vertonen, en |   |
-|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.3a.4
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | De bovenbouw van bussen moet deugdelijk op het onderstel zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
-| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 #### § 2. Afmetingen en massa’s
 
@@ -2333,12 +2323,12 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bussen mogen: a. niet breder zijn dan 2,55 m, en b. niet hoger zijn dan 4,00 m. | Visuele controle. In geval van twijfel wordt de bus gemeten. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) is van toepassing. |
-| 2. | Bussen met 2 assen mogen: a. niet langer zijn dan 13,50 m, en b. indien de bus in gebruik is genomen voor 10 september 2003, mag deze in afwijking van onderdeel a tot 1 januari 2021 niet langer zijn dan 15,00 m. | Leden 2 tot en met 4: visuele controle. In geval van twijfel wordt de bus gemeten. Deze maat mag niet meer dan 1% afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) is van toepassing. |
+| 1. | Bussen mogen: a. niet breder zijn dan 2,55 m, en b. niet hoger zijn dan 4,00 m. | Visuele controle. In geval van twijfel wordt de bus gemeten. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) is van toepassing. |
+| 2. | Bussen met 2 assen mogen: a. niet langer zijn dan 13,50 m, en b. indien de bus in gebruik is genomen voor 10 september 2003, mag deze in afwijking van onderdeel a tot 1 januari 2021 niet langer zijn dan 15,00 m. | Leden 2 tot en met 4: visuele controle. In geval van twijfel wordt de bus gemeten. Deze maat mag niet meer dan 1% afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) is van toepassing. |
 | 3. | Bussen met meer dan twee assen mogen niet langer zijn dan 15,00 m. |   |
 | 4. | Gelede bussen mogen niet langer zijn dan 18,75 m. |   |
 | 5. | De afmetingen bedoeld in het tweede, derde en vierde lid, zijn met inbegrip van een skibox. | – |
-| 6. | Het aantal aanwezige zitplaatsen, staanplaatsen en rolstoelplaatsen mag niet hoger zijn dan voor het voertuig is toegestaan. Een T100 bus mag niet zijn voorzien van staanplaatsen. | Visuele controle en toetsing aan de gegevens in het kentekenregister en indien aanwezig op de plaats, bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01). Tijdens de periodieke keuring moet bij twijfel het goedkeuringsdossier van de Dienst Wegverkeer worden geraadpleegd. |
+| 6. | Het aantal aanwezige zitplaatsen, staanplaatsen en rolstoelplaatsen mag niet hoger zijn dan voor het voertuig is toegestaan. Een T100 bus mag niet zijn voorzien van staanplaatsen. | Visuele controle en toetsing aan de gegevens in het kentekenregister en indien aanwezig op de plaats, bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03). Tijdens de periodieke keuring moet bij twijfel het goedkeuringsdossier van de Dienst Wegverkeer worden geraadpleegd. |
 
 ##### Artikel 5.3a.7
 
@@ -2353,7 +2343,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Alle onderdelen van brandstofsystemen van bussen moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Alle onderdelen van brandstofsystemen van bussen moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Brandstofsystemen mogen geen lekkage vertonen. | – Visuele controle, terwijl de bus zich met draaiende respectievelijk niet-draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 |   |   | – Indien de motor van de bus is uitgerust met meer dan één brandstofsysteem, wordt de controle uitgevoerd wanneer de motor wordt gevoed met de hoofdbrandstof zoals deze is vermeld in het kentekenregister. Het tweede brandstofsysteem wordt eveneens gecontroleerd indien het mogelijk is de motor op de tweede brandstof te laten draaien. Indien controle van het tweede brandstofsysteem niet mogelijk is, wordt dit vermeld op het keuringsrapport. |
 |   |   | – Een installatie voor een al dan niet tot vloeistof verdicht gas wordt gecontroleerd met behulp van een middel dat lekkage zichtbaar maakt, waarbij het contact moet zijn ingeschakeld. |
@@ -2363,7 +2353,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de bus is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.3a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=3&artikel=5.3a.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de bus is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.3a.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=3&artikel=5.3a.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De LPG tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Visuele controle, zo nodig terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | De LPG-tank mag niet in de motorruimte zijn geplaatst. | Lid 3 en 4: visuele controle. |
 | 4. | De LPG tank moet zijn voorzien van een deugdelijke gasdichte kast, die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst. |   |
@@ -2395,12 +2385,12 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 1. | Bussen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes. | Visuele en auditieve controle, terwijl de bus zich met draaiende motor boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Bussen moeten blijven voldoen aan de voorschriften bij of krachtens verordening (EG) 595/2009. | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
-| 4. | Bussen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+| 4. | Bussen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 30 tot en met 32, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
 | 5. | Bussen met een toegestane maximummassa van niet meer dan 3.500 kg waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 3.500 min-1 voor zover het betreft een bus met een verbrandingsmotor met elektrische ontsteking en 95 dB(A) bij een toerental van 2.000 min-1 voor zover het betreft een bus met een verbrandingsmotor met compressieontsteking. Bussen met een toegestane maximummassa van meer dan 3.500 kg mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 95 dB(A) bij een toerental van 1.500 min-1. Hierbij is het bepaalde in bijlage VIII, artikelen 30 tot en met 32, van toepassing. |   |
-| 6. | De uitlaatgassen van bussen met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 41 en 43, van toepassing. | – |
-| 7. | Bij bussen in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 40, 42 en 43, van toepassing. | – |
-| 8. | De uitlaatgassen van bussen met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 44 en 45, van toepassing. | – |
-| 9. | Bussen met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 40 van toepassing. | Visuele controle. |
+| 6. | De uitlaatgassen van bussen met een verbrandingsmotor met elektrische ontsteking mogen bij stationair toerental en op bedrijfstemperatuur zijnde motor niet meer dan het voorgeschreven volume percentage koolmonoxide bevatten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 41 en 43, van toepassing. | – |
+| 7. | Bij bussen in gebruik genomen na 31 december 1994, die zijn uitgerust met een emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde, dient het emissiebestrijdingssysteem, goed te werken. De goede werking ervan wordt beoordeeld aan de hand van het gehalte koolmonoxide van de uitlaatgassen, alsmede aan de hand van een op grond van de samenstelling van de uitlaatgassen berekende lucht-brandstofverhouding. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 40, 42 en 43, van toepassing. | – |
+| 8. | De uitlaatgassen van bussen met een verbrandingsmotor met compressie-ontsteking die in gebruik zijn genomen na 31 december 1979 mogen niet meer dan de aangegeven hoeveelheid roet bevatten, waarbij de eventueel aangewezen bijzondere meetvoorschriften in acht worden genomen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 44 en 45, van toepassing. | – |
+| 9. | Bussen met een toegestane maximummassa van niet meer dan 3.500 kg die zijn voorzien van een verbrandingsmotor met elektrische ontsteking en die in gebruik zijn genomen na 31 december 1997 moeten zijn voorzien van een goedwerkend emissiebestrijdingssysteem dat bestaat uit een katalysator en een lambdasonde. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 40 van toepassing. | Visuele controle. |
 
 ##### Artikel 5.3a.12
 
@@ -2414,7 +2404,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De motorsteunen van bussen moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De motorsteunen van bussen moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De motorsteunen mogen niet in ernstige mate zijn beschadigd, de rubbers mogen niet zijn doorgescheurd en de vulcanisatie mag niet geheel zijn losgeraakt. |   |
 
 #### § 1. Algemene bouwwijze van het voertuig
@@ -2440,7 +2430,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De aandrijving van bussen en de bevestiging daarvan moeten deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
+| 1. | De aandrijving van bussen en de bevestiging daarvan moeten deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
 | 2. | Stofhoezen van aandrijfassen moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 
 #### § 2. Afmetingen en massa’s
@@ -2449,10 +2439,10 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De assen van bussen moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De assen van bussen moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De assen mogen niet zodanig zijn vervormd dat de sterkte ervan in gevaar wordt gebracht. |   |
 | 3. | De assen mogen niet zodanig zijn bevestigd, beschadigd of vervormd dat het weggedrag nadelig wordt beïnvloed. | De wijze van keuren bij het eerste lid is van toepassing. Bij bussen met een toegestane maximummassa van niet meer dan 3.500 kg, wordt in geval van twijfel een rijproef uitgevoerd. |
-| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 ##### Artikel 5.3a.19
 
@@ -2460,21 +2450,21 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van bussen moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ##### Artikel 5.3a.20
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van bussen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van bussen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. Indien het een bus met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt zonodig een rijproef uitgevoerd. |
 
 ##### Artikel 5.3a.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wielbasis van bussen mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01) getoetst. |
+| 1. | De wielbasis van bussen mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is reeds op basis van [artikel 5.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03) getoetst. |
 | 2. | Behoudens fabrieksmatige verschillen mag de wielbasis links en rechts gemeten niet meer dan: | Visuele controle, waarbij in geval van twijfel wordt gemeten. |
 |   | a.15 mm verschillen bij bussen met een toegestane maximummassa van ten hoogste 3.500 kg; |   |
 |   | b. 0,5% afwijken van de hoogst gemeten waarde bij bussen met een toegestane maximummassa van meer dan 3.500 kg. |   |
@@ -2524,7 +2514,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 4. | De profilering van de hoofdgroeven van de banden van bussen moet over de gehele omtrek van het loopvlak ten minste 1,6 mm bedragen, met uitzondering van slijtage-indicatoren. | Visuele controle, terwijl de bus zich boven een inspectieput of een hefinrichting bevindt, waarbij het wiel wordt rondgedraaid. In geval van twijfel wordt de profieldiepte gemeten met de profieldieptemeter. De minimale profieldiepte wordt gemeten in de brede groeven waarin door de fabrikant de maximale diepte is bepaald, alsmede in de groeven waarin een slijtage-indicator aanwezig is. |
 | 5. | De banden van bussen mogen niet zijn nageprofileerd. Van naprofileren is sprake indien slijtage-indicatoren zijn weggesneden, indien de profielvorm van de groef afwijkt van de originele profielvorm, of indien in de bodem van de groef het karkas van de band zichtbaar is. In afwijking van het hiervoor bepaalde is naprofileren toegestaan indien de mogelijkheid daartoe op de band is vermeld door de aanduiding ‘REGROOVABLE’ of door het teken met dien verstande dat het karkas van de band niet zichtbaar mag zijn. | De wijze van keuren bij het tweede lid is van toepassing. |
 | 6. | De op de band aangegeven draairichting moet overeenkomen met de draairichting van het wiel in voorwaartse rijrichting van de bus. Een band moet zodanig gemonteerd zijn dat dit overeenkomt met de door de bandenfabrikant aangebrachte markering op de band die de draairichting of de binnenkant of buitenkant aangeeft. | Lid 6 en 7: visuele controle. |
-| 7. | De op de band van een bus, in gebruik genomen na 31 december 1997, en op de band van een T100-bus vermelde loadindex mag niet kleiner zijn dan de de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 7. | De op de band van een bus, in gebruik genomen na 31 december 1997, en op de band van een T100-bus vermelde loadindex mag niet kleiner zijn dan de de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 8. | Het loopvlak van de banden mag geen metalen elementen bevatten die tijdens het rijden daarbuiten kunnen uitsteken. | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 9. | De banden op één as moeten dezelfde maataanduiding hebben, behalve in geval van nood waarbij een nood- of reservewiel wordt gebruikt. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport is een nood- of reservewiel met een afwijkende maataanduiding niet toegestaan. |
 | 10. | Bij bussen met een toegestane maximummassa van niet meer dan 3.500 kg moeten de banden een juiste bandenspanning hebben zoals deze door de voertuigfabrikant is voorgeschreven voor het betreffende voertuig. Indien geen bandenspanning door de voertuigfabrikant is voorgeschreven, moeten de banden op één as een gelijke bandenspanning hebben. | – Visuele controle met behulp van een doelmatige bandenspanningsmeter. – De juiste minimale bandenspanning wordt vastgesteld aan de hand van de in of op het voertuig aanwezige bandenspanningstabel. – Indien een differentiatie in bandenmaat is gegeven moet hiermee rekening gehouden worden. |
@@ -2539,7 +2529,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bussen moeten zijn voorzien van een goed werkend veersysteem. Banden worden niet als deel van het veersysteem beschouwd. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Indien het een bus met een toegestane maximummassa van niet meer dan 3.500 kg betreft, wordt zonodig een rijproef uitgevoerd. |
-| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 3. | Bussen die zijn voorzien van gasvering, en bussen met een toegestane maximummassa van ten hoogste 3.500 kg, moeten zijn voorzien van goed werkende schokdempers. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt, Een bus met een toegestane maximummassa van niet meer dan 3.500 kg wordt zo mogelijk enkele malen ingeveerd en zonodig aan een rijproef onderworpen. |
 | 4. | Schokdempers van bussen moeten deugdelijk zijn bevestigd. | De wijze van keuren bij het tweede lid is van toepassing. |
 | 5. | Knielsystemen van bussen moeten goed functioneren. | Visuele controle, waarbij het systeem in werking wordt gesteld. |
@@ -2552,11 +2542,11 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | De bestuurde wielen van bussen moeten goed reageren op de draaiing van het stuurwiel. | Visuele controle waarbij, met de wielen in de stand van rechtuitrijden, het stuurwiel naar links en naar rechts wordt gedraaid met een hoekverdraaing van ten hoogste 15°, bij bussen met een toegestane maximummassa van niet meer dan 3.500 kg en 30° bij bedrijfauto’s met een toegestane maximummassa van meer dan 3.500 kg, zo nodig met draaiende motor. De bestuurde wielen moeten hierbij van stand veranderen. |
 | 2. | Bij draaiing van het stuurwiel tot aan de aanslagen mogen geen weerstanden voelbaar zijn en moeten de wielen onderscheidenlijk de banden vrij kunnen draaien. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt waarbij de stuurbekrachtiging buiten werking is gesteld. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand bewogen waarbij de bestuurde wielen gedeeltelijk mogen worden ontlast. |
-| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de bus op de wielen rust. |
+| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de bus op de wielen rust. |
 | 4. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 5. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 5 en 6: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Hierbij wordt het stuurwiel langzaam naar links en naar rechts gedraaid en axiaal bewogen. |
-| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Voor het zichtbaar maken van: |
+| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; |
 |   |   | b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 8. | Indien een gedeelte van de binnenkant van het stuurkogelhuis en van de stuurkogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
@@ -2570,13 +2560,13 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bussen moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele of auditieve controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat omtrent de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
+| 1. | Bussen moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen, en e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele of auditieve controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Indien er twijfel bestaat omtrent de deugdelijkheid van het remsysteem wordt het onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. – Onderdeel e: visuele controle. |
 | 2. | De rembekrachtiger en de hydraulische remkrachtregelaar moeten goed functioneren. | – Voor de controle van de vacuüm-rembekrachtiger wordt bij uitgeschakelde motor allereerst de vacuümvoorraad opgebruikt door het rempedaal meerdere malen in te trappen. Vervolgens wordt met ingetrapt rempedaal de motor gestart waarna door de opbouw van het vacuüm het pedaal verder moet wegzakken. |
 |   |   | – Visuele controle van de remkrachtregelaar, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt, waarbij de rem in werking wordt gesteld met draaiende motor. Hierbij wordt de as eventueel ontlast. |
 | 3. | De compressor en de drukregelaar moeten goed functioneren en tijdig in werking treden. | Visuele controle met behulp van de dashboardmeter(s) door bij draaiende motor het rempedaal diverse malen in te trappen. |
 | 4. | Bij hydraulische remsystemen mag bij het bedienen van het rempedaal de slag van het pedaal niet door een aanslag worden beperkt. | Controle door het rempedaal in te trappen. Bij twijfel wordt het pedaal met een kracht van ten hoogste 700 N ingetrapt. |
 | 5. | Het oppervlak van het rempedaal moet stroef zijn. | Visuele controle. |
-| 6. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de bus zich boven een inspectieput of een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 6. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. niet langs andere voertuigdelen schuren, en c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. | – Onderdeel a: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel b: visuele controle, terwijl de bus zich boven een inspectieput of een hefinrichting bevindt. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand gebracht. – Onderdeel c: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 7. | Kunststofremleidingen mogen geen knikken vertonen. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 8. | Wielen die zijn voorzien van een trommelrem, moeten in onberemde toestand in beide richtingen kunnen draaien zonder dat de remvoering aanloopt. De remvoering van wielen die zijn voorzien van een schijfrem, mag in onberemde toestand in beide richtingen enigszins slepen. | Controle door de wielen vrij van de grond of hefinrichting met de hand rond te draaien. |
 | 9. | De remtrommel of remschijf mag tijdens het remmen niet worden geraakt door delen die zijn bestemd als drager of bevestigingsmiddel van remvoering. | Visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. Indien de remvoering niet zonder demontage zichtbaar te maken is, moet de rem in werking worden gesteld terwijl het wiel met de hand of met behulp van een wielspinner wordt rondgedraaid. Hierbij mogen geen schurende geluiden van metaal op metaal hoorbaar zijn. |
@@ -2648,19 +2638,19 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bussen, in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,0 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij controle van de remvertraging van bussen is het bepaalde in bijlage VIII, hoofdstuk 1, titel 7, afdeling 2 van toepassing. |   |
-| 2. | Bussen, in gebruik genomen na 30 juni 1967 och voor 1 januari 2012 moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bussen is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Leden 1 tot en met 4: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
-| 3. | Bussen, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van bussen is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 4. | Indien de remkrachten van de bus groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste en tweede lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | Bussen, in gebruik genomen na 30 juni 1967 och voor 1 januari 2012 moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt, bij een pedaalkracht van niet meer dan 700 N. Bij de controle van de remvertraging van bussen is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Leden 1 tot en met 4: indien een remproef op de weg wordt uitgevoerd, moet de snelheid bij aanvang van de remproef ongeveer 50 km/h bedragen. |
+| 3. | Bussen, in gebruik genomen voor 1 juli 1967, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van bussen is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 4. | Indien de remkrachten van de bus groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste en tweede lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 5. | De bedrijfsrem moet op alle wielen werken. | Terwijl de wielen zich vrij van de grond of van de hefinrichting bevinden, wordt het rempedaal licht ingetrapt en wordt gecontroleerd of elk wiel wordt geremd. Bij gebruik van een remtestinrichting voor de controle van de remwerking, wordt gelijktijdig hierop gecontroleerd. |
-| 6. | Bussen mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 6. | Bussen mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 ##### Artikel 5.3a.39
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bussen moeten zijn voorzien van een parkeerrem die op ten minste twee wielen van één niet hefbare as werkt. | Terwijl twee wielen zich vrij van de grond of van de hefinrichting bevinden, wordt de parkeerrem vast aangetrokken en met behulp van de vergrendeling in deze stand gehouden, waarna gecontroleerd wordt of elk van beide wielen wordt geremd. Bij gebruik van een remtestinrichting wordt gelijktijdig hierop gecontroleerd. |
-| 2. | De parkeerrem van bussen, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16,0% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
-| 3. | De remvertraging van de parkeerrem van bussen, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 2. | De parkeerrem van bussen, in gebruik genomen na 30 juni 1967, moet het voertuig op een helling van 16,0% in beide richtingen in stilstand kunnen houden. Hieraan wordt geacht te zijn voldaan indien de remvertraging, uitgaande van een aanvangssnelheid van 15 km/h, op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,2 m/s2 bedraagt en de rem ook in achterwaartse richting functioneert. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | In geval van een elektrisch bediende parkeerrem, wordt hieraan geacht te zijn voldaan indien de parkeerrem wordt bediend en de wielen blokkeren terwijl deze zich vrij van de grond of van de hefinrichting bevinden. |
+| 3. | De remvertraging van de parkeerrem van bussen, in gebruik genomen voor 1 juli 1967, moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 1,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 #### § 9. Carrosserie
 
@@ -2669,7 +2659,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | De deuren en de laadbakkleppen van bussen moeten goed sluiten. De deuren die direct toegang geven tot de personenruimte, moeten op normale wijze vanaf de binnenzijde en vanaf de buitenzijde kunnen worden geopend, ongeacht of de daarvoor benodigde energievoorziening werkt. | Visuele controle, waarbij de deuren worden geopend en gesloten, indien noodzakelijk met behulp van de aanwezige noodbedienings-inrichtingen. |
-| 2. | De bevestiging van de scharnieren van de deuren, de laadbakkleppen mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
+| 2. | De bevestiging van de scharnieren van de deuren, de laadbakkleppen mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
 | 3. | Indien een deur in een bus, in gebruik genomen na 30 juni 1984, niet rechtstreeks door de chauffeur kan worden waargenomen moet de normale bediening zodanig zijn uitgevoerd dat passagiers deze niet kunnen openen voordat de chauffeur de bediening ervan vanaf de bestuurderszitplaats heeft vrijgegeven. |   |
 | 4. | Bussen moeten zijn voorzien van voldoende uitgangen. | Visuele controle. Bij twijfel het goedkeuringsdossier van de Dienst Wegverkeer raadplegen. |
 | 5. | De hoofddoorgang, de toegang naar de uitgangen, de treden bij de bedrijfsdeuren en de treden bij de hoofddoorgang, de vereiste opschriften en de bedieningsinrichtingen van de (nood)uitgangen en trappen moeten zodanig kunnen worden verlicht dat deze duidelijk waarneembaar zijn. | Visuele controle; waarbij verlichting wordt ingeschakeld. |
@@ -2686,7 +2676,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bussen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 96 tot en met 100](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bussen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 96 tot en met 100](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 | 2. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bussen mogen niet zijn voorzien van onnodige voorwerpen die het uitzicht van de bestuurder belemmeren. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 3. | De lichtdoorlatendheid van de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten mag niet minder dan 55% bedragen. | Visuele controle, in geval van twijfel wordt gemeten. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport |
 | 4. | De bus moet zodanig zijn ingericht of uitgerust dat verblinding van de bestuurder door en weerkaatsing van de binnenverlichting wordt voorkomen. | Lid 4 en 5: visuele controle. |
@@ -2720,9 +2710,9 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Bussen behorende tot klasse III of klasse B, in gebruik genomen na 21 januari 2014, mogen niet zijn voorzien van zijdelings gerichte zitplaatsen. | Visuele controle, waarbij het goedkeuringsdossier van de Dienst Wegverkeer wordt geraadpleegd. |
-| 2. | De zitplaatsen en rugleuningen van bussen moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
-| 3. | Het eerste lid is niet van toepassing op bussen met een toegestane maximummassa van meer dan 10.000 kg behorende tot klasse III of klasse B, waarin de zijdelings gerichte zitplaatsen achterin het voertuig bijeen zijn geplaatst tot een zitgroep met maximaal 10 plaatsen, met dien verstande dat deze zijdelings gerichte zitplaatsen, onverminderd [artikel 5.3a.47](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=9&artikel=5.3a.47&z=2014-07-01&g=2014-07-01), zijn voorzien van een hoofdsteun en een tweepuntsgordel met oprolmechanisme en leuningen waardoor ten hoogste drie zitplaatsen ononderbroken aaneensluiten. | Visuele controle, waarbij het goedkeuringsdossier van de Dienst Wegverkeer wordt geraadpleegd. |
-| 4. | Het aantal aanwezige zitplaatsen mag niet groter zijn dan het maximum aantal zitplaatsen waarvoor de bus is goedgekeurd. | Visuele controle aan de hand van opschriften als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01), en het kentekenregister. In geval van twijfel wordt het goedkeuringsdossier van de Dienst Wegverkeer geraadpleegd. |
+| 2. | De zitplaatsen en rugleuningen van bussen moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
+| 3. | Het eerste lid is niet van toepassing op bussen met een toegestane maximummassa van meer dan 10.000 kg behorende tot klasse III of klasse B, waarin de zijdelings gerichte zitplaatsen achterin het voertuig bijeen zijn geplaatst tot een zitgroep met maximaal 10 plaatsen, met dien verstande dat deze zijdelings gerichte zitplaatsen, onverminderd [artikel 5.3a.47](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=9&artikel=5.3a.47&z=2014-09-03&g=2014-09-03), zijn voorzien van een hoofdsteun en een tweepuntsgordel met oprolmechanisme en leuningen waardoor ten hoogste drie zitplaatsen ononderbroken aaneensluiten. | Visuele controle, waarbij het goedkeuringsdossier van de Dienst Wegverkeer wordt geraadpleegd. |
+| 4. | Het aantal aanwezige zitplaatsen mag niet groter zijn dan het maximum aantal zitplaatsen waarvoor de bus is goedgekeurd. | Visuele controle aan de hand van opschriften als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03), en het kentekenregister. In geval van twijfel wordt het goedkeuringsdossier van de Dienst Wegverkeer geraadpleegd. |
 | 5. | Bussen van klasse I, in gebruik genomen na 12 februari 2005, moeten voorzien zijn van ten minste vier voor mensen met een mobiliteitshandicap gereserveerde zitplaatsen, die voorzien zijn van handgrepen en dichtbij een geschikte bedrijfsdeur. | Leden 5 tot en met 7: visuele controle. |
 | 6. | Op bussen van een andere klasse dan klasse I, die in gebruik genomen na 12 februari 2005 en zijn voorzien van technische voorzieningen ter verbetering van de toegang voor personen met een mobiliteitshandicap, is het vorige lid van overeenkomstige toepassing met dien verstande dat het aantal gereserveerde zitplaatsen voor mensen met een mobiliteitshandicap voor bussen van klasse II en klasse III ten minste twee bedraagt, en voor bussen van klasse A en klasse B ten minste één. Een klapstoel mag niet worden aangeduid als gereserveerde zitplaats. |   |
 | 7. | Voor bussen als bedoeld in het vijfde en zesde lid geldt, dat bussen van klasse I en klasse II moeten zijn voorzien van ten minste twee, en bussen van klasse A van ten minste één naar voren of naar achteren gerichte zitplaats, speciaal bedoeld en van merktekens voorzien voor andere passagiers met een mobiliteitshandicap dan rolstoelgebruikers. Deze zitplaatsen moeten dicht bij een voor deze passagiers geschikte ingang zijn geplaatst. |   |
@@ -2744,7 +2734,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | b. bussen waarbij de klasse niet is vastgesteld en die beschikken over staanplaatsen; |   |
 |   | c. klapstoelen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig; |   |
 |   | d. zitplaatsen die uitsluitend zijn bestemd voor gebruik bij stilstaand voertuig. |   |
-| 4. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
+| 4. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
 | 5. | De gordels moeten zijn voorzien van een goed werkende sluiting en een goed werkende blokkering. Oprolmechanismen moeten zodanig functioneren dat de gordel aanligt na het omdoen ervan. | Visuele controle. Hierbij wordt de gordel in de sluiting gebracht. Indien de gordel is voorzien van een oprolmechanisme wordt de gordel omgedaan. De blokkering wordt gecontroleerd door te trekken aan de gordel; indien dit geen uitsluitsel biedt, moet bij een bus met een toegestane maximummassa van niet meer dan 3.500 kg tijdens een remproef op de weg het blokkeren van de gordel worden gecontroleerd. |
 
 ##### Artikel 5.3a.48
@@ -2769,7 +2759,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | 16. | Het interieur mag geen scherpe delen hebben die in geval van botsing gevaar voor lichamelijk letsel kunnen opleveren. |   |
 | 17. | De bevestiging en constructie van ligplaatsen moeten deugdelijk zijn. |   |
 | 18. | Een ligplaats moet in lengte- en breedterichting met doelmatige veiligheidsvoorzieningen zijn uitgerust ten einde te voorkomen dat de passagier uit de ligplaats kan geraken. |   |
-| 19. | Het gedeelte van een ligplaats dat grenst aan of zich uitstrekt tot voorbij de achterste begrenzing van het bestuurderscompartiment moet van een afscherming zijn voorzien die voldoet aan [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01), annex 2, hoofdstuk 2, artikel 33, zesde en zevende lid. |   |
+| 19. | Het gedeelte van een ligplaats dat grenst aan of zich uitstrekt tot voorbij de achterste begrenzing van het bestuurderscompartiment moet van een afscherming zijn voorzien die voldoet aan [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03), annex 2, hoofdstuk 2, artikel 33, zesde en zevende lid. |   |
 
 ##### Artikel 5.3a.49
 
@@ -2790,7 +2780,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Bussen moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met e: visuele controle. – Onderdeel f: visuele controle. In geval van twijfel wordt gemeten. – Onderdeel g tot en met k: visuele controle. – Onderdeel l tot en met o: visuele controle. In geval van twijfel wordt gemeten. |
+|   | Bussen moeten zijn voorzien van: a. twee grote lichten; b. twee dimlichten, met dien verstande dat indien het voertuig is voorzien van dimlichten met gasontladingslichtbronnen en in gebruik is genomen na 31 december 2006, deze lichtbronnen moeten voldoen aan de daaromtrent in [bijlage VIII, artikelen 115 en 117](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen, alsmede voor de installatie daarvan; | – Onderdelen a tot en met e: visuele controle. – Onderdeel f: visuele controle. In geval van twijfel wordt gemeten. – Onderdeel g tot en met k: visuele controle. – Onderdeel l tot en met o: visuele controle. In geval van twijfel wordt gemeten. |
 |   | c. twee stadslichten; |   |
 |   | d. twee richtingaanwijzers aan de voorzijde en twee aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant indien het voertuig vóór 1 juli 1967 in gebruik is genomen; het licht van de richtingaanwijzers van bussen in gebruik genomen na 30 juni 1967 moet knipperen; |   |
 |   | e. waarschuwingsknipperlichten indien het voertuig na 31 december 1997 in gebruik is genomen; |   |
@@ -2802,8 +2792,8 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | k. één mistachterlicht indien het voertuig na 31 december 1997 in gebruik is genomen; dit mistachterlicht moet zich bevinden in of links van het middenlangsvlak van het voertuig; |   |
 |   | l. één achteruitrijlicht indien het voertuig na 31 december 1997 in gebruik is genomen en twee achteruitrijlichten indien het voertuig langer is dan 6,00 m en na 31 december 2012 in gebruik is genomen; |   |
 |   | m. twee markeringslichten aan de voorzijde en twee aan de achterzijde van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en breder is dan 2,10 m, dan wel voor 1 januari 1998 in gebruik is genomen en breder is dan 2,60 m; |   |
-|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; |   |
-|   | o. ambergele retroreflectoren aan elke zijkant van het voertuig indien het voertuig langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | n. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; |   |
+|   | o. ambergele retroreflectoren aan elke zijkant van het voertuig indien het voertuig langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII, artikelen 119 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.3a.51a
 
@@ -2828,20 +2818,20 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in artikel [5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
-| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in artikel [5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
-| 6. | De in [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren en de markering aan de achterzijde van het voertuig mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
+| 5. | De in [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
+| 6. | De in [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren en de markering aan de achterzijde van het voertuig mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. | Visuele controle. |
 | 7. | Indien de bus is uitgerust met een inrichting waarmee de dimlichtafstelling vanaf de bestuurderszitplaats aan de beladingstoestand kan worden aangepast, moet deze inrichting goed werken. | Visuele controle, waarbij de inrichting met de hand wordt bediend. |
 
 ##### Artikel 5.3a.56
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het dimlicht van bussen moet goed zijn afgesteld, hierbij is het gestelde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 2. | Bussen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 1. | Het dimlicht van bussen moet goed zijn afgesteld, hierbij is het gestelde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 2. | Bussen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.3a.57
 
@@ -2849,8 +2839,8 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 | --- | --- | --- |
 | 1. | Bussen mogen zijn voorzien van: a. twee mistvoorlichten; b. meerdere grote lichten, tegelijkertijd mogen niet meer dan vier grote lichten werken; c. twee extra stadslichten; | – Onderdeel a tot en met q: visuele controle. – Onderdeel r en s: visuele controle. In geval van twijfel wordt gemeten. – Onderdeel t tot en met aa: visuele controle. |
 |   | d. twee extra achterlichten; |   |
-|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | g. twee staaklichten; |   |
 |   | h. één extra mistachterlicht; |   |
 |   | i. extra achteruitrijlichten; |   |
@@ -2860,7 +2850,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | m. waarschuwingsknipperlichten aan het meest naar achteren gelegen gedeelte van de zich aan de zij- of achterkant van het voertuig bevindende laad- en losklep in horizontale stand; |   |
 |   | n. ambergele retroreflectoren aan de zijkanten van het voertuig indien het voertuig niet langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn; |   |
 |   | o. witte retroreflectoren aan de voorzijde van het voertuig; |   |
-|   | p. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) verplicht zijn, waarbij [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 119 tot en met 122, van toepassing is; |   |
+|   | p. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) verplicht zijn, waarbij [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 119 tot en met 122, van toepassing is; |   |
 |   | q. werklichten; |   |
 |   | r. een derde remlicht, aangebracht zodanig dat: |   |
 |   | s. In afwijking van onderdeel r mogen bij bussen met een toegestane maximummassa van niet meer dan 3.500 kg twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd; |   |
@@ -2869,10 +2859,10 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 |   | v. verlichte transparanten die voor het overige verkeer informatie over het gebruik of de bestemming van het voertuig bieden. De lichten moeten afzonderlijk zijn geschakeld en mogen naar achteren niet rood stralen; |   |
 |   | w. twee bochtlichten; |   |
 |   | x. twee hoeklichten; |   |
-|   | y. een markering aan de achterzijde van het voertuig, indien de toegestane maximummassa van het voertuig meer bedraagt dan 3.500 kg en het voertuig in gebruik is genomen na 30 juni 1967; Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing; |   |
-|   | z. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering aan de zijkant en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153 van toepassing; |   |
+|   | y. een markering aan de achterzijde van het voertuig, indien de toegestane maximummassa van het voertuig meer bedraagt dan 3.500 kg en het voertuig in gebruik is genomen na 30 juni 1967; Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing; |   |
+|   | z. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering aan de zijkant en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153 van toepassing; |   |
 |   | aa. één manoeuvreerlicht aan elke zijkant van het voertuig. |   |
-| 2. | Lichten en retroreflecterende voorzieningen die ingevolge artikel [5.3a.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51a&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in artikel 5.3a.53a met betrekking tot die lichten gestelde eisen. | Lid 2 en 3: visuele controle. |
+| 2. | Lichten en retroreflecterende voorzieningen die ingevolge artikel [5.3a.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51a&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in artikel 5.3a.53a met betrekking tot die lichten gestelde eisen. | Lid 2 en 3: visuele controle. |
 | 3. | Bussen mogen zijn voorzien van extra rode retroreflectoren aan de achterzijde en extra ambergele retroreflectoren aan de zijkanten van het voertuig. |   |
 | 4. | De extra achteruitrijlichten, bedoeld in het eerste lid, onderdeel i, mogen aan de zijkant van het voertuig zijn gemonteerd. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 5. | Verlichte transparanten: a. moeten afzonderlijk zijn geschakeld; b. mogen niet breder zijn dan het voertuig waarop de verlichting is gemonteerd, en c. mogen niet langer zijn dan het voertuig waarop de verlichting is gemonteerd. | Visuele controle. |
@@ -2902,15 +2892,15 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing |   |
+| 1. | De in [artikel 5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.3a.61
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bij bussen in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01) en [5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-07-01&g=2014-07-01) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Bij bussen in gebruik genomen na 31 december 1967 moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03) en [5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-09-03&g=2014-09-03) zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | Het bepaalde in het eerste lid geldt niet voor de grote lichten, achteruitrijlichten, remlichten, de achterkentekenplaatverlichting, de markering aan de achterzijde van het voertuig, mistachterlichten en werklichten. | – |
 
 ##### Artikel 5.3a.62
@@ -2933,7 +2923,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bussen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01),[5.3a.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-07-01&g=2014-07-01),[5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-07-01&g=2014-07-01) en [5.3a.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig, behoudens de ingevolge [artikel 5.3a.41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=9&artikel=5.3a.41&z=2014-07-01&g=2014-07-01), verplichte binnenverlichting. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Bussen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.3a.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03),[5.3a.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.51&z=2014-09-03&g=2014-09-03),[5.3a.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-09-03&g=2014-09-03) en [5.3a.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig, behoudens de ingevolge [artikel 5.3a.41, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=9&artikel=5.3a.41&z=2014-09-03&g=2014-09-03), verplichte binnenverlichting. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Bussen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 #### § 11. Verbinding tussen bus en aanhangwagen
@@ -2942,7 +2932,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de bus is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet gescheurd, gebroken, vervormd, in ernstige mate door corrosie zijn aangetast, dan wel overmatig gesleten zijn, onverminderd het bepaalde in [artikel 5.3a.68, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=11&artikel=5.3a.68&z=2014-07-01&g=2014-07-01). Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Indien de bus is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet gescheurd, gebroken, vervormd, in ernstige mate door corrosie zijn aangetast, dan wel overmatig gesleten zijn, onverminderd het bepaalde in [artikel 5.3a.68, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=11&artikel=5.3a.68&z=2014-09-03&g=2014-09-03). Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle, terwijl de bus zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De achtertraverse met inbegrip van alle profielen die daar deel van uitmaken, moet deugdelijk zijn bevestigd en mag: a. geen breuken of scheuren vertonen, en b. niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak. |   |
 
 ##### Artikel 5.3a.67
@@ -2976,7 +2966,7 @@ Een bedrijfsauto, met uitzondering van een bedrijfsauto waarvoor in het kenteken
 
 ##### Artikel 5.4.0
 
-Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 0. Algemeen
 
@@ -3012,7 +3002,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Motorfietsen mogen: a. niet langer zijn dan 4.00 m; b. niet breder zijn dan 2.00 m, en c. niet hoger zijn dan 2.50 m. | Lid 1 en 2: in geval van twijfel wordt de motorfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 1. | Motorfietsen mogen: a. niet langer zijn dan 4.00 m; b. niet breder zijn dan 2.00 m, en c. niet hoger zijn dan 2.50 m. | Lid 1 en 2: in geval van twijfel wordt de motorfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 | 2. | Motorfietsen met zijspanwagen alsmede motorvoertuigen op drie asymmetrisch geplaatste wielen, die in gebruik zijn genomen voor 1 november 1996, mogen niet breder zijn dan 2,55 m. |   |
 
 #### § 3. Motor en brandstofsystemen
@@ -3029,7 +3019,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de motorfiets is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.4.9&z=2014-07-01&g=2014-07-01), voldoen aan in de volgende leden gestelde eisen. | – |
+| 1. | Indien de motorfiets is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.4.9&z=2014-09-03&g=2014-09-03), voldoen aan in de volgende leden gestelde eisen. | – |
 | 2. | De LPG-tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Leden 2 tot en met 4: visuele controle. |
 | 3. | De leidingen mogen geen knikken vertonen en mogen niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak. |   |
 | 4. | De gasvoerende slangen van rubber mogen geen beschadiging vertonen waarbij het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. |   |
@@ -3038,7 +3028,7 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien de motorfiets is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.4.9&z=2014-07-01&g=2014-07-01), voldoen aan de in het tweede tot en met achtste lid gestelde eisen. | – |
+| 1. | Indien de motorfiets is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.4.9&z=2014-09-03&g=2014-09-03), voldoen aan de in het tweede tot en met achtste lid gestelde eisen. | – |
 | 2. | De CNG-tank: a. moet permanent zijn aangebracht aan het voertuig, en b. mag geen deuken vertonen. | Leden 2 tot en met 4: visuele controle. |
 | 3. | De vervaldatum van de goedkeuring, en indien van toepassing van de herkwalificatie, van een CNG-tank, mag niet verstreken zijn. |   |
 | 4. | Op de CNG-installatie mogen geen andere verbruikers zijn aangesloten dan die, welke strikt noodzakelijk zijn voor het goed functioneren van de motor van het voertuig. |   |
@@ -3101,14 +3091,14 @@ Een motorfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beo
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van motorfietsen mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van motorfietsen mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging van wiellagers mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle waarbij het wiel, al dan niet met behulp van apparatuur, wordt rondgedraaid. Zo nodig wordt een rijproef uitgevoerd. |
 
 ##### Artikel 5.4.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | De wielbasis van motorfietsen mag niet meer dan 60 mm afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | In geval van twijfel wordt de wielbasis gemeten, waarbij [artikel 5.1a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.2&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | De wielbasis van motorfietsen mag niet meer dan 60 mm afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | In geval van twijfel wordt de wielbasis gemeten, waarbij [artikel 5.1a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.2&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 ##### Artikel 5.4.24
 
@@ -3281,11 +3271,11 @@ Vervallen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-07-01&g=2014-07-01) en [5.4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.52&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk verlichte oppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 1. | De in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-09-03&g=2014-09-03) en [5.4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.52&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk verlichte oppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. De op een motorfiets zonder zijspanwagen gemonteerde lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-07-01&g=2014-07-01) en [5.4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.52&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
+| 5. | De in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-09-03&g=2014-09-03) en [5.4.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.52&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
 | 6. | De retroreflector mag geen gebreken vertonen, die de retroreflectie beïnvloed. |   |
 | 7. | Remlichten van motorfietsen moeten werken bij bediening van de achterwielrem of de voorwielrem. |   |
 
@@ -3293,8 +3283,8 @@ Vervallen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het dimlicht van motorfietsen moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 2. | Motorfietsen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden op de kentekencard dan wel in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 1. | Het dimlicht van motorfietsen moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 2. | Motorfietsen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden op de kentekencard dan wel in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.4.57
 
@@ -3314,7 +3304,7 @@ Vervallen
 |   | k. één extra achterlicht; |   |
 |   | l. één extra remlicht; |   |
 |   | m. één of twee dagrijlichten. |   |
-| 2. | Lichten die ingevolge [artikel 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.53&z=2014-07-01&g=2014-07-01) met betrekking tot die lichten gestelde eisen. |   |
+| 2. | Lichten die ingevolge [artikel 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.4.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.53&z=2014-09-03&g=2014-09-03) met betrekking tot die lichten gestelde eisen. |   |
 | 3. | Motorfietsen mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig. |   |
 | 4. | Indien een motorfiets is verbonden aan een zijspanwagen mag de combinatie voorzien zijn van ten hoogste twee dagrijlichten. |   |
 
@@ -3357,7 +3347,7 @@ Vervallen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -3379,7 +3369,7 @@ Vervallen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Motorfietsen en zijspanwagens verbonden aan motorfietsen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-07-01&g=2014-07-01), [5.4.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51a&z=2014-07-01&g=2014-07-01), [5.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57&z=2014-07-01&g=2014-07-01),[5.4.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57a&z=2014-07-01&g=2014-07-01) en [5.4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.58&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Motorfietsen en zijspanwagens verbonden aan motorfietsen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51&z=2014-09-03&g=2014-09-03), [5.4.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.51a&z=2014-09-03&g=2014-09-03), [5.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57&z=2014-09-03&g=2014-09-03),[5.4.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.57a&z=2014-09-03&g=2014-09-03) en [5.4.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=10&artikel=5.4.58&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Motorfietsen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
 #### § 11. Verbinding tussen motorfiets en aanhangwagen
@@ -3407,7 +3397,7 @@ Vervallen
 
 ##### Artikel 5.5.0
 
-Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 0. Algemeen
 
@@ -3415,7 +3405,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het driewielige motorrijtuig moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle, tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |
+| 1. | Het driewielige motorrijtuig moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle, tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |
 | 2. | Het driewielige motorrijtuig moet aan de achterzijde en mag aan de voorzijde zijn voorzien van de juiste kentekenplaat. |   |
 | 3. | Het voertuigidentificatienummer moet in het chassis of frame zijn ingeslagen en moet goed leesbaar zijn. | Visuele controle. |
 | 4. | De kentekenplaten moeten deugdelijk zijn bevestigd en zijn voorzien van het in [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951) voorgeschreven goedkeuringsmerk. | Visuele controle. Aan de eis van het goedkeuringsmerk, wordt niet getoetst tijdens de algemene periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
@@ -3430,7 +3420,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 1. | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van driewielige motorrijtuigen mogen: | Leden 1 tot en met 3: visuele controle. |
 |   | a. geen breuken of scheuren vertonen, en |   |
 |   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. |   |
-|   | Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 2. | Indien het driewielig motorrijtuig is opgebouwd uit een frame met voor- of achtervork mogen deze onderdelen: a. geen breuken of scheuren vertonen; b. niet zijn doorgeroest, en c. niet zodanig zijn vervormd dat de stijfheid en de sterkte ervan in gevaar worden gebracht. |   |
 | 3. | De onderdelen die deel uitmaken van het frame of van de zelfdragende constructie moeten deugdelijk zijn bevestigd. |   |
 
@@ -3446,7 +3436,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Driewielige motorrijtuigen die in gebruik zijn genomen na 31 oktober 1997 mogen: a. niet langer zijn dan 4,00 m; b. niet breder zijn dan 2,00 m, en c. niet hoger zijn dan 2,50 m. | Lid 1 en 2: in geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 1. | Driewielige motorrijtuigen die in gebruik zijn genomen na 31 oktober 1997 mogen: a. niet langer zijn dan 4,00 m; b. niet breder zijn dan 2,00 m, en c. niet hoger zijn dan 2,50 m. | Lid 1 en 2: in geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 | 2. | Driewielige motorrijtuigen die in gebruik zijn genomen voor 1 november 1997 mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. |   |
 
 ##### Artikel 5.5.7
@@ -3464,7 +3454,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Alle onderdelen van brandstofsystemen dan wel van de elektrische aandrijving van driewielige motorrijtuigen moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen. |
+| 1. | Alle onderdelen van brandstofsystemen dan wel van de elektrische aandrijving van driewielige motorrijtuigen moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen. |
 | 2. | Brandstofsystemen mogen geen lekkage vertonen. | – Visuele controle met draaiende respectievelijk niet-draaiende motor. |
 |   |   | – Indien het driewielige motorrijtuig is uitgerust met meer dan één brandstofsysteem, wordt de controle uitgevoerd wanneer de motor wordt gevoed met de hoofdbrandstof zoals deze is vermeld in het kentekenregister. Het tweede brandstofsysteem wordt eveneens gecontroleerd indien het mogelijk is de motor op de tweede brandstof te laten draaien. Indien controle van het tweede brandstofsysteem niet mogelijk is, wordt dit vermeld op het keuringsrapport. |
 |   |   | – Een installatie voor een al dan niet tot vloeistof verdicht gas wordt gecontroleerd met behulp van een middel dat lekkage zichtbaar maakt, waarbij het contact moet zijn ingeschakeld. |
@@ -3474,7 +3464,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien het driewielig motorrijtuig is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=3&artikel=5.5.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien het driewielig motorrijtuig is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=3&artikel=5.5.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De LPG-tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Leden 2 tot en met 8: visuele controle. |
 | 3. | De LPG-tank mag niet in de motorruimte zijn geplaatst. |   |
 | 4. | De LPG-tank moet zijn voorzien van een deugdelijke gasdichte kast die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst. |   |
@@ -3487,7 +3477,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien het driewielige motorrijtuig is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=3&artikel=5.5.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de in het tweede tot en met achtste lid gestelde eisen. | – |
+| 1. | Indien het driewielige motorrijtuig is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=3&artikel=5.5.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de in het tweede tot en met achtste lid gestelde eisen. | – |
 | 2. | De CNG-tank: a. moet permanent zijn aangebracht aan het voertuig, en b. mag geen deuken vertonen. | Leden 2 en 3: visuele controle. |
 | 3. | De CNG-tank mag niet in de motorruimte zijn geplaatst. |   |
 | 4. | De vervaldatum van de goedkeuring, en indien van toepassing van de herkwalificatie, van een CNG-tank, mag niet verstreken zijn. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
@@ -3504,7 +3494,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 1. | Driewielige motorrijtuigen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes. | Visuele en auditieve controle. |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle. |
 | 3. | Driewielige motorrijtuigen moeten blijven voldoen aan de voorschriften, bedoeld in richtlijn 97/24/EG van het Europees Parlement en de Raad van 17 juni 1997 betreffende bepaalde onderdelen of eigenschappen van motorvoertuigen op twee of drie wielen (PbEG 1997, L 24). | Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
-| 4. | Driewielige motorrijtuigen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 33 tot en met 35, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
+| 4. | Driewielige motorrijtuigen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 33 tot en met 35, van toepassing. | Leden 4 en 5: Auditieve controle. Indien toepasbaar wordt met een geluidsmeter klasse 1 vastgesteld of het geluidsniveau niet wordt overschreden. |
 | 5. | Het uitlaatsysteem moet behoorlijk geluiddempend zijn. | Auditieve controle. |
 
 ##### Artikel 5.5.12
@@ -3518,7 +3508,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De motorsteunen van driewielige motorrijtuigen moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
+| 1. | De motorsteunen van driewielige motorrijtuigen moeten deugdelijk aan het chassis dan wel de carrosserie alsmede aan de motor zijn bevestigd. Indien de motor en de versnellingsbak zijn samengebouwd, dan worden de steunen van de versnellingsbak mede als motorsteunen beschouwd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
 | 2. | De motorsteunen mogen niet in ernstige mate zijn beschadigd, de rubbers mogen niet zijn doorgescheurd en de vulcanisatie mag niet geheel zijn losgeraakt. |   |
 
 #### § 12. Diversen
@@ -3533,7 +3523,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De aandrijving van driewielige motorrijtuigen en de bevestiging daarvan moeten deugdelijk zijn. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
+| 1. | De aandrijving van driewielige motorrijtuigen en de bevestiging daarvan moeten deugdelijk zijn. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Een volledig doorgescheurde flexibele koppeling is toegestaan mits de aandrijfas op zijn plaats blijft. |
 | 2. | Stofhoezen van aandrijfassen moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle. |
 
 #### § 2. Afmetingen en massa’s
@@ -3542,10 +3532,10 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De assen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
+| 1. | De assen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
 | 2. | De assen mogen niet zodanig zijn vervormd dat de sterkte ervan in gevaar wordt gebracht. |   |
 | 3. | De assen mogen niet zodanig zijn bevestigd, beschadigd of vervormd dat het weggedrag nadelig wordt beïnvloed. | Visuele controle. In geval van twijfel wordt een rijproef uitgevoerd. |
-| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 
 ##### Artikel 5.5.19
 
@@ -3553,21 +3543,21 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van driewielige motorrijtuigen moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledige onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledige onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt vindt visuele controle plaats. |
 
 ##### Artikel 5.5.20
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van driewielige motorrijtuigen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van driewielige motorrijtuigen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel, al dan niet met behulp van apparatuur, wordt rondgedraaid. Zo nodig wordt een rijproef uitgevoerd. |
 
 ##### Artikel 5.5.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wielbasis van driewielige motorrijtuigen mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister, onderscheidenlijk niet meer dan 60 mm indien het een driewielig motorrijtuig met kettingaandrijving betreft. | Aan deze eis is in [artikel 5.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=0&artikel=5.5.1&z=2014-07-01&g=2014-07-01) reeds getoetst. |
+| 1. | De wielbasis van driewielige motorrijtuigen mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister, onderscheidenlijk niet meer dan 60 mm indien het een driewielig motorrijtuig met kettingaandrijving betreft. | Aan deze eis is in [artikel 5.5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=0&artikel=5.5.1&z=2014-09-03&g=2014-09-03) reeds getoetst. |
 | 2. | Behoudens fabrieksmatige verschillen mag de wielbasis van driewielige motorrijtuigen op vier wielen links en rechts gemeten niet meer dan 15 mm verschillen. | Visuele controle waarbij in geval van twijfel wordt gemeten. |
 
 ##### Artikel 5.5.24
@@ -3607,7 +3597,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Indien het driewielig motorrijtuig is voorzien van een veersysteem, moet dit goed werken. | Visuele controle. In geval van twijfel wordt een rijproef uitgevoerd. |
-| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 | 3. | Indien een driewielig motorrijtuig is voorzien van schokdempers, moeten deze deugdelijk zijn bevestigd en goed werken. | Visuele controle, waarbij het driewielige motorrijtuig zo mogelijk enkele malen wordt ingeveerd. In geval van twijfel wordt een rijproef uitgevoerd. |
 
 #### § 3. Motor en brandstofsystemen
@@ -3618,11 +3608,11 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | --- | --- | --- |
 | 1. | De bestuurde wielen van driewielige motorrijtuigen moeten goed reageren op de draaiing van het stuurwiel. | Visuele controle waarbij, met de wielen in de stand van rechtuitrijden, het stuurwiel naar links en naar rechts wordt gedraaid met een hoekverdraaiing van ten hoogste 15°, zo nodig met draaiende motor. De bestuurde wielen moeten hierbij van stand veranderen. |
 | 2. | Bij draaiing van het stuurwiel tot aan de aanslagen mogen geen weerstanden voelbaar zijn en moeten de wielen onderscheidenlijk de banden vrij kunnen draaien. | Visuele controle waarbij de stuurbekrachtiging buiten werking is gesteld. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand bewogen waarbij de bestuurde wielen gedeeltelijk mogen worden ontlast. |
-| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Terwijl de massa van het driewielige motorrijtuig op de wielen rust, wordt het stuurwiel met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van het driewielige motorrijtuig op de wielen rust. |
+| 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Terwijl de massa van het driewielige motorrijtuig op de wielen rust, wordt het stuurwiel met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van het driewielige motorrijtuig op de wielen rust. |
 | 4. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. | Visuele controle. |
 | 5. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 5 en 6: visuele controle. Hierbij wordt het stuurwiel langzaam naar links en naar rechts gedraaid en axiaal bewogen. |
-| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
-| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Voor het zichtbaar maken van: |
+| 6. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt. Hierbij is het bepaalde in [bijlage VIII, artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
+| 7. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van het driewielige motorrijtuig op de wielen rust; |
 |   |   | b. axiale speling worden op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
@@ -3644,7 +3634,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Driewielige motorrijtuigen moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien er sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; | – Onderdelen a tot en met c: visuele controle. – Onderdeel d: visuele controle. Indien er twijfel bestaat omtrent de deugdelijkheid van de reminrichting wordt het remsysteem onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. |
+| 1. | Driewielige motorrijtuigen moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien er sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; | – Onderdelen a tot en met c: visuele controle. – Onderdeel d: visuele controle. Indien er twijfel bestaat omtrent de deugdelijkheid van de reminrichting wordt het remsysteem onder druk gezet, hierna aangeduid met ‘drukproef’. Het rempedaal wordt, bij een hydraulisch remsysteem langzaam, ingetrapt totdat een kracht van 700 N op het pedaal wordt uitgeoefend. Deze kracht wordt gedurende ongeveer 10 seconden uitgeoefend waarbij het pedaal niet op de aanslag mag komen. Indien een rembekrachtiger aanwezig is, wordt de drukproef uitgevoerd met draaiende motor. |
 |   | c. onderdelen niet zijn beschadigd, gescheurd of gebroken; | – Onderdeel e: visuele controle. |
 |   | d. onderdelen geen inwendige of uitwendige lekkage vertonen; |   |
 |   | e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. |   |
@@ -3653,7 +3643,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 3. | Het rempedaal onderscheidenlijk de remhendel mag geen zodanige slag maken dat het pedaal dan wel de handel tot een aanslag kan worden ingetrapt of ingedrukt. | Controle door het rempedaal in te trappen. Bij twijfel wordt het pedaal met een kracht van ten hoogste 700 N ingetrapt. |
 | 4. | Het oppervlak van het rempedaal moet stroef zijn. | Visuele controle. |
 | 5. | Remslangen mogen: | – Onderdeel a: visuele controle. |
-|   | a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; | – Onderdeel b: visuele controle, waarbij de bestuurde wielen naar de uiterste linker- en rechterstuurstand worden gebracht. |
+|   | a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; | – Onderdeel b: visuele controle, waarbij de bestuurde wielen naar de uiterste linker- en rechterstuurstand worden gebracht. |
 |   | b. niet langs andere voertuigdelen schuren, en | – Onderdeel c: visuele controle. |
 |   | c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. |   |
 | 6. | Remkabels mogen niet zijn gerafeld en moeten goed gangbaar zijn. | Visuele controle, waarbij de rem wordt bediend. |
@@ -3705,13 +3695,13 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | --- | --- | --- |
 | 1. | De deuren van driewielige motorrijtuigen moeten goed sluiten. De deuren die direct toegang geven tot de personenruimte, moeten op normale wijze vanaf de binnenzijde en vanaf de buitenzijde kunnen worden geopend. | Visuele controle, waarbij de deuren worden geopend en gesloten. |
 | 2. | Het slot en de scharnieren van de motorkap en het kofferdeksel van het voertuig moeten een goede sluiting waarborgen. | Visuele controle, waarbij de motorkap en het kofferdeksel wordt geopend en gesloten. |
-| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 3. | De bevestiging van de scharnieren van de deuren, de motorkap en het kofferdeksel mag niet in ernstige mate door corrosie zijn aangetast. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 
 ##### Artikel 5.5.42
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De voorruit en de naast de bestuurders zitplaats aanwezige zijruiten, dan wel het windscherm van driewielige motorrijtuigen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 1. | De voorruit en de naast de bestuurders zitplaats aanwezige zijruiten, dan wel het windscherm van driewielige motorrijtuigen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 | 2. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van driewielige motorrijtuigen mogen niet zijn voorzien van onnodige voorwerpen die het uitzicht van de bestuurder belemmeren. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 3. | De lichtdoorlatendheid van de voorruit en de naast de bestuurders zitplaats aanwezige zijruiten mag niet minder dan 55% bedragen. | Visuele controle, in geval van twijfel wordt gemeten. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 4. | Indien het driewielig motorrijtuig niet is voorzien van een rechterbuitenspiegel, mag de achterruit geen beschadigingen of verkleuringen vertonen. | Visuele controle. |
@@ -3749,8 +3739,8 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De zitplaatsen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
-| 2. | De zitplaatsen en rugleuningen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
+| 1. | De zitplaatsen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
+| 2. | De zitplaatsen en rugleuningen van driewielige motorrijtuigen moeten deugdelijk aan het voertuig zijn bevestigd. De van fabriekswege aanwezige verstelinrichtingen van de zitplaatsen en rugleuningen moeten goed kunnen worden vergrendeld. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Indien de zitplaats in de stand waarin deze wordt aangetroffen vergrendeld is, wordt voldaan aan de eis ten aanzien van de vergrendeling. |
 
 ##### Artikel 5.5.47
 
@@ -3759,7 +3749,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 | 1. | Driewielige motorrijtuigen met een gesloten carrosserie, die na 16 juni 2003 in gebruik zijn genomen, moeten zijn voorzien van gordels voor alle naar voren en naar achteren gerichte zitplaatsen. | Leden 1 tot en met 3: visuele controle. |
 | 2. | Driewielige motorrijtuigen met een gesloten carrosserie, die na 31 december 1989 doch voor 17 juni 2003 in gebruik zijn genomen, moeten zijn voorzien van gordels voor alle naar voren gerichte zitplaatsen. |   |
 | 3. | Het eerste en tweede lid zijn niet van toepassing op klapstoelen en zitplaatsen die uitsluitend zijn bestemd voor gebruik in een stilstaand voertuig. |   |
-| 4. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
+| 4. | De gordels moeten deugdelijk zijn bevestigd en mogen niet zijn beschadigd. Het pluizen van de gordel wordt niet gezien als een beschadiging. Indien sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, waarbij een eventuele rolgordel volledig wordt uitgetrokken. |
 | 5. | De gordels moeten zijn voorzien van een goed werkende sluiting en een goed werkende blokkering. Oprolmechanismen moeten zodanig functioneren dat de gordel aanligt na het omdoen ervan. | Visuele controle. Hierbij wordt de gordel in de sluiting gebracht. Indien de gordel is voorzien van een oprolmechanisme wordt de gordel omgedaan. De blokkering wordt gecontroleerd door te trekken aan de gordel; indien dit geen uitsluitsel biedt wordt tijdens een remproef op de weg het blokkeren van de gordel gecontroleerd. |
 
 ##### Artikel 5.5.48
@@ -3818,20 +3808,20 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijke lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
-| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijke lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01) vermelde lichten en retroreflectoren voor zover het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
-| 6. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. | Visuele controle. |
+| 5. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03) vermelde lichten en retroreflectoren voor zover het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
+| 6. | De in [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. | Visuele controle. |
 | 7. | Indien een driewielig motorrijtuig is uitgerust met een inrichting waarmee de dimlichtafstelling vanaf de bestuurderszitplaats aan de beladingstoestand kan worden aangepast moet deze inrichting goed werken. | Visuele controle, waarbij de inrichting met de hand wordt bediend. |
 
 ##### Artikel 5.5.56
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Het dimlicht van driewielige motorrijtuigen moet goed zijn afgesteld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 2. | Driewielige motorrijtuigen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 1. | Het dimlicht van driewielige motorrijtuigen moet goed zijn afgesteld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 2. | Driewielige motorrijtuigen die zijn voorzien van een kenteken bevattende de lettergroep CD of CDJ of de lettergroep BN of GN en twee groepen van twee cijfers dan wel een vermelding inzake afwijkende koplampen onder bijzonderheden in het kentekenregister, mogen zijn voorzien van dimlichten met een afwijkend lichtbeeld. Hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.5.57
 
@@ -3853,7 +3843,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 |   | m. verlichte transparanten; |   |
 |   | n. één of twee dagrijlichten indien het voertuig niet breder is dan 1,30 m, dan wel twee dagrijlichten indien het voertuig breder is dan 1,30 m; |   |
 |   | o. een derde remlicht, aangebracht zodanig dat: |   |
-| 2. | Lichten die ingevolge [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen, mits wordt voldaan aan de in [artikel 5.5.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.53&z=2014-07-01&g=2014-07-01) met betrekking tot die lichten gestelde eisen. | Leden 2 tot en met 4: visuele controle. |
+| 2. | Lichten die ingevolge [artikel 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen, mits wordt voldaan aan de in [artikel 5.5.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.53&z=2014-09-03&g=2014-09-03) met betrekking tot die lichten gestelde eisen. | Leden 2 tot en met 4: visuele controle. |
 | 3. | Driewielige motorrijtuigen mogen zijn voorzien van extra rode retroreflectoren aan de achterzijde van het voertuig. |   |
 | 4. | Verlichte transparanten: a. moeten afzonderlijk zijn geschakeld; b. mogen niet breder zijn dan het voertuig waarop de verlichting is gemonteerd, en c. mogen niet langer zijn dan het voertuig waarop de verlichting is gemonteerd. |   |
 | 5. | In afwijking van het eerste lid, onderdeel o, mogen twee extra remlichten worden aangebracht, indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd. | Visuele controle. In geval van twijfel wordt gemeten. |
@@ -3881,15 +3871,15 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 |   | **Artikel 5.5.59a** |   |
-| 1. | De in [artikel 5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.5.61
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bij driewielige motorrijtuigen in gebruik genomen na 31 december 1967 en breder dan 1,30 m moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.5.51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01), en [5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-07-01&g=2014-07-01), zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Bij driewielige motorrijtuigen in gebruik genomen na 31 december 1967 en breder dan 1,30 m moeten de lichten, lichtsignalen en retroreflecterende voorzieningen, bedoeld in de [artikelen 5.5.51, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03), en [5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-09-03&g=2014-09-03), zijn aangebracht op een afstand van niet meer dan 0,50 m vanaf het punt van de grootste breedte van het voertuig. Voor richtingaanwijzers geldt de eerste volzin slechts voor zover het voertuig in gebruik is genomen na 31 december 1997. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | Het bepaalde in het eerste lid geldt niet voor de grote lichten, achterlichten, achteruitrijlichten, remlichten, de achterkentekenplaatverlichting, mistachterlichten, en werklichten. | – |
 
 ##### Artikel 5.5.62
@@ -3910,7 +3900,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Driewielige motorrijtuigen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-07-01&g=2014-07-01), [5.5.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51a&z=2014-07-01&g=2014-07-01), [5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-07-01&g=2014-07-01) en [5.5.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Driewielige motorrijtuigen mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.5.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51&z=2014-09-03&g=2014-09-03), [5.5.51a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.51a&z=2014-09-03&g=2014-09-03), [5.5.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57&z=2014-09-03&g=2014-09-03) en [5.5.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=10&artikel=5.5.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Driewielige motorrijtuigen niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 #### § 11. Verbinding tussen driewielig motorrijtuig en aanhangwagen
@@ -3919,7 +3909,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Indien het driewielig motorrijtuig is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet zijn gescheurd, gebroken, vervormd of in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie ter plaatse van de bevestiging geschiedt de controle op de wijze zoals bepaald in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01). | Visuele controle. |
+| 1. | Indien het driewielig motorrijtuig is voorzien van een inrichting tot het koppelen van een aanhangwagen, moet deze inrichting deugdelijk zijn bevestigd en mag deze niet zijn gescheurd, gebroken, vervormd of in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie ter plaatse van de bevestiging geschiedt de controle op de wijze zoals bepaald in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03). | Visuele controle. |
 | 2. | Bij een inrichting als bedoeld in het eerste lid, die is voorzien van een koppelingskogel moet de diameter van de kogel ten minste 49 mm bedragen. | Het bolvormige gedeelte wordt gemeten met een geschikt meetmiddel. |
 
 #### § 12. Diversen
@@ -3938,7 +3928,7 @@ Een driewielig motorrijtuig moet voldoen aan de in deze afdeling opgenomen eisen
 
 ##### Artikel 5.6.0
 
-Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 10. Lichten, lichtsignalen en retroreflecterende voorzieningen
 
@@ -3960,7 +3950,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | --- | --- | --- |
 | 1. | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van bromfietsen mogen: | – Onderdeel a: visuele controle. – Onderdeel b: visuele controle. Bij twijfel wordt een rijproef uitgevoerd. |
 |   | a. geen breuken of scheuren vertonen, en |   |
-|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht dan wel dat het weggedrag van het voertuig nadelig wordt beïnvloed. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht dan wel dat het weggedrag van het voertuig nadelig wordt beïnvloed. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 2. | Indien de bromfiets is opgebouwd uit een frame met voor- of achtervork mogen deze onderdelen: a. geen breuken of scheuren vertonen; b. niet zijn doorgeroest, en c. niet zodanig zijn vervormd dat de stijfheid en de sterkte ervan in gevaar worden gebracht. | Lid 2 en 3: visuele controle. |
 | 3. | De onderdelen die deel uitmaken van het frame of van de zelfdragende constructie moeten deugdelijk zijn bevestigd. |   |
 
@@ -3977,7 +3967,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Bromfietsen mogen: a. niet langer zijn dan 4.00 m; b. niet breder zijn dan 1.00 m, en c. niet hoger zijn dan 2.50 m. | Lid 1 en 2: in geval van twijfel wordt de bromfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 1. | Bromfietsen mogen: a. niet langer zijn dan 4.00 m; b. niet breder zijn dan 1.00 m, en c. niet hoger zijn dan 2.50 m. | Lid 1 en 2: in geval van twijfel wordt de bromfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 | 2. | In afwijking van het bepaalde in het eerste lid, onderdeel b, mogen bromfietsen op meer dan twee wielen niet breder zijn dan 2,00 m. |   |
 
 #### § 11. Verbinding tussen driewielig motorrijtuig en aanhangwagen
@@ -3986,8 +3976,8 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van meer dan 25 km/h tot en met 45 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 5 km/h, voldoen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | – |
-| 2. | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van niet meer dan 25 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 4 km/h, voldoen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | – |
+| 1. | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van meer dan 25 km/h tot en met 45 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 5 km/h, voldoen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | – |
+| 2. | Bromfietsen die blijkens de kentekencard, het kentekenbewijs of het kentekenregister een maximumconstructiesnelheid van niet meer dan 25 km/h hebben, moeten bij voortduring aan deze snelheid, vermeerderd met 4 km/h, voldoen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | – |
 | 3. | Bromfietsen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste en tweede lid vermelde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. Eventueel wordt de meting opnieuw uitgevoerd. |
 
 ##### Artikel 5.6.9
@@ -4002,7 +3992,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Indien de bromfiets is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=3&artikel=5.6.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de volgende leden gestelde eisen. | – |
+| 1. | Indien de bromfiets is voorzien van een LPG-installatie, moet deze, onverminderd het bepaalde in [artikel 5.6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=3&artikel=5.6.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de volgende leden gestelde eisen. | – |
 | 2. | De LPG-tank: a. moet permanent zijn aangebracht aan het voertuig; b. mag niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak, en c. mag geen deuken vertonen. | Leden 2 tot en met 8: visuele controle. |
 | 3. | De LPG-tank mag niet in de motorruimte zijn geplaatst. |   |
 | 4. | De LPG-tank moet zijn voorzien van een deugdelijke gasdichte kast die in de buitenlucht moet uitmonden indien het voertuig in gebruik is genomen na 31 maart 1979, tenzij de tank in de open lucht is geplaatst. |   |
@@ -4015,7 +4005,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Indien de bromfiets is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=3&artikel=5.6.9&z=2014-07-01&g=2014-07-01), voldoen aan de in de in het tweede tot en met achtste lid gestelde eisen. | – |
+| 1. | Indien de bromfiets is voorzien van een CNG-installatie, moet deze, onverminderd [artikel 5.6.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=3&artikel=5.6.9&z=2014-09-03&g=2014-09-03), voldoen aan de in de in het tweede tot en met achtste lid gestelde eisen. | – |
 | 2. | De CNG-tank: a. moet permanent zijn aangebracht aan het voertuig, en b. mag geen deuken vertonen. | Leden 2 tot en met 5: visuele controle. |
 | 3. | De CNG-tank mag niet in de motorruimte zijn geplaatst. |   |
 | 4. | De vervaldatum van de goedkeuring, en indien van toepassing van de herkwalificatie, van een CNG-tank, mag niet verstreken zijn. |   |
@@ -4033,8 +4023,8 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | 1. | Bromfietsen met een verbrandingsmotor moeten zijn voorzien van een uitlaatsysteem dat over de gehele lengte gasdicht is, met uitzondering van de afwateringsgaatjes. | Visuele en auditieve controle. |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle. |
 | 3. | Bromfietsen moeten blijven behoren tot een goedgekeurd type als bedoeld in [artikel 2 van het Besluit typekeuring bromfietsen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0003722&artikel=2) (**Stb.** 1984, 525). | – |
-| 4. | Bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII, artikelen 36, 37 en 38](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 5. | Bromfietsen waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 97 dB(A) voor bromfietsen die blijkens de gegevens in het kentekenregister zijn geconstrueerd voor een maximumsnelheid van meer dan 25 km/h en niet meer dan 90 dB(A) voor andere bromfietsen. Hierbij is het bepaalde in [bijlage VIII, artikelen 36, 37 en 38](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 4. | Bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan de waarde die voor het voertuig is vermeld in het kentekenregister, vermeerderd met 2 dB(A). Hierbij is het bepaalde in [bijlage VIII, artikelen 36, 37 en 38](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 5. | Bromfietsen waarvoor geen waarde als bedoeld in het vierde lid is vermeld, mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 97 dB(A) voor bromfietsen die blijkens de gegevens in het kentekenregister zijn geconstrueerd voor een maximumsnelheid van meer dan 25 km/h en niet meer dan 90 dB(A) voor andere bromfietsen. Hierbij is het bepaalde in [bijlage VIII, artikelen 36, 37 en 38](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.6.12
 
@@ -4082,14 +4072,14 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van bromfietsen moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 ##### Artikel 5.6.20
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van bromfietsen mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van bromfietsen mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging van wiellagers mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle waarbij het wiel, al dan niet met behulp van apparatuur, wordt rondgedraaid. Zo nodig wordt een rijproef uitgevoerd. |
 
 ##### Artikel 5.6.24
@@ -4129,7 +4119,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 | 2. | Van bromfietsen op drie of vier wielen: a. moeten de bestuurde wielen goed reageren op de draaiing van het stuurwiel; b. mogen bij draaiing van het stuurwiel tot aan de aanslagen geen weerstanden voelbaar zijn en moeten de wielen onderscheidenlijk de banden vrij kunnen draaien; c. moeten de voor de overbrenging van de stuurbeweging bestemde onderdelen deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast; | – Onderdeel a: visuele controle, waarbij met de wielen in de stand van rechtuitrijden, het stuurwiel naar links en naar rechts wordt gedraaid met een hoekverdraaiing van ten hoogste 15°, zo nodig met draaiende motor. De bestuurde wielen moeten hierbij van stand veranderen. – Onderdeel b: visuele controle, waarbij de stuurbekrachtiging buiten werking is gesteld. De bestuurde wielen worden naar de uiterste linker- en rechterstuurstand bewogen waarbij de bestuurde wielen gedeeltelijk mogen worden ontlast. – Onderdeel c: visuele controle. Terwijl de massa van de bromfiets op de wielen rust, wordt het stuurwiel met krachtige korte bewegingen naar links en naar rechts gedraaid. |
 |   | d. moeten stofhoezen van het stuurhuis en de stuurkogels deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten; | – Onderdeel d: visuele controle. – Onderdeel e: visuele controle. Hierbij wordt het stuurwiel langzaam naar links en naar rechts gedraaid en axiaal bewogen. |
 |   | e. moeten koppelingen een zichtbaar spelingvrije overbrenging kunnen bewerkstelligen; | – Onderdeel f: visuele controle. – Onderdeel g: visuele controle. Voor het zichtbaar maken van: |
-|   | f. mogen flexibele koppelingen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt; g. mogen de verbindingen in het stangenstelsel niet te veel speling vertonen, waarbij het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing is; en | 1° radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van de bromfiets op de wielen rust 2° axiale speling worden op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
+|   | f. mogen flexibele koppelingen niet in ernstige mate zijn gescheurd en de vulcanisatie mag niet in ernstige mate zijn losgeraakt; g. mogen de verbindingen in het stangenstelsel niet te veel speling vertonen, waarbij het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing is; en | 1° radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van de bromfiets op de wielen rust 2° axiale speling worden op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   | h. mag, indien een gedeelte van de binnenkant van het stuurkogelhuis en van de stuurkogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, dit gedeelte geen corrosie vertonen. | – Onderdeel h: visuele controle indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 #### § 3. Motor en brandstofsystemen
@@ -4161,9 +4151,9 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Bromfietsen op twee wielen, in gebruik genomen na 31 december 2006, moeten zijn voorzien van twee bedrijfsremmen waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg a. bij gebruik van de voorwielrem ten minste 2,5 m/s2 bedraagt; b. bij gebruik van de achterwielrem ten minste 2,4 m/s2 bedraagt, en c. bij gebruik van de voorwielrem en de achterwielrem tezamen ten minste 4,0 m/s2 bedraagt. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
-| 2. | Bromfietsen op twee wielen in gebruik genomen voor 1 januari 2007 moeten zijn voorzien van twee bedrijfsremmen met onafhankelijke bedieningsorganen en overbrengingen, waarvan de één ten minste op het voorwiel en de ander ten minste op het achterwiel werkt. De remvertraging van de voorwielrem en de achterwielrem tezamen moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
-| 3. | Bromfietsen op meer dan twee wielen moeten zijn voorzien van een bedrijfsreminrichting waarmee, bij bediening van de voor- en achterrem tezamen, hetzij bij bediening van een gezamenlijke reminrichting, de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt. Hierbij is het bepaalde in bijlage [VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
+| 1. | Bromfietsen op twee wielen, in gebruik genomen na 31 december 2006, moeten zijn voorzien van twee bedrijfsremmen waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg a. bij gebruik van de voorwielrem ten minste 2,5 m/s2 bedraagt; b. bij gebruik van de achterwielrem ten minste 2,4 m/s2 bedraagt, en c. bij gebruik van de voorwielrem en de achterwielrem tezamen ten minste 4,0 m/s2 bedraagt. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
+| 2. | Bromfietsen op twee wielen in gebruik genomen voor 1 januari 2007 moeten zijn voorzien van twee bedrijfsremmen met onafhankelijke bedieningsorganen en overbrengingen, waarvan de één ten minste op het voorwiel en de ander ten minste op het achterwiel werkt. De remvertraging van de voorwielrem en de achterwielrem tezamen moet op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedragen. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
+| 3. | Bromfietsen op meer dan twee wielen moeten zijn voorzien van een bedrijfsreminrichting waarmee, bij bediening van de voor- en achterrem tezamen, hetzij bij bediening van een gezamenlijke reminrichting, de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt. Hierbij is het bepaalde in bijlage [VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Bij twijfel controle door middel van een remproef op de weg, waarbij aan de hand van de afgelegde remweg wordt bepaald of aan de vereiste remvertraging wordt voldaan. De snelheid bij aanvang van de remproef moet ongeveer 25 km/h bedragen bij een bromfiets met een door de constructie bepaalde snelheid van 25 km/h onderscheidenlijk 40 km/h voor een bromfiets met een door de constructie bepaalde snelheid van 45 km/h. Tevens is het ook toegestaan om bij bromfietsen op meer dan 2 wielen een zelfregistrerende remvertragingsmeter te gebruiken. |
 | 4. | De in het derde lid bedoelde bedrijfsreminrichting moet op alle wielen werken. | Terwijl de wielen zich vrij van de grond bevinden, wordt het rempedaal licht ingetrapt dan wel de remhendel licht ingedrukt en wordt gecontroleerd of elk wiel wordt geremd. |
 
 ##### Artikel 5.6.39
@@ -4188,7 +4178,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bromfietsen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
+| 1. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bromfietsen mogen geen beschadigingen of verkleuringen vertonen. Ten aanzien van de voorruit is het bepaalde in [bijlage VIII, artikelen 91 tot en met 95](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
 | 2. | De voorruit en de naast de bestuurderszitplaats aanwezige zijruiten van bromfietsen mogen niet zijn voorzien van onnodige voorwerpen die het uitzicht van de bestuurder belemmeren. |   |
 | 3. | De lichtdoorlatendheid van de voorruit en de naast de bestuurderszitplaats aanwezige zijruiten mag niet minder dan 55% bedragen. | Visuele controle. In geval van twijfel wordt gemeten. |
 | 4. | Indien de bromfiets niet is voorzien van een rechterbuitenspiegel, mag de achterruit geen beschadigingen of verkleuringen vertonen. | Lid 4 en 5: visuele controle. |
@@ -4282,12 +4272,12 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-07-01&g=2014-07-01) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het verlichte oppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 1. | De in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-09-03&g=2014-09-03) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het verlichte oppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt, dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-07-01&g=2014-07-01) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
-| 6. | De in de artikelen [5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-07-01&g=2014-07-01) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. |   |
+| 5. | De in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-09-03&g=2014-09-03) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
+| 6. | De in de artikelen [5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-09-03&g=2014-09-03) en [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. |   |
 | 7. | Remlichten van bromfietsen in gebruik genomen na 31 december 2006 moeten werken bij bediening van zowel de achterwielrem als de voorwielrem. |   |
 
 ##### Artikel 5.6.57
@@ -4346,7 +4336,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -4361,7 +4351,7 @@ Een bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoo
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Bromfietsen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-07-01&g=2014-07-01), [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-07-01&g=2014-07-01), [5.6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57&z=2014-07-01&g=2014-07-01), [5.6.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57a&z=2014-07-01&g=2014-07-01) en [5.6.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.58&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. In of op het voertuig aanwezige lichten of objecten die licht uitstralen doen dit niet naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Bromfietsen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.6.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.51&z=2014-09-03&g=2014-09-03), [5.6.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.52&z=2014-09-03&g=2014-09-03), [5.6.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57&z=2014-09-03&g=2014-09-03), [5.6.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.57a&z=2014-09-03&g=2014-09-03) en [5.6.58](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=10&artikel=5.6.58&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. In of op het voertuig aanwezige lichten of objecten die licht uitstralen doen dit niet naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Bromfietsen mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten. | Visuele controle. |
 
 #### § 11. Verbinding tussen bromfiets en aanhangwagen
@@ -4421,7 +4411,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Motorrijtuigen met beperkte snelheid mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,60 m, en c. niet hoger zijn dan 4,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 1. | Motorrijtuigen met beperkte snelheid mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,60 m, en c. niet hoger zijn dan 4,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 | 2. | In afwijking van het bepaalde in het eerste lid, onderdeel b, mogen rijdende werktuigen breder zijn dan 2,60 m, doch niet breder dan voor de bruikbaarheid als werktuig noodzakelijk is en niet breder dan 3,00 m. |   |
 
 ##### Artikel 5.7.7
@@ -4439,7 +4429,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Motorrijtuigen met beperkte snelheid moeten bij voortduring blijven voldoen aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-07-01&g=2014-07-01) voor motorrijtuigen met beperkte snelheid vermelde maximumconstructiesnelheid, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
+| 1. | Motorrijtuigen met beperkte snelheid moeten bij voortduring blijven voldoen aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-09-03&g=2014-09-03) voor motorrijtuigen met beperkte snelheid vermelde maximumconstructiesnelheid, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
 | 2. | Motorrijtuigen met beperkte snelheid mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. |
 
 ##### Artikel 5.7.9
@@ -4504,14 +4494,14 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van motorrijtuigen met beperkte snelheid moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 ##### Artikel 5.7.20
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.7.24
@@ -4565,7 +4555,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 | 5. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. | Visuele controle, Het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van motorrijtuigen met beperkte snelheid op de wielen rust. |
 | 6. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 6 en 7: visuele controle. |
 | 7. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd. |   |
-| 8. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 8. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 9. | De stuurbekrachtiger moet goed functioneren. | Voor de controle van de stuurbekrachtiger wordt bij uitgeschakelde motor het stuurwiel naar links en rechts bewogen. Vervolgens wordt met draaiende motor het stuurwiel opnieuw naar links en rechts bewogen, hierbij moet de werking van de stuurbekrachtiger voelbaar zijn. |
 | 10. | Slangen ten behoeve van de stuurbekrachtiger mogen geen beschadigingen vertonen waarbij het wapeningsmateriaal zichtbaar is en mogen geen bewegende delen raken. | Lid 10 en 11: visuele controle. |
 | 11. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
@@ -4596,8 +4586,8 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 | 1. | Motorrijtuigen met beperkte snelheid moeten zijn voorzien van een bedrijfsrem die ten minste op één as werkt. | Visuele controle |
 | --- | --- | --- |
-| 2. | Motorrijtuigen met beperkte snelheid met een maximumconstructiesnelheid van niet meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 2,4 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. | Leden 2 tot en met 4: in geval van twijfel wordt een remproef uitgevoerd. |
-| 3. | Motorrijtuigen met beperkte snelheid met een maximumconstructiesnelheid van meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,1 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. |   |
+| 2. | Motorrijtuigen met beperkte snelheid met een maximumconstructiesnelheid van niet meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 2,4 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. | Leden 2 tot en met 4: in geval van twijfel wordt een remproef uitgevoerd. |
+| 3. | Motorrijtuigen met beperkte snelheid met een maximumconstructiesnelheid van meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,1 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. |   |
 | 4. | Het voertuig mag door het remmen geen zijwaartse beweging maken. |   |
 
 ##### Artikel 5.7.39
@@ -4720,11 +4710,11 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 1. | De in [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren mogen, voorzover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% afgeschermd. | Lid 5 en 6: visuele controle. |
+| 5. | De in [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren mogen, voorzover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% afgeschermd. | Lid 5 en 6: visuele controle. |
 | 6. | De retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
 | 7. | De elektrische schakeling van de dimlichten en de stadslichten moet zodanig zijn uitgevoerd dat de dimlichten en de extra dimlichten dan wel de stadslichten en de extra stadslichten niet tegelijk kunnen zijn ingeschakeld. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -4732,7 +4722,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Het dimlicht van motorrijtuigen met beperkte snelheid moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+|   | Het dimlicht van motorrijtuigen met beperkte snelheid moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.7.57
 
@@ -4745,7 +4735,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 |   | d. twee mistvoorlichten; |   |
 |   | e. één of twee mistachterlichten; |   |
 |   | f. twee of vier parkeerlichten; |   |
-|   | g. één zijrichtingaanwijzer aan elke zijkant van het voertuig indien deze lichten niet reeds ingevolge [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | g. één zijrichtingaanwijzer aan elke zijkant van het voertuig indien deze lichten niet reeds ingevolge [artikel 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | h. twee witte retroreflectoren aan de voorzijde van het voertuig; |   |
 |   | i. ambergele retroreflectoren aan de zijkanten van het voertuig indien het voertuig niet langer is dan 6,00 m, de achterste retroreflector aan de zijkant mag rood zijn; |   |
 |   | j. één of twee achteruitrijlichten; |   |
@@ -4777,8 +4767,8 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.7.60
@@ -4801,7 +4791,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 |   | a. in de lengterichting van het voertuig waarbij ten minste één zijmarkeringslicht zich in het middelste derde gedeelte van het voertuig bevindt, en het meest naar voren geplaatste zijmarkeringslicht zich niet meer dan 3,00 m van de voorkant van het voertuig bevindt en het meest achterwaarts geplaatste zijmarkeringslicht zich niet meer dan 1,00 m van de achterkant van het voertuig bevindt; |   |
 |   | b. op een onderlinge afstand van niet meer dan 3,00 m tussen twee opeenvolgende zijmarkeringslichten, en |   |
 |   | c. op een hoogte van niet minder dan 0,25 m en niet meer dan 0,90 m boven het wegdek. Indien zulks voor de vorm van de bovenbouw noodzakelijk is, mogen de zijmarkeringslichten op een hoogte van meer dan 0,90 m doch niet meer dan 1,50 m boven het wegdek zijn aangebracht. |   |
-| 9. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.7.51, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-07-01&g=2014-07-01). |   |
+| 9. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.7.51, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-09-03&g=2014-09-03). |   |
 
 ##### Artikel 5.7.62
 
@@ -4818,7 +4808,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 ##### Artikel 5.7.65
 
-| 1. | Motorrijtuigen met beperkte snelheid mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-07-01&g=2014-07-01), [5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-07-01&g=2014-07-01) en [5.7.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Motorrijtuigen met beperkte snelheid mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.7.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.51&z=2014-09-03&g=2014-09-03), [5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-09-03&g=2014-09-03) en [5.7.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | --- | --- | --- |
 | 2. | Motorrijtuigen met beperkte snelheid mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
@@ -4853,7 +4843,7 @@ Een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opge
 
 ##### Artikel 5.8.0
 
-Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 0. Algemeen
 
@@ -4892,7 +4882,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Landbouw- of bosbouwtrekkers mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 3,00 m, en c. niet hoger zijn dan 4,00 m | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | Landbouw- of bosbouwtrekkers mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 3,00 m, en c. niet hoger zijn dan 4,00 m | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 ##### Artikel 5.8.7
 
@@ -4912,7 +4902,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Landbouw- of bosbouwtrekkers moeten bij voortduring blijven voldoen aan de in de goedkeuring vermelde maximumconstructiesnelheid of indien deze niet bekend is de constructiesnelheid behorend bij de classificatie van de voertuigcategorie T, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
+| 1. | Landbouw- of bosbouwtrekkers moeten bij voortduring blijven voldoen aan de in de goedkeuring vermelde maximumconstructiesnelheid of indien deze niet bekend is de constructiesnelheid behorend bij de classificatie van de voertuigcategorie T, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
 | 2. | Landbouw- of bosbouwtrekkers mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. |
 
 ##### Artikel 5.8.9
@@ -4977,14 +4967,14 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels moeten deugdelijk zijn bevestigd. | Leden 1 tot en met 3: visuele controle. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 ##### Artikel 5.8.20
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.8.24
@@ -5036,7 +5026,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 | 5. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. | Visuele controle, het stuurwiel wordt met krachtige korte bewegingen naar links en naar rechts gedraaid, waarbij de massa van de landbouw-of bosbouwtrekker op de wielen rust. |
 | 6. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. | Lid 6 en 7: visuele controle. |
 | 7. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd. |   |
-| 8. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, in geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 8. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, in geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 9. | De stuurbekrachtiger moet goed functioneren. | Voor de controle van de stuurbekrachtiger wordt bij uitgeschakelde motor het stuurwiel naar links en rechts bewogen. Vervolgens wordt met draaiende motor het stuurwiel opnieuw naar links en rechts bewogen, hierbij moet de werking van de stuurbekrachtiger voelbaar zijn. |
 | 10. | Slangen ten behoeve van de stuurbekrachtiger mogen geen beschadigingen vertonen waarbij het wapeningsmateriaal zichtbaar is en mogen geen bewegende delen raken. | Lid 10 en 11: Visuele controle. |
 | 11. | Stofhoezen van het stuurhuis en de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
@@ -5072,8 +5062,8 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
 | 1. | Landbouw- of bosbouwtrekkers moeten zijn voorzien van een bedrijfsrem die ten minste op de wielen van één as werkt; indien op meer dan één as wordt geremd, mag één as ontkoppeld zijn mits bij het in werking stellen van de bedrijfsrem deze as automatisch weer wordt gekoppeld en mits bij een storing in het koppelingssysteem dit automatisch geschiedt. | Visuele controle. |
-| 2. | Landbouw- of bosbouwtrekkers met een maximumconstructiesnelheid van niet meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 2,4 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. | Leden 2 tot en met 4: in geval van twijfel wordt een remproef uitgevoerd. |
-| 3. | Landbouw- of bosbouwtrekkers met een maximumconstructiesnelheid van meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,1 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. |   |
+| 2. | Landbouw- of bosbouwtrekkers met een maximumconstructiesnelheid van niet meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 2,4 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. | Leden 2 tot en met 4: in geval van twijfel wordt een remproef uitgevoerd. |
+| 3. | Landbouw- of bosbouwtrekkers met een maximumconstructiesnelheid van meer dan 30 km/h moeten zijn voorzien van een bedrijfsrem, waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,1 m/s2 bedraagt. Bij controle van de remvertraging is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 7, afdeling 2, van overeenkomstige toepassing. |   |
 | 4. | Het voertuig mag door het remmen geen zijwaartse beweging maken. |   |
 
 ##### Artikel 5.8.39
@@ -5184,11 +5174,11 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 1. | De in [artikel 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren mogen, voor zover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
+| 5. | De in [artikel 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren mogen, voor zover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
 | 6. | De retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
 | 7. | De elektrische schakeling van de dimlichten en de stadslichten moet zodanig zijn uitgevoerd dat de dimlichten en de extra dimlichten dan wel de stadslichten en de extra stadslichten niet tegelijk kunnen zijn ingeschakeld. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -5196,7 +5186,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Het dimlicht van landbouw- of bosbouwtrekkers moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+|   | Het dimlicht van landbouw- of bosbouwtrekkers moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.8.57
 
@@ -5242,8 +5232,8 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing |   |
+| 1. | De in [artikel 5.7.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=10&artikel=5.7.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.8.60
@@ -5267,7 +5257,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 |   | a. in de lengterichting van het voertuig waarbij ten minste één zijmarkeringslicht zich in het middelste derde gedeelte van het voertuig bevindt, en het meest naar voren geplaatste zijmarkeringslicht zich iet meer dan 3,00 m van de voorkant van het voertuig bevindt, en het meest achterwaarts geplaatste zijmarkeringslicht zich niet meer dan 1,00 m van de achterkant van het voertuig bevindt; |   |
 |   | b. op een onderlinge afstand van niet meer dan 3,00 m tussen twee opeenvolgende zijmarkeringslichten, en |   |
 |   | c. op een hoogte van niet minder dan 0,25 m en niet meer dan 1,90 m boven het wegdek. |   |
-| 9. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.8.51, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-07-01&g=2014-07-01). Indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd mogen twee extra remlichten worden aangebracht. |   |
+| 9. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.8.51, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-09-03&g=2014-09-03). Indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd mogen twee extra remlichten worden aangebracht. |   |
 
 ##### Artikel 5.8.62
 
@@ -5284,7 +5274,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 ##### Artikel 5.8.65
 
-| 1. | Landbouw- of bosbouwtrekkers mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-07-01&g=2014-07-01), [5.8.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.57&z=2014-07-01&g=2014-07-01) en [5.8.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Landbouw- of bosbouwtrekkers mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.8.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.51&z=2014-09-03&g=2014-09-03), [5.8.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.57&z=2014-09-03&g=2014-09-03) en [5.8.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=10&artikel=5.8.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | --- | --- | --- |
 | 2. | Landbouw- of bosbouwtrekkers mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
@@ -5319,7 +5309,7 @@ Een landbouw- of bosbouwtrekker moet voldoen aan de in deze afdeling opgenomen e
 
 ##### Artikel 5.9.0
 
-Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 3. Motor en brandstofsystemen
 
@@ -5418,22 +5408,22 @@ Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 | 1. | De rode retroreflector moet zijn aangebracht: a. bij fietsen met één achterwiel tussen de bagagedrager en het spatbord, dan wel bij afwezigheid van een bagagedrager op het spatbord op een hoogte van niet minder dan 0,35 m en niet meer dan 0,90 m boven het wegdek, dan wel onder het zadel; | Onderdelen a tot en met c. visuele controle, in geval van twijfel wordt gemeten. |
 |   | b. bij fietsen met twee achterwielen aan de uiterste linkerzijde, op een hoogte van niet minder dan 0,35 m en niet meer dan 0,90 m boven het wegdek, en |   |
 |   | c. bij zijspanwagens aan de uiterste buitenzijde, op een hoogte van niet minder dan 0,35 m en niet meer dan 0,90 m. |   |
-| 2. | De in [artikel 5.9.51, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-07-01&g=2014-07-01), vermelde witte retroreflector moet zijn aangebracht aan de uiterste linkerzijde van het voertuig. | Lid 2 en 3: visuele controle. |
+| 2. | De in [artikel 5.9.51, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-09-03&g=2014-09-03), vermelde witte retroreflector moet zijn aangebracht aan de uiterste linkerzijde van het voertuig. | Lid 2 en 3: visuele controle. |
 | 3. | De witte of gele retroreflectoren aan de wielen moeten de omtrek van het wiel volgen en op of zo dicht mogelijk bij de velg zijn aangebracht, zodanig dat zij aan beide zijkanten van het voertuig zichtbaar zijn. |   |
 
 ##### Artikel 5.9.55
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-07-01&g=2014-07-01) en [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen voorzover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% zijn afgeschermd. | Leden 1 tot en met 3: visuele controle. |
-| 2. | De in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-07-01&g=2014-07-01) en [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. |   |
-| 3. | De rode retroreflectoren en de witte of gele retroreflectoren aan de wielen moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-09-03&g=2014-09-03) en [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen voorzover het het lichtdoorlatend gedeelte betreft, ten hoogste 25% zijn afgeschermd. | Leden 1 tot en met 3: visuele controle. |
+| 2. | De in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-09-03&g=2014-09-03) en [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. |   |
+| 3. | De rode retroreflectoren en de witte of gele retroreflectoren aan de wielen moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.9.57
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Fietsen mogen zijn voorzien van: a. een naar voren gerichte witte retroreflector indien deze niet reeds ingevolge [artikel 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-07-01&g=2014-07-01) verplicht is, en b. ambergele retroreflectoren aan de zijkanten van het voertuig. | Leden 1 tot en met 3: visuele controle. |
+| 1. | Fietsen mogen zijn voorzien van: a. een naar voren gerichte witte retroreflector indien deze niet reeds ingevolge [artikel 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-09-03&g=2014-09-03) verplicht is, en b. ambergele retroreflectoren aan de zijkanten van het voertuig. | Leden 1 tot en met 3: visuele controle. |
 | 2. | Zijspanwagens, verbonden aan een fiets, mogen zijn voorzien van: a. een naar voren gerichte witte retroreflector, en b. ambergele retroreflectoren aan de zijkanten van het voertuig. |   |
 | 3. | Fietsen en zijspanwagens mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig. |   |
 
@@ -5447,7 +5437,7 @@ Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Fietsen mogen niet zijn voorzien van meer retroreflecterende voorzieningen dan in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-07-01&g=2014-07-01), [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-07-01&g=2014-07-01), [5.9.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.57&z=2014-07-01&g=2014-07-01) en [5.9.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. |
+|   | Fietsen mogen niet zijn voorzien van meer retroreflecterende voorzieningen dan in de [artikelen 5.9.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.51&z=2014-09-03&g=2014-09-03), [5.9.52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.52&z=2014-09-03&g=2014-09-03), [5.9.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.57&z=2014-09-03&g=2014-09-03) en [5.9.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=9&paragraaf=10&artikel=5.9.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. |
 
 #### § 12. Diversen
 
@@ -5461,7 +5451,7 @@ Een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 ##### Artikel 5.10.0
 
-Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een gehandicaptenvoertuig uitgerust met een verbrandingsmotor en niet voorzien van een gesloten carrosserie, moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een gehandicaptenvoertuig uitgerust met een verbrandingsmotor en niet voorzien van een gesloten carrosserie, moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 1. Algemene bouwwijze van het voertuig
 
@@ -5498,7 +5488,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Gehandicaptenvoertuigen mogen: a. niet langer zijn dan 3,50 m; b. niet breder zijn dan 1,10 m, en c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | Gehandicaptenvoertuigen mogen: a. niet langer zijn dan 3,50 m; b. niet breder zijn dan 1,10 m, en c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 #### § 8. Reminrichting
 
@@ -5506,7 +5496,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Gehandicaptenvoertuigen moeten bij voortduring blijven voldoen aan aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-07-01&g=2014-07-01) vermelde maximumconstructiesnelheid omtrent gehandicaptenvoertuigen, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
+| 1. | Gehandicaptenvoertuigen moeten bij voortduring blijven voldoen aan aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-09-03&g=2014-09-03) vermelde maximumconstructiesnelheid omtrent gehandicaptenvoertuigen, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
 | 2. | Gehandicaptenvoertuigen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. |
 
 ##### Artikel 5.10.9
@@ -5583,14 +5573,14 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van gehandicaptenvoertuigen moeten deugdelijk zijn bevestigd. | Leden 1 tot en met 3: visuele controle. |
 | 2. | Stofhoezen van fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledige onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van een volledige onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 ##### Artikel 5.10.20
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.10.24
@@ -5638,7 +5628,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 | 3. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. |   |
 | 4. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. |   |
 | 5. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd. |   |
-| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Voor het zichtbaar maken van: |
+| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van het gehandicaptenvoertuig op de wielen rust; |
 |   |   | b. axiale speling worden op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
@@ -5798,19 +5788,19 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
+| 1. | De in [artikel 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door de defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. De schakelaar moet automatisch in de ingeschakelde stand blijven staan. |
 | 2. | De verlichtingsarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
+| 5. | De in [artikel 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren mogen ten hoogste 25% zijn afgeschermd. | Leden 5 tot en met 7: visuele controle. |
 | 6. | De retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
-| 7. | Rode retroreflectoren moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 7. | Rode retroreflectoren moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikel 127](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.10.56
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Het dimlicht van gehandicaptenvoertuigen moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+|   | Het dimlicht van gehandicaptenvoertuigen moet goed zijn afgesteld, hierbij is het bepaalde in [bijlage VIII, artikelen 113 en 114](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.10.57
 
@@ -5855,7 +5845,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.10.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.10.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -5865,7 +5855,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 | --- | --- | --- |
 | 1. | De mistvoorlichten moeten op een hoogte van niet minder dan 0,25 m boven het wegdek doch niet hoger dan de dimlichten zijn aangebracht. | Leden 1 tot en met 4: visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | De achteruitrijlichten moeten aan de achterzijde van het voertuig zijn aangebracht op een hoogte van niet minder dan 0,25 m en niet meer dan 1,20 m boven het wegdek. |   |
-| 3. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.10.51, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-07-01&g=2014-07-01). |   |
+| 3. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.10.51, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-09-03&g=2014-09-03). |   |
 | 4. | Het mistachterlicht of de mistachterlichten moeten op een hoogte van niet minder dan 0,25 m en niet meer dan 1,00 m boven het wegdek zijn aangebracht. Indien één licht is aangebracht, moet dit links van het midden van het voertuig zijn geplaatst. Indien het voertuig is uitgerust met één achterwiel, moet het mistachterlicht in het midden van het voertuig zijn geplaatst. De afstand tot het remlicht moet ten minste 0,10 m bedragen. |   |
 
 ##### Artikel 5.10.62
@@ -5885,7 +5875,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Gehandicaptenvoertuigen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-07-01&g=2014-07-01) en [5.10.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.57&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Gehandicaptenvoertuigen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.10.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.51&z=2014-09-03&g=2014-09-03) en [5.10.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=10&paragraaf=10&artikel=5.10.57&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Gehandicaptenvoertuigen mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
 #### § 2. Afmetingen en massa’s
@@ -5904,7 +5894,7 @@ Een gehandicaptenvoertuig voorzien van een gesloten carrosserie, alsmede een geh
 
 ##### Artikel 5.11.0
 
-Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van een gesloten carrosserie moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van een gesloten carrosserie moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 9. Carrosserie
 
@@ -5925,7 +5915,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Gehandicaptenvoertuigen mogen: a. niet langer zijn dan 3,50 m; b. niet breder zijn dan 1,10 m, en c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | Gehandicaptenvoertuigen mogen: a. niet langer zijn dan 3,50 m; b. niet breder zijn dan 1,10 m, en c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 #### § 3. Motor en brandstofsystemen
 
@@ -5933,7 +5923,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Gehandicaptenvoertuigen moeten bij voortduring blijven voldoen aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-07-01&g=2014-07-01) vermelde maximumconstructiesnelheid omtrent gehandicaptenvoertuigen, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
+| 1. | Gehandicaptenvoertuigen moeten bij voortduring blijven voldoen aan de in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-09-03&g=2014-09-03) vermelde maximumconstructiesnelheid omtrent gehandicaptenvoertuigen, vermeerderd met 5 km/h. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
 | 2. | Gehandicaptenvoertuigen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. |
 
 ##### Artikel 5.11.9
@@ -5975,7 +5965,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.11.24
@@ -6016,7 +6006,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 | 2. | De voor de overbrenging van de stuurbeweging bestemde onderdelen moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. |   |
 | 3. | Koppelingen moeten een zichtbaar spelingsvrije overbrenging kunnen bewerkstelligen. |   |
 | 4. | Flexibele koppelingen mogen niet in ernstige mate zijn gescheurd. |   |
-| 5. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. Voor het zichtbaar maken van: a. radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van het gehandicaptenvoertuig op de wielen rust; |
+| 5. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. Voor het zichtbaar maken van: a. radiale speling wordt het stuurwiel met krachtige, korte bewegingen naar links en naar rechts gedraaid terwijl de massa van het gehandicaptenvoertuig op de wielen rust; |
 |   |   | b. axiale speling worden op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 
@@ -6124,7 +6114,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.11.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.11.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -6139,7 +6129,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Gehandicaptenvoertuigen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.11.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.51&z=2014-07-01&g=2014-07-01) en [5.11.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.57&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Gehandicaptenvoertuigen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.11.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.51&z=2014-09-03&g=2014-09-03) en [5.11.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=11&paragraaf=10&artikel=5.11.57&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Gehandicaptenvoertuigen mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
 #### § 5. Assen
@@ -6156,7 +6146,7 @@ Een gehandicaptenvoertuig, uitgerust met een elektromotor en niet voorzien van e
 
 ##### Artikel 5.12.0
 
-Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 10. Lichten, lichtsignalen en retroreflecterende voorzieningen
 
@@ -6164,7 +6154,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De aanhangwagen moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle, tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |
+| 1. | De aanhangwagen moet in overeenstemming zijn met de op de voor het voertuig afgegeven kentekencard, dan wel het kentekenbewijs en in het kentekenregister omtrent het voertuig vermelde gegevens. | Lid 1 en 2: visuele controle, tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport is het bepaalde in [bijlage VIII, artikelen 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |
 | 2. | De aanhangwagen moet zijn voorzien van de juiste kentekenplaat. |   |
 | 3. | De kentekenplaat moet zijn voorzien van het in [artikel 5 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=5) voorgeschreven goedkeuringsmerk en moet deugdelijk aan de achterzijde van het voertuig zijn bevestigd. | Visuele controle. De eis aan het goedkeuringsmerk wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 4. | Het kenteken moet goed leesbaar zijn en de kentekenplaat mag niet zijn afgeschermd. | Visuele controle, waarbij de letters en cijfers volledig zichtbaar moeten zijn indien de waarnemer op een afstand van 20,00 m achter het midden van de aanhangwagen staat. |
@@ -6180,14 +6170,14 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van aanhangwagens mogen: | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 |   | a. geen breuken of scheuren vertonen; |   |
 |   | b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht. |   |
-|   | Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+|   | Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.12.4
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | De bovenbouw van aanhangwagens moet deugdelijk op het onderstel zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
-| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De ondersteuning van de laadvloer onderscheidenlijk laadruimte moet deugdelijk zijn. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.12.5
 
@@ -6202,7 +6192,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens, niet zijnde opleggers, mogen niet langer zijn dan 12,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten. Deze maat mag niet meer dan 1% afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) is van toepassing. |
+| 1. | Aanhangwagens, niet zijnde opleggers, mogen niet langer zijn dan 12,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten. Deze maat mag niet meer dan 1% afwijken. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) is van toepassing. |
 | 2. | In afwijking van het eerste lid mogen: kermis- of circusvoertuigen niet langer zijn dan 14,00 m. |   |
 | 3. | Van opleggers die na 31 december 1997 in gebruik worden genomen, mag de horizontaal gemeten afstand tussen het hart van de koppelingspen en enig deel aan de voorzijde van de oplegger niet meer bedragen dan 2,04 m en mag de horizontaal gemeten afstand tussen het hart van de koppelingspen en de achterzijde van de oplegger niet meer bedragen dan 12,00 m. | Leden 3 tot en met 8: visuele controle. In geval van twijfel wordt gemeten. |
 | 4. | Van opleggers die voor 1 januari 1998 in gebruik zijn genomen, mag de horizontaal gemeten afstand tussen het hart van de koppelingspen en enig deel aan de voorzijde van de oplegger niet meer bedragen dan 2,05 m, met uitzondering van een puntvormige uitbouw waarvan het verticaal geprojecteerde oppervlak wordt begrensd door rechte lijnen die raken aan de uiterste voorhoeken van de oplegger en een punt op het mediaanvlak van de oplegger dat op maximaal 2,50 m voor het hart van de koppelingspen ligt. |   |
@@ -6226,7 +6216,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Alle onderdelen van brandstofsystemen aan aanhangwagens moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | Alle onderdelen van brandstofsystemen aan aanhangwagens moeten veilig zijn en deugdelijk zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle van alle aanwezige brandstofsystemen, waarbij de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Brandstofsystemen mogen geen lekkage vertonen. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. Een installatie voor een al dan niet tot vloeistof verdicht gas wordt gecontroleerd met behulp van een middel dat lekkage zichtbaar maakt. |
 | 3. | De vulopening van een brandstofreservoir moet zijn afgesloten met een passende tankdop. | Visuele controle. |
 
@@ -6236,10 +6226,10 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De assen van aanhangwagens moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Leden 1 tot en met 4: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
+| 1. | De assen van aanhangwagens moeten deugdelijk aan het voertuig zijn bevestigd en mogen geen breuken of scheuren vertonen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Leden 1 tot en met 4: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De assen mogen niet zodanig zijn vervormd dat de sterkte ervan in gevaar wordt gebracht. |   |
 | 3. | De assen mogen niet zodanig zijn bevestigd, beschadigd of vervormd dat het weggedrag nadelig wordt beïnvloed. |   |
-| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 4. | De assen mogen niet zodanig door corrosie zijn aangetast, dat de sterkte ervan in gevaar wordt gebracht. Hieraan wordt voor wat betreft wielgeleidingselementen voldaan indien deze niet zijn doorgeroest. Indien een wielgeleidingselement is doorgeroest mag deze niet zijn gerepareerd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.12.19
 
@@ -6247,21 +6237,21 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van aanhangwagens moeten deugdelijk zijn bevestigd. | Lid 1 en 2: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | Stofhoezen van de fuseekogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
-| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 3. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de volledig onafhankelijke wielophanging mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 4. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ##### Artikel 5.12.20
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.12.21
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | De wielbasis van aanhangwagens mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is in [artikel 5.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=0&artikel=5.12.1&z=2014-07-01&g=2014-07-01) reeds getoetst. |
+|   | De wielbasis van aanhangwagens mag niet meer dan 2,0% afwijken van de waarde die voor het voertuig is vermeld in het kentekenregister. | Aan deze eis is in [artikel 5.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=0&artikel=5.12.1&z=2014-09-03&g=2014-09-03) reeds getoetst. |
 
 ##### Artikel 5.12.24
 
@@ -6288,7 +6278,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 | 4. | De profilering van de hoofdgroeven van de banden van aanhangwagens moet over de gehele omtrek van het loopvlak ten minste 1,6 mm bedragen, met uitzondering van slijtage-indicatoren. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt, waarbij het wiel wordt rondgedraaid. In geval van twijfel wordt de profieldiepte gemeten met de profieldieptemeter. De minimale profieldiepte wordt gemeten in de brede groeven waarin door de fabrikant de maximale diepte is bepaald, alsmede in de groeven waarin een slijtage-indicator aanwezig is. |
 | 5. | De banden van aanhangwagens mogen niet zijn nageprofileerd. Van naprofileren is sprake indien slijtage-indicatoren zijn weggesneden, indien de profielvorm van de groef afwijkt van de originele profielvorm, of indien in de bodem van de groef het karkas van de band zichtbaar is. In afwijking van het hiervoor bepaalde is naprofileren toegestaan indien de mogelijkheid daartoe op de band is vermeld door de aanduiding ‘REGROOVABLE’ of door het teken met dien verstande dat het karkas van de band niet zichtbaar mag zijn. | De wijze van keuren bij het tweede en derde lid is van toepassing. |
 | 6. | De op de band aangegeven draairichting moet overeenkomen met de draairichting van het wiel in voorwaartse rijrichting van de aanhangwagen. Een band moet zodanig gemonteerd zijn dat dit overeenkomt met de door de bandenfabrikant aangebrachte markering op de band die de draairichting of de binnenkant of buitenkant aangeeft. | Lid 6 en 7: visuele controle. |
-| 7. | De op de band van een aanhangwagen in gebruik genomen na 31 december 1997, vermelde loadindex mag niet kleiner zijn dan de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 7. | De op de band van een aanhangwagen in gebruik genomen na 31 december 1997, vermelde loadindex mag niet kleiner zijn dan de loadindex, behorende bij de maximumlast per band van de in het kentekenregister vermelde aslast. Hierbij is het bepaalde in [bijlage VIII, artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 8. | Het loopvlak van de banden mag geen metalen elementen bevatten die tijdens het rijden daarbuiten kunnen uitsteken. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 | 9. | De banden op één as moeten dezelfde maataanduiding hebben. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 
@@ -6297,7 +6287,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Aanhangwagens moeten zijn voorzien van een goed werkend veersysteem. Banden worden niet als deel van het veersysteem beschouwd. | Lid 1 en 2: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
-| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De onderdelen van het veersysteem mogen geen breuken of scheuren vertonen, mogen niet ernstig door corrosie zijn aangetast en moeten deugdelijk zijn bevestigd. Hieraan wordt voor wat betreft de veerschotels voldaan wanneer deze niet zijn doorgeroest. Indien een veerschotel is doorgeroest mag deze niet zijn gerepareerd. Bij luchtveerbalgen mogen de koordlagen zichtbaar zijn, maar niet beschadigd. Indien er sprake is van corrosie ter plaatse van de bevestiging is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Aanhangwagens die zijn voorzien van gasvering, en aanhangwagens met een toegestane maximummassa van ten hoogste 3.500 kg, die zijn voorzien van schroefveren, moeten zijn voorzien van deugdelijk bevestigde en goedwerkende schokdempers. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt, Een aanhangwagen met een toegestane maximummassa van niet meer dan 3.500 kg wordt zo mogelijk enkele malen ingeveerd. |
 | 4. | Schokdempers van aanhangwagens moeten deugdelijk zijn bevestigd en moeten goed werken. | De wijze van keuren bij het eerste en tweede lid is van toepassing. |
 
@@ -6308,11 +6298,11 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | De gestuurde wielen van aanhangwagens moeten goed kunnen reageren op het commando van de stuurinrichting van het trekkend voertuig. | Leden 1 tot en met 5: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
-| 2. | De voor de overbrenging van de stuurbeweging bestemde onderdelen van de gestuurde assen van aanhangwagens moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De voor de overbrenging van de stuurbeweging bestemde onderdelen van de gestuurde assen van aanhangwagens moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Stofhoezen van de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
 | 4. | De onderdelen van het hydraulische besturingssysteem mogen geen lekkage vertonen. |   |
 | 5. | De slangen van het hydraulische besturingssysteem mogen: a. geen beschadigingen vertonen waarbij het wapeningsmateriaal zichtbaar is, en b. geen bewegende delen raken. |   |
-| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
+| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: |
 |   |   | a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; |
 |   |   | b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. |
 |   |   | – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
@@ -6325,7 +6315,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 | 1. | De draaikransen van aanhangwagens moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De axiale speling van de draaikransen mag: a. niet meer bedragen dan 3,5 mm; b. niet zodanig zijn dat de draaikranshelften op elkaar inslijten. | – Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Het zichtbaar maken van de speling geschiedt op de volgende wijze: a. door middel van een hefboom of koevoet, b. dan wel door het chassis te heffen. |
 |   |   | – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
-| 3. | De profielen die deel uitmaken van de ondersteuning van de draaikransen, mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
+| 3. | De profielen die deel uitmaken van de ondersteuning van de draaikransen, mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | De wijze van keuren bij het eerste lid is van toepassing. |
 
 #### § 6. Ophanging
 
@@ -6333,9 +6323,9 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens, met uitzondering van opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen. e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele controle of auditieve controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. Bij een geheel of gedeeltelijk drukluchtremsysteem moet, indien mogelijk met de drukluchtremkrachtregelaar(s) in de stand van vol doorsturen, de maximale remdruk snel worden ingestuurd door het rempedaal van het trekkende voertuig snel in te trappen dan wel door druk vanuit een externe bron snel in te sturen. Indien de aanhangwagen is voorzien van een hydraulisch remsysteem en er twijfel bestaat omtrent de deugdelijkheid van het remsysteem, moet het remsysteem met behulp van het trekkende voertuig onder druk worden gebracht op de wijze zoals bepaald bij [artikel 5.3.31, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=8&artikel=5.3.31&z=2014-07-01&g=2014-07-01). |
+| 1. | Aanhangwagens, met uitzondering van opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, moeten zijn voorzien van een reminrichting waarvan de: a. onderdelen deugdelijk zijn bevestigd met de daarvoor bestemde bevestigings- en borgmiddelen. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; b. onderdelen niet in ernstige mate door corrosie zijn aangetast. Indien sprake is van corrosie aan de remleiding of remschijf is het bepaalde in [bijlage VIII, artikelen 53 en 54](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; c. onderdelen niet zijn beschadigd, gescheurd of gebroken; d. onderdelen geen inwendige of uitwendige lekkage vertonen. e. remschijven geen dusdanige slijtage mogen vertonen dat er gevaar op breuk ontstaat. | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Onderdeel d: visuele controle of auditieve controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. Bij een geheel of gedeeltelijk drukluchtremsysteem moet, indien mogelijk met de drukluchtremkrachtregelaar(s) in de stand van vol doorsturen, de maximale remdruk snel worden ingestuurd door het rempedaal van het trekkende voertuig snel in te trappen dan wel door druk vanuit een externe bron snel in te sturen. Indien de aanhangwagen is voorzien van een hydraulisch remsysteem en er twijfel bestaat omtrent de deugdelijkheid van het remsysteem, moet het remsysteem met behulp van het trekkende voertuig onder druk worden gebracht op de wijze zoals bepaald bij [artikel 5.3.31, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=8&artikel=5.3.31&z=2014-09-03&g=2014-09-03). |
 |   |   | – Onderdeel e: visuele controle. |
-| 2. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing; | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
+| 2. | Remslangen mogen: a. niet in ernstige mate zijn misvormd. Indien een remslang is misvormd is het bepaalde in [bijlage VIII, artikelen 55 en 56](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing; | – Onderdelen a tot en met c: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 |   | b. niet langs andere voertuigdelen schuren, en |   |
 |   | c. geen zodanige beschadigingen vertonen dat het wapeningsmateriaal zichtbaar is. De slangen die aan de buitenzijde van een metalen wapening zijn voorzien, mogen geen beschadiging vertonen. |   |
 | 3. | Kunststofremleidingen mogen geen knikken vertonen. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
@@ -6380,13 +6370,13 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
 | 1. | Aanhangwagens, niet zijnde opleggers, in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 5,0 m/s2 bedraagt. Bij controle van de remvertraging van aanhangwagens is het bepaalde in bijlage VIII, hoofdstuk 1, titel 7, afdeling 2 van toepassing. | – |
-| 2. | Aanhangwagens, niet zijnde opleggers, in gebruik genomen na 31 december 1997 doch voor 1 januari 2012, en opleggers in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 3. | Aanhangwagens, niet zijnde opleggers, in gebruik genomen na 30 september 1971, doch voor 1 januari 1998, en opleggers, in gebruik genomen na 30 september 1971 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 4. | Aanhangwagens, in gebruik genomen voor 1 oktober 1971, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
-| 5. | Indien de remkrachten van de aanhangwagen groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | Aanhangwagens, niet zijnde opleggers, in gebruik genomen na 31 december 1997 doch voor 1 januari 2012, en opleggers in gebruik genomen na 31 december 2011, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,5 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 3. | Aanhangwagens, niet zijnde opleggers, in gebruik genomen na 30 september 1971, doch voor 1 januari 1998, en opleggers, in gebruik genomen na 30 september 1971 doch voor 1 januari 2012, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 4,0 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 4. | Aanhangwagens, in gebruik genomen voor 1 oktober 1971, moeten zijn voorzien van een bedrijfsrem waarvan de remvertraging op een droge of nagenoeg droge en ongeveer horizontaal liggende weg ten minste 3,8 m/s2 bedraagt. Bij de controle van de remvertraging van aanhangwagens is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
+| 5. | Indien de remkrachten van de aanhangwagen groter of gelijk zijn aan de door de voertuigfabrikant vastgestelde referentieremkrachten, die horen bij de voorgeschreven minimum remvertraging, wordt voldaan aan het gestelde in het eerste lid. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 6. | De bedrijfsrem moet op alle wielen werken. | Terwijl de wielen zich vrij van de grond of van de hefinrichting bevinden, wordt de bedrijfsrem bedient en wordt gecontroleerd of elk wiel wordt geremd. Bij gebruik van een remtestinrichting voor de controle van de remwerking, wordt gelijktijdig hierop gecontroleerd. |
-| 7. | De bedrijfsrem moet zodanig werken dat de kans op blokkeren van wielen zo gering mogelijk is. | Controle hierop heeft reeds plaatsgevonden bij de [artikelen 5.12.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.35&z=2014-07-01&g=2014-07-01), en 5.12.38, zevende lid. |
-| 8. | Aanhangwagens mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | – |
+| 7. | De bedrijfsrem moet zodanig werken dat de kans op blokkeren van wielen zo gering mogelijk is. | Controle hierop heeft reeds plaatsgevonden bij de [artikelen 5.12.35, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.35&z=2014-09-03&g=2014-09-03), en 5.12.38, zevende lid. |
+| 8. | Aanhangwagens mogen op een droge of nagenoeg droge weg niet uitbreken ten gevolge van een verschil in remwerking tussen de wielen van elke as. Hierbij is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 7, afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | – |
 
 ##### Artikel 5.12.39
 
@@ -6420,8 +6410,8 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 | 1. | Aanhangwagens mogen geen scherpe delen hebben die in geval van botsing gevaar voor lichamelijk letsel voor andere weggebruikers kunnen opleveren. | Lid 1 en 2: visuele controle. |
 | 2. | Onverminderd het bepaalde in het eerste lid moeten uitstekende delen van aanhangwagens, die in geval van botsing het gevaar voor lichamelijk letsel voor andere weggebruikers aanzienlijk kunnen vergroten, zijn afgeschermd. |   |
 | 3. | Het bepaalde in het eerste lid en tweede lid is niet van toepassing op voertuigdelen die zich hoger dan 2,00 m boven het wegdek bevinden. | Visuele controle, waarbij in geval van twijfel wordt gemeten. |
-| 4. | De wielen onderscheidenlijk banden van aanhangwagens moeten deugdelijk zijn afgeschermd en mogen niet aanlopen. Op aanhangwagens die in gebruik zijn genomen na 31 december 1974 is het bepaalde in [bijlage VIII, artikelen 102 tot en met 106](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Leden 4 tot en met 6: visuele controle. |
-| 5. | Aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Hierbij is het bepaalde in [bijlage VIII, artikelen 107 tot en met 111](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 4. | De wielen onderscheidenlijk banden van aanhangwagens moeten deugdelijk zijn afgeschermd en mogen niet aanlopen. Op aanhangwagens die in gebruik zijn genomen na 31 december 1974 is het bepaalde in [bijlage VIII, artikelen 102 tot en met 106](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Leden 4 tot en met 6: visuele controle. |
+| 5. | Aanhangwagens met een toegestane maximummassa van meer dan 3.500 kg, in gebruik genomen na 31 december 1969, moeten zijn voorzien van zijdelingse afscherming. Hierbij is het bepaalde in [bijlage VIII, artikelen 107 tot en met 111](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 6. | Geen deel aan de buitenzijde van de aanhangwagen mag zodanig zijn bevestigd, beschadigd, versleten of door corrosie zijn aangetast, dat gevaar bestaat voor losraken. |   |
 
 ##### Artikel 5.12.49
@@ -6451,12 +6441,12 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | f. twee rode retroreflectoren aan de achterzijde van het voertuig; | – Onderdeel a: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen b tot en met i: visuele controle. – Onderdelen j tot en met n: visuele controle. In geval van twijfel wordt gemeten. |
 |   | g. één mistachterlicht indien het voertuig na 31 december 1997 in gebruik is genomen; het mistachterlicht moet zich bevinden in of links van het middenlangsvlak van het voertuig; | – Onderdeel a: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen b tot en met i: visuele controle. – Onderdelen j tot en met n: visuele controle. In geval van twijfel wordt gemeten. |
 |   | h. twee witte retroreflectoren aan de voorzijde van het voertuig, indien het voertuig na 31 december 1997 is gebruik is genomen; | – Onderdeel a: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen b tot en met i: visuele controle. – Onderdelen j tot en met n: visuele controle. In geval van twijfel wordt gemeten. |
-|   | i. ambergele retroreflectoren aan elke zijkant van het voertuig, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 119 tot en met 122, van toepassing; |   |
+|   | i. ambergele retroreflectoren aan elke zijkant van het voertuig, de achterste retroreflector aan de zijkant mag rood zijn. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 119 tot en met 122, van toepassing; |   |
 |   | j. twee markeringslichten aan de voorzijde en twee aan de achterzijde van het voertuig, indien het voertuig na 31 december 1997 in gebruik is genomen en breder is dan 2,10 m, dan wel voor 1 januari 1998 in gebruik is genomen en breder is dan 2,60 m; |   |
-|   | k. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 119 tot en met 122 van toepassing; |   |
+|   | k. zijmarkeringslichten indien het voertuig na 31 december 1997 in gebruik is genomen en langer is dan 6,00 m. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 119 tot en met 122 van toepassing; |   |
 |   | l. één achteruitrijlicht indien het voertuig na 31 december 2012 in gebruik is genomen; |   |
-|   | m. lijnmarkering aan de achterzijde indien het voertuig breder is dan 2,10 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 3.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153 van toepassing; |   |
-|   | n. lijnmarkering aan de zijkant indien het voertuig langer is dan 6,00 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 3.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153 van toepassing. |   |
+|   | m. lijnmarkering aan de achterzijde indien het voertuig breder is dan 2,10 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 3.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153 van toepassing; |   |
+|   | n. lijnmarkering aan de zijkant indien het voertuig langer is dan 6,00 m, na 31 december 2012 in gebruik is genomen en de toegestane maximummassa meer bedraagt dan 3.500 kg; hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153 van toepassing. |   |
 
 ##### Artikel 5.12.53
 
@@ -6474,12 +6464,12 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 2 en 3: visuele controle. |
-| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
+| 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 2 en 3: visuele controle. |
+| 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
-| 6. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. | Visuele controle. |
+| 5. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren, voorzover het het lichtdoorlatend gedeelte betreft, mogen ten hoogste 25% zijn afgeschermd. | Visuele controle. Tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport wordt een zonder gereedschap afneembare lastdrager buiten beschouwing gelaten. |
+| 6. | De in [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen die de retroreflectie beïnvloeden. | Visuele controle. |
 
 ##### Artikel 5.12.57
 
@@ -6490,21 +6480,21 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | b. extra achteruitrijlichten; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
 |   | c. twee extra richtingaanwijzers en waarschuwingsknipperlichten aan de achterzijde van het voertuig; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
 |   | d. waarschuwingsknipperlichten aan het meest naar achteren gelegen gedeelte van de zich aan de zij- of achterkant van het voertuig bevindende laad- en losklep in horizontale stand; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
-|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht zijn; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
-|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht zijn; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
+|   | e. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht zijn; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
+|   | f. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht zijn; | – Onderdelen a tot en met k: visuele controle. – Onderdeel l: visuele controle. In geval van twijfel wordt gemeten. – Onderdelen m tot en met r: visuele controle |
 |   | g. twee staaklichten; |   |
 |   | h. één extra mistachterlicht; |   |
-|   | i. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht zijn. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 119 tot en met 122, van toepassing; |   |
-|   | j. witte retroreflectoren aan de voorzijde van het voertuig indien deze niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | i. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht zijn. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 119 tot en met 122, van toepassing; |   |
+|   | j. witte retroreflectoren aan de voorzijde van het voertuig indien deze niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | k. werklichten; |   |
 |   | l. een derde remlicht, aangebracht zodanig dat: |   |
 |   | m. in afwijking van onderdeel l mogen twee extra remlichten worden aangebracht; |   |
 |   | n. een lampje aan de voorzijde van het voertuig dat de werking van het antiblokkeer- of besturingssysteem aangeeft; |   |
 |   | o. twee stadslichten; |   |
 |   | p. een markering aan de achterzijde van het voertuig, indien de toegestane maximum massa van het voertuig meer bedraagt dan 3.500 kg; |   |
-|   | q. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering aan de zijkant van het voertuig en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig, voor zover deze niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht is. Hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153 van toepassing; |   |
-|   | r. lijnmarkering aan de voorkant. Hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 153, van toepassing. |   |
-| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.12.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.53&z=2014-07-01&g=2014-07-01) met betrekking tot die lichten gestelde eisen. Zijmarkeringslichten moeten voldoen aan het bepaalde in onderdeel h van het eerste lid. | Lid 2 en 3: visuele controle. |
+|   | q. volledige contourmarkering, gedeeltelijke contourmarkering of lijnmarkering aan de zijkant van het voertuig en volledige contourmarkering of lijnmarkering aan de achterkant van het voertuig, voor zover deze niet reeds ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht is. Hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153 van toepassing; |   |
+|   | r. lijnmarkering aan de voorkant. Hierbij is [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 153, van toepassing. |   |
+| 2. | Lichten en retroreflecterende voorzieningen die ingevolge [artikel 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03) verplicht zijn gesteld voor voertuigen die na een in dat artikel genoemd tijdstip in gebruik zijn genomen, mogen zijn aangebracht op voertuigen die voor of op dat tijdstip in gebruik zijn genomen mits wordt voldaan aan de in [artikel 5.12.53](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.53&z=2014-09-03&g=2014-09-03) met betrekking tot die lichten gestelde eisen. Zijmarkeringslichten moeten voldoen aan het bepaalde in onderdeel h van het eerste lid. | Lid 2 en 3: visuele controle. |
 | 3. | Aanhangwagens mogen zijn voorzien van extra rode retroreflectoren aan de achterzijde en extra ambergele retroreflectoren aan de zijkanten van het voertuig, de achterste retroreflector aan de zijkant mag rood zijn. |   |
 | 4. | De extra achteruitrijlichten, bedoeld in het eerste lid, onderdeel b, mogen aan de zijkant van het voertuig zijn gemonteerd. | Visuele controle. In geval van twijfel wordt gemeten. |
 
@@ -6531,8 +6521,8 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.12.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Lid 1 en 2: visuele controle. |
-| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 1. | De in [artikel 5.12.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. Indien er sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Lid 1 en 2: visuele controle. |
+| 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. Hierbij is het bepaalde in [bijlage VIII, artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
 ##### Artikel 5.12.61
@@ -6554,7 +6544,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-07-01&g=2014-07-01), [5.12.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-07-01&g=2014-07-01) en [5.12.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Aanhangwagens mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.12.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.51&z=2014-09-03&g=2014-09-03), [5.12.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-09-03&g=2014-09-03) en [5.12.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. Aan deze eis wordt niet getoetst tijdens de periodieke keuring ten behoeve van de afgifte van een keuringsrapport. |
 
 #### § 12. Diversen
@@ -6565,7 +6555,7 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 | --- | --- | --- |
 | 1. | De koppeling en de trekinrichting van aanhangwagens moeten deugdelijk zijn bevestigd en mogen niet gescheurd, gebroken dan wel overmatig gesleten zijn. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | 2. | De trekinrichting van een autonome aanhangwagen alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen niet door corrosie zijn aangetast, met uitzondering van verschijnselen van corrosie van het oppervlak. | Visuele controle. |
-| 3. | De trekinrichting van een middenasaanhangwagen of aanhangwagen met een stijve dissel alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen door corrosie niet overmatig zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 2 afdeling 1, 2 en 3 van toepassing. | Visuele controle. |
+| 3. | De trekinrichting van een middenasaanhangwagen of aanhangwagen met een stijve dissel alsmede alle profielen die daar deel van uitmaken, met inbegrip van schoren, versterkingsstrippen en bevestigingsonderdelen, mogen door corrosie niet overmatig zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 2 afdeling 1, 2 en 3 van toepassing. | Visuele controle. |
 | 4. | De trekinrichting van een autonome aanhangwagen mag niet zodanig zijn vervormd dat een langsbeen, gemeten over een afstand van 0,90 m, een uitwijking heeft van meer dan 18 mm ten opzichte van de rechte lijn. De trekinrichting van een middenasaanhangwagen of aanhangwagen met een stijve dissel mag niet overmatig zijn vervormd. | Visuele controle. In geval van twijfel wordt met behulp van een geschikt meetmiddel en een aanliggende stalen rei gemeten. |
 | 5. | Aanhangwagens waarvan de toegestane maximummassa niet meer bedraagt dan 1.500 kg en die niet zijn voorzien van een losbreekreminrichting, moeten zijn voorzien van een hulpkoppeling. De hulpkoppeling moet deugdelijk zijn bevestigd en mag niet vervormd, gescheurd, gebroken dan wel overmatig gesleten zijn. | Leden 5 tot en met 7: visuele controle. |
 | 6. | Aanhangwagens die zijn voorzien van een losbreekreminrichting, mogen niet tevens zijn voorzien van een hulpkoppeling. |   |
@@ -6602,20 +6592,20 @@ Een aanhangwagen met een toegestane maximummassa van meer dan 750 kg achter pers
 |   | a. moet de diameter van de kleinste doorsnede van de pen ten minste 86,0 mm bedragen, en |   |
 |   | b. moet de diameter van de doorsnede van het gedeelte van de pen dat direct boven de kleinste doorsnede is gelegen, ten minste 110,0 mm bedragen. |   |
 | 3. | De plaat van de opleggerkoppeling mag niet in ernstige mate zijn vervormd of ingesleten. Indien een oplegger is voorzien van een 2 inch koppelingspen of een oplegger is voorzien van een 3,5 inch koppelingspen mag binnen een straal van 0,45 m gemeten vanuit het hart van de koppelingspen, de onvlakheid van de koppelingsplaat niet meer dan 3,5 mm. bedragen. | Visuele controle. In geval van twijfel wordt met behulp van een geschikt meetmiddel en een aanliggende stalen rei in alle richtingen en zo dicht mogelijk bij de koppelingspen gemeten. |
-| 4. | De profielen die deel uitmaken van de ondersteuning van de plaat van de opleggerkoppeling mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 4. | De profielen die deel uitmaken van de ondersteuning van de plaat van de opleggerkoppeling mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII, hoofdstuk 1, titel 2, afdelingen 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 
 ##### Artikel 5.12.70
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Op aanhangwagens die zijn voorzien van andere inrichtingen tot het koppelen van voertuigen dan bedoeld in de [artikelen 5.12.67 tot en met 5.12.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.67&z=2014-07-01&g=2014-07-01), zijn de [artikelen 5.3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.66&z=2014-07-01&g=2014-07-01), [5.3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.67&z=2014-07-01&g=2014-07-01), [5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-07-01&g=2014-07-01) en [5.3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.69&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing. | De wijze van keuren bij de [artikelen 5.3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.66&z=2014-07-01&g=2014-07-01), [5.3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.67&z=2014-07-01&g=2014-07-01), [5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-07-01&g=2014-07-01) en [5.3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.69&z=2014-07-01&g=2014-07-01), van de regeling voertuigen is van overeenkomstige toepassing. |
+| 1. | Op aanhangwagens die zijn voorzien van andere inrichtingen tot het koppelen van voertuigen dan bedoeld in de [artikelen 5.12.67 tot en met 5.12.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.67&z=2014-09-03&g=2014-09-03), zijn de [artikelen 5.3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.66&z=2014-09-03&g=2014-09-03), [5.3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.67&z=2014-09-03&g=2014-09-03), [5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-09-03&g=2014-09-03) en [5.3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.69&z=2014-09-03&g=2014-09-03) van overeenkomstige toepassing. | De wijze van keuren bij de [artikelen 5.3.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.66&z=2014-09-03&g=2014-09-03), [5.3.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.67&z=2014-09-03&g=2014-09-03), [5.3.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.68&z=2014-09-03&g=2014-09-03) en [5.3.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=11&artikel=5.3.69&z=2014-09-03&g=2014-09-03), van de regeling voertuigen is van overeenkomstige toepassing. |
 | 2. | De achtertraverse van deze aanhangwagens, met inbegrip van alle profielen die daar deel van uitmaken, moet deugdelijk zijn bevestigd en mag: a. geen breuken of scheuren vertonen, en b. niet door corrosie zijn aangetast, met uitzondering van corrosie van het oppervlak. | Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 
 ### Afdeling 13. Aanhangwagens met een toegestane maximummassa van niet meer dan 750 kg achter personenauto’s, bedrijfsauto’s en driewielige motorrijtuigen
 
 ##### Artikel 5.13.0
 
-Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 12. Diversen
 
@@ -6661,7 +6651,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Aanhangwagens mogen: a. niet langer zijn dan 12,00 m b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Visuele controle. De aanhangwagens worden in geval van twijfel gemeten. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) is van toepassing. Onderdeel a: deze maat mag niet meer dan 1% afwijken. |
+|   | Aanhangwagens mogen: a. niet langer zijn dan 12,00 m b. niet breder zijn dan 2,55 m, en c. niet hoger zijn dan 4,00 m. | Visuele controle. De aanhangwagens worden in geval van twijfel gemeten. [Artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) is van toepassing. Onderdeel a: deze maat mag niet meer dan 1% afwijken. |
 
 #### § 8. Reminrichting
 
@@ -6688,7 +6678,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.13.24
@@ -6845,12 +6835,12 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
+| 1. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijk kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren mogen voorzover het het lichtdoorlatend gedeelte betreft ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
-| 6. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
+| 5. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren mogen voorzover het het lichtdoorlatend gedeelte betreft ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
+| 6. | De in [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
 
 ##### Artikel 5.13.57
 
@@ -6858,9 +6848,9 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 | --- | --- | --- |
 | 1. | Aanhangwagens mogen zijn voorzien van: | Onderdelen a tot en met k: visuele controle. |
 |   | a. twee stadslichten, indien het voertuig breder is dan 1,60 m; |   |
-|   | b. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | c. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | d. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01) verplicht zijn |   |
+|   | b. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | c. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | d. zijmarkeringslichten, indien deze lichten niet reeds ingevolge [artikel 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03) verplicht zijn |   |
 |   | e. één of twee achteruitrijlichten; |   |
 |   | f. werklichten; |   |
 |   | g. één derde remlicht; |   |
@@ -6893,7 +6883,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.13.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.13.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -6913,7 +6903,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 |   | a. in de lengterichting van het voertuig waarbij ten minste één zijmarkeringslicht zich in het middelste derde gedeelte van het voertuig bevindt, en het meest naar voren geplaatste zijmarkeringslicht zich niet meer dan 3,00 m van de voorkant van het voertuig bevindt, en het meest achterwaarts geplaatste zijmarkeringslicht zich niet meer dan 1,00 m van de achterkant van het voertuig bevindt; |   |
 |   | b. op een onderlinge afstand van niet meer dan 3,00 m tussen twee opeenvolgende zijmarkeringslichten, en |   |
 |   | c. op een hoogte van niet minder dan 0,25 m en niet meer dan 0,90 m boven het wegdek. Indien zulks door de vorm van de bovenbouw noodzakelijk is, mogen de zijmarkeringslichten op een hoogte van meer dan 0,90 m doch niet meer dan 1,50 m boven het wegdek zijn aangebracht. |   |
-| 5. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.13.51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01). |   |
+| 5. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.13.51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03). |   |
 | 6. | De stadslichten moeten aan de voorzijde van het voertuig voor de eerste as zijn aangebracht: |   |
 |   | a. op een afstand van niet meer dan 0,25 m vanaf het punt van de grootste breedte van het voertuig; |   |
 |   | b. op een onderlinge afstand, gemeten tussen de binnenranden van het lichtdoorlatende gedeelte, van niet minder dan 0,60 m, en |   |
@@ -6929,7 +6919,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01), [5.13.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57&z=2014-07-01&g=2014-07-01) en [5.13.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Aanhangwagens mogen niet zijn voorzien van: a. meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.13.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03), [5.13.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57&z=2014-09-03&g=2014-09-03) en [5.13.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan, en b. in het voertuig aanwezige lichten of objecten die licht uitstralen naar de buitenzijde van het voertuig. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
 #### § 5. Assen
@@ -6938,7 +6928,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De koppeling van aanhangwagens moet zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 129, van toepassing. | Leden 1 tot en met 6: visuele controle. |
+| 1. | De koppeling van aanhangwagens moet zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 129, van toepassing. | Leden 1 tot en met 6: visuele controle. |
 | 2. | De koppeling en de trekdriehoek of trekboom van aanhangwagens moeten deugdelijk zijn bevestigd en mogen niet gescheurd, ernstig vervormd, gebroken dan wel overmatig gesleten zijn. |   |
 | 3. | De trekdriehoek of trekboom mag niet zijn doorgeroest. |   |
 | 4. | Aanhangwagens die niet zijn voorzien van een losbreekreminrichting, moeten zijn voorzien van een hulpkoppeling. De hulpkoppeling moet deugdelijk zijn bevestigd en mag niet vervormd, gescheurd, gebroken dan wel overmatig gesleten zijn. |   |
@@ -6955,7 +6945,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 ##### Artikel 5.14.0
 
-1. Een aanhangwagen achter een landbouw- of bosbouwtrekkers of achter een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+1. Een aanhangwagen achter een landbouw- of bosbouwtrekkers of achter een motorrijtuig met beperkte snelheid moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 2. De in deze afdeling opgenomen eisen zijn van overeenkomstige toepassing op verwisselbare getrokken machines.
 
@@ -6987,10 +6977,10 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 ##### Artikel 5.14.6
 
-| 1. | Aanhangwagens mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,60 m, dan wel niet breder dan 3,00 m indien de breedtevermeerdering het gevolg is van de montage van bredere banden of dubbellucht banden, en c. niet hoger zijn dan 4,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. Onderdeel a: deze maat mag niet meer dan 1% afwijken. |
+| 1. | Aanhangwagens mogen: a. niet langer zijn dan 12,00 m; b. niet breder zijn dan 2,60 m, dan wel niet breder dan 3,00 m indien de breedtevermeerdering het gevolg is van de montage van bredere banden of dubbellucht banden, en c. niet hoger zijn dan 4,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. Onderdeel a: deze maat mag niet meer dan 1% afwijken. |
 | --- | --- | --- |
 | 2. | Verwisselbare getrokken machines mogen: a. niet langer dan zijn dan 12,00 m; b. niet breder zijn dan 3,00 m, en c. niet hoger zijn dan 4,00 m. |   |
-| 3. | In afwijking van het eerste lid, onderdeel b, mogen aanhangwagens tot 1 januari 2025 niet breder zijn dan 3,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 3. | In afwijking van het eerste lid, onderdeel b, mogen aanhangwagens tot 1 januari 2025 niet breder zijn dan 3,00 m. | Visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 ##### Artikel 5.14.7
 
@@ -7025,14 +7015,14 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
 | 1. | De fuseepennen, -lageringen, -bussen en -kogels van aanhangwagens met een massa van meer dan 750 kg moeten deugdelijk zijn bevestigd. | Lid 1 en 2 visuele controle. |
-| 2. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de wielophanging van aanhangwagens met een massa van meer dan 750 kg mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 2. | De fuseepennen, -lageringen, -bussen en -kogels alsmede de overige draaipunten van de wielophanging van aanhangwagens met een massa van meer dan 750 kg mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikelen 46, 47 en 48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 | 3. | Indien een gedeelte van de binnenkant van het fuseekogelhuis en van de fuseekogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats. |
 
 ##### Artikel 5.14.20
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.14.24
@@ -7182,11 +7172,11 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
+| 1. | De in [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren voorzover het het lichtdoorlatend gedeelte betreft mogen ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
+| 5. | De in [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren voorzover het het lichtdoorlatend gedeelte betreft mogen ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
 | 6. | De retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
 
 ##### Artikel 5.14.57
@@ -7196,8 +7186,8 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 | 1. | Aanhangwagens mogen zijn voorzien van: | – Onderdelen a tot en met i: visuele controle. |
 |   | a. één of twee achteruitrijlichten; | – Onderdeel j: visuele controle. In geval van twijfel wordt gemeten. |
 |   | b. twee extra richtingaanwijzers en waarschuwingsknipperlichten aan de achterzijde van het voertuig; |   |
-|   | c. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
-|   | d. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-07-01&g=2014-07-01) verplicht zijn; |   |
+|   | c. twee extra markeringslichten aan de voorzijde en twee extra markeringslichten aan de achterzijde, indien deze lichten reeds ingevolge [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
+|   | d. twee of vier markeringslichten aan de voorzijde en twee of vier markeringslichten aan de achterzijde van het voertuig, indien deze lichten niet reeds ingevolge [artikel 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-09-03&g=2014-09-03) verplicht zijn; |   |
 |   | e. twee staaklichten; |   |
 |   | f. één of twee mistachterlichten; |   |
 |   | g. zijmarkeringslichten; |   |
@@ -7224,7 +7214,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.14.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.14.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -7233,12 +7223,12 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
 | 1. | De achteruitrijlichten moeten aan de achterzijde van het voertuig zijn aangebracht op een hoogte van niet minder dan 0,25 m en niet meer dan 1,20 m boven het wegdek. | Visuele controle. In geval van twijfel wordt gemeten. |
-| 2. | Op de stadslichten en markeringslichten is [artikel 5.14.54, eerste lid, onderscheidenlijk achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.54&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. |
+| 2. | Op de stadslichten en markeringslichten is [artikel 5.14.54, eerste lid, onderscheidenlijk achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.54&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. |
 | 3. | Mistachterlicht of de mistachterlichten moeten zijn aangebracht: | Leden 3 tot en met 5: visuele controle. In geval van twijfel wordt gemeten. |
 |   | a. op ten minste 0,10 m afstand van de remlichten, en |   |
 |   | b. op een hoogte van niet minder dan 0,25 m en niet meer dan 1,00 m boven het wegdek. |   |
 |   | Indien één licht is aangebracht, moet dit links van het midden van het voertuig zijn geplaatst. |   |
-| 4. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.13.51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-07-01&g=2014-07-01). Indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd mogen twee extra remlichten worden aangebracht. |   |
+| 4. | Het derde remlicht moet zodanig zijn aangebracht dat: a. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en b. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.13.51, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=13&paragraaf=10&artikel=5.13.51&z=2014-09-03&g=2014-09-03). Indien het derde remlicht niet binnen 0,15 m vanaf het middenlangsvlak kan worden bevestigd mogen twee extra remlichten worden aangebracht. |   |
 | 5. | De zijmarkeringslichten moeten zijn aangebracht: |   |
 |   | a. in de lengterichting van het voertuig waarbij ten minste één zijmarkeringslicht zich in het middelste derde gedeelte van het voertuig bevindt, en het meest naar voren geplaatste zijmarkeringslicht zich niet meer dan 3,00 m van de voorkant van het voertuig bevindt, en het meest achterwaarts geplaatste zijmarkeringslicht zich niet meer dan 1,00 m van de achterkant van het voertuig bevindt; |   |
 |   | b. op een onderlinge afstand van niet meer dan 3,00 m tussen twee opeenvolgende zijmarkeringslichten, en |   |
@@ -7252,7 +7242,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 ##### Artikel 5.14.65
 
-| 1. | Aanhangwagens mogen, onverminderd het in [artikel 30 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=30) bepaalde inzake zwaai-, flits- en knipperlichten, niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-07-01&g=2014-07-01), [5.14.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.57&z=2014-07-01&g=2014-07-01) en [5.14.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Aanhangwagens mogen, onverminderd het in [artikel 30 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=30) bepaalde inzake zwaai-, flits- en knipperlichten, niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.14.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.51&z=2014-09-03&g=2014-09-03), [5.14.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=14&paragraaf=10&artikel=5.14.57&z=2014-09-03&g=2014-09-03) en [5.14.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | --- | --- | --- |
 | 2. | Aanhangwagens mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
@@ -7276,7 +7266,7 @@ Een aanhangwagen met een toegestane maximummassa van niet meer dan 750 kg achter
 
 ##### Artikel 5.15.0
 
-Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 6. Ophanging
 
@@ -7313,7 +7303,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 ##### Artikel 5.15.6
 
-| 1. | Aanhangwagens mogen: a. niet breder zijn dan 2,00 m b. niet hoger zijn dan 1,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+| 1. | Aanhangwagens mogen: a. niet breder zijn dan 2,00 m b. niet hoger zijn dan 1,00 m. | Lid 1 en 2: visuele controle. In geval van twijfel wordt gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 | --- | --- | --- |
 | 2. | In afwijking van het eerste lid, onderdeel a, mogen aanhangwagens achter een bromfiets op twee wielen niet breder zijn dan 1,00 m. |   |
 
@@ -7332,7 +7322,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 1. | De wiellagers van aanhangwagens mogen niet teveel speling vertonen. Hierbij is het bepaalde in [bijlage VIII, artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 2. | Verschijnselen van slijtage of beschadiging mogen niet hoorbaar of voelbaar zijn. | Visuele en auditieve controle, waarbij het wiel wordt rondgedraaid, al dan niet met behulp van apparatuur. |
 
 ##### Artikel 5.15.24
@@ -7417,24 +7407,24 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 | 2. | De achterlichten moeten aan de achterzijde van het voertuig zijn aangebracht op een hoogte van niet minder dan 0,25 m boven het wegdek. |   |
 | 3. | Het remlicht of de remlichten moeten aan de achterzijde van het voertuig zijn aangebracht op een hoogte van niet minder dan 0,25 m boven het wegdek. Indien één licht is aangebracht, is dit in het midden of links van het midden van het voertuig zijn geplaatst. |   |
 | 4. | De rode retroreflectoren moeten zijn aangebracht aan de uiterste zijden van het voertuig op een hoogte van niet minder dan 0,25 m boven het wegdek. |   |
-| 5. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01) bedoelde ambergele retroreflectoren moeten zijn aangebracht aan elke zijkant op een hoogte van niet minder dan 0,30 m en niet meer dan 0,90 m boven het wegdek. Ten minste één retroreflector moet zich bevinden in het middelste derde gedeelte van de aanhangwagen met inbegrip van de dissel. |   |
+| 5. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03) bedoelde ambergele retroreflectoren moeten zijn aangebracht aan elke zijkant op een hoogte van niet minder dan 0,30 m en niet meer dan 0,90 m boven het wegdek. Ten minste één retroreflector moet zich bevinden in het middelste derde gedeelte van de aanhangwagen met inbegrip van de dissel. |   |
 
 ##### Artikel 5.15.55
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
+| 1. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken. Indien een licht wordt gevormd door meerdere lichtbronnen mag door defecte lichtbronnen het oorspronkelijk lichtoppervlak met niet meer dan 25% afnemen. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 | 2. | De lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 2 en 3: visuele controle. |
 | 3. | De glazen van de lichtarmaturen mogen niet zodanig zijn bevestigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 4. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
-| 5. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01) bedoelde lichten en retroreflectoren voorzover het het lichtdoorlatend gedeelte betreft mogen ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
-| 6. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
+| 5. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03) bedoelde lichten en retroreflectoren voorzover het het lichtdoorlatend gedeelte betreft mogen ten hoogste 25% zijn afgeschermd. | Lid 5 en 6: visuele controle. |
+| 6. | De in [artikel 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
 
 ##### Artikel 5.15.57
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens achter een motorfiets mogen zijn voorzien van: a. één mistachterlicht; b. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en; c. werklichten, en d. een derde remlicht, aangebracht zodanig dat: 1°. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en 2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.15.51, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01). | Leden 1 tot en met 3: visuele controle. In geval van twijfel wordt gemeten. |
+| 1. | Aanhangwagens achter een motorfiets mogen zijn voorzien van: a. één mistachterlicht; b. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en; c. werklichten, en d. een derde remlicht, aangebracht zodanig dat: 1°. het zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en 2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in [artikel 5.15.51, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03). | Leden 1 tot en met 3: visuele controle. In geval van twijfel wordt gemeten. |
 | 2. | Aanhangwagens achter een bromfiets mogen zijn voorzien van: a. twee richtingaanwijzers aan de achterzijde van het voertuig, dan wel één richtingaanwijzer aan elke zijkant van het voertuig; b. één of twee remlichten, en c. één of twee witte retroreflectoren aan de voorzijde van het voertuig, en d. een derde remlicht, aangebracht zodanig dat: 1°. dat licht zich bevindt op een afstand van ten hoogste 0,15 m vanaf het middenlangsvlak, en 2°. de onderzijde van het lichtdoorlatende gedeelte hoger ligt dan de bovenzijde van de remlichten, bedoeld in het tweede lid, onder b. |   |
 | 3. | Aanhangwagens achter motorfietsen en bromfietsen mogen zijn voorzien van : |   |
 |   | a. extra witte retroreflecterende voorzieningen aan de voorzijde, |   |
@@ -7452,7 +7442,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.15.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.15.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. | Visuele controle. |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -7477,7 +7467,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-07-01&g=2014-07-01), [5.15.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57&z=2014-07-01&g=2014-07-01) en [5.15.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57a&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Aanhangwagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.15.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.51&z=2014-09-03&g=2014-09-03), [5.15.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57&z=2014-09-03&g=2014-09-03) en [5.15.57a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=15&paragraaf=10&artikel=5.15.57a&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn voor lichten die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Aanhangwagens niet in gebruik bij de in de [artikelen 29, eerste lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=29) bedoelde diensten, mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten of voorzieningen die de indruk wekken dat het voertuig is voorzien van een dergelijke lichtarmatuur. | Visuele controle. |
 
 #### § 11. Verbinding tussen motorfiets of bromfiets en aanhangwagen
@@ -7505,7 +7495,7 @@ Een aanhangwagen achter een motorfiets of bromfiets moet voldoen aan de in deze 
 
 ##### Artikel 5.16.0
 
-Een aanhangwagen achter een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een aanhangwagen achter een fiets moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren, waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 9. Carrosserie
 
@@ -7534,9 +7524,9 @@ Een aanhangwagen achter een fiets moet voldoen aan de in deze afdeling opgenomen
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.16.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.51&z=2014-07-01&g=2014-07-01) bedoelde retroreflectoren mogen ten hoogste 25% deel zijn afgeschermd. | Leden 1 tot en met 3: visuele controle. |
+| 1. | De in [artikel 5.16.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.51&z=2014-09-03&g=2014-09-03) bedoelde retroreflectoren mogen ten hoogste 25% deel zijn afgeschermd. | Leden 1 tot en met 3: visuele controle. |
 | 2. | De retroreflectoren mogen geen gebreken vertonen, die de retroreflectie beïnvloeden. |   |
-| 3. | De retroreflectoren moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. |   |
+| 3. | De retroreflectoren moeten zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. |   |
 
 ##### Artikel 5.16.57
 
@@ -7544,8 +7534,8 @@ Een aanhangwagen achter een fiets moet voldoen aan de in deze afdeling opgenomen
 | --- | --- | --- |
 | 1. | Aanhangwagens achter fietsen mogen zijn voorzien van: | Lid 1 en 2: visuele controle. |
 |   | a. twee richtingaanwijzers aan de achterzijde van het voertuig; |   |
-|   | b. één of twee achterlichten die zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 151, van toepassing; |   |
-|   | c. één of twee witte retroreflectoren aan de voorzijde van het voertuig. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing, en |   |
+|   | b. één of twee achterlichten die zijn voorzien van een goedkeuringsmerk. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 151, van toepassing; |   |
+|   | c. één of twee witte retroreflectoren aan de voorzijde van het voertuig. Hierbij is het bepaalde in [bijlage VIII, artikelen 125 en 126](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing, en |   |
 |   | d. ambergele retroreflectoren aan de zijkanten van het voertuig. |   |
 | 2. | Aanhangwagens achter fietsen mogen zijn voorzien van extra witte retroreflecterende voorzieningen aan de voorzijde, extra rode aan de achterzijde en extra ambergele aan de zijkanten van het voertuig. |   |
 
@@ -7559,14 +7549,14 @@ Een aanhangwagen achter een fiets moet voldoen aan de in deze afdeling opgenomen
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Aanhangwagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.16.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.51&z=2014-07-01&g=2014-07-01) en [5.16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.57&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Aanhangwagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.16.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.51&z=2014-09-03&g=2014-09-03) en [5.16.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=16&paragraaf=10&artikel=5.16.57&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Aanhangwagens mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten. | Visuele controle. |
 
 ### Afdeling 17. Wagens
 
 ##### Artikel 5.17.0
 
-Een wagen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing is.
+Een wagen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren waarbij in voorkomend geval [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing is.
 
 #### § 10. Lichten, lichtsignalen en retroreflecterende voorzieningen
 
@@ -7641,7 +7631,7 @@ Een wagen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-|   | Wagens moeten aan de achterzijde zijn voorzien van twee rode retroreflectoren welke zijn voorzien van een goedkeuringsmerk, indien het een wagen betreft waarvan de breedte meer dan 1,50 m. bedraagt, dan wel één zodanige retroreflector indien het een wagen betreft waarvan de breedte ten hoogste 1,50 m bedraagt. Hierbij is het bepaalde in [bijlage VIII, artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), van toepassing. | Visuele controle, bij twijfel meten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) van toepassing. . |
+|   | Wagens moeten aan de achterzijde zijn voorzien van twee rode retroreflectoren welke zijn voorzien van een goedkeuringsmerk, indien het een wagen betreft waarvan de breedte meer dan 1,50 m. bedraagt, dan wel één zodanige retroreflector indien het een wagen betreft waarvan de breedte ten hoogste 1,50 m bedraagt. Hierbij is het bepaalde in [bijlage VIII, artikel 125](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), van toepassing. | Visuele controle, bij twijfel meten. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) van toepassing. . |
 
 ##### Artikel 5.17.54
 
@@ -7684,7 +7674,7 @@ Een wagen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | De in [artikel 5.17.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.57&z=2014-07-01&g=2014-07-01) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
+| 1. | De in [artikel 5.17.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.57&z=2014-09-03&g=2014-09-03) bedoelde lichtarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd. | Lid 1 en 2: visuele controle. |
 | 2. | De glazen van de lichtarmaturen mogen niet zodanig zijn beschadigd, gerepareerd of bewerkt dat de lichtopbrengst en het lichtbeeld dan wel de functie nadelig worden beïnvloed. |   |
 | 3. | Lichten met dezelfde functie moeten nagenoeg van gelijke grootte, gelijke kleur en gelijke of nagenoeg gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten nagenoeg symmetrisch links en rechts van het midden van het voertuig zijn bevestigd. | Visuele controle, waarbij de desbetreffende lichten worden ingeschakeld. |
 
@@ -7699,7 +7689,7 @@ Een wagen moet voldoen aan de in deze afdeling opgenomen eisen en wordt beoordee
 
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
-| 1. | Wagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in [artikelen 5.17.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.51&z=2014-07-01&g=2014-07-01) en [5.17.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.57&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
+| 1. | Wagens mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in [artikelen 5.17.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.51&z=2014-09-03&g=2014-09-03) en [5.17.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=17&paragraaf=10&artikel=5.17.57&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. Indien lichtarmaturen aanwezig zijn die niet zijn voorgeschreven dan wel toegestaan, mogen de lichten hiervan niet werken. |
 | 2. | Wagens mogen niet zijn voorzien van lichtarmaturen voor blauwe zwaai-, flits- of knipperlichten. | Visuele controle. |
 
 ### Afdeling 18. Gebruikseisen voertuigen
@@ -7766,11 +7756,11 @@ De bestuurder van een voertuig of een samenstel van voertuigen moet:
 
 ##### Artikel 5.18.5
 
-1. De spiegels en gezichtveldverbeterende voorzieningen van bedrijfsauto’s moeten zodanig zijn geplaatst dat de bestuurder in normale rijhouding de vereiste gezichtsvelden, zoals bepaald in [bijlage VIII, hoofdstuk 2, titel 2, paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), kan overzien.
+1. De spiegels en gezichtveldverbeterende voorzieningen van bedrijfsauto’s moeten zodanig zijn geplaatst dat de bestuurder in normale rijhouding de vereiste gezichtsvelden, zoals bepaald in [bijlage VIII, hoofdstuk 2, titel 2, paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), kan overzien.
 
-2. Indien het gezichtsveld van de voor voertuigen van de categorie waartoe het voertuig behoort voorgeschreven spiegels wordt beperkt door lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van de lading, moet het voertuig zijn voorzien van een linker- onderscheidenlijk rechterbuitenspiegel waarmee de bestuurder een in [bijlage VIII, hoofdstuk 2, titel 2, paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), vastgesteld weggedeelte kan overzien.
+2. Indien het gezichtsveld van de voor voertuigen van de categorie waartoe het voertuig behoort voorgeschreven spiegels wordt beperkt door lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van de lading, moet het voertuig zijn voorzien van een linker- onderscheidenlijk rechterbuitenspiegel waarmee de bestuurder een in [bijlage VIII, hoofdstuk 2, titel 2, paragrafen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), vastgesteld weggedeelte kan overzien.
 
-3. Indien het gezichtsveld van de voor landbouw- of bosbouwtrekkers voorgeschreven spiegels wordt beperkt door lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van de lading, moet het voertuig zijn voorzien van een linkerbuitenspiegel onderscheidenlijk een rechterbuitenspiegel waarmee de bestuurder het in [artikel 5.8.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=9&artikel=5.8.45&z=2014-07-01&g=2014-07-01), vastgestelde weggedeelte kan overzien.
+3. Indien het gezichtsveld van de voor landbouw- of bosbouwtrekkers voorgeschreven spiegels wordt beperkt door lading die aan de achterzijde van het voertuig is aangebracht of door een door het voertuig voortbewogen aanhangwagen met inbegrip van de lading, moet het voertuig zijn voorzien van een linkerbuitenspiegel onderscheidenlijk een rechterbuitenspiegel waarmee de bestuurder het in [artikel 5.8.45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=9&artikel=5.8.45&z=2014-09-03&g=2014-09-03), vastgestelde weggedeelte kan overzien.
 
 ##### Artikel 5.18.6
 
@@ -7842,7 +7832,7 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 - d. de lading mag niet meer dan 1,00 m achter de achterzijde van het voertuig uitsteken;
 
-- e. de lastdrager die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteekt dient aan de voor- en achterzijde te zijn voorzien van een markering die voldoet aan de daaromtrent in [bijlage VIII, artikelen 130 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), gestelde eisen.
+- e. de lastdrager die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteekt dient aan de voor- en achterzijde te zijn voorzien van een markering die voldoet aan de daaromtrent in [bijlage VIII, artikelen 130 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), gestelde eisen.
 
 ##### Artikel 5.18.8
 
@@ -7910,7 +7900,7 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 - b. mag de lading niet meer dan 5,00 m achter het hart van de achterste as van het voertuig uitsteken;
 
-- c. moet in afwijking van het bepaalde in de [artikelen 5.3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=9&artikel=5.3.49&z=2014-07-01&g=2014-07-01) en [5.12.49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=9&artikel=5.12.49&z=2014-07-01&g=2014-07-01), een stootbalk zijn aangebracht op niet meer dan 0,60 m voor de uiterste achterzijde van de uitstekende lading indien de afstand van de onderzijde van de lading tot het wegdek meer bedraagt dan 0,55 m;
+- c. moet in afwijking van het bepaalde in de [artikelen 5.3.49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=9&artikel=5.3.49&z=2014-09-03&g=2014-09-03) en [5.12.49](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=9&artikel=5.12.49&z=2014-09-03&g=2014-09-03), een stootbalk zijn aangebracht op niet meer dan 0,60 m voor de uiterste achterzijde van de uitstekende lading indien de afstand van de onderzijde van de lading tot het wegdek meer bedraagt dan 0,55 m;
 
 - d. mag de lading niet voor het voertuig uitsteken;
 
@@ -7922,19 +7912,19 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 4. Het eerste lid, onderdeel e, is niet van toepassing indien aan de achterzijde van de uitstekende lading op gelijke wijze als op het betrokken voertuig verlichting, retroreflectoren, richtingaanwijzers of de kentekenplaat van dat voertuig zijn aangebracht.
 
-5. Ter ondersteuning van de lading mag een uitschuiflade of laadklep worden gebruikt voor zover daardoor de in de [artikelen 5.3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.6&z=2014-07-01&g=2014-07-01), [5.12.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-07-01&g=2014-07-01), en [5.18.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.11&z=2014-07-01&g=2014-07-01), opgenomen afmetingen niet worden overschreden. Lading mag niet uitsluitend op de uitschuiflade, laadklep of enige andere laadvloerverlenging rusten.
+5. Ter ondersteuning van de lading mag een uitschuiflade of laadklep worden gebruikt voor zover daardoor de in de [artikelen 5.3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.6&z=2014-09-03&g=2014-09-03), [5.12.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-09-03&g=2014-09-03), en [5.18.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.11&z=2014-09-03&g=2014-09-03), opgenomen afmetingen niet worden overschreden. Lading mag niet uitsluitend op de uitschuiflade, laadklep of enige andere laadvloerverlenging rusten.
 
 6. In afwijking van het eerste lid, onderdeel a, mag een meeneemheftruck bevestigd aan de achterzijde van een voertuig, dat is ingericht voor het vervoer van goederen:
 
 - a. meer dan 1,00 m, doch niet meer dan 1,20 m achter het voertuig uitsteken;
 
-- b. meer dan 1,20 m, doch niet meer dan 1,50 m achter het voertuig uitsteken, mits met een door de fabrikant van het voertuig of van de meeneemheftruck of met een door een carrosseriebouwer afgegeven verklaring, aanwezig op het voertuig, wordt aangetoond dat de aslasten en de last onder de koppeling van het voertuig bij belading met uitsluitend de meeneemheftruck voldoen aan [artikel 5.18.18, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.18&z=2014-07-01&g=2014-07-01). De verklaring bevat een aanduiding van het type meeneemheftruck.
+- b. meer dan 1,20 m, doch niet meer dan 1,50 m achter het voertuig uitsteken, mits met een door de fabrikant van het voertuig of van de meeneemheftruck of met een door een carrosseriebouwer afgegeven verklaring, aanwezig op het voertuig, wordt aangetoond dat de aslasten en de last onder de koppeling van het voertuig bij belading met uitsluitend de meeneemheftruck voldoen aan [artikel 5.18.18, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.18&z=2014-09-03&g=2014-09-03). De verklaring bevat een aanduiding van het type meeneemheftruck.
 
 7. In afwijking van het eerste lid, onderdelen a en b, mag de uitsteek van een afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as van het voertuig niet meer dan 0,5 maal de lengte van het voertuig bedragen, zoals vermeld in het kentekenregister of na meting vastgesteld, met een maximum van 5,00 m, waarbij voor een oplegger geldt dat de uitsteek van de afneembare bovenbouw of gestandaardiseerde laadstructuur achter het hart van de achterste as van het voertuig niet meer mag zijn dan 0,5 maal de afstand van hart koppeling tot achterzijde met eveneens een maximum van 5,00 m.
 
 ##### Artikel 5.18.12a
 
-1. De lengte van een bedrijfsauto met inbegrip van één of meer verwisselbare uitrustingsstukken mag niet meer bedragen dan in [artikel 5.3.6, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.6&z=2014-07-01&g=2014-07-01), is bepaald waarbij:
+1. De lengte van een bedrijfsauto met inbegrip van één of meer verwisselbare uitrustingsstukken mag niet meer bedragen dan in [artikel 5.3.6, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.6&z=2014-09-03&g=2014-09-03), is bepaald waarbij:
 
 - a. de verwisselbare uitrustingstukken zoveel mogelijk moeten zijn ingeschoven, ingetrokken dan wel in- of opgeklapt en deugdelijk vergrendeld;
 
@@ -7942,15 +7932,15 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 - c. het zicht op de verlichting, de retroreflectoren of de richtingaanwijzers van het voertuig niet mag worden belemmerd, en
 
-- d. de verwisselbare uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, aan de voorzijde dan wel de achterzijde moeten zijn voorzien van een markering die voldoet aan [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 130 tot en met 133.
+- d. de verwisselbare uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, aan de voorzijde dan wel de achterzijde moeten zijn voorzien van een markering die voldoet aan [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 130 tot en met 133.
 
 2. Het eerste lid, onderdeel c, is niet van toepassing indien op het voertuig of aan de voor- of achterzijde van de verwisselbare uitrustingsstukken op gelijke wijze als op het betrokken voertuig verlichting, retroreflectoren of richtingaanwijzers zijn aangebracht.
 
 ##### Artikel 5.18.13
 
-1. In afwijking van [artikel 5.18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-07-01&g=2014-07-01) mag, voor zover niet op andere wijze op het voertuig of samenstel van voertuigen, of voor zover niet binnen de afmetingen van het voertuig of samenstel van voertuigen, kan worden geladen, bij het vervoer van in de lengte ondeelbare lading:
+1. In afwijking van [artikel 5.18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-09-03&g=2014-09-03) mag, voor zover niet op andere wijze op het voertuig of samenstel van voertuigen, of voor zover niet binnen de afmetingen van het voertuig of samenstel van voertuigen, kan worden geladen, bij het vervoer van in de lengte ondeelbare lading:
 
-- a. de lengte van de vervoerde lading meer bedragen dan ingevolge [artikel 5.18.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-07-01&g=2014-07-01), is toegestaan waarbij:
+- a. de lengte van de vervoerde lading meer bedragen dan ingevolge [artikel 5.18.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-09-03&g=2014-09-03), is toegestaan waarbij:
 
 - 1°. de lading aan de achterzijde van personenauto’s, bedrijfsauto’s met een toegestane maximummassa van niet meer dan 3.500 kg en driewielige motorrijtuigen niet meer dan 1,00 m achter het voertuig mag uitsteken;
 
@@ -7962,21 +7952,21 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 - 5°. de lading niet voor de voorzijde van de aanhangwagen, niet zijnde een oplegger, mag uitsteken;
 
-- 6°. de lading die voor of achter het voertuig meer dan 1,00 m uitsteekt, aan de voorzijde respectievelijk aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 130 tot en met 133;
+- 6°. de lading die voor of achter het voertuig meer dan 1,00 m uitsteekt, aan de voorzijde respectievelijk aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 130 tot en met 133;
 
 - 7°. het zicht op de verlichting, de retroreflectoren, de richtingaanwijzers of de kentekenplaat aan de achterzijde van het voertuig niet mag worden belemmerd, tenzij aan de achterzijde van de uitstekende lading op gelijke wijze als het betrokken voertuig zijn aangebracht verlichting, retroreflectoren, richtingaanwijzers of de kentekenplaat van dat voertuig;
 
-- b. onverminderd onderdeel a, de lengte van een trekker en oplegger, met inbegrip van de lading, meer bedragen dan ingevolge [artikel 5.18.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.11&z=2014-07-01&g=2014-07-01), is toegestaan doch niet meer dan voor dat vervoer noodzakelijk is met een maximum van 22,00 m.
+- b. onverminderd onderdeel a, de lengte van een trekker en oplegger, met inbegrip van de lading, meer bedragen dan ingevolge [artikel 5.18.11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.11&z=2014-09-03&g=2014-09-03), is toegestaan doch niet meer dan voor dat vervoer noodzakelijk is met een maximum van 22,00 m.
 
-- c. onverminderd onderdeel a, de lengte van een oplegger met inbegrip van de lading, meer bedragen dan ingevolge [artikel 5.12.6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-07-01&g=2014-07-01), is toegestaan doch niet meer dan voor het vervoer noodzakelijk is met een maximum combinatielengte van 22,00 m.
+- c. onverminderd onderdeel a, de lengte van een oplegger met inbegrip van de lading, meer bedragen dan ingevolge [artikel 5.12.6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-09-03&g=2014-09-03), is toegestaan doch niet meer dan voor het vervoer noodzakelijk is met een maximum combinatielengte van 22,00 m.
 
-2. In afwijking van [artikel 5.18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-07-01&g=2014-07-01) mag de lengte van een samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading, dat is ingericht voor het vervoer van voertuigen, meer bedragen dan ingevolge artikel 5.18.12 is toegestaan doch niet meer dan 20,75 m, waarbij:
+2. In afwijking van [artikel 5.18.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.12&z=2014-09-03&g=2014-09-03) mag de lengte van een samenstel van bedrijfsauto en aanhangwagen, niet zijnde een oplegger, met inbegrip van de lading, dat is ingericht voor het vervoer van voertuigen, meer bedragen dan ingevolge artikel 5.18.12 is toegestaan doch niet meer dan 20,75 m, waarbij:
 
 - 1°. de lading niet meer dan 2,00 m achter de aanhangwagen en niet meer dan 5,00 m achter het hart van de achterste as van de aanhangwagen mag uitsteken;
 
 - 2°. de lading niet meer dan 0,50 m voor de voorzijde van de bedrijfsauto mag uitsteken;
 
-- 3°. de lading die achter het voertuig meer dan 1,00 m uitsteekt aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 130 tot en met 133.
+- 3°. de lading die achter het voertuig meer dan 1,00 m uitsteekt aan de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 130 tot en met 133.
 
 ##### Artikel 5.18.14
 
@@ -7984,7 +7974,7 @@ In aanvulling hierop moet lading zodanig zijn gezekerd dat deze door opwaartse k
 
 2. Met inbegrip van de lading mag de breedte van voertuigen, waarvan de lading bestaat uit in de breedte ondeelbare lading, meer bedragen dan de maximum toegestane breedte van die voertuigen in onbeladen toestand, doch niet meer dan voor het vervoer noodzakelijk is, met een maximum van 3,00 m.
 
-3. Lading die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteekt, moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 130 tot en met 133.
+3. Lading die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteekt, moet zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 130 tot en met 133.
 
 4. Het derde lid is niet van toepassing op lading van driewielige motorrijtuigen die na 31 oktober 1997 in gebruik zijn genomen en op lading van personenauto’s.
 
@@ -8002,7 +7992,7 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 3. Het eerste lid is niet van toepassing op samenstellen van kermis- en circusvoertuigen, rijdende werktuigen en samenstellen van rijdende werktuigen en aanhangwagens.
 
-4. Het bepaalde in het eerste lid is niet van toepassing op samenstellen van trekker en oplegger als bedoeld in [artikel 5.18.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.13&z=2014-07-01&g=2014-07-01).
+4. Het bepaalde in het eerste lid is niet van toepassing op samenstellen van trekker en oplegger als bedoeld in [artikel 5.18.13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=A&artikel=5.18.13&z=2014-09-03&g=2014-09-03).
 
 5. Ten aanzien van het gesteld in het eerste lid moet bij een stilstaande bus op de bodem met een lijn het loodrechte vlak worden aangegeven dat raakt aan de buitenzijde van het voertuig ten opzichte van de cirkel. Bij een gelede bus worden de twee stijve delen langs het vlak opgesteld. Wanner het voertuig de in het eerste lid beschreven cirkelvormige ruimte in rechte lijn binnenrijdt, mag geen voertuigdeel meer dan 0.60 m buiten het vermelde loodrecht vlak komen.
 
@@ -8224,13 +8214,19 @@ De hoogte van personenauto’s, bedrijfsauto’s, bussen en driewielige motorrij
 
 - 3°. de daarvoor ten aanzien van het remsysteem van de dolly opgegeven technisch toegestane maximummassa;
 
-- 4°. het samenstel van een dolly en oplegger: 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt.
+- 4°. het samenstel van een dolly en oplegger:
+
+- –. de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg is;
+
+- –. 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig met een maximum van 3.500 kg vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van ten hoogste 3.500 kg met een aantekening ‘G’ op de kentekencard, het kentekenbewijs of in het kentekenregister is of;
+
+- –. 1,5 maal de technisch toegestane maximummassa van het trekkende motorvoertuig vermeerderd met de technisch toegestane maximummassa op het koppelpunt indien het trekkend voertuig een bedrijfsauto met een technisch toegestane maximummassa van meer dan 3.500 kg is.
 
 ##### Artikel 5.18.17h
 
 1. Personenauto’s mogen niet zodanig zijn beladen dat de toegestane maximum last van enige as of asstel, de maximum last onder de koppeling, of de toegestane maximummassa van het voertuig wordt overschreden dan wel de som van de aslasten meer bedraagt dan de toegestane maximummassa.
 
-2. Bussen mogen niet meer passagiers vervoeren dan het maximum aantal passagiers dat op de kentekencard dan wel het kentekenbewijs of in het kentekenregister, dan wel op de plaat als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01), is vermeld. Indien het maximum aantal passagiers niet op de kentekencard dan wel het kentekenbewijs, in het kentekenregister, dan wel de plaat als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01), is vermeld, wordt het maximaal aantal passagiers vastgesteld door de toegestane maximummassa te verminderen met de massa in rijklare toestand te delen door 68 kg.
+2. Bussen mogen niet meer passagiers vervoeren dan het maximum aantal passagiers dat op de kentekencard dan wel het kentekenbewijs of in het kentekenregister, dan wel op de plaat als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03), is vermeld. Indien het maximum aantal passagiers niet op de kentekencard dan wel het kentekenbewijs, in het kentekenregister, dan wel de plaat als bedoeld in [artikel 5.3a.1, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03), is vermeld, wordt het maximaal aantal passagiers vastgesteld door de toegestane maximummassa te verminderen met de massa in rijklare toestand te delen door 68 kg.
 
 ##### Artikel 5.18.18
 
@@ -8330,11 +8326,11 @@ De lengte van samenstellen van landbouw- of bosbouwtrekker of motorrijtuig met b
 
 - 3°. de lading die voor of achter het voertuig meer dan 1,00 m uitsteekt, aan de voorzijde dan wel de achterzijde moet zijn voorzien van een markering die voldoet aan het bepaalde in bijlage VIII, artikelen 130 tot en met 133.
 
-3. Ter ondersteuning van de lading mag een uitschuiflade of laadklep dan wel een uitschuifbare stootbalk worden gebruikt voor zover daardoor de in de [artikelen 5.7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=2&artikel=5.7.6&z=2014-07-01&g=2014-07-01), [5.8.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=2&artikel=5.8.6&z=2014-07-01&g=2014-07-01), en [5.18.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=C&artikel=5.18.20&z=2014-07-01&g=2014-07-01) opgenomen afmetingen niet worden overschreden. Lading mag niet uitsluitend op de uitschuiflade of op de laadklep rusten.
+3. Ter ondersteuning van de lading mag een uitschuiflade of laadklep dan wel een uitschuifbare stootbalk worden gebruikt voor zover daardoor de in de [artikelen 5.7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=2&artikel=5.7.6&z=2014-09-03&g=2014-09-03), [5.8.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=2&artikel=5.8.6&z=2014-09-03&g=2014-09-03), en [5.18.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=1&sub-paragraaf=C&artikel=5.18.20&z=2014-09-03&g=2014-09-03) opgenomen afmetingen niet worden overschreden. Lading mag niet uitsluitend op de uitschuiflade of op de laadklep rusten.
 
 ##### Artikel 5.18.21a
 
-1. De lengte van een motorrijtuig met beperkte snelheid of een landbouw- of bosbouwtrekker met inbegrip van één of meer verwisselbare uitrustingsstukken mag niet meer bedragen dan in de [artikelen 5.7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=2&artikel=5.7.6&z=2014-07-01&g=2014-07-01), en [5.8.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=2&artikel=5.8.6&z=2014-07-01&g=2014-07-01), is bepaald waarbij:
+1. De lengte van een motorrijtuig met beperkte snelheid of een landbouw- of bosbouwtrekker met inbegrip van één of meer verwisselbare uitrustingsstukken mag niet meer bedragen dan in de [artikelen 5.7.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=7&paragraaf=2&artikel=5.7.6&z=2014-09-03&g=2014-09-03), en [5.8.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=8&paragraaf=2&artikel=5.8.6&z=2014-09-03&g=2014-09-03), is bepaald waarbij:
 
 - a. de verwisselbare uitrustingstukken zoveel mogelijk moeten zijn ingeschoven, ingetrokken dan wel in- of opgeklapt en deugdelijk vergrendeld;
 
@@ -8342,7 +8338,7 @@ De lengte van samenstellen van landbouw- of bosbouwtrekker of motorrijtuig met b
 
 - c. het zicht op de verlichting, de retroreflectoren of de richtingaanwijzers van het voertuig niet mag worden belemmerd;
 
-- d. de verwisselbare uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, aan de voorzijde dan wel de achterzijde moeten zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 130 tot en met 133.
+- d. de verwisselbare uitrustingsstukken die voor of achter het voertuig meer dan 1,00 m uitsteken, aan de voorzijde dan wel de achterzijde moeten zijn voorzien van een markering die voldoet aan het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 130 tot en met 133.
 
 2. Het eerste lid, onderdeel c, is niet van toepassing indien op het voertuig of aan de voor- of achterzijde van de verwisselbare uitrustingsstukken op gelijke wijze als op het betrokken voertuig verlichting, retroreflectoren of richtingaanwijzers zijn aangebracht.
 
@@ -8352,7 +8348,7 @@ De lengte van samenstellen van landbouw- of bosbouwtrekker of motorrijtuig met b
 
 2. Op onverharde wegen mag de breedte van walsen, met inbegrip van de lading, niet meer dan 2,60 m bedragen.
 
-3. Lading en verwisselbare uitrustingsstukken die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteken zijn voorzien van een markering die voldoet aan de in de in [bijlage VIII, artikelen 130 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01) vastgestelde eisen.
+3. Lading en verwisselbare uitrustingsstukken die in de breedte meer dan 0,10 m buiten de zijkant van het voertuig uitsteken zijn voorzien van een markering die voldoet aan de in de in [bijlage VIII, artikelen 130 tot en met 133](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03) vastgestelde eisen.
 
 ##### Artikel 5.18.23
 
@@ -8386,7 +8382,7 @@ De hoogte van landbouw- of bosbouwtrekkers en motorrijtuigen met beperkte snelhe
 
 ##### Artikel 5.18.25a
 
-Indien met een motorrijtuig met beperkte snelheid dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-07-01&g=2014-07-01) geen passagiers in de aanhangwagen worden vervoerd, mag in het motorrijtuig slechts één passagier worden vervoerd.
+Indien met een motorrijtuig met beperkte snelheid dat een combinatie vormt met één of meer aanhangwagens die zijn ingericht voor het vervoer van personen als bedoeld in [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=1&artikel=1.1&z=2014-09-03&g=2014-09-03) geen passagiers in de aanhangwagen worden vervoerd, mag in het motorrijtuig slechts één passagier worden vervoerd.
 
 ##### Artikel 5.18.26
 
@@ -8462,7 +8458,7 @@ Indien met een motorrijtuig met beperkte snelheid dat een combinatie vormt met �
 
 ##### Artikel 5.18.32
 
-Personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen behoeven in geval van nood niet te voldoen aan de [artikelen 5.2.27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=6&artikel=5.2.27&z=2014-07-01&g=2014-07-01), [5.3.27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=6&artikel=5.3.27&z=2014-07-01&g=2014-07-01), [5.3a.27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=6&artikel=5.3a.27&z=2014-07-01&g=2014-07-01), en [5.5.27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=5&artikel=5.5.27&z=2014-07-01&g=2014-07-01), mits in dat geval de rijsnelheid en het rijgedrag worden aangepast aan de door de fabrikant vastgestelde voorschriften.
+Personenauto’s, bedrijfsauto’s, bussen en driewielige motorrijtuigen behoeven in geval van nood niet te voldoen aan de [artikelen 5.2.27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=6&artikel=5.2.27&z=2014-09-03&g=2014-09-03), [5.3.27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=6&artikel=5.3.27&z=2014-09-03&g=2014-09-03), [5.3a.27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=6&artikel=5.3a.27&z=2014-09-03&g=2014-09-03), en [5.5.27, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=5&paragraaf=5&artikel=5.5.27&z=2014-09-03&g=2014-09-03), mits in dat geval de rijsnelheid en het rijgedrag worden aangepast aan de door de fabrikant vastgestelde voorschriften.
 
 #### § 10. Lichten, lichtsignalen en retroreflecterende voorzieningen
 
@@ -8518,7 +8514,7 @@ Vervallen
 
 - b. op een hoogte van niet minder van 0,25 m en niet meer dan 1,90 m boven het wegdek. Indien zulks niet mogelijk is zonder gebruikmaking van bevestigingsmiddelen die gemakkelijk kunnen worden beschadigd, mag de retroreflector op een hoogte van meer dan 1,90 m doch niet meer dan 2,30 m boven het wegdek zijn aangebracht.
 
-3. De in het eerste lid bedoelde rode retroreflector moet zijn voorzien van een goedkeuringsmerk waarbij het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 123, van toepassing is.
+3. De in het eerste lid bedoelde rode retroreflector moet zijn voorzien van een goedkeuringsmerk waarbij het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 123, van toepassing is.
 
 #### A. Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen en daardoor voortbewogen aanhangwagens
 
@@ -8536,9 +8532,9 @@ Indien met een personenauto, bedrijfsauto, bus, driewielig motorrijtuig, motorri
 
 ##### Artikel 5.18.38a
 
-1. Indien een aanhangwagen wordt voortbewogen door een personenauto, bedrijfsauto of bus die is voorzien van één of twee mistachterlichten, behoeven in afwijking van [artikel 5.18.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=B&artikel=5.18.38&z=2014-07-01&g=2014-07-01), alleen de één of twee mistachterlichten op de aanhangwagen te branden, mits de bediening van de mistachterlichten op het trekkende voertuig en de aanhangwagen vanuit het trekkende voertuig plaatsvindt.
+1. Indien een aanhangwagen wordt voortbewogen door een personenauto, bedrijfsauto of bus die is voorzien van één of twee mistachterlichten, behoeven in afwijking van [artikel 5.18.38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=B&artikel=5.18.38&z=2014-09-03&g=2014-09-03), alleen de één of twee mistachterlichten op de aanhangwagen te branden, mits de bediening van de mistachterlichten op het trekkende voertuig en de aanhangwagen vanuit het trekkende voertuig plaatsvindt.
 
-2. Indien een voertuig aan de achterzijde is voorzien van een lastdrager, behoeft in afwijking van [artikel 5.18.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=B&artikel=5.18.38&z=2014-07-01&g=2014-07-01), alleen het mistachterlicht op de lastdrager te branden, mits de bediening van het mistachterlicht op de lastdrager vanuit het trekkende voertuig plaatsvindt. Wanneer de lastdrager niet is voorzien van een mistachterlicht, dan behoeven de één of twee mistachterlichten op het voertuig niet te branden wanneer de verlichtingsinstallatie van de lastdrager is aangesloten.
+2. Indien een voertuig aan de achterzijde is voorzien van een lastdrager, behoeft in afwijking van [artikel 5.18.38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=B&artikel=5.18.38&z=2014-09-03&g=2014-09-03), alleen het mistachterlicht op de lastdrager te branden, mits de bediening van het mistachterlicht op de lastdrager vanuit het trekkende voertuig plaatsvindt. Wanneer de lastdrager niet is voorzien van een mistachterlicht, dan behoeven de één of twee mistachterlichten op het voertuig niet te branden wanneer de verlichtingsinstallatie van de lastdrager is aangesloten.
 
 #### E. Fietsen en daardoor voortbewogen aanhangwagens
 
@@ -8560,7 +8556,7 @@ Indien met een personenauto, bedrijfsauto, bus, driewielig motorrijtuig, motorri
 
 ##### Artikel 5.18.44
 
-1. De in [artikel 5.18.43](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=C&artikel=5.18.43&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken.
+1. De in [artikel 5.18.43](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=C&artikel=5.18.43&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken.
 
 2. De verlichtingsarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd.
 
@@ -8568,7 +8564,7 @@ Indien met een personenauto, bedrijfsauto, bus, driewielig motorrijtuig, motorri
 
 4. Lichten met dezelfde functie moeten van gelijke grootte, gelijke kleur en gelijke of nagenoeg gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten symmetrisch links en rechts van het midden van het voertuig zijn bevestigd.
 
-5. De in [artikel 5.18.43](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=C&artikel=5.18.43&z=2014-07-01&g=2014-07-01) bedoelde lichten mogen niet zijn afgeschermd.
+5. De in [artikel 5.18.43](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=C&artikel=5.18.43&z=2014-09-03&g=2014-09-03) bedoelde lichten mogen niet zijn afgeschermd.
 
 ##### Artikel 5.18.45
 
@@ -8612,7 +8608,7 @@ Wagens die bij nacht of bij dag indien het zicht ernstig wordt belemmerd, worden
 
 ##### Artikel 5.18.51
 
-1. De in [artikel 5.18.50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=E&artikel=5.18.50&z=2014-07-01&g=2014-07-01) bedoelde lichten moeten goed werken.
+1. De in [artikel 5.18.50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=E&artikel=5.18.50&z=2014-09-03&g=2014-09-03) bedoelde lichten moeten goed werken.
 
 2. De verlichtingsarmaturen en de onderdelen daarvan moeten deugdelijk aan het voertuig zijn bevestigd.
 
@@ -8620,7 +8616,7 @@ Wagens die bij nacht of bij dag indien het zicht ernstig wordt belemmerd, worden
 
 4. Lichten met dezelfde functie moeten van gelijke grootte, gelijke kleur, en gelijke of nagenoeg gelijke sterkte zijn. Lichten en retroreflecterende voorzieningen met dezelfde functie moeten op gelijke hoogte symmetrisch links en rechts midden van het voertuig zijn bevestigd.
 
-5. De in [artikel 5.18.50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=E&artikel=5.18.50&z=2014-07-01&g=2014-07-01) bedoelde lichten mogen niet zijn afgeschermd.
+5. De in [artikel 5.18.50](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=18&paragraaf=4&sub-paragraaf=E&artikel=5.18.50&z=2014-09-03&g=2014-09-03) bedoelde lichten mogen niet zijn afgeschermd.
 
 ##### Artikel 5.18.52
 
@@ -8682,7 +8678,7 @@ Bromfietsen op drie of meer wielen met een carrosserie moeten aan de achterzijde
 
 ##### Artikel 5.18.61
 
-Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=0&artikel=5.3.1&z=2014-07-01&g=2014-07-01), [5.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-07-01&g=2014-07-01) en [5.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=0&artikel=5.12.1&z=2014-07-01&g=2014-07-01) moeten:
+Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=0&artikel=5.3.1&z=2014-09-03&g=2014-09-03), [5.3a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=0&artikel=5.3a.1&z=2014-09-03&g=2014-09-03) en [5.12.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=0&artikel=5.12.1&z=2014-09-03&g=2014-09-03) moeten:
 
 - a. bedrijfsauto’s met een toegestane maximummassa van meer dan 3.500 kg en bestemd voor het vervoer van goederen,
 
@@ -8714,11 +8710,11 @@ Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR002579
 
 ##### Artikel 6.1
 
-1. De in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&z=2014-07-01&g=2014-07-01) vermelde wijzigingen in de constructie van gekentekende voertuigen, moeten, voor zover niet anders is bepaald, zijn goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg, waarbij moet worden voldaan aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&z=2014-07-01&g=2014-07-01) ter zake van de betrokken wijziging vermelde eisen.
+1. De in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&z=2014-09-03&g=2014-09-03) vermelde wijzigingen in de constructie van gekentekende voertuigen, moeten, voor zover niet anders is bepaald, zijn goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg, waarbij moet worden voldaan aan de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&z=2014-09-03&g=2014-09-03) ter zake van de betrokken wijziging vermelde eisen.
 
 2. Indien het voertuig gaat behoren tot een andere voertuigcategorie of een andere voertuigclassificatie, dan die waarvoor het bij toelating tot het verkeer op de weg is goedgekeurd, wordt het voertuig aangemerkt als reeds tot die nieuwe voertuigcategorie of voertuigclassificatie behorend en moet het voldoen aan de voor die voertuigcategorie of voertuigclassificatie geldende eisen.
 
-3. Indien een kentekenplichtig voertuig gewijzigd wordt in een niet-kentekenplichtig voertuig moet het voertuig voldoen aan de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-07-01&g=2014-07-01) gestelde eisen en indien van toepassing aan de eisen vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) zoals die eisen luidden ten tijde van de ingebruikname van het voertuig.
+3. Indien een kentekenplichtig voertuig gewijzigd wordt in een niet-kentekenplichtig voertuig moet het voertuig voldoen aan de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-09-03&g=2014-09-03) gestelde eisen en indien van toepassing aan de eisen vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) zoals die eisen luidden ten tijde van de ingebruikname van het voertuig.
 
 4. De in het tweede en derde lid bedoelde voertuigen moeten zijn goedgekeurd voor toelating van het gewijzigde voertuig tot het verkeer op de weg.
 
@@ -8732,7 +8728,7 @@ Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR002579
 
 ##### Artikel 6.3
 
-1. Bij wijziging in de constructie van een voertuig waardoor de onderstaande voertuiggegevens wijzigen, en na deze wijziging niet meer overeenstemmen met het kentekenregister, moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-07-01&g=2014-07-01) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met een in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732) aangebrachte wijziging;
+1. Bij wijziging in de constructie van een voertuig waardoor de onderstaande voertuiggegevens wijzigen, en na deze wijziging niet meer overeenstemmen met het kentekenregister, moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-09-03&g=2014-09-03) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met een in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732) aangebrachte wijziging;
 
 - a. het aantal assen;
 
@@ -8784,7 +8780,7 @@ Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR002579
 
 - y. het geluidsniveau bij stilstand en bijbehorend toerental van motorvoertuigen.
 
-2. In aanvulling op het eerste lid moet bij voertuigen in gebruik genomen na 31 december 1997 voor de volgende wijzigingen in de constructie tevens worden voldaan aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-07-01&g=2014-07-01) opgenomen eisen met betrekking tot deugdelijkheid en weggedrag, voor zover deze van toepassing zijn op de betreffende voertuigcategorie:
+2. In aanvulling op het eerste lid moet bij voertuigen in gebruik genomen na 31 december 1997 voor de volgende wijzigingen in de constructie tevens worden voldaan aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-09-03&g=2014-09-03) opgenomen eisen met betrekking tot deugdelijkheid en weggedrag, voor zover deze van toepassing zijn op de betreffende voertuigcategorie:
 
 - a. de vergroting van de wielbasis, indien het een personenauto met een volledig zelfdragende carrosserie, bedrijfsauto met een toegestane maximummassa van niet meer dan 3.500 kg met een volledig zelfdragende carrosserie, bus met een toegestane maximummassa van niet meer dan 3.500 kg met een volledig zelfdragende carrosserie of motorfiets betreft;
 
@@ -8794,21 +8790,21 @@ Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR002579
 
 - d. het type carrosserie, voor zover naar het oordeel van de Dienst Wegverkeer inbreuk is op de sterkte van de dragende constructie, indien het een personenauto, bedrijfsauto of bus betreft met een zelfdragende carrosserie.
 
-3. In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort in een al of niet tot vloeistof verdicht gas het voertuig tevens voldoen aan de in [bijlage X, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=X&z=2014-07-01&g=2014-07-01), opgenomen eisen.
+3. In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort in een al of niet tot vloeistof verdicht gas het voertuig tevens voldoen aan de in [bijlage X, hoofdstuk 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=X&z=2014-09-03&g=2014-09-03), opgenomen eisen.
 
-4. In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort van een al of niet tot vloeistof verdicht gas naar benzine of diesel het voertuig tevens voldoen aan de in [bijlage X, hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=X&z=2014-07-01&g=2014-07-01), opgenomen eisen.
+4. In aanvulling op het eerste lid moet bij wijziging van de brandstofsoort van een al of niet tot vloeistof verdicht gas naar benzine of diesel het voertuig tevens voldoen aan de in [bijlage X, hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=X&z=2014-09-03&g=2014-09-03), opgenomen eisen.
 
-5. Een personenauto, bedrijfsauto of bus moet bij wijziging in de constructie tevens voldoen aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-07-01&g=2014-07-01), hoofdstuk 3, artikel 3, onderdeel b, opgenomen eisen ten aanzien van het weggedrag, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.
+5. Een personenauto, bedrijfsauto of bus moet bij wijziging in de constructie tevens voldoen aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-09-03&g=2014-09-03), hoofdstuk 3, artikel 3, onderdeel b, opgenomen eisen ten aanzien van het weggedrag, voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.
 
-6. Een motorfiets moet bij wijziging in de constructie tevens voldoen aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-07-01&g=2014-07-01), hoofdstuk 5, titel 2, artikel 6, opgenomen eisen ten aanzien van het weggedrag voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.
+6. Een motorfiets moet bij wijziging in de constructie tevens voldoen aan de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IX&z=2014-09-03&g=2014-09-03), hoofdstuk 5, titel 2, artikel 6, opgenomen eisen ten aanzien van het weggedrag voor zover dit naar het oordeel van de Dienst Wegverkeer noodzakelijk is met het oog op het veilig gebruik van het voertuig.
 
 7. Het zesde lid is van overeenkomstige toepassing op bromfietsen en driewielige motorrijtuigen.
 
-8. In afwijking van [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2014-07-01&g=2014-07-01), mag een wijziging in de constructie van motorfietsen waarbij het vermogen afwijkt van de in het kentekenregister geregistreerde oorspronkelijke waarde worden aangetoond door middel van een verklaring, afgegeven door de fabrikant van het voertuig of de vertegenwoordiger van die fabrikant in Nederland, waaruit blijkt dat de wijziging volgens fabrieksvoorschriften is uitgevoerd en het gewijzigde vermogen voorkomt in een typegoedkeuring.
+8. In afwijking van [artikel 6.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=1&artikel=6.1&z=2014-09-03&g=2014-09-03), mag een wijziging in de constructie van motorfietsen waarbij het vermogen afwijkt van de in het kentekenregister geregistreerde oorspronkelijke waarde worden aangetoond door middel van een verklaring, afgegeven door de fabrikant van het voertuig of de vertegenwoordiger van die fabrikant in Nederland, waaruit blijkt dat de wijziging volgens fabrieksvoorschriften is uitgevoerd en het gewijzigde vermogen voorkomt in een typegoedkeuring.
 
 ##### Artikel 6.4
 
-1. Bij wijziging van de onderstaande voertuigonderdelen moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-07-01&g=2014-07-01) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
+1. Bij wijziging van de onderstaande voertuigonderdelen moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-09-03&g=2014-09-03) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
 
 - a. het remsysteem van voertuigen, voor zover deze van invloed is op de bedieningsplaats, bedieningsmanier en bedieningskracht;
 
@@ -8822,29 +8818,29 @@ Onverminderd de [artikelen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR002579
 
 - f. de ligplaatsen van een personenauto.
 
-2. Bij het aanbrengen van een knielsysteem moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-07-01&g=2014-07-01) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
+2. Bij het aanbrengen van een knielsysteem moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03), of [bijlage IIIB](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IIIb&z=2014-09-03&g=2014-09-03) bij deze regeling voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
 
-3. Bij wijziging van de inrichting van een taxi moet de gewijzigde inrichting voldoen aan de eisen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-07-01&g=2014-07-01), voor zover die eisen verband houden met de aangebrachte wijziging.
+3. Bij wijziging van de inrichting van een taxi moet de gewijzigde inrichting voldoen aan de eisen in [bijlage VI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VI&z=2014-09-03&g=2014-09-03), voor zover die eisen verband houden met de aangebrachte wijziging.
 
-4. Bij wijziging van de inrichting van een bus moet de gewijzigde inrichting voldoen aan de eisen van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01), respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
+4. Bij wijziging van de inrichting van een bus moet de gewijzigde inrichting voldoen aan de eisen van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03), respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging in het kader van de erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
 
 ##### Artikel 6.5
 
-Indien een snelheidsbegrenzer wordt aangebracht, afgesteld of verzegeld in een motorvoertuig uit een van de voertuigclassificaties, vermeld in [artikel 5.3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.3.15&z=2014-07-01&g=2014-07-01), respectievelijk [artikel 5.3a.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=4&artikel=5.3a.15&z=2014-07-01&g=2014-07-01), moet het motorvoertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging.
+Indien een snelheidsbegrenzer wordt aangebracht, afgesteld of verzegeld in een motorvoertuig uit een van de voertuigclassificaties, vermeld in [artikel 5.3.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.3.15&z=2014-09-03&g=2014-09-03), respectievelijk [artikel 5.3a.15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=4&artikel=5.3a.15&z=2014-09-03&g=2014-09-03), moet het motorvoertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging.
 
 ##### Artikel 6.6
 
-1. Indien voor een bus een goedkeuring als T100-bus wordt verzocht, moet deze bus voldoen aan de in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XI&z=2014-07-01&g=2014-07-01) opgenomen eisen.
+1. Indien voor een bus een goedkeuring als T100-bus wordt verzocht, moet deze bus voldoen aan de in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XI&z=2014-09-03&g=2014-09-03) opgenomen eisen.
 
-2. Indien de bouw of inrichting van een bus, ten aanzien waarvan tevens keuring als T100-bus is verzocht, wordt gewijzigd, moet deze bus voldoen aan de in [hoofdstuk 5, afdeling 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&z=2014-07-01&g=2014-07-01), opgenomen eisen en aan de in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XI&z=2014-07-01&g=2014-07-01) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging.
+2. Indien de bouw of inrichting van een bus, ten aanzien waarvan tevens keuring als T100-bus is verzocht, wordt gewijzigd, moet deze bus voldoen aan de in [hoofdstuk 5, afdeling 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&z=2014-09-03&g=2014-09-03), opgenomen eisen en aan de in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XI&z=2014-09-03&g=2014-09-03) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging.
 
 ##### Artikel 6.7
 
-Indien een koppeling wordt aangebracht op een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een bus met een toegestane maximummassa van meer dan 3.500 kg, moet het motorvoertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
+Indien een koppeling wordt aangebracht op een bedrijfsauto met een toegestane maximummassa van meer dan 3.500 kg of een bus met een toegestane maximummassa van meer dan 3.500 kg, moet het motorvoertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
 
 ##### Artikel 6.8
 
-Indien de vering van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg wordt gewijzigd, moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
+Indien de vering van een aanhangwagen met een toegestane maximummassa van meer dan 3.500 kg wordt gewijzigd, moet het voertuig voldoen aan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03) opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging, respectievelijk aan de in [artikel 3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03) voor het betrokken voertuig opgenomen eisen voor zover die eisen verband houden met de aangebrachte wijziging indien de wijziging is aangebracht in het kader van een erkenning GWC als bedoeld in de [Regeling aanpassing voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025732).
 
 ### Hoofdstuk 7. Schadevoertuigen
 
@@ -8857,7 +8853,7 @@ Een schadevoertuig moet na herstel voldoen aan de in dit hoofdstuk opgenomen eis
 |   | Eisen | Wijze van keuren |
 | --- | --- | --- |
 | 1. | Een schadevoertuig moet na herstel voldoen aan de in dit artikel vermelde eisen. | – |
-| 2. | De voor het betreffende voertuig opgenomen eisen in [hoofdstuk 5, paragrafen 0, 1, 7, 8 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-07-01&g=2014-07-01) zijn van toepassing. | De in [hoofdstuk 5, paragrafen 0, 1, 7, 8 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-07-01&g=2014-07-01) vermelde wijze van keuren is van toepassing. |
+| 2. | De voor het betreffende voertuig opgenomen eisen in [hoofdstuk 5, paragrafen 0, 1, 7, 8 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-09-03&g=2014-09-03) zijn van toepassing. | De in [hoofdstuk 5, paragrafen 0, 1, 7, 8 en 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-09-03&g=2014-09-03) vermelde wijze van keuren is van toepassing. |
 | 3. | Het chassis, frame dan wel de zelfdragende carrosserie moet de oorspronkelijke maatvoering hebben. | De maatvoering van het chassis dan wel de bodemplaat van de zelfdragende carrosserie wordt met daartoe bestemde meetapparatuur gemeten. De relevante meetpunten aan de onderzijde van het voertuig worden gecontroleerd. De toegestane afwijking van de meetpunten van de voertuigbodem bedraagt 10 mm in zowel de lengte-, breedte-, als hoogterichting. |
 | 4. | De wielstanden moeten overeenkomen met de fabrieksgegevens. | De wielstanden worden met daartoe bestemde meetapparatuur gemeten. De volgende waarden worden vastgesteld: a. de totale sporing van de voorwielen; b. de totale sporing van de achterwielen; c. de wielvlucht van elk wiel; en d. de rijlijn van de achterwielen. Voor de sporing geldt een maximale afwijking van 0º30’ ten opzichte van de maximale fabriekstoleranties. Indien de fabriekstolerantie niet bekend is, mag de waarde links en rechts maximaal 1º verschillen. Voor de wielvlucht van elk wiel geldt een maximale afwijking van 0º30’ ten opzichte van de maximale fabriekstoleranties. Indien de fabriekstolerantie niet bekend is, mag de waarde links en rechts maximaal 1º verschillen. Voor de rijlijn geldt een maximale afwijking van 0º30’ ten opzichte van de maximale fabriekstoleranties. Indien de fabriekstolerantie niet bekend is, mag de waarde 1º zijn. |
 | 5. | Indien elektronische veiligheidssystemen aanwezig zijn, moeten deze goed functioneren. | Visuele controle. |
@@ -8888,7 +8884,7 @@ Een schadevoertuig moet na herstel voldoen aan de in dit hoofdstuk opgenomen eis
 
 - **controlecertificaat:** document afgegeven dan wel een melding in het Register Meetmiddelen naar aanleiding van een eerste en periodieke controle van een in gebruik genomen hulpinrichting, waarin de overeenstemming van de individuele eigenschappen van de hulpinrichting met de eigenschappen uit deze regeling worden herbevestigd;
 
-- **datum ingebruikname:** datum waarop het meetmiddel aantoonbaar in gebruik is genomen ten behoeve van de controle van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-07-01&g=2014-07-01) gestelde permanente eisen;
+- **datum ingebruikname:** datum waarop het meetmiddel aantoonbaar in gebruik is genomen ten behoeve van de controle van de in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-09-03&g=2014-09-03) gestelde permanente eisen;
 
 - **digitale aanwijzing:** aanwijzing die de gemeten waarde uitsluitend getalsmatig weergeeft;
 
@@ -8914,7 +8910,7 @@ Een schadevoertuig moet na herstel voldoen aan de in dit hoofdstuk opgenomen eis
 
 - **maximale fout:** de maximaal toelaatbare waarde van de fout geldend voor een bepaald soort meetmiddel;
 
-- **onderzoeksgerechtigde:** onderneming of instelling die op grond van [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&z=2014-07-01&g=2014-07-01), van dit hoofdstuk door een keuringsinstelling is erkend tot het mogen afgeven van certificaten van eerste keuring dan wel herkeuring ten aanzien van nader bepaalde categorieën in gebruik genomen meetmiddelen;
+- **onderzoeksgerechtigde:** onderneming of instelling die op grond van [afdeling 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&z=2014-09-03&g=2014-09-03), van dit hoofdstuk door een keuringsinstelling is erkend tot het mogen afgeven van certificaten van eerste keuring dan wel herkeuring ten aanzien van nader bepaalde categorieën in gebruik genomen meetmiddelen;
 
 - **primair meetsignaal:** het in apparatuur met elektronische signaalverwerking aanwezige analoge of digitale meetsignaal dat een getrouwe, niet beïnvloede weergave is van de gemeten grootheid. In dit meetsignaal zijn alle relevante dynamische verschijnselen van de gemeten grootheid proportioneel aanwezig;
 
@@ -8980,13 +8976,13 @@ Een schadevoertuig moet na herstel voldoen aan de in dit hoofdstuk opgenomen eis
 
 - k. geluidsniveaumeter.
 
-2. Ten bewijze van een typegoedkeuring als bedoeld in het eerste lid, wordt een typekeuringscertificaat verstrekt. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
+2. Ten bewijze van een typegoedkeuring als bedoeld in het eerste lid, wordt een typekeuringscertificaat verstrekt. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
 
 3. Het eerste lid is niet van toepassing op niet in roetmeters geïntegreerde toerentellers en olietemperatuurmeters, die gebruikt worden ten behoeve van de periodieke keuring.
 
 ##### Artikel 8.1.4
 
-Een uitlaatgastester als bedoeld in [artikel 8.1.3, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01):
+Een uitlaatgastester als bedoeld in [artikel 8.1.3, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03):
 
 - a. ondergaat vóór ingebruikname een conformiteitsbeoordeling ingevolge [richtlijn 2004/22/EG](32004L0022);
 
@@ -8996,27 +8992,27 @@ Een uitlaatgastester als bedoeld in [artikel 8.1.3, eerste lid, onder i](https:/
 
 ##### Artikel 8.1.4a
 
-1. Meetmiddelen, genoemd in [artikel 8.1.3, eerste lid, onder a tot en met h, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), ondergaan vóór ingebruikname een eerste keuring.
+1. Meetmiddelen, genoemd in [artikel 8.1.3, eerste lid, onder a tot en met h, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), ondergaan vóór ingebruikname een eerste keuring.
 
-2. Ten bewijze van een keuring als bedoeld in het eerste lid, wordt een certificaat van eerste keuring verstrekt. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
+2. Ten bewijze van een keuring als bedoeld in het eerste lid, wordt een certificaat van eerste keuring verstrekt. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
 
-3. Uitlaatgastesters met lambdabepaling die zijn typegoedgekeurd voor 31 oktober 2006 mogen tot 1 november 2016 in gebruik worden genomen op grond van de in de [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) voor dit meetmiddel opgenomen algemene respectievelijk specifieke eisen.
+3. Uitlaatgastesters met lambdabepaling die zijn typegoedgekeurd voor 31 oktober 2006 mogen tot 1 november 2016 in gebruik worden genomen op grond van de in de [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) voor dit meetmiddel opgenomen algemene respectievelijk specifieke eisen.
 
 ##### Artikel 8.1.5
 
-1. Meetmiddelen, genoemd in [artikel 8.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), ondergaan na ingebruikname periodiek een herkeuring.
+1. Meetmiddelen, genoemd in [artikel 8.1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), ondergaan na ingebruikname periodiek een herkeuring.
 
-2. Ten bewijze van een herkeuring als bedoeld in het eerste lid, wordt een herkeuringscertificaat afgegeven. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
+2. Ten bewijze van een herkeuring als bedoeld in het eerste lid, wordt een herkeuringscertificaat afgegeven. Voor het verkrijgen van dit certificaat moet worden voldaan aan de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) voor het betreffende meetmiddel opgenomen algemene respectievelijk specifieke eisen.
 
-3. Het tweede lid is niet van toepassing op een uitlaatgastester die is voorzien van de in [artikel 8.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.4&z=2014-07-01&g=2014-07-01) bedoelde markeringen. Een dergelijke uitlaatgastester moet voor het verkrijgen van het herkeuringscertificaat voldoen aan de eisen opgenomen in de bijlagen I en bijlage MI-010 van [richtlijn 2004/22/EG](32004L0022).
+3. Het tweede lid is niet van toepassing op een uitlaatgastester die is voorzien van de in [artikel 8.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.4&z=2014-09-03&g=2014-09-03) bedoelde markeringen. Een dergelijke uitlaatgastester moet voor het verkrijgen van het herkeuringscertificaat voldoen aan de eisen opgenomen in de bijlagen I en bijlage MI-010 van [richtlijn 2004/22/EG](32004L0022).
 
 ##### Artikel 8.1.6
 
-1. Kalibratiegas ten behoeve van uitlaatgastesters is gecertificeerd op grond van de in [afdeling 4, § 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&z=2014-07-01&g=2014-07-01) opgenomen specifieke eisen.
+1. Kalibratiegas ten behoeve van uitlaatgastesters is gecertificeerd op grond van de in [afdeling 4, § 9.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&z=2014-09-03&g=2014-09-03) opgenomen specifieke eisen.
 
-2. Kalibratiegas ten behoeve van alcoholsloten is gecertificeerd op grond van de in [afdeling 4, § 9.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5a&z=2014-07-01&g=2014-07-01), opgenomen specifieke eisen.
+2. Kalibratiegas ten behoeve van alcoholsloten is gecertificeerd op grond van de in [afdeling 4, § 9.5a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5a&z=2014-09-03&g=2014-09-03), opgenomen specifieke eisen.
 
-3. Koplamptestapparaten voldoen aan de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) opgenomen specifieke eisen.
+3. Koplamptestapparaten voldoen aan de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) opgenomen specifieke eisen.
 
 ##### Artikel 8.1.7
 
@@ -9036,7 +9032,7 @@ Een typekeuringscertificaat verliest zijn geldigheid indien:
 
 - c. de voorschriften worden gewijzigd en het meetmiddel niet meer voldoet aan de gewijzigde voorschriften;
 
-- d. de in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-07-01&g=2014-07-01) vermelde termijn is verstreken, waarbinnen de daar bedoelde tijdelijke voorwaarde moet zijn vervallen dan wel moet zijn omgezet in een definitieve voorwaarde.
+- d. de in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-09-03&g=2014-09-03) vermelde termijn is verstreken, waarbinnen de daar bedoelde tijdelijke voorwaarde moet zijn vervallen dan wel moet zijn omgezet in een definitieve voorwaarde.
 
 ##### Artikel 8.1.9
 
@@ -9062,17 +9058,17 @@ Een typekeuringscertificaat verliest zijn geldigheid indien:
 
 ##### Artikel 8.1.10
 
-1. De aanvraag van een typekeuringscertificaat wordt, met inachtneming van de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
+1. De aanvraag van een typekeuringscertificaat wordt, met inachtneming van de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
 
-2. De aanvraag van een certificaat van eerste keuring dan wel een certificaat van herkeuring wordt voor meetmiddelen behorende tot een type als bedoeld in [artikel 8.1.3, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), met inachtneming van de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling of bij een onderzoeksgerechtigde.
+2. De aanvraag van een certificaat van eerste keuring dan wel een certificaat van herkeuring wordt voor meetmiddelen behorende tot een type als bedoeld in [artikel 8.1.3, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), met inachtneming van de in [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling of bij een onderzoeksgerechtigde.
 
-3. De aanvraag van een certificaat van eerste keuring dan wel een certificaat van herkeuring wordt voor meetmiddelen behorende tot een type als bedoeld in [artikel 8.1.3, eerste lid, onderdelen j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
+3. De aanvraag van een certificaat van eerste keuring dan wel een certificaat van herkeuring wordt voor meetmiddelen behorende tot een type als bedoeld in [artikel 8.1.3, eerste lid, onderdelen j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
 
-4. De aanvraag van een erkenning voor het certificeren van kalibratiegas ten behoeve van uitlaatgastesters wordt, met inachtneming van de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
+4. De aanvraag van een erkenning voor het certificeren van kalibratiegas ten behoeve van uitlaatgastesters wordt, met inachtneming van de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) gestelde voorschriften, ingediend bij een door de Minister van Infrastructuur en Milieu aangewezen keuringsinstelling.
 
 ##### Artikel 8.1.11
 
-Voorzover dit in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) is bepaald, wordt in het typekeuringscertificaat een tijdelijke voorwaarde opgenomen met betrekking tot de daar vermelde aspecten. Deze tijdelijke voorwaarde moet binnen de termijn genoemd in het typegoedkeuringscertificaat zijn komen te vervallen dan wel zijn omgezet in een definitieve voorwaarde op grond van een in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) vereist onderzoek naar de gedragingen in de praktijk van een representatief aantal meetmiddelen uitgevoerd door de keuringsinstelling op kosten van de aanvrager van de typekeuring.
+Voorzover dit in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) is bepaald, wordt in het typekeuringscertificaat een tijdelijke voorwaarde opgenomen met betrekking tot de daar vermelde aspecten. Deze tijdelijke voorwaarde moet binnen de termijn genoemd in het typegoedkeuringscertificaat zijn komen te vervallen dan wel zijn omgezet in een definitieve voorwaarde op grond van een in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) vereist onderzoek naar de gedragingen in de praktijk van een representatief aantal meetmiddelen uitgevoerd door de keuringsinstelling op kosten van de aanvrager van de typekeuring.
 
 #### D. Aanhangwagens achter fietsen op twee wielen
 
@@ -9094,7 +9090,7 @@ Voorzover dit in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl
 
 ##### Artikel 8.2.1
 
-1. De aanwijzing door de Minister van Infrastructuur en Milieu van een keuringsinstelling als bedoeld in [artikel 8.1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-07-01&g=2014-07-01), kan beperkt blijven tot een of meerdere bevoegdheden, alsmede tot een of meerdere meetmiddelen. Van de aanwijzing van een keuringsinstelling wordt mededeling gedaan in de Staatscourant.
+1. De aanwijzing door de Minister van Infrastructuur en Milieu van een keuringsinstelling als bedoeld in [artikel 8.1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-09-03&g=2014-09-03), kan beperkt blijven tot een of meerdere bevoegdheden, alsmede tot een of meerdere meetmiddelen. Van de aanwijzing van een keuringsinstelling wordt mededeling gedaan in de Staatscourant.
 
 2. De in het eerste lid bedoelde keuringsinstelling beschikt over een kwaliteitssysteem waarin de procedures zijn vastgelegd voor:
 
@@ -9108,13 +9104,13 @@ Voorzover dit in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl
 
 ##### Artikel 8.2.2
 
-De in [artikel 8.1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-07-01&g=2014-07-01), bedoelde keuringsinstelling is tevens belast met het toezicht op de naleving van de verplichtingen voortvloeiende uit de erkenning van onderzoeksgerechtigden en de erkenning van instellingen voor het certificeren van kalibratiegas. Het toezicht wordt uitgevoerd door hiertoe door deze keuringsinstelling aangewezen werknemers.
+De in [artikel 8.1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-09-03&g=2014-09-03), bedoelde keuringsinstelling is tevens belast met het toezicht op de naleving van de verplichtingen voortvloeiende uit de erkenning van onderzoeksgerechtigden en de erkenning van instellingen voor het certificeren van kalibratiegas. Het toezicht wordt uitgevoerd door hiertoe door deze keuringsinstelling aangewezen werknemers.
 
 #### § 2. Onderzoeksgerechtigden
 
 ##### Artikel 8.2.3
 
-1. Een onderneming of instelling kan door een keuringsinstelling als onderzoeksgerechtigde worden erkend ten aanzien van een bepaald meetmiddel, genoemd in [artikel 8.1.3, eerste lid, onder a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), indien wordt voldaan aan de in de [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-07-01&g=2014-07-01) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-07-01&g=2014-07-01) gestelde eisen, hetgeen na een onderzoek van de onderneming of instelling door de keuringsinstelling wordt vastgesteld.
+1. Een onderneming of instelling kan door een keuringsinstelling als onderzoeksgerechtigde worden erkend ten aanzien van een bepaald meetmiddel, genoemd in [artikel 8.1.3, eerste lid, onder a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), indien wordt voldaan aan de in de [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-09-03&g=2014-09-03) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-09-03&g=2014-09-03) gestelde eisen, hetgeen na een onderzoek van de onderneming of instelling door de keuringsinstelling wordt vastgesteld.
 
 2. De erkenning wordt verleend op aanvraag en tegen betaling van het door de keuringsinstelling vastgestelde tarief.
 
@@ -9122,7 +9118,7 @@ De in [artikel 8.1.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00257
 
 ##### Artikel 8.2.4
 
-De onderneming of instelling is voor wat betreft organisatie, personeel en materieel zodanig ingericht en beschikt over zodanige documentatie, dat zij in staat is met een voldoende mate van zekerheid vast te stellen dat voldaan wordt aan de in de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) ten aanzien van het desbetreffende meetmiddel gestelde eisen.
+De onderneming of instelling is voor wat betreft organisatie, personeel en materieel zodanig ingericht en beschikt over zodanige documentatie, dat zij in staat is met een voldoende mate van zekerheid vast te stellen dat voldaan wordt aan de in de [afdelingen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&z=2014-09-03&g=2014-09-03) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) ten aanzien van het desbetreffende meetmiddel gestelde eisen.
 
 ##### Artikel 8.2.5
 
@@ -9138,11 +9134,11 @@ De aanvrager van een erkenning als onderzoeksgerechtigde beschikt over een relev
 
 Op een onderneming of instelling die als onderzoeksgerechtigde is erkend, rusten de volgende verplichtingen:
 
-- a. steeds wordt voldaan aan de in de [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-07-01&g=2014-07-01) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-07-01&g=2014-07-01) gestelde eisen;
+- a. steeds wordt voldaan aan de in de [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-09-03&g=2014-09-03) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-09-03&g=2014-09-03) gestelde eisen;
 
 - b. de standaarden en andere hulpmiddelen benodigd voor de herkeuring bevinden zich steeds in goede staat van onderhoud;
 
-- c. elke eerste keuring of herkeuring wordt op een dusdanige wijze verricht, dat met voldoende mate van zekerheid wordt vastgesteld of het betrokken meetmiddel voldoet aan de daaraan gestelde eisen. De procedure voor het uitvoeren van een eerste keuring of herkeuring is vastgelegd in het in [artikel 8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-07-01&g=2014-07-01) bedoelde kwaliteitssysteem van de onderzoeksgerechtigde;
+- c. elke eerste keuring of herkeuring wordt op een dusdanige wijze verricht, dat met voldoende mate van zekerheid wordt vastgesteld of het betrokken meetmiddel voldoet aan de daaraan gestelde eisen. De procedure voor het uitvoeren van een eerste keuring of herkeuring is vastgelegd in het in [artikel 8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-09-03&g=2014-09-03) bedoelde kwaliteitssysteem van de onderzoeksgerechtigde;
 
 - d. ten hoogste tien werkdagen na elke eerste keuring of herkeuring met een positief resultaat wordt:
 
@@ -9162,7 +9158,7 @@ Op een onderneming of instelling die als onderzoeksgerechtigde is erkend, rusten
 
 ##### Artikel 8.2.9
 
-1. De erkenning wordt door de keuringsinstelling bij beschikking ingetrokken indien niet langer wordt voldaan aan de eisen bedoeld in [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-07-01&g=2014-07-01) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-07-01&g=2014-07-01) of indien één of meer van de in [artikel 8.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.7&z=2014-07-01&g=2014-07-01) vermelde verplichtingen of de financiële verplichting als bedoeld in artikel [8.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.10&z=2014-07-01&g=2014-07-01) niet worden nageleefd.
+1. De erkenning wordt door de keuringsinstelling bij beschikking ingetrokken indien niet langer wordt voldaan aan de eisen bedoeld in [artikelen 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.4&z=2014-09-03&g=2014-09-03) en [8.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.5&z=2014-09-03&g=2014-09-03) of indien één of meer van de in [artikel 8.2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.7&z=2014-09-03&g=2014-09-03) vermelde verplichtingen of de financiële verplichting als bedoeld in artikel [8.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=2&artikel=8.2.10&z=2014-09-03&g=2014-09-03) niet worden nageleefd.
 
 2. Van de beschikking houdende intrekking van de erkenning als onderzoeksgerechtigde wordt mededeling gedaan in de Staatscourant.
 
@@ -9194,23 +9190,23 @@ De onderzoeksgerechtigde is gehouden tot betaling aan de keuringsinstelling van 
 
 Op de tot het certificeren van kalibratiegas erkende inrichting rusten de volgende verplichtingen:
 
-- a. steeds wordt voldaan aan de in [artikel 8.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.11&z=2014-07-01&g=2014-07-01) gestelde eisen;
+- a. steeds wordt voldaan aan de in [artikel 8.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.11&z=2014-09-03&g=2014-09-03) gestelde eisen;
 
 - b. de standaarden en hulpmiddelen, benodigd voor het certificeren, bevinden zich steeds in een goede staat van onderhoud;
 
 - c. een certificaat wordt slechts afgegeven voor gas dat is samengesteld, verpakt en gecertificeerd overeenkomstig:
 
-- I. [artikel 8.4.89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&artikel=8.4.89&z=2014-07-01&g=2014-07-01), en dat als gecertificeerd kalibratiegas voor uitlaatgastesters in de handel wordt gebracht, of
+- I. [artikel 8.4.89, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&artikel=8.4.89&z=2014-09-03&g=2014-09-03), en dat als gecertificeerd kalibratiegas voor uitlaatgastesters in de handel wordt gebracht, of
 
-- II. [artikel 8.4.89a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5a&artikel=8.4.89a&z=2014-07-01&g=2014-07-01), en dat als gecertificeerd kalibratiegas voor alcoholsloten in de handel wordt gebracht;
+- II. [artikel 8.4.89a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5a&artikel=8.4.89a&z=2014-09-03&g=2014-09-03), en dat als gecertificeerd kalibratiegas voor alcoholsloten in de handel wordt gebracht;
 
-- d. de gegevens betreffende de uitvoering van het gestelde in [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-07-01&g=2014-07-01), voorzover van belang met betrekking tot het certificeren, worden vastgelegd;
+- d. de gegevens betreffende de uitvoering van het gestelde in [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-09-03&g=2014-09-03), voorzover van belang met betrekking tot het certificeren, worden vastgelegd;
 
 - e. de gegevens, bedoeld in onderdeel d, worden gedurende ten minste vijf jaar bewaard.
 
 ##### Artikel 8.2.15
 
-1. De erkenning tot het certificeren van kalibratiegas wordt ingetrokken indien niet langer wordt voldaan aan de eisen bedoeld in [artikel 8.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.11&z=2014-07-01&g=2014-07-01) of indien één of meer van de in [artikel 8.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.14&z=2014-07-01&g=2014-07-01) vermelde verplichtingen niet worden nageleefd.
+1. De erkenning tot het certificeren van kalibratiegas wordt ingetrokken indien niet langer wordt voldaan aan de eisen bedoeld in [artikel 8.2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.11&z=2014-09-03&g=2014-09-03) of indien één of meer van de in [artikel 8.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.14&z=2014-09-03&g=2014-09-03) vermelde verplichtingen niet worden nageleefd.
 
 2. Van de beschikking tot intrekking van de erkenning wordt mededeling gedaan in de Staatscourant.
 
@@ -9224,7 +9220,7 @@ De erkende onderneming of instelling is gehouden tot betaling aan de keuringsins
 
 ##### Artikel 8.3.1
 
-De in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01) vermelde meetmiddelen voldoen, tenzij in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&z=2014-07-01&g=2014-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) anders is bepaald, aan de in deze afdeling gestelde eisen.
+De in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03) vermelde meetmiddelen voldoen, tenzij in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&z=2014-09-03&g=2014-09-03) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) anders is bepaald, aan de in deze afdeling gestelde eisen.
 
 ##### Artikel 8.3.2
 
@@ -9244,11 +9240,11 @@ De in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=
 
 ##### Artikel 8.3.4
 
-1. Indien in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) een controle-inrichting is voorgeschreven, stemt de werking en het resultaat van deze inrichting overeen met de door de fabrikant vastgelegde specificaties. Een onderbouwing van de waarde van het controleresultaat gerelateerd aan de maximale fout van het meetmiddel, wordt bij de aanbieding voor de typekeuring door de aanbieder overgelegd.
+1. Indien in de specifieke eisen van [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) een controle-inrichting is voorgeschreven, stemt de werking en het resultaat van deze inrichting overeen met de door de fabrikant vastgelegde specificaties. Een onderbouwing van de waarde van het controleresultaat gerelateerd aan de maximale fout van het meetmiddel, wordt bij de aanbieding voor de typekeuring door de aanbieder overgelegd.
 
-2. De maximale fouten, genoemd in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01), gelden onder de vastgelegde gebruiksomstandigheden en bij gebruik van de meetmiddelen overeenkomstig de handleiding behorende bij het meetmiddel.
+2. De maximale fouten, genoemd in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03), gelden onder de vastgelegde gebruiksomstandigheden en bij gebruik van de meetmiddelen overeenkomstig de handleiding behorende bij het meetmiddel.
 
-3. Indien het meetmiddel wordt blootgesteld aan een verstoring, bedraagt een daarvan het gevolg zijnde verandering van de fout in de aanwijzing of registratie niet meer dan de waarde van de maximale fout, genoemd in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01). Aan deze eis behoeft niet te worden voldaan indien de verstoring tot gevolg heeft dat:
+3. Indien het meetmiddel wordt blootgesteld aan een verstoring, bedraagt een daarvan het gevolg zijnde verandering van de fout in de aanwijzing of registratie niet meer dan de waarde van de maximale fout, genoemd in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03). Aan deze eis behoeft niet te worden voldaan indien de verstoring tot gevolg heeft dat:
 
 - a. het meetresultaat niet kan worden vastgesteld, of
 
@@ -9278,7 +9274,7 @@ De in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=
 
 - h. eventuele gebruiksbeperkende omstandigheden, en
 
-- i. het temperatuurgebied waarbinnen aan de eisen van het meetmiddel wordt voldaan, tenzij anders is aangegeven in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01).
+- i. het temperatuurgebied waarbinnen aan de eisen van het meetmiddel wordt voldaan, tenzij anders is aangegeven in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03).
 
 Indien een meetmiddel is opgebouwd uit een aanwijseenheid met een separaat aan te sluiten meeteenheid, zijn de aanduidingen a tot en met e tevens vermeld op de separate meeteenheid. De aanduidingen f tot en met h zijn aangebracht in de onmiddellijke nabijheid van de aanwijzing en worden herhaald bij elke aanwijsinrichting.
 
@@ -9290,7 +9286,7 @@ Indien een meetmiddel is opgebouwd uit een aanwijseenheid met een separaat aan t
 
 ##### Artikel 8.3.6
 
-1. Meetmiddelen zijn voorzien van een handleiding in de Nederlandse taal, tenzij anders is bepaald in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01).
+1. Meetmiddelen zijn voorzien van een handleiding in de Nederlandse taal, tenzij anders is bepaald in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03).
 
 2. Ter beoordeling van de meetresultaten bevat de in het eerste lid bedoelde handleiding ten minste:
 
@@ -9304,17 +9300,17 @@ Indien een meetmiddel is opgebouwd uit een aanwijseenheid met een separaat aan t
 
 - e. de informatie benodigd voor een juiste interpretatie van het meetresultaat, en
 
-- f. de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) vermelde nadere informatie.
+- f. de in [afdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) vermelde nadere informatie.
 
 #### § 2. Voorschriften met betrekking tot de keuring van meetmiddelen
 
 ##### Artikel 8.3.7
 
-Elektronische meetmiddelen, genoemd in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-07-01&g=2014-07-01), voldoen, tenzij in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&z=2014-07-01&g=2014-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-07-01&g=2014-07-01) anders bepaald, aan de in deze paragraaf gestelde eisen.
+Elektronische meetmiddelen, genoemd in [artikel 8.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.1&artikel=8.1.3&z=2014-09-03&g=2014-09-03), voldoen, tenzij in [afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&z=2014-09-03&g=2014-09-03) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&z=2014-09-03&g=2014-09-03) anders bepaald, aan de in deze paragraaf gestelde eisen.
 
 ##### Artikel 8.3.8
 
-De eisen met betrekking tot de maximale fout hebben betrekking op het gehele gebied van praktisch voorkomende voedingspanningen. Aan de eis met betrekking tot de maximale fout wordt voldaan indien het instrument voldoet aan [artikel 8.3.9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.9&z=2014-07-01&g=2014-07-01).
+De eisen met betrekking tot de maximale fout hebben betrekking op het gehele gebied van praktisch voorkomende voedingspanningen. Aan de eis met betrekking tot de maximale fout wordt voldaan indien het instrument voldoet aan [artikel 8.3.9, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.9&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 8.3.9
 
@@ -9324,15 +9320,15 @@ Het meetmiddel voldoet wat betreft storingsgevoeligheid aan de volgende eisen:
 
 | Omschrijving | Geldende eis | Artikel | Zwaarte |
 | --- | --- | --- | --- |
-| spanningsvariatie | [8.3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01) | B.6 | 1 |
-| spanningsonderbreking | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01) | B.7 | 2a en 2b |
-| bursts (transienten) | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01) | B.8 | 2 |
-| elektrostatische ontlading | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01) | B.9 | 1 |
-| elektromagnetische instraling | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01) | B.10 | 2 |
+| spanningsvariatie | [8.3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03) | B.6 | 1 |
+| spanningsonderbreking | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03) | B.7 | 2a en 2b |
+| bursts (transienten) | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03) | B.8 | 2 |
+| elektrostatische ontlading | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03) | B.9 | 1 |
+| elektromagnetische instraling | [8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03) | B.10 | 2 |
 
 - b. indien het meetmiddel is uitgerust om te kunnen worden gevoed door het boordnet van voertuigen, voldoet dit aan de eisen gesteld in ISO 7637;
 
-- c. indien het meetmiddel is opgebouwd uit afzonderlijke onderdelen, waarbij tussen de afzonderlijke onderdelen signaaloverdracht plaatsvindt, is het meetmiddel zodanig ingericht dat een juiste signaaloverdracht gewaarborgd is. Indien verstoringen van een andere aard dan genoemd onder a en b, zoals mechanische beschadigingen van de verbindingskabels, niet kunnen worden uitgesloten, moet verzekerd zijn dat bij het optreden van deze verstoringen voldaan wordt aan [artikel 8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01);
+- c. indien het meetmiddel is opgebouwd uit afzonderlijke onderdelen, waarbij tussen de afzonderlijke onderdelen signaaloverdracht plaatsvindt, is het meetmiddel zodanig ingericht dat een juiste signaaloverdracht gewaarborgd is. Indien verstoringen van een andere aard dan genoemd onder a en b, zoals mechanische beschadigingen van de verbindingskabels, niet kunnen worden uitgesloten, moet verzekerd zijn dat bij het optreden van deze verstoringen voldaan wordt aan [artikel 8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03);
 
 - d. in afwijking van het in onderdeel a genoemde storingsniveau geldt voor een bromfietsrollentestbank het storingsniveau 3 van de elektromagnetische instraling.
 
@@ -9374,7 +9370,7 @@ Een hulpinrichting is zodanig opgebouwd dat zij:
 
 - c. voor de hulpinrichting is een testcertificaat afgegeven, tenzij anders is vermeld in het typekeuringscertificaat.
 
-3. Een testcertificaat, bedoeld in het tweede lid, onder c, moet zijn afgegeven door een keuringsinstelling op grond van een door die instelling uitgevoerd onderzoek waarbij vastgesteld is dat aan de eisen in [artikel 8.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=3&artikel=8.3.11&z=2014-07-01&g=2014-07-01) is voldaan.
+3. Een testcertificaat, bedoeld in het tweede lid, onder c, moet zijn afgegeven door een keuringsinstelling op grond van een door die instelling uitgevoerd onderzoek waarbij vastgesteld is dat aan de eisen in [artikel 8.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=3&artikel=8.3.11&z=2014-09-03&g=2014-09-03) is voldaan.
 
 #### § 4. Bijzondere eisen gesteld aan hulpinrichtingen
 
@@ -9384,7 +9380,7 @@ Een hulpinrichting is zodanig opgebouwd dat zij:
 
 2. Het testcertificaat wordt afgegeven door een keuringsinstelling.
 
-3. [Artikel 8.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.8&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing.
+3. [Artikel 8.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.8&z=2014-09-03&g=2014-09-03) is van overeenkomstige toepassing.
 
 ##### Artikel 8.3.14
 
@@ -9392,7 +9388,7 @@ Een hulpinrichting is zodanig opgebouwd dat zij:
 
 2. Het controlecertificaat wordt afgegeven door een keuringsinstelling of een onderzoeksgerechtigde.
 
-3. De [artikelen 8.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.9&z=2014-07-01&g=2014-07-01) en [8.2.1 tot en met 8.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=1&artikel=8.2.1&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 8.1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.9&z=2014-09-03&g=2014-09-03) en [8.2.1 tot en met 8.2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=1&artikel=8.2.1&z=2014-09-03&g=2014-09-03) zijn van overeenkomstige toepassing.
 
 ### Afdeling 1. Algemeen
 
@@ -9426,7 +9422,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.2
 
-In de handleiding behorende bij de roetmeter moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01) het volgende zijn opgenomen:
+In de handleiding behorende bij de roetmeter moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03) het volgende zijn opgenomen:
 
 - a. de wijze waarop een sonde in de uitlaat van het voertuig moet worden geplaatst;
 
@@ -9446,11 +9442,11 @@ De roetmeter is voorzien van:
 
 - c. een inrichting waarmee de lineariteit van de aanwijzing van de ongecorrigeerde opaciteit kan worden gecontroleerd. Deze inrichting moet ten minste gelijkwaardig zijn aan die waarbij de roetmeter voorzien is van een geschikt optisch filter, dat een zwarting heeft overeenkomend met een aanwijzing die ligt tussen 15% en 60% ongecorrigeerde opaciteit en waarbij de juiste waarde van het filter, uitgedrukt in ongecorrigeerde opaciteit, op het filter is vermeld;
 
-- d. een software-routine waarmee een afdruk kan worden gemaakt van de metrologisch belangrijke parameters, die instelbaar zijn teneinde aan verschillende nationale voorschriften te kunnen voldoen. Deze voorziening is niet vereist indien door middel van software-identificatie als bedoeld in [artikel 8.3.10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.10&z=2014-07-01&g=2014-07-01), op een eenvoudige manier is vast te stellen dat de correcte parameters zijn ingesteld;
+- d. een software-routine waarmee een afdruk kan worden gemaakt van de metrologisch belangrijke parameters, die instelbaar zijn teneinde aan verschillende nationale voorschriften te kunnen voldoen. Deze voorziening is niet vereist indien door middel van software-identificatie als bedoeld in [artikel 8.3.10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.10&z=2014-09-03&g=2014-09-03), op een eenvoudige manier is vast te stellen dat de correcte parameters zijn ingesteld;
 
 - e. een beveiliging die het gebruik in de functiestand PIEKMETING (of een gelijksoortige benaming) verhindert, indien direct voorafgaand aan de meting de olietemperatuur van de in het onderzoek betrokken motor lager is dan 60 °C. Het is toelaatbaar om de mogelijkheid in te bouwen handmatig een lagere temperatuur in te voeren; in dat geval moet deze lagere waarde vastgelegd worden en op de afdruk van de keuringsresultaten herkenbaar zijn aan het toegevoegde teken ‘#’. De bedoelde beveiliging mag buiten werking worden gesteld, doch in dat geval moet op de registratie van de meetresultaten het teken ‘#’ zijn weergegeven zonder een temperatuurwaarde;
 
-- f. een testaansluiting die, in afwijking van het bepaalde in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=1&artikel=8.1.1&z=2014-07-01&g=2014-07-01), onder ‘testaansluiting’, de mogelijkheid biedt om direct, dan wel door berekening, gedurende ten minste 20 seconden de momentele waarde te volgen van de absorptiecoëfficiënt, niet beïnvloed door de werking van het hoofdfilter, inclusief normaal toegepaste correcties.
+- f. een testaansluiting die, in afwijking van het bepaalde in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=1&artikel=8.1.1&z=2014-09-03&g=2014-09-03), onder ‘testaansluiting’, de mogelijkheid biedt om direct, dan wel door berekening, gedurende ten minste 20 seconden de momentele waarde te volgen van de absorptiecoëfficiënt, niet beïnvloed door de werking van het hoofdfilter, inclusief normaal toegepaste correcties.
 
 #### § 1.2.2. Maximale fout
 
@@ -9488,7 +9484,7 @@ Hierin geldt voor δ de volgende waarde:
 
 In het bovenstaande is ts de bemonsteringstijd in seconden van de ingangsgrootheid X en de waarde Y is de uitgangsgrootheid van het filter. De index n stelt het volgnummer van de bemonstering voor.
 
-5. De maximale verschuiving van de aanwijzing zonder doorvoer van uitlaatgas bij de aanwijzing 0% en 100% opaciteit mag niet meer bedragen dan 1% ongecorrigeerde opaciteit per uur of, indien justering als bedoeld in [artikel 8.4.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-07-01&g=2014-07-01), na een bepaald tijdsinterval plaatsvindt, niet meer dan 0,5% ongecorrigeerde opaciteit over dit tijdsinterval.
+5. De maximale verschuiving van de aanwijzing zonder doorvoer van uitlaatgas bij de aanwijzing 0% en 100% opaciteit mag niet meer bedragen dan 1% ongecorrigeerde opaciteit per uur of, indien justering als bedoeld in [artikel 8.4.3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-09-03&g=2014-09-03), na een bepaald tijdsinterval plaatsvindt, niet meer dan 0,5% ongecorrigeerde opaciteit over dit tijdsinterval.
 
 #### § 2.2. Certificaten
 
@@ -9526,7 +9522,7 @@ Het optisch systeem voldoet aan de volgende eisen:
 
 2. Een in de uitlaat geplaatste sonde moet zodanig zijn gepositioneerd, dat effecten van de wand van het uitlaatsysteem verwaarloosbaar zijn. Hieraan wordt voldaan indien de opening van de sonde zich op een afstand van ten minste 5 mm van de wand van de uitlaat bevindt.
 
-3. Een monsternameslang moet van een zodanige opbouw zijn dat effecten veroorzaakt door condensatie worden geëlimineerd. Aan deze eis wordt voldaan als een ingangstemperatuur van 150 °C niet tot een lagere uitgangstemperatuur leidt dan 50 °C bij een gasstroomsnelheid in de uitlaat van niet meer dan 50 m/s en een omgevingstemperatuur van –10 °C dan wel 5 °C als een beperkende gebruiksomstandigheid voor het temperatuurgebied als bedoeld in [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-07-01&g=2014-07-01), geldt. De monsternameslang moet zijn voorzien van een identificatie.
+3. Een monsternameslang moet van een zodanige opbouw zijn dat effecten veroorzaakt door condensatie worden geëlimineerd. Aan deze eis wordt voldaan als een ingangstemperatuur van 150 °C niet tot een lagere uitgangstemperatuur leidt dan 50 °C bij een gasstroomsnelheid in de uitlaat van niet meer dan 50 m/s en een omgevingstemperatuur van –10 °C dan wel 5 °C als een beperkende gebruiksomstandigheid voor het temperatuurgebied als bedoeld in [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-09-03&g=2014-09-03), geldt. De monsternameslang moet zijn voorzien van een identificatie.
 
 #### § 1.2.4. Temperatuuraspecten
 
@@ -9534,7 +9530,7 @@ Het optisch systeem voldoet aan de volgende eisen:
 
 1. De roetmeter moet ten minste in de twee volgende functiestanden kunnen worden ingesteld:
 
-- a. de functiestand CONTROLE (of een gelijksoortige benaming). In deze functiestand moet de waarde van de ongecorrigeerde opaciteit worden aangegeven, moet de justeerinrichting kunnen worden bediend en moet de controle als bedoeld in [artikel 4.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=4&artikel=4.3&z=2014-07-01&g=2014-07-01), plaats kunnen vinden;
+- a. de functiestand CONTROLE (of een gelijksoortige benaming). In deze functiestand moet de waarde van de ongecorrigeerde opaciteit worden aangegeven, moet de justeerinrichting kunnen worden bediend en moet de controle als bedoeld in [artikel 4.3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=4&artikel=4.3&z=2014-09-03&g=2014-09-03), plaats kunnen vinden;
 
 - b. de functiestand PIEKMETING (of een gelijksoortige benaming). In deze functiestand moet de gecorrigeerde waarde voor absorptiecoëfficiënt van de roetpiek zoals deze zich in de acceleratiefase voordoet, worden weergegeven.
 
@@ -9584,7 +9580,7 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 - 3°. de piekwaarde van de absorptiecoëfficiënt;
 
-- 4°. de voor de aanvang van de cyclus gemeten motorolietemperatuur dan wel het teken als bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-07-01&g=2014-07-01).
+- 4°. de voor de aanvang van de cyclus gemeten motorolietemperatuur dan wel het teken als bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-09-03&g=2014-09-03).
 
 2. Indien de meting, ongeacht de reden, vroegtijdig wordt beëindigd, moeten de tot dan gemeten gegevens met de afdrukinrichting kunnen worden vastgelegd.
 
@@ -9594,7 +9590,7 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 ##### Artikel 8.4.11
 
-1. De roetmeter mag zijn voorzien van een geïntegreerde toerenteller en olietemperatuurmeter overeenkomstig het bepaalde in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=2&z=2014-07-01&g=2014-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=3&z=2014-07-01&g=2014-07-01) van dit hoofdstuk.
+1. De roetmeter mag zijn voorzien van een geïntegreerde toerenteller en olietemperatuurmeter overeenkomstig het bepaalde in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=2&z=2014-09-03&g=2014-09-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=3&z=2014-09-03&g=2014-09-03) van dit hoofdstuk.
 
 2. Indien de roetmeter niet is voorzien van een geïntegreerde toerenteller en olietemperatuurmeter, moet de roetmeter zijn voorzien van een signaalingang waarmee het meetsignaal van een separate toerenteller en olietemperatuurmeter kan worden overgedragen naar de roetmeter.
 
@@ -9602,19 +9598,19 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 ##### Artikel 8.4.12
 
-1. Alvorens tot de meting wordt overgegaan, moeten de gegevens, zoals bedoeld in [artikel 8.4.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.8&artikel=8.4.10&z=2014-07-01&g=2014-07-01), in de roetmeter kunnen worden ingevoerd.
+1. Alvorens tot de meting wordt overgegaan, moeten de gegevens, zoals bedoeld in [artikel 8.4.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.8&artikel=8.4.10&z=2014-09-03&g=2014-09-03), in de roetmeter kunnen worden ingevoerd.
 
 2. De programmatuur van de roetmeter moet zodanig zijn dat degene die het apparaat bedient automatisch door de in het derde lid bedoelde meetprocedure wordt geleid.
 
 3. De meetprocedure moet achtereenvolgens ten minste de volgende stappen doorlopen:
 
-- a. invoeren van de gegevens als bedoeld in [artikel 8.4.10, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.8&artikel=8.4.10&z=2014-07-01&g=2014-07-01);
+- a. invoeren van de gegevens als bedoeld in [artikel 8.4.10, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.8&artikel=8.4.10&z=2014-09-03&g=2014-09-03);
 
 - b. automatische controle of:
 
 - 1°. alle onder punt a bedoelde gegevens zijn ingevoerd;
 
-- 2°. de minimum motorolietemperatuur, zoals bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-07-01&g=2014-07-01), is bereikt, tenzij deze controle is uitgeschakeld;
+- 2°. de minimum motorolietemperatuur, zoals bedoeld in [artikel 8.4.3, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.1&artikel=8.4.3&z=2014-09-03&g=2014-09-03), is bereikt, tenzij deze controle is uitgeschakeld;
 
 - 3°. het stationair toerental gedurende 5 seconden binnen de ingevoerde waarden ligt; en
 
@@ -9632,7 +9628,7 @@ De roetmeter is voorzien van een analoge of digitale aanwijsinrichting die ten m
 
 ##### Artikel 8.4.12a
 
-1. In afwijking van [artikel 8.4.12, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.10&artikel=8.4.12&z=2014-07-01&g=2014-07-01),
+1. In afwijking van [artikel 8.4.12, derde lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=1&sub-paragraaf=1.2&sub-paragraaf=1.2.10&artikel=8.4.12&z=2014-09-03&g=2014-09-03),
 
 - a. mogen tot 1 januari 2019 voor het verkrijgen van een certificaat van eerste keuring voor roetmeters waarvoor vóór 10 december 2008 een typekeuringscertificaat is afgegeven de punten d en e van dat artikel ten minste tweemaal automatisch worden herhaald;
 
@@ -9656,7 +9652,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.14
 
-In de handleiding behorende bij de toerenteller moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01) het volgende zijn opgenomen:
+In de handleiding behorende bij de toerenteller moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03) het volgende zijn opgenomen:
 
 - a. indien de toerenteller voorzien is van meerdere toerenopnemers, de criteria die van belang zijn voor de keuze van een geschikte toerenopnemer;
 
@@ -9700,7 +9696,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.19
 
-In de handleiding behorende bij de olietemperatuurmeter moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01) het volgende zijn opgenomen:
+In de handleiding behorende bij de olietemperatuurmeter moet naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03) het volgende zijn opgenomen:
 
 - a. indien de olietemperatuurmeter voorzien is van meerdere opnemers, de criteria die van belang zijn voor de keuze van een geschikte opnemer;
 
@@ -9744,7 +9740,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.25
 
-In afwijking van het bepaalde in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01) is een handleiding voor de manometer niet vereist.
+In afwijking van het bepaalde in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03) is een handleiding voor de manometer niet vereist.
 
 #### § 1.2. Technische eisen
 
@@ -9834,7 +9830,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.30
 
-In de handleiding behorende bij de remvertragingsmeter moet naast de informatie genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2014-07-01&g=2014-07-01) de wijze van opstelling van de remvertragingsmeter worden opgenomen waarbij het volgende nader moet worden belicht:
+In de handleiding behorende bij de remvertragingsmeter moet naast de informatie genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2014-09-03&g=2014-09-03) de wijze van opstelling van de remvertragingsmeter worden opgenomen waarbij het volgende nader moet worden belicht:
 
 - a. de plaatsing in het voertuig;
 
@@ -9884,7 +9880,7 @@ De remvertragingsmeter mag zijn voorzien van een standcorrectie-inrichting indie
 
 5. De maximale fout in de berekening van de resulterende meetwaarde bedraagt 0,02 m/s2.
 
-6. De maximale fout veroorzaakt door een beperkte afleesnauwkeurigheid van de analoge registratie zoals bedoeld in [artikel 8.4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.39&z=2014-07-01&g=2014-07-01), bedraagt 0,02 m/s2.
+6. De maximale fout veroorzaakt door een beperkte afleesnauwkeurigheid van de analoge registratie zoals bedoeld in [artikel 8.4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.39&z=2014-09-03&g=2014-09-03), bedraagt 0,02 m/s2.
 
 ##### Artikel 8.4.35
 
@@ -9914,7 +9910,7 @@ De remvertragingsmeter is voorzien van een registratie-inrichting, waarmee het v
 
 ##### Artikel 8.4.40
 
-1. Indien de analoge presentatie niet voldoet aan de eis genoemd in [artikel 8.4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.39&z=2014-07-01&g=2014-07-01), of de eis genoemd in [artikel 8.4.34, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.34&z=2014-07-01&g=2014-07-01), moet de remvertragingsmeter na elke meting een meetwaardetabel leveren waarin het verloop van de remvertraging als functie van de tijd en waar mogelijk de resulterende meetwaarde wordt weergegeven.
+1. Indien de analoge presentatie niet voldoet aan de eis genoemd in [artikel 8.4.39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.39&z=2014-09-03&g=2014-09-03), of de eis genoemd in [artikel 8.4.34, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=6&sub-paragraaf=6.2&artikel=8.4.34&z=2014-09-03&g=2014-09-03), moet de remvertragingsmeter na elke meting een meetwaardetabel leveren waarin het verloop van de remvertraging als functie van de tijd en waar mogelijk de resulterende meetwaarde wordt weergegeven.
 
 2. De registratie van de remvertraging moet plaatsvinden met een interval tussen de verschillende meetwaarden van ten hoogste 0,1 seconde.
 
@@ -9994,13 +9990,13 @@ In deze paragraaf wordt verstaan onder:
 
 In de handleiding behorende bij de rollenremtestbank is opgenomen:
 
-- a. de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01);
+- a. de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03);
 
 - b. de betekenis en beperkingen in het gebruik van de berekende remvertraging.
 
 ##### Artikel 8.4.44
 
-In aanvulling op [artikel 8.1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.3&artikel=8.1.12&z=2014-07-01&g=2014-07-01), wordt een verzegeling eveneens aangebracht tussen de rollenremtestbank en zijn fundering.
+In aanvulling op [artikel 8.1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.3&artikel=8.1.12&z=2014-09-03&g=2014-09-03), wordt een verzegeling eveneens aangebracht tussen de rollenremtestbank en zijn fundering.
 
 #### § 1.2.2. Maximale fout
 
@@ -10024,7 +10020,7 @@ De rollenremtestbank moet een voorziening hebben waarmee op een betrouwbare en v
 
 ##### Artikel 8.4.47
 
-Een geïntegreerde manometer of pedaalkrachtmeter moet voldoen aan de eisen gesteld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=4&z=2014-07-01&g=2014-07-01) respectievelijk [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&z=2014-07-01&g=2014-07-01) van deze afdeling.
+Een geïntegreerde manometer of pedaalkrachtmeter moet voldoen aan de eisen gesteld in [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=4&z=2014-09-03&g=2014-09-03) respectievelijk [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&z=2014-09-03&g=2014-09-03) van deze afdeling.
 
 #### § 1.2.5. Monsternamesysteem
 
@@ -10044,11 +10040,11 @@ Een geïntegreerde manometer of pedaalkrachtmeter moet voldoen aan de eisen gest
 
 ##### Artikel 8.4.49
 
-Bij meting van de remkracht van de wielen van een as mag, bij gelijke remkracht, het verschil in aanwijzing voor beide wielen niet groter zijn dan de helft van de maximale fouten bedoeld in [artikel 8.4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=8.4.48&z=2014-07-01&g=2014-07-01).
+Bij meting van de remkracht van de wielen van een as mag, bij gelijke remkracht, het verschil in aanwijzing voor beide wielen niet groter zijn dan de helft van de maximale fouten bedoeld in [artikel 8.4.48](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=8.4.48&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 8.4.50
 
-Bij een rollenremtestbank voorzien van een extrapolatie-inrichting, is het maximale verschil tussen de gepresenteerde extrapolatiewaarde en de waarde berekend door middel van lineaire extrapolatie van de werkelijke waarden van de remkracht bij een ingestuurde druk van 1 bar en bij een ingestuurde druk 0,2 bar beneden de hoogste waarde, gebruikt bij de remtest van een voertuig, gelijk aan 2,5 maal de waarde genoemd in [artikel 8.4.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=8.4.48&z=2014-07-01&g=2014-07-01).
+Bij een rollenremtestbank voorzien van een extrapolatie-inrichting, is het maximale verschil tussen de gepresenteerde extrapolatiewaarde en de waarde berekend door middel van lineaire extrapolatie van de werkelijke waarden van de remkracht bij een ingestuurde druk van 1 bar en bij een ingestuurde druk 0,2 bar beneden de hoogste waarde, gebruikt bij de remtest van een voertuig, gelijk aan 2,5 maal de waarde genoemd in [artikel 8.4.48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.1&artikel=8.4.48&z=2014-09-03&g=2014-09-03).
 
 #### § 1.2.7. Aanwijsinrichting
 
@@ -10060,7 +10056,7 @@ De maximale fout in de resulterende meetwaarde bedraagt 2,5% van de aangewezen w
 
 ##### Artikel 8.4.52
 
-Indien een rollenremtestbank voorzien is van een geïntegreerde pedaalkrachtmeter of manometer voor de ingestuurde druk, zijn de gestelde eisen aan remkracht bedoeld in de [paragrafen 7.2.4 tot en met 7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.4&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing.
+Indien een rollenremtestbank voorzien is van een geïntegreerde pedaalkrachtmeter of manometer voor de ingestuurde druk, zijn de gestelde eisen aan remkracht bedoeld in de [paragrafen 7.2.4 tot en met 7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.4&z=2014-09-03&g=2014-09-03) van overeenkomstige toepassing.
 
 ##### Artikel 8.4.53
 
@@ -10136,7 +10132,7 @@ Op de rollenremtestbank kunnen gelijktijdig voor het linker- en rechterwiel van 
 
 ##### Artikel 8.4.59a
 
-1. Indien een rollenremtestbank voorzien is van een presentatie van een berekende maximale remvertraging, moet de berekening van deze waarde gemaakt worden overeenkomstig de formule a = F/M; hierbij is F de berekende extrapolatiewaarde zoals bedoeld in [artikel 8.4.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.69&z=2014-07-01&g=2014-07-01) , en M is de maximale massa per as van het voertuig zoals vermeld in het kentekenregister of op de kentekencard, dan wel het kentekenbewijs, of bij opleggers het maximale gewicht van de assen tezamen zoals vermeld in het kentekenregister of op de kentekencard, dan wel het kentekenbewijs.
+1. Indien een rollenremtestbank voorzien is van een presentatie van een berekende maximale remvertraging, moet de berekening van deze waarde gemaakt worden overeenkomstig de formule a = F/M; hierbij is F de berekende extrapolatiewaarde zoals bedoeld in [artikel 8.4.69](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.69&z=2014-09-03&g=2014-09-03) , en M is de maximale massa per as van het voertuig zoals vermeld in het kentekenregister of op de kentekencard, dan wel het kentekenbewijs, of bij opleggers het maximale gewicht van de assen tezamen zoals vermeld in het kentekenregister of op de kentekencard, dan wel het kentekenbewijs.
 
 2. De in het eerste lid bedoelde waarde moet zijn voorzien van het bijschrift 'Berekende statische remvertraging’.
 
@@ -10144,11 +10140,11 @@ Op de rollenremtestbank kunnen gelijktijdig voor het linker- en rechterwiel van 
 
 1. Dynamische effecten moeten op een juiste wijze in de resulterende meetwaarde zijn verwerkt.
 
-2. Een resulterende meetwaarde mag niet worden gepresenteerd indien de verkregen meetwaarden zo instabiel zijn dat niet kan worden voldaan aan de eis gesteld in [artikel 8.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.2&artikel=8.4.51&z=2014-07-01&g=2014-07-01).
+2. Een resulterende meetwaarde mag niet worden gepresenteerd indien de verkregen meetwaarden zo instabiel zijn dat niet kan worden voldaan aan de eis gesteld in [artikel 8.4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.2&sub-paragraaf=7.2.2.2&artikel=8.4.51&z=2014-09-03&g=2014-09-03).
 
 3. Een resulterende meetwaarde mag niet eerder worden aangewezen dan na beëindiging van de remtest door:
 
-- a. het in werking treden van de inrichting genoemd in [artikel 8.4.57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-07-01&g=2014-07-01), of
+- a. het in werking treden van de inrichting genoemd in [artikel 8.4.57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-09-03&g=2014-09-03), of
 
 - b. een daling van de remkracht tot een waarde beneden 25% van de hoogste gemeten remkracht.
 
@@ -10186,7 +10182,7 @@ Een digitale aanwijzing is zodanig dat:
 
 1. Een gepresenteerde niet-geëxtrapoleerde resulterende meetwaarde moet betrekking hebben op de hoogste waarde van de gemiddelde remkracht over één rotatieperiode, zoals deze tijdens de remtest optreedt.
 
-2. Indien bij rollenremtestbanken die voorzien zijn van een registratie-inrichting de meting wordt beëindigd voordat de inrichting, genoemd in [artikel 8.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-07-01&g=2014-07-01), eerste lid, in werking is getreden, wordt deze waarde aangegeven op de registratie, met voor luchtdrukgestuurde remsystemen daarbij de vermelding van de gemiddelde waarde van de ingestuurde druk, bepaald over de rotatieperiode als bedoeld in het eerste lid.
+2. Indien bij rollenremtestbanken die voorzien zijn van een registratie-inrichting de meting wordt beëindigd voordat de inrichting, genoemd in [artikel 8.4.57](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-09-03&g=2014-09-03), eerste lid, in werking is getreden, wordt deze waarde aangegeven op de registratie, met voor luchtdrukgestuurde remsystemen daarbij de vermelding van de gemiddelde waarde van de ingestuurde druk, bepaald over de rotatieperiode als bedoeld in het eerste lid.
 
 ##### Artikel 8.4.65
 
@@ -10244,7 +10240,7 @@ Onregelmatigheden in de remkrachthelling voor waarden van de ingestuurde druk kl
 
 ##### Artikel 8.4.70
 
-Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens een gemeten waarde voor de remkracht en de bijbehorende ingestuurde druk worden gepresenteerd. Deze gemeten waarden moeten overeenkomen met de voor het extrapolatieproces gebruikte hoogste waarden voor de gemiddelde remkracht per rotatieperiode en de bijbehorende ingestuurde druk, gemiddeld over dezelfde periode. Deze waarde moet voldoen aan de eisen gesteld in [paragraaf 7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&z=2014-07-01&g=2014-07-01) met uitzondering van [artikel 8.4.65, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&artikel=8.4.65&z=2014-07-01&g=2014-07-01).
+Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens een gemeten waarde voor de remkracht en de bijbehorende ingestuurde druk worden gepresenteerd. Deze gemeten waarden moeten overeenkomen met de voor het extrapolatieproces gebruikte hoogste waarden voor de gemiddelde remkracht per rotatieperiode en de bijbehorende ingestuurde druk, gemiddeld over dezelfde periode. Deze waarde moet voldoen aan de eisen gesteld in [paragraaf 7.2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&z=2014-09-03&g=2014-09-03) met uitzondering van [artikel 8.4.65, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&artikel=8.4.65&z=2014-09-03&g=2014-09-03).
 
 #### § 6.1. Algemeen
 
@@ -10252,7 +10248,7 @@ Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens 
 
 1. Een klasse II en klasse I/II rollenremtestbank moeten zijn voorzien van een interne of externe afdrukinrichting waarmee ten minste de volgende gegevens worden vastgelegd:
 
-- a. de informatie zoals vermeld in [artikel 8.3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-07-01&g=2014-07-01);
+- a. de informatie zoals vermeld in [artikel 8.3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-09-03&g=2014-09-03);
 
 - b. de datum en het tijdstip van de metingen aan het betreffende voertuig;
 
@@ -10270,7 +10266,7 @@ Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens 
 
 - 1°. de pedaalkracht en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor hydraulische remsystemen;
 
-- 2°. de ingestuurde druk en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor pneumatische remsystemen; de relatie wordt minstens weergegeven door de waarden van de druk PL en PH, bedoeld in [artikel 8.4.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2014-07-01&g=2014-07-01), gebruikt bij de remtest van het voertuig;
+- 2°. de ingestuurde druk en de daarbij behorende remkracht per wiel en per as en het verschil in remkracht tussen het linker- en het rechterwiel in het geval van een remproef voor pneumatische remsystemen; de relatie wordt minstens weergegeven door de waarden van de druk PL en PH, bedoeld in [artikel 8.4.67](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2014-09-03&g=2014-09-03), gebruikt bij de remtest van het voertuig;
 
 - e. de berekende waarden:
 
@@ -10278,9 +10274,9 @@ Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens 
 
 - 2°. de berekende statische remvertraging;
 
-- f. de vermelding, bedoeld in [artikel 8.4.64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&artikel=8.4.64&z=2014-07-01&g=2014-07-01);
+- f. de vermelding, bedoeld in [artikel 8.4.64, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.6&artikel=8.4.64&z=2014-09-03&g=2014-09-03);
 
-- g. de waarschuwing, genoemd in [artikel 8.4.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2014-07-01&g=2014-07-01).
+- g. de waarschuwing, genoemd in [artikel 8.4.67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.7&artikel=8.4.67&z=2014-09-03&g=2014-09-03).
 
 2. Andere informatie als bedoeld in het eerste lid mag worden geregistreerd voorzover deze niet leidt tot misleiding of misvatting.
 
@@ -10300,13 +10296,13 @@ Na beëindiging van de remtest mag naast de berekende extrapolatiewaarde tevens 
 
 1. Klasse II rollenremtestbanken en klasse I/IIrollenremtestbanken die niet voorzien zijn van hydraulische of pneumatische krachtopnemers waarvoor in de 12 maanden voorafgaande aan 1 februari 2004 een certificaat van eerste of herkeuring is afgegeven op basis van de voorschriften die op het moment van de eerste keuring van kracht waren, mogen tot uiterlijk drie jaar na de datum van afgifte van het certificaat zoals daarop vermeld, worden gebruikt bij een algemene periodieke keuring.
 
-2. Rollenremtestbanken, bedoeld in het eerste lid, moeten na 3 jaar na de in het eerste lid, vermelde datum, voldoen aan de eisen genoemd in dit hoofdstuk met uitzondering van de [artikelen 8.3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01), [8.3.5, eerste lid, onderdelen b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-07-01&g=2014-07-01), [8.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-07-01&g=2014-07-01), [8.3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-07-01&g=2014-07-01), [8.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=3&artikel=8.3.11&z=2014-07-01&g=2014-07-01), [8.4.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.56&z=2014-07-01&g=2014-07-01), en [8.4.57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-07-01&g=2014-07-01) met dien verstande dat:
+2. Rollenremtestbanken, bedoeld in het eerste lid, moeten na 3 jaar na de in het eerste lid, vermelde datum, voldoen aan de eisen genoemd in dit hoofdstuk met uitzondering van de [artikelen 8.3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03), [8.3.5, eerste lid, onderdelen b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-09-03&g=2014-09-03), [8.3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-09-03&g=2014-09-03), [8.3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-09-03&g=2014-09-03), [8.3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=3&artikel=8.3.11&z=2014-09-03&g=2014-09-03), [8.4.56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.56&z=2014-09-03&g=2014-09-03), en [8.4.57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-09-03&g=2014-09-03) met dien verstande dat:
 
-- a. in afwijking van [artikel 8.4.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-07-01&g=2014-07-01), de aan het wiel overgedragen remkracht ten minste 0,5 maal de waarde van de kracht kan bereiken die een wiel op zijn ondersteuning uitoefent, waarbij het oppervlak van de rollen droog is;
+- a. in afwijking van [artikel 8.4.57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.3&artikel=8.4.57&z=2014-09-03&g=2014-09-03), de aan het wiel overgedragen remkracht ten minste 0,5 maal de waarde van de kracht kan bereiken die een wiel op zijn ondersteuning uitoefent, waarbij het oppervlak van de rollen droog is;
 
-- b. in afwijking van [artikel 8.4.62](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.5&artikel=8.4.62&z=2014-07-01&g=2014-07-01) het aanwijsbereik onderverdeeld moet zijn in ten minste 25 schaaldelen van gelijke waarde, waarbij de totale lengte van de schaalverdeling ten minste 0,15 m moet bedragen. Voor cirkelvormige schaalverdelingen gelden deze waarden voor de lengte van de cirkelboog die het midden van de deelstrepen verbindt. Aflezing van een waarde van 2% van het aanwijsbereik moet eenvoudig zijn. De schaalverdeling moet ten minste op onderlinge gelijke afstanden die niet groter zijn dan 20% van het aanwijsbereik, van cijfers zijn voorzien, en
+- b. in afwijking van [artikel 8.4.62](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.5&artikel=8.4.62&z=2014-09-03&g=2014-09-03) het aanwijsbereik onderverdeeld moet zijn in ten minste 25 schaaldelen van gelijke waarde, waarbij de totale lengte van de schaalverdeling ten minste 0,15 m moet bedragen. Voor cirkelvormige schaalverdelingen gelden deze waarden voor de lengte van de cirkelboog die het midden van de deelstrepen verbindt. Aflezing van een waarde van 2% van het aanwijsbereik moet eenvoudig zijn. De schaalverdeling moet ten minste op onderlinge gelijke afstanden die niet groter zijn dan 20% van het aanwijsbereik, van cijfers zijn voorzien, en
 
-- c. in afwijking van [artikel 8.4.63](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.5&artikel=8.4.63&z=2014-07-01&g=2014-07-01), het aanwijsbereik onderverdeeld moet zijn in ten minste 100 schaaldelen van gelijke waarde waarbij de afmetingen van de cijfers alsmede de helderheid en het contrast van de weergave zodanig is, dat aflezing eenvoudig is.
+- c. in afwijking van [artikel 8.4.63](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=7&sub-paragraaf=7.2&sub-paragraaf=7.2.5&artikel=8.4.63&z=2014-09-03&g=2014-09-03), het aanwijsbereik onderverdeeld moet zijn in ten minste 100 schaaldelen van gelijke waarde waarbij de afmetingen van de cijfers alsmede de helderheid en het contrast van de weergave zodanig is, dat aflezing eenvoudig is.
 
 #### § 8. Platenremtestbanken
 
@@ -10394,13 +10390,13 @@ Uitlaatgastesters uitsluitend ingericht voor het meten van koolmonoxide die in g
 
 ##### Artikel 8.4.79
 
-In de handleiding behorende bij de uitlaatgastester is naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-07-01&g=2014-07-01), het volgende opgenomen:
+In de handleiding behorende bij de uitlaatgastester is naast de informatie genoemd in [artikel 8.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.6&z=2014-09-03&g=2014-09-03), het volgende opgenomen:
 
 - a. de tijdsintervallen en procedures voor de justering en het onderhoud die moeten worden gevolgd opdat voortdurend wordt voldaan aan de eisen met betrekking tot de maximale fouten;
 
 - b. de tijdsintervallen tussen de automatische controles op gaskalibratie en lek;
 
-- c. een beschrijving van de procedure voor de lektest. Deze lektest moet voldoende nauwkeurig zijn om het in [artikel 8.4.85, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.3&sub-paragraaf=9.3.1&artikel=8.4.85&z=2014-07-01&g=2014-07-01), gespecificeerde lek te detecteren;
+- c. een beschrijving van de procedure voor de lektest. Deze lektest moet voldoende nauwkeurig zijn om het in [artikel 8.4.85, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.3&sub-paragraaf=9.3.1&artikel=8.4.85&z=2014-09-03&g=2014-09-03), gespecificeerde lek te detecteren;
 
 - d. een instructie aan de gebruiker dat voorafgaande aan elke HC-meting een controle op het HC-residu moet plaatsvinden, inclusief een beschrijving van de procedure voor de controle op het HC-residu;
 
@@ -10414,7 +10410,7 @@ In de handleiding behorende bij de uitlaatgastester is naast de informatie genoe
 
 ##### Artikel 8.4.80
 
-1. De uitlaatgastester is, naast de in [artikel 8.3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-07-01&g=2014-07-01), vermelde opschriften, voorzien van een opschrift dat het minimale en het nominale debiet aangeeft alsmede het merk en type van de zuurstofbrandstofcel.
+1. De uitlaatgastester is, naast de in [artikel 8.3.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.5&z=2014-09-03&g=2014-09-03), vermelde opschriften, voorzien van een opschrift dat het minimale en het nominale debiet aangeeft alsmede het merk en type van de zuurstofbrandstofcel.
 
 2. Bij elke uitlaatgastester is de waarde van de propaan-equivalentiefactor (PEF) aangebracht op de voorzijde van het instrument of moet zichtbaar gemaakt kunnen worden op de aanwijsinrichting.
 
@@ -10454,9 +10450,9 @@ De maximale fout in de aanwijzing van de uitlaatgastester bij typekeuring, onder
 
 ##### Artikel 8.4.84
 
-1. De in [artikel 8.4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.2&artikel=8.4.83&z=2014-07-01&g=2014-07-01) vermelde maximale fouten onder gebruiksomstandigheden, worden onder de volgende condities niet overschreden:
+1. De in [artikel 8.4.83](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.2&artikel=8.4.83&z=2014-09-03&g=2014-09-03) vermelde maximale fouten onder gebruiksomstandigheden, worden onder de volgende condities niet overschreden:
 
-- a. de in [artikel 8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01), vermelde gebruiksomstandigheden;
+- a. de in [artikel 8.3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03), vermelde gebruiksomstandigheden;
 
 - b. relatieve luchtvochtigheid: tot 90% R.V.;
 
@@ -10478,7 +10474,7 @@ De maximale fout in de aanwijzing van de uitlaatgastester bij typekeuring, onder
 
 4. De volgende verstoringen mogen geen invloed hebben die groter is dan de maximale fout bij eerste keuring onder gebruiksomstandigheden of moeten automatisch door het instrument worden gedetecteerd en aangegeven:
 
-- a. de in [artikel 8.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.9&z=2014-07-01&g=2014-07-01) vermelde invloeden;
+- a. de in [artikel 8.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=2&artikel=8.3.9&z=2014-09-03&g=2014-09-03) vermelde invloeden;
 
 - b. mechanische schokken, veroorzaakt door een vrije val over 25 mm door een der hoekpunten op een vast oppervlak.
 
@@ -10557,7 +10553,7 @@ Wanneer een zodanig lek optreedt dat één van deze grenswaarden wordt overschre
 
 ##### Artikel 8.4.86
 
-Uitlaatgastesters mogen zijn voorzien van een geïntegreerde toerenteller mits deze voldoet aan de eisen gesteld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=2&z=2014-07-01&g=2014-07-01) van deze afdeling.
+Uitlaatgastesters mogen zijn voorzien van een geïntegreerde toerenteller mits deze voldoet aan de eisen gesteld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=2&z=2014-09-03&g=2014-09-03) van deze afdeling.
 
 #### § 9.3. Technische eisen
 
@@ -10579,9 +10575,9 @@ Uitlaatgastesters mogen zijn voorzien van een geïntegreerde toerenteller mits d
 
 3. Zowel bij een automatische als een semi-automatische justeerinrichting is een signalering toegestaan voor een noodzaak tot justering.
 
-4. Als tijdelijke voorwaarde als bedoeld in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-07-01&g=2014-07-01) geldt dat een instrument moet worden gejusteerd met een gecertificeerd kalibratiegas met een interval gelijk aan de helft van de periode die op grond van [artikel 8.3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-07-01&g=2014-07-01), door de aanbieder bij het typeonderzoek wordt opgegeven als beoogd justeerinterval.
+4. Als tijdelijke voorwaarde als bedoeld in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-09-03&g=2014-09-03) geldt dat een instrument moet worden gejusteerd met een gecertificeerd kalibratiegas met een interval gelijk aan de helft van de periode die op grond van [artikel 8.3.4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=3&paragraaf=1&artikel=8.3.4&z=2014-09-03&g=2014-09-03), door de aanbieder bij het typeonderzoek wordt opgegeven als beoogd justeerinterval.
 
-Deze tijdelijke voorwaarde wordt omgezet in een definitieve voorwaarde op basis van een onderzoek zoals bedoeld in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-07-01&g=2014-07-01) verricht aan vijf verzegelde instrumenten geplaatst in een representatieve gebruikssituatie. Het onderzoek vindt plaats door middel van een aantal op vaste tijdsafstanden uitgevoerde controles gedurende een periode waarin alle in het onderzoek betrokken instrumenten aan de eisen voor de maximale fout onder bedrijfsomstandigheden voldoen, doch ten hoogste gedurende een periode gelijk aan het beoogde justeerinterval. Het aantal controles is gelijk aan het aantal maanden van het beoogde justeerinterval met een minimum van drie controles.
+Deze tijdelijke voorwaarde wordt omgezet in een definitieve voorwaarde op basis van een onderzoek zoals bedoeld in [artikel 8.1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.11&z=2014-09-03&g=2014-09-03) verricht aan vijf verzegelde instrumenten geplaatst in een representatieve gebruikssituatie. Het onderzoek vindt plaats door middel van een aantal op vaste tijdsafstanden uitgevoerde controles gedurende een periode waarin alle in het onderzoek betrokken instrumenten aan de eisen voor de maximale fout onder bedrijfsomstandigheden voldoen, doch ten hoogste gedurende een periode gelijk aan het beoogde justeerinterval. Het aantal controles is gelijk aan het aantal maanden van het beoogde justeerinterval met een minimum van drie controles.
 
 5. Indien bij dit onderzoek gedurende het beoogde justeerinterval blijkt dat:
 
@@ -10609,9 +10605,9 @@ Het gasmengsel bestaat uit de volgende componenten in draaggas N-2:
 
 De nominale waarde mag ten hoogste 15% afwijken van de vermelde concentraties. De maximale relatieve fout in de opgegeven concentraties bedraagt 2% voor de concentratie van C3H8 in mengsel 2 en 1% voor de overige concentraties.
 
-2. Een gecertificeerd kalibratiegas is vervaardigd door een ingevolge [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-07-01&g=2014-07-01) erkende inrichting.
+2. Een gecertificeerd kalibratiegas is vervaardigd door een ingevolge [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-09-03&g=2014-09-03) erkende inrichting.
 
-3. Een fles met gecertificeerd kalibratiegas moet zijn voorzien van een certificaat waarop ten minste de samenstelling, de datum van vervaardiging en de naam van de ingevolge [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-07-01&g=2014-07-01) erkende inrichting is vastgelegd.
+3. Een fles met gecertificeerd kalibratiegas moet zijn voorzien van een certificaat waarop ten minste de samenstelling, de datum van vervaardiging en de naam van de ingevolge [artikel 8.2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=2&paragraaf=3&artikel=8.2.12&z=2014-09-03&g=2014-09-03) erkende inrichting is vastgelegd.
 
 #### § 10. Bromfietsrollentestbank
 
@@ -10653,7 +10649,7 @@ Een bromfietsrollentestbank simuleert een weerstand die overeenkomt met de wegwe
 
 ##### Artikel 8.4.94
 
-De maximale fout in de meting van de omtreksnelheid van de rollen bedraagt één tiende van de maximale fout bedoeld in [artikel 8.4.92](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=10&sub-paragraaf=10.3&artikel=8.4.92&z=2014-07-01&g=2014-07-01).
+De maximale fout in de meting van de omtreksnelheid van de rollen bedraagt één tiende van de maximale fout bedoeld in [artikel 8.4.92](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=10&sub-paragraaf=10.3&artikel=8.4.92&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 8.4.95
 
@@ -10753,13 +10749,13 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 8.4.107
 
-De geluidsniveaumeter en de calibratiegeluidsbron worden jaarlijks getoetst aan en gekalibreerd volgens de eisen in [artikel 8.4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=11&sub-paragraaf=11.2&artikel=8.4.108&z=2014-07-01&g=2014-07-01).
+De geluidsniveaumeter en de calibratiegeluidsbron worden jaarlijks getoetst aan en gekalibreerd volgens de eisen in [artikel 8.4.108](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=11&sub-paragraaf=11.2&artikel=8.4.108&z=2014-09-03&g=2014-09-03).
 
 #### § 11.2. Technische eisen
 
 ##### Artikel 8.4.108
 
-De geluidsniveaumeter en de calibratiegeluidsbron voldoen ten minste aan [richtlijn 70/157/EEG](31970L0157). Hiervan zijn verklaringen aanwezig van een door de minister overeenkomstig [artikel 8.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-07-01&g=2014-07-01) aangewezen keuringsinstelling.
+De geluidsniveaumeter en de calibratiegeluidsbron voldoen ten minste aan [richtlijn 70/157/EEG](31970L0157). Hiervan zijn verklaringen aanwezig van een door de minister overeenkomstig [artikel 8.1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.2&artikel=8.1.10&z=2014-09-03&g=2014-09-03) aangewezen keuringsinstelling.
 
 ##### Artikel 8.4.109
 
@@ -10787,7 +10783,7 @@ Het koplamptestapparaat voldoet aan de volgende eisen:
 
 ##### Artikel 9.1
 
-Onverminderd [artikel 149a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) kan het ingevolge [artikel 149 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) bevoegde gezag ontheffing verlenen van het bepaalde in de [artikelen 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-07-01&g=2014-07-01), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-07-01&g=2014-07-01) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.3&z=2014-07-01&g=2014-07-01).
+Onverminderd [artikel 149a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a) kan het ingevolge [artikel 149 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149) bevoegde gezag ontheffing verlenen van het bepaalde in de [artikelen 5.1.1, eerste lid, aanhef en onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-09-03&g=2014-09-03), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-09-03&g=2014-09-03) en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.3&z=2014-09-03&g=2014-09-03).
 
 #### § 2. Aanvraag ontheffing
 
@@ -10823,11 +10819,11 @@ Het bevoegd gezag vermeldt in de beschikking houdende verlening van de ontheffin
 
 ##### Artikel 10.1
 
-Overtreding van de [artikelen 5.1.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-07-01&g=2014-07-01), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-07-01&g=2014-07-01), en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.3&z=2014-07-01&g=2014-07-01) is een strafbaar feit.
+Overtreding van de [artikelen 5.1.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-09-03&g=2014-09-03), [5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-09-03&g=2014-09-03), en [5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.3&z=2014-09-03&g=2014-09-03) is een strafbaar feit.
 
 ##### Artikel 10.2
 
-Bij veroordeling van de bestuurder van een motorvoertuig wegens overtreding van [artikel 5.1.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-07-01&g=2014-07-01), of [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-07-01&g=2014-07-01) kan hem de bevoegdheid tot het besturen van motorvoertuigen voor ten hoogste twee jaren worden ontzegd.
+Bij veroordeling van de bestuurder van een motorvoertuig wegens overtreding van [artikel 5.1.1, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.1&z=2014-09-03&g=2014-09-03), of [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1&artikel=5.1.2&z=2014-09-03&g=2014-09-03) kan hem de bevoegdheid tot het besturen van motorvoertuigen voor ten hoogste twee jaren worden ontzegd.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
@@ -10855,7 +10851,7 @@ Een EG-typegoedkeuring voor voertuigen van de voertuigclassificatie M1, afgegeve
 
 1. Nationale typegoedkeuringen kunnen worden verleend tot de in bijlage XIX, derde kolom, van [richtlijn 2007/46/EG](32007L0046) voor de desbetreffende voertuigcategorie vermelde datum.
 
-2. Nationale typegoedkeuringen als bedoeld in [artikel 11.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=11&artikel=11.3&z=2014-07-01&g=2014-07-01), en 11.4, eerste lid, kunnen worden aangepast tot de in bijlage XIX, vierde kolom, van [richtlijn 2007/46/EG](32007L0046) voor de desbetreffende voertuigcategorie vermelde datum.
+2. Nationale typegoedkeuringen als bedoeld in [artikel 11.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=11&artikel=11.3&z=2014-09-03&g=2014-09-03), en 11.4, eerste lid, kunnen worden aangepast tot de in bijlage XIX, vierde kolom, van [richtlijn 2007/46/EG](32007L0046) voor de desbetreffende voertuigcategorie vermelde datum.
 
 3. Op de aanvraag, het verlenen en het aanpassen van een nationale typegoedkeuring alsmede het houden van toezicht daarop, zijn de eisen van toepassing zoals die luidden voor de inwerkingtreding van deze regeling.
 
@@ -10863,7 +10859,7 @@ Een EG-typegoedkeuring voor voertuigen van de voertuigclassificatie M1, afgegeve
 
 ##### Artikel 11.5
 
-Indien een voor de inwerkingtreding van deze regeling verleende nationale typegoedkeuring vervalt, is [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.27&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing.
+Indien een voor de inwerkingtreding van deze regeling verleende nationale typegoedkeuring vervalt, is [artikel 3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=9&artikel=3.27&z=2014-09-03&g=2014-09-03) van overeenkomstige toepassing.
 
 ##### Artikel 11.6
 
@@ -10897,15 +10893,15 @@ Indien na 29 april een beslissing wordt genomen op de aanvraag voor een kenteken
 
 ##### Artikel 11.11
 
-1. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een voertuig geen gegeven bevat als bedoeld in [artikel 5.2.7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5.2.7&z=2014-07-01&g=2014-07-01), [artikel 5.2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=5&artikel=5.2.23&z=2014-07-01&g=2014-07-01), [artikel 5.3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=5&artikel=5.3.23&z=2014-07-01&g=2014-07-01), of [artikel 5.4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=5&artikel=5.4.21&z=2014-07-01&g=2014-07-01), blijft toepassing van het betrokken artikel of artikellid voor wat betreft het in dat artikel of artikellid geregelde aspect ten aanzien van het betrokken voertuig achterwege.
+1. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een voertuig geen gegeven bevat als bedoeld in [artikel 5.2.7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=2&artikel=5.2.7&z=2014-09-03&g=2014-09-03), [artikel 5.2.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=2&paragraaf=5&artikel=5.2.23&z=2014-09-03&g=2014-09-03), [artikel 5.3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=5&artikel=5.3.23&z=2014-09-03&g=2014-09-03), of [artikel 5.4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=4&paragraaf=5&artikel=5.4.21&z=2014-09-03&g=2014-09-03), blijft toepassing van het betrokken artikel of artikellid voor wat betreft het in dat artikel of artikellid geregelde aspect ten aanzien van het betrokken voertuig achterwege.
 
-2. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een bedrijfsauto geen gegeven bevat als bedoeld in [artikel 5.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-07-01&g=2014-07-01), worden voor de toepassing van [dat artikellid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-07-01&g=2014-07-01) als ‘toegestane maximum aslasten’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum last onder de vooras(sen tezamen)’ en de ‘maximum last onder de achteras(sen tezamen)’.
+2. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een bedrijfsauto geen gegeven bevat als bedoeld in [artikel 5.3.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-09-03&g=2014-09-03), worden voor de toepassing van [dat artikellid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-09-03&g=2014-09-03) als ‘toegestane maximum aslasten’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum last onder de vooras(sen tezamen)’ en de ‘maximum last onder de achteras(sen tezamen)’.
 
-3. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een bedrijfsauto geen gegeven bevat als bedoeld in [artikel 5.3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-07-01&g=2014-07-01), wordt voor de toepassing van dat artikellid als ‘toegestane maximum massa’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘massa ledig voertuig’ en het ‘laadvermogen’, dan wel de op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum massa beladen voertuig’.
+3. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een bedrijfsauto geen gegeven bevat als bedoeld in [artikel 5.3.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.3.7&z=2014-09-03&g=2014-09-03), wordt voor de toepassing van dat artikellid als ‘toegestane maximum massa’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘massa ledig voertuig’ en het ‘laadvermogen’, dan wel de op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum massa beladen voertuig’.
 
-4. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een aanhangwagen geen gegeven bevat als bedoeld in [artikel 5.12.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.7&z=2014-07-01&g=2014-07-01), worden voor de toepassing van dat artikellid als ‘toegestane maximum aslasten’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum druk onder de vooras(sen tezamen)’ en de ‘maximum druk onder de achteras(sen tezamen)’.
+4. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een aanhangwagen geen gegeven bevat als bedoeld in [artikel 5.12.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.7&z=2014-09-03&g=2014-09-03), worden voor de toepassing van dat artikellid als ‘toegestane maximum aslasten’ aangemerkt de som van de voor het betrokken voertuig op de kentekencard dan wel het kentekenbewijs vermelde ‘maximum druk onder de vooras(sen tezamen)’ en de ‘maximum druk onder de achteras(sen tezamen)’.
 
-5. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een aanhangwagen geen gegeven bevat als bedoeld in [artikel 5.12.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.7&z=2014-07-01&g=2014-07-01), wordt voor de toepassing van dat artikellid als ‘toegestane maximum massa’ aangemerkt de som van het voor het betrokken voertuig op de kentekencard of het kentekenbewijs vermelde ‘ledig gewicht’ en het ‘laadvermogen’, dan wel het op de kentekencard of het kentekenbewijs vermelde ‘maximum totaalgewicht’.
+5. Indien de kentekencard dan wel het kentekenbewijs of het kentekenregister met betrekking tot een aanhangwagen geen gegeven bevat als bedoeld in [artikel 5.12.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.7&z=2014-09-03&g=2014-09-03), wordt voor de toepassing van dat artikellid als ‘toegestane maximum massa’ aangemerkt de som van het voor het betrokken voertuig op de kentekencard of het kentekenbewijs vermelde ‘ledig gewicht’ en het ‘laadvermogen’, dan wel het op de kentekencard of het kentekenbewijs vermelde ‘maximum totaalgewicht’.
 
 ##### Artikel 11.12
 
@@ -11297,7 +11293,7 @@ Indien de vaststelling van de datum van eerste toelating geschiedt in het kader 
 
 ### Artikel 3. **Vaststelling met afzonderlijk onderzoek voertuig**
 
-Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving met een afzonderlijk onderzoek van het betrokken voertuig, wordt de datum van eerste toelating vastgesteld aan de hand van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-07-01&g=2014-07-01) vastgestelde voertuigidentificatienummer en overeenkomstig het bepaalde in de artikelen 4 tot en met 10 van deze bijlage.
+Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving met een afzonderlijk onderzoek van het betrokken voertuig, wordt de datum van eerste toelating vastgesteld aan de hand van het in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-09-03&g=2014-09-03) vastgestelde voertuigidentificatienummer en overeenkomstig het bepaalde in de artikelen 4 tot en met 10 van deze bijlage.
 
 ### Artikel 4. **Vaststelling datum eerste toelating indien het voertuig niet eerder in gebruik is genomen en niet eerder is geregistreerd.**
 
@@ -12811,7 +12807,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5.18.36c
 
-1. Extra achteruitrijlichten die overeenkomstig [artikel 5.3.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-07-01&g=2014-07-01), [5.3a.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-07-01&g=2014-07-01), of [5.12.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-07-01&g=2014-07-01), op een bedrijfsauto, bus of aanhangwagen zijn gemonteerd mogen ook branden bij een voorwaartse snelheid. Indien de voorwaartse snelheid van het voertuig meer dan 10 km/h bedraagt worden de lichten automatisch uitgeschakeld en blijven zij uitgeschakeld totdat zij opzettelijk opnieuw worden ingeschakeld.
+1. Extra achteruitrijlichten die overeenkomstig [artikel 5.3.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3&paragraaf=10&artikel=5.3.57&z=2014-09-03&g=2014-09-03), [5.3a.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=3a&paragraaf=10&artikel=5.3a.57&z=2014-09-03&g=2014-09-03), of [5.12.57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=10&artikel=5.12.57&z=2014-09-03&g=2014-09-03), op een bedrijfsauto, bus of aanhangwagen zijn gemonteerd mogen ook branden bij een voorwaartse snelheid. Indien de voorwaartse snelheid van het voertuig meer dan 10 km/h bedraagt worden de lichten automatisch uitgeschakeld en blijven zij uitgeschakeld totdat zij opzettelijk opnieuw worden ingeschakeld.
 
 2. Manoeuvreerlichten mogen branden totdat het voertuig een snelheid heeft bereikt van 10 km/h.
 
@@ -12831,7 +12827,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### C. Landbouw- of bosbouwtrekkers, motorrijtuigen met beperkte snelheid en daardoor voortbewogen aanhangwagens of verwisselbare getrokken machines
 
-#### A. Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen dolly’s of aanhangwagens en samenstellen hiervan
+#### A. Personenauto’s, bedrijfsauto’s, bussen, driewielige motorrijtuigen, dolly’s of aanhangwagens en samenstellen hiervan
 
 #### B. Alle categorieën samenstellen van voertuigen
 
@@ -12853,7 +12849,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 6.9
 
-Indien een voertuig wordt gewijzigd in een taxi of in een voertuig bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1), moet het voertuig voldoen aan de in [hoofdstuk 3, afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&z=2014-07-01&g=2014-07-01), opgenomen eisen.
+Indien een voertuig wordt gewijzigd in een taxi of in een voertuig bestemd voor openbaar vervoer als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=1), moet het voertuig voldoen aan de in [hoofdstuk 3, afdeling 6](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&z=2014-09-03&g=2014-09-03), opgenomen eisen.
 
 ### Hoofdstuk 7. Schadevoertuigen
 
@@ -13623,7 +13619,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5.6.72
 
-1. In afwijking van [artikel 5.6.0](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&artikel=5.6.0&z=2014-07-01&g=2014-07-01) moet een bromfiets die door de Minister van Infrastructuur en Milieu op grond van [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) is aangewezen, voldoen aan deze paragraaf en wordt die bromfiets beoordeeld volgens de bijbehorende wijze van keuren.
+1. In afwijking van [artikel 5.6.0](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&artikel=5.6.0&z=2014-09-03&g=2014-09-03) moet een bromfiets die door de Minister van Infrastructuur en Milieu op grond van [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) is aangewezen, voldoen aan deze paragraaf en wordt die bromfiets beoordeeld volgens de bijbehorende wijze van keuren.
 
 2. In deze paragraaf wordt verstaan onder aangewezen bromfiets: bromfiets die door de Minister van Infrastructuur en Milieu is aangewezen op grond van [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b).
 
@@ -13637,7 +13633,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van aangewezen bromfietsen mogen: a. geen breuken of scheuren vertonen, en b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht dan wel dat het weggedrag van het voertuig nadelig wordt beïnvloed. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 2, afdelingen 1, 2 en 3, van toepassing. | – Lid 1, onderdeel a: visuele controle. – Lid 1, onderdeel b: visuele controle. Bij twijfel wordt een rijproef uitgevoerd. |
+| 1. | De langs- en dwarsliggers en chassisversterkingsdelen van het chassisraam, dan wel de daarvoor in de plaats tredende delen van de mee- of zelfdragende carrosserie van aangewezen bromfietsen mogen: a. geen breuken of scheuren vertonen, en b. niet zodanig zijn bevestigd, vervormd of door corrosie aangetast, dat de stijfheid en de sterkte van het chassisraam of van de mee- of zelfdragende carrosserie in gevaar worden gebracht dan wel dat het weggedrag van het voertuig nadelig wordt beïnvloed. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 2, afdelingen 1, 2 en 3, van toepassing. | – Lid 1, onderdeel a: visuele controle. – Lid 1, onderdeel b: visuele controle. Bij twijfel wordt een rijproef uitgevoerd. |
 |   |   |   |
 | 2. | Indien een aangewezen bromfiets is opgebouwd uit een frame met een voor- of achtervork, mag dat frame met die voor- of achtervork: a. geen breuken of scheuren vertonen, b. niet zijn doorgeroest, en c. niet zodanig zijn vervormd dat de stijfheid en de sterkte ervan in gevaar worden gebracht. | Lid 2 en 3: visuele controle. |
 |   |   |   |
@@ -13647,13 +13643,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Aangewezen bromfietsen mogen: a. niet langer zijn dan 2,00 m; b. niet breder zijn dan 1,10 m; c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt de aangewezen bromfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-07-01&g=2014-07-01) van toepassing is. |
+|   | Aangewezen bromfietsen mogen: a. niet langer zijn dan 2,00 m; b. niet breder zijn dan 1,10 m; c. niet hoger zijn dan 2,00 m. | Visuele controle. In geval van twijfel wordt de aangewezen bromfiets gemeten, waarbij [artikel 5.1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=1a&artikel=5.1a.1&z=2014-09-03&g=2014-09-03) van toepassing is. |
 
 ##### Artikel 5.6.76
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-| 1. | Aangewezen bromfietsen moeten bij voortduring blijven voldoen aan de in [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) vermelde maximumconstructiesnelheid. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
+| 1. | Aangewezen bromfietsen moeten bij voortduring blijven voldoen aan de in [artikel 20b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=20b) vermelde maximumconstructiesnelheid. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 28 tot en met 29a, van toepassing. | Bij twijfel een rijproef uitvoeren. |
 | 2. | Aangewezen bromfietsen mogen niet zijn voorzien van een voorziening met het kennelijke doel de controle op de in het eerste lid genoemde maximumconstructiesnelheid te bemoeilijken of te beïnvloeden. | Visuele controle, waarbij eventuele aanwezige voorzieningen worden bediend of ingeschakeld. Eventueel wordt de meting opnieuw uitgevoerd. |
 
 ##### Artikel 5.6.77
@@ -13718,7 +13714,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 |   |   |   |
 | 2. | Het uitlaatsysteem moet deugdelijk zijn bevestigd. | Visuele controle. |
 |   |   |   |
-| 3. | Aangewezen bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 90 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikelen 36, 37 en 38 van toepassing. | – |
+| 3. | Aangewezen bromfietsen mogen in de nabijheid van de uitmonding van het uitlaatsysteem geen hoger geluidsniveau kunnen produceren dan 90 dB(A). Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikelen 36, 37 en 38 van toepassing. | – |
 
 ##### Artikel 5.6.81
 
@@ -13762,7 +13758,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | De wiellagers van aangewezen bromfietsen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 49, van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+|   | De wiellagers van aangewezen bromfietsen mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 49, van toepassing. | Visuele controle. De speling wordt op de juiste wijze zichtbaar gemaakt. In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 
 ##### Artikel 5.6.86
 
@@ -14769,11 +14765,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 | 1. | De gestuurde wielen van aanhangwagens moeten goed kunnen reageren op het commando van de stuurinrichting van het trekkend voertuig. | Leden 1 tot en met 5: visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 | --- | --- | --- |
-| 2. | De voor de overbrenging van de stuurbeweging bestemde onderdelen van de gestuurde assen van aanhangwagens moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), hoofdstuk 1, titel 2, afdelingen 1, 2 en 3, van toepassing. |   |
+| 2. | De voor de overbrenging van de stuurbeweging bestemde onderdelen van de gestuurde assen van aanhangwagens moeten deugdelijk zijn bevestigd met alle daarvoor bestemde bevestigings- en borgmiddelen, mogen geen breuken of scheuren vertonen, mogen niet zijn vervormd en mogen niet ernstig door corrosie zijn aangetast. Indien sprake is van corrosie is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), hoofdstuk 1, titel 2, afdelingen 1, 2 en 3, van toepassing. |   |
 | 3. | Stofhoezen van de stuurkogels moeten deugdelijk zijn bevestigd en mogen niet zodanig zijn beschadigd dat de hoezen niet meer afdichten. |   |
 | 4. | De onderdelen van het hydraulische besturingssysteem mogen geen lekkage vertonen. |   |
 | 5. | De slangen van het hydraulische besturingssysteem mogen: a. geen beschadigingen vertonen waarbij het wapeningsmateriaal zichtbaar is, en b. geen bewegende delen raken. |   |
-| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-07-01&g=2014-07-01), artikel 52, van toepassing. | - Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
+| 6. | De verbindingen in het stangenstelsel mogen niet te veel speling vertonen. Hierbij is het bepaalde in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=VIII&z=2014-09-03&g=2014-09-03), artikel 52, van toepassing. | - Visuele controle, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. – Voor het zichtbaar maken van: a. radiale speling wordt de stuurkogel of stuurverbinding op doelmatige wijze belast; b. axiale speling wordt op de stuurkogel of stuurverbinding trek- en drukkrachten uitgeoefend. – In geval van twijfel wordt de speling gemeten met een geschikt meetmiddel. |
 | 7. | Indien een gedeelte van de binnenkant van het stuurkogelhuis en van de stuurkogel zichtbaar is doordat de hoes is beschadigd of ontbreekt, mag dit gedeelte geen corrosie vertonen. | Indien de hoes is beschadigd of ontbreekt, vindt visuele controle plaats, terwijl de aanhangwagen zich boven een inspectieput of op een hefinrichting bevindt. |
 
 #### § 11. Verbinding tussen trekkend motorrijtuig en aanhangwagen
@@ -15188,7 +15184,7 @@ Indien de vaststelling van het voertuigidentificatienummer geschiedt in het kade
 
 Indien een voertuig in gebruik is genomen en niet eerder is geregistreerd, wordt de datum van eerste toelating vastgesteld,overeenkomstig het bepaalde in artikel 7.
 
-Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), wordt de datum van eerste toelating vastgesteld aan de hand van het op basis van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-07-01&g=2014-07-01) vastgestelde voertuigidentificatienummer waarbij de datum van eerste toelating wordt gesteld op de datum van eerste tenaamstelling.
+Indien de vaststelling van de datum van eerste toelating geschiedt in het kader van de aanvraag tot inschrijving zonder afzonderlijk onderzoek van het betrokken voertuig door een bedrijf dat beschikt over de bevoegdheid, bedoeld in [artikel 46, tweede lid, onderdeel a, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=46), wordt de datum van eerste toelating vastgesteld aan de hand van het op basis van [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=I&z=2014-09-03&g=2014-09-03) vastgestelde voertuigidentificatienummer waarbij de datum van eerste toelating wordt gesteld op de datum van eerste tenaamstelling.
 
 In deze bijlage wordt verstaan onder:
 
@@ -15232,7 +15228,7 @@ Het buitenoppervlak van de retroreflector en in het bijzonder het lichtterugkaat
 
 Nadat de retroreflector de beproeving zoals vermeld in onderdeel B van annex 3 bij deze bijlage heeft ondergaan, moet de lichtsterktecoëfficiënt, te meten volgens onderdeel A van annex 3 bij deze bijlage, ten minste nog aan de in tabel 6 gestelde eis voldoen.
 
-## Bijlage VI. , behorende bij [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-07-01&g=2014-07-01)
+## Bijlage VI. , behorende bij [artikel 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=6&artikel=3.13&z=2014-09-03&g=2014-09-03)
 
 Vervallen.
 
@@ -15308,7 +15304,7 @@ De rechterbuitenspiegel van een personenauto of bedrijfsauto, die vóór 1 oktob
 
 ## Bijlage X. , behorende bij artikel 6.3
 
-Een voertuig dat in de constructie is gewijzigd, zoals vermeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-07-01&g=2014-07-01), van deze regeling, moet voldoen aan de in deze bijlage opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging en wordt beoordeeld volgens de bijbehorende wijze van keuren.
+Een voertuig dat in de constructie is gewijzigd, zoals vermeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-09-03&g=2014-09-03), van deze regeling, moet voldoen aan de in deze bijlage opgenomen eisen, voor zover die eisen verband houden met de aangebrachte wijziging en wordt beoordeeld volgens de bijbehorende wijze van keuren.
 
 De in deze titel gestelde eisen worden alleen getoetst indien dit noodzakelijk is voor het bepalen van het aantal spiegels of gezichtsveldverbeterende voorzieningen; indien er getoetst wordt, gebeurt dit visueel.
 
@@ -15426,7 +15422,7 @@ Een aanwijzing als technische dienst op grond van [artikel 132e, eerste lid, van
 
 ##### Artikel 1.8. (schorsing aanwijzing)
 
-1. De aanwijzing kan worden geschorst indien niet meer wordt voldaan aan de in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.5&z=2014-07-01&g=2014-07-01) genoemde eisen.
+1. De aanwijzing kan worden geschorst indien niet meer wordt voldaan aan de in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.5&z=2014-09-03&g=2014-09-03) genoemde eisen.
 
 2. Bij schorsing van een aanwijzing kan worden bepaald dat indien niet binnen een termijn van ten hoogste twaalf weken wordt aangetoond dat weer aan de eisen wordt voldaan, alsnog intrekking van de aanwijzing volgt.
 
@@ -15436,13 +15432,13 @@ De aanwijzing wordt door de Dienst Wegverkeer ingetrokken indien:
 
 - a. de betrokken technische dienst daarom verzoekt;
 
-- b. de betrokken technische dienst niet meer voldoet aan de in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.5&z=2014-07-01&g=2014-07-01) opgenomen eisen;
+- b. de betrokken technische dienst niet meer voldoet aan de in [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.5&z=2014-09-03&g=2014-09-03) opgenomen eisen;
 
 - c. de accreditatie van de betrokken technische dienst is ingetrokken of de aanvraag tot accreditatie is afgewezen door de bij het Internationaal Accreditatie Forum aangesloten accreditatie-instelling in een lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst inzake de Europese Economische Ruimte of Zwitserland.
 
 ##### Artikel 1.10
 
-De [artikelen 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.8&z=2014-07-01&g=2014-07-01) en [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.9&z=2014-07-01&g=2014-07-01) laten onverlet de bevoegdheid tot schorsing of intrekking van de aanwijzing in andere gevallen als omschreven in deze paragraaf.
+De [artikelen 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.8&z=2014-09-03&g=2014-09-03) en [1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1.9&z=2014-09-03&g=2014-09-03) laten onverlet de bevoegdheid tot schorsing of intrekking van de aanwijzing in andere gevallen als omschreven in deze paragraaf.
 
 ### Hoofdstuk 2. Voertuigidentificatienummer en datum eerste toelating
 
@@ -15472,9 +15468,9 @@ De [artikelen 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=1&a
 
 1. De aanvraag van een nationale typegoedkeuring voor een alcoholslot en de daarbij behorende uitleesapparatuur of een aanvraag voor een goedkeuring voor een productieproces van een alcoholslot wordt door de fabrikant ingediend bij de Dienst Wegverkeer.
 
-2. Bij de aanvraag worden een of meerdere verklaringen gevoegd, afgegeven door de Dienst Wegverkeer of een door de Dienst Wegverkeer aangewezen technische dienst, waaruit blijkt dat wordt voldaan aan [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-07-01&g=2014-07-01) bij deze regeling.
+2. Bij de aanvraag worden een of meerdere verklaringen gevoegd, afgegeven door de Dienst Wegverkeer of een door de Dienst Wegverkeer aangewezen technische dienst, waaruit blijkt dat wordt voldaan aan [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-09-03&g=2014-09-03) bij deze regeling.
 
-3. Bij de aanvraag wordt een document overgelegd, waaruit blijkt dat de eisen uit artikel 5, tweede lid, van [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-07-01&g=2014-07-01), bij deze regeling zijn getoetst door een laboratorium dat door een bij het Common Criteria Recognition Agreement aangesloten accreditatie-instelling is geaccrediteerdvoor het uitvoeren van common criteria evaluaties.
+3. Bij de aanvraag wordt een document overgelegd, waaruit blijkt dat de eisen uit artikel 5, tweede lid, van [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=XII&z=2014-09-03&g=2014-09-03), bij deze regeling zijn getoetst door een laboratorium dat door een bij het Common Criteria Recognition Agreement aangesloten accreditatie-instelling is geaccrediteerdvoor het uitvoeren van common criteria evaluaties.
 
 ##### Artikel 3.23b
 
@@ -15806,7 +15802,7 @@ Een typegoedkeuring voor het alcoholslot verliest zijn geldigheid indien:
 
 - c. moet het kalibratiegas zodanig zijn vervaardigd dat het aan de voorschriften van deze bijlage kan voldoen gedurende ten minste 100 kalibraties of gedurende ten minste 200 dagen;
 
-3. [Artikel 8.4.89, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&artikel=8.4.89&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+3. [Artikel 8.4.89, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=9&sub-paragraaf=9.5&artikel=8.4.89&z=2014-09-03&g=2014-09-03), is van overeenkomstige toepassing.
 
 #### § 10. Bromfietsrollentestbank
 
@@ -16728,7 +16724,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 |   | Eisen | Wijze van Keuren |
 | --- | --- | --- |
-|   | Aangewezen bromfietsen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.6.93](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=13&artikel=5.6.93&z=2014-07-01&g=2014-07-01) en [5.6.94](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=13&artikel=5.6.94&z=2014-07-01&g=2014-07-01) is voorgeschreven of toegestaan. | Visuele controle. |
+|   | Aangewezen bromfietsen mogen niet zijn voorzien van meer lichten en retroreflecterende voorzieningen dan in de [artikelen 5.6.93](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=13&artikel=5.6.93&z=2014-09-03&g=2014-09-03) en [5.6.94](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=6&paragraaf=13&artikel=5.6.94&z=2014-09-03&g=2014-09-03) is voorgeschreven of toegestaan. | Visuele controle. |
 
 ##### Artikel 5.6.98
 
@@ -16841,7 +16837,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 5.18.62
 
-1. Op een afsleepas zijn de [artikelen 5.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=1&artikel=5.12.3&z=2014-07-01&g=2014-07-01), [5.12.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-07-01&g=2014-07-01), [5.12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=5&artikel=5.12.18&z=2014-07-01&g=2014-07-01), [5.12.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=6&artikel=5.12.27&z=2014-07-01&g=2014-07-01), [5.12.31, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.31&z=2014-07-01&g=2014-07-01), [5.12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.66&z=2014-07-01&g=2014-07-01) en [5.12.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.68&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing.
+1. Op een afsleepas zijn de [artikelen 5.12.3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=1&artikel=5.12.3&z=2014-09-03&g=2014-09-03), [5.12.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=2&artikel=5.12.6&z=2014-09-03&g=2014-09-03), [5.12.18](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=5&artikel=5.12.18&z=2014-09-03&g=2014-09-03), [5.12.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=6&artikel=5.12.27&z=2014-09-03&g=2014-09-03), [5.12.31, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.31&z=2014-09-03&g=2014-09-03), [5.12.66](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.66&z=2014-09-03&g=2014-09-03) en [5.12.68](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=11&artikel=5.12.68&z=2014-09-03&g=2014-09-03) van overeenkomstige toepassing.
 
 2. Een afsleepas moet zijn voorzien van een constructieplaat waarop naast het type ten minste de technisch toegestane maximummassa is aangegeven.
 
@@ -16909,13 +16905,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8.4.74a
 
-Onverminderd [artikel 8.1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.3&artikel=8.1.12&z=2014-07-01&g=2014-07-01), wordt een verzegeling eveneens aangebracht tussen de platenremtestbank en zijn fundering.
+Onverminderd [artikel 8.1.12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=1&paragraaf=2&sub-paragraaf=2.3&artikel=8.1.12&z=2014-09-03&g=2014-09-03), wordt een verzegeling eveneens aangebracht tussen de platenremtestbank en zijn fundering.
 
 #### § 8.2.1. Controle-inrichting
 
 ##### Artikel 8.4.75a
 
-Een geïntegreerde pedaalkrachtmeter moet voldoen aan de eisen gesteld in de [artikelen 8.4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&sub-paragraaf=5.1&artikel=8.4.27&z=2014-07-01&g=2014-07-01) en [8.4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&sub-paragraaf=5.2&artikel=8.4.28&z=2014-07-01&g=2014-07-01) en is voorzien van een arreteerinrichting.
+Een geïntegreerde pedaalkrachtmeter moet voldoen aan de eisen gesteld in de [artikelen 8.4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&sub-paragraaf=5.1&artikel=8.4.27&z=2014-09-03&g=2014-09-03) en [8.4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=8&afdeling=4&paragraaf=5&sub-paragraaf=5.2&artikel=8.4.28&z=2014-09-03&g=2014-09-03) en is voorzien van een arreteerinrichting.
 
 ##### Artikel 8.4.75b
 
@@ -17037,7 +17033,7 @@ In deze bijlage wordt verstaan onder:
 
 Ambergele of gele retroreflectoren voor trappers van bromfietsen moeten voldoen aan het bepaalde in [richtlijn 76/757/EEG](31976L0757) omtrent de retroreflector van Klasse I.
 
-## Bijlage VIII. , behorende bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-07-01&g=2014-07-01)
+## Bijlage VIII. , behorende bij [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&z=2014-09-03&g=2014-09-03)
 
 In deze bijlage wordt verstaan onder:
 
@@ -17179,13 +17175,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 1. Opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een reminrichting.
 
-2. De reminrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in [artikel 5.12.31](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.31&z=2014-07-01&g=2014-07-01).
+2. De reminrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in [artikel 5.12.31](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.31&z=2014-09-03&g=2014-09-03).
 
 ##### Artikel 5.12.39a
 
 1. Opleggers, aanhangwagens met een stijve dissel en middenasaanhangwagens waarvan de statische verticale belasting die naar de grond wordt overgebracht door de as of assen ten hoogste 750 kg bedraagt, mogen zijn voorzien van een vastzetinrichting.
 
-2. De vastzetinrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in [artikel 5.12.39](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.39&z=2014-07-01&g=2014-07-01).
+2. De vastzetinrichting, bedoeld in het eerste lid, moet voldoen aan de eisen, bedoeld in [artikel 5.12.39](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=5&afdeling=12&paragraaf=8&artikel=5.12.39&z=2014-09-03&g=2014-09-03).
 
 #### § 9. Carrosserie
 
@@ -17317,7 +17313,7 @@ Indien vaststelling van het voertuigidentificatienummer geschiedt in het kader v
 
 ## Bijlage IIIc. , behorende bij [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2013-01-01&g=2013-01-10)
 
-## Bijlage IIIb. , behorende bij [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2014-07-01&g=2014-07-01)
+## Bijlage IIIb. , behorende bij [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2014-09-03&g=2014-09-03)
 
 ## Bijlage Vb. , behorende bij [artikel 3.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=3&artikel=3.9&z=2013-01-01&g=2013-01-10)
 
@@ -17429,7 +17425,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | --- | --- | --- |
 |   | De onderdelen van de elektrische aandrijflijn van elektrisch aangedreven of hybride elektrische motorrijtuigen met beperkte snelheid: a. moeten deugdelijk zijn; b. moeten deugdelijk zijn bevestigd; c. mogen niet zijn beschadigd; d. mogen geen lekkage vertonen; e. moeten goed zijn afgeschermd, met uitzondering van de kabelset, en f. moeten goed zijn geïsoleerd. | Visuele controle. |
 
-#### § 10. Lichten lichtsignalen en retroreflecterende voorzieningen
+#### § 10. Lichten, lichtsignalen en retroreflecterende voorzieningen
 
 ##### Artikel 5.7.57a
 
@@ -17636,13 +17632,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen
 
-## Bijlage I. , behorende bij [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=2&artikel=2.1&z=2014-07-01&g=2014-07-01)
+## Bijlage I. , behorende bij [artikel 2.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=2&artikel=2.1&z=2014-09-03&g=2014-09-03)
 
 ## Bijlage IIIb. , behorende bij [artikel 3.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.3&z=2013-12-31&g=2013-12-31)
 
 ## Bijlage IIIc. , behorende bij [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2013-12-31&g=2013-12-31)
 
-## Bijlage IV. , behorende bij [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-07-01&g=2014-07-01) en kleine serie typegoedkeuring voor de categorieën M, N en O behorende bij [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01)
+## Bijlage IV. , behorende bij [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.7&z=2014-09-03&g=2014-09-03) en kleine serie typegoedkeuring voor de categorieën M, N en O behorende bij [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-09-03&g=2014-09-03)
 
 4 Elke frontbeschermingsinrichting die met het voertuig wordt geleverd, moet aan de voorschriften van Verordening (EG) nr. 78/2009 voldoen; er wordt een typegoedkeuringsnummer aan toegekend, dat op die inrichting wordt aangebracht.
 
@@ -17716,9 +17712,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Het voertuigidentificatienummer van een samengesteld voertuig voorzien van een frame wordt bepaald door het frame.
 
-## Bijlage II. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=2&artikel=2.2&z=2014-07-01&g=2014-07-01)
+## Bijlage II. , behorende bij [artikel 2.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=2&artikel=2.2&z=2014-09-03&g=2014-09-03)
 
-## Bijlage IIIa. , behorende bij [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-07-01&g=2014-07-01)
+## Bijlage IIIa. , behorende bij [artikel 3.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.2&z=2014-09-03&g=2014-09-03)
 
 Vervallen
 
@@ -17806,25 +17802,25 @@ De onderstaande tabel geeft aan op welke waarden het alcoholslot instelbaar moet
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage IIIc. , behorende bij [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-07-01&g=2014-07-01)
+## Bijlage IIIc. , behorende bij [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.4&z=2014-09-03&g=2014-09-03)
 
-## Bijlage IIId. , behorende bij [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=5&artikel=3.11&z=2014-07-01&g=2014-07-01)
+## Bijlage IIId. , behorende bij [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=5&artikel=3.11&z=2014-09-03&g=2014-09-03)
 
 Vervallen
 
-## Bijlage Va. , behorende bij [artikel 3.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=3&artikel=3.9&z=2014-07-01&g=2014-07-01)
+## Bijlage Va. , behorende bij [artikel 3.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=3&artikel=3.9&z=2014-09-03&g=2014-09-03)
 
-## Bijlage Vb. , behorende bij [artikel 3.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=3&artikel=3.9&z=2014-07-01&g=2014-07-01)
+## Bijlage Vb. , behorende bij [artikel 3.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=3&artikel=3.9&z=2014-09-03&g=2014-09-03)
 
 De retroreflecterende cirkel moet ten aanzien van de vorm en de afmetingen voldoen aan de volgende eisen:
 
 Voertuigen met verbrandingsmotor met compressie-ontsteking:
 
-## Bijlage IX. , behorende bij hoofdstuk 6, [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-07-01&g=2014-07-01), en [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-07-01&g=2014-07-01), artikelen 1, tweede lid, en artikel 2, tweede lid
+## Bijlage IX. , behorende bij hoofdstuk 6, [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-09-03&g=2014-09-03), en [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&bijlage=IV&z=2014-09-03&g=2014-09-03), artikelen 1, tweede lid, en artikel 2, tweede lid
 
 ## Bijlage X. , behorende bij artikel 6.3
 
-Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-07-01&g=2014-07-01), van deze regeling, moet het brandstofsysteem voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.
+Bij wijziging van de brandstofsoort in LPG van een motorvoertuig, als bedoeld in [artikel 6.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=6&paragraaf=2&artikel=6.3&z=2014-09-03&g=2014-09-03), van deze regeling, moet het brandstofsysteem voldoen aan de in deze afdeling opgenomen eisen en wordt beoordeeld volgens de bijbehorende wijze van keuren of voldoen aan en zijn aangebracht overeenkomstig VN/ECE-reglement 115.
 
 De in artikel 1.58 gestelde eisen worden getoetst:
 
@@ -17834,7 +17830,7 @@ Indien bij een voertuig als bedoeld in artikel 6.3, derde lid, van deze regeling
 
 ## Bijlage XI. , behorende bij artikel 6.6
 
-## Bijlage XII. , behorend bij [artikel 3.23.a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=2&artikel=3.23a&z=2014-07-01&g=2014-07-01), van de Regeling voertuigen
+## Bijlage XII. , behorend bij [artikel 3.23a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&hoofdstuk=3&afdeling=7&paragraaf=2&artikel=3.23a&z=2014-09-03&g=2014-09-03)
 
 De onderstaande tabel geeft aan op welke waarden het alcoholslot instelbaar moet zijn en op welke waarde het alcoholslot bij toepassing in het kader van het alcoholslotprogramma wordt ingesteld.
 
