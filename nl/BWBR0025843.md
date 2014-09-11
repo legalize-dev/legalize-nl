@@ -4,7 +4,7 @@ identifier: "BWBR0025843"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-01"
-last_updated: "2011-10-01"
+last_updated: "2014-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025843"
 soort: "ministeriele-regeling"
@@ -52,12 +52,6 @@ In deze regeling wordt verstaan onder:
 
 - **instelling:** instelling als bedoeld in [artikel 1.1.1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1);
 
-- **fusie:** elke rechtshandelingen van een of meer rechtspersonen die een bekostigde instelling in stand houdt of houden die ertoe leiden dat:
-
-- 1. een instelling ontstaat door samenvoeging van een of meer instellingen, of
-
-- 2. een instelling ontstaat door samenvoeging van een school voor voorbereidend beroepsonderwijs in de sector landbouw, als bedoeld in [artikel 10c, onderdeel d, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10c) en een of meer instellingen.
-
 - **splitsing:** elke rechtshandeling van een rechtspersoon die een bekostigde instelling in stand houdt die ertoe leidt dat twee of meer instellingen ontstaan door splitsing van een instelling.
 
 #### § 2. Fusie
@@ -86,7 +80,7 @@ De rechtspersoon dient een aanvraag als bedoeld in [artikel 2.1.3, vierde lid, v
 
 ##### Artikel 6. Effectrapportage splitsing
 
-De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2011-10-01&g=2011-10-01), bevat een weergave van:
+De effectrapportage splitsing, bedoeld in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025843&paragraaf=3&artikel=5&z=2014-09-11&g=2014-09-11), bevat een weergave van:
 
 - a. de motieven voor de splitsing,
 
@@ -126,6 +120,6 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 10. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling fusie- en splitsingtoets BVE.
+Deze regeling wordt aangehaald als: Regeling splitsingtoets BVE.
 
 Deze regeling en de toelichting zal in de Staatscourant worden geplaatst.
