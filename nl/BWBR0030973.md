@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2014-01-01&g=2014-01-01), zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
+De administratieplichtigen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2014-09-13&g=2014-09-13), zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
 
 ##### Artikel 4
 
@@ -140,7 +140,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - j. de belastingplichtige heeft ten minste een bij het vereiste reële risico, bedoeld in onderdeel i, passend eigen vermogen.
 
-Indien de belastingplichtige een lichaam is dat op grond van [artikel 2, achtste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2) geacht wordt in Nederland te zijn gevestigd, wordt voor de toepassing van de vereisten, bedoeld in de eerst volzin, onder Nederland mede begrepen de BES eilanden.
+Indien de belastingplichtige een lichaam is dat op grond van [artikel 2, achtste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2) geacht wordt in Nederland te zijn gevestigd, wordt voor de toepassing van de vereisten, bedoeld in de eerste volzin, onder Nederland mede begrepen de BES eilanden.
 
 8. De inlichting, bedoeld in het derde lid, dient te worden verstrekt door het duidelijk, stellig en zonder voorbehoud invullen van de daartoe bestemde vragen in de aangifte, bedoeld in [artikel 8 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8). Gegevens en inlichtingen, bedoeld in het vierde lid, dienen te worden verstrekt op de door Onze Minister voorgeschreven wijze.
 
