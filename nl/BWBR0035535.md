@@ -4,7 +4,7 @@ identifier: "BWBR0035535"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-09-13"
-last_updated: "2010-07-01"
+last_updated: "2014-09-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035535"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ Op de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheiden
 
 - a. onder rechterlijk ambtenaar wordt verstaan: de leden met rechtspraak belast en de senior-gerechtsauditeurs en de gerechtsauditeurs van de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven;
 
-- b. de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven en de senior-gerechtsauditeurs en de gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven voor de overeenkomstige toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035535&artikel=3&z=2014-09-13&g=2010-07-01) worden gelijkgesteld met rechterlijke ambtenaren van wie het een benoeming in een bij een gerechtshof of rechtbank te vervullen ambt betreft.
+- b. de leden met rechtspraak belast van de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven en de senior-gerechtsauditeurs en de gerechtsauditeurs bij de Centrale Raad van Beroep onderscheidenlijk het College van Beroep voor het bedrijfsleven voor de overeenkomstige toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035535&artikel=3&z=2014-09-13&g=2014-09-13) worden gelijkgesteld met rechterlijke ambtenaren van wie het een benoeming in een bij een gerechtshof of rechtbank te vervullen ambt betreft.
 
 ##### Artikel 3
 
