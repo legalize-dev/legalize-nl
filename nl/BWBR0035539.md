@@ -93,7 +93,3 @@ Deze regeling wordt aangehaald als: Regeling hulpmiddelen en aangepaste wijze of
 Het gebruik van hulpmiddelen tijdens de afname van de centrale eindtoets is **niet** toegestaan tenzij anders vermeld. Dit betekent dat didactische materialen die normaliter in het lokaal aanwezig zijn (zoals tafelkaarten, wandkaarten, etc.) **niet** mogen worden getoond of gebruikt tijdens de afname van de centrale eindtoets. Leerlingen met dyscalculie mogen **geen** rekenmachine gebruiken omdat de opgaven hier niet op zijn ontwikkeld.
 
 De volgende materialen zijn nodig/ toegestaan tijdens het maken van de centrale eindtoets:
-
-Bij de **papieren** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:
-
-Bij de **digitale adaptieve** centrale eindtoets geldt dat de volgende materialen nodig zijn tijdens het maken van de toets:
