@@ -4,7 +4,7 @@ identifier: "BWBR0035544"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-09-18"
-last_updated: "2013-04-15"
+last_updated: "2014-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035544"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Commissie:** Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=2&z=2014-09-18&g=2013-04-15);
+- a. **Commissie:** Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=2&z=2014-09-18&g=2014-09-18);
 
 - b. **VWNW:** Van Werk Naar Werk;
 
@@ -130,7 +130,11 @@ Op voordracht van werknemerszijde, namens de centrales van overheidspersoneel:
 
 ##### Artikel 8. Rapport
 
-Dit onderdeel is nog niet inwerking getreden
+1. De Commissie brengt tweemaal per jaar en desgevraagd tussentijds een rapport uit aan het Sectoroverleg Rijk.
+
+2. Indien de Commissie daartoe aanleiding ziet in de bevindingen van het onderzoek, doet zij verslag aan de secretaris-generaal van het ministerie.
+
+3. Indien onvoorziene omstandigheden naar het oordeel van de Commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij het Sectoroverleg Rijk daarvan op de hoogte.
 
 ##### Artikel 9. Vergoedingen
 
@@ -144,7 +148,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 april 2013, behalve voor zover het betreft [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=8&z=2014-09-18&g=2013-04-15) van dit besluit.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 april 2013, behalve voor zover het betreft [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=8&z=2014-09-18&g=2014-09-18) van dit besluit.
 
 ##### Artikel 11. Citeertitel
 
