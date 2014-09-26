@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2014-08-05"
+last_updated: "2014-09-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2583,7 +2583,7 @@ In Rusland is geen sprake van systematische blootstelling aan een behandeling in
 
 ### 21.4.3. Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
 
-De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangewezen.
+De IND heeft met betrekking tot Rusland geen kwetsbare minderheidsgroepen aangemerkt.
 
 ### 21.5. Bescherming
 
@@ -2597,7 +2597,7 @@ Geen bijzonderheden.
 
 ### 21.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
+Aan de hand van [paragraaf B8/6 Vc](328899) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
 Daarbij geldt voor Rusland in ieder geval dat:
 
@@ -4637,7 +4637,7 @@ Daarbij geldt voor Rusland in ieder geval dat:
 
 ### 21.5.1. Bescherming door autoriteiten en/of internationale organisaties in de zin van paragraaf C2/6 Vc
 
-Geen bijzonderheden.
+De IND acht het voor de volgende categorie niet aannemelijk dat het voor de vreemdeling mogelijk is bescherming te verkrijgen van de autoriteiten of internationale organisaties:
 
 Aan de hand van [paragraaf B8/6 Vc](onbekend) wordt beoordeeld of adequate opvang voor amv’s aanwezig is.
 
