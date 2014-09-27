@@ -4,7 +4,7 @@ identifier: "BWBR0033570"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-29"
-last_updated: "2013-07-01"
+last_updated: "2014-09-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033570"
 soort: "ministeriele-regeling"
@@ -52,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De minister verstrekt aan het Kenniscentrum een subsidie voor het geven van voorlichtingen het verstrekken van informatie aan provincies, gemeenten en waterschappen over Europese regelgeving en het Europese beleid dat voor deze organen van belang is.
+1. De minister verstrekt aan het Kenniscentrum een subsidie voor het geven van voorlichting aan, het verspreiden van kennis onder, het signaleren van relevante ontwikkelingen voor en het coördineren van rapportages en kennisgevingen door provincies, gemeenten en waterschappen op het terrein van de Europese regelgeving en het Europese beleid dat voor deze organen van belang is in de decentrale praktijk.
 
 2. De subsidie wordt per boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033570&paragraaf=1&artikel=2&z=2013-07-01&g=2013-07-01), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+De subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033570&paragraaf=1&artikel=2&z=2014-09-27&g=2014-09-27), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
 
 #### § 2. De subsidieverlening
 
@@ -76,9 +76,9 @@ Het Kenniscentrum dient de aanvraag tot subsidieverlening uiterlijk in op 1 okto
 
 3. De voorschotten worden als volgt verstrekt:
 
-- a. 50 procent van de voor een boekjaar verleende subsidie in januari van dat boekjaar;
+- a. 80 procent van de voor een boekjaar verleende subsidie in januari van dat boekjaar;
 
-- b. 50 procent van de voor een boekjaar verleende subsidie in juni van dat boekjaar.
+- b. 20 procent van de voor een boekjaar verleende subsidie in juni van dat boekjaar.
 
 4. De minister kan een voorschot een maand later verstrekken, nadat het Kenniscentrum hiervan in kennis is gesteld.
 
@@ -101,5 +101,17 @@ Deze regeling treedt in werking met ingang van 1 juli 2013 en vervalt met ingang
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Subsidieregeling Kenniscentrum Europa decentraal 2013.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 6a
+
+1. Het Kenniscentrum kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
+
+2. De jaarlijkse toevoegingen aan de egalisatiereserve bedraagt ten hoogste 5 procent van de over het boekjaar verleende subsidie. De egalisatiereserve bedraagt ten hoogste 10 procent van de over het boekjaar verleende subsidie.
+
+3. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033570&paragraaf=1&artikel=2&z=2014-09-27&g=2014-09-27).
+
+#### § 5. Overgangs- en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
