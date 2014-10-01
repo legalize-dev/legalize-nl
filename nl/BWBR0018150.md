@@ -4,7 +4,7 @@ identifier: "BWBR0018150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-05-01"
-last_updated: "2008-12-14"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018150"
 soort: "ministeriele-regeling"
@@ -51,9 +51,7 @@ In deze regeling wordt verstaan onder:
 
 - d. declarabele kosten: de door een aanbieder gemaakte administratiekosten en personeelskosten die rechtstreeks voortvloeien uit het uitvoeren van aftap- of informatieverstrekkingsactiviteiten, zoals nader aangeduid in de bij deze regeling behorende bijlage;
 
-- e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten;
-
-- f. indicatieve tarieven: bedragen die de opdrachtgever hanteert bij het vaststellen van de hoogte van de vergoeding van de declarabele kosten.
+- e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten.
 
 ##### Artikel 2
 
@@ -61,9 +59,7 @@ In deze regeling wordt verstaan onder:
 
 2. Elke kostenopgave bevat een specificatie van de verrichte werkzaamheden, als aangeduid in de bijlage bij deze regeling, en van de desbetreffende tijdsbesteding, en wordt opgesteld overeenkomstig de in de bijlage gegeven aanwijzingen.
 
-3. Voor zover de kostenopgave hoger is dan het desbetreffende indicatieve tarief, draagt de aanbieder zorg voor een nadere onderbouwing van de kostenopgave.
-
-4. Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder
+3. Op verzoek van de opdrachtgever verstrekt de aanbieder nadere informatie over de kostenopgave, waaronder
 
 - a. een toelichting op de verrichte werkzaamheden;
 
@@ -73,17 +69,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Indien de opdrachtgever van oordeel is dat de gedeclareerde kosten declarabele kosten betreffen, wordt de vergoeding vastgesteld overeenkomstig het desbetreffende indicatieve tarief.
+1. Indien de opdrachtgever van oordeel is dat de gedeclareerde kosten declarabele kosten betreffen, wordt de vergoeding vastgesteld op het door de aanbieder gedeclareerde bedrag, voor zover de gedeclareerde kosten in redelijkheid als noodzakelijk kunnen worden beschouwd.
 
-2. In afwijking van het eerste lid wordt de vergoeding vastgesteld op een bedrag dat gelijk is aan de kosten waarvan de aanbieder naar het oordeel van de opdrachtgever aannemelijk heeft gemaakt dat deze kosten declarabele kosten betreffen en dat deze kosten meer bedragen dan het indicatieve tarief, voor zover deze kosten in redelijkheid als noodzakelijk kunnen worden beschouwd.
-
-3. In afwijking van het eerste en tweede lid kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding.
+2. In afwijking van het eerste kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding.
 
 ##### Artikel 4
 
-1. De indicatieve tarieven, vermeld in de bij deze regeling behorende bijlage, worden jaarlijks met ingang van 1 juni aangepast overeenkomstig het percentage van de ontwikkeling van het contractloon in de marktsector zoals door het Centraal Planbureau vastgesteld in het meest recente Centraal Economisch Plan voor het jaar voorafgaand aan het lopende kalenderjaar. De minister maakt de aangepaste bedragen bekend door publicatie in de Staatscourant.
+1. Voor de dagelijkse informatieverstrekking, bedoeld in bijlage I, onder 5, wordt € 31,50 vergoed.
 
-2. Wijziging van de indicatieve tarieven, anders dan bedoeld in het eerste lid, vindt plaats bij ministeriële regeling in overeenstemming met de ministers van Justitie, Binnenlandse Zaken en Defensie.
+2. De in het eerste lid genoemde vergoeding wordt met ingang van 1 oktober 2015, jaarlijks op 1 oktober verhoogd met 2%. Vervolgens wordt zij iedere 5 jaar, op basis van de reële kosten van aanlevering van de gegevens, bedoeld in bijlage I, onder 5, opnieuw vastgesteld.
 
 ##### Artikel 5
 
@@ -110,5 +104,7 @@ Kostenopgaven bevatten voorts de volgende gegevens voor zover van toepassing op 
 A. Tot het tijdstip dat de eerste keer een indexering overeenkomstig [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018150&artikel=4&z=2008-12-14&g=2008-12-14), van de regeling heeft plaatsgevonden, bedragen de indicatieve tarieven voor de uitvoering van aftap- of informatieverstrekkingsactiviteiten:
 
 B. De onder A genoemde indicatieve tarieven worden met 50% respectievelijk 100 % verhoogd indien spoedshalve aftap- en informatieverstrekkingsactiviteiten buiten kantooruren respectievelijk in de weekeinden of op feestdagen moeten worden uitgevoerd.
+
+Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.
