@@ -4,7 +4,7 @@ identifier: "BWBR0036087"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-01-01"
-last_updated: "2014-01-06"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036087"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene douaneregeling.
 
 ##### Artikel XI
 
