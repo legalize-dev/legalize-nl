@@ -4,7 +4,7 @@ identifier: "BWBR0003707"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-01"
-last_updated: "2013-04-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003707"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binn
 
 ##### Artikel 2
 
-Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elders dan binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2013-04-01&g=2013-04-01) bedoelde verkeersleidingsgebieden, moeten de volgende voorschriften worden nagekomen:
+Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elders dan binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01) bedoelde verkeersleidingsgebieden, moeten de volgende voorschriften worden nagekomen:
 
 - a. Vluchten boven land, beneden een hoogte van 1000 meter (3000 voet) boven het aardoppervlak, moeten worden uitgevoerd met een lagere snelheid dan 350 knopen. Indien de vliegeigenschappen van het type luchtvaartuig, of de aard van de vluchtopdracht tot het vliegen met een hogere snelheid nopen, mag worden gevlogen met een zoveel hogere snelheid als deswege noodzakelijk is, doch niet met een hogere snelheid dan 450 knopen.
 
@@ -106,8 +106,16 @@ Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare gelu
 
 ##### Artikel 5
 
-Onverminderd het Luchtverkeersreglement, mag door of namens de militaire luchtvaart autoriteit van de vorige artikelen worden afgeweken in bijzondere gevallen.
+1. De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van [artikel 1, onderdeel e, onder 1e, en onderdeel f, onder 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01).
+
+2. Aan de ontheffing kunnen voorschriften worden verbonden.
+
+3. De ontheffing kan onder beperking worden verleend.
 
 ##### Artikel 6
 
 Deze beschikking treedt in werking met ingang van de datum van ondertekening.
+
+##### Artikel 7
+
+Deze regeling wordt aangehaald als: Regeling beperking geluidhinder luchtvaart.
