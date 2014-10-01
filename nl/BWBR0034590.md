@@ -4,7 +4,7 @@ identifier: "BWBR0034590"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-01"
-last_updated: "2014-04-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034590"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ##### Artikel II
 
-1. De [artikelen 3.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a), [3.115, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), en [6.1e, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) zijn niet van toepassing op een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), die is ingediend voor het tijdstip van inwerkingtreding van de desbetreffende artikelen.
+1. De [artikelen 3.6a](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.6a), [3.115, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.115), en [6.1e, eerste lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=6.1e) zijn niet van toepassing op een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28), die is ingediend voor 1 april 2014.
 
 2. [Artikel 3.118b van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.118b) is niet van toepassing indien de vreemdeling voor 1 januari 2014 te kennen heeft gegeven dat hij een volgende aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=28) wil indienen.
 
@@ -54,8 +54,8 @@ Wijzigt het Voorschrift Vreemdelingen 2000.
 
 Deze regeling treedt in werking met ingang van 1 januari 2014, met uitzondering van:
 
-- a. [artikel I, onderdelen A, E, H, P en S](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-04-01&g=2014-04-01), die in werking treden met ingang van 6 januari 2014, en
+- a. [artikel I, onderdelen A, E, H, P en S](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-10-01&g=2014-10-01), die in werking treden met ingang van 6 januari 2014, en
 
-- b. [artikel I, onderdelen I en R](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=I&z=2014-04-01&g=2014-04-01) en [artikel II, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=II&z=2014-04-01&g=2014-04-01), die in werking treden op een bij ministeriële regeling te bepalen tijdstip.
+- b. [artikel II, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034590&artikel=II&z=2014-10-01&g=2014-10-01), dat in werking treedt op een bij ministeriële regeling te bepalen tijdstip, waarbij kan worden bepaald dat artikel II, eerste lid, terugwerkt tot een bij die regeling te bepalen tijdstip.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
