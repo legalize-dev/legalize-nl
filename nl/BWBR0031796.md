@@ -4,7 +4,7 @@ identifier: "BWBR0031796"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031796"
 soort: "wet"
@@ -76,7 +76,7 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel 15
 
-Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing met betrekking tot belasting waarvan de verschuldigdheid is ontstaan op of na dat tijdstip, met dien verstande dat [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=7&artikel=14a&z=2014-01-01&g=2014-01-01):
+Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip en vindt voor het eerst toepassing met betrekking tot belasting waarvan de verschuldigdheid is ontstaan op of na dat tijdstip, met dien verstande dat [artikel 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=7&artikel=14a&z=2014-10-01&g=2014-10-01):
 
 - a. met ingang van 1 juli 2012 in werking treedt ingeval het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven vóór 1 juli 2012;
 
@@ -92,7 +92,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 1
 
-Onder de naam bankenbelasting wordt een belasting geheven van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&z=2014-01-01&g=2014-01-01) vermelde belastingplichtigen.
+Onder de naam bankenbelasting wordt een belasting geheven van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&z=2014-10-01&g=2014-10-01) vermelde belastingplichtigen.
 
 ##### Artikel 2
 
@@ -138,27 +138,27 @@ Belastingplichtig voor de bankenbelasting is:
 
 ##### Artikel 4
 
-1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) zijn opgenomen in een door een in Nederland gevestigd lichaam opgestelde geconsolideerde jaarrekening:
+1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01) zijn opgenomen in een door een in Nederland gevestigd lichaam opgestelde geconsolideerde jaarrekening:
 
 - a. overeenkomstig de in artikel 4 van de IAS-verordening bedoelde internationale standaarden voor jaarrekeningen die volgens de procedure van artikel 6, tweede lid, van die verordening zijn goedgekeurd, of
 
 - b. overeenkomstig [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9),
 
-is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), niet het eerstgenoemde lichaam belastingplichtig, maar het in Nederland gevestigde lichaam dat die geconsolideerde jaarrekening heeft opgesteld. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening als bedoeld in de eerste volzin, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig.
+is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01), niet het eerstgenoemde lichaam belastingplichtig, maar het in Nederland gevestigde lichaam dat die geconsolideerde jaarrekening heeft opgesteld. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening als bedoeld in de eerste volzin, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig.
 
 2. Indien de financiële gegevens van een lichaam dat ingevolge het eerste lid belastingplichtig is, zijn opgenomen in de geconsolideerde jaarrekening van een ander lichaam dat ingevolge het eerste lid belastingplichtig is, is, in afwijking van het eerste lid, alleen het laatstgenoemde lichaam belastingplichtig.
 
-3. Het eerste lid vindt geen toepassing indien het balanstotaal van het lichaam, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), van wie de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, bedoeld in het eerste lid, of, ingeval de financiële gegevens van meerdere lichamen als bedoeld in artikel 3 zijn opgenomen in die geconsolideerde jaarrekening, het gezamenlijke bedrag van de balanstotalen van die lichamen:
+3. Het eerste lid vindt geen toepassing indien het balanstotaal van het lichaam, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01), van wie de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, bedoeld in het eerste lid, of, ingeval de financiële gegevens van meerdere lichamen als bedoeld in artikel 3 zijn opgenomen in die geconsolideerde jaarrekening, het gezamenlijke bedrag van de balanstotalen van die lichamen:
 
-- a. minder bedraagt dan het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-01-01&g=2014-01-01) genoemde bedrag van de doelmatigheidsvrijstelling, of
+- a. minder bedraagt dan het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-10-01&g=2014-10-01) genoemde bedrag van de doelmatigheidsvrijstelling, of
 
 - b. minder bedraagt dan 10% van het geconsolideerde balanstotaal zoals dat blijkt uit die geconsolideerde jaarrekening.
 
 ##### Artikel 5
 
-1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) niet zijn opgenomen in een door een ander, in Nederland gevestigd, lichaam opgestelde geconsolideerde jaarrekening omdat het laatstgenoemde lichaam met toepassing van [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) daarvan heeft mogen afzien, is, in afwijking van artikel 3, het laatstgenoemde lichaam belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 niet zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening omdat dat lichaam met toepassing van artikel 403 van Boek 2 van het Burgerlijk Wetboek daarvan heeft mogen afzien, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam.
+1. Indien de financiële gegevens van een lichaam als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01) niet zijn opgenomen in een door een ander, in Nederland gevestigd, lichaam opgestelde geconsolideerde jaarrekening omdat het laatstgenoemde lichaam met toepassing van [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) daarvan heeft mogen afzien, is, in afwijking van artikel 3, het laatstgenoemde lichaam belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam. Indien de financiële gegevens van een lichaam als bedoeld in artikel 3 niet zijn opgenomen in een door dat lichaam opgestelde geconsolideerde jaarrekening omdat dat lichaam met toepassing van artikel 403 van Boek 2 van het Burgerlijk Wetboek daarvan heeft mogen afzien, is dat lichaam niet op grond van artikel 3 maar op grond van dit artikel belastingplichtig indien de schriftelijke verklaring, bedoeld in artikel 403, onderdeel f, van Boek 2 van het Burgerlijk Wetboek, die is vereist voor het mogen afzien van een geconsolideerde jaarrekening, is afgegeven door een niet in Nederland gevestigd lichaam.
 
-2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+2. [Artikel 4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-10-01&g=2014-10-01), is van overeenkomstige toepassing.
 
 #### § 3. Belastbare grondslag
 
@@ -166,21 +166,21 @@ is, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796
 
 1. De belasting wordt geheven naar het belastbare bedrag.
 
-2. Het belastbare bedrag is de belastbare som, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01), verminderd met de doelmatigheidsvrijstelling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-01-01&g=2014-01-01).
+2. Het belastbare bedrag is de belastbare som, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-10-01&g=2014-10-01), verminderd met de doelmatigheidsvrijstelling, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-10-01&g=2014-10-01).
 
 ##### Artikel 7
 
-1. Indien sprake is van een belastingplichtige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), is de belastbare som het balanstotaal van de balans, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-01-01&g=2014-01-01) genoemde passiva van die balans.
+1. Indien sprake is van een belastingplichtige als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01), is de belastbare som het balanstotaal van de balans, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-10-01&g=2014-10-01) genoemde passiva van die balans.
 
-2. Indien sprake is van een belastingplichtige als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01), is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-01-01&g=2014-01-01) genoemde passiva van die geconsolideerde balans.
+2. Indien sprake is van een belastingplichtige als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-10-01&g=2014-10-01), is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-10-01&g=2014-10-01) genoemde passiva van die geconsolideerde balans.
 
-3. Indien sprake is van een belastingplichtige als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans van de geconsolideerde jaarrekening die zou moeten zijn opgesteld als [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) niet van toepassing zou zijn geweest, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-01-01&g=2014-01-01) genoemde passiva van die geconsolideerde balans.
+3. Indien sprake is van een belastingplichtige als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-10-01&g=2014-10-01), is de belastbare som het geconsolideerde balanstotaal van de geconsolideerde balans van de geconsolideerde jaarrekening die zou moeten zijn opgesteld als [artikel 403 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=403) niet van toepassing zou zijn geweest, verminderd met de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=8&z=2014-10-01&g=2014-10-01) genoemde passiva van die geconsolideerde balans.
 
 ##### Artikel 8
 
-De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01), zijn:
+De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-10-01&g=2014-10-01), zijn:
 
-- a. ten aanzien van een belastingplichtige als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01):
+- a. ten aanzien van een belastingplichtige als bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01), [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=4&z=2014-10-01&g=2014-10-01) of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-10-01&g=2014-10-01):
 
 - 1°. het toetsingsvermogen;
 
@@ -188,7 +188,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 - 3°. de passiva die betrekking hebben op de entiteit die het bedrijf van verzekeraar uitoefent;
 
-- b. ten aanzien van een belastingplichtige als bedoeld in [artikel 3, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01):
+- b. ten aanzien van een belastingplichtige als bedoeld in [artikel 3, onderdelen b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=3&z=2014-10-01&g=2014-10-01):
 
 - 1°. de passiva die niet zijn toe te rekenen aan het in Nederland gelegen bijkantoor;
 
@@ -200,7 +200,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 1. De doelmatigheidsvrijstelling bedraagt € 20 000 000 000.
 
-2. Indien het bedrag van de belastbare som, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01), minder is dan € 20 000 000 000, bedraagt de doelmatigheidsvrijstelling het bedrag van de belastbare som.
+2. Indien het bedrag van de belastbare som, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-10-01&g=2014-10-01), minder is dan € 20 000 000 000, bedraagt de doelmatigheidsvrijstelling het bedrag van de belastbare som.
 
 #### § 4. Tarief
 
@@ -212,7 +212,7 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 - b. 0,022% over het resterende deel van het belastbare bedrag.
 
-2. Indien de variabele beloning van ten minste één bestuurder van de belastingplichtige over het boekjaar waarover de balans of de geconsolideerde balans wordt opgemaakt meer bedraagt dan 100% van diens vaste beloning, worden de belastingpercentages, genoemd in het eerste lid, vermenigvuldigd met een factor 1,1.
+2. Indien de variabele beloning van ten minste één bestuurder van de belastingplichtige over het boekjaar waarover de balans of de geconsolideerde balans wordt opgemaakt meer bedraagt dan 25% van diens vaste beloning, worden de belastingpercentages, genoemd in het eerste lid, vermenigvuldigd met een factor 1,1.
 
 #### § 5. Wijze van heffing
 
@@ -224,13 +224,13 @@ De passiva, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00317
 
 3. Indien de voor de belastingheffing in aanmerking te nemen jaarrekening nog niet is vastgesteld op het tijdstip waarop de belasting op grond van het tweede lid zou zijn verschuldigd, wordt de belasting niet op dat tijdstip verschuldigd, maar op de eerste dag van de kalendermaand na het tijdstip waarop die jaarrekening is vastgesteld.
 
-4. In afwijking van het tweede en derde lid wordt bij een belastingplichtige als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) de belasting verschuldigd op de eerste dag van de tiende kalendermaand na de datum naar welke de geconsolideerde balans zou moeten zijn opgemaakt als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-01-01&g=2014-01-01).
+4. In afwijking van het tweede en derde lid wordt bij een belastingplichtige als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=2&artikel=5&z=2014-10-01&g=2014-10-01) de belasting verschuldigd op de eerste dag van de tiende kalendermaand na de datum naar welke de geconsolideerde balans zou moeten zijn opgemaakt als bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=7&z=2014-10-01&g=2014-10-01).
 
 #### § 6. Indexatie
 
 ##### Artikel 12
 
-De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-01-01&g=2014-01-01) vermelde bedragen worden elke vijf jaar met ingang van 1 januari van een jaar bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats op 1 januari 2018. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als correctiefactor wordt genomen het product van de tabelcorrectiefactoren van de laatste vijf kalenderjaren. Bij de berekening wordt het bedrag van de doelmatigheidsvrijstelling naar boven afgerond op een veelvoud van € 100 000 000.
+De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031796&paragraaf=3&artikel=9&z=2014-10-01&g=2014-10-01) vermelde bedragen worden elke vijf jaar met ingang van 1 januari van een jaar bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats op 1 januari 2018. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing, met dien verstande dat als correctiefactor wordt genomen het product van de tabelcorrectiefactoren van de laatste vijf kalenderjaren. Bij de berekening wordt het bedrag van de doelmatigheidsvrijstelling naar boven afgerond op een veelvoud van € 100 000 000.
 
 #### § 7. Overige bepalingen
 
