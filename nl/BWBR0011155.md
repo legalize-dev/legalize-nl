@@ -4,7 +4,7 @@ identifier: "BWBR0011155"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-01"
-last_updated: "2000-03-02"
+last_updated: "2014-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011155"
 soort: "ministeriele-regeling"
@@ -73,6 +73,10 @@ Er wordt ingesteld de Kosovo-medaille.
 - f. Provide Shelter.
 
 2. De in het eerste lid bedoelde personen dienen bij hun deelname en optreden in alle opzichten een goede plichtsbetrachting en een goed gedrag te hebben getoond.
+
+3. De mogelijkheid tot toekenning van de Kosovo-medaille eindigt met ingang van 1 januari 2015.
+
+4. Het derde lid vindt geen toepassing ten aanzien van aanvragen om toekenning van de Kosovo-medaille, die bij het Ministerie van Defensie zijn ontvangen vóór 1 januari 2015.
 
 ##### Artikel 4
 
