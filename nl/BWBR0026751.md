@@ -4,7 +4,7 @@ identifier: "BWBR0026751"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2022-11-09"
-last_updated: "2009-12-03"
+last_updated: "2014-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026751"
 soort: "beleidsregel"
@@ -335,11 +335,23 @@ Ik vind deze situatie niet redelijk. Daarom keur ik met toepassing van [artikel 
 
 De goedkeuring geldt voor het kalenderjaar waarin de nieuwe woning is gekocht en de twee daaropvolgende jaren.
 
-### 4. Echtscheidingsregeling
+### 3.7. Woning in aanbouw
+
+In twee arresten van 3 oktober 2014 heeft de Hoge Raad geoordeeld dat de wet geen hypotheekrenteaftrek toestaat voor een woning tot het moment van heien of het leggen van de fundering (ECLI:NL:HR:2014:2872 en ECLI:NL:HR:2014:2873). De Hoge Raad geeft hiermee een uitleg aan het begrip woning in aanbouw in de zin van [artikel 3.111, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111). In de nota naar aanleiding van het verslag bij het Belastingplan 2015 heb ik namens het kabinet gereageerd op deze arresten (Kamerstukken II 2014/15, 34 002, nr. 10, blz. 37–38). De Hoge Raad heeft naar de mening van het kabinet in de genoemde arresten terecht geoordeeld dat in die concrete situatie geen sprake is van een woning in aanbouw voor de eigenwoningregeling. Een stuk grond waarbij de belanghebbende enkel de intentie heeft om te gaan bouwen, kwalificeert ook naar de opvatting van het kabinet niet als zodanig. De uitleg van de Hoge Raad van het begrip woning in aanbouw in de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) in meer algemene zin is echter een andere dan die de wetgever bij de totstandkoming van de Wet IB 2001 voor ogen heeft gestaan. De wetgever beoogde ook in de situatie dat concrete stappen zijn gezet waaruit naar redelijke verwachting valt aan te nemen dat de bouwwerkzaamheden binnen afzienbare tijd gaan beginnen, sprake te laten zijn van een woning in aanbouw in de zin van artikel 3.111, derde lid, van de Wet IB 2001. Deze uitleg van het begrip woning in aanbouw voor de eigenwoningregeling wordt in de praktijk ook toegepast door de Belastingdienst.
+
+Ik wil de nu ontstane onduidelijkheid inzake het begrip woning in aanbouw wegnemen. Daarom keur ik het volgende goed vooruitlopend op wijziging van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
+
+Ik keur goed dat in afwijking van de genoemde arresten ook sprake kan zijn van een woning in aanbouw in de zin van [artikel 3.111, derde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) als er voldoende concrete stappen zijn gezet op grond waarvan naar redelijke verwachting valt aan te nemen dat de bouwkundige werkzaamheden binnen afzienbare tijd gaan beginnen.
+
+Ingeval van nieuwbouw is sprake van een woning in aanbouw vanaf het moment van sluiten van de koop-/aannemingsovereenkomst als belastingplichtige aannemelijk maakt dat die woning in aanbouw uitsluitend bestemd is om hem in het kalenderjaar van het moment van het sluiten van de koop-/aanneemovereenkomst of een van de drie daaropvolgende jaren als hoofdverblijf ter beschikking te staan.
+
+### 4.1. Verhuur aan ex-partner
+
+De echtscheidingsregeling geldt ook als de vertrekkende partner-eigenaar de voormalige eigen woning verhuurt aan de ex-partner. De regeling geldt immers (voor maximaal twee jaar) als de woning de gewezen partner anders dan tijdelijk als hoofdverblijf ter beschikking staat ([artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Het maakt daarbij niet uit onder welke voorwaarden de ex-partner die in de woning blijft wonen de woning gebruikt. Ik merk op dat de tijdelijke verhuurregeling van artikel 3.111, zevende lid, en [3.113, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.113), niet geldt. De tijdelijke verhuurregeling is alleen van toepassing als de eigen woning het hoofdverblijf is gebleven. In dit geval heeft de vertrekkende ex-partner zijn hoofdverblijf verplaatst naar elders.
 
 De zogenoemde echtscheidingsregeling geldt voor de belastingplichtige die zijn eigen woning heeft verlaten zolang zijn ex-partner de woning als hoofdverblijf heeft. De eigenwoningregeling wordt dan nog maximaal twee jaar toegepast ([artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Bij toepassing van de echtscheidingsregeling wordt het eigenwoningforfait normaal toegepast ([artikel 3.112 van de wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.112)). Als de voordelen hoger zijn dan de aftrekbare kosten, geldt de aftrek wegens geen of geringe eigenwoningschuld ([artikel 3.123a van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.123a)).
 
-Als de ex-partner binnen die twee jaren de woning verlaat, is niet voldaan aan de voorwaarden van de verhuisregeling. De woning was voor de eigenaar al geen hoofdverblijf meer (voor zijn deel). De woning stond immers na het vertrek van de eigenaar niet leeg.
+### 5. Awbz-regeling. opname partner in een awbz-instelling
 
 Een echtpaar gaat op 1 juli 2005 duurzaam gescheiden leven. De vrouw verhuist. De woning is haar eigendom. De man blijft tot 1 maart 2007 in de woning wonen. Na zijn verhuizing wordt de woning te koop gezet en verkocht op 1 september 2007. Tot 1 maart 2007 geldt voor de vrouw de scheidingsregeling. Die bepaling geldt niet meer als de voormalige partner verhuist. Na 1 maart 2007 kan ook de verhuisregeling niet gelden.
 
@@ -349,37 +361,63 @@ Ik vind deze situatie niet gewenst. Daarom keur ik met toepassing van [artikel 6
 
 De echtscheidingsregeling geldt ook als de vertrekkende partner-eigenaar de voormalige eigen woning verhuurt aan de ex-partner. De regeling geldt immers (voor maximaal twee jaar) als de woning de gewezen partner anders dan tijdelijk als hoofdverblijf ter beschikking staat ([artikel 3.111, vierde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Het maakt daarbij niet uit onder welke voorwaarden de ex-partner die in de woning blijft wonen de woning gebruikt. Ik merk op dat de tijdelijke verhuurregeling van artikel 3.111, zevende lid, en [3.113, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.113), niet geldt. De tijdelijke verhuurregeling is alleen van toepassing als de eigen woning het hoofdverblijf is gebleven. In dit geval heeft de vertrekkende ex-partner zijn hoofdverblijf verplaatst naar elders.
 
-Voor de renteaftrek geldt als uitgangspunt dat de betaalde hypotheekrente niet hoeft te worden gesaldeerd met de huur. Ondanks de huurbetaling blijft de eigenwoningrente drukken op de vertrekkende partner. Huur is geen (directe) vergoeding voor de betaalde rente, maar een vergoeding voor het gebruik van de woning.
-
-### 5. Awbz-regeling. opname partner in een awbz-instelling
-
-Bij opname in een AWBZ-instelling geldt de eigenwoningregeling nog twee jaar ([artikel 3.111, vijfde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Bij partners zal de andere partner (doorgaans) in de eigen woning blijven wonen. In dat geval geldt de eigenwoningregeling voor de gehele woning, ook als de woning (deels) eigendom is van degene die is opgenomen. Voorwaarde is wel dat sprake is van fiscaal partnerschap in de zin van [artikel 1.2 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2).
-
-Na verloop van twee jaar geldt de AWBZ-regeling niet meer en is het volgende van belang. Bij niet-tijdelijke opname in de AWBZ-instelling kunnen partners ervoor kiezen om niet als duurzaam gescheiden levend te worden aangemerkt. Voor de opgenomen partner zal de AWBZ-instelling het hoofdverblijf zijn, terwijl de ander het hoofdverblijf thuis heeft. De fiscale partners hebben niet hetzelfde hoofdverblijf. Voor de toepassing van de eigenwoningregeling moeten beide echtgenoten gezamenlijk bij de aangifte kiezen dat de echtelijke woning als hoofdverblijf wordt aangemerkt ([artikel 3.111, achtste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Die keuze wordt gemaakt door in het aangiftebiljet bij de eigenwoningvraag de inkomsten in te vullen van de woning waarin de partner nog woont. Omdat de inkomsten uit eigen woning een gemeenschappelijk inkomensbestanddeel vormen, kunnen zij dit inkomen vrij aan elkaar toerekenen, dus ook aan de partner die in de instelling is opgenomen.
-
-### 6. Uitzendregeling
-
-In [artikel 3.111, zesde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), is de zogenoemde uitzendregeling opgenomen. De uitzendregeling is niet beperkt tot woningen in Nederland. Voor personen die vóór de uitzending naar Nederland niet in Nederland woonden, is de uitzendregeling echter slechts van toepassing als de buitenlandse woning vóór de immigratie als hoofdverblijf in de Nederlandse belastingheffing is betrokken.
-
 ### 6.1. Eenjaarsbewoningseis
 
 Voor de uitzendregeling moet de woning een jaar hoofdverblijf zijn geweest, als bedoeld in [artikel 3.111, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111). Het criterium is niet of voor de belastingplichtige de eigenwoningregeling al een jaar van toepassing was. Als een vorige woning ook een eigen woning was, kan de periode waarover de oude en nieuwe woning samen hoofdverblijf zijn, dus niet worden samengeteld. Ook bij een nieuwbouwwoning telt alleen de periode mee dat de woning ná de oplevering hoofdverblijf is geweest.
 
-Verzoeken om met toepassing van de hardheidsclausule af te wijken van de eenjaarsbewoningseis, wijs ik af. Tussen twee opvolgende uitzendingen mag wel een periode van minder dan één jaar zitten.
+Bij opname in een AWBZ-instelling geldt de eigenwoningregeling nog twee jaar ([artikel 3.111, vijfde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Bij partners zal de andere partner (doorgaans) in de eigen woning blijven wonen. In dat geval geldt de eigenwoningregeling voor de gehele woning, ook als de woning (deels) eigendom is van degene die is opgenomen. Voorwaarde is wel dat sprake is van fiscaal partnerschap in de zin van [artikel 1.2 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.2).
 
 ### 6.2. Uitzending en terbeschikkingstelling aan derden
 
 Voor de uitzendregeling mag de woning tijdens de gehele periode van de uitzending (naar het buitenland) niet aan derden ter beschikking worden gesteld. Dit geldt voor elke terbeschikkingstelling aan derden, en dus ook als de woning deels ter beschikking is gesteld, ongeacht de hoogte van de vergoeding.
 
-Er geldt geen uitzondering voor kamerverhuur als bedoeld in [artikel 3.114 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.114). De uitzendregeling geldt dus ook niet bij ter beschikkingstelling aan derden zonder vergoeding of tegen een vergoeding die lager is dan het maximale bedrag voor de kamerverhuurvrijstelling.
+In [artikel 3.111, zesde lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), is de zogenoemde uitzendregeling opgenomen. De uitzendregeling is niet beperkt tot woningen in Nederland. Voor personen die vóór de uitzending naar Nederland niet in Nederland woonden, is de uitzendregeling echter slechts van toepassing als de buitenlandse woning vóór de immigratie als hoofdverblijf in de Nederlandse belastingheffing is betrokken.
 
 Kinderen die na uitzending achterblijven zijn in dit kader ook derden.
 
-Ik keur met toepassing van de [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de uitzendregeling kan worden toegepast als kinderen in de woning blijven wonen. De goedkeuring geldt zolang is voldaan aan elk van de volgende voorwaarden.
+Voor de uitzendregeling moet de woning een jaar hoofdverblijf zijn geweest, als bedoeld in [artikel 3.111, eerste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111). Het criterium is niet of voor de belastingplichtige de eigenwoningregeling al een jaar van toepassing was. Als een vorige woning ook een eigen woning was, kan de periode waarover de oude en nieuwe woning samen hoofdverblijf zijn, dus niet worden samengeteld. Ook bij een nieuwbouwwoning telt alleen de periode mee dat de woning ná de oplevering hoofdverblijf is geweest.
 
-De hiervoor bedoelde kinderen worden in dit kader niet gezien als derden. Als die kinderen verhuizen, kan de uitzendregeling dus van toepassing blijven.
+Verzoeken om met toepassing van de hardheidsclausule af te wijken van de eenjaarsbewoningseis, wijs ik af. Tussen twee opvolgende uitzendingen mag wel een periode van minder dan één jaar zitten.
 
 De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+
+### 6.3. De woning wordt gebruikt tijdens de vakantie
+
+Er geldt geen uitzondering voor kamerverhuur als bedoeld in [artikel 3.114 van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.114). De uitzendregeling geldt dus ook niet bij ter beschikkingstelling aan derden zonder vergoeding of tegen een vergoeding die lager is dan het maximale bedrag voor de kamerverhuurvrijstelling.
+
+### 7. Ingetrokken regelingen
+
+Ik keur met toepassing van de [artikel 63 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=63) (de hardheidsclausule) goed dat de uitzendregeling kan worden toegepast als kinderen in de woning blijven wonen. De goedkeuring geldt zolang is voldaan aan elk van de volgende voorwaarden.
+
+### 8. Inwerkingtreding
+
+De tijdelijke verhuurregeling van [artikel 3.111, zevende lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), geldt bij uitzending niet. De tijdelijke verhuurregeling is namelijk alleen van toepassing wanneer het hoofdverblijf niet wordt verplaatst, zoals bij vakanties en kortstondig verblijf in het buitenland. De tijdelijke verhuurregeling is niet van toepassing als een andere woning het hoofdverblijf is. Bij de uitzendregeling is het hoofdverblijf verplaatst.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+Bij een bouwkavel gaat het om een weging van de feiten en omstandigheden in het individuele geval om te bepalen vanaf welk moment sprake is van een woning in aanbouw. Als belastingplichtige een bouwkavel heeft en de bouwkundige werkzaamheden zijn begonnen, dan geldt het volgende. In die situatie kan worden aangenomen dat in ieder geval vanaf zes maanden voorafgaand aan de start van de feitelijke bouwwerkzaamheden, sprake is van een woning in aanbouw. De belastingplichtige moet dan wel aannemelijk maken dat die woning in aanbouw vanaf zes maanden voorafgaand aan de start van de feitelijke bouwwerkzaamheden, uitsluitend bestemd is om hem in het kalenderjaar of een van de drie daaropvolgende jaren als hoofdverblijf ter beschikking te staan.
+
+### 4. Echtscheidingsregeling
+
+Als de ex-partner binnen die twee jaren de woning verlaat, is niet voldaan aan de voorwaarden van de verhuisregeling. De woning was voor de eigenaar al geen hoofdverblijf meer (voor zijn deel). De woning stond immers na het vertrek van de eigenaar niet leeg.
+
+Voor de renteaftrek geldt als uitgangspunt dat de betaalde hypotheekrente niet hoeft te worden gesaldeerd met de huur. Ondanks de huurbetaling blijft de eigenwoningrente drukken op de vertrekkende partner. Huur is geen (directe) vergoeding voor de betaalde rente, maar een vergoeding voor het gebruik van de woning.
+
+### 5. Awbz-regeling. opname partner in een awbz-instelling
+
+Na verloop van twee jaar geldt de AWBZ-regeling niet meer en is het volgende van belang. Bij niet-tijdelijke opname in de AWBZ-instelling kunnen partners ervoor kiezen om niet als duurzaam gescheiden levend te worden aangemerkt. Voor de opgenomen partner zal de AWBZ-instelling het hoofdverblijf zijn, terwijl de ander het hoofdverblijf thuis heeft. De fiscale partners hebben niet hetzelfde hoofdverblijf. Voor de toepassing van de eigenwoningregeling moeten beide echtgenoten gezamenlijk bij de aangifte kiezen dat de echtelijke woning als hoofdverblijf wordt aangemerkt ([artikel 3.111, achtste lid, van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111)). Die keuze wordt gemaakt door in het aangiftebiljet bij de eigenwoningvraag de inkomsten in te vullen van de woning waarin de partner nog woont. Omdat de inkomsten uit eigen woning een gemeenschappelijk inkomensbestanddeel vormen, kunnen zij dit inkomen vrij aan elkaar toerekenen, dus ook aan de partner die in de instelling is opgenomen.
+
+### 6. Uitzendregeling
+
+### 6.1. Eenjaarsbewoningseis
+
+### 6.2. Uitzending en terbeschikkingstelling aan derden
+
+Voor de uitzendregeling mag de woning tijdens de gehele periode van de uitzending (naar het buitenland) niet aan derden ter beschikking worden gesteld. Dit geldt voor elke terbeschikkingstelling aan derden, en dus ook als de woning deels ter beschikking is gesteld, ongeacht de hoogte van de vergoeding.
+
+Kinderen die na uitzending achterblijven zijn in dit kader ook derden.
+
+De hiervoor bedoelde kinderen worden in dit kader niet gezien als derden. Als die kinderen verhuizen, kan de uitzendregeling dus van toepassing blijven.
 
 ### 6.3. De woning wordt gebruikt tijdens de vakantie
 
