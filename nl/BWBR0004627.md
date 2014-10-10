@@ -4,7 +4,7 @@ identifier: "BWBR0004627"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-07-01"
+last_updated: "2014-10-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004627"
 soort: "wet"
@@ -126,15 +126,15 @@ De leden van provinciale staten worden gekozen door degenen die op de dag van de
 
 ##### Artikel C 2
 
-1. De leden van de Tweede Kamer, gekozen na ontbinding van de kamer, treden tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de eerstvolgende donderdag in de in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-07-01&g=2014-07-01), tweede lid, bedoelde periode nadat vier jaren zijn verstreken sedert de zitting van het centraal stembureau waarin de uitslag van de verkiezing is bekendgemaakt.
+1. De leden van de Tweede Kamer, gekozen na ontbinding van de kamer, treden tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de eerstvolgende donderdag in de in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-10-10&g=2014-10-10), tweede lid, bedoelde periode nadat vier jaren zijn verstreken sedert de zitting van het centraal stembureau waarin de uitslag van de verkiezing is bekendgemaakt.
 
-2. Indien deze vier jaren eindigen in een periode, aanvangend met het in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-07-01&g=2014-07-01), tweede lid, bedoelde tijdstip en op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip eindigend op de donderdag in de periode van 19 tot en met 25 mei, treden zij af met ingang van de eerstvolgende donderdag in de in dat lid bedoelde periode nadat drie jaren zijn verstreken sedert de zitting van het centraal stembureau.
+2. Indien deze vier jaren eindigen in een periode, aanvangend met het in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-10-10&g=2014-10-10), tweede lid, bedoelde tijdstip en op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip eindigend op de donderdag in de periode van 19 tot en met 25 mei, treden zij af met ingang van de eerstvolgende donderdag in de in dat lid bedoelde periode nadat drie jaren zijn verstreken sedert de zitting van het centraal stembureau.
 
 ##### Artikel C 3
 
-1. Indien het in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-07-01&g=2014-07-01), tweede lid, of in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_2&z=2014-07-01&g=2014-07-01) bepaalde tijdstip valt in een jaar waarin de verkiezingen van de leden van provinciale staten onderscheidenlijk de gemeenteraad worden gehouden, treden de leden van de Tweede Kamer tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de donderdag in de periode van 19 tot en met 25 mei.
+1. Indien het in [artikel C 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-10-10&g=2014-10-10), tweede lid, of in [artikel C 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_2&z=2014-10-10&g=2014-10-10) bepaalde tijdstip valt in een jaar waarin de verkiezingen van de leden van provinciale staten onderscheidenlijk de gemeenteraad worden gehouden, treden de leden van de Tweede Kamer tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de donderdag in de periode van 19 tot en met 25 mei.
 
-2. De leden van de Tweede Kamer die zijn gekozen ter vervulling van de plaatsen van leden die op het in het eerste lid genoemde tijdstip zijn afgetreden, treden, tenzij zich opnieuw het geval als bedoeld in het eerste lid voordoet, tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de eerstvolgende donderdag in de in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-07-01&g=2014-07-01), bedoelde periode nadat drie jaren zijn verstreken sedert de zitting van het centraal stembureau waarin de uitslag van de verkiezing is bekendgemaakt.
+2. De leden van de Tweede Kamer die zijn gekozen ter vervulling van de plaatsen van leden die op het in het eerste lid genoemde tijdstip zijn afgetreden, treden, tenzij zich opnieuw het geval als bedoeld in het eerste lid voordoet, tegelijk af op een door de Voorzitter van de Tweede Kamer te bepalen tijdstip op de eerstvolgende donderdag in de in [artikel C 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_1&z=2014-10-10&g=2014-10-10), bedoelde periode nadat drie jaren zijn verstreken sedert de zitting van het centraal stembureau waarin de uitslag van de verkiezing is bekendgemaakt.
 
 ##### Artikel C 4
 
@@ -154,17 +154,17 @@ Burgemeester en wethouders registreren de kiesgerechtigdheid van de ingezetenen 
 
 ##### Artikel D 3
 
-1. Burgemeester en wethouders van 's-Gravenhage registreren voor elke verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen, bedoeld in [artikel B 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-07-01&g=2014-07-01), die op de dag van kandidaatstelling hun werkelijke woonplaats buiten Nederland hebben, indien dezen daartoe een schriftelijk verzoek hebben ingediend.
+1. Burgemeester en wethouders van 's-Gravenhage registreren voor elke verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen, bedoeld in [artikel B 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-10-10&g=2014-10-10), die op de dag van kandidaatstelling hun werkelijke woonplaats buiten Nederland hebben, indien dezen daartoe een schriftelijk verzoek hebben ingediend.
 
 2. Het verzoek wordt ingediend bij burgemeester en wethouders van ’s-Gravenhage of bij het hoofd van de consulaire post waaronder de woonplaats van verzoeker ressorteert. Het hoofd van de consulaire post zendt het verzoekschrift zo spoedig mogelijk door naar burgemeester en wethouders van 's-Gravenhage.
 
 ##### Artikel D 3a
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties registreert voor elke verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen, bedoeld in [artikel B 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-07-01&g=2014-07-01), indien zij daartoe een schriftelijk verzoek hebben ingediend.
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties registreert voor elke verkiezing van de Tweede Kamer de kiesgerechtigdheid van personen, bedoeld in [artikel B 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-10-10&g=2014-10-10), indien zij daartoe een schriftelijk verzoek hebben ingediend.
 
-2. De persoon, bedoeld in [artikel B 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-07-01&g=2014-07-01), dient het verzoekschrift in bij de vertegenwoordiger van Nederland in het land waar hij op de dag van kandidaatstelling zijn werkelijke woonplaats heeft.
+2. De persoon, bedoeld in [artikel B 1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-10-10&g=2014-10-10), dient het verzoekschrift in bij de vertegenwoordiger van Nederland in het land waar hij op de dag van kandidaatstelling zijn werkelijke woonplaats heeft.
 
-3. De persoon, bedoeld in [artikel B 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-07-01&g=2014-07-01), die niet gedurende ten minste tien jaren zijn werkelijke woonplaats in Nederland heeft gehad, dient het verzoek in bij Onze Minister onder wiens ministerie de werkzaamheden van de betrokken functionaris ressorteren. Deze zendt het verzoekschrift zo spoedig mogelijk door naar de vertegenwoordiger van Nederland in het land waar de functionaris op de dag van kandidaatstelling zijn werkelijke woonplaats heeft.
+3. De persoon, bedoeld in [artikel B 1, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-10-10&g=2014-10-10), die niet gedurende ten minste tien jaren zijn werkelijke woonplaats in Nederland heeft gehad, dient het verzoek in bij Onze Minister onder wiens ministerie de werkzaamheden van de betrokken functionaris ressorteren. Deze zendt het verzoekschrift zo spoedig mogelijk door naar de vertegenwoordiger van Nederland in het land waar de functionaris op de dag van kandidaatstelling zijn werkelijke woonplaats heeft.
 
 ##### Artikel D 4
 
@@ -176,7 +176,7 @@ Een ieder kan schriftelijk om herziening van de registratie verzoeken op de gron
 
 ##### Artikel D 6
 
-Op het verzoek om herziening wordt uiterlijk de zevende dag na ontvangst beslist. Zo nodig worden de registers bedoeld in de [artikelen D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01), en [D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01), hiermee in overeenstemming gebracht.
+Op het verzoek om herziening wordt uiterlijk de zevende dag na ontvangst beslist. Zo nodig worden de registers bedoeld in de [artikelen D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10), en [D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10), hiermee in overeenstemming gebracht.
 
 ##### Artikel D 7
 
@@ -184,11 +184,11 @@ De beslissing wordt onverwijld aan de verzoeker bekendgemaakt.
 
 ##### Artikel D 8
 
-Burgemeester en wethouders van ’s-Gravenhage, dan wel Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, verwijderen een persoon uit het register, bedoeld in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01), respectievelijk [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01), indien aan hen omstandigheden bekend worden op grond waarvan de desbetreffende persoon niet als kiezer behoort te zijn geregistreerd. De verwijdering wordt onverwijld aan deze persoon bekend gemaakt.
+Burgemeester en wethouders van ’s-Gravenhage, dan wel Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, verwijderen een persoon uit het register, bedoeld in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10), respectievelijk [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10), indien aan hen omstandigheden bekend worden op grond waarvan de desbetreffende persoon niet als kiezer behoort te zijn geregistreerd. De verwijdering wordt onverwijld aan deze persoon bekend gemaakt.
 
 ##### Artikel D 9
 
-1. [Titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) is niet van toepassing op beschikkingen als bedoeld in de [artikelen D 3b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-07-01&g=2014-07-01), [D 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_6&z=2014-07-01&g=2014-07-01) en [D 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_8&z=2014-07-01&g=2014-07-01).
+1. [Titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) is niet van toepassing op beschikkingen als bedoeld in de [artikelen D 3b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-10-10&g=2014-10-10), [D 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_6&z=2014-10-10&g=2014-10-10) en [D 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_8&z=2014-10-10&g=2014-10-10).
 
 2. In afwijking van [artikel 8:41, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41) bedraagt de termijn binnen welke de bijschrijving of storting van het verschuldigde bedrag dient plaats te vinden, twee weken. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State kan een kortere termijn stellen.
 
@@ -248,7 +248,7 @@ Vervallen
 
 ##### Artikel E 5
 
-1. Voor de verkiezing van de leden van de Tweede Kamer wordt voor elke kieskring een hoofdstembureau ingesteld. Het is gevestigd in de gemeente, daartoe aangewezen in de tabel, genoemd in [artikel E 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=1&artikel=E_1&z=2014-07-01&g=2014-07-01).
+1. Voor de verkiezing van de leden van de Tweede Kamer wordt voor elke kieskring een hoofdstembureau ingesteld. Het is gevestigd in de gemeente, daartoe aangewezen in de tabel, genoemd in [artikel E 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=1&artikel=E_1&z=2014-10-10&g=2014-10-10).
 
 2. Het hoofdstembureau bestaat uit vijf leden, van wie er één voorzitter en één plaatsvervangend voorzitter is.
 
@@ -270,7 +270,7 @@ Vervallen
 
 ##### Artikel E 8
 
-De in de [artikelen E 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_5&z=2014-07-01&g=2014-07-01), [E 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_6&z=2014-07-01&g=2014-07-01), [E 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_6a&z=2014-07-01&g=2014-07-01) en [E 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_7&z=2014-07-01&g=2014-07-01) bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden.
+De in de [artikelen E 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_5&z=2014-10-10&g=2014-10-10), [E 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_6&z=2014-10-10&g=2014-10-10), [E 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_6a&z=2014-10-10&g=2014-10-10) en [E 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=3&artikel=E_7&z=2014-10-10&g=2014-10-10) bedoelde benoemingen geschieden voor vier kalenderjaren. Degene die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, zou hebben moeten aftreden.
 
 ##### Artikel E 9
 
@@ -302,7 +302,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels gesteld worden omtrent i
 
 1. De kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer, provinciale staten, het algemeen bestuur en de gemeenteraad vindt plaats op de maandag in de periode van 30 januari tot en met 5 februari of, in een schrikkeljaar, op de maandag in de periode van 31 januari tot en met 6 februari.
 
-2. In het geval, bedoeld in [artikel C 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_3&z=2014-07-01&g=2014-07-01), vindt de kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer plaats op de maandag in de periode van 28 maart tot en met 3 april.
+2. In het geval, bedoeld in [artikel C 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&artikel=C_3&z=2014-10-10&g=2014-10-10), vindt de kandidaatstelling voor de verkiezing van de leden van de Tweede Kamer plaats op de maandag in de periode van 28 maart tot en met 3 april.
 
 3. Bij koninklijk besluit kan, indien zwaarwichtige redenen verband houdend met de dag van kandidaatstelling of met de dag van stemming daartoe nopen, worden bepaald dat de kandidaatstelling plaatsvindt op de maandag, dinsdag, woensdag, donderdag of vrijdag vóór de in het eerste onderscheidenlijk tweede lid genoemde dag. Het koninklijk besluit wordt bekend gemaakt uiterlijk zes maanden vóór de in het eerste onderscheidenlijk tweede lid genoemde dag.
 
@@ -378,7 +378,7 @@ In geval van ontbinding van de Tweede Kamer vindt de kandidaatstelling plaats op
 
 - a. de aanduiding strijdig is met de openbare orde;
 
-- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) geregistreerde aanduiding van een andere politieke groepering of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
+- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10) geregistreerde aanduiding van een andere politieke groepering of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
 
 - c. de aanduiding anderszins misleidend is voor de kiezers;
 
@@ -424,7 +424,7 @@ In geval van ontbinding van de Tweede Kamer vindt de kandidaatstelling plaats op
 
 - a. de aanduiding strijdig is met de openbare orde;
 
-- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), onderscheidenlijk [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01), geregistreerde aanduiding van een andere politieke groepering, of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
+- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), onderscheidenlijk [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10), geregistreerde aanduiding van een andere politieke groepering, of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
 
 - c. de aanduiding anderszins misleidend is voor de kiezers;
 
@@ -450,23 +450,23 @@ In geval van ontbinding van de Tweede Kamer vindt de kandidaatstelling plaats op
 
 ##### Artikel G 4
 
-1. Onverminderd het bepaalde in het tweede lid geldt een geregistreerde aanduiding die overeenkomstig het bepaalde in het [achtste lid van artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) of [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01) ter openbare kennis is gebracht, tevens voor de verkiezing van de leden van provinciale staten, van het algemeen bestuur en van de gemeenteraad, onderscheidenlijk voor de verkiezing van de leden van de gemeenteraad.
+1. Onverminderd het bepaalde in het tweede lid geldt een geregistreerde aanduiding die overeenkomstig het bepaalde in het [achtste lid van artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10) of [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10) ter openbare kennis is gebracht, tevens voor de verkiezing van de leden van provinciale staten, van het algemeen bestuur en van de gemeenteraad, onderscheidenlijk voor de verkiezing van de leden van de gemeenteraad.
 
-2. Het centraal stembureau voor de verkiezing van de leden van provinciale staten, het algemeen bestuur, onderscheidenlijk de gemeenteraad, bepaalt, dat de in het eerste lid bedoelde doorwerking van de registratie voor die verkiezing niet plaatsvindt, indien de geregistreerde aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van [artikel G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01), [artikel G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-07-01&g=2014-07-01), onderscheidenlijk [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), geregistreerde aanduiding van een andere politieke groepering, en daardoor verwarring te duchten is.
+2. Het centraal stembureau voor de verkiezing van de leden van provinciale staten, het algemeen bestuur, onderscheidenlijk de gemeenteraad, bepaalt, dat de in het eerste lid bedoelde doorwerking van de registratie voor die verkiezing niet plaatsvindt, indien de geregistreerde aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van [artikel G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10), [artikel G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-10-10&g=2014-10-10), onderscheidenlijk [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10), geregistreerde aanduiding van een andere politieke groepering, en daardoor verwarring te duchten is.
 
-3. Een beschikking als bedoeld in het tweede lid wordt genomen uiterlijk op de veertiende dag na de dagtekening van de Staatscourant waarin de openbare kennisgeving, bedoeld in [artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), onderscheidenlijk [artikel G 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01), is gedaan. De beschikking wordt terstond aan de gemachtigde van de desbetreffende groepering bekendgemaakt.
+3. Een beschikking als bedoeld in het tweede lid wordt genomen uiterlijk op de veertiende dag na de dagtekening van de Staatscourant waarin de openbare kennisgeving, bedoeld in [artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), onderscheidenlijk [artikel G 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10), is gedaan. De beschikking wordt terstond aan de gemachtigde van de desbetreffende groepering bekendgemaakt.
 
 ##### Artikel G 5
 
 1. In afwijking van de [artikelen 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) en [6:8, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) wordt een beroepschrift tegen:
 
-- a. een beschikking als bedoeld in de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) en [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01) ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin die beschikking is medegedeeld;
+- a. een beschikking als bedoeld in de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10) en [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10) ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin die beschikking is medegedeeld;
 
-- b. een beschikking als bedoeld in de [artikelen G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-07-01&g=2014-07-01) en [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01) ingediend uiterlijk op de zesde dag na de dagtekening van de openbare kennisgeving, bedoeld in het vijfde lid van dat artikel;
+- b. een beschikking als bedoeld in de [artikelen G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-10-10&g=2014-10-10) en [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10) ingediend uiterlijk op de zesde dag na de dagtekening van de openbare kennisgeving, bedoeld in het vijfde lid van dat artikel;
 
-- c. een beschikking als bedoeld in [artikel G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01) ingediend uiterlijk op de zesde dag na de dagtekening waarop die beschikking is bekendgemaakt.
+- c. een beschikking als bedoeld in [artikel G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-10-10&g=2014-10-10) ingediend uiterlijk op de zesde dag na de dagtekening waarop die beschikking is bekendgemaakt.
 
-2. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing.
+2. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing.
 
 ##### Artikel G 6
 
@@ -492,7 +492,7 @@ Op de kandidatenlijst wordt vermeld voor welke kieskring of kieskringen zij word
 
 1. De inlevering van de lijst geschiedt persoonlijk door een kiezer, bevoegd tot deelneming aan de verkiezing. De inleveraar identificeert zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1). De kandidaten kunnen bij de inlevering aanwezig zijn.
 
-2. Aan degene die de lijst inlevert, kan door de gemachtigde, bedoeld in het derde lid van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01), [G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-07-01&g=2014-07-01) of [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), de bevoegdheid worden verleend boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals deze door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.
+2. Aan degene die de lijst inlevert, kan door de gemachtigde, bedoeld in het derde lid van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), [G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10), [G 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2a&z=2014-10-10&g=2014-10-10) of [G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10), de bevoegdheid worden verleend boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals deze door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.
 
 3. Degene die de lijst inlevert, is bevoegd daarboven een aanduiding te plaatsen, gevormd door samenvoeging van voor de desbetreffende verkiezing geregistreerde aanduidingen of afkortingen daarvan, indien hem daartoe de bevoegdheid is verleend door de gemachtigden van de onderscheidene groeperingen. Verklaringen van de gemachtigden waaruit deze bevoegdheid blijkt, worden bij de lijst overgelegd. Een aldus gevormde aanduiding mag niet meer dan 35 letters of andere tekens bevatten.
 
@@ -532,7 +532,7 @@ Op de kandidatenlijst wordt vermeld voor welke kieskring of kieskringen zij word
 
 ##### Artikel H 5
 
-Op de lijst kunnen een gemachtigde en desgewenst diens plaatsvervangers worden aangewezen, bevoegd tot het verbinden van de lijst met andere lijsten tot een lijstencombinatie. Voorts worden op de lijst een of meer personen vermeld die bij verhindering van de inleveraar bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel I 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01).
+Op de lijst kunnen een gemachtigde en desgewenst diens plaatsvervangers worden aangewezen, bevoegd tot het verbinden van de lijst met andere lijsten tot een lijstencombinatie. Voorts worden op de lijst een of meer personen vermeld die bij verhindering van de inleveraar bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel I 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel H 6
 
@@ -554,7 +554,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ##### Artikel H 9
 
-1. Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de kieskring of de kieskringen waarvoor zij is ingeleverd. Tenzij een gemachtigde, bedoeld in de [artikelen H 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-07-01&g=2014-07-01), of [H 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10a&z=2014-07-01&g=2014-07-01), wordt aangewezen, wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01), wil ontvangen.
+1. Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de kieskring of de kieskringen waarvoor zij is ingeleverd. Tenzij een gemachtigde, bedoeld in de [artikelen H 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-10-10&g=2014-10-10), of [H 10a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10a&z=2014-10-10&g=2014-10-10), wordt aangewezen, wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10), wil ontvangen.
 
 2. Een overgelegde verklaring van instemming kan niet worden ingetrokken.
 
@@ -564,13 +564,13 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ##### Artikel H 10
 
-1. De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-07-01&g=2014-07-01), [V 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-07-01&g=2014-07-01). Indien de kandidaat woonachtig is in één van de openbare lichamen Bonaire, Sint Eustatius en Saba, is de gemachtigde met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en tweede lid, en W 2, eerste lid, onder f.
+1. De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-10-10&g=2014-10-10), [V 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-10-10&g=2014-10-10). Indien de kandidaat woonachtig is in één van de openbare lichamen Bonaire, Sint Eustatius en Saba, is de gemachtigde met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de artikelen V 2, eerste, vierde en vijfde lid, V 3, eerste en tweede lid, en W 2, eerste lid, onder f.
 
-2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de voorzitter van het centraal stembureau, zo nodig met aanwijzing van een nieuwe gemachtigde. Indien geen nieuwe gemachtigde wordt aangewezen, vermeldt de kandidaat op welk adres hij de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01), wil ontvangen.
+2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de voorzitter van het centraal stembureau, zo nodig met aanwijzing van een nieuwe gemachtigde. Indien geen nieuwe gemachtigde wordt aangewezen, vermeldt de kandidaat op welk adres hij de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10), wil ontvangen.
 
 ##### Artikel H 10a
 
-1. De in het Europese deel van Nederland wonende kandidaat kan in geval van een verkiezing voor de leden van de Tweede Kamer en van provinciale staten van een provincie die uit meer dan één kieskring bestaat, bij de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aanwijzen met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, wordt in iedere verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-07-01&g=2014-07-01), [V 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-07-01&g=2014-07-01).
+1. De in het Europese deel van Nederland wonende kandidaat kan in geval van een verkiezing voor de leden van de Tweede Kamer en van provinciale staten van een provincie die uit meer dan één kieskring bestaat, bij de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aanwijzen met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat voorkomt op meer dan één lijst, wordt in iedere verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-10-10&g=2014-10-10), [V 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-10-10&g=2014-10-10).
 
 2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de politieke groepering benoemd worden verklaard in de volgorde die voor de dag van de stemming door de politieke groepering is vastgesteld.
 
@@ -578,7 +578,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 4. De politieke groepering deelt de in het tweede lid bedoelde volgorde uiterlijk twee weken na de kandidaatstelling mee aan het centraal stembureau. De voorzitter van het centraal stembureau draagt er zorg voor dat de volgorde zo spoedig mogelijk in de **Staatscourant** wordt bekendgemaakt.
 
-5. [Artikel H 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+5. [Artikel H 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel H 11
 
@@ -590,37 +590,37 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 1. Indien het betreft de verkiezing van de leden van de Tweede Kamer, moet voor elke lijstengroep, elk niet van een groep deel uitmakend stel gelijkluidende lijsten en elke op zichzelf staande lijst een waarborgsom van € 11 250 dan wel, indien boven de kandidatenlijst de aanduiding is geplaatst van een groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba of, indien het een kandidatenlijst betreft waarboven geen aanduiding is geplaatst, indien de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius of Saba, een waarborgsom van USD 11 250 worden betaald aan de Staat.
 
-2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. Degene die de in het eerste lid bedoelde betaling heeft verricht, ontvangt voor elke kieskring een bewijs daarvan. Bij de indiening van een lijst voor een of meer kieskringen moet een bewijs worden ingeleverd.
 
 4. Indien geen geldige lijst wordt ingeleverd, wordt na de vaststelling van de uitslag van de verkiezing door de Staat de waarborgsom teruggegeven aan degene die de betaling heeft verricht.
 
-5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijstengroep, het niet van een groep deel uitmakende stel gelijkluidende lijsten of de op zichzelf staande lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-07-01&g=2014-07-01). In dat geval vervalt de waarborgsom aan de Staat.
+5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijstengroep, het niet van een groep deel uitmakende stel gelijkluidende lijsten of de op zichzelf staande lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-10-10&g=2014-10-10). In dat geval vervalt de waarborgsom aan de Staat.
 
 ##### Artikel H 13
 
 1. Indien het betreft de verkiezing van de leden van provinciale staten, moet voor elke lijstengroep, elk niet van een groep deel uitmakend stel gelijkluidende lijsten en elke op zichzelf staande lijst een waarborgsom van € 1 125 dan wel, indien boven de kandidatenlijst de aanduiding is geplaatst van een groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba of, indien het een kandidatenlijst betreft waarboven geen aanduiding is geplaatst, indien de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius of Saba, een waarborgsom van USD 1 125 worden betaald aan de gemeente waar het centraal stembureau is gevestigd.
 
-2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. Degene die de in het eerste lid bedoelde betaling heeft verricht, ontvangt voor elke kieskring een bewijs daarvan. Bij de indiening van een lijst voor een of meer kieskringen moet een bewijs worden ingeleverd.
 
 4. Indien geen geldige lijst wordt ingeleverd, wordt na de vaststelling van de uitslag van de verkiezing door de gemeente waar het centraal stembureau is gevestigd de waarborgsom teruggegeven aan degene die de betaling heeft verricht.
 
-5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijstengroep, het niet van een groep deel uitmakende stel gelijkluidende lijsten of de op zichzelf staande lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-07-01&g=2014-07-01), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan de gemeente waar het centraal stembureau is gevestigd.
+5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijstengroep, het niet van een groep deel uitmakende stel gelijkluidende lijsten of de op zichzelf staande lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-10-10&g=2014-10-10), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan de gemeente waar het centraal stembureau is gevestigd.
 
 ##### Artikel H 14
 
 1. Indien het betreft de verkiezing van de leden van de gemeenteraad, moet voor elke lijst een waarborgsom van € 225 worden betaald aan de gemeente.
 
-2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. Degene die de in het eerste lid bedoelde betaling heeft verricht, ontvangt een bewijs daarvan. Dit bewijs moet bij de indiening van de lijst worden overgelegd.
 
 4. Indien geen geldige lijst wordt ingeleverd, wordt na de vaststelling van de uitslag van de verkiezing door de gemeente de waarborgsom teruggegeven aan degene die de betaling heeft verricht.
 
-5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-07-01&g=2014-07-01), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan de gemeente.
+5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-10-10&g=2014-10-10), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan de gemeente.
 
 ##### Artikel H 15
 
@@ -640,11 +640,11 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het 
 
 1. Indien bij het onderzoek van een kandidatenlijst voor een kieskring blijkt van een of meer van de volgende verzuimen, geeft het centraal stembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de lijst heeft ingeleverd:
 
-- a. dat, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal verklaringen voor deze kieskring, genoemd in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is overgelegd, waarbij niet meetellen de verklaringen die niet aan het bepaalde in [artikel H 4, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), voldoen, de verklaringen waarop niet een aantekening als bedoeld in [artikel H 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), voorkomt en de verklaringen van een kiezer die meer dan één verklaring heeft ondertekend;
+- a. dat, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal verklaringen voor deze kieskring, genoemd in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is overgelegd, waarbij niet meetellen de verklaringen die niet aan het bepaalde in [artikel H 4, eerste lid, tweede volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), voldoen, de verklaringen waarop niet een aantekening als bedoeld in [artikel H 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), voorkomt en de verklaringen van een kiezer die meer dan één verklaring heeft ondertekend;
 
-- b. dat, indien zich het geval voordoet, bedoeld in [artikel H 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_7&z=2014-07-01&g=2014-07-01), de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in de provincie, het waterschap, onderscheidenlijk de gemeente, ontbreekt;
+- b. dat, indien zich het geval voordoet, bedoeld in [artikel H 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_7&z=2014-10-10&g=2014-10-10), de verklaring dat de kandidaat voornemens is zich bij benoeming te vestigen in de provincie, het waterschap, onderscheidenlijk de gemeente, ontbreekt;
 
-- c. dat een kandidaat niet is vermeld overeenkomstig het bepaalde krachtens [artikel H 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_8&z=2014-07-01&g=2014-07-01);
+- c. dat een kandidaat niet is vermeld overeenkomstig het bepaalde krachtens [artikel H 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_8&z=2014-10-10&g=2014-10-10);
 
 - d. dat voor een kandidaat ontbreekt de verklaring dat hij instemt met zijn kandidaatstelling op de lijst voor deze kieskring;
 
@@ -656,9 +656,9 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het 
 
 - h. dat de inleveraar zich niet heeft geïdentificeerd met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
-- i. dat een verklaring, bedoeld in het [tweede of derde lid van artikel H 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_3&z=2014-07-01&g=2014-07-01), ontbreekt.
+- i. dat een verklaring, bedoeld in het [tweede of derde lid van artikel H 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_3&z=2014-10-10&g=2014-10-10), ontbreekt.
 
-2. Binnen de termijn van drie dagen na de zitting, bedoeld in [artikel I 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-07-01&g=2014-07-01), kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen bij het centraal stembureau, op de eerste en tweede dag van negen tot zeventien uur en op de derde dag van negen tot vijftien uur.
+2. Binnen de termijn van drie dagen na de zitting, bedoeld in [artikel I 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-10-10&g=2014-10-10), kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen bij het centraal stembureau, op de eerste en tweede dag van negen tot zeventien uur en op de derde dag van negen tot vijftien uur.
 
 3. In het geval, bedoeld in het eerste lid onder a, kunnen kiezers gedurende de verzuimperiode alsnog ondersteuningsverklaringen afleggen.
 
@@ -666,17 +666,17 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende het 
 
 5. In het geval, bedoeld in het eerste lid onder g, kan gedurende de verzuimperiode een kiezer die tot het inleveren van de lijst bevoegd zou zijn geweest, door persoonlijke verschijning bij het centraal stembureau zich in de plaats van de onbevoegde inleveraar stellen; hij identificeert zich met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1). Het in de vorige zin bepaalde vindt overeenkomstige toepassing, indien in geval van onderdeel h de inleveraar zich niet alsnog tijdens de verzuimperiode identificeert.
 
-6. Bij verhindering of ontstentenis van degene die de lijst heeft ingeleverd, treedt in diens plaats een ingevolge [artikel H 5, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_5&z=2014-07-01&g=2014-07-01), op de lijst vermelde vervanger.
+6. Bij verhindering of ontstentenis van degene die de lijst heeft ingeleverd, treedt in diens plaats een ingevolge [artikel H 5, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_5&z=2014-10-10&g=2014-10-10), op de lijst vermelde vervanger.
 
 ##### Artikel I 3
 
 1. Onmiddellijk nadat de lijsten door het centraal stembureau zijn onderzocht, worden deze en, indien vereist, de verklaringen van ondersteuning, voor een ieder ter inzage gelegd bij het centraal stembureau.
 
-2. Op de voet van [artikel I 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-07-01&g=2014-07-01), toegezonden afschriften van ingeleverde kandidatenlijsten worden bij de gemeente waar het hoofdstembureau is gevestigd ter inzage gelegd, zodra deze zijn ontvangen.
+2. Op de voet van [artikel I 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-10-10&g=2014-10-10), toegezonden afschriften van ingeleverde kandidatenlijsten worden bij de gemeente waar het hoofdstembureau is gevestigd ter inzage gelegd, zodra deze zijn ontvangen.
 
 ##### Artikel I 4
 
-Op de laatste dag van de termijn, genoemd in [artikel I 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), beslist het centraal stembureau in een openbare zitting die om zestien uur aanvangt, over de geldigheid van de lijsten voor iedere kieskring waarvoor zij zijn ingeleverd en over het handhaven van de daarop voorkomende kandidaten, alsmede over het handhaven van de daarboven geplaatste aanduiding van een politieke groepering, en maakt deze beslissingen op de zitting bekend.
+Op de laatste dag van de termijn, genoemd in [artikel I 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), beslist het centraal stembureau in een openbare zitting die om zestien uur aanvangt, over de geldigheid van de lijsten voor iedere kieskring waarvoor zij zijn ingeleverd en over het handhaven van de daarop voorkomende kandidaten, alsmede over het handhaven van de daarboven geplaatste aanduiding van een politieke groepering, en maakt deze beslissingen op de zitting bekend.
 
 ##### Artikel I 5
 
@@ -686,7 +686,7 @@ Voor een kieskring is ongeldig de lijst:
 
 - b. waarbij, indien ten behoeve van de lijst een waarborgsom moet worden betaald, niet gevoegd is het bewijs dat deze betaling is verricht;
 
-- c. waarbij, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal geldige verklaringen voor deze kieskring, genoemd in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is overgelegd;
+- c. waarbij, indien bij de lijst verklaringen van ondersteuning moeten worden overgelegd, niet ten minste het aantal geldige verklaringen voor deze kieskring, genoemd in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is overgelegd;
 
 - d. die niet voldoet aan het bij ministeriële regeling vastgestelde model;
 
@@ -694,13 +694,13 @@ Voor een kieskring is ongeldig de lijst:
 
 - f. waarbij de inleveraar zich niet heeft geïdentificeerd met een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
-- g. waarop door toepassing van [artikel I 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_6&z=2014-07-01&g=2014-07-01) alle kandidaten zijn geschrapt.
+- g. waarop door toepassing van [artikel I 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_6&z=2014-10-10&g=2014-10-10) alle kandidaten zijn geschrapt.
 
 ##### Artikel I 6
 
 1. Het centraal stembureau schrapt, in de volgorde in dit lid aangewezen, van de lijst voor een kieskring de naam van de kandidaat:
 
-- a. die niet is vermeld overeenkomstig het bepaalde krachtens [artikel H 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_8&z=2014-07-01&g=2014-07-01);
+- a. die niet is vermeld overeenkomstig het bepaalde krachtens [artikel H 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_8&z=2014-10-10&g=2014-10-10);
 
 - b. van wie niet is overgelegd de verklaring dat hij instemt met zijn kandidaatstelling op de lijst voor deze kieskring;
 
@@ -720,7 +720,7 @@ Voor een kieskring is ongeldig de lijst:
 
 2. Het centraal stembureau schrapt, in de volgorde in dit lid aangewezen, de aanduiding van een politieke groepering van de lijst voor een kieskring, indien:
 
-- a. een daarop betrekking hebbende verklaring als bedoeld in het [tweede of derde lid van artikel H 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_3&z=2014-07-01&g=2014-07-01) ontbreekt;
+- a. een daarop betrekking hebbende verklaring als bedoeld in het [tweede of derde lid van artikel H 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_3&z=2014-10-10&g=2014-10-10) ontbreekt;
 
 - b. de aanduiding geplaatst is boven meer dan één van de voor dezelfde kieskring ingeleverde lijsten.
 
@@ -728,9 +728,9 @@ Voor een kieskring is ongeldig de lijst:
 
 ##### Artikel I 7
 
-1. Tegen een beschikking als bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01) kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), beroep worden ingesteld door een belanghebbende en iedere kiezer. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een beroepschrift vier dagen.
+1. Tegen een beschikking als bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10) kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), beroep worden ingesteld door een belanghebbende en iedere kiezer. In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) bedraagt de termijn voor het indienen van een beroepschrift vier dagen.
 
-2. [Artikel D 9 lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel D 9 lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. De Afdeling bestuursrechtspraak van de Raad van State doet uitspraak uiterlijk op de zesde dag nadat het beroepschrift is ontvangen.
 
@@ -740,7 +740,7 @@ Voor een kieskring is ongeldig de lijst:
 
 ##### Artikel I 8
 
-1. Indien beroep is ingesteld tegen een beschikking waarbij het centraal stembureau een lijst voor een kieskring ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding van een politieke groepering heeft geschrapt op grond van een of meer van de verzuimen, vermeld in [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), zonder dat het centraal stembureau tevoren overeenkomstig het in dat artikel bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen bij de Raad van State. [Artikel I 2, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+1. Indien beroep is ingesteld tegen een beschikking waarbij het centraal stembureau een lijst voor een kieskring ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding van een politieke groepering heeft geschrapt op grond van een of meer van de verzuimen, vermeld in [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), zonder dat het centraal stembureau tevoren overeenkomstig het in dat artikel bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen bij de Raad van State. [Artikel I 2, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 2. Indien een verzuim overeenkomstig het eerste lid is hersteld, houdt de Afdeling bestuursrechtspraak van de Raad van State bij haar uitspraak daarmee rekening.
 
@@ -770,13 +770,13 @@ Vervallen
 
 ##### Artikel I 11
 
-Het centraal stembureau beslist over de geldigheid van de lijstencombinaties in de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01), en maakt deze beslissing op de zitting bekend.
+Het centraal stembureau beslist over de geldigheid van de lijstencombinaties in de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10), en maakt deze beslissing op de zitting bekend.
 
 #### § 3. De nummering van de kandidatenlijsten
 
 ##### Artikel I 12
 
-Het centraal stembureau nummert in de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01), de kandidatenlijsten die hij geldig heeft verklaard en maakt deze beslissing op de zitting bekend.
+Het centraal stembureau nummert in de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10), de kandidatenlijsten die hij geldig heeft verklaard en maakt deze beslissing op de zitting bekend.
 
 ##### Artikel I 13
 
@@ -786,7 +786,7 @@ Bij de nummering gelden de lijstengroepen alsmede de niet van een groep deel uit
 
 1. Eerst worden genummerd de lijsten van politieke groeperingen wier aanduiding was geplaatst boven een kandidatenlijst waaraan bij de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend orgaan een of meer zetels zijn toegekend. Aan deze lijsten worden de nummers 1 en volgende toegekend in de volgorde van de bij die verkiezing op de desbetreffende lijsten uitgebrachte aantallen stemmen, met dien verstande dat aan de lijst van de groepering met het hoogste aantal stemmen het nummer 1 wordt toegekend. Bij gelijkheid van het aantal beslist het lot.
 
-2. Het eerste lid is van overeenkomstige toepassing voor de gevallen, bedoeld in [artikel H 4, achtste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01). In het geval waarbij aan ten minste één van de betrokken groeperingen één of meer zetels zijn toegekend worden voor de toepassing van het bepaalde in de tweede volzin van het eerste lid, de op de lijsten uitgebrachte aantallen stemmen van de groeperingen waaraan die zetels zijn toegekend, bij elkaar opgeteld.
+2. Het eerste lid is van overeenkomstige toepassing voor de gevallen, bedoeld in [artikel H 4, achtste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10). In het geval waarbij aan ten minste één van de betrokken groeperingen één of meer zetels zijn toegekend worden voor de toepassing van het bepaalde in de tweede volzin van het eerste lid, de op de lijsten uitgebrachte aantallen stemmen van de groeperingen waaraan die zetels zijn toegekend, bij elkaar opgeteld.
 
 3. Vervolgens worden, met de nummers volgende op het laatste krachtens het eerste lid toegekende nummer, genummerd de overige lijsten in de volgorde van het aantal kieskringen waarvoor de lijst geldt, met dien verstande dat het eerstvolgende nummer wordt toegekend aan de lijst die geldt voor de meeste kieskringen. Bij een gelijk aantal kieskringen beslist het lot.
 
@@ -802,7 +802,7 @@ Bij de nummering gelden de lijstengroepen alsmede de niet van een groep deel uit
 
 1. Indien de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State strekt tot ongeldigverklaring van een kandidatenlijst, heeft dat geen gevolgen voor de nummers, toegekend aan de overige kandidatenlijsten.
 
-2. Indien de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State strekt tot geldigverklaring van een kandidatenlijst, wordt deze kandidatenlijst door haar genummerd met het nummer volgende op het laatste krachtens [artikel I 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=3&artikel=I_14&z=2014-07-01&g=2014-07-01) en, indien van toepassing, bij eerdere uitspraak van de Afdeling toegekende nummer.
+2. Indien de uitspraak van de Afdeling bestuursrechtspraak van de Raad van State strekt tot geldigverklaring van een kandidatenlijst, wordt deze kandidatenlijst door haar genummerd met het nummer volgende op het laatste krachtens [artikel I 14](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=3&artikel=I_14&z=2014-10-10&g=2014-10-10) en, indien van toepassing, bij eerdere uitspraak van de Afdeling toegekende nummer.
 
 #### § 4. De openbaarmaking van de kandidatenlijsten
 
@@ -820,15 +820,15 @@ indien het betreft de verkiezing van de leden van provinciale staten, het algeme
 
 ##### Artikel I 18
 
-1. Van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-07-01&g=2014-07-01) en [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01) bedoelde zittingen wordt proces-verbaal opgemaakt. Het proces-verbaal wordt voor een ieder ter inzage gelegd.
+1. Van de in de [artikelen I 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_1&z=2014-10-10&g=2014-10-10) en [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10) bedoelde zittingen wordt proces-verbaal opgemaakt. Het proces-verbaal wordt voor een ieder ter inzage gelegd.
 
-2. De bij de in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01) bedoelde zitting aanwezige kiezers kunnen mondeling bezwaren inbrengen. Van deze bezwaren wordt in het proces-verbaal melding gemaakt.
+2. De bij de in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10) bedoelde zitting aanwezige kiezers kunnen mondeling bezwaren inbrengen. Van deze bezwaren wordt in het proces-verbaal melding gemaakt.
 
 3. Bij algemene maatregel van bestuur worden geregeld:
 
 - a. de plaats waar de processen-verbaal ter inzage worden gelegd;
 
-- b. de bekendmaking van het tijdstip en de plaats van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01).
+- b. de bekendmaking van het tijdstip en de plaats van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10).
 
 4. Bij ministeriële regeling worden voor de processen-verbaal modellen vastgesteld.
 
@@ -838,7 +838,7 @@ indien het betreft de verkiezing van de leden van provinciale staten, het algeme
 
 ##### Artikel J 1
 
-1. De stemming vindt plaats op de vierenveertigste dag na de kandidaatstelling. Indien toepassing is gegeven aan [artikel F 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=F&artikel=F_1&z=2014-07-01&g=2014-07-01), kan bij het koninklijk besluit, bedoeld in dat artikel, de dag van stemming worden vastgesteld op een dag na de vierenveertigste dag na de kandidaatstelling, met dien verstande dat de dag van stemming met niet meer dagen wordt verplaatst dan het aantal dagen waarmee de dag van kandidaatstelling is vervroegd.
+1. De stemming vindt plaats op de vierenveertigste dag na de kandidaatstelling. Indien toepassing is gegeven aan [artikel F 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=F&artikel=F_1&z=2014-10-10&g=2014-10-10), kan bij het koninklijk besluit, bedoeld in dat artikel, de dag van stemming worden vastgesteld op een dag na de vierenveertigste dag na de kandidaatstelling, met dien verstande dat de dag van stemming met niet meer dagen wordt verplaatst dan het aantal dagen waarmee de dag van kandidaatstelling is vervroegd.
 
 2. De stemming vangt aan om zeven uur dertig en duurt tot eenentwintig uur.
 
@@ -846,7 +846,7 @@ indien het betreft de verkiezing van de leden van provinciale staten, het algeme
 
 4. De stemopneming van de stembureaus, bedoeld in het derde lid, vindt plaats om eenentwintig uur op een door burgemeester en wethouders vast te stellen en bekend te maken plaats. De plaats van stemopneming wordt bekend gemaakt in de openbare kennisgeving, bedoeld in het derde lid.
 
-5. Een stembureau als bedoeld in het derde lid is, met uitzondering van een stembureau als bedoeld in [artikel J 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_4a&z=2014-07-01&g=2014-07-01), op de dag van de stemming ten minste acht uur aaneengesloten geopend.
+5. Een stembureau als bedoeld in het derde lid is, met uitzondering van een stembureau als bedoeld in [artikel J 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_4a&z=2014-10-10&g=2014-10-10), op de dag van de stemming ten minste acht uur aaneengesloten geopend.
 
 ##### Artikel J 2
 
@@ -868,7 +868,7 @@ Vervallen
 
 ##### Artikel J 5
 
-1. Behoudens de gevallen, genoemd in de [hoofdstukken K](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&z=2014-07-01&g=2014-07-01), [L](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&z=2014-07-01&g=2014-07-01) en [M](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&z=2014-07-01&g=2014-07-01) neemt de kiezer deel aan de stemming in een stemlokaal van zijn keuze dat ligt in de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd en dat ligt in het gebied van het orgaan waarvoor de verkiezing wordt gehouden.
+1. Behoudens de gevallen, genoemd in de [hoofdstukken K](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&z=2014-10-10&g=2014-10-10), [L](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&z=2014-10-10&g=2014-10-10) en [M](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&z=2014-10-10&g=2014-10-10) neemt de kiezer deel aan de stemming in een stemlokaal van zijn keuze dat ligt in de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd en dat ligt in het gebied van het orgaan waarvoor de verkiezing wordt gehouden.
 
 2. Burgemeester en wethouders kunnen besluiten dat kiezers kunnen stemmen in één of meer stemlokalen die liggen in de gemeente maar buiten het gebied van het orgaan waarvoor de verkiezing wordt gehouden.
 
@@ -892,7 +892,7 @@ Ten minste veertien dagen voor de stemming ontvangt elke kiezer die bevoegd is a
 
 4. De kiezer legt bij zijn verzoek een kopie over van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
-5. Aan de kiezer wiens stempas op grond van [artikel J 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_7a&z=2014-07-01&g=2014-07-01) ongeldig is, wordt geen nieuwe stempas uitgereikt.
+5. Aan de kiezer wiens stempas op grond van [artikel J 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_7a&z=2014-10-10&g=2014-10-10) ongeldig is, wordt geen nieuwe stempas uitgereikt.
 
 ##### Artikel J 9
 
@@ -958,7 +958,7 @@ Het stemlokaal is zodanig ingericht dat het stemgeheim is gewaarborgd.
 
 ##### Artikel J 18
 
-1. De stembus, vervaardigd volgens bij algemene maatregel van bestuur te geven voorschriften, staat bij de tafel, binnen het bereik van het lid van het stembureau dat belast is met de in [artikel J 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_26&z=2014-07-01&g=2014-07-01), bedoelde taak.
+1. De stembus, vervaardigd volgens bij algemene maatregel van bestuur te geven voorschriften, staat bij de tafel, binnen het bereik van het lid van het stembureau dat belast is met de in [artikel J 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_26&z=2014-10-10&g=2014-10-10), bedoelde taak.
 
 2. Tijdig voor de aanvang van de stemming sluit het stembureau de stembus, na zich ervan overtuigd te hebben dat zij leeg is.
 
@@ -994,13 +994,13 @@ Vervallen
 
 - a. de voorzitter van het stembureau de identiteit van de kiezer heeft vastgesteld aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1);
 
-- b. de kiezer in het bezit is van de hem toegezonden of ingevolge [artikel J 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_8&z=2014-07-01&g=2014-07-01) uitgereikte stempas, dan wel een kiezerspas of een volmachtbewijs.
+- b. de kiezer in het bezit is van de hem toegezonden of ingevolge [artikel J 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_8&z=2014-10-10&g=2014-10-10) uitgereikte stempas, dan wel een kiezerspas of een volmachtbewijs.
 
 2. De in het eerste lid, onder a, bedoelde vaststelling van de identiteit kan ook geschieden aan de hand van een kopie van het proces-verbaal dat van een vermissing van het document op ambtseed is opgemaakt door een opsporingsambtenaar van de politie in het Europese deel van Nederland of in Bonaire, Sint Eustatius en Saba, onderscheidenlijk de politie van Aruba, van Curaçao of van Sint Maarten, in combinatie met een document van de kiesgerechtigde op diens naam en voorzien van zijn foto.
 
 ##### Artikel J 25
 
-1. De kiezer overhandigt aan de voorzitter van het stembureau het in [artikel J 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-07-01&g=2014-07-01), genoemde identiteitsdocument, en de stempas.
+1. De kiezer overhandigt aan de voorzitter van het stembureau het in [artikel J 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-10-10&g=2014-10-10), genoemde identiteitsdocument, en de stempas.
 
 2. Indien de voorzitter constateert dat de kiezer niet beschikt over een geldig identiteitsdocument, wordt de kiezer niet toegelaten tot de stemming.
 
@@ -1008,7 +1008,7 @@ Vervallen
 
 4. Indien het stembureau constateert dat de stempas niet echt is neemt de voorzitter de stempas in en wordt de kiezer niet toegelaten tot de stemming.
 
-5. Indien de stempas echt is, gaat het tweede lid van het stembureau na of het volgnummer van de stempas voorkomt in het uittreksel van ongeldige stempassen, bedoeld in [artikel J 7a, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_7a&z=2014-07-01&g=2014-07-01). Indien dat het geval is, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer niet toegelaten tot de stemming.
+5. Indien de stempas echt is, gaat het tweede lid van het stembureau na of het volgnummer van de stempas voorkomt in het uittreksel van ongeldige stempassen, bedoeld in [artikel J 7a, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_7a&z=2014-10-10&g=2014-10-10). Indien dat het geval is, neemt het tweede lid van het stembureau de stempas in en wordt de kiezer niet toegelaten tot de stemming.
 
 6. Indien het volgnummer van de stempas niet voorkomt in het uittreksel van ongeldige stempassen, controleert de voorzitter vervolgens of de gegevens op het identiteitsdocument overeenkomen met de gegevens op de stempas. Indien de voorzitter constateert dat de gegevens niet overeenkomen, wordt de kiezer niet toegelaten tot de stemming.
 
@@ -1106,11 +1106,11 @@ De voorzitter is belast met de handhaving van de orde tijdens de zitting. Hij ka
 
 1. Aan de kiezer wordt overeenkomstig de bepalingen van dit hoofdstuk op zijn verzoek toegestaan binnen het gebied van het orgaan waarvoor de verkiezing wordt gehouden, aan de stemming deel te nemen in een stembureau van zijn keuze.
 
-2. Onverminderd het eerste lid kan de kiezer stemmen in de stemlokalen, bedoeld in [artikel J 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_5&z=2014-07-01&g=2014-07-01).
+2. Onverminderd het eerste lid kan de kiezer stemmen in de stemlokalen, bedoeld in [artikel J 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_5&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel K 2
 
-Het in [artikel K 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&artikel=K_1&z=2014-07-01&g=2014-07-01) bepaalde geldt niet voor de kiezer aan wie op zijn verzoek is toegestaan bij volmacht of per brief te stemmen.
+Het in [artikel K 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&artikel=K_1&z=2014-10-10&g=2014-10-10) bepaalde geldt niet voor de kiezer aan wie op zijn verzoek is toegestaan bij volmacht of per brief te stemmen.
 
 ##### Artikel K 3
 
@@ -1142,21 +1142,21 @@ Vervallen
 
 ##### Artikel K 7
 
-1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en met een kiezerspas wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01).
+1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en met een kiezerspas wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10).
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten.
 
-3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-07-01&g=2014-07-01), bedoelde formulieren.
+3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-10-10&g=2014-10-10), bedoelde formulieren.
 
 ##### Artikel K 8
 
 1. Op het schriftelijk verzoek wordt zo spoedig mogelijk beslist. Op het mondeling verzoek wordt terstond beslist.
 
-2. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag van de kandidaatstelling niet als kiezer is geregistreerd, hem overeenkomstig [paragraaf 2 van hoofdstuk L](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-07-01&g=2014-07-01) is toegestaan bij volmacht te stemmen, of hem is toegestaan per brief te stemmen.
+2. Het verzoek wordt slechts afgewezen, indien de verzoeker op de dag van de kandidaatstelling niet als kiezer is geregistreerd, hem overeenkomstig [paragraaf 2 van hoofdstuk L](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-10-10&g=2014-10-10) is toegestaan bij volmacht te stemmen, of hem is toegestaan per brief te stemmen.
 
 3. Indien het verzoek niet in verdere behandeling wordt genomen of wordt afgewezen, wordt de beslissing met opgave van redenen schriftelijk aan de verzoeker medegedeeld.
 
-4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
+4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
 
 ##### Artikel K 9
 
@@ -1168,9 +1168,9 @@ Vervallen
 
 ##### Artikel K 11
 
-1. Bij de stemming overhandigt de kiezer het in [artikel J 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-07-01&g=2014-07-01), genoemde identiteitsdocument, en de kiezerspas aan de voorzitter van het stembureau.
+1. Bij de stemming overhandigt de kiezer het in [artikel J 24, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-10-10&g=2014-10-10), genoemde identiteitsdocument, en de kiezerspas aan de voorzitter van het stembureau.
 
-2. [Artikel J 25, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_25&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel J 25, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_25&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel K 12
 
@@ -1190,7 +1190,7 @@ De kiezer die verwacht niet in staat te zullen zijn in persoon aan de stemming d
 
 ##### Artikel L 2
 
-1. Een volmacht kan worden verleend hetzij op een schriftelijke aanvraag overeenkomstig het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-07-01&g=2014-07-01), hetzij door overdracht van de stempas of kiezerspas overeenkomstig het bepaalde in [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-07-01&g=2014-07-01).
+1. Een volmacht kan worden verleend hetzij op een schriftelijke aanvraag overeenkomstig het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-10-10&g=2014-10-10), hetzij door overdracht van de stempas of kiezerspas overeenkomstig het bepaalde in [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&z=2014-10-10&g=2014-10-10).
 
 2. Een schriftelijke aanvraag om bij volmacht te stemmen kan niet worden ingediend door de kiezer aan wie een kiezerspas of een briefstembewijs is verstrekt.
 
@@ -1220,7 +1220,7 @@ Een kiezer mag per verkiezing niet meer dan twee aanwijzingen als gemachtigde aa
 
 ##### Artikel L 7
 
-1. Het verzoekschrift, bedoeld in [artikel L 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&artikel=L_8&z=2014-07-01&g=2014-07-01), dient uiterlijk vijf dagen voor de stemming te zijn ontvangen.
+1. Het verzoekschrift, bedoeld in [artikel L 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&artikel=L_8&z=2014-10-10&g=2014-10-10), dient uiterlijk vijf dagen voor de stemming te zijn ontvangen.
 
 2. De burgemeester brengt deze termijn op de dag van de kandidaatstelling ter openbare kennis.
 
@@ -1236,11 +1236,11 @@ Een kiezer mag per verkiezing niet meer dan twee aanwijzingen als gemachtigde aa
 
 ##### Artikel L 9
 
-1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en bij volmacht wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01).
+1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en bij volmacht wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10).
 
 2. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten.
 
-3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-07-01&g=2014-07-01), bedoelde formulieren.
+3. Voor het verzoekschrift wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-10-10&g=2014-10-10), bedoelde formulieren.
 
 ##### Artikel L 10
 
@@ -1262,7 +1262,7 @@ Het verzoek wordt afgewezen, indien:
 
 3. Indien het verzoek niet in verdere behandeling wordt genomen of wordt afgewezen, wordt de beslissing met opgave van redenen schriftelijk aan de verzoeker medegedeeld. Degene die zich bereid heeft verklaard als gemachtigde op te treden wordt van de beslissing in kennis gesteld.
 
-4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
+4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
 
 ##### Artikel L 12
 
@@ -1300,9 +1300,9 @@ Vervallen
 
 1. De gemachtigde overhandigt aan de voorzitter van het stembureau het volmachtbewijs.
 
-2. Indien het een volmachtbewijs betreft als bedoeld in [hoofdstuk L, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=3&z=2014-07-01&g=2014-07-01), overhandigt de gemachtigde tevens een kopie van een identiteitsdocument als bedoeld in [artikel J 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-07-01&g=2014-07-01), van de volmachtgever.
+2. Indien het een volmachtbewijs betreft als bedoeld in [hoofdstuk L, paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=3&z=2014-10-10&g=2014-10-10), overhandigt de gemachtigde tevens een kopie van een identiteitsdocument als bedoeld in [artikel J 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_24&z=2014-10-10&g=2014-10-10), van de volmachtgever.
 
-3. [Artikel J 25, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_25&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+3. [Artikel J 25, tweede tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=6&artikel=J_25&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ### Hoofdstuk M. Het stemmen per brief
 
@@ -1318,17 +1318,17 @@ Bij de verkiezing van de leden van de Tweede Kamer wordt aan de kiezer die op de
 
 2. Een aan de kiezer verzonden briefstembewijs kan niet door een nieuw worden vervangen.
 
-3. Aan de kiezer aan wie een briefstembewijs is verstrekt, wordt geen stempas toegezonden. Hij mag slechts op de in [artikel M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_7&z=2014-07-01&g=2014-07-01) aangewezen wijze aan de stemming deelnemen.
+3. Aan de kiezer aan wie een briefstembewijs is verstrekt, wordt geen stempas toegezonden. Hij mag slechts op de in [artikel M 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_7&z=2014-10-10&g=2014-10-10) aangewezen wijze aan de stemming deelnemen.
 
 ##### Artikel M 3
 
-1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en per brief wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01). De overige kiezers dienen een zodanig verzoekschrift uiterlijk op de achtentwintigste dag voor de stemming in bij de burgemeester van de gemeente waar zij als kiezer zijn geregistreerd.
+1. De kiezer die zijn werkelijke woonplaats buiten Nederland heeft en per brief wenst te stemmen, voegt een verzoek daartoe bij het registratieverzoek, bedoeld in [artikel D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10) of [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10). De overige kiezers dienen een zodanig verzoekschrift uiterlijk op de achtentwintigste dag voor de stemming in bij de burgemeester van de gemeente waar zij als kiezer zijn geregistreerd.
 
-2. In het verzoekschrift geeft de kiezer een adres op buiten Nederland waar hij de stukken, bedoeld in [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-07-01&g=2014-07-01), wenst te ontvangen.
+2. In het verzoekschrift geeft de kiezer een adres op buiten Nederland waar hij de stukken, bedoeld in [artikel M 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-10-10&g=2014-10-10), wenst te ontvangen.
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties beslist op de verzoeken, ingediend bij de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten.
 
-4. Voor het verzoekschrift, bedoeld in het eerste lid, eerste zin, wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-07-01&g=2014-07-01), bedoelde formulieren.
+4. Voor het verzoekschrift, bedoeld in het eerste lid, eerste zin, wordt gebruik gemaakt van een formulier dat is opgenomen in de in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-10-10&g=2014-10-10), bedoelde formulieren.
 
 5. Voor het verzoekschrift, bedoeld in het eerste lid, tweede zin, wordt gebruik gemaakt van een formulier dat bij elke gemeente kosteloos verkrijgbaar is. Bij ministeriële regeling wordt voor het formulier een model vastgesteld.
 
@@ -1336,13 +1336,13 @@ Bij de verkiezing van de leden van de Tweede Kamer wordt aan de kiezer die op de
 
 1. Op het verzoek wordt zo spoedig mogelijk beslist.
 
-2. Het verzoek wordt slechts afgewezen, indien gebleken is dat de verzoeker niet tot de in [artikel M 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_1&z=2014-07-01&g=2014-07-01) bedoelde kiezers behoort.
+2. Het verzoek wordt slechts afgewezen, indien gebleken is dat de verzoeker niet tot de in [artikel M 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_1&z=2014-10-10&g=2014-10-10) bedoelde kiezers behoort.
 
 3. Indien het verzoek niet in verdere behandeling wordt genomen of wordt afgewezen, wordt de beslissing met opgave van redenen schriftelijk aan de verzoeker medegedeeld.
 
-4. Indien het een verzoekschrift als bedoeld in [artikel M 3, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_3&z=2014-07-01&g=2014-07-01), betreft en het verzoekschrift afkomstig is van een persoon die als kiezer in een andere gemeente in Nederland is geregistreerd dan de gemeente 's-Gravenhage, zendt de burgemeester het ingewilligde verzoekschrift zo spoedig mogelijk door naar de burgemeester van 's-Gravenhage.
+4. Indien het een verzoekschrift als bedoeld in [artikel M 3, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_3&z=2014-10-10&g=2014-10-10), betreft en het verzoekschrift afkomstig is van een persoon die als kiezer in een andere gemeente in Nederland is geregistreerd dan de gemeente 's-Gravenhage, zendt de burgemeester het ingewilligde verzoekschrift zo spoedig mogelijk door naar de burgemeester van 's-Gravenhage.
 
-5. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
+5. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
 
 ##### Artikel M 5
 
@@ -1350,7 +1350,7 @@ Vervallen
 
 ##### Artikel M 6
 
-1. De burgemeester van ’s-Gravenhage zendt de kiezers, bedoeld in de [artikelen D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01) en [M 3, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_3&z=2014-07-01&g=2014-07-01), en de vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten zendt de kiezers, bedoeld in [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01), zo spoedig mogelijk op bij algemene maatregel van bestuur te bepalen wijze:
+1. De burgemeester van ’s-Gravenhage zendt de kiezers, bedoeld in de [artikelen D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10) en [M 3, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_3&z=2014-10-10&g=2014-10-10), en de vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten zendt de kiezers, bedoeld in [artikel D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10), zo spoedig mogelijk op bij algemene maatregel van bestuur te bepalen wijze:
 
 - a. een stembiljet;
 
@@ -1378,13 +1378,13 @@ Vervallen
 
 5. Indien de retourenveloppe is geadresseerd aan de burgemeester van ’s-Gravenhage, kan de kiezer de retourenveloppe doen toekomen aan het hoofd van de consulaire post waaronder de woon- en verblijfplaats van de kiezer ressorteert. Het hoofd van de consulaire post draagt zorg voor spoedige doorzending naar de burgemeester van ’s-Gravenhage.
 
-6. Indien de retourenveloppe is geadresseerd aan de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten, kan de kiezer de retourenveloppe inleveren bij een of meer locaties die zijn aangewezen door deze vertegenwoordiger. De vertegenwoordiger maakt deze locaties bekend in de handleiding voor de kiezer, bedoeld in [artikel M 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-07-01&g=2014-07-01).
+6. Indien de retourenveloppe is geadresseerd aan de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten, kan de kiezer de retourenveloppe inleveren bij een of meer locaties die zijn aangewezen door deze vertegenwoordiger. De vertegenwoordiger maakt deze locaties bekend in de handleiding voor de kiezer, bedoeld in [artikel M 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel M 8
 
-1. De stukken, bedoeld in [artikel M 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_7&z=2014-07-01&g=2014-07-01), dienen uiterlijk op de dag der stemming om vijftien uur in het bezit te zijn van de burgemeester van 's-Gravenhage.
+1. De stukken, bedoeld in [artikel M 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_7&z=2014-10-10&g=2014-10-10), dienen uiterlijk op de dag der stemming om vijftien uur in het bezit te zijn van de burgemeester van 's-Gravenhage.
 
-2. De burgemeester draagt er zorg voor dat de tijdig binnengekomen retourenveloppen die voldoende zijn gefrankeerd, op de dag der stemming voor eenentwintig uur ongeopend overhandigd worden aan de voorzitters van de stembureaus, bedoeld in [artikel M 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-07-01&g=2014-07-01).
+2. De burgemeester draagt er zorg voor dat de tijdig binnengekomen retourenveloppen die voldoende zijn gefrankeerd, op de dag der stemming voor eenentwintig uur ongeopend overhandigd worden aan de voorzitters van de stembureaus, bedoeld in [artikel M 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-10-10&g=2014-10-10).
 
 3. Op de retourenveloppen die te laat zijn binnengekomen, worden door de burgemeester de dag en, indien dit de dag van de stemming is, tevens het uur van binnenkomst aangetekend. Deze retourenveloppen en de retourenveloppen die niet voldoende zijn gefrankeerd, worden door de burgemeester ongeopend in een of meer te verzegelen pakken gedaan. Ook de binnengekomen stembiljetten en briefstembewijzen die niet in de daarvoor bestemde retourenveloppen zijn teruggezonden, worden door de burgemeester in een of meer te verzegelen pakken gedaan.
 
@@ -1392,19 +1392,19 @@ Vervallen
 
 ##### Artikel M 9
 
-1. Burgemeester en wethouders van 's-Gravenhage wijzen in hun gemeente briefstembureaus aan. Deze stembureaus zijn uitsluitend bestemd voor per brief uit te brengen stemmen. Ten aanzien van deze stembureaus zijn [artikel J 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_11&z=2014-07-01&g=2014-07-01) en [artikel J 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_16&z=2014-07-01&g=2014-07-01), voor zover dat artikel betrekking heeft op stemhokjes, niet van toepassing.
+1. Burgemeester en wethouders van 's-Gravenhage wijzen in hun gemeente briefstembureaus aan. Deze stembureaus zijn uitsluitend bestemd voor per brief uit te brengen stemmen. Ten aanzien van deze stembureaus zijn [artikel J 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=3&artikel=J_11&z=2014-10-10&g=2014-10-10) en [artikel J 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_16&z=2014-10-10&g=2014-10-10), voor zover dat artikel betrekking heeft op stemhokjes, niet van toepassing.
 
-2. Burgemeester en wethouders kunnen in afwijking van [artikel J 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-07-01&g=2014-07-01) bepalen, dat deze stembureaus ten behoeve van het verrichten van de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-07-01&g=2014-07-01) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01), tevens zitting houden vanaf zeven dagen voor de dag van stemming op door burgemeester en wethouders te bepalen tijden. In dat geval draagt de burgemeester er in afwijking van [artikel M 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-07-01&g=2014-07-01), zorg voor dat de binnengekomen retourenveloppen die voldoende zijn gefrankeerd, op deze dagen worden overhandigd aan de voorzitter van de briefstembureaus.
+2. Burgemeester en wethouders kunnen in afwijking van [artikel J 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-10-10&g=2014-10-10) bepalen, dat deze stembureaus ten behoeve van het verrichten van de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-10-10&g=2014-10-10) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10), tevens zitting houden vanaf zeven dagen voor de dag van stemming op door burgemeester en wethouders te bepalen tijden. In dat geval draagt de burgemeester er in afwijking van [artikel M 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-10-10&g=2014-10-10), zorg voor dat de binnengekomen retourenveloppen die voldoende zijn gefrankeerd, op deze dagen worden overhandigd aan de voorzitter van de briefstembureaus.
 
-3. Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van de bevoegdheid, bedoeld in het tweede lid, vangen deze stembureaus op de dag van stemming eerst met de handelingen bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-07-01&g=2014-07-01) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01), aan, nadat het stembureau overeenkomstig [artikel N 16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16a&z=2014-07-01&g=2014-07-01), de stemopneming heeft verricht ten aanzien van de stembiljetten die zich bij aanvang van de dag van stemming in de stembus bevinden.
+3. Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van de bevoegdheid, bedoeld in het tweede lid, vangen deze stembureaus op de dag van stemming eerst met de handelingen bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-10-10&g=2014-10-10) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10), aan, nadat het stembureau overeenkomstig [artikel N 16a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16a&z=2014-10-10&g=2014-10-10), de stemopneming heeft verricht ten aanzien van de stembiljetten die zich bij aanvang van de dag van stemming in de stembus bevinden.
 
-4. In afwijking van [artikel J 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-07-01&g=2014-07-01), eindigt de stemming op de dag der stemming zodra de briefstembureaus de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-07-01&g=2014-07-01) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01), ten aanzien van alle tijdig binnengekomen retourenveloppen hebben beëindigd.
+4. In afwijking van [artikel J 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-10-10&g=2014-10-10), eindigt de stemming op de dag der stemming zodra de briefstembureaus de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-10-10&g=2014-10-10) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10), ten aanzien van alle tijdig binnengekomen retourenveloppen hebben beëindigd.
 
 5. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de zittingen, bedoeld in het tweede lid, en het bewaren van de stembescheiden.
 
-6. In plaats van het in [artikel J 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_17&z=2014-07-01&g=2014-07-01), bedoelde afschrift liggen op de tafel van deze stembureaus de ingewilligde verzoekschriften.
+6. In plaats van het in [artikel J 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=4&artikel=J_17&z=2014-10-10&g=2014-10-10), bedoelde afschrift liggen op de tafel van deze stembureaus de ingewilligde verzoekschriften.
 
-7. [Artikel E 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=2&artikel=E_4&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing.
+7. [Artikel E 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=2&artikel=E_4&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing.
 
 ##### Artikel M 10
 
@@ -1418,7 +1418,7 @@ Vervallen
 
 ##### Artikel M 11
 
-1. Indien de retourenveloppe niet zowel een geldig briefstembewijs als een stembiljet, onderscheidenlijk de in [artikel M 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-07-01&g=2014-07-01), bedoelde enveloppe met stembiljet, bevat, dan wel de op het briefstembewijs gestelde verklaring van de kiezer dat hij het stembiljet persoonlijk heeft ingevuld, niet door deze is ondertekend, voegt de voorzitter de aangetroffen bescheiden, zonder het stembiljet in te zien dan wel zonder de enveloppe met het stembiljet te openen, wederom in de retourenveloppe en legt hij deze, na haar te hebben verzegeld, terzijde.
+1. Indien de retourenveloppe niet zowel een geldig briefstembewijs als een stembiljet, onderscheidenlijk de in [artikel M 6, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_6&z=2014-10-10&g=2014-10-10), bedoelde enveloppe met stembiljet, bevat, dan wel de op het briefstembewijs gestelde verklaring van de kiezer dat hij het stembiljet persoonlijk heeft ingevuld, niet door deze is ondertekend, voegt de voorzitter de aangetroffen bescheiden, zonder het stembiljet in te zien dan wel zonder de enveloppe met het stembiljet te openen, wederom in de retourenveloppe en legt hij deze, na haar te hebben verzegeld, terzijde.
 
 2. Indien in een retourenveloppe twee of meer stembiljetten, onderscheidenlijk enveloppen met stembiljet, zijn gevoegd, doet de voorzitter alle stembiljetten, onderscheidenlijk enveloppen met stembiljet en briefstembewijzen, zonder de stembiljetten in te zien dan wel de enveloppen met stembiljet te openen, wederom in de retourenveloppe en legt hij deze, na haar te hebben verzegeld, terzijde.
 
@@ -1442,7 +1442,7 @@ Vervallen
 
 ##### Artikel M 14
 
-Indien op grond van [artikel M 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-07-01&g=2014-07-01) voor de kiesgerechtigde een briefstembureau is ingesteld, zendt de burgemeester van ’s-Gravenhage het ingewilligde verzoekschrift naar dat briefstembureau.
+Indien op grond van [artikel M 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-10-10&g=2014-10-10) voor de kiesgerechtigde een briefstembureau is ingesteld, zendt de burgemeester van ’s-Gravenhage het ingewilligde verzoekschrift naar dat briefstembureau.
 
 ##### Artikel M 15
 
@@ -1450,7 +1450,7 @@ Vervallen
 
 ##### Artikel M 16
 
-1. De [artikelen M 8, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-07-01&g=2014-07-01), en [M 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing op briefstembureaus in het buitenland, met dien verstande dat:
+1. De [artikelen M 8, eerste tot en met het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-10-10&g=2014-10-10), en [M 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-10-10&g=2014-10-10) zijn van overeenkomstige toepassing op briefstembureaus in het buitenland, met dien verstande dat:
 
 - a. aan de burgemeester opgedragen taken worden verricht door het briefstembureau dan wel door de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten;
 
@@ -1458,11 +1458,11 @@ Vervallen
 
 - c. indien een tijdsverschil met Nederland bestaat, de genoemde tijdstippen naar plaatselijke tijd gelden.
 
-2. De [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-07-01&g=2014-07-01) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01) zijn van toepassing op briefstembureaus in het buitenland.
+2. De [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-10-10&g=2014-10-10) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10) zijn van toepassing op briefstembureaus in het buitenland.
 
 ##### Artikel M 17
 
-Voor de zitting van briefstembureaus buiten Nederland kan Onze Minister van Buitenlandse Zaken danwel Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties danwel Onze Minister van Defensie, een later aanvangstijdstip bepalen dan het in [artikel J 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-07-01&g=2014-07-01), genoemde.
+Voor de zitting van briefstembureaus buiten Nederland kan Onze Minister van Buitenlandse Zaken danwel Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties danwel Onze Minister van Defensie, een later aanvangstijdstip bepalen dan het in [artikel J 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-10-10&g=2014-10-10), genoemde.
 
 ### Hoofdstuk N. De stemopneming door het stembureau
 
@@ -1490,7 +1490,7 @@ Voor de zitting van briefstembureaus buiten Nederland kan Onze Minister van Buit
 
 ##### Artikel N 3
 
-Onmiddellijk na de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) voorgeschreven verzegelingen wordt de stembus geopend.
+Onmiddellijk na de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) voorgeschreven verzegelingen wordt de stembus geopend.
 
 ##### Artikel N 4
 
@@ -1526,7 +1526,7 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 ##### Artikel N 8
 
-1. Het stembureau beslist met inachtneming van [artikel N 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_7&z=2014-07-01&g=2014-07-01) over de geldigheid van het stembiljet.
+1. Het stembureau beslist met inachtneming van [artikel N 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_7&z=2014-10-10&g=2014-10-10) over de geldigheid van het stembiljet.
 
 2. De voorzitter maakt de reden van ongeldigverklaring en van twijfel over de geldigheid, alsmede de beslissing daaromtrent onmiddellijk bekend.
 
@@ -1534,7 +1534,7 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 ##### Artikel N 9
 
-1. Terstond nadat de stemmen zijn opgenomen, deelt de voorzitter de aantallen, bedoeld in de [artikelen N 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_6&z=2014-07-01&g=2014-07-01) en [N 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8a&z=2014-07-01&g=2014-07-01), mede. Door de aanwezige kiezers kunnen mondeling bezwaren worden ingebracht.
+1. Terstond nadat de stemmen zijn opgenomen, deelt de voorzitter de aantallen, bedoeld in de [artikelen N 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_6&z=2014-10-10&g=2014-10-10) en [N 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8a&z=2014-10-10&g=2014-10-10), mede. Door de aanwezige kiezers kunnen mondeling bezwaren worden ingebracht.
 
 2. Vervolgens worden de stembiljetten met een blanco stem en de ongeldig verklaarde stembiljetten in pakken gedaan, die worden verzegeld. Op deze pakken wordt vermeld:
 
@@ -1552,7 +1552,7 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 ##### Artikel N 10
 
-1. Nadat alle werkzaamheden, in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld.
+1. Nadat alle werkzaamheden, in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming. Alle ingebrachte bezwaren worden in het proces-verbaal vermeld.
 
 2. Het proces-verbaal wordt door alle aanwezige leden van het stembureau getekend.
 
@@ -1560,7 +1560,7 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 ##### Artikel N 11
 
-1. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01), alsmede met die, bedoeld in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01), door de voorzitter of een door hem aan te wijzen ander lid van het stembureau naar de burgemeester overgebracht.
+1. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10), alsmede met die, bedoeld in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10), door de voorzitter of een door hem aan te wijzen ander lid van het stembureau naar de burgemeester overgebracht.
 
 2. Nadat de burgemeester van alle in zijn gemeente gevestigde stembureaus het proces-verbaal heeft ontvangen, stelt hij ten aanzien van iedere kandidaat en iedere lijst vast het aantal stemmen dat in zijn gemeente op die kandidaat, onderscheidenlijk die lijst, is uitgebracht.
 
@@ -1582,9 +1582,9 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 1. De burgemeester brengt de processen-verbaal en de opgave van de door hem vastgestelde aantallen stemmen onverwijld over naar het hoofdstembureau. Tevens legt hij een afschrift van deze stukken onverwijld voor een ieder ter inzage op het gemeentehuis totdat over de toelating van de gekozenen is beslist.
 
-2. De burgemeester brengt de pakken, bedoeld in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01), op verzoek van het centraal stembureau over naar het centraal stembureau.
+2. De burgemeester brengt de pakken, bedoeld in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10), op verzoek van het centraal stembureau over naar het centraal stembureau.
 
-3. De burgemeester bewaart de pakken, bedoeld in de [artikelen N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01), die niet naar het centraal stembureau zijn overgebracht, en de afschriften, bedoeld in het eerste lid, drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze stukken onmiddellijk, tenzij:
+3. De burgemeester bewaart de pakken, bedoeld in de [artikelen N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10), die niet naar het centraal stembureau zijn overgebracht, en de afschriften, bedoeld in het eerste lid, drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze stukken onmiddellijk, tenzij:
 
 - a. de officier van justitie of de rechter-commissaris in het kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot overdracht van deze stukken, in welk geval de vernietiging plaatsvindt nadat dit onderzoek is afgerond;
 
@@ -1594,7 +1594,7 @@ De leden van het stembureau openen de stembiljetten en voegen deze lijstgewijze 
 
 ##### Artikel N 13
 
-Nadat is beslist over de toelating van de gekozenen, is de burgemeester bevoegd, de pakken, bedoeld in de [artikelen N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01), die niet naar het centraal stembureau zijn overgebracht, te openen en deze pakken, alsmede de afschriften, bedoeld in [artikel N 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-07-01&g=2014-07-01), over te dragen aan de officier van justitie ten dienste van een onderzoek naar enig strafbaar feit.
+Nadat is beslist over de toelating van de gekozenen, is de burgemeester bevoegd, de pakken, bedoeld in de [artikelen N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10), die niet naar het centraal stembureau zijn overgebracht, te openen en deze pakken, alsmede de afschriften, bedoeld in [artikel N 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-10-10&g=2014-10-10), over te dragen aan de officier van justitie ten dienste van een onderzoek naar enig strafbaar feit.
 
 ##### Artikel N 14
 
@@ -1604,29 +1604,29 @@ Vervallen
 
 ##### Artikel N 15
 
-In afwijking van [artikel N 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-07-01&g=2014-07-01), stelt het stembureau vast het aantal door het stembureau ontvangen retourenveloppen en het aantal ingevolge [artikel M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01) terzijde gelegde retourenveloppen. Het verschil tussen deze aantallen is het aantal kiezers dat tot de stemming is toegelaten.
+In afwijking van [artikel N 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-10-10&g=2014-10-10), stelt het stembureau vast het aantal door het stembureau ontvangen retourenveloppen en het aantal ingevolge [artikel M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10) terzijde gelegde retourenveloppen. Het verschil tussen deze aantallen is het aantal kiezers dat tot de stemming is toegelaten.
 
 ##### Artikel N 16
 
-1. Bij een briefstembureau worden, nadat aan [artikel N 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-07-01&g=2014-07-01), toepassing is gegeven, de ingewilligde verzoekschriften te zamen met een gewaarmerkte verklaring van het stembureau betreffende het aantal gestelde parafen, in een pak gedaan, dat wordt verzegeld. Vervolgens worden op overeenkomstige wijze ingepakt de retourenveloppen, bedoeld in [artikel M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01), alsmede de ingeleverde briefstembewijzen.
+1. Bij een briefstembureau worden, nadat aan [artikel N 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-10-10&g=2014-10-10), toepassing is gegeven, de ingewilligde verzoekschriften te zamen met een gewaarmerkte verklaring van het stembureau betreffende het aantal gestelde parafen, in een pak gedaan, dat wordt verzegeld. Vervolgens worden op overeenkomstige wijze ingepakt de retourenveloppen, bedoeld in [artikel M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10), alsmede de ingeleverde briefstembewijzen.
 
-2. Alvorens over te gaan tot de handelingen, bedoeld in [artikel N 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2014-07-01&g=2014-07-01), opent de voorzitter van het briefstembureau de enveloppen die zich in de stembus bevinden. Indien in een enveloppe zich geen of meer dan één stembiljet bevindt, wordt hiervan een aantekening gemaakt. Indien zich meer dan één stembiljet in één enveloppe bevindt, doet de voorzitter van het briefstembureau deze biljetten wederom in de enveloppe en legt hij deze, na haar te hebben verzegeld, terzijde.
+2. Alvorens over te gaan tot de handelingen, bedoeld in [artikel N 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_4&z=2014-10-10&g=2014-10-10), opent de voorzitter van het briefstembureau de enveloppen die zich in de stembus bevinden. Indien in een enveloppe zich geen of meer dan één stembiljet bevindt, wordt hiervan een aantekening gemaakt. Indien zich meer dan één stembiljet in één enveloppe bevindt, doet de voorzitter van het briefstembureau deze biljetten wederom in de enveloppe en legt hij deze, na haar te hebben verzegeld, terzijde.
 
-3. [Artikel N 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_7&z=2014-07-01&g=2014-07-01) is van toepassing, met dien verstande dat voor de toepassing van het eerste lid, in plaats van «rood heeft gemaakt» wordt gelezen: rood, blauw, zwart of groen heeft gemaakt, en dat voor de toepassing van het derde lid, in plaats van «rood maken» wordt gelezen: rood, blauw, zwart of groen maken.
+3. [Artikel N 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_7&z=2014-10-10&g=2014-10-10) is van toepassing, met dien verstande dat voor de toepassing van het eerste lid, in plaats van «rood heeft gemaakt» wordt gelezen: rood, blauw, zwart of groen heeft gemaakt, en dat voor de toepassing van het derde lid, in plaats van «rood maken» wordt gelezen: rood, blauw, zwart of groen maken.
 
-4. [Artikel N 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-07-01&g=2014-07-01), is van toepassing, met dien verstande dat in plaats van «artikel N 7» wordt gelezen: [artikel N 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16&z=2014-07-01&g=2014-07-01),.
+4. [Artikel N 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-10-10&g=2014-10-10), is van toepassing, met dien verstande dat in plaats van «artikel N 7» wordt gelezen: [artikel N 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16&z=2014-10-10&g=2014-10-10),.
 
 ##### Artikel N 16a
 
-1. Indien gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel M 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-07-01&g=2014-07-01), vangt het briefstembureau in afwijking van [artikel N 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-07-01&g=2014-07-01) de stemopneming op de dag van stemming aan om zeven uur dertig ten aanzien van de stembiljetten die zich op dat moment in de stembus bevinden.
+1. Indien gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel M 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_9&z=2014-10-10&g=2014-10-10), vangt het briefstembureau in afwijking van [artikel N 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_1&z=2014-10-10&g=2014-10-10) de stemopneming op de dag van stemming aan om zeven uur dertig ten aanzien van de stembiljetten die zich op dat moment in de stembus bevinden.
 
-2. Ten behoeve van de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-07-01&g=2014-07-01) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-07-01&g=2014-07-01), ten aanzien van de nog niet geopende retourenveloppen wordt de stemopneming volgens bij algemene maatregel van bestuur te stellen regels geschorst. Zodra deze handelingen ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, wordt de stemopneming volgens bij algemene maatregel van bestuur te stellen regels hervat.
+2. Ten behoeve van de handelingen, bedoeld in de [artikelen M 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_10&z=2014-10-10&g=2014-10-10) en [M 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_11&z=2014-10-10&g=2014-10-10), ten aanzien van de nog niet geopende retourenveloppen wordt de stemopneming volgens bij algemene maatregel van bestuur te stellen regels geschorst. Zodra deze handelingen ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, wordt de stemopneming volgens bij algemene maatregel van bestuur te stellen regels hervat.
 
-3. Zolang de stemming niet op alle stembureaus in Nederland is geëindigd, blijft [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) buiten toepassing. Voorts is een ieder die ambtshalve kennis kan nemen van de vastgestelde aantallen stemmen, zolang verplicht tot geheimhouding daarvan.
+3. Zolang de stemming niet op alle stembureaus in Nederland is geëindigd, blijft [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) buiten toepassing. Voorts is een ieder die ambtshalve kennis kan nemen van de vastgestelde aantallen stemmen, zolang verplicht tot geheimhouding daarvan.
 
 ##### Artikel N 17
 
-1. Indien in een briefstembureau buiten Nederland de stemopneming, gemeten naar Nederlandse tijd, eerder aanvangt dan in Nederland, blijft [artikel N 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01), buiten toepassing.
+1. Indien in een briefstembureau buiten Nederland de stemopneming, gemeten naar Nederlandse tijd, eerder aanvangt dan in Nederland, blijft [artikel N 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10), buiten toepassing.
 
 2. In dat geval draagt het hoofd van de diplomatieke of consulaire vertegenwoordiging danwel de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten danwel de Nederlandse leiding van de militaire missie er zorg voor dat een afschrift van het proces-verbaal van het briefstembureau vanaf de volgende dag gedurende vier weken bij de vertegenwoordiging danwel de Nederlandse leiding van de militaire missie voor een ieder ter inzage ligt.
 
@@ -1636,19 +1636,19 @@ De leden van een briefstembureau buiten Nederland kunnen zich doen bijstaan door
 
 ##### Artikel N 19
 
-Bij briefstembureaus buiten Nederland wordt op de in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) bedoelde pakken de naam van het land waarin het briefstembureau is gevestigd, vermeld.
+Bij briefstembureaus buiten Nederland wordt op de in [artikel N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) bedoelde pakken de naam van het land waarin het briefstembureau is gevestigd, vermeld.
 
 ##### Artikel N 20
 
-1. Het proces-verbaal van een briefstembureau buiten Nederland wordt met de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) bedoelde verzegelde pakken overgedragen aan het hoofd van de ingevolge [artikel M 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-07-01&g=2014-07-01), aangewezen diplomatieke of consulaire vertegenwoordiging danwel aan de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten danwel aan de Nederlandse leiding van de militaire missie.
+1. Het proces-verbaal van een briefstembureau buiten Nederland wordt met de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) bedoelde verzegelde pakken overgedragen aan het hoofd van de ingevolge [artikel M 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-10-10&g=2014-10-10), aangewezen diplomatieke of consulaire vertegenwoordiging danwel aan de vertegenwoordiger van Nederland in Aruba, Curaçao of Sint Maarten danwel aan de Nederlandse leiding van de militaire missie.
 
 2. Deze draagt er zorg voor dat het proces-verbaal terstond langs elektronische weg ter kennis van de burgemeester van 's-Gravenhage wordt gebracht.
 
-3. Voorts draagt hij er zorg voor dat het proces-verbaal met de in de [artikelen M 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-07-01&g=2014-07-01), [N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) en [N 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16&z=2014-07-01&g=2014-07-01) bedoelde verzegelde pakken zo spoedig mogelijk per diplomatieke post naar de burgemeester van 's-Gravenhage worden overgebracht.
+3. Voorts draagt hij er zorg voor dat het proces-verbaal met de in de [artikelen M 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=2&artikel=M_8&z=2014-10-10&g=2014-10-10), [N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) en [N 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=2&artikel=N_16&z=2014-10-10&g=2014-10-10) bedoelde verzegelde pakken zo spoedig mogelijk per diplomatieke post naar de burgemeester van 's-Gravenhage worden overgebracht.
 
 ##### Artikel N 21
 
-De vaststelling van de aantallen stemmen, bedoeld in [artikel N 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_11&z=2014-07-01&g=2014-07-01), vindt door de burgemeester van 's-Gravenhage eerst plaats nadat hem tevens alle processen-verbaal van de briefstembureaus buiten Nederland langs elektronische weg ter kennis zijn gebracht.
+De vaststelling van de aantallen stemmen, bedoeld in [artikel N 11, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_11&z=2014-10-10&g=2014-10-10), vindt door de burgemeester van 's-Gravenhage eerst plaats nadat hem tevens alle processen-verbaal van de briefstembureaus buiten Nederland langs elektronische weg ter kennis zijn gebracht.
 
 ### Hoofdstuk O. De taak van het hoofdstembureau betreffende de vaststelling van de verkiezingsuitslag
 
@@ -1686,7 +1686,7 @@ De vaststelling van de aantallen stemmen, bedoeld in [artikel N 11, tweede en de
 
 3. Bij ministeriële regeling wordt voor het proces-verbaal een model vastgesteld.
 
-4. Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, maakt het proces-verbaal deel uit van het proces-verbaal, bedoeld in [artikel P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-07-01&g=2014-07-01).
+4. Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, maakt het proces-verbaal deel uit van het proces-verbaal, bedoeld in [artikel P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel O 4
 
@@ -1710,23 +1710,23 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 
 ##### Artikel P 1
 
-Onmiddellijk nadat de processen-verbaal van alle hoofdstembureaus zijn ontvangen, gaat het centraal stembureau over tot het verrichten van de werkzaamheden ter vaststelling en bekendmaking van de uitslag van de verkiezing. Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, gaat het centraal stembureau daartoe onmiddellijk over nadat de werkzaamheden, bedoeld in de [artikelen O 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_1&z=2014-07-01&g=2014-07-01) en [O 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_2&z=2014-07-01&g=2014-07-01), zijn beëindigd.
+Onmiddellijk nadat de processen-verbaal van alle hoofdstembureaus zijn ontvangen, gaat het centraal stembureau over tot het verrichten van de werkzaamheden ter vaststelling en bekendmaking van de uitslag van de verkiezing. Indien het de verkiezing betreft van de gemeenteraad, van het algemeen bestuur of van provinciale staten van een provincie die één kieskring vormt, gaat het centraal stembureau daartoe onmiddellijk over nadat de werkzaamheden, bedoeld in de [artikelen O 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_1&z=2014-10-10&g=2014-10-10) en [O 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_2&z=2014-10-10&g=2014-10-10), zijn beëindigd.
 
 #### § 2. De zetelverdeling
 
 ##### Artikel P 2
 
-1. Een stel gelijkluidende lijsten als bedoeld in [artikel H 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_11&z=2014-07-01&g=2014-07-01), geldt voor de vaststelling van de uitslag van de verkiezing als één lijst.
+1. Een stel gelijkluidende lijsten als bedoeld in [artikel H 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_11&z=2014-10-10&g=2014-10-10), geldt voor de vaststelling van de uitslag van de verkiezing als één lijst.
 
 2. Het centraal stembureau telt van deze gelijkluidende lijsten te zamen de stemcijfers en de aantallen op iedere kandidaat uitgebrachte stemmen.
 
 ##### Artikel P 3
 
-Een lijstengroep als bedoeld in [artikel H 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_11&z=2014-07-01&g=2014-07-01), geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit de groep bestaat.
+Een lijstengroep als bedoeld in [artikel H 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_11&z=2014-10-10&g=2014-10-10), geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit de groep bestaat.
 
 ##### Artikel P 4
 
-1. Een lijstencombinatie als bedoeld in [artikel I 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=2&artikel=I_10&z=2014-07-01&g=2014-07-01) geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit die combinatie bestaat.
+1. Een lijstencombinatie als bedoeld in [artikel I 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=2&artikel=I_10&z=2014-10-10&g=2014-10-10) geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit die combinatie bestaat.
 
 2. Een lijstencombinatie wordt slechts in aanmerking genomen, indien aan ten minste twee van de verbonden lijsten een zetel zou zijn toegewezen, indien geen lijstencombinaties zouden zijn gevormd. Verbonden lijsten die zelfstandig geen zetel zouden hebben verworven, worden geacht geen deel uit te maken van de lijstencombinatie.
 
@@ -1752,7 +1752,7 @@ Zoveel maal als de kiesdeler is begrepen in het stemcijfer van een lijst wordt a
 
 2. Bij deze toewijzing komen niet in aanmerking lijsten met een stemcijfer dat lager is dan 75% van de kiesdeler.
 
-3. Wanneer alle lijsten die daarvoor in aanmerking komen een restzetel hebben ontvangen en er nog zetels te verdelen blijven, worden deze zetels toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel P 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_7&z=2014-07-01&g=2014-07-01), met dien verstande, dat bij deze toewijzing aan geen van de lijsten meer dan één zetel wordt toegewezen.
+3. Wanneer alle lijsten die daarvoor in aanmerking komen een restzetel hebben ontvangen en er nog zetels te verdelen blijven, worden deze zetels toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel P 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_7&z=2014-10-10&g=2014-10-10), met dien verstande, dat bij deze toewijzing aan geen van de lijsten meer dan één zetel wordt toegewezen.
 
 ##### Artikel P 9
 
@@ -1788,13 +1788,13 @@ Indien bij de toepassing van de vorige bepalingen aan een lijst meer zetels zoud
 
 ##### Artikel P 13
 
-1. Indien bij de toepassing van [artikel P 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_11&z=2014-07-01&g=2014-07-01) of [artikel P 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_12&z=2014-07-01&g=2014-07-01) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voortgezette toepassing van dat artikel over op een van de andere lijsten van de combinatie, onderscheidenlijk van de groep, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
+1. Indien bij de toepassing van [artikel P 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_11&z=2014-10-10&g=2014-10-10) of [artikel P 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_12&z=2014-10-10&g=2014-10-10) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voortgezette toepassing van dat artikel over op een van de andere lijsten van de combinatie, onderscheidenlijk van de groep, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
 
-2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel P 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_7&z=2014-07-01&g=2014-07-01).
+2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel P 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_7&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel P 14
 
-De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-07-01&g=2014-07-01) bedoelde zitting van het centraal stembureau.
+De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-10-10&g=2014-10-10) bedoelde zitting van het centraal stembureau.
 
 #### § 3. De toewijzing van de zetels aan de kandidaten
 
@@ -1808,11 +1808,11 @@ De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel 
 
 1. Betreft het een lijstengroep, dan geldt, indien een aldus gekozen kandidaat op meer dan één lijst is vermeld, die kandidaat als gekozen op de lijst waarop het grootste aantal stemmen op hem is uitgebracht; voor zover aan die lijst voldoende zetels zijn toegewezen. Voor zover aantallen gelijk zijn, geldt hij als gekozen op de lijst, ingeleverd voor de kieskring, met het laagste nummer.
 
-2. Indien aan geen van de lijsten waarop de gekozen kandidaat is vermeld, voldoende zetels zijn toegewezen, wordt aan hem niettemin een zetel toegewezen op de lijst waarop hij het grootste aantal stemmen heeft verkregen, en vervalt daartegenover de zetel die met toepassing van [artikel P 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_12&z=2014-07-01&g=2014-07-01) of [P 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_13&z=2014-07-01&g=2014-07-01) het laatst was toegewezen aan een van de lijsten van de groep.
+2. Indien aan geen van de lijsten waarop de gekozen kandidaat is vermeld, voldoende zetels zijn toegewezen, wordt aan hem niettemin een zetel toegewezen op de lijst waarop hij het grootste aantal stemmen heeft verkregen, en vervalt daartegenover de zetel die met toepassing van [artikel P 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_12&z=2014-10-10&g=2014-10-10) of [P 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_13&z=2014-10-10&g=2014-10-10) het laatst was toegewezen aan een van de lijsten van de groep.
 
 ##### Artikel P 17
 
-De zetels, toegewezen aan de al dan niet van een lijstengroep deel uitmakende lijsten, die na toepassing van de [artikelen P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01) en [P 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-07-01&g=2014-07-01) nog niet aan een kandidaat zijn toegewezen, worden aan de nog niet gekozen kandidaten van de desbetreffende lijsten toegewezen in de volgorde van de lijst.
+De zetels, toegewezen aan de al dan niet van een lijstengroep deel uitmakende lijsten, die na toepassing van de [artikelen P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10) en [P 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-10-10&g=2014-10-10) nog niet aan een kandidaat zijn toegewezen, worden aan de nog niet gekozen kandidaten van de desbetreffende lijsten toegewezen in de volgorde van de lijst.
 
 ##### Artikel P 18
 
@@ -1828,13 +1828,13 @@ Vervallen
 
 ##### Artikel P 19
 
-1. Het centraal stembureau rangschikt ten aanzien van iedere lijst de daarop voorkomende kandidaten zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel is toegewezen met toepassing van [artikel P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01), in de volgorde waarin de zetels zijn toegewezen.
+1. Het centraal stembureau rangschikt ten aanzien van iedere lijst de daarop voorkomende kandidaten zodanig, dat bovenaan komen te staan de kandidaten aan wie een zetel is toegewezen met toepassing van [artikel P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10), in de volgorde waarin de zetels zijn toegewezen.
 
-2. Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die op de gezamenlijke lijsten waarop zij voorkomen een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler onderscheidenlijk groter dan de helft van de kiesdeler, doch die niet met toepassing van [artikel P 15, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01), zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.
+2. Vervolgens worden, in de volgorde van de aantallen op hen uitgebrachte stemmen, gerangschikt de op de lijst voorkomende kandidaten die op de gezamenlijke lijsten waarop zij voorkomen een aantal stemmen hebben verkregen, groter dan 25% van de kiesdeler onderscheidenlijk groter dan de helft van de kiesdeler, doch die niet met toepassing van [artikel P 15, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10), zijn gekozen verklaard. Indien aantallen gelijk zijn, beslist de volgorde van de lijst.
 
 3. Tenslotte worden, in de volgorde van de lijst, gerangschikt de overige op de lijst voorkomende kandidaten.
 
-4. Bij de rangschikking blijft [artikel P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_18&z=2014-07-01&g=2014-07-01) buiten toepassing.
+4. Bij de rangschikking blijft [artikel P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_18&z=2014-10-10&g=2014-10-10) buiten toepassing.
 
 5. Behoudens ten aanzien van de verkiezing waarbij het aantal te verdelen zetels minder dan dertien bedraagt, blijft de rangschikking achterwege, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstencombinatie of lijstengroep waaraan één of meer zetels zijn toegekend.
 
@@ -1860,11 +1860,11 @@ Vervallen
 
 ##### Artikel P 21
 
-1. Het centraal stembureau kan op de in [artikel P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-07-01&g=2014-07-01) bedoelde zitting, voordat de uitslag van de verkiezing bekend wordt gemaakt, hetzij ambtshalve, hetzij naar aanleiding van een met opgave van redenen gedaan verzoek van een of meer kiezers, tot een nieuwe opneming van stembiljetten, zowel uit alle als uit een of meer stembureaus, besluiten, indien een ernstig vermoeden bestaat dat door een of meer stembureaus bij de stemopneming zodanige fouten zijn gemaakt dat zij van invloed op de zetelverdeling kunnen zijn. De burgemeester die de desbetreffende stembiljetten onder zich heeft, doet deze op verzoek van het centraal stembureau onverwijld naar het centraal stembureau overbrengen.
+1. Het centraal stembureau kan op de in [artikel P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-10-10&g=2014-10-10) bedoelde zitting, voordat de uitslag van de verkiezing bekend wordt gemaakt, hetzij ambtshalve, hetzij naar aanleiding van een met opgave van redenen gedaan verzoek van een of meer kiezers, tot een nieuwe opneming van stembiljetten, zowel uit alle als uit een of meer stembureaus, besluiten, indien een ernstig vermoeden bestaat dat door een of meer stembureaus bij de stemopneming zodanige fouten zijn gemaakt dat zij van invloed op de zetelverdeling kunnen zijn. De burgemeester die de desbetreffende stembiljetten onder zich heeft, doet deze op verzoek van het centraal stembureau onverwijld naar het centraal stembureau overbrengen.
 
 2. Na ontvangst van de stembiljetten gaat het centraal stembureau onmiddellijk tot de opneming over. Het is bevoegd daartoe de verzegelde pakken te openen en de inhoud te vergelijken met de processen-verbaal van de stembureaus.
 
-3. Bij deze opneming zijn de [artikelen N 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_5&z=2014-07-01&g=2014-07-01), [N 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-07-01&g=2014-07-01) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing.
+3. Bij deze opneming zijn de [artikelen N 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_5&z=2014-10-10&g=2014-10-10), [N 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-10-10&g=2014-10-10) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) van overeenkomstige toepassing.
 
 ##### Artikel P 22
 
@@ -1884,7 +1884,7 @@ Het centraal stembureau doet een afschrift van het proces-verbaal toekomen aan h
 
 ##### Artikel P 25
 
-1. Het centraal stembureau bewaart de pakken, bedoeld in [artikel P 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_21&z=2014-07-01&g=2014-07-01), drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze stukken onmiddellijk, tenzij:
+1. Het centraal stembureau bewaart de pakken, bedoeld in [artikel P 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_21&z=2014-10-10&g=2014-10-10), drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt hij deze stukken onmiddellijk, tenzij:
 
 - a. de officier van justitie of de rechter-commissaris in het kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot overdracht van deze stukken, in welk geval de vernietiging plaatsvindt nadat dit onderzoek is afgerond;
 
@@ -1924,13 +1924,13 @@ In geval van ontbinding van de Eerste Kamer vindt de kandidaatstelling plaats bi
 
 ##### Artikel Q 6
 
-1. De registratie van een aanduiding van een politieke groepering voor de verkiezing van de leden van de Tweede Kamer, als bedoeld in [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), geldt tevens voor de verkiezing van de leden van de Eerste Kamer.
+1. De registratie van een aanduiding van een politieke groepering voor de verkiezing van de leden van de Tweede Kamer, als bedoeld in [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), geldt tevens voor de verkiezing van de leden van de Eerste Kamer.
 
 2. Een politieke groepering die een vereniging is met volledige rechtsbevoegdheid, waarvan de aanduiding niet is geregistreerd voor de verkiezing van de leden van de Tweede Kamer, kan aan het centraal stembureau voor de verkiezingen van de leden van de Eerste Kamer schriftelijk verzoeken de aanduiding waarmee zij voor die verkiezingen op de kandidatenlijst wenst te worden vermeld, in te schrijven in een register dat door het centraal stembureau wordt bijgehouden. Verzoeken, ontvangen na de drieënveertigste dag voor de kandidaatstelling, blijven voor de daaropvolgende verkiezing buiten behandeling.
 
-3. Het [tweede tot en met zevende lid van artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing, met dien verstande dat voor de toepassing van het zevende lid, onder d, in plaats van «de Tweede Kamer» wordt gelezen «de Eerste Kamer».
+3. Het [tweede tot en met zevende lid van artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10) zijn van overeenkomstige toepassing, met dien verstande dat voor de toepassing van het zevende lid, onder d, in plaats van «de Tweede Kamer» wordt gelezen «de Eerste Kamer».
 
-4. Behalve op de in [artikel G 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), genoemde gronden wordt op een verzoek om registratie van de aanduiding van een politieke groepering ten behoeve van de verkiezingen van de leden van de Eerste Kamer afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak overeenstemt met een aanduiding van een andere politieke groepering die reeds ten behoeve van de verkiezingen van de leden van de Tweede Kamer is geregistreerd, of met een aanduiding waarvoor reeds eerder of op dezelfde dag ten behoeve van de verkiezing van de leden van de Tweede Kamer een registratieverzoek is ontvangen, en daardoor verwarring te duchten is.
+4. Behalve op de in [artikel G 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), genoemde gronden wordt op een verzoek om registratie van de aanduiding van een politieke groepering ten behoeve van de verkiezingen van de leden van de Eerste Kamer afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak overeenstemt met een aanduiding van een andere politieke groepering die reeds ten behoeve van de verkiezingen van de leden van de Tweede Kamer is geregistreerd, of met een aanduiding waarvoor reeds eerder of op dezelfde dag ten behoeve van de verkiezing van de leden van de Tweede Kamer een registratieverzoek is ontvangen, en daardoor verwarring te duchten is.
 
 5. In afwijking van de [artikelen 6:7](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:7) en [6:8, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) wordt een beroepschrift tegen een beschikking als bedoeld in dit artikel ingediend uiterlijk op de zesde dag na de dagtekening van de Staatscourant waarin de beschikking is medegedeeld.
 
@@ -1956,7 +1956,7 @@ In geval van ontbinding van de Eerste Kamer vindt de kandidaatstelling plaats bi
 
 ##### Artikel R 3
 
-Op de lijst worden een of meer personen vermeld die bij verhindering van de inleveraar bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel S 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-07-01&g=2014-07-01).
+Op de lijst worden een of meer personen vermeld die bij verhindering van de inleveraar bevoegd zijn tot het herstel van verzuimen, bedoeld in [artikel S 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel R 4
 
@@ -1974,7 +1974,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ##### Artikel R 7
 
-1. De gemachtigde, bedoeld in [artikel G 1, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), onderscheidenlijk [artikel Q 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=Q&artikel=Q_6&z=2014-07-01&g=2014-07-01), in samenhang met artikel G 1, derde lid, onder d, kan aan degene die de kandidatenlijst inlevert de bevoegdheid verlenen boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals die door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.
+1. De gemachtigde, bedoeld in [artikel G 1, derde lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), onderscheidenlijk [artikel Q 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=Q&artikel=Q_6&z=2014-10-10&g=2014-10-10), in samenhang met artikel G 1, derde lid, onder d, kan aan degene die de kandidatenlijst inlevert de bevoegdheid verlenen boven de lijst de aanduiding van de desbetreffende groepering te plaatsen, zoals die door het centraal stembureau is geregistreerd. Een verklaring van de gemachtigde waaruit deze bevoegdheid blijkt, wordt bij de lijst overgelegd.
 
 2. Degene die de lijst inlevert, is bevoegd daarboven een aanduiding te plaatsen, gevormd door samenvoeging van door het centraal stembureau voor de verkiezing van de leden van de Eerste Kamer of van de Tweede Kamer geregistreerde aanduidingen of afkortingen daarvan, indien hem daartoe de bevoegdheid is verleend door de gemachtigden van de onderscheidene groeperingen. Verklaringen van de gemachtigden waaruit deze bevoegdheid blijkt, worden bij de lijst overgelegd. Een aldus gevormde aanduiding mag niet meer dan 35 letters of andere tekens bevatten.
 
@@ -1984,7 +1984,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ##### Artikel R 8
 
-1. Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de provincie of provincies waarvoor deze lijst is ingeleverd. Tenzij een gemachtigde, bedoeld in de [artikelen R 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9&z=2014-07-01&g=2014-07-01) of [R 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9a&z=2014-07-01&g=2014-07-01), wordt aangewezen wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01), wil ontvangen.
+1. Bij de lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat dat hij instemt met zijn kandidaatstelling op deze lijst voor de provincie of provincies waarvoor deze lijst is ingeleverd. Tenzij een gemachtigde, bedoeld in de [artikelen R 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9&z=2014-10-10&g=2014-10-10) of [R 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9a&z=2014-10-10&g=2014-10-10), wordt aangewezen wordt op deze verklaring vermeld op welk adres de kandidaat de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10), wil ontvangen.
 
 2. Een overgelegde verklaring van instemming kan niet worden ingetrokken.
 
@@ -1994,13 +1994,13 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 ##### Artikel R 9
 
-1. De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat meer dan één verklaring ondertekent, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-07-01&g=2014-07-01), [V 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-07-01&g=2014-07-01).
+1. De kandidaat wiens woonplaats buiten het Europese deel van Nederland is gelegen, wijst in de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aan met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat meer dan één verklaring ondertekent, moet in iedere verklaring dezelfde gemachtigde worden aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-10-10&g=2014-10-10), [V 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-10-10&g=2014-10-10).
 
-2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de voorzitter van het centraal stembureau, zo nodig met aanwijzing van een nieuwe gemachtigde. Indien geen nieuwe gemachtigde wordt aangewezen, vermeldt de kandidaat op welk adres hij de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01), wil ontvangen.
+2. De kandidaat is bevoegd de overeenkomstig het eerste lid gegeven volmacht in te trekken. Hij geeft hiervan schriftelijk kennis aan de voorzitter van het centraal stembureau, zo nodig met aanwijzing van een nieuwe gemachtigde. Indien geen nieuwe gemachtigde wordt aangewezen, vermeldt de kandidaat op welk adres hij de kennisgeving van zijn benoeming, bedoeld in [artikel V 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10), wil ontvangen.
 
 ##### Artikel R 9a
 
-1. De in het Europese deel van Nederland wonende kandidaat kan bij de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aanwijzen met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat meer dan één verklaring ondertekent, wordt in iedere verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-07-01&g=2014-07-01), [V 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-07-01&g=2014-07-01).
+1. De in het Europese deel van Nederland wonende kandidaat kan bij de verklaring van instemming tevens een in het Europese deel van Nederland wonende gemachtigde aanwijzen met vermelding van diens naam, voorletters, woonplaats en adres. Indien de kandidaat meer dan één verklaring ondertekent, wordt in iedere verklaring dezelfde gemachtigde aangewezen. Deze gemachtigde is met uitsluiting van de kandidaat bevoegd tot de handelingen, bedoeld in de [artikelen V 2, eerste, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-10-10&g=2014-10-10), [V 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10), en [W 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-10-10&g=2014-10-10).
 
 2. Van de machtiging kan alleen gebruik worden gemaakt, indien dit gebruik ertoe strekt dat kandidaten van de gezamenlijke lijsten van de politieke groepering benoemd worden verklaard in de volgorde die voor de dag van de stemming door de politieke groepering is vastgesteld.
 
@@ -2008,7 +2008,7 @@ De wijze waarop kandidaten op de lijst worden vermeld, wordt geregeld bij algeme
 
 4. De politieke groepering deelt de in het tweede lid bedoelde volgorde uiterlijk twee weken na de kandidaatstelling mee aan het centraal stembureau. De voorzitter van het centraal stembureau draagt er zorg voor dat de volgorde zo spoedig mogelijk in de **Staatscourant** wordt bekendgemaakt.
 
-5. [Artikel R 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+5. [Artikel R 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_9&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel R 10
 
@@ -2032,19 +2032,19 @@ Vervallen
 
 3. Indien bij het onderzoek blijkt van een of meer van de volgende verzuimen, geeft het centraal stembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs kennis aan degene die de lijst heeft ingeleverd:
 
-- a. dat voor een of meer provincies niet een verklaring als bedoeld in [artikel R 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_2&z=2014-07-01&g=2014-07-01), is overgelegd, waarbij buiten beschouwing blijven de verklaringen van een lid van provinciale staten dat meer dan één verklaring heeft ondertekend;
+- a. dat voor een of meer provincies niet een verklaring als bedoeld in [artikel R 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_2&z=2014-10-10&g=2014-10-10), is overgelegd, waarbij buiten beschouwing blijven de verklaringen van een lid van provinciale staten dat meer dan één verklaring heeft ondertekend;
 
-- b. dat een kandidaat niet is vermeld overeenkomstig het bepaalde krachtens [artikel R 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_6&z=2014-07-01&g=2014-07-01);
+- b. dat een kandidaat niet is vermeld overeenkomstig het bepaalde krachtens [artikel R 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_6&z=2014-10-10&g=2014-10-10);
 
 - c. dat ten aanzien van een kandidaat ontbreekt de verklaring dat hij instemt met zijn kandidaatstelling op de lijst voor de provincie of provincies waarvoor deze lijst is ingeleverd;
 
 - d. dat ten aanzien van een kandidaat die buiten het Europese deel van Nederland woonplaats heeft, in zijn verklaring van instemming de aanwijzing van een gemachtigde ontbreekt;
 
-- e. dat een verklaring, bedoeld in [artikel R 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_7&z=2014-07-01&g=2014-07-01), ontbreekt.
+- e. dat een verklaring, bedoeld in [artikel R 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_7&z=2014-10-10&g=2014-10-10), ontbreekt.
 
 4. Uiterlijk op de derde dag na de zitting, bedoeld in het tweede lid, kan degene die de lijst heeft ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen bij het centraal stembureau van negen tot zeventien uur.
 
-5. Bij verhindering of ontstentenis van degene die de lijst heeft ingeleverd, treedt in diens plaats een ingevolge [artikel R 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_3&z=2014-07-01&g=2014-07-01) op de lijst vermelde vervanger.
+5. Bij verhindering of ontstentenis van degene die de lijst heeft ingeleverd, treedt in diens plaats een ingevolge [artikel R 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_3&z=2014-10-10&g=2014-10-10) op de lijst vermelde vervanger.
 
 ##### Artikel S 2
 
@@ -2058,17 +2058,17 @@ Voor een provincie is ongeldig de lijst:
 
 - a. die niet op de dag van de kandidaatstelling tussen negen en zeventien uur bij het centraal stembureau door persoonlijke overhandiging is ingeleverd;
 
-- b. waarbij niet is overgelegd een verklaring als bedoeld in [artikel R 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_2&z=2014-07-01&g=2014-07-01), van een lid van provinciale staten van deze provincie, waarbij buiten beschouwing blijven de verklaringen van een lid van provinciale staten dat meer dan één verklaring heeft ondertekend;
+- b. waarbij niet is overgelegd een verklaring als bedoeld in [artikel R 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_2&z=2014-10-10&g=2014-10-10), van een lid van provinciale staten van deze provincie, waarbij buiten beschouwing blijven de verklaringen van een lid van provinciale staten dat meer dan één verklaring heeft ondertekend;
 
 - c. die niet voldoet aan het bij ministeriële regeling vastgestelde model;
 
-- d. waarop door toepassing van [artikel S 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_4&z=2014-07-01&g=2014-07-01) alle kandidaten zijn geschrapt.
+- d. waarop door toepassing van [artikel S 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_4&z=2014-10-10&g=2014-10-10) alle kandidaten zijn geschrapt.
 
 ##### Artikel S 4
 
 1. Het centraal stembureau schrapt, in de volgorde in dit lid aangewezen, van de lijst voor een provincie de naam van de kandidaat:
 
-- a. die niet is vermeld overeenkomstig het bepaalde krachtens [artikel R 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_6&z=2014-07-01&g=2014-07-01);
+- a. die niet is vermeld overeenkomstig het bepaalde krachtens [artikel R 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_6&z=2014-10-10&g=2014-10-10);
 
 - b. van wie niet is overgelegd de verklaring dat hij instemt met zijn kandidaatstelling op de lijst voor deze provincie;
 
@@ -2082,7 +2082,7 @@ Voor een provincie is ongeldig de lijst:
 
 2. Het centraal stembureau schrapt, in de volgorde in dit lid aangewezen, de aanduiding van een politieke groepering van de lijst voor een provincie, indien:
 
-- a. een daarop betrekking hebbende verklaring als bedoeld in [artikel R 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_7&z=2014-07-01&g=2014-07-01) ontbreekt;
+- a. een daarop betrekking hebbende verklaring als bedoeld in [artikel R 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_7&z=2014-10-10&g=2014-10-10) ontbreekt;
 
 - b. de aanduiding geplaatst is boven meer dan één van de bij het centraal stembureau ingeleverde lijsten voor deze provincie.
 
@@ -2090,23 +2090,23 @@ Voor een provincie is ongeldig de lijst:
 
 ##### Artikel S 5
 
-1. Tegen een beschikking als bedoeld in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-07-01&g=2014-07-01) kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), beroep worden ingesteld door een belanghebbende en iedere kiezer.
+1. Tegen een beschikking als bedoeld in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-10-10&g=2014-10-10) kan, in afwijking van [artikel 8:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:1), beroep worden ingesteld door een belanghebbende en iedere kiezer.
 
-2. [Artikel I 7, eerste lid, tweede volzin, en tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel I 7, eerste lid, tweede volzin, en tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. De voorzitter van de Afdeling bestuursrechtspraak van de Raad van State stelt partijen en de voorzitter van het centraal stembureau onverwijld in kennis van de uitspraak.
 
 ##### Artikel S 6
 
-1. Indien beroep is ingesteld tegen een beschikking waarbij het centraal stembureau een lijst voor een provincie ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding van een politieke groepering heeft geschrapt op grond van een of meer der verzuimen, vermeld in [artikel S 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-07-01&g=2014-07-01), zonder dat het centraal stembureau tevoren overeenkomstig het in dat artikel bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen bij de Raad van State. Artikel S 1, vijfde lid, is van overeenkomstige toepassing.
+1. Indien beroep is ingesteld tegen een beschikking waarbij het centraal stembureau een lijst voor een provincie ongeldig heeft verklaard of de naam van een kandidaat dan wel de aanduiding van een politieke groepering heeft geschrapt op grond van een of meer der verzuimen, vermeld in [artikel S 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-10-10&g=2014-10-10), zonder dat het centraal stembureau tevoren overeenkomstig het in dat artikel bepaalde kennis heeft gegeven van het bestaan daarvan aan degene die de lijst heeft ingeleverd, kan deze het verzuim of de verzuimen alsnog herstellen bij de Raad van State. Artikel S 1, vijfde lid, is van overeenkomstige toepassing.
 
 2. Indien een verzuim overeenkomstig het eerste lid is hersteld, houdt de Afdeling bestuursrechtspraak van de Raad van State bij haar uitspraak daarmee rekening.
 
 ##### Artikel S 7
 
-1. Van de in de [artikelen S 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-07-01&g=2014-07-01) en [S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-07-01&g=2014-07-01) bedoelde zittingen wordt proces-verbaal opgemaakt.
+1. Van de in de [artikelen S 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_1&z=2014-10-10&g=2014-10-10) en [S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-10-10&g=2014-10-10) bedoelde zittingen wordt proces-verbaal opgemaakt.
 
-2. De bij de in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-07-01&g=2014-07-01) bedoelde zitting aanwezige personen kunnen mondeling bezwaren inbrengen. Van deze bezwaren wordt in het proces-verbaal melding gemaakt.
+2. De bij de in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-10-10&g=2014-10-10) bedoelde zitting aanwezige personen kunnen mondeling bezwaren inbrengen. Van deze bezwaren wordt in het proces-verbaal melding gemaakt.
 
 3. Bij ministeriële regeling worden voor deze processen-verbaal modellen vastgesteld.
 
@@ -2124,7 +2124,7 @@ Vervallen
 
 ##### Artikel S 10
 
-In de zitting, bedoeld in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-07-01&g=2014-07-01), nummert het centraal stembureau de kandidatenlijsten.
+In de zitting, bedoeld in [artikel S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-10-10&g=2014-10-10), nummert het centraal stembureau de kandidatenlijsten.
 
 ##### Artikel S 11
 
@@ -2222,11 +2222,11 @@ In geval van twijfel over de geldigheid van een stembiljet beslist de vergaderin
 
 ##### Artikel T 11
 
-1. Nadat alle werkzaamheden, in [artikel T 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=T&artikel=T_10&z=2014-07-01&g=2014-07-01) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming.
+1. Nadat alle werkzaamheden, in [artikel T 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=T&artikel=T_10&z=2014-10-10&g=2014-10-10) vermeld, zijn beëindigd, wordt onmiddellijk proces-verbaal opgemaakt van de stemming en van de stemopneming.
 
 2. Het proces-verbaal wordt door de voorzitter en alle leden van het stembureau getekend.
 
-3. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel T 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=T&artikel=T_10&z=2014-07-01&g=2014-07-01), onverwijld na afloop van de stemming overgebracht naar de voorzitter van het centraal stembureau. Deze legt een afschrift van de processen-verbaal onverwijld voor een ieder ter inzage bij het centraal stembureau.
+3. Het proces-verbaal wordt met de verzegelde pakken, bedoeld in [artikel T 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=T&artikel=T_10&z=2014-10-10&g=2014-10-10), onverwijld na afloop van de stemming overgebracht naar de voorzitter van het centraal stembureau. Deze legt een afschrift van de processen-verbaal onverwijld voor een ieder ter inzage bij het centraal stembureau.
 
 4. Bij ministeriële regeling wordt voor het proces-verbaal een model vastgesteld.
 
@@ -2258,13 +2258,13 @@ Ten aanzien van iedere provincie vermenigvuldigt het centraal stembureau de aant
 
 ##### Artikel U 4
 
-1. Een stel gelijkluidende lijsten als bedoeld in [artikel R 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_10&z=2014-07-01&g=2014-07-01), geldt voor de vaststelling van de uitslag van de verkiezing als één lijst.
+1. Een stel gelijkluidende lijsten als bedoeld in [artikel R 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_10&z=2014-10-10&g=2014-10-10), geldt voor de vaststelling van de uitslag van de verkiezing als één lijst.
 
 2. Het centraal stembureau telt van deze gelijkluidende lijsten te zamen de stemcijfers en de aantallen op iedere kandidaat uitgebrachte stemmen.
 
 ##### Artikel U 5
 
-Een lijstengroep als bedoeld in [artikel R 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_10&z=2014-07-01&g=2014-07-01), geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit de groep bestaat.
+Een lijstengroep als bedoeld in [artikel R 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=R&artikel=R_10&z=2014-10-10&g=2014-10-10), geldt voor het bepalen van het aantal daaraan toe te wijzen zetels als één lijst, met een stemcijfer gelijk aan de som van de stemcijfers van de lijsten waaruit de groep bestaat.
 
 ##### Artikel U 6
 
@@ -2306,27 +2306,27 @@ Vervallen
 
 ##### Artikel U 13
 
-1. Indien bij de toepassing van [artikel U 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_12&z=2014-07-01&g=2014-07-01) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voorgezette toepassing van dat artikel over op een van de andere lijsten van de groep, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
+1. Indien bij de toepassing van [artikel U 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_12&z=2014-10-10&g=2014-10-10) aan een lijst meer zetels zouden moeten worden toegewezen dan er kandidaten zijn, gaan de overblijvende zetel of zetels door voorgezette toepassing van dat artikel over op een van de andere lijsten van de groep, waarop kandidaten voorkomen aan wie geen zetel is toegewezen.
 
-2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel U 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_9&z=2014-07-01&g=2014-07-01).
+2. Zijn er na toepassing van het eerste lid nog zetels toe te wijzen, dan worden deze toegewezen volgens het stelsel van de grootste gemiddelden als bedoeld in [artikel U 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_9&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel U 14
 
-De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel U 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=4&artikel=U_16&z=2014-07-01&g=2014-07-01) bedoelde zitting van het centraal stembureau.
+De in de voorgaande artikelen bedoelde lotingen vinden plaats in de in [artikel U 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=4&artikel=U_16&z=2014-10-10&g=2014-10-10) bedoelde zitting van het centraal stembureau.
 
 #### § 3. De toewijzing van de zetels aan de kandidaten
 
 ##### Artikel U 15
 
-1. Gekozen zijn de kandidaten van de lijst, daartoe aangewezen door overeenkomstige toepassing van de [artikelen P 15 tot en met P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01) en [P 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19a&z=2014-07-01&g=2014-07-01), met dien verstande dat in afwijking van [artikel P 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01), zijn gekozen de kandidaten die een aantal stemmen hebben verkregen, groter dan of gelijk aan de kiesdeler.
+1. Gekozen zijn de kandidaten van de lijst, daartoe aangewezen door overeenkomstige toepassing van de [artikelen P 15 tot en met P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10) en [P 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19a&z=2014-10-10&g=2014-10-10), met dien verstande dat in afwijking van [artikel P 15, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10), zijn gekozen de kandidaten die een aantal stemmen hebben verkregen, groter dan of gelijk aan de kiesdeler.
 
-2. De rangschikking van de kandidaten geschiedt overeenkomstig het bepaalde in [artikel P 19, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-07-01&g=2014-07-01), met dien verstande dat de rangschikking achterwege blijft, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstengroep waaraan één of meer zetels zijn toegekend.
+2. De rangschikking van de kandidaten geschiedt overeenkomstig het bepaalde in [artikel P 19, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-10-10&g=2014-10-10), met dien verstande dat de rangschikking achterwege blijft, voor zover het lijsten betreft waarop geen kandidaten gekozen zijn verklaard en die niet deel uitmaken van een lijstengroep waaraan één of meer zetels zijn toegekend.
 
 #### § 2. De zetelverdeling
 
 ##### Artikel U 16
 
-1. Het centraal stembureau stelt de uitslag van de verkiezingen zo spoedig mogelijk vast. De vaststelling en bekendmaking geschieden in een openbare zitting van het centraal stembureau. De [artikelen P 20, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-07-01&g=2014-07-01), en [P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-07-01&g=2014-07-01) zijn van toepassing.
+1. Het centraal stembureau stelt de uitslag van de verkiezingen zo spoedig mogelijk vast. De vaststelling en bekendmaking geschieden in een openbare zitting van het centraal stembureau. De [artikelen P 20, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-10-10&g=2014-10-10), en [P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-10-10&g=2014-10-10) zijn van toepassing.
 
 2. Het centraal stembureau maakt zijn proces-verbaal onverwijld op een algemeen toegankelijke wijze elektronisch openbaar. Bij ministeriële regeling kan hiervoor een internetadres worden aangewezen.
 
@@ -2386,9 +2386,9 @@ Het centraal stembureau kan, hetzij ambtshalve, hetzij naar aanleiding van een m
 
 3. Betreft het de toelating van degene die is benoemd in een tussentijds opengevallen plaats, dan strekt het onderzoek zich niet uit tot punten die het verloop van de verkiezing of de vaststelling van de uitslag betreffen.
 
-4. Ten behoeve van het onderzoek, bedoeld in het eerste lid, kan het vertegenwoordigend orgaan tot een nieuwe opneming van stembiljetten, zowel uit alle als uit een of meer stembureaus of provincies, besluiten. De burgemeester of het centraal stembureau, voor zover die de desbetreffende stembiljetten onder zich heeft, onderscheidenlijk de voorzitter van het centraal stembureau voor de verkiezing van de leden van de Eerste Kamer, doet deze op verzoek van het vertegenwoordigend orgaan onverwijld naar dat orgaan overbrengen. Na ontvangst van de stembiljetten gaat het vertegenwoordigend orgaan onmiddellijk tot de opneming over. Het is bevoegd daartoe de verzegelde pakken te openen en de inhoud te vergelijken met de processen-verbaal van de stembureaus. Bij deze opneming zijn de [artikelen N 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_5&z=2014-07-01&g=2014-07-01), [N 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-07-01&g=2014-07-01) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-07-01&g=2014-07-01) van overeenkomstige toepassing.
+4. Ten behoeve van het onderzoek, bedoeld in het eerste lid, kan het vertegenwoordigend orgaan tot een nieuwe opneming van stembiljetten, zowel uit alle als uit een of meer stembureaus of provincies, besluiten. De burgemeester of het centraal stembureau, voor zover die de desbetreffende stembiljetten onder zich heeft, onderscheidenlijk de voorzitter van het centraal stembureau voor de verkiezing van de leden van de Eerste Kamer, doet deze op verzoek van het vertegenwoordigend orgaan onverwijld naar dat orgaan overbrengen. Na ontvangst van de stembiljetten gaat het vertegenwoordigend orgaan onmiddellijk tot de opneming over. Het is bevoegd daartoe de verzegelde pakken te openen en de inhoud te vergelijken met de processen-verbaal van de stembureaus. Bij deze opneming zijn de [artikelen N 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_5&z=2014-10-10&g=2014-10-10), [N 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_8&z=2014-10-10&g=2014-10-10) en [N 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_9&z=2014-10-10&g=2014-10-10) van overeenkomstige toepassing.
 
-5. Ten behoeve van het onderzoek, bedoeld in het eerste lid, is het vertegenwoordigend orgaan tevens bevoegd de verzegelde pakken, bedoeld in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01), te openen. De burgemeester die de desbetreffende pakken onder zich heeft, doet deze op verzoek van het vertegenwoordigend orgaan onverwijld naar dat orgaan overbrengen. Na beëindiging van het onderzoek worden de bescheiden uit de geopende pakken opnieuw ingepakt en verzegeld op de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-07-01&g=2014-07-01) voorgeschreven wijze.
+5. Ten behoeve van het onderzoek, bedoeld in het eerste lid, is het vertegenwoordigend orgaan tevens bevoegd de verzegelde pakken, bedoeld in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10), te openen. De burgemeester die de desbetreffende pakken onder zich heeft, doet deze op verzoek van het vertegenwoordigend orgaan onverwijld naar dat orgaan overbrengen. Na beëindiging van het onderzoek worden de bescheiden uit de geopende pakken opnieuw ingepakt en verzegeld op de in [artikel N 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_2&z=2014-10-10&g=2014-10-10) voorgeschreven wijze.
 
 ##### Artikel V 5
 
@@ -2420,9 +2420,9 @@ De ongeldigheid van de stemming in één of meer stembureaus of provincies of ee
 
 ##### Artikel V 7
 
-1. Aan de in [artikel V 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_6&z=2014-07-01&g=2014-07-01), bedoelde stemming zijn de kiezers bevoegd deel te nemen wier namen voorkomen op de geldige stempassen, kiezerspassen, volmachtbewijzen, voor zover het de volmachtgever betreft, en briefstembewijzen, die zijn ingeleverd bij de ongeldig verklaarde stemming, met uitzondering van personen waarvan na de ongeldig verklaarde stemming blijkt dat zij ten onrechte als kiezer waren geregistreerd.
+1. Aan de in [artikel V 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_6&z=2014-10-10&g=2014-10-10), bedoelde stemming zijn de kiezers bevoegd deel te nemen wier namen voorkomen op de geldige stempassen, kiezerspassen, volmachtbewijzen, voor zover het de volmachtgever betreft, en briefstembewijzen, die zijn ingeleverd bij de ongeldig verklaarde stemming, met uitzondering van personen waarvan na de ongeldig verklaarde stemming blijkt dat zij ten onrechte als kiezer waren geregistreerd.
 
-2. Indien de in [artikel V 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_6&z=2014-07-01&g=2014-07-01), bedoelde stemming alle stembureaus in een gemeente betreft, zijn bevoegd deel te nemen aan de nieuwe stemming de personen die voor de ongeldig verklaarde stemming:
+2. Indien de in [artikel V 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_6&z=2014-10-10&g=2014-10-10), bedoelde stemming alle stembureaus in een gemeente betreft, zijn bevoegd deel te nemen aan de nieuwe stemming de personen die voor de ongeldig verklaarde stemming:
 
 - a. in de gemeente terecht als kiezer waren geregistreerd of ten onrechte niet als kiezer waren geregistreerd, met uitzondering van personen:
 
@@ -2442,15 +2442,15 @@ Indien het orgaan waarvoor de benoeming is geschied, heeft besloten om één of 
 
 ##### Artikel V 9
 
-1. Uiterlijk op de veertiende dag nadat de kennisgeving, bedoeld in [artikel V 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_8&z=2014-07-01&g=2014-07-01), is ontvangen, houdt het centraal stembureau een openbare zitting en stelt het met inachtneming van de in [artikel V 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_8&z=2014-07-01&g=2014-07-01) bedoelde beslissing de uitslag van de verkiezing voor zover nodig opnieuw vast, en maakt deze op de zitting bekend.
+1. Uiterlijk op de veertiende dag nadat de kennisgeving, bedoeld in [artikel V 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_8&z=2014-10-10&g=2014-10-10), is ontvangen, houdt het centraal stembureau een openbare zitting en stelt het met inachtneming van de in [artikel V 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_8&z=2014-10-10&g=2014-10-10) bedoelde beslissing de uitslag van de verkiezing voor zover nodig opnieuw vast, en maakt deze op de zitting bekend.
 
-2. De [artikelen P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-07-01&g=2014-07-01) en [P 22 tot en met P 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-07-01&g=2014-07-01) vinden overeenkomstige toepassing.
+2. De [artikelen P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-10-10&g=2014-10-10) en [P 22 tot en met P 24](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-10-10&g=2014-10-10) vinden overeenkomstige toepassing.
 
 3. Het onderzoek van de geloofsbrief van de aldus nieuw gekozen verklaarde strekt zich niet uit tot punten, die het verloop van de verkiezing raken.
 
 ##### Artikel V 10
 
-Indien het orgaan waarvoor de benoeming is geschied, heeft besloten de benoemde niet als lid toe te laten op de grond dat hij niet voldoet aan de vereisten voor het lidmaatschap, dat hij een met het lidmaatschap onverenigbare betrekking vervult of dat de benoemdverklaring van de voorzitter van het centraal stembureau in strijd is met het bepaalde in [hoofdstuk W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-07-01&g=2014-07-01) geeft de voorzitter van dat orgaan daarvan onverwijld kennis aan de voorzitter van het centraal stembureau.
+Indien het orgaan waarvoor de benoeming is geschied, heeft besloten de benoemde niet als lid toe te laten op de grond dat hij niet voldoet aan de vereisten voor het lidmaatschap, dat hij een met het lidmaatschap onverenigbare betrekking vervult of dat de benoemdverklaring van de voorzitter van het centraal stembureau in strijd is met het bepaalde in [hoofdstuk W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-10-10&g=2014-10-10) geeft de voorzitter van dat orgaan daarvan onverwijld kennis aan de voorzitter van het centraal stembureau.
 
 ##### Artikel V 11
 
@@ -2480,11 +2480,11 @@ De beslissing betreffende de toelating van de tot lid van provinciale staten, he
 
 ##### Artikel W 1
 
-1. Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, verklaart de voorzitter van het centraal stembureau bij een met redenen omkleed besluit, uiterlijk op de veertiende dag nadat dit te zijner kennis is gekomen, benoemd de daarvoor in aanmerking komende kandidaat die in de volgorde, bedoeld in [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-07-01&g=2014-07-01) dan wel [artikel U 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=3&artikel=U_15&z=2014-07-01&g=2014-07-01), het hoogst is geplaatst op de lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het lid in wiens plaats moet worden voorzien, ontslag heeft genomen met ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de eerste volzin, aan op dat tijdstip.
+1. Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, verklaart de voorzitter van het centraal stembureau bij een met redenen omkleed besluit, uiterlijk op de veertiende dag nadat dit te zijner kennis is gekomen, benoemd de daarvoor in aanmerking komende kandidaat die in de volgorde, bedoeld in [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-10-10&g=2014-10-10) dan wel [artikel U 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=3&artikel=U_15&z=2014-10-10&g=2014-10-10), het hoogst is geplaatst op de lijst waarop degene die moet worden opgevolgd, is gekozen. Indien het lid in wiens plaats moet worden voorzien, ontslag heeft genomen met ingang van een bepaald tijdstip, vangt de termijn, bedoeld in de eerste volzin, aan op dat tijdstip.
 
-2. Indien een plaats openvalt die door toepassing van [artikel P 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-07-01&g=2014-07-01), was vervuld, verklaart de voorzitter van het centraal stembureau, in afwijking van het eerste lid, benoemd de daarvoor in aanmerking komende kandidaat op de lijst waaraan ingevolge [artikel P16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-07-01&g=2014-07-01) , een zetel was onthouden.
+2. Indien een plaats openvalt die door toepassing van [artikel P 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-10-10&g=2014-10-10), was vervuld, verklaart de voorzitter van het centraal stembureau, in afwijking van het eerste lid, benoemd de daarvoor in aanmerking komende kandidaat op de lijst waaraan ingevolge [artikel P16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_16&z=2014-10-10&g=2014-10-10) , een zetel was onthouden.
 
-3. Indien de lijst, bedoeld in het eerste lid, deel uitmaakt van een lijstengroep en op een of meer andere lijsten of stellen gelijkluidende lijsten van die groep kandidaten voorkomen die op de gezamenlijke lijsten waarop zij voorkomen, een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, doch die niet met toepassing van [artikel P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01) zijn gekozen, verklaart de voorzitter van het centraal stembureau, in afwijking van het eerste lid, benoemd diegene van deze kandidaten op wie het grootste aantal stemmen is uitgebracht.
+3. Indien de lijst, bedoeld in het eerste lid, deel uitmaakt van een lijstengroep en op een of meer andere lijsten of stellen gelijkluidende lijsten van die groep kandidaten voorkomen die op de gezamenlijke lijsten waarop zij voorkomen, een aantal stemmen hebben verkregen groter dan 25% van de kiesdeler, doch die niet met toepassing van [artikel P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10) zijn gekozen, verklaart de voorzitter van het centraal stembureau, in afwijking van het eerste lid, benoemd diegene van deze kandidaten op wie het grootste aantal stemmen is uitgebracht.
 
 4. Indien het de opvolging van een lid van een gemeenteraad met minder dan negentien zetels betreft, wordt bij de toepassing van het derde lid de helft van de kiesdeler in aanmerking genomen in plaats van 25% van de kiesdeler.
 
@@ -2500,7 +2500,7 @@ De beslissing betreffende de toelating van de tot lid van provinciale staten, he
 
 ##### Artikel W 2
 
-1. Bij de toepassing van [artikel W 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_1&z=2014-07-01&g=2014-07-01) wordt buiten rekening gelaten de kandidaat:
+1. Bij de toepassing van [artikel W 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_1&z=2014-10-10&g=2014-10-10) wordt buiten rekening gelaten de kandidaat:
 
 - a. die is overleden;
 
@@ -2508,9 +2508,9 @@ De beslissing betreffende de toelating van de tot lid van provinciale staten, he
 
 - c. wiens vacature vervuld wordt;
 
-- d. die in de vacature benoemd is verklaard, maar schriftelijk verklaard heeft of geacht wordt de benoeming niet aan te nemen, de in [artikel V 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01) genoemde stukken niet tijdig heeft ingezonden of bij besluit niet tot het vertegenwoordigend orgaan is toegelaten;
+- d. die in de vacature benoemd is verklaard, maar schriftelijk verklaard heeft of geacht wordt de benoeming niet aan te nemen, de in [artikel V 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10) genoemde stukken niet tijdig heeft ingezonden of bij besluit niet tot het vertegenwoordigend orgaan is toegelaten;
 
-- e. die lid is van het vertegenwoordigend orgaan of als zodanig benoemd is verklaard, terwijl over zijn toelating als lid nog niet is beslist, tenzij hij is benoemd tot vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in [paragraaf 3 van hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&z=2014-07-01&g=2014-07-01);
+- e. die lid is van het vertegenwoordigend orgaan of als zodanig benoemd is verklaard, terwijl over zijn toelating als lid nog niet is beslist, tenzij hij is benoemd tot vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in [paragraaf 3 van hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&z=2014-10-10&g=2014-10-10);
 
 - f. van wie door de voorzitter van het centraal stembureau een schriftelijke verklaring is ontvangen dat hij niet voor benoeming in aanmerking wenst te komen;
 
@@ -2524,25 +2524,25 @@ De beslissing betreffende de toelating van de tot lid van provinciale staten, he
 
 ##### Artikel W 3
 
-1. Indien bij de toepassing van de bepalingen van dit hoofdstuk geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst te zamen met één of meer andere lijsten een lijstengroep, onderscheidenlijk een lijstencombinatie, vormt, gaat de zetel door toepassing van [artikel P 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_13&z=2014-07-01&g=2014-07-01), onderscheidenlijk [artikel U 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_13&z=2014-07-01&g=2014-07-01), over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-07-01&g=2014-07-01), onderscheidenlijk [artikel U 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=3&artikel=U_15&z=2014-07-01&g=2014-07-01), voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de groep, onderscheidenlijk de combinatie, deel uitmakende lijst toegekend door verdere toepassing van het in dit lid bepaalde, en zo vervolgens.
+1. Indien bij de toepassing van de bepalingen van dit hoofdstuk geen kandidaat meer voor benoeming in aanmerking komt op de lijst waarop degene is gekozen die moet worden opgevolgd, en deze lijst te zamen met één of meer andere lijsten een lijstengroep, onderscheidenlijk een lijstencombinatie, vormt, gaat de zetel door toepassing van [artikel P 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_13&z=2014-10-10&g=2014-10-10), onderscheidenlijk [artikel U 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=2&artikel=U_13&z=2014-10-10&g=2014-10-10), over op één van die andere lijsten. De kandidaat van deze lijst die naar de volgorde, vastgesteld overeenkomstig [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-10-10&g=2014-10-10), onderscheidenlijk [artikel U 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=U&paragraaf=3&artikel=U_15&z=2014-10-10&g=2014-10-10), voor benoeming in aanmerking komt, wordt benoemd verklaard. Komt ook op deze lijst geen kandidaat meer voor benoeming in aanmerking, dan wordt de plaats aan een andere van de groep, onderscheidenlijk de combinatie, deel uitmakende lijst toegekend door verdere toepassing van het in dit lid bepaalde, en zo vervolgens.
 
 2. Bij de toepassing van het eerste lid komen het eerst in aanmerking de lijsten die te zamen met de desbetreffende lijst een lijstengroep vormen en vervolgens de lijsten die met die lijst tot een lijstencombinatie zijn verbonden.
 
 ##### Artikel W 4
 
-1. Indien bij opvolging van leden van een vertegenwoordigend orgaan met minder dan dertien leden geen kandidaat meer voor benoeming in aanmerking komt op de lijst, waarop degene is gekozen die moet worden opgevolgd, of op de lijsten die met deze lijst een lijstengroep of lijstencombinatie vormen, wordt door toepassing van [artikel P 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_10&z=2014-07-01&g=2014-07-01) beslist aan welke van de andere lijsten de plaats zal worden toegekend. De kandidaat die op de lijst waaraan de plaats wordt toegekend, naar de volgorde, vastgesteld overeenkomstig [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-07-01&g=2014-07-01), voor benoeming in aanmerking komt, wordt benoemd verklaard.
+1. Indien bij opvolging van leden van een vertegenwoordigend orgaan met minder dan dertien leden geen kandidaat meer voor benoeming in aanmerking komt op de lijst, waarop degene is gekozen die moet worden opgevolgd, of op de lijsten die met deze lijst een lijstengroep of lijstencombinatie vormen, wordt door toepassing van [artikel P 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_10&z=2014-10-10&g=2014-10-10) beslist aan welke van de andere lijsten de plaats zal worden toegekend. De kandidaat die op de lijst waaraan de plaats wordt toegekend, naar de volgorde, vastgesteld overeenkomstig [artikel P 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-10-10&g=2014-10-10), voor benoeming in aanmerking komt, wordt benoemd verklaard.
 
 2. Indien bij de toepassing van de bepalingen van dit hoofdstuk op geen van de lijsten een kandidaat meer voor benoeming in aanmerking komt, beslist het centraal stembureau dat geen opvolger kan worden benoemd. Bij ministeriële regeling wordt voor het besluit een model vastgesteld.
 
 ##### Artikel W 5
 
-1. Indien de toepassing van [artikel W 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_3&z=2014-07-01&g=2014-07-01) of [artikel W 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_4&z=2014-07-01&g=2014-07-01) tot een beslissing door het lot aanleiding geeft, zal de loting plaats hebben in een zitting van het centraal stembureau.
+1. Indien de toepassing van [artikel W 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_3&z=2014-10-10&g=2014-10-10) of [artikel W 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_4&z=2014-10-10&g=2014-10-10) tot een beslissing door het lot aanleiding geeft, zal de loting plaats hebben in een zitting van het centraal stembureau.
 
-2. Op de in het eerste lid bedoelde zitting vinden de [artikelen P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-07-01&g=2014-07-01) en [P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-07-01&g=2014-07-01) overeenkomstige toepassing.
+2. Op de in het eerste lid bedoelde zitting vinden de [artikelen P 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_20&z=2014-10-10&g=2014-10-10) en [P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-10-10&g=2014-10-10) overeenkomstige toepassing.
 
 ##### Artikel W 6
 
-Indien de voorzitter van een centraal stembureau op dezelfde dag kennis krijgt van het openvallen van meer dan één plaats in een vertegenwoordigend orgaan en als gevolg hiervan een kandidaat op meer dan één lijst benoemd zou moeten worden verklaard, wordt deze benoemd met overeenkomstige toepassing van [artikel P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_18&z=2014-07-01&g=2014-07-01).
+Indien de voorzitter van een centraal stembureau op dezelfde dag kennis krijgt van het openvallen van meer dan één plaats in een vertegenwoordigend orgaan en als gevolg hiervan een kandidaat op meer dan één lijst benoemd zou moeten worden verklaard, wordt deze benoemd met overeenkomstige toepassing van [artikel P 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_18&z=2014-10-10&g=2014-10-10).
 
 ##### Artikel W 7
 
@@ -2580,25 +2580,25 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffen
 
 1. Wanneer een lid van de Tweede of van de Eerste Kamer wordt benoemd in een ambt als bedoeld in [artikel 57, tweede lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=57), houdt zijn lidmaatschap van de Kamer van rechtswege op.
 
-2. Wanneer een lid van de Tweede of van de Eerste Kamer komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), anders dan op grond van het voorgaande lid, geeft hij hiervan kennis aan de kamer, met vermelding van de reden.
+2. Wanneer een lid van de Tweede of van de Eerste Kamer komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), anders dan op grond van het voorgaande lid, geeft hij hiervan kennis aan de kamer, met vermelding van de reden.
 
-3. Indien de kennisgeving niet is gedaan en de voorzitter van de kamer van oordeel is, dat een lid van de kamer verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), waarschuwt hij de belanghebbende schriftelijk.
+3. Indien de kennisgeving niet is gedaan en de voorzitter van de kamer van oordeel is, dat een lid van de kamer verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), waarschuwt hij de belanghebbende schriftelijk.
 
 4. Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het derde lid bedoelde waarschuwing aan het oordeel van de kamer te onderwerpen.
 
 ##### Artikel X 4
 
-1. Wanneer een lid van provinciale staten komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), geeft hij hiervan kennis aan de staten, met vermelding van de reden.
+1. Wanneer een lid van provinciale staten komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), geeft hij hiervan kennis aan de staten, met vermelding van de reden.
 
-2. Indien de kennisgeving niet is gedaan en de voorzitter van provinciale staten van oordeel is, dat een lid van provinciale staten verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), waarschuwt hij de belanghebbende schriftelijk.
+2. Indien de kennisgeving niet is gedaan en de voorzitter van provinciale staten van oordeel is, dat een lid van provinciale staten verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), waarschuwt hij de belanghebbende schriftelijk.
 
 3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van provinciale staten te onderwerpen.
 
 ##### Artikel X 5
 
-1. Wanneer een lid van de gemeenteraad komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), geeft hij hiervan kennis aan de raad, met vermelding van de reden.
+1. Wanneer een lid van de gemeenteraad komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), geeft hij hiervan kennis aan de raad, met vermelding van de reden.
 
-2. Indien de kennisgeving niet is gedaan en de voorzitter van de raad van oordeel is, dat een lid van de gemeenteraad verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), waarschuwt hij de belanghebbende schriftelijk.
+2. Indien de kennisgeving niet is gedaan en de voorzitter van de raad van oordeel is, dat een lid van de gemeenteraad verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), waarschuwt hij de belanghebbende schriftelijk.
 
 3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van de raad te onderwerpen.
 
@@ -2636,7 +2636,7 @@ Leden van provinciale staten, het algemeen bestuur en van de gemeenteraad die hu
 
 ##### Artikel X 9
 
-[Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een besluit als bedoeld in [artikel X 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_4&z=2014-07-01&g=2014-07-01), [X 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_5&z=2014-07-01&g=2014-07-01),[X 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_7&z=2014-07-01&g=2014-07-01), [X 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_7a&z=2014-07-01&g=2014-07-01), en [X 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-07-01&g=2014-07-01).
+[Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een besluit als bedoeld in [artikel X 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_4&z=2014-10-10&g=2014-10-10), [X 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_5&z=2014-10-10&g=2014-10-10),[X 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_7&z=2014-10-10&g=2014-10-10), [X 7a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_7a&z=2014-10-10&g=2014-10-10), en [X 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-10-10&g=2014-10-10).
 
 ### Afdeling V. De verkiezing van de leden van het Europees Parlement
 
@@ -2656,7 +2656,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel Y 2
 
-De leden van het Europees Parlement worden, voor zover deze afdeling niet anders bepaalt, gekozen met overeenkomstige toepassing van de bij of krachtens [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-07-01&g=2014-07-01) gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, met inachtneming van de Akte.
+De leden van het Europees Parlement worden, voor zover deze afdeling niet anders bepaalt, gekozen met overeenkomstige toepassing van de bij of krachtens [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-10-10&g=2014-10-10) gestelde bepalingen inzake de verkiezing van de leden van de Tweede Kamer der Staten-Generaal, met inachtneming van de Akte.
 
 ##### Artikel Y 3
 
@@ -2696,9 +2696,9 @@ Lid van het Europees Parlement kunnen zijn:
 
 1. Nederlanders die werkelijke woonplaats hebben in een andere lidstaat, kunnen in Nederland slechts als kiezer voor de verkiezing van de leden van het Europees Parlement worden geregistreerd, als zij hebben verklaard niet tevens in die andere lidstaat aan de verkiezing te zullen deelnemen.
 
-2. De in het eerste lid bedoelde verklaring wordt gelijktijdig ingediend met het in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01), bedoelde verzoek. Zij maakt deel uit van het in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-07-01&g=2014-07-01), bedoelde formulier. Bij ministeriële regeling wordt de formulering van de verklaring vastgesteld.
+2. De in het eerste lid bedoelde verklaring wordt gelijktijdig ingediend met het in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10), bedoelde verzoek. Zij maakt deel uit van het in [artikel D 3b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3b&z=2014-10-10&g=2014-10-10), bedoelde formulier. Bij ministeriële regeling wordt de formulering van de verklaring vastgesteld.
 
-3. Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als bedoeld in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01), af indien zij van de desbetreffende lidstaat bericht hebben ontvangen dat de verzoeker in die lidstaat als kiezer is geregistreerd.
+3. Burgemeester en wethouders van 's-Gravenhage wijzen een verzoek als bedoeld in [artikel D 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10), af indien zij van de desbetreffende lidstaat bericht hebben ontvangen dat de verzoeker in die lidstaat als kiezer is geregistreerd.
 
 ##### Artikel Y 8
 
@@ -2712,15 +2712,15 @@ Vervallen
 
 ##### Artikel Y 10
 
-Behalve op de in [artikel G 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), genoemde gronden wordt op een verzoek om registratie van de aanduiding van een politieke groepering ten behoeve van de verkiezing van de leden van het Europees Parlement afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak overeenstemt met een aanduiding van een andere politieke groepering die reeds ten behoeve van de verkiezing van de leden van de Tweede Kamer is geregistreerd, of met een aanduiding waarvoor reeds eerder ten behoeve van die verkiezing een registratieverzoek is ontvangen, en daardoor verwarring te duchten is.
+Behalve op de in [artikel G 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), genoemde gronden wordt op een verzoek om registratie van de aanduiding van een politieke groepering ten behoeve van de verkiezing van de leden van het Europees Parlement afwijzend beschikt, indien de aanduiding geheel of in hoofdzaak overeenstemt met een aanduiding van een andere politieke groepering die reeds ten behoeve van de verkiezing van de leden van de Tweede Kamer is geregistreerd, of met een aanduiding waarvoor reeds eerder ten behoeve van die verkiezing een registratieverzoek is ontvangen, en daardoor verwarring te duchten is.
 
 ##### Artikel Y 11
 
-[Artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), blijft buiten toepassing.
+[Artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), blijft buiten toepassing.
 
 ##### Artikel Y 12
 
-Voor de overeenkomstige toepassing van de [hoofdstukken H](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&z=2014-07-01&g=2014-07-01) en [I](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&z=2014-07-01&g=2014-07-01) geldt Nederland als één kieskring. [Artikel H 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10a&z=2014-07-01&g=2014-07-01) blijft buiten toepassing.
+Voor de overeenkomstige toepassing van de [hoofdstukken H](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&z=2014-10-10&g=2014-10-10) en [I](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&z=2014-10-10&g=2014-10-10) geldt Nederland als één kieskring. [Artikel H 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10a&z=2014-10-10&g=2014-10-10) blijft buiten toepassing.
 
 ##### Artikel Y 13
 
@@ -2734,7 +2734,7 @@ Vervallen
 
 ##### Artikel Y 15
 
-In aanvulling op [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), wordt het ontbreken van de verklaring, bedoeld in [artikel Y 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-07-01&g=2014-07-01), tevens als verzuim aangemerkt.
+In aanvulling op [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), wordt het ontbreken van de verklaring, bedoeld in [artikel Y 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-10-10&g=2014-10-10), tevens als verzuim aangemerkt.
 
 ##### Artikel Y 16
 
@@ -2742,7 +2742,7 @@ Vervallen
 
 ##### Artikel Y 17
 
-Het centraal stembureau schrapt van de lijst in de eerste plaats de naam van de kandidaat van wie de verklaring, bedoeld in [artikel Y 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-07-01&g=2014-07-01), niet is overgelegd.
+Het centraal stembureau schrapt van de lijst in de eerste plaats de naam van de kandidaat van wie de verklaring, bedoeld in [artikel Y 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-10-10&g=2014-10-10), niet is overgelegd.
 
 ##### Artikel Y 18
 
@@ -2770,11 +2770,11 @@ In artikel O 5 wordt voor «het orgaan waarvoor de verkiezing plaatsvindt» telk
 
 ##### Artikel Y 23a
 
-Voor de toepassing van de [artikelen P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-07-01&g=2014-07-01) en [P 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-07-01&g=2014-07-01), wordt voor «25% van de kiesdeler» gelezen: 10% van de kiesdeler.
+Voor de toepassing van de [artikelen P 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_15&z=2014-10-10&g=2014-10-10) en [P 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=3&artikel=P_19&z=2014-10-10&g=2014-10-10), wordt voor «25% van de kiesdeler» gelezen: 10% van de kiesdeler.
 
 ##### Artikel Y 24
 
-Bij algemene maatregel van bestuur kunnen voor zover nodig voorschriften worden gegeven die afwijken van krachtens [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-07-01&g=2014-07-01) bij algemene maatregel van bestuur gestelde bepalingen.
+Bij algemene maatregel van bestuur kunnen voor zover nodig voorschriften worden gegeven die afwijken van krachtens [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-10-10&g=2014-10-10) bij algemene maatregel van bestuur gestelde bepalingen.
 
 #### § 3. Het begin van en de veranderingen in het lidmaatschap
 
@@ -2782,7 +2782,7 @@ Bij algemene maatregel van bestuur kunnen voor zover nodig voorschriften worden 
 
 1. De Tweede Kamer onderzoekt zo spoedig mogelijk of de benoemde op grond van de nationale bepalingen als lid van het Europees Parlement kan worden toegelaten.
 
-2. De [artikelen V 1 tot en met V 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01) zijn daarbij van overeenkomstige toepassing, met dien verstande dat waar in deze artikelen sprake is van het vertegenwoordigend orgaan of het orgaan waarvoor de benoeming is geschied, daarvoor de Tweede Kamer in de plaats treedt.
+2. De [artikelen V 1 tot en met V 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10) zijn daarbij van overeenkomstige toepassing, met dien verstande dat waar in deze artikelen sprake is van het vertegenwoordigend orgaan of het orgaan waarvoor de benoeming is geschied, daarvoor de Tweede Kamer in de plaats treedt.
 
 ##### Artikel Y 26
 
@@ -2790,17 +2790,17 @@ De voorzitter van de Tweede Kamer geeft van de uitkomst van het onderzoek onverw
 
 ##### Artikel Y 27
 
-Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, geschiedt dit met overeenkomstige toepassing van [hoofdstuk W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-07-01&g=2014-07-01), met dien verstande dat voor de toepassing van [artikel W 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_1&z=2014-07-01&g=2014-07-01), voor «25% van de kiesdeler» wordt gelezen: 10% van de kiesdeler.
+Wanneer, anders dan bij de vaststelling van de uitslag van een verkiezing, in een opengevallen plaats moet worden voorzien, geschiedt dit met overeenkomstige toepassing van [hoofdstuk W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-10-10&g=2014-10-10), met dien verstande dat voor de toepassing van [artikel W 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_1&z=2014-10-10&g=2014-10-10), voor «25% van de kiesdeler» wordt gelezen: 10% van de kiesdeler.
 
 ##### Artikel Y 28
 
-Zodra onherroepelijk is komen vast te staan dat een lid van het Europees Parlement een van de in [artikel Y 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_4&z=2014-07-01&g=2014-07-01) bedoelde vereisten voor het lidmaatschap niet bezit of een ingevolge de nationale bepalingen met het lidmaatschap onverenigbare betrekking vervult, houdt hij op lid te zijn. De voorzitter van de Tweede Kamer geeft hiervan onverwijld kennis aan de voorzitter van het Europees Parlement en aan de voorzitter van het centraal stembureau.
+Zodra onherroepelijk is komen vast te staan dat een lid van het Europees Parlement een van de in [artikel Y 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_4&z=2014-10-10&g=2014-10-10) bedoelde vereisten voor het lidmaatschap niet bezit of een ingevolge de nationale bepalingen met het lidmaatschap onverenigbare betrekking vervult, houdt hij op lid te zijn. De voorzitter van de Tweede Kamer geeft hiervan onverwijld kennis aan de voorzitter van het Europees Parlement en aan de voorzitter van het centraal stembureau.
 
 ##### Artikel Y 29
 
-1. Wanneer een lid van het Europees Parlement komt te verkeren in een van de gevallen, genoemd in [artikel Y 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=3&artikel=Y_28&z=2014-07-01&g=2014-07-01), geeft hij hiervan kennis aan de voorzitter van de Tweede Kamer, met vermelding van de reden.
+1. Wanneer een lid van het Europees Parlement komt te verkeren in een van de gevallen, genoemd in [artikel Y 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=3&artikel=Y_28&z=2014-10-10&g=2014-10-10), geeft hij hiervan kennis aan de voorzitter van de Tweede Kamer, met vermelding van de reden.
 
-2. Indien de kennisgeving niet is gedaan en de voorzitter van de Tweede Kamer van oordeel is dat een lid van het Europees Parlement verkeert in een van de gevallen, genoemd in [artikel Y 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=3&artikel=Y_28&z=2014-07-01&g=2014-07-01), waarschuwt hij de belanghebbende schriftelijk.
+2. Indien de kennisgeving niet is gedaan en de voorzitter van de Tweede Kamer van oordeel is dat een lid van het Europees Parlement verkeert in een van de gevallen, genoemd in [artikel Y 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=3&artikel=Y_28&z=2014-10-10&g=2014-10-10), waarschuwt hij de belanghebbende schriftelijk.
 
 3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van de Tweede Kamer te onderwerpen.
 
@@ -2816,7 +2816,7 @@ De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lidstaat van
 
 ##### Artikel Y 32
 
-1. Burgemeester en wethouders registreren de kiesgerechtigdheid van de in [artikel Y 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_3&z=2014-07-01&g=2014-07-01), bedoelde personen die ingezetene zijn van de gemeente, indien zij daartoe een schriftelijk verzoek hebben ingediend.
+1. Burgemeester en wethouders registreren de kiesgerechtigdheid van de in [artikel Y 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_3&z=2014-10-10&g=2014-10-10), bedoelde personen die ingezetene zijn van de gemeente, indien zij daartoe een schriftelijk verzoek hebben ingediend.
 
 2. Bij het verzoek vermeldt verzoeker zijn adres van verblijf en, voor zover van toepassing, de plaats in de lidstaat waarvan hij onderdaan is, waar hij het laatst als kiezer was geregistreerd. Bij het verzoek legt verzoeker een kopie over van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1). Voorts verklaart hij dat hij in de lidstaat waarvan hij onderdaan is, niet van het kiesrecht is uitgesloten en dat hij het kiesrecht uitsluitend in Nederland zal uitoefenen.
 
@@ -2834,7 +2834,7 @@ De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lidstaat van
 
 9. Ten minste zes weken voor de kandidaatstelling brengt de burgemeester de mogelijkheid van registratie voor niet-Nederlanders die onderdanen zijn van andere lid-staten ter openbare kennis.
 
-10. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
+10. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
 
 ##### Artikel Y 33
 
@@ -2848,27 +2848,27 @@ De kiesgerechtigde niet-Nederlander die onderdaan is van een andere lidstaat van
 
 3. Burgemeester en wethouders doen van een schrapping van de registratie van de kiesgerechtigdheid onverwijld mededeling aan betrokkene en aan de door de desbetreffende lidstaat aangewezen autoriteit waarvan betrokkene onderdaan is.
 
-4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
+4. [Artikel D 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_9&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing op een beschikking als bedoeld in dit artikel.
 
 ##### Artikel Y 33a
 
-Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid als bedoeld in [artikel Y 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_32&z=2014-07-01&g=2014-07-01), indien betrokkene het Nederlanderschap verkrijgt.
+Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid als bedoeld in [artikel Y 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_32&z=2014-10-10&g=2014-10-10), indien betrokkene het Nederlanderschap verkrijgt.
 
 ##### Artikel Y 34
 
-In de in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_1&z=2014-07-01&g=2014-07-01) bedoelde openbare kennisgeving wordt tevens melding gemaakt van de mogelijkheid van kandidaatstelling van niet-Nederlanders die onderdanen zijn van andere lid-staten.
+In de in [artikel H 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_1&z=2014-10-10&g=2014-10-10) bedoelde openbare kennisgeving wordt tevens melding gemaakt van de mogelijkheid van kandidaatstelling van niet-Nederlanders die onderdanen zijn van andere lid-staten.
 
 ##### Artikel Y 35
 
 1. Bij de lijst wordt van iedere daarop voorkomende kandidaat die onderdaan is van een andere lidstaat en niet tevens de Nederlandse nationaliteit heeft een schriftelijke verklaring van de kandidaat overgelegd dat hij in die lidstaat niet is uitgesloten van het recht om te worden gekozen. De kandidaat vermeldt op deze verklaring tevens zijn nationaliteit, geboortedatum, geboorteplaats en zijn laatste adres in die lidstaat.
 
-2. De formulieren voor de verklaring zijn kosteloos voor de kiezers verkrijgbaar op dezelfde wijze en gedurende dezelfde termijn als de formulieren, bedoeld in [artikel Y 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-07-01&g=2014-07-01). Bij ministeriële regeling wordt voor het formulier een model vastgesteld.
+2. De formulieren voor de verklaring zijn kosteloos voor de kiezers verkrijgbaar op dezelfde wijze en gedurende dezelfde termijn als de formulieren, bedoeld in [artikel Y 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_13&z=2014-10-10&g=2014-10-10). Bij ministeriële regeling wordt voor het formulier een model vastgesteld.
 
-3. In aanvulling op [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), wordt het ontbreken van de verklaring, bedoeld in het eerste lid, tevens als verzuim aangemerkt.
+3. In aanvulling op [artikel I 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), wordt het ontbreken van de verklaring, bedoeld in het eerste lid, tevens als verzuim aangemerkt.
 
 ##### Artikel Y 35a
 
-Het centraal stembureau schrapt van de lijst de kandidaat van wie de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-07-01&g=2014-07-01), niet is overgelegd.
+Het centraal stembureau schrapt van de lijst de kandidaat van wie de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-10-10&g=2014-10-10), niet is overgelegd.
 
 ##### Artikel Y 36
 
@@ -2876,7 +2876,7 @@ Het centraal stembureau stelt door tussenkomst van Onze Minister van Buitenlands
 
 ##### Artikel Y 38
 
-1. Indien de autoriteit, bedoeld in [artikel Y 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-07-01&g=2014-07-01), het centraal stembureau verzoekt te verklaren of een kandidaat in Nederland is uitgesloten van het recht om te worden gekozen, verzoekt het centraal stembureau Onze Minister van Veiligheid en Justitie een dergelijke verklaring te verstrekken. De verklaring wordt onverwijld verstrekt.
+1. Indien de autoriteit, bedoeld in [artikel Y 35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-10-10&g=2014-10-10), het centraal stembureau verzoekt te verklaren of een kandidaat in Nederland is uitgesloten van het recht om te worden gekozen, verzoekt het centraal stembureau Onze Minister van Veiligheid en Justitie een dergelijke verklaring te verstrekken. De verklaring wordt onverwijld verstrekt.
 
 2. Het centraal stembureau geleidt de verklaring van Onze Minister van Veiligheid en Justitie onverwijld door naar de in het eerste lid bedoelde autoriteit.
 
@@ -2884,7 +2884,7 @@ Het centraal stembureau stelt door tussenkomst van Onze Minister van Buitenlands
 
 ##### Artikel Y 39
 
-Bij ministeriële regeling kunnen krachtens de [afdelingen II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-07-01&g=2014-07-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&z=2014-07-01&g=2014-07-01) vastgestelde modellen die ingevolge bepalingen van deze afdeling van overeenkomstige toepassing worden verklaard voor de verkiezing van de leden van het Europees Parlement, voor deze verkiezing nader worden vastgesteld.
+Bij ministeriële regeling kunnen krachtens de [afdelingen II](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&z=2014-10-10&g=2014-10-10) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&z=2014-10-10&g=2014-10-10) vastgestelde modellen die ingevolge bepalingen van deze afdeling van overeenkomstige toepassing worden verklaard voor de verkiezing van de leden van het Europees Parlement, voor deze verkiezing nader worden vastgesteld.
 
 ### Afdeling VI. Straf-, slot- en overgangsbepalingen
 
@@ -2908,15 +2908,15 @@ Degene die stembiljetten, stempassen, kiezerspassen, volmachtbewijzen of briefst
 
 1. Degene die bij een verkiezing door gift of belofte een kiezer omkoopt om volmacht te geven tot het uitbrengen van zijn stem, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
-2. Degene die bij een verkiezing door gift of belofte een kiezer omkoopt dan wel anderszins daartoe dwingt om een verklaring als bedoeld in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), af te leggen ter ondersteuning van een lijst, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Degene die bij een verkiezing door gift of belofte een kiezer omkoopt dan wel anderszins daartoe dwingt om een verklaring als bedoeld in [artikel H 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), af te leggen ter ondersteuning van een lijst, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
 3. Met dezelfde straf wordt gestraft de kiezer die zich door gift of belofte tot het bij volmacht stemmen of het afleggen van een ondersteuningsverklaring laat omkopen.
 
 ##### Artikel Z 5
 
-1. Bij veroordeling wegens een van de in de [artikelen Z 1 tot en met Z 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-07-01&g=2014-07-01) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 1°, 2° en 4°, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=28) vermelde rechten worden uitgesproken.
+1. Bij veroordeling wegens een van de in de [artikelen Z 1 tot en met Z 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-10-10&g=2014-10-10) omschreven misdrijven kan ontzetting van de in [artikel 28, eerste lid, onder 1°, 2° en 4°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 1°, 2° en 4°, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=28) vermelde rechten worden uitgesproken.
 
-2. Bij veroordeling tot een vrijheidsstraf van ten minste een jaar wegens een van de in de [artikelen Z 1 tot en met Z 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-07-01&g=2014-07-01) omschreven misdrijven, kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 3°, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=28) vermelde recht worden uitgesproken.
+2. Bij veroordeling tot een vrijheidsstraf van ten minste een jaar wegens een van de in de [artikelen Z 1 tot en met Z 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-10-10&g=2014-10-10) omschreven misdrijven, kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) dan wel, indien de ontzetting wordt uitgesproken door de strafrechter in Bonaire, Sint Eustatius of Saba, [artikel 32, onder 3°, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=28) vermelde recht worden uitgesproken.
 
 ##### Artikel Z 6
 
@@ -2936,7 +2936,7 @@ De onderdaan van een lidstaat van de Europese Gemeenschappen die zowel in Nederl
 
 ##### Artikel Z 9
 
-De werkgever die de hem bij [artikel J 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_10&z=2014-07-01&g=2014-07-01) opgelegde verplichting niet nakomt, wordt gestraft met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie.
+De werkgever die de hem bij [artikel J 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_10&z=2014-10-10&g=2014-10-10) opgelegde verplichting niet nakomt, wordt gestraft met hechtenis van ten hoogste veertien dagen of geldboete van de tweede categorie.
 
 ##### Artikel Z 10
 
@@ -2944,7 +2944,7 @@ De voorzitter, de leden en de opgeroepen plaatsvervangende leden van het stembur
 
 ##### Artikel Z 11
 
-De in de [artikelen Z 1 tot en met Z 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-07-01&g=2014-07-01) bedoelde strafbare feiten worden als misdrijven beschouwd en de in de [artikelen Z 6 tot en met Z 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_6&z=2014-07-01&g=2014-07-01) bedoelde strafbare feiten als overtredingen.
+De in de [artikelen Z 1 tot en met Z 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_1&z=2014-10-10&g=2014-10-10) bedoelde strafbare feiten worden als misdrijven beschouwd en de in de [artikelen Z 6 tot en met Z 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=VI&hoofdstuk=Z&paragraaf=1&artikel=Z_6&z=2014-10-10&g=2014-10-10) bedoelde strafbare feiten als overtredingen.
 
 #### § 2. Slot- en overgangsbepalingen
 
@@ -3026,9 +3026,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel X 10
 
-1. De voorzitter van een vertegenwoordigend orgaan verleent aan een lid van dat orgaan dat is toegelaten op diens verzoek tijdelijk ontslag wegens zwangerschap en bevalling op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling die blijkt uit een door het lid overgelegde verklaring van een arts of verloskundige. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur als bedoeld in [hoofdstuk C](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&z=2014-07-01&g=2014-07-01).
+1. De voorzitter van een vertegenwoordigend orgaan verleent aan een lid van dat orgaan dat is toegelaten op diens verzoek tijdelijk ontslag wegens zwangerschap en bevalling op de in het verzoek vermelde dag die ligt tussen ten hoogste zes en ten minste vier weken voor de vermoedelijke datum van de bevalling die blijkt uit een door het lid overgelegde verklaring van een arts of verloskundige. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur als bedoeld in [hoofdstuk C](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&z=2014-10-10&g=2014-10-10).
 
-2. De voorzitter van een vertegenwoordigend orgaan verleent aan een lid van dat orgaan op diens verzoek tijdelijk ontslag, indien het lid wegens ziekte niet in staat is het lidmaatschap uit te oefenen en blijkens de verklaring van een arts aannemelijk is dat hij de uitoefening van het lidmaatschap niet binnen acht weken zal kunnen hervatten. Het tijdelijk ontslag gaat in op de dag na de bekendmaking van de beslissing op het verzoek. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur als bedoeld in [hoofdstuk C](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&z=2014-07-01&g=2014-07-01).
+2. De voorzitter van een vertegenwoordigend orgaan verleent aan een lid van dat orgaan op diens verzoek tijdelijk ontslag, indien het lid wegens ziekte niet in staat is het lidmaatschap uit te oefenen en blijkens de verklaring van een arts aannemelijk is dat hij de uitoefening van het lidmaatschap niet binnen acht weken zal kunnen hervatten. Het tijdelijk ontslag gaat in op de dag na de bekendmaking van de beslissing op het verzoek. Aan het verzoek, bedoeld in de eerste volzin, wordt niet voldaan, indien het tijdstip waarop het verzoek wordt gedaan ligt binnen een periode van zestien weken voor het einde van de zittingsduur als bedoeld in [hoofdstuk C](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=C&z=2014-10-10&g=2014-10-10).
 
 3. Het lidmaatschap van het lid aan wie tijdelijk ontslag als bedoeld in het eerste lid of tweede lid is verleend, herleeft van rechtswege met ingang van de dag waarop zestien weken zijn verstreken sinds de dag van ingang van het tijdelijk ontslag.
 
@@ -3036,9 +3036,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel X 11
 
-1. De voorzitter van het vertegenwoordigend orgaan beslist op een verzoek tot tijdelijk ontslag als bedoeld in [artikel X 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&artikel=X_10&z=2014-07-01&g=2014-07-01), zo spoedig mogelijk, doch uiterlijk op de veertiende dag na indiening van het verzoek.
+1. De voorzitter van het vertegenwoordigend orgaan beslist op een verzoek tot tijdelijk ontslag als bedoeld in [artikel X 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&artikel=X_10&z=2014-10-10&g=2014-10-10), zo spoedig mogelijk, doch uiterlijk op de veertiende dag na indiening van het verzoek.
 
-2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in overeenstemming met de verklaring van de arts of verloskundige, bedoeld in [artikel X 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&artikel=X_10&z=2014-07-01&g=2014-07-01).
+2. De beslissing op het verzoek tot tijdelijk ontslag geschiedt in overeenstemming met de verklaring van de arts of verloskundige, bedoeld in [artikel X 10, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=3&artikel=X_10&z=2014-10-10&g=2014-10-10).
 
 3. Een beslissing tot tijdelijk ontslag bevat de dag van ingang van het ontslag.
 
@@ -3046,13 +3046,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel X 12
 
-1. De voorzitter van het centraal stembureau benoemt een vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in deze paragraaf. De [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&z=2014-07-01&g=2014-07-01) en [W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-07-01&g=2014-07-01) zijn van toepassing, met dien verstande dat in afwijking van [artikel V 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-07-01&g=2014-07-01), de benoeming uiterlijk op de tiende dag na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
+1. De voorzitter van het centraal stembureau benoemt een vervanger voor de plaats die is opengevallen als gevolg van een tijdelijk ontslag als bedoeld in deze paragraaf. De [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&z=2014-10-10&g=2014-10-10) en [W](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&z=2014-10-10&g=2014-10-10) zijn van toepassing, met dien verstande dat in afwijking van [artikel V 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_2&z=2014-10-10&g=2014-10-10), de benoeming uiterlijk op de tiende dag na de dagtekening van de kennisgeving van benoeming wordt aangenomen.
 
 2. Degene die als vervanger is benoemd, houdt op lid te zijn met ingang van de dag waarop zestien weken zijn verstreken sinds de dag van ingang van het tijdelijk ontslag, onverminderd de mogelijkheid dat het vervangende lidmaatschap ingevolge deze wet op een eerder tijdstip eindigt.
 
 3. Indien de vervanger van het lid van een vertegenwoordigend orgaan aan wie tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, voortijdig ontslag neemt, dan wel wordt benoemd tot lid van het vertegenwoordigend orgaan voor een plaats die is opengevallen anders dan als gevolg van een tijdelijk ontslag, benoemt de voorzitter van het centraal stembureau een nieuwe tijdelijke vervanger voor de resterende periode van het tijdelijk ontslag.
 
-4. [Artikel X 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_6&z=2014-07-01&g=2014-07-01) is niet van toepassing op een vervanger.
+4. [Artikel X 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_6&z=2014-10-10&g=2014-10-10) is niet van toepassing op een vervanger.
 
 ### Afdeling V. De verkiezing van de leden van het Europees Parlement
 
@@ -3174,9 +3174,9 @@ Indien een kandidaat is overleden, wordt deze bij de toepassing van deze paragra
 
 ##### Artikel Y 5a
 
-1. In [artikel D 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01), wordt in plaats van «personen, bedoeld in [artikel B 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-07-01&g=2014-07-01), » gelezen: personen, bedoeld in [artikel Y 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3c&z=2014-07-01&g=2014-07-01), die hun werkelijke woonplaats hebben in Aruba, Curaçao of Sint Maarten.
+1. In [artikel D 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10), wordt in plaats van «personen, bedoeld in [artikel B 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_1&z=2014-10-10&g=2014-10-10), » gelezen: personen, bedoeld in [artikel Y 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3c&z=2014-10-10&g=2014-10-10), die hun werkelijke woonplaats hebben in Aruba, Curaçao of Sint Maarten.
 
-2. Opname in de bestanden, bedoeld in [artikel Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_3&z=2014-07-01&g=2014-07-01) juncto artikel [D 3c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3c&z=2014-07-01&g=2014-07-01), geschiedt tevens indien een persoon kiesgerechtigd is voor de verkiezing van de leden van het Europees Parlement en heeft verzocht tot registratie van zijn kiesgerechtigdheid voor de verkiezing van de leden van de Tweede Kamer.
+2. Opname in de bestanden, bedoeld in [artikel Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_3&z=2014-10-10&g=2014-10-10) juncto artikel [D 3c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3c&z=2014-10-10&g=2014-10-10), geschiedt tevens indien een persoon kiesgerechtigd is voor de verkiezing van de leden van het Europees Parlement en heeft verzocht tot registratie van zijn kiesgerechtigdheid voor de verkiezing van de leden van de Tweede Kamer.
 
 #### § 2. De verkiezing
 
@@ -3254,7 +3254,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Alvorens een stembureau als bedoeld in het eerste lid naar een andere standplaats vertrekt, wordt de sleuf van de stembus door de voorzitter van het stembureau in tegenwoordigheid van de aanwezige kiezers afgesloten en verzegeld. De voorzitter bewaart de sleutel waarmee de stembus is afgesloten, tijdens het verplaatsen naar de volgende standplaats. De voorzitter opent na de aankomst van het mobiele stembureau op de nieuwe standplaats de stembus in tegenwoordigheid van de aanwezige kiezers.
 
-4. [Artikel J 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+4. [Artikel J 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_1&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel J 7a
 
@@ -3264,9 +3264,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - a. waarvoor in plaats daarvan door de burgemeester een kiezerspas of een volmachtbewijs is afgegeven;
 
-- b. waarvoor krachtens [artikel J 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_8&z=2014-07-01&g=2014-07-01) een vervangende stempas is verstrekt;
+- b. waarvoor krachtens [artikel J 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=2&artikel=J_8&z=2014-10-10&g=2014-10-10) een vervangende stempas is verstrekt;
 
-- c. van de kiezer aan wie overeenkomstig [hoofdstuk M](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&z=2014-07-01&g=2014-07-01) een briefstembewijs is verstrekt;
+- c. van de kiezer aan wie overeenkomstig [hoofdstuk M](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&z=2014-10-10&g=2014-10-10) een briefstembewijs is verstrekt;
 
 - d. van iemand die niet als kiezer behoort te zijn geregistreerd, dan wel voor het uitbrengen van zijn stem is overleden;
 
@@ -3460,7 +3460,7 @@ Op de dag van de kandidaatstelling kunnen tevens bij een gezaghebber, van negen 
 
 ##### Artikel Ya 6
 
-De gemeenschappelijke verklaring, bedoeld in [artikel I 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=2&artikel=I_10&z=2014-07-01&g=2014-07-01), kan tevens worden ingeleverd bij de gezaghebber, op de dag van de kandidaatstelling, van negen tot zeventien uur.
+De gemeenschappelijke verklaring, bedoeld in [artikel I 10](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=2&artikel=I_10&z=2014-10-10&g=2014-10-10), kan tevens worden ingeleverd bij de gezaghebber, op de dag van de kandidaatstelling, van negen tot zeventien uur.
 
 ##### Artikel Ya 7
 
@@ -3480,7 +3480,7 @@ De gemeenschappelijke verklaring, bedoeld in [artikel I 10](https://wetten.overh
 
 ##### Artikel Ya 9
 
-Een herstelbaar verzuim kan tevens uiterlijk de eerste werkdag vóór de dag, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01), worden hersteld bij een gezaghebber van negen tot zeventien uur. [Artikel Ya 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_7&z=2014-07-01&g=2014-07-01) is van overeenkomstige toepassing.
+Een herstelbaar verzuim kan tevens uiterlijk de eerste werkdag vóór de dag, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10), worden hersteld bij een gezaghebber van negen tot zeventien uur. [Artikel Ya 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_7&z=2014-10-10&g=2014-10-10) is van overeenkomstige toepassing.
 
 ##### Artikel Ya 10
 
@@ -3492,13 +3492,13 @@ Een herstelbaar verzuim kan tevens uiterlijk de eerste werkdag vóór de dag, be
 
 ##### Artikel Ya 11
 
-De gezaghebbers van Sint Eustatius en Saba dragen er tevens zorg voor dat de in [artikel N 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-07-01&g=2014-07-01), genoemde processen-verbaal en de opgave van de door hen vastgestelde aantallen stemmen langs elektronische weg onverwijld na de vaststelling ter kennis worden gebracht van de voorzitter van het hoofdstembureau.
+De gezaghebbers van Sint Eustatius en Saba dragen er tevens zorg voor dat de in [artikel N 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-10-10&g=2014-10-10), genoemde processen-verbaal en de opgave van de door hen vastgestelde aantallen stemmen langs elektronische weg onverwijld na de vaststelling ter kennis worden gebracht van de voorzitter van het hoofdstembureau.
 
 ##### Artikel Ya 12
 
-1. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) draagt er tevens zorg voor dat het proces-verbaal, bedoeld in [artikel O 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_3&z=2014-07-01&g=2014-07-01), langs elektronische weg terstond nadat de leden het proces-verbaal hebben getekend, ter kennis wordt gebracht van het centraal stembureau.
+1. De voorzitter van het hoofdstembureau van kieskring 20 (Bonaire) draagt er tevens zorg voor dat het proces-verbaal, bedoeld in [artikel O 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_3&z=2014-10-10&g=2014-10-10), langs elektronische weg terstond nadat de leden het proces-verbaal hebben getekend, ter kennis wordt gebracht van het centraal stembureau.
 
-2. De voorzitter van het hoofdstembureau draagt er ten slotte zorg voor dat de stukken genoemd in [artikel O 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_5&z=2014-07-01&g=2014-07-01), tevens langs elektronische weg terstond ter kennis worden gebracht van de Tweede Kamer.
+2. De voorzitter van het hoofdstembureau draagt er ten slotte zorg voor dat de stukken genoemd in [artikel O 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_5&z=2014-10-10&g=2014-10-10), tevens langs elektronische weg terstond ter kennis worden gebracht van de Tweede Kamer.
 
 #### § 3. De verkiezing van de leden van de eilandsraad, het begin van en de veranderingen in het lidmaatschap van de eilandsraad en de beëindiging van het lidmaatschap en tijdelijke vervanging als lid
 
@@ -3512,11 +3512,11 @@ De leden van de eilandsraden worden gekozen door degenen die op de dag van de ka
 
 ##### Artikel Ya 15
 
-De politieke groepering die een verzoek tot registratie van de aanduiding als bedoeld in [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01) indient bij het centraal stembureau voor de verkiezing van de leden van de eilandsraad betaalt aan het openbaar lichaam een waarborgsom van USD 112,50.
+De politieke groepering die een verzoek tot registratie van de aanduiding als bedoeld in [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10) indient bij het centraal stembureau voor de verkiezing van de leden van de eilandsraad betaalt aan het openbaar lichaam een waarborgsom van USD 112,50.
 
 ##### Artikel Ya 16
 
-In de [artikelen H 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-07-01&g=2014-07-01), [I 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-07-01&g=2014-07-01), en [I 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_6&z=2014-07-01&g=2014-07-01), wordt in plaats van «het Europese deel van Nederland» telkens gelezen: het openbaar lichaam waar hij zich kandidaat stelt.
+In de [artikelen H 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_10&z=2014-10-10&g=2014-10-10), [I 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_2&z=2014-10-10&g=2014-10-10), en [I 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_6&z=2014-10-10&g=2014-10-10), wordt in plaats van «het Europese deel van Nederland» telkens gelezen: het openbaar lichaam waar hij zich kandidaat stelt.
 
 ##### Artikel Ya 17
 
@@ -3528,15 +3528,15 @@ Voor elke kandidatenlijst die wordt ingeleverd in een van de openbare lichamen, 
 
 ##### Artikel Ya 19
 
-De benoemde die woonachtig is in het openbaar lichaam waar hij zich kandidaat stelt of de gemachtigde van de benoemde die buiten het openbaar lichaam waar hij zich kandidaat stelt maar binnen Nederland woonplaats heeft, legt het afschrift van gegevens uit de basisregistratie personen, bedoeld in [artikel V 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-07-01&g=2014-07-01), over, waaruit tevens het Nederlanderschap van de benoemde blijkt.
+De benoemde die woonachtig is in het openbaar lichaam waar hij zich kandidaat stelt of de gemachtigde van de benoemde die buiten het openbaar lichaam waar hij zich kandidaat stelt maar binnen Nederland woonplaats heeft, legt het afschrift van gegevens uit de basisregistratie personen, bedoeld in [artikel V 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_3&z=2014-10-10&g=2014-10-10), over, waaruit tevens het Nederlanderschap van de benoemde blijkt.
 
 ##### Artikel Ya 20
 
-Voor de toepassing van [artikel W 2, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-07-01&g=2014-07-01), wordt in plaats van «[artikel 11 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=11)» gelezen: [artikel 12 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=12).
+Voor de toepassing van [artikel W 2, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=W&artikel=W_2&z=2014-10-10&g=2014-10-10), wordt in plaats van «[artikel 11 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=11)» gelezen: [artikel 12 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=12).
 
 ##### Artikel Ya 21
 
-Voor de toepassing van [artikel X 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-07-01&g=2014-07-01), wordt in plaats van «[artikel 15, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=15)» gelezen: [artikel 16, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=16).
+Voor de toepassing van [artikel X 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-10-10&g=2014-10-10), wordt in plaats van «[artikel 15, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=15)» gelezen: [artikel 16, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=16).
 
 #### § 4. De verkiezing van de leden van de Eerste Kamer der Staten-Generaal
 
@@ -3544,7 +3544,7 @@ Voor de toepassing van [artikel X 8, eerste en derde lid](https://wetten.overhei
 
 ##### Artikel Ya 32
 
-De [artikelen Ya 4 tot en met Ya 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_4&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing met dien verstande dat in [artikel Ya 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_10&z=2014-07-01&g=2014-07-01), in plaats van «voor kieskring 20 (Bonaire)» wordt gelezen: voor het land.
+De [artikelen Ya 4 tot en met Ya 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_4&z=2014-10-10&g=2014-10-10) zijn van overeenkomstige toepassing met dien verstande dat in [artikel Ya 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_10&z=2014-10-10&g=2014-10-10), in plaats van «voor kieskring 20 (Bonaire)» wordt gelezen: voor het land.
 
 ##### Artikel Ya 33
 
@@ -3572,7 +3572,7 @@ Vervallen
 
 ##### Artikel Ya 39
 
-De [artikelen Y 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_32&z=2014-07-01&g=2014-07-01), [Y 33](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_33&z=2014-07-01&g=2014-07-01) en [Y 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_33a&z=2014-07-01&g=2014-07-01) zijn niet van toepassing.
+De [artikelen Y 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_32&z=2014-10-10&g=2014-10-10), [Y 33](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_33&z=2014-10-10&g=2014-10-10) en [Y 33a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_33a&z=2014-10-10&g=2014-10-10) zijn niet van toepassing.
 
 #### § 6. Bestuursrecht, beroeps- en overgangsbepalingen
 
@@ -3584,11 +3584,11 @@ De [artikelen Y 32](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&h
 
 ##### Artikel Ya 41
 
-Degene die een verzoek indient als bedoeld in [artikel D 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_5&z=2014-07-01&g=2014-07-01), verschaft de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.
+Degene die een verzoek indient als bedoeld in [artikel D 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_5&z=2014-10-10&g=2014-10-10), verschaft de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.
 
 ##### Artikel Ya 42
 
-1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking van het bestuurscollege als bedoeld in [artikel D 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_6&z=2014-07-01&g=2014-07-01), een beschikking van de gezaghebber als bedoeld in de [artikelen K 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&artikel=K_8&z=2014-07-01&g=2014-07-01), [L 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&artikel=L_11&z=2014-07-01&g=2014-07-01), en [M 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_4&z=2014-07-01&g=2014-07-01), en tegen een beschikking van de eilandsraad als bedoeld in de [artikelen X 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_5&z=2014-07-01&g=2014-07-01), en [X 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-07-01&g=2014-07-01), ingesteld bij het Gemeenschappelijk Hof.
+1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking van het bestuurscollege als bedoeld in [artikel D 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_6&z=2014-10-10&g=2014-10-10), een beschikking van de gezaghebber als bedoeld in de [artikelen K 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=K&artikel=K_8&z=2014-10-10&g=2014-10-10), [L 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=L&paragraaf=2&artikel=L_11&z=2014-10-10&g=2014-10-10), en [M 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=1&artikel=M_4&z=2014-10-10&g=2014-10-10), en tegen een beschikking van de eilandsraad als bedoeld in de [artikelen X 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_5&z=2014-10-10&g=2014-10-10), en [X 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=2&artikel=X_8&z=2014-10-10&g=2014-10-10), ingesteld bij het Gemeenschappelijk Hof.
 
 2. Op het beroep zijn de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=3) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&hoofdstuk=6), met uitzondering van [§ 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=1) en [§ 3, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=3) van overeenkomstige toepassing.
 
@@ -3600,77 +3600,57 @@ Degene die een verzoek indient als bedoeld in [artikel D 5](https://wetten.overh
 
 ##### Artikel Ya 43
 
-1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking op grond van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), [Q 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=Q&artikel=Q_6&z=2014-07-01&g=2014-07-01) en [Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_2&z=2014-07-01&g=2014-07-01), in samenhang met artikel G 1, die is gericht op een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het Gemeenschappelijk Hof.
+1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking op grond van de [artikelen G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10), [Q 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=Q&artikel=Q_6&z=2014-10-10&g=2014-10-10) en [Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_2&z=2014-10-10&g=2014-10-10), in samenhang met artikel G 1, die is gericht op een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, ingesteld bij het Gemeenschappelijk Hof.
 
-2. De [artikelen G 5, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-07-01&g=2014-07-01), en [Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-07-01&g=2014-07-01), zijn van overeenkomstige toepassing.
+2. De [artikelen G 5, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-10-10&g=2014-10-10), en [Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-10-10&g=2014-10-10), zijn van overeenkomstige toepassing.
 
 ##### Artikel Ya 44
 
-1. Tegen een beschikking op grond van de [artikelen I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01), [S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-07-01&g=2014-07-01) en [Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_2&z=2014-07-01&g=2014-07-01) in samenhang met artikel I 4 van deze wet die betreft:
+1. Tegen een beschikking op grond van de [artikelen I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10), [S 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=III&hoofdstuk=S&paragraaf=1&artikel=S_2&z=2014-10-10&g=2014-10-10) en [Y 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=2&artikel=Y_2&z=2014-10-10&g=2014-10-10) in samenhang met artikel I 4 van deze wet die betreft:
 
 - a. een kandidatenlijst waarboven bij de inlevering van de lijst een aanduiding is geplaatst van een politieke groepering die blijkens de statuten haar zetel heeft in Bonaire, Sint Eustatius of Saba, of
 
 - b. een kandidatenlijst waarboven geen aanduiding is geplaatst maar waarvan de eerstgenoemde kandidaat ingezetene is van Bonaire, Sint Eustatius of Saba, kan door een belanghebbende, in afwijking van [artikel 7 Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7), en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.
 
-2. De [artikelen I 7, eerste lid, tweede volzin, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-07-01&g=2014-07-01), [I 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_8&z=2014-07-01&g=2014-07-01) en [Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-07-01&g=2014-07-01), zijn van overeenkomstige toepassing.
+2. De [artikelen I 7, eerste lid, tweede volzin, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-10-10&g=2014-10-10), [I 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_8&z=2014-10-10&g=2014-10-10) en [Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-10-10&g=2014-10-10), zijn van overeenkomstige toepassing.
 
 ##### Artikel Ya 45
 
-Tegen een beschikking op grond van de [artikelen G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-07-01&g=2014-07-01), [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01) of [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01) die wordt genomen in het kader van de verkiezing van de leden van provinciale staten, kan uitsluitend beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
+Tegen een beschikking op grond van de [artikelen G 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_2&z=2014-10-10&g=2014-10-10), [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-10-10&g=2014-10-10) of [I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10) die wordt genomen in het kader van de verkiezing van de leden van provinciale staten, kan uitsluitend beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel Ya 46
 
-1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking op grond van de [artikelen G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01) of [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01) die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, ingesteld bij het Gemeenschappelijk Hof.
+1. In afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) wordt het beroep tegen een beschikking op grond van de [artikelen G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10) of [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-10-10&g=2014-10-10) die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, ingesteld bij het Gemeenschappelijk Hof.
 
-2. Tegen een beschikking op grond van [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01) die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, kan door een belanghebbende, in afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7), en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.
+2. Tegen een beschikking op grond van [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10) die wordt genomen in het kader van de verkiezing van de leden van de eilandsraad, kan door een belanghebbende, in afwijking van [artikel 7 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7), en iedere kiezer uitsluitend beroep worden ingesteld bij het Gemeenschappelijk Hof.
 
-3. [Artikel G 5, eerste lid, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing indien het betreft een beschikking op grond van [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01) of [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01).
+3. [Artikel G 5, eerste lid, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing indien het betreft een beschikking op grond van [artikel G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-10-10&g=2014-10-10) of [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-10-10&g=2014-10-10).
 
-4. De [artikelen I 7, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-07-01&g=2014-07-01), en [I 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-07-01&g=2014-07-01) zijn van overeenkomstige toepassing indien het betreft een beschikking op grond van [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01).
+4. De [artikelen I 7, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-10-10&g=2014-10-10), en [I 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_7&z=2014-10-10&g=2014-10-10) zijn van overeenkomstige toepassing indien het betreft een beschikking op grond van [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10).
 
-5. [Artikel Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+5. [Artikel Ya 42, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_42&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 ##### Artikel Ya 47
 
-Voor zover de periode van vijf jaren, genoemd in [artikel Ya 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=3&artikel=Ya_14&z=2014-07-01&g=2014-07-01), is gelegen vóór inwerkingtreding van de Wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 2010, 347), wordt onder Nederland tevens verstaan de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, met dien verstande dat in bedoeld artikel voor «[Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571)» wordt gelezen: Landsverordening toelating en uitzetting.
+Voor zover de periode van vijf jaren, genoemd in [artikel Ya 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=3&artikel=Ya_14&z=2014-10-10&g=2014-10-10), is gelegen vóór inwerkingtreding van de Wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 2010, 347), wordt onder Nederland tevens verstaan de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, met dien verstande dat in bedoeld artikel voor «[Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571)» wordt gelezen: Landsverordening toelating en uitzetting.
 
 ##### Artikel Ya 48
 
-1. In het ingevolge [artikel G 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), in samenhang met [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=3&artikel=Ya_13&z=2014-07-01&g=2014-07-01) door het centraal stembureau voor de leden van de eilandsraad bij te houden register van aanduidingen schrijft het centraal stembureau ambtshalve als aanduiding in, de aanduiding van de politieke groepering die een vereniging is met volledige rechtsbevoegdheid en wier aanduiding was geplaatst boven een kandidatenlijst waaraan bij de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba een of meer zetels zijn toegekend.
-
-2. Indien de aanduiding van een politieke groepering als bedoeld in het eerste lid, geheel of in hoofdzaak overeenstemt met een op de voet van [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) geregistreerde aanduiding van een andere politieke groepering en daardoor verwarring te duchten is, neemt het centraal stembureau voor de verkiezing van de leden van de eilandsraad een beschikking als bedoeld in [artikel G 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01), dat de doorwerking van de op grond van [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) geregistreerde aanduiding niet plaatsvindt.
+Vervallen
 
 ##### Artikel Ya 49
 
-1. Indien binnen een termijn van twee maanden na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347) de kandidaatstelling plaatsvindt voor de verkiezing van de leden van de eilandsraad, geldt voor die verkiezing het volgende.
-
-2. De kennisgeving die heeft plaatsgevonden op grond van [artikel G 1, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01), voor de verkiezing van de leden van provinciale staten, geldt tevens voor de verkiezing van de leden van de eilandsraad.
-
-3. In afwijking van de [artikelen G 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), [G 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01) en [G 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-07-01&g=2014-07-01) gelden voor de verkiezing van de leden van de eilandsraad de volgende tijdstippen:
-
-- a. in afwijking van [artikel G 3, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), in samenhang met [artikel Ya 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=3&artikel=Ya_13&z=2014-07-01&g=2014-07-01), kunnen verzoeken tot registratie of tot wijziging van de registratie van aanduidingen van politieke groeperingen worden ingediend tot uiterlijk de vijftiende dag voor de dag van de kandidaatstelling;
-
-- b. de beslissing van het centraal stembureau op een verzoek, bedoeld in onderdeel a, wordt genomen binnen drie dagen en terstond aan de gemachtigde bekendgemaakt, alsmede terstond ter openbare kennis gebracht op de in het openbaar lichaam gebruikelijke wijze;
-
-- c. een beschikking als bedoeld in [artikel Ya 48, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_48&z=2014-07-01&g=2014-07-01), in samenhang met [artikel G 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_4&z=2014-07-01&g=2014-07-01), wordt genomen uiterlijk op de twaalfde dag voor de dag van de kandidaatstelling;
-
-- d. in afwijking van [artikel G 5, eerste lid, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_5&z=2014-07-01&g=2014-07-01), in samenhang met [artikel Ya 46](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_46&z=2014-07-01&g=2014-07-01), wordt een beroepschrift tegen:
-
-- 1°. een beschikking als bedoeld in onderdeel b ingediend uiterlijk op de derde dag na de dagtekening van de openbare kennisgeving, bedoeld in [artikel G 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_3&z=2014-07-01&g=2014-07-01), dan wel na de dag waarop de beschikking wordt geacht te zijn geweigerd;
-
-- 2°. een beschikking als bedoeld in onderdeel c ingediend uiterlijk op de derde dag na de dag waarop die beschikking is bekendgemaakt, dan wel na de dag waarop de beschikking geacht wordt te zijn geweigerd;
-
-- e. het Gemeenschappelijk Hof doet uitspraak uiterlijk op de zevende dag nadat het beroepschrift is ontvangen en indien de uitspraak strekt tot gegrondverklaring van het beroep, bepaalt hij dat zijn uitspraak in de plaats treedt van de vernietigde beschikking. De president van het Gemeenschappelijk Hof stelt partijen en het centraal stembureau onverwijld in kennis van de uitspraak.
+Vervallen
 
 ##### Artikel Ya 50
 
-Bij de kandidaatstelling voor de eerste verkiezing van de leden van de eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347), wordt voor de toepassing van de [artikelen H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), [H 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_14&z=2014-07-01&g=2014-07-01), en [I 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=3&artikel=I_14&z=2014-07-01&g=2014-07-01), voor «de laatstgehouden verkiezing van de leden van de gemeenteraad», dan wel voor «de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend(e) orgaan» gelezen: de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba.
+Vervallen
 
 ##### Artikel Ya 51
 
-1. [Artikel Ya 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_47&z=2014-07-01&g=2014-07-01) en dit artikel vervallen vijf jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347).
+1. [Artikel Ya 47](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_47&z=2014-10-10&g=2014-10-10) en dit artikel vervallen vijf jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347).
 
-2. De [artikelen Ya 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_48&z=2014-07-01&g=2014-07-01), [Ya 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_49&z=2014-07-01&g=2014-07-01) en [Ya 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_50&z=2014-07-01&g=2014-07-01) vervallen vier jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347).
+2. De [artikelen Ya 48](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_48&z=2014-10-10&g=2014-10-10), [Ya 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_49&z=2014-10-10&g=2014-10-10) en [Ya 50](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=6&artikel=Ya_50&z=2014-10-10&g=2014-10-10) vervallen vier jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347).
 
 ### Afdeling VI. Straf-, slot- en overgangsbepalingen
 
@@ -3709,17 +3689,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel Y 35b
 
-1. Het centraal stembureau zendt de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-07-01&g=2014-07-01), onverwijld aan de daartoe aangewezen autoriteit in de andere lidstaat.
+1. Het centraal stembureau zendt de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-10-10&g=2014-10-10), onverwijld aan de daartoe aangewezen autoriteit in de andere lidstaat.
 
-2. Het centraal stembureau verzoekt de in het eerste lid bedoelde autoriteit voor aanvang van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01), schriftelijk te verklaren of de kandidaat op wie de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-07-01&g=2014-07-01), betrekking heeft in die lidstaat is uitgesloten van het recht om te worden gekozen.
+2. Het centraal stembureau verzoekt de in het eerste lid bedoelde autoriteit voor aanvang van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10), schriftelijk te verklaren of de kandidaat op wie de verklaring, bedoeld in [artikel Y 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35&z=2014-10-10&g=2014-10-10), betrekking heeft in die lidstaat is uitgesloten van het recht om te worden gekozen.
 
 ##### Artikel Y 35c
 
-1. Het centraal stembureau schrapt van de lijst de kandidaat die blijkens een verklaring als bedoeld in [artikel Y 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-07-01&g=2014-07-01), in een andere lidstaat is uitgesloten van het recht om te worden gekozen, indien deze verklaring is ontvangen voor aanvang van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-07-01&g=2014-07-01).
+1. Het centraal stembureau schrapt van de lijst de kandidaat die blijkens een verklaring als bedoeld in [artikel Y 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-10-10&g=2014-10-10), in een andere lidstaat is uitgesloten van het recht om te worden gekozen, indien deze verklaring is ontvangen voor aanvang van de zitting, bedoeld in [artikel I 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_4&z=2014-10-10&g=2014-10-10).
 
-2. Indien het centraal stembureau na het tijdstip, bedoeld in het eerste lid, een verklaring als bedoeld in [artikel Y 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-07-01&g=2014-07-01), ontvangt dat een kandidaat in de lidstaat waarvan hij onderdaan is, is uitgesloten van het recht om te worden gekozen, zendt het centraal stembureau de verklaring:
+2. Indien het centraal stembureau na het tijdstip, bedoeld in het eerste lid, een verklaring als bedoeld in [artikel Y 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=V&hoofdstuk=Y&paragraaf=4&artikel=Y_35b&z=2014-10-10&g=2014-10-10), ontvangt dat een kandidaat in de lidstaat waarvan hij onderdaan is, is uitgesloten van het recht om te worden gekozen, zendt het centraal stembureau de verklaring:
 
-- a. gelijktijdig met de kennisgeving, bedoeld in [artikel V 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-07-01&g=2014-07-01), aan de Tweede Kamer, indien de kandidaat benoemd wordt tot lid van het Europees Parlement;
+- a. gelijktijdig met de kennisgeving, bedoeld in [artikel V 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=V&paragraaf=1&artikel=V_1&z=2014-10-10&g=2014-10-10), aan de Tweede Kamer, indien de kandidaat benoemd wordt tot lid van het Europees Parlement;
 
 - b. onverwijld aan de Tweede Kamer, indien de kandidaat lid is van het Europees Parlement.
 
@@ -3778,7 +3758,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel D 3b
 
-1. Het verzoek, bedoeld in de [artikelen D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-07-01&g=2014-07-01) en [D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-07-01&g=2014-07-01), wordt niet eerder ingediend dan zes maanden voor de dag van stemming.
+1. Het verzoek, bedoeld in de [artikelen D 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3&z=2014-10-10&g=2014-10-10) en [D 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=D&artikel=D_3a&z=2014-10-10&g=2014-10-10), wordt niet eerder ingediend dan zes maanden voor de dag van stemming.
 
 2. Het verzoek dient uiterlijk zes weken voor de dag van stemming te zijn ontvangen door het orgaan waarbij het moet worden ingediend.
 
@@ -3868,7 +3848,7 @@ Het centraal stembureau vernietigt de ingeleverde kandidatenlijsten en, indien v
 
 1. De burgemeester van ’s-Gravenhage zet op de retourenveloppe het adres van:
 
-- a. het briefstembureau, indien dat voor de kiesgerechtigde is ingesteld op grond van [artikel M 13, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-07-01&g=2014-07-01);
+- a. het briefstembureau, indien dat voor de kiesgerechtigde is ingesteld op grond van [artikel M 13, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=M&paragraaf=3&artikel=M_13&z=2014-10-10&g=2014-10-10);
 
 - b. de vertegenwoordiger van Aruba, Curaçao of Sint Maarten, indien voor de kiesgerechtigde een briefstembureau is ingesteld op Aruba, Curaçao respectievelijk Sint Maarten;
 
@@ -3902,7 +3882,7 @@ Het stembureau stelt vast het verschil tussen het aantal kiezers dat tot de stem
 
 ##### Artikel P 26
 
-Nadat is beslist over de toelating van de gekozenen, is het centraal stembureau bevoegd, de pakken, bedoeld in [artikel P 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_21&z=2014-07-01&g=2014-07-01), het proces-verbaal, bedoeld in [artikel P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-07-01&g=2014-07-01), en, tenzij het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, de processen-verbaal van de hoofdstembureaus, ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
+Nadat is beslist over de toelating van de gekozenen, is het centraal stembureau bevoegd, de pakken, bedoeld in [artikel P 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_21&z=2014-10-10&g=2014-10-10), het proces-verbaal, bedoeld in [artikel P 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=4&artikel=P_22&z=2014-10-10&g=2014-10-10), en, tenzij het de verkiezing betreft van de gemeenteraad of van provinciale staten van een provincie die één kieskring vormt, de processen-verbaal van de hoofdstembureaus, ten dienste van een onderzoek naar enig strafbaar feit aan de officier van justitie over te dragen.
 
 ### Afdeling III. De verkiezing van de leden van de Eerste Kamer der Staten-Generaal
 
@@ -3950,7 +3930,7 @@ De stemming geschiedt in elke kieskring over de kandidaten wier namen voorkomen 
 
 ##### Artikel Y 22b
 
-De [artikelen N 12, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-07-01&g=2014-07-01), en [O 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_4&z=2014-07-01&g=2014-07-01), blijven buiten toepassing tot de sluiting van de stembussen in de lidstaat waar de kiezers het laatst hun stem uitbrengen tijdens de in de Akte bedoelde stemmingsperiode.
+De [artikelen N 12, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=N&paragraaf=1&artikel=N_12&z=2014-10-10&g=2014-10-10), en [O 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=O&artikel=O_4&z=2014-10-10&g=2014-10-10), blijven buiten toepassing tot de sluiting van de stembussen in de lidstaat waar de kiezers het laatst hun stem uitbrengen tijdens de in de Akte bedoelde stemmingsperiode.
 
 ### Afdeling Va. De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van de eilandsraden, van de Eerste Kamer der Staten-Generaal en van het Europees Parlement in Bonaire, Sint Eustatius en Saba
 
@@ -3962,9 +3942,9 @@ De [artikelen N 12, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel Ya 10a
 
-1. [Artikel I 5, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_5&z=2014-07-01&g=2014-07-01), is niet van toepassing indien een lijst op de dag van de kandidaatstelling tussen negen en zeventien uur bij een gezaghebber is ingeleverd.
+1. [Artikel I 5, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=I&paragraaf=1&artikel=I_5&z=2014-10-10&g=2014-10-10), is niet van toepassing indien een lijst op de dag van de kandidaatstelling tussen negen en zeventien uur bij een gezaghebber is ingeleverd.
 
-2. Een verklaring of bewijs dat afzonderlijk wordt ingeleverd, is niet geldig indien deze niet overeenkomstig [artikel Ya 5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_5&z=2014-07-01&g=2014-07-01), is ingeleverd.
+2. Een verklaring of bewijs dat afzonderlijk wordt ingeleverd, is niet geldig indien deze niet overeenkomstig [artikel Ya 5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=Va&hoofdstuk=Ya&paragraaf=2&artikel=Ya_5&z=2014-10-10&g=2014-10-10), is ingeleverd.
 
 #### § 5. De verkiezing van de leden van het Europees Parlement
 
@@ -4216,7 +4196,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. De leden van het algemeen bestuur worden gekozen door degenen die op de dag van de kandidaatstelling ingezetenen zijn van het waterschap en op de dag van de stemming de leeftijd van achttien jaar hebben bereikt.
 
-2. [Artikel B 3, tweede lid, aanhef en onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_3&z=2014-07-01&g=2014-07-01), is van toepassing.
+2. [Artikel B 3, tweede lid, aanhef en onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=B&artikel=B_3&z=2014-10-10&g=2014-10-10), is van toepassing.
 
 ### Hoofdstuk C. De zittingsduur van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten, van de algemene besturen en van de gemeenteraden
 
@@ -4260,7 +4240,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - a. de aanduiding strijdig is met de openbare orde;
 
-- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-07-01&g=2014-07-01) geregistreerde aanduiding van een andere politieke groepering of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
+- b. de aanduiding geheel of in hoofdzaak overeenstemt met een reeds op de voet van dit artikel of [artikel G 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=G&artikel=G_1&z=2014-10-10&g=2014-10-10) geregistreerde aanduiding van een andere politieke groepering of met een aanduiding waarvoor reeds eerder op grond van dit artikel een registratieverzoek is ontvangen, en daardoor verwarring te duchten is;
 
 - c. de aanduiding anderszins misleidend is voor de kiezers;
 
@@ -4290,13 +4270,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Indien het betreft de verkiezing van het algemeen bestuur, moet voor elke lijst een waarborgsom van € 225,– worden betaald aan het waterschap.
 
-2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+2. [Artikel H 4, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=H&artikel=H_4&z=2014-10-10&g=2014-10-10), is van overeenkomstige toepassing.
 
 3. Degene die de in het eerste lid bedoelde betaling heeft verricht, ontvangt een bewijs daarvan. Dit bewijs moet bij de indiening van de lijst worden overgelegd.
 
 4. Indien geen geldige lijst wordt ingeleverd, wordt na de vaststelling van de uitslag van de verkiezing door het waterschap de waarborgsom teruggegeven aan degene die de betaling heeft verricht.
 
-5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom zo spoedig mogelijk teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-07-01&g=2014-07-01), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan het waterschap.
+5. Na de vaststelling van de uitslag van de verkiezing door het centraal stembureau wordt de waarborgsom zo spoedig mogelijk teruggegeven aan degene die de betaling heeft verricht, tenzij het stemcijfer van de lijst lager is dan 75 procent van de kiesdeler, bedoeld in [artikel P 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=P&paragraaf=2&artikel=P_5&z=2014-10-10&g=2014-10-10), en aan de lijst geen zetel is toegewezen. In dat geval vervalt de waarborgsom aan het waterschap.
 
 ### Hoofdstuk I. Het onderzoek, de verbinding, de nummering en de openbaarmaking van de kandidatenlijsten
 
@@ -4312,7 +4292,7 @@ De stemmingen voor de verkiezing van de leden van provinciale staten en de verki
 
 ##### Artikel J 6b
 
-Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van stemmingen als bedoeld in de [artikelen J 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_6&z=2014-07-01&g=2014-07-01) en [J 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_6a&z=2014-07-01&g=2014-07-01).
+Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met het oog op de combinatie van stemmingen als bedoeld in de [artikelen J 6](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_6&z=2014-10-10&g=2014-10-10) en [J 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=J&paragraaf=1&artikel=J_6a&z=2014-10-10&g=2014-10-10).
 
 #### § 2. De oproeping voor de stemming
 
@@ -4382,9 +4362,9 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met
 
 ##### Artikel X 4a
 
-1. Wanneer een lid van het algemeen bestuur komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), geeft hij hiervan kennis aan het vertegenwoordigend orgaan van het waterschap, met vermelding van de reden.
+1. Wanneer een lid van het algemeen bestuur komt te verkeren in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), geeft hij hiervan kennis aan het vertegenwoordigend orgaan van het waterschap, met vermelding van de reden.
 
-2. Indien de kennisgeving niet is gedaan en de voorzitter van het vertegenwoordigend orgaan van het waterschap van oordeel is, dat een lid van het algemeen bestuur verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-07-01&g=2014-07-01), waarschuwt hij de belanghebbende schriftelijk.
+2. Indien de kennisgeving niet is gedaan en de voorzitter van het vertegenwoordigend orgaan van het waterschap van oordeel is, dat een lid van het algemeen bestuur verkeert in een van de gevallen, genoemd in het [eerste lid van artikel X 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=IV&hoofdstuk=X&paragraaf=1&artikel=X_1&z=2014-10-10&g=2014-10-10), waarschuwt hij de belanghebbende schriftelijk.
 
 3. Het staat deze vrij de zaak uiterlijk op de achtste dag na de dagtekening van de in het tweede lid bedoelde waarschuwing aan het oordeel van het vertegenwoordigend orgaan van het waterschap te onderwerpen.
 
@@ -4430,7 +4410,7 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met
 
 #### § 2. Slot- en overgangsbepalingen
 
-## Tabel. bedoeld in [artikel E 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=1&artikel=E_1&z=2014-07-01&g=2014-07-01), van de Kieswet
+## Tabel. bedoeld in [artikel E 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&afdeling=II&hoofdstuk=E&paragraaf=1&artikel=E_1&z=2014-10-10&g=2014-10-10), van de Kieswet
 
 | Nummer van de kieskring | Gebied waarover de kieskring zich uitstrekt | Gemeente waar het hoofdstembureau is gevestigd |
 | --- | --- | --- |
