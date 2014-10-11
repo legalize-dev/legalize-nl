@@ -4,7 +4,7 @@ identifier: "BWBR0035624"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035624"
 soort: "ministeriele-regeling"
@@ -38,7 +38,11 @@ entry_into_force: "2014-10-11"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+Aan het hoofd van Bureau Sanering Verkeerslawaai en zijn plaatsvervanger wordt mandaat en volmacht verleend tot:
+
+- a. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de [Subsidieregeling sanering verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&wetgeving) en de Stimuleringsregeling stille wegdekken; en
+
+- b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a. voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 2
 
@@ -58,27 +62,41 @@ Aan het hoofd van Bureau Sanering Verkeerslawaai en zijn plaatsvervanger wordt m
 
 ##### Artikel 3
 
-Aan het hoofd van Bureau Sanering Verkeerslawaai en zijn plaatsvervanger wordt machtiging verleend tot het verrichten van alle handelingen ter voorbereiding en ter uitvoering van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=1&z=2014-10-11&g=2014-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-01-01) bepaalde.
+Aan het hoofd van Bureau Sanering Verkeerslawaai en zijn plaatsvervanger wordt machtiging verleend tot het verrichten van alle handelingen ter voorbereiding en ter uitvoering van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=1&z=2014-10-11&g=2014-10-11) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-10-11) bepaalde.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+Het hoofd van Bureau Sanering Verkeerslawaai kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=1&z=2014-10-11&g=2014-10-11), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-10-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=3&z=2014-10-11&g=2014-10-11) ondermandaat, volmacht en machtiging verlenen aan een of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een document opgemaakt ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=1&z=2014-10-11&g=2014-10-11), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-10-11) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=3&z=2014-10-11&g=2014-10-11) vermeldt, indien de taak tot de verantwoordelijkheid van de Minister van Infrastructuur en Milieu behoort, aan het slot:
+
+‘DE MINISTER VAN INFRASTRUCTUUR EN MILIEU,
+
+namens deze,’
+
+gevolgd door de functieaanduiding, naam en handtekening van de gemandateerde gevolmachtigde of gemachtigde functionaris
+
+2. Een document opgemaakt ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=1&z=2014-10-11&g=2014-10-11), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-10-11) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=3&z=2014-10-11&g=2014-10-11) vermeldt, indien de taak tot de verantwoordelijkheid van de Staatssecretaris van Infrastructuur en Milieu behoort, aan het slot:
+
+‘DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU,
+
+namens deze’,
+
+gevolgd door de functieaanduiding, naam en handtekening van de gemandateerde, gevolmachtigde of gemachtigde functionaris.
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+Het [Mandaatbesluit Bureau Sanering Verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0023837&wetgeving) wordt ingetrokken.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt ten aanzien van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=2&z=2014-10-11&g=2014-10-11) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035624&artikel=3&z=2014-10-11&g=2014-10-11) terug tot en met 1 januari 2014.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit wordt aangehaald als: Mandaatbesluit Bureau Sanering Verkeerslawaai 2014.
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), en [10:9, eerste lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [artikel 3:79 van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=79);
 
