@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-07-01"
+last_updated: "2014-10-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -113,7 +113,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - s. het bewaren van strafrechtelijk in beslag genomen rijbewijzen en kentekenbewijzen;
 
-- t. het verlenen van erkenningen als bedoeld in de [artikelen 132f, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132f), en [132k, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=132k);
+- t. het functioneren als centraal aanspreekpunt voor informatie betreffende rijbewijzen met een microchip en het uitvoeren van taken verband houdende met de microchip op het rijbewijs, de daarmee samenhangende uitvoering van de EU-typegoedkeuringsprocedure, het nemen van passende maatregelen inzake de bescherming van de gegevens, alsmede activiteiten in verband met het verlenen of intrekken van EU-typegoedkeuringscertificaten, bedoeld in artikel 5 van Verordening (EU) nr. 383/2012 van de Commissie van 4 mei 2012 tot vaststelling van de technische voorschriften betreffende rijbewijzen met een ingebouwd opslagmedium (microchip) (Pb EU L 120);
 
 - u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110;
 
@@ -133,9 +133,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-07-01&g=2014-07-01), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-11&g=2014-10-11), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-07-01&g=2014-07-01) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-11&g=2014-10-11) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
