@@ -4,7 +4,7 @@ identifier: "BWBR0029903"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-10"
-last_updated: "2013-11-30"
+last_updated: "2014-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029903"
 soort: "ministeriele-regeling"
@@ -80,13 +80,13 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De in artikel 1.16.2 van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) bedoelde bevoegdheid tot afgifte van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2013-11-30), genoemde personen.
+1. De in artikel 1.16.2 van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) bedoelde bevoegdheid tot afgifte van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2014-10-14), genoemde personen.
 
-2. De in artikel 1.16.13, van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) genoemde bevoegdheid tot het intrekken van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2013-11-30), genoemde personen.
+2. De in artikel 1.16.13, van [bijlage 1a bij de Regeling vervoer over de binnen-wateren van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1a) (ADN) genoemde bevoegdheid tot het intrekken van het certificaat van goedkeuring wordt gemandateerd aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2014-10-14), genoemde personen.
 
 ##### Artikel 4
 
-De in [artikel 2, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2013-11-30), genoemde personen zijn gemachtigd tot het doen van onderzoek van een schip als bedoeld in [artikel 14 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=14) en in verband met de in [artikel 10a, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) bedoelde taken.
+De in [artikel 2, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0029903&artikel=2&z=2013-11-30&g=2014-10-14), genoemde personen zijn gemachtigd tot het doen van onderzoek van een schip als bedoeld in [artikel 14 van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=14) en in verband met de in [artikel 10a, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) bedoelde taken.
 
 ##### Artikel 5
 
