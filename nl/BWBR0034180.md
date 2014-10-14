@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2013-12-01"
+last_updated: "2014-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -62,6 +62,8 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model D 3-1. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van de Tweede Kamer
 
+### Model D 3-1. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van de Tweede Kamer
+
 ### Model D 3-2. Registratieformulier voor kiezers in Aruba, Curaçao en Sint Maarten voor de verkiezing van de Tweede Kamer
 
 ### Model D 3-3. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van het Europees Parlement
@@ -112,7 +114,7 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model J 16. Kiezershandleiding
 
-### Model J 20. Stembiljet
+(voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
 
 (voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
 
@@ -122,7 +124,7 @@ KANDIDATENLIJSTEN3Boven elke lijst dient het nummer en, in voorkomend geval, ond
 
 enz.4De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
 
-U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
+### Model K 4. Kiezerspas
 
 ### Model K 4. Kiezerspas
 
@@ -134,15 +136,15 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 ### Model M 3. Verzoek om per brief te stemmen
 
-### Model M 6-1. (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
-
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
 ### Model M 6-2. Briefstembewijs
 
-### Model M 6-3. Enveloppe voor het stembiljet
+### Model M 6-2. Briefstembewijs
 
 Stembiljet (kleur wit)
+
+### Model N 10-1. Proces-verbaal van een stembureau
 
 ### Model N 10-1. Proces-verbaal van een stembureau
 
@@ -158,9 +160,9 @@ Stembiljet (kleur wit)
 
 ### Model O 3. Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement/de provinciale staten van een provincie met meer dan één kieskring
 
-### Model P 22-1. Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer/het Europees Parlement/provinciale staten
+### Model P 22-1. Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer / het Europees Parlement / provinciale staten
 
-### Model P 22-2. Proces-verbaal van de verkiezingsuitslag van de gemeenteraad/de eilandsraad/provinciale staten
+### Model P 22-2. Proces-verbaal van de verkiezingsuitslag van de gemeenteraad / de eilandsraad / het algemeen bestuur van het waterschap / provinciale staten
 
 ### Model T 4. Verzoek om bij volmacht te stemmen voor de Eerste Kamer
 
@@ -190,6 +192,30 @@ Stembiljet (kleur wit)
 
 ### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Dit onderdeel is nog niet inwerking getreden
+
+## Bijlage
+
+### Model J 20. Stembiljet
+
+U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
+
+### Model M 6-1. (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+
+¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
+
+### Model M 6-3. Enveloppe voor het stembiljet
+
+Stembiljet (kleur wit)
+
 ### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
