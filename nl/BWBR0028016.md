@@ -4,7 +4,7 @@ identifier: "BWBR0028016"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028016"
 soort: "AMvB-BES"
@@ -52,31 +52,37 @@ Treedt in werking op het tijdstip waarop de Wet openbare lichamen Bonaire, Sint 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01), van dit besluit aanspraak kan maken.
+- **bezoldiging:** het bedrag per maand waarop de Rijksvertegenwoordiger op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15), van dit besluit aanspraak kan maken.
 
 ##### Artikel 2. Bezoldiging en vergoeding voor ambtskosten
 
 1. De bezoldiging van de Rijksvertegenwoordiger bedraagt € 9098,26.
 
-2. De Rijksvertegenwoordiger ontvangt een vergoeding van 2,88% van zijn bezoldiging per maand voor aan de uitoefening van het ambt verbonden kosten.
+2. De Rijksvertegenwoordiger ontvangt een vergoeding ten bedrage van € 375 per maand voor de aan zijn ambt verbonden kosten.
 
-3. De aanspraak op de bezoldiging en op de vergoeding voor ambtskosten, bedoeld in het tweede lid, begint met ingang van de dag waarop de benoeming ingaat en eindigt met ingang van de dag waarop het ontslag ingaat of de dag, volgende op die van het overlijden.
+3. Het bedrag genoemd in het tweede lid wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande kalenderjaar.
 
-4. Indien de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt het in het eerste lid genoemde bedrag bij ministeriële regeling overeenkomstig gewijzigd.
+4. De kosten voor niet-partijpolitiek georiënteerde scholing in verband met de vervulling van de functie van Rijksvertegenwoordiger komen ten laste van het Rijk.
 
-5. Indien aan het personeel in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangt de Rijksvertegenwoordiger deze op gelijke voet.
+5. Onze Minister kan over de in het vierde lid bedoelde scholing nadere regels stellen.
 
-6. Wanneer Onze Minister de Rijksvertegenwoordiger toestemming verleent langer dan zes weken buiten de openbare lichamen te verblijven, kan hij daarbij bepalen dat gedurende die langere periode de bezoldiging en de vergoeding voor ambtskosten geheel of gedeeltelijk worden ingehouden.
+6. De aanspraak op de bezoldiging en op de vergoeding voor ambtskosten, bedoeld in het tweede lid, begint met ingang van de dag waarop de benoeming ingaat en eindigt met ingang van de dag waarop het ontslag ingaat of de dag, volgende op die van het overlijden.
+
+7. Indien de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, en wordt bepaald dat die wijziging een algemeen karakter draagt, wordt het in het eerste lid genoemde bedrag bij ministeriële regeling overeenkomstig gewijzigd.
+
+8. Indien aan het personeel in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangt de Rijksvertegenwoordiger deze op gelijke voet.
+
+9. Wanneer Onze Minister de Rijksvertegenwoordiger toestemming verleent langer dan zes weken buiten de openbare lichamen te verblijven, kan hij daarbij bepalen dat gedurende die langere periode de bezoldiging en de vergoeding voor ambtskosten geheel of gedeeltelijk worden ingehouden.
 
 ##### Artikel 3. Vakantie-uitkering en eindejaarsuitkering
 
-Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
+Naast de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15), ontvangt de Rijksvertegenwoordiger op de voet van de regeling voor het personeel in de sector Rijk een vakantie-uitkering en een eindejaarsuitkering.
 
 ##### Artikel 4. Vergoeding bij waarneming
 
-1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2013-07-01&g=2013-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2013-07-01&g=2013-07-01) zijn van overeenkomstige toepassing.
+1. De waarnemend Rijksvertegenwoordiger die krachtens [artikel 200 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=200) als zodanig optreedt, geniet gedurende de waarnemingsperiode per maand een beloning van twintig procent van de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15). De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3&z=2014-10-15&g=2014-10-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2014-10-15&g=2014-10-15) zijn van overeenkomstige toepassing.
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal de bezoldiging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15).
 
 ##### Artikel 5. Vergoeding tijdens sollicitatieprocedure
 
@@ -124,7 +130,7 @@ Indien de Rijksvertegenwoordiger langer dan acht dagen wegens ziekte of om ander
 
 ##### Artikel 10. Voorzieningen in verband met ziekte
 
-In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01).
+In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op een bezoldiging als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15).
 
 ##### Artikel 11. Buitengewoon verlof
 
@@ -132,9 +138,13 @@ In het geval van ziekte van de Rijksvertegenwoordiger, behoudt hij het recht op 
 
 2. De Rijksvertegenwoordiger die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof. [Artikel 33g van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=33g) is van overeenkomstige toepassing.
 
-##### Artikel 12. Vergoeding bij terugroepen bij afwezigheid
+##### Artikel 12
 
-Onze Minister kan bepalen dat aan de Rijksvertegenwoordiger die een verblijf buiten de openbare lichamen wegens dringende redenen van dienstbelang voortijdig heeft beëindigd, een schadeloosstelling wordt toegekend.
+1. Indien de Rijksvertegenwoordiger die buiten de openbare lichamen verblijft, overweegt om wegens dringende redenen van dienstbelang terug te keren naar de openbare lichamen, legt hij dit voor aan Onze Minister.
+
+2. Indien Onze Minister het in het eerste lid genoemde voornemen redelijk acht, wordt aan de Rijksvertegenwoordiger een schadeloosstelling toegekend ten laste van het Rijk.
+
+3. De schadeloosstelling betreft uitsluitend de direct uit de terugkeer voortvloeiende kosten van de Rijksvertegenwoordiger en in voorkomend geval die van zijn meereizende gezinsleden. Onze Minister stelt de hoogte van de schadeloosstelling vast.
 
 ##### Artikel 13. Ontslag
 
@@ -188,27 +198,79 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Zo spoedig mogelijk na afloop van het kalenderjaar, verstrekt de Rijksvertegenwoordiger aan Onze Minister, dan wel aan een door hem aangewezen instantie:
+
+- a. een opgave van de neveninkomsten welke hij over dat kalenderjaar of over een gedeelte daarvan heeft genoten, dan wel
+
+- b. een verklaring dat hij geen neveninkomsten heeft genoten of niet meer dan 14% van de bezoldiging op jaarbasis aan neveninkomsten heeft genoten over dat jaar of, indien hij het ambt van Rijksvertegenwoordiger vervulde gedurende een gedeelte van het kalenderjaar, een evenredig deel daarvan, dan wel
+
+- c. een verklaring dat een opgave van neveninkomsten achterwege zal blijven.
+
+2. In afwijking van het eerste lid, vermindert Onze Minister op verzoek van de Rijksvertegenwoordiger diens bezoldiging reeds gedurende het kalenderjaar met een bedrag waarmee de Rijksvertegenwoordiger verwacht dat zijn bezoldiging zal worden verrekend vanwege zijn neveninkomsten.
+
+3. Onze Minister vordert, indien hij, dan wel een door hem aangewezen instantie constateert dat er sprake is van te verrekenen neveninkomsten, het teveel aan ontvangen bezoldiging terug van de Rijksvertegenwoordiger.
+
+4. Indien de Rijksvertegenwoordiger geen informatie kan verstrekken, meldt hij dit binnen zes maanden onder opgaaf van redenen aan Onze Minister, dan wel aan een door hem aangewezen instantie. De Rijksvertegenwoordiger meldt tevens een redelijke termijn waarop hij deze informatie alsnog zal verstrekken.
+
+5. In het geval genoemd in het eerste lid, onderdeel c, alsmede indien de Rijksvertegenwoordiger binnen zes maanden na afloop van het kalenderjaar geen opgave of verklaring, als bedoeld in het eerste lid, heeft ingezonden, of niet heeft voldaan aan het vierde lid, stelt Onze Minister de bezoldiging over het afgelopen jaar vast op 65% van de bezoldiging op jaarbasis, tenzij hij uit anderen hoofde kan vaststellen tot welk bedrag er verrekend zou moeten worden.
+
+6. Op verzoek van de Rijksvertegenwoordiger kan Onze Minister besluiten de verrekening of terugbetaling in termijnen te laten plaatsvinden.
 
 ##### Artikel 8a
 
 Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) worden aangewezen:
 
-- a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01);
+- a. de vergoeding voor aan het ambt verbonden kosten, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15);
 
-- b. de vergoedingen, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2013-07-01&g=2013-07-01), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdeelen a en b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
+- b. het bedrag, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15);
 
-- c. de vergoeding, bedoeld in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8&z=2013-07-01&g=2013-07-01).
+- c. de vergoedingen, bedoeld in [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7&z=2014-10-15&g=2014-10-15), voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a);
+
+- d. de vergoeding, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7a&z=2014-10-15&g=2014-10-15).
 
 ##### Artikel 16a
 
 Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c):
 
-- a. wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2013-07-01&g=2013-07-01), voor «2,88%» gelezen: 6%;
+- a. wordt in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15), voor «2,88%» gelezen: 6%;
 
-- b. blijft [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8a&z=2013-07-01&g=2013-07-01) buiten toepassing.
+- b. wordt het bedrag, genoemd in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2&z=2014-10-15&g=2014-10-15), vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10);
+
+- c. bedraagt de vergoeding, bedoeld in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=7a&z=2014-10-15&g=2014-10-15), ten hoogste de gebruteerde verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto;
+
+- d. blijft [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=8a&z=2014-10-15&g=2014-10-15) buiten toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 10a*. Voorzieningen in verband met ziekte of een dienstongeval
+
+1. Voor de toepassing van dit artikel wordt verstaan onder:
+
+- a. **een ziekte:** een ziekte die in overwegende mate haar oorzaak vindt in de uitoefening van de aan het ambt verbonden werkzaamheden;
+
+- b. **een dienstongeval:** een ongeval dat plaatsvindt tijdens de uitoefening van de aan het ambt verbonden werkzaamheden.
+
+2. De Rijksvertegenwoordiger ontvangt een vergoeding voor de noodzakelijk gemaakte kosten in verband met een geneeskundige behandeling of verzorging of overige kosten, indien deze in overwegende mate hun oorzaak vinden in een ziekte of een dienstongeval:
+
+- a. voor zover deze kosten ten laste van de Rijksvertegenwoordiger blijven en
+
+- b. voor zover deze ziekte of dit dienstongeval niet aan eigen schuld of onvoorzichtigheid te wijten is.
+
+3. In bijzondere gevallen kan Onze Minister bepalen dat overige schade aangemerkt wordt als voortvloeiend uit de ziekte of het dienstongeval, naar redelijkheid en billijkheid.
+
+4. Onder overige schade valt niet het gederfde inkomen.
+
+5. Als de schade van de ziekte of het dienstongeval is ontstaan tijdens zijn ambtsperiode en voortduurt na zijn ontslag is dit artikel van overeenkomstige toepassing op de gewezen Rijksvertegenwoordiger.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+Indien aan de Rijksvertegenwoordiger een dienstauto ter beschikking is gesteld en hij voor het gebruik van deze dienstauto loon- en inkomstenbelasting is verschuldigd, kan Onze Minister bepalen dat deze belastingheffing aan de Rijksvertegenwoordiger wordt vergoed. De vergoeding betreft ten hoogste de verschuldigde loon- en inkomstenbelasting voor het gebruik van de dienstauto.
+
+##### Artikel 10b. Voorzieningen in verband met bewaken en beveiligen
+
+Indien Onze Minister ten behoeve van een veilige woon- en werkplek van de Rijksvertegenwoordiger kosten maakt, die in het kader van het stelsel bewaken en beveiligen zijn aangemerkt als werkgeverskosten, komen deze ten laste van het Rijk.
 
 ##### Artikel 10a
 
