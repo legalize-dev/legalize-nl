@@ -4,7 +4,7 @@ identifier: "BWBR0030799"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-15"
-last_updated: "2012-01-01"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030799"
 soort: "ministeriele-regeling"
@@ -46,7 +46,9 @@ De bedragen, die ten hoogste uit het fonds kunnen worden uitgekeerd aan de perso
 
 - a. indien de uitkering betrekking heeft op vermogensschade: € 25 000;
 
-- b. indien de uitkering betrekking heeft op andere dan vermogensschade: € 10 000.
+- b. indien de uitkering betrekking heeft op andere dan vermogensschade: € 10 000;
+
+- c. indien de uitkering betrekking heeft op zowel vermogensschade, als andere dan vermogensschade: € 35.000.
 
 ##### Artikel 2. Inwerkingtreding
 
