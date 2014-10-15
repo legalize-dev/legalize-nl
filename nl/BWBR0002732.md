@@ -4,7 +4,7 @@ identifier: "BWBR0002732"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-27"
-last_updated: "2013-07-01"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002732"
 soort: "AMvB"
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 6
 
-De installatie van de deskundige leden en plaatsvervangende deskundige leden in de ondernemingskamer en de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=4&z=2013-07-01&g=2013-07-01).
+De installatie van de deskundige leden en plaatsvervangende deskundige leden in de ondernemingskamer en de bijzondere kamer geschiedt door middel van het op de terechtzitting voorlezen van het formulier, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=4&z=2014-10-15&g=2014-10-15).
 
 ##### Artikel 7
 
@@ -112,7 +112,7 @@ De deskundige leden en plaatsvervangende deskundige leden ontvangen van de griff
 
 1. Aan de deskundige leden en plaatsvervangende deskundige leden wordt een vergoeding toegekend met overeenkomstige toepassing van de regels die gelden voor de raadsheren-plaatsvervangers.
 
-2. Aan de deskundige leden en plaatsvervangende deskundige leden van de bijzondere kamer wordt, in afwijking van de regels die gelden voor de raadsheren-plaatsvervangers, een vergoeding toegekend ten bedrage van € 1.000 per zittingsdag.
+2. Aan de deskundige leden en plaatsvervangende deskundige leden van de ondernemingskamer wordt, in afwijking van de regels die gelden voor de raadsheren-plaatsvervangers, een vergoeding toegekend ten bedrage van € 1.000 per zittingsdag.
 
 3. Bij regeling van Onze Minister kan de in het tweede lid genoemde vergoeding jaarlijks met ingang van 1 januari worden aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij worden de bedragen rekenkundig afgerond op hele euro’s.
 
@@ -132,9 +132,9 @@ De deskundige leden en plaatsvervangende deskundige leden ontvangen van de griff
 
 1. Aan het Ministerie van Veiligheid en Justitie worden maandelijks ingezonden:
 
-- a. de declaraties wegens vergoedingen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=13&z=2013-07-01&g=2013-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=14&z=2013-07-01&g=2013-07-01);
+- a. de declaraties wegens vergoedingen, bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=13&z=2014-10-15&g=2014-10-15) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=14&z=2014-10-15&g=2014-10-15);
 
-- b. de declaraties wegens reis- en verblijfkosten bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=15&z=2013-07-01&g=2013-07-01).
+- b. de declaraties wegens reis- en verblijfkosten bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002732&artikel=15&z=2014-10-15&g=2014-10-15).
 
 2. De in het eerste lid onder **a** genoemde declaraties vermelden de dagen waarop de bijeenkomsten zijn bijgewoond en aan de gerechtelijke plaatsopneming en bezichtiging is deelgenomen, en bevatten een verklaring van de voorzitter der ondernemingskamer of de bijzondere kamer dat de declarant de opgegeven bijeenkomsten heeft bijgewoond of aan de plaatsopneming of bezichtiging heeft deelgenomen voor de daarbij aangegeven tijdsduur.
 
