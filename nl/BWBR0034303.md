@@ -4,7 +4,7 @@ identifier: "BWBR0034303"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-10-01"
-last_updated: "2014-06-27"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034303"
 soort: "ministeriele-regeling"
@@ -66,47 +66,27 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2:1
 
-1. De minister erkent als producentenorganisatie in de sector melk en zuivelproducten een rechtspersoon, of een duidelijk omschreven onderdeel daarvan, die voldoet aan de artikelen 122, eerste alinea, onderdelen a, onderdeel iii bis, b en c, en 126 bis, eerste lid, van [Verordening 1234/2007](32007R1234).
-
-2. Een producentenorganisatie als bedoeld in het eerste lid voor producenten van koemelk beschikt over ten minste 150 leden die geen lid zijn van een andere producentenorganisatie en die op hun bedrijf melk produceren met een minimum hoeveelheid afzetbare rauwe melk van 90.000 ton per kalenderjaar.
-
-3. Een producentenorganisatie als bedoeld in het eerste lid voor producenten van geitenmelk of biologische koemelk beschikt over ten minste 20 leden die geitenmelk of biologische koemelk produceren, die geen lid zijn van een andere producentenorganisatie en die op hun bedrijf melk produceren met een minimum hoeveelheid afzetbare rauwe melk van 9.000 ton per kalenderjaar.
+Vervallen
 
 ##### Artikel 2:2
 
-1. Een verzoek om erkenning als bedoeld in [Artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27) wordt ingediend bij de minister op een formulier dat door de minister beschikbaar is gesteld.
-
-2. Een verzoek als bedoeld in het eerste lid gaat vergezeld van:
-
-- a. een afschrift of een uittreksel als bedoeld in [artikel 22, eerste lid, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=22);
-
-- b. de statuten waarmee de rechtspersoon is opgericht met vermelding van het specifiek doel van de rechtspersoon als bedoeld in artikel 122, eerste alinea, onderdeel c, van [Verordening 1234/2007](32007R1234) en waaruit blijkt dat wordt voldaan aan het bepaalde in artikel 122, eerste alinea, onderdeel b, en 126bis, onderdelen c en d, van [Verordening 1234/2007](32007R1234), en
-
-- c. gegevens waaruit blijkt dat de rechtspersoon voldoet aan [Artikel 2:1, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27).
-
-3. Een producentenorganisatie meldt wijzigingen in de gegevens, bedoeld in het eerste en tweede lid, onverwijld schriftelijk aan de minister.
+Vervallen
 
 ##### Artikel 2:3
 
-1. Een op grond van [Artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27), erkende producentenorganisatie dient uiterlijk 15 februari bij de minister een verantwoording in van de hoeveelheid rauwe melk die in het voorafgaande kalenderjaar door de individuele leden is afgezet.
-
-2. Bij de verantwoording wordt een verklaring gevoegd omtrent de juistheid van de vermelde gegevens door een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36).
+Vervallen
 
 ##### Artikel 2:4
 
-1. Een overeenkomstig [Artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27), erkende producentenorganisatie meldt de minister de aan een verwerker van rauwe melk, of aan een inzamelaar in de zin van artikel 185 septies, eerste lid, tweede alinea, van [Verordening 1234/2007](32007R1234) te leveren hoeveelheden rauwe melk, waarover door de producentenorganisatie namens de aangesloten producenten wordt onderhandeld als bedoeld in artikel 126 quater, eerste lid, van [Verordening 1234/2007](32007R1234).
-
-2. Een erkende producentenorganisatie verricht een melding als bedoeld in het eerste lid voor aanvang van de onderhandelingen en verstrekt daarbij ook een schatting van de hoeveelheden te produceren rauwe melk waarover wordt onderhandeld en de te verwachten duur van de levering van de betrokken hoeveelheden rauwe melk.
+Vervallen
 
 ##### Artikel 2:5
 
-1. Een overeenkomstig [Artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27), erkende producentenorganisatie dient uiterlijk 31 januari bij de minister een verantwoording in over de hoeveelheden rauwe melk die in het voorafgaande kalenderjaar daadwerkelijk zijn geleverd in het kader van contracten als bedoeld in [Artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:4&z=2014-06-27&g=2014-06-27).
-
-2. Bij de verantwoording wordt door de producentenorganisatie een verklaring gevoegd omtrent de juistheid van de in de aangifte vermelde gegevens door een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=36).
+Vervallen
 
 ##### Artikel 2:6
 
-Een erkenning als bedoeld in [Artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=2&artikel=2:1&z=2014-06-27&g=2014-06-27), wordt geschorst of ingetrokken indien niet langer wordt voldaan aan het bepaalde in deze regeling of bij niet-naleving van, of onregelmatigheden betreffende, hoofdstuk II van [Verordening 1234/2007](32007R1234).
+Vervallen
 
 ### Hoofdstuk 3. Schoolmelk
 
@@ -122,7 +102,7 @@ Een erkenning als bedoeld in [Artikel 2:1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 3:2
 
-1. Desgevraagd kent de minister overeenkomstig artikel 13, eerste en tweede lid, van [Verordening 657/2008](32008R0657) een voorschot toe op de in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2014-06-27&g=2014-06-27), bedoelde steun.
+1. Desgevraagd kent de minister overeenkomstig artikel 13, eerste en tweede lid, van [Verordening 657/2008](32008R0657) een voorschot toe op de in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2014-10-15&g=2014-10-15), bedoelde steun.
 
 2. De steun kan worden aangevraagd per periode van vier maanden te rekenen vanaf 1 augustus, 1 december en 1 april.
 
@@ -130,7 +110,7 @@ Een erkenning als bedoeld in [Artikel 2:1, eerste lid](https://wetten.overheid.n
 
 ##### Artikel 3:3
 
-De steun, bedoeld in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2014-06-27&g=2014-06-27), wordt slechts toegekend indien een aanvrager aan de hand van calculaties van de prijzen van de zuivelproducten die in rekening worden gebracht aan de leerlingen van de onderwijsinstellingen, ten genoegen van de minister aantoont dat de steun is verrekend in de door de leerlingen betaalde prijzen.
+De steun, bedoeld in [Artikel 3:1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034303&hoofdstuk=3&artikel=3:1&z=2014-10-15&g=2014-10-15), wordt slechts toegekend indien een aanvrager aan de hand van calculaties van de prijzen van de zuivelproducten die in rekening worden gebracht aan de leerlingen van de onderwijsinstellingen, ten genoegen van de minister aantoont dat de steun is verrekend in de door de leerlingen betaalde prijzen.
 
 ### Hoofdstuk 4. Overgangsrecht
 
