@@ -4,7 +4,7 @@ identifier: "BWBR0031203"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-10-15"
-last_updated: "2013-01-01"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031203"
 soort: "ministeriele-regeling"
@@ -78,7 +78,13 @@ In deze regeling wordt verstaan onder:
 
 - d. een ingesteld hoger beroep in te trekken;
 
-- e. op te treden in hoger beroep.
+- e. op te treden in hoger beroep;
+
+- f. beroep in cassatie in te stellen;
+
+- g. een ingesteld beroep in cassatie in te trekken;
+
+- h. op te treden in cassatie.
 
 ##### Artikel 3
 
@@ -86,7 +92,7 @@ Aan de Raad wordt volmacht en machtiging verleend tot het nemen van besluiten, h
 
 ##### Artikel 4
 
-De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=2&z=2013-01-01&g=2013-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=3&z=2013-01-01&g=2013-01-01) verleende bevoegdheden uit te oefenen.
+De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=2&z=2014-10-15&g=2014-10-15) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031203&artikel=3&z=2014-10-15&g=2014-10-15) verleende bevoegdheden uit te oefenen.
 
 ##### Artikel 5
 
