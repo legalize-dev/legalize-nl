@@ -279,21 +279,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 Deze regeling wordt aangehaald als: Regeling producenten- en brancheorganisaties.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5:8
-
-1. Een producentenorganisatie of unie van producentenorganisaties in de sector groenten en fruit leeft de voorschriften, bedoeld in de artikelen 164, eerste, derde en vierde lid, en 165 van [verordening 1308/2013](32013R1308), na.
-
-2. In geval van niet-naleving van een voorschrift kan de Minister:
-
-- a. de op grond van artikel 164, eerste lid, van [verordening 1308/2013](32013R1308) vastgestelde verbindendverklaring van een voorschrift intrekken;
-
-- b. de op grond van artikel 165 van [verordening 1308/2013](32013R1308), vastgestelde verplichting tot het afdragen van een financiële bijdrage intrekken.
-
-##### Artikel 5:9
-
-Een verzoek van een producentenorganisatie of unie van producentenorganisaties in de sector groenten en fruit als bedoeld in de artikelen 164, eerste lid of 165 van [verordening 1308/2013](32013R1308), of een zienswijze als bedoeld in artikel 165, van [verordening 1308/2013](32013R1308), wordt ingediend met gebruikmaking van een door de Minister beschikbaar gesteld middel.
-
-#### § 6. Overige bepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
