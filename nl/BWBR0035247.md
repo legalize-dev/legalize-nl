@@ -4,7 +4,7 @@ identifier: "BWBR0035247"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-10-15"
-last_updated: "2014-07-01"
+last_updated: "2014-10-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035247"
 soort: "AMvB"
@@ -66,11 +66,11 @@ Wijzigt het Waterschapsbesluit.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 ##### Artikel IX
 
-Dit besluit treedt in werking met ingang van 1 juli 2014 met dien verstande dat [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=I&z=2014-07-01&g=2014-07-01), terugwerkt tot en met 15 september 2013 en de [artikelen II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=II&z=2014-07-01&g=2014-07-01), [IV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=IV&z=2014-07-01&g=2014-07-01), en [VI, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=VI&z=2014-07-01&g=2014-07-01), terugwerken tot en met 27 maart 2014 en met dien verstande dat [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=VIII&z=2014-07-01&g=2014-07-01) in werking treedt met ingang van 15 oktober 2014.
+Dit besluit treedt in werking met ingang van 1 juli 2014 met dien verstande dat [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=I&z=2014-10-15&g=2014-10-15), terugwerkt tot en met 15 september 2013 en de [artikelen II, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=II&z=2014-10-15&g=2014-10-15), [IV, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=IV&z=2014-10-15&g=2014-10-15), en [VI, onderdeel G](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=VI&z=2014-10-15&g=2014-10-15), terugwerken tot en met 27 maart 2014 en met dien verstande dat [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035247&artikel=VIII&z=2014-10-15&g=2014-10-15) in werking treedt met ingang van 15 oktober 2014.
 
 ##### Artikel X
 
