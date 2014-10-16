@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2014-10-06"
+last_updated: "2014-10-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -38,47 +38,132 @@ entry_into_force: "2020-06-29"
 
 ##### Artikel 1
 
-Dit onderdeel is nog niet inwerking getreden
+In deze regeling wordt verstaan onder:
+
+- a. **opleideling of arts in opleiding:** natuurlijk persoon die een zorgopleiding volgt;
+
+- b. **opleidingsplaats:** capaciteit, uitgedrukt in fulltime-equivalenten (fte), bij een praktijkopleidinginstelling respectievelijk opleidingsinrichting om een opleideling respectievelijk arts in opleiding op te leiden;
+
+- c. **instroom:** opleidingsplaatsen, uitgedrukt in fulltime-equivalenten en aantal personen, voor opleidelingen of artsen in opleiding die in het subsidiejaar met een zorgopleiding aanvangen;
+
+- d. **doorstroom:** opleidingsplaatsen, uitgedrukt in fulltime-equivalenten, voor opleidelingen of artsen in opleiding die voor aanvang van het subsidiejaar met een zorgopleiding aangevangen zijn;
+
+- e. **gerealiseerde opleidingsplaats:** aantal uren, uitgedrukt in fulltime-equivalenten, dat de opleideling of arts in opleiding de zorgopleiding in het subsidiejaar feitelijk heeft gevolgd met inachtneming van de opleidingseisen in de relevante opleidingsregelgeving;
+
+- f. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
+
+- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2014-10-16&g=2014-10-16) van deze regeling;
+
+- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door de opleidingsinstelling voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2014-10-16&g=2014-10-16) van deze regeling;
+
+- i. **opleidingsinstelling:** instelling die is erkend door de Registratiecommissie Specialismen Gezondheidszorgpsycholoog voor het verzorgen van de opleiding tot klinisch psycholoog of een rechtspersoon die een opleiding tot gezondheidszorgpsycholoog of psychotherapeut verzorgt en als zodanig is aangewezen door de Minister van VWS;
+
+- j. **registratiecommissie:** de Registratiecommissie Geneeskundig Specialisten (RGS) van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst voor de opleiding tot psychiater of de Registratiecommissie Specialismen Gezondheidszorgpsycholoog (RSG) van de Federatie voor Gezondheidszorgpsychologen (FGZP) voor de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut;
+
+- k. **opleidingsschema:** schema, opgenomen in het opleidingsregister van de registratiecommissies, van de opleidingsinrichting(en) of praktijkopleidinginstelling(en) en tijdsperioden waarin de arts in opleiding of de opleideling de zorgopleiding volgt;
+
+- l. **zorgopleiding:** opleiding tot psychiater, gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut;
+
+- m. **subsidiejaar:** jaar ten behoeve waarvan de subsidie aan de instelling wordt verstrekt.
 
 ##### Artikel 2
 
-Dit onderdeel is nog niet inwerking getreden
+1. De minister kan ten behoeve van de subsidiejaren 2015 tot en met 2017 op aanvraag een subsidie voor het verzorgen van een zorgopleiding verstrekken aan een opleidingsinrichting of een praktijkopleidinginstelling.
+
+2. De subsidie wordt per kalenderjaar verstrekt.
+
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2014-10-16&g=2014-10-16) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+
+4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de opleidingsinstelling of de RSG.
 
 ##### Artikel 3
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bij het verstrekken van de subsidie wordt onderscheid gemaakt naar instroom en doorstroom.
+
+2. De minister stelt uiterlijk 15 augustus voorafgaande aan het subsidiejaar een plan vast voor de instroom die ten hoogste in aanmerking kan komen voor de subsidie.
+
+3. In het plan wordt onderscheid gemaakt naar zorgopleiding en opleidende zorginstelling.
 
 ##### Artikel 4
 
-Dit onderdeel is nog niet inwerking getreden
+1. De aanvraag van een subsidie wordt uiterlijk dertien weken voor aanvang van het subsidiejaar ontvangen. De minister kan tot een daarbij aan te geven datum vrijstelling of ontheffing verlenen van de aanvraagtermijn.
+
+2. De minister besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.
+
+3. De aanvraag die na afloop van de termijn, bedoeld in het eerste lid, wordt ontvangen, wordt afgewezen.
+
+4. Indien de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de aanvrager in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld.
+
+5. De minister vermeldt in het besluit tot verlening van de subsidie:
+
+- a. voor wat betreft de instroom per zorgopleiding het maximum aantal personen en opleidingsplaatsen waarvoor de subsidie wordt verleend alsmede het subsidiebedrag per fte opleidingsplaats;
+
+- b. voor wat betreft de doorstroom dat de subsidie per zorgopleiding wordt bepaald aan de hand van de gerealiseerde opleidingsplaatsen en de bijbehorende subsidiebedragen.
+
+6. De minister verleent bij het besluit tot verlening van de subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8% en november 8% van:
+
+- a. voor wat betreft de instroom: het maximum aantal opleidingsplaatsen waarvoor de subsidie wordt verleend vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding;
+
+- b. voor wat betreft de doorstroom: het aantal opleidingsplaatsen voor het subsidiejaar zoals opgenomen in de opleidingsschema’s per 31 oktober van het jaar voorafgaand aan het subsidiejaar vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 ##### Artikel 6
 
-Dit onderdeel is nog niet inwerking getreden
+1. De subsidieontvanger meldt meteen aan de minister als:
+
+- a. het tijdens de periode waarvoor de subsidie is verleend aannemelijk is geworden dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht,
+
+- b. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of
+
+- c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
+
+2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
 ##### Artikel 7
 
-Dit onderdeel is nog niet inwerking getreden
+1. De subsidieontvanger draagt er zorg voor dat de opleidelingen of artsen in opleiding de registratiecommissies juist, tijdig en volledig informeren om de registratiecommissies in staat te stellen te registreren welke opleidelingen of artsen in opleiding gedurende welke periode welke zorgopleidingen bij welke opleidende zorginstellingen gaan volgen en daadwerkelijk hebben gevolgd in het kader van instroom dan wel doorstroom.
+
+2. De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen:
+
+- a. die van belang zijn voor het nemen van een besluit over het verstrekken van de subsidie of
+
+- b. voor de ontwikkeling van het beleid van de minister.
 
 ##### Artikel 8
 
-Dit onderdeel is nog niet inwerking getreden
+1. Binnen tweeëntwintig weken na afloop van het subsidiejaar geeft de minister ambtshalve een beschikking tot vaststelling van de verleende subsidie.
+
+2. De verleende subsidie wordt vastgesteld op het aantal gerealiseerde opleidingsplaatsen, opgenomen in de opleidingsschema’s van 15 februari na afloop het subsidiejaar, vermenigvuldigd met het subsidiebedrag per opleidingsplaats in fte voor de desbetreffende zorgopleiding, met dien verstande dat de subsidie voor wat betreft de instroom ten hoogste wordt vastgesteld op het aantal personen en opleidingsplaatsen waarvoor de subsidie is verleend.
 
 ##### Artikel 9
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanvraag van een subsidie van minder dan € 25.000 wordt uiterlijk tweeëntwintig weken na afloop van het subsidiejaar ingediend.
+
+2. Voor een aanvraag tot verlening of vaststelling wordt een door de minister vastgesteld formulier gebruikt.
+
+3. Het aanvraagformulier wordt ondertekend door de aanvrager, door een persoon die bevoegd is de aanvrager te vertegenwoordigen of door de personen die gezamenlijk bevoegd zijn de aanvrager te vertegenwoordigen.
 
 ##### Artikel 10
 
-Dit onderdeel is nog niet inwerking getreden
+Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2014-10-16&g=2014-10-16), de aanvraag uiterlijk 1 november 2014 ontvangen.
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2018, met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
+
+Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeugd ggz-instelling 2015–2017. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 1. Instellingen
+
+|   | Naam | Plaats |
+| --- | --- | --- |
+| 1. | Curium, Academisch Centrum Kinder- en Jeugdpsychiatrie | Leiden |
+| 2 | Mutsaersstichting | Venlo |
+| 3. | Jeugdhulp Friesland | Leeuwarden |
+| 4. | Jutz | Breda |
 
 ## Bijlage 1. Instellingen
 
@@ -91,11 +176,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 2. Subsidiebedrag per opleidingsplaats in fte
 
-Dit onderdeel is nog niet inwerking getreden
-
-## Bijlage 3. Format aanvraagformulier subsidieregeling
-
-Dit onderdeel is nog niet inwerking getreden
+| **Nr.** | Zorgopleiding | Subsidiebedrag per voltijdse opleidingsplaats in € |
+| --- | --- | --- |
+| 1. | Gezondheidszorgpsycholoog in ggz | 28.800 |
+| 2. | Klinisch psycholoog in ggz | 35.000 |
+| 3. | Psychiater in ggz | 47.500 |
+| 4. | Psychotherapeut in ggz | 47.500 |
+|   | Prijspeil 2013 |   |
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS- Subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
@@ -124,23 +211,3 @@ Directie MEVA
 **Met het aanvragen van de subsidie machtigt het bestuur, dan wel een namens het bestuur gevolmachtigde, de minister om de opleidingsschema's bij de registratiecommissie op te vragen.**
 
 **Bevoegd conform KvK JA/NEE (Indien NEE:voeg volmacht toe)**
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-## Bijlage 3. Format aanvraagformulier subsidieregeling
-
-**Opleidingen in een Jeugd ggz-instelling**
-
-### II. Bij welke directie vraagt u een subsidie aan?
-
-Directie MEVA
-
-### IV. Ondertekening
-
-**Bevoegd conform KvK JA/NEE (Indien NEE:voeg volmacht toe)**
-
-##### Artikel 10a
-
-De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
