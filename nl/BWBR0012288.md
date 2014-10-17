@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2014-10-01"
+last_updated: "2014-10-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -2099,11 +2099,11 @@ In Irak is geen sprake van systematische blootstelling aan een behandeling in st
 
 ### 13.1. Besluitmoratorium
 
-Ten aanzien van Irak geldt geen besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
+Ten aanzien van Irak geldt een besluit in de zin van [artikel 43, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43) voor vreemdelingen afkomstig uit de provincies Bagdad, Anbar, Ninewa, Salaheddin, Ta’mim (Kirkuk), Diyala en Babil.
 
 ### 13.2. Artikel 1F Vluchtelingenverdrag
 
-De IND neemt in ieder geval ten aanzien van de volgende categorieën vreemdelingen “personal and knowing participation” in de zin van paragraaf C2/6.2.8 Vc aan:
+De IND neemt in ieder geval ten aanzien van de volgende categorieën vreemdelingen ‘personal and knowing participation’ in de zin van paragraaf C2/6.2.8 Vc aan:
 
 De IND beschouwt de gezinsband in elk geval als verbroken, indien:
 
@@ -2151,7 +2151,7 @@ Aan de hand van [paragraaf B8/6 Vc](328899) wordt beoordeeld of adequate opvang 
 
 ### 13.7. Vertrekmoratorium
 
-Ten aanzien van Irak geldt geen besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
+Ten aanzien van Irak geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45) voor vreemdelingen afkomstig uit de provincies Bagdad, Anbar, Ninewa, Salaheddin, Ta’mim (Kirkuk), Diyala en Babil.
 
 ### 13.8. Bijzonderheden
 
