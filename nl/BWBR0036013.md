@@ -4,7 +4,7 @@ identifier: "BWBR0036013"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2014-01-01"
+last_updated: "2014-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036013"
 soort: "wet"
@@ -91,7 +91,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Participatiewet.
 
 ##### Artikel IXa. [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
