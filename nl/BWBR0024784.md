@@ -4,7 +4,7 @@ identifier: "BWBR0024784"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2013-11-23"
+last_updated: "2014-10-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024784"
 soort: "ministeriele-regeling"
@@ -69,13 +69,13 @@ In deze regeling wordt verstaan onder:
 
 3. Voor de volgende artikelen geldt per gebeurtenis bij schade een maximale vergoeding:
 
-- a. brilmonturen: € 209,75
+- a. brilmonturen: € 221,72
 
-- b. horloges: € 104,87
+- b. horloges: € 110,85
 
-- c. sieraden: € 104,87
+- c. sieraden: € 110,85
 
-- d. zonnebrillen: € 52,44.
+- d. zonnebrillen: € 55,43.
 
 4. Iedere drie jaar wordt de hoogte van de in het derde lid genoemde bedragen herzien.
 
