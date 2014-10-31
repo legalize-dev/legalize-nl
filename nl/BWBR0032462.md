@@ -4,7 +4,7 @@ identifier: "BWBR0032462"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-27"
-last_updated: "2014-07-01"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032462"
 soort: "ministeriele-regeling"
@@ -78,7 +78,9 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 2.2. Toepassingsbereik
 
-Deze paragraaf is van toepassing op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III bij [verordening (EG) nr. 853/2004](onbekend).
+1. Deze paragraaf is van toepassing op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III bij verordening (EG) nr. 853/2004.
+
+2. [Artikel 2.4, eerste lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=1&artikel=2.4&z=2014-10-31&g=2014-10-31), zijn eveneens van toepassing op primaire bedrijven.
 
 ##### Artikel 2.3. NVWA
 
@@ -426,7 +428,7 @@ In deze paragraaf wordt onder bereiden mede verstaan: het ter rijping in opslag 
 
 In dit hoofdstuk wordt verstaan onder:
 
-- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-07-01&g=2014-07-01);
+- –. **aangewezen dierlijke bijproducten:** dierlijke bijproducten als bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.20&z=2014-10-31&g=2014-10-31);
 
 - –. **ondernemer:** de ondernemer, bedoeld in [artikel 3.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=3.3);
 
@@ -534,9 +536,21 @@ Met toepassing van bijlage V, hoofdstuk I, afdeling 1, punt 2, onderdeel f, van 
 
 ##### Artikel 3.12. Grondstoffen in biogas- en composteerinstallaties
 
-1. Wanneer de in bijlage V, hoofdstuk III, afdeling 2, punt 2, onderdeel b, van verordening (EU) nr. 142/2011 of in artikel 10, onderdeel g, van [verordening (EG) nr. 1069/2009](onbekend) genoemde producten de enige grondstoffen van dierlijke oorsprong zijn die in een biogas- of composteerinstallatie worden behandeld, is het met toepassing van bijlage V, hoofdstuk III, afdeling 2, punt 3, van verordening (EU) nr. 142/2011 toegestaan om die producten te verweken, indien is voldaan aan de voorschriften, bedoeld in bijlage V, hoofdstuk II en hoofdstuk I, afdeling 1, punt 3, respectievelijk afdeling 2, punt 3, van die verordening.
+1. Wanneer de in bijlage V, hoofdstuk III, afdeling 2, punt 2, onderdeel b, van verordening (EU) nr. 142/2011 of in artikel 10, onderdeel g, van [verordening (EG) nr. 1069/2009](onbekend) genoemde producten de enige grondstoffen van dierlijke oorsprong zijn die in een biogas- of composteerinstallatie worden behandeld, is het met toepassing van bijlage V, hoofdstuk III, afdeling 2, punt 3, van verordening (EU) nr. 142/2011 toegestaan om die producten te verwerken, indien is voldaan aan de voorschriften, bedoeld in bijlage V, hoofdstuk II en hoofdstuk I, afdeling 1, punt 3, respectievelijk afdeling 2, punt 3, van die verordening.
 
 2. De vergistingsresiduen en de compost die het resultaat zijn van de behandeling, bedoeld in het eerste lid, worden beschouwd als niet-verwerkt materiaal, dat overeenkomstig [verordening (EG) nr. 1069/2009](onbekend) en verordening (EU) nr. 142/2011 wordt behandeld.
+
+3. Het is met toepassing van Bijlage V, hoofdstuk III, afdeling 2, punt 2, van verordening (EU) nr. 142/2011 toegestaan de hierin genoemde dierlijke bijproducten om te zetten in biogas of compost als wordt voldaan aan de volgende parameters:
+
+- a. bij thermofiele vergisting:
+
+- 1°. bedraagt de temperatuur van het materiaal in de vergister ten minste 55°C, bij een minimale verblijftijd in de vergister van 6 opeenvolgende uren;
+
+- 2°. bedraagt de temperatuur van het materiaal in de vergister ten minste 53,5°C, bij een minimale verblijftijd in de vergister van 8 opeenvolgende uren, of
+
+- 3°. bedraagt de temperatuur van het materiaal in de vergister ten minste 52°C, bij een minimale verblijftijd in de vergister van 10 opeenvolgende uren;
+
+- b. bij compostering bedraagt de temperatuur van het materiaal ten minste 50°C tijdens een aaneengesloten periode, waarbinnen de temperatuur ten minste 55°C bedraagt voor ten minste 72 uren.
 
 ##### Artikel 3.13. Hergebruik van recipiënten voor dierlijke bijproducten
 
@@ -594,7 +608,7 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 - d. kadavers of delen daarvan die worden gebruikt voor activiteiten, bedoeld in artikel 17, eerste lid, en artikel 18, eerste en tweede lid, van [verordening (EG) nr. 1069/2009](onbekend), waarvan het gebruik is toegestaan;
 
-- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-07-01&g=2014-07-01) worden verwijderd;
+- e. producten van bijen en bijenteelt die overeenkomstig [artikel 3.10, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=2&artikel=3.10&z=2014-10-31&g=2014-10-31) worden verwijderd;
 
 - f. Op een broederij in de schaal gestorven pluimvee en kadavers van pluimvee die zijn ontstaan op een broederij.
 
@@ -640,15 +654,15 @@ Dierlijke bijproducten als bedoeld in [artikel 3.3, eerste lid, van de wet](http
 
 ##### Artikel 3.24. Nadere bewaarvoorschriften bij vaste ophaaldag
 
-1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
+1. De houder van aangewezen dierlijke bijproducten zorgt ervoor dat dierlijke bijproducten als bedoeld in [artikel 3.22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-10-31&g=2014-10-31), worden aangeboden in vaten of containers die passen in de laadinrichting van het vervoermiddel waarmee die bijproducten worden opgehaald en waarop de categorie van het materiaal is aangegeven dat zij bevatten.
 
-2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
+2. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-10-31&g=2014-10-31), ten minste een keer in de twee weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 10 °C, indien het kadavers van landbouwhuisdieren als bedoeld in artikel 3, onderdeel 6, van [verordening (EG) nr. 1069/2009](onbekend) betreft.
 
-3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
+3. Dierlijke bijproducten die overeenkomstig [artikel 3.22, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-10-31&g=2014-10-31), ten minste een keer in de vier weken worden opgehaald, worden tot ze worden opgehaald bewaard bij een omgevingstemperatuur van ten hoogste 5 °C.
 
 ##### Artikel 3.25. Plaats van aanbieden
 
-1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-07-01&g=2014-07-01) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
+1. De houder van dierlijke bijproducten die bij de ondernemer zijn aangegeven op grond van [artikel 3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=3&paragraaf=3&artikel=3.22&z=2014-10-31&g=2014-10-31) zorgt ervoor dat deze bijproducten op de dag dat ze worden opgehaald worden aangeboden op een plaats die vanaf een wagenlengte van de openbare weg binnen het bereik van de laadkraan van het vervoermiddel ligt waarmee die bijproducten worden opgehaald.
 
 2. In afwijking van het eerste lid kunnen de houder en de ondernemer overeenkomen dat de dierlijke bijproducten op een andere plaats worden aangeboden.
 
@@ -672,7 +686,7 @@ Artikel 3 van verordening (EG) nr. 1523/2007 is een voorschrift als bedoeld in [
 
 ##### Artikel 4.1. Overeenkomstige toepassing nadere regels over tarieven
 
-[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-07-01&g=2014-07-01).
+[Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting COKZ en de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-10-31&g=2014-10-31).
 
 ##### Artikel 4.2. Overgangsrecht biologische productiemethode
 
@@ -688,7 +702,7 @@ Wijzigt de Landbouwkwaliteitsregeling 2007.
 
 ##### Artikel 4.4. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-07-01&g=2014-07-01), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-07-01&g=2014-07-01), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-07-01&g=2014-07-01) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-07-01&g=2014-07-01), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
+Deze regeling treedt in werking met ingang van 1 januari 2013, met uitzondering van de [artikelen 2.11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.1&artikel=2.11&z=2014-10-31&g=2014-10-31), en [2.12 tot en met 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.12&z=2014-10-31&g=2014-10-31), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.2&z=2014-10-31&g=2014-10-31) en [4.3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=4&artikel=4.3&z=2014-10-31&g=2014-10-31), die inwerking treden op het tijdstip dat [artikel 2.6, onderdeel a, van het Besluit dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032335&artikel=2.6) in werking treedt.
 
 ##### Artikel 4.5. Citeertitel
 
@@ -793,7 +807,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in artikel 17, eerste lid, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek.
 
-## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-07-01&g=2014-07-01) van de Regeling dierlijke producten
+## als bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&hoofdstuk=2&paragraaf=2&sub-paragraaf=2.2&artikel=2.17&z=2014-10-31&g=2014-10-31) van de Regeling dierlijke producten
 
 In deze bijlage wordt verstaan onder:
 
