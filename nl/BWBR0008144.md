@@ -4,7 +4,7 @@ identifier: "BWBR0008144"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-10-11"
+last_updated: "2014-10-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008144"
 soort: "ministeriele-regeling"
@@ -56,6 +56,8 @@ In dit besluit wordt verstaan onder:
 - **beschikking 2009/750/EG:** Beschikking 2009/750/EG van de Commissie van 6 oktober 2009 tot definiëring van de Europese elektronische tolheffingsdienst en de bijbehorende technische onderdelen (PbEU 2009, L 268);
 
 - **verordening 1071/2009/EG:** Verordening (EU) nr. 1071/2009/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van Richtlijn 96/26/EG van de Raad (PbEU 2009, L 300);
+
+- **verordening 406/2010:** Verordening (EU) nr. 406/2010 van de Commissie van 26 april 2010 tot uitvoering van Verordening (EG) nr. 79/2009 van het Europees parlement en de Raad betreffende de typegoedkeuring van motorvoertuigen op waterstof (PbEU 2010, 122);
 
 - **VN/ECE-reglement 110:** Reglement nr. 110 van de Economische Commissie voor Europa van de Verenigde Naties (VN/ECE) inzake uniforme bepalingen voor de goedkeuring van specifieke onderdelen van motorvoertuigen die gecomprimeerd aardgas (cng) als brandstof gebruiken en voertuigen met betrekking tot de installatie van specifieke onderdelen van een goedgekeurd type voor het gebruik van gecomprimeerd aardgas (cng) als brandstof1Te raadplegen via United Nations Economic Commission for Europe/Transport/Vehicle Regulations/Agreements Regulations and Rules/UNECE Regulation (http://live.unece.org/trans/main/wp29/wp29regs.html)..
 
@@ -115,7 +117,7 @@ Aan de dienst worden de volgende taken opgedragen:
 
 - t. het functioneren als centraal aanspreekpunt voor informatie betreffende rijbewijzen met een microchip en het uitvoeren van taken verband houdende met de microchip op het rijbewijs, de daarmee samenhangende uitvoering van de EU-typegoedkeuringsprocedure, het nemen van passende maatregelen inzake de bescherming van de gegevens, alsmede activiteiten in verband met het verlenen of intrekken van EU-typegoedkeuringscertificaten, bedoeld in artikel 5 van Verordening (EU) nr. 383/2012 van de Commissie van 4 mei 2012 tot vaststelling van de technische voorschriften betreffende rijbewijzen met een ingebouwd opslagmedium (microchip) (Pb EU L 120);
 
-- u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110;
+- u. het aanwijzen van een technische dienst voor het uitvoeren van een periodieke herkwalificatie als bedoeld in bijlage 3, artikel 4.1.4, van VN/ECE-reglement 110 en artikel 2 van verordening 406/2010;
 
 - v. het ter uitvoering van artikel 18 van verordening 1071/2009/EG in de hoedanigheid van nationaal contactpunt met andere lidstaten uitwisselen van gegevens over veroordelingen en sancties met betrekking tot ondernemingen en vervoersmanagers in het wegvervoer en de status van geschiktheid van vervoermanagers;
 
@@ -133,9 +135,9 @@ Aan de dienst worden de volgende taken opgedragen:
 
 ##### Artikel 3. Voorwaarden
 
-1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-11&g=2014-10-11), bedoelde activiteiten prijzen in rekening brengen.
+1. De dienst mag voor de in [artikel 2, onder a tot en met d, j, p tot en met r, t, u, w en z](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-31&g=2014-10-31), bedoelde activiteiten prijzen in rekening brengen.
 
-2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-11&g=2014-10-11) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
+2. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008144&artikel=2&z=2014-10-31&g=2014-10-31) bedoelde activiteiten en de hiervoor door de dienst in rekening te brengen prijzen dienen te voldoen aan de volgende voorwaarden:
 
 - a. de exploitatie mag niet ten koste gaan van de in artikel 4b, eerste en tweede lid, onderdeel a, bedoelde taken;
 
