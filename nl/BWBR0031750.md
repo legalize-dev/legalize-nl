@@ -4,7 +4,7 @@ identifier: "BWBR0031750"
 country: "nl"
 rank: "wet"
 publication_date: "2014-11-01"
-last_updated: "2012-10-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031750"
 soort: "wet"
@@ -57,7 +57,7 @@ Wijzigt de Crisis- en herstelwet.
 
 ##### Artikel IV
 
-Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), dat is vastgesteld voor het tijdstip van inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031750&artikel=I&z=2012-10-01&g=2012-10-01), van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in [artikel 4.1a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1a).
+Een besluit van gedeputeerde staten waarbij toestemming is verleend tot afwijking van een provinciale verordening als bedoeld in [artikel 4.1 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1), dat is vastgesteld voor het tijdstip van inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0031750&artikel=I&z=2014-11-01&g=2014-11-01), van deze wet, wordt gelijkgesteld met een ontheffing als bedoeld in [artikel 4.1a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=4.1a).
 
 ##### Artikel IVa
 
