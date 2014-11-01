@@ -4,7 +4,7 @@ identifier: "BWBR0019569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-16"
-last_updated: "2011-04-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019569"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Besluit:
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
-1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2011-04-01&g=2011-04-01), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
+1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2011-04-01&g=2014-11-01), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
 
 2. Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor:
 
@@ -137,6 +137,20 @@ Deze regeling wordt aangehaald als: Examenreglement basisexamen inburgering.
 ## Bijlage 1
 
 Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
+
+## Bijlage 1
+
+Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
+
+##### Artikel 2a. Maken van een afspraak
+
+1. Na ontvangst van het bewijs van betaling, maakt de deelnemer onder vermelding van het door DUO toegekende referentienummer mondeling of schriftelijk een afspraak bij het hoofd.
+
+2. Het hoofd maakt de examenlocatie, datum en het tijdstip waarop het basisexamen kan worden afgelegd, bekend. De deelnemer ontvangt een bevestiging van de gemaakte afspraak. De gemaakte afspraak kan door de deelnemer eenmalig worden gewijzigd.
+
+3. Het verzoek tot wijzigen van de examendatum of het examentijdstip, moet uiterlijk tot 24 uur voor het examen door de deelnemer zijn ingediend bij het hoofd.
+
+4. Indien de deelnemer het examen niet meer wenst af te leggen kan de deelnemer een verzoek indienen bij DUO voor restitutie van het betaalde examengeld. Dit verzoek dient uiterlijk tot 24 uur voor het examen door DUO te zijn ontvangen op de door DUO aangegeven wijze.
 
 ## Bijlage 2. : overzicht ambassades en consultaten-generaal
 
