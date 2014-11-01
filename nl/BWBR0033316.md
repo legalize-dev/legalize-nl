@@ -4,7 +4,7 @@ identifier: "BWBR0033316"
 country: "nl"
 rank: "wet"
 publication_date: "2014-11-01"
-last_updated: "2013-04-25"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033316"
 soort: "wet"
@@ -105,7 +105,7 @@ Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
 ##### Artikel 2.2.2
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet geluidhinder.
 
 ##### Artikel 2.2.3
 
@@ -113,7 +113,7 @@ Wijzigt de Wet luchtvaart.
 
 ##### Artikel 2.2.4
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet milieubeheer.
 
 ##### Artikel 2.2.5
 
@@ -151,13 +151,15 @@ Wijzigt de Onteigeningswet.
 
 ##### Artikel 3.1
 
-1. Hoofdstuk 2, afdeling 1, zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van [hoofdstuk I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&hoofdstuk=1&z=2013-04-25&g=2013-04-25), van deze wet, blijft van toepassing op de voorbereiding en vaststelling van een gebiedsontwikkelingsplan, indien het ontwerp van dat plan voor dat tijdstip ter inzage is gelegd.
+1. Hoofdstuk 2, afdeling 1, zoals dat gold onmiddellijk voor het tijdstip van inwerkingtreding van [hoofdstuk I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&hoofdstuk=1&z=2014-11-01&g=2014-11-01), van deze wet, blijft van toepassing op de voorbereiding en vaststelling van een gebiedsontwikkelingsplan, indien het ontwerp van dat plan voor dat tijdstip ter inzage is gelegd.
 
-2. Een gebiedsontwikkelingsplan als bedoeld in [artikel 2.3, eerste lid, van de Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=2.3), zoals dat luidde voor het tijdstip van inwerkingtreding van [hoofdstuk I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&hoofdstuk=1&z=2013-04-25&g=2013-04-25), van deze wet, wordt nadat het onherroepelijk is vastgesteld, in samenhang met het bestemmingsplan waarvan het deel uitmaakt, gelijkgesteld met een bestemmingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dit komt te luiden, nadat hoofdstuk I, onderdeel E, van deze wet in werking is getreden.
+2. Een gebiedsontwikkelingsplan als bedoeld in [artikel 2.3, eerste lid, van de Crisis- en herstelwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027431&artikel=2.3), zoals dat luidde voor het tijdstip van inwerkingtreding van [hoofdstuk I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&hoofdstuk=1&z=2014-11-01&g=2014-11-01), van deze wet, wordt nadat het onherroepelijk is vastgesteld, in samenhang met het bestemmingsplan waarvan het deel uitmaakt, gelijkgesteld met een bestemmingsplan als bedoeld in artikel 2.3, eerste lid, van de Crisis- en herstelwet, zoals dit komt te luiden, nadat hoofdstuk I, onderdeel E, van deze wet in werking is getreden.
+
+3. Op aanvragen om een omgevingsvergunning als bedoeld in [artikel 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.12), die voor het tijdstip van inwerkingtreding van [artikel 2.2.1, onderdelen F en J](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&hoofdstuk=2&paragraaf=2.2&artikel=2.2.1&z=2014-11-01&g=2014-11-01), van deze wet zijn ingediend en waarop op dat tijdstip nog niet onherroepelijk is beslist, blijft het recht zoals dat voor dat tijdstip gold van toepassing.
 
 ##### Artikel 3.2
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet milieubeheer.
 
 ##### Artikel 3.3
 
