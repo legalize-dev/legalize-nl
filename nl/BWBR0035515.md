@@ -4,7 +4,7 @@ identifier: "BWBR0035515"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-11-01"
-last_updated: "2014-09-20"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035515"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Een kinderbeveiligingssysteem is geschikt als bedoeld in [artikel 59, eerste lid
 
 - iii). [Richtlijn 77/541/EEG](31977L0541), of
 
-- iiii). dit onderdeel is nog niet in werking getreden.
+- iiii). [Verordening (EG) nr. 661/2009](32009R0661)
 
 of een latere aanpassing daarvan.
 
@@ -74,11 +74,11 @@ of een latere aanpassing daarvan.
 
 ##### Artikel 4
 
-De [Regeling kinderbeveiligingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009227&wetgeving) wordt ingetrokken.
+De [Regeling kinderbeveiligingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0009227) wordt ingetrokken.
 
 ##### Artikel 5
 
-Deze regeling treedt in werking met ingang van 20 september 2014, met uitzondering van [artikel 2 onderdeel iiii](https://wetten.overheid.nl/jci1.3:c:BWBR0035515&artikel=2&z=2014-09-20&g=2014-09-20), dat in werking treedt met ingang van 1 november 2014.
+Deze regeling treedt in werking met ingang van 20 september 2014, met uitzondering van [artikel 2 onderdeel iiii](https://wetten.overheid.nl/jci1.3:c:BWBR0035515&artikel=2&z=2014-11-01&g=2014-11-01), dat in werking treedt met ingang van 1 november 2014.
 
 ##### Artikel 6
 
