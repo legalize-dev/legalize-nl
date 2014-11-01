@@ -4,7 +4,7 @@ identifier: "BWBR0021067"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-28"
-last_updated: "2013-07-01"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021067"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en beroepsconsulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
-2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2013-07-01&g=2013-07-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
+2. In afwijking van [artikel 2, eerste lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021067&paragraaf=2&artikel=2&z=2013-07-01&g=2014-11-01), heeft de verzoeker die de naturalisatietoets bij het hoofd van de diplomatieke en beroepsconsulaire post aflegt, de naturalisatietoets behaald, indien hij het centraal deel van het inburgeringsexamen, bedoeld in [artikel 3.9, eerste lid van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) zoals dit luidde op 31 december 2012 met goed gevolg heeft afgelegd.
 
 3. De verzoeker, woonachtig buiten het Koninkrijk, identificeert zich bij de deelname aan het examen door middel van een geldig nationaal paspoort.
 
