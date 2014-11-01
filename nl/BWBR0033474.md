@@ -4,7 +4,7 @@ identifier: "BWBR0033474"
 country: "nl"
 rank: "wet"
 publication_date: "2014-11-01"
-last_updated: "2013-07-04"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033474"
 soort: "wet"
@@ -51,13 +51,13 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet ruimtelijke ordening, enz. (voorzien in wettelijke grondslag voor provinciaal medebewind en mogelijkheid tot afwijking van algemene regels).
 
 ##### Artikel IV
 
-1. De [artikelen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0033474&artikel=I&z=2013-07-04&g=2013-07-04) treden in werking op een bij koninklijk besluit te bepalen tijdstip en werken terug tot en met 1 januari 2012.
+1. De [artikelen I tot en met III](https://wetten.overheid.nl/jci1.3:c:BWBR0033474&artikel=I&z=2014-11-01&g=2014-11-01) treden in werking op een bij koninklijk besluit te bepalen tijdstip en werken terug tot en met 1 januari 2012.
 
-2. [Artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0033474&artikel=IIIa&z=2013-07-04&g=2013-07-04) treedt in werking op het tijdstip waarop [artikel 2.2.1, onderdeel F, van het bij koninklijke boodschap van 30 december 2011 ingediende voorstel van wet tot wijziging van de Crisis- en herstelwet en diverse andere wetten in verband met het permanent maken van de Crisis- en herstelwet en het aanbrengen van enkele verbeteringen op het terrein van het omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&artikel=2.2.1) (33 135) in werking treedt.
+2. [Artikel IIIA](https://wetten.overheid.nl/jci1.3:c:BWBR0033474&artikel=IIIa&z=2014-11-01&g=2014-11-01) treedt in werking op het tijdstip waarop [artikel 2.2.1, onderdeel F, van het bij koninklijke boodschap van 30 december 2011 ingediende voorstel van wet tot wijziging van de Crisis- en herstelwet en diverse andere wetten in verband met het permanent maken van de Crisis- en herstelwet en het aanbrengen van enkele verbeteringen op het terrein van het omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0033316&artikel=2.2.1) (33 135) in werking treedt.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
