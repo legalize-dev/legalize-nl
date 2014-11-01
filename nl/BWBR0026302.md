@@ -4,7 +4,7 @@ identifier: "BWBR0026302"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2014-03-29"
+last_updated: "2014-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026302"
 soort: "AMvB"
@@ -84,13 +84,13 @@ Wijzigt het Besluit politiegegevens.
 
 1. De vingerafdrukken, de DNA-profielen en de persoonsgegevens in de Verwijsindex Personen die voor de inwerkingtreding van dit besluit zijn verwerkt, worden vernietigd overeenkomstig de termijnen die voor de inwerkingtreding van dit besluit golden.
 
-2. Indien tegen een verdachte na de inwerkingtreding van dit besluit een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd dan het misdrijf in het kader waarvan de vingerafdrukken voor de inwerkingtreding van dit besluit zijn verwerkt, is [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-03-29&g=2014-03-29), van overeenkomstige toepassing.
+2. Indien tegen een verdachte na de inwerkingtreding van dit besluit een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd dan het misdrijf in het kader waarvan de vingerafdrukken voor de inwerkingtreding van dit besluit zijn verwerkt, is [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-11-01&g=2014-11-01), van overeenkomstige toepassing.
 
 3. Indien tegen een verdachte na de inwerkingtreding van dit besluit een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) in verband met een ander misdrijf is gedaan of een strafbeschikking in verband met een ander misdrijf is uitgevaardigd dan het misdrijf in het kader waarvan het DNA-profiel voor de inwerkingtreding van dit besluit is verwerkt, is [artikel 18, tweede lid, van het Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=18) van toepassing.
 
 ##### Artikel 16
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=4&artikel=11&z=2014-03-29&g=2014-03-29) en [12, onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=5&artikel=12&z=2014-03-29&g=2014-03-29), die in werking treden op 1 september 2009.
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=4&artikel=11&z=2014-11-01&g=2014-11-01) en [12, onderdeel C, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=5&artikel=12&z=2014-11-01&g=2014-11-01), die in werking treden op 1 september 2009.
 
 ##### Artikel 17
 
@@ -104,7 +104,11 @@ In dit besluit wordt verstaan onder:
 
 - a. **de wet:** het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903);
 
-- b. **de strafrechtsketendatabank:** de databank, bedoeld in [artikel 27b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27b).
+- b. **de strafrechtsketendatabank:** de databank, bedoeld in [artikel 27b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27b);
+
+- c. **gewezen verdachte:** een persoon die bij onherroepelijke einduitspraak is vrijgesproken van een misdrijf als bedoeld in [artikel 482a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482a), waarbij opzettelijk de dood van een ander is veroorzaakt, dan wel daarvoor is ontslagen van alle rechtsvervolging zonder dat daarbij een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) juncto [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), [38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s) is opgelegd;
+
+- d. **onbekende verdachte:** de verdachte, bedoeld in [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=27) van wie in het kader van het strafbare feit celmateriaal in beslag genomen is of veilig gesteld is.
 
 ##### Artikel 2
 
@@ -160,17 +164,23 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 ##### Artikel 5
 
-1. Zodra zich een omstandigheid voordoet die meebrengt dat degene wiens gegevens in de strafrechtsketendatabank zijn verwerkt, niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, worden zijn gegevens, bedoeld in [artikel 2, onder g tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), vernietigd. De gegevens, bedoeld in [artikel 2, onder a tot en met f en k](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), worden overeenkomstig de termijnen, genoemd in de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-03-29&g=2014-03-29), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2014-03-29&g=2014-03-29), vernietigd.
+1. Zodra zich een omstandigheid voordoet die meebrengt dat degene wiens gegevens in de strafrechtsketendatabank zijn verwerkt, niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, worden zijn gegevens, bedoeld in [artikel 2, onder g tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), vernietigd. De gegevens, bedoeld in [artikel 2, onder a tot en met f en k](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), worden overeenkomstig de termijnen, genoemd in de [artikelen 6, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-11-01&g=2014-11-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2014-11-01&g=2014-11-01), vernietigd.
 
-2. Zodra de verdachte met goed gevolg een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e) heeft afgerond, worden zijn gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), vernietigd.
+2. Zodra de verdachte met goed gevolg een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e) heeft afgerond, worden zijn gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), vernietigd.
 
-3. Van een omstandigheid als bedoeld in het eerste lid is in ieder geval sprake bij een beslissing tot niet-vervolging, een kennisgeving van niet verdere vervolging, een onherroepelijke buitenvervolgingstelling, een rechterlijke verklaring dat de zaak geëindigd is, een vrijspraak of een onherroepelijk ontslag van alle rechtsvervolging waarbij niet een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) juncto [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), [38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s) is opgelegd.
+3. Van een omstandigheid als bedoeld in het eerste lid is in ieder geval sprake bij een beslissing tot niet-vervolging, een kennisgeving van niet verdere vervolging, een onherroepelijke buitenvervolgingstelling, een rechterlijke verklaring dat de zaak geëindigd is, een onherroepelijke vrijspraak of een onherroepelijk ontslag van alle rechtsvervolging waarbij niet een maatregel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) juncto [37b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37b) of [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38), [38m](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=38m) of [77s van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77s) is opgelegd.
 
 4. In afwijking van het eerste en tweede lid wordt van het vernietigen van de in deze leden bedoelde gegevens afgezien indien degene wiens gegevens het betreft, in een andere zaak als verdachte van een strafbaar feit is aangemerkt of in een andere zaak is veroordeeld.
 
+5. In afwijking van het eerste en tweede lid wordt van het vernietigen van de in deze leden bedoelde gegevens afgezien indien degene wiens gegevens het betreft, een gewezen verdachte is die niet eerder voor hetzelfde feit in een herzieningsprocedure als bedoeld in [Titel VIII van het Derde Boek van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&titeldeel=VIII) is vrijgesproken of ontslagen van alle rechtsvervolging. De gegevens kunnen in dat geval uitsluitend worden geraadpleegd:
+
+- a. met het oog op een herziening ten nadele op de in [artikel 482a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482a) bedoelde grond en na toestemming van de rechter-commissaris, of
+
+- b. ingeval van een vergelijking als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=3&artikel=9&z=2014-11-01&g=2014-11-01), of als bedoeld in [artikel 14, zevende lid, van het Besluit DNA-onderzoek in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0012791&artikel=14).
+
 ##### Artikel 6
 
-1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), van verdachten en veroordeelden wegens misdrijven worden vernietigd:
+1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van verdachten en veroordeelden wegens misdrijven worden vernietigd:
 
 - a. twintig jaar nadat een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de gegevens zijn verwerkt of nadat een strafbeschikking wegens het misdrijf volledig ten uitvoer is gelegd, dan wel twaalf jaar na het overlijden van betrokkene,
 
@@ -184,13 +194,9 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 4. In afwijking van het eerste tot en met derde lid worden gegevens van verdachten en veroordeelden wegens misdrijven als bedoeld in de [artikelen 240b tot en met 250 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241) na tachtig jaar vernietigd.
 
-5. De Justitiële Informatiedienst houdt aantekening van iedere vernietiging ingevolge het eerste tot en met vierde lid.
-
-6. Een strafrechtsketennummer dat is vernietigd, wordt niet opnieuw aan een verdachte toegekend.
-
 ##### Artikel 7
 
-1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), van verdachten en veroordeelden wegens overtredingen worden vernietigd:
+1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van verdachten en veroordeelden wegens overtredingen worden vernietigd:
 
 - a. vijf jaar nadat een einduitspraak als bedoeld in de [artikelen 351](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=351) en [352, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=352) is gedaan in verband met een overtreding en in het kader van de overtreding de gegevens zijn verwerkt of een strafbeschikking wegens een overtreding volledig ten uitvoer is gelegd,
 
@@ -200,37 +206,37 @@ Het strafrechtsketennummer mag voor het uitwisselen van persoonsgegevens van ver
 
 - d. na het vervallen van het recht tot strafvordering door verjaring.
 
-2. [Artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-03-29&g=2014-03-29), is van overeenkomstige toepassing.
+2. [Artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-11-01&g=2014-11-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
-Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie die nodig is om te kunnen voldoen aan de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2014-03-29&g=2014-03-29).
+Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie die nodig is om te kunnen voldoen aan de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2014-11-01&g=2014-11-01).
 
 #### § 3. De databanken met vingerafdrukken
 
 ##### Artikel 9
 
-1. De databank waarin de vingerafdrukken die overeenkomstig de wet zijn genomen, worden verwerkt, bevat slechts de vingerafdrukken van verdachten, veroordeelden, overleden slachtoffers van misdrijven en onbekende verdachten.
+1. De databank waarin de vingerafdrukken die overeenkomstig de wet zijn afgenomen, worden verwerkt, bevat slechts de vingerafdrukken van:
 
-2. Op het verwerken van de vingerafdrukken, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), van degene die niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, of van degene die met goed gevolg een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e) heeft afgerond, is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2014-03-29&g=2014-03-29) van overeenkomstige toepassing.
+- a. verdachten,
 
-3. Op het verwerken van de vingerafdrukken van een verdachte of veroordeelde, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-03-29&g=2014-03-29), zijn de [artikelen 6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-03-29&g=2014-03-29), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2014-03-29&g=2014-03-29), van overeenkomstige toepassing.
+- b. veroordeelden,
 
-4. De vingerafdrukken van een overleden slachtoffer van een misdrijf worden vernietigd:
+- c. gewezen verdachten,
 
-- a. twintig jaar na verwerking bij een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van ten hoogste zes jaar of meer is gesteld, dan wel
+- d. overleden slachtoffers van misdrijven,
 
-- b. twaalf jaar na verwerking bij een misdrijf als omschreven in [artikel 67, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=67)waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan ten hoogste zes jaar is gesteld.
+- e. onbekende verdachten.
 
-5. In afwijking van het vierde lid worden de vingerafdrukken van een overleden slachtoffer van een misdrijf na tachtig jaar vernietigd bij een misdrijf dat op grond van [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) niet aan verjaring onderhevig is.
+2. De vingerafdrukken die in de databank zijn vastgelegd, kunnen onderling vergeleken worden.
 
-6. De vingerafdrukken van een onbekende verdachte worden overeenkomstig de termijnen, genoemd in het vierde en vijfde lid, vernietigd.
+3. In afwijking van het tweede lid worden de in de databank vastgelegde vingerafdrukken van gewezen verdachten of de vingerafdrukken van onbekende verdachten die in de strafzaak waarin de gewezen verdachte is vrijgesproken of ontslagen van alle rechtsvervolging met die vingerafdrukken overeenkwamen, uitsluitend onderling of met andere met die strafzaak in verband staande vingerafdrukken van onbekende verdachten vergeleken, indien
 
-7. Met de vingerafdrukken, bedoeld in het tweede tot en met zesde lid, worden tevens de daarbij behorende identificerende persoonsgegevens vernietigd.
+- a. de vergelijking plaatsvindt met het oog op de herziening ten nadele op de in [artikel 482a, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482a) bedoelde grond, en
 
-8. [Artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-03-29&g=2014-03-29), is van overeenkomstige toepassing.
+- b. de rechter-commissaris, op vordering van de officier van justitie, opdracht tot de vergelijking heeft gegeven.
 
-9. De Justitiële Informatiedienst verstrekt de informatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=8&z=2014-03-29&g=2014-03-29), door aan een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), voor zover die informatie nodig is om te kunnen voldoen aan het tweede en derde lid. Het openbaar ministerie verstrekt die landelijke eenheid de informatie die nodig is om te kunnen voldoen aan het vierde tot en met zesde lid.
+4. In geval van toepassing van het derde lid geeft de rechter-commissaris die de opdracht tot de vergelijking heeft gegeven de gewezen verdachte, zodra het belang van het onderzoek dat toelaat, schriftelijk kennis van de uitslag van het onderzoek.
 
 ##### Artikel 10
 
@@ -241,6 +247,62 @@ Het openbaar ministerie verstrekt de Justitiële Informatiedienst de informatie 
 3. De vingerafdrukken die overeenkomstig [artikel 33, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=33), zijn genomen, worden na het verstrijken van de termijn, bedoeld in [artikel 71, eerste of derde lid, van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=71), vernietigd.
 
 4. De ambtenaren of medewerkers die bij de Dienst Justitiële Inrichtingen werkzaam zijn, hebben rechtstreekse toegang tot de vingerafdrukken, bedoeld in het eerste tot en met derde lid, voor zover zij die toegang nodig hebben voor een goede vervulling van hun taak.
+
+#### § 4. De berichtenvoorziening ten behoeve van de strafrechtsketen
+
+#### § 5. Wijzigingen in andere besluiten
+
+#### § 6. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7a
+
+1. De gegevens, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van gewezen verdachten worden vernietigd:
+
+- a. twaalf jaar nadat een einduitspraak als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=1&artikel=1&z=2014-11-01&g=2014-11-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld, en in het kader van het misdrijf de gegevens zijn verwerkt,
+
+- b. twintig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=1&artikel=1&z=2014-11-01&g=2014-11-01), is gedaan in verband met een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, en in het kader van het misdrijf de gegevens zijn verwerkt,
+
+- c. tachtig jaar nadat een einduitspraak als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=1&artikel=1&z=2014-11-01&g=2014-11-01), is gedaan in verband met een misdrijf dat op grond van [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) niet aan verjaring onderhevig is, en in het kader van het misdrijf de gegevens zijn verwerkt,
+
+- d. wanneer naar het oordeel van de officier van justitie vaststaat dat herziening ten nadele op grond van [artikel 482a, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482a) uitgesloten is, dan wel
+
+- e. terstond na het overlijden van betrokkene.
+
+2. De in het eerste lid, onder a, b en c, genoemde termijnen belopen zes, tien, respectievelijk twintig jaar indien de gewezen verdachte ten tijde van het begaan van het feit waarop de rechterlijke uitspraak betrekking heeft de leeftijd van achttien jaar nog niet had bereikt.
+
+##### Artikel 7b
+
+1. De Justitiële Informatiedienst houdt aantekening van iedere vernietiging ingevolge de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-11-01&g=2014-11-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2014-11-01&g=2014-11-01) en [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7a&z=2014-11-01&g=2014-11-01).
+
+2. Een strafrechtsketennummer dat is vernietigd, wordt niet opnieuw aan een verdachte toegekend.
+
+#### § 3. De databanken met vingerafdrukken
+
+##### Artikel 9a
+
+1. Op het verwerken van de vingerafdrukken, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van degene die niet langer als een verdachte van een strafbaar feit kan worden aangemerkt, of van degene die met goed gevolg een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e) heeft afgerond, is [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=5&z=2014-11-01&g=2014-11-01) van overeenkomstige toepassing.
+
+2. Op het verwerken van de vingerafdrukken, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van een verdachte of veroordeelde, zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=6&z=2014-11-01&g=2014-11-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7&z=2014-11-01&g=2014-11-01) van overeenkomstige toepassing.
+
+3. Op het verwerken van de vingerafdrukken, bedoeld in [artikel 2, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), van een gewezen verdachte, is [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7a&z=2014-11-01&g=2014-11-01) van overeenkomstige toepassing.
+
+4. De vingerafdrukken van een overleden slachtoffer van een misdrijf worden vernietigd:
+
+- a. twaalf jaar na verwerking bij een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van minder dan zes jaar is gesteld,
+
+- b. twintig jaar na verwerking bij een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van zes jaar of meer is gesteld, dan wel
+
+- c. tachtig jaar na verwerking bij een misdrijf dat op grond van [artikel 70, tweede lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=70) niet aan verjaring onderhevig is.
+
+5. De vingerafdrukken van een onbekende verdachte worden overeenkomstig de termijnen, genoemd in het vierde lid, vernietigd.
+
+6. Met de vingerafdrukken, bedoeld in het eerste tot en met vijfde lid, worden tevens de daarbij behorende identificerende persoonsgegevens vernietigd.
+
+7. [Artikel 7b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7b&z=2014-11-01&g=2014-11-01), is van overeenkomstige toepassing.
+
+8. De Justitiële Informatiedienst verstrekt de informatie, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=8&z=2014-11-01&g=2014-11-01), aan een landelijke eenheid als bedoeld in [artikel 25, eerste lid, onderdeel b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), voor zover die informatie nodig is om te kunnen voldoen aan het eerste tot en met derde lid juncto [artikel 7a, eerste lid, onder a tot en met c en e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026302&paragraaf=2&artikel=7a&z=2014-11-01&g=2014-11-01). Het openbaar ministerie verstrekt de informatie die nodig is om te kunnen voldoen aan het derde lid juncto artikel 7a, eerste lid, onder d, en het vierde en vijfde lid.
 
 #### § 4. De berichtenvoorziening ten behoeve van de strafrechtsketen
 
