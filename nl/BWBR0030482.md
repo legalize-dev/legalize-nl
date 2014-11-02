@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2012-12-22"
+last_updated: "2014-11-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -87,11 +87,11 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Strategie en Juridische Zaken is belast met advisering op economisch, medisch en juridisch gebied van de Raad van Bestuur en de beleidsdirecties, kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning, relatiebeheer, bestuurlijke kaderstelling en control en juridische zaken.
 
-2. De directie Strategie en Juridische Zaken bestaat uit de units Economisch en Medisch Bureau, Strategie en Communicatie en Juridische Zaken.
+2. De directie Strategie en Juridische Zaken bestaat uit de units Economisch en Medisch Bureau, Communicatie en Juridische Zaken.
 
 ##### Artikel 7. Binnen beleid en begroting
 
-1. De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2012-12-22&g=2012-12-22), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2012-12-22&g=2012-12-22) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2012-12-22&g=2012-12-22) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2012-12-22&g=2012-12-22) bij dit besluit.
+1. De op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=9&z=2014-11-02&g=2014-11-02), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2014-11-02&g=2014-11-02) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2014-11-02&g=2014-11-02) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2014-11-02&g=2014-11-02) bij dit besluit.
 
 2. Directeuren oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
@@ -107,7 +107,7 @@ In dit besluit wordt verstaan onder:
 
 2. Directeuren zijn bevoegd om namens de NZa beschikkingen te nemen ten aanzien van de rechtspositie van het personeel van hun directie, met uitzondering van beschikkingen tot het aanstellen van unitmanagers, het vaststellen van beoordelingen van unitmanagers en de daaruit voortvloeiende besluiten, het bevorderen van unitmanagers, het aanstellen en bevorderen van personeel in salarisschaal 14 of hoger, beschikkingen tot ontslag anders dan op verzoek van de medewerker, disciplinaire straffen als bedoeld in het Algemeen rijksambtenarenreglement en beschikkingen op bezwaar.
 
-3. Directeuren zijn bevoegd tot het verlenen van ondermandaat aan hun unitmanagers voor het nemen van beschikkingen betreffende tarieven, prestatiebeschrijvingen, verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, handhavingsbeschikkingen met uitzondering van boetebeschikkingen en ten aanzien van de rechtspositie van het personeel van hun unit met uitzondering van beschikkingen tot het aanstellen, het bevorderen en het ontslaan van personeel, het verlenen van een voorschot op het salaris, het geven van een gratificatie en het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
+3. Directeuren zijn bevoegd tot het verlenen van ondermandaat aan hun unitmanagers voor het nemen van beschikkingen betreffende tarieven, prestatiebeschrijvingen, beschikbaarheidbijdragen, vereffeningsbedragen, het vaststellen van grenzen als bedoeld in [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, handhavingsbeschikkingen met uitzondering van boetebeschikkingen en ten aanzien van de rechtspositie van het personeel van hun unit met uitzondering van beschikkingen tot het aanstellen, het bevorderen en het ontslaan van personeel, het verlenen van een voorschot op het salaris, het geven van een gratificatie en het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
 
 4. De portefeuillehouders zijn voor hun aandachtsgebieden bevoegd tot het vaststellen van beoordelingen van unitmanagers en tot het nemen van de daaruit voortvloeiende beschikkingen.
 
@@ -117,9 +117,9 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 10. Volmacht
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2012-12-22&g=2012-12-22) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2014-11-02&g=2014-11-02) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2012-12-22&g=2012-12-22) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2014-11-02&g=2014-11-02) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
 ##### Artikel 11. Machtiging
 
