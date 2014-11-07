@@ -4,7 +4,7 @@ identifier: "BWBR0035734"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-11-07"
-last_updated: "2014-01-01"
+last_updated: "2014-11-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035734"
 soort: "zbo"
@@ -121,7 +121,7 @@ Bij de rechtmatige uitvoering van taken kan onderscheid worden gemaakt tussen di
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen is een aantal randvoorwaarden van belang:
 
-[Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3&z=2014-11-07&g=2014-01-01) geeft een limitatieve opsomming van het normenkader voor de uitwerking van het rechtmatigheidsbegrip.
+[Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3&z=2014-11-07&g=2014-11-07) geeft een limitatieve opsomming van het normenkader voor de uitwerking van het rechtmatigheidsbegrip.
 
 Als aan de genoemde randvoorwaarden is voldaan kan, rekening houdend met de invulling van het begrip rechtmatigheid in dit hoofdstuk, de externe accountant bij de financiële verantwoording een rechtmatigheidsoordeel geven en kan hij in zijn samenvattende rapportage een uitspraak doen over de rechtmatige uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614). Het Protocol accountantsonderzoek concessiehouders 2014 werkt de richtlijnen voor het accountantsonderzoek in detail uit.
 
@@ -213,15 +213,15 @@ Verder zet het zorgkantoor zich in om de eigen regie en de participatie van de c
 
 Zorgkantoren moeten op grond van [artikel 3 sub b van de ‘Aanwijzing zorgkantoren 2014’](https://wetten.overheid.nl/jci1.3:c:BWBR0034132&artikel=3) beschikken over een adequate cliëntvolgende bedrijfsadministratie voor zorg in natura waarin een verband ligt tussen de indicatiebesluiten van AWBZ-verzekerden, de geleverde zorg en de betalingen aan zorgaanbieders.
 
-De zorgkantoren moeten stimuleren en bewaken dat zorgaanbieders de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641&wetgeving) naleven.
+De zorgkantoren moeten stimuleren en bewaken dat zorgaanbieders de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641) naleven.
 
 Met de introductie van declareren op cliëntniveau in de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) wordt per cliënt duidelijk welke zorg is geleverd en hoeveel hiervoor wordt betaald. Dit is ook noodzakelijk voor toekomstige systeem- en uitvoeringsveranderingen (vooral naar een uitvoering vooreigen verzekerden). Ten slotte verhoogt de declaratie op cliëntniveau de kwaliteit van de gegevensuitwisseling via de AZR. Dit heeft ook effect op processen zoals de oplegging van de eigen bijdrage door het CAK en de kwaliteit van de wachtlijstgegevens.
 
-In de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641&wetgeving) NR/CA-300-019 stelt de NZa eisen aan de wijze van declareren van intramurale en extramurale prestaties in 2014.
+In de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641) NR/CA-300-019 stelt de NZa eisen aan de wijze van declareren van intramurale en extramurale prestaties in 2014.
 
-In 2014 moeten zorgaanbieders de declaratie van geleverde productie op cliëntniveau indienen ([artikel 4.1 NR/CA-300-019](494889))3De bekostiging van de zorgaanbieders vindt nog plaats op basis van bevoorschotting en nog niet op basis van betaling van geleverde productie achteraf.. Dit houdt in dat de declaratie bestaat uit een overzicht van het per cliënt geleverde aantal eenheden per prestatie en het daarbij gehanteerde tarief. Ook moet de declaratie het totaalbedrag per prestatie per declaratieperiode vermelden.
+In 2014 moeten zorgaanbieders de declaratie van geleverde productie op cliëntniveau indienen ([artikel 4.1 NR/CA-300-019](onbekend))3De bekostiging van de zorgaanbieders vindt nog plaats op basis van bevoorschotting en nog niet op basis van betaling van geleverde productie achteraf.. Dit houdt in dat de declaratie bestaat uit een overzicht van het per cliënt geleverde aantal eenheden per prestatie en het daarbij gehanteerde tarief. Ook moet de declaratie het totaalbedrag per prestatie per declaratieperiode vermelden.
 
-Slechts voor een beperkt aantal in de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641&wetgeving) genoemde niet cliëntgebonden prestaties, vindt in 2014 declaratie nog op prestatieniveau plaats ([artikel 4.2 NR/CA-300-019](494889)). Deze volgt het zorgkantoor in de periodieke productiemonitor.
+Slechts voor een beperkt aantal in de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641) genoemde niet cliëntgebonden prestaties, vindt in 2014 declaratie nog op prestatieniveau plaats ([artikel 4.2 NR/CA-300-019](onbekend)). Deze volgt het zorgkantoor in de periodieke productiemonitor.
 
 Op de declaratie op cliëntniveau passen de zorgkantoren uniforme controleregels toe op basis van landelijke afspraken en geven adequate retourinformatie (website www.declarerenawbzzorg.nl).
 
@@ -727,7 +727,7 @@ De concessiehouder besteedt aandacht aan de volgende onderwerpen:
 
 De concessiehouder beschrijft in deze paragraaf van de bestuurlijke verantwoording in hoeverre hij beschikt over een adequate bedrijfsadministratie voor zorg in natura waarin een verband ligt tussen de indicatiebesluiten van AWBZ-verzekerden, de geleverde zorg en de betalingen aan zorgaanbieders.
 
-De administratie van de zorgkantoren moet zijn ingericht op de administratie en declaratie op verzekerdenniveau in 2014. In de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641&wetgeving) NR/CA-300-019 stelt de NZa daartoe eisen aan de wijze van declareren van prestaties. De concessiehouder besteedt in de bestuurlijke verantwoording aandacht aan:
+De administratie van de zorgkantoren moet zijn ingericht op de administratie en declaratie op verzekerdenniveau in 2014. In de [Regeling Declaratievoorschriften AWBZ-zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0033641) NR/CA-300-019 stelt de NZa daartoe eisen aan de wijze van declareren van prestaties. De concessiehouder besteedt in de bestuurlijke verantwoording aandacht aan:
 
 De declaratie van zorg speelt een belangrijke rol bij de budgetfinanciering van de zorgaanbieders en de bevoorschotting. De norm voor tijdigheid en volledigheid van de voorschotbetalingen wordt bepaald door de gemaakte budgetafspraken en specifieke voorschriften van het Zorginstituut en de NZa, die deze circulaires bekendmaken. De concessiehouder verantwoordt zich over:
 
@@ -943,7 +943,7 @@ In de exploitatierekening worden de volgende baten en lasten opgenomen, conform 
 
 ### 5.3.3. Te hanteren modellen
 
-De concessiehouder stelt de financiële verantwoording op volgens de modellen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=1&z=2014-11-07&g=2014-01-01). De modellen sommen de posten en de toelichtingen op die minimaal in de financiële verantwoording moeten worden opgenomen. De concessiehouder stelt de balans op met inachtneming van de bepalingen van model I. Voor de exploitatierekening is model II van toepassing en voor de toelichting op de balans en exploitatierekening gelden de modellen III, IV en V.
+De concessiehouder stelt de financiële verantwoording op volgens de modellen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=1&z=2014-11-07&g=2014-11-07). De modellen sommen de posten en de toelichtingen op die minimaal in de financiële verantwoording moeten worden opgenomen. De concessiehouder stelt de balans op met inachtneming van de bepalingen van model I. Voor de exploitatierekening is model II van toepassing en voor de toelichting op de balans en exploitatierekening gelden de modellen III, IV en V.
 
 ### 6. Aanleverprocedure en vertrouwelijkheid gegevens
 
