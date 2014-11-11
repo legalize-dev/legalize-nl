@@ -4,7 +4,7 @@ identifier: "BWBR0034054"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-03-11"
-last_updated: "2014-03-15"
+last_updated: "2014-11-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034054"
 soort: "ministeriele-regeling"
@@ -52,7 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad;
 
-- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224).
+- **verordening (EU) nr. 748/2012:** verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
+
+- **verordening (EU) nr. 965/2012:** verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad.
 
 #### § 2. Uitvoering
 
@@ -72,7 +74,7 @@ De code voor de individuele referentie, onderdeel van het referentienummer van e
 
 #### § 3. Handhaving
 
-#### § 4. Slotbepalingen
+#### § 3. Handhaving
 
 ##### Artikel 4.1. (inwerkingtreding)
 
@@ -103,6 +105,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 1. Voorschriften als bedoeld in [artikel 1.6 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.6) zijn artikel 5, eerste, tweede, vierde en vijfde lid, van de basisverordening juncto artikel 2, bijlage I, paragraaf 21.B.320 of subdeel H, van verordening (EU) nr. 748/2012.
 
 2. Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een misdrijf.
+
+#### § 4. Slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2.3. (aanvraag AOC)
+
+Een aanvraag voor een certificaat als bedoeld in ORO.GEN.115 van verordening (EU) nr. 965/2012 wordt ingediend bij de bevoegde autoriteit door middel van een volledig ingevuld en ondertekend aanvraagformulier waarvan exemplaren bij de bevoegde autoriteit te verkrijgen zijn.
 
 #### § 4. Slotbepalingen
 
