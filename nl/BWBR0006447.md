@@ -4,7 +4,7 @@ identifier: "BWBR0006447"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2012-12-01"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006447"
 soort: "AMvB"
@@ -63,7 +63,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 Het is verboden te handelen in strijd met artikel 67, eerste lid, en bijlage XVII van verordening (EG) 1907/2006, voor zover de daarin opgenomen voorschriften betrekking hebben op:
 
-- a. de in kolom 1 van die bijlage onder de nummers 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 20, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 40, 43, 45, 46, 48, 51, 52, 54, 55, 56, 57, 59, punt 1 van de bijbehorende kolom 2, en 61, aangeduide stoffen, groepen van stoffen of mengsels;
+- a. de in kolom 1 van die bijlage onder de nummers 2, 3, 4, 5, 7, 8, 9, 10, 11, 16, 17, 20, 23, punt 10 van de bijbehorende kolom 2, 27, 28, 29, 30, 32, 34, 35, 36, 37, 38, 40, 43, 45, 46, 48, 51, 52, 54, 55, 56, 57, 59, punt 1 van de bijbehorende kolom 2, 61 en 63, aangeduide stoffen, groepen van stoffen of mengsels;
 
 - b. de in kolom 1 van die bijlage onder nummer 31 aangeduide stoffen, groepen van stoffen of mengsels, in samenhang met uitsluitend het behandelde hout, bedoeld in punt 3 van de bijbehorende in kolom 2 van die bijlage opgenomen beperkingsvoorwaarden.
 
