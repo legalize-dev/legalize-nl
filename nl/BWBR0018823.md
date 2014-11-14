@@ -4,7 +4,7 @@ identifier: "BWBR0018823"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-03-01"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018823"
 soort: "AMvB"
@@ -72,17 +72,15 @@ Hebben goedgevonden en verstaan:
 
 - b. **hygiënecode**: een in Nederland opgestelde nationale gids voor goede praktijken inzake hygiëne en de toepassing van HACCP-beginselen als bedoeld in artikel 7 van [verordening (EG) 852/2004](32004R0852);
 
-- c. **richtlijn 96/3/Euratom, EGKS, EG**: [richtlijn nr. 96/3](31996L0003)/Euratom, EGKS, EG van de Commissie van de Europese Gemeenschappen van 26 januari 1996 (PbEG L 21) inzake een afwijking van enkele bepalingen van [richtlijn 93/43/EEG](31993L0043) van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer van vloeibare oliën en vetten over zee;
+- c. **richtlijn 98/28/EG**: [richtlijn nr. 98/28/EG](31998L0028) van de Commissie van de Europese Gemeenschappen van 29 april 1998 (PbEG L 140) inzake een afwijking van enkele bepalingen van [richtlijn 93/43/EEG](31993L0043) van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer over zee van ruwe suiker;
 
-- d. **richtlijn 98/28/EG**: [richtlijn nr. 98/28/EG](31998L0028) van de Commissie van de Europese Gemeenschappen van 29 april 1998 (PbEG L 140) inzake een afwijking van enkele bepalingen van [richtlijn 93/43/EEG](31993L0043) van de Raad inzake levensmiddelenhygiëne voor het bulkvervoer over zee van ruwe suiker;
+- d. **verordening (EG) 853/2004**: [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
 
-- e. **verordening (EG) 853/2004**: [verordening (EG) nr. 853/2004](32004R0853) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);
+- e. **verordening (EG) 854/2004**: [verordening (EG) nr. 854/2004](32004R0854) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226);
 
-- f. **verordening (EG) 854/2004**: [verordening (EG) nr. 854/2004](32004R0854) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU L 139 en L 226);
+- f. **verordening (EG) 882/2004**: [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191);
 
-- g. **verordening (EG) 882/2004**: [verordening (EG) nr. 882/2004](32004R0882) van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en L 191);
-
-- h. **verordening (EG) 2073/2005**: [verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).
+- g. **verordening (EG) 2073/2005**: [verordening (EG) nr. 2073/2005](32005R2073) van de Commissie van de Europese Gemeenschappen van 15 november 2005 inzake microbiologische criteria voor levensmiddelen (PbEU L 338).
 
 2. Dit besluit is niet van toepassing op:
 
@@ -110,9 +108,9 @@ Hebben goedgevonden en verstaan:
 
 3. Het is verboden te handelen in strijd met de artikelen 3, 4, 5, eerste, tweede en vierde lid, 6, eerste lid, 7, en 9, van [verordening (EG) 2073/2005](32005R2073).
 
-4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2014-03-01&g=2014-03-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2014-03-01&g=2014-03-01) vastgestelde regels.
+4. Het is verboden te handelen in strijd met de krachtens de [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=3&z=2014-11-14&g=2014-11-14), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10&z=2014-11-14&g=2014-11-14) vastgestelde regels.
 
-5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2014-03-01&g=2014-03-01).
+5. Het is verboden rauwe koemelk, bestemd voor rechtstreekse menselijke consumptie, te verhandelen, anders dan met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=8&z=2014-11-14&g=2014-11-14).
 
 ##### Artikel 3
 
@@ -186,13 +184,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 5
 
-1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-03-01&g=2014-03-01).
+1. De exploitant van een levensmiddelenbedrijf wordt bij controle door een met het toezicht op de naleving van [verordening (EG) 852/2004](32004R0852) belaste ambtenaar, vóóraf door die ambtenaar in de gelegenheid gesteld te kennen te geven of door dat bedrijf gebruik wordt gemaakt van de voor zijn sector van de levensmiddelenbranche vastgestelde en goedgekeurde hygiënecode, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14).
 
 2. De exploitant van een levensmiddelenbedrijf, die gebruik maakt van de hygiënecode, bedoeld in het eerste lid:
 
-- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-03-01&g=2014-03-01), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
+- a. voldoet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), indien hij handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben;
 
-- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-03-01&g=2014-03-01), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
+- b. voldoet niet aan de artikelen 3, 4 of 5 van [verordening (EG) 852/2004](32004R0852), bedoeld in [artikel 4, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), indien hij niet handelt volgens de voorschriften in die hygiënecode die daarop betrekking hebben.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het gebruik van:
 
@@ -206,7 +204,7 @@ Hebben goedgevonden en verstaan:
 
 In afwijking van artikel 4, tweede lid, van [verordening (EG) 852/2004](32004R0852):
 
-- a. mag het bulkvervoer in zeeschepen van vloeibare oliën of vetten die zullen worden gebruikt voor menselijke consumptie, geschieden met inachtneming van [richtlijn 96/3](31996L0003)/Euratom, EGKS, EG;
+- a. mag het bulkvervoer in zeeschepen van vloeibare oliën of vetten die zullen worden gebruikt voor menselijke consumptie, geschieden met inachtneming van Verordening (EU) nr. 579/2014 van de Commissie van 28 mei 2014 inzake een afwijking van enkele bepalingen van bijlage II bij Verordening (EG) nr. 852/2004 van het Europees Parlement en de Raad wat betreft het vervoer van vloeibare oliën en vetten over zee (PbEU 2014, L 160);
 
 - b. mag het bulkvervoer over zee van ruwe suiker die zonder een volledig en effectief raffinageproces te hebben ondergaan niet bestemd is voor gebruik als eetwaar of ingrediënt van een levensmiddel, geschieden met inachtneming van [richtlijn 98/28/EG](31998L0028).
 
@@ -226,7 +224,7 @@ geschiedt op zindelijke wijze en zodanig dat:
 
 - 2°. onder 1° bedoelde organismen zich niet zodanig kunnen vermeerderen of zodanige toxinen kunnen vormen dat zij uit het oogpunt van de gezondheid van de mens schadelijk kunnen zijn of worden.
 
-2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-03-01&g=2014-03-01), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2014-03-01&g=2014-03-01), van overeenkomstige toepassing.
+2. Met betrekking tot het eerste lid kan een hygiënecode worden opgesteld. In dat geval zijn [artikel 4, eerste lid, tweede lid, onder a, b en d, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), en [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=2&artikel=5&z=2014-11-14&g=2014-11-14), van overeenkomstige toepassing.
 
 #### § 5. Rauwe melk
 
@@ -270,17 +268,11 @@ De Nederlandse Voedsel- en Warenautoriteit is bevoegd de toestemming te verlenen
 
 ##### Artikel 10
 
-Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2014-03-01&g=2014-03-01), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 852/2004](32004R0852), [853/2004](32004R0853), [854/2004](32004R0854) of [882/2004](32004R0882) gestelde voorschriften.
+Onze Minister stelt nadere regels inzake de [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=1&artikel=1&z=2014-11-14&g=2014-11-14), voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens [verordeningen (EG) 852/2004](32004R0852), [853/2004](32004R0853), [854/2004](32004R0854) of [882/2004](32004R0882) gestelde voorschriften.
 
 ##### Artikel 11
 
-Een wijziging van:
-
-- a. [richtlijn 96/3](31996L0003)/Euratom, EGKS, EG; of
-
-- b. [richtlijn 98/28/EG](31998L0028);
-
-gaat voor de toepassing van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=3&artikel=6&z=2014-03-01&g=2014-03-01) gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+Een wijziging van richtlijn 98/28/EG gaat voor de toepassing van artikel 6 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 #### § 6. Slotbepalingen
 
@@ -316,7 +308,7 @@ Wijzigt het Warenwetbesluit Uitvoer van waren.
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2006.
 
-2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2014-03-01&g=2014-03-01) vervalt met ingang van 1 januari 2010.
+2. [Artikel 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0018823&paragraaf=5&artikel=10a&z=2014-11-14&g=2014-11-14) vervalt met ingang van 1 januari 2010.
 
 ##### Artikel 20
 
