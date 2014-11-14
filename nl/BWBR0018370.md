@@ -4,7 +4,7 @@ identifier: "BWBR0018370"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-07-01"
-last_updated: "2014-01-01"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018370"
 soort: "AMvB"
@@ -56,15 +56,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 - a. verpakking: artikel dat
 
-- 1°. wordt gebruikt voor het verpakken, het anderszins geheel of gedeeltelijk omhullen dan wel het op enige wijze aanbieden van eet- of drinkwaren, hetzij in rechtstreekse aanraking met die waren, hetzij zodanig dat onder normale omstandigheden stoffen aan die waren kunnen worden afgegeven; of
+- 1°. wordt gebruikt voor het verpakken, het anderszins geheel of gedeeltelijk omhullen dan wel het op enige wijze aanbieden van eet- of drinkwaren, hetzij in rechtstreekse aanraking met die waren, hetzij zodanig dat onder normale omstandigheden stoffen aan die waren kunnen worden afgegeven;
 
-- 2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde;
+- 2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde; of
+
+- 3°. redelijkerwijs kan worden geacht bij normaal of te verwachten gebruik met levensmiddelen in contact te komen of aan levensmiddelen hun bestanddelen af te geven;
 
 - b. gebruiksartikel: technisch voortbrengsel dat
 
-- 1°. wordt gebruikt in rechtstreekse aanraking met eet- of drinkwaren; of
+- 1°. wordt gebruikt in rechtstreekse aanraking met eet- of drinkwaren;
 
-- 2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde;
+- 2°. is bestemd voor gebruik overeenkomstig het onder 1° bepaalde; of
+
+- 3°. redelijkerwijs kan worden geacht bij normaal of te verwachten gebruik met levensmiddelen in contact te komen of aan levensmiddelen hun bestanddelen af te geven;
 
 - c. [verordening (EG) 1935/2004](32004R1935): [verordening (EG) nr. 1935/2004](32004R1935) van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 inzake materialen en voorwerpen bestemd om met levensmiddelen in contact te komen en houdende intrekking van de [richtlijnen 80/590/EEG](31980L0590) en [89/109/EEG](31989L0109) (PbEU L 338);
 
@@ -72,9 +76,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2014-01-01&g=2014-01-01), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2014-01-01&g=2014-01-01).
+1. Het is verboden te handelen in strijd met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2014-11-14&g=2014-11-14), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=5&z=2014-11-14&g=2014-11-14).
 
-2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2014-01-01&g=2014-01-01), gestelde regels.
+2. Het is verboden te handelen in strijd met de krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2014-11-14&g=2014-11-14), gestelde regels.
 
 3. Het is verboden te handelen in strijd met de bij artikel 3, eerste en tweede lid, artikel 4, tweede tot en met zesde lid, artikel 15, eerste, derde, vierde, zevende, achtste en negende lid, artikel 17 en de krachtens artikel 5, eerste lid, van verordening (EG) 1935/2004 gestelde voorschriften.
 
@@ -90,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder
 
 - c. bevindt zich in zindelijke staat.
 
-2. Stoffen, afkomstig van materialen als bedoeld in het eerste lid, onder a, worden niet gerekend tot de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2014-01-01&g=2014-01-01), of een gebruiksartikel, bedoeld in artikel 1, onder b, 1°.
+2. Stoffen, afkomstig van materialen als bedoeld in het eerste lid, onder a, worden niet gerekend tot de in eet- of drinkwaren aanwezige stoffen voor zover deze aan die waren zijn afgegeven door een verpakking bedoeld in [artikel 1, onder a, 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=1&z=2014-11-14&g=2014-11-14), of een gebruiksartikel, bedoeld in artikel 1, onder b, 1°.
 
 ##### Artikel 4
 
@@ -130,7 +134,7 @@ Dit besluit is niet van toepassing op
 
 ##### Artikel 8
 
-Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2014-01-01&g=2014-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2014-01-01&g=2014-01-01) van dit besluit.
+Na de inwerkingtreding van dit besluit, berust de [Regeling Verpakkingen- en gebruiksartikelen (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003276) op [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=3&z=2014-11-14&g=2014-11-14) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018370&artikel=4&z=2014-11-14&g=2014-11-14) van dit besluit.
 
 ##### Artikel 9
 
