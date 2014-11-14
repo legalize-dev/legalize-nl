@@ -4,7 +4,7 @@ identifier: "BWBR0006448"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-11-14"
-last_updated: "2010-05-13"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006448"
 soort: "AMvB"
@@ -62,9 +62,9 @@ In dit besluit wordt verstaan onder:
 
 - 6°. preparaten waarvan de verpakking krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220) van een etikettering moet zijn voorzien;
 
-- b. kinderveilige sluiting: een sluiting die, aangebracht op de verpakking, voldoet aan de norm ISO 8317 van 1 juli 1989;
+- b. kinderveilige sluiting: een sluiting die, aangebracht op de verpakking, voldoet aan NEN-EN-ISO 8317:2004 / C1:2007;
 
-- c. voelbare gevaarsaanduiding: een aanduiding die voldoet aan de norm EN 272 van 20 augustus 1989.
+- c. voelbare gevaarsaanduiding: een aanduiding die voldoet aan NEN-EN-ISO 11683:1997.
 
 ##### Artikel 2
 
@@ -72,21 +72,21 @@ In dit besluit wordt verstaan onder:
 
 2. Het is verboden huishoudchemicaliën te verhandelen anders dan met inachtneming van de voorschriften, bij dit besluit gesteld met betrekking tot hun aanduiding of het bezigen van vermeldingen of voorstellingen.
 
-3. Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=6&z=2010-05-13&g=2010-05-13).
+3. Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=6&z=2014-11-14&g=2014-11-14).
 
 ##### Artikel 3
 
-1. De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13) is voorzien van een kinderveilige sluiting.
+1. De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14) is voorzien van een kinderveilige sluiting.
 
-2. Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), die worden verhandeld als aërosol als bedoeld in het Aërosolenbesluit (Warenwet).
+2. Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), die worden verhandeld als aërosol als bedoeld in het [Warenwetbesluit drukverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007965).
 
 ##### Artikel 4
 
-De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), is voorzien van een voelbare gevaarsaanduiding.
+De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), is voorzien van een voelbare gevaarsaanduiding.
 
 ##### Artikel 5
 
-De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13), mag
+De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), mag
 
 - -. geen vorm hebben of afbeelding dragen die de actieve nieuwsgierigheid van kinderen kan wekken of prikkelen, of de gebruikers in verwarring kan brengen ten aanzien van de aard van het produkt;
 
@@ -96,13 +96,13 @@ De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a*
 
 1. Degene die huishoudchemicaliën waarvan de verpakking moet zijn voorzien van een kinderveilige sluiting, voor het eerst in de handel brengt, is in het bezit van een certificaat waaruit blijkt dat:
 
-- -. de sluiting, aangebracht op de verpakking, voldoet aan de norm, bedoeld in [artikel 1, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2010-05-13&g=2010-05-13);
+- -. de sluiting, aangebracht op de verpakking, voldoet aan de norm, bedoeld in [artikel 1, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14);
 
 - -. de toegepaste sluiting zodanig is, dat het niet noodzakelijk is de doeltreffendheid van de kinderveilige sluiting te onderzoeken volgens genoemde norm.
 
 2. Het eerste lid is niet van toepassing indien de verpakking slechts met behulp van een stuk gereedschap kan worden geopend.
 
-3. Een certificaat als bedoeld in het eerste lid moet zijn afgegeven door een instelling die voldoet aan de norm EN 45000-serie.
+3. Een certificaat als bedoeld in het eerste lid moet zijn afgegeven door een instelling die voldoet aan NEN-EN-ISO/IEC 17025:2005.
 
 ##### Artikel 7
 
