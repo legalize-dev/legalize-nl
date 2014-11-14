@@ -4,7 +4,7 @@ identifier: "BWBR0007965"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-11-14"
-last_updated: "2010-04-29"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007965"
 soort: "AMvB"
@@ -106,21 +106,21 @@ Een houder of een aërosol is zodanig samengesteld dat bij redelijkerwijs te ver
 
 ##### Artikel 5
 
-Indien een aërosol bestemd is om te worden gebruikt in een laboratorium en tevens de nominale inhoud niet meer bedraagt dan één liter, mogen de in [artikel 4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2010-04-29&g=2010-04-29), bedoelde aanduidingen in plaats van in de Nederlandse taal worden gesteld in de Franse, Duitse of Engelse.
+Indien een aërosol bestemd is om te worden gebruikt in een laboratorium en tevens de nominale inhoud niet meer bedraagt dan één liter, mogen de in [artikel 4, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), bedoelde aanduidingen in plaats van in de Nederlandse taal worden gesteld in de Franse, Duitse of Engelse.
 
 ##### Artikel 6
 
-Op een aërosol, verpakking daarvan of op een daarop bevestigd etiket of op labels gehecht aan aërosols, worden vermeldingen en aanduidingen die verward kunnen worden met teken «3» (omgekeerde epsilon) zoals in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2010-04-29&g=2010-04-29), bedoeld, niet gebezigd.
+Op een aërosol, verpakking daarvan of op een daarop bevestigd etiket of op labels gehecht aan aërosols, worden vermeldingen en aanduidingen die verward kunnen worden met teken «3» (omgekeerde epsilon) zoals in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), bedoeld, niet gebezigd.
 
 ##### Artikel 7
 
-Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot houders of aërosols is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2010-04-29&g=2010-04-29), worden aangewezen de onderzoeksmethoden, opgenomen in de bijlage bij de richtlijn.
+Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot houders of aërosols is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14), worden aangewezen de onderzoeksmethoden, opgenomen in de bijlage bij de richtlijn.
 
 #### § 3. Frisdrankflessen
 
 ##### Artikel 8
 
-1. Een verpakking die een koolzuur houdende drinkwaar als bedoeld in het [Warenwetbesluit Frisdranken](https://wetten.overheid.nl/jci1.3:c:BWBR0007501) bevat dan wel daarvoor is bestemd, moet:
+1. Een verpakking die een koolzuur houdende drinkwaar bevat dan wel daarvoor is bestemd, moet:
 
 - a. zodanig zijn voor wat betreft aard en samenstelling en andere eigenschappen van materiaal, vorm, afmetingen, gewicht, volume en barstdruk,
 
@@ -144,11 +144,11 @@ Dit besluit berust mede op de [artikelen 9.2.3.1, derde en vierde lid](https://w
 
 ##### Artikel 11
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2010-04-29&g=2010-04-29) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, met uitzondering van [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Bestrijdingsmiddelen in de vorm van aërosols, die vóór de datum van inwerkingtreding van dit besluit voor het eerst zijn verhandeld, mogen nog tot 24 maanden na die inwerkingtreding worden verhandeld.
 
-3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2010-04-29&g=2010-04-29), [4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2010-04-29&g=2010-04-29), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2010-04-29&g=2010-04-29), maakt Onze Minister bekend in de **Staatscourant**; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
+3. Een wijziging van de bijlage bij de richtlijn, voor de toepassing van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14), [4, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007965&paragraaf=2&artikel=7&z=2014-11-14&g=2014-11-14), maakt Onze Minister bekend in de **Staatscourant**; hij vermeldt daarbij met ingang van welke datum de wijziging moet worden toegepast.
 
 ##### Artikel 12
 
