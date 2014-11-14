@@ -4,7 +4,7 @@ identifier: "BWBR0006310"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-12-14"
-last_updated: "2014-01-01"
+last_updated: "2014-11-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006310"
 soort: "AMvB"
@@ -62,11 +62,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2014-01-01&g=2014-01-01) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
+1. Het is verboden krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006310&artikel=4&z=2014-11-14&g=2014-11-14) aangewezen eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen.
 
 2. Het is verboden eet- of drinkwaren binnen Nederlands grondgebied te brengen of te verhandelen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
 3. Het is verboden te handelen in strijd met een bepaling uit een bindend EG-besluit, voor zover het een verordening betreft en overtreding van die bepaling door Onze Minister is aangeduid als strafbaar feit.
+
+4. Het is verboden te handelen in strijd met artikel 6 van verordening (EG) nr. 669/2009 van de Commissie van 24 juli 2009 ter uitvoering van Verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad wat betreft meer uitgebreide officiële controles op de invoer van bepaalde diervoeders en levensmiddelen van niet-dierlijke oorsprong en tot wijziging van Beschikking 2006/504/EG (PbEU 2006, L 194).
 
 ##### Artikel 3
 
@@ -74,7 +76,7 @@ Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verh
 
 ##### Artikel 4
 
-Onze Minister stelt, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, ter uitvoering van:
+Onze Minister stelt ter uitvoering van:
 
 - a. [Richtlijn 97/78/EG](31997L0078);
 
