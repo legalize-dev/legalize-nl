@@ -4,7 +4,7 @@ identifier: "BWBR0035751"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-11-15"
-last_updated: "2007-07-02"
+last_updated: "2014-11-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035751"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ De Minister en de belanghebbende, indien gewenst bijgestaan door een raadsman, v
 
 ##### Artikel 4. Richtlijnen en procedure
 
-1. Indien het overleg, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035751&artikel=3&z=2014-11-15&g=2007-07-02), niet leidt tot overeenstemming over de berekening van het schadebedrag, maar wel over de aan de schadeberekening ten grondslag liggende uitgangspunten, wordt met inachtneming van die uitgangspunten de schade berekend. Deze berekening wordt verricht door een na overleg met de belanghebbende door de Minister aangewezen onafhankelijk rekenbureau. Vervolgens kent de Minister de belanghebbende de aldus vastgestelde schadevergoeding toe.
+1. Indien het overleg, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035751&artikel=3&z=2014-11-15&g=2014-11-15), niet leidt tot overeenstemming over de berekening van het schadebedrag, maar wel over de aan de schadeberekening ten grondslag liggende uitgangspunten, wordt met inachtneming van die uitgangspunten de schade berekend. Deze berekening wordt verricht door een na overleg met de belanghebbende door de Minister aangewezen onafhankelijk rekenbureau. Vervolgens kent de Minister de belanghebbende de aldus vastgestelde schadevergoeding toe.
 
 2. Indien belanghebbende en de Minister geen overeenstemming bereiken over de vaststelling van de schade en de aan de schadeberekening ten grondslag liggende uitgangspunten, wordt – tenzij belanghebbende te kennen geeft de aanvraagprocedure niet verder te willen vervolgen – advies gevraagd over de uitgangspunten aan een door de Minister ingestelde commissie. Deze commissie bestaat uit een onafhankelijk voorzitter, niet werkzaam voor het Ministerie van Defensie en twee leden waarvan één lid wordt benoemd op voordracht van de centrales van overheidspersoneel. De commissie wordt ondersteund door een ambtelijk secretaris.
 
