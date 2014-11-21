@@ -4,7 +4,7 @@ identifier: "BWBR0015939"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-26"
-last_updated: "2008-09-17"
+last_updated: "2014-11-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015939"
 soort: "AMvB"
@@ -52,7 +52,9 @@ Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet haven
 
 - a. het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;
 
-- b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).
+- b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44);
+
+- c. het op 23 februari 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie (Trb. 2005, 329).
 
 ##### Artikel 2
 
