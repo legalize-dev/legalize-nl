@@ -4,7 +4,7 @@ identifier: "BWBR0013131"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2014-02-13"
+last_updated: "2014-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013131"
 soort: "AMvB"
@@ -52,21 +52,21 @@ Hebben goedgevonden en verstaan:
 
 2. Het bruto maandsalaris behorende bij de functies van voorzitter van het bestuur van een gerechtshof, voorzitter van het bestuur van de Centrale Raad van Beroep en voorzitter van het bestuur van het College van Beroep voor het bedrijfsleven is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 3 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
 
-3. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van de rechtbank Amsterdam, Den Haag, Oost-Nederland of Rotterdam is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 3 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
+3. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van de rechtbank Amsterdam, Den Haag of Rotterdam is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 3 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
 
 4. Het bruto maandsalaris behorende bij de functie van voorzitter van het bestuur van een rechtbank, anders dan genoemd in het derde lid, is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 4 zijn ingedeeld, vermeerderd met een bedrag van € 181,51.
 
-5. Het bruto maandsalaris behorende bij de functie van rechterlijk lid, niet zijnde voorzitter, van het bestuur van een gerechtshof, de rechtbank Amsterdam, Den Haag, Oost-Nederland of Rotterdam, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 5 zijn ingedeeld.
+5. Het bruto maandsalaris behorende bij de functie van rechterlijk lid, niet zijnde voorzitter, van het bestuur van een gerechtshof, de rechtbank Amsterdam, Den Haag of Rotterdam, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 5 zijn ingedeeld.
 
 6. Het bruto maandsalaris behorende bij de functie van rechterlijk lid, niet zijnde voorzitter, van het bestuur van een rechtbank, anders dan genoemd in het vijfde lid, is gelijk aan dat behorende bij de ambten die in [artikel 7, tweede lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7) in categorie 6 zijn ingedeeld.
 
-7. Voor de niet-rechterlijke leden van de besturen van de rechtbanken Amsterdam, Den Haag, Oost-Nederland en Rotterdam geldt salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
+7. Voor de niet-rechterlijke leden van de besturen van de rechtbanken Amsterdam, Den Haag en Rotterdam geldt salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 8. Voor de niet-rechterlijke leden van de besturen van de gerechtshoven, de rechtbanken, anders dan die genoemd in het zevende lid, de Centrale Raad van Beroep en het College van Beroep voor het bedrijfsleven geldt salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B).
 
 9. Voor de rechterlijk ambtenaar met rechtspraak belast die of het lid met rechtspraak belast dat is aangesteld voor een minder dan volledige arbeidsduur of voor wie de arbeidsduur op basis van [artikel 8b, eerste lid, van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=8b) is vastgesteld op meer dan gemiddeld 36 uren per week, wordt het salaris behorende bij een in het eerste tot en met zesde lid bedoelde functie vermenigvuldigd met de voor hem als rechterlijk ambtenaar met rechtspraak belast of lid met rechtspraak belast geldende arbeidsduurfactor.
 
-10. Het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) is, met uitzondering van de [artikelen 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=1), [5, tweede, derde en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5a), [7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=24) van overeenkomstige toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de directeuren bedrijfsvoering bij de gerechten.
+10. Het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630) is, met uitzondering van de [artikelen 1, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=1), [5, tweede, derde en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=5a), [7, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=7), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=8), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&artikel=24) van overeenkomstige toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de niet-rechterlijke leden van de besturen van de gerechten.
 
 ##### Artikel 2
 
@@ -92,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 4. In afwijking van het tweede lid worden de in de op de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) berustende bepalingen aan Onze Minister toegekende bevoegdheden tot het stellen van regels, de daarin aan Onze Minister toegekende bevoegdheden tot het verlenen van mandaat van een bevoegdheid tot het stellen van regels met een sterk technisch karakter, de daarin aan Onze Minister toegekende bevoegdheden tot het doen van een voordracht voor een regeling, alsmede de in de [artikelen 113 tot en met 117 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=113) aan Onze Minister toegekende bevoegdheden, ten aanzien van de niet-rechterlijke leden van de gerechtsbesturen uitgeoefend door de Raad voor de rechtspraak.
 
-5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2014-02-13&g=2014-02-13), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
+5. Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing op de uitoefening van de bevoegdheden in de ingevolge [artikel 1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=1&z=2014-11-22&g=2014-11-22), overeenkomstig toepasselijke bepalingen van het [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630).
 
 6. [Artikel 98, eerste lid, onderdeel g, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=98) is niet van toepassing op de niet-rechterlijke leden van de Raad voor de rechtspraak en de niet-rechterlijke leden van de gerechtsbesturen.
 
@@ -136,19 +136,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9a
 
-1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-02-13&g=2014-02-13), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste en tweede lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
+1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-11-22&g=2014-11-22), heeft, wanneer hij voor meer dan 50% van een volledige arbeidsduur ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, maar niet volledig arbeidsongeschikt is, in afwijking van artikel 9, eerste en tweede lid, na ommekomst van het kalenderjaar waarin de ongeschiktheid is aangevangen en het kalenderjaar daaropvolgend, aanspraak op een onkostenvergoeding die een met zijn arbeidsduur overeenkomend deel bedraagt van de vergoeding die hij zou hebben ontvangen indien hij in het geheel niet ongeschikt tot het verrichten van zijn arbeid wegens ziekte zou zijn.
 
-2. In afwijking van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-02-13&g=2014-02-13), heeft de persoon, bedoeld in artikel 9, eerste of tweede lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
+2. In afwijking van [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-11-22&g=2014-11-22), heeft de persoon, bedoeld in artikel 9, eerste of tweede lid, in geval van volledige arbeidsongeschiktheid wegens ziekte, na ommekomst van het kalenderjaar volgend op dat waarin de arbeidsongeschiktheid is aangevangen, geen aanspraak op een onkostenvergoeding.
 
 ##### Artikel 9b
 
-Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-02-13&g=2014-02-13) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
+Bij regeling van Onze Minister kunnen de in de [artikelen 9 tot en met 9aa](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-11-22&g=2014-11-22) genoemde vergoedingen worden aangepast door middel van toepassing van het geldende prijsindexcijfer, waarbij de bedragen worden afgerond naar de eerstvolgende euro.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 9c
 
-1. Te rekenen vanaf de datum waarop de benoeming van het niet-rechterlijk lid van een gerechtsbestuur, die op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) in vaste dienst is aangesteld, op grond van het verstrijken van de benoemingsduur van zes jaar en het achterwege blijven van een herbenoeming, is geëindigd, worden door het bestuur van het gerecht waarbij hij benoemd was als niet-rechterlijk lid, gedurende een periode van achttien maanden inspanningen verricht om te komen tot plaatsing van hem in een andere passende functie.
+1. Te rekenen vanaf de datum waarop de benoeming van het niet-rechterlijk lid van een gerechtsbestuur, die op basis van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) in vaste dienst is aangesteld, op grond van het verstrijken van de benoemingsduur en het achterwege blijven van een herbenoeming, is geëindigd, worden door het bestuur van het gerecht waarbij hij benoemd was als niet-rechterlijk lid, gedurende een periode van achttien maanden inspanningen verricht om te komen tot plaatsing van hem in een andere passende functie.
 
 2. Het niet-rechterlijk lid, bedoeld in het eerste lid, blijft gedurende de periode dat hij nog niet is geplaatst in een andere passende functie in het genot van het bij zijn benoeming als niet-rechterlijk lid van een gerechtsbestuur behorende salaris.
 
@@ -168,9 +168,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 9aa
 
-1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-02-13&g=2014-02-13), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
+1. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-11-22&g=2014-11-22), heeft, wanneer aan hem voor zijn volledige arbeidsduur buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof geen aanspraak op een onkostenvergoeding.
 
-2. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-02-13&g=2014-02-13), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
+2. De persoon, bedoeld in [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013131&artikel=9&z=2014-11-22&g=2014-11-22), heeft, wanneer aan hem voor 50% of meer van de arbeidsduur waarvoor hij is aangesteld buitengewoon verlof, al dan niet met behoud van bezoldiging, is verleend voor de periode van ten minste een maand, in afwijking van artikel 9, eerste en tweede lid, gedurende de periode van het buitengewoon verlof, aanspraak op de onkostenvergoeding naar rato van het aantal uren dat hij geen buitengewoon verlof geniet.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
