@@ -4,7 +4,7 @@ identifier: "BWBR0033367"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2014-11-22"
-last_updated: "2013-10-19"
+last_updated: "2014-11-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033367"
 soort: "ministeriele-regeling-BES"
@@ -66,7 +66,7 @@ Het bedrag van de bijzondere uitkering integrale projecten is voor 2013 maximaal
 
 ##### Artikel 4. Aanvragen
 
-1. De middelen voor de bijzondere uitkering integrale projecten worden als projectgelden uitgekeerd. Om in aanmerking te komen voor deze gelden, dienen de bestuurscolleges van de openbare lichamen een of meerdere projectvoorstellen in bij de minister van Sociale Zaken en Werkgelegenheid. Het projectvoorstel heeft betrekking op de verwezenlijking van een of meerdere doelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2013-10-19&g=2013-10-19).
+1. De middelen voor de bijzondere uitkering integrale projecten worden als projectgelden uitgekeerd. Om in aanmerking te komen voor deze gelden, dienen de bestuurscolleges van de openbare lichamen een of meerdere projectvoorstellen in bij de minister van Sociale Zaken en Werkgelegenheid. Het projectvoorstel heeft betrekking op de verwezenlijking van een of meerdere doelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22).
 
 2. Voor het indienen van elk van de projectvoorstellen dienen de bestuurscolleges van de openbare lichamen gebruik te maken van een door de Minister ter beschikking gesteld formulier.
 
@@ -76,13 +76,13 @@ Het bedrag van de bijzondere uitkering integrale projecten is voor 2013 maximaal
 
 ##### Artikel 5. Besteding
 
-De bijzondere uitkering integrale projecten wordt door het openbaar lichaam uitsluitend besteed aan een in het ingediende projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2013-10-19&g=2013-10-19).
+De bijzondere uitkering integrale projecten wordt door het openbaar lichaam uitsluitend besteed aan een in het ingediende projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22).
 
 ##### Artikel 6. Niet of niet volledig bestede bijzondere uitkering integrale projecten
 
-1. Het openbaar lichaam kan de niet of niet volledig bestede bijzondere uitkering integrale projecten over het kalenderjaar 2013 eveneens besteden aan een in het projectvoorstel opgenomen doel ten behoeve van het kalenderjaar 2014.
+1. Het openbaar lichaam kan de niet of niet volledig bestede bijzondere uitkering integrale projecten over het kalenderjaar 2013 eveneens besteden aan een in het projectvoorstel opgenomen doel ten behoeve van het kalenderjaar 2014 of 2015.
 
-2. De niet in de kalenderjaren 2013 of 2014 aan een in het projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2013-10-19&g=2013-10-19), bestede bijzondere uitkering integrale projecten wordt in het kalenderjaar 2015 door de Minister teruggevorderd.
+2. De niet in de kalenderjaren 2013, 2014 of 2015 aan een in het projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22), bestede bijzondere uitkering integrale projecten wordt in het kalenderjaar 2016 door de Minister teruggevorderd.
 
 ##### Artikel 7. Informatievoorziening
 
@@ -92,7 +92,7 @@ De openbare lichamen verstrekken desgevraagd aan de Minister de gegevens die hij
 
 1. De openbare lichamen leggen over de besteding van de bijzondere uitkering integrale projecten verantwoording af aan de Minister via de jaarlijkse, door de openbare lichamen, op te stellen jaarrekening, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=31).
 
-2. Het openbaar lichaam vermeldt in de jaarrekening, in de paragraaf verantwoordingsinformatie bijzondere uitkering, bedoeld in [artikel 21, derde lid, onder c, van het Besluit begroting en verantwoording openbare lichamen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&artikel=21), welk bedrag is besteed aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2013-10-19&g=2013-10-19), genoemde doelen.
+2. Het openbaar lichaam vermeldt in de jaarrekening, in de paragraaf verantwoordingsinformatie bijzondere uitkering, bedoeld in [artikel 21, derde lid, onder c, van het Besluit begroting en verantwoording openbare lichamen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&artikel=21), welk bedrag is besteed aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22), genoemde doelen.
 
 ##### Artikel 9. Betaling
 
