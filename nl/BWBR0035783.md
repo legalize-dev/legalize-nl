@@ -4,7 +4,7 @@ identifier: "BWBR0035783"
 country: "nl"
 rank: "zbo"
 publication_date: "2014-11-25"
-last_updated: "2014-01-01"
+last_updated: "2014-11-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035783"
 soort: "zbo"
@@ -36,13 +36,13 @@ Oktober 2014
 
 ### Vooraf
 
-Verbindingskantoren (concessiehouders, zorgkantoren) zijn verplicht om een financieel verslag en een uitvoeringsverslag op te stellen. De Nederlandse Zorgautoriteit (NZa) heeft de voorschriften hiervoor nader uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Verantwoordingsplicht concessiehouders over de uitvoering AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) (Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders).
+Verbindingskantoren (concessiehouders, zorgkantoren) zijn verplicht om een financieel verslag en een uitvoeringsverslag op te stellen. De Nederlandse Zorgautoriteit (NZa) heeft de voorschriften hiervoor nader uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Verantwoordingsplicht concessiehouders over de uitvoering AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) (Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders).
 
 In dit Protocol Accountantsonderzoek 2014 Concessiehouders stelt de NZa regels voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag.
 
 In het Protocol Prestatiemeting AWBZ 2014 Normenkader onderzoek uitvoering AWBZ (Protocol Prestatiemeting AWBZ 2014) is een beperkte wijziging doorgevoerd in de systematiek. De NZa gaat zorgkantoren in 2014 meer beoordelen op behaalde resultaten en minder op de processen. Doel hiervan is beter inzicht te verkrijgen in hoe de zorgkantoren scoren in relatie tot de doelen die bij de maatschappelijke taken in het kader van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (AWBZ) horen. Voor 2014 zijn hiertoe de eerste stappen gezet. Enkele op bedrijfsvoering gerichte prestatie-indicatoren zijn vervangen door outcome-gerichte prestatie-indicatoren.
 
-Deze wijziging vertaalt zich door naar op welke wijze het zorgkantoor zich over deze prestatie-indicatoren moet verantwoorden en ook in beperkte mate naar de voor deze prestatie-indicatoren uit te voeren werkzaamheden door de accountant. Aan de accountant wordt gevraagd om in het kader van zijn opdracht tot het verrichten van specifieke werkzaamheden te onderzoeken of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn nageleefd.
+Deze wijziging vertaalt zich door naar op welke wijze het zorgkantoor zich over deze prestatie-indicatoren moet verantwoorden en ook in beperkte mate naar de voor deze prestatie-indicatoren uit te voeren werkzaamheden door de accountant. Aan de accountant wordt gevraagd om in het kader van zijn opdracht tot het verrichten van specifieke werkzaamheden te onderzoeken of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn nageleefd.
 
 Op verzoek van verschillende partijen staat de NZa het voor het verantwoordingsjaar 2014 onder voorwaarden toe dat voor enkele deelonderzoeken het accountantsproduct wordt afgegeven door een interne accountant.
 
@@ -52,7 +52,7 @@ De NZa maakt een voorbehoud voor wijzigingen die mogelijk in een addendum op dit
 
 ### 1.1. Algemeen
 
-De [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601)1Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 december 2006, nr. Z/M-2730821 houdende nadere regels met betrekking tot de verslaglegging AWBZ. stelt voorschriften voor de inrichting van het financieel verslag en het uitvoeringsverslag van verbindingskantoren (concessiehouders, zorgkantoren). De NZa heeft deze voorschriften nader uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving). Het model bevat voorschriften aan de hand waarvan concessiehouders hun verantwoordingsdocumenten moeten inrichten.
+De [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601)1Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 december 2006, nr. Z/M-2730821 houdende nadere regels met betrekking tot de verslaglegging AWBZ. stelt voorschriften voor de inrichting van het financieel verslag en het uitvoeringsverslag van verbindingskantoren (concessiehouders, zorgkantoren). De NZa heeft deze voorschriften nader uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734). Het model bevat voorschriften aan de hand waarvan concessiehouders hun verantwoordingsdocumenten moeten inrichten.
 
 Op grond van [artikel 31 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=31) (Wmg) kan de NZa regels stellen voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag. De regels voor het accountantsonderzoek en de inhoud en inrichting van het accountantsverslag heeft de NZa vastgelegd in dit Protocol Accountantsonderzoek 2014 Concessiehouders.
 
@@ -98,7 +98,7 @@ De procedure van het onderzoek naar de rechtmatige en doelmatige uitvoering van 
 
 De concessiehouder geeft de accountant opdracht om een onderzoek uit te voeren naar:
 
-Bij deze opdracht vormen het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving), het Protocol Accountantsonderzoek 2014 Concessiehouders en het Protocol Prestatiemeting AWBZ 2014 het uitgangspunt. De NZa voorziet de concessiehouder en de accountant van een exemplaar en stelt deze ook via haar website beschikbaar.
+Bij deze opdracht vormen het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734), het Protocol Accountantsonderzoek 2014 Concessiehouders en het Protocol Prestatiemeting AWBZ 2014 het uitgangspunt. De NZa voorziet de concessiehouder en de accountant van een exemplaar en stelt deze ook via haar website beschikbaar.
 
 De accountant voert zijn onderzoek uit volgens het Protocol Accountantsonderzoek 2014 Concessiehouders. De accountant rapporteert aan de concessiehouder over de uitkomsten van dit onderzoek door middel van een controleverklaring over de getrouwheid en rechtmatigheid en een samenvattende rapportage.
 
@@ -144,7 +144,7 @@ In de bestuurlijke verantwoording legt de concessiehouder verantwoording af over
 
 In het uitvoeringsverslag rapporteert de concessiehouder over de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) in het verantwoordingsjaar en geeft de concessiehouder een overzicht van de voornemens voor de uitvoering van de AWBZ in het daarop volgende jaar. Hierbij maakt de concessiehouder gebruik van kengetallen en indicatoren.
 
-Het normenkader voor deze verantwoordingen wordt gevormd door de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+Het normenkader voor deze verantwoordingen wordt gevormd door de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
 ### 4.2. Het begrippenkader
 
@@ -154,7 +154,7 @@ Voor het onderzoek naar de rechtmatigheid van de financiële verantwoording is d
 
 Rechtmatigheid in algemene zin wil zeggen: in overeenstemming met de relevante wet- en regelgeving. Een proces of de uitkomsten daarvan voldoen wel of niet aan de van kracht zijnde wet- en regelgeving. In die zin is rechtmatigheid een absoluut begrip. De concrete invulling van het begrip is echter afhankelijk van de gekozen normstelling, de aard en reikwijdte van de regelgeving, het soort organisatie en het karakter van het betreffende proces of de uitkomst daarvan. Rechtmatigheid vormt dus een begrip dat gekoppeld is aan het object van onderzoek.
 
-In [hoofdstuk 2 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](515819) is het rechtmatigheidsbegrip in detail uitgewerkt. Hierbij wordt onderscheid gemaakt tussen financiële en procedurele rechtmatigheid en tussen directe en gebruikers-verantwoordelijkheid. Het model geeft ook aan welke randvoorwaarden bij de invulling van het rechtmatigheidsbegrip van toepassing zijn.
+In [hoofdstuk 2 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](onbekend) is het rechtmatigheidsbegrip in detail uitgewerkt. Hierbij wordt onderscheid gemaakt tussen financiële en procedurele rechtmatigheid en tussen directe en gebruikers-verantwoordelijkheid. Het model geeft ook aan welke randvoorwaarden bij de invulling van het rechtmatigheidsbegrip van toepassing zijn.
 
 Bij financiële rechtmatigheid hebben handelingen en beslissingen van een organisatie directe financiële gevolgen. De rechtmatige uitvoering van taken is rechtstreeks gekoppeld aan een geldstroom. Als taken niet rechtmatig worden uitgevoerd, heeft dat financiële consequenties voor de concessiehouder.
 
@@ -166,11 +166,11 @@ Bij gebruikersverantwoordelijkheid moet het zorgkantoor zorgen voor de juiste, v
 
 Om tot een werkbaar rechtmatigheidsbegrip te komen is een aantal randvoorwaarden van belang:
 
-De accountant hanteert de begripsomschrijvingen uit het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) als uitgangspunt voor het rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 3 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3) geeft een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
+De accountant hanteert de begripsomschrijvingen uit het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) als uitgangspunt voor het rechtmatigheidsonderzoek dat hij uitvoert. [Bijlage 3 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3) geeft een limitatieve opsomming van het normenkader voor de rechtmatigheidscontrole door de accountant.
 
 Het rechtmatigheidsbegrip bij de zorgkantoren is gekoppeld aan de specifieke taken en verantwoordelijkheden. Een zorgkantoor verantwoordt zich uitsluitend over taken waarvoor het zorgkantoor verantwoordelijk is en waarbij het zorgkantoor de mogelijkheid heeft om zaken te beïnvloeden of bij te sturen. Als een zorgkantoor deze taken in overeenstemming met de voorschriften van de geldende wet- en regelgeving uitvoert, dan zijn de processen die daaraan zijn gekoppeld en de geldstromen die daaruit voortvloeien rechtmatig. Het zorgkantoor voert de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) dan op een rechtmatige manier uit en de baten en lasten die daarmee samenhangen zijn als rechtmatig aan te merken.
 
-In het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn de taken van de zorgkantoren beschreven. Ook is uiteengezet of deze taken betrekking hebben op financiële of procedurele rechtmatigheid en in welke verantwoordingsdocumenten de concessiehouder zich over deze taken moet verantwoorden. De relatie tussen de taken, procedurele en financiële rechtmatigheid, en de verantwoording daarover door de concessiehouder is in Tabel 1. ‘Relatie tussen taken zorgkantoren, rechtmatigheid en verantwoording’ van dit protocol weergegeven.
+In het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn de taken van de zorgkantoren beschreven. Ook is uiteengezet of deze taken betrekking hebben op financiële of procedurele rechtmatigheid en in welke verantwoordingsdocumenten de concessiehouder zich over deze taken moet verantwoorden. De relatie tussen de taken, procedurele en financiële rechtmatigheid, en de verantwoording daarover door de concessiehouder is in Tabel 1. ‘Relatie tussen taken zorgkantoren, rechtmatigheid en verantwoording’ van dit protocol weergegeven.
 
 ¹ Bij financiële rechtmatigheid hebben handelingen en beslissingen van een organisatie directe financiële gevolgen. De rechtmatige uitvoering is rechtstreeks gekoppeld aan een geldstroom.
 
@@ -216,9 +216,9 @@ Deze taak heeft betrekking op procedurele en financiële rechtmatigheid. Zorgkan
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het leveren van doelmatige zorg binnen de contracteerruimte. Belangrijke criteria hierbij zijn het maken van tijdige productieafspraken, prijsafspraken en het monitoren van indicatiebesluiten en zorglevering.
 
-De accountant hanteert voor zijn onderzoek naar het leveren van zorg binnen de contracteerruimte het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het leveren van zorg binnen de contracteerruimte het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant toetst in het kader van de controle van de financiële verantwoording of de concessiehouder in 2014 binnen de reguliere financiële contracteerruimte is gebleven voor de productieafspraken met de door hem gecontracteerde aanbieders. Hij stelt vast of het totaal van de op 1 november 2014 bij de NZa ingediende productieafspraken 2015 binnen de door de NZa vastgestelde contracteerruimte voor 2015 is gebleven en of de gedeclareerde productie 2014 binnen de afspraken is gebleven. Als de concessiehouder niet binnen de contracteerruimte is gebleven heeft dit directe financiële gevolgen (financiële rechtmatigheid).
 
@@ -232,9 +232,9 @@ Zorgkantoren moeten op grond van [artikel 3 sub b van het Besluit aanwijzing adm
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het voeren van een adequate administratie op verzekerdenniveau voor zorg in natura. Belangrijke criteria hierbij zijn:
 
-De accountant hanteert voor zijn onderzoek naar het voeren van een adequate administratie op verzekerdenniveau voor zorg in natura, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het voeren van een adequate administratie op verzekerdenniveau voor zorg in natura, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -244,13 +244,13 @@ Deze taak heeft betrekking op financiële rechtmatigheid.
 
 Zorgkantoren moeten op grond van [artikel 3 sub c van het Besluit aanwijzing administratie-instellingen bijzondere ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0034132&artikel=3) beschikken over een adequate cliëntvolgende bedrijfsadministratie voor het pgb. Deze administratie moet zijn afgestemd op grond van [artikel 44 van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) vastgestelde regels. De regelgeving voor pgb is vastgelegd in paragraaf 2.6 van de Regeling subsidies AWBZ 2014.
 
-De accountant hanteert voor zijn onderzoek naar het voeren van een adequate administratie op verzekerdenniveau voor pgb de regeling subsidies AWBZ 2014, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het voeren van een adequate administratie op verzekerdenniveau voor pgb de regeling subsidies AWBZ 2014, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
 De accountant toetst de rechtmatigheid van de uitgaven die ten laste van de ontvangen subsidie pgb zijn gebracht op basis van het door het Zorginstituut Nederland opgestelde Controle- en incassoprotocol pgb-AWBZ. Dit betekent dat de accountant geen specifiek onderzoek naar de uitgaven pgb hoeft uit te voeren in het kader van dit Protocol Accountantsonderzoek 2014 Concessiehouders.
 
 De accountant toetst de vaststelling van de persoonsgebonden budgetten, de eigen bijdragen, de uitvoering van de controles, de administratieve vooronderzoeken ten behoeve van de huisbezoeken en de uitgevoerde huisbezoeken door het zorgkantoor procedureel. Deze hebben geen effect op de financiële rechtmatigheid omdat dit via de afzonderlijke subsidieverklaring is afgedekt.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -262,9 +262,9 @@ Zorgkantoren moeten op grond van [artikel 3 sub f van het Besluit aanwijzing adm
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het uitvoeren van het bewaken van de continuïteit van zorgverlening. Belangrijke criteria hierbij zijn:
 
-De accountant hanteert voor zijn onderzoek naar het bewaken van de continuïteit van zorgverlening, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het bewaken van de continuïteit van zorgverlening, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -278,9 +278,9 @@ De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft g
 
 Het zorgkantoor moet op basis van risicoanalyse in voldoende mate5Het te hanteren betrouwbaarheids- en nauwkeurigheidspercentage is vermeld in artikel 9 van de NZa Regeling Controle en Administratie AWBZ-verzekeraars. Deze kan naast kwantitatief ook kwalitatief onderbouwd worden., conform [artikel 9 van de NZa Regeling Controle en Administratie AWBZ-verzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0020760&artikel=9), materiële controles bij zorgaanbieders uitvoeren. Het zorgkantoor stelt bij de materiële controles vast:
 
-De accountant hanteert voor zijn onderzoek naar het uitvoeren van materiële controles het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het uitvoeren van materiële controles het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -292,9 +292,9 @@ Zorgkantoren moeten op grond van [artikel 11 lid 3 NZa Regeling Controle en Admi
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het bestrijden van misbruik en oneigenlijk gebruik van AWBZ-gelden. Belangrijke criteria hierbij zijn:
 
-De accountant hanteert voor zijn onderzoek naar het bestrijden van misbruik en oneigenlijk gebruik het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het bestrijden van misbruik en oneigenlijk gebruik het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -306,9 +306,9 @@ Zorgkantoren moeten op grond van de [artikelen 5](https://wetten.overheid.nl/jci
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het onderhouden van een adequate administratieve organisatie en interne beheersing. Belangrijke criteria hierbij zijn:
 
-De accountant hanteert voor zijn onderzoek naar het onderhouden van een adequate administratieve organisatie en interne beheersing, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Prestatiemeting AWBZ 2014.
+De accountant hanteert voor zijn onderzoek naar het onderhouden van een adequate administratieve organisatie en interne beheersing, het normenkader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Prestatiemeting AWBZ 2014.
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouder](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouder](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -324,9 +324,9 @@ De zorgkantoren voeren de volgende formele controles uit om vast te stellen of d
 
 Wanneer naar aanleiding van controles blijkt dat zorg niet voldoet aan de rechtmatigheidseisen, dan mag het zorgkantoor de betreffende zorg niet uit de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) bekostigen. Zo nodig moet het zorgkantoor al betaalde bedragen terugvorderen dan wel de zorgaanbieder de geboekte en gedeclareerde zorg laten corrigeren.
 
-De accountant hanteert voor zijn onderzoek naar het betalen van zorgaanspraken AWBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het betalen van zorgaanspraken AWBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -336,9 +336,9 @@ Deze taak heeft betrekking op financiële rechtmatigheid.
 
 De accountant onderzoekt de volledige, juiste en tijdige doorbelasting aan het Zorginstituut Nederland van de betalingen die rechtstreeks aan zorgaanbieders zijn verricht. De accountant beoordeelt of het niet tijdig of niet volledig doorbelasten van de betalingen duidt op materiële tekortkomingen die effect kunnen hebben op het rechtmatigheidsoordeel. De accountant stelt bij niet-gecorrigeerde, ten onrechte of foutief doorbelaste betalingen vast welke gevolgen deze hebben voor de strekking van zijn controleverklaring.
 
-De accountant hanteert voor zijn onderzoek naar het bij het Zorginstituut Nederland in rekening brengen van schaden AWBZ, het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het bij het Zorginstituut Nederland in rekening brengen van schaden AWBZ, het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -348,9 +348,9 @@ Deze taak heeft betrekking op financiële rechtmatigheid.
 
 De accountant controleert of de rentevergoeding AFBZ juist en volledig in de financiële verantwoording is opgenomen en of het zorgkantoor bij het vaststellen van de renteopbrengsten de regels die bij of krachtens de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) zijn gesteld in aanmerking heeft genomen.
 
-De accountant hanteert voor zijn onderzoek naar het vaststellen van de volledigheid en juistheid van de renteopbrengsten AFBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+De accountant hanteert voor zijn onderzoek naar het vaststellen van de volledigheid en juistheid van de renteopbrengsten AFBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 De accountant neemt ten aanzien van de volgende punten zijn bevindingen expliciet op in het accountantsrapport:
 
@@ -360,9 +360,9 @@ Deze taak heeft betrekking op financiële rechtmatigheid.
 
 De accountant onderzoekt of het zorgkantoor in voldoende mate uitvoering heeft gegeven aan de taak betreffende het toerekenen van beheerskosten AWBZ. Belangrijke criteria hierbij zijn:
 
-De accountant hanteert voor zijn onderzoek naar de rechtmatige toerekening van de beheerskosten AWBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+De accountant hanteert voor zijn onderzoek naar de rechtmatige toerekening van de beheerskosten AWBZ het kader zoals uiteengezet in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
-De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn opgenomen in de bestuurlijke verantwoording.
+De accountant stelt vast of de concessiehouder zich over deze taak in de bestuurlijke verantwoording juist en volledig heeft verantwoord. De concessiehouder heeft zich volledig verantwoord als alle genoemde onderdelen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn opgenomen in de bestuurlijke verantwoording.
 
 Op grond van [bijlage 3 bij artikel 1.4, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3) (WNT) moet de zorgverzekeraar die zich overeenkomstig [artikel 33 van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=33) als zodanig heeft aangemeld voldoen aan de verplichtingen, genoemd in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3) en [4 van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4).
 
@@ -380,25 +380,25 @@ Het financieel beheer is ordelijk als het in overeenstemming is met de in de adm
 
 Financieel beheer is controleerbaar als de beschikbare informatie de controlerende instanties van een organisatie in staat stelt om de besluitvorming en de administratieve verwerking inclusief de interne beheersing te reconstrueren en te beoordelen. Hierdoor kunnen de accountant en de NZa de controle achteraf op een efficiënte manier uitvoeren.
 
-De concessiehouder verantwoordt zich over de ordelijkheid en controleerbaarheid van het financieel beheer in de bestuurlijke verantwoording. Hierin geeft de concessiehouder aan welke maatregelen hij gedurende het jaar heeft getroffen om de rechtmatige uitvoering van de wettelijke taken te waarborgen. In het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn de aandachtspunten voor de verantwoording over het financieel beheer opgenomen. In geval van tekortkomingen geeft de bestuurlijke verantwoording aan wat de invloed daarvan is op de rechtmatigheid en welke verbeteracties ondernomen zijn of worden uitgevoerd.
+De concessiehouder verantwoordt zich over de ordelijkheid en controleerbaarheid van het financieel beheer in de bestuurlijke verantwoording. Hierin geeft de concessiehouder aan welke maatregelen hij gedurende het jaar heeft getroffen om de rechtmatige uitvoering van de wettelijke taken te waarborgen. In het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn de aandachtspunten voor de verantwoording over het financieel beheer opgenomen. In geval van tekortkomingen geeft de bestuurlijke verantwoording aan wat de invloed daarvan is op de rechtmatigheid en welke verbeteracties ondernomen zijn of worden uitgevoerd.
 
 De accountant toetst de verantwoording van de concessiehouder over het gevoerde financieel beheer aan zijn eigen bevindingen uit het onderzoek naar de getrouwheid en de rechtmatigheid van de financiële verantwoording. De accountant geeft zijn bevindingen weer in het rapport van feitelijke bevindingen. Daarbij besteedt hij in ieder geval aandacht aan de volgende aspecten:
 
 ### 4.6. Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag
 
-Deze toetsingscriteria hebben betrekking op de naleving van de voorschriften van het uitvoeringsverslag, zoals uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving). Het gaat om de in het uitvoeringsverslag opgenomen informatie over de taken 1 tot en met 6 en 8.
+Deze toetsingscriteria hebben betrekking op de naleving van de voorschriften van het uitvoeringsverslag, zoals uitgewerkt in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734). Het gaat om de in het uitvoeringsverslag opgenomen informatie over de taken 1 tot en met 6 en 8.
 
-De accountant moet vaststellen of het uitvoeringsverslag is opgesteld in overeenstemming met het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving). Hiervoor maakt hij ook gebruik van de bestuursverklaring. Zijn bevindingen legt hij vast in het rapport van feitelijke bevindingen.
+De accountant moet vaststellen of het uitvoeringsverslag is opgesteld in overeenstemming met het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734). Hiervoor maakt hij ook gebruik van de bestuursverklaring. Zijn bevindingen legt hij vast in het rapport van feitelijke bevindingen.
 
 ### 4.7. Toetsingscriteria voor het onderzoek naar de naleving van de criteria ter bepaling van de outcome-indicatoren.
 
-Deze toetsingscriteria hebben er betrekking op of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn nageleefd. Het gaat om de taken 2 tot en met 5, 9 en 11.
+Deze toetsingscriteria hebben er betrekking op of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn nageleefd. Het gaat om de taken 2 tot en met 5, 9 en 11.
 
 De NZa gaat zorgkantoren in 2014 meer beoordelen op behaalde resultaten en minder op de processen. Doel hiervan is beter inzicht te krijgen hoe zorgkantoren scoren in relatie tot de doelen die bij de maatschappelijke AWBZ-taken horen.
 
-In [paragraaf 3.5 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouder](515819) zijn de outcome-indicatoren voor de taken 2 tot en met 5 nader uitgewerkt. De concessiehouder moet zich over deze outcome-indicatoren verantwoorden in het uitvoeringsverslag.
+In [paragraaf 3.5 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouder](onbekend) zijn de outcome-indicatoren voor de taken 2 tot en met 5 nader uitgewerkt. De concessiehouder moet zich over deze outcome-indicatoren verantwoorden in het uitvoeringsverslag.
 
-In [paragraaf 4.14 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](515819) zijn de outcome-indicatoren voor de taken 9 en 11 nader uitgewerkt. De concessiehouder moet zich over deze outcome-indicatoren verantwoorden in de bestuurlijke verantwoording.
+In [paragraaf 4.14 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](onbekend) zijn de outcome-indicatoren voor de taken 9 en 11 nader uitgewerkt. De concessiehouder moet zich over deze outcome-indicatoren verantwoorden in de bestuurlijke verantwoording.
 
 De accountant stelt vast of de in het uitvoeringsverslag en in de bestuurlijke verantwoording opgenomen outcome-indicatoren aansluiten op de onderliggende registraties en de definities genoemd in de paragrafen 3.5 en 4.14 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders. Van de accountant wordt geen inhoudelijk oordeel verwacht ten aanzien van de outcome-indicatoren. De accountant geeft zijn bevindingen van zijn onderzoek weer in het rapport van feitelijke bevindingen.
 
@@ -412,7 +412,7 @@ Om de mate te kunnen bepalen waarin de rechtmatigheid is gewaarborgd, moet de ac
 
 Bron: Normenkader Auditdienst Rijk
 
-Van een fout in de verantwoording is sprake wanneer gebleken is dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving AWBZ, het Protocol Accountantsonderzoek 2014 Concessiehouders en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+Van een fout in de verantwoording is sprake wanneer gebleken is dat een (gedeelte van een) post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving AWBZ, het Protocol Accountantsonderzoek 2014 Concessiehouders en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
 Een onzekerheid in de verantwoording doet zich voor als gebleken is dat onvoldoende informatie beschikbaar is om een (gedeelte van een) post als rechtmatig of onrechtmatig aan te merken, kortom als onzekerheid bestaat over de (on)rechtmatigheid van de post.
 
@@ -454,7 +454,7 @@ Aan: Opdrachtgever
 
 Wij hebben de (**op pagina xx tot en met pagina yy in dit rapport/verslag opgenomen**) financiële verantwoording 2014 van (**naam concessiehouder**) te (**statutaire vestigingsplaats**) gecontroleerd. Deze financiële verantwoording bestaat uit de balans per 31 december 2014 en de exploitatierekening over 2014 met de toelichting, waarin zijn opgenomen een overzicht van de gehanteerde grondslagen voor financiële verslaggeving en andere toelichtingen.
 
-Het bestuur van (**naam concessiehouder**) is verantwoordelijk voor het opmaken van de financiële verantwoording die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van de bestuurlijke verantwoording, beide in overeenstemming met de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en het [Model uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+Het bestuur van (**naam concessiehouder**) is verantwoordelijk voor het opmaken van de financiële verantwoording die het vermogen en het resultaat getrouw dient weer te geven, alsmede voor het opstellen van de bestuurlijke verantwoording, beide in overeenstemming met de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en het [Model uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
 Het bestuur is tevens verantwoordelijk voor de financiële rechtmatigheid van de in de financiële verantwoording verantwoorde schaden AWBZ (inclusief schaden AWBZ voorgaande jaren), bedrijfsopbrengsten AWBZ en beheerskosten AWBZ. Dit houdt in dat deze bedragen tot stand dienen te zijn gekomen in overeenstemming met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals limitatief opgesomd in [Bijlage 3 van het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3).
 
@@ -468,13 +468,13 @@ Bij het maken van deze risico-inschattingen neemt de accountant de interne behee
 
 Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is om een onderbouwing voor ons oordeel te bieden.
 
-Naar ons oordeel geeft de financiële verantwoording een getrouw beeld van de grootte en de samenstelling van het vermogen van (**naam concessiehouder**) per 31 december 2014 en van het resultaat over 2014 in overeenstemming met de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving).
+Naar ons oordeel geeft de financiële verantwoording een getrouw beeld van de grootte en de samenstelling van het vermogen van (**naam concessiehouder**) per 31 december 2014 en van het resultaat over 2014 in overeenstemming met de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601), de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734).
 
 Voorts zijn wij van oordeel dat de in de financiële verantwoording verantwoorde schaden AWBZ (inclusief schaden AWBZ voorgaande jaren), bedrijfsopbrengsten AWBZ en beheerskosten AWBZ over 2014 voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen tot stand gekomen zijn in overeenstemming met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals limitatief opgesomd in ([Bijlage 3 van) het Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&bijlage=3).
 
 Verder vermelden wij dat de bestuurlijke verantwoording, voor zover wij dat kunnen beoordelen, verenigbaar is met de financiële verantwoording van (**naam concessiehouder**).
 
-De financiële verantwoording is opgesteld voor de Nederlandse Zorgautoriteit en het Zorginstituut Nederland met als doel **(naam concessiehouder)** in staat te stellen te voldoen aan de bepalingen van de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601) en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving). Hierdoor is de verantwoording mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor **(naam concessiehouder)**, de Nederlandse Zorgautoriteit en het Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
+De financiële verantwoording is opgesteld voor de Nederlandse Zorgautoriteit en het Zorginstituut Nederland met als doel **(naam concessiehouder)** in staat te stellen te voldoen aan de bepalingen van de [Regeling verslaglegging AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0020601) en het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734). Hierdoor is de verantwoording mogelijk niet geschikt voor andere doeleinden. Onze controleverklaring is derhalve uitsluitend bestemd voor **(naam concessiehouder)**, de Nederlandse Zorgautoriteit en het Zorginstituut Nederland en dient niet te worden verspreid aan of te worden gebruikt door anderen.
 
 Plaats en datum
 
@@ -512,7 +512,7 @@ In dit deel van de samenvattende rapportage (non-assurance) geeft de accountant 
 
 De accountant kan voor dit deel van het rapport de volgende modeltekst gebruiken:
 
-Wij hebben onze specifieke werkzaamheden verricht in overeenstemming met Nederlands recht, waaronder Standaard 4400 ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie’. Daarbij hebben wij rekening gehouden met de bepalingen en begripsomschrijvingen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) en het Protocol Accountantsonderzoek 2014 Concessiehouders.
+Wij hebben onze specifieke werkzaamheden verricht in overeenstemming met Nederlands recht, waaronder Standaard 4400 ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie’. Daarbij hebben wij rekening gehouden met de bepalingen en begripsomschrijvingen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) en het Protocol Accountantsonderzoek 2014 Concessiehouders.
 
 Het doel van een opdracht tot het verrichten van overeengekomen specifieke werkzaamheden is het verrichten van die werkzaamheden die wij met (naam concessiehouder) zijn overeengekomen en het rapporteren over de feitelijke bevindingen. Aangezien wij slechts verslag doen van feitelijke bevindingen uit hoofde van de overeengekomen werkzaamheden betekent dit dat op het in de bestuurlijke verantwoording en het uitvoeringsverslag opgenomen cijfermateriaal en toelichtingen geen accountantscontrole, beoordelingsopdracht of andere assurance-opdracht is uitgevoerd in overeenstemming met de Nederlandse controle- en overige standaarden. Dit houdt in dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de getrouwheid van het in de bestuurlijke verantwoording en het uitvoeringsverslag opgenomen cijfermateriaal en toelichtingen daarop.
 
@@ -524,9 +524,9 @@ Wij hebben de volgende deelonderzoeken uitgevoerd:
 
 De accountant geeft hier zijn bevindingen weer over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer door de concessiehouder, zoals die zijn verwoord in de bestuurlijke verantwoording (zie paragraaf 4.5 Toetsingscriteria voor het onderzoek naar de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer).
 
-De accountant vermeldt hier de bevindingen van zijn onderzoek naar de naleving van de voorschriften voor het uitvoeringsverslag, zoals opgenomen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) (zie paragraaf 4.6 Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag).
+De accountant vermeldt hier de bevindingen van zijn onderzoek naar de naleving van de voorschriften voor het uitvoeringsverslag, zoals opgenomen in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) (zie paragraaf 4.6 Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag).
 
-De accountant vermeldt hier de bevindingen van zijn onderzoek naar of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734&wetgeving) zijn nageleefd (zie paragraaf 4.7 Toetsingscriteria voor het onderzoek naar de naleving van de criteria ter bepaling van de outcome-indicatoren).
+De accountant vermeldt hier de bevindingen van zijn onderzoek naar of de genoemde criteria ter bepaling van de outcome-indicatoren in het [Model Uitvoeringsverslag en financiële verantwoording 2014 Concessiehouders](https://wetten.overheid.nl/jci1.3:c:BWBR0035734) zijn nageleefd (zie paragraaf 4.7 Toetsingscriteria voor het onderzoek naar de naleving van de criteria ter bepaling van de outcome-indicatoren).
 
 De accountant kan voor de afsluiting van dit deel van het rapport de volgende modeltekst gebruiken:
 
