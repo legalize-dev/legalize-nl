@@ -4,7 +4,7 @@ identifier: "BWBR0035661"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-02-01"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035661"
 soort: "AMvB"
@@ -128,15 +128,15 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3. Overgangsbepalingen
 
-1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-02-01), is niet van toepassing op de ongehuwde pensioengerechtigde die op de dag voor inwerkingtreding van dit besluit recht heeft op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en van wie dat recht als gevolg van de toepassing van artikel 2, eerste lid, zou eindigen, voor zolang dat recht op toeslag duurt.
+1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), is niet van toepassing op de ongehuwde pensioengerechtigde die op de dag voor inwerkingtreding van dit besluit recht heeft op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en van wie dat recht als gevolg van de toepassing van artikel 2, eerste lid, zou eindigen, voor zolang dat recht op toeslag duurt.
 
-2. De ongehuwde pensioengerechtigde, bedoeld in het eerste lid, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-02-01), toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+2. De ongehuwde pensioengerechtigde, bedoeld in het eerste lid, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-3. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het tweede lid, in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-02-01), wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om het eerste lid toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+3. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het tweede lid, in afwijking van het eerste lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om het eerste lid toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-4. De ongehuwde pensioengerechtigde die recht zou hebben op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en voor wie dat recht als gevolg van de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-02-01), niet ontstaat, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om artikel 2, eerste lid, niet toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+4. De ongehuwde pensioengerechtigde die recht zou hebben op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en voor wie dat recht als gevolg van de toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), niet ontstaat, en zijn echtgenoot kunnen de Sociale verzekeringsbank gezamenlijk verzoeken, om artikel 2, eerste lid, niet toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-5. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het vierde lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-02-01), niet wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken om artikel 2, eerste lid, toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
+5. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het vierde lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2014-11-28&g=2014-11-28), niet wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken om artikel 2, eerste lid, toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
 ##### Artikel 4. Inwerkingtreding
 
