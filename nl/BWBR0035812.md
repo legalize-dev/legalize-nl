@@ -4,7 +4,7 @@ identifier: "BWBR0035812"
 country: "nl"
 rank: "wet"
 publication_date: "2014-11-28"
-last_updated: "2013-01-01"
+last_updated: "2014-11-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035812"
 soort: "wet"
@@ -44,15 +44,15 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. [Artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0035812&artikel=I&z=2014-11-28&g=2014-11-28), werkt terug tot en met 1 januari 2013.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Reparatiewet WNT.
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
