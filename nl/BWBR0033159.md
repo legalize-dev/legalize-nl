@@ -4,7 +4,7 @@ identifier: "BWBR0033159"
 country: "nl"
 rank: "wet"
 publication_date: "2014-11-29"
-last_updated: "2013-07-01"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033159"
 soort: "wet"
@@ -77,7 +77,7 @@ Wijzigt de Huisvestingswet.
 
 ##### Artikel IVAD
 
-Wijzigt de Huisvestingswet 20.. (kst. 32271) en deze wet.
+Vervallen
 
 ##### Artikel IVB
 
