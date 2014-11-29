@@ -4,7 +4,7 @@ identifier: "BWBR0006502"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-11-01"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006502"
 soort: "wet"
@@ -168,7 +168,7 @@ Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot
 
 ##### Artikel 8
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-01&g=2014-11-01), wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-01&g=2014-11-01) of terzake bijstand heeft verleend, is vernietigbaar.
+1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29) of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29) of terzake bijstand heeft verleend, is vernietigbaar.
 
 2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
 
@@ -310,11 +310,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod van intimidatie en een verbod van seksuele intimidatie.
 
-2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2014-11-01&g=2014-11-01), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2014-11-29&g=2014-11-29), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
 3. Onder seksuele intimidatie als bedoeld in het eerste lid wordt verstaan: enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-4. Op het in deze wet neergelegde verbod van intimidatie en van seksuele intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-11-01&g=2014-11-01), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-01&g=2014-11-01), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2014-11-01&g=2014-11-01), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-01&g=2014-11-01).
+4. Op het in deze wet neergelegde verbod van intimidatie en van seksuele intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-11-29&g=2014-11-29), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2014-11-29&g=2014-11-29), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-29&g=2014-11-29).
 
 #### § 2. Algemene uitzonderingen
 
@@ -334,7 +334,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-01&g=2014-11-01) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
+1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-29&g=2014-11-29) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
 
 2. Bij algemene maatregel van bestuur kunnen de begrippen sociale bescherming, sociale zekerheid en sociale voordelen, bedoeld in het eerste lid, worden omschreven. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -344,7 +344,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het is verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
 
-2. Het feit dat een persoon het in [artikel 1a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1a&z=2014-11-01&g=2014-11-01), bedoelde gedrag afwijst of lijdzaam ondergaat, mag niet ten grondslag liggen aan een beslissing die die persoon treft.
+2. Het feit dat een persoon het in [artikel 1a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1a&z=2014-11-29&g=2014-11-29), bedoelde gedrag afwijst of lijdzaam ondergaat, mag niet ten grondslag liggen aan een beslissing die die persoon treft.
 
 ##### Artikel 10
 
