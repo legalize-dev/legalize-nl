@@ -4,7 +4,7 @@ identifier: "BWBR0034246"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2014-11-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034246"
 soort: "ministeriele-regeling"
@@ -94,10 +94,24 @@ De [regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 decemb
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2014 met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034246&artikel=5&z=2014-01-01&g=2014-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
+Deze regeling treedt in werking met ingang van 1 januari 2014 met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034246&artikel=5&z=2014-11-29&g=2014-11-29), dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling sectorale bezoldigingsnorm topfunctionarissen zorgverzekeraars.
+
+Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
+
+##### Artikel 3a. Sectorale bezoldigingsnorm en indeling in klassen 2015
+
+1. Voor het kalenderjaar 2015 bedraagt de sectorale bezoldigingsnorm voor zorgverzekeraars met op 1 januari 2015:
+
+- a. minder dan 300.000 verzekerden: € 220.000;
+
+- b. tussen de 300.000 en 1.000.000 verzekerden: € 260.000; en
+
+- c. met meer dan 1.000.000 verzekerden: € 300.000.
+
+2. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034246&artikel=3&z=2014-11-29&g=2014-11-29), is van overeenkomstige toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
