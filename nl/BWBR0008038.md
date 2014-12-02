@@ -4,7 +4,7 @@ identifier: "BWBR0008038"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-06-01"
-last_updated: "2014-11-01"
+last_updated: "2014-12-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008038"
 soort: "ministeriele-regeling"
@@ -83,7 +83,7 @@ Model 6G: Rijbewijs volgens model van de Europese Gemeenschappen (afgegeven m.i.
 
 Model 6H: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 19-01-2013);
 
-Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 1-11-2014);
+Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014);
 
 Model 7A: Nederlands Omwisselingscertificaat basiskwalificatie vakbekwaamheid voor rijbewijscategorie D (afgegeven m.i.v. 10-09-2008);
 
@@ -99,7 +99,7 @@ Model 8a: Begeleiderspas.
 
 ##### Artikel 2
 
-De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2014-11-01&g=2014-11-01) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
+De Minister van Infrastructuur en Milieu kan in afwijking van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008038&artikel=1&z=2014-12-02&g=2014-12-02) besluiten dat model 6F na 1 oktober 2006 gedurende een door hem te bepalen termijn wordt afgegeven en dat model 6G wordt afgegeven met ingang van een door hem te bepalen tijdstip gelegen na 1 oktober 2006.
 
 ##### Artikel 3
 
@@ -317,7 +317,7 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
-### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 1-11-2014).
+### Model 6I: Rijbewijs volgens model van de Europese Unie (afgegeven m.i.v. 14-11-2014).
 
 Deze regeling zal worden geplaatst in de Staatscourant.
 
@@ -339,7 +339,7 @@ Op de microchip worden uitsluitend die gegevens vermeld die ook op het rijbewijs
 
 ##### Artikel 2c
 
-Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 6I wordt ingetrokken, wordt model 6I afgegeven, zonder dat de microchip van dat model is voorzien van gegevens, totdat de microchip weer is voorzien van een EU-typegoedkeuring.
+Indien de EU-typegoedkeuring van het rijbewijs die ten grondslag ligt aan model 6I wordt ingetrokken of dit naar oordeel van de Dienst Wegverkeer noodzakelijk is, wordt model 6I afgegeven, zonder dat de microchip van dat model is voorzien van gegevens, totdat de microchip weer is voorzien van een EU-typegoedkeuring of dit naar oordeel van de Dienst Wegverkeer weer mogelijk is.
 
 ## Bijlage. behorende bij de Regeling vaststelling modellen rijbewijzen en daarmee verband houdende formulieren
 
