@@ -4,7 +4,7 @@ identifier: "BWBR0004140"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-01"
-last_updated: "2006-12-14"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004140"
 soort: "AMvB"
@@ -44,25 +44,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:
+Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in[artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:
 
-- 1°. het Algemeen Burgerlijk Pensioenfonds en het Spoorwegpensioenfonds;
+- 1°. de Stichting Pensioenfonds ABP en het Spoorwegenpensioenfonds;
 
-- 2°. de Sociaal-Economische Raad en de hoofdproduct-, product- de hoofdbedrijf- en de bedrijfschappen, bedoeld in de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) (**Stb.** 1950, K22);
+- 2°. de Sociaal-Economische Raad;
 
-- 3°. het College van toezicht sociale verzekeringen, de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen, bedoeld in de Organisatiewet sociale verzekeringen 1997;
+- 3°. de indicatieorganen, bedoeld in [artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9a);
 
-- 4°. de Nederlandse Zorgautoriteit;
+- 4°. de zorgverzekeraars, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1);
 
-- 5°. Vervallen.
+- 5°. de rechtspersonen, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40);
 
-- 6°. instellingen, in het belang van de volkshuisvesting werkzaam, als toegelaten op grond van [artikel 59 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=59) (**Stb.** 1962, 287);
+- 6°. de keuringsinstellingen, bedoeld in [artikel 87 van de Zaaizaad- en plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=87);
 
-- 7°. de privaatrechtelijke rechtspersonen, bedoeld in [artikel 8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8) (**Stb.** 1971, 371);
-
-- 8°. de keuringsinstellingen, bedoeld in [artikel 87 van de Zaaizaad- en plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=87) (**Stb.** 1966, 455);
-
-- 9°. de Stichting Gezondheidszorg voor Dieren en de als organen van deze stichting aangewezen gezondheidsdiensten (Bekendmaking van het landbouwschap Mb.BO. 1972, nr. 8).
+- 7°. de privaatrechtelijke rechtspersonen, bedoeld in [artikel 8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8).
 
 ##### Artikel 2
 
