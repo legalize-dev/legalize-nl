@@ -4,7 +4,7 @@ identifier: "BWBR0035849"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-23"
-last_updated: "2014-06-18"
+last_updated: "2014-12-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035849"
 soort: "ministeriele-regeling"
@@ -40,8 +40,6 @@ Gelet op [artikel 4 van de Regeling mandaatverlening inzake de bevoegdheid tot h
 
 Besluit:
 
-Werkt terug tot en met het tijdstip waarop de Regeling mandaatverlening inzake de bevoegdheid tot handhaving van de regels m.b.t. indeling, etikettering en verpakking van stoffen en mengsels in werking treedt.
-
 ##### Artikel 1
 
 In deze regeling wordt verstaan onder:
@@ -70,7 +68,7 @@ namens deze:
 
 ##### Artikel 4
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met de dag waarop de [Regeling mandaatverlening inzake bevoegdheid tot handhaving van de regels met betrekking tot indeling, etikettering en verpakking van stoffen en mengsels](https://wetten.overheid.nl/jci1.3:c:BWBR0035209&wetgeving) in werking is getreden.
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met de dag waarop de [Regeling mandaatverlening inzake bevoegdheid tot handhaving van de regels met betrekking tot indeling, etikettering en verpakking van stoffen en mengsels](https://wetten.overheid.nl/jci1.3:c:BWBR0035209) in werking is getreden.
 
 ##### Artikel 5
 
