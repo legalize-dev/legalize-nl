@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2014-10-14"
+last_updated: "2014-12-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -108,41 +108,43 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model I 10. Ferbining kandidatelisten ta listkombinaasje
 
-### Model J 7. Stempas
+### Model J 7
 
 ### Model J 7-1. De technische eisen aan de stempas, de kiezerspas, het volmachtsbewijs en het briefstembewijs
 
-### Model J 16. Kiezershandleiding
+### Model J 7-1. De technische eisen aan de stempas, de kiezerspas, het volmachtsbewijs en het briefstembewijs
 
 (voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
 
 (voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
 
-STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal/Eerste Kamer der Staten-Generaal/provinciale staten van ...../de raad van de gemeente ...../de eilandsraad van het openbaar lichaam ...../het Europees Parlement op ..... [in kieskring ..... (..... )]2Alleen op te nemen, indien het een verkiezing betreft van de leden van de Tweede Kamer of van provinciale staten van een provincie die uit meer dan één kieskring bestaat. Achter ‘kieskring’ het nummer en tussen haakjes de naam van de gemeente waar het hoofdstembureau is gevestigd vermelden.
+(voorzijde)2Op de achterzijde van het stembiljet worden gedrukt:–de handtekening, bedoeld in artikel J 20, eerste lid, dan wel artikel T 2, eerste lid, van de Kieswet, zoveel malen dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft.–de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring. De naam en aanduiding worden aan de bovenzijde gedrukt, zoveel malen dat zij goed zichtbaar is als het stembiljet is dichtgevouwen.,3Indien in een gemeente twee of meer stemmingen gelijktijdig plaatsvinden, worden op de voor- en achterzijde van het stembiljet over de gehele breedte een voor de stemming onderscheidend kenmerk in de vorm van één of meer kleurenbalken gedrukt, zodanig dat het goed zichtbaar is als het stembiljet is open- of dichtgevouwen.
 
-KANDIDATENLIJSTEN3Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. In geval van een lijstencombinatie dient (dienen) onder het nummer en de aanduiding tussen haakjes het (de) nummer(s) van de lijst(en) te worden vermeld waarmee de lijstencombinatie is aangegaan, voorafgegaan door de woorden ‘gecombineerd met’. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd.
+STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal/Eerste Kamer der Staten-Generaal/provinciale staten van ...../ het algemeen bestuur van het waterschap…./ de raad van de gemeente ...../ de eilandsraad van het openbaar lichaam ...../ het Europees Parlement op ..... [in kieskring ..... (..... )]4Alleen op te nemen, indien het een verkiezing betreft van de leden van de Tweede Kamer of van provinciale staten van een provincie die uit meer dan één kieskring bestaat. Achter ‘kieskring’ het nummer en tussen haakjes de naam van de gemeente waar het hoofdstembureau is gevestigd.
 
-enz.4De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
+KANDIDATENLIJSTEN5Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. In geval van een lijstencombinatie dient (dienen) onder het nummer en de aanduiding het (de) nummer(s) van de lijst(en) te worden vermeld waarmee de lijstencombinatie is aangegaan, voorafgegaan door de woorden ‘gecombineerd met’. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd.
+
+### Model K 4. Kiezerspas
 
 ### Model K 4. Kiezerspas
 
-### Model K 4. Kiezerspas
+### Model K 4
 
 ### Model K 6. Verzoek om een kiezerspas
 
 ### Model L 8. Verzoek om bij volmacht te stemmen
 
-### Model L 11. Volmachtbewijs
-
-### Model M 3. Verzoek om per brief te stemmen
+### Model L 11
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
-### Model M 6-2. Briefstembewijs
+### Model M 6-1. (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
 
 ### Model M 6-2. Briefstembewijs
 
 Stembiljet (kleur wit)
+
+### Model M 6-3. Enveloppe voor het stembiljet
 
 ### Model N 10-1. Proces-verbaal van een stembureau
 
@@ -190,8 +192,6 @@ Stembiljet (kleur wit)
 
 ### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
 
-### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
@@ -200,21 +200,39 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage
 
-### Model J 20. Stembiljet
+### Model J 16. Kiezershandleiding
 
-U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
+enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
 
-### Model M 6-1. (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+### Model M 3. Verzoek om per brief te stemmen
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
-### Model M 6-3. Enveloppe voor het stembiljet
+### Model M 6-2. Briefstembewijs
+
+Stembiljet (kleur wit)
+
+### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
+
+Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:
+
+### Model J 20
+
+U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
+
+¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
 Stembiljet (kleur wit)
 
 ### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
 
-## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-12-06&g=2014-12-06) van de Kies- en referendumregeling
 
 Dit onderdeel is nog niet inwerking getreden
 
