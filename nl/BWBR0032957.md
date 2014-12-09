@@ -4,7 +4,7 @@ identifier: "BWBR0032957"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2014-02-12"
+last_updated: "2014-12-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032957"
 soort: "ministeriele-regeling"
@@ -48,27 +48,27 @@ In deze regeling wordt verstaan onder besluit: [Besluit Gedragstoezicht financi√
 
 De eindtermen en toetstermen behorende bij de verschillende modules, bedoeld in [artikel 9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0020421&artikel=9), worden vastgesteld overeenkomstig de volgende bijlagen:
 
-- a. module basis: de eindtermen en toetstermen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2014-02-12&g=2014-02-12);
+- a. module basis: de eindtermen en toetstermen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2014-12-09&g=2014-12-09);
 
-- b. module consumptief krediet: de eindtermen en toetstermen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=2&z=2014-02-12&g=2014-02-12);
+- b. module consumptief krediet: de eindtermen en toetstermen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=2&z=2014-12-09&g=2014-12-09);
 
-- c. module schadeverzekeringen particulier: de eindtermen en toetstermen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=3&z=2014-02-12&g=2014-02-12);
+- c. module schadeverzekeringen particulier: de eindtermen en toetstermen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=3&z=2014-12-09&g=2014-12-09);
 
-- d. module schadeverzekeringen zakelijk: de eindtermen en toetstermen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=4&z=2014-02-12&g=2014-02-12);
+- d. module schadeverzekeringen zakelijk: de eindtermen en toetstermen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=4&z=2014-12-09&g=2014-12-09);
 
-- e. module vermogen: de eindtermen en toetstermen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=5&z=2014-02-12&g=2014-02-12);
+- e. module vermogen: de eindtermen en toetstermen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=5&z=2014-12-09&g=2014-12-09);
 
-- f. module inkomen: de eindtermen en toetstermen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=6&z=2014-02-12&g=2014-02-12);
+- f. module inkomen: de eindtermen en toetstermen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=6&z=2014-12-09&g=2014-12-09);
 
-- g. module hypothecair krediet: de eindtermen en toetstermen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=7&z=2014-02-12&g=2014-02-12);
+- g. module hypothecair krediet: de eindtermen en toetstermen in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=7&z=2014-12-09&g=2014-12-09);
 
-- h. module pensioenverzekeringen: de eindtermen en toetstermen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=8&z=2014-02-12&g=2014-02-12);
+- h. module pensioenverzekeringen: de eindtermen en toetstermen in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=8&z=2014-12-09&g=2014-12-09);
 
-- i. module zorgverzekeringen: de eindtermen en toetstermen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=9&z=2014-02-12&g=2014-02-12).
+- i. module zorgverzekeringen: de eindtermen en toetstermen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=9&z=2014-12-09&g=2014-12-09).
 
 ##### Artikel 3
 
-In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2014-02-12&g=2014-02-12) wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes:
+In de [bijlagen 1 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032957&bijlage=1&z=2014-12-09&g=2014-12-09) wordt het beheersniveau van de toetstermen aangeduid met de taxonomiecodes:
 
 - a. K (=Kennis);
 
@@ -274,6 +274,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 10. Eindtermen en toetstermen module volmacht schade extra
 
+Vervallen
+
 ### Taak 1. Risicomanagement
 
 ### Taak 3. (klant)acceptatie, verzekeringstechnisch beheer en administratie, w.o. premie-incasso
@@ -295,5 +297,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 ### Taak 4. Schadebehandeling en alle daarbij behorende werkzaamheden
 
 ### Taak 5. Portefeuillebeheer op basis van cijfers, kengetallen en trends
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 11. Eindtermen en toetstermen module volmacht overig
+
+Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
