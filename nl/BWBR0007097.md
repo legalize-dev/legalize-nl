@@ -4,7 +4,7 @@ identifier: "BWBR0007097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "1995-01-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007097"
 soort: "ministeriele-regeling"
@@ -80,3 +80,7 @@ Deze regeling wordt aangehaald als:
 Regeling verwijderen van voorwerpen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 10, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=10).
