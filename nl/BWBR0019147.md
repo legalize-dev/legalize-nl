@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2014-03-08"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -46,9 +46,9 @@ Besluit:
 
 1. Het is verboden deel te nemen aan het luchtverkeer:
 
-- a. met een licht onbemand luchtvaartuig als bedoeld in [artikel 1a, eerste lid, onderdeel c, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a);
+- a. met een licht onbemand luchtvaartuig, niet zijnde een modelluchtvaartuig of onbemande vrije ballon, waarvan de totale startmassa niet meer dan 150 kg bedraagt en de maximale snelheid lager is dan 129,64 k/u (70 knopen);
 
-- b. met een modelluchtvaartuig als bedoeld in [artikel 1a, eerste lid, onderdeel d, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a) indien dit luchtvaartuig wordt gebruikt uit hoofde van een bedrijf of beroep dan wel tegen vergoeding of met baat.
+- b. met een modelluchtvaartuig zijnde een luchtvaartuig van geringe afmetingen, niet in staat een mens te dragen, waarvan de totale startmassa niet meer dan 25 kilogram bedraagt, indien dit luchtvaartuig wordt gebruikt uit hoofde van een bedrijf of beroep dan wel tegen vergoeding of met baat.
 
 2. Het verbod, bedoeld in artikel 1, eerste lid, aanhef en onder b, is niet van toepassing op het gebruik van een modelluchtvaartuig voor vlieglessen.
 
@@ -56,43 +56,35 @@ Besluit:
 
 ##### Artikel 2
 
-Onverminderd [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1&z=2014-03-08&g=2014-03-08), en [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1a&z=2014-03-08&g=2014-03-08) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012, het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&wetgeving) en [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1&z=2014-12-12&g=2014-12-12) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
 
-- a. de vlucht wordt uitgevoerd in overeenstemming met de algemene vliegvoorschriften voor zover daarvan niet wordt afgeweken in deze regeling;
+- a. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
 
-- b. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
+- b. de bestuurder houdt tijdens de gehele vlucht goed zicht op het modelluchtvaartuig;
 
-- c. de bestuurder houdt tijdens de gehele vlucht goed zicht op het modelluchtvaartuig;
+- c. een hoogtemeter hoeft niet te worden gebruikt;
 
-- d. een hoogtemeter hoeft niet te worden gebruikt;
+- d. de vlucht wordt niet uitgevoerd buiten de daglichtperiode, zoals gepubliceerd in de luchtvaartgids;
 
-- e. het is verboden voorwerpen of stoffen te verwijderen tijdens de vlucht, met uitzondering van zand, water of voorwerpen waarvan de massa niet meer is dan 200 gram per voorwerp overeenkomstig door de Minister van Verkeer en Waterstaat op grond van [artikel 13 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=13) te stellen regels;
+- e. de vlucht wordt niet uitgevoerd boven gebieden met aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen dan wel boven mensenmenigten of boven spoorlijnen of voor motorrijtuigen toegankelijke verharde openbare wegen, met uitzondering van wegen in 30 km-zones binnen de bebouwde kom en wegen in 60 km-gebieden buiten de bebouwde kom;
 
-- f. een ander modelluchtvaartuig of een net of doek mag worden gesleept;
+- f. voor een vlucht wordt geen vliegplan ingediend;
 
-- g. kunstvluchten mogen worden uitgevoerd;
+- g. gecontroleerde vluchten zijn niet toegestaan;
 
-- h. de vlucht wordt niet uitgevoerd buiten de daglichtperiode, zoals gepubliceerd in de in artikel 60, onder a, van het Luchtverkeersreglement bedoelde luchtvaartgids;
-
-- i. de vlucht wordt niet uitgevoerd boven gebieden met aaneengesloten bebouwing of kunstwerken, industrie- en havengebieden daaronder begrepen dan wel boven mensenmenigten of boven spoorlijnen of voor motorrijtuigen toegankelijke verharde openbare wegen, met uitzondering van wegen in 30 km-zones binnen de bebouwde kom en wegen in 60 km-gebieden buiten de bebouwde kom;
-
-- j. voor een vlucht wordt geen vliegplan ingediend;
-
-- k. gecontroleerde vluchten zijn niet toegestaan;
-
-- l. vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G, mits
+- h. vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G, mits
 
 - 1°. voor vluchten binnen een afstand van 3 km van een ongecontroleerde luchthaven of een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt, waarvoor krachtens [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) ontheffing is verleend, geen bezwaar bestaat bij de exploitant van de luchthaven respectievelijk de houder van de ontheffing;
 
 - 2°. voor vluchten binnen een gebied waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen iemand met de bestuurder van het modelluchtvaartuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen;
 
-- m. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
+- i. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
 
-- n. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
+- j. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
 
-- o. de regels voor de bediening van boordapparatuur voor het beantwoorden van vragen door radargrondstations gelden niet;
+- k. de regels voor de bediening van boordapparatuur voor het beantwoorden van vragen door radargrondstations gelden niet;
 
-- p. de regels voor de navigatie- en telecommunicatie-installaties waarmee een luchtvaartuig voor het uitvoeren van een VFR-vlucht is uitgerust, gelden niet.
+- l. de regels voor de navigatie- en telecommunicatie-installaties waarmee een luchtvaartuig voor het uitvoeren van een VFR-vlucht is uitgerust, gelden niet.
 
 ##### Artikel 3
 
@@ -100,7 +92,7 @@ Modelluchtvaartuigen worden aangewezen als onbemande luchtvaartuigen, bedoeld in
 
 ##### Artikel 4
 
-Deze regeling berust op [artikel 5.7, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) en [artikel 1a, derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a).
+Vervallen
 
 ##### Artikel 5
 
@@ -118,6 +110,14 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Het is verboden deel te nemen aan het luchtverkeer met een modelluchtvaartuig als bedoeld in [artikel 1a van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a) of een licht onbemand luchtvaartuig als bedoeld in artikel 1a van het Luchtverkeersreglement in de gebieden, bedoeld in artikel 1 van de Regeling sluiting luchtruim nationale herdenkingen.
+Deze regeling berust op [artikel 5.7, derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) en [artikel 4 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4).
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1b
+
+1. Lichte onbemande luchtvaartuigen en modelluchtvaartuigen verlenen voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonnen en luchtschepen.
+
+2. In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
