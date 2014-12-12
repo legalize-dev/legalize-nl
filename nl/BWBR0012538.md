@@ -4,7 +4,7 @@ identifier: "BWBR0012538"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-09"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012538"
 soort: "ministeriele-regeling"
@@ -196,7 +196,7 @@ Vervallen
 
 ##### Artikel 13
 
-1. De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Verkeer en Waterstaat.
+1. De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Leefomgeving en Transport.
 
 2. Het digitale signaal van de ELT bevat, behoudens in uitzonderlijke gevallen, het 24-bit luchtvaartuigadres van het bijbehorende luchtvaartuig, ten behoeve van de identificatie.
 
@@ -216,7 +216,7 @@ Vervallen
 
 ##### Artikel 14
 
-Handelen in strijd met de [artikelen 2 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=2&z=2014-01-09&g=2014-01-09) van deze regeling is een strafbaar feit.
+Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2014-12-12&g=2014-12-12) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
@@ -234,7 +234,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 18
 
-Deze regeling wordt aangehaald als: Regeling navigatie- en telecommunicatie-installaties.
+Deze regeling wordt aangehaald als: Regeling boorduitrusting.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
@@ -272,6 +272,94 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 | i. TMZ Rotterdam | Van 1200 ft AMSL tot 2500 ft AMSL |
 
 #### Gebruik van transponders
+
+#### Strafbepaling
+
+#### Gebruik hoogtemeter
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=15), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24).
+
+#### Communicatie- en navigatieapparatuur
+
+##### Artikel 3b
+
+1. De radiotelefonische berichtenwisseling tussen de Nederlandse luchtverkeersdiensten en luchtvaartuigen wordt gevoerd in de Engelse taal.
+
+2. Met betrekking tot burgerluchtvaartuigen zijn op de in het eerste lid genoemde berichtenwisseling bovendien van toepassing:
+
+- a. de normen, aanbevelingen en procedures van Bijlage 10 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, (Trb. 1973, 109). 'Aeronautical Telecommunications', deel II, hoofdstuk V 'Aeronautical Mobile Service';
+
+- b. gebruikmaking, voor zover van toepassing, van het standaardradiotelefonie 'woordgebruik' vermeld in ICAO-Document 4444 (Procedures for Air Navigation Services – Air Traffic Management), hoofdstuk 12.
+
+#### Gebruik van transponders
+
+##### Artikel 13a
+
+1. De overgangshoogte in het vluchtinformatiegebied Amsterdam is voor IFR-vluchten 915 m (3000 ft) en voor VFR-vluchten 1070 m (3500 ft).
+
+2. Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220 m (4000 ft) boven gemiddeld zeeniveau.
+
+##### Artikel 13b
+
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2014-12-12&g=2014-12-12), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
+
+##### Artikel 13c
+
+1. In het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimten boven het Nederlandse deel van het continentaal plat zijn de volgende ASR’s ingesteld:
+
+- a. ASR Amsterdam;
+
+- b. ASR Maastricht;
+
+- c. ASR North Sea South;
+
+- d. ASR North Sea North.
+
+2. De gebieden, bedoeld in het eerste lid worden lateraal begrensd als aangegeven in de luchtvaartgids, ENR 6-1.1.
+
+3. Het KNMI stelt ten minste elk uur de regionale QNH van de onderstaande gebieden vast en meldt deze zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten:
+
+- a. luchthaven Schiphol;
+
+- b. luchthaven Maastricht Aachen;
+
+- c. lichteiland Goeree;
+
+- d. platform F16-A.
+
+##### Artikel 13d
+
+1. Vóór het opstijgen wordt ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.
+
+2. Tijdens de stijgvlucht wordt bij het passeren van de overgangshoogte ten minste één drukhoogtemeter ingesteld op de drukwaarde van 1013.2 hPa.
+
+##### Artikel 13e
+
+Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten minste één drukhoogtemeter ingesteld op de regionale QNH.
+
+##### Artikel 13f
+
+1. Tijdens de daalvlucht wordt bij het passeren van het overgangsniveau ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.
+
+2. De in het eerste lid bedoelde instelling op de QNH kan reeds vóór het passeren van het overgangsniveau plaatsvinden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om de vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau, nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.
+
+##### Artikel 13g
+
+1. Een horizontaal deel van een VFR-vlucht boven 1070 m (3500 ft) boven de grond of het water wordt uitgevoerd op een vliegniveau als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.
+
+2. Een horizontaal deel van een gecontroleerde vlucht binnen een luchtverkeersleidingsgebied wordt uitgevoerd op een kruishoogte zoals aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.
+
+3. Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied wordt uitgevoerd op een kruishoogte als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.
+
+##### Artikel 13h
+
+1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2014-12-12&g=2014-12-12) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
+
+2. Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.
 
 #### Strafbepaling
 
