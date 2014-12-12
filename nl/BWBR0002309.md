@@ -4,7 +4,7 @@ identifier: "BWBR0002309"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-07-01"
-last_updated: "2010-01-20"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002309"
 soort: "AMvB"
@@ -107,7 +107,7 @@ Hebben goedgevonden en verstaan:
 
 - ab. JAR-145: regeling inzake erkenning van onderhoudsbedrijven, opgesteld door de JAA.
 
-3. Voor het bij deze regeling bepaalde zijn eveneens van toepassing de begripsbepalingen voor luchtverkeersdienstverlening, luchtverkeersdienst, verkeersleiding, verkeersleidingsdienst, luchtvaartterreinverkeer, gecontroleerd luchtvaartterrein, zichtweersomstandigheden, vlucht, vliegtijd, zonsondergang, zonsopgang, landingsterrein en taxiën als omschreven in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1)-1980 (**Stb.** 786).
+3. Voor het bij deze regeling bepaalde zijn eveneens van toepassing de begripsbepalingen voor luchtverkeersdienstverlening, luchtverkeersdienst, verkeersleiding, verkeersleidingsdienst, luchtvaartterreinverkeer, gecontroleerd luchtvaartterrein, zichtweersomstandigheden, vlucht, vliegtijd, zonsondergang, zonsopgang, landingsterrein en taxiën als omschreven in uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het [Besluit luchtverkeer 2014](onbekend)-1980 (**Stb.** 786).
 
 ##### Artikel 2. Toepassing
 
@@ -927,7 +927,7 @@ Vervallen
 
 ##### Artikel 166
 
-Overtreding van [artikel 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2010-01-20&g=2010-01-20), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
+Overtreding van [artikel 96, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&hoofdstuk=V&afdeling=I&artikel=96&z=2014-12-12&g=2014-12-12), is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=62).
 
 ##### Artikel 167. Overgangsbepalingen
 
