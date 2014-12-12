@@ -4,7 +4,7 @@ identifier: "BWBR0010215"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-20"
-last_updated: "2009-11-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010215"
 soort: "AMvB"
@@ -68,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 1. Het is verboden een reclamesleepvlucht uit te voeren boven het milieubeschermingsgebied Waddenzee.
 
-2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2009-11-01&g=2009-11-01) is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.
+2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.
 
 ##### Artikel 4
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2009-11-01&g=2009-11-01) is niet van toepassing:
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is niet van toepassing:
 
 - a. op het deel van de vlucht, noodzakelijk om op te stijgen van of te landen op een luchthaven, alsmede voor het uitvoeren van nadering- en vertrekprocedures en luchtverkeerspatronen;
 
@@ -80,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - c. in het geval van mogelijke ijsafzetting bij hefschroefvliegtuigen.
 
-2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2009-11-01&g=2009-11-01) is evenmin van toepassing op vluchten waarvoor op grond van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=45) of [51 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=51) een vrijstelling of ontheffing is verleend ten behoeve van:
+2. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010215&artikel=2&z=2014-12-12&g=2014-12-12) is evenmin van toepassing op vluchten waarvoor op grond van de [artikelen 3](onbekend) of [19 van het Besluit luchtverkeer 2014](onbekend) een vrijstelling of ontheffing is verleend ten behoeve van:
 
 - a. hulpverlening en reddingsacties;
 
