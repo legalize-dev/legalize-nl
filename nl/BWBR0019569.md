@@ -4,7 +4,7 @@ identifier: "BWBR0019569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-16"
-last_updated: "2014-11-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019569"
 soort: "ministeriele-regeling"
@@ -52,21 +52,33 @@ Besluit:
 
 - c. hoofd: het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging waar het basisexamen wordt afgenomen of het hoofd consulaire zaken van deze vertegenwoordiging;
 
-- d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoriteit of instelling, onder wiens toezicht het basisexamen wordt afgelegd.
+- d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoriteit of instelling, onder wiens toezicht het basisexamen wordt afgelegd;
 
-2. Voor zover uit een wettelijk voorschrift niet anders voortvloeit, worden de bevoegdheden genoemd in deze regeling uitgeoefend namens Onze Minister. Bij de uitoefening van deze bevoegdheden worden de algemene en bijzondere aanwijzingen van Onze Minister in acht genomen.
+- e. DUO: de Dienst Uitvoering Onderwijs.
 
-##### Artikel 2. Aanmelding voor het basisexamen
+2. Voor zover uit een wettelijk voorschrift niet anders voortvloeit, worden de bevoegdheden genoemd in deze regeling uitgeoefend namens de minister van Sociale Zaken en Werkgelegenheid. Bij de uitoefening van deze bevoegdheden worden de algemene en bijzondere aanwijzingen van de minister van Sociale Zaken en Werkgelegenheid in acht genomen.
 
-1. De vreemdeling die aan het basisexamen wenst deel te nemen, meldt zich daartoe aan door het indienen bij de Minister van Buitenlandse Zaken van het ingevulde aanmeldformulier, waarvan het model als bijlage bij dit reglement is gevoegd, en het overmaken van het examengeld.
+##### Artikel 2. Aanmelden en betalen
 
-2. Na overmaking van het examengeld maakt de deelnemer onder vermelding van het toegekende referentienummer mondeling of schriftelijk een afspraak bij het hoofd.
+1. De vreemdeling die aan het basisexamen wenst deel te nemen, meldt zich daartoe aan door het indienen van het ingevulde aanmeldformulier bij DUO en ontvangt van DUO een bevestiging van de aanmelding.
 
-3. Het hoofd maakt de examenlocatie en het tijdstip waarop het basisexamen kan worden afgelegd bekend.
+2. De deelnemer dient bij aanmelding te vermelden welke toetsen hij wenst af te leggen en op welke examenlocatie hij dit wenst te doen.
+
+3. Het basisexamen bestaat uit de toetsen leesvaardigheid, spreekvaardigheid en kennis van de Nederlandse samenleving.
+
+4. Het examengeld, bedoeld in [artikel 3.98b, tweede lid, van het Vreemdelingenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), is als volgt opgebouwd:
+
+- a. Voor de toets leesvaardigheid: € 100;
+
+- b. voor de toets spreekvaardigheid: € 150;
+
+- c. voor de toets kennis van de Nederlandse samenleving: € 100.
+
+5. DUO verstrekt na ontvangst de verschuldigde bedragen een bewijs van betaling.
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
-1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2011-04-01&g=2014-11-01), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
+1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2014-12-12&g=2014-12-12), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
 
 2. Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor:
 
@@ -102,7 +114,7 @@ Besluit:
 
 - b. andere dan volgens de instructie van de toezichthouder toegestane materialen of hulpmiddelen te gebruiken of in het bezit te hebben.
 
-3. Na afloop van het basisexamen is het de deelnemer niet toegestaan andere documenten of zaken uit de examenruimte mee te nemen, dan volgens de instructie van de toezichthouder is toegestaan.
+3. Na afloop van het basisexamen is het de deelnemer niet toegestaan andere documenten of zaken uit de examenruimte mee te nemen, dan volgens de instructie van de toezichthouder is toegestaan of om op enigerlei wijze mededeling te doen aan anderen over de inhoud van het basisexamen.
 
 4. Het hoofd kan aanvullende maatregelen stellen om onregelmatigheden en ordeverstoring tijdens het basisexamen te voorkomen.
 
@@ -118,13 +130,17 @@ Besluit:
 
 - d. de deelnemer uit de examenruimte verwijderen.
 
-2. Bij constatering van fraude kan het hoofd de resultaten van het basisexamen met terugwerkende kracht ongeldig verklaren.
+2. Bij constatering van fraude kunnen de resultaten van het basisexamen met terugwerkende kracht ongeldig worden verklaard.
 
-3. Bij constatering van fraude of ordeverstoring kan het hoofd de deelnemer voor een periode van maximaal één jaar van toekomstige deelname aan het basisexamen uitsluiten.
+3. Bij constatering van fraude of ordeverstoring kan DUO de deelnemer voor een periode van maximaal één jaar van toekomstige deelname aan het basisexamen uitsluiten.
 
 ##### Artikel 6. Uitslag
 
-Het hoofd maakt de uitslag van het basisexamen bekend door toezending, uitreiking of op een andere naar zijn oordeel geschikte wijze.
+1. De uitslag van het basisexamen wordt door DUO bekend gemaakt door toezending, uitreiking of op een andere geschikte wijze.
+
+2. De uitslag wordt per afgelegd examenonderdeel uitgedrukt in een cijfer op de schaal van 1 tot 10. Een deelnemer moet een voldoende behalen (6 of hoger) om te slagen voor het examenonderdeel. Een deelnemer is geslaagd voor het basisexamen wanneer hij voor alle drie examenonderdelen een voldoende heeft behaald.
+
+3. Indien voor een of meer van de examenonderdelen een onvoldoende is behaald, kan de deelnemer het betreffende examenonderdeel of de betreffende onderdelen opnieuw afleggen. De deelnemer dient zich voor dit examenonderdeel of deze onderdelen opnieuw aan te melden bij DUO.
 
 ##### Artikel 7. Inwerkingtreding
 
