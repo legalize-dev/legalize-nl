@@ -4,7 +4,7 @@ identifier: "BWBR0033888"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2013-10-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033888"
 soort: "ministeriele-regeling"
@@ -92,7 +92,7 @@ Het is verboden een reclamesleepvlucht uit te voeren:
 
 ##### Artikel 5
 
-Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033888&artikel=3&z=2013-10-01&g=2013-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033888&artikel=4&z=2013-10-01&g=2013-10-01) is een strafbaar feit in de zin van [artikel 6 van het Besluit van 21 mei 1981 houdende vaststelling van regels ter beperking van de geluidhinder door luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=6).
+Overtreding van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033888&artikel=3&z=2014-12-12&g=2014-12-12) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033888&artikel=4&z=2014-12-12&g=2014-12-12) is een strafbaar feit in de zin van [artikel 6 van het Besluit van 21 mei 1981 houdende vaststelling van regels ter beperking van de geluidhinder door luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0003404&artikel=6).
 
 ##### Artikel 6
 
@@ -109,5 +109,11 @@ Deze regeling treedt in werking met ingang van 1 oktober 2013.
 ##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling slepen en reclamesleepvliegen.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling berust mede op [artikel 11, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
