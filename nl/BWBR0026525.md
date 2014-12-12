@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2013-01-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -70,11 +70,15 @@ Hebben goedgevonden en verstaan:
 
 - **handhavingspunt:** locatie waar de geluidbelasting van het luchthavenluchtverkeer niet hoger mag zijn dan de in het luchthavenbesluit of de luchthavenregeling vastgestelde waarde;
 
+- **helikopter:** gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn rotorbladen;
+
 - **instrumentbaan categorie I, II, of III:** landingsbaan van het type zoals omschreven in de onderdelen b, c en d van de definitie van het begrip Instrument runway in bijlage 14 bij het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48);
 
 - **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2014-12-12&g=2014-12-12);
+
+- **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
 - **micro light aeroplane:** MLA als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922);
 
@@ -84,15 +88,19 @@ Hebben goedgevonden en verstaan:
 
 - **valscherm:** scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat hij veilig de begane grond kan bereiken;
 
+- **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn vleugels;
+
+- **vrije ballon:** luchtvaartuig, lichter dan lucht, dat niet voorzien is van een voortstuwingsinrichting en is ingericht en bestemd om ten minste één persoon te vervoeren;
+
 - **watervliegtuig:** een luchtvaartuig dat zich te water als schip kan verplaatsen;
 
 - **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
-- **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd.
+- **woning:** gebouw dat geheel of gedeeltelijk voor bewoning is bestemd;
+
+- **zweeftoestel:** luchtvaartuig, niet zijnde een motorzweefvliegtuig, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten en waarvan de vrije vlucht niet afhankelijk is van een motor.
 
 2. In dit besluit en de daarop berustende bepalingen wordt onder woning tevens verstaan woonboot of woonwagen.
-
-3. In dit besluit en de daarop berustende bepalingen wordt onder helikopter, luchtschip, vliegtuig, vrije ballon en zweeftoestel verstaan hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1).
 
 ### Hoofdstuk 2. Burgerluchthavens van regionale betekenis en burgerluchthavens van nationale betekenis
 
@@ -238,7 +246,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -276,7 +284,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de vliegveiligheid is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -284,7 +292,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -308,7 +316,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
