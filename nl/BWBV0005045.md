@@ -4,7 +4,7 @@ identifier: "BWBV0005045"
 country: "nl"
 rank: "verdrag"
 publication_date: "2026-02-21"
-last_updated: "2014-06-19"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005045"
 soort: "verdrag"
@@ -76,9 +76,9 @@ b). De instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een
 
 - -. de toekenning van gelijk stemrecht aan alle leden van de Raad van Bestuur;
 
-- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2014-06-19&g=2014-06-19) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2014-06-19&g=2014-06-19) van de hierbij gevoegde Statuten).
+- -. de garantie van de aandeelhouders inzake de uitvoering van door de Maatschappij gesloten financieringsovereenkomsten (bepalingen, vervat in de artikelen 2, 3, 4, 9, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2014-12-12&g=2014-12-12) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=27&z=2014-12-12&g=2014-12-12) van de hierbij gevoegde Statuten).
 
-c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2014-06-19&g=2014-06-19) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2014-06-19&g=2014-06-19) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
+c). Voor wijziging in de Statuten met betrekking tot de vermeerdering of vermindering van het maatschappelijk kapitaal, het stemrecht der aandeelhouders, de samenstelling van de Raad van Bestuur en de winstverdeling (bepalingen, vervat in de artikelen 5, 15, [18](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=18&z=2014-12-12&g=2014-12-12) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=30&z=2014-12-12&g=2014-12-12) van de hierbij gevoegde Statuten), is de instemming van de Regering van de Staat van vestiging vereist.
 
 d). De Regering van de Staat van vestiging geeft onverwijld kennis aan de andere Regeringen van alle Statutenwijzigingen, waartoe door de Maatschappij is besloten. In de gevallen, voorzien in de leden **b)** en **c)** van dit artikel, treden deze wijzigingen, indien geen bezwaar is gemaakt door enige Regering wier instemming op grond van de genoemde leden is vereist, drie maanden na de datum van deze kennisgeving in werking. De op grond van dit lid gemaakte bezwaren worden ter kennis gebracht van de Regering van de Staat van vestiging, die daarvan mededeling doet aan de andere Regeringen.
 
@@ -104,7 +104,7 @@ b). Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf dez
 
 ##### Artikel 6
 
-a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2014-06-19&g=2014-06-19) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
+a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2014-12-12&g=2014-12-12) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
 
 b). De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.
 
@@ -126,7 +126,7 @@ De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezen
 
 ##### Artikel 10
 
-Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-06-19&g=2014-06-19), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
+Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-12-12&g=2014-12-12), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
 
 ##### Artikel 11
 
@@ -134,7 +134,7 @@ a). Iedere Regering van een Europees land, die dit Verdrag niet heeft onderteken
 
 b). De toetreding van een Regering, die geen lid is van de Europese Conferentie van Ministers van Verkeer, zal evenwel eerst van kracht worden nadat de instemming van alle bij dit Verdrag partij zijnde Regeringen aan de Regering van Zwitserland ter kennis is gebracht.
 
-c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-06-19&g=2014-06-19), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
+c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-12-12&g=2014-12-12), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
 
 ##### Artikel 12
 
@@ -144,7 +144,7 @@ Dit Verdrag is gesloten voor de duur van de Maatschappij.
 
 a). Een bij dit Verdrag partij zijnde Regering, waarvan geen spoorweg aandeelhouder is of waarvan iedere spoorweg heeft opgehouden aandeelhouder te zijn van de Maatschappij, kan haar deelneming aan dit Verdrag beëindigen door met inachtneming van een opzeggingstermijn van drie maanden een desbetreffende mededeling tot de Regering van Zwitserland te richten. Indien de opzegging echter geschiedt door de Regering van de Staat van vestiging, eindigt haar deelneming aan dit Verdrag eerst nadat de zetel van de Maatschappij is verplaatst naar een andere Staat.
 
-b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2014-06-19&g=2014-06-19) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
+b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2014-12-12&g=2014-12-12) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
 
 ##### Artikel 14
 
@@ -152,7 +152,7 @@ Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking 
 
 ##### Artikel 15
 
-a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-06-19&g=2014-06-19), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
+a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-12-12&g=2014-12-12), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
 
 b). Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het Verdrag in werking onmiddellijk na de nederlegging van de akte van bekrachtiging.
 
@@ -162,7 +162,7 @@ c). De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserla
 
 a). Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.
 
-b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-06-19&g=2014-06-19), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
+b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2014-12-12&g=2014-12-12), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
 
 ##### Artikel 17
 
@@ -196,7 +196,7 @@ De vennootschap wordt opgericht voor de duur van vijftig jaar. Na het verstrijke
 
 Het maatschappelijk kapitaal van de vennootschap bedraagt 2.600.000.000 Zwitserse francs, waarvan een bedrag van 520.000.000 Zwitserse francs (20%) geplaatst is. Het is verdeeld in 260.000 aandelen met een nominale waarde van 10.000 Zwitserse francs.
 
-Over elk volgend verzoek om bijstorting op nog niet volledig volgestorte aandelen wordt beslist door de raad van bestuur van de vennootschap in overeenstemming met [artikel 21, derde lid, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2014-06-19&g=2014-06-19). De betaling van een dergelijk verzoek om bijstorting geschiedt rechtstreeks op de rekening van de vennootschap die daartoe door de raad van bestuur is aangewezen en de bedragen die op deze rekening worden gestort staan onmiddellijk ter beschikking van de vennootschap. De raad van bestuur wijzigt artikel 5 om aanvullende bijstortingen weer te geven die zijn geschied op de eerste van de volgende data: de datum waarop alle bijstortingen zijn verricht of de 31e december die volgt op een dergelijk verzoek om bijstortingen. Deze wijziging wordt door de raad van bestuur vastgesteld en medegedeeld aan het handelsregister, vergezeld van een bevestiging door de raad van bestuur dat de vennootschap de bijstortingen heeft ontvangen.
+Over elk volgend verzoek om bijstorting op nog niet volledig volgestorte aandelen wordt beslist door de raad van bestuur van de vennootschap in overeenstemming met [artikel 21, derde lid, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2014-12-12&g=2014-12-12). De betaling van een dergelijk verzoek om bijstorting geschiedt rechtstreeks op de rekening van de vennootschap die daartoe door de raad van bestuur is aangewezen en de bedragen die op deze rekening worden gestort staan onmiddellijk ter beschikking van de vennootschap. De raad van bestuur wijzigt artikel 5 om aanvullende bijstortingen weer te geven die zijn geschied op de eerste van de volgende data: de datum waarop alle bijstortingen zijn verricht of de 31e december die volgt op een dergelijk verzoek om bijstortingen. Deze wijziging wordt door de raad van bestuur vastgesteld en medegedeeld aan het handelsregister, vergezeld van een bevestiging door de raad van bestuur dat de vennootschap de bijstortingen heeft ontvangen.
 
 Na de zevende uitbreding van het kapitaal (1997) en de overdracht van aandelen (2007) zijn de aandelen als volgt verdeeld:
 
@@ -276,9 +276,9 @@ De algemene vergadering van aandeelhouders is de hoogste macht in de vennootscha
 
 - 2. benoeming van de voorzitter en vicevoorzitters van de raad van bestuur;
 
-- 3. benoeming van de commissarissen-verificateurs;
+- 3. Zij benoemt het controlerend orgaan;
 
-- 4. wijziging van de statuten met uitzondering van wijzigingen die tot de bevoegdheid van de raad van bestuur behoren, voorzien in artikel 21, derde alinea, onderdeel 6.
+- 4. wijziging van de statuten met uitzondering van wijzigingen die tot de bevoegdheid van de raad van bestuur behoren, voorzien in [artikel 21, derde alinea, onderdeel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2014-12-12&g=2014-12-12).
 
 - 5. alle beslissingen betreffende uitbreiding en vermindering van het kapitaal van de vennootschap;
 
@@ -288,9 +288,9 @@ De algemene vergadering van aandeelhouders is de hoogste macht in de vennootscha
 
 - 8. verlenging van de vennootschap;
 
-- 9. goedkeuring van het in artikel 21, tweede alinea, bedoelde reglement;
+- 9. goedkeuring van het in [artikel 21, tweede alinea](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=21&z=2014-12-12&g=2014-12-12), bedoelde reglement;
 
-- 10. kennisneming van het verslag van de commissarissen-verificateurs, onderzoek en goedkeuring van het jaarverslag, de balans en de verlies- en winstrekening, bestemming van de nettowinst en het verlenen van decharge aan de leden van de raad van bestuur;
+- 10. Zij neemt kennis van het verslag van het controlerend orgaan, onderzoekt het bestuursverslag en keurt het jaarverslag, de jaarrekening en bestemming van de nettowinst goed en verleent decharge aan de leden van de raad van bestuur;
 
 - 11. vaststelling van het maximumbedrag aan leningen die in een bepaald tijdvak kunnen worden gesloten.
 
@@ -306,7 +306,7 @@ Een buitengewone algemene vergadering van aandeelhouders wordt bijeengeroepen:
 
 - 1. ingevolge een besluit van de algemene vergadering van aandeelhouders of van de raad van bestuur;
 
-- 2. op verzoek van het college van commissarissen-verificateurs;
+- 2. op verzoek van het controlerend orgaan;
 
 - 3. op verzoek van één of meer aandeelhouders wier aandelen tezamen ten minste een tiende van het kapitaal van de vennootschap vertegenwoordigen. Dit verzoek wordt schriftelijk gedaan onder opgave van het beoogde doel.
 
@@ -388,7 +388,7 @@ In dit reglement, dat de goedkeuring behoeft van de algemene vergadering van aan
 
 - 4. het sluiten van overeenkomsten betreffende de financiering van materieel, in het bijzonder betreffende de verhuur, de verkoop en de bestelling van materieel;
 
-- 5. de opstelling van het jaarverslag, de jaarlijkse balans en de voorstellen die aan de algemene vergadering van aandeelhouders moeten worden voorgelegd. De raad doet de jaarstukken onderzoeken door accountants, die buiten het bedrijf van de vennootschap staan.
+- 5. de opstelling van het bestuursverslag, voorbereiding van de algemene vergadering van aandeelhouders en uitvoering van haar besluiten;
 
 - 6. verzoeken om bijstorting op nog niet volledig volgestorte aandelen en de voorwaarden daarvan, alsmede de overeenkomstige wijziging van artikel 5 betreffende het geplaatste kapitaal.
 
@@ -436,21 +436,17 @@ De bedragen die de aandeelhouders als garantie hebben gestort, zullen verhouding
 
 ##### Artikel 27
 
-De boekhouding van de vennootschap wordt gecontroleerd door een college van vijf commissarissen-verificateurs, gekozen door de algemene vergadering van aandeelhouders, de eerste maal voor een jaar en vervolgens voor drie jaar. Zij zijn herkiesbaar.
-
-De commissarissen-verificateurs hebben in het bijzonder tot taak te controleren of de winst- en verliesrekening en de balans in overeenstemming zijn met de boekhouding, of de boekhouding nauwkeurig is gevoerd en of het vermogen van de vennootschap en de uitkomsten van de bedrijfsvoering beantwoorden aan de regels welke daarvoor krachtens artikel 1 zijn gesteld.
-
-Voor de vervulling van hun taak hebben de commissarissen-verificateurs het recht de boeken en alle bewijsstukken te raadplegen. De balans en winst- en verliesrekening moeten hun tenminste dertig dagen voor de datum van de algemene vergadering van aandeelhouders worden overgelegd.
-
-Zij maken ten behoeve van de algemene vergadering van aandeelhouders, waarin over deze stukken zal worden beslist, een schriftelijk rapport op, waarin zij hun voorstellen neerleggen.
+De jaarrekening van de vennootschap wordt gecontroleerd door een extern accountantsbureau (dat internationaal wordt erkend) dat door de algemene vergadering van aandeelhouders voor een termijn van één jaar wordt gekozen (controlerend orgaan). Het controlerend orgaan kan opnieuw worden gekozen.
 
 #### Controle
 
 ##### Artikel 28
 
-De boekhouding en de balans van de vennootschap worden afgesloten per het einde van ieder kalenderjaar.
+De rekeningen van de vennootschap worden afgesloten en de jaarrekening wordt per het einde van ieder kalenderjaar opgesteld.
 
-De balans moet worden opgesteld overeenkomstig de beginselen van een gezonde bedrijfsvoering.
+De rekeningen dienen te worden opgesteld overeenkomstig het internationale verdrag betreffende de oprichting van de vennootschap, de statuten en, subsidiair, de wetgeving van de staat van vestiging.
+
+De raad van bestuur bepaalt de (internationaal erkende) standaarden voor jaarrekeningen die van toepassing zijn op de jaarrekening. De vennootschap stelt geen afzonderlijke statutaire jaarrekening op volgens de wetgeving van de staat van vestiging.
 
 #### Afsluiting van de boeken en verdeling van de winst
 
