@@ -4,7 +4,7 @@ identifier: "BWBR0011103"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2013-01-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011103"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1
 
-Deze regeling berust op [artikel 1a, derde lid, van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1a).
+Deze regeling berust op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4) en [20 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=20).
 
 ##### Artikel 2
 
@@ -57,21 +57,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=28) en [42 tot en met 55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), gelden de volgende nadere regels:
+1. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen, waarvan de totale startmassa meer dan 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan paragraaf SERA.2005, paragraaf SERA.3215, paragraaf SERA.5025 en deel 5 van de bijlage bij verordening (EU) nr. 923/2012 en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=2), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=13), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24), gelden de volgende nadere regels:
 
 - a. de vlucht wordt uitgevoerd in een gebied waar het uitoefenen van de burgerluchtvaart is verboden tijdens het gebruik van het gebied ten behoeve van militaire oefeningen;
 
 - b. de vlucht wordt afgestemd met eventueel ander militair luchtverkeer.
 
-2. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen voor observatiedoeleinden vanuit de lucht, waarvan de totale startmassa ten hoogste 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=14), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=16), [27 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=17), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=32), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=35), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=38) en [42 tot en met 55 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=42), gelden de volgende nadere regels:
+2. Ten aanzien van vluchten met door de Minister van Defensie ingevolge [artikel 5.7 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.7) aangewezen onbemande luchtvaartuigen voor observatiedoeleinden vanuit de lucht, waarvan de totale startmassa ten hoogste 25 kilogram bedraagt en waarbij door de aard van het luchtvaartuig of het doel van de vlucht niet kan worden voldaan aan paragraaf SERA.2005, paragraaf SERA.3215, paragraaf SERA.3225, paragraaf SERA.5005, onderdeel g, paragraaf SERA.5020, paragraaf SERA.5025, paragraaf SERA.8035 en deel 5 van de bijlage bij verordening (EU) nr. 923/2012 en de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=16), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24), gelden de volgende nadere regels:
 
 - a. vluchten worden slechts in de volgende gebieden uitgevoerd:
 
-- 1°. militaire plaatselijke luchtverkeersleidingsgebieden zoals aangegeven in de Regeling luchtverkeersdienstverlening;
+- 1°. militaire plaatselijke luchtverkeersleidingsgebieden zoals aangegeven in de [Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899);
 
 - 2°. restricted areas, ingesteld op basis van [artikel 5.10, tweede lid, Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10);
 
-- 3°. bijzondere luchtverkeersgebieden, ingesteld op basis van [artikel 8 Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=8);
+- 3°. tijdelijke gebieden met beperkingen, ingesteld op basis van [artikel 9 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=9);
 
 - b. vluchten in het kader van een oefening in gebieden als bedoeld in onderdeel a, onder 3°, zijn toegestaan tot een hoogte van maximaal 150 meter (500 ft) boven de grond of het water;
 
