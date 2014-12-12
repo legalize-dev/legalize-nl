@@ -4,7 +4,7 @@ identifier: "BWBR0034925"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-11-22"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034925"
 soort: "wet"
@@ -65,21 +65,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **familiegroepsplan:** hulpverleningsplan of plan van aanpak opgesteld door de ouders, samen met bloedverwanten, aanverwanten of anderen die tot de sociale omgeving van de jeugdige behoren;
 
-- –. **gecertificeerde instelling:** rechtspersoon die in het bezit is van een certificaat of voorlopig certificaat als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=3&artikel=3.4&z=2014-11-22&g=2014-11-22) en die een kinderbeschermingsmaatregel of jeugdreclassering uitvoert;
+- –. **gecertificeerde instelling:** rechtspersoon die in het bezit is van een certificaat of voorlopig certificaat als bedoeld in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=3&artikel=3.4&z=2014-12-12&g=2014-12-12) en die een kinderbeschermingsmaatregel of jeugdreclassering uitvoert;
 
 - –. **gekwalificeerde gedragswetenschapper:** gedragswetenschapper behorende tot een bij regeling van Onze Ministers aangewezen categorie;
 
 - –. **gesloten accommodatie:** bouwkundige voorziening of deel van een bouwkundige voorziening met het daarbij behorende terrein, waar gesloten jeugdhulp wordt verleend;
 
-- –. **gesloten jeugdhulp:** opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2014-11-22&g=2014-11-22);
+- –. **gesloten jeugdhulp:** opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2014-12-12&g=2014-12-12);
 
 - –. **geweld bij de verlening van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering:** lichamelijk, geestelijk of seksueel geweld jegens een jeugdige of een ouder, of bedreiging daarmee, door iemand die werkzaam is voor de jeugdhulpaanbieder of een gecertificeerde instelling, of door iemand die werkzaam is voor een rechtspersoon die in opdracht van de aanbieder of gecertificeerde instelling jeugdhulp verleent of door een andere jeugdige of ouder met wie de jeugdige of ouder gedurende het etmaal of een dagdeel bij de aanbieder verblijft;
 
 - –. **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1);
 
-- –. **hulpverleningsplan:** plan betreffende de verlening van jeugdhulp als bedoeld in [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2014-11-22&g=2014-11-22) en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&z=2014-11-22&g=2014-11-22);
+- –. **hulpverleningsplan:** plan betreffende de verlening van jeugdhulp als bedoeld in [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2014-12-12&g=2014-12-12) en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&z=2014-12-12&g=2014-12-12);
 
-- –. **inspectie:** inspectie jeugdzorg, bedoeld in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=9&artikel=9.1&z=2014-11-22&g=2014-11-22);
+- –. **inspectie:** inspectie jeugdzorg, bedoeld in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=9&artikel=9.1&z=2014-12-12&g=2014-12-12);
 
 - –. **jeugdarts:** arts die als jeugdarts KNMG is ingeschreven in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij ter bevordering van de Geneeskunst ingestelde profielregister jeugdgezondheidszorg;
 
@@ -117,7 +117,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **maatschappelijke ondersteuning:** maatschappelijke ondersteuning als bedoeld in [artikel 1 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1);
 
-- –. **machtiging gesloten jeugdhulp:** de machtiging, bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2014-11-22&g=2014-11-22).
+- –. **machtiging gesloten jeugdhulp:** de machtiging, bedoeld in [artikel 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=6&paragraaf=6.1&artikel=6.1.2&z=2014-12-12&g=2014-12-12).
 
 - –. **medisch specialist:** geneeskundig specialist die als specialist is ingeschreven in een door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij ter bevordering van de Geneeskunst ingestelde register als bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14);
 
@@ -135,9 +135,9 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **persoonsgegevens, verwerking, bestand, onderscheidenlijk verantwoordelijke:** hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468);
 
-- –. **plan van aanpak:** plan betreffende de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2014-11-22&g=2014-11-22);
+- –. **plan van aanpak:** plan betreffende de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in [artikel 4.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.3&z=2014-12-12&g=2014-12-12);
 
-- –. **pleegouder:** persoon die een jeugdige die niet zijn kind of stiefkind is, als behorende tot zijn gezin verzorgt en daartoe een pleegcontract als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=5&artikel=5.2&z=2014-11-22&g=2014-11-22), heeft gesloten met een pleegzorgaanbieder;
+- –. **pleegouder:** persoon die een jeugdige die niet zijn kind of stiefkind is, als behorende tot zijn gezin verzorgt en daartoe een pleegcontract als bedoeld in [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=5&artikel=5.2&z=2014-12-12&g=2014-12-12), heeft gesloten met een pleegzorgaanbieder;
 
 - –. **pleegoudervoogd:** pleegouder die tevens belast is met voogdij als bedoeld in [boek 1 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656);
 
@@ -149,7 +149,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **vertrouwenspersoon:** persoon die jeugdigen, ouders of pleegouders op hun verzoek ondersteunt in aangelegenheden die samenhangen met de wettelijke taken en verantwoordelijkheden van het college, de jeugdhulpaanbieder, de gecertificeerde instelling en het advies- en meldpunt huiselijk geweld en kindermishandeling;
 
-- –. **verwijsindex:** verwijsindex risicojongeren als bedoeld in [artikel 7.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=7&paragraaf=7.1&sub-paragraaf=7.1.2&artikel=7.1.2.1&z=2014-11-22&g=2014-11-22);
+- –. **verwijsindex:** verwijsindex risicojongeren als bedoeld in [artikel 7.1.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=7&paragraaf=7.1&sub-paragraaf=7.1.2&artikel=7.1.2.1&z=2014-12-12&g=2014-12-12);
 
 - –. **woonplaats:**
 
@@ -185,7 +185,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - c. welke resultaten de gemeente in de door het plan bestreken periode wenst te behalen, hoe gemeten zal worden of deze resultaten zijn behaald en welke outcomecriteria gehanteerd worden ten aanzien van jeugdhulpaanbieders en gecertificeerde instellingen;
 
-- d. hoe het college uitvoering zal geven aan [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.7&z=2014-11-22&g=2014-11-22), en hoe wordt gewaarborgd dat de jeugdhulpaanbieder voldoet aan de eisen inzake de verantwoordelijkheidstoedeling, gesteld bij of krachtens [artikel 4.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2014-11-22&g=2014-11-22), juncto [4.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.5&z=2014-11-22&g=2014-11-22), en
+- d. hoe het college uitvoering zal geven aan [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.7&z=2014-12-12&g=2014-12-12), en hoe wordt gewaarborgd dat de jeugdhulpaanbieder voldoet aan de eisen inzake de verantwoordelijkheidstoedeling, gesteld bij of krachtens [artikel 4.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.1&z=2014-12-12&g=2014-12-12), juncto [4.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=4&paragraaf=4.1&artikel=4.1.5&z=2014-12-12&g=2014-12-12), en
 
 - e. op welke wijze de gemeenteraad en het college zich hebben vergewist van de behoeften van kleine doelgroepen.
 
@@ -223,7 +223,7 @@ De gemeenteraad stelt bij verordening en met inachtneming van het bepaalde bij o
 
 - b. over de wijze waarop de toegang tot en de toekenning van een individuele voorziening wordt afgestemd met andere voorzieningen op het gebied van zorg, onderwijs, maatschappelijke ondersteuning, werk en inkomen;
 
-- c. de wijze waarop de hoogte van een persoonsgebonden budget als bedoeld in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2014-11-22&g=2014-11-22) wordt vastgesteld, en
+- c. de wijze waarop de hoogte van een persoonsgebonden budget als bedoeld in [artikel 8.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=8&paragraaf=8.1&artikel=8.1.1&z=2014-12-12&g=2014-12-12) wordt vastgesteld, en
 
 - d. voor de bestrijding van het ten onrechte ontvangen van een individuele voorziening of een persoonsgebonden budget, alsmede van misbruik of oneigenlijk gebruik van de wet.
 
@@ -343,11 +343,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. Het college is bevoegd tot het verwerken van persoonsgegevens, waaronder bijzondere persoonsgegevens, ten behoeve van:
 
-- a. de uitvoering van [artikel 12.4, aanhef en eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=12&artikel=12.4&z=2014-11-22&g=2014-11-22);
+- a. de uitvoering van [artikel 12.4, aanhef en eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=12&artikel=12.4&z=2014-12-12&g=2014-12-12);
 
-- b. de uitvoering van de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-11-22&g=2014-11-22), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-11-22&g=2014-11-22) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-11-22&g=2014-11-22), en
+- b. de uitvoering van de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-12-12&g=2014-12-12), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-12-12&g=2014-12-12) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-12-12&g=2014-12-12), en
 
-- c. het treffen van voorzieningen op het gebied van jeugdhulp en de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering voor jeugdigen of ouders in het eerste kalenderjaar na het kalenderjaar waarin de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-11-22&g=2014-11-22), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-11-22&g=2014-11-22) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-11-22&g=2014-11-22) in werking zijn getreden, in aansluiting op de verstrekking van voorzieningen door het college op grond van de artikelen 10.1, 10.2 en 10.3.
+- c. het treffen van voorzieningen op het gebied van jeugdhulp en de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering voor jeugdigen of ouders in het eerste kalenderjaar na het kalenderjaar waarin de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-12-12&g=2014-12-12), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-12-12&g=2014-12-12) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-12-12&g=2014-12-12) in werking zijn getreden, in aansluiting op de verstrekking van voorzieningen door het college op grond van de artikelen 10.1, 10.2 en 10.3.
 
 2. Met betrekking tot een jeugdige of zijn ouders die ten gevolge van de inwerkingtreding van deze wet vanaf enig tijdstip niet langer aanspraak hebben op persoonlijke verzorging, verpleging, behandeling, verblijf, kortdurend verblijf, vervoer en voortgezet verblijf op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), jeugdzorg op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of geestelijke gezondheidszorg op grond van [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), verstrekken jeugdhulpaanbieders, alsmede daartoe bij ministeriële regeling door Onze Ministers aangewezen personen en organisaties, persoonsgegevens, waaronder bijzondere persoonsgegevens, aan het college van de gemeente waar de betreffende jeugdige zijn woonplaats heeft.
 
@@ -357,7 +357,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. gegevens betreffende de woonplaats en, indien noodzakelijk, identificerende gegevens, waaronder het burgerservicenummer, van de ouders of andere wettelijke vertegenwoordigers ten behoeve van het vaststellen van de woonplaats;
 
-- c. gegevens betreffende de jeugdhulpaanbieder die de jeugdhulp ten tijde van de gegevensverstrekking verleent, alsmede gegevens betreffende de jeugdhulpaanbieder die de jeugdhulp zal verlenen op 1 januari van het kalenderjaar waarop de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-11-22&g=2014-11-22), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-11-22&g=2014-11-22) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-11-22&g=2014-11-22) in werking treden;
+- c. gegevens betreffende de jeugdhulpaanbieder die de jeugdhulp ten tijde van de gegevensverstrekking verleent, alsmede gegevens betreffende de jeugdhulpaanbieder die de jeugdhulp zal verlenen op 1 januari van het kalenderjaar waarop de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-12-12&g=2014-12-12), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-12-12&g=2014-12-12) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-12-12&g=2014-12-12) in werking treden;
 
 - d. gegevens, waaronder bijzondere persoonsgegevens, betreffende de ten tijde van de gegevensverstrekking verleende of geïndiceerde jeugdhulp, uitvoering van de kinderbeschermingsmaatregel of jeugdreclassering, voor zover deze verstrekking noodzakelijk is voor het treffen van aansluitende voorzieningen op het gebied van jeugdhulp, de uitvoering van kinderbeschermingsmaatregelen of jeugdreclassering, en
 
@@ -367,7 +367,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 5. Jeugdhulpaanbieders informeren de jeugdige of zijn ouders voorafgaande aan de verstrekking van de gegevens, tenzij dit onmogelijk blijkt of een onevenredige inspanning vergt.
 
-6. De gegevens, bedoeld in het tweede lid tot en met vierde lid, worden uiterlijk 31 januari van het eerste kalenderjaar na het kalenderjaar waarop de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-11-22&g=2014-11-22), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-11-22&g=2014-11-22) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-11-22&g=2014-11-22) in werking treden door het college vernietigd, tenzij de gegevens noodzakelijk zijn voor de uitvoering van een aansluitende voorziening op het gebied van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in het eerste lid, onderdeel c dan wel ter voldoening aan een wettelijk voorschrift bewaard dienen te blijven.
+6. De gegevens, bedoeld in het tweede lid tot en met vierde lid, worden uiterlijk 31 januari van het eerste kalenderjaar na het kalenderjaar waarop de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.1&z=2014-12-12&g=2014-12-12), [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.2&z=2014-12-12&g=2014-12-12) en [10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.3&z=2014-12-12&g=2014-12-12) in werking treden door het college vernietigd, tenzij de gegevens noodzakelijk zijn voor de uitvoering van een aansluitende voorziening op het gebied van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in het eerste lid, onderdeel c dan wel ter voldoening aan een wettelijk voorschrift bewaard dienen te blijven.
 
 7. Bij regeling van Onze Ministers worden nadere regels gesteld omtrent de inhoud van de gegevens, bedoeld in het tweede en derde lid, de categorieën van jeugdhulpaanbieders en overige door Onze Ministers aangewezen personen en organisaties, bedoeld in het tweede lid, die de gegevens verstrekken, de wijze en het tijdstip van het verstrekken van de gegevens, bedoeld in het tweede en derde lid, en het bericht als bedoeld in het vierde lid. Daarbij kan bepaald worden dat de gegevens of het bericht verstrekt worden aan en verwerkt worden door Onze Ministers of een door hen aan te wijzen tijdelijke voorziening.
 
@@ -403,9 +403,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. het functioneren van advies- en meldpunten voor huiselijk geweld en kindermishandeling.
 
-2. De gemeenteraad stelt het beleidsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.2&z=2014-11-22&g=2014-11-22), en de verordening, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.9&z=2014-11-22&g=2014-11-22), vast voor 1 november van het kalenderjaar waarin dit artikel in werking treedt.
+2. De gemeenteraad stelt het beleidsplan, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.2&z=2014-12-12&g=2014-12-12), en de verordening, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.9&z=2014-12-12&g=2014-12-12), vast voor 1 november van het kalenderjaar waarin dit artikel in werking treedt.
 
-3. Ten behoeve van de uitvoering van het eerste lid en van [artikel 2.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.6&z=2014-11-22&g=2014-11-22), sluiten de colleges ten behoeve van het jaar 2015 met door Onze Ministers aan te wijzen organisaties die een cruciale functie op het gebied van jeugdhulp vervullen en die voor de continuïteit van hun te leveren voorzieningen afhankelijk zijn van een groot aantal gemeenten, tijdig doch in ieder geval voor 1 november 2014 overeenkomsten waarin ter waarborging van de continuïteit van de verlening van jeugdhulp en het behoud van de daarvoor noodzakelijke infrastructuur afspraken zijn gemaakt over:
+3. Ten behoeve van de uitvoering van het eerste lid en van [artikel 2.6, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.6&z=2014-12-12&g=2014-12-12), sluiten de colleges ten behoeve van het jaar 2015 met door Onze Ministers aan te wijzen organisaties die een cruciale functie op het gebied van jeugdhulp vervullen en die voor de continuïteit van hun te leveren voorzieningen afhankelijk zijn van een groot aantal gemeenten, tijdig doch in ieder geval voor 1 november 2014 overeenkomsten waarin ter waarborging van de continuïteit van de verlening van jeugdhulp en het behoud van de daarvoor noodzakelijke infrastructuur afspraken zijn gemaakt over:
 
 - a. het budget;
 
@@ -425,7 +425,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 12.7
 
-De [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=1&artikel=1.1&z=2014-11-22&g=2014-11-22), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.2&z=2014-11-22&g=2014-11-22), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.9&z=2014-11-22&g=2014-11-22), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.15&z=2014-11-22&g=2014-11-22), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=3&artikel=3.4&z=2014-11-22&g=2014-11-22), [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.4&z=2014-11-22&g=2014-11-22), en [12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=12&artikel=12.4&z=2014-11-22&g=2014-11-22) treden in werking op de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+De [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=1&artikel=1.1&z=2014-12-12&g=2014-12-12), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.2&z=2014-12-12&g=2014-12-12), [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.9&z=2014-12-12&g=2014-12-12), [2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=2&artikel=2.15&z=2014-12-12&g=2014-12-12), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=3&artikel=3.4&z=2014-12-12&g=2014-12-12), [10.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=10&artikel=10.4&z=2014-12-12&g=2014-12-12), en [12.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=12&artikel=12.4&z=2014-12-12&g=2014-12-12) treden in werking op de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel 12.8
 
@@ -439,7 +439,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 10.4a
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een aanvraag als bedoeld in [artikel 7, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=7), die is ingediend voor de inwerkingtreding van [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=11&artikel=11.7&z=2014-12-12&g=2014-12-12) van deze wet, wordt in de stand van behandeling waarin deze zich bevindt door de stichting, bedoeld in [artikel 1 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van artikel 11.7 van deze wet, uiterlijk op de dag voor de inwerkingtreding van artikel 11.7 van deze wet overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.
+
+2. Een aanvraag van een jeugdige, die tevens verzekerde is in de zin van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) voor zorg waarvan de aanspraak op grond van de Algemene Wet Bijzondere Ziektekosten ten gevolge van de inwerkingtreding van [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=11&artikel=11.7&z=2014-12-12&g=2014-12-12) van deze wet komt te vervallen en die na inwerkingtreding van artikel 11.7 van deze wet als jeugdhulp kan worden aangemerkt waarvoor het college is gehouden een voorziening op grond van deze wet te treffen, die is ingediend voor de inwerkingtreding van artikel 11.7 van deze wet, wordt binnen twee weken na de inwerkingtreding van artikel 11.7 van deze wet in de stand waarin het zich bevindt, door het daartoe bevoegde indicatieorgaan, de stichting, bedoeld in [artikel 9b, eerste en vierde lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=9b), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, dan wel door de door Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen persoon als bedoeld in [artikel 53 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=53), overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.
+
+3. Een aanvraag van een jeugdige, die tevens verzekerde is in de zin van [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voor zorg waarvan de aanspraak op grond van de Zorgverzekeringswet ten gevolge van de inwerkingtreding van deze wet komt te vervallen en die na inwerkingtreding van [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=11&artikel=11.7&z=2014-12-12&g=2014-12-12) van deze wet als jeugdhulp kan worden aangemerkt waarvoor het college is gehouden een voorziening op grond van deze wet te treffen, die is ingediend voor de inwerkingtreding van artikel 11.7 van deze wet, wordt binnen twee weken na de inwerkingtreding van artikel 11.7 van deze wet in de stand waarin het zich bevindt, door de stichting, bedoeld in [artikel 1 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.
+
+4. Het in het tweede lid bedoelde bevoegde indicatieorgaan of stichting dan wel de door Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen persoon, alsmede de in het derde lid bedoelde stichting, zenden binnen twee weken na de dag waarop [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&hoofdstuk=11&artikel=11.7&z=2014-12-12&g=2014-12-12) van deze wet in werking treedt aan het college de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in het tweede en derde lid.
+
+5. Het college is bevoegd tot het verwerken van de persoonsgegevens die overeenkomstig het vierde lid aan hem zijn verstrekt, voor zover dat noodzakelijk is om op de aanvraag te beslissen.
 
 ##### Artikel 10.6
 
