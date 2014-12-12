@@ -4,7 +4,7 @@ identifier: "BWBR0023922"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-02-20"
-last_updated: "2014-03-15"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023922"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 **BvL:** Bewijs van Luchtwaardigheid;
 
-**certificaat**, als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-03-15&g=2014-03-15): certificaat ten aanzien van werkzaamheden die zijn opgenomen in de erkenning en die verband houden met de luchtwaardigheid en geluidsproductie van producten of onderdelen;
+**certificaat**, als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-12-12&g=2014-12-12): certificaat ten aanzien van werkzaamheden die zijn opgenomen in de erkenning en die verband houden met de luchtwaardigheid en geluidsproductie van producten of onderdelen;
 
 **EASA-beperkt-BvL:** bewijs van luchtwaardigheid voor een EASA-luchtvaartuig dat wel aan de eisen betreffende luchtwaardigheid volgens het ICAO-verdrag voldoet, maar niet aan de essentiële eisen inzake luchtwaardigheid zoals opgenomen in bijlage I bij verordening (EG) nr. 216/2008;
 
@@ -84,9 +84,9 @@ In dit besluit en in de op dit besluit gebaseerde regelingen wordt verstaan onde
 
 **geluidsverklaring:** verklaring als bedoeld in [artikel 3.19c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19c);
 
-**gemotoriseerd schermvliegtuig:** schermvliegtuig als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1), niet zijnde een schermzweeftoestel als bedoeld in artikel 1 van het Luchtverkeersreglement;
+**gemotoriseerd schermvliegtuig:** schermvliegtuig, zijnde een zweeftoestel zonder starre hoofdstructuur dat kan worden gedragen en slechts kan worden gestart en geland door gebruik te maken van de benen van de bestuurder, dat over een motor beschikt;
 
-**gyroplane:** helikopter als bedoeld in [artikel 1 van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=1) waarvan de rotorbladen niet door de motor worden aangedreven;
+**gyroplane:** helikopter, zijnde een gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht kan worden gehouden door aërodynamische reactiekrachten op zijn rotorbladen, waarvan de rotorbladen niet door de motor worden aangedreven;
 
 **ICAO-staat:** staat die het ICAO-verdrag heeft bekrachtigd;
 
@@ -372,7 +372,7 @@ Onze Minister geeft op aanvraag van de houder van een luchtvaartuig een speciaal
 
 ##### Artikel 12
 
-1. De houder van een luchtvaartuig voorzien van een ICAO-standaard-BvL laat dat luchtvaartuig onderhouden overeenkomstig [verordening (EG) nr. 2042/2003](32003R2042), Part M, door de houder van een erkenning inzake onderhoud als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15) dan wel door de houder van een bewijs van bevoegdheid inzake onderhoud ingevolge [artikel 3.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30).
+1. De houder van een luchtvaartuig voorzien van een ICAO-standaard-BvL laat dat luchtvaartuig onderhouden overeenkomstig [verordening (EG) nr. 2042/2003](32003R2042), Part M, door de houder van een erkenning inzake onderhoud als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12) dan wel door de houder van een bewijs van bevoegdheid inzake onderhoud ingevolge [artikel 3.30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.30).
 
 2. Onderhoud van luchtvaartuigen met een speciaal-BvL geschiedt overeenkomstig de bij ministeriële regeling te stellen eisen.
 
@@ -430,7 +430,7 @@ Bij ministeriële regeling worden regels gesteld omtrent:
 
 ##### Artikel 18
 
-1. Onze Minister verleent op aanvraag een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), indien:
+1. Onze Minister verleent op aanvraag een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), indien:
 
 - a. de aanvrager beschikt over een organisatie met inbegrip van een kwaliteitssysteem dat waarborgt dat de resultaten van de werkzaamheden aan de van toepassing zijnde eisen voldoen en niet tot een onveilige situatie kunnen leiden, en
 
@@ -438,25 +438,25 @@ Bij ministeriële regeling worden regels gesteld omtrent:
 
 2. Bij ministeriële regeling worden nadere regels gesteld omtrent het eerste lid.
 
-3. Een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), geldt voor de in de erkenning genoemde werkzaamheden, producten dan wel categorieën onderdelen, waarvoor de houder de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-03-15&g=2014-03-15), bedoelde bevoegdheden heeft.
+3. Een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), geldt voor de in de erkenning genoemde werkzaamheden, producten dan wel categorieën onderdelen, waarvoor de houder de in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-12-12&g=2014-12-12), bedoelde bevoegdheden heeft.
 
-4. Een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), wordt verleend voor ten hoogste 2 jaar.
+4. Een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), wordt verleend voor ten hoogste 2 jaar.
 
 ##### Artikel 19
 
-1. De houder van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), is bevoegd tot:
+1. De houder van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), is bevoegd tot:
 
 - a. de werkzaamheden die zijn opgenomen in de erkenning, en
 
 - b. de afgifte van een certificaat ten aanzien van de werkzaamheden als bedoeld onder a.
 
-2. De houder van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), is verplicht:
+2. De houder van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), is verplicht:
 
-- a. het in [artikel 18, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=18&z=2014-03-15&g=2014-03-15), bedoelde handboek te gebruiken en actueel te houden,
+- a. het in [artikel 18, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=18&z=2014-12-12&g=2014-12-12), bedoelde handboek te gebruiken en actueel te houden,
 
 - b. voorafgaande aan de afgifte van een certificaat bedoeld in het eerste lid, onder b, vast te stellen dat de resultaten van de werkzaamheden voldoen aan de van toepassing zijnde eisen, de werkzaamheden naar behoren zijn uitgevoerd en de resultaten niet tot onveilige situaties kunnen leiden,
 
-- c. gegevens die nodig zijn als bewijs dat aan alle vereisten is voldaan voor de afgifte van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-03-15&g=2014-03-15), te bewaren volgens bij ministeriële regeling te stellen regels en op een bij die regeling vastgestelde wijze aan Onze Minister ter beschikking te stellen,
+- c. gegevens die nodig zijn als bewijs dat aan alle vereisten is voldaan voor de afgifte van een erkenning als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=17&z=2014-12-12&g=2014-12-12), te bewaren volgens bij ministeriële regeling te stellen regels en op een bij die regeling vastgestelde wijze aan Onze Minister ter beschikking te stellen,
 
 - d. in het geval van een ontwerperkenning de ontwerpen indien nodig aan te passen aan de van toepassing zijnde luchtwaardigheids- en milieueisen,
 
@@ -480,9 +480,9 @@ Bij ministeriële regeling worden nadere regels gesteld omtrent:
 
 - e. de wijze waarop de aanvrager aantoont dat hij aan de gestelde eisen voldoet,
 
-- f. het model en de uitvoering van een certificaat als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-03-15&g=2014-03-15), en
+- f. het model en de uitvoering van een certificaat als bedoeld in [artikel 19, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-12-12&g=2014-12-12), en
 
-- g. de melding aan Onze Minister als bedoeld in [artikel 19, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-03-15&g=2014-03-15).
+- g. de melding aan Onze Minister als bedoeld in [artikel 19, tweede lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-12-12&g=2014-12-12).
 
 ##### Artikel 21
 
@@ -514,9 +514,9 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot start
 
 ##### Artikel 23
 
-1. De beslissing op een aanvraag voor de toepassing van de handelingen in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=7&artikel=22&z=2014-03-15&g=2014-03-15), met uitzondering van een aanvraag die betrekking heeft op een aanvullend type-certicaat en een ontwerpgoedkeuring, wordt slechts genomen nadat is gebleken dat de verschuldigde vergoeding is betaald.
+1. De beslissing op een aanvraag voor de toepassing van de handelingen in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=7&artikel=22&z=2014-12-12&g=2014-12-12), met uitzondering van een aanvraag die betrekking heeft op een aanvullend type-certicaat en een ontwerpgoedkeuring, wordt slechts genomen nadat is gebleken dat de verschuldigde vergoeding is betaald.
 
-2. De beslissing op een aanvraag voor de toepassing van de handelingen in [artikel 22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=7&artikel=22&z=2014-03-15&g=2014-03-15), voor zover die betrekking heeft op aanvullende type-certificaten en een ontwerpgoedkeuring, wordt slechts genomen nadat is gebleken dat alle voorafgaande facturen ten aanzien van de gevraagde handeling, verstuurd tot 30 dagen voorafgaande aan de datum van de beslissing, zijn voldaan.
+2. De beslissing op een aanvraag voor de toepassing van de handelingen in [artikel 22, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=7&artikel=22&z=2014-12-12&g=2014-12-12), voor zover die betrekking heeft op aanvullende type-certificaten en een ontwerpgoedkeuring, wordt slechts genomen nadat is gebleken dat alle voorafgaande facturen ten aanzien van de gevraagde handeling, verstuurd tot 30 dagen voorafgaande aan de datum van de beslissing, zijn voldaan.
 
 3. Wanneer na de betaling van de verschuldigde vergoeding degene, die een aanvraag als bedoeld in het eerste lid, heeft ingediend, verzoekt die aanvraag als niet ingediend te beschouwen, kan hem op zijn verzoek een, nader door Onze Minister in elk geval afzonderlijk te bepalen, bedrag worden terugbetaald.
 
@@ -532,27 +532,27 @@ Vervallen
 
 Na de inwerkingtreding van dit besluit berusten de hierna genoemde regelingen op de daarbij vermelde artikelen van dit besluit :
 
-- a. de [regeling van de staatssecretaris van Financiën van 22 december 1989 houdende douaneformaliteiten voor luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004675) (Stcrt. 250) berust op [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=2&artikel=3&z=2014-03-15&g=2014-03-15);
+- a. de [regeling van de staatssecretaris van Financiën van 22 december 1989 houdende douaneformaliteiten voor luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004675) (Stcrt. 250) berust op [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=2&artikel=3&z=2014-12-12&g=2014-12-12);
 
-- b. de [Regeling inschrijving Nederlandse burgerluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012878) berust op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=2&artikel=4&z=2014-03-15&g=2014-03-15);
+- b. de [Regeling inschrijving Nederlandse burgerluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012878) berust op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=2&artikel=4&z=2014-12-12&g=2014-12-12);
 
-- c. de [Regeling type-certificatie luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012874) berust op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=3&artikel=6&z=2014-03-15&g=2014-03-15);
+- c. de [Regeling type-certificatie luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012874) berust op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=3&artikel=6&z=2014-12-12&g=2014-12-12);
 
-- d. de [Regeling standaard-BvL](https://wetten.overheid.nl/jci1.3:c:BWBR0012876) berust op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=8&z=2014-03-15&g=2014-03-15), en [13, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15);
+- d. de [Regeling standaard-BvL](https://wetten.overheid.nl/jci1.3:c:BWBR0012876) berust op de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=8&z=2014-12-12&g=2014-12-12), en [13, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-12-12&g=2014-12-12);
 
-- e. de [Regeling amateurbouwluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0013494) en de [Regeling MLA’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015237) berusten op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=I&artikel=2&z=2014-03-15&g=2014-03-15), en [13, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15);
+- e. de [Regeling amateurbouwluchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0013494) en de [Regeling MLA’s](https://wetten.overheid.nl/jci1.3:c:BWBR0015237) berusten op de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=I&artikel=2&z=2014-12-12&g=2014-12-12), en [13, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-12-12&g=2014-12-12);
 
-- f. de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882) berust op de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=12&z=2014-03-15&g=2014-03-15) en [13, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15);
+- f. de [Regeling onderhoud luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012882) berust op de [artikelen 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=12&z=2014-12-12&g=2014-12-12) en [13, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-12-12&g=2014-12-12);
 
-- g. de [Regeling verlenging bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011596) berust op [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-03-15&g=2014-03-15);
+- g. de [Regeling verlenging bewijzen van luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011596) berust op [artikel 13, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=4&artikel=13&z=2014-12-12&g=2014-12-12);
 
-- h. de [Regeling geluidscertificaten en geluidsverklaringen luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0018244) berust op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=5&artikel=16&z=2014-03-15&g=2014-03-15);
+- h. de [Regeling geluidscertificaten en geluidsverklaringen luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0018244) berust op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=5&artikel=16&z=2014-12-12&g=2014-12-12);
 
-- i. de [Regeling erkenningen luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012877) berust op de [artikelen 19, tweede lid, onderdeel c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-03-15&g=2014-03-15), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=20&z=2014-03-15&g=2014-03-15);
+- i. de [Regeling erkenningen luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012877) berust op de [artikelen 19, tweede lid, onderdeel c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=19&z=2014-12-12&g=2014-12-12), en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=20&z=2014-12-12&g=2014-12-12);
 
-- j. de [Regeling voorzieningen sleepvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0012875), de [regeling van de minister van Verkeer en Waterstaat van 5 september 1990, houdende technische voorschriften voor lieren, sleepauto's en sleepkabels](https://wetten.overheid.nl/jci1.3:c:BWBR0004853) (Stcrt. 179) en de [Regeling onderhoud lieren 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012883) berusten op [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=21&z=2014-03-15&g=2014-03-15);
+- j. de [Regeling voorzieningen sleepvliegen](https://wetten.overheid.nl/jci1.3:c:BWBR0012875), de [regeling van de minister van Verkeer en Waterstaat van 5 september 1990, houdende technische voorschriften voor lieren, sleepauto's en sleepkabels](https://wetten.overheid.nl/jci1.3:c:BWBR0004853) (Stcrt. 179) en de [Regeling onderhoud lieren 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012883) berusten op [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=6&artikel=21&z=2014-12-12&g=2014-12-12);
 
-- k. de Instructie doelvliegtuig berust op [artikel 2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=I&artikel=2&z=2014-03-15&g=2014-03-15).
+- k. de Instructie doelvliegtuig berust op [artikel 2, zesde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&hoofdstuk=I&artikel=2&z=2014-12-12&g=2014-12-12).
 
 ##### Artikel 26
 
