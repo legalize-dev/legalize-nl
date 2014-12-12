@@ -4,7 +4,7 @@ identifier: "BWBR0006174"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "1993-10-20"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006174"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ Besluit:
 
 ##### Artikel 1
 
-1. Indien de radioverbinding van een luchtvaartuig met de betrokken luchtverkeersleidingsdienst uitvalt worden de voorschriften in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006174&artikel=2&z=1993-10-20&g=1993-10-20) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006174&artikel=3&z=1993-10-20&g=1993-10-20) in acht genomen.
+1. Indien de radioverbinding van een luchtvaartuig met de betrokken luchtverkeersleidingsdienst uitvalt worden de voorschriften in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006174&artikel=2&z=2014-12-12&g=2014-12-12) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006174&artikel=3&z=2014-12-12&g=2014-12-12) in acht genomen.
 
 2. Indien het betrokken luchtvaartuig deel uitmaakt van het luchtvaartterreinverkeer wordt bovendien uitgekeken naar eventuele opdrachten in de vorm van visuele seinen.
 
@@ -98,3 +98,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling storing radioverbinding tijdens een gecontroleerde vlucht.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 22 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=22).
