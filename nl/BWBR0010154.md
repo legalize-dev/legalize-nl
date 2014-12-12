@@ -4,7 +4,7 @@ identifier: "BWBR0010154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2013-01-01"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010154"
 soort: "ministeriele-regeling"
@@ -46,6 +46,34 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **Aëronautica Fixed Service (AFS):** een communicatie-netwerk voor luchtverkeersdiensten;
+
+- b. **Aëronautica Information Regulation and Control (AIRAC):** een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
+
+- c. **Aëronautica Information Services (AIS):** een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
+
+- d. **Aeronautical Information Circular (AIC):** een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publikatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
+
+- e. **AIS unit:** een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;
+
+- f. **amendement:** permanente veranderingen van de inlichtingen in de luchtvaartgids;
+
+- g. **bijlage 4:** aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+
+- h. **bijlage 15:** aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+
+- i. **International NOTAM office:** de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
+
+- j. **luchtvaartinlichtingendiensten:** de onderdelen van de LVNL die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12);
+
+- k. **luchtvaartkaart:** een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.
+
+- l. **Notice to Airmen (NOTAM):** een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+
+- m. **Preflight Information Bulletin (PIB):** een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
+
+- n. **supplement:** tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;
+
 ##### Artikel 2
 
 1. De luchtvaartinlichtingendiensten hebben tot taak door middel van het verstrekken van luchtvaartinlichtingen en het uitgeven van luchtvaartpublicaties en luchtvaartkaarten, een veilig, ordelijk en vlot verloop van het luchtverkeer te bevorderen.
@@ -54,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. IS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
+1. AIS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
 
 2. Op luchtvaartterreinen waar geen AIS unit is gevestigd is de exploitant van het luchtvaartterrein verantwoordelijk voor het beschikbaar stellen van luchtvaartinlichtingen, die vrij toegankelijk zijn, voor de vlucht en het in ontvangst nemen daarvan na de vlucht.
 
@@ -132,7 +160,7 @@ Luchtvaartinlichtingen van operationele aard, of die cartografische werkzaamhede
 
 ##### Artikel 13
 
-1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2013-01-01&g=2013-01-01).
+1. Als burgerluchtvaartinlichtingendiensten zijn aangewezen onderdelen van de LVNL, die zijn belast met de taak omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12).
 
 2. Als AIS-unit zijn aangewezen:
 
@@ -235,7 +263,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 ##### Artikel 16
 
-1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2013-01-01&g=2013-01-01), verstrekt aan:
+1. Luchtvaartinlichtingen ten behoeve van de vluchtvoorbereiding en vluchtuitvoering worden, overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0010154&hoofdstuk=4&artikel=15&z=2014-12-12&g=2014-12-12), verstrekt aan:
 
 - a. luchtvarenden;
 
@@ -259,7 +287,7 @@ Als International NOTAM office is aangewezen de AIS-unit Schiphol.
 
 - d. dienst Operationele samenwerking van de Landelijke eenheid;
 
-- e. de Inspectie Verkeer en Waterstaat.
+- e. de Inspectie Leefomgeving en Transport.
 
 ### Hoofdstuk 6
 
@@ -282,3 +310,19 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling burgerluchtvaartinlichtingen.
+
+##### Artikel 1a
+
+Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6) en [26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
+
+### Hoofdstuk 2
+
+### Hoofdstuk 3
+
+### Hoofdstuk 4
+
+### Hoofdstuk 5
+
+### Hoofdstuk 6
+
+### Hoofdstuk 7
