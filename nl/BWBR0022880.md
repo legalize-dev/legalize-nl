@@ -4,7 +4,7 @@ identifier: "BWBR0022880"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2007-11-23"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022880"
 soort: "ministeriele-regeling"
@@ -57,6 +57,16 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 4
 
 Deze regeling wordt aangehaald als: Regeling onderschepping luchtvaartuigen.
+
+## Bijlage
+
+Ligt ter inzage bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlage bij deze regeling ligt ter visie bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 25 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=25).
 
 ## Bijlage
 
