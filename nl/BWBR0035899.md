@@ -393,19 +393,3 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 Dit besluit wordt aangehaald als: Besluit luchtverkeer 2014.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 4a. Overige bijzondere vluchten
-
-Bij regeling van Onze Minister kunnen regels worden gesteld ten aanzien van de deelname aan het luchtverkeer van luchtvaartuigen die niet onder het toepassingsgebied van verordening (EU) nr. 923/2012 vallen.
-
-### Hoofdstuk II. Het luchtruim en luchtverkeersdiensten
-
-### Hoofdstuk III. Algemene luchtverkeersregels
-
-### Hoofdstuk IV. Vliegvoorschriften
-
-### Hoofdstuk V. Wijzigingen in overige besluiten
-
-### Hoofdstuk VI. Strafbepalingen en slotbepalingen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
