@@ -4,7 +4,7 @@ identifier: "BWBR0006175"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-12"
-last_updated: "2009-10-31"
+last_updated: "2014-12-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006175"
 soort: "ministeriele-regeling"
@@ -43,11 +43,15 @@ Besluit:
 
 ##### Artikel 1
 
-De bepalingen van deze regeling zijn van toepassing op luchtvaartuigen behorend tot het luchthavenverkeer van burgerluchthavens waar geen luchtverkeersleiding wordt gegeven en waarvoor de minister geen luchtverkeerscircuits heeft vastgesteld overeenkomstig [artikel 23a van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23a).
+Deze regeling is van toepassing op luchtvaartuigen behorend tot het luchthavenverkeer van burgerluchthavens waar geen luchtverkeersleiding wordt gegeven en waarvoor:
+
+- a. de minister geen luchtverkeerscircuits heeft vastgesteld overeenkomstig [artikel 23 van de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&artikel=23), of
+
+- b. het bevoegde gezag geen andere luchtverkeerspatronen heeft voorgeschreven overeenkomstig de [artikelen 8.44](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.44) en [8.64 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.64).
 
 ##### Artikel 2
 
-1. De onderdelen van het ingevolge [artikel 27, eerste lid, onder b van het Luchtverkeersreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0005775&artikel=27) door luchtvaartuigen te vliegen luchtverkeerscircuit, zoals aangegeven in de bij deze regeling behorende bijlage, worden achtereenvolgens benoemd:
+1. De onderdelen van het ingevolge paragraaf SERA.3225, onderdeel b, van de verordening (EU) nr. 923/2012 door luchtvaartuigen te vliegen luchtverkeerscircuit, zoals aangegeven in de bij deze regeling behorende bijlage, worden achtereenvolgens benoemd:
 
 - a. Runway/start- en landingsbaan;
 
@@ -109,7 +113,7 @@ Het luchtverkeerscircuit wordt verlaten onder een hoek van 45° halverwege het d
 
 ##### Artikel 9
 
-Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006175&artikel=2&z=2009-10-31&g=2009-10-31), en 3 tot en met 8 niet ingeval van:
+Indien en voor zover het overige circuitverkeer niet wordt gehinderd gelden de [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006175&artikel=2&z=2014-12-12&g=2014-12-12), en 3 tot en met 8 niet ingeval van:
 
 - a. afwijkende voorschriften, die zijn gegeven op grond van plaatselijke omstandigheden;
 
@@ -130,5 +134,11 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 ##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling standaard luchtverkeerscircuits.
+
+## Bijlage
+
+##### Artikel 1a
+
+Deze regeling berust op [artikel 7, eerste lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=7).
 
 ## Bijlage
