@@ -4,7 +4,7 @@ identifier: "BWBR0005825"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2005-11-30"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005825"
 soort: "ministeriele-regeling"
@@ -46,6 +46,16 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **diepvriezen:** het bevriezingsproces waardoor zo snel als nodig is de maximale kristallisatiezone wordt overschreden, met het gevolg dat na thermische stabilisatie de temperatuur overal in de waar zonder onderbreking gehandhaafd blijft op –18 °C of lager;
+
+- b. **diepgevroren levensmiddelen:** diepgevroren eet- of drinkwaren, andere dan consumptie-ijs, die verhandeld worden op een wijze waaruit blijkt dat zij dat kenmerk bezitten;
+
+- c. **grondstoffen:** grondstoffen, halffabrikaten en ingredinten bestemd voor de bereiding van eet- en drinkwaren;
+
+- d. **instellingen:** restaurants, ziekenhuizen, kantines en andere soortgelijke instellingen.
+
+- e. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van [Verordeningen (EG) nr. 1924/2006](32006R1924) en [(EG) nr. 1925/2006](32006R1925) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en [Verordening (EG) nr. 608/2004](32004R0608) van de Commissie (PbEU 2011, L 304).
+
 ##### Artikel 2
 
 1. Grondstoffen, welke voor de bereiding van diepgevroren levensmiddelen worden gebruikt, zijn van een gezonde handelskwaliteit en voldoende vers.
@@ -72,9 +82,9 @@ Diepgevroren levensmiddelen, bestemd voor aflevering aan de eindverbruiker, word
 
 ##### Artikel 6
 
-Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) onderscheidenlijk het Algemeen Aanduidingenbesluit (Warenwet) worden bij de verhandeling van diepgevroren levensmiddelen aan de eindverbruiker of aan instellingen gebezigd:
+Onverminderd verordening (EU) 1169/2011 worden bij de verhandeling van diepgevroren levensmiddelen aan de eindverbruiker of aan instellingen gebezigd:
 
-- a. de vermelding ‘diepvries’, toe te voegen aan de aanduiding, bedoeld in [artikel 3 van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=3) onderscheidenlijk artikel 3, eerste lid, van het Algemeen Aanduidingenbesluit (Warenwet);
+- a. de vermelding ‘diepvries’, toe te voegen aan de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011;
 
 - b. een vermelding aangevende gedurende welke periode en bij welke temperatuur of in welke installatie de diepgevroren levensmiddelen bij de eindverbruiker bewaard kunnen worden; en
 
@@ -84,11 +94,11 @@ Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wette
 
 1. Indien diepgevroren levensmiddelen als zodanig niet zijn bestemd voor de eindverbruiker of instellingen, worden bij de verhandeling gebezigd:
 
-- a. de vermelding ‘diepvries’, toe te voegen aan de aanduiding, bedoeld in [artikel 3 van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=3) onderscheidenlijk artikel 3, eerste lid, van het Algemeen Aanduidingenbesluit (Warenwet); en
+- a. de vermelding ‘diepvries’, toe te voegen aan de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011; en
 
-- b. de vermeldingen, bedoeld in [artikel 5, eerste lid, onder c, f en i, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5).
+- b. de vermeldingen, bedoeld in artikel 9, eerste lid, onder e en h, van verordening (EU) 1169/2011 en [artikel 4 van het Warenwetbesluit informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4).
 
-2. De in het eerste lid bedoelde aanduiding en vermeldingen worden aangebracht op de verpakking of het omhulsel waarin de waar wordt aangeboden, of op een hierop aangebracht etiket.
+2. De in het eerste lid bedoelde benaming en vermeldingen worden aangebracht op de verpakking of het omhulsel waarin de waar wordt aangeboden, of op een hierop aangebracht etiket.
 
 ##### Artikel 8
 
@@ -98,19 +108,19 @@ Vervallen
 
 1. De voor de officiële controle van de temperatuur van diepgevroren levensmiddelen benodigde analysemethode wordt uitgevoerd in overeenstemming met de bijlage.
 
-2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30), worden overschreden.
+2. De in het eerste lid bedoelde analysemethode mag uitsluitend worden gebruikt wanneer na inspectie het vermoeden bestaat dat de drempelwaarden voor de temperatuur, zoals deze zijn vastgelegd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2014-12-13&g=2014-12-13), worden overschreden.
 
 ##### Artikel 10
 
-Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2005-11-30&g=2005-11-30), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
+Onverminderd [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2014-12-13&g=2014-12-13), mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de in de bijlage van deze regeling beschreven methode is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. Wanneer de resultaten verschillen, geven de resultaten die met behulp van de in de bijlage bedoelde analysemethode zijn verkregen, de doorslag.
 
 ##### Artikel 11
 
 1. Deze regeling treedt in werking met ingang van 10 januari 1993.
 
-2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2005-11-30&g=2005-11-30), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2005-11-30&g=2005-11-30) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2005-11-30&g=2005-11-30) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
+2. In afwijking van het eerste lid treden de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=8&z=2014-12-13&g=2014-12-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=9&z=2014-12-13&g=2014-12-13) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=10&z=2014-12-13&g=2014-12-13) in werking met ingang van 31 juli 1993, met uitzondering voor wat betreft het vervoer van diepgevroren levensmiddelen, waarvoor zij in werking treden met ingang van 31 juli 1994.
 
-3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30), vervalt met ingang van 10 januari 1997.
+3. [Artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2014-12-13&g=2014-12-13), vervalt met ingang van 10 januari 1997.
 
 ##### Artikel 12
 
@@ -122,7 +132,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### 1. Toepassingsgebied
 
-De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2005-11-30&g=2005-11-30) voorgeschreven temperaturen van diepgevroren levensmiddelen.
+De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005825&artikel=4&z=2014-12-13&g=2014-12-13) voorgeschreven temperaturen van diepgevroren levensmiddelen.
 
 ##### 2. Principe
 
