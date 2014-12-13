@@ -4,7 +4,7 @@ identifier: "BWBR0005758"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-11-14"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005758"
 soort: "AMvB"
@@ -106,7 +106,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - u. **verordening (EG) 1333/2008:** verordening (EG) nr. 1333/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 inzake levensmiddelenadditieven (PbEU L 354);
 
-- v. **lokaal vervoer:** rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren.
+- v. **lokaal vervoer:** rechtstreekse aflevering van bestellingen aan consumenten, filialen, horecagelegenheden, instellingen en marktplaatsen voor zover deze aflevering plaatsvindt binnen een straal van twintig kilometer van de plaats van waaruit het vervoer plaatsvindt gedurende ten hoogste twee uren;
+
+- w. **verordening (EU) 1169/2011:** Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
 
 ##### Artikel 2
 
@@ -124,19 +126,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden eet- of drinkwaren te verhandelen die afkomstig zijn van dieren waarop diergeneesmiddelen zijn beproefd, tenzij overeenkomstig [Verordening (EEG) nr. 2377/90](31990R2377) van de Raad van de Europese Gemeenschappen van 26 juni 1990 houdende een communautaire procedure tot vaststelling van maximumwaarden voor residuen van geneesmiddelen voor diergeneeskundig gebruik in levensmiddelen van dierlijke oorsprong (PbEG L 224) maximumwaarden aan residuen en een passende wachttijd zijn vastgesteld om te waarborgen dat deze maximumwaarden aan residuen in die eet- of drinkwaren niet worden overschreden, en die bepalingen in acht zijn genomen.
 
-8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2014-11-14&g=2014-11-14) inzake de verpakking van de waar.
+8. Het is verboden pluimveevlees te verhandelen anders dan met inachtneming van [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=4a&z=2014-12-13&g=2014-12-13) inzake de verpakking van de waar.
 
 9. Het is verboden te handelen in strijd met de artikelen 1, eerste lid, 3, en 5, van verordening (EG) 1881/2006.
 
 10. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de bij artikel 14, eerste lid, artikel 18, eerste tot en met vierde lid, artikel 19, en de krachtens artikel 18, vijfde lid, van verordening (EG) 178/2002 vastgestelde bepalingen.
 
-11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in [artikel 5, eerste lid, onder d, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5).
+11. Het is verboden eet- of drinkwaren te verhandelen na de uiterste consumptiedatum, bedoeld in artikel 24, eerste lid, van verordening (EU) 1169/2011.
 
 12. Het is verboden te handelen in strijd met artikel 2 van [verordening (EG) 37/2005](32005R0037).
 
 13. Het is verboden ten aanzien van eet- en drinkwaren te handelen in strijd met de artikelen 18, eerste lid, 19 en 20, eerste lid, van verordening (EG) 396/2005.
 
-14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14).
+14. Het is verboden te handelen in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13).
 
 15. Het is verboden te handelen in strijd met artikel 1, eerste lid, eerste en derde alinea, van verordening (EG) 124/2009.
 
@@ -272,7 +274,7 @@ Het gehalte aan erucazuur in eet- of drinkwaren, berekend op het totale gehalte 
 
 ##### Artikel 13
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2014-11-14&g=2014-11-14), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=4&artikel=12&z=2014-12-13&g=2014-12-13), die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.
 
 #### § 4. Verontreinigingen en residuen van bestrijdingsmiddelen
 
@@ -302,7 +304,7 @@ Onze Minister stelt ter uitvoering van de Richtlijn van de Raad van de Europese 
 
 - b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;
 
-is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=17) (**Stb.** 1992, 14) van toepassing.
+is artikel 24, eerste lid, van verordening (EU) 1169/2011 inzake de uiterste consumptiedatum van toepassing.
 
 3. Onverminderd de ter zake geldende eisen ten aanzien van de etikettering van levensmiddelen moet op de verpakking van de in het tweede lid, onder **a**, bedoelde eet- of drinkwaar een bewaarvoorschrift worden gebezigd waaruit onder andere blijkt dat de waar binnen een bepaald aantal dagen na aankoop dient te worden geconsumeerd, echter nooit later dan de reeds vermelde datum.
 
@@ -344,7 +346,7 @@ Vervallen
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere Lid-Staat van de Europese Economische Gemeenschap aangewezen methoden.
 
-2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2014-11-14&g=2014-11-14), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
+2. Onverminderd het eerste lid worden bij de vaststelling of al dan niet is voldaan aan [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=3&artikel=5&z=2014-12-13&g=2014-12-13), de specificaties in acht genomen die zijn omschreven in bijlage III van [richtlijn 98/83/EG](31998L0083), met dien verstande dat:
 
 - a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;
 
@@ -374,9 +376,9 @@ een en ander behoudens indien de toestemming op een eerder tijdstip wordt ingetr
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad, waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2014-11-14&g=2014-11-14), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2014-11-14&g=2014-11-14) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2014-11-14&g=2014-11-14) in werking met ingang van 10 januari 1993.
+2. In afwijking van het eerste lid treden de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=1&artikel=2&z=2014-12-13&g=2014-12-13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=14&z=2014-12-13&g=2014-12-13) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=7&artikel=18&z=2014-12-13&g=2014-12-13) in werking met ingang van 10 januari 1993.
 
-3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2014-11-14&g=2014-11-14), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
+3. In afwijking van het eerste lid treedt [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005758&paragraaf=5&artikel=15&z=2014-12-13&g=2014-12-13), voor zover het betreft het vervoer van de daar bedoelde eet- of drinkwaar, en tweede en derde lid, in werking met ingang van de achttiende maand na de in het eerste lid bedoelde datum.
 
 4. Een wijziging van bijlage III van [richtlijn 98/83/EG](31998L0083) gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
