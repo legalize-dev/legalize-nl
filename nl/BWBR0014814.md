@@ -4,7 +4,7 @@ identifier: "BWBR0014814"
 country: "nl"
 rank: "amvb"
 publication_date: "2014-12-13"
-last_updated: "2009-12-31"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014814"
 soort: "AMvB"
@@ -68,13 +68,15 @@ Hebben goedgevonden en verstaan:
 
 - c. **richtlijn 2002/46/EG**: [richtlijn nr. 2002/46/EG](32002L0046) van het Europees Parlement en de Raad van de Europese Unie van 10 juni 2002 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake voedingssupplementen (PbEG L 183);
 
+- d. **verordening (EU) 1169/2011**: Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
+
 2. Dit besluit is niet van toepassing op geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1).
 
 ##### Artikel 2
 
 1. Het is verboden voedingssupplementen te bereiden of te verhandelen die niet voldoen aan de bij of krachtens dit besluit gestelde eisen met betrekking tot hun samenstelling.
 
-2. Het is verboden voedingssupplementen aan de eindverbruiker te koop aan te bieden, te verkopen of af te leveren anders dan in een voorverpakking als bedoeld in [artikel 1, onder c, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=1).
+2. Het is verboden voedingssupplementen aan de eindverbruiker te koop aan te bieden, te verkopen of af te leveren anders dan als voorverpakt levensmiddel als bedoeld in artikel 2, tweede lid, onder e, van verordening (EU) 1169/2011.
 
 3. Het is verboden voedingssupplementen te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
 
@@ -106,7 +108,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 ##### Artikel 6
 
-1. Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) worden bij voedingssupplementen vermeldingen gebezigd inzake:
+1. Onverminderd verordening (EU) 1169/2011 worden bij voedingssupplementen vermeldingen gebezigd inzake:
 
 - a. de aanduiding van de categorieën microvoedingsstoffen of stoffen die de waar kenmerken, of informatie betreffende de aard van deze microvoedingsstoffen of stoffen;
 
@@ -118,7 +120,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 - e. een waarschuwing dat voedingssupplementen buiten bereik van jonge kinderen moeten worden bewaard.
 
-2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2009-12-31&g=2009-12-31) bedoelde hoeveelheden.
+2. Bij de vaststelling van de aanbevolen dagelijkse portie wordt rekening gehouden met de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=4&z=2014-12-13&g=2014-12-13) bedoelde hoeveelheden.
 
 3. Bij voedingssupplementen worden geen vermeldingen gebezigd die beweren of suggereren dat een evenwichtige en gevarieerde voeding in het algemeen geen passende hoeveelheden aan microvoedingsstoffen kan bieden.
 
@@ -130,7 +132,7 @@ De aanduiding **voedingssupplement** mag uitsluitend en moet worden gebezigd voo
 
 - a. heeft betrekking op de aanbevolen dagelijkse portie; en
 
-- b. wordt uitgedrukt als percentage van de, voor zover van toepassing, in de bijlage van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen vermelde referentiewaarden.
+- b. wordt uitgedrukt als percentage van de, voor zover van toepassing, in bijlage XIII, deel A, van verordening (EU) 1169/2011, vermelde referentie-innames.
 
 2. De in de aanhef van het eerste lid bedoelde hoeveelheid is een gemiddelde op basis van de analyse van de waar door de desbetreffende fabrikant.
 
@@ -148,9 +150,9 @@ Wijzigt Warenwetbesluit bestuurlijke boeten.
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2009-12-31&g=2009-12-31) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2009-12-31&g=2009-12-31) in werking met ingang van 1 augustus 2005.
+2. In afwijking van het eerste lid treden [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=1&artikel=2&z=2014-12-13&g=2014-12-13) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=4&artikel=8&z=2014-12-13&g=2014-12-13) in werking met ingang van 1 augustus 2005.
 
-3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2009-12-31&g=2009-12-31), vervalt met ingang van 31 december 2009.
+3. [Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014814&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13), vervalt met ingang van 31 december 2009.
 
 ##### Artikel 10
 
