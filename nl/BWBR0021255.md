@@ -4,7 +4,7 @@ identifier: "BWBR0021255"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2012-08-27"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021255"
 soort: "AMvB"
@@ -76,13 +76,13 @@ Hebben goedgevonden en verstaan:
 
 - –. alle relevante niet-persoonlijke informatie met betrekking tot de producten en materialen die met het orgaan in aanraking komen, op te sporen en te indentificeren.
 
-2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2012-08-27&g=2012-08-27), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2012-08-27&g=2012-08-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2012-08-27&g=2012-08-27) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
+2. In de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=6&z=2014-12-13&g=2014-12-13), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2014-12-13&g=2014-12-13) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=8&z=2014-12-13&g=2014-12-13) worden onder lichaamsmateriaal tevens begrepen uit weefsel of cellen bereide producten waarin geen menselijke cellen meer voorkomen.
 
 ##### Artikel 1.2
 
-1. Een wijziging van de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+1. Een wijziging van de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-2. Het totstandkomen van de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften wordt door Onze Minister bekendgemaakt in de Staatscourant.
+2. Het totstandkomen van de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften wordt door Onze Minister bekendgemaakt in de Staatscourant.
 
 ### Hoofdstuk 2. Orgaancentrum
 
@@ -150,7 +150,7 @@ Deze paragraaf is niet van toepassing op organen.
 
 1. Het verkrijgen en het testen van lichaamsmateriaal wordt uitgevoerd door personen met een gedegen opleiding en ervaring.
 
-2. Het verkrijgen en het testen van lichaamsmateriaal voldoet aan de krachtens de EU-richtlijn weefsel en cellen gestelde technische voorschriften inzake het verkrijgen van lichaamsmateriaal, de voor donoren vereiste laboratoriumtesten en de procedures voor de verkrijging van lichaamsmateriaal en de ontvangst in de weefselinstelling.
+2. Het verkrijgen en het testen van lichaamsmateriaal voldoet aan de krachtens de EU-richtlijn weefsels en cellen gestelde technische voorschriften inzake het verkrijgen van lichaamsmateriaal, de voor donoren vereiste laboratoriumtesten en de procedures voor de verkrijging van lichaamsmateriaal en de ontvangst in de weefselinstelling.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verkrijgen en testen van lichaamsmateriaal.
 
@@ -174,9 +174,9 @@ Deze paragraaf is niet van toepassing op organen.
 
 4. De acceptatie of afkeuring van het ontvangen lichaamsmateriaal wordt schriftelijk vastgelegd.
 
-5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27).
+5. De weefselinstelling zorgt ervoor dat lichaamsmateriaal altijd juist geïdentificeerd is. Elke levering of partij lichaamsmateriaal krijgt een identificatiecode, overeenkomstig [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13).
 
-6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2012-08-27&g=2012-08-27).
+6. Lichaamsmateriaal wordt in quarantaine gehouden totdat minstens aan de voorschriften inzake onderzoek en informatie van de donor is voldaan overeenkomstig [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=3&z=2014-12-13&g=2014-12-13).
 
 7. De weefselinstelling ontvangt en bewaart alleen lichaamsmateriaal dat is getest door een laboratorium dat daartoe een vergunning heeft verkregen op grond van [artikel 12 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=12).
 
@@ -218,7 +218,7 @@ Deze paragraaf is niet van toepassing op organen.
 
 1. Lichaamsmateriaal dat in een weefselinstelling aanwezig is, is te allen tijde identificeerbaar.
 
-2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
+2. Tijdens het bewaren is lichaamsmateriaal op de verpakking of op een daaraan onlosmakelijk verbonden etiket in ieder geval voorzien van de identificatiecode, bedoeld in de aanhef van [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13), alsmede van de in de EU-richtlijn weefsels en cellen bedoelde technische gegevens of een verwijzing naar die gegevens inzake de procedure voor de verkrijging van lichaamsmateriaal en de ontvangst daarvan in een weefselinstelling en de bewerking, bewaring en distributie van lichaamsmateriaal.
 
 ##### Artikel 4.4
 
@@ -334,7 +334,7 @@ De instelling kan lichaamsmateriaal dat aan haar is afgeleverd met het oog op he
 
 1. De instelling waar lichaamsmateriaal is toegepast op de mens, legt de volgende gegevens vast:
 
-- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2012-08-27&g=2012-08-27);
+- a. de identificatiecode, bedoeld in de [aanhef van artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13);
 
 - b. de soort van het materiaal;
 
@@ -358,7 +358,7 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 1. Het orgaancentrum, de weefselinstelling en de arts die verantwoordelijk is voor de medische begeleiding van een patiënt die een orgaan ontvangen heeft, dragen zorg voor het systematisch melden, onderzoeken, registreren en doorgeven van relevante, noodzakelijke gegevens over ernstige ongewenste voorvallen en bijwerkingen die van invloed kunnen zijn op de kwaliteit en de veiligheid van lichaamsmateriaal of van organen en die mogelijk toe te schrijven zijn aan het verkrijgen, testen, karakteriseren, bewerken, bewaren, preserveren, distribueren en vervoeren van lichaamsmateriaal of organen, en over ernstige ongewenste bijwerkingen die tijdens of na een klinische toepassing of na transplantatie worden vastgesteld en die met de kwaliteit en de veiligheid van lichaamsmateriaal of van organen of met de transplantatieactiviteiten verband kunnen houden.
 
-2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2012-08-27&g=2012-08-27), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
+2. De in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=4&artikel=4.4&z=2014-12-13&g=2014-12-13), bedoelde persoon zorgt ervoor dat ernstige ongewenste voorvallen en bijwerkingen worden gemeld aan de ingevolge [artikel 19 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&artikel=19) met het toezicht op de naleving van die wet belaste ambtenaar, alsook dat aan deze ambtenaar een analytisch verslag over de oorzaken en gevolgen ervan wordt overlegd.
 
 3. De weefselinstelling zorgt voor een nauwkeurige, snelle en controleerbare procedure aan de hand waarvan zij producten waarmee ernstige ongewenste voorvallen of bijwerkingen in verband kunnen worden gebracht, uit de distributie kan nemen.
 
@@ -380,7 +380,7 @@ Een ieder die gebruik maakt van lichaamsmateriaal, geeft alle relevante informat
 
 ##### Artikel 10.1
 
-Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2012-08-27&g=2012-08-27) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
+Onze Minister kan normen aanwijzen, bij het voldoen waaraan de orgaancentra, de weefselinstellingen of de in de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0021255&hoofdstuk=7&z=2014-12-13&g=2014-12-13) bedoelde instellingen worden vermoed te voldoen aan de in dit besluit gestelde eisen.
 
 ### Hoofdstuk 11. Slotbepalingen
 
