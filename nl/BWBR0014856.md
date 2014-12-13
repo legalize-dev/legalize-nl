@@ -4,7 +4,7 @@ identifier: "BWBR0014856"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-13"
-last_updated: "2007-11-10"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014856"
 soort: "ministeriele-regeling"
@@ -73,7 +73,9 @@ Besluit:
 
 - h. lactose: natuurlijk bestanddeel van melk dat normaal gesproken wordt verkregen uit wei, met een gehalte aan watervrij lactose van ten minste 99,0% m/m op basis van de droge stof, die watervrij is of door kristallisatie één watermolecuul bevat;
 
-- i. verordening (EG) 1925/2006: verordening (EG) nr. 1925/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen (PbEU L 404).
+- i. verordening (EG) 1925/2006: verordening (EG) nr. 1925/2006 van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende de toevoeging van vitaminen en mineralen en bepaalde andere stoffen aan levensmiddelen (PbEU L 404);
+
+- j. verordening (EU) 1169/2011: Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van [Verordeningen (EG) nr. 1924/2006](32006R1924) en [(EG) nr. 1925/2006](32006R1925) van het Europees Parlement en de Raad en tot intrekking van [Richtlijn 87/250/EEG](31987L0250) van de Commissie, [Richtlijn 90/496/EEG](31990L0496) van de Raad, [Richtlijn 1999/10/EG](31999L0010) van de Commissie, [Richtlijn 2000/13/EG](32000L0013) van het Europees Parlement en de Raad, [Richtlijnen 2002/67/EG](32002L0067) en [2008/5/EG](32008L0005) van de Commissie, en [Verordening (EG) nr. 608/2004](32004R0608) van de Commissie (PbEU 2011, L 304).
 
 2. Deze regeling is niet van toepassing op een waar die bestemd is voor uitvoer naar een land dat niet behoort tot de Europese Unie en geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
@@ -81,17 +83,17 @@ Besluit:
 
 ##### Artikel 2
 
-Bij de bereiding van een in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2007-11-10&g=2007-11-10), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=13&z=2007-11-10&g=2007-11-10) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2007-11-10&g=2007-11-10) bedoelde waar mag gebruik worden gemaakt van een extra hoeveelheid lactose van ten hoogste 0,03 gewichtsprocent, berekend in het eindproduct.
+Bij de bereiding van een in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2014-12-13&g=2014-12-13), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=13&z=2014-12-13&g=2014-12-13) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2014-12-13&g=2014-12-13) bedoelde waar mag gebruik worden gemaakt van een extra hoeveelheid lactose van ten hoogste 0,03 gewichtsprocent, berekend in het eindproduct.
 
 ##### Artikel 3
 
-Onverminderd de bij of krachtens verordening (EG) 853/2004 gestelde voorschriften wordt de verduurzaming van in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2007-11-10&g=2007-11-10) bedoelde waren bereikt door:
+Onverminderd de bij of krachtens verordening (EG) 853/2004 gestelde voorschriften wordt de verduurzaming van in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2014-12-13&g=2014-12-13) bedoelde waren bereikt door:
 
-- a. dehydratie, wat betreft de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10) bedoelde waren;
+- a. dehydratie, wat betreft de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2014-12-13&g=2014-12-13) bedoelde waren;
 
-- b. warmtebehandeling, wat betreft de in [artikel 8 tot en met artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=8&z=2007-11-10&g=2007-11-10) bedoelde waren;
+- b. warmtebehandeling, wat betreft de in [artikel 8 tot en met artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=8&z=2014-12-13&g=2014-12-13) bedoelde waren;
 
-- c. toevoeging van sacharose, wat betreft de in [artikel 12 tot en met artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2007-11-10&g=2007-11-10) bedoelde waren.
+- c. toevoeging van sacharose, wat betreft de in [artikel 12 tot en met artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=12&z=2014-12-13&g=2014-12-13) bedoelde waren.
 
 #### § 3. aanduiding
 
@@ -201,19 +203,19 @@ De aanduiding gecondenseerde magere melk met suiker mag uitsluitend en wordt geb
 
 ##### Artikel 15
 
-1. Bij een waar, bedoeld in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2007-11-10&g=2007-11-10), wordt in de nabijheid van de aanduiding een vermelding gebezigd inzake:
+1. Bij een waar, bedoeld in [§3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&z=2014-12-13&g=2014-12-13), wordt in de nabijheid van de aanduiding een vermelding gebezigd inzake:
 
 - a. het gewichtspercentage melkvet van het eindproduct; en
 
 - b. het percentage van melk afkomstige vetvrije droge stof.
 
-2. Het eerste lid, onder a, is niet van toepassing op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=7&z=2007-11-10&g=2007-11-10), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=11&z=2007-11-10&g=2007-11-10), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2007-11-10&g=2007-11-10) bedoelde waren.
+2. Het eerste lid, onder a, is niet van toepassing op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=7&z=2014-12-13&g=2014-12-13), [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=11&z=2014-12-13&g=2014-12-13), en [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=14&z=2014-12-13&g=2014-12-13) bedoelde waren.
 
-3. Het eerste lid, onder b, is niet van toepassing op de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10) bedoelde waren.
+3. Het eerste lid, onder b, is niet van toepassing op de in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2014-12-13&g=2014-12-13) bedoelde waren.
 
 ##### Artikel 16
 
-Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2007-11-10&g=2007-11-10), worden gebezigd:
+Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=3&artikel=4&z=2014-12-13&g=2014-12-13), worden gebezigd:
 
 - a. een vermelding inzake de aanbevolen wijze van verdunning of reconstitutie, met inbegrip van de vermelding van het vetgehalte van de waar na verdunning of reconstitutie; en
 
@@ -221,7 +223,7 @@ Bij de waren, bedoeld in [artikel 4 tot en met artikel 7](https://wetten.overhei
 
 ##### Artikel 17
 
-In afwijking van [artikel 28 van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=28) is het toegestaan de in deze paragraaf bedoelde vermeldingen slechts te bezigen op de verzamelverpakking, voor zover de desbetreffende daarin verpakte waar aanwezig is in eenheden van minder dan 20 gram.
+In afwijking van verordening (EU) 1169/2011 is het toegestaan de in deze paragraaf bedoelde vermeldingen slechts te bezigen op de verzamelverpakking, voor zover de desbetreffende daarin verpakte waar aanwezig is in eenheden van minder dan 20 gram.
 
 #### § 5. slotbepalingen
 
@@ -241,7 +243,7 @@ Deze regeling wordt aangehaald als: Warenwetregeling gedehydrateerde melk 2003.
 
 ##### Artikel 3a
 
-Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=2&z=2007-11-10&g=2007-11-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=3&z=2007-11-10&g=2007-11-10) mag het eiwitgehalte van melk worden gewijzigd tot een minimumgehalte van 34 gewichtsprocenten (uitgedrukt in vetvrije droge stof) door toevoeging of verwijdering van uitsluitend:
+Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=2&z=2014-12-13&g=2014-12-13) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0014856&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13) mag het eiwitgehalte van melk worden gewijzigd tot een minimumgehalte van 34 gewichtsprocenten (uitgedrukt in vetvrije droge stof) door toevoeging of verwijdering van uitsluitend:
 
 - a. melkretentaat;
 
