@@ -4,7 +4,7 @@ identifier: "BWBR0009669"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2014-03-01"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009669"
 soort: "AMvB"
@@ -76,7 +76,7 @@ Hebben goedgevonden en verstaan:
 
 - i. **decoratie:** aan de buitenkant van het brood voor het bakken aangebrachte bestanddelen, zoals sesamzaad en maanzaad.
 
-2. De [artikelen 6a tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2014-03-01&g=2014-03-01) zijn niet van toepassing op een eetwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
+2. De [artikelen 6a tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=7&z=2014-12-13&g=2014-12-13) zijn niet van toepassing op een eetwaar die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt.
 
 ##### Artikel 2
 
@@ -199,7 +199,7 @@ Vervallen
 
 ##### Artikel 18
 
-In afwijking van[artikel 5, eerste lid, onder c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), en [artikel 25, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=25) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2014-03-01&g=2014-03-01) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2014-03-01&g=2014-03-01).
+In afwijking van artikel 9, eerste lid, onder e, van Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) hoeft geen vermelding van de netto-hoeveelheid te worden gebezigd bij de verhandeling van brood dat is aangeduid op de voet van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=14&z=2014-12-13&g=2014-12-13) of [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&paragraaf=3&artikel=15&z=2014-12-13&g=2014-12-13).
 
 #### § 5:. slotbepalingen
 
