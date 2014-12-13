@@ -4,7 +4,7 @@ identifier: "BWBR0012174"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2013-07-11"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012174"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 19 oktober 2000, no. W13.00.0392/III)
 Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 januari 2001, GZB/VVB 2144381, uitgebracht in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
 
 Hebben goedgevonden en verstaan:
+
+Artikel 4, eerste en derde lid, treedt in werking op 1 augustus 2001 voor die kruidenpreparaten, niet zijnde eet- of drinkwaren, die uitsluitend bestemd zijn om in aanraking te worden gebracht met de verschillende delen van het menselijk lichaamsoppervlak, en waarin geen andere planten aanwezig zijn dan die welke met cijfer 1 in de laatste kolom van de in dit besluit toegevoegde bijlage zijn aangegeven
 
 ##### Artikel 1
 
@@ -100,7 +102,7 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 ##### Artikel 6
 
-1. Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) wordt bij kruidenpreparaten, zijnde eet- of drinkwaren, een vermelding gebezigd inzake een gebruiks- en doseringsadvies.
+1. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) wordt bij kruidenpreparaten, zijnde eet- of drinkwaren, een vermelding gebezigd inzake een gebruiks- en doseringsadvies.
 
 2. Bij kruidenpreparaten, niet zijnde eet- of drinkwaren, wordt een vermelding gebezigd inzake een lijst van ingrediënten, een gebruiks- en doseringsadvies en een vermelding van de naam of de handelsnaam en het adres of de vestigingsplaats van de fabrikant of persoon die verantwoordelijk is voor het in de handel brengen van de waar.
 
@@ -110,9 +112,9 @@ Kruidenpreparaten bevatten slechts kruidensubstanties in hoeveelheden die niet s
 
 2. In afwijking van het eerste lid treedt:
 
-- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2013-07-11&g=2013-07-11) in werking met ingang van 1 januari 2002;
+- a. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=6&z=2014-12-13&g=2014-12-13) in werking met ingang van 1 januari 2002;
 
-- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2013-07-11&g=2013-07-11), in werking met ingang van 1 januari 2003.
+- b. [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=5&z=2014-12-13&g=2014-12-13), in werking met ingang van 1 januari 2003.
 
 ##### Artikel 8
 
@@ -120,7 +122,7 @@ Dit besluit wordt aangehaald als: Warenwetbesluit Kruidenpreparaten.
 
 ## Bijlage
 
-Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2013-07-11&g=2013-07-11).
+Deze bijlage behoort bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=4&z=2014-12-13&g=2014-12-13).
 
 ### I. Ten minste de volgende plantensoorten worden geacht toxische pyrrolizidine-alkaloïden te bevatten.
 
