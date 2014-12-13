@@ -4,7 +4,7 @@ identifier: "BWBR0005465"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-05-24"
-last_updated: "2014-11-14"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005465"
 soort: "AMvB"
@@ -96,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 - c. elektronen opgewekt door machinale bronnen, met een energieniveau van ten hoogste 10 Mev.
 
-2. De behandeling van waren met ioniserende stralen mag uitsluitend plaatsvinden in een installatie als bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=1&artikel=1&z=2014-11-14&g=2014-11-14), waarvoor een erkenning voor het mogen uitvoeren van die behandeling door Onze Minister is afgegeven.
+2. De behandeling van waren met ioniserende stralen mag uitsluitend plaatsvinden in een installatie als bedoeld in [artikel 1, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=1&artikel=1&z=2014-12-13&g=2014-12-13), waarvoor een erkenning voor het mogen uitvoeren van die behandeling door Onze Minister is afgegeven.
 
 3. Onverminderd het bepaalde in het vierde lid wordt, voor zover het betreft het behandelen met ioniserende stralen van eet- en drinkwaren en grondstoffen de in het tweede lid bedoelde erkenning verleend indien de installatie voldoet aan de Recommended International Code of Practice for the Operation of Irradiation Facilities Used for the Treatment of Foods (FAO/WHO CAC/Vol. XV, Ed.1.CAC/RCP 10-1979 (Rev. 1) van de Codex Alimentarius, en een persoon is aangewezen die instaat voor de naleving van alle eisen die met betrekking tot dit procédé noodzakelijk zijn.
 
@@ -106,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 4
 
-1. De overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=3&z=2014-11-14&g=2014-11-14) erkende installatie houdt voor elke gebruikte ioniserende stralingsbron alsmede voor iedere partij behandelde eet- of drinkwaren of grondstoffen een register bij met de volgende gegevens:
+1. De overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13) erkende installatie houdt voor elke gebruikte ioniserende stralingsbron alsmede voor iedere partij behandelde eet- of drinkwaren of grondstoffen een register bij met de volgende gegevens:
 
 - a. aard en hoeveelheid van de doorstraalde eet- of drinkwaren of grondstoffen;
 
@@ -208,9 +208,9 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 3. Onverminderd het eerste en tweede lid, mogen doorstraalde eet- en drinkwaren en grondstoffen uitsluitend worden ingevoerd, indien voldaan is aan de volgende voorwaarden:
 
-- a. voldaan moet zijn aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=4&artikel=6&z=2014-11-14&g=2014-11-14) en
+- a. voldaan moet zijn aan [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=4&artikel=6&z=2014-12-13&g=2014-12-13) en
 
-- b. bij iedere zending moeten de gegevens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=4&z=2014-11-14&g=2014-11-14), zijn vermeld.
+- b. bij iedere zending moeten de gegevens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=4&z=2014-12-13&g=2014-12-13), zijn vermeld.
 
 4. Voor de toepassing van het derde lid wordt onder invoer verstaan het plaatsen van de goederen onder de douaneregeling in het vrije verkeer brengen, dan wel het plaatsen onder de douaneregeling actieve veredeling, behandeling onder douanetoezicht, tijdelijke invoer of passieve veredeling als bedoeld in [verordening (EEG) nr. 2913/92](31992R2913) van de Raad van de Europese Unie van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).
 
@@ -220,13 +220,11 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 1. Bij de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet zijn bestemd voor de eindverbruiker of een instelling, moet worden gebezigd de vermelding van de naam en het adres van de installatie waar de behandeling met ioniserende stralen is uitgevoerd.
 
-2. De volgende onderdelen van het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling:
+2. De volgende onderdelen van het [Warenwetbesluit informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033323) zijn van overeenkomstige toepassing op de in het eerste lid bedoelde verhandeling:
 
-- a. [artikel 5, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), betreffende de aanduiding van de produktiepartij;
+- a. [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4), inzake het vermelden van de partij waartoe een levensmiddel behoort; en
 
-- b. [artikel 4, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=4), betreffende de aanduiding van de behandeling van de waar, indien zij met ioniserende stralen is behandeld; en
-
-- c. [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=7), betreffende de aanduiding van bij de bereiding van de waar gebruikte, met ioniserende stralen behandelde ingrediënten.
+- b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6) inzake het vermelden van de behandeling van een levensmiddel of ingrediënt van een levensmiddel, indien dat levensmiddel onderscheidenlijk ingrediënt met ioniserende stralen is behandeld.
 
 #### § 7. Slotbepalingen
 
@@ -248,7 +246,7 @@ Bevat wijzigingen in andere regelgeving.
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Het is niet van toepassing op waren waarvan kan worden aangetoond dat zij voor bedoelde datum met ioniserende stralen zijn behandeld.
 
-2. In afwijking van het eerste lid treden de [artikelen 10, tweede lid, sub c, en derde lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=6&artikel=10&z=2014-11-14&g=2014-11-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=12&z=2014-11-14&g=2014-11-14) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=13&z=2014-11-14&g=2014-11-14) in werking met ingang van de zevende maand na de in dat lid bedoelde datum.
+2. In afwijking van het eerste lid treden de [artikelen 10, tweede lid, sub c, en derde lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=6&artikel=10&z=2014-12-13&g=2014-12-13), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=12&z=2014-12-13&g=2014-12-13) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=13&z=2014-12-13&g=2014-12-13) in werking met ingang van de zevende maand na de in dat lid bedoelde datum.
 
 ##### Artikel 15
 
