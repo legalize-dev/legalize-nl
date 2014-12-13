@@ -4,7 +4,7 @@ identifier: "BWBR0004041"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-13"
-last_updated: "1986-12-05"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004041"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluiten
 
 ##### Artikel 1
 
-Vrijstelling wordt verleend van het bepaalde in [artikel 9, derde lid, onder a, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310&artikel=9) (Stb. 1980, 223) ten aanzien van voorverpakte dik-vloeibare melkprodukten, krachtens welke bepaling de hoeveelheid van bedoelde waren moet zijn uitgedrukt in liter, centiliter of milliliter, onder de volgende voorwaarden:
+Vrijstelling wordt verleend van het bepaalde in artikel 23, eerste lid, van verordening (EU) 1169/2011 ten aanzien van voorverpakte dik-vloeibare melkprodukten, krachtens welke bepaling de hoeveelheid van bedoelde waren moet zijn uitgedrukt in liter, centiliter of milliliter, onder de volgende voorwaarden:
 
 - a. de hoeveelheid moet zijn uitgedrukt in grammen;
 
@@ -49,7 +49,7 @@ Vrijstelling wordt verleend van het bepaalde in [artikel 9, derde lid, onder a, 
 
 ##### Artikel 2
 
-Deze regeling kan worden aangehaald als Vrijstellingsregeling Portieverpakkingen dik-vloeibare melkprodukten (Warenwet).
+Deze regeling wordt aangehaald als: Vrijstellingsregeling portieverpakkingen dik-vloeibare melkproducten.
 
 ##### Artikel 3
 
