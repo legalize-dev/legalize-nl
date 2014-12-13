@@ -4,7 +4,7 @@ identifier: "BWBR0015104"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-01"
-last_updated: "2003-06-11"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015104"
 soort: "AMvB"
@@ -72,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - d. in het geval de hoeveelheid van een product is aangegeven in oppervlakte: 1 vierkante meter.
 
-2. Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge [artikel 14, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=14) of [artikel 21, eerste lid, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310&artikel=21), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.
+2. Indien op een voorverpakt product dat bestaat uit een vast bestanddeel en een opgietvloeistof, het uitlekgewicht wordt vermeld ingevolge Bijlage IX, punt 5, van verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) of [artikel 21, eerste lid, van het Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310&artikel=21), heeft de aanduiding van de prijs per meeteenheid betrekking op het vaste bestanddeel van het product.
 
 ##### Artikel 3
 
@@ -108,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2003-06-11&g=2003-06-11), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2003-06-11&g=2003-06-11) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2003-06-11&g=2003-06-11) van toepassing.
+1. Indien een verkoper, die in een reclame-uiting producten aan de consument te koop aanbiedt, daarbij de verkoopprijs of de prijs per meeteenheid bekend maakt, zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=2&z=2014-12-13&g=2014-12-13), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2014-12-13&g=2014-12-13) en [4, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=4&z=2014-12-13&g=2014-12-13) van toepassing.
 
 2. Indien een verkoper producten aan een consument te koop aanbiedt in het kader van een koop op afstand op de wijze, bedoeld in [artikel 46a, onder b, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=46a), is dit besluit slechts van toepassing op de aanduiding van de prijs per meeteenheid.
 
@@ -128,7 +128,7 @@ De wet van 18 april 2002 houdende wijziging van de Prijzenwet in verband met de 
 
 Dit besluit wordt aangehaald als: Besluit prijsaanduiding producten.
 
-## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2003-06-11&g=2003-06-11)
+## Bijlage I, behorende bij [artikel 3, tweede lid, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2014-12-13&g=2014-12-13)
 
 A. Antiquiteiten.
 
@@ -140,7 +140,7 @@ D. Producten die bij een dienstverlening worden verstrekt.
 
 E. Producten die op een markt met behulp van welsprekendheid te koop worden aangeboden aan het aanwezige publiek, waarbij in de regel de verkoopprijs of prijs per meeteenheid van een product niet tevoren vaststaan.
 
-## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2003-06-11&g=2003-06-11)
+## Bijlage II, behorende bij [artikel 3, derde lid, aanhef en onder c, van het Besluit prijsaanduiding producten](https://wetten.overheid.nl/jci1.3:c:BWBR0015104&artikel=3&z=2014-12-13&g=2014-12-13)
 
 A. Producten die te koop worden aangeboden in fantasieverpakking of in fantasievorm voor speciale gelegenheden.
 
