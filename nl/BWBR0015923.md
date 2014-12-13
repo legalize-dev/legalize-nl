@@ -4,7 +4,7 @@ identifier: "BWBR0015923"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-10-06"
-last_updated: "2014-11-14"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015923"
 soort: "AMvB"
@@ -65,7 +65,7 @@ In dit besluit wordt verstaan onder **honing**: de natuurlijke zoete stof, berei
 
 ##### Artikel 3
 
-1. De waren, krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) aangeduid als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, raatbrokken in honing, brokhoning, lekhoning, slingerhoning, pershoning of gefilterde honing voldoen aan de volgende vereisten:
+1. De waren, krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduid als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, raatbrokken in honing, brokhoning, lekhoning, slingerhoning, pershoning of gefilterde honing voldoen aan de volgende vereisten:
 
 - a. de waar heeft een normale geur en smaak;
 
@@ -79,9 +79,9 @@ In dit besluit wordt verstaan onder **honing**: de natuurlijke zoete stof, berei
 
 - f. aan de waar zijn geen pollen noch enig ander bestanddeel dat specifiek is voor honing onttrokken, tenzij dit bij het verwijderen van vreemde anorganische of organische stoffen onvermijdelijk is.
 
-2. Het eerste lid, onder f, is niet van toepassing op de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als gefilterde honing aangeduide waar.
+2. Het eerste lid, onder f, is niet van toepassing op de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als gefilterde honing aangeduide waar.
 
-3. De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als bakkershoning aangeduide waar voldoet aan de volgende eisen:
+3. De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als bakkershoning aangeduide waar voldoet aan de volgende eisen:
 
 - a. de waar is zoveel mogelijk vrij van organische of anorganische vreemde bestanddelen; en
 
@@ -89,7 +89,7 @@ In dit besluit wordt verstaan onder **honing**: de natuurlijke zoete stof, berei
 
 ##### Artikel 4
 
-De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar:
+De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar:
 
 - a. bestaat hoofdzakelijk uit diverse suikers, met name fructose en glucose, en andere stoffen zoals organische zuren, enzymen en vaste deeltjes ten gevolge van het vergaren van de waar;
 
@@ -101,15 +101,15 @@ De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&
 
 ##### Artikel 5
 
-1. De soortelijke elektrische geleiding van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als honing, bloemenhoning, nectarhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar, bedraagt ten hoogste 0,8 mS/cm.
+1. De soortelijke elektrische geleiding van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als honing, bloemenhoning, nectarhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde honing of bakkershoning aangeduide waar, bedraagt ten hoogste 0,8 mS/cm.
 
-2. In afwijking van het eerste lid bedraagt de soortelijke elektrische geleiding van honing die krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) tevens mag worden aangeduid als honingdauwhoning en van de als kastanjebloesemhoning aangeduide waar en mengsels daarvan, ten minste 0,8 mS/cm.
+2. In afwijking van het eerste lid bedraagt de soortelijke elektrische geleiding van honing die krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) tevens mag worden aangeduid als honingdauwhoning en van de als kastanjebloesemhoning aangeduide waar en mengsels daarvan, ten minste 0,8 mS/cm.
 
 3. Het tweede lid is niet van toepassing voorzover een daar bedoeld mengsel is verkregen uit de aardbeiboom (Arbutus unedo), dopheide (Erica), eucalyptys, lindebloesem (Tilia spp.), struikheide (Calluna vulgaris), Leptospermum of Melaleuca spp..
 
 ##### Artikel 6
 
-1. De diastase-index van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning of gefilterde honing aangeduide waar bedraagt ten minste 8.
+1. De diastase-index van de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als honing, bloemenhoning, nectarhoning, honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning of gefilterde honing aangeduide waar bedraagt ten minste 8.
 
 2. In afwijking van het eerste lid bedraagt wat betreft honing met een gering natuurlijk enzymgehalte en een hydroxymethylfurfural (HMF) van niet meer dan 15 milligram per kilo, de diastase-index ten minste 3.
 
@@ -121,7 +121,7 @@ De krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&
 
 ##### Artikel 7
 
-Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-11-14&g=2014-11-14) als honing, bloemenhoning, nectarhoning honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde of bakkershoning aangeduide waar worden niet toegevoegd:
+Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&z=2014-12-13&g=2014-12-13) als honing, bloemenhoning, nectarhoning honingdauwhoning, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning, pershoning, gefilterde of bakkershoning aangeduide waar worden niet toegevoegd:
 
 - a. levensmiddeleningrediënten;
 
@@ -147,7 +147,7 @@ Aan de krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraa
 
 ##### Artikel 9
 
-1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2014-11-14&g=2014-11-14) genoemde aanduidingen worden voorts slechts gebezigd indien de als honing, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning of gefilterde honing aangeduide waar tevens een gehalte heeft aan:
+1. De in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2014-12-13&g=2014-12-13) genoemde aanduidingen worden voorts slechts gebezigd indien de als honing, raathoning, brokhoning, raatbrokken in honing, lekhoning, slingerhoning of gefilterde honing aangeduide waar tevens een gehalte heeft aan:
 
 - a. sacharose van ten hoogste 5 g/100 g;
 
@@ -231,19 +231,19 @@ De aanduiding **pershoning** wordt gebezigd voor honing, verkregen door het same
 
 4. De in het eerste lid bedoelde aanduiding wordt gebezigd op de desbetreffende bulkcontainers, verpakkingen en handelsdocumenten.
 
-5. Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.
+5. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) wordt in de onmiddellijke nabijheid van de aanduiding bakkershoning de vermelding «uitsluitend bestemd om te koken» gebezigd.
 
-6. Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.
+6. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304) mag, voor zover de waar als ingrediënt in een samengesteld levensmiddel is verwerkt, in de aanduiding de term «bakkershoning» worden vervangen door de term «honing». In de lijst met ingrediënten wordt de volledige term «bakkershoning» vermeld.
 
 ##### Artikel 14
 
-1. In afwijking van de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2014-11-14&g=2014-11-14) mag wat betreft bloemenhoning of nectarhoning, honingdauwhoning, lekhoning, slingerhoning of pershoning worden volstaan met het bezigen van de aanduiding **honing**.
+1. In afwijking van de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=3&artikel=8&z=2014-12-13&g=2014-12-13) mag wat betreft bloemenhoning of nectarhoning, honingdauwhoning, lekhoning, slingerhoning of pershoning worden volstaan met het bezigen van de aanduiding **honing**.
 
 2. Bij een op de voet van deze paragraaf aangeduide waar mag de term honing in de aanduiding worden vervangen door de term **honig**.
 
 ##### Artikel 15
 
-1. Onverminderd het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310):
+1. Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304):
 
 - a. mogen de in deze paragraaf bedoelde aanduidingen worden aangevuld met een vermelding van de bloemen of planten waarvan de waar voor het geheel of voor het grootste deel van afkomstig is, voor zover de waar daaraan zijn organoleptische, fysisch-chemische en microscopische kenmerken ontleent;
 
@@ -293,7 +293,7 @@ Eet- en drinkwaren die voor 1 augustus 2004 zijn geëtiketteerd en voldoen aan h
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-2. In afwijking van het eerste lid treedt [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=4&artikel=17&z=2014-11-14&g=2014-11-14) twee maanden na de inwerkingtreding van dit besluit in werking.
+2. In afwijking van het eerste lid treedt [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0015923&paragraaf=4&artikel=17&z=2014-12-13&g=2014-12-13) twee maanden na de inwerkingtreding van dit besluit in werking.
 
 ##### Artikel 22
 
