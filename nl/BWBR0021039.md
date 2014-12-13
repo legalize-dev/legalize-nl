@@ -4,7 +4,7 @@ identifier: "BWBR0021039"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-13"
-last_updated: "2007-01-19"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021039"
 soort: "ministeriele-regeling"
@@ -48,9 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. foliumzuur: pteroylmonoglutaminezuur;
 
-- b. light-product: eet- of drinkwaar ten aanzien waarvan een bewering over de verminderde energetische waarde is gebezigd, bedoeld in [artikel 8, eerste lid, onder a, 2°, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135&artikel=8);
-
-- c. soortgelijke waren: soortgelijke waren, bedoeld in [artikel 8, eerste lid, onder a, 2°, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135&artikel=8), die ten minste 33% meer energie leveren dan een bepaald light-product.
+- b. light-product: eet- of drinkwaar ten aanzien waarvan een bewering over de verlaagde energetische waarde, in overeenstemming met de bijlage bij [Verordening (EG) nr. 1924/2006](32006R1924) van het Europees Parlement en de Raad van 20 december 2006 inzake voedings- en gezondheidsclaims voor levensmiddelen (Pb 2006, L 404), is gebezigd.
 
 ##### Artikel 2
 
@@ -60,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het gehalte aan toegevoegd vitamine D ten hoogste 4,5 µg bedraagt.
 
-2. In afwijking van het eerste lid mogen aan een light-product ten hoogste de hoeveelheden foliumzuur en vitamine D worden toegevoegd die krachtens het eerste lid mogen worden toegevoegd aan de desbetreffende soortgelijke waren.
+2. In afwijking van het eerste lid mogen aan een light-product ten hoogste de hoeveelheden foliumzuur en vitamine D worden toegevoegd die krachtens het eerste lid mogen worden toegevoegd aan soortgelijke waren, indien deze ten minste een 30% hogere energetische waarde hebben dan het light-product.
 
 ##### Artikel 3
 
