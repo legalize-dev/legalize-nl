@@ -4,7 +4,7 @@ identifier: "BWBR0013972"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-07-01"
-last_updated: "2004-07-12"
+last_updated: "2014-12-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013972"
 soort: "AMvB"
@@ -94,7 +94,9 @@ Treedt in werking voor zover het betrekking heeft op eet- en drinkwaren die vold
 
 - k. **geleimarmelade** : marmelade die geen onoplosbare stoffen bevat, met uitzondering van geringe hoeveelheden fijngesneden schil;
 
-- l. **kastanjepasta** : het op de geschikte consistentie gebrachte mengsel van waters, suikers en kastanjemoes.
+- l. **kastanjepasta** : het op de geschikte consistentie gebrachte mengsel van waters, suikers en kastanjemoes;
+
+- m. **verordening (EU) 1169/2011**: Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten, tot wijziging van Verordeningen (EG) nr. 1924/2006 en (EG) nr. 1925/2006 van het Europees Parlement en de Raad en tot intrekking van Richtlijn 87/250/EEG van de Commissie, Richtlijn 90/496/EEG van de Raad, Richtlijn 1999/10/EG van de Commissie, Richtlijn 2000/13/EG van het Europees Parlement en de Raad, Richtlijnen 2002/67/EG en 2008/5/EG van de Commissie, en Verordening (EG) nr. 608/2004 van de Commissie (PbEU 2011, L 304).
 
 2. Dit besluit is niet van toepassing op waren, bestemd voor de bereiding van fijn bakkerswerk, banketbakkerswerk en biscuits.
 
@@ -222,7 +224,7 @@ De aanduiding **gelei** mag uitsluitend en moet worden gebezigd voor gelei.
 
 ##### Artikel 17
 
-De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2004-07-12&g=2004-07-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2004-07-12&g=2004-07-12).
+De aanduiding **extra gelei** mag uitsluitend en moet worden gebezigd voor gelei die is bereid met inachtneming van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=7&z=2014-12-13&g=2014-12-13) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=8&z=2014-12-13&g=2014-12-13).
 
 ##### Artikel 18
 
@@ -244,25 +246,25 @@ De aanduiding **kastanjepasta** mag uitsluitend en moet worden gebezigd voor kas
 
 ##### Artikel 22
 
-In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2004-07-12&g=2004-07-12) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
+In afwijking van de [artikelen 13 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=2&artikel=13&z=2014-12-13&g=2014-12-13) mogen de in deze paragraaf bedoelde aanduidingen overeenkomstig de handelspraktijken ook worden gebezigd voor andere waren die niet kunnen worden verward met de in deze paragraaf bedoelde waren.
 
 #### § 4:. vermeldingen
 
 ##### Artikel 23
 
-1. Bij een krachtens § 3 aangeduide waar worden de volgende vermeldingen gebezigd:
+1. Bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduide waar worden de volgende vermeldingen gebezigd:
 
 - a. «bereid met g vruchten per 100 g», in voorkomend geval na aftrek van het gewicht van het voor de bereiding van de waterige extracten gebruikte water;
 
 - b. «totaal gehalte aan suikers g per 100 g», waarbij het vermelde cijfer de refractometrisch bepaalde waarde bij 20 °C van de voor consumptie gerede waar aangeeft met een tolerantie van ± 3 refractometrische graden.
 
-2. Het eerste lid, onder b, is niet van toepassing indien een bewering inzake de voedingswaarde wordt gebezigd, bedoeld in [artikel 1, eerste lid, onder f, van het Warenwetbesluit Voedingswaarde-informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135&artikel=1).
+2. Het eerste lid, onder b, is niet van toepassing indien een voedingswaardevermelding is gebezigd als bedoeld in de artikelen 30 tot en met 35 van verordening (EU) 1169/2011.
 
 3. De in het eerste lid bedoelde vermeldingen worden gebezigd in hetzelfde gezichtsveld als de aanduiding van de desbetreffende waar.
 
 ##### Artikel 24
 
-In afwijking van [artikel 7, eerste lid, van het Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=7), wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2004-07-12&g=2004-07-12) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
+In afwijking van artikel 18, tweede lid, van verordening (EU) 1169/2011, wordt bij een krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013972&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduide waar zwaveldioxide vermeld in de lijst van ingrediënten, bedoeld in [artikel 5, eerste lid, onder a, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005310&artikel=5), indien het residuele gehalte aan zwaveldioxide hoger is dan 10 mg/kg.
 
 #### § 5:. slotbepalingen
 
