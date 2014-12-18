@@ -4,7 +4,7 @@ identifier: "BWBR0035944"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2014-07-01"
+last_updated: "2014-12-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035944"
 soort: "AMvB"
@@ -54,7 +54,9 @@ Het [Besluit voortplantingstechnieken bij dieren](https://wetten.overheid.nl/jci
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+
+2. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=III&z=2014-12-18&g=2014-12-18) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=IV&z=2014-12-18&g=2014-12-18) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werken terug tot en met 1 juli 2014.
 
 Op de voordracht van Onze Minister van Economische Zaken van 3 juli 2014, nr. WJZ / 14097928;
 
