@@ -4,7 +4,7 @@ identifier: "BWBR0035963"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-20"
-last_updated: "2014-07-01"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035963"
 soort: "ministeriele-regeling"
@@ -76,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 1. Indien een kandidaat het examen met goed gevolg heeft afgelegd, overhandigt het opleidingscentrum hem het bewijs van bekwaamheid.
 
-2. Het certificaat inzake een opleiding als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-07-01), bevat naast de certificaatgegevens die staan vermeld in het werkveldspecifieke certificatieschema:
+2. Het certificaat inzake een opleiding als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-12-20), bevat naast de certificaatgegevens die staan vermeld in het werkveldspecifieke certificatieschema:
 
 - a. het ID-nummer van de certificaathouder;
 
@@ -86,9 +86,9 @@ In deze regeling wordt verstaan onder:
 
 - d. de adresgegevens van het opleidingscentrum.
 
-3. Op het certificaat inzake een opleiding als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-07-01), wordt niet het kenmerk aanwijzingsbeschikking van de Minister van Sociale Zaken en Werkgelegenheid vermeld.
+3. Op het certificaat inzake een opleiding als bedoeld in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-12-20), wordt niet het kenmerk aanwijzingsbeschikking van de Minister van Sociale Zaken en Werkgelegenheid vermeld.
 
-4. Op een diploma, brevet of getuigschrift inzake een opleiding als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-07-01), worden vermeld:
+4. Op een diploma, brevet of getuigschrift inzake een opleiding als bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035963&artikel=2&z=2014-12-20&g=2014-12-20), worden vermeld:
 
 - a. de naam en het ID-nummer van de diploma-, brevet- of getuigschrifthouder;
 
