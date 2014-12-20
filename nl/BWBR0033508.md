@@ -4,7 +4,7 @@ identifier: "BWBR0033508"
 country: "nl"
 rank: "zbo"
 publication_date: "2025-12-25"
-last_updated: "2014-08-01"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033508"
 soort: "zbo"
@@ -134,7 +134,7 @@ Tot het werkterrein van de directie Consumenten behoren, voor zover opgedragen a
 
 Tot het werkterrein van de directie Energie behoren, voor zover opgedragen aan de ACM:
 
-- 1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338), de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), voor zover deze overwegend niet op consumentenbelangen ziet, de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), voor zover deze overwegend niet op consumentenbelangen ziet, de [verordeningen 713/2009](32009R0713), [714/2009](32009R0714), [715/2009](32009R0715), [994/2010](32010R0994) en [1227/2011](32011R1227), de [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729) en de Wet implementatie derde pakket, de [Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672) en de [Wet onafhankelijk netbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020608);
+- 1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338), de [Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755), voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440), voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, de [verordeningen 713/2009](32009R0713), [714/2009](32009R0714), [715/2009](32009R0715), [994/2010](32010R0994) en [1227/2011](32011R1227), de [Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729) en de Wet implementatie derde pakket, de [Wet implementatie EU-richtlijnen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672) en de [Wet onafhankelijk netbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020608);
 
 - 2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie- en drinkwatersector.
 
@@ -142,15 +142,15 @@ Tot het werkterrein van de directie Energie behoren, voor zover opgedragen aan d
 
 Tot het werkterrein van de directie Telecom, Vervoer en Post behoren, voor zover opgedragen aan de ACM:
 
-- 1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572), de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), voor zover deze overwegend niet op consumentenbelangen ziet, verordening 544/2009, verordening 1211/2009, de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), de [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263) en de [Wet telecommunicatievoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
+- 1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365), de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572), de [Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364), de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007), de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950), voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, verordening 544/2009, verordening 1211/2009, de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470), de [Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263) en de [Wet telecommunicatievoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469);
 
-- 2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de telecom-, vervoer-, en postsector;
+- 2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de telecom-, vervoer- en postsector;
 
-- 3. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, tegen beslissingen over nummerfacturatie, nummeraanvragen, het intrekken of wijzigen van een toekenning van een nummer en het opleggen van lasten onder dwangsom zonder rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48).
+- 3. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, voor zover dit bezwaarschriften betreft in het kader van de uitvoering bedoeld in het eerste en tweede lid.
 
 ##### Artikel 3.6
 
-Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen aan de ACM, de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203), de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898), verordening 1/2003, verordening 139/2004, de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) en de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen aan de ACM, de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203), de [Aanbestedingswet op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032898), verordening 1/2003, verordening 139/2004, de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691), met uitzondering van de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie-, water-, telecom, vervoer- en postsector, en de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 ##### Artikel 3.7
 
@@ -158,7 +158,7 @@ Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen a
 
 - a. het voorbereiden van beslissingen tot het opleggen van bestuurlijke sancties, voor zover hier een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) aan ten grondslag ligt;
 
-- b. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, met uitzondering van bezwaarschriften tegen beslissingen die tot het werkterrein van de directie Telecom, Vervoer en Post behoren, genoemd in [artikel 3.5, aanhef en onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.5&z=2014-01-31&g=2014-08-01).
+- b. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, met uitzondering van bezwaarschriften tegen beslissingen die tot het werkterrein van de directie Telecom, Vervoer en Post behoren, genoemd in [artikel 3.5, aanhef en onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=3&artikel=3.5&z=2014-12-20&g=2014-12-20).
 
 - c. het behandelen van (hoger)beroepschriften, waaronder begrepen het instellen van (hoger) beroep, waarbij de ACM partij is;
 
@@ -182,19 +182,23 @@ Bij of krachtens dit besluit verleend mandaat, volmacht en machtiging heeft geen
 
 - a. het nemen van besluiten tot het opleggen van een bestuurlijke boete;
 
-- b. het nemen van besluiten op grond van [artikel 37 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37), waarin een vergunning wordt vereist, en besluiten op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=45) en [46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46);
+- b. het nemen van en besluiten op grond van de [artikelen 40](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=41), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=45) en [46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46);
 
 - c. het nemen van besluiten die voorbereid zijn met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4);
 
+- d. het beslissen op bezwaarschriften gericht tegen het bindend verklaren van een toezegging;
+
 - e. het beslissen op bezwaarschriften gericht tegen het opleggen van een herstelsanctie waaraan een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) ten grondslag ligt;
 
-- f. het beslissen op bezwaarschriften gericht tegen het opleggen van een bindende aanwijzing;
+- f. het beslissen op bezwaarschriften gericht tegen het opleggen van een zelfstandige last;
 
-- g. het vaststellen van regelgeving.
+- g. het beslissen op bezwaarschriften gericht tegen het openbaar maken van een openbare waarschuwing als bedoeld in [artikel 2.23 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.23);
+
+- h. het vaststellen van regelgeving.
 
 ##### Artikel 4.2
 
-Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-01-31&g=2014-08-01), ieder voor zich, mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het gehele werkterrein van de ACM-organisatie behoren, indien:
+Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-12-20&g=2014-12-20), ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het gehele werkterrein van de ACM-organisatie behoren, indien:
 
 - a. niet gewacht kan worden op een besluit van de ACM;
 
@@ -202,19 +206,19 @@ Aan de leden van de ACM wordt in afwijking van [artikel 4.1](https://wetten.over
 
 ##### Artikel 4.3
 
-Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-01-31&g=2014-08-01), mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het werkterrein van hun organisatieonderdeel behoren.
+Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-12-20&g=2014-12-20), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
 ##### Artikel 4.4
 
-1. Aan de teammanagers werkzaam binnen de in [artikel 2, tweede lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-01-31&g=2014-08-01), mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het werkterrein van hun organisatieonderdeel behoren.
+1. Aan de teammanagers werkzaam binnen de in [artikel 2, tweede lid, onderdeel b tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=4&artikel=4.1&z=2014-12-20&g=2014-12-20), mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.
 
-2. Het mandaat, volmacht en de machtiging bedoeld in het eerste lid strekt zich niet uit tot het nemen van beslissingen op bezwaarschriften.
+2. Het mandaat, volmacht en de machtiging bedoeld in het eerste lid strekt zich niet uit tot het verrichten van marktonderzoeken, het opstellen van rapportages of tot het nemen van beslissingen op bezwaarschriften.
 
-3. Aan de ondersteunend medewerkers toezicht en de medewerkers toezicht van het team Vervoer en Nummeruitgifte bij de directie Telecom, Vervoer en Post wordt, ieder voor zich, mandaat, volmacht en machtiging verleend tot aangelegenheden inzake de toekenning, reservering of intrekking van ten hoogste 30 elfcijferige informatienummers of niet meer dan 100 bedrijfsnummers, als bedoeld in het Nummerplan telefoon- en ISDN-diensten.
+3. Aan de ondersteunend medewerkers toezicht en de medewerkers toezicht van het team Vervoer en Nummeruitgifte bij de directie Telecom, Vervoer en Post wordt, ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de toekenning, reservering of intrekking van ten hoogste 30 elfcijferige informatienummers of niet meer dan 100 bedrijfsnummers, als bedoeld in het Nummerplan telefoon- en ISDN-diensten.
 
 ##### Artikel 4.5
 
-Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot aangelegenheden inzake [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) en de Wet openbaarheid van bestuur.
+Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met [titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) en het openbaar maken van besluiten en andere documenten.
 
 ##### Artikel 4.6
 
@@ -222,7 +226,7 @@ Aan de voorzitter van de ACM wordt machtiging verleend tot het ondertekenen van 
 
 ##### Artikel 4.7
 
-Aan de directeur van de directie Energie wordt machtiging verleend voor het opmaken van een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) voor overtreding van de [artikelen VIa, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VIa), [VII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=VII), [IX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IX), [IXa, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXa), en [IXb, eerste tot en met derde lid, vijfde, zesde, zevende en negende lid, van de Wet onafhankelijk netbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020608&artikel=IXb) en van [artikel XX, negende lid, van de Wet implementatie derde pakket](https://wetten.overheid.nl/jci1.3:c:BWBR0031815&artikel=XX).
+Vervallen
 
 ##### Artikel 4.8
 
@@ -230,13 +234,13 @@ Aan de directeur van de directie Juridische Zaken wordt machtiging verleend om b
 
 ##### Artikel 4.9
 
-Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende medewerkers, met uitzondering van secretariële en ondersteunende medewerkers, wordt, ieder voor zich, machtiging verleend de ACM te vertegenwoordigen bij gerechtelijke procedures. Tevens zijn zij gemachtigd om voor de behandeling van een geschil één of meerdere medewerkers werkzaam bij de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen, met uitzondering van secretariële en ondersteunende medewerkers, als medegemachtigde te introduceren.
+Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende medewerkers, met uitzondering van secretariële en ondersteunende medewerkers, wordt, ieder voor zich, machtiging verleend de ACM te vertegenwoordigen bij gerechtelijke procedures. Tevens zijn zij gemachtigd om voor de behandeling van een geschil één of meerdere medewerkers werkzaam bij de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen, met uitzondering van secretariële en ondersteunende medewerkers, als medegemachtigde te introduceren.
 
 ##### Artikel 4.10
 
-1. Het clementiebureau is belast met de toepassing van [afdeling 2.2 van de Beleidsregels van de minister voor het opleggen van bestuurlijke boetes door de Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033327&afdeling=2.2).
+1. Het clementiebureau is belast met de toepassing van de [Beleidsregel clementie](https://wetten.overheid.nl/jci1.3:c:BWBR0035329&wetgeving).
 
-2. Aan de clementiefunctionaris wordt mandaat, volmacht en machtiging verleend voor het voorbereiden en het doen van clementietoezeggingen als bedoeld in [artikel 2.38 van de beleidsregels genoemd in het eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033327&artikel=2.38).
+2. Aan de clementiefunctionaris wordt mandaat, volmacht en machtiging verleend voor het voorbereiden en het doen van clementietoezeggingen als bedoeld in [artikel 20 van de Beleidsregel clementie](https://wetten.overheid.nl/jci1.3:c:BWBR0035329&artikel=20).
 
 ##### Artikel 4.11
 
@@ -248,15 +252,15 @@ Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende 
 
 ##### Artikel 5.1
 
-Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat.
+Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
 ##### Artikel 5.2
 
-Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende teammanagers wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot juridisch advies en procesvertegenwoordiging, en de inhuur van specialisten, tolken en verslagleggers, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat.
+Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende teammanagers wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot juridisch advies en procesvertegenwoordiging, en de inhuur van specialisten, tolken en verslagleggers, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
 ##### Artikel 5.3
 
-Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, waaronder begrepen informatiebeheer en automatisering en de vergoeding van lidmaatschappen en telefoonkosten, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat.
+Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, waaronder begrepen informatiebeheer en automatisering en de vergoeding van lidmaatschappen en telefoonkosten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan.
 
 ### Hoofdstuk 6. P&O aangelegenheden
 
@@ -270,7 +274,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 - c. het accorderen van binnen- en buitenlandse dienstreizen en reiskostendeclaraties.
 
-2. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
+2. Aan de directeuren van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
 
 - a. het verlenen van verlof;
 
@@ -290,7 +294,7 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 ##### Artikel 6.2
 
-Aan de teammanagers van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-01-31&g=2014-08-01), genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
+Aan de teammanagers van de in [artikel 2, tweede lid, onderdeel a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0033508&hoofdstuk=2&artikel=2&z=2014-12-20&g=2014-12-20), genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende:
 
 - a. het verlenen van verlof;
 
