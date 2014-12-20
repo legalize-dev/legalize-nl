@@ -4,7 +4,7 @@ identifier: "BWBR0018053"
 country: "nl"
 rank: "wet"
 publication_date: "2014-12-20"
-last_updated: "2010-01-01"
+last_updated: "2014-12-20"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018053"
 soort: "wet"
@@ -42,6 +42,8 @@ Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen om de arbeidsparticipatie van ouderen te bevorderen door middel van aanpassing van de fiscale behandeling van VUT- en prepensioenregelingen in samenhang met het bevorderen van de combinatie van arbeid en andere activiteiten door middel van een levensloopregeling;
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet. De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ##### Artikel I
 
@@ -115,6 +117,6 @@ Deze wet wordt aangehaald als: Wet aanpassing fiscale behandeling VUT/prepensioe
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2005.
 
-2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2010-01-01&g=2010-01-01), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
+2. [Artikel 10, vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10), zoals dat komt te luiden ingevolge [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0018053&artikel=I&z=2014-12-20&g=2014-12-20), werkt terug tot en met 16 september 2004 voor uitkeringen die worden genoten als gevolg van afkoop, vervreemding of het formeel of feitelijk onderwerp van zekerheid worden van de aanspraak, anders dan ten behoeve van uitstel van betaling op grond van [artikel 25, vijfde lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
