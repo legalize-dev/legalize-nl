@@ -4,7 +4,7 @@ identifier: "BWBR0026204"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-18"
-last_updated: "2014-08-01"
+last_updated: "2014-12-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026204"
 soort: "AMvB"
@@ -64,7 +64,7 @@ In dit besluit wordt verstaan onder basisbedrag: basisbedrag als bedoeld in [art
 
 ##### Artikel 3
 
-De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
+De door de toezichthouder met toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2014-12-21&g=2014-12-21) vast te stellen bestuurlijke boete wordt verdubbeld indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
 ##### Artikel 4
 
@@ -715,6 +715,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [W
 | 24b, eerste tot en met vijfde lid | 2 |
 | 25 | 2 |
 | 26, eerste tot en met vijfde lid | 2 |
+| 26.0 | 2 |
 | 26.1, eerste en tweede lid | 2 |
 | 27, eerste en tweede lid | 2 |
 | 28 | 2 |
@@ -1438,7 +1439,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 4a
 
-Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2014-08-01&g=2014-08-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2014-08-01&g=2014-08-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2014-08-01&g=2014-08-01) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
+Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=2&z=2014-12-21&g=2014-12-21), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=3&z=2014-12-21&g=2014-12-21) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=1&artikel=4&z=2014-12-21&g=2014-12-21) houdt de toezichthouder bij het vaststellen van een bestuurlijke boete die wordt opgelegd aan een bank of een beleggingsonderneming als bedoeld in de verordening kapitaalvereisten ter zake van een overtreding van de verordening kapitaalvereisten of het ingevolge het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde, rekening met de omstandigheden, bedoeld in artikel 70 van de richtlijn kapitaalvereisten.
 
 #### § 2. Indeling van overtredingen in categorieën
 
