@@ -4,7 +4,7 @@ identifier: "BWBR0035733"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-12-13"
+last_updated: "2014-12-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035733"
 soort: "AMvB"
@@ -73,6 +73,84 @@ Hebben goedgevonden en verstaan:
 Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 6. Wijziging van andere besluiten
+
+### Hoofdstuk 7. Overgangs- en slotbepalingen
+
+### Hoofdstuk 8. Inwerkingtreding en citeertitel
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6.1
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.2
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.3
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.4
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.5
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.6
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.7
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.8
+
+Wijzigt het Besluit maatschappelijke ondersteuning.
+
+##### Artikel 6.9
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.10
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.11
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.12
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.13
+
+Wijzigt het Bijdragebesluit zorg.
+
+##### Artikel 6.14
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.15
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.16
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.17
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6.18
+
+Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
