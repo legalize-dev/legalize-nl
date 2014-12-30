@@ -4,7 +4,7 @@ identifier: "BWBR0036036"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-01-01"
-last_updated: "2014-07-01"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036036"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Aan de Algemeen Directeur van de Dienst Wegverkeer wordt mandaat en machtiging v
 
 ##### Artikel 2
 
-1. De Algemeen Directeur van de Dienst Wegverkeer kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036036&artikel=1&z=2014-12-30&g=2014-07-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
+1. De Algemeen Directeur van de Dienst Wegverkeer kan voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036036&artikel=1&z=2014-12-30&g=2014-12-30) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken.
 
