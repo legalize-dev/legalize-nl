@@ -4,7 +4,7 @@ identifier: "BWBR0031548"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-01-28"
-last_updated: "2013-01-01"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031548"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ##### Artikel 2
 
-1. Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de [Diergeneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003818) die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.
+1. Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.
 
-2. Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit Diervoeders](https://wetten.overheid.nl/jci1.3:c:BWBR0017065).
+2. Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346).
 
 ##### Artikel 3
 
-1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2012-05-12&g=2013-01-01) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
+1. De directeur kan voor de in de [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031548&artikel=2&z=2014-12-30&g=2014-12-30) bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de aan hem ondergeschikte functionarissen.
 
 2. Het verlenen van ondermandaat en machtiging alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken, Landbouw en Innovatie.
 
@@ -62,18 +62,17 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ##### Artikel 4
 
-Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:
+Het krachtens mandaat ondertekenen van stukken geschiedt als volgt:
 
-| De Minister van Economische Zaken, Landbouw en Innovatie, |
-| --- |
-| namens deze: |
-| (handtekening) |
-|   |
-|   |
-|   |
-|   |
-| (naam functionaris) |
-| (functie) |
+De Minister van Economische Zaken,
+
+namens deze:
+
+(handtekening)
+
+(naam functionaris)
+
+(functie)
 
 ##### Artikel 5
 
