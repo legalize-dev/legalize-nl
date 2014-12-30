@@ -4,7 +4,7 @@ identifier: "BWBR0036030"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2014-12-30"
-last_updated: "2014-12-09"
+last_updated: "2014-12-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036030"
 soort: "ministeriele-regeling"
@@ -46,17 +46,17 @@ Voor het jaar 2014 is voor de beheerskosten AWBZ van de zorgverzekeraars en de v
 
 ##### Artikel 2
 
-Uit het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036030&artikel=1&z=2014-12-30&g=2014-12-09), wordt aan verbindingskantoren in totaal maximaal een bedrag van € 14,000 miljoen beschikbaar gesteld voor de kosten die de wettelijke opvolgers van verbindingskantoren moeten maken op grond van een sociaal plan voor medewerkers van wie als gevolg van de invoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) (Wlz) het vaste dienstverband per 1 januari 2015 wordt beëindigd. De kosten worden naar werkelijke kosten en na goedkeuring van de Nederlandse Zorgautoriteit (NZa) vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per verbindingskantoor vergoed.
+Uit het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036030&artikel=1&z=2014-12-30&g=2014-12-30), wordt aan verbindingskantoren in totaal maximaal een bedrag van € 14,000 miljoen beschikbaar gesteld voor de kosten die de wettelijke opvolgers van verbindingskantoren moeten maken op grond van een sociaal plan voor medewerkers van wie als gevolg van de invoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) het vaste dienstverband per 1 januari 2015 wordt beëindigd. De kosten worden naar werkelijke kosten en na goedkeuring van de Nederlandse Zorgautoriteit (NZa) vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per verbindingskantoor vergoed.
 
 ##### Artikel 3
 
-Uit het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036030&artikel=1&z=2014-12-30&g=2014-12-09), wordt aan verbindingskantoren in totaal maximaal een bedrag van € 14,400 miljoen beschikbaar gesteld voor kosten die na 2014 worden gemaakt en toe te schrijven zijn aan de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
+Uit het bedrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036030&artikel=1&z=2014-12-30&g=2014-12-30), wordt aan verbindingskantoren in totaal maximaal een bedrag van € 14,400 miljoen beschikbaar gesteld voor kosten die na 2014 worden gemaakt en toe te schrijven zijn aan de afwikkeling van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
 De kosten worden naar werkelijke kosten en na goedkeuring door de NZa vergoed. Indien niet alle kosten uit het bedrag kunnen worden vergoed worden de kosten naar evenredigheid van de in aanmerking komende en goedgekeurde kosten per verbindingskantoor vergoed.
 
 ##### Artikel 4
 
-De verbindingskantoren leggen in hun jaarrekening over het jaar 2014 vast welk budget beheerskosten voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) is ontvangen en hoeveel in dat jaar is besteed voor de uitvoering van de AWBZ. De verschillen worden als overschotten dan wel tekorten in de jaarrekening opgeteld bij de primo stand wettelijke reserve uitvoering AWBZ 2014 en in de jaarrekening vastgelegd als de ultimo stand wettelijke reserve uitvoering AWBZ 2014.
+De verbindingskantoren leggen in hun jaarrekening over het jaar 2014 vast welk budget beheerskosten voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) is ontvangen en hoeveel in dat jaar is besteed voor de uitvoering van de AWBZ. De verschillen worden als overschotten dan wel tekorten in de jaarrekening opgeteld bij de primo stand wettelijke reserve uitvoering AWBZ 2014 en in de jaarrekening vastgelegd als de ultimo stand wettelijke reserve uitvoering AWBZ 2014.
 
 ##### Artikel 5
 
