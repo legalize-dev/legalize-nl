@@ -4,7 +4,7 @@ identifier: "BWBR0033943"
 country: "nl"
 rank: "pbo"
 publication_date: "2014-12-31"
-last_updated: "2013-09-22"
+last_updated: "2014-12-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033943"
 soort: "pbo"
@@ -55,19 +55,19 @@ entry_into_force: "2013-09-22"
 
 - c. om niet in gebruik is ontvangen, of
 
-- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22).
+- d. wordt ingezet in het kader van contractteelt zoals bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31).
 
 4. De bestemmingsheffing is de gemeten maat van de door de ondernemer gebruikte cultuurgrond per bloembolgewas, uitgedrukt in de genoemde eenheid, vermenigvuldigd met het genoemde tarief in euro en bedraagt voor:
 
-| **Gewas** | **BRSnr.** | **Tarief** | **Eenh.** |
+| Gewas | BRSnr. | Tarief | Eenh. |
 | --- | --- | --- | --- |
 | Tulp | 560 | 60 | ha |
-| Lelie | 558 | 105 | ha |
+| Lelie | 558 | 60 | ha |
 | Narcis | 559 | 40 | ha |
 | Hyacint | 552 | 40 | ha |
 | Gladiool | 553 | 40 | ha |
 | Iris | 550 | 40 | ha |
-| Zantedeschia | 130 | 105 | ha |
+| Zantedeschia | 130 | 60 | ha |
 | Dahlia | 548 | 40 | ha |
 | Krokus | 578 | 40 | ha |
 | Overige bloembolgewassen | 562 | 40 | ha |
@@ -105,17 +105,17 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De ondernemer die bloembollen teelt is over het oogstjaar een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2013-09-22&g=2013-09-22) vermelde heffingsgrondslag met bijbehorende tarieven.
+1. De ondernemer die bloembollen teelt is over het oogstjaar een bestemmingsheffing aan het productschap verschuldigd volgens de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31) vermelde heffingsgrondslag met bijbehorende tarieven.
 
 2. In geval van contractteelt waarbij de contractgever eigenaar is van de bloembollen die door de contractnemer worden geteeld, wordt de contractgever aangemerkt als de ondernemer die bloembollen teelt als bedoeld in het eerste lid.
 
 3. Uit de opbrengst van de bestemmingsheffing als bedoeld in het eerste lid, worden activiteiten gefinancierd die vallen binnen de investeringsprogramma's van het productschap: Plantgezondheid, Maatschappelijk Verantwoord Ondernemen & Biobased Economy, Voeding & Gezondheid, Energie en CO2, Groen & Welbevinden en Arbeid.
 
-4. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=4&artikel=5&z=2013-09-22&g=2013-09-22) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
+4. De bestemmingsheffing, als bedoeld in het eerste lid, wordt vastgesteld en opgelegd op de voet van de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=4&artikel=5&z=2014-12-31&g=2014-12-31) en met inachtneming van het bepaalde bij of krachtens de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562).
 
 ##### Artikel 3
 
-Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2013-09-22&g=2013-09-22), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
+Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=3&artikel=4&z=2014-12-31&g=2014-12-31), gebruikt het productschap, in afwijking van de [Verordening PT algemene bepalingen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027562) en onverminderd het bepaalde in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), de door ondernemer in het kalenderjaar 2013 bij Dienst Regelingen van het Ministerie van Economische Zaken ingediende Gecombineerde opgave.
 
 #### § 3. Grondslag en hoogte
 
@@ -125,11 +125,11 @@ Voor het vaststellen van de heffing als bedoeld in [artikel 4, eerste lid](https
 
 1. De krachtens deze verordening verschuldigde bestemmingsheffing wordt op basis van de door de ondernemer verstrekte gegevens door de voorzitter vastgesteld en aan de ondernemer opgelegd in of na afloop van het oogstjaar waarover deze heffing verschuldigd is en geschiedt door toezending of uitreiking van een heffingsnota aan de ondernemer.
 
-2. Indien geen opgave als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=3&z=2013-09-22&g=2013-09-22) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
+2. Indien geen opgave als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=3&z=2014-12-31&g=2014-12-31) is gedaan, kan de voorzitter de ondernemer ambtshalve een heffing opleggen.
 
 ##### Artikel 6
 
-Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de door de ondernemer verstrekte gegevens of een ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid dan wel in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2013-09-22&g=2013-09-22), bedoelde geval, dan kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld en opgelegd.
+Indien uit ter beschikking van het productschap gekomen gegevens blijkt dat de door de ondernemer verstrekte gegevens of een ambtshalve schatting niet in overeenstemming zijn met de werkelijkheid dan wel in het in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033943&paragraaf=2&artikel=2&z=2014-12-31&g=2014-12-31), bedoelde geval, dan kan een opgelegde heffing aan de hand van deze gegevens door de voorzitter worden herzien en opnieuw worden vastgesteld en opgelegd.
 
 ##### Artikel 7
 
