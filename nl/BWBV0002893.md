@@ -4,7 +4,7 @@ identifier: "BWBV0002893"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-01-01"
-last_updated: "2008-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002893"
 soort: "verdrag"
@@ -149,17 +149,21 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - c. impôt des personnes morales/rechtspersonenbelasting
 
-- d. impôt des non-résidents/belasting der nietverblijfhouders
+- d. impôt des non-résidents/belasting der niet-verblijfhouders
 
-- e. taxe communale et la taxe d’agglomération additionnelles à l’impôt des personnes physiques/aanvullende gemeentebelasting en agglomeratiebelasting op de personenbelasting
+- e. taxe communale et la taxe d'agglomération additionnelles à l'impôt des personnes physiques/aanvullende gemeentebelasting en agglomeratiebelasting op de personenbelasting
 
 - ii. in Bulgarije:
 
+- a. данък върху доходите на физическите лица
+
+- b. корпоративен данък
+
 - iii. in Tsjechië:
 
-- a. daň z příjmů fyzických osob
+- a. daň z přijmů fyzických osob
 
-- b. daň z příjmů právnických osob
+- b. daň z přijmů právnických osob
 
 - iv. in Denemarken:
 
@@ -173,7 +177,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - a. Einkommensteuer
 
-- b. Koerperschaftsteuer
+- b. Körperschaftsteuer
 
 - c. Gewerbesteuer, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
@@ -209,7 +213,13 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - b. impôt sur les sociétés
 
-- xi. in Italië:
+- xi. in Kroatië:
+
+- a. porez na dohodak
+
+- b. porez na dobit
+
+- xii. in Italië:
 
 - a. imposta sul reddito delle persone fisiche
 
@@ -217,25 +227,25 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - c. imposta regionale sulle attività produttive
 
-- xii. in Cyprus:
+- xiii. in Cyprus:
 
 - a. Φόρος Εισοδήματος
 
-- b. Έκτακτη Εισφορά για την Άμυνα της ∆ημοκρατίας
+- b. Έκτακτη Εισφορά για την Άμυνα της yημοκρατίας
 
-- xiii. in Letland:
+- xiv. in Letland:
 
-- a. uzņēmumu ienākuma nodoklis
+- a. uzħēmumu ienākuma nodoklis
 
 - b. iedzīvotāju ienākuma nodoklis
 
-- xiv. in Litouwen:
+- xv. in Litouwen:
 
 - a. Gyventojų pajamų mokestis
 
 - b. Pelno mokestis
 
-- xv. in Luxemburg:
+- xvi. in Luxemburg:
 
 - a. impôt sur le revenu des personnes physiques
 
@@ -243,7 +253,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - c. impôt commercial, voor zover deze belasting naar de ondernemingswinst wordt berekend
 
-- xvi. in Hongarije:
+- xvii. in Hongarije:
 
 - a. személyi jövedelemadó
 
@@ -251,57 +261,57 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - c. osztalékadó
 
-- xvii. in Malta:
+- xviii. in Malta:
 
 - a. taxxa fuq l-income
 
-- xviii. in Nederland:
+- xix. in Nederland:
 
 - a. inkomstenbelasting
 
 - b. vennootschapsbelasting
 
-- xix. in Oostenrijk:
+- xx. in Oostenrijk:
 
 - a. Einkommensteuer
 
 - b. Körperschaftsteuer
 
-- xx. in Polen:
+- xxi. in Polen:
 
 - a. podatek dochodowy od osób fizycznych
 
 - b. podatek dochodowy od osób prawnych
 
-- xxi. in Portugal:
+- xxii. in Portugal:
 
 - a. imposto sobre o rendimento das pessoas singulares
 
-- b. imposto sobre o rendimento das pessoas colectivas
+- b. imposto sobre o rendimento das pessoas coletivas
 
-- c. derrama para os municípios sobre o imposto sobre o rendimento das pessoas colectivas
+- c. derrama para os municípios sobre o imposto sobre o rendimento das pessoas coletivas
 
-- xxii. in Roemenië:
+- xxiii. in Roemenië:
 
 - a. impozitul pe venit
 
 - b. impozitul pe profit
 
-- c. impozitul pe veniturile obţinute din România de nerezidenţi
+- c. impozitul pe veniturile obținute din România de nerezidenți
 
-- xxiii. in Slovenië:
+- xxiv. in Slovenië:
 
 - a. dohodnina
 
 - b. davek od dobička pravnih oseb
 
-- xxiv. in Slowakije:
+- xxv. in Slowakije:
 
 - a. daň z príjmov právnických osôb
 
 - b. daň z príjmov fyzických osôb
 
-- xxv. in Finland:
+- xxvi. in Finland:
 
 - a. valtion tuloverot/de statliga inkomstskatterna
 
@@ -311,11 +321,11 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - d. kirkollisvero/kyrkoskatten
 
-- e. korkotulon lähdevero/källskatten å ränteinkomst
+- e. korkotulon lähdevero/källskatten på ränteinkomst
 
 - f. rajoitetusti verovelvollisen lähdevero/källskatten för begränsat skattskyldig
 
-- xxvi. in Zweden:
+- xxvii. in Zweden:
 
 - a. statlig inkomstskatt
 
@@ -323,7 +333,7 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 - c. kommunal inkomstskatt
 
-- xxvii. in het Verenigd Koninkrijk:
+- xxviii. in het Verenigd Koninkrijk:
 
 - a. Income Tax
 
@@ -339,34 +349,69 @@ Overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
 1. In dit Verdrag betekent de uitdrukking „bevoegde autoriteit”:
 
-| - in België: | De Minister van Financiën of zijn bevoegde vertegenwoordiger Le Ministre des Finances of zijn bevoegde vertegenwoordiger |
-| --- | --- |
-| - in Denemarken: | Skatteministeren of zijn bevoegde vertegenwoordiger |
-| - in Duitsland: | Der Bundesminister der Finanzen of zijn bevoegde vertegenwoordiger |
-| - in Griekenland: | O Yπoυpγóς τωv Oικovoμικώv of zijn bevoegde vertegenwoordiger |
-| - in Spanje: | El Ministro de Economía y Hacienda of zijn bevoegde vertegenwoordiger |
-| - in Frankrijk: | Le Ministre chargé du budget of zijn bevoegde vertegenwoordiger |
-| - in Ierland: | The Revenue Commissioners of hun bevoegde vertegenwoordiger |
-| - in Italië: | Il Capo del Dipartimento per le Politiche Fiscali of zijn bevoegde vertegenwoordiger |
-| - in Luxemburg: | Le Ministre des Finances of zijn bevoegde vertegenwoordiger |
-| - in Nederland: | De Minister van Financiën of zijn bevoegde vertegenwoordiger |
-| - in het Verenigd Koninkrijk: | The Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger |
-| - in Portugal: | O Ministro das Finanças of zijn bevoegde vertegenwoordiger; |
-| - in Oostenrijk: | Der Bundesminister für Finanzen of zijn bevoegde vertegenwoordiger; |
-| - in Finland: | Valtiovarainministeriö of zijn bevoegde vertegenwoordiger; Finansministeriet of zijn bevoegde vertegenwoordiger; |
-| - in Zweden: | Finansministern of zijn bevoegde vertegenwoordiger; |
-| - in de Tsjechische Republiek: | Ministr financí of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Estland: | Rahandusminister of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Cyprus: | O Y πουργός Oικουομικών of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Letland: | Valsts ieòçmumu dienests; |
-| - in de Republiek Litouwen: | Finansu ministras of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Hongarije: | A pénzügyminiszter of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Malta: | Il-Ministru responsabbli ghall-Finanzi of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Polen: | Minister Finansów of zijn bevoegde vertegenwoordiger; |
-| - in de Republiek Slovenië: | Ministrstvo za finance of zijn bevoegde vertegenwoordiger; |
-| - in de Slowaakse Republiek: | Minister financií of zijn bevoegde vertegenwoordiger. |
-| - in Bulgarije: |   |
-| - in Roemenië: | Preşedintele Agenţiei Naţionale de Administrare Fiscală sau un reprezentant autorizat. |
+- –. in België:
+
+- –. De minister van Financiën of zijn bevoegde vertegenwoordiger,
+
+- –. Le ministre des Finances of zijn bevoegde vertegenwoordiger,
+
+- –. in Bulgarije: Министъра на финансите of zijn bevoegde vertegenwoordiger,
+
+- –. in Tsjechië: Ministr financí of zijn bevoegde vertegenwoordiger,
+
+- –. in Denemarken: Skatteministeren of zijn bevoegde vertegenwoordiger,
+
+- –. in Duitsland: Der Bundesminister der Finanzen of zijn bevoegde vertegenwoordiger,
+
+- –. in Estland: Rahandusminister of zijn bevoegde vertegenwoordiger,
+
+- –. in Ierland: The Revenue Commissioners of hun bevoegde vertegenwoordiger,
+
+- –. in Griekenland: Ο Υπουργός των Οικονομικών of zijn bevoegde vertegenwoordiger,
+
+- –. in Spanje: El ministro de Economía y Hacienda of zijn bevoegde vertegenwoordiger,
+
+- –. in Frankrijk: Le ministre chargé du budget of zijn bevoegde vertegenwoordiger,
+
+- –. in Kroatië: Ministar financija of zijn bevoegde vertegenwoordiger,
+
+- –. in Italië: Il Capo del Dipartimento per le Politiche Fiscali of zijn bevoegde vertegenwoordiger,
+
+- –. in Cyprus: Ο Υπουργός Οικονομικών of zijn bevoegde vertegenwoordiger,
+
+- –. in Letland: Valsts ieņēmumu dienests,
+
+- –. in Litouwen: Finansų ministras of zijn bevoegde vertegenwoordiger,
+
+- –. in Luxemburg: Le ministre des Finances of zijn bevoegde vertegenwoordiger,
+
+- –. in Hongarije: a pénzügyminiszter of zijn bevoegde vertegenwoordiger,
+
+- –. in Malta: il-Ministru responsabbli għall-finanzi of zijn bevoegde vertegenwoordiger,
+
+- –. in Nederland: De minister van Financiën of zijn bevoegde vertegenwoordiger,
+
+- –. in Oostenrijk: Der Bundesminister für Finanzen of zijn bevoegde vertegenwoordiger,
+
+- –. in Polen: Minister Finansów of zijn bevoegde vertegenwoordiger,
+
+- –. in Portugal: O Ministro das Finanças of zijn bevoegde vertegenwoordiger,
+
+- –. in Roemenië: Președintele Agenției Naționale de Administrare Fiscală of zijn bevoegde vertegenwoordiger,
+
+- –. in Slovenië: Minister za finance of zijn bevoegde vertegenwoordiger,
+
+- –. in Slowakije: Minister financií of zijn bevoegde vertegenwoordiger,
+
+- –. in Finland:
+
+- –. Valtiovarainministeriö of zijn bevoegde vertegenwoordiger,
+
+- –. Finansministeriet of zijn bevoegde vertegenwoordiger,
+
+- –. in Zweden: Finansministern of zijn bevoegde vertegenwoordiger,
+
+- –. in het Verenigd Koninkrijk: The Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger.
 
 2. Iedere uitdrukking die in dit Verdrag niet nader is omschreven, heeft, tenzij het zinsverband anders vereist, de betekenis welke zij heeft in het kader van het verdrag tot het vermijden van dubbele belasting dat tussen de betrokken Staten is gesloten.
 
