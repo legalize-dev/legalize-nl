@@ -4,7 +4,7 @@ identifier: "BWBR0035826"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-11-29"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035826"
 soort: "wet"
@@ -58,7 +58,7 @@ Wijzigt de Evaluatie- en uitbreidingswet Bibob.
 
 Wijzigt de Gemeentewet.
 
-##### Artikel IVa. [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&wetgeving)
+##### Artikel IVa. [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303)
 
 Wijzigt de Huisvestingswet 2014.
 
@@ -96,7 +96,7 @@ Wijzigt de Uitvoeringswet EGTS-verordening.
 
 Wijzigt de Waterschapswet.
 
-##### Artikel XIIa. [Wet aanpassing waterschapsverkiezingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034822&wetgeving)
+##### Artikel XIIa. [Wet aanpassing waterschapsverkiezingen](https://wetten.overheid.nl/jci1.3:c:BWBR0034822)
 
 Wijzigt de Wet aanpassing waterschapsverkiezingen.
 
@@ -110,7 +110,7 @@ Wijzigt de Wet basisregistratie personen.
 
 ##### Artikel XIVa. [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ##### Artikel XV. [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151)
 
@@ -122,9 +122,9 @@ Wijzigt de Wet financiering politieke partijen.
 
 ##### Artikel XVIa. [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeenschappelijke regelingen.
 
-##### Artikel XVIb. [Wet van 9 juli 2014 tot wijziging van de wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0035457&wetgeving) (**Stb. 2014, 306**)
+##### Artikel XVIb. [Wet van 9 juli 2014 tot wijziging van de wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0035457) (**Stb. 2014, 306**)
 
 Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
 
@@ -174,25 +174,25 @@ Wijzigt de Woningwet.
 
 ##### Artikel XXIV. Slotbepalingen
 
-1. Deze wet, met uitzondering van de [artikelen XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XIVa&z=2014-11-29&g=2014-11-29), [XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVIa&z=2014-11-29&g=2014-11-29) en [XXIII, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XXIII&z=2014-11-29&g=2014-11-29), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
+1. Deze wet, met uitzondering van de [artikelen XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XIVa&z=2015-01-01&g=2015-01-01), [XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVIa&z=2015-01-01&g=2015-01-01) en [XXIII, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XXIII&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin hij wordt geplaatst.
 
-2. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=III&z=2014-11-29&g=2014-11-29) en [VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=VIII&z=2014-11-29&g=2014-11-29), werken terug tot en met 16 maart 2013.
+2. De [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=III&z=2015-01-01&g=2015-01-01) en [VIII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=VIII&z=2015-01-01&g=2015-01-01), werken terug tot en met 16 maart 2013.
 
-3. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=IV&z=2014-11-29&g=2014-11-29) en [XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2014-11-29&g=2014-11-29), werken terug tot en met 19 maart 2014.
+3. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=IV&z=2015-01-01&g=2015-01-01) en [XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2015-01-01&g=2015-01-01), werken terug tot en met 19 maart 2014.
 
-4. [Artikel XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XIVa&z=2014-11-29&g=2014-11-29) treedt in werking op het tijdstip waarop de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&wetgeving) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip waarop die wet in werking is getreden, treedt artikel XIVa in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop die wet in werking is getreden.
+4. [Artikel XIVa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XIVa&z=2015-01-01&g=2015-01-01) treedt in werking op het tijdstip waarop de [Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip waarop die wet in werking is getreden, treedt artikel XIVa in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop die wet in werking is getreden.
 
-5. [Artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2014-11-29&g=2014-11-29), werkt terug tot en met 1 januari 2011.
+5. [Artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2011.
 
-6. [Artikel XVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2014-11-29&g=2014-11-29), werkt terug tot en met 1 januari 2012.
+6. [Artikel XVI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2012.
 
-7. [Artikel XVI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2014-11-29&g=2014-11-29), werkt terug tot en met 1 januari 2013.
+7. [Artikel XVI, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2013.
 
-8. [Artikel XVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2014-11-29&g=2014-11-29), werkt terug tot en met 1 januari 2014.
+8. [Artikel XVI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVI&z=2015-01-01&g=2015-01-01), werkt terug tot en met 1 januari 2014.
 
-9. [Artikel XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVIa&z=2014-11-29&g=2014-11-29) treedt in werking op het tijdstip waarop [artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0035457&artikel=I) (Stb. 2014, 306) in werking treedt. Indien artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen reeds in werking is getreden op het tijdstip van inwerkingtreding van deze wet, treedt artikel XVIa van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen in werking is getreden.
+9. [Artikel XVIa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XVIa&z=2015-01-01&g=2015-01-01) treedt in werking op het tijdstip waarop [artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen](https://wetten.overheid.nl/jci1.3:c:BWBR0035457&artikel=I) (Stb. 2014, 306) in werking treedt. Indien artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen reeds in werking is getreden op het tijdstip van inwerkingtreding van deze wet, treedt artikel XVIa van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop artikel I, onderdeel D, van de wet van 9 juli 2014 tot wijziging van de Wet gemeenschappelijke regelingen en een aantal andere wetten in verband met de dualisering van het gemeente- en provinciebestuur en de invoering van een bedrijfsvoeringsorganisatie met rechtspersoonlijkheid, alsmede regeling van diverse andere onderwerpen in werking is getreden.
 
-10. [Artikel XXIII, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XXIII&z=2014-11-29&g=2014-11-29), treedt in werking op het tijdstip waarop de wet van 4 juni 2014 tot wijziging van de Woningwet in verband met het versterken van het handhavingsinstrumentarium (Stb. 2014, 249) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip waarop die wet in werking is getreden, treedt artikel XXIII, onderdeel Fa, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop die wet in werking is getreden.
+10. [Artikel XXIII, onderdeel Fa](https://wetten.overheid.nl/jci1.3:c:BWBR0035826&artikel=XXIII&z=2015-01-01&g=2015-01-01), treedt in werking op het tijdstip waarop de wet van 4 juni 2014 tot wijziging van de Woningwet in verband met het versterken van het handhavingsinstrumentarium (Stb. 2014, 249) in werking treedt. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het tijdstip waarop die wet in werking is getreden, treedt artikel XXIII, onderdeel Fa, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt het terug tot en met het tijdstip waarop die wet in werking is getreden.
 
 ##### Artikel XXV
 
