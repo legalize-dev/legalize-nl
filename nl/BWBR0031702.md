@@ -4,7 +4,7 @@ identifier: "BWBR0031702"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031702"
 soort: "zbo"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Syllabi 2014
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2014, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&bijlage=1a&z=2014-01-01&g=2014-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&bijlage=1b&z=2014-01-01&g=2014-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&bijlage=1c&z=2014-01-01&g=2014-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 2. Initiële vaststelling enkele syllabi 2013
 
@@ -58,11 +58,11 @@ Vervallen
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=1&z=2014-01-01&g=2014-01-01): per 1 januari 2015;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=1&z=2015-01-01&g=2015-01-01): per 1 januari 2015;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=2&z=2014-01-01&g=2014-01-01): per 1 januari 2014;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=2&z=2015-01-01&g=2015-01-01): per 1 januari 2014;
 
-- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=3&z=2014-01-01&g=2014-01-01): per 1 januari 2014.
+- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=3&z=2015-01-01&g=2015-01-01): per 1 januari 2014.
 
 ##### Artikel 5. Citeertitel
 
@@ -72,9 +72,11 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2014.
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=1&z=2014-01-01&g=2014-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=2&z=2014-01-01&g=2014-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=3&z=2014-01-01&g=2014-01-01) worden bekend gemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=1&z=2015-01-01&g=2015-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=2&z=2015-01-01&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031702&artikel=3&z=2015-01-01&g=2015-01-01) worden bekend gemaakt op www.examenblad.nl.
 
 ## Bijlage 1a. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
 
 ### Syllabi v.w.o. 2014
 
@@ -305,6 +307,26 @@ kunst (beeldende vormgeving/dans/drama/muziek/algemeen) havo
 De syllabi voor de centrale examens v.m.b.o. 2013 die bij Regeling syllabi centrale examens VO 2013 zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
 
 natuur- en scheikunde II vmbo
+
+## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
+
+## Bijlage 3. bij de Regeling syllabi centrale examens vo 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
+
+## Bijlage 1b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
+
+## Bijlage 1c. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
+
+## Bijlage 2a. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
+
+Vervallen
 
 ## Bijlage 2b. bij de Regeling syllabi centrale examens VO 2014, van 17 april 2012, nummer Cve-12.0736
 
