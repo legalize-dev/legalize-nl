@@ -4,7 +4,7 @@ identifier: "BWBR0013887"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2002-07-26"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013887"
 soort: "AMvB"
@@ -58,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-Met inachtneming van het bepaalde in [artikel 10f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10f) worden de bevoegdheden die Onze Minister heeft op grond van de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10b), [10c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10c), [10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10d), en [10e, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10e), alsmede de bevoegdheid die Onze Minister heeft op grond van [artikel 10h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10h), voor zover de in het laatstgenoemde artikel bedoelde gegevens en inlichtingen door de in dat artikel bedoelde instellingen rechtstreeks bij de rechtspersonen worden opgevraagd, overgedragen aan de rechtspersonen, voor zover deze ingevolge [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) met toezicht zijn belast.
+Met inachtneming van het bepaalde in [artikel 10f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10f) worden de bevoegdheden die Onze Minister heeft op grond van de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10b), [10ba](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10ba), [10c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10c), [10d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10d), en [10e, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10e), alsmede de bevoegdheid die Onze Minister heeft op grond van [artikel 10h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10h), voor zover de in het laatstgenoemde artikel bedoelde gegevens en inlichtingen door de in dat artikel bedoelde instellingen rechtstreeks bij de rechtspersonen worden opgevraagd, overgedragen aan de rechtspersonen, voor zover deze ingevolge [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003296&artikel=10) met toezicht zijn belast.
 
 ##### Artikel 3
 
-Aan de overdracht van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013887&artikel=2&z=2002-07-26&g=2002-07-26), worden de volgende beperkingen gesteld en voorschriften verbonden:
+Aan de overdracht van de bevoegdheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013887&artikel=2&z=2015-01-01&g=2015-01-01), worden de volgende beperkingen gesteld en voorschriften verbonden:
 
 - a. de rechtspersonen verstrekken onverwijld aan Onze Minister op zijn verzoek alle inlichtingen die van belang kunnen zijn voor:
 
