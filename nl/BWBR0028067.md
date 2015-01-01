@@ -4,7 +4,7 @@ identifier: "BWBR0028067"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-11-11"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028067"
 soort: "wet-BES"
@@ -43,6 +43,8 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is dat met betrekkin
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van Nederland.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1
@@ -79,7 +81,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - n. **gerecht:** het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;
 
-- o. **commissie:** de Commissie toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2012-01-01&g=2012-01-01) van deze wet.
+- o. **commissie:** de Commissie toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2015-01-01&g=2015-01-01) van deze wet.
 
 ##### Artikel 2
 
@@ -103,9 +105,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Deze wet is niet van toepassing op de verwerking van persoonsgegevens voor uitsluitend journalistieke, artistieke of literaire doeleinden, behoudens de overige bepalingen van dit hoofdstuk, alsmede de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2012-01-01&g=2012-01-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=39&z=2012-01-01&g=2012-01-01).
+1. Deze wet is niet van toepassing op de verwerking van persoonsgegevens voor uitsluitend journalistieke, artistieke of literaire doeleinden, behoudens de overige bepalingen van dit hoofdstuk, alsmede de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), [13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-01-01&g=2015-01-01), en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=39&z=2015-01-01&g=2015-01-01).
 
-2. Het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01) te verwerken is niet van toepassing voor zover dit noodzakelijk is voor de doeleinden als bedoeld in het eerste lid.
+2. Het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01) te verwerken is niet van toepassing voor zover dit noodzakelijk is voor de doeleinden als bedoeld in het eerste lid.
 
 ##### Artikel 4
 
@@ -199,17 +201,17 @@ De verantwoordelijke legt passende technische en organisatorische maatregelen te
 
 3. De verantwoordelijke draagt zorg dat de bewerker
 
-- a. de persoonsgegevens verwerkt in overeenstemming met [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=12&z=2012-01-01&g=2012-01-01) en
+- a. de persoonsgegevens verwerkt in overeenstemming met [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01) en
 
-- b. de verplichtingen nakomt die op de verantwoordelijke rusten ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2012-01-01&g=2012-01-01).
+- b. de verplichtingen nakomt die op de verantwoordelijke rusten ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-01-01&g=2015-01-01).
 
 4. Is de bewerker niet gevestigd in de openbare lichamen, dan draagt de verantwoordelijke zorg dat de bewerker het recht van dat andere land nakomt, in afwijking van het derde lid, onder b.
 
-5. Met het oog op het bewaren van het bewijs worden de onderdelen van de overeenkomst of de rechtshandeling die betrekking hebben op de bescherming van persoonsgegevens, alsmede de beveiligingsmaatregelen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2012-01-01&g=2012-01-01) schriftelijk of in een andere, gelijkwaardige vorm vastgelegd.
+5. Met het oog op het bewaren van het bewijs worden de onderdelen van de overeenkomst of de rechtshandeling die betrekking hebben op de bescherming van persoonsgegevens, alsmede de beveiligingsmaatregelen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-01-01&g=2015-01-01) schriftelijk of in een andere, gelijkwaardige vorm vastgelegd.
 
 ##### Artikel 15
 
-De verantwoordelijke draagt zorg voor de naleving van de verplichtingen, bedoeld in de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=6&z=2012-01-01&g=2012-01-01) en [14, tweede en vijfde lid van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=14&z=2012-01-01&g=2012-01-01).
+De verantwoordelijke draagt zorg voor de naleving van de verplichtingen, bedoeld in de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) en [14, tweede en vijfde lid van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=14&z=2015-01-01&g=2015-01-01).
 
 #### Paragraaf 2. De verwerking van bijzondere persoonsgegevens
 
@@ -219,7 +221,7 @@ De verwerking van persoonsgegevens betreffende iemands godsdienst of levensovert
 
 ##### Artikel 17
 
-1. Het verbod om persoonsgegevens betreffende iemands godsdienst of levensovertuiging te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt door:
+1. Het verbod om persoonsgegevens betreffende iemands godsdienst of levensovertuiging te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt door:
 
 - a. kerkgenootschappen, zelfstandige onderdelen daarvan of andere genootschappen op geestelijke grondslag voor zover het gaat om gegevens van daartoe behorende personen;
 
@@ -237,7 +239,7 @@ De verwerking van persoonsgegevens betreffende iemands godsdienst of levensovert
 
 ##### Artikel 18
 
-Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt:
+Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt:
 
 - a. met het oog op de identificatie van de betrokkene en slechts voor zover dit voor dit doel onvermijdelijk is;
 
@@ -251,7 +253,7 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 ##### Artikel 19
 
-1. Het verbod om persoonsgegevens betreffende iemands politieke gezindheid te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt:
+1. Het verbod om persoonsgegevens betreffende iemands politieke gezindheid te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt:
 
 - a. door instellingen op politieke grondslag betreffende hun leden of hun werknemers dan wel andere tot de instelling behorende personen, voor zover dit gelet op het doel van de instelling noodzakelijk is voor de verwezenlijking van haar grondslag, of
 
@@ -261,13 +263,13 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 ##### Artikel 20
 
-1. Het verbod om persoonsgegevens betreffende iemands lidmaatschap van een vakbond te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt door de desbetreffende vakbond of de vakcentrale waarvan die bond een onderdeel vormt, voor zover dat gelet op de doelstelling van de vakbond of centrale noodzakelijk is.
+1. Het verbod om persoonsgegevens betreffende iemands lidmaatschap van een vakbond te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt door de desbetreffende vakbond of de vakcentrale waarvan die bond een onderdeel vormt, voor zover dat gelet op de doelstelling van de vakbond of centrale noodzakelijk is.
 
 2. In het geval, bedoeld in het eerste lid worden geen persoonsgegevens aan derden verstrekt zonder toestemming van de betrokkene.
 
 ##### Artikel 21
 
-1. Het verbod om persoonsgegevens betreffende iemands gezondheid te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt door:
+1. Het verbod om persoonsgegevens betreffende iemands gezondheid te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt door:
 
 - a. hulpverleners, instellingen of voorzieningen voor gezondheidszorg of maatschappelijke dienstverlening voor zover dat met het oog op een goede behandeling of verzorging van de betrokkene, dan wel het beheer van de betreffende instelling of beroepspraktijk noodzakelijk is;
 
@@ -291,7 +293,7 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 2. In de gevallen, bedoeld in het eerste lid worden de gegevens alleen verwerkt door personen die uit hoofde van ambt, beroep of wettelijk voorschrift, dan wel krachtens een overeenkomst tot geheimhouding zijn verplicht. Indien de verantwoordelijke gegevens persoonlijk verwerkt en op hem niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift een geheimhoudingsplicht rust, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover de wet hem tot mededeling verplicht of uit zijn taak de noodzaak voortvloeit dat de gegevens worden meegedeeld aan anderen die krachtens het eerste lid bevoegd zijn tot verwerking daarvan.
 
-3. Het verbod om andere persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01) te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van persoonsgegevens betreffende iemands gezondheid als bedoeld in het eerste lid, onder a, met het oog op een goede behandeling of verzorging van de betrokkene.
+3. Het verbod om andere persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01) te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van persoonsgegevens betreffende iemands gezondheid als bedoeld in het eerste lid, onder a, met het oog op een goede behandeling of verzorging van de betrokkene.
 
 4. Persoonsgegevens betreffende erfelijke eigenschappen mogen slechts worden verwerkt voor zover deze verwerking plaatsvindt met betrekking tot de betrokkene bij wie de desbetreffende gegevens zijn verkregen, tenzij:
 
@@ -299,13 +301,13 @@ Het verbod om persoonsgegevens betreffende iemands ras te verwerken, bedoeld in 
 
 - b. de verwerking noodzakelijk is ten behoeve van wetenschappelijk onderzoek of statistiek.
 
-In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=23&z=2012-01-01&g=2012-01-01), van overeenkomstige toepassing.
+In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=23&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing.
 
 5. Bij algemene maatregel van bestuur kunnen omtrent de toepassing van het eerste lid, onder b en f, nadere regels worden gesteld.
 
 ##### Artikel 22
 
-1. Het verbod om strafrechtelijke persoonsgegevens te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen bij of krachtens de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) of de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258).
+1. Het verbod om strafrechtelijke persoonsgegevens te verwerken, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), is niet van toepassing indien de verwerking geschiedt door organen die krachtens de wet zijn belast met de toepassing van het strafrecht, alsmede door verantwoordelijken die deze hebben verkregen bij of krachtens de [Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079) of de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028258).
 
 2. Het verbod is niet van toepassing op de verantwoordelijke die deze gegevens ten eigen behoeve verwerkt ter:
 
@@ -313,13 +315,13 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 - b. bescherming van zijn belangen voor zover het gaat om strafbare feiten die zijn of op grond van feiten en omstandigheden naar verwachting zullen worden gepleegd jegens hem of jegens personen die in zijn dienst zijn.
 
-3. Het verbod om andere persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.
+3. Het verbod om andere persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), te verwerken, is niet van toepassing voor zover dit noodzakelijk is in aanvulling op de verwerking van strafrechtelijke gegevens voor de doeleinden waarvoor deze gegevens worden verwerkt.
 
 4. Het tweede en derde lid is van overeenkomstige toepassing op persoonsgegevens betreffende een door de rechter opgelegd verbod naar aanleiding van onrechtmatig of hinderlijk gedrag.
 
 ##### Artikel 23
 
-1. Onverminderd de [artikelen 17 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=17&z=2012-01-01&g=2012-01-01) is het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), te verwerken niet van toepassing voor zover:
+1. Onverminderd de [artikelen 17 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=17&z=2015-01-01&g=2015-01-01) is het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), te verwerken niet van toepassing voor zover:
 
 - a. dit geschiedt met uitdrukkelijke toestemming van de betrokkene;
 
@@ -331,7 +333,7 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 - e. dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, passende waarborgen worden geboden ter bescherming van de persoonlijke levenssfeer en dit bij wet wordt bepaald dan wel de commissie ontheffing heeft verleend. De commissie kan bij de verlening van ontheffing beperkingen en voorschriften opleggen.
 
-2. Het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2012-01-01&g=2012-01-01), te verwerken ten behoeve van wetenschappelijk onderzoek of statistiek is niet van toepassing voor zover:
+2. Het verbod om persoonsgegevens als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), te verwerken ten behoeve van wetenschappelijk onderzoek of statistiek is niet van toepassing voor zover:
 
 - a. het onderzoek een algemeen belang dient,
 
@@ -359,7 +361,7 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 ##### Artikel 26
 
-1. Indien persoonsgegevens worden verkregen op een andere wijze dan bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=25&z=2012-01-01&g=2012-01-01), deelt de verantwoordelijke de betrokkene de informatie mede, bedoeld in het tweede en derde lid, tenzij deze reeds daarvan op de hoogte is:
+1. Indien persoonsgegevens worden verkregen op een andere wijze dan bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=25&z=2015-01-01&g=2015-01-01), deelt de verantwoordelijke de betrokkene de informatie mede, bedoeld in het tweede en derde lid, tenzij deze reeds daarvan op de hoogte is:
 
 - a. op het moment van vastlegging van hem betreffende gegevens, of
 
@@ -387,7 +389,7 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 ##### Artikel 28
 
-1. Degene aan wie overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2012-01-01&g=2012-01-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de verantwoordelijke verzoeken deze te verbeteren, aan te vullen, te verwijderen, of af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.
+1. Degene aan wie overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2015-01-01&g=2015-01-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de verantwoordelijke verzoeken deze te verbeteren, aan te vullen, te verwijderen, of af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn dan wel anderszins in strijd met een wettelijk voorschrift worden verwerkt. Het verzoek bevat de aan te brengen wijzigingen.
 
 2. De verantwoordelijke bericht de verzoeker binnen vier weken na ontvangst van het verzoek schriftelijk of dan wel in hoeverre hij daaraan voldoet. Een weigering is met redenen omkleed.
 
@@ -399,27 +401,27 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 ##### Artikel 29
 
-1. Indien een gewichtig belang van de verzoeker dit eist, voldoet de verantwoordelijke aan een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01), in een andere dan schriftelijke vorm, die aan dat belang is aangepast.
+1. Indien een gewichtig belang van de verzoeker dit eist, voldoet de verantwoordelijke aan een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01), in een andere dan schriftelijke vorm, die aan dat belang is aangepast.
 
 2. De verantwoordelijke draagt zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker.
 
-3. De verzoeken, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01), worden ten aanzien van minderjarigen die de leeftijd van zestien jaren nog niet hebben bereikt, en ten aanzien van onder curatele gestelden gedaan door hun wettelijke vertegenwoordigers. De betrokken mededeling geschiedt eveneens aan de wettelijke vertegenwoordigers.
+3. De verzoeken, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01), worden ten aanzien van minderjarigen die de leeftijd van zestien jaren nog niet hebben bereikt, en ten aanzien van onder curatele gestelden gedaan door hun wettelijke vertegenwoordigers. De betrokken mededeling geschiedt eveneens aan de wettelijke vertegenwoordigers.
 
 ##### Artikel 30
 
-1. De verantwoordelijke die naar aanleiding van een verzoek op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01) persoonsgegevens heeft verbeterd, aangevuld, verwijderd of afgeschermd, is verplicht om aan derden aan wie de gegevens daaraan voorafgaand zijn verstrekt, zo spoedig mogelijk kennis te geven van de verbetering, aanvulling, verwijdering of afscherming, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
+1. De verantwoordelijke die naar aanleiding van een verzoek op grond van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01) persoonsgegevens heeft verbeterd, aangevuld, verwijderd of afgeschermd, is verplicht om aan derden aan wie de gegevens daaraan voorafgaand zijn verstrekt, zo spoedig mogelijk kennis te geven van de verbetering, aanvulling, verwijdering of afscherming, tenzij dit onmogelijk blijkt of een onevenredige inspanning kost.
 
-2. De verantwoordelijke doet aan de verzoeker, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01), desgevraagd opgave van degenen aan wie hij de mededeling heeft gedaan.
+2. De verantwoordelijke doet aan de verzoeker, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01), desgevraagd opgave van degenen aan wie hij de mededeling heeft gedaan.
 
 ##### Artikel 31
 
-1. De verantwoordelijke kan voor een bericht als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01) een bij of krachtens algemene maatregel van bestuur vast te stellen vergoeding van kosten verlangen die ten hoogste USD 5 bedraagt.
+1. De verantwoordelijke kan voor een bericht als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01) een bij of krachtens algemene maatregel van bestuur vast te stellen vergoeding van kosten verlangen die ten hoogste USD 5 bedraagt.
 
 2. De vergoeding wordt teruggegeven in geval de verantwoordelijke op verzoek van de betrokkene, op bevel van de rechter tot verbetering, aanvulling, verwijdering of afscherming is overgegaan.
 
 ##### Artikel 32
 
-1. Indien gegevens het voorwerp zijn van verwerking op grond van [artikel 8, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=8&z=2012-01-01&g=2012-01-01), kan de betrokkene daartegen bij de verantwoordelijke te allen tijde verzet aantekenen in verband met zijn bijzondere persoonlijke omstandigheden.
+1. Indien gegevens het voorwerp zijn van verwerking op grond van [artikel 8, onder e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=8&z=2015-01-01&g=2015-01-01), kan de betrokkene daartegen bij de verantwoordelijke te allen tijde verzet aantekenen in verband met zijn bijzondere persoonlijke omstandigheden.
 
 2. De verantwoordelijke beoordeelt binnen vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien het verzet gerechtvaardigd is beëindigt hij terstond de verwerking.
 
@@ -459,7 +461,7 @@ In het geval, bedoeld onder b, is [artikel 23, eerste lid, onder a, en tweede li
 
 ##### Artikel 35
 
-De verantwoordelijke kan de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=9&z=2012-01-01&g=2012-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=25&z=2012-01-01&g=2012-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2012-01-01&g=2012-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01) buiten toepassing laten voor zover dit noodzakelijk is in het belang van:
+De verantwoordelijke kan de [artikelen 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=25&z=2015-01-01&g=2015-01-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2015-01-01&g=2015-01-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01) buiten toepassing laten voor zover dit noodzakelijk is in het belang van:
 
 - a. de veiligheid van de staat;
 
@@ -473,19 +475,19 @@ De verantwoordelijke kan de [artikelen 9, eerste lid](https://wetten.overheid.nl
 
 ##### Artikel 36
 
-1. Indien een verwerking plaatsvindt door instellingen of diensten voor wetenschappelijk onderzoek of statistiek, en de nodige voorzieningen zijn getroffen om te verzekeren dat de persoonsgegevens uitsluitend voor statistische en wetenschappelijke doeleinden kunnen worden gebruikt, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2012-01-01&g=2012-01-01) achterwege laten en weigeren aan een verzoek als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01) te voldoen.
+1. Indien een verwerking plaatsvindt door instellingen of diensten voor wetenschappelijk onderzoek of statistiek, en de nodige voorzieningen zijn getroffen om te verzekeren dat de persoonsgegevens uitsluitend voor statistische en wetenschappelijke doeleinden kunnen worden gebruikt, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2015-01-01&g=2015-01-01) achterwege laten en weigeren aan een verzoek als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01) te voldoen.
 
-2. Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2012-01-01&g=2012-01-01) achterwege laten.
+2. Indien een verwerking plaatsvindt van persoonsgegevens die deel uitmaken van archiefbescheiden die ingevolge de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) of [13 van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=13) zijn overgebracht naar een archiefbewaarplaats, kan de verantwoordelijke een mededeling als bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=3&artikel=26&z=2015-01-01&g=2015-01-01) achterwege laten.
 
 ### Hoofdstuk 6. Rechtsbescherming
 
 ##### Artikel 37
 
-Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2012-01-01&g=2012-01-01), alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2012-01-01&g=2012-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=33&z=2012-01-01&g=2012-01-01) gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
+Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2015-01-01&g=2015-01-01), alsmede een beslissing naar aanleiding van de aantekening van verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2015-01-01&g=2015-01-01) of [33](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=33&z=2015-01-01&g=2015-01-01) gelden, voor zover deze zijn genomen door een bestuursorgaan, als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
 ##### Artikel 38
 
-1. Indien een beslissing als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=37&z=2012-01-01&g=2012-01-01) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek, de verantwoordelijke te bevelen alsnog een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2012-01-01&g=2012-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2012-01-01&g=2012-01-01) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2012-01-01&g=2012-01-01), toe of af te wijzen dan wel een verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2012-01-01&g=2012-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=31&z=2012-01-01&g=2012-01-01) al dan niet te honoreren.
+1. Indien een beslissing als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=6&artikel=37&z=2015-01-01&g=2015-01-01) is genomen door een ander dan een bestuursorgaan, kan de belanghebbende zich tot het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba wenden met het schriftelijk verzoek, de verantwoordelijke te bevelen alsnog een verzoek als bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=27&z=2015-01-01&g=2015-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=28&z=2015-01-01&g=2015-01-01) en [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=30&z=2015-01-01&g=2015-01-01), toe of af te wijzen dan wel een verzet als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=32&z=2015-01-01&g=2015-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=4&artikel=31&z=2015-01-01&g=2015-01-01) al dan niet te honoreren.
 
 2. Het verzoekschrift moet worden ingediend binnen zes weken na ontvangst van het antwoord van de verantwoordelijke. Indien de verantwoordelijke niet binnen de gestelde termijn heeft geantwoord, moet het verzoekschrift worden ingediend binnen zes weken na afloop van die termijn.
 
@@ -513,7 +515,7 @@ Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.ov
 
 ##### Artikel 41
 
-1. De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=1&artikel=4&z=2012-01-01&g=2012-01-01), is bepaald, wordt gestraft met geldboete van de tweede categorie.
+1. De verantwoordelijke die in strijd handelt met hetgeen bij of krachtens [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=1&artikel=4&z=2015-01-01&g=2015-01-01), is bepaald, wordt gestraft met geldboete van de tweede categorie.
 
 2. De verantwoordelijke die een feit als bedoeld in het eerste lid, opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 
@@ -529,7 +531,7 @@ Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.ov
 
 ##### Artikel 43
 
-1. In afwijking van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=7&artikel=42&z=2012-01-01&g=2012-01-01) kan een doorgifte of een categorie van doorgiften van persoonsgegevens naar een derde land dat geen waarborgen biedt voor een passend beschermingsniveau, plaatsvinden indien:
+1. In afwijking van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=7&artikel=42&z=2015-01-01&g=2015-01-01) kan een doorgifte of een categorie van doorgiften van persoonsgegevens naar een derde land dat geen waarborgen biedt voor een passend beschermingsniveau, plaatsvinden indien:
 
 - a. de betrokkene daarvoor zijn ondubbelzinnige toestemming heeft gegeven;
 
@@ -559,7 +561,7 @@ Een beslissing op een verzoek als bedoeld in de [artikelen 27](https://wetten.ov
 
 1. De commissie bestaat uit een voorzitter en twee andere leden.
 
-2. De voorzitter moet voldoen aan de bij of krachtens [artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=23) gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.
+2. De voorzitter moet voldoen aan de bij of krachtens [artikel 24 van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24) gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.
 
 3. De voorzitter en de leden worden bij koninklijk besluit benoemd, op voordracht van Onze Minister, voor een tijdvak van zes jaren.
 
@@ -601,7 +603,7 @@ Houden de voorlopige bevindingen verband met de uitvoering van enige wet, dan br
 
 ##### Artikel 51
 
-1. Met het toezicht op de naleving, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2012-01-01&g=2012-01-01), zijn belast de leden van de commissie en de ambtenaren van het secretariaat. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
+1. Met het toezicht op de naleving, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=8&artikel=44&z=2015-01-01&g=2015-01-01), zijn belast de leden van de commissie en de ambtenaren van het secretariaat. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 2. De commissie is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. De [afdelingen 5.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) en [5.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.2) zijn van overeenkomstige toepassing, met uitzondering van [artikel 5.27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:27).
 
@@ -631,7 +633,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 1. Binnen een jaar na inwerkingtreding van deze wet worden de gegevensverwerkingen die op dat tijdstip reeds plaatsvonden, in overeenstemming gebracht met deze wet.
 
-2. Voor de aanpassing van de verwerking van bijzondere gegevens aan [paragraaf 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&z=2012-01-01&g=2012-01-01) geldt een termijn van drie jaren met dien verstande dat voor verwerkingen die al plaatsvonden en noodzakelijk zijn voor de uitvoering van overeenkomsten tot stand gekomen voor het tijdstip van inwerkingtreding van deze wet, niet opnieuw toestemming behoeft te worden gevraagd als bedoeld in [artikel 23, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=23&z=2012-01-01&g=2012-01-01).
+2. Voor de aanpassing van de verwerking van bijzondere gegevens aan [paragraaf 2 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&z=2015-01-01&g=2015-01-01) geldt een termijn van drie jaren met dien verstande dat voor verwerkingen die al plaatsvonden en noodzakelijk zijn voor de uitvoering van overeenkomsten tot stand gekomen voor het tijdstip van inwerkingtreding van deze wet, niet opnieuw toestemming behoeft te worden gevraagd als bedoeld in [artikel 23, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&hoofdstuk=2&paragraaf=2&artikel=23&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 57
 
