@@ -4,7 +4,7 @@ identifier: "BWBR0020078"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020078"
 soort: "wet"
@@ -53,7 +53,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. zorg:
 
-- 1°. zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- 1°. zorg of dienst als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
 - 2°. handelingen op het gebied van de gezondheidszorg als bedoeld in [artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=1), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) en voor zover die handelingen niet zijn begrepen onder 1°;
 
@@ -65,17 +65,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. zorgverzekeraar: een zorgverzekeraar als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- e. AWBZ-verzekeraar: een zorgverzekeraar die zich overeenkomstig [artikel 33 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=33) als zodanig heeft aangemeld voor de uitvoering van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- e. **Wlz-uitvoerder:** een rechtspersoon als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1);
 
 - f. ziektekostenverzekeraar:
 
 - 1°. een zorgverzekeraar;
 
-- 2°. een AWBZ-verzekeraar;
+- 2°. een Wlz-uitvoerder;
 
 - 3°. een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar mag uitoefenen;
 
-- g. verzekerde: degene die een verzekeringsovereenkomst betreffende het risico van ziektekosten heeft gesloten met een ziektekostenverzekeraar dan wel van rechtswege verzekerd is op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- g. verzekerde: degene die een verzekeringsovereenkomst betreffende het risico van ziektekosten heeft gesloten met een ziektekostenverzekeraar dan wel van rechtswege verzekerd is op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
 - h. verzekeringsplichtige: degene die op grond van [artikel 2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2) verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren;
 
@@ -85,7 +85,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - k. tarief: prijs voor een prestatie, een deel van een prestatie of geheel van prestaties van een zorgaanbieder;
 
-- l. zorgautoriteit: de Nederlandse Zorgautoriteit, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2014-04-01&g=2014-04-01);
+- l. zorgautoriteit: de Nederlandse Zorgautoriteit, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2015-01-01&g=2015-01-01);
 
 - m. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58);
 
@@ -97,13 +97,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - q. Zorgverzekeringsfonds: het fonds, genoemd in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450);
 
-- r. het CAK: het CAK, genoemd in [artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=48).
+- r. het CAK: het CAK, genoemd in [artikel 6.1.1, eerste lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1).
 
 ##### Artikel 2
 
 1. Bij algemene maatregel van bestuur kunnen, indien dat voor een goede uitvoering van deze wet nodig is, werkzaamheden die geheel of gedeeltelijk liggen op het gebied van de gezondheidszorg of geheel of gedeeltelijk ten behoeve van de gezondheidszorg worden verricht, worden aangewezen als zorg in de zin van deze wet.
 
 2. Bij algemene maatregel van bestuur kan een vorm van zorg worden uitgezonderd van deze wet of een deel daarvan.
+
+3. Deze wet is niet van toepassing op een zorgaanbieder voor zover deze jeugdhulp als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) aanbiedt.
+
+4. Deze wet niet is van toepassing op:
+
+- a. aanbieders als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
+
+- b. derden van wie een cliënt, aan wie een persoongebonden budget in de zin van die wet is verstrekt, de diensten, hulpmiddelen, woningaanpassingen en andere maatregelen die tot de maatwerkvoorziening behoren betrekt.
 
 ### Hoofdstuk 2. De Nederlandse Zorgautoriteit
 
@@ -153,13 +161,13 @@ Vervallen
 
 - b. de onderwerpen waaromtrent de zorgautoriteit ingevolge deze wet bevoegd is beleidsregels vast te stellen.
 
-2. Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder b, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in [artikel 50, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), of een prestatiebeschrijving vaststelt.
+2. Onze Minister kan in een aanwijzing als bedoeld in het eerste lid, onder b, bepalen dat de zorgautoriteit ambtshalve een tarief als bedoeld in [artikel 50, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), of een prestatiebeschrijving vaststelt.
 
 3. Een aanwijzing heeft geen betrekking op een individuele zorgaanbieder, ziektekostenverzekeraar of consument.
 
 ##### Artikel 8
 
-Alvorens Onze Minister overeenkomstig [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-04-01&g=2014-04-01), een aanwijzing vaststelt, deelt hij de zakelijke inhoud van het voorgenomen besluit schriftelijk mede aan de beide kamers der Staten-Generaal. Hij stelt het besluit niet eerder vast dan nadat 30 dagen zijn verstreken na die mededeling. Van de vaststelling doet Onze Minister mededeling door plaatsing in de Staatscourant.
+Alvorens Onze Minister overeenkomstig [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-01-01&g=2015-01-01), een aanwijzing vaststelt, deelt hij de zakelijke inhoud van het voorgenomen besluit schriftelijk mede aan de beide kamers der Staten-Generaal. Hij stelt het besluit niet eerder vast dan nadat 30 dagen zijn verstreken na die mededeling. Van de vaststelling doet Onze Minister mededeling door plaatsing in de Staatscourant.
 
 ##### Artikel 9
 
@@ -197,17 +205,17 @@ Vervallen
 
 ##### Artikel 14
 
-1. Het werkprogramma, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2014-04-01&g=2014-04-01), behoeft de goedkeuring van Onze Minister.
+1. Het werkprogramma, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2015-01-01&g=2015-01-01), behoeft de goedkeuring van Onze Minister.
 
 2. In afwijking van [artikel 29 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), behoeven wijzigingen in een goedgekeurde begroting geen goedkeuring van Onze Minister, mits:
 
 - a. de totale omvang van de begroting geen wijziging ondergaat, en
 
-- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van vijf procent van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2014-04-01&g=2014-04-01) bedoelde budget niet te boven gaat.
+- b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van vijf procent van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2015-01-01&g=2015-01-01) bedoelde budget niet te boven gaat.
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de inhoud en inrichting van het werkprogramma, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2014-04-01&g=2014-04-01);
+- a. de inhoud en inrichting van het werkprogramma, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - b. de inhoud en inrichting van het jaarverslag, de begroting en de jaarrekening, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [34 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34);
 
@@ -215,13 +223,13 @@ Vervallen
 
 - d. de omvang van de egalisatiereserve, bedoeld in [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33).
 
-4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2014-04-01&g=2014-04-01) wordt vastgesteld.
+4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=12&z=2015-01-01&g=2015-01-01) wordt vastgesteld.
 
 5. Onverminderd [artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35) doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de zorgautoriteit voldoen aan de eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.
 
 ##### Artikel 15
 
-1. Na de goedkeuring, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2014-04-01&g=2014-04-01), van deze wet en in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), stelt de zorgautoriteit het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar.
+1. Na de goedkeuring, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=14&z=2015-01-01&g=2015-01-01), van deze wet en in de [artikelen 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29), en [34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), stelt de zorgautoriteit het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar.
 
 2. Onze Minister brengt zijn oordeel over het functioneren van de zorgautoriteit ter kennis van beide kamers der Staten-Generaal.
 
@@ -239,11 +247,11 @@ De zorgautoriteit is belast met:
 
 - c. toezicht op de rechtmatige afrekening van de bijdragen, bedoeld in de [artikelen 32 tot en met 34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), nadat een verzekeraar opgehouden is zorgverzekeringen uit te voeren;
 
-- d. toezicht op de rechtmatige en doelmatige uitvoering door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), van hetgeen bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en de [artikelen 91, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=123) en [124 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=124) is geregeld;
+- d. toezicht op de rechtmatige en doelmatige uitvoering door de Wlz-uitvoerders en het CAK, van hetgeen bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [artikelen 91, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [123](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=123) en [124 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=124) is geregeld;
 
-- e. toezicht op de uitvoering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2014-04-01&g=2014-04-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2014-04-01&g=2014-04-01);
+- e. toezicht op de uitvoering van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2015-01-01&g=2015-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2015-01-01&g=2015-01-01);
 
-- f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) en [artikel 15 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=15) is geregeld;
+- f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) en [artikel 2.1.4 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4) is geregeld;
 
 - g. de taak als bedoeld in [artikel 8a, tweede lid, onderdeel a, van de Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&artikel=8a);
 
@@ -287,7 +295,7 @@ De zorgautoriteit is belast met:
 
 1. De zorgautoriteit en de Autoriteit Consument en Markt bevorderen dat belanghebbenden zich bij aangelegenheden waarbij mogelijk sprake is van samenloop van bevoegdheden eerst wenden tot de zorgautoriteit.
 
-2. Van samenloop van bevoegdheden als bedoeld in het eerste lid is sprake in een situatie waarin de mogelijke uitoefening van bevoegdheden van de zorgautoriteit op grond van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01) van deze wet en de mogelijke uitoefening van bevoegdheden van de Autoriteit Consument en Markt op grond van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) of Europese wet- en regelgeving samenvallen dan wel kunnen samenvallen.
+2. Van samenloop van bevoegdheden als bedoeld in het eerste lid is sprake in een situatie waarin de mogelijke uitoefening van bevoegdheden van de zorgautoriteit op grond van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01) van deze wet en de mogelijke uitoefening van bevoegdheden van de Autoriteit Consument en Markt op grond van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) of Europese wet- en regelgeving samenvallen dan wel kunnen samenvallen.
 
 3. De zorgautoriteit past bij mogelijke samenloop van bevoegdheden voor zover mogelijk eerst de bevoegdheden toe die zij op grond van deze wet heeft, alvorens de Autoriteit Consument en Markt de haar ten dienste staande bevoegdheden op grond van de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) toepast.
 
@@ -313,21 +321,21 @@ De zorgautoriteit volgt het oordeel van het Staatstoezicht op de volksgezondheid
 
 - a. de vaststelling van regels door plaatsing van die regels;
 
-- b. de vaststelling van beleidsregels als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01);
+- b. de vaststelling van beleidsregels als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01);
 
 - c. de beschikkingen met betrekking tot aanmerkelijke marktmacht onder vermelding van de opgelegde verplichting en de tijdsduur van de verplichting;
 
 - d. de beschikkingen met betrekking tot tarieven en prestatiebeschrijvingen.
 
-3. Het eerste en tweede lid zijn niet van toepassing op besluiten en beschikkingen van de zorgautoriteit ter uitvoering van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&z=2014-04-01&g=2014-04-01).
+3. Het eerste en tweede lid zijn niet van toepassing op besluiten en beschikkingen van de zorgautoriteit ter uitvoering van [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 21
 
-1. De zorgautoriteit rapporteert desgevraagd aan Onze Minister omtrent de uitvoerbaarheid, doeltreffendheid en doelmatigheid van voorgenomen beleid in verband met de uitoefening van haar taken, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01).
+1. De zorgautoriteit rapporteert desgevraagd aan Onze Minister omtrent de uitvoerbaarheid, doeltreffendheid en doelmatigheid van voorgenomen beleid in verband met de uitoefening van haar taken, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01).
 
 2. De zorgautoriteit signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen inzake markten op het gebied van de zorg.
 
-3. De rapportages en signaleringen bevatten geen medische persoonsgegevens als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2014-04-01&g=2014-04-01).
+3. De rapportages en signaleringen bevatten geen medische persoonsgegevens als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 22
 
@@ -335,7 +343,7 @@ De zorgautoriteit volgt het oordeel van het Staatstoezicht op de volksgezondheid
 
 2. Onze Minister en de zorgautoriteit stellen gezamenlijk een informatiestatuut vast. Het informatiestatuut bevat inhoudelijke en procedurele afspraken met betrekking tot de verstrekking van informatie, bedoeld in het eerste lid alsmede in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20).
 
-3. De gegevens en inlichtingen, bedoeld in het eerste lid alsmede in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), hebben geen betrekking op medische persoonsgegevens als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2014-04-01&g=2014-04-01).
+3. De gegevens en inlichtingen, bedoeld in het eerste lid alsmede in [artikel 20 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20), hebben geen betrekking op medische persoonsgegevens als bedoeld in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 23
 
@@ -365,7 +373,7 @@ De zorgautoriteit volgt het oordeel van het Staatstoezicht op de volksgezondheid
 
 ##### Artikel 25
 
-1. De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taken, genoemd in [artikel 16, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.
+1. De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taken, genoemd in [artikel 16, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.
 
 2. De zorgverzekeraars en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.
 
@@ -383,11 +391,11 @@ De zorgautoriteit kan regels stellen met betrekking tot:
 
 - b. de inhoud en inrichting van het accountantsverslag, bedoeld in [artikel 38 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=38), en van het aan dat verslag ten grondslag liggende onderzoek.
 
-#### Paragraaf 3.3. Toezicht [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+#### Paragraaf 3.3. Toezicht [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 ##### Artikel 28
 
-1. De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het Zorginstituut een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en de daarop gebaseerde regelgeving door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in [artikel 40 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), in het voorafgaande kalenderjaar.
+1. De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het Zorginstituut een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de daarop gebaseerde regelgeving door de Wlz-uitvoerders en het CAK, in het voorafgaande kalenderjaar.
 
 2. Onze Minister zendt het rapport aan beide kamers der Staten-Generaal.
 
@@ -397,23 +405,25 @@ De zorgautoriteit kan regels stellen met betrekking tot:
 
 ##### Artikel 29
 
-1. De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taak, genoemd in [artikel 16, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.
+1. De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taak, genoemd in [artikel 16, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.
 
-2. De AWBZ-verzekeraars en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.
+2. De Wlz-uitvoerders en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.
 
 ##### Artikel 30
 
-1. De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij AWBZ-verzekeraars, het CAK en rechtspersonen als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40).
+1. De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij Wlz-uitvoerders en het CAK.
 
-2. De zorgautoriteit kan tevens op verzoek van het Zorginstituut onderzoek bij de AWBZ-verzekeraars of het CAK instellen.
+2. De zorgautoriteit kan tevens op verzoek van het Zorginstituut onderzoek bij bij de Wlz-uitvoerders of het CAK instellen.
 
 ##### Artikel 31
 
 De zorgautoriteit kan regels stellen met betrekking tot:
 
-- a. de controle door de AWBZ-verzekeraars en, voor zover betrekking hebbend op de uitvoering van de in [artikel 49 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=49) bedoelde taken, door het CAK.
+- a. de controle door de Wlz-uitvoerders en, voor zover betrekking hebbend op de uitvoering van de in [artikel 6.1.2 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.2) bedoelde taken, door het CAK,
 
-- b. de inhoud en inrichting van de verklaring en van het accountantsverslag, bedoeld in [artikel 36 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=36), en van het daaraan ten grondslag liggende onderzoek.
+- b. de wijze waarop een Wlz-uitvoerder die tevens zorgkantoor als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) is, zijn financieel verslag, bedoeld in [artikel 4.3.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.1) of zijn uitvoeringsverslag, bedoeld in [artikel 4.3.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.2), inricht,
+
+- c. de inhoud en inrichting van de verklaring en van het accountantsverslag, bedoeld in [artikel 4.3.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.3.1).
 
 ### Hoofdstuk 4. Marktontwikkeling en -ordening
 
@@ -421,7 +431,7 @@ De zorgautoriteit kan regels stellen met betrekking tot:
 
 ##### Artikel 32
 
-1. De zorgautoriteit onderzoekt, met inachtneming van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01), de concurrentieverhoudingen en het marktgedrag op het gebied van de zorg.
+1. De zorgautoriteit onderzoekt, met inachtneming van [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01), de concurrentieverhoudingen en het marktgedrag op het gebied van de zorg.
 
 2. Het onderzoek kan zich onder meer richten op:
 
@@ -437,7 +447,7 @@ De zorgautoriteit kan regels stellen met betrekking tot:
 
 ##### Artikel 33
 
-De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2014-04-01&g=2014-04-01), openbaar maken, met uitzondering van gegevens en inlichtingen die naar hun aard vertrouwelijk zijn.
+De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.1&artikel=32&z=2015-01-01&g=2015-01-01), openbaar maken, met uitzondering van gegevens en inlichtingen die naar hun aard vertrouwelijk zijn.
 
 #### Paragraaf 4.2. Algemene verplichtingen van zorgaanbieders en ziektekostenverzekeraars
 
@@ -459,13 +469,13 @@ De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [a
 
 1. Het is een zorgaanbieder verboden een tarief in rekening te brengen:
 
-- a. dat niet overeenkomt met het tarief dat voor de betrokken prestatie op grond van [artikel 50, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), is vastgesteld;
+- a. dat niet overeenkomt met het tarief dat voor de betrokken prestatie op grond van [artikel 50, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), is vastgesteld;
 
-- b. dat niet ligt binnen de tariefruimte die op grond van [artikel 50, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), voor de betrokken prestatie is vastgesteld;
+- b. dat niet ligt binnen de tariefruimte die op grond van [artikel 50, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), voor de betrokken prestatie is vastgesteld;
 
-- c. voor een prestatie waarvoor geen prestatiebeschrijving op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), is vastgesteld;
+- c. voor een prestatie waarvoor geen prestatiebeschrijving op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), is vastgesteld;
 
-- d. voor een prestatie waarvoor een andere prestatiebeschrijving wordt gehanteerd dan op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), is vastgesteld;
+- d. voor een prestatie waarvoor een andere prestatiebeschrijving wordt gehanteerd dan op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), is vastgesteld;
 
 - e. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.
 
@@ -475,15 +485,15 @@ De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [a
 
 4. Een zorgaanbieder en een ziektekostenverzekeraar kunnen aan het aanbieden, overeenkomen of leveren van een prestatie als bedoeld in het eerste lid, onder c of d, dan wel aan het in rekening brengen, betalen of aan een derde vergoeden van een tarief als bedoeld in het eerste lid, geen rechten ontlenen.
 
-5. Het derde en vierde lid zijn van overeenkomstige toepassing op een verzekeraar in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), voor zover niet begrepen onder [artikel 1, onder f, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2014-04-01&g=2014-04-01), van deze wet.
+5. Het derde en vierde lid zijn van overeenkomstige toepassing op een verzekeraar in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), voor zover niet begrepen onder [artikel 1, onder f, sub 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), van deze wet.
 
-6. Indien de zorgautoriteit een regel heeft vastgesteld als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01), is het een zorgaanbieder als bedoeld in het vierde lid van dat artikel, die de betalingen uit in rekening gebrachte tarieven ontvangt, verboden:
+6. Indien de zorgautoriteit een regel heeft vastgesteld als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01), is het een zorgaanbieder als bedoeld in het vierde lid van dat artikel, die de betalingen uit in rekening gebrachte tarieven ontvangt, verboden:
 
 - a. meer over te dragen dan het bedrag dat bij of krachtens deze wet is bepaald;
 
 - b. af te wijken van de bij die regel gestelde voorwaarden, voorschriften en beperkingen.
 
-7. Indien de zorgautoriteit bij de vaststelling van een tarief als bedoeld in [artikel 50, eerste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), op grond van het tweede lid van dat artikel een grens heeft vastgesteld, is het een zorgaanbieder verboden:
+7. Indien de zorgautoriteit bij de vaststelling van een tarief als bedoeld in [artikel 50, eerste lid, onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), op grond van het tweede lid van dat artikel een grens heeft vastgesteld, is het een zorgaanbieder verboden:
 
 - a. met de som van de tarieven voor de betrokken prestaties gerelateerd aan de daarbij aangegeven periode van die grens af te wijken;
 
@@ -493,15 +503,15 @@ De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [a
 
 1. Zorgaanbieders en ziektekostenverzekeraars voeren een administratie waaruit in ieder geval de overeengekomen en geleverde prestaties blijken, alsmede wanneer die prestaties zijn geleverd, aan welke patiënt onderscheidenlijk aan welke verzekerde die prestaties door een zorgaanbieder zijn geleverd, de daarvoor in rekening gebrachte tarieven en de in verband daarmee ontvangen of verrichte betalingen of vergoedingen aan derden.
 
-2. Zorgaanbieders en ziektekostenverzekeraars voeren op zodanige wijze een administratie dat te allen tijde mogelijk is elk tarief dat overeenkomstig [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01) of [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01) is vastgesteld of dat ligt binnen de tariefruimte die op grond van artikel 50, eerste lid, onderdeel c, is vastgesteld, in rekening te brengen, te betalen of aan derden te vergoeden.
+2. Zorgaanbieders en ziektekostenverzekeraars voeren op zodanige wijze een administratie dat te allen tijde mogelijk is elk tarief dat overeenkomstig [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01) of [52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01) is vastgesteld of dat ligt binnen de tariefruimte die op grond van artikel 50, eerste lid, onderdeel c, is vastgesteld, in rekening te brengen, te betalen of aan derden te vergoeden.
 
 3. De zorgautoriteit kan, ten behoeve van de vergelijkbaarheid van gegevens, toepassing van uniforme principes bij de toerekening van kosten en opbrengsten en bij het registreren van gegevens over kwaliteit en opbrengsten, nadere regels stellen betreffende de administratie van:
 
 - a. zorgaanbieders en ziektekostenverzekeraars met het oog op de bevordering van concurrentie, het voorkomen van fraude, de inzichtelijkheid en toegankelijkheid van die administratie alsmede het vaststellen van tarieven, en
 
-- b. zorgverzekeraars en AWBZ-verzekeraars met het oog op de bevordering van een goede uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) onderscheidenlijk de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+- b. zorgverzekeraars en Wlz-uitvoerders met het oog op de bevordering van een goede uitvoering van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) onderscheidenlijk de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-4. De in het derde lid bedoelde regels worden ten aanzien van zorgverzekeraars, AWBZ-verzekeraars of de rechtspersonen, bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), gesteld in overeenstemming met het Zorginstituut.
+4. De in het derde lid bedoelde regels worden ten aanzien van zorgverzekeraars en Wlz-uitvoerders gesteld in overeenstemming met het Zorginstituut.
 
 ##### Artikel 37
 
@@ -513,7 +523,7 @@ De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [a
 
 - c. door wie of namens wie ontvangsten voor een in rekening gebracht tarief moeten worden ingehouden, af- of overgedragen;
 
-- d. door wie of namens wie een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de op grond van [artikel 50, tweede lid, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), vastgestelde grens wordt ingehouden en afgedragen.
+- d. door wie of namens wie een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de op grond van [artikel 50, tweede lid, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), vastgestelde grens wordt ingehouden en afgedragen.
 
 2. Indien de zorgautoriteit een regel vaststelt als bedoeld in het eerste lid, aanhef en onder a, voor een prestatie die door twee of meer zorgaanbieders gezamenlijk wordt geleverd, kan zij in die regel bepalen dat uitsluitend een daarbij door haar aangewezen zorgaanbieder een tarief voor die prestatie in rekening mag brengen aan de consument of diens ziektekostenverzekeraar, waarbij de andere bij die prestatie betrokken zorgaanbieders uitsluitend aan de aangewezen zorgaanbieder voor het deel van die prestatie dat door hen is geleverd een tarief in rekening kunnen brengen.
 
@@ -521,15 +531,15 @@ De zorgautoriteit kan haar bevindingen op grond van het onderzoek, bedoeld in [a
 
 4. Indien de zorgautoriteit in een regel als bedoeld in het eerste lid, aanhef en onder a en b, voor een prestatie die door twee of meer zorgaanbieders gezamenlijk wordt geleverd, bepaalt dat een in rekening gebracht tarief aan of via een in die regel aangewezen zorgaanbieder of derde, verder te noemen ontvanger, moet worden betaald, draagt deze ontvanger er zorg voor dat de ontvangsten voor de door de andere zorgaanbieders in rekening gebrachte tarieven worden ingehouden en alleen aan hen worden overgedragen indien en voor zover een betaling is ontvangen van de consument of diens ziektekostenverzekeraar.
 
-Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01), draagt deze er zorg voor dat de ontvangsten voor de door de andere zorgaanbieders in rekening gebrachte tarieven alleen worden overgedragen met inachtneming van hetgeen met betrekking tot die vergoeding of het geheel van vergoedingen voor een van de andere zorgaanbieders of voor alle andere zorgaanbieders gezamenlijk bij of krachtens deze wet is bepaald.
+Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01), draagt deze er zorg voor dat de ontvangsten voor de door de andere zorgaanbieders in rekening gebrachte tarieven alleen worden overgedragen met inachtneming van hetgeen met betrekking tot die vergoeding of het geheel van vergoedingen voor een van de andere zorgaanbieders of voor alle andere zorgaanbieders gezamenlijk bij of krachtens deze wet is bepaald.
 
 5. Indien en voor zover de zorgautoriteit in een regel als bedoeld in het eerste lid, aanhef en onder b, vaststelt aan wie of via wie een in rekening gebracht tarief moet worden betaald, is de consument of diens ziektekostenverzekeraar die betaling uitsluitend aan deze verschuldigd.
 
-6. De zorgautoriteit past het tweede en derde lid niet toe dan na een aanwijzing van Onze Minister op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-04-01&g=2014-04-01). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2014-04-01&g=2014-04-01) is van overeenkomstige toepassing.
+6. De zorgautoriteit past het tweede en derde lid niet toe dan na een aanwijzing van Onze Minister op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-01-01&g=2015-01-01). [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 7. Voor de verdere uitvoering van de wet wordt onder zorgaanbieder mede verstaan een ieder die de ontvangsten uit in rekening gebrachte tarieven ontvangt, inhoudt, af- of overdraagt.
 
-8. Het bepaalde bij of krachtens dit artikel is mede van toepassing ten aanzien van een ieder die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het in rekening brengen of betalen van een tarief, het ontvangen, inhouden, af- of overdragen van ontvangsten voor een in rekening gebracht tarief of het inhouden, af- of overdragen van een door de zorgautoriteit te bepalen bedrag in verband met het overschrijden van een door de zorgautoriteit op grond van [artikel 50, tweede lid, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), vastgestelde grens.
+8. Het bepaalde bij of krachtens dit artikel is mede van toepassing ten aanzien van een ieder die voor een zorgaanbieder een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het in rekening brengen of betalen van een tarief, het ontvangen, inhouden, af- of overdragen van ontvangsten voor een in rekening gebracht tarief of het inhouden, af- of overdragen van een door de zorgautoriteit te bepalen bedrag in verband met het overschrijden van een door de zorgautoriteit op grond van [artikel 50, tweede lid, onderdelen a, c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), vastgestelde grens.
 
 9. De voorgaande leden zijn van overeenkomstige toepassing voor het in rekening brengen of betalen van een tarief voor een deel van een prestatie of een geheel van prestaties.
 
@@ -555,7 +565,7 @@ Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, a
 
 ##### Artikel 39
 
-1. Zorgaanbieders dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie terzake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), en niet misleidend is.
+1. Zorgaanbieders dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie terzake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), en niet misleidend is.
 
 2. De zorgautoriteit kan regels stellen betreffende de informatievoorziening, bedoeld in het eerste lid, met het oog op de doeltreffendheid, juistheid, inzichtelijkheid en vergelijkbaarheid daarvan.
 
@@ -571,21 +581,21 @@ Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, a
 
 - b. de wijze van dienstverlening aan verzekerden.
 
-3. Ziektekostenverzekeraars dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie ter zake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), en niet misleidend is.
+3. Ziektekostenverzekeraars dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie ter zake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), en niet misleidend is.
 
-4. [Artikel 38, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2014-04-01&g=2014-04-01), is ten aanzien van de informatieverstrekking door ziektekostenverzekeraars van overeenkomstige toepassing.
+4. [Artikel 38, vijfde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2015-01-01&g=2015-01-01), is ten aanzien van de informatieverstrekking door ziektekostenverzekeraars van overeenkomstige toepassing.
 
 ##### Artikel 41
 
-1. In dit artikel en in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2014-04-01&g=2014-04-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2014-04-01&g=2014-04-01) wordt verstaan onder:
+1. In dit artikel en in de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2015-01-01&g=2015-01-01) en [43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
 
 - a. overeenkomst op afstand: een verzekeringsovereenkomst betreffende het risico van ziektekosten tussen een ziektekostenverzekeraar en een consument, die wordt gesloten in het kader van een door de ziektekostenverzekeraar georganiseerd systeem van verkoop of dienstverrichting op afstand, waarbij tot en met de totstandkoming van die overeenkomst uitsluitend gebruik gemaakt wordt van een of meer technieken van communicatie op afstand;
 
 - b. techniek voor communicatie op afstand: ieder middel dat, zonder gelijktijdige fysieke aanwezigheid van ziektekostenverzekeraar en consument, kan worden gebruikt voor het sluiten van een verzekeringsovereenkomst betreffende het risico van ziektekosten tussen die partijen.
 
-2. Een verzekerde kan een overeenkomst op afstand zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende veertien kalenderdagen vanaf de dag waarop die overeenkomst is aangegaan, dan wel, indien dit later is, gedurende veertien kalenderdagen vanaf de dag waarop de informatie die de ziektekostenverzekeraar hem krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2014-04-01&g=2014-04-01), dient te verstrekken, door hem is ontvangen.
+2. Een verzekerde kan een overeenkomst op afstand zonder een boete verschuldigd te zijn en zonder opgave van redenen ontbinden gedurende veertien kalenderdagen vanaf de dag waarop die overeenkomst is aangegaan, dan wel, indien dit later is, gedurende veertien kalenderdagen vanaf de dag waarop de informatie die de ziektekostenverzekeraar hem krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2015-01-01&g=2015-01-01), dient te verstrekken, door hem is ontvangen.
 
-3. Indien een verzekerde gebruik wenst te maken van het in het tweede lid bedoelde recht, geeft hij daarvan voor het verstrijken van de in het tweede lid genoemde termijn kennis aan de ziektekostenverzekeraar volgens de instructies voor de uitoefening van dat recht, die hem krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2014-04-01&g=2014-04-01), zijn gegeven. De kennisgeving wordt als tijdig aangemerkt indien zij schriftelijk of op een voor de ontvanger beschikbare en toegankelijke duurzame drager is verzonden voor het verstrijken van de termijn.
+3. Indien een verzekerde gebruik wenst te maken van het in het tweede lid bedoelde recht, geeft hij daarvan voor het verstrijken van de in het tweede lid genoemde termijn kennis aan de ziektekostenverzekeraar volgens de instructies voor de uitoefening van dat recht, die hem krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2015-01-01&g=2015-01-01), zijn gegeven. De kennisgeving wordt als tijdig aangemerkt indien zij schriftelijk of op een voor de ontvanger beschikbare en toegankelijke duurzame drager is verzonden voor het verstrijken van de termijn.
 
 4. Indien aan een overeenkomst op afstand een andere overeenkomst verbonden is ten aanzien van een zaak of dienst die door de ziektekostenverzekeraar wordt geleverd of door een derde op grond van een overeenkomst tussen de ziektekostenverzekeraar en deze derde, brengt de ontbinding van de overeenkomst op afstand overeenkomstig het tweede lid, van rechtswege en zonder dat de verzekerde een boete verschuldigd is, de ontbinding mee van die verbonden overeenkomst.
 
@@ -593,7 +603,7 @@ Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, a
 
 1. Met de uitvoering van een overeenkomst op afstand wordt pas na toestemming van de verzekerde een begin gemaakt.
 
-2. Indien de verzekerde gebruik maakt van zijn in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01), bedoelde recht, kan de ziektekostenverzekeraar uitsluitend een vergoeding vragen voor het product dat of dienst die krachtens de overeenkomst op afstand is geleverd. Deze vergoeding is:
+2. Indien de verzekerde gebruik maakt van zijn in [artikel 41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01), bedoelde recht, kan de ziektekostenverzekeraar uitsluitend een vergoeding vragen voor het product dat of dienst die krachtens de overeenkomst op afstand is geleverd. Deze vergoeding is:
 
 - a. niet hoger dan een bedrag dat evenredig is aan de verhouding tussen het reeds geleverde product of dienst en de volledige uitvoering van de overeenkomst op afstand; en
 
@@ -601,27 +611,27 @@ Indien de ontvanger tevens is aangewezen op grond van [artikel 37, eerste lid, a
 
 3. De ziektekostenverzekeraar kan slechts betaling van de in het tweede lid bedoelde vergoeding verlangen indien hij:
 
-- a. kan aantonen dat de verzekerde overeenkomstig het bepaalde krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2014-04-01&g=2014-04-01), is geïnformeerd over de in het tweede lid bedoelde vergoeding; en
+- a. kan aantonen dat de verzekerde overeenkomstig het bepaalde krachtens [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=43&z=2015-01-01&g=2015-01-01), is geïnformeerd over de in het tweede lid bedoelde vergoeding; en
 
-- b. op uitdrukkelijk verzoek van de verzekerde met de uitvoering van de overeenkomst is begonnen voor het verstrijken van de in [artikel 41, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01), genoemde ontbindingstermijn.
+- b. op uitdrukkelijk verzoek van de verzekerde met de uitvoering van de overeenkomst is begonnen voor het verstrijken van de in [artikel 41, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01), genoemde ontbindingstermijn.
 
-4. De ziektekostenverzekeraar betaalt de consument zo spoedig mogelijk en uiterlijk binnen 30 kalenderdagen nadat hij de kennisgeving van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01) bedoelde ontbinding heeft ontvangen, al hetgeen hij krachtens de overeenkomst op afstand van hem ontvangen heeft terug, verminderd met het in het tweede lid bedoelde bedrag.
+4. De ziektekostenverzekeraar betaalt de consument zo spoedig mogelijk en uiterlijk binnen 30 kalenderdagen nadat hij de kennisgeving van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01) bedoelde ontbinding heeft ontvangen, al hetgeen hij krachtens de overeenkomst op afstand van hem ontvangen heeft terug, verminderd met het in het tweede lid bedoelde bedrag.
 
-5. De consument geeft de ziektekostenverzekeraar onverwijld, en uiterlijk binnen 30 kalenderdagen nadat hij de kennisgeving van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01) bedoelde ontbinding heeft verzonden, alle zaken terug die hij van de ziektekostenverzekeraar heeft ontvangen.
+5. De consument geeft de ziektekostenverzekeraar onverwijld, en uiterlijk binnen 30 kalenderdagen nadat hij de kennisgeving van de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01) bedoelde ontbinding heeft verzonden, alle zaken terug die hij van de ziektekostenverzekeraar heeft ontvangen.
 
 ##### Artikel 43
 
-1. Van hetgeen bij of krachtens de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2014-04-01&g=2014-04-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2014-04-01&g=2014-04-01) is bepaald, kan niet ten nadele van de verzekerde worden afgeweken.
+1. Van hetgeen bij of krachtens de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=41&z=2015-01-01&g=2015-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=42&z=2015-01-01&g=2015-01-01) is bepaald, kan niet ten nadele van de verzekerde worden afgeweken.
 
 2. Ten aanzien van de informatieverstrekking door ziektekostenverzekeraars met betrekking tot de overeenkomst op afstand is het ter zake bepaalde krachtens de [artikelen 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=31), juncto [100](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=100), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=31), en [35 van de Wet financiële dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0018329&artikel=35) van toepassing.
 
 ##### Artikel 44
 
-Het bepaalde bij of krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2014-04-01&g=2014-04-01) en [38 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2014-04-01&g=2014-04-01) is mede van toepassing ten aanzien van degene die voor een zorgaanbieder of ziektekostenverzekeraar een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling.
+Het bepaalde bij of krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2015-01-01&g=2015-01-01) en [38 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2015-01-01&g=2015-01-01) is mede van toepassing ten aanzien van degene die voor een zorgaanbieder of ziektekostenverzekeraar een administratie voert alsmede ten aanzien van degene die een administratie voert ten behoeve van of in verband met het aanbieden, overeenkomen, leveren, in rekening brengen, betalen of vergoeden aan derden van een prestatie of een tarief of het ontvangen van een betaling.
 
 ##### Artikel 45
 
-De zorgautoriteit kan, met het oog op de inzichtelijkheid van de zorgmarkten, de bevordering van de concurrentie of de tijdige signalering van risico’s voor de continuïteit van de bij de algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01), regels stellen betreffende de wijze van totstandkoming van overeenkomsten met betrekking tot zorg of tarieven en betreffende de voorwaarden in die overeenkomsten.
+De zorgautoriteit kan, met het oog op de inzichtelijkheid van de zorgmarkten, de bevordering van de concurrentie of de tijdige signalering van risico’s voor de continuïteit van de bij de algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01), regels stellen betreffende de wijze van totstandkoming van overeenkomsten met betrekking tot zorg of tarieven en betreffende de voorwaarden in die overeenkomsten.
 
 #### Paragraaf 4.3. Ontwikkeling zorgverzekeringsmarkt, zorgverleningsmarkt en zorginkoopmarkt
 
@@ -631,7 +641,7 @@ De zorgautoriteit kan bij het vaststellen van een regel op grond van deze wet be
 
 ##### Artikel 47
 
-In de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2014-04-01&g=2014-04-01) wordt onder aanmerkelijke marktmacht verstaan de positie van een of meer zorgaanbieders of ziektekostenverzekeraars om alleen dan wel gezamenlijk de ontwikkeling van daadwerkelijke concurrentie op de Nederlandse markt of een deel daarvan te kunnen belemmeren door de mogelijkheid zich in belangrijke mate onafhankelijk te gedragen van:
+In de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2015-01-01&g=2015-01-01) wordt onder aanmerkelijke marktmacht verstaan de positie van een of meer zorgaanbieders of ziektekostenverzekeraars om alleen dan wel gezamenlijk de ontwikkeling van daadwerkelijke concurrentie op de Nederlandse markt of een deel daarvan te kunnen belemmeren door de mogelijkheid zich in belangrijke mate onafhankelijk te gedragen van:
 
 - a. zijn concurrenten;
 
@@ -683,19 +693,19 @@ In de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4
 
 ##### Artikel 49
 
-1. Indien de zorgautoriteit een redelijk vermoeden heeft dat zij tot een oordeel als bedoeld in het eerste lid van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01) zal komen, kan zij in spoedeisende gevallen vooruitlopen op de toepassing van dat artikel en de desbetreffende zorgaanbieder of zorgaanbieders dan wel ziektekostenverzekeraar of ziektekostenverzekeraars een of meer van de verplichtingen opleggen, genoemd in het [eerste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01).
+1. Indien de zorgautoriteit een redelijk vermoeden heeft dat zij tot een oordeel als bedoeld in het eerste lid van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01) zal komen, kan zij in spoedeisende gevallen vooruitlopen op de toepassing van dat artikel en de desbetreffende zorgaanbieder of zorgaanbieders dan wel ziektekostenverzekeraar of ziektekostenverzekeraars een of meer van de verplichtingen opleggen, genoemd in het [eerste lid van artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01).
 
-2. [Artikel 48, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing op de verplichting, bedoeld in het eerste lid.
+2. [Artikel 48, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de verplichting, bedoeld in het eerste lid.
 
-3. [Artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing op de verplichting, bedoeld in het eerste lid, met dien verstande dat de verplichting geldt voor een periode van ten hoogste zes maanden en dat deze eenmaal met een periode van ten hoogste zes maanden kan worden verlengd.
+3. [Artikel 48, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de verplichting, bedoeld in het eerste lid, met dien verstande dat de verplichting geldt voor een periode van ten hoogste zes maanden en dat deze eenmaal met een periode van ten hoogste zes maanden kan worden verlengd.
 
 #### Paragraaf 4.4. Tariefregulering van vormen van zorg
 
 ##### Artikel 50
 
-1. De zorgautoriteit legt, met inachtneming van de [artikelen 51 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=51&z=2014-04-01&g=2014-04-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=59&z=2014-04-01&g=2014-04-01), in een beschikking ten behoeve van het rechtsgeldig in rekening kunnen brengen van een tarief vast:
+1. De zorgautoriteit legt, met inachtneming van de [artikelen 51 tot en met 56](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=51&z=2015-01-01&g=2015-01-01) en [59](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=59&z=2015-01-01&g=2015-01-01), in een beschikking ten behoeve van het rechtsgeldig in rekening kunnen brengen van een tarief vast:
 
-- a. of er sprake is van een vrij tarief, zijnde een tarief waarop [artikel 35, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), niet van toepassing is;
+- a. of er sprake is van een vrij tarief, zijnde een tarief waarop [artikel 35, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), niet van toepassing is;
 
 - b. of er sprake is van een vast tarief;
 
@@ -715,19 +725,19 @@ Bij de toepassing van de aanhef en onderdelen b en c in de eerste volzin stelt d
 
 - d. een bandbreedtegrens.
 
-Voor onderscheiden delen van een prestatie of geheel van prestaties als bedoeld in [artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01), kunnen afzonderlijke grenzen en grenssoorten als bedoeld in de voorgaande volzin worden vastgesteld.
+Voor onderscheiden delen van een prestatie of geheel van prestaties als bedoeld in [artikel 57, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01), kunnen afzonderlijke grenzen en grenssoorten als bedoeld in de voorgaande volzin worden vastgesteld.
 
 3. De zorgautoriteit kan aan de vaststelling van een tarief, een prestatiebeschrijving of een grens als bedoeld in de voorgaande leden voorschriften of beperkingen verbinden.
 
-4. De vaststelling van een tarief of een prestatiebeschrijving bevat in ieder geval voor zover van toepassing de onderwerpen, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=54&z=2014-04-01&g=2014-04-01).
+4. De vaststelling van een tarief of een prestatiebeschrijving bevat in ieder geval voor zover van toepassing de onderwerpen, genoemd in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=54&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 51
 
-De zorgautoriteit past [artikel 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), uitsluitend ambtshalve toe.
+De zorgautoriteit past [artikel 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), uitsluitend ambtshalve toe.
 
 ##### Artikel 52
 
-De zorgautoriteit past [artikel 50, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), toe:
+De zorgautoriteit past [artikel 50, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), toe:
 
 - a. op aanvraag van een zorgaanbieder en een ziektekostenverzekeraar, indien zij een tarief zijn overeengekomen. Het vastgestelde tarief geldt voor alle gevallen waarin de zorgaanbieder het tarief in rekening brengt aan de ziektekostenverzekeraar of aan degene die bij deze voor de prestatie waarop het tarief van toepassing is, is verzekerd;
 
@@ -737,31 +747,31 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdelen b en c](https://wette
 
 - d. op aanvraag van een zorgaanbieder dan wel ambtshalve, voor alle gevallen waarin het in rekening wordt gebracht aan iemand die voor de prestatie waarop het tarief van toepassing is, niet is verzekerd bij een ziektekostenverzekeraar. Daarbij kunnen met betrekking tot de kring van hen aan wie het tarief rechtsgeldig in rekening kan worden gebracht, beperkingen worden gesteld;
 
-- e. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01) dat vordert;
+- e. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01) dat vordert;
 
-- f. ambtshalve, indien de zorgautoriteit daarbij een grens als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), vaststelt.
+- f. ambtshalve, indien de zorgautoriteit daarbij een grens als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), vaststelt.
 
 ##### Artikel 53
 
-De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), toe:
+De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), toe:
 
-- a. ingeval de zorgautoriteit gebruik maakt van de bevoegdheid op grond van [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01);
+- a. ingeval de zorgautoriteit gebruik maakt van de bevoegdheid op grond van [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01);
 
-- b. in de gevallen, bedoeld in [artikel 52, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01);
+- b. in de gevallen, bedoeld in [artikel 52, onderdelen a tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01);
 
-- c. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar met betrekking tot een prestatie waarvoor de zorgautoriteit op grond van het bepaalde bij of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=2&z=2014-04-01&g=2014-04-01), [artikel 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), of [artikel 58, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=58&z=2014-04-01&g=2014-04-01), geen tarief behoeft vast te stellen.
+- c. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar met betrekking tot een prestatie waarvoor de zorgautoriteit op grond van het bepaalde bij of krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01), [artikel 50, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), of [artikel 58, vierde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=58&z=2015-01-01&g=2015-01-01), geen tarief behoeft vast te stellen.
 
 ##### Artikel 54
 
-1. Een aanvraag als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01) bevat een voorstel voor:
+1. Een aanvraag als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01) bevat een voorstel voor:
 
 - a. het in rekening te brengen tarief;
 
 - b. de periode waarvoor het tarief zal gelden.
 
-2. Een aanvraag als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2014-04-01&g=2014-04-01) bevat een voorstel voor de vast te stellen prestatiebeschrijving.
+2. Een aanvraag als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2015-01-01&g=2015-01-01) bevat een voorstel voor de vast te stellen prestatiebeschrijving.
 
-3. Indien de zorgautoriteit geen regels heeft vastgesteld als bedoeld in [artikel 37, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01), bevat de aanvraag, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2014-04-01&g=2014-04-01), voorts een voorstel voor:
+3. Indien de zorgautoriteit geen regels heeft vastgesteld als bedoeld in [artikel 37, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01), bevat de aanvraag, bedoeld in de [artikelen 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01) en [53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2015-01-01&g=2015-01-01), voorts een voorstel voor:
 
 - a. degene aan wie het betrokken tarief in rekening wordt gebracht;
 
@@ -771,13 +781,13 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.over
 
 ##### Artikel 55
 
-1. De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), in ieder geval afwijzend op een aanvraag als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01):
+1. De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), in ieder geval afwijzend op een aanvraag als bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01):
 
-- a. indien de voorstellen in de aanvraag in strijd zijn met het bepaalde in de beleidsregels, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01);
+- a. indien de voorstellen in de aanvraag in strijd zijn met het bepaalde in de beleidsregels, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01);
 
 - b. indien de aanvraag overigens niet voldoet aan het bepaalde bij of krachtens deze paragraaf.
 
-2. De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), in ieder geval afwijzend op een aanvraag als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2014-04-01&g=2014-04-01):
+2. De zorgautoriteit beslist, met in achtneming van [artikel 4:84 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:84), in ieder geval afwijzend op een aanvraag als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=53&z=2015-01-01&g=2015-01-01):
 
 - a. indien de voorgestelde prestatiebeschrijving in strijd is met het recht of met het belang van de volksgezondheid;
 
@@ -787,7 +797,7 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.over
 
 ##### Artikel 56
 
-1. Voordat de zorgautoriteit een beschikking neemt op een aanvraag tot vaststelling van een tarief als bedoeld in [artikel 52, onderdelen a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2014-04-01&g=2014-04-01), stelt zij de naar haar oordeel betrokken zorgaanbieder en betrokken ziektekostenverzekeraar in de gelegenheid te worden gehoord, indien dezen of een van hen daarom hebben verzocht.
+1. Voordat de zorgautoriteit een beschikking neemt op een aanvraag tot vaststelling van een tarief als bedoeld in [artikel 52, onderdelen a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=52&z=2015-01-01&g=2015-01-01), stelt zij de naar haar oordeel betrokken zorgaanbieder en betrokken ziektekostenverzekeraar in de gelegenheid te worden gehoord, indien dezen of een van hen daarom hebben verzocht.
 
 2. De zorgautoriteit doet van haar voornemen een aanvraag in behandeling te nemen tijdig mededeling aan de in het eerste lid bedoelde betrokkenen.
 
@@ -797,15 +807,15 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.over
 
 1. De zorgautoriteit stelt beleidsregels vast met betrekking tot:
 
-- a. het uitoefenen van de bevoegdheid om verplichtingen op te leggen op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2014-04-01&g=2014-04-01);
+- a. het uitoefenen van de bevoegdheid om verplichtingen op te leggen op grond van de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2015-01-01&g=2015-01-01);
 
-- b. het uitoefenen van de bevoegdheid om tarieven vast te stellen op grond van [artikel 50, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01);
+- b. het uitoefenen van de bevoegdheid om tarieven vast te stellen op grond van [artikel 50, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01);
 
-- c. het uitoefenen van de bevoegdheid tot het vaststellen van prestatiebeschrijvingen op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01);
+- c. het uitoefenen van de bevoegdheid tot het vaststellen van prestatiebeschrijvingen op grond van [artikel 50, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01);
 
-- d. het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01);
+- d. het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01);
 
-- e. het uitoefenen van de bevoegdheid tot het vaststellen van bedragen als bedoeld in de [artikelen 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01) en [56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2014-04-01&g=2014-04-01).
+- e. het uitoefenen van de bevoegdheid tot het vaststellen van bedragen als bedoeld in de [artikelen 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01) en [56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2015-01-01&g=2015-01-01).
 
 2. De beleidsregels, bedoeld in het eerste lid, onder b, c en e, kunnen inhouden op welke wijze, waaronder schriftelijk of elektronisch, onder welke voorwaarden of met inachtneming van welke voorschriften of beperkingen een aanvraag als bedoeld in die artikelen moet worden ingediend. De beperkingen kunnen mede inhouden dat de aanvraag alleen gedaan kan worden door een zorgaanbieder met een ziektekostenverzekeraar gezamenlijk of dat een aanvraag moet worden gedaan binnen een bepaalde termijn.
 
@@ -815,21 +825,19 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.over
 
 ##### Artikel 58
 
-1. Indien de zorgautoriteit in een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01) de mogelijkheid opneemt van een experiment, neemt zij de in dit artikel bedoelde bepalingen in acht.
+1. Indien de zorgautoriteit in een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01) de mogelijkheid opneemt van een experiment, neemt zij de in dit artikel bedoelde bepalingen in acht.
 
-2. In de beleidsregel kan de zorgautoriteit opnemen onder welke voorwaarden of met inachtneming van welke in die beleidsregel aangegeven voorschriften of beperkingen kan worden afgeweken van andere, in die beleidsregel genoemde beleidsregels als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01), of van in die beleidsregel genoemde, door haar gestelde algemeen verbindende regels.
+2. In de beleidsregel kan de zorgautoriteit opnemen onder welke voorwaarden of met inachtneming van welke in die beleidsregel aangegeven voorschriften of beperkingen kan worden afgeweken van andere, in die beleidsregel genoemde beleidsregels als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01), of van in die beleidsregel genoemde, door haar gestelde algemeen verbindende regels.
 
 3. De beperkingen, bedoeld in het tweede lid, kunnen inhouden dat de werking van de desbetreffende beleidsregel is beperkt tot een bepaald gebied, tot een bepaalde categorie of een deel van een categorie van zorgaanbieders, van ziektekostenverzekeraars, van patiënten of van prestaties, of tot een beperkt aantal zorgaanbieders, ziektekostenverzekeraars, patiënten of prestaties.
 
 4. De beleidsregel kan inhouden dat onder in die beleidsregel gestelde voorwaarden of met inachtneming van in die beleidsregel aangegeven voorschriften of beperkingen:
 
-- a. [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;
+- a. [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;
 
-- b. [artikel 35, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), niet van toepassing is op de prestatiebeschrijving van de bij het experiment betrokken prestaties;
+- b. [artikel 35, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), niet van toepassing is op de prestatiebeschrijving van de bij het experiment betrokken prestaties;
 
-- c. [artikel 12, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=12) of [artikel 15 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=15) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;
-
-- d. [artikel 12, tweede of derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=12) dan wel [artikel 16b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=16b), of [16c, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=16c) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties.
+- c. [artikel 12, eerste, tweede of derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=12) of [artikel 4.2.2 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.2) niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties.
 
 5. Een beleidsregel als bedoeld in het eerste lid bepaalt de maximale duur van het experiment, die ten hoogste vijf jaren bedraagt. De zorgautoriteit kan besluiten de gevolgen van het experiment geheel of gedeeltelijk in stand te laten tot het einde van het boekjaar volgend op het boekjaar waarin het experiment is geëindigd.
 
@@ -839,19 +847,19 @@ De zorgautoriteit past [artikel 50, eerste lid, onderdeel d](https://wetten.over
 
 ##### Artikel 59
 
-De zorgautoriteit stelt niet dan na een aanwijzing van Onze Minister op grond van [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-04-01&g=2014-04-01), een beleidsregel vast met betrekking tot:
+De zorgautoriteit stelt niet dan na een aanwijzing van Onze Minister op grond van [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-01-01&g=2015-01-01), een beleidsregel vast met betrekking tot:
 
-- a. het toepassen van [artikel 50, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), indien voor de betrokken prestatie of voor een betrokken categorie van zorgaanbieders met betrekking tot de betrokken prestatie nog geen zodanige beleidsregel geldt;
+- a. het toepassen van [artikel 50, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), indien voor de betrokken prestatie of voor een betrokken categorie van zorgaanbieders met betrekking tot de betrokken prestatie nog geen zodanige beleidsregel geldt;
 
-- b. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een tarief als bedoeld in [artikel 50, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), in die zin dat de bij die beleidsregel betrokken prestatie onder een andere tariefsoort als bedoeld in die onderdelen komt te vallen;
+- b. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een tarief als bedoeld in [artikel 50, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), in die zin dat de bij die beleidsregel betrokken prestatie onder een andere tariefsoort als bedoeld in die onderdelen komt te vallen;
 
-- c. het vaststellen van een grens als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01);
+- c. het vaststellen van een grens als bedoeld in [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01);
 
-- d. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een grens als bedoeld in de onderdelen van [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2014-04-01&g=2014-04-01), in die zin dat de in die beleidsregel genoemde grens onder een andere grenssoort als bedoeld in die onderdelen komt te vallen;
+- d. het wijzigen van een beleidsregel met betrekking tot de vaststelling van een grens als bedoeld in de onderdelen van [artikel 50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), in die zin dat de in die beleidsregel genoemde grens onder een andere grenssoort als bedoeld in die onderdelen komt te vallen;
 
-- e. het vaststellen van een bedrag als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01) en [56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2014-04-01&g=2014-04-01);
+- e. het vaststellen van een bedrag als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01) en [56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2015-01-01&g=2015-01-01);
 
-- f. een experiment als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=58&z=2014-04-01&g=2014-04-01).
+- f. een experiment als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=58&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk 5. Informatie
 
@@ -879,7 +887,7 @@ De zorgautoriteit stelt niet dan na een aanwijzing van Onze Minister op grond va
 
 ##### Artikel 61
 
-1. Een ieder is gehouden desgevraagd aan de zorgautoriteit of aan een daartoe door deze aangewezen persoon, verder in dit artikel aan te duiden als vrager, kosteloos en met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01):
+1. Een ieder is gehouden desgevraagd aan de zorgautoriteit of aan een daartoe door deze aangewezen persoon, verder in dit artikel aan te duiden als vrager, kosteloos en met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01):
 
 - a. de gegevens en inlichtingen te verstrekken welke redelijkerwijs voor de uitvoering van deze wet van belang kunnen zijn;
 
@@ -899,7 +907,7 @@ De zorgautoriteit stelt niet dan na een aanwijzing van Onze Minister op grond va
 
 ##### Artikel 62
 
-1. De zorgautoriteit kan, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01), regels stellen, inhoudende welke gegevens en inlichtingen regelmatig moeten worden verstrekt dan wel onder welke omstandigheden deze moeten worden verstrekt door de zorgaanbieders, ziektekostenverzekeraars en degenen, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2014-04-01&g=2014-04-01).
+1. De zorgautoriteit kan, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01), regels stellen, inhoudende welke gegevens en inlichtingen regelmatig moeten worden verstrekt dan wel onder welke omstandigheden deze moeten worden verstrekt door de zorgaanbieders, ziektekostenverzekeraars en degenen, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2015-01-01&g=2015-01-01).
 
 2. Het eerste lid is mede van toepassing ten aanzien van degene die gegevens verzamelt, bewaart en bewerkt ten behoeve van zorgaanbieders of ziektekostenverzekeraars, alsmede ten aanzien van de groep in de zin van [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), indien zorgaanbieders of ziektekostenverzekeraars daartoe behoren.
 
@@ -909,29 +917,29 @@ De in dit hoofdstuk bedoelde gegevens en inlichtingen dienen volledig en naar wa
 
 ##### Artikel 64
 
-Op het opvragen van gegevens en inlichtingen, bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01), is [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) van overeenkomstige toepassing, met uitzondering van de [artikelen 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11), [5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) en [5:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
+Op het opvragen van gegevens en inlichtingen, bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01), is [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) van overeenkomstige toepassing, met uitzondering van de [artikelen 5:11](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11), [5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) en [5:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
 ##### Artikel 65
 
 Onze Minister geeft bij ministeriële regeling aan:
 
-- a. welke van de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2014-04-01&g=2014-04-01) onderscheiden categorieën van persoonsgegevens noodzakelijk zijn voor de uitoefening van de in die regeling aangewezen taken en bevoegdheden van de zorgautoriteit;
+- a. welke van de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2015-01-01&g=2015-01-01) onderscheiden categorieën van persoonsgegevens noodzakelijk zijn voor de uitoefening van de in die regeling aangewezen taken en bevoegdheden van de zorgautoriteit;
 
-- b. welke van de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2014-04-01&g=2014-04-01) onderscheiden categorieën van persoonsgegevens de zorgautoriteit mag verstrekken aan de in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=70&z=2014-04-01&g=2014-04-01) genoemde instanties ten behoeve van de uitoefening van hun taken en bevoegdheden.
+- b. welke van de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2015-01-01&g=2015-01-01) onderscheiden categorieën van persoonsgegevens de zorgautoriteit mag verstrekken aan de in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=70&z=2015-01-01&g=2015-01-01) genoemde instanties ten behoeve van de uitoefening van hun taken en bevoegdheden.
 
 ##### Artikel 66
 
-1. Zorgaanbieders en ziektekostenverzekeraars zijn verplicht op verzoek henzelf betreffende identificerende gegevens alsmede, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01), de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2014-04-01&g=2014-04-01) bedoelde identificerende persoonsgegevens en medische persoonsgegevens aan de zorgautoriteit en de FIOD-ECD te verstrekken ten behoeve van het toezicht op de naleving en de handhaving van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2014-04-01&g=2014-04-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2014-04-01&g=2014-04-01), waaronder begrepen de uitvoering van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063).
+1. Zorgaanbieders en ziektekostenverzekeraars zijn verplicht op verzoek henzelf betreffende identificerende gegevens alsmede, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01), de in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=60&z=2015-01-01&g=2015-01-01) bedoelde identificerende persoonsgegevens en medische persoonsgegevens aan de zorgautoriteit en de FIOD-ECD te verstrekken ten behoeve van het toezicht op de naleving en de handhaving van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2015-01-01&g=2015-01-01) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2015-01-01&g=2015-01-01), waaronder begrepen de uitvoering van de [Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063).
 
 2. Zorgaanbieders en ziektekostenverzekeraars zijn niet verplicht op verzoek medische persoonsgegevens te verstrekken ten behoeve van de uitvoering van een verplichting die het eerste lid oplegt aan anderen.
 
-3. Het eerste lid is mede van toepassing op degene bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2014-04-01&g=2014-04-01).
+3. Het eerste lid is mede van toepassing op degene bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=44&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 67
 
 1. Voor degene die op grond van deze wet gegevens en inlichtingen ontvangt, gelden dezelfde wettelijke voorschriften inzake geheimhouding van die gegevens en inlichtingen als voor degene die ze heeft verstrekt.
 
-2. De gegevens en inlichtingen, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=70&z=2014-04-01&g=2014-04-01), worden door de zorgautoriteit verstrekt mits:
+2. De gegevens en inlichtingen, bedoeld in [artikel 70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=70&z=2015-01-01&g=2015-01-01), worden door de zorgautoriteit verstrekt mits:
 
 - a. de geheimhouding van de gegevens of inlichtingen in voldoende mate is gewaarborgd, en
 
@@ -941,17 +949,17 @@ Onze Minister geeft bij ministeriële regeling aan:
 
 ##### Artikel 68
 
-1. De zorgautoriteit kan, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01), regels stellen, inhoudende aan wie daarbij te bepalen gegevens en inlichtingen als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01), moeten worden verstrekt, het tijdstip en de wijze waarop en de vorm waarin de gegevens en inlichtingen moeten worden verstrekt of door wie en de wijze waarop de gegevens moeten worden bewerkt of door wie en de wijze waarop de gegevens dan wel de bewerkingen van die gegevens moeten worden bekendgemaakt, alsmede dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de verstrekte gegevens en inlichtingen bevestigt.
+1. De zorgautoriteit kan, met inachtneming van het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01), regels stellen, inhoudende aan wie daarbij te bepalen gegevens en inlichtingen als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01), moeten worden verstrekt, het tijdstip en de wijze waarop en de vorm waarin de gegevens en inlichtingen moeten worden verstrekt of door wie en de wijze waarop de gegevens moeten worden bewerkt of door wie en de wijze waarop de gegevens dan wel de bewerkingen van die gegevens moeten worden bekendgemaakt, alsmede dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de verstrekte gegevens en inlichtingen bevestigt.
 
 2. De regels, bedoeld in het eerste lid, kunnen ook inhouden de wijze waarop, de vorm waarin of door wie daarbij te bepalen gegevens en inlichtingen, waaronder medische persoonsgegevens, moeten worden bewerkt alvorens de bewerking moet worden verstrekt.
 
 ##### Artikel 69
 
-1. Onverminderd de verplichting van zorgaanbieders en ziektekostenverzekeraars om gegevens en inlichtingen te verstrekken als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01), kan de zorgautoriteit bij het uitoefenen van aan haar opgedragen taken eigen informatie gebruiken indien de in die artikelen bedoelde gegevens en inlichtingen niet of niet volledig worden verstrekt.
+1. Onverminderd de verplichting van zorgaanbieders en ziektekostenverzekeraars om gegevens en inlichtingen te verstrekken als bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01), kan de zorgautoriteit bij het uitoefenen van aan haar opgedragen taken eigen informatie gebruiken indien de in die artikelen bedoelde gegevens en inlichtingen niet of niet volledig worden verstrekt.
 
 2. De zorgautoriteit is bevoegd alle gegevens en inlichtingen, die zij heeft verzameld op grond van alle haar daartoe ten dienste staande wettelijke bevoegdheden, te gebruiken voor alle aan haar opgedragen taken.
 
-3. Bij het gebruik door de zorgautoriteit van informatie, gegevens en inlichtingen als bedoeld in het eerste en tweede lid, is het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01) met betrekking tot het verwerken van persoonsgegevens van overeenkomstige toepassing.
+3. Bij het gebruik door de zorgautoriteit van informatie, gegevens en inlichtingen als bedoeld in het eerste en tweede lid, is het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01) met betrekking tot het verwerken van persoonsgegevens van overeenkomstige toepassing.
 
 ##### Artikel 70
 
@@ -961,13 +969,13 @@ Onze Minister geeft bij ministeriële regeling aan:
 
 3. De zorgautoriteit verstrekt desgevraagd aan de Gezondheidsraad, het Rijksinstituut voor de volksgezondheid en milieu, de Raad voor de Volksgezondheid en Zorg, de Raad voor gezondheidsonderzoek, het Centraal Planbureau, het Centraal Bureau voor de Statistiek en het Sociaal Cultureel Planbureau in verband met de beperking van administratieve lasten die gegevens en inlichtingen die van belang kunnen zijn voor de uitoefening van hun wettelijke taken.
 
-4. Bij de verstrekkingen als bedoeld in het eerste tot en met derde lid wordt het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2014-04-01&g=2014-04-01) in acht genomen.
+4. Bij de verstrekkingen als bedoeld in het eerste tot en met derde lid wordt het bepaalde krachtens [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=65&z=2015-01-01&g=2015-01-01) in acht genomen.
 
-5. De zorgautoriteit maakt bij de toepassing van het eerste tot en met derde lid geen gebruik van haar bevoegdheden, bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=64&z=2014-04-01&g=2014-04-01).
+5. De zorgautoriteit maakt bij de toepassing van het eerste tot en met derde lid geen gebruik van haar bevoegdheden, bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01) en [64](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=64&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 71
 
-De griffiers of secretarissen van de in de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) bedoelde gerechten, van de Centrale Raad van Beroep, van het College van Beroep voor het bedrijfsleven en van de tuchtcolleges, bedoeld in [artikel 47, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=47), verstrekken aan Onze Minister, aan de zorgautoriteit, aan de FIOD-ECD of aan een krachtens [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.1&artikel=72&z=2014-04-01&g=2014-04-01) aangewezen persoon vrij van alle kosten alle gegevens en uittreksels uit of afschriften van vonnissen, arresten, uitspraken, registers, en andere stukken, die ten behoeve van de uitvoering van deze wet van hen worden verlangd.
+De griffiers of secretarissen van de in de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) bedoelde gerechten, van de Centrale Raad van Beroep, van het College van Beroep voor het bedrijfsleven en van de tuchtcolleges, bedoeld in [artikel 47, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=47), verstrekken aan Onze Minister, aan de zorgautoriteit, aan de FIOD-ECD of aan een krachtens [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.1&artikel=72&z=2015-01-01&g=2015-01-01) aangewezen persoon vrij van alle kosten alle gegevens en uittreksels uit of afschriften van vonnissen, arresten, uitspraken, registers, en andere stukken, die ten behoeve van de uitvoering van deze wet van hen worden verlangd.
 
 ### Hoofdstuk 6. Handhaving
 
@@ -989,7 +997,7 @@ De griffiers of secretarissen van de in de [Wet op de rechterlijke organisatie](
 
 ##### Artikel 73
 
-Degenen die ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.1&artikel=72&z=2014-04-01&g=2014-04-01) belast zijn met toezicht op de naleving en degenen die ingevolge [artikel 17 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17) belast zijn met de opsporing van hetgeen bij of krachtens deze wet is bepaald of strafbaar is gesteld, verstrekken elkaar alle gegevens en inlichtingen voor zover dat noodzakelijk is voor de uitoefening van hun taak.
+Degenen die ingevolge [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.1&artikel=72&z=2015-01-01&g=2015-01-01) belast zijn met toezicht op de naleving en degenen die ingevolge [artikel 17 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=17) belast zijn met de opsporing van hetgeen bij of krachtens deze wet is bepaald of strafbaar is gesteld, verstrekken elkaar alle gegevens en inlichtingen voor zover dat noodzakelijk is voor de uitoefening van hun taak.
 
 ##### Artikel 74
 
@@ -1003,29 +1011,31 @@ De zorgautoriteit maakt openbaar op welke wijze zij van plan is uitvoering te ge
 
 ##### Artikel 76
 
-1. De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2014-04-01&g=2014-04-01), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2014-04-01&g=2014-04-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2014-04-01&g=2014-04-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.3&artikel=31&z=2014-04-01&g=2014-04-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2014-04-01&g=2014-04-01), [35 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2014-04-01&g=2014-04-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2014-04-01&g=2014-04-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2014-04-01&g=2014-04-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2014-04-01&g=2014-04-01) een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.
+1. De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2015-01-01&g=2015-01-01), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2015-01-01&g=2015-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=27&z=2015-01-01&g=2015-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.3&artikel=31&z=2015-01-01&g=2015-01-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2015-01-01&g=2015-01-01), [35 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2015-01-01&g=2015-01-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2015-01-01&g=2015-01-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2015-01-01&g=2015-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01) en [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2015-01-01&g=2015-01-01) een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.
 
-2. Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), of [artikel 37, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01), kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.
+2. Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van [artikel 35, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), of [artikel 37, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01), kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Fonds langdurige zorg.
 
 ##### Artikel 77
 
-De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), een aanwijzing geven aan een zorgverzekeraar, dan wel aan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
+De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), een aanwijzing geven aan een zorgverzekeraar, dan wel aan een verzekeraar die verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bepaalde bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voldoen.
 
 ##### Artikel 78
 
-1. De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), een aanwijzing geven aan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), die niet voldoet aan het bepaalde bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
+1. De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), een aanwijzing geven aan een Wlz-uitvoerder die, of het CAK dat, niet voldoet aan het bepaalde bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-2. De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), een aanwijzing geven aan het CAK indien het CAK niet voldoet aan hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) en [artikel 15 van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=15) is geregeld.
+2. De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), een aanwijzing geven aan het CAK indien het CAK niet voldoet aan hetgeen bij of krachtens [artikel 118a van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=118a) en [artikel 2.1.4 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4) is geregeld.
+
+3. Indien een Wlz-uitvoerder werkzaamheden aan andere Wlz-uitvoerder heeft uitbesteed en een door de zorgautoriteit op grond van het eerste lid gegeven aanwijzing met betrekking tot de wijze waarop deze taak door de desbetreffende persoon wordt uitgevoerd, niet binnen de in het tweede lid bedoelde termijn tot een rechtmatige en doelmatige uitvoering heeft geleid, meldt de zorgautoriteit dit, onder vermelding van de naam van de Wlz-uitvoerder waaraan is uitbesteed, aan Onze Minister.
 
 ##### Artikel 79
 
-1. De zorgautoriteit geeft geen aanwijzing als bedoeld in de [artikelen 76 tot en met 78a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2014-04-01&g=2014-04-01) omtrent de beoordeling of behandeling van individuele gevallen door degene tot wie de aanwijzing is gericht.
+1. De zorgautoriteit geeft geen aanwijzing als bedoeld in de [artikelen 76 tot en met 78a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2015-01-01&g=2015-01-01) omtrent de beoordeling of behandeling van individuele gevallen door degene tot wie de aanwijzing is gericht.
 
 2. Bij de aanwijzing stelt de zorgautoriteit een termijn waarbinnen de betrokkene aan de aanwijzing voldoet.
 
 ##### Artikel 80
 
-1. Indien een zorgverzekeraar, een verzekeraar als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2014-04-01&g=2014-04-01), het CAK dan wel een AWBZ-verzekeraar, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2014-04-01&g=2014-04-01), aan een krachtens [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2014-04-01&g=2014-04-01) onderscheidenlijk [78](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=78&z=2014-04-01&g=2014-04-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
+1. Indien een zorgverzekeraar, een verzekeraar als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2015-01-01&g=2015-01-01), het CAK dan wel een Wlz-uitvoerder, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2015-01-01&g=2015-01-01), aan een krachtens [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=77&z=2015-01-01&g=2015-01-01) onderscheidenlijk [78](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=78&z=2015-01-01&g=2015-01-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
 
 - a. een last onder bestuursdwang op te leggen, of
 
@@ -1033,7 +1043,7 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder b 
 
 - 1°. dat de betrokkene verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) geregelde voldoen;
 
-- 2°. dat de zorgverzekeraar in strijd handelt met een of meer door de zorgautoriteit genoemde, bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) geregelde bepalingen;
+- 2°. dat de zorgverzekeraar dan wel de Wlz-uitvoerder in strijd handelt met een of meer door de zorgautoriteit genoemde, bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde bepalingen;
 
 - 3°. dat aan de betrokkene een aanwijzing is gegeven dan wel een last onder dwangsom of een bestuurlijke boete is opgelegd.
 
@@ -1053,7 +1063,7 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder b 
 
 ##### Artikel 81
 
-1. Indien een zorgaanbieder of een ziektekostenverzekeraar, voorzover niet in een geval als bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2014-04-01&g=2014-04-01), hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2014-04-01&g=2014-04-01), aan een krachtens [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2014-04-01&g=2014-04-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
+1. Indien een zorgaanbieder of een ziektekostenverzekeraar, voorzover niet in een geval als bedoeld in [artikel 80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2015-01-01&g=2015-01-01), hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in [artikel 79](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2015-01-01&g=2015-01-01), aan een krachtens [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2015-01-01&g=2015-01-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
 
 - a. een last onder bestuursdwang op te leggen,
 
@@ -1063,17 +1073,17 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder b 
 
 - 2°. dat aan de betrokkene een aanwijzing is gegeven dan wel een last onder dwangsom of een bestuurlijke boete is opgelegd, of
 
-- c. het bedrag, bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2014-04-01&g=2014-04-01), in te vorderen. [Titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) is van overeenkomstige toepassing.
+- c. het bedrag, bedoeld in [artikel 76, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=76&z=2015-01-01&g=2015-01-01), in te vorderen. [Titel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) is van overeenkomstige toepassing.
 
 2. Indien het adequaat functioneren van de zorgverlenings- of zorginkoopmarkt of de positie van zorgaanbieders op die markt geen uitstel toelaat, kan de zorgautoriteit het feit onverwijld ter openbare kennis brengen.
 
-3. Het [tweede tot en met achtste lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing met betrekking tot het eerste en tweede lid.
+3. Het [tweede tot en met achtste lid van artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing met betrekking tot het eerste en tweede lid.
 
 #### Paragraaf 6.3. Bestuursdwang en last onder dwangsom
 
 ##### Artikel 82
 
-De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2014-04-01&g=2014-04-01), [35 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2014-04-01&g=2014-04-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2014-04-01&g=2014-04-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2014-04-01&g=2014-04-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2014-04-01&g=2014-04-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2014-04-01&g=2014-04-01), [68a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68a&z=2014-04-01&g=2014-04-01) of [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2014-04-01&g=2014-04-01), bevoegd tot het opleggen van een last onder bestuursdwang dan wel het opleggen van een last onder dwangsom.
+De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de [artikelen 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.2&artikel=25&z=2015-01-01&g=2015-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.3&artikel=31&z=2015-01-01&g=2015-01-01), [35 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2015-01-01&g=2015-01-01), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2015-01-01&g=2015-01-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2015-01-01&g=2015-01-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2015-01-01&g=2015-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2015-01-01&g=2015-01-01), [68a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68a&z=2015-01-01&g=2015-01-01) of [79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2015-01-01&g=2015-01-01), bevoegd tot het opleggen van een last onder bestuursdwang dan wel het opleggen van een last onder dwangsom.
 
 ##### Artikel 83
 
@@ -1087,13 +1097,13 @@ De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de [artike
 
 De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in [artikel 40 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40) een last onder dwangsom opleggen ter zake van overtreding van de voorschriften, gesteld bij of krachtens [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
-#### Paragraaf 6.4. Bestuurlijke boete
+#### Paragraaf 6.2. Aanwijzingen
 
 ### Afdeling 6.4.1. Overtredingen
 
 ##### Artikel 85
 
-1. De zorgautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2014-04-01&g=2014-04-01), [34 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2014-04-01&g=2014-04-01), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2014-04-01&g=2014-04-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2014-04-01&g=2014-04-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2014-04-01&g=2014-04-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2014-04-01&g=2014-04-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2014-04-01&g=2014-04-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2014-04-01&g=2014-04-01) of [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2014-04-01&g=2014-04-01).
+1. De zorgautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=23&z=2015-01-01&g=2015-01-01), [34 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2015-01-01&g=2015-01-01), [48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=48&z=2015-01-01&g=2015-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49&z=2015-01-01&g=2015-01-01), [49a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01), [49c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49c&z=2015-01-01&g=2015-01-01), [49d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49d&z=2015-01-01&g=2015-01-01), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=61&z=2015-01-01&g=2015-01-01), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=62&z=2015-01-01&g=2015-01-01) of [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68&z=2015-01-01&g=2015-01-01).
 
 2. De bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste € 500 000 of, indien dat meer is, tien procent van de omzet van de onderneming in Nederland.
 
@@ -1121,7 +1131,7 @@ De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bed
 
 ##### Artikel 89
 
-1. De zorgautoriteit kan een bestuurlijke boete opleggen aan degene die niet voldoet aan een hem bij of krachtens [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68a&z=2014-04-01&g=2014-04-01) van deze wet of [artikel 87, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88) of [89 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) opgelegde verplichting.
+1. De zorgautoriteit kan een bestuurlijke boete opleggen aan degene die niet voldoet aan een hem bij of krachtens [artikel 68a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=5&artikel=68a&z=2015-01-01&g=2015-01-01) van deze wet of [artikel 87, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), [88](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88) of [89 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) opgelegde verplichting.
 
 2. De bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste € 2 250.
 
@@ -1131,7 +1141,7 @@ De zorgautoriteit kan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bed
 
 1. De zorgautoriteit kan een zorgaanbieder een bestuurlijke boete opleggen ter zake van overtreding van [artikel 66d, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66d).
 
-2. [Artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=85&z=2014-04-01&g=2014-04-01), zijn van overeenkomstige toepassing.
+2. [Artikel 85, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=85&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 91
 
@@ -1189,15 +1199,15 @@ Vervallen
 
 ##### Artikel 104
 
-1. De zorgautoriteit draagt het op grond van [artikel 81, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=81&z=2014-04-01&g=2014-04-01), ingevorderde bedrag af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.
+1. De zorgautoriteit draagt het op grond van [artikel 81, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=81&z=2015-01-01&g=2015-01-01), ingevorderde bedrag af aan het Zorgverzekeringsfonds of het Fonds langdurige zorg.
 
-2. De zorgautoriteit draagt de op grond van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=82&z=2014-04-01&g=2014-04-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=85&z=2014-04-01&g=2014-04-01) ingevorderde dwangsommen en bestuurlijke boetes af aan ’s Rijks kas.
+2. De zorgautoriteit draagt de op grond van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=82&z=2015-01-01&g=2015-01-01) en [85](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=85&z=2015-01-01&g=2015-01-01) ingevorderde dwangsommen en bestuurlijke boetes af aan ’s Rijks kas.
 
-3. De zorgautoriteit draagt de op grond van de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=83&z=2014-04-01&g=2014-04-01) en [86 tot en met 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=86&z=2014-04-01&g=2014-04-01) ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds.
+3. De zorgautoriteit draagt de op grond van de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=83&z=2015-01-01&g=2015-01-01) en [86 tot en met 89](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=86&z=2015-01-01&g=2015-01-01) ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds.
 
-4. De zorgautoriteit draagt de op grond van [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=84&z=2014-04-01&g=2014-04-01) ingevorderde dwangsommen af aan het Algemeen Fonds Bijzondere Ziektekosten.
+4. De zorgautoriteit draagt de op grond van [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=84&z=2015-01-01&g=2015-01-01) ingevorderde dwangsommen af aan het Fonds langdurige zorg.
 
-5. De zorgautoriteit draagt de op grond van de [artikelen 81a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=81a&z=2014-04-01&g=2014-04-01), [84a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=84a&z=2014-04-01&g=2014-04-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=90&z=2014-04-01&g=2014-04-01) ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.
+5. De zorgautoriteit draagt de op grond van de [artikelen 81a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=81a&z=2015-01-01&g=2015-01-01), [84a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.3&artikel=84a&z=2015-01-01&g=2015-01-01) en [90](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.4&artikel=90&z=2015-01-01&g=2015-01-01) ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.
 
 #### Paragraaf 6.6. Rechtsbescherming
 
@@ -1275,7 +1285,7 @@ Wijzigt de Mededingingswet.
 
 ##### Artikel 122
 
-In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-04-01&g=2014-04-01) kan de zorgautoriteit gedurende vier jaar, te rekenen vanaf de inwerkingtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2014-04-01&g=2014-04-01) van deze wet, uit ten hoogste vier leden bestaan.
+In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2015-01-01&g=2015-01-01) kan de zorgautoriteit gedurende vier jaar, te rekenen vanaf de inwerkingtreding van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=4&z=2015-01-01&g=2015-01-01) van deze wet, uit ten hoogste vier leden bestaan.
 
 ##### Artikel 123
 
@@ -1291,15 +1301,15 @@ In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoo
 
 6. Een ingevolge de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356) door het College tarieven gezondheidszorg vastgestelde regel wordt gelijkgesteld met een ingevolge deze wet door de zorgautoriteit vastgestelde regel.
 
-7. Een ingevolge de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356) goedgekeurde beleidsregel inhoudende aan wie, door wie en op welke wijze en met inachtneming van welke voorwaarden, voorschriften of beperkingen een tarief in rekening wordt gebracht, wordt gelijkgesteld met een ingevolge deze wet door de zorgautoriteit vastgestelde regel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2014-04-01&g=2014-04-01).
+7. Een ingevolge de [Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356) goedgekeurde beleidsregel inhoudende aan wie, door wie en op welke wijze en met inachtneming van welke voorwaarden, voorschriften of beperkingen een tarief in rekening wordt gebracht, wordt gelijkgesteld met een ingevolge deze wet door de zorgautoriteit vastgestelde regel als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2015-01-01&g=2015-01-01).
 
-8. Een beleidsregel als bedoeld in [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13) zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet wordt gelijkgesteld met een aanwijzing als bedoeld in [artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2014-04-01&g=2014-04-01).
+8. Een beleidsregel als bedoeld in [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13) zoals die wet luidde onmiddellijk voor het tijdstip van inwerkingtreding van deze wet wordt gelijkgesteld met een aanwijzing als bedoeld in [artikel 7, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 124
 
 1. Het College tarieven gezondheidszorg, genoemd in [artikel 18 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=18), en het College van toezicht op de zorgverzekeringen, genoemd in [artikel 77, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=77), zoals die wetten luidden onmiddellijk voor het tijdstip van inwerkingtreding van deze wet, vormen gezamenlijk één rechtspersoon, en wel de zorgautoriteit. Besluiten van het College tarieven gezondheidszorg of het College van toezicht op de zorgverzekeringen worden na inwerkingtreding van deze wet aangemerkt als besluiten van de zorgautoriteit.
 
-2. De vaststelling door de zorgautoriteit van een bestuursreglement als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2014-04-01&g=2014-04-01) onderscheidenlijk een «werkprogramma» en een «begroting» als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2014-04-01&g=2014-04-01), vindt plaats zo spoedig mogelijk onderscheidenlijk vindt voor het eerst plaats ten aanzien van het kalenderjaar na dat waarin deze wet in het Staatsblad is geplaatst.
+2. De vaststelling door de zorgautoriteit van een bestuursreglement als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2015-01-01&g=2015-01-01) onderscheidenlijk een «werkprogramma» en een «begroting» als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.2&artikel=11&z=2015-01-01&g=2015-01-01), vindt plaats zo spoedig mogelijk onderscheidenlijk vindt voor het eerst plaats ten aanzien van het kalenderjaar na dat waarin deze wet in het Staatsblad is geplaatst.
 
 3. Onze Minister stelt voor de zorgautoriteit een voorlopig bestuursreglement vast. Het voorlopig reglement geldt totdat het bestuursreglement van de zorgautoriteit de goedkeuring van Onze Minister heeft verkregen.
 
@@ -1307,7 +1317,7 @@ In afwijking van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoo
 
 5. Voorzover de regels, bedoeld in het vierde lid betrekking hebben op onderwerpen waarover de zorgautoriteit regels kan stellen, gelden zij tot inwerkingtreding van die regels van de zorgautoriteit.
 
-6. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2014-04-01&g=2014-04-01) van deze wet zijn de regels voor ambtenaren die zijn aangesteld bij ministeries gedurende een periode van vier jaren, te rekenen vanaf de datum waarop de [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830) in werking is getreden, niet van toepassing op de rechtspositie van het personeel van de zorgautoriteit. Gedurende die periode wordt de rechtspositie van dat personeel geregeld door de zorgautoriteit.
+6. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=2&paragraaf=2.1&artikel=6&z=2015-01-01&g=2015-01-01) van deze wet zijn de regels voor ambtenaren die zijn aangesteld bij ministeries gedurende een periode van vier jaren, te rekenen vanaf de datum waarop de [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830) in werking is getreden, niet van toepassing op de rechtspositie van het personeel van de zorgautoriteit. Gedurende die periode wordt de rechtspositie van dat personeel geregeld door de zorgautoriteit.
 
 7. Met ingang van de datum van inwerkingtreding van deze wet zijn de personeelsleden van het College tarieven gezondheidszorg en het College van toezicht op de zorgverzekeringen in dienst van de zorgautoriteit aangesteld. Daarbij worden hun arbeidsvoorwaarden als geheel zoveel mogelijk op een gelijk niveau gesteld met de arbeidsvoorwaarden die verbonden waren aan hun dienstbetrekking bij het College tarieven gezondheidszorg, onderscheidenlijk het College van toezicht op de zorgverzekeringen. Bij ministeriële regeling kunnen regels worden gesteld omtrent het in dit lid bepaalde.
 
@@ -1349,7 +1359,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Een zorgaanbieder die aan een verzekerde zorg heeft verleend en die daarvoor bij de verzekerde een tarief in rekening brengt, verstrekt hem de persoonsgegevens, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die voor zijn ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van de ziektekostenverzekering of van de wet.
 
-3. Behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat, zijn personen werkzaam bij een ziektekostenverzekeraar, bij een door de ziektekostenverzekeraar aangewezen persoon of bij een door Onze Minister aangewezen persoon als bedoeld in [artikel 53, eerste of derde lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=53) of [artikel 87, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingsplicht geldt, verplicht tot geheimhouding van persoonsgegevens van een verzekerde, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die voor een ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van een ziektekostenverzekering.
+3. Behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat, zijn personen werkzaam bij een ziektekostenverzekeraar, bij een door de ziektekostenverzekeraar aangewezen persoon of bij een door Onze Minister aangewezen persoon als bedoeld in [artikel 87, derde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=87), voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingsplicht geldt, verplicht tot geheimhouding van persoonsgegevens van een verzekerde, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468), die voor een ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van een ziektekostenverzekering.
 
 4. Bij ministeriële regeling kan worden bepaald:
 
@@ -1361,7 +1371,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - d. aan welke beveiligingseisen gegevensverwerking voldoet;
 
-- e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden verwerkt met het oog op de uitvoering van ziektekostenverzekeringen, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde door een ziektekostenverzekeraar als bedoeld in [artikel 1, onderdeel f, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2014-04-01&g=2014-04-01), en bovendien noodzakelijk zijn voor:
+- e. in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden verwerkt met het oog op de uitvoering van ziektekostenverzekeringen, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde door een ziektekostenverzekeraar als bedoeld in [artikel 1, onderdeel f, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), en bovendien noodzakelijk zijn voor:
 
 - 1°. de betaling aan een zorgaanbieder of de vergoeding van zorgkosten aan een verzekerde,
 
@@ -1405,17 +1415,17 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 35a
 
-Het is een zorgaanbieder verboden een bedrag als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01) in rekening te brengen:
+Het is een zorgaanbieder verboden een bedrag als bedoeld in [artikel 56a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01) in rekening te brengen:
 
-- a. dat hoger is dan het bedrag dat als bijdrage voor de beschikbaarheid van de desbetreffende zorg op grond van [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01), is vastgesteld;
+- a. dat hoger is dan het bedrag dat als bijdrage voor de beschikbaarheid van de desbetreffende zorg op grond van [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01), is vastgesteld;
 
 - b. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.
 
 ##### Artikel 35b
 
-Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in [artikel 56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2014-04-01&g=2014-04-01) in rekening te brengen:
+Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in [artikel 56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2015-01-01&g=2015-01-01) in rekening te brengen:
 
-- a. dat hoger is dan het bedrag dat voor de betrokken vereffening op grond van [artikel 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2014-04-01&g=2014-04-01), is vastgesteld;
+- a. dat hoger is dan het bedrag dat voor de betrokken vereffening op grond van [artikel 56b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2015-01-01&g=2015-01-01), is vastgesteld;
 
 - b. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.
 
@@ -1429,13 +1439,13 @@ Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in [artikel 5
 
 ##### Artikel 56a
 
-1. De zorgautoriteit kan een beschikbaarheidbijdrage toekennen ten behoeve van de beschikbaarheid van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 1, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2014-04-01&g=2014-04-01), van deze wet met inachtneming van daarbij te stellen voorwaarden, voorschriften en beperkingen. Een zorgaanbieder kan de beschikbaarheidbijdrage bij het Zorginstituut in rekening brengen ten laste van het Zorgverzekeringsfonds dan wel het Algemeen Fonds Bijzondere Ziektekosten. Voor een beschikbaarheidbijdrage komen uitsluitend vormen van zorg in aanmerking waarvan de kosten niet of niet geheel zijn toe te rekenen naar, of door middel van tarieven in de zin van deze wet in rekening te brengen zijn aan, individuele ziektekostenverzekeraars of verzekerden, of waarvan de bekostiging bij een zodanige toerekening dan wel een zodanige tarifering marktverstorend zou werken, en die niet op andere wijze worden bekostigd.
+1. De zorgautoriteit kan een beschikbaarheidbijdrage toekennen ten behoeve van de beschikbaarheid van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 1, onderdeel b, sub 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), van deze wet met inachtneming van daarbij te stellen voorwaarden, voorschriften en beperkingen. Een zorgaanbieder kan de beschikbaarheidbijdrage bij het Zorginstituut in rekening brengen ten laste van het Zorgverzekeringsfonds dan wel het Fonds langdurige zorg. Voor een beschikbaarheidbijdrage komen uitsluitend vormen van zorg in aanmerking waarvan de kosten niet of niet geheel zijn toe te rekenen naar, of door middel van tarieven in de zin van deze wet in rekening te brengen zijn aan, individuele ziektekostenverzekeraars of verzekerden, of waarvan de bekostiging bij een zodanige toerekening dan wel een zodanige tarifering marktverstorend zou werken, en die niet op andere wijze worden bekostigd.
 
 2. De zorgautoriteit past het eerste lid toe:
 
 - a. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar;
 
-- b. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01) dat vordert.
+- b. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01) dat vordert.
 
 3. De toekenning op grond van het eerste lid laat de door de zorgaanbieder in rekening gebrachte tarieven onverlet.
 
@@ -1459,7 +1469,7 @@ Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in [artikel 5
 
 - a. op aanvraag van een ziektekostenverzekeraar of een zorgaanbieder;
 
-- b. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2014-04-01&g=2014-04-01) dat vordert.
+- b. ambtshalve, indien een beleidsregel als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.6&artikel=57&z=2015-01-01&g=2015-01-01) dat vordert.
 
 3. De vaststelling op grond van het eerste lid laat de door de zorgaanbieder in rekening gebrachte tarieven onverlet.
 
@@ -1481,7 +1491,7 @@ Het is een ziektekostenverzekeraar verboden een bedrag als bedoeld in [artikel 5
 
 ### Hoofdstuk 6. Handhaving
 
-#### Paragraaf 6.2. Aanwijzingen
+#### Paragraaf 6.1. Algemeen
 
 #### Paragraaf 6.3. Bestuursdwang en last onder dwangsom
 
@@ -1499,7 +1509,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 49a
 
-1. Het is een zorgaanbieder als bedoeld in [artikel 1, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2014-04-01&g=2014-04-01), verboden een concentratie als omschreven in de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) tot stand te brengen, zonder daaraan voorafgaande goedkeuring van de zorgautoriteit.
+1. Het is een zorgaanbieder als bedoeld in [artikel 1, onderdeel c, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), verboden een concentratie als omschreven in de [Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691) tot stand te brengen, zonder daaraan voorafgaande goedkeuring van de zorgautoriteit.
 
 2. Een aanvraag voor het verkrijgen van de goedkeuring wordt ingediend door de zorgaanbieder dan wel, in geval het meer dan een zorgaanbieder betreft, de zorgaanbieders gezamenlijk.
 
@@ -1507,7 +1517,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 49b
 
-1. De aanvraag, bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01), gaat vergezeld van een rapport over de verwachte effecten van de beoogde concentratie.
+1. De aanvraag, bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01), gaat vergezeld van een rapport over de verwachte effecten van de beoogde concentratie.
 
 2. Het rapport biedt ten minste inzicht in:
 
@@ -1531,7 +1541,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 49c
 
-1. De zorgautoriteit besluit binnen vier weken op een aanvraag als bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01).
+1. De zorgautoriteit besluit binnen vier weken op een aanvraag als bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01).
 
 2. De zorgautoriteit onthoudt haar goedkeuring aan de concentratie indien:
 
@@ -1539,19 +1549,19 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - b. het oordeel en de aanbevelingen van cliënten, personeel en andere betrokkenen niet overtuigend en beargumenteerd zijn meegewogen in de besluitvorming tot concentratie;
 
-- c. als gevolg van de concentratie de continuïteit van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2014-04-01&g=2014-04-01), in gevaar komt.
+- c. als gevolg van de concentratie de continuïteit van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in [artikel 56a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56a&z=2015-01-01&g=2015-01-01), in gevaar komt.
 
-- d. het rapport als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49b&z=2014-04-01&g=2014-04-01), onvoldoende inzicht biedt in de verwachte effecten van de beoogde concentratie aan de hand van de eisen, bedoeld in artikel 49b, tweede en derde lid.
+- d. het rapport als bedoeld in [artikel 49b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49b&z=2015-01-01&g=2015-01-01), onvoldoende inzicht biedt in de verwachte effecten van de beoogde concentratie aan de hand van de eisen, bedoeld in artikel 49b, tweede en derde lid.
 
 3. De zorgautoriteit kan aan de goedkeuring voorwaarden, voorschriften of beperkingen verbinden.
 
-4. In geval de zorgautoriteit haar goedkeuring verleent aan de concentratie, maakt zij het rapport als bedoeld in [artikel 49b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49b&z=2014-04-01&g=2014-04-01) openbaar. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.
+4. In geval de zorgautoriteit haar goedkeuring verleent aan de concentratie, maakt zij het rapport als bedoeld in [artikel 49b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49b&z=2015-01-01&g=2015-01-01) openbaar. Gegevens die ingevolge [artikel 10 van de Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artikel=10) niet voor verstrekking in aanmerking komen, worden niet openbaar gemaakt.
 
 5. De zorgautoriteit geeft de mededingingsautoriteit inzicht in de gevolgen die de concentratie zal hebben voor de betaalbaarheid, toegankelijkheid en, volgens de bevindingen van de ambtenaren van het staatstoezicht, voor de kwaliteit van zorg.
 
 ##### Artikel 49d
 
-1. De zorgautoriteit kan, indien zij een redelijk vermoeden heeft dat zij haar goedkeuring niet zal onthouden, in spoedeisende gevallen op verzoek van degene die de aanvraag voor het verkrijgen van de goedkeuring heeft gedaan, ontheffing verlenen van het in [artikel 49a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2014-04-01&g=2014-04-01), bedoelde verbod.
+1. De zorgautoriteit kan, indien zij een redelijk vermoeden heeft dat zij haar goedkeuring niet zal onthouden, in spoedeisende gevallen op verzoek van degene die de aanvraag voor het verkrijgen van de goedkeuring heeft gedaan, ontheffing verlenen van het in [artikel 49a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.3&artikel=49a&z=2015-01-01&g=2015-01-01), bedoelde verbod.
 
 2. De ontheffing kan onder beperkingen worden verleend en aan de ontheffing kunnen binnen vier weken na het verlenen van de ontheffing voorwaarden of voorschriften worden verbonden.
 
@@ -1569,25 +1579,53 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 78a
 
-De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2014-04-01&g=2014-04-01), een aanwijzing geven aan een zorgaanbieder, erop gericht dat aan de naleving van het in dat onderdeel genoemde [artikel 66d, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66d) wordt voldaan.
+De zorgautoriteit kan uit hoofde van haar taak, bedoeld in [artikel 16, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3&paragraaf=3.1&artikel=16&z=2015-01-01&g=2015-01-01), een aanwijzing geven aan een zorgaanbieder, erop gericht dat aan de naleving van het in dat onderdeel genoemde [artikel 66d, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66d) wordt voldaan.
 
 ##### Artikel 81a
 
-1. Indien een zorgaanbieder niet binnen de termijn, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2014-04-01&g=2014-04-01), aan een krachtens [artikel 78a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=78a&z=2014-04-01&g=2014-04-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
+1. Indien een zorgaanbieder niet binnen de termijn, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=79&z=2015-01-01&g=2015-01-01), aan een krachtens [artikel 78a](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=78a&z=2015-01-01&g=2015-01-01) gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd:
 
 - een last onder bestuursdwang op te leggen, of
 
 - ter openbare kennis te brengen, zo nodig onder vermelding van de overwegingen die tot de kennisgeving hebben geleid: 1e dat de zorgaanbieder in strijd handelt met [artikel 66d, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66d); 2e dat aan de zorgaanbieder een aanwijzing is gegeven dan wel een last onder dwangsom of bestuurlijke boete is opgelegd.
 
-2. [Artikel 80, tweede tot en met zesde lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing.
+2. [Artikel 80, tweede tot en met zesde lid en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-3. Indien het adequaat functioneren van de zorgverleningsmarkt of de positie van de zorgaanbieders op die markt geen uitstel toelaat, kan de zorgautoriteit, in afwijking van het tweede lid juncto [artikel 80, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2014-04-01&g=2014-04-01), het feit onverwijld ter openbare kennis brengen.
+3. Indien het adequaat functioneren van de zorgverleningsmarkt of de positie van de zorgaanbieders op die markt geen uitstel toelaat, kan de zorgautoriteit, in afwijking van het tweede lid juncto [artikel 80, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6&paragraaf=6.2&artikel=80&z=2015-01-01&g=2015-01-01), het feit onverwijld ter openbare kennis brengen.
 
 #### Paragraaf 6.3. Bestuursdwang en last onder dwangsom
 
 ##### Artikel 84a
 
 De zorgautoriteit kan een zorgaanbieder een last onder dwangsom opleggen ter zake van overtreding van [artikel 66d, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=66d).
+
+#### Paragraaf 6.4. Bestuurlijke boete
+
+#### Paragraaf 6.5. Afdracht dwangsommen, boetes en andere invorderingen
+
+#### Paragraaf 6.6. Rechtsbescherming
+
+### Hoofdstuk 7. Wijzigingen in andere wetten
+
+### Hoofdstuk 8. Overgangs- en slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 49e
+
+1. Onze Minister stelt voor ieder kalenderjaar het bedrag vast dat in dat kalenderjaar beschikbaar is voor het verlenen van zorg als bedoeld in de [artikelen 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.1), [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.2) en [3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3).
+
+2. Ten behoeve van het voor zorg in natura vaststellen van tarieven als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.4&artikel=50&z=2015-01-01&g=2015-01-01), en van bedragen als bedoeld in [artikel 56b](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4&paragraaf=4.5&artikel=56b&z=2015-01-01&g=2015-01-01), alsmede ten behoeve van het verstrekken van persoonsgebonden budgetten als bedoeld in de [Wet langdurig zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), verdeelt de zorgautoriteit het bedrag, bedoeld in het eerste lid, over de regio’s, bedoeld in [artikel 4.2.4, tweede lid, van laatstgenoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4).
+
+#### Paragraaf 4.5. Vaststelling van bijdragen en vereffeningen
+
+#### Paragraaf 4.6. Beleidsregels
+
+### Hoofdstuk 5. Informatie
+
+### Hoofdstuk 6. Handhaving
+
+#### Paragraaf 6.3. Bestuursdwang en last onder dwangsom
 
 #### Paragraaf 6.4. Bestuurlijke boete
 
