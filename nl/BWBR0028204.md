@@ -4,7 +4,7 @@ identifier: "BWBR0028204"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2015-07-01"
-last_updated: "2010-10-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028204"
 soort: "wet-BES"
@@ -41,9 +41,9 @@ entry_into_force: "2010-10-10"
 
 1. Bevoegd om aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba schriftelijk inschrijving als advocaat te verzoeken is degene:
 
-- a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in 23, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;
+- a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in [artikel 24, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24), de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;
 
-- b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel 23, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie, het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld aan de beroepsvereisten.
+- b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel [artikel 24, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=24), het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld aan de beroepsvereisten.
 
 2. Bij algemene maatregel van bestuur kunnen graden verleend door een universiteit of een hogeschool of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onder a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.
 
@@ -51,21 +51,21 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 2
 
-1. Alvorens op een verzoek als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10) bedoeld te beslissen, wint het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, gehoord de procureur-generaal, advies in van de raad van toezicht.
+1. Alvorens op een verzoek als in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=1&z=2015-01-01&g=2015-01-01) bedoeld te beslissen, wint het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, gehoord de procureur-generaal, advies in van de raad van toezicht.
 
 2. Het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba kan de inschrijving bij een met redenen omklede beschikking weigeren, doch niet dan na verhoor of behoorlijke oproeping van de verzoeker.
 
 3. Het is tot die weigering verplicht indien:
 
-- a. de verzoeker niet voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=1&z=2010-10-10&g=2010-10-10) gestelde vereisten voor inschrijving;
+- a. de verzoeker niet voldoet aan de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=1&z=2015-01-01&g=2015-01-01) gestelde vereisten voor inschrijving;
 
 - b. de verzoeker niet zijn woonplaats heeft binnen Curaçao, Sint Maarten, Bonaire, Sint Eustatius of Saba;
 
 - c. gegronde vrees bestaat, dat de verzoeker als advocaat in breuk zal maken op voor de advocaten geldende algemene verordeningen en besluiten of dat zijn inschrijving uit anderen hoofde de eer van de stand der advocaten schaden zal.
 
-4. Indien bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba geen bezwaar tegen de inschrijving bestaat, wordt verzoeker, na de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=4&z=2010-10-10&g=2010-10-10) vermelde eed of belofte te hebben afgelegd, op een daartoe door de griffier van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba bijgehouden lijst als advocaat ingeschreven en wordt hem op zijn verzoek een bewijs der inschrijving uitgereikt.
+4. Indien bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba geen bezwaar tegen de inschrijving bestaat, wordt verzoeker, na de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01) vermelde eed of belofte te hebben afgelegd, op een daartoe door de griffier van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba bijgehouden lijst als advocaat ingeschreven en wordt hem op zijn verzoek een bewijs der inschrijving uitgereikt.
 
-5. Door een inschrijving als in het vorige lid bedoeld wordt de bevoegdheid verkregen om in Bonaire, Sint Eustatius en Saba het beroep van advocaat uit te oefenen, onverminderd het bepaalde in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2010-10-10&g=2010-10-10) van deze wet.
+5. Door een inschrijving als in het vorige lid bedoeld wordt de bevoegdheid verkregen om in Bonaire, Sint Eustatius en Saba het beroep van advocaat uit te oefenen, onverminderd het bepaalde in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2015-01-01&g=2015-01-01) van deze wet.
 
 ##### Artikel 3
 
@@ -77,7 +77,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 4
 
-1. Krachtens beslissing van het Hof van Justitie wordt een advocaat van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde lijst van inschrijving afgevoerd, hetzij op eigen verzoek, hetzij ambtshalve dan wel op vordering van de procureur-generaal.
+1. Krachtens beslissing van het Hof van Justitie wordt een advocaat van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01) bedoelde lijst van inschrijving afgevoerd, hetzij op eigen verzoek, hetzij ambtshalve dan wel op vordering van de procureur-generaal.
 
 2. De afvoering van de lijst geschiedt ambtshalve, dan wel op vordering van de procureur-generaal:
 
@@ -89,7 +89,7 @@ entry_into_force: "2010-10-10"
 
 - d. indien blijkt dat een advocaat is ingeschreven terwijl hij niet voldeed aan de wettelijke vereisten;
 
-- e. wanneer de advocaat bij onherroepelijke uitspraak als zodanig van de lijst, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), is geschrapt.
+- e. wanneer de advocaat bij onherroepelijke uitspraak als zodanig van de lijst, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01), is geschrapt.
 
 3. In de gevallen, bedoeld in het tweede lid, onderdelen b, c en d, hoort het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, alvorens een beslissing te nemen, de procureur-generaal.
 
@@ -121,19 +121,19 @@ De advocaat moet, indien hij in zijn bediening een terechtzitting van het Gemeen
 
 ##### Artikel 9
 
-Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van de advocaten, zoals die in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2010-10-10&g=2010-10-10) van deze wet is geregeld.
+Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van de advocaten, zoals die in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&z=2015-01-01&g=2015-01-01) van deze wet is geregeld.
 
 #### § 3. De stage
 
 ##### Artikel 10
 
-1. De advocaat die niet in het bezit is van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10), hierna te noemen: de stagiaire, is verplicht de praktijk uit te oefenen onder toezicht van een patroon en bij deze kantoor te houden, tenzij hij elders binnen het Koninkrijk der Nederlanden zijn stage heeft voltooid en ter zake een stageverklaring heeft verkregen.
+1. De advocaat die niet in het bezit is van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), hierna te noemen: de stagiaire, is verplicht de praktijk uit te oefenen onder toezicht van een patroon en bij deze kantoor te houden, tenzij hij elders binnen het Koninkrijk der Nederlanden zijn stage heeft voltooid en ter zake een stageverklaring heeft verkregen.
 
 2. De raad van toezicht kan de stagiaire vrijstelling verlenen van de verplichting om bij zijn patroon kantoor te houden. Een patroon bij wie niet door de stagiaire kantoor gehouden wordt, wordt aangeduid als buiten-patroon.
 
 3. De raad van toezicht kan vrijstelling verlenen van de verplichting tot uitoefening van de praktijk onder toezicht van een patroon.
 
-4. Indien de in het derde lid bedoelde vrijstelling onvoorwaardelijk is verleend, wordt de verkrijger daarvan geacht in het bezit te zijn van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10).
+4. Indien de in het derde lid bedoelde vrijstelling onvoorwaardelijk is verleend, wordt de verkrijger daarvan geacht in het bezit te zijn van de verklaring, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 11
 
@@ -157,7 +157,7 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 ##### Artikel 14
 
-1. De stage begint op de dag waarop de stagiaire de uitoefening van de praktijk onder toezicht van de patroon aanvangt, doch niet vóór de dag waarop de stagiaire overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=3&z=2010-10-10&g=2010-10-10) beëdigd is. De patroon brengt het tijdstip van de aanvang van de stage onverwijld ter kennis van de raad van toezicht.
+1. De stage begint op de dag waarop de stagiaire de uitoefening van de praktijk onder toezicht van de patroon aanvangt, doch niet vóór de dag waarop de stagiaire overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01) beëdigd is. De patroon brengt het tijdstip van de aanvang van de stage onverwijld ter kennis van de raad van toezicht.
 
 2. De stage eindigt tussentijds:
 
@@ -193,7 +193,7 @@ Iedere advocaat is verplicht naar vermogen mede te werken aan de opleiding van d
 
 ##### Artikel 17
 
-De raad van toezicht is bevoegd aan zijn op grond van de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=10&z=2010-10-10&g=2010-10-10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=12&z=2010-10-10&g=2010-10-10), [14, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=14&z=2010-10-10&g=2010-10-10) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10) genomen beslissingen voorwaarden te verbinden, welke niet de verplichting tot het volgen van enige cursus of tot het afleggen van een proeve van bekwaamheid mogen inhouden.
+De raad van toezicht is bevoegd aan zijn op grond van de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=10&z=2015-01-01&g=2015-01-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=12&z=2015-01-01&g=2015-01-01), [14, tweede lid onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=14&z=2015-01-01&g=2015-01-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01) genomen beslissingen voorwaarden te verbinden, welke niet de verplichting tot het volgen van enige cursus of tot het afleggen van een proeve van bekwaamheid mogen inhouden.
 
 ##### Artikel 18
 
@@ -205,11 +205,11 @@ De raad van toezicht is bevoegd aan zijn op grond van de [artikelen 10, tweede e
 
 4. De beslissing van de raad van appèl is met redenen omkleed.
 
-5. De secretaris van de raad van appèl zendt van de beslissing onverwijld afschrift aan de raad van toezicht, aan de patroon en de stagiaire, en aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10) bedoelde Orde van advocaten.
+5. De secretaris van de raad van appèl zendt van de beslissing onverwijld afschrift aan de raad van toezicht, aan de patroon en de stagiaire, en aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01) bedoelde Orde van advocaten.
 
 ##### Artikel 19
 
-Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regelen worden vastgesteld. Daarbij kan de termijn, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2010-10-10&g=2010-10-10), worden verkort tot ten minste een jaar.
+Bij ministeriële regeling kunnen ter uitvoering van deze paragraaf nadere regelen worden vastgesteld. Daarbij kan de termijn, genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=16&z=2015-01-01&g=2015-01-01), worden verkort tot ten minste een jaar.
 
 #### § 4. De tuchtrechtspraak
 
@@ -243,7 +243,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 - c. schorsing in de uitoefening van de praktijk ten hoogste gedurende een jaar;
 
-- d. schrapping van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde lijst van inschrijving.
+- d. schrapping van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01) bedoelde lijst van inschrijving.
 
 2. Bij de beslissing, houdende oplegging van een der laatstgenoemde drie straffen, kan de raad tot openbaarmaking van de straf, al dan niet met de gronden op welke zij berust, op de door hem te bepalen wijze besluiten. In geval van schorsing kan de raad tevens bepalen, dat de geschorste de titel van advocaat gedurende de schorsing niet zal mogen voeren.
 
@@ -281,25 +281,25 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 - d. indien beslist werd naar aanleiding van een klacht, aan de klager;
 
-- e. indien de betrokken advocaat stagiaire is, aan zijn patroon en aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=11&z=2010-10-10&g=2010-10-10) bedoelde Orde van advocaten.
+- e. indien de betrokken advocaat stagiaire is, aan zijn patroon en aan de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01) bedoelde Orde van advocaten.
 
 2. De in dit artikel bedoelde toezending geschiedt bij aangetekende brief.
 
-3. Tenzij in de beslissingen van de raad van toezicht een latere datum wordt genoemd waarop de straf ingaat, zijn zij, indien geen beroep wordt ingesteld overeenkomstig het bepaalde in het [eerste lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=25&z=2010-10-10&g=2010-10-10), uitvoerbaar onmiddellijk na verloop van de in dat lid genoemde beroepstermijn.
+3. Tenzij in de beslissingen van de raad van toezicht een latere datum wordt genoemd waarop de straf ingaat, zijn zij, indien geen beroep wordt ingesteld overeenkomstig het bepaalde in het [eerste lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=25&z=2015-01-01&g=2015-01-01), uitvoerbaar onmiddellijk na verloop van de in dat lid genoemde beroepstermijn.
 
-4. Openbaarmaking als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2010-10-10&g=2010-10-10) geschiedt niet voordat de beslissing in kracht van gewijsde is gegaan.
+4. Openbaarmaking als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2015-01-01&g=2015-01-01) geschiedt niet voordat de beslissing in kracht van gewijsde is gegaan.
 
 ##### Artikel 25
 
-1. Van de beslissingen van de raad van toezicht kunnen binnen drie weken na de dag van terpostbezorging van de aangetekende brief in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=24&z=2010-10-10&g=2010-10-10) bedoeld, de betrokken advocaat en de klager, zo die er is, bij verzoekschrift, en de procureur-generaal bij requisitoir hoger beroep instellen bij de raad van appèl.
+1. Van de beslissingen van de raad van toezicht kunnen binnen drie weken na de dag van terpostbezorging van de aangetekende brief in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01) bedoeld, de betrokken advocaat en de klager, zo die er is, bij verzoekschrift, en de procureur-generaal bij requisitoir hoger beroep instellen bij de raad van appèl.
 
 2. Afschriften van het verzoekschrift of het requisitoir zendt de secretaris van de raad van appèl onverwijld aan de overige tot het instellen van hoger beroep bevoegde personen.
 
-3. Op de behandeling in hoger beroep is het bepaalde bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=23&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, met dien verstande, dat de dagvaarding van getuigen en deskundigen ten deze geschiedt op last van de procureur-generaal. De raad van appèl kan de raad van toezicht uitnodigen nadere inlichtingen te verschaffen.
+3. Op de behandeling in hoger beroep is het bepaalde bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=23&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, met dien verstande, dat de dagvaarding van getuigen en deskundigen ten deze geschiedt op last van de procureur-generaal. De raad van appèl kan de raad van toezicht uitnodigen nadere inlichtingen te verschaffen.
 
-4. Op de beslissingen van de raad van appèl is het bepaalde bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=24&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing; tenzij deze beslissingen een latere datum noemen waarop de straf ingaat, worden zij onmiddellijk ten uitvoer gelegd.
+4. Op de beslissingen van de raad van appèl is het bepaalde bij [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=24&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing; tenzij deze beslissingen een latere datum noemen waarop de straf ingaat, worden zij onmiddellijk ten uitvoer gelegd.
 
-5. Indien de raad van appèl besluit tot openbaarmaking van de straf als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2010-10-10&g=2010-10-10), is het bepaalde bij het vijfde en zesde lid van dat artikel van overeenkomstige toepassing.
+5. Indien de raad van appèl besluit tot openbaarmaking van de straf als bedoeld in het [tweede lid van artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=22&z=2015-01-01&g=2015-01-01), is het bepaalde bij het vijfde en zesde lid van dat artikel van overeenkomstige toepassing.
 
 ##### Artikel 26
 
@@ -307,7 +307,7 @@ De tuchtrechtspraak heeft ten doel het weren en beteugelen van misslagen, door a
 
 2. Afschrift van de in het eerste lid bedoelde aanvrage zendt de secretaris van de raad van appèl onverwijld aan de klager, zo die er is, aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en aan de procureur-generaal.
 
-3. Het bepaalde bij het [derde en vierde lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=25&z=2010-10-10&g=2010-10-10) vindt overeenkomstige toepassing.
+3. Het bepaalde bij het [derde en vierde lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=4&artikel=25&z=2015-01-01&g=2015-01-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 27
 
@@ -345,13 +345,13 @@ De advocaten zijn bevoegd met hun cliënten overeenkomsten aan te gaan ter vasts
 
 ##### Artikel 33
 
-De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=30&z=2010-10-10&g=2010-10-10) bedoelde salaris en van het met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=32&z=2010-10-10&g=2010-10-10) overeengekomene wordt beschouwd de goedkeuring ervan in te sluiten.
+De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=30&z=2015-01-01&g=2015-01-01) bedoelde salaris en van het met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=32&z=2015-01-01&g=2015-01-01) overeengekomene wordt beschouwd de goedkeuring ervan in te sluiten.
 
 ##### Artikel 34
 
 1. In geval van geschil over het berekende salaris, gevorderd hetzij volgens een gespecificeerde rekening, hetzij uit een vooraf gesloten overeenkomst, begroot de raad van toezicht het geëiste bedrag op schriftelijk verzoek van de advocaat dan wel van de cliënt.
 
-2. Deze begroting is verplicht voor alle in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=30&z=2010-10-10&g=2010-10-10) bedoelde werkzaamheden, verricht ten behoeve van personen, die het vrije beheer over hun goederen niet bezitten, afwezig, onbekend of onbereikbaar zijn, alsmede in onbeheerde boedels.
+2. Deze begroting is verplicht voor alle in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=30&z=2015-01-01&g=2015-01-01) bedoelde werkzaamheden, verricht ten behoeve van personen, die het vrije beheer over hun goederen niet bezitten, afwezig, onbekend of onbereikbaar zijn, alsmede in onbeheerde boedels.
 
 3. De advocaat dient zijn begroting in op gezegelde rekening; daarop wordt naast de op iedere post uitgetrokken som een wit vak opengelaten.
 
@@ -387,13 +387,13 @@ De voldoening van het in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 38
 
-1. De advocaat of de cliënt kan binnen drie weken na de dag van terpostbezorging van de aangetekende brief, in het [laatste lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=37&z=2010-10-10&g=2010-10-10) bedoeld, de herziening der begroting bij een met redenen omkleed verzoekschrift aan de raad van appèl verzoeken.
+1. De advocaat of de cliënt kan binnen drie weken na de dag van terpostbezorging van de aangetekende brief, in het [laatste lid van artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=37&z=2015-01-01&g=2015-01-01) bedoeld, de herziening der begroting bij een met redenen omkleed verzoekschrift aan de raad van appèl verzoeken.
 
 2. Alvorens te beslissen roept de raad van appèl partijen per aangetekende brief op om in haar belangen te worden gehoord.
 
 3. Een schriftelijk gemachtigde kan de cliënt of de advocaat vertegenwoordigen.
 
-4. De bepalingen van het [derde lid van artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=35&z=2010-10-10&g=2010-10-10) en het [tweede lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=36&z=2010-10-10&g=2010-10-10) zijn van overeenkomstige toepassing.
+4. De bepalingen van het [derde lid van artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=35&z=2015-01-01&g=2015-01-01) en het [tweede lid van artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=36&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 39
 
@@ -419,7 +419,7 @@ De begrotingen zijn niet aan registratie onderworpen.
 
 ##### Artikel 43
 
-Mits hij daarvan ten minste acht dagen te voren bij aangetekende brief aan de cliënt kennis geeft en een afschrift daarvan ter griffie van het betrokken gerecht of rechterlijke college heeft neergelegd, mag de advocaat zich onttrekken aan een zaak, bijaldien de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=42&z=2010-10-10&g=2010-10-10) bedoelde storting, zo deze gevraagd of bevolen is, niet is gedaan.
+Mits hij daarvan ten minste acht dagen te voren bij aangetekende brief aan de cliënt kennis geeft en een afschrift daarvan ter griffie van het betrokken gerecht of rechterlijke college heeft neergelegd, mag de advocaat zich onttrekken aan een zaak, bijaldien de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028204&paragraaf=5&artikel=42&z=2015-01-01&g=2015-01-01) bedoelde storting, zo deze gevraagd of bevolen is, niet is gedaan.
 
 ##### Artikel 44
 
