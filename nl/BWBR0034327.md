@@ -4,7 +4,7 @@ identifier: "BWBR0034327"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034327"
 soort: "ministeriele-regeling"
@@ -60,17 +60,17 @@ In deze regeling wordt verstaan onder:
 
 De systeembeschrijving wordt gevormd door:
 
-- a. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2014-01-06&g=2014-04-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.8, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-06&g=2014-04-01);
+- a. de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp GBA, versie 3.8, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01);
 
-- b. de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2014-01-06&g=2014-04-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.10.02, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-06&g=2014-04-01);
+- b. de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2015-01-01&g=2015-01-01) bij deze regeling genoemde onderdelen van het Logisch Ontwerp RNI, versie 2.10.02, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01);
 
-- c. de hoofdstukken 3 en 4 van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=3&z=2014-01-06&g=2014-04-01) bij deze regeling opgenomen beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2014-01-06&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2014-01-06&g=2014-04-01) bedoelde onderdelen worden toegepast.
+- c. de hoofdstukken 3 en 4 van de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=3&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2015-01-01&g=2015-01-01) bedoelde onderdelen worden toegepast.
 
 ##### Artikel 3
 
-1. Het Logisch Ontwerp GBA, versie 3.8, is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2014-01-06&g=2014-04-01) bij deze regeling.
+1. Het Logisch Ontwerp GBA, versie 3.8, is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2015-01-01&g=2015-01-01) bij deze regeling.
 
-2. Het Logisch Ontwerp RNI, versie 2.10.02, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2014-01-06&g=2014-04-01) bij deze regeling.
+2. Het Logisch Ontwerp RNI, versie 2.10.02, is opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2015-01-01&g=2015-01-01) bij deze regeling.
 
 #### § 3. De bewaring van geschriften en andere bescheiden
 
@@ -170,7 +170,7 @@ Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](https://we
 
 ##### Artikel 14
 
-De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2014-01-06&g=2014-04-01) bij de [artikelen 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), en [32, tweede lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=7&z=2014-01-06&g=2014-04-01) bij deze regeling.
+De in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2015-01-01&g=2015-01-01) bij de [artikelen 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=23), en [32, tweede lid, van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=32) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=7&z=2015-01-01&g=2015-01-01) bij deze regeling.
 
 ##### Artikel 15
 
@@ -178,7 +178,7 @@ De administratieve gegevens, bedoeld in de [artikelen 23, tweede lid](https://we
 
 ##### Artikel 16
 
-Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9&z=2014-01-06&g=2014-04-01) bij deze regeling.
+Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21), is opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=9&z=2015-01-01&g=2015-01-01) bij deze regeling.
 
 ##### Artikel 17
 
@@ -190,13 +190,13 @@ Als instellingen op het gebied van de kinderbescherming als bedoeld in [artikel 
 
 ##### Artikel 19
 
-Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de inrichtingen die door de Minister van Veiligheid en Justitie zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=18&z=2014-01-06&g=2014-04-01).
+Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.40), worden aangewezen: de inrichtingen die door de Minister van Veiligheid en Justitie zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=18&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk 3. De verstrekking van gegevens uit de basisregistratie
 
 ##### Artikel 20
 
-Het formulier, bedoeld in [artikel 38 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=10&z=2014-01-06&g=2014-04-01) bij deze regeling.
+Het formulier, bedoeld in [artikel 38 van het Besluit BRP](https://wetten.overheid.nl/jci1.3:c:BWBR0034306&artikel=38), is opgenomen in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=10&z=2015-01-01&g=2015-01-01) bij deze regeling.
 
 ### Hoofdstuk 4. Toezicht, overgangs- en slotbepalingen
 
@@ -288,7 +288,7 @@ Het doel van het centraal archief van overledenen is het verstrekken van gegeven
 
 ##### Artikel 30
 
-1. Ten behoeve van een onderzoek als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=2&artikel=29&z=2014-01-06&g=2014-04-01) kunnen uit het centraal archief van overledenen op schriftelijk verzoek gegevens worden verstrekt aan:
+1. Ten behoeve van een onderzoek als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=4&paragraaf=2&artikel=29&z=2015-01-01&g=2015-01-01) kunnen uit het centraal archief van overledenen op schriftelijk verzoek gegevens worden verstrekt aan:
 
 - a. een derde, indien deze bij de verstrekking een gerechtvaardigd belang heeft en voor zover de persoonlijke levenssfeer daardoor niet onevenredig wordt geschaad;
 
@@ -344,9 +344,9 @@ Het verzoek bevat de gronden voor de verstrekking.
 
 3. De vergoeding, bedoeld in het eerste lid, bedraagt in het geval van verstrekking uit het centraal archief van overledenen:
 
-- a. € 4,05 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 8,10 in rekening wordt gebracht;
+- a. € 4,10 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 8,20 in rekening wordt gebracht;
 
-- b. € 3,70 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.
+- b. € 3,75 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.
 
 #### § 3. Overgangs- en slotbepalingen
 
@@ -376,19 +376,19 @@ Deze regeling wordt aangehaald als: Regeling basisregistratie personen.
 
 ## Bijlage 1. De onderdelen van het Logisch Ontwerp GBA, versie 3.8, die deel uitmaken van de systeembeschrijving
 
-### Bijlage bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01)
 
 De onderdelen van het Logisch Ontwerp GBA, die deel uitmaken van de systeembeschrijving:
 
 ## Bijlage 2. De onderdelen van het Logisch Ontwerp RNI, versie 2.10.02, die deel uitmaken van de systeembeschrijving
 
-### Bijlage bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01)
 
 De onderdelen van het Logisch Ontwerp RNI, die deel uitmaken van de systeembeschrijving:
 
-## Bijlage 3. De beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2014-01-06&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2014-01-06&g=2014-04-01) bedoelde onderdelen worden toegepast
+## Bijlage 3. De beschrijving van de wijze waarop de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=2&z=2015-01-01&g=2015-01-01) bedoelde onderdelen worden toegepast
 
-### Bijlage bij [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 2, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01)
 
 ### 1. Inleiding
 
@@ -446,33 +446,33 @@ Wat betreft het ARS, dat in het LO RNI van toepassing is verklaard, houdt het vo
 
 ## Bijlage 4. Het Logisch Ontwerp GBA, versie 3.8
 
-### Bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01)
 
 Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar gesteld.
 
 ## Bijlage 5. Het Logisch Ontwerp RNI, versie 2.10.02
 
-### Bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01)
 
 Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar gesteld.
 
 ## Bijlage 6. Bewaring van geschriften en andere bescheiden
 
-### Bijlage bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=3&artikel=4&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-01-01&g=2015-01-01)
 
 ## Bijlage 7. De aantekeningen in verband met het verblijfsrecht van de vreemdeling
 
-### Bijlage bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=14&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=14&z=2015-01-01&g=2015-01-01)
 
 De aantekeningen in verband met het verblijfsrecht van de vreemdeling:
 
 ## Bijlage 8. De administratieve gegevens
 
-### Bijlage bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=15&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-01-01)
 
 ## Bijlage 9. Het verhuisbericht
 
-### Bijlage bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=16&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=2&artikel=16&z=2015-01-01&g=2015-01-01)
 
 ### Model verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715&artikel=2.21)
 
@@ -480,6 +480,6 @@ Het verhuisbericht dat moet worden verstrekt aan een persoon die in de aangifte 
 
 ## Bijlage 10. Het autorisatie-aanvraagformulier
 
-### Bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=3&artikel=20&z=2014-01-06&g=2014-04-01)
+### Bijlage bij [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&hoofdstuk=3&artikel=20&z=2015-01-01&g=2015-01-01)
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2014-01-06&g=2014-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2014-01-06&g=2014-04-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=4&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0034327&bijlage=5&z=2015-01-01&g=2015-01-01), die ter inzage worden gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, 2511 DP Den Haag.
