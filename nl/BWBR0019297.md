@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -48,13 +48,13 @@ Besluit:
 
 - a. UWV: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werknemersverzekeringen;
 
-- b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+- b. WAO: [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving);
 
-- c. Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- c. Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
 
-- d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
+- d. WAZ: [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving);
 
-- e. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057).
+- e. Wet WIA: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving).
 
 2. Voor de toepassing van deze regeling wordt gelijkgesteld met:
 
@@ -64,19 +64,19 @@ Besluit:
 
 3. Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.
 
-4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
+4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
 ##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
 
-1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a)en [artikel 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) of [3:67 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
+1. Een aanvraag voor loonsuppletie als bedoeld in [artikel 65c van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65c), [artikel 67a van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67a)en [artikel 2:25](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:25) of [3:67 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:67) wordt ingediend binnen twee maanden na aanvang van het werk in dienstbetrekking, dan wel bij aanvang van de werkzaamheden voordat een besluit over de mate van arbeidsongeschiktheid is genomen, binnen twee maanden nadat dat besluit is genomen.
 
-2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) of [3:68 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
+2. Een aanvraag voor inkomenssuppletie als bedoeld in [artikel 65d van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65d), [artikel 67b van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67b) en [artikel 2:26](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:26) of [3:68 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:68) wordt ingediend binnen zes maanden na afloop van het boekjaar waarin de uitoefening van het bedrijf of beroep is voortgezet of waarin de persoon, die recht heeft op een uitkering op grond van een van de hiervoor genoemde wetten, werkzaamheden als zelfstandige is gaan verrichten.
 
 3. Bij overschrijding van de termijnen, bedoeld in het eerste of tweede lid, wordt geen loonsuppletie verstrekt over een periode die gelegen is meer dan twee maanden voor de aanvraag, respectievelijk geen inkomenssuppletie verstrekt over het boekjaar of de boekjaren gelegen voor de aanvraag.
 
 ##### Artikel 3. Maximaal bedrag starterskrediet
 
-Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 35.130.
+Het bedrag, bedoeld in [artikel 15, eerste lid, van het Reïntegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152&artikel=15), wordt vastgesteld op € 35.393,–.
 
 #### § 2. Inkomenstoets vervoersvoorzieningen
 
@@ -98,7 +98,7 @@ Op het inkomen worden in mindering gebracht kosten ter zake van ziekte of arbeid
 
 ##### Artikel 7. Buiten beschouwing blijvende bedragen bij inkomensvaststelling
 
-Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
+Bij het vaststellen van het inkomen blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorziening op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving), of een combinatie hiervan is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53)of[63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
 
 ##### Artikel 8. Vaststelling inkomen van personen die de leeftijd van 18 jaar nog niet hebben bereikt
 
@@ -152,27 +152,11 @@ Indien een persoon in het kalenderjaar waarin hij een vervoersvoorziening heeft 
 
 ##### Artikel 13. Verdeling werkloosheidsfondsen/arbeidsongeschiktheidsfondsen
 
-1. De middelen ter dekking van de uitgaven ten laste van het Reïntegratiefonds, bedoeld in [artikel 2.8, eerste lid, onderdeel a, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.8), worden voor 50 procent verkregen uit de werkloosheidsfondsen en voor 50 procent uit de arbeidsongeschiktheidsfondsen gezamenlijk.
-
-2. Onder arbeidsongeschiktheidsfondsen, bedoeld in het eerste lid, worden verstaan het Arbeidsongeschiktheidsfonds, genoemd in [artikel 112 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=112), en het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in [artikel 5:1 van de Wet WAJONG](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=5:1).
-
-3. Onder de werkloosheidsfondsen, bedoeld in het eerste lid, worden verstaan het Algemeen Werkloosheidsfonds en het Uitvoeringsfonds voor de overheid.
+Vervallen
 
 ##### Artikel 14. Onderlinge verdeling arbeidsongeschiktheidsfondsen
 
-De ten laste van het Arbeidsongeschiktheidsfonds en het Arbeidsondersteuningsfonds jonggehandicapten, komende bijdrage aan het Reïntegratiefonds in een bepaald kalenderjaar, wordt voor elk van deze fondsen bepaald aan de hand van de volgende formule:
-
-Bf t = [ Uf t–2 : U t-2] × B t
-
-waarbij :
-
-- 1. Bf t het bedrag is van de bijdrage uit een arbeidsongeschiktheidsfonds of arbeidsondersteuningsfonds tot dekking van de uitgaven in een bepaald kalenderjaar ten laste van het Reïntegratiefonds;
-
-- 2. Uf t–2 het bedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan het genoemd bepaald kalenderjaar ten laste zijn gekomen van het desbetreffende arbeidsongeschiktheidsfonds of arbeidsondersteuningsfonds;
-
-- 3. U t-2 het totaalbedrag is van de uitkeringsuitgaven die in het tweede kalenderjaar voorafgaand aan genoemd bepaalde kalenderjaar ten laste zijn gekomen van de arbeidsongeschiktheidsfondsen of het arbeidsondersteuningsfonds gezamenlijk;
-
-- 4. B t 50 procent is van de benodigde middelen tot dekking van de uitgaven in genoemd bepaald kalenderjaar ten laste van het Reïntegratiefonds.
+Vervallen
 
 ##### Artikel 15. Onderlinge verdeling werkloosheidsfondsen
 
@@ -210,7 +194,7 @@ Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](h
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2014-01-01&g=2014-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2015-01-01&g=2015-01-01).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
