@@ -4,7 +4,7 @@ identifier: "BWBR0012743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2012-07-03"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012743"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2012-07-03&g=2012-07-03), genoemde middelen.
+1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2012-07-03&g=2015-01-01), genoemde middelen.
 
 2. Indien de toestand van de jeugdige dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
