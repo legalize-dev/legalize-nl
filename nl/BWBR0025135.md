@@ -4,7 +4,7 @@ identifier: "BWBR0025135"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2012-11-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025135"
 soort: "ministeriele-regeling"
@@ -40,21 +40,21 @@ Gelet op [artikel 121a van de Wet financiering sociale verzekeringen](https://we
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Wet structuur uitvoeringsorganisatie werk en inkomen, enz. (evaluatie Wet SUWI, Kaderwet zelfstandige bestuursorganen en deregulering) (Stb. 2008/600) in werking treedt. De datum van inwerkingtreding ligt voor de datum van uitgifte.
+
 ##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
 - a. **de minister:** de Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. **WWB:** [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
+- b. **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- c. **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+- c. **valutadag:** de op de rekening-courantafschriften aangegeven dag van betaling;
 
-- d. **valutadag:** de op de rekening-courantafschriften aangegeven dag van betaling;
+- d. **bijstandskosten:** de kosten van bijstand die verleend wordt op grond van [artikel 78h van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h);
 
-- e. **bijstandskosten:** de kosten van bijstand die verleend wordt op grond van [artikel 78h van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h);
-
-- f. **uitvoeringskosten:** de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de WWB](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h).
+- e. **uitvoeringskosten:** de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=78h).
 
 ##### Artikel 2. Raming baten en lasten
 
@@ -62,7 +62,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=2&z=2012-11-01&g=2012-11-01), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16), een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=2&z=2015-01-01&g=2015-01-01), van:
 
 - a. geraamde bijstandskosten met als valutadag de tweeëntwintigste dag van elke maand, en
 
@@ -72,7 +72,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=3&z=2012-11-01&g=2012-11-01), uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025135&artikel=3&z=2015-01-01&g=2015-01-01), uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
