@@ -4,7 +4,7 @@ identifier: "BWBR0012197"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012197"
 soort: "wet"
@@ -51,21 +51,21 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. ambtshandelingen: de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01);
+- b. ambtshandelingen: de werkzaamheden, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01);
 
-- c. gerechtsdeurwaarder: de ambtenaar, benoemd krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01);
+- c. gerechtsdeurwaarder: de ambtenaar, benoemd krachtens [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=4&z=2015-01-01&g=2015-01-01);
 
-- d. kandidaat-gerechtsdeurwaarder: hij die met goed gevolg de opleiding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=25&z=2014-01-01&g=2014-01-01), heeft doorlopen;
+- d. kandidaat-gerechtsdeurwaarder: hij die met goed gevolg de opleiding, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=25&z=2015-01-01&g=2015-01-01), heeft doorlopen;
 
-- e. toegevoegd kandidaat-gerechtsdeurwaarder: een als zodanig, overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=26&z=2014-01-01&g=2014-01-01), aangewezen kandidaat-gerechtsdeurwaarder;
+- e. toegevoegd kandidaat-gerechtsdeurwaarder: een als zodanig, overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=26&z=2015-01-01&g=2015-01-01), aangewezen kandidaat-gerechtsdeurwaarder;
 
 - f. het Bureau: het Bureau Financieel Toezicht, bedoeld in [artikel 110 van de Wet op het notarisambt](onbekend);
 
-- g. kamer voor gerechtsdeurwaarders: het college, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01);
+- g. kamer voor gerechtsdeurwaarders: het college, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01);
 
 - h. deeltijd: de werktijd die korter is dan de volledige werktijd die geldt voor burgerlijke rijksambtenaren, werkzaam op de ministeries;
 
-- i. de KBvG: de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=56&z=2014-01-01&g=2014-01-01).
+- i. de KBvG: de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders, bedoeld in [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=56&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk II. De gerechtsdeurwaarder
 
@@ -129,7 +129,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 4
 
-1. Een gerechtsdeurwaarder wordt benoemd bij koninklijk besluit. In het besluit wordt de plaats van vestiging aangegeven. Hij mag zijn werkzaamheden als gerechtsdeurwaarder eerst aanvangen na overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=9&z=2014-01-01&g=2014-01-01) te zijn beëdigd.
+1. Een gerechtsdeurwaarder wordt benoemd bij koninklijk besluit. In het besluit wordt de plaats van vestiging aangegeven. Hij mag zijn werkzaamheden als gerechtsdeurwaarder eerst aanvangen na overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=9&z=2015-01-01&g=2015-01-01) te zijn beëdigd.
 
 2. Tot het voeren van de titel van gerechtsdeurwaarder is uitsluitend bevoegd degene die als zodanig is benoemd en beëdigd.
 
@@ -141,19 +141,19 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - b. met goed gevolg een door Onze Minister erkende opleiding tot kandidaat-gerechtsdeurwaarder heeft doorlopen, dan wel in het bezit is van een ten aanzien van het beroep van gerechtsdeurwaarder afgegeven EG-verklaring als bedoeld in de [Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066),
 
-- c. als toegevoegd kandidaat-gerechtsdeurwaarder ten minste gedurende twee jaren, waaronder begrepen de stage, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=27&z=2014-01-01&g=2014-01-01), werkzaam is geweest, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijn naar evenredigheid wordt verlengd,
+- c. als toegevoegd kandidaat-gerechtsdeurwaarder ten minste gedurende twee jaren, waaronder begrepen de stage, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01), werkzaam is geweest, met dien verstande dat, in geval van werkzaamheid in deeltijd, deze termijn naar evenredigheid wordt verlengd,
 
-- d. in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), alsmede van het advies, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01),
+- d. in het bezit is van een ondernemingsplan dat voldoet aan de voorwaarden van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), alsmede van het advies, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01),
 
 - e. in het bezit is van een verklaring omtrent het gedrag afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194), en
 
-- f. in het bezit is van een verklaring van de kamer voor gerechtsdeurwaarders, waaruit blijkt of hem een maatregel als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2014-01-01&g=2014-01-01) is opgelegd, en zo ja, welke.
+- f. in het bezit is van een verklaring van de kamer voor gerechtsdeurwaarders, waaruit blijkt of hem een maatregel als bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2015-01-01&g=2015-01-01) is opgelegd, en zo ja, welke.
 
 2. In bijzondere gevallen en in geval van een persoon die reeds eerder tot gerechtsdeurwaarder was benoemd, kan bij de benoeming van een gerechtsdeurwaarder worden afgezien van het eerste lid, onderdeel c.
 
 ##### Artikel 6
 
-1. Het ondernemingsplan, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), is zodanig opgesteld dat daaruit in ieder geval blijkt:
+1. Het ondernemingsplan, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), is zodanig opgesteld dat daaruit in ieder geval blijkt:
 
 - a. dat de verzoeker over voldoende financiële middelen beschikt om een kantoor te houden dat in overeenstemming is met de eisen van het ambt; en
 
@@ -175,17 +175,17 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ##### Artikel 7
 
-1. De kandidaat-gerechtsdeurwaarder die voor benoeming tot gerechtsdeurwaarder in aanmerking wenst te komen dient bij Onze Minister een daartoe strekkend verzoek in, met opgave van de plaats waarin hij voornemens is zich als gerechtsdeurwaarder te vestigen. Bij het verzoek legt hij bewijsstukken over waaruit blijkt dat hij voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), daaronder begrepen het ondernemingsplan. In het verzoek doet hij tevens opgave van het kantoor of de kantoren waar hij als toegevoegd kandidaat-gerechtsdeurwaarder werkzaam is geweest.
+1. De kandidaat-gerechtsdeurwaarder die voor benoeming tot gerechtsdeurwaarder in aanmerking wenst te komen dient bij Onze Minister een daartoe strekkend verzoek in, met opgave van de plaats waarin hij voornemens is zich als gerechtsdeurwaarder te vestigen. Bij het verzoek legt hij bewijsstukken over waaruit blijkt dat hij voldoet aan de voorwaarden van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), daaronder begrepen het ondernemingsplan. In het verzoek doet hij tevens opgave van het kantoor of de kantoren waar hij als toegevoegd kandidaat-gerechtsdeurwaarder werkzaam is geweest.
 
 2. Onze Minister zendt een afschrift van het verzoek met de bijlagen aan het bestuur van de KBvG met het verzoek hem uiterlijk binnen drie maanden in kennis te stellen van eventuele aan haar bekende feiten of omstandigheden, welke naar haar oordeel tot weigering van het verzoek zouden kunnen leiden.
 
-3. Een benoeming kan uitsluitend worden geweigerd indien aan één of meer van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01) genoemde voorwaarden niet is voldaan of wanneer er, gelet op de antecedenten van de verzoeker, een gegronde vrees bestaat dat de kandidaat-gerechtsdeurwaarder zal handelen of nalaten in strijd met het bij of krachtens de wet bepaalde of anderszins het aanzien of de vervulling van het gerechtsdeurwaardersambt wordt geschaad of belemmerd. Een beschikking tot weigering van een benoeming wordt gegeven door Onze Minister.
+3. Een benoeming kan uitsluitend worden geweigerd indien aan één of meer van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01) genoemde voorwaarden niet is voldaan of wanneer er, gelet op de antecedenten van de verzoeker, een gegronde vrees bestaat dat de kandidaat-gerechtsdeurwaarder zal handelen of nalaten in strijd met het bij of krachtens de wet bepaalde of anderszins het aanzien of de vervulling van het gerechtsdeurwaardersambt wordt geschaad of belemmerd. Een beschikking tot weigering van een benoeming wordt gegeven door Onze Minister.
 
 4. Op het verzoek wordt beslist binnen vier maanden na ontvangst ervan.
 
 ##### Artikel 8
 
-In afwijking van [artikel 8:4, onderdeel d, van de Algemene wet bestuursrecht](onbekend) kan een belanghebbende tegen een besluit tot benoeming tot gerechtsdeurwaarder beroep instellen.
+In afwijking van [artikel 8:4, derde lid, onderdeel a, van de Algemene wet bestuursrecht](onbekend) kan een belanghebbende tegen een besluit tot benoeming tot gerechtsdeurwaarder beroep instellen.
 
 ##### Artikel 9
 
@@ -213,9 +213,9 @@ In afwijking van [artikel 8:4, onderdeel d, van de Algemene wet bestuursrecht](o
 
 1. De plaats van vestiging van een gerechtsdeurwaarder kan, met instemming van de betrokkene, door Onze Minister worden gewijzigd bij een beschikking waarbij tevens de datum van ingang wordt bepaald.
 
-2. De gerechtsdeurwaarder die zich in een andere plaats wenst te vestigen, richt daartoe een verzoek tot Onze Minister. Hij doet daarbij opgave van de gemeente waar hij voornemens is zich te vestigen. Bij dit verzoek legt hij een ondernemingsplan over als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), betrekking hebbend op de plaats waar hij voornemens is zich te vestigen, alsmede het advies, bedoeld in het tweede lid van dat artikel. [Artikel 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01), zijn van overeenkomstige toepassing.
+2. De gerechtsdeurwaarder die zich in een andere plaats wenst te vestigen, richt daartoe een verzoek tot Onze Minister. Hij doet daarbij opgave van de gemeente waar hij voornemens is zich te vestigen. Bij dit verzoek legt hij een ondernemingsplan over als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), betrekking hebbend op de plaats waar hij voornemens is zich te vestigen, alsmede het advies, bedoeld in het tweede lid van dat artikel. [Artikel 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
-3. Het verzoek kan uitsluitend worden geweigerd indien het bij het verzoek overgelegde ondernemingsplan niet voldoet aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01).
+3. Het verzoek kan uitsluitend worden geweigerd indien het bij het verzoek overgelegde ondernemingsplan niet voldoet aan de voorwaarden van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01).
 
 4. Indien de gerechtsdeurwaarder zich vestigt buiten het arrondissement waarin zijn plaats van vestiging is gelegen, is hij niet bevoegd zijn register en repertorium over te brengen naar de nieuwe plaats van vestiging.
 
@@ -231,7 +231,7 @@ De gerechtsdeurwaarder is te allen tijde verplicht in het gehele arrondissement 
 
 ##### Artikel 12
 
-1. Indien zich omstandigheden voordoen als bedoeld in [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01), treft de gerechtsdeurwaarder, voor zover dit in zijn vermogen ligt, de nodige maatregelen om te verzekeren dat desverlangd in het verrichten van de ambtshandelingen ter plaatse kan worden voorzien. De gerechtsdeurwaarder kan daartoe Onze Minister verzoeken, een waarnemer te benoemen. Hij kan daartoe een waarnemer aanbevelen.
+1. Indien zich omstandigheden voordoen als bedoeld in [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01), treft de gerechtsdeurwaarder, voor zover dit in zijn vermogen ligt, de nodige maatregelen om te verzekeren dat desverlangd in het verrichten van de ambtshandelingen ter plaatse kan worden voorzien. De gerechtsdeurwaarder kan daartoe Onze Minister verzoeken, een waarnemer te benoemen. Hij kan daartoe een waarnemer aanbevelen.
 
 2. Wanneer de gerechtsdeurwaarder gedurende meer dan dertig dagen verhinderd is zijn ambt te vervullen, stelt hij Onze Minister hiervan in kennis, onder mededeling van de maatregelen, bedoeld in het eerste lid, die hij heeft getroffen.
 
@@ -257,7 +257,7 @@ Alvorens over te gaan tot de executie van een executoriale titel tot ontruiming 
 
 1. De gerechtsdeurwaarder houdt een kantoor dat in zijn plaats van vestiging is gelegen. Hij is verplicht aldaar zijn register en repertorium te bewaren.
 
-2. Op verzoek van een gerechtsdeurwaarder kan Onze Minister, gehoord de Commissie van deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), hem toestaan om elders een nevenkantoor te vestigen.
+2. Op verzoek van een gerechtsdeurwaarder kan Onze Minister, gehoord de Commissie van deskundigen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), hem toestaan om elders een nevenkantoor te vestigen.
 
 #### Paragraaf 4. Administratie en boekhouding
 
@@ -265,7 +265,7 @@ Alvorens over te gaan tot de executie van een executoriale titel tot ontruiming 
 
 1. De gerechtsdeurwaarder is verplicht zowel ten aanzien van zijn werkzaamheden als zodanig als ten aanzien van zijn kantoorvermogen een administratie te voeren, waaruit te allen tijde op eenvoudige wijze zijn rechten en verplichtingen kunnen worden gekend. Hij is tevens verplicht ten aanzien van zijn privé-vermogen, daaronder mede begrepen het vermogen van een gemeenschap van goederen waarin hij is gehuwd of waarin hij een geregistreerd partnerschap is aangegaan, een administratie te voeren. De gerechtsdeurwaarder moet jaarlijks zowel ten aanzien van zijn kantoorvermogen als ten aanzien van zijn privé-vermogen een balans opmaken en, voor wat betreft de kantoorwerkzaamheden, een staat van baten en lasten.
 
-2. De administratie ten aanzien van zijn werkzaamheden als zodanig, bedoeld in het eerste lid, heeft betrekking op de ambtshandelingen alsmede op de andere werkzaamheden, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2014-01-01&g=2014-01-01), welke de gerechtsdeurwaarder verricht. De administratie met betrekking tot de ambtshandelingen omvat onder meer een register en een repertorium.
+2. De administratie ten aanzien van zijn werkzaamheden als zodanig, bedoeld in het eerste lid, heeft betrekking op de ambtshandelingen alsmede op de andere werkzaamheden, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2015-01-01&g=2015-01-01), welke de gerechtsdeurwaarder verricht. De administratie met betrekking tot de ambtshandelingen omvat onder meer een register en een repertorium.
 
 3. Het register omvat, in volgorde van dagtekening, de afschriften van de door de gerechtsdeurwaarder opgemaakte of ondertekende exploten, processen-verbaal, akten en verklaringen.
 
@@ -287,7 +287,7 @@ Alvorens over te gaan tot de executie van een executoriale titel tot ontruiming 
 
 2. De gerechtsdeurwaarder is verplicht van de tot zijn register behorende stukken, tegen betaling van de bij ministeriële regeling vast te stellen kosten, op hun verlangen expedities of uittreksels af te geven aan hen die ten tijde van het opmaken van de akte of de betekening daarvan, hetzij het origineel, hetzij een afschrift hebben ontvangen, of aan hun rechtsopvolgers onder algemene of bijzondere titel. In geval een derde-beslagene een elektronisch afschrift heeft ontvangen, geschiedt deze afgifte kosteloos. De expedities of uittreksels worden bij de afgifte daarvan als zodanig gewaarmerkt en door de gerechtsdeurwaarder die deze afgeeft gedagtekend en getekend.
 
-3. In geval van overlijden, een wijziging van de plaats van vestiging als bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01), dan wel ontslag, dragen de gerechtsdeurwaarder of zijn erfgenamen de tot de administratie behorende stukken die krachtens het eerste lid nog moeten worden bewaard, over aan de waarnemend gerechtsdeurwaarder of aan een door Onze Minister aan te wijzen bewaarder. Het tweede lid is van overeenkomstige toepassing op degene aan wie de stukken zijn overgedragen.
+3. In geval van overlijden, een wijziging van de plaats van vestiging als bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01), dan wel ontslag, dragen de gerechtsdeurwaarder of zijn erfgenamen de tot de administratie behorende stukken die krachtens het eerste lid nog moeten worden bewaard, over aan de waarnemend gerechtsdeurwaarder of aan een door Onze Minister aan te wijzen bewaarder. Het tweede lid is van overeenkomstige toepassing op degene aan wie de stukken zijn overgedragen.
 
 4. Het eerste lid is van overeenkomstige toepassing op de privé-administratie van de gerechtsdeurwaarder.
 
@@ -313,7 +313,7 @@ Alvorens over te gaan tot de executie van een executoriale titel tot ontruiming 
 
 ##### Artikel 20
 
-1. Andere werkzaamheden dan die, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01), verricht de gerechtsdeurwaarder slechts indien dit de goede en onafhankelijke vervulling van zijn ambt, dan wel het aanzien daarvan, niet schaadt of belemmert.
+1. Andere werkzaamheden dan die, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01), verricht de gerechtsdeurwaarder slechts indien dit de goede en onafhankelijke vervulling van zijn ambt, dan wel het aanzien daarvan, niet schaadt of belemmert.
 
 2. Met het oog op de belangen, bedoeld in het eerste lid, kunnen bij algemene maatregel van bestuur met betrekking tot het verrichten van bepaalde werkzaamheden regels worden gesteld.
 
@@ -323,13 +323,13 @@ Alvorens over te gaan tot de executie van een executoriale titel tot ontruiming 
 
 - b. het optreden als curator of bewindvoerder;
 
-- c. het innen van gelden voor derden, waarbij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=19&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing is;
+- c. het innen van gelden voor derden, waarbij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=19&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing is;
 
 - d. het verrichten van inventarisaties en taxaties;
 
 - e. het opmaken van een schriftelijke verklaring betreffende door de gerechtsdeurwaarder persoonlijk waargenomen feiten van stoffelijke aard;
 
-- f. de uitoefening van het veilinghoudersbedrijf, met dien verstande dat de ambtshandelingen, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2014-01-01&g=2014-01-01), daarin niet mogen worden uitgeoefend.
+- f. de uitoefening van het veilinghoudersbedrijf, met dien verstande dat de ambtshandelingen, bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01), daarin niet mogen worden uitgeoefend.
 
 #### Paragraaf 6. De declaratie
 
@@ -339,7 +339,7 @@ Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot het 
 
 ##### Artikel 22
 
-De gerechtsdeurwaarder is verplicht een rekening ter zake van een aan hem toevertrouwde zaak op te maken, waaruit duidelijk blijkt op welke wijze het in rekening gebrachte is berekend en of het betrekking heeft op ambtshandelingen of op andere werkzaamheden, als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2014-01-01&g=2014-01-01).
+De gerechtsdeurwaarder is verplicht een rekening ter zake van een aan hem toevertrouwde zaak op te maken, waaruit duidelijk blijkt op welke wijze het in rekening gebrachte is berekend en of het betrekking heeft op ambtshandelingen of op andere werkzaamheden, als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk III. Waarnemend gerechtsdeurwaarders, kandidaat-gerechtsdeurwaarders en toegevoegd kandidaat-gerechtsdeurwaarders
 
@@ -353,7 +353,7 @@ De gerechtsdeurwaarder is verplicht een rekening ter zake van een aan hem toever
 
 - a. een gerechtsdeurwaarder;
 
-- b. een persoon die voldoet aan de vereisten voor benoeming tot gerechtsdeurwaarder, met uitzondering van het vereiste van [artikel 5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01);
+- b. een persoon die voldoet aan de vereisten voor benoeming tot gerechtsdeurwaarder, met uitzondering van het vereiste van [artikel 5, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01);
 
 - c. in geval van ontslag wegens het bereiken van de leeftijd van zeventig jaar, de ontslagene zelf, doch niet voor langer dan één jaar.
 
@@ -381,13 +381,13 @@ De gerechtsdeurwaarder is verplicht een rekening ter zake van een aan hem toever
 
 1. Een waarnemend gerechtsdeurwaarder heeft dezelfde rechten en verplichtingen als een gerechtsdeurwaarder.
 
-2. Onverminderd het bepaalde in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01) en [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3a&z=2014-01-01&g=2014-01-01), is de waarnemend gerechtsdeurwaarder bevoegd een verzoek tot het verrichten van ambtshandelingen dat was gericht tot de waar te nemen gerechtsdeurwaarder of waarnemend gerechtsdeurwaarder, uit te voeren. Hij stelt verzoeker op de hoogte van de waarneming.
+2. Onverminderd het bepaalde in [artikel 3, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01) en [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3a&z=2015-01-01&g=2015-01-01), is de waarnemend gerechtsdeurwaarder bevoegd een verzoek tot het verrichten van ambtshandelingen dat was gericht tot de waar te nemen gerechtsdeurwaarder of waarnemend gerechtsdeurwaarder, uit te voeren. Hij stelt verzoeker op de hoogte van de waarneming.
 
 3. Het tweede lid is na beëindiging van de waarneming van overeenkomstige toepassing op de waargenomen gerechtsdeurwaarder met betrekking tot aan de waarnemend gerechtsdeurwaarder gerichte verzoeken tot het verrichten van ambtshandelingen.
 
 4. De waar te nemen gerechtsdeurwaarder verschaft de waarnemend gerechtsdeurwaarder toegang tot zijn administratie voor zover dit noodzakelijk is voor het vervullen van de waarneming.
 
-5. Bij waarneming in geval van ziekte of afwezigheid kan de waarnemend gerechtsdeurwaarder, in afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2014-01-01&g=2014-01-01), in overeenstemming met de waar te nemen gerechtsdeurwaarder diens administratie voortzetten.
+5. Bij waarneming in geval van ziekte of afwezigheid kan de waarnemend gerechtsdeurwaarder, in afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-01-01&g=2015-01-01), in overeenstemming met de waar te nemen gerechtsdeurwaarder diens administratie voortzetten.
 
 6. Na beëindiging van de waarneming is het vierde lid van overeenkomstige toepassing op de gewezen waarnemend gerechtsdeurwaarder ten opzichte van de waargenomen gerechtsdeurwaarder.
 
@@ -453,7 +453,7 @@ De gerechtsdeurwaarder is verplicht een rekening ter zake van een aan hem toever
 
 1. De toegevoegd kandidaat-gerechtsdeurwaarder kan namens en onder verantwoordelijkheid van de gerechtsdeurwaarder op wiens kantoor hij werkzaam is, de ambtshandelingen verrichten waartoe deze bevoegd is, met uitzondering van die waartoe de gerechtsdeurwaarder bevoegd is uit hoofde van een benoeming tot waarnemend gerechtsdeurwaarder.
 
-2. De [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=15&z=2014-01-01&g=2014-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder. [Artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=1&artikel=23&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder, met dien verstande dat de navolgende eed of belofte wordt afgelegd:
+2. De [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=13&z=2015-01-01&g=2015-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=3&artikel=15&z=2015-01-01&g=2015-01-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=5&artikel=20&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder. [Artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=1&artikel=23&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de toegevoegd kandidaat-gerechtsdeurwaarder, met dien verstande dat de navolgende eed of belofte wordt afgelegd:
 
 «Ik zweer (beloof) getrouwheid aan de Koning en de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840).»
 
@@ -477,7 +477,7 @@ Het toegevoegd kandidaat-gerechtsdeurwaarderschap eindigt door:
 
 - b. ontslag of overlijden van de gerechtsdeurwaarder die de aanwijzing heeft gedaan;
 
-- c. intrekking van de goedkeuring of het verstrijken van de termijn, waarvoor de goedkeuring was verleend, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=26&z=2014-01-01&g=2014-01-01);
+- c. intrekking van de goedkeuring of het verstrijken van de termijn, waarvoor de goedkeuring was verleend, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=III&paragraaf=2&artikel=26&z=2015-01-01&g=2015-01-01);
 
 - d. benoeming van de toegevoegd kandidaat-gerechtsdeurwaarder tot gerechtsdeurwaarder.
 
@@ -487,11 +487,11 @@ Het toegevoegd kandidaat-gerechtsdeurwaarderschap eindigt door:
 
 ##### Artikel 30
 
-Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2014-01-01&g=2014-01-01), [19, eerste lid, tweede lid, derde volzin, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=19&z=2014-01-01&g=2014-01-01), wordt uitgeoefend door het Bureau Financieel Toezicht, bedoeld in [artikel 110 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110). [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is niet van toepassing.
+Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of krachtens de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-01-01&g=2015-01-01), [19, eerste lid, tweede lid, derde volzin, en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=19&z=2015-01-01&g=2015-01-01), wordt uitgeoefend door het Bureau Financieel Toezicht, bedoeld in [artikel 110 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=110). [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is niet van toepassing.
 
 ##### Artikel 31
 
-1. De gerechtsdeurwaarder is verplicht de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2014-01-01&g=2014-01-01), bedoelde stukken, vergezeld van een verslag van het onderzoek daarover van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat voor wat betreft de jaarrekening van het kantoor ten minste een beoordelingskarakter draagt, binnen zes maanden na afloop van elk boekjaar in te dienen bij het Bureau.
+1. De gerechtsdeurwaarder is verplicht de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-01-01&g=2015-01-01), bedoelde stukken, vergezeld van een verslag van het onderzoek daarover van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat voor wat betreft de jaarrekening van het kantoor ten minste een beoordelingskarakter draagt, binnen zes maanden na afloop van elk boekjaar in te dienen bij het Bureau.
 
 2. Het Bureau kan van de gerechtsdeurwaarder verlangen dat hij inzage verschaft in zijn kantoor- en privé-administratie en de daarmee verband houdende bescheiden, de balansen, de staten van baten en lasten, het register en het repertorium. Het Bureau kan verlangen dat de gerechtsdeurwaarder een afschrift van deze stukken verstrekt.
 
@@ -499,13 +499,13 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 1. Indien het Bureau bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die naar zijn oordeel grond opleveren tot het opleggen van een tuchtmaatregel, brengt het zijn bevindingen, desgeraden in de vorm van een klacht, ter kennis van de voorzitter van de kamer voor gerechtsdeurwaarders.
 
-2. Het Bureau is belast met het doen van elk onderzoek naar de kantoor- en privé-administratie van de gerechtsdeurwaarder waartoe de voorzitter van de kamer van gerechtsdeurwaarders overeenkomstig [artikel 34, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01), opdracht geeft.
+2. Het Bureau is belast met het doen van elk onderzoek naar de kantoor- en privé-administratie van de gerechtsdeurwaarder waartoe de voorzitter van de kamer van gerechtsdeurwaarders overeenkomstig [artikel 34, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01), opdracht geeft.
 
 ##### Artikel 33
 
-1. Het Bureau verschaft aan de Commissie van deskundigen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), desverlangd inlichtingen in verband met het onderzoek van het ondernemingsplan.
+1. Het Bureau verschaft aan de Commissie van deskundigen, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), desverlangd inlichtingen in verband met het onderzoek van het ondernemingsplan.
 
-2. Het bestuur van de KBvG is verplicht toegevoegd kandidaat-gerechtsdeurwaarders, in verband met het opstellen van een ondernemingsplan als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), desverlangd inlichtingen te verschaffen over door gerechtsdeurwaarders verrichte ambtshandelingen. Bij algemene maatregel van bestuur kan worden bepaald dat het Bureau het bestuur van de KBvG de hiervoor benodigde gegevens verstrekt.
+2. Het bestuur van de KBvG is verplicht toegevoegd kandidaat-gerechtsdeurwaarders, in verband met het opstellen van een ondernemingsplan als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), desverlangd inlichtingen te verschaffen over door gerechtsdeurwaarders verrichte ambtshandelingen. Bij algemene maatregel van bestuur kan worden bepaald dat het Bureau het bestuur van de KBvG de hiervoor benodigde gegevens verstrekt.
 
 #### Paragraaf 2. Tuchtrechtspraak
 
@@ -517,7 +517,7 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 3. De tuchtrechtspraak wordt in hoger beroep uitgeoefend door het gerechtshof Amsterdam. Tegen beslissingen van het gerechtshof is geen hogere voorziening toegelaten, behoudens cassatie in het belang der wet.
 
-4. Een lid dan wel plaatsvervangend lid van de kamer voor gerechtsdeurwaarders die gerechtsdeurwaarder is, wordt ingeval tegen hem een klacht is ingediend onderscheidenlijk een verzoek is gedaan als bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=37&z=2014-01-01&g=2014-01-01), vervangen door een door de president van het gerechtshof Amsterdam aan te wijzen ander lid dan wel plaatsvervangend lid, door Onze Minister benoemd op grond van [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2014-01-01&g=2014-01-01).
+4. Een lid dan wel plaatsvervangend lid van de kamer voor gerechtsdeurwaarders die gerechtsdeurwaarder is, wordt ingeval tegen hem een klacht is ingediend onderscheidenlijk een verzoek is gedaan als bedoeld in [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=37&z=2015-01-01&g=2015-01-01), vervangen door een door de president van het gerechtshof Amsterdam aan te wijzen ander lid dan wel plaatsvervangend lid, door Onze Minister benoemd op grond van [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2015-01-01&g=2015-01-01).
 
 5. De gerechtsdeurwaarder blijft in geval van schorsing of ontslag aan de tuchtrechtspraak onderworpen ter zake van enig handelen of nalaten als bedoeld in het eerste lid, gedurende de tijd dat hij als deurwaarder werkzaam was.
 
@@ -563,7 +563,7 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 ##### Artikel 37
 
-1. Aan de behandeling en de beslissing van tuchtzaken wordt op straffe van nietigheid deelgenomen door ten minste twee leden of plaatsvervangende leden, onder wie de voorzitter of de plaatsvervangend voorzitter, door Onze Minister benoemd op grond van [artikel 35, tweede lid, en een lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2014-01-01&g=2014-01-01) of plaatsvervangend lid, door Onze Minister benoemd op grond van [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2014-01-01&g=2014-01-01).
+1. Aan de behandeling en de beslissing van tuchtzaken wordt op straffe van nietigheid deelgenomen door ten minste twee leden of plaatsvervangende leden, onder wie de voorzitter of de plaatsvervangend voorzitter, door Onze Minister benoemd op grond van [artikel 35, tweede lid, en een lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2015-01-01&g=2015-01-01) of plaatsvervangend lid, door Onze Minister benoemd op grond van [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=35&z=2015-01-01&g=2015-01-01).
 
 2. De kamer voor gerechtsdeurwaarders neemt een tegen een gerechtsdeurwaarder gerezen bezwaar in behandeling hetzij op verzoek van Onze Minister, hetzij op een bij de kamer ingediende klacht. Een verzoek van Onze Minister of een klacht wordt schriftelijk en met redenen omkleed ingediend bij de voorzitter van de kamer voor gerechtsdeurwaarders. Indien de klager daarom verzoekt, is de secretaris hem behulpzaam bij het op schrift stellen van de klacht.
 
@@ -579,13 +579,13 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 ##### Artikel 38
 
-1. De kamer voor gerechtsdeurwaarders is bevoegd, al dan niet op verzoek van Onze Minister, een gerechtsdeurwaarder tegen wie een ernstig vermoeden is gerezen dat hij een van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01), bedoelde handelingen of verzuimen heeft gepleegd, in afwachting van een beslissing hierover te schorsen voor een periode van ten hoogste zes maanden. Zij kan deze periode eenmaal verlengen voor ten hoogste zes maanden of totdat een beslissing tot voordracht tot ontslag onherroepelijk is geworden. De kamer voor gerechtsdeurwaarders kan steeds de schorsing opheffen.
+1. De kamer voor gerechtsdeurwaarders is bevoegd, al dan niet op verzoek van Onze Minister, een gerechtsdeurwaarder tegen wie een ernstig vermoeden is gerezen dat hij een van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01), bedoelde handelingen of verzuimen heeft gepleegd, in afwachting van een beslissing hierover te schorsen voor een periode van ten hoogste zes maanden. Zij kan deze periode eenmaal verlengen voor ten hoogste zes maanden of totdat een beslissing tot voordracht tot ontslag onherroepelijk is geworden. De kamer voor gerechtsdeurwaarders kan steeds de schorsing opheffen.
 
 2. De secretaris van de kamer voor gerechtsdeurwaarders stelt Onze Minister en de betrokken gerechtsdeurwaarder onverwijld in kennis van een schorsing als bedoeld in het eerste lid en van een beslissing tot verlenging dan wel de opheffing daarvan.
 
 3. Over het voornemen tot schorsing wordt de betrokken gerechtsdeurwaarder gehoord.
 
-4. Ingeval de kamer voor gerechtsdeurwaarders naar aanleiding van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01), bedoelde handelingen of verzuimen beslist tot het opleggen van een schorsing gedurende een bepaalde termijn, kan zij de periode van schorsing ingevolge het eerste lid in mindering brengen op die termijn.
+4. Ingeval de kamer voor gerechtsdeurwaarders naar aanleiding van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01), bedoelde handelingen of verzuimen beslist tot het opleggen van een schorsing gedurende een bepaalde termijn, kan zij de periode van schorsing ingevolge het eerste lid in mindering brengen op die termijn.
 
 5. Het eerste lid is van overeenkomstige toepassing indien tegen een gerechtsdeurwaarder een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het uitoefenen van het ambt van gerechtsdeurwaarder raakt.
 
@@ -603,7 +603,7 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 ##### Artikel 40
 
-1. Indien [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=39&z=2014-01-01&g=2014-01-01), geen toepassing vindt of het verzet gegrond is verklaard, zendt de secretaris zo spoedig mogelijk een afschrift van het klaagschrift en de daarbij gevoegde bescheiden aan de betrokken gerechtsdeurwaarder.
+1. Indien [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=39&z=2015-01-01&g=2015-01-01), geen toepassing vindt of het verzet gegrond is verklaard, zendt de secretaris zo spoedig mogelijk een afschrift van het klaagschrift en de daarbij gevoegde bescheiden aan de betrokken gerechtsdeurwaarder.
 
 2. Binnen een maand na dagtekening van de verzending van de in het eerste lid bedoelde bescheiden kan de betrokken gerechtsdeurwaarder een verweerschrift indienen; de voorzitter kan deze termijn op verzoek verlengen. De secretaris zendt afschrift van dit geschrift aan de klager.
 
@@ -647,7 +647,7 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 - a. een berisping;
 
-- b. een berisping met de aanzegging dat, indien andermaal door hem een van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01), bedoelde handelingen of verzuimen wordt gepleegd, een geldboete, schorsing of ontzetting uit het ambt zal worden overwogen;
+- b. een berisping met de aanzegging dat, indien andermaal door hem een van de in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01), bedoelde handelingen of verzuimen wordt gepleegd, een geldboete, schorsing of ontzetting uit het ambt zal worden overwogen;
 
 - c. een geldboete van de derde categorie;
 
@@ -655,7 +655,7 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 - e. ontzetting uit het ambt.
 
-3. Bij de beslissing tot oplegging van een maatregel als bedoeld in het tweede lid kan worden bepaald dat deze wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2014-01-01&g=2014-01-01), beschermd belang dat vordert.
+3. Bij de beslissing tot oplegging van een maatregel als bedoeld in het tweede lid kan worden bepaald dat deze wordt openbaar gemaakt op een daarbij voorgeschreven wijze, indien enig door [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=34&z=2015-01-01&g=2015-01-01), beschermd belang dat vordert.
 
 4. Tot de tenuitvoerlegging van een maatregel wordt eerst overgegaan na het onherroepelijk worden van de beslissing of op een in de beslissing bepaald later tijdstip.
 
@@ -665,11 +665,11 @@ Het toezicht op de naleving door de gerechtsdeurwaarder van het bepaalde bij of 
 
 ##### Artikel 44
 
-De [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2014-01-01&g=2014-01-01) zijn van overeenkomstige toepassing op de behandeling van een bezwaar tegen een gerechtsdeurwaarder op verzoek van Onze Minister.
+De [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op de behandeling van een bezwaar tegen een gerechtsdeurwaarder op verzoek van Onze Minister.
 
 ##### Artikel 45
 
-1. Tegen een beslissing van de kamer voor gerechtsdeurwaarders inzake een tegen een gerechtsdeurwaarder gerezen bezwaar kan door Onze Minister, de betrokken gerechtsdeurwaarder of de klager binnen dertig dagen na dagtekening van de schriftelijke kennisgeving, bedoeld in [artikel 43, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2014-01-01&g=2014-01-01), bij met redenen omkleed beroepschrift, hoger beroep worden ingesteld bij het gerechtshof Amsterdam.
+1. Tegen een beslissing van de kamer voor gerechtsdeurwaarders inzake een tegen een gerechtsdeurwaarder gerezen bezwaar kan door Onze Minister, de betrokken gerechtsdeurwaarder of de klager binnen dertig dagen na dagtekening van de schriftelijke kennisgeving, bedoeld in [artikel 43, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2015-01-01&g=2015-01-01), bij met redenen omkleed beroepschrift, hoger beroep worden ingesteld bij het gerechtshof Amsterdam.
 
 2. Het beroepschrift wordt ingediend bij de griffier van het gerechtshof tezamen met een authentiek afschrift van de beslissing waartegen het beroep is gericht.
 
@@ -693,7 +693,7 @@ De [artikelen 40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&
 
 ##### Artikel 47
 
-Op de behandeling van het hoger beroep zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2014-01-01&g=2014-01-01), en [41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing.
+Op de behandeling van het hoger beroep zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2015-01-01&g=2015-01-01), en [41 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 48
 
@@ -713,7 +713,7 @@ Het bepaalde in dit hoofdstuk ten aanzien van een gerechtsdeurwaarder is van ove
 
 - a. waarnemend gerechtsdeurwaarder met dien verstande dat, ingeval jegens hem een bezwaar geheel of gedeeltelijk gegrond wordt verklaard, hij tevens als waarnemer in de uitoefening van het ambt kan worden geschorst voor bepaalde duur.
 
-- b. toegevoegd kandidaat-gerechtsdeurwaarder, met dien verstande dat, ingeval jegens hem een bezwaar geheel of gedeeltelijk gegrond wordt verklaard, aan hem de tuchtmaatregelen, bedoeld in [artikel 43, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2014-01-01&g=2014-01-01), kunnen worden opgelegd.
+- b. toegevoegd kandidaat-gerechtsdeurwaarder, met dien verstande dat, ingeval jegens hem een bezwaar geheel of gedeeltelijk gegrond wordt verklaard, aan hem de tuchtmaatregelen, bedoeld in [artikel 43, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2015-01-01&g=2015-01-01), kunnen worden opgelegd.
 
 ### Hoofdstuk V. Schorsing en ontslag
 
@@ -745,7 +745,7 @@ Een gerechtsdeurwaarder of waarnemend gerechtsdeurwaarder is van rechtswege gesc
 
 - a. op zijn verzoek;
 
-- b. op een onherroepelijk geworden beslissing tot ontzetting uit het ambt als bedoeld in [artikel 43, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2014-01-01&g=2014-01-01);
+- b. op een onherroepelijk geworden beslissing tot ontzetting uit het ambt als bedoeld in [artikel 43, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=43&z=2015-01-01&g=2015-01-01);
 
 - c. bij verlies van het Nederlanderschap.
 
@@ -765,11 +765,11 @@ Een gerechtsdeurwaarder of waarnemend gerechtsdeurwaarder is van rechtswege gesc
 
 ##### Artikel 53
 
-1. Tegen een besluit tot ontslag als bedoeld in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2014-01-01&g=2014-01-01), kan de gerechtsdeurwaarder binnen één maand na dagtekening van het besluit, bij met redenen omkleed geschrift, in te dienen bij de secretaris van de kamer voor gerechtsdeurwaarders, beroep instellen bij de kamer voor gerechtsdeurwaarders, op grond dat dit onrechtmatig is verleend.
+1. Tegen een besluit tot ontslag als bedoeld in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2015-01-01&g=2015-01-01), kan de gerechtsdeurwaarder binnen één maand na dagtekening van het besluit, bij met redenen omkleed geschrift, in te dienen bij de secretaris van de kamer voor gerechtsdeurwaarders, beroep instellen bij de kamer voor gerechtsdeurwaarders, op grond dat dit onrechtmatig is verleend.
 
 2. De secretaris van de kamer voor gerechtsdeurwaarders doet Onze Minister onverwijld een afschrift toekomen van het beroepschrift.
 
-3. Op de behandeling van het beroepschrift zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2014-01-01&g=2014-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2014-01-01&g=2014-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=42&z=2014-01-01&g=2014-01-01) van toepassing. [Hoofdstuk 6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) vindt geen toepassing.
+3. Op de behandeling van het beroepschrift zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2015-01-01&g=2015-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2015-01-01&g=2015-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=42&z=2015-01-01&g=2015-01-01) van toepassing. [Hoofdstuk 6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) vindt geen toepassing.
 
 4. De kamer voor gerechtsdeurwaarders verklaart het beroep niet-ontvankelijk, ongegrond of gegrond. Bij gegrondverklaring vernietigt zij het besluit waartegen het beroep was ingesteld. De beslissing van de kamer is met redenen omkleed.
 
@@ -777,15 +777,15 @@ Een gerechtsdeurwaarder of waarnemend gerechtsdeurwaarder is van rechtswege gesc
 
 ##### Artikel 54
 
-1. Binnen een maand na dagtekening van de kennisgeving, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=53&z=2014-01-01&g=2014-01-01), kunnen de betrokken gerechtsdeurwaarder en Onze Minister bij met redenen omkleed geschrift, in te dienen bij de griffier, tegen de beslissing van de kamer voor gerechtsdeurwaarders hoger beroep instellen bij het gerechtshof Amsterdam.
+1. Binnen een maand na dagtekening van de kennisgeving, bedoeld in [artikel 53, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=53&z=2015-01-01&g=2015-01-01), kunnen de betrokken gerechtsdeurwaarder en Onze Minister bij met redenen omkleed geschrift, in te dienen bij de griffier, tegen de beslissing van de kamer voor gerechtsdeurwaarders hoger beroep instellen bij het gerechtshof Amsterdam.
 
-2. Op de behandeling van het hoger beroep zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2014-01-01&g=2014-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2014-01-01&g=2014-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=42&z=2014-01-01&g=2014-01-01), [45, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=45&z=2014-01-01&g=2014-01-01), en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=46&z=2014-01-01&g=2014-01-01) van overeenkomstige toepassing. [Hoofdstuk 6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) vindt geen toepassing.
+2. Op de behandeling van het hoger beroep zijn de [artikelen 40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=40&z=2015-01-01&g=2015-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=41&z=2015-01-01&g=2015-01-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=42&z=2015-01-01&g=2015-01-01), [45, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=45&z=2015-01-01&g=2015-01-01), en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=46&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing. [Hoofdstuk 6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) vindt geen toepassing.
 
-3. Het gerechtshof bevestigt de beslissing van de kamer voor gerechtsdeurwaarders, hetzij met overneming, hetzij met verbetering van de gronden, of doet met gehele of gedeeltelijke vernietiging van de beslissing, hetgeen de kamer voor gerechtsdeurwaarders had behoren te doen. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=48&z=2014-01-01&g=2014-01-01) is van overeenkomstige toepassing.
+3. Het gerechtshof bevestigt de beslissing van de kamer voor gerechtsdeurwaarders, hetzij met overneming, hetzij met verbetering van de gronden, of doet met gehele of gedeeltelijke vernietiging van de beslissing, hetgeen de kamer voor gerechtsdeurwaarders had behoren te doen. [Artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=IV&paragraaf=2&artikel=48&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 55
 
-Een besluit tot ontslag als bedoeld in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2014-01-01&g=2014-01-01), treedt niet in werking voordat het onherroepelijk is geworden.
+Een besluit tot ontslag als bedoeld in [artikel 52, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2015-01-01&g=2015-01-01), treedt niet in werking voordat het onherroepelijk is geworden.
 
 ### Hoofdstuk VI. De Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders
 
@@ -813,7 +813,7 @@ De KBvG houdt een bureau in stand, dat het bestuur bijstaat in de uitoefening va
 
 ##### Artikel 60
 
-1. Het bestuur is belast met de algemene leiding van de KBvG en met de uitoefening van haar in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=57&z=2014-01-01&g=2014-01-01) omschreven taken, alsmede met het beheer en de beschikking over haar vermogen. Het geeft voorts algemene leiding aan het bureau van de KBvG en regelt zijn werkzaamheid.
+1. Het bestuur is belast met de algemene leiding van de KBvG en met de uitoefening van haar in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=57&z=2015-01-01&g=2015-01-01) omschreven taken, alsmede met het beheer en de beschikking over haar vermogen. Het geeft voorts algemene leiding aan het bureau van de KBvG en regelt zijn werkzaamheid.
 
 2. De medewerkers van het bureau worden aangesteld op een arbeidsovereenkomst naar burgerlijk recht.
 
@@ -857,7 +857,7 @@ De ledenraad overlegt met het bestuur over de voorstellen van verordeningen van 
 
 ##### Artikel 67
 
-1. De ledenraad benoemt het bestuur van de KBvG en kan, met inachtneming van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=2&artikel=61&z=2014-01-01&g=2014-01-01), het aantal der leden daarvan bepalen. De ledenraad benoemt de voorzitter en zijn plaatsvervanger uit de leden van het bestuur voor een termijn van drie jaren.
+1. De ledenraad benoemt het bestuur van de KBvG en kan, met inachtneming van [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=2&artikel=61&z=2015-01-01&g=2015-01-01), het aantal der leden daarvan bepalen. De ledenraad benoemt de voorzitter en zijn plaatsvervanger uit de leden van het bestuur voor een termijn van drie jaren.
 
 2. Het lidmaatschap van het bestuur is niet verenigbaar met het lidmaatschap van de ledenraad.
 
@@ -877,7 +877,7 @@ De leden van de ledenraad kunnen door de algemene vergadering worden geschorst o
 
 ##### Artikel 71
 
-Het bestuur van de KBvG roept de ledenraad tenminste een maal per jaar bijeen om te beraadslagen over de in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=69&z=2014-01-01&g=2014-01-01) bedoelde stukken. Andere vergaderingen worden bijeen geroepen zo dikwijls als het bestuur zulks nodig acht en voorts indien ten minste zes leden van de raad het bestuur schriftelijk daarom verzoeken, met opgave van de te behandelen onderwerpen.
+Het bestuur van de KBvG roept de ledenraad tenminste een maal per jaar bijeen om te beraadslagen over de in [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=69&z=2015-01-01&g=2015-01-01) bedoelde stukken. Andere vergaderingen worden bijeen geroepen zo dikwijls als het bestuur zulks nodig acht en voorts indien ten minste zes leden van de raad het bestuur schriftelijk daarom verzoeken, met opgave van de te behandelen onderwerpen.
 
 ##### Artikel 72
 
@@ -901,7 +901,7 @@ De vergadering van de algemene ledenvergadering is openbaar. Er wordt met geslot
 
 ##### Artikel 76
 
-De algemene ledenvergadering beraadslaagt en beslist zonodig over het verslag van de werkzaamheden van het bestuur van de KBvG, alsmede over de financiële verantwoording, het verslag van de accountant, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=5&artikel=79&z=2014-01-01&g=2014-01-01), de ontwerp-begroting voor het komende jaar en de daarbij behorende toelichtingen alsmede de over deze stukken door de ledenraad uitgebrachte adviezen.
+De algemene ledenvergadering beraadslaagt en beslist zonodig over het verslag van de werkzaamheden van het bestuur van de KBvG, alsmede over de financiële verantwoording, het verslag van de accountant, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=5&artikel=79&z=2015-01-01&g=2015-01-01), de ontwerp-begroting voor het komende jaar en de daarbij behorende toelichtingen alsmede de over deze stukken door de ledenraad uitgebrachte adviezen.
 
 ##### Artikel 77
 
@@ -949,7 +949,7 @@ Het voorstel van een verordening, wordt met een toelichting ten minste twee maan
 
 ##### Artikel 83
 
-Besluiten van de ledenraad, van het bestuur of van andere organen van de KBvG, niet zijnde een verordening die op grond van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=6&artikel=82&z=2014-01-01&g=2014-01-01) rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd [artikel 10:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:39) kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekend gemaakt.
+Besluiten van de ledenraad, van het bestuur of van andere organen van de KBvG, niet zijnde een verordening die op grond van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=6&artikel=82&z=2015-01-01&g=2015-01-01) rechtsgeldig tot stand is gekomen, kunnen bij koninklijk besluit worden vernietigd. Onverminderd [artikel 10:39 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:39) kan een besluit niet worden vernietigd, indien zes maanden zijn verstreken nadat het is bekend gemaakt.
 
 #### Paragraaf 7. Overige bepalingen
 
@@ -993,17 +993,17 @@ Wijzigt de Ambtenarenwet.
 
 ##### Artikel 92
 
-Onverminderd de mogelijkheid van ontslag om andere redenen worden gerechtsdeurwaarders die op het tijdstip van inwerkingtreding van deze wet zijn benoemd, in afwijking van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2014-01-01&g=2014-01-01), zoals dat luidde op het moment waarop het in werking trad, gedurende tien jaren na inwerkingtreding van deze wet van rechtswege ontslag verleend op de eerste dag van de maand volgend op die waarin zij de leeftijd van 70 jaren hebben bereikt.
+Onverminderd de mogelijkheid van ontslag om andere redenen worden gerechtsdeurwaarders die op het tijdstip van inwerkingtreding van deze wet zijn benoemd, in afwijking van [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=V&artikel=52&z=2015-01-01&g=2015-01-01), zoals dat luidde op het moment waarop het in werking trad, gedurende tien jaren na inwerkingtreding van deze wet van rechtswege ontslag verleend op de eerste dag van de maand volgend op die waarin zij de leeftijd van 70 jaren hebben bereikt.
 
 ##### Artikel 93
 
 1. De vereniging genaamd Koninklijke Vereniging van Gerechtsdeurwaarders en gevestigd te Amsterdam wordt van rechtswege ontbonden op het tijdstip van inwerkingtreding van deze wet en wordt van rechtswege onder algemene titel opgevolgd door de KBvG. Het bestuur van de KBvG is bevoegd tot het nemen van alle maatregelen en beslissingen die uit de rechtsopvolging voortvloeien.
 
-2. Onze Minister wijst, na daarover het gevoelen van de Koninklijke Vereniging van Gerechtsdeurwaarders te hebben ingewonnen, de personen aan die na de inwerkingtreding van de wet als voorzitter of als lid zitting hebben in het bestuur van de KBvG en de ledenraad voor een termijn van ten hoogste negentig dagen. Binnen die termijn geeft de ledenraad uitvoering aan [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=67&z=2014-01-01&g=2014-01-01), en geeft de algemene ledenvergadering uitvoering aan [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=63&z=2014-01-01&g=2014-01-01).
+2. Onze Minister wijst, na daarover het gevoelen van de Koninklijke Vereniging van Gerechtsdeurwaarders te hebben ingewonnen, de personen aan die na de inwerkingtreding van de wet als voorzitter of als lid zitting hebben in het bestuur van de KBvG en de ledenraad voor een termijn van ten hoogste negentig dagen. Binnen die termijn geeft de ledenraad uitvoering aan [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=67&z=2015-01-01&g=2015-01-01), en geeft de algemene ledenvergadering uitvoering aan [artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=63&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 94
 
-Onze Minister kan de verordeningen als bedoeld in de [artikelen 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2014-01-01&g=2014-01-01), [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=57&z=2014-01-01&g=2014-01-01), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=73&z=2014-01-01&g=2014-01-01), voor de eerste maal als ministeriële regeling vaststellen, voor zover deze, naar het oordeel van Onze Minister, op de datum van inwerkingtreding van deze artikelen, in werking dienen te treden. Zij blijven, behoudens eerdere intrekking door Onze Minister, van kracht totdat zij bij verordening zijn ingetrokken en vervangen.
+Onze Minister kan de verordeningen als bedoeld in de [artikelen 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=II&paragraaf=4&artikel=17&z=2015-01-01&g=2015-01-01), [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=1&artikel=57&z=2015-01-01&g=2015-01-01), en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&hoofdstuk=VI&paragraaf=3&artikel=73&z=2015-01-01&g=2015-01-01), voor de eerste maal als ministeriële regeling vaststellen, voor zover deze, naar het oordeel van Onze Minister, op de datum van inwerkingtreding van deze artikelen, in werking dienen te treden. Zij blijven, behoudens eerdere intrekking door Onze Minister, van kracht totdat zij bij verordening zijn ingetrokken en vervangen.
 
 ##### Artikel 95
 
