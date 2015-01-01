@@ -4,7 +4,7 @@ identifier: "BWBR0033111"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2013-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033111"
 soort: "ministeriele-regeling"
@@ -56,7 +56,7 @@ De kostenvergoeding bedoeld in [artikel 48, tweede lid, van het Besluit justiti�
 
 ##### Artikel 3
 
-De vergoeding bedoeld in [artikel 9, eerste lid, van het Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&artikel=9) bedraagt € 147,50.
+De vergoeding bedoeld in [artikel 9, eerste lid, van het Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919&artikel=9) bedraagt € 100,00;
 
 ##### Artikel 4
 
