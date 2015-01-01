@@ -4,7 +4,7 @@ identifier: "BWBR0037456"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037456"
 soort: "wet"
@@ -84,7 +84,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XIII
 
