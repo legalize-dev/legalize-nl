@@ -4,7 +4,7 @@ identifier: "BWBR0035827"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2014-11-29"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035827"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2014-11-29"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Regeling zorgverzekering.
 
 ##### Artikel II
 
@@ -46,9 +46,9 @@ Het in [artikel 6.3.1, eerste lid, van de Regeling zorgverzekering](https://wett
 
 ##### Artikel III
 
-1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035827&artikel=I&z=2014-11-29&g=2014-11-29) van deze regeling treedt in werking met ingang van 1 januari 2015.
+1. [Artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035827&artikel=I&z=2015-01-01&g=2015-01-01) van deze regeling treedt in werking met ingang van 1 januari 2015.
 
-2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035827&artikel=II&z=2014-11-29&g=2014-11-29) van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2012.
+2. [Artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0035827&artikel=II&z=2015-01-01&g=2015-01-01) van deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en werkt terug tot en met 1 januari 2012.
 
 Gelet op [artikel 69, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69) en [artikel 3, tweede lid, Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=3);
 
