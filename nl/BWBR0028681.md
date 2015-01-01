@@ -4,7 +4,7 @@ identifier: "BWBR0028681"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-07-01"
-last_updated: "2010-12-15"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028681"
 soort: "wet-BES"
@@ -55,11 +55,11 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 - **gezagvoerder van een luchtvaartuig:** elke gezagvoerder van een Nederlands burgerlijk luchtvaartuig of degene die deze vervangt;
 
-- **Hof van Justitie en Hof:** Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in [artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=14);
+- **Hof van Justitie en Hof:** Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in [artikel 15, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&artikel=15);
 
 - **huiszoeking:** het gericht en stelselmatig onderzoeken van een plaats als bedoeld in de [artikelen 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=144) en [145 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=145), op de aanwezigheid van voor inbeslagneming vatbare voorwerpen;
 
-- **hulpofficieren van justitie:** de in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=191&z=2010-12-15&g=2010-12-15) bedoelde personen;
+- **hulpofficieren van justitie:** de in [artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=191&z=2015-01-01&g=2015-01-01) bedoelde personen;
 
 - **inbeslagneming:** het onder zich nemen of gaan houden van voorwerpen of vorderingen ten behoeve van de strafvordering;
 
@@ -67,7 +67,7 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 - **Nederlands schip:** hetgeen daaronder wordt verstaan in [artikel 88 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=88);
 
-- **opsporingsambtenaren:** alle personen die overeenkomstig de [artikelen 184](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2010-12-15&g=2010-12-15) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2010-12-15&g=2010-12-15) met de opsporing van strafbare feiten zijn belast, alsmede de leden van het openbaar ministerie, indien zij van hun opsporingsbevoegdheid gebruik maken;
+- **opsporingsambtenaren:** alle personen die overeenkomstig de [artikelen 184](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2015-01-01&g=2015-01-01) en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2015-01-01&g=2015-01-01) met de opsporing van strafbare feiten zijn belast, alsmede de leden van het openbaar ministerie, indien zij van hun opsporingsbevoegdheid gebruik maken;
 
 - **opsporingsonderzoek:** het onderzoek in verband met strafbare feiten onder gezag van de officier met als doel het nemen van strafvorderlijke beslissingen;
 
@@ -135,7 +135,7 @@ Ontdekking op heterdaad heeft plaats, wanneer het strafbare feit ontdekt wordt, 
 
 ##### Artikel 7
 
-Bij de beantwoording van de vraag of een zaak al dan niet is geëindigd, wordt het rechtsgevolg, bij [artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2010-12-15&g=2010-12-15) aan het bekend worden van nieuwe bezwaren verbonden, buiten beschouwing gelaten.
+Bij de beantwoording van de vraag of een zaak al dan niet is geëindigd, wordt het rechtsgevolg, bij [artikel 282](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2015-01-01&g=2015-01-01) aan het bekend worden van nieuwe bezwaren verbonden, buiten beschouwing gelaten.
 
 ##### Artikel 8
 
@@ -191,7 +191,7 @@ Is de klager kennelijk niet ontvankelijk of het beklag kennelijk ongegrond, dan 
 
 ##### Artikel 18
 
-1. Het Hof beslist niet alvorens de klager te hebben gehoord, althans behoorlijk daartoe te hebben opgeroepen, behoudens in het geval van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=17&z=2010-12-15&g=2010-12-15).
+1. Het Hof beslist niet alvorens de klager te hebben gehoord, althans behoorlijk daartoe te hebben opgeroepen, behoudens in het geval van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=17&z=2015-01-01&g=2015-01-01).
 
 2. Het oproepen van de klager kan ook achterwege blijven, wanneer door hem ter zake van hetzelfde feit reeds eerder beklag is gedaan, tenzij door de klager nieuwe omstandigheden zijn aangevoerd die, waren zij het Hof bekend geweest, tot een andere beslissing op dat eerdere beklag hadden kunnen leiden.
 
@@ -201,13 +201,13 @@ Is de klager kennelijk niet ontvankelijk of het beklag kennelijk ongegrond, dan 
 
 1. Het Hof kan de persoon wiens vervolging wordt verlangd oproepen ten einde hem in de gelegenheid te stellen opmerkingen te maken over het in het beklag gedane verzoek en de gronden waarop dat berust. De oproeping gaat vergezeld van een afschrift van het klaagschrift of bevat een aanduiding van het feit waarop het beklag betrekking heeft.
 
-2. Een bevel, als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2010-12-15&g=2010-12-15), wordt niet gegeven dan nadat de persoon wiens vervolging wordt verlangd door het Hof is gehoord, althans behoorlijk daartoe is opgeroepen.
+2. Een bevel, als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2015-01-01&g=2015-01-01), wordt niet gegeven dan nadat de persoon wiens vervolging wordt verlangd door het Hof is gehoord, althans behoorlijk daartoe is opgeroepen.
 
 ##### Artikel 20
 
 1. De klager en de persoon wiens vervolging wordt verlangd kunnen zich in raadkamer doen bijstaan door een advocaat. Zij kunnen zich doen vertegenwoordigen door een advocaat, indien deze verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of door een daartoe bij bijzondere volmacht schriftelijk gemachtigde.Van deze bevoegdheid, alsmede van de mogelijkheid om toevoeging van een advocaat te verzoeken, wordt hun in de oproeping mededeling gedaan.
 
-2. De voorzitter van het Hof staat, behoudens in het geval van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=17&z=2010-12-15&g=2010-12-15), de klager en de persoon wiens vervolging wordt verlangd, alsmede hun advocaten of gemachtigden toe van de op de zaak betrekking hebbende stukken kennis te nemen, indien daarom wordt verzocht. Kennisneming geschiedt op de wijze door de voorzitter te bepalen. De voorzitter kan, ambtshalve of op de vordering van de procureur-generaal, bepaalde stukken van kennisneming uitzonderen in het belang van de bescherming van de persoonlijke levenssfeer, de opsporing of vervolging van strafbare feiten of op zwaarwichtige gronden aan het algemeen belang ontleend.
+2. De voorzitter van het Hof staat, behoudens in het geval van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=17&z=2015-01-01&g=2015-01-01), de klager en de persoon wiens vervolging wordt verlangd, alsmede hun advocaten of gemachtigden toe van de op de zaak betrekking hebbende stukken kennis te nemen, indien daarom wordt verzocht. Kennisneming geschiedt op de wijze door de voorzitter te bepalen. De voorzitter kan, ambtshalve of op de vordering van de procureur-generaal, bepaalde stukken van kennisneming uitzonderen in het belang van de bescherming van de persoonlijke levenssfeer, de opsporing of vervolging van strafbare feiten of op zwaarwichtige gronden aan het algemeen belang ontleend.
 
 ##### Artikel 21
 
@@ -223,7 +223,7 @@ Het horen van de klager en de persoon wiens vervolging wordt verlangd kan ook aa
 
 ##### Artikel 24
 
-De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2010-12-15&g=2010-12-15) met betrekking tot de behandeling in raadkamer zijn op deze titel van toepassing.
+De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2015-01-01&g=2015-01-01) met betrekking tot de behandeling in raadkamer zijn op deze titel van toepassing.
 
 ##### Artikel 25
 
@@ -233,13 +233,13 @@ De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&
 
 3. In alle andere gevallen wijst het Hof het beklag af.
 
-4. Alvorens te beslissen kan het Hof, indien het nader onderzoek wenselijk oordeelt, de stukken in handen van de rechter-commissaris stellen onder aanduiding van het onderwerp en de omvang van het onderzoek en, zo nodig, van de wijze waarop dit zal zijn in te stellen. [Artikel 359, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2010-12-15&g=2010-12-15), is van toepassing.
+4. Alvorens te beslissen kan het Hof, indien het nader onderzoek wenselijk oordeelt, de stukken in handen van de rechter-commissaris stellen onder aanduiding van het onderwerp en de omvang van het onderzoek en, zo nodig, van de wijze waarop dit zal zijn in te stellen. [Artikel 359, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ##### Artikel 26
 
 1. Het Hof beslist zo spoedig mogelijk en bij een met redenen omklede beschikking.
 
-2. Van elke beschikking zendt de griffier onverwijld een afschrift aan de procureur-generaal, de klager, alsmede, indien de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=19&z=2010-12-15&g=2010-12-15), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2010-12-15&g=2010-12-15), toepassing hebben gevonden, aan de persoon wiens vervolging wordt verlangd.
+2. Van elke beschikking zendt de griffier onverwijld een afschrift aan de procureur-generaal, de klager, alsmede, indien de [artikelen 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=19&z=2015-01-01&g=2015-01-01), en [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2015-01-01&g=2015-01-01), toepassing hebben gevonden, aan de persoon wiens vervolging wordt verlangd.
 
 ##### Artikel 27
 
@@ -329,7 +329,7 @@ Tegen beslissingen omtrent de schorsing staat het openbaar ministerie binnen dri
 
 3. Zij is bevoegd de overlegging van processtukken en stukken van overtuiging te bevelen.
 
-4. Het horen kan ook aan een van de leden of plaatsvervangende leden van het Hof van Justitie of aan rechtersplaatsvervanger in eerste aanleg van het gebied waar de te horen persoon zich bevindt, worden opgedragen. In dat geval is [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=42&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+4. Het horen kan ook aan een van de leden of plaatsvervangende leden van het Hof van Justitie of aan rechtersplaatsvervanger in eerste aanleg van het gebied waar de te horen persoon zich bevindt, worden opgedragen. In dat geval is [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=42&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 41
 
@@ -369,7 +369,7 @@ Tegen beslissingen omtrent de schorsing staat het openbaar ministerie binnen dri
 
 9. Tegen de beschikking van de rechter in eerste aanleg staat binnen drie dagen hoger beroep open bij het Hof van Justitie, indien daartoe, gelet op het belang van de gevraagde voorziening, door het Hof of een door dit college aangewezen lid verlof is verleend.
 
-10. De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2010-12-15&g=2010-12-15) vinden zoveel mogelijk overeenkomstige toepassing. Ten aanzien van de rechtstreeks belanghebbende vindt [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VIII&artikel=44&z=2010-12-15&g=2010-12-15) overeenkomstig toepassing.
+10. De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2015-01-01&g=2015-01-01) vinden zoveel mogelijk overeenkomstige toepassing. Ten aanzien van de rechtstreeks belanghebbende vindt [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VIII&artikel=44&z=2015-01-01&g=2015-01-01) overeenkomstig toepassing.
 
 11. Tijdens de behandeling van het verzoek of de vordering kunnen aan de hierboven bedoelde procedure niet meer rechten worden ontleend dan de stand van de strafvorderlijke procedure toelaat.
 
@@ -425,7 +425,7 @@ In plaats van de eed kan ter keuze van de betrokkene de belofte worden afgelegd.
 
 ##### Artikel 48
 
-1. De verdachte heeft het recht zich, overeenkomstig de bepalingen van dit wetboek, door een of meer door hem gekozen of ingevolge de [artikelen 61 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2010-12-15&g=2010-12-15) toegevoegde raadslieden te doen bijstaan.
+1. De verdachte heeft het recht zich, overeenkomstig de bepalingen van dit wetboek, door een of meer door hem gekozen of ingevolge de [artikelen 61 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2015-01-01&g=2015-01-01) toegevoegde raadslieden te doen bijstaan.
 
 2. Hem wordt daartoe, wanneer hij dit verzoekt en hem rechtens de vrijheid is ontnomen, zoveel mogelijk met inachtneming van de huishoudelijke reglementen van de inrichting waarin hij verblijft, de gelegenheid gegeven zich met zijn raadsman of raadslieden in verbinding te stellen.
 
@@ -467,7 +467,7 @@ Tijdens het voorbereidend onderzoek mag aan de verdachte niet worden onthouden d
 
 - a. de processen-verbaal van zijn verhoren;
 
-- b. de processen-verbaal betreffende verhoren of handelingen van onderzoek, waarbij hij of zijn raadsman de bevoegdheid heeft gehad tegenwoordig te zijn, tenzij en voor zover uit het proces-verbaal blijkt van enige omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, en in verband daarmee een bevel als bedoeld in [artikel 70, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Vierde&artikel=70&z=2010-12-15&g=2010-12-15), is gegeven;
+- b. de processen-verbaal betreffende verhoren of handelingen van onderzoek, waarbij hij of zijn raadsman de bevoegdheid heeft gehad tegenwoordig te zijn, tenzij en voor zover uit het proces-verbaal blijkt van enige omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, en in verband daarmee een bevel als bedoeld in [artikel 70, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Vierde&artikel=70&z=2015-01-01&g=2015-01-01), is gegeven;
 
 - c. de overige processen-verbaal van verhoren, waarvan de inhoud hem mondeling volledig mededeling is gedaan.
 
@@ -491,7 +491,7 @@ De kennisneming van geen enkel processtuk in het oorspronkelijke of in afschrift
 
 3. Een termijn, waardoor de verdachte langer dan in het algemeen wenselijk is onder de dreiging van een strafvervolging of van de voortzetting daarvan heeft moeten leven, wordt als onredelijk aangemerkt, tenzij bijzondere omstandigheden het tijdsverloop kunnen rechtvaardigen.
 
-4. Indien de verdachte de bevoegdheid, hem bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vijfde&artikel=56&z=2010-12-15&g=2010-12-15) toegekend, onbenut heeft gelaten, kan hij zich later niet meer op de onredelijkheid van een termijn beroepen, tenzij door het tijdsverloop de kwaliteit van de strafrechtspleging zodanig is aangetast, dat de rechter ook ambtshalve gronden aanwezig acht om het tijdsverloop te beoordelen en daaraan gevolgen te verbinden.
+4. Indien de verdachte de bevoegdheid, hem bij [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vijfde&artikel=56&z=2015-01-01&g=2015-01-01) toegekend, onbenut heeft gelaten, kan hij zich later niet meer op de onredelijkheid van een termijn beroepen, tenzij door het tijdsverloop de kwaliteit van de strafrechtspleging zodanig is aangetast, dat de rechter ook ambtshalve gronden aanwezig acht om het tijdsverloop te beoordelen en daaraan gevolgen te verbinden.
 
 ##### Artikel 56
 
@@ -507,7 +507,7 @@ De kennisneming van geen enkel processtuk in het oorspronkelijke of in afschrift
 
 6. Een beslissing als bedoeld in het derde of vierde lid, kan tot een uiterste termijn worden aangehouden, indien het openbaar ministerie aannemelijk maakt, dat het onderzoek alsnog zal worden voortgezet dan wel verdere vervolging zal plaatsvinden.
 
-7. Wanneer de zaak ter terechtzitting in hoger beroep aanhangig is gemaakt, vindt ten aanzien van het Hof van Justitie [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2010-12-15&g=2010-12-15), geen toepassing.
+7. Wanneer de zaak ter terechtzitting in hoger beroep aanhangig is gemaakt, vindt ten aanzien van het Hof van Justitie [artikel 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2015-01-01&g=2015-01-01), geen toepassing.
 
 ## Titel II. De raadsman
 
@@ -539,7 +539,7 @@ De kennisneming van geen enkel processtuk in het oorspronkelijke of in afschrift
 
 3. Is de verdachte verhinderd van zijn wil te dien aanzien te doen blijken en heeft hij geen wettige vertegenwoordiger, dan is zijn echtgenoot of de meest gerede van zijn bloed- of aanverwanten, tot de vierde graad ingesloten, tot die keuze bevoegd.
 
-4. De ingevolge het tweede of derde lid gekozen of de ingevolge de [artikelen 61 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2010-12-15&g=2010-12-15) toegevoegde raadsman treedt af, zodra de verdachte zelf een raadsman heeft gekozen.
+4. De ingevolge het tweede of derde lid gekozen of de ingevolge de [artikelen 61 tot en met 68](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2015-01-01&g=2015-01-01) toegevoegde raadsman treedt af, zodra de verdachte zelf een raadsman heeft gekozen.
 
 5. Bij algemene maatregel van bestuur kan worden geregeld, op welke wijze van een keuze ingevolge het eerste, tweede of derde lid dient te blijken.
 
@@ -571,13 +571,13 @@ De kennisneming van geen enkel processtuk in het oorspronkelijke of in afschrift
 
 ##### Artikel 63
 
-1. Indien het bevel, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2010-12-15&g=2010-12-15), niet is verleend, wordt een verdachte van een misdrijf, van wiens onvermogen voldoende is gebleken, op diens verzoek een raadsman toegevoegd, zodra de vervolging tegen hem is aangevangen. De verdachte kan aan het verzoek niet het recht ontlenen de zaak op te houden.
+1. Indien het bevel, bedoeld in [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2015-01-01&g=2015-01-01), niet is verleend, wordt een verdachte van een misdrijf, van wiens onvermogen voldoende is gebleken, op diens verzoek een raadsman toegevoegd, zodra de vervolging tegen hem is aangevangen. De verdachte kan aan het verzoek niet het recht ontlenen de zaak op te houden.
 
 2. Het eerste lid is tevens van toepassing in hoger beroep.
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven omtrent de wijze waarop het onvermogen moet worden gestaafd.
 
-4. Omtrent zijn bevoegdheid om toevoeging van een raadsman te verzoeken wordt de verdachte van misdrijf ingelicht op de voet van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VI&artikel=82&z=2010-12-15&g=2010-12-15). Echter geschiedt de mededeling in geval van aantekening van hoger beroep door de griffier van het gerecht, dat vonnis heeft gewezen. Indien de verdachte, anders dan krachtens een bevel tot inverzekeringstelling, rechtens zijn vrijheid is ontnomen, wordt het verzoek onverwijld door de officier van justitie ter kennis gebracht van de instantie die met de toevoeging is belast.
+4. Omtrent zijn bevoegdheid om toevoeging van een raadsman te verzoeken wordt de verdachte van misdrijf ingelicht op de voet van [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VI&artikel=82&z=2015-01-01&g=2015-01-01). Echter geschiedt de mededeling in geval van aantekening van hoger beroep door de griffier van het gerecht, dat vonnis heeft gewezen. Indien de verdachte, anders dan krachtens een bevel tot inverzekeringstelling, rechtens zijn vrijheid is ontnomen, wordt het verzoek onverwijld door de officier van justitie ter kennis gebracht van de instantie die met de toevoeging is belast.
 
 5. Indien het vermoeden bestaat dat bij de verdachte van misdrijf gebrekkige ontwikkeling of ziekelijke storing van de geestvermogens aanwezig is en dat hij ten gevolge daarvan niet in staat is zijn belangen behoorlijk te behartigen, wordt hem, indien hij nog geen raadsman heeft en een vervolging ter zake van het misdrijf tegen hem is aangevangen, tijdens het voorbereidend onderzoek door de rechter-commissaris ambtshalve een raadsman toegevoegd.
 
@@ -607,13 +607,13 @@ De toegevoegde raadsman kan de waarneming van bepaalde verrichtingen namens hem 
 
 1. De verdachte kan tijdens het voorbereidend onderzoek de rechter-commissaris of, indien de zaak ter terechtzitting aanhangig is gemaakt, de bevoegde rechter om toevoeging van een raadsman verzoeken:
 
-- a. indien hij binnen vierentwintig uren na het tijdstip waarop ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2010-12-15&g=2010-12-15) toevoeging had moeten plaatshebben, nog geen raadsman heeft;
+- a. indien hij binnen vierentwintig uren na het tijdstip waarop ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2015-01-01&g=2015-01-01) toevoeging had moeten plaatshebben, nog geen raadsman heeft;
 
-- b. indien zijn verzoek als bedoeld in de [artikelen 63, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2010-12-15&g=2010-12-15), en [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2010-12-15&g=2010-12-15), niet is ingewilligd;
+- b. indien zijn verzoek als bedoeld in de [artikelen 63, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2015-01-01&g=2015-01-01), en [65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2015-01-01&g=2015-01-01), niet is ingewilligd;
 
 - c. indien hem bij verhindering of ontstentenis van de toegevoegde raadsman geen andere raadsman is toegevoegd;
 
-- d. indien de toevoeging op grond van [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2010-12-15&g=2010-12-15), is beëindigd.
+- d. indien de toevoeging op grond van [artikel 61, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2015-01-01&g=2015-01-01), is beëindigd.
 
 2. Op het verzoek, bedoeld in het eerste lid, wordt zo spoedig mogelijk beslist. De verdachte wordt, tenzij het verzoek aanstonds wordt ingewilligd, op het verzoek gehoord.
 
@@ -693,9 +693,9 @@ De hulpofficier voor wie de verdachte wordt geleid, geeft van de aanhouding uite
 
 ##### Artikel 76
 
-1. In geval van ontdekking op heterdaad van een misdrijf kan ieder, ter aanhouding van de verdachte, elke plaats betreden, met uitzondering van een woning tot het binnentreden waarvan de bewoner geen uitdrukkelijke toestemming heeft gegeven, en van de plaatsen in [artikel 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XI&artikel=164&z=2010-12-15&g=2010-12-15) genoemd, op de tijden in dat artikel aangegeven.
+1. In geval van ontdekking op heterdaad van een misdrijf kan ieder, ter aanhouding van de verdachte, elke plaats betreden, met uitzondering van een woning tot het binnentreden waarvan de bewoner geen uitdrukkelijke toestemming heeft gegeven, en van de plaatsen in [artikel 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XI&artikel=164&z=2015-01-01&g=2015-01-01) genoemd, op de tijden in dat artikel aangegeven.
 
-2. Zowel in geval van ontdekking op heterdaad als buiten dat geval kan iedere opsporingsambtenaar, ter aanhouding van de verdachte, elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+2. Zowel in geval van ontdekking op heterdaad als buiten dat geval kan iedere opsporingsambtenaar, ter aanhouding van de verdachte, elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 3. Een opsporingsambtenaar die overeenkomstig het tweede lid een plaats heeft betreden, kan in afwachting van de komst van de ambtenaar die bevoegd is ter aanhouding de plaats te doorzoeken, de maatregelen nemen, die redelijkerwijze nodig zijn om te voorkomen, dat de verdachte zich aan zijn aanhouding onttrekt.
 
@@ -707,7 +707,7 @@ De hulpofficier voor wie de verdachte wordt geleid, geeft van de aanhouding uite
 
 3. Het doorzoeken van plaatsen geschiedt onder leiding van de officier van justitie of, in geval van toepassing van het tweede lid, onder leiding van de hulpofficier van justitie.
 
-4. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+4. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ## Titel IV. Onderzoek aan lichaam en kleding
 
@@ -729,7 +729,7 @@ De hulpofficier voor wie de verdachte wordt geleid, geeft van de aanhouding uite
 
 1. De rechter-commissaris kan op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman een deskundige, verbonden aan een van de bij of krachtens algemene maatregel van bestuur aan te wijzen laboratoria, benoemen met de opdracht een onderzoek te verrichten dat gebaseerd is op een vergelijking tussen kenmerken van celmateriaal. De deskundige brengt aan de rechter-commissaris een met redenen omkleed verslag uit.
 
-2. De rechter-commissaris geeft de verdachte, indien deze bekend is, steeds en zo spoedig mogelijk schriftelijk kennis van de aan de deskundige verleende opdracht, van de tijd waarop en van het laboratorium alwaar het onderzoek plaatsvindt of heeft plaatsgevonden en van de uitslag daarvan. Hij wijst de verdachte op [artikel 79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2010-12-15&g=2010-12-15).
+2. De rechter-commissaris geeft de verdachte, indien deze bekend is, steeds en zo spoedig mogelijk schriftelijk kennis van de aan de deskundige verleende opdracht, van de tijd waarop en van het laboratorium alwaar het onderzoek plaatsvindt of heeft plaatsgevonden en van de uitslag daarvan. Hij wijst de verdachte op [artikel 79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2015-01-01&g=2015-01-01).
 
 3. De rechter-commissaris doet het celmateriaal vernietigen overeenkomstig de daartoe bij algemene maatregel van bestuur gestelde regels. Van de vernietiging wordt onverwijld proces-verbaal opgemaakt.
 
@@ -739,7 +739,7 @@ De hulpofficier voor wie de verdachte wordt geleid, geeft van de aanhouding uite
 
 ##### Artikel 79a
 
-1. De rechter-commissaris kan op de vordering van de officier van justitie bevelen dat van de verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten, bloed zal worden afgenomen ten behoeve van een onderzoek als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2010-12-15&g=2010-12-15).
+1. De rechter-commissaris kan op de vordering van de officier van justitie bevelen dat van de verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten, bloed zal worden afgenomen ten behoeve van een onderzoek als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2015-01-01&g=2015-01-01).
 
 2. Het bevel kan slechts worden gegeven, indien uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte en indien het onderzoek redelijkerwijze nodig is voor het aan de dag brengen van de waarheid. Het bevel is met redenen omkleed en wordt betekend aan de verdachte.
 
@@ -749,27 +749,27 @@ De hulpofficier voor wie de verdachte wordt geleid, geeft van de aanhouding uite
 
 5. De verdachte ten aanzien van wie een bevel als bedoeld in het eerste lid, is gegeven, wordt door een arts zoveel bloed afgenomen als voor het onderzoek en een tegenonderzoek noodzakelijk is.
 
-6. Bij toepassing van het vierde lid of indien de deskundige als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2010-12-15&g=2010-12-15), oordeelt dat het bloed van de verdachte geen geschikt materiaal voor het daar bedoelde onderzoek zal opleveren, kan de rechter-commissaris bevelen dat van de verdachte wangslijmvlies, haarwortels of ander bij algemene maatregel van bestuur aan te wijzen celmateriaal wordt afgenomen ten behoeve van een onderzoek als bedoeld in artikel 79, eerste lid. De laatste volzin van het tweede lid en het derde en vijfde lid zijn van overeenkomstige toepassing.
+6. Bij toepassing van het vierde lid of indien de deskundige als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2015-01-01&g=2015-01-01), oordeelt dat het bloed van de verdachte geen geschikt materiaal voor het daar bedoelde onderzoek zal opleveren, kan de rechter-commissaris bevelen dat van de verdachte wangslijmvlies, haarwortels of ander bij algemene maatregel van bestuur aan te wijzen celmateriaal wordt afgenomen ten behoeve van een onderzoek als bedoeld in artikel 79, eerste lid. De laatste volzin van het tweede lid en het derde en vijfde lid zijn van overeenkomstige toepassing.
 
 7. De verdachte kan tegen het krachtens het eerste of zesde lid gegeven bevel binnen zeven dagen na betekening in hoger beroep komen bij het Hof van Justitie, dat zo spoedig mogelijk beslist. De verdachte wordt gehoord. Het bevel wordt in afwachting van de beslissing van het Hof niet ten uitvoer gelegd.
 
 ##### Artikel 79b
 
-1. De verdachte kan, indien geen verzoek als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2010-12-15&g=2010-12-15), is gedaan, binnen veertien dagen nadat hem de uitslag van het onderzoek als bedoeld in artikel 79, eerste lid, schriftelijk is kennisgegeven, de rechter-commissaris verzoeken een andere door de verdachte aangewezen deskundige, verbonden aan een van de bij of krachtens algemene maatregel van bestuur aan te wijzen laboratoria, te benoemen met de opdracht een onderzoek te verrichten dat gebaseerd is op een vergelijking tussen kenmerken van celmateriaal. Indien daartoe voldoende celmateriaal beschikbaar is, willigt de rechter-commissaris het verzoek in. De deskundige brengt aan de rechter-commissaris een met redenen omkleed verslag uit. Artikel 79, tweede lid, eerste volzin, derde en vierde lid, is van overeenkomstige toepassing.
+1. De verdachte kan, indien geen verzoek als bedoeld in [artikel 79, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2015-01-01&g=2015-01-01), is gedaan, binnen veertien dagen nadat hem de uitslag van het onderzoek als bedoeld in artikel 79, eerste lid, schriftelijk is kennisgegeven, de rechter-commissaris verzoeken een andere door de verdachte aangewezen deskundige, verbonden aan een van de bij of krachtens algemene maatregel van bestuur aan te wijzen laboratoria, te benoemen met de opdracht een onderzoek te verrichten dat gebaseerd is op een vergelijking tussen kenmerken van celmateriaal. Indien daartoe voldoende celmateriaal beschikbaar is, willigt de rechter-commissaris het verzoek in. De deskundige brengt aan de rechter-commissaris een met redenen omkleed verslag uit. Artikel 79, tweede lid, eerste volzin, derde en vierde lid, is van overeenkomstige toepassing.
 
 2. In geval van toepassing van het eerste lid wordt de verdachte een bij of krachtens algemene maatregel van bestuur te bepalen gedeelte van de kosten van het onderzoek in rekening gebracht, indien dit onderzoek het in opdracht van de rechter-commissaris verrichte onderzoek bevestigt.
 
-3. Indien onvoldoende materiaal voor tegenonderzoek als bedoeld in het eerste lid beschikbaar is, stelt de rechter-commissaris de verdachte, indien slechts één verdachte bekend is, in de gelegenheid een deskundige als bedoeld in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2010-12-15&g=2010-12-15) aan te wijzen. De deskundige dient verbonden te zijn aan een van de bij of krachtens algemene maatregel van bestuur aan te wijzen laboratoria. Het eerste lid is niet van toepassing.
+3. Indien onvoldoende materiaal voor tegenonderzoek als bedoeld in het eerste lid beschikbaar is, stelt de rechter-commissaris de verdachte, indien slechts één verdachte bekend is, in de gelegenheid een deskundige als bedoeld in [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2015-01-01&g=2015-01-01) aan te wijzen. De deskundige dient verbonden te zijn aan een van de bij of krachtens algemene maatregel van bestuur aan te wijzen laboratoria. Het eerste lid is niet van toepassing.
 
 ##### Artikel 79c
 
-1. Ten aanzien van het onderzoek door deskundigen als bedoeld in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2010-12-15&g=2010-12-15) en [79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2010-12-15&g=2010-12-15), zijn de bepalingen van de [zesde afdeling van de derde Titel van het Vierde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing, behoudens voor zover daarvan in artikel 79 en 79b wordt afgeweken.
+1. Ten aanzien van het onderzoek door deskundigen als bedoeld in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2015-01-01&g=2015-01-01) en [79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2015-01-01&g=2015-01-01), zijn de bepalingen van de [zesde afdeling van de derde Titel van het Vierde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, behoudens voor zover daarvan in artikel 79 en 79b wordt afgeweken.
 
-2. Bij toepassing van [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2010-12-15&g=2010-12-15) is [artikel 79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2010-12-15&g=2010-12-15) niet van toepassing.
+2. Bij toepassing van [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2015-01-01&g=2015-01-01) is [artikel 79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2015-01-01&g=2015-01-01) niet van toepassing.
 
 ##### Artikel 79d
 
-Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de wijze van uitvoering van de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2010-12-15&g=2010-12-15), [79a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79a&z=2010-12-15&g=2010-12-15), en [79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2010-12-15&g=2010-12-15), in het bijzonder met betrekking tot de wijze waarop celmateriaal van een persoon wordt afgenomen, de methode en de plaats van onderzoek, de aanwijzing van de deskundigen, het door de deskundigen uit te brengen verslag, de wijze waarop het recht op tegenonderzoek kan worden uitgeoefend en het bewaren van celmateriaal.
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de wijze van uitvoering van de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79&z=2015-01-01&g=2015-01-01), [79a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79a&z=2015-01-01&g=2015-01-01), en [79b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=79b&z=2015-01-01&g=2015-01-01), in het bijzonder met betrekking tot de wijze waarop celmateriaal van een persoon wordt afgenomen, de methode en de plaats van onderzoek, de aanwijzing van de deskundigen, het door de deskundigen uit te brengen verslag, de wijze waarop het recht op tegenonderzoek kan worden uitgeoefend en het bewaren van celmateriaal.
 
 ## Titel V. Ophouding voor verhoor
 
@@ -785,7 +785,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 1. De verdachte wordt aan geen andere beperkingen onderworpen dan die welke voor het doel van de ophouding voor het verhoor of in het belang van de orde volstrekt noodzakelijk zijn.
 
-2. Tijdens de ophouding voor het verhoor kunnen onder meer de in [artikel 90, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2010-12-15&g=2010-12-15), bedoelde maatregelen in het belang van het onderzoek worden bevolen.
+2. Tijdens de ophouding voor het verhoor kunnen onder meer de in [artikel 90, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2015-01-01&g=2015-01-01), bedoelde maatregelen in het belang van het onderzoek worden bevolen.
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de maatregelen die in het belang van het onderzoek kunnen worden bevolen.
 
@@ -799,7 +799,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 
 - b. het recht om zich te onthouden van antwoorden, en
 
-- c. het recht zich door een raadsman te doen bijstaan en, bij toepasselijkheid van de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2010-12-15&g=2010-12-15) of [63](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2010-12-15&g=2010-12-15), het recht om toevoeging van een raadsman te verzoeken.
+- c. het recht zich door een raadsman te doen bijstaan en, bij toepasselijkheid van de [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2015-01-01&g=2015-01-01) of [63](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2015-01-01&g=2015-01-01), het recht om toevoeging van een raadsman te verzoeken.
 
 2. Behalve de mondelinge mededeling van de rechten, bedoeld in het eerste lid, wordt aan de verdachte een formulier uitgereikt, waarop die rechten zijn vermeld. Het model van het formulier wordt vastgesteld bij algemene maatregel van bestuur. Het formulier is steeds beschikbaar in tenminste de navolgende talen: Nederlands, Papiamentu, Engels en Spaans.
 
@@ -829,7 +829,7 @@ De officier van justitie doet de aangehouden verdachte, wiens bewaring hij noodz
 
 ##### Artikel 85
 
-Wordt de verdachte noch overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=83&z=2010-12-15&g=2010-12-15) in verzekering gesteld, noch overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=84&z=2010-12-15&g=2010-12-15) voor de rechter-commissaris geleid, dan wordt hij, na te zijn verhoord, dadelijk in vrijheid gesteld.
+Wordt de verdachte noch overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=83&z=2015-01-01&g=2015-01-01) in verzekering gesteld, noch overeenkomstig [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=84&z=2015-01-01&g=2015-01-01) voor de rechter-commissaris geleid, dan wordt hij, na te zijn verhoord, dadelijk in vrijheid gesteld.
 
 ##### Artikel 86
 
@@ -839,11 +839,11 @@ Het bevel tot inverzekeringstelling wordt slechts verleend in geval van een stra
 
 1. Het bevel tot inverzekeringstelling is gedurende ten hoogste twee dagen van kracht.
 
-2. Bij dringende noodzakelijkheid in het belang van het onderzoek kan de inverzekeringstelling door de officier van justitie eenmaal worden verlengd en wel met ten hoogste acht dagen. De verdachte wordt door de officier van justitie gehoord voordat hij overeenkomstig [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=89&z=2010-12-15&g=2010-12-15) voor de rechter-commissaris wordt geleid.
+2. Bij dringende noodzakelijkheid in het belang van het onderzoek kan de inverzekeringstelling door de officier van justitie eenmaal worden verlengd en wel met ten hoogste acht dagen. De verdachte wordt door de officier van justitie gehoord voordat hij overeenkomstig [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=89&z=2015-01-01&g=2015-01-01) voor de rechter-commissaris wordt geleid.
 
 3. De termijnen gaan in op het ogenblik van de tenuitvoerlegging. Zij lopen niet gedurende de tijd dat de verdachte zich aan de tenuitvoerlegging van het bevel heeft onttrokken.
 
-4. [Artikel 83,vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=83&z=2010-12-15&g=2010-12-15), en [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=86&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+4. [Artikel 83,vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=83&z=2015-01-01&g=2015-01-01), en [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=86&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 88
 
@@ -893,15 +893,15 @@ Het bevel tot inverzekeringstelling wordt slechts verleend in geval van een stra
 
 - l. het afscheren, knippen of laten groeien van baard- en hoofdhaar;
 
-- m. de in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15) bedoelde onderzoeken en de aldaar bedoelde verwijdering van voorwerpen en stoffen;
+- m. de in [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01) bedoelde onderzoeken en de aldaar bedoelde verwijdering van voorwerpen en stoffen;
 
-- n. een onderzoek van het op grond van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15) verkregen materiaal.
+- n. een onderzoek van het op grond van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01) verkregen materiaal.
 
 3. De in het tweede lid, onderdelen a tot en met c, alsmede f tot en met j, bedoelde maatregelen kunnen tevens worden bevolen door de hulpofficier van justitie die de inverzekeringstelling heeft gelast, indien het optreden van de officier van justitie niet kan worden afgewacht.
 
 4. De toepassing van de in het tweede lid bedoelde maatregelen wordt schriftelijk vastgelegd.
 
-5. Voor maatregelen als bedoeld in het tweede lid, onderdelen l, m, voor zover het de verwijdering van voorwerpen en stoffen uit het lichaam betreft, en n, voor zover het lichaamsmateriaal betreft, dient door de rechter-commissaris een machtiging te worden verleend. [Artikel 78, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+5. Voor maatregelen als bedoeld in het tweede lid, onderdelen l, m, voor zover het de verwijdering van voorwerpen en stoffen uit het lichaam betreft, en n, voor zover het lichaamsmateriaal betreft, dient door de rechter-commissaris een machtiging te worden verleend. [Artikel 78, vierde lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 6. De uitvoering van de in het tweede lid bedoelde maatregelen geschiedt onder verantwoordelijkheid van de officier van justitie.
 
@@ -917,7 +917,7 @@ Met betrekking tot de behandeling van in verzekering gestelde personen en tot de
 
 ##### Artikel 91
 
-1. Tijdens de periode van inverzekeringstelling kan de verdachte, onverminderd het bepaalde in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=89&z=2010-12-15&g=2010-12-15), de rechter-commissaris schriftelijk om zijn invrijheidstelling verzoeken. De rechter-commissaris hoort de verdachte en de officier van justitie, indien hij daartoe gronden aanwezig acht.
+1. Tijdens de periode van inverzekeringstelling kan de verdachte, onverminderd het bepaalde in [artikel 89](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=89&z=2015-01-01&g=2015-01-01), de rechter-commissaris schriftelijk om zijn invrijheidstelling verzoeken. De rechter-commissaris hoort de verdachte en de officier van justitie, indien hij daartoe gronden aanwezig acht.
 
 2. Op het verzoek wordt zo spoedig mogelijk beslist. Indien de rechter-commissaris de vrijheidsontneming onrechtmatig oordeelt, gelast hij de onmiddellijke invrijheidstelling van de verdachte.
 
@@ -943,7 +943,7 @@ Met betrekking tot de behandeling van in verzekering gestelde personen en tot de
 
 ##### Artikel 94
 
-1. Ten aanzien van de bewaring zijn [artikel 90, met uitzondering van het derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2010-12-15&g=2010-12-15), alsmede [artikel 90a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90a&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+1. Ten aanzien van de bewaring zijn [artikel 90, met uitzondering van het derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2015-01-01&g=2015-01-01), alsmede [artikel 90a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90a&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 2. De uitvoering van de maatregelen die krachtens het eerste lid kunnen worden bevolen, vindt in het huis van bewaring plaats onder de verantwoordelijkheid van het hoofd van het huis van bewaring.
 
@@ -969,7 +969,7 @@ Na de aanvang van het onderzoek op de terechtzitting, kan de rechter in eerste a
 
 3. De termijn gedurende welke het bevel van kracht is, kan door de rechter-commissaris op de vordering van de officier van justitie, voor de aanvang van het onderzoek op de terechtzitting eenmaal met ten hoogste dertig dagen worden verlengd.
 
-4. Indien een gerechtelijk vooronderzoek is gevorderd en dit op grond van bijzondere, op de zaak zelf betrekking hebbende omstandigheden niet binnen negentig dagen nadat het bevel tot gevangenhouding van kracht is geworden, is voltooid, kan op de vordering van de officier van justitie de rechter-commissaris in de gevallen en op de gronden, vermeld in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2010-12-15&g=2010-12-15) en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2010-12-15&g=2010-12-15), de termijn nog eenmaal met ten hoogste dertig dagen verlengen.
+4. Indien een gerechtelijk vooronderzoek is gevorderd en dit op grond van bijzondere, op de zaak zelf betrekking hebbende omstandigheden niet binnen negentig dagen nadat het bevel tot gevangenhouding van kracht is geworden, is voltooid, kan op de vordering van de officier van justitie de rechter-commissaris in de gevallen en op de gronden, vermeld in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2015-01-01&g=2015-01-01) en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2015-01-01&g=2015-01-01), de termijn nog eenmaal met ten hoogste dertig dagen verlengen.
 
 5. De verdachte wordt in de gelegenheid gesteld op elke vordering op grond van dit artikel te worden gehoord.
 
@@ -977,7 +977,7 @@ Na de aanvang van het onderzoek op de terechtzitting, kan de rechter in eerste a
 
 ##### Artikel 99
 
-Ten aanzien van de gevangenhouding en de gevangenneming is [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Eerste&artikel=94&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+Ten aanzien van de gevangenhouding en de gevangenneming is [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Eerste&artikel=94&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ### Afdeling Derde. Gevallen waarin voorlopige hechtenis is toegestaan
 
@@ -995,7 +995,7 @@ Ten aanzien van de gevangenhouding en de gevangenneming is [artikel 94](https://
 
 ##### Artikel 101
 
-1. Een bevel, als bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2010-12-15&g=2010-12-15), kan slechts worden gegeven, indien uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte ter zake van de in dat artikel vermelde misdrijven, en voorts:
+1. Een bevel, als bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2015-01-01&g=2015-01-01), kan slechts worden gegeven, indien uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte ter zake van de in dat artikel vermelde misdrijven, en voorts:
 
 - a. indien uit bepaalde gedragingen van de verdachte of uit bepaalde, hem persoonlijk betreffende omstandigheden blijkt van ernstig gevaar voor vlucht, of
 
@@ -1017,7 +1017,7 @@ Ten aanzien van de gevangenhouding en de gevangenneming is [artikel 94](https://
 
 1. De termijn gedurende welke een bevel tot voorlopige hechtenis van kracht is, loopt niet gedurende de tijd dat de verdachte zich aan de tenuitvoerlegging van het bevel heeft onttrokken of hem uit anderen hoofde rechtens zijn vrijheid is ontnomen. Ondergaat evenwel de verdachte op het tijdstip dat het bevel tot voorlopige hechtenis wordt gegeven een vrijheidsstraf, dan wordt de tenuitvoerlegging van de straf van rechtswege geschorst zolang het bevel van kracht is. De in voorlopige hechtenis doorgebrachte tijd wordt in dat geval zoveel mogelijk in mindering gebracht op die straf.
 
-2. Indien binnen de in de eerste volzin van het eerste lid bedoelde termijn een vordering krachtens [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=281&z=2010-12-15&g=2010-12-15), dan wel een bezwaarschrift tegen de dagvaarding is ingediend, blijft het bevel, onverminderd het bepaalde in [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2010-12-15&g=2010-12-15), van kracht totdat dertig dagen zijn verstreken sedert de dag waarop onherroepelijk op de vordering of het bezwaarschrift is beschikt.
+2. Indien binnen de in de eerste volzin van het eerste lid bedoelde termijn een vordering krachtens [artikel 281](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=281&z=2015-01-01&g=2015-01-01), dan wel een bezwaarschrift tegen de dagvaarding is ingediend, blijft het bevel, onverminderd het bepaalde in [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2015-01-01&g=2015-01-01), van kracht totdat dertig dagen zijn verstreken sedert de dag waarop onherroepelijk op de vordering of het bezwaarschrift is beschikt.
 
 ##### Artikel 103
 
@@ -1039,21 +1039,21 @@ Ten aanzien van de gevangenhouding en de gevangenneming is [artikel 94](https://
 
 ##### Artikel 105
 
-1. Bij alle einduitspraken wordt, behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V&artikel=34&z=2010-12-15&g=2010-12-15), het bevel tot voorlopige hechtenis opgeheven, indien, ter zake van het feit waarvoor dat bevel is verleend, aan de verdachte noch een vrijheidsstraf van langere duur dan de reeds door hem in voorlopige hechtenis doorgebrachte tijd, noch een maatregel die vrijheidsontneming meebrengt of kan meebrengen, onvoorwaardelijk is opgelegd.
+1. Bij alle einduitspraken wordt, behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V&artikel=34&z=2015-01-01&g=2015-01-01), het bevel tot voorlopige hechtenis opgeheven, indien, ter zake van het feit waarvoor dat bevel is verleend, aan de verdachte noch een vrijheidsstraf van langere duur dan de reeds door hem in voorlopige hechtenis doorgebrachte tijd, noch een maatregel die vrijheidsontneming meebrengt of kan meebrengen, onvoorwaardelijk is opgelegd.
 
-2. Indien de duur van de onvoorwaardelijk opgelegde vrijheidsstraf die van de reeds ondergane voorlopige hechtenis met minder dan vijf maanden overtreft en geen maatregel die vrijheidsontneming meebrengt of kan meebrengen onvoorwaardelijk is opgelegd, wordt, onverminderd het bepaalde in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2010-12-15&g=2010-12-15), bij de einduitspraak het bevel tot voorlopige hechtenis opgeheven met ingang van het tijdstip waarop de duur van deze hechtenis gelijk wordt aan die van de straf.
+2. Indien de duur van de onvoorwaardelijk opgelegde vrijheidsstraf die van de reeds ondergane voorlopige hechtenis met minder dan vijf maanden overtreft en geen maatregel die vrijheidsontneming meebrengt of kan meebrengen onvoorwaardelijk is opgelegd, wordt, onverminderd het bepaalde in [artikel 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2015-01-01&g=2015-01-01), bij de einduitspraak het bevel tot voorlopige hechtenis opgeheven met ingang van het tijdstip waarop de duur van deze hechtenis gelijk wordt aan die van de straf.
 
 3. Voor de toepassing van het eerste en tweede lid van dit artikel wordt onder de in voorlopige hechtenis doorgebrachte tijd begrepen de tijd gedurende welke de verdachte in verzekering was gesteld.
 
 4. Indien de einduitspraak tot invrijheidstelling van de verdachte zou moeten leiden, kan de rechter, in afwijking van het eerste lid en alle belangen in aanmerking genomen, bepalen, dat de voorlopige hechtenis gedurende een termijn van ten hoogste drie weken van kracht blijft, onverminderd het bepaalde in het vijfde en zesde lid.
 
-5. Indien de einduitspraak nietigverklaring van de dagvaarding inhoudt, de officier van justitie een nieuwe dagvaarding uitbrengt en de behandeling ter terechtzitting binnen de termijn van drie weken geen aanvang heeft genomen, wordt de verdachte bij het verstrijken van die termijn terstond in vrijheid gesteld.Vindt de behandeling ter terechtzitting wel binnen deze termijn plaats, dan duurt de voorlopige hechtenis voort, overeenkomstig [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2010-12-15&g=2010-12-15), ook ingeval de verdachte tegen die nieuwe dagvaarding een bezwaarschrift heeft ingediend.
+5. Indien de einduitspraak nietigverklaring van de dagvaarding inhoudt, de officier van justitie een nieuwe dagvaarding uitbrengt en de behandeling ter terechtzitting binnen de termijn van drie weken geen aanvang heeft genomen, wordt de verdachte bij het verstrijken van die termijn terstond in vrijheid gesteld.Vindt de behandeling ter terechtzitting wel binnen deze termijn plaats, dan duurt de voorlopige hechtenis voort, overeenkomstig [artikel 98, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2015-01-01&g=2015-01-01), ook ingeval de verdachte tegen die nieuwe dagvaarding een bezwaarschrift heeft ingediend.
 
 6. Indien de einduitspraak vrijspraak van het tenlastegelegde of ontslag van rechtsvervolging inhoudt en tegen die beslissing hoger beroep is aangetekend, dient de behandeling ter terechtzitting in hoger beroep binnen drie weken na de einduitspraak te zijn aangevangen. Indien die termijn is verstreken, voordat de behandeling in hoger beroep een aanvang heeft genomen, of indien, voordat die termijn is verstreken, het openbaar ministerie van het hoger beroep heeft afgezien, wordt de verdachte terstond in vrijheid gesteld.
 
 ##### Artikel 106
 
-Behoudens het bepaalde in [artikel 105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2010-12-15&g=2010-12-15), zijn bevelen tot voorlopige hechtenis en die tot opheffing daarvan dadelijk uitvoerbaar.
+Behoudens het bepaalde in [artikel 105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2015-01-01&g=2015-01-01), zijn bevelen tot voorlopige hechtenis en die tot opheffing daarvan dadelijk uitvoerbaar.
 
 ##### Artikel 107
 
@@ -1061,15 +1061,15 @@ Indien het Hof van Justitie tot het geven van enige beslissing is geroepen voord
 
 ##### Artikel 108
 
-1. Na de aantekening van beroep van de einduitspraak worden de in de [artikelen 96 tot en met 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=96&z=2010-12-15&g=2010-12-15) bedoelde bevelen met overeenkomstige toepassing van die artikelen gegeven door het Hof van Justitie, behoudens de volgende afwijkingen.
+1. Na de aantekening van beroep van de einduitspraak worden de in de [artikelen 96 tot en met 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=96&z=2015-01-01&g=2015-01-01) bedoelde bevelen met overeenkomstige toepassing van die artikelen gegeven door het Hof van Justitie, behoudens de volgende afwijkingen.
 
-2. Onverminderd het in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=97&z=2010-12-15&g=2010-12-15) bepaalde, kan het Hof ook bij de einduitspraak, niettegenstaande een eerder beëindigde voorlopige hechtenis en onverminderd het in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2010-12-15&g=2010-12-15) en [101, eerste en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2010-12-15&g=2010-12-15), bepaalde, de gevangenneming van de verdachte bevelen.
+2. Onverminderd het in [artikel 97](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=97&z=2015-01-01&g=2015-01-01) bepaalde, kan het Hof ook bij de einduitspraak, niettegenstaande een eerder beëindigde voorlopige hechtenis en onverminderd het in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2015-01-01&g=2015-01-01) en [101, eerste en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2015-01-01&g=2015-01-01), bepaalde, de gevangenneming van de verdachte bevelen.
 
-3. Een bevel tot gevangenneming of gevangenhouding is, na de einduitspraak in eerste aanleg, voor een termijn van ten hoogste vijf maanden van kracht. Echter toetst het Hof binnen een termijn van dertig dagen, nadat hoger beroep is aangetekend, of de gevallen en de gronden, bedoeld in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2010-12-15&g=2010-12-15) en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2010-12-15&g=2010-12-15), nog aanwezig zijn. Het Hof hoort de verdachte, indien het daartoe gronden aanwezig acht. De termijn van vijf maanden kan, indien er gegronde redenen zijn, waarom het onderzoek op de terechtzitting niet binnen deze termijn een aanvang kan nemen, door het Hof eenmaal met ten hoogste dertig dagen worden verlengd.
+3. Een bevel tot gevangenneming of gevangenhouding is, na de einduitspraak in eerste aanleg, voor een termijn van ten hoogste vijf maanden van kracht. Echter toetst het Hof binnen een termijn van dertig dagen, nadat hoger beroep is aangetekend, of de gevallen en de gronden, bedoeld in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2015-01-01&g=2015-01-01) en [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2015-01-01&g=2015-01-01), nog aanwezig zijn. Het Hof hoort de verdachte, indien het daartoe gronden aanwezig acht. De termijn van vijf maanden kan, indien er gegronde redenen zijn, waarom het onderzoek op de terechtzitting niet binnen deze termijn een aanvang kan nemen, door het Hof eenmaal met ten hoogste dertig dagen worden verlengd.
 
-4. Een bevel tot gevangenneming of gevangenhouding, dat voor het verstrijken van de in het derde lid bedoelde termijn door het onderzoek op de terechtzitting is gevolgd, is, evenals een tijdens of na dat onderzoek verleend bevel, geldig voor onbepaalde tijd, behoudens invrijheidstelling ingevolge de [artikelen 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2010-12-15&g=2010-12-15), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2010-12-15&g=2010-12-15), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=107&z=2010-12-15&g=2010-12-15) en [108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=108&z=2010-12-15&g=2010-12-15), totdat de uitspraak in kracht van gewijsde is gegaan, ook ingeval tegen de einduitspraak beroep in cassatie is aangetekend of de Hoge Raad de zaak overeenkomstig artikel 14 van de Cassatieregeling van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba naar het Hof heeft verwezen.
+4. Een bevel tot gevangenneming of gevangenhouding, dat voor het verstrijken van de in het derde lid bedoelde termijn door het onderzoek op de terechtzitting is gevolgd, is, evenals een tijdens of na dat onderzoek verleend bevel, geldig voor onbepaalde tijd, behoudens invrijheidstelling ingevolge de [artikelen 103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2015-01-01&g=2015-01-01), [105](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2015-01-01&g=2015-01-01), [107](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=107&z=2015-01-01&g=2015-01-01) en [108, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=108&z=2015-01-01&g=2015-01-01), totdat de uitspraak in kracht van gewijsde is gegaan, ook ingeval tegen de einduitspraak beroep in cassatie is aangetekend of de Hoge Raad de zaak overeenkomstig artikel 14 van de Cassatieregeling van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba naar het Hof heeft verwezen.
 
-5. Buiten de gevallen voorzien in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2010-12-15&g=2010-12-15) heft het Hof van Justitie het bevel op met ingang van het tijdstip waarop de duur van de ondergane voorlopige hechtenis gelijk wordt aan de duur van de onvoorwaardelijk opgelegde vrijheidsstraf, tenzij een maatregel die vrijheidsontneming meebrengt of kan meebrengen onvoorwaardelijk is opgelegd.
+5. Buiten de gevallen voorzien in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=105&z=2015-01-01&g=2015-01-01) heft het Hof van Justitie het bevel op met ingang van het tijdstip waarop de duur van de ondergane voorlopige hechtenis gelijk wordt aan de duur van de onvoorwaardelijk opgelegde vrijheidsstraf, tenzij een maatregel die vrijheidsontneming meebrengt of kan meebrengen onvoorwaardelijk is opgelegd.
 
 6. Voor de toepassing van dit artikel wordt onder de in voorlopige hechtenis doorgebrachte tijd begrepen de tijd gedurende welke de verdachte in verzekering was gesteld.
 
@@ -1081,7 +1081,7 @@ Indien het Hof van Justitie tot het geven van enige beslissing is geroepen voord
 
 2. Het horen geschiedt gedurende het voorbereidend onderzoek door de rechter-commissaris; na de aanvang van het onderzoek op de terechtzitting in eerste aanleg door de rechter in eerste aanleg; na de aantekening van beroep van de einduitspraak door het Hof van Justitie dan wel een lid van dat college.
 
-3. Van het horen wordt met overeenkomstige toepassing van de [artikelen 213 tot en met 218](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=II&afdeling=Tweede&artikel=213&z=2010-12-15&g=2010-12-15) steeds proces-verbaal opgemaakt.
+3. Van het horen wordt met overeenkomstige toepassing van de [artikelen 213 tot en met 218](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=II&afdeling=Tweede&artikel=213&z=2015-01-01&g=2015-01-01) steeds proces-verbaal opgemaakt.
 
 ### Afdeling Negende. Inhoud van de bevelen en hun betekening
 
@@ -1089,7 +1089,7 @@ Indien het Hof van Justitie tot het geven van enige beslissing is geroepen voord
 
 1. Het bevel tot voorlopige hechtenis of tot verlenging van de geldigheidsduur daarvan is gedagtekend en ondertekend.
 
-2. Het omschrijft het strafbare feit op zodanige wijze, dat de verdachte daaruit redelijkerwijze kan begrijpen, welke verdenking ten aanzien van hem is gerezen, alsmede de feiten of omstandigheden waaruit blijkt dat de in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2010-12-15&g=2010-12-15) gestelde voorwaarden zijn vervuld.
+2. Het omschrijft het strafbare feit op zodanige wijze, dat de verdachte daaruit redelijkerwijze kan begrijpen, welke verdenking ten aanzien van hem is gerezen, alsmede de feiten of omstandigheden waaruit blijkt dat de in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2015-01-01&g=2015-01-01) gestelde voorwaarden zijn vervuld.
 
 3. De verdachte wordt in het bevel met naam, voornamen en andere bekende
 
@@ -1181,7 +1181,7 @@ Waar in deze paragraaf wordt gesproken van schorsing, wordt daaronder begrepen o
 
 ##### Artikel 119b
 
-Voor de toepassing van de [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2010-12-15&g=2010-12-15) en [119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15) geldt:
+Voor de toepassing van de [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2015-01-01&g=2015-01-01) en [119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01) geldt:
 
 - a. dat beslag op vorderingen wordt gelegd en beëindigd door een schriftelijke kennisgeving aan de schuldenaar;
 
@@ -1191,7 +1191,7 @@ Voor de toepassing van de [artikelen 119](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 119c
 
-Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15), [Boek 3, Titel 4, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&titeldeel=4)van overeenkomstige toepassing, behoudens dat:
+Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01), [Boek 3, Titel 4, van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&titeldeel=4)van overeenkomstige toepassing, behoudens dat:
 
 - a. voor het leggen van het beslag geen verlof van de rechter in eerste aanleg vereist is, noch vrees voor verduistering behoeft te bestaan;
 
@@ -1201,13 +1201,13 @@ Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. voor roerende zaken die geen registergoederen zijn en rechten aan toonder of order ook volstaan kan worden met het door een opsporingsambtenaar opmaken van een proces-verbaal van inbeslagneming en het afgeven van een bewijs van ontvangst aan degene bij wie de voorwerpen in beslag zijn genomen;
 
-- e. het niet in acht nemen van termijnen waarbinnen betekening van het beslag moet plaatsvinden, buiten de gevallen van [artikel 119b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119b&z=2010-12-15&g=2010-12-15), geen nietigheid van het beslag meebrengt;
+- e. het niet in acht nemen van termijnen waarbinnen betekening van het beslag moet plaatsvinden, buiten de gevallen van [artikel 119b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119b&z=2015-01-01&g=2015-01-01), geen nietigheid van het beslag meebrengt;
 
 - f. geen overeenkomstige toepassing toekomt aan [artikel 721 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=721). De officier van justitie geeft, indien de hoofdzaak na het beslag ter terechtzitting aanhangig wordt gemaakt, daarvan zo spoedig mogelijk aan de derde schriftelijk kennis;
 
 - g. geen overeenkomstige toepassing toekomt aan [artikel 722 van het Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496&artikel=722);
 
-- h. op in beslag genomen roerende zaken die in bewaring worden genomen de [artikelen 141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2010-12-15&g=2010-12-15) van toepassing zijn;
+- h. op in beslag genomen roerende zaken die in bewaring worden genomen de [artikelen 141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2015-01-01&g=2015-01-01) van toepassing zijn;
 
 - i. de beëindiging van het beslag met inachtneming van de bepalingen van dit wetboek geschiedt.
 
@@ -1227,7 +1227,7 @@ Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 1. Hij die de verdachte aanhoudt of staande houdt, kan voor inbeslagneming vatbare voorwerpen, door deze met zich gevoerd, in beslag nemen.
 
-2. Met betrekking tot het onderzoek aan het lichaam of de kleding van de aangehouden verdachte gelden de bepalingen van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15).
+2. Met betrekking tot het onderzoek aan het lichaam of de kleding van de aangehouden verdachte gelden de bepalingen van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 121
 
@@ -1235,7 +1235,7 @@ Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. In geval van ontdekking op heterdaad zijn zij ter inbeslagneming tevens bevoegd in voer-, vaar- en luchtvaartuigen gericht en stelselmatig onderzoek te doen.
 
-3. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+3. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 122
 
@@ -1247,21 +1247,21 @@ Op het beslag, bedoeld in [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Kan het optreden van de officier van justitie niet worden afgewacht, dan komt de bevoegdheid toe aan een hulpofficier van justitie, onder verplichting om van de ondernomen handeling onverwijld kennis te geven aan de officier van justitie.
 
-3. In geval van toepassing van het eerste en tweede lid is de officier van justitie of de hulpofficier van justitie bevoegd elke plaats te betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+3. In geval van toepassing van het eerste en tweede lid is de officier van justitie of de hulpofficier van justitie bevoegd elke plaats te betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 123
 
 1. In geval van een strafbaar feit als omschreven in de [artikelen 97 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=97), [103a tot en met 104c](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=104), [245](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=245), [246](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=246), [256](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=256), [258](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=259), [260](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=260), [265](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=265) of [447 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=447), zijn de opsporingsambtenaren te allen tijde bevoegd ter inbeslagneming de uitlevering te vorderen van alle voor inbeslagneming vatbare voorwerpen.
 
-2. Zij hebben te allen tijde vrije toegang tot alle plaatsen, waar redelijkerwijze vermoed kan worden, dat een zodanig strafbaar feit wordt begaan. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+2. Zij hebben te allen tijde vrije toegang tot alle plaatsen, waar redelijkerwijze vermoed kan worden, dat een zodanig strafbaar feit wordt begaan. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 124
 
-De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteiten en alle plaatsen, waarvan redelijkerwijze kan worden vermoed, dat zij door een goud- of zilversmid, kashouder, horlogemaker, rijwiel- of autohandelaar, uitdrager, opkoper of tagrijn worden gebruikt. [Artikel 95bis van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=95bis), zomede de [artikelen 155 tot en met 164 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteiten en alle plaatsen, waarvan redelijkerwijze kan worden vermoed, dat zij door een goud- of zilversmid, kashouder, horlogemaker, rijwiel- of autohandelaar, uitdrager, opkoper of tagrijn worden gebruikt. [Artikel 95bis van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=95bis), zomede de [artikelen 155 tot en met 164 van dit wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 125
 
-1. Bij personen met bevoegdheid tot verschoning, als bedoeld bij [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15), worden, tenzij met hun toestemming, niet in beslag genomen brieven of andere geschriften, waartoe hun plicht tot geheimhouding zich uitstrekt.
+1. Bij personen met bevoegdheid tot verschoning, als bedoeld bij [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01), worden, tenzij met hun toestemming, niet in beslag genomen brieven of andere geschriften, waartoe hun plicht tot geheimhouding zich uitstrekt.
 
 2. Geschiedt bij zodanige personen huiszoeking, dan vindt zij, tenzij met hun toestemming, alleen plaats, voor zover zij zonder schending van het stands-, beroeps- of ambtsgeheim kan geschieden, en strekt zij zich niet uit tot brieven of andere geschriften die niet het voorwerp van het strafbare feit uitmaken of tot het begaan daarvan gediend hebben.
 
@@ -1291,15 +1291,15 @@ De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteite
 
 2. Voor zover het belang van het onderzoek dit niet verbiedt, worden zij vooraf door de hulpofficier van justitie gewaarmerkt.
 
-3. De inhoud van de door de officier van justitie geopende zaken, voor zover deze niet bij de processtukken of de stukken van overtuiging zijn gevoegd, wordt door hem geheim gehouden. Gelijke geheimhouding wordt door hem en door de hulpofficier van justitie in acht genomen ter zake van de inlichtingen, in [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2010-12-15&g=2010-12-15), vermeld, voor zover daarvan niet uit de processtukken blijkt.
+3. De inhoud van de door de officier van justitie geopende zaken, voor zover deze niet bij de processtukken of de stukken van overtuiging zijn gevoegd, wordt door hem geheim gehouden. Gelijke geheimhouding wordt door hem en door de hulpofficier van justitie in acht genomen ter zake van de inlichtingen, in [artikel 127, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2015-01-01&g=2015-01-01), vermeld, voor zover daarvan niet uit de processtukken blijkt.
 
 4. Van de inbeslagneming, de teruggave, de opening en de verzending wordt door de officier van justitie proces-verbaal opgemaakt, dat bij de processtukken wordt gevoegd.
 
-### Tweede afdeling A. De inbeslagneming op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15)
+### Tweede afdeling A. De inbeslagneming op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01)
 
 ##### Artikel 129a
 
-1. Beslag op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15) kan slechts worden gelegd of gehandhaafd krachtens schriftelijke machtiging op vordering van de officier van justitie te verlenen door de rechter-commissaris.
+1. Beslag op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01) kan slechts worden gelegd of gehandhaafd krachtens schriftelijke machtiging op vordering van de officier van justitie te verlenen door de rechter-commissaris.
 
 2. De machtiging wordt door de officier van justitie zo spoedig mogelijk aan de verdachte of de veroordeelde, en zo het beslag onder een derde is gelegd, ook aan deze betekend.
 
@@ -1309,7 +1309,7 @@ De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteite
 
 1. De rechter-commissaris is tot inbeslagneming van alle daarvoor vatbare voorwerpen bevoegd.
 
-2. [Artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2010-12-15&g=2010-12-15), is van toepassing.
+2. [Artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ##### Artikel 131
 
@@ -1323,11 +1323,11 @@ De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteite
 
 2. Niettemin bestaan geldige redenen van weigering op grond van bevoegdheid tot verschoning voor:
 
-- a. de personen, bedoeld bij [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15);
+- a. de personen, bedoeld bij [artikel 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01);
 
-- b. de personen, bedoeld bij [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15), voor zover de uitlevering of overbrenging met hun plicht tot geheimhouding in strijd zou zijn;
+- b. de personen, bedoeld bij [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01), voor zover de uitlevering of overbrenging met hun plicht tot geheimhouding in strijd zou zijn;
 
-- c. de personen, bedoeld bij [artikel 253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2010-12-15&g=2010-12-15), voor zover de uitlevering of overbrenging hen of een van hun daarin genoemde betrekkingen aan het gevaar van een strafrechtelijke vervolging zou blootstellen.
+- c. de personen, bedoeld bij [artikel 253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2015-01-01&g=2015-01-01), voor zover de uitlevering of overbrenging hen of een van hun daarin genoemde betrekkingen aan het gevaar van een strafrechtelijke vervolging zou blootstellen.
 
 ##### Artikel 133
 
@@ -1357,21 +1357,21 @@ De rechter-commissaris is na een met redenen omklede vordering van de officier v
 
 ##### Artikel 138
 
-1. Huiszoeking geschiedt, zoveel mogelijk in tegenwoordigheid van de officier van justitie, door of onder leiding van de rechter-commissaris. [Artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=136&z=2010-12-15&g=2010-12-15), is van toepassing.
+1. Huiszoeking geschiedt, zoveel mogelijk in tegenwoordigheid van de officier van justitie, door of onder leiding van de rechter-commissaris. [Artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=136&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 2. Ingeval de huiszoeking moet geschieden in een ander eilandgebied doet de rechter-commissaris een daartoe strekkend verzoek aan zijn ambtgenoot in dat andere eilandgebied.
 
-3. [Artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=126&z=2010-12-15&g=2010-12-15) is van toepassing.
+3. [Artikel 126](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=126&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 139
 
 1. De huiszoeking kan zich, indien dat voor het onderzoek strikt noodzakelijk is, uitstrekken tot de inbeslagneming van alle daarvoor vatbare voorwerpen.
 
-2. [Artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2010-12-15&g=2010-12-15), is van toepassing.
+2. [Artikel 125, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ##### Artikel 140
 
-1. De [artikelen 127 tot en met 129](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2010-12-15&g=2010-12-15) vinden ten aanzien van de rechter-commissaris overeenkomstige toepassing; de bemoeienissen van de officier van justitie, bij de artikelen 128 en 129 vermeld, worden bij het optreden van de rechter-commissaris door deze zo spoedig mogelijk overgenomen en voortgezet.
+1. De [artikelen 127 tot en met 129](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2015-01-01&g=2015-01-01) vinden ten aanzien van de rechter-commissaris overeenkomstige toepassing; de bemoeienissen van de officier van justitie, bij de artikelen 128 en 129 vermeld, worden bij het optreden van de rechter-commissaris door deze zo spoedig mogelijk overgenomen en voortgezet.
 
 2. De rechter-commissaris is bevoegd te bepalen dat van de inhoud van inbeslaggenomen gesloten pakketten, brieven, stukken en andere berichten, die aan de post, de telegrafie of een andere instelling van vervoer waren toevertrouwd, zal worden kennis genomen, voor zover zij klaarblijkelijk voor de verdachte bestemd of van hem afkomstig zijn.
 
@@ -1393,27 +1393,27 @@ De rechter-commissaris is na een met redenen omklede vordering van de officier v
 
 3. Indien de voorwerpen niet geschikt zijn voor opslag gedurende langere tijd, of dit hoogst ongewenst wordt geacht, kan het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd of anders het laatst werd vervolgd, op de vordering van het openbaar ministerie, de machtiging aan de bewaarder verlenen.
 
-4. Dit artikel blijft, voor zover teruggave van voorwerpen in de zin van [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2010-12-15&g=2010-12-15) mogelijk is, buiten toepassing, behoudens in het geval dat de rechthebbende afstand heeft gedaan.
+4. Dit artikel blijft, voor zover teruggave van voorwerpen in de zin van [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2015-01-01&g=2015-01-01) mogelijk is, buiten toepassing, behoudens in het geval dat de rechthebbende afstand heeft gedaan.
 
 5. Gelden en geldswaarden worden gestort in de consignatiekas dan wel op een daartoe bestemde rekening van de Staat.
 
 ##### Artikel 143
 
-Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze, waarop de inbeslaggenomen voorwerpen worden bewaard en ter beschikking van het onderzoek gehouden, dan wel, ingevolge [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2010-12-15&g=2010-12-15), worden vervreemd, vernietigd, prijsgegeven of tot een ander doel dan het onderzoek bestemd.
+Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze, waarop de inbeslaggenomen voorwerpen worden bewaard en ter beschikking van het onderzoek gehouden, dan wel, ingevolge [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2015-01-01&g=2015-01-01), worden vervreemd, vernietigd, prijsgegeven of tot een ander doel dan het onderzoek bestemd.
 
 ### Afdeling Vijfde. Teruggave van inbeslaggenomen voorwerpen
 
 ##### Artikel 144
 
-1. Zodra het belang van de strafvordering zich niet meer verzet tegen de teruggave van een inbeslaggenomen voorwerp, doet het openbaar ministerie dit door de bewaarder teruggeven aan degene, aan wie het door het strafbare feit is onttrokken. Is deze niet bekend, dan wordt het voorwerp teruggegeven aan degene bij wie het is inbeslaggenomen, tenzij deze het voorwerp onrechtmatig in zijn bezit heeft gekregen. In het laatste geval wordt het voorwerp teruggegeven aan de degene aan wie teruggave van het voorwerp op het eerste gezicht redelijk en maatschappelijk niet onverantwoord is. Is deze niet bekend, dan wordt met het voorwerp gehandeld overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2010-12-15&g=2010-12-15).
+1. Zodra het belang van de strafvordering zich niet meer verzet tegen de teruggave van een inbeslaggenomen voorwerp, doet het openbaar ministerie dit door de bewaarder teruggeven aan degene, aan wie het door het strafbare feit is onttrokken. Is deze niet bekend, dan wordt het voorwerp teruggegeven aan degene bij wie het is inbeslaggenomen, tenzij deze het voorwerp onrechtmatig in zijn bezit heeft gekregen. In het laatste geval wordt het voorwerp teruggegeven aan de degene aan wie teruggave van het voorwerp op het eerste gezicht redelijk en maatschappelijk niet onverantwoord is. Is deze niet bekend, dan wordt met het voorwerp gehandeld overeenkomstig [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2015-01-01&g=2015-01-01).
 
-2. Een verplichting tot teruggave bestaat niet ten aanzien van voorwerpen, waarvan de rechthebbende schriftelijk heeft verklaard afstand te doen. Met betrekking tot deze voorwerpen kan, ook indien zij geschikt zijn voor opslag, een machtiging worden verleend als bedoeld in [artikel 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2010-12-15&g=2010-12-15); voor het overige wordt daarmee gehandeld als met verbeurdverklaarde voorwerpen.
+2. Een verplichting tot teruggave bestaat niet ten aanzien van voorwerpen, waarvan de rechthebbende schriftelijk heeft verklaard afstand te doen. Met betrekking tot deze voorwerpen kan, ook indien zij geschikt zijn voor opslag, een machtiging worden verleend als bedoeld in [artikel 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2015-01-01&g=2015-01-01); voor het overige wordt daarmee gehandeld als met verbeurdverklaarde voorwerpen.
 
 ##### Artikel 145
 
 1. Een last tot teruggave van een inbeslaggenomen voorwerp dat in bewaring is gegeven is gericht tot de bewaarder.
 
-2. Indien deze aan de last niet kan voldoen, omdat het voorwerp op wettige wijze vervreemd, vernietigd, prijsgegeven of tot een ander doel dan het onderzoek bestemd is, gaat hij na daartoe verkregen machtiging van het gerecht, bedoeld in [artikel 142, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2010-12-15&g=2010-12-15), over tot uitbetaling van de prijs, die het voorwerp bij verkoop door hem redelijkerwijze had moeten opbrengen.
+2. Indien deze aan de last niet kan voldoen, omdat het voorwerp op wettige wijze vervreemd, vernietigd, prijsgegeven of tot een ander doel dan het onderzoek bestemd is, gaat hij na daartoe verkregen machtiging van het gerecht, bedoeld in [artikel 142, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=142&z=2015-01-01&g=2015-01-01), over tot uitbetaling van de prijs, die het voorwerp bij verkoop door hem redelijkerwijze had moeten opbrengen.
 
 3. Indien de bewaarder, buiten de gevallen in het tweede lid bedoeld, niet in staat is aan de last tot teruggave te voldoen dan wel het geven van zodanige last niet mogelijk bleek, houdt hij het voorwerp ter beschikking van de rechthebbende totdat sedert de last tot teruggave zes maanden, onderscheidenlijk sedert de inbeslagneming drie jaren, zijn verstreken. Is teruggave alsdan nog niet mogelijk gebleken dan wordt met het voorwerp gehandeld als met verbeurdverklaarde voorwerpen.
 
@@ -1421,7 +1421,7 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze, waaro
 
 ##### Artikel 145a
 
-Het openbaar ministerie kan op verzoek van de beslagene of van een andere belanghebbende een voorwerp dat op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15) in beslag is genomen onder zekerheidstelling doen teruggeven. De zekerheid bestaat in de storting van geldswaarden door de beslagene of een derde, of in de verbintenis van een derde als waarborg, voor een bedrag en op een wijze als door het openbaar ministerie wordt aanvaard.
+Het openbaar ministerie kan op verzoek van de beslagene of van een andere belanghebbende een voorwerp dat op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01) in beslag is genomen onder zekerheidstelling doen teruggeven. De zekerheid bestaat in de storting van geldswaarden door de beslagene of een derde, of in de verbintenis van een derde als waarborg, voor een bedrag en op een wijze als door het openbaar ministerie wordt aanvaard.
 
 ### Afdeling Zesde
 
@@ -1445,7 +1445,7 @@ Het openbaar ministerie kan op verzoek van de beslagene of van een andere belang
 
 ##### Artikel 150
 
-1. De belanghebbenden kunnen zich schriftelijk beklagen over inbeslagneming, over het gebruik van inbeslaggenomen voorwerpen, over het uitblijven van een last tot teruggave, over de teruggave aan een bepaald persoon, over de kennisneming of het gebruik van gegevens, als bedoeld in de [artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2010-12-15&g=2010-12-15), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=128&z=2010-12-15&g=2010-12-15) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=140&z=2010-12-15&g=2010-12-15).
+1. De belanghebbenden kunnen zich schriftelijk beklagen over inbeslagneming, over het gebruik van inbeslaggenomen voorwerpen, over het uitblijven van een last tot teruggave, over de teruggave aan een bepaald persoon, over de kennisneming of het gebruik van gegevens, als bedoeld in de [artikelen 127](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=127&z=2015-01-01&g=2015-01-01), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=128&z=2015-01-01&g=2015-01-01) en [140](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=140&z=2015-01-01&g=2015-01-01).
 
 2. Het klaagschrift wordt zo spoedig mogelijk na de inbeslagneming van de voorwerpen of de kennisneming van de gegevens ingediend ter griffie van het gerecht in feitelijke aanleg, waarvoor de zaak wordt vervolgd of het laatst werd vervolgd. Het klaagschrift is niet ontvankelijk, indien het is ingediend op het tijdstip waarop drie maanden zijn verstreken sedert de vervolgde zaak tot een einde is gekomen.
 
@@ -1459,7 +1459,7 @@ Het openbaar ministerie kan op verzoek van de beslagene of van een andere belang
 
 ##### Artikel 150a
 
-1. De belanghebbenden, anderen dan de verdachte, gewezen verdachte of veroordeelde, kunnen zich schriftelijk beklagen over een schikking als bedoeld in [artikel 503b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503b&z=2010-12-15&g=2010-12-15) op de grond dat deze betrekking heeft op hun toekomende voorwerpen en de officier van justitie die de voorwaarden heeft opgelegd, onderscheidenlijk de schikking is aangegaan, niet bereid is gebleken die voorwerpen of de waarde die zij bij verkoop redelijkerwijs hadden moeten opbrengen te vergoeden.
+1. De belanghebbenden, anderen dan de verdachte, gewezen verdachte of veroordeelde, kunnen zich schriftelijk beklagen over een schikking als bedoeld in [artikel 503b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503b&z=2015-01-01&g=2015-01-01) op de grond dat deze betrekking heeft op hun toekomende voorwerpen en de officier van justitie die de voorwaarden heeft opgelegd, onderscheidenlijk de schikking is aangegaan, niet bereid is gebleken die voorwerpen of de waarde die zij bij verkoop redelijkerwijs hadden moeten opbrengen te vergoeden.
 
 2. Het klaagschrift wordt, niet later dan nadat de verdachte, gewezen verdachte of veroordeelde aan de gestelde voorwaarden of aan de termen van de schikking heeft voldaan, dan wel de klager daarmee bekend is geworden, ingediend ter griffie van het gerecht waarbij de in het eerste lid bedoelde officier van justitie is geplaatst.
 
@@ -1477,27 +1477,27 @@ Het openbaar ministerie kan op verzoek van de beslagene of van een andere belang
 
 4. Tijdens de behandeling van het klaagschrift worden de klager en het openbaar ministerie in de gelegenheid gesteld te worden gehoord. De beschikking van het gerecht is met redenen omkleed en wordt in het openbaar uitgesproken. Aan de klager wordt door de griffier tijdig te voren schriftelijk mededeling gedaan van de dag der uitspraak.
 
-5. Acht het gerecht het beklag gegrond, dan herroept het de verbeurdverklaring of de onttrekking aan het verkeer en geeft een last, als bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=397&z=2010-12-15&g=2010-12-15).
+5. Acht het gerecht het beklag gegrond, dan herroept het de verbeurdverklaring of de onttrekking aan het verkeer en geeft een last, als bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=397&z=2015-01-01&g=2015-01-01).
 
 6. Bij de herroeping van een verbeurdverklaring kan het gerecht de voorwerpen aan het verkeer onttrokken verklaren, indien zij daarvoor vatbaar zijn. De [artikelen 35a](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35a), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35b) en [37, laatste zinsnede, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=37) zijn van overeenkomstige toepassing.
 
 ##### Artikel 152
 
-Zodra het openbaar ministerie bemerkt, dat een inbeslaggenomen voorwerp tijdens het begaan van het strafbare feit toebehoorde aan een ander dan de verdachte, stelt het die persoon, indien zijn verblijfplaats bekend is, in kennis van de bevoegdheden die hij heeft ingevolge de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15) en [151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=151&z=2010-12-15&g=2010-12-15).
+Zodra het openbaar ministerie bemerkt, dat een inbeslaggenomen voorwerp tijdens het begaan van het strafbare feit toebehoorde aan een ander dan de verdachte, stelt het die persoon, indien zijn verblijfplaats bekend is, in kennis van de bevoegdheden die hij heeft ingevolge de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01) en [151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=151&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 153
 
-1. Op een last, ingevolge deze afdeling gegeven met betrekking tot een voorwerp, is [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+1. Op een last, ingevolge deze afdeling gegeven met betrekking tot een voorwerp, is [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 2. Aan een last tot teruggave van een voorwerp, dat verbeurd verklaard of aan het verkeer onttrokken verklaard was met verlening van een geldelijke tegemoetkoming, wordt niet voldaan zolang het bedrag niet in ’s Rijks kas is teruggestort.
 
 ##### Artikel 154
 
-Met hetgeen onder de Staat berust als verbeurdverklaarde of aan het verkeer onttrokken verklaarde voorwerpen, wordt, zolang de mogelijkheid van herroeping van de straf of maatregel bestaat, gehandeld naar de [artikelen 141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2010-12-15&g=2010-12-15).
+Met hetgeen onder de Staat berust als verbeurdverklaarde of aan het verkeer onttrokken verklaarde voorwerpen, wordt, zolang de mogelijkheid van herroeping van de straf of maatregel bestaat, gehandeld naar de [artikelen 141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 154a
 
-Tot kennisneming van geschillen over de toepassing door openbaar ministerie van zijn bevoegdheden uit hoofde van [artikel 119d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119d&z=2010-12-15&g=2010-12-15) is de burgerlijke rechter bevoegd.
+Tot kennisneming van geschillen over de toepassing door openbaar ministerie van zijn bevoegdheden uit hoofde van [artikel 119d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119d&z=2015-01-01&g=2015-01-01) is de burgerlijke rechter bevoegd.
 
 ## Titel X. Binnentreden in woningen
 
@@ -1575,7 +1575,7 @@ Degene die bevoegd is zonder de uitdrukkelijke toestemming van de bewoner binnen
 
 - f. hetgeen in de woning is verricht of overigens is voorgevallen, het aantal en de hoedanigheid van degenen die hem hebben vergezeld, de namen van de personen aan wie in de woning hun vrijheid is ontnomen en de voorwerpen die in de woning in beslag zijn genomen.
 
-- g. voor zover van toepassing: de redenen waarom en de wijze waarop het bepaalde in [artikel 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15), dan wel [artikel 162, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2010-12-15&g=2010-12-15), toepassing heeft gevonden.
+- g. voor zover van toepassing: de redenen waarom en de wijze waarop het bepaalde in [artikel 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01), dan wel [artikel 162, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2015-01-01&g=2015-01-01), toepassing heeft gevonden.
 
 3. Het verslag wordt binnen tweemaal vierentwintig uren nadat in de woning is binnengetreden, toegezonden aan de officier van justitie. Een afschrift van het verslag wordt binnen diezelfde termijn aan de bewoner uitgereikt of toegezonden. Indien het niet mogelijk is dit afschrift uit te reiken of toe te zenden, houdt degene aan wie het verslag is toegezonden dan wel degene die zijn bevoegdheid zonder machtiging binnen te treden heeft uitgeoefend, het afschrift gedurende zes maanden voor de bewoner beschikbaar.
 
@@ -1609,7 +1609,7 @@ In de gevallen waarin het binnentreden van plaatsen krachtens dit wetboek is toe
 
 1. In geval van een schouw of huiszoeking kan de daarmee belaste rechter of ambtenaar de nodige maatregelen tot bewaking of afsluiting nemen en bevelen dat niemand zich, zonder zijn uitdrukkelijke bewilliging, van de plaats van de schouw of van de huiszoeking zal verwijderen, zolang het onderzoek aldaar niet is afgelopen.
 
-2. [Artikel 165, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XII&artikel=165&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. [Artikel 165, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XII&artikel=165&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ## Titel XIV
 
@@ -1621,7 +1621,7 @@ Indien het noodzakelijk is, dat een onderzoek naar de geestvermogens van een ver
 
 ##### Artikel 176
 
-1. Het bevel, bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=175&z=2010-12-15&g=2010-12-15), is met redenen omkleed en wordt niet gegeven, dan nadat het oordeel van een of meer deskundigen is ingewonnen en de verdachte en zijn raadsman terzake zijn gehoord. De rechter-commissaris nodigt de officier van justitie uit bij het horen tegenwoordig te zijn.
+1. Het bevel, bedoeld in [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=175&z=2015-01-01&g=2015-01-01), is met redenen omkleed en wordt niet gegeven, dan nadat het oordeel van een of meer deskundigen is ingewonnen en de verdachte en zijn raadsman terzake zijn gehoord. De rechter-commissaris nodigt de officier van justitie uit bij het horen tegenwoordig te zijn.
 
 2. Het bevel, houdende last tot overbrenging, en dat waarbij een daartoe strekkend verzoek van de verdachte is afgewezen, worden deze onverwijld betekend.
 
@@ -1645,11 +1645,11 @@ Indien het noodzakelijk is, dat een onderzoek naar de geestvermogens van een ver
 
 3. Het strafrechtelijk financieel onderzoek wordt ingesteld krachtens een met redenen omklede machtiging van de rechter-commissaris, op vordering van de officier van justitie die met de opsporing van het misdrijf is belast, verleend.
 
-4. De vordering van de officier van justitie is met redenen omkleed. Bij de vordering wordt een lijst van voorwerpen overgelegd die reeds op grond van [artikel 119a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15), in beslag zijn genomen.
+4. De vordering van de officier van justitie is met redenen omkleed. Bij de vordering wordt een lijst van voorwerpen overgelegd die reeds op grond van [artikel 119a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01), in beslag zijn genomen.
 
 ##### Artikel 177b
 
-1. Krachtens de ingevolge [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15) gegeven machtiging is een met het strafrechtelijk financieel onderzoek belaste opsporingsambtenaar op vertoon van een afschrift van de machtiging bevoegd, ten einde inzicht te verkrijgen in de vermogenspositie van degenen tegen wie het onderzoek is gericht, aan een ieder te bevelen hem op de eerste vordering:
+1. Krachtens de ingevolge [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01) gegeven machtiging is een met het strafrechtelijk financieel onderzoek belaste opsporingsambtenaar op vertoon van een afschrift van de machtiging bevoegd, ten einde inzicht te verkrijgen in de vermogenspositie van degenen tegen wie het onderzoek is gericht, aan een ieder te bevelen hem op de eerste vordering:
 
 - a. opgave te doen of inzage of afschrift te geven van bescheiden of gegevens;
 
@@ -1657,13 +1657,13 @@ Indien het noodzakelijk is, dat een onderzoek naar de geestvermogens van een ver
 
 2. Het bevel wordt niet gericht aan degene tegen wie het onderzoek is gericht.
 
-3. [Artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=132&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+3. [Artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Derde&artikel=132&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-4. Ter gelegenheid van het eerste verhoor van degene tegen wie het onderzoek is gericht, wordt hem door de verhorende rechter of ambtenaar een afschrift van de in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15) bedoelde vordering en machtiging ter hand gesteld.
+4. Ter gelegenheid van het eerste verhoor van degene tegen wie het onderzoek is gericht, wordt hem door de verhorende rechter of ambtenaar een afschrift van de in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01) bedoelde vordering en machtiging ter hand gesteld.
 
 ##### Artikel 177c
 
-1. Tijdens het strafrechtelijk financieel onderzoek is de officier van justitie bevoegd zonder verder rechterlijke machtiging te gelasten dat voorwerpen op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15) in beslag worden genomen.
+1. Tijdens het strafrechtelijk financieel onderzoek is de officier van justitie bevoegd zonder verder rechterlijke machtiging te gelasten dat voorwerpen op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01) in beslag worden genomen.
 
 2. Indien de officier van justitie zulks in het belang van het strafrechtelijk financieel onderzoek noodzakelijk acht, vordert hij dat de rechter-commissaris ter inbeslagneming huiszoeking doet of andere hem krachtens het derde lid toekomende bevoegdheden uitoefent.
 
@@ -1677,13 +1677,13 @@ Indien het noodzakelijk is, dat een onderzoek naar de geestvermogens van een ver
 
 ##### Artikel 177d
 
-1. De officier van justitie die de in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15) bedoelde vordering doet, kan bij dringende noodzakelijkheid ter inbeslagneming huiszoeking doen op elke plaats waar zich vermoedelijk bescheiden of gegevens als bedoeld in [artikel 177b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177b&z=2010-12-15&g=2010-12-15), of vermogensbestanddelen die voordeel in de zin van [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) vertegenwoordigen, bevinden.
+1. De officier van justitie die de in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01) bedoelde vordering doet, kan bij dringende noodzakelijkheid ter inbeslagneming huiszoeking doen op elke plaats waar zich vermoedelijk bescheiden of gegevens als bedoeld in [artikel 177b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177b&z=2015-01-01&g=2015-01-01), of vermogensbestanddelen die voordeel in de zin van [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) vertegenwoordigen, bevinden.
 
-2. Ten aanzien van het eerste lid is [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=122&z=2010-12-15&g=2010-12-15), van overeenkomstige toepassing en zijn de [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) van toepassing.
+2. Ten aanzien van het eerste lid is [artikel 122, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=122&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing en zijn de [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ##### Artikel 177e
 
-Ten aanzien van de artikelen [177a tot en met 177d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15) zijn de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2010-12-15&g=2010-12-15) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=126&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+Ten aanzien van de artikelen [177a tot en met 177d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01) zijn de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2015-01-01&g=2015-01-01) en [126](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=126&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 177f
 
@@ -1699,7 +1699,7 @@ Ten aanzien van de artikelen [177a tot en met 177d](https://wetten.overheid.nl/j
 
 3. De officier van justitie zendt zijn beschikking aan de rechter-commissaris en doet een afschrift daarvan aan degene tegen wie het is gericht, betekenen, onder mededeling van het recht tot kennisneming van de stukken van het onderzoek.
 
-4. Onverminderd het bepaalde in het tweede lid, de [artikelen 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2010-12-15&g=2010-12-15), [503d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2010-12-15&g=2010-12-15), en [503f, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503f&z=2010-12-15&g=2010-12-15), kan een gesloten strafrechtelijk financieel onderzoek slechts worden heropend krachtens een nadere machtiging van de rechter-commissaris, op vordering van de officier van justitie verleend. Het [vierde lid van artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15) is van toepassing.
+4. Onverminderd het bepaalde in het tweede lid, de [artikelen 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2015-01-01&g=2015-01-01), [503d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2015-01-01&g=2015-01-01), en [503f, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503f&z=2015-01-01&g=2015-01-01), kan een gesloten strafrechtelijk financieel onderzoek slechts worden heropend krachtens een nadere machtiging van de rechter-commissaris, op vordering van de officier van justitie verleend. Het [vierde lid van artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 5. Een nadere machtiging wordt zo spoedig mogelijk met de vordering waarop zij rust, aan degene tegen wie het onderzoek is gericht, betekend. Het eerste tot en met vierde lid is van toepassing.
 
@@ -1709,7 +1709,7 @@ Ten aanzien van de artikelen [177a tot en met 177d](https://wetten.overheid.nl/j
 
 ##### Artikel 177h
 
-1. Bevelen tot toepassing van een bevoegdheid als bedoeld in [titel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2010-12-15&g=2010-12-15) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2010-12-15&g=2010-12-15) alsmede een wijziging, aanvulling, verlenging of intrekking daarvan worden schriftelijk gegeven. Aan een schriftelijk bevel staat gelijk een mondeling bevel dat binnen drie dagen op schrift is gesteld.
+1. Bevelen tot toepassing van een bevoegdheid als bedoeld in [titel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2015-01-01&g=2015-01-01) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2015-01-01&g=2015-01-01) alsmede een wijziging, aanvulling, verlenging of intrekking daarvan worden schriftelijk gegeven. Aan een schriftelijk bevel staat gelijk een mondeling bevel dat binnen drie dagen op schrift is gesteld.
 
 2. Een schriftelijk bevel vermeldt:
 
@@ -1729,7 +1729,7 @@ Ten aanzien van de artikelen [177a tot en met 177d](https://wetten.overheid.nl/j
 
 ##### Artikel 177i
 
-1. Een machtiging van de rechter-commissaris als bedoeld in [titel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2010-12-15&g=2010-12-15) is schriftelijk. Aan een schriftelijke machtiging staat gelijk een mondelinge machtiging die binnen drie dagen op schrift is gesteld.
+1. Een machtiging van de rechter-commissaris als bedoeld in [titel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2015-01-01&g=2015-01-01) is schriftelijk. Aan een schriftelijke machtiging staat gelijk een mondelinge machtiging die binnen drie dagen op schrift is gesteld.
 
 2. De machtiging betreft alle onderdelen van het bevel. Indien ter uitvoering van het bevel een woning mag worden betreden, wordt dat uitdrukkelijk in de machtiging vermeld.
 
@@ -1741,13 +1741,13 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 ##### Artikel 177k
 
-1. De officier van justitie voegt de processen-verbaal en andere voorwerpen waaraan gegevens kunnen worden ontleend die zijn verkregen door de uitoefening van een van de bevoegdheden genoemd in de [titels XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2010-12-15&g=2010-12-15) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2010-12-15&g=2010-12-15), voor zover die voor het onderzoek in de zaak van enige betekenis zijn, bij de processtukken.
+1. De officier van justitie voegt de processen-verbaal en andere voorwerpen waaraan gegevens kunnen worden ontleend die zijn verkregen door de uitoefening van een van de bevoegdheden genoemd in de [titels XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2015-01-01&g=2015-01-01) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2015-01-01&g=2015-01-01), voor zover die voor het onderzoek in de zaak van enige betekenis zijn, bij de processtukken.
 
-2. Voor zover de processen-verbaal of andere voorwerpen mededelingen behelzen gedaan door of aan een persoon die zich op grond van [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) zou kunnen verschonen indien hem als getuige naar de inhoud van die mededelingen zou worden gevraagd, worden deze processen-verbaal en andere voorwerpen vernietigd. Voor zover de processen-verbaal of andere voorwerpen andere mededelingen dan bedoeld in de eerste volzin behelzen gedaan door of aan een in die volzin bedoelde persoon, worden zij niet bij de processtukken gevoegd dan na voorafgaande machtiging door de rechter-commissaris.
+2. Voor zover de processen-verbaal of andere voorwerpen mededelingen behelzen gedaan door of aan een persoon die zich op grond van [artikel 252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) zou kunnen verschonen indien hem als getuige naar de inhoud van die mededelingen zou worden gevraagd, worden deze processen-verbaal en andere voorwerpen vernietigd. Voor zover de processen-verbaal of andere voorwerpen andere mededelingen dan bedoeld in de eerste volzin behelzen gedaan door of aan een in die volzin bedoelde persoon, worden zij niet bij de processtukken gevoegd dan na voorafgaande machtiging door de rechter-commissaris.
 
-3. Onverminderd [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=53&z=2010-12-15&g=2010-12-15), vindt de voeging bij de processtukken plaats zodra het onderzoek dat toelaat.
+3. Onverminderd [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=53&z=2015-01-01&g=2015-01-01), vindt de voeging bij de processtukken plaats zodra het onderzoek dat toelaat.
 
-4. Indien geen processen-verbaal van de uitoefening van één van de bevoegdheden, bedoeld in de [titels XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2010-12-15&g=2010-12-15) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2010-12-15&g=2010-12-15), bij de processtukken zijn gevoegd, wordt van het gebruik van deze bevoegdheid in de processtukken melding gemaakt.
+4. Indien geen processen-verbaal van de uitoefening van één van de bevoegdheden, bedoeld in de [titels XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&z=2015-01-01&g=2015-01-01) en [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XIX&z=2015-01-01&g=2015-01-01), bij de processtukken zijn gevoegd, wordt van het gebruik van deze bevoegdheid in de processtukken melding gemaakt.
 
 5. De verdachte of diens raadsman kan de officier van justitie schriftelijk verzoeken bepaalde door hem aangeduide processen-verbaal of andere voorwerpen bij de processtukken te voegen.
 
@@ -1771,7 +1771,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 4. Het bevel wordt gegeven voor een periode van ten hoogste drie maanden. De geldigheidsduur kan telkens voor een periode van drie maanden worden verlengd.
 
-5. Het bevel tot stelselmatige observatie vermeldt, behalve de gegevens bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens:
+5. Het bevel tot stelselmatige observatie vermeldt, behalve de gegevens bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens:
 
 - a. de naam of een zo nauwkeurig mogelijke aanduiding van de in het eerste lid bedoelde persoon;
 
@@ -1787,7 +1787,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 3. De opsporingsambtenaar brengt bij de uitoefening van het bevel een ander niet tot strafbare feiten dan waarop diens opzet reeds tevoren was gericht.
 
-4. Het bevel tot infiltratie vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens:
+4. Het bevel tot infiltratie vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens:
 
 - a. een omschrijving van de groep van personen;
 
@@ -1807,7 +1807,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 2. De opsporingsambtenaar brengt bij de uitoefening van het bevel een ander niet tot strafbare feiten dan waarop diens opzet reeds tevoren was gericht.
 
-3. Het bevel tot pseudo-koop of -dienstverlening vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens, de aard van de goederen, gegevens of diensten.
+3. Het bevel tot pseudo-koop of -dienstverlening vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens, de aard van de goederen, gegevens of diensten.
 
 ### Afdeling Vierde. Stelselmatig inwinnen van informatie
 
@@ -1831,7 +1831,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 - b. aanwijzingen van een terroristisch misdrijf.
 
-2. Het bevel, bedoeld in het eerste lid vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens de plaats waarop het bevel betrekking heeft.
+2. Het bevel, bedoeld in het eerste lid vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens de plaats waarop het bevel betrekking heeft.
 
 ### Afdeling Zesde. Opnemen en onderzoek communicatie
 
@@ -1843,9 +1843,9 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 - b. aanwijzingen van een terroristisch misdrijf.
 
-2. De officier van justitie kan in het belang van het onderzoek bepalen dat ter uitvoering van het bevel een besloten plaats, niet zijnde een woning, wordt betreden zonder toestemming van de rechthebbende. Hij kan, na op diens vordering door de rechter-commissaris daartoe verleende machtiging, bepalen dat ter uitvoering van het bevel een woning zonder toestemming van de rechthebbende wordt betreden, indien het onderzoek dit dringend vordert. In het geval bedoeld in het eerste lid, onderdeel a, betreft het een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld. De [artikelen 155 tot en met 163](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15), met uitzondering van [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2010-12-15&g=2010-12-15), zijn van overeenkomstige toepassing.
+2. De officier van justitie kan in het belang van het onderzoek bepalen dat ter uitvoering van het bevel een besloten plaats, niet zijnde een woning, wordt betreden zonder toestemming van de rechthebbende. Hij kan, na op diens vordering door de rechter-commissaris daartoe verleende machtiging, bepalen dat ter uitvoering van het bevel een woning zonder toestemming van de rechthebbende wordt betreden, indien het onderzoek dit dringend vordert. In het geval bedoeld in het eerste lid, onderdeel a, betreft het een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld. De [artikelen 155 tot en met 163](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01), met uitzondering van [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
-3. Het bevel vermeldt, behalve de gegevens bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens:
+3. Het bevel vermeldt, behalve de gegevens bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens:
 
 - a. ten minste één van de personen die aan de communicatie deelneemt en, indien het bevel communicatie betreft op een besloten plaats of in een vervoermiddel, bovendien een zo nauwkeurig mogelijke omschrijving van die plaats of dat vervoermiddel;
 
@@ -1863,7 +1863,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 - b. aanwijzingen van een terroristisch misdrijf.
 
-2. Het bevel vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2010-12-15&g=2010-12-15), tevens zo mogelijk het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd alsmede, voor zover bekend, de naam en het adres van de gebruiker en een aanduiding van de aard van het technisch hulpmiddel of de technische hulpmiddelen waarmee de communicatie wordt opgenomen.
+2. Het bevel vermeldt, behalve de gegevens, bedoeld in [artikel 177h](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVII&artikel=177h&z=2015-01-01&g=2015-01-01), tevens zo mogelijk het nummer of een andere aanduiding waarmee de individuele gebruiker van de communicatiedienst wordt geïdentificeerd alsmede, voor zover bekend, de naam en het adres van de gebruiker en een aanduiding van de aard van het technisch hulpmiddel of de technische hulpmiddelen waarmee de communicatie wordt opgenomen.
 
 3. Het bevel kan in het belang van het onderzoek ten uitvoer worden gelegd met medewerking van de aanbieder van een communicatiedienst, In dat geval gaat het bevel vergezeld van de vordering van de officier van justitie aan de aanbieder om medewerking te verlenen.
 
@@ -1881,7 +1881,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 - b. aanwijzingen van een terroristisch misdrijf.
 
-2. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2010-12-15&g=2010-12-15). De vordering kan geen betrekking hebben op persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven of lidmaatschap van een vakvereniging.
+2. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2015-01-01&g=2015-01-01). De vordering kan geen betrekking hebben op persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven of lidmaatschap van een vakvereniging.
 
 3. Een vordering als bedoeld in het eerste lid is schriftelijk en vermeldt:
 
@@ -1913,39 +1913,39 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 ##### Artikel 177t
 
-1. De officier van justitie kan, indien het belang van het onderzoek dit dringend vordert, van degene van wie redelijkerwijs kan worden vermoed dat hij toegang heeft tot gegevens als bedoeld in [artikel 177s, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15), deze gegevens vorderen, in geval van:
+1. De officier van justitie kan, indien het belang van het onderzoek dit dringend vordert, van degene van wie redelijkerwijs kan worden vermoed dat hij toegang heeft tot gegevens als bedoeld in [artikel 177s, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01), deze gegevens vorderen, in geval van:
 
 - a. verdenking van een misdrijf waarvoor voorlopige hechtenis is toegelaten, dat gezien zijn aard of de samenhang met andere door de verdachte begane misdrijven een ernstige inbreuk op de rechtsorde oplevert;
 
 - b. aanwijzingen van een terroristisch misdrijf.
 
-2. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) en [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2010-12-15&g=2010-12-15).
+2. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) en [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2015-01-01&g=2015-01-01).
 
 3. Een vordering als bedoeld in het eerste lid kan slechts worden gedaan na voorafgaande machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris.
 
-4. [Artikel 177s, derde, vijfde, zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+4. [Artikel 177s, derde, vijfde, zesde, en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ### Afdeling Achtste. Steunbevoegdheden
 
 ##### Artikel 177u
 
-1. Teneinde toepassing te kunnen geven aan [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2010-12-15&g=2010-12-15) of [artikel 177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15) kan de officier van justitie bevelen dat met behulp van bij ministeriële regeling omschreven apparatuur het nummer, waarmee een gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen.
+1. Teneinde toepassing te kunnen geven aan [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2015-01-01&g=2015-01-01) of [artikel 177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01) kan de officier van justitie bevelen dat met behulp van bij ministeriële regeling omschreven apparatuur het nummer, waarmee een gebruiker van een communicatiedienst kan worden geïdentificeerd, wordt verkregen.
 
 2. Het bevel wordt gegeven aan een ambtenaar aan te wijzen door Onze Minister van Justitie.
 
 3. Het bevel wordt gegeven voor een periode van ten hoogste één week en vermeldt:
 
-- a. de feiten of omstandigheden waaruit blijkt dat voldaan is aan de voorwaarden voor toepassing van [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2010-12-15&g=2010-12-15) of artikel [177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15) en
+- a. de feiten of omstandigheden waaruit blijkt dat voldaan is aan de voorwaarden voor toepassing van [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2015-01-01&g=2015-01-01) of artikel [177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01) en
 
 - b. de naam of een zo nauwkeurig mogelijke aanduiding van de gebruiker van een communicatiedienst van wie het nummer moet worden verkregen.
 
-4. De officier van justitie doet te zijnen overstaan de processen-verbaal of andere voorwerpen, waaraan een gegeven kan worden ontleend dat is verkregen door toepassing van het eerste lid vernietigen indien dat gegeven niet gebruikt wordt voor de toepassing van [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2010-12-15&g=2010-12-15) of artikel [177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15).
+4. De officier van justitie doet te zijnen overstaan de processen-verbaal of andere voorwerpen, waaraan een gegeven kan worden ontleend dat is verkregen door toepassing van het eerste lid vernietigen indien dat gegeven niet gebruikt wordt voor de toepassing van [artikel 177r](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2015-01-01&g=2015-01-01) of artikel [177s](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 177v
 
-1. De officier van justitie kan, indien het belang van het onderzoek dit vordert, bij of terstond na de toepassing van [artikel 177r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2010-12-15&g=2010-12-15), [artikel 177s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2010-12-15&g=2010-12-15), of [177t, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177t&z=2010-12-15&g=2010-12-15), degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de in deze artikelen bedoelde gegevens, bevelen medewerking te verlenen aan het ontsleutelen van de gegevens door de versleuteling ongedaan te maken, dan wel deze kennis ter beschikking te stellen.
+1. De officier van justitie kan, indien het belang van het onderzoek dit vordert, bij of terstond na de toepassing van [artikel 177r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zesde&artikel=177r&z=2015-01-01&g=2015-01-01), [artikel 177s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177s&z=2015-01-01&g=2015-01-01), of [177t, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Zevende&artikel=177t&z=2015-01-01&g=2015-01-01), degene van wie redelijkerwijs kan worden vermoed dat hij kennis draagt van de wijze van versleuteling van de in deze artikelen bedoelde gegevens, bevelen medewerking te verlenen aan het ontsleutelen van de gegevens door de versleuteling ongedaan te maken, dan wel deze kennis ter beschikking te stellen.
 
-2. Het bevel wordt niet gegeven aan de verdachte noch aan de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2010-12-15&g=2010-12-15).
+2. Het bevel wordt niet gegeven aan de verdachte noch aan de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2015-01-01&g=2015-01-01).
 
 ## Titel XIX. Bijstand aan opsporing door burgers
 
@@ -1959,7 +1959,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 - b. er aanwijzingen zijn van een terroristisch misdrijf.
 
-2. Toepassing van het eerste lid vindt alleen plaats indien de officier van justitie van oordeel is dat geen bevel als bedoeld in [artikel 177n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Derde&artikel=177n&z=2010-12-15&g=2010-12-15), en [artikel 177o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Vierde&artikel=177o&z=2010-12-15&g=2010-12-15), kan worden gegeven.
+2. Toepassing van het eerste lid vindt alleen plaats indien de officier van justitie van oordeel is dat geen bevel als bedoeld in [artikel 177n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Derde&artikel=177n&z=2015-01-01&g=2015-01-01), en [artikel 177o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Vierde&artikel=177o&z=2015-01-01&g=2015-01-01), kan worden gegeven.
 
 3. De persoon die op grond van het eerste lid bijstand verleent aan de opsporing brengt bij de uitvoering daarvan een ander niet tot strafbare feiten dan waarop diens opzet reeds van tevoren was gericht.
 
@@ -1977,7 +1977,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 2. In geval van aanwijzingen van een terroristisch misdrijf kan de officier van justitie, indien het belang van het onderzoek dit dringend vordert, met een persoon die geen opsporingsambtenaar is, overeenkomen dat deze bijstand verleent aan de opsporing door deel te nemen aan of medewerking te verlenen aan een groep van personen ten aanzien waarvan aanwijzingen bestaan dat daarbinnen een terroristisch misdrijf wordt beraamd of gepleegd.
 
-3. Toepassing van het eerste lid vindt alleen plaats indien de officier van justitie van oordeel is dat geen bevel als bedoeld in [artikel 177m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Tweede&artikel=177m&z=2010-12-15&g=2010-12-15), kan worden gegeven.
+3. Toepassing van het eerste lid vindt alleen plaats indien de officier van justitie van oordeel is dat geen bevel als bedoeld in [artikel 177m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVIII&afdeling=Tweede&artikel=177m&z=2015-01-01&g=2015-01-01), kan worden gegeven.
 
 4. De persoon die op grond van het eerste lid bijstand verleent aan de opsporing brengt bij de uitvoering daarvan een ander niet tot strafbare feiten dan waarop diens opzet reeds tevoren was gericht.
 
@@ -2039,7 +2039,7 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 2. Indien een onderzoek als bedoeld in het eerste lid de voorbereiding van de opsporing van terroristische misdrijven tot doel heeft, kan de officier van justitie na voorafgaande schriftelijke machtiging, op zijn vordering te verlenen door de rechter-commissaris, in het belang van het onderzoek van degene die daarvoor redelijkerwijs in aanmerking komt en die anders dan ten behoeve van persoonlijk gebruik gegevens verwerkt, vorderen bepaalde opgeslagen gegevens of vastgestelde gegevens van een persoon te verstrekken, teneinde de gegevens te doen bewerken.
 
-3. Een vordering als bedoeld in het tweede lid kan niet worden gericht tot de personen bedoeld in het eerste lid noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2010-12-15&g=2010-12-15).
+3. Een vordering als bedoeld in het tweede lid kan niet worden gericht tot de personen bedoeld in het eerste lid noch tot de verschoningsgerechtigde, bedoeld in de [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01), [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) of [253](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=253&z=2015-01-01&g=2015-01-01).
 
 4. De bewerking als bedoeld in het tweede lid kan bestaan uit het onderling vergelijken dan wel het in combinatie met elkaar verwerken van de gegevens met gegevens uit de politieregisters.
 
@@ -2087,9 +2087,9 @@ Bij ministeriële regeling kunnen personen in de openbare dienst van de andere l
 
 1. Tegen de door de rechter in eerste aanleg genomen beslissing staat de officier van justitie en de gelaedeerde of zijn erfgenamen binnen veertien dagen hoger beroep open bij het Hof van Justitie.
 
-2. Ten aanzien van de gelaedeerde of zijn erfgenamen vinden de [artikelen 443 tot en met 452](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=III&artikel=443&z=2010-12-15&g=2010-12-15) overeenkomstige toepassing.
+2. Ten aanzien van de gelaedeerde of zijn erfgenamen vinden de [artikelen 443 tot en met 452](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=III&artikel=443&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing.
 
-3. Het Hof van Justitie beslist na de gelaedeerde of zijn erfgenamen te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen. De gelaedeerde of zijn erfgenamen kunnen zich door een advocaat doen bijstaan. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=49&z=2010-12-15&g=2010-12-15) vindt overeenkomstige toepassing.
+3. Het Hof van Justitie beslist na de gelaedeerde of zijn erfgenamen te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen. De gelaedeerde of zijn erfgenamen kunnen zich door een advocaat doen bijstaan. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=49&z=2015-01-01&g=2015-01-01) vindt overeenkomstige toepassing.
 
 ##### Artikel 181
 
@@ -2143,7 +2143,7 @@ Met de opsporing van strafbare feiten zijn ook belast zij, aan wier waakzaamheid
 
 ##### Artikel 186
 
-1. De opsporingsambtenaren, bedoeld in de [artikelen 184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2010-12-15&g=2010-12-15), en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2010-12-15&g=2010-12-15), maken ten spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit of van hetgeen door hen tot opsporing is verricht of bevonden. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed of -belofte. Voor zover zij die niet hebben afgelegd, worden zij binnen tweemaal vier en twintig uren beëdigd dan wel wordt hun binnen die termijn de belofte afgenomen voor een hulpofficier van justitie, die daarvan een verklaring op het proces-verbaal stelt.
+1. De opsporingsambtenaren, bedoeld in de [artikelen 184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2015-01-01&g=2015-01-01), en [185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2015-01-01&g=2015-01-01), maken ten spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit of van hetgeen door hen tot opsporing is verricht of bevonden. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed of -belofte. Voor zover zij die niet hebben afgelegd, worden zij binnen tweemaal vier en twintig uren beëdigd dan wel wordt hun binnen die termijn de belofte afgenomen voor een hulpofficier van justitie, die daarvan een verklaring op het proces-verbaal stelt.
 
 2. De processen-verbaal worden door de opsporingsambtenaren persoonlijk opgemaakt, gedagtekend en ondertekend. Daarbij moeten tevens zoveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
 
@@ -2161,11 +2161,11 @@ De officier van justitie is te allen tijde bevoegd ten einde enige plaatselijke 
 
 ##### Artikel 189
 
-In geval van ontdekking op heterdaad of van een misdrijf waarvoor voorlopige hechtenis is toegelaten, kan de officier van justitie, bij dringende noodzakelijkheid ten einde een plaatselijke toestand of een voorwerp te schouwen, elke plaats betreden waar de daad begaan is of sporen heeft achtergelaten, onverminderd het bepaalde in de [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15).
+In geval van ontdekking op heterdaad of van een misdrijf waarvoor voorlopige hechtenis is toegelaten, kan de officier van justitie, bij dringende noodzakelijkheid ten einde een plaatselijke toestand of een voorwerp te schouwen, elke plaats betreden waar de daad begaan is of sporen heeft achtergelaten, onverminderd het bepaalde in de [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 190
 
-De officier van justitie kan ambtshalve of op het verzoek van de verdachte een of meer deskundigen benoemen ten einde hem voor te lichten of bij te staan en, zo nodig, met opdracht het door hem gevorderde onderzoek in te stellen en hem een met redenen omkleed verslag uit te brengen. De bepalingen van de [zesde afdeling van de Derde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&z=2010-12-15&g=2010-12-15) vinden overeenkomstige toepassing.
+De officier van justitie kan ambtshalve of op het verzoek van de verdachte een of meer deskundigen benoemen ten einde hem voor te lichten of bij te staan en, zo nodig, met opdracht het door hem gevorderde onderzoek in te stellen en hem een met redenen omkleed verslag uit te brengen. De bepalingen van de [zesde afdeling van de Derde Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&z=2015-01-01&g=2015-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 191
 
@@ -2187,7 +2187,7 @@ De officier van justitie kan ambtshalve of op het verzoek van de verdachte een o
 
 ##### Artikel 192
 
-Kan het optreden van de officier van justitie niet worden afgewacht, dan hebben ook de hulpofficieren de bevoegdheden bij de [artikelen 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=188&z=2010-12-15&g=2010-12-15) en [189](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=189&z=2010-12-15&g=2010-12-15) beschreven.
+Kan het optreden van de officier van justitie niet worden afgewacht, dan hebben ook de hulpofficieren de bevoegdheden bij de [artikelen 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=188&z=2015-01-01&g=2015-01-01) en [189](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=189&z=2015-01-01&g=2015-01-01) beschreven.
 
 ##### Artikel 193
 
@@ -2201,11 +2201,11 @@ De hulpofficieren van justitie doen de processen-verbaal, bij hen ingekomen of d
 
 ##### Artikel 195
 
-Onverminderd het bepaalde in bijzondere wettelijke regelingen doen de personen, bedoeld in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2010-12-15&g=2010-12-15), hun processen-verbaal, de aangiften of berichten ter zake van strafbare feiten, alsmede de opgave als benadeelde partij, met de inbeslaggenomen voorwerpen, onverwijld toekomen aan de officier van justitie.
+Onverminderd het bepaalde in bijzondere wettelijke regelingen doen de personen, bedoeld in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2015-01-01&g=2015-01-01), hun processen-verbaal, de aangiften of berichten ter zake van strafbare feiten, alsmede de opgave als benadeelde partij, met de inbeslaggenomen voorwerpen, onverwijld toekomen aan de officier van justitie.
 
 ##### Artikel 196
 
-Na overeenkomstig de [artikelen 192 tot en met 195](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=192&z=2010-12-15&g=2010-12-15) te hebben gehandeld, wachten de hulpofficieren van justitie en de overige opsporingsambtenaren de nadere bevelen van de officier van justitie af; gedoogt het belang van het onderzoek zodanig afwachten niet, dan zetten zij het onderzoek inmiddels voort en winnen zij nadere inlichtingen in, die de zaak tot meer klaarheid kunnen brengen. Van dit onderzoek en de ingewonnen inlichtingen doen zij blijken bij proces-verbaal, waarmee zij handelen overeenkomstig de [artikelen 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2010-12-15&g=2010-12-15), [194](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=194&z=2010-12-15&g=2010-12-15) of [195](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=195&z=2010-12-15&g=2010-12-15).
+Na overeenkomstig de [artikelen 192 tot en met 195](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=192&z=2015-01-01&g=2015-01-01) te hebben gehandeld, wachten de hulpofficieren van justitie en de overige opsporingsambtenaren de nadere bevelen van de officier van justitie af; gedoogt het belang van het onderzoek zodanig afwachten niet, dan zetten zij het onderzoek inmiddels voort en winnen zij nadere inlichtingen in, die de zaak tot meer klaarheid kunnen brengen. Van dit onderzoek en de ingewonnen inlichtingen doen zij blijken bij proces-verbaal, waarmee zij handelen overeenkomstig de [artikelen 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2015-01-01&g=2015-01-01), [194](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=194&z=2015-01-01&g=2015-01-01) of [195](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=195&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 197
 
@@ -2255,19 +2255,19 @@ Ieder, die kennis draagt van een begaan strafbaar feit, is bevoegd daarvan aangi
 
 3. De schriftelijke aangifte wordt door de aangever of diens gemachtigde ondertekend. De schriftelijke volmacht, of, zo zij voor een notaris in minuut is verleden, een authentiek afschrift daarvan, wordt aan de akte gehecht.
 
-4. Tot het ontvangen van de aangiften, bedoeld in de [artikelen 198](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=198&z=2010-12-15&g=2010-12-15) en [199](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=199&z=2010-12-15&g=2010-12-15), zijn de opsporingsambtenaren, en tot het ontvangen van de aangiften, bedoeld in [artikel 200](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=200&z=2010-12-15&g=2010-12-15), de daarbij genoemde ambtenaren, verplicht. [Artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=194&z=2010-12-15&g=2010-12-15) is van toepassing.
+4. Tot het ontvangen van de aangiften, bedoeld in de [artikelen 198](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=198&z=2015-01-01&g=2015-01-01) en [199](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=199&z=2015-01-01&g=2015-01-01), zijn de opsporingsambtenaren, en tot het ontvangen van de aangiften, bedoeld in [artikel 200](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=200&z=2015-01-01&g=2015-01-01), de daarbij genoemde ambtenaren, verplicht. [Artikel 194](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=194&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 202
 
 1. Bij strafbare feiten alleen op klacht vervolgbaar, geschiedt deze klacht mondeling of schriftelijk bij de bevoegde ambtenaar, hetzij door de tot de klacht gerechtigde in persoon, hetzij door een ander, daartoe door hem van een bijzondere schriftelijke volmacht voorzien. De klacht bestaat in een aangifte met verzoek tot vervolging.
 
-2. Het tweede en derde lid van [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+2. Het tweede en derde lid van [artikel 201](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 203
 
 1. Tot het ontvangen van de klacht is elke officier van justitie en elke hulpofficier van justitie verplicht.
 
-2. [Artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2010-12-15&g=2010-12-15) is van toepassing.
+2. [Artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 204
 
@@ -2275,13 +2275,13 @@ Indien de klacht krachtens [artikel 66, eerste lid, van het Wetboek van Strafrec
 
 ##### Artikel 205
 
-De intrekking van de klacht geschiedt bij de ambtenaren, op de wijze en in de vorm voor het doen van de klacht bij de [artikelen 201](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2010-12-15&g=2010-12-15), [202](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=202&z=2010-12-15&g=2010-12-15) en [203](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=203&z=2010-12-15&g=2010-12-15) bepaald. [Artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2010-12-15&g=2010-12-15) is van toepassing.
+De intrekking van de klacht geschiedt bij de ambtenaren, op de wijze en in de vorm voor het doen van de klacht bij de [artikelen 201](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2015-01-01&g=2015-01-01), [202](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=202&z=2015-01-01&g=2015-01-01) en [203](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=203&z=2015-01-01&g=2015-01-01) bepaald. [Artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=193&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ### Afdeling Derde. Opgave als benadeelde partij
 
 ##### Artikel 206
 
-1. Ieder, die door het strafbare feit van een ander schade heeft geleden, kan zich opgeven als benadeelde partij. Ten aanzien van die opgave is [artikel 201, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2010-12-15&g=2010-12-15), van overeenkomstige toepassing. De opsporingsambtenaren zijn tot het ontvangen van de opgave verplicht.
+1. Ieder, die door het strafbare feit van een ander schade heeft geleden, kan zich opgeven als benadeelde partij. Ten aanzien van die opgave is [artikel 201, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Tweede&artikel=201&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing. De opsporingsambtenaren zijn tot het ontvangen van de opgave verplicht.
 
 2. De benadeelde partij ontvangt een afschrift van het proces-verbaal betreffende haar opgave.
 
@@ -2297,7 +2297,7 @@ De intrekking van de klacht geschiedt bij de ambtenaren, op de wijze en in de vo
 
 2. Van vervolging kan worden afgezien op gronden aan het algemeen belang ontleend. Aan die beslissing kunnen door de officier van justitie voorwaarden worden verbonden. Daarbij wordt in het bijzonder acht geslagen op de belangen van de benadeelde partij.
 
-3. [Artikel 278, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=278&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing. De kennisgeving behelst alsdan de beslissing niet te vervolgen.
+3. [Artikel 278, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=278&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing. De kennisgeving behelst alsdan de beslissing niet te vervolgen.
 
 ##### Artikel 208
 
@@ -2307,7 +2307,7 @@ De intrekking van de klacht geschiedt bij de ambtenaren, op de wijze en in de vo
 
 ##### Artikel 209
 
-1. De benadeelde partij, die de in [artikel 206, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Derde&artikel=206&z=2010-12-15&g=2010-12-15), bedoelde wens kenbaar heeft gemaakt, wordt door de officier van justitie ingelicht omtrent de door hem genomen beslissing omtrent al dan niet vervolgen. Indien de zaak wordt vervolgd, houdt hij de benadeelde partij op de hoogte van voor haar van belang zijnde momenten in de verdere procedure. Indien de zaak niet wordt vervolgd, wijst hij haar op de mogelijkheid om op de voet van de [artikelen 15 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2010-12-15&g=2010-12-15) bij het Hof van Justitie beklag te doen.
+1. De benadeelde partij, die de in [artikel 206, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Derde&artikel=206&z=2015-01-01&g=2015-01-01), bedoelde wens kenbaar heeft gemaakt, wordt door de officier van justitie ingelicht omtrent de door hem genomen beslissing omtrent al dan niet vervolgen. Indien de zaak wordt vervolgd, houdt hij de benadeelde partij op de hoogte van voor haar van belang zijnde momenten in de verdere procedure. Indien de zaak niet wordt vervolgd, wijst hij haar op de mogelijkheid om op de voet van de [artikelen 15 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2015-01-01&g=2015-01-01) bij het Hof van Justitie beklag te doen.
 
 2. Desgevraagd wordt degene, die door een misdrijf ernstig is benadeeld, in de gelegenheid gesteld om, in verband met door de officier van justitie te nemen beslissingen, zijn zienswijze kenbaar te maken.
 
@@ -2369,9 +2369,9 @@ Het proces-verbaal wordt door de rechter-commissaris en de griffier ondertekend.
 
 ##### Artikel 219
 
-1. De rechter-commissaris kan, ambtshalve, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman, in het belang van het onderzoek het doen van nasporingen opdragen en bevelen geven aan de ambtenaren genoemd in [artikel 184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2010-12-15&g=2010-12-15), en aan de personen genoemd in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2010-12-15&g=2010-12-15).
+1. De rechter-commissaris kan, ambtshalve, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman, in het belang van het onderzoek het doen van nasporingen opdragen en bevelen geven aan de ambtenaren genoemd in [artikel 184, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2015-01-01&g=2015-01-01), en aan de personen genoemd in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=185&z=2015-01-01&g=2015-01-01).
 
-2. De rechter-commissaris heeft gelijke bevoegdheid als in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2010-12-15&g=2010-12-15) aan het openbaar ministerie is toegekend.
+2. De rechter-commissaris heeft gelijke bevoegdheid als in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2015-01-01&g=2015-01-01) aan het openbaar ministerie is toegekend.
 
 ##### Artikel 220
 
@@ -2383,7 +2383,7 @@ Indien bij afwezigheid van de officier van justitie gedurende het onderzoek enig
 
 ##### Artikel 221
 
-1. Indien de officier van justitie overeenkomstig de bepaling van [artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=187&z=2010-12-15&g=2010-12-15) ten aanzien van een strafbaar feit een gerechtelijk vooronderzoek nodig acht, vordert hij dat door de rechter-commissaris onverwijld daartoe zal worden overgegaan.
+1. Indien de officier van justitie overeenkomstig de bepaling van [artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=187&z=2015-01-01&g=2015-01-01) ten aanzien van een strafbaar feit een gerechtelijk vooronderzoek nodig acht, vordert hij dat door de rechter-commissaris onverwijld daartoe zal worden overgegaan.
 
 2. In de vordering wordt het feit zo nauwkeurig mogelijk omschreven als in deze stand van de zaak mogelijk is.
 
@@ -2405,17 +2405,17 @@ Indien bij afwezigheid van de officier van justitie gedurende het onderzoek enig
 
 1. Indien de rechter-commissaris oordeelt, dat tot het gerechtelijk vooronderzoek geen grond bestaat, verklaart hij dit bij een met redenen omklede beschikking.
 
-2. Onverminderd het bepaalde in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=221&z=2010-12-15&g=2010-12-15) kan de rechter-commissaris, zo de verdachte zich in voorlopige hechtenis bevindt en aan hem nog niet een dagvaarding ter terechtzitting is betekend, op het verzoek van de verdachte een gerechtelijk vooronderzoek instellen ten aanzien van het feit waarvoor de voorlopige hechtenis is bevolen. Indien de rechter-commissaris oordeelt, dat grond tot gebruik van deze bevoegdheid bestaat, verklaart hij dit bij een met redenen omklede beschikking. Een afschrift daarvan zendt hij aan de officier van justitie.
+2. Onverminderd het bepaalde in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=221&z=2015-01-01&g=2015-01-01) kan de rechter-commissaris, zo de verdachte zich in voorlopige hechtenis bevindt en aan hem nog niet een dagvaarding ter terechtzitting is betekend, op het verzoek van de verdachte een gerechtelijk vooronderzoek instellen ten aanzien van het feit waarvoor de voorlopige hechtenis is bevolen. Indien de rechter-commissaris oordeelt, dat grond tot gebruik van deze bevoegdheid bestaat, verklaart hij dit bij een met redenen omklede beschikking. Een afschrift daarvan zendt hij aan de officier van justitie.
 
 3. Zodra een overeenkomstig het tweede lid ingesteld gerechtelijk vooronderzoek moet worden uitgebreid tot andere strafbare feiten, dient de officier van justitie een daartoe strekkende vordering in.
 
 4. Wanneer een meer nauwkeurige omschrijving van het feit mogelijk is geworden, dient de officier van justitie een dienovereenkomstige vordering in, zodra het belang van het onderzoek de indiening toelaat.
 
-5. [Artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=222&z=2010-12-15&g=2010-12-15), en [artikel 223](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=223&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+5. [Artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=222&z=2015-01-01&g=2015-01-01), en [artikel 223](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=223&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 225
 
-1. Telkens ter gelegenheid van het eerste verhoor van de verdachte, nadat een vordering als vermeld in de [artikelen 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=221&z=2010-12-15&g=2010-12-15), [222](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=222&z=2010-12-15&g=2010-12-15) en [224, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=224&z=2010-12-15&g=2010-12-15), is ingekomen, dan wel een beschikking als bedoeld in artikel 222, tweede lid, is gegeven, wordt hem door de rechter-commissaris een afschrift van die vordering of beschikking ter hand gesteld.
+1. Telkens ter gelegenheid van het eerste verhoor van de verdachte, nadat een vordering als vermeld in de [artikelen 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=221&z=2015-01-01&g=2015-01-01), [222](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=222&z=2015-01-01&g=2015-01-01) en [224, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Eerste&artikel=224&z=2015-01-01&g=2015-01-01), is ingekomen, dan wel een beschikking als bedoeld in artikel 222, tweede lid, is gegeven, wordt hem door de rechter-commissaris een afschrift van die vordering of beschikking ter hand gesteld.
 
 2. De rechter-commissaris kan echter bevelen, dat de vordering of de beschikking reeds voor het verhoor aan de verdachte zal worden betekend.
 
@@ -2427,11 +2427,11 @@ Indien bij afwezigheid van de officier van justitie gedurende het onderzoek enig
 
 2. De officier van justitie en de raadsman zijn bevoegd de verhoren van de rechter-commissaris bij te wonen. De rechter-commissaris bevordert, dat zij bij de verhoren tegenwoordig kunnen zijn, zonder dat het onderzoek daardoor mag worden opgehouden.
 
-3. De officier van justitie en de raadsman kunnen, ook wanneer zij de verhoren niet bijwonen, de vragen opgeven die zij wensen te zien gesteld. Ten aanzien van de raadsman is [artikel 48, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=48&z=2010-12-15&g=2010-12-15), van toepassing.
+3. De officier van justitie en de raadsman kunnen, ook wanneer zij de verhoren niet bijwonen, de vragen opgeven die zij wensen te zien gesteld. Ten aanzien van de raadsman is [artikel 48, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=48&z=2015-01-01&g=2015-01-01), van toepassing.
 
 ##### Artikel 227
 
-Onverminderd het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15), nodigt de rechter-commissaris, indien naar zijn oordeel het gegrond vermoeden bestaat dat de getuige of de deskundige niet ter terechtzitting zal kunnen verschijnen, de officier van justitie, de verdachte en de raadsman tot bijwoning van het verhoor uit, tenzij het belang van het onderzoek geen uitstel van het verhoor gedoogt.
+Onverminderd het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01), nodigt de rechter-commissaris, indien naar zijn oordeel het gegrond vermoeden bestaat dat de getuige of de deskundige niet ter terechtzitting zal kunnen verschijnen, de officier van justitie, de verdachte en de raadsman tot bijwoning van het verhoor uit, tenzij het belang van het onderzoek geen uitstel van het verhoor gedoogt.
 
 ##### Artikel 228
 
@@ -2451,13 +2451,13 @@ De rechter-commissaris vraagt de verdachte, getuigen en deskundigen naar hun naa
 
 ##### Artikel 231
 
-1. Indien een verdachte, getuige of deskundige de taal die de rechter-commissaris bezigt, niet verstaat, benoemt deze een tolk, die de leeftijd van achttien jaren moet hebben bereikt. [Artikel 349, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=349&z=2010-12-15&g=2010-12-15), is van toepassing.
+1. Indien een verdachte, getuige of deskundige de taal die de rechter-commissaris bezigt, niet verstaat, benoemt deze een tolk, die de leeftijd van achttien jaren moet hebben bereikt. [Artikel 349, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=349&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 2. Indien een verdachte of getuige niet of slechts zeer gebrekkig horen of spreken kan, bepaalt de rechter-commissaris dat de vragen of de antwoorden schriftelijk zullen geschieden.
 
 3. Kan de in het tweede lid bedoelde verdachte of getuige niet of slechts zeer gebrekkig lezen of schrijven, dan kan de rechter-commissaris een daartoe geschikte persoon tot tolk benoemen.
 
-4. De tolk wordt, zo nodig, op bevel van de rechter-commissaris gedagvaard en wordt beëdigd. [Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), betreffende de vervanging van de beëdiging door een aanmaning, is van overeenkomstige toepassing.
+4. De tolk wordt, zo nodig, op bevel van de rechter-commissaris gedagvaard en wordt beëdigd. [Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), betreffende de vervanging van de beëdiging door een aanmaning, is van overeenkomstige toepassing.
 
 ##### Artikel 232
 
@@ -2479,7 +2479,7 @@ Ingeval de schouw moet geschieden in een ander eilandgebied, draagt de rechter-c
 
 1. De rechter-commissaris kan, op de vordering van de officier van justitie, bevelen dat de verdachte tegen wie ernstige bezwaren bestaan, en, in geval van dringende noodzakelijkheid, bovendien degenen ten aanzien van wie vermoed wordt dat zij sporen van het strafbare feit aan het lichaam of aan de kleding dragen, aan hun lichaam of kleding zullen worden onderzocht.
 
-2. [Artikel 78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15), is van toepassing.
+2. [Artikel 78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ### Afdeling Derde. Het verhoor van de verdachte
 
@@ -2503,7 +2503,7 @@ Het proces-verbaal van een verhoor van de verdachte, dat op verzoek van de recht
 
 1. Indien de verdachte verhinderd is te verschijnen, kan zijn verhoor geschieden op de plaats waar hij zich ophoudt.
 
-2. De rechter-commissaris kan daartoe met de personen door hem aangewezen, en met inachtneming van de bepalingen van [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=232&z=2010-12-15&g=2010-12-15) elke plaats betreden, met uitzondering van een woning, tot het betreden waarvan de bewoner niet uitdrukkelijk toestemming heeft gegeven.
+2. De rechter-commissaris kan daartoe met de personen door hem aangewezen, en met inachtneming van de bepalingen van [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=232&z=2015-01-01&g=2015-01-01) elke plaats betreden, met uitzondering van een woning, tot het betreden waarvan de bewoner niet uitdrukkelijk toestemming heeft gegeven.
 
 ##### Artikel 240
 
@@ -2511,7 +2511,7 @@ Indien de verdachte in vrijheid is en niet op de dagvaarding verschijnt, kan de 
 
 ##### Artikel 241
 
-1. Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan de rechter-commissaris bevelen, dat de overeenkomstig [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=240&z=2010-12-15&g=2010-12-15) meegebrachte verdachte gedurende ten hoogste vierentwintig uren in een door hem aan te wijzen plaats zal worden opgehouden.
+1. Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan de rechter-commissaris bevelen, dat de overeenkomstig [artikel 240](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=240&z=2015-01-01&g=2015-01-01) meegebrachte verdachte gedurende ten hoogste vierentwintig uren in een door hem aan te wijzen plaats zal worden opgehouden.
 
 2. De redenen daarvan worden in het bevel vermeld.
 
@@ -2535,15 +2535,15 @@ De rechter-commissaris verhoort de getuige, wiens verhoor door de rechter wordt 
 
 ##### Artikel 245
 
-1. Het eerste lid van [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=237&z=2010-12-15&g=2010-12-15) alsmede [artikel 238](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=238&z=2010-12-15&g=2010-12-15) vinden ten aanzien van het verhoor van getuigen, die zich in een ander eilandgebied ophouden, overeenkomstige toepassing.
+1. Het eerste lid van [artikel 237](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=237&z=2015-01-01&g=2015-01-01) alsmede [artikel 238](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=238&z=2015-01-01&g=2015-01-01) vinden ten aanzien van het verhoor van getuigen, die zich in een ander eilandgebied ophouden, overeenkomstige toepassing.
 
-2. Houdt de getuige zich op in een ander eilandgebied, dan beveelt de rechter-commissaris diens dagvaarding alleen, indien hij overkomst noodzakelijk of in het belang van de getuige oordeelt. Het bevel wordt gegeven, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman. In de dagvaarding wordt van de noodzakelijkheid van de overkomst of van het belang van de getuige melding gemaakt. [Artikel 243, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=243&z=2010-12-15&g=2010-12-15), blijft van toepassing.
+2. Houdt de getuige zich op in een ander eilandgebied, dan beveelt de rechter-commissaris diens dagvaarding alleen, indien hij overkomst noodzakelijk of in het belang van de getuige oordeelt. Het bevel wordt gegeven, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman. In de dagvaarding wordt van de noodzakelijkheid van de overkomst of van het belang van de getuige melding gemaakt. [Artikel 243, tweede lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=243&z=2015-01-01&g=2015-01-01), blijft van toepassing.
 
 ##### Artikel 246
 
 1. Indien de getuige verhinderd is te verschijnen, kan zijn verhoor geschieden op de plaats waar hij zich ophoudt.
 
-2. De rechter-commissaris kan daartoe met de personen door hem aangewezen, en met inachtneming van de bepalingen van [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=232&z=2010-12-15&g=2010-12-15) elke plaats betreden, met uitzondering van een woning, tot het binnentreden waarvan de bewoner niet uitdrukkelijk toestemming heeft gegeven.
+2. De rechter-commissaris kan daartoe met de personen door hem aangewezen, en met inachtneming van de bepalingen van [artikel 232](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=232&z=2015-01-01&g=2015-01-01) elke plaats betreden, met uitzondering van een woning, tot het binnentreden waarvan de bewoner niet uitdrukkelijk toestemming heeft gegeven.
 
 ##### Artikel 247
 
@@ -2553,7 +2553,7 @@ De rechter-commissaris verhoort de getuige, wiens verhoor door de rechter wordt 
 
 ##### Artikel 248
 
-Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan de rechter-commissaris op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman bevelen, dat de overeenkomstig [artikel 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=247&z=2010-12-15&g=2010-12-15) meegebrachte getuige gedurende ten hoogste vierentwintig uren in een door hem aan te wijzen plaats zal worden opgehouden. De redenen daarvan worden in het bevel vermeld.
+Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan de rechter-commissaris op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman bevelen, dat de overeenkomstig [artikel 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=247&z=2015-01-01&g=2015-01-01) meegebrachte getuige gedurende ten hoogste vierentwintig uren in een door hem aan te wijzen plaats zal worden opgehouden. De redenen daarvan worden in het bevel vermeld.
 
 ##### Artikel 249
 
@@ -2581,7 +2581,7 @@ Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen 
 
 1. Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen zich ook verschonen zij, die uit hoofde van hun stand, hun beroep of hun ambt tot geheimhouding verplicht zijn, doch alleen omtrent hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd.
 
-2. Het in het eerste lid bepaalde is op overeenkomstige wijze van toepassing op de rechters, de leden van het openbaar ministerie en andere personen, die bekend zijn met de identiteit van de getuige die op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) is verhoord. De bevoegdheid zich te verschonen is beperkt tot de vragen die gericht zijn op de onthulling van de identiteit van de getuige.
+2. Het in het eerste lid bepaalde is op overeenkomstige wijze van toepassing op de rechters, de leden van het openbaar ministerie en andere personen, die bekend zijn met de identiteit van de getuige die op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) is verhoord. De bevoegdheid zich te verschonen is beperkt tot de vragen die gericht zijn op de onthulling van de identiteit van de getuige.
 
 ##### Artikel 253
 
@@ -2603,7 +2603,7 @@ De getuige kan zich verschonen van het beantwoorden van een hem gestelde vraag, 
 
 1. Het bevel van de rechter-commissaris dat de getuige in gijzeling zal worden gesteld, is voor niet langer dan twaalf dagen geldig.
 
-2. De rechter-commissaris kan echter gedurende het gerechtelijk vooronderzoek, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman, telkens, nadat de getuige opnieuw is gehoord, dat bevel van twaalf tot twaalf dagen verlengen. Ten aanzien van deze verlengingen komt de gegijzelde eenmaal de bevoegdheid toe, bedoeld in [artikel 255, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=255&z=2010-12-15&g=2010-12-15).
+2. De rechter-commissaris kan echter gedurende het gerechtelijk vooronderzoek, op de vordering van de officier van justitie of op het verzoek van de verdachte of diens raadsman, telkens, nadat de getuige opnieuw is gehoord, dat bevel van twaalf tot twaalf dagen verlengen. Ten aanzien van deze verlengingen komt de gegijzelde eenmaal de bevoegdheid toe, bedoeld in [artikel 255, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=255&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 257
 
@@ -2651,11 +2651,11 @@ Alle beschikkingen waarbij gijzeling wordt bevolen of verlengd, of waarbij een v
 
 3. Het eerste lid blijft buiten toepassing, indien het verhoor een misdrijf betreft, waarvoor geen voorlopige hechtenis is toegelaten.
 
-4. Bij toepassing van het eerste lid ziet de rechter-commissaris erop toe, dat de getuige bij gelegenheid van het verhoor tegen herkenning wordt beschermd. In uitzonderlijke gevallen kan hij bepalen dat de verdachte en diens raadsman het verhoor van de getuige niet zullen bijwonen. In dat geval zal de officier van justitie daarbij ook niet tegenwoordig zijn. De rechter-commissaris stelt hun zodra mogelijk in kennis van de inhoud van de door de getuige afgelegde verklaringen. Zij worden in de gelegenheid gesteld zoveel mogelijk de vragen op te geven, die zij gesteld wensen te zien. Tenzij het belang van het onderzoek geen uitstel van het verhoor gedoogt, kunnen vragen reeds voor de aanvang van het verhoor worden opgegeven. Het proces-verbaal van verhoor wordt naar de vorm van vraag en antwoord ingericht. De persoonsgegevens van de getuige, bedoeld in [artikel 230](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=230&z=2010-12-15&g=2010-12-15), worden niet in het proces-verbaal van verhoor opgenomen.
+4. Bij toepassing van het eerste lid ziet de rechter-commissaris erop toe, dat de getuige bij gelegenheid van het verhoor tegen herkenning wordt beschermd. In uitzonderlijke gevallen kan hij bepalen dat de verdachte en diens raadsman het verhoor van de getuige niet zullen bijwonen. In dat geval zal de officier van justitie daarbij ook niet tegenwoordig zijn. De rechter-commissaris stelt hun zodra mogelijk in kennis van de inhoud van de door de getuige afgelegde verklaringen. Zij worden in de gelegenheid gesteld zoveel mogelijk de vragen op te geven, die zij gesteld wensen te zien. Tenzij het belang van het onderzoek geen uitstel van het verhoor gedoogt, kunnen vragen reeds voor de aanvang van het verhoor worden opgegeven. Het proces-verbaal van verhoor wordt naar de vorm van vraag en antwoord ingericht. De persoonsgegevens van de getuige, bedoeld in [artikel 230](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=230&z=2015-01-01&g=2015-01-01), worden niet in het proces-verbaal van verhoor opgenomen.
 
 5. Voorafgaand aan het verhoor, bedoeld in het vierde lid, toetst de rechter-commissaris de bezwaren van de getuige tegen onthulling van diens identiteit. Deze bezwaren worden in het proces-verbaal vermeld. De rechter-commissaris verantwoordt daarin of hij de bezwaren gegrond acht.
 
-6. De getuige die op de voet van het vierde lid zal worden verhoord, wordt door de rechter-commissaris in verband met [artikel 250, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), beëdigd. Daarvan wordt in het proces-verbaal melding gemaakt. Artikel 250, tweede en derde lid, is van toepassing.
+6. De getuige die op de voet van het vierde lid zal worden verhoord, wordt door de rechter-commissaris in verband met [artikel 250, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), beëdigd. Daarvan wordt in het proces-verbaal melding gemaakt. Artikel 250, tweede en derde lid, is van toepassing.
 
 7. Wanneer de rechter-commissaris van oordeel is dat ernstige bedreiging in de zin van het eerste lid niet kan worden aangenomen, en de getuige volhardt in zijn wens anoniem te blijven, beslist de rechter-commissaris dat de getuige zal worden verhoord zonder toepassing van het vierde lid, tenzij de officier van justitie zich daartegen verzet, in welk geval wordt afgezien van verhoor van de getuige.
 
@@ -2671,7 +2671,7 @@ Alle beschikkingen waarbij gijzeling wordt bevolen of verlengd, of waarbij een v
 
 2. De verdachte is bevoegd te verzoeken dat een of meer door hem aanbevolen personen als deskundigen zullen worden benoemd. Indien het belang van het onderzoek dit niet verbiedt, kiest de rechter-commissaris een of meer van de deskundigen uit de door de verdachte aanbevolen personen.
 
-3. Ten aanzien van de deskundigen en hun verhoor vinden de [artikelen 243](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=243&z=2010-12-15&g=2010-12-15), en [245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=245&z=2010-12-15&g=2010-12-15) alsmede de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15) overeenkomstige toepassing.
+3. Ten aanzien van de deskundigen en hun verhoor vinden de [artikelen 243](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=243&z=2015-01-01&g=2015-01-01), en [245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=245&z=2015-01-01&g=2015-01-01) alsmede de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing.
 
 4. Ieder die tot deskundige is benoemd, is verplicht de door de rechter-commissaris gevorderde diensten te bewijzen.
 
@@ -2699,7 +2699,7 @@ De rechter-commissaris bepaalt het tijdstip waarop het onderzoek van de deskundi
 
 2. De rechter-commissaris kan, indien het belang van het onderzoek zich daartegen niet verzet, bepalen dat de verdachte aan wie van de opdracht aan deskundigen is kennis gegeven, en diens raadsman, het onderzoek van de deskundigen geheel of gedeeltelijk zullen kunnen bijwonen. De officier van justitie kan bij het onderzoek tegenwoordig zijn.
 
-3. De officier van justitie, de verdachte en diens raadsman, hebben, ook indien het onderzoek van de deskundigen buiten hun tegenwoordigheid geschiedt, de bevoegdheid met betrekking tot dat onderzoek aanwijzingen te doen en opmerkingen te maken. Desverlangd wordt aan de deskundigen en aan de verdachte de gelegenheid gegeven om ten overstaan van of, voor zover dat in het belang van het onderzoek noodzakelijk schijnt, door bemiddeling van de rechter-commissaris een onderhoud te hebben. Ten aanzien van de officier van justitie en de raadsman is daarbij het tweede lid van [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=233&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+3. De officier van justitie, de verdachte en diens raadsman, hebben, ook indien het onderzoek van de deskundigen buiten hun tegenwoordigheid geschiedt, de bevoegdheid met betrekking tot dat onderzoek aanwijzingen te doen en opmerkingen te maken. Desverlangd wordt aan de deskundigen en aan de verdachte de gelegenheid gegeven om ten overstaan van of, voor zover dat in het belang van het onderzoek noodzakelijk schijnt, door bemiddeling van de rechter-commissaris een onderhoud te hebben. Ten aanzien van de officier van justitie en de raadsman is daarbij het tweede lid van [artikel 233](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=233&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 4. De rechter-commissaris stelt de deskundigen mondeling of schriftelijk in kennis van de opmerkingen en aanwijzingen, voor zover deze geschied zijn buiten hun tegenwoordigheid.
 
@@ -2715,7 +2715,7 @@ De rechter-commissaris bepaalt het tijdstip waarop het onderzoek van de deskundi
 
 ##### Artikel 268
 
-1. De verdachte aan wie van de uitslag van het onderzoek is kennisgegeven, is bevoegd zijnerzijds een deskundige aan te wijzen, die het recht heeft het verslag van de door de rechter-commissaris benoemde deskundigen te onderzoeken. Het tweede en derde lid van [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+1. De verdachte aan wie van de uitslag van het onderzoek is kennisgegeven, is bevoegd zijnerzijds een deskundige aan te wijzen, die het recht heeft het verslag van de door de rechter-commissaris benoemde deskundigen te onderzoeken. Het tweede en derde lid van [artikel 267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 2. In geen geval mag, tenzij de rechter-commissaris hierin bewilligt, door de aanwijzing vertraging in de loop van het gerechtelijk vooronderzoek plaatshebben.
 
@@ -2723,7 +2723,7 @@ De rechter-commissaris bepaalt het tijdstip waarop het onderzoek van de deskundi
 
 ##### Artikel 269
 
-1. Met betrekking tot de door de verdachte overeenkomstig een van de beide voorgaande artikelen aangewezen deskundige zijn de [artikelen 245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=245&z=2010-12-15&g=2010-12-15), [263 tot en met 265](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=263&z=2010-12-15&g=2010-12-15), [266, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=266&z=2010-12-15&g=2010-12-15), en [267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+1. Met betrekking tot de door de verdachte overeenkomstig een van de beide voorgaande artikelen aangewezen deskundige zijn de [artikelen 245 tot en met 247](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=245&z=2015-01-01&g=2015-01-01), [263 tot en met 265](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=263&z=2015-01-01&g=2015-01-01), [266, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=266&z=2015-01-01&g=2015-01-01), en [267](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=267&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 2. Die deskundige brengt aan de rechter-commissaris een met redenen omkleed verslag uit. Het verslag wordt schriftelijk of mondeling uitgebracht, naar gelang de rechter-commissaris dit vordert.
 
@@ -2731,7 +2731,7 @@ De rechter-commissaris bepaalt het tijdstip waarop het onderzoek van de deskundi
 
 ##### Artikel 270
 
-Ingeval hetzij de wijze waarop het onderzoek door de deskundigen is geschied, hetzij het verschil van de deskundigen omtrent de feiten, hetzij het verschil in oordeelvelling, daartoe aanleiding geeft, kan de rechter-commissaris, hetzij op de vordering van de officier van justitie, hetzij op het verzoek van de verdachte, het onderzoek aan andere deskundigen opdragen. De voorgaande artikelen van deze afdeling en [artikel 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=271&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+Ingeval hetzij de wijze waarop het onderzoek door de deskundigen is geschied, hetzij het verschil van de deskundigen omtrent de feiten, hetzij het verschil in oordeelvelling, daartoe aanleiding geeft, kan de rechter-commissaris, hetzij op de vordering van de officier van justitie, hetzij op het verzoek van de verdachte, het onderzoek aan andere deskundigen opdragen. De voorgaande artikelen van deze afdeling en [artikel 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zesde&artikel=271&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 271
 
@@ -2745,7 +2745,7 @@ Indien de rechter-commissaris oordeelt dat het gerechtelijk vooronderzoek is vol
 
 ##### Artikel 273
 
-1. Indien in de zaak een bevel krachtens de [artikelen 15 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2010-12-15&g=2010-12-15) is gevraagd of gegeven, doet de officier van justitie een mededeling overeenkomstig [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15) niet dan nadat daarin is bewilligd door het Hof van Justitie.
+1. Indien in de zaak een bevel krachtens de [artikelen 15 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2015-01-01&g=2015-01-01) is gevraagd of gegeven, doet de officier van justitie een mededeling overeenkomstig [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01) niet dan nadat daarin is bewilligd door het Hof van Justitie.
 
 2. De officier van justitie doet te dien einde de processtukken, vergezeld van een verslag houdende de gronden voor zodanige mededeling, toekomen aan het Hof van Justitie.
 
@@ -2757,7 +2757,7 @@ Indien de rechter-commissaris oordeelt dat het gerechtelijk vooronderzoek is vol
 
 3. Indien de rechter daartoe gronden aanwezig acht, hoort hij de officier van justitie of de verdachte, tenzij hij de vordering of het verzoek aanstonds niet ontvankelijk of ongegrond acht.
 
-4. Het door de rechter-commissaris te verrichten nader onderzoek geldt als een gerechtelijk vooronderzoek en wordt gevoerd overeenkomstig de [artikelen 226 tot en met 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2010-12-15&g=2010-12-15).
+4. Het door de rechter-commissaris te verrichten nader onderzoek geldt als een gerechtelijk vooronderzoek en wordt gevoerd overeenkomstig de [artikelen 226 tot en met 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2015-01-01&g=2015-01-01).
 
 ## Titel IV. Beslissing omtrent al dan niet verdere vervolging
 
@@ -2769,15 +2769,15 @@ Indien de rechter-commissaris oordeelt dat het gerechtelijk vooronderzoek is vol
 
 ##### Artikel 276
 
-1. In geval van de mededeling genoemd in [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15) doet de officier van justitie de verdachte onverwijld kennisgeven, dat hij hem ter zake van het feit waarop het gerechtelijk vooronderzoek betrekking had, niet verder zal vervolgen.
+1. In geval van de mededeling genoemd in [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01) doet de officier van justitie de verdachte onverwijld kennisgeven, dat hij hem ter zake van het feit waarop het gerechtelijk vooronderzoek betrekking had, niet verder zal vervolgen.
 
-2. Is voorlopige hechtenis toegepast en heeft de officier van justitie de mededeling genoemd in [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15) gedaan, dan wordt daardoor elk bevel tot voorlopige hechtenis op het tijdstip van de beschikking tot sluiting van het gerechtelijk vooronderzoek van rechtswege opgeheven. De rechter-commissaris maakt daarvan in zijn beschikking melding.
+2. Is voorlopige hechtenis toegepast en heeft de officier van justitie de mededeling genoemd in [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01) gedaan, dan wordt daardoor elk bevel tot voorlopige hechtenis op het tijdstip van de beschikking tot sluiting van het gerechtelijk vooronderzoek van rechtswege opgeheven. De rechter-commissaris maakt daarvan in zijn beschikking melding.
 
 ##### Artikel 277
 
-1. Indien een gerechtelijk vooronderzoek heeft plaatsgehad, doet de officier van justitie, buiten het geval van [artikel 276](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=276&z=2010-12-15&g=2010-12-15), uiterlijk binnen een maand nadat de beschikking tot sluiting daarvan aan de verdachte betekend is geworden, hetzij deze kennisgeven dat hij hem ter zake van het feit waarop dat onderzoek betrekking had, niet verder zal vervolgen, hetzij hem dagvaarden ter terechtzitting.
+1. Indien een gerechtelijk vooronderzoek heeft plaatsgehad, doet de officier van justitie, buiten het geval van [artikel 276](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=276&z=2015-01-01&g=2015-01-01), uiterlijk binnen een maand nadat de beschikking tot sluiting daarvan aan de verdachte betekend is geworden, hetzij deze kennisgeven dat hij hem ter zake van het feit waarop dat onderzoek betrekking had, niet verder zal vervolgen, hetzij hem dagvaarden ter terechtzitting.
 
-2. De termijn kan op de vordering van de officier van justitie door de rechter-commissaris eenmaal voor ten hoogste een maand worden verlengd. Indien de officier van justitie het Hof ingevolge [artikel 279, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=279&z=2010-12-15&g=2010-12-15), om bewilliging heeft verzocht, wordt de termijn van rechtswege verlengd tot en met de veertiende dag nadat het Hof op het verzoek heeft beslist.
+2. De termijn kan op de vordering van de officier van justitie door de rechter-commissaris eenmaal voor ten hoogste een maand worden verlengd. Indien de officier van justitie het Hof ingevolge [artikel 279, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=279&z=2015-01-01&g=2015-01-01), om bewilliging heeft verzocht, wordt de termijn van rechtswege verlengd tot en met de veertiende dag nadat het Hof op het verzoek heeft beslist.
 
 3. De officier van justitie kan, op het verzoek van de verdachte, en al dan niet onder het stellen van bepaalde voorwaarden, voor het doen van kennisgeving overeenkomstig het eerste lid een bepaalde langere termijn nemen.
 
@@ -2789,7 +2789,7 @@ Indien de rechter-commissaris oordeelt dat het gerechtelijk vooronderzoek is vol
 
 3. De verdachte wordt op het verzoek gehoord.
 
-4. Het tweede en derde lid van [artikel 277](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+4. Het tweede en derde lid van [artikel 277](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 5. De verplichting tot kennisgeving of dagvaarding vervalt, indien binnen de gestelde of verlengde termijn een gerechtelijk vooronderzoek is geopend.
 
@@ -2797,7 +2797,7 @@ Indien de rechter-commissaris oordeelt dat het gerechtelijk vooronderzoek is vol
 
 1. Door een kennisgeving van niet verdere vervolging eindigt de zaak.
 
-2. Indien in de zaak een bevel krachtens de [artikelen 15 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2010-12-15&g=2010-12-15), is gevraagd of gegeven, blijft een kennisgeving van niet verdere vervolging achterwege, tenzij daaraan een mededeling overeenkomstig [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15) is voorafgegaan of in de kennisgeving is bewilligd door het Hof van Justitie. [Artikel 273, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=273&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. Indien in de zaak een bevel krachtens de [artikelen 15 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=15&z=2015-01-01&g=2015-01-01), is gevraagd of gegeven, blijft een kennisgeving van niet verdere vervolging achterwege, tenzij daaraan een mededeling overeenkomstig [artikel 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01) is voorafgegaan of in de kennisgeving is bewilligd door het Hof van Justitie. [Artikel 273, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=273&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 280
 
@@ -2815,7 +2815,7 @@ wordt daarvan in de kennisgeving melding gemaakt.
 
 ##### Artikel 281
 
-Indien de officier van justitie van oordeel is, dat [artikel 39, eerste lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39) van toepassing is, doch dat tevens de last, bedoeld in het tweede lid van dat artikel, moet worden gegeven, is hij bevoegd een behandeling door de raadkamer te vorderen. De verdachte wordt bij het onderzoek gehoord. De [artikelen 294, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=294&z=2010-12-15&g=2010-12-15), en [295](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=295&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+Indien de officier van justitie van oordeel is, dat [artikel 39, eerste lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39) van toepassing is, doch dat tevens de last, bedoeld in het tweede lid van dat artikel, moet worden gegeven, is hij bevoegd een behandeling door de raadkamer te vorderen. De verdachte wordt bij het onderzoek gehoord. De [artikelen 294, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=294&z=2015-01-01&g=2015-01-01), en [295](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=295&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 282
 
@@ -2825,7 +2825,7 @@ Indien de officier van justitie van oordeel is, dat [artikel 39, eerste lid, van
 
 3. In dat geval kan de verdachte niet ter terechtzitting van de rechter in eerste aanleg worden gedagvaard, dan na een ter zake van die nieuwe bezwaren ingesteld gerechtelijk vooronderzoek.
 
-4. Bij verzuim van een termijn, als bedoeld in de [artikelen 272 tot en met 278](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15), kan de verdachte ter zake van hetzelfde feit niet weer in rechte worden betrokken dan onder de voorwaarden, in eerste tot en met derde lid bepaald. Echter kan het gerecht, voor hetwelk de zaak het laatst werd vervolgd, op de vordering van de officier van justitie, deze alsnog eenmaal een nieuwe termijn stellen, indien het algemeen belang dat dringend eist. De verdachte wordt op de vordering gehoord. [Artikel 277, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2010-12-15&g=2010-12-15), is van toepassing.
+4. Bij verzuim van een termijn, als bedoeld in de [artikelen 272 tot en met 278](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01), kan de verdachte ter zake van hetzelfde feit niet weer in rechte worden betrokken dan onder de voorwaarden, in eerste tot en met derde lid bepaald. Echter kan het gerecht, voor hetwelk de zaak het laatst werd vervolgd, op de vordering van de officier van justitie, deze alsnog eenmaal een nieuwe termijn stellen, indien het algemeen belang dat dringend eist. De verdachte wordt op de vordering gehoord. [Artikel 277, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 5. Verzuim van een termijn voor verdere vervolging of kennisgeving van niet verdere vervolging wordt niet aanwezig geacht, indien een tijdig uitgebrachte dagvaarding om ter terechtzitting te verschijnen, vervalt of wordt ingetrokken of nietig verklaard.
 
@@ -2841,9 +2841,9 @@ Door de kennisgeving van niet verdere vervolging, de beschikking tot buitenvervo
 
 1. De zaak wordt ter terechtzitting aanhangig gemaakt door een dagvaarding vanwege de officier van justitie aan de verdachte betekend. Het rechtsgeding neemt op het moment van de betekening een aanvang.
 
-2. Wanneer de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding waarvan de geldigheidsduur reeds eenmaal of ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2010-12-15&g=2010-12-15), reeds tweemaal is verlengd, kan de dagvaarding geschieden, ook al is het gerechtelijk vooronderzoek nog niet gesloten.Van de dagvaarding geeft de officier van justitie in dat geval schriftelijk kennis aan de rechter-commissaris. Door deze kennisgeving eindigt het gerechtelijk vooronderzoek. De [artikelen 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2010-12-15&g=2010-12-15) en [277](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2010-12-15&g=2010-12-15) vinden alsdan geen toepassing.
+2. Wanneer de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding waarvan de geldigheidsduur reeds eenmaal of ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2015-01-01&g=2015-01-01), reeds tweemaal is verlengd, kan de dagvaarding geschieden, ook al is het gerechtelijk vooronderzoek nog niet gesloten.Van de dagvaarding geeft de officier van justitie in dat geval schriftelijk kennis aan de rechter-commissaris. Door deze kennisgeving eindigt het gerechtelijk vooronderzoek. De [artikelen 272](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Zevende&artikel=272&z=2015-01-01&g=2015-01-01) en [277](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=277&z=2015-01-01&g=2015-01-01) vinden alsdan geen toepassing.
 
-3. Bij de betekening van de dagvaarding, zomede in de oproeping bedoeld bij [artikel 414](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=414&z=2010-12-15&g=2010-12-15) wordt, de bevoegdheid vermeld, die de verdachte bij [artikel 76, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76) is verleend.
+3. Bij de betekening van de dagvaarding, zomede in de oproeping bedoeld bij [artikel 414](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=414&z=2015-01-01&g=2015-01-01) wordt, de bevoegdheid vermeld, die de verdachte bij [artikel 76, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76) is verleend.
 
 4. De rechter bepaalt, op de voordracht van de officier van justitie, de dag van de terechtzitting.
 
@@ -2853,7 +2853,7 @@ Door de kennisgeving van niet verdere vervolging, de beschikking tot buitenvervo
 
 2. Zij behelst tevens de vermelding van de omstandigheden waaronder het feit zou zijn begaan.
 
-3. Indien de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding, waarvan de geldigheidsduur reeds eenmaal of, ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2010-12-15&g=2010-12-15), reeds tweemaal is verlengd, kan voor de opgave van het feit worden volstaan met de omschrijving die in dat bevel is gegeven.
+3. Indien de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding, waarvan de geldigheidsduur reeds eenmaal of, ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2015-01-01&g=2015-01-01), reeds tweemaal is verlengd, kan voor de opgave van het feit worden volstaan met de omschrijving die in dat bevel is gegeven.
 
 ##### Artikel 286
 
@@ -2865,13 +2865,13 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 
 2. Bij de dagvaarding van de verdachte worden voor zover mogelijk opgegeven de namen, het beroep en de woon- of verblijfplaats, of, bij onbekendheid van een of ander, de aanduiding, zo nauwkeurig mogelijk, van de getuigen en deskundigen, die vanwege de officier van justitie zullen worden gedagvaard.
 
-3. De verdachte wordt daarbij kenbaar gemaakt dat hij het recht heeft getuigen en deskundigen te doen dagvaarden of op de terechtzitting mee te brengen; hij wordt daarbij tevens opmerkzaam gemaakt op de voorschriften van de [artikelen 289, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=293&z=2010-12-15&g=2010-12-15) en [308, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=308&z=2010-12-15&g=2010-12-15).
+3. De verdachte wordt daarbij kenbaar gemaakt dat hij het recht heeft getuigen en deskundigen te doen dagvaarden of op de terechtzitting mee te brengen; hij wordt daarbij tevens opmerkzaam gemaakt op de voorschriften van de [artikelen 289, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01), [293](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=II&artikel=293&z=2015-01-01&g=2015-01-01) en [308, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=308&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 288
 
-1. De officier van justitie doet aan ieder, die zich met betrekking tot het tenlastegelegde feit overeenkomstig [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Derde&artikel=206&z=2010-12-15&g=2010-12-15) als benadeelde partij heeft opgegeven, kennisgeven van de dag, het uur en de plaats van de terechtzitting.
+1. De officier van justitie doet aan ieder, die zich met betrekking tot het tenlastegelegde feit overeenkomstig [artikel 206](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Derde&artikel=206&z=2015-01-01&g=2015-01-01) als benadeelde partij heeft opgegeven, kennisgeven van de dag, het uur en de plaats van de terechtzitting.
 
-2. De kennisgeving geschiedt zo mogelijk tenminste drie dagen voor de dag van de terechtzitting. Zij behelst een korte aanduiding van het tenlastegelegde feit. Bij de kennisgeving wordt de benadeelde partij tevens opmerkzaam gemaakt op de haar betreffende voorschriften van de [artikelen 374 tot en met 380](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Derde&artikel=374&z=2010-12-15&g=2010-12-15).
+2. De kennisgeving geschiedt zo mogelijk tenminste drie dagen voor de dag van de terechtzitting. Zij behelst een korte aanduiding van het tenlastegelegde feit. Bij de kennisgeving wordt de benadeelde partij tevens opmerkzaam gemaakt op de haar betreffende voorschriften van de [artikelen 374 tot en met 380](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Derde&artikel=374&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 289
 
@@ -2879,15 +2879,15 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 
 2. Hij geeft deze daartoe ten minste drie dagen voor de terechtzitting in persoon ten parkette van de officier van justitie of schriftelijk bij aangetekende, aan de officier gerichte brief op. Hij vermeldt daarbij de namen, het beroep en de woon- of verblijfplaats, of, bij onbekendheid van een of ander, duidt hij hen zo nauwkeurig mogelijk aan. Bij schriftelijke opgave geldt de dag van ontvangst van de brief, die onverwijld daarop wordt aangetekend, als dag van opgave.
 
-3. De officier van justitie doet de getuigen of deskundigen, opgegeven met inachtneming van het tweede lid, onverwijld dagvaarden, tenzij er naar zijn oordeel dwingende gronden bestaan om de dagvaarding te weigeren. In dit laatste geval maakt hij de verdachte opmerkzaam op het bepaalde in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15).
+3. De officier van justitie doet de getuigen of deskundigen, opgegeven met inachtneming van het tweede lid, onverwijld dagvaarden, tenzij er naar zijn oordeel dwingende gronden bestaan om de dagvaarding te weigeren. In dit laatste geval maakt hij de verdachte opmerkzaam op het bepaalde in [artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01).
 
-4. De getuigen en deskundigen, die zijn gedagvaard, worden gebracht op de in [artikel 318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), bedoelde lijst.
+4. De getuigen en deskundigen, die zijn gedagvaard, worden gebracht op de in [artikel 318, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), bedoelde lijst.
 
 ##### Artikel 290
 
-1. Op straffe van nietigheid moet tussen de dag waarop de dagvaarding aan de verdachte is betekend, en die van de terechtzitting, een termijn van ten minste zeven dagen, of, ingeval door de rechter-commissaris overeenkomstig de [Zevende Titel van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&z=2010-12-15&g=2010-12-15) bevelen tot handhaving van de openbare orde zijn gegeven, van ten minste vier dagen verlopen. Wanneer de verdachte in een ander eilandgebied wordt gedagvaard dan waar de rechter zitting houdt, wordt de termijn van dagvaarding met zeven dagen verlengd. De termijn bedraagt ten minste zes weken, indien de verdachte in het buitenland woonachtig is.
+1. Op straffe van nietigheid moet tussen de dag waarop de dagvaarding aan de verdachte is betekend, en die van de terechtzitting, een termijn van ten minste zeven dagen, of, ingeval door de rechter-commissaris overeenkomstig de [Zevende Titel van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&z=2015-01-01&g=2015-01-01) bevelen tot handhaving van de openbare orde zijn gegeven, van ten minste vier dagen verlopen. Wanneer de verdachte in een ander eilandgebied wordt gedagvaard dan waar de rechter zitting houdt, wordt de termijn van dagvaarding met zeven dagen verlengd. De termijn bedraagt ten minste zes weken, indien de verdachte in het buitenland woonachtig is.
 
-2. Met toestemming van de verdachte kan deze termijn worden verkort, mits van deze toestemming blijkt door een verklaring, af te leggen op de griffie van het gerecht in eerste aanleg waarvoor gedagvaard wordt; de [artikelen 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) en [447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing. Geschiedt de betekening van de dagvaarding door een deurwaarder of ambtenaar van politie, dan kan de verdachte de verklaring ook doen opnemen in de akte van uitreiking; hij moet de verklaring tekenen; indien hij niet kan tekenen, wordt de oorzaak van het beletsel in de akte vermeld.
+2. Met toestemming van de verdachte kan deze termijn worden verkort, mits van deze toestemming blijkt door een verklaring, af te leggen op de griffie van het gerecht in eerste aanleg waarvoor gedagvaard wordt; de [artikelen 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) en [447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing. Geschiedt de betekening van de dagvaarding door een deurwaarder of ambtenaar van politie, dan kan de verdachte de verklaring ook doen opnemen in de akte van uitreiking; hij moet de verklaring tekenen; indien hij niet kan tekenen, wordt de oorzaak van het beletsel in de akte vermeld.
 
 3. Vrijwillige verschijning van de verdachte op een dagvaarding, betekend in strijd met de voorschriften van dit artikel, dekt de nietigheid.
 
@@ -2899,11 +2899,11 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 
 2. De officier van justitie draagt zorg dat de gedagvaarde getuigen en deskundigen tijdig met de intrekking worden bekendgemaakt.
 
-3. Wordt bij of na de intrekking van de dagvaarding van verdere vervolging afgezien, dan doet de officier van justitie de verdachte onverwijld kennisgeven, dat hij hem ter zake van het feit waarop de dagvaarding betrekking had, niet verder zal vervolgen. De [artikelen 279](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=279&z=2010-12-15&g=2010-12-15) en [280](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=280&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+3. Wordt bij of na de intrekking van de dagvaarding van verdere vervolging afgezien, dan doet de officier van justitie de verdachte onverwijld kennisgeven, dat hij hem ter zake van het feit waarop de dagvaarding betrekking had, niet verder zal vervolgen. De [artikelen 279](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=279&z=2015-01-01&g=2015-01-01) en [280](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=280&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 292
 
-1. Indien de dagvaarding is ingetrokken, zonder dat de verdachte een kennisgeving van niet verdere vervolging is betekend, stelt de rechter op het verzoek van de verdachte, de officier van justitie een termijn waarbinnen hetzij tot dagvaarding, hetzij tot kennisgeving van niet verdere vervolging moet worden overgegaan. De verdachte wordt op het verzoek gehoord. [Artikel 282, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2010-12-15&g=2010-12-15), is van toepassing.
+1. Indien de dagvaarding is ingetrokken, zonder dat de verdachte een kennisgeving van niet verdere vervolging is betekend, stelt de rechter op het verzoek van de verdachte, de officier van justitie een termijn waarbinnen hetzij tot dagvaarding, hetzij tot kennisgeving van niet verdere vervolging moet worden overgegaan. De verdachte wordt op het verzoek gehoord. [Artikel 282, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 2. De termijn kan op de vordering van de officier van justitie door de rechter telkens voor een bepaalde tijd worden verlengd.
 
@@ -2913,13 +2913,13 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 
 1. Tegen de dagvaarding kan de verdachte binnen vijf dagen na de betekening een bezwaarschrift indienen bij het Hof van Justitie. Het bezwaarschrift is op straffe van niet-ontvankelijkheid met redenen omkleed.
 
-2. Indien niet voor het tijdstip waartegen de verdachte is gedagvaard, op het gehele bezwaarschrift onherroepelijk is beslist, wordt de behandeling ter terechtzitting voor bepaalde of onbepaalde tijd uitgesteld. De [artikelen 362](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=362&z=2010-12-15&g=2010-12-15) en [363](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=363&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+2. Indien niet voor het tijdstip waartegen de verdachte is gedagvaard, op het gehele bezwaarschrift onherroepelijk is beslist, wordt de behandeling ter terechtzitting voor bepaalde of onbepaalde tijd uitgesteld. De [artikelen 362](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=362&z=2015-01-01&g=2015-01-01) en [363](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=363&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 294
 
 1. Naar de gegrondheid van het bezwaarschrift stelt het Hof een onderzoek in. De verdachte en de procureur-generaal worden gehoord.
 
-2. Het Hof kan, alvorens te beslissen, door de rechter-commissaris een onderzoek doen instellen en zich de daartoe betrekkelijke stukken doen overleggen. Dit onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de [artikelen 226 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2010-12-15&g=2010-12-15) gevoerd. Alsdan kan de rechter-commissaris de bevoegdheden, die hem tijdens het gerechtelijk vooronderzoek en overigens tijdens het voorbereidend onderzoek na tussenkomst van de officier van justitie of op het verzoek van de verdachte zijn toegekend, ambtshalve uitoefenen.
+2. Het Hof kan, alvorens te beslissen, door de rechter-commissaris een onderzoek doen instellen en zich de daartoe betrekkelijke stukken doen overleggen. Dit onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de [artikelen 226 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2015-01-01&g=2015-01-01) gevoerd. Alsdan kan de rechter-commissaris de bevoegdheden, die hem tijdens het gerechtelijk vooronderzoek en overigens tijdens het voorbereidend onderzoek na tussenkomst van de officier van justitie of op het verzoek van de verdachte zijn toegekend, ambtshalve uitoefenen.
 
 ##### Artikel 295
 
@@ -2935,7 +2935,7 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 
 ##### Artikel 296
 
-Tegen de dagvaarding, die is uitgebracht na een bevel krachtens [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2010-12-15&g=2010-12-15), is een bezwaarschrift niet toegelaten, tenzij nieuwe feiten of omstandigheden bekend zijn geworden.
+Tegen de dagvaarding, die is uitgebracht na een bevel krachtens [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IV&artikel=25&z=2015-01-01&g=2015-01-01), is een bezwaarschrift niet toegelaten, tenzij nieuwe feiten of omstandigheden bekend zijn geworden.
 
 ##### Artikel 297
 
@@ -2943,7 +2943,7 @@ Is bij de beschikking tot buitenvervolgingstelling tevens gegeven de last, bedoe
 
 ##### Artikel 298
 
-In geval van buitenvervolgingstelling zijn de [artikelen 282](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2010-12-15&g=2010-12-15) en [283](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=283&z=2010-12-15&g=2010-12-15) van toepassing.
+In geval van buitenvervolgingstelling zijn de [artikelen 282](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2015-01-01&g=2015-01-01) en [283](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=283&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ## Titel III. Het aanhangig maken van de zaak ter terechtzitting in hoger beroep
 
@@ -2951,23 +2951,23 @@ In geval van buitenvervolgingstelling zijn de [artikelen 282](https://wetten.ove
 
 1. De zaak wordt in hoger beroep ter terechtzitting aanhangig gemaakt door een dagvaarding, vanwege de procureur-generaal aan de verdachte betekend. Het rechtsgeding in hoger beroep neemt op het moment van de betekening een aanvang.
 
-2. Ten aanzien van die dagvaarding is [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2010-12-15&g=2010-12-15) van toepassing, behoudens dat daarbij de verdachte, in plaats van op de voorschriften van [artikel 289, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15), opmerkzaam wordt gemaakt op die van [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=301&z=2010-12-15&g=2010-12-15).
+2. Ten aanzien van die dagvaarding is [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2015-01-01&g=2015-01-01) van toepassing, behoudens dat daarbij de verdachte, in plaats van op de voorschriften van [artikel 289, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01), opmerkzaam wordt gemaakt op die van [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=301&z=2015-01-01&g=2015-01-01).
 
-3. Op de gronden, in [artikel 286](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=286&z=2010-12-15&g=2010-12-15) vermeld, kunnen verschillende zaken gevoegd aanhangig worden gemaakt.
+3. Op de gronden, in [artikel 286](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=286&z=2015-01-01&g=2015-01-01) vermeld, kunnen verschillende zaken gevoegd aanhangig worden gemaakt.
 
 4. De voorzitter bepaalt, op de voordracht van de procureur-generaal, de dag van de terechtzitting.
 
 ##### Artikel 300
 
-1. Op straffe van nietigheid moet tussen de dag waarop de dagvaarding aan de verdachte is betekend, en die van de terechtzitting een termijn van ten minste zeven dagen verlopen. Wanneer de verdachte in een ander eilandgebied wordt gedagvaard dan waar de rechter zitting houdt, wordt de termijn van dagvaarding met zeven dagen verlengd. De termijn bedraagt ten minste zes weken, indien de verdachte in het buitenland woonachtig is. [Artikel 290, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2010-12-15&g=2010-12-15), is van toepassing.
+1. Op straffe van nietigheid moet tussen de dag waarop de dagvaarding aan de verdachte is betekend, en die van de terechtzitting een termijn van ten minste zeven dagen verlopen. Wanneer de verdachte in een ander eilandgebied wordt gedagvaard dan waar de rechter zitting houdt, wordt de termijn van dagvaarding met zeven dagen verlengd. De termijn bedraagt ten minste zes weken, indien de verdachte in het buitenland woonachtig is. [Artikel 290, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2015-01-01&g=2015-01-01), is van toepassing.
 
-2. [Artikel 288](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=288&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing, met dien verstande dat bij kennisgeving de benadeelde partij tevens opmerkzaam wordt gemaakt op de voorschriften van [artikel 374](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Derde&artikel=374&z=2010-12-15&g=2010-12-15), en dat de kennisgeving steeds geschiedt aan de benadeelde partij die zich in eerste aanleg in het geding heeft gevoegd.
+2. [Artikel 288](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=288&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing, met dien verstande dat bij kennisgeving de benadeelde partij tevens opmerkzaam wordt gemaakt op de voorschriften van [artikel 374](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Derde&artikel=374&z=2015-01-01&g=2015-01-01), en dat de kennisgeving steeds geschiedt aan de benadeelde partij die zich in eerste aanleg in het geding heeft gevoegd.
 
 ##### Artikel 301
 
 1. De procureur-generaal en de verdachte kunnen zowel ter terechtzitting in eerste aanleg gehoorde, als nieuwe getuigen en deskundigen doen dagvaarden. Zij kunnen ook nieuwe bescheiden en stukken van overtuiging overleggen.
 
-2. [Artikel 289, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. [Artikel 289, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ## Titel IV. Behandeling ter terechtzitting
 
@@ -2975,7 +2975,7 @@ In geval van buitenvervolgingstelling zijn de [artikelen 282](https://wetten.ove
 
 ##### Artikel 302
 
-De bepalingen in de volgende afdelingen van deze titel zijn toepasselijk op de behandeling ter terechtzitting in eerste aanleg en in hoger beroep, met dien verstande dat, waar gesproken wordt van het Hof en van de voorzitter, daaronder voor de terechtzitting in eerste aanleg de rechter in eerste aanleg wordt verstaan en waar gesproken wordt van de procureur-generaal, daaronder voor de terechtzitting in eerste aanleg de officier van justitie wordt verstaan, een en ander voor zover niet uit enige van de bepalingen anders blijkt en onverminderd het bepaalde in [Titel IV van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15) en in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=I&z=2010-12-15&g=2010-12-15) en [II van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&z=2010-12-15&g=2010-12-15).
+De bepalingen in de volgende afdelingen van deze titel zijn toepasselijk op de behandeling ter terechtzitting in eerste aanleg en in hoger beroep, met dien verstande dat, waar gesproken wordt van het Hof en van de voorzitter, daaronder voor de terechtzitting in eerste aanleg de rechter in eerste aanleg wordt verstaan en waar gesproken wordt van de procureur-generaal, daaronder voor de terechtzitting in eerste aanleg de officier van justitie wordt verstaan, een en ander voor zover niet uit enige van de bepalingen anders blijkt en onverminderd het bepaalde in [Titel IV van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01) en in de [Titels I](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=I&z=2015-01-01&g=2015-01-01) en [II van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&z=2015-01-01&g=2015-01-01).
 
 ### Afdeling Tweede. Onderzoek van de zaak op de terechtzitting
 
@@ -3065,7 +3065,7 @@ Bevindt de verdachte zich in voorlopige hechtenis, dan schorst het Hof het onder
 
 ##### Artikel 316
 
-1. In de gevallen waarin van nietigheid van de dagvaarding, niet-ontvankelijkheid van de procureur-generaal of onbevoegdheid van het Hof zonder onderzoek van de zaak zelf kan blijken, is de verdachte bevoegd die verwering reeds dadelijk na de ondervraging in [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=315&z=2010-12-15&g=2010-12-15) vermeld, voor te dragen en toe te lichten.
+1. In de gevallen waarin van nietigheid van de dagvaarding, niet-ontvankelijkheid van de procureur-generaal of onbevoegdheid van het Hof zonder onderzoek van de zaak zelf kan blijken, is de verdachte bevoegd die verwering reeds dadelijk na de ondervraging in [artikel 315](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=315&z=2015-01-01&g=2015-01-01) vermeld, voor te dragen en toe te lichten.
 
 2. De procureur-generaal kan daarop antwoorden.
 
@@ -3079,7 +3079,7 @@ Bevindt de verdachte zich in voorlopige hechtenis, dan schorst het Hof het onder
 
 ##### Artikel 317
 
-Indien in het geding in eerste aanleg de officier van justitie, hetzij naar aanleiding van een verwering als bedoeld in het eerste lid van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=316&z=2010-12-15&g=2010-12-15), hetzij naar aanleiding van het horen door de rechter, ingevolge het zesde lid van dat artikel, van oordeel is dat de dagvaarding behoort te worden gewijzigd, zijn de [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2010-12-15&g=2010-12-15) en [356](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2010-12-15&g=2010-12-15) van toepassing.
+Indien in het geding in eerste aanleg de officier van justitie, hetzij naar aanleiding van een verwering als bedoeld in het eerste lid van [artikel 316](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=316&z=2015-01-01&g=2015-01-01), hetzij naar aanleiding van het horen door de rechter, ingevolge het zesde lid van dat artikel, van oordeel is dat de dagvaarding behoort te worden gewijzigd, zijn de [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2015-01-01&g=2015-01-01) en [356](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ##### Artikel 318
 
@@ -3089,7 +3089,7 @@ Indien in het geding in eerste aanleg de officier van justitie, hetzij naar aanl
 
 3. Onmiddellijk nadat de lijst is overgelegd en voorgelezen kan de verdachte, indien de dagvaarding van een door hem opgegeven getuige door de procureur-generaal is verzuimd of geweigerd, het Hof verzoeken alsnog de dagvaarding van die getuige te bevelen.
 
-4. Het Hof beveelt dat de overeenkomstig [artikel 289, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15), opgegeven getuige, wiens dagvaarding is verzuimd of geweigerd, tegen een door het Hof te bepalen tijdstip ter terechtzitting zal worden gedagvaard, tenzij de dagvaarding als nodeloos moet worden aangemerkt en het achterwege blijven van de dagvaarding redelijkerwijze niet in strijd komt met het recht van de verdachte om de ondervraging van getuigen à décharge te doen geschieden op dezelfde voorwaarden als het geval is met de getuigen à charge.
+4. Het Hof beveelt dat de overeenkomstig [artikel 289, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01), opgegeven getuige, wiens dagvaarding is verzuimd of geweigerd, tegen een door het Hof te bepalen tijdstip ter terechtzitting zal worden gedagvaard, tenzij de dagvaarding als nodeloos moet worden aangemerkt en het achterwege blijven van de dagvaarding redelijkerwijze niet in strijd komt met het recht van de verdachte om de ondervraging van getuigen à décharge te doen geschieden op dezelfde voorwaarden als het geval is met de getuigen à charge.
 
 5. De getuige, wiens dagvaarding door het Hof is bevolen of wiens plaatsing op de lijst door de procureur-generaal is verzuimd of geweigerd, wordt door de griffier op de lijst gebracht. Hetzelfde geldt ten aanzien van de getuige die gedurende de loop van het onderzoek op de terechtzitting is verschenen en niet bij het voorafgaande onderzoek tegenwoordig is geweest.
 
@@ -3097,11 +3097,11 @@ Indien in het geding in eerste aanleg de officier van justitie, hetzij naar aanl
 
 7. Alle op de lijst gebrachte getuigen worden verhoord, tenzij het Hof met toestemming van de procureur-generaal en de verdachte van hun verhoor afziet.
 
-8. [Artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=260&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+8. [Artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=260&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 319
 
-Wanneer de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding waarvan de geldigheidsduur reeds eenmaal of ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2010-12-15&g=2010-12-15), tweemaal is verlengd, kan de officier van justitie, in het geding in eerste aanleg, onmiddellijk nadat hij de zaak heeft voorgedragen, schorsing van het onderzoek op de terechtzitting vorderen, mits hij het voornemen daartoe tijdig aan de verdachte schriftelijk kenbaar heeft gemaakt. In dat geval kan het overleggen van de lijsten, bedoeld in het eerste en tweede lid van [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), worden aangehouden tot de hervatting van het onderzoek op de terechtzitting.
+Wanneer de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding waarvan de geldigheidsduur reeds eenmaal of ingevolge [artikel 98, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=98&z=2015-01-01&g=2015-01-01), tweemaal is verlengd, kan de officier van justitie, in het geding in eerste aanleg, onmiddellijk nadat hij de zaak heeft voorgedragen, schorsing van het onderzoek op de terechtzitting vorderen, mits hij het voornemen daartoe tijdig aan de verdachte schriftelijk kenbaar heeft gemaakt. In dat geval kan het overleggen van de lijsten, bedoeld in het eerste en tweede lid van [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), worden aangehouden tot de hervatting van het onderzoek op de terechtzitting.
 
 ##### Artikel 320
 
@@ -3109,7 +3109,7 @@ De voorzitter kan, met toestemming van de procureur-generaal en van de verdachte
 
 ##### Artikel 321
 
-Indien een op de lijst voorkomende getuige niet is verschenen, beveelt het Hof, tenzij overeenkomstig het bepaalde in [artikel 318, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), van zijn verhoor wordt afgezien, dat hij tegen een door het Hof te bepalen tijdstip ter terechtzitting zal worden gedagvaard en kan het daarbij tevens zijn medebrenging gelasten.
+Indien een op de lijst voorkomende getuige niet is verschenen, beveelt het Hof, tenzij overeenkomstig het bepaalde in [artikel 318, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), van zijn verhoor wordt afgezien, dat hij tegen een door het Hof te bepalen tijdstip ter terechtzitting zal worden gedagvaard en kan het daarbij tevens zijn medebrenging gelasten.
 
 ##### Artikel 322
 
@@ -3123,9 +3123,9 @@ Indien een op de lijst voorkomende getuige niet is verschenen, beveelt het Hof, 
 
 1. De voorzitter vraagt de getuige naar naam en voornamen, leeftijd, beroep en woon- en verblijfplaats; of hij bloed- of aanverwant is van de verdachte, en, zo ja, in welke graad.
 
-2. De voorzitter beëdigt daarna de getuige. [Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), betreffende de vervanging van de beëdiging door een aanmaning, is van overeenkomstige toepassing.
+2. De voorzitter beëdigt daarna de getuige. [Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), betreffende de vervanging van de beëdiging door een aanmaning, is van overeenkomstige toepassing.
 
-3. Met betrekking tot het verhoren van de getuige en diens recht van verschoning vinden de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15) toepassing.
+3. Met betrekking tot het verhoren van de getuige en diens recht van verschoning vinden de [artikelen 251 tot en met 254](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01) toepassing.
 
 ##### Artikel 324
 
@@ -3141,7 +3141,7 @@ De rechter kan bevelen, hetzij ambtshalve, hetzij op de vordering van de officie
 
 ##### Artikel 326
 
-Gedurende de verdere loop van het onderzoek kunnen de getuige door de voorzitter, de rechters, de procureur-generaal en de verdachte nog vragen worden gesteld. [Artikel 325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=325&z=2010-12-15&g=2010-12-15), is van toepassing.
+Gedurende de verdere loop van het onderzoek kunnen de getuige door de voorzitter, de rechters, de procureur-generaal en de verdachte nog vragen worden gesteld. [Artikel 325, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=325&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ##### Artikel 327
 
@@ -3159,7 +3159,7 @@ De voorzitter bepaalt welke vragen als ontoelaatbaar zijn aan te merken. Hij kan
 
 3. Het Hof gelast het ontslag van de getuige uit de gijzeling, zodra hij aan zijn verplichtingen heeft voldaan of het onderzoek op de terechtzitting gesloten is. Het is echter bevoegd dat ontslag in elke stand van het onderzoek te bevelen, ook op verzoek van de getuige.
 
-4. De [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=258&z=2010-12-15&g=2010-12-15) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=259&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+4. De [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=258&z=2015-01-01&g=2015-01-01) en [259](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=259&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 5. Tegen de beslissing, in het geding in eerste aanleg gegeven tot afwijzing van een verzoek van de getuige om ontslag, staat aan deze binnen drie dagen na de betekening hoger beroep open op het Hof. De getuige wordt gehoord, althans daartoe behoorlijk opgeroepen.
 
@@ -3175,7 +3175,7 @@ Na het afleggen van zijn verklaring blijft de getuige in de rechtszaal, tenzij h
 
 ##### Artikel 332
 
-1. Op gelijke wijze als bij [artikel 331](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=331&z=2010-12-15&g=2010-12-15) bedoeld, kan de voorzitter bevelen dat een of meer verdachten de rechtszaal zullen verlaten, opdat een getuige buiten hun tegenwoordigheid zal worden ondervraagd.
+1. Op gelijke wijze als bij [artikel 331](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=331&z=2015-01-01&g=2015-01-01) bedoeld, kan de voorzitter bevelen dat een of meer verdachten de rechtszaal zullen verlaten, opdat een getuige buiten hun tegenwoordigheid zal worden ondervraagd.
 
 2. In dat geval wordt de verdachte onmiddellijk op de hoogte gesteld van hetgeen in zijn afwezigheid is voorgevallen en eerst daarna met het onderzoek voortgegaan.
 
@@ -3197,15 +3197,15 @@ Na het afleggen van zijn verklaring blijft de getuige in de rechtszaal, tenzij h
 
 ##### Artikel 335
 
-Indien een getuige, tijdens het gerechtelijk vooronderzoek beëdigd of overeenkomstig [artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), aangemaand, overleden is of, naar het oordeel van het Hof, niet op de terechtzitting heeft kunnen verschijnen, of van wiens verhoor overeenkomstig het bepaalde in [artikel 318, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), is afgezien, zal zijn vroegere verklaring, mits ter terechtzitting voorgelezen, als aldaar afgelegd worden aangemerkt.
+Indien een getuige, tijdens het gerechtelijk vooronderzoek beëdigd of overeenkomstig [artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), aangemaand, overleden is of, naar het oordeel van het Hof, niet op de terechtzitting heeft kunnen verschijnen, of van wiens verhoor overeenkomstig het bepaalde in [artikel 318, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), is afgezien, zal zijn vroegere verklaring, mits ter terechtzitting voorgelezen, als aldaar afgelegd worden aangemerkt.
 
 ##### Artikel 336
 
 1. Alle bepalingen in deze titel ten aanzien van getuigen en hun verklaringen, zijn ook van toepassing ten aanzien van deskundigen en hun verklaringen, behoudens:
 
-- a. dat de deskundige wordt beëdigd op de wijze als in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IX&artikel=45&z=2010-12-15&g=2010-12-15) voor deskundigen is voorgeschreven;
+- a. dat de deskundige wordt beëdigd op de wijze als in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=IX&artikel=45&z=2015-01-01&g=2015-01-01) voor deskundigen is voorgeschreven;
 
-- b. dat [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=327&z=2010-12-15&g=2010-12-15) niet van toepassing is;
+- b. dat [artikel 327](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=327&z=2015-01-01&g=2015-01-01) niet van toepassing is;
 
 - c. dat gijzeling niet is toegelaten.
 
@@ -3231,11 +3231,11 @@ Indien een getuige, tijdens het gerechtelijk vooronderzoek beëdigd of overeenko
 
 ##### Artikel 338
 
-1. Wanneer de verdachte zich ertegen verzet,dat een getuige op de voet van het bepaalde in het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) anoniem is verhoord, kan het Hof die getuige horen zonder dat diens identiteit wordt onthuld. Het kan daartoe de nodige maatregelen nemen. Noch de procureur-generaal noch de verdachte of diens raadsman zijn bij het horen aanwezig. De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2010-12-15&g=2010-12-15) zijn van toepassing, doch alleen voor zover de inachtneming van die artikelen geen gevaar oplevert voor onthulling van de identiteit van de getuige. Alvorens de getuige te horen, stelt het Hof de procureur-generaal in de gelegenheid opmerkingen te maken.
+1. Wanneer de verdachte zich ertegen verzet,dat een getuige op de voet van het bepaalde in het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) anoniem is verhoord, kan het Hof die getuige horen zonder dat diens identiteit wordt onthuld. Het kan daartoe de nodige maatregelen nemen. Noch de procureur-generaal noch de verdachte of diens raadsman zijn bij het horen aanwezig. De [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2015-01-01&g=2015-01-01) zijn van toepassing, doch alleen voor zover de inachtneming van die artikelen geen gevaar oplevert voor onthulling van de identiteit van de getuige. Alvorens de getuige te horen, stelt het Hof de procureur-generaal in de gelegenheid opmerkingen te maken.
 
-2. Is het Hof van oordeel, dat ernstige bedreiging in de zin van [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15), niet kan worden aangenomen, dan beslist het, dat de getuige geen aanspraak maakt op anonimiteit en dat hij alleen dan opnieuw kan worden verhoord, indien het vierde lid van artikel 261 geen toepassing vindt. Een zodanig verhoor vindt niet plaats dan met toestemming van de procureur-generaal. Het Hof kan ook beslissen dat het proces-verbaal, houdende de verklaring die door de getuige ten overstaan van de rechter-commissaris anoniem is afgelegd, niet tot het bewijs van het strafbare feit is toegelaten.
+2. Is het Hof van oordeel, dat ernstige bedreiging in de zin van [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01), niet kan worden aangenomen, dan beslist het, dat de getuige geen aanspraak maakt op anonimiteit en dat hij alleen dan opnieuw kan worden verhoord, indien het vierde lid van artikel 261 geen toepassing vindt. Een zodanig verhoor vindt niet plaats dan met toestemming van de procureur-generaal. Het Hof kan ook beslissen dat het proces-verbaal, houdende de verklaring die door de getuige ten overstaan van de rechter-commissaris anoniem is afgelegd, niet tot het bewijs van het strafbare feit is toegelaten.
 
-3. Indien naar het oordeel van het Hof ernstige bedreiging wel kan worden aangenomen, wordt het verweer van de verdachte verworpen en blijft het proces-verbaal van verhoor deel van de processtukken uitmaken. Indien een nader verhoor wenselijk wordt geoordeeld, kan het Hof beslissen dat de getuige door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) nader zal worden verhoord, eventueel met vermelding van de vragen die het Hof gesteld wenst te zien.
+3. Indien naar het oordeel van het Hof ernstige bedreiging wel kan worden aangenomen, wordt het verweer van de verdachte verworpen en blijft het proces-verbaal van verhoor deel van de processtukken uitmaken. Indien een nader verhoor wenselijk wordt geoordeeld, kan het Hof beslissen dat de getuige door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) nader zal worden verhoord, eventueel met vermelding van de vragen die het Hof gesteld wenst te zien.
 
 4. Nader verhoor door de rechter-commissaris kan ook worden opgedragen, indien bij een eerder verhoor bepaalde vormen zijn verzuimd.
 
@@ -3243,17 +3243,17 @@ Indien een getuige, tijdens het gerechtelijk vooronderzoek beëdigd of overeenko
 
 ##### Artikel 339
 
-1. Wanneer een getuige in verband met het bepaalde in het zevende lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) niet door de rechter-commissaris is verhoord, kan het Hof op de vordering van de procureur-generaal een onderzoek instellen naar de gegrondheid van de bezwaren tegen onthulling van de identiteit van die getuige. Het Hof kan daartoe de getuige overeenkomstig het eerste lid van [artikel 338](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=338&z=2010-12-15&g=2010-12-15) horen. Alvorens de getuige te horen, stelt het Hof de verdachte of diens raadsman in de gelegenheid opmerkingen te maken.
+1. Wanneer een getuige in verband met het bepaalde in het zevende lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) niet door de rechter-commissaris is verhoord, kan het Hof op de vordering van de procureur-generaal een onderzoek instellen naar de gegrondheid van de bezwaren tegen onthulling van de identiteit van die getuige. Het Hof kan daartoe de getuige overeenkomstig het eerste lid van [artikel 338](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=338&z=2015-01-01&g=2015-01-01) horen. Alvorens de getuige te horen, stelt het Hof de verdachte of diens raadsman in de gelegenheid opmerkingen te maken.
 
-2. Is het Hof van oordeel, dat ernstige bedreiging in de zin van [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15), niet kan worden aangenomen, dan beslist het, dat de getuige geen aanspraak maakt op anonimiteit en dat hij alleen dan kan worden verhoord, indien het vierde lid van artikel 261 geen toepassing vindt. Een zodanig verhoor vindt niet plaats dan met toestemming van de procureur-generaal.
+2. Is het Hof van oordeel, dat ernstige bedreiging in de zin van [artikel 261, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01), niet kan worden aangenomen, dan beslist het, dat de getuige geen aanspraak maakt op anonimiteit en dat hij alleen dan kan worden verhoord, indien het vierde lid van artikel 261 geen toepassing vindt. Een zodanig verhoor vindt niet plaats dan met toestemming van de procureur-generaal.
 
-3. Indien naar het oordeel van het Hof ernstige bedreiging wel kan worden aangenomen, beslist het dat de getuige door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) kan worden verhoord, eventueel met vermelding van de vragen die het Hof gesteld wenst te zien.
+3. Indien naar het oordeel van het Hof ernstige bedreiging wel kan worden aangenomen, beslist het dat de getuige door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) kan worden verhoord, eventueel met vermelding van de vragen die het Hof gesteld wenst te zien.
 
 ##### Artikel 340
 
-1. Wanneer de rechter in eerste aanleg het proces-verbaal, houdende de verklaring die door een getuige op de voet van het bepaalde in het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) is afgelegd, niet tot het bewijs van het strafbare feit heeft toegelaten, vindt [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=339&z=2010-12-15&g=2010-12-15) in hoger beroep overeenkomstige toepassing.
+1. Wanneer de rechter in eerste aanleg het proces-verbaal, houdende de verklaring die door een getuige op de voet van het bepaalde in het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) is afgelegd, niet tot het bewijs van het strafbare feit heeft toegelaten, vindt [artikel 339](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=339&z=2015-01-01&g=2015-01-01) in hoger beroep overeenkomstige toepassing.
 
-2. Is een niet eerder verhoorde getuige alsnog, na een daartoe strekkende beslissing van de rechter in eerste aanleg, door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) verhoord, dan vindt [artikel 338](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=338&z=2010-12-15&g=2010-12-15) in hoger beroep overeenkomstige toepassing.
+2. Is een niet eerder verhoorde getuige alsnog, na een daartoe strekkende beslissing van de rechter in eerste aanleg, door de rechter-commissaris met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) verhoord, dan vindt [artikel 338](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=338&z=2015-01-01&g=2015-01-01) in hoger beroep overeenkomstige toepassing.
 
 ##### Artikel 341
 
@@ -3291,11 +3291,11 @@ Indien de verdachte de stilte of de orde op de terechtzitting verstoort en vruch
 
 2. De voorzitter kan dienovereenkomstig bepalen, dat de verdachte buiten tegenwoordigheid van een of meer medeverdachten zal worden verhoord.
 
-3. Het tweede lid van [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=332&z=2010-12-15&g=2010-12-15) is van toepassing.
+3. Het tweede lid van [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=332&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 347
 
-Na de ondervraging van de verdachte kunnen, op de voet van [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=326&z=2010-12-15&g=2010-12-15), aan de getuigen opnieuw vragen worden gesteld of stukken worden voorgelezen.
+Na de ondervraging van de verdachte kunnen, op de voet van [artikel 326](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=326&z=2015-01-01&g=2015-01-01), aan de getuigen opnieuw vragen worden gesteld of stukken worden voorgelezen.
 
 ##### Artikel 348
 
@@ -3309,13 +3309,13 @@ Na de ondervraging van de verdachte kunnen, op de voet van [artikel 326](https:/
 
 5. Indien op de terechtzitting de bijstand van een tolk blijkt nodig te zijn, kan het Hof de dagvaarding van een tolk bevelen.
 
-6. Bij niet-verschijning van een tolk is [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=321&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+6. Bij niet-verschijning van een tolk is [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=321&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 7. De verdachte kan op bepaald aangegeven gronden de tolk wraken. Het Hof doet daarover terstond uitspraak.
 
 ##### Artikel 349
 
-1. De tolk wordt, alvorens met zijn werkzaamheden aan te vangen, beëdigd.[Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), betreffende vervanging van de beëdiging door een aanmaning is, van overeenkomstige toepassing.
+1. De tolk wordt, alvorens met zijn werkzaamheden aan te vangen, beëdigd.[Artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), betreffende vervanging van de beëdiging door een aanmaning is, van overeenkomstige toepassing.
 
 2. Van degene, die op de vordering van het openbaar ministerie door het Hof van Justitie als vaste gerechtelijke tolk is beëdigd, wordt geen nadere eed gevorderd.
 
@@ -3333,11 +3333,11 @@ In de gevallen, waarin de bijstand van een tolk wordt gevorderd, wordt ten bezwa
 
 ##### Artikel 352
 
-Het Hof heeft gelijke bevoegdheid als in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2010-12-15&g=2010-12-15) aan het openbaar ministerie is toegekend. Het oefent die uit hetzij ambtshalve, hetzij op de vordering van de procureur-generaal, of op het verzoek van de verdachte.
+Het Hof heeft gelijke bevoegdheid als in [artikel 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2015-01-01&g=2015-01-01) aan het openbaar ministerie is toegekend. Het oefent die uit hetzij ambtshalve, hetzij op de vordering van de procureur-generaal, of op het verzoek van de verdachte.
 
 ##### Artikel 353
 
-1. Nadat, behoudens het bepaalde bij [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=347&z=2010-12-15&g=2010-12-15), de ondervraging van de verdachte heeft plaatsgehad, kan de procureur-generaal het woord voeren en legt hij zijn vordering, na voorlezing, aan het Hof over. De vordering omschrijft de straf of de maatregel, indien oplegging daarvan wordt geëist, en vermeldt in dat geval tevens, welk bepaald strafbaar feit zou zijn begaan. De procureur-generaal maakt, voor zover zulks aan de verdachte niet reeds eerder was gebleken, kenbaar of hij voornemens is een vordering als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) aanhangig te maken, alsmede of daartoe een strafrechtelijk financieel onderzoek, als bedoeld in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2010-12-15&g=2010-12-15), is ingesteld. Van deze mededeling van de procureur-generaal wordt in het proces-verbaal van de terechtzitting aantekening gedaan.
+1. Nadat, behoudens het bepaalde bij [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=347&z=2015-01-01&g=2015-01-01), de ondervraging van de verdachte heeft plaatsgehad, kan de procureur-generaal het woord voeren en legt hij zijn vordering, na voorlezing, aan het Hof over. De vordering omschrijft de straf of de maatregel, indien oplegging daarvan wordt geëist, en vermeldt in dat geval tevens, welk bepaald strafbaar feit zou zijn begaan. De procureur-generaal maakt, voor zover zulks aan de verdachte niet reeds eerder was gebleken, kenbaar of hij voornemens is een vordering als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) aanhangig te maken, alsmede of daartoe een strafrechtelijk financieel onderzoek, als bedoeld in [artikel 177a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177a&z=2015-01-01&g=2015-01-01), is ingesteld. Van deze mededeling van de procureur-generaal wordt in het proces-verbaal van de terechtzitting aantekening gedaan.
 
 2. De verdachte kan hierop antwoorden.
 
@@ -3347,7 +3347,7 @@ Het Hof heeft gelijke bevoegdheid als in [artikel 197](https://wetten.overheid.n
 
 5. Aan de verdachte wordt echter, op straffe van nietigheid, het recht gelaten om het laatst te spreken.
 
-6. Ook daarna is [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=347&z=2010-12-15&g=2010-12-15) van toepassing en kan ook de verdachte nader worden ondervraagd. In dat geval kunnen de procureur-generaal en de verdachte nogmaals, op de hiervoor vermelde voet, het woord voeren.
+6. Ook daarna is [artikel 347](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=347&z=2015-01-01&g=2015-01-01) van toepassing en kan ook de verdachte nader worden ondervraagd. In dat geval kunnen de procureur-generaal en de verdachte nogmaals, op de hiervoor vermelde voet, het woord voeren.
 
 ##### Artikel 354
 
@@ -3355,7 +3355,7 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 ##### Artikel 355
 
-1. Indien in het geding in eerste aanleg en buiten het geval van [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=354&z=2010-12-15&g=2010-12-15) de officier van justitie oordeelt dat de telastelegging behoort te worden gewijzigd, legt hij de inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechter over, voordat hij voor de eerste maal overeenkomstig [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2010-12-15&g=2010-12-15) het woord voert, met de vordering dat die wijzigingen zullen worden toegelaten.
+1. Indien in het geding in eerste aanleg en buiten het geval van [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=354&z=2015-01-01&g=2015-01-01) de officier van justitie oordeelt dat de telastelegging behoort te worden gewijzigd, legt hij de inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechter over, voordat hij voor de eerste maal overeenkomstig [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2015-01-01&g=2015-01-01) het woord voert, met de vordering dat die wijzigingen zullen worden toegelaten.
 
 2. De verdachte wordt op de vordering tot wijziging gehoord.
 
@@ -3363,27 +3363,27 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 ##### Artikel 356
 
-1. Indien de telastelegging overeenkomstig [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2010-12-15&g=2010-12-15) is gewijzigd, wordt aan de verdachte door de griffier een gewaarmerkt afschrift van de wijziging op de terechtzitting zelf ter hand gesteld. Is de verdachte niet ter terechtzitting aanwezig, dan wordt hem de wijziging zo spoedig mogelijk betekend.
+1. Indien de telastelegging overeenkomstig [artikel 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2015-01-01&g=2015-01-01) is gewijzigd, wordt aan de verdachte door de griffier een gewaarmerkt afschrift van de wijziging op de terechtzitting zelf ter hand gesteld. Is de verdachte niet ter terechtzitting aanwezig, dan wordt hem de wijziging zo spoedig mogelijk betekend.
 
 2. De rechter schorst het onderzoek voor een bepaalde tijd; met toestemming van de verdachte kan echter het onderzoek aanstonds worden voortgezet.
 
 ##### Artikel 357
 
-1. Indien in de telastelegging voor de opgave van het feit is volstaan met een omschrijving als bedoeld in [artikel 285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=285&z=2010-12-15&g=2010-12-15), wordt die opgave alsnog in overeenstemming gebracht met de in het eerste en tweede lid van dat artikel gestelde eisen.
+1. Indien in de telastelegging voor de opgave van het feit is volstaan met een omschrijving als bedoeld in [artikel 285, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=285&z=2015-01-01&g=2015-01-01), wordt die opgave alsnog in overeenstemming gebracht met de in het eerste en tweede lid van dat artikel gestelde eisen.
 
-2. De [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2010-12-15&g=2010-12-15), met uitzondering van de laatste volzin van het derde lid, en [356](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2010-12-15&g=2010-12-15) vinden overeenkomstig toepassing.
+2. De [artikelen 355](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=355&z=2015-01-01&g=2015-01-01), met uitzondering van de laatste volzin van het derde lid, en [356](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2015-01-01&g=2015-01-01) vinden overeenkomstig toepassing.
 
 ##### Artikel 358
 
 1. Indien aan het Hof de noodzakelijkheid blijkt van het verhoor van op de terechtzitting nog niet verhoorde getuigen of deskundigen, of van de overlegging van bescheiden of stukken van overtuiging, die niet op de terechtzitting aanwezig zijn, beveelt het zo nodig onder bijvoeging van een bevel tot medebrenging, tegen een door het Hof te bepalen tijdstip de dagvaarding van die getuigen of deskundigen of de overlegging van die bescheiden of die stukken van overtuiging.
 
-2. Het in het eerste lid bepaalde is niet van toepassing op de getuige, die overeenkomstig het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) is verhoord.
+2. Het in het eerste lid bepaalde is niet van toepassing op de getuige, die overeenkomstig het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) is verhoord.
 
 ##### Artikel 359
 
 1. Indien enig onderzoek door de rechter-commissaris noodzakelijk blijkt, stelt het Hof met schorsing van de zaak onder aanduiding van het onderwerp van het onderzoek en, zo nodig, van de wijze waarop dit zal zijn in te stellen, de stukken in handen van de rechter-commissaris.
 
-2. Het onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de bepalingen van de [artikelen 226 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2010-12-15&g=2010-12-15) gevoerd. Alsdan kan de rechter-commissaris de bevoegdheden die hem tijdens het gerechtelijk vooronderzoek en overigens tijdens het voorbereidend onderzoek na tussenkomst van de officier van justitie of op het verzoek van de verdachte zijn toegekend, ambtshalve uitoefenen.
+2. Het onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de bepalingen van de [artikelen 226 tot en met 271](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=226&z=2015-01-01&g=2015-01-01) gevoerd. Alsdan kan de rechter-commissaris de bevoegdheden die hem tijdens het gerechtelijk vooronderzoek en overigens tijdens het voorbereidend onderzoek na tussenkomst van de officier van justitie of op het verzoek van de verdachte zijn toegekend, ambtshalve uitoefenen.
 
 ##### Artikel 360
 
@@ -3391,19 +3391,19 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 2. Het bevel wordt niet gegeven dan nadat het oordeel van een of meer deskundigen is ingewonnen en de procureur-generaal, de verdachte en zijn raadsman in de gelegenheid zijn gesteld om terzake te worden gehoord.
 
-3. [Artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=177&z=2010-12-15&g=2010-12-15) is van toepassing met dien verstande dat het bevel, bedoeld bij het tweede lid van dat artikel, slechts door het Hof kan worden gegeven.
+3. [Artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=177&z=2015-01-01&g=2015-01-01) is van toepassing met dien verstande dat het bevel, bedoeld bij het tweede lid van dat artikel, slechts door het Hof kan worden gegeven.
 
 ##### Artikel 361
 
 1. Indien het Hof het houden van een schouw of het horen van getuigen of verdachten elders dan in de rechtszaal noodzakelijk acht, kan zij te dien einde, met schorsing van de zaak, bevelen dat de terechtzitting tijdelijk zal worden verplaatst.
 
-2. Het Hof is bevoegd daartoe met de personen door haar aangewezen elke plaats te betreden. Van het binnentreden in een woning zonder de uitdrukkelijke toestemming van de bewoner wordt binnen tweemaal vierentwintig uren proces-verbaal opgemaakt. [Artikel 163, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=163&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. Het Hof is bevoegd daartoe met de personen door haar aangewezen elke plaats te betreden. Van het binnentreden in een woning zonder de uitdrukkelijke toestemming van de bewoner wordt binnen tweemaal vierentwintig uren proces-verbaal opgemaakt. [Artikel 163, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=163&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 3. Het Hof is bevoegd, naar aanleiding van de gesteldheid van de plaats waar de tijdelijke terechtzitting zal worden gehouden, de nodige voorschriften te geven voor de wijze van behandeling van de zaak op die terechtzitting.
 
 ##### Artikel 362
 
-1. In alle gevallen, waarin het onderzoek wordt onderbroken of voor een bepaalde tijd geschorst, wordt door de voorzitter aan de aanwezige verdachte en aan de aanwezige getuigen, deskundigen en tolken mondeling het tijdstip aangezegd, waarop zij op de terechtzitting aanwezig zullen moeten zijn, tenzij het Hof, de procureur-generaal en de verdachte gehoord, bepaalt dat hun tegenwoordigheid bij de nadere behandeling niet is vereist. De aanzegging geldt als dagvaarding. Bij niet-verschijning van getuigen, deskundigen of tolken op het aangewezen tijdstip is [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=321&z=2010-12-15&g=2010-12-15) van toepassing.
+1. In alle gevallen, waarin het onderzoek wordt onderbroken of voor een bepaalde tijd geschorst, wordt door de voorzitter aan de aanwezige verdachte en aan de aanwezige getuigen, deskundigen en tolken mondeling het tijdstip aangezegd, waarop zij op de terechtzitting aanwezig zullen moeten zijn, tenzij het Hof, de procureur-generaal en de verdachte gehoord, bepaalt dat hun tegenwoordigheid bij de nadere behandeling niet is vereist. De aanzegging geldt als dagvaarding. Bij niet-verschijning van getuigen, deskundigen of tolken op het aangewezen tijdstip is [artikel 321](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=321&z=2015-01-01&g=2015-01-01) van toepassing.
 
 2. De verdachte, getuigen, deskundigen en tolken, die bij de in het eerste lid bedoelde aanzegging niet op de terechtzitting aanwezig zijn, worden, in geval van schorsing, voor de nadere behandeling opnieuw opgeroepen of gedagvaard, tenzij het Hof, de procureur-generaal en de verdachte gehoord, bepaalt dat hun tegenwoordigheid bij de nadere behandeling niet is vereist.
 
@@ -3413,23 +3413,23 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 2. De verdachte, getuigen, deskundigen en tolken die, ofschoon opgeroepen of gedagvaard, niet op de terechtzitting zijn verschenen, worden opnieuw opgeroepen of gedagvaard, tenzij het Hof, de procureur-generaal en de verdachte gehoord, bepaalt dat hun tegenwoordigheid bij de nadere behandeling niet is vereist.
 
-3. Hetgeen bij [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2010-12-15&g=2010-12-15) ten opzichte van de dagvaarding van de verdachte is bepaald, geldt hier ten aanzien van de oproeping van de verdachte.
+3. Hetgeen bij [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2015-01-01&g=2015-01-01) ten opzichte van de dagvaarding van de verdachte is bepaald, geldt hier ten aanzien van de oproeping van de verdachte.
 
 ##### Artikel 364
 
-1. In alle gevallen, waarin, na schorsing, het onderzoek op een nadere terechtzitting wordt hervat, kunnen nieuw bij te brengen, nog niet verhoorde getuigen en deskundigen overeenkomstig de [artikelen 287, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2010-12-15&g=2010-12-15), en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15) worden gedagvaard.
+1. In alle gevallen, waarin, na schorsing, het onderzoek op een nadere terechtzitting wordt hervat, kunnen nieuw bij te brengen, nog niet verhoorde getuigen en deskundigen overeenkomstig de [artikelen 287, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2015-01-01&g=2015-01-01), en [289](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01) worden gedagvaard.
 
-2. [Artikel 287, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2010-12-15&g=2010-12-15), vindt overeenkomstig toepassing.
+2. [Artikel 287, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2015-01-01&g=2015-01-01), vindt overeenkomstig toepassing.
 
 3. De nieuw bijgebrachte getuigen worden op de getuigenlijst geplaatst.
 
-4. [Artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), is van toepassing.
+4. [Artikel 318, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 5. De bepalingen strekkende tot bescherming van de bedreigde getuige zijn van overeenkomstige toepassing.
 
 ##### Artikel 365
 
-1. Onverminderd het bepaalde bij [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=366&z=2010-12-15&g=2010-12-15), wordt in alle gevallen waarin schorsing van het onderzoek plaatsheeft, de zaak op de nadere terechtzitting hervat in de stand waarin zij zich op het tijdstip van de schorsing bevond. Het Hof is bevoegd te bevelen dat het onderzoek op de terechtzitting opnieuw wordt aangevangen.
+1. Onverminderd het bepaalde bij [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=366&z=2015-01-01&g=2015-01-01), wordt in alle gevallen waarin schorsing van het onderzoek plaatsheeft, de zaak op de nadere terechtzitting hervat in de stand waarin zij zich op het tijdstip van de schorsing bevond. Het Hof is bevoegd te bevelen dat het onderzoek op de terechtzitting opnieuw wordt aangevangen.
 
 2. In het geval dat het onderzoek opnieuw wordt aangevangen, wordt de verklaring van een getuige die bij het voorgaand onderzoek is verhoord, mits op de nadere terechtzitting voorgelezen, als aldaar afgelegd aangemerkt:
 
@@ -3445,19 +3445,19 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 2. Het Hof kan gelasten dat bepaalde handelingen van onderzoek opnieuw zullen plaatsvinden.
 
-3. Het tweede lid van [artikel 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2010-12-15&g=2010-12-15) is van toepassing.
+3. Het tweede lid van [artikel 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 367
 
 1. Niettegenstaande de schorsing is het Hof bevoegd te allen tijde het onderzoek op de terechtzitting voor bepaalde spoedeisende maatregelen tijdelijk te heropenen.
 
-2. De [artikelen 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=363&z=2010-12-15&g=2010-12-15), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=364&z=2010-12-15&g=2010-12-15) en [365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+2. De [artikelen 363](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=363&z=2015-01-01&g=2015-01-01), [364](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=364&z=2015-01-01&g=2015-01-01) en [365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 ##### Artikel 368
 
-1. Indien buiten het geval van [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=308&z=2010-12-15&g=2010-12-15) of van [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=366&z=2010-12-15&g=2010-12-15) de verdachte tegen wie verstek is verleend, gedurende het onderzoek op de terechtzitting verschijnt of zich in de gevallen, bij wettelijke regeling toegelaten, door een gemachtigde laat vertegenwoordigen, kan het Hof het verstek vervallen verklaren. In dat geval wordt het onderzoek opnieuw aangevangen, hetzij dadelijk, hetzij op een nader te bepalen terechtzitting.
+1. Indien buiten het geval van [artikel 308](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=308&z=2015-01-01&g=2015-01-01) of van [artikel 366](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=366&z=2015-01-01&g=2015-01-01) de verdachte tegen wie verstek is verleend, gedurende het onderzoek op de terechtzitting verschijnt of zich in de gevallen, bij wettelijke regeling toegelaten, door een gemachtigde laat vertegenwoordigen, kan het Hof het verstek vervallen verklaren. In dat geval wordt het onderzoek opnieuw aangevangen, hetzij dadelijk, hetzij op een nader te bepalen terechtzitting.
 
-2. Het tweede lid van [artikel 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2010-12-15&g=2010-12-15) is van toepassing.
+2. Het tweede lid van [artikel 365](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=365&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 369
 
@@ -3471,7 +3471,7 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 ##### Artikel 370
 
-Het proces-verbaal wordt door de voorzitter of door een van de rechters, die over de zaak heeft geoordeeld, en de griffier vastgesteld en zo spoedig mogelijk na elke sluiting van de terechtzitting en in ieder geval binnen de in het eerste lid van [artikel 410](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=410&z=2010-12-15&g=2010-12-15) vermelde termijn ondertekend. Voor zover de griffier tot een en ander buiten staat is, geschiedt dit zonder zijn medewerking en wordt van zijn verhindering aan het slot van het proces-verbaal melding gemaakt.
+Het proces-verbaal wordt door de voorzitter of door een van de rechters, die over de zaak heeft geoordeeld, en de griffier vastgesteld en zo spoedig mogelijk na elke sluiting van de terechtzitting en in ieder geval binnen de in het eerste lid van [artikel 410](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=410&z=2015-01-01&g=2015-01-01) vermelde termijn ondertekend. Voor zover de griffier tot een en ander buiten staat is, geschiedt dit zonder zijn medewerking en wordt van zijn verhindering aan het slot van het proces-verbaal melding gemaakt.
 
 ##### Artikel 371
 
@@ -3493,9 +3493,9 @@ Alvorens te beslissen op enig verzoek of verzet van de verdachte, hoort het Hof 
 
 1. De benadeelde partij kan zich ter zake van haar vordering tot schadevergoeding, indien deze wordt beperkt tot ten hoogste USD 27.933 en zij niet aan het oordeel van de burgerlijke rechter is onderworpen, voegen in het geding over de strafzaak in eerste aanleg. De vordering dient naar het oordeel van de rechter van zodanige aard te zijn, dat zij zich leent voor een beslissing in de strafzaak.
 
-2. Tot deze voeging kan zij voorts door de rechter worden toegelaten ingeval een niet tenlastegelegd strafbaar feit, als bedoeld in [artikel 412](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Zesde&artikel=412&z=2010-12-15&g=2010-12-15), bij het onderzoek ter terechtzitting ter sprake komt en dit feit in beginsel bij de strafbepaling in aanmerking kan worden genomen.
+2. Tot deze voeging kan zij voorts door de rechter worden toegelaten ingeval een niet tenlastegelegd strafbaar feit, als bedoeld in [artikel 412](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Zesde&artikel=412&z=2015-01-01&g=2015-01-01), bij het onderzoek ter terechtzitting ter sprake komt en dit feit in beginsel bij de strafbepaling in aanmerking kan worden genomen.
 
-3. De voeging geschiedt op de terechtzitting door een opgave van de inhoud van de vordering, uiterlijk voordat de officier van justitie zijn vordering ingevolge [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2010-12-15&g=2010-12-15) overlegt.
+3. De voeging geschiedt op de terechtzitting door een opgave van de inhoud van de vordering, uiterlijk voordat de officier van justitie zijn vordering ingevolge [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2015-01-01&g=2015-01-01) overlegt.
 
 4. De benadeelde partij die zich niet in het geding in eerste aanleg heeft gevoegd, is daartoe onbevoegd in het geding in hoger beroep.
 
@@ -3515,7 +3515,7 @@ Zij, die om in een burgerlijk geding in rechte te verschijnen, bijstand behoeven
 
 3. De benadeelde partij kan van deze stukken met toestemming van de voorzitter, afschriften doen nemen.
 
-4. Ten aanzien van de bevoegdheid van de benadeelde partij en haar advocaat tot de kennisneming van processtukken en het bekomen van afschrift daarvan vinden de [artikelen 51 tot en met 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=51&z=2010-12-15&g=2010-12-15) overeenkomstige toepassing.
+4. Ten aanzien van de bevoegdheid van de benadeelde partij en haar advocaat tot de kennisneming van processtukken en het bekomen van afschrift daarvan vinden de [artikelen 51 tot en met 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=51&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing.
 
 ##### Artikel 377
 
@@ -3533,7 +3533,7 @@ Zij, die om in een burgerlijk geding in rechte te verschijnen, bijstand behoeven
 
 ##### Artikel 379
 
-De benadeelde partij kan haar eis toelichten of doen toelichten, nadat de officier van justitie zijn vordering ingevolge [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2010-12-15&g=2010-12-15) heeft overgelegd. Zij heeft andermaal het woord, nadat de officier van justitie in de gelegenheid is gesteld ten tweede male het woord te voeren.
+De benadeelde partij kan haar eis toelichten of doen toelichten, nadat de officier van justitie zijn vordering ingevolge [artikel 353](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=353&z=2015-01-01&g=2015-01-01) heeft overgelegd. Zij heeft andermaal het woord, nadat de officier van justitie in de gelegenheid is gesteld ten tweede male het woord te voeren.
 
 ##### Artikel 380
 
@@ -3589,11 +3589,11 @@ Onder eigen waarneming van de rechter wordt verstaan die welke bij het onderzoek
 
 1. Onder verklaring van een getuige wordt verstaan, zijn bij het onderzoek op de terechtzitting gedane mededeling van feiten of omstandigheden, die hij zelf waargenomen of ondervonden heeft.
 
-2. De verklaring van een getuige wiens identiteit niet blijkt, kan niet meewerken tot het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, behoudens ingeval de getuige met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) is verhoord.
+2. De verklaring van een getuige wiens identiteit niet blijkt, kan niet meewerken tot het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, behoudens ingeval de getuige met toepassing van het vierde lid van [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) is verhoord.
 
 3. Het bewijs dat de verdachte het tenlastegelegde feit heeft begaan, kan door de rechter niet uitsluitend worden aangenomen op de verklaring van slechts één getuige.
 
-4. Verklaringen van getuigen, die overeenkomstig het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) zijn verhoord, mogen alleen dan als bewijsmateriaal worden gebezigd, indien belangrijke steun aan ander gebezigd bewijsmateriaal kan worden ontleend.
+4. Verklaringen van getuigen, die overeenkomstig het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) zijn verhoord, mogen alleen dan als bewijsmateriaal worden gebezigd, indien belangrijke steun aan ander gebezigd bewijsmateriaal kan worden ontleend.
 
 ##### Artikel 386
 
@@ -3615,7 +3615,7 @@ Onder verklaring van een deskundige wordt verstaan, zijn bij het onderzoek op de
 
 2. Het bewijs dat de verdachte het tenlastegelegde feit heeft gepleegd, kan door de rechter worden aangenomen op het proces-verbaal van een opsporingsambtenaar.
 
-3. Schriftelijke bescheiden, houdende de verklaring van een persoon wiens identiteit niet blijkt, kunnen slechts als bewijsmiddel worden erkend, indien deze persoon met de toestemming van of door de rechter-commissaris op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15) is verhoord, mits belangrijke steun aan ander gebezigd bewijsmateriaal kan worden ontleend.
+3. Schriftelijke bescheiden, houdende de verklaring van een persoon wiens identiteit niet blijkt, kunnen slechts als bewijsmiddel worden erkend, indien deze persoon met de toestemming van of door de rechter-commissaris op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01) is verhoord, mits belangrijke steun aan ander gebezigd bewijsmateriaal kan worden ontleend.
 
 ### Afdeling Vijfde. Beraadslaging en uitspraak
 
@@ -3631,7 +3631,7 @@ Onder verklaring van een deskundige wordt verstaan, zijn bij het onderzoek op de
 
 ##### Artikel 389
 
-De [artikelen 414 tot en met 428](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=414&z=2010-12-15&g=2010-12-15) kunnen in eerste aanleg ook bij de berechting van misdrijven toepassing vinden, indien naar het oordeel van de rechter de zaak van eenvoudige aard is, bepaaldelijk ook ten aanzien van het bewijs en de toepassing van de wettelijke regeling en daarin geen zwaardere hoofdstraf dan gevangenisstraf van ten hoogste zes maanden dient te worden opgelegd.
+De [artikelen 414 tot en met 428](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=414&z=2015-01-01&g=2015-01-01) kunnen in eerste aanleg ook bij de berechting van misdrijven toepassing vinden, indien naar het oordeel van de rechter de zaak van eenvoudige aard is, bepaaldelijk ook ten aanzien van het bewijs en de toepassing van de wettelijke regeling en daarin geen zwaardere hoofdstraf dan gevangenisstraf van ten hoogste zes maanden dient te worden opgelegd.
 
 ##### Artikel 390
 
@@ -3643,7 +3643,7 @@ De [artikelen 414 tot en met 428](https://wetten.overheid.nl/jci1.3:c:BWBR002868
 
 ##### Artikel 391
 
-1. Ook kan, in het geval bij het eerste lid van [artikel 390](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=390&z=2010-12-15&g=2010-12-15) bedoeld, het Hof overeenkomstig de bepalingen van [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2010-12-15&g=2010-12-15) een onderzoek door de rechter-commissaris doen plaatsvinden.
+1. Ook kan, in het geval bij het eerste lid van [artikel 390](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=390&z=2015-01-01&g=2015-01-01) bedoeld, het Hof overeenkomstig de bepalingen van [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2015-01-01&g=2015-01-01) een onderzoek door de rechter-commissaris doen plaatsvinden.
 
 2. In dit geval wordt gehandeld als ware het onderzoek voor onbepaalde tijd geschorst.
 
@@ -3655,11 +3655,11 @@ De [artikelen 414 tot en met 428](https://wetten.overheid.nl/jci1.3:c:BWBR002868
 
 ##### Artikel 393
 
-Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2010-12-15&g=2010-12-15) bedoeld, daartoe aanleiding geeft, spreekt het Hof uit de niet-ontvankelijkheid van het ingestelde hoger beroep, de nietigheid van de dagvaarding, de onbevoegdheid van het Hof, de niet-ontvankelijkheid van de procureur-generaal of de schorsing van de vervolging.
+Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2015-01-01&g=2015-01-01) bedoeld, daartoe aanleiding geeft, spreekt het Hof uit de niet-ontvankelijkheid van het ingestelde hoger beroep, de nietigheid van de dagvaarding, de onbevoegdheid van het Hof, de niet-ontvankelijkheid van de procureur-generaal of de schorsing van de vervolging.
 
 ##### Artikel 394
 
-1. Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2010-12-15&g=2010-12-15) bedoeld niet leidt tot toepassing van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15), beraadslaagt het Hof op de grondslag van de tenlastelegging en naar aanleiding van het onderzoek op de terechtzitting over de vraag of bewezen is dat het feit door de verdachte is begaan, en, zo ja, welk strafbaar feit het bewezenverklaarde volgens wettelijke regeling oplevert; indien wordt aangenomen dat het feit bewezen en strafbaar is, dan beraadslaagt het Hof over de strafbaarheid van de verdachte en over de oplegging van straf of maatregel, bij wettelijke regeling bepaald.
+1. Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2015-01-01&g=2015-01-01) bedoeld niet leidt tot toepassing van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01), beraadslaagt het Hof op de grondslag van de tenlastelegging en naar aanleiding van het onderzoek op de terechtzitting over de vraag of bewezen is dat het feit door de verdachte is begaan, en, zo ja, welk strafbaar feit het bewezenverklaarde volgens wettelijke regeling oplevert; indien wordt aangenomen dat het feit bewezen en strafbaar is, dan beraadslaagt het Hof over de strafbaarheid van de verdachte en over de oplegging van straf of maatregel, bij wettelijke regeling bepaald.
 
 2. In het geding in hoger beroep geschiedt de beraadslaging mede naar aanleiding van het onderzoek op de terechtzitting in eerste aanleg, zoals dit volgens het daarvan opgemaakte proces-verbaal heeft plaatsgehad.
 
@@ -3673,19 +3673,19 @@ Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 396
 
-1. Acht het Hof niet bewezen dat de verdachte het hem tenlastegelegde feit heeft begaan, dan spreekt het hem vrij. Indien de vrijspraak voortvloeit uit de toepassing van [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Zevende&artikel=413&z=2010-12-15&g=2010-12-15), dan wordt daarvan in het bijzonder reden gegeven.
+1. Acht het Hof niet bewezen dat de verdachte het hem tenlastegelegde feit heeft begaan, dan spreekt het hem vrij. Indien de vrijspraak voortvloeit uit de toepassing van [artikel 413](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Zevende&artikel=413&z=2015-01-01&g=2015-01-01), dan wordt daarvan in het bijzonder reden gegeven.
 
 2. Acht het Hof het feit bewezen, en het feit of de verdachte niet strafbaar, dan ontslaat het hem van alle rechtsvervolging te dier zake. In het geval bedoeld bij artikel 39, eerste lid, van het Wetboek van Strafrecht BES, wordt zonodig de last, bedoeld in het tweede lid van dat artikel, gegeven. In het geval bedoeld in artikel 41 van het Wetboek van Strafrecht BES, wordt zo nodig de maatregel van ter beschikkingstelling van de regering, zonder toepassing van enige straf opgelegd.
 
 ##### Artikel 397
 
-1. In het geval van oplegging van straf of maatregel, van vrijspraak of ontslag van alle rechtsvervolging gelast het Hof, tenzij het verklaart tot het geven van zodanige last niet in staat te zijn, dat inbeslaggenomen, nog niet teruggegeven voorwerpen zullen worden teruggegeven aan een met name genoemde persoon, voor zover zij niet worden verbeurdverklaard of onttrokken aan het verkeer. De beslissing van het Hof laat ieders rechten op het voorwerp onverlet. [Artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2010-12-15&g=2010-12-15) vindt zoveel mogelijk toepassing.
+1. In het geval van oplegging van straf of maatregel, van vrijspraak of ontslag van alle rechtsvervolging gelast het Hof, tenzij het verklaart tot het geven van zodanige last niet in staat te zijn, dat inbeslaggenomen, nog niet teruggegeven voorwerpen zullen worden teruggegeven aan een met name genoemde persoon, voor zover zij niet worden verbeurdverklaard of onttrokken aan het verkeer. De beslissing van het Hof laat ieders rechten op het voorwerp onverlet. [Artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2015-01-01&g=2015-01-01) vindt zoveel mogelijk toepassing.
 
 2. Het Hof kan gelasten dat een voorwerp, waarover een geding bij de burgerlijke rechter aanhangig is, hangende dit geding op een bepaalde wijze zal worden bewaard, op kosten van ongelijk.
 
-3. Op een last, ingevolge het eerste en tweede lid gegeven, is [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+3. Op een last, ingevolge het eerste en tweede lid gegeven, is [artikel 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
-4. Het Hof kan de teruggave van inbeslaggenomen voorwerpen onder zekerheidstelling gelasten. [Artikel 145a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145a&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+4. Het Hof kan de teruggave van inbeslaggenomen voorwerpen onder zekerheidstelling gelasten. [Artikel 145a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145a&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 398
 
@@ -3711,11 +3711,11 @@ Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 401
 
-1. In het geding in eerste aanleg bevat het vonnis, in de gevallen van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15), de daarbij vermelde beslissingen.
+1. In het geding in eerste aanleg bevat het vonnis, in de gevallen van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01), de daarbij vermelde beslissingen.
 
-2. In de andere gevallen bevat het vonnis de beslissing over de punten, bij [artikel 394, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=394&z=2010-12-15&g=2010-12-15), vermeld.
+2. In de andere gevallen bevat het vonnis de beslissing over de punten, bij [artikel 394, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=394&z=2015-01-01&g=2015-01-01), vermeld.
 
-3. Wordt, in strijd met het te dien aanzien door de verdachte uitdrukkelijk voorgedragen verweer, [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15) niet toegepast of aangenomen dat het bewezenverklaarde een bepaald strafbaar feit oplevert of dat een bepaalde strafverminderings- of strafuitsluitingsgrond niet aanwezig is, dan geeft het vonnis daaromtrent bepaaldelijk een beslissing.
+3. Wordt, in strijd met het te dien aanzien door de verdachte uitdrukkelijk voorgedragen verweer, [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01) niet toegepast of aangenomen dat het bewezenverklaarde een bepaald strafbaar feit oplevert of dat een bepaalde strafverminderings- of strafuitsluitingsgrond niet aanwezig is, dan geeft het vonnis daaromtrent bepaaldelijk een beslissing.
 
 4. Het vonnis vermeldt verder, in geval van oplegging van straf of maatregel, de wettelijke voorschriften waarop deze is gegrond.
 
@@ -3725,7 +3725,7 @@ Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. Het vonnis bevat het tenlastegelegde alsmede de inhoud van de bewijsmiddelen, voor zover deze tot bewijs daarvan geldt.
 
-2. De beslissingen vermeld in de [artikelen 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15) en [401, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=401&z=2010-12-15&g=2010-12-15), zijn met redenen omkleed.
+2. De beslissingen vermeld in de [artikelen 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01) en [401, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=401&z=2015-01-01&g=2015-01-01), zijn met redenen omkleed.
 
 3. De beslissing dat het feit door de verdachte is begaan, moet steunen op daartoe redengevende feiten of omstandigheden, als zodanig in het vonnis aangewezen.
 
@@ -3739,7 +3739,7 @@ Indien het onderzoek in [artikel 392](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 403
 
-1. Indien het bewijs mede wordt aangenomen op de verklaring van één getuige als bedoeld bij [artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2010-12-15&g=2010-12-15), of van een getuige, die is verhoord op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2010-12-15&g=2010-12-15), geeft het vonnis daarvan in het bijzonder reden.
+1. Indien het bewijs mede wordt aangenomen op de verklaring van één getuige als bedoeld bij [artikel 250, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=250&z=2015-01-01&g=2015-01-01), of van een getuige, die is verhoord op de voet van het bepaalde in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vijfde&artikel=261&z=2015-01-01&g=2015-01-01), geeft het vonnis daarvan in het bijzonder reden.
 
 2. Indien na schorsing van de vervolging wegens een geschilpunt van burgerlijk recht van de uitspraak van de burgerlijke rechter wordt afgeweken, geeft het vonnis ook daarvan in het bijzonder reden.
 
@@ -3757,7 +3757,7 @@ Heeft de procureur-generaal tevens een vordering ingediend tot het gelasten van 
 
 ##### Artikel 406
 
-1. In het geding in hoger beroep bevat het vonnis van het Hof, in de gevallen van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15), de daarbij vermelde beslissingen.
+1. In het geding in hoger beroep bevat het vonnis van het Hof, in de gevallen van [artikel 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01), de daarbij vermelde beslissingen.
 
 2. In de andere gevallen bevestigt het Hof het vonnis van de rechter in eerste aanleg met gehele of gedeeltelijke overneming, dan wel met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van dat vonnis, wat de rechter in eerste aanleg had behoren te doen.
 
@@ -3781,7 +3781,7 @@ De uitspraak geschiedt zo mogelijk door de voorzitter of door een van de rechter
 
 1. De verdachte die zich ter zake van het ter terechtzitting onderzochte feit in voorlopige hechtenis bevindt, is bij de uitspraak tegenwoordig, tenzij hij daartoe buiten staat is of hij mondeling of schriftelijk te kennen heeft gegeven weg te willen blijven.
 
-2. Is zodanige verdachte tot het bijwonen van de uitspraak buiten staat, dan wordt ten spoedigste het vonnis hem ter plaatse waar hij wordt gevangengehouden, door de griffier voorgelezen, met de kennisgeving in [artikel 409](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=409&z=2010-12-15&g=2010-12-15) voor de voorzitter voorgeschreven. Van een en ander wordt door de griffier op het vonnis melding gemaakt.
+2. Is zodanige verdachte tot het bijwonen van de uitspraak buiten staat, dan wordt ten spoedigste het vonnis hem ter plaatse waar hij wordt gevangengehouden, door de griffier voorgelezen, met de kennisgeving in [artikel 409](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=409&z=2015-01-01&g=2015-01-01) voor de voorzitter voorgeschreven. Van een en ander wordt door de griffier op het vonnis melding gemaakt.
 
 3. Indien de verdachte gevangen wordt gehouden in een ander eilandgebied dan dat waar het rechtsgeding heeft plaatsgevonden, kan de voorlezing bedoeld in het tweede lid geschieden door de griffier in het eilandgebied waar de verdachte wordt gevangengehouden.
 
@@ -3801,7 +3801,7 @@ De uitspraak geschiedt zo mogelijk door de voorzitter of door een van de rechter
 
 ##### Artikel 411
 
-1. Indien de verdachte bij het vonnis bij verstek gewezen, niet van de gehele tenlastelegging is vrijgesproken, wordt een mededeling van de beslissing door het Hof overeenkomstig de [artikelen 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2010-12-15&g=2010-12-15), [395, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=395&z=2010-12-15&g=2010-12-15), of [396, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=396&z=2010-12-15&g=2010-12-15), gegeven, vanwege de procureur-generaal zo spoedig mogelijk aan de verdachte betekend. Deze bepaling geldt niet ten aanzien van de verdachte aan wie voor zover betreft het rechtsgeding bij verstek, de dagvaarding om ter terechtzitting te verschijnen in persoon is betekend. De mededeling vermeldt de rechters die het vonnis hebben gewezen, de dagtekening van het vonnis, de in het vonnis voorkomende rechtskundige benaming van het strafbare feit met vermelding omstreeks welke tijd en waar ter plaatse dat feit begaan zou zijn, en, voor zover in het vonnis vermeld, naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.
+1. Indien de verdachte bij het vonnis bij verstek gewezen, niet van de gehele tenlastelegging is vrijgesproken, wordt een mededeling van de beslissing door het Hof overeenkomstig de [artikelen 393](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=393&z=2015-01-01&g=2015-01-01), [395, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=395&z=2015-01-01&g=2015-01-01), of [396, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=396&z=2015-01-01&g=2015-01-01), gegeven, vanwege de procureur-generaal zo spoedig mogelijk aan de verdachte betekend. Deze bepaling geldt niet ten aanzien van de verdachte aan wie voor zover betreft het rechtsgeding bij verstek, de dagvaarding om ter terechtzitting te verschijnen in persoon is betekend. De mededeling vermeldt de rechters die het vonnis hebben gewezen, de dagtekening van het vonnis, de in het vonnis voorkomende rechtskundige benaming van het strafbare feit met vermelding omstreeks welke tijd en waar ter plaatse dat feit begaan zou zijn, en, voor zover in het vonnis vermeld, naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.
 
 2. De mededeling wordt in alle gevallen waarin de procureur-generaal dit bepaalt, en overigens zoveel mogelijk, aan de verdachte in persoon betekend.
 
@@ -3853,7 +3853,7 @@ De uitspraak geschiedt zo mogelijk door de voorzitter of door een van de rechter
 
 - c. dat het openbaar ministerie niet-ontvankelijk wordt verklaard, indien door toedoen van de normschending er geen sprake kan zijn van een behandeling van de zaak, die aan de eisen van een eerlijk proces voldoet.
 
-6. Indien de rechter van oordeel is, dat er gronden van redelijkheid en billijkheid zijn voor toekenning van schadevergoeding, kan hij daartoe, hetzij ambtshalve, hetzij op de vordering van het openbaar ministerie of op het verzoek van de verdachte of diens raadsman, bij afzonderlijke beschikking besluiten. Deze bevoegdheid komt toe aan de rechter die de zaak ter terechtzitting behandelt, of, als de zaak is geëindigd, voor wie deze het laatst heeft gediend. Schadevergoeding kan zowel naast als in de plaats van de in het vijfde lid genoemde beslissingen worden toegekend. De [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=181&z=2010-12-15&g=2010-12-15) en [182](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=182&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+6. Indien de rechter van oordeel is, dat er gronden van redelijkheid en billijkheid zijn voor toekenning van schadevergoeding, kan hij daartoe, hetzij ambtshalve, hetzij op de vordering van het openbaar ministerie of op het verzoek van de verdachte of diens raadsman, bij afzonderlijke beschikking besluiten. Deze bevoegdheid komt toe aan de rechter die de zaak ter terechtzitting behandelt, of, als de zaak is geëindigd, voor wie deze het laatst heeft gediend. Schadevergoeding kan zowel naast als in de plaats van de in het vijfde lid genoemde beslissingen worden toegekend. De [artikelen 181](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=181&z=2015-01-01&g=2015-01-01) en [182](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=182&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 7. Bij de beoordeling van de normschending en de daaraan te verbinden gevolgen, alsmede bij de afweging van de in het geding zijnde belangen houdt de rechter in het bijzonder rekening met het karakter, het gewicht en de strekking van de norm, de ernst van de normschending, het nadeel dat daardoor werd veroorzaakt, en de mate van verwijtbaarheid van degene die de norm schond.
 
@@ -3889,9 +3889,9 @@ De officier van justitie, hoofd van het parket, kan ten aanzien van het al of ni
 
 1. Bij de oproeping wordt de gewone termijn van dagvaarding in acht genomen.
 
-2. Indien de verdachte overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=74&z=2010-12-15&g=2010-12-15) is aangehouden, kan onverwijld een oproeping worden uitgereikt en kan hij worden opgeroepen om nog op de dag zelf ter terechtzitting van het gerecht in eerste aanleg te verschijnen. Hij kan dan voor de officier van justitie en vervolgens ter terechtzitting worden geleid. [Artikel 428, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=428&z=2010-12-15&g=2010-12-15), blijft in dit geval buiten toepassing.
+2. Indien de verdachte overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=74&z=2015-01-01&g=2015-01-01) is aangehouden, kan onverwijld een oproeping worden uitgereikt en kan hij worden opgeroepen om nog op de dag zelf ter terechtzitting van het gerecht in eerste aanleg te verschijnen. Hij kan dan voor de officier van justitie en vervolgens ter terechtzitting worden geleid. [Artikel 428, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=428&z=2015-01-01&g=2015-01-01), blijft in dit geval buiten toepassing.
 
-3. De oproeping voldoet aan de eisen in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=285&z=2010-12-15&g=2010-12-15), betreffende de dagvaarding gesteld. Evenwel kan met een korte aanduiding van het feit worden volstaan.
+3. De oproeping voldoet aan de eisen in [artikel 285, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=285&z=2015-01-01&g=2015-01-01), betreffende de dagvaarding gesteld. Evenwel kan met een korte aanduiding van het feit worden volstaan.
 
 4. De oproeping wordt door de opsporingsambtenaar, die het feit heeft geconstateerd, gedagtekend en ondertekend.
 
@@ -3923,9 +3923,9 @@ De officier van justitie is bevoegd getuigen, deskundigen en tolken mondeling op
 
 ##### Artikel 422
 
-1. Indien de zaak aanhangig is gemaakt door oproeping, is [artikel 307](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=307&z=2010-12-15&g=2010-12-15) betreffende het verstek van toepassing.
+1. Indien de zaak aanhangig is gemaakt door oproeping, is [artikel 307](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=307&z=2015-01-01&g=2015-01-01) betreffende het verstek van toepassing.
 
-2. Voor de toepassing van de [artikelen 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2010-12-15&g=2010-12-15), [429](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=I&artikel=429&z=2010-12-15&g=2010-12-15) en [437](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&artikel=437&z=2010-12-15&g=2010-12-15) wordt een oproeping, die aan de persoon van de verdachte is uitgereikt, gelijkgesteld met een dagvaarding om ter terechtzitting te verschijnen, die aan de persoon van de verdachte is betekend.
+2. Voor de toepassing van de [artikelen 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2015-01-01&g=2015-01-01), [429](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=I&artikel=429&z=2015-01-01&g=2015-01-01) en [437](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&artikel=437&z=2015-01-01&g=2015-01-01) wordt een oproeping, die aan de persoon van de verdachte is uitgereikt, gelijkgesteld met een dagvaarding om ter terechtzitting te verschijnen, die aan de persoon van de verdachte is betekend.
 
 ##### Artikel 423
 
@@ -3941,7 +3941,7 @@ Indien de verdachte bij zijn eerste verschijning ter terechtzitting aannemelijk 
 
 ##### Artikel 425
 
-1. De rechter geeft na de sluiting van het onderzoek op de terechtzitting hetzij onmiddellijk, hetzij diezelfde dag op een door hem bij de sluiting van het onderzoek te bepalen uur mondeling vonnis. De [artikelen 400](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=400&z=2010-12-15&g=2010-12-15) en [402, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=402&z=2010-12-15&g=2010-12-15), blijven buiten toepassing.
+1. De rechter geeft na de sluiting van het onderzoek op de terechtzitting hetzij onmiddellijk, hetzij diezelfde dag op een door hem bij de sluiting van het onderzoek te bepalen uur mondeling vonnis. De [artikelen 400](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=400&z=2015-01-01&g=2015-01-01) en [402, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=402&z=2015-01-01&g=2015-01-01), blijven buiten toepassing.
 
 2. Het vonnis wordt in het proces-verbaal van de terechtzitting aangetekend.
 
@@ -3951,7 +3951,7 @@ Indien de verdachte bij zijn eerste verschijning ter terechtzitting aannemelijk 
 
 1. De rechter is bevoegd en, op de vordering van de officier van justitie of op het verzoek van de verdachte of zijn raadsman, verplicht schriftelijk vonnis te wijzen.
 
-2. De uitspraak mag alsdan in geen geval later plaatsvinden dan op de eenentwintigste dag na de sluiting van het onderzoek. [Artikel 388, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. De uitspraak mag alsdan in geen geval later plaatsvinden dan op de eenentwintigste dag na de sluiting van het onderzoek. [Artikel 388, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 427
 
@@ -3961,19 +3961,19 @@ Indien de verdachte bij zijn eerste verschijning ter terechtzitting aannemelijk 
 
 ##### Artikel 428
 
-1. Op het rechtsgeding bij het gerecht in eerste aanleg zijn overigens de [Eerste Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&z=2010-12-15&g=2010-12-15) en de [Vierde Titel van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing, behoudens de uitzonderingen, vermeld in het tweede tot en met zesde lid.
+1. Op het rechtsgeding bij het gerecht in eerste aanleg zijn overigens de [Eerste Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&z=2015-01-01&g=2015-01-01) en de [Vierde Titel van dit Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, behoudens de uitzonderingen, vermeld in het tweede tot en met zesde lid.
 
-2. De termijn van dagvaarding is ten minste drie dagen en, indien door de rechter-commissaris overeenkomstig de [Zevende Titel van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&z=2010-12-15&g=2010-12-15) bevelen tot handhaving van de openbare orde zijn gegeven, ten minste twee dagen. De in de vorige volzin bedoelde termijn van twee dagen wordt, zo nodig, zoveel verlengd, dat daarin ten minste een dag voorkomt, die niet een zaterdag, zondag of algemeen erkende feestdag is.
+2. De termijn van dagvaarding is ten minste drie dagen en, indien door de rechter-commissaris overeenkomstig de [Zevende Titel van het Zevende Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&z=2015-01-01&g=2015-01-01) bevelen tot handhaving van de openbare orde zijn gegeven, ten minste twee dagen. De in de vorige volzin bedoelde termijn van twee dagen wordt, zo nodig, zoveel verlengd, dat daarin ten minste een dag voorkomt, die niet een zaterdag, zondag of algemeen erkende feestdag is.
 
 3. De bepalingen met betrekking tot de voordracht van de zaak door de officier van justitie, de voorlopige hechtenis en het bezwaarschrift tegen de dagvaarding, zijn niet van toepassing.
 
-4. In geval van [artikel 333](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=333&z=2010-12-15&g=2010-12-15) wordt geen gerechtelijk vooronderzoek gelast, doch worden de stukken toegezonden aan de officier van justitie.
+4. In geval van [artikel 333](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=333&z=2015-01-01&g=2015-01-01) wordt geen gerechtelijk vooronderzoek gelast, doch worden de stukken toegezonden aan de officier van justitie.
 
-5. Indien tegen de verdachte verstek is verleend, zomede voor zover door de verdachte en door zijn raadsman, zo hij die heeft, verklaard is, dat van bepaaldelijk aangeduide stukken noch de voorlezing noch de mededeling van de korte inhoud wordt gewenst, kan in de plaats van de voorlezing van de tenlastelegging, verklaringen, processen-verbaal, verslagen van deskundigen of andere stukken, vermeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=337&z=2010-12-15&g=2010-12-15), treden een op last van de rechter gedane aantekening in het proces-verbaal van de terechtzitting van de overlegging van die stukken; daarop mag dan ook ten bezware van de verdachte worden acht geslagen.
+5. Indien tegen de verdachte verstek is verleend, zomede voor zover door de verdachte en door zijn raadsman, zo hij die heeft, verklaard is, dat van bepaaldelijk aangeduide stukken noch de voorlezing noch de mededeling van de korte inhoud wordt gewenst, kan in de plaats van de voorlezing van de tenlastelegging, verklaringen, processen-verbaal, verslagen van deskundigen of andere stukken, vermeld in [artikel 337](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=337&z=2015-01-01&g=2015-01-01), treden een op last van de rechter gedane aantekening in het proces-verbaal van de terechtzitting van de overlegging van die stukken; daarop mag dan ook ten bezware van de verdachte worden acht geslagen.
 
-6. In geval van [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2010-12-15&g=2010-12-15) zijn de [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=235&z=2010-12-15&g=2010-12-15), [237, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=237&z=2010-12-15&g=2010-12-15), en [241](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=241&z=2010-12-15&g=2010-12-15) niet van toepassing.
+6. In geval van [artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2015-01-01&g=2015-01-01) zijn de [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&artikel=235&z=2015-01-01&g=2015-01-01), [237, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=237&z=2015-01-01&g=2015-01-01), en [241](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Derde&artikel=241&z=2015-01-01&g=2015-01-01) niet van toepassing.
 
-7. De in [artikel 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2010-12-15&g=2010-12-15) bedoelde mededeling behoeft niet te geschieden, tenzij:
+7. De in [artikel 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2015-01-01&g=2015-01-01) bedoelde mededeling behoeft niet te geschieden, tenzij:
 
 - a. ten aanzien van de verdachte [artikel 17a van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=17a) is toegepast, dan wel,
 
@@ -4001,7 +4001,7 @@ Indien de verdachte bij zijn eerste verschijning ter terechtzitting aannemelijk 
 
 ##### Artikel 430
 
-1. Indien verzet is gedaan, doet de officier van justitie de verdachte de dag voor de behandeling van de zaak bepaald, ten minste zeven dagen voor die dag aanzeggen. Deze termijn kan met toestemming van de verdachte worden verkort, mits van die toestemming blijkt op de wijze bepaald in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2010-12-15&g=2010-12-15).
+1. Indien verzet is gedaan, doet de officier van justitie de verdachte de dag voor de behandeling van de zaak bepaald, ten minste zeven dagen voor die dag aanzeggen. Deze termijn kan met toestemming van de verdachte worden verkort, mits van die toestemming blijkt op de wijze bepaald in [artikel 290, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=290&z=2015-01-01&g=2015-01-01).
 
 2. Bij gebreke van het een of ander wordt door de rechter de aanzegging van een nieuwe rechtsdag bevolen, tenzij de verdachte is verschenen. In dit laatste geval wordt, indien de verdachte in het belang van zijn verdediging uitstel verzoekt, het onderzoek voor een bepaalde tijd geschorst.
 
@@ -4013,11 +4013,11 @@ Heeft de benadeelde partij zich in het geding gevoegd, dan doet de officier van 
 
 1. Indien degene die in verzet is gekomen, niet op de dienende dag ter terechtzitting verschijnt, wordt het verzet vervallen verklaard en het bij verstek gewezen vonnis ten uitvoer gelegd of verder uitgevoerd, behoudens beroep in cassatie van het openbaar ministerie tegen het bij verstek gewezen vonnis.
 
-2. De rechter kan echter, bij niet-verschijning van de verdachte, met toepassing van [artikel 313](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=313&z=2010-12-15&g=2010-12-15), een of meermalen schorsing van het onderzoek bevelen ten einde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Verschijnt de verdachte niet op de nadere terechtzitting, dan is het voorgaande lid van toepassing.
+2. De rechter kan echter, bij niet-verschijning van de verdachte, met toepassing van [artikel 313](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=313&z=2015-01-01&g=2015-01-01), een of meermalen schorsing van het onderzoek bevelen ten einde deze, indien hij verhinderd was het onderzoek bij te wonen, daartoe alsnog in de gelegenheid te stellen. Verschijnt de verdachte niet op de nadere terechtzitting, dan is het voorgaande lid van toepassing.
 
 ##### Artikel 433
 
-1. Indien degene die in verzet is gekomen, op de dienende dag ter terechtzitting verschijnt, wordt de zaak overeenkomstig de [Vierde](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15) en [Vijfde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&z=2010-12-15&g=2010-12-15) behandeld, als ware het rechtsgeding bij verstek niet voorafgegaan. [Artikel 365, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2010-12-15&g=2010-12-15), vindt, zowel ten aanzien van getuigen als van deskundigen, tijdens het rechtsgeding bij verstek verhoord, overeenkomstige toepassing.
+1. Indien degene die in verzet is gekomen, op de dienende dag ter terechtzitting verschijnt, wordt de zaak overeenkomstig de [Vierde](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01) en [Vijfde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&z=2015-01-01&g=2015-01-01) behandeld, als ware het rechtsgeding bij verstek niet voorafgegaan. [Artikel 365, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=356&z=2015-01-01&g=2015-01-01), vindt, zowel ten aanzien van getuigen als van deskundigen, tijdens het rechtsgeding bij verstek verhoord, overeenkomstige toepassing.
 
 2. De rechter bekrachtigt de bij verstek gewezen uitspraak of doet met gehele of gedeeltelijke vernietiging van die uitspraak opnieuw recht.
 
@@ -4097,7 +4097,7 @@ Voor zover niet bijzondere bepalingen het recht van beroep van de officier van j
 
 ##### Artikel 446
 
-Het aanwenden van de rechtsmiddelen, bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2010-12-15&g=2010-12-15), kan ook geschieden door:
+Het aanwenden van de rechtsmiddelen, bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2015-01-01&g=2015-01-01), kan ook geschieden door:
 
 - a. een advocaat, indien deze verklaart daartoe door degene die het middel aanwendt, bepaaldelijk te zijn gemachtigd;
 
@@ -4105,25 +4105,25 @@ Het aanwenden van de rechtsmiddelen, bedoeld in [artikel 445](https://wetten.ove
 
 ##### Artikel 447
 
-1. Van iedere verklaring of indiening, als bedoeld in de [artikelen 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2010-12-15&g=2010-12-15) en [446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15), maakt de griffier een akte op, die hij met degene, die de verklaring aflegt of het bezwaarschrift inlevert, ondertekent. Indien deze niet kan tekenen, wordt de oorzaak van het beletsel in de akte vermeld.
+1. Van iedere verklaring of indiening, als bedoeld in de [artikelen 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2015-01-01&g=2015-01-01) en [446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01), maakt de griffier een akte op, die hij met degene, die de verklaring aflegt of het bezwaarschrift inlevert, ondertekent. Indien deze niet kan tekenen, wordt de oorzaak van het beletsel in de akte vermeld.
 
-2. De schriftelijke volmacht, in [artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) bedoeld, of, zo zij voor een notaris in minuut is verleden, een authentiek afschrift daarvan, wordt aan de akte gehecht.
+2. De schriftelijke volmacht, in [artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) bedoeld, of, zo zij voor een notaris in minuut is verleden, een authentiek afschrift daarvan, wordt aan de akte gehecht.
 
 3. Van elk aangewend rechtsmiddel wordt dadelijk aantekening gedaan in een daartoe bestemd op de griffie berustend register, dat door de belanghebbenden kan worden ingezien.
 
 ##### Artikel 448
 
-1. Is degene die een rechtsmiddel wenst aan te wenden ingesloten in een huis van bewaring, gevangenis, of een andere inrichting dan kan hij de rechtsmiddelen bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2010-12-15&g=2010-12-15) ook aanwenden door middel van een schriftelijke verklaring, die hij doet toekomen aan het hoofd van de inrichting.
+1. Is degene die een rechtsmiddel wenst aan te wenden ingesloten in een huis van bewaring, gevangenis, of een andere inrichting dan kan hij de rechtsmiddelen bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2015-01-01&g=2015-01-01) ook aanwenden door middel van een schriftelijke verklaring, die hij doet toekomen aan het hoofd van de inrichting.
 
 2. Het hoofd van de inrichting doet deze verklaring onverwijld inschrijven in een daarvoor bestemd register en zendt haar vervolgens toe aan de griffie van het gerecht door of bij hetwelk de beslissing is gegeven onder kennisgeving van de datum van inschrijving in het register. Als dag waarop het rechtsmiddel is aangewend, geldt de dag van inschrijving van de verklaring in het register.
 
 3. Onze Minister van Justitie bepaalt het model van het register en kan omtrent het bijhouden daarvan nadere regels geven. Het register kan door de belanghebbenden worden ingezien.
 
-4. De verklaring wordt na ontvangst op de griffie bij de processtukken gevoegd. Van het aanwenden van het rechtsmiddel wordt dadelijk aantekening gedaan in het op de griffie berustend register, bedoeld in [artikel 447, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2010-12-15&g=2010-12-15).
+4. De verklaring wordt na ontvangst op de griffie bij de processtukken gevoegd. Van het aanwenden van het rechtsmiddel wordt dadelijk aantekening gedaan in het op de griffie berustend register, bedoeld in [artikel 447, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 449
 
-1. [Artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) is op de indiening van schrifturen van overeenkomstige toepassing.
+1. [Artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) is op de indiening van schrifturen van overeenkomstige toepassing.
 
 2. De griffier tekent dag en uur van ontvangst onverwijld op ingekomen schrifturen aan.
 
@@ -4143,13 +4143,13 @@ Het aanwenden van de rechtsmiddelen, bedoeld in [artikel 445](https://wetten.ove
 
 2. Afstand van het rechtsmiddel van hoger beroep kan eveneens onmiddellijk na de uitspraak ter terechtzitting worden gedaan, in welk geval van de gedane afstand aantekening geschiedt in het proces-verbaal van de terechtzitting. Afstand kan ook ter terechtzitting in hoger beroep worden gedaan, mits de daartoe strekkende verklaring onmiddellijk na de voordracht van de zaak wordt afgelegd. Ook in dat geval geschiedt aantekening in het proces-verbaal van de terechtzitting.
 
-3. De [artikelen 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) en [447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+3. De [artikelen 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) en [447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 452
 
 1. Voor zover mogelijk geschiedt van de intrekking door de officier van justitie gedaan, onverwijld schriftelijke mededeling aan de verdachte.
 
-2. Indien aan de benadeelde partij overeenkomstig [artikel 431](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=I&artikel=431&z=2010-12-15&g=2010-12-15) kennisgeving is gedaan, wordt haar van elke intrekking van het verzet of beroep vanwege de officier van justitie kennisgegeven.
+2. Indien aan de benadeelde partij overeenkomstig [artikel 431](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=I&artikel=431&z=2015-01-01&g=2015-01-01) kennisgeving is gedaan, wordt haar van elke intrekking van het verzet of beroep vanwege de officier van justitie kennisgegeven.
 
 ## B. Buitengewoon rechtsmiddel
 
@@ -4163,13 +4163,13 @@ Het aanwenden van de rechtsmiddelen, bedoeld in [artikel 445](https://wetten.ove
 
 - b. op grond van enige omstandigheid die bij het onderzoek op de terechtzitting de rechter niet was gebleken en die op zichzelf of in verband met de vroeger geleverde bewijzen met de uitspraak niet bestaanbaar schijnt, zodanig dat ernstig vermoeden ontstaat dat ware zij bekend geweest, het onderzoek van de zaak zou hebben geleid, hetzij tot vrijspraak van de veroordeelde, hetzij tot ontslag van rechtsvervolging op grond dat deze niet strafbaar was, hetzij tot niet-ontvankelijkverklaring van het openbaar ministerie, hetzij tot toepasselijkverklaring van een minder zware strafbepaling.
 
-2. Op gelijke gronden kan herziening worden aangevraagd, indien bij het gewijsde een tenlastegelegd feit als bewezen is aangenomen zonder dat ter zake een veroordeling is gevolgd. Onder veroordeelde wordt in deze titel begrepen hij tegen wie zodanig gewijsde is gegeven; de bepalingen daarvan worden te zijnen aanzien overeenkomstig toegepast, met dien verstande dat [artikel 475](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=475&z=2010-12-15&g=2010-12-15) geen toepassing vindt.
+2. Op gelijke gronden kan herziening worden aangevraagd, indien bij het gewijsde een tenlastegelegd feit als bewezen is aangenomen zonder dat ter zake een veroordeling is gevolgd. Onder veroordeelde wordt in deze titel begrepen hij tegen wie zodanig gewijsde is gegeven; de bepalingen daarvan worden te zijnen aanzien overeenkomstig toegepast, met dien verstande dat [artikel 475](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=475&z=2015-01-01&g=2015-01-01) geen toepassing vindt.
 
 ##### Artikel 454
 
-1. De aanvrage tot herziening wordt bij het Hof van Justitie aangebracht door het indienen van een vordering door de procureur-generaal of door het indienen van een verzoekschrift door een veroordeelde te wiens aanzien het vonnis in kracht van gewijsde is gegaan of door zijn advocaat. De instantie die ingevolge [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2010-12-15&g=2010-12-15), met de toevoeging is belast, kan hem met overeenkomstige toepassing van de artikelen 61, tweede en derde lid, [63, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2010-12-15&g=2010-12-15), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=64&z=2010-12-15&g=2010-12-15), en [65 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2010-12-15&g=2010-12-15), een advocaat toevoegen.
+1. De aanvrage tot herziening wordt bij het Hof van Justitie aangebracht door het indienen van een vordering door de procureur-generaal of door het indienen van een verzoekschrift door een veroordeelde te wiens aanzien het vonnis in kracht van gewijsde is gegaan of door zijn advocaat. De instantie die ingevolge [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2015-01-01&g=2015-01-01), met de toevoeging is belast, kan hem met overeenkomstige toepassing van de artikelen 61, tweede en derde lid, [63, tweede, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2015-01-01&g=2015-01-01), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=64&z=2015-01-01&g=2015-01-01), en [65 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2015-01-01&g=2015-01-01), een advocaat toevoegen.
 
-2. [Artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+2. [Artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 455
 
@@ -4181,15 +4181,15 @@ Indien de aanvrage niet voldoet aan de vereisten bij het voorgaande artikel gest
 
 ##### Artikel 457
 
-1. Indien de aanvrage betreft het geval vermeld in [artikel 453, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=453&z=2010-12-15&g=2010-12-15), vernietigt het Hof, na de aanvrage gegrond te hebben bevonden, bij met redenen omklede beschikking de vonnissen, met verwijzing van de zaken naar de openbare terechtzitting, te houden op een door de voorzitter te bepalen dag ten einde die gelijktijdig opnieuw te onderzoeken en daarin bij een en dezelfde uitspraak recht te doen, zonder dat echter de straf zwaarder mag zijn dan die welke bij de vernietigde vonnissen is opgelegd.
+1. Indien de aanvrage betreft het geval vermeld in [artikel 453, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=453&z=2015-01-01&g=2015-01-01), vernietigt het Hof, na de aanvrage gegrond te hebben bevonden, bij met redenen omklede beschikking de vonnissen, met verwijzing van de zaken naar de openbare terechtzitting, te houden op een door de voorzitter te bepalen dag ten einde die gelijktijdig opnieuw te onderzoeken en daarin bij een en dezelfde uitspraak recht te doen, zonder dat echter de straf zwaarder mag zijn dan die welke bij de vernietigde vonnissen is opgelegd.
 
-2. Indien de veroordeelde krachtens het vernietigde vonnis een vrijheidsstraf ondergaat en het Hof geen vrijheidsstraf oplegt, wordt hij onverwijld in vrijheid gesteld, behoudens het bepaalde bij [artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2010-12-15&g=2010-12-15).
+2. Indien de veroordeelde krachtens het vernietigde vonnis een vrijheidsstraf ondergaat en het Hof geen vrijheidsstraf oplegt, wordt hij onverwijld in vrijheid gesteld, behoudens het bepaalde bij [artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2015-01-01&g=2015-01-01).
 
 3. Indien het Hof de aanvrage niet gegrond acht, wijst het die bij met redenen omklede beschikking af.
 
 ##### Artikel 458
 
-Indien de aanvrage betreft het geval, vermeld in [artikel 453, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=453&z=2010-12-15&g=2010-12-15), beveelt het Hof na zich, zo nodig, door tussenkomst van de procureur-generaal nadere berichten te hebben doen overleggen, de verdere behandeling op de openbare terechtzitting op een daartoe door de voorzitter te bepalen dag.
+Indien de aanvrage betreft het geval, vermeld in [artikel 453, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=453&z=2015-01-01&g=2015-01-01), beveelt het Hof na zich, zo nodig, door tussenkomst van de procureur-generaal nadere berichten te hebben doen overleggen, de verdere behandeling op de openbare terechtzitting op een daartoe door de voorzitter te bepalen dag.
 
 ##### Artikel 459
 
@@ -4205,17 +4205,17 @@ De procureur-generaal doet ten minste tien dagen voor de dag van de terechtzitti
 
 1. Acht het Hof de aanvrage niet gegrond, dan wijst het die bij met redenen omklede uitspraak af.
 
-2. Acht het Hof de aanvrage gegrond, dan beveelt het de opschorting of schorsing van de tenuitvoerlegging van het gewijsde en verwijst het de zaak op de voet van het bepaalde bij [artikel 457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2010-12-15&g=2010-12-15), ten einde hetzij het gewijsde te handhaven, hetzij met vernietiging daarvan de verdachte vrij te spreken of als niet-strafbaar te ontslaan van alle rechtsvervolging, het openbaar ministerie niet-ontvankelijk te verklaren of de verdachte opnieuw te veroordelen met toepassing van de minder zware strafbepaling.
+2. Acht het Hof de aanvrage gegrond, dan beveelt het de opschorting of schorsing van de tenuitvoerlegging van het gewijsde en verwijst het de zaak op de voet van het bepaalde bij [artikel 457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2015-01-01&g=2015-01-01), ten einde hetzij het gewijsde te handhaven, hetzij met vernietiging daarvan de verdachte vrij te spreken of als niet-strafbaar te ontslaan van alle rechtsvervolging, het openbaar ministerie niet-ontvankelijk te verklaren of de verdachte opnieuw te veroordelen met toepassing van de minder zware strafbepaling.
 
-3. Ten aanzien van de veroordeelde die krachtens het gewijsde vrijheidsstraf ondergaat, is het tweede lid van [artikel 457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2010-12-15&g=2010-12-15) toepasselijk.
+3. Ten aanzien van de veroordeelde die krachtens het gewijsde vrijheidsstraf ondergaat, is het tweede lid van [artikel 457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2015-01-01&g=2015-01-01) toepasselijk.
 
 ##### Artikel 462
 
-Acht het Hof alvorens een beslissing te nemen een onderzoek nodig, dan beveelt het dit en draagt dat onderzoek op aan een rechter-commissaris, die in de zaak nog geen onderzoek heeft verricht. [Artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+Acht het Hof alvorens een beslissing te nemen een onderzoek nodig, dan beveelt het dit en draagt dat onderzoek op aan een rechter-commissaris, die in de zaak nog geen onderzoek heeft verricht. [Artikel 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 463
 
-1. Na afloop van het onderzoek doet de rechter-commissaris de stukken toekomen aan het Hof. [Artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=53&z=2010-12-15&g=2010-12-15) is dan van overeenkomstige toepassing.
+1. Na afloop van het onderzoek doet de rechter-commissaris de stukken toekomen aan het Hof. [Artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Vierde&artikel=53&z=2015-01-01&g=2015-01-01) is dan van overeenkomstige toepassing.
 
 2. De voorzitter bepaalt een dag tot voortzetting van de openbare behandeling.
 
@@ -4223,35 +4223,35 @@ Acht het Hof alvorens een beslissing te nemen een onderzoek nodig, dan beveelt h
 
 ##### Artikel 464
 
-1. Acht het Hof de zaak nog niet voldoende onderzocht, dan beveelt het een nader onderzoek, zo nodig met aanwijzing van een andere rechter-commissaris, met inachtneming van [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=462&z=2010-12-15&g=2010-12-15) te benoemen.
+1. Acht het Hof de zaak nog niet voldoende onderzocht, dan beveelt het een nader onderzoek, zo nodig met aanwijzing van een andere rechter-commissaris, met inachtneming van [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=462&z=2015-01-01&g=2015-01-01) te benoemen.
 
-2. [Artikel 463](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=463&z=2010-12-15&g=2010-12-15) is van toepassing.
+2. [Artikel 463](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=463&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 465
 
-1. Bij de verwijzing kan het Hof een bevel tot gevangenhouding tegen de veroordeelde uitvaardigen. Dit bevel is geldig voor onbepaalde termijn, doch kan door het Hof worden geschorst of opgeheven. In geen geval zal deze gevangenhouding langer mogen duren dan de nog niet volbrachte straftijd die bij het gewijsde was opgelegd. De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2010-12-15&g=2010-12-15), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2010-12-15&g=2010-12-15), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2010-12-15&g=2010-12-15), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2010-12-15&g=2010-12-15), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=106&z=2010-12-15&g=2010-12-15), [109 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Achtste&artikel=109&z=2010-12-15&g=2010-12-15) en [440](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&artikel=440&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+1. Bij de verwijzing kan het Hof een bevel tot gevangenhouding tegen de veroordeelde uitvaardigen. Dit bevel is geldig voor onbepaalde termijn, doch kan door het Hof worden geschorst of opgeheven. In geen geval zal deze gevangenhouding langer mogen duren dan de nog niet volbrachte straftijd die bij het gewijsde was opgelegd. De [artikelen 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VII&artikel=90&z=2015-01-01&g=2015-01-01), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Derde&artikel=100&z=2015-01-01&g=2015-01-01), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vierde&artikel=101&z=2015-01-01&g=2015-01-01), [103](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2015-01-01&g=2015-01-01), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Zevende&artikel=106&z=2015-01-01&g=2015-01-01), [109 tot en met 116](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Achtste&artikel=109&z=2015-01-01&g=2015-01-01) en [440](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&artikel=440&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 2. Indien de veroordeelde, tegen wie een bevel tot gevangenhouding als bedoeld in het eerste lid is uitgevaardigd, geen advocaat heeft, wordt deze hem ambtshalve door de voorzitter van het Hof toegevoegd.
 
 ##### Artikel 466
 
-De beslissingen van het Hof, genoemd in de [artikelen 456](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=456&z=2010-12-15&g=2010-12-15), [457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2010-12-15&g=2010-12-15), [461](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2010-12-15&g=2010-12-15) en [465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2010-12-15&g=2010-12-15), worden zodra mogelijk vanwege de procureur-generaal aan de belanghebbende schriftelijk meegedeeld en in afschrift toegezonden aan de ambtenaar belast met de tenuitvoerlegging van het gewijsde waarvan de herziening is gevraagd, of van het vernietigde vonnis.
+De beslissingen van het Hof, genoemd in de [artikelen 456](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=456&z=2015-01-01&g=2015-01-01), [457](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2015-01-01&g=2015-01-01), [461](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2015-01-01&g=2015-01-01) en [465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2015-01-01&g=2015-01-01), worden zodra mogelijk vanwege de procureur-generaal aan de belanghebbende schriftelijk meegedeeld en in afschrift toegezonden aan de ambtenaar belast met de tenuitvoerlegging van het gewijsde waarvan de herziening is gevraagd, of van het vernietigde vonnis.
 
 ##### Artikel 467
 
-Het Hof ingevolge verwijzing op grond van [artikel 457, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2010-12-15&g=2010-12-15), of van artikel [461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2010-12-15&g=2010-12-15), rechtdoende, is, op straffe van nietigheid, samengesteld uit drie leden.
+Het Hof ingevolge verwijzing op grond van [artikel 457, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=457&z=2015-01-01&g=2015-01-01), of van artikel [461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2015-01-01&g=2015-01-01), rechtdoende, is, op straffe van nietigheid, samengesteld uit drie leden.
 
 ##### Artikel 468
 
-1. Het rechtsgeding in de verwezen zaak of zaken wordt bij het Hof gevoerd met overeenkomstige toepassing van de [artikelen 299, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=299&z=2010-12-15&g=2010-12-15), [300](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=300&z=2010-12-15&g=2010-12-15), [301](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=301&z=2010-12-15&g=2010-12-15) en van de bepalingen betreffende de behandeling ter terechtzitting in hoger beroep, met dien verstande dat [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=354&z=2010-12-15&g=2010-12-15) buiten toepassing blijft.
+1. Het rechtsgeding in de verwezen zaak of zaken wordt bij het Hof gevoerd met overeenkomstige toepassing van de [artikelen 299, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=299&z=2015-01-01&g=2015-01-01), [300](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=300&z=2015-01-01&g=2015-01-01), [301](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&artikel=301&z=2015-01-01&g=2015-01-01) en van de bepalingen betreffende de behandeling ter terechtzitting in hoger beroep, met dien verstande dat [artikel 354](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=354&z=2015-01-01&g=2015-01-01) buiten toepassing blijft.
 
-2. In de gevallen voorzien bij de [artikelen 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2010-12-15&g=2010-12-15) en [391](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=391&z=2010-12-15&g=2010-12-15) wordt het onderzoek gevoerd door een daartoe door het Hof aangewezen rechter-commissaris, die nog geen onderzoek in de zaak heeft verricht.
+2. In de gevallen voorzien bij de [artikelen 359](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=359&z=2015-01-01&g=2015-01-01) en [391](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=391&z=2015-01-01&g=2015-01-01) wordt het onderzoek gevoerd door een daartoe door het Hof aangewezen rechter-commissaris, die nog geen onderzoek in de zaak heeft verricht.
 
 ##### Artikel 469
 
-1. Het onderzoek en de beraadslaging, bedoeld in de [artikelen 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2010-12-15&g=2010-12-15) en [394](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=394&z=2010-12-15&g=2010-12-15), geschieden zowel naar aanleiding van het onderzoek op de terechtzitting in herziening als van het onderzoek in vorige terechtzittingen, zoals dat volgens daarvan opgemaakt proces-verbaal heeft plaatsgehad.
+1. Het onderzoek en de beraadslaging, bedoeld in de [artikelen 392](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=392&z=2015-01-01&g=2015-01-01) en [394](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=394&z=2015-01-01&g=2015-01-01), geschieden zowel naar aanleiding van het onderzoek op de terechtzitting in herziening als van het onderzoek in vorige terechtzittingen, zoals dat volgens daarvan opgemaakt proces-verbaal heeft plaatsgehad.
 
-2. Ten aanzien van de bij de verwijzing vernietigde uitspraken doet het Hof opnieuw recht; ten aanzien van de bij de verwijzing niet vernietigde uitspraak handhaaft het Hof deze met gehele of gedeeltelijke overneming, aanvulling of verbetering van de gronden of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, opnieuw recht met inachtneming van [artikel 461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2010-12-15&g=2010-12-15).
+2. Ten aanzien van de bij de verwijzing vernietigde uitspraken doet het Hof opnieuw recht; ten aanzien van de bij de verwijzing niet vernietigde uitspraak handhaaft het Hof deze met gehele of gedeeltelijke overneming, aanvulling of verbetering van de gronden of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, opnieuw recht met inachtneming van [artikel 461, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=461&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 470
 
@@ -4261,7 +4261,7 @@ Het Hof ingevolge verwijzing op grond van [artikel 457, eerste lid](https://wett
 
 3. Indien uit het nieuwe onderzoek blijkt dat de verdachte een ander strafbaar feit heeft gepleegd dan waarvoor hij veroordeeld is en dat strafbare feit hem oorspronkelijk mede was ten laste gelegd zonder dat daarover was beslist, doet het Hof te dier zake uitspraak en kan hem wegens dat feit veroordelen, zonder dat echter de straf zwaarder mag zijn dan welke bij het vernietigde vonnis is opgelegd.
 
-4. Bij de uitspraak wordt bepaald dat de reeds vroeger krachtens de vernietigde uitspraak voor het feit ondergane straf, en de krachtens [artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2010-12-15&g=2010-12-15) ondergane voorlopige hechtenis in mindering zal worden gebracht.
+4. Bij de uitspraak wordt bepaald dat de reeds vroeger krachtens de vernietigde uitspraak voor het feit ondergane straf, en de krachtens [artikel 465](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=B&titeldeel=VI&artikel=465&z=2015-01-01&g=2015-01-01) ondergane voorlopige hechtenis in mindering zal worden gebracht.
 
 ##### Artikel 471
 
@@ -4287,7 +4287,7 @@ Geen rechter die op enigerlei wijze deelgenomen heeft aan het onderzoek of de be
 
 ##### Artikel 475
 
-Indien na de vernietiging van het gewijsde geen straf of maatregel of wel de maatregel, bedoeld bij [artikel 39, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39), wordt opgelegd, wordt, op verzoek van de gewezen veroordeelde of van zijn erfgenamen, ter zake van de ondergane straf een schadevergoeding toegekend. De toekenning heeft plaats op de voet van het bepaalde in de [artikelen 178 tot en met 181](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=178&z=2010-12-15&g=2010-12-15).
+Indien na de vernietiging van het gewijsde geen straf of maatregel of wel de maatregel, bedoeld bij [artikel 39, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=39), wordt opgelegd, wordt, op verzoek van de gewezen veroordeelde of van zijn erfgenamen, ter zake van de ondergane straf een schadevergoeding toegekend. De toekenning heeft plaats op de voet van het bepaalde in de [artikelen 178 tot en met 181](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=178&z=2015-01-01&g=2015-01-01).
 
 ### Boek Zevende. Enige rechtsplegingen van bijzondere aard
 
@@ -4307,9 +4307,9 @@ Niemand kan strafrechtelijk worden vervolgd wegens een feit begaan voordat hij d
 
 ##### Artikel 478
 
-1. In gevallen, waarin uit feiten of omstandigheden een redelijk vermoeden voortvloeit, dat een minderjarige beneden de leeftijd van twaalf jaren een strafbaar feit heeft begaan, zijn uitsluitend de [artikelen 72 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=72&z=2010-12-15&g=2010-12-15), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=V&artikel=80&z=2010-12-15&g=2010-12-15), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VI&artikel=82&z=2010-12-15&g=2010-12-15), [120 tot en met 129](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=120&z=2010-12-15&g=2010-12-15), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2010-12-15&g=2010-12-15), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2010-12-15&g=2010-12-15) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154&z=2010-12-15&g=2010-12-15) van toepassing. De artikelen [141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+1. In gevallen, waarin uit feiten of omstandigheden een redelijk vermoeden voortvloeit, dat een minderjarige beneden de leeftijd van twaalf jaren een strafbaar feit heeft begaan, zijn uitsluitend de [artikelen 72 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=72&z=2015-01-01&g=2015-01-01), [80](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=V&artikel=80&z=2015-01-01&g=2015-01-01), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VI&artikel=82&z=2015-01-01&g=2015-01-01), [120 tot en met 129](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=120&z=2015-01-01&g=2015-01-01), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=145&z=2015-01-01&g=2015-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2015-01-01&g=2015-01-01) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154&z=2015-01-01&g=2015-01-01) van toepassing. De artikelen [141 tot en met 143](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
-2. Het afleggen van een verklaring als bedoeld in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2010-12-15&g=2010-12-15) en het doen van beklag als bedoeld in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15) geschiedt voor de minderjarige, in het eerste lid bedoeld, door zijn wettelijke vertegenwoordiger in burgerlijke zaken.
+2. Het afleggen van een verklaring als bedoeld in [artikel 144](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vijfde&artikel=144&z=2015-01-01&g=2015-01-01) en het doen van beklag als bedoeld in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01) geschiedt voor de minderjarige, in het eerste lid bedoeld, door zijn wettelijke vertegenwoordiger in burgerlijke zaken.
 
 ### Afdeling Tweede. Strafvordering in zaken betreffende personen, die op het tijdstip waarop de vervolging tegen hen is aangevangen, de leeftijd van achttien jaren nog niet hebben bereikt
 
@@ -4323,11 +4323,11 @@ De bepalingen van deze afdeling die op de ouders of voogd betrekking hebben, zij
 
 ##### Artikel 481
 
-Aan de verdachte, die zich in verzekering of voorlopige hechtenis bevindt, of die in het tegen hem ingestelde gerechtelijk vooronderzoek door de rechter-commissaris wordt verhoord, wordt op zijn verzoek een raadsman toegevoegd. De officier van justitie of de hulpofficier van justitie geeft aan de instantie die ingevolge [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2010-12-15&g=2010-12-15), met de toevoeging is belast, onverwijld kennis dat toevoeging moet plaatshebben. Indien hem geen raadsman is toegevoegd of de toevoeging niet tijdig heeft plaatsgehad, komt het beroepsrecht van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=3&artikel=67&z=2010-12-15&g=2010-12-15), ook toe aan de ouders of voogd.
+Aan de verdachte, die zich in verzekering of voorlopige hechtenis bevindt, of die in het tegen hem ingestelde gerechtelijk vooronderzoek door de rechter-commissaris wordt verhoord, wordt op zijn verzoek een raadsman toegevoegd. De officier van justitie of de hulpofficier van justitie geeft aan de instantie die ingevolge [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=61&z=2015-01-01&g=2015-01-01), met de toevoeging is belast, onverwijld kennis dat toevoeging moet plaatshebben. Indien hem geen raadsman is toegevoegd of de toevoeging niet tijdig heeft plaatsgehad, komt het beroepsrecht van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=3&artikel=67&z=2015-01-01&g=2015-01-01), ook toe aan de ouders of voogd.
 
 ##### Artikel 482
 
-Indien de verdachte rechtens zijn vrijheid is ontnomen, is ten aanzien van zijn ouders of voogd [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Vierde&artikel=70&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+Indien de verdachte rechtens zijn vrijheid is ontnomen, is ten aanzien van zijn ouders of voogd [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Vierde&artikel=70&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 483
 
@@ -4363,7 +4363,7 @@ Waar in deze afdeling wordt gesproken van schorsing wordt daaronder begrepen ops
 
 1. Wanneer de officier van justitie voornemens is een van misdrijf verdachte te vervolgen, stelt hij de voogdijraad hiervan zo spoedig mogelijk in kennis. De voogdijraad licht de officier van justitie op diens verzoek in omtrent de persoonlijkheid en de levensomstandigheden van de verdachte. Zodanige inlichtingen kan de voogdijraad ook uit eigen beweging geven.
 
-2. Indien de verdachte zich in voorlopige hechtenis bevindt of ingevolge [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=175&z=2010-12-15&g=2010-12-15) in een inrichting is opgenomen, geeft de officier van justitie hiervan terstond bericht aan de voogdijraad.
+2. Indien de verdachte zich in voorlopige hechtenis bevindt of ingevolge [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XV&artikel=175&z=2015-01-01&g=2015-01-01) in een inrichting is opgenomen, geeft de officier van justitie hiervan terstond bericht aan de voogdijraad.
 
 3. De rechter-commissaris is eveneens bevoegd om bij de voogdijraad de inlichtingen, bedoeld in het eerste lid, in te winnen.
 
@@ -4385,7 +4385,7 @@ Waar in deze afdeling wordt gesproken van schorsing wordt daaronder begrepen ops
 
 1. De rechter kan ambtshalve, op de vordering van het openbaar ministerie of op het verzoek van de raadsman bepalen, dat vragen betreffende de persoonlijkheid of de levensomstandigheden van de verdachte buiten diens tegenwoordigheid zullen worden gesteld en behandeld en dat het openbaar ministerie of de raadsman buiten tegenwoordigheid van de verdachte daarover het woord zal voeren.
 
-2. Het tweede lid van [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=332&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+2. Het tweede lid van [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=332&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 491
 
@@ -4393,15 +4393,15 @@ Indien de rechter het noodzakelijk oordeelt, dat alsnog een onderzoek naar de pe
 
 ##### Artikel 492
 
-De [Eerste Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&z=2010-12-15&g=2010-12-15) en de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing, voor zover in deze titel niet anders wordt bepaald.
+De [Eerste Titel](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&z=2015-01-01&g=2015-01-01) en de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing, voor zover in deze titel niet anders wordt bepaald.
 
 ##### Artikel 493
 
-Indien de zaak door oproeping aanhangig is gemaakt, wordt in de oproeping van de ouders of de voogd het in de oproeping tenlastegelegde feit opgenomen. In het geval bedoeld in de aanhef van [artikel 420](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=420&z=2010-12-15&g=2010-12-15), is dat artikel ten aanzien van de wijze van oproeping van ouders of voogd, en zo nodig van intrekking van deze oproeping van overeenkomstige toepassing.
+Indien de zaak door oproeping aanhangig is gemaakt, wordt in de oproeping van de ouders of de voogd het in de oproeping tenlastegelegde feit opgenomen. In het geval bedoeld in de aanhef van [artikel 420](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=420&z=2015-01-01&g=2015-01-01), is dat artikel ten aanzien van de wijze van oproeping van ouders of voogd, en zo nodig van intrekking van deze oproeping van overeenkomstige toepassing.
 
 ##### Artikel 494
 
-1. Indien de verdachte, die op het tijdstip waarop de vervolging tegen hem is aangevangen, de leeftijd van zestien jaren nog niet heeft bereikt en een raadsman heeft, komen alle bevoegdheden hem in dit wetboek, met uitzondering van de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15), toegekend, eveneens toe aan zijn raadsman.
+1. Indien de verdachte, die op het tijdstip waarop de vervolging tegen hem is aangevangen, de leeftijd van zestien jaren nog niet heeft bereikt en een raadsman heeft, komen alle bevoegdheden hem in dit wetboek, met uitzondering van de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01), toegekend, eveneens toe aan zijn raadsman.
 
 2. Tegen het instellen, intrekken of afstand doen door de raadsman van enig rechtsmiddel kan, in het geval van het eerste lid, de verdachte of diens wettelijke vertegenwoordiger binnen drie dagen nadat de termijn voor het instellen daarvan is verstreken, een bezwaarschrift indienen bij de rechter in eerste aanleg of de voorzitter van het college, waarvoor de zaak wordt vervolgd of het laatst is vervolgd. De rechter in eerste aanleg of de voorzitter beslist ten spoedigste; de verdachte, diens wettelijke vertegenwoordiger alsmede de raadsman worden gehoord, althans, op de wijze door de rechter in eerste aanleg of de voorzitter te bepalen, opgeroepen. Indien het bezwaarschrift gegrond wordt bevonden, loopt de termijn voor het instellen of intrekken van het rechtsmiddel alsnog gedurende drie dagen.
 
@@ -4429,7 +4429,7 @@ Indien de zaak door oproeping aanhangig is gemaakt, wordt in de oproeping van de
 
 1. Voor zover niet anders is bepaald, worden alle dagvaardingen, oproepingen, kennisgevingen, aanzeggingen of andere schriftelijke mededelingen aan de minderjarige verdachte tevens ter kennis gebracht van zijn ouders of voogd, alsmede van zijn raadsman.
 
-2. De bepaling van het eerste lid geldt niet ten aanzien van de raadsman in zaken die overtredingen betreffen, ook niet in hoger beroep van zodanige zaken, en evenmin ten aanzien van ouders of voogd in geval van oproeping overeenkomstig [artikel 416](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=416&z=2010-12-15&g=2010-12-15).
+2. De bepaling van het eerste lid geldt niet ten aanzien van de raadsman in zaken die overtredingen betreffen, ook niet in hoger beroep van zodanige zaken, en evenmin ten aanzien van ouders of voogd in geval van oproeping overeenkomstig [artikel 416](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=416&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 498
 
@@ -4449,21 +4449,21 @@ Alle betekeningen, dagvaardingen, oproepingen, kennisgevingen, aanzeggingen of a
 
 1. De rechter kan, alvorens te beslissen, de rechtercommissaris, zolang deze met het gerechtelijk vooronderzoek is belast, of het openbaar ministerie opdragen een nader onderzoek in te stellen en aan de rechter daaromtrent verslag te doen.
 
-2. De beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2010-12-15&g=2010-12-15) bedoeld, is niet aan enig rechtsmiddel onderworpen, doch kan door de rechter te allen tijde worden herroepen; ten aanzien van de beslissing tot herroeping vinden de artikelen 499 en [502](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=502&z=2010-12-15&g=2010-12-15) overeenkomstige toepassing en al hetgeen bij of ingevolge eerstgenoemde beslissing tot de herroeping toe is verricht, blijft niettemin van kracht.
+2. De beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2015-01-01&g=2015-01-01) bedoeld, is niet aan enig rechtsmiddel onderworpen, doch kan door de rechter te allen tijde worden herroepen; ten aanzien van de beslissing tot herroeping vinden de artikelen 499 en [502](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=502&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing en al hetgeen bij of ingevolge eerstgenoemde beslissing tot de herroeping toe is verricht, blijft niettemin van kracht.
 
 ##### Artikel 501
 
-Ten spoedigste na de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2010-12-15&g=2010-12-15) bedoeld, voegt de rechter in eerste aanleg of, indien de beslissing door het Hof is gegeven, de voorzitter de verdachte van misdrijf, indien hij nog geen toegevoegde raadsman heeft, een raadsman toe. Aan de verdachte van overtreding kan door de rechter in eerste aanleg of de voorzitter een raadsman worden toegevoegd.
+Ten spoedigste na de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2015-01-01&g=2015-01-01) bedoeld, voegt de rechter in eerste aanleg of, indien de beslissing door het Hof is gegeven, de voorzitter de verdachte van misdrijf, indien hij nog geen toegevoegde raadsman heeft, een raadsman toe. Aan de verdachte van overtreding kan door de rechter in eerste aanleg of de voorzitter een raadsman worden toegevoegd.
 
 ##### Artikel 502
 
-1. Van het ogenblik af van de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2010-12-15&g=2010-12-15) bedoeld, en, behoudens herroeping, totdat de zaak door een in kracht van gewijsde gegaan vonnis is beëindigd, vinden de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V&artikel=31&z=2010-12-15&g=2010-12-15), [482](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=482&z=2010-12-15&g=2010-12-15), [484, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=484&z=2010-12-15&g=2010-12-15), [489](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=489&z=2010-12-15&g=2010-12-15), [490](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=490&z=2010-12-15&g=2010-12-15), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=497&z=2010-12-15&g=2010-12-15) en [498](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=498&z=2010-12-15&g=2010-12-15), voor zover zij niet reeds rechtstreeks van toepassing zijn, overeenkomstige toepassing, met dien verstande dat de bepalingen aangaande ouders of voogd slechts overeenkomstig worden toegepast, indien de verdachte een curator heeft, en in dit geval in dier voege dat zij uitsluitend deze betreffen. Tijdens het gerechtelijk vooronderzoek vindt artikel 489 tevens overeenkomstige toepassing ten aanzien van het verhoor van de verdachte door de rechter-commissaris.
+1. Van het ogenblik af van de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2015-01-01&g=2015-01-01) bedoeld, en, behoudens herroeping, totdat de zaak door een in kracht van gewijsde gegaan vonnis is beëindigd, vinden de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=V&artikel=31&z=2015-01-01&g=2015-01-01), [482](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=482&z=2015-01-01&g=2015-01-01), [484, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=484&z=2015-01-01&g=2015-01-01), [489](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=489&z=2015-01-01&g=2015-01-01), [490](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=490&z=2015-01-01&g=2015-01-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=497&z=2015-01-01&g=2015-01-01) en [498](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=498&z=2015-01-01&g=2015-01-01), voor zover zij niet reeds rechtstreeks van toepassing zijn, overeenkomstige toepassing, met dien verstande dat de bepalingen aangaande ouders of voogd slechts overeenkomstig worden toegepast, indien de verdachte een curator heeft, en in dit geval in dier voege dat zij uitsluitend deze betreffen. Tijdens het gerechtelijk vooronderzoek vindt artikel 489 tevens overeenkomstige toepassing ten aanzien van het verhoor van de verdachte door de rechter-commissaris.
 
 2. De verdachte is verplicht in persoon ter terechtzitting te verschijnen. Bij de dagvaarding wordt hem kennis gegeven dat, indien hij niet aan deze verplichting voldoet, de rechter zijn medebrenging kan gelasten. Bij niet-verschijning in persoon, kan de rechter in eerste aanleg of het Hof, hetzij ambtshalve, hetzij op de vordering van het openbaar ministerie of op het verzoek van de raadsman, indien de rechter of het Hof van oordeel is, dat de persoonlijke verschijning van de verdachte noch noodzakelijk noch gewenst is en de raadsman is verschenen en zich daartegen niet verzet, het geven van het bevel tot medebrenging achterwege laten. In zodanig geval wordt verstek verleend en het onderzoek van de zaak voortgezet; de raadsman blijft met de verdediging belast.
 
 3. Het rechtsgeding wordt niet in het openbaar behandeld. De rechter kan tot bijwoning van deze niet-openbare terechtzitting bijzondere toegang verlenen.
 
-4. De bevoegdheden, bij dit wetboek aan de verdachte toegekend, komen na de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2010-12-15&g=2010-12-15) bedoeld, steeds mede toe aan de raadsman.
+4. De bevoegdheden, bij dit wetboek aan de verdachte toegekend, komen na de beslissing, bij het eerste lid van [artikel 499](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=III&artikel=499&z=2015-01-01&g=2015-01-01) bedoeld, steeds mede toe aan de raadsman.
 
 ##### Artikel 503
 
@@ -4475,13 +4475,13 @@ Ten spoedigste na de beslissing, bij het eerste lid van [artikel 499](https://we
 
 ##### Artikel 503a
 
-1. Een vordering van het openbaar ministerie als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) wordt zo spoedig mogelijk doch uiterlijk twee jaren na de uitspraak van het gerecht in eerste aanleg aanhangig gemaakt. Indien het strafrechtelijk financieel onderzoek overeenkomstig het bepaalde in [artikel 177g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177g&z=2010-12-15&g=2010-12-15), is gesloten en heropend, wordt de periode van twee jaren verlengd met de tijd verlopen tussen deze sluiting en heropening.
+1. Een vordering van het openbaar ministerie als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) wordt zo spoedig mogelijk doch uiterlijk twee jaren na de uitspraak van het gerecht in eerste aanleg aanhangig gemaakt. Indien het strafrechtelijk financieel onderzoek overeenkomstig het bepaalde in [artikel 177g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177g&z=2015-01-01&g=2015-01-01), is gesloten en heropend, wordt de periode van twee jaren verlengd met de tijd verlopen tussen deze sluiting en heropening.
 
-2. De officier van justitie doet bij zijn vordering de stukken waarop zij berust aan het gerecht toekomen. [Artikel 284, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. De officier van justitie doet bij zijn vordering de stukken waarop zij berust aan het gerecht toekomen. [Artikel 284, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=184&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 3. De vordering wordt aan degene op wie zij betrekking heeft betekend, onder mededeling van het recht op kennisneming van de stukken. Indien ook een strafrechtelijk financieel onderzoek is ingesteld wordt de vordering gelijktijdig met de sluiting van het strafrechtelijk financieel onderzoek aan degene tegen wie het is gericht betekend.
 
-4. De vordering behelst mede oproeping om op het daarin vermelde tijdstip ter terechtzitting te verschijnen. De [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2010-12-15&g=2010-12-15), [289 tot en met 292](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+4. De vordering behelst mede oproeping om op het daarin vermelde tijdstip ter terechtzitting te verschijnen. De [artikelen 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2015-01-01&g=2015-01-01), [289 tot en met 292](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 503b
 
@@ -4489,23 +4489,23 @@ De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is 
 
 ##### Artikel 503c
 
-1. Op de behandeling van de vordering van de officier van justitie is de [Tweede Afdeling van Titel IV van het vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing. De behandeling van de vordering ter terechtzitting kan worden voorafgegaan door een schriftelijke voorbereiding op de wijze als door het gerecht te bepalen.
+1. Op de behandeling van de vordering van de officier van justitie is de [Tweede Afdeling van Titel IV van het vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing. De behandeling van de vordering ter terechtzitting kan worden voorafgegaan door een schriftelijke voorbereiding op de wijze als door het gerecht te bepalen.
 
 2. Indien enig nader strafrechtelijk financieel onderzoek noodzakelijk blijkt, stelt het gerecht met schorsing der zaak onder aanduiding van het onderwerp van onderzoek en zo nodig de wijze waarop dit zal zijn in te stellen, de stukken in handen van de officier van justitie.
 
-3. Het onderzoek geldt als een met rechterlijke machtiging ingestelde strafrechtelijk financieel onderzoek dat wordt gevoerd overeenkomstig de bepalingen van [Titel XVI van het derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2010-12-15&g=2010-12-15), met uitzondering van [artikel 177g, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177g&z=2010-12-15&g=2010-12-15).
+3. Het onderzoek geldt als een met rechterlijke machtiging ingestelde strafrechtelijk financieel onderzoek dat wordt gevoerd overeenkomstig de bepalingen van [Titel XVI van het derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2015-01-01&g=2015-01-01), met uitzondering van [artikel 177g, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&artikel=177g&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 503d
 
-1. Op de beraadslaging en de uitspraak zijn de bepalingen van de [vijfde afdeling van Titel IV van het vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing, met dien verstande dat:
+1. Op de beraadslaging en de uitspraak zijn de bepalingen van de [vijfde afdeling van Titel IV van het vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
 - a. het gerecht naar aanleiding van de vordering en van het onderzoek ter terechtzitting beraadslaagt over de vraag of de in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) bedoelde maatregel moet worden opgelegd en zo ja, op welk bedrag de omvang van het wederrechtelijk verkregen voordeel is te schatten; en
 
-- b. het gerecht niet gebonden is aan het voorschrift van [artikel 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2010-12-15&g=2010-12-15) betreffende de termijn waarbinnen uitspraak moet worden gedaan.
+- b. het gerecht niet gebonden is aan het voorschrift van [artikel 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2015-01-01&g=2015-01-01) betreffende de termijn waarbinnen uitspraak moet worden gedaan.
 
 2. Indien de dag der uitspraak niet ter terechtzitting aan degene op wie de vordering betrekking heeft is medegedeeld, wordt hem daarvan, zodra die dag is bepaald, een kennisgeving betekend.
 
-3. Het gerecht kan, ingeval onder de beraadslaging blijkt dat het onderzoek ter terechtzitting niet volledig is geweest, overeenkomstig [artikel 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2010-12-15&g=2010-12-15), een onderzoek door de officier van justitie doen plaatsvinden. In dit geval wordt gehandeld als ware het onderzoek voor onbepaalde tijd geschorst.
+3. Het gerecht kan, ingeval onder de beraadslaging blijkt dat het onderzoek ter terechtzitting niet volledig is geweest, overeenkomstig [artikel 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2015-01-01&g=2015-01-01), een onderzoek door de officier van justitie doen plaatsvinden. In dit geval wordt gehandeld als ware het onderzoek voor onbepaalde tijd geschorst.
 
 ##### Artikel 503e
 
@@ -4515,15 +4515,15 @@ Het gerecht kan de schatting van het op geld waardeerbare voordeel als bedoeld i
 
 1. Tegen de uitspraak van het gerecht kan hoger beroep worden ingesteld.
 
-2. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&z=2010-12-15&g=2010-12-15) en [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15) (met uitzondering van de [Eerste Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Eerste&z=2010-12-15&g=2010-12-15)) van het vijfde Boek en [Titel II van het zesde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing, met dien verstande dat:
+2. [Titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=III&z=2015-01-01&g=2015-01-01) en [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01) (met uitzondering van de [Eerste Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Eerste&z=2015-01-01&g=2015-01-01)) van het vijfde Boek en [Titel II van het zesde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=II&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing, met dien verstande dat:
 
 - a. de zaak in hoger beroep aanhangig wordt gemaakt door een oproeping van de procureur-generaal aan de verdachte of de veroordeelde betekend;
 
 - b. de behandeling van de vordering waarvan beroep is ingesteld voorafgegaan kan worden door een schriftelijke voorbereiding op de wijze, door het Hof te bepalen;
 
-- c. de [artikelen 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2010-12-15&g=2010-12-15), en [503d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2010-12-15&g=2010-12-15), van overeenkomstige toepassing zijn. In deze gevallen wordt het financieel onderzoek gevoerd door de officier van justitie bij het gerecht dat in eerste aanleg uitspraak heeft gedaan. Na afloop van het bevolen onderzoek zendt de officier van justitie de stukken toe aan de procureur-generaal;
+- c. de [artikelen 503c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503c&z=2015-01-01&g=2015-01-01), en [503d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing zijn. In deze gevallen wordt het financieel onderzoek gevoerd door de officier van justitie bij het gerecht dat in eerste aanleg uitspraak heeft gedaan. Na afloop van het bevolen onderzoek zendt de officier van justitie de stukken toe aan de procureur-generaal;
 
-- d. [artikel 503d, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2010-12-15&g=2010-12-15), van overeenkomstige toepassing is.
+- d. [artikel 503d, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503d&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing is.
 
 ##### Artikel 503g
 
@@ -4541,7 +4541,7 @@ Een rechter wordt op zijn verlangen van elke bemoeiing in een zaak verschoond, i
 
 2. Een nieuwe verschoning kan door dezelfde rechter slechts worden voorgedragen om redenen die na de eerste voordracht zijn ontstaan of bekend geworden.
 
-3. Tijdens het onderzoek ter terechtzitting kan een verschoning niet meer worden voorgedragen na de voordracht van de zaak door het openbaar ministerie, bedoeld bij [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), tenzij om redenen die eerst in de loop van dat onderzoek zijn ontstaan of bekend geworden.
+3. Tijdens het onderzoek ter terechtzitting kan een verschoning niet meer worden voorgedragen na de voordracht van de zaak door het openbaar ministerie, bedoeld bij [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), tenzij om redenen die eerst in de loop van dat onderzoek zijn ontstaan of bekend geworden.
 
 ##### Artikel 506
 
@@ -4569,7 +4569,7 @@ Ingeval er ten aanzien van een rechter feiten of omstandigheden bestaan, waardoo
 
 3. Een nieuwe wraking kan ten aanzien van dezelfde rechter slechts worden voorgedragen om redenen die na de eerste voordracht zijn ontstaan of bekend geworden.
 
-4. Tijdens het onderzoek op de terechtzitting kan een wraking niet meer worden voorgedragen na de voordracht van de zaak door het openbaar ministerie, bedoeld bij [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2010-12-15&g=2010-12-15), tenzij om redenen die eerst in de loop van dat onderzoek zijn ontstaan of bekend geworden.
+4. Tijdens het onderzoek op de terechtzitting kan een wraking niet meer worden voorgedragen na de voordracht van de zaak door het openbaar ministerie, bedoeld bij [artikel 318](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&artikel=318&z=2015-01-01&g=2015-01-01), tenzij om redenen die eerst in de loop van dat onderzoek zijn ontstaan of bekend geworden.
 
 5. Wordt de wraking op de terechtzitting voorgedragen,dan kan de rechter, ingeval van klaarblijkelijk misbruik, bepalen dat volgende voordrachten tot wraking niet ontvankelijk zullen zijn.
 
@@ -4643,13 +4643,13 @@ Onder rechters worden in deze titel begrepen de leden en plaatsvervangende leden
 
 ##### Artikel 519
 
-Heeft de uitreiking niet overeenkomstig [artikel 517, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2010-12-15&g=2010-12-15), of [artikel 518, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=518&z=2010-12-15&g=2010-12-15), kunnen plaatsvinden, dan wordt het schrijven teruggezonden aan de autoriteit van welke het is uitgegaan en vervolgens uitgereikt aan de griffier van het gerecht in eerste aanleg in het rechtsgebied waar de zaak zal dienen of laatstelijk heeft gediend. De griffier zendt het schrijven alsdan onverwijld als gewone brief over de post aan het in het schrijven vermelde adres en tekent zulks aan op de akte van uitreiking.
+Heeft de uitreiking niet overeenkomstig [artikel 517, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2015-01-01&g=2015-01-01), of [artikel 518, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=518&z=2015-01-01&g=2015-01-01), kunnen plaatsvinden, dan wordt het schrijven teruggezonden aan de autoriteit van welke het is uitgegaan en vervolgens uitgereikt aan de griffier van het gerecht in eerste aanleg in het rechtsgebied waar de zaak zal dienen of laatstelijk heeft gediend. De griffier zendt het schrijven alsdan onverwijld als gewone brief over de post aan het in het schrijven vermelde adres en tekent zulks aan op de akte van uitreiking.
 
 ##### Artikel 520
 
-1. Op de kennisgeving van gerechtelijke mededelingen aan een rechtspersoon, maatschap of vennootschap zonder rechtspersoonlijkheid of een doelvermogen zijn de [artikelen 642](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=642&z=2010-12-15&g=2010-12-15), [643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2010-12-15&g=2010-12-15), [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2010-12-15&g=2010-12-15) en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+1. Op de kennisgeving van gerechtelijke mededelingen aan een rechtspersoon, maatschap of vennootschap zonder rechtspersoonlijkheid of een doelvermogen zijn de [artikelen 642](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=642&z=2015-01-01&g=2015-01-01), [643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2015-01-01&g=2015-01-01), [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2015-01-01&g=2015-01-01) en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
-2. De betekening is nietig, indien de uitreiking niet heeft plaatsgehad overeenkomstig het bepaalde in de [artikelen 517, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2010-12-15&g=2010-12-15), [518, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=518&z=2010-12-15&g=2010-12-15), [519](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=519&z=2010-12-15&g=2010-12-15), [643, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2010-12-15&g=2010-12-15), en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2010-12-15&g=2010-12-15). [Artikel 647, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=647&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+2. De betekening is nietig, indien de uitreiking niet heeft plaatsgehad overeenkomstig het bepaalde in de [artikelen 517, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2015-01-01&g=2015-01-01), [518, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=518&z=2015-01-01&g=2015-01-01), [519](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=519&z=2015-01-01&g=2015-01-01), [643, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2015-01-01&g=2015-01-01), en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2015-01-01&g=2015-01-01). [Artikel 647, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=647&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ## Titel VI. Strafvordering buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba
 
@@ -4665,7 +4665,7 @@ Heeft de uitreiking niet overeenkomstig [artikel 517, tweede of derde lid](https
 
 ##### Artikel 522
 
-1. Anderen dan opsporingsambtenaren oefenen de bevoegdheden, in [artikel 521](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=521&z=2010-12-15&g=2010-12-15) of in de tweede afdeling van deze titel toegekend, niet uit dan op aanwijzing van de officier van justitie, tenzij zodanige aanwijzingen niet kunnen worden afgewacht.
+1. Anderen dan opsporingsambtenaren oefenen de bevoegdheden, in [artikel 521](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=521&z=2015-01-01&g=2015-01-01) of in de tweede afdeling van deze titel toegekend, niet uit dan op aanwijzing van de officier van justitie, tenzij zodanige aanwijzingen niet kunnen worden afgewacht.
 
 2. Ieder die een bevoegdheid als bedoeld in het eerste lid heeft uitgeoefend, stelt de officier van justitie onverwijld en op de snelst mogelijke wijze in kennis van:
 
@@ -4691,7 +4691,7 @@ Bij algemene maatregel van bestuur kunnen alle of bepaalde commandanten worden b
 
 ##### Artikel 525
 
-1. De commandant kan een verrichting, waartoe hij op grond van een van de bepalingen van deze titel als zodanig dan wel na aanwijzing op grond van [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=524&z=2010-12-15&g=2010-12-15) als opsporingsambtenaar bevoegd is, opdragen aan een onder zijn bevelen staande officier.
+1. De commandant kan een verrichting, waartoe hij op grond van een van de bepalingen van deze titel als zodanig dan wel na aanwijzing op grond van [artikel 524](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=524&z=2015-01-01&g=2015-01-01) als opsporingsambtenaar bevoegd is, opdragen aan een onder zijn bevelen staande officier.
 
 2. De schipper kan een verrichting, waartoe hij op grond van een van de bepalingen van deze titel bevoegd is, opdragen aan een onder zijn bevelen staande scheepsofficier.
 
@@ -4699,9 +4699,9 @@ Bij algemene maatregel van bestuur kunnen alle of bepaalde commandanten worden b
 
 ##### Artikel 526
 
-1. De commandant, de schipper of de gezagvoerder van een luchtvaartuig maakt, indien hij een van de bevoegdheden, in de [artikelen 521](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=521&z=2010-12-15&g=2010-12-15) of [523](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=523&z=2010-12-15&g=2010-12-15) of in de tweede afdeling van deze titel toegekend, uitoefent, persoonlijk ten spoedigste proces-verbaal op van zijn verrichtingen en bevindingen.
+1. De commandant, de schipper of de gezagvoerder van een luchtvaartuig maakt, indien hij een van de bevoegdheden, in de [artikelen 521](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=521&z=2015-01-01&g=2015-01-01) of [523](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=523&z=2015-01-01&g=2015-01-01) of in de tweede afdeling van deze titel toegekend, uitoefent, persoonlijk ten spoedigste proces-verbaal op van zijn verrichtingen en bevindingen.
 
-2. De officier, de scheepsofficier of het lid van de bemanning van een luchtvaartuig handelt in geval van toepassing van [artikel 525](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=525&z=2010-12-15&g=2010-12-15) overeenkomstig het eerste lid.
+2. De officier, de scheepsofficier of het lid van de bemanning van een luchtvaartuig handelt in geval van toepassing van [artikel 525](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=525&z=2015-01-01&g=2015-01-01) overeenkomstig het eerste lid.
 
 3. Wanneer de schipper of een scheepsofficier dan wel de gezagvoerder van een luchtvaartuig of een lid van de bemanning de verdachte of getuigen verhoort, zijn daarbij zo mogelijk twee opvarenden of inzittenden aanwezig, die het proces-verbaal van verhoor mede ondertekenen.
 
@@ -4715,7 +4715,7 @@ Bij algemene maatregel van bestuur kunnen alle of bepaalde commandanten worden b
 
 ##### Artikel 527
 
-De bevoegdheid, omschreven in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=72&z=2010-12-15&g=2010-12-15), komt mede toe aan de commandant, de schipper en de gezagvoerder van een luchtvaartuig.
+De bevoegdheid, omschreven in [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=II&artikel=72&z=2015-01-01&g=2015-01-01), komt mede toe aan de commandant, de schipper en de gezagvoerder van een luchtvaartuig.
 
 ##### Artikel 528
 
@@ -4749,7 +4749,7 @@ Een aangehouden verdachte wordt onverwijld overgeleverd:
 
 3. Degene die bevoegd is tot verhoor van de verdachte is ook bevoegd hem naar een plaats van verhoor te geleiden.
 
-4. In geval van verhoor door de schipper of een scheepsofficier dan wel door de gezagvoerder van een luchtvaartuig of een lid van de bemanning, is [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Derde&artikel=50&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+4. In geval van verhoor door de schipper of een scheepsofficier dan wel door de gezagvoerder van een luchtvaartuig of een lid van de bemanning, is [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Derde&artikel=50&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 531
 
@@ -4765,17 +4765,17 @@ Een aangehouden verdachte wordt onverwijld overgeleverd:
 
 ##### Artikel 532
 
-1. Zodra de officier van justitie een besluit als bedoeld in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2010-12-15&g=2010-12-15), heeft genomen, stelt hij een vordering tot bewaring in bij de rechter-commissaris.
+1. Zodra de officier van justitie een besluit als bedoeld in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2015-01-01&g=2015-01-01), heeft genomen, stelt hij een vordering tot bewaring in bij de rechter-commissaris.
 
-2. Zodra de officier van justitie verneemt dat een opsporingsambtenaar, een commandant, een schipper of een gezagvoerder van een luchtvaartuig een besluit als bedoeld in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2010-12-15&g=2010-12-15), heeft genomen, stelt hij een vordering tot bewaring in bij de rechter-commissaris of gelast hij de onmiddellijke invrijheidstelling van de verdachte.
+2. Zodra de officier van justitie verneemt dat een opsporingsambtenaar, een commandant, een schipper of een gezagvoerder van een luchtvaartuig een besluit als bedoeld in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2015-01-01&g=2015-01-01), heeft genomen, stelt hij een vordering tot bewaring in bij de rechter-commissaris of gelast hij de onmiddellijke invrijheidstelling van de verdachte.
 
-3. Heeft het in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2010-12-15&g=2010-12-15), bedoelde besluit betrekking op een verdachte die aan boord van een luchtvaartuig is aangehouden, dan gelden de volgende bepalingen:
+3. Heeft het in [artikel 531, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2015-01-01&g=2015-01-01), bedoelde besluit betrekking op een verdachte die aan boord van een luchtvaartuig is aangehouden, dan gelden de volgende bepalingen:
 
 - a. in het geval, bedoeld in het eerste lid, stelt de officier van justitie een vordering tot bewaring bij de rechter-commissaris in of beveelt hij de gezagvoerder, indien deze bevoegd is de verdachte over te dragen aan de autoriteiten van de staat waar het luchtvaartuig zal landen, van deze bevoegdheid gebruik te maken;
 
 - b. in het geval, bedoeld in het tweede lid, neemt hij een van de in onderdeel a genoemde maatregelen of gelast hij de onmiddellijke invrijheidstelling van de verdachte.
 
-4. De verdachte kan zich bij het horen, bedoeld in de [artikelen 92, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Eerste&artikel=92&z=2010-12-15&g=2010-12-15), en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=97&z=2010-12-15&g=2010-12-15), doen vertegenwoordigen door een raadsman.
+4. De verdachte kan zich bij het horen, bedoeld in de [artikelen 92, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Eerste&artikel=92&z=2015-01-01&g=2015-01-01), en [97](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Tweede&artikel=97&z=2015-01-01&g=2015-01-01), doen vertegenwoordigen door een raadsman.
 
 5. Indien de vordering tot bewaring wordt afgewezen, gelast de officier van justitie de onmiddellijke invrijheidstelling van de verdachte. Hij gelast die invrijheidstelling tevens, zodra geen titel tot vrijheidsontneming meer aanwezig is of de grond tot vrijheidsontneming is vervallen.
 
@@ -4783,7 +4783,7 @@ Een aangehouden verdachte wordt onverwijld overgeleverd:
 
 ##### Artikel 533
 
-1. De verdachte op wie [artikel 531, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2010-12-15&g=2010-12-15), onderdeel a, van toepassing is, wordt zo spoedig mogelijk overgeleverd aan de officier van justitie; de verdachte op wie artikel 531, tweede lid, onderdeel b, van toepassing is, kan worden overgeleverd aan de officier van justitie, ingeval het niet doenlijk is hem elders op te houden, totdat een bevel tot voorlopige hechtenis tegen hem is verleend en de tenuitvoerlegging, ook buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, is gelast.
+1. De verdachte op wie [artikel 531, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=531&z=2015-01-01&g=2015-01-01), onderdeel a, van toepassing is, wordt zo spoedig mogelijk overgeleverd aan de officier van justitie; de verdachte op wie artikel 531, tweede lid, onderdeel b, van toepassing is, kan worden overgeleverd aan de officier van justitie, ingeval het niet doenlijk is hem elders op te houden, totdat een bevel tot voorlopige hechtenis tegen hem is verleend en de tenuitvoerlegging, ook buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, is gelast.
 
 2. Van het voornemen tot overlevering over te gaan wordt onverwijld bericht gegeven aan de officier van justitie.
 
@@ -4795,9 +4795,9 @@ Een aangehouden verdachte wordt onverwijld overgeleverd:
 
 ##### Artikel 535
 
-1. De officier van justitie kan bepalen, dat de aangehoudene, tegen wie ernstige bezwaren bestaan, aan zijn lichaam of kleding zal worden onderzocht. [Artikel 78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15), is van toepassing.
+1. De officier van justitie kan bepalen, dat de aangehoudene, tegen wie ernstige bezwaren bestaan, aan zijn lichaam of kleding zal worden onderzocht. [Artikel 78, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01), is van toepassing.
 
-2. De bevoegdheid, vermeld in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2010-12-15&g=2010-12-15), komt, indien ter plaatse geen opsporingsambtenaar aanwezig is, mede toe aan de commandant, de schipper en de gezagvoerder van het luchtvaartuig.
+2. De bevoegdheid, vermeld in [artikel 78, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IV&artikel=78&z=2015-01-01&g=2015-01-01), komt, indien ter plaatse geen opsporingsambtenaar aanwezig is, mede toe aan de commandant, de schipper en de gezagvoerder van het luchtvaartuig.
 
 ##### Artikel 536
 
@@ -4805,7 +4805,7 @@ Een aangehouden verdachte wordt onverwijld overgeleverd:
 
 2. In geval van ontdekking op heterdaad komen de bevoegdheden, genoemd in de eerste volzin van het eerste lid, toe aan de commandant, aan de schipper en aan de gezagvoerder van het luchtvaartuig, voor zover ter plaatse geen opsporingsambtenaar aanwezig is.
 
-3. Met betrekking tot de overlevering van het inbeslaggenomen voorwerp is [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=532&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+3. Met betrekking tot de overlevering van het inbeslaggenomen voorwerp is [artikel 532](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=532&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 537
 
@@ -4821,7 +4821,7 @@ De officier van justitie kan een inbeslaggenomen voorwerp doen teruggeven, voord
 
 1. De opsporingsambtenaren hebben te allen tijde toegang tot alle plaatsen, waarvan naar hun redelijk oordeel de betreding nodig is voor de vervulling van hun taak. De commandant en de schipper kunnen ter aanhouding van de verdachte of ter inbeslagneming alle plaatsen betreden, waarvan te dien einde de betreding naar hun redelijk oordeel nodig is.
 
-2. De artikelen [155 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) blijven buiten toepassing. De [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2010-12-15&g=2010-12-15) en [163](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=163&z=2010-12-15&g=2010-12-15) zijn ten aanzien van de commandant en de schipper van overeenkomstige toepassing.
+2. De artikelen [155 tot en met 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) blijven buiten toepassing. De [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=162&z=2015-01-01&g=2015-01-01) en [163](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=163&z=2015-01-01&g=2015-01-01) zijn ten aanzien van de commandant en de schipper van overeenkomstige toepassing.
 
 ##### Artikel 540
 
@@ -4835,7 +4835,7 @@ De gezagvoerder van een luchtvaartuig kan op de voet van artikel 9, eerste lid, 
 
 2. Voor de toepassing van het eerste lid wordt onder vaartuig begrepen een installatie ter zee en wordt onder een misdrijf, aan boord begaan, begrepen een misdrijf, begaan op zulk een installatie.
 
-3. [Artikel 522, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+3. [Artikel 522, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 542
 
@@ -4843,9 +4843,9 @@ De gezagvoerder van een luchtvaartuig kan op de voet van artikel 9, eerste lid, 
 
 2. Hij zorgt dat in het register onverwijld wordt vermeld:
 
-- a. elk te zijner kennis gekomen misdrijf als bedoeld in [artikel 541](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Derde&artikel=541&z=2010-12-15&g=2010-12-15);
+- a. elk te zijner kennis gekomen misdrijf als bedoeld in [artikel 541](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Derde&artikel=541&z=2015-01-01&g=2015-01-01);
 
-- b. elk strafbaar feit ten aanzien waarvan hij van een bevoegdheid als bedoeld in [artikel 522, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2010-12-15&g=2010-12-15), gebruik heeft gemaakt;
+- b. elk strafbaar feit ten aanzien waarvan hij van een bevoegdheid als bedoeld in [artikel 522, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2015-01-01&g=2015-01-01), gebruik heeft gemaakt;
 
 - c. elk strafbaar feit, aan boord van zijn schip of door een opvarende begaan, waarvan door een opvarende vermelding in het register wordt verlangd of waarvan hij zelf de vermelding wenselijk acht.
 
@@ -4865,7 +4865,7 @@ De schipper geeft het register op eerste vordering van een opsporingsambtenaar a
 
 ##### Artikel 544
 
-De bepalingen van het [Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&z=2010-12-15&g=2010-12-15) zijn op deze titel van toepassing, voor zover daarin niet uitdrukkelijk anders is bepaald.
+De bepalingen van het [Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&z=2015-01-01&g=2015-01-01) zijn op deze titel van toepassing, voor zover daarin niet uitdrukkelijk anders is bepaald.
 
 ## Titel VII. Rechterlijke bevelen tot handhaving van de openbare orde
 
@@ -4885,15 +4885,15 @@ In het geval van ontdekking op heterdaad van enig strafbaar feit, waardoor de op
 
 1. De officier van justitie is bij het onderzoek door de rechter-commissaris tegenwoordig en doet, na de zaak te hebben voorgedragen, de vorderingen die hij in verband met de bepalingen van deze titel nodig oordeelt.
 
-2. De rechter-commissaris onderzoekt aanstonds de zaak. Het onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de bepalingen van de [tweede tot en met de zevende afdeling van de Derde Titel van het Vierde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&z=2010-12-15&g=2010-12-15) gevoerd.
+2. De rechter-commissaris onderzoekt aanstonds de zaak. Het onderzoek geldt als een gerechtelijk vooronderzoek en wordt overeenkomstig de bepalingen van de [tweede tot en met de zevende afdeling van de Derde Titel van het Vierde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Tweede&z=2015-01-01&g=2015-01-01) gevoerd.
 
-3. De rechter-commissaris is bevoegd, zo nodig onder bijvoeging van een bevel tot medebrenging, te gelasten dat door de officier van justitie of de verdachte aangewezen getuigen, deskundigen en tolken voor hem zullen verschijnen. De oproeping geschiedt overeenkomstig het tweede lid van [artikel 546](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=546&z=2010-12-15&g=2010-12-15).
+3. De rechter-commissaris is bevoegd, zo nodig onder bijvoeging van een bevel tot medebrenging, te gelasten dat door de officier van justitie of de verdachte aangewezen getuigen, deskundigen en tolken voor hem zullen verschijnen. De oproeping geschiedt overeenkomstig het tweede lid van [artikel 546](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=546&z=2015-01-01&g=2015-01-01).
 
 4. In dat geval kan de rechter-commissaris het onderzoek voor ten hoogste vierentwintig uren schorsen.
 
 ##### Artikel 548
 
-1. Indien de rechter-commissaris geen termen aanwezig acht tot toepassing van enige maatregel op grond van [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=545&z=2010-12-15&g=2010-12-15), beveelt hij de onmiddellijke invrijheidstelling van de verdachte.
+1. Indien de rechter-commissaris geen termen aanwezig acht tot toepassing van enige maatregel op grond van [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=545&z=2015-01-01&g=2015-01-01), beveelt hij de onmiddellijke invrijheidstelling van de verdachte.
 
 2. In het andere geval geeft de rechter-commissaris op de vordering van de officier van justitie de verdachte voor een bepaalde termijn de nodige bevelen ter voorkoming van herhaling of voortzetting van het feit en vordert van hem een bereidverklaring tot nakoming van die bevelen. De termijn eindigt van rechtswege op het tijdstip dat het ter zake van het strafbare feit gewezen vonnis in kracht van gewijsde is gegaan, of, indien daarbij straf of maatregel is opgelegd, zodra het vonnis kan worden tenuitvoergelegd.
 
@@ -4907,11 +4907,11 @@ Indien de bereidverklaring wordt afgelegd, beveelt de rechter-commissaris de onm
 
 1. Indien de bereidverklaring niet wordt afgelegd, beveelt de rechter-commissaris dat de ophouding van de verdachte zal voortduren.
 
-2. De ophouding is van kracht gedurende een in het bevel te bepalen termijn van ten hoogste vijf dagen welke ingaat op de dag van de tenuitvoerlegging. [Artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=102&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing. Het bevel tot ophouding is dadelijk uitvoerbaar.
+2. De ophouding is van kracht gedurende een in het bevel te bepalen termijn van ten hoogste vijf dagen welke ingaat op de dag van de tenuitvoerlegging. [Artikel 102, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=102&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing. Het bevel tot ophouding is dadelijk uitvoerbaar.
 
 3. Op de vordering van de officier van justitie kan het bevel tot ophouding door de rechter-commissaris eenmaal met ten hoogste vijf dagen worden verlengd. De verdachte wordt in de gelegenheid gesteld op de vordering te worden gehoord.
 
-4. De rechter-commissaris beslist met inachtneming van het eerste lid, zomede van de [artikelen 548](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=548&z=2010-12-15&g=2010-12-15) en [549](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=549&z=2010-12-15&g=2010-12-15).
+4. De rechter-commissaris beslist met inachtneming van het eerste lid, zomede van de [artikelen 548](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=548&z=2015-01-01&g=2015-01-01) en [549](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=549&z=2015-01-01&g=2015-01-01).
 
 5. De verdachte kan van het bevel tot ophouding binnen drie dagen na de tenuitvoerlegging in hoger beroep komen bij het Hof van Justitie dat beslist, na de verdachte te hebben gehoord.
 
@@ -4919,15 +4919,15 @@ Indien de bereidverklaring wordt afgelegd, beveelt de rechter-commissaris de onm
 
 1. Zodra het grote gevaar voor herhaling of voortzetting van het feit is geweken, beveelt de officier van justitie de onmiddellijke invrijheidstelling van de verdachte.
 
-2. De rechter-commissaris kan te allen tijde, hetzij ambtshalve, hetzij op de vordering van de officier van justitie of op het verzoek van de verdachte, de invrijheidstelling van de verdachte bevelen. [Artikel 549](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=549&z=2010-12-15&g=2010-12-15) is van toepassing.
+2. De rechter-commissaris kan te allen tijde, hetzij ambtshalve, hetzij op de vordering van de officier van justitie of op het verzoek van de verdachte, de invrijheidstelling van de verdachte bevelen. [Artikel 549](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=549&z=2015-01-01&g=2015-01-01) is van toepassing.
 
-3. Het Hof van Justitie kan, ambtshalve of op het verzoek van de verdachte, het bevel tot ophouding opheffen. [Artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2010-12-15&g=2010-12-15), is van toepassing.
+3. Het Hof van Justitie kan, ambtshalve of op het verzoek van de verdachte, het bevel tot ophouding opheffen. [Artikel 103, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=VIII&afdeling=Vijfde&artikel=103&z=2015-01-01&g=2015-01-01), is van toepassing.
 
-4. Het bevel kan mede worden opgeheven bij de uitspraak van het vonnis ter zake van het in [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=545&z=2010-12-15&g=2010-12-15) bedoelde feit gewezen. De opheffing wordt daarbij steeds bevolen, indien straf of maatregel ter zake van dat feit niet wordt opgelegd.
+4. Het bevel kan mede worden opgeheven bij de uitspraak van het vonnis ter zake van het in [artikel 545](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=545&z=2015-01-01&g=2015-01-01) bedoelde feit gewezen. De opheffing wordt daarbij steeds bevolen, indien straf of maatregel ter zake van dat feit niet wordt opgelegd.
 
 ##### Artikel 552
 
-1. Indien de verdachte de hem gegeven bevelen niet nakomt, is iedere opsporingsambtenaar bevoegd hem aan te houden en onverwijld opnieuw te geleiden voor de officier van justitie. De opsporingsambtenaar kan, ter aanhouding van de verdachte, elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+1. Indien de verdachte de hem gegeven bevelen niet nakomt, is iedere opsporingsambtenaar bevoegd hem aan te houden en onverwijld opnieuw te geleiden voor de officier van justitie. De opsporingsambtenaar kan, ter aanhouding van de verdachte, elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 2. In dit geval of indien de verdachte niet kon worden aangehouden, vordert de officier van justitie onverwijld dat de rechter-commissaris ter zake een onderzoek zal instellen. Deze geeft daaraan zo spoedig mogelijk gevolg.
 
@@ -4935,9 +4935,9 @@ Indien de bereidverklaring wordt afgelegd, beveelt de rechter-commissaris de onm
 
 ##### Artikel 553
 
-1. Indien de rechter-commissaris op grond van het onderzoek, bedoeld in [artikel 552](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=552&z=2010-12-15&g=2010-12-15), daartoe termen aanwezig acht, beveelt hij de onmiddellijke invrijheidstelling van de verdachte.
+1. Indien de rechter-commissaris op grond van het onderzoek, bedoeld in [artikel 552](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=552&z=2015-01-01&g=2015-01-01), daartoe termen aanwezig acht, beveelt hij de onmiddellijke invrijheidstelling van de verdachte.
 
-2. In het andere geval beveelt de rechter-commissaris, indien de verdachte zich aan overtreding van de hem gegeven bevelen heeft schuldig gemaakt, dat deze op een door hem aangewezen plaats zal worden opgehouden. De [artikelen 550, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=550&z=2010-12-15&g=2010-12-15), en [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=551&z=2010-12-15&g=2010-12-15), met uitzondering van de tweede volzin van het tweede lid, zijn van toepassing.
+2. In het andere geval beveelt de rechter-commissaris, indien de verdachte zich aan overtreding van de hem gegeven bevelen heeft schuldig gemaakt, dat deze op een door hem aangewezen plaats zal worden opgehouden. De [artikelen 550, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=550&z=2015-01-01&g=2015-01-01), en [551](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VII&artikel=551&z=2015-01-01&g=2015-01-01), met uitzondering van de tweede volzin van het tweede lid, zijn van toepassing.
 
 ##### Artikel 554
 
@@ -4981,7 +4981,7 @@ De officier van justitie die het verzoek heeft ontvangen, beslist onverwijld omt
 
 - c. voor zover het vermoeden bestaat dat het is gedaan ten behoeve van een onderzoek, ingesteld met het oogmerk de verdachte te vervolgen, te straffen of op andere wijze te treffen in verband met zijn godsdienstige of staatkundige overtuiging, zijn nationaliteit, zijn ras of de groep van de bevolking waartoe hij behoort;
 
-- d. voor zover inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting die onverenigbaar is met het aan [artikel 70 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=70) en [artikel 282, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2010-12-15&g=2010-12-15) ten grondslag liggende beginsel;
+- d. voor zover inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting die onverenigbaar is met het aan [artikel 70 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=70) en [artikel 282, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2015-01-01&g=2015-01-01) ten grondslag liggende beginsel;
 
 - e. voor zover het is gedaan ten behoeve van een onderzoek naar feiten ter zake waarvan de verdachte in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt vervolgd.
 
@@ -5013,7 +5013,7 @@ De officier van justitie die het verzoek heeft ontvangen, beslist onverwijld omt
 
 ##### Artikel 562
 
-1. Voor zover de in [artikel 561, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VIII&afdeling=Eerste&artikel=561&z=2010-12-15&g=2010-12-15), bedoelde vordering is gedaan met het oog op de voldoening aan een voor inwilliging vatbaar en op een verdrag gegrond verzoek van een buitenlandse rechterlijke autoriteit, heeft zij dezelfde rechtsgevolgen als een vordering tot het instellen van een gerechtelijk vooronderzoek, wat betreft:
+1. Voor zover de in [artikel 561, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VIII&afdeling=Eerste&artikel=561&z=2015-01-01&g=2015-01-01), bedoelde vordering is gedaan met het oog op de voldoening aan een voor inwilliging vatbaar en op een verdrag gegrond verzoek van een buitenlandse rechterlijke autoriteit, heeft zij dezelfde rechtsgevolgen als een vordering tot het instellen van een gerechtelijk vooronderzoek, wat betreft:
 
 - a. de bevoegdheden van de rechter-commissaris ten aanzien van de door hem te verhoren verdachten, getuigen en deskundigen, alsmede die tot het betreden van plaatsen, het verrichten van huiszoeking en het in beslag nemen van stukken van overtuiging ;
 
@@ -5039,7 +5039,7 @@ De officier van justitie die het verzoek heeft ontvangen, beslist onverwijld omt
 
 3. Tenzij aannemelijk is dat de rechthebbenden op de inbeslaggenomen stukken van overtuiging niet in de openbare lichamen Bonaire, Sint Eustatius en Saba verblijf houden, wordt het krachtens het tweede lid vereiste verlof slechts verleend onder het voorbehoud, dat bij de afgifte aan de buitenlandse autoriteiten wordt bedongen, dat de stukken zullen worden teruggezonden zodra daarvan het voor de strafvordering nodige gebruik is gemaakt.
 
-4. Het bepaalde bij en krachtens de [artikelen 141 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2010-12-15&g=2010-12-15), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15), en [152 tot en met 154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing. In de plaats van het volgens die artikelen bevoegde gerecht treedt het Hof op.
+4. Het bepaalde bij en krachtens de [artikelen 141 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2015-01-01&g=2015-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01), en [152 tot en met 154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing. In de plaats van het volgens die artikelen bevoegde gerecht treedt het Hof op.
 
 ##### Artikel 564
 
@@ -5055,11 +5055,11 @@ Indien bij de inwilliging van een verzoek om rechtshulp de medewerking van buite
 
 ##### Artikel 566
 
-1. Wanneer het onderzoek, dat na de landing van een vreemd luchtvaartuig op Bonaire, Sint Eustatius en Saba ingevolge artikel 13, vierde lid, van het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen (Trb. 1964, 115 en 164) moet worden ingesteld naar hetgeen aan boord van het luchtvaartuig is voorgevallen, betrekking heeft op een feit ten aanzien waarvan de strafwet van Bonaire, Sint Eustatius en Saba niet toepasselijk is, wordt het ingesteld overeenkomstig de bepalingen die gelden voor een opsporingsonderzoek met betrekking tot een strafbaar feit waarvoor geen voorlopige hechtenis is toegelaten.Voor de toepassing van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=III&artikel=11&z=2010-12-15&g=2010-12-15), wordt het feit geacht te zijn begaan ter plaatse waar het luchtvaartuig is geland.
+1. Wanneer het onderzoek, dat na de landing van een vreemd luchtvaartuig op Bonaire, Sint Eustatius en Saba ingevolge artikel 13, vierde lid, van het Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen (Trb. 1964, 115 en 164) moet worden ingesteld naar hetgeen aan boord van het luchtvaartuig is voorgevallen, betrekking heeft op een feit ten aanzien waarvan de strafwet van Bonaire, Sint Eustatius en Saba niet toepasselijk is, wordt het ingesteld overeenkomstig de bepalingen die gelden voor een opsporingsonderzoek met betrekking tot een strafbaar feit waarvoor geen voorlopige hechtenis is toegelaten.Voor de toepassing van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=III&artikel=11&z=2015-01-01&g=2015-01-01), wordt het feit geacht te zijn begaan ter plaatse waar het luchtvaartuig is geland.
 
-2. De opsporingsambtenaren die het onderzoek verrichten, kunnen behalve de in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2010-12-15&g=2010-12-15) bedoelde voorwerpen in beslag nemen de voorwerpen, die de gezagvoerder van het vreemde luchtvaartuig ingevolge artikel 9, derde lid, van het Verdrag na de landing overlevert.
+2. De opsporingsambtenaren die het onderzoek verrichten, kunnen behalve de in [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2015-01-01&g=2015-01-01) bedoelde voorwerpen in beslag nemen de voorwerpen, die de gezagvoerder van het vreemde luchtvaartuig ingevolge artikel 9, derde lid, van het Verdrag na de landing overlevert.
 
-3. Het bepaalde bij en krachtens de [artikelen 141 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2010-12-15&g=2010-12-15), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15), en [152 tot en met 154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+3. Het bepaalde bij en krachtens de [artikelen 141 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Vierde&artikel=141&z=2015-01-01&g=2015-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01), en [152 tot en met 154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 567
 
@@ -5117,7 +5117,7 @@ Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, 
 
 1. Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ten uitvoer gelegd, voor zover de veroordeelde ter zake van hetzelfde feit in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt vervolgd.
 
-2. Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba evenmin worden ten uitvoer gelegd, voor zover een vervolging in de openbare lichamen Bonaire, Sint Eustatius en Saba onverenigbaar zou zijn met het aan [artikel 70 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=70) en [artikel 282, eerste lid, van dit Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2010-12-15&g=2010-12-15) ten grondslag liggende beginsel.
+2. Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba evenmin worden ten uitvoer gelegd, voor zover een vervolging in de openbare lichamen Bonaire, Sint Eustatius en Saba onverenigbaar zou zijn met het aan [artikel 70 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=70) en [artikel 282, eerste lid, van dit Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=IV&artikel=282&z=2015-01-01&g=2015-01-01) ten grondslag liggende beginsel.
 
 ### Afdeling Tweede
 
@@ -5129,7 +5129,7 @@ Voor zover een verdrag daarin voorziet, kan de veroordeelde die zich in de openb
 
 ##### Artikel 576
 
-1. De procureur-generaal is bevoegd de voorlopige aanhouding overeenkomstig [artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2010-12-15&g=2010-12-15) te bevelen.
+1. De procureur-generaal is bevoegd de voorlopige aanhouding overeenkomstig [artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2015-01-01&g=2015-01-01) te bevelen.
 
 2. De veroordeelde wordt na zijn voorlopige aanhouding binnen vierentwintig uur voor de procureur-generaal geleid.
 
@@ -5147,13 +5147,13 @@ Voor zover een verdrag daarin voorziet, kan de veroordeelde die zich in de openb
 
 ##### Artikel 578
 
-1. De verlenging kan worden gelast voor een termijn van ten hoogste veertien dagen. De voorlopige vrijheidsontneming kan op de vordering van de procureur-generaal telkens met een termijn van ten hoogste dertig dagen verder worden verlengd, totdat het Hof ingevolge [artikel 589, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=589&z=2010-12-15&g=2010-12-15), over de gevangenhouding beslist.
+1. De verlenging kan worden gelast voor een termijn van ten hoogste veertien dagen. De voorlopige vrijheidsontneming kan op de vordering van de procureur-generaal telkens met een termijn van ten hoogste dertig dagen verder worden verlengd, totdat het Hof ingevolge [artikel 589, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=589&z=2015-01-01&g=2015-01-01), over de gevangenhouding beslist.
 
 2. De veroordeelde wiens voorlopige vrijheidsontneming is gelast wordt, behoudens de mogelijkheid van vrijheidsontneming uit anderen hoofde, in vrijheid gesteld:
 
 - a. zodra dit door het Hof, de rechter-commissaris of de procureur-generaal ambtshalve of op het verzoek van de veroordeelde of diens advocaat wordt gelast;
 
-- b. zodra de voorlopige vrijheidsontneming veertien dagen heeft geduurd en de procureur-generaal de in de [artikelen 581](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2010-12-15&g=2010-12-15) of [582](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=2&artikel=582&z=2010-12-15&g=2010-12-15) bedoelde stukken niet heeft ontvangen;
+- b. zodra de voorlopige vrijheidsontneming veertien dagen heeft geduurd en de procureur-generaal de in de [artikelen 581](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2015-01-01&g=2015-01-01) of [582](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=2&artikel=582&z=2015-01-01&g=2015-01-01) bedoelde stukken niet heeft ontvangen;
 
 - c. indien de duur van de voorlopige vrijheidsontneming die van het voor tenuitvoerlegging vatbare gedeelte van de in de vreemde staat opgelegde sanctie zou overtreffen.
 
@@ -5161,17 +5161,17 @@ Voor zover een verdrag daarin voorziet, kan de veroordeelde die zich in de openb
 
 ##### Artikel 579
 
-Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een van de [artikelen 575 tot en met 578](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2010-12-15&g=2010-12-15), wordt onverwijld door of door tussenkomst van de procureur-generaal kennis gegeven aan Onze Minister.
+Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een vreemde staat, genomen krachtens een van de [artikelen 575 tot en met 578](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2015-01-01&g=2015-01-01), wordt onverwijld door of door tussenkomst van de procureur-generaal kennis gegeven aan Onze Minister.
 
 #### B. Inbeslagneming
 
 ##### Artikel 579a
 
-1. Naar aanleiding van een op een verdrag gegrond verzoek van een vreemde staat kan in de openbare lichamen Bonaire, Sint Eustatius en Saba een strafrechtelijk financieel onderzoek worden ingesteld, overeenkomstig de bepalingen van [Titel XVI van het derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2010-12-15&g=2010-12-15), gericht op de bepaling van hier te lande aanwezig of verworven wederrechtelijk verkregen voordeel door een persoon die in de verzoekende staat aan strafrechtelijk onderzoek is onderworpen.
+1. Naar aanleiding van een op een verdrag gegrond verzoek van een vreemde staat kan in de openbare lichamen Bonaire, Sint Eustatius en Saba een strafrechtelijk financieel onderzoek worden ingesteld, overeenkomstig de bepalingen van [Titel XVI van het derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2015-01-01&g=2015-01-01), gericht op de bepaling van hier te lande aanwezig of verworven wederrechtelijk verkregen voordeel door een persoon die in de verzoekende staat aan strafrechtelijk onderzoek is onderworpen.
 
 2. Het strafrechtelijk financieel onderzoek kan slechts worden ingesteld, indien zulks ook mogelijk zou zijn geweest wanneer het feit of de feiten ter zake waarvan de persoon in de verzoekende staat wordt verdacht in de openbare lichamen Bonaire, Sint Eustatius en Saba zouden zijn begaan.
 
-3. Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2010-12-15&g=2010-12-15), en [artikel 119a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15), slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat ten aanzien van die voorwerpen vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
+3. Tijdens het strafrechtelijk financieel onderzoek kan inbeslagneming van voorwerpen overeenkomstig [artikel 119, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119&z=2015-01-01&g=2015-01-01), en [artikel 119a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01), slechts plaatsvinden, indien gegronde redenen bestaan voor de verwachting dat ten aanzien van die voorwerpen vanwege de verzoekende vreemde staat een verzoek tot tenuitvoerlegging van een verbeurdverklaring of van een tot ontneming van wederrechtelijk verkregen voordeel strekkende sanctie zal worden gedaan.
 
 4. De officier van justitie zendt van zijn beschikking tot sluiting van een strafrechtelijk financieel onderzoek onverwijld een afschrift door tussenkomst van de procureur-generaal aan Onze Minister. Daarbij doet hij tevens mededeling van alle voor de verzoekende vreemde staat dienstige inlichtingen.
 
@@ -5199,13 +5199,13 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 ##### Artikel 579d
 
-1. Tot inbeslagneming als bedoeld in de [artikelen 579b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579b&z=2010-12-15&g=2010-12-15) en [579c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579c&z=2010-12-15&g=2010-12-15) zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheden niet aan de rechter-commissaris is voorbehouden, de procureur-generaal. Op vordering van de procureur-generaal kan de rechter-commissaris de bevoegdheden uitoefenen, die hem uit hoofde van een gerechtelijk vooronderzoek toekomen.
+1. Tot inbeslagneming als bedoeld in de [artikelen 579b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579b&z=2015-01-01&g=2015-01-01) en [579c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579c&z=2015-01-01&g=2015-01-01) zijn bevoegd de rechter-commissaris en, voor zover die bevoegdheden niet aan de rechter-commissaris is voorbehouden, de procureur-generaal. Op vordering van de procureur-generaal kan de rechter-commissaris de bevoegdheden uitoefenen, die hem uit hoofde van een gerechtelijk vooronderzoek toekomen.
 
-2. Ten aanzien van het eerste lid zijn de [artikelen 119b tot en met 119d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119b&z=2010-12-15&g=2010-12-15), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=122&z=2010-12-15&g=2010-12-15), [125 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2010-12-15&g=2010-12-15), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15), [152](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2010-12-15&g=2010-12-15), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2010-12-15&g=2010-12-15), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2010-12-15&g=2010-12-15) en [608](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Eerste&artikel=608&z=2010-12-15&g=2010-12-15)* van overeenkomstige toepassing.
+2. Ten aanzien van het eerste lid zijn de [artikelen 119b tot en met 119d](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119b&z=2015-01-01&g=2015-01-01), [122](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=122&z=2015-01-01&g=2015-01-01), [125 tot en met 145](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Tweede&artikel=125&z=2015-01-01&g=2015-01-01), [150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01), [152](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=152&z=2015-01-01&g=2015-01-01), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2015-01-01&g=2015-01-01), [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2015-01-01&g=2015-01-01) en [608](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Eerste&artikel=608&z=2015-01-01&g=2015-01-01)* van overeenkomstige toepassing.
 
 ##### Artikel 579e
 
-1. Bij de overeenkomstige toepassing van de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15) onderscheidenlijk [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2010-12-15&g=2010-12-15) treedt de rechter niet in een nieuw onderzoek naar de rechten van belanghebbenden, indien daaromtrent door de buitenlandse rechter een uitspraak is gedaan. De rechter kan echter wel in een dergelijk nieuw onderzoek treden, indien:
+1. Bij de overeenkomstige toepassing van de [artikelen 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01) onderscheidenlijk [154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2015-01-01&g=2015-01-01) treedt de rechter niet in een nieuw onderzoek naar de rechten van belanghebbenden, indien daaromtrent door de buitenlandse rechter een uitspraak is gedaan. De rechter kan echter wel in een dergelijk nieuw onderzoek treden, indien:
 
 - a. die uitspraak betrekking heeft op rechten ter zake van in de openbare lichamen Bonaire, Sint Eustatius en Saba gelegen onroerende goederen of in de openbare lichamen Bonaire, Sint Eustatius en Saba te boek gestelde zeeschepen en luchtvaartuigen;
 
@@ -5221,11 +5221,11 @@ Van elke beslissing naar aanleiding van een verzoek van een autoriteit van een v
 
 ##### Artikel 579f
 
-1. Tot het in behandeling nemen van verzoeken als bedoeld in de [artikelen 579a tot en met 579c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579a&z=2010-12-15&g=2010-12-15), is bevoegd de procureur-generaal.
+1. Tot het in behandeling nemen van verzoeken als bedoeld in de [artikelen 579a tot en met 579c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579a&z=2015-01-01&g=2015-01-01), is bevoegd de procureur-generaal.
 
 Verzoeken als bedoeld in het eerste lid worden, zo zij niet tot de procureur-generaal zijn gericht, door de geadresseerde onverwijld aan hem doorgezonden.
 
-Klaagschriften als bedoeld in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15), alsmede rechtsgedingen als bedoeld in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2010-12-15&g=2010-12-15), dienen in eerste en laatste instantie te worden aanhangig gemaakt bij Hof.
+Klaagschriften als bedoeld in [artikel 150](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01), alsmede rechtsgedingen als bedoeld in [artikel 154a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154a&z=2015-01-01&g=2015-01-01), dienen in eerste en laatste instantie te worden aanhangig gemaakt bij Hof.
 
 ### Afdeling Derde. Procedure
 
@@ -5251,19 +5251,19 @@ Wanneer een vreemde staat heeft bewilligd in de tenuitvoerlegging van een door d
 
 ##### Artikel 583
 
-1. De procureur-generaal vordert binnen twee weken na de dag waarop hij de in [artikel 581](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2010-12-15&g=2010-12-15) of [582](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=2&artikel=582&z=2010-12-15&g=2010-12-15) bedoelde stukken heeft ontvangen, schriftelijk, dat het Hof verlof verleent tot tenuitvoerlegging. Bij zijn vordering legt de procureur-generaal de stukken aan het Hof over. Een afschrift van de vordering wordt aan de veroordeelde betekend. Bij zijn vordering legt de procureur-generaal tevens een lijst van voorwerpen of vorderingen over, die ingevolge de [artikelen 579a tot en met 579e](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579a&z=2010-12-15&g=2010-12-15), in beslag zijn genomen.
+1. De procureur-generaal vordert binnen twee weken na de dag waarop hij de in [artikel 581](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2015-01-01&g=2015-01-01) of [582](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=2&artikel=582&z=2015-01-01&g=2015-01-01) bedoelde stukken heeft ontvangen, schriftelijk, dat het Hof verlof verleent tot tenuitvoerlegging. Bij zijn vordering legt de procureur-generaal de stukken aan het Hof over. Een afschrift van de vordering wordt aan de veroordeelde betekend. Bij zijn vordering legt de procureur-generaal tevens een lijst van voorwerpen of vorderingen over, die ingevolge de [artikelen 579a tot en met 579e](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579a&z=2015-01-01&g=2015-01-01), in beslag zijn genomen.
 
-2. De in het eerste lid gestelde termijn wordt geschorst van het tijdstip waarop de procureur-generaal overeenkomstig [artikel 581, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2010-12-15&g=2010-12-15), adviseert aan Onze Minister tot het tijdstip waarop de procureur-generaal van Onze Minister bericht ontvangt dat de tenuitvoerlegging dient te worden gevorderd.
+2. De in het eerste lid gestelde termijn wordt geschorst van het tijdstip waarop de procureur-generaal overeenkomstig [artikel 581, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=1&artikel=581&z=2015-01-01&g=2015-01-01), adviseert aan Onze Minister tot het tijdstip waarop de procureur-generaal van Onze Minister bericht ontvangt dat de tenuitvoerlegging dient te worden gevorderd.
 
 3. Indien de veroordeelde ingevolge deze titel voorlopig zijn vrijheid is ontnomen, eindigt de schorsing in ieder geval na veertien dagen.
 
 4. Het eerste tot en met het derde lid bepaalde is niet van toepassing, indien de ten uitvoer te leggen sanctie uitsluitend bestaat uit een geldboete.
 
-5. De [artikelen 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2010-12-15&g=2010-12-15) en [486](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=486&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+5. De [artikelen 197](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=I&afdeling=Eerste&artikel=197&z=2015-01-01&g=2015-01-01) en [486](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=486&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 584
 
-1. Zo spoedig mogelijk na ontvangst van de in [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2010-12-15&g=2010-12-15) bedoelde vordering bepaalt de voorzitter van het Hof het tijdstip waarop het Hof een aanvang zal maken met de behandeling van de vordering. Tussen de dag waarop de mededeling om ter terechtzitting te verschijnen aan de veroordeelde is betekend en die van de terechtzitting moet een termijn van ten minste tien dagen verlopen.
+1. Zo spoedig mogelijk na ontvangst van de in [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2015-01-01&g=2015-01-01) bedoelde vordering bepaalt de voorzitter van het Hof het tijdstip waarop het Hof een aanvang zal maken met de behandeling van de vordering. Tussen de dag waarop de mededeling om ter terechtzitting te verschijnen aan de veroordeelde is betekend en die van de terechtzitting moet een termijn van ten minste tien dagen verlopen.
 
 2. Met toestemming van de veroordeelde kan deze termijn worden verkort, mits van deze toestemming uit een schriftelijke verklaring blijkt.
 
@@ -5275,7 +5275,7 @@ De griffier van het Hof doet onverwijld aan de procureur-generaal en aan de vero
 
 1. De procureur-generaal en de veroordeelde zijn bevoegd ten behoeve van het onderzoek dat het Hof ingevolge deze titel heeft te verrichten en de beslissingen die het heeft te nemen, getuigen en deskundigen te doen dagvaarden.
 
-2. De procureur-generaal kan bij met redenen omklede beslissing weigeren getuigen of deskundigen te dagvaarden, indien redelijkerwijze moet worden aangenomen dat deze door de veroordeelde zijn opgegeven ten einde ter terechtzitting verklaringen af te leggen ter betwisting van feiten als bedoeld in [artikel 588, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=588&z=2010-12-15&g=2010-12-15). De beslissing wordt onverwijld schriftelijk ter kennis van de veroordeelde gebracht. Hij wordt daarbij opmerkzaam gemaakt op het bepaalde in artikel 588, zesde lid.
+2. De procureur-generaal kan bij met redenen omklede beslissing weigeren getuigen of deskundigen te dagvaarden, indien redelijkerwijze moet worden aangenomen dat deze door de veroordeelde zijn opgegeven ten einde ter terechtzitting verklaringen af te leggen ter betwisting van feiten als bedoeld in [artikel 588, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=588&z=2015-01-01&g=2015-01-01). De beslissing wordt onverwijld schriftelijk ter kennis van de veroordeelde gebracht. Hij wordt daarbij opmerkzaam gemaakt op het bepaalde in artikel 588, zesde lid.
 
 ##### Artikel 587
 
@@ -5291,17 +5291,17 @@ De griffier van het Hof doet onverwijld aan de procureur-generaal en aan de vero
 
 3. Het Hof is gebonden aan de vaststelling van de feiten die de buitenlandse rechter kennelijk aan zijn beslissing ten grondslag heeft gelegd. Het treedt niet in een nieuw onderzoek naar deze feiten.
 
-4. Op punten die niet in deze titel zijn geregeld, vindt het bepaalde in de [Tweede Afdeling van Titel IV van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2010-12-15&g=2010-12-15) overeenkomstige toepassing, behoudens het bepaalde omtrent het verhoor van getuigen en het houden van een schouw.
+4. Op punten die niet in deze titel zijn geregeld, vindt het bepaalde in de [Tweede Afdeling van Titel IV van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2015-01-01&g=2015-01-01) overeenkomstige toepassing, behoudens het bepaalde omtrent het verhoor van getuigen en het houden van een schouw.
 
-5. Indien getuigen zijn gedagvaard ter verkrijging van inlichtingen omtrent de persoonlijkheid van de veroordeelde of indien het Hof het noodzakelijk acht feiten te onderzoeken ter beoordeling van het bestaan van gronden die naar het recht van Bonaire, Sint Eustatius en Saba, doch niet naar dat van de vreemde staat, de strafbaarheid van het feit of de dader uitsluiten,vindt voorts het bepaalde in de [Tweede Afdeling van Titel IV van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2010-12-15&g=2010-12-15) omtrent het verhoor van getuigen overeenkomstige toepassing.
+5. Indien getuigen zijn gedagvaard ter verkrijging van inlichtingen omtrent de persoonlijkheid van de veroordeelde of indien het Hof het noodzakelijk acht feiten te onderzoeken ter beoordeling van het bestaan van gronden die naar het recht van Bonaire, Sint Eustatius en Saba, doch niet naar dat van de vreemde staat, de strafbaarheid van het feit of de dader uitsluiten,vindt voorts het bepaalde in de [Tweede Afdeling van Titel IV van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Tweede&z=2015-01-01&g=2015-01-01) omtrent het verhoor van getuigen overeenkomstige toepassing.
 
-6. Indien de procureur-generaal overeenkomstig [artikel 586, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=586&z=2010-12-15&g=2010-12-15), heeft geweigerd een getuige te dagvaarden, kan de veroordeelde het Hof verzoeken alsnog de dagvaarding van de getuige te bevelen. Het Hof gaat hiertoe over, indien het van oordeel is dat de procureur-generaal in redelijkheid niet tot zijn beslissing heeft kunnen komen.
+6. Indien de procureur-generaal overeenkomstig [artikel 586, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=586&z=2015-01-01&g=2015-01-01), heeft geweigerd een getuige te dagvaarden, kan de veroordeelde het Hof verzoeken alsnog de dagvaarding van de getuige te bevelen. Het Hof gaat hiertoe over, indien het van oordeel is dat de procureur-generaal in redelijkheid niet tot zijn beslissing heeft kunnen komen.
 
 7. De procureur-generaal legt, na voorlezing, een conclusie aan het Hof over. Indien de conclusie strekt tot bewilliging in de tenuitvoerlegging, omschrijft zij de straf of maatregel die naar het oordeel van de procureur-generaal in plaats van de buitenlandse sanctie behoort te worden opgelegd. Tevens vermeldt de procureur-generaal in dat geval met welk strafbaar feit naar het recht van Bonaire, Sint Eustatius en Saba het feit op grond waarvan de veroordeelde aan een buitenlandse sanctie is onderworpen, overeenkomt.
 
 ##### Artikel 589
 
-1. Op vordering van de procureur-generaal kan het Hof ter zitting de gevangenneming van de veroordeelde bevelen op de grond genoemd in [artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2010-12-15&g=2010-12-15)
+1. Op vordering van de procureur-generaal kan het Hof ter zitting de gevangenneming van de veroordeelde bevelen op de grond genoemd in [artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2015-01-01&g=2015-01-01)
 
 2. Voordat het onderzoek ter zitting wordt gesloten, beslist het Hof ambtshalve over de gevangenhouding van de veroordeelde wie krachtens deze titel voorlopig zijn vrijheid is ontnomen.
 
@@ -5315,7 +5315,7 @@ De griffier van het Hof doet onverwijld aan de procureur-generaal en aan de vero
 
 - b. dat de veroordeelde zich met vrucht op een grond, die naar het recht van Bonaire, Sint Eustatius en Saba wel, doch naar het recht van de vreemde staat niet de strafbaarheid van het feit of de dader uitsluit, had kunnen beroepen, en dat hij geen gedwongen psychiatrische verpleging behoeft;
 
-- c. dat de tenuitvoerlegging in de openbare lichamen Bonaire, Sint Eustatius en Saba op grond van het in een van de [artikelen 569](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=569&z=2010-12-15&g=2010-12-15), [570](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=570&z=2010-12-15&g=2010-12-15), [571](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=571&z=2010-12-15&g=2010-12-15), [573](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=573&z=2010-12-15&g=2010-12-15) of [574](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=574&z=2010-12-15&g=2010-12-15) bepaalde niet kan plaatshebben; of
+- c. dat de tenuitvoerlegging in de openbare lichamen Bonaire, Sint Eustatius en Saba op grond van het in een van de [artikelen 569](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=569&z=2015-01-01&g=2015-01-01), [570](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=570&z=2015-01-01&g=2015-01-01), [571](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=571&z=2015-01-01&g=2015-01-01), [573](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=573&z=2015-01-01&g=2015-01-01) of [574](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Eerste&artikel=574&z=2015-01-01&g=2015-01-01) bepaalde niet kan plaatshebben; of
 
 - d. dat bij afweging van alle betrokken belangen een beslissing tot tenuitvoerlegging in de openbare lichamen Bonaire, Sint Eustatius en Saba in redelijkheid niet kan worden genomen;dan verklaart het de tenuitvoerlegging ontoelaatbaar.
 
@@ -5325,7 +5325,7 @@ De griffier van het Hof doet onverwijld aan de procureur-generaal en aan de vero
 
 ##### Artikel 591
 
-1. Indien het Hof, de tenuitvoerlegging toelaatbaar acht, verleent het verlof tot tenuitvoerlegging van de buitenlandse rechterlijke beslissing en legt, met inachtneming van het daaromtrent in het toepasselijke verdrag voorgeschrevene, de straf of maatregel op, die op het overeenkomstige feit naar het recht van Bonaire, Sint Eustatius en Saba is gesteld. De uitspraak van het Hof wordt met redenen omkleed. De uitspraak geeft voorts de bijzondere redenen op, die de straf hebben bepaald of tot de maatregel hebben geleid en voorts zoveel mogelijk de omstandigheden, waarop bij de vaststelling van de duur of de hoogte van de straf is gelet. De [artikelen 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2010-12-15&g=2010-12-15), [390](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=390&z=2010-12-15&g=2010-12-15), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=391&z=2010-12-15&g=2010-12-15), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=400&z=2010-12-15&g=2010-12-15), [407, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=407&z=2010-12-15&g=2010-12-15), en [410](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=410&z=2010-12-15&g=2010-12-15) zijn van toepassing.
+1. Indien het Hof, de tenuitvoerlegging toelaatbaar acht, verleent het verlof tot tenuitvoerlegging van de buitenlandse rechterlijke beslissing en legt, met inachtneming van het daaromtrent in het toepasselijke verdrag voorgeschrevene, de straf of maatregel op, die op het overeenkomstige feit naar het recht van Bonaire, Sint Eustatius en Saba is gesteld. De uitspraak van het Hof wordt met redenen omkleed. De uitspraak geeft voorts de bijzondere redenen op, die de straf hebben bepaald of tot de maatregel hebben geleid en voorts zoveel mogelijk de omstandigheden, waarop bij de vaststelling van de duur of de hoogte van de straf is gelet. De [artikelen 388](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=388&z=2015-01-01&g=2015-01-01), [390](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=390&z=2015-01-01&g=2015-01-01), [391](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=391&z=2015-01-01&g=2015-01-01), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=400&z=2015-01-01&g=2015-01-01), [407, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=407&z=2015-01-01&g=2015-01-01), en [410](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=410&z=2015-01-01&g=2015-01-01) zijn van toepassing.
 
 2. Bij het opleggen van tijdelijke gevangenisstraf of hechtenis beveelt het Hof, dat de tijd gedurende welke aan de veroordeelde in de vreemde staat ter uitvoering van de hem aldaar opgelegde sanctie, met het oog op zijn overbrenging naar Bonaire, Sint Eustatius en Saba en uit hoofde van deze titel zijn vrijheid ontnomen is geweest, bij de uitvoering van de straf geheel in mindering zal worden gebracht.
 
@@ -5337,15 +5337,15 @@ De griffier van het Hof doet onverwijld aan de procureur-generaal en aan de vero
 
 2. Indien de in de vreemde staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt het Hof, indien de vreemde staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit. In dat geval is het Hof niet gebonden aan beperkingen ingevolge [artikel 35, eerste lid, onder a, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=35).
 
-3. Op uitspraken, houdende een verbeurdverklaring, zijn de [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=151&z=2010-12-15&g=2010-12-15), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2010-12-15&g=2010-12-15) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+3. Op uitspraken, houdende een verbeurdverklaring, zijn de [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=151&z=2015-01-01&g=2015-01-01), [153](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=153&z=2015-01-01&g=2015-01-01) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=154&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
-4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de Staat ter ontneming van wederrechtelijk verkregen voordeel, is [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=634&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+4. Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de Staat ter ontneming van wederrechtelijk verkregen voordeel, is [artikel 634](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=634&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
-5. [Artikel 579e](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579e&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+5. [Artikel 579e](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=B&artikel=579e&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 592
 
-De tenuitvoerlegging van een op grond van [artikel 591](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=591&z=2010-12-15&g=2010-12-15) opgelegde straf of maatregel geschiedt met inachtneming van het bij of krachtens dit Wetboek, het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde.
+De tenuitvoerlegging van een op grond van [artikel 591](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=591&z=2015-01-01&g=2015-01-01) opgelegde straf of maatregel geschiedt met inachtneming van het bij of krachtens dit Wetboek, het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde.
 
 #### Par. 4. Buitengerechtelijke procedure
 
@@ -5363,27 +5363,27 @@ De tenuitvoerlegging van een op grond van [artikel 591](https://wetten.overheid.
 
 ##### Artikel 592b
 
-1. De ingevolge [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2010-12-15&g=2010-12-15) genomen beslissing en de dag waarop het daarbij vastgestelde bedrag moet worden voldaan, worden vanwege de procureur-generaal zo spoedig mogelijk aan de veroordeelde ter kennis gebracht.
+1. De ingevolge [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2015-01-01&g=2015-01-01) genomen beslissing en de dag waarop het daarbij vastgestelde bedrag moet worden voldaan, worden vanwege de procureur-generaal zo spoedig mogelijk aan de veroordeelde ter kennis gebracht.
 
 2. Tegen de beslissing van de procureur-generaal kan de veroordeelde binnen veertien dagen nadat zich een omstandigheid heeft voorgedaan, waaruit voortvloeit dat de beslissing hem bekend is, een bezwaarschrift indienen bij het Hof, indien de opgelegde geldboete het bedrag van USD 27,93 overschrijft.
 
-3. Op de wijze van indiening en intrekking van een bezwaarschrift zijn de [artikelen 445, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2010-12-15&g=2010-12-15), [446 tot en met 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+3. Op de wijze van indiening en intrekking van een bezwaarschrift zijn de [artikelen 445, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=445&z=2015-01-01&g=2015-01-01), [446 tot en met 451](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=446&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
-4. Op de behandeling van het bezwaarschrift zijn de [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2010-12-15&g=2010-12-15), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Eerste&artikel=47&z=2010-12-15&g=2010-12-15) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=48&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+4. Op de behandeling van het bezwaarschrift zijn de [artikelen 38 tot en met 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=VI&artikel=38&z=2015-01-01&g=2015-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Eerste&artikel=47&z=2015-01-01&g=2015-01-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=I&afdeling=Tweede&artikel=48&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 5. Verklaart het Hof het bezwaar gegrond, dan vernietigt het de beslissing van de procureur-generaal of vult deze aan met inachtneming van het bepaalde in [artikel 27 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27). Acht het, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet het Hof hetgeen de procureur-generaal had behoren te doen. In alle gevallen dat het Hof de tenuitvoerlegging van een geldboete toelaatbaar verklaard, bepaalt het tevens de duur van de vervangende hechtenis.
 
-6. De [artikelen 591, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=591&z=2010-12-15&g=2010-12-15), en [592](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=592&z=2010-12-15&g=2010-12-15), zijn van toepassing.
+6. De [artikelen 591, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=591&z=2015-01-01&g=2015-01-01), en [592](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=592&z=2015-01-01&g=2015-01-01), zijn van toepassing.
 
 ##### Artikel 592c
 
-1. Beslissingen als bedoeld in [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2010-12-15&g=2010-12-15) kunnen zodra zij zijn genomen worden ten uitvoer gelegd, tenzij het toepasselijke verdrag anders bepaalt. Door het indienen van een bezwaarschrift binnen de daarvoor gestelde termijn wordt de tenuitvoerlegging opgeschort.
+1. Beslissingen als bedoeld in [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2015-01-01&g=2015-01-01) kunnen zodra zij zijn genomen worden ten uitvoer gelegd, tenzij het toepasselijke verdrag anders bepaalt. Door het indienen van een bezwaarschrift binnen de daarvoor gestelde termijn wordt de tenuitvoerlegging opgeschort.
 
-2. Beslissingen genomen krachtens [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2010-12-15&g=2010-12-15) worden ten uitvoer gelegd met inachtneming van het bij of krachtens dit wetboek omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van het derde lid van [artikel 630](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=630&z=2010-12-15&g=2010-12-15).
+2. Beslissingen genomen krachtens [artikel 592a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592a&z=2015-01-01&g=2015-01-01) worden ten uitvoer gelegd met inachtneming van het bij of krachtens dit wetboek omtrent de tenuitvoerlegging van geldboeten bepaalde, met uitzondering van het derde lid van [artikel 630](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=630&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 592d
 
-Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan doet de procureur-generaal met het oog daarop een vordering overeenkomstig [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2010-12-15&g=2010-12-15), tenzij het Hof krachtens [artikel 592b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592b&z=2010-12-15&g=2010-12-15), de duur van de vervangende hechtenis reeds heeft bepaald.
+Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan doet de procureur-generaal met het oog daarop een vordering overeenkomstig [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2015-01-01&g=2015-01-01), tenzij het Hof krachtens [artikel 592b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=4&artikel=592b&z=2015-01-01&g=2015-01-01), de duur van de vervangende hechtenis reeds heeft bepaald.
 
 #### Onmiddellijke tenuitvoerlegging
 
@@ -5395,9 +5395,9 @@ Indien tot tenuitvoerlegging van vervangende hechtenis moet worden overgegaan do
 
 3. De in het eerste lid bedoelde aanwijzing kan slechts worden gegeven, nadat advies is ingewonnen van het Hof.
 
-4. Hangende de beslissing tot het geven van een aanwijzing kan de veroordeelde met toepassing van de [artikelen 575 tot en met 579](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2010-12-15&g=2010-12-15) voorlopig zijn vrijheid worden ontnomen.
+4. Hangende de beslissing tot het geven van een aanwijzing kan de veroordeelde met toepassing van de [artikelen 575 tot en met 579](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=575&z=2015-01-01&g=2015-01-01) voorlopig zijn vrijheid worden ontnomen.
 
-5. Indien op advies van het Hof het geven van een aanwijzing achterwege blijft, nemen leden van het Hof die terzake hebben geadviseerd, niet aan de behandeling van de door de procureur-generaal overeenkomstig [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2010-12-15&g=2010-12-15) ingediende vordering deel.
+5. Indien op advies van het Hof het geven van een aanwijzing achterwege blijft, nemen leden van het Hof die terzake hebben geadviseerd, niet aan de behandeling van de door de procureur-generaal overeenkomstig [artikel 583](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Derde&paragraaf=3&artikel=583&z=2015-01-01&g=2015-01-01) ingediende vordering deel.
 
 6. De tenuitvoerlegging van de in het eerste lid bedoelde sanctie geschiedt op last van de procureur-generaal.
 
@@ -5411,7 +5411,7 @@ Indien de procureur-generaal het in het belang van een goede rechtsbedeling gewe
 
 ##### Artikel 595
 
-1. Behoudens het bepaalde in het tweede lid beslist Onze Minister zo spoedig mogelijk na de ontvangst van een advies, als bedoeld in [artikel 594](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=1&artikel=594&z=2010-12-15&g=2010-12-15), omtrent het daaraan te geven gevolg. Daarbij neemt hij, indien het verzoek tot tenuitvoerlegging op een verdrag kan worden gegrond, de bepalingen van dat verdrag in acht.
+1. Behoudens het bepaalde in het tweede lid beslist Onze Minister zo spoedig mogelijk na de ontvangst van een advies, als bedoeld in [artikel 594](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=1&artikel=594&z=2015-01-01&g=2015-01-01), omtrent het daaraan te geven gevolg. Daarbij neemt hij, indien het verzoek tot tenuitvoerlegging op een verdrag kan worden gegrond, de bepalingen van dat verdrag in acht.
 
 2. Indien het advies van de procureur-generaal betrekking heeft op een veroordeelde die zich in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt, aan wie een tot vrijheidsontneming strekkende sanctie is opgelegd en die niet heeft verklaard met de overdracht van de tenuitvoerlegging van die sanctie in te stemmen, dan laat Onze Minister, zo hij voornemens is gevolg te geven aan dit advies, alvorens een beslissing te nemen, de veroordeelde schriftelijk van dit advies in kennis stellen. Daarbij wordt de veroordeelde meegedeeld, dat hij binnen veertien dagen na ontvangst van de kennisgeving tegen het voornemen van Onze Minister een bezwaarschrift kan indienen bij het gerecht, dat in hoogste feitelijke instantie de tot vrijheidsontneming strekkende sanctie heeft opgelegd.
 
@@ -5433,9 +5433,9 @@ Tenzij Onze Minister reeds aanstonds van oordeel is, dat het verzoek van een bui
 
 ##### Artikel 598
 
-1. Zo spoedig mogelijk na de ontvangst van de in [artikel 597](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=2&artikel=597&z=2010-12-15&g=2010-12-15) bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 595](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=1&artikel=595&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+1. Zo spoedig mogelijk na de ontvangst van de in [artikel 597](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=2&artikel=597&z=2015-01-01&g=2015-01-01) bedoelde adviezen beslist Onze Minister over het gevolg, te geven aan het in dat artikel bedoelde verzoek. [Artikel 595](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=1&artikel=595&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
-2. Van zijn beslissing geeft Onze Minister onverwijld kennis aan het in [artikel 597](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=2&artikel=597&z=2010-12-15&g=2010-12-15) bedoelde gerecht en aan de procureur-generaal.
+2. Van zijn beslissing geeft Onze Minister onverwijld kennis aan het in [artikel 597](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Vierde&paragraaf=2&artikel=597&z=2015-01-01&g=2015-01-01) bedoelde gerecht en aan de procureur-generaal.
 
 #### Par. 3. Overbrenging
 
@@ -5467,13 +5467,13 @@ Op de krachtens deze titel gegeven bevelen tot voorlopige vrijheidsontneming of 
 
 ##### Artikel 602
 
-1. Het bij en krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2010-12-15&g=2010-12-15) bepaalde is van overeenkomstige toepassing ten aanzien van de veroordeelde wie op grond van [artikel 576, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=576&z=2010-12-15&g=2010-12-15), voorlopig zijn vrijheid is ontnomen.
+1. Het bij en krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=62&z=2015-01-01&g=2015-01-01) bepaalde is van overeenkomstige toepassing ten aanzien van de veroordeelde wie op grond van [artikel 576, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IX&afdeling=Tweede&paragraaf=A&artikel=576&z=2015-01-01&g=2015-01-01), voorlopig zijn vrijheid is ontnomen.
 
-2. Het bij en krachtens de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2010-12-15&g=2010-12-15) en [65 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2010-12-15&g=2010-12-15) bepaalde, alsmede het in dit Wetboek bepaalde betreffende het optreden van de raadsman en de kennisneming van processtukken is van overeenkomstige toepassing.
+2. Het bij en krachtens de [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=1&artikel=63&z=2015-01-01&g=2015-01-01) en [65 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&afdeling=Derde&paragraaf=2&artikel=65&z=2015-01-01&g=2015-01-01) bepaalde, alsmede het in dit Wetboek bepaalde betreffende het optreden van de raadsman en de kennisneming van processtukken is van overeenkomstige toepassing.
 
 ##### Artikel 603
 
-In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in de openbare lichamen Bonaire, Sint Eustatius en Saba niet behoort plaats te vinden, kan het Hof op verzoek van de veroordeelde hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsontneming, bevolen krachtens deze titel. [Titel XVI van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2010-12-15&g=2010-12-15) is van toepassing.
+In gevallen waarin onherroepelijk is vastgesteld dat tenuitvoerlegging van een buitenlandse rechterlijke beslissing in de openbare lichamen Bonaire, Sint Eustatius en Saba niet behoort plaats te vinden, kan het Hof op verzoek van de veroordeelde hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden en kosten die hij heeft gemaakt ten gevolge van voorlopige vrijheidsontneming, bevolen krachtens deze titel. [Titel XVI van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XVI&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ##### Artikel 604
 
@@ -5509,7 +5509,7 @@ Het openbaar ministerie kan voor de tenuitvoerlegging van rechterlijke of eigen 
 
 1. Voor zover niet anders is bepaald, mag geen beslissing worden tenuitvoergelegd, zolang daartegen nog enig gewoon rechtsmiddel openstaat en, zo dit is aangewend, totdat het is ingetrokken of daarop is beslist.
 
-2. Is een mededeling als bedoeld in [artikel 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2010-12-15&g=2010-12-15) voorgeschreven, dan kan de tenuitvoerlegging van het vonnis geschieden na de betekening van die mededeling. Bij vonnissen bij verstek gewezen, waarbij zodanige mededeling niet behoeft te geschieden, kan de tenuitvoerlegging geschieden na de uitspraak. Door verzet, hoger beroep of beroep in cassatie wordt de tenuitvoerlegging geschorst of opgeschort.
+2. Is een mededeling als bedoeld in [artikel 411](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&afdeling=Vijfde&artikel=411&z=2015-01-01&g=2015-01-01) voorgeschreven, dan kan de tenuitvoerlegging van het vonnis geschieden na de betekening van die mededeling. Bij vonnissen bij verstek gewezen, waarbij zodanige mededeling niet behoeft te geschieden, kan de tenuitvoerlegging geschieden na de uitspraak. Door verzet, hoger beroep of beroep in cassatie wordt de tenuitvoerlegging geschorst of opgeschort.
 
 3. De laatste volzin van het tweede lid geldt niet:
 
@@ -5525,19 +5525,19 @@ De tenuitvoerlegging of ingang van straffen wordt opgeschort gedurende acht dage
 
 ##### Artikel 611
 
-1. Een verzoekschrift om gratie, dat is ingediend binnen de in [artikel 610](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=610&z=2010-12-15&g=2010-12-15) bedoelde termijn ter griffie van het Hof, schort de tenuitvoerlegging of ingang van de straf waarvan gratie wordt verzocht op, totdat op het verzoek is beschikt.
+1. Een verzoekschrift om gratie, dat is ingediend binnen de in [artikel 610](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=610&z=2015-01-01&g=2015-01-01) bedoelde termijn ter griffie van het Hof, schort de tenuitvoerlegging of ingang van de straf waarvan gratie wordt verzocht op, totdat op het verzoek is beschikt.
 
 2. De griffier maakt onverwijld het openbaar ministerie bekend met de indiening van een ter griffie ontvangen verzoekschrift. Hij tekent de dag van indiening op het verzoekschrift aan. Het verzoekschrift wordt vervolgens, voorzien van het advies van de rechter naar Onze Minister van Justitie opgezonden.
 
 ##### Artikel 612
 
-1. De [artikelen 610](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=610&z=2010-12-15&g=2010-12-15) en [611](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=611&z=2010-12-15&g=2010-12-15), eerste lid, blijven buiten toepassing:
+1. De [artikelen 610](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=610&z=2015-01-01&g=2015-01-01) en [611](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=611&z=2015-01-01&g=2015-01-01), eerste lid, blijven buiten toepassing:
 
 - a. indien de veroordeelde te kennen geeft de opschorting van de tenuitvoerlegging of ingang van de straf niet te wensen;
 
 - b. indien, voor zover het betreft vrijheidsstraffen, op het tijdstip dat het vonnis in kracht van gewijsde gaat, de veroordeelde zich ter zake van het feit waarvoor hij bij dat vonnis is veroordeeld, in voorlopige hechtenis bevindt.
 
-2. De in het eerste lid, onderdeel a, bedoelde kennisgeving wordt, hetzij in persoon hetzij door iemand die daartoe bepaaldelijk door de veroordeelde is gemachtigd, gedaan aan de griffier van het gerecht dat het vonnis heeft uitgesproken. [Artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2010-12-15&g=2010-12-15) is van overeenkomstige toepassing.
+2. De in het eerste lid, onderdeel a, bedoelde kennisgeving wordt, hetzij in persoon hetzij door iemand die daartoe bepaaldelijk door de veroordeelde is gemachtigd, gedaan aan de griffier van het gerecht dat het vonnis heeft uitgesproken. [Artikel 447](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zesde&titeldeel=A&titeldeel=IV&artikel=447&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing.
 
 ##### Artikel 613
 
@@ -5561,15 +5561,15 @@ Een verzoekschrift om gratie dat van een derde afkomstig is, wordt buiten verder
 
 1. Indien voor de tenuitvoerlegging van een in kracht van gewijsde gegaan vonnis, houdende veroordeling tot vrijheidsstraf of tot de straf van berisping, de veroordeelde krankzinnig is geworden, beveelt het gerecht dat het vonnis heeft uitgesproken, de opschorting van de tenuitvoerlegging.
 
-2. De opschorting wordt bevolen, hetzij op de vordering van het openbaar ministerie, hetzij op het verzoekschrift van de advocaat van de veroordeelde.Ten aanzien van de advocaat gelden de bepalingen van de [Tweede Titel van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&z=2010-12-15&g=2010-12-15).
+2. De opschorting wordt bevolen, hetzij op de vordering van het openbaar ministerie, hetzij op het verzoekschrift van de advocaat van de veroordeelde.Ten aanzien van de advocaat gelden de bepalingen van de [Tweede Titel van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&z=2015-01-01&g=2015-01-01).
 
 3. Na het herstel wordt het bevel tot opschorting door hetzelfde gerecht, op vordering van het openbaar ministerie, ingetrokken.
 
 ##### Artikel 617
 
-1. Indien, ondanks de krankzinnigheid van de veroordeelde, de tenuitvoerlegging van andere dan bij [artikel 616](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=616&z=2010-12-15&g=2010-12-15) bedoelde straffen mogelijk is, wordt de curator op de gewone wijze tot voldoening aan het vonnis uitgenodigd. Zo de veroordeelde nog geen curator heeft, wordt deze zo nodig te dien einde op de vordering van het openbaar ministerie benoemd.
+1. Indien, ondanks de krankzinnigheid van de veroordeelde, de tenuitvoerlegging van andere dan bij [artikel 616](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=616&z=2015-01-01&g=2015-01-01) bedoelde straffen mogelijk is, wordt de curator op de gewone wijze tot voldoening aan het vonnis uitgenodigd. Zo de veroordeelde nog geen curator heeft, wordt deze zo nodig te dien einde op de vordering van het openbaar ministerie benoemd.
 
-2. Ten aanzien van de vervangende straf is [artikel 616](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=616&z=2010-12-15&g=2010-12-15) van toepassing.
+2. Ten aanzien van de vervangende straf is [artikel 616](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=616&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ### Afdeling Derde. Tenuitvoerlegging van bevelen tot vrijheidsontneming en veroordelende vonnissen
 
@@ -5583,17 +5583,17 @@ Een verzoekschrift om gratie dat van een derde afkomstig is, wordt buiten verder
 
 4. Hij die overeenkomstig de last een persoon heeft aangehouden, geleidt deze onverwijld naar de plaats of voor de rechter of ambtenaar, in de last vermeld.
 
-5. Geschiedt de aanhouding buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, dan zijn de [artikelen 522](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2010-12-15&g=2010-12-15), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=534&z=2010-12-15&g=2010-12-15) en [535](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=535&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+5. Geschiedt de aanhouding buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, dan zijn de [artikelen 522](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Eerste&artikel=522&z=2015-01-01&g=2015-01-01), [534](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=534&z=2015-01-01&g=2015-01-01) en [535](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=535&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 619
 
-1. Indien de aangehoudene beweert niet te zijn de persoon tegen wie de last is gericht, zal hij, indien hij krachtens [artikel 618](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=618&z=2010-12-15&g=2010-12-15) naar een andere plaats moet worden overgebracht, tevoren in de gelegenheid worden gesteld om te worden gehoord door de rechter in eerste aanleg.
+1. Indien de aangehoudene beweert niet te zijn de persoon tegen wie de last is gericht, zal hij, indien hij krachtens [artikel 618](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=618&z=2015-01-01&g=2015-01-01) naar een andere plaats moet worden overgebracht, tevoren in de gelegenheid worden gesteld om te worden gehoord door de rechter in eerste aanleg.
 
 2. Is hij aangehouden buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, dan geeft hij, die de aanhouding heeft verricht, onverwijld en op de snelst mogelijke wijze van die bewering van de aangehoudene kennis aan het openbaar ministerie.
 
 ##### Artikel 620
 
-De met de tenuitvoerlegging belaste ambtenaar kan ter aanhouding van de te vatten persoon elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2010-12-15&g=2010-12-15) zijn van toepassing. Geschiedt de aanhouding echter buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, dan is [artikel 539](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=539&z=2010-12-15&g=2010-12-15) van overeenkomstige toepassing.
+De met de tenuitvoerlegging belaste ambtenaar kan ter aanhouding van de te vatten persoon elke plaats betreden. De [artikelen 155 tot en met 164](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=X&artikel=155&z=2015-01-01&g=2015-01-01) zijn van toepassing. Geschiedt de aanhouding echter buiten het rechtsgebied van Bonaire, Sint Eustatius en Saba, dan is [artikel 539](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=VI&afdeling=Tweede&artikel=539&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 621
 
@@ -5655,11 +5655,11 @@ Het hoofd van de gevangenis of andere inrichting, waarin de straf van vrijheidso
 
 ##### Artikel 626
 
-Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worden zij voor de toepassing van [artikel 625, eerste lid, aanhef en onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=625&z=2010-12-15&g=2010-12-15), als één straf aangemerkt.
+Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worden zij voor de toepassing van [artikel 625, eerste lid, aanhef en onderdelen a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=625&z=2015-01-01&g=2015-01-01), als één straf aangemerkt.
 
 ##### Artikel 627
 
-1. Het Hof van Justitie waakt voor de nakoming van de voorschriften van de [artikelen 621 tot en met 625](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=621&z=2010-12-15&g=2010-12-15) en doet te dien einde de gevangenis en andere inrichtingen door een of meer leden op onbepaalde tijden, doch tenminste tweemaal ’s jaars, bezoeken.
+1. Het Hof van Justitie waakt voor de nakoming van de voorschriften van de [artikelen 621 tot en met 625](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=621&z=2015-01-01&g=2015-01-01) en doet te dien einde de gevangenis en andere inrichtingen door een of meer leden op onbepaalde tijden, doch tenminste tweemaal ’s jaars, bezoeken.
 
 2. Van de bevindingen wordt telkenmale schriftelijk verslag gedaan aan Onze Minister van Justitie.
 
@@ -5673,7 +5673,7 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 ##### Artikel 629
 
-1. Bij gebreke van volledige betaling binnen de ingevolge [artikel 615](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2010-12-15&g=2010-12-15) bepaalde termijn wordt het verschuldigde bedrag, na voorafgaande schriftelijke waarschuwing, op de goederen van de veroordeelde verhaald. In verband met het verhaal kan woonplaats worden gekozen ten parkette van het openbaar ministerie dat met de tenuitvoerlegging is belast.
+1. Bij gebreke van volledige betaling binnen de ingevolge [artikel 615](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2015-01-01&g=2015-01-01) bepaalde termijn wordt het verschuldigde bedrag, na voorafgaande schriftelijke waarschuwing, op de goederen van de veroordeelde verhaald. In verband met het verhaal kan woonplaats worden gekozen ten parkette van het openbaar ministerie dat met de tenuitvoerlegging is belast.
 
 2. Het met de tenuitvoerlegging belaste openbaar ministerie kan van het nemen van verhaal afzien.
 
@@ -5683,7 +5683,7 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 ##### Artikel 629a
 
-1. Op voorwerpen en vorderingen, inbeslaggenomen op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15), geschiedt het verhaal op de wijze voorzien in het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) krachtens de onherroepelijke einduitspraak waarbij de geldboete is opgelegd.
+1. Op voorwerpen en vorderingen, inbeslaggenomen op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01), geschiedt het verhaal op de wijze voorzien in het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) krachtens de onherroepelijke einduitspraak waarbij de geldboete is opgelegd.
 
 2. De einduitspraak, bedoeld in het eerste lid, geldt als executoriale titel. Betekening van deze titel aan de veroordeelde en, zo het beslag onder een derde is gelegd, ook aan deze, kan plaatsvinden door betekening van een kennisgeving inhoudende de bij de einduitspraak opgelegde straf, voor zover voor het nemen van verhaal van belang.
 
@@ -5691,9 +5691,9 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 ##### Artikel 630
 
-1. Op voorwerpen en vorderingen van de veroordeelde die niet op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2010-12-15&g=2010-12-15) in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel medebrengende het recht om die goederen zonder vonnis aan te tasten.
+1. Op voorwerpen en vorderingen van de veroordeelde die niet op grond van [artikel 119a](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Eerste&artikel=119a&z=2015-01-01&g=2015-01-01) in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel medebrengende het recht om die goederen zonder vonnis aan te tasten.
 
-2. Het dwangbevel wordt in naam des Konings uitgevaardigd door het openbaar ministerie. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.
+2. Het dwangbevel wordt in naam van de Koning uitgevaardigd door het openbaar ministerie. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.
 
 3. De tenuitvoerlegging van het dwangbevel kan niet worden geschorst dan door een verzet, dat evenwel nimmer gericht zal kunnen zijn tegen het vonnis waarbij de geldboete werd opgelegd. Verzet wordt gedaan bij een met redenen omkleed bezwaarschrift, dat voor de verkoop en uiterlijk binnen zeven dagen te rekenen van de dag van de inbeslagneming, wordt ingediend bij het gerecht waartoe de rechter behoort, die de straf heeft opgelegd. Het gerecht geeft binnen zeven dagen, na zo nodig de veroordeelde en de ambtenaar die het dwangbevel heeft uitgevaardigd, te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen om te verschijnen, zijn met redenen omklede beschikking, die onverwijld aan de veroordeelde wordt betekend.
 
@@ -5709,7 +5709,7 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 - c. het tegoed van een rekening bij een bank- of giro- instelling waarover de veroordeelde ten eigen bate vermag te beschikken.
 
-2. Verhaal met toepassing van het eerste lid geschiedt door middel van een schriftelijke kennisgeving van het openbaar ministerie. De kennisgeving bevat een voor de uitoefening van het verhaal voldoende aanduiding van de persoon van de veroordeelde, en vermeldt welk bedrag uit hoofde van de veroordeling nog verschuldigd is, bij welke rechterlijke uitspraak de geldboete is opgelegd, alsmede de plaats waar de betaling moet geschieden. Zij wordt betekend aan de veroordeelde en aan degene onder wie het verhaal wordt genomen. De [artikelen 517 tot en met 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+2. Verhaal met toepassing van het eerste lid geschiedt door middel van een schriftelijke kennisgeving van het openbaar ministerie. De kennisgeving bevat een voor de uitoefening van het verhaal voldoende aanduiding van de persoon van de veroordeelde, en vermeldt welk bedrag uit hoofde van de veroordeling nog verschuldigd is, bij welke rechterlijke uitspraak de geldboete is opgelegd, alsmede de plaats waar de betaling moet geschieden. Zij wordt betekend aan de veroordeelde en aan degene onder wie het verhaal wordt genomen. De [artikelen 517 tot en met 520](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=V&artikel=517&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 3. Door de betekening van de kennisgeving is degene onder wie het verhaal wordt genomen, verplicht tot betaling aan 's Rijks kas van het in de kennisgeving bedoelde bedrag voor zover de veroordeelde op hem een opeisbare vordering heeft of verkrijgt. Het openbaar ministerie bepaalt de termijn waarbinnen de betaling moet geschieden. De verplichting tot betaling vervalt, zodra het uit hoofde van de veroordeling verschuldigde bedrag is betaald of verhaald en uiterlijk wanneer twee jaren na de dag van betekening zijn verstreken.
 
@@ -5717,15 +5717,15 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 5. Indien verhaal is genomen op een periodieke uitkering, die ingevolge enig wettelijk voorschrift niet vatbaar is voor beslag, kan telkens ten hoogste een vijfde gedeelte van de uitkering tot betaling van het uit hoofde van de veroordeling verschuldigde bedrag worden bestemd. Overigens strekt het verhaal zich niet uit tot gelden, waarvan bij wettelijke regeling bepaald is dat zij niet voor inbeslagneming vatbaar zijn.
 
-6. Iedere belanghebbende kan zich binnen zeven dagen na de betekening van de in het tweede lid van dit artikel bedoelde kennisgeving bij met redenen omkleed bezwaarschrift verzetten tegen het verhaal. [Artikel 630, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=630&z=2010-12-15&g=2010-12-15), is op dit verzet van toepassing.
+6. Iedere belanghebbende kan zich binnen zeven dagen na de betekening van de in het tweede lid van dit artikel bedoelde kennisgeving bij met redenen omkleed bezwaarschrift verzetten tegen het verhaal. [Artikel 630, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=630&z=2015-01-01&g=2015-01-01), is op dit verzet van toepassing.
 
-7. Een ieder, behoudens de veroordeelde, is verplicht desgevorderd aan het openbaar ministerie de inlichtingen te verstrekken, die naar het redelijk oordeel van het openbaar ministerie noodzakelijk zijn ten behoeve van de toepassing van het eerste lid van dit artikel. De [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2010-12-15&g=2010-12-15) en [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2010-12-15&g=2010-12-15) zijn van overeenkomstige toepassing.
+7. Een ieder, behoudens de veroordeelde, is verplicht desgevorderd aan het openbaar ministerie de inlichtingen te verstrekken, die naar het redelijk oordeel van het openbaar ministerie noodzakelijk zijn ten behoeve van de toepassing van het eerste lid van dit artikel. De [artikelen 251](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=251&z=2015-01-01&g=2015-01-01) en [252](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vierde&titeldeel=III&afdeling=Vierde&artikel=252&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 632
 
-1. Indien niet in beslag genomen voorwerpen verbeurd zijn verklaard, dan wel openbaarmaking van de uitspraak op kosten van de veroordeelde is bevolen, vinden de [artikelen 615, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2010-12-15&g=2010-12-15), en [628](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=628&z=2010-12-15&g=2010-12-15) overeenkomstig toepassing.
+1. Indien niet in beslag genomen voorwerpen verbeurd zijn verklaard, dan wel openbaarmaking van de uitspraak op kosten van de veroordeelde is bevolen, vinden de [artikelen 615, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2015-01-01&g=2015-01-01), en [628](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=628&z=2015-01-01&g=2015-01-01) overeenkomstig toepassing.
 
-2. Wanneer binnen de daarvoor bepaalde termijn noch uitlevering van de voorwerpen, noch betaling van de geschatte waarde plaatsheeft, dan wel de kosten van openbaarmaking niet worden betaald, vinden de [artikelen 629 tot en met 631](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=629&z=2010-12-15&g=2010-12-15) overeenkomstig toepassing.
+2. Wanneer binnen de daarvoor bepaalde termijn noch uitlevering van de voorwerpen, noch betaling van de geschatte waarde plaatsheeft, dan wel de kosten van openbaarmaking niet worden betaald, vinden de [artikelen 629 tot en met 631](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=629&z=2015-01-01&g=2015-01-01) overeenkomstig toepassing.
 
 ##### Artikel 633
 
@@ -5733,7 +5733,7 @@ Verbeurdverklaring van vorderingen wordt ten uitvoer gelegd door betekening van 
 
 ##### Artikel 634
 
-1. Indien de maatregel bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) is opgelegd, vinden de [artikelen 615, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2010-12-15&g=2010-12-15), [628 tot en met 631](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=628&z=2010-12-15&g=2010-12-15) overeenkomstig toepassing.
+1. Indien de maatregel bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) is opgelegd, vinden de [artikelen 615, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Tweede&artikel=615&z=2015-01-01&g=2015-01-01), [628 tot en met 631](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Derde&artikel=628&z=2015-01-01&g=2015-01-01) overeenkomstig toepassing.
 
 2. Op de vordering van het openbaar ministerie, of op het schriftelijke verzoek van de veroordeelde of van een benadeelde derde, kan de rechter die de in het eerste lid genoemde maatregel heeft opgelegd, het daarin vastgestelde bedrag en de bevolen vervangende hechtenis verminderen of kwijtschelden. Is het bedrag reeds betaald of verhaald dan kan de rechter bevelen dat het geheel of gedeeltelijk zal worden teruggegeven of aan een door hem aangewezen derde uitgekeerd. Het bevel laat ieders recht op het teruggegeven of uitgekeerde bedrag onverlet.
 
@@ -5755,7 +5755,7 @@ Indien het openbaar ministerie overeenkomstig [artikel 76 van het Wetboek van St
 
 ##### Artikel 635a
 
-1. Indien de officier van justitie overeenkomstig [artikel 503b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503b&z=2010-12-15&g=2010-12-15) een schikking met de verdachte of veroordeelde aangaat, bepaalt hij de termijn waarbinnen aan de termen van die schikking moet worden voldaan.Tot dat tijdstip is de termijn waarbinnen ingevolge [artikel 503a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503a&z=2010-12-15&g=2010-12-15), een vordering aanhangig moet zijn gemaakt geschorst. Door voldoening aan die termen vervalt het recht tot indiening van de vordering of is, indien die vordering reeds is ingediend, de zaak van rechtswege geëindigd.
+1. Indien de officier van justitie overeenkomstig [artikel 503b](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503b&z=2015-01-01&g=2015-01-01) een schikking met de verdachte of veroordeelde aangaat, bepaalt hij de termijn waarbinnen aan de termen van die schikking moet worden voldaan.Tot dat tijdstip is de termijn waarbinnen ingevolge [artikel 503a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=IIIa&artikel=503a&z=2015-01-01&g=2015-01-01), een vordering aanhangig moet zijn gemaakt geschorst. Door voldoening aan die termen vervalt het recht tot indiening van de vordering of is, indien die vordering reeds is ingediend, de zaak van rechtswege geëindigd.
 
 2. Wanneer na voldoening aan die termen, bedoeld in het eerste lid, blijkt van omstandigheden die de toepasselijkheid van de maatregel bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=38e) zouden hebben uitgesloten, kan de gewezen verdachte of veroordeelde de officier van justitie verzoeken om teruggave van betaalde geldbedragen of overgedragen voorwerpen.
 
@@ -5775,15 +5775,15 @@ Indien iemand die tot het ondergaan van straf is aangehouden, blijft ontkennen d
 
 1. Tot het onderzoek wordt, op de vordering van het openbaar ministerie, in een door de rechter te bepalen terechtzitting met de meeste spoed overgegaan.
 
-2. Het openbaar ministerie doet de aangehoudene, de getuigen die van zijnentwege zullen worden verhoord en die waarop de aangehoudene zich beroept, dagvaarden. Het tweede lid van [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2010-12-15&g=2010-12-15) vindt met betrekking tot al deze getuigen overeenkomstig toepassing.
+2. Het openbaar ministerie doet de aangehoudene, de getuigen die van zijnentwege zullen worden verhoord en die waarop de aangehoudene zich beroept, dagvaarden. Het tweede lid van [artikel 287](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=287&z=2015-01-01&g=2015-01-01) vindt met betrekking tot al deze getuigen overeenkomstig toepassing.
 
-3. Indien het openbaar ministerie weigert een getuige te dagvaarden, kan de rechter op het verzoek van de aangehoudene, de dagvaarding bevelen. Het tweede tot en met vijfde lid van [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2010-12-15&g=2010-12-15) vinden in het laatste geval overeenkomstig toepassing.
+3. Indien het openbaar ministerie weigert een getuige te dagvaarden, kan de rechter op het verzoek van de aangehoudene, de dagvaarding bevelen. Het tweede tot en met vijfde lid van [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=I&artikel=289&z=2015-01-01&g=2015-01-01) vinden in het laatste geval overeenkomstig toepassing.
 
-4. Indien de zaak bij de rechter in eerste aanleg is aangebracht, wordt de aangehoudene door de rechter een raadsman toegevoegd. Ten aanzien van de raadsman gelden de bepalingen van de [Tweede Titel van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&z=2010-12-15&g=2010-12-15).
+4. Indien de zaak bij de rechter in eerste aanleg is aangebracht, wordt de aangehoudene door de rechter een raadsman toegevoegd. Ten aanzien van de raadsman gelden de bepalingen van de [Tweede Titel van het Tweede Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Tweede&titeldeel=II&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 638
 
-Het onderzoek en de beslissing geschieden overeenkomstig de bepalingen van de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15). [Artikel 424](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=424&z=2010-12-15&g=2010-12-15) vindt overeenkomstig toepassing.
+Het onderzoek en de beslissing geschieden overeenkomstig de bepalingen van de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01). [Artikel 424](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=V&artikel=424&z=2015-01-01&g=2015-01-01) vindt overeenkomstig toepassing.
 
 ##### Artikel 639
 
@@ -5793,7 +5793,7 @@ Indien de rechter de identiteit niet aanneemt, gelast hij de invrijheidstelling.
 
 1. De vonnissen houdende beslissingen omtrent de identiteit, zijn vatbaar voor zodanig beroep als tegen de vonnissen waarbij over het strafbare feit uitspraak werd gedaan, openstond.
 
-2. Het beroep wordt naar de gewone regelen ingesteld en behandeld. Het onderzoek en de beslissing geschieden overeenkomstig de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2010-12-15&g=2010-12-15).
+2. Het beroep wordt naar de gewone regelen ingesteld en behandeld. Het onderzoek en de beslissing geschieden overeenkomstig de [Vierde Titel van het Vijfde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Vijfde&titeldeel=IV&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 641
 
@@ -5831,11 +5831,11 @@ De uitreiking geschiedt:
 
 ##### Artikel 645
 
-In het belang van een goede uitvoering van de [artikelen 642](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=642&z=2010-12-15&g=2010-12-15), [643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2010-12-15&g=2010-12-15) en [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2010-12-15&g=2010-12-15) kunnen bij of krachtens algemene maatregel van bestuur nadere voorschriften worden gegeven.
+In het belang van een goede uitvoering van de [artikelen 642](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=642&z=2015-01-01&g=2015-01-01), [643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2015-01-01&g=2015-01-01) en [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2015-01-01&g=2015-01-01) kunnen bij of krachtens algemene maatregel van bestuur nadere voorschriften worden gegeven.
 
 ##### Artikel 646
 
-1. Van iedere uitreiking, als bedoeld in [artikel 643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2010-12-15&g=2010-12-15), wordt een akte opgemaakt, waarin zijn vermeld:
+1. Van iedere uitreiking, als bedoeld in [artikel 643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2015-01-01&g=2015-01-01), wordt een akte opgemaakt, waarin zijn vermeld:
 
 - a. de autoriteit van welke het gerechtelijk schrijven uitgaat;
 
@@ -5857,7 +5857,7 @@ In het belang van een goede uitvoering van de [artikelen 642](https://wetten.ove
 
 ##### Artikel 647
 
-1. De betekening is nietig, indien de uitreiking niet heeft plaatsgehad overeenkomstig het bepaalde in de [artikelen 643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2010-12-15&g=2010-12-15), [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2010-12-15&g=2010-12-15) en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2010-12-15&g=2010-12-15).
+1. De betekening is nietig, indien de uitreiking niet heeft plaatsgehad overeenkomstig het bepaalde in de [artikelen 643](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=643&z=2015-01-01&g=2015-01-01), [644](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=644&z=2015-01-01&g=2015-01-01) en [646](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=I&afdeling=Vijfde&artikel=646&z=2015-01-01&g=2015-01-01).
 
 2. De nietigheid wordt gedekt door vrijwillige verschijning ter zitting van degene voor wie het schrijven bestemd was.
 
@@ -5873,7 +5873,7 @@ In het belang van een goede uitvoering van de [artikelen 642](https://wetten.ove
 
 4. Uitbetaling geschiedt door of vanwege Onze Minister van Financiën.
 
-5. Een en ander vindt overeenkomstige toepassing op rechtsgedingen tot herkenning van veroordeelden of van andere gevonniste personen en op de behandeling van klaagschriften, als bedoeld in de [artikelen 150 tot en met 151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2010-12-15&g=2010-12-15).
+5. Een en ander vindt overeenkomstige toepassing op rechtsgedingen tot herkenning van veroordeelden of van andere gevonniste personen en op de behandeling van klaagschriften, als bedoeld in de [artikelen 150 tot en met 151](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=IX&afdeling=Zevende&artikel=150&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 649
 
@@ -5881,9 +5881,9 @@ In het belang van een goede uitvoering van de [artikelen 642](https://wetten.ove
 
 2. Indien de zaak eindigt zonder oplegging van straf of maatregel, maar niet indien de gewezen verdachte is schuldig verklaard zonder oplegging van enige straf of maatregel, kan aan de gewezen verdachte of zijn erfgenamen uit 's Rijks kas een vergoeding worden toegekend voor de schade, die hij ten gevolge van hem niet toe te rekenen tijdverzuim door het voorbereidend vooronderzoek en de behandeling van de zaak ter terechtzitting werkelijk heeft geleden, alsmede in de kosten van een raadsman. Een vergoeding voor de kosten van een raadsman gedurende de verzekering en de voorlopige hechtenis is hierin begrepen. Een vergoeding voor deze kosten kan voorts worden toegekend in het geval dat de zaak eindigt met oplegging van straf of maatregel op grond van een feit, waarvoor voorlopige hechtenis niet is toegelaten.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing voor ouders van een minderjarige verdachte, die zijn opgeroepen ingevolge [artikel 489, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=489&z=2010-12-15&g=2010-12-15).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing voor ouders van een minderjarige verdachte, die zijn opgeroepen ingevolge [artikel 489, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Zevende&titeldeel=II&afdeling=Tweede&artikel=489&z=2015-01-01&g=2015-01-01).
 
-4. De [artikelen 178, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=178&z=2010-12-15&g=2010-12-15), en [648 tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=II&artikel=648&z=2010-12-15&g=2010-12-15), zijn van overeenkomstige toepassing.
+4. De [artikelen 178, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Derde&titeldeel=XXII&artikel=178&z=2015-01-01&g=2015-01-01), en [648 tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=II&artikel=648&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
 5. Indien de gewezen verdachte na het indienen van zijn verzoek overleden is, geschiedt de toekenning ten behoeve van zijn erfgenamen.
 
@@ -5893,7 +5893,7 @@ In het belang van een goede uitvoering van de [artikelen 642](https://wetten.ove
 
 2. De rechter-commissaris of de officier van justitie geeft daarvoor een bevelschrift van tenuitvoerlegging af.
 
-3. [Artikel 648, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=II&artikel=648&z=2010-12-15&g=2010-12-15), is van overeenkomstige toepassing.
+3. [Artikel 648, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&boek=Achtste&titeldeel=II&artikel=648&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 651
 
