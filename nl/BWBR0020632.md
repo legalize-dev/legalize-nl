@@ -4,7 +4,7 @@ identifier: "BWBR0020632"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020632"
 soort: "ministeriele-regeling"
@@ -42,15 +42,15 @@ Besluit:
 
 ##### Artikel 1. Begripsomschrijving
 
-Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
+Voor de toepassing van deze regeling wordt verstaan onder Wajong: [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
 ##### Artikel 2. Hoogte, betaling en indexering tegemoetkoming
 
 1. De jonggehandicapte, bedoeld in:
 
-- a. [artikel 2:15 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), voor zover deze een inkomensvoorziening ontvangt; of
+- a. [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), voor zover deze een inkomensvoorziening ontvangt; of
 
-- b. [artikel 3:3 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3),
+- b. [artikel 3:3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3),
 
 die op 1 januari van een kalenderjaar de leeftijd van 18, 19, 20, 21 of 22 jaar heeft bereikt, heeft met ingang van 1 januari van dat jaar gedurende dat jaar recht op een maandelijkse tegemoetkoming
 
@@ -66,7 +66,7 @@ die op 1 januari van een kalenderjaar de leeftijd van 18, 19, 20, 21 of 22 jaar 
 
 - e. voor een 22-jarige: € 1,61
 
-3. In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) of [3:3 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.
+3. In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) of [3:3 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:3), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.
 
 4. De betaling van de tegemoetkoming geschiedt tezamen met de betaling van de inkomensvoorziening of arbeidsongeschiktheidsuitkering.
 
