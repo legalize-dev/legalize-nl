@@ -4,7 +4,7 @@ identifier: "BWBR0019031"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-12-09"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019031"
 soort: "AMvB"
@@ -114,7 +114,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&z=2014-01-01&g=2014-01-01), worden de hoeveelheden meststoffen uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
+Voor de toepassing van dit besluit, met uitzondering van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&z=2015-01-01&g=2015-01-01), worden de hoeveelheden meststoffen uitgedrukt in kilogrammen of liters alsmede in kilogrammen stikstof en kilogrammen fosfaat.
 
 ### Hoofdstuk II. Aanwijzing veengronden, zand- of lössgronden en kleigronden
 
@@ -144,15 +144,15 @@ Voor de toepassing van [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:
 
 ##### Artikel 24
 
-1. Voor de toepassing van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2014-01-01&g=2014-01-01), van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte grasland in enig kalenderjaar de oppervlakte grasland die op 15 mei van dat jaar tot het bedrijf behoort.
+1. Voor de toepassing van [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2015-01-01&g=2015-01-01), van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte grasland in enig kalenderjaar de oppervlakte grasland die op 15 mei van dat jaar tot het bedrijf behoort.
 
-2. Voor de toepassing van [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2014-01-01&g=2014-01-01), van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte bouwland in enig kalenderjaar de oppervlakte bouwland die op 15 mei van dat jaar tot het bedrijf behoort.
+2. Voor de toepassing van [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2015-01-01&g=2015-01-01), van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte bouwland in enig kalenderjaar de oppervlakte bouwland die op 15 mei van dat jaar tot het bedrijf behoort.
 
 3. De oppervlakte grasland en bouwland wordt onderscheiden naar de fosfaattoestand van de desbetreffende grond, zoals deze wordt onderscheiden in [artikel 1, eerste lid, onderdelen u, v en w, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1).
 
 ##### Artikel 25
 
-Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), [11, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2014-01-01&g=2014-01-01) van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de [artikelen 3.80](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.80), [3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.81) en [3.85 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.85), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
+Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=9), [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10), [11, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=11), [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=21a&z=2015-01-01&g=2015-01-01) van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de [artikelen 3.80](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.80), [3.81](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.81) en [3.85 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=3.85), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond.
 
 ##### Artikel 26
 
@@ -170,7 +170,7 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. de overige te verstrekken gegevens, de wijze waarop deze gegevens worden verstrekt en de termijn waarbinnen wijzigingen in deze gegevens worden doorgegeven.
 
-3. Bij ministeriële regeling kan, in zoverre in afwijking van het eerste lid en van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=22&z=2014-01-01&g=2014-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=23&z=2014-01-01&g=2014-01-01), [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2014-01-01&g=2014-01-01), en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=25a&z=2014-01-01&g=2014-01-01), indien de weersomstandigheden of de bodemgesteldheid hiertoe aanleiding geven, een latere datum dan 15 mei worden vastgesteld.
+3. Bij ministeriële regeling kan, in zoverre in afwijking van het eerste lid en van de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=22&z=2015-01-01&g=2015-01-01), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=23&z=2015-01-01&g=2015-01-01), [24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2015-01-01&g=2015-01-01), en [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=25a&z=2015-01-01&g=2015-01-01), indien de weersomstandigheden of de bodemgesteldheid hiertoe aanleiding geven, een latere datum dan 15 mei worden vastgesteld.
 
 ### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
 
@@ -196,11 +196,11 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 29
 
-1. De capaciteit van de opslagruimte voor dierlijke meststoffen kan kleiner zijn dan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01) vereiste capaciteit, voor zover de producent van dierlijke meststoffen kan aantonen dat:
+1. De capaciteit van de opslagruimte voor dierlijke meststoffen kan kleiner zijn dan de ingevolge [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2015-01-01&g=2015-01-01) vereiste capaciteit, voor zover de producent van dierlijke meststoffen kan aantonen dat:
 
-- a. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;
+- a. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2015-01-01&g=2015-01-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;
 
-- b. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland of grasland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4) gestelde verbod niet geldt;
+- b. de overeenkomstig [artikel 28, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2015-01-01&g=2015-01-01), berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland of grasland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009066&artikel=4) gestelde verbod niet geldt;
 
 - c. het aantal dieren dat in de periode van augustus tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1), is toegestaan; of
 
@@ -210,7 +210,7 @@ Voor de toepassing van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ##### Artikel 30
 
-Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden betreffende de soort of de categorie van de gehouden dieren, het huisvestingssysteem, het drinkwatersysteem, de samenstelling van het diervoeder of andere aspecten van het bedrijfssysteem, de hoeveelheid dierlijke meststoffen per dier lager is dan de krachtens [artikel 28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01), vastgestelde norm, geldt deze lagere waarde voor de toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=29&z=2014-01-01&g=2014-01-01).
+Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden betreffende de soort of de categorie van de gehouden dieren, het huisvestingssysteem, het drinkwatersysteem, de samenstelling van het diervoeder of andere aspecten van het bedrijfssysteem, de hoeveelheid dierlijke meststoffen per dier lager is dan de krachtens [artikel 28, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2015-01-01&g=2015-01-01), vastgestelde norm, geldt deze lagere waarde voor de toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=28&z=2015-01-01&g=2015-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=V&artikel=29&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
 
@@ -240,7 +240,7 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 1. De landbouwer houdt per bedrijf en per kalenderjaar een inzichtelijke administratie bij.
 
-2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2014-01-01&g=2014-01-01), alsmede gegevens over:
+2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2015-01-01&g=2015-01-01), alsmede gegevens over:
 
 - a. de civielrechtelijke titel die het exclusieve gebruiksgenot verschaft van elk van de tot het bedrijf behorende productie-eenheden;
 
@@ -258,11 +258,11 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 - d. de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen en kalkoenen en het gemiddeld in het kalenderjaar op het bedrijf gehouden aantal van deze dieren, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II);
 
-- e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) gestelde regels;
+- e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) gestelde regels;
 
 - f. de hoeveelheden aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de afvoer heeft plaatsgevonden ter uitvoering van [artikel 33a, tweede lid, onderdeel b, onder 1°, onderdeel e, of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), de datum waarop de aan- of afvoer plaatsvond en gegevens over het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming, dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;
 
-- g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in [artikel 33a, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) heeft gesloten;
+- g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in [artikel 21, tweede lid, onderdeel d, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) heeft gesloten;
 
 - h. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a) heeft gesloten, waarbij onderscheid wordt gemaakt in de hoeveelheid die de landbouwer laat verwerken door middel van het sluiten van die overeenkomst, en de hoeveelheid die een landbouwer ingevolge artikel 33a, vijfde lid, van de wet moet laten verwerken;
 
@@ -274,11 +274,11 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 - l. de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=10) vastgestelde ministeriële regeling.
 
-3. De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in [artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), als onderdeel van zijn administratie.
+3. De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in [artikel 21, tweede lid, onderdeel d, onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21) en [artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), als onderdeel van zijn administratie.
 
 ##### Artikel 33
 
-1. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van melkkoeien, bevat de administratie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01), tevens gegevens over:
+1. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van melkkoeien, bevat de administratie, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01), tevens gegevens over:
 
 - a. de geproduceerde hoeveelheid koemelk; en
 
@@ -286,13 +286,13 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 2. Indien op een bedrijf dierlijke meststoffen worden geproduceerd afkomstig van staldieren, bevat de administratie tevens gegevens over:
 
-- a. de aantallen en de herkomst of de bestemming van de aan- en afgevoerde staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) gestelde regels;
+- a. de aantallen en de herkomst of de bestemming van de aan- en afgevoerde staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) gestelde regels;
 
 - b. de samenstelling en de hoeveelheid van de op het bedrijf geproduceerde diervoeders, alsmede de samenstelling, de hoeveelheid en de herkomst van de op het bedrijf aangevoerde diervoeders;
 
 - c. de op het bedrijf geproduceerde eieren die van het bedrijf zijn afgevoerd;
 
-- d. de aan het eind van het kalenderjaar op het bedrijf aanwezige voorraden diervoeders en geproduceerde eieren, alsmede de aanwezige staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) gestelde regels; en
+- d. de aan het eind van het kalenderjaar op het bedrijf aanwezige voorraden diervoeders en geproduceerde eieren, alsmede de aanwezige staldieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) gestelde regels; en
 
 - e. de op het bedrijf toegepaste stalsystemen.
 
@@ -330,21 +330,21 @@ Ingeval de producent kan aantonen dat, als gevolg van bijzondere omstandigheden 
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2014-01-01&g=2014-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2015-01-01&g=2015-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2014-01-01&g=2014-01-01), wordt gevoerd, de plaats waar deze met het oog op het toezicht op de naleving beschikbaar moet zijn en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2015-01-01&g=2015-01-01), wordt gevoerd, de plaats waar deze met het oog op het toezicht op de naleving beschikbaar moet zijn en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2014-01-01&g=2014-01-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2015-01-01&g=2015-01-01), bevat;
 
-- d. de gegevens die ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2014-01-01&g=2014-01-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
+- d. de gegevens die ingevolge [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2015-01-01&g=2015-01-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2014-01-01&g=2014-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2014-01-01&g=2014-01-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing zijn ten aanzien van bedrijven of onderdelen van bedrijven; en
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=31&z=2015-01-01&g=2015-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=33&z=2015-01-01&g=2015-01-01) of [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing zijn ten aanzien van bedrijven of onderdelen van bedrijven; en
 
-- f. de omvang van het grensgebied, bedoeld in [artikel 32, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01).
+- f. de omvang van het grensgebied, bedoeld in [artikel 32, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 37
 
-De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2014-01-01&g=2014-01-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
+De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2015-01-01&g=2015-01-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
 ### Hoofdstuk VII. Administratieve verplichtingen intermediairs
 
@@ -364,7 +364,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - e. de aard van de activiteiten die in het kader van de onderneming worden uitgeoefend;
 
-- f. de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), voorgeschreven apparatuur die in het kader van zijn onderneming wordt gebruikt of is bestemd om te worden gebruikt;
+- f. de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01), voorgeschreven apparatuur die in het kader van zijn onderneming wordt gebruikt of is bestemd om te worden gebruikt;
 
 - g. de apparatuur voor automatische gegevensregistratie die exclusief bij deze onderneming in gebruik is;
 
@@ -378,9 +378,9 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 1. De intermediair houdt per onderneming een inzichtelijke administratie bij.
 
-2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2014-01-01&g=2014-01-01), alsmede gegevens over:
+2. De administratie bevat in ieder geval de gegevens, bedoeld in [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2015-01-01&g=2015-01-01), alsmede gegevens over:
 
-- a. de hoeveelheden in het kader van de onderneming aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de aan- of afvoer heeft plaatsgevonden ter uitvoering van artikel 33a, tweede lid, onderdeel b, onder 1°, vierde of vijfde lid, en artikel 33d, eerste lid, van de wet, de datum waarop de aan- en afvoer plaatsvond en het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;
+- a. de hoeveelheden in het kader van de onderneming aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de aan- of afvoer heeft plaatsgevonden ter uitvoering van [artikel 21, tweede lid, onderdeel d, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=21), [artikel 33a, tweede lid, onderdeel b, onder 1°, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33a), en [artikel 33d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=33d), de datum waarop de aan- en afvoer plaatsvond en het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;
 
 - b. de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte voor meststoffen zijn aangevoerd en de hoeveelheden meststoffen die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid meststoffen zich in de opslagruimte bevindt;
 
@@ -398,7 +398,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - d. de hoeveelheid en de samenstelling van de eindproducten van de behandeling.
 
-4. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2014-01-01&g=2014-01-01) is op de administratie, bedoeld in het eerste lid, van overeenkomstige toepassing.
+4. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2015-01-01&g=2015-01-01) is op de administratie, bedoeld in het eerste lid, van overeenkomstige toepassing.
 
 5. De intermediair bewaart de mestverwerkingsovereenkomsten als onderdeel van zijn administratie.
 
@@ -412,23 +412,23 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2014-01-01&g=2014-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2015-01-01&g=2015-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2014-01-01&g=2014-01-01), wordt gevoerd, de plaats waar deze met het oog op het toezicht op de naleving beschikbaar moet zijn en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2015-01-01&g=2015-01-01), wordt gevoerd, de plaats waar deze met het oog op het toezicht op de naleving beschikbaar moet zijn en de termijn waarbinnen de gegevens of wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2014-01-01&g=2014-01-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2015-01-01&g=2015-01-01), bevat;
 
-- d. de gegevens die ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2014-01-01&g=2014-01-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
+- d. de gegevens die ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2015-01-01&g=2015-01-01), worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt;
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2014-01-01&g=2014-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2014-01-01&g=2014-01-01) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing zijn; en
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2015-01-01&g=2015-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2015-01-01&g=2015-01-01) of [40](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=40&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing zijn; en
 
 - f. het aanbrengen van aanduidingen op de opslagruimten voor meststoffen ter identificatie van deze ruimten.
 
 ##### Artikel 42
 
-De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2014-01-01&g=2014-01-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
+De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&z=2015-01-01&g=2015-01-01) bij te houden of te verstrekken gegevens worden desgevraagd ten genoegen van Onze Minister gestaafd met bewijsstukken.
 
-### Hoofdstuk VIII. Administratieve verplichtingen overige leveranciers en afnemers bedrijven
+### Hoofdstuk IV. Gebruiksnormen, tot het bedrijf behorende oppervlakte landbouwgrond en opgave basisregistratie percelen
 
 ##### Artikel 43
 
@@ -454,9 +454,9 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 44
 
-1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), houdt per onderneming een inzichtelijke administratie bij.
+1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), houdt per onderneming een inzichtelijke administratie bij.
 
-2. De administratie, bedoeld in het eerste lid, bevat in ieder geval de gegevens, bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), alsmede gegevens over:
+2. De administratie, bedoeld in het eerste lid, bevat in ieder geval de gegevens, bedoeld in [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), alsmede gegevens over:
 
 - a. de hoeveelheden van de door de ondernemer afgeleverde diervoeders per bedrijf, onderscheidenlijk de hoeveelheden alsmede het ureumgehalte van de door de ondernemer afgenomen koemelk per bedrijf;
 
@@ -464,11 +464,11 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 - c. het bedrijf waaraan de diervoeders zijn afgeleverd, onderscheidenlijk het bedrijf waar de afgenomen koemelk is geproduceerd.
 
-3. De ondernemer, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), en de ondernemer in het kader van wiens onderneming staldieren aan bedrijven worden afgeleverd dan wel staldieren of eieren van bedrijven worden afgenomen, houdt per onderneming een inzichtelijke administratie bij.
+3. De ondernemer, bedoeld in [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), en de ondernemer in het kader van wiens onderneming staldieren aan bedrijven worden afgeleverd dan wel staldieren of eieren van bedrijven worden afgenomen, houdt per onderneming een inzichtelijke administratie bij.
 
 4. De administratie, bedoeld in het derde lid, bevat in ieder geval gegevens over:
 
-- a. de hoeveelheden van de door de ondernemer afgeleverde of afgenomen meststoffen per onderneming of per bedrijf, met uitzondering van de aan particulieren afgeleverde hoeveelheden, de aantallen door de ondernemer afgeleverde of afgenomen staldieren per bedrijf, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) gestelde regels, onderscheidenlijk de hoeveelheden van de door de ondernemer afgenomen eieren per bedrijf;
+- a. de hoeveelheden van de door de ondernemer afgeleverde of afgenomen meststoffen per onderneming of per bedrijf, met uitzondering van de aan particulieren afgeleverde hoeveelheden, de aantallen door de ondernemer afgeleverde of afgenomen staldieren per bedrijf, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) gestelde regels, onderscheidenlijk de hoeveelheden van de door de ondernemer afgenomen eieren per bedrijf;
 
 - b. de datum waarop de aflevering of de afname plaatsvond; en
 
@@ -476,7 +476,7 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 5. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt bewerkt of verwerkt, bevat de administratie tevens gegevens over:
 
-- a. de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2014-01-01&g=2014-01-01), bedoelde behandelingsmethode voor zuiveringsslib;
+- a. de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2015-01-01&g=2015-01-01), bedoelde behandelingsmethode voor zuiveringsslib;
 
 - b. de hoeveelheid geproduceerd, bewerkt of verwerkt zuiveringsslib; en
 
@@ -484,33 +484,33 @@ De op grond van dit hoofdstuk en [hoofdstuk IX](https://wetten.overheid.nl/jci1.
 
 6. De gegevens inzake de hoeveelheden diervoeders, koemelk en eieren worden uitgedrukt in kilogrammen en, met uitzondering van koemelk, in kilogrammen stikstof en fosfaat.
 
-7. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2014-01-01&g=2014-01-01) is op de administratie, bedoeld in het eerste en derde lid, van overeenkomstige toepassing.
+7. [Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=34&z=2015-01-01&g=2015-01-01) is op de administratie, bedoeld in het eerste en derde lid, van overeenkomstige toepassing.
 
 ##### Artikel 45
 
-1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01) en de ondernemer in het kader van wiens onderneming zuiveringsslib wordt verhandeld, verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
+1. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01) en de ondernemer in het kader van wiens onderneming zuiveringsslib wordt verhandeld, verstrekt jaarlijks gegevens uit de administratie aan Onze Minister.
 
-2. De buiten Nederland gevestigde ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, verstrekt bij de aflevering aan de landbouwer een begeleidend document waarop het gewicht en de overeenkomstig de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), vastgestelde samenstelling van de afgeleverde diervoeders is vermeld.
+2. De buiten Nederland gevestigde ondernemer, in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren, verstrekt bij de aflevering aan de landbouwer een begeleidend document waarop het gewicht en de overeenkomstig de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01), vastgestelde samenstelling van de afgeleverde diervoeders is vermeld.
 
 3. Het document, bedoeld in het tweede lid, is tijdens het vervoer van de diervoeders op het transportmiddel aanwezig.
 
 4. Het tweede en het derde lid gelden niet indien de ondernemer de in het tweede lid bedoelde gegevens na afloop van het kalenderjaar waarin de afleveringen van diervoeders hebben plaatsgevonden aan Onze Minister verstrekt en voorafgaand aan de eerste aflevering aan Onze Minister verklaart zulks te zullen doen.
 
-5. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), of [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2014-01-01&g=2014-01-01), verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze.
+5. De ondernemer, bedoeld in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), of [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2015-01-01&g=2015-01-01), verstrekt desgevraagd door Onze Minister gegevens uit de administratie, binnen een door Onze Minister bepaalde termijn en op een door Onze Minister bepaalde wijze.
 
 ##### Artikel 46
 
 Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de overige bij de aanmelding, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
+- a. de overige bij de aanmelding, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), te verstrekken gegevens, de wijze waarop en de termijn waarbinnen de aanmelding en de doorgifte van wijzigingen geschieden;
 
-- b. de wijze waarop de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2014-01-01&g=2014-01-01), wordt gevoerd, en de termijn waarbinnen de gegevens en wijzigingen in de gegevens in deze administratie worden opgenomen;
+- b. de wijze waarop de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2015-01-01&g=2015-01-01), wordt gevoerd, en de termijn waarbinnen de gegevens en wijzigingen in de gegevens in deze administratie worden opgenomen;
 
-- c. de overige gegevens die de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2014-01-01&g=2014-01-01), bevat;
+- c. de overige gegevens die de administratie, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2015-01-01&g=2015-01-01), bevat;
 
-- d. de gegevens die ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2014-01-01&g=2014-01-01) worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt; en
+- d. de gegevens die ingevolge [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2015-01-01&g=2015-01-01) worden verstrekt en de wijze waarop en de termijn waarbinnen deze gegevens worden verstrekt; en
 
-- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2014-01-01&g=2014-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing zijn.
+- e. de gevallen waarin en de voorwaarden waaronder de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2015-01-01&g=2015-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2015-01-01&g=2015-01-01) of [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing zijn.
 
 ##### Artikel 47
 
@@ -522,11 +522,11 @@ De op grond van dit hoofdstuk bij te houden of te verstrekken gegevens worden de
 
 ##### Artikel 48
 
-Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in het kader waarvan het vervoer plaatsvindt overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2014-01-01&g=2014-01-01) is geregistreerd.
+Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in het kader waarvan het vervoer plaatsvindt overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2015-01-01&g=2015-01-01) is geregistreerd.
 
 ##### Artikel 49
 
-1. Het vervoer van een vracht drijfmest geschiedt met een transportmiddel dat is uitgerust met de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), voorgeschreven apparatuur die op naam van de intermediair is geregistreerd.
+1. Het vervoer van een vracht drijfmest geschiedt met een transportmiddel dat is uitgerust met de krachtens [artikel 70, vierde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01), voorgeschreven apparatuur die op naam van de intermediair is geregistreerd.
 
 2. Het vervoer van een vracht dierlijke meststoffen geschiedt met een transportmiddel dat is uitgerust met op naam van de intermediair geregistreerde apparatuur voor automatische gegevensregistratie.
 
@@ -536,9 +536,9 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 ##### Artikel 50
 
-1. Een vracht dierlijke meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels gesteld bij of krachtens [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&z=2014-01-01&g=2014-01-01) is opgemaakt.
+1. Een vracht dierlijke meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels gesteld bij of krachtens [paragraaf 2 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&z=2015-01-01&g=2015-01-01) is opgemaakt.
 
-2. Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2014-01-01&g=2014-01-01), aangewezen overige organische meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels, gesteld bij of krachtens [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&z=2014-01-01&g=2014-01-01), is opgemaakt.
+2. Een vracht zuiveringsslib, compost, mengsels van zuiveringsslib en compost, of krachtens [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2015-01-01&g=2015-01-01), aangewezen overige organische meststoffen gaat tijdens het vervoer vergezeld van een op de vracht betrekking hebbend vervoersbewijs, dat overeenkomstig de regels, gesteld bij of krachtens [paragraaf 3 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&z=2015-01-01&g=2015-01-01), is opgemaakt.
 
 ##### Artikel 51
 
@@ -554,15 +554,15 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 1. Bij ministeriële regeling kunnen regels worden gesteld over:
 
-- a. de gevallen waarin en voorwaarden waaronder de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48&z=2014-01-01&g=2014-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing zijn;
+- a. de gevallen waarin en voorwaarden waaronder de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=48&z=2015-01-01&g=2015-01-01) en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing zijn;
 
-- b. de wijze waarop de apparatuur, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2014-01-01&g=2014-01-01), is bevestigd;
+- b. de wijze waarop de apparatuur, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2015-01-01&g=2015-01-01), is bevestigd;
 
-- c. de eisen waaraan de apparatuur voor automatische gegevensregistratie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2014-01-01&g=2014-01-01), en de satellietvolgapparatuur, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2014-01-01&g=2014-01-01), moeten voldoen, waaronder de eis dat de apparatuur behoort tot een type dat is gekeurd door een door Onze Minister aangewezen instelling;
+- c. de eisen waaraan de apparatuur voor automatische gegevensregistratie, bedoeld in [artikel 49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2015-01-01&g=2015-01-01), en de satellietvolgapparatuur, bedoeld in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=49&z=2015-01-01&g=2015-01-01), moeten voldoen, waaronder de eis dat de apparatuur behoort tot een type dat is gekeurd door een door Onze Minister aangewezen instelling;
 
 - d. de gegevens die met de in onderdeel c bedoelde apparatuur moeten worden vastgelegd en de wijze waarop die gegevens moeten worden vastgelegd, bewaard en verstrekt; en
 
-- e. de wijze waarop en de termijn waarbinnen de mededeling, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2014-01-01&g=2014-01-01), wordt gedaan, alsmede de gegevens die de mededeling ten minste bevat of de bescheiden waarvan de mededeling vergezeld gaat.
+- e. de wijze waarop en de termijn waarbinnen de mededeling, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=1&artikel=51&z=2015-01-01&g=2015-01-01), wordt gedaan, alsmede de gegevens die de mededeling ten minste bevat of de bescheiden waarvan de mededeling vergezeld gaat.
 
 2. De krachtens het eerste lid te stellen regels kunnen voor de in de regeling te onderscheiden mestsoorten en de beoogde bestemming van de meststoffen verschillend worden vastgesteld.
 
@@ -572,7 +572,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 1. Terzake van het vervoer van een vracht dierlijke meststoffen wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.
 
-2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=54&z=2014-01-01&g=2014-01-01) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
+2. De leverancier en de afnemer dragen er ieder voor zijn deel, en de vervoerder voor het geheel, zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=54&z=2015-01-01&g=2015-01-01) gestelde regels volledig en naar waarheid wordt ingevuld en ondertekend.
 
 3. Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over:
 
@@ -590,7 +590,7 @@ Dierlijke meststoffen worden vervoerd door een intermediair wiens onderneming in
 
 6. De op het vervoersbewijs ingevulde gegevens worden op elektronische wijze bij Onze Minister ingediend.
 
-7. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in [artikel, 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2014-01-01&g=2014-01-01)onderscheidenlijk [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01).
+7. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in [artikel, 39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2015-01-01&g=2015-01-01)onderscheidenlijk [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 54
 
@@ -604,7 +604,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de wijze en het tijdstip waarop de op het vervoersbewijs ingevulde gegevens alsmede de gegevens, bedoeld in onderdeel c, worden ingediend; en
 
-- e. de gevallen waarin en de voorwaarden waaronder [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing is.
+- e. de gevallen waarin en de voorwaarden waaronder [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing is.
 
 #### Paragraaf 3. Afleveringsbewijs zuiveringsslib en compost
 
@@ -612,7 +612,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 1. Ter zake van het vervoer van zuiveringsslib, compost en bij ministeriële regeling aangewezen overige organische meststoffen, wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.
 
-2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=56&z=2014-01-01&g=2014-01-01) gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.
+2. De leverancier en de afnemer dragen er ieder voor zijn deel, en de vervoerder voor het geheel, zorg voor dat het vervoersbewijs overeenkomstig de krachtens [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=56&z=2015-01-01&g=2015-01-01) gestelde regels volledig en naar waarheid wordt ingevuld en ondertekend.
 
 3. Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over:
 
@@ -624,11 +624,11 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de soort meststoffen.
 
-4. [Artikel 53, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+4. [Artikel 53, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=2&artikel=53&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 5. De op het vervoersbewijs ingevulde gegevens worden op elektronische wijze bij Onze Minister ingediend.
 
-6. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2014-01-01&g=2014-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2014-01-01&g=2014-01-01) of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2014-01-01&g=2014-01-01).
+6. De vervoerder bewaart het vervoersbewijs en de leverancier en de afnemer bewaren een afschrift van het vervoersbewijs als onderdeel van de administratie, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=32&z=2015-01-01&g=2015-01-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=39&z=2015-01-01&g=2015-01-01) of [44](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=44&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 56
 
@@ -642,7 +642,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over:
 
 - d. de wijze en het tijdstip waarop de op het vervoersbewijs ingevulde gegevens alsmede de gegevens, bedoeld in onderdeel c, worden ingediend; en
 
-- e. de gevallen waarin en de voorwaarden waaronder [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing is.
+- e. de gevallen waarin en de voorwaarden waaronder [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IX&paragraaf=3&artikel=55&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing is.
 
 #### Paragraaf 4. Grensoverschrijdende overbrenging
 
@@ -682,7 +682,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk X. Regels inzake de hoeveelheidbepaling
+### Hoofdstuk VIII. Administratieve verplichtingen overige leveranciers en afnemers bedrijven
 
 ##### Artikel 65
 
@@ -690,7 +690,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 ##### Artikel 66
 
-1. De door graasdieren, niet zijnde melkkoeien, in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), gestelde regels en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar.
+1. De door graasdieren, niet zijnde melkkoeien, in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01), gestelde regels en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar.
 
 2. De door melkkoeien in een kalenderjaar op een bedrijf geproduceerde hoeveelheid dierlijke meststoffen wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige melkkoeien en op basis van forfaitaire productienormen, uitgedrukt in kilogrammen stikstof en in kilogrammen fosfaat, per dier per jaar, onderscheiden naar de gemiddelde melkproductie per op het bedrijf aanwezige melkkoe en, voor zover het stikstof betreft, het gemiddelde ureumgehalte van de geproduceerde koemelk.
 
@@ -718,15 +718,15 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 ##### Artikel 67
 
-1. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf aan- of afgevoerde, dan wel de op het bedrijf aanwezige voorraden diervoeders worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende diervoeders.
+1. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf aan- of afgevoerde, dan wel de op het bedrijf aanwezige voorraden diervoeders worden bepaald op basis van het gewicht of het volume en het stikstofgehalte, onderscheidenlijk fosfaatgehalte van de desbetreffende diervoeders.
 
-2. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf geproduceerde diervoeders worden bepaald op basis van een forfaitaire opbrengst per hectare in kilogrammen en forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram diervoeder.
+2. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de op een bedrijf geproduceerde diervoeders worden bepaald op basis van een forfaitaire opbrengst per hectare in kilogrammen en forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram diervoeder.
 
-3. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de staldieren worden bepaald op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per dier, dan wel op basis van het gewicht van de dieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram levend gewicht.
+3. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in de staldieren worden bepaald op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per dier, dan wel op basis van het gewicht van de dieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram levend gewicht.
 
-4. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in door staldieren geproduceerde eieren worden bepaald op basis van het gewicht van de eieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram product.
+4. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), bedoelde hoeveelheid stikstof en de hoeveelheid fosfaat in door staldieren geproduceerde eieren worden bepaald op basis van het gewicht van de eieren en op basis van forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten per kilogram product.
 
-5. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), bedoelde hoeveelheid stikstof die in gasvorm verloren gaat wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren en forfaitaire stikstofgehalten per dier.
+5. De in [artikel 66, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), bedoelde hoeveelheid stikstof die in gasvorm verloren gaat wordt bepaald op basis van het gemiddelde aantal in het desbetreffende kalenderjaar op het bedrijf gehouden of anderszins aanwezige dieren en forfaitaire stikstofgehalten per dier.
 
 ##### Artikel 68
 
@@ -742,29 +742,29 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 ##### Artikel 69
 
-1. Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.
+1. Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&bijlage=II), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) of [70, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01), gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.
 
-2. Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01) gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.
+2. Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2015-01-01&g=2015-01-01) of [70](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2015-01-01&g=2015-01-01) gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.
 
 ##### Artikel 70
 
 1. Bij ministeriële regeling worden vastgesteld:
 
-- a. de forfaitaire productienormen, bedoeld in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01);
+- a. de forfaitaire productienormen, bedoeld in [artikel 66, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01);
 
-- b. de forfaitaire gewasopbrengsten per hectare, bedoeld in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2014-01-01&g=2014-01-01); en
+- b. de forfaitaire gewasopbrengsten per hectare, bedoeld in [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2015-01-01&g=2015-01-01); en
 
-- c. de forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, bedoeld in [artikel 67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2014-01-01&g=2014-01-01).
+- c. de forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, bedoeld in [artikel 67, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2015-01-01&g=2015-01-01).
 
 2. Bij ministeriële regeling kunnen regels worden gesteld omtrent de gevallen waarin, de voorwaarden waaronder en de wijze waarop:
 
-- a. de hoeveelheid stikstof en de hoeveelheid fosfaat van de bij die regeling te onderscheiden diervoeders in zoverre in afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2014-01-01&g=2014-01-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten; en
+- a. de hoeveelheid stikstof en de hoeveelheid fosfaat van de bij die regeling te onderscheiden diervoeders in zoverre in afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2015-01-01&g=2015-01-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten; en
 
-- b. de hoeveelheid aangevoerde of afgevoerde dierlijke meststoffen in zoverre in afwijking van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2014-01-01&g=2014-01-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
+- b. de hoeveelheid aangevoerde of afgevoerde dierlijke meststoffen in zoverre in afwijking van [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2015-01-01&g=2015-01-01), wordt bepaald op basis van de bij die regeling vast te stellen forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten.
 
 3. De in het eerste en tweede lid bedoelde forfaits kunnen onderscheiden naar mestvorm, diersoort en diercategorie en bedrijfssysteem verschillend worden vastgesteld.
 
-4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot devaststellingen ten behoeve van de bepaling van de hoeveelheden, bedoeld in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2014-01-01&g=2014-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2014-01-01&g=2014-01-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2014-01-01&g=2014-01-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69&z=2014-01-01&g=2014-01-01) en ten behoeve van de bepaling van de fosfaattoestand en de gewasopbrengst, bedoeld in [artikel 69a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69a&z=2014-01-01&g=2014-01-01). Deze regels kunnen betrekking hebben op:
+4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot devaststellingen ten behoeve van de bepaling van de hoeveelheden, bedoeld in de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=66&z=2015-01-01&g=2015-01-01), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=67&z=2015-01-01&g=2015-01-01), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=68&z=2015-01-01&g=2015-01-01) en [69](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69&z=2015-01-01&g=2015-01-01) en ten behoeve van de bepaling van de fosfaattoestand en de gewasopbrengst, bedoeld in [artikel 69a](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=69a&z=2015-01-01&g=2015-01-01). Deze regels kunnen betrekking hebben op:
 
 - a. de methode van gewichtsbepaling, volumebepaling, bemonstering, analyse en bepaling van het ureumgehalte van koemelk;
 
@@ -786,13 +786,7 @@ De aantallen dieren en hoeveelheden meststoffen, diervoeders, melk en eieren, de
 
 ##### Artikel 72
 
-1. Ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2014-01-01&g=2014-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2014-01-01&g=2014-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2014-01-01&g=2014-01-01) en de krachtens [artikel 70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), gestelde regels, kan bij ministeriële regeling medewerking gevorderd van het bestuur van een bedrijfslichaam.
-
-2. De in het eerste lid bedoelde medewerking kan bestaan uit het verrichten van de noodzakelijke werkzaamheden en het overeenkomstig de krachtens de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2014-01-01&g=2014-01-01) en [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=X&artikel=70&z=2014-01-01&g=2014-01-01), gestelde regels, bij verordening stellen van nadere regels, inzake het inwinnen en registreren van de in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=35&z=2014-01-01&g=2014-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VI&artikel=36&z=2014-01-01&g=2014-01-01), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=43&z=2014-01-01&g=2014-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=45&z=2014-01-01&g=2014-01-01) en [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VIII&artikel=46&z=2014-01-01&g=2014-01-01) bedoelde gegevens alsmede inzake de bepaling van het ureumgehalte van koemelk en de bevoegdheid tot het doen van de voor de bepaling van dat gehalte noodzakelijke vaststellingen.
-
-3. De krachtens verordening vastgestelde voorschriften en vastgestelde besluiten behoeven de goedkeuring van Onze Minister.
-
-4. Onze Minister kan met betrekking tot het verlenen van medewerking beleidsregels stellen.
+Vervallen
 
 ##### Artikel 73
 
@@ -824,9 +818,9 @@ Wijzigt het Destructiebesluit.
 
 ##### Artikel 77
 
-1. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01), is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&z=2014-01-01&g=2014-01-01) van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het [Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115) gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens [artikel 7 van het Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115&artikel=7), zoals dat luidde op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01) in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen.
+1. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&z=2015-01-01&g=2015-01-01) van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het [Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115) gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens [artikel 7 van het Meststoffenbesluit 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003115&artikel=7), zoals dat luidde op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01) in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen.
 
-2. Het krachtens het eerste lid te bepalen tijdstip kan voor de in dat lid te onderscheiden meststoffen verschillend worden vastgesteld en is gelegen in de periode van drie jaar volgend op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01) in werking is getreden.
+2. Het krachtens het eerste lid te bepalen tijdstip kan voor de in dat lid te onderscheiden meststoffen verschillend worden vastgesteld en is gelegen in de periode van drie jaar volgend op het tijdstip waarop [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01) in werking is getreden.
 
 ##### Artikel 78
 
@@ -872,17 +866,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het is verboden meststoffen te verhandelen.
 
-2. Het verbod geldt niet indien ten aanzien van deze meststoffen is voldaan aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2014-01-01&g=2014-01-01), aan de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=7&z=2014-01-01&g=2014-01-01), [19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2014-01-01&g=2014-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=6&artikel=21&z=2014-01-01&g=2014-01-01) gestelde regels en aan:
+2. Het verbod geldt niet indien ten aanzien van deze meststoffen is voldaan aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2015-01-01&g=2015-01-01), aan de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01), [19, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=19&z=2015-01-01&g=2015-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=6&artikel=21&z=2015-01-01&g=2015-01-01) gestelde regels en aan:
 
-- a. de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=9&z=2014-01-01&g=2014-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2014-01-01&g=2014-01-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=18&z=2014-01-01&g=2014-01-01), indien het overige anorganische meststoffen betreft;
+- a. de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=9&z=2015-01-01&g=2015-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2015-01-01&g=2015-01-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2015-01-01&g=2015-01-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=5&artikel=18&z=2015-01-01&g=2015-01-01), indien het overige anorganische meststoffen betreft;
 
-- b. de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2014-01-01&g=2014-01-01), indien het kalkmeststoffen betreft;
+- b. de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2015-01-01&g=2015-01-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2015-01-01&g=2015-01-01), indien het kalkmeststoffen betreft;
 
-- c. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2014-01-01&g=2014-01-01), indien het zuiveringsslib betreft;
+- c. [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=16&z=2015-01-01&g=2015-01-01), indien het zuiveringsslib betreft;
 
-- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=17&z=2014-01-01&g=2014-01-01), indien het compost betreft; en
+- d. [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=4&artikel=17&z=2015-01-01&g=2015-01-01), indien het compost betreft; en
 
-- e. de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2014-01-01&g=2014-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=12&z=2014-01-01&g=2014-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=13&z=2014-01-01&g=2014-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2014-01-01&g=2014-01-01), indien het overige organische meststoffen betreft.
+- e. de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2015-01-01&g=2015-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=12&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=13&z=2015-01-01&g=2015-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2015-01-01&g=2015-01-01), en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2015-01-01&g=2015-01-01), indien het overige organische meststoffen betreft.
 
 3. Het in het eerste lid gestelde verbod is niet van toepassing op de verhandeling van:
 
@@ -890,7 +884,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. meststoffen als bedoeld in [artikel 1, onderdeel d, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1);
 
-- c. uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan voor zover aan de uitwerpselen of de producten daarvan geen andere meststoffen zijn toegevoegd dan meststoffen die aan de in het tweede lid bedoelde regels voldoen of voor zover de producten daarvan eindproducten zijn die krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01), zijn aangewezen.
+- c. uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan voor zover aan de uitwerpselen of de producten daarvan geen andere meststoffen zijn toegevoegd dan meststoffen die aan de in het tweede lid bedoelde regels voldoen of voor zover de producten daarvan eindproducten zijn die krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), zijn aangewezen.
 
 4. Het is verboden meststoffen, niet zijnde EG-meststoffen, met de aanduiding «EG-meststof» te verhandelen.
 
@@ -968,13 +962,13 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 ##### Artikel 14
 
-1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, overige organische meststoffen, kalkmeststoffen, alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2014-01-01&g=2014-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om primaire nutriënten te leveren, overige organische meststoffen, kalkmeststoffen, alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2015-01-01&g=2015-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 2. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren overschrijden niet de bij ministeriële regeling vastgestelde maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 ##### Artikel 15
 
-1. Overige organische meststoffen alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2014-01-01&g=2014-01-01), bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
+1. Overige organische meststoffen alsmede de krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01), aangewezen stoffen die als meststof of bij de productie van meststoffen worden gebruikt, overschrijden niet de in [bijlage II, onder tabel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2015-01-01&g=2015-01-01), bij dit besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.
 
 2. Het eerste lid is van overeenkomstige toepassing op kalkmeststoffen en overige anorganische meststoffen die organisch materiaal van dierlijke of plantaardige oorsprong bevatten, met dien verstande dat voor zover het betreft overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten of micronutriënten te leveren, de maximale waarden voor organische microverontreinigingen uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel, worden vastgesteld bij ministeriële regeling.
 
@@ -986,7 +980,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 2. Zuiveringsslib bevat ten minste vijftig gewichtsprocenten organische stof van de droge stof of heeft een neutraliserende waarde van 25 op basis van de droge stof.
 
-3. Zuiveringsslib overschrijdt niet de in [bijlage II, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2014-01-01&g=2014-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
+3. Zuiveringsslib overschrijdt niet de in [bijlage II, onder tabel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2015-01-01&g=2015-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
 ##### Artikel 17
 
@@ -996,7 +990,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 3. Het is uitsluitend toegestaan om bij de bereiding van compost bodembestanddelen te gebruiken, indien dit betreft grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=1), waarvan de kwaliteit de krachtens [artikel 40 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=40), vastgestelde achtergrondwaarden niet overschrijdt.
 
-4. Compost overschrijdt niet de in [bijlage II, onder tabel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2014-01-01&g=2014-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
+4. Compost overschrijdt niet de in [bijlage II, onder tabel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&bijlage=II&z=2015-01-01&g=2015-01-01), bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
 
 #### Paragraaf 5. Verpakking en etikettering
 
@@ -1038,11 +1032,11 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 ##### Artikel 20
 
-[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01), is niet van toepassing op meststoffen:
+[Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), is niet van toepassing op meststoffen:
 
 - a. die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt;
 
-- b. die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de bij of krachtens de [artikelen 5 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01) gestelde regels wordt nagestreefd; en
+- b. die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de bij of krachtens de [artikelen 5 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01) gestelde regels wordt nagestreefd; en
 
 - c. die vergezeld gaan van een analyserapport dat voldoende informatie verschaft over de samenstelling van het product en is afgegeven door een in die lidstaat of staat erkend laboratorium dat gelijkwaardig is aan een in Nederland voor dit doel erkend laboratorium.
 
@@ -1064,7 +1058,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 - g. de wijze waarop de gegevens worden aangebracht; en
 
-- h. de gevallen waarin en de voorwaarden waaronder de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2014-01-01&g=2014-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2014-01-01&g=2014-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2014-01-01&g=2014-01-01) geheel of gedeeltelijk niet van toepassing zijn.
+- h. de gevallen waarin en de voorwaarden waaronder de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=2&artikel=11&z=2015-01-01&g=2015-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=14&z=2015-01-01&g=2015-01-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=III&paragraaf=3&artikel=15&z=2015-01-01&g=2015-01-01) geheel of gedeeltelijk niet van toepassing zijn.
 
 2. De in het eerste lid, onderdeel d, bedoelde regels kunnen mede betrekking hebben op de bevoegdheid tot het doen van vaststellingen ten behoeve van de in dat onderdeel bedoelde bepaling en op de voor die vaststellingen te gebruiken apparatuur.
 
@@ -1088,7 +1082,7 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 #### Paragraaf 3. Vervoersbewijs zuiveringsslib, compost en overige organische meststoffen
 
-#### Paragraaf 4. Grensoverschrijdende overbrenging
+#### Paragraaf 2. Vervoersbewijs dierlijke meststoffen
 
 ### Hoofdstuk X. Regels inzake de hoeveelheidbepaling
 
@@ -1233,21 +1227,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 21a
 
-1. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft:
+De fosfaatgebruiksnormen voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), zijn:
 
-- a. 90 kilogram fosfaat in 2010 en 2011;
+- a. vanaf 1 januari 2015 90 kilogram fosfaat per jaar per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een neutrale fosfaattoestand betreft;
 
-- b. 85 kilogram fosfaat in 2012 en 2013.
+- b. vanaf 1 januari 2015 60 kilogram fosfaat per jaar per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een neutrale fosfaattoestand betreft;
 
-2. De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=8), is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft:
+- c. vanaf 1 januari 2015 80 kilogram fosfaat per jaar per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een hoge fosfaattoestand betreft;
 
-- a. 75 kilogram fosfaat in 2010;
-
-- b. 70 kilogram fosfaat in 2011;
-
-- c. 65 kilogram fosfaat in 2012;
-
-- d. 55 kilogram fosfaat in 2013.
+- d. vanaf 1 januari 2015 50 kilogram fosfaat per jaar per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een hoge fosfaattoestand betreft.
 
 ### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
 
@@ -1354,9 +1342,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 25a
 
-1. Voor de toepassing van [artikel 1, eerste lid, onderdeel cc, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2014-01-01&g=2014-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=25&z=2014-01-01&g=2014-01-01) in het desbetreffende kalenderjaar tot het bedrijf behoort.
+1. Voor de toepassing van [artikel 1, eerste lid, onderdeel ll, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=24&z=2015-01-01&g=2015-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=IV&artikel=25&z=2015-01-01&g=2015-01-01) in het desbetreffende kalenderjaar tot het bedrijf behoort.
 
-2. Voor de toepassing van [artikel 1, eerste lid, onderdeel cc, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1) is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.
+2. Voor de toepassing van [artikel 1, eerste lid, onderdeel ll, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=1) is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.
 
 ### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
 
@@ -1380,7 +1368,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 48a
 
-Een intermediair laat dierlijke meststoffen slechts aanvoeren bij zijn intermediaire onderneming indien deze overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2014-01-01&g=2014-01-01) is geregistreerd.
+Een intermediair laat dierlijke meststoffen slechts aanvoeren bij zijn intermediaire onderneming indien deze overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=VII&artikel=38&z=2015-01-01&g=2015-01-01) is geregistreerd.
 
 ### Hoofdstuk IXa. Mestverwerking
 
@@ -1389,6 +1377,10 @@ Een intermediair laat dierlijke meststoffen slechts aanvoeren bij zijn intermedi
 ### Hoofdstuk XI. Overige bepalingen
 
 ## Bijlage I. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01) van het Uitvoeringsbesluit
+
+Kaart 12 Oost niet opgenomen.
+
+## Bijlage I. behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019031&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01) van het Uitvoeringsbesluit
 
 Kaart 12 Oost niet opgenomen.
 
@@ -1460,6 +1452,34 @@ Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die be
 | Minerale olie | 935000 | 748000 | 498668 | 187000 | 24933 |
 
 Voor de toepassing van deze tabel zijn de maximale waarden van toepassing die behoren bij dat waardegevende bestanddeel waarvan bij het toedienen van een toenemende hoeveelheid van de meststof, de hoeveelheden van 80 kilogram fosfaat, 100 kg stikstof, 150 kilogram kali, 400 kilogram neutraliserende waarde of 3000 kilogram organische stof het éérst wordt bereikt.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 17a
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 5. Verpakking en etikettering
+
+#### Paragraaf 6. Overige bepalingen
+
+### Hoofdstuk V. Opslagcapaciteit dierlijke meststoffen
+
+### Hoofdstuk VI. Administratieve verplichtingen landbouwbedrijven
+
+### Hoofdstuk VII. Administratieve verplichtingen intermediairs
+
+### Hoofdstuk IX. Vervoer van meststoffen
+
+#### Paragraaf 1. Algemene bepalingen
+
+#### Paragraaf 3. Vervoersbewijs zuiveringsslib, compost en overige organische meststoffen
+
+### Hoofdstuk IXa. Mestverwerking
+
+### Hoofdstuk X. Regels inzake de hoeveelheidbepaling
+
+### Hoofdstuk XI. Overige bepalingen
 
 ## Bijlage III. , behorende bij artikel 73 van het Uitvoeringsbesluit Meststoffenwet
 
