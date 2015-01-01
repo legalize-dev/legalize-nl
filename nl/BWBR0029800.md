@@ -4,7 +4,7 @@ identifier: "BWBR0029800"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-12-23"
-last_updated: "2012-02-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029800"
 soort: "AMvB"
@@ -82,7 +82,7 @@ Dit besluit is niet van toepassing op een postvervoerbedrijf:
 
 - a. dat is gebonden aan een collectieve arbeidsovereenkomst waarin bepalingen zijn opgenomen over het aantal of het percentage postbezorgers dat bij een postvervoerbedrijf arbeid verricht op basis van een arbeidsovereenkomst, of
 
-- b. dat ingevolge [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) is uitgezonderd van de verplichting, bedoeld in artikel 64, eerste lid, van de wet.
+- b. aan wie ingevolge [artikel 12, derde lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=12) geen bedrag in rekening wordt gebracht.
 
 #### § 3. Overgangs- en slotbepalingen
 
