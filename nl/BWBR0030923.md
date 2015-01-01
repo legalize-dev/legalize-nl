@@ -4,7 +4,7 @@ identifier: "BWBR0030923"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030923"
 soort: "wet"
@@ -66,7 +66,7 @@ Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel VI
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Vervallen
 
 ##### Artikel VII
 
@@ -90,7 +90,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XII
 
-Wijzigt de Wet op de loonbelasting 1964.
+Vervallen
 
 ##### Artikel XIII
 
@@ -118,9 +118,9 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIX
 
-1. Op 1 januari 2013 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVII&z=2014-01-01&g=2014-01-01) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2014-01-01&g=2014-01-01).
+1. Op 1 januari 2013 is [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) van overeenkomstige toepassing op de [artikelen XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVII&z=2015-01-01&g=2015-01-01) en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2015-01-01&g=2015-01-01).
 
-2. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2014-01-01&g=2014-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2015 is toegepast.
+2. [Artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XVIII&z=2015-01-01&g=2015-01-01) vindt eerst toepassing nadat [artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) bij het begin van het kalenderjaar 2015 is toegepast.
 
 ##### Artikel XX
 
@@ -136,11 +136,11 @@ Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
 ##### Artikel XXIII
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+Vervallen
 
 ##### Artikel XXIIIa
 
-Wijzigt de Wet op de motorrijtuigenbelasting 1994.
+Vervallen
 
 ##### Artikel XXIV
 
