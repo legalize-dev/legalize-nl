@@ -4,7 +4,7 @@ identifier: "BWBR0023923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-11-11"
-last_updated: "2014-04-25"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023923"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=8) en [9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=9), in [artikel 52, eerste, vierde en vijfde lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=52), in [artikel 86, eerste, vierde en vijfde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) en in de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=28), en [29 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=29) voldoet aan de NEN 7510.
+De gegevensverwerking, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=8) en [9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023864&artikel=9), in [artikel 9.1.1, vierde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=9.1.1), in [artikel 86, eerste, vierde en vijfde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=86) en in de [artikelen 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=28), en [29 van het Besluit gebruik burgerservicenummer in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023902&artikel=29) voldoet aan de NEN 7510.
 
 ##### Artikel 3
 
