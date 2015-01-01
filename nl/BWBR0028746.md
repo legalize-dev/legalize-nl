@@ -4,7 +4,7 @@ identifier: "BWBR0028746"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2015-01-01"
-last_updated: "2010-10-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028746"
 soort: "wet-BES"
@@ -147,7 +147,7 @@ De wet slaat geen acht, noch op de aard, noch op de oorsprong der goederen, om d
 
 ##### Artikel 877
 
-1. Alle erfenissen, welke, hetzij geheel, hetzij voor een gedeelte, aan bloedverwanten in de opgaande of zijdlinie te beurt vallen, worden in twee gelijke delen gekloofd, waarvan het ene aan de nabestaanden in de vaderlijke, en het andere aan die in de moederlijke linie te beurt valt, behoudens de bepalingen in de [artikelen 881](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=881&z=2010-10-10&g=2010-10-10), [882](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=882&z=2010-10-10&g=2010-10-10) en [886](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=886&z=2010-10-10&g=2010-10-10) voorkomende.
+1. Alle erfenissen, welke, hetzij geheel, hetzij voor een gedeelte, aan bloedverwanten in de opgaande of zijdlinie te beurt vallen, worden in twee gelijke delen gekloofd, waarvan het ene aan de nabestaanden in de vaderlijke, en het andere aan die in de moederlijke linie te beurt valt, behoudens de bepalingen in de [artikelen 881](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=881&z=2015-01-01&g=2015-01-01), [882](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=882&z=2015-01-01&g=2015-01-01) en [886](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=886&z=2015-01-01&g=2015-01-01) voorkomende.
 
 2. De erfenis kan nimmer van de ene linie tot de andere overgaan, dan wanneer er in een der beide liniën, noch bloedverwant in de opgaande linie, noch zijdmaag gevonden wordt.
 
@@ -165,7 +165,7 @@ Deze eerste verdeling tussen de vaderlijke en de moederlijke liniën daargesteld
 
 ##### Artikel 879a
 
-Voor zoveel betreft de nalatenschap van de vooroverleden echtgenoot wordt de langstlevende echtgenoot voor de toepassing der bepalingen van deze titel met een wettig kind van de overledene gelijkgesteld.
+Voor zoveel betreft de nalatenschap van de vooroverleden echtgenoot wordt de langstlevende echtgenoot voor de toepassing der bepalingen van deze titel met een kind van de overledene gelijkgesteld.
 
 ##### Artikel 879b
 
@@ -179,7 +179,7 @@ Voor zoveel betreft de nalatenschap van de vooroverleden echtgenoot wordt de lan
 
 ##### Artikel 880
 
-1. Indien de overledene noch nakomelingen, noch echtgenoot, noch broeders of zusters achterlaten heeft,wordt de nalatenschap in twee gelijke delen tussen de bloedverwanten in de vaderlijke, en die in de moederlijke opgaande linie verdeeld, behoudens de bepaling van [artikel 886](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=886&z=2010-10-10&g=2010-10-10).
+1. Indien de overledene noch nakomelingen, noch echtgenoot, noch broeders of zusters achterlaten heeft,wordt de nalatenschap in twee gelijke delen tussen de bloedverwanten in de vaderlijke, en die in de moederlijke opgaande linie verdeeld, behoudens de bepaling van [artikel 886](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Tweede&artikel=886&z=2015-01-01&g=2015-01-01).
 
 2. De naaste in graad in de opgaande linie bekomt de helft aan zijn linie behorende, met uitsluiting van alle anderen.
 
@@ -209,7 +209,7 @@ De verdeling van al hetgeen, volgens de bepalingen der hierboven staande artikel
 
 2. Bij gebreke van broeders en zusters en van nabestaanden in de beide opgaande liniën, worden in iedere zijdlinie de naaste bloedverwanten, ieder voor de helft, tot de erfenis geroepen.
 
-3. Indien er in dezelfde zijdlinie bloedverwanten van dezelfde graad gevonden worden, delen zij onder elkander bij hoofden, behoudens de bepaling van [artikel 872](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Eerste&artikel=872&z=2010-10-10&g=2010-10-10).
+3. Indien er in dezelfde zijdlinie bloedverwanten van dezelfde graad gevonden worden, delen zij onder elkander bij hoofden, behoudens de bepaling van [artikel 872](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Eerste&artikel=872&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 886
 
@@ -229,59 +229,51 @@ Onder de benaming van broeders en zusters, in deze afdeling voorkomende, worden 
 
 ##### Artikel 889
 
-Indien de overledene natuurlijke kinderen heeft achtergelaten, wordt de nalatenschap gebeurd op de wijze, als bij de volgende artikelen is bepaald.
+Vervallen
 
 ##### Artikel 890
 
-1. Indien de overledene wettige afstammelingen of een echtgenoot achterlaat, erven de natuurlijke kinderen een derde van het aandeel, hetwelk zij zouden gehad hebben, indien zij wettig waren geweest; zij erven de helft der nalatenschap, indien de overledene geen afstammelingen, noch een echtgenoot, maar wel bloedverwanten in de opgaande linie, of broeders en zusters of derzelver afstammelingen heeft achtergelaten; en drie vierden, indien er slechts nabestaanden in een verdere graad zijn overgebleven.
-
-2. Indien de wettige erfgenamen de overledene in ongelijke graden bestaan, bepaalt de naast in de ene linie, zelfs ten aanzien dergenen welke zich in de andere linie bevinden, de hoegrootheid van het aandeel, hetwelk aan het natuurlijke kind verschuldigd is.
+Vervallen
 
 ##### Artikel 891
 
-In al de gevallen, bij het vorige artikel voorzien, wordt het overschot der nalatenschap, op de wijze als bij de tweede afdeling van deze titel bepaald is, onder de wettige erfgenamen verdeeld.
+Vervallen
 
 ##### Artikel 892
 
-Indien de overledene geen wettige erfgenamen achtergelaten heeft, bekomen de natuurlijke kinderen de gehele nalatenschap.
+Vervallen
 
 ##### Artikel 893
 
-Ingeval een natuurlijk kind vooroverleden is, zijn deszelfs wettige kinderen en afstammelingen bevoegd de bij de [artikelen 890](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Derde&artikel=890&z=2010-10-10&g=2010-10-10) en [892](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Derde&artikel=892&z=2010-10-10&g=2010-10-10) aan hen toegekende voordelen te vorderen.
+Vervallen
 
 ##### Artikel 894
 
-De erfgenamen van de vader van een onwettig kind kunnen ter zake van het onderhoud van het kind na het overlijden van de erflater, tot niets anders verplicht worden dan tot betaling van een som ineens, welke het wettelijk erfdeel, waartoe het kind als natuurlijk kind gerechtigd was geweest, niet overtreft. De rechter in eerste aanleg bepaalt deze som op verzoek van het kind of van de voogdijraad. Op straffe van verval der aanspraken moet het verzoek worden ingediend binnen een jaar na het overlijden van de vader. Overigens zijn de artikelen 479, lid 2 en 480, lid 4 van overeenkomstige toepassing.
+Vervallen
 
 ##### Artikel 895
 
-1. De erkenning – staande huwelijk door de man gedaan – van een kind, dat hij vóór zijn huwelijk bij een andere vrouw heeft verwekt, strekt niet ten nadele van zijn echtgenote en van de uit hun huwelijk geboren kinderen.
-
-2. Niettemin zal de erkenning haar gevolgen hebben na de ontbinding van het huwelijk, wanneer hieruit geen nakomelingen overblijven.
+Vervallen
 
 ##### Artikel 896
 
-[vervallen]
+Vervallen
 
 ##### Artikel 897
 
-De nalatenschap van een natuurlijk kind, overleden zonder nakomenlingschap en zonder echtgenoot na te laten, vervalt aan deszelfs moeder, of aan de vader, die hetzelve erkend heeft, of, indien beiden in leven zijn, aan ieder voor de helft.
+Vervallen
 
 ##### Artikel 898
 
-1. In geval van vooroverlijden der ouders van een natuurlijk kind, hetwelk noch nakomelingen, noch een echtgenoot heeft nagelaten, keren de goederen, welke hetzelve uit de nalatenschap der ouders verkregen heeft, indien die goederen nog in natura in de boedel aanwezig zijn, tot de wettige afstammelingen van zijn vader of zijn moeder terug; hetzelfde geldt ten aanzien van actiën tot terugvordering, indien er zodanige bestaan, en van de koopprijs der goederen, zo dezelve vervreemd zijn, en die koopprijs nog verschuldigd is.
+Vervallen
 
 ##### Artikel 899
 
-De wet kent aan een natuurlijk kind geen recht hoegenaamd toe op de goederen der bloedverwanten van zijn ouders, behalve in het geval bij het volgende artikel vermeld.
+Vervallen
 
 ##### Artikel 900
 
-1. Indien een bloedverwant zijner moeder overlijdt zonder nabestaanden in erfelijke graad of langstlevend echtgenoot achter te laten, is het natuurlijk kind gerechtigd de nalatenschap te vorderen met uitsluiting van den lande; gelijk recht op de nalatenschap van een bloedverwant zijns vaders heeft diens natuurlijk kind.
-
-2. Indien het natuurlijk kind sterft, zonder afstammelingen, noch langstlevende echtgenoot, noch ouders, noch broeders of zusters of nakomelingen van dezen achter te laten, behoort deszelfs nalatenschap insgelijks, en met uitsluiting van den lande, aan de naaste bloedverwanten zijner moeder, of – indien het door hem erkend is – aan die zijns vaders; met dien verstande, dat – indien zowel bloedverwanten zijner moeder, als bloedverwanten zijns vaders in leven zijn – de nalatenschap voor de helft aan dezen en voor de helft aan genen behoort.
-
-3. De verdeling in beide liniën geschiedt volgens de regelen omtrent de gewone erfopvolging voorgeschreven.
+Vervallen
 
 ## Titel Twaalfde. Van uiterste willen
 
@@ -333,7 +325,7 @@ De beschikking, waardoor een derde tot een erfenis of een legaat geroepen wordt,
 
 ##### Artikel 910
 
-[Artikel 906](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Eerste&artikel=906&z=2010-10-10&g=2010-10-10) is niet van toepassing op een legaat van een vruchtgebruiker.
+[Artikel 906](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Eerste&artikel=906&z=2015-01-01&g=2015-01-01) is niet van toepassing op een legaat van een vruchtgebruiker.
 
 ##### Artikel 911
 
@@ -489,7 +481,7 @@ De legitieme portie of het wettelijk erfdeel is een gedeelte der goederen, hetwe
 
 ##### Artikel 940
 
-1. In de nederdalende linie, indien de erflater slechts één wettig kind nalaat, bestaat dat wettelijk erfdeel in de helft van de goederen, welke het kind bij versterf zoude hebben geërfd.
+1. In de nederdalende linie, indien de erflater slechts één kind nalaat, bestaat dat wettelijk erfdeel in de helft van de goederen, welke het kind bij versterf zoude hebben geërfd.
 
 2. Indien er twee kinderen overblijven, is het wettelijk erfdeel voor ieder kind twee derde gedeelten van hetgeen hetzelve bij versterf zoude erven.
 
@@ -509,7 +501,7 @@ In de opgaande linie bedraagt het wettelijk erfdeel altijd de helft van hetgeen,
 
 1. In de gevallen, waarin voor het berekenen der legitieme portie rekening moet worden gehouden met erfgenamen, die wel zijn erfgenamen bij versterf, doch niet zijn legitimarissen, zullen, wanneer aan anderen dan bedoelde erfgenamen, hetzij bij akte onder de levenden, hetzij bij uiterste wil, meer is geschonken dan het aandeel bedraagt, waarover men zou mogen beschikken, indien zodanige erfgenamen niet aanwezig waren, bedoelde giften of schenkingen kunnen worden verminderd tot genoemd bedrag, zulks op de vordering en ten bate van de legitimarissen en van derzelver erfgenamen of rechthebbenden.
 
-2. De [artikelen 946–955](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Derde&artikel=946&z=2010-10-10&g=2010-10-10) vinden overeenkomstige toepassing.
+2. De [artikelen 946–955](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Derde&artikel=946&z=2015-01-01&g=2015-01-01) vinden overeenkomstige toepassing.
 
 ##### Artikel 943
 
@@ -619,7 +611,7 @@ Indien zodanig stuk, als waarvan in het vorige artikel is gesproken, na het over
 
 ##### Artikel 963
 
-Een olografische uiterste wil, welke gesloten aan de notaris is ter hand gesteld, zal, na de dood des erflaters, aan de rechter in eerste aanleg worden aangeboden, welke zal handelen zoals bij [artikel 968](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=968&z=2010-10-10&g=2010-10-10), ten aanzien van besloten uiterste willen is voorgeschreven.
+Een olografische uiterste wil, welke gesloten aan de notaris is ter hand gesteld, zal, na de dood des erflaters, aan de rechter in eerste aanleg worden aangeboden, welke zal handelen zoals bij [artikel 968](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=968&z=2015-01-01&g=2015-01-01), ten aanzien van besloten uiterste willen is voorgeschreven.
 
 ##### Artikel 964
 
@@ -653,7 +645,7 @@ Een uiterste wil bij openbare akte moet ten overstaan van een notaris, en in teg
 
 ##### Artikel 967
 
-1. Ingeval de erflater niet kan spreken, maar wel schrijven, zal hij een besloten uiterste wil kunnen maken, mits dezelve met zijn hand geheel geschreven, gedagtekend en ondertekend worde, hij dezelve aan de notaris en de getuigen aanbiede, en boven de akte van superscriptie in hun tegenwoordigheid schrijve en ondertekene, dat het papier hetwelk hij hun aanbiedt zijn uiterste wil is; waarna de notaris de akte van superscriptie zal schrijven, en daarin melding maken, dat de erflater die verklaring, in tegenwoordigheid van de notaris en de getuigen, geschreven heeft, en zal bovendien worden in acht genomen al hetgeen bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=966&z=2010-10-10&g=2010-10-10) is bepaald.
+1. Ingeval de erflater niet kan spreken, maar wel schrijven, zal hij een besloten uiterste wil kunnen maken, mits dezelve met zijn hand geheel geschreven, gedagtekend en ondertekend worde, hij dezelve aan de notaris en de getuigen aanbiede, en boven de akte van superscriptie in hun tegenwoordigheid schrijve en ondertekene, dat het papier hetwelk hij hun aanbiedt zijn uiterste wil is; waarna de notaris de akte van superscriptie zal schrijven, en daarin melding maken, dat de erflater die verklaring, in tegenwoordigheid van de notaris en de getuigen, geschreven heeft, en zal bovendien worden in acht genomen al hetgeen bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=966&z=2015-01-01&g=2015-01-01) is bepaald.
 
 2. De uiterste willen, in het voorgaande en in dit artikel bedoeld, worden, tot het bewijs van het tegendeel, vermoed door de erflater ondertekend, laatstgemelde uiterste willen daarenboven met zijn hand geheel geschreven en gedagtekend te zijn.
 
@@ -675,7 +667,7 @@ De notaris, die onder zijn minuten een uiterste wil, van welke aard ook, heeft, 
 
 1. Een ingezetene van de openbare lichamen Bonaire, Sint Eustatius of Saba, die zich in een vreemd land bevindt, zal geen andere uiterste wil kunnen maken dan bij authentieke akte, en met inachtneming van de formaliteiten, welke in het land, alwaar de akte verleden wordt, gebruikelijk zijn.
 
-2. Hij is echter bevoegd om bij een onderhands stuk te beschikken, op de voet en de wijze als bij [artikel 961](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=961&z=2010-10-10&g=2010-10-10) is omschreven.
+2. Hij is echter bevoegd om bij een onderhands stuk te beschikken, op de voet en de wijze als bij [artikel 961](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=961&z=2015-01-01&g=2015-01-01) is omschreven.
 
 ##### Artikel 972
 
@@ -701,11 +693,11 @@ Deze uiterste willen zullen krachteloos zijn, indien de erflater komt te sterven
 
 ##### Artikel 977
 
-In de gevallen, bij de [artikelen 972](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=972&z=2010-10-10&g=2010-10-10), [973](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=973&z=2010-10-10&g=2010-10-10) en [974](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=974&z=2010-10-10&g=2010-10-10) voorzien, kunnen de daarbij vermelde personen beschikken bij een onderhands stuk, mits hetzelve geheel door de hand des erflaters zij geschreven, gedagtekend en ondertekend.
+In de gevallen, bij de [artikelen 972](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=972&z=2015-01-01&g=2015-01-01), [973](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=973&z=2015-01-01&g=2015-01-01) en [974](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=974&z=2015-01-01&g=2015-01-01) voorzien, kunnen de daarbij vermelde personen beschikken bij een onderhands stuk, mits hetzelve geheel door de hand des erflaters zij geschreven, gedagtekend en ondertekend.
 
 ##### Artikel 978
 
-Zodanige uiterste wil zal krachteloos zijn, indien de erflater is overleden drie maanden nadat de oorzaak, in voorzeide drie artikelen vermeld, heeft opgehouden, tenware dat stuk bij een notaris mocht zijn in bewaring gegeven, op de wijze als bij [artikel 958](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=958&z=2010-10-10&g=2010-10-10) is voorgeschreven.
+Zodanige uiterste wil zal krachteloos zijn, indien de erflater is overleden drie maanden nadat de oorzaak, in voorzeide drie artikelen vermeld, heeft opgehouden, tenware dat stuk bij een notaris mocht zijn in bewaring gegeven, op de wijze als bij [artikel 958](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=958&z=2015-01-01&g=2015-01-01) is voorgeschreven.
 
 ##### Artikel 979
 
@@ -721,7 +713,7 @@ Erfstelling is een uiterste wilsbeschikking, waarbij de erflater aan een of meer
 
 1. Bij het overlijden van de erflater, treden van rechtswege in het bezit van de nagelaten goederen, zowel de bij uiterste wil benoemde erfgenamen, als degenen aan wie de wet een gedeelte in de nalatenschap toekent.
 
-2. [Artikel 862](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Eerste&artikel=862&z=2010-10-10&g=2010-10-10) is op hen toepasselijk.
+2. [Artikel 862](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Elfde&afdeling=Eerste&artikel=862&z=2015-01-01&g=2015-01-01) is op hen toepasselijk.
 
 ##### Artikel 982
 
@@ -809,7 +801,7 @@ Wanneer de nalatenschap niet voor het geheel of een gedeelte is aanvaard, of wan
 
 ##### Artikel 1000
 
-1. Insgelijks zal de uiterste wilsbeschikking bestaanbaar zijn ten voordele van een of meer broeders of zusters van de erflater, voor het geheel of een gedeelte der goederen, die bij de wet niet buiten beschikking gehouden zijn, onder de last om de goederen ui te keren, zowel aan de kinderen van zijn voorzeide broeders en zusters welke reeds geboren zijn, als aan die welke nog geboren zullen worden.
+1. Insgelijks zal de uiterste wilsbeschikking bestaanbaar zijn ten voordele van een of meer broeders of zusters van de erflater, voor het geheel of een gedeelte der goederen, die bij de wet niet buiten beschikking gehouden zijn, onder de last om de goederen uit te keren, zowel aan de kinderen van zijn voorzeide broeders en zusters welke reeds geboren zijn, als aan die welke nog geboren zullen worden.
 
 2. Dezelfde beschikking kan worden gemaakt ten voordele van een of meer kinderen van vooroverleden broeders of zusters, onder de last om de goederen uit te keren, zowel aan derzelver kinderen die reeds geboren zijn, als aan die welke nog geboren zullen worden.
 
@@ -821,7 +813,7 @@ Wanneer de nalatenschap niet voor het geheel of een gedeelte is aanvaard, of wan
 
 ##### Artikel 1002
 
-De beschikkingen, bij de [artikelen 999](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=999&z=2010-10-10&g=2010-10-10) en [1000](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1000&z=2010-10-10&g=2010-10-10) toegelaten, zullen niet anders gelden dan voor zover de erfstelling over de hand slechts zal zijn gemaakt voor één graad, en ten voordele van al de kinderen van de bezwaarde persoon die reeds geboren zijn, en nog geboren zullen worden, zonder uitzondering of voorrang van ouderdom of kunne.
+De beschikkingen, bij de [artikelen 999](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=999&z=2015-01-01&g=2015-01-01) en [1000](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1000&z=2015-01-01&g=2015-01-01) toegelaten, zullen niet anders gelden dan voor zover de erfstelling over de hand slechts zal zijn gemaakt voor één graad, en ten voordele van al de kinderen van de bezwaarde persoon die reeds geboren zijn, en nog geboren zullen worden, zonder uitzondering of voorrang van ouderdom of kunne.
 
 ##### Artikel 1003
 
@@ -891,11 +883,11 @@ De bezwaarde erfgenaam, die zelf het beheer heeft, moet het bezwaarde goed als e
 
 ##### Artikel 1015
 
-In geval van erfstelling of van legaat, op de voet als bij [artikel 908](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Eerste&artikel=908&z=2010-10-10&g=2010-10-10) is vermeld, is de bezwaarde erfgenaam of legataris bevoegd om het aan hem gemaakte te vervreemden en te verteren, en zelfs bij schenking onder de levenden daarover te beschikken, tenzij dit laatste door de erflater, voor het geheel of ten dele, mocht zijn verboden.
+In geval van erfstelling of van legaat, op de voet als bij [artikel 908](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Eerste&artikel=908&z=2015-01-01&g=2015-01-01) is vermeld, is de bezwaarde erfgenaam of legataris bevoegd om het aan hem gemaakte te vervreemden en te verteren, en zelfs bij schenking onder de levenden daarover te beschikken, tenzij dit laatste door de erflater, voor het geheel of ten dele, mocht zijn verboden.
 
 ##### Artikel 1016
 
-De verplichting tot het maken ener boedelbeschrijving of lijst, na het overlijden van de erflater, en tot het overbrengen van die stukken ter griffie van het gerecht in eerste aanleg, bij de [artikelen 1006](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1006&z=2010-10-10&g=2010-10-10) en [1007](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1007&z=2010-10-10&g=2010-10-10) voorgeschreven, is ook toepasselijk op de bezwaarde erfgenaam of legataris, van welke bij deze afdeling wordt gehandeld; doch hij is niet gehouden om enige zekerheid te stellen.
+De verplichting tot het maken ener boedelbeschrijving of lijst, na het overlijden van de erflater, en tot het overbrengen van die stukken ter griffie van het gerecht in eerste aanleg, bij de [artikelen 1006](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1006&z=2015-01-01&g=2015-01-01) en [1007](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Zevende&artikel=1007&z=2015-01-01&g=2015-01-01) voorgeschreven, is ook toepasselijk op de bezwaarde erfgenaam of legataris, van welke bij deze afdeling wordt gehandeld; doch hij is niet gehouden om enige zekerheid te stellen.
 
 ##### Artikel 1017
 
@@ -907,7 +899,7 @@ De verplichting tot het maken ener boedelbeschrijving of lijst, na het overlijde
 
 ##### Artikel 1018
 
-Een uiterste wil kan, noch in zijn geheel, noch ten dele, herroepen worden dan bij een latere uiterste wilsbeschikking, of bij een bijzondere notariële akte, waarbij de erflater de gehele of gedeeltelijke intrekking van zijn vroegere uiterste wil te kennen geeft, onverminderd de bepaling van [artikel 960](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=960&z=2010-10-10&g=2010-10-10).
+Een uiterste wil kan, noch in zijn geheel, noch ten dele, herroepen worden dan bij een latere uiterste wilsbeschikking, of bij een bijzondere notariële akte, waarbij de erflater de gehele of gedeeltelijke intrekking van zijn vroegere uiterste wil te kennen geeft, onverminderd de bepaling van [artikel 960](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=960&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 1019
 
@@ -971,7 +963,7 @@ De vervallenverklaring van uiterste wilsbeschikkingen kan, na de dood des erflat
 
 ##### Artikel 1031
 
-1. Een erflater mag, hetzij bij uiterste wil, hetzij bij zodanige onderhandse akte als bij [artikel 961](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=961&z=2010-10-10&g=2010-10-10) vermeld is, hetzij bij een bijzondere notariële akte, een of meet uitvoerders van zijn uiterste wilsbeschikking aanstellen.
+1. Een erflater mag, hetzij bij uiterste wil, hetzij bij zodanige onderhandse akte als bij [artikel 961](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Twaalfde&afdeling=Vierde&artikel=961&z=2015-01-01&g=2015-01-01) vermeld is, hetzij bij een bijzondere notariële akte, een of meer uitvoerders van zijn uiterste wilsbeschikking aanstellen.
 
 2. Hij kan ook verscheidene personen benoemen, ten einde bij ontstentenis elkander als uitvoerders op te volgen.
 
@@ -1041,7 +1033,7 @@ Elke bepaling, waarbij de erflater bevolen heeft, dat de uitvoerder zijns uiters
 
 1. Onverminderd het reeds bepaalde voor het geval van vruchtgebruik, van erfstellingen over de hand, en van minderjarigen en onder curatele gestelden, mag de erflater bij uiterste wil, of bij een bijzondere notariële akte, een of meer bewindvoerders aanstellen, ten einde de goederen, aan zijn erfgenamen of legatarissen nagelaten, gedurende derzelver leven, of gedurende een bepaalde tijd, te beheren, mits hierdoor geen inbreuk worde gemaakt op de vrije uitkering van het wettelijk aandeel der erfgenamen.
 
-2. De bepalingen van [artikel 1048](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Dertiende&artikel=1048&z=2010-10-10&g=2010-10-10) zijn op dit geval toepasselijk.
+2. De bepalingen van [artikel 1048](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Dertiende&artikel=1048&z=2015-01-01&g=2015-01-01) zijn op dit geval toepasselijk.
 
 ##### Artikel 1047
 
@@ -1055,7 +1047,7 @@ Indien de erflater geen personen heeft aangewezen, welke in de plaats van de ont
 
 ##### Artikel 1049
 
-De uitvoerders van uiterste wilsbeschikkingen, mitsgaders de bewindvoerders bij [artikel 1046](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Dertiende&artikel=1046&z=2010-10-10&g=2010-10-10) vermeld, kunnen om dezelfde redenen als de voogden worden afgezet.
+De uitvoerders van uiterste wilsbeschikkingen, mitsgaders de bewindvoerders bij [artikel 1046](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Dertiende&artikel=1046&z=2015-01-01&g=2015-01-01) vermeld, kunnen om dezelfde redenen als de voogden worden afgezet.
 
 ## Titel Veertiende. Van het recht van beraad en het voorrecht van boedelbeschrijving
 
@@ -1089,9 +1081,9 @@ De rechter in eerste aanleg kan, op verzoek der belanghebbende partijen, al zoda
 
 ##### Artikel 1055
 
-1. Na verloop van de termijn bij [artikel 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2010-10-10&g=2010-10-10) bepaald, kan de erfgenaam worden genoodzaakt de nalatenschap te verwerpen of dezelve te aanvaarden, hetzij zuiver, hetzij onder het voorrecht van boedelbeschrijving. In het laatste geval moet daarvan een verklaring worden afgelegd, op dezelfde wijze als bij [artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2010-10-10&g=2010-10-10) is vastgesteld.
+1. Na verloop van de termijn bij [artikel 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2015-01-01&g=2015-01-01) bepaald, kan de erfgenaam worden genoodzaakt de nalatenschap te verwerpen of dezelve te aanvaarden, hetzij zuiver, hetzij onder het voorrecht van boedelbeschrijving. In het laatste geval moet daarvan een verklaring worden afgelegd, op dezelfde wijze als bij [artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2015-01-01&g=2015-01-01) is vastgesteld.
 
-2. Het bepaalde bij het [tweede lid van artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2010-10-10&g=2010-10-10) is in dit geval mede van toepassing.
+2. Het bepaalde bij het [tweede lid van artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2015-01-01&g=2015-01-01) is in dit geval mede van toepassing.
 
 ##### Artikel 1056
 
@@ -1133,7 +1125,7 @@ De erfgenaam, die de nalatenschap onder het voorrecht van boedelbeschrijving hee
 
 ##### Artikel 1062
 
-Binnen de tijd van drie maanden, te rekenen van het verloop des termijns bij [artikel 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2010-10-10&g=2010-10-10) bepaald, zal de erfgenaam verplicht zijn om, door middel van een aankondiging in een der in de openbare lichamen Bonaire, Sint Eustatius of Saba verschijnende nieuwsbladen, alsmede door aanplakking aan het gebouw van het gerecht in eerste aanleg, de onbekende schuldeisers op te roepen, ten einde zowel aan dezen, als aan degenen die bekend zijn, en aan de legatarissen, dadelijk rekening en verantwoording van zijn beheer af te leggen, en hun schuldvorderingen en legaten te voldoen, voor zover het bedrag der nalatenschap toereikend zal zijn.
+Binnen de tijd van drie maanden, te rekenen van het verloop des termijns bij [artikel 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2015-01-01&g=2015-01-01) bepaald, zal de erfgenaam verplicht zijn om, door middel van een aankondiging in een der in de openbare lichamen Bonaire, Sint Eustatius of Saba verschijnende nieuwsbladen, alsmede door aanplakking aan het gebouw van het gerecht in eerste aanleg, de onbekende schuldeisers op te roepen, ten einde zowel aan dezen, als aan degenen die bekend zijn, en aan de legatarissen, dadelijk rekening en verantwoording van zijn beheer af te leggen, en hun schuldvorderingen en legaten te voldoen, voor zover het bedrag der nalatenschap toereikend zal zijn.
 
 ##### Artikel 1063
 
@@ -1147,7 +1139,7 @@ Indien er enig verzet plaatsheeft, kunnen de schuldeisers niet worden voldaan, d
 
 ##### Artikel 1065
 
-1. De legatarissen kunnen de voldoening van hun legaten niet eisen, dan na verloop van de bij [artikel 1062](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1062&z=2010-10-10&g=2010-10-10) bepaalde termijn, en na de uitbetaling waarvan bij [artikel 1063](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1063&z=2010-10-10&g=2010-10-10) gesproken wordt.
+1. De legatarissen kunnen de voldoening van hun legaten niet eisen, dan na verloop van de bij [artikel 1062](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1062&z=2015-01-01&g=2015-01-01) bepaalde termijn, en na de uitbetaling waarvan bij [artikel 1063](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1063&z=2015-01-01&g=2015-01-01) gesproken wordt.
 
 2. De schuldeisers, die na de voldoening der legaten opkomen, hebben alleen hun verhaal tegen de legatarissen.
 
@@ -1165,7 +1157,7 @@ De kosten van verzegeling, van boedelbeschrijving, van het opmaken der rekening,
 
 ##### Artikel 1068
 
-De bepalingen van de [artikelen 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2010-10-10&g=2010-10-10), [1057](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1057&z=2010-10-10&g=2010-10-10) en volgende zijn insgelijks toepasselijk op erfgenamen, die, zonder zich van het recht van beraad bediend te hebben, een erfenis onder het voorrecht van boedelbeschrijving aanvaard hebben, door de verklaring af te leggen bij het slot van [artikel 1055](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1055&z=2010-10-10&g=2010-10-10) vermeld.
+De bepalingen van de [artikelen 1051](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1051&z=2015-01-01&g=2015-01-01), [1057](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1057&z=2015-01-01&g=2015-01-01) en volgende zijn insgelijks toepasselijk op erfgenamen, die, zonder zich van het recht van beraad bediend te hebben, een erfenis onder het voorrecht van boedelbeschrijving aanvaard hebben, door de verklaring af te leggen bij het slot van [artikel 1055](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1055&z=2015-01-01&g=2015-01-01) vermeld.
 
 ##### Artikel 1069
 
@@ -1211,7 +1203,7 @@ Wanneer iemand, aan wie een erfenis is opgekomen, overleden is zonder die verwor
 
 ##### Artikel 1078
 
-Hij, die voor zijn erfdeel een erfenis heeft aanvaard, vermag het aandeel niet te verwerpen, hetwelk hem door recht van aanwas is opgekomen, behalve in het geval bij [artikel 1080](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Vijftiende&afdeling=Eerste&artikel=1080&z=2010-10-10&g=2010-10-10) voorzien.
+Hij, die voor zijn erfdeel een erfenis heeft aanvaard, vermag het aandeel niet te verwerpen, hetwelk hem door recht van aanwas is opgekomen, behalve in het geval bij [artikel 1080](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Vijftiende&afdeling=Eerste&artikel=1080&z=2015-01-01&g=2015-01-01) voorzien.
 
 ##### Artikel 1079
 
@@ -1235,7 +1227,7 @@ De erfgenaam, die de erfenis verworpen heeft, kan dezelve nog aanvaarden, zolang
 
 1. Het verwerpen ener erfenis moet uitdrukkelijk geschieden, en moet plaatshebben door middels ener verklaring, afgelegd ter griffie van het gerecht in eerste aanleg, onder welks ressort de erfenis opengevallen is.
 
-2. Het bepaalde bij het [tweede lid van artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2010-10-10&g=2010-10-10) is hier van toepassing.
+2. Het bepaalde bij het [tweede lid van artikel 1050](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1050&z=2015-01-01&g=2015-01-01) is hier van toepassing.
 
 ##### Artikel 1084
 
@@ -1371,7 +1363,7 @@ De erfgenaam, die de erfenis verwerpt, is niet gehouden in te brengen hetgeen aa
 
 ##### Artikel 1114
 
-Indien de inbreng meer bedraagt dan het erfdeel, behoeft dat meerdere niet te worden ingebracht, onverminderd het bepaalde bij het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Tweede&artikel=1113&z=2010-10-10&g=2010-10-10).
+Indien de inbreng meer bedraagt dan het erfdeel, behoeft dat meerdere niet te worden ingebracht, onverminderd het bepaalde bij het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Tweede&artikel=1113&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 1115
 
@@ -1419,7 +1411,7 @@ De inbreng van gereed geld geschiedt ter keuze des inbrengers door de betaling v
 
 ##### Artikel 1122
 
-Behalve de schenkingen, in [artikel 1112](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Tweede&artikel=1112&z=2010-10-10&g=2010-10-10) aan inbreng onderworpen, moet ook worden ingebracht al hetgeen is verstrekt om aan de erfgenaam een stand, een beroep of bedrijf te verschaffen, of ter betaling van deszelfs schulden, en al hetgeen ten huwelijk is gegeven.
+Behalve de schenkingen, in [artikel 1112](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Tweede&artikel=1112&z=2015-01-01&g=2015-01-01) aan inbreng onderworpen, moet ook worden ingebracht al hetgeen is verstrekt om aan de erfgenaam een stand, een beroep of bedrijf te verschaffen, of ter betaling van deszelfs schulden, en al hetgeen ten huwelijk is gegeven.
 
 ##### Artikel 1123
 
@@ -1553,7 +1545,7 @@ Indien de verdeling niet gemaakt is tussen al de kinderen, die ten tijde van het
 
 ##### Artikel 1150
 
-De verdeling overeenkomstig [artikel 1147](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Vijfde&artikel=1147&z=2010-10-10&g=2010-10-10) gemaakt, kan worden vernietigd uit hoofde van benadeling, meer dan een vierde bedragende. Zij kan alsmede worden vernietigd, indien de verdeling, en hetgeen met vrijstelling van inbreng is vooruit gemaakt, het wettelijk erfdeel van de een of ander der afkomelingen mocht hebben verkort. De benadeelde kan de grond tot vernietiging inroepen.
+De verdeling overeenkomstig [artikel 1147](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Zestiende&afdeling=Vijfde&artikel=1147&z=2015-01-01&g=2015-01-01) gemaakt, kan worden vernietigd uit hoofde van benadeling, meer dan een vierde bedragende. Zij kan alsmede worden vernietigd, indien de verdeling, en hetgeen met vrijstelling van inbreng is vooruit gemaakt, het wettelijk erfdeel van de een of ander der afkomelingen mocht hebben verkort. De benadeelde kan de grond tot vernietiging inroepen.
 
 ##### Artikel 1151
 
@@ -1585,7 +1577,7 @@ Indien zich, na verloop van drie jaren, te rekenen van het openvallen der nalate
 
 ##### Artikel 1156
 
-De [artikelen 1062 tot en met 1065](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1062&z=2010-10-10&g=2010-10-10) en [1067](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1067&z=2010-10-10&g=2010-10-10) zijn ook op de curators van onbeheerde nalatenschappen toepasselijk. Zij kunnen als loon in rekening brengen twee en een half ten honderd der ontvangsten en anderhalf ten honderd der uitgaven.
+De [artikelen 1062 tot en met 1065](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1062&z=2015-01-01&g=2015-01-01) en [1067](https://wetten.overheid.nl/jci1.3:c:BWBR0028746&boek=4&titeldeel=Veertiende&artikel=1067&z=2015-01-01&g=2015-01-01) zijn ook op de curators van onbeheerde nalatenschappen toepasselijk. Zij kunnen als loon in rekening brengen twee en een half ten honderd der ontvangsten en anderhalf ten honderd der uitgaven.
 
 ## Titel Achttiende t/m twintigste
 
