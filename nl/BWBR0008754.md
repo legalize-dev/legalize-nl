@@ -4,7 +4,7 @@ identifier: "BWBR0008754"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008754"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2&z=2013-07-01&g=2013-07-01).
+1. In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2&z=2015-01-01&g=2015-01-01).
 
 2. Deze wet is van toepassing op de verstrekking van subsidie door Onze Minister, behoudens indien die subsidie wordt verstrekt krachtens een andere wet.
 
@@ -93,13 +93,13 @@ Onze Minister kan subsidies verstrekken voor activiteiten welke passen in:
 
 3. In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:21) is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.
 
-4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer of, bij het ontbreken daarvan, van het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) met het oog op rapportage over en evaluatie van de besteding van subsidie.
+4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer met het oog op rapportage over en evaluatie van de besteding van subsidie.
 
-5. De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de persoon op wie de persoonsgegevens betrekking hebben.
+5. De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer van de persoon op wie de persoonsgegevens betrekking hebben.
 
 ##### Artikel 4
 
-Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2013-07-01&g=2013-07-01), tenzij het een subsidie betreft:
+Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2015-01-01&g=2015-01-01), tenzij het een subsidie betreft:
 
 - a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23) of
 
@@ -131,7 +131,7 @@ Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verle
 
 ##### Artikel 9
 
-Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2013-07-01&g=2013-07-01), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
+Deze wet is, met uitzondering van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing op spoedeisende, tijdelijke verstrekking door Onze Minister van aanspraken op financiële middelen, niet zijnde subsidies, behoudens indien die aanspraak wordt verstrekt krachtens een andere wet.
 
 ##### Artikel 10
 
