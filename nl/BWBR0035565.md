@@ -205,9 +205,3 @@ De Minister verstrekt de subsidie met het oog op de beëindiging na 31 december 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch specialistische zorg.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst,
-
-##### Artikel 1a
-
-Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst,
