@@ -4,7 +4,7 @@ identifier: "BWBR0038831"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2014-02-15"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038831"
 soort: "wet"
@@ -52,8 +52,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
 Wijzigt de Algemene ouderdomswet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. [Burgerlijk Wetboek Boek 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
@@ -113,8 +111,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Werkloosheidswet.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XIIIa. [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459)
 
 Wijzigt de Wet algemene ouderdomsverzekering BES.
@@ -173,13 +169,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel XXI. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXII. [Wet kinderbijslagvoorziening BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037347)
 
@@ -264,11 +256,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXXV. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om enige wijzigingen aan te brengen in de wetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid en van het Ministerie van Veiligheid en Justitie;
-
-Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
