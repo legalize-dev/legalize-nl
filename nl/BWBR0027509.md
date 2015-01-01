@@ -4,7 +4,7 @@ identifier: "BWBR0027509"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-01"
-last_updated: "2013-10-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027509"
 soort: "ministeriele-regeling"
@@ -42,16 +42,22 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder Toetsingscommissie Wet werk en bijstand: de Toetsingscommissie, bedoeld in [artikel 73 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73).
+In dit besluit wordt verstaan onder Toetsingscommissie aanvullende uitkeringen Participatiewet: de Toetsingscommissie, bedoeld in [artikel 73 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73).
 
 ##### Artikel 2
 
-1. Aan de voorzitter van de Toetsingscommissie Wet werk en bijstand wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
+1. Aan de voorzitter van de Toetsingscommissie aanvullende uitkeringen Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
 
-2. Aan de andere leden van de Toetsingscommissie Wet werk en bijstand wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
+2. Aan de andere leden van de Toetsingscommissie aanvullende uitkeringen Participatiewet wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,08.
 
 ##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
+
+Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2a
+
+Deze regeling wordt aangehaald als: Besluit vaststelling vergoeding voorzitter en leden Toetsingscommissie aanvullende uitkeringen Participatiewet.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
