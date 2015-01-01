@@ -4,7 +4,7 @@ identifier: "BWBR0037464"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-08-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037464"
 soort: "AMvB"
@@ -63,8 +63,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
@@ -137,15 +135,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XVIII
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van de Staatssecretaris van Financiën van 23 november 2015, nr. IZV/2015/984;
-
-Gelet op de [artikelen 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), [3.127](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), [4.21](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.21), [4.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.25), [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.1), [7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.6) en [10.8 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.8), de [artikelen 18g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33) en [34 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=34), [artikel 75 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75), [artikel 15 van de Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=9) en [11 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=11), [artikel 15 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=15), de [artikelen 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) en [71 van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=71), de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=29) en [32 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=32), de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [64](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [70a](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70a) en [93 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93), [artikel 8:75 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75), [artikel 38 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=38), [artikel 38a van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [artikel 11 van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 11 december 2015, nr. W06.15.0414/III);
-
-Gezien het nader rapport van de Staatssecretaris van Financiën van 18 december 2015, nr. DB/2015/458;
-
-Hebben goedgevonden en verstaan:
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
