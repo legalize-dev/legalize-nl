@@ -4,7 +4,7 @@ identifier: "BWBR0031621"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2014-03-12"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031621"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **advies- en meldpunt kindermishandeling:** stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=10);
+- a. **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1);
 
 - b. **bemiddelingsmedewerker:** de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;
 
@@ -64,17 +64,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **groep:** een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;
 
-- f. **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1);
+- f. **huiselijk geweld:** huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1);
 
 - g. **kindermishandeling:** kindermishandeling als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
 
 - h. **meldcode:** meldcode huiselijk geweld en kindermishandeling;
 
-- i. **steunpunt huiselijk geweld:** steunpunt huiselijk geweld als bedoeld in [artikel 21b van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=21b);
+- i. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
 
-- j. **vraagouder:** ouder die kinderopvang vraagt die geboden wordt door een gastouder;
-
-- k. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
+- j. **wet:** [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017).
 
 #### Paragraaf 2. Kwaliteitseisen kindercentra
 
@@ -172,11 +170,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de ouders en, indien mogelijk, het kind;
 
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
@@ -198,7 +196,7 @@ Vervallen
 
 ##### Artikel 12. Veiligheid en gezondheid
 
-1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2014-03-12&g=2014-03-12) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
+1. De gastouder neemt de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=7&z=2015-01-01&g=2015-01-01) gezamenlijk met de bemiddelingsmedewerker van het gastouderbureau opgestelde inventarisatie van de veiligheids- en gezondheidsrisico’s van de opvang van kinderen in acht. Op ieder adres waar opvang plaatsvindt is een op dat specifieke adres toegespitste inventarisatie beschikbaar.
 
 2. De gastouder is goed telefonisch bereikbaar en zorgt voor adequate vervanging bij calamiteiten.
 
@@ -238,7 +236,7 @@ Vervallen
 
 ##### Artikel 16. Pedagogisch beleid en pedagogische praktijk
 
-De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2014-03-12&g=2014-03-12).
+De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gastouderbureau is opgesteld en ter beschikking gesteld op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk 2. Kwaliteitseisen peuterspeelzalen
 
@@ -308,11 +306,11 @@ De gastouder handelt overeenkomstig het pedagogisch beleidsplan dat door het gas
 
 ##### Artikel 21. Overgangsrecht
 
-1. De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
+1. De gastouder of de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal wordt geacht tot 1 juli 2017 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.62) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=2.20), voor 6 juni 2012 heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan, tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.
 
-2. Een certificaat als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=2&artikel=3&z=2014-03-12&g=2014-03-12), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2014-03-12&g=2014-03-12), van dit besluit bedoelde deskundigheidseis.
+2. Een certificaat als bedoeld in [artikel 3, tweede lid, van het Besluit deskundigheidseisen gastouders kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=3), zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&hoofdstuk=1&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01), van dit besluit bedoelde deskundigheidseis.
 
-3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.
+3. Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met een half jaar worden verlengd.
 
 #### Paragraaf 1. Overgangsbepaling
 
@@ -350,11 +348,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de ouders en, indien mogelijk, het kind;
 
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
@@ -380,11 +378,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de ouders en, indien mogelijk, het kind;
 
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
