@@ -83,9 +83,3 @@ Dit besluit wordt aangehaald als: Besluit advisering beschut werk.
 Dit besluit treedt in werking met ingang van 1 januari 2015
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Dit besluit berust mede op [artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
