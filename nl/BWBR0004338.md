@@ -4,7 +4,7 @@ identifier: "BWBR0004338"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2004-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004338"
 soort: "wet"
@@ -72,7 +72,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - f. het uitkeringsjaar: het kalenderjaar, waarop de uitkering betrekking heeft;
 
-- g. de uitkering: de jaarlijkse uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=4&z=2004-01-01&g=2004-01-01).
+- g. de uitkering: de jaarlijkse uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=4&z=2015-01-01&g=2015-01-01).
 
 2. Onze Minister kan als uitkeringsgerechtigde aanmerken een persoon:
 
@@ -98,7 +98,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 3
 
-1. Het recht op de uitkering van de rechthebbenden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2004-01-01&g=2004-01-01), vervalt met ingang van het uitkeringsjaar volgend op het jaar van overlijden van de betreffende rechthebbende.
+1. Het recht op de uitkering van de rechthebbenden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2015-01-01&g=2015-01-01), vervalt met ingang van het uitkeringsjaar volgend op het jaar van overlijden van de betreffende rechthebbende.
 
 2. Indien de niet gehuwde rechthebbende dan wel de gehuwde rechthebbende die geen weduwe of weduwnaar nalaat, is overleden voor 1 januari 1989, treden de erfgenamen in zijn of haar plaats en duurt het recht op de uitkering ten bate van de erfgenamen voort tot en met 31 december 1988.
 
@@ -110,11 +110,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De uitkering ten bedrage van € 907,56 's jaars wordt op aanvraag, met inachtneming van het in deze wet bepaalde, door Onze Minister toegekend aan de rechthebbende, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2004-01-01&g=2004-01-01).
+1. De uitkering ten bedrage van € 907,56 's jaars wordt op aanvraag, met inachtneming van het in deze wet bepaalde, door Onze Minister toegekend aan de rechthebbende, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2015-01-01&g=2015-01-01).
 
-2. De toekenning blijft van kracht zolang het recht op de uitkering voortduurt, met dien verstande dat in het geval, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2004-01-01&g=2004-01-01), de toekenning wordt gewijzigd zonder dat daartoe een nieuwe aanvraag wordt vereist.
+2. De toekenning blijft van kracht zolang het recht op de uitkering voortduurt, met dien verstande dat in het geval, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2015-01-01&g=2015-01-01), de toekenning wordt gewijzigd zonder dat daartoe een nieuwe aanvraag wordt vereist.
 
-3. In afwijking van het bepaalde in het tweede lid, eindigt de toekenning in de gevallen, bedoeld in [artikel 3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=3&z=2004-01-01&g=2004-01-01), bij het eindigen van het recht op de uitkering van de rechthebbende.
+3. In afwijking van het bepaalde in het tweede lid, eindigt de toekenning in de gevallen, bedoeld in [artikel 3, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=3&z=2015-01-01&g=2015-01-01), bij het eindigen van het recht op de uitkering van de rechthebbende.
 
 #### De aanvraag
 
@@ -134,7 +134,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - a. een aanvraag van de weduwe of weduwnaar, voorzover aan de uitkeringsgerechtigde reeds eerder een uitkering is toegekend;
 
-- b. een aanvraag van de erfgenamen, bedoeld in [artikel 3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=3&z=2004-01-01&g=2004-01-01), voorzover de aanvraag van de rechthebbende zelf geen eerste aanvraag zou zijn geweest.
+- b. een aanvraag van de erfgenamen, bedoeld in [artikel 3, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=3&z=2015-01-01&g=2015-01-01), voorzover de aanvraag van de rechthebbende zelf geen eerste aanvraag zou zijn geweest.
 
 #### De herdenkingspenning
 
@@ -168,7 +168,7 @@ De over de uitkering verschuldigde belasting ingevolgde de [Wet inkomstenbelasti
 
 ##### Artikel 9
 
-De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.
+De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.
 
 ##### Artikel 10
 
@@ -184,7 +184,7 @@ Ten aanzien van de uitkering blijft artikel 1461 van het Burgerlijk Wetboek buit
 
 ##### Artikel 12
 
-In afwijking van het bepaalde in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=5&z=2004-01-01&g=2004-01-01), kan de aanvraag voor de uitkering over het uitkeringsjaar 1986 tot uiterlijk 1 december 1986 worden ingediend.
+In afwijking van het bepaalde in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=5&z=2015-01-01&g=2015-01-01), kan de aanvraag voor de uitkering over het uitkeringsjaar 1986 tot uiterlijk 1 december 1986 worden ingediend.
 
 ##### Artikel 13
 
