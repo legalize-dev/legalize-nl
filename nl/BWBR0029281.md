@@ -4,7 +4,7 @@ identifier: "BWBR0029281"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029281"
 soort: "wet-BES"
@@ -53,7 +53,7 @@ De [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=I)
 
 - c. zij, die tijdelijk op de BES eilanden verblijven en hetzij in Aruba, Curaçao, Sint Maarten, Nederland wonen, hetzij aldaar geacht worden te wonen volgens de daar geldende wetgeving inzake de belasting naar het inkomen, als niet op de BES eilanden wonend worden beschouwd indien hun verblijf niet langer dan een jaar duurt.
 
-3. Aan de inkomstenbelasting zijn mede onderworpen de niet op de BES eilanden wonende personen, die binnenlandse bronnen van inkomen hebben als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2014-01-01&g=2014-01-01) (buitenlandse belastingplichtigen).
+3. Aan de inkomstenbelasting zijn mede onderworpen de niet op de BES eilanden wonende personen, die binnenlandse bronnen van inkomen hebben als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2015-01-01&g=2015-01-01) (buitenlandse belastingplichtigen).
 
 ##### Artikel 2
 
@@ -69,7 +69,7 @@ De volgende verrichtingen van niet op de BES eilanden wonende personen worden, o
 
 1. De op de BES eilanden wonende personen zijn belastingplichtig naar hun belastbaar inkomen.
 
-2. Belastbaar inkomen is het in een belastingjaar genoten zuiver inkomen verminderd met de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=15&z=2014-01-01&g=2014-01-01) te verrekenen verliezen.
+2. Belastbaar inkomen is het in een belastingjaar genoten zuiver inkomen verminderd met de op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=15&z=2015-01-01&g=2015-01-01) te verrekenen verliezen.
 
 3. Zuiver inkomen is het inkomen verminderd met de persoonlijke lasten en de buitengewone lasten.
 
@@ -119,7 +119,7 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning:
 
 ##### Artikel 6
 
-1. De opbrengst van onderneming en arbeid omvat de niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2014-01-01&g=2014-01-01) vallende voordelen, die als winst, honorarium, traktement, salaris, loon, vrije woning, vrije kost en inwoning, aandeel in winst of overwinst, tantième, gratificatie, vacatie- of presentiegeld of onder welke naam of vorm ook worden verkregen uit bedrijf of beroep (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door belastingplichtige zelf of door een ander vervuld daaronder begrepen) en uit handelingen, werkzaamheden en diensten van elke aard.
+1. De opbrengst van onderneming en arbeid omvat de niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2015-01-01&g=2015-01-01) vallende voordelen, die als winst, honorarium, traktement, salaris, loon, vrije woning, vrije kost en inwoning, aandeel in winst of overwinst, tantième, gratificatie, vacatie- of presentiegeld of onder welke naam of vorm ook worden verkregen uit bedrijf of beroep (ambt, waardigheid, bediening en bestaande of vroegere dienstbetrekking door belastingplichtige zelf of door een ander vervuld daaronder begrepen) en uit handelingen, werkzaamheden en diensten van elke aard.
 
 2. Onder die voordelen worden mede begrepen:
 
@@ -131,11 +131,11 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning:
 
 - d. voordelen, behaald met of bij het overdragen of liquideren van een bedrijf of beroep, of een gedeelte daarvan;
 
-- e. verschillen tussen de verkoopwaarde of, indien deze niet is te bepalen, de geldswaarde en de fiscale boekwaarde van tot het bedrijfs- of beroepsvermogen behorende goederen welke blijken bij overlijden van een belastingplichtige, met dien verstande dat deze geacht worden te behoren tot het inkomen van het laatste in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=12&z=2014-01-01&g=2014-01-01) bedoelde jaar of tijdvak;
+- e. verschillen tussen de verkoopwaarde of, indien deze niet is te bepalen, de geldswaarde en de fiscale boekwaarde van tot het bedrijfs- of beroepsvermogen behorende goederen welke blijken bij overlijden van een belastingplichtige, met dien verstande dat deze geacht worden te behoren tot het inkomen van het laatste in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=12&z=2015-01-01&g=2015-01-01) bedoelde jaar of tijdvak;
 
 - f. stortingen van de werkgever ten name van de werknemer in een spaar- of voorzieningsfonds benevens de op het tegoed bijgeschreven rente;
 
-- g. de uitkeringen ontvangen bij uittreding uit een pensioenfonds of bij afkoop of beëindiging van pensioenaanspraken, voor zover de aanspraken worden ontleend aan onder het [zesde lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01) of onder het [eerste lid van artikel 16, letter e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), vallende bijdragen of premiën;
+- g. de uitkeringen ontvangen bij uittreding uit een pensioenfonds of bij afkoop of beëindiging van pensioenaanspraken, voor zover de aanspraken worden ontleend aan onder het [zesde lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01) of onder het [eerste lid van artikel 16, letter e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), vallende bijdragen of premiën;
 
 - h. de uitkeringen van ongevallengelden en ziekengelden ingevolge de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) en de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728).
 
@@ -161,7 +161,7 @@ Voor de toepassing van deze wet wordt onder eigen woning verstaan een woning:
 
 Als inkomen of deel van het inkomen wordt niet beschouwd:
 
-- a. periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2014-01-01&g=2014-01-01), gedaan aan bloed- en aanverwanten in de rechte linie of in de tweede graad van de zijlinie, tenzij zij de tegenwaarde van een prestatie vormen;
+- a. periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01), gedaan aan bloed- en aanverwanten in de rechte linie of in de tweede graad van de zijlinie, tenzij zij de tegenwaarde van een prestatie vormen;
 
 - b. het aandeel in de winst van coöperatieve verenigingen, dat door de leden naar de maatstaf van de door hen bestede som wordt genoten, mits het doel der vereniging niet met het bedrijf of beroep harer leden in verband staat;
 
@@ -169,11 +169,11 @@ Als inkomen of deel van het inkomen wordt niet beschouwd:
 
 - d. winsten ontstaan door vervreemding van goederen anders dan in de uitoefening van een bedrijf of beroep;
 
-- e. hetgeen verkregen wordt uit erfenis of legaat, schenkingen en uitkeringen terzake van loterijen, voor zover niet vallende onder [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2014-01-01&g=2014-01-01);
+- e. hetgeen verkregen wordt uit erfenis of legaat, schenkingen en uitkeringen terzake van loterijen, voor zover niet vallende onder [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01);
 
 - f. hetgeen bij inbreng van de activa en passiva van een bedrijf in een naamloze vennootschap, firma, commanditaire vennootschap of maatschap voor de waarde waarvoor deze activa en passiva zijn opgenomen in de laatste fiscale winstbepalende balans van de inbrenger, de geldswaarde der verkregen aandelen of deelgerechtigdheid méér bedraagt dan het kapitaalsaldo volgens evengenoemde balans van de inbrenger, mits de naamloze vennootschap, firma, commanditaire vennootschap of maatschap zich verplicht de overgenomen activa en passiva met inbegrip van de goodwill der onderneming in haar openingsbalans te boek te stellen voor dezelfde waarden als waarvoor deze zijn opgenomen in de laatste fiscale winstbepalende balans van de inbrenger en de naamloze vennootschap, firma, commanditaire vennootschap of maatschap zich tevens tegenover de Inspecteur verplicht van het stelsel van waarderen, dat door de inbrenger werd toegepast, alleen af te wijken in de gevallen waarin goed koopmansgebruik ook aan de inbrenger zou toestaan van stelsel te veranderen;
 
-- g. het voordeel bedoeld in [artikel 6 tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2014-01-01&g=2014-01-01), mits de nieuwe verkrijger zich verplicht de verkregen activa en passiva met inbegrip van de goodwill in de openingsbalans te boek te stellen voor dezelfde waarden als waarvoor deze zijn opgenomen in de laatste fiscale winstbepalende balans van de overledene en de nieuwe verkrijger zich tevens tegenover de Inspecteur verplicht van het stelsel van waarderen, dat door de overledene werd toegepast, alleen af te wijken in de gevallen waarin goed koopmansgebruik ook aan de overledene zulks zou toestaan;
+- g. het voordeel bedoeld in [artikel 6 tweede lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01), mits de nieuwe verkrijger zich verplicht de verkregen activa en passiva met inbegrip van de goodwill in de openingsbalans te boek te stellen voor dezelfde waarden als waarvoor deze zijn opgenomen in de laatste fiscale winstbepalende balans van de overledene en de nieuwe verkrijger zich tevens tegenover de Inspecteur verplicht van het stelsel van waarderen, dat door de overledene werd toegepast, alleen af te wijken in de gevallen waarin goed koopmansgebruik ook aan de overledene zulks zou toestaan;
 
 - h. de premies door de werkgever betaald ingevolge de [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497) en de [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728);
 
@@ -245,7 +245,7 @@ Bijtelling heeft plaats tot ten hoogste het bedrag waarvoor destijds aftrek is v
 
 - f. flessen, kisten en andere verpakkingsmiddelen;
 
-- g. voorwerpen van geringe waarde, omschreven in [artikel 10, tweede lid onder b.](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2014-01-01&g=2014-01-01);
+- g. voorwerpen van geringe waarde, omschreven in [artikel 10, tweede lid onder b.](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2015-01-01&g=2015-01-01);
 
 - h. door de belastingplichtige aan te wijzen andere bedrijfsmiddelen.
 
@@ -269,11 +269,11 @@ Bijtelling heeft plaats tot ten hoogste het bedrag waarvoor destijds aftrek is v
 
 ##### Artikel 9b
 
-Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), [artikel 9A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9a&z=2014-01-01&g=2014-01-01) en [artikel 10 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2014-01-01&g=2014-01-01) vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding.
+Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), [artikel 9A, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9a&z=2015-01-01&g=2015-01-01) en [artikel 10 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2015-01-01&g=2015-01-01) vindt slechts toepassing, indien door de belastingplichtige een regelmatige boekhouding wordt gevoerd, met geregelde jaarlijkse afsluitingen. Houdt de belastingplichtige op aldus boek te houden dan wordt de reserve volgens artikel 10 lid 4 opgenomen in de winst van het laatste kalenderjaar met regelmatige boekhouding.
 
 ##### Artikel 9c
 
-1. Op de opbrengst uit arbeid, bedrijf en beroep, komen niet in mindering de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), bedoelde kosten welke verband houden met de volgende posten:
+1. Op de opbrengst uit arbeid, bedrijf en beroep, komen niet in mindering de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), bedoelde kosten welke verband houden met de volgende posten:
 
 - a. de werkruimte, de inrichting daaronder begrepen, in de woning van de belastingplichtige als:
 
@@ -303,11 +303,11 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - l. misdrijven ter zake waarvan de belastingplichtige ter voorkoming van strafvervolging op de BES eilanden aan de gestelde voorwaarden heeft voldaan;
 
-- m. de kosten en lasten van een tot het ondernemingsvermogen behorende woning, met uitzondering van afschrijving, voor zover deze kosten en lasten meer bedragen dan het bedrag dat ter zake van het gebruik ervan voor de berekening van de loon- of inkomstenbelasting bij de gebruiker als loon of winst in aanmerking wordt genomen, een en ander onverminderd het bepaalde in [artikel 16, eerste lid, onderdeel h, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01);
+- m. de kosten en lasten van een tot het ondernemingsvermogen behorende woning, met uitzondering van afschrijving, voor zover deze kosten en lasten meer bedragen dan het bedrag dat ter zake van het gebruik ervan voor de berekening van de loon- of inkomstenbelasting bij de gebruiker als loon of winst in aanmerking wordt genomen, een en ander onverminderd het bepaalde in [artikel 16, eerste lid, onderdeel h, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01);
 
 - n. steekpenningen.
 
-2. Het gezamenlijk bedrag van kosten als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), voor zover die verband houden met een hierna te noemen post, wordt, behalve voor zover de kosten ten laste komen van de winst uit bedrijf van de belastingplichtige, in aanmerking genomen met inachtneming van de daarbij gegeven normering:
+2. Het gezamenlijk bedrag van kosten als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), voor zover die verband houden met een hierna te noemen post, wordt, behalve voor zover de kosten ten laste komen van de winst uit bedrijf van de belastingplichtige, in aanmerking genomen met inachtneming van de daarbij gegeven normering:
 
 - a. muziekinstrumenten, geluidsapparatuur, gereedschap, tekstverwerkers, schrijf- en rekenmachines, computers, faxmachines, apparatuur voor telefoongesprekken, andere dergelijke apparatuur, alsmede beeldapparatuur: voor zover het gezamenlijk bedrag per jaar, op basis van afschrijving in drie jaar, uitgaat boven USD 419;
 
@@ -353,13 +353,13 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 5. De op de voet van het vierde lid gevormde reserve wordt uiterlijk in het vierde kalenderjaar volgende op dat waarin de reserve is ontstaan, in de winst opgenomen, tenzij voor de vervanging of het herstel een langer tijdvak vereist is dan wel de vervanging of het herstel, mits daaraan een begin van uitvoering is gegeven, door bijzondere omstandigheden is vertraagd.
 
-6. Voor de toepassing van [artikel 9 vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), blijft de vermindering van de kosten van vervanging of herstel ingevolge het vierde lid buiten aanmerking; het bedrag van die vermindering wordt geacht naar gelang van de op de voet van artikel 9, vijfde lid, mogelijke afschrijvingen te zijn afgeschreven.
+6. Voor de toepassing van [artikel 9 vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), blijft de vermindering van de kosten van vervanging of herstel ingevolge het vierde lid buiten aanmerking; het bedrag van die vermindering wordt geacht naar gelang van de op de voet van artikel 9, vijfde lid, mogelijke afschrijvingen te zijn afgeschreven.
 
-7. Bij het staken van een bedrijf of beroep dan wel bij overdracht of liquidatie van het gedeelte waartoe de in het vierde lid bedoelde reserve behoort, wordt deze reserve aangemerkt als een voordeel in de zin van [artikel 6, letter d](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2014-01-01&g=2014-01-01).
+7. Bij het staken van een bedrijf of beroep dan wel bij overdracht of liquidatie van het gedeelte waartoe de in het vierde lid bedoelde reserve behoort, wordt deze reserve aangemerkt als een voordeel in de zin van [artikel 6, letter d](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 11
 
-1. Tot de bestanddelen van het in het [vierde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01) omschreven inkomen behoren mede:
+1. Tot de bestanddelen van het in het [vierde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01) omschreven inkomen behoren mede:
 
 - 1°. Afkoopsommen, schadeloosstellingen en tegemoetkomingen welke toegekend zijn:
 
@@ -415,17 +415,17 @@ Het bepaalde in [artikel 9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 9. Winst uit aanmerkelijk belang wordt beschouwd te zijn genoten ten aanzien van:
 
-- a. reguliere voordelen: op het tijdstip bepaald overeenkomstig [artikel 16B](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16b&z=2014-01-01&g=2014-01-01);
+- a. reguliere voordelen: op het tijdstip bepaald overeenkomstig [artikel 16B](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16b&z=2015-01-01&g=2015-01-01);
 
 - b. vervreemdingsvoordelen: op het tijdstip van de vervreemding, met dien verstande dat in geval van het ophouden van de binnenlandse belastingplicht als tijdstip van genieten wordt aangemerkt het tijdstip dat onmiddellijk voorafgaat aan het ophouden van de binnenlandse belastingplicht.
 
 10. Het tweede lid is niet van toepassing op afkoop van pensioen, behoudens voor zover het betreft een overgang als bedoeld in [artikel 6B, tweede lid, tweede volzin, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6b).
 
-11. Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.
+11. Het tweede lid is voorts niet van toepassing op afkoop van een recht op lijfrente als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), behoudens voor zover het recht wordt omgezet in een ander recht op een soortgelijke lijfrente.
 
 ##### Artikel 12
 
-1. De belasting wordt geheven over de in enig kalenderjaar genoten belastbare som. Heeft de belastingplicht slechts gedurende een gedeelte van het kalenderjaar bestaan, dan treedt dit gedeelte (belastingtijdvak) daarvoor in de plaats. Ter berekening van de dan verschuldigde belasting wordt het in het belastingtijdvak genoten zuiver inkomen, met uitzondering van het inkomen, bedoeld in [artikel 11, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2014-01-01&g=2014-01-01), herleid tot een voljaarsinkomen. Van de hierover volgens [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2014-01-01&g=2014-01-01) verschuldigde belasting, na vermindering van de in [artikel 24, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2014-01-01&g=2014-01-01), bedoelde bedragen, is zoveel driehonderdzestigsten verschuldigd als het aantal dagen bedraagt waarover in het kalenderjaar belastingplicht heeft bestaan.
+1. De belasting wordt geheven over de in enig kalenderjaar genoten belastbare som. Heeft de belastingplicht slechts gedurende een gedeelte van het kalenderjaar bestaan, dan treedt dit gedeelte (belastingtijdvak) daarvoor in de plaats. Ter berekening van de dan verschuldigde belasting wordt het in het belastingtijdvak genoten zuiver inkomen, met uitzondering van het inkomen, bedoeld in [artikel 11, tiende en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2015-01-01&g=2015-01-01), herleid tot een voljaarsinkomen. Van de hierover volgens [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2015-01-01&g=2015-01-01) verschuldigde belasting, na vermindering van de in [artikel 24, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2015-01-01&g=2015-01-01), bedoelde bedragen, is zoveel driehonderdzestigsten verschuldigd als het aantal dagen bedraagt waarover in het kalenderjaar belastingplicht heeft bestaan.
 
 Bij de toepassing van het bovenstaande wordt iedere volle maand op dertig dagen en het jaar op 360 gesteld, terwijl de dag waarop een belastingtijdvak begint voor een volle dag wordt gerekend en de dag waarop een belastingtijdvak eindigt wordt verwaarloosd.
 
@@ -435,9 +435,9 @@ Bij de toepassing van het bovenstaande wordt iedere volle maand op dertig dagen 
 | --- | --- | --- | --- |
 |   | geschat jaarinkomen |   | de belasting van het geschatte jaarinkomen |
 
-volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2014-01-01&g=2014-01-01).
+volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2015-01-01&g=2015-01-01).
 
-3. Bij de toepassing van dit artikel worden de bedragen, genoemd in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), [16, eerste lid, onderdelen c en h, en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), en [artikel 16A, eerste lid, onderdeel e, tweede lid, onderdeel c, en het vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16a&z=2014-01-01&g=2014-01-01), evenredig toegepast voor het belastingtijdvak waarover de belastingplicht heeft bestaan.
+3. Bij de toepassing van dit artikel worden de bedragen, genoemd in de [artikelen 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), [16, eerste lid, onderdelen c en h, en het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), en [artikel 16A, eerste lid, onderdeel e, tweede lid, onderdeel c, en het vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16a&z=2015-01-01&g=2015-01-01), evenredig toegepast voor het belastingtijdvak waarover de belastingplicht heeft bestaan.
 
 ##### Artikel 13
 
@@ -453,7 +453,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 1. Indien de berekening van het zuiver inkomen leidt tot een negatief bedrag wordt dit aangemerkt als een verlies. Een verlies wordt verrekend met de zuivere inkomens van de volgende vijf belastingjaren, te beginnen bij het eerste van die jaren.
 
-2. Ingeval het huwelijk door overlijden van de belastingplichtige wordt ontbonden wordt diens verlies voor zover dat is voortgevloeid uit andere bestanddelen van het zuiver inkomen dan zijn bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2014-01-01&g=2014-01-01), verrekend met zuivere inkomens van de echtgenoot. De vorige volzin is slechts van toepassing indien zowel de belastingplichtige als zijn echtgenoot op het tijdstip van ontbinding van het huwelijk binnenlands belastingplichtig was.
+2. Ingeval het huwelijk door overlijden van de belastingplichtige wordt ontbonden wordt diens verlies voor zover dat is voortgevloeid uit andere bestanddelen van het zuiver inkomen dan zijn bedoeld in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01), verrekend met zuivere inkomens van de echtgenoot. De vorige volzin is slechts van toepassing indien zowel de belastingplichtige als zijn echtgenoot op het tijdstip van ontbinding van het huwelijk binnenlands belastingplichtig was.
 
 3. Ingeval het huwelijk wordt ontbonden anders dan door overlijden wordt het verlies van een belastingplichtige voor zover dit is voortgevloeid uit bestanddelen van zijn zuiver inkomen welke van de zijde van zijn echtgenoot zijn opgekomen en niet kan worden verrekend met zuiver inkomen van de jaren waarin het huwelijk heeft bestaan, uitsluitend verrekend met zuivere inkomens van de gewezen echtgenoot. Met ontbinding van een huwelijk wordt gelijkgesteld het duurzaam gescheiden gaan leven.
 
@@ -461,7 +461,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 1. Persoonlijke lasten zijn:
 
-- a. lijfrenten en andere periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2014-01-01&g=2014-01-01), met dien verstande dat:
+- a. lijfrenten en andere periodieke uitkeringen en verstrekkingen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01), met dien verstande dat:
 
 - 1°. indien zij de tegenwaarde van een prestatie vormen zij slechts aftrekbaar zijn voor zover zij, tezamen met de ter zake van de desbetreffende verplichting reeds betaalde uitkeringen, de waarde van de prestatie te boven gaan;
 
@@ -489,13 +489,13 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - 4°. premies voor brand- en natuurrampenverzekeringen. Voor de toepassing van dit onderdeel wordt onder eigen woning, die de belastingplichtige als hoofdverblijf ter beschikking staat, mede begrepen andere eigen woningen, die de belastingplichtige ter beschikking staan.
 
-2. Voor de premiën, bedoeld onder letter e van het vorige lid, kan niet meer dan vijf ten honderd van het inkomen en niet meer dan USD 559 worden afgetrokken. Voor hen op wie het bepaalde in [artikel 9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), van toepassing is, kunnen die premiën slechts voor aftrek in aanmerking komen, indien en voor zover de volgens dat voorschrift toegelaten aftrek beneden evengenoemde grens blijft. Als giften worden voor de toepassing van het vorige lid onder f uitsluitend aangemerkt bevoordelingen uit vrijgevigheid en niet verplichte bijdragen, indien en voor zover aan deze bevoordelingen en bijdragen geen op geld waardeerbare aanspraak wordt ontleend, alsmede kerkelijke belastingen.
+2. Voor de premiën, bedoeld onder letter e van het vorige lid, kan niet meer dan vijf ten honderd van het inkomen en niet meer dan USD 559 worden afgetrokken. Voor hen op wie het bepaalde in [artikel 9, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), van toepassing is, kunnen die premiën slechts voor aftrek in aanmerking komen, indien en voor zover de volgens dat voorschrift toegelaten aftrek beneden evengenoemde grens blijft. Als giften worden voor de toepassing van het vorige lid onder f uitsluitend aangemerkt bevoordelingen uit vrijgevigheid en niet verplichte bijdragen, indien en voor zover aan deze bevoordelingen en bijdragen geen op geld waardeerbare aanspraak wordt ontleend, alsmede kerkelijke belastingen.
 
-3. Het maximum bedoeld in het eerste lid onder c en tweede lid van dit artikel en in het [3e en 6e lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01) gelden voor een aanslag over een vol jaar; indien er sprake is van een belastingtijdvak, worden deze maxima naar evenredigheid verminderd naar gelang het aantal dagen van het belastingtijdvak.
+3. Het maximum bedoeld in het eerste lid onder c en tweede lid van dit artikel en in het [3e en 6e lid van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01) gelden voor een aanslag over een vol jaar; indien er sprake is van een belastingtijdvak, worden deze maxima naar evenredigheid verminderd naar gelang het aantal dagen van het belastingtijdvak.
 
 4. In geval een woning aan twee of meer belastingplichtigen tegelijkertijd als hoofdverblijf ter beschikking staat, worden in afwijking van het eerste lid, onderdeel h, de aldaar genoemde maximale bedragen voor elk van hen naar evenredigheid toegepast.
 
-5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2014-01-01&g=2014-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
+5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
 
 - 1°. wordt het bedrag, genoemd in het eerste lid, onderdeel c, verhoogd tot USD 2.794;
 
@@ -525,13 +525,13 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 3. Tot de buitengewone lasten worden niet gerekend:
 
-- a. ter zake van studiekosten: andere kosten dan school- of collegegeld, kosten van boeken en ander verplicht lesmateriaal niet zijnde voorwerpen als omschreven in [artikel 9C, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9c&z=2014-01-01&g=2014-01-01), alsmede kosten van interinsulair of internationaal vervoer, met dien verstande dat in geval van het eerste lid, onderdeel e, ten hoogste aftrekbaar is de met één reis per jaar per kind gemoeide kosten van vervoer;
+- a. ter zake van studiekosten: andere kosten dan school- of collegegeld, kosten van boeken en ander verplicht lesmateriaal niet zijnde voorwerpen als omschreven in [artikel 9C, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9c&z=2015-01-01&g=2015-01-01), alsmede kosten van interinsulair of internationaal vervoer, met dien verstande dat in geval van het eerste lid, onderdeel e, ten hoogste aftrekbaar is de met één reis per jaar per kind gemoeide kosten van vervoer;
 
 - b. de premie die verschuldigd is ingevolge de [Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294).
 
 4. De in het eerste lid, onderdelen a, c en d, bedoelde uitgaven worden in aanmerking genomen voor zover zij gezamenlijk meer bedragen dan 5% van het inkomen, doch ten minste USD 838.
 
-5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2014-01-01&g=2014-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
+5. Ten aanzien van de belastingplichtige aan wie de in [artikel 20, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01), bedoelde bestanddelen van het inkomen van zijn echtgenoot worden toegerekend:
 
 - a. wordt het bedrag, genoemd in het eerste lid, onderdeel e, verhoogd tot USD 11.174;
 
@@ -553,7 +553,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 17
 
-1. De niet op de BES eilanden wonende personen bedoeld in [artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=I&artikel=1&z=2014-01-01&g=2014-01-01), zijn belastingplichtig naar hun gehele belastbaar inkomen genoten in het kalenderjaar of belastingtijdvak, voor zover dit werd verkregen uit de opbrengst van:
+1. De niet op de BES eilanden wonende personen bedoeld in [artikel 1, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=I&artikel=1&z=2015-01-01&g=2015-01-01), zijn belastingplichtig naar hun gehele belastbaar inkomen genoten in het kalenderjaar of belastingtijdvak, voor zover dit werd verkregen uit de opbrengst van:
 
 - a. [vervallen];
 
@@ -579,13 +579,13 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 18
 
-1. De zuivere opbrengst van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2014-01-01&g=2014-01-01) genoemde bronnen van inkomen wordt bepaald met inachtneming van de beginselen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=4&z=2014-01-01&g=2014-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2014-01-01&g=2014-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2014-01-01&g=2014-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2014-01-01&g=2014-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2014-01-01&g=2014-01-01), [9B](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9b&z=2014-01-01&g=2014-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2014-01-01&g=2014-01-01).
+1. De zuivere opbrengst van de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2015-01-01&g=2015-01-01) genoemde bronnen van inkomen wordt bepaald met inachtneming van de beginselen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9&z=2015-01-01&g=2015-01-01), [9B](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=9b&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=10&z=2015-01-01&g=2015-01-01).
 
-2. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2014-01-01&g=2014-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=15&z=2014-01-01&g=2014-01-01) en [16 eerste lid letter f](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01) zijn op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.
+2. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2015-01-01&g=2015-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=15&z=2015-01-01&g=2015-01-01) en [16 eerste lid letter f](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01) zijn op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.
 
 3. [vervallen].
 
-4. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01) is zijn niet op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.
+4. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01) is zijn niet op de in dit hoofdstuk bedoelde belastingplichtigen van toepassing.
 
 ##### Artikel 19
 
@@ -625,7 +625,7 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 - 5°. verkregen ter zake van echtscheiding of scheiding van tafel en bed.
 
-4. De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01).
+4. De persoonlijke verminderingen van het inkomen zijn de premies als bedoeld in [artikel 16, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01).
 
 5. Bij de scheiding van goederen blijft op verzoek van een dan wel van beide echtgenoten het tweede lid buiten toepassing. In dat geval wordt de belasting berekend als ware het tweede lid wel van toepassing. Vervolgens wordt de door beide echtgenoten tezamen verschuldigde belasting omgeslagen in verhouding van ieders zuiver inkomen.
 
@@ -633,11 +633,11 @@ volgens het tarief als bedoeld in [artikel 24A](https://wetten.overheid.nl/jci1.
 
 1. Het persoonlijk inkomen van een minderjarig kind, alsmede de persoonlijke verminderingen van zijn inkomen, wordt aangemerkt als inkomen van dat kind.
 
-2. Het zuiver inkomen van een minderjarig kind, anders dan dat bedoeld in het eerste lid, wordt, onverminderd het bepaalde in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2014-01-01&g=2014-01-01), aangemerkt als zuiver inkomen van de belastingplichtige die het gezag over dat kind uitoefent.
+2. Het zuiver inkomen van een minderjarig kind, anders dan dat bedoeld in het eerste lid, wordt, onverminderd het bepaalde in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01), aangemerkt als zuiver inkomen van de belastingplichtige die het gezag over dat kind uitoefent.
 
 ##### Artikel 21
 
-Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2014-01-01&g=2014-01-01) en [20A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20a&z=2014-01-01&g=2014-01-01) inkomensbestanddelen van een derde zijn toegerekend aan de belastingplichtige is die derde, onverminderd zijn aansprakelijkheid uit andere hoofde, aansprakelijk voor een evenredig deel van de verschuldigde belasting, bepaald naar verhouding van de zonder toepassing van dat artikel berekende belastbare inkomens.
+Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01) en [20A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=IV&artikel=20a&z=2015-01-01&g=2015-01-01) inkomensbestanddelen van een derde zijn toegerekend aan de belastingplichtige is die derde, onverminderd zijn aansprakelijkheid uit andere hoofde, aansprakelijk voor een evenredig deel van de verschuldigde belasting, bepaald naar verhouding van de zonder toepassing van dat artikel berekende belastbare inkomens.
 
 ##### Artikel 22
 
@@ -675,7 +675,7 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 - a. ten aanzien van binnenlandse belastingplichtigen: het belastbare inkomen verminderd met:
 
-- 1°. het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2014-01-01&g=2014-01-01);
+- 1°. het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - 2°. de belastingvrije som;
 
@@ -683,13 +683,13 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 - 4°. de ouderentoeslag indien de belastingplichtige bij de aanvang van het kalenderjaar de leeftijd heeft bereikt op grond waarvan hij ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) in aanmerking zou komen voor een uitkering;
 
-- b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in [artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2014-01-01&g=2014-01-01).
+- b. ten aanzien van buitenlandse belastingplichtigen: het belastbare inkomen voor zover dit is verkregen uit de opbrengsten, bedoeld in [artikel 17, eerste lid, aanhef en onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2015-01-01&g=2015-01-01).
 
-2. De belastingvrije som bedraagt USD 11.661.
+2. De belastingvrije som bedraagt USD 11.860.
 
-3. De kindertoeslag bedraagt USD 1.496 per kind, doch niet meer dan USD 2.992.
+3. De kindertoeslag bedraagt USD 1.522 per kind, doch niet meer dan USD 3.044.
 
-4. De ouderentoeslag bedraagt USD 1.318.
+4. De ouderentoeslag bedraagt USD 1.341.
 
 5. In afwijking van het derde lid wordt de kindertoeslag op nihil gesteld indien:
 
@@ -703,13 +703,13 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 ##### Artikel 24a
 
-1. Het bedrag van de over de belastbare som, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2014-01-01&g=2014-01-01), verschuldigde belasting wordt bepaald aan de hand van de navolgende tabel (tarieftabel):
+1. Het bedrag van de over de belastbare som, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2015-01-01&g=2015-01-01), verschuldigde belasting wordt bepaald aan de hand van de navolgende tabel (tarieftabel):
 
 | Bij een belastbare som van meer dan | doch niet meer dan | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat | bedraagt de belasting het in kolom III vermelde bedrag, vermeerderd met het bedrag berekend door het in kolom IV vermelde percentage te nemen van het gedeelte van de belastbare som dat het in kolom I vermelde bedrag te boven gaat |
 | --- | --- | --- | --- |
 | I | II | III | IV |
-| – | 269.568 | – | 30,4% |
-| 269.568 | – | 81.949 | 35,4% |
+| – | 274.150 | – | 30,4% |
+| 274.150 | – | 83.341 | 35,4% |
 
 2. Voor een belastingplichtige die premieplichtig is in de zin van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), de [Wet algemene weduwen- en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387) of ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.1) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels, wordt het op basis van het eerste lid berekende bedrag verminderd met het bedrag van de heffingskorting.
 
@@ -721,23 +721,23 @@ Indien ingevolge de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR00292
 
 6. De zorgverzekeringskorting geldt voor de belastingplichtige die premieplichtig is ingevolge de bij of krachtens de in [artikel 18.4.1 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.1) bedoelde algemene maatregel van bestuur inzake de Zorgverzekering BES gestelde regels en bedraagt het door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, op basis van die algemene maatregel van bestuur bij ministeriële regeling vastgestelde percentage vermenigvuldigd met de premiegrondslag waarover de belastingplichtige op grond van die algemene maatregel van bestuur premie verschuldigd is.
 
-7. Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 30.140 in aanmerking genomen.
+7. Voor de toepassing van het vierde, vijfde en zesde lid wordt als premiegrondslag ten hoogste een bedrag van USD 30.652 in aanmerking genomen.
 
-8. Indien in het belastbare inkomen persoonlijke lasten met betrekking tot een eigen woning als bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), zijn begrepen en de belastbare som:
+8. Indien in het belastbare inkomen persoonlijke lasten met betrekking tot een eigen woning als bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), zijn begrepen en de belastbare som:
 
 - a. meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid, vermelde bedrag, of
 
-- b. niet meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid vermelde bedrag maar meer zou bedragen dan dat bedrag indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), niet zouden zijn begrepen;
+- b. niet meer bedraagt dan het in de eerste kolom van de tabel in het eerste lid vermelde bedrag maar meer zou bedragen dan dat bedrag indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), niet zouden zijn begrepen;
 
 wordt in afwijking van het eerste lid de belasting op het belastbare inkomen bepaald met inachtneming van het bepaalde in de volgende leden.
 
-9. In gevallen als bedoeld in het achtste lid, onderdeel a, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01).
+9. In gevallen als bedoeld in het achtste lid, onderdeel a, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01).
 
-10. In gevallen als bedoeld in het achtste lid, onderdeel b, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van het bedrag waarmee de belastbare som het in de eerste kolom van de tabel in het eerste lid vermelde bedrag te boven zou gaan indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2014-01-01&g=2014-01-01), niet zouden zijn begrepen.
+10. In gevallen als bedoeld in het achtste lid, onderdeel b, bedraagt de belasting op het belastbare inkomen het met toepassing van het eerste lid bepaalde bedrag vermeerderd met 5% van het bedrag waarmee de belastbare som het in de eerste kolom van de tabel in het eerste lid vermelde bedrag te boven zou gaan indien daarin de persoonlijke lasten met betrekking tot een eigen woning, bedoeld in [artikel 16, eerste lid, onderdeel h, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=16&z=2015-01-01&g=2015-01-01), niet zouden zijn begrepen.
 
 ##### Artikel 24b
 
-Het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2014-01-01&g=2014-01-01), alsmede de opbrengst, bedoeld in [artikel 17, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2014-01-01&g=2014-01-01), wordt belast naar een tarief van 5%.
+Het zuivere bedrag van de voordelen, bedoeld in [artikel 11, eerste lid, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=II&artikel=11&z=2015-01-01&g=2015-01-01), alsmede de opbrengst, bedoeld in [artikel 17, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=III&artikel=17&z=2015-01-01&g=2015-01-01), wordt belast naar een tarief van 5%.
 
 ##### Artikel 24c
 
@@ -745,13 +745,13 @@ Indien de belastingplichtige ook premieplichtig is voor de algemene ouderdomsver
 
 ##### Artikel 25
 
-1. Bij het begin van het kalenderjaar vervangt Onze Minister de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2014-01-01&g=2014-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2014-01-01&g=2014-01-01) vermelde bedragen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.
+1. Bij het begin van het kalenderjaar vervangt Onze Minister de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2015-01-01&g=2015-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2015-01-01&g=2015-01-01) vermelde bedragen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor en vervolgens de nodige geachte afrondingen aan te brengen.
 
 2. De tabelcorrectiefactor is één gedeeld door prijsindexverhouding. De prijsindexverhouding is de verhouding van het gemiddelde van de prijsindexcijfers van de gezinsconsumptie, zoals berekend door het Centraal Bureau voor de Statistiek, betrekking hebbende op de achttiende tot en met de zevende aan het kalenderjaar voorafgaande maand en het gemiddelde van die prijsindexcijfers, betrekking hebbende op de dertigste tot en met de negentiende aan het kalenderjaar voorafgaande maand. Voor de toepassing van de tweede volzin wordt onder prijsindexcijfers verstaan het aan de hand van het aantal inwoners gewogen gemiddelde van de prijsindexcijfers voor Bonaire, Sint Eustatius en Saba. Voor de toepassing van de derde volzin wordt het aantal inwoners van Bonaire gesteld op 15 700, het aantal inwoners van Sint Eustatius op 2 886 en het aantal inwoners van Saba op 1 737.
 
 3. Ingeval de basis voor vorenbedoelde prijsindexcijfers wordt verlegd, geeft Onze Minister regels hoe bij toepassing van de vorige volzin wordt overgegaan van de oude op de nieuwe reeks prijsindexcijfers.
 
-4. Onze minister kan bij algemene maatregel van bestuur bepalen dat, in afwijking in zoverre van het eerste lid, bij het begin van de in die algemene maatregel van bestuur aangewezen kalenderjaren, de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2014-01-01&g=2014-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2014-01-01&g=2014-01-01) vermelde bedragen worden vervangen door bedragen die worden berekend met een in die algemene maatregel van bestuur aangewezen factor. Deze factor bedraagt tenminste de helft van de tabelcorrectiefactor. De in de eerste volzin bedoelde algemene maatregel van bestuur dient tenminste twee maanden voor het begin van het eerste kalenderjaar waarop deze algemene maatregel van bestuur betrekking heeft tot stand te komen.
+4. Onze minister kan bij algemene maatregel van bestuur bepalen dat, in afwijking in zoverre van het eerste lid, bij het begin van de in die algemene maatregel van bestuur aangewezen kalenderjaren, de in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24&z=2015-01-01&g=2015-01-01) en [24A](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&hoofdstuk=V&artikel=24a&z=2015-01-01&g=2015-01-01) vermelde bedragen worden vervangen door bedragen die worden berekend met een in die algemene maatregel van bestuur aangewezen factor. Deze factor bedraagt tenminste de helft van de tabelcorrectiefactor. De in de eerste volzin bedoelde algemene maatregel van bestuur dient tenminste twee maanden voor het begin van het eerste kalenderjaar waarop deze algemene maatregel van bestuur betrekking heeft tot stand te komen.
 
 ##### Artikel 26
 
