@@ -4,7 +4,7 @@ identifier: "BWBR0032533"
 country: "nl"
 rank: "zbo"
 publication_date: "2024-05-13"
-last_updated: "2014-04-18"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032533"
 soort: "zbo"
@@ -53,7 +53,7 @@ Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Reg
 
 - d. **dieplader:** een open voertuig van de categorie O3 of O4, waarvan het grotendeels verlaagde laadvlak zich op gelijke of nagenoeg gelijke hoogte dan wel lager dan de assen boven het wegdek bevindt, maar niet hoger dan 0,70 m, gemeten van wegdek tot bovenkant laadvlak, uitsluitend of hoofdzakelijk ontworpen, gebouwd of gebruikt voor het vervoer van ondeelbare lading;
 
-- e. **LZV:** samenstellen met een laadlengte van tenminste 18 meter en ten hoogste 21,82 m , of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton, en waarvoor een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2014-04-18&g=2014-04-18) is afgegeven;
+- e. **LZV:** samenstellen met een laadlengte van tenminste 18 meter en ten hoogste 21,82 m , of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton, en waarvoor een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01) is afgegeven;
 
 - f. **LZV-attest:** document waaruit blijkt dat het buitenlandse voertuig na keuring geschikt is bevonden voor gebruik in een LZV;
 
@@ -81,13 +81,13 @@ Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een keu
 
 2. De Dienst Wegverkeer verleent ontheffingen LZV als bedoeld in het eerste lid, op het kenteken van het trekkende motorrijtuig, indien de geschiktheid tot het samenstellen van een LZV blijkt uit:
 
-- a. een aantekening op het kentekenbewijs dan wel aantekening in het kentekenregister, als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2014-04-18&g=2014-04-18), of
+- a. een aantekening op het kentekenbewijs dan wel aantekening in het kentekenregister, als bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01), of
 
-- b. een LZV attest als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2014-04-18&g=2014-04-18).
+- b. een LZV attest als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 4. Basisontheffing
 
-Een basisontheffing LZV als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2014-04-18&g=2014-04-18), kan worden verleend voor:
+Een basisontheffing LZV als bedoeld in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), kan worden verleend voor:
 
 - a. wegen die binnen de autonome beslisruimte LZV vallen;
 
@@ -97,7 +97,7 @@ Een basisontheffing LZV als bedoeld in [artikel 3, eerste lid, onder a](https://
 
 ##### Artikel 5. Incidentele ontheffing
 
-1. De incidentele ontheffing LZV, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2014-04-18&g=2014-04-18), is bestemd voor:
+1. De incidentele ontheffing LZV, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), is bestemd voor:
 
 - a. aanvragers van een LZV aansluitroute , of
 
@@ -119,9 +119,9 @@ Een basisontheffing LZV als bedoeld in [artikel 3, eerste lid, onder a](https://
 
 - ii. maximaal 2 weken, indien het een incidentele ontheffing LZV als bedoeld in het eerste lid, onder b, betreft, of
 
-- iii. de duur van de stremming met dien verstande dat de geldigheidsduur van de aan de aanvrager verleende basisontheffing LZV of incidentele ontheffing LZV, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=4&z=2014-04-18&g=2014-04-18) niet wordt overschreden.
+- iii. de duur van de stremming met dien verstande dat de geldigheidsduur van de aan de aanvrager verleende basisontheffing LZV of incidentele ontheffing LZV, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01) niet wordt overschreden.
 
-3. Een incidentele ontheffing LZV kan worden verleend voor maximaal vier kentekens van trekkende motorrijtuigen, mits deze kentekens op het aanvraagformulier als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=2&artikel=8&z=2014-04-18&g=2014-04-18), zijn vermeld.
+3. Een incidentele ontheffing LZV kan worden verleend voor maximaal vier kentekens van trekkende motorrijtuigen, mits deze kentekens op het aanvraagformulier als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), zijn vermeld.
 
 ##### Artikel 6. Opleidingsontheffing
 
@@ -181,7 +181,7 @@ De Dienst Wegverkeer verzoekt de wegbeheerders de in CROW- richtlijn 320 LZV’s
 
 ##### Artikel 13. Aantekening in het kentekenregister ten behoeve van LZV of LZV attest
 
-1. Een aantekening in het kentekenregister ten behoeve van LZV of een LZV attest als bedoeld in [artikel 3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2014-04-18&g=2014-04-18), wordt op aanvraag afgegeven indien bij een door de Dienst Wegverkeer verrichte keuring naar zijn oordeel is voldaan aan de eisen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=A&z=2014-04-18&g=2014-04-18).
+1. Een aantekening in het kentekenregister ten behoeve van LZV of een LZV attest als bedoeld in [artikel 3, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), wordt op aanvraag afgegeven indien bij een door de Dienst Wegverkeer verrichte keuring naar zijn oordeel is voldaan aan de eisen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=A&z=2015-01-01&g=2015-01-01).
 
 2. Een aantekening in het kentekenregister wordt geplaatst, indien het een voertuig met Nederlands kenteken betreft.
 
@@ -191,15 +191,15 @@ De Dienst Wegverkeer verzoekt de wegbeheerders de in CROW- richtlijn 320 LZV’s
 
 ##### Artikel 14. Model LZV attest
 
-Een LZV attest als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2014-04-18&g=2014-04-18), wordt afgegeven volgens het in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=B&z=2014-04-18&g=2014-04-18) opgenomen model.
+Een LZV attest als bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01), wordt afgegeven volgens het in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=B&z=2015-01-01&g=2015-01-01) opgenomen model.
 
 #### § 5. Beperkingen en voorschriften verbonden aan ontheffingen
 
 ##### Artikel 15. Beperkingen en voorschriften verbonden aan de ontheffing
 
-1. Aan iedere ontheffing LZV worden de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=C&z=2014-04-18&g=2014-04-18), onderdeel 1, genoemde beperkingen verbonden.
+1. Aan iedere ontheffing LZV worden de in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=C&z=2015-01-01&g=2015-01-01), onderdeel 1, genoemde beperkingen verbonden.
 
-2. Aan iedere ontheffing LZV worden algemene voorschriften als genoemd in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=C&z=2014-04-18&g=2014-04-18), onderdeel 2 worden verbonden. Deze voorschriften kunnen onder meer betrekking hebben op:
+2. Aan iedere ontheffing LZV worden algemene voorschriften als genoemd in [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&bijlage=C&z=2015-01-01&g=2015-01-01), onderdeel 2 worden verbonden. Deze voorschriften kunnen onder meer betrekking hebben op:
 
 - a. voertuigdocumenten;
 
@@ -239,13 +239,13 @@ Deze beleidsregel treedt in werking met ingang van 1 januari 2013.
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel keuring en ontheffingverlening LZV.
 
-## Bijlage A. , als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2014-04-18&g=2014-04-18)
+## Bijlage A. , als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01)
 
 Keuringseisen aantekening in het kentekenregister ten behoeve van LZV of afgifte LZV attest.
 
 ### Algemeen
 
-Daar waar in deze bijlage naar een richtlijn of verordening wordt verwezen, wordt een goedkeuring volgens VN/ECE-reglementen die de Gemeenschap bij Besluit 97/836/EG van de Raad of bij latere besluiten van de Raad zoals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2014-04-18&g=2014-04-18), van voornoemd besluit, als partij bij de
+Daar waar in deze bijlage naar een richtlijn of verordening wordt verwezen, wordt een goedkeuring volgens VN/ECE-reglementen die de Gemeenschap bij Besluit 97/836/EG van de Raad of bij latere besluiten van de Raad zoals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), van voornoemd besluit, als partij bij de
 
 ‘Herziene overeenkomst van 1958’ heeft aanvaard, erkend als alternatief voor een EG-typegoedkeuring die overeenkomstig de relevante bijzondere richtlijn of verordening is verleend.
 
@@ -257,7 +257,7 @@ Daar waar in deze bijlage naar een richtlijn of verordening wordt verwezen, word
 
 Voor een LZV geldt dat:
 
-## Bijlage B. als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=14&z=2014-04-18&g=2014-04-18)
+## Bijlage B. als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=14&z=2015-01-01&g=2015-01-01)
 
 ### Model LZV attest
 
@@ -271,7 +271,7 @@ Algemeen nummer + website
 
 **Afgegeven met inachtneming van het gestelde in de Beleidsregel keuring en ontheffingverlening LZV Staatscourant ....., publicatiedatum .....**
 
-Dit document betreft een attest als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2014-04-18&g=2014-04-18) van de Beleidsregel keuring en ontheffingverlening LZV
+Dit document betreft een attest als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=4&artikel=13&z=2015-01-01&g=2015-01-01) van de Beleidsregel keuring en ontheffingverlening LZV
 
 Dit voertuig kan worden gebruikt in een LZV als bedoeld in de Beleidsregel keuring en ontheffingverlening LZV
 
@@ -289,7 +289,7 @@ Divisie Voertuigtechniek,
 
 **(droog)stempel**
 
-## Bijlage C. , als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=5&artikel=15&z=2014-04-18&g=2014-04-18).
+## Bijlage C. , als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032533&paragraaf=5&artikel=15&z=2015-01-01&g=2015-01-01).
 
 ### Beperkingen en voorschriften
 
