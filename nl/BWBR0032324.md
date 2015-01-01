@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet on
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2014-08-01&g=2014-08-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2014-08-01&g=2014-08-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2015-01-01&g=2015-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2015-01-01&g=2015-01-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -738,12 +738,12 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 1477 | Zeevang | PO2706 | VO2707 |
 | 1481 | Edam-Volendam | PO2706 | VO2707 |
 | 1482 | Waterland | PO2706 | VO2707 |
-| 1483 | Graft-De Rijp | PO2703 | VO2703 |
-| 1484 | Graft-De Rijp | PO2703 | VO2703 |
-| 1485 | Graft-De Rijp | PO2703 | VO2703 |
-| 1486 | Graft-De Rijp | PO2703 | VO2703 |
-| 1487 | Graft-De Rijp | PO2703 | VO2703 |
-| 1488 | Graft-De Rijp | PO2703 | VO2703 |
+| 1483 | Alkmaar | PO2703 | VO2703 |
+| 1484 | Alkmaar | PO2703 | VO2703 |
+| 1485 | Alkmaar | PO2703 | VO2703 |
+| 1486 | Alkmaar | PO2703 | VO2703 |
+| 1487 | Alkmaar | PO2703 | VO2703 |
+| 1488 | Alkmaar | PO2703 | VO2703 |
 | 1489 | Castricum | PO2711 | VO2704 |
 | 1501 | Zaanstad | PO2705 | VO2706 |
 | 1502 | Zaanstad | PO2705 | VO2706 |
@@ -759,7 +759,7 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 1525 | Zaanstad | PO2705 | VO2706 |
 | 1531 | Wormerland | PO2705 | VO2706 |
 | 1534 | Wormerland | PO2705 | VO2706 |
-| 1536 | Graft-De Rijp | PO2703 | VO2703 |
+| 1536 | Alkmaar | PO2703 | VO2703 |
 | 1541 | Zaanstad | PO2705 | VO2706 |
 | 1544 | Zaanstad | PO2705 | VO2706 |
 | 1546 | Wormerland | PO2705 | VO2706 |
@@ -790,12 +790,12 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 1631 | Koggenland | PO2702 | VO2702 |
 | 1633 | Koggenland | PO2702 | VO2702 |
 | 1634 | Koggenland | PO2702 | VO2702 |
-| 1636 | Schermer | PO2703 | VO2703 |
+| 1636 | Alkmaar | PO2703 | VO2703 |
 | 1641 | Koggenland | PO2702 | VO2702 |
 | 1642 | Koggenland | PO2702 | VO2702 |
 | 1643 | Koggenland | PO2702 | VO2702 |
 | 1645 | Koggenland | PO2702 | VO2702 |
-| 1646 | Schermer | PO2703 | VO2703 |
+| 1646 | Alkmaar | PO2703 | VO2703 |
 | 1647 | Koggenland | PO2702 | VO2702 |
 | 1648 | Koggenland | PO2702 | VO2702 |
 | 1652 | Koggenland | PO2702 | VO2702 |
@@ -910,12 +910,12 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 1831 | Alkmaar | PO2703 | VO2703 |
 | 1832 | Langedijk | PO2703 | VO2703 |
 | 1834 | Langedijk | PO2703 | VO2703 |
-| 1841 | Schermer | PO2703 | VO2703 |
-| 1842 | Schermer | PO2703 | VO2703 |
-| 1843 | Schermer | PO2703 | VO2703 |
-| 1844 | Schermer | PO2703 | VO2703 |
-| 1846 | Schermer | PO2703 | VO2703 |
-| 1847 | Schermer | PO2703 | VO2703 |
+| 1841 | Alkmaar | PO2703 | VO2703 |
+| 1842 | Alkmaar | PO2703 | VO2703 |
+| 1843 | Alkmaar | PO2703 | VO2703 |
+| 1844 | Alkmaar | PO2703 | VO2703 |
+| 1846 | Alkmaar | PO2703 | VO2703 |
+| 1847 | Alkmaar | PO2703 | VO2703 |
 | 1851 | Heiloo | PO2703 | VO2703 |
 | 1852 | Heiloo | PO2703 | VO2703 |
 | 1853 | Heiloo | PO2703 | VO2703 |
@@ -1267,15 +1267,16 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 2808 | Gouda | PO2814 | VO2802 |
 | 2809 | Gouda | PO2814 | VO2802 |
 | 2811 | Bodegraven-Reeuwijk | PO2814 | VO2802 |
-| 2821 | Vlist | PO2814 | VO2802 |
-| 2825 | Bergambacht | PO2814 | VO2802 |
-| 2831 | Ouderkerk | PO2814 | VO2802 |
+| 2821 | Krimpenerwaard | PO2814 | VO2802 |
+| 2825 | Krimpenerwaard | PO2814 | VO2802 |
+| 2831 | Krimpenerwaard | PO2814 | VO2802 |
 | 2841 | Zuidplas | PO2814 | VO2802 |
-| 2851 | Vlist | PO2814 | VO2802 |
-| 2855 | Vlist | PO2814 | VO2802 |
-| 2861 | Bergambacht | PO2814 | VO2802 |
-| 2865 | Bergambacht | PO2814 | VO2802 |
-| 2871 | Schoonhoven | PO2814 | VO2802 |
+| 2851 | Krimpenerwaard | PO2814 | VO2802 |
+| 2855 | Krimpenerwaard | PO2814 | VO2802 |
+| 2861 | Krimpenerwaard | PO2814 | VO2802 |
+| 2865 | Krimpenerwaard | PO2814 | VO2802 |
+| 2871 | Krimpenerwaard | PO2814 | VO2802 |
+| 2872 | Krimpenerwaard | PO2814 | VO2802 |
 | 2901 | Capelle aan den IJssel | PO2818 | VO2810 |
 | 2902 | Capelle aan den IJssel | PO2818 | VO2810 |
 | 2903 | Capelle aan den IJssel | PO2818 | VO2810 |
@@ -1295,9 +1296,9 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 2924 | Krimpen aan den IJssel | PO2818 | VO2810 |
 | 2925 | Krimpen aan den IJssel | PO2818 | VO2810 |
 | 2926 | Krimpen aan den IJssel | PO2818 | VO2810 |
-| 2931 | Nederlek | PO2814 | VO2810 |
-| 2935 | Ouderkerk | PO2814 | VO2802 |
-| 2941 | Nederlek | PO2814 | VO2810 |
+| 2931 | Krimpenerwaard | PO2814 | VO2810 |
+| 2935 | Krimpenerwaard | PO2814 | VO2802 |
+| 2941 | Krimpenerwaard | PO2814 | VO2810 |
 | 2951 | Alblasserdam | PO2809 | VO2813 |
 | 2952 | Alblasserdam | PO2809 | VO2813 |
 | 2953 | Alblasserdam | PO2809 | VO2813 |
@@ -1438,29 +1439,29 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 3194 | Rotterdam | PO2806 | VO2810 |
 | 3195 | Rotterdam | PO2806 | VO2810 |
 | 3196 | Rotterdam | PO2806 | VO2810 |
-| 3197 | Rotterdam | PO2806 | VO2810 |
-| 3198 | Rotterdam | PO2806 | VO2810 |
-| 3199 | Rotterdam | PO2806 | VO2810 |
-| 3201 | Spijkenisse | PO2808 | VO2812 |
-| 3202 | Spijkenisse | PO2808 | VO2812 |
-| 3203 | Spijkenisse | PO2808 | VO2812 |
-| 3204 | Spijkenisse | PO2808 | VO2812 |
-| 3205 | Spijkenisse | PO2808 | VO2812 |
-| 3206 | Spijkenisse | PO2808 | VO2812 |
-| 3207 | Spijkenisse | PO2808 | VO2812 |
-| 3208 | Spijkenisse | PO2808 | VO2812 |
-| 3209 | Spijkenisse | PO2808 | VO2812 |
-| 3211 | Bernisse | PO2808 | VO2812 |
-| 3212 | Bernisse | PO2808 | VO2812 |
-| 3214 | Bernisse | PO2808 | VO2812 |
-| 3216 | Bernisse | PO2808 | VO2812 |
-| 3218 | Bernisse | PO2808 | VO2812 |
+| 3197 | Rotterdam | Europoort | Europoort |
+| 3198 | Rotterdam | Europoort | Europoort |
+| 3199 | Rotterdam | Europoort | Europoort |
+| 3201 | Nissewaard | PO2808 | VO2812 |
+| 3202 | Nissewaard | PO2808 | VO2812 |
+| 3203 | Nissewaard | PO2808 | VO2812 |
+| 3204 | Nissewaard | PO2808 | VO2812 |
+| 3205 | Nissewaard | PO2808 | VO2812 |
+| 3206 | Nissewaard | PO2808 | VO2812 |
+| 3207 | Nissewaard | PO2808 | VO2812 |
+| 3208 | Nissewaard | PO2808 | VO2812 |
+| 3209 | Nissewaard | PO2808 | VO2812 |
+| 3211 | Nissewaard | PO2808 | VO2812 |
+| 3212 | Nissewaard | PO2808 | VO2812 |
+| 3214 | Nissewaard | PO2808 | VO2812 |
+| 3216 | Nissewaard | PO2808 | VO2812 |
+| 3218 | Nissewaard | PO2808 | VO2812 |
 | 3221 | Hellevoetsluis | PO2808 | VO2812 |
 | 3222 | Hellevoetsluis | PO2808 | VO2812 |
 | 3223 | Hellevoetsluis | PO2808 | VO2812 |
 | 3224 | Hellevoetsluis | PO2808 | VO2812 |
 | 3225 | Hellevoetsluis | PO2808 | VO2812 |
-| 3227 | Bernisse | PO2808 | VO2812 |
+| 3227 | Nissewaard | PO2808 | VO2812 |
 | 3231 | Brielle | PO2808 | VO2812 |
 | 3232 | Brielle | PO2808 | VO2812 |
 | 3233 | Westvoorne | PO2808 | VO2812 |
@@ -2360,14 +2361,14 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 5373 | Oss | PO3006 | VO3006 |
 | 5374 | Landerd | PO3006 | VO3006 |
 | 5375 | Landerd | PO3006 | VO3006 |
-| 5381 | Maasdonk | PO3006 | VO3006 |
-| 5382 | Maasdonk | PO3006 | VO3006 |
-| 5383 | Maasdonk | PO3006 | VO3006 |
+| 5381 | 's-Hertogenbosch | PO3005 | VO3005 |
+| 5382 | 's-Hertogenbosch | PO3005 | VO3005 |
+| 5383 | 's-Hertogenbosch | PO3005 | VO3005 |
 | 5384 | Bernheze | PO3006 | VO3006 |
-| 5386 | Maasdonk | PO3006 | VO3006 |
+| 5386 | Oss | PO3006 | VO3006 |
 | 5388 | Bernheze | PO3006 | VO3006 |
-| 5391 | Maasdonk | PO3006 | VO3006 |
-| 5392 | Maasdonk | PO3006 | VO3006 |
+| 5391 | 's-Hertogenbosch | PO3005 | VO3005 |
+| 5392 | 's-Hertogenbosch | PO3005 | VO3005 |
 | 5394 | Oss | PO3006 | VO3006 |
 | 5395 | Oss | PO3006 | VO3006 |
 | 5396 | Oss | PO3006 | VO3006 |
@@ -2863,16 +2864,16 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 6561 | Groesbeek | PO2507 | VO2507 |
 | 6562 | Groesbeek | PO2507 | VO2507 |
 | 6564 | Groesbeek | PO2507 | VO2507 |
-| 6566 | Millingen aan de Rijn | PO2507 | VO2507 |
+| 6566 | Groesbeek | PO2507 | VO2507 |
 | 6571 | Groesbeek | PO2507 | VO2507 |
-| 6572 | Ubbergen | PO2507 | VO2507 |
-| 6573 | Ubbergen | PO2507 | VO2507 |
-| 6574 | Ubbergen | PO2507 | VO2507 |
-| 6575 | Ubbergen | PO2507 | VO2507 |
-| 6576 | Ubbergen | PO2507 | VO2507 |
-| 6577 | Ubbergen | PO2507 | VO2507 |
-| 6578 | Ubbergen | PO2507 | VO2507 |
-| 6579 | Ubbergen | PO2507 | VO2507 |
+| 6572 | Groesbeek | PO2507 | VO2507 |
+| 6573 | Groesbeek | PO2507 | VO2507 |
+| 6574 | Groesbeek | PO2507 | VO2507 |
+| 6575 | Groesbeek | PO2507 | VO2507 |
+| 6576 | Groesbeek | PO2507 | VO2507 |
+| 6577 | Groesbeek | PO2507 | VO2507 |
+| 6578 | Groesbeek | PO2507 | VO2507 |
+| 6579 | Groesbeek | PO2507 | VO2507 |
 | 6581 | Heumen | PO2507 | VO2507 |
 | 6582 | Heumen | PO2507 | VO2507 |
 | 6584 | Mook en Middelaar | PO3101 | VO2507 |
