@@ -4,7 +4,7 @@ identifier: "BWBR0029268"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2019-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029268"
 soort: "wet-BES"
@@ -219,7 +219,7 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 ##### Artikel XI
 
-1. Onder opbrengst van buitenlandse bronnen als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2013-01-01&g=2013-01-01), wordt verstaan de som van de volgende zuivere inkomsten:
+1. Onder opbrengst van buitenlandse bronnen als bedoeld in [artikel X, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2015-01-01&g=2015-01-01), wordt verstaan de som van de volgende zuivere inkomsten:
 
 - a. opbrengst van bestaande of vroegere dienstbetrekking of van overige werkzaamheden uitgeoefend buiten de BES eilanden, tenzij het betreft de opbrengst van bestaande dienstbetrekking als bestuurder of commissaris van een lichaam dat feitelijk of statutair op de BES eilanden is gevestigd;
 
@@ -245,13 +245,13 @@ de ter zake verschuldigde belasting bij wijze van verrekening in mindering gebra
 
 2. Voor de toepassing van het eerste lid wordt onder opbrengst van een vroegere dienstbetrekking verstaan de opbrengst uit een recht op periodieke uitkering, welke ter zake van een vroegere dienstbetrekking aan de belastingplichtige is toegekend mits dit hoofdzakelijk buiten de BES eilanden is opgebouwd.
 
-3. Voor de toepassing van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2013-01-01&g=2013-01-01) blijven de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=16) en [16A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=16a) buiten aanmerking.
+3. Voor de toepassing van [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2015-01-01&g=2015-01-01) blijven de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=12), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=16) en [16A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=16a) buiten aanmerking.
 
-4. Ten aanzien van de belastingplichtige, bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2013-01-01&g=2013-01-01), die in gebreke blijft tijdig volledige aangifte te doen, wordt de in de aanslag te begrijpen belasting verhoogd met de helft van het verschuldigde belastingbedrag.
+4. Ten aanzien van de belastingplichtige, bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2015-01-01&g=2015-01-01), die in gebreke blijft tijdig volledige aangifte te doen, wordt de in de aanslag te begrijpen belasting verhoogd met de helft van het verschuldigde belastingbedrag.
 
 5. De overige artikelen van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) blijven onverkort van kracht voor zover niet uitdrukkelijk in dit artikel hiervan is afgeweken.
 
-6. Het deel van de belastbare som waarop het tarief als bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2013-01-01&g=2013-01-01) niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.
+6. Het deel van de belastbare som waarop het tarief als bedoeld in [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=2&artikel=X&z=2015-01-01&g=2015-01-01) niet van toepassing is, wordt belast op basis van [artikel 24A van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=24a). Bij de berekening van de belasting over het inkomen waarop het tarief van artikel X niet van toepassing is, worden de inkomsten waarop dit tarief wel van toepassing is, buiten beschouwing gelaten.
 
 ##### Artikel XII
 
@@ -313,11 +313,11 @@ Bij ministeriële regeling kunnen regels worden gesteld ter zake van de uitvoeri
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken, artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treedt [hoofdstuk II, artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 januari 2013.
+2. In afwijking van het eerste lid treedt [hoofdstuk II, artikel XVI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2015-01-01&g=2015-01-01), in werking met ingang van 1 januari 2013.
 
-3. In afwijking van het eerste lid treedt [hoofdstuk II, artikel XVI, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2013-01-01&g=2013-01-01), in werking met ingang van 1 januari 2015.
+3. In afwijking van het eerste lid treedt [hoofdstuk II, artikel XVI, onderdelen B tot en met D](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2015-01-01&g=2015-01-01), in werking met ingang van 1 januari 2015.
 
-4. In afwijking van het eerste lid, treedt [hoofdstuk II, artikel XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2013-01-01&g=2013-01-01), in werking vijf jaar na het ingevolge het eerste lid bepaalde tijdstip.
+4. In afwijking van het eerste lid, treedt [hoofdstuk II, artikel XVI, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&hoofdstuk=II&afdeling=3&artikel=XVI&z=2015-01-01&g=2015-01-01), in werking vijf jaar na het ingevolge het eerste lid bepaalde tijdstip.
 
 ##### Artikel III
 
