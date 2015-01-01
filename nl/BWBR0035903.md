@@ -426,9 +426,3 @@ Voor een samenstel van voertuigen waarvan het getrokken voertuig een getrokken w
 Indien een ander, vervangend, voertuig of samenstel van voertuigen dan in de ontheffing is vermeld bij de uitvoering van het exceptioneel transport wordt gebruikt, geldt onverminderd het bepaalde in artikel 1 van deze bijlage, het volgende:
 
 Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.
-
-### Artikel 14. Communicatie chauffeur en transportbegeleider
-
-Bij de uitvoering van een exceptioneel transport vindt de communicatie tussen de chauffeur en de transportbegeleider indien dit niet in het Nederlands is, plaats in een gangbare, voor beiden begrijpelijke taal.
-
-Deze beleidsregel zal met bijlagen en de toelichting in de Staatcourant worden geplaatst.
