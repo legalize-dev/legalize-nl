@@ -4,7 +4,7 @@ identifier: "BWBR0003064"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003064"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) met één of meer van de navolgende ingevolge de sociale wetgeving van één of meer andere Mogendheden toegekende uitkeringen:
+1. Bij samenloop over eenzelfde tijdvak van een arbeidsongeschiktheidsuitkering op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) met één of meer van de navolgende ingevolge de sociale wetgeving van één of meer andere Mogendheden toegekende uitkeringen:
 
 - a. uitkering wegens arbeidsongeschiktheid;
 
@@ -74,15 +74,15 @@ Hebben goedgevonden en verstaan:
 
 2. Indien aan de berekening van een in het vorige lid bedoelde afkoopsom een ander bedrag aan periodieke uitkering ten grondslag is gelegd dan laatstelijk voor de beëindiging van die uitkering werd genoten, en het verschil niet uitsluitend een gevolg is van een aanpassing aan het loon- en/of prijspeil, wordt voor de vaststelling van het bedrag van de na de beëindiging van de periodieke uitkering uit te betalen arbeidsongeschiktheidsuitkering, in afwijking van het bepaalde in het vorige lid, de betrokkene geacht uit hoofde van de ontvangen afkoopsom een periodieke uitkering te ontvangen ter hoogte van het bedrag, dat aan de berekening van die afkoopsom ten grondslag is gelegd.
 
-3. Indien, na toepassing van het eerste of tweede lid, het uit te betalen bedrag van de arbeidsongeschiktheidsuitkering moet worden herberekend, wordt het overeenkomstig de voorgaande leden vastgestelde in mindering te brengen bedrag naar evenredigheid aangepast aan de herzieningen van het minimumloon, bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), die sedert de beëindiging van die periodieke uitkering hebben plaatsgevonden.
+3. Indien, na toepassing van het eerste of tweede lid, het uit te betalen bedrag van de arbeidsongeschiktheidsuitkering moet worden herberekend, wordt het overeenkomstig de voorgaande leden vastgestelde in mindering te brengen bedrag naar evenredigheid aangepast aan de herzieningen van het minimumloon, bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), die sedert de beëindiging van die periodieke uitkering hebben plaatsgevonden.
 
 ##### Artikel 4
 
 1. De bij de toepassing van de voorgaande artikelen noodzakelijke omrekening in euro van een niet in euro uitgedrukte uitkering op grond van de sociale wetgeving van een andere Mogendheid geschiedt met behulp van de door de Europese Centrale Bank geadviseerde wisselkoersen.
 
-2. Een wijziging van de in het eerste lid bedoelde koers beïnvloedt het op grond van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=1&z=2010-01-01&g=2010-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=5&z=2010-01-01&g=2010-01-01) tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering niet, met dien verstande dat:
+2. Een wijziging van de in het eerste lid bedoelde koers beïnvloedt het op grond van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=1&z=2015-01-01&g=2015-01-01) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=5&z=2015-01-01&g=2015-01-01) tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering niet, met dien verstande dat:
 
-- a. bij herziening van het bedrag van de arbeidsongeschiktheidsuitkering, anders dan als gevolg van een herziening van het minimumloon, als bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), of bij wijziging van het tot uitbetaling komende bedrag als gevolg van toepassing van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=1&z=2010-01-01&g=2010-01-01), een omrekening plaatsvindt; en
+- a. bij herziening van het bedrag van de arbeidsongeschiktheidsuitkering, anders dan als gevolg van een herziening van het minimumloon, als bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), of bij wijziging van het tot uitbetaling komende bedrag als gevolg van toepassing van de [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003064&artikel=1&z=2015-01-01&g=2015-01-01), een omrekening plaatsvindt; en
 
 - b. tenminste een keer per jaar een omrekening plaatsvindt.
 
@@ -90,7 +90,7 @@ Hebben goedgevonden en verstaan:
 
 Voor zoveel nodig in afwijking van het bepaalde in de voorgaande artikelen wordt:
 
-- a. in geval van een herziening van het minimumloon, bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering naar evenredigheid herzien;
+- a. in geval van een herziening van het minimumloon, bedoeld in [artikel 8, achtste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=8) en in de [artikelen 1:1, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:1), en [3:7, tweede lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:7), het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering naar evenredigheid herzien;
 
 - b. in geval van een herziening van het bedrag van de uitkering ingevolge de sociale wetgeving van een andere Mogendheid als gevolg van een wijziging van het loon- en/of prijspeil geen wijziging gebracht in het laatstelijk voor de ingangsdatum van die herziening tot uitbetaling komende bedrag van de arbeidsongeschiktheidsuitkering.
 
