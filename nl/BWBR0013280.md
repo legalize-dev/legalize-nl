@@ -4,7 +4,7 @@ identifier: "BWBR0013280"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013280"
 soort: "ministeriele-regeling"
@@ -45,6 +45,50 @@ Besluiten:
 ##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
+
+- a. **IOAW:** [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
+
+- b. **Wfsv:** [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745);
+
+- c. vervallen;
+
+- d. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- e. **Wet SUWI:** [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060);
+
+- f. vervallen;
+
+- g. vervallen;
+
+- h. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5);
+
+- i. **SVB:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
+
+- j. **IB:** Het Inlichtingenbureau, bedoeld in [artikel 1, onderdeel m, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1)
+
+- k. vervallen;
+
+- l. **re-integratiebedrijf:** natuurlijke persoon of rechtspersoon die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in het arbeidsproces bevordert;
+
+- m. **arbodienst:** een arbodienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
+
+- n. **minister:** de Minister van Sociale Zaken en Werkgelegenheid;
+
+- o. vervallen;
+
+- p. **arbeidsmarktinstrumenten:** het geheel van activiteiten dat in verband met de inschakeling in het arbeidsproces van een werkzoekende kan worden ingezet;
+
+- q. **melding:** de melding, bedoeld in [artikel 44, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=44), [artikel 16a, tweede lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=16a) of [artikel 16a, tweede lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=16a);
+
+- r. **basisgegevens:** gegevens die in een al dan niet door de minister gedefinieerde vorm beschikbaar zijn bij het UWV en de SVB;
+
+- s. **TW:** [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043);
+
+- t. **VNG:** Vereniging van Nederlandse Gemeenten;
+
+- u. **IWI:** de Inspectie Werk en Inkomen, genoemd in [hoofdstuk 7 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=7);
+
+- v. **Invoeringswet SUWI:** [Invoeringswet Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013061).
 
 ##### Artikel 1.2. Vaststelling zetels
 
@@ -188,7 +232,7 @@ De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het
 
 2. Indien de pensioenuitvoerder de werkzaamheden uitbesteedt als bedoeld in [artikel 34 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=34) en [artikel 43 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=43) en deze uitbesteding inhoudt, dat de daar genoemde derde bewerker is in de zin van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0028067) voor de pensioenuitvoerder, verstrekt het UWV de gegevens aan deze derde.
 
-3. Het UWV overlegt over de inrichting van de elektronische voorziening, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2014-01-06&g=2014-01-06), met een vertegenwoordiging van de pensioenuitvoerders.
+3. Het UWV overlegt over de inrichting van de elektronische voorziening, bedoeld in [artikel 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2015-01-01&g=2015-01-01), met een vertegenwoordiging van de pensioenuitvoerders.
 
 ##### Artikel 3.3. Toegang tot adresgegevens polisadministratie ten behoeve van basisregistratie personen
 
@@ -198,7 +242,7 @@ De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het
 
 3. Het UWV verstrekt de gegevens, bedoeld in het tweede lid, op de door het college van burgemeester en wethouders bij het verzoek aangegeven wijze of verwerkt die gegevens in het kader van de gezamenlijke elektronische voorzieningen SUWI.
 
-4. Het UWV en de colleges van burgemeester en wethouders verwerken de adresgegevens, bedoeld in eerste en tweede lid, in het kader van de gezamenlijke elektronische voorzieningen SUWI op de wijze, bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2014-01-06&g=2014-01-06), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2014-01-06&g=2014-01-06) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2014-01-06&g=2014-01-06).
+4. Het UWV en de colleges van burgemeester en wethouders verwerken de adresgegevens, bedoeld in eerste en tweede lid, in het kader van de gezamenlijke elektronische voorzieningen SUWI op de wijze, bedoeld in [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2015-01-01&g=2015-01-01), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2015-01-01&g=2015-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-01-01&g=2015-01-01).
 
 5. Het UWV bepaalt bij de uitvoering van taken als bedoeld in [artikel 5.21, eerste en tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21), op welke wijze bij de toepassing van het vierde lid, inhoud wordt gegeven aan de gegevensverwerking op grond van dit artikel.
 
@@ -211,6 +255,32 @@ De CWI sluit overeenkomsten met burgemeester en wethouders onderscheidenlijk het
 ##### Artikel 3.4. Nadere begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
+
+- a. arbeidsverhouding: de rechtsbetrekking tussen een werkgever en een natuurlijk persoon, krachtens welke deze persoon verplicht is, arbeid te verrichten voor die werkgever;
+
+- b. jaaropgave: de jaaropgave, bedoeld in [artikel 8 van het Loonadministratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004265&artikel=8);
+
+- c. melding sociale verzekeringen: de melding sociale verzekeringen, bedoeld in de[artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004559&artikel=1) en [4 van het Besluit melding sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004559&artikel=4);
+
+- d. uitkeringsgerechtigde: verzekerde die recht heeft op een uitkering of arbeidsondersteuning krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) of de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822);
+
+- e. uitkeringsverhouding: de rechtsbetrekking ter zake van een recht op uitkering of arbeidsondersteuning krachtens de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de[Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriterium](https://wetten.overheid.nl/jci1.3:c:BWBR0007891), de [TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) of de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), tussen een uitkeringsgerechtigde en het UWV;
+
+- f. verzekerde:
+
+- 1°. de werknemer in de zin van de werknemersverzekeringen, of
+
+- 2°. degene, die door het UWV als verzekerde wordt beschouwd, dan wel belanghebbende is in de zin van [artikel 1 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=1).
+
+- g. verzekerdenadministratie: een systeem, dan wel een geheel van systemen of delen daarvan, door middel waarvan de in deze regeling gedefinieerde gegevens van verzekerden op systematische wijze worden vastgelegd om te kunnen worden geraadpleegd, uitgewisseld en samengevoegd en in onderling verband te kunnen worden gebracht, dat door het UWV wordt beheerd als bedoeld in [artikel 33, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), zoals die bepaling luidde op de dag voorafgaande aan de datum van inwerkingtreding van [artikel 5 van de Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747&artikel=5);
+
+- h. verzekeringsverhouding: de rechtsbetrekking ter zake van een wettelijke verzekering als bedoeld in [artikel 30 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30), dan wel op grond van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), tussen een verzekerde en het UWV waarbij hij geregistreerd is als verzekerde;
+
+- i. code SZ: een aanduiding waarmee de wet, op grond waarvan de verzekerings- of uitkeringsverhouding bestaat, wordt aangegeven;
+
+- j. overwerk: arbeid verricht buiten de voor de betrokkene vastgestelde dagelijkse werktijd, voorzover daardoor deze werktijd wordt overschreden;
+
+- k. feestdag: Nieuwjaarsdag, Eerste en Tweede Paasdag, Hemelvaartsdag, Eerste en Tweede Pinksterdag en Eerste en Tweede Kerstdag.
 
 ##### Artikel 3.5. Vastleggen van gegevens
 
@@ -272,7 +342,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 3.7. Bewaren van gegevens
 
-1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2014-01-06&g=2014-01-06), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
+1. Het UWV houdt de gegevens bedoeld in [artikel 3.5, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-01-01&g=2015-01-01), gedurende ten minste vijf kalenderjaren na het jaar waarin deze gegevens zijn opgenomen, beschikbaar ten behoeve van raadplegingen.
 
 2. Vanaf het moment dat een verzekerde de leeftijd van 65 jaar bereikt of voor het bereiken van die leeftijd overlijdt, worden de hem betreffende, in de verzekerdenadministratie opgenomen gegevens, gedurende vijf jaren te rekenen vanaf dat moment door het UWV bewaard.
 
@@ -308,13 +378,13 @@ In deze paragraaf wordt verstaan onder:
 
 1. Het UWV verifieert de in het tweede lid genoemde gegevens bij de authentieke bron bij de eerste opname van gegevens over de verzekerde in de verzekerdenadministratie en vervolgens, indien daartoe aanleiding is.
 
-2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2014-01-06&g=2014-01-06) bedoelde gegevens gelden als authentieke bron:
+2. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-01-01&g=2015-01-01) bedoelde gegevens gelden als authentieke bron:
 
 - a. burgerservicenummer: de beheersvoorziening BSN;
 
 - b. gegevens van de arbeidsverhouding: de administratie van de werkgever.
 
-3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2014-01-06&g=2014-01-06) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
+3. Voor de in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2015-01-01&g=2015-01-01) genoemde gegevens waarvoor in het tweede lid geen persoon of instelling als authentieke bron is aangemerkt, geldt als authentieke bron het UWV.
 
 4. De verificatie bij eerste opname van gegevens over de verzekerde vindt plaats binnen vier weken na ontvangst van die gegevens.
 
@@ -380,11 +450,11 @@ Het UWV en de SVB dienen ieder jaarlijks vóór 1 juli een ontwerp-jaarplan met 
 
 1. Het UWV, de SVB en het IB bieden ieder hun jaarplan met begroting jaarlijks vóór 1 oktober aan de minister aan.
 
-2. De jaarplannen met begrotingen van het UWV , de SVB, en het IB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2014-01-06&g=2014-01-06).
+2. De jaarplannen met begrotingen van het UWV , de SVB, en het IB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01), [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01) en [XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2015-01-01&g=2015-01-01).
 
 3. Het jaarplan van het UWV bestaat uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel en het andere deel op het UWV met uitzondering van het bedoelde organisatieonderdeel.
 
-4. De delen van het jaarplan die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2014-01-06&g=2014-01-06).
+4. De delen van het jaarplan die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 5.4. Meerjarenbeleidsplan van UWV en SVB
 
@@ -428,9 +498,9 @@ Vervallen
 
 ##### Artikel 5.12. Periodieke informatieverstrekking
 
-1. Uiterlijk op de in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06) genoemde tijdstippen verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06) is aangegeven.
+1. Uiterlijk op de in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01) genoemde tijdstippen verstrekken het UWV en de SVB aan de minister een rapportage over de door hen beheerde fondsen op de wijze als in de [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01) is aangegeven.
 
-2. Het UWV en de SVB verstrekken ten behoeve van het jaarverslag van het Ministerie van Sociale Zaken en Werkgelegenheid de informatie, bedoeld in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06) op het in deze bijlagen bepaalde tijdstip.
+2. Het UWV en de SVB verstrekken ten behoeve van het jaarverslag van het Ministerie van Sociale Zaken en Werkgelegenheid de informatie, bedoeld in de bij deze regeling behorende [bijlagen VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01), en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01) op het in deze bijlagen bepaalde tijdstip.
 
 ##### Artikel 5.13. Jaarlijkse informatieverstrekking voor de Rijksbegroting
 
@@ -444,7 +514,7 @@ Vervallen
 
 3. Op verzoek van de minister verstrekken het UWV en de SVB informatie aan door hem aangewezen internationaalrechtelijke organisaties.
 
-4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2014-01-06&g=2014-01-06) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2014-01-06&g=2014-01-06) genoemde bestanden.
+4. Op verzoek van de minister verstrekt het UWV gegevens en informatie aan de minister van Binnenlands Zaken en Koninkrijksrelaties. Het UWV levert in ieder geval binnen zes weken na afloop van elk kwartaal de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2015-01-01&g=2015-01-01) genoemde rapportages en jaarlijks, binnen drie maanden na afloop van het jaar, de in [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=IX&z=2015-01-01&g=2015-01-01) genoemde bestanden.
 
 5. Het UWV en de SVB plegen overleg met de personen of instanties, bedoeld in het eerste, tweede, derde en vierde lid, over de inhoud, de vorm, de wijze en het tijdstip waarop de informatieverstrekking, bedoeld in het eerste, tweede, derde en vierde lid, plaatsvindt.
 
@@ -454,7 +524,7 @@ Vervallen
 
 1. Het UWV en de SVB brengen rapporten over onderzoek dat door of in opdracht van de uitvoeringsorganisatie is uitgevoerd, ter kennis van de minister. De rapporten over onderzoeken, waarvan de minister niet reeds op de hoogte was of kon zijn, worden uiterlijk twee weken voor openbaarmaking aan de minister verstrekt.
 
-2. Het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2014-01-06&g=2014-01-06) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2014-01-06&g=2014-01-06), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
+2. Het UWV en de SVB maken rapporten met informatie als bedoeld in [artikel 5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-01-01&g=2015-01-01) en [artikel 5.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.14&z=2015-01-01&g=2015-01-01), niet eerder dan twee dagen na verstrekking aan de minister, openbaar.
 
 3. In geval van de openbaarmaking, bedoeld in dit artikel, wordt de minister uiterlijk 48 uur voor de verwachte publicatietermijn geïnformeerd over de wijze waarop dit zal plaatsvinden.
 
@@ -464,13 +534,13 @@ Vervallen
 
 1. Het UWV en de SVB dragen zorg voor een deugdelijke administratie en organisatie, waaronder begrepen dusdanige procedures en voorzieningen dat er, mede gelet op de stand van de kennis op het terrein van de kwaliteitszorg, voldoende waarborgen aanwezig zijn voor:
 
-- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2014-01-06&g=2014-01-06);
+- a. het kunnen voldoen aan de informatieverplichtingen, bedoeld in [§ 5.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&z=2015-01-01&g=2015-01-01);
 
 - b. tijdige verstrekking van gegevens en informatie;
 
 - c. voldoende actualiteit;
 
-- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2014-01-06&g=2014-01-06) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
+- d. het voldoen aan het normenkader voor de betrouwbaarheid van de niet-financiële informatie zoals opgenomen in de bij deze regeling behorende [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-01-01&g=2015-01-01) (‘Normenkader betrouwbaarheid niet-financiële informatie’);
 
 - e. continuïteit van de verstrekking en opslag van gegevens en informatie.
 
@@ -538,33 +608,33 @@ Vervallen
 
 ##### Artikel 6.1. Eenmalige uitvraag van gegevens
 
-1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2014-01-06&g=2014-01-06) bij deze regeling zijn de gegevens uit [Bijlage II, bedoeld in artikel 5.2a van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II) opgenomen, waarop [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a), van toepassing is.
+1. In [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2015-01-01&g=2015-01-01) bij deze regeling zijn de gegevens uit [Bijlage II, bedoeld in artikel 5.2a van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&bijlage=II) opgenomen, waarop [artikel 5.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a), van toepassing is.
 
-2. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2014-01-06&g=2014-01-06) wordt bij de gegevens aangegeven vanaf welk moment [artikel 5.2a, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a) voor de verwerking van die gegevens van toepassing is.
+2. In de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=II&z=2015-01-01&g=2015-01-01) wordt bij de gegevens aangegeven vanaf welk moment [artikel 5.2a, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.2a) voor de verwerking van die gegevens van toepassing is.
 
 ##### Artikel 6.2. Gegevensregister SUWI
 
-1. In [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2014-01-06&g=2014-01-06) (Gegevensregister SUWI 9.0) bij deze regeling is het Gegevensregister SUWI opgenomen, bedoeld in [artikel 5.20 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.20).
+1. In [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XII&z=2015-01-01&g=2015-01-01) (Gegevensregister SUWI 9.0) bij deze regeling is het Gegevensregister SUWI opgenomen, bedoeld in [artikel 5.20 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.20).
 
-2. In [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2014-01-06&g=2014-01-06) (Gegevensregister IB 2.7) bij deze regeling zijn gegevens opgenomen als bedoeld in [artikel 5.24, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24), die door het IB worden verwerkt.
+2. In [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVIII&z=2015-01-01&g=2015-01-01) (Gegevensregister IB 2.7) bij deze regeling zijn gegevens opgenomen als bedoeld in [artikel 5.24, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.24), die door het IB worden verwerkt.
 
 ##### Artikel 6.3. Stelselontwerp gezamenlijke elektronische voorzieningen SUWI
 
-In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2014-01-06&g=2014-01-06) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische voorzieningen SUWI’) bij deze regeling is het Stelselontwerp gezamenlijke elektronische voorzieningen SUWI opgenomen, bedoeld in [artikel 5.21, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21).
+In [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2015-01-01&g=2015-01-01) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische voorzieningen SUWI’) bij deze regeling is het Stelselontwerp gezamenlijke elektronische voorzieningen SUWI opgenomen, bedoeld in [artikel 5.21, vierde lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21).
 
 ##### Artikel 6.4. Beveiliging elektronische voorzieningen SUWI
 
-1. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet SUWI-partijen dragen zorg voor de beveiliging van de gegevensuitwisselingen die plaatsvinden in het kader van de gezamenlijke elektronische voorzieningen SUWI, tegen inbreuk op de beschikbaarheid, integriteit en vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2014-01-06&g=2014-01-06) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische Voorzieningen SUWI’).
+1. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet SUWI-partijen dragen zorg voor de beveiliging van de gegevensuitwisselingen die plaatsvinden in het kader van de gezamenlijke elektronische voorzieningen SUWI, tegen inbreuk op de beschikbaarheid, integriteit en vertrouwelijkheid, overeenkomstig hetgeen over de voor het stelsel van maatregelen en procedures te hanteren normen wordt bepaald in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=I&z=2015-01-01&g=2015-01-01) (‘Stelselontwerp & Beveiliging Gezamenlijke elektronische Voorzieningen SUWI’).
 
 2. Het UWV, de SVB, de colleges van burgemeester en wethouders, het IB en op de gezamenlijke elektronische voorzieningen SUWI aangesloten niet- SUWI- partijen geven ieder in een beveiligingsplan aan op welke wijze zij invulling geven aan het eerste lid.
 
-3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) is van overeenkomstige toepassing op het gebruik en de inrichting van de gezamenlijke elektronische voorzieningen SUWI.
+3. [Artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op het gebruik en de inrichting van de gezamenlijke elektronische voorzieningen SUWI.
 
 #### § 5.3. Rapportage gegevensverwerking
 
 ##### Artikel 6.5. Gebruik elektronische voorzieningen door niet SUWI-partijen
 
-Bij het tot stand komen van de overeenkomst als bedoeld in [artikel 5.23, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23) wordt het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2014-01-06&g=2014-01-06) bij deze regeling opgenomen protocol in acht genomen.
+Bij het tot stand komen van de overeenkomst als bedoeld in [artikel 5.23, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23) wordt het in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=III&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen protocol in acht genomen.
 
 ##### Artikel 6.6. Inlichtingenbureau
 
@@ -1566,7 +1636,7 @@ Alle relevante gegevens behorende tot de volgende categorieën:
 
 ## Bijlagen
 
-## Bijlage I. , bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage I. , bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage I. , bedoeld in [artikel 6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.3&z=2013-07-10&g=2013-07-01) van de Regeling SUWI
 
@@ -2756,17 +2826,17 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ##### Artikel 5.10a. Jaarverslag, tussentijdse verslagen en jaarrekening van UWV, SVB en IB
 
-1. De jaarverslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06).
+1. De jaarverslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01).
 
 2. De in de jaarrekening van het UWV en de SVB op te nemen egalisatiereserve, bedoeld in [artikel 52 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=52), heeft slechts betrekking op de uitvoeringskosten. De egalisatiereserve bedraagt ten hoogste 5 procent van het over de voorgaande 3 jaar toegekende budget voor de uitvoeringskosten, bedoeld in [artikel 48, eerste lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=48) en bedraagt niet minder dan nul. Dotatie en onttrekking aan en vrijval van de egalisatiereserve wordt afzonderlijk vermeld en toegelicht in de jaarrekening.
 
-3. De tussentijdse verslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2014-01-06&g=2014-01-06) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2014-01-06&g=2014-01-06).
+3. De tussentijdse verslagen van het UWV en de SVB bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende bijlagen, [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VI&z=2015-01-01&g=2015-01-01) en [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=VIII&z=2015-01-01&g=2015-01-01).
 
 4. Het jaarverslag, de tussentijdse verslagen en de jaarrekening van het UWV bestaan uit twee afzonderlijke delen, waarvan één deel uitsluitend betrekking heeft op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel en het andere deel op het UWV met uitzondering van het bedoelde organisatieonderdeel.
 
-5. De delen van het jaarverslag en de tussentijdse verslagen die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2014-01-06&g=2014-01-06). Het tweede lid is van overeenkomstige toepassing.
+5. De delen van het jaarverslag en de tussentijdse verslagen die betrekking hebben op het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel bevatten in elk geval een omschrijving van de onderwerpen die zijn genoemd in de bij deze regeling behorende [bijlage XX](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XX&z=2015-01-01&g=2015-01-01). Het tweede lid is van overeenkomstige toepassing.
 
-6. Het jaarverslag, de jaarrekening en de tussentijdse verslagen van het IB bevatten in ieder geval een omschrijving van de onderwerpen, die zijn opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2014-01-06&g=2014-01-06). Het IB vormt een egalisatiereserve met overeenkomstige toepassing van [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), waarbij het tweede lid van overeenkomstige toepassing is.
+6. Het jaarverslag, de jaarrekening en de tussentijdse verslagen van het IB bevatten in ieder geval een omschrijving van de onderwerpen, die zijn opgenomen in [bijlage XI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XI&z=2015-01-01&g=2015-01-01). Het IB vormt een egalisatiereserve met overeenkomstige toepassing van [artikel 33 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33), waarbij het tweede lid van overeenkomstige toepassing is.
 
 #### § 5.1b. Accountantscontrole
 
@@ -2985,7 +3055,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 4. Bij de bepaling van de strekking van de uiteindelijke controleverklaring weegt de accountant het getrouwe beeld van de jaarrekening en de rechtmatigheidsrapportage in de bedrijfsvoeringsparagraaf, waaronder de getrouwheid van de rapportage over het gevoerde beleid ter voorkoming en bestrijding van misbruik en oneigenlijk gebruik. Voor de getrouwheid van de rechtmatigheidsrapportage geldt geen kwantitatieve goedkeuringstolerantie.
 
-5. De controleverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2014-01-06&g=2014-01-06) behorende bij deze regeling.
+5. De controleverklaring wordt opgesteld overeenkomstig de modellen die zijn opgenomen in [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-01-01&g=2015-01-01) behorende bij deze regeling.
 
 ##### Artikel 5.10e. Het verslag van bevindingen
 
@@ -2995,7 +3065,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 - b. overige fouten en onzekerheden die niet worden gehanteerd voor de bepaling van de strekking van de controleverklaring;
 
-- c. de doelmatigheid van het beheer en de organisatie, zoals omschreven in de bij deze regeling behorende [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2014-01-06&g=2014-01-06);
+- c. de doelmatigheid van het beheer en de organisatie, zoals omschreven in de bij deze regeling behorende [bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-01-01&g=2015-01-01);
 
 - d. het jaarverslag, voor wat betreft de prestatie-indicatoren en kengetallen;
 
@@ -3207,7 +3277,7 @@ Vertrouwelijkheid houdt in dat de (persoons) gegevens uitsluitend beschikbaar zi
 
 ### **2.3 Uitgangspunt & ketenproduct**
 
-De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenlijk product van de SUWI-partijen en de beheerder van de centrale voorziening welke, op basis van de wettelijke voorschriften rondom privacy en beveiliging, vorm en inhoud is gegeven. Het bevat de normen, criteria en vormvereisten op basis waarvan het oordeel dan wel de verklaring van getrouwheid (ex. [art 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) regeling SUWI) over de privacy en beveiliging van de GeVS in de Jaarverslagen van de op de GeVS aangesloten ontvangende partijen en de beheerder van de centrale voorziening wordt onderbouwd. In het Jaarverslag wordt daartoe een aparte, als zodanig herkenbare, paragraaf gewijd aan de privacy en beveiliging van de GeVS waarin, waar nodig, verbetermaatregelen worden benoemd.
+De Verantwoordingsrichtlijn (privacy en beveiliging van de GeVS) is een gezamenlijk product van de SUWI-partijen en de beheerder van de centrale voorziening welke, op basis van de wettelijke voorschriften rondom privacy en beveiliging, vorm en inhoud is gegeven. Het bevat de normen, criteria en vormvereisten op basis waarvan het oordeel dan wel de verklaring van getrouwheid (ex. [art 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) regeling SUWI) over de privacy en beveiliging van de GeVS in de Jaarverslagen van de op de GeVS aangesloten ontvangende partijen en de beheerder van de centrale voorziening wordt onderbouwd. In het Jaarverslag wordt daartoe een aparte, als zodanig herkenbare, paragraaf gewijd aan de privacy en beveiliging van de GeVS waarin, waar nodig, verbetermaatregelen worden benoemd.
 
 Bij wijziging wordt de Verantwoordingsrichtlijn voor akkoord voorgelegd aan het ketenoverleg, gehoord de Inspectie Werk en Inkomen.
 
@@ -3215,7 +3285,7 @@ Bij wijziging wordt de Verantwoordingsrichtlijn voor akkoord voorgelegd aan het 
 
 ### **1. Inleiding**
 
-Middels de wet eenmalige gegevensuitvraag werk en inkomen (Stb. 2007, 555) wordt in [artikel 62, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) de basis gelegd voor het gebruik van de Gezamenlijke elektronische Voorzieningen SUWI (GevS)1In de bijlage Stelselontwerp van de Regeling SUWI is de GeVS beschreven. door niet-Suwipartijen voor de verwerking van gegevens. Het gebruik van de elektronische voorzieningen voor gegevensuitwisseling met derden, niet SUWI-partijen is nader uitgewerkt in het nieuwe [artikel 5.23 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23). [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2014-01-06&g=2014-01-06) van de regeling bepaalt dat in bijlage III
+Middels de wet eenmalige gegevensuitvraag werk en inkomen (Stb. 2007, 555) wordt in [artikel 62, tweede lid, van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=62) de basis gelegd voor het gebruik van de Gezamenlijke elektronische Voorzieningen SUWI (GevS)1In de bijlage Stelselontwerp van de Regeling SUWI is de GeVS beschreven. door niet-Suwipartijen voor de verwerking van gegevens. Het gebruik van de elektronische voorzieningen voor gegevensuitwisseling met derden, niet SUWI-partijen is nader uitgewerkt in het nieuwe [artikel 5.23 van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23). [Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2015-01-01&g=2015-01-01) van de regeling bepaalt dat in bijlage III
 
 bij deze regeling regels kunnen zijn opgenomen over de overeenkomst, als bedoeld in [artikel 5.23, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.23).
 
@@ -3289,17 +3359,17 @@ In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de b
 
 In de bedrijfsvoeringsparagraaf gaat UWV in op de sturing en beheersing van de bedrijfsprocessen binnen UWV. Het doel is aan te geven in welke mate het management van UWV haar bedrijfsprocessen beheerst. In de bedrijfsvoeringsparagraaf van het jaarverslag legt UWV, mede gebaseerd op risicoanalyse, verantwoording af over de bedrijfsvoering. De bedrijfsvoeringsparagraaf bestaat tenminste uit de volgende onderdelen: rechtmatigheid (waaronder het M&O beleid), doelmatigheid, totstandkoming niet-financiële informatie, financieel beheer en overige aspecten van de bedrijfsvoering.
 
-Voor wat betreft rechtmatigheid rapporteert het UWV in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
+Voor wat betreft rechtmatigheid rapporteert het UWV in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
 Voor wat betreft rechtmatigheid rapporteert het UWV in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten is omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop het UWV verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2013-07-10&g=2013-07-10) van de Regeling SUWI en met name in de daarbijbehorende toelichting.
 
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling SUWI is aangegeven dat het UWV inzicht biedt in doelmatigheid van het beheer en de organisatie. Het UWV brengt in het jaarverslag afzonderlijk in beeld op welke wijze de afgesproken taakstellingen zijn gerealiseerd.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling SUWI is aangegeven dat het UWV inzicht biedt in doelmatigheid van het beheer en de organisatie. Het UWV brengt in het jaarverslag afzonderlijk in beeld op welke wijze de afgesproken taakstellingen zijn gerealiseerd.
 
-Het UWV brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2014-01-06&g=2014-01-06) bij de Regeling SUWI.
+Het UWV brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-01-01&g=2015-01-01) bij de Regeling SUWI.
 
 Het UWV brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2013-07-10&g=2013-07-10), van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2013-07-10&g=2013-07-10) bij de Regeling SUWI.
 
-UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2014-01-06&g=2014-01-06) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2014-01-06&g=2014-01-06) Regeling SUWI)en eventuele verbetermaatregelen.
+UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-01-01&g=2015-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-01-01&g=2015-01-01) Regeling SUWI)en eventuele verbetermaatregelen.
 
 UWV rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2013-07-10&g=2013-07-10) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2013-07-10&g=2013-07-10) Regeling SUWI)en eventuele verbetermaatregelen.
 
@@ -3317,7 +3387,7 @@ UWV rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronde
 
 UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder.
 
-UWV rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2014-01-06&g=2014-01-06) Regeling SUWI).
+UWV rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-01-01&g=2015-01-01) Regeling SUWI).
 
 UWV doet in de tussentijdse verslagen en in het jaarverslag verslag van de voortgang van het huisvestingsplan. In het bijzonder rapporteert het UWV specifiek over de volgende onderwerpen:
 
@@ -3497,7 +3567,7 @@ In de bedrijfsvoeringsparagraaf gaat de SVB in op de sturing en beheersing van d
 
 ### 5a). Rechtmatigheid
 
-Voor wat betreft rechtmatigheid rapporteert de SVB in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten wordt omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop de SVB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+Voor wat betreft rechtmatigheid rapporteert de SVB in het tweede tussentijdsverslag over de rechtmatigheidscijfers per wet over het eerste half jaar en in het jaarverslag over de jaarcijfers. Vaststelling van de rechtmatigheid is gekoppeld aan het handelen in het verslagjaar (het handelen omvat mede het ten onrechte niet-handelen) en de fouten die daarbij zijn gevonden. Ingegaan wordt op de wijze waarop met oude fouten wordt omgegaan. Tevens wordt hierbij inzicht geboden in de uitgevoerde herstelactiviteiten. De wijze waarop de SVB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
 Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerbaarheid. Onder ordelijk wordt verstaan dat het financieel beheer en de administraties in overeenstemming zijn met de in de administratieve organisatie vastgelegde procedureregels. Met controleerbaar wordt bedoeld dat de uitkomsten van het financieel beheer duidelijk worden vastgelegd, opdat achteraf controle efficiënt kan worden uitgevoerd.
 
@@ -3505,7 +3575,7 @@ Het financieel beheer dient te voldoen aan de eisen ordelijkheid en controleerba
 
 De SVB rapporteert in het algemeen bij onvolkomenheden in het financieel beheer als die kunnen leiden tot disfunctioneren van het financieel beheer en/of betrekking hebben op kritieke processen en/of wijd verbreid zijn en/of kunnen leiden of hebben geleid tot aanzienlijke risico’s. Daarnaast rapporteert de SVB bij dit onderdeel over de fouten (per wet) die zijn vastgesteld bij de bepaling van de financiële rechtmatigheid, maar niet tot financiële onrechtmatigheid hebben geleid.
 
-De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2014-01-06&g=2014-01-06) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2014-01-06&g=2014-01-06) Regeling SUWI) en eventuele verbetermaatregelen.
+De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-01-01&g=2015-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-01-01&g=2015-01-01) Regeling SUWI) en eventuele verbetermaatregelen.
 
 **Sociaal beleid en HRM**
 
@@ -3521,7 +3591,7 @@ SVB rapporteert over ontwikkelingen ten aanzien van de volgende onderwerpen:
 
 SVB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsbezetting, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
-SVB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder. SVB rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2014-01-06&g=2014-01-06) Regeling SUWI).
+SVB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hieronder. SVB rapporteert in het jaarverslag over de opzet en werking van het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking, en over het beveiligingsniveau van Suwinet (conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-01-01&g=2015-01-01) Regeling SUWI).
 
 De SVB doet in de tussentijdse verslagen en het jaarverslag verslag van de voortgang van de huisvestingsplannen. In het bijzonder rapporteert de SVB specifiek over de volgende onderwerpen:
 
@@ -3613,7 +3683,7 @@ In het tussentijdse verslag en het jaarverslag doet IB verslag van de uitvoering
 
 Vervallen
 
-## Bijlage XI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage XI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage IX
 
@@ -3655,15 +3725,15 @@ In de bedrijfsvoeringsparagraaf gaat IB in op de sturing en beheersing van de be
 
 **ICT en informatiebeveiliging**
 
-De wijze waarop IB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+De wijze waarop IB verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
 **Huisvesting**
 
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2014-01-06&g=2014-01-06) bij de Regeling SUWI.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling SUWI is aangegeven dat IB inzicht moet bieden in de doelmatigheid van het beheer en de organisatie. Ten aanzien van IB wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. IB wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-01-01&g=2015-01-01) bij de Regeling SUWI.
 
 IB doet verslag van de voortgang van huisvestingskosten.
 
-IB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2014-01-06&g=2014-01-06) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2014-01-06&g=2014-01-06) Regeling SUWI).
+IB rapporteert in het jaarverslag over het totstandkomingsproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-01-01&g=2015-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-01-01&g=2015-01-01) Regeling SUWI).
 
 bestuurlijke inrichting van IB en de wijze waarop zij haar taken uitvoert.
 
@@ -3679,7 +3749,7 @@ IB rapporteert over belangrijke ontwikkelingen ten aanzien van de volgende onder
 
 IB rapporteert op dit punt over belangrijke personeelsaangelegenheden, waaronder in ieder geval de personeelsomvang, het personeelsverloop, de sociale plannen en de daarmee gemoeide kosten.
 
-IB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft IB inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
+IB rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft IB inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
 
 IB doet verslag van de voortgang van huisvestingskosten.
 
@@ -3787,7 +3857,7 @@ In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:
 
 UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomingproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2012-07-01&g=2013-07-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2012-07-01&g=2013-07-01) Regeling SUWI). In zowel het tussentijdse verslag als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
 
-In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organisatieonderdeel van UWV) periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) van de Regeling SUWI. Het betreft de volgende producten:
 
 Ten aanzien van BKWI wordt één planningsdocument opgeleverd, te weten het **jaarplan met begroting** (vóór 1 oktober). Het jaarplan van BKWI bevat in elk geval een omschrijving van de taak, bedoeld in [artikel 5.21, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) en de andere taken die BKWI ten behoeve van gemeenten verricht. Ten aanzien van BKWI dient UWV zich op verschillende momenten te verantwoorden over de uitvoering van het jaarplan. Deze verantwoording vindt plaats in het **tussentijdse verslag** en het **jaarverslag**. Het tussentijdse verslag wordt uiterlijk zes weken na afloop van de verslagperiode aan de minister verstrekt. Het jaarverslag wordt vòòr 15 maart aan de minister aangeboden.
 
@@ -3829,7 +3899,7 @@ UWV doet verslag van de voortgang van huisvestingskosten van BKWI.
 
 ### 5c). Totstandkoming niet-financiële informatie
 
-UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomingproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2014-01-06&g=2014-01-06) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2014-01-06&g=2014-01-06) Regeling SUWI). In zowel het tussentijdse verslag als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
+UWV rapporteert in het jaarverslag over het onderdeel BKWI over het totstandkomingproces van de informatievoorziening (inclusief de daarbij gehanteerde criteria zoals vastgelegd in [bijlage XVII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XVII&z=2015-01-01&g=2015-01-01) van de SUWI-regeling) en de wijze waarop deze is gewaarborgd (conform [artikel 5.16 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.16&z=2015-01-01&g=2015-01-01) Regeling SUWI). In zowel het tussentijdse verslag als het jaarverslag wordt ingegaan op de voortgang van verbetermaatregelen.
 
 ### 5d). Financieel Beheer
 
@@ -3845,7 +3915,7 @@ UWV rapporteert voor het onderdeel BKWI over belangrijke ontwikkelingen ten aanz
 
 ### 5c). Totstandkoming niet-financiële informatie
 
-UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen bij BKWI. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2014-01-06&g=2014-01-06) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2014-01-06&g=2014-01-06) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft UWV voor de bijdrage van BKWI inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
+UWV rapporteert over de voortgang, verbetering en vernieuwing van de geautomatiseerde ondersteuning van zowel haar primaire- als ondersteunende processen bij BKWI. Ook de voortgang van projecten ter verbetering van gegevensbeheer en privacybescherming vallen hier onder. In het jaarverslag wordt ingegaan op het oordeel van de EDP-auditor. Deze geeft conform [artikel 5.22](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.3&artikel=5.22&z=2015-01-01&g=2015-01-01) en [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.4&z=2015-01-01&g=2015-01-01) Regeling SUWI een oordeel over het stelsel van maatregelen en procedures gericht op het waarborgen van een exclusieve, integere, beschikbare en controleerbare gegevensverwerking en over het beveiligingsniveau van Suwinet. Indien van toepassing geeft UWV voor de bijdrage van BKWI inzicht in de verrichte inspanningen om de kwaliteit te verbeteren c.q. te consolideren.
 
 UWV doet verslag van de voortgang van huisvestingskosten van BKWI.
 
@@ -3881,7 +3951,7 @@ In verband met de versnelling van de verantwoording is het toegestaan het handel
 
 Bij het maken van deze risico-inschattingen neemt de accountant de interne beheersing in aanmerking die relevant is voor het opmaken van de jaarrekening c.a. en voor het getrouwe beeld daarvan, gericht op het opzetten van controlewerkzaamheden die passend zijn in de omstandigheden. Deze risico-inschattingen hebben echter niet tot doel een oordeel tot uitdrukking te brengen over de effectiviteit van de interne beheersing van het zbo /de stichting. Een controle omvat tevens het evalueren van de geschiktheid van de gebruikte grondslagen voor financiële verslaggeving en van de redelijkheid van de door de Raad van Bestuur zbo/Stichtingsbestuur/ Raad/Directie gemaakte schattingen, alsmede een evaluatie van het algehele beeld van de jaarrekening c.a..
 
-De accountant onderzoekt de verantwoording die het management van het BKWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2014-01-06&g=2014-01-06) van de Regeling SUWI.
+De accountant onderzoekt de verantwoording die het management van het BKWI op grond van de Regeling SUWI heeft uitgebracht. De accountantsverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-01-01&g=2015-01-01) van de Regeling SUWI.
 
 Naar ons oordeel geven de in het jaarverslag 201X van het zbo/de stichting opgenomen
 
@@ -4057,7 +4127,7 @@ Jaarlijks worden tijdens het uitvoeringsjaar de wetten en regelingen die in deze
 
 ### 10.6.8. Controleverklaring en verslag van bevindingen
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2014-01-06&g=2014-01-06) van de Regeling SUWI.
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van UWV op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-01-01&g=2015-01-01) van de Regeling SUWI.
 
 ### Planning & control producten van SVB
 
@@ -4069,7 +4139,7 @@ De SVB levert twee planningsdocumenten op, te weten het **meerjarenbeleidsplan**
 
 ### **Legenda**
 
-In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2014-01-06&g=2014-01-06), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2014-01-06&g=2014-01-06) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de diverse producten gespecificeerd die de SVB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-01-01&g=2015-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-01-01&g=2015-01-01) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### 1. **Volumeontwikkeling en fondsbelasting**
 
@@ -4103,7 +4173,7 @@ De SVB rapporteert in het jaarverslag over het totstandkomingsproces van de info
 
 ### 5d). **Financieel Beheer**
 
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2014-01-06&g=2014-01-06) bij de Regeling SUWI.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling SUWI is aangegeven dat de SVB inzicht biedt in doelmatigheid van het beheer en de organisatie. De SVB brengt verslag uit van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-01-01&g=2015-01-01) bij de Regeling SUWI.
 
 ### 5c). Totstandkoming niet-financiële informatie
 
@@ -4127,7 +4197,7 @@ Nog te verrekenen rijksbijdragen
 
 ### **Risicomanagement**
 
-De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2014-01-06&g=2014-01-06) van de Regeling SUWI.
+De accountant onderzoekt de verantwoording die de Raad van Bestuur van de SVB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-01-01&g=2015-01-01) van de Regeling SUWI.
 
 ### 2. **Ontwikkelingen wetsuitvoering en andere taken**
 
@@ -4279,7 +4349,7 @@ Ingevolge [Artikel 49 lid 3 van de Wet Structuur Uitvoeringsorganisatie Werk en 
 
 ### **3. Ketensamenwerking**
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening c.a. op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2014-01-06&g=2014-01-06), Accountantscontrole. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening c.a. geen afwijkingen van materieel belang bevatten.
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening c.a. op basis van onze controle. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder de Nederlandse controlestandaarden en de regels inzake de accountantscontrole zoals opgenomen in de Regeling SUWI, [paragraaf 5.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&z=2015-01-01&g=2015-01-01), Accountantscontrole. Dit vereist dat wij voldoen aan de voor ons geldende ethische voorschriften en dat wij onze controle zodanig plannen en uitvoeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening c.a. geen afwijkingen van materieel belang bevatten.
 
 ### **3. Ketensamenwerking**
 
@@ -4339,7 +4409,7 @@ Op de GeVS aangesloten partijen zijn gezamenlijk verantwoordelijk voor het maken
 
 ### **Eén gezamenlijk, transparant en uniform niveau van betrouwbaarheid in termen van Beschikbaarheid, Integriteit en Vertrouwelijkheid; de Verantwoordingsrichtlijn Privacy& Beveiliging GeVS**
 
-In deze bijlage zijn de diverse producten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2014-01-06&g=2014-01-06), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2014-01-06&g=2014-01-06) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de diverse producten gespecificeerd die UWV periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-01-01&g=2015-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-01-01&g=2015-01-01) van de Regeling SUWI. Het betreft de volgende producten:
 
 ### **1. Ontwikkelingen wetsuitvoering en andere taken**
 
@@ -4681,7 +4751,7 @@ De indeling in categorieën volgt [Titel 9 Boek 2 Burgerlijk Wetboek](https://we
 
 ### Controleverklaring en verslag van bevindingen
 
-De accountant onderzoekt de verantwoording die het management van IB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2014-01-06&g=2014-01-06) van de Regeling SUWI.
+De accountant onderzoekt de verantwoording die het management van IB op grond van de Regeling SUWI heeft uitgebracht. De controleverklaring en het verslag van bevindingen zijn nader geregeld in [artikel 5.10b t/m e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) en [bijlage XXII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXII&z=2015-01-01&g=2015-01-01) van de Regeling SUWI.
 
 ### Egalisatiereserve
 
@@ -4729,7 +4799,7 @@ Gepubliceerd op www.inlichtingenbureau.nl.
 
 Vervallen
 
-## Bijlage XX. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage XX. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage XIII
 
@@ -5246,11 +5316,11 @@ In deze bijlage zijn de informatieproducten gespecificeerd die BKWI (als organis
 
 ### 5d). Financieel Beheer
 
-De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2014-01-06&g=2014-01-06) van de Regeling SUWI en met name in de daarbij behorende toelichting.
+De wijze waarop UWV ten aanzien van BKWI verantwoording dient af te leggen over de rechtmatigheid in het jaarverslag en de jaarrekening, alsmede de wijze waarop de accountant zijn controlewerkzaamheden dient te verrichten, zijn nader uitgewerkt in de [artikelen 5.10b t/m 5.10e](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10b&z=2015-01-01&g=2015-01-01) van de Regeling SUWI en met name in de daarbij behorende toelichting.
 
 UWV gaat in op welke wijze risico’s binnen het organisatieonderdeel BKWI zijn geanalyseerd, hoe wordt omgegaan met risico’s en hoe risico’s worden gemanaged.
 
-In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2014-01-06&g=2014-01-06) bij de Regeling SUWI.
+In [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling SUWI is aangegeven dat UWV inzicht moet bieden in de doelmatigheid van het beheer en de organisatie BKWI. Ten aanzien van BKWI wordt verslag uitgebracht van activiteiten die zijn ondernomen om de bedrijfsprocessen door te lichten, waarbij het kostenniveau wordt gerelateerd aan de (kwaliteit van de) geleverde prestatie. De Raad van Bestuur van UWV wordt geacht de uitgangspunten die zij hanteert met betrekking tot doelmatigheid te expliciteren. Een toelichting op artikel 5.10e, eerste lid, onderdeel c, van de Regeling SUWI, wordt gegeven in [Bijlage XXIII](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&bijlage=XXIII&z=2015-01-01&g=2015-01-01) bij de Regeling SUWI.
 
 **Bestuurskosten**
 
@@ -6066,7 +6136,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### **1.1 (e-)Voorzieningen**
 
-## Bijlage II. , bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2014-01-06&g=2014-01-06) van de Regeling SUWI eenmalige gegevensuitvraag
+## Bijlage II. bedoeld in [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2015-01-01&g=2015-01-01) van de Regeling SUWI eenmalige gegevensuitvraag
 
 |   | Status 31 december 2008 | Uiterlijk 31 december 2009 | Uiterlijk 31 december 2010 | Uiterlijk 31 december 2011 |
 | --- | --- | --- | --- | --- |
@@ -6106,11 +6176,11 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 | • Ingangsdatum Anw • Brutobedrag Anw |   |   |   |   |
 | **Gegevens over de Algemene ouderdomswet.** | **X** |   |   |   |
 | • Ingangsdatum Aow • Einddatum Aow • Indicatie toeslag Aow • Percentage Aow • Netto bedrag Aow • Bruto bedrag Aow |   |   |   |   |
-| **Gegevens betreffende WWB 65+.** |   |   |   | **X** |
+| **gegevens betreffende aanvullende inkomensvoorziening ouderen als bedoeld in de Participatiewet.** |   |   |   | **X** |
 | • Begindatum uitkering • Einddatum uitkering. • Datum aanvang maatregel • Datum einde maatregel • Reden maatregel • Huisvesting. • Leefvorm. • Soort normbedrag • Normbedrag. • Reden beëindiging bijstand. • Datum besluit vordering |   |   |   |   |
 | • Reden vordering • Bedrag aanvang vordering • Bedrag saldo vordering • Status vordering • Code aanleiding uitkering. • Code soort overige inkomsten • Code beslissing op aanvraag • Datum aanvraag uitkering • Datum beslissing op aanvraag |   |   |   |   |
 | **Gemeenten** |   |   |   |   |
-| **Gegevens betreffende WWB.** | **X** |   |   |   |
+| **gegevens betreffende Participatiewet.** | **X** |   |   |   |
 | • Begindatum uitkering • Einddatum uitkering • Datum aanvang maatregel • Datum einde maatregel • Reden maatregel • Huisvesting • Leefvorm • Soort normbedrag • Normbedrag |   |   |   |   |
 | • Reden beëindiging bijstand • Datum betaalbaarstelling bijzondere bijstand • Soort kosten bijzondere bijstand • Datum besluit vordering • Reden vordering • Bedrag aanvang vordering • Bedrag saldo vordering • Status vordering |   |   |   |   |
 | • Code aanleiding uitkering. |   |   |   | **X** |
@@ -6162,7 +6232,7 @@ Vervallen
 
 ### 5e). Overige aspecten van de bedrijfsvoering
 
-In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) van de Regeling SUWI. Het betreft de volgende producten:
+In deze bijlage zijn de informatieproducten gespecificeerd die IB periodiek aan SZW dient te verstrekken op grond van [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01) en [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) van de Regeling SUWI. Het betreft de volgende producten:
 
 ## Bijlage VIII. , bedoeld in de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2010-01-01&g=2010-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2010-01-01&g=2010-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2010-01-01&g=2010-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2010-01-01&g=2010-01-01) van de Regeling SUWI
 
@@ -6510,11 +6580,11 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 ### **Inleiding**
 
-## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage III. bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=6&paragraaf=6.1&artikel=6.5&z=2013-07-10&g=2013-07-01) van de Regeling SUWI
 
-## Bijlage VI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2014-01-06&g=2014-01-06), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage VI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-01-01&g=2015-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage VI. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2013-07-10&g=2013-07-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2013-07-10&g=2013-07-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2013-07-10&g=2013-07-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2013-07-10&g=2013-07-01) van de Regeling SUWI
 
@@ -6554,7 +6624,7 @@ De bijlagen III tot en met XVI liggen met ingang van 1 januari 2002 ter inzage i
 
 Vervallen
 
-## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2014-01-06&g=2014-01-06), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2014-01-06&g=2014-01-06), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2014-01-06&g=2014-01-06) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2014-01-06&g=2014-01-06) van de Regeling SUWI
+## Bijlage VIII. behorende bij de [artikelen 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.3&z=2015-01-01&g=2015-01-01), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.4&z=2015-01-01&g=2015-01-01), [5.10a](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1&artikel=5.10a&z=2015-01-01&g=2015-01-01) en [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.2&sub-paragraaf=5.2.1&artikel=5.12&z=2015-01-01&g=2015-01-01) van de Regeling SUWI
 
 ## Bijlage IX
 
@@ -6564,9 +6634,9 @@ Ligt ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid.
 
 Vervallen
 
-## Bijlage XXII. als bedoeld in [artikel 5.10d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2014-01-06&g=2014-01-06), van de Regeling SUWI
+## Bijlage XXII. als bedoeld in [artikel 5.10d, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10d&z=2015-01-01&g=2015-01-01), van de Regeling SUWI
 
-## Bijlage XXIII. betreffende een nadere toelichting op [artikel 5.10c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10c&z=2014-01-06&g=2014-01-06), en [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2014-01-06&g=2014-01-06), van de Regeling
+## Bijlage XXIII. betreffende een nadere toelichting op [artikel 5.10c, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10c&z=2015-01-01&g=2015-01-01), en [artikel 5.10e, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&hoofdstuk=5&paragraaf=5.1b&artikel=5.10e&z=2015-01-01&g=2015-01-01), van de Regeling
 
 Deze regeling zal met de toelichting en de bijlagen, met uitzondering van de bijlagen III tot en met XVI, in de Staatscourant worden geplaatst.
 
