@@ -4,7 +4,7 @@ identifier: "BWBR0007549"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-03-26"
-last_updated: "2008-11-28"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007549"
 soort: "pbo"
@@ -44,7 +44,7 @@ De aanwijzing en voorschriften als bedoeld in [artikel 15a, tweede lid](https://
 
 In dit besluit wordt verstaan onder:
 
-- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2008-11-28);
+- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2015-01-01);
 
 - b. samenwerkingsverband: een samenwerkingsverband als bedoeld in artikel 2 van de Dienstverleningsverordening registerloodsen;
 
@@ -96,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2008-11-28).
+De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2015-01-01).
 
 ##### Artikel 5
 
