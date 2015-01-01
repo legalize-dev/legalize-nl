@@ -4,7 +4,7 @@ identifier: "BWBR0031973"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2013-08-20"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031973"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Samenloop loon en uitkering
 
-Bij samenloop over eenzelfde tijdvak en ter zake van dezelfde arbeidsongeschiktheid van loon als bedoeld in [artikel 734 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734) met een of meer uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), dan wel met een uitkering of een inkomensvoorziening op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), wordt het loon slechts uitbetaald voor zover het de uitkering of inkomensvoorziening, verleend ter zake van dezelfde arbeidsongeschiktheid, overtreft.
+Bij samenloop over eenzelfde tijdvak en ter zake van dezelfde arbeidsongeschiktheid van loon als bedoeld in [artikel 734 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=734) met een of meer uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), dan wel met een uitkering of een inkomensvoorziening op grond van de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), wordt het loon slechts uitbetaald voor zover het de uitkering of inkomensvoorziening, verleend ter zake van dezelfde arbeidsongeschiktheid, overtreft.
 
 ##### Artikel 2. Verlies uitrusting
 
@@ -238,7 +238,7 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 
 Dit besluit wordt aangehaald als: Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart.
 
-## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031973&hoofdstuk=1&artikel=2&z=2013-08-20&g=2013-08-20) van het Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart
+## Bijlage. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031973&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01) van het Besluit aanspraken zeevarenden, arbeidsbemiddeling en terbeschikkingstelling van arbeidskrachten in de zeevaart
 
 ### Uitkeringen wegens verlies van de gehele uitrusting
 
