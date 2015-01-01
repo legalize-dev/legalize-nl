@@ -4,7 +4,7 @@ identifier: "BWBR0018113"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018113"
 soort: "AMvB"
@@ -127,13 +127,13 @@ De meerjarenafspraken op grond van de [Regeling experiment meerjarenafspraken op
 
 ##### Artikel 13
 
-1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=2&z=2013-01-01&g=2013-01-01) is niet van toepassing op een verstrekking als bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22).
+1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=2&z=2013-01-01&g=2015-01-01) is niet van toepassing op een verstrekking als bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22).
 
 2. Indien toepassing wordt gegeven aan [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22) wordt de bijdrage voor de exploitatie van het openbaar vervoer, bedoeld in [artikel 76 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), die is verstrekt in het jaar voorafgaand aan het eerste uitkeringsjaar, bij de verstrekking van de uitkering voor het eerste uitkeringjaar ambtshalve overeenkomstig de verlening wordt vastgesteld.
 
 ##### Artikel 14
 
-1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) vervallen de betalingstermijnen van de uitkering, bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22), die zijn verstreken op het tijdstip van inwerkingtreding van dit besluit, binnen acht weken na dat tijdstip.
+1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=3&z=2013-01-01&g=2015-01-01) vervallen de betalingstermijnen van de uitkering, bedoeld in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=22), die zijn verstreken op het tijdstip van inwerkingtreding van dit besluit, binnen acht weken na dat tijdstip.
 
 2. De bijdrage voor de exploitatie van openbaar vervoer, bedoeld in [artikel 76 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=76), die in het jaar voorafgaand aan het eerste uitkeringsjaar is verstrekt, wordt onder verrekening van de betaalde voorschotten, betaald in vijf gelijke termijnen.
 
@@ -141,7 +141,7 @@ De meerjarenafspraken op grond van de [Regeling experiment meerjarenafspraken op
 
 4. De termijnen, bedoeld in het tweede en derde lid, bedragen elk een vijfde van het verschil van de verleende bijdrage en van het bedrag van de betaalde voorschotten.
 
-5. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=3&z=2013-01-01&g=2013-01-01) en het eerste lid zijn van overeenkomstige toepassing op het vervallen van de betalingstermijnen, bedoeld in het tweede en derde lid.
+5. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=2&artikel=3&z=2013-01-01&g=2015-01-01) en het eerste lid zijn van overeenkomstige toepassing op het vervallen van de betalingstermijnen, bedoeld in het tweede en derde lid.
 
 ##### Artikel 15. Overgangsrecht [Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264)
 
@@ -181,7 +181,7 @@ Het [Interimbesluit Duurzaam Veilig](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 ##### Artikel 20. Overgangsbepaling reserveringen
 
-In afwijking van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=6&artikel=15&z=2013-01-01&g=2013-01-01) gelden de bedragen die, met inbegrip van de rente, zijn gereserveerd op grond van:
+In afwijking van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=6&artikel=15&z=2013-01-01&g=2015-01-01) gelden de bedragen die, met inbegrip van de rente, zijn gereserveerd op grond van:
 
 - a. [artikel 36, zesde lid, van het Besluit Infrastructuurfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0006264&artikel=36);
 
@@ -199,9 +199,9 @@ In afwijking van de [artikelen 15 tot en met 18](https://wetten.overheid.nl/jci1
 
 ##### Artikel 21
 
-1. Dit besluit met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=5&artikel=7&z=2013-01-01&g=2013-01-01), treedt in werking met ingang van het eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828) in werking treedt.
+1. Dit besluit met uitzondering van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=5&artikel=7&z=2013-01-01&g=2015-01-01), treedt in werking met ingang van het eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828) in werking treedt.
 
-2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=5&artikel=7&z=2013-01-01&g=2013-01-01) treedt twee maanden na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst in werking en werkt terug tot en met het tijdstip, waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828) in werking treedt.
+2. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018113&hoofdstuk=5&artikel=7&z=2013-01-01&g=2015-01-01) treedt twee maanden na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst in werking en werkt terug tot en met het tijdstip, waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017828) in werking treedt.
 
 ##### Artikel 22
 
