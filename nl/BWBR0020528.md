@@ -4,7 +4,7 @@ identifier: "BWBR0020528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-04-01"
-last_updated: "2013-07-22"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020528"
 soort: "ministeriele-regeling"
@@ -58,7 +58,7 @@ Als staat in de zin van de [artikelen 2:6, tweede lid](https://wetten.overheid.n
 
 ##### Artikel 3
 
-Als staat in de zin van [artikel 3:2, eerste lid, onderdeel c, onder 2°, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) worden aangewezen: Australië, Canada, Japan, de Verenigde Staten van Amerika en Zwitserland.
+Als staat in de zin van [artikel 3:2, eerste lid, onderdeel b, onder 2°, en vierde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:2) worden aangewezen: Australië, Canada, Japan, de Verenigde Staten van Amerika en Zwitserland.
 
 ##### Artikel 4
 
