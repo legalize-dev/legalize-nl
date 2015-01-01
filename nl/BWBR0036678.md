@@ -4,7 +4,7 @@ identifier: "BWBR0036678"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036678"
 soort: "wet"
@@ -52,16 +52,8 @@ De regels voor de doorberekening van kosten van de Autoriteit Consument en Markt
 
 ##### Artikel IIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Instellingswet Autoriteit Consument en Markt.
 
 ##### Artikel IV
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het, rekening houdend met [richtlijn 97/67/EG](31997L0067) van het Europees parlement en de Raad van 15 december 1997 betreffende gemeenschappelijke regels voor de ontwikkeling van de interne markt voor postdiensten in de Gemeenschap en de verbetering van de kwaliteit van de dienst (PbEG 1998 L 15), vanwege diverse ontwikkelingen op de postmarkt noodzakelijk is om de universele postdienstverplichting te moderniseren en te flexibiliseren teneinde de universele dienst voor een ieder toegankelijk te houden;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
