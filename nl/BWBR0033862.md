@@ -4,7 +4,7 @@ identifier: "BWBR0033862"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033862"
 soort: "ministeriele-regeling"
@@ -58,15 +58,15 @@ In deze regeling wordt verstaan onder:
 
 1. Voor het vaststellen van de maximumprijs wordt bij het berekenen van het verschil in gebruikskosten uitgegaan van;
 
-- a. een aanschafwaarde van een cv-ketel van: € 2.474,
+- a. een aanschafwaarde van een cv-ketel van: € 2.284,50,
 
 - b. een gemiddelde levensduur van een cv-ketel van 15 jaar,
 
 - c. een gemiddelde resterende levensduur van een cv-ketel van 7,5 jaar,
 
-- d. jaarlijkse onderhoudskosten van een cv-ketel van 141 euro,
+- d. jaarlijkse onderhoudskosten van een cv-ketel van € 139,
 
-- e. een aanschafwaarde van een warmtewisselaar van: € 2.243,
+- e. een aanschafwaarde van een warmtewisselaar van: € 1.925,
 
 - f. een reële vermogenskostenvoet gebaseerd op de laatst bekende heffingsrente die door het Ministerie van Financiën is vastgesteld,
 
@@ -74,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - h. een gemiddelde resterende levensduur van een warmtewisselaar van 7,5 jaar,
 
-- i. jaarlijkse onderhoudskosten van een warmtewisselaar van 40 euro,
+- i. jaarlijkse onderhoudskosten van een warmtewisselaar van € 44,77,
 
 - j. de meetkosten op basis van het gewogen gemiddelde van de meettarieven voor G6 aansluitingen van de gasmeter van de netbeheerders van de gastransportnetten niet zijnde de netbeheerder van het landelijk gastransportnet, voor het jaar t.
 
-- k. jaarlijkse meerkosten van elektrisch koken van 50 euro.
+- k. jaarlijkse meerkosten van elektrisch koken van € 20,68.
 
-2. Voor de in dit artikel genoemde bedragen geldt het jaar 2009 als referentiejaar en worden deze bedragen voor latere jaren gecorrigeerd voor de relatieve wijziging van de consumentenprijsindex.
+2. Voor de in dit artikel genoemde bedragen geldt het jaar 2014 als referentiejaar en worden deze bedragen voor latere jaren gecorrigeerd voor de relatieve wijziging van de consumentenprijsindex.
 
 #### § 3. Variabele kosten
 
@@ -96,7 +96,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 - d. leidingverlies bij tapwater (LVT), dat wordt vastgesteld op 0,10;
 
-- e. gemiddeld opwekrendement voor ruimteverwarming (ηruimte), dat wordt vastgesteld op 0,90;
+- e. gemiddeld opwekrendement voor ruimteverwarming (ηruimte), dat wordt vastgesteld op 0,94;
 
 - f. gemiddeld warm tapwater rendement (ηtap), dat wordt vastgesteld op 0,65.
 
@@ -122,7 +122,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 - b. biedt bij de herinnering aan met schriftelijke toestemming van de verbruiker de contactgegevens van de verbruiker, diens klantnummer, en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening te verstrekken, tenzij de verbruiker geen natuurlijk persoon is;
 
-- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2014-01-01&g=2014-01-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2014-01-01&g=2014-01-01), van toepassing zijn.
+- c. vermeldt bij de herinnering dat de verbruiker niet wordt afgesloten indien de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2015-01-01&g=2015-01-01) of [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=7&z=2015-01-01&g=2015-01-01), van toepassing zijn.
 
 4. De leverancier spant zich in om in persoonlijk contact te treden met de verbruiker teneinde deze te wijzen op mogelijkheden om betalingsachterstanden te voorkomen en te beëindigen.
 
@@ -144,7 +144,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 ##### Artikel 7
 
-1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2014-01-01&g=2014-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2014-01-01&g=2014-01-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
+1. Onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2015-01-01&g=2015-01-01), is dit artikel van toepassing in de periode van 1 oktober tot 1 april van enig jaar.
 
 2. Een leverancier beëindigt de levering van warmte aan een kleinverbruiker niet, tenzij:
 
@@ -160,7 +160,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 3. Een leverancier kan de levering van warmte aan een verbruiker beëindigen wegens wanbetaling, tenzij:
 
-- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2014-01-01&g=2014-01-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
+- a. de verbruiker binnen een door de leverancier vast te stellen redelijke termijn na de herinnering, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2015-01-01&g=2015-01-01), een bewijs overlegt dat hij heeft verzocht om schuldhulpverlening, totdat op dat verzoek negatief is beslist;
 
 - b. de vordering van de leverancier binnen een redelijke termijn betrokken wordt bij een lopend traject van schuldhulpverlening aan de verbruiker;
 
@@ -174,7 +174,7 @@ Bij de bepaling van de energetische waarde van aardgasgebruik in de gaswoning wo
 
 5. De uitzonderingsgronden, bedoeld in het derde lid, onderdelen a en b, zijn niet van toepassing indien de schuldhulpverlening aan de verbruiker eindigt of indien de verbruiker de verplichtingen ten aanzien van de schuldhulpverlening niet nakomt.
 
-6. Indien een verbruiker niet heeft gereageerd op het aanbod, bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2014-01-01&g=2014-01-01), verstrekt de leverancier de contactgegevens van de verbruiker, diens klantnummer en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening, tenzij de kleinverbruiker geen natuurlijk persoon is.
+6. Indien een verbruiker niet heeft gereageerd op het aanbod, bedoeld in [artikel 5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2015-01-01&g=2015-01-01), verstrekt de leverancier de contactgegevens van de verbruiker, diens klantnummer en informatie over de hoogte van diens schuld aan een instantie ten behoeve van schuldhulpverlening, tenzij de kleinverbruiker geen natuurlijk persoon is.
 
 #### § 5. Slotbepalingen
 
