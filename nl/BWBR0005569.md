@@ -4,7 +4,7 @@ identifier: "BWBR0005569"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2006-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005569"
 soort: "wet"
@@ -56,7 +56,7 @@ De gewezen militair, die een werkelijke dienst aan kan wijzen van ten minste vij
 
 ##### Artikel 3
 
-Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005569&artikel=2&z=2006-01-01&g=2006-01-01) genoemde aanspraak in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het bedrag dat wordt gevonden door het in dat artikel genoemde bedrag van € 3403,35 te vermenigvuldigen met een breuk, waarvan de teller gelijk is aan dat deel van de werkelijke dienst waarin zij met de militair gehuwd is geweest en de noemer gelijk is aan de werkelijke dienst.
+Indien de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005569&artikel=2&z=2015-01-01&g=2015-01-01) genoemde aanspraak in verband met het overlijden van de militair niet kan worden geëffectueerd, heeft de weduwe recht op een eenmalige uitkering, gelijk aan het bedrag dat wordt gevonden door het in dat artikel genoemde bedrag van € 3403,35 te vermenigvuldigen met een breuk, waarvan de teller gelijk is aan dat deel van de werkelijke dienst waarin zij met de militair gehuwd is geweest en de noemer gelijk is aan de werkelijke dienst.
 
 ##### Artikel 4
 
@@ -64,7 +64,7 @@ De over de uitkering verschuldigde belasting ingevolge de [Wet inkomstenbelastin
 
 ##### Artikel 5
 
-De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.
+De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.
 
 ##### Artikel 6
 
