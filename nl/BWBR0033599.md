@@ -4,7 +4,7 @@ identifier: "BWBR0033599"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033599"
 soort: "wet"
@@ -57,9 +57,11 @@ Wijzigt de Arbeidstijdenwet.
 
 Wijzigt de Arbeidswet 2000 BES.
 
-##### Artikel IVa. [Buitengewoon besluit arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&wetgeving)
+##### Artikel IVa. [Buitengewoon besluit arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014)
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/504.
+
+Wijzigt het Buitengewoon besluit arbeidsverhoudingen 1945.
 
 ##### Artikel IVb. [Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754)
 
