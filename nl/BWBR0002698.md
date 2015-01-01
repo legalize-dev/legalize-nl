@@ -4,7 +4,7 @@ identifier: "BWBR0002698"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "1999-02-17"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002698"
 soort: "wet"
@@ -65,13 +65,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 - a. personen in dienst van een publiekrechtelijk lichaam;
 
-- b. personen, aan een onderwijsinrichting werkzaam, wier arbeid bestaat in het geven van onderwijs;
-
-- c. personen die een geestelijk ambt bekleden.
+- b. personen die een geestelijk ambt bekleden.
 
 2. Deze wet is voorts niet van toepassing op arbeidsverhoudingen, behorende tot een bij algemene maatregel van bestuur daartoe aangewezen categorie.
 
-3. In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), en de [Wet inschakeling werkzoekenden](https://wetten.overheid.nl/jci1.3:c:BWBR0009083).
+3. In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ##### Artikel 3
 
@@ -81,9 +79,9 @@ Vervallen
 
 ##### Artikel 4
 
-1. Van het sluiten, wijzigen of opzeggen van een collectieve arbeidsovereenkomst, doen partijen schriftelijk mededeling aan Onze Minister. Daarbij wordt de tekst van de gesloten overeenkomst dan wel van de gewijzigde bepalingen daarvan alsmede een toelichting daarop overgelegd.
+1. Van het sluiten, wijzigen of opzeggen van een collectieve arbeidsovereenkomst, doen partijen mededeling aan Onze Minister. Daarbij wordt de tekst van de gesloten overeenkomst dan wel van de gewijzigde bepalingen daarvan alsmede een toelichting daarop overgelegd.
 
-2. Onze Minister stelt zo spoedig mogelijk na ontvangst van de mededeling en de bescheiden bedoeld in het eerste lid partijen hiervan schriftelijk in kennis.
+2. Onze Minister stelt zo spoedig mogelijk na ontvangst van de mededeling en de bescheiden bedoeld in het eerste lid partijen hiervan in kennis.
 
 3. Een collectieve arbeidsovereenkomst of wijziging daarvan kan eerst in werking treden met ingang van de dag volgende op die waarop Onze Minister de in het tweede lid bedoelde kennisgeving heeft verzonden.
 
@@ -101,7 +99,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. Onze Minister kan regelingen van dezelfde inhoud als een collectieve arbeidsovereenkomst, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar, eveneens vaststellen met betrekking tot arbeidsverhoudingen, behorende tot een bij zijn besluit daartoe aangewezen categorie. [Artikel 5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=1999-02-17&g=1999-02-17), is van toepassing.
+1. Onze Minister kan regelingen van dezelfde inhoud als een collectieve arbeidsovereenkomst, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar, eveneens vaststellen met betrekking tot arbeidsverhoudingen, behorende tot een bij zijn besluit daartoe aangewezen categorie. [Artikel 5, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 2. Toepassing van het eerste lid kan uitsluitend geschieden op verzoek van de Stichting van de Arbeid dan wel op verzoek van al dan niet in de Stichting van de Arbeid vertegenwoordigde centrale organisaties van werkgevers of van werknemers, van een werkgever, van een vereniging met volledige rechtsbevoegdheid van werkgevers of van een zodanige vereniging van werknemers.
 
@@ -145,17 +143,17 @@ Vervallen
 
 ##### Artikel 11
 
-Elk beding tussen een werkgever en een werknemer alsmede elke bepaling in een collectieve arbeidsovereenkomst strijdig met de krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17), gestelde regelen, is nietig, behoudens voor zover vrijstelling of ontheffing is verleend. In plaats van zodanig beding of zodanige bepaling gelden die regelen.
+Elk beding tussen een werkgever en een werknemer alsmede elke bepaling in een collectieve arbeidsovereenkomst strijdig met de krachtens [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01), gestelde regelen, is nietig, behoudens voor zover vrijstelling of ontheffing is verleend. In plaats van zodanig beding of zodanige bepaling gelden die regelen.
 
 ##### Artikel 12
 
-1. Alvorens aan [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17), onderscheidenlijk [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17), voorzover vrijstelling betreffende, toepassing te geven voert Onze Minister terzake overleg met de Stichting van de Arbeid, alsmede met niet in de Stichting van de Arbeid vertegenwoordigde organisaties van werkgevers en van werknemers, welke naar zijn oordeel op centraal niveau hiervoor in aanmerking komen.
+1. Alvorens aan [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01), onderscheidenlijk [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01), voorzover vrijstelling betreffende, toepassing te geven voert Onze Minister terzake overleg met de Stichting van de Arbeid, alsmede met niet in de Stichting van de Arbeid vertegenwoordigde organisaties van werkgevers en van werknemers, welke naar zijn oordeel op centraal niveau hiervoor in aanmerking komen.
 
 2. In geval het in het eerste lid bedoelde overleg niet heeft plaatsgevonden binnen een week nadat een uitnodiging daartoe door Onze Minister is gedaan, geldt het aldaar bepaalde niet, met dien verstande dat Onze Minister in dat geval na het vaststellen van een regeling zo spoedig mogelijk alsnog, op de voet van het in dat lid bepaalde, overgaat tot het voeren van overleg over het al dan niet handhaven of wijzigen van de regeling.
 
-3. Indien een regeling op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17), wordt voorbereid, wordt, nadat het in het eerste lid bedoelde overleg heeft plaatsgevonden dan wel de in het tweede lid bedoelde termijn van een week is verstreken, de zakelijke inhoud daarvan schriftelijk medegedeeld aan de beide Kamers der Staten-Generaal. De regeling wordt niet eerder vastgesteld dan nadat een week is verstreken na die mededeling.
+3. Indien een regeling op grond van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01), wordt voorbereid, wordt, nadat het in het eerste lid bedoelde overleg heeft plaatsgevonden dan wel de in het tweede lid bedoelde termijn van een week is verstreken, de zakelijke inhoud daarvan schriftelijk medegedeeld aan de beide Kamers der Staten-Generaal. De regeling wordt niet eerder vastgesteld dan nadat een week is verstreken na die mededeling.
 
-4. Het bepaalde in de voorafgaande leden is van overeenkomstige toepassing ten aanzien van een verlenging als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17).
+4. Het bepaalde in de voorafgaande leden is van overeenkomstige toepassing ten aanzien van een verlenging als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01).
 
 #### § 6. Slotbepalingen
 
@@ -165,7 +163,7 @@ Vervallen
 
 ##### Artikel 14
 
-Onze Minister kan regelen stellen, inhoudende op welke wijze een mededeling als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=2&artikel=4&z=1999-02-17&g=1999-02-17), dan wel een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=1999-02-17&g=1999-02-17), of [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=1999-02-17&g=1999-02-17), moet worden ingediend en welke gegevens daarbij moeten worden verstrekt.
+Onze Minister kan regelen stellen, inhoudende op welke wijze een mededeling als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=2&artikel=4&z=2015-01-01&g=2015-01-01), dan wel een verzoek als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), of [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), moet worden ingediend en welke gegevens daarbij moeten worden verstrekt, waarbij kan worden bepaald dat dit, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:14), uitsluitend langs elektronische weg kan geschieden, tenzij naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.
 
 ##### Artikel 15
 
@@ -179,9 +177,9 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ##### Artikel 17
 
-1. Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=1999-02-17&g=1999-02-17), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=1999-02-17&g=1999-02-17), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=12&z=1999-02-17&g=1999-02-17), in haar plaats de door Ons aangewezen centrale organisaties van werkgevers en van werknemers. Voor aanwijzing komen slechts in aanmerking de naar Ons oordeel algemeen erkende centrale representatieve organisaties van werkgevers en van werknemers.
+1. Indien Onze Minister heeft vastgesteld dat de Stichting van de Arbeid heeft opgehouden te bestaan of de haar krachtens deze wet toekomende taak te vervullen, treden voor de toepassing van de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=12&z=2015-01-01&g=2015-01-01), in haar plaats de door Ons aangewezen centrale organisaties van werkgevers en van werknemers. Voor aanwijzing komen slechts in aanmerking de naar Ons oordeel algemeen erkende centrale representatieve organisaties van werkgevers en van werknemers.
 
-2. In het geval, bedoeld in het eerste lid, kan Onze Minister slechts overgaan tot toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=1999-02-17&g=1999-02-17), na de krachtens het eerste lid aangewezen organisaties in de gelegenheid te hebben gesteld hem hun zienswijze ter zake kenbaar te maken.
+2. In het geval, bedoeld in het eerste lid, kan Onze Minister slechts overgaan tot toepassing van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), na de krachtens het eerste lid aangewezen organisaties in de gelegenheid te hebben gesteld hem hun zienswijze ter zake kenbaar te maken.
 
 ##### Artikel 18
 
@@ -189,13 +187,13 @@ Vervallen
 
 ##### Artikel 19
 
-Van een besluit als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=1999-02-17&g=1999-02-17), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=1999-02-17&g=1999-02-17), [10, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17), voor zover het de vrijstelling betreft, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=14&z=1999-02-17&g=1999-02-17), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=15&z=1999-02-17&g=1999-02-17), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=16&z=1999-02-17&g=1999-02-17) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=17&z=1999-02-17&g=1999-02-17), wordt mededeling gedaan door plaatsing in de **Staatscourant**.
+Van een besluit als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), [10, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01), voor zover het de vrijstelling betreft, [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=15&z=2015-01-01&g=2015-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=16&z=2015-01-01&g=2015-01-01) of [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=6&artikel=17&z=2015-01-01&g=2015-01-01), wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
 ##### Artikel 20
 
 1. Onverminderd het in de [artikelen 131](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=131) en [241 van Boek 2 (Rechtspersonen) van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=241) bepaalde, worden burgerlijke rechtsvorderingen van werkgevers of werknemers welke voortvloeien uit niet-naleving van het bij of krachtens deze wet bepaalde, geacht betrekkelijk te zijn tot een arbeidsovereenkomst.
 
-2. [Artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) (**Stb.** 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=1999-02-17&g=1999-02-17).
+2. [Artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) (**Stb.** 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002698&paragraaf=5&artikel=10&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 21
 
