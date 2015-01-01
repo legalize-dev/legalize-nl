@@ -4,7 +4,7 @@ identifier: "BWBR0035978"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-12-20"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035978"
 soort: "wet"
@@ -53,15 +53,15 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet privatisering FVP.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het notarisambt.
 
 ##### Artikel VI
 
@@ -69,14 +69,16 @@ Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie lev
 
 ##### Artikel VIa
 
-Dit onderdeel is nog niet inwerking getreden
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/578.
+
+Wijzigt de Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet pensioenen 2014.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
