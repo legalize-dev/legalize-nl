@@ -4,7 +4,7 @@ identifier: "BWBR0028603"
 country: "nl"
 rank: "rijks_kb"
 publication_date: "2024-07-01"
-last_updated: "2011-11-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028603"
 soort: "rijksKB"
@@ -47,6 +47,8 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse en Koninkrijks
 De bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop artikel I, eerste lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
 ##### Artikel 1
 
@@ -120,9 +122,9 @@ De Gouverneur heeft aanspraak op:
 
 Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur toegekend:
 
-- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01);
+- a. een bedrag overeenkomstig [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2015-01-01);
 
-- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01); en
+- b. een bedrag overeenkomstig [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2015-01-01); en
 
 - c. een bedrag van zes procent van de jaarlijkse bezoldiging.
 
@@ -130,11 +132,11 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 1. In geval van overlijden van de Gouverneur worden aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, uitgekeerd:
 
-- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01), over een tijdvak van drie maanden;
+- a. een bedrag gelijk aan de bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2015-01-01), over een tijdvak van drie maanden;
 
-- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2011-11-01); en
+- b. een bedrag wegens verhuis- en reiskosten overeenkomstig [artikel 3, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=3&z=2011-11-01&g=2015-01-01); en
 
-- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2011-11-01&g=2011-11-01).
+- c. een bedrag gelijk aan de tegemoetkoming, bedoeld in [onderdeel c van artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=9&z=2011-11-01&g=2015-01-01).
 
 2. Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden Gouverneur ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, tweede, derde en vierde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=3).
 
@@ -144,7 +146,7 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 - a. diens ouders;
 
-- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2011-11-01&g=2011-11-01), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
+- b. andere kinderen dan bedoeld in [artikel 1, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=1&z=2011-11-01&g=2015-01-01), mits zij de leeftijd van eenentwintig jaar nog niet hebben bereikt en niet gehuwd zijn of gehuwd geweest zijn; of
 
 - c. broers en zussen.
 
@@ -152,21 +154,21 @@ Uit hoofde van de ambtsbeëindiging worden aan de eervol ontslagen Gouverneur to
 
 ##### Artikel 11
 
-1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01).
+1. De waarnemend Gouverneur die krachtens de artikelen 12 en 13 van het Reglement als zodanig optreedt, geniet gedurende de waarnemingsperiode een beloning van twintig procent van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2015-01-01).
 
-2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01).
+2. Bij aantoonbare inkomstenderving als gevolg van de waarneming kan het bedrag van de beloning door Onze Minister worden verhoogd, echter tot maximaal een bedrag naar rato van de maandelijkse bezoldiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2015-01-01).
 
 ##### Artikel 12
 
 De waarnemend Gouverneur heeft gedurende de uitoefening van het ambt aanspraak op:
 
-- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2011-11-01);
+- a. vergoeding van de representatiekosten overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2015-01-01);
 
-- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2011-11-01&g=2011-11-01).
+- b. vergoeding van reis- en verblijfkosten voor dienstreizen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=6&z=2011-11-01&g=2015-01-01).
 
 ##### Artikel 13
 
-Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2011-11-01), kunnen de bedragen, genoemd in de artikelen 2, eerste en tweede lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2011-11-01), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
+Onverminderd [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=2&z=2011-11-01&g=2015-01-01), kunnen de bedragen, genoemd in de artikelen 2, eerste en tweede lid, en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028603&artikel=5&z=2011-11-01&g=2015-01-01), bij koninklijk besluit, op voordracht van Onze Minister, worden gewijzigd.
 
 ##### Artikel 14
 
