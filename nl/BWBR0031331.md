@@ -4,7 +4,7 @@ identifier: "BWBR0031331"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-01-06"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031331"
 soort: "wet"
@@ -72,7 +72,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. welke maatregelen de gemeenteraad en het college nemen om de kwaliteit te borgen van de wijze waarop de integrale schuldhulpverlening wordt uitgevoerd;
 
-- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2014-01-06&g=2014-01-06), genoemde periode, en
+- c. het maximaal aantal weken dat de gemeente nastreeft met betrekking tot de in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=4&z=2015-01-01&g=2015-01-01), genoemde periode, en
 
 - d. hoe schuldhulpverlening aan gezinnen met inwonende minderjarige kinderen wordt vormgegeven.
 
@@ -80,7 +80,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Verantwoordelijkheid college
 
-1. Het college is verantwoordelijk voor de schuldhulpverlening aan de inwoners van zijn gemeente en voert daarbij het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2014-01-06&g=2014-01-06), uit.
+1. Het college is verantwoordelijk voor de schuldhulpverlening aan de inwoners van zijn gemeente en voert daarbij het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031331&artikel=2&z=2015-01-01&g=2015-01-01), uit.
 
 2. Het college kan schuldhulpverlening in ieder geval weigeren in geval een persoon al eerder gebruik heeft gemaakt van schuldhulpverlening.
 
