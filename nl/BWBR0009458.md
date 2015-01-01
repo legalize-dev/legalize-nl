@@ -4,7 +4,7 @@ identifier: "BWBR0009458"
 country: "nl"
 rank: "wet"
 publication_date: "2019-01-01"
-last_updated: "2011-10-29"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009458"
 soort: "wet"
@@ -44,11 +44,13 @@ Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranch
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Werkt terug tot en met 1 januari 1998.
+
 ### Hoofdstuk 1. Algemene bepalingen
 
 ##### Artikel 1. Begripsbepaling
 
-In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2011-10-29&g=2011-10-29).
+In deze wet en de daarop berustende bepalingen wordt onder Onze Minister verstaan: Onze Minister van Onderwijs, Cultuur en Wetenschap of Onze Minister die belast is met de zorg voor een of meer onderdelen van het beleid, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 2. Subsidiebevoegdheid
 
@@ -200,7 +202,7 @@ Vervallen
 
 1. Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verleend of vastgesteld.
 
-2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2011-10-29&g=2011-10-29), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
+2. De persoon of het orgaan waaraan de bevoegdheid op grond van [artikel 4, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), zoals dat luidde voor inwerkingtreding van deze wet, is gedelegeerd om besluiten omtrent subsidie te nemen, blijft die bevoegdheid houden.
 
 ##### Artikel 22. Inwerkingtreding
 
@@ -224,25 +226,27 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 19a. Onderwijsvoorzieningen voor jongeren met een handicap
 
-1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 1:2 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:2), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
+1. Het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 1 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=1), heeft tot taak te bevorderen dat belemmeringen worden weggenomen die de ingezetene, bedoeld in [artikel 1:2 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:2), vanwege ziekte of gebrek ondervindt bij het volgen van onderwijs, indien het een persoon betreft die:
 
 - a. jonger is dan 17 jaar;
 
-- b. studerende is als bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4);
+- b. studerende is als bedoeld in [artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4);
 
-- c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 1:4 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4).
+- c. jonger is dan 30 jaar en uitsluitend vanwege zijn ziekte of gebrek niet kan worden aangemerkt als studerende bedoeld in [artikel 1:4 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1:4).
 
-2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag aan de persoon, bedoeld in het eerste lid, voorzieningen toekennen die hem in staat stellen onderwijs te volgen.
+2. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van degene, bedoeld in het eerste lid, toekennen:
 
-3. Het Uitvoeringsinstituut werknemersverzekeringen kan op aanvraag van de persoon, bedoeld in het eerste lid, vervoersvoorzieningen toekennen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het tweede lid.
+- a. voorzieningen die hem in staat stellen onderwijs te volgen, en
 
-4. Onder voorzieningen als bedoeld in het tweede lid wordt niet verstaan financiering van of kinderopvangtoeslag in de kosten van kinderopvang.
+- b. vervoersvoorzieningen die de leefomstandigheden van hem verbeteren en die samenhangen met de voorzieningen, bedoeld in onderdeel a.
 
-5. De [artikelen 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:18), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:33), [3:56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:57), [3:58](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:58), [3:62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:62) en [3:74 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:74) zijn van overeenkomstige toepassing op de toekenning van voorzieningen als bedoeld in het tweede lid.
+3. De [artikelen 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:18), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:33), [3:56](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56), [3:57](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:57), [3:58](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:58), [3:62](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:62) en [3:74 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:74) zijn van overeenkomstige toepassing op voorzieningen bedoeld in het tweede lid.
 
-6. Beschikkingen op grond van [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17) worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
+4. Het Uitvoeringsinstituut werknemersverzekeringen kan geen tegemoetkoming in de kosten van kinderopvang toekennen.
 
-7. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
+5. Beschikkingen op grond van [artikel 2.17 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.17) worden na de inwerkingtreding van deze wet aangemerkt als beschikkingen op grond van deze wet.
+
+6. Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot dit artikel nadere regels worden gesteld.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
