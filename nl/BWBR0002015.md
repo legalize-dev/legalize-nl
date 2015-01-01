@@ -4,7 +4,7 @@ identifier: "BWBR0002015"
 country: "nl"
 rank: "kb"
 publication_date: "2015-01-01"
-last_updated: "2002-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002015"
 soort: "KB"
@@ -46,25 +46,25 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Met de opsporing van de strafbare feiten, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is en van de gedragingen, genoemd in [artikel 1 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=1), zijn belast de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede de daartoe door Onzen Minister van Justitie aan te wijzen ambtenaren van politie.
+1. Met de opsporing van de strafbare feiten, waarop het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing is en van de gedragingen, genoemd in [artikel 1 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=1), zijn belast de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), alsmede de daartoe door Onze Minister van Veiligheid en Justitie aan te wijzen ambtenaren van politie.
 
 2. Zij richten zich bij de uitvoering van hun taak naar de bevelen, hun bij uitsluiting gegeven door of vanwege den procureur-fiscaal bij het Bijzonder Gerechtshof, binnen welks ressort zij standplaats hebben.
 
 ##### Artikel 2
 
-Onze Minister van Justitie stelt uit de door hem ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) aan te wijzen ambtenaren der politie hoofden van politieke recherche aan, die elk in hun ambtsgebied belast zijn met de leiding van de opsporing der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde feiten en gedragingen, alsmede met de hun bij of krachtens dit besluit opgedragen werkzaamheden. Het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) is van toepassing.
+Onze Minister van Veiligheid en Justitie stelt uit de door hem ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) aan te wijzen ambtenaren van politie hoofden van politieke recherche aan, die elk in hun ambtsgebied belast zijn met de leiding van de opsporing der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten en gedragingen, alsmede met de hun bij of krachtens dit besluit opgedragen werkzaamheden. Het [tweede lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) is van toepassing.
 
 ### Afdeeling II. Officieren-Fiscaal
 
 ##### Artikel 3
 
-Onze Minister van Justitie benoemt op voordracht van den procureur-fiscaal officieren-fiscaal, die vanwege den procureur-fiscaal de hun door dezen verleende bevoegdheden uitoefenen.
+Onze Minister van Veiligheid en Justitie benoemt op voordracht van den procureur-fiscaal officieren-fiscaal, die vanwege den procureur-fiscaal de hun door dezen verleende bevoegdheden uitoefenen.
 
 ##### Artikel 4
 
 1. Tot officier-fiscaal zijn benoembaar Nederlanders en Nederlandsche onderdanen, tevens ingezetenen van het Koninkrijk, die tenminste den leeftijd van vijf en twintig jaren hebben bereikt.
 
-2. De officieren-fiscaal genieten een bezoldiging overeenkomstig door Onzen Minister van Justitie vast te stellen regelen.
+2. De officieren-fiscaal genieten een bezoldiging overeenkomstig door Onze Minister van Veiligheid en Justitie vast te stellen regelen.
 
 ##### Artikel 5
 
@@ -74,21 +74,21 @@ Alvorens in bediening te treden leggen de officieren-fiscaal naar de wijze hunne
 
 ##### Artikel 6
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde opsporingsambtenaren oefenen behalve de bevoegdheden, in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan opsporingsambtenaren toegekend, de hun in dit besluit toegekende bevoegdheden uit.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde opsporingsambtenaren oefenen behalve de bevoegdheden, in het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) aan opsporingsambtenaren toegekend, de hun in dit besluit toegekende bevoegdheden uit.
 
 ##### Artikel 6a
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde opsporingsambtenaren zijn bevoegd om personen, verdacht van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde feiten of gedragingen, aan te houden en hen naar een plaats van verhoor te geleiden.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde opsporingsambtenaren zijn bevoegd om personen, verdacht van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten of gedragingen, aan te houden en hen naar een plaats van verhoor te geleiden.
 
 2. Zij mogen voor het verhoor niet langer dan vierentwintig uren worden opgehouden.
 
 ##### Artikel 7
 
-De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde opsporingsambtenaren zijn te allen tijde bevoegd om in beslag te nemen, zoomede ter inbeslagneming de uitlevering te vorderen van alle roerende goederen, welke tot ontdekking der waarheid kunnen dienen.
+De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde opsporingsambtenaren zijn te allen tijde bevoegd om in beslag te nemen, zoomede ter inbeslagneming de uitlevering te vorderen van alle roerende goederen, welke tot ontdekking der waarheid kunnen dienen.
 
 ##### Artikel 8
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde opsporingsambtenaren hebben te allen tijde toegang tot alle plaatsen, voorzoover zij betreding daarvan voor een goede vervulling van hun taak redelijkerwijze noodzakelijk oordeelen.
+1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde opsporingsambtenaren hebben te allen tijde toegang tot alle plaatsen, voorzoover zij betreding daarvan voor een goede vervulling van hun taak redelijkerwijze noodzakelijk oordeelen.
 
 2. In woningen treden zij tegen den wil van den bewoner niet binnen tenzij voorzien van een algemeenen of bijzonderen schriftelijken last, door den procureur-fiscaal of met zijn machtiging door den officier-fiscaal gegeven. Van dit binnentreden wordt binnen twee maal vier en twintig uren proces-verbaal opgemaakt. Daarin wordt mede van het tijdstip van het binnentreden en van het daarmede beoogde doel melding gemaakt.
 
@@ -96,11 +96,11 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&art
 
 1. Zij zijn bevoegd op iedere plaats, die zij betreden, huiszoeking of onderzoek te doen.
 
-2. Het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=III&artikel=8&z=2002-01-01&g=2002-01-01), is van overeenkomstige toepassing.
+2. Het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=III&artikel=8&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 10
 
-1. De procureur-fiscaal kan ter inbeslagneming de uitlevering tegen ontvangstbewijs bevelen van de pakketten, brieven, stukken en andere berichten, welke aan de post, de telegrafie of andere instelling van vervoer zijn toevertrouwd; een en ander voorzoover zij klaarblijkelijk voor een van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde feiten of gedragingen verdachten persoon bestemd of van hem afkomstig zijn.
+1. De procureur-fiscaal kan ter inbeslagneming de uitlevering tegen ontvangstbewijs bevelen van de pakketten, brieven, stukken en andere berichten, welke aan de post, de telegrafie of andere instelling van vervoer zijn toevertrouwd; een en ander voorzoover zij klaarblijkelijk voor een van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten of gedragingen verdachten persoon bestemd of van hem afkomstig zijn.
 
 2. Ieder, die ten behoeve van dat vervoer zoodanige zaken onder zich heeft of krijgt, geeft dienaangaande den procureur-fiscaal op diens vordering de door hem gewenschte inlichtingen.
 
@@ -108,7 +108,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&art
 
 ##### Artikel 11
 
-1. De procureur-fiscaal kan van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=III&artikel=10&z=2002-01-01&g=2002-01-01) bedoelde pakketten, brieven, stukken en andere berichten kennis nemen, ook voorzoover deze gesloten zijn. Indien de inhoud niet voor het onderzoek van belang is, verzendt de procureur-fiscaal deze onverwijld naar hun bestemming.
+1. De procureur-fiscaal kan van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=III&artikel=10&z=2015-01-01&g=2015-01-01) bedoelde pakketten, brieven, stukken en andere berichten kennis nemen, ook voorzoover deze gesloten zijn. Indien de inhoud niet voor het onderzoek van belang is, verzendt de procureur-fiscaal deze onverwijld naar hun bestemming.
 
 2. Van de inbeslagneming, de teruggave, de opening en de verzending wordt door den procureur-fiscaal proces-verbaal opgemaakt, dat bij de processtukken wordt gevoegd.
 
@@ -118,7 +118,7 @@ De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&art
 
 ##### Artikel 12
 
-1. Personen, verdacht van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde feiten of gedragingen, kunnen door of vanwege den procureur-fiscaal in bewaring worden gesteld.
+1. Personen, verdacht van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten of gedragingen, kunnen door of vanwege den procureur-fiscaal in bewaring worden gesteld.
 
 2. Het bevel tot bewaring wordt niet gegeven dan nadat de betrokkene is gehoord. Van het verhoor wordt proces-verbaal opgemaakt.
 
@@ -134,7 +134,7 @@ Zij zullen te werk gesteld kunnen worden.
 
 ##### Artikel 13a
 
-Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den verdachte, die in bewaring is gesteld, is [artikel 50 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=50) van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van den rechter-commissaris, den officier van justitie en de rechtbank is bepaald, ten deze geldt voor den raadsheer-commissaris in het Bijzondere Gerechtshof, den procureur-fiscaal bij dat Hof en den raadsheer of raadsheer-plaatsvervanger, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=16&z=2002-01-01&g=2002-01-01), en met dien verstande, dat in het geval, bedoeld in [artikel 31 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=31), uitsluitend dat artikel toepassing vindt.
+Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den verdachte, die in bewaring is gesteld, is [artikel 50 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=50) van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van den rechter-commissaris, den officier van justitie en de rechtbank is bepaald, ten deze geldt voor den raadsheer-commissaris in het Bijzondere Gerechtshof, den procureur-fiscaal bij dat Hof en den raadsheer of raadsheer-plaatsvervanger, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=16&z=2015-01-01&g=2015-01-01), en met dien verstande, dat in het geval, bedoeld in [artikel 31 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=31), uitsluitend dat artikel toepassing vindt.
 
 ##### Artikel 13b
 
@@ -144,7 +144,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 3. Aan den raadsman mag niet worden onthouden de kennisneming van het schriftelijk gegeven of bevestigd bevel tot bewaring en van de processen-verbaal van de verhooren van den verdachte.
 
-4. Indien den raadsman de kennisneming van stukken wordt onthouden, kan hij daartegen binnen drie dagen na de mededeeling, vermeld in het tweede lid, een bezwaarschrift indienen bij den raadsheer of raadsheer-plaatsvervanger, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=16&z=2002-01-01&g=2002-01-01), die binnen vijf dagen beslist.
+4. Indien den raadsman de kennisneming van stukken wordt onthouden, kan hij daartegen binnen drie dagen na de mededeeling, vermeld in het tweede lid, een bezwaarschrift indienen bij den raadsheer of raadsheer-plaatsvervanger, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=16&z=2015-01-01&g=2015-01-01), die binnen vijf dagen beslist.
 
 5. In de gevallen, bedoeld in [artikel 33 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=33) en [artikel 33 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=33), vinden uitsluitend die artikelen toepassing.
 
@@ -164,7 +164,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 2. Een bewaarde kan in vrijheid worden gesteld, indien te zijnen aanzien niet is gebleken, dat hij de belangen van den Staat in feite heeft geschaad dan wel het leven, de vrijheid of het goed van medeburgers in feite heeft in gevaar gebracht, terwijl geen gewichtige omstandigheden den ernst van de feiten en gedragingen, waarvan hij verdacht wordt, verzwaren.
 
-3. Indien de bewaarde, die krachtens een der beide voorgaande leden voor invrijheidstelling in aanmerking komt, een vreemdeling is, wordt het dossier in handen gesteld van het hoofd van plaatselijke politie van de gemeente, waarin de vreemdeling het laatst zijn woon- of verblijfplaats heeft gehad, en indien hij geen bekende woon- of verblijfplaats in Nederland heeft gehad, in handen van het hoofd van den Rijksvreemdelingendienst. Na ontvangst van het dossier wordt zoo spoedig mogelijk beslist of de vreemdeling al dan niet ten fine van uitleiding in bewaring zal blijven.
+3. Indien de bewaarde, die krachtens een der beide voorgaande leden voor invrijheidstelling in aanmerking komt, een vreemdeling is, wordt het dossier in handen gesteld van de korpschef en indien hij geen bekende woon- of verblijfplaats in Nederland heeft gehad, in handen van het hoofd van de Immigratie- en Naturalisatiedienst. Na ontvangst van het dossier wordt zoo spoedig mogelijk beslist of de vreemdeling al dan niet ten fine van uitleiding in bewaring zal blijven.
 
 ##### Artikel 15
 
@@ -176,11 +176,11 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 1. Een bewaarde, die zich langer dan veertien dagen in bewaring bevindt, of zijn raadsman, kan een schriftelijk verzoek tot invrijheidstelling indienen bij het Bijzondere Gerechtshof of bij het Tribunaal.
 
-2. Op het verzoek wordt beslist door een raadsheer of raadsheer-plaatsvervanger in het Bijzondere Gerechtshof, daartoe voor den tijd van een jaar door Onzen Minister van Justitie op voordracht van den president aangewezen, of, indien een fiat-behandeling voor een Tribunaal is verleend, door het Tribunaal.
+2. Op het verzoek wordt beslist door een raadsheer of raadsheer-plaatsvervanger in het Bijzondere Gerechtshof, daartoe voor den tijd van een jaar door Onze Minister van Veiligheid en Justitie op voordracht van den president aangewezen, of, indien een fiat-behandeling voor een Tribunaal is verleend, door het Tribunaal.
 
 3. Een verkeerd gericht verzoek wordt zoo mogelijk aan het bevoegd college doorgezonden en anders teruggestuurd.
 
-4. Tijdens of na de behandeling ter zitting wordt het bevel tot invrijheidstelling uitsluitend gegeven door het college, voor hetwelk de zaak dient of het laatst gediend heeft, ambtshalve, op vordering van den procureur-fiscaal of op verzoek van den bewaarde of diens raadsman. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=15&z=2002-01-01&g=2002-01-01), is van toepassing.
+4. Tijdens of na de behandeling ter zitting wordt het bevel tot invrijheidstelling uitsluitend gegeven door het college, voor hetwelk de zaak dient of het laatst gediend heeft, ambtshalve, op vordering van den procureur-fiscaal of op verzoek van den bewaarde of diens raadsman. [Artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=V&artikel=15&z=2015-01-01&g=2015-01-01), is van toepassing.
 
 ##### Artikel 17
 
@@ -198,7 +198,7 @@ Het verzoek kan buiten behandeling blijven:
 
 3. Indien het verzoek wordt afgewezen, kan bij de beschikking een termijn worden vastgesteld, na afloop waarvan een herhaald verzoek niet buiten behandeling zal worden gelaten. De afloop van dezen termijn, die tenminste drie maanden na dagteekening der beschikking bedraagt, wordt zooveel doenlijk niet later gesteld dan het tijdstip, waarop naar het aanvankelijk oordeel van den raadsheer of het Tribunaal de bewaarde, ware hij reeds berecht, na het verstrijken van den duur van de straf of maatregel in vrijheid zou zijn gesteld.
 
-4. Na afloop van den termijn wordt een herhaald verzoek bij voorrang behandeld, mits dit verzoek wordt gedaan met gebruikmaking van een formulier van een daartoe door Onzen Minister van Justitie vastgesteld model. Een exemplaar van dit formulier wordt daartoe den bewaarde tegelijk met het afschrift der beslissing uitgereikt.
+4. Na afloop van den termijn wordt een herhaald verzoek bij voorrang behandeld, mits dit verzoek wordt gedaan met gebruikmaking van een formulier van een daartoe door Onze Minister van Veiligheid en Justitie vastgesteld model. Een exemplaar van dit formulier wordt daartoe den bewaarde tegelijk met het afschrift der beslissing uitgereikt.
 
 5. Ook van de overige afwijzende en van de toewijzende beslissingen wordt den bewaarde onverwijld een afschrift uitgereikt.
 
@@ -292,13 +292,13 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 2. Voor zoover in het verleden voldaan is aan voorwaarden, welke ingevolge een beslissing, genomen krachtens het eerste lid, wegvallen, wordt deze voldoening niet ongedaan gemaakt, tenzij door of vanwege den procureur-fiscaal anders wordt beslist.
 
-3. De beslissingen, in dit artikel genoemd, met uitzondering van die tot wijziging van voorwaarden, vermeld in [artikel 20, derde lid onder **a-e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2002-01-01&g=2002-01-01), worden niet genomen, dan na verhoor of oproeping van den betrokkene. Deze kan zich bij zijn verhoor door een advocaat, binnen het rijk de praktijk uitoefenende, doen bijstaan. Van het verhoor wordt een proces-verbaal opgemaakt.
+3. De beslissingen, in dit artikel genoemd, met uitzondering van die tot wijziging van voorwaarden, vermeld in [artikel 20, derde lid onder **a-e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01), worden niet genomen, dan na verhoor of oproeping van den betrokkene. Deze kan zich bij zijn verhoor door een advocaat, binnen het rijk de praktijk uitoefenende, doen bijstaan. Van het verhoor wordt een proces-verbaal opgemaakt.
 
 4. De beslissingen, in dit artikel genoemd, worden schriftelijk genomen en den betrokkene tegen ontvangstbewijs uitgereikt of bij aangeteekenden brief met ontvangstbewijs toegezonden.
 
 ##### Artikel 24
 
-Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in [artikel 37 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=37), kan een in vrijheid gestelde niet opnieuw worden aangehouden of in bewaring gesteld op verdenking van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2002-01-01&g=2002-01-01) bedoelde feiten of gedragingen.
+Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in [artikel 37 van het Tribunaalbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&artikel=37), kan een in vrijheid gestelde niet opnieuw worden aangehouden of in bewaring gesteld op verdenking van een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=I&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde feiten of gedragingen.
 
 ### Afdeeling VIII. Verzet tegen beslissingen betreffende voorwaardelijke buitenvervolgingstelling
 
@@ -306,9 +306,9 @@ Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in
 
 1. Tegen een beslissing van voorwaardelijke buitenvervolgingstelling kan de betrokkene verzet doen uiterlijk binnen den tijd van veertien dagen na dien van aanvang van den proeftijd.
 
-2. Het verzet kan worden beperkt tot de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2002-01-01&g=2002-01-01) genoemde rechten.
+2. Het verzet kan worden beperkt tot de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2015-01-01&g=2015-01-01) genoemde rechten.
 
-3. Verzet kan ook worden gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, bij een buitenvervolgingstelling gesteld, voor zoover die beslissing betreft voorwaarden, genoemd in [artikel 20, derde lid onder **f-l**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2002-01-01&g=2002-01-01). Het verzet kan worden gedaan uiterlijk binnen veertien dagen na dien, waarop de betrokkene van de beslissing kennis heeft gekregen.
+3. Verzet kan ook worden gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, bij een buitenvervolgingstelling gesteld, voor zoover die beslissing betreft voorwaarden, genoemd in [artikel 20, derde lid onder **f-l**](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=20&z=2015-01-01&g=2015-01-01). Het verzet kan worden gedaan uiterlijk binnen veertien dagen na dien, waarop de betrokkene van de beslissing kennis heeft gekregen.
 
 ##### Artikel 26
 
@@ -328,7 +328,7 @@ Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in
 
 ##### Artikel 28
 
-Het verzet schorst noch de verplichting tot naleving van de voorwaarden noch de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2002-01-01&g=2002-01-01) genoemde rechten, zoolang daarop niet bij onherroepelijke uitspraak is beslist.
+Het verzet schorst noch de verplichting tot naleving van de voorwaarden noch de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2015-01-01&g=2015-01-01) genoemde rechten, zoolang daarop niet bij onherroepelijke uitspraak is beslist.
 
 ##### Artikel 29
 
@@ -346,7 +346,7 @@ Indien degene, die in verzet is gekomen tegen een beslissing van voorwaardelijke
 
 ##### Artikel 32
 
-1. Indien het verzet is beperkt tot de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2002-01-01&g=2002-01-01) genoemde rechten of is gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, geschiedt, in afwijking in zooverre van het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VIII&artikel=29&z=2002-01-01&g=2002-01-01), de behandeling steeds door den president van het Bijzondere Gerechtshof of een door dezen daartoe aangewezen rechtsgeleerden raadsheer, die zich bij de behandeling bepaalt tot een summiere kennisneming van de processtukken.
+1. Indien het verzet is beperkt tot de ontzetting uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VI&artikel=21&z=2015-01-01&g=2015-01-01) genoemde rechten of is gedaan tegen een beslissing tot wijziging van de bijzondere voorwaarden, geschiedt, in afwijking in zooverre van het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002015&afdeling=VIII&artikel=29&z=2015-01-01&g=2015-01-01), de behandeling steeds door den president van het Bijzondere Gerechtshof of een door dezen daartoe aangewezen rechtsgeleerden raadsheer, die zich bij de behandeling bepaalt tot een summiere kennisneming van de processtukken.
 
 2. Indien in de in het voorgaande lid omschreven gevallen degene, die in verzet is gekomen, ten dienende dage verschijnt, wordt de beslissing van den procureur-fiscaal bekrachtigd en wel met geheele of gedeeltelijke vernietiging daarvan een nieuwe beslissing genomen. Geen hoogere voorziening staat hiertegen open.
 
@@ -366,7 +366,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit kan een Tribuna
 
 ##### Artikel 35
 
-Onze Minister van Justitie stelt regelen vast ter uitvoering van dit besluit.
+Onze Minister van Veiligheid en Justitie stelt regelen vast ter uitvoering van dit besluit.
 
 ##### Artikel 36
 
