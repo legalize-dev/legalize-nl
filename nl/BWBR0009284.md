@@ -4,7 +4,7 @@ identifier: "BWBR0009284"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-07-01"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009284"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Begripsbepalingen
 
-In dit besluit wordt verstaan onder de wet: de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
+In dit besluit wordt verstaan onder de wet: de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
 ##### Artikel 2. Uitbreiding van de kring van ingezetenen
 
@@ -64,7 +64,7 @@ Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 ##### Artikel 4. Beperking van de kring van ingezetenen
 
-Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=18) of [20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) niet verplicht verzekerd is voor de volksverzekeringen.
+Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) wordt niet verstaan onder ingezetene: de persoon, die op grond van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=9a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=18) of [20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&artikel=20) niet verplicht verzekerd is voor de volksverzekeringen.
 
 ##### Artikel 5. Slotbepaling
 
@@ -72,6 +72,6 @@ Dit besluit treedt in werking met ingang van 1 januari 1998.
 
 ##### Artikel 6. Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring ingezetenen Wet Wajong.
+Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring ingezetenen Wajong.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
