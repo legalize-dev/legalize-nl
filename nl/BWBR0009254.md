@@ -4,7 +4,7 @@ identifier: "BWBR0009254"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009254"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het bedrag als bedoeld in de artikelen [36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [35 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [33 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), [57 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [artikel 77 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77), 48 van de Algemene Arbeidsongeschiktheidswet, [20 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [24 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [24 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53 van de Algemen nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [2:59](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:59) of [3:56 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56) en [35 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35) is € 113 op jaarbasis.
+Het bedrag als bedoeld in de [artikelen 36 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36), [35 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), [33 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33), [57 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57), [artikel 77 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=77), 48 van de Algemene Arbeidsongeschiktheidswet, [20 van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20), [24 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24), [24 van de Algemene kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24), [53 van de Algemen nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=53), [63 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=63), [2:59](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:59) of [3:56 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:56) en [35 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=35) is € 113 op jaarbasis.
 
 ##### Artikel 2
 
