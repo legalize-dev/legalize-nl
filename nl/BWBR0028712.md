@@ -4,7 +4,7 @@ identifier: "BWBR0028712"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2021-07-01"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028712"
 soort: "wet-BES"
@@ -137,7 +137,7 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 1. Als pensioenfonds mogen slechts werkzaam zijn rechtspersonen.
 
-2. Het bestuur van een pensioenfonds is verplicht zich binnen drie maanden na oprichting van het fonds bij Onze Minister en de Bank aan te melden met gebruikmaking van een door die Minister vast te stellen aanmeldingsformulier. Binnen dezelfde termijn zendt het bestuur een afschrift van de akte van oprichting, een door het bestuur gewaarmerkt exemplaar van de reglementen, alsmede een door het bestuur gewaarmerkt afschrift van de overeenkomst waarin de regeling omtrent de betaling van de bijdragen, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=3&z=2013-07-01&g=2013-07-01), eerste volzin, is opgenomen, in aan de genoemde minister en aan de Bank. Het bestuur van het fonds zendt een afschrift van de akte, houdende wijziging van de statuten, een door het bestuur gewaarmerkt exemplaar van wijzigingen van de reglementen, en voor zover het een ondernemingspensioenfonds betreft, een door het bestuur gewaarmerkt afschrift van wijzigingen van de overeenkomst, waarin de regeling omtrent de betaling van de bijdragen, als bedoeld in artikel 3, eerste lid, eerste volzin, is opgenomen, binnen drie maanden na de totstandkoming van die wijzigingen in aan de genoemde minister en aan de Bank.
+2. Het bestuur van een pensioenfonds is verplicht zich binnen drie maanden na oprichting van het fonds bij Onze Minister en de Bank aan te melden met gebruikmaking van een door die Minister vast te stellen aanmeldingsformulier. Binnen dezelfde termijn zendt het bestuur een afschrift van de akte van oprichting, een door het bestuur gewaarmerkt exemplaar van de reglementen, alsmede een door het bestuur gewaarmerkt afschrift van de overeenkomst waarin de regeling omtrent de betaling van de bijdragen, als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=3&z=2015-01-01&g=2015-01-01), eerste volzin, is opgenomen, in aan de genoemde minister en aan de Bank. Het bestuur van het fonds zendt een afschrift van de akte, houdende wijziging van de statuten, een door het bestuur gewaarmerkt exemplaar van wijzigingen van de reglementen, en voor zover het een ondernemingspensioenfonds betreft, een door het bestuur gewaarmerkt afschrift van wijzigingen van de overeenkomst, waarin de regeling omtrent de betaling van de bijdragen, als bedoeld in artikel 3, eerste lid, eerste volzin, is opgenomen, binnen drie maanden na de totstandkoming van die wijzigingen in aan de genoemde minister en aan de Bank.
 
 3. [vervallen]
 
@@ -235,7 +235,7 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 1. Degene, die korter dan vijf jaren aan een pensioenregeling heeft deelgenomen, ontvangt bij het eindigen van zijn deelneming anders dan door overlijden of het bereiken van de pensioengerechtigde leeftijd een uitkering ten minste gelijk aan de door hem betaalde bijdragen voor ouderdomspensioen, tenzij hij volgens het pensioenreglement soortgelijke aanspraken kan doen gelden als in het tweede lid bedoeld.
 
-2. Degene, die tenminste vijf jaren aan een pensioenregeling heeft deelgenomen, verkrijgt bij het eindigen van zijn deelneming anders dan door overlijden of het bereiken van de pensioengerechtigde leeftijd een premievrije aanspraak op uitkeringen op de voet van de door en voor hem betaalde en uit hoofde van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2013-07-01&g=2013-07-01), nog verschuldigde bijdragen voor ouderdomspensioen naarmate de voor pensioeningang vereiste duur van de deelneming is verstreken alsmede een naar redelijkheid vast te stellen premievrije aanspraak op weduwen- of weduwnaarspensioen, indien dat is toegezegd. Hem wordt door het fondsbestuur of de verzekeraar een bewijs daarvan gegeven.
+2. Degene, die tenminste vijf jaren aan een pensioenregeling heeft deelgenomen, verkrijgt bij het eindigen van zijn deelneming anders dan door overlijden of het bereiken van de pensioengerechtigde leeftijd een premievrije aanspraak op uitkeringen op de voet van de door en voor hem betaalde en uit hoofde van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2015-01-01&g=2015-01-01), nog verschuldigde bijdragen voor ouderdomspensioen naarmate de voor pensioeningang vereiste duur van de deelneming is verstreken alsmede een naar redelijkheid vast te stellen premievrije aanspraak op weduwen- of weduwnaarspensioen, indien dat is toegezegd. Hem wordt door het fondsbestuur of de verzekeraar een bewijs daarvan gegeven.
 
 3. Het pensioenreglement kan ten aanzien van degene, die, voordat hij in de regeling inzake ouderdomspensioen wordt opgenomen, in een andere regeling van de pensioenuitvoerder deelneemt, bepalen, dat voor de toepassing van de vorige leden zijn deelneming aan de pensioenregeling aanvangt op het tijdstip, waarop hij in de regeling inzake ouderdomspensioen wordt opgenomen.
 
@@ -245,23 +245,21 @@ Indien de dienstbetrekking van een werknemer tijdens een zodanige periode eindig
 
 ##### Artikel 7a
 
-1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2013-07-01&g=2013-07-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b&z=2013-07-01&g=2013-07-01) en [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2013-07-01&g=2013-07-01) bedoelde situaties of in geval van toepassing van [artikel 8:9, tweede of derde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=8:9).
+1. Afkoop is slechts mogelijk in bij of krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2015-01-01&g=2015-01-01), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7b&z=2015-01-01&g=2015-01-01) en [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2015-01-01&g=2015-01-01) bedoelde situaties of in geval van toepassing van [artikel 8:9, tweede of derde lid, van de Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&artikel=8:9).
 
 2. Elk beding strijdig met dit artikel is nietig.
 
 ##### Artikel 7b
 
-1. De pensioenuitvoerder heeft het recht om bij ingang van een pensioen een pensioen dat minder bedraagt dan een bij regeling van Onze Minister vast te stellen bedrag per jaar, behoudens in bij die regeling aan te wijzen gevallen, af te kopen.
+1. De pensioenuitvoerder heeft het recht om bij ingang van een pensioen, een pensioen dat minder bedraagt dan een bij regeling van Onze Minister vast te stellen bedrag per jaar, behoudens in bij die regeling aan te wijzen gevallen, af te kopen.
 
 2. De pensioenuitvoerder stelt de afkoopwaarde ter beschikking aan de pensioengerechtigde.
 
-3. Het in het eerste lid bedoelde bedrag wordt bij regeling van Onze Minister jaarlijks herzien op basis van een door Onze Minister aan te wijzen consumentenprijsindexcijfer, vastgesteld door het Centraal Bureau voor de Statistiek.
+3. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
 
-4. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister bedragen vast, die met ingang van 1 januari van het komende jaar in de plaats treden van het bedrag, bedoeld in het eerste lid. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen en voor belanghebbenden die woonachtig zijn buiten de openbare lichamen, verschillend zijn.
+4. Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.
 
-5. Voor de toepassing van het eerste lid wordt het weduwen-, weduwnaars- en wezenpensioen als een eenheid beschouwd.
-
-6. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.
+5. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de wijze waarop de afkoopwaarde wordt berekend.
 
 ##### Artikel 7c
 
@@ -323,7 +321,7 @@ In de pensioenovereenkomst wordt bepaald of er toeslagen worden verleend en, zo 
 
 ##### Artikel 12
 
-1. Tot het samenstellen van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2013-07-01&g=2013-07-01) bedoelde bescheiden, alsmede tot het verrichten van andere tot de normale beroepsbezigheden van actuarissen behorende werkzaamheden ten behoeve van een pensioenfonds is tegenover de Bank niet bevoegd, degene, tegen wiens aanwijzing of handhaving bij het fonds de Bank bezwaar heeft gemaakt.
+1. Tot het samenstellen van de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2015-01-01&g=2015-01-01) bedoelde bescheiden, alsmede tot het verrichten van andere tot de normale beroepsbezigheden van actuarissen behorende werkzaamheden ten behoeve van een pensioenfonds is tegenover de Bank niet bevoegd, degene, tegen wiens aanwijzing of handhaving bij het fonds de Bank bezwaar heeft gemaakt.
 
 2. De Bank kan tegen de aanwijzing of handhaving van een actuaris slechts bezwaar maken, indien de betrokkene naar haar oordeel, niet of niet meer de nodige waarborgen biedt, dat hij de hem toevertrouwde taak naar behoren zal vervullen. Het bezwaar wordt schriftelijk ter kennis gebracht van het betrokken fonds en van de betrokken actuaris.
 
@@ -371,7 +369,7 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 - b. het pensioenfonds niet in staat is binnen een redelijke termijn de technische voorzieningen door waarden te dekken zonder dat de belangen van deelnemers, gewezen deelnemers, pensioengerechtigden, andere aanspraakgerechtigden of de werkgever onevenredig worden geschaad; en
 
-- c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet zoals uitgewerkt in het kortetermijnherstelplan, bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2013-07-01&g=2013-07-01).
+- c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet zoals uitgewerkt in het kortetermijnherstelplan, bedoeld in [artikel 16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2015-01-01&g=2015-01-01).
 
 2. Een pensioenfonds informeert de deelnemers, gewezen deelnemers, pensioengerechtigden en de werkgever schriftelijk over het besluit tot vermindering van pensioenaanspraken en pensioenrechten.
 
@@ -425,9 +423,9 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 ##### Artikel 16a
 
-1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of zal voldoen aan de bij of krachtens [artikel 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2013-07-01&g=2013-07-01) gestelde vereisten ten aanzien van het vereist eigen vermogen, meldt het pensioenfonds dit onverwijld aan de Bank.
+1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of zal voldoen aan de bij of krachtens [artikel 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2015-01-01&g=2015-01-01) gestelde vereisten ten aanzien van het vereist eigen vermogen, meldt het pensioenfonds dit onverwijld aan de Bank.
 
-2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen drie maanden of zoveel eerder als de Bank bepaalt ter instemming bij de Bank een concreet en haalbaar langetermijnherstelplan in. In dit langetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen 15 jaar zal voldoen aan [artikel 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2013-07-01&g=2013-07-01).
+2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen drie maanden of zoveel eerder als de Bank bepaalt ter instemming bij de Bank een concreet en haalbaar langetermijnherstelplan in. In dit langetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen 15 jaar zal voldoen aan [artikel 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2015-01-01&g=2015-01-01).
 
 3. Het pensioenfonds handelt onverwijld overeenkomstig het langetermijnherstelplan.
 
@@ -445,9 +443,9 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 ##### Artikel 16b
 
-1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of niet zal voldoen aan de bij of krachtens de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2013-07-01&g=2013-07-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13d&z=2013-07-01&g=2013-07-01) gestelde vereisten ten aanzien van de toereikende technische voorzieningen, meldt het pensioenfonds dit onverwijld aan de Bank.
+1. Wanneer een pensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of niet zal voldoen aan de bij of krachtens de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2015-01-01&g=2015-01-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13d&z=2015-01-01&g=2015-01-01) gestelde vereisten ten aanzien van de toereikende technische voorzieningen, meldt het pensioenfonds dit onverwijld aan de Bank.
 
-2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen twee maanden of zoveel eerder als de Bank bepaalt, een concreet en haalbaar kortetermijnherstelplan ter instemming bij de Bank in. In dit kortetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen drie jaar zal voldoen aan de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2013-07-01&g=2013-07-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13d&z=2013-07-01&g=2013-07-01) waarbij:
+2. In de in het eerste lid bedoelde situatie dient het pensioenfonds binnen twee maanden of zoveel eerder als de Bank bepaalt, een concreet en haalbaar kortetermijnherstelplan ter instemming bij de Bank in. In dit kortetermijnherstelplan werkt het pensioenfonds uit hoe het uiterlijk binnen drie jaar zal voldoen aan de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2015-01-01&g=2015-01-01) en [13d](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13d&z=2015-01-01&g=2015-01-01) waarbij:
 
 - a. de kans op herstel verbetert;
 
@@ -463,7 +461,7 @@ De technische voorzieningen en de aan het pensioenfonds verstrekte leningen word
 
 ##### Artikel 16c
 
-1. Wanneer gedurende de looptijd van het langetermijnherstelplan, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01), ingrijpende wijzigingen plaatsvinden in:
+1. Wanneer gedurende de looptijd van het langetermijnherstelplan, bedoeld in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01), ingrijpende wijzigingen plaatsvinden in:
 
 - a. de samenstelling van de technische voorzieningen; of
 
@@ -481,7 +479,7 @@ meldt het pensioenfonds dit onverwijld aan de Bank.
 
 ##### Artikel 16d
 
-1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2013-07-01&g=2013-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2013-07-01&g=2013-07-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b&z=2013-07-01&g=2013-07-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2013-07-01&g=2013-07-01), regels gesteld over:
+1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2015-01-01&g=2015-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b&z=2015-01-01&g=2015-01-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2015-01-01&g=2015-01-01), regels gesteld over:
 
 - a. het minimale percentage van het gemiddelde loon- of prijsindexcijfer;
 
@@ -493,7 +491,7 @@ meldt het pensioenfonds dit onverwijld aan de Bank.
 
 ##### Artikel 16e
 
-1. Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2013-07-01&g=2013-07-01), [7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7f&z=2013-07-01&g=2013-07-01) en [13 tot en met 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2013-07-01&g=2013-07-01) bepaalde.
+1. Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2015-01-01&g=2015-01-01), [7f](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7f&z=2015-01-01&g=2015-01-01) en [13 tot en met 14a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2015-01-01&g=2015-01-01) bepaalde.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de actuariële en bedrijfstechnische nota.
 
@@ -503,7 +501,7 @@ meldt het pensioenfonds dit onverwijld aan de Bank.
 
 1. Een pensioenfonds doet het boekjaar gelijk lopen met het kalenderjaar.
 
-2. Een pensioenfonds verstrekt periodiek binnen de daartoe vastgestelde termijnen staten aan de Bank die de Bank nodig heeft voor de juiste uitoefening van haar taak, bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19a&z=2013-07-01&g=2013-07-01).
+2. Een pensioenfonds verstrekt periodiek binnen de daartoe vastgestelde termijnen staten aan de Bank die de Bank nodig heeft voor de juiste uitoefening van haar taak, bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19a&z=2015-01-01&g=2015-01-01).
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
 
@@ -515,7 +513,7 @@ meldt het pensioenfonds dit onverwijld aan de Bank.
 
 1. De bevoegde actuaris die het actuarieel verslag waarmerkt, is onafhankelijk van het pensioenfonds en verricht geen andere werkzaamheden voor het pensioenfonds.
 
-2. Het is de waarmerkende actuaris niet toegestaan de werkzaamheden, bedoeld in [artikel 16e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e&z=2013-07-01&g=2013-07-01), uit te oefenen voor een pensioenfonds wanneer een andere actuaris of andere deskundige die behoort tot dezelfde organisatie als de waarmerkende actuaris, andere werkzaamheden verricht voor hetzelfde pensioenfonds, tenzij de organisatie van de waarmerkende actuaris een door de Bank goedgekeurde gedragscode heeft over de onafhankelijkheid van de waarmerkende actuaris.
+2. Het is de waarmerkende actuaris niet toegestaan de werkzaamheden, bedoeld in [artikel 16e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e&z=2015-01-01&g=2015-01-01), uit te oefenen voor een pensioenfonds wanneer een andere actuaris of andere deskundige die behoort tot dezelfde organisatie als de waarmerkende actuaris, andere werkzaamheden verricht voor hetzelfde pensioenfonds, tenzij de organisatie van de waarmerkende actuaris een door de Bank goedgekeurde gedragscode heeft over de onafhankelijkheid van de waarmerkende actuaris.
 
 ##### Artikel 16h
 
@@ -527,11 +525,11 @@ De Bank kan een pensioenfonds de verplichting opleggen om binnen een door de Ban
 
 ##### Artikel 17
 
-Het bestuur van een pensioenfonds zorgt dat de deelnemers in het bezit gesteld worden van een exemplaar van de geldende statuten en reglementen van het fonds. De verzekeraar zorgt dat de deelnemers in het bezit worden gesteld van een exemplaar van de voor hen geldende reglementen. Het bestuur van een ondernemingspensioenfonds en de verzekeraar zorgen ervoor dat deelnemers in het bezit worden gesteld van een afschrift van de mededeling die de werkgever overeenkomstig [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2013-07-01&g=2013-07-01), eerste volzin, aan het fonds of de verzekeraar heeft gedaan.
+Het bestuur van een pensioenfonds zorgt dat de deelnemers in het bezit gesteld worden van een exemplaar van de geldende statuten en reglementen van het fonds. De verzekeraar zorgt dat de deelnemers in het bezit worden gesteld van een exemplaar van de voor hen geldende reglementen. Het bestuur van een ondernemingspensioenfonds en de verzekeraar zorgen ervoor dat deelnemers in het bezit worden gesteld van een afschrift van de mededeling die de werkgever overeenkomstig [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2015-01-01&g=2015-01-01), eerste volzin, aan het fonds of de verzekeraar heeft gedaan.
 
 ##### Artikel 18
 
-Ieder der bestuurders van een pensioenfonds is verplicht te zorgen, dat het bepaalde bij of krachtens deze wet alsmede de bepalingen van de statuten en reglementen van het fonds worden nageleefd en dat, voor zover [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2013-07-01&g=2013-07-01) toepassing vindt, het beleid van dat fonds gevoerd wordt overeenkomstig de in het eerste lid van dat artikel bedoelde actuariële en bedrijfstechnische nota.
+Ieder der bestuurders van een pensioenfonds is verplicht te zorgen, dat het bepaalde bij of krachtens deze wet alsmede de bepalingen van de statuten en reglementen van het fonds worden nageleefd en dat, voor zover [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2015-01-01&g=2015-01-01) toepassing vindt, het beleid van dat fonds gevoerd wordt overeenkomstig de in het eerste lid van dat artikel bedoelde actuariële en bedrijfstechnische nota.
 
 ##### Artikel 19
 
@@ -565,7 +563,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 1. De Bank kan, indien:
 
-- a. de statuten en reglementen van een pensioenfonds niet aan de voorschriften van deze wet beantwoorden voor zover niet ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26&z=2013-07-01&g=2013-07-01) ontheffing is verleend, in strijd zijn met andere wettelijke bepalingen, of in enig ander opzicht niet deugdelijk zijn om overeenkomstig deze wet te dienen tot uitvoering van de pensioenovereenkomsten;
+- a. de statuten en reglementen van een pensioenfonds niet aan de voorschriften van deze wet beantwoorden voor zover niet ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26&z=2015-01-01&g=2015-01-01) ontheffing is verleend, in strijd zijn met andere wettelijke bepalingen, of in enig ander opzicht niet deugdelijk zijn om overeenkomstig deze wet te dienen tot uitvoering van de pensioenovereenkomsten;
 
 - b. de gang van zaken bij een zodanig fonds haar, hetzij in zijn geheel, hetzij op bepaalde onderdelen, onbevredigend voorkomt, haar opmerkingen daarover ter kennis brengen van het fondsbestuur.
 
@@ -607,7 +605,7 @@ Ieder der bestuurders en ieder lid van het personeel van een pensioenfonds of va
 
 ##### Artikel 22a
 
-1. Onverminderd [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=27&z=2013-07-01&g=2013-07-01) kan de Bank indien niet of niet tijdig wordt voldaan aan een uit deze wet voortvloeiende verplichting, een geldboete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a&z=2013-07-01&g=2013-07-01), [5a, eerste, tweede en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a&z=2013-07-01&g=2013-07-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2013-07-01&g=2013-07-01), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e&z=2013-07-01&g=2013-07-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b&z=2013-07-01&g=2013-07-01), [13c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2013-07-01&g=2013-07-01), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2013-07-01&g=2013-07-01), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14&z=2013-07-01&g=2013-07-01), [14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a&z=2013-07-01&g=2013-07-01), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b&z=2013-07-01&g=2013-07-01), [16a, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01), [16b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2013-07-01&g=2013-07-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16c&z=2013-07-01&g=2013-07-01), [16e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e&z=2013-07-01&g=2013-07-01), [16f, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f&z=2013-07-01&g=2013-07-01), [21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=21a&z=2013-07-01&g=2013-07-01) en [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26b&z=2013-07-01&g=2013-07-01), van de wet en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zoals van toepassing verklaard in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19a&z=2013-07-01&g=2013-07-01) van de wet.
+1. Onverminderd [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=27&z=2015-01-01&g=2015-01-01) kan de Bank indien niet of niet tijdig wordt voldaan aan een uit deze wet voortvloeiende verplichting, een geldboete opleggen ter zake van overtreding van voorschriften gesteld bij of krachtens de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a&z=2015-01-01&g=2015-01-01), [5a, eerste, tweede en vijfde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5a&z=2015-01-01&g=2015-01-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5b&z=2015-01-01&g=2015-01-01), [7e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7e&z=2015-01-01&g=2015-01-01), [13b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13b&z=2015-01-01&g=2015-01-01), [13c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2015-01-01&g=2015-01-01), [13e](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13e&z=2015-01-01&g=2015-01-01), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14&z=2015-01-01&g=2015-01-01), [14a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14a&z=2015-01-01&g=2015-01-01), [14b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b&z=2015-01-01&g=2015-01-01), [16a, eerste tot en met vierde lid en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01), [16b, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2015-01-01&g=2015-01-01), [16c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16c&z=2015-01-01&g=2015-01-01), [16e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16e&z=2015-01-01&g=2015-01-01), [16f, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f&z=2015-01-01&g=2015-01-01), [21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=21a&z=2015-01-01&g=2015-01-01) en [26b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=26b&z=2015-01-01&g=2015-01-01), van de wet en van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zoals van toepassing verklaard in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19a&z=2015-01-01&g=2015-01-01) van de wet.
 
 2. De hoogte van de boete voor de verscheidene overtredingen wordt bepaald bij algemene maatregel van bestuur. Daarbij kan worden bepaald dat de boete wordt opgelegd voor elke dag die de betrokkene in overtreding is.
 
@@ -645,15 +643,15 @@ Bij regeling van Onze Minister kunnen met het oog op een goede invoering van dez
 
 ##### Artikel 26
 
-1. De Bank kan, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2013-07-01&g=2013-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=3&z=2013-07-01&g=2013-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5&z=2013-07-01&g=2013-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=6&z=2013-07-01&g=2013-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2013-07-01&g=2013-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2013-07-01&g=2013-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2013-07-01&g=2013-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14&z=2013-07-01&g=2013-07-01), onder b, [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2013-07-01&g=2013-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=17&z=2013-07-01&g=2013-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19&z=2013-07-01&g=2013-07-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=25&z=2013-07-01&g=2013-07-01) bepaalde, indien het pensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt.
+1. De Bank kan, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=3&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=7&z=2015-01-01&g=2015-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=10&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13&z=2015-01-01&g=2015-01-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14&z=2015-01-01&g=2015-01-01), onder b, [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2015-01-01&g=2015-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=17&z=2015-01-01&g=2015-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19&z=2015-01-01&g=2015-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=25&z=2015-01-01&g=2015-01-01) bepaalde, indien het pensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt.
 
-2. De Bank kan in bijzondere gevallen, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds, geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01) bepaalde.
+2. De Bank kan in bijzondere gevallen, rekening houdend met de specifieke situatie van het pensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een pensioenfonds, geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01) bepaalde.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld waaraan de houder van een ontheffing dient te voldoen en met betrekking tot het verlenen van de ontheffing.
 
 ##### Artikel 26a
 
-Onze Minister kan na overleg met de Bank vrijstelling verlenen van de in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2013-07-01&g=2013-07-01) genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor de meeste pensioenfondsen niet kunnen voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen, de toereikende technische voorzieningen en de dekking daarvan door waarden.
+Onze Minister kan na overleg met de Bank vrijstelling verlenen van de in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01) en [16b](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16b&z=2015-01-01&g=2015-01-01) genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor de meeste pensioenfondsen niet kunnen voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen, de toereikende technische voorzieningen en de dekking daarvan door waarden.
 
 ##### Artikel 26b
 
@@ -669,7 +667,7 @@ Onze Minister kan na overleg met de Bank vrijstelling verlenen van de in [artike
 
 ##### Artikel 27
 
-1. Overtreding van het bepaalde bij de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4&z=2013-07-01&g=2013-07-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=18&z=2013-07-01&g=2013-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19&z=2013-07-01&g=2013-07-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=20&z=2013-07-01&g=2013-07-01), en [30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=30&z=2013-07-01&g=2013-07-01), wordt gestraft met een geldboete van de eerste categorie.
+1. Overtreding van het bepaalde bij de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4&z=2015-01-01&g=2015-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=18&z=2015-01-01&g=2015-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=19&z=2015-01-01&g=2015-01-01), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=20&z=2015-01-01&g=2015-01-01), en [30, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=30&z=2015-01-01&g=2015-01-01), wordt gestraft met een geldboete van de eerste categorie.
 
 2. Met dezelfde straf wordt gestraft overtreding van voorschriften, krachtens deze wet bij algemene maatregel van bestuur vastgesteld voor zover uitdrukkelijk als strafbaar feit in de zin van deze wet aangeduid.
 
@@ -687,7 +685,7 @@ Het is een ieder verboden, hetgeen hem in zijn ambt, betrekking of hoedanigheid 
 
 1. [vervallen]
 
-2. Een voor 30 maart 1985 opgericht ondernemingspensioenfonds dat geen rechtspersoonlijkheid bezit, wordt geacht rechtspersoon te zijn vanaf 31 maart 1985. Het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4&z=2013-07-01&g=2013-07-01), is van overeenkomstige toepassing op een voor 30 maart 1985 opgericht ondernemingspensioenfonds met dien verstande dat de verplichting, bedoeld in de eerste volzin, van dat artikellid, binnen een maand vanaf 31 maart 1985 wordt nagekomen.
+2. Een voor 30 maart 1985 opgericht ondernemingspensioenfonds dat geen rechtspersoonlijkheid bezit, wordt geacht rechtspersoon te zijn vanaf 31 maart 1985. Het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=4&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op een voor 30 maart 1985 opgericht ondernemingspensioenfonds met dien verstande dat de verplichting, bedoeld in de eerste volzin, van dat artikellid, binnen een maand vanaf 31 maart 1985 wordt nagekomen.
 
 3. [vervallen]
 
@@ -695,7 +693,7 @@ Het is een ieder verboden, hetgeen hem in zijn ambt, betrekking of hoedanigheid 
 
 5. Een ondernemingspensioenfonds is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van artikel 8 van deze wet aan de vrouw wier huwelijk met een deelnemer voor 31 maart 1985 is geëindigd.
 
-Een bedrijfstakpensioenfonds of een verzekeraar is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet aan de vrouw wier huwelijk met een deelnemer voor de transitiedatum is geëindigd.
+Een bedrijfstakpensioenfonds of een verzekeraar is niet verplicht tot toekenning van een premievrije aanspraak op weduwenpensioen op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet aan de vrouw wier huwelijk met een deelnemer voor de transitiedatum is geëindigd.
 
 Een pensioenuitvoerder is niet verplicht tot toekenning van een premievrije aanspraak op weduwnaarspensioen op grond van artikel 8 van deze wet aan de man wiens huwelijk met een deelnemer voor de transitiedatum is geëindigd.
 
@@ -703,29 +701,29 @@ Een pensioenuitvoerder is niet verplicht tot toekenning van een premievrije aans
 
 ##### Artikel 31
 
-1. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet is van overeenkomstige toepassing.
+1. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet is van overeenkomstige toepassing.
 
-2. De vrouw met wie een gepensioneerde die deelnam aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gepensioneerde heeft behouden bij het ingaan van het ouderdomspensioen; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet is van overeenkomstige toepassing.
+2. De vrouw met wie een gepensioneerde die deelnam aan een pensioenregeling welke wordt uitgevoerd door een ondernemingspensioenfonds op 31 maart 1985 is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gepensioneerde heeft behouden bij het ingaan van het ouderdomspensioen; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet is van overeenkomstige toepassing.
 
-3. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een bedrijfstakpensioenfonds of verzekeraar op de transitiedatum is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet is van overeenkomstige toepassing.
+3. De vrouw met wie een gewezen deelnemer aan een pensioenregeling welke wordt uitgevoerd door een bedrijfstakpensioenfonds of verzekeraar op de transitiedatum is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gewezen deelnemer heeft behouden bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet is van overeenkomstige toepassing.
 
-4. De vrouw met wie een gepensioneerde die deelnam aan een pensioenregeling welke wordt uitgevoerd door een bedrijfstakpensioenfonds of verzekeraar op de transitiedatum is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gepensioneerde heeft behouden bij het ingaan van het ouderdomspensioen; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet is van overeenkomstige toepassing.
+4. De vrouw met wie een gepensioneerde die deelnam aan een pensioenregeling welke wordt uitgevoerd door een bedrijfstakpensioenfonds of verzekeraar op de transitiedatum is gehuwd, verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwenpensioen als de gepensioneerde heeft behouden bij het ingaan van het ouderdomspensioen; iedere andere aanspraak op weduwenpensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De vrouw ontvangt op haar verzoek een bewijs van haar aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet is van overeenkomstige toepassing.
 
-5. De man met wie een gewezen deelnemer aan een pensioenregeling op de transitiedatum is gehuwd verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwnaarspensioen als de gewezen deelnemer heeft verkregen bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwnaarspensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De man ontvangt op zijn verzoek een bewijs van zijn aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2013-07-01&g=2013-07-01) van deze wet is van overeenkomstige toepassing.
+5. De man met wie een gewezen deelnemer aan een pensioenregeling op de transitiedatum is gehuwd verkrijgt in geval van beëindiging van het huwelijk door echtscheiding of ontbinding na scheiding van tafel en bed, een zodanige premievrije aanspraak op weduwnaarspensioen als de gewezen deelnemer heeft verkregen bij het eindigen van zijn deelneming; iedere andere aanspraak op weduwnaarspensioen welke uit de deelneming aan de pensioenregeling zou kunnen voortvloeien, vervalt. De man ontvangt op zijn verzoek een bewijs van zijn aanspraak. Het [vierde lid van artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=8&z=2015-01-01&g=2015-01-01) van deze wet is van overeenkomstige toepassing.
 
 ##### Artikel 32
 
-1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a&z=2013-07-01&g=2013-07-01) geldt de verplichting tot onderbrenging door het sluiten van een schriftelijke uitvoeringsovereenkomst niet ten aanzien van pensioenaanspraken die zijn verworven voor het tijdstip van inwerkingtreding van artikel 1a van deze wet, dat is gelegen een jaar na de transitiedatum.
+1. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=1a&z=2015-01-01&g=2015-01-01) geldt de verplichting tot onderbrenging door het sluiten van een schriftelijke uitvoeringsovereenkomst niet ten aanzien van pensioenaanspraken die zijn verworven voor het tijdstip van inwerkingtreding van artikel 1a van deze wet, dat is gelegen een jaar na de transitiedatum.
 
-2. In afwijking van [artikel 16f](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f&z=2013-07-01&g=2013-07-01) is het eerste boekjaar na de transitiedatum langer dan het kalenderjaar omdat de periode vanaf de transitiedatum tot 1 januari mede in aanmerking wordt genomen wanneer de transitiedatum niet op 1 januari ligt.
+2. In afwijking van [artikel 16f](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16f&z=2015-01-01&g=2015-01-01) is het eerste boekjaar na de transitiedatum langer dan het kalenderjaar omdat de periode vanaf de transitiedatum tot 1 januari mede in aanmerking wordt genomen wanneer de transitiedatum niet op 1 januari ligt.
 
-3. Tot drie jaar na de transitiedatum luidt de tekst van [artikel 14b, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b&z=2013-07-01&g=2013-07-01):
+3. Tot drie jaar na de transitiedatum luidt de tekst van [artikel 14b, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=14b&z=2015-01-01&g=2015-01-01):
 
 - b. het creëren van eigen vermogen ten behoeve van de toeslagverlening;
 
 - c. het putten uit het eigen vermogen ten behoeve van de toeslagverlening.
 
-4. De [artikelen 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2013-07-01&g=2013-07-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2013-07-01&g=2013-07-01) treden in werking drie jaar na de transitiedatum.
+4. De [artikelen 13c](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=13c&z=2015-01-01&g=2015-01-01) en [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028712&artikel=16a&z=2015-01-01&g=2015-01-01) treden in werking drie jaar na de transitiedatum.
 
 ##### Artikel 33
 
