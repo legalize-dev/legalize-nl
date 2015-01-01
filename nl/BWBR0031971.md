@@ -4,7 +4,7 @@ identifier: "BWBR0031971"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-05-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031971"
 soort: "AMvB"
@@ -106,14 +106,14 @@ De artikelen van dit besluit treden in werking op een bij koninklijk besluit te 
 
 Dit besluit wordt aangehaald als: Besluit beschikbaarheidbijdrage WMG.
 
-## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2014-05-14&g=2014-05-14) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14) van het Besluit beschikbaarheidbijdrage WMG
+## Bijlage. behorende bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2015-01-01&g=2015-01-01) van het Besluit beschikbaarheidbijdrage WMG
 
 ### Onderdeel A
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2015-01-01&g=2015-01-01), van het Besluit beschikbaarheidbijdrage WMG een verklaring van geen bezwaar van Onze Minister is vereist, alvorens de Nederlandse Zorgautoriteit een beschikbaarheidbijdrage kan toekennen:
 
 ### Onderdeel B
 
-Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2014-05-14&g=2014-05-14), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
+Vormen van zorg waarvoor op grond van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=4&z=2015-01-01&g=2015-01-01), van het Besluit beschikbaarheidbijdrage WMG de Nederlandse Zorgautoriteit zonder verklaring van geen bezwaar van Onze Minister een beschikbaarheidbijdrage kan toekennen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
