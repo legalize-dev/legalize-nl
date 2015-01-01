@@ -4,7 +4,7 @@ identifier: "BWBR0002227"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002227"
 soort: "AMvB"
@@ -122,7 +122,7 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 13
 
-1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2014-01-01&g=2014-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
+1. Er is een Adviescommissie beoordeling aangeboden cultuurbezit uit nalatenschappen, verder te noemen: de commissie, die tot taak heeft Onze Minister op zijn verzoek te adviseren omtrent verzoeken op grond van dit Besluit ter zake van de beoordeling of een voorwerp op grond van de cultuurhistorische of kunsthistorische voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-01-01), in aanmerking komt voor de toepassing van [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67).
 
 2. De commissie bestaat uit een voorzitter, tevens lid, en twee andere leden.
 
@@ -148,9 +148,9 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 12
 
-1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2014-01-01&g=2014-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2014-01-01&g=2014-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
+1. Voor de beslissing op het in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=11&z=2015-01-01&g=2015-01-01) bedoelde verzoek laat Onze Minister zich adviseren door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=13&z=2015-01-01&g=2015-01-01), bedoelde commissie, behalve indien het verzoek kennelijk ongegrond of niet-ontvankelijk is.
 
-2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2014-01-01&g=2014-01-01) opgenomen voorwaarden.
+2. Onze Minister wijst het verzoek af indien het voorwerp niet voldoet aan de in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-01-01) opgenomen voorwaarden.
 
 3. Indien Onze Minister besluit ter zake van de overdracht van het voorwerp aan de Staat kwijtschelding van erfbelasting te verlenen, vermeldt het besluit tevens de waarde in het economische verkeer die voor de berekening van de kwijtschelding aan het voorwerp zal worden toegekend.
 
@@ -174,9 +174,9 @@ Het percentage, bedoeld in [artikel 21, veertiende lid, van de Successiewet 1956
 
 ##### Artikel 14
 
-1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2014-01-01&g=2014-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
+1. Een ieder die een voorwerp in eigendom heeft waarvan hij vermoedt dat het voldoet aan de voorwaarden die zijn opgenomen in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=15&z=2015-01-01&g=2015-01-01), kan Onze Minister verzoeken te verklaren dat met betrekking tot dit voorwerp [artikel 67, derde lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=67) toepassing kan vinden indien daarom na zijn overlijden door degene die dit voorwerp krachtens erfrecht uit zijn nalatenschap heeft verkregen zal worden verzocht.
 
-2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2014-01-01&g=2014-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
+2. Het in het eerste lid bedoelde verzoek omvat mede een omschrijving van het voorwerp en voorts zijn de bepalingen van [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=2&artikel=12&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing, met dien verstande dat aan de verklaring voorwaarden kunnen worden verbonden.
 
 ##### Artikel 15
 
@@ -233,9 +233,9 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 ##### Artikel 10b
 
-De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2014-01-01&g=2014-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
+De waarde van een erfpachtcanon als bedoeld in [artikel 21, negende lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=21) wordt gesteld op het zeventienvoud van het jaarlijkse bedrag. In afwijking van de eerste volzin wordt het deel van een erfpachtcanon dat kan worden toegerekend aan een verhuurde woning als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1&artikel=10a&z=2015-01-01&g=2015-01-01), gesteld op het twintigvoud van het jaarlijkse bedrag. De toerekening van de erfpachtcanon, bedoeld in de vorige volzin, geschiedt naar rato van de, met inachtneming van artikel 10a, vierde lid, berekende, WOZ-waarden van de onderscheiden zelfstandige onderdelen van het gebouwd eigendom waarop de erfpachtcanon betrekking heeft.
 
-### Hoofdstuk 1a. Informatieverplichting
+### Hoofdstuk 1a. Informatieverplichtingen
 
 ### Hoofdstuk 3. Slotbepaling
 
@@ -252,5 +252,199 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 ### Hoofdstuk 2. Kwijtschelding van Successierecht
 
 ### Hoofdstuk 3. Slotbepaling
+
+Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 10d
+
+1. Als administratieplichtigen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beleggingsinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
+
+2. Als gegevens en inlichtingen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden aangewezen:
+
+- a. met betrekking tot een uitkering ineens uit een levensverzekering, ongevallenverzekering daaronder begrepen, ten gevolge van of na het overlijden van een verzekerde:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de erflater;
+
+- 2°. de datum van het overlijden van de erflater;
+
+- 3°. de datum waarop de uitkering heeft plaatsgevonden;
+
+- 4°. het bedrag van de uitkering;
+
+- 5°. het bedrag aan betaalde premies;
+
+- 6°. de datum van aanvaarding van de begunstiging;
+
+- 7°. het nummer van de polis;
+
+- b. met betrekking tot een uitkering ineens uit een kapitaalverzekering, anders dan ten gevolge van of na het overlijden van een verzekerde, aan een ander dan de verzekeringnemer:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de verzekeringnemer;
+
+- 2°. de datum waarop de uitkering heeft plaatsgevonden;
+
+- 3°. het bedrag van de uitkering;
+
+- 4°. het bedrag aan betaalde premies;
+
+- 5°. de datum van aanvaarding van de begunstiging;
+
+- 6°. het nummer van de polis;
+
+- c. met betrekking tot de verkrijging van een recht op periodieke uitkeringen ten gevolge van of na het overlijden van een verzekerde:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de erflater;
+
+- 2°. de datum van het overlijden van de erflater;
+
+- 3°. het bedrag aan betaalde premies;
+
+- 4°. het jaarlijkse bedrag aan periodieke uitkeringen;
+
+- 5°. de waarde van het recht op periodieke uitkeringen;
+
+- 6°. de datum van aanvaarding van de begunstiging;
+
+- 7°. het nummer van de polis;
+
+- d. met betrekking tot de verkrijging van een recht op periodieke uitkeringen, anders dan ten gevolge van of na het overlijden van een verzekerde, door een ander dan de verzekeringnemer:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de verzekeringnemer;
+
+- 2°. het bedrag aan betaalde premies;
+
+- 3°. het jaarlijks bedrag aan periodieke uitkeringen;
+
+- 4°. de waarde van het recht op periodieke uitkeringen;
+
+- 5°. de datum van aanvaarding van de begunstiging;
+
+- 6°. het nummer van de polis;
+
+- e. met betrekking tot de overgang van een aanspraak ingevolge een levensverzekering van een verzekeringnemer of een onherroepelijk begunstigde naar een bloed- of aanverwant in de dalende lijn:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de oorspronkelijke verzekeringnemer;
+
+- 2°. de datum van de overgang;
+
+- 3°. de waarde van de aanspraak op de datum van de overgang;
+
+- 4°. het bedrag aan betaalde premies voor de aanspraak tot en met de datum van overgang;
+
+- 5°. het nummer van de polis;
+
+- f. met betrekking tot premiebetalingen voor een verzekering waarbij de premie geheel of gedeeltelijk verschuldigd is door een ouder of grootouder van de verzekeringnemer:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de ouder of grootouder;
+
+- 2°. het bedrag van de door de ouder of grootouder betaalde premie;
+
+- 3°. het nummer van de polis;
+
+- g. met betrekking tot de verkrijging van een recht op periodieke uitkeringen of een uitkering ineens ten gevolge van of na het overlijden van een verzekerde ter zake van een stamrecht als bedoeld in de artikelen 19 of 44f van de Wet op de inkomstenbelasting 1964, zoals die wet luidde op 31 december 1991, uit een kapitaalverzekering die uitsluitend kan worden gebruikt als koopsom voor een lijfrente als bedoeld in artikel 25, derde lid, van die wet, zoals die luidde op genoemde datum, of uit een kapitaal dat anderszins moet worden uitgekeerd als periodieke uitkering:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de erflater;
+
+- 2°. de datum van het overlijden van de erflater;
+
+- 3°. de datum waarop de uitkering heeft plaatsgevonden;
+
+- 4°. het bedrag van de uitkering, onderscheidenlijk het jaarlijkse bedrag aan periodieke uitkeringen;
+
+- 5°. de waarde van het recht op periodieke uitkeringen;
+
+- 6°. het bedrag aan betaalde premies;
+
+- 7°. de datum van aanvaarding van de begunstiging;
+
+- 8°. het nummer van de polis;
+
+- h. met betrekking tot de wijziging van de tenaamstelling van een spaarrekening eigen woning als bedoeld in [artikel 10bis.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) of een beleggingsrecht eigen woning als bedoeld in dat artikel, anders dan ten gevolge van overlijden, indien de nieuwe houder een bloed- of aanverwant in de dalende lijn van de oorspronkelijke houder is:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de oorspronkelijke houder;
+
+- 2°. het rekeningnummer dan wel het nummer van het beleggingsrecht;
+
+- 3°. de datum van de wijziging van de tenaamstelling van de rekening, onderscheidenlijk het beleggingsrecht;
+
+- 4°. de hoogte van het tegoed op de spaarrekening, onderscheidenlijk de waarde van het beleggingsrecht, op de datum van de wijziging van de tenaamstelling;
+
+- 5°. het totale overgemaakte bedrag naar de rekening, onderscheidenlijk de beheerder van het beleggingsrecht;
+
+- i. met betrekking tot de overgang van een levensverzekering die niet ten gevolge van het overlijden van de verzekeringnemer wordt beëindigd, naar de verkrijgers krachtens erfrecht:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van de oorspronkelijke verzekeringnemer;
+
+- 2°. de datum van het overlijden van de erflater;
+
+- 3°. de waarde van de verzekering;
+
+- 4°. het nummer van de polis.
+
+3. Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door de inspecteur voorgeschreven wijze. De gegevens en inlichtingen worden uiterlijk verstrekt op de laatste dag van de kalendermaand volgend op de kalendermaand waarin de omstandigheid of gebeurtenis waarop de gegevens en inlichtingen betrekking hebben, heeft plaatsgevonden dan wel volgend op de kalendermaand waarin de administratieplichtige kennis heeft gekregen van die omstandigheid of gebeurtenis. De inspecteur is bevoegd in bijzondere gevallen deze termijn te verlengen.
+
+4. Een administratieplichtige kan de verstrekking van gegevens en inlichtingen achterwege laten indien:
+
+- a. de erflater of de schenker ten tijde van het overlijden, onderscheidenlijk ten tijde van de schenking, niet in Nederland woonde en hij evenmin op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=2) of [3 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=3) geacht wordt ten tijde van zijn overlijden, onderscheidenlijk ten tijde van de schenking, in Nederland te hebben gewoond;
+
+- b. de gegevens of inlichtingen door de inspecteur zijn aangewezen als van verstrekking vrijgestelde gegevens en inlichtingen en aan de aan die vrijstelling verbonden voorwaarden is voldaan.
+
+5. Als administratieplichtige als bedoeld in [artikel 75, eerste lid, laatste volzin, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) wordt voor de verstrekking van de gegevens en inlichtingen, bedoeld in het zesde lid, aangewezen: degene die een uitkering moet doen krachtens een ten behoeve van een derde gemaakt beding.
+
+6. Als gegevens en inlichtingen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) ter zake van een ten behoeve van een derde gemaakt beding worden aangewezen:
+
+- 1°. de naam, het woonadres, de geboortedatum en het burgerservicenummer van degene die het beding heeft gemaakt;
+
+- 2°. de datum van de omstandigheid of gebeurtenis die aanleiding is voor de uitkering of de verandering in de uitkering;
+
+- 3°. de datum waarop de uitkering of de verandering in de uitkering heeft plaatsgevonden;
+
+- 4°. het bedrag van de uitkering of van de verandering in de uitkering.
+
+##### Artikel 10e
+
+1. Als administratieplichtigen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: in Nederland gevestigde instellingen die ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
+
+2. Als gegevens en inlichtingen als bedoeld in [artikel 75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) worden aangewezen:
+
+- a. het totaalbedrag van de schenkingen gedaan door de instelling in het kalenderjaar aan algemeen nut beogende instellingen en aan sociaal belang behartigende instellingen;
+
+- b. het totaalbedrag van de schenkingen gedaan door de instelling in het kalenderjaar, andere dan bedoeld in onderdeel a, die per verkrijger het in [artikel 33, onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) genoemde bedrag niet te boven gaan, alsmede het aantal verkrijgers daarvan;
+
+- c. het totaalbedrag van de schenkingen gedaan door de instelling in het kalenderjaar, andere dan bedoeld in de onderdelen a en b;
+
+- d. het totaalbedrag per verkrijger van de schenkingen gedaan door de instelling in het kalenderjaar, indien dit het in [artikel 33, onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) genoemde bedrag te boven gaat, alsmede:
+
+- 1°. indien de verkrijger een natuurlijk persoon is: de naam, de geboortedatum, het woonadres en het burgerservicenummer van deze persoon, dan wel ingeval deze persoon niet in Nederland woont een door de fiscale woonstaat aan deze persoon toegekend fiscaal identificatienummer indien dat bekend is;
+
+- 2°. indien de verkrijger een rechtspersoon is: de naam, het adres, het vestigingsadres en het nummer, bedoeld in [artikel 12, onderdeel a, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=12), van deze rechtspersoon, dan wel ingeval de rechtspersoon niet in Nederland is gevestigd een door de fiscale woonstaat toegekend identificatienummer indien dat bekend is;
+
+- e. een verloopoverzicht van het ANBI-vermogen.
+
+3. De gegevens en inlichtingen, bedoeld in het tweede lid, hoeven niet te worden verstrekt indien het ANBI-vermogen niet meer bedraagt dan € 25.000:
+
+- a. op het tijdstip met ingang waarvan de instelling ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling is aangemerkt, of
+
+- b. bij het begin van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben.
+
+4. Voor de toepassing van dit artikel wordt onder ANBI-vermogen verstaan: het eigen vermogen van de instelling op het tijdstip met ingang waarvan deze ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling is aangemerkt, verminderd met de bedragen die vanaf dat tijdstip zijn besteed ter verwezenlijking van haar doelstelling en aan de daarmee verband houdende beheerkosten.
+
+5. Een verloopoverzicht van het ANBI-vermogen als bedoeld in het tweede lid, onderdeel e, is een overzicht van de ontwikkeling per kalenderjaar van het ANBI-vermogen vanaf het tijdstip met ingang waarvan de instelling ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling is aangemerkt.
+
+6. De gegevens en inlichtingen, bedoeld in het tweede lid, worden langs elektronische weg verstrekt binnen acht maanden na afloop van het kalenderjaar. De inspecteur kan regels stellen met betrekking tot de wijze waarop deze gegevens en inlichtingen worden verstrekt. De inspecteur kan ontheffing verlenen van het langs elektronische weg verstrekken van deze gegevens en inlichtingen indien het langs elektronische weg verstrekken van deze gegevens en inlichtingen redelijkerwijs niet verlangd kan worden.
+
+7. Het niet, niet tijdig, onjuist of onvolledig verstrekken van de gegevens en inlichtingen, bedoeld in het tweede lid, wordt aangemerkt als een overtreding.
+
+### Hoofdstuk 2. Kwijtschelding van Successierecht
+
+### Hoofdstuk 3. Overgangs- en slotbepalingen
+
+##### Artikel 15a
+
+1. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-01-01) is niet van toepassing op instellingen die met ingang van een vóór 1 januari 2013 gelegen datum ingevolge [artikel 5b, zevende of achtste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5b) niet meer als algemeen nut beogende instelling zijn aangemerkt.
+
+2. [Artikel 10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-01-01) is voor het eerst van toepassing met betrekking tot kalenderjaren na 31 december 2012.
+
+3. De gegevens en inlichtingen over het kalenderjaar 2013 worden, in afwijking in zoverre van [artikel 10e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002227&hoofdstuk=1a&artikel=10e&z=2015-01-01&g=2015-01-01), tussen 1 februari 2015 en 1 mei 2015 verstrekt.
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
