@@ -4,7 +4,7 @@ identifier: "BWBR0034433"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034433"
 soort: "wet"
@@ -55,7 +55,7 @@ Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de vennootschapsbelasting 1969.
 
 #### § 7. **Slotbepalingen**
 
@@ -67,65 +67,49 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel 1
 
-Onder de naam resolutieheffing 2014 wordt een belasting geheven van de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034433&paragraaf=2&z=2014-01-01&g=2014-01-01) vermelde belastingplichtigen.
+Vervallen
 
 ##### Artikel 2
 
-In deze wet wordt verstaan onder:
-
-- a. **bank:** bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
-
-- b. **centrale kredietinstelling:** centrale kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
-
-- c. **deposito:** deposito als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1);
-
-- d. **depositobasis:** bedrag van de bij een bank aangehouden deposito’s voor zover deze voor compensatie ingevolge het depositogarantiestelsel in aanmerking komen;
-
-- e. **depositogarantiestelsel:** depositogarantiestelsel als bedoeld in [artikel 3:259, tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:259);
-
-- f. **groep banken:** twee of meer banken die met elkaar zijn verbonden in een formele of feitelijke zeggenschapstructuur.
+Vervallen
 
 ##### Artikel 3
 
-Belastingplichtig voor de resolutieheffing 2014 is een bank waarop het depositogarantiestelsel van toepassing is, mits op die bank het depositogarantiestelsel ook op 1 februari 2013 van toepassing was.
+Vervallen
 
 ##### Artikel 4
 
-Indien een groep banken op grond van [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:111) is vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van de in dat artikellid genoemde artikelen, is alleen de centrale kredietinstelling, bedoeld in dat artikel, belastingplichtig en zijn, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034433&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), de bij die centrale kredietinstelling aangesloten banken niet belastingplichtig.
+Vervallen
 
 #### § 3. **Grondslag**
 
 ##### Artikel 5
 
-De resolutieheffing 2014 wordt geheven naar het belastbare bedrag.
+Vervallen
 
 ##### Artikel 6
 
-1. Het belastbare bedrag is de depositobasis op 1 februari 2013.
-
-2. Indien sprake is van een belastingplichtige als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034433&paragraaf=2&artikel=4&z=2014-01-01&g=2014-01-01), is het belastbare bedrag het totaal van de depositobases op 1 februari 2013 van de belastingplichtige en de bij haar aangesloten banken.
+Vervallen
 
 #### § 4. **Tarief**
 
 ##### Artikel 7
 
-De resolutieheffing 2014 bedraagt 0,075% van het belastbare bedrag.
+Vervallen
 
 #### § 5. **Wijze van heffing**
 
 ##### Artikel 8
 
-De resolutieheffing 2014 wordt verschuldigd op 1 maart 2014, 1 mei 2014 en 1 juli 2014.
+Vervallen
 
 ##### Artikel 9
 
-De resolutieheffing 2014 wordt op aangifte voldaan.
+Vervallen
 
 ##### Artikel 10
 
-1. Bij twee of meer belastingplichtigen die behoren tot dezelfde groep banken kan een van die belastingplichtigen (aangewezen belastingplichtige) optreden namens elk van hen. Bij toepassing van de eerste volzin treedt de aangewezen belastingplichtige in de plaats van de belastingplichtigen voor wie hij optreedt met betrekking tot alle rechten en verplichtingen die die belastingplichtigen hebben inzake de aangiften en de betalingen van de resolutieheffing 2014. De aangewezen belastingplichtige vermeldt in de aangifte voor welke belastingplichtigen hij optreedt. Bij toepassing van de eerste volzin wordt aangifte gedaan op basis van het totale belastbare bedrag van de aangewezen belastingplichtige en de belastingplichtigen voor wie hij optreedt.
-
-2. Bij toepassing van het eerste lid is, ingeval de aangewezen belastingplichtige niet voldoet aan zijn verplichting inzake de betaling van de resolutieheffing 2014, elk van de belastingplichtigen voor wie de aangewezen belastingplichtige optreedt hoofdelijk aansprakelijk voor de door de aangewezen belastingplichtige en de belastingplichtigen voor wie de aangewezen belastingplichtige optreedt in totaal verschuldigde resolutieheffing 2014.
+Vervallen
 
 #### § 6. **Overige bepalingen**
 
@@ -135,7 +119,7 @@ De resolutieheffing 2014 wordt op aangifte voldaan.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034433&paragraaf=6&artikel=11&z=2014-01-01&g=2014-01-01) werkt terug tot en met 1 februari 2013.
+2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034433&paragraaf=6&artikel=11&z=2015-01-01&g=2015-01-01) werkt terug tot en met 1 februari 2013.
 
 ##### Artikel 14
 
