@@ -4,7 +4,7 @@ identifier: "BWBV0004095"
 country: "nl"
 rank: "verdrag"
 publication_date: "2024-01-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004095"
 soort: "verdrag"
@@ -101,7 +101,7 @@ met dien verstande dat dit Protocol niet voor 1 februari 1992 in werking zal tre
 
 3. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, worden van kracht drie maanden na de datum van nederlegging.
 
-4. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol of een wijziging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) tussen de Partijen bij dit Protocol wordt geacht te zijn aanvaard overeenkomstig [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&artikel=VI&z=2014-07-01&g=2014-07-01), is van toepassing op dit Protocol of het Verdrag als gewijzigd.
+4. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop een wijziging van dit Protocol of een wijziging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) tussen de Partijen bij dit Protocol wordt geacht te zijn aanvaard overeenkomstig [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&artikel=VI&z=2015-01-01&g=2015-01-01), is van toepassing op dit Protocol of het Verdrag als gewijzigd.
 
 ##### Artikel VI. Wijzigingen
 
@@ -121,9 +121,9 @@ met dien verstande dat dit Protocol niet voor 1 februari 1992 in werking zal tre
 
 - f). Indien echter binnen het tijdvak dat is vastgesteld, meer dan een-derde van de Partijen, of Partijen waarvan de koopvaardijvloten te zamen niet minder dan vijftig procent van de bruto tonnage van alle koopvaardijvloten van alle Partijen vertegenwoordigen, de Secretaris-Generaal van de Organisatie in kennis stellen van het feit dat zij zich verzetten tegen de wijziging, dan wordt deze geacht niet te zijn aanvaard.
 
-- (i). Een wijziging van een artikel of van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&bijlage=A&z=2014-07-01&g=2014-07-01) bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een artikel van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) wordt geacht te zijn aanvaard op de datum waarop deze is aanvaard door twee-derde van de Partijen bij dit Protocol.
+- (i). Een wijziging van een artikel of van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&bijlage=A&z=2015-01-01&g=2015-01-01) bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een artikel van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) wordt geacht te zijn aanvaard op de datum waarop deze is aanvaard door twee-derde van de Partijen bij dit Protocol.
 
-- (ii). Een wijziging van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&bijlage=B&z=2014-07-01&g=2014-07-01) bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een Bijlage bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) wordt geacht te zijn aanvaard:
+- (ii). Een wijziging van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0004095&bijlage=B&z=2015-01-01&g=2015-01-01) bij dit Protocol of een wijziging, tussen de Partijen bij dit Protocol, van een Bijlage bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) wordt geacht te zijn aanvaard:
 
 - (aa). aan het eind van twee jaar gerekend vanaf de datum waarop deze aan de Partijen bij dit Protocol ter kennis is gebracht ter fine van aanvaarding; of
 
