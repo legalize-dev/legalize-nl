@@ -4,7 +4,7 @@ identifier: "BWBR0027660"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2011-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027660"
 soort: "wet"
@@ -50,27 +50,29 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **Onze Minister:** Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **Raad:** de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3&z=2011-01-01&g=2011-01-01);
+- b. **Raad:** de Pensioen- en Uitkeringsraad, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3&z=2015-01-01&g=2015-01-01);
 
 - c. **Sociale verzekeringsbank:** de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6);
 
-- d. **Cliëntenraad:** de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=10&z=2011-01-01&g=2011-01-01);
+- d. **Cliëntenraad:** de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=10&z=2015-01-01&g=2015-01-01);
 
-- e. **wetten voor verzetsdeelnemers en oorlogsgetroffenen:** de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664).
+- e. **wetten voor verzetsdeelnemers en oorlogsgetroffenen:** de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032), de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035), de [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968), de [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844) en de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664);
+
+- f. **AOR:** de Algemene Oorlogsongevallenregeling Indonesië met inbegrip van het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118).
 
 ##### Artikel 2
 
-1. De [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), [26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.
+1. De [artikelen 18 tot en met 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), [26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en [33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.
 
 2. De bevoegdheden, bedoeld in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=20) en [22, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22), worden door Onze Minister toegepast in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-3. In afwijking van [artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=36), wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen uitgeoefend door Onze Minister.
+3. In afwijking van [artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=36), wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR uitgeoefend door Onze Minister.
 
 4. [Artikel 84 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=84) is ten aanzien van de uitvoering van deze wet door de Sociale verzekeringsbank niet van toepassing.
 
 ##### Artikel 3
 
-1. Er is een Raad, die is belast met de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01).
+1. Er is een Raad, die is belast met de taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01).
 
 2. De Raad is gevestigd op een door Onze Minister te bepalen plaats.
 
@@ -86,23 +88,25 @@ De Raad heeft tot taak:
 
 - b. het ambtshalve herzien van de erkenning als verzetsdeelnemer, vervolgde of burger-oorlogsslachtoffer;
 
-- c. het vaststellen van beleidsregels voor beschikkingen van de Sociale verzekeringsbank als bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2011-01-01&g=2011-01-01), en
+- c. het geven van beschikkingen op een aanvraag voor een uitkering of tegemoetkoming op grond van de AOR afkomstig van een persoon die nog geen financiële aanspraak ontleent of heeft ontleend aan deze regeling;
 
-- d. het adviseren van de Sociale verzekeringsbank over beschikkingen waarbij niet op basis van de beleidsregels, bedoeld in onderdeel c, kan worden besloten.
+- d. het vaststellen van beleidsregels voor beschikkingen van de Sociale verzekeringsbank als bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2015-01-01&g=2015-01-01), en
+
+- e. het adviseren van de Sociale verzekeringsbank over beschikkingen waarbij niet op basis van de beleidsregels, bedoeld in onderdeel d, kan worden besloten.
 
 ##### Artikel 5
 
 1. De Raad bestaat uit minimaal drie en maximaal negen leden, onder wie een voorzitter.
 
-2. De benoeming van de leden van de Raad geschiedt gehoord hebbende de organisaties en instellingen welke regelmatig zijn betrokken bij de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.
+2. De benoeming van de leden van de Raad geschiedt gehoord hebbende de organisaties en instellingen welke regelmatig zijn betrokken bij de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.
 
 3. De leden van de Raad worden benoemd voor een periode van vier jaren.
 
 4. De Raad wordt zodanig samengesteld dat daarin de categorieën belanghebbenden waarop de werkzaamheden van de Raad betrekking hebben op een evenwichtige wijze zijn vertegenwoordigd.
 
-5. Het lidmaatschap van de Raad is onverenigbaar met het hebben van een financiële aanspraak op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.
+5. Het lidmaatschap van de Raad is onverenigbaar met het hebben van een financiële aanspraak op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.
 
-6. De Raad stelt regels betreffende de uitvoering van zijn taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01).
+6. De Raad stelt regels betreffende de uitvoering van zijn taken, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01).
 
 7. De voorzitter vertegenwoordigt de Raad in en buiten rechte.
 
@@ -110,17 +114,17 @@ De Raad heeft tot taak:
 
 De Sociale verzekeringsbank heeft tot taak:
 
-- a. het geven van de beschikkingen op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen die niet op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01) aan de Raad zijn opgedragen;
+- a. het geven van de beschikkingen op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR die niet op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01) aan de Raad zijn opgedragen;
 
 - b. het geven van beschikkingen op aanvragen voor een vergoeding in de kosten van een behandeling, als bedoeld in [artikel 2 van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](https://wetten.overheid.nl/jci1.3:c:BWBR0006957&artikel=2);
 
-- c. de voorbereiding en de uitvoering van de beschikkingen, bedoeld in [artikel 4, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01), en
+- c. de voorbereiding en de uitvoering van de beschikkingen, bedoeld in [artikel 4, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01), en
 
 - d. de ondersteuning van de Raad bij zijn werkzaamheden.
 
 ##### Artikel 7
 
-1. De beschikkingen, bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2011-01-01&g=2011-01-01), worden gegeven met in achtneming van de beleidsregels, bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01).
+1. De beschikkingen, bedoeld in [artikel 6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2015-01-01&g=2015-01-01), worden gegeven met in achtneming van de beleidsregels, bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01).
 
 2. De Sociale verzekeringsbank vraagt de Raad om advies indien deze niet kan voldoen aan de verplichting, genoemd in het eerste lid, omdat:
 
@@ -138,15 +142,15 @@ De Sociale verzekeringsbank heeft tot taak:
 
 ##### Artikel 9
 
-1. De kosten van de buitengewone pensioenen, garantietoeslagen, uitkeringen, periodieke uitkeringen, garantie-uitkeringen, vergoedingen en tegemoetkomingen, die worden verstrekt op grond van de wetten voor verzetsdeelnemers en oorlogsgetroffenen, komen ten laste van het Rijk.
+1. De kosten van de buitengewone pensioenen, garantietoeslagen, uitkeringen, periodieke uitkeringen, garantie-uitkeringen, vergoedingen en tegemoetkomingen, die worden verstrekt op grond van de wetten voor verzetsdeelnemers en oorlogsgetroffenen alsmede de uitkeringen en tegemoetkomingen op grond van de AOR, komen ten laste van het Rijk.
 
 2. De kosten, gemoeid met de uitvoering van deze wet, komen ten laste van ’s Rijks kas, overeenkomstig bij ministeriële regeling te stellen regels.
 
 ##### Artikel 10
 
-1. Er is een Cliëntenraad, die met de Raad en de Sociale verzekeringsbank overlegt en hun gevraagd en ongevraagd schriftelijk adviseert over de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen, voorzover dit relevant is vanuit het oogpunt van cliëntenbelangen, met uitzondering van individuele zaken.
+1. Er is een Cliëntenraad, die met de Raad en de Sociale verzekeringsbank overlegt en hun gevraagd en ongevraagd schriftelijk adviseert over de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR, voorzover dit relevant is vanuit het oogpunt van cliëntenbelangen, met uitzondering van individuele zaken.
 
-2. De Cliëntenraad bestaat uit personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij de uitvoering van de taken, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2011-01-01&g=2011-01-01).
+2. De Cliëntenraad bestaat uit personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij de uitvoering van de taken, genoemd in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=4&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=6&z=2015-01-01&g=2015-01-01).
 
 3. De Cliëntenraad bestaat uit minimaal zeven en maximaal vijftien leden, onder wie een voorzitter, die door de Sociale verzekeringsbank worden benoemd, geschorst en ontslagen. De benoeming van de leden van de eerste Cliëntenraad na inwerkingtreding van deze wet, geschiedt op voordracht van de Raad. De daaropvolgende benoemingen geschieden op voordracht van de zittende leden van de Cliëntenraad.
 
@@ -180,15 +184,11 @@ De Sociale verzekeringsbank heeft tot taak:
 
 ##### Artikel 13
 
-Op het tijdstip van inwerkingtreding van deze wet worden de archiefbescheiden van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2), overgedragen aan de Sociale verzekeringsbank, met uitzondering van de bescheiden die betrekking hebben op de personeelsleden van deze Raad die niet in dienst zijn genomen door de Sociale verzekeringsbank.
+Op het tijdstip van inwerkingtreding van de [wet tot wijziging van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen in verband met het opnemen van een grondslag voor de uitvoering door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank van de Algemene Oorlogsongevallenregeling Indonesië en het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118)](519269) worden de archiefbescheiden van de Stichting Administratie Indonesische Pensioenen, voor zover betrekking hebbend op de AOR, overgedragen aan de Sociale verzekeringsbank respectievelijk de Pensioen- en Uitkeringsraad, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel 14
 
-1. Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2), worden toebedeeld aan de Sociale verzekeringsbank.
-
-2. De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de Sociale verzekeringsbank tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.
-
-3. Bij ministeriële regeling worden regels gesteld ten aanzien van de besteding van de vermogensbestanddelen, bedoeld in het eerste lid.
+Vervallen
 
 ##### Artikel 15
 
@@ -220,11 +220,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Sociale Zaken en We
 
 ##### Artikel 22
 
-1. De publiekrechtelijke rechten en verplichtingen van de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2), ten aanzien van gerechtigden die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontlenen aan de wetten voor verzetsdeelnemers en oorlogsgetroffenen of aan de [Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](https://wetten.overheid.nl/jci1.3:c:BWBR0006957), gaan over op de Sociale verzekeringsbank.
-
-2. Een tot de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2), gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet geen financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert en waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Raad, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027660&artikel=3&z=2011-01-01&g=2011-01-01).
-
-3. Een tot de Raad, bedoeld in [artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad](https://wetten.overheid.nl/jci1.3:c:BWBR0004806&artikel=2), gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert, of op basis van de [Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie](https://wetten.overheid.nl/jci1.3:c:BWBR0006957), waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Sociale verzekeringsbank.
+Vervallen
 
 ##### Artikel 23
 
