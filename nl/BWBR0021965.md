@@ -4,7 +4,7 @@ identifier: "BWBR0021965"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021965"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Ministerie: het Ministerie van Veiligheid en Justitie;
 
-- c. commissie: commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=2&z=2013-01-01&g=2013-01-01).
+- c. commissie: commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=2&z=2016-09-28&g=2015-01-01).
 
 ##### Artikel 2
 
@@ -89,7 +89,7 @@ Het bevoegd gezag vermeldt in of bij besluit dat de commissie advies heeft uitge
 
 ##### Artikel 9
 
-1. Aan de leden van de commissie, bedoelt in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=3&z=2013-01-01&g=2013-01-01), wordt per vergadering een vacatiegeld toegekend met inachtneming van [artikel 1, eerste lid, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1) en voor zover zij niet zijn aan te merken als functionarissen als bedoeld in [artikel 2, eerste lid, onder a, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=2).
+1. Aan de leden van de commissie, bedoelt in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0021965&artikel=3&z=2016-09-28&g=2015-01-01), wordt per vergadering een vacatiegeld toegekend met inachtneming van [artikel 1, eerste lid, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=1) en voor zover zij niet zijn aan te merken als functionarissen als bedoeld in [artikel 2, eerste lid, onder a, van het Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317&artikel=2).
 
 2. Het vacatiegeld bedraagt voor de voorzitter € 187,19 en voor de overige leden € 124,79.
 
