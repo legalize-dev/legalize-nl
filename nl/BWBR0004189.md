@@ -4,7 +4,7 @@ identifier: "BWBR0004189"
 country: "nl"
 rank: "wet"
 publication_date: "2021-08-26"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004189"
 soort: "wet"
@@ -54,7 +54,7 @@ betrokken staat: lidstaat, een andere staat die partij is bij de Overeenkomst be
 
 bevoegde autoriteit: bevoegde autoriteit als bedoeld in artikel 56 van de richtlijn;
 
-bureau: het bureau architectenregister als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=2a&z=2013-01-01&g=2013-01-01);
+bureau: het bureau architectenregister als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=2a&z=2015-01-01&g=2015-01-01);
 
 derde land: ander land dan een betrokken staat;
 
@@ -76,7 +76,7 @@ Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milie
 
 opleidingstitel: diploma, certificaat, of andere titel dat of die door een daartoe bij of krachtens wet in een andere betrokken staat aangewezen autoriteit is afgegeven ter afsluiting van een overwegend in een of meer betrokken staten gevolgde beroepsopleiding op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur;
 
-register: architectenregister als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=II&artikel=2&z=2013-01-01&g=2013-01-01);
+register: architectenregister als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=II&artikel=2&z=2015-01-01&g=2015-01-01);
 
 richtlijn: richtlijn nr. 2005/36/EG van het Europees Parlement en de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties (PbEU L 255).
 
@@ -94,7 +94,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 2. Het bureau treedt bij de uitvoering van deze wet op als bevoegde autoriteit. Het bureau werkt in die hoedanigheid nauw samen met de bevoegde autoriteiten van andere betrokken staten en:
 
-- a. verstrekt aan of vraagt bij die autoriteiten gegevens op inzake tuchtrechtelijke maatregelen, strafrechtelijke sancties of andere ernstige feiten voor zover noodzakelijk voor de beoordeling van de rechtmatigheid van de toegang tot of de uitoefening van werkzaamheden op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur van of door een persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2013-01-01&g=2013-01-01) is ingeschreven in het register of die op grond van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2013-01-01&g=2013-01-01) een verzoek tot inschrijving in het register heeft gedaan;
+- a. verstrekt aan of vraagt bij die autoriteiten gegevens op inzake tuchtrechtelijke maatregelen, strafrechtelijke sancties of andere ernstige feiten voor zover noodzakelijk voor de beoordeling van de rechtmatigheid van de toegang tot of de uitoefening van werkzaamheden op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur van of door een persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2015-01-01&g=2015-01-01) is ingeschreven in het register of die op grond van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2015-01-01&g=2015-01-01) een verzoek tot inschrijving in het register heeft gedaan;
 
 - b. gaat de juistheid na van de door de bevoegde autoriteit van een andere betrokken staat verstrekte informatie als bedoeld in onderdeel a en stelt die autoriteit in kennis van de bevindingen en de eventueel daaraan te verbinden gevolgen;
 
@@ -108,13 +108,13 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 ##### Artikel 4
 
-1. Het bureau betrekt de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de nadere eisen en regels, bedoeld in de [artikelen 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2013-01-01&g=2013-01-01), [12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2013-01-01&g=2013-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01).
+1. Het bureau betrekt de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de nadere eisen en regels, bedoeld in de [artikelen 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2015-01-01&g=2015-01-01), [12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2015-01-01&g=2015-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01).
 
-2. Het bureau betrekt voorts bij de voorbereiding van de regels, bedoeld in de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2013-01-01&g=2013-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), de onderwijsinstellingen, bedoeld in de [artikelen 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), en [12, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01).
+2. Het bureau betrekt voorts bij de voorbereiding van de regels, bedoeld in de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2015-01-01&g=2015-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), de onderwijsinstellingen, bedoeld in de [artikelen 9, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), en [12, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01).
 
-3. De regels die het bureau krachtens de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2013-01-01&g=2013-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), vaststelt en de nadere eisen die het bureau krachtens [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2013-01-01&g=2013-01-01), vaststelt, behoeven de goedkeuring van Onze Minister, en ingeval de regels of nadere eisen betrekking hebben op tuin- en landschapsarchitecten, respectievelijk interieurarchitecten van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, respectievelijk van Onze Minister van Onderwijs, Cultuur en Wetenschap.
+3. De regels die het bureau krachtens de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2015-01-01&g=2015-01-01), en [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), vaststelt en de nadere eisen die het bureau krachtens [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2015-01-01&g=2015-01-01), vaststelt, behoeven de goedkeuring van Onze Minister, en ingeval de regels of nadere eisen betrekking hebben op tuin- en landschapsarchitecten, respectievelijk interieurarchitecten van Onze Minister van Landbouw, Natuur en Voedselkwaliteit, respectievelijk van Onze Minister van Onderwijs, Cultuur en Wetenschap.
 
-4. Indien het bureau toepassing geeft aan [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2013-01-01&g=2013-01-01), betrekt het de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de in dat lid bedoelde beleidsregels. Het derde lid is van overeenkomstige toepassing op zodanig vastgestelde beleidsregels.
+4. Indien het bureau toepassing geeft aan [artikel 27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2015-01-01&g=2015-01-01), betrekt het de beroepsorganisaties en de ongeorganiseerden bij de voorbereiding van de in dat lid bedoelde beleidsregels. Het derde lid is van overeenkomstige toepassing op zodanig vastgestelde beleidsregels.
 
 ##### Artikel 5
 
@@ -140,7 +140,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 - f. een getuigschrift op het gebied van stedenbouw, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.
 
-2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2013-01-01&g=2013-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2013-01-01&g=2013-01-01) als stedenbouwkundige in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
+2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2015-01-01&g=2015-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2015-01-01&g=2015-01-01) als stedenbouwkundige in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
@@ -148,9 +148,9 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 
 1. Het bureau draagt alle kosten die uit de uitvoering van de aan hem bij deze wet opgedragen taken voortvloeien, behoudens het tweede en derde lid.
 
-2. De taken, bedoeld in [artikel 3, tweede lid, onderdelen a en b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), en de vaststelling van de nadere eisen, bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2013-01-01&g=2013-01-01), en van de regels, bedoeld in de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2013-01-01&g=2013-01-01), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), en [27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2013-01-01&g=2013-01-01), worden bekostigd door Onze Minister voor zover die taken, nadere eisen of regels betrekking hebben op architecten en stedenbouwkundigen, door Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor zover die taken, nadere eisen of regels betrekking hebben op tuin- en landschapsarchitecten en door Onze Minister van Onderwijs, Cultuur en Wetenschap voor zover die taken, nadere eisen of regels betrekking hebben op interieurarchitecten.
+2. De taken, bedoeld in [artikel 3, tweede lid, onderdelen a en b, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), en de vaststelling van de nadere eisen, bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2015-01-01&g=2015-01-01), en van de regels, bedoeld in de [artikelen 12b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2015-01-01&g=2015-01-01), [12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), en [27a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VI&artikel=27a&z=2015-01-01&g=2015-01-01), worden bekostigd door Onze Minister voor zover die taken, nadere eisen of regels betrekking hebben op architecten en stedenbouwkundigen, door Onze Minister van Landbouw, Natuur en Voedselkwaliteit voor zover die taken, nadere eisen of regels betrekking hebben op tuin- en landschapsarchitecten en door Onze Minister van Onderwijs, Cultuur en Wetenschap voor zover die taken, nadere eisen of regels betrekking hebben op interieurarchitecten.
 
-3. Onze Minister bekostigt de taak, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
+3. Onze Minister bekostigt de taak, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 8
 
@@ -158,17 +158,17 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 - a. de behandeling van een verzoek om inschrijving in het register en de inschrijving daarin;
 
-- b. de behandeling van de aanvraag om erkenning van een opleidingstitel of een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), en [12, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01);
+- b. de behandeling van de aanvraag om erkenning van een opleidingstitel of een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel h of j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), en [12, eerste lid, onderdeel d of f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01);
 
-- c. de behandeling van een verzoek om afgifte van een certificaat als bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2013-01-01&g=2013-01-01);
+- c. de behandeling van een verzoek om afgifte van een certificaat als bedoeld in [artikel 12a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2015-01-01&g=2015-01-01);
 
 - d. de jaarlijkse instandhouding van de inschrijving in het register;
 
-- e. het verstrekken van afschriften, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), of de in dat onderdeel bedoelde verklaring;
+- e. het verstrekken van afschriften, bedoeld in [artikel 3, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), of de in dat onderdeel bedoelde verklaring;
 
-- f. de toelating tot en het afleggen van het examen, bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2013-01-01&g=2013-01-01);
+- f. de toelating tot en het afleggen van het examen, bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12b&z=2015-01-01&g=2015-01-01);
 
-- g. de behandeling van een verzoek om gehele of gedeeltelijke vrijstelling van het doorlopen van de tweejarige beroepservaringperiode krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01).
+- g. de behandeling van een verzoek om gehele of gedeeltelijke vrijstelling van het doorlopen van de tweejarige beroepservaringperiode krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01).
 
 ### Hoofdstuk IV. De inschrijving in het register
 
@@ -196,7 +196,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 - j. een getuigschrift op het gebied van architectuur, dat door een daartoe bevoegde instelling in een derde land is verstrekt ter afsluiting van een opleiding die naar het oordeel van het bureau voldoet aan de in artikel 46 van de richtlijn gestelde eisen.
 
-2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2013-01-01&g=2013-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2013-01-01&g=2013-01-01) als architect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
+2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2015-01-01&g=2015-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2015-01-01&g=2015-01-01) als architect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
 3. Onze Minister stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
@@ -238,7 +238,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 - f. een getuigschrift op het gebied van tuin- en landschapsarchitectuur, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.
 
-2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2013-01-01&g=2013-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2013-01-01&g=2013-01-01) als tuin- en landschapsarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
+2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2015-01-01&g=2015-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2015-01-01&g=2015-01-01) als tuin- en landschapsarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
 3. Onze Minister van Landbouw, Natuur en Voedselkwaliteit stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
@@ -258,7 +258,7 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 - f. een getuigschrift op het gebied van interieurarchitectuur, dat door een daartoe bevoegde instelling in een derde land is verstrekt en door het bureau, na een daartoe ingesteld onderzoek, is erkend.
 
-2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2013-01-01&g=2013-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2013-01-01&g=2013-01-01) als interieurarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
+2. Een persoon kan krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2015-01-01&g=2015-01-01) of [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2015-01-01&g=2015-01-01) als interieurarchitect in het register worden ingeschreven op grond van een ander getuigschrift dan bedoeld in het eerste lid.
 
 3. Onze Minister van Onderwijs, Cultuur en Wetenschap stelt nadere regels over de inrichting welke degene die op grond van het voldoen aan een der eisen, bedoeld in het eerste lid, onderdeel a, b of c, inschrijving in het register wenst te verkrijgen aan zijn opleiding moet hebben gegeven.
 
@@ -266,13 +266,13 @@ Het bureau stelt tarieven vast voor een vergoeding ter zake van:
 
 1. Een persoon die in het register wenst te worden ingeschreven, dient daartoe een verzoek in bij het bureau. Een verzoek gaat vergezeld van de stukken aan de hand waarvan het bureau de identiteit, de opleiding en de beroepservaring van de verzoeker kan vaststellen.
 
-2. Het bureau kan een verzoek als bedoeld in het eerste lid of een aanvraag als bedoeld in het derde lid niet in behandeling nemen indien de krachtens [artikel 8, aanhef en onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde vergoeding niet is ontvangen.
+2. Het bureau kan een verzoek als bedoeld in het eerste lid of een aanvraag als bedoeld in het derde lid niet in behandeling nemen indien de krachtens [artikel 8, aanhef en onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2015-01-01&g=2015-01-01), vastgestelde vergoeding niet is ontvangen.
 
-3. Het bureau bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f. Het wijst er in die bevestiging op dat het besluit omtrent de aangevraagde erkenning gelijktijdig een besluit kan inhouden omtrent inschrijving in het register indien de aanvrager alsnog verzoekt om inschrijving in het register overeenkomstig het eerste lid.
+3. Het bureau bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f. Het wijst er in die bevestiging op dat het besluit omtrent de aangevraagde erkenning gelijktijdig een besluit kan inhouden omtrent inschrijving in het register indien de aanvrager alsnog verzoekt om inschrijving in het register overeenkomstig het eerste lid.
 
-4. Indien een persoon blijkens zijn verzoek om inschrijving in het register in het bezit is van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, die of dat nog niet door het bureau is erkend, merkt het bureau het verzoek om inschrijving tevens aan als een aanvraag om erkenning van die opleidingstitel of dat getuigschrift. Het bureau doet daarvan binnen een maand na de ontvangst mededeling in de bevestiging van de ontvangst van het verzoek.
+4. Indien een persoon blijkens zijn verzoek om inschrijving in het register in het bezit is van een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, die of dat nog niet door het bureau is erkend, merkt het bureau het verzoek om inschrijving tevens aan als een aanvraag om erkenning van die opleidingstitel of dat getuigschrift. Het bureau doet daarvan binnen een maand na de ontvangst mededeling in de bevestiging van de ontvangst van het verzoek.
 
-5. Het bureau neemt in een geval waarin een aanvraag om erkenning of een verzoek om inschrijving in het register betrekking heeft op een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), binnen drie maanden na ontvangst van alle stukken die het nodig acht voor zijn oordeelsvorming een besluit omtrent de erkenning.
+5. Het bureau neemt in een geval waarin een aanvraag om erkenning of een verzoek om inschrijving in het register betrekking heeft op een opleidingstitel als bedoeld in [artikel 9, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), binnen drie maanden na ontvangst van alle stukken die het nodig acht voor zijn oordeelsvorming een besluit omtrent de erkenning.
 
 6. Indien het bureau toepassing geeft aan [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) houdt het het besluit omtrent de erkenning aan overeenkomstig [artikel 19, derde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19). Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing.
 
@@ -290,7 +290,7 @@ Het bureau kan bepalen dat de indiener van het verzoek in persoon voor hem zal v
 
 ##### Artikel 16
 
-1. Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene de krachtens [artikel 8, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde vergoeding verschuldigd.
+1. Dadelijk na inschrijving in het register en voorts telkens na verloop van een jaar is de ingeschrevene de krachtens [artikel 8, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2015-01-01&g=2015-01-01), vastgestelde vergoeding verschuldigd.
 
 2. In geval de bijdrage door middel van girale betaling is voldaan, zendt het bureau na ontvangst van de bijdrage een bewijs van betaling aan degene die heeft betaald.
 
@@ -300,7 +300,7 @@ Het bureau kan bepalen dat de indiener van het verzoek in persoon voor hem zal v
 
 - a. indien de inschrijving, gelet op het bij of krachtens deze wet bepaalde, ten onrechte is geschied;
 
-- b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=16&z=2013-01-01&g=2013-01-01), bedoelde bijdrage;
+- b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=16&z=2015-01-01&g=2015-01-01), bedoelde bijdrage;
 
 - c. op verzoek van de ingeschrevene;
 
@@ -310,25 +310,25 @@ Het bureau kan bepalen dat de indiener van het verzoek in persoon voor hem zal v
 
 3. Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder **b**, wordt niet genomen dan nadat vier weken zijn is verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.
 
-4. Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onderdelen a tot en met c, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2013-01-01&g=2013-01-01) is bepaald.
+4. Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onderdelen a tot en met c, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2015-01-01&g=2015-01-01) is bepaald.
 
 5. Het bureau houdt aantekening van de doorhalingen en van de data waarop deze zijn geschied.
 
 ##### Artikel 18
 
-1. Degene, van wie de inschrijving op grond van [artikel 17, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2013-01-01&g=2013-01-01), is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.
+1. Degene, van wie de inschrijving op grond van [artikel 17, eerste lid, onderdeel b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2015-01-01&g=2015-01-01), is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken.
 
-2. Het in het eerste lid bedoelde verzoek wordt niet in behandeling genomen zolang niet de krachtens [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde vergoeding is betaald, en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde vergoedingen als bedoeld in artikel 8, aanhef en onderdeel d, zijn voldaan.
+2. Het in het eerste lid bedoelde verzoek wordt niet in behandeling genomen zolang niet de krachtens [artikel 8, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2015-01-01&g=2015-01-01), vastgestelde vergoeding is betaald, en zolang niet de reeds vóór het tijdstip van doorhaling verschuldigde, maar nog niet betaalde vergoedingen als bedoeld in artikel 8, aanhef en onderdeel d, zijn voldaan.
 
 ##### Artikel 19
 
-1. Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2013-01-01&g=2013-01-01), de doorhaling ongedaan.
+1. Het bureau maakt binnen vier weken na ontvangst van het verzoek, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2015-01-01&g=2015-01-01), de doorhaling ongedaan.
 
-2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=14&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=14&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 20
 
-Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=16&z=2013-01-01&g=2013-01-01), geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.
+Voor de toepassing van het bepaalde in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=16&z=2015-01-01&g=2015-01-01), geldt het tijdstip waarop een doorhaling ongedaan is gemaakt als tijdstip van inschrijving in het register.
 
 ##### Artikel 21
 
@@ -356,7 +356,7 @@ Vervallen
 
 ##### Artikel 24
 
-1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2013-01-01&g=2013-01-01), is degene die voldoet aan [artikel 9, eerste lid, onderdeel d, e, f, g, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), gerechtigd gebruik te maken van de wettige in een andere betrokken staat gevoerde titel of afkorting daarvan in de officiële taal van die staat of in één van de officiële talen van die staat.
+1. Onverminderd [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2015-01-01&g=2015-01-01), is degene die voldoet aan [artikel 9, eerste lid, onderdeel d, e, f, g, h of i](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), gerechtigd gebruik te maken van de wettige in een andere betrokken staat gevoerde titel of afkorting daarvan in de officiële taal van die staat of in één van de officiële talen van die staat.
 
 2. Het bureau kan bepalen dat bij het voeren van een titel als bedoeld in het eerste lid, tevens de naam en de plaats van vestiging van de instelling of de examencommissie die deze titel heeft verleend, moet worden vermeld.
 
@@ -378,21 +378,21 @@ Vervallen
 
 ##### Artikel 28
 
-1. Onverminderd de doorhaling van een inschrijving in het register krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2013-01-01&g=2013-01-01) blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.
+1. Onverminderd de doorhaling van een inschrijving in het register krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=17&z=2015-01-01&g=2015-01-01) blijft degene die in het register is ingeschreven door de Stichting bureau architectenregister ingeschreven in het register.
 
-2. Een persoon van wie de inschrijving in het register door de Stichting bureau architectenregister is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken. Op dat verzoek en de behandeling daarvan zijn de [artikelen 18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2013-01-01&g=2013-01-01) van toepassing.
+2. Een persoon van wie de inschrijving in het register door de Stichting bureau architectenregister is doorgehaald, kan het bureau verzoeken de doorhaling ongedaan te maken. Op dat verzoek en de behandeling daarvan zijn de [artikelen 18 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=18&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ##### Artikel 29
 
-1. Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), indien:
+1. Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), indien:
 
 - a. hij dat getuigschrift in zijn bezit had op het tijdstip van inwerkingtreding van [artikel I, onderdelen H, I, J en K, van de wet tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I), en
 
 - b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in onderdeel a, recht gaf op inschrijving in het register.
 
-2. [Artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2013-01-01&g=2013-01-01), is van toepassing op een verzoek als bedoeld in het eerste lid.
+2. [Artikel 13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2015-01-01&g=2015-01-01), is van toepassing op een verzoek als bedoeld in het eerste lid.
 
-3. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, kan een persoon op zijn verzoek in het register worden ingeschreven op grond van een ander getuigschrift dan genoemd in [artikel 12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), indien:
+3. Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, kan een persoon op zijn verzoek in het register worden ingeschreven op grond van een ander getuigschrift dan genoemd in [artikel 12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), indien:
 
 - a. hij daarvoor in Nederland een opleiding volgde op het tijdstip, bedoeld in het eerste lid, onderdeel a, en
 
@@ -400,7 +400,7 @@ Vervallen
 
 ##### Artikel 30
 
-Een persoon die op het tijdstip, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2013-01-01&g=2013-01-01), of die daarna krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2013-01-01&g=2013-01-01), in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2013-01-01&g=2013-01-01), indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.
+Een persoon die op het tijdstip, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=28&z=2015-01-01&g=2015-01-01), of die daarna krachtens [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=VIIa&artikel=29&z=2015-01-01&g=2015-01-01), in het register is ingeschreven als architect, stedenbouwkundige of tuin- en landschapsarchitect kan een overeenkomstig verzoek doen als bedoeld in [artikel 12a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=2&artikel=12a&z=2015-01-01&g=2015-01-01), indien hij voldoet aan de krachtens dat lid gestelde nadere eisen.
 
 ##### Artikel 31
 
@@ -450,7 +450,7 @@ Vervallen
 
 ##### Artikel 42
 
-1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2013-01-01&g=2013-01-01) dat vijf jaar nadien in werking treedt.
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2015-01-01&g=2015-01-01) dat vijf jaar nadien in werking treedt.
 
 2. Deze wet kan worden aangehaald als Wet op de architectentitel.
 
@@ -520,7 +520,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Een dienstverrichter die niet in het register is ingeschreven, voert in Nederland uitsluitend de beroepstitel die hij voert in de betrokken staat waar hij is gevestigd in de officiële taal van die staat of in één van de officiële talen van die staat. Indien die titel in de betrokken staat waar hij is gevestigd niet bestaat treedt de dienstverrichter in Nederland op onder vermelding van de titel die bij zijn opleiding hoort in de officiële taal van de staat waar hij is gevestigd of in één van de officiële talen van die staat.
 
-2. Een dienstverrichter heeft het recht gebruik te maken van academische titels die hem zijn verleend in een andere betrokken staat, en eventueel van de afkorting daarvan, in de officiële taal van die staat of in één van de officiële talen van die staat. [Artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=24&z=2013-01-01&g=2013-01-01), is van overeenkomstige toepassing.
+2. Een dienstverrichter heeft het recht gebruik te maken van academische titels die hem zijn verleend in een andere betrokken staat, en eventueel van de afkorting daarvan, in de officiële taal van die staat of in één van de officiële talen van die staat. [Artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=24&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 3. Een dienstverrichter kan op verzoek voor de duur van de dienstverrichting onder vermelding van die hoedanigheid als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect worden ingeschreven in het register. De dienstverrichter doet bij zijn aanvraag de volgende stukken aan het bureau toekomen:
 
@@ -534,7 +534,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Het bureau beslist binnen vier weken na ontvangst van een verzoek als bedoeld in het derde lid.
 
-6. De inschrijving van een dienstverrichter of de verlenging van die inschrijving wordt geëffectueerd zodra het bureau de krachtens [artikel 8, aanhef en onderdeel a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2013-01-01&g=2013-01-01), vastgestelde vergoeding heeft ontvangen.
+6. De inschrijving van een dienstverrichter of de verlenging van die inschrijving wordt geëffectueerd zodra het bureau de krachtens [artikel 8, aanhef en onderdeel a of d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=3&artikel=8&z=2015-01-01&g=2015-01-01), vastgestelde vergoeding heeft ontvangen.
 
 ##### Artikel 27c
 
@@ -550,27 +550,27 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 3a
 
-1. Voor de toepassing van [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.
+1. Voor de toepassing van [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.
 
-2. In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=33) wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), ingediend door een bevoegde autoriteit uit een andere betrokken staat.
+2. In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=33) wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), ingediend door een bevoegde autoriteit uit een andere betrokken staat.
 
 3. Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=30) ingediend bij Onze Minister van Justitie.
 
-4. Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01), mits het verzoek deugdelijk is gemotiveerd.
+4. Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), mits het verzoek deugdelijk is gemotiveerd.
 
 ##### Artikel 3b
 
-1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2013-01-01&g=2013-01-01) is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
+1. Voor de toepassing van de [artikelen 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=35) en [36 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=36) wordt als aanvrager aangemerkt de persoon die krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVb&artikel=13&z=2015-01-01&g=2015-01-01) is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.
 
-2. Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3a&z=2013-01-01&g=2013-01-01), en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
+2. Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3a&z=2015-01-01&g=2015-01-01), en vraagt zijn instemming met het in behandeling nemen van de aanvraag.
 
 3. Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.
 
 ##### Artikel 3c
 
-1. Onze Minister van Justitie informeert de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2013-01-01&g=2013-01-01), ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
+1. Onze Minister van Justitie informeert de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2015-01-01&g=2015-01-01), ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.
 
-2. Onze Minister van Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2013-01-01&g=2013-01-01).
+2. Onze Minister van Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de persoon, bedoeld in [artikel 3b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=III&paragraaf=1&artikel=3b&z=2015-01-01&g=2015-01-01).
 
 3. Onze Minister van Justitie stelt de bevoegde autoriteit uit een andere betrokken staat zo spoedig mogelijk op de hoogte van de afgifte dan wel weigering van de verklaring omtrent het gedrag. Bij de kennisgeving over de afgifte van de verklaring omtrent het gedrag wordt de strekking van de afgegeven verklaring omtrent het gedrag medegedeeld.
 
@@ -622,13 +622,13 @@ Het bestuur stelt een bestuursreglement vast.
 
 ##### Artikel 12d
 
-1. Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+1. Een persoon die in het bezit is van een getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), waarvan de inrichting voldoet aan de voorschriften, bedoeld in het derde lid van die artikelen, wordt op verzoek in het register ingeschreven, indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
 
-2. Het eerste lid is niet van toepassing op een persoon, die in het jaar waarin de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), worden bekend gemaakt of in de twee daaropvolgende jaren het getuigschrift, bedoeld in het eerste lid, heeft behaald.
+2. Het eerste lid is niet van toepassing op een persoon, die in het jaar waarin de regels, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), worden bekend gemaakt of in de twee daaropvolgende jaren het getuigschrift, bedoeld in het eerste lid, heeft behaald.
 
-3. Het bureau kan besluiten dat het getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), een vrijstelling oplevert van de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), indien:
+3. Het bureau kan besluiten dat het getuigschrift van een opleiding als bedoeld in [artikel 9, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), een vrijstelling oplevert van de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), indien:
 
-- a. het praktijkgedeelte van die opleiding wat betreft inrichting en inhoud vergelijkbaar is aan hetgeen daaromtrent krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2013-01-01&g=2013-01-01), is bepaald ten aanzien van de tweejarige beroepservaringperiode;
+- a. het praktijkgedeelte van die opleiding wat betreft inrichting en inhoud vergelijkbaar is aan hetgeen daaromtrent krachtens [artikel 12e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), is bepaald ten aanzien van de tweejarige beroepservaringperiode;
 
 - b. geborgd is dat de persoon die in het bezit is van het getuigschrift het praktijkgedeelte van die opleiding overeenkomstig onderdeel a heeft gevolgd, en
 
@@ -636,7 +636,7 @@ Het bestuur stelt een bestuursreglement vast.
 
 ##### Artikel 12e
 
-1. De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01), onder begeleiding van een persoon die bij de aanvang van de begeleiding blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam is in datzelfde beroep.
+1. De tweejarige beroepservaringperiode is gericht op het zich in de praktijk bekwamen in de uitoefening van het beroep waarvoor met goed gevolg een opleiding is gevolgd als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), onder begeleiding van een persoon die bij de aanvang van de begeleiding blijkens de inschrijving in het register ten minste drie jaar beroepsmatig werkzaam is in datzelfde beroep.
 
 2. Het bureau stelt regels vast met betrekking tot de tweejarige beroepservaringperiode. Die regels hebben in ieder geval betrekking op:
 
@@ -654,11 +654,11 @@ Het bestuur stelt een bestuursreglement vast.
 
 ##### Artikel 23a
 
-1. Een bureau dat werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur is slechts gerechtigd in of bij zijn naam een titel als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2013-01-01&g=2013-01-01), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, te voeren, indien de bestuurder van dat bureau of ten minste de helft van de bestuurders krachtens deze wet gerechtigd is om de desbetreffende titel te voeren.
+1. Een bureau dat werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur is slechts gerechtigd in of bij zijn naam een titel als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2015-01-01&g=2015-01-01), of een afkorting van die titel, hetzij zonder nadere aanduiding, hetzij in een woordsamenstelling waarin die titel of een afkorting daarvan voorkomt, te voeren, indien de bestuurder van dat bureau of ten minste de helft van de bestuurders krachtens deze wet gerechtigd is om de desbetreffende titel te voeren.
 
 2. Een bureau dat aan het eerste lid voldoet, is slechts gerechtigd in of bij zijn naam een titel of afkorting als bedoeld in dat lid te combineren met een naam van een natuurlijke persoon indien die persoon krachtens deze wet gerechtigd is de desbetreffende titel te voeren.
 
-3. Tegen een bureau dat handelt in strijd met het eerste of tweede lid kan overeenkomstig [artikel 23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2013-01-01&g=2013-01-01), een vordering worden ingesteld als bedoeld in artikel 23, tweede lid. Op die vordering is artikel 23, vierde lid, van toepassing.
+3. Tegen een bureau dat handelt in strijd met het eerste of tweede lid kan overeenkomstig [artikel 23, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=V&artikel=23&z=2015-01-01&g=2015-01-01), een vordering worden ingesteld als bedoeld in artikel 23, tweede lid. Op die vordering is artikel 23, vierde lid, van toepassing.
 
 ### Hoofdstuk VI. Examens
 
@@ -676,7 +676,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het bureau kan, gehoord een door hem ingestelde commissie van deskundigen, een persoon, die werkzaam is op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur en die zich door de kwaliteit van zijn prestaties op het betreffende gebied naar het oordeel van het bureau in het bijzonder heeft onderscheiden, een certificaat verlenen op grond waarvan hij zich kan doen inschrijven in het register.
 
-2. Het bureau stelt nadere eisen vast, waaraan een ingeschrevene moet voldoen, die onder een andere titel in het register wenst te worden ingeschreven. Het verzoek kan uitsluitend worden gedaan door een persoon, die in het register is ingeschreven op grond van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2013-01-01&g=2013-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2013-01-01&g=2013-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2013-01-01&g=2013-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2013-01-01&g=2013-01-01).
+2. Het bureau stelt nadere eisen vast, waaraan een ingeschrevene moet voldoen, die onder een andere titel in het register wenst te worden ingeschreven. Het verzoek kan uitsluitend worden gedaan door een persoon, die in het register is ingeschreven op grond van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel a, b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01).
 
 3. De nadere eisen, bedoeld in het tweede lid, hebben in ieder geval betrekking op het aantal jaren gedurende welke de verzoeker werkzaam is op het vakgebied waarvoor hij zich in het register wenst in te schrijven, op de kwaliteit en kwantiteit van de door hem geleverde prestaties op het desbetreffende vakgebied en ingeval hij deel uitmaakt van een multidisciplinair team op de meetbaarheid van de aan hem toe te rekenen prestaties of inbreng.
 
@@ -704,7 +704,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ##### Artikel 12c
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
+
+2. Een persoon die in het bezit is van een getuigschrift als bedoeld in [artikel 9, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=9&z=2015-01-01&g=2015-01-01), [10, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=10&z=2015-01-01&g=2015-01-01), [11, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=11&z=2015-01-01&g=2015-01-01), of [12, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IV&paragraaf=1&artikel=12&z=2015-01-01&g=2015-01-01), wordt in het register ingeschreven indien hij in het derde land, waar hij dat getuigschrift heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in [artikel 12e](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa&artikel=12e&z=2015-01-01&g=2015-01-01), heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.
 
 ### Hoofdstuk IVb. Inschrijving en doorhaling in het register
 
