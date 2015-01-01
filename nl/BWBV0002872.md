@@ -4,7 +4,7 @@ identifier: "BWBV0002872"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-01-01"
-last_updated: "2007-10-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002872"
 soort: "verdrag"
@@ -191,9 +191,11 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 2. De vrijstelling van rechtsvordering geldt niet in geval van een door derden ingediende civiele rechtsvordering ter zake van schade die voortvloeit uit een door de Directeur-Generaal begane verkeersovertreding, of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem wordt bestuurd.
 
-3. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland, en die niet behoren tot het personeel van een rechtsvoorganger van de Organisatie, met uitzondering van handelingen verricht in de uitoefening van hun functie.
+3. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland, en die niet behoren tot het personeel van een rechtsvoorganger van de Organisatie, met uitzondering van:
 
-4. Dit artikel doet geen afbreuk aan regelingen in deze Overeenkomst of het Protocol.
+- a. de vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij de Organisatie worden betaald, met dien verstande dat deze vrijstelling niet geldt voor het opnemen van een spaartegoed onder de levensloopregeling; en
+
+- b. de immuniteit ten aanzien van handelingen verricht in de uitoefening van hun functie.
 
 ##### Artikel 12. Voorrechten en immuniteiten van het personeel van de Organisatie
 
@@ -201,21 +203,23 @@ Ten aanzien van de terugbetaling van de genoemde omzetbelasting zijn de door de 
 
 2. Leden van het administratief en technisch personeel van de Organisatie die hun werkzaamheden in Nederland uitoefenen, alsmede hun inwonende gezinsleden, genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan administratief en technisch personeel van de diplomatieke vertegenwoordigingen die in Nederland zijn gevestigd overeenkomstig het Verdrag van Wenen, met dien verstande dat immuniteit ten aanzien van de rechtsmacht in strafzaken en persoonlijke onschendbaarheid zich niet uitstrekken tot handelingen verricht buiten de uitoefening van hun functie.
 
-3. Leden van het bedienend personeel van de Organisatie die hun werkzaamheden in Nederland uitoefenen, alsmede hun inwonende gezinsleden, genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan bedienend personeel van de diplomatieke vertegenwoordigingen die in Nederland zijn gevestigd overeenkomstig het Verdrag van Wenen, met dien verstande dat loon ontvangen uit de betrekking bij de Organisatie belastbaar is in de Staat waar zij geacht worden inwoner te zijn, in overeenstemming met de bepalingen van de toepasselijke verdragen ter voorkoming van dubbele belasting.
+3. Leden van het bedienend personeel van de Organisatie die hun werkzaamheden in Nederland uitoefenen, genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan bedienend personeel van de diplomatieke vertegenwoordigingen die in Nederland zijn gevestigd overeenkomstig het Verdrag van Wenen.
 
 4. Het Gastland bepaalt, in samenwerking met de Organisatie, welke categorieën personeel onder welke van de drie groepen, als vervat in de leden een tot en met drie van dit artikel, vallen.
 
 5. De vrijstelling van rechtsvordering geldt niet in geval van een door derden ingediende civiele rechtsvordering ter zake van schade die voortvloeit uit een door het personeelslid begane verkeersovertreding, of in geval van schade veroorzaakt door een motorvoertuig dat hem toebehoort of dat door hem wordt bestuurd.
 
-6. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland, met uitzondering van handelingen verricht in de uitoefening van hun functie.
+6. Het bepaalde in de voorgaande leden van dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland, met uitzondering van:
+
+- a. de vrijstelling van belasting op de salarissen, emolumenten en vergoedingen die ter zake van hun dienstverband bij de Organisatie worden betaald, met dien verstande dat deze vrijstelling niet geldt voor het opnemen van een spaartegoed onder de levensloopregeling; en
+
+- b. de immuniteit ten aanzien van handelingen verricht in de uitoefening van hun functie.
 
 7. Dit artikel doet geen afbreuk aan regelingen in deze Overeenkomst of het Protocol.
 
 ##### Artikel 13. Fiscale heffing inkomsten en vermogensbestanddelen
 
-1. Voor de toepassing van de belastingen naar het inkomen en naar het vermogen zijn de inkomsten en vermogensbestanddelen van de Directeur-Generaal en de personeelsleden van de Organisatie belastbaar in de Staat waar zij geacht worden inwoner te zijn, in overeenstemming met de bepalingen van de toepasselijke verdragen ter voorkoming van dubbele belasting.
-
-2. Dit artikel doet geen afbreuk aan de regelingen ingevolge de artikelen 11 en 12 van deze Overeenkomst.
+Vervallen
 
 ##### Artikel 14. Deskundigen
 
@@ -289,9 +293,7 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, hun plaatsvervanger
 
 ##### Artikel 19. Sociale zekerheid
 
-1. In het geval dat de Organisatie een eigen stelsel van sociale zekerheid heeft dat vergelijkbaar is met het Nederlandse stelsel, of deelneemt aan een met de Nederlandse regeling vergelijkbaar stelsel van sociale zekerheid, zijn de Organisatie, en haar personeelsleden op wie het bovengenoemde stelsel van toepassing is, uitgezonderd van de Nederlandse sociale zekerheidsbepalingen, tenzij de functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is, in Nederland betaalde arbeid verrichten anders dan uit hoofde van de vorenbedoelde betrekking.
-
-2. Het eerste lid van dit artikel is van overeenkomstige toepassing op gezinsleden die deel uitmaken van het huishouden van personen, bedoeld in het eerste lid van dit artikel, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de Organisatie, arbeid als zelfstandige verrichten of uitkeringen ingevolge het Nederlandse stelsel van sociale zekerheid ontvangen.
+In het geval dat de Organisatie een eigen stelsel van sociale zekerheid heeft dat vergelijkbaar is met het Nederlandse stelsel, of deelneemt aan een met de Nederlandse regeling vergelijkbaar stelsel van sociale zekerheid, zijn de Organisatie, en haar personeelsleden op wie het bovengenoemde stelsel van toepassing is, uitgezonderd van de Nederlandse sociale zekerheidsbepalingen, tenzij de functionarissen en andere werknemers op wie het bovengenoemde stelsel van toepassing is, in Nederland betaalde arbeid verrichten anders dan uit hoofde van de vorenbedoelde betrekking.
 
 ##### Artikel 20. Interpretatie van de Overeenkomst
 
