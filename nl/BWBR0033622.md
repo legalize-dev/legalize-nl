@@ -4,7 +4,7 @@ identifier: "BWBR0033622"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033622"
 soort: "AMvB"
@@ -48,15 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Van overschrijding van de in [artikel 2, tweede lid, onderdeel h, van de Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0014779&artikel=2) bedoelde drempel is sprake in de volgende gevallen:
-
-- a). de beheerskosten in het jaar waarop het jaarverslag betrekking heeft, bedragen meer dan 15% van het bedrag dat in dat jaar is geïnd,
-
-- b). de beheerskosten in het jaar waarop het jaarverslag betrekking heeft bedragen meer dan 15% van het bedrag dat in dat jaar is verdeeld, of
-
-- c). de beheerskosten in het jaar waarop het jaarverslag betrekking heeft ten opzichte van de beheerskosten in het voorafgaande jaar zijn gestegen met meer dan de consumentenprijsindex van het jaar waarop het jaarverslag betrekking heeft.
-
-2. Een collectieve beheersorganisatie die de verdeling van rechtstreeks bij de gebruiker geïnde bedragen opdraagt aan een of meer andere collectieve beheersorganisaties baseert de berekening van het percentage als bedoeld in het eerste lid onder b op de gezamenlijke beheerskosten van de collectieve beheersorganisaties die betrokken zijn geweest bij de inning en de verdeling van de bedragen.
+Vervallen
 
 ##### Artikel 2
 
@@ -76,6 +68,6 @@ De in [artikel 17, tweede lid, van de Wet toezicht en geschillenbeslechting coll
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2013. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 juni 2013, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 juli 2013.
 
-2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033622&artikel=1&z=2013-07-01&g=2013-07-01) vervalt met ingang van 1 januari 2015.
+2. [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033622&artikel=1&z=2015-01-01&g=2015-01-01) vervalt met ingang van 1 januari 2015.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
