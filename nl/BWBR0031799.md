@@ -4,7 +4,7 @@ identifier: "BWBR0031799"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031799"
 soort: "wet"
@@ -65,29 +65,29 @@ Vervallen
 
 ##### Artikel VI. Inwerkingtreding
 
-1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I&z=2014-01-01&g=2014-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II&z=2014-01-01&g=2014-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V&z=2014-01-01&g=2014-01-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.
+1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=I&z=2015-01-01&g=2015-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=II&z=2015-01-01&g=2015-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=V&z=2015-01-01&g=2015-01-01) van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=III&z=2014-01-01&g=2014-01-01) en [artikel IV, onderdelen A, K, L, M, N, O en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treden in werking met ingang van 1 januari 2014.
+2. [Artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=III&z=2015-01-01&g=2015-01-01) en [artikel IV, onderdelen A, K, L, M, N, O en Z](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treden in werking met ingang van 1 januari 2014.
 
-3. [Artikel IV, onderdelen B, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2015.
+3. [Artikel IV, onderdelen B, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2015.
 
-4. [Artikel IV, onderdelen C, Q en AB](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2016.
+4. [Artikel IV, onderdelen C, Q en AB](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2016.
 
-5. [Artikel IV, onderdelen D, R en AC](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2017.
+5. [Artikel IV, onderdelen D, R en AC](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2017.
 
-6. [Artikel IV, onderdelen E, S en AD](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2018.
+6. [Artikel IV, onderdelen E, S en AD](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2018.
 
-7. [Artikel IV, onderdelen F, T en AE](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2019.
+7. [Artikel IV, onderdelen F, T en AE](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2019.
 
-8. [Artikel IV, onderdelen G, U en AF](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2020.
+8. [Artikel IV, onderdelen G, U en AF](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2020.
 
-9. [Artikel IV, onderdelen H, V en AG](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2021.
+9. [Artikel IV, onderdelen H, V en AG](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2021.
 
-10. [Artikel IV, onderdelen I, W en AH](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2022.
+10. [Artikel IV, onderdelen I, W en AH](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2022.
 
-11. [Artikel IV, onderdelen J, X en AI](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2023.
+11. [Artikel IV, onderdelen J, X en AI](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2023.
 
-12. [Artikel IV, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2024.
+12. [Artikel IV, onderdeel Y](https://wetten.overheid.nl/jci1.3:c:BWBR0031799&artikel=IV&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2024.
 
 ##### Artikel VII. Citeertitel
 
