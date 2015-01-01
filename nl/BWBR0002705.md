@@ -4,7 +4,7 @@ identifier: "BWBR0002705"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2008-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002705"
 soort: "AMvB"
@@ -50,7 +50,7 @@ Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](https
 
 ##### Artikel 1a
 
-Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2008-01-01&g=2008-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2008-01-01&g=2008-01-01) bedoelde bedrag.
+Indien een beleggingsinstelling heeft gekozen voor het vormen van een herbeleggingsreserve als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2015-01-01&g=2015-01-01), wordt in afwijking van artikel 8 van de wet, niet tot de winst gerekend het in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=4&z=2015-01-01&g=2015-01-01) bedoelde bedrag.
 
 ##### Artikel 2
 
@@ -84,9 +84,9 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 1. Beleggingsinstellingen die daarvoor kiezen, kunnen een herbeleggingsreserve vormen. Deze keuze geldt ook voor volgende jaren.
 
-2. In de reserve wordt opgenomen een bedrag gelijk aan het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten en van winsten en verliezen ter zake van vervreemding van overige beleggingen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.
+2. In de reserve wordt opgenomen een bedrag gelijk aan de som van het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten, het saldo van winsten en verliezen ter zake van de vervreemding van overige beleggingen en het ingevolge [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=10&z=2015-01-01&g=2015-01-01), berekende saldo van herwaarderingswinsten en herwaarderingsverliezen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.
 
-3. Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2008-01-01&g=2008-01-01).
+3. Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in [artikel 2, tweede lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2015-01-01&g=2015-01-01).
 
 4. Indien de toepassing van het tweede en derde lid zou leiden tot een vermindering van de reserve die groter is dan de herbeleggingsreserve aan het begin van het jaar, blijft de vermindering beperkt tot de omvang van de reserve aan het begin van het jaar, en wordt het nog niet in mindering gebrachte deel aangemerkt als een verlies ter zake van vervreemding van beleggingen in het volgende jaar. De inspecteur stelt het naar het volgende jaar over te brengen verlies vast bij voor bezwaar vatbare beschikking.
 
@@ -104,7 +104,7 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 
 1. Beleggingsinstellingen kunnen een afrondingsreserve vormen.
 
-2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2008-01-01&g=2008-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
+2. De reserve bedraagt, behoudens het bepaalde in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=7&z=2015-01-01&g=2015-01-01), ten hoogste één percent van hetgeen is gestort op de bij het einde van het jaar in omloop zijnde aandelen of bewijzen van deelgerechtigdheid. Indien en voor zover de berekening van de belastbare winst tot een negatief bedrag zou leiden, wordt de reserve aan de winst toegevoegd.
 
 ##### Artikel 6
 
@@ -112,7 +112,7 @@ Vervallen
 
 ##### Artikel 7
 
-1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2008-01-01&g=2008-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2008-01-01&g=2008-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
+1. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een hoger bedrag zou moeten worden vastgesteld wordt, in plaats van het gedeelte van die verhoging dat overeenkomt met het bedrag waarmede de op de voet van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=2&z=2015-01-01&g=2015-01-01) te verrichten uitdelingen de over het jaar verrichte uitdelingen te boven gaat, een bedrag gelijk aan dat gedeelte toegevoegd aan de afrondingsreserve. Het in de vorige volzin laatstgenoemde bedrag wordt in het jaar waarin de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002705&artikel=8&z=2015-01-01&g=2015-01-01), bedoelde beschikking onherroepelijk is komen vast te staan, uit de afrondingsreserve aan de winst van de beleggingsinstelling toegevoegd.
 
 2. Indien het over een jaar berekende belastbare bedrag van een beleggingsinstelling in afwijking van de aangifte op een lager bedrag zou moeten worden vastgesteld wordt, voor zover mogelijk, in plaats daarvan tot het bedrag van de verlaging een bedrag aan de winst van dat jaar toegevoegd uit de afrondingsreserve.
 
@@ -128,15 +128,17 @@ Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het
 
 ##### Artikel 10
 
-1. Een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een fonds voor gemene rekening wordt uitsluitend met ingang van een jaar als beleggingsinstelling aangemerkt. Ingeval het lichaam vóór dat tijdstip reeds aan de heffing van vennootschapsbelasting is onderworpen, is dit het jaar volgende op dat waarin aan het bepaalde in het tweede lid is voldaan.
+1. Een lichaam wordt uitsluitend met ingang van een jaar als beleggingsinstelling aangemerkt. Ingeval het lichaam vóór dat tijdstip reeds aan de heffing van vennootschapsbelasting is onderworpen, is dit het jaar volgende op dat waarin aan het bepaalde in het tweede lid is voldaan.
 
-2. Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een fonds voor gemene rekening als beleggingsinstelling wordt aangemerkt, worden:
+2. Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een lichaam als beleggingsinstelling wordt aangemerkt, worden:
 
 - a. de bezittingen te boek gesteld voor de waarde welke daaraan in het economische verkeer kan worden toegekend;
 
 - b. de reserves als bedoeld zijn in [artikel 3.53, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.53), opgenomen in de winst.
 
 3. Ingeval een beleggingsinstelling in de loop van een jaar niet langer voldoet aan het bepaalde in artikel 28, tweede lid, van de wet wordt het lichaam reeds met ingang van dat jaar niet meer als beleggingsinstelling aangemerkt, met dien verstande dat ingeval niet wordt voldaan aan het bepaalde in het tweede lid, onderdeel **b,** van dat artikel het lichaam niet meer als beleggingsinstelling wordt aangemerkt met ingang van het jaar waarop de voor uitdeling beschikbare winst betrekking heeft. De bij het begin van het jaar, met ingang waarvan het lichaam niet meer als beleggingsinstelling wordt aangemerkt, aanwezige afrondingsreserve wordt opgenomen in de winst van dat jaar.
+
+4. Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een lichaam niet langer als beleggingsinstelling wordt aangemerkt, worden de beleggingen te boek gesteld voor de waarde welke daaraan in het economische verkeer kan worden toegekend.
 
 ##### Artikel 11
 
