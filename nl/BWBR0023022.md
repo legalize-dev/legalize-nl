@@ -4,7 +4,7 @@ identifier: "BWBR0023022"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023022"
 soort: "AMvB"
@@ -56,11 +56,11 @@ Hebben goedgevonden en verstaan:
 
 2. Als zorg, bedoeld in het eerste lid, wordt aangemerkt:
 
-- a. zorg als bedoeld in [artikel 2, eerste lid, onderdeel a tot en met l, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=2);
+- a. zorg als bedoeld in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
 - b. zorg als bedoeld in [artikel 10 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=10);
 
-- c. zorg als bedoeld in [artikel 1, onderdeel h, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1).
+- c. het schoonhouden van de woonruimte, het schoonhouden van kleding en huishoudlinnen behorende tot het huishouden van de cliënt en het ondersteunen bij of het overnemen van activiteiten op het gebied van de verzorging van de cliënt, in het kader van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362).
 
 ##### Artikel 2
 
