@@ -4,7 +4,7 @@ identifier: "BWBR0033463"
 country: "nl"
 rank: "zbo"
 publication_date: "2016-01-01"
-last_updated: "2013-05-30"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033463"
 soort: "zbo"
@@ -44,25 +44,25 @@ Besluit:
 
 ##### Artikel 1. Syllabi 2015
 
-De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2015, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1a&z=2013-05-30&g=2013-05-30), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1b&z=2013-05-30&g=2013-05-30) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1c&z=2013-05-30&g=2013-05-30) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+De syllabi, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. in 2015, voor de vakken als vermeld in respectievelijk de [bijlagen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1a&z=2015-01-01&g=2015-01-01), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1b&z=2015-01-01&g=2015-01-01) en [1c](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=1c&z=2015-01-01&g=2015-01-01) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
 
 ##### Artikel 2. Initiële vaststelling toetswijzers rekenen 2014
 
-De toetswijzers rekenen, bedoeld in [artikel 2, tweede lid, onderdeel f, van de Wet College voor examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2) worden vastgesteld voor de rekentoets in het v.w.o., h.a.v.o. en v.m.b.o. in 2014, voor de toetsen als vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=2&z=2013-05-30&g=2013-05-30) deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 3. Nadere vaststelling enkele syllabi 2014
 
-De syllabi voor de centrale examens 2014 die bij Regeling syllabi centrale examens VO 2014 zijn vastgesteld, worden nader vastgesteld voor de vakken als vermeld in respectievelijk de [bijlagen 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=3a&z=2013-05-30&g=2013-05-30), [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=3b&z=2013-05-30&g=2013-05-30) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&bijlage=3c&z=2013-05-30&g=2013-05-30) bij deze regeling, en maken na bekendmaking deel uit van deze regeling.
+Vervallen
 
 ##### Artikel 4. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt:
 
-- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=1&z=2013-05-30&g=2013-05-30): per 1 januari 2016;
+- 1. betreffende [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=1&z=2015-01-01&g=2015-01-01): per 1 januari 2016;
 
-- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=2&z=2013-05-30&g=2013-05-30): per 1 januari 2015;
+- 2. betreffende [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=2&z=2015-01-01&g=2015-01-01): per 1 januari 2015;
 
-- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=3&z=2013-05-30&g=2013-05-30): per 1 januari 2015.
+- 3. betreffende [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=3&z=2015-01-01&g=2015-01-01): per 1 januari 2015.
 
 ##### Artikel 5. Citeertitel
 
@@ -72,7 +72,7 @@ Deze regeling wordt aangehaald als: Regeling syllabi centrale examens VO 2015.
 
 1. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=1&z=2013-05-30&g=2013-05-30) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=2&z=2013-05-30&g=2013-05-30) worden bekend gemaakt op www.examenblad.nl.
+2. De syllabi als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033463&artikel=2&z=2015-01-01&g=2015-01-01) worden bekend gemaakt op www.examenblad.nl.
 
 ## Bijlage 1a. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
 
@@ -93,6 +93,8 @@ Voor de centrale examens h.a.v.o. 2015 worden syllabi voor de volgende vakken va
 Voor de centrale examens v.m.b.o. 2015 worden syllabi voor de volgende vakken vastgesteld:
 
 ## Bijlage 2. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
+
+Vervallen
 
 ### Initiële vaststelling toetswijzers rekenen 2014
 
@@ -119,3 +121,15 @@ De syllabi voor de centrale examens h.a.v.o. 2014 die bij Regeling syllabi centr
 ### Nadere vaststelling syllabi v.m.b.o. 2014
 
 De syllabi voor de centrale examens v.m.b.o. 2014 die bij Regeling syllabi centrale examens VO 2014 zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
+
+## Bijlage 3a. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
+
+Vervallen
+
+## Bijlage 3b. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
+
+Vervallen
+
+## Bijlage 3c. bij de Regeling syllabi centrale examens VO 2015, van 16 april 2013, nummer Cve-13.01219
+
+Vervallen
