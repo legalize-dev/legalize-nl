@@ -4,7 +4,7 @@ identifier: "BWBR0035944"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2014-12-18"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035944"
 soort: "AMvB"
@@ -38,25 +38,25 @@ entry_into_force: "2014-12-18"
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit houders van dieren.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Archiefbescheiden van het Productschap Pluimvee en Eieren betreffende zaken die op grond van dit besluit worden behartigd door Onze Minister, worden overgedragen aan Onze Minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel III
 
-Het [Legkippenbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015138&wetgeving) wordt ingetrokken.
+Het [Legkippenbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015138) wordt ingetrokken.
 
 ##### Artikel IV
 
-Het [Besluit voortplantingstechnieken bij dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0007863&wetgeving) wordt ingetrokken.
+Het [Besluit voortplantingstechnieken bij dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0007863) wordt ingetrokken.
 
 ##### Artikel V
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-2. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=III&z=2014-12-18&g=2014-12-18) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=IV&z=2014-12-18&g=2014-12-18) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werken terug tot en met 1 juli 2014.
+2. In afwijking van het eerste lid treden de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=III&z=2015-01-01&g=2015-01-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0035944&artikel=IV&z=2015-01-01&g=2015-01-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werken terug tot en met 1 juli 2014.
 
 Op de voordracht van Onze Minister van Economische Zaken van 3 juli 2014, nr. WJZ / 14097928;
 
