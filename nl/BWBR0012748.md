@@ -4,7 +4,7 @@ identifier: "BWBR0012748"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2012-07-03"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012748"
 soort: "ministeriele-regeling"
@@ -204,7 +204,7 @@ De jeugdige wordt voor de plaatsing in een straf- of afzonderingscel aan zijn kl
 
 2. De directeur kan de camera observatie telkenmale verlengen voor ten hoogste 24 uur.
 
-3. Alvorens de directeur beslist tot verlenging van de camera observatie wint hij advies in conform het bepaalde in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=7&artikel=26&z=2012-07-03&g=2012-07-03).
+3. Alvorens de directeur beslist tot verlenging van de camera observatie wint hij advies in conform het bepaalde in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=7&artikel=26&z=2012-07-03&g=2015-01-01).
 
 ##### Artikel 29
 
@@ -238,7 +238,7 @@ De directeur instrueert het personeelslid of de medewerker, die wordt belast met
 
 ##### Artikel 33
 
-Straf- en afzonderingscellen in inrichtingen waarvan de bouw is gestart na 1 januari 1998, voldoen in elk geval aan de eisen genoemd in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2012-07-03). Op straf- en afzonderingscellen in inrichtingen waarvan de bouw is gestart voor 1 januari 1998 is het gestelde in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2012-07-03) niet van toepassing. Deze inrichtingen worden bij de eerstvolgende grote renovatie aangepast aan de genoemde eisen, doch moeten uiterlijk op 31 december 2011 zijn aangepast aan de in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2012-07-03) genoemde eisen.
+Straf- en afzonderingscellen in inrichtingen waarvan de bouw is gestart na 1 januari 1998, voldoen in elk geval aan de eisen genoemd in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2015-01-01). Op straf- en afzonderingscellen in inrichtingen waarvan de bouw is gestart voor 1 januari 1998 is het gestelde in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2015-01-01) niet van toepassing. Deze inrichtingen worden bij de eerstvolgende grote renovatie aangepast aan de genoemde eisen, doch moeten uiterlijk op 31 december 2011 zijn aangepast aan de in [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012748&paragraaf=3&z=2012-07-03&g=2015-01-01) genoemde eisen.
 
 #### Paragraaf 10. Slotbepalingen
 
