@@ -4,7 +4,7 @@ identifier: "BWBR0033586"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033586"
 soort: "wet"
@@ -124,8 +124,8 @@ een bewaarder aanstelt die is gevestigd in een andere lidstaat dan de lidstaat w
 
 ##### Artikel VIII
 
-1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
+1. Deze wet, met uitzondering van [artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 22 juli 2013. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 juli 2013, treedt zij, met uitzondering van artikel I, onderdelen AJ, AO, AP, AT en BB, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-2. [Artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
+2. [Artikel I, onderdelen AJ, AO, AP, AT en BB](https://wetten.overheid.nl/jci1.3:c:BWBR0033586&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
