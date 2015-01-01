@@ -4,7 +4,7 @@ identifier: "BWBR0030883"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2023-07-01"
-last_updated: "2013-01-25"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030883"
 soort: "wet-BES"
@@ -203,7 +203,7 @@ In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, ver
 
 - b. indien de onderneming haar zetel heeft in een ander land van het Koninkrijk: het desbetreffende land;
 
-- **toezichtautoriteit:** de Nederlandsche Bank of de Autoriteit Financiële Markten, elk voor zover zij ingevolge de [artikelen 1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2013-01-25&g=2013-01-25) en [1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2013-01-25&g=2013-01-25) zijn belast met de uitvoering of handhaving van het bij of krachtens deze wet bepaalde;
+- **toezichtautoriteit:** de Nederlandsche Bank of de Autoriteit Financiële Markten, elk voor zover zij ingevolge de [artikelen 1:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2015-01-01&g=2015-01-01) en [1:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2015-01-01&g=2015-01-01) zijn belast met de uitvoering of handhaving van het bij of krachtens deze wet bepaalde;
 
 - **toezichthoudende instantie:** overheidsinstantie of van overheidswege aangewezen instantie, niet zijnde de Nederlandsche Bank of de Autoriteit Financiële Markten, die is belast met het toezicht op financiële markten of op die markten werkzame personen;
 
@@ -261,17 +261,17 @@ De rechtsgeldigheid van een privaatrechtelijke rechtshandeling, verricht in stri
 
 1. Prudentieel toezicht is gericht op de soliditeit van financiële ondernemingen en het bijdragen aan de stabiliteit van de financiële sector.
 
-2. De Nederlandsche Bank heeft op de grondslag van deze wet, in het bijzonder de [artikelen 3:9, eerste en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), [3:16 tot en met 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:6&z=2013-01-25&g=2013-01-25), [3:27 tot en met 3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:27&z=2013-01-25&g=2013-01-25), [3:44 tot en met 3:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2013-01-25&g=2013-01-25), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2013-01-25&g=2013-01-25)en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&z=2013-01-25&g=2013-01-25), tot taak prudentieel toezicht op financiële ondernemingen uit te oefenen.
+2. De Nederlandsche Bank heeft op de grondslag van deze wet, in het bijzonder de [artikelen 3:9, eerste en tweede lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), [3:16 tot en met 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:6&z=2015-01-01&g=2015-01-01), [3:27 tot en met 3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:27&z=2015-01-01&g=2015-01-01), [3:44 tot en met 3:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2015-01-01&g=2015-01-01), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2015-01-01&g=2015-01-01)en [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&z=2015-01-01&g=2015-01-01), tot taak prudentieel toezicht op financiële ondernemingen uit te oefenen.
 
-3. De Nederlandsche Bank heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2013-01-25&g=2013-01-25), aan de Autoriteit Financiële Markten opgedragen gedragstoezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde. Tevens heeft zij tot taak toezicht uit te oefenen op de naleving van de bij of krachtens de [artikelen 2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25) gestelde regels.
+3. De Nederlandsche Bank heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2015-01-01&g=2015-01-01), aan de Autoriteit Financiële Markten opgedragen gedragstoezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde. Tevens heeft zij tot taak toezicht uit te oefenen op de naleving van de bij of krachtens de [artikelen 2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01) gestelde regels.
 
 ##### Artikel 1:6. (taakstelling Autoriteit Financiële Markten)
 
 1. Gedragstoezicht is gericht op ordelijke en transparante financiëlemarktprocessen, zuivere verhoudingen tussen marktpartijen en zorgvuldige behandeling van consumenten of cliënten.
 
-2. De Autoriteit Financiële Markten heeft op de grondslag van deze wet, in het bijzonder de [artikelen 3:9, eerste en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), [3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2013-01-25&g=2013-01-25), [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:12&z=2013-01-25&g=2013-01-25) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&z=2013-01-25&g=2013-01-25), tot taak gedragstoezicht op financiële markten uit te oefenen.
+2. De Autoriteit Financiële Markten heeft op de grondslag van deze wet, in het bijzonder de [artikelen 3:9, eerste en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), [3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2015-01-01&g=2015-01-01), [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:12&z=2015-01-01&g=2015-01-01) en [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&z=2015-01-01&g=2015-01-01), tot taak gedragstoezicht op financiële markten uit te oefenen.
 
-3. De Autoriteit Financiële Markten heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2013-01-25&g=2013-01-25), aan de Nederlandsche Bank opgedragen prudentiële toezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde.
+3. De Autoriteit Financiële Markten heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2015-01-01&g=2015-01-01), aan de Nederlandsche Bank opgedragen prudentiële toezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde.
 
 ##### Artikel 1:7. (bevoegdheid inlichtingen te vorderen)
 
@@ -307,13 +307,13 @@ Vervallen
 
 ##### Artikel 1:12. (onderzoek naar toereikendheid of uitvoering van de wet)
 
-1. De toezichtautoriteit verstrekt Onze Minister desgevraagd de gegevens en inlichtingen die nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de toezichtautoriteit deze wet uitvoert, met uitzondering van vertrouwelijke gegevens als bedoeld in [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), die:
+1. De toezichtautoriteit verstrekt Onze Minister desgevraagd de gegevens en inlichtingen die nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de toezichtautoriteit deze wet uitvoert, met uitzondering van vertrouwelijke gegevens als bedoeld in [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), die:
 
 - a. betrekking hebben of herleidbaar zijn tot afzonderlijke personen;
 
 - b. zijn ontvangen van de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, tenzij die autoriteit of instantie instemt met het verstrekken van de gegevens.
 
-2. De uitzondering, bedoeld in het eerste lid, onderdeel a, geldt niet voor zover het gegevens betreft die betrekking hebben op of herleidbaar zijn tot een financiële onderneming waarvan op grond van deze wet de vergunning is ingetrokken, of een financiële onderneming ten aanzien waarvan surseance van betaling is verleend of ten aanzien waarvan de noodregeling, bedoeld in [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2013-01-25&g=2013-01-25), is uitgesproken, of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.
+2. De uitzondering, bedoeld in het eerste lid, onderdeel a, geldt niet voor zover het gegevens betreft die betrekking hebben op of herleidbaar zijn tot een financiële onderneming waarvan op grond van deze wet de vergunning is ingetrokken, of een financiële onderneming ten aanzien waarvan surseance van betaling is verleend of ten aanzien waarvan de noodregeling, bedoeld in [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2015-01-01&g=2015-01-01), is uitgesproken, of die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.
 
 3. [Artikel 1:42, derde tot en met zesde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:42) is van overeenkomstige toepassing op de verstrekking van gegevens als bedoeld in het tweede lid.
 
@@ -333,9 +333,9 @@ Vervallen
 
 ##### Artikel 1:14. (advies bij vergunningverlening)
 
-1. Indien de Nederlandsche Bank in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de [artikelen 3:9, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), [3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2013-01-25&g=2013-01-25) of [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:12&z=2013-01-25&g=2013-01-25) gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Autoriteit Financiële Markten.
+1. Indien de Nederlandsche Bank in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de [artikelen 3:9, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), [3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2015-01-01&g=2015-01-01) of [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:12&z=2015-01-01&g=2015-01-01) gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Autoriteit Financiële Markten.
 
-2. Indien de Autoriteit Financiële Markten in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de [artikelen 3:9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2013-01-25&g=2013-01-25), [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:18&z=2013-01-25&g=2013-01-25), [3:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:22&z=2013-01-25&g=2013-01-25) of [4:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2013-01-25&g=2013-01-25), gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Nederlandsche Bank.
+2. Indien de Autoriteit Financiële Markten in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de [artikelen 3:9, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2015-01-01&g=2015-01-01), [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01), [3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:18&z=2015-01-01&g=2015-01-01), [3:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:22&z=2015-01-01&g=2015-01-01) of [4:5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2015-01-01&g=2015-01-01), gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Nederlandsche Bank.
 
 3. De om advies gevraagde toezichtautoriteit brengt haar advies schriftelijk uit binnen vier weken na het verzoek. Het advies maakt deel uit van de beslissing op de aanvraag om vergunning.
 
@@ -343,7 +343,7 @@ Vervallen
 
 ##### Artikel 1:15. (advies over verklaring van geen bezwaar)
 
-De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid advies uit te brengen alvorens zij met betrekking tot een gekwalificeerde deelneming in een beleggingsinstelling of een vermogensbeheerder een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25) verleent. [Artikel 1:14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=3&artikel=1:14&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid advies uit te brengen alvorens zij met betrekking tot een gekwalificeerde deelneming in een beleggingsinstelling of een vermogensbeheerder een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01) verleent. [Artikel 1:14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=3&artikel=1:14&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 1:16. (advies over bestuurlijke maatregelen)
 
@@ -353,21 +353,21 @@ De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid 
 
 - b. het geven van een aanwijzing, strekkende tot het doen heenzenden van een persoon die het beleid van een financiële onderneming bepaalt of mede bepaalt, of van een persoon die onderdeel is van een orgaan, belast met het toezicht op het beleid en de algemene gang van zaken binnen een financiële onderneming;
 
-- c. de benoeming van een curator op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2013-01-25&g=2013-01-25) of [7:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:15&z=2013-01-25&g=2013-01-25);
+- c. de benoeming van een curator op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2015-01-01&g=2015-01-01) of [7:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:15&z=2015-01-01&g=2015-01-01);
 
-- d. het opleggen van een verbod als bedoeld in [artikel 7:20, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25).
+- d. het opleggen van een verbod als bedoeld in [artikel 7:20, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01).
 
 2. De zienswijze wordt schriftelijk naar voren gebracht, tenzij de vereiste spoed zich daartegen verzet.
 
-3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het aanvragen van een faillissement op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917) of het aanvragen van de noodregeling op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2013-01-25&g=2013-01-25).
+3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het aanvragen van een faillissement op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917) of het aanvragen van de noodregeling op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 1:17. (bindende aanbeveling bij negatieve bestuurderstoets)
 
-1. Indien de toezichtautoriteit constateert dat een persoon die het beleid van een financiële onderneming waaraan door de andere toezichtautoriteit vergunning is of wordt verleend, bepaalt of mede bepaalt dan wel zal bepalen of mede bepalen, niet of niet meer voldoet aan de bij of krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25) of[3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2013-01-25&g=2013-01-25) gestelde regels, kan zij de andere toezichtautoriteit een bindende aanbeveling doen voor een door die toezichtautoriteit te treffen maatregel, te geven oordeel of te nemen beslissing.
+1. Indien de toezichtautoriteit constateert dat een persoon die het beleid van een financiële onderneming waaraan door de andere toezichtautoriteit vergunning is of wordt verleend, bepaalt of mede bepaalt dan wel zal bepalen of mede bepalen, niet of niet meer voldoet aan de bij of krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01) of[3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2015-01-01&g=2015-01-01) gestelde regels, kan zij de andere toezichtautoriteit een bindende aanbeveling doen voor een door die toezichtautoriteit te treffen maatregel, te geven oordeel of te nemen beslissing.
 
 2. Een aanbeveling als bedoeld in het eerste lid is met redenen omkleed en wordt, tenzij de vereiste spoed zich daartegen verzet, schriftelijk gedaan. Indien de aanbeveling spoedshalve mondeling wordt gedaan, wordt zij zo spoedig mogelijk schriftelijk bevestigd.
 
-3. De toezichtautoriteit tot wie de aanbeveling is gericht, geeft daaraan zo spoedig mogelijk uitvoering. De aanbeveling of, indien de aanbeveling mondeling is gedaan, de schriftelijke bevestiging daarvan maakt deel uit van de beslissing waarbij uitvoering wordt gegeven aan de aanbeveling. [Artikel 1:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=3&artikel=1:16&z=2013-01-25&g=2013-01-25), is niet van toepassing.
+3. De toezichtautoriteit tot wie de aanbeveling is gericht, geeft daaraan zo spoedig mogelijk uitvoering. De aanbeveling of, indien de aanbeveling mondeling is gedaan, de schriftelijke bevestiging daarvan maakt deel uit van de beslissing waarbij uitvoering wordt gegeven aan de aanbeveling. [Artikel 1:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=3&artikel=1:16&z=2015-01-01&g=2015-01-01), is niet van toepassing.
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing ten aanzien van personen die deel uitmaken of zullen gaan uitmaken van een orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken binnen de financiële onderneming.
 
@@ -375,9 +375,9 @@ De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid 
 
 1. De toezichtautoriteit werkt samen met de toezichthoudende instanties in de andere landen van het Koninkrijk, indien dat voor de vervulling van haar taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instanties nodig is.
 
-2. De toezichtautoriteit verstrekt, met inachtneming van [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2013-01-25&g=2013-01-25), op verzoek aan een toezichthoudende instantie in een ander land van het Koninkrijk alle gegevens en inlichtingen die voor de vervulling van de taak van die toezichthoudende instantie nodig zijn.
+2. De toezichtautoriteit verstrekt, met inachtneming van [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2015-01-01&g=2015-01-01), op verzoek aan een toezichthoudende instantie in een ander land van het Koninkrijk alle gegevens en inlichtingen die voor de vervulling van de taak van die toezichthoudende instantie nodig zijn.
 
-3. De toezichtautoriteit kan, met inachtneming van [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2013-01-25&g=2013-01-25), aan een toezichthoudende instantie buiten het Koninkrijk gegevens of inlichtingen verstrekken, voor zover de uitwisseling ten behoeve van de uitoefening van toezicht door de desbetreffende toezichthoudende instantie geschiedt.
+3. De toezichtautoriteit kan, met inachtneming van [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2015-01-01&g=2015-01-01), aan een toezichthoudende instantie buiten het Koninkrijk gegevens of inlichtingen verstrekken, voor zover de uitwisseling ten behoeve van de uitoefening van toezicht door de desbetreffende toezichthoudende instantie geschiedt.
 
 4. Indien de toezichtautoriteit met een toezichthoudende instantie buiten het Koninkrijk een overeenkomst sluit met betrekking tot de uitwisseling van gegevens en inlichtingen, zendt zij onverwijld een afschrift van die overeenkomst aan Onze Minister.
 
@@ -389,13 +389,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 ##### Artikel 1:20. (geheimhoudingsplicht)
 
-1. Het is een ieder die uit hoofde van de toepassing van deze wet of van een ingevolge deze wet genomen besluit enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet zijn verstrekt of verkregen of van een instantie of persoon als bedoeld in [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2013-01-25&g=2013-01-25) of [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:23&z=2013-01-25&g=2013-01-25) zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist.
+1. Het is een ieder die uit hoofde van de toepassing van deze wet of van een ingevolge deze wet genomen besluit enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet zijn verstrekt of verkregen of van een instantie of persoon als bedoeld in [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2015-01-01&g=2015-01-01) of [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:23&z=2015-01-01&g=2015-01-01) zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist.
 
 2. De toezichtautoriteit is, in afwijking van het eerste lid, bevoegd met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen te doen, mits deze niet kunnen worden herleid tot afzonderlijke personen.
 
 ##### Artikel 1:21. (gegevensuitwisseling met andere instanties)
 
-1. De toezichtautoriteit is in afwijking van [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), eerste lid, bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, tenzij:
+1. De toezichtautoriteit is in afwijking van [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), eerste lid, bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, tenzij:
 
 - a. het doel waarvoor die gegevens of inlichtingen zullen worden gebruikt, onvoldoende bepaald is;
 
@@ -423,21 +423,21 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 ##### Artikel 1:22. (gegevensuitwisseling met opsporingsinstanties)
 
-De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan instanties die zijn belast met de uitoefening van strafvorderlijke bevoegdheden.
+De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan instanties die zijn belast met de uitoefening van strafvorderlijke bevoegdheden.
 
 ##### Artikel 1:23. (bewindvoerder, curator en rechter-commissaris)
 
-1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan een op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917)of op grond van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&z=2013-01-25&g=2013-01-25) benoemde of aangestelde rechter-commissaris, bewindvoerder of curator, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van diens taak.
+1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan een op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917)of op grond van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&z=2015-01-01&g=2015-01-01) benoemde of aangestelde rechter-commissaris, bewindvoerder of curator, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van diens taak.
 
 2. De toezichtautoriteit verstrekt geen vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid, indien verstrekking van die gegevens redelijkerwijs in strijd is of zou kunnen komen met de belangen die deze wet beoogt te beschermen. Voorts verstrekt zij geen vertrouwelijke gegevens of inlichtingen, verkregen van de andere toezichtautoriteit of een buitenlandse toezichthoudende instantie, indien de andere toezichtautoriteit of die toezichthoudende instantie niet instemt met het verstrekken van die gegevens of inlichtingen.
 
-3. Een curator die is aangesteld in het faillissement van een financiële onderneming, is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), bevoegd vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid te verstrekken aan het Gerecht, voor zover dat voor de afwikkeling van het faillissement nodig is.
+3. Een curator die is aangesteld in het faillissement van een financiële onderneming, is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), bevoegd vertrouwelijke gegevens of inlichtingen als bedoeld in het eerste lid te verstrekken aan het Gerecht, voor zover dat voor de afwikkeling van het faillissement nodig is.
 
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing op een naar het recht van het Europese deel van Nederland of het recht van Aruba, Curaçao of Sint Maarten benoemde of aangestelde rechter-commissaris, bewindvoerder of curator.
 
 ##### Artikel 1:24. (monetaire autoriteiten, externe deskundigen e.a.)
 
-1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan:
+1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan:
 
 - a. de Nederlandsche Bank, handelend in haar hoedanigheid van monetaire autoriteit, of buitenlandse monetaire autoriteiten, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van de monetaire taak;
 
@@ -445,23 +445,23 @@ De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wet
 
 - c. de houder van een effectenbeurs, voor zover de gegevens of inlichtingen nodig zijn voor de controle op de naleving van de voor die beurs te hanteren regels.
 
-2. [Artikel 1:21, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+2. [Artikel 1:21, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 1:25. (verklaringen in burgerlijke zaken)
 
-[Artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen, verkregen bij de vervulling van een op grond van deze wet opgedragen taak, voor zover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een financiële onderneming die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.
+[Artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen, verkregen bij de vervulling van een op grond van deze wet opgedragen taak, voor zover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een financiële onderneming die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.
 
 #### § 5. **Vrijstelling en ontheffing**
 
 ##### Artikel 1:26. (vrijstelling)
 
-Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende voorschriften, vrijstelling worden verleend van de bij of krachtens de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), [2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25), [3:1 tot en met 6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25) en [8:1 tot en met 8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:1&z=2013-01-25&g=2013-01-25) gestelde regels, indien de belangen die deze wet beoogt te beschermen, zich daartegen niet verzetten.
+Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende voorschriften, vrijstelling worden verleend van de bij of krachtens de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), [2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01), [3:1 tot en met 6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01) en [8:1 tot en met 8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:1&z=2015-01-01&g=2015-01-01) gestelde regels, indien de belangen die deze wet beoogt te beschermen, zich daartegen niet verzetten.
 
 ##### Artikel 1:27. (ontheffing)
 
 1. De toezichtautoriteit kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van:
 
-- a. de [artikelen 2:3, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), [2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25), [2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25), [3:16 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2013-01-25&g=2013-01-25), [3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:24&z=2013-01-25&g=2013-01-25), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2013-01-25&g=2013-01-25), [3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2013-01-25&g=2013-01-25), [3:36](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2013-01-25&g=2013-01-25), [3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25), [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25), [4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2013-01-25&g=2013-01-25), [4:4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:4&z=2013-01-25&g=2013-01-25), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2013-01-25&g=2013-01-25), [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:10&z=2013-01-25&g=2013-01-25), [4:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:11&z=2013-01-25&g=2013-01-25), [4:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:14&z=2013-01-25&g=2013-01-25), [4:31](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:31&z=2013-01-25&g=2013-01-25), [4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:39&z=2013-01-25&g=2013-01-25), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2013-01-25&g=2013-01-25), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:5&z=2013-01-25&g=2013-01-25), [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:6&z=2013-01-25&g=2013-01-25), [5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2013-01-25&g=2013-01-25), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25) en [5:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2013-01-25&g=2013-01-25);
+- a. de [artikelen 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), [2:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01), [2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01), [3:16 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2015-01-01&g=2015-01-01), [3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:24&z=2015-01-01&g=2015-01-01), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2015-01-01&g=2015-01-01), [3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2015-01-01&g=2015-01-01), [3:36](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2015-01-01&g=2015-01-01), [3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01), [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01), [4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2015-01-01&g=2015-01-01), [4:4, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:4&z=2015-01-01&g=2015-01-01), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2015-01-01&g=2015-01-01), [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:10&z=2015-01-01&g=2015-01-01), [4:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:11&z=2015-01-01&g=2015-01-01), [4:14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:14&z=2015-01-01&g=2015-01-01), [4:31](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:31&z=2015-01-01&g=2015-01-01), [4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:39&z=2015-01-01&g=2015-01-01), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2015-01-01&g=2015-01-01), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:5&z=2015-01-01&g=2015-01-01), [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:6&z=2015-01-01&g=2015-01-01), [5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2015-01-01&g=2015-01-01), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01) en [5:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2015-01-01&g=2015-01-01);
 
 - b. in bij of krachtens algemene maatregel van bestuur te bepalen gevallen: de krachtens deze wet gestelde regels.
 
@@ -469,7 +469,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voorwaarden waaronder ontheffing kan worden verleend.
 
-4. De [artikelen 2:5 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:5&z=2013-01-25&g=2013-01-25), [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2013-01-25&g=2013-01-25), [2:14, aanhef en onderdelen a, b, c, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2013-01-25&g=2013-01-25), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+4. De [artikelen 2:5 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:5&z=2015-01-01&g=2015-01-01), [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2015-01-01&g=2015-01-01), [2:14, aanhef en onderdelen a, b, c, i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2015-01-01&g=2015-01-01), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 2. Markttoegang
 
@@ -517,11 +517,11 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 ##### Artikel 2:4. (voorkomen dubbele vergunningplicht DNB en AFM)
 
-1. [Artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, voor zover de in dat artikel bedoelde activiteiten betrekking hebben op een financieel product dat door de betrokken onderneming zelf of door een tot dezelfde groep behorende financiële onderneming wordt aangeboden.
+1. [Artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, voor zover de in dat artikel bedoelde activiteiten betrekking hebben op een financieel product dat door de betrokken onderneming zelf of door een tot dezelfde groep behorende financiële onderneming wordt aangeboden.
 
-2. [Artikel 2:3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, tenzij in de vergunning anders is bepaald.
+2. [Artikel 2:3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, tenzij in de vergunning anders is bepaald.
 
-3. [Artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, tenzij in de vergunning anders is bepaald.
+3. [Artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, tenzij in de vergunning anders is bepaald.
 
 ##### Artikel 2:5. (overdraagbaarheid)
 
@@ -543,9 +543,9 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 1. De toezichtautoriteit kan beslissen een aanvraag om vergunning niet te behandelen, indien:
 
-- a. de aanvrager niet heeft voldaan aan de krachtens [artikel 2:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2013-01-25&g=2013-01-25), gestelde regels, dan wel de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beslissing;
+- a. de aanvrager niet heeft voldaan aan de krachtens [artikel 2:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2015-01-01&g=2015-01-01), gestelde regels, dan wel de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beslissing;
 
-- b. de aanvrager de ingevolge [artikel 1:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:10&z=2013-01-25&g=2013-01-25), verschuldigde vergoeding, voor zover bij vooruitbetaling verschuldigd, niet heeft voldaan.
+- b. de aanvrager de ingevolge [artikel 1:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:10&z=2015-01-01&g=2015-01-01), verschuldigde vergoeding, voor zover bij vooruitbetaling verschuldigd, niet heeft voldaan.
 
 2. Alvorens toepassing te geven aan het eerste lid, aanhef en onderdeel a, stelt de toezichtautoriteit de aanvrager in de gelegenheid om zijn aanvraag binnen een door de toezichtautoriteit gestelde termijn aan te vullen.
 
@@ -559,9 +559,9 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 ##### Artikel 2:9. (opschorting beslistermijn)
 
-1. De in [artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2013-01-25&g=2013-01-25) bedoelde termijn wordt opgeschort met ingang van de dag na die waarop de toezichtautoriteit:
+1. De in [artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2015-01-01&g=2015-01-01) bedoelde termijn wordt opgeschort met ingang van de dag na die waarop de toezichtautoriteit:
 
-- a. de aanvrager krachtens [artikel 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2013-01-25&g=2013-01-25), uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld dan wel de daarvoor gestelde termijn ongebruikt is verstreken, of
+- a. de aanvrager krachtens [artikel 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2015-01-01&g=2015-01-01), uitnodigt de aanvraag aan te vullen, tot de dag waarop de aanvraag is aangevuld dan wel de daarvoor gestelde termijn ongebruikt is verstreken, of
 
 - b. de aanvrager mededeelt dat voor de beslissing op de aanvraag redelijkerwijs noodzakelijke informatie aan een buitenlandse instantie is gevraagd, tot de dag waarop deze informatie is ontvangen of verder uitstel niet meer redelijk is.
 
@@ -579,7 +579,7 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 ##### Artikel 2:10. (aanhouden beslissing in verband met vvgb)
 
-1. In afwijking van [artikel 2:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2013-01-25&g=2013-01-25), houdt de toezichtautoriteit, indien er tevens een aanvraag van een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25) is ingediend, de beslissing op een aanvraag om vergunning aan, tot uiterlijk zes weken na het tijdstip waarop de beslissing op de aanvraag van de verklaring van geen bezwaar is bekendgemaakt.
+1. In afwijking van [artikel 2:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2015-01-01&g=2015-01-01), houdt de toezichtautoriteit, indien er tevens een aanvraag van een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01) is ingediend, de beslissing op een aanvraag om vergunning aan, tot uiterlijk zes weken na het tijdstip waarop de beslissing op de aanvraag van de verklaring van geen bezwaar is bekendgemaakt.
 
 2. Indien binnen de in het eerste lid genoemde termijn een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) is ingediend tegen de beslissing op de aanvraag van een verklaring van geen bezwaar, houdt de toezichtautoriteit de beslissing op de aanvraag om vergunning aan tot uiterlijk twee weken na het tijdstip waarop op dat verzoek is beslist.
 
@@ -587,15 +587,15 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 ##### Artikel 2:11. (verlening van de vergunning)
 
-De toezichtautoriteit verleent de vergunning, indien de aanvrager aantoont dat zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de [artikelen 3:1 tot en met 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25), [3:8 tot en met 3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:8&z=2013-01-25&g=2013-01-25), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2013-01-25&g=2013-01-25), [3:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:34&z=2013-01-25&g=2013-01-25) en [3:44 tot en met 3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2013-01-25&g=2013-01-25) gestelde regels, alsmede:
+De toezichtautoriteit verleent de vergunning, indien de aanvrager aantoont dat zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de [artikelen 3:1 tot en met 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01), [3:8 tot en met 3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:8&z=2015-01-01&g=2015-01-01), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2015-01-01&g=2015-01-01), [3:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:34&z=2015-01-01&g=2015-01-01) en [3:44 tot en met 3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2015-01-01&g=2015-01-01) gestelde regels, alsmede:
 
-- a. voor beleggingsinstellingen: de bij of krachtens de [artikelen 4:1 tot en met 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2013-01-25&g=2013-01-25) en [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:10&z=2013-01-25&g=2013-01-25) gestelde regels;
+- a. voor beleggingsinstellingen: de bij of krachtens de [artikelen 4:1 tot en met 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2015-01-01&g=2015-01-01) en [4:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:10&z=2015-01-01&g=2015-01-01) gestelde regels;
 
-- b. voor houders van effectenbeurzen: de bij of krachtens de artikelen [4:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2013-01-25&g=2013-01-25) en [4:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2013-01-25&g=2013-01-25) gestelde regels;
+- b. voor houders van effectenbeurzen: de bij of krachtens de artikelen [4:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2015-01-01&g=2015-01-01) en [4:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2015-01-01&g=2015-01-01) gestelde regels;
 
-- c. voor kredietinstellingen, elektronischgeldinstellingen en geldtransactiekantoren: de bij of krachtens de [artikelen 4:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2013-01-25&g=2013-01-25) en [4:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:21&z=2013-01-25&g=2013-01-25) gestelde regels;
+- c. voor kredietinstellingen, elektronischgeldinstellingen en geldtransactiekantoren: de bij of krachtens de [artikelen 4:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2015-01-01&g=2015-01-01) en [4:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:21&z=2015-01-01&g=2015-01-01) gestelde regels;
 
-- d. voor verzekeraars: de bij of krachtens de [artikelen 4:25 tot en met 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2013-01-25&g=2013-01-25) gestelde regels.
+- d. voor verzekeraars: de bij of krachtens de [artikelen 4:25 tot en met 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2015-01-01&g=2015-01-01) gestelde regels.
 
 ##### Artikel 2:12. (voorschriften en beperkingen)
 
@@ -603,7 +603,7 @@ Aan een vergunning kunnen met het oog op de belangen die deze wet beoogt te besc
 
 ##### Artikel 2:13. (weigering van de vergunning)
 
-De toezichtautoriteit kan in afwijking van [artikel 2:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:11&z=2013-01-25&g=2013-01-25) de vergunning geheel of gedeeltelijk weigeren, indien:
+De toezichtautoriteit kan in afwijking van [artikel 2:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:11&z=2015-01-01&g=2015-01-01) de vergunning geheel of gedeeltelijk weigeren, indien:
 
 - a. zij gronden heeft om aan te nemen dat de vergunning is aangevraagd met het oogmerk de betrokken financiële onderneming te onttrekken aan het toezicht op financiële ondernemingen in een andere staat of een ander deel van het Koninkrijk;
 
@@ -621,9 +621,9 @@ De toezichtautoriteit kan een door haar verleende vergunning wijzigen dan wel ge
 
 - c. de vergunninghouder niet of niet meer voldoet aan de bij of krachtens deze wet gestelde regels dan wel de aan de vergunning verbonden voorschriften of gestelde beperkingen niet naleeft;
 
-- d. uit de verklaring omtrent de getrouwheid, bedoeld in [artikel 3:35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2013-01-25&g=2013-01-25), of [3:36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2013-01-25&g=2013-01-25), of het actuarieel verslag, bedoeld in artikel 3:36, derde lid, niet blijkt dat de jaarrekening of de staten van de onderneming een getrouw beeld geeft of geven van de grootte en de samenstelling van de onderneming of van het resultaat over het desbetreffende boekjaar;
+- d. uit de verklaring omtrent de getrouwheid, bedoeld in [artikel 3:35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2015-01-01&g=2015-01-01), of [3:36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2015-01-01&g=2015-01-01), of het actuarieel verslag, bedoeld in artikel 3:36, derde lid, niet blijkt dat de jaarrekening of de staten van de onderneming een getrouw beeld geeft of geven van de grootte en de samenstelling van de onderneming of van het resultaat over het desbetreffende boekjaar;
 
-- e. de vergunninghouder geen of onvolledig gevolg heeft gegeven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2013-01-25&g=2013-01-25) gegeven aanwijzing;
+- e. de vergunninghouder geen of onvolledig gevolg heeft gegeven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2015-01-01&g=2015-01-01) gegeven aanwijzing;
 
 - f. de vergunninghouder de bij of krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) of de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) gestelde regels niet naleeft;
 
@@ -649,9 +649,9 @@ De toezichtautoriteit kan een door haar verleende vergunning wijzigen dan wel ge
 
 2. De Nederlandsche Bank trekt een door haar verleende vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar in, indien:
 
-- a. een machtiging als bedoeld in [artikel 8:10, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25), is verleend;
+- a. een machtiging als bedoeld in [artikel 8:10, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01), is verleend;
 
-- b. een machtiging als bedoeld in [artikel 8:10, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25), is verleend, op het tijdstip waarop tijdens de noodregeling voor de eerste keer activa van de onderneming te gelde worden gemaakt met het oogmerk de opbrengst te verdelen onder de schuldeisers, aandeelhouders of leden.
+- b. een machtiging als bedoeld in [artikel 8:10, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01), is verleend, op het tijdstip waarop tijdens de noodregeling voor de eerste keer activa van de onderneming te gelde worden gemaakt met het oogmerk de opbrengst te verdelen onder de schuldeisers, aandeelhouders of leden.
 
 3. Indien van een buitenlandse financiële onderneming door de toezichthoudende instantie van de staat van zetel de vergunning van die onderneming om in de staat van zetel haar bedrijf uit te oefenen wordt ingetrokken, trekt de toezichtautoriteit tevens de op grond van deze wet aan die onderneming verleende vergunning in.
 
@@ -667,7 +667,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 ##### Artikel 2:18. (wijzigingen na vergunningverlening)
 
-1. Een financiële onderneming waaraan op grond van deze wet vergunning is verleend, meldt met betrekking tot onderwerpen waarover ingevolge [artikel 2:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2013-01-25&g=2013-01-25), in het kader van een aanvraag om vergunning verstrekking van gegevens of bescheiden is voorgeschreven, aan de toezichtautoriteit alle wijzigingen waarvan zij weet of redelijkerwijs moet vermoeden dat die wijzigingen voor het door de toezichtautoriteit op die onderneming uit te oefenen toezicht van belang zijn.
+1. Een financiële onderneming waaraan op grond van deze wet vergunning is verleend, meldt met betrekking tot onderwerpen waarover ingevolge [artikel 2:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2015-01-01&g=2015-01-01), in het kader van een aanvraag om vergunning verstrekking van gegevens of bescheiden is voorgeschreven, aan de toezichtautoriteit alle wijzigingen waarvan zij weet of redelijkerwijs moet vermoeden dat die wijzigingen voor het door de toezichtautoriteit op die onderneming uit te oefenen toezicht van belang zijn.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de ingevolge het eerste lid te melden wijzigingen, de daarbij te volgen procedures en de daarbij te verstrekken gegevens of bescheiden.
 
@@ -677,9 +677,9 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 ##### Artikel 2:19. (register financiële markten)
 
-1. Er is een register financiële markten, waarin de financiële ondernemingen staan ingeschreven waaraan op grond van deze wet een vergunning is verleend of waarvan een kennisgeving als bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2013-01-25&g=2013-01-25), is ontvangen.
+1. Er is een register financiële markten, waarin de financiële ondernemingen staan ingeschreven waaraan op grond van deze wet een vergunning is verleend of waarvan een kennisgeving als bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2015-01-01&g=2015-01-01), is ontvangen.
 
-2. Het register is openbaar en wordt gehouden door de Nederlandsche Bank en de Autoriteit Financiële Markten, elk met betrekking tot de ingevolge [artikel 1:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2013-01-25&g=2013-01-25), of [1:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2013-01-25&g=2013-01-25), onder haar toezicht staande financiële ondernemingen.
+2. Het register is openbaar en wordt gehouden door de Nederlandsche Bank en de Autoriteit Financiële Markten, elk met betrekking tot de ingevolge [artikel 1:5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2015-01-01&g=2015-01-01), of [1:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2015-01-01&g=2015-01-01), onder haar toezicht staande financiële ondernemingen.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de indeling en inrichting van het register en de in het register op te nemen gegevens, alsmede regels met betrekking tot de wijziging van in het register opgenomen gegevens.
 
@@ -689,7 +689,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 2. Het eerste lid is van overeenkomstige toepassing op wijzigingen in de vergunning, voor zover die wijzigingen van belang zijn voor de in het register opgenomen of op te nemen gegevens.
 
-3. De inschrijving van een financiële onderneming waarvan de vergunning is ingetrokken, wordt doorgehaald. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld, alsmede regels met betrekking tot de doorhaling van inschrijvingen van financiële ondernemingen waarvan een kennisgeving als bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2013-01-25&g=2013-01-25), is ontvangen.
+3. De inschrijving van een financiële onderneming waarvan de vergunning is ingetrokken, wordt doorgehaald. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld, alsmede regels met betrekking tot de doorhaling van inschrijvingen van financiële ondernemingen waarvan een kennisgeving als bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2015-01-01&g=2015-01-01), is ontvangen.
 
 #### § 5. **Bijzondere bepalingen**
 
@@ -709,25 +709,25 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 - b. door de Staat der Nederlanden;
 
-- c. als gevolg van het aanbieden van effecten overeenkomstig de bij of krachtens [hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&z=2013-01-25&g=2013-01-25), gestelde regels.
+- c. als gevolg van het aanbieden van effecten overeenkomstig de bij of krachtens [hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&z=2015-01-01&g=2015-01-01), gestelde regels.
 
 ##### Artikel 2:23. (inkomende dienstverrichting verzekeraars)
 
 1. Het is een verzekeraar met zetel in het buitenland verboden door middel van het verrichten van diensten vanuit een vestiging in het buitenland verzekeringen aan te bieden in de openbare lichamen, tenzij hij de Nederlandsche Bank hiervan kennis geeft en aantoont:
 
-- a. zijn zetel te hebben in Curaçao, Sint Maarten of een krachtens [artikel 3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25), aangewezen andere staat of ander deel van het Koninkrijk;
+- a. zijn zetel te hebben in Curaçao, Sint Maarten of een krachtens [artikel 3:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01), aangewezen andere staat of ander deel van het Koninkrijk;
 
 - b. naar het recht van de staat van zetel rechtspersoon te zijn;
 
 - c. in de staat van zetel bevoegd te zijn tot uitoefening van het desbetreffende verzekeringsbedrijf en dit bedrijf daadwerkelijk vanuit een vestiging in die staat uit te oefenen;
 
-- d. te voldoen aan de bij of krachtens [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) met betrekking tot solvabiliteit gestelde regels.
+- d. te voldoen aan de bij of krachtens [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) met betrekking tot solvabiliteit gestelde regels.
 
 2. De Nederlandsche Bank bevestigt onverwijld de ontvangst van de kennisgeving, bedoeld in het eerste lid, aan de verzekeraar die de kennisgeving heeft gedaan.
 
 3. Na de ontvangstbevestiging, bedoeld in het tweede lid, mag de verzekeraar overgaan tot het aanbieden van verzekeringen in de openbare lichamen. Hij biedt geen verzekeringen aan in branches waarin hij in de staat van zetel niet bevoegd is tot uitoefening van het verzekeringsbedrijf.
 
-4. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&z=2013-01-25&g=2013-01-25), met uitzondering van de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25), [3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2013-01-25&g=2013-01-25) en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25), en [hoofdstuk 4, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&z=2013-01-25&g=2013-01-25), met uitzondering van de [artikelen 4:31 tot en met 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:31&z=2013-01-25&g=2013-01-25), zijn niet van toepassing op een verzekeraar als bedoeld in het derde lid.
+4. [Hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&z=2015-01-01&g=2015-01-01), met uitzondering van de [artikelen 3:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01), [3:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2015-01-01&g=2015-01-01) en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01), en [hoofdstuk 4, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&z=2015-01-01&g=2015-01-01), met uitzondering van de [artikelen 4:31 tot en met 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:31&z=2015-01-01&g=2015-01-01), zijn niet van toepassing op een verzekeraar als bedoeld in het derde lid.
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen aanvullende regels worden gesteld met betrekking tot de voorwaarden waaronder het is toegestaan vanuit een vestiging in het buitenland verzekeringen aan te bieden in de openbare lichamen, alsmede nadere regels met betrekking tot het eerste tot en met vierde lid.
 
@@ -741,11 +741,11 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 2. Bij regeling van Onze Minister kan worden bepaald dat het financiële ondernemingen in bij die regeling te bepalen gevallen tevens is toegestaan hun zetel in een door Onze Minister aangewezen andere staat of ander deel van het Koninkrijk te hebben.
 
-3. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25) verricht, die activiteiten vanuit een bijkantoor in de openbare lichamen verricht.
+3. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01) verricht, die activiteiten vanuit een bijkantoor in de openbare lichamen verricht.
 
 ##### Artikel 3:2. (buitenlandse ondernemingen)
 
-1. Een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25) verricht, is in de staat van zetel bevoegd tot uitoefening van die activiteiten.
+1. Een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01) verricht, is in de staat van zetel bevoegd tot uitoefening van die activiteiten.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen beperkingen worden gesteld aan de aard of de omvang van de activiteiten die financiële ondernemingen met zetel in het buitenland in of vanuit de openbare lichamen mogen verrichten, alsmede regels met betrekking tot de voorwaarden waaronder zij die activiteiten mogen verrichten.
 
@@ -801,7 +801,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 - d. relaties met consumenten, cliënten of andere derden, die het vertrouwen in de onderneming of in de financiële markten kunnen schaden;
 
-- e. andere handelingen door de onderneming of haar werknemers, die zodanig ingaan tegen hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt dat daardoor het vertrouwen in de onderneming of in de financiële markten ernstig kan worden geschaad.
+- e. andere handelingen door de onderneming of haar werknemers, die zodanig ingaan tegen hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt dat daardoor het vertrouwen in de onderneming of in de financiële markten kan worden geschaad.
 
 ##### Artikel 3:9. (beheerste bedrijfsuitoefening)
 
@@ -845,11 +845,11 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 ##### Artikel 3:14. (buitenlandse ondernemingen)
 
-De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25) en[3:11 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2013-01-25&g=2013-01-25) zijn, indien een financiële onderneming haar zetel in het buitenland heeft, slechts van toepassing met betrekking tot de activiteiten die de betrokken onderneming in of vanuit de openbare lichamen verricht.
+De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01) en[3:11 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2015-01-01&g=2015-01-01) zijn, indien een financiële onderneming haar zetel in het buitenland heeft, slechts van toepassing met betrekking tot de activiteiten die de betrokken onderneming in of vanuit de openbare lichamen verricht.
 
 ##### Artikel 3:15. (verplichte vertegenwoordiger)
 
-1. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25)verricht, gehouden is in de openbare lichamen een vertegenwoordiger aan te stellen.
+1. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01)verricht, gehouden is in de openbare lichamen een vertegenwoordiger aan te stellen.
 
 2. De vertegenwoordiger beschikt ten aanzien van het dagelijkse beleid van de onderneming, voor zover dat betrekking heeft op de activiteiten die in of vanuit de openbare lichamen worden verricht, over volledige vertegenwoordigingsbevoegdheid.
 
@@ -867,7 +867,7 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de omvang en samenstelling van het minimumbedrag aan eigen vermogen. Bij de vaststelling van het minimumbedrag aan eigen vermogen wordt bepaald wat daarbij voor de onderscheiden categorieën financiële ondernemingen onder eigen vermogen wordt verstaan.
 
-4. Het minimumbedrag aan eigen vermogen van een verzekeraar wordt uitgedrukt in een minimumbedrag van het garantiefonds, bedoeld in [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25), vierde lid.
+4. Het minimumbedrag aan eigen vermogen van een verzekeraar wordt uitgedrukt in een minimumbedrag van het garantiefonds, bedoeld in [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01), vierde lid.
 
 ##### Artikel 3:17. (solvabiliteit)
 
@@ -893,13 +893,13 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 2. Een verzekeraar die het levensverzekeringsbedrijf uitoefent, stelt, rekening houdend met alle financiële aspecten van zijn onderneming, de premies voor de te sluiten levensverzekeringen op adequate wijze vast.
 
-3. Een verzekeraar dekt de verplichtingen die voortvloeien uit vorderingen als bedoeld in [artikel 8:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:25&z=2013-01-25&g=2013-01-25), volledig door waarden.
+3. Een verzekeraar dekt de verplichtingen die voortvloeien uit vorderingen als bedoeld in [artikel 8:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:25&z=2015-01-01&g=2015-01-01), volledig door waarden.
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de ingevolge het eerste lid aan te houden technische voorzieningen, de waarden ter dekking van die voorzieningen, de lokalisatie van die waarden en de muntsoort waarin zij worden uitgedrukt.
 
 ##### Artikel 3:20. (bewijsvermoeden buitenlandse ondernemingen)
 
-1. Een financiële onderneming met zetel in het buitenland wordt, indien zij in de staat van zetel onder prudentieel toezicht staat, vermoed te voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2013-01-25&g=2013-01-25) op haar van toepassing zijnde eisen, zolang zij in de staat van zetel is toegelaten tot de uitoefening van haar bedrijf.
+1. Een financiële onderneming met zetel in het buitenland wordt, indien zij in de staat van zetel onder prudentieel toezicht staat, vermoed te voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2015-01-01&g=2015-01-01) op haar van toepassing zijnde eisen, zolang zij in de staat van zetel is toegelaten tot de uitoefening van haar bedrijf.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
@@ -907,7 +907,7 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat een verzekeraar met zetel in het buitenland verplicht is in de openbare lichamen een solvabiliteitsfonds aan te houden, overeenkomstig bij of krachtens die maatregel te stellen regels.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen van ondernemingen als bedoeld in de [artikelen 3:16 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2013-01-25&g=2013-01-25) met zetel in het buitenland, niet zijnde verzekeraars, aanvullende financiële waarborgen worden geëist ter dekking van verplichtingen die zij in of vanuit de openbare lichamen zijn aangegaan jegens consumenten, cliënten of andere bij die maatregel aan te wijzen derden.
+2. Bij of krachtens algemene maatregel van bestuur kunnen van ondernemingen als bedoeld in de [artikelen 3:16 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2015-01-01&g=2015-01-01) met zetel in het buitenland, niet zijnde verzekeraars, aanvullende financiële waarborgen worden geëist ter dekking van verplichtingen die zij in of vanuit de openbare lichamen zijn aangegaan jegens consumenten, cliënten of andere bij die maatregel aan te wijzen derden.
 
 ##### Artikel 3:22. (waarborgen houders van een effectenbeurs)
 
@@ -931,7 +931,7 @@ Een adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of een gevol
 
 ##### Artikel 3:25. (meldingsplicht bij niet-voldoen)
 
-Indien een financiële onderneming voorziet of redelijkerwijze kan voorzien dat zij niet voldoet of niet zal voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2013-01-25&g=2013-01-25) op haar van toepassing zijnde eisen, stelt zij de Nederlandsche Bank daarvan onverwijld in kennis.
+Indien een financiële onderneming voorziet of redelijkerwijze kan voorzien dat zij niet voldoet of niet zal voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2015-01-01&g=2015-01-01) op haar van toepassing zijnde eisen, stelt zij de Nederlandsche Bank daarvan onverwijld in kennis.
 
 ##### Artikel 3:26. (ontbinding of liquidatie)
 
@@ -949,7 +949,7 @@ Onder gekwalificeerde deelneming wordt in deze paragraaf en de daarop berustende
 
 1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank, een gekwalificeerde deelneming in een beleggingsinstelling, elektronischgeldinstelling, kredietinstelling, trustkantoor, vermogensbeheerder of verzekeraar met zetel in de openbare lichamen te houden, te verwerven of te vergroten, dan wel enige zeggenschap, verbonden aan een dergelijke deelneming, uit te oefenen.
 
-2. De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van door de Nederlandsche Bank te bepalen gegevens. De [artikelen 2:7 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+2. De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van door de Nederlandsche Bank te bepalen gegevens. De [artikelen 2:7 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 3. Het verbod, bedoeld in het eerste lid, is niet van toepassing op:
 
@@ -959,11 +959,11 @@ Onder gekwalificeerde deelneming wordt in deze paragraaf en de daarop berustende
 
 ##### Artikel 3:29. (betrouwbaarheid houder van deelneming)
 
-De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming het beleid van een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25), genoemde onderneming bepalen of mede bepalen of kunnen bepalen of mede bepalen, moet buiten twijfel staan. [Artikel 3:4, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming het beleid van een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01), genoemde onderneming bepalen of mede bepalen of kunnen bepalen of mede bepalen, moet buiten twijfel staan. [Artikel 3:4, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 3:30. (verlening van verklaring van geen bezwaar)
 
-1. De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25), tenzij:
+1. De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01), tenzij:
 
 - a. de betrouwbaarheid van een of meer personen die op grond van de voorgenomen gekwalificeerde deelneming het beleid van de financiële onderneming zullen bepalen of mede bepalen of zullen kunnen bepalen of medebepalen, niet buiten twijfel staat;
 
@@ -975,7 +975,7 @@ De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming 
 
 - e. er goede redenen zijn om te vermoeden dat er sprake is of zal zijn van het witwassen van geld of de financiering van terrorisme in de zin van de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824), dan wel dat de voorgenomen verwerving of vergroting van de deelneming het risico daarop zou kunnen vergroten.
 
-2. De [artikelen 2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2013-01-25&g=2013-01-25), [2:14, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2013-01-25&g=2013-01-25), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+2. De [artikelen 2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2015-01-01&g=2015-01-01), [2:14, aanhef en onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2015-01-01&g=2015-01-01), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 3. Het eerste lid, onderdelen c en d, is niet van toepassing op trustkantoren.
 
@@ -989,7 +989,7 @@ De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming 
 
 ##### Artikel 3:32. (vernietigbaarheid besluiten zonder vvgb)
 
-1. Indien enige zeggenschap, verbonden aan een gekwalificeerde deelneming in een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25), genoemde onderneming, is uitgeoefend zonder dat een verklaring van geen bezwaar is verkregen of indien daarbij de aan een verklaring van geen bezwaar gestelde beperkingen niet in acht zijn genomen, is een mede door uitoefening van die zeggenschap tot stand gekomen besluit vernietigbaar.
+1. Indien enige zeggenschap, verbonden aan een gekwalificeerde deelneming in een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01), genoemde onderneming, is uitgeoefend zonder dat een verklaring van geen bezwaar is verkregen of indien daarbij de aan een verklaring van geen bezwaar gestelde beperkingen niet in acht zijn genomen, is een mede door uitoefening van die zeggenschap tot stand gekomen besluit vernietigbaar.
 
 2. Een besluit als bedoeld in het eerste lid wordt op vordering van de Nederlandsche Bank door het Gerecht vernietigd, indien het besluit zonder uitoefening van de in het eerste lid bedoelde zeggenschap anders zou hebben geluid of niet zou zijn genomen, tenzij voor het tijdstip van de uitspraak alsnog een verklaring van geen bezwaar wordt verleend dan wel de niet in acht genomen beperkingen worden ingetrokken.
 
@@ -1027,7 +1027,7 @@ Een financiële onderneming met zetel in de openbare lichamen houdt de op haar b
 
 ##### Artikel 3:37. (indieningstermijnen)
 
-De Nederlandsche Bank kan, indien zich een gebeurtenis voordoet of heeft voorgedaan die ernstige gevolgen heeft of kan hebben voor de financiële positie van een elektronischgeldinstelling, kredietinstelling of verzekeraar, voorschrijven dat een of meer staten tijdelijk worden verstrekt met een hogere frequentie of op een kortere termijn dan ingevolge [artikel 3:36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2013-01-25&g=2013-01-25), is bepaald. Deze staten worden niet openbaar gemaakt.
+De Nederlandsche Bank kan, indien zich een gebeurtenis voordoet of heeft voorgedaan die ernstige gevolgen heeft of kan hebben voor de financiële positie van een elektronischgeldinstelling, kredietinstelling of verzekeraar, voorschrijven dat een of meer staten tijdelijk worden verstrekt met een hogere frequentie of op een kortere termijn dan ingevolge [artikel 3:36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2015-01-01&g=2015-01-01), is bepaald. Deze staten worden niet openbaar gemaakt.
 
 ##### Artikel 3:38. (overige rapportage- en meldingsverplichtingen)
 
@@ -1053,13 +1053,13 @@ Een actuaris die een onderzoek uitvoert naar de toereikendheid van de technische
 
 ##### Artikel 3:41. (toelichting door externe deskundige of actuaris)
 
-1. Indien de toezichtautoriteit zulks noodzakelijk acht, kan zij een externe deskundige of actuaris oproepen om een mondelinge toelichting te geven bij een kennisgeving als bedoeld in [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2013-01-25&g=2013-01-25) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2013-01-25&g=2013-01-25).
+1. Indien de toezichtautoriteit zulks noodzakelijk acht, kan zij een externe deskundige of actuaris oproepen om een mondelinge toelichting te geven bij een kennisgeving als bedoeld in [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2015-01-01&g=2015-01-01) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2015-01-01&g=2015-01-01).
 
 2. De toezichtautoriteit stelt de betrokken financiële onderneming in de gelegenheid bij de mondelinge toelichting aanwezig te zijn.
 
 ##### Artikel 3:42. (aansprakelijkheid externe deskundige of actuaris)
 
-De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2013-01-25&g=2013-01-25) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2013-01-25&g=2013-01-25) tot een kennisgeving is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat, gelet op alle feiten en omstandigheden, in redelijkheid niet tot kennisgeving of het verstrekken van inlichtingen had mogen worden overgegaan.
+De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2015-01-01&g=2015-01-01) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2015-01-01&g=2015-01-01) tot een kennisgeving is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat, gelet op alle feiten en omstandigheden, in redelijkheid niet tot kennisgeving of het verstrekken van inlichtingen had mogen worden overgegaan.
 
 ##### Artikel 3:43. (bezwaar tegen externe deskundige of actuaris)
 
@@ -1071,7 +1071,7 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 ##### Artikel 3:44. (algemene bepalingen betreffende financiële groepen)
 
-1. Een onderneming met zetel in een openbaar lichaam die aan het hoofd staat van een groep als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25) of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25), draagt zorg voor een zodanige bedrijfsvoering dat de financiële soliditeit van de groep en de tot de groep behorende kredietinstellingen en verzekeraars niet in gevaar wordt gebracht door:
+1. Een onderneming met zetel in een openbaar lichaam die aan het hoofd staat van een groep als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01) of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01), draagt zorg voor een zodanige bedrijfsvoering dat de financiële soliditeit van de groep en de tot de groep behorende kredietinstellingen en verzekeraars niet in gevaar wordt gebracht door:
 
 - a. het risicobeheer van de groep als geheel of van de afzonderlijke groepsleden;
 
@@ -1079,7 +1079,7 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 - c. mogelijke belangentegenstellingen en relaties tussen de groepsleden;
 
-- d. door groepsleden verrichte activiteiten die van wezenlijk belang zijn voor de bedrijfsvoering van een kredietinstelling of verzekeraar als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25), onderscheidenlijk [artikel 3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25).
+- d. door groepsleden verrichte activiteiten die van wezenlijk belang zijn voor de bedrijfsvoering van een kredietinstelling of verzekeraar als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01), onderscheidenlijk [artikel 3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
@@ -1115,11 +1115,11 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 ##### Artikel 3:47. (maatregelen door DNB)
 
-Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2013-01-25&g=2013-01-25), of uit het toezicht, bedoeld in de [artikelen 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25), en [3:46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25), blijkt dat de financiële positie van de kredietinstelling of verzekeraar in gevaar is of zou kunnen komen, neemt de Nederlandsche Bank jegens die kredietinstelling of verzekeraar maatregelen.
+Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2015-01-01&g=2015-01-01), of uit het toezicht, bedoeld in de [artikelen 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01), en [3:46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01), blijkt dat de financiële positie van de kredietinstelling of verzekeraar in gevaar is of zou kunnen komen, neemt de Nederlandsche Bank jegens die kredietinstelling of verzekeraar maatregelen.
 
 ##### Artikel 3:48. (uitzonderingen)
 
-1. De Nederlandsche Bank kan besluiten een onderneming niet in het toezicht, bedoeld in [artikel 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25), of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25), eerste lid, te betrekken, indien:
+1. De Nederlandsche Bank kan besluiten een onderneming niet in het toezicht, bedoeld in [artikel 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01), of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01), eerste lid, te betrekken, indien:
 
 - a. de onderneming haar zetel heeft in een staat waar wettelijke belemmeringen bestaan voor het verstrekken van de voor het toezicht noodzakelijke informatie;
 
@@ -1143,7 +1143,7 @@ Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid
 
 ##### Artikel 4:2. (beheer van beleggingsmaatschappijen)
 
-Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutair bestuurder van de beleggingsmaatschappij. [Artikel 4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutair bestuurder van de beleggingsmaatschappij. [Artikel 4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4:3. (vermogensscheiding activa beleggingsfonds)
 
@@ -1159,9 +1159,9 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 1. Indien de activa van een beleggingsinstelling door een bewaarder worden bewaard, gaat de beleggingsinstelling met de bewaarder een schriftelijke overeenkomst inzake beheer en bewaring aan. De overeenkomst voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels.
 
-2. Als bewaarder mag slechts optreden een rechtspersoon met als enig statutair doel het bewaren en administreren van de goederen waarin een beleggingsinstelling belegt. De artikelen [3:4 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25) en [3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:13&z=2013-01-25&g=2013-01-25)zijn van overeenkomstige toepassing op de bewaarder.
+2. Als bewaarder mag slechts optreden een rechtspersoon met als enig statutair doel het bewaren en administreren van de goederen waarin een beleggingsinstelling belegt. De artikelen [3:4 tot en met 3:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01) en [3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:13&z=2015-01-01&g=2015-01-01)zijn van overeenkomstige toepassing op de bewaarder.
 
-3. Indien er op grond van het beleggingsbeleid van een beleggingsinstelling een reëel risico bestaat dat het vermogen van die instelling en het vermogen van haar bewaarder ontoereikend zullen zijn om daaruit de vorderingen, bedoeld in [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2013-01-25&g=2013-01-25), te voldoen, worden de activa van de beleggingsinstelling bewaard door een bewaarder die uitsluitend als bewaarder voor die beleggingsinstelling optreedt.
+3. Indien er op grond van het beleggingsbeleid van een beleggingsinstelling een reëel risico bestaat dat het vermogen van die instelling en het vermogen van haar bewaarder ontoereikend zullen zijn om daaruit de vorderingen, bedoeld in [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2015-01-01&g=2015-01-01), te voldoen, worden de activa van de beleggingsinstelling bewaard door een bewaarder die uitsluitend als bewaarder voor die beleggingsinstelling optreedt.
 
 ##### Artikel 4:5. (minimumvermogen)
 
@@ -1171,7 +1171,7 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 3. Indien een beheerder of bewaarder als bedoeld in het eerste lid voorziet of redelijkerwijze kan voorzien dat zijn minimumbedrag aan eigen vermogen niet voldoet of niet zal voldoen aan de regels, bedoeld in het tweede lid, geeft hij hiervan onverwijld kennis aan de Nederlandsche Bank.
 
-4. [Artikel 3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2013-01-25&g=2013-01-25) is van overeenkomstige toepassing op een beheerder of bewaarder als bedoeld in het eerste lid.
+4. [Artikel 3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op een beheerder of bewaarder als bedoeld in het eerste lid.
 
 ##### Artikel 4:6. (vorderingen op vermogen beleggingsfonds)
 
@@ -1189,7 +1189,7 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 ##### Artikel 4:7. (subfondsen)
 
-1. Voor de toepassing van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2013-01-25&g=2013-01-25) wordt een subfonds gelijkgesteld met een zelfstandig beleggingsfonds.
+1. Voor de toepassing van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2015-01-01&g=2015-01-01) wordt een subfonds gelijkgesteld met een zelfstandig beleggingsfonds.
 
 2. Onder subfonds wordt verstaan: een administratief afgescheiden gedeelte van het vermogen van een beleggingsinstelling waarvoor een separaat beleggingsbeleid wordt gevoerd en waarin specifiek voor dat gedeelte ter collectieve belegging gevraagde of verkregen gelden of andere goederen zijn of worden opgenomen teneinde de deelnemers in de opbrengst van de beleggingen te doen delen onder specifiek voor dat gedeelte geldende voorwaarden.
 
@@ -1205,7 +1205,7 @@ Door of namens een beleggingsinstelling worden voor rekening van die instelling 
 
 ##### Artikel 4:10. (prospectus)
 
-1. Een beleggingsinstelling heeft een prospectus beschikbaar met betrekking tot de door haar aangeboden rechten van deelneming, dat ten minste de in [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2013-01-25&g=2013-01-25) bedoelde informatie bevat. Het prospectus wordt geactualiseerd, zodra daartoe aanleiding bestaat.
+1. Een beleggingsinstelling heeft een prospectus beschikbaar met betrekking tot de door haar aangeboden rechten van deelneming, dat ten minste de in [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2015-01-01&g=2015-01-01) bedoelde informatie bevat. Het prospectus wordt geactualiseerd, zodra daartoe aanleiding bestaat.
 
 2. De beleggingsinstelling draagt er zorg voor dat het prospectus kosteloos verkrijgbaar is voor het publiek. Indien de instelling over een website beschikt, stelt zij het prospectus tevens op haar website beschikbaar.
 
@@ -1319,21 +1319,21 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 - g. haar statuten te wijzigen.
 
-2. De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van door de Nederlandsche Bank te bepalen gegevens. De [artikelen 2:7 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+2. De aanvrager van een verklaring van geen bezwaar dient de aanvraag in bij de Nederlandsche Bank onder opgave van door de Nederlandsche Bank te bepalen gegevens. De [artikelen 2:7 tot en met 2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
 ##### Artikel 4:24. (verklaring van geen bezwaar)
 
-1. De Nederlandsche Bank verleent de in [artikel 4:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2013-01-25&g=2013-01-25) bedoelde verklaring van geen bezwaar, tenzij de handeling waarvoor de verklaring wordt gevraagd:
+1. De Nederlandsche Bank verleent de in [artikel 4:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2015-01-01&g=2015-01-01) bedoelde verklaring van geen bezwaar, tenzij de handeling waarvoor de verklaring wordt gevraagd:
 
-- a. in strijd zou zijn of kunnen komen met de ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) voor de betrokken instelling met betrekking tot haar solvabiliteit geldende regels;
+- a. in strijd zou zijn of kunnen komen met de ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) voor de betrokken instelling met betrekking tot haar solvabiliteit geldende regels;
 
 - b. anderszins in strijd zou zijn of kunnen komen met een gezonde en prudente bedrijfsuitoefening;
 
 - c. zou leiden of kunnen leiden tot een ongewenste ontwikkeling van de financiële sector.
 
-2. De artikelen [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2013-01-25&g=2013-01-25), [2:14, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2013-01-25&g=2013-01-25), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+2. De artikelen [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2015-01-01&g=2015-01-01), [2:14, aanhef en onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:14&z=2015-01-01&g=2015-01-01), en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 #### § 4. **Verzekeraars**
 
@@ -1363,13 +1363,13 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 ##### Artikel 4:27. (nadere regels betreffende verzekeringsbranches)
 
-Bij algemene maatregel kunnen nadere regels worden gesteld met betrekking tot de branches waarin het bedrijf van schadeverzekeraar wordt onderscheiden, alsmede regels met betrekking tot de branches waarin het bedrijf van levensverzekeraar wordt onderscheiden. [Artikel 4:26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+Bij algemene maatregel kunnen nadere regels worden gesteld met betrekking tot de branches waarin het bedrijf van schadeverzekeraar wordt onderscheiden, alsmede regels met betrekking tot de branches waarin het bedrijf van levensverzekeraar wordt onderscheiden. [Artikel 4:26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4:28. (verbod uitoefening verzekeringsbedrijf in andere branches)
 
 1. Het is verboden het bedrijf van levensverzekeraar of schadeverzekeraar uit te oefenen in een branche waarvoor geen vergunning is verleend.
 
-2. Het eerste lid is niet van toepassing op risico’s die op grond van [artikel 4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25), als bijkomende risico’s mogen worden verzekerd.
+2. Het eerste lid is niet van toepassing op risico’s die op grond van [artikel 4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01), als bijkomende risico’s mogen worden verzekerd.
 
 ##### Artikel 4:29. (verbod op nevenbedrijf)
 
@@ -1433,7 +1433,7 @@ Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakel
 
 ##### Artikel 4:38. (nadere regels portefeuilleoverdracht)
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de [artikelen 4:35 tot en met 4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2013-01-25&g=2013-01-25).
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de [artikelen 4:35 tot en met 4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 4:39. (verbod overdracht overeenkomsten naar buitenland)
 
@@ -1491,9 +1491,9 @@ Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit 
 
 ##### Artikel 4:46. (gevolmachtigde en ondergevolmachtigde agent)
 
-1. De [artikelen 4:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2013-01-25&g=2013-01-25) en [4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:41&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing op een verzekeraar en zijn gevolmachtigde agent, onderscheidenlijk een gevolmachtigde agent en diens ondergevolmachtigde agent.
+1. De [artikelen 4:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2015-01-01&g=2015-01-01) en [4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:41&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op een verzekeraar en zijn gevolmachtigde agent, onderscheidenlijk een gevolmachtigde agent en diens ondergevolmachtigde agent.
 
-2. Voor de toepassing van de [artikelen 4:40 tot en met 4:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2013-01-25&g=2013-01-25) wordt, indien een bemiddelaar in verzekeringen bemiddelt voor een gevolmachtigde agent of een ondergevolmachtigde agent, de gevolmachtigde agent dan wel ondergevolmachtigde agent gelijkgesteld met een verzekeraar.
+2. Voor de toepassing van de [artikelen 4:40 tot en met 4:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2015-01-01&g=2015-01-01) wordt, indien een bemiddelaar in verzekeringen bemiddelt voor een gevolmachtigde agent of een ondergevolmachtigde agent, de gevolmachtigde agent dan wel ondergevolmachtigde agent gelijkgesteld met een verzekeraar.
 
 ##### Artikel 4:47. (volmacht)
 
@@ -1583,7 +1583,7 @@ Indien een verzekering door tussenkomst van een gevolmachtigd of ondergevolmacht
 
 ##### Artikel 5:12. (nadere regels)
 
-Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de door financiëledienstverleners jegens consumenten of cliënten in acht te nemen zorgvuldigheid en met betrekking tot de in de [artikelen 5:3 tot en met 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2013-01-25&g=2013-01-25) geregelde onderwerpen.
+Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de door financiëledienstverleners jegens consumenten of cliënten in acht te nemen zorgvuldigheid en met betrekking tot de in de [artikelen 5:3 tot en met 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2015-01-01&g=2015-01-01) geregelde onderwerpen.
 
 #### § 2. **Kredietverlening**
 
@@ -1655,15 +1655,15 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5:20. (goedkeuring prospectus)
 
-1. De Autoriteit Financiële Markten verleent goedkeuring van een prospectus, indien het prospectus voldoet aan de bij of krachtens [artikel 5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2013-01-25&g=2013-01-25) gestelde regels.
+1. De Autoriteit Financiële Markten verleent goedkeuring van een prospectus, indien het prospectus voldoet aan de bij of krachtens [artikel 5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2015-01-01&g=2015-01-01) gestelde regels.
 
 2. De Autoriteit Financiële Markten maakt na ontvangst van een aanvraag tot goedkeuring van een prospectus haar beslissing omtrent de goedkeuring binnen tien werkdagen of, indien het een uitgevende instelling betreft waarvan nog geen effecten zijn aangeboden aan het publiek of zijn toegelaten tot de handel op een in de openbare lichamen gehouden effectenbeurs, binnen twintig werkdagen bekend aan de aanvrager.
 
-3. De [artikelen 2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2013-01-25&g=2013-01-25), [2:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2013-01-25&g=2013-01-25), [2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:9&z=2013-01-25&g=2013-01-25) en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing, met dien verstande dat indien de aanvrager op grond van artikel 2:7, tweede lid, in de gelegenheid is gesteld om zijn aanvraag aan te vullen, de termijnen, bedoeld in het tweede lid, opnieuw ingaan, te rekenen vanaf het tijdstip waarop de aanvrager zijn aanvraag heeft aangevuld.
+3. De [artikelen 2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2015-01-01&g=2015-01-01), [2:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2015-01-01&g=2015-01-01), [2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:9&z=2015-01-01&g=2015-01-01) en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing, met dien verstande dat indien de aanvrager op grond van artikel 2:7, tweede lid, in de gelegenheid is gesteld om zijn aanvraag aan te vullen, de termijnen, bedoeld in het tweede lid, opnieuw ingaan, te rekenen vanaf het tijdstip waarop de aanvrager zijn aanvraag heeft aangevuld.
 
 ##### Artikel 5:21. (eisen aan prospectus)
 
-1. Het prospectus, bedoeld in [artikel 5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25), bevat alle gegevens die, gelet op de aard van de uitgevende instelling en van de aan het publiek aangeboden of tot de handel op de effectenbeurs toegelaten effecten, van belang zijn voor het vormen van een verantwoord oordeel over het vermogen, de financiële positie, het resultaat en de vooruitzichten van de uitgevende instelling en de eventuele garant en de rechten welke aan deze effecten verbonden zijn.
+1. Het prospectus, bedoeld in [artikel 5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01), bevat alle gegevens die, gelet op de aard van de uitgevende instelling en van de aan het publiek aangeboden of tot de handel op de effectenbeurs toegelaten effecten, van belang zijn voor het vormen van een verantwoord oordeel over het vermogen, de financiële positie, het resultaat en de vooruitzichten van de uitgevende instelling en de eventuele garant en de rechten welke aan deze effecten verbonden zijn.
 
 2. De gegevens, bedoeld in het eerste lid, zijn niet met elkaar in strijd of in tegenspraak met andere bij de Autoriteit Financiële Markten aanwezige informatie omtrent de uitgevende instelling, de aanbieder van de effecten of de aanvrager van de toelating van de effecten tot de handel op de effectenbeurs. De gegevens worden gepresenteerd op een wijze die voor een redelijk geïnformeerd en zorgvuldig handelend persoon begrijpelijk is.
 
@@ -1671,9 +1671,9 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 5:22. (doorlopende informatieverplichtingen)
 
-1. Een uitgevende instelling, niet zijnde een uitgevende instelling waarvan effecten zijn toegelaten tot de handel op een effectenbeurs waarvoor een vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), is verleend, stelt binnen vier maanden na afloop van het boekjaar haar jaarlijkse financiële verslaggeving algemeen verkrijgbaar. Tot de jaarlijkse financiële verslaggeving behoren in ieder geval de door een externe deskundige goedgekeurde jaarrekening en het jaarverslag.
+1. Een uitgevende instelling, niet zijnde een uitgevende instelling waarvan effecten zijn toegelaten tot de handel op een effectenbeurs waarvoor een vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), is verleend, stelt binnen vier maanden na afloop van het boekjaar haar jaarlijkse financiële verslaggeving algemeen verkrijgbaar. Tot de jaarlijkse financiële verslaggeving behoren in ieder geval de door een externe deskundige goedgekeurde jaarrekening en het jaarverslag.
 
-2. Het eerste lid is niet van toepassing op uitgevende instellingen van effecten als bedoeld in [artikel 5:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25).
+2. Het eerste lid is niet van toepassing op uitgevende instellingen van effecten als bedoeld in [artikel 5:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01).
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
@@ -1685,13 +1685,13 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. als reclame-uiting herkenbaar zijn en informatie bevatten die niet onjuist of misleidend is en in overeenstemming met de informatie die in het prospectus is of wordt opgenomen.
 
-2. Het eerste lid is niet van toepassing op effecten als bedoeld in [artikel 5:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25).
+2. Het eerste lid is niet van toepassing op effecten als bedoeld in [artikel 5:19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01).
 
 #### § 5. **Marktmisbruik**
 
 ##### Artikel 5:24. (begrip voorwetenschap)
 
-In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwetenschap: bekendheid met informatie die concreet is en die rechtstreeks of middellijk betrekking heeft op een uitgevende instelling van effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25), of op de handel in zodanige effecten:
+In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwetenschap: bekendheid met informatie die concreet is en die rechtstreeks of middellijk betrekking heeft op een uitgevende instelling van effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01), of op de handel in zodanige effecten:
 
 - a. die niet openbaar is gemaakt, en
 
@@ -1701,7 +1701,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 1. Het is een ieder verboden om gebruik te maken van voorwetenschap door in of vanuit de openbare lichamen een transactie te verrichten of te bewerkstelligen in:
 
-- a. effecten die zijn genoteerd aan een effectenbeurs waarvoor een vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), is verleend dan wel aan een in het buitenland gevestigde en van overheidswege toegelaten effectenbeurs, of in effecten waarvan aannemelijk is dat deze spoedig aan een zodanige beurs zullen worden genoteerd;
+- a. effecten die zijn genoteerd aan een effectenbeurs waarvoor een vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), is verleend dan wel aan een in het buitenland gevestigde en van overheidswege toegelaten effectenbeurs, of in effecten waarvan aannemelijk is dat deze spoedig aan een zodanige beurs zullen worden genoteerd;
 
 - b. effecten waarvan de waarde mede wordt bepaald door de waarde van de in onderdeel a bedoelde effecten.
 
@@ -1711,7 +1711,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 - b. een rechtspersoon, vennootschap of instelling waarvan de werknemers die zijn betrokken bij het verrichten of bewerkstelligen van de transactie slechts beschikken over voorwetenschap met betrekking tot de handel;
 
-- c. degene die een transactie verricht of bewerkstelligt ter nakoming van een opeisbare verbintenis die reeds bestond op het tijdstip waarop hij kennis kreeg van de in [artikel 5:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:24&z=2013-01-25&g=2013-01-25) bedoelde informatie.
+- c. degene die een transactie verricht of bewerkstelligt ter nakoming van een opeisbare verbintenis die reeds bestond op het tijdstip waarop hij kennis kreeg van de in [artikel 5:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:24&z=2015-01-01&g=2015-01-01) bedoelde informatie.
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat het in het eerste lid bedoelde verbod niet van toepassing is op bij die maatregel aangewezen categorieën transacties. Binnen een categorie kan onderscheid worden gemaakt naar de personen die een transactie verrichten of de omstandigheden waaronder een transactie wordt verricht.
 
@@ -1721,7 +1721,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 - a. de informatie waarop die voorwetenschap betrekking heeft, aan een derde mee te delen, anders dan in de normale uitoefening van zijn werk, beroep of functie;
 
-- b. een derde aan te bevelen of ertoe aan te zetten transacties te verrichten of te bewerkstelligen in effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25), waarop de voorwetenschap betrekking heeft.
+- b. een derde aan te bevelen of ertoe aan te zetten transacties te verrichten of te bewerkstelligen in effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01), waarop de voorwetenschap betrekking heeft.
 
 2. Het verbod, bedoeld in het eerste lid, aanhef en onderdeel b, is niet van toepassing op een rechtspersoon, vennootschap of instelling waarvan de werknemers die zijn betrokken bij het aanbevelen, niet over voorwetenschap beschikken.
 
@@ -1729,7 +1729,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 ##### Artikel 5:27. (verbod op marktmanipulatie)
 
-1. Het is verboden een transactie te verrichten of te bewerkstelligen in effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25):
+1. Het is verboden een transactie te verrichten of te bewerkstelligen in effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01):
 
 - a. waarvan een onjuist of misleidend signaal uitgaat of te duchten is met betrekking tot het aanbod van, de vraag naar of de koers van die effecten;
 
@@ -1777,7 +1777,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 - **vennootschap:** naamloze vennootschap naar het recht van de openbare lichamen waarvan stemgerechtigde aandelen op een of meer erkende effectenbeurzen worden genoteerd of incourant worden verhandeld.
 
-2. Onder een met een persoon gelieerde partij wordt in dit hoofdstuk verstaan een persoon wiens verkrijgen, houden of bezitten van stemgerechtigde aandelen, op grond van [artikel 6:3, eerste lid, onderdelen b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2013-01-25&g=2013-01-25), mede wordt toegerekend aan die persoon.
+2. Onder een met een persoon gelieerde partij wordt in dit hoofdstuk verstaan een persoon wiens verkrijgen, houden of bezitten van stemgerechtigde aandelen, op grond van [artikel 6:3, eerste lid, onderdelen b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2015-01-01&g=2015-01-01), mede wordt toegerekend aan die persoon.
 
 ##### Artikel 6:2. (stemgerechtigde aandelen)
 
@@ -1827,9 +1827,9 @@ Stemgerechtigde aandelen die verkregen en gehouden worden door personen die toeg
 
 - a. naam, woonplaats en adres van de meldingsplichtige en, indien van toepassing, de aard van zijn onderneming of bedrijf;
 
-- b. het aantal van iedere soort stemgerechtigde aandelen die door hem werden gehouden en die door hem worden verkregen en, indien zich een van de situaties omschreven in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2013-01-25&g=2013-01-25) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2013-01-25&g=2013-01-25) voordoet, de namen, woonplaatsen en adressen van degene door wie zij worden gehouden of verkregen;
+- b. het aantal van iedere soort stemgerechtigde aandelen die door hem werden gehouden en die door hem worden verkregen en, indien zich een van de situaties omschreven in de [artikelen 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2015-01-01&g=2015-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2015-01-01&g=2015-01-01) voordoet, de namen, woonplaatsen en adressen van degene door wie zij worden gehouden of verkregen;
 
-- c. het percentage van de stemmen en het percentage van het geplaatste kapitaal dat hij ingevolge [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2013-01-25&g=2013-01-25) of [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2013-01-25&g=2013-01-25) is gaan houden;
+- c. het percentage van de stemmen en het percentage van het geplaatste kapitaal dat hij ingevolge [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:2&z=2015-01-01&g=2015-01-01) of [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2015-01-01&g=2015-01-01) is gaan houden;
 
 - d. de datum waarop de meldingsplicht is ontstaan.
 
@@ -1843,13 +1843,13 @@ Stemgerechtigde aandelen die verkregen en gehouden worden door personen die toeg
 
 ##### Artikel 6:7. (meerdere personen meldingsplichtig)
 
-Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2013-01-25&g=2013-01-25), meerdere personen meldingsplichtig zijn, worden door de melding door een van hen de overigen van de meldingsplicht ontslagen.
+Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2015-01-01&g=2015-01-01), meerdere personen meldingsplichtig zijn, worden door de melding door een van hen de overigen van de meldingsplicht ontslagen.
 
 ##### Artikel 6:8. (openbaar maken melding)
 
-1. Het bestuur van een vennootschap dat een melding heeft ontvangen als bedoeld in [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2013-01-25&g=2013-01-25), maakt onverwijld de inhoud ervan openbaar in een advertentie in een of meer in de openbare lichamen gepubliceerde nieuwsbladen, en door kennisgeving aan de aandeelhouders op de wijze waarop zij doorgaans berichten of oproepingen aan hen doorgeeft.
+1. Het bestuur van een vennootschap dat een melding heeft ontvangen als bedoeld in [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2015-01-01&g=2015-01-01), maakt onverwijld de inhoud ervan openbaar in een advertentie in een of meer in de openbare lichamen gepubliceerde nieuwsbladen, en door kennisgeving aan de aandeelhouders op de wijze waarop zij doorgaans berichten of oproepingen aan hen doorgeeft.
 
-2. Aan de plicht om onverwijld kennis te geven, heeft het bestuur voldaan indien de advertentie is geplaatst en de kennisgevingen zijn gedaan binnen vijf dagen nadat de melding op ieder van de domicilies, bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2013-01-25&g=2013-01-25), is ontvangen.
+2. Aan de plicht om onverwijld kennis te geven, heeft het bestuur voldaan indien de advertentie is geplaatst en de kennisgevingen zijn gedaan binnen vijf dagen nadat de melding op ieder van de domicilies, bedoeld in [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2015-01-01&g=2015-01-01), is ontvangen.
 
 3. Het bestuur kan in de advertentie en kennisgevingen gedeeltes uit de mededeling weglaten die niet terzake doen, of die bij de aandeelhouders een valse indruk kunnen wekken.
 
@@ -1859,23 +1859,23 @@ Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 1. De persoon die voornemens is, onder welke titel ook, stemgerechtigde aandelen in het kapitaal van een vennootschap te verkrijgen en die weet of behoort te weten dat hij na die verkrijging stemmen zal hebben die 20 procent of meer vertegenwoordigen van alle stemmen die op het geplaatste kapitaal van die vennootschap kunnen worden uitgebracht, stelt, alvorens tot die verkrijging over te gaan, het bestuur van de vennootschap van zijn voornemen op de hoogte en geeft het de gelegenheid met hem te overleggen binnen een periode die hij op niet minder kan stellen dan twee weken nadat hij het bestuur op de hoogte heeft gesteld.
 
-2. De uitnodiging tot overleg, bedoeld in het eerste lid geschiedt schriftelijk, overeenkomstig [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2013-01-25&g=2013-01-25), onder opgave van de in dat artikel omschreven voornemens van de persoon met betrekking tot de vennootschap indien hij invloed verwerft over haar beleid en de wijze waarop de verwerving zal worden gefinancierd, met inbegrip van de naam en het adres van iedere kredietinstelling of andere partij die zich verbonden heeft de verwerving geheel of gedeeltelijk te financieren.
+2. De uitnodiging tot overleg, bedoeld in het eerste lid geschiedt schriftelijk, overeenkomstig [artikel 6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2015-01-01&g=2015-01-01), onder opgave van de in dat artikel omschreven voornemens van de persoon met betrekking tot de vennootschap indien hij invloed verwerft over haar beleid en de wijze waarop de verwerving zal worden gefinancierd, met inbegrip van de naam en het adres van iedere kredietinstelling of andere partij die zich verbonden heeft de verwerving geheel of gedeeltelijk te financieren.
 
 3. Gedurende de tijd dat het overleg kan plaats vinden en gedurende een week nadat het overleg is begonnen, is het de persoon en de met hem gelieerde partijen verboden enig openbaar of onderhands bod uit te brengen op stemgerechtigde aandelen of andere aandelen van de vennootschap, of om deze te verwerven anders dan met toestemming van het bestuur en van de raad van commissarissen.
 
-4. Indien het bestuur geen gebruik heeft gemaakt van de uitnodiging tot overleg, of indien het overleg niet binnen een week tot een met toestemming van de raad van commissarissen bereikt resultaat heeft geleid, is het de persoon verboden stemgerechtigde aandelen en andere aandelen van de vennootschap boven de in het eerste lid genoemde drempel te verwerven, anders dan door het uitbrengen van een openbaar bod waarbij de voorwaarden, bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25), in acht worden genomen.
+4. Indien het bestuur geen gebruik heeft gemaakt van de uitnodiging tot overleg, of indien het overleg niet binnen een week tot een met toestemming van de raad van commissarissen bereikt resultaat heeft geleid, is het de persoon verboden stemgerechtigde aandelen en andere aandelen van de vennootschap boven de in het eerste lid genoemde drempel te verwerven, anders dan door het uitbrengen van een openbaar bod waarbij de voorwaarden, bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01), in acht worden genomen.
 
 ##### Artikel 6:10. (verplichting aandelenbezit beneden drempel te brengen)
 
-1. De persoon die stemgerechtigde aandelen boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2013-01-25&g=2013-01-25), door welke oorzaak ook is gaan houden zonder toestemming van het bestuur en de raad van commissarissen van de vennootschap of anders dan door een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25), brengt onmiddellijk zijn aandelenbezit tot beneden die drempel.
+1. De persoon die stemgerechtigde aandelen boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2015-01-01&g=2015-01-01), door welke oorzaak ook is gaan houden zonder toestemming van het bestuur en de raad van commissarissen van de vennootschap of anders dan door een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01), brengt onmiddellijk zijn aandelenbezit tot beneden die drempel.
 
 2. Indien de bedoelde drempel onopzettelijk of buiten toedoen van de persoon of van aan hem gelieerde partijen werd overtreden, is het bestuur met toestemming van de raad van commissarissen bevoegd om de persoon alsnog geheel of gedeeltelijk ontheffing te verlenen van de verplichting om zijn aandelenbezit beneden de drempel te brengen. De ontheffing kan onder voorwaarden verleend worden.
 
-3. Binnen tien dagen nadat een persoon onopzettelijk of buiten zijn toedoen en buiten het toedoen van met hem gelieerde partijen, stemgerechtigde aandelen is gaan houden boven de bedoelde drempel, of nadat hem dat feit bekend werd, of nadat een verzoek tot ontheffing, bedoeld in het tweede lid, is afgewezen, kan de persoon aan het bestuur zijn voornemen kenbaar maken om een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25) uit te brengen. In dat geval is hij niet verplicht zijn aandelenbezit tot beneden de drempel terug te brengen. De verplichting herleeft zodra hij van dat voornemen afziet.
+3. Binnen tien dagen nadat een persoon onopzettelijk of buiten zijn toedoen en buiten het toedoen van met hem gelieerde partijen, stemgerechtigde aandelen is gaan houden boven de bedoelde drempel, of nadat hem dat feit bekend werd, of nadat een verzoek tot ontheffing, bedoeld in het tweede lid, is afgewezen, kan de persoon aan het bestuur zijn voornemen kenbaar maken om een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01) uit te brengen. In dat geval is hij niet verplicht zijn aandelenbezit tot beneden de drempel terug te brengen. De verplichting herleeft zodra hij van dat voornemen afziet.
 
 ##### Artikel 6:11. (openbaar bod zonder toestemming bestuur en RvC)
 
-Een openbaar bod, uitgebracht door een persoon of door een met hem gelieerde partij, waarmee wordt beoogd of dat ertoe kan leiden dat die persoon stemgerechtigde aandelen in het kapitaal van een vennootschap verkrijgt boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2013-01-25&g=2013-01-25), en dat wordt uitgebracht zonder de toestemming van het bestuur en van de raad van commissarissen van de vennootschap, dient:
+Een openbaar bod, uitgebracht door een persoon of door een met hem gelieerde partij, waarmee wordt beoogd of dat ertoe kan leiden dat die persoon stemgerechtigde aandelen in het kapitaal van een vennootschap verkrijgt boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2015-01-01&g=2015-01-01), en dat wordt uitgebracht zonder de toestemming van het bestuur en van de raad van commissarissen van de vennootschap, dient:
 
 - a. openbaar te worden uitgebracht op alle aandelen van de vennootschap, met uitzondering van aandelen die door de vennootschap zelf worden gehouden;
 
@@ -1903,7 +1903,7 @@ Een openbaar bod, uitgebracht door een persoon of door een met hem gelieerde par
 
 ##### Artikel 6:12. (afkoelingsperiode)
 
-Indien door een persoon of door een met hem gelieerde partij een openbaar bod is uitgebracht als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25) en de persoon ten gevolge van de op grond van dat bod verkregen stemgerechtigde aandelen tezamen met de stemgerechtigde aandelen die hij bij het uitbrengen van het bod reeds bezat, minder dan 85 procent van de stemmen kan uitbrengen die op het geplaatste kapitaal van de vennootschap kunnen worden uitgebracht, zal het hem en de met hem gelieerde partijen voor de duur van een jaar na verloop van de aanmeldingstermijn of -termijnen, verboden zijn:
+Indien door een persoon of door een met hem gelieerde partij een openbaar bod is uitgebracht als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01) en de persoon ten gevolge van de op grond van dat bod verkregen stemgerechtigde aandelen tezamen met de stemgerechtigde aandelen die hij bij het uitbrengen van het bod reeds bezat, minder dan 85 procent van de stemmen kan uitbrengen die op het geplaatste kapitaal van de vennootschap kunnen worden uitgebracht, zal het hem en de met hem gelieerde partijen voor de duur van een jaar na verloop van de aanmeldingstermijn of -termijnen, verboden zijn:
 
 - a. enige zakelijke transactie met de vennootschap aan te gaan met betrekking tot een aanzienlijk deel van de vermogensbestanddelen van de vennootschap;
 
@@ -1913,11 +1913,11 @@ Indien door een persoon of door een met hem gelieerde partij een openbaar bod is
 
 1. Indien aandelen op naam worden overgedragen en het bestuur van de vennootschap weet of vermoedt dat:
 
-- a. hetzij de overdracht ingevolge [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&z=2013-01-25&g=2013-01-25) gemeld moet worden, en zodanige melding niet is gedaan;
+- a. hetzij de overdracht ingevolge [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&z=2015-01-01&g=2015-01-01) gemeld moet worden, en zodanige melding niet is gedaan;
 
 - b. hetzij de overdracht in strijd is met een verbod krachtens dit hoofdstuk om stemgerechtigde aandelen te verkrijgen;
 
-- c. hetzij de overdracht het gevolg is van het aanvaarden van een openbaar bod dat gedaan is in strijd met [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&z=2013-01-25&g=2013-01-25);
+- c. hetzij de overdracht het gevolg is van het aanvaarden van een openbaar bod dat gedaan is in strijd met [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&z=2015-01-01&g=2015-01-01);
 
 is de vennootschap bevoegd de overdracht niet te erkennen danwel, indien de overdracht aan de vennootschap wordt betekend, de overdracht nietig te verklaren door een aangetekend schrijven aan zowel de voorgenomen verkrijger als de voorgenomen vervreemder.
 
@@ -1929,29 +1929,29 @@ is de vennootschap bevoegd de overdracht niet te erkennen danwel, indien de over
 
 1. Op de aan een persoon toegerekende stemgerechtigde aandelen mogen gezamenlijk niet meer stemmen uitgebracht worden dan vertegenwoordigende 5 procent van het geplaatste stemgerechtigde kapitaal van de vennootschap:
 
-- a. zolang de persoon een melding niet gedaan heeft waartoe hij ingevolge [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2013-01-25&g=2013-01-25) verplicht is;
+- a. zolang de persoon een melding niet gedaan heeft waartoe hij ingevolge [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2015-01-01&g=2015-01-01) verplicht is;
 
-- b. tot vier weken nadat die melding is gedaan, indien de persoon stemgerechtigde aandelen heeft verkregen zonder de voorafgaande melding, bedoeld in [artikel 6:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2013-01-25&g=2013-01-25), te hebben gedaan;
+- b. tot vier weken nadat die melding is gedaan, indien de persoon stemgerechtigde aandelen heeft verkregen zonder de voorafgaande melding, bedoeld in [artikel 6:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2015-01-01&g=2015-01-01), te hebben gedaan;
 
-- c. totdat de persoon zijn aandelenbezit beneden de drempel, bedoeld in [artikel 6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2013-01-25&g=2013-01-25), heeft gebracht, of ontheffing daartoe van het bestuur en de raad van commissarissen heeft verkregen.
+- c. totdat de persoon zijn aandelenbezit beneden de drempel, bedoeld in [artikel 6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2015-01-01&g=2015-01-01), heeft gebracht, of ontheffing daartoe van het bestuur en de raad van commissarissen heeft verkregen.
 
-2. Een persoon die voornemens is, of van wie een gelieerde partij voornemens is, een openbaar bod te doen op stemgerechtigde aandelen van een vennootschap, en de met die persoon gelieerde partijen, mogen geen vergaderingen van aandeelhouders bijeenroepen, daarin aanwezig of vertegenwoordigd zijn, noch in of buiten vergadering stemrecht op stemgerechtigde aandelen van de vennootschap uitoefenen, totdat het openbare bod overeenkomstig [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25) is uitgebracht, of met het bestuur en de raad van commissarissen is overeengekomen dat het bod anders dan overeenkomstig artikel 6:11 kan worden uitgebracht. Indien van het voornemen wordt afgezien, blijft het verbod van dit artikel van kracht tot na verloop van een jaar nadat zulks aan het bestuur schriftelijk is medegedeeld.
+2. Een persoon die voornemens is, of van wie een gelieerde partij voornemens is, een openbaar bod te doen op stemgerechtigde aandelen van een vennootschap, en de met die persoon gelieerde partijen, mogen geen vergaderingen van aandeelhouders bijeenroepen, daarin aanwezig of vertegenwoordigd zijn, noch in of buiten vergadering stemrecht op stemgerechtigde aandelen van de vennootschap uitoefenen, totdat het openbare bod overeenkomstig [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01) is uitgebracht, of met het bestuur en de raad van commissarissen is overeengekomen dat het bod anders dan overeenkomstig artikel 6:11 kan worden uitgebracht. Indien van het voornemen wordt afgezien, blijft het verbod van dit artikel van kracht tot na verloop van een jaar nadat zulks aan het bestuur schriftelijk is medegedeeld.
 
-3. Stemmen uitgebracht in strijd met het eerste of tweede lid zijn desondanks geldig, behoudens in het geval van schorsing, bedoeld in [artikel 6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:15&z=2013-01-25&g=2013-01-25).
+3. Stemmen uitgebracht in strijd met het eerste of tweede lid zijn desondanks geldig, behoudens in het geval van schorsing, bedoeld in [artikel 6:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:15&z=2015-01-01&g=2015-01-01).
 
 4. Voor de berekening van een door de statuten vereist quorum, worden de aandelen waarvoor vanwege het eerste of tweede lid geen stemmen mogen worden uitgebracht, aangemerkt als niet geplaatst.
 
 ##### Artikel 6:15. (schorsing door vennootschap)
 
-1. Indien het bestuur van een vennootschap weet of vermoedt dat iemand stemrechten of andere rechten uitoefent of tracht uit te oefenen in strijd met [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2013-01-25&g=2013-01-25), is het bestuur bevoegd die persoon te schorsen in de uitoefening van bedoelde rechten door middel van een aangetekend schrijven aan die persoon.
+1. Indien het bestuur van een vennootschap weet of vermoedt dat iemand stemrechten of andere rechten uitoefent of tracht uit te oefenen in strijd met [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2015-01-01&g=2015-01-01), is het bestuur bevoegd die persoon te schorsen in de uitoefening van bedoelde rechten door middel van een aangetekend schrijven aan die persoon.
 
-2. Het bestuur kan de schorsing bekend maken op de wijze, bedoeld in [artikel 6:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2013-01-25&g=2013-01-25), indien zij dit in het belang acht van de vennootschap of van de aandeelhouders.
+2. Het bestuur kan de schorsing bekend maken op de wijze, bedoeld in [artikel 6:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2015-01-01&g=2015-01-01), indien zij dit in het belang acht van de vennootschap of van de aandeelhouders.
 
-3. Indien tijdens een aandeelhoudersvergadering blijkt of het vermoeden rijst dat iemand in strijd met [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2013-01-25&g=2013-01-25) rechten tracht uit te oefenen, kan de voorzitter de vergadering voor tenminste een half uur en ten hoogste drie uur onderbreken, teneinde te overleggen met de betrokken persoon of personen. Indien dit overleg niet het tegendeel bewijst of het vermoeden wegneemt, kan de voorzitter de schorsing van de betrokken persoon of personen uitspreken en de vergadering zonder hem of hen voortzetten.
+3. Indien tijdens een aandeelhoudersvergadering blijkt of het vermoeden rijst dat iemand in strijd met [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2015-01-01&g=2015-01-01) rechten tracht uit te oefenen, kan de voorzitter de vergadering voor tenminste een half uur en ten hoogste drie uur onderbreken, teneinde te overleggen met de betrokken persoon of personen. Indien dit overleg niet het tegendeel bewijst of het vermoeden wegneemt, kan de voorzitter de schorsing van de betrokken persoon of personen uitspreken en de vergadering zonder hem of hen voortzetten.
 
 4. Indien een schorsing het gevolg is van een vermoeden, dan zal de schorsing na verloop van twee weken worden opgeheven indien het vermoeden in de tussentijd niet is omgezet in bewijs of in redelijk gegrond vermoeden.
 
-5. Een schorsing wordt voorts terstond opgeheven wanneer [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2013-01-25&g=2013-01-25) de betrokkene niet meer belet de rechten waarin hij is geschorst, uit te oefenen.
+5. Een schorsing wordt voorts terstond opgeheven wanneer [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2015-01-01&g=2015-01-01) de betrokkene niet meer belet de rechten waarin hij is geschorst, uit te oefenen.
 
 ##### Artikel 6:16. (besluiten aandeelhouders buiten vergadering)
 
@@ -1961,7 +1961,7 @@ De aandeelhouders van een vennootschap als bedoeld in dit hoofdstuk kunnen buite
 
 ##### Artikel 6:17. (uitzonderingen en nadere regels)
 
-1. Bij algemene maatregel van bestuur kan voor daarvoor in aanmerking komende categorieën vennootschappen worden bepaald dat de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&z=2013-01-25&g=2013-01-25) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&z=2013-01-25&g=2013-01-25) niet of slechts gedeeltelijk op die vennootschappen van toepassing zijn, of dat voor die vennootschappen andere drempelwaarden gelden dan in die paragrafen is bepaald.
+1. Bij algemene maatregel van bestuur kan voor daarvoor in aanmerking komende categorieën vennootschappen worden bepaald dat de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&z=2015-01-01&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&z=2015-01-01&g=2015-01-01) niet of slechts gedeeltelijk op die vennootschappen van toepassing zijn, of dat voor die vennootschappen andere drempelwaarden gelden dan in die paragrafen is bepaald.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in dit hoofdstuk geregelde onderwerpen.
 
@@ -2067,7 +2067,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 ##### Artikel 7:12. (algemene aanwijzingsbevoegdheid)
 
-1. De toezichtautoriteit kan een financiële onderneming of andere persoon die niet voldoet aan een ingevolge de [artikelen 1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2013-01-25&g=2013-01-25), [1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:26&z=2013-01-25&g=2013-01-25), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2013-01-25&g=2013-01-25), [2:1 tot en met 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2013-01-25&g=2013-01-25), [2:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2013-01-25&g=2013-01-25), [2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:18&z=2013-01-25&g=2013-01-25), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25), de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&z=2013-01-25&g=2013-01-25), de [artikelen 7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2013-01-25&g=2013-01-25), en [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25), of [hoofdstuk 8, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&z=2013-01-25&g=2013-01-25) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&z=2013-01-25&g=2013-01-25), op hem of haar rustende verplichting, een aanwijzing geven.
+1. De toezichtautoriteit kan een financiële onderneming of andere persoon die niet voldoet aan een ingevolge de [artikelen 1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2015-01-01&g=2015-01-01), [1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:26&z=2015-01-01&g=2015-01-01), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2015-01-01&g=2015-01-01), [2:1 tot en met 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2015-01-01&g=2015-01-01), [2:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2015-01-01&g=2015-01-01), [2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:18&z=2015-01-01&g=2015-01-01), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01), de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&z=2015-01-01&g=2015-01-01), de [artikelen 7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2015-01-01&g=2015-01-01), en [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01), of [hoofdstuk 8, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&z=2015-01-01&g=2015-01-01), op hem of haar rustende verplichting, een aanwijzing geven.
 
 2. Voorts kan de Nederlandsche Bank een financiële onderneming een aanwijzing geven, indien zij tekenen ontwaart van een ontwikkeling die de integere of beheerste bedrijfsuitoefening, het eigen vermogen, de solvabiliteit of de liquiditeit van die financiële onderneming in gevaar kunnen brengen.
 
@@ -2077,13 +2077,13 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 ##### Artikel 7:13. (aanwijzing aan houder van effectenbeurs)
 
-1. De Autoriteit Financiële Markten kan de houder van een effectenbeurs een aanwijzing geven om jegens een derde die zich niet houdt aan de in [artikel 4:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2013-01-25&g=2013-01-25), bedoelde regels, een bepaalde gedragslijn te volgen.
+1. De Autoriteit Financiële Markten kan de houder van een effectenbeurs een aanwijzing geven om jegens een derde die zich niet houdt aan de in [artikel 4:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2015-01-01&g=2015-01-01), bedoelde regels, een bepaalde gedragslijn te volgen.
 
 2. De Autoriteit Financiële Markten kan de houder van een effectenbeurs een aanwijzing geven om binnen een door de Autoriteit Financiële Markten gestelde redelijke termijn de handel in een bepaald effect op te schorten, te onderbreken of door te halen, indien dit met het oog op de bescherming van de belangen van de beleggers in het effect of de ordelijke handel in het effect noodzakelijk is.
 
 3. Nadat de Autoriteit Financiële Markten een aanwijzing als bedoeld in het tweede lid heeft gegeven, kan zij het Gerecht verzoeken het desbetreffende effect uit te sluiten van de handel op de effectenbeurs, indien dit met het oog op de bescherming van de belangen van de beleggers in het effect of de ordelijke handel in het effect noodzakelijk is.
 
-4. [Artikel 7:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing op een aanwijzing als bedoeld in het eerste, tweede of derde lid.
+4. [Artikel 7:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op een aanwijzing als bedoeld in het eerste, tweede of derde lid.
 
 ##### Artikel 7:14. (benoeming van curator)
 
@@ -2091,7 +2091,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 2. Een beslissing als bedoeld in het eerste lid wordt slechts genomen, indien:
 
-- a. de onderneming niet of niet volledig binnen de gestelde termijn gevolg heeft gegeven aan een krachtens [artikel 7:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25), gegeven aanwijzing;
+- a. de onderneming niet of niet volledig binnen de gestelde termijn gevolg heeft gegeven aan een krachtens [artikel 7:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01), gegeven aanwijzing;
 
 - b. de in het eerste lid bedoelde overtreding het adequaat functioneren van de onderneming ernstig in gevaar brengt, of
 
@@ -2101,11 +2101,11 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 ##### Artikel 7:15. (gevaar voor financiële waarborgen)
 
-1. Onverminderd [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2013-01-25&g=2013-01-25) kan de Nederlandsche Bank een of meer personen benoemen als curator ten aanzien van alle of bepaalde organen of vertegenwoordigers van een financiële onderneming, indien zij tekenen ontwaart van een ontwikkeling die de integere of beheerste bedrijfsuitoefening, het eigen vermogen, de solvabiliteit of de liquiditeit van die financiële onderneming in gevaar kan brengen.
+1. Onverminderd [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2015-01-01&g=2015-01-01) kan de Nederlandsche Bank een of meer personen benoemen als curator ten aanzien van alle of bepaalde organen of vertegenwoordigers van een financiële onderneming, indien zij tekenen ontwaart van een ontwikkeling die de integere of beheerste bedrijfsuitoefening, het eigen vermogen, de solvabiliteit of de liquiditeit van die financiële onderneming in gevaar kan brengen.
 
 2. Een beslissing als bedoeld in het eerste lid wordt slechts genomen:
 
-- a. nadat de onderneming niet of niet volledig binnen de gestelde termijn gevolg heeft gegeven aan een krachtens [artikel 7:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25), gegeven aanwijzing, of
+- a. nadat de onderneming niet of niet volledig binnen de gestelde termijn gevolg heeft gegeven aan een krachtens [artikel 7:12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01), gegeven aanwijzing, of
 
 - b. indien onverwijld ingrijpen noodzakelijk is en de financiële onderneming voorafgaand in de gelegenheid is gesteld haar zienswijze naar voren te brengen over de voorgenomen beslissing.
 
@@ -2127,7 +2127,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 - c. zijn de handelingen, bedoeld in onderdeel b, voor zover het rechtshandelingen betreft, vernietigbaar, indien de wederpartij wist of behoorde te weten dat de ingevolge het eerste lid vereiste goedkeuring voor die handelingen ontbrak.
 
-3. De kosten en beloning van een op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2013-01-25&g=2013-01-25) of [7:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:15&z=2013-01-25&g=2013-01-25) benoemde curator komen ten laste van de betrokken financiële onderneming.
+3. De kosten en beloning van een op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2015-01-01&g=2015-01-01) of [7:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:15&z=2015-01-01&g=2015-01-01) benoemde curator komen ten laste van de betrokken financiële onderneming.
 
 ##### Artikel 7:18. (bevoegdheden van toezichtautoriteit)
 
@@ -2139,13 +2139,13 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 ##### Artikel 7:19. (aantrekken opvorderbare gelden)
 
-De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2013-01-25&g=2013-01-25) en [7:16 tot en met 7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:16&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing op een ieder die in de uitoefening van een bedrijf in of vanuit de openbare lichamen buiten besloten kring opvorderbare gelden aantrekt, ter beschikking verkrijgt of ter beschikking heeft.
+De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2015-01-01&g=2015-01-01) en [7:16 tot en met 7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:16&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op een ieder die in de uitoefening van een bedrijf in of vanuit de openbare lichamen buiten besloten kring opvorderbare gelden aantrekt, ter beschikking verkrijgt of ter beschikking heeft.
 
 ##### Artikel 7:20. (transactie- of activiteitenverbod)
 
-1. De toezichtautoriteit kan, indien een financiële onderneming met zetel in het buitenland geen gevolg geeft aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2013-01-25&g=2013-01-25) gegeven aanwijzing, de betrokken onderneming een verbod opleggen in de openbare lichamen nieuwe overeenkomsten af te sluiten.
+1. De toezichtautoriteit kan, indien een financiële onderneming met zetel in het buitenland geen gevolg geeft aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2015-01-01&g=2015-01-01) gegeven aanwijzing, de betrokken onderneming een verbod opleggen in de openbare lichamen nieuwe overeenkomsten af te sluiten.
 
-2. De Autoriteit Financiële Markten kan, indien een financiële onderneming, niet zijnde een onderneming waarvoor op grond van [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25) een vergunning is vereist, de ingevolge [hoofdstuk 5, paragrafen 1 tot en met 3,](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&z=2013-01-25&g=2013-01-25) op haar van toepassing zijnde regels niet naleeft, de betrokken onderneming een verbod opleggen de met die regels strijdige activiteiten te verrichten.
+2. De Autoriteit Financiële Markten kan, indien een financiële onderneming, niet zijnde een onderneming waarvoor op grond van [artikel 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01) een vergunning is vereist, de ingevolge [hoofdstuk 5, paragrafen 1 tot en met 3,](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&z=2015-01-01&g=2015-01-01) op haar van toepassing zijnde regels niet naleeft, de betrokken onderneming een verbod opleggen de met die regels strijdige activiteiten te verrichten.
 
 3. De beslissing tot het opleggen van een verbod is met redenen omkleed en wordt schriftelijk bekendgemaakt aan de onderneming tot wie het verbod is gericht.
 
@@ -2155,7 +2155,7 @@ De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&
 
 ##### Artikel 7:21. (opleggen last onder dwangsom)
 
-1. De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2013-01-25&g=2013-01-25) gegeven aanwijzing.
+1. De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2015-01-01&g=2015-01-01) gegeven aanwijzing.
 
 2. Een last onder dwangsom kan worden opgelegd, zodra het gevaar voor de overtreding klaarblijkelijk dreigt.
 
@@ -2225,7 +2225,7 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 
 ##### Artikel 7:30. (opleggen bestuurlijke boete)
 
-1. De toezichtautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2013-01-25&g=2013-01-25) gegeven aanwijzing.
+1. De toezichtautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2015-01-01&g=2015-01-01) gegeven aanwijzing.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.
 
@@ -2247,7 +2247,7 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 - b. de overtreder is overleden;
 
-- c. aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 7:36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:36&z=2013-01-25&g=2013-01-25), is bekendgemaakt dat voor de overtreding geen bestuurlijke boete zal worden opgelegd;
+- c. aan de overtreder wegens dezelfde overtreding reeds eerder een bestuurlijke boete is opgelegd, dan wel een kennisgeving als bedoeld in [artikel 7:36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:36&z=2015-01-01&g=2015-01-01), is bekendgemaakt dat voor de overtreding geen bestuurlijke boete zal worden opgelegd;
 
 - d. tegen de overtreder wegens dezelfde gedraging een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen of het recht tot strafvervolging is vervallen ingevolge [artikel 76 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76).
 
@@ -2287,7 +2287,7 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 ##### Artikel 7:37. (beslissing tot opleggen bestuurlijke boete)
 
-1. De toezichtautoriteit beslist binnen dertien weken na de dagtekening van het rapport, bedoeld in [artikel 7:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:34&z=2013-01-25&g=2013-01-25), omtrent het opleggen van de bestuurlijke boete.
+1. De toezichtautoriteit beslist binnen dertien weken na de dagtekening van het rapport, bedoeld in [artikel 7:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:34&z=2015-01-01&g=2015-01-01), omtrent het opleggen van de bestuurlijke boete.
 
 2. De beslissing tot het opleggen van een bestuurlijke boete wordt op schrift gesteld en vermeldt:
 
@@ -2331,7 +2331,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ##### Artikel 7:41. (verzuim bij niet-betaling)
 
-1. De overtreder is in verzuim, indien hij de verbeurde dwangsom of de bestuurlijke boete niet binnen de in [artikel 7:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=4&artikel=7:25&z=2013-01-25&g=2013-01-25), onderscheidenlijk [artikel 7:37, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:37&z=2013-01-25&g=2013-01-25), bedoelde termijn heeft betaald.
+1. De overtreder is in verzuim, indien hij de verbeurde dwangsom of de bestuurlijke boete niet binnen de in [artikel 7:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=4&artikel=7:25&z=2015-01-01&g=2015-01-01), onderscheidenlijk [artikel 7:37, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:37&z=2015-01-01&g=2015-01-01), bedoelde termijn heeft betaald.
 
 2. Het verzuim heeft de verschuldigdheid van wettelijke rente tot gevolg overeenkomstig de [artikelen 119, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=119), en [120 van Boek 6 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=120).
 
@@ -2371,7 +2371,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ##### Artikel 7:46. (openbare waarschuwing)
 
-De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van een verbodsbepaling uit deze wet en bij oplegging of overtreding van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25) een openbare waarschuwing uitvaardigen, indien nodig onder vermelding van de overwegingen die tot de waarschuwing hebben geleid.
+De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van een verbodsbepaling uit deze wet en bij oplegging of overtreding van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01) een openbare waarschuwing uitvaardigen, indien nodig onder vermelding van de overwegingen die tot de waarschuwing hebben geleid.
 
 ##### Artikel 7:47. (zienswijze betrokkene)
 
@@ -2385,7 +2385,7 @@ De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift g
 
 ##### Artikel 7:49. (uitvaardigen van de openbare waarschuwing)
 
-1. Het uitvaardigen van een openbare waarschuwing geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop betrokkene overeenkomstig [artikel 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2013-01-25&g=2013-01-25) in kennis is gesteld van de voorgenomen beslissing om een openbare waarschuwing uit te vaardigen.
+1. Het uitvaardigen van een openbare waarschuwing geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop betrokkene overeenkomstig [artikel 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2015-01-01&g=2015-01-01) in kennis is gesteld van de voorgenomen beslissing om een openbare waarschuwing uit te vaardigen.
 
 2. Indien ter zake van de beslissing tot het uitvaardiging van een openbare waarschuwing een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) wordt ingediend, wordt de werking van de beslissing opgeschort totdat het Gerecht op dat verzoek heeft beslist.
 
@@ -2397,29 +2397,29 @@ De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift g
 
 1. De toezichtautoriteit maakt een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet na bekendmaking van die beslissing openbaar, indien de boete is opgelegd ter zake overtreding van:
 
-- a. een verbodsbepaling uit deze wet of een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25);
+- a. een verbodsbepaling uit deze wet of een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01);
 
-- b. [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:3&z=2013-01-25&g=2013-01-25), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2013-01-25&g=2013-01-25), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2013-01-25&g=2013-01-25), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2013-01-25&g=2013-01-25), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:5&z=2013-01-25&g=2013-01-25), [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:6&z=2013-01-25&g=2013-01-25), [5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:7&z=2013-01-25&g=2013-01-25), [5:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:8&z=2013-01-25&g=2013-01-25) of [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:10&z=2013-01-25&g=2013-01-25);
+- b. [artikel 4:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:3&z=2015-01-01&g=2015-01-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2015-01-01&g=2015-01-01), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2015-01-01&g=2015-01-01), [5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2015-01-01&g=2015-01-01), [5:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:5&z=2015-01-01&g=2015-01-01), [5:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:6&z=2015-01-01&g=2015-01-01), [5:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:7&z=2015-01-01&g=2015-01-01), [5:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:8&z=2015-01-01&g=2015-01-01) of [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:10&z=2015-01-01&g=2015-01-01);
 
-- c. een voorschrift, gesteld bij of krachtens een in de bijlage, bedoeld in [artikel 7:30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2013-01-25&g=2013-01-25), genoemd artikel, indien dat voorschrift bij algemene maatregel van bestuur als bedoeld in artikel 7:30 beboetbaar is gesteld met een boete van de hoogste boetecategorie.
+- c. een voorschrift, gesteld bij of krachtens een in de bijlage, bedoeld in [artikel 7:30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2015-01-01&g=2015-01-01), genoemd artikel, indien dat voorschrift bij algemene maatregel van bestuur als bedoeld in artikel 7:30 beboetbaar is gesteld met een boete van de hoogste boetecategorie.
 
-2. De openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop die beslissing aan de betrokken persoon is bekendgemaakt. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2013-01-25&g=2013-01-25), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:48&z=2013-01-25&g=2013-01-25) en [7:49, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:49&z=2013-01-25&g=2013-01-25), zijn van overeenkomstige toepassing.
+2. De openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop die beslissing aan de betrokken persoon is bekendgemaakt. De [artikelen 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2015-01-01&g=2015-01-01), [7:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:48&z=2015-01-01&g=2015-01-01) en [7:49, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:49&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
 3. De toezichtautoriteit kan beslissen niet tot openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete over te gaan, indien openbaarmaking van die beslissing in strijd is of in strijd zou kunnen komen met het doel van het door de toezichtautoriteit uit te oefenen toezicht op de naleving van deze wet.
 
 ##### Artikel 7:51. (openbaarmaking onherroepelijke bestuurlijke boete)
 
-De toezichtautoriteit maakt, onverminderd [artikel 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2013-01-25&g=2013-01-25), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 7:50, derde lid, is van overeenkomstige toepassing.
+De toezichtautoriteit maakt, onverminderd [artikel 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2015-01-01&g=2015-01-01), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 7:50, derde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 7:52. (openbaarmaking last onder dwangsom)
 
-De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. De [artikelen 7:47 tot en met 7:49](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2013-01-25&g=2013-01-25) en [7:50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2013-01-25&g=2013-01-25), zijn van overeenkomstige toepassing.
+De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. De [artikelen 7:47 tot en met 7:49](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2015-01-01&g=2015-01-01) en [7:50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 7:53. (behandeling achter gesloten deuren)
 
-1. Indien een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) is ingediend tegen een beslissing tot uitvaardiging van een openbare waarschuwing of tegen openbaarmaking van een beslissing als bedoeld in [artikel 7:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2013-01-25&g=2013-01-25), [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2013-01-25&g=2013-01-25) of [7:52](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:52&z=2013-01-25&g=2013-01-25), vindt het onderzoek ter zitting plaats met gesloten deuren.
+1. Indien een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) is ingediend tegen een beslissing tot uitvaardiging van een openbare waarschuwing of tegen openbaarmaking van een beslissing als bedoeld in [artikel 7:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2015-01-01&g=2015-01-01), [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2015-01-01&g=2015-01-01) of [7:52](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:52&z=2015-01-01&g=2015-01-01), vindt het onderzoek ter zitting plaats met gesloten deuren.
 
-2. Indien het Gerecht naar aanleiding van een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) een verbod tot uitvaardiging van een openbare waarschuwing of tot openbaarmaking van een beslissing als bedoeld in [artikel 7:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2013-01-25&g=2013-01-25), [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2013-01-25&g=2013-01-25) of [7:52](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:52&z=2013-01-25&g=2013-01-25) heeft opgelegd, vindt:
+2. Indien het Gerecht naar aanleiding van een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) een verbod tot uitvaardiging van een openbare waarschuwing of tot openbaarmaking van een beslissing als bedoeld in [artikel 7:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2015-01-01&g=2015-01-01), [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2015-01-01&g=2015-01-01) of [7:52](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:52&z=2015-01-01&g=2015-01-01) heeft opgelegd, vindt:
 
 - a. indien tegen de bestreden beslissing een beroepschrift is ingediend, het onderzoek ter zitting plaats met gesloten deuren;
 
@@ -2439,43 +2439,43 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 ##### Artikel 8:2. (bijzondere maatregelen)
 
-1. De Nederlandsche Bank kan, indien een kredietinstelling niet voldoet aan de bij of krachtens de [artikelen 3:9, eerste en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) met betrekking tot de beheerste bedrijfsuitoefening of het toetsingsvermogen gestelde regels, die instelling verplichten om:
+1. De Nederlandsche Bank kan, indien een kredietinstelling niet voldoet aan de bij of krachtens de [artikelen 3:9, eerste en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) met betrekking tot de beheerste bedrijfsuitoefening of het toetsingsvermogen gestelde regels, die instelling verplichten om:
 
-- a. een groter toetsingsvermogen aan te houden dan op grond van [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) is voorgeschreven;
+- a. een groter toetsingsvermogen aan te houden dan op grond van [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) is voorgeschreven;
 
 - b. in verband met de solvabiliteitsvereisten een specifiek voorzieningenbeleid te voeren of de activa van de onderneming op een specifieke wijze te behandelen;
 
 - c. het risico dat door de onderneming worden gelopen, te beperken.
 
-2. Indien de Nederlandsche Bank op grond van de evaluatie, bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:1&z=2013-01-25&g=2013-01-25), van oordeel is dat de bedrijfsvoering of het toetsingsvermogen van een kredietinstelling onvoldoende waarborgen biedt voor een beheerste en duurzame dekking van haar risico’s en dat andere maatregelen er redelijkerwijs niet toe kunnen leiden dat de beheerste en duurzame dekking van die risico’s alsnog binnen een redelijke termijn gewaarborgd wordt, kan zij de betrokken kredietinstelling verplichten om een groter toetsingsvermogen aan te houden.
+2. Indien de Nederlandsche Bank op grond van de evaluatie, bedoeld in [artikel 8:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:1&z=2015-01-01&g=2015-01-01), van oordeel is dat de bedrijfsvoering of het toetsingsvermogen van een kredietinstelling onvoldoende waarborgen biedt voor een beheerste en duurzame dekking van haar risico’s en dat andere maatregelen er redelijkerwijs niet toe kunnen leiden dat de beheerste en duurzame dekking van die risico’s alsnog binnen een redelijke termijn gewaarborgd wordt, kan zij de betrokken kredietinstelling verplichten om een groter toetsingsvermogen aan te houden.
 
-3. De Nederlandsche Bank heft een maatregel als bedoeld in het eerste lid op, zodra de kredietinstelling weer aan de bij of krachtens de [artikelen 3:9, eerste en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2013-01-25&g=2013-01-25), en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) gestelde regels voldoet. Zij heft een maatregel als bedoeld in het tweede lid op, zodra de bedrijfsvoering en het toetsingsvermogen van de kredietinstelling een beheerste en duurzame dekking van de risico’s van die instelling weer voldoende waarborgen.
+3. De Nederlandsche Bank heft een maatregel als bedoeld in het eerste lid op, zodra de kredietinstelling weer aan de bij of krachtens de [artikelen 3:9, eerste en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2015-01-01&g=2015-01-01), en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) gestelde regels voldoet. Zij heft een maatregel als bedoeld in het tweede lid op, zodra de bedrijfsvoering en het toetsingsvermogen van de kredietinstelling een beheerste en duurzame dekking van de risico’s van die instelling weer voldoende waarborgen.
 
 #### § 2. **Bijzondere prudentiële maatregelen verzekeraars**
 
 ##### Artikel 8:3. (herstelplan)
 
-1. Indien de rechten van degenen die als verzekeringnemers, verzekerden of gerechtigden op uitkeringen betrokken zijn bij verzekeringen, gesloten door een verzekeraar, in het gedrang komen, kan de Nederlandsche Bank van de verzekeraar een herstelplan verlangen dat binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt, aan haar instemming wordt onderworpen, tenzij [artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2013-01-25&g=2013-01-25) van toepassing is.
+1. Indien de rechten van degenen die als verzekeringnemers, verzekerden of gerechtigden op uitkeringen betrokken zijn bij verzekeringen, gesloten door een verzekeraar, in het gedrang komen, kan de Nederlandsche Bank van de verzekeraar een herstelplan verlangen dat binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt, aan haar instemming wordt onderworpen, tenzij [artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2015-01-01&g=2015-01-01) van toepassing is.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het herstelplan, bedoeld in het eerste lid.
 
-3. Indien de Nederlandsche Bank een herstelplan heeft verlangd en de financiële positie van die verzekeraar verslechtert, kan de Nederlandsche Bank hem verplichten een hoger minimumbedrag aan solvabiliteitsmarge aan te houden dan op grond van [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) is voorgeschreven, teneinde te waarborgen dat de verzekeraar in de nabije toekomst kan blijven voldoen aan het op grond van dat artikel voorgeschreven minimumbedrag aan solvabiliteitsmarge.
+3. Indien de Nederlandsche Bank een herstelplan heeft verlangd en de financiële positie van die verzekeraar verslechtert, kan de Nederlandsche Bank hem verplichten een hoger minimumbedrag aan solvabiliteitsmarge aan te houden dan op grond van [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) is voorgeschreven, teneinde te waarborgen dat de verzekeraar in de nabije toekomst kan blijven voldoen aan het op grond van dat artikel voorgeschreven minimumbedrag aan solvabiliteitsmarge.
 
 4. Bij de vaststelling van het niveau van het hogere minimumbedrag aan solvabiliteitsmarge wordt uitgegaan van het herstelplan, bedoeld in het eerste lid. Tevens kan daarbij een termijn worden bepaald waarbinnen het hogere minimumbedrag dient te zijn bereikt.
 
 ##### Artikel 8:4. (ontoereikende technische voorzieningen)
 
-1. Indien een verzekeraar met zetel in de openbare lichamen niet voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2013-01-25&g=2013-01-25) met betrekking tot de technische voorzieningen gestelde regels, kan de Nederlandsche Bank de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.
+1. Indien een verzekeraar met zetel in de openbare lichamen niet voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2015-01-01&g=2015-01-01) met betrekking tot de technische voorzieningen gestelde regels, kan de Nederlandsche Bank de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.
 
 2. De verzekeraar kan de ongeldigheid van een rechtshandeling, verricht in strijd met de beperking of het verbod, inroepen indien de wederpartij de maatregel kende of daarvan niet onkundig kon zijn.
 
-3. De Nederlandsche Bank heft de beperking of het verbod op, zodra de verzekeraar weer voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2013-01-25&g=2013-01-25) gestelde regels.
+3. De Nederlandsche Bank heft de beperking of het verbod op, zodra de verzekeraar weer voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2015-01-01&g=2015-01-01) gestelde regels.
 
 ##### Artikel 8:5. (ontoereikende solvabiliteitsmarge)
 
-1. Indien een verzekeraar niet meer beschikt over de ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) vereiste solvabiliteitsmarge, dient hij, tenzij het tweede lid van toepassing is, binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt een saneringsplan ter instemming in.
+1. Indien een verzekeraar niet meer beschikt over de ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) vereiste solvabiliteitsmarge, dient hij, tenzij het tweede lid van toepassing is, binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt een saneringsplan ter instemming in.
 
-2. Indien de solvabiliteitsmarge is gedaald of naar het oordeel van de Nederlandsche Bank zal dalen beneden het krachtens [artikel 3:17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25), vereiste garantiefonds, dient de verzekeraar bij de Nederlandsche Bank binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt een financieringsplan ter instemming in.
+2. Indien de solvabiliteitsmarge is gedaald of naar het oordeel van de Nederlandsche Bank zal dalen beneden het krachtens [artikel 3:17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01), vereiste garantiefonds, dient de verzekeraar bij de Nederlandsche Bank binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt een financieringsplan ter instemming in.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de inhoud van het saneringsplan en het financieringsplan, bedoeld in het eerste onderscheidenlijk tweede lid.
 
@@ -2483,13 +2483,13 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 ##### Artikel 8:6. (opgave waarden ter dekking van technische voorzieningen)
 
-Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2013-01-25&g=2013-01-25) met betrekking tot de solvabiliteitsmarge gestelde regels, doet aan de Nederlandsche Bank binnen een door haar te bepalen termijn een opgave van de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2013-01-25&g=2013-01-25) bedoelde waarden en van de wijzigingen die daarin optreden.
+Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2015-01-01&g=2015-01-01) met betrekking tot de solvabiliteitsmarge gestelde regels, doet aan de Nederlandsche Bank binnen een door haar te bepalen termijn een opgave van de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2015-01-01&g=2015-01-01) bedoelde waarden en van de wijzigingen die daarin optreden.
 
 ##### Artikel 8:7. (beperking te beschikken over waarden)
 
-1. De Nederlandsche Bank kan, indien zich in het geval, bedoeld in [artikel 8:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2013-01-25&g=2013-01-25), uitzonderlijke omstandigheden voordoen op grond waarvan te verwachten is dat de financiële positie van de verzekeraar nog verder zal verslechteren, evenals in het geval, bedoeld in artikel 8:5, tweede lid, de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank over deze waarden te beschikken.
+1. De Nederlandsche Bank kan, indien zich in het geval, bedoeld in [artikel 8:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2015-01-01&g=2015-01-01), uitzonderlijke omstandigheden voordoen op grond waarvan te verwachten is dat de financiële positie van de verzekeraar nog verder zal verslechteren, evenals in het geval, bedoeld in artikel 8:5, tweede lid, de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank over deze waarden te beschikken.
 
-2. [Artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2013-01-25&g=2013-01-25), is van overeenkomstige toepassing.
+2. [Artikel 8:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 3. De Nederlandsche Bank heft de beperking of het verbod op, zodra de verzekeraar weer voldoet aan de bij of krachtens deze wet gestelde eisen met betrekking tot de solvabiliteitsmarge.
 
@@ -2523,13 +2523,13 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 2. In geval van een machtiging met betrekking tot een verzekeraar, strekt de machtiging, bedoeld in de onderdelen b en c, mede tot vereffening van het vermogen van de onderneming van de verzekeraar, zolang nog niet blijkt dat de verzekeraar een negatief eigen vermogen heeft.
 
-3. De Nederlandsche Bank kan in haar verzoek op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2013-01-25&g=2013-01-25) vermelden welke van de machtigingen, bedoeld in het eerste lid, naar haar oordeel het meest passend is.
+3. De Nederlandsche Bank kan in haar verzoek op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2015-01-01&g=2015-01-01) vermelden welke van de machtigingen, bedoeld in het eerste lid, naar haar oordeel het meest passend is.
 
 ##### Artikel 8:11. (behandeling verzoek tot uitspreken noodregeling)
 
 1. Het Gerecht behandelt het verzoek van de Nederlandsche Bank tot het uitspreken van de noodregeling met de meeste spoed op een niet-openbare terechtzitting, op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan in deze paragraaf niet is afgeweken.
 
-2. Het Gerecht is bevoegd inzage te nemen of te doen nemen van de boeken en zakelijke bescheiden van de kredietinstelling of verzekeraar. De [artikelen 7:10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2013-01-25&g=2013-01-25), en [7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing.
+2. Het Gerecht is bevoegd inzage te nemen of te doen nemen van de boeken en zakelijke bescheiden van de kredietinstelling of verzekeraar. De [artikelen 7:10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2015-01-01&g=2015-01-01), en [7:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 3. Het Gerecht geeft geen beschikking dan nadat de kredietinstelling of verzekeraar en de Nederlandsche Bank in de gelegenheid zijn gesteld te worden gehoord.
 
@@ -2537,7 +2537,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 5. De beschikking van het Gerecht is met redenen omkleed en wordt, indien het verzoek van de Nederlandsche Bank wordt toegewezen, op een openbare terechtzitting uitgesproken. De griffier maakt de zakelijke inhoud van de beschikking bekend in de Staatscourant en stelt de Nederlandsche Bank onverwijld in kennis van de beschikking.
 
-6. Indien de machtiging, bedoeld in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25), strekt tot overdracht als bedoeld in onderdeel a van dat artikel, kan op voordracht van de rechter-commissaris of op verzoek van de Nederlandsche Bank de machtiging worden uitgebreid tot een machtiging als bedoeld in onderdeel c van genoemd artikel.
+6. Indien de machtiging, bedoeld in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01), strekt tot overdracht als bedoeld in onderdeel a van dat artikel, kan op voordracht van de rechter-commissaris of op verzoek van de Nederlandsche Bank de machtiging worden uitgebreid tot een machtiging als bedoeld in onderdeel c van genoemd artikel.
 
 7. Tegen de beschikking staat generlei voorziening open, behoudens cassatie in het belang der wet.
 
@@ -2545,11 +2545,11 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 1. Indien een verzoek tot het uitspreken van de noodregeling tegelijk met een verzoek of vordering tot faillietverklaring aanhangig is, wordt de behandeling van het verzoek of de vordering tot faillietverklaring geschorst, totdat op het verzoek tot het uitspreken van de noodregeling is beschikt. Indien het Gerecht de noodregeling uitspreekt, vervalt het verzoek of de vordering tot faillietverklaring van rechtswege.
 
-2. Het uitspreken van de noodregeling heeft mede tot gevolg dat de kredietinstelling of verzekeraar ten aanzien waarvan de noodregeling is uitgesproken, slechts in staat van faillissement kan worden verklaard overeenkomstig [artikel 8:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:22&z=2013-01-25&g=2013-01-25).
+2. Het uitspreken van de noodregeling heeft mede tot gevolg dat de kredietinstelling of verzekeraar ten aanzien waarvan de noodregeling is uitgesproken, slechts in staat van faillissement kan worden verklaard overeenkomstig [artikel 8:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:22&z=2015-01-01&g=2015-01-01).
 
 3. Het Gerecht kan op verzoek van de Nederlandsche Bank de noodregeling intrekken. De griffier maakt de intrekking bekend in de Staatscourant.
 
-4. Indien ten aanzien van een verzekeraar de noodregeling wordt uitgesproken, mogen vanaf de dag van het uitspreken van de noodregeling aan de in [3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2013-01-25&g=2013-01-25) bedoelde waarden geen andere waarden worden toegevoegd dan de sindsdien ontvangen premies of de met die premies verkregen waarden, voor zover deze dienen tot dekking van de technische voorzieningen.
+4. Indien ten aanzien van een verzekeraar de noodregeling wordt uitgesproken, mogen vanaf de dag van het uitspreken van de noodregeling aan de in [3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2015-01-01&g=2015-01-01) bedoelde waarden geen andere waarden worden toegevoegd dan de sindsdien ontvangen premies of de met die premies verkregen waarden, voor zover deze dienen tot dekking van de technische voorzieningen.
 
 5. Indien het faillissement van een verzekeraar wordt uitgesproken zonder voorafgaande noodregeling of later dan een maand na beëindiging van de noodregeling, geldt het in het vierde lid bedoelde verbod vanaf de dag van faillietverklaring.
 
@@ -2573,7 +2573,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 ##### Artikel 8:15. (stortingen op aandelen en naheffingen)
 
-De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kredietinstelling of verzekeraar is bepaald, ingevolge de haar op grond van [artikel 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25) verleende machtiging bevoegd:
+De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kredietinstelling of verzekeraar is bepaald, ingevolge de haar op grond van [artikel 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01) verleende machtiging bevoegd:
 
 - a. alle nog niet gedane stortingen op de aandelen in het geplaatste kapitaal van de kredietinstelling uit te schrijven en te innen;
 
@@ -2605,17 +2605,17 @@ De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kre
 
 ##### Artikel 8:18. (bijzondere machtiging aan DNB)
 
-1. Het Gerecht kan, tegelijk met de in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25), bedoelde machtiging of nadien, de Nederlandsche Bank op haar verzoek een bijzondere machtiging verlenen tot:
+1. Het Gerecht kan, tegelijk met de in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01), bedoelde machtiging of nadien, de Nederlandsche Bank op haar verzoek een bijzondere machtiging verlenen tot:
 
-- a. wijziging, bij de overdracht van rechten en verplichtingen krachtens overeenkomsten tot het ter beschikking verkrijgen van gelden of krachtens overeenkomsten van verzekering, van die overeenkomsten, met dien verstande dat bedingen in overeenkomsten waaruit vorderingen voortvloeien als bedoel in [artikel 8:16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:16&z=2013-01-25&g=2013-01-25), vorderingen die door pand of hypotheek op goederen van de kredietinstelling worden gedekt, of termijnen van huurkoop daarbij niet kunnen worden gewijzigd;
+- a. wijziging, bij de overdracht van rechten en verplichtingen krachtens overeenkomsten tot het ter beschikking verkrijgen van gelden of krachtens overeenkomsten van verzekering, van die overeenkomsten, met dien verstande dat bedingen in overeenkomsten waaruit vorderingen voortvloeien als bedoel in [artikel 8:16, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:16&z=2015-01-01&g=2015-01-01), vorderingen die door pand of hypotheek op goederen van de kredietinstelling worden gedekt, of termijnen van huurkoop daarbij niet kunnen worden gewijzigd;
 
 - b. verkorting van de duur van overeenkomsten tot het ter beschikking verkrijgen van gelden of van overeenkomsten van verzekering.
 
 2. Wijzigingen als bedoeld in het eerste lid, onderdeel a, die op de overeenkomsten van levensverzekering betrekking hebben, kunnen niet tot gevolg hebben dat aan verzekeringnemers meer verplichtingen worden opgelegd.
 
-3. Ten aanzien van de bijzondere machtiging is [artikel 8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2013-01-25&g=2013-01-25), eerste tot en met vijfde en zevende lid, van overeenkomstige toepassing.
+3. Ten aanzien van de bijzondere machtiging is [artikel 8:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2015-01-01&g=2015-01-01), eerste tot en met vijfde en zevende lid, van overeenkomstige toepassing.
 
-4. Zodra overdracht van rechten en verplichtingen krachtens de in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2013-01-25&g=2013-01-25), bedoelde machtiging heeft plaatsgevonden, maakt de Nederlandsche Bank deze overdracht en, zo door haar handelingen zijn verricht krachtens de in het eerste lid bedoelde bijzondere machtiging, die handelingen bekend in de Staatscourant en in ten minste twee door het Gerecht aan te wijzen dagbladen. De Nederlandsche Bank kan, indien zij dit in het belang van de schuldeisers van een kredietinstelling, onderscheidenlijk het belang van verzekeringnemers, verzekerden of gerechtigden op uitkeringen, nodig acht, bedoelde overdracht en handelingen tevens op andere wijze bekendmaken.
+4. Zodra overdracht van rechten en verplichtingen krachtens de in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2015-01-01&g=2015-01-01), bedoelde machtiging heeft plaatsgevonden, maakt de Nederlandsche Bank deze overdracht en, zo door haar handelingen zijn verricht krachtens de in het eerste lid bedoelde bijzondere machtiging, die handelingen bekend in de Staatscourant en in ten minste twee door het Gerecht aan te wijzen dagbladen. De Nederlandsche Bank kan, indien zij dit in het belang van de schuldeisers van een kredietinstelling, onderscheidenlijk het belang van verzekeringnemers, verzekerden of gerechtigden op uitkeringen, nodig acht, bedoelde overdracht en handelingen tevens op andere wijze bekendmaken.
 
 5. De overdracht en de wijziging, bedoeld in het eerste lid, onderdeel a, worden ten aanzien van alle andere belanghebbenden van de betrokken kredietinstelling of verzekeraar van kracht met ingang van de dag, volgende op die waarop de bekendmaking in de Staatscourant is geschied.
 
@@ -2649,9 +2649,9 @@ De noodregeling houdt van rechtswege op van kracht te zijn, indien de kredietins
 
 - b. een beroep op schuldvergelijking kan in afwijking van [artikel 49 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=49) slechts worden gedaan, indien de schuldvordering en de schuldplichtigheid beide zijn ontstaan vóór het tijdstip waarop de beschikking tot het uitspreken van de noodregeling uitvoerbaar is geworden, dan wel voortvloeien uit een handeling vóór dat tijdstip met de gefailleerde verricht;
 
-- c. handelingen, ingevolge de [artikelen 8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:13&z=2013-01-25&g=2013-01-25), [8:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:14&z=2013-01-25&g=2013-01-25) en [8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:15&z=2013-01-25&g=2013-01-25) door of namens de Nederlandsche Bank verricht gedurende de tijd dat de noodregeling van kracht was, gelden als handelingen van de curator, terwijl boedelschulden, gedurende die tijd ontstaan, ook in het faillissement als boedelschulden gelden;
+- c. handelingen, ingevolge de [artikelen 8:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:13&z=2015-01-01&g=2015-01-01), [8:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:14&z=2015-01-01&g=2015-01-01) en [8:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:15&z=2015-01-01&g=2015-01-01) door of namens de Nederlandsche Bank verricht gedurende de tijd dat de noodregeling van kracht was, gelden als handelingen van de curator, terwijl boedelschulden, gedurende die tijd ontstaan, ook in het faillissement als boedelschulden gelden;
 
-- d. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling of verzekeraar die in strijd met [artikel 8:13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:13&z=2013-01-25&g=2013-01-25), zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, behoudens voor zover deze daardoor is gebaat;
+- d. de boedel is niet aansprakelijk voor verbintenissen van de kredietinstelling of verzekeraar die in strijd met [artikel 8:13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:13&z=2015-01-01&g=2015-01-01), zijn aangegaan gedurende de tijd dat de noodregeling van kracht was, behoudens voor zover deze daardoor is gebaat;
 
 - e. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van [artikel 105, eerste lid, van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=105) worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld. Voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.
 
@@ -2661,7 +2661,7 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 
 ##### Artikel 8:25. (bevoorrechte vorderingen)
 
-1. In geval van noodregeling of faillissement worden de boedelschulden van een verzekeraar, overeenkomstig de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917), al naar gelang de aard van de betrokken boedelschuld hetzij mede over de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2013-01-25&g=2013-01-25) bedoelde waarden omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.
+1. In geval van noodregeling of faillissement worden de boedelschulden van een verzekeraar, overeenkomstig de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917), al naar gelang de aard van de betrokken boedelschuld hetzij mede over de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2015-01-01&g=2015-01-01) bedoelde waarden omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.
 
 2. Onverminderd het eerste lid dienen in geval van noodregeling of faillissement de in het eerste lid bedoelde waarden uitsluitend tot voldoening van de vorderingen ten laste van de verzekeraar ter zake van uitkeringen krachtens de vanuit de vestigingen in de openbare lichamen gesloten overeenkomsten van verzekering, niet zijnde uitkeringen, krachtens overeenkomst van herverzekering aan een andere verzekeraar verschuldigd.
 
@@ -2677,7 +2677,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 8:27. (stichting tot beheer van middelen)
 
-1. De middelen ter financiering en bekostiging van het depositogarantiestelsel kunnen worden ondergebracht in een door de Nederlandsche Bank of, in het geval van een Caribisch depositogarantiestelsel als bedoeld in het [artikel 8:26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2013-01-25&g=2013-01-25), een mede door de Nederlandsche Bank op te richten stichting tot beheer van die middelen.
+1. De middelen ter financiering en bekostiging van het depositogarantiestelsel kunnen worden ondergebracht in een door de Nederlandsche Bank of, in het geval van een Caribisch depositogarantiestelsel als bedoeld in het [artikel 8:26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2015-01-01&g=2015-01-01), een mede door de Nederlandsche Bank op te richten stichting tot beheer van die middelen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid, alsmede regels met betrekking tot het bestuur van een stichting als bedoeld in het eerste lid.
 
@@ -2685,41 +2685,41 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De Nederlandsche Bank is belast met de uitvoering van het depositogarantiestelsel in de openbare lichamen.
 
-2. De Nederlandsche Bank draagt bij toepassing van het depositogarantiestelsel zorg voor betaling van de vergoeding van de ingevolge [artikel 8:26, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2013-01-25&g=2013-01-25), daarvoor in aanmerking komende vorderingen van depositohouders.
+2. De Nederlandsche Bank draagt bij toepassing van het depositogarantiestelsel zorg voor betaling van de vergoeding van de ingevolge [artikel 8:26, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2015-01-01&g=2015-01-01), daarvoor in aanmerking komende vorderingen van depositohouders.
 
 3. De Nederlandsche Bank is bevoegd de uitvoering van het depositogarantiestelsel, alsmede de uitvoering van de in het tweede lid bedoelde taak geheel of gedeeltelijk uit te besteden. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld.
 
 ##### Artikel 8:29. (subrogatie)
 
-1. De Nederlandsche Bank treedt in de rechten die een depositohouder ter zake van een vordering op de betalingsonmachtige kredietinstelling heeft, voor zover zij aan die depositohouder een vergoeding als bedoeld in [artikel 8:28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:28&z=2013-01-25&g=2013-01-25), heeft betaald.
+1. De Nederlandsche Bank treedt in de rechten die een depositohouder ter zake van een vordering op de betalingsonmachtige kredietinstelling heeft, voor zover zij aan die depositohouder een vergoeding als bedoeld in [artikel 8:28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:28&z=2015-01-01&g=2015-01-01), heeft betaald.
 
-2. Indien de middelen ter financiering en bekostiging van het depositogarantiestelsel zijn ondergebracht in een stichting als bedoeld in [artikel 8:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:27&z=2013-01-25&g=2013-01-25), treedt in afwijking van het eerste lid die stichting in de in het eerste lid bedoelde rechten van de depositohouder.
+2. Indien de middelen ter financiering en bekostiging van het depositogarantiestelsel zijn ondergebracht in een stichting als bedoeld in [artikel 8:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:27&z=2015-01-01&g=2015-01-01), treedt in afwijking van het eerste lid die stichting in de in het eerste lid bedoelde rechten van de depositohouder.
 
 ##### Artikel 8:30. (geen hoofdelijke aansprakelijkheid DNB)
 
-De samenloop van vorderingen van depositohouders op een kredietinstelling ten aanzien waarvan het depositogarantiestelsel is toegepast, met aanspraken op vergoeding van de ingevolge [artikel 8:26, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2013-01-25&g=2013-01-25), daarvoor in aanmerking komende vorderingen, leidt er niet toe dat de Nederlandsche Bank en de boedel of de kredietinstelling hoofdelijk zijn verbonden.
+De samenloop van vorderingen van depositohouders op een kredietinstelling ten aanzien waarvan het depositogarantiestelsel is toegepast, met aanspraken op vergoeding van de ingevolge [artikel 8:26, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2015-01-01&g=2015-01-01), daarvoor in aanmerking komende vorderingen, leidt er niet toe dat de Nederlandsche Bank en de boedel of de kredietinstelling hoofdelijk zijn verbonden.
 
 ### Hoofdstuk 9. Strafbepalingen
 
 ##### Artikel 9:1. (misdrijven)
 
-1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25) wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
+1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01) wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
-2. Overtreding van de [artikelen 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), [2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25), [2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25), [2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2013-01-25&g=2013-01-25), [3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25), [3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2013-01-25&g=2013-01-25), [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2013-01-25&g=2013-01-25), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2013-01-25&g=2013-01-25), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2013-01-25&g=2013-01-25), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2013-01-25&g=2013-01-25), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25), [5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25), [5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2013-01-25&g=2013-01-25), [5:27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2013-01-25&g=2013-01-25), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2013-01-25&g=2013-01-25), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2013-01-25&g=2013-01-25), [6:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2013-01-25&g=2013-01-25), [6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2013-01-25&g=2013-01-25), [6:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2013-01-25&g=2013-01-25), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25), [6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:12&z=2013-01-25&g=2013-01-25), [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25), en [8:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2013-01-25&g=2013-01-25), jo. artikel 7:11, eerste lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
+2. Overtreding van de [artikelen 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), [2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01), [2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01), [2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2015-01-01&g=2015-01-01), [3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01), [3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2015-01-01&g=2015-01-01), [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2015-01-01&g=2015-01-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2015-01-01&g=2015-01-01), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2015-01-01&g=2015-01-01), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2015-01-01&g=2015-01-01), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01), [5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01), [5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2015-01-01&g=2015-01-01), [5:27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2015-01-01&g=2015-01-01), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2015-01-01&g=2015-01-01), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2015-01-01&g=2015-01-01), [6:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2015-01-01&g=2015-01-01), [6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2015-01-01&g=2015-01-01), [6:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2015-01-01&g=2015-01-01), [6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01), [6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:12&z=2015-01-01&g=2015-01-01), [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01), en [8:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2015-01-01&g=2015-01-01), jo. artikel 7:11, eerste lid, wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn misdrijven.
 
 ##### Artikel 9:2. (overtredingen)
 
-1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25) wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.
+1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01) wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.
 
-2. Overtreding van de [artikelen 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25), [2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25), [2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25), [2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2013-01-25&g=2013-01-25), [3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25), [3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2013-01-25&g=2013-01-25), [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2013-01-25&g=2013-01-25), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2013-01-25&g=2013-01-25), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2013-01-25&g=2013-01-25), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2013-01-25&g=2013-01-25), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25), [5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25), [5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2013-01-25&g=2013-01-25), [5:27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2013-01-25&g=2013-01-25), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2013-01-25&g=2013-01-25), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2013-01-25&g=2013-01-25), [6:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2013-01-25&g=2013-01-25), [6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2013-01-25&g=2013-01-25), [6:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2013-01-25&g=2013-01-25),[6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2013-01-25&g=2013-01-25), [6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:12&z=2013-01-25&g=2013-01-25), [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25), en [8:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2013-01-25&g=2013-01-25), jo. artikel 7:11, eerste lid, wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
+2. Overtreding van de [artikelen 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01), [2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01), [2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01), [2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2015-01-01&g=2015-01-01), [3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01), [3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2015-01-01&g=2015-01-01), [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2015-01-01&g=2015-01-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:9&z=2015-01-01&g=2015-01-01), [5:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2015-01-01&g=2015-01-01), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2015-01-01&g=2015-01-01), [5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01), [5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01), [5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2015-01-01&g=2015-01-01), [5:27, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2015-01-01&g=2015-01-01), [6:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2015-01-01&g=2015-01-01), [6:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:6&z=2015-01-01&g=2015-01-01), [6:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:8&z=2015-01-01&g=2015-01-01), [6:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2015-01-01&g=2015-01-01), [6:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2015-01-01&g=2015-01-01),[6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2015-01-01&g=2015-01-01), [6:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:12&z=2015-01-01&g=2015-01-01), [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01), en [8:11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:11&z=2015-01-01&g=2015-01-01), jo. artikel 7:11, eerste lid, wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 9:3. (opsporing van strafbare feiten)
 
-1. Met de opsporing van de in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:1&z=2013-01-25&g=2013-01-25) en [9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:2&z=2013-01-25&g=2013-01-25) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
+1. Met de opsporing van de in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:1&z=2015-01-01&g=2015-01-01) en [9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:2&z=2015-01-01&g=2015-01-01) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -2729,59 +2729,59 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 ##### Artikel 10:1. (vergunningen)
 
-1. Vergunningen tot uitoefening van het bedrijf van kredietinstelling of geldtransactiekantoor, verleend op grond van [artikel 2 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=2), berusten na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), met dien verstande dat vergunningen tot uitoefening van het bedrijf van kredietinstelling die zijn verleend aan een kredietaanbieder, niet zijnde een kredietinstelling, na de inwerkingtreding van deze wet op [artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), berusten.
+1. Vergunningen tot uitoefening van het bedrijf van kredietinstelling of geldtransactiekantoor, verleend op grond van [artikel 2 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=2), berusten na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), met dien verstande dat vergunningen tot uitoefening van het bedrijf van kredietinstelling die zijn verleend aan een kredietaanbieder, niet zijnde een kredietinstelling, na de inwerkingtreding van deze wet op [artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), berusten.
 
-2. Vergunningen tot uitoefening van het verzekeringsbedrijf, verleend op grond van [artikel 9 van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=9), berusten na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25).
+2. Vergunningen tot uitoefening van het verzekeringsbedrijf, verleend op grond van [artikel 9 van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=9), berusten na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01).
 
-3. Vergunningen voor het werkzaam zijn als trustkantoor, verleend op grond van [artikel 4 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=4), berusten, met uitzondering van bij die vergunningen behorende bijlagen als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=6) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=7), na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25).
+3. Vergunningen voor het werkzaam zijn als trustkantoor, verleend op grond van [artikel 4 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=4), berusten, met uitzondering van bij die vergunningen behorende bijlagen als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=6) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=7), na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01).
 
-4. Vergunningen voor het houden van een effectenbeurs, verleend op grond van [artikel 2 van de Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366&artikel=2), berusten na de inwerkingtreding van deze wet op [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25).
+4. Vergunningen voor het houden van een effectenbeurs, verleend op grond van [artikel 2 van de Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366&artikel=2), berusten na de inwerkingtreding van deze wet op [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01).
 
-5. Vergunningen aan beleggingsinstellingen, verleend op grond van [artikel 3 van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=3), berusten na de inwerkingtreding van deze wet op [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25).
+5. Vergunningen aan beleggingsinstellingen, verleend op grond van [artikel 3 van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=3), berusten na de inwerkingtreding van deze wet op [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 10:2. (van rechtswege vergunningen)
 
-1. Aan personen die op het tijdstip van inwerkingtreding van deze wet waren vermeld op een bijlage als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=6) of [7 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=7), wordt van rechtswege vergunning als bedoeld in [artikel 2:1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25), verleend, met dien verstande dat die vergunning uitsluitend strekt tot het verlenen van beheersdiensten als bedoeld in [artikel 1 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=1).
+1. Aan personen die op het tijdstip van inwerkingtreding van deze wet waren vermeld op een bijlage als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=6) of [7 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=7), wordt van rechtswege vergunning als bedoeld in [artikel 2:1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01), verleend, met dien verstande dat die vergunning uitsluitend strekt tot het verlenen van beheersdiensten als bedoeld in [artikel 1 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=1).
 
 2. De op grond van het eerste lid verleende vergunningen vervallen na verloop van zes maanden, gerekend vanaf het tijdstip van inwerkingtreding van deze wet.
 
-3. Aan bemiddelaars die op het tijdstip van inwerkingtreding van deze wet waren ingeschreven in het register voor assurantiebemiddelaars op grond van [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=4), wordt van rechtswege vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25), verleend om als bemiddelaar in verzekeringen op te treden.
+3. Aan bemiddelaars die op het tijdstip van inwerkingtreding van deze wet waren ingeschreven in het register voor assurantiebemiddelaars op grond van [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=4), wordt van rechtswege vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01), verleend om als bemiddelaar in verzekeringen op te treden.
 
 ##### Artikel 10:3. (buitenlandse zetelhouders)
 
-[Artikel 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25), is, zolang een onderneming haar zetel niet verplaatst naar een andere staat, niet van toepassing op financiële ondernemingen die op het tijdstip van inwerkingtreding van deze wet hun zetel hadden buiten de openbare lichamen, Curaçao en Sint Maarten.
+[Artikel 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01), is, zolang een onderneming haar zetel niet verplaatst naar een andere staat, niet van toepassing op financiële ondernemingen die op het tijdstip van inwerkingtreding van deze wet hun zetel hadden buiten de openbare lichamen, Curaçao en Sint Maarten.
 
 ##### Artikel 10:4. (ontheffingen)
 
-1. Ontheffingen, verleend op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), die betrekking hebben op een mede op grond van deze wet bestaande verplichting, berusten, voor zover van die verplichting ingevolge de bij of krachtens [artikel 1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2013-01-25&g=2013-01-25) gestelde regels ontheffing kan worden verleend, na de inwerkingtreding van deze wet op artikel 1:27.
+1. Ontheffingen, verleend op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), die betrekking hebben op een mede op grond van deze wet bestaande verplichting, berusten, voor zover van die verplichting ingevolge de bij of krachtens [artikel 1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2015-01-01&g=2015-01-01) gestelde regels ontheffing kan worden verleend, na de inwerkingtreding van deze wet op artikel 1:27.
 
-2. Ontheffingen, verleend op grond van [artikel 9 van de Wet zeggenschap in ter beurze genoteerde vennootschappen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028364&artikel=9), worden na de inwerkingtreding van deze wet aangemerkt als ontheffingen, bedoeld in [artikel 6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2013-01-25&g=2013-01-25).
+2. Ontheffingen, verleend op grond van [artikel 9 van de Wet zeggenschap in ter beurze genoteerde vennootschappen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028364&artikel=9), worden na de inwerkingtreding van deze wet aangemerkt als ontheffingen, bedoeld in [artikel 6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 10:5. (betrouwbaarheid en geschiktheid beleidsbepalers)
 
-1. Indien de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in [artikel 3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25), staat de betrouwbaarheid van die persoon voor de toepassing van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling en zolang geen nieuwe beoordeling als bedoeld in artikel 3:4, vierde lid, is voorgeschreven.
+1. Indien de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in [artikel 3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01), staat de betrouwbaarheid van die persoon voor de toepassing van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling en zolang geen nieuwe beoordeling als bedoeld in artikel 3:4, vierde lid, is voorgeschreven.
 
-2. Indien een persoon als bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2013-01-25&g=2013-01-25), op grond van een in het eerste lid genoemde wet voldoende deskundig is bevonden, wordt hij voor de toepassing van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
+2. Indien een persoon als bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2015-01-01&g=2015-01-01), op grond van een in het eerste lid genoemde wet voldoende deskundig is bevonden, wordt hij voor de toepassing van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
 ##### Artikel 10:6. (verklaringen van geen bezwaar)
 
-Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=46) of [artikel 81 van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=81), worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een op grond van [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25) verkregen verklaring van geen bezwaar.
+Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=46) of [artikel 81 van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=81), worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een op grond van [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01) verkregen verklaring van geen bezwaar.
 
 ##### Artikel 10:7. (aanwijzingen en aanzeggingen)
 
-1. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de[Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2013-01-25&g=2013-01-25) gegeven aanwijzing.
+1. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de[Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2015-01-01&g=2015-01-01) gegeven aanwijzing.
 
 2. Een op grond van [artikel 22, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=22) gedaan verzoek om bepaalde maatregelen te nemen of een bepaalde gedragslijn te volgen wordt voor de toepassing van het eerste lid aangemerkt als aanwijzing.
 
-3. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) gedane aanzegging wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een besluit op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2013-01-25&g=2013-01-25).
+3. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) gedane aanzegging wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een besluit op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 10:8. (bestuurlijke boeten)
 
-1. Een bestuurlijke boete, opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:30](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2013-01-25&g=2013-01-25) opgelegde bestuurlijke boete.
+1. Een bestuurlijke boete, opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:30](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2015-01-01&g=2015-01-01) opgelegde bestuurlijke boete.
 
 2. De toezichtautoriteit kan na de inwerkingtreding van deze wet tot een jaar na de dag waarop de overtreding is begaan, een bestuurlijke boete opleggen terzake van overtreding van een voorschrift, gesteld bij of krachtens een in het eerste lid genoemde wet. Op het opleggen van de boete blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.
 
-3. De [artikelen 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2013-01-25&g=2013-01-25) en [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2013-01-25&g=2013-01-25) zijn niet van toepassing op boeten als bedoeld in het eerste en tweede lid.
+3. De [artikelen 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2015-01-01&g=2015-01-01) en [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2015-01-01&g=2015-01-01) zijn niet van toepassing op boeten als bedoeld in het eerste en tweede lid.
 
 ##### Artikel 10:9. (noodregeling en faillissement)
 
@@ -2789,11 +2789,11 @@ Op de afhandeling van een noodregeling of faillietverklaring van een kredietinst
 
 ##### Artikel 10:10. (geheimhoudingsplicht en vertrouwelijke gegevens)
 
-De [artikelen 1:20 tot en met 1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2013-01-25&g=2013-01-25) zijn van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495).
+De [artikelen 1:20 tot en met 1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495).
 
 ##### Artikel 10:10a. (aansprakelijkheidsbeperking toezichtautoriteiten)
 
-[Artikel 1:13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:13a&z=2013-01-25&g=2013-01-25) is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=II).
+[Artikel 1:13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:13a&z=2015-01-01&g=2015-01-01) is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=II).
 
 #### § 2. **Wijziging van andere wetten**
 
@@ -2867,274 +2867,274 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 
 Deze wet wordt aangehaald als: Wet financiële markten BES.
 
-## Bijlage. als bedoeld in de [artikelen 7:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=4&artikel=7:21&z=2013-01-25&g=2013-01-25), en [7:30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2013-01-25&g=2013-01-25)
+## Bijlage. als bedoeld in de [artikelen 7:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=4&artikel=7:21&z=2015-01-01&g=2015-01-01), en [7:30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2015-01-01&g=2015-01-01)
 
 ### A. **Artikelen ter zake waarvan een last onder dwangsom kan worden opgelegd**
 
-[1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2013-01-25&g=2013-01-25),
+[1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2015-01-01&g=2015-01-01),
 
-[2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25),
+[2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01),
 
-[2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25),
+[2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01),
 
-[2:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2013-01-25&g=2013-01-25),
+[2:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2015-01-01&g=2015-01-01),
 
-[2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25),
+[2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01),
 
-[2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25),
+[2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01),
 
-[2:23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2013-01-25&g=2013-01-25),
+[2:23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2015-01-01&g=2015-01-01),
 
-[3:1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25),
+[3:1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01),
 
-[3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2013-01-25&g=2013-01-25) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2013-01-25&g=2013-01-25),
+[3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2015-01-01&g=2015-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2015-01-01&g=2015-01-01),
 
-[3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25),
+[3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01),
 
-[3:5 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2013-01-25&g=2013-01-25),
+[3:5 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2015-01-01&g=2015-01-01),
 
-[3:15 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2013-01-25&g=2013-01-25),
+[3:15 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2015-01-01&g=2015-01-01),
 
-[3:21 tot en met 3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:21&z=2013-01-25&g=2013-01-25),
+[3:21 tot en met 3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:21&z=2015-01-01&g=2015-01-01),
 
-[3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25),
+[3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01),
 
-[3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:29&z=2013-01-25&g=2013-01-25),
+[3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:29&z=2015-01-01&g=2015-01-01),
 
-[3:33 tot en met 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2013-01-25&g=2013-01-25),
+[3:33 tot en met 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2015-01-01&g=2015-01-01),
 
-[3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2013-01-25&g=2013-01-25),
+[3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2015-01-01&g=2015-01-01),
 
-[3:45, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25),
+[3:45, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01),
 
-[3:46, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25),
+[3:46, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01),
 
-[4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2013-01-25&g=2013-01-25),
+[4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2015-01-01&g=2015-01-01),
 
-[4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2013-01-25&g=2013-01-25),
+[4:2 tot en met 4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2015-01-01&g=2015-01-01),
 
-[4:5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2013-01-25&g=2013-01-25),
+[4:5, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:5&z=2015-01-01&g=2015-01-01),
 
-[4:8 tot en met 4:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:8&z=2013-01-25&g=2013-01-25),
+[4:8 tot en met 4:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:8&z=2015-01-01&g=2015-01-01),
 
-[4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:13&z=2013-01-25&g=2013-01-25),
+[4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:13&z=2015-01-01&g=2015-01-01),
 
-[4:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2013-01-25&g=2013-01-25),
+[4:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2015-01-01&g=2015-01-01),
 
-[4:16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2013-01-25&g=2013-01-25),
+[4:16, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2015-01-01&g=2015-01-01),
 
-[4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:17&z=2013-01-25&g=2013-01-25),
+[4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:17&z=2015-01-01&g=2015-01-01),
 
-[4:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2013-01-25&g=2013-01-25),
+[4:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2015-01-01&g=2015-01-01),
 
-[4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:19&z=2013-01-25&g=2013-01-25)en [4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:20&z=2013-01-25&g=2013-01-25),
+[4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:19&z=2015-01-01&g=2015-01-01)en [4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:20&z=2015-01-01&g=2015-01-01),
 
-[4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:22&z=2013-01-25&g=2013-01-25),
+[4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:22&z=2015-01-01&g=2015-01-01),
 
-[4:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2013-01-25&g=2013-01-25),
+[4:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2015-01-01&g=2015-01-01),
 
-[4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2013-01-25&g=2013-01-25),
+[4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2015-01-01&g=2015-01-01),
 
-[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25),
+[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01),
 
-[4:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:27&z=2013-01-25&g=2013-01-25) jo.[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25),
+[4:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:27&z=2015-01-01&g=2015-01-01) jo.[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01),
 
-[4:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:28&z=2013-01-25&g=2013-01-25),
+[4:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:28&z=2015-01-01&g=2015-01-01),
 
-[4:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:29&z=2013-01-25&g=2013-01-25),
+[4:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:29&z=2015-01-01&g=2015-01-01),
 
-[4:30 tot en met 4:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:30&z=2013-01-25&g=2013-01-25),
+[4:30 tot en met 4:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:30&z=2015-01-01&g=2015-01-01),
 
-[4:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:34&z=2013-01-25&g=2013-01-25),
+[4:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:34&z=2015-01-01&g=2015-01-01),
 
-[4:35, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2013-01-25&g=2013-01-25),
+[4:35, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2015-01-01&g=2015-01-01),
 
-[4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:36&z=2013-01-25&g=2013-01-25),
+[4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:36&z=2015-01-01&g=2015-01-01),
 
-[4:37 tot en met 4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:37&z=2013-01-25&g=2013-01-25)
+[4:37 tot en met 4:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:37&z=2015-01-01&g=2015-01-01)
 
-[4:40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2013-01-25&g=2013-01-25),
+[4:40, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2015-01-01&g=2015-01-01),
 
-[4:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:41&z=2013-01-25&g=2013-01-25),
+[4:41, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:41&z=2015-01-01&g=2015-01-01),
 
-[4:43](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:43&z=2013-01-25&g=2013-01-25),
+[4:43](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:43&z=2015-01-01&g=2015-01-01),
 
-[4:45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:45&z=2013-01-25&g=2013-01-25),
+[4:45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:45&z=2015-01-01&g=2015-01-01),
 
-[4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:46&z=2013-01-25&g=2013-01-25),
+[4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:46&z=2015-01-01&g=2015-01-01),
 
-[4:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:47&z=2013-01-25&g=2013-01-25),
+[4:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:47&z=2015-01-01&g=2015-01-01),
 
-[4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:48&z=2013-01-25&g=2013-01-25),
+[4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:48&z=2015-01-01&g=2015-01-01),
 
-[5:2 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:2&z=2013-01-25&g=2013-01-25)
+[5:2 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:2&z=2015-01-01&g=2015-01-01)
 
-[5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2013-01-25&g=2013-01-25),
+[5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2015-01-01&g=2015-01-01),
 
-[5:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2013-01-25&g=2013-01-25),
+[5:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2015-01-01&g=2015-01-01),
 
-[5:16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:16&z=2013-01-25&g=2013-01-25),
+[5:16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:16&z=2015-01-01&g=2015-01-01),
 
-[5:19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25),
+[5:19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01),
 
-[5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2013-01-25&g=2013-01-25),
+[5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2015-01-01&g=2015-01-01),
 
-[5:22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2013-01-25&g=2013-01-25),
+[5:22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2015-01-01&g=2015-01-01),
 
-[5:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:23&z=2013-01-25&g=2013-01-25),
+[5:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:23&z=2015-01-01&g=2015-01-01),
 
-[7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2013-01-25&g=2013-01-25),
+[7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2015-01-01&g=2015-01-01),
 
-[7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25),
+[7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01),
 
-[7:17, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:17&z=2013-01-25&g=2013-01-25),
+[7:17, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:17&z=2015-01-01&g=2015-01-01),
 
-[7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:19&z=2013-01-25&g=2013-01-25),
+[7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:19&z=2015-01-01&g=2015-01-01),
 
-[7:20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25),
+[7:20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01),
 
-[8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:2&z=2013-01-25&g=2013-01-25),
+[8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:2&z=2015-01-01&g=2015-01-01),
 
-[8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:3&z=2013-01-25&g=2013-01-25),
+[8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:3&z=2015-01-01&g=2015-01-01),
 
-[8:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2013-01-25&g=2013-01-25),
+[8:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2015-01-01&g=2015-01-01),
 
-[8:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2013-01-25&g=2013-01-25),
+[8:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2015-01-01&g=2015-01-01),
 
-[8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:6&z=2013-01-25&g=2013-01-25),
+[8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:6&z=2015-01-01&g=2015-01-01),
 
-[8:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:7&z=2013-01-25&g=2013-01-25).
+[8:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:7&z=2015-01-01&g=2015-01-01).
 
 ### B. **Artikelen ter zake waarvan een bestuurlijke boete kan worden opgelegd**
 
-[1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2013-01-25&g=2013-01-25),
+[1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2015-01-01&g=2015-01-01),
 
-[2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2013-01-25&g=2013-01-25),
+[2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2015-01-01&g=2015-01-01),
 
-[2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2013-01-25&g=2013-01-25),
+[2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2015-01-01&g=2015-01-01),
 
-[2:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2013-01-25&g=2013-01-25),
+[2:17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2015-01-01&g=2015-01-01),
 
-[2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:18&z=2013-01-25&g=2013-01-25),
+[2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:18&z=2015-01-01&g=2015-01-01),
 
-[2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2013-01-25&g=2013-01-25),
+[2:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2015-01-01&g=2015-01-01),
 
-[2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25),
+[2:22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01),
 
-[2:23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2013-01-25&g=2013-01-25),
+[2:23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:22&z=2015-01-01&g=2015-01-01),
 
-[3:1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2013-01-25&g=2013-01-25),
+[3:1, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2015-01-01&g=2015-01-01),
 
-[3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2013-01-25&g=2013-01-25) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2013-01-25&g=2013-01-25),
+[3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2015-01-01&g=2015-01-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:3&z=2015-01-01&g=2015-01-01),
 
-[3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2013-01-25&g=2013-01-25),
+[3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2015-01-01&g=2015-01-01),
 
-[3:5 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2013-01-25&g=2013-01-25),
+[3:5 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2015-01-01&g=2015-01-01),
 
-[3:15 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2013-01-25&g=2013-01-25),
+[3:15 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:15&z=2015-01-01&g=2015-01-01),
 
-[3:21 tot en met 3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:21&z=2013-01-25&g=2013-01-25),
+[3:21 tot en met 3:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:21&z=2015-01-01&g=2015-01-01),
 
-[3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2013-01-25&g=2013-01-25),
+[3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2015-01-01&g=2015-01-01),
 
-[3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:29&z=2013-01-25&g=2013-01-25),
+[3:29](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:29&z=2015-01-01&g=2015-01-01),
 
-[3:33 tot en met 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2013-01-25&g=2013-01-25),
+[3:33 tot en met 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2015-01-01&g=2015-01-01),
 
-[3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2013-01-25&g=2013-01-25),
+[3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2015-01-01&g=2015-01-01),
 
-[3:45, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2013-01-25&g=2013-01-25),
+[3:45, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2015-01-01&g=2015-01-01),
 
-[3:46, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2013-01-25&g=2013-01-25),
+[3:46, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2015-01-01&g=2015-01-01),
 
-[4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2013-01-25&g=2013-01-25),
+[4:1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2015-01-01&g=2015-01-01),
 
-[4:2 tot en met 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2013-01-25&g=2013-01-25),
+[4:2 tot en met 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:2&z=2015-01-01&g=2015-01-01),
 
-[4:8 tot en met 4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:8&z=2013-01-25&g=2013-01-25),
+[4:8 tot en met 4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:8&z=2015-01-01&g=2015-01-01),
 
-[4:15 tot en met 4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2013-01-25&g=2013-01-25),
+[4:15 tot en met 4:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:15&z=2015-01-01&g=2015-01-01),
 
-[4:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2013-01-25&g=2013-01-25),
+[4:18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:18&z=2015-01-01&g=2015-01-01),
 
-[4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:19&z=2013-01-25&g=2013-01-25) en [4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:20&z=2013-01-25&g=2013-01-25),
+[4:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:19&z=2015-01-01&g=2015-01-01) en [4:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:20&z=2015-01-01&g=2015-01-01),
 
-[4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:22&z=2013-01-25&g=2013-01-25),
+[4:22](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:22&z=2015-01-01&g=2015-01-01),
 
-[4:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2013-01-25&g=2013-01-25),
+[4:23, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2015-01-01&g=2015-01-01),
 
-[4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2013-01-25&g=2013-01-25),
+[4:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2015-01-01&g=2015-01-01),
 
-[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25),
+[4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01),
 
-[4:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:27&z=2013-01-25&g=2013-01-25) jo. [4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2013-01-25&g=2013-01-25),
+[4:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:27&z=2015-01-01&g=2015-01-01) jo. [4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2015-01-01&g=2015-01-01),
 
-[4:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:28&z=2013-01-25&g=2013-01-25),
+[4:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:28&z=2015-01-01&g=2015-01-01),
 
-[4:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:29&z=2013-01-25&g=2013-01-25),
+[4:29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:29&z=2015-01-01&g=2015-01-01),
 
-[4:30 tot en met 4:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:30&z=2013-01-25&g=2013-01-25),
+[4:30 tot en met 4:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:30&z=2015-01-01&g=2015-01-01),
 
-[4:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:34&z=2013-01-25&g=2013-01-25),
+[4:34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:34&z=2015-01-01&g=2015-01-01),
 
-[4:35, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2013-01-25&g=2013-01-25),
+[4:35, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2015-01-01&g=2015-01-01),
 
-[4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:36&z=2013-01-25&g=2013-01-25),
+[4:36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:36&z=2015-01-01&g=2015-01-01),
 
-[4:37 tot en met 4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:37&z=2013-01-25&g=2013-01-25),
+[4:37 tot en met 4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:37&z=2015-01-01&g=2015-01-01),
 
-[4:43](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:43&z=2013-01-25&g=2013-01-25),
+[4:43](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:43&z=2015-01-01&g=2015-01-01),
 
-[4:45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:45&z=2013-01-25&g=2013-01-25),
+[4:45, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:45&z=2015-01-01&g=2015-01-01),
 
-[4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:46&z=2013-01-25&g=2013-01-25),
+[4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:46&z=2015-01-01&g=2015-01-01),
 
-[4:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:47&z=2013-01-25&g=2013-01-25),
+[4:47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:47&z=2015-01-01&g=2015-01-01),
 
-[4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:48&z=2013-01-25&g=2013-01-25),
+[4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:48&z=2015-01-01&g=2015-01-01),
 
-[5:2 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:2&z=2013-01-25&g=2013-01-25),
+[5:2 tot en met 5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:2&z=2015-01-01&g=2015-01-01),
 
-[5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2013-01-25&g=2013-01-25),
+[5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:14&z=2015-01-01&g=2015-01-01),
 
-[5:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2013-01-25&g=2013-01-25),
+[5:15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:15&z=2015-01-01&g=2015-01-01),
 
-[5:16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:16&z=2013-01-25&g=2013-01-25),
+[5:16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=2&artikel=5:16&z=2015-01-01&g=2015-01-01),
 
-[5:19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2013-01-25&g=2013-01-25),
+[5:19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2015-01-01&g=2015-01-01),
 
-[5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2013-01-25&g=2013-01-25),
+[5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2015-01-01&g=2015-01-01),
 
-[5:22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2013-01-25&g=2013-01-25),
+[5:22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:22&z=2015-01-01&g=2015-01-01),
 
-[5:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:23&z=2013-01-25&g=2013-01-25),
+[5:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:23&z=2015-01-01&g=2015-01-01),
 
-[5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2013-01-25&g=2013-01-25),
+[5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2015-01-01&g=2015-01-01),
 
-[5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2013-01-25&g=2013-01-25),
+[5:26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:26&z=2015-01-01&g=2015-01-01),
 
-[5:27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2013-01-25&g=2013-01-25),
+[5:27, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:27&z=2015-01-01&g=2015-01-01),
 
-[7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2013-01-25&g=2013-01-25),
+[7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2015-01-01&g=2015-01-01),
 
-[7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2013-01-25&g=2013-01-25),
+[7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2015-01-01&g=2015-01-01),
 
-[7:17, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:17&z=2013-01-25&g=2013-01-25),
+[7:17, eerste en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:17&z=2015-01-01&g=2015-01-01),
 
-[7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:19&z=2013-01-25&g=2013-01-25),
+[7:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:19&z=2015-01-01&g=2015-01-01),
 
-[7:20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2013-01-25&g=2013-01-25),
+[7:20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2015-01-01&g=2015-01-01),
 
-[8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:2&z=2013-01-25&g=2013-01-25),
+[8:2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:2&z=2015-01-01&g=2015-01-01),
 
-[8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:3&z=2013-01-25&g=2013-01-25),
+[8:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:3&z=2015-01-01&g=2015-01-01),
 
-[8:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2013-01-25&g=2013-01-25),
+[8:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:4&z=2015-01-01&g=2015-01-01),
 
-[8:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2013-01-25&g=2013-01-25),
+[8:5, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2015-01-01&g=2015-01-01),
 
-[8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:6&z=2013-01-25&g=2013-01-25),
+[8:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:6&z=2015-01-01&g=2015-01-01),
 
-[8:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:7&z=2013-01-25&g=2013-01-25).
+[8:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:7&z=2015-01-01&g=2015-01-01).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
