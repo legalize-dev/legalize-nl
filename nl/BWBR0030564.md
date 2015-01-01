@@ -4,7 +4,7 @@ identifier: "BWBR0030564"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030564"
 soort: "ministeriele-regeling"
@@ -108,9 +108,9 @@ De controle-instelling voert zelf de controle feitelijk uit.
 
 ##### Artikel 8
 
-1. De termijn voor uitvoering van de hernieuwde controle, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=43), vangt aan op het moment dat het controlerapport door de controle-instelling is vastgesteld dan wel op het tijdstip dat deze op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01), uiterlijk had moeten zijn vastgesteld.
+1. De termijn voor uitvoering van de hernieuwde controle, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=43), vangt aan op het moment dat het controlerapport door de controle-instelling is vastgesteld dan wel op het tijdstip dat deze op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2015-01-01), uiterlijk had moeten zijn vastgesteld.
 
-2. Op de hernieuwde controle zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=3&z=2012-01-01&g=2012-01-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=5&z=2012-01-01&g=2012-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing, met dien verstande dat de hernieuwde controle respectievelijk het daarover vast te stellen controlerapport alleen betrekking heeft op de onderdelen, bedoeld in artikel 5, tweede lid, die bij de controle niet voldeden aan de eisen.
+2. Op de hernieuwde controle zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=3&z=2012-01-01&g=2015-01-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=5&z=2012-01-01&g=2015-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2015-01-01) van overeenkomstige toepassing, met dien verstande dat de hernieuwde controle respectievelijk het daarover vast te stellen controlerapport alleen betrekking heeft op de onderdelen, bedoeld in artikel 5, tweede lid, die bij de controle niet voldeden aan de eisen.
 
 ### Hoofdstuk 4. Slotbepalingen
 
