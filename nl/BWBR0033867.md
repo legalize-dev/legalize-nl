@@ -4,7 +4,7 @@ identifier: "BWBR0033867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033867"
 soort: "AMvB"
@@ -78,7 +78,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2014-01-01&g=2014-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
+## Bijlage. behorende bij [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0033867&artikel=II&z=2015-01-01&g=2015-01-01) van het Besluit tot wijziging van het Besluit financiële verhouding 2001 in verband met het vaststellen en wijzigen van enkele verdeelmaatstaven (2013)
 
 ### Compensatie voor het afschaffen van het gebruikersdeel van de OZB voor woningen over de jaren 2010 tot en met 2013
 
