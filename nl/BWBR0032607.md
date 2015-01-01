@@ -4,7 +4,7 @@ identifier: "BWBR0032607"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2014-12-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032607"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - e. **een ondersteunende dienst:** een ondersteunende dienst als bedoeld in [artikel 2, tweede lid, van de Regeling beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032673&artikel=2);
 
-- f. **klachtencommissie:** een commissie als bedoeld in [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2014-12-01&g=2014-12-01);
+- f. **klachtencommissie:** een commissie als bedoeld in [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2015-01-01&g=2015-01-01);
 
-- g. **nationale klachtencommissie:** de commissie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=4&z=2014-12-01&g=2014-12-01);
+- g. **nationale klachtencommissie:** de commissie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=4&z=2015-01-01&g=2015-01-01);
 
-- h. **klachtencommissies:** de commissies, bedoeld in de [artikelen 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2014-12-01&g=2014-12-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=4&z=2014-12-01&g=2014-12-01).
+- h. **klachtencommissies:** de commissies, bedoeld in de [artikelen 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2015-01-01&g=2015-01-01), en [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=4&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 2
 
@@ -80,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 5. Bij de sollicitatie als lid van de klachtencommissie dient een verklaring omtrent gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) te worden overgelegd.
 
-6. Een advies over een klacht dient door drie leden tot stand te komen. In nader te bepalen gevallen, te bepalen in het huishoudelijk reglement, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2014-12-01&g=2014-12-01), kan hiervan worden afgeweken.
+6. Een advies over een klacht dient door drie leden tot stand te komen. In nader te bepalen gevallen, te bepalen in het huishoudelijk reglement, bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2015-01-01&g=2015-01-01), kan hiervan worden afgeweken.
 
 7. Bij de samenstelling van de klachtencommissie wordt in ieder geval zorg gedragen voor de benodigde juridische deskundigheid, vaardigheden op het gebied van geschillenbeslechting of bemiddeling en kennis van het politiewerk. De leden van de klachtencommissie komen uit diverse maatschappelijke geledingen.
 
-8. De politiechef wijst een ambtelijk secretaris aan.
+8. De politiechef wijst een ambtelijk secretaris aan. De ambtelijk secretaris neemt niet deel aan de besluitvorming van de commissie en is niet betrokken bij de behandeling of coördinatie van klachten over gedragingen van ambtenaren van politie.
 
 9. De leden worden benoemd voor een periode van ten hoogste vier jaar en kunnen eenmaal worden herbenoemd voor een periode van ten hoogste vier jaar.
 
@@ -94,11 +94,11 @@ In deze regeling wordt verstaan onder:
 
 1. Er is een nationale klachtencommissie, die de Minister en de korpschef gevraagd en ongevraagd adviseert bij hun in [artikel 70, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=70) genoemde taken.
 
-2. De nationale klachtencommissie bestaat uit de voorzitters, bedoeld in [artikel 3, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01).
+2. De nationale klachtencommissie bestaat uit de voorzitters, bedoeld in [artikel 3, tweede lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01).
 
 3. De nationale klachtencommissie wijst uit haar midden een vaste voorzitter en een plaatsvervanger aan, die de onafhankelijkheid van de nationale klachtencommissie bewaken.
 
-4. Een advies dient door drie leden tot stand te komen. In nader te bepalen gevallen, te bepalen in het huishoudelijk reglement zoals bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2014-12-01&g=2014-12-01), kan hiervan worden afgeweken.
+4. Een advies dient door drie leden tot stand te komen. In nader te bepalen gevallen, te bepalen in het huishoudelijk reglement zoals bedoeld in [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2015-01-01&g=2015-01-01), kan hiervan worden afgeweken.
 
 5. De Minister wijst een ambtelijk secretaris aan wanneer de nationale klachtencommissie in functie komt. De ambtelijk secretaris neemt niet deel aan de besluitvorming van de commissie en is niet betrokken bij de behandeling of coördinatie van klachten over gedragingen van ambtenaren van politie.
 
@@ -108,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 1. De klachtencommissie stelt jaarlijks een jaarverslag van haar werkzaamheden vast overeenkomstig een door de korpschef in overeenstemming met de voorzitters van de klachtencommissies vastgesteld model. De nationale klachtencommissie stelt alleen een jaarverslag op wanneer de nationale klachtencommissie in het betreffende jaar de Minister of de korpschef heeft geadviseerd bij hun in [artikel 70, derde en vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=70) genoemde taken.
 
-2. De klachtencommissies registreren de klachten conform de uniforme rubricering zoals bepaald krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=6&z=2014-12-01&g=2014-12-01).
+2. De klachtencommissies registreren de klachten conform de uniforme rubricering zoals bepaald krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=6&z=2015-01-01&g=2015-01-01).
 
 3. Het jaarverslag wordt uiterlijk 1 maart aangeboden aan de politiechef, alsmede aan de korpschef ten behoeve van het jaarverslag van de politie. Het jaarverslag van de nationale klachtencommissie wordt in voorkomende gevallen uiterlijk 1 maart aangeboden aan de Minister en de korpschef.
 
@@ -116,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 5. De leden van de klachtencommissies gaan vertrouwelijk om met informatie die zij vernemen tijdens de klachtbehandeling.
 
-6. De commissies, bedoeld in [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2014-12-01&g=2014-12-01), stellen gezamenlijk een huishoudelijk reglement op waarin in ieder geval afspraken staan over een gedeelde werkwijze en de werking van de nationale klachtencommissie. De korpschef biedt hierin ondersteuning.
+6. De commissies, bedoeld in [artikel 2, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=2&z=2015-01-01&g=2015-01-01), stellen gezamenlijk een huishoudelijk reglement op waarin in ieder geval afspraken staan over een gedeelde werkwijze en de werking van de nationale klachtencommissie. De korpschef biedt hierin ondersteuning.
 
 7. De korpschef voorziet in de bekostiging van de klachtencommissies, waaronder de vergoeding aan de leden overeenkomstig een op grond van [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) door de Minister te nemen besluit.
 
@@ -128,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister biedt het verslag, bedoeld in het tweede lid, aan de Tweede Kamer aan.
 
-4. De verslagen, bedoeld in dit artikel en in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2014-12-01&g=2014-12-01), bevatten geen gegevens die tot individuele personen herleidbaar zijn.
+4. De verslagen, bedoeld in dit artikel en in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=5&z=2015-01-01&g=2015-01-01), bevatten geen gegevens die tot individuele personen herleidbaar zijn.
 
 ##### Artikel 7
 
@@ -136,15 +136,15 @@ De korpschef stelt nadere regels vast omtrent de uniforme wijze waarop de behand
 
 ##### Artikel 8
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2013 met uitzondering van [artikel 3, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01), die in werking treedt met ingang van 1 januari 2015.
+1. Deze regeling treedt in werking met ingang van 1 januari 2013 met uitzondering van [artikel 3, achtste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01), die in werking treedt met ingang van 1 januari 2015.
 
-2. De verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01), om de leden van de klachtencommissie te benoemen op basis van een open sollicitatieprocedure, is niet van toepassing op de benoeming met ingang van 1 januari 2013, voor zover het een commissielid betreft dat voor 1 januari 2013 lid was van een klachtencommissie als bedoeld in [artikel 61, tweede lid, onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=61), zoals dit luidde voor 1 januari 2013.
+2. De verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01), om de leden van de klachtencommissie te benoemen op basis van een open sollicitatieprocedure, is niet van toepassing op de benoeming met ingang van 1 januari 2013, voor zover het een commissielid betreft dat voor 1 januari 2013 lid was van een klachtencommissie als bedoeld in [artikel 61, tweede lid, onderdeel a, van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=61), zoals dit luidde voor 1 januari 2013.
 
-3. In afwijking van [artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01), kunnen de voorzitter, de plaatsvervangend voorzitters en de overige leden van de klachtencommissie tot 1 juni 2015 worden benoemd uit het midden van de leden van de klachtencommissie.
+3. In afwijking van [artikel 3, tweede lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01), kunnen de voorzitter, de plaatsvervangend voorzitters en de overige leden van de klachtencommissie tot 1 juni 2015 worden benoemd uit het midden van de leden van de klachtencommissie.
 
-4. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01), behouden de voor 1 december 2014 benoemde leden die hoedanigheid tot uiterlijk 1 juni 2015.
+4. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01), behouden de voor 1 december 2014 benoemde leden die hoedanigheid tot uiterlijk 1 juni 2015.
 
-5. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2014-12-01&g=2014-12-01), behouden de voor 1 december 2014 aangewezen voorzitters respectievelijk plaatsvervangers die hoedanigheid tot de datum waarop de Minister hen uit die hoedanigheid ontheft, tot uiterlijk 1 juni 2015.
+5. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032607&artikel=3&z=2015-01-01&g=2015-01-01), behouden de voor 1 december 2014 aangewezen voorzitters respectievelijk plaatsvervangers die hoedanigheid tot de datum waarop de Minister hen uit die hoedanigheid ontheft, tot uiterlijk 1 juni 2015.
 
 ##### Artikel 9
 
