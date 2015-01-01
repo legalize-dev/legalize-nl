@@ -4,7 +4,7 @@ identifier: "BWBR0029341"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029341"
 soort: "wet"
@@ -102,13 +102,13 @@ Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
 ##### Artikel XIII
 
-1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de verlagingen van het belastingbedrag in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a) en [9b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) ingevolge de [artikelen IX, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2014-01-01&g=2014-01-01).
+1. [Artikel 16a, eerste en tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16a) is van overeenkomstige toepassing op de verlagingen van het belastingbedrag in de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9a) en [9b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9b) ingevolge de [artikelen IX, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2015-01-01&g=2015-01-01).
 
-2. [Artikel IX, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2014-01-01&g=2014-01-01), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2011 voor het eerst in gebruik zijn genomen.
+2. [Artikel IX, onderdelen B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2015-01-01&g=2015-01-01), vindt geen toepassing ten aanzien van personenauto’s die vóór 1 januari 2011 voor het eerst in gebruik zijn genomen.
 
 ##### Artikel XIV
 
-1. [Artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) vindt bij het begin van het kalenderjaar 2011 geen toepassing op de in [artikel IX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2014-01-01&g=2014-01-01), genoemde bedragen in de tabellen van [artikel 9, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9).
+1. [Artikel 16b van de Wet op de belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=16b) vindt bij het begin van het kalenderjaar 2011 geen toepassing op de in [artikel IX, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IX&z=2015-01-01&g=2015-01-01), genoemde bedragen in de tabellen van [artikel 9, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005806&artikel=9).
 
 2. Vervallen.
 
@@ -210,17 +210,17 @@ Ingeval de samenloop van wetten die in 2010 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
-- a. [artikel I, onderdelen A, B, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=I&z=2014-01-01&g=2014-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2011 is toegepast;
+- a. [artikel I, onderdelen A, B, F, G en H](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=I&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2011 is toegepast;
 
-- b. [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IV&z=2014-01-01&g=2014-01-01), eerst toepassing vindt nadat [artikel 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), onderscheidenlijk [artikel 20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2011 is toegepast;
+- b. [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IV&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 20a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), onderscheidenlijk [artikel 20b, tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b) bij het begin van het kalenderjaar 2011 is toegepast;
 
-- c. [artikel IV, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IV&z=2014-01-01&g=2014-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22b) bij het begin van het kalenderjaar 2011 is toegepast.
+- c. [artikel IV, onderdelen D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IV&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22b) bij het begin van het kalenderjaar 2011 is toegepast.
 
-2. De [artikelen XIX, onderdeel B, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XIX&z=2014-01-01&g=2014-01-01), en [XIXA, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XIXa&z=2014-01-01&g=2014-01-01), werken terug tot en met 1 oktober 2010.
+2. De [artikelen XIX, onderdeel B, onder 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XIX&z=2015-01-01&g=2015-01-01), en [XIXA, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XIXa&z=2015-01-01&g=2015-01-01), werken terug tot en met 1 oktober 2010.
 
-3. In afwijking van het eerste lid treden de [artikelen XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXIV&z=2014-01-01&g=2014-01-01) en [XXV, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXV&z=2014-01-01&g=2014-01-01), in werking met ingang van 31 december 2010.
+3. In afwijking van het eerste lid treden de [artikelen XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXIV&z=2015-01-01&g=2015-01-01) en [XXV, onderdelen B, C, D en E](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXV&z=2015-01-01&g=2015-01-01), in werking met ingang van 31 december 2010.
 
-4. In afwijking van het eerste lid treden [artikel XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXI&z=2014-01-01&g=2014-01-01), en [artikel XXIA](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXIa&z=2014-01-01&g=2014-01-01) in werking met ingang van 1 maart 2011.
+4. In afwijking van het eerste lid treden [artikel XXI, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXI&z=2015-01-01&g=2015-01-01), en [artikel XXIA](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=XXIa&z=2015-01-01&g=2015-01-01) in werking met ingang van 1 maart 2011.
 
 ##### Artikel XXXII
 
