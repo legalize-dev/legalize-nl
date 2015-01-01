@@ -4,7 +4,7 @@ identifier: "BWBR0030097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-28"
-last_updated: "2011-06-17"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030097"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **verzekeraar:** een ziektekostenverzekeraar als bedoeld in [artikel 1, onder f, sub 3°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1);
 
-- c. **vrijwillige ziektekostenverzekering:** een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;
+- c. **vrijwillige ziektekostenverzekering:** een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;
 
 - d.
 
@@ -84,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1), die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2011-06-17&g=2011-06-17) bedoelde persoonsgegevens.
+1. Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1), die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde persoonsgegevens.
 
 2. Een verzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het verrichten van formele controle dan wel materiële controle ten behoeve van:
 
@@ -120,7 +120,7 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 - f. de gegevens die op grond van een declaratieregeling moeten worden verstrekt;
 
-- g. de gegevens die noodzakelijk zijn om vast te stellen of de prestatie behoort tot het verzekerde pakket van die verzekerde op grond van de vrijwillige ziektekostenverzekering, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of dat de kosten van de geleverde zorgprestaties ten laste komen van de Minister van Veiligheid en Justitie;
+- g. de gegevens die noodzakelijk zijn om vast te stellen of de prestatie behoort tot het verzekerde pakket van die verzekerde op grond van de vrijwillige ziektekostenverzekering, de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) of dat de kosten van de geleverde zorgprestaties ten laste komen van de Minister van Veiligheid en Justitie;
 
 - h. het bank- of gironummer en
 
@@ -128,7 +128,7 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 ##### Artikel 4
 
-1. De zorgaanbieder is verplicht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2011-06-17&g=2011-06-17) bedoelde gegevens te verstrekken aan:
+1. De zorgaanbieder is verplicht de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde gegevens te verstrekken aan:
 
 - a. de verzekeraar, of een door die verzekeraar daartoe aangewezen persoon, indien die zorgaanbieder het tarief voor de geleverde prestatie krachtens een door hem met de verzekeraar gesloten overeenkomst rechtstreeks bij die verzekeraar in rekening brengt;
 
@@ -136,7 +136,7 @@ De verzekeraar beschikt ten behoeve van de in het voorgaande artikel aangegeven 
 
 - c. de verzekerde, indien de verzekerde op grond van die gegevens krachtens een door hem met de verzekeraar gesloten overeenkomst een verzoek doet tot uitkering van een geldsom in verband met de verwezenlijking van een in die overeenkomst bepaald risico.
 
-2. De zorgaanbieder is verplicht de in [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2011-06-17&g=2011-06-17), bedoelde gegevens desgevraagd te verstrekken aan de verzekeraar of aan een door die verzekeraar daartoe aangewezen persoon.
+2. De zorgaanbieder is verplicht de in [artikel 3, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=3&z=2015-01-01&g=2015-01-01), bedoelde gegevens desgevraagd te verstrekken aan de verzekeraar of aan een door die verzekeraar daartoe aangewezen persoon.
 
 3. Voor de door de verzekeraar of bewerker aangewezen persoon gelden dezelfde wettelijke voorschriften betreffende de geheimhouding van de verwerkte gegevens als voor de verzekeraar of de bewerker die hem heeft aangewezen.
 
@@ -148,11 +148,11 @@ Met betrekking tot het uitvoeren van formele en materiële controle, het doen va
 
 De verzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 68a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68a) slechts verder indien en voor zo ver dit noodzakelijk is voor de uitvoering van:
 
-- a. de vrijwillige ziektekostenverzekering voor doelen omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=2&z=2011-06-17&g=2011-06-17) van deze regeling,
+- a. de vrijwillige ziektekostenverzekering voor doelen omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030097&artikel=2&z=2015-01-01&g=2015-01-01) van deze regeling,
 
 - b. de zorgverzekering en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) voor doelen omschreven in [artikel 7.1, tweede lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.1) of
 
-- c. de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) voor doelen omschreven in [artikel 2 van de Regeling persoonsgegevens zorgverzekeraars AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0030092&artikel=2).
+- c. de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) voor doelen omschreven in de Regeling langdurige zorg.
 
 ##### Artikel 7
 
