@@ -4,7 +4,7 @@ identifier: "BWBR0017207"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017207"
 soort: "AMvB"
@@ -45,9 +45,11 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wet wijziging systematiek herbeoordelingen arbeidsongeschiktheidswetten in werking treedt.
+
 ##### Artikel 1. Tijdstip van herbeoordeling
 
-1. Het tijdstip, bedoeld in de [artikelen 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) en [artikel 3:28, vijfde lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28), waarop door het Uitvoeringsinstituut werknemersverzekeringen wordt bezien of er in verband met wijziging van de mate van arbeidsongeschiktheid gronden zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering wordt als volgt vastgesteld:
+1. Het tijdstip, bedoeld in de [artikelen 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) en [artikel 3:28, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28), waarop door het Uitvoeringsinstituut werknemersverzekeringen wordt bezien of er in verband met wijziging van de mate van arbeidsongeschiktheid gronden zijn voor herziening of intrekking van de arbeidsongeschiktheidsuitkering wordt als volgt vastgesteld:
 
 - a. ten aanzien van personen geboren op of na 1 juli 1956: een tijdstip gelegen in de periode van 1 oktober 2004 tot en met 31 december 2006;
 
@@ -57,13 +59,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2. Uitzondering op herbeoordeling
 
-1. [Artikel 3:28, vijfde lid, eerste zin, van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28) en [artikel 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34) is niet van toepassing op personen die op 31 december 1986 dan wel 31 juli 1993 recht hadden op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van de Algemene Arbeidsongeschiktheidswet.
+1. [Artikel 3:28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28) en [artikel 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34) is niet van toepassing op personen die op 31 december 1986 dan wel 31 juli 1993 recht hadden op een arbeidsongeschiktheidsuitkering op grond van artikel 6, eerste lid, onderdeel b, van de Algemene Arbeidsongeschiktheidswet.
 
-2. De [artikelen 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [35, vijfde lid, eerste zin van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) en [28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=28) zijn niet van toepassing op:
+2. De [artikelen 34, vierde lid, eerste zin, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), [35, vijfde lid, eerste zin van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) en [3:28, vijfde lid, eerste zin, van de Wet arbeidsongeschiktheidsvoorziening jongehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28) zijn niet van toepassing op:
 
-- a. personen als bedoeld in [artikel 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2010-01-01&g=2010-01-01), ten aanzien van wie in de periode genoemd in dat onderdeel op een andere grond reeds een arbeidsongeschiktheidsbeoordeling als bedoeld in het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478) heeft plaatsgevonden;
+- a. personen als bedoeld in [artikel 1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2015-01-01&g=2015-01-01), ten aanzien van wie in de periode genoemd in dat onderdeel op een andere grond reeds een arbeidsongeschiktheidsbeoordeling als bedoeld in het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478) heeft plaatsgevonden;
 
-- b. personen als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2010-01-01&g=2010-01-01), ten aanzien van wie in de periode genoemd in [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2010-01-01&g=2010-01-01), op een andere grond reeds een arbeidsongeschiktheidsbeoordeling als bedoeld in het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478) heeft plaatsgevonden.
+- b. personen als bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2015-01-01&g=2015-01-01), ten aanzien van wie in de periode genoemd in [artikel 1, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=1&z=2015-01-01&g=2015-01-01), op een andere grond reeds een arbeidsongeschiktheidsbeoordeling als bedoeld in het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478) heeft plaatsgevonden.
 
 3. Het tweede lid is niet van toepassing indien de arbeidsongeschiktheidsbeoordeling nog heeft plaats gevonden op grond van het [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478) zoals dat luidde voor 1 oktober 2004.
 
@@ -71,9 +73,9 @@ Hebben goedgevonden en verstaan:
 
 1. Artikel 24 van de Algemene Arbeidsongeschiktheidswet, zoals dat luidde op 31 december 1997, is niet van toepassing op de personen, bedoeld in [artikel XIII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XIII), en [artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XXIV).
 
-2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2&z=2010-01-01&g=2010-01-01) is ten aanzien van personen als bedoeld in [artikel XIII, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XIII)[artikel 35 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) van toepassing.
+2. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2&z=2015-01-01&g=2015-01-01) is ten aanzien van personen als bedoeld in [artikel XIII, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XIII)[artikel 35 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=35) van toepassing.
 
-3. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2&z=2010-01-01&g=2010-01-01) is ten aanzien van personen als bedoeld in [artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XXIV)[artikel 3:28 van de Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28) van toepassing.
+3. Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017207&artikel=2&z=2015-01-01&g=2015-01-01) is ten aanzien van personen als bedoeld in [artikel XXIV, eerste lid, van de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658&artikel=XXIV) en [artikel 3:28 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:28) van toepassing.
 
 ##### Artikel 4. Inwerkingtreding
 
