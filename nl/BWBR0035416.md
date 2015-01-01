@@ -4,7 +4,7 @@ identifier: "BWBR0035416"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035416"
 soort: "AMvB"
@@ -68,11 +68,11 @@ Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit prudentiële regels Wft.
 
 ##### Artikel VII
 
-Na de inwerkingtreding van dit besluit berust de [Regeling beheerst beloningsbeleid Wft 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029246&wetgeving) op [artikel 23e, vijfde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23e).
+Na de inwerkingtreding van dit besluit berust de [Regeling beheerst beloningsbeleid Wft 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029246) op [artikel 23e, vijfde lid, van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=23e).
 
 ##### Artikel VIII
 
