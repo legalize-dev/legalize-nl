@@ -4,7 +4,7 @@ identifier: "BWBR0035333"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2014-07-16"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035333"
 soort: "wet"
@@ -45,7 +45,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ##### Artikel I. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ##### Artikel II. Wijziging van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
@@ -53,199 +53,199 @@ Wijzigt de Wet sociale werkvoorziening.
 
 ##### Artikel III. Wijziging van de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel IV. Wijziging van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet participatiebudget.
 
 ##### Artikel V. Wijziging van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel VI. Wijziging van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel VII. Wijziging van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel VIII. Wijziging van [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 ##### Artikel IX. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel X. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
 ##### Artikel XI. Wijziging van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XII. Wijziging van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel XIII. Wijziging van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel XIV. Wijziging van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel XV. Wijziging van de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ##### Artikel XVI. Wijziging van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomstenbelasting 2001.
 
 ##### Artikel XVII. Wijziging van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel XVIII. Wijziging van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel XIX. Wijziging van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel XX. Wijziging van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+**[Vervallen]**
 
 ##### Artikel XXII. Wijziging van [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel XXIII. Wijziging van [Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 6.
 
 ##### Artikel XXIV. Wijziging van de [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel XXV. Wijziging van de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Handelsregisterwet 2007.
 
 ##### Artikel XXVI. Wijziging van de [Uitkeringswet financiële compensatie langdurige militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0005569)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Uitkeringswet financiële compensatie langdurige militaire dienst.
 
 ##### Artikel XXVII. Wijziging van de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening militairen.
 
 ##### Artikel XXVIII. Wijziging van de [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de huurtoeslag.
 
 ##### Artikel XXIX. Wijziging van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ##### Artikel XXX. Wijziging van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet brutering overhevelingstoeslag lonen.
 
 ##### Artikel XXXI. Wijziging van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ##### Artikel XXXII. Wijziging van de [Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de lijkbezorging.
 
 ##### Artikel XXXIII. Wijziging van de [Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het consumentenkrediet.
 
 ##### Artikel XXXIV. Wijziging van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel XXXV. Wijziging van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel XXXVI. Wijziging van de [Wet Rietkerk-uitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0004338)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet Rietkerk-uitkering.
 
 ##### Artikel XXXVII. Wijziging van de [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel XXXVIII. Wijziging van de [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
 ##### Artikel XXXIX. Wijziging van [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ##### Artikel XL. Wijziging van de [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
 ##### Artikel XLI. Wijziging van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel XLII
 
-Dit onderdeel is nog niet inwerking getreden
+**[Vervallen]**
 
 ##### Artikel XLIIa
 
-Dit onderdeel is nog niet inwerking getreden
+**[Vervallen]**
 
 ##### Artikel XLIII. Wijziging van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XLIV. Wijziging van de [Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008658)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen.
 
 ##### Artikel XLV. Wijziging van de [Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene pensioenwet politieke ambtsdragers.
 
 ##### Artikel XLVI. Wijziging van de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](https://wetten.overheid.nl/jci1.3:c:BWBR0007891)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria.
 
 ##### Artikel XLVII. Wijziging van de [Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet invoering en financiering Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XLVIII. Wijziging van de [Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet overige OCW-subsidies.
 
 ##### Artikel XLIX. Wijziging van de [Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel L. Wijziging van het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Koophandel.
 
 ##### Artikel LI. Samenloopbepaling [Wet revitalisering generiek toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0031628)
 
@@ -257,26 +257,30 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel LIIa. Wijziging van de [Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0032087)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet aanscherping handhaving en sanctiebeleid SZW-wetgeving.
 
 ##### Artikel LIIb. Wijziging van de [Wet gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0031331)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeentelijke schuldhulpverlening.
 
 ##### Artikel LIIba. Wijziging van de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Jeugdwet.
 
 ##### Artikel LIIc. Evaluatiebepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel LIII. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+
+2. In afwijking van het eerste lid, treedt [artikel I, onderdeel Cc](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=I&z=2015-01-01&g=2015-01-01), drie jaar na het tijdstip van de inwerkingtreding van artikel I, onderdeel Cb, in werking.
+
+3. In afwijking van het eerste lid, treedt [artikel LIIBa, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=LIIba&z=2015-01-01&g=2015-01-01), drie jaar na het tijdstip van de inwerkingtreding van [artikel 2.8 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=2.8) in werking.
 
 ##### Artikel LIV. Citeertitel
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Invoeringswet Participatiewet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
