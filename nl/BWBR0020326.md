@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-05-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -54,13 +54,15 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 ##### Artikel 2
 
-Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
+1. Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) worden aangewezen de werkzaamheden van:
 
 - a. de SBOH, voor zover het betreft de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) ten behoeve van de opleiding tot huisartsen en van de opleiding tot specialisten ouderengeneeskunde;
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
 - c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+
+2. Als zorg in de zin van de wet worden tevens aangewezen werkzaamheden in het kader van de verlening van zorg die krachtens [artikel 3, vierde lid, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) bij ministeriële regeling als forensische zorg is aangemerkt.
 
 ##### Artikel 3
 
@@ -76,7 +78,7 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - 1. Onze Minister op grond van een regeling als bedoeld in [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
-- 2. het Zorginstituut op grond van een regeling als bedoeld in [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=44) of [artikel 68 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=68);
+- 2. het Zorginstituut op grond van [artikel 10.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.3), [10.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.4) of [11.1.5 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.5);
 
 - c. de vaccinatie ten behoeve van de preventie van influenza;
 
@@ -84,9 +86,9 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - e. vervoer, anders dan ten aanzien waarvan de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) van toepassing is;
 
-- f. vervoer als omschreven in [artikel 10 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=10);
+- f. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
-- g. doventolkzorg als omschreven in [artikel 12 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=12);
+- g. woningaanpassingen als bedoeld in [artikel 3.1.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.3);
 
 - h. orthoptie;
 
@@ -96,7 +98,9 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 - k. huidtherapie;
 
-- l. optometrie.
+- l. optometrie;
+
+- m. zorg die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) wordt gefinancierd.
 
 2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f en h tot en met l, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.
 
@@ -114,11 +118,11 @@ Als zorg in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 1. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn niet van toepassing op zorg verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg.
 
-2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg is als omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5) en [6 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6).
+2. In afwijking van het eerste lid zijn de [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) van toepassing indien de zorg, verleend onder eigen verantwoordelijkheid door verpleegkundigen en verzorgenden in de individuele gezondheidszorg, zorg is als omschreven in [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10).
 
 ##### Artikel 6
 
-[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), [38, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) en [paragraaf 6.2 tot en met 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.2) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2).
+[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=34), [38, eerste en derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [40 tot en met 43](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) en [paragraaf 6.2 tot en met 6.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.2) zijn niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2) of in een krachtens [artikel 3, vierde lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) vastgestelde ministeriële regeling.
 
 ##### Artikel 7
 
