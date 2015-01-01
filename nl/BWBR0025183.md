@@ -4,7 +4,7 @@ identifier: "BWBR0025183"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-01-01"
-last_updated: "2010-10-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025183"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen:** de tegemoetkoming op grond van de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997);
 
-- –. **Verordening (EEG) nr. 1408/71:** Verordening (EEG) nr. 1408/71 van de Raad van 14 juni 1971 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEG L 149);
+- –. **Verordening (EG) nr. 883/2004:** Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166);
 
-- –. **Verordening (EEG) nr. 574/72:** Verordening (EEG) nr. 574/72 tot vaststelling van de wijze van toepassing van [Verordening (EEG) nr. 1408/71](31971R1408) betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (PbEGL 74);
+- –. **Verordening (EG) nr. 987/2009:** Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284);
 
-- –. **gezinsbijslag:** gezinsbijslag als bedoeld in artikel 1, onderdeel u, onder i, van Verordening (EEG) nr. 1408/71.
+- –. **gezinsbijslag:** gezinsbijslag als bedoeld in artikel 1, onderdeel z, van de Verordening (EG) nr. 883/2004.
 
 ##### Artikel 2. Samenloop met buitenlandse tegemoetkoming
 
@@ -74,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 4. Aanvulling na toepassing prioriteitsregels Verordening (EEG) nr. 1408/71 en Verordening (EEG) nr. 574/72 bij cumulatie gezinsbijslagen
 
-Indien met toepassing van de Verordening (EEG) nr. 1408/71 en Verordening (EEG) nr. 574/72 gezinsbijslagen in Nederland worden uitbetaald voor zover deze een gezinsbijslag of , bij meerdere gezinsbijslagen, het totale bedrag aan gezinsbijslagen op grond van een rechtens geldende regeling bestaande in een andere lidstaat overtreffen, vindt achtereenvolgens uitbetaling plaats van de kinderbijslag, de tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen, het kindgebonden budget en de kinderopvangtoeslag, tot ten hoogste het bedrag dat zou zijn uitbetaald indien het recht op grond van die verordeningen niet zou zijn geschorst.
+Indien met toepassing van de Verordening (EEG) nr. 883/2004 en de Verordening (EG) nr. 987/2009 gezinsbijslagen in Nederland worden uitbetaald voor zover deze een gezinsbijslag of , bij meerdere gezinsbijslagen, het totale bedrag aan gezinsbijslagen op grond van een rechtens geldende regeling bestaande in een andere lidstaat overtreffen, vindt achtereenvolgens uitbetaling plaats van de kinderbijslag, het kindgebonden budget en de kinderopvangtoeslag, tot ten hoogste het bedrag dat zou zijn uitbetaald indien het recht op grond van die verordeningen niet zou zijn geschorst.
 
 ##### Artikel 5. Overgangsbepaling
 
@@ -86,10 +86,16 @@ De [Regeling samenloop kinderbijslag](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 7. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2010-10-14&g=2010-10-14) terugwerkt tot en met 1 januari 2008.
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met dien verstande dat [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=4&z=2015-01-01&g=2015-01-01) terugwerkt tot en met 1 januari 2008.
 
 ##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling samenloop met buitenlandse tegemoetkomingen 2008.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 4a. Toerekening kindgebonden budget
+
+Indien de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind en voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0025183&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde landen als woonland in aanmerking wordt genomen, is [artikel 2 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=2) van overeenkomstige toepassing voor de bepaling van het bedrag aan kindgebonden budget per kind.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
