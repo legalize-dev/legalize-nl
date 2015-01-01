@@ -128,9 +128,3 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. Deze 
 1. De [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880) blijft van toepassing op de afwikkeling van de voorschotverlening op uitkeringen inzake de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
 
 2. Deze regeling wordt aangehaald als: Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015.
-
-##### Artikel 12. Slotbepalingen
-
-1. De [Regeling voorschotverlening op uitkeringen AWBZ 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032880) blijft van toepassing op de afwikkeling van de voorschotverlening op uitkeringen inzake de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving).
-
-2. Deze regeling wordt aangehaald als: Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015.
