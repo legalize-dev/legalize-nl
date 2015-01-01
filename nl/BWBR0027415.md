@@ -4,7 +4,7 @@ identifier: "BWBR0027415"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2012-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027415"
 soort: "wet"
@@ -49,7 +49,7 @@ Wijzigt de Wet op de architectentitel.
 
 ##### Artikel II
 
-In de [artikelen III tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=III&z=2012-01-01&g=2012-01-01) wordt verstaan onder:
+In de [artikelen III tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=III&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
 
 - **bureau:** bureau architectenregister als bedoeld in [artikel 2a, eerste lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=2a);
 
@@ -57,7 +57,7 @@ In de [artikelen III tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel III
 
-1. Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), zijn de personeelsleden van de Stichting bureau architectenregister van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, van rechtswege ontslagen en aangesteld als personeelsleden in dienst van het bureau.
+1. Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), zijn de personeelsleden van de Stichting bureau architectenregister van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, van rechtswege ontslagen en aangesteld als personeelsleden in dienst van het bureau.
 
 2. [Artikel 15 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=15) is niet van toepassing op de personeelsleden, bedoeld in het eerste lid.
 
@@ -65,21 +65,21 @@ In de [artikelen III tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR002
 
 ##### Artikel IV
 
-Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), gaan de vermogensbestanddelen van de Stichting bureau architectenregister onder algemene titel over op het bureau. De overgang van de vermogensbestanddelen wordt niet fiscaal belast.
+Met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), gaan de vermogensbestanddelen van de Stichting bureau architectenregister onder algemene titel over op het bureau. De overgang van de vermogensbestanddelen wordt niet fiscaal belast.
 
 ##### Artikel V
 
-Archiefbescheiden van de Stichting bureau architectenregister betreffende zaken die op het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), nog niet zijn afgedaan, worden overgedragen aan het bureau, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
+Archiefbescheiden van de Stichting bureau architectenregister betreffende zaken die op het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), nog niet zijn afgedaan, worden overgedragen aan het bureau, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
 ##### Artikel VI
 
-1. In wettelijke procedures en rechtsgedingen waarbij de Stichting bureau architectenregister is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), het bureau in de plaats van de Stichting bureau architectenregister.
+1. In wettelijke procedures en rechtsgedingen waarbij de Stichting bureau architectenregister is betrokken, treedt met ingang van het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), het bureau in de plaats van de Stichting bureau architectenregister.
 
-2. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Stichting bureau architectenregister, treedt het bureau op dat tijdstip in de plaats van de Stichting bureau architectenregister.
+2. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), op grond van [artikel 12 van de Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=12) aan de Nationale ombudsman is verzocht een onderzoek te doen of de Nationale ombudsman op grond van [artikel 15 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003372&artikel=15) een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de Stichting bureau architectenregister, treedt het bureau op dat tijdstip in de plaats van de Stichting bureau architectenregister.
 
 ##### Artikel VII
 
-1. Indien op het tijdstip van inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), geen opleiding kan worden gevolgd als bedoeld in [artikel 12, eerste lid, onderdeel a, b of c, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12) kan een persoon op verzoek in het register worden ingeschreven als interieurarchitect indien hij na dat tijdstip is begonnen met een opleiding voor een getuigschrift als bedoeld in [artikel 29, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=29), en dat tijdstip valt binnen een door Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap te bepalen periode.
+1. Indien op het tijdstip van inwerkingtreding van [artikel I, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), geen opleiding kan worden gevolgd als bedoeld in [artikel 12, eerste lid, onderdeel a, b of c, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12) kan een persoon op verzoek in het register worden ingeschreven als interieurarchitect indien hij na dat tijdstip is begonnen met een opleiding voor een getuigschrift als bedoeld in [artikel 29, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=29), en dat tijdstip valt binnen een door Onze Minister en Onze Minister van Onderwijs, Cultuur en Wetenschap te bepalen periode.
 
 2. [Artikel 12d, eerste en derde lid, van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&artikel=12d) is van overeenkomstige toepassing op een persoon als bedoeld in het eerste lid.
 
@@ -87,7 +87,7 @@ Archiefbescheiden van de Stichting bureau architectenregister betreffende zaken 
 
 ##### Artikel VIIa
 
-Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt binnen zeven jaar na de inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2012-01-01&g=2012-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk IVA van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa) in de praktijk.
+Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zendt binnen zeven jaar na de inwerkingtreding van [artikel I, onderdeel M](https://wetten.overheid.nl/jci1.3:c:BWBR0027415&artikel=I&z=2015-01-01&g=2015-01-01), van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van [hoofdstuk IVA van de Wet op de architectentitel](https://wetten.overheid.nl/jci1.3:c:BWBR0004189&hoofdstuk=IVa) in de praktijk.
 
 ##### Artikel VIII
 
