@@ -4,7 +4,7 @@ identifier: "BWBR0024235"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-05-10"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024235"
 soort: "AMvB"
@@ -234,11 +234,9 @@ Voor de toepassing van dit hoofdstuk en voor de daarop gebaseerde bepalingen wor
 
 - g. **subsidie**: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;
 
-- h. **bedrijfslichaam**: bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=66);
+- h. **Verordening (EG) nr. 2173/2005:** Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);
 
-- i. **Verordening (EG) nr. 2173/2005:** Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);
-
-- j. **Verordening (EG) nr. 1024/2008:** Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).
+- i. **Verordening (EG) nr. 1024/2008:** Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).
 
 ##### Artikel 3:2
 
@@ -262,9 +260,7 @@ Onze minister is bevoegd:
 
 ##### Artikel 3:4
 
-1. Onze minister kan bevoegdheden welke hem ingevolge de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2013-07-01&g=2013-07-01) toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.
-
-2. Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een EU-verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de [artikelen 3:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01) en [3:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:3&z=2013-07-01&g=2013-07-01), nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.
+Vervallen
 
 ### Hoofdstuk 4. Administratie
 
@@ -290,15 +286,15 @@ De vergunninghouder aan wie een vergunning is verleend ingevolge de douanewetgev
 
 ##### Artikel 6:1
 
-Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ##### Artikel 6:2
 
-Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2013-07-01&g=2013-07-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Indien niet aan de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2015-01-01&g=2015-01-01) opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ##### Artikel 6:3
 
-Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300.
+Overtreding van het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2015-01-01&g=2015-01-01), vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
@@ -308,11 +304,11 @@ De belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communau
 
 ##### Artikel 7:2
 
-Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2013-07-01&g=2013-07-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die de bij [artikel 4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=4&artikel=4:1&z=2015-01-01&g=2015-01-01) opgelegde verplichting schendt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ##### Artikel 7:3
 
-Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2013-07-01&g=2013-07-01), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2013-07-01&g=2013-07-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
+Degene die het verbod, bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:2&z=2015-01-01&g=2015-01-01), of [3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=3&artikel=3:5&z=2015-01-01&g=2015-01-01), overtreedt, maakt zich schuldig aan het plegen van een strafbaar feit.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -328,7 +324,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6:4
 
-De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2013-07-01&g=2013-07-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2013-07-01&g=2013-07-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2013-07-01&g=2013-07-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
+De in de [artikelen 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:1&z=2015-01-01&g=2015-01-01), [6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:2&z=2015-01-01&g=2015-01-01) en [6:3](https://wetten.overheid.nl/jci1.3:c:BWBR0024235&hoofdstuk=6&artikel=6:3&z=2015-01-01&g=2015-01-01) genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=9:6a), bij ministeriële regeling gewijzigd.
 
 ### Hoofdstuk 7. Strafrechtelijke bepalingen
 
