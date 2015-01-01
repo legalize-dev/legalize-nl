@@ -4,7 +4,7 @@ identifier: "BWBR0005523"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "1998-03-22"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005523"
 soort: "ministeriele-regeling"
@@ -80,13 +80,7 @@ Als gemachtigd ambtenaar wordt aangewezen de Secretaris-Generaal, en bij diens a
 
 ##### Artikel 6
 
-De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005523&hoofdstuk=II&artikel=5&z=1998-03-22&g=1998-03-22) bedoelde dienstonderdelen en ambtenaren leiden een verzoek om informatie ter beslissing door naar de gemachtigd ambtenaar indien zij:
-
-- a. in geval van een mondeling verzoek om informatie van oordeel zijn dat het verzoek op grond van de bij of krachtens de wet gestelde regels niet kan worden ingewilligd en de verzoeker om een schriftelijke beslissing vraagt;
-
-- b. weten of redelijkerwijs kunnen vermoeden dat de geldende voorschriften ruimte laten voor verschillende uitleg over de vraag of een verzoek om informatie al dan niet behoort te worden ingewilligd;
-
-- c. weten of redelijkerwijs kunnen vermoeden dat inwilliging of weigering van een verzoek om informatie belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kan hebben.
+Vervallen
 
 ##### Artikel 7
 
