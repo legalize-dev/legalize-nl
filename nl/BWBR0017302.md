@@ -4,7 +4,7 @@ identifier: "BWBR0017302"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-08-26"
-last_updated: "2009-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017302"
 soort: "ministeriele-regeling"
@@ -77,7 +77,7 @@ Deelnemingen van de Arbeidsvoorzieningsorganisatie in stichtingen, maatschappen,
 
 ##### Artikel 5. Personeel
 
-In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=3&z=2009-01-01&g=2009-01-01) gaan de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een collectieve arbeidsovereenkomst of regeling van arbeidsvoorwaarden dan wel enige andere algemene regeling, jegens werknemers die voor 1 november 2004 in haar dienst zijn geweest, alsmede de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een overeenkomst met een werknemer die voor 1 november 2004 in haar dienst is geweest, over op de CWI.
+In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=3&z=2015-08-26&g=2015-01-01) gaan de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een collectieve arbeidsovereenkomst of regeling van arbeidsvoorwaarden dan wel enige andere algemene regeling, jegens werknemers die voor 1 november 2004 in haar dienst zijn geweest, alsmede de rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie die voortvloeien uit een overeenkomst met een werknemer die voor 1 november 2004 in haar dienst is geweest, over op de CWI.
 
 De eerste zin is eveneens van toepassing ten aanzien van andere civielrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie in haar kwaliteit van werkgever.
 
@@ -85,41 +85,41 @@ De eerste zin is eveneens van toepassing ten aanzien van andere civielrechtelijk
 
 1.
 
-De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie gaan over op de minister, tenzij het een onderwerp betreft als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval deze rechten en verplichtingen overgaan op de CWI.
+De publiekrechtelijke rechten en verplichtingen van de Arbeidsvoorzieningsorganisatie gaan over op de minister, tenzij het een onderwerp betreft als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2015-08-26&g=2015-01-01), in welk geval deze rechten en verplichtingen overgaan op de CWI.
 
-2. Een besluit van de Arbeidsvoorzieningsorganisatie geldt als een besluit van de minister, tenzij het een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval het geldt als een besluit van de CWI.
+2. Een besluit van de Arbeidsvoorzieningsorganisatie geldt als een besluit van de minister, tenzij het een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2015-08-26&g=2015-01-01), in welk geval het geldt als een besluit van de CWI.
 
-3. Op een voor 1 november 2004 bij de Arbeidsvoorzieningsorganisatie ingediende aanvraag tot het geven van een beschikking wordt na die datum beslist door de minister, tenzij de aanvraag een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), in welk geval de CWI daarop beslist.
+3. Op een voor 1 november 2004 bij de Arbeidsvoorzieningsorganisatie ingediende aanvraag tot het geven van een beschikking wordt na die datum beslist door de minister, tenzij de aanvraag een onderwerp betreft als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2015-08-26&g=2015-01-01), in welk geval de CWI daarop beslist.
 
 ### Hoofdstuk 3. Overgang procedures
 
 ##### Artikel 7. Civielrechtelijke en bestuursrechtelijke gedingen
 
-1. In civielrechtelijke en bestuursrechtelijke gedingen, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de Staat onderscheidenlijk de minister in haar plaats, zonder dat daarvoor een betekening nodig is.
+1. In civielrechtelijke en bestuursrechtelijke gedingen, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2015-08-26&g=2015-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de Staat onderscheidenlijk de minister in haar plaats, zonder dat daarvoor een betekening nodig is.
 
 2. Beroep of hoger beroep waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de Staat onderscheidenlijk de minister open gedurende het resterende gedeelte van de beroepstermijn.
 
 ##### Artikel 8. Arbeidsgeschillen
 
-1. In civielrechtelijke en bestuursrechtelijke gedingen met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de CWI in haar plaats, zonder dat daarvoor een betekening nodig is.
+1. In civielrechtelijke en bestuursrechtelijke gedingen met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2015-08-26&g=2015-01-01), waarin de Arbeidsvoorzieningsorganisatie partij is, treedt de CWI in haar plaats, zonder dat daarvoor een betekening nodig is.
 
-2. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2009-01-01&g=2009-01-01) gaan, in de stand waarin zij zich bevinden, over naar de CWI.
+2. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften met betrekking tot onderwerpen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=2&artikel=5&z=2015-08-26&g=2015-01-01) gaan, in de stand waarin zij zich bevinden, over naar de CWI.
 
 3. Bezwaar, beroep of hoger beroep waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de CWI open gedurende het resterende gedeelte van de bezwaar- onderscheidenlijk beroepstermijn.
 
 ##### Artikel 9. Bezwaarschriften
 
-1. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2009-01-01&g=2009-01-01), gaan, in de stand waarin zij zich bevinden, over naar de minister.
+1. Bij de Arbeidsvoorzieningsorganisatie aanhangige bezwaarschriften, met uitzondering van die bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=8&z=2015-08-26&g=2015-01-01), gaan, in de stand waarin zij zich bevinden, over naar de minister.
 
 2. Bezwaar waarvoor de termijn is aangevangen voor 1 november 2004 staat voor de minister open gedurende het resterende gedeelte van de bezwaartermijn.
 
 ##### Artikel 10. Beëindiging procedures
 
-1. Bestuursrechtelijke gedingen waarin door toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2009-01-01&g=2009-01-01), de minister eiser en verweerder dan wel appellant en gedaagde is geworden, worden door de minister zo spoedig mogelijk door intrekking van het beroep beëindigd.
+1. Bestuursrechtelijke gedingen waarin door toepassing van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2015-08-26&g=2015-01-01), de minister eiser en verweerder dan wel appellant en gedaagde is geworden, worden door de minister zo spoedig mogelijk door intrekking van het beroep beëindigd.
 
-2. Bezwaarschriftprocedures waarin door toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2009-01-01&g=2009-01-01), de minister indiener van het bezwaarschrift en bestuursorgaan tegen wiens besluit het bezwaar is gericht is geworden, worden door de minister zo spoedig mogelijk door intrekking van het bezwaar beëindigd.
+2. Bezwaarschriftprocedures waarin door toepassing van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2015-08-26&g=2015-01-01), de minister indiener van het bezwaarschrift en bestuursorgaan tegen wiens besluit het bezwaar is gericht is geworden, worden door de minister zo spoedig mogelijk door intrekking van het bezwaar beëindigd.
 
-3. In gevallen als bedoeld in het eerste en tweede lid, waarin voor de minister met toepassing van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2009-01-01&g=2009-01-01), of [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2009-01-01&g=2009-01-01), bezwaar, beroep of hoger beroep openstaat, maakt de minister van die bevoegdheid geen gebruik.
+3. In gevallen als bedoeld in het eerste en tweede lid, waarin voor de minister met toepassing van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=7&z=2015-08-26&g=2015-01-01), of [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017302&hoofdstuk=3&artikel=9&z=2015-08-26&g=2015-01-01), bezwaar, beroep of hoger beroep openstaat, maakt de minister van die bevoegdheid geen gebruik.
 
 ### Hoofdstuk 4. Financiële afwikkeling
 
