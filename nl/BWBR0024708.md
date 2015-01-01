@@ -4,7 +4,7 @@ identifier: "BWBR0024708"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-09-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024708"
 soort: "AMvB"
@@ -90,15 +90,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Het basistakenpakket jeugdgezondheidszorg bestaat uit een uniform deel en een maatwerk deel.
-
-2. Het uniform deel van het basistakenpakket omvat de in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2014-09-01&g=2014-09-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2014-09-01&g=2014-09-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2014-09-01&g=2014-09-01) van dit besluit beschreven werkzaamheden en wordt aan alle jeugdigen aangeboden.
-
-3. Het maatwerk deel van het basistakenpakket omvat de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2014-09-01&g=2014-09-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=8&z=2014-09-01&g=2014-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=9&z=2014-09-01&g=2014-09-01) van dit besluit beschreven werkzaamheden en wordt afgestemd op de specifieke zorgbehoeften van de jeugdigen alsmede op lokale of regionale demografische en epidemiologische gegevenheden.
-
-##### Artikel 4
-
-De in [artikel 5, tweede lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de gezondheidstoestand van jeugdigen en de gezondheidsbeïnvloedende factoren omvat de volgende aspecten:
+De werkzaamheden inzake het op systematische wijze volgen en signaleren van ontwikkelingen in de gezondheidstoestand van jeugdigen en van gezondheidsbevorderende en -bedreigende factoren omvatten de volgende aspecten:
 
 - a. het afnemen van een algemene anamnese van de jeugdige,
 
@@ -114,31 +106,17 @@ De in [artikel 5, tweede lid, aanhef en onder a, van de wet](https://wetten.over
 
 - g. het beoordelen van het gedrag van de jeugdige,
 
-- h. het beoordelen van het sociaal milieu van de jeugdige,
+- h. het beoordelen van het sociale, pedagogische en fysieke milieu van de jeugdige,
 
-- i. het beoordelen van het fysieke milieu rondom de jeugdige,
+- i. het in kaart brengen van het zorgsysteem rondom de jeugdige.
 
-- j. het in kaart brengen van het zorgsysteem rondom de jeugdige.
+##### Artikel 4
 
-##### Artikel 5
+De werkzaamheden inzake de vroegtijdige opsporing en preventie van specifieke stoornissen omvatten de volgende aspecten:
 
-De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het maatwerk deel, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=7&z=2014-09-01&g=2014-09-01) van dit besluit, de volgende aspecten:
+- a. het nagaan of bij de jeugdige sprake is van stoornissen in het visuele systeem,
 
-- a. het schatten van de verhouding tussen de draaglast en draagkracht van de jeugdige en van het gezin waartoe hij behoort,
-
-- b. het schatten van de behoefte aan advies en voorlichting van de jeugdige en van het gezin waartoe hij behoort,
-
-- c. het inventariseren van de zorg die de jeugdige al ontvangt,
-
-- d. het nagaan of de jeugdige tot een of meer risicogroepen behoort.
-
-##### Artikel 6
-
-De in [artikel 5, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de opsporing en preventie van specifieke stoornissen omvat de volgende aspecten:
-
-- a. het nagaan of bij de jeugdige sprake is van oogpathologie,
-
-- b. het nagaan of bij de jeugdige sprake is van maldescensus testis,
+- b. het nagaan of bij de jeugdige sprake is van niet-scrotale testis,
 
 - c. het nagaan of bij de jeugdige sprake is van congenitale hartafwijkingen,
 
@@ -146,41 +124,107 @@ De in [artikel 5, tweede lid, aanhef en onder c, van de wet](https://wetten.over
 
 - e. het nagaan of bij de jeugdige sprake is van perceptief gehoorverlies,
 
-- f. het zonodig aanbieden van vaccinatie tegen hepatitis B,
+- f. het nagaan of bij de jeugdige sprake is van dysplastische heupontwikkeling,
 
-- g. het zonodig aanbieden van vaccinatie tegen tuberculose.
+- g. het zo nodig aanbieden van vaccinatie tegen tuberculose.
+
+##### Artikel 5
+
+De werkzaamheden inzake het ramen van de behoeften aan zorg omvatten de volgende aspecten:
+
+- a. het schatten van de verhouding tussen de draaglast en draagkracht van de jeugdige en van het gezin waartoe hij behoort,
+
+- b. het in afstemming met de jeugdige en zijn ouders of verzorgers bepalen van de behoefte aan advies en voorlichting,
+
+- c. het inventariseren van de zorg die de jeugdige al ontvangt,
+
+- d. het nagaan of de jeugdige tot een of meer risicogroepen behoort,
+
+- e. het in afstemming met de jeugdige en zijn ouders of verzorgers ramen welke zorgverlening nodig is en het formuleren van maatregelen.
+
+##### Artikel 6
+
+1. De werkzaamheden inzake het geven van voorlichting, advies, instructie en begeleiding aan jeugdigen tot 14 jaar, omvatten individueel of groepsgerichte voorlichting, advies, instructie en begeleiding, gericht op het ondersteunen van ouders en jeugdigen, en betreffen in ieder geval de onderwerpen:
+
+- •. gezonde (borst-)voeding
+
+- •. overgewicht / ondergewicht
+
+- •. voedselovergevoeligheid
+
+- •. vitamine D en K
+
+- •. veilig slapen
+
+- •. veiligheid
+
+- •. voorkeurshouding
+
+- •. meeroken
+
+- •. gebit en gebitsverzorging
+
+- •. middelengebruik (alcohol, roken, cannabis en andere drugs)
+
+- •. leefstijl
+
+- –. sport en bewegen
+
+- –. seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
+
+- –. internetgebruik en gameverslaving
+
+- •. psychosociale problemen
+
+- •. opvoedvragen, -problemen en kindermishandeling (waaronder vrouwelijke genitale verminking en shaken baby syndroom)
+
+- •. weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
+
+- •. depressie
+
+- •. disbalans draagkracht/draaglast en ontvangen zorg/zorgbehoefte bij kind en gezin
+
+- •. gezondheidsbedreigingen gezin en omgeving (sociaal, fysiek, psychisch, pedagogisch milieu)
+
+- •. school-/ziekteverzuim/schooluitval.
+
+2. De werkzaamheden inzake het geven van voorlichting, advies, instructie en begeleiding aan jeugdigen vanaf 14 jaar, omvatten individueel of groepsgerichte voorlichting, advies, instructie en begeleiding, en betreffen in ieder geval de onderwerpen:
+
+- •. overgewicht / ondergewicht
+
+- •. middelengebruik (alcohol, roken, cannabis en andere drugs)
+
+- •. leefstijl
+
+- –. sport en bewegen
+
+- –. seksueel gedrag (waaronder seksueel overdraagbare aandoeningen en anticonceptie)
+
+- –. internetgebruik en gameverslaving
+
+- •. weerbaarheid jeugdigen, waaronder pesten, discriminatie, geweld (waaronder seksuele dwang)
+
+- •. depressie
+
+- •. school-/ziekteverzuim/schooluitval.
 
 ##### Artikel 7
 
-De in [artikel 5, tweede lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake de behoeften aan zorg omvat, naast het uniform deel, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2014-09-01&g=2014-09-01) van dit besluit, de volgende aspecten:
+1. Bij de werkzaamheden, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01) wordt zo nodig doorverwezen en -geleid naar curatieve gezondheidszorg, alsmede naar jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925).
 
-- a. het ramen welke zorgverlening op maat nodig is,
-
-- b. het ramen welke risicogroep gerichte zorg nodig is.
+2. Bij de werkzaamheden, bedoeld in [artikelen 3, onderdelen d, e, g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2015-01-01&g=2015-01-01), [4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=5&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), wordt waar nodig samengewerkt met onderwijs, voorschoolse voorzieningen, jeugdhulp, verloskundigen, kraamzorg, huisartsen en overige curatieve gezondheidszorg, buurtteams en andere relevante zorg- of hulpverleners.
 
 ##### Artikel 8
 
-De in [artikel 5, tweede lid, aanhef en onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake voorlichting omvat de volgende aspecten:
-
-- a. het geven van individugerichte voorlichting, advies, instructie en begeleiding,
-
-- b. het geven van groepsgerichte voorlichting, advies, instructie en begeleiding.
+De op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=4&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01) verkregen gegevens en de op grond van artikel 5 geraamde behoeften aan zorg worden systematisch geanalyseerd ten behoeve van het formuleren van collectieve maatregelen ter beïnvloeding van gezondheidsbedreigingen.
 
 ##### Artikel 9
 
-De in [artikel 5, tweede lid, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) genoemde werkzaamheid inzake gezondheidsbedreigingen omvat de volgende aspecten:
-
-- a. het formuleren welke individuele maatregelen, afgestemd op het gezin van de jeugdige, nodig zijn,
-
-- b. het formuleren welke maatregelen, afgestemd op de groep gezinnen waartoe het gezin van de jeugdige behoort, nodig zijn,
-
-- c. het formuleren welke individuele maatregelen, afgestemd op buurt of school van de jeugdige, nodig zijn,
-
-- d. het formuleren welke maatregelen, afgestemd op de groep buurten of scholen waartoe de buurt of school van de jeugdige behoort, nodig zijn.
+Vervallen
 
 ##### Artikel 10
 
-Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2014-09-01&g=2014-09-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
+Indien het college van burgemeester en wethouders toepassing geeft aan [artikel 14, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=14), hanteert het college voor de uitvoering dezelfde eisen als in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=V&artikel=17&z=2015-01-01&g=2015-01-01), van dit besluit, aan de gemeentelijke gezondheidsdienst zijn gesteld.
 
 ### Hoofdstuk IV. Infectieziektebestrijding
 
@@ -232,9 +276,9 @@ De infectieziekten behorende tot groep C zijn: anthrax, bof, botulisme, brucello
 
 ##### Artikel 14
 
-Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2014-09-01&g=2014-09-01) van dit besluit, tevens over de volgende voorzieningen:
+Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) als behorende tot categorie A aangewezen haven of luchthaven beschikt, naast de voorzieningen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2015-01-01&g=2015-01-01) van dit besluit, tevens over de volgende voorzieningen:
 
-- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2014-09-01&g=2014-09-01) van dit besluit,
+- a. een te allen tijde bereikbare crisisdienst die kan worden ingezet ter uitvoering van het plan voor noodsituaties, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=13&z=2015-01-01&g=2015-01-01) van dit besluit,
 
 - b. een van sanitaire voorzieningen voorziene ruimte waar aankomende reizigers, afgezonderd van andere reizigers, aan quarantaine of medische controle kunnen worden onderworpen.
 
@@ -252,7 +296,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ##### Artikel 16
 
-1. De aanvraag, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2014-09-01&g=2014-09-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
+1. De aanvraag, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2015-01-01&g=2015-01-01), wordt uiterlijk twaalf maanden na het einde van het treffen van de maatregelen ingediend.
 
 2. In afwijking van het eerste lid wordt, indien de maatregelen onafgebroken gedurende één jaar worden getroffen, de aanvraag uiterlijk twaalf maanden na het verstrijken van dat jaar ingediend.
 
@@ -260,7 +304,7 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2014-09-01&g=2014-09-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
+5. Op verzoek van de aanvrager kan Onze Minister een voorschot verlenen op de bijdrage, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&hoofdstuk=IV&artikel=15&z=2015-01-01&g=2015-01-01). Een verzoek daartoe gaat vergezeld van een voorlopige opgave van de kosten.
 
 6. Onze Minister kan de vaststelling van een bijdrage intrekken of ten nadele van de ontvanger wijzigen:
 
@@ -274,27 +318,31 @@ Een krachtens [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 1. Met het oog op de uitvoering van de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=2) omschreven taak voldoen de deskundigen, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=15), aan de volgende eisen:
 
-- a. de sociaal geneeskundige is ingeschreven in het Register van Artsen Maatschappij en Gezondheid van de KNMG en, voor zover werkzaam op het terrein van de medische milieukunde, opgeleid in de medische milieukunde,
+- a. de sociaal geneeskundige is op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en voor zover werkzaam op het terrein van de medische milieukunde, in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als arts medische milieukunde KNMG,
 
-- b. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleegkundige en in het bezit van het diploma HBO-V,
+- b. de deskundige op het terrein van de sociale verpleegkunde is op grond van [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) geregistreerd als verpleegkundige en in het bezit van het diploma HBO-V,
 
 - c. de epidemioloog is geregistreerd als epidemioloog A in het register van de Vereniging voor Epidemiologie of geregistreerd als epidemioloog B door de Stichting voor opleiding tot Medisch Biologisch Wetenschappelijk Onderzoeker.
 
 2. Met het oog op de uitvoering van de in [artikel 5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=5) omschreven taak ter zake van gezondheidsrisico’s voor jeugdigen voldoen de deskundigen, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=15), aan de volgende eisen:
 
-- a. de sociaal geneeskundige is ingeschreven in het Register van Artsen Maatschappij en Gezondheid van de KNMG en opgeleid in de jeugdgezondheidszorg,
+- a. de sociaal geneeskundige is op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als jeugdarts KNMG,
 
-- b. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleegkundige en in het bezit van het diploma HBO-V,
+- b. de deskundige op het terrein van de sociale verpleegkunde is op grond van [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) geregistreerd als verpleegkundige en in het bezit van het diploma HBO-V,
 
 - c. de deskundige op het terrein van de gedragswetenschappen is universitair opgeleid als psycholoog of pedagoog, dan wel in het bezit van de akte M.O.-B pedagogiek.
 
 3. Met het oog op de uitvoering van de in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=6) omschreven taak voldoen de deskundigen, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=15), aan de volgende eisen:
 
-- a. de sociaal geneeskundige, belast met de infectieziektebestrijding, is ingeschreven als arts infectieziektebestrijding in het Register van Artsen Maatschappij en Gezondheid van de KNMG en opgeleid in de infectieziektebestrijding,
+- a. de sociaal geneeskundige, belast met de infectieziektebestrijding, is op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als arts infectieziektebestrijding KNMG,
 
-- b. de sociaal geneeskundige, belast met de bestrijding van tuberculose, is ingeschreven als arts tuberculosebestrijding in het Register van Artsen Maatschappij en Gezondheid van de KNMG en opgeleid in de tuberculosebestrijding, dan wel ingeschreven als longarts in het desbetreffende specialistenregister van de KNMG,
+- b. de sociaal geneeskundige, belast met de bestrijding van tuberculose, is:
 
-- c. de deskundige op het terrein van de sociale verpleegkunde is sociaal verpleegkundige en in het bezit van het diploma HBO-V.
+- –. op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als arts Maatschappij & Gezondheid, en in het door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij tot bevordering der Geneeskunst ingestelde profielregister geregistreerd als arts tuberculosebestrijding KNMG, of
+
+- –. op grond van [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) geregistreerd als longarts,
+
+- c. de deskundige op het terrein van de sociale verpleegkunde is op grond van [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) geregistreerd als verpleegkundige en in het bezit van het diploma HBO-V.
 
 ### Hoofdstuk VI. Overige bepalingen
 
