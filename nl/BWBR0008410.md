@@ -4,7 +4,7 @@ identifier: "BWBR0008410"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2012-06-06"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008410"
 soort: "wet"
@@ -52,7 +52,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
 
-- **overlegorgaan:** Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2012-06-06&g=2012-06-06).
+- **overlegorgaan:** Overlegorgaan infrastructuur en milieu, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4&z=2015-01-01&g=2015-01-01).
 
 ### HOOFDSTUK 2. RAAD VOOR VERKEER EN WATERSTAAT
 
@@ -68,11 +68,11 @@ Vervallen
 
 ##### Artikel 4
 
-Er is een Overlegorgaan verkeer en waterstaat voor het voeren van overleg over het beleid inzake verkeer en waterstaat.
+Er is een Overlegorgaan infrastructuur en milieu voor het voeren van overleg over het beleid inzake infrastructuur en milieu.
 
 ##### Artikel 5
 
-Door of namens Onze Minister en, waar daartoe aanleiding bestaat door of namens Onze Ministers wie het mede aangaat, worden in het overlegorgaan beleidsvoornemens aan de orde gesteld met betrekking tot onderdelen van het beleid inzake verkeer en waterstaat.
+Door of namens Onze Minister en, waar daartoe aanleiding bestaat door of namens Onze Ministers wie het mede aangaat, worden in het overlegorgaan beleidsvoornemens aan de orde gesteld met betrekking tot onderdelen van het beleid inzake infrastructuur en milieu.
 
 ##### Artikel 6
 
@@ -108,7 +108,7 @@ Vervallen
 
 ##### Artikel 11
 
-Het overlegorgaan komt bijeen, indien ten minste 5 van de betrokkenen of hun organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2012-06-06&g=2012-06-06), daarom verzoeken.
+Het overlegorgaan komt bijeen, indien ten minste 5 van de betrokkenen of hun organisaties, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=7&z=2015-01-01&g=2015-01-01), daarom verzoeken.
 
 ##### Artikel 12
 
@@ -150,7 +150,7 @@ Deze wet treedt in werking met ingang van 1 januari 1997.
 
 ##### Artikel 19
 
-Deze wet wordt aangehaald als: Wet overleg verkeer en waterstaat.
+Deze wet wordt aangehaald als: Wet overleg infrastructuur en milieu.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
