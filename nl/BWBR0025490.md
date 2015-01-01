@@ -4,7 +4,7 @@ identifier: "BWBR0025490"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2009-03-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025490"
 soort: "ministeriele-regeling"
@@ -42,10 +42,16 @@ Besluit:
 
 ##### Artikel 1
 
-De secretaris van de toetsingscommissie, bedoeld in [artikel 73 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73), is gemachtigd tot het stellen van een termijn als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), voor de aanvulling van een verzoek als bedoeld in [artikel 74, eerste lid, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74).
+De secretaris van de toetsingscommissie, bedoeld in [artikel 73 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73), is gemachtigd tot het stellen van een termijn als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), voor de aanvulling van een verzoek als bedoeld in [artikel 74, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74).
 
 ##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
+
+Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Deze regeling wordt aangehaald als: Regeling machtiging secretaris toetsingscommissie aanvullende uitkeringen Participatiewet.
 
 Deze regeling met toelichting zal in de Staatscourant worden geplaatst.
