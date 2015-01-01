@@ -4,7 +4,7 @@ identifier: "BWBR0025261"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025261"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Besluit:
 
 - d. **WAZ:** [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656);
 
-- e. **Wet Wajong:** [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
+- e. **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 - f. **vervoersvoorziening:** voorziening als bedoeld in [artikel 19a, derde lid, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a);
 
@@ -86,7 +86,7 @@ Op het inkomen worden in mindering worden gebracht kosten ter zake van ziekte of
 
 ##### Artikel 6. Buiten beschouwing blijvende bedragen bij inkomensvaststelling
 
-Bij het vaststellen van het inkomen voor toepassing van deze regeling blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorzieningen op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie van deze uitkeringen is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53) of [63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
+Bij het vaststellen van het inkomen voor toepassing van deze regeling blijft buiten beschouwing het bedrag waarmee de uitkering of inkomensvoorzieningen op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), of een combinatie van deze uitkeringen is verhoogd, op grond van [artikel 22 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=22), de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=53) of [63 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=63), [artikel 10 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=10), of [artikel 2:51](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:51) of [3:9 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:9), of een combinatie van deze artikelen.
 
 ##### Artikel 7. Vaststelling inkomen van personen die de leeftijd van 18 jaar nog niet hebben bereikt
 
