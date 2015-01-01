@@ -4,7 +4,7 @@ identifier: "BWBR0030183"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030183"
 soort: "ministeriele-regeling-BES"
@@ -106,13 +106,13 @@ De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 va
 
 2. Eerst wordt zoveel mogelijk verrekend met de nabetalingen die van het tijdstip van afgifte van de in het eerste lid bedoelde beschikking af aan de studerende zouden moeten worden gedaan.
 
-3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029604&artikel=3). Wanneer die maandbetalingen hoger zijn dan USD 237,14 naar de maatstaf van 1 januari 2011, geschiedt de verrekening met dat bedrag.
+3. Vervolgens wordt zolang het te veel uitbetaalde bedrag nog niet volledig is verrekend met de in het tweede lid bedoelde nabetalingen, verrekend met de maandbetalingen, bedoeld in [artikel 3, eerste lid, van het Besluit studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029604&artikel=3). Wanneer die maandbetalingen naar de maatstaf van 1 januari 2015 hoger zijn dan USD 241,24, geschiedt de verrekening met dat bedrag.
 
 4. Onder nabetalingen, bedoeld in het tweede lid, wordt verstaan de betaling van bedragen die op grond van enige herzieningsbeschikking over reeds op het tijdstip van afgifte van die beschikking verstreken maanden zonder de verrekening, bedoeld in het tweede lid, aan de studerende betaalbaar zouden worden gesteld.
 
 5. Indien er niet langer betalingen op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393) zijn, wordt het bedrag aan studiefinanciering dat te veel is uitbetaald voor zover dat bedrag nog niet is verrekend, op eerste vordering binnen 30 dagen geheel terugbetaald.
 
-6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.2&z=2014-01-01&g=2014-01-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
+6. In afwijking van het vijfde lid wordt het de debiteur toegestaan, indien hij daartoe een aanvraag indient, het in het vijfde lid bedoelde bedrag in ten hoogste 24 maandelijkse termijnen terug te betalen, waarbij geen termijn, met uitzondering van de laatste termijn, kleiner zal zijn dan het bedrag, bedoeld in het derde lid, dan wel het op grond van [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.2&z=2015-01-01&g=2015-01-01) aangepaste bedrag. De in de vorige volzin bedoelde betaling van de maandelijkse termijn door de debiteur geschiedt door middel van automatische incasso.
 
 7. Over het in het vijfde lid bedoelde bedrag, dat in maandelijkse termijnen wordt terugbetaald, is rente verschuldigd. Als rentepercentage wordt het percentage van de wettelijke rente gehanteerd. Deze rente wordt berekend per dag op basis van samengestelde interest en is verschuldigd over het bedrag van iedere terugbetaling afzonderlijk, met dien verstande dat ingeval de terugbetaling niet op de vervaldatum is ontvangen de op voet van deze bepaling berekende rente wordt bijgeschreven bij het verschuldigde bedrag, onverminderd het negende lid.
 
@@ -122,7 +122,7 @@ De betaling voor de rente en aflossing van de lening, bedoeld in [artikel 4.9 va
 
 ##### Artikel 5.2. Aanpassing
 
-Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
+Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 6. Wijze van verstrekken van inlichtingen door instellingen
 
