@@ -4,7 +4,7 @@ identifier: "BWBR0028236"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028236"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Besluit:
 
 ##### Artikel 1.1. Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5b), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11b), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13), [13bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), [19f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19f), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), [26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=29), [31, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), [32ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ab), [32ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ba), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35d), [35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35e), [35g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35g), [35k](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35k), [35l](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35l), [35m](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35m) en [39c, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) en de [artikelen 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2e), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10e) en [10eb van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10eb).
+Deze regeling geeft uitvoering aan de [artikelen 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5b), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8a), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), [11b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11b), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13), [13bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), [19f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19f), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=25), [26, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=29), [31, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32), [32ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ab), [32ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32ba), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35), [35d](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35d), [35e](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35e), [35g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35g), [35k](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35k), [35l](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35l), [35m](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35m) en [39c, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) en de [artikelen 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=2e), [10e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10e) en [10eb van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10eb).
 
 ##### Artikel 1.2. Definities
 
@@ -63,7 +63,7 @@ Deze regeling geeft uitvoering aan de [artikelen 5b](https://wetten.overheid.nl/
 
 - e. **Minister:** de Minister van Financiën
 
-- f. **werkplek:** iedere plaats die in verband met het verrichten van arbeid wordt gebruikt en waarvoor voor de inhoudingsplichtige de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) van toepassing is, met dien verstande dat niet als werkplek wordt aangemerkt een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van [artikel 1 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674), de aanhorigheden daaronder begrepen, van de werknemer;
+- f. **werkplek:** iedere plaats die in verband met het verrichten van arbeid wordt gebruikt en waarvoor voor de inhoudingsplichtige de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) van toepassing is, met dien verstande dat niet als werkplek wordt aangemerkt een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van [artikel 1, onderdeel l, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1), de aanhorigheden daaronder begrepen, van de werknemer;
 
 - g. **verbonden vennootschap:** een verbonden vennootschap als bedoeld in [artikel 10a, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a);
 
@@ -111,7 +111,7 @@ Deze regeling geeft uitvoering aan de [artikelen 5b](https://wetten.overheid.nl/
 
 - g. de exploitant voldoet met betrekking tot al zijn arbeidsverhoudingen met degenen die als sekswerker persoonlijk arbeid verrichten, aan de onderdelen a tot en met f;
 
-- h. de exploitant draagt, binnen de geldende betalingstermijnen, de verschuldigde loonbelasting, premie volksverzekeringen, omzetbelasting en inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) af en leeft [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&z=2014-08-01&g=2014-08-01) na;
+- h. de exploitant draagt, binnen de geldende betalingstermijnen, de verschuldigde loonbelasting, premie volksverzekeringen, omzetbelasting en inkomensafhankelijke bijdrage [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) af en leeft [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&z=2015-01-01&g=2015-01-01) na;
 
 - i. de administratie van de exploitant is duidelijk en inzichtelijk en de exploitant voldoet aan [artikel 52 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52);
 
@@ -261,13 +261,13 @@ In afwijking van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR000247
 
 ##### Artikel 2.6. Bij overeenkomst aangewezen inhoudingsplichtige bij een beroepssporter
 
-Indien [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=2&artikel=2.5&z=2014-08-01&g=2014-08-01) niet van toepassing is en met de Minister is overeengekomen dat de belasting zal worden ingehouden door een ander dan degene met wie de sportbeoefening is overeengekomen ten aanzien van de beroepssporter, wordt in afwijking van [artikel 8a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8a) als inhoudingsplichtige aangewezen: degene die op grond van de overeenkomst de inhouding overneemt.
+Indien [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=2&artikel=2.5&z=2015-01-01&g=2015-01-01) niet van toepassing is en met de Minister is overeengekomen dat de belasting zal worden ingehouden door een ander dan degene met wie de sportbeoefening is overeengekomen ten aanzien van de beroepssporter, wordt in afwijking van [artikel 8a, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8a) als inhoudingsplichtige aangewezen: degene die op grond van de overeenkomst de inhouding overneemt.
 
 ### Hoofdstuk 3. Voorwerp van de belasting ([hoofdstuk II van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=II))
 
 ##### Artikel 3.1. Loon voor de toepassing van enkele regelingen
 
-Voor de toepassing van [artikel 11, eerste lid, onderdelen m en o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), en van [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.2&z=2014-08-01&g=2014-08-01), wordt het loon in aanmerking genomen met inachtneming van het volgende:
+Voor de toepassing van [artikel 11, eerste lid, onderdelen m en o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), en van [artikel 3.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.2&z=2015-01-01&g=2015-01-01), wordt het loon in aanmerking genomen met inachtneming van het volgende:
 
 - a. [artikel 11, eerste lid, onderdeel j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11) vindt geen toepassing;
 
@@ -301,9 +301,7 @@ Tot het loon behoort niet de krachtens de [Wet inkomensvoorziening oudere en ged
 
 - a. voorzieningen waarvan het niet gebruikelijk is deze elders te gebruiken of verbruiken;
 
-- b. voorzieningen die rechtstreeks voortvloeien uit het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346);
-
-- c. ter beschikking gestelde kleding die:
+- b. ter beschikking gestelde kleding die:
 
 - 1°. uitsluitend of nagenoeg uitsluitend geschikt is om tijdens de vervulling van de dienstbetrekking te worden gedragen;
 
@@ -311,23 +309,19 @@ Tot het loon behoort niet de krachtens de [Wet inkomensvoorziening oudere en ged
 
 - 3°. achterblijft op de werkplek;
 
-- d. consumpties die geen deel uitmaken van een maaltijd;
+- c. consumpties die geen deel uitmaken van een maaltijd;
 
-- e. ter beschikking gestelde hulpmiddelen, waaronder computers en dergelijke apparatuur, gereedschappen en toebehoren, die ook elders gebruikt kunnen worden en die geheel of nagenoeg geheel zakelijk gebruikt worden;
+- d. huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing, ter vervulling van de dienstbetrekking, indien de werknemer niet op de werkplek woont en zich redelijkerwijs niet aan deze voorziening kan onttrekken.
 
-- f. ter beschikking gestelde mobiele communicatiemiddelen – niet zijnde computers en dergelijke apparatuur – waarvan het zakelijke gebruik van meer dan bijkomstig belang is;
-
-- g. huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing, ter vervulling van de dienstbetrekking, indien de werknemer niet op de werkplek woont en zich redelijkerwijs niet aan deze voorziening kan onttrekken.
-
-2. In afwijking in zoverre van [artikel 1.2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=1&artikel=1.2&z=2014-08-01&g=2014-08-01), wordt voor de toepassing van het eerste lid, onderdeel b, in geval van thuiswerk in de zin van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) onder werkplek tevens verstaan een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van [artikel 1 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=1), de aanhorigheden daaronder begrepen, van de werknemer.
+2. In afwijking in zoverre van [artikel 1.2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=1&artikel=1.2&z=2015-01-01&g=2015-01-01), worden voor de toepassing van het eerste lid, onderdeel a, met betrekking tot personeelsfestiviteiten met een gezamenlijk karakter onder werkplek verstaan alle werkplekken van werknemers van de inhoudingsplichtige of een met de inhoudingsplichtige in concernverband opererende inhoudingsplichtige als bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32).
 
 ##### Artikel 3.8. Bepaling waarde voorzieningen op de werkplek (lager dan waarde in het economische verkeer of factuurwaarde)
 
 De waarde van de volgende voorzieningen die op de werkplek gebruikt of verbruikt worden, wordt gesteld op de daarbij vermelde bedragen:
 
-- a. maaltijden: de waarde wordt gesteld op € 3,15;
+- a. maaltijden: de waarde wordt gesteld op € 3,20;
 
-- b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,35 per dag;
+- b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,40 per dag;
 
 - c. door de inhoudingsplichtige verrichte kinderopvang waarvoor aanspraak op een kinderopvangtoeslag onderscheidenlijk aanspraak op een tegemoetkoming kan ontstaan op de voet van [artikel 1.5 van de Wet kinderopvangen kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.5): de waarde wordt gesteld op het aantal uren genoten kinderopvang maal de uurprijs vastgesteld krachtens [artikel 1.7, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.7).
 
@@ -341,7 +335,7 @@ De waarde van het genot van een in het kader van de dienstbetrekking ter beschik
 
 - a. de werknemer schriftelijk aan de inhoudingsplichtige verklaart, onder vermelding van het bestedingsdoel en onderbouwing met schriftelijke bescheiden, dat de geldlening kan worden aangemerkt als een geldlening waarvan de rente aftrekbare kosten zijn in de zin van de [artikelen 3.120 tot en met 3.123 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120);
 
-- b. de inhoudingsplichtige de verklaring en bescheiden, bedoeld in onderdeel a, bij de loonadministratie bewaart, tenzij daarvan met overeenkomstige toepassing van [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.3&z=2014-08-01&g=2014-08-01), wordt afgeweken, en
+- b. de inhoudingsplichtige de verklaring en bescheiden, bedoeld in onderdeel a, bij de loonadministratie bewaart, tenzij daarvan met overeenkomstige toepassing van [artikel 7.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.3&z=2015-01-01&g=2015-01-01), wordt afgeweken, en
 
 - c. de inhoudingsplichtige de toepassing van dit lid in de aangifte loonheffingen vermeldt.
 
@@ -527,7 +521,7 @@ Ingeval de inhoudingsplichtige van de werknemer en de zonder onderbreking vooraf
 
 2. Voor de toepassing van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) wordt de belasting, bedoeld in het eerste lid, geacht te zijn ingehouden in het kalenderjaar waarin het loon is verstrekt.
 
-3. Indien de belasting wordt ingehouden op de voet van het eerste lid, zijn ten aanzien van het in dat lid bedoelde kind de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2014-08-01&g=2014-08-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) niet van toepassing.
+3. Indien de belasting wordt ingehouden op de voet van het eerste lid, zijn ten aanzien van het in dat lid bedoelde kind de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2015-01-01&g=2015-01-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) niet van toepassing.
 
 ##### Artikel 7.2. Loonstaat
 
@@ -539,17 +533,17 @@ Ingeval de inhoudingsplichtige van de werknemer en de zonder onderbreking vooraf
 
 4. De inhoudingsplichtige ontleent de in het hoofd van de loonstaat te vermelden gegevens aan:
 
-- a. de laatstelijk door de werknemer op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) verstrekte informatie;
+- a. de laatstelijk door de werknemer op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) verstrekte informatie;
 
 - b. de door de werknemer of de Belastingdienst verstrekte opgave van het burgerservicenummer.
 
 5. In afwijking in zoverre van het vierde lid, aanhef en onderdeel a, vermeldt de inhoudingsplichtige in het hoofd van de loonstaat de gegevens die hem bekend zijn:
 
-- a. indien hij weet dat de laatstelijk door de werknemer op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) verstrekte informatie onjuist is;
+- a. indien hij weet dat de laatstelijk door de werknemer op grond van [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) verstrekte informatie onjuist is;
 
-- b. zolang de werknemer geen informatie als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) heeft verstrekt;
+- b. zolang de werknemer geen informatie als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) heeft verstrekt;
 
-- c. indien de werknemer geen informatie als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) hoeft te verstrekken.
+- c. indien de werknemer geen informatie als bedoeld in [artikel 7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) hoeft te verstrekken.
 
 6. De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in [artikel 26b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b), de belasting in aan de hand van de gegevens, vermeld in het hoofd van de loonstaat.
 
@@ -557,7 +551,7 @@ Ingeval de inhoudingsplichtige van de werknemer en de zonder onderbreking vooraf
 
 8. Ingeval de loonberekening door derden wordt uitgevoerd met behulp van mechanische of elektronische apparatuur, kan de Minister, onder door hem te stellen voorwaarden, bepalen dat de loonadministratie op een andere plaats wordt bewaard.
 
-9. Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
+9. Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ##### Artikel 7.3. Administratie uitkeringen en verstrekkingen als bedoeld in [artikel 11, eerste lid, onderdelen m en o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11)
 
@@ -663,27 +657,27 @@ Indien een inhoudingsplichtige in enig tijdvak voorziet dat hij gerekend vanaf h
 
 3. De vorige leden zijn niet van toepassing ten aanzien van:
 
-- a. de werknemer die uitkeringen geniet ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
+- a. de werknemer die uitkeringen geniet ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
 - b. de werknemer die uitkeringen geniet wegens tijdelijke arbeidsongeschiktheid of uitkeringen ingevolge de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), indien degene tot wie de werknemer in dienstbetrekking staat of laatstelijk heeft gestaan, de voor de heffing van de belasting vereiste gegevens, daaronder begrepen het burgerservicenummer, schriftelijk mededeelt aan de inhoudingsplichtige;
 
-- c. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of een uitkering of een inkomensvoorziening ingevolge de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) geniet;
+- c. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) of een uitkering of een inkomensvoorziening ingevolge de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) geniet;
 
 - d. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt en loon uit tegenwoordige dienstbetrekking geniet, of loon uit vroegere dienstbetrekking geniet waarin niet zijn begrepen de uitkeringen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221);
 
 - e. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), heeft bereikt en loon geniet in de vorm van uitkeringen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of loon uit vroegere dienstbetrekking geniet waarin zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet;
 
-- f. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) of [artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten](onbekend).
+- f. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) of [artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](onbekend).
 
 4. Indien de inhoudingsplichtige niet bekend is met het burgerservicenummer van de in het derde lid bedoelde werknemer, verzoekt de inhoudingsplichtige voor de eerste loonverstrekking de werknemer om opgave van zijn burgerservicenummer. De werknemer doet deze opgave voor de eerste loonverstrekking toekomen aan de inhoudingsplichtige.
 
 ##### Artikel 7.10. Uitzonderingen bij samenhangende groep inhoudingsplichtigen
 
-1. De [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2014-08-01&g=2014-08-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) zijn niet van toepassing ingeval de werknemer zijn werkzaamheden aanvangt bij een inhoudingsplichtige die met de zonder onderbreking voorafgaande inhoudingsplichtige van de werknemer behoort tot dezelfde samenhangende groep inhoudingsplichtigen in de zin van [artikel 27e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27e).
+1. De [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2015-01-01&g=2015-01-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) zijn niet van toepassing ingeval de werknemer zijn werkzaamheden aanvangt bij een inhoudingsplichtige die met de zonder onderbreking voorafgaande inhoudingsplichtige van de werknemer behoort tot dezelfde samenhangende groep inhoudingsplichtigen in de zin van [artikel 27e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=27e).
 
-2. Zodra de inhoudingsplichtige en de zonder onderbreking voorafgaande inhoudingsplichtigen van de werknemer niet langer tot dezelfde samenhangende groep inhoudingsplichtigen behoren, zijn de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2014-08-01&g=2014-08-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01) alsnog van toepassing alsof de inhoudingsplichtige op dat moment ten aanzien van de werknemer inhoudingsplichtige wordt en de werknemer op dat moment zijn werkzaamheden aanvangt.
+2. Zodra de inhoudingsplichtige en de zonder onderbreking voorafgaande inhoudingsplichtigen van de werknemer niet langer tot dezelfde samenhangende groep inhoudingsplichtigen behoren, zijn de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2015-01-01&g=2015-01-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01) alsnog van toepassing alsof de inhoudingsplichtige op dat moment ten aanzien van de werknemer inhoudingsplichtige wordt en de werknemer op dat moment zijn werkzaamheden aanvangt.
 
-3. Het tweede lid is niet van toepassing indien de ten aanzien van de werknemer van belang zijnde stukken, bedoeld in de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2014-08-01&g=2014-08-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2014-08-01&g=2014-08-01), aan de inhoudingsplichtige zijn overgedragen. Artikel 7.5, vierde lid, en artikel 7.9, derde lid, zijn van overeenkomstige toepassing.
+3. Het tweede lid is niet van toepassing indien de ten aanzien van de werknemer van belang zijnde stukken, bedoeld in de [artikelen 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2015-01-01&g=2015-01-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.9&z=2015-01-01&g=2015-01-01), aan de inhoudingsplichtige zijn overgedragen. Artikel 7.5, vierde lid, en artikel 7.9, derde lid, zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 8. Heffing van de inhoudingsplichtige ([hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=V))
 
@@ -693,7 +687,7 @@ Als uitkeringen van publiekrechtelijke aard die buiten aanmerking worden gelaten
 
 - a. uitkeringen ingevolge de Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen;
 
-- b. tegemoetkomingen ingevolge [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) en [artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten](onbekend);
+- b. tegemoetkomingen ingevolge [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) en [artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](onbekend);
 
 - c. uitkeringen verstrekt door de Conterganstiftung für behinderte Menschen.
 
@@ -761,7 +755,7 @@ Degene tot wie een werknemer in dienstbetrekking staat – of, indien krachtens 
 
 ##### Artikel 9.3. Meerdere gevallen van loon uit vroegere dienstbetrekking
 
-Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) – verstrekt, wordt ook geacht te verstrekken:
+Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) – verstrekt, wordt ook geacht te verstrekken:
 
 - a. het loon uit een vroegere dienstbetrekking dat door zijn tussenkomst wordt uitbetaald;
 
@@ -769,11 +763,11 @@ Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere die
 
 ##### Artikel 9.4. Samenvoeging van loon
 
-1. Een inhoudingsplichtige wordt in de gevallen, bedoeld in de [artikelen 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=9&artikel=9.1&z=2014-08-01&g=2014-08-01) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=9&artikel=9.3&z=2014-08-01&g=2014-08-01), alsmede indien hij loon uit meer dan een vroegere dienstbetrekking verstrekt, geacht het totale bedrag aan loon te verstrekken uit een dienstbetrekking of vroegere dienstbetrekking.
+1. Een inhoudingsplichtige wordt in de gevallen, bedoeld in de [artikelen 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=9&artikel=9.1&z=2015-01-01&g=2015-01-01) en [9.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=9&artikel=9.3&z=2015-01-01&g=2015-01-01), alsmede indien hij loon uit meer dan een vroegere dienstbetrekking verstrekt, geacht het totale bedrag aan loon te verstrekken uit een dienstbetrekking of vroegere dienstbetrekking.
 
 2. Het eerste lid is niet van toepassing op de samenloop van:
 
-- a. een tegemoetkoming als bedoeld in [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) of [artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten](onbekend) en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt;
+- a. een tegemoetkoming als bedoeld in [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a), [artikel 63a van de Wet werk en inkomen naar arbeidsvermogen](onbekend), [artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering](onbekend), [artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](onbekend) of [artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](onbekend) en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt;
 
 - b. een uitkering ter zake van een afkoop als bedoeld in [artikel 3.133, tweede lid, onderdeel d, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt.
 
@@ -845,7 +839,7 @@ Ingeval de in te houden belasting mede afhankelijk is van loon dat is verstrekt 
 
 - b. zolang hij niet de laatstelijk uitgereikte gageverklaring ingevuld van de artiest of beroepssporter heeft terugontvangen.
 
-4. [Artikel 7.2, tweede, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
+4. [Artikel 7.2, tweede, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 5. De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in [artikel 35a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35a), de belasting in aan de hand van de gegevens, vermeld in het hoofd van de loonstaat.
 
@@ -867,11 +861,11 @@ De inhoudingsplichtige verstrekt aan de artiest of beroepssporter een jaaropgaaf
 
 1. De inhoudingsplichtige stelt zodra de artiest of beroepssporter zijn werkzaamheden aanvangt diens identiteit vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en houdt een afschrift van dat document voor controle beschikbaar bij de loonadministratie.
 
-2. [Artikel 7.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
+2. [Artikel 7.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-##### Artikel 10.7. Uitzonderingen op de toepassing van [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&artikel=10.3&z=2014-08-01&g=2014-08-01)
+##### Artikel 10.7. Uitzonderingen op de toepassing van [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&artikel=10.3&z=2015-01-01&g=2015-01-01)
 
-1. [Artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&artikel=10.3&z=2014-08-01&g=2014-08-01) is niet van toepassing indien de in te houden belasting nihil bedraagt doordat:
+1. [Artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&artikel=10.3&z=2015-01-01&g=2015-01-01) is niet van toepassing indien de in te houden belasting nihil bedraagt doordat:
 
 - a. de artiest of beroepssporter slechts vergoedingen en verstrekkingen als bedoeld in [artikel 35, derde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35) geniet, of
 
@@ -883,7 +877,7 @@ De inhoudingsplichtige verstrekt aan de artiest of beroepssporter een jaaropgaaf
 
 ##### Artikel 11.1. In Nederland wonende leden van het buitenlandse gezelschap
 
-Indien tot een buitenlands gezelschap een lid behoort dat in Nederland woont, is met betrekking tot dat lid niet dit hoofdstuk, maar [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&z=2014-08-01&g=2014-08-01) van toepassing.
+Indien tot een buitenlands gezelschap een lid behoort dat in Nederland woont, is met betrekking tot dat lid niet dit hoofdstuk, maar [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&z=2015-01-01&g=2015-01-01) van toepassing.
 
 ##### Artikel 11.2. Consumpties tijdens werktijd
 
@@ -923,7 +917,7 @@ Indien tot een buitenlands gezelschap een lid behoort dat in Nederland woont, is
 
 - b. zolang hij niet de laatstelijk uitgereikte gageverklaring ingevuld van de leider of vertegenwoordiger van het gezelschap heeft terugontvangen.
 
-5. [Artikel 7.2, tweede, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
+5. [Artikel 7.2, tweede, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 6. De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in [artikel 35h, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35h), de belasting in aan de hand van de gegevens, vermeld in het hoofd van de loonstaat.
 
@@ -941,11 +935,11 @@ Indien tot een buitenlands gezelschap een lid behoort dat in Nederland woont, is
 
 1. De inhoudingsplichtige stelt zodra het buitenlandse gezelschap zijn werkzaamheden aanvangt de identiteit van een zo groot mogelijk deel, maar van ten minste het merendeel van de leden van het gezelschap vast aan de hand van een document als bedoeld in [artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1) en houdt een afschrift van dat document voor controle beschikbaar bij de loonadministratie.
 
-2. [Artikel 7.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2014-08-01&g=2014-08-01), is van overeenkomstige toepassing.
+2. [Artikel 7.5, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.5&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 11.7. Uitzonderingen op de toepassing van artikel 11.4
 
-1. [Artikel 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=11&artikel=11.4&z=2014-08-01&g=2014-08-01) is niet van toepassing indien de in te houden belasting nihil bedraagt doordat:
+1. [Artikel 11.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=11&artikel=11.4&z=2015-01-01&g=2015-01-01) is niet van toepassing indien de in te houden belasting nihil bedraagt doordat:
 
 - a. het buitenlandse gezelschap slechts vergoedingen en verstrekkingen als bedoeld in [artikel 35g, derde lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35g) ontvangt, of
 
@@ -997,19 +991,7 @@ Vervallen
 
 ##### Artikel 12.7. Toepassing keuzeregime
 
-Ingeval de inhoudingsplichtige [artikel 39c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) toepast:
-
-- a. zijn niet van toepassing:
-
-- 1°. [hoofdstuk 4a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a);
-
-- 2°. de [artikelen 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.7&z=2014-08-01&g=2014-08-01), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.8&z=2014-08-01&g=2014-08-01), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.9&z=2014-08-01&g=2014-08-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.10&z=2014-08-01&g=2014-08-01), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=3&artikel=3.11&z=2014-08-01&g=2014-08-01), [7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=7&artikel=7.3&z=2014-08-01&g=2014-08-01), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=8&artikel=8.2&z=2014-08-01&g=2014-08-01), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=8&artikel=8.3&z=2014-08-01&g=2014-08-01), [8.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=8&artikel=8.4&z=2014-08-01&g=2014-08-01), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=8&artikel=8.5&z=2014-08-01&g=2014-08-01), [10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=10&artikel=10.1&z=2014-08-01&g=2014-08-01), [11.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=11&artikel=11.2&z=2014-08-01&g=2014-08-01) en [12.7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=12&artikel=12.7a&z=2014-08-01&g=2014-08-01);
-
-- b. blijven van toepassing:
-
-- 1°. de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=8) en [10f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10f), zoals deze op 31 december 2010 luidden;
-
-- 2°. de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=8), 9, [20](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=21), [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=21a), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=21b), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=23), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=24), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=30), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=31), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=32), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=32a), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=37), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=41), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=43), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=44), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=46), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=47), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=51), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=52), [55](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=55), [56](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=56), [59](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=59), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=68), [82](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=82), [82a](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=82a), [84](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=84) en [84a van de Uitvoeringsregeling loonbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012059&artikel=84a), zoals deze op 31 december 2010 luidden, met inachtneming van de krachtens [artikel 39c, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) aangebrachte wijzigingen.
+Vervallen
 
 ##### Artikel 12.7a. Overgangsregeling saldering reiskosten
 
@@ -1089,6 +1071,58 @@ Ingeval het loon, bedoeld in [artikel 10eb, eerste en tweede lid, van het beslui
 
 ##### Artikel 12.7b. Uitvoering looncriterium 30%-regeling bij toepassing overgangsregeling werkkostenregeling
 
-Ingeval het loon, bedoeld in [artikel 9a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=9a) zoals dat luidde op 31 december 2010, van een werknemer als bedoeld in [artikel 39c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c) als gevolg van het opnemen van ouderschapsverlof of zwangerschapsverlof in een tijdvak op jaarbasis lager is dan het bedrag, genoemd in artikel 9a, eerste lid, onderscheidenlijk tweede lid, van het besluit zoals dat luidde op 31 december 2010, wordt in dat loontijdvak bij de toepassing van dat artikel ten aanzien van de werknemer uitgegaan van het loon, bedoeld in dat artikel, dat de werknemer zou hebben genoten indien hij geen ouderschapsverlof of zwangerschapsverlof zou hebben opgenomen.
+Vervallen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8.4a. Gericht vrijgestelde vergoedingen en verstrekkingen van voorzieningen op de werkplek
+
+1. Tot de voorzieningen, bedoeld in [artikel 31a, tweede lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), behoren, ingeval deze geheel of gedeeltelijk op de werkplek gebruikt of verbruikt worden:
+
+- a. voorzieningen die rechtstreeks voortvloeien uit het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524);
+
+- b. hulpmiddelen die ook elders gebruikt kunnen worden en die geheel of nagenoeg geheel zakelijk gebruikt worden.
+
+2. In afwijking in zoverre van [artikel 1.2, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&hoofdstuk=1&artikel=1.2&z=2015-01-01&g=2015-01-01), wordt voor de toepassing van het eerste lid, onderdeel a, onder werkplek tevens verstaan:
+
+- 1°. in geval van thuiswerk in de zin van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van [artikel 1, onderdeel l, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1), de aanhorigheden daaronder begrepen, van de werknemer;
+
+- 2°. de plaats waar uitvoering wordt gegeven aan het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346).
+
+##### Artikel 8.4b. Toepassing concernregeling
+
+1. Iedere inhoudingsplichtige die ingevolge [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) samen met andere inhoudingsplichtigen als één inhoudingsplichtige wordt beschouwd legt in zijn administratie vast:
+
+- a. het door hem verstrekte loon waarover in het kalenderjaar met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting is geheven;
+
+- b. het door hem verstrekte loon dat ingevolge [artikel 31a, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) bij de bepaling van het loon, bedoeld in artikel 31a, tweede lid, van de wet, buiten beschouwing wordt gelaten;
+
+- c. de in het kalenderjaar ingevolge [artikel 31, eerste lid, onderdeel f en onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) door hem aangewezen vergoedingen en verstrekkingen, met uitzondering van de vergoedingen en verstrekkingen die ingevolge artikel 31a, tweede lid, van de wet naast 1,2% van het loon, bedoeld in [artikel 31a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), met inachtneming van artikel 31a, tiende lid, van de wet, in mindering komen;
+
+- d. van de andere inhoudingsplichtigen, bedoeld in de aanhef, per inhoudingsplichtige:
+
+- 1°. de naam en het voor de loonbelasting, premie voor de volksverzekeringen, premies werknemersverzekeringen en inkomensafhankelijke bijdrage Zorgverzekeringswet geldende identificatienummer (loonheffingennummer);
+
+- 2°. het door die inhoudingsplichtige verstrekte loon waarover in het kalenderjaar met toepassing van de [artikelen 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a), [20b](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26) en [26b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=26b) belasting is geheven;
+
+- 3°. het door die inhoudingsplichtige verstrekte loon dat ingevolge [artikel 31a, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) bij de bepaling van het loon, bedoeld in artikel 31a, tweede lid, van de wet, buiten beschouwing wordt gelaten;
+
+- 4°. de in het kalenderjaar ingevolge [artikel 31, eerste lid, onderdeel f en onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31) door die inhoudingsplichtige aangewezen vergoedingen en verstrekkingen, met uitzondering van de vergoedingen en verstrekkingen die ingevolge [artikel 31a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) naast 1,2% van het loon, bedoeld in artikel 31a, tweede lid, van de wet, met inachtneming van artikel 31a, tiende lid, van de wet, in mindering komen;
+
+- d. de berekening van de gezamenlijk verschuldigde belasting, bedoeld in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32), en, ingeval deze belasting meer bedraagt dan nihil, de naam en het loonheffingennummer van de inhoudingsplichtige die deze belasting heeft aangegeven en afgedragen.
+
+2. Van verwevenheid in financieel, organisatorisch en economisch opzicht tussen inhoudingsplichtige stichtingen als bedoeld in [artikel 32, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=32) is sprake indien statutair is vastgelegd dat:
+
+- a. het bestuur van een van de stichtingen, bedoeld in de aanhef, de bestuursleden van de andere stichtingen, bedoeld in de aanhef, benoemt of een bindende voordracht doet voor de benoeming van die bestuursleden;
+
+- b. bij vereffening bij faillissement of opheffing van een stichting als bedoeld in de aanhef het vermogen van die stichting wordt overgedragen aan een van de andere stichtingen, bedoeld in de aanhef.
+
+### Hoofdstuk 9. Aanvullende regelingen ([hoofdstuk VI van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VI))
+
+### Hoofdstuk 10. Belastingheffing van artiesten en beroepssporters ([hoofdstuk VII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VII))
+
+### Hoofdstuk 11. Belastingheffing van buitenlandse gezelschappen ([hoofdstuk VIIa van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VIIA))
+
+### Hoofdstuk 12. Overgangs- en slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
