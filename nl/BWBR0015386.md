@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2014-07-01&g=2014-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2014-07-01&g=2014-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2014-07-01&g=2014-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2014-07-01&g=2014-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2015-01-01&g=2015-01-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2014-07-01&g=2014-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2014-07-01&g=2014-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2015-01-01&g=2015-01-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2015-01-01&g=2015-01-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -122,19 +122,19 @@ De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 va
 
 ##### Artikel 10
 
-De groep, bedoeld in [artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), bestaat uit huishoudens waarbij:
+1. De groep, bedoeld in [artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), bestaat uit huishoudens waarbij:
 
-- a. in geval van een eenpersoonshuishouden aan de huurder van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946&artikel=1) is verstrekt voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4), verpleging als bedoeld in [artikel 5 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5) of individuele begeleiding als bedoeld in [artikel 6 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6), welk indicatiebesluit een geldigheidsduur heeft van ten minste een jaar en in welk indicatiebesluit ten minste tien uur zorg per week wordt toegekend;
+- a. in geval van een eenpersoonshuishouden de huurder op grond van [artikel 2.1 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.1) voor een periode van ten minste een jaar en ten minste 10 uur per week verpleging of verzorging als bedoeld in [artikel 2.10 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10) ontvangt;
 
-- b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946&artikel=1) is verstrekt voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=4), verpleging als bedoeld in [artikel 5 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=5) of individuele begeleiding als bedoeld in [artikel 6 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=6), welk indicatiebesluit een geldigheidsduur heeft van ten minste 371 dagen of indien aan die huurder of dat lid meerdere van de hiervoor genoemde indicatiebesluiten zijn verstrekt, waarvan de geldigheidsduur in het totaal ten minste 371 dagen bedraagt, ende begindatum van elk indicatiebesluit niet meer dan 42 dagen na de einddatum van het daaraan voorafgaande indicatiebesluit heeft gelegen;
+- b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een blijk van waardering voor mantelzorgers is verstrekt als bedoeld in [artikel 2.1.6 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.6) en waarbij die mantelzorg is verleend aan een ander lid van datzelfde huishouden;
 
-- c. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946&artikel=1) is verstrekt voor verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9);
+- c. de huurder of een ander lid van dat huishouden in het bezit is van een indicatiebesluit als bedoeld in [artikel 1.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) voor verblijf als bedoeld in [artikel 3.1.1, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) of voor direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen als bedoeld in [artikel 10.1.4 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=10.1.4);
 
-- d. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008946&artikel=1) is verstrekt voor ADL-assistentie als bedoeld in [artikel 34 van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=34);
+- d. aan de huurder of aan een ander lid van dat huishouden een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van [artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169&artikel=1) of [artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1), of ten behoeve van een woningaanpassing als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), of
 
-- e. aan de huurder of aan een ander lid van dat huishouden voor 1 mei 2013 een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van [artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0006169&artikel=1) of [artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1), of
+- e. de huurder of een ander lid van dat huishouden met een verklaring van de huisarts kan aantonen dat hij blind is.
 
-- f. de huurder of een ander lid van dat huishouden met een verklaring van de huisarts kan aantonen dat hij blind is.
+2. Tot de groep, bedoeld in het eerste lid, behoren eveneens de huishoudens, bedoeld in dat lid, die beschikken over een geldend indicatiebesluit als genoemd in artikel 10, onderdelen a, b, c respectievelijk d, van de Uitvoeringsregeling huurprijzen woonruimte, zoals dat artikel luidde op 31 december 2014.
 
 #### § 7. Vrijstelling leges
 
@@ -146,17 +146,17 @@ De groep, bedoeld in [artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk
 
 - a. de ten gunste van de verzoeker krachtens [artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=14) laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1) waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt, bedoeld in [artikel 17 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=17), gold, of
 
-- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand.
+- b. een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) gegeven beschikking tot vaststelling van algemene bijstand.
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2014-07-01&g=2014-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2015-01-01&g=2015-01-01).
 
 #### § 5. Openbaar register
 
 ##### Artikel 13
 
-Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252b) verstrekt de huurder:
+Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252b), of indien de verhuurder een voorstel als bedoeld in [artikel 7:252a, eerste lid, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a) heeft gedaan en het huishoudinkomen voorwerp van geschil is, bij een verklaring als bedoeld in [artikel 7:253, eerste lid, eerste volzin, van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=253) of een verzoek als bedoeld in artikel 7:253, tweede lid, aanhef, van dat wetboek, verstrekt de huurder:
 
 - a. een door de inspecteur, bedoeld in [artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=252a), afgegeven verklaring omtrent het inkomensgegeven, bedoeld in [artikel 21, onder e, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=21), van alle bewoners van de woning, en
 
@@ -164,7 +164,7 @@ Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk 
 
 ##### Artikel 14
 
-Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2014-07-01&g=2014-07-01).
+Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2015-01-01&g=2015-01-01).
 
 #### § 9. Slotbepalingen
 
@@ -1309,7 +1309,7 @@ De gegevens, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 14a
 
-Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2014-07-01&g=2014-07-01).
+Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2015-01-01&g=2015-01-01).
 
 #### § 9. Slotbepalingen
 
