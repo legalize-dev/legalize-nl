@@ -4,7 +4,7 @@ identifier: "BWBR0035308"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035308"
 soort: "wet"
@@ -69,13 +69,13 @@ Wijzigt de Wet handhaving consumentenbescherming.
 
 ##### Artikel VII
 
-1. Een vergunning als bedoeld in [artikel 2:11 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) die wordt gehouden door een persoon die in de periode van zes maanden voorafgaande aan het tijdstip van inwerkingtreding van [artikel I, onderdeel DD](https://wetten.overheid.nl/jci1.3:c:BWBR0035308&artikel=I&z=2014-08-01&g=2014-08-01), geen kredietinstelling was als bedoeld in artikel 4 van verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176), wordt vanaf dat tijdstip aangemerkt als een vergunning als bedoeld in [artikel 3:4, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4), mits de houder van de vergunning in die periode de activiteiten verrichtte, bedoeld in het laatstgenoemde artikel. Indien niet aan die voorwaarde wordt voldaan, trekt de toezichthouder de vergunning na voornoemd tijdstip in.
+1. Een vergunning als bedoeld in [artikel 2:11 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:11) die wordt gehouden door een persoon die in de periode van zes maanden voorafgaande aan het tijdstip van inwerkingtreding van [artikel I, onderdeel DD](https://wetten.overheid.nl/jci1.3:c:BWBR0035308&artikel=I&z=2015-01-01&g=2015-01-01), geen kredietinstelling was als bedoeld in artikel 4 van verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (PbEU 2013, L 176), wordt vanaf dat tijdstip aangemerkt als een vergunning als bedoeld in [artikel 3:4, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:4), mits de houder van de vergunning in die periode de activiteiten verrichtte, bedoeld in het laatstgenoemde artikel. Indien niet aan die voorwaarde wordt voldaan, trekt de toezichthouder de vergunning na voornoemd tijdstip in.
 
 2. Banken en beleggingsondernemingen als bedoeld in [artikel 3:17a van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:17a) passen het bepaalde ingevolge het tweede en derde lid van dat artikel toe op het toekennen van het variabele deel van de beloning op basis van het jaar 2014, ongeacht of de verplichting waaruit de toekenning voorvloeit is aangegaan voorafgaande aan het moment van inwerkingtreding van dat artikel.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel IX
 
