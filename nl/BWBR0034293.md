@@ -4,7 +4,7 @@ identifier: "BWBR0034293"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034293"
 soort: "wet"
@@ -121,9 +121,9 @@ Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie ric
 
 ##### Artikel XVIII
 
-1. Een afwikkelonderneming met zetel in Nederland die op het tijdstip van inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2014-01-01&g=2014-01-01), haar bedrijf uitoefent jegens betaaldienstverleners met wie zij niet in een groep is verbonden en die in het jaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel V, meer dan 120 miljoen girale betalingstransacties heeft afgewikkeld, beschikt vanaf dat tijdstip van rechtswege over een vergunning als bedoeld in [artikel 2:3.0b, eerste lid, van de wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0b), met dien verstande dat de vergunning uitsluitend betrekking heeft op de werkzaamheden die zij op dat tijdstip verricht.
+1. Een afwikkelonderneming met zetel in Nederland die op het tijdstip van inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2015-01-01&g=2015-01-01), haar bedrijf uitoefent jegens betaaldienstverleners met wie zij niet in een groep is verbonden en die in het jaar voorafgaand aan het tijdstip van inwerkingtreding van artikel I, onderdeel V, meer dan 120 miljoen girale betalingstransacties heeft afgewikkeld, beschikt vanaf dat tijdstip van rechtswege over een vergunning als bedoeld in [artikel 2:3.0b, eerste lid, van de wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0b), met dien verstande dat de vergunning uitsluitend betrekking heeft op de werkzaamheden die zij op dat tijdstip verricht.
 
-2. De afwikkelonderneming toont binnen drie maanden na inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2014-01-01&g=2014-01-01), van deze wet aan dat zal worden voldaan aan de artikelen, genoemd in [artikel 2:3.0d, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d).
+2. De afwikkelonderneming toont binnen drie maanden na inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2015-01-01&g=2015-01-01), van deze wet aan dat zal worden voldaan aan de artikelen, genoemd in [artikel 2:3.0d, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0d).
 
 3. De afwikkelonderneming vermeldt met betrekking tot welke werkzaamheden, onderscheiden in de [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) opgenomen definitie van afwikkelonderneming, zij beoogt aan te tonen dat zij voldoet aan de in het tweede lid bedoelde artikelen.
 
@@ -133,9 +133,9 @@ Wijzigt de Wijzigingswet Wet op het financieel toezicht, enz. (implementatie ric
 
 ##### Artikel XIX
 
-1. Een afwikkelonderneming met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2014-01-01&g=2014-01-01), haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor jegens betaaldienstverleners met wie zij niet in een groep is verbonden, beschikt vanaf dat tijdstip van rechtswege over een vergunning als bedoeld in [artikel 2:3.0g, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0g), met dien verstande dat de vergunning uitsluitend betrekking heeft op de werkzaamheden die zij op dat tijdstip verricht.
+1. Een afwikkelonderneming met zetel in een niet-aangewezen staat die op het tijdstip van inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2015-01-01&g=2015-01-01), haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor jegens betaaldienstverleners met wie zij niet in een groep is verbonden, beschikt vanaf dat tijdstip van rechtswege over een vergunning als bedoeld in [artikel 2:3.0g, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0g), met dien verstande dat de vergunning uitsluitend betrekking heeft op de werkzaamheden die zij op dat tijdstip verricht.
 
-2. De afwikkelonderneming toont binnen drie maanden na inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2014-01-01&g=2014-01-01), van deze wet aan dat zal worden voldaan aan de artikelen, genoemd in [artikel 2:3.0i, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i).
+2. De afwikkelonderneming toont binnen drie maanden na inwerkingtreding van [artikel I, onderdeel V](https://wetten.overheid.nl/jci1.3:c:BWBR0034293&artikel=I&z=2015-01-01&g=2015-01-01), van deze wet aan dat zal worden voldaan aan de artikelen, genoemd in [artikel 2:3.0i, eerste lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=2:3.0i).
 
 3. De afwikkelonderneming vermeldt met betrekking tot welke werkzaamheden, onderscheiden in de [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) opgenomen definitie van afwikkelonderneming, zij beoogt aan te tonen dat zij voldoet aan de in het tweede lid bedoelde artikelen.
 
