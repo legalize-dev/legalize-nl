@@ -4,7 +4,7 @@ identifier: "BWBR0028752"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2026-01-01"
-last_updated: "2010-10-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028752"
 soort: "wet-BES"
@@ -81,7 +81,7 @@ Van de bepalingen van deze titel mag slechts worden afgeweken, indien en voor zo
 
 2. Onder gehele koopprijs wordt verstaan de som van alle betalingen, waartoe de koper bij regelmatige nakoming van de overeenkomst gehouden is.
 
-3. Het tweede lid van [artikel 1557b](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557b&z=2010-10-10&g=2010-10-10) is hier niet van toepassing.
+3. Het tweede lid van [artikel 1557b](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557b&z=2015-01-01&g=2015-01-01) is hier niet van toepassing.
 
 ##### Artikel 1557d
 
@@ -121,7 +121,7 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1557i
 
-1. Huurkoop wordt aangegaan bij authentieke of onderhandse akte, welke voldoet aan de bepalingen van [artikel 1557j](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557j&z=2010-10-10&g=2010-10-10).
+1. Huurkoop wordt aangegaan bij authentieke of onderhandse akte, welke voldoet aan de bepalingen van [artikel 1557j](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557j&z=2015-01-01&g=2015-01-01).
 
 2. Hetzelfde geldt voor overeenkomsten, welke bestaande overeenkomsten zodanig wijzigen of aanvullen, dat daardoor huurkoop zou ontstaan.
 
@@ -133,9 +133,9 @@ Volmacht tot invordering van loon, pensioen of andere periodieke vorderingen ter
 
 ##### Artikel 1557j
 
-1. De akte van huurkoop moet duidelijk vermelden de gehele koopprijs, als bedoeld in [artikel 1557c](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557c&z=2010-10-10&g=2010-10-10), het plan van regelmatige afbetaling, als bedoeld in [artikel 1557f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557f&z=2010-10-10&g=2010-10-10), en de bedingen betreffende voorbehoud en overgang van eigendom.
+1. De akte van huurkoop moet duidelijk vermelden de gehele koopprijs, als bedoeld in [artikel 1557c](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557c&z=2015-01-01&g=2015-01-01), het plan van regelmatige afbetaling, als bedoeld in [artikel 1557f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=1&artikel=1557f&z=2015-01-01&g=2015-01-01), en de bedingen betreffende voorbehoud en overgang van eigendom.
 
-2. In de gevallen, bedoeld in het tweede en het [derde lid van artikel 1557h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557h&z=2010-10-10&g=2010-10-10), treden de overeenkomstige gegevens hiervoor in de plaats.
+2. In de gevallen, bedoeld in het tweede en het [derde lid van artikel 1557h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557h&z=2015-01-01&g=2015-01-01), treden de overeenkomstige gegevens hiervoor in de plaats.
 
 3. Ontbreekt een akte, welke voldoet aan genoemde voorwaarden, dan geldt de overeenkomst niet als huurkoop, doch wordt de koop en verkoop op afbetaling geacht te zijn gesloten zonder beding, dat de verkochte zaak niet door enkele aflevering aan de koper overgaat.
 
@@ -205,7 +205,7 @@ Indien bij ontbinding der overeenkomst de koper recht mocht hebben op enige teru
 
 3. Bij herhaling van het in het eerste lid genoemde geval heeft de koper het recht van inlossing alleen onder volledige betaling.
 
-4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkoper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1557r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557r&z=2010-10-10&g=2010-10-10) aanleiding zouden geven.
+4. Aan de vordering tot inlossing, anders dan onder volledige betaling, behoeft de verkoper niet te voldoen, indien omstandigheden aanwezig zijn, die tot toepassing van [artikel 1557r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&afdeling=2&artikel=1557r&z=2015-01-01&g=2015-01-01) aanleiding zouden geven.
 
 5. Van de bepalingen van dit artikel kan ten voordele van de koper door partijen worden afgeweken.
 
@@ -241,7 +241,7 @@ Indien bij ontbinding der overeenkomst de koper recht mocht hebben op enige teru
 
 ##### Artikel 1566
 
-De bepalingen van deze en de [volgende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Tweede&z=2010-10-10&g=2010-10-10) zijn mede van toepassing op de huur van vermogensrechten, voor zover de strekking van die bepalingen of de aard van het recht zich daartegen niet verzet.
+De bepalingen van deze en de [volgende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Tweede&z=2015-01-01&g=2015-01-01) zijn mede van toepassing op de huur van vermogensrechten, voor zover de strekking van die bepalingen of de aard van het recht zich daartegen niet verzet.
 
 ### Afdeling Tweede. Van de regelen, welke gemeen zijn aan verhuringen van huizen en van landen
 
@@ -393,7 +393,7 @@ De verhuurder kan de huur niet doen ophouden door te verklaren, dat hij de verhu
 
 ##### Artikel 1597
 
-Indien men bij de huurovereenkomst is overeengekomen, dat de gehuurde zaak de bevoegdheid zoude hebben om het verhuurde huis of land zelf te betrekken, is hij verplicht vooraf een opzegging te doen betekenen, zoveel tijd tevoren als bij [artikel 1595](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1595&z=2010-10-10&g=2010-10-10) is vastgesteld.
+Indien men bij de huurovereenkomst is overeengekomen, dat de gehuurde zaak de bevoegdheid zoude hebben om het verhuurde huis of land zelf te betrekken, is hij verplicht vooraf een opzegging te doen betekenen, zoveel tijd tevoren als bij [artikel 1595](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Tweede&artikel=1595&z=2015-01-01&g=2015-01-01) is vastgesteld.
 
 ### Afdeling Derde. Van de regelen, welke bijzonder betrekkelijk zijn tot huur van huizen en huisraad
 
@@ -437,7 +437,7 @@ Indien de huurder van een huis of vertrekt, na het eindigen van de huurtijd, bij
 
 ##### Artikel 1605
 
-Indien bij een huurovereenkomst van landerijen een kleinere of grotere uitgestrektheid wordt opgegeven, dan dezelve werkelijk hebben, geeft zulks geen grond tot vermeerdering of vermindering van de huurprijs, dan alleen in de gevallen en volgens de bepalingen bij de [vijfde titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&z=2010-10-10&g=2010-10-10) vastgesteld.
+Indien bij een huurovereenkomst van landerijen een kleinere of grotere uitgestrektheid wordt opgegeven, dan dezelve werkelijk hebben, geeft zulks geen grond tot vermeerdering of vermindering van de huurprijs, dan alleen in de gevallen en volgens de bepalingen bij de [vijfde titel van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Vijfde_a&z=2015-01-01&g=2015-01-01) vastgesteld.
 
 ##### Artikel 1606
 
@@ -489,7 +489,7 @@ De aanneming van werk van stoffelijke aard is de overeenkomst, waarbij de ene pa
 
 1. Indien een overeenkomst de kenmerken bevat van een arbeidsovereenkomst, en van enige andere soort van overeenkomst, zullen zowel de bepalingen betreffende de arbeidsovereenkomst als die betreffende de andere soort van overeenkomst, welker kenmerken zij mede bevat, van toepassing zijn; in geval van strijd tussen deze bepalingen zullen die der arbeidsovereenkomst van toepassing zijn.
 
-2. Indien een aanneming van werk door meerdere soortgelijke overeenkomsten, zij het ook telkens met enige tussentijd, is gevolgd, of indien het, bij het aangaan ener aanneming van werk, blijkbaar in de bedoeling van partijen ligt meerdere dergelijke overeenkomsten aan te gaan, in dier voege, dat de verschillende aannemingen tezamen als een arbeidsovereenkomst kunnen worden beschouwd, zullen de bepalingen betreffende de arbeidsovereenkomst op deze overeenkomsten gezamenlijk en op elk harer afzonderlijk, met uitsluiting van de bepalingen der zesde afdeling van deze titel, van toepassing zijn. Is evenwel in een dergelijk geval de eerste overeenkomst bij wijze van proef aangegaan, dan zal deze geacht worden haar aard van aanneming van werk te hebben behouden en zullen de bepalingen der [zesde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Zesde&z=2010-10-10&g=2010-10-10) van deze titel op haar van toepassing zijn.
+2. Indien een aanneming van werk door meerdere soortgelijke overeenkomsten, zij het ook telkens met enige tussentijd, is gevolgd, of indien het, bij het aangaan ener aanneming van werk, blijkbaar in de bedoeling van partijen ligt meerdere dergelijke overeenkomsten aan te gaan, in dier voege, dat de verschillende aannemingen tezamen als een arbeidsovereenkomst kunnen worden beschouwd, zullen de bepalingen betreffende de arbeidsovereenkomst op deze overeenkomsten gezamenlijk en op elk harer afzonderlijk, met uitsluiting van de bepalingen der zesde afdeling van deze titel, van toepassing zijn. Is evenwel in een dergelijk geval de eerste overeenkomst bij wijze van proef aangegaan, dan zal deze geacht worden haar aard van aanneming van werk te hebben behouden en zullen de bepalingen der [zesde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Zesde&z=2015-01-01&g=2015-01-01) van deze titel op haar van toepassing zijn.
 
 ##### Artikel 1613ca
 
@@ -517,7 +517,7 @@ Wanneer een arbeidsovereenkomst schriftelijk wordt aangegaan, zijn de kosten der
 
 3. Indien de machtiging schriftelijk is verleend, is de minderjarige verplicht haar ter hand te stellen aan de werkgever, die de minderjarige afschrift daarvan geeft en de machtiging bij het einde der dienstbetrekking aan de minderjarige of diens rechtverkrijgenden teruggeeft.
 
-4. Voor zover zulks niet door het stellen van bepaalde voorwaarden in de machtiging uitdrukkelijk is uitgesloten, staat de minderjarige in alles, wat betrekking heeft op de arbeidsovereenkomst, door hem ingevolge de verleende machtiging aangegaan, met een meerderjarige gelijk, behoudens het bepaalde bij het derde lid van [artikel 1614f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614f&z=2010-10-10&g=2010-10-10). Echter kan hij niet in rechte verschijnen zonder bijstand van zijn wettelijke vertegenwoordiger, behalve wanneer de rechter gebleken is, dat de wettelijke vertegenwoordiger niet bij machte is zich te verklaren.
+4. Voor zover zulks niet door het stellen van bepaalde voorwaarden in de machtiging uitdrukkelijk is uitgesloten, staat de minderjarige in alles, wat betrekking heeft op de arbeidsovereenkomst, door hem ingevolge de verleende machtiging aangegaan, met een meerderjarige gelijk, behoudens het bepaalde bij het derde lid van [artikel 1614f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614f&z=2015-01-01&g=2015-01-01). Echter kan hij niet in rechte verschijnen zonder bijstand van zijn wettelijke vertegenwoordiger, behalve wanneer de rechter gebleken is, dat de wettelijke vertegenwoordiger niet bij machte is zich te verklaren.
 
 ##### Artikel 1613g
 
@@ -587,7 +587,7 @@ Het loon van arbeiders, welke niet bij de werkgever inwonen, mag niet anders wor
 
 ##### Artikel 1613p
 
-1. Voor zover het loon anders dan volgens [artikel 1613n](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613n&z=2010-10-10&g=2010-10-10) geoorloofd is, is vastgesteld, wordt het op een bedrag in geld gewaardeerd en geacht vastgesteld te zijn op het vijfvoud van dit bedrag.
+1. Voor zover het loon anders dan volgens [artikel 1613n](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613n&z=2015-01-01&g=2015-01-01) geoorloofd is, is vastgesteld, wordt het op een bedrag in geld gewaardeerd en geacht vastgesteld te zijn op het vijfvoud van dit bedrag.
 
 2. Het gehele loon, dat dientengevolge verschuldigd zal zijn, zal echter het overeenkomstig de bepalingen van het voorgaande artikel berekende loon niet met meer dan een derde mogen overschrijden.
 
@@ -605,7 +605,7 @@ Het loon van arbeiders, welke niet bij de werkgever inwonen, mag niet anders wor
 
 ##### Artikel 1613r
 
-1. Indien de arbeider ingevolge een ongeoorloofd en nietig beding, als bedoeld bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613q&z=2010-10-10&g=2010-10-10), met de werkgever enige overeenkomst heeft aangegaan, ontstaat daaruit generlei verbintenis. De arbeider is gerechtigd het reeds te dier zake op zijn loon in rekening geledene of door hem betaalde van de werkgever terug te vorderen, zonder gehouden te zijn tot teruggave van hetgeen hem ter voldoening aan de overeenkomst is verstrekt.
+1. Indien de arbeider ingevolge een ongeoorloofd en nietig beding, als bedoeld bij het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613q&z=2015-01-01&g=2015-01-01), met de werkgever enige overeenkomst heeft aangegaan, ontstaat daaruit generlei verbintenis. De arbeider is gerechtigd het reeds te dier zake op zijn loon in rekening geledene of door hem betaalde van de werkgever terug te vorderen, zonder gehouden te zijn tot teruggave van hetgeen hem ter voldoening aan de overeenkomst is verstrekt.
 
 2. Niettemin is de rechter bevoegd, bij toewijzing van de vordering des arbeiders, de veroordeling te beperken tot zodanig bedrag als hem met het oog op de omstandigheden van het geval billijk zal voorkomen, doch uiterlijk tot de som waarop de door de arbeider geleden schade door hem wordt gewaardeerd.
 
@@ -687,7 +687,7 @@ Geen loon is verschuldigd voor de tijd, gedurende welke de arbeider de bedongen 
 
 ##### Artikel 1614ca
 
-1. Onverminderd het bepaalde in [artikel 1614c](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614c&z=2010-10-10&g=2010-10-10) heeft de vrouwelijke arbeider ingeval van het niet verrichten van arbeid wegens zwangerschap en bevalling, recht op doorbetaling van het volledige salaris gedurende tenminste vier weken voor en ten hoogste zes weken voor de vermoedelijke bevaldatum als zijnde zwangerschapsverlof en gedurende tenminste zes weken na of ten hoogste acht weken na de werkelijke bevaldatum als zijnde bevallingsverlof.
+1. Onverminderd het bepaalde in [artikel 1614c](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614c&z=2015-01-01&g=2015-01-01) heeft de vrouwelijke arbeider ingeval van het niet verrichten van arbeid wegens zwangerschap en bevalling, recht op doorbetaling van het volledige salaris gedurende tenminste vier weken voor en ten hoogste zes weken voor de vermoedelijke bevaldatum als zijnde zwangerschapsverlof en gedurende tenminste zes weken na of ten hoogste acht weken na de werkelijke bevaldatum als zijnde bevallingsverlof.
 
 2. De vrouwelijke arbeider bepaalt op grond van de door een huisarts, verloskundige of medisch specialist vastgestelde vermoedelijke bevaldatum en met inachtneming van het bepaalde in het eerste lid, de ingangsdatum van het bevallingsverlof.
 
@@ -721,13 +721,13 @@ Ook verliest de arbeider zijn aanspraak op het naar tijdruimte vastgestelde loon
 
 1. Een volmacht tot de vordering van loon moet schriftelijk worden verleend.
 
-2. Indien in de in [artikel 1613f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613f&z=2010-10-10&g=2010-10-10) genoemde schriftelijke machtiging de voorwaarde is opgenomen, dat het in geld vastgestelde loon, geheel of gedeeltelijk, in stede van aan de minderjarige, aan de wettelijke vertegenwoordiger zelf moet worden voldaan, wordt deze ten opzichte van de voldoening van het loon, of van het gedeelte hetwelk hem moet worden voldaan, als de arbeider aangemerkt.
+2. Indien in de in [artikel 1613f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613f&z=2015-01-01&g=2015-01-01) genoemde schriftelijke machtiging de voorwaarde is opgenomen, dat het in geld vastgestelde loon, geheel of gedeeltelijk, in stede van aan de minderjarige, aan de wettelijke vertegenwoordiger zelf moet worden voldaan, wordt deze ten opzichte van de voldoening van het loon, of van het gedeelte hetwelk hem moet worden voldaan, als de arbeider aangemerkt.
 
 3. Ook indien geen zodanige voorwaarde in de machtiging is opgenomen, wordt het aan de minderjarige verschuldigde in geld vastgestelde loon aan de wettelijke vertegenwoordiger voldaan, wanneer deze zich tegen de voldoening aan de minderjarige schriftelijk verzet.
 
 4. In andere gevallen dan die, bedoeld in het tweede en derde lid van dit artikel, is de werkgever door betaling aan de minderjarige behoorlijk gekweten.
 
-5. Voldoening aan derden, in strijd met de bepalingen van dit of het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614g&z=2010-10-10&g=2010-10-10), is nietig.
+5. Voldoening aan derden, in strijd met de bepalingen van dit of het [volgende artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614g&z=2015-01-01&g=2015-01-01), is nietig.
 
 ##### Artikel 1614g
 
@@ -747,7 +747,7 @@ Ook verliest de arbeider zijn aanspraak op het naar tijdruimte vastgestelde loon
 
 ##### Artikel 1614i
 
-De voldoening van het loon, voor zover het in andere bestanddelen dan in geld is vastgesteld, geschiedt volgens hetgeen bij overeenkomst of reglement is bedongen, of in het geval, bedoeld in [artikel 1613p](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613p&z=2010-10-10&g=2010-10-10), naar de daar gestelde regelen.
+De voldoening van het loon, voor zover het in andere bestanddelen dan in geld is vastgesteld, geschiedt volgens hetgeen bij overeenkomst of reglement is bedongen, of in het geval, bedoeld in [artikel 1613p](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613p&z=2015-01-01&g=2015-01-01), naar de daar gestelde regelen.
 
 ##### Artikel 1614j
 
@@ -789,7 +789,7 @@ De uitbetaling van het in geld doch niet naar tijdruimte vastgestelde loon, zal 
 
 ##### Artikel 1614o
 
-Indien het loon in geld voor een gedeelte naar tijdruimte en voor een ander gedeelte op andere wijze, ofwel indien het loon in gedeelten naar meerdere verschillende tijdruimten is vastgesteld, zullen voor ieder dier gedeelten de voorschriften der [artikelen 1614l tot en met 1614n](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614l&z=2010-10-10&g=2010-10-10) van toepassing zijn.
+Indien het loon in geld voor een gedeelte naar tijdruimte en voor een ander gedeelte op andere wijze, ofwel indien het loon in gedeelten naar meerdere verschillende tijdruimten is vastgesteld, zullen voor ieder dier gedeelten de voorschriften der [artikelen 1614l tot en met 1614n](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614l&z=2015-01-01&g=2015-01-01) van toepassing zijn.
 
 ##### Artikel 1614p
 
@@ -805,7 +805,7 @@ Indien het loon in geld voor een gedeelte naar tijdruimte en voor een ander gede
 
 ##### Artikel 1614q
 
-Voor zover het in geld vastgestelde loon, of het gedeelte daarvan, dat overblijft na aftrek van hetgeen door de werkgever niet behoeft te worden uitbetaald, en na aftrek van hetgeen, waarop derden overeenkomstig de bepalingen van deze titel rechten doen gelden, niet wordt uitbetaald uiterlijk de achtste werkdag na die, waarop ingevolge de [artikelen 1614l](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614l&z=2010-10-10&g=2010-10-10), [1614m](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614m&z=2010-10-10&g=2010-10-10) en [1614o](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614o&z=2010-10-10&g=2010-10-10), de betaling had moeten geschieden, heeft de arbeider, indien deze niet-betaling aan de werkgever is toe te schrijven, aanspraak op een verhoging wegens de vertraging, welke voor de negende tot en met de twaalfde werkdag bedraagt vijf ten honderd per dag en voor elke volgende werkdag een ten honderd, met dien verstande, dat de verhoging wegens vertraging in geen geval de helft van het verschuldigde bedrag zal te boven gaan. Niettemin is de rechter bevoegd de verhoging te beperken tot zodanig bedrag als hem met het oog op de omstandigheden van het geval billijk zal voorkomen.
+Voor zover het in geld vastgestelde loon, of het gedeelte daarvan, dat overblijft na aftrek van hetgeen door de werkgever niet behoeft te worden uitbetaald, en na aftrek van hetgeen, waarop derden overeenkomstig de bepalingen van deze titel rechten doen gelden, niet wordt uitbetaald uiterlijk de achtste werkdag na die, waarop ingevolge de [artikelen 1614l](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614l&z=2015-01-01&g=2015-01-01), [1614m](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614m&z=2015-01-01&g=2015-01-01) en [1614o](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614o&z=2015-01-01&g=2015-01-01), de betaling had moeten geschieden, heeft de arbeider, indien deze niet-betaling aan de werkgever is toe te schrijven, aanspraak op een verhoging wegens de vertraging, welke voor de negende tot en met de twaalfde werkdag bedraagt vijf ten honderd per dag en voor elke volgende werkdag een ten honderd, met dien verstande, dat de verhoging wegens vertraging in geen geval de helft van het verschuldigde bedrag zal te boven gaan. Niettemin is de rechter bevoegd de verhoging te beperken tot zodanig bedrag als hem met het oog op de omstandigheden van het geval billijk zal voorkomen.
 
 ##### Artikel 1614r
 
@@ -813,9 +813,9 @@ Voor zover het in geld vastgestelde loon, of het gedeelte daarvan, dat overblijf
 
 - 1°. de door hem aan de werkgever verschuldigde schadevergoeding;
 
-- 2°. de boeten, door hem volgens [artikel 1613s](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613s&z=2010-10-10&g=2010-10-10) aan de werkgever verschuldigd, mits door deze een schriftelijk bewijs worde afgegeven, vermeldende het bedrag van iedere boete, alsmede de tijd waarop en de reden waarom zij is opgelegd, met opgave van de overtreden bepaling van het reglement of van de schriftelijk aangegane overeenkomst;
+- 2°. de boeten, door hem volgens [artikel 1613s](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613s&z=2015-01-01&g=2015-01-01) aan de werkgever verschuldigd, mits door deze een schriftelijk bewijs worde afgegeven, vermeldende het bedrag van iedere boete, alsmede de tijd waarop en de reden waarom zij is opgelegd, met opgave van de overtreden bepaling van het reglement of van de schriftelijk aangegane overeenkomst;
 
-- 3°. de bijdrage tot een fonds of de inlage door de werkgever overeenkomstig [artikel 1613q, tweede lid,s onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613q&z=2010-10-10&g=2010-10-10), ten behoeve van de arbeider gestort;
+- 3°. de bijdrage tot een fonds of de inlage door de werkgever overeenkomstig [artikel 1613q, tweede lid,s onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613q&z=2015-01-01&g=2015-01-01), ten behoeve van de arbeider gestort;
 
 - 4°. de huurprijs van een woning, een lokaal, een stuk grond of van werktuigen of gereedschappen, door de arbeider in eigen bedrijf gebruikt, welke door de werkgever bij schriftelijk aangegane overeenkomst aan de arbeider zijn verhuurd;
 
@@ -833,13 +833,13 @@ Voor zover het in geld vastgestelde loon, of het gedeelte daarvan, dat overblijf
 
 ##### Artikel 1614s
 
-1. Bedingen, welke de strekking hebben om een zeker bedrag van het loon op de betaaldag niet uit te betalen, zijn alleen geldig, indien zij bij schriftelijk aangegane overeenkomst of bij reglement zijn gemaakt met het doel om op dit bedrag te kunnen verhalen hetgeen de arbeider bij het einde der dienstbetrekking krachtens [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), verschuldigd mocht zijn, en indien zij voorts voldoen aan de verdere bepalingen van dit artikel.
+1. Bedingen, welke de strekking hebben om een zeker bedrag van het loon op de betaaldag niet uit te betalen, zijn alleen geldig, indien zij bij schriftelijk aangegane overeenkomst of bij reglement zijn gemaakt met het doel om op dit bedrag te kunnen verhalen hetgeen de arbeider bij het einde der dienstbetrekking krachtens [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), verschuldigd mocht zijn, en indien zij voorts voldoen aan de verdere bepalingen van dit artikel.
 
 2. De werkgever is verplicht het niet uitbetaalde bedrag ten name van de arbeider bij een door de arbeider aangewezen bank te beleggen. De inlage van dit bedrag geschiedt binnen drie dagen na die der loonuitbetaling. Vanaf het ogenblik der loonuitbetaling wordt de arbeider geacht de eigenaar te zijn van het in te leggen bedrag.
 
 3. Dit bedrag mag behoudens schriftelijke toestemming van de Gouverneur bij elke loonuitbetaling niet meer zijn dan een tiende gedeelte van het in geld vastgestelde, alsdan betaalbare, loon.
 
-In het geheel mag het ten hoogste het bedrag der schadeloosstelling bedoeld bij [artikel 1615r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615r&z=2010-10-10&g=2010-10-10) evenaren.
+In het geheel mag het ten hoogste het bedrag der schadeloosstelling bedoeld bij [artikel 1615r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615r&z=2015-01-01&g=2015-01-01) evenaren.
 
 4. Zodra de dienstbetrekking is geëindigd op een wijze, waardoor de arbeider niet tot het betalen ener schadevergoeding gelijk bij het eerste lid bedoeld, gehouden is, erlangt hij, of zijn rechtverkrijgenden, de vrije beschikking over het aldus te zijnen name ingelegde bedrag en over de daarvan gekweekte renten.
 
@@ -977,7 +977,7 @@ geldt de laatste dienstbetrekking als aangegaan voor onbepaalde tijd.
 
 1. Opzegging kan geschieden tegen elke dag, tenzij bij schriftelijke overeenkomst of reglement daarvoor een andere dag is aangewezen.
 
-2. De werkgever mag, op straffe van nietigheid, niet opzeggen gedurende de tijd, dat de arbeider ongeschikt is tot het verrichten van zijn arbeid tengevolge van ziekte of ongeval, tenzij de ongeschiktheid ten minste een jaar heeft geduurd. Evenmin mag de werkgever, op straffe van nietigheid, opzeggen gedurende het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 1614ca](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2010-10-10&g=2010-10-10).
+2. De werkgever mag, op straffe van nietigheid, niet opzeggen gedurende de tijd, dat de arbeider ongeschikt is tot het verrichten van zijn arbeid tengevolge van ziekte of ongeval, tenzij de ongeschiktheid ten minste een jaar heeft geduurd. Evenmin mag de werkgever, op straffe van nietigheid, opzeggen gedurende het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 1614ca](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2015-01-01&g=2015-01-01).
 
 3. De werkgever mag, op straffe van nietigheid, niet opzeggen gedurende de tijd dat een meerderjarige arbeider verhinderd is de bedongen arbeid te verrichten, omdat hij, anders dan met het oogmerk om de krijgsdienst of andere overheidsdienst bij wijze van beroep te verrichten, een verplichting naleeft, hem opgelegd door de wet, of voortvloeiende uit een verbintenis door hem jegens de overheid aangegaan, ten aanzien van ’s Lands verdediging of ter bescherming van de openbare orde. Hetzelfde geldt ten aanzien van de minderjarige arbeider, indien de dienstbetrekking op het ogenblik, waarop de verhindering aanvangt, ten minste zes maanden heeft geduurd.
 
@@ -1007,7 +1007,7 @@ geldt de laatste dienstbetrekking als aangegaan voor onbepaalde tijd.
 
 5. Van de termijn, bedoeld in het tweede lid, kan bij schriftelijke overeenkomst worden afgeweken. De termijn van opzegging door de arbeider mag bij verlenging niet langer zijn dan zes maanden en voor de werkgever niet korter dan het dubbele van die van de arbeider. Bij collectieve arbeidsovereenkomst kan worden overeengekomen dat de termijn van opzegging voor de werkgever als bedoeld in de tweede volzin, wordt verkort, mits die termijn niet korter is dan die voor de arbeider.
 
-6. Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht een zelfde niet onderbroken dienstbetrekking te vormen in geval van herstel van de dienstbetrekking ingevolge [artikel 1615t](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2010-10-10&g=2010-10-10).
+6. Voor de toepassing van het eerste lid worden dienstbetrekkingen geacht een zelfde niet onderbroken dienstbetrekking te vormen in geval van herstel van de dienstbetrekking ingevolge [artikel 1615t](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 1615j
 
@@ -1023,21 +1023,21 @@ De dienstbetrekking eindigt door de dood van de arbeider.
 
 ##### Artikel 1615m
 
-De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de overeenkomst het tegendeel voortvloeit. Echter zijn zowel de erfgenamen van de werkgever als de arbeider bevoegd de dienstbetrekking, voor een bepaalde tijd aangegaan, door opzegging met inachtneming van de bepalingen der [artikelen 1615h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2010-10-10&g=2010-10-10) en [1615i](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615i&z=2010-10-10&g=2010-10-10) te doen eindigen, als ware zij aangegaan voor onbepaalde tijd.
+De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de overeenkomst het tegendeel voortvloeit. Echter zijn zowel de erfgenamen van de werkgever als de arbeider bevoegd de dienstbetrekking, voor een bepaalde tijd aangegaan, door opzegging met inachtneming van de bepalingen der [artikelen 1615h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2015-01-01&g=2015-01-01) en [1615i](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615i&z=2015-01-01&g=2015-01-01) te doen eindigen, als ware zij aangegaan voor onbepaalde tijd.
 
 ##### Artikel 1615n
 
 1. Een proeftijd, gedurende welke ieder der partijen bevoegd is de dienstbetrekking zonder opzegging of zonder inachtneming van de voor opzegging geldende bepalingen te doen eindigen, kan, op straffe van nietigheid, uitsluitend bij schriftelijke overeenkomst worden overeengekomen. Elk beding waarbij de proeftijd niet voor beide partijen gelijk, of op langer dan twee maanden gesteld wordt, alsmede elk beding, waarbij door het aangaan van een nieuwe proeftijd de gezamenlijke proeftijden langer dan twee maanden worden, is nietig.
 
-2. Bij een zodanig beëindiging is het bepaalde in de [artikelen 1615s](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615s&z=2010-10-10&g=2010-10-10) en [1615t](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2010-10-10&g=2010-10-10) niet van toepassing.
+2. Bij een zodanig beëindiging is het bepaalde in de [artikelen 1615s](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615s&z=2015-01-01&g=2015-01-01) en [1615t](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2015-01-01&g=2015-01-01) niet van toepassing.
 
 ##### Artikel 1615o
 
 1. Ieder der partijen kan de dienstbetrekking zonder opzegging of zonder inachtneming van de voor opzegging geldende bepalingen doen eindigen, doch de partij, die dit doet zonder dat de wederpartij daarin toestemt, is schadeplichtig, tenzij zij de dienstbetrekking aldus doet eindigen om een dringende, aan de wederpartij onverwijld medegedeelde reden.
 
-2. Eveneens is schadeplichtig de partij, die door opzet of schuld aan de wederpartij een dringende reden heeft gegeven om de dienstbetrekking zonder opzegging of zonder inachtneming van de voor opzegging geldende bepalingen te doen eindigen, indien de wederpartij van die bevoegdheid heeft gebruik gemaakt of de rechter op die grond krachtens [artikel 1615w](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615w&z=2010-10-10&g=2010-10-10) de arbeidsovereenkomst ontbonden heeft verklaard.
+2. Eveneens is schadeplichtig de partij, die door opzet of schuld aan de wederpartij een dringende reden heeft gegeven om de dienstbetrekking zonder opzegging of zonder inachtneming van de voor opzegging geldende bepalingen te doen eindigen, indien de wederpartij van die bevoegdheid heeft gebruik gemaakt of de rechter op die grond krachtens [artikel 1615w](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615w&z=2015-01-01&g=2015-01-01) de arbeidsovereenkomst ontbonden heeft verklaard.
 
-3. Ingeval een der partijen schadeplichtig is, heeft de wederpartij de keus de in [artikel 1615r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615r&z=2010-10-10&g=2010-10-10) genoemde schadeloosstelling of een volledige schadevergoeding te vorderen.
+3. Ingeval een der partijen schadeplichtig is, heeft de wederpartij de keus de in [artikel 1615r](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615r&z=2015-01-01&g=2015-01-01) genoemde schadeloosstelling of een volledige schadevergoeding te vorderen.
 
 ##### Artikel 1615p
 
@@ -1069,11 +1069,11 @@ De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de ove
 
 - 12°. wanneer hij door opzet of roekeloosheid buiten staat geraakt of blijft de bedongen arbeid te verrichten.
 
-3. Bedingen, waardoor aan de werkgever de beslissing wordt overgelaten of er een dringende reden in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), aanwezig is, zijn nietig.
+3. Bedingen, waardoor aan de werkgever de beslissing wordt overgelaten of er een dringende reden in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), aanwezig is, zijn nietig.
 
 ##### Artikel 1615q
 
-1. Voor de arbeider worden als dringende redenen in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), beschouwd zodanige omstandigheden, die ten gevolge hebben, dat van de arbeider redelijkerwijze niet kan gevergd worden de dienstbetrekking te laten voortduren.
+1. Voor de arbeider worden als dringende redenen in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), beschouwd zodanige omstandigheden, die ten gevolge hebben, dat van de arbeider redelijkerwijze niet kan gevergd worden de dienstbetrekking te laten voortduren.
 
 2. Dringende redenen zullen onder andere aanwezig geacht kunnen worden:
 
@@ -1097,15 +1097,15 @@ De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de ove
 
 - 10°. wanneer de arbeider door ziekte of andere oorzaken zonder zijn toedoen buiten staat geraakt de bedongen arbeid te verrichten.
 
-3. Bedingen, waardoor aan de arbeider de beslissing wordt overgelaten, of er een dringende reden in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), aanwezig is, zijn nietig.
+3. Bedingen, waardoor aan de arbeider de beslissing wordt overgelaten, of er een dringende reden in de zin van [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), aanwezig is, zijn nietig.
 
 ##### Artikel 1615r
 
-1. De schadeloosstelling, bedoeld in [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), is gelijk aan het bedrag van het in geld vastgestelde loon voor de tijd, dat de dienstbetrekking bij regelmatige beëindiging had behoren voort te duren.
+1. De schadeloosstelling, bedoeld in [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), is gelijk aan het bedrag van het in geld vastgestelde loon voor de tijd, dat de dienstbetrekking bij regelmatige beëindiging had behoren voort te duren.
 
-2. Is het loon van de arbeider, hetzij voor het geheel, hetzij gedeeltelijk, niet naar tijdruimte vastgesteld, dan geldt de maatstaf van [artikel 1613m, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613m&z=2010-10-10&g=2010-10-10).
+2. Is het loon van de arbeider, hetzij voor het geheel, hetzij gedeeltelijk, niet naar tijdruimte vastgesteld, dan geldt de maatstaf van [artikel 1613m, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Tweede&artikel=1613m&z=2015-01-01&g=2015-01-01).
 
-3. Elk beding, waarbij ten behoeve van de arbeider een schadeloosstelling tot een lager bedrag wordt bedongen, is nietig. Bij schriftelijk aangegane overeenkomst of bij reglement mag een schadeloosstelling tot een hoger bedrag worden vastgesteld. De rechter is bevoegd de schadeloosstelling, zo deze hem met het oog op de omstandigheden van het geval bovenmatig voorkomt, op een kleinere som te bepalen, doch niet op minder dan het in geld vastgestelde loon voor de duur van de opzeggingstermijn ingevolge de [artikelen 1615h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2010-10-10&g=2010-10-10), [1615i](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615i&z=2010-10-10&g=2010-10-10) en [1615j](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615j&z=2010-10-10&g=2010-10-10), noch op minder dan het in geld vastgestelde loon voor drie maanden.
+3. Elk beding, waarbij ten behoeve van de arbeider een schadeloosstelling tot een lager bedrag wordt bedongen, is nietig. Bij schriftelijk aangegane overeenkomst of bij reglement mag een schadeloosstelling tot een hoger bedrag worden vastgesteld. De rechter is bevoegd de schadeloosstelling, zo deze hem met het oog op de omstandigheden van het geval bovenmatig voorkomt, op een kleinere som te bepalen, doch niet op minder dan het in geld vastgestelde loon voor de duur van de opzeggingstermijn ingevolge de [artikelen 1615h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2015-01-01&g=2015-01-01), [1615i](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615i&z=2015-01-01&g=2015-01-01) en [1615j](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615j&z=2015-01-01&g=2015-01-01), noch op minder dan het in geld vastgestelde loon voor drie maanden.
 
 4. Indien de door de arbeider verschuldigde schadeloosstelling meer bedraagt dan het in geld vastgestelde loon voor een maand of de door de werkgever verschuldigde schadeloosstelling meer bedraagt dan het in geld vastgestelde loon voor drie maanden, kan de rechter toestaan, dat de schadeloosstelling op door hem te bepalen wijze in termijnen wordt betaald.
 
@@ -1121,7 +1121,7 @@ De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de ove
 
 - 2°. wanneer, mede in aanmerking genomen de voor de arbeider getroffen voorzieningen en de voor hem bestaande mogelijkheden om ander passend werk te vinden, de gevolgen der beëindiging voor hem te ernstig zijn in vergelijking met het belang van de werkgever bij de beëindiging;
 
-- 3°. wanneer deze geschiedt in verband met een verhindering van de arbeider om de bedongen arbeid te verrichten, als bedoeld in [artikel 1615h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2010-10-10&g=2010-10-10);
+- 3°. wanneer deze geschiedt in verband met een verhindering van de arbeider om de bedongen arbeid te verrichten, als bedoeld in [artikel 1615h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615h&z=2015-01-01&g=2015-01-01);
 
 - 4°. wanneer deze geschiedt in afwijking van een in de bedrijfstak of de onderneming krachtens wettelijke regeling of gebruik geldende getalsverhoudings- of anciënniteitsregeling, tenzij hiervoor zwaarwichtige gronden aanwezig zijn.
 
@@ -1135,9 +1135,9 @@ De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de ove
 
 ##### Artikel 1615t
 
-1. De rechter kan de partij, die schadeplichtig is geworden volgens [artikel 1615o](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10) of die de dienstbetrekking kennelijk onredelijk doet eindigen, ook veroordelen de dienstbetrekking te herstellen.
+1. De rechter kan de partij, die schadeplichtig is geworden volgens [artikel 1615o](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01) of die de dienstbetrekking kennelijk onredelijk doet eindigen, ook veroordelen de dienstbetrekking te herstellen.
 
-2. Indien de rechter een zodanige veroordeling uitspreekt, kan hij bepalen voor of op welk tijstip de dienstbetrekking moet worden hersteld en kan hij voorzieningen treffen omtrent de rechtsgevolgen van de onderbreking.
+2. Indien de rechter een zodanige veroordeling uitspreekt, kan hij bepalen voor of op welk tijdstip de dienstbetrekking moet worden hersteld en kan hij voorzieningen treffen omtrent de rechtsgevolgen van de onderbreking.
 
 3. De rechter kan in het vonnis, houdende veroordeling tot herstel der dienstbetrekking, bepalen dat de verplichting tot herstel vervalt door betaling van een in het vonnis vastgestelde afkoopsom. Is in het vonnis geen afkoopsom vastgesteld, dan zal de rechter deze alsnog vaststellen, indien een der patijen daartoe een verzoek indient.
 
@@ -1147,7 +1147,7 @@ De dienstbetrekking eindigt niet door de dood van de werkgever tenzij uit de ove
 
 ##### Artikel 1615u
 
-Ieder vorderingsrecht krachtens [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), [1615s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615s&z=2010-10-10&g=2010-10-10) en [1615t, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2010-10-10&g=2010-10-10), verjaart na verloop van zes maanden.
+Ieder vorderingsrecht krachtens [artikel 1615o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), [1615s, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615s&z=2015-01-01&g=2015-01-01) en [1615t, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615t&z=2015-01-01&g=2015-01-01), verjaart na verloop van zes maanden.
 
 ##### Artikel 1615v
 
@@ -1159,7 +1159,7 @@ Ieder vorderingsrecht krachtens [artikel 1615o, derde lid](https://wetten.overhe
 
 1. Ieder der partijen is te allen tijde bevoegd zich wegens gewichtige redenen tot de rechter te wenden met het schriftelijk verzoek de arbeidsovereenkomst ontbonden te verklaren. Elk beding, waardoor deze bevoegdheid wordt uitgesloten of beperkt, is nietig.
 
-2. Als gewichtige redenen worden beschouwd omstandigheden, welke een dringende reden, als bedoeld in [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2010-10-10&g=2010-10-10), zouden hebben opgeleverd, indien de dienstbetrekking deswege onverwijld beëindigd ware, alsook veranderingen in de omstandigheden, welke van dien aard zijn, dat de dienstbetrekking billijkheidshalve dadelijk of na korte tijd behoort te eindigen.
+2. Als gewichtige redenen worden beschouwd omstandigheden, welke een dringende reden, als bedoeld in [artikel 1615o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Vijfde&artikel=1615o&z=2015-01-01&g=2015-01-01), zouden hebben opgeleverd, indien de dienstbetrekking deswege onverwijld beëindigd ware, alsook veranderingen in de omstandigheden, welke van dien aard zijn, dat de dienstbetrekking billijkheidshalve dadelijk of na korte tijd behoort te eindigen.
 
 3. De rechter willigt het verzoek niet in dan na verhoor of behoorlijke oproeping van de wederpartij.
 
@@ -1279,7 +1279,7 @@ De maatschap begint van het ogenblik der overeenkomst, indien daarbij geen ander
 
 1. De inbreng van de vennoot kan bestaan in geld, goederen, genot van goederen en arbeid.
 
-2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1564 tot en met 1612](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1564&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
+2. Op de inbreng van een goed zijn de bepalingen omtrent koop, op de inbreng van genot van een goed de [artikelen 1564 tot en met 1612](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=Eerste&artikel=1564&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing, voor zover de aard van de rechtsverhouding zich daartegen niet verzet.
 
 ##### Artikel 1638
 
@@ -1509,7 +1509,7 @@ De bepalingen van het[tweede en van het laatste lid van artikel 931](https://wet
 
 ##### Artikel 1701
 
-Geen schenking, uitgezonderd degene waarvan bij [artikel 1706](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Tiende&afdeling=Derde&artikel=1706&z=2010-10-10&g=2010-10-10) wordt gehandeld, kan op straffe van nietigheid anders gedaan worden dan bij een notariële akte, waarvan de minuut onder de notaris is verbleven.
+Geen schenking, uitgezonderd degene waarvan bij [artikel 1706](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Tiende&afdeling=Derde&artikel=1706&z=2015-01-01&g=2015-01-01) wordt gehandeld, kan op straffe van nietigheid anders gedaan worden dan bij een notariële akte, waarvan de minuut onder de notaris is verbleven.
 
 ##### Artikel 1702
 
@@ -1565,7 +1565,7 @@ Een schenking is, ongeacht of zij reeds is uitgevoerd, vernietigbaar:
 
 ##### Artikel 1711
 
-1. De bevoegdheid in rechte een beroep te doen op een vernietigingsgrond, vermeld in [artikel 1707](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Tiende&afdeling=Vierde&artikel=1707&z=2010-10-10&g=2010-10-10), vervalt na verloop van een jaar na de dag waarop die grond is ontstaan en aan de schenker bekend heeft kunnen zijn.
+1. De bevoegdheid in rechte een beroep te doen op een vernietigingsgrond, vermeld in [artikel 1707](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Tiende&afdeling=Vierde&artikel=1707&z=2015-01-01&g=2015-01-01), vervalt na verloop van een jaar na de dag waarop die grond is ontstaan en aan de schenker bekend heeft kunnen zijn.
 
 2. Het beroep kan niet worden gedaan door de schenker tegen de erfgenamen van de begiftigde, noch door de erfgenamen van de schenker ware aangevangen, of deze binnen het jaar van de ten laste gelegde daad mocht zijn overleden.
 
@@ -1687,7 +1687,7 @@ Indien men is overeengekomen, dat hij, die een goed ter leen heeft ontvangen, di
 
 ##### Artikel 1781
 
-De bepaling van [artikel 1772](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Twaalfde&afdeling=Derde&artikel=1772&z=2010-10-10&g=2010-10-10) is op verbruiklening toepasselijk.
+De bepaling van [artikel 1772](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Twaalfde&afdeling=Derde&artikel=1772&z=2015-01-01&g=2015-01-01) is op verbruiklening toepasselijk.
 
 ### Afdeling Derde. Van de verplichtingen des leners
 
@@ -1850,447 +1850,3 @@ In geen geval kan hij, die het verlorene vrijwillig betaald heeft, hetzelve teru
 ##### Artikelen 1811 t/m 1883
 
 [vervallen]
-
-#### Onderafdeling 1. Algemeen
-
-##### Artikel 1602a
-
-Indien de huurder van een huis of vertrek, na het eindigen van de huurtijd, bij schriftelijke overeenkomst bepaald, in het bezit van het gehuurde blijft, zonder dat zich de verhuurder daartegen verzet, wordt hij geacht het verhuurde op dezelfde voorwaarden te blijven behouden voor de tijd, welke bij algemeen verbindend voorschrift of plaatselijke keur geregeld is, of bij gebreke daarvan het plaatselijk gebruik medebrengt, en kan hij het verhuurde niet verlaten, noch daaruit gezet worden, dan na een tijdige opzegging, overeenkomstig de verordening, de keur of het plaatselijk gebruik gedaan.
-
-##### Artikel 1602b
-
-1. In openbare lichamen waarvoor [hoofdstuk 1 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1) niet in werking is getreden, zijn van deze titel slechts de [artikelen 1600 tot en met 1602b](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=1&artikel=1600&z=2021-04-01&g=2021-04-01) van toepassing.
-
-2. [Artikel 1602a](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=1&artikel=1602a&z=2021-04-01&g=2021-04-01) is niet van toepassing in openbare lichamen waarvoor [hoofdstuk 1 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1) in werking is getreden.
-
-3. [Artikel 1602a](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=1&artikel=1602a&z=2021-04-01&g=2021-04-01) en dit artikel vervallen wanneer voor alle openbare lichamen [hoofdstuk 1 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1) in werking is getreden.
-
-#### Onderafdeling 2. De huurprijs
-
-##### Artikel 1603a
-
-1. De huurprijs kan worden verhoogd hetzij op grond van een beding in de huurovereenkomst dat in deze wijziging voorziet, hetzij indien een dergelijk beding niet van kracht is, op de wijze als voorgeschreven in de [artikelen 1603e](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603e&z=2021-04-01&g=2021-04-01) en [1603f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603f&z=2021-04-01&g=2021-04-01). Gedurende het bestaan van een dergelijk beding is toepassing van die artikelen uitgesloten. Indien een dergelijk beding niet meer van kracht is, kan vanaf een tijdvak van twaalf maanden na het tijdstip waarop laatstelijk toepassing is gegeven aan het beding, aan de hiervoor genoemde artikelen toepassing worden gegeven.
-
-2. Leidt toepassing van een beding als bedoeld in lid 1 tot verhoging van de huurprijs met een hoger percentage dan het maximale huurverhogingspercentage, bedoeld in [artikel 1.13, derde lid, van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.13), dan is het beding nietig voor zover zij tot dit hogere percentage leidt en geldt de huurprijs als verhoogd met dat maximale huurverhogingspercentage.
-
-##### Artikel 1603b
-
-De huurder kan tot uiterlijk zes maanden na het tijdstip waarop een door hem met betrekking tot die woonruimte voor de eerste maal aangegane huurovereenkomst is ingegaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van de overeengekomen huurprijs.
-
-##### Artikel 1603c
-
-1. De huurprijs kan op verzoek van de verhuurder worden verhoogd op de wijze voorgeschreven in de [artikelen 1603e](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603e&z=2021-04-01&g=2021-04-01) en [1603f](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603f&z=2021-04-01&g=2021-04-01):
-
-- a. gedurende het eerste tijdvak van twaalf maanden na de dag van ingang van de huur ten hoogste eenmaal, en
-
-- b. telkens tegen het einde van elkaar opvolgende tijdvakken van twaalf maanden na hetzij het ingaan van de onder a bedoelde verhoging, hetzij bij gebreke van zodanige verhoging de dag van ingang van de huur.
-
-2. Een verhoging van de huurprijs krachtens lid 1 is niet mogelijk, zolang er tussen huurder en verhuurder geen overeenstemming is dat de, bij toepassing van de [artikelen 1.15](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.15) en [1.19 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.19) geconstateerde gebreken ten aanzien van de woonruimte zijn opgeheven.
-
-3. In afwijking van lid 1 kan de huurprijs worden verhoogd tegen het einde van een tijdvak dat even zoveel korter dan twaalf maanden is als het daaraan voorafgaande tijdvak langer dan twaalf maanden is geweest.
-
-4. De huurprijs kan op verzoek van de huurder worden verlaagd op de wijze voorgeschreven in de [artikelen 1603e](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603e&z=2021-04-01&g=2021-04-01) en [1603g](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603g&z=2021-04-01&g=2021-04-01).
-
-##### Artikel 1603d
-
-Bepalingen in huurovereenkomsten die tot gevolg hebben dat de huurprijs in enig tijdvak van twaalf maanden meer dan eenmaal wordt verhoogd, zijn nietig, tenzij het gaat om het geval van [artikel 1603h](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603h&z=2021-04-01&g=2021-04-01).
-
-##### Artikel 1603e
-
-1. Een voorstel tot wijziging van de huurprijs moet tenminste twee maanden voor de voorgestelde dag van ingang van de wijziging schriftelijk worden gedaan.
-
-2. Het in lid 1 bedoelde voorstel dient te vermelden:
-
-- a. de geldende huurprijs;
-
-- b. het percentage of het bedrag van de wijziging van de huurprijs;
-
-- c. de voorgestelde huurprijs;
-
-- d. de voorgestelde dag van ingang van de voorgestelde huurprijs;
-
-- e. de wijze waarop en het tijdvak waarbinnen de huurder, wanneer hij bezwaren heeft tegen het voorstel, daarvan kan doen blijken, en de gevolgen die deze onderafdeling verbindt aan het niet doen blijken van bezwaren.
-
-2. Indien een overeenkomst tot wijziging van de huurprijs tot stand komt naar aanleiding van een voorstel daartoe, dat niet voldoet aan lid 1 aanhef en onder b, d of e, blijft de voordien geldende huurprijs verschuldigd, tenzij blijkt dat degene tot wie het voorstel was gericht niet door het verzuim is benadeeld.
-
-##### Artikel 1603f
-
-1. Indien de huurder voor het tijdstip waarop de verhoging van de huurprijs blijkens het voorstel had moeten ingaan, schriftelijk verklaart met het voorstel van de verhuurder niet in te stemmen, kan de verhuurder tot zes weken na dat tijdstip onder overlegging van een afschrift van dat voorstel en van voornoemde verklaring van de huurder de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel.
-
-2. De huurder kan de huurcommissie binnen vier maanden na het in lid 1 bedoelde tijdstip verzoeken uitspraak te doen over de redelijkheid van het voorstel, indien:
-
-- a. hij noch vóór het in lid 1 bedoelde tijdstip de daar bedoelde schriftelijke verklaring doet, noch door het betalen van de voorgestelde huurverhoging doet blijken met die verhoging in te stemmen, en
-
-- b. de verhuurder hem binnen drie maanden na het in lid 1 bedoelde tijdstip bij aangetekend schrijven nogmaals van het voorstel in kennis heeft gesteld, waarbij een afschrift van het voorstel is gevoegd, en hij met het voorstel tot huurverhoging niet instemt.
-
-De huurder legt bij dit verzoek een afschrift over van het voorstel en van dat schrijven.
-
-3. De huurder wordt geacht de voorgestelde verhoging van de huurprijs met ingang van de in het voorstel genoemde datum van ingang met de verhuurder te zijn overeengekomen indien hij, na ontvangst van het in het tweede lid bedoelde schrijven, niet binnen vier maanden na die datum van ingang een verzoek tot de huurcommissie heeft gericht.
-
-4. Indien de huurder het in het tweede lid bedoelde verzoek doet, stelt de huurcommissie de verhuurder daarvan onverwijld in kennis.
-
-5. Indien de verhuurder een voorstel als bedoeld in [artikel 1603e](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603e&z=2021-04-01&g=2021-04-01) bij aangetekend schrijven heeft gedaan, kan hij, indien voldaan is aan lid 2 onder a, binnen zes weken na het in lid 1 bedoelde tijdstip de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel. De verhuurder legt bij dit verzoek een afschrift over van het voorstel en een bewijs van aangetekende verzending.
-
-##### Artikel 1603g
-
-Indien de verhuurder met een voorstel van de huurder tot verlaging van de huurprijs niet instemt, kan de huurder tot uiterlijk zes weken na het tijdstip waarop de verlaging blijkens het voorstel had moeten ingaan, de huurcommissie verzoeken uitspraak te doen over de redelijkheid van het voorstel.
-
-##### Artikel 1603h
-
-1. De huurprijs van woonruimte waarin of waaraan gedurende de huurtijd door of vanwege de verhuurder:
-
-- a. voorzieningen zijn aangebracht die verband houden met een maatregel die gericht is op het opheffen of verminderen van beperkingen die een gehandicapte, bij het normale gebruik van zijn woonruimte ondervindt, in de kosten waarvan ingevolge enige wettelijke regeling een financiële tegemoetkoming is verleend, of
-
-- b. veranderingen of toevoegingen, waaronder niet wordt verstaan het verhelpen van gebreken als bedoeld in [artikel 1569](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=2&artikel=1569&z=2021-04-01&g=2021-04-01), zijn aangebracht, waardoor het woongerief geacht kan worden te zijn gestegen en die niet ingrepen zijn als bedoeld onder a, is de huurprijs, vermeerderd met een bedrag dat in redelijke verhouding staat tot de door de verhuurder gemaakte kosten van deze ingrepen, veranderingen of toevoegingen met dien verstande dat de nieuwe huurprijs niet hoger mag zijn dan die welke bij toepassing van de regels bedoeld in [artikel 1.13, eerste lid, van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.13) als redelijk is aan te merken.
-
-2. Indien partijen geen overeenstemming hebben kunnen bereiken over het bedrag van de verhoging, kan ieder van hen binnen drie maanden na de totstandkoming van de ingrepen, veranderingen of toevoegingen de huurcommissie verzoeken daarover een uitspraak te doen.
-
-3. Onder gehandicapte in het eerste lid wordt verstaan een persoon die ten gevolge van ziekte of gebrek aantoonbare beperkingen ondervindt.
-
-##### Artikel 1603i
-
-1. Voor de vordering van de huurder tot vermindering van de huurprijs op grond van [artikel 1574](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=2&artikel=1574&z=2021-04-01&g=2021-04-01) geldt een met inachtneming van de volgende leden toe te passen vervaltermijn van zes maanden na de aanvang van de dag volgend op die waarop de huurder van het gebrek kennis heeft gegeven aan de verhuurder.
-
-2. Is de vordering van de huurder gegrond op een tekortkoming die krachtens [artikel 1569](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=2&artikel=1569&z=2021-04-01&g=2021-04-01) als een gebrek heeft te gelden, dan kan de huurder, in plaats van zijn vordering binnen de in lid 1 bedoelde termijn bij de rechter in te stellen, binnen zes maanden na de aanvang van de dag volgend op die waarop de huurder van het gebrek heeft kennis gegeven aan de verhuurder, de huurcommissie verzoeken over de vermindering uitspraak te doen overeenkomstig de in [artikel 1.15, tweede lid, van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.15) bedoelde eilandsverordening. De huurder kan eerst een verzoek tot de huurcommissie richten, indien de verhuurder niet binnen zes weken na de aanvang van de dag volgend op die waarop de huurder van het gebrek kennis heeft gegeven aan de verhuurder, het gebrek heeft verholpen.
-
-3. Na het verstrijken van de in de voorgaande leden bedoelde termijn van zes maanden kan, voor wat het verleden betreft, geen huurvermindering worden verlangd over een langere periode dan zes maanden, voorafgaande aan het instellen van de vordering of het indienen van het verzoek.
-
-#### Onderafdeling 3. Andere vergoedingen
-
-##### Artikel 1603j
-
-Indien de huurovereenkomst meer omvat dan het enkele gebruik van de woning en bij die overeenkomst slechts de hoogte van de prijs en niet die van de huurprijs is vastgesteld, kan de huurder de huurcommissie verzoeken de huurprijs en het voorschotbedrag aan servicekosten vast te stellen.
-
-##### Artikel 1603k
-
-1. Indien de huurder en de verhuurder geen overeenstemming hebben kunnen bereiken over een betalingsverplichting van de huurder met betrekking tot de servicekosten, kan de huurder of verhuurder de huurcommissie verzoeken uitspraak daarover te doen.
-
-2. De verhuurder verstrekt aan de huurder elk jaar, uiterlijk zes maanden na het verstrijken van een kalenderjaar, een overzicht van de in dat kalenderjaar in rekening gebrachte servicekosten, met vermelding van de wijze van berekening daarvan.
-
-3. Het verzoek heeft betrekking op niet meer dan één tijdvak van ten hoogste twaalf maanden en kan worden gedaan tot uiterlijk vierentwintig maanden nadat de in het tweede lid genoemde termijn voor het verstrekken van het overzicht door de verhuurder is verstreken.
-
-##### Artikel 1603l
-
-1. Elk in verband met de totstandkoming van een huurovereenkomst betreffende woonruimte gemaakt beding, niet de huurprijs betreffende, voor zover daarbij ten behoeve van een der partijen een niet redelijk voordeel wordt overeengekomen, is nietig.
-
-2. Elk in verband met de totstandkoming van een zodanige huurovereenkomst gemaakt beding, voor zover daarbij door of tegenover een derde enig niet redelijk voordeel wordt overeengekomen, is nietig.
-
-3. Indien sprake is van een beding als bedoeld in het eerste en tweede lid kunnen de verhuurder en de huurder de huurcommissie verzoeken uitspraak te doen over de vraag of met dat beding enig niet redelijk voordeel is overeengekomen.
-
-##### Artikel 1603m
-
-Van de bepalingen van de [onderafdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&z=2021-04-01&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=3&z=2021-04-01&g=2021-04-01) kan niet worden afgeweken, tenzij uit die bepalingen anders voortvloeit.
-
-#### Onderafdeling 4. Het eindigen van de huur
-
-##### Artikel 1603n
-
-1. In afwijking van [artikel 1587](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=2&artikel=1587&z=2021-04-01&g=2021-04-01) eindigt een voor bepaalde tijd voor de duur van langer dan vier jaar aangegane huur niet door het enkele verloop van de huurtijd; zij kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag, niet vallend voor het verstrijken van de bepaalde tijd. Op een voor bepaalde tijd voor de duur van vier jaar of korter aangegane huur, die schriftelijk wordt aangegaan, is artikel 1587 onverkort van toepassing. Indien na afloop van een voor bepaalde tijd aangegane huur met dezelfde huurder opnieuw een huurovereenkomst voor bepaalde tijd wordt aangegaan, geldt deze laatste overeenkomst als een huurovereenkomst voor onbepaalde tijd.
-
-2. Een voor onbepaalde tijd aangegane of voor onbepaalde tijd verlengde huur kan door elk van beide partijen worden opgezegd tegen een voor de betaling van de huurprijs overeengekomen dag.
-
-3. De opzegging door de verhuurder moet op straffe van nietigheid de gronden vermelden die tot de opzegging hebben geleid. Een opzegging op andere dan de in [artikel 1603p](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&artikel=1603g&z=2021-04-01&g=2021-04-01) genoemde gronden, is nietig. De huurder moet bij de opzegging worden gevraagd binnen zes weken aan de verhuurder mede te delen of hij al dan niet toestemt in beëindiging van de overeenkomst.
-
-4. Bij de opzegging moeten de volgende termijnen in acht worden genomen:
-
-- a. bij opzegging door de huurder: een termijn gelijk aan de tijd die tussen twee opvolgende voor betaling van de huurprijs overeengekomen dagen verstrijkt, doch niet korter dan een maand en niet langer dan drie maanden;
-
-- b. bij opzegging door de verhuurder: een termijn niet korter dan drie maanden, voor elk jaar dat de huurder krachtens overeenkomst ononderbroken het gehuurde in gebruik heeft gehad verlengd met één maand tot ten hoogste zes maanden.
-
-5. Een opzegging die in strijd met het eerste, derde of vierde lid, onder a, is gedaan en een opzegging die op een kortere termijn is gedaan dan die van het vierde lid, onder b, gelden niettemin als waren zij gedaan tegen de voorgeschreven dag en met inachtneming van de voorgeschreven termijn.
-
-6. Elk beding waarbij in strijd met het vierde lid, onder a, een langere opzegtermijn of waarbij in strijd met het vierde lid, onder b, een kortere opzegtermijn wordt overeengekomen of waarbij van andere bepalingen van dit artikel wordt afgeweken, is nietig. Eveneens is nietig elk beding dat de huur zonder opzegging doet eindigen.
-
-7. Dit artikel geldt niet, indien de beëindiging geschiedt met wederzijds goedvinden nadat de huur is ingegaan.
-
-##### Artikel 1603o
-
-1. De verhuurder kan, indien hij zes weken na de opzegging van de overeenkomst niet van de huurder een schriftelijke mededeling heeft ontvangen dat hij in de beëindiging van de overeenkomst toestemt, de huurcommissie verzoeken het tijdstip vast te stellen waarop de overeenkomst zal eindigen. De verhuurder vermeldt daarbij de naam van de huurder en kort de gronden waarop hij meent de huur te moeten opzeggen. De gronden hebben, behoudens het geval, bedoeld in [artikel 1603p](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=4&artikel=1603p&z=2021-04-01&g=2021-04-01), tweede lid, uitsluitend betrekking op het niet voldoen door de huurder aan zijn verplichtingen als bedoeld in de tweede en derde afdeling.
-
-2. Een opgezegde overeenkomst blijft, tenzij de huurder de overeenkomst heeft opgezegd of na de opzegging door de verhuurder schriftelijk in de beëindiging heeft toegestemd, na de dag waartegen is opgezegd van rechtswege van kracht, tot onherroepelijk is beslist op een verzoek van de verhuurder als bedoeld in het eerste lid.
-
-3. De huurcommissie neemt bij haar beslissing enkel de in de opzegging genoemde gronden in aanmerking.
-
-4. Indien de huurcommissie het verzoek afwijst, wordt de overeenkomst van rechtswege verlengd. De huurcommissie beslist of de overeenkomst voor onbepaalde tijd of voor een door haar vast te stellen bepaalde tijd wordt verlengd.
-
-5. Indien de huurcommissie het verzoek toewijst, stelt zij tevens het tijdstip van ontruiming vast. De toewijzing geldt als een veroordeling tot ontruiming tegen dat tijdstip.
-
-##### Artikel 1603p
-
-1. De huurcommissie wijst het verzoek slechts toe indien:
-
-- a. de huurder niet aan zijn in de tweede en derde afdeling omschreven verplichtingen voldoet, en
-
-- b. de koper van de woning gebruik wil maken van de bevoegdheid, bij de overeenkomst voorbehouden om, ingeval van verkoop, de huurder tot ontruiming van het gehuurde te noodzaken overeenkomstig het bepaalde in [artikel 1595](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=2&artikel=1595&z=2021-04-01&g=2021-04-01).
-
-De huurcommissie kan de huurder, op zijn verzoek, een termijn gunnen om alsnog aan zijn verplichting als bedoeld in onderdeel a te voldoen. Na het verstrijken van die termijn beslist de huurcommissie na verhoor, althans behoorlijke oproeping, van partijen.
-
-2. Indien de huurcommissie het verzoek toewijst, bepaalt zij, met inachtneming van de termijnen tot het doen van opzeggingen, het tijdstip waarop de huur een einde zal nemen en geeft zij een bevel tot ontruiming.
-
-##### Artikel 1603q
-
-1. Een onherroepelijk geworden bevel tot ontruiming levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) kan worden ten uitvoer gelegd.
-
-2. De huurcommissie kan het bevel tot ontruiming niet uitvoerbaar bij voorraad verklaren.
-
-##### Artikel 1603r
-
-Van deze onderafdeling kan niet ten nadele van de huurder worden afgeweken.
-
-#### Onderafdeling 5. Slotbepalingen
-
-##### Artikel 1603s
-
-1. Wanneer de huurcommissie op een verzoek van de huurder of verhuurder als bedoeld in de [onderafdelingen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=2&z=2021-04-01&g=2021-04-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=3&z=2021-04-01&g=2021-04-01) uitspraak heeft gedaan, worden zij geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.
-
-2. Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.
-
-##### Artikel 1603t
-
-Een wijziging van de huurprijs, vastgesteld in een uitspraak van de huurcommissie of van het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba, mag in rekening worden gebracht met ingang van de in het voorstel tot wijziging voorgestelde dag dan wel indien de huurprijs is vastgesteld zonder dat daartoe een voorstel is gedaan, de dag waarop vaststelling is verzocht aan de huurcommissie of vaststelling is gevorderd bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Zo in de uitspraak een latere dag van ingang wordt vastgesteld, geldt die wijziging met ingang van die latere dag.
-
-##### Artikel 1603u
-
-1. Van de uitspraak van de huurcommissie als bedoeld in [onderafdeling 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=4&z=2021-04-01&g=2021-04-01) staat zowel aan de huurder als aan de verhuurder gedurende acht weken na de dagtekening van de mededeling beroep open bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
-
-2. Tegen een beslissing krachtens dit artikel staat geen ander rechtsmiddel open dan cassatie in het belang van de wet.
-
-### Afdeling 3a. **Bijzondere bepalingen inzake de huur van bedrijfsruimte**
-
-#### Onderafdeling 1. Algemeen
-
-##### Artikel 1603v
-
-1. Deze afdeling is uitsluitend van toepassing op huur en verhuur van bedrijfsruimte.
-
-2. Onder bedrijfsruimte wordt verstaan:
-
-- a. een gebouwde onroerende zaak of gedeelte daarvan, die krachtens overeenkomst van huur en verhuur is bestemd voor de uitoefening van een kleinhandelsbedrijf, van een restaurant- of cafébedrijf, van een afhaal- of besteldienst of van een ambachtsbedrijf, een en ander indien in de verhuurde ruimte een voor het publiek toegankelijk lokaal voor rechtstreekse levering van roerende zaken of voor dienstverlening aanwezig is;
-
-- b. een gebouwde onroerende zaak of gedeelte daarvan die krachtens zulk een overeenkomst bestemd is voor de uitoefening van een hotelbedrijf;
-
-- c. een onroerende zaak die krachtens zulk een overeenkomst is bestemd voor de uitoefening van een kampeerbedrijf.
-
-3. Tot de in het tweede lid bedoelde bedrijfsruimte worden ook gerekend de onroerende aanhorigheden, de bij het een en ander behorende grond en de, mede gelet op de bestemming van die bedrijfsruimte, afhankelijke woning.
-
-4. Onder huurcommissie wordt verstaan de huurcommissie, bedoeld in [artikel 1.4 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.4).
-
-5. Onder huurprijs wordt verstaan de prijs die is verschuldigd voor het enkele gebruik van de bedrijfsruimte.
-
-##### Artikel 1603w
-
-1. De [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.2), [1.4 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.4), [1.10 tot en met 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.10) en [1.23 tot en met 1.47 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&artikel=1.23), de [artikelen 1600 tot en met 1602](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=1&artikel=1600&z=2021-04-01&g=2021-04-01), de [artikelen 1603n, eerste tot en met derde lid en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=4&artikel=1603n&z=2021-04-01&g=2021-04-01), [1603o tot en met 1603s](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=4&artikel=1603o&z=2021-04-01&g=2021-04-01) en [1603u](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=5&artikel=1603u&z=2021-04-01&g=2021-04-01) zijn van overeenkomstige toepassing op de huur en verhuur van bedrijfsruimte.
-
-2. De termijn van opzegging bedraagt:
-
-- a. voor de huurder ten minste een jaar;
-
-- b. voor de verhuurder ten minste een jaar.
-
-3. Een opzegging die in strijd met [artikel 1603n, eerste en derde lid, of het tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende&afdeling=3&paragraaf=4&artikel=1603n&z=2021-04-01&g=2021-04-01), is gedaan en een opzegging die op een kortere termijn is gedaan dan die van het tweede lid, onderdeel b, gelden niettemin als waren zij gedaan tegen de voorgeschreven dag en met inachtneming van de voorgeschreven termijn. Elk beding waarbij in strijd met het tweede lid, onderdeel a, een langere opzegtermijn of waarbij in strijd met het tweede lid, onderdeel b, een kortere opzegtermijn wordt overeengekomen of waarbij van artikel 1603n, eerste tot en met derde lid en zevende lid, wordt afgeweken, is nietig. Eveneens is nietig elk beding dat de huur zonder opzegging doet eindigen.
-
-4. [Hoofdstuk 1 van de Wet maatregelen huurwoningmarkt Caribisch Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0039553&hoofdstuk=1) is niet van toepassing ten aanzien van zeehavens, luchthavens en op de in het eerste lid bedoelde bedrijfsruimte voor zover deze in een zeehaven of op een luchthaven gevestigd zijn of daarmee ruimtelijk verbonden zijn.
-
-#### Onderafdeling 2. De huurprijs
-
-##### Artikel 1603x
-
-1. Zowel de huurder als de verhuurder kunnen verzoeken dat de huurcommissie de huurprijs, zo deze niet overeenstemt met die van vergelijkbare bedrijfsruimte ter plaatse, nader zal vaststellen:
-
-- a. indien de overeenkomst voor bepaalde tijd geldt, na afloop van de overeengekomen duur;
-
-- b. in alle andere gevallen, telkens wanneer tenminste vijf jaar zijn verstreken sinds de dag waarop de laatste door partijen vastgestelde huurprijs is ingegaan of waarop de laatste door de huurcommissie dan wel het Gerecht in eerste aanleg voor de openbare lichamen Bonaire, Sint Eustatius en Saba vastgestelde huurprijs is verzocht.
-
-2. Bij de nadere vaststelling van de huurprijs let de huurcommissie op het gemiddelde van de huurprijzen van vergelijkbare bedrijfsruimte ter plaatse, die zich hebben voorgedaan in een tijdvak van vijf jaren voorafgaande aan de dag van het instellen van de vordering. Iedere aldus in de vergelijking te betrekken huurprijs wordt herleid volgens de algemene ontwikkeling van het prijspeil sinds de dag waarop die huurprijs gold tot aan die van het instellen van de vordering. Zo het niet mogelijk is de huurcommissie de voor de toepassing van deze maatstaf benodigde gegevens te verschaffen, maakt de huurcommissie een schatting aan de hand van de wel te zijner beschikking staande gegevens, waarbij zij die maatstaf zoveel mogelijk als richtsnoer bezigt.
-
-3. De huurcommissie wijst een verzoek tot verhoging van de huurprijs af, voor zover deze is gegrond op verbeteringen van het gehuurde, die op kosten van de huurder zijn aangebracht.
-
-4. Indien de huurcommissie de huurprijs nader vaststelt, geldt deze met ingang van de dag waarop deze is verzocht, tenzij zij op verzoek van een der partijen op grond van de bijzondere omstandigheden van het geval een andere ingangsdatum vaststelt. Zij kan daarbij tevens bepalen dat de huurprijs gedurende een door haar vast te stellen termijn van ten hoogste vijf jaren geleidelijk zal worden aangepast.
-
-#### Onderafdeling 3. Slotbepaling
-
-##### Artikel 1603y
-
-Van deze afdeling kan niet ten nadele van de huurder worden afgeweken.
-
-### Afdeling 4. Bijzondere bepalingen inzake de huur van landerijen
-
-## Zevende titel a. Van de overeenkomsten tot het verrichten van arbeid
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Tweede. Van de arbeidsovereenkomsten in het algemeen
-
-### Afdeling Derde. Van de verplichtingen des werkgevers
-
-### Afdeling Vierde. Van de verplichtingen des arbeiders
-
-### Afdeling Vijfde. Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
-
-### Afdeling Zesde. Van aanneming van werk
-
-## Titel Achtste. Van maatschap
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Tweede. Van de verbintenissen der vennoten onderling
-
-### Afdeling Derde. Van de verbintenissen der vennoten ten aanzien van derden
-
-### Afdeling Vierde. Van de verschillende wijzen, waarop de maatschap eindigt
-
-## Titel Negende
-
-## Titel Tiende. Van schenkingen
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Derde. Van de vorm der schenkingen
-
-### Afdeling Vierde. Van het herroepen en tenietdoen van schenkingen
-
-## Titel Elfde
-
-## Titel Twaalfde. Van bruiklening
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Tweede. Van de verplichtingen van degene, die iets ter bruiklening ontvangt
-
-### Afdeling Derde. Van de verplichtingen van de uitlener
-
-## Titel Dertiende. Van verbruiklening
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Derde. Van de verplichtingen des leners
-
-### Afdeling Vierde. Van het ter leen geven op interesten
-
-## Titel Veertiende. Van gevestigde of altijddurende renten
-
-## Titel Vijftiende. Van kansovereenkomsten
-
-### Afdeling Eerste. Algemene bepaling
-
-### Afdeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
-
-### Afdeling Derde. Van spel en weddingschap
-
-## Zestiende t/m achttiende. Titel
-
-##### Artikel 1614cb
-
-1. De arbeider heeft recht op verlof voor de noodzakelijke verzorging in verband met ziekte van een persoon als bedoeld in het tweede lid.
-
-2. Onder een persoon als bedoeld in het eerste lid, wordt verstaan:
-
-- a. de echtgenoot;
-
-- b. een kind tot wie de arbeider als ouder in een familierechtelijke betrekking staat;
-
-- c. een kind van de echtgenoot;
-
-- d. een pleegkind dat blijkens de basisadministratie personen, bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=2), op hetzelfde adres woont als de arbeider en de arbeider als pleegouder dat kind verzorgt;
-
-- e. een bloedverwant van de arbeider in de eerste of tweede graad;
-
-- f. de persoon die, zonder dat er sprake is van een arbeidsrelatie, deel uitmaakt van de huishouding van de arbeider; of
-
-- g. de persoon met wie de arbeider anderszins een sociale relatie heeft, voor zover de te verlenen verzorging rechtstreeks voortvloeit uit die relatie en redelijkerwijs door de arbeider moet worden verleend.
-
-3. Voor de toepassing van het tweede lid, onderdelen a en c, is [artikel 1614ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
-
-4. Als pleegouder als bedoeld in het tweede lid, onderdeel d, wordt beschouwd de persoon die voldoet aan de regels die bij en krachtens [artikel 18.4.7i van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.7i), aan het pleegouderschap zijn gesteld.
-
-5. Het verlof bedraagt in elke periode van 12 achtereenvolgende maanden ten hoogste twee maal de arbeidsduur per week. De periode van 12 maanden gaat in op de eerste dag waarop het verlof wordt genoten.
-
-##### Artikel 1614cc
-
-De arbeider meldt vooraf aan zijn werkgever dat hij het verlof, bedoeld in [artikel 1614ca](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2026-01-01&g=2026-01-01) of [1614cb](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614cb&z=2026-01-01&g=2026-01-01), opneemt onder opgave van de reden. Indien dit niet mogelijk is, meldt de arbeider het opnemen van het verlof zo spoedig mogelijk aan zijn werkgever onder opgave van de reden. Bij de melding van de verlofopname, bedoeld in artikel 1614cb, geeft de arbeider ook de omvang, de wijze van opneming en de vermoedelijke duur van het verlof aan. De werkgever kan de opname van verlof afwijzen, indien zwaarwegende bedrijfs- of dienstbelangen zich hiertegen verzetten. De werkgever geeft in dat geval zijn afwijzing schriftelijk aan onder vermelding van de redenen van zijn afwijzing.
-
-##### Artikel 1614cd
-
-1. De vrouwelijke arbeider heeft recht op doorbetaling van het volledige salaris gedurende het zwangerschaps- en bevallingsverlof.
-
-2. Het recht op het zwangerschapsverlof bestaat vanaf zes weken voor de dag na de vermoedelijke datum van bevalling, of vanaf tien weken voor die dag indien het een zwangerschap van meer dan een kind betreft, zoals aangegeven in een aan de werkgever overgelegde schriftelijke verklaring van een arts of verloskundige, tot en met de dag van de bevalling. Het zwangerschapsverlof gaat in uiterlijk vier weken voor de dag na de vermoedelijke datum van bevalling of uiterlijk acht weken voor die dag indien het een zwangerschap van meer dan een kind betreft.
-
-3. Het recht op bevallingsverlof gaat in op de dag na de dag van de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen, of, indien het een zwangerschap van meer dan een kind betreft, minder dan tien weken heeft bedragen.
-
-4. Voor de toepassing van het derde lid worden dagen waarover de arbeider als gevolg van ziekte een uitkering als bedoeld in [artikel 3, eerste lid, onder a, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=3) heeft genoten in de periode dat degene recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zwangerschapsverlof is genoten.
-
-5. Als een kind tijdens het bevallingsverlof vanwege zijn medische toestand in een ziekenhuis is opgenomen, wordt het bevallingsverlof verlengd met het aantal opnamedagen, te rekenen vanaf de achtste dag van opname tot en met de laatste dag van het bevallingsverlof tot een maximum van tien weken. De in de eerste zin bedoelde verlenging van het bevallingsverlof is uitsluitend van toepassing voor zover de ziekenhuisopname langer duurt dan het aantal dagen waarmee het bevallingsverlof als gevolg van de werkelijke datum van bevalling op grond van het tweede lid wordt verlengd.
-
-6. Van dit artikel kan niet ten nadele van de vrouwelijke arbeider worden afgeweken.
-
-##### Artikel 1614ce
-
-1. Na de bevalling van de echtgenoot, heeft de arbeider gedurende een tijdvak van vier weken, te rekenen vanaf de eerste dag na de bevalling, recht op geboorteverlof ter grootte van de helft van zijn arbeidsduur per week.
-
-2. Als de arbeidsovereenkomst wordt beëindigd voordat het geboorteverlof volledig is genoten, heeft de arbeider, als hij een nieuwe arbeidsovereenkomst aangaat, tegenover de nieuwe werkgever aanspraak op het verlof dat nog niet is opgenomen.
-
-3. Als de arbeidsovereenkomst wordt beëindigd, is de werkgever verplicht aan de arbeider, op diens verzoek, een verklaring uit te reiken waaruit blijkt op hoeveel geboorteverlof de arbeider aanspraak heeft.
-
-4. Voor de toepassing van het eerste lid is [artikel 1614ca, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
-
-##### Artikel 1614cf
-
-1. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in [artikel 1614ca](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ca&z=2026-01-01&g=2026-01-01) kunnen slechts indien in een voorkomend geval de werknemer ermee instemt worden aangemerkt als vakantie, met dien verstande dat de werknemer ten minste recht houdt op het wettelijk minimum aan vakantie-aanspraken.
-
-2. Dagen of gedeelten van dagen waarop de werknemer zijn arbeid niet verricht wegens het verlof, bedoeld in de [artikelen 1614cb](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614cb&z=2026-01-01&g=2026-01-01), [1614cd](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614cd&z=2026-01-01&g=2026-01-01) of [1614ce](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&boek=7a&titeldeel=Zevende_a&afdeling=Derde&artikel=1614ce&z=2026-01-01&g=2026-01-01) kunnen niet worden aangemerkt als vakantie.
-
-##### Artikel 1614ya
-
-1. De werkgever bevordert ten aanzien van de arbeider die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, de inschakeling in de eigen arbeid.
-
-2. Uit hoofde van de uitoefening van zijn taak, bedoeld in het eerste lid, treft de werkgever zo tijdig mogelijk zodanige maatregelen en verstrekt zodanige aanwijzingen als redelijkerwijs nodig is, opdat de arbeider, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen arbeid te verrichten.
-
-### Afdeling Vierde. Van de verplichtingen des arbeiders
-
-### Afdeling Vijfde. Van de verschillende wijzen waarop de dienstbetrekking, door arbeidsovereenkomst ontstaan, eindigt
-
-## Titel Achtste. Van maatschap
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Tweede. Van de verbintenissen der vennoten onderling
-
-### Afdeling Derde. Van de verbintenissen der vennoten ten aanzien van derden
-
-### Afdeling Vierde. Van de verschillende wijzen, waarop de maatschap eindigt
-
-## Titel Negende
-
-## Titel Tiende. Van schenkingen
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Derde. Van de vorm der schenkingen
-
-## Titel Elfde
-
-## Titel Twaalfde. Van bruiklening
-
-### Afdeling Eerste. Algemene bepalingen
-
-### Afdeling Tweede. Van de verplichtingen van degene, die iets ter bruiklening ontvangt
-
-## Titel Dertiende. Van verbruiklening
-
-### Afdeling Tweede. Van de verplichtingen des uitleners
-
-### Afdeling Derde. Van de verplichtingen des leners
-
-### Afdeling Vierde. Van het ter leen geven op interesten
-
-## Titel Veertiende. Van gevestigde of altijddurende renten
-
-## Titel Vijftiende. Van kansovereenkomsten
-
-### Afdeling Eerste. Algemene bepaling
-
-### Afdeling Tweede. Van de overeenkomst van lijfrenten en derzelver gevolgen
-
-### Afdeling Derde. Van spel en weddingschap
-
-## Zestiende t/m achttiende. Titel
