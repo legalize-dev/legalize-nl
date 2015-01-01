@@ -4,7 +4,7 @@ identifier: "BWBR0027018"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027018"
 soort: "ministeriele-regeling"
@@ -43,7 +43,7 @@ Besluit:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73) en [75, eerste lid, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75).
+1. Deze regeling geeft uitvoering aan de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=16), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=17), [33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), [35b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35b), [35c, vijfde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35c), [35d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35d), [35e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=35e), en [73 van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=73).
 
 2. Deze regeling verstaat onder wet: [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226).
 
@@ -63,11 +63,11 @@ Als mogendheid als bedoeld in [artikel 32, eerste lid, onder 8°, onderdeel e, v
 
 ##### Artikel 5. Schenking ter zake van een eigen woning
 
-Een vrijstelling als bedoeld in de [artikelen 33, onder 5° en 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33), en [33a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) of de aflossing van een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), wordt slechts verleend indien:
+Een vrijstelling als bedoeld in [artikel 33, onder 5° en 6°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) voor een schenking ter zake van de verwerving van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a) of de aflossing van een restschuld van een vervreemde eigen woning als bedoeld in [artikel 3.120a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120a) waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in [artikel 3.120 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), wordt slechts verleend indien:
 
 - a. de schenking is gedaan:
 
-- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht, een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel van die eigenwoningschuld, heeft afgelost of een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in [artikel 3.119aa van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), of een deel van die schuld, heeft afgelost, of
+- 1°. onder de opschortende voorwaarde dat de begunstigde een eigen woning heeft verworven als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111), een recht van erfpacht, opstal of beklemming met betrekking tot die woning heeft afgekocht, een eigenwoningschuld als bedoeld in [artikel 3.119a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119a), of een deel van die eigenwoningschuld, heeft afgelost of een restschuld van een vervreemde eigen woning als bedoeld in [artikel 3.120a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120a) waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in [artikel 3.120 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.120), of een deel van die restschuld, heeft afgelost, of
 
 - 2°. onder de ontbindende voorwaarde dat de schenking vervalt voor zover het geschonken bedrag niet in het jaar van de schenking of in de twee daarop volgende kalenderjaren is besteed aan verbetering of onderhoud van een eigen woning als bedoeld in [artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.111) van de begunstigde, en
 
@@ -185,33 +185,7 @@ De in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&ar
 
 ##### Artikel 12. Opgave verzekeraar en uitvoerder derdebeding
 
-1. De in [artikel 75 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) bedoelde gegevens worden schriftelijk verstrekt en houden in:
-
-- a. de naam, voornamen, laatste woonplaats en de dagtekening van het overlijden van de erflater;
-
-- b. de naam, voornamen en woonplaats met huisadres van degene aan wie de uitkering moet plaats hebben;
-
-- c. een aanwijzing van het uit te keren bedrag of de verandering in de uitkering; ingeval de schuldenaar van de uitkering een verzekeraar is in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), tevens de dagtekening en het nummer van de polis;
-
-- d. verdere gegevens welke de inspecteur voor de berekening van de belasting nodig acht.
-
-2. In het geval, bedoeld in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75), treedt voor de in het eerste lid, onderdeel a, bedoelde gegevens in de plaats een vermelding van de naam, voornamen en woonplaats met huisadres van de premiebetaler of van degene die het beding heeft gemaakt.
-
-3. De inlevering van de gegevens geschiedt binnen een maand nadat:
-
-- a. de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75), bedoelde verzekeraar of derde kennis heeft gekregen van het in artikel 75, eerste lid, bedoelde overlijden;
-
-- b. de in [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75), bedoelde verandering heeft plaatsgehad;
-
-- c. de in [artikel 75, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=75) bedoelde uitkering of verandering heeft plaatsgehad;
-
-- d. de in het eerste lid, onderdeel d, bedoelde gegevens door de inspecteur zijn gevraagd.
-
-4. Geen gegevens behoeven te worden ingeleverd:
-
-- a. in geval van overlijden indien de uitkering aan de echtgenoot plaatsvindt en minder bedraagt dan € 11 345 in kapitaal of € 1134 per jaar aan rente;
-
-- b. in alle andere gevallen indien de uitkering minder bedraagt dan € 1815 in kapitaal of € 908 per jaar aan rente.
+Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
