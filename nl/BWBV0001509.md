@@ -4,7 +4,7 @@ identifier: "BWBV0001509"
 country: "nl"
 rank: "verdrag"
 publication_date: "2016-07-01"
-last_updated: "2003-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001509"
 soort: "verdrag"
@@ -51,21 +51,21 @@ Zijn de volgende bepalingen overeengekomen:
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a. „grondgebied": met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa en met betrekking tot het Vorstendom Monaco, het grondgebied daarvan;
+- a. „grondgebied”: met betrekking tot het Koninkrijk der Nederlanden, het grondgebied van het Koninkrijk in Europa en met betrekking tot het Vorstendom Monaco, het grondgebied daarvan;
 
-- b. „wetgeving": de wetgeving met betrekking tot de takken van sociale verzekering bedoeld in artikel 2;
+- b. „wetgeving”: de wetgeving met betrekking tot de takken van sociale verzekering bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=2&z=2015-01-01&g=2015-01-01);
 
-- c. „bevoegde autoriteit": met betrekking tot het Koninkrijk der Nederlanden, de Nederlandse Minister van Sociale Zaken en Werkgelegenheid; met betrekking tot het Vorstendom Monaco, de Regeringsraad voor Openbare Werken en Sociale Zaken;
+- c. „bevoegde autoriteit”: met betrekking tot het Koninkrijk der Nederlanden, de Nederlandse Minister van Sociale Zaken en Werkgelegenheid; met betrekking tot het Vorstendom Monaco, de Regeringsraad voor Sociale Zaken en Gezondheid;
 
-- d. „bevoegd orgaan": met betrekking tot het Koninkrijk der Nederlanden, het „Landelijk instituut sociale verzekeringen" ten aanzien van de toepassing van de takken van sociale zekerheid bedoeld in artikel 2 onder a, b en c en als vertegenwoordiger daarvan „Gak Nederland bv" of elk ander orgaan dat gemachtigd is de functies te vervullen die thans door het genoemde bevoegde orgaan worden uitgeoefend, en de „Sociale Verzekeringsbank" ten aanzien van de takken van sociale zekerheid bedoeld in artikel 2 onder d, e en f; met betrekking tot het Vorstendom Monaco, het Departement van Openbare Werken en Sociale Zaken;
+- d. „bevoegd orgaan”: met betrekking tot het Koninkrijk der Nederlanden, het „Landelijk instituut sociale verzekeringen” ten aanzien van de toepassing van de takken van sociale zekerheid bedoeld in [artikel 2 onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=2&z=2015-01-01&g=2015-01-01) en als vertegenwoordiger daarvan „Gak Nederland bv” of elk ander orgaan dat gemachtigd is de functies te vervullen die thans door het genoemde bevoegde orgaan worden uitgeoefend, en de „Sociale Verzekeringsbank” ten aanzien van de takken van sociale zekerheid bedoeld in artikel 2 onder d en e; met betrekking tot het Vorstendom Monaco, het Departement van Sociale Zaken en Gezondheid;
 
-- e. „sociale verzekeringsinstelling": de „Caisse de Compensation des Services Sociaux", de „Caisse Autonome des Retraites", de „Caisse d'Assurance Accident, Maladie et Maternité des Travailleurs Indépendants" en de ``Caisse Autonome des Retraites des Travailleurs Indépendants";
+- e. „sociale verzekeringsinstelling”: de „Caisse de Compensation des Services Sociaux”, de „Caisse Autonome des Retraites”, de „Caisse d'Assurance Accident, Maladie et Maternité des Travailleurs Indépendants” en de ``Caisse Autonome des Retraites des Travailleurs Indépendants”;
 
-- f. ``uitkering": elke in geld uitbetaalde uitkering of elk in geld uitbetaald pensioen waarin de Nederlandse wetgeving voorziet;
+- f. “uitkering”: elke in geld uitbetaalde uitkering of elk in geld uitbetaald pensioen waarin de Nederlandse wetgeving voorziet;
 
-- g. „uitkeringsgerechtigde": de persoon die een uitkering aanvraagt of die recht op een uitkering heeft;
+- g. „uitkeringsgerechtigde”: de persoon die een uitkering aanvraagt of die recht op een uitkering heeft;
 
-- h. „gezinslid": elke als zodanig door de Nederlandse wetgeving omschreven of toegelaten persoon.
+- h. „gezinslid”: elke als zodanig door de Nederlandse wetgeving omschreven of toegelaten persoon.
 
 2. Elke andere in dit Verdrag gebruikte term heeft de betekenis die de wetgeving daaraan toekent.
 
@@ -81,9 +81,7 @@ Dit Verdrag is van toepassing op de Nederlandse wetgeving inzake de volgende tak
 
 - d. ouderdomsuitkeringen;
 
-- e. uitkeringen aan nabestaanden;
-
-- f. kinderbijslagen
+- e. uitkeringen aan nabestaanden.
 
 ##### Artikel 3. Personele werkingssfeer
 
@@ -125,7 +123,7 @@ Indien een uitkeringsgerechtigde onverschuldigd een door een Nederlands bevoegd 
 
 ##### Artikel 9. Weigering, opschorting, intrekking
 
-Het Nederlandse bevoegde orgaan kan toekenning van een uitkering weigeren of de betaling ervan opschorten of het recht erop intrekken, indien, binnen een tijdvak van drie maanden, de uitkeringsgerechtigde niet heeft voldaan aan het verzoek een medisch onderzoek te ondergaan of de inlichtingen te verstrekken waarom is verzocht overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=5&z=2003-01-01&g=2003-01-01) en [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=7&z=2003-01-01&g=2003-01-01), van dit Verdrag.
+Het Nederlandse bevoegde orgaan kan toekenning van een uitkering weigeren of de betaling ervan opschorten of het recht erop intrekken, indien, binnen een tijdvak van drie maanden, de uitkeringsgerechtigde niet heeft voldaan aan het verzoek een medisch onderzoek te ondergaan of de inlichtingen te verstrekken waarom is verzocht overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=5&z=2015-01-01&g=2015-01-01) en [artikel 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=7&z=2015-01-01&g=2015-01-01), van dit Verdrag.
 
 ##### Artikel 10. Termijn voor het verstrekken van informatie
 
@@ -143,7 +141,7 @@ De bevoegde autoriteiten van beide Verdragsluitende Partijen verplichten zich te
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun respectieve wettelijke of grondwettelijke procedures voor de inwerkingtreding van dit Verdrag.
 
-2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum van de laatste kennisgeving, met dien verstande dat Nederland [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=4&z=2003-01-01&g=2003-01-01) voorlopig zal toepassen met ingang van de eerste dag van de tweede maand volgend op de datum van ondertekening.
+2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum van de laatste kennisgeving, met dien verstande dat Nederland [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001509&artikel=4&z=2015-01-01&g=2015-01-01) voorlopig zal toepassen met ingang van de eerste dag van de tweede maand volgend op de datum van ondertekening.
 
 ##### Artikel 14. Toepassing
 
