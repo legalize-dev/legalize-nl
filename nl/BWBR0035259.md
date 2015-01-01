@@ -4,7 +4,7 @@ identifier: "BWBR0035259"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035259"
 soort: "wet"
@@ -41,7 +41,7 @@ entry_into_force: "2014-06-28"
 
 ##### Artikel 01. [Aanpassingswet Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018471)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
 ##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
@@ -53,23 +53,23 @@ Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Ouderdomswet.
 
 ##### Artikel IV. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel V. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel VI. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.
 
 ##### Artikel VII. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het kindgebonden budget.
 
 ##### Artikel VIIa. [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
 
@@ -77,7 +77,7 @@ Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten.
 
 ##### Artikel VIII. [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en bijstand.
 
 ### Hoofdstuk 2. Ministerie van Financiën
 
@@ -89,7 +89,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 4a. Ministerie van Volksgezondheid, Welzijn en Sport
 
-### Hoofdstuk 4b. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+### Hoofdstuk 3. Ministerie van Onderwijs, Cultuur en Wetenschap
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -103,11 +103,25 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel XII. Overgangsrecht
 
-Dit onderdeel is nog niet inwerking getreden
+1. Een op 31 december 2014 bestaande tegemoetkoming op grond van de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997&wetgeving) wordt aangemerkt als kinderbijslag als bedoeld in [artikel 7a van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7a).
+
+2. Voor de persoon die op 31 december 2014 recht had op algemene bijstand op grond van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de op hem van toepassing zijnde norm een norm voor een alleenstaande ouder was en hij geen aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) omdat hij een partner heeft als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3), is tot 1 januari 2016 in afwijking van de [artikelen 20 tot en met 22a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), de norm per kalendermaand, indien het betreft:
+
+- a. een persoon van 18, 19 of 20 jaar op wie een norm voor alleenstaande ouders van toepassing is: € 506,78 per 1 januari 2015: € 511,68;
+
+- b. een persoon van 21 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.191,18 per 1 januari 2015: € 1.235,35;
+
+- c. een persoon die de pensioengerechtigde leeftijd heeft bereikt, die niet met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft en op wie een norm voor alleenstaande ouders van toepassing is: € 1.313,82 per 1 januari 2015: € 1.358,27;
+
+- d. een alleenstaande ouder op wie [artikel 22a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22a) van toepassing is of een gehuwde voor wie op grond van [artikel 24 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=24) de norm gelijk is aan de norm die voor hem als alleenstaande ouder zou gelden: de norm per kalendermaand als bedoeld in artikel 22a, eerste lid, verhoogd met 20% x de rekennorm, bedoeld in artikel 22a, tweede lid, van de Participatiewet.
+
+3. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in het tweede lid, aanpassen na inwerkingtreding van dit artikel indien het netto minimumloon wijzigt.
+
+4. Dit artikel vervalt met ingang van 1 januari 2016.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+**[Vervallen]**
 
 ##### Artikel XIV. Inwerkingtreding
 
@@ -116,5 +130,79 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ##### Artikel XV. Citeertitel
 
 Deze wet wordt aangehaald als: Wet hervorming kindregelingen.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel IX. [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+##### Artikel IXa. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+
+Wijzigt de Wet op de loonbelasting 1964.
+
+##### Artikel IXb. [Wet op het consumentenkrediet](https://wetten.overheid.nl/jci1.3:c:BWBR0004815)
+
+Wijzigt de Wet op het consumentenkrediet.
+
+##### Artikel X. [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
+
+Wijzigt de Wet studiefinanciering 2000.
+
+##### Artikel Xa. [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel Xb. [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel Xc. Samenloop voorstel van Wet sociaal leenstelsel masterfase
+
+Wijzigt deze wet.
+
+### Hoofdstuk 4. Ministerie van Veiligheid en Justitie
+
+##### Artikel XI. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+
+### Hoofdstuk 4a. Ministerie van Volksgezondheid, Welzijn en Sport
+
+##### Artikel XIa. [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032)
+
+Wijzigt de Wet buitengewoon pensioen 1940–1945.
+
+##### Artikel XIb. [Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968)
+
+Wijzigt de Wet buitengewoon pensioen Indisch verzet.
+
+##### Artikel XIc. [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035)
+
+Wijzigt de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers.
+
+##### Artikel XId. [Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664)
+
+Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
+
+##### Artikel XIe. [Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844)
+
+Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
+
+### Hoofdstuk 4b. Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+
+##### Artikel XIf. [Samenloopregeling Indonesische pensioenen 1960](https://wetten.overheid.nl/jci1.3:c:BWBR0002414)
+
+Wijzigt de Samenloopregeling Indonesische pensioenen 1960.
+
+##### Artikel XIg. [Wet aanpassing pensioenvoorzieningen Bijstandkorps](https://wetten.overheid.nl/jci1.3:c:BWBR0002507)
+
+Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps.
+
+##### Artikel XIh. [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659)
+
+Wijzigt de Wet op de huurtoeslag.
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
