@@ -4,7 +4,7 @@ identifier: "BWBR0032452"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-12-24"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032452"
 soort: "ministeriele-regeling"
@@ -76,17 +76,11 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 
 ##### Artikel 3. Bezoldigingsmaxima topfunctionarissen in het onderwijs
 
-1. In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan:
+1. In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan € 165.901 voor de topfunctionarissen in het primair onderwijs.
 
-- a. € 165.901 voor de topfunctionarissen in het primair onderwijs;
+2. Voor de topfunctionarissen in het voortgezet onderwijs, de topfunctionarissen in het beroepsonderwijs en educatie en de topfunctionarissen van de hogescholen is het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3) van toepassing.
 
-- b. € 184.448 voor de topfunctionarissen in het voortgezet onderwijs;
-
-- c. € 199.905 voor de topfunctionarissen in het beroepsonderwijs en educatie; en
-
-- d. € 199.905 voor de topfunctionarissen van de hogescholen.
-
-2. Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3).
+3. Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in [artikel 2.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3), zoals dat luidde op 31 december 2014.
 
 ##### Artikel 4. Elektronische verzending bezoldigingsgegevens
 
@@ -144,15 +138,15 @@ In afwijking van [artikel 2.3, eerste lid, van de wet](https://wetten.overheid.n
 
 - 2°. het Nederlands Letterenfonds, of
 
-- 3°. het Stimuleringsfonds Creatieve Industrie; of
-
-- 4°. het Nederlands Fonds voor de Film; en
+- 3°. het Stimuleringsfonds Creatieve Industrie, en
 
 - b. € 147.629 voor zover het betreft
 
-- 1°. het Mondriaan Fonds, of
+- 1°. het Mondriaan Fonds,
 
-- 2°. het Nederlands Fonds voor Podiumkunsten+.
+- 2°. het Nederlands Fonds voor de film, of
+
+- 3°. het Nederlands Fonds voor Podiumkunsten+.
 
 #### Paragraaf 4. Slotbepalingen
 
@@ -160,7 +154,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Begripsbepaling toezicht overige OCW-sectoren
 
-In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2014-12-24&g=2014-12-24) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2014-12-24&g=2014-12-24), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2014-12-24&g=2014-12-24), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
+In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2015-01-01&g=2015-01-01) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2015-01-01&g=2015-01-01), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
 
 ##### Artikel 7b. Sector primair onderwijs voor zover geen onderwijsinstelling
 
@@ -216,7 +210,7 @@ Voor instellingen in de sector erfgoed en kunsten worden de volgende personen be
 
 - a. de directeur en plaatsvervangend directeur van de directie erfgoed en kunsten;
 
-- b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie.
+- b. de ambtenaren, werkzaam bij de afdeling sectoraal beleid van de directie erfgoed en kunsten.
 
 ##### Artikel 7i. Sector media en creatieve industrie voor zover geen toezicht van het CvdM
 
@@ -224,7 +218,11 @@ Voor instellingen in de sector media en creatieve industrie worden de volgende p
 
 - a. de directeur en plaatsvervangend directeur van de directie media en creatieve industrie;
 
-- b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie.
+- b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie media en creatieve industrie;
+
+- c. de ambtenaren, werkzaam bij de afdeling informatie- en bibliotheekbeleid van de directie media en creatieve industrie;
+
+- d. de ambtenaren, werkzaam bij de afdeling mediabeleid van de directie media en creatieve industrie.
 
 ##### Artikel 7j. Sector emancipatie
 
@@ -252,7 +250,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7k.1. Cultuurfondsen
 
-Dit onderdeel is nog niet inwerking getreden
+1. Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2a&artikel=5b&z=2015-01-01&g=2015-01-01) worden, voor zover de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) op die instelling van toepassing is, de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
+
+2. Indien meer dan één van de in het eerste lid bedoelde fondsen subsidie verstrekken aan een instelling als bedoeld in het eerste lid, is het fonds dat de hoogste subsidie verstrekt aan de instelling belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
 
 #### Paragraaf 4. Slotbepalingen
 
