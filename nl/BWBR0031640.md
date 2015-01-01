@@ -4,7 +4,7 @@ identifier: "BWBR0031640"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031640"
 soort: "wet"
@@ -74,7 +74,7 @@ In deze wet wordt, tenzij anders bepaald, verstaan onder:
 
 ##### Artikel 2
 
-1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
+1. Indien een publieke entiteit niet of niet naar behoren voldoet aan een voor haar geldende rechtsplicht die voortvloeit uit een bij of krachtens de Europese verdragen op Nederland rustende verplichting, niet zijnde een rechtsplicht die behoort tot de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde verplichtingen, dan kan Onze Minister de publieke entiteit een aanwijzing geven om, binnen een in die aanwijzing te vermelden termijn, alsnog aan die rechtsplicht te voldoen.
 
 2. Een aanwijzing wordt gegeven:
 
@@ -84,7 +84,7 @@ In deze wet wordt, tenzij anders bepaald, verstaan onder:
 
 3. Een aanwijzing wordt niet gegeven ten aanzien van de uitoefening van rechtspraak.
 
-4. Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) en [hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII) en van de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124) en [124a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124a) en [hoofdstuk XVII van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XVII) toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.
+4. Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van [artikel 121](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=121) en [hoofdstuk XVIII van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XVIII), van de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124) en [124a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=124a) en [hoofdstuk XVII van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XVII) en van de [artikelen 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=32b), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=32c), [36 tot en met 39f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=36), [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=45a), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=49), [56a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=56a), [60](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=60), [65a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=65a), [69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=69), [78a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=78a), [82, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=82), [88a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=88a) en [92, eerste lid van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=92) toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.
 
 ##### Artikel 3
 
@@ -94,7 +94,7 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 1. Een aanwijzing wordt niet gegeven dan nadat aan de publieke entiteit gelegenheid tot overleg is geboden.
 
-2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2013-01-01&g=2013-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01), alsnog na te komen.
+2. Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de publieke entiteit in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn de verplichting, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2015-01-01&g=2015-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01), alsnog na te komen.
 
 3. De motivering van de aanwijzing verwijst naar hetgeen in het overleg aan de orde is gekomen.
 
@@ -102,7 +102,7 @@ Indien een publieke entiteit verzuimt te voldoen aan een voor haar geldende rech
 
 ##### Artikel 5
 
-Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2013-01-01&g=2013-01-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2013-01-01&g=2013-01-01), wordt hersteld of voorkomen.
+Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister die de aanwijzing heeft gegeven er, namens en op kosten van de publieke entiteit, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=2&z=2015-01-01&g=2015-01-01), is gegeven of dat alsnog het verzuim, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031640&artikel=3&z=2015-01-01&g=2015-01-01), wordt hersteld of voorkomen.
 
 ##### Artikel 6
 
