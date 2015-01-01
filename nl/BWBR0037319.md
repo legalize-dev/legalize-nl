@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2014-03-24"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -43,7 +43,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene nabestaandenwet.
 
 ##### Artikel III. [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
@@ -71,7 +71,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VIII. [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Participatiewet.
 
 ##### Artikel IX. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
