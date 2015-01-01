@@ -4,7 +4,7 @@ identifier: "BWBR0033092"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-02-16"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033092"
 soort: "ministeriele-regeling"
@@ -140,17 +140,17 @@ De ACM legt ten minste vier weken voordat zij overeenkomstig [artikel 5, tweede 
 
 De Minister informeert de ACM over relevante ontwikkelingen en aanschrijvingen met betrekking tot de bedrijfsvoering van de rijksoverheid.
 
-#### § 6. Tarievenvoorstel
+#### § 6. Voorstel bedragen doorberekening kosten ACM
 
 ##### Artikel 13
 
-1. De ACM stuurt de Minister jaarlijks voor 1 november voor het daaropvolgende kalenderjaar een voorstel voor de tarieven op grond van de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) en de [Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) die worden doorbelast aan ondernemingen.
+1. De ACM stuurt de Minister jaarlijks voor 1 maart een voorstel voor de bedragen, bedoeld in [artikel 9, eerste en tweede lid, van het Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=9).
 
 2. Het in het eerste lid genoemde voorstel gaat vergezeld van een toelichting waarin wordt ingegaan op:
 
-- a. de voorgestelde tarieven voor het nieuwe jaar tegen de achtergrond van een meerjarig beeld van tariefontwikkeling;
+- a. de voorgestelde bedragen tegen de achtergrond van een meerjarig beeld van tariefontwikkeling;
 
-- b. de redenen van de voorgestelde tarieven;
+- b. de redenen van de voorgestelde bedragen;
 
 - c. de mate van kostendekkendheid en de kostenontwikkeling;
 
