@@ -4,7 +4,7 @@ identifier: "BWBR0036029"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2014-12-23"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036029"
 soort: "wet"
@@ -46,11 +46,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ##### Artikel I
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Aanpassingswet veiligheidsregio's.
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Advocatenwet BES.
 
 ##### Artikel III
 
@@ -62,7 +62,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel IVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
 ##### Artikel V
 
@@ -70,43 +70,43 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit politieke delinquenten 1945.
 
 ##### Artikel VII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ##### Artikel VIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 3.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek BES Boek 4.
 
 ##### Artikel XI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 6.
 
 ##### Artikel XII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 8.
 
 ##### Artikel XIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 10.
 
 ##### Artikel XIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Deurwaarderswet BES.
 
 ##### Artikel XV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel XVI
 
@@ -114,23 +114,23 @@ Wijzigt de Gemeentewet.
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Gerechtsdeurwaarderswet.
 
 ##### Artikel XVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Inkwartieringswet.
 
 ##### Artikel XVIIIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Overleveringswet.
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Politiewet 2012.
 
 ##### Artikel XX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Tribunaalbesluit.
 
 ##### Artikel XXa
 
@@ -138,99 +138,99 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Vreemdelingenwet 2000.
 
 ##### Artikel XXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
 ##### Artikel XXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet administratieve rechtspraak BES.
 
 ##### Artikel XXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bescherming persoonsgegevens.
 
 ##### Artikel XXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bescherming persoonsgegevens BES.
 
 ##### Artikel XXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ##### Artikel XXVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
 ##### Artikel XXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering BES.
 
 ##### Artikel XXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Koophandel.
 
 ##### Artikel XXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Koophandel BES.
 
 ##### Artikel XXX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafrecht.
 
 ##### Artikel XXXI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafvordering.
 
 ##### Artikel XXXII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Wetboek van Strafvordering BES.
 
 ##### Artikel XXXIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet griffierechten burgerlijke zaken.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
 ##### Artikel XXXV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de expertisecentra.
 
 ##### Artikel XXXVa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de naburige rechten.
 
 ##### Artikel XXXVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de rechterlijke organisatie.
 
 ##### Artikel XXXVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het notarisambt.
 
 ##### Artikel XXXVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het notarisambt BES.
 
 ##### Artikel XXXIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het primair onderwijs.
 
 ##### Artikel XL
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel XLI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel XLII
 
@@ -246,34 +246,36 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XLV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.
 
 ##### Artikel XLVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt deze wet.
 
 ##### Artikel XLVIa
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet veiligheidsregio’s.
 
 ##### Artikel XLVIb
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wet op het notarisambt, enz. (o.m. gewijzigde regeling legalisatie handtekeningen notarissen)(Stb.2014/202).
 
 ##### Artikel XLVIc
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wijzigingswet Wetboek van Strafrecht (herziening regels betreffende extraterritoriale rechtsmacht in strafzaken).
 
 ##### Artikel XLVId
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet forensische zorg.
 
 ##### Artikel XLVII
 
-Dit onderdeel is nog niet inwerking getreden
+1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+
+2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=IV&z=2015-01-01&g=2015-01-01) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=XVI&z=2015-01-01&g=2015-01-01) van deze wet in werking met ingang van de datum van inwerkingtreding van de Wet van 7 februari 2013 tot wijziging van de Gemeentewet en enige andere wetten in verband met het afschaffen van de bevoegdheid van gemeentebesturen om deelgemeenten in te stellen (**Stb.** 2013, 76). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na die datum, treden de artikelen IV en XVI van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XLVIII
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Verzamelwet Veiligheid en Justitie 2013.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
