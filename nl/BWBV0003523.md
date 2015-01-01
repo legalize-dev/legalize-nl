@@ -4,7 +4,7 @@ identifier: "BWBV0003523"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-06-01"
-last_updated: "2013-10-10"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003523"
 soort: "verdrag"
@@ -108,13 +108,13 @@ De bepalingen van deze Overeenkomst zijn slechts van toepassing indien:
 
 - a. het vervoer plaatsvindt
 
-- i. met wegvoertuigen, vervoerscombinaties of containers die vooraf zijn goedgekeurd onder de voorwaarden vermeld in [Hoofdstuk III onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2013-10-10&g=2013-10-10); of
+- i. met wegvoertuigen, vervoerscombinaties of containers die vooraf zijn goedgekeurd onder de voorwaarden vermeld in [Hoofdstuk III onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2015-01-01&g=2015-01-01); of
 
-- ii. met andere wegvoertuigen, andere vervoerscombinaties of andere containers, indien dit vervoer geschiedt onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2013-10-10&g=2013-10-10); of
+- ii. met andere wegvoertuigen, andere vervoerscombinaties of andere containers, indien dit vervoer geschiedt onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2015-01-01&g=2015-01-01); of
 
-- iii. met wegvoertuigen of bijzondere voertuigen zoals bussen, hijskranen, veegmachines, betonstortmachines, enz. die worden uitgevoerd en derhalve worden aangemerkt als goederen die zich op eigen kracht verplaatsen van een douanekantoor van vertrek naar een douanekantoor van bestemming, onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2013-10-10&g=2013-10-10). Indien deze voertuigen andere goederen vervoeren, zijn de onder i of ii hierboven bedoelde voorwaarden van overeenkomstige toepassing;
+- iii. met wegvoertuigen of bijzondere voertuigen zoals bussen, hijskranen, veegmachines, betonstortmachines, enz. die worden uitgevoerd en derhalve worden aangemerkt als goederen die zich op eigen kracht verplaatsen van een douanekantoor van vertrek naar een douanekantoor van bestemming, onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2015-01-01&g=2015-01-01). Indien deze voertuigen andere goederen vervoeren, zijn de onder i of ii hierboven bedoelde voorwaarden van overeenkomstige toepassing;
 
-- b. het vervoer plaatsvindt onder de garantie van de organisaties die daartoe zijn erkend overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) en onder dekking van een carnet TIR dat dient overeen te stemmen met het in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=1&z=2013-10-10&g=2013-10-10) van deze Overeenkomst opgenomen model.
+- b. het vervoer plaatsvindt onder de garantie van de organisaties die daartoe zijn erkend overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) en onder dekking van een carnet TIR dat dient overeen te stemmen met het in Bijlage 1 van deze Overeenkomst opgenomen model.
 
 ## c). BEGINSELEN
 
@@ -132,17 +132,17 @@ Goederen vervoerd onder de TIR-regeling worden op de douanekantoren van doorgang
 
 ##### Artikel 6
 
-1. Iedere Overeenkomstsluitende Partij kan aan organisaties de bevoegdheid verlenen om, hetzij rechtstreeks, hetzij door tussenkomst van soortgelijke organisaties, carnets TIR af te geven, alsmede om zich garant te stellen, zolang wordt voldaan aan de in [Bijlage 9, deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=I&z=2013-10-10&g=2013-10-10), neergelegde minimumvoorwaarden en -eisen. De bevoegdverklaring wordt ingetrokken, indien niet meer wordt voldaan aan de in Bijlage 9, deel I, genoemde minimumvoorwaarden en -eisen.
+1. Iedere Overeenkomstsluitende Partij kan aan organisaties de bevoegdheid verlenen om, hetzij rechtstreeks, hetzij door tussenkomst van soortgelijke organisaties, carnets TIR af te geven, alsmede om zich garant te stellen, zolang wordt voldaan aan de in [Bijlage 9, deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=I&z=2015-01-01&g=2015-01-01), neergelegde minimumvoorwaarden en -eisen. De bevoegdverklaring wordt ingetrokken, indien niet meer wordt voldaan aan de in Bijlage 9, deel I, genoemde minimumvoorwaarden en -eisen.
 
 2. Een organisatie kan in een land slechts worden erkend indien haar garantie mede betrekking heeft op de in dat land bestaande aansprakelijkheid bij vervoer onder dekking van carnets TIR, afgegeven door buitenlandse organisaties die zijn aangesloten bij de internationale organisatie waarvan zijzelf lid is.
 
-2 bis. Een internationale organisatie wordt door de Commissie van Beheer bevoegd verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel. De bevoegdheid wordt verleend voor zolang de organisatie voldoet aan de voorwaarden en vereisten vervat in [Bijlage 9, deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=III&z=2013-10-10&g=2013-10-10). De Commissie van Beheer kan de bevoegdverklaring intrekken indien niet langer wordt voldaan aan deze vereisten en voorwaarden.
+2 bis. Een internationale organisatie wordt door de Commissie van Beheer bevoegd verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel. De bevoegdheid wordt verleend voor zolang de organisatie voldoet aan de voorwaarden en vereisten vervat in [Bijlage 9, deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=III&z=2015-01-01&g=2015-01-01). De Commissie van Beheer kan de bevoegdverklaring intrekken indien niet langer wordt voldaan aan deze vereisten en voorwaarden.
 
 3. Een organisatie geeft carnets TIR uitsluitend af aan personen wier toelating tot de TIR-regeling niet is geweigerd door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen op het grondgebied waarvan de desbetreffende personen zijn gevestigd of wonen.
 
-4. De bevoegdheid tot toelating tot de TIR-regeling wordt uitsluitend verleend aan personen die voldoen aan de in [Bijlage 9, deel II, bij deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2013-10-10&g=2013-10-10), neergelegde minimumvoorwaarden en -eisen. Onverminderd het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2013-10-10&g=2013-10-10) wordt de bevoegdverklaring ingetrokken, indien niet langer wordt gewaarborgd dat aan deze criteria wordt voldaan.
+4. De bevoegdheid tot toelating tot de TIR-regeling wordt uitsluitend verleend aan personen die voldoen aan de in [Bijlage 9, deel II, bij deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2015-01-01&g=2015-01-01), neergelegde minimumvoorwaarden en -eisen. Onverminderd het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2015-01-01&g=2015-01-01) wordt de bevoegdverklaring ingetrokken, indien niet langer wordt gewaarborgd dat aan deze criteria wordt voldaan.
 
-5. De bevoegdheid tot toelating tot de TIR-regeling wordt verleend overeenkomstig de in [Bijlage 9, deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2013-10-10&g=2013-10-10), bij deze Overeenkomst, neergelegde procedure.
+5. De bevoegdheid tot toelating tot de TIR-regeling wordt verleend overeenkomstig de in [Bijlage 9, deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2015-01-01&g=2015-01-01), bij deze Overeenkomst, neergelegde procedure.
 
 ##### Artikel 7
 
@@ -156,7 +156,7 @@ De carnets TIR die aan de organisaties die zich garant hebben gesteld worden toe
 
 3. Iedere Overeenkomstsluitende Partij stelt per carnet TIR het maximum vast van de bedragen die krachtens het bepaalde in het eerste en tweede lid van dit artikel kunnen worden geëist van de organisatie die zich garant heeft gesteld.
 
-4. De organisatie die zich garant heeft gesteld, wordt tegenover de autoriteiten van het land waar het douanekantoor van vertrek is gelegen, aansprakelijk vanaf het tijdstip waarop het carnet TIR door het douanekantoor is ingeschreven. In de landen waar het TIR-vervoer van goederen vervolgens doorkomt, ontstaat deze aansprakelijkheid wanneer de goederen deze landen binnenkomen of, indien het TIR-vervoer wordt onderbroken krachtens het bepaalde in [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=26&z=2013-10-10&g=2013-10-10), wanneer het carnet TIR wordt ingeschreven door het douanekantoor waar het TIR-vervoer wordt hervat.
+4. De organisatie die zich garant heeft gesteld, wordt tegenover de autoriteiten van het land waar het douanekantoor van vertrek is gelegen, aansprakelijk vanaf het tijdstip waarop het carnet TIR door het douanekantoor is ingeschreven. In de landen waar het TIR-vervoer van goederen vervolgens doorkomt, ontstaat deze aansprakelijkheid wanneer de goederen deze landen binnenkomen of, indien het TIR-vervoer wordt onderbroken krachtens het bepaalde in [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=26&z=2015-01-01&g=2015-01-01), wanneer het carnet TIR wordt ingeschreven door het douanekantoor waar het TIR-vervoer wordt hervat.
 
 5. De aansprakelijkheid van de organisatie die zich garant heeft gesteld, heeft niet alleen betrekking op de goederen die in het carnet TIR zijn vermeld, doch strekt zich tevens uit tot de goederen die, hoewel zij niet in dat carnet zijn vermeld, zich in het verzegelde gedeelte van het wegvoertuig of in de verzegelde container bevinden; de aansprakelijkheid heeft geen betrekking op andere goederen.
 
@@ -172,7 +172,7 @@ De carnets TIR die aan de organisaties die zich garant hebben gesteld worden toe
 
 1. De zuivering van een TIR-operatie dient onverwijld plaats te vinden.
 
-2. Wanneer de douaneautoriteiten van een Overeenkomstsluitende Partij een TIR-operatie hebben gezuiverd, kunnen zij van de aansprakelijke organisatie niet meer de betaling vorderen van de bedragen bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10), tenzij het certificaat van beëindiging van de TIR-operatie ten onrechte of op frauduleuze wijze werd verkregen of geen beëindiging heeft plaatsgevonden.
+2. Wanneer de douaneautoriteiten van een Overeenkomstsluitende Partij een TIR-operatie hebben gezuiverd, kunnen zij van de aansprakelijke organisatie niet meer de betaling vorderen van de bedragen bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01), tenzij het certificaat van beëindiging van de TIR-operatie ten onrechte of op frauduleuze wijze werd verkregen of geen beëindiging heeft plaatsgevonden.
 
 ##### Artikel 11
 
@@ -184,9 +184,9 @@ De carnets TIR die aan de organisaties die zich garant hebben gesteld worden toe
 
 De bevoegde autoriteiten stellen de aansprakelijke organisatie in kennis binnen één jaar na de aanvaarding van het TIR-carnet door die autoriteiten of binnen twee jaar wanneer het certificaat van beëindiging van de TIR-operatie vals was of ten onrechte of op frauduleuze wijze verkregen.
 
-2. Wanneer de in de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10), bedoelde bedragen opeisbaar worden, moeten de bevoegde autoriteiten voor zover mogelijk de betaling hiervan eisen van de persoon of personen die deze bedragen rechtstreeks verschuldigd is of zijn, alvorens een vordering tot betaling in te dienen bij de aansprakelijke organisatie.
+2. Wanneer de in de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01), bedoelde bedragen opeisbaar worden, moeten de bevoegde autoriteiten voor zover mogelijk de betaling hiervan eisen van de persoon of personen die deze bedragen rechtstreeks verschuldigd is of zijn, alvorens een vordering tot betaling in te dienen bij de aansprakelijke organisatie.
 
-3. De vordering tot betaling van de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10), bedoelde bedragen wordt aan de aansprakelijke organisatie gericht op zijn vroegst drie maanden na de datum waarop deze organisatie ervan in kennis is gesteld dat de operatie niet is gezuiverd of dat het certificaat van beëindiging van de TIR-operatie vals was of ten onrechte of op frauduleuze wijze werd verkregen, en uiterlijk twee jaar na deze datum. Echter, voor TIR-operaties die tijdens bovengenoemde termijn van twee jaar het onderwerp zijn geworden van bestuurlijke of gerechtelijke procedures betreffende de verschuldigdheid tot betaling van de in het tweede lid van dit artikel bedoelde persoon of personen, worden vorderingen tot betaling ingediend binnen een jaar nadat de beschikking van de bevoegde autoriteiten of rechtbanken afdwingbaar is geworden.
+3. De vordering tot betaling van de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01), bedoelde bedragen wordt aan de aansprakelijke organisatie gericht op zijn vroegst drie maanden na de datum waarop deze organisatie ervan in kennis is gesteld dat de operatie niet is gezuiverd of dat het certificaat van beëindiging van de TIR-operatie vals was of ten onrechte of op frauduleuze wijze werd verkregen, en uiterlijk twee jaar na deze datum. Echter, voor TIR-operaties die tijdens bovengenoemde termijn van twee jaar het onderwerp zijn geworden van bestuurlijke of gerechtelijke procedures betreffende de verschuldigdheid tot betaling van de in het tweede lid van dit artikel bedoelde persoon of personen, worden vorderingen tot betaling ingediend binnen een jaar nadat de beschikking van de bevoegde autoriteiten of rechtbanken afdwingbaar is geworden.
 
 4. De aansprakelijke organisatie betaalt de gevorderde bedragen binnen drie maanden nadat de vordering tot betaling bij haar werd ingediend.
 
@@ -198,17 +198,17 @@ De bevoegde autoriteiten stellen de aansprakelijke organisatie in kennis binnen 
 
 ##### Artikel 12
 
-Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2013-10-10&g=2013-10-10) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2013-10-10&g=2013-10-10) vindt slechts toepassing op wegvoertuigen die, wat betreft bouw en inrichting, voldoen aan de voorwaarden omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2013-10-10&g=2013-10-10) bij deze Overeenkomst en zijn goedgekeurd overeenkomstig de procedure omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2013-10-10&g=2013-10-10) bij deze Overeenkomst. Het certificaat van goedkeuring dient overeen te stemmen met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2013-10-10&g=2013-10-10) opgenomen model.
+Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2015-01-01&g=2015-01-01) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2015-01-01&g=2015-01-01) vindt slechts toepassing op wegvoertuigen die, wat betreft bouw en inrichting, voldoen aan de voorwaarden omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2015-01-01&g=2015-01-01) bij deze Overeenkomst en zijn goedgekeurd overeenkomstig de procedure omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2015-01-01&g=2015-01-01) bij deze Overeenkomst. Het certificaat van goedkeuring dient overeen te stemmen met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2015-01-01&g=2015-01-01) opgenomen model.
 
 ##### Artikel 13
 
-1. Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2013-10-10&g=2013-10-10) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2013-10-10&g=2013-10-10) vindt slechts toepassing op containers die zijn gebouwd overeenkomstig de voorwaarden omschreven in het eerste deel van bijlage 7 en zijn goedgekeurd overeenkomstig de procedure omschreven in het tweede deel van bedoelde bijlage.
+1. Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2015-01-01&g=2015-01-01) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2015-01-01&g=2015-01-01) vindt slechts toepassing op containers die zijn gebouwd overeenkomstig de voorwaarden omschreven in het eerste deel van bijlage 7 en zijn goedgekeurd overeenkomstig de procedure omschreven in het tweede deel van bedoelde bijlage.
 
 2. Containers die voor het goederenvervoer onder douaneverzegeling zijn goedgekeurd in toepassing van de [Douane-overeenkomst betreffende containers](https://wetten.overheid.nl/jci1.3:c:BWBV0005184), 1956, van de hieruit voortgevloeide regelingen die zijn getroffen onder auspiciën van de Verenigde Naties, van de Douane-overeenkomst betreffende containers, 1972, of van alle internationale regelingen waardoor laatstbedoelde Overeenkomst zou worden vervangen of gewijzigd, worden geacht te voldoen aan het bepaalde in het eerste lid van dit artikel en moeten, zonder nieuwe goedkeuring, worden aanvaard voor vervoer onder de TIR-regeling.
 
 ##### Artikel 14
 
-1. Iedere Overeenkomstsluitende Partij behoudt zich het recht voor om erkenning te weigeren van de geldigheid van de goedkeuring van wegvoertuigen of containers die niet voldoen aan de voorwaarden bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=12&z=2013-10-10&g=2013-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=13&z=2013-10-10&g=2013-10-10) hierboven. De Overeenkomstsluitende Partijen vermijden evenwel het vervoer op te houden wanneer de vastgestelde gebreken zo onbelangrijk zijn dat daardoor geen fraude kan ontstaan.
+1. Iedere Overeenkomstsluitende Partij behoudt zich het recht voor om erkenning te weigeren van de geldigheid van de goedkeuring van wegvoertuigen of containers die niet voldoen aan de voorwaarden bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=12&z=2015-01-01&g=2015-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=13&z=2015-01-01&g=2015-01-01) hierboven. De Overeenkomstsluitende Partijen vermijden evenwel het vervoer op te houden wanneer de vastgestelde gebreken zo onbelangrijk zijn dat daardoor geen fraude kan ontstaan.
 
 2. Alvorens opnieuw te worden gebruikt voor goederenvervoer onder douaneverzegeling, moeten de wegvoertuigen of de containers die niet meer voldoen aan de voorwaarden op grond waarvan zij destijds zijn goedgekeurd, hetzij in de oorspronkelijke staat worden teruggebracht hetzij opnieuw worden goedgekeurd.
 
@@ -222,7 +222,7 @@ Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=
 
 ##### Artikel 16
 
-Wanneer een TIR-vervoer plaatsvindt met een wegvoertuig of met een vervoerscombinatie, moet dit voertuig of deze vervoerscombinatie aan de voorzijde en aan de achterzijde zijn voorzien van een zelfde rechthoekige plaat met het opschrift „TIR”, waarvan de kenmerken in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2013-10-10&g=2013-10-10) bij deze Overeenkomst zijn omschreven. Deze platen moeten zodanig zijn aangebracht dat zij goed zichtbaar zijn. Zij moeten afneembaar zijn of op zodanige wijze zijn gemonteerd of ontworpen dat zij kunnen worden omgedraaid, afgedekt, opgeklapt, dan wel op enige andere wijze aangeven dat er geen TIR-vervoer plaatsvindt.
+Wanneer een TIR-vervoer plaatsvindt met een wegvoertuig of met een vervoerscombinatie, moet dit voertuig of deze vervoerscombinatie aan de voorzijde en aan de achterzijde zijn voorzien van een zelfde rechthoekige plaat met het opschrift „TIR”, waarvan de kenmerken in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2015-01-01&g=2015-01-01) bij deze Overeenkomst zijn omschreven. Deze platen moeten zodanig zijn aangebracht dat zij goed zichtbaar zijn. Zij moeten afneembaar zijn of op zodanige wijze zijn gemonteerd of ontworpen dat zij kunnen worden omgedraaid, afgedekt, opgeklapt, dan wel op enige andere wijze aangeven dat er geen TIR-vervoer plaatsvindt.
 
 ##### Artikel 17
 
@@ -248,7 +248,7 @@ Op ieder douanekantoor van doorgang alsmede op de douanekantoren van bestemming 
 
 ##### Artikel 22
 
-1. In de regel, en behalve wanneer de goederen worden gevisiteerd in toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=c&artikel=5&z=2013-10-10&g=2013-10-10), aanvaarden de douaneautoriteiten van de douanekantoren van doorgang van iedere Overeenkomstsluitende Partij de douaneverzegeling van de andere Overeenkomstsluitende Partijen, mits deze verzegeling intact is. Bedoelde douaneautoriteiten kunnen evenwel hun eigen verzegeling eraan toevoegen, indien dit voor de controle noodzakelijk is.
+1. In de regel, en behalve wanneer de goederen worden gevisiteerd in toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=c&artikel=5&z=2015-01-01&g=2015-01-01), aanvaarden de douaneautoriteiten van de douanekantoren van doorgang van iedere Overeenkomstsluitende Partij de douaneverzegeling van de andere Overeenkomstsluitende Partijen, mits deze verzegeling intact is. Bedoelde douaneautoriteiten kunnen evenwel hun eigen verzegeling eraan toevoegen, indien dit voor de controle noodzakelijk is.
 
 2. De douaneverzegeling die aldus is aanvaard door een Overeenkomstsluitende Partij, geniet op het grondgebied van die Partij dezelfde juridische bescherming als de nationale verzegeling.
 
@@ -266,11 +266,11 @@ Indien de douaneautoriteiten onderweg of op een douanekantoor van doorgang de la
 
 ##### Artikel 25
 
-Indien een douaneverzegeling onderweg is verbroken in andere gevallen dan die bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=24&z=2013-10-10&g=2013-10-10) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&artikel=35&z=2013-10-10&g=2013-10-10), of indien goederen zijn teloorgegaan of zijn beschadigd zonder dat de verzegeling werd verbroken, wordt de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=1&z=2013-10-10&g=2013-10-10) bij deze Overeenkomst voor het gebruik van het carnet TIR vastgestelde procedure gevolgd, zulks onverminderd de eventuele toepassing van de bepalingen van de nationale wetgevingen en wordt een proces-verbaal van bevinding opgemaakt, dat zich in het carnet TIR bevindt.
+Indien een douaneverzegeling onderweg is verbroken in andere gevallen dan die bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=24&z=2015-01-01&g=2015-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&artikel=35&z=2015-01-01&g=2015-01-01), of indien goederen zijn teloorgegaan of zijn beschadigd zonder dat de verzegeling werd verbroken, wordt de in bijlage 1 bij deze Overeenkomst voor het gebruik van het carnet TIR vastgestelde procedure gevolgd, zulks onverminderd de eventuele toepassing van de bepalingen van de nationale wetgevingen en wordt een proces-verbaal van bevinding opgemaakt, dat zich in het carnet TIR bevindt.
 
 ##### Artikel 26
 
-1. Wanneer het vervoer onder dekking van een carnet TIR voor een gedeelte van het traject plaatsvindt over het grondgebied van een Staat die geen Partij is bij deze Overeenkomst, wordt het TIR-vervoer voor dat gedeelte opgeschort. In dat geval aanvaarden de douaneautoriteiten van de Overeenkomstsluitende Partij over het grondgebied waarvan het vervoer vervolgens geschiedt, het carnet TIR voor de hervatting van het TIR-vervoer mits de douaneverzegeling en/of de herkenningstekens intact zijn gebleven. Wanneer de douaneverzegelingen niet intact zijn gebleven, kunnen de douaneautoriteiten het carnet TIR voor hervatting van het TIR-vervoer aanvaarden ingevolge de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=25&z=2013-10-10&g=2013-10-10).
+1. Wanneer het vervoer onder dekking van een carnet TIR voor een gedeelte van het traject plaatsvindt over het grondgebied van een Staat die geen Partij is bij deze Overeenkomst, wordt het TIR-vervoer voor dat gedeelte opgeschort. In dat geval aanvaarden de douaneautoriteiten van de Overeenkomstsluitende Partij over het grondgebied waarvan het vervoer vervolgens geschiedt, het carnet TIR voor de hervatting van het TIR-vervoer mits de douaneverzegeling en/of de herkenningstekens intact zijn gebleven. Wanneer de douaneverzegelingen niet intact zijn gebleven, kunnen de douaneautoriteiten het carnet TIR voor hervatting van het TIR-vervoer aanvaarden ingevolge de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=25&z=2015-01-01&g=2015-01-01).
 
 2. Dit geldt eveneens voor het gedeelte van het traject waarover het carnet TIR niet door de houder van het carnet wordt gebruikt op het grondgebied van een Overeenkomstsluitende Partij, wegens het bestaan van eenvoudiger procedures voor douanevervoer of wanneer een regeling voor douanevervoer niet noodzakelijk is.
 
@@ -278,7 +278,7 @@ Indien een douaneverzegeling onderweg is verbroken in andere gevallen dan die be
 
 ##### Artikel 27
 
-Behoudens de bepalingen van deze Overeenkomst, in het bijzonder het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=18&z=2013-10-10&g=2013-10-10), kan een douanekantoor van bestemming dat oorspronkelijk als zodanig is aangewezen, door een ander douanekantoor van bestemming worden vervangen.
+Behoudens de bepalingen van deze Overeenkomst, in het bijzonder het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=18&z=2015-01-01&g=2015-01-01), kan een douanekantoor van bestemming dat oorspronkelijk als zodanig is aangewezen, door een ander douanekantoor van bestemming worden vervangen.
 
 ##### Artikel 28
 
@@ -290,7 +290,7 @@ Behoudens de bepalingen van deze Overeenkomst, in het bijzonder het bepaalde in 
 
 ##### Artikel 29
 
-1. De bepalingen van dit deel zijn slechts van toepassing op het vervoer van zware of omvangrijke goederen, zoals omschreven in [artikel 1, onderdeel p)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=a&artikel=1&z=2013-10-10&g=2013-10-10), van deze Overeenkomst.
+1. De bepalingen van dit deel zijn slechts van toepassing op het vervoer van zware of omvangrijke goederen, zoals omschreven in [artikel 1, onderdeel p)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=a&artikel=1&z=2015-01-01&g=2015-01-01), van deze Overeenkomst.
 
 2. Wanneer de bepalingen van dit deel van toepassing zijn, kan het vervoer van zware of omvangrijke goederen, indien de autoriteiten van het douanekantoor van vertrek zulks beslissen, geschieden met niet-verzegelde voertuigen of containers.
 
@@ -354,7 +354,7 @@ Wanneer ten genoegen van de douaneautoriteiten is aangetoond dat de op het manif
 
 ##### Artikel 42
 
-Op een met redenen omkleed verzoek van een Overeenkomstsluitende Partij verstrekken de bevoegde autoriteiten van de bij een TIR-vervoer betrokken Overeenkomstsluitende Partijen bedoelde Partij alle beschikbare gegevens die nodig mochten zijn voor de toepassing van het bepaalde in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=39&z=2013-10-10&g=2013-10-10), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=40&z=2013-10-10&g=2013-10-10) en [41](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=41&z=2013-10-10&g=2013-10-10) hierboven.
+Op een met redenen omkleed verzoek van een Overeenkomstsluitende Partij verstrekken de bevoegde autoriteiten van de bij een TIR-vervoer betrokken Overeenkomstsluitende Partijen bedoelde Partij alle beschikbare gegevens die nodig mochten zijn voor de toepassing van het bepaalde in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=39&z=2015-01-01&g=2015-01-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=40&z=2015-01-01&g=2015-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=41&z=2015-01-01&g=2015-01-01) hierboven.
 
 ##### Artikel 42 bis
 
@@ -364,7 +364,7 @@ De bevoegde autoriteiten nemen in nauwe samenwerking met de organisaties alle no
 
 ##### Artikel 43
 
-In de toelichting in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2013-10-10&g=2013-10-10) en [7 (derde deel)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2013-10-10&g=2013-10-10) wordt uitlegging gegeven van enkele bepalingen van deze Overeenkomst en van de daarbij behorende bijlagen; zij bevat tevens enkele aanbevelingen.
+In de toelichting in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2015-01-01&g=2015-01-01) en [7 (derde deel)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2015-01-01&g=2015-01-01) wordt uitlegging gegeven van enkele bepalingen van deze Overeenkomst en van de daarbij behorende bijlagen; zij bevat tevens enkele aanbevelingen.
 
 ### Hoofdstuk VI. DIVERSE BEPALINGEN
 
@@ -372,7 +372,7 @@ In de toelichting in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 Iedere Overeenkomstsluitende Partij verleent aan de betrokken organisaties die zich garant hebben gesteld, faciliteiten wat betreft:
 
-- a). de overmaking van de deviezen die nodig zijn voor de betaling van de bedragen die door de autoriteiten van de Overeenkomstsluitende Partijen worden gevorderd krachtens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10) van deze Overeenkomst, en
+- a). de overmaking van de deviezen die nodig zijn voor de betaling van de bedragen die door de autoriteiten van de Overeenkomstsluitende Partijen worden gevorderd krachtens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01) van deze Overeenkomst, en
 
 - b). de overmaking van de deviezen die nodig zijn voor de betaling van de carnets TIR die aan de organisaties die zich garant hebben gesteld worden gezonden door soortgelijke buitenlandse organisaties of door de internationale organisaties.
 
@@ -428,9 +428,9 @@ De bijlagen bij deze Overeenkomst vormen een integrerend deel van deze Overeenko
 
 ##### Artikel 53. Inwerkingtreding
 
-1. Deze Overeenkomst treedt in werking zes maanden na de datum waarop vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
+1. Deze Overeenkomst treedt in werking zes maanden na de datum waarop vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
-2. Nadat vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, treedt deze Overeenkomst voor alle nieuwe Overeenkomstsluitende Partijen in werking zes maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. Nadat vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, treedt deze Overeenkomst voor alle nieuwe Overeenkomstsluitende Partijen in werking zes maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 3. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die is nedergelegd na de inwerkingtreding van een wijziging van deze Overeenkomst, wordt beschouwd te gelden voor de gewijzigde tekst van deze Overeenkomst.
 
@@ -470,7 +470,7 @@ Indien na de inwerkingtreding van deze Overeenkomst het aantal Staten dat Overee
 
 ##### Artikel 58. Voorbehoud
 
-1. Iedere Staat kan bij ondertekening of bekrachtiging van dan wel bij toetreding tot deze Overeenkomst verklaren zich niet gebonden te achten door het bepaalde in [artikel 57, tweede t/m zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2013-10-10&g=2013-10-10), van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn door het bepaalde in deze leden niet gebonden jegens iedere Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+1. Iedere Staat kan bij ondertekening of bekrachtiging van dan wel bij toetreding tot deze Overeenkomst verklaren zich niet gebonden te achten door het bepaalde in [artikel 57, tweede t/m zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2015-01-01&g=2015-01-01), van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn door het bepaalde in deze leden niet gebonden jegens iedere Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
 
 2. Iedere Overeenkomstsluitende Partij die een voorbehoud heeft gemaakt overeenkomstig het bepaalde in het eerste lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
 
@@ -482,55 +482,55 @@ Er wordt een Commissie van beheer ingesteld die is samengesteld uit alle Overeen
 
 ##### Artikel 58 ter. TIR Uitvoerend Comité
 
-De Commissie van beheer stelt een TIR Uitvoerend Comité in als ondergeschikt orgaan dat namens haar de taken zal uitvoeren die haar door de Overeenkomst en door de Commissie van beheer worden opgedragen. De samenstelling, de taken en het reglement van orde van het TIR Uitvoerend Comité worden uiteengezet in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2013-10-10&g=2013-10-10).
+De Commissie van beheer stelt een TIR Uitvoerend Comité in als ondergeschikt orgaan dat namens haar de taken zal uitvoeren die haar door de Overeenkomst en door de Commissie van beheer worden opgedragen. De samenstelling, de taken en het reglement van orde van het TIR Uitvoerend Comité worden uiteengezet in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 59. Procedure van wijziging van deze Overeenkomst
 
 1. Deze Overeenkomst, met inbegrip van haar bijlagen, kan worden gewijzigd op voorstel van een Overeenkomstsluitende Partij overeenkomstig de procedure bedoeld in dit artikel.
 
-2. Iedere op deze Overeenkomst voorgestelde wijziging wordt onderzocht door de Commissie van beheer die is samengesteld uit alle Overeenkomstsluitende Partijen overeenkomstig het in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2013-10-10&g=2013-10-10) opgenomen reglement van orde. Iedere wijziging van dien aard die is onderzocht of uitgewerkt tijdens de bijeenkomst van de Commissie van beheer en door de Commissie, is aangenomen met een meerderheid van twee derde van haar aanwezige leden die hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties aan de Overeenkomstsluitende Partijen voor aanvaarding medegedeeld.
+2. Iedere op deze Overeenkomst voorgestelde wijziging wordt onderzocht door de Commissie van beheer die is samengesteld uit alle Overeenkomstsluitende Partijen overeenkomstig het in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2015-01-01&g=2015-01-01) opgenomen reglement van orde. Iedere wijziging van dien aard die is onderzocht of uitgewerkt tijdens de bijeenkomst van de Commissie van beheer en door de Commissie, is aangenomen met een meerderheid van twee derde van haar aanwezige leden die hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties aan de Overeenkomstsluitende Partijen voor aanvaarding medegedeeld.
 
-3. Behoudens het bepaalde in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2013-10-10&g=2013-10-10), treedt iedere voorgestelde wijziging die is medegedeeld in toepassing van het bepaalde in het voorgaande lid, voor alle Overeenkomstsluitende Partijen in werking drie maanden na een tijdvak van twaalf maanden volgend op de datum waarop de mededeling is gedaan, tenzij een Staat die Overeenkomstsluitende Partij is gedurende bedoeld tijdvak, bij de Secretaris-Generaal van de Verenigde Naties bezwaar tegen de voorgestelde wijziging heeft gemaakt.
+3. Behoudens het bepaalde in [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2015-01-01&g=2015-01-01), treedt iedere voorgestelde wijziging die is medegedeeld in toepassing van het bepaalde in het voorgaande lid, voor alle Overeenkomstsluitende Partijen in werking drie maanden na een tijdvak van twaalf maanden volgend op de datum waarop de mededeling is gedaan, tenzij een Staat die Overeenkomstsluitende Partij is gedurende bedoeld tijdvak, bij de Secretaris-Generaal van de Verenigde Naties bezwaar tegen de voorgestelde wijziging heeft gemaakt.
 
 4. Indien er overeenkomstig het bepaalde in het derde lid van dit artikel bezwaar is gemaakt tegen de voorgestelde wijziging, wordt de wijziging geacht niet te zijn aanvaard en wordt deze niet van kracht.
 
-##### Artikel 60. Bijzondere procedure voor het wijzigen van de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=1&z=2013-10-10&g=2013-10-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2013-10-10&g=2013-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2013-10-10&g=2013-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2013-10-10&g=2013-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2013-10-10&g=2013-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2013-10-10&g=2013-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2013-10-10&g=2013-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2013-10-10&g=2013-10-10), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2013-10-10&g=2013-10-10) en 10
+##### Artikel 60. Bijzondere procedure voor het wijzigen van de Bijlagen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2015-01-01&g=2015-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2015-01-01&g=2015-01-01) en 10
 
-1. Iedere op de [Bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=1&z=2013-10-10&g=2013-10-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2013-10-10&g=2013-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2013-10-10&g=2013-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2013-10-10&g=2013-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2013-10-10&g=2013-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2013-10-10&g=2013-10-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2013-10-10&g=2013-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2013-10-10&g=2013-10-10), 9 en 10 voorgestelde wijziging die is onderzocht overeenkomstig [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2013-10-10&g=2013-10-10), eerste en tweede lid, treedt in werking op een datum die door de Commissie van Beheer zal worden vastgesteld op het tijdstip waarop de wijziging wordt aangenomen, tenzij op een tegelijkertijd door de Commissie van Beheer vast te stellen eerdere datum een vijfde van de Staten die Overeenkomstsluitende Partij zijn of vijf Staten die Overeenkomstsluitende Partij zijn, al naar gelang welk aantal lager is, de Secretaris-Generaal van de Verenigde Naties ervan in kennis hebben gesteld dat zij bezwaar maken tegen de wijziging. De in dit lid bedoelde data worden door de Commissie van Beheer vastgesteld met een meerderheid van twee derde van haar aanwezige leden die hun stem uitbrengen.
+1. Iedere op de Bijlagen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2015-01-01&g=2015-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2015-01-01&g=2015-01-01), 9 en 10 voorgestelde wijziging die is onderzocht overeenkomstig [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2015-01-01&g=2015-01-01), eerste en tweede lid, treedt in werking op een datum die door de Commissie van Beheer zal worden vastgesteld op het tijdstip waarop de wijziging wordt aangenomen, tenzij op een tegelijkertijd door de Commissie van Beheer vast te stellen eerdere datum een vijfde van de Staten die Overeenkomstsluitende Partij zijn of vijf Staten die Overeenkomstsluitende Partij zijn, al naar gelang welk aantal lager is, de Secretaris-Generaal van de Verenigde Naties ervan in kennis hebben gesteld dat zij bezwaar maken tegen de wijziging. De in dit lid bedoelde data worden door de Commissie van Beheer vastgesteld met een meerderheid van twee derde van haar aanwezige leden die hun stem uitbrengen.
 
 2. Een wijziging die is aangenomen overeenkomstig de procedure bedoeld in het eerste lid hierboven, treedt, zodra zij van kracht wordt, voor alle Overeenkomstsluitende Partijen in de plaats van de vroegere bepaling of bepalingen waarop zij betrekking heeft.
 
 ##### Artikel 61. Verzoeken, mededelingen en bezwaren
 
-De Secretaris-Generaal van de Verenigde Naties geeft alle Overeenkomstsluitende Partijen en alle Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), van deze Overeenkomst kennis van ieder verzoek, mededeling of bezwaar overeenkomstig het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2013-10-10&g=2013-10-10) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2013-10-10&g=2013-10-10) hierboven en van het tijdstip waarop een wijziging van kracht wordt.
+De Secretaris-Generaal van de Verenigde Naties geeft alle Overeenkomstsluitende Partijen en alle Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), van deze Overeenkomst kennis van ieder verzoek, mededeling of bezwaar overeenkomstig het bepaalde in de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2015-01-01&g=2015-01-01) en [60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2015-01-01&g=2015-01-01) hierboven en van het tijdstip waarop een wijziging van kracht wordt.
 
 ##### Artikel 62. Herzieningsconferentie
 
 1. Iedere Staat die Overeenkomstsluitende Partij is, kan door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verzoeken om bijeenroeping van een conferentie met het doel deze Overeenkomst te herzien.
 
-2. Een herzieningsconferentie, waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), bedoelde Staten worden uitgenodigd, wordt bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties indien, binnen zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties de kennisgeving heeft verzonden, ten minste een vierde van de Staten die Overeenkomstsluitende Partij zijn hem mededelen dat zij met het verzoek instemmen.
+2. Een herzieningsconferentie, waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), bedoelde Staten worden uitgenodigd, wordt bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties indien, binnen zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties de kennisgeving heeft verzonden, ten minste een vierde van de Staten die Overeenkomstsluitende Partij zijn hem mededelen dat zij met het verzoek instemmen.
 
-3. Een herzieningsconferentie waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), bedoelde Staten worden uitgenodigd, wordt eveneens bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties nadat de Commissie van beheer hiertoe een verzoek heeft ingediend. Het besluit een dergelijk verzoek in te dienen, wordt door de Commissie van beheer genomen met een meerderheid van haar aanwezige leden die hun stem uitbrengen.
+3. Een herzieningsconferentie waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), bedoelde Staten worden uitgenodigd, wordt eveneens bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties nadat de Commissie van beheer hiertoe een verzoek heeft ingediend. Het besluit een dergelijk verzoek in te dienen, wordt door de Commissie van beheer genomen met een meerderheid van haar aanwezige leden die hun stem uitbrengen.
 
 4. Indien een conferentie wordt bijeengeroepen in toepassing van het bepaalde in het eerste of het derde lid van dit artikel, doet de Secretaris-Generaal van de Verenigde Naties hiervan alle Overeenkomstsluitende Partijen mededeling en nodigt hen uit om binnen een termijn van drie maanden de voorstellen in te dienen die zij aan de conferentie zouden willen voorleggen. De Secretaris-Generaal van de Verenigde Naties doet alle Overeenkomstsluitende Partijen een voorlopige agenda van de conferentie alsmede de tekst van bedoelde voorstellen toekomen ten minste drie maanden voordat de conferentie wordt geopend.
 
 ##### Artikel 63. Kennisgevingen
 
-Behalve van de kennisgevingen en mededelingen bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=61&z=2013-10-10&g=2013-10-10) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=62&z=2013-10-10&g=2013-10-10), doet de Secretaris-Generaal van de Verenigde Naties alle in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10) bedoelde Staten kennisgeving van:
+Behalve van de kennisgevingen en mededelingen bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=61&z=2015-01-01&g=2015-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=62&z=2015-01-01&g=2015-01-01), doet de Secretaris-Generaal van de Verenigde Naties alle in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01) bedoelde Staten kennisgeving van:
 
-- a). de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10);
+- a). de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01);
 
-- b). de data van inwerkingtreding van deze Overeenkomst krachtens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=53&z=2013-10-10&g=2013-10-10);
+- b). de data van inwerkingtreding van deze Overeenkomst krachtens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=53&z=2015-01-01&g=2015-01-01);
 
-- c). de opzeggingen krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=54&z=2013-10-10&g=2013-10-10);
+- c). de opzeggingen krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=54&z=2015-01-01&g=2015-01-01);
 
-- d). de beëindiging van deze Overeenkomst krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=55&z=2013-10-10&g=2013-10-10);
+- d). de beëindiging van deze Overeenkomst krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=55&z=2015-01-01&g=2015-01-01);
 
-- e). elk voorbehoud dat is gemaakt krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58&z=2013-10-10&g=2013-10-10).
+- e). elk voorbehoud dat is gemaakt krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 64. Authentieke tekst
 
-Na 31 december 1976 wordt het originele exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die hiervan voor eensluidend gewaarmerkte afschriften doet toekomen aan iedere Overeenkomstsluitende Partij alsmede aan iedere Staat bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), die geen Overeenkomstsluitende Partij is.
+Na 31 december 1976 wordt het originele exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die hiervan voor eensluidend gewaarmerkte afschriften doet toekomen aan iedere Overeenkomstsluitende Partij alsmede aan iedere Staat bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), die geen Overeenkomstsluitende Partij is.
 
 #### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN DE COMMISSIE VAN BEHEER
 
@@ -542,7 +542,7 @@ ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel
 
 ##### Artikel 1 bis
 
-1. De Commissie onderzoekt ieder voorstel tot wijziging van de Overeenkomst overeenkomstig [artikel 59, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2013-10-10&g=2013-10-10).
+1. De Commissie onderzoekt ieder voorstel tot wijziging van de Overeenkomst overeenkomstig [artikel 59, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2015-01-01&g=2015-01-01).
 
 2. De Commissie ziet toe op de naleving van de Overeenkomst en onderzoekt alle maatregelen die ingevolge de Overeenkomst worden genomen door de Overeenkomstsluitende Partijen, door de organisaties en door de internationale organisaties, en onderzoekt of deze maatregelen in overeenstemming zijn met de Overeenkomst.
 
@@ -736,7 +736,7 @@ In Bijlage 10 wordt de informatie uiteengezet die in bijzondere gevallen dient t
 
 i. De Overeenkomstsluitende Partijen zijn lid van de Commissie van Beheer.
 
-ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2013-10-10&g=2013-10-10), van deze Overeenkomst bedoelde Staten die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties haar zittingen als waarnemers kunnen bijwonen voor aangelegenheden die hun aangaan.
+ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2015-01-01&g=2015-01-01), van deze Overeenkomst bedoelde Staten die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties haar zittingen als waarnemers kunnen bijwonen voor aangelegenheden die hun aangaan.
 
 ##### Artikel 2
 
@@ -770,7 +770,7 @@ Indien in deze bijlage ter zake dienende bepalingen ontbreken, is het reglement 
 
 ##### Artikel 9
 
-1. Het ingevolge [artikel 58 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58_ter&z=2013-10-10&g=2013-10-10) door de Commissie van Beheer in het leven geroepen TIR Uitvoerend Comité bestaat uit negen leden van verschillende Overeenkomstsluitende Partijen. De Secretaris van de TIR-Overeenkomst woont de zittingen van de Controlecommissie bij.
+1. Het ingevolge [artikel 58 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58_ter&z=2015-01-01&g=2015-01-01) door de Commissie van Beheer in het leven geroepen TIR Uitvoerend Comité bestaat uit negen leden van verschillende Overeenkomstsluitende Partijen. De Secretaris van de TIR-Overeenkomst woont de zittingen van de Controlecommissie bij.
 
 2. De leden van het TIR Uitvoerend Comité worden gekozen met een meerderheid van stemmen van de aanwezige leden van de Commissie van Beheer die hun stem uitbrengen. De ambtstermijn van elk van de leden van het TIR Uitvoerend Comité is twee jaar. De leden van het TIR Uitvoerend Comité zijn herkiesbaar. Het mandaat van het TIR Uitvoerend Comité wordt opgesteld door de Commissie van Beheer.
 
@@ -780,17 +780,17 @@ Het TIR Uitvoerend Comité:
 
 - a. houdt toezicht op de toepassing van de Overeenkomst, met inbegrip van het functioneren van het garantstellingssysteem, en verricht de taken die haar door de Commissie van Beheer worden toevertrouwd;
 
-- b. houdt toezicht op het centraal drukken en de centrale afgifte van carnets TIR aan organisaties; deze taak kan worden uitgevoerd door een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) bedoelde erkende internationale organisatie.
+- b. houdt toezicht op het centraal drukken en de centrale afgifte van carnets TIR aan organisaties; deze taak kan worden uitgevoerd door een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) bedoelde erkende internationale organisatie.
 
 - c. coördineert en bevordert de uitwisseling van vertrouwelijke gegevens en andere informatie tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
 
 - d. coördineert en bevordert de uitwisseling van gegevens tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, de organisaties en de internationale organisaties;
 
-- e. vergemakkelijkt de beslechting van geschillen tussen de Overeenkomstsluitende Partijen, de organisaties, de verzekeringsmaatschappijen en de internationale organisaties, onverminderd het in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2013-10-10&g=2013-10-10) ten aanzien van de regeling van geschillen bepaalde;
+- e. vergemakkelijkt de beslechting van geschillen tussen de Overeenkomstsluitende Partijen, de organisaties, de verzekeringsmaatschappijen en de internationale organisaties, onverminderd het in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2015-01-01&g=2015-01-01) ten aanzien van de regeling van geschillen bepaalde;
 
 - f. ondersteunt de opleiding van het personeel van de douaneautoriteiten en de andere betrokken partijen bij de TIR-regeling;
 
-- g. houdt een centraal register bij voor de verspreiding, aan de Overeenkomstsluitende Partijen, van de gegevens die door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) bedoelde internationale organisaties worden verschaft betreffende alle door de organisaties voorgeschreven regels en procedures voor de afgifte van carnets TIR, voor zover deze betrekking hebben op de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2013-10-10&g=2013-10-10) bedoelde minimumvoorwaarden en -eisen;
+- g. houdt een centraal register bij voor de verspreiding, aan de Overeenkomstsluitende Partijen, van de gegevens die door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) bedoelde internationale organisaties worden verschaft betreffende alle door de organisaties voorgeschreven regels en procedures voor de afgifte van carnets TIR, voor zover deze betrekking hebben op de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2015-01-01&g=2015-01-01) bedoelde minimumvoorwaarden en -eisen;
 
 - h. houdt toezicht op de prijs van de carnets TIR.
 
@@ -848,7 +848,7 @@ DONE at Geneva, this fourteenth day of November one thousand nine hundred and se
 
 ##### Voorwaarden en eisen
 
-1. Teneinde door de Overeenkomstsluitende Partijen bevoegd te worden verklaard tot de afgifte van carnets TIR en zich garant te stellen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) van de Overeenkomst, moet een organisatie voldoen aan de hieronder genoemde voorwaarden en eisen:
+1. Teneinde door de Overeenkomstsluitende Partijen bevoegd te worden verklaard tot de afgifte van carnets TIR en zich garant te stellen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) van de Overeenkomst, moet een organisatie voldoen aan de hieronder genoemde voorwaarden en eisen:
 
 - a. Aantonen dat zij gedurende ten minste een jaar als organisatie gevestigd is in de Overeenkomstsluitende Partij waar de vergunning wordt afgegeven.
 
@@ -862,27 +862,27 @@ DONE at Geneva, this fourteenth day of November one thousand nine hundred and se
 
 3. De taken van de organisatie zijn als volgt:
 
-- i. nakomen van de in [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10) vastgelegde verplichtingen;
+- i. nakomen van de in [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01) vastgelegde verplichtingen;
 
-- ii. aanvaarden van het door de Overeenkomstsluitende Partijen bepaalde maximumbedrag per carnet TIR dat men in overeenstemming met [artikel 8, derde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10) van de organisatie kan vorderen;
+- ii. aanvaarden van het door de Overeenkomstsluitende Partijen bepaalde maximumbedrag per carnet TIR dat men in overeenstemming met [artikel 8, derde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01) van de organisatie kan vorderen;
 
-- iii. zorgdragen voor de voortdurende verificatie, in het bijzonder voordat verzocht wordt om autorisatie voor toelating van personen tot de TIR-procedure, van de naleving van de minimumvoorwaarden en -eisen vervat in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2013-10-10&g=2013-10-10) van deze Bijlage;
+- iii. zorgdragen voor de voortdurende verificatie, in het bijzonder voordat verzocht wordt om autorisatie voor toelating van personen tot de TIR-procedure, van de naleving van de minimumvoorwaarden en -eisen vervat in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2015-01-01&g=2015-01-01) van deze Bijlage;
 
 - iv. zich garant stellen voor alle mogelijke aansprakelijkheden in het land waarin zij gevestigd is, ter zake van activiteiten die plaatsvinden onder dekking van carnets TIR die zij zelf heeft afgegeven en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten;
 
 - v. zich naar tevredenheid van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd verzekeren tegen aansprakelijkheid bij een verzekeringsmaatschappij, een groep van verzekeraars of een financiële instelling. De verzekeringsovereenkomst of de overeenkomst(en) ten behoeve van de financiële zekerheid dient (dienen) alle aansprakelijkheden te dekken ter zake van activiteiten onder dekking van carnets TIR afgegeven door haarzelf en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten; De opzegtermijn voor de overeenkomst ter zake van de verzekering of financiële zekerheid mag niet korter zijn dan die voor de beëindiging van de schriftelijke overeenkomst of een ander juridisch instrument zoals bedoeld in het eerste lid, letter d. Een voor eensluidend gewaarmerkt afschrift van de overeenkomst(en) ter zake van de verzekering of financiële zekerheid alsmede van alle latere wijzigingen daarvan wordt ingediend bij het TIR Uitvoerend Comité, indien nodig vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch;
 
-- vi. het TIR Uitvoerend Comité ieder jaar per 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;
+- vi. het TIR Uitvoerend Comité ieder jaar vóór 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;
 
 - vii. de bevoegde autoriteiten in staat stellen alle stukken en rekeningen te controleren die verband houden met de administratie van de TIR-procedure;
 
 - viii. een procedure aanvaarden voor het doeltreffend en zoveel mogelijk buitengerechtelijk beslechten van geschillen die voortvloeien uit ondeugdelijk of frauduleus gebruik van carnets TIR;
 
-- ix. strikt naleven van de beslissingen van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij gevestigd is ter zake van de intrekking of opschorting van de vergunning overeenkomstig [artikel 6 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) en [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2013-10-10&g=2013-10-10) van deze Bijlage of de uitsluiting van personen overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2013-10-10&g=2013-10-10) van de Overeenkomst;
+- ix. strikt naleven van de beslissingen van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij gevestigd is ter zake van de intrekking of opschorting van de vergunning overeenkomstig [artikel 6 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) en [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2015-01-01&g=2015-01-01) van deze Bijlage of de uitsluiting van personen overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2015-01-01&g=2015-01-01) van de Overeenkomst;
 
 - x. ermee instemmen alle door de Commissie van Beheer en het TIR Uitvoerend Comité genomen beslissingen nauwgezet uit te voeren voor zover de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar de organisatie gevestigd is deze hebben aanvaard.
 
-4. Indien een organisatie die zich garant stelt verzocht wordt in overeenstemming met de procedure vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=11&z=2013-10-10&g=2013-10-10), de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2013-10-10&g=2013-10-10), bedoelde bedragen te betalen, stelt zij in overeenstemming met de schriftelijke overeenkomst bedoeld in de toelichtende noot 0.6.2bis-1 bij artikel 6, tweede lid, bis, de internationale organisatie in kennis van ontvangst van de vordering.
+4. Indien een organisatie die zich garant stelt verzocht wordt in overeenstemming met de procedure vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=11&z=2015-01-01&g=2015-01-01), de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2015-01-01&g=2015-01-01), bedoelde bedragen te betalen, stelt zij in overeenstemming met de schriftelijke overeenkomst bedoeld in de toelichtende noot 0.6.2bis-1 bij artikel 6, tweede lid, bis, de internationale organisatie in kennis van ontvangst van de vordering.
 
 5. De Overeenkomstsluitende Partij waar de organisatie gevestigd is trekt de bevoegdheid tot het afgeven van carnets TIR en zich garant te stellen in wanneer niet aan deze voorwaarden en eisen wordt voldaan. Indien een Overeenkomstsluitende Partij besluit tot intrekking van de bevoegdheid, wordt dit besluit niet eerder van kracht dan drie (3) maanden na de datum van intrekking.
 
@@ -890,11 +890,11 @@ DONE at Geneva, this fourteenth day of November one thousand nine hundred and se
 
 7. De hieronder genoemde voorwaarden en eisen doen geen afbreuk aan de door de Overeenkomstsluitende Partijen mogelijk voor te schrijven aanvullende voorwaarden en eisen.
 
-## Deel III. Bevoegdverklaring van een internationale organisatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) teneinde de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven.
+## Deel III. Bevoegdverklaring van een internationale organisatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) teneinde de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven.
 
 ##### Voorwaarden en vereisten
 
-1. De voorwaarden en vereisten waaraan een internationale organisatie moet voldoen teneinde in overeenstemming met [artikel 6, tweede lid bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10), van de Overeenkomst door de Commissie van Beheer bevoegd te worden verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven zijn als volgt:
+1. De voorwaarden en vereisten waaraan een internationale organisatie moet voldoen teneinde in overeenstemming met [artikel 6, tweede lid bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01), van de Overeenkomst door de Commissie van Beheer bevoegd te worden verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven zijn als volgt:
 
 - a. De gedegen professionele bekwaamheid en financiële situatie ten behoeve van de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en de organisatorische capaciteiten om aan de verplichtingen uit hoofde van de Overeenkomst te kunnen voldoen worden aangetoond door het jaarlijks overleggen van geconsolideerde jaarrekeningen die naar behoren zijn gecontroleerd door internationaal erkende onafhankelijke accountants;
 
@@ -926,13 +926,13 @@ DONE at Geneva, this fourteenth day of November one thousand nine hundred and se
 
 - m. de bevoegde organen van de TIR-Overeenkomst statistische en andere gegevens verstrekken over het functioneren van de Overeenkomstsluitende Partijen met betrekking tot het controlesysteem voorzien in Bijlage 10;
 
-- n. uiterlijk twee maanden voor de voorlopige datum van inwerkingtreding van of de verlenging van de bevoegdverklaring verleend in overeenstemming met [artikel 6, tweede lid, bis, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10) een schriftelijke overeenkomst sluiten met het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties, gemachtigd door en handelend in opdracht van en namens de Commissie van beheer, met daarin de aanvaarding door de internationale organisatie van haar taken vervat in dit lid.
+- n. uiterlijk twee maanden voor de voorlopige datum van inwerkingtreding van of de verlenging van de bevoegdverklaring verleend in overeenstemming met [artikel 6, tweede lid, bis, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01) een schriftelijke overeenkomst sluiten met het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties, gemachtigd door en handelend in opdracht van en namens de Commissie van beheer, met daarin de aanvaarding door de internationale organisatie van haar taken vervat in dit lid.
 
 3. Indien de internationale organisatie door een garantieverlenende organisatie in kennis wordt gesteld van een vordering tot betaling, stelt zij de garantieverlenende organisatie binnen een tijdvak van drie (3) maanden in kennis van haar standpunt omtrent de vordering.
 
 4. Voor alle informatie die direct of indirect door de internationale organisatie uit hoofde van de Overeenkomst wordt verkregen en van vertrouwelijke aard is of op basis van vertrouwelijkheid wordt verstrekt, geldt de verplichting tot beroepsgeheim en deze informatie mag zonder de uitdrukkelijke toestemming van de persoon of autoriteit die haar heeft verstrekt niet worden gebruikt of verwerkt voor commerciële doeleinden of andere dan de doeleinden waarvoor zij aan een derde werd verstrekt of onthuld. Deze informatie mag echter zonder toestemming worden verstrekt aan de bevoegde autoriteiten van de Overeenkomstsluitende Partijen bij deze Overeenkomst, indien daartoe ingevolge bepalingen van het nationale of internationale recht een machtiging of verplichting bestaat of uit hoofde van een gerechtelijke procedure. Informatie wordt volledig in overeenstemming met de van kracht zijnde wet- en regelgeving inzake de bescherming van persoonsgegevens onthuld of verstrekt.
 
-5. De Commissie van Beheer is gemachtigd een in overeenstemming met [artikel 6, tweede lid, bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2013-10-10&g=2013-10-10), verleende bevoegdverklaring in te trekken indien niet wordt voldaan aan de bovengenoemde voorwaarden en vereisten. Indien de Commissie van Beheer besluit tot intrekking van de bevoegdverklaring, wordt dit besluit niet eerder van kracht dan zes (6) maanden na de datum van intrekking.
+5. De Commissie van Beheer is gemachtigd een in overeenstemming met [artikel 6, tweede lid, bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2015-01-01&g=2015-01-01), verleende bevoegdverklaring in te trekken indien niet wordt voldaan aan de bovengenoemde voorwaarden en vereisten. Indien de Commissie van Beheer besluit tot intrekking van de bevoegdverklaring, wordt dit besluit niet eerder van kracht dan zes (6) maanden na de datum van intrekking.
 
 6. De bevoegdverklaring van een internationale organisatie volgens de in het voorgaande vervatte voorwaarden laat de verantwoordelijkheden en aansprakelijkheid van die organisatie uit hoofde van de Overeenkomst onverlet.
 
