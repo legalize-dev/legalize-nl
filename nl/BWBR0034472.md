@@ -4,7 +4,7 @@ identifier: "BWBR0034472"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-09-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034472"
 soort: "wet"
@@ -93,6 +93,6 @@ Deze wet wordt aangehaald als: Wet versterking kwaliteitswaarborgen hoger onderw
 
 ##### Artikel VII. Inwerkingtreding
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdelen A, Q1, Q2, en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0034472&artikel=I&z=2014-09-01&g=2014-09-01), en [artikel III, onderdelen H tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0034472&artikel=III&z=2014-09-01&g=2014-09-01), geheel of gedeeltelijk kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat [artikel I, onderdelen A, Q1, Q2, en Y](https://wetten.overheid.nl/jci1.3:c:BWBR0034472&artikel=I&z=2015-01-01&g=2015-01-01), en [artikel III, onderdelen H tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0034472&artikel=III&z=2015-01-01&g=2015-01-01), geheel of gedeeltelijk kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
