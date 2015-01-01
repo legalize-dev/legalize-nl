@@ -4,7 +4,7 @@ identifier: "BWBR0034560"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034560"
 soort: "wet"
@@ -112,10 +112,10 @@ Een aanvraag om bekostiging van een regionale omroep voor het jaar 2014 die bij 
 
 ##### Artikel XI
 
-1. Deze wet treedt met uitzondering van de [artikelen I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=I&z=2014-01-01&g=2014-01-01), en[VIa](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=VIa&z=2014-01-01&g=2014-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+1. Deze wet treedt met uitzondering van de [artikelen I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=I&z=2015-01-01&g=2015-01-01), en[VIa](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=VIa&z=2015-01-01&g=2015-01-01) in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=I&z=2014-01-01&g=2014-01-01), treedt in werking met ingang van 1 januari 2015.
+2. [Artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=I&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2015.
 
-3. [Artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=VIa&z=2014-01-01&g=2014-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+3. [Artikel VIA](https://wetten.overheid.nl/jci1.3:c:BWBR0034560&artikel=VIa&z=2015-01-01&g=2015-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
