@@ -4,7 +4,7 @@ identifier: "BWBR0032377"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032377"
 soort: "ministeriele-regeling"
@@ -56,51 +56,25 @@ Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](https://wet
 
 - –. planner wegtransport;
 
-- –. assistent expediteur;
-
 - 2°. directiechauffeur;
 
 - 3°. huisartsenchauffeur;
 
 - 4°. goederenchauffeur en buschauffeur in aanvulling op de wettelijke rijbewijs- en vakbekwaamheidsexamens;
 
-- 5°. de volgende beroepen met betrekking tot verhuizen:
+- 5°. taxichauffeur in aanvulling op de wettelijke vakbekwaamheidsexamens;
 
-- –. assistentverhuizer;
-
-- –. inboedelverhuizer;
-
-- –. voorman inboedelverhuizer;
-
-- –. taxateur inboedelverhuizer;
-
-- –. projectverhuizer;
-
-- –. voorman projectverhuizer;
-
-- –. projectleider projectverhuizingen;
-
-- 6°. taxichauffeur in aanvulling op de wettelijke vakbekwaamheidsexamens;
-
-- 7°. de volgende beroepen met betrekking tot het besturen van interne of logistieke transportmiddelen:
-
-- –. terminaltrekkerbestuurder;
-
-- –. containerheftruckbestuurder;
-
-- –. reachstackerbestuurder;
+- 6°. de volgende beroepen met betrekking tot het besturen van interne of logistieke transportmiddelen:
 
 - –. heftruckbestuurder;
 
 - –. reachtruckbestuurder;
 
-- 8°. chauffeur betrokken bij sierteeltvervoer in aanvulling op de wettelijke vakbekwaamheidsexamens voor chauffeur goederenvervoer;
+- 7°. chauffeur betrokken bij sierteeltvervoer in aanvulling op de wettelijke vakbekwaamheidsexamens voor chauffeur goederenvervoer;
 
-- 9°. chauffeur betrokken bij het vervoer van geconditioneerde transporten in aanvulling op de wettelijke vakbekwaamheidsexamens voor chauffeur goederenvervoer;
+- 8°. chauffeur betrokken bij het vervoer van geconditioneerde transporten in aanvulling op de wettelijke vakbekwaamheidsexamens voor chauffeur goederenvervoer.
 
-- 10°. administratief medewerker betrokken bij de afhandeling van goederen die in de Europese Unie ingevoerd worden of vanuit de Europese Unie uitgevoerd worden;
-
-- b. het certificeren van opleidingen ter voorbereiding op de onder a, aanhef en onder 2°, 4° en 7°, bedoelde examens, het houden van toezicht op deze opleidingen en het registreren van opleidingsdagen voor deze opleidingen;
+- b. het certificeren van opleidingen ter voorbereiding op de onder a, aanhef en onder 2°, 4°, 5° en 6°, bedoelde examens, het houden van toezicht op deze opleidingen en het registreren van opleidingsdagen voor deze opleidingen;
 
 - c. het in stand houden en beheren van een systeem waarin rijscholen kunnen worden ingeschreven, franchiserelaties tussen rijscholen en overdrachten van rijscholen kunnen worden geregistreerd en waarmee rijscholen examens bij het CBR kunnen reserveren;
 
@@ -108,23 +82,23 @@ Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](https://wet
 
 ##### Artikel 2. Voorwaarden
 
-1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2014-07-01&g=2014-07-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
+1. Het CBR brengt voor de activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2015-01-01&g=2015-01-01), tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.
 
-2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2014-07-01&g=2014-07-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
+2. De activiteiten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2015-01-01&g=2015-01-01), gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=4aa) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.
 
 ##### Artikel 3. Wijziging van andere regelingen
 
 Wijzigt de Regeling vakbekwaamheid beroepspersonenvervoer, de Regeling wegvervoer goederen en het Erkenningsbesluit instantie Besluit inzamelen afvalstoffen.
 
-##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2014-07-01&g=2014-07-01)
+##### Artikel 4. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=1&z=2015-01-01&g=2015-01-01)
 
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 5. Inwerkingtreding
 
-1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2014-07-01&g=2014-07-01), treedt in werking met ingang van 1 januari 2013.
+1. Deze regeling, met uitzondering van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2015-01-01&g=2015-01-01), treedt in werking met ingang van 1 januari 2013.
 
-2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2014-07-01&g=2014-07-01) treedt in werking met ingang van 1 januari 2016.
+2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032377&artikel=4&z=2015-01-01&g=2015-01-01) treedt in werking met ingang van 1 januari 2016.
 
 ##### Artikel 6. Citeertitel
 
