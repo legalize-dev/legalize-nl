@@ -4,7 +4,7 @@ identifier: "BWBR0030853"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030853"
 soort: "wet"
@@ -57,9 +57,7 @@ Wijzigt de Wet op het notarisambt.
 
 ##### Artikel IIIa. Overgangsrecht
 
-1. [Artikel 72a van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=72a) en [artikel 83a van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=83a) zijn niet van toepassing indien de ontvangende pensioenuitvoerder de deelnemer voor het tijdstip van inwerkingtreding van [artikel I, onderdeel Ab](https://wetten.overheid.nl/jci1.3:c:BWBR0030853&artikel=I&z=2013-01-01&g=2013-01-01) of [artikel II, onderdeel Bb](https://wetten.overheid.nl/jci1.3:c:BWBR0030853&artikel=II&z=2013-01-01&g=2013-01-01), een opgave of voorlopige opgave heeft verstrekt per de overdrachtsdatum van de overdrachtswaarde en de daaraan ten grondslag liggende gegevens onder vermelding van de aanspraken die zullen voortvloeien uit de waardeoverdracht en de wijze waarop de aanspraken in de pensioenregeling, ondergebracht bij de ontvangende pensioenuitvoerder, zullen worden behandeld.
-
-2. Dit artikel vervalt twee jaar na het tijdstip van inwerkingtreding.
+Vervallen
 
 ##### Artikel IV. Inwerkingtreding
 
