@@ -4,7 +4,7 @@ identifier: "BWBR0030973"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2014-09-13"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030973"
 soort: "AMvB"
@@ -48,23 +48,21 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan [artikel 8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), en [11, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11).
+1. Dit besluit geeft uitvoering aan de [artikelen 8, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8), en [11, tweede lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=11).
 
-2. Dit besluit verstaat onder wet: de [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954).
+2. Dit besluit verstaat onder:
+
+- a. **wet:** de [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954);
+
+- b. **FATCA-verdrag:** het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22).
 
 ##### Artikel 2
 
-1. Als administratieplichtigen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
+1. Als administratieplichtigen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
 2. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen de gegevens en inlichtingen, bedoeld in [artikel 22, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=22). Artikel 22, derde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 is hierbij van overeenkomstige toepassing.
 
-3. Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
-
-- a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
-
-- b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;
-
-- c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.
+3. De administratieplichtigen, bedoeld in het eerste lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
 
 4. Een administratieplichtige kan de verstrekking van gegevens en inlichtingen achterwege laten indien:
 
@@ -78,7 +76,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 3
 
-De administratieplichtigen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2014-09-13&g=2014-09-13), zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart.
+De administratieplichtigen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2&z=2015-01-01&g=2015-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), zijn gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+
+- a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
+
+- b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;
+
+- c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.
 
 ##### Artikel 4
 
@@ -147,5 +151,39 @@ Indien de belastingplichtige een lichaam is dat op grond van [artikel 2, achtste
 9. De gegevens en inlichtingen, bedoeld in het derde en vierde lid, worden uiterlijk bij het doen van de aangifte, bedoeld in [artikel 8 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=8), over het jaar waarop de gegevens en inlichtingen betrekking hebben door de belastingplichtige verstrekt.
 
 10. Het niet, niet tijdig, onjuist of onvolledig verstrekken van de gegevens en inlichtingen, bedoeld in het derde en vierde lid, wordt aangemerkt als een overtreding.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a
+
+1. Als administratieplichtigen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.
+
+2. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
+
+3. Voor de toepassing van het eerste en tweede lid is het een financiële instelling, met inachtneming van artikel 4, zevende lid, van het FATCA-verdrag, toegestaan om in plaats van gebruik te maken van de begripsomschrijvingen in artikel 1 van het FATCA-verdrag en in de bijlagen van het FATCA-verdrag, gebruik te maken van dienovereenkomstige begripsomschrijvingen in de voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in artikel 4, zevende lid, van het FATCA-verdrag.
+
+4. Een administratieplichtige volgt de procedures die zijn opgenomen in bijlage I van het FATCA-verdrag teneinde Amerikaanse te rapporteren rekeningen te identificeren. Een administratieplichtige mag zich, met inachtneming van bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag, bij de toepassing van de eerste volzin baseren op door derden uitgevoerde procedures voor zover voorzien in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag.
+
+5. In afwijking van het vierde lid, eerste volzin, is het een administratieplichtige, met inachtneming van bijlage I, sectie I, onderdeel C, van het FATCA-verdrag, toegestaan om voor het identificeren van Amerikaanse te rapporteren rekeningen de procedures toe te passen die zijn opgenomen in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie I, onderdeel C, van het FATCA-verdrag. Van de mogelijkheid, bedoeld in de eerste volzin, kan gebruik worden gemaakt per sectie van bijlage I afzonderlijk, hetzij voor alle relevante financiële rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk. Het vierde lid, tweede volzin, is van overeenkomstige toepassing.
+
+6. Een administratieplichtige mag gebruikmaken van de keuzemogelijkheden, bedoeld in bijlage I, sectie II, onderdeel A, sectie III, onderdeel A, sectie IV, onderdeel A, en sectie V, onderdeel A, van het FATCA-verdrag. Een administratieplichtige die gebruikmaakt van een keuzemogelijkheid als bedoeld in de eerste volzin, is, afhankelijk van de gemaakte keuze, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, verplicht om met inachtneming van de bepalingen van het FATCA-verdrag, gegevens en inlichtingen te verstrekken over:
+
+- a. de rekeningen, bedoeld in bijlage I, sectie II, onderdeel A, onder 1 tot en met 4, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- b. de rekeningen, bedoeld in bijlage I, sectie III, onderdeel A, onder 1 en 2, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- c. de rekeningen, bedoeld in bijlage I, sectie IV, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- d. de rekeningen, bedoeld in bijlage I, sectie V, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk.
+
+7. Ingeval ingevolge artikel 7 van het FATCA-verdrag gunstigere bepalingen van toepassing zijn dan ingevolge artikel 4 van het FATCA-verdrag en bijlage I van het FATCA-verdrag, mag een administratieplichtige deze gunstigere bepalingen toepassen. Onze Minister maakt de gunstigere bepalingen, bedoeld in de eerste volzin, op een daartoe geschikte wijze publiek bekend.
+
+8. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+
+##### Artikel 2b
+
+1. Als gegevens en inlichtingen als bedoeld in [artikel 8, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=8) worden voor administratieplichtigen als bedoeld in [artikel 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
+
+2. [Artikel 2a, derde, vierde, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030973&artikel=2a&z=2015-01-01&g=2015-01-01), is voor de toepassing van het eerste lid van overeenkomstige toepassing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
