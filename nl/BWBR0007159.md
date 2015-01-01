@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Treedt in werking op het tijdstip waarop de Wet belastingen op milieugrondslag e
 
 ##### Artikel 1
 
-1. Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=25), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), en [27, derde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27).
+1. Deze regeling geeft uitvoering aan de artikelen [14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=14), [20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=21), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=25), [31b, tweede lid](onbekend), [38, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=38), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=39), [44, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [47, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=47), [50, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50), [54, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [60, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=60), [63, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=63), [64, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [66, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=66), [67, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), [71, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=71), en [92, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=92) en de [artikelen 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=18), [19, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=19), en [27, derde lid, van het Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=27).
 
 2. Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -277,13 +277,13 @@ De verklaring, bedoeld in [artikel 6c, eerste en derde lid, van het besluit](htt
 
 ##### Artikel 8
 
-Vervallen
+De houder van de inrichting waaraan afvalstoffen ter verwijdering worden afgegeven die naar Nederland zijn overgebracht als bedoeld in [artikel 23, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=23), neemt in zijn administratie een afschrift op van de kennisgeving, bedoeld in artikel 4 van EVOA.
 
 ### Hoofdstuk IVa. Energiebelasting
 
 ##### Artikel 8a
 
-De herleiding van feitelijke hoeveelheden halfzware olie en gasolie tot hoeveelheden bij een temperatuur van 15° C geschiedt op de voet van artikel 14 van de Uitvoeringsregeling accijns.
+Het aantonen, bedoeld in [artikel 31b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=31b), dat ter zake van afvalstoffen wordt voldaan aan het eerste lid, onderdelen a, b en c, van dat artikel, geschiedt door middel van een accountantsverklaring.
 
 ##### Artikel 8aa
 
@@ -665,29 +665,25 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 16
 
-1. [Artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50) is van toepassing indien degene aan wie het aardgas of de elektriciteit geleverd wordt, een verklaring heeft overgelegd aan de leverancier dat hij leveringen via een aansluiting aan de verbruiker verricht.
+1. [Artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50) is van toepassing indien degene aan wie het aardgas of de elektriciteit geleverd wordt, een verklaring heeft overgelegd aan de leverancier dat hij leveringen aan de verbruiker verricht.
 
 2. De verklaring, bedoeld in het eerste lid, wordt ondertekend en bevat ten minste:
 
 - a. de dagtekening;
 
-- b. naam en adres van degene die op zijn beurt leveringen via een aansluiting aan de verbruiker verricht;
+- b. naam en adres van degene die op zijn beurt leveringen aan de verbruiker verricht; en
 
-- c. naam en adres van de leverancier;
+- c. naam en adres van de leverancier.
 
-- d. de hoeveelheid aardgas of elektriciteit waarop de uitzondering betrekking heeft, en
-
-- e. het kalenderjaar waarop de verklaring betrekking heeft.
-
-3. Degene aan wie met toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50) aardgas of elektriciteit wordt geleverd, dient:
+3. Degene aan wie met toepassing van [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50) aardgas of elektriciteit wordt geleverd, dient:
 
 - a. zijn administratie zodanig in te richten dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de heffing van de energiebelasting van belang zijnde bedrijfshandelingen, en
 
-- b. de hoeveelheid aardgas onderscheidenlijk elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 50, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50).
+- b. de hoeveelheid aardgas onderscheidenlijk elektriciteit te meten die wordt betrokken voor verbruik als bedoeld in [artikel 50, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50).
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2014-04-01&g=2014-04-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -699,11 +695,9 @@ De verklaring, bedoeld in [artikel 20, eerste lid, van het besluit](https://wett
 
 - a. de dagtekening;
 
-- b. naam en adres van de verbruiker;
+- b. naam en adres van de verbruiker; en
 
-- c. naam en adres van de leverancier, en
-
-- d. het kalenderjaar waarop de verklaring betrekking heeft.
+- c. naam en adres van de leverancier.
 
 ##### Artikel 20
 
@@ -867,7 +861,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - l. de contracten ten aanzien van de onbemeterde aansluitingen;
 
-- m. de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50);
+- m. de toepassing van [artikel 50, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=50);
 
 - n. de toepassing van de tarieven, bedoeld in [artikel 59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59);
 
@@ -891,7 +885,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2014-04-01&g=2014-04-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2015-01-01&g=2015-01-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -905,7 +899,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VIII. Verpakkingenbelasting
+### Hoofdstuk VII. Vliegbelasting
 
 ##### Artikel 32
 
@@ -935,7 +929,7 @@ Uitvoeringsregeling belastingen op milieugrondslag.
 
 Vervallen
 
-### Hoofdstuk IX. Algemene bepaling
+### Hoofdstuk VIII. Verpakkingenbelasting
 
 ### Hoofdstuk X. Slotbepalingen
 
@@ -957,25 +951,19 @@ Vervallen
 
 3. De aanwijzing vindt plaats met ingang van de dagtekening zoals aangegeven op de beschikking waarbij de coöperatie wordt aangewezen. Op verzoek van de coöperatie kan de inspecteur bepalen dat de aanwijzing plaatsvindt met ingang van een andere datum, doch niet eerder dan 6 maanden voor de dagtekening van de beschikking.
 
-4. De coöperatie komt in aanmerking voor een aanwijzing als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) als zij voldoet aan de voorwaarden, bedoeld in [artikel 59a, tweede lid, onderdelen a, d, e en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), dan wel, indien het een vereniging van eigenaars betreft, als zij voldoet aan de voorwaarden, bedoeld in [artikel 59a, tweede lid, onderdelen d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b).
+4. De coöperatie komt in aanmerking voor een aanwijzing als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) als zij voldoet aan de voorwaarden, bedoeld in [artikel 59a, tweede lid, onderdelen b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), dan wel, indien het een vereniging van eigenaars betreft, als zij voldoet aan de voorwaarden, bedoeld in [artikel 59a, tweede lid, onderdelen b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b).
 
-5. Een coöperatie waarvan één of meer leden ondernemer zijn in de zin van [artikel 7 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=7), komt alleen voor aanwijzing in aanmerking indien die leden:
+5. Wanneer de coöperatie in, aan of op een onroerende zaak van een ander een productie-installatie in eigendom heeft, merkt de inspecteur de aansluiting waarmee die onroerende zaak verbonden is met een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1), op verzoek van de coöperatie voor de toepassing van [artikel 59a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), aan als de aansluiting van de productie-installatie, indien:
 
-- a. geen leveranciers, producenten, handelaars of netbeheerders zijn als bedoeld in [artikel 1, eerste lid, onderdelen f, g, h respectievelijk k, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
+- a. de aansluiting een totale maximale doorlaatwaarde heeft van meer dan 3x80A;
 
-- b. geen groepsmaatschappij als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) zijn of daarvan onderdeel uitmaken, indien onderdelen van die groepsmaatschappij ondernemers als bedoeld in onderdeel a zijn;
+- b. de elektriciteit die door de coöperatie via die aansluiting op het net wordt ingevoed afzonderlijk wordt gemeten; en
 
-- c. geen woningcorporaties zijn;
-
-- d. geen ondernemers zijn die onroerende zaken exploiteren; en
-
-- e. zowel alleen als tezamen met eventuele andere ondernemers voor niet meer dan 5% in de coöperatie deelnemen.
-
-Als niet wordt voldaan aan de voorwaarde, bedoeld in onderdeel e, kan de inspecteur de coöperatie niettemin aanwijzen als dit naar zijn oordeel geen afbreuk doet aan het karakter van de coöperatie als coöperatie van en voor particulieren.
+- c. de garanties van oorsprong, bedoeld in [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), uitsluitend betrekking hebben op de met de productie-installatie opgewekte elektriciteit die via de aansluiting op het net wordt ingevoed.
 
 6. De inspecteur beslist op het verzoek om aanwijzing bij voor bezwaar vatbare beschikking. Daarbij kan hij nadere voorwaarden aan de aanwijzing verbinden. Met betrekking tot de behandeling van het verzoek is [artikel 91, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=91) van overeenkomstige toepassing.
 
-7. Indien de coöperatie, bedoeld in het eerste lid, eigenaar is van meerdere productie-installaties, wordt de coöperatie voor elke productie-installatie afzonderlijk aangewezen. Voor zover de coöperatie eigenaar is van verschillende productie-installaties met behulp waarmee met dezelfde hernieuwbare energiebron elektriciteit wordt opgewekt en waarvan de verbindingen, bedoeld in [artikel 59a, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), zich in hetzelfde postcodegebied bevinden, worden zij voor de toepassing van de eerste volzin als één productie-installatie aangemerkt. De inspecteur kan evenwel afwijken van de tweede volzin, indien dit wenselijk is voor een juiste toepassing van artikel 59a van de wet.
+7. Indien de coöperatie, bedoeld in het eerste lid, eigenaar is van meerdere productie-installaties, wordt de coöperatie voor elke productie-installatie afzonderlijk aangewezen. Voor zover de coöperatie eigenaar is van verschillende productie-installaties met behulp waarmee met dezelfde hernieuwbare energiebron elektriciteit wordt opgewekt en waarvan de verbindingen, bedoeld in [artikel 59a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), zich in hetzelfde postcodegebied bevinden, worden zij voor de toepassing van de eerste volzin als één productie-installatie aangemerkt. De inspecteur kan evenwel afwijken van de tweede volzin, indien dit wenselijk is voor een juiste toepassing van artikel 59a van de wet.
 
 8. De inspecteur vermeldt in de beschikking:
 
@@ -985,7 +973,7 @@ Als niet wordt voldaan aan de voorwaarde, bedoeld in onderdeel e, kan de inspect
 
 - c. de hernieuwbare energiebron waarmee met behulp van deze productie-installatie of -installaties elektriciteit wordt opgewekt;
 
-- d. het postcodegebied waarin de verbinding onderscheidenlijk verbindingen, bedoeld in [artikel 59a, tweede lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), van deze productie-installatie of -installaties zich bevinden, alsmede alle aangrenzende postcodegebieden.
+- d. het postcodegebied waarin de verbinding onderscheidenlijk verbindingen, bedoeld in [artikel 59a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), van deze productie-installatie of -installaties zich bevinden, alsmede alle aangrenzende postcodegebieden.
 
 9. De inspecteur kan de aanwijzing wijzigen of intrekken:
 
@@ -1003,7 +991,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 2. Indien een aangewezen coöperatie als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) niet of niet langer voldoet aan de voorwaarden voor aanwijzing, doet zij daarvan onverwijld schriftelijk mededeling aan de inspecteur en aan ieder met wie zij een overeenkomst heeft als bedoeld in artikel 59a, eerste lid, van de wet.
 
-3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2014-04-01&g=2014-04-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
+3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2015-01-01&g=2015-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
 
 4. De coöperatie die is aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), richt haar administratie zodanig in, dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen die voor de verlaging, bedoeld in artikel 59a, eerste lid van de wet, van belang kunnen zijn.
 
@@ -1011,13 +999,23 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 6. De coöperatie verstrekt aan degene die de levering, bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), verricht, een opgaaf van de hoeveelheden elektriciteit die door de coöperatie zijn toegerekend aan de leden van de coöperatie die elektriciteit afnemen van die leverancier. De opgaaf vermeldt de productieperiode waarop zij betrekking heeft, en wordt gespecificeerd per lid en per aansluiting, onder vermelding van EAN-code en postcode van iedere aansluiting.
 
-7. De coöperatie vermeldt in de opgaaf, bedoeld in het zesde lid, uitsluitend de leden die een natuurlijk persoon zijn en die de onroerende zaak die door middel van de aansluiting met het distributienet is verbonden, bewonen en in hoofdzaak gebruiken als woning.
+7. De coöperatie vermeldt bij de opgaaf, bedoeld in het zesde lid, of de garanties van oorsprong, bedoeld in [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), zijn geboekt op een eindverbruikersrekening van de coöperatie zelf, dan wel op een handelsaccount.
 
-8. De coöperatie vermeldt bij de opgaaf, bedoeld in het zesde lid, of de garanties van oorsprong, bedoeld in [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), zijn geboekt op een eindverbruikersrekening van de coöperatie zelf, dan wel op een handelsaccount.
-
-9. De coöperatie verstrekt tezamen met de opgaaf, bedoeld in het zesde lid, de verklaring, bedoeld in [artikel 21b, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b). Hierin verklaart de coöperatie dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59a, tweede lid, onderdelen a, b, c, d, e en g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), dan wel, indien het een vereniging van eigenaars betreft, dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59a, tweede lid, onderdelen b, c, d, e en g](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b).
+8. De coöperatie verstrekt tezamen met de opgaaf, bedoeld in het zesde lid, de verklaring, bedoeld in [artikel 21b, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b). Hierin verklaart de coöperatie dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59a, tweede lid, onderdelen a, b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), dan wel, indien het een vereniging van eigenaars betreft, dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59 a, tweede lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b).
 
 ### Hoofdstuk VII. Vliegbelasting
+
+### Hoofdstuk X. Slotbepalingen
+
+## Bijlage. bij de Uitvoeringsregeling belastingen op milieugrondslag
+
+Vervallen
+
+### Hoofdstuk V. Kolenbelasting
+
+### Hoofdstuk VI. Energiebelasting
+
+### Hoofdstuk IX. Algemene bepaling
 
 ### Hoofdstuk X. Slotbepalingen
 
