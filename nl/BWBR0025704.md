@@ -4,7 +4,7 @@ identifier: "BWBR0025704"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2013-06-29"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025704"
 soort: "ministeriele-regeling"
@@ -90,11 +90,11 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 
 1. Ter voldoening aan de eis van financiële draagkracht beschikt de vervoerder aan kapitaal en reserves over een bedrag van € 9000 wanneer slechts één voertuig wordt gebruikt en € 5000 voor ieder volgend voertuig.
 
-2. Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen.
+2. Bij een aanvraag voor verlening en verlenging van een communautaire vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, eventueel aangevuld met een achtergestelde lening, of uit een bankgarantie.
 
-3. Ingeval van verlenging van de vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een ten opzichte van alle andere schulden achtergestelde lening.
+3. De vervoerder toont zijn financiële draagkracht aan door overlegging van een openingsbalans, een tussentijdse balans of de jaarcijfers, voorzien van een vermogensopstelling indien het eigen vermogen onvoldoende is.
 
-4. De vervoerder toont tegenover de NIWO zijn financiële draagkracht aan door het overleggen van een balans en een toelichting daarop, voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.
+4. De in het derde lid bedoelde documenten zijn voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.
 
 5. Indien de vervoerder een rechtspersoon is, die op grond van [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.
 
@@ -106,7 +106,7 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 
 - c. een belastingadviseur die is ingeschreven in het Register Belastingadviseurs; ofd. een accountant of belastingdeskundige, aangesloten bij een door de NIWO na goedkeuring van de Minister daartoe aangewezen instelling.
 
-7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2013-06-29&g=2013-06-29) van de beroepsrichtlijn voor het wegvervoer.
+7. Omtrent het voldoen aan de eis van financiële draagkracht stelt de NIWO een onderzoek in als bedoeld in [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01) van de beroepsrichtlijn voor het wegvervoer.
 
 8. De NIWO kan de vervoerder een uitstel van ten hoogste zes maanden verlenen om te voldoen aan de eis van financiële draagkracht indien hij heeft aangetoond dat het op grond van de algemene economische situatie van zijn vervoeronderneming waarschijnlijk is dat hij voor afloop van het verleende uitstel zal voldoen aan de eis van financiële draagkracht.
 
@@ -242,7 +242,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 ##### Artikel 18
 
-1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2013-06-29&g=2013-06-29) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2013-06-29&g=2013-06-29) vormt een strafbaar feit.
+1. Overtreding van de [artikelen 8, eerste en derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=8&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0025704&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) vormt een strafbaar feit.
 
 2. Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen:
 
@@ -250,7 +250,7 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 4
 
 - b. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.3.15);
 
-- c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
+- c. [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), juncto [hoofdstuk 5, afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=3) en [12, van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&afdeling=12), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.1), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;
 
 - d. [artikel 5.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.1.2) juncto de [artikelen 5.18.17a tot en met 5.18.17g](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.17a) of juncto [artikel 5.18.25 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.25).
 
