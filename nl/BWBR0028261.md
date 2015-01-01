@@ -4,7 +4,7 @@ identifier: "BWBR0028261"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2015-01-01"
-last_updated: "2012-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028261"
 soort: "wet-BES"
@@ -37,7 +37,7 @@ entry_into_force: "2010-10-10"
 
 ##### Artikel 1
 
-1. De dienst van deurwaarder wordt, behoudens het bepaalde in de [artikelen l](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=1&z=2012-07-01&g=2012-07-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=7a&z=2012-07-01&g=2012-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=8&z=2012-07-01&g=2012-07-01) verricht door deurwaarders, adspirant-deurwaarders en toegevoegd-adspirant-deurwaarders.
+1. De dienst van deurwaarder wordt, behoudens het bepaalde in de [artikelen l](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=1&z=2015-01-01&g=2015-01-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=7a&z=2015-01-01&g=2015-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=8&z=2015-01-01&g=2015-01-01) verricht door deurwaarders, adspirant-deurwaarders en toegevoegd-adspirant-deurwaarders.
 
 2. De deurwaarders en adspirant-deurwaarders worden bij koninklijk besluit in hun hoedanigheid benoemd.
 
@@ -65,7 +65,7 @@ Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder
 
 1. De deurwaarders leggen, elk naar de wijze zijner godsdienstige gezindheid, vóór hun indiensttreding de navolgende eed of belofte af:
 
-«Ik zweer (beloof) trouw aan de Koningin en gehoorzaamheid aan de wettelijke regelingen. Ik zweer (beloof) dat ik alle exploiten, waartoe ik zal worden verzocht of die mij zullen bevolen worden, getrouwelijk en met naarstigheid zal uitvoeren en in het algemeen mijn functie met nauwgezetheid en eerlijkheid en tevens met alle eerbied voor de rechterlijke autoriteiten zal waarnemen.».
+«Ik zweer (beloof) trouw aan de Koning en gehoorzaamheid aan de wettelijke regelingen. Ik zweer (beloof) dat ik alle exploiten, waartoe ik zal worden verzocht of die mij zullen bevolen worden, getrouwelijk en met naarstigheid zal uitvoeren en in het algemeen mijn functie met nauwgezetheid en eerlijkheid en tevens met alle eerbied voor de rechterlijke autoriteiten zal waarnemen.».
 
 2. Alvorens tot die eed of belofte te worden toegelaten, leggen zij de volgende eed of verklaring van zuivering af: «Ik zweer (verklaar) dat ik om tot deurwaarder te worden benoemd middellijk noch onmiddellijk, onder welke naam of welk voorwendsel ook, aan iemand, wie hij ook zij, iets heb gegeven of beloofd, noch zal geven.».
 
@@ -87,7 +87,7 @@ Tot deurwaarder zijn benoembaar zij die de hoedanigheid van aspirant-deurwaarder
 
 1. Bij afwezigheid of ontstentenis van een deurwaarder is de president van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba of de rechter in het Gerecht in eerste aanleg bevoegd een of meer geschikte en vertrouwde personen tijdelijk als waarnemend deurwaarder aan te wijzen tot het verrichten van de vereiste werkzaamheden, daaronder begrepen die welke na elk eindvonnis nodig zijn.
 
-2. De waarnemende deurwaarders leggen, elk naar de wijze zijner godsdienstige gezindheid, voordat zij in functie treden de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2012-07-01&g=2012-07-01) vastgestelde eed of belofte af in handen van degene die hen heeft aangewezen, bijgestaan door zijn griffier.
+2. De waarnemende deurwaarders leggen, elk naar de wijze zijner godsdienstige gezindheid, voordat zij in functie treden de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2015-01-01&g=2015-01-01) vastgestelde eed of belofte af in handen van degene die hen heeft aangewezen, bijgestaan door zijn griffier.
 
 3. Op de waarnemende deurwaarders zijn, zolang zij in functie zijn, de voor de deurwaarders ingevolge deze wet geldende bepalingen van toepassing, uitgezonderd die welke op de benoeming betrekking hebben.
 
@@ -97,9 +97,9 @@ De President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sin
 
 ##### Artikel 8
 
-1. Ten dienste der strafrechtspleging kan de procureur-generaal aan een of meer ambtenaren van het politiekorps van Bonaire, Sint Eustatius en Saba, die bijzonder aan zijn parket of dat van de officier van justitie verbonden zijn, de functies opdragen van strafdeurwaarders, die als zodanig het openbaar ministerie meer bijzonder ten dienste staan, doch tevens evenals de andere deurwaarders en op gelijke wijze als dezen bevoegd en gehouden zijn, om elk in het openbaar lichaam waarvoor hij door de procureur-generaal is aangewezen, alle exploiten te doen, bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=2&z=2012-07-01&g=2012-07-01) van deze wet omschreven, en die voorts bij afwezigheid of ontstentenis van andere deurwaarders verplicht zijn om de diensten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=6&z=2012-07-01&g=2012-07-01) van deze wet, op de wijze als in dat artikel bepaald te verrichten.
+1. Ten dienste der strafrechtspleging kan de procureur-generaal aan een of meer ambtenaren van het politiekorps van Bonaire, Sint Eustatius en Saba, die bijzonder aan zijn parket of dat van de officier van justitie verbonden zijn, de functies opdragen van strafdeurwaarders, die als zodanig het openbaar ministerie meer bijzonder ten dienste staan, doch tevens evenals de andere deurwaarders en op gelijke wijze als dezen bevoegd en gehouden zijn, om elk in het openbaar lichaam waarvoor hij door de procureur-generaal is aangewezen, alle exploiten te doen, bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=2&z=2015-01-01&g=2015-01-01) van deze wet omschreven, en die voorts bij afwezigheid of ontstentenis van andere deurwaarders verplicht zijn om de diensten, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=6&z=2015-01-01&g=2015-01-01) van deze wet, op de wijze als in dat artikel bepaald te verrichten.
 
-2. Op de in het voorgaande lid bedoelde ambtenaren zijn alle ingevolge deze wet voor de strafdeurwaarders geldende bepalingen van toepassing, met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=1&z=2012-07-01&g=2012-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=3&z=2012-07-01&g=2012-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=4&z=2012-07-01&g=2012-07-01), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=15&z=2012-07-01&g=2012-07-01), en [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=17&z=2012-07-01&g=2012-07-01).
+2. Op de in het voorgaande lid bedoelde ambtenaren zijn alle ingevolge deze wet voor de strafdeurwaarders geldende bepalingen van toepassing, met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=1&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=4&z=2015-01-01&g=2015-01-01), [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=15&z=2015-01-01&g=2015-01-01), en [17, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=17&z=2015-01-01&g=2015-01-01).
 
 3. De opdracht, in het eerste lid bedoeld, alsmede de intrekking van zodanige opdracht wordt door de procureur-generaal bekendgemaakt aan de President van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba bij brief en in het algemeen bij aankondiging in de Curaçaosche Courant, de Staatscourant en in een of meer in de openbare lichamen Bonaire, Sint Eustatius en Saba verschijnende nieuwsbladen.
 
@@ -221,7 +221,7 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 4. Met inachtneming van het bepaalde in het tweede lid heeft de adspirant-deurwaarder dezelfde rechten en verplichtingen als de deurwaarder.
 
-5. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2012-07-01&g=2012-07-01) is op de adspirant-deurwaarders van overeenkomstige toepassing, met dien verstande, dat in het formulier, vastgesteld bij het tweede lid van dat artikel, het woord «deurwaarder» wordt vervangen door «adspirant-deurwaarder».
+5. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2015-01-01&g=2015-01-01) is op de adspirant-deurwaarders van overeenkomstige toepassing, met dien verstande, dat in het formulier, vastgesteld bij het tweede lid van dat artikel, het woord «deurwaarder» wordt vervangen door «adspirant-deurwaarder».
 
 6. In afwijking in zoverre van de voorgaande leden dient de adspirant-strafdeurwaarder werkzaam te zijn ten parkette van het openbaar ministerie overeenkomstig de aanwijzingen hem door of vanwege de procureur-generaal bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba gegeven, en is hij bevoegd om alle ambtshandelingen en diensten van een strafdeurwaarder te verrichten voor zover en zoals deze hem door of vanwege de procureur-generaal opgedragen zijn. Het derde lid is niet van toepassing; in het vierde lid wordt in plaats van «het bepaalde in het tweede lid» gelezen: «het bepaalde in het zesde lid».
 
@@ -245,7 +245,7 @@ De deurwaarders zijn bij de terechtzittingen voegzaam gekleed; zo zij dit wensen
 
 - c. Onverminderd het bepaalde onder a van dit lid gelden voor de toegevoegd-adspirant-deurwaarder alle rechten en verplichtingen van de deurwaarder, met dien verstande dat de toegevoegd-adspirant-deurwaarder geen bezoldiging van de Overheid ontvangt en dat de toegevoegd-adspirant-deurwaarder gelijke eed of belofte aflegt als de adspirant-deurwaarder.
 
-5. De [leden drie en vier van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2012-07-01&g=2012-07-01) zijn van overeenkomstige toepassing.
+5. De [leden drie en vier van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028261&artikel=5&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 19
 
