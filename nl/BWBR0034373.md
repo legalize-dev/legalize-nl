@@ -4,7 +4,7 @@ identifier: "BWBR0034373"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2014-03-26"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034373"
 soort: "ministeriele-regeling"
@@ -48,6 +48,6 @@ Wijzigt het Besluit vaststelling subsidieplafond en beleidsregels subsidiëring 
 
 ##### Artikel II
 
-Voor subsidieverlening op grond van de [artikelen 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=6.4) en [6.5 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=6.5) geldt voor de periode van 1 januari 2014 tot en met 31 december 2014 een gezamenlijk subsidieplafond van € 64 miljoen voor het Netherlands Fellowships Programme II (NFP II) en het Netherlands Initiative for Capacity Development in Higher Education (NICHE II) en een subsidieplafond van € 1 miljoen voor het MENA (Middle-East North Africa) Scholarship Programme II (MSP II). Dit artikel vervalt met ingang van 1 januari 2015.
+Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
