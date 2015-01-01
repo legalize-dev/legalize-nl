@@ -4,7 +4,7 @@ identifier: "BWBR0033723"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-10-01"
-last_updated: "2013-07-31"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033723"
 soort: "AMvB"
@@ -54,13 +54,15 @@ In dit besluit wordt verstaan onder:
 
 - b. **melding:** melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan;
 
-- c. **verwijsindex risicojongeren:** verwijsindex risico-jongeren als bedoeld in [artikel 2d, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=2d);
+- c. **verwijsindex risicojongeren:** verwijsindex risico-jongeren als bedoeld in [artikel 7.1.2.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.2.1);
 
 - d. **cliënt:** vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld of kindermishandeling waarmee de professional beroepsmatig in contact staat;
 
 - e. **betrokkene:** betrokkene als bedoeld in [artikel 1 van de Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=1);
 
-- f. **kindcheck:** gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen.
+- f. **kindcheck:** gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen;
+
+- g. **AMHK:** advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in [artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.1.1).
 
 ##### Artikel 2
 
@@ -72,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 - c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van personeel vereisen;
 
-- d. indien sprake is van een op grond van [artikel 2b van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=2b) meldingsbevoegde instantie of functionaris, specifieke aandacht voor de mogelijkheid van het gebruik van de verwijsindex risicojongeren;
+- d. indien sprake is van een op grond van [artikel 7.1.1.2 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.1.1.2) meldingsbevoegde instantie of functionaris, specifieke aandacht voor de mogelijkheid van het gebruik van de verwijsindex risicojongeren;
 
 - e. voor zover van toepassing instructies voor het uitvoeren van een kindcheck bij cliënten;
 
@@ -82,29 +84,17 @@ In dit besluit wordt verstaan onder:
 
 - a. het in kaart brengen van de signalen van huiselijk geweld en kindermishandeling;
 
-- b. collegiale consultatie en zo nodig raadplegen van het steunpunt huiselijk geweld, het advies- en meldpunt kindermishandeling of een deskundige op het gebied van letselduiding;
+- b. collegiale consultatie en zo nodig raadplegen van het AMHK of een deskundige op het gebied van letselduiding;
 
 - c. een gesprek met de cliënt;
 
-- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het steunpunt huiselijk geweld of het advies- en meldpunt kindermishandeling, en
+- d. het wegen van het risico op en de aard en de ernst van het huiselijk geweld of de kindermishandeling en bij twijfel altijd raadplegen van het AMHK en
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
 ##### Artikel 3
 
-1. Indien een steunpunt huiselijk geweld in het kader van een melding persoonsgegevens heeft verkregen, verstrekt het steunpunt aan degene op wie de persoonsgegevens betrekking hebben inlichtingen over de herkomst van de persoonsgegevens.
-
-2. In afwijking van het eerste lid verstrekt het steunpunt huiselijk geweld geen inlichtingen over de herkomst van de persoonsgegevens die het naar aanleiding van een melding heeft verkregen indien:
-
-- a. een persoon die in een beroepsmatige of hulpverlenende relatie tot de betrokkene of zijn gezin staat, de persoonsgegevens naar aanleiding van een melding heeft verstrekt en het verstrekken van die inlichtingen:
-
-- 1. een bedreiging vormt of kan vormen voor de betrokkene of andere leden van het gezin waartoe de betrokkene behoort;
-
-- 2. een bedreiging vormt of kan vormen voor die persoon of medewerkers van die persoon;
-
-- 3. leidt of kan leiden tot een verstoring van de vertrouwensrelatie met de betrokkene of het gezin waartoe de betrokkene behoort;
-
-- b. het andere personen betreft dan die bedoeld onder a, behoudens voor zover zij daarvoor toestemming hebben gegeven.
+Vervallen
 
 ##### Artikel 4
 
