@@ -4,7 +4,7 @@ identifier: "BWBR0035297"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035297"
 soort: "wet"
@@ -145,7 +145,7 @@ Wijzigt de Wijzigingswet Elektriciteitswet 1998, enz. (implementatie richtlijnen
 
 ##### Artikel XXVa
 
-Op een verzoekschrift dat is ingediend overeenkomstig de [artikelen 2.5 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.5) en [305d van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305d), zoals die luidden onmiddellijk voor inwerkingtreding van de [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=V&z=2014-08-01&g=2014-08-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=VI&z=2014-08-01&g=2014-08-01), en [XVI, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XVI&z=2014-08-01&g=2014-08-01), van deze wet, blijven de bepalingen van de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) van toepassing zoals die luidden onmiddellijk voor inwerkingtreding van de genoemde artikelen V, VI en XVI, onderdeel F.
+Op een verzoekschrift dat is ingediend overeenkomstig de [artikelen 2.5 van de Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586&artikel=2.5) en [305d van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305d), zoals die luidden onmiddellijk voor inwerkingtreding van de [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=V&z=2015-01-01&g=2015-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=VI&z=2015-01-01&g=2015-01-01), en [XVI, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0035297&artikel=XVI&z=2015-01-01&g=2015-01-01), van deze wet, blijven de bepalingen van de [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586) van toepassing zoals die luidden onmiddellijk voor inwerkingtreding van de genoemde artikelen V, VI en XVI, onderdeel F.
 
 ##### Artikel XXVI
 
