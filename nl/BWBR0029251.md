@@ -4,7 +4,7 @@ identifier: "BWBR0029251"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-03-30"
-last_updated: "2014-07-17"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029251"
 soort: "ministeriele-regeling"
@@ -78,19 +78,19 @@ Het dagelijks bestuur van een medeoverheid zendt de informatie, bedoeld in [arti
 
 ##### Artikel 3
 
-1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2014-07-17&g=2014-07-17).
+1. De bijlage bij de jaarrekening met de verantwoordingsinformatie per specifieke uitkering als bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=1&z=2015-07-04&g=2015-01-01).
 
-2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2014-07-17&g=2014-07-17).
+2. De bijlage bij het verslag van bevindingen met de verslaglegging van fouten en onzekerheden wordt ingericht overeenkomstig de bij deze regeling behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=2&z=2015-07-04&g=2015-01-01).
 
 ##### Artikel 4
 
-De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2014-07-17&g=2014-07-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2014-07-17&g=2014-07-17) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2014-07-17&g=2014-07-17).
+De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2015-07-04&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=3&z=2015-07-04&g=2015-01-01) bedoelde informatie wordt elektronisch aangeleverd, overeenkomstig de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&bijlage=3&z=2015-07-04&g=2015-01-01).
 
 #### § 3. Mededeling vanwege de minister
 
 ##### Artikel 5
 
-De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2014-07-17&g=2014-07-17).
+De minister deelt aan het dagelijks bestuur van de desbetreffende medeoverheid mede of de verstrekte informatie naar zijn oordeel voldoet aan de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=2&z=2015-07-04&g=2015-01-01).
 
 #### § 4. Herziening
 
@@ -498,7 +498,7 @@ Vervallen bijlagen blijven van toepassing op het verantwoordingsjaar waarop zij 
 
 ## Bijlage 3. Procedure aanlevering SiSa-verantwoordingsinformatie 2013
 
-op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2014-07-17&g=2014-07-17) van de Regeling informatieverstrekking sisa
+op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029251&paragraaf=2&artikel=4&z=2015-07-04&g=2015-01-01) van de Regeling informatieverstrekking sisa
 
 ### Wat is SiSa?
 
