@@ -4,7 +4,7 @@ identifier: "BWBR0031613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031613"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2018-01-01"
 Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=2), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=3), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=4), [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=5), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=6), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=12), [13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=14), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=15), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=17), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=18), [19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=19), [20, vierde lid van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=20);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop het Besluit kwaliteit kinderopvang en peuterspeelzalen in werking treedt.
 
 #### Paragraaf 1. Algemeen
 
@@ -94,21 +96,13 @@ Vervallen
 
 4. Een kind maakt gedurende de week gebruik van ten hoogste twee verschillende stamgroepruimtes.
 
-5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01).
+5. Het vierde lid is niet van toepassing bij speciale activiteiten, beschreven in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01).
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op een kind dat blijkens de overeenkomst tussen de houder van een kindercentrum en de ouders van het kind gebruik maakt van opvang op dagen die per week verschillen.
 
-7. Bij dagopvang bedraagt de verhouding tussen het aantal beroepskrachten en het aantal feitelijke aanwezige kinderen ten minste:
+7. Bij dagopvang in groepen waarin kinderen worden opgevangen van dezelfde leeftijd is de verhouding tussen het aantal beroepskrachten en het aantal feitelijk aanwezige kinderen in overeenstemming met tabel 1, onderdeel a, in de bijlage.
 
-- a. één beroepskracht per vier kinderen in de leeftijd tot één jaar;
-
-- b. één beroepskracht per vijf kinderen in de leeftijd van één tot twee jaar;
-
-- c. één beroepskracht per zes kinderen in de leeftijd van twee tot drie jaar;
-
-- d. één beroepskracht per acht kinderen in de leeftijd van drie tot vier jaar.
-
-8. Het minimale aantal beroepskrachten in relatie tot het aantal aanwezige kinderen bij een gemengde leeftijdsgroep wordt, met in achtneming van het eerste en het zevende lid en de rekenregels in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.
+8. Bij dagopvang in groepen waarin kinderen worden opgevangen van verschillende leeftijden wordt de verhouding tussen het aantal beroepskrachten en het aantal feitelijk aanwezige kinderen, in overeenstemming met tabel 1, onderdeel b, in de bijlage, bepaald met behulp van een rekentool die wordt bekendgemaakt via de website www.rijksoverheid.nl.
 
 9. Indien kinderen bij (spel)activiteiten de stamgroep verlaten, is het eerste lid niet van toepassing.
 
@@ -134,9 +128,9 @@ Vervallen
 
 6. Indien kinderen bij (spel)activiteiten de basisgroep verlaten, is het eerste of tweede lid niet van toepassing.
 
-7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2014-01-01&g=2014-01-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
+7. Bij activiteiten in groepen groter dan dertig kinderen, besteedt de houder in het pedagogisch beleidsplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01), aantoonbaar extra aandacht aan de omgang met de basisgroep.
 
-8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+8. In afwijking van het derde of vierde lid kunnen voor en na de dagelijkse schooltijd alsmede gedurende vrije middagen voor ten hoogste een half uur per dag minder beroepskrachten worden ingezet, met dien verstande dat ten minste de helft van het aantal beroepskrachten wordt ingezet. Op vrije dagen of tijdens de schoolvakanties kan, indien per dag ten minste tien aaneengesloten uren buitenschoolse opvang wordt geboden, de in de vorige volzin bedoelde afwijkende inzet van beroepskrachten ten hoogste drie uur bedragen, met dien verstande dat ten minste de helft van het aantal op grond van het derde of vierde lid vereiste beroepskrachten wordt ingezet en de afwijkende inzet niet plaatsvindt tussen 9.30 uur en 12.30 uur en 15.00 uur en 16.30 uur. [Artikel 5, tiende lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 9. Indien op grond van het achtste lid slechts één beroepskracht in het kindercentrum wordt ingezet, is ter ondersteuning van deze beroepskracht ten minste één andere volwassene in het kindercentrum aanwezig.
 
@@ -160,9 +154,9 @@ Vervallen
 
 - f. het beleid ten aanzien van het gebruik maken van kinderopvang gedurende extra dagdelen;
 
-- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2014-01-01&g=2014-01-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01), is vormgegeven;
+- g. de wijze waarop de ondersteuning overeenkomstig de [artikelen 5, elfde en twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), en [6, negende en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), is vormgegeven;
 
-- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2014-01-01&g=2014-01-01) is vormgegeven, indien sprake is van dagopvang.
+- h. de wijze waarop het vierogenprincipe van [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5a&z=2015-01-01&g=2015-01-01) is vormgegeven, indien sprake is van dagopvang.
 
 2. Waar nodig wordt in een pedagogisch beleidsplan onderscheid gemaakt tussen dagopvang en buitenschoolse opvang.
 
@@ -354,11 +348,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. De houder van een gastouderbureau draagt er zorg voor dat per gastouder op jaarbasis tenminste 16 uur wordt besteed aan begeleiding en bemiddeling. Hieronder wordt in ieder geval verstaan:
 
-- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+- a. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - b. werving van de gastouder;
 
-- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+- c. het intakegesprek, bedoeld in [artikel 11a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - d. scholing en begeleiding van de gastouder;
 
@@ -366,13 +360,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. de koppeling van de gastouder en de vraagouder;
 
-- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+- g. het koppelingsgesprek, bedoeld in [artikel 11a, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01);
 
-- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+- h. het evaluatiegesprek, bedoeld in [artikel 11a, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - i. het beantwoorden van vragen van de gastouder;
 
-- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2014-01-01&g=2014-01-01);
+- j. de bezoeken, bedoeld in [artikel 11a, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=3&artikel=11&z=2015-01-01&g=2015-01-01);
 
 - k. opleiding of training; en
 
@@ -402,8 +396,64 @@ In deze bijlage zijn de rekenregels van de rekentool opgenomen.
 
 ### Dagopvang
 
-### Buitenschoolse opvang
+### Dagopvang
 
 ### Combinatiegroepen dagopvang/buitenschoolse opvang
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 18a. Vierogenprincipe bij peuterspeelzaal
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### Paragraaf 5. Slotbepalingen
+
+## Bijlage. als bedoeld in de [artikelen 5, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01), en [6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031613&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), van deze regeling
+
+In deze bijlage zijn de rekenregels van de rekentool opgenomen.
+
+1 Waarvan maximaal acht kinderen van 0 jaar.
+
+2 Bij een groep met acht kinderen van 0 jaar.
+
+3 Bij een groep met zeven of minder kinderen van 0 jaar.
+
+4 Bij een groep met vier kinderen van 0 jaar.
+
+5 Bij een groep met drie of minder kinderen van 0 jaar.
+
+6 Bij een groep met acht kinderen van 0 jaar.
+
+7 Bij een groep met zeven kinderen van 0 jaar.
+
+8 Bij een groep met zes kinderen van 0 jaar.
+
+9 Bij een groep met vijf of minder kinderen van 0 jaar.
+
+### Buitenschoolse opvang
+
+1 In plaats van een derde beroepskracht kan een andere volwassene worden ingezet.
+
+### Combinatiegroepen dagopvang/buitenschoolse opvang
+
+1 Waarvan maximaal vier kinderen van 0 jaar tot 4 jaar, waarvan maximaal drie kinderen van 0 tot 2 jaar, waarvan maximaal twee kinderen van 0 jaar.
+
+2 Waarvan maximaal acht kinderen van 0 jaar tot 4 jaar, waarvan maximaal zes kinderen van 0 tot 2 jaar, waarvan maximaal vier kinderen van 0 jaar.
+
+3 Waarvan maximaal twaalf kinderen van 0 jaar tot 4 jaar, waarvan maximaal acht kinderen van 0 tot 2 jaar, waarvan maximaal zes 0-jarigen.
+
+4 Waarvan maximaal vier kinderen van 1 jaar tot 4 jaar, waarvan maximaal drie kinderen van 1 jaar.
+
+5 Waarvan maximaal acht kinderen van 1 jaar tot 4 jaar, waarvan maximaal zes kinderen van 1 jaar.
+
+6 Waarvan maximaal twaalf kinderen van 1 jaar tot 4 jaar, waarvan maximaal acht kinderen van 1 jaar.
+
+7 Waarvan maximaal vijf kinderen van 2 jaar tot 4 jaar.
+
+8 Waarvan maximaal tien kinderen van 2 jaar tot 4 jaar.
+
+9 Waarvan maximaal twaalf kinderen 2 jaar tot 4 jaar.
+
+10 Waarvan maximaal zes kinderen van 3 jaar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
