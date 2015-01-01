@@ -4,7 +4,7 @@ identifier: "BWBR0018065"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-31"
-last_updated: "2014-08-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018065"
 soort: "AMvB"
@@ -88,7 +88,7 @@ De gegevens, bedoeld in de [artikelen 172](https://wetten.overheid.nl/jci1.3:c:B
 
 ##### Artikel 4. Nadere invulling
 
-Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2014-08-01&g=2014-08-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
+Bij ministeriële regeling kan een nadere invulling worden gegeven van de gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2015-01-01&g=2015-01-01), en van de wijze waarop de gegevens beschikbaar worden gesteld. Tevens kan een nadere invulling worden gegeven van de gegevens die betrekking hebben op verstrekte aanvullende bekostiging en de wijze waarop deze gegevens worden gedefinieerd, geordend en beschikbaar gesteld.
 
 ##### Artikel 5. Inwerkingtreding
 
@@ -102,11 +102,13 @@ Dit besluit wordt aangehaald als: Besluit informatievoorziening WPO/WEC.
 
 Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
-Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.
 
 ### A. Instellingsgegevens
 
-### A1. Bevoegd gezag en centrale dienst
+### A. Instellingsgegevens
+
+Voor de bekostiging:
 
 Voor de bekostiging:
 
@@ -120,9 +122,9 @@ Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
 Gegevens ten behoeve van betalingen, zoals bank- en girogegevens
 
-Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
-
 ### A2. School, instelling, vestiging
+
+Voor de bekostiging:
 
 Voor de bekostiging:
 
@@ -140,9 +142,9 @@ Communicatiegegevens, zoals telefoonnummer en e-mailadres
 
 Voor beleid:
 
-Richting school/instelling
-
 ### A3. Samenwerkingsverbanden
+
+Voor de bekostiging:
 
 Voor de bekostiging:
 
@@ -152,11 +154,11 @@ Datum begin en einde
 
 Naam
 
-Administratienummers scholen in samenwerkingsverband
+### B. Financiële gegevens
 
 ### B. Financiële gegevens
 
-### B1. Bevoegd gezag en centrale dienst
+Voor de bekostiging:
 
 Voor de bekostiging:
 
@@ -176,17 +178,17 @@ Het (geconsolideerde) kasstroomoverzicht
 
 met de kasstroom uit:
 
-en de mutatie en eindstand liquide middelen
-
 ### B2. School en instelling
+
+Voor beleid:
 
 Voor beleid:
 
 met een specificatie voor:
 
-met een specificatie voor:
-
 ### C. Personeelsgegevens
+
+Voor beleid:
 
 Voor beleid:
 
@@ -196,7 +198,7 @@ Geboortedatum
 
 Geslachtsaanduiding
 
-Personeelsnummer
+Burgerservicenummer
 
 Arbeidsrelatiegegevens
 
@@ -227,6 +229,38 @@ Salarisnummer
 Bruto salaris
 
 Toelagen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2a. Gebruik burgerservicenummer personeel door bevoegd gezag
+
+Bij de gegevensverstrekking op grond van [artikel 173 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=173) en [artikel 159 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=159) maakt het bevoegd gezag gebruik van het burgerservicenummer, bedoeld in [artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1), van een lid van het personeel of gewezen personeel van de school.
+
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=3&z=2015-01-01&g=2015-01-01) van het Besluit informatievoorziening WPO/WEC
+
+Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
+
+### A1. Bevoegd gezag en centrale dienst
+
+Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
+
+### A2. School, instelling, vestiging
+
+Richting school/instelling
+
+### A3. Samenwerkingsverbanden
+
+Administratienummers scholen in samenwerkingsverband
+
+### B1. Bevoegd gezag en centrale dienst
+
+en de mutatie en eindstand liquide middelen
+
+### B2. School en instelling
+
+met een specificatie voor:
+
+### C. Personeelsgegevens
 
 Ziekte en verlofgegevens
 
