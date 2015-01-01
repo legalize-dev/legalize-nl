@@ -4,7 +4,7 @@ identifier: "BWBR0035183"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-06-12"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035183"
 soort: "wet"
@@ -62,7 +62,7 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel VI
 
-Het in [artikel I, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035183&artikel=I&z=2014-06-12&g=2014-06-12), laatstgenoemde bedrag wordt per 1 januari 2015 bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het per 1 januari 2015 in [artikel 3.127, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127) eerstgenoemde bedrag, verminderd met het na toepassing van [artikel 10.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) per 1 januari 2015 in artikel 3.127, derde lid, van die wet laatstgenoemde bedrag, te vermenigvuldigen met het na toepassing van [artikel 3.68, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.68) per 1 januari 2015 in artikel 3.68, eerste lid, van die wet genoemde percentage en vervolgens de nodig geachte afronding aan te brengen.
+Het in [artikel I, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035183&artikel=I&z=2015-01-01&g=2015-01-01), laatstgenoemde bedrag wordt per 1 januari 2015 bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het per 1 januari 2015 in [artikel 3.127, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127) eerstgenoemde bedrag, verminderd met het na toepassing van [artikel 10.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) per 1 januari 2015 in artikel 3.127, derde lid, van die wet laatstgenoemde bedrag, te vermenigvuldigen met het na toepassing van [artikel 3.68, vierde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.68) per 1 januari 2015 in artikel 3.68, eerste lid, van die wet genoemde percentage en vervolgens de nodig geachte afronding aan te brengen.
 
 ##### Artikel VIa
 
