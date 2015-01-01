@@ -4,7 +4,7 @@ identifier: "BWBR0011545"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2014-12-18"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011545"
 soort: "AMvB"
@@ -60,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 **wet**: [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453).
 
-2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2014-12-18&g=2014-12-18) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
+2. In [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3a&z=2015-01-01&g=2015-01-01) van dit besluit wordt verstaan onder **aanvullende beurs**: toegekende en uitbetaalde aanvullende beurs als bedoeld in [artikel 6.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2).
 
 3. Een wijziging van richtlijn 2004/38/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -124,7 +124,7 @@ Vervallen
 
 - a. sprake is van een ernstig en structureel conflict tussen ouder en studerende,
 
-- b. de ouder uit het ouderlijk gezag is ontzet of ontheven,
+- b. het gezag van de ouder is beëindigd,
 
 - c. de studerende geen contact met de ouder heeft,
 
@@ -140,31 +140,31 @@ Vervallen
 
 ##### Artikel 7. Conflicteis
 
-1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
+1. Van een ernstig en structureel conflict tussen ouder en studerende als bedoeld in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), is sprake, indien de ouder om ernstige redenen structureel weigert de veronderstelde ouderlijke bijdrage te verstrekken.
 
 2. Onze Minister stelt bij de ouder vast dat er sprake is van weigering. Indien die ouder geen medewerking voor die vaststelling verleent, kan de verklaring van een onafhankelijke derde voor de betreffende ouderverklaring in de plaats treden.
 
 3. De ernst van het conflict wordt aangetoond aan de hand van een verklaring afgegeven door een ter zake deskundige.
 
-##### Artikel 8. Uit ouderlijk gezag ontzet of ontheven
+##### Artikel 8. Het gezag van de ouder beëindigd
 
-Als bewijs dat de ouder uit het ouderlijk gezag is ontzet of ontheven, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), dient een afschrift van de beschikking van de rechtbank.
+Als bewijs dat het gezag van de ouder is beëindigd, bedoeld in [artikel 6, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), dient een afschrift van de beschikking van de rechtbank.
 
 ##### Artikel 9. Geen contact sinds 12e jaar
 
-Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
+Van geen contact met de ouder als bedoeld in [artikel 6, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), is sprake, indien de studerende vanaf de maand waarin hij de leeftijd van 12 jaren heeft bereikt geen wezenlijk contact met de ouder had. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 10. Niet inbare alimentatie
 
-Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
+Van voor de studerende niet inbare alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), is sprake, indien de alimentatie oninbaar is gedurende ten minste 12 maanden voorafgaande aan de maand waarin de studerende voor het eerst studiefinanciering ontvangt. Als bewijs dient een verklaring van een ter zake deskundige.
 
 ##### Artikel 11. Onbekende verblijfplaats ouder
 
-Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze Minister in een geval als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
+Indien de studerende de verblijfplaats van de ouder niet kent, onderzoekt Onze Minister in een geval als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), de verblijfplaats van die ouder gedurende ten hoogste 3 maanden onderscheidenlijk ten hoogste 6 maanden in geval van onderzoek in het buitenland. Indien de verblijfplaats van die ouder niet wordt achterhaald, wordt geen rekening gehouden met de veronderstelde ouderlijke bijdrage.
 
 ##### Artikel 12. Draagkracht uit alimentatie
 
-1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2014-12-18&g=2014-12-18), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
+1. Indien een studerende van zijn ouder alimentatie als bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), ontvangt, komt het door de rechter vastgestelde bedrag aan alimentatie van de studerende in de plaats van de veronderstelde ouderlijk bijdrage. Als bewijs van de hoogte van de alimentatie dient in ieder geval de beschikking van de rechtbank of een notariële akte. Het bedrag dat in het bewijsstuk wordt genoemd, wordt vermeerderd met de wettelijke indexering.
 
 2. Indien nog geen beschikking is afgegeven, wordt de door de rechter vastgestelde alimentatie van de studerende in de plaats van de veronderstelde ouderlijke bijdrage gesteld vanaf de ingangsdatum van de alimentatie zoals die datum door de rechter is vastgesteld.
 
@@ -278,9 +278,9 @@ Vervallen
 
 ### Hoofdstuk 9. Overgangsbepalingen
 
-##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2014-12-18&g=2014-12-18)
+##### Artikel 30a. Overgangsbepaling [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01)
 
-1. Indien het derde jaar na het laatste studiefinancieringstijdvak vóór 2006 is gelegen, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2014-12-18&g=2014-12-18) onder belastbaar minimumloon verstaan:
+1. Indien het derde jaar na het laatste studiefinancieringstijdvak vóór 2006 is gelegen, wordt voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01) onder belastbaar minimumloon verstaan:
 
 - a. de som van:
 
@@ -304,9 +304,9 @@ Wijzigt dit besluit.
 
 Artikel 3, eerste lid, aanhef en onderdelen b en c, en tweede lid, van het Besluit studiefinanciering zoals dat luidde op 31 december 1996, blijft van toepassing op degene die op dat tijdstip studiefinanciering op grond van de Wet op de studiefinanciering genoot.
 
-##### Artikel 33. Afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3b&z=2014-12-18&g=2014-12-18)
+##### Artikel 33. Afwijking van [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3b&z=2015-01-01&g=2015-01-01)
 
-Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2014-12-18&g=2014-12-18) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
+Op een student die voor 1 september 2007 op grond van [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=2&artikel=3a&z=2015-01-01&g=2015-01-01) studiefinanciering ontving, blijft artikel 3a, zoals dat luidde op 31 augustus 2007, van toepassing zolang hij zonder onderbreking studiefinanciering op grond van dat artikel geniet.
 
 ##### Artikel 34. Overgangsbepaling artikel 14
 
@@ -546,9 +546,9 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2014-12-18&g=2014-12-18)
+##### Artikel 34a. Tijdelijke afwijking [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2015-01-01&g=2015-01-01)
 
-[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2014-12-18&g=2014-12-18), is niet van toepassing in de kalenderjaren 2011 en 2012.
+[Artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011545&hoofdstuk=6&artikel=17&z=2015-01-01&g=2015-01-01), is niet van toepassing in de kalenderjaren 2011 en 2012.
 
 ### Hoofdstuk 10. Wijzigingen in andere besluiten
 
