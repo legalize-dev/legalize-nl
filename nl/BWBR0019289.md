@@ -4,7 +4,7 @@ identifier: "BWBR0019289"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2010-03-17"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019289"
 soort: "AMvB"
@@ -156,13 +156,15 @@ Ingetrokken worden:
 
 ##### Artikel 1.22
 
-1. De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 1.6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2010-03-17&g=2010-03-17), verzekerd was op grond van [artikel 5 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), en aanspraak had op een uitkering als bedoeld in [artikel 20, eerste lid, onder b, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), behoudt aanspraak op zodanige uitkering voor de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
+1. De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 1.6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01), verzekerd was op grond van [artikel 5 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), en aanspraak had op een uitkering als bedoeld in [artikel 20, eerste lid, onder b, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), behoudt aanspraak op zodanige uitkering voor de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
 
 - a. de verlening van de zorg op of voor die dag is begonnen, of
 
 - b. het zorg betreft waarop hij aansluitend aan of in plaats van de onder a bedoelde zorg in redelijkheid is aangewezen.
 
-2. De [artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=3.1.3) zijn van overeenkomstige toepassing.
+2. Het eerste lid geldt na de termijn, bedoeld in [artikel 8.3 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3) niet voor zorg, bedoeld in [artikel 8.1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.1) en geldt na de termijn, bedoeld in [artikel 10.1, derde of vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=10.1) niet voor zorg, bedoeld in artikel 10.1, tweede lid, van die wet.
+
+3. De [artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=3.1.3) zijn van overeenkomstige toepassing.
 
 ##### Artikel 1.23
 
