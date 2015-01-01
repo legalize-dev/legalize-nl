@@ -4,7 +4,7 @@ identifier: "BWBR0019210"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2012-12-07"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019210"
 soort: "AMvB"
@@ -84,7 +84,11 @@ Hebben goedgevonden en verstaan:
 
 - p. landbouwgewassen: bieten, groenvoedergewassen, oliehoudende planten en vezelgewassen, pootaardappelen en zaaigranen;
 
-- q. **richtlijn 2008/90/EG:** richtlijn 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267).
+- q. richtlijn 2008/90/EG: richtlijn 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267);
+
+- r. landbouwzaaizaad: zaaizaad van landbouwgewassen;
+
+- s. landbouwgrond: grond waarop landbouwgewassen worden geteeld of onmiddellijk kunnen worden geteeld.
 
 2. Een wijziging van de desbetreffende handelsrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
@@ -106,7 +110,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 4
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-12-07&g=2012-12-07) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de voorwaarde dat slechts de bij deze regels aan te wijzen categorieën van teeltmateriaal in de handel worden gebracht;
 
@@ -140,7 +144,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 ##### Artikel 5
 
-1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2012-12-07&g=2012-12-07) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
+1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
 
 - a. de rasechtheid, de gezondheid, de groeikracht, het vochtgehalte, de afmetingen en de zuiverheid van het teeltmateriaal;
 
@@ -192,6 +196,24 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
 
-#### Paragraaf 4. Slotbepalingen
+#### Paragraaf 4. Teelt
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6b
+
+1. De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.
+
+2. De regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
+
+- a. het gebruik, de opslag en de bewerking van landbouwzaaizaad dat niet overeenkomstig de bij die regels aangewezen voorschriften is goedgekeurd;
+
+- b. het verstrekken van gegevens inzake landbouwzaaizaad aan Onze Minister;
+
+- c. het bewerken van landbouwgrond teneinde de verontreiniging van zaaizaad tegen te gaan;
+
+- d. het voorkomen van economische schade door het naast elkaar bestaan van genetisch gemodificeerde gewassen en niet-genetisch gemodificeerde gewassen.
+
+#### Paragraaf 5. Slotbepalingen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
