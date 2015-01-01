@@ -4,7 +4,7 @@ identifier: "BWBR0034538"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034538"
 soort: "wet"
@@ -82,15 +82,15 @@ Wijzigt de Wet op de loonbelasting 1964.
 
 Indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2015, bij het begin van het kalenderjaar 2016, onderscheidenlijk bij het begin van het kalenderjaar 2017, wordt toegepast, worden, met overeenkomstige toepassing van dat artikel, bij ministeriële regeling eveneens gewijzigd:
 
-- a. bij het begin van het kalenderjaar 2015: de in [artikel II, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2014-07-01&g=2014-07-01), [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2014-07-01&g=2014-07-01), [artikel VI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2014-07-01&g=2014-07-01), en [artikel VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2014-07-01&g=2014-07-01), eerstvermelde bedragen en de in artikel II, onderdeel J, artikel III, onderdeel C, [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2014-07-01&g=2014-07-01), artikel VI, onderdeel C, artikel VII, onderdeel C, en [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2014-07-01&g=2014-07-01), vermelde bedragen;
+- a. bij het begin van het kalenderjaar 2015: de in [artikel II, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2015-01-01&g=2015-01-01), [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2015-01-01&g=2015-01-01), [artikel VI, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2015-01-01&g=2015-01-01), en [artikel VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2015-01-01&g=2015-01-01), eerstvermelde bedragen en de in artikel II, onderdeel J, artikel III, onderdeel C, [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2015-01-01&g=2015-01-01), artikel VI, onderdeel C, artikel VII, onderdeel C, en [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2015-01-01&g=2015-01-01), vermelde bedragen;
 
-- b. bij het begin van het kalenderjaar 2016: de in [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2014-07-01&g=2014-07-01), en [artikel VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2014-07-01&g=2014-07-01), eerstvermelde bedragen en de in artikel III, onderdeel C, [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2014-07-01&g=2014-07-01), artikel VII, onderdeel C, en [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2014-07-01&g=2014-07-01), vermelde bedragen;
+- b. bij het begin van het kalenderjaar 2016: de in [artikel III, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2015-01-01&g=2015-01-01), en [artikel VII, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2015-01-01&g=2015-01-01), eerstvermelde bedragen en de in artikel III, onderdeel C, [artikel IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2015-01-01&g=2015-01-01), artikel VII, onderdeel C, en [artikel VIII, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2015-01-01&g=2015-01-01), vermelde bedragen;
 
-- c. bij het begin van het kalenderjaar 2017: de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2014-07-01&g=2014-07-01) en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2014-07-01&g=2014-07-01) vermelde bedragen.
+- c. bij het begin van het kalenderjaar 2017: de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2015-01-01&g=2015-01-01) en [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2015-01-01&g=2015-01-01) vermelde bedragen.
 
 ##### Artikel X
 
-Na toepassing van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2014-07-01&g=2014-07-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2014-07-01&g=2014-07-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2014-07-01&g=2014-07-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=V&z=2014-07-01&g=2014-07-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2014-07-01&g=2014-07-01) of [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2014-07-01&g=2014-07-01) worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b).
+Na toepassing van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2015-01-01&g=2015-01-01), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2015-01-01&g=2015-01-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2015-01-01&g=2015-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=V&z=2015-01-01&g=2015-01-01), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2015-01-01&g=2015-01-01) of [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2015-01-01&g=2015-01-01) worden de bedragen in kolom III van de tabel in [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10) bij ministeriële regeling gewijzigd in de bedragen die na toepassing van die artikelen voortvloeien uit de in de kolommen I en II van die tabel vermelde bedragen en de in kolom IV van die tabel vermelde percentages. De eerste volzin is van overeenkomstige toepassing op de bedragen in kolom III van de tabel in [artikel 2.10a, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10a), op de bedragen in kolom III van de tabel in [artikel 20a, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20a) en op de bedragen in kolom III van de tabel in [artikel 20b, eerste lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=20b).
 
 ##### Artikel XI
 
@@ -170,7 +170,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel XXIIIc
 
-Voor de periode die ingaat met ingang van 1 juli 2014 en afloopt met ingang van 1 oktober 2014 is in afwijking van [artikel 17 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=17) de belasting voor de geleverde hoeveelheid, bedoeld in [artikel 18, onderdelen b tot en met e van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=18), verschuldigd op het eerstvolgende tijdstip, bedoeld in artikel 17, eerste lid, dat zich voordoet na 30 september 2014.
+Vervallen
 
 ##### Artikel XXIIId
 
@@ -252,7 +252,7 @@ Wijzigt de Wet tegemoetkoming chronisch zieken en gehandicapten.
 
 ##### Artikel XXXIIIe
 
-Na de inwerkingtreding van deze wet berust het [Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859) op [artikel XXXIIID](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXIIId&z=2014-07-01&g=2014-07-01).
+Na de inwerkingtreding van deze wet berust het [Besluit tegemoetkoming specifieke zorgkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0027859) op [artikel XXXIIID](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXIIId&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel XXXIV
 
@@ -274,41 +274,41 @@ Ingeval de samenloop van wetten die in 2013 in het Staatsblad zijn of worden gep
 
 1. Deze wet treedt in werking met ingang van 1 januari 2014, met dien verstande dat:
 
-- a. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2015 wordt toegepast: [artikel II, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2014-07-01&g=2014-07-01), eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
+- a. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2015 wordt toegepast: [artikel II, onderdelen J en K](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=II&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 wordt toegepast: [artikel III, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2014-07-01&g=2014-07-01), eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
+- b. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2016 wordt toegepast: [artikel III, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=III&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- c. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2014-07-01&g=2014-07-01) eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
+- c. indien [artikel 10.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IV&z=2015-01-01&g=2015-01-01) eerst toepassing vindt nadat genoemd artikel 10.1 en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- d. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2015 wordt toegepast: [artikel VI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2014-07-01&g=2014-07-01), eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
+- d. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2015 wordt toegepast: [artikel VI, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VI&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- e. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2016 wordt toegepast: [artikel VII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2014-07-01&g=2014-07-01), eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
+- e. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2016 wordt toegepast: [artikel VII, onderdelen C en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VII&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat genoemd artikel 22d en artikel IX bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- f. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2014-07-01&g=2014-07-01) eerst toepassing vindt nadat genoemd artikel 22d en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IX&z=2014-07-01&g=2014-07-01) bij het begin van genoemd kalenderjaar zijn toegepast;
+- f. indien [artikel 22d van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=22d) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=VIII&z=2015-01-01&g=2015-01-01) eerst toepassing vindt nadat genoemd artikel 22d en [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=IX&z=2015-01-01&g=2015-01-01) bij het begin van genoemd kalenderjaar zijn toegepast;
 
-- g. [artikel XIX, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIX&z=2014-07-01&g=2014-07-01), eerst toepassing vindt nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) bij het begin van het kalenderjaar 2014 is toegepast;
+- g. [artikel XIX, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIX&z=2015-01-01&g=2015-01-01), eerst toepassing vindt nadat [artikel 81a van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=81a) bij het begin van het kalenderjaar 2014 is toegepast;
 
-- h. indien [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXIV&z=2014-07-01&g=2014-07-01) eerst toepassing vindt nadat genoemd artikel 90 bij het begin van genoemd kalenderjaar is toegepast;
+- h. indien [artikel 90 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=90) bij het begin van het kalenderjaar 2017 wordt toegepast: [artikel XXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXIV&z=2015-01-01&g=2015-01-01) eerst toepassing vindt nadat genoemd artikel 90 bij het begin van genoemd kalenderjaar is toegepast;
 
-- i. de wijziging ingevolge [artikel XXVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVII&z=2014-07-01&g=2014-07-01), voor het eerst toepassing vindt met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2011;
+- i. de wijziging ingevolge [artikel XXVII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVII&z=2015-01-01&g=2015-01-01), voor het eerst toepassing vindt met betrekking tot berekeningsjaren die zijn aangevangen op of na 1 januari 2011;
 
-- j. de [artikelen XXIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXIXa&z=2014-07-01&g=2014-07-01) en [XXX](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXX&z=2014-07-01&g=2014-07-01) toepassing vinden voordat [artikel II van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=II) en de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=III) en [IIIbis, onderdelen A, B en C, van het Belastingplan 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IIIbis) worden toegepast;
+- j. de [artikelen XXIXA](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXIXa&z=2015-01-01&g=2015-01-01) en [XXX](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXX&z=2015-01-01&g=2015-01-01) toepassing vinden voordat [artikel II van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=II) en de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=III) en [IIIbis, onderdelen A, B en C, van het Belastingplan 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029341&artikel=IIIbis) worden toegepast;
 
-- k. [artikel XXXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXI&z=2014-07-01&g=2014-07-01), toepassing vindt voordat [artikel XXVA van de Wet uitwerking autobrief](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XXVa) wordt toegepast;
+- k. [artikel XXXI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXI&z=2015-01-01&g=2015-01-01), toepassing vindt voordat [artikel XXVA van de Wet uitwerking autobrief](https://wetten.overheid.nl/jci1.3:c:BWBR0030923&artikel=XXVa) wordt toegepast;
 
-- l. [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXII&z=2014-07-01&g=2014-07-01) toepassing vindt voordat [artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=III) wordt toegepast.
+- l. [artikel XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXXII&z=2015-01-01&g=2015-01-01) toepassing vindt voordat [artikel III van de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0031798&artikel=III) wordt toegepast.
 
-2. [Artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIV&z=2014-07-01&g=2014-07-01), werkt terug tot en met 29 oktober 2012.
+2. [Artikel XIV, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIV&z=2015-01-01&g=2015-01-01), werkt terug tot en met 29 oktober 2012.
 
-3. De [artikelen I, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2014-07-01&g=2014-07-01), en [XXVIIA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVIIa&z=2014-07-01&g=2014-07-01), werken terug tot en met 1 januari 2013.
+3. De [artikelen I, onderdeel Ea](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2015-01-01&g=2015-01-01), en [XXVIIA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVIIa&z=2015-01-01&g=2015-01-01), werken terug tot en met 1 januari 2013.
 
-4. [Artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2014-07-01&g=2014-07-01), en [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIV&z=2014-07-01&g=2014-07-01), werken terug tot en met 1 oktober 2013.
+4. [Artikel I, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=I&z=2015-01-01&g=2015-01-01), en [artikel XIV, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIV&z=2015-01-01&g=2015-01-01), werken terug tot en met 1 oktober 2013.
 
-5. In afwijking van het eerste lid treedt [artikel XIA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIa&z=2014-07-01&g=2014-07-01), in werking op de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+5. In afwijking van het eerste lid treedt [artikel XIA, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIa&z=2015-01-01&g=2015-01-01), in werking op de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
-6. In afwijking van het eerste lid treedt [artikel XIA, onderdelen A, B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIa&z=2014-07-01&g=2014-07-01), in werking met ingang van 1 juli 2014.
+6. In afwijking van het eerste lid treedt [artikel XIA, onderdelen A, B en D](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XIa&z=2015-01-01&g=2015-01-01), in werking met ingang van 1 juli 2014.
 
-7. In afwijking van het eerste lid treden de [artikelen XXVII, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVII&z=2014-07-01&g=2014-07-01), en [XXVIIA, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVIIa&z=2014-07-01&g=2014-07-01), in werking met ingang van 1 januari 2015.
+7. In afwijking van het eerste lid treden de [artikelen XXVII, onderdeel B, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVII&z=2015-01-01&g=2015-01-01), en [XXVIIA, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0034538&artikel=XXVIIa&z=2015-01-01&g=2015-01-01), in werking met ingang van 1 januari 2015.
 
 ##### Artikel XXXVIII
 
