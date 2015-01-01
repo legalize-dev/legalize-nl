@@ -4,7 +4,7 @@ identifier: "BWBR0034090"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034090"
 soort: "wet"
@@ -81,7 +81,7 @@ De curator van een persoon die voor het tijdstip van inwerkingtreding van deze w
 
 ##### Artikel V
 
-Curatoren als bedoeld in [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), bewindvoerders als bedoeld in [artikel 435, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), en mentoren als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452), die voor het tijdstip van inwerkingtreding van [artikel I, onderdelen E, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0034090&artikel=I&z=2014-04-01&g=2014-04-01), zijn benoemd, hebben tot twee jaar na dat tijdstip de gelegenheid om aan de in genoemde bepaling bedoelde kwaliteitseisen te voldoen.
+Curatoren als bedoeld in [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), bewindvoerders als bedoeld in [artikel 435, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), en mentoren als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452), die voor het tijdstip van inwerkingtreding van [artikel I, onderdelen E, P en AA](https://wetten.overheid.nl/jci1.3:c:BWBR0034090&artikel=I&z=2015-01-01&g=2015-01-01), zijn benoemd, hebben tot twee jaar na dat tijdstip de gelegenheid om aan de in genoemde bepaling bedoelde kwaliteitseisen te voldoen.
 
 ##### Artikel VI
 
