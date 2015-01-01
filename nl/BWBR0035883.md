@@ -147,15 +147,3 @@ Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt op 1 ja
 Deze regeling wordt aangehaald als: Subsidieregeling andere eindtoetsen PO.
 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 1a. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
-
-De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is van toepassing op deze regeling, met uitzondering van de [artikelen 7.3 tot en met 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.3).
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
-
-##### Artikel 10a. Afwijking berekening subsidiebedrag 2020 in verband met COVID-19
-
-In 2020 vindt de vaststelling van het subsidiebedrag, in afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2020-06-24&g=2020-06-24), plaats op basis van de opgave van het aantal leerlingen, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2020-06-24&g=2020-06-24).
-
-Deze regeling wordt met de toelichting in de Staatscourant geplaatst.
