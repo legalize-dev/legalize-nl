@@ -4,7 +4,7 @@ identifier: "BWBR0025577"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-01-01"
-last_updated: "2013-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025577"
 soort: "AMvB"
@@ -152,85 +152,29 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 ##### Artikel 12
 
-1. De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in verband met de universele postdienst en stelt Onze Minister in kennis van de raming.
-
-2. De verlener van de universele postdienst is ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in verband met de universele postdienst, jaarlijks een vergoeding verschuldigd ter hoogte van die kosten minus de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.
-
-3. De [artikelen 13, tweede tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2013-04-01&g=2013-04-01), en [15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2013-04-01&g=2013-04-01), zijn van overeenkomstige toepassing.
+Vervallen
 
 #### § 6. Vergoeding kosten Autoriteit Consument en Markt buiten universele postdienst
 
 ##### Artikel 13
 
-1. De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572), met uitzondering van de werkzaamheden, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2013-04-01&g=2013-04-01), en stelt Onze Minister in kennis van de raming.
-
-2. Ter zake van de kosten, bedoeld in [artikel 64, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) gelden als uitgangspunten dat:
-
-- a. de kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;
-
-- b. de directe kosten rechtstreeks worden toegerekend aan categorieën van gelijksoortige werkzaamheden;
-
-- c. de indirecte kosten worden toegerekend aan categorieën van gelijksoortige werkzaamheden naar rato van hun beslag op de onderscheiden werkzaamheden of diensten;
-
-- d. voor zover de kosten bestaan uit afschrijvingskosten, deze kosten worden toegerekend door middel van een evenredige afschrijving op de aanschafwaarden van de investeringsgoederen per kalenderjaar op basis van de economische levensduur;
-
-- e. de kosten op bedrijfseconomische wijze worden berekend door middel van een door de Autoriteit Consument en Markt toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.
-
-3. De Autoriteit Consument en Markt legt het kostencalculatiemodel ter inzage.
-
-4. De Autoriteit Consument en Markt neemt, ter compensatie van een door de Autoriteit Consument en Markt vastgesteld verschil tussen de werkelijke kosten voor een kalenderjaar en de in dat kalenderjaar ontvangen vergoedingen als bedoeld in [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64), een bedrag op in de ramingen van de kosten in de jaren, volgend op een verschil.
+Vervallen
 
 ##### Artikel 14
 
-1. De minister stelt jaarlijks een verdeelsleutel voor het komende kalenderjaar vast voor de verdeling van de kosten, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2013-04-01&g=2013-04-01), in de vorm van een uniform percentage van de relevante omzet van elk postvervoerbedrijf.
-
-2. De verdeelsleutel, bedoeld in het eerste lid, wordt berekend op grond van:
-
-- a. de totale kosten van de Autoriteit Consument en Markt in het komende kalender jaar, geraamd met inachtneming van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2013-04-01&g=2013-04-01), minus en
-
-- 1°. de kosten van de Autoriteit Consument en Markt voor de registratie, bedoeld in [artikel 42, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=42), en
-
-- 2°. de kosten van de behandeling van bezwaar- en beroepschriften,
-
-- b. de totale omzet van het voorafgaande jaar van de postvervoerbedrijven die ingevolge [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) een vergoeding verschuldigd zijn.
+Vervallen
 
 ##### Artikel 15
 
-1. De Autoriteit Consument en Markt berekent de vergoeding voor een kalenderjaar per postvervoerbedrijf door de relevante omzet van het postvervoerbedrijf in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin de vergoeding wordt vastgesteld te vermenigvuldigen met de op basis van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2013-04-01&g=2013-04-01) vastgestelde verdeelsleutel.
-
-2. De vergoeding wordt aan de Autoriteit Consument en Markt betaald binnen een termijn van 30 dagen na dagtekening van het verzoek tot betaling.
-
-3. Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.
-
-4. De relevante omzet, bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) bedraagt € 2.000.000.
+Vervallen
 
 ##### Artikel 16
 
-1. De berekening van de omzet van het vervoer van poststukken geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
-
-2. Indien een postvervoerbedrijf behoort tot een groep van ondernemingen als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b) worden voor de berekening van de omzet van het vervoer van poststukken van die postvervoerbedrijf de omzetten van het vervoer van poststukken van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.
-
-3. Indien een postvervoerbedrijf door de Autoriteit Consument en Markt is geregistreerd op grond van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=41) in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere postvervoerbedrijven waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van dat postvervoerbedrijf of postvervoerbedrijven overeenkomstig bij ministeriële regeling te stellen regels.
-
-4. Indien een postvervoerbedrijf verlener van de universele postdienst is, wordt uitsluitend de omzet van vervoer van poststukken buiten de universele postdienst als omzet voor de vaststelling van de verdeelsleutel, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2013-04-01&g=2013-04-01), gebruikt.
-
-5. Voor gevallen waarin berekening van de omzet van het vervoer van poststukken niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader genoemde opbrengsten geheel of gedeeltelijk buiten beschouwing blijven.
+Vervallen
 
 ##### Artikel 17
 
-1. Een postvervoerbedrijf dat ingevolge [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64) een vergoeding verschuldigd is, verstrekt jaarlijks voor 1 september aan de Autoriteit Consument en Markt:
-
-- a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), dat de opgave voldoet aan [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=16&z=2013-04-01&g=2013-04-01), of
-
-- b. een opgave van de netto-omzet die op grond van [artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
-
-2. Een postvervoerbedrijf kan elk jaar een beroep doen op de omstandigheid dat de relevante omzet, die is gerealiseerd in het voorafgaande kalenderjaar, lager is dan het criterium met betrekking tot de relevante omzet, bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
-
-3. In elk jaar dat een postvervoerbedrijf een beroep doet op de omstandigheid, bedoeld in het tweede lid, doet het postvervoerbedrijf voor 1 september aan de Autoriteit Consument en Markt een onderbouwde opgave over zijn omzet op grond waarvan naar het oordeel van de Autoriteit Consument en Markt aannemelijk is dat de omzet minder bedraagt dan het in het tweede lid bedoelde criterium.
-
-4. Indien het postvervoerbedrijf aan de in het eerste of derde lid bedoelde verplichting niet tijdig heeft voldaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door de Autoriteit Consument en Markt in de gelegenheid te zijn gesteld, kan de Autoriteit Consument en Markt een schatting doen van zijn omzet en op basis daarvan de vergoeding voor het postvervoerbedrijf vaststellen.
-
-5. Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de relevante omzet door het postvervoerbedrijf en over de verklaring van de accountant.
+Vervallen
 
 #### § 7. Aanwijzingsprocedure verlener universele postdienst
 
@@ -256,15 +200,15 @@ De bedragen, bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.over
 
 ##### Artikel 19
 
-De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2013-04-01&g=2013-04-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
+De vergoeding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=15&z=2015-01-01&g=2015-01-01), voor het kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in werking treedt en, indien nodig, voor de twee daaropvolgende kalenderjaren, wordt in rekening gebracht na vaststelling van het criterium met betrekking tot de relevante omzet van een postvervoerbedrijf in Nederland als bedoeld in [artikel 64, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=64).
 
 ##### Artikel 20
 
 1. In het kalenderjaar van de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572):
 
-- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2013-04-01&g=2013-04-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2013-04-01&g=2013-04-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2013-04-01&g=2013-04-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
+- a. worden de ramingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=5&artikel=12&z=2015-01-01&g=2015-01-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2015-01-01&g=2015-01-01), in afwijking van [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=13&z=2015-01-01&g=2015-01-01), binnen zes weken na de datum van inwerkingtreding van dit besluit voor de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) in dat kalenderjaar of het resterende gedeelte van dat kalenderjaar vastgesteld;
 
-- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2013-04-01&g=2013-04-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2013-04-01&g=2013-04-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
+- b. wordt de verdeelsleutel, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01), in afwijking van [artikel 14, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025577&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01), voor het eerste kalenderjaar waarin de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025572) van kracht is, berekend op grond van de in onderdeel a bedoelde ramingen.
 
 2. Postvervoerbedrijven delen binnen zes weken na de datum van inwerkingtreding van dit besluit aan de Autoriteit Consument en Markt de relevante omzet mee, die gerealiseerd is in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar van inwerkingtreding.
 
