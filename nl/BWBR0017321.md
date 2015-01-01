@@ -4,7 +4,7 @@ identifier: "BWBR0017321"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017321"
 soort: "AMvB"
@@ -80,7 +80,7 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 2. Het kind met het hoogste aantal uren kinderopvang wordt voor de berekening van de hoogte van de kinderopvangtoeslag als eerste kind beschouwd.
 
-3. In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang, wordt het kind met de laagste kosten van kinderopvang als eerste kind beschouwd.
+3. In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang, wordt het kind met de hoogste kosten van kinderopvang als eerste kind beschouwd.
 
 4. In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang met gelijke kosten van kinderopvang, stelt de inspecteur vast welk kind als eerste kind moet worden beschouwd.
 
@@ -88,17 +88,17 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1. De maximum uurprijs bedraagt voor:
 
-- a. dagopvang € 6,70;
+- a. dagopvang € 6,84;
 
-- b. buitenschoolse opvang € 6,25, en
+- b. buitenschoolse opvang € 6,38, en
 
-- c. gastouderopvang € 5,37.
+- c. gastouderopvang € 5,48.
 
 2. Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.
 
 ##### Artikel 5
 
-De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01), wordt jaarlijks aangepast overeenkomstig:
+De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), wordt jaarlijks aangepast overeenkomstig:
 
 - a. 80% van de ontwikkeling van de loonvoet bedrijven en 20% van de consumentenprijsindex zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd; en
 
@@ -106,21 +106,21 @@ De maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 6
 
-Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2014-01-01&g=2014-01-01) opgenomen.
+Voor de berekening van de kinderopvangtoeslag is de verdeling van de toetsingsinkomens in inkomensgroepen vanaf het berekeningsjaar 2009 in de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2015-01-01&g=2015-01-01) opgenomen.
 
 ##### Artikel 7
 
-De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
+De bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), worden aangepast overeenkomstig de ontwikkeling van de contractlonen, zoals deze voor het betrokken jaar, blijkens bekendmaking in het Centraal Economisch Plan in het voorafgaande jaar, is geraamd, waarbij onder ontwikkeling van de contractlonen wordt verstaan: het gemiddelde van de procentuele ontwikkeling van de contractlonen in de marktsector, de gepremieerde sector en de gesubsidieerde sector, en bij de overheid, zoals dit door het Centraal Planbureau wordt bekendgemaakt.
 
 ##### Artikel 8
 
 1. De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.
 
-2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2014-01-01&g=2014-01-01).
+2. De percentages, bedoeld in het eerste lid, worden vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&bijlage=I&z=2015-01-01&g=2015-01-01).
 
-3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01), € 86.582 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01), een kinderopvangtoeslag waarvan de hoogte minder dan 33,3 procent van die kosten betreft.
+3. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), € 88.270 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), een kinderopvangtoeslag waarvan de hoogte minder dan 33,3 procent van die kosten betreft.
 
-4. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01), € 103.574 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01), een kinderopvangtoeslag waarvan de hoogte 18 procent van die kosten betreft.
+4. Indien het toetsingsinkomen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), € 105.594 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=3&z=2015-01-01&g=2015-01-01), een kinderopvangtoeslag waarvan de hoogte 18 procent van die kosten betreft.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -431,7 +431,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01) van het Besluit kinderopvangtoeslag
+## Bijlage I. , behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01) van het Besluit kinderopvangtoeslag
 
 ## Bijlage IIb. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
@@ -457,9 +457,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. per berekeningsjaar:
 
-- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), gezamenlijk;
+- 1°. 140 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor dagopvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), gezamenlijk;
 
-- 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), gezamenlijk;
+- 2°. 70 procent van het aantal gewerkte uren, waarbij reistijd niet wordt aangemerkt als gewerkte uren, voor buitenschoolse opvang en gastouderopvang aan een kind in de leeftijd, bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=1&artikel=1&z=2015-01-01&g=2015-01-01), gezamenlijk;
 
 - 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in [artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.
 
@@ -467,7 +467,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.
 
-4. Bij de toepassing van het eerste lid wordt indien een ouder of partner niet langer arbeid als bedoeld in [artikel 1.6, eerste lid, onderdeel a of b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6) verricht, gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, uitgegaan van het aantal uren dat de ouder of partner daaraan voorafgaand werkte.
+4. Bij de toepassing van het eerste lid wordt indien een ouder of zijn partner aanspraak op een kinderopvangtoeslag behoudt op grond van [artikel 1.6, vijfde of zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.6), uitgegaan van het aantal uren dat een ouder of zijn partner voorafgaand aan de beëindiging van de arbeid als bedoeld in dat artikel verrichtte.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -477,7 +477,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 5a
 
-[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01) wordt niet toegepast voor de aanpassing van de maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2014-01-01&g=2014-01-01), per 1 januari 2012.
+[Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=5&z=2015-01-01&g=2015-01-01) wordt niet toegepast voor de aanpassing van de maximum uurprijs, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01), per 1 januari 2012.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -501,7 +501,7 @@ Indien buitenschoolse opvang wordt geboden aan kinderen die basisonderwijs volge
 
 ##### Artikel 7a
 
-[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2014-01-01&g=2014-01-01) wordt niet toegepast voor de aanpassing van de bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01), per 1 januari 2013.
+[Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=7&z=2015-01-01&g=2015-01-01) wordt niet toegepast voor de aanpassing van de bedragen van de toetsingsinkomens van de inkomensgroepen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0017321&hoofdstuk=2&paragraaf=1&artikel=6&z=2015-01-01&g=2015-01-01), per 1 januari 2013.
 
 #### Paragraaf 2. Specifieke berekeningsfactor bij kinderopvangtoeslag voor ouder zonder partner
 
@@ -509,7 +509,7 @@ Indien buitenschoolse opvang wordt geboden aan kinderen die basisonderwijs volge
 
 ### Hoofdstuk 4. Slotbepalingen
 
-### Kinderopvangtoeslagtabel 2014
+### Kinderopvangtoeslagtabel 2015
 
 ## Bijlage IIa. , behorende artikel 6, tweede lid, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang
 
