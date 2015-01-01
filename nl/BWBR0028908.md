@@ -4,7 +4,7 @@ identifier: "BWBR0028908"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-26"
-last_updated: "2013-10-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028908"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ Besluit:
 
 2. Eveneens wordt geen griffierecht geheven:
 
-- a. van gemeenten in zaken als bedoeld in de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4) en [5 van hoofdstuk 6 van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5) en [hoofdstuk 7 van de Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&hoofdstuk=7), zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);
+- a. van gemeenten in zaken als bedoeld in de [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.4) en [5 van hoofdstuk 6 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&paragraaf=6.5) en [hoofdstuk 7 van de Wet investeren in jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026054&hoofdstuk=7), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](https://wetten.overheid.nl/jci1.3:c:BWBR0030997&artikel=II) (Stb. 650);
 
 - b. ingeval van ambtshalve verrichte verzegeling en ontzegeling als bedoeld in de [artikelen 661](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=661) en [666 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=666);
 
