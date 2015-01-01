@@ -4,7 +4,7 @@ identifier: "BWBR0035248"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035248"
 soort: "ministeriele-regeling"
@@ -56,7 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **richtlijn 2007/43/EG:** [richtlijn 2007/43/EG](32007L0043) van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L 182);
 
-- –. **verordening (EG) nr. 1/2005:** [verordening (EG) nr. 1/2005](32005R0001): [verordening (EG) nr. 1/2005](32005R0001) van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de [Richtlijnen 64/432/EEG](31964L0432) en [93/119/EG](31993L0119) en [Verordening (EG) nr. 1255/97](31997R1255) (PbEU 2005, L 3).
+- –. **verordening (EG) nr. 1/2005:** [verordening (EG) nr. 1/2005](32005R0001): [verordening (EG) nr. 1/2005](32005R0001) van de Raad van de Europese Unie van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de [Richtlijnen 64/432/EEG](31964L0432) en [93/119/EG](31993L0119) en [Verordening (EG) nr. 1255/97](31997R1255) (PbEU 2005, L 3);
+
+- –. **verordening (EU) nr. 1308/2013:** verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347);
+
+- –. **verordening (EG) nr. 617/2008:** verordening (EG) nr. 617/2008 van de Commissie van 27 juni 2008 houdende bepalingen ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad, wat betreft de handelsnormen voor broedeieren en kuikens van pluimvee (PbEU 2008, L 168).
 
 ### Hoofdstuk 2. Dieren die gehouden mogen worden
 
@@ -178,25 +182,25 @@ Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://w
 
 ##### Artikel 5.4. Getuigschrift van vakbekwaamheid
 
-1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2014-07-01&g=2014-07-01), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
+1. Een getuigschrift van vakbekwaamheid als bedoeld in artikel 7 van [verordening (EG) nr. 1099/2009](32009R1099) wordt verstrekt door de instelling, bedoeld in [artikel 6.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2015-01-01&g=2015-01-01), die het afsluitend examen heeft afgenomen indien het examen met voldoende resultaat is afgelegd.
 
 2. Een getuigschrift van vakbekwaamheid wordt niet verstrekt indien niet is voldaan aan het vereiste, bedoeld in artikel 21, zesde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.5. Voorlopige getuigschriften van vakbekwaamheid
 
-1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2014-07-01&g=2014-07-01), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+1. Een instelling die is aangewezen op grond van [artikel 5.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2015-01-01&g=2015-01-01), verstrekt voorlopige getuigschriften van vakbekwaamheid overeenkomstig artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
-2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
+2. [Artikel 5.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op het verstrekken van voorlopige getuigschriften als bedoeld in het eerste lid.
 
 ##### Artikel 5.6. Indiening collectieve aanvragen
 
-Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2014-07-01&g=2014-07-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2014-07-01&g=2014-07-01) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
+Aanvragen tot verstrekking van een getuigschrift als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2015-01-01&g=2015-01-01) en [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2015-01-01&g=2015-01-01) kunnen collectief namens betrokken personen door de werkgever van die personen worden gedaan en bevatten de namen, adressen en geboortegegevens van de betrokken personen, alsmede de overige gegevens, bedoeld in artikel 21, vijfde lid, van [verordening (EG) nr. 1099/2009](32009R1099).
 
 ##### Artikel 5.7. Gelijkstelling van voor 1 juni 2013 verstrekte getuigschriften
 
-1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2014-07-01&g=2014-07-01).
+1. Getuigschriften van vakbekwaamheid voor het doden van dieren die zijn verstrekt in de periode te rekenen vanaf 1 januari 2012 tot 1 juni 2013 door SVO Lobex BV te Houten, en certificaten van de cursus ‘Euthanasie van nertsen’ zijn gelijkgesteld aan getuigschriften van vakbekwaamheid als bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2015-01-01&g=2015-01-01).
 
-2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2014-07-01&g=2014-07-01) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2014-07-01&g=2014-07-01) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2014-07-01&g=2014-07-01) kan worden verstrekt.
+2. Ten behoeve van personen als bedoeld in artikel 29, tweede lid, van [verordening (EG) nr. 1099/2009](32009R1099) wordt door instellingen als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.3&z=2015-01-01&g=2015-01-01) in hun opleidingsprogramma voorzien in een verkorte cursus op basis waarvan door een instelling aangewezen op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.5&z=2015-01-01&g=2015-01-01) aan hen een getuigschrift van vakbekwaamheid overeenkomstig [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=5&artikel=5.4&z=2015-01-01&g=2015-01-01) kan worden verstrekt.
 
 ##### Artikel 5.8. Verbodsbepaling
 
@@ -216,7 +220,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 3. De kennisgeving gaat per stal vergezeld van de volgende gegevens:
 
-- a. het KIP-nummer, zijnde het nummer dat wordt verstrekt op grond van [artikel 2, tweede lid, van de Verordening identificatie en registratie van pluimveebedrijven en levend pluimvee (PPE) 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031111&artikel=2) van het Productschap Pluimvee en Eieren;
+- a. het registratienummer, bedoeld in [artikel 3, tweede lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=3);
 
 - b. het relatienummer van de houder;
 
@@ -228,7 +232,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 - f. het bouwjaar van de stal en, indien van toepassing, het jaar waarin een grondige verbouwing met directe gevolgen voor het dierenwelzijn heeft plaatsgevonden.
 
-4. De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn opgenomen in het KIP registratiesysteem, bedoeld in de in het derde lid, onderdeel a, genoemde verordening.
+4. De houder kan verstrekking van gegevens als bedoeld in het derde lid achterwege laten, voor zover deze gegevens zijn opgenomen in een databank die ingevolge [artikel 38hh, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38hh) is aangewezen als databank waarin de registratie, bedoeld in [artikel 38dd, eerste in samenhang met het tweede en derde lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38dd) plaatsvindt.
 
 ##### Artikel 6.3. Kennisgeving lagere bezettingsdichtheid
 
@@ -236,9 +240,9 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 2. Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruikt gemaakt van een door de minister ter beschikking gesteld middel.
 
-3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 6.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2014-07-01&g=2014-07-01).
+3. De kennisgeving gaat per stal vergezeld van de gegevens, genoemd in [artikel 6.2, derde lid, onderdelen a, b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01).
 
-4. [Artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+4. [Artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6.4. Berekening bezettingsdichtheid
 
@@ -262,35 +266,47 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 - a. bij het slachthuis:
 
-- 1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=3&z=2014-07-01&g=2014-07-01) bij deze regeling is gevoegd, dan wel
+- 1°. door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel, waarvan 50 kuikens direct na verwerking van ongeveer 30% van het koppel, en 50 kuikens direct na verwerking van ongeveer 60% van het koppel, met inachtneming van het protocol dat als bijlage 3 bij deze regeling is gevoegd, dan wel:
 
-- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel;
+- 2°. met gebruikmaking van een digitaal meetsysteem bij ten minste 70% van alle kuikens van elk koppel, overeenkomstig het protocol, dat is opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2015-01-01&g=2015-01-01);
 
-- b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide medewerker, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&bijlage=4&z=2014-07-01&g=2014-07-01) bij deze regeling is gevoegd.
+- b. in de stal: ten hoogste 5 werkdagen voordat de laatste vleeskuikens worden weggeladen, door een daarvoor opgeleide controleur, bij 100 kuikens van elk koppel met inachtneming van het protocol dat als bijlage 5 bij deze regeling is gevoegd.
 
 4. De totaalscore voor het koppel wordt vastgesteld:
 
-- a. in geval van visuele meting in het slachthuis of het houderijbedrijf met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x(0,5) + (aantal dieren klasse 2)x2
+- a. in geval van visuele meting in het slachthuis of het houderijbedrijf met gebruikmaking van de formule: aantal punten = (aantal dieren klasse 0) x 0 + (aantal dieren klasse 1) x (0,5) + (aantal dieren klasse 2) x 2
 
-- b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten= (percentage dieren klasse 0)x0 + (percentage dieren klasse 1)x(0,5) + (percentage dieren klasse 2)x2
+- b. bij meting door middel van een digitaal meetsysteem met de formule: aantal punten = (percentage dieren klasse 0) x 0 + (percentage dieren klasse 1) x (0,5) + (percentage dieren klasse 2) x 2
 
-5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2014-07-01&g=2014-07-01), en [6.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.8&z=2014-07-01&g=2014-07-01), zijn van overeenkomstige toepassing.
+5. De in het eerste lid bedoelde houder verstrekt per koppel de gegevens waaruit de score blijkt binnen 30 dagen na de vaststelling aan de minister. De [artikelen 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01), en [6.8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.8&z=2015-01-01&g=2015-01-01), zijn van overeenkomstige toepassing.
 
 6. De in het eerste lid bedoelde houder stelt na elk kalenderjaar een gemiddelde score voor het afgelopen jaar per stal vast op basis van de gegevens, bedoeld in het vijfde lid.
 
+7. Het in het derde lid, onderdeel a, onder 2°, bedoelde digitale meetsysteem voldoet aan de volgende eisen:
+
+- a. het systeem levert een betrouwbare indeling op van de voetzoollaesies in de in het tweede lid genoemde klassen en van de resultaten van de meting overeenkomstig de in het vierde lid, onderdeel b, genoemde formule;
+
+- b. het systeem kan ten behoeve van een betrouwbare indeling worden ingesteld op beoordeling van de poten van de koppels die onder hoogbroei en van de koppels die onder laagbroei zijn verwerkt;
+
+- c. het systeem kan op zodanige wijze worden ingesteld dat de beoordeling van ieder koppel afzonderlijk plaatsvindt;
+
+- d. de in onderdeel a bedoelde gegevens worden ten minste eenmaal per dag opgeleverd;
+
+- e. de beelden van de beoordeelde koppels kunnen worden bewaard.
+
 ##### Artikel 6.6. Gevolgen hoge scores
 
-1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2014-07-01&g=2014-07-01), niet hoger dan 80 punten.
+1. Indien een bezettingsdichtheid van meer dan 39 kg/m2, maar ten hoogste 42 kg/m2 wordt toegepast, is de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), niet hoger dan 80 punten.
 
-2. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2014-07-01&g=2014-07-01), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
+2. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), in afwijking van het eerste lid, meer dan 120 punten bedraagt,
 
 - a. stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 maart van het jaar dat volgt op het jaar waarop de verstrekte gegevens betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waarvoor de gemiddelde score meer dan 120 punten bedroeg, om ervoor te zorgen dat in elk geval aan het einde van dat jaar wordt voldaan aan het eerste lid, en
 
-- b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, de bezettingsdichtheid in elke stal waar de gemiddelde score meer dan 120 punten bedroeg, tot ten hoogste 39 kg/m2.
+- b. verlaagt de houder uiterlijk met ingang van 1 maart van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, en vervolgens ten minste gedurende het hele kalenderjaar, de bezettingsdichtheid in elke stal waar de gemiddelde score meer dan 120 punten bedroeg, tot ten hoogste 39 kg/m².
 
-3. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2014-07-01&g=2014-07-01), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
+3. Indien de gemiddelde score, bedoeld in [artikel 6.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), in afwijking van het eerste lid, meer dan 80 punten bedraagt maar minder dan 120 punten, stelt de houder, zo mogelijk met behulp van een dierenarts, voor 1 februari van het jaar dat volgt op het jaar waarop de meldingen betrekking hadden, een verbeterplan op met daarin de maatregelen die hij gaat doorvoeren in elke stal waar de gemiddelde score meer dan 80 punten bedroeg, om ervoor te zorgen dat binnen een jaar wordt voldaan aan het eerste lid.
 
-4. Een verbeterplan wordt ingediend bij de minister. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+4. Een verbeterplan wordt ingediend bij de minister. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 5. Indien naar het oordeel van de minister de uitvoering van het verbeterplan er in redelijkheid niet toe kan leiden dat binnen een kalenderjaar kan worden voldaan aan het eerste lid, dient de houder op verzoek van de minister binnen een maand na dat verzoek een aangepast verbeterplan in.
 
@@ -300,11 +316,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 ##### Artikel 6.7. Voortduren meting bij gedwongen verlaging bezettingsdichtheid naar 39 kg/m2
 
-[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2014-07-01&g=2014-07-01) is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m2 van overeenkomstige toepassing op de houder, bedoeld in [artikel 6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.6&z=2014-07-01&g=2014-07-01).
+[Artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01) is ten aanzien van het kalenderjaar waarin de bezettingsdichtheid is verlaagd naar ten hoogste 39 kg/m2 van overeenkomstige toepassing op de houder, bedoeld in [artikel 6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.6&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 6.8. Verstrekking gegevens aantallen vleeskuikens
 
-1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
+1. Ten behoeve van het bepalen van de bezettingsdichtheid draagt de houder, bedoeld in de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01) en [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.3&z=2015-01-01&g=2015-01-01), er zorg voor dat per koppel de volgende gegevens worden verstrekt aan de minister:
 
 - a. het aantal binnengebrachte vleeskuikens, bedoeld in [artikel 2.52, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52);
 
@@ -322,7 +338,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 3. De houder bewaart de gegevens, bedoeld in het eerste lid, gedurende drie jaren na de datum van de verstrekking bij de gegevens die op grond van [artikel 2.52 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.52) worden geregistreerd.
 
-4. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2014-07-01&g=2014-07-01), is van overeenkomstige toepassing.
+4. [Artikel 6.2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.2&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 6.9. Erkenning opleidingscertificaat
 
@@ -344,17 +360,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder bruto oppervlakte van 
 
 - b. maatregelen die in het kader van de bedrijfsvoering kunnen worden genomen om het ontstaan van contactdermatitis te voorkomen dan wel tegen te gaan.
 
-### Hoofdstuk 7. Registratie van legkippenhouders
+### Hoofdstuk 6. Verzorging vleeskuikens
 
-##### Artikel 7.1. Registratie legkippen
+##### Artikel 7.1. Registratie houders van legkippen
 
-1. Ter uitvoering van [artikel 2.69 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.69) wordt medewerking gevorderd van het Productschap Pluimvee en Eieren.
-
-2. De in het eerste lid bedoelde medewerking bestaat uit het vaststellen van een registratie systeem voor pluimveehouders, het toekennen van een identificatienummer en de daarbij behorende administratieve verplichtingen.
-
-3. Het Productschap Pluimvee en Eieren kan voor het toekennen van een identificatienummer en voor de onderzoeken of verrichtingen die het productschap uitvoert in het kader van het eerste en tweede lid, een heffing vaststellen.
-
-4. Het eerste en tweede lid zijn niet van toepassing voor zover het Productschap Pluimvee en Eieren reeds uitvoering geeft aan [artikel 2.69 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.69) op grond van [artikel 93 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93).
+Ter verkrijging van een registratie als bedoeld in [artikel 2.69, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.69) doet een houder als bedoeld in artikel 2.69, eerste lid, van het besluit de melding, bedoeld in [artikel 2 van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=2), met dien verstande dat hij daarbij de gegevens, bedoeld in onderdeel 1 van de bijlage bij Richtlijn 2002/4/EG, verstrekt ten behoeve van opname in het gecomputeriseerde gegevensbestand, bedoeld in artikel 2, vierde lid, van de Regeling identificatie en registratie van dieren.
 
 ### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
 
@@ -408,7 +418,7 @@ Voor de aanmelding, bedoeld in [art. 3.8, eerste lid, van het besluit](https://w
 
 1. Het bewijs van inenting, bedoeld in [artikel 3.15, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.15), is een door een dierenarts opgemaakt en schriftelijk afgegeven bewijs.
 
-2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2014-07-01&g=2014-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2014-07-01&g=2014-07-01) hebben plaatsgevonden en bevat de volgende gegevens:
+2. Het is het eerste lid bedoelde bewijs heeft betrekking op de inentingen die overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.4&z=2015-01-01&g=2015-01-01) hebben plaatsgevonden en bevat de volgende gegevens:
 
 - –. naam en praktijkadres van de dierenarts;
 
@@ -432,13 +442,13 @@ De volgende diergroepen, bedoeld in [artikel 3.11, eerste lid, van het besluit](
 
 ##### Artikel 8.7. Vermelden diergroep op diploma
 
-De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031310&bijlage=2), vermeldt de diergroep, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2014-07-01&g=2014-07-01) van deze regeling, waarvoor het onderwijs is genoten.
+De resultatenlijst behorend bij een diploma van het kwalificatiedossier, Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031310&bijlage=2), vermeldt de diergroep, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.6&z=2015-01-01&g=2015-01-01) van deze regeling, waarvoor het onderwijs is genoten.
 
 ##### Artikel 8.8. Erkenning beroepskwalificaties
 
-1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2014-07-01&g=2014-07-01) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
+1. De [artikelen 8.8 tot en met 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.8&z=2015-01-01&g=2015-01-01) van deze regeling zijn van toepassing op de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van beroepskwalificaties voor de toegang tot uitoefening van het gereglementeerde beroep beheerder van een inrichting als bedoeld in het besluit.
 
-2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2014-07-01&g=2014-07-01) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
+2. [Artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=8&artikel=8.12&z=2015-01-01&g=2015-01-01) van deze regeling is van toepassing op de verklaring, bedoeld in [artikel 23 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), en de controle, bedoeld in [artikel 27 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), van een dienstverrichter die een gereglementeerd beroep als bedoeld in het eerste lid wenst uit te oefenen.
 
 ##### Artikel 8.9. Aanvraag erkenning beroepskwalificaties
 
@@ -478,7 +488,7 @@ Indien de aanvrager op grond van [artikel 11 van de Algemene wet erkenning EG-be
 
 2. Indien na de controle, bedoeld in [artikel 27 van de Algemene wet Erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), blijkt dat de beroepskwalificaties van dienstverrichter als bedoeld in [artikel 21 van de Algemene wet Erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) wezenlijk verschillen van de vereiste opleiding voor de toegang tot uitoefening van het beroep beheerder van een inrichting, legt de dienstverrichter een proeve van bekwaamheid af.
 
-### Hoofdstuk 9. Overige bepalingen
+### Hoofdstuk 7b. Houden van konijnen voor productie
 
 ##### Artikel 9.1. Sledehondensport
 
@@ -561,6 +571,180 @@ Deze regeling wordt aangehaald als: Regeling houders van dieren.
 - 1. Deze monitoring wordt uitgevoerd op het bedrijf zelf, maximaal 5 dagen voordat het koppel wordt geslacht. Het betreft koppels die geëxporteerd worden en waar geen meting van voetzoollaesies plaatsvindt in het slachthuis van bestemming, of koppels die in kleine slachthuizen in Nederland worden geslacht.
 
 - 2. De monitoring wordt uitgevoerd door een hiervoor opgeleide controleur van een door het Productschap voor Pluimvee en Eieren erkende organisatie die vermeld staat op de website van dat productschap.
+
+- 3. Per stal worden 100 levende vleeskuikens beoordeeld, waarbij ten minste 4 steekproeven in de stal (bijvoorbeeld 4 keer 25 dieren) worden genomen, genomen op locaties verdeeld over de stal, minimaal 2 locaties tegen de muur en de overige locaties tussen voer- en drinklijnen in. Zie voorbeeld hieronder.
+
+- 4. De controleur maakt gebruik van extra verlichting (zoals een hoofdlamp) en van een vanghek om dubbele metingen te voorkomen. Hiervoor kan hij de kuikens merken met bv. watervaste stift (op de poot, of vleugels).
+
+- 5. Het schoonmaken van de poten met borstel en sop wordt afgeraden, na het afwrijven van de mest van de poot heeft men een redelijk beeld van de conditie van de poten.
+
+- 6. In de steekproeven wordt alleen de rechter poot van elk vleeskuiken beoordeeld.
+
+- 7. De controleur baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart.
+
+- 8. De controleur registreert het aantal vleeskuikens in de 3 categorieën (geen, matige of ernstige voetzoollaesie) en geeft dit door aan de houder, alsmede de totaalscore van het koppel.
+
+- 9. Deze wordt berekend met onderstaande formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0.5 + (aantal dieren klasse 2)x2
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+#### § 1. Administratie diergeneesmiddelen
+
+#### § 2. Melding en gebruik aangewezen diergeneesmiddelen
+
+##### Artikel 3.2. Begripsbepalingen
+
+In deze paragraaf wordt verstaan onder:
+
+- –. **kalf:** rund dat bestemd is voor de productie van vlees en dat ouder is dan veertien dagen en niet ouder is dan twaalf maanden;
+
+- –. **koppel:** groep dieren met dezelfde gezondheidsstatus die in dezelfde stal of binnen dezelfde ruimte worden geplaatst of gehouden en die een epidemiologische eenheid vormen;
+
+- –. **rund:** rund dat bestemd is voor de productie van melk of vlees, niet zijnde een kalf.
+
+#### § 2.1. Registratie aangewezen diergeneesmiddelen
+
+##### Artikel 3.3. Gevallen waarin melding wordt gedaan
+
+De melding, bedoeld in [artikel 1.27, eerste lid van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) wordt gedaan van de ontvangst van antimicrobiële diergeneesmiddelen ten behoeve van toepassing bij:
+
+- a. kippen of kalkoenen indien de houder van deze dieren 250 of meer kippen of kalkoenen houdt ten behoeve van de productie van vlees, consumptie-eieren of broedeieren;
+
+- b. runderen, indien de houder van deze dieren 5 of meer runderen houdt ten behoeve van de productie van melk of vlees;
+
+- c. kalveren, indien de houder van deze dieren 5 of meer kalveren houdt ten behoeve van de productie van vlees;
+
+- d. varkens, indien de houder van deze dieren 5 of meer varkens houdt ten behoeve van de productie van vlees.
+
+##### Artikel 3.4. Bij de melding te verstrekken gegevens
+
+1. Bij de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27), worden de volgende gegevens verstrekt:
+
+- a. de naam, het adres en de woonplaats van de houder;
+
+- b. het UBN, bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=3), van de houder;
+
+- c. de diersoort, diercategorie, subcategorie en leeftijdscategorie van de gehouden dieren;
+
+- d. het gemiddeld aantal dieren per diersoort, diercategorie, subcategorie en leeftijdscategorie dat per dag werd gehouden.
+
+2. Het gemiddeld aantal dieren, bedoeld in het eerste lid, onderdeel d, wordt:
+
+- a. indien het een houder van kippen, kalkoenen of kalveren, en de houder van kalveren een systeem toepast waarbij de kalveren tegelijk worden aangevoerd, opgefokt en afgevoerd, betreft, berekend over de periode vanaf het moment van aanvoer van een koppel dieren tot het moment van afvoer daarvan;
+
+- b. indien het een houder van runderen, varkens of kalveren, en de houder van kalveren een systeem toepast waarbij kalveren van verschillende leeftijden worden gehouden die niet op hetzelfde moment worden afgevoerd, betreft, berekend over de periode van twaalf maanden voorafgaand aan het moment waarop de melding wordt gedaan.
+
+3. Indien de melding wordt gedaan ten aanzien van een diergeneesmiddel dat bij kippen of kalkoenen wordt toegepast, worden tevens de volgende gegevens verstrekt:
+
+- a. het registratienummer, bedoeld in [artikel 3, tweede lid, van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=3);
+
+- b. de geboortedatum van het koppel waarbij het diergeneesmiddel is toegepast;
+
+- c. het nummer van de stal waarin het koppel wordt gehouden;
+
+- d. het aantal kuikens dat is opgezet in de stal waarin het koppel wordt gehouden.
+
+##### Artikel 3.5. Moment van de melding
+
+1. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2015-01-01&g=2015-01-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) na afvoer van ieder koppel dieren.
+
+2. De houder, bedoeld in [artikel 3.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=3.4&z=2015-01-01&g=2015-01-01), doet de melding, bedoeld in [artikel 1.27, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27) jaarlijks.
+
+#### § 2.2. Bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+##### Artikel 3.6. Gevallen waarin een bedrijfsgezondheidsplan en een bedrijfsbehandelplan vereist zijn
+
+1. Een bedrijfsgezondheidsplan en een bedrijfsbehandelplan als bedoeld in [artikel 1.28, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28), worden opgesteld wanneer een houder van dieren:
+
+- a. 250 of meer kippen of kalkoenen houdt ten behoeve van de productie van vlees, consumptie-eieren of broedeieren;
+
+- b. 5 of meer runderen houdt ten behoeve van de productie van melk of vlees;
+
+- c. 5 of meer kalveren houdt ten behoeve van de productie van vlees;
+
+- d. 5 of meer varkens houdt ten behoeve van de productie van vlees.
+
+2. Een houder van dieren als bedoeld in het eerste lid, laat per diersoort één bedrijfsgezondheidsplan en één bedrijfsbehandelplan opstellen.
+
+##### Artikel 3.7. Administratie bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+De houder, bedoeld in [artikel 1.28, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.28), bewaart het bedrijfsgezondheidsplan en het bedrijfsbehandelplan, samen met het verslag, bedoeld in [artikel 5.22, tweede lid, van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.22), vijf jaar op zijn bedrijf.
+
+### Hoofdstuk 4. Dierenvervoer
+
+### Hoofdstuk 5. Doden van dieren
+
+### Hoofdstuk 7. Registratie van legkippenhouders
+
+### Hoofdstuk 7a. Handelsnormen pluimveekuikens
+
+##### Artikel 7a.1. Registratie kuikens
+
+1. Een broederij registreert het aantal uitgekomen kuikens dat daadwerkelijk bestemd is om te worden gebruikt, bedoeld in artikel 8, eerste lid, van verordening (EG) nr. 617/2008:
+
+- a. in een databank die op grond van [artikel 38hh van de Regeling identificatie en registratie van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0014538&artikel=38hh) door de minister is aangewezen als databank voor de registratie van die gegevens, of
+
+- b. bij de minister, voor zover voor de registratie van die gegevens geen aanwijzing als bedoeld in onderdeel a heeft plaatsgevonden.
+
+2. De verzender van een partij kuikens registreert de gegevens die het begeleidende document, bedoeld in artikel 5, eerste lid, van verordening (EG) nr. 617/2008, bevat overeenkomstig het eerste lid, onderdelen a en b.
+
+3. In afwijking van het tweede lid wordt de registratie, bedoeld in dat lid, bij ontvangst op een vermeerderingsbedrijf van kippen die worden gebruikt als moederdier, gedaan door de ontvanger van die kuikens.
+
+##### Artikel 7a.2. Verbodsbepaling handelsnormen pluimveekuikens
+
+Als voorschriften als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) worden de artikelen 4, 5, 6, onderdeel b, en 8, eerste lid, van verordening (EG) nr. 617/2008 aangewezen.
+
+##### Artikel 7b.1. Retributie registratie houden van konijnen
+
+Voor de registratie, bedoeld in [artikel 2.76l, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=2.76l) is jaarlijks een bedrag verschuldigd van € 19,00.
+
+### Hoofdstuk 8. Bedrijfsmatig houden van dieren anders dan voor landbouwdoeleinden
+
+### Hoofdstuk 9. Overige bepalingen
+
+### Hoofdstuk 10. Wijziging en intrekking van regelingen
+
+### Hoofdstuk 11. Slotbepalingen
+
+## Bijlage 1
+
+(gereserveerd)
+
+## Bijlage 2
+
+(gereserveerd)
+
+## Bijlage 3. Protocol voor de visuele monitoring van voetzoollaesies aan vleeskuikens in het slachthuis als bedoeld in [artikel 6.5, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), van de Regeling houders van dieren
+
+- 1. Deze monitoring wordt uitgevoerd in het slachthuis waar het koppel vleeskuikens of het grootste deel ervan wordt geslacht.
+
+- 2. De monitoring wordt uitgevoerd door hiervoor opgeleide slachthuismedewerkers, onder toezicht van de NVWA.
+
+- 3. 100 vleeskuikens per koppel (per stal) worden beoordeeld, waarvan 50 kuikens rond de verwerking van 30% van het koppel, en 50 kuikens rond de verwerking van 60% van het koppel.
+
+- 4. Alleen de rechter poot van elk vleeskuiken van de steekproeven wordt beoordeeld. Hiervoor worden de te monitoren poten van de slachtlijn gehaald en verzameld.
+
+- 5. De medewerker baseert zijn beslissingen over de indeling van de poten in 3 categorieën (geen, matige of ernstige voetzoollaesie) op de inhoud van de daarvoor aan hem verstrekte scorekaart en stelt de totaalscore voor het koppel vast met gebruikmaking van de formule: aantal punten= (aantal dieren klasse 0)x0 + (aantal dieren klasse 1)x0,5 + (aantal dieren klasse 2)x2
+
+- 6. Deze gegevens worden door het slachthuis geregistreerd en doorgegeven aan de houder.
+
+## Bijlage 4. Protocol voor de monitoring van voetzoollaesies aan vleeskuikens in het slachthuis met behulp van een digitaal meetsysteem als bedoeld in [artikel 6.5, derde lid, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), van de Regeling houders van dieren
+
+- 1. In het slachthuis is een rapport aanwezig van een onafhankelijke kennisinstelling of instantie, waaruit blijkt dat het digitale meetsysteem zodanig werkt dat de scores een score oplevert die vergelijkbaar is met de score van een visuele beoordeling die aan de hand van de scorekaart is uitgevoerd. In het rapport is een beschrijving door de kennisinstelling of de instantie opgenomen van de wijze waarop dit is vastgesteld.
+
+- 2. Het camerasysteem meet ten minste 70% van de poten van elk koppel.
+
+- 3. De percentages per klasse en de eindscores worden minimaal 1 keer per werkdag door het systeem opgeleverd, door het slachthuis verwerkt en aan de pluimveeveehouder doorgegeven.
+
+- 4. Het slachthuis treft maatregelen om het digitale meetsysteem en de daarbij gebruikte software te beschermen tegen willekeurige wijzigingen.
+
+- 5. Het slachthuis zorgt ervoor dat het systeem zodanig wordt onderhouden dat het goed blijft functioneren. Indien het systeem gebreken of defecten vertoont meldt het slachthuis dit aan de leverancier of de fabrikant en de betrokken pluimveehouders.
+
+## Bijlage 5. Protocol voor het monitoren van voetzoollaesies aan levende dieren op vleeskuikenbedrijven als bedoeld in [artikel 6.5, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), van de Regeling houders van dieren
+
+- 1. Deze monitoring wordt uitgevoerd op het bedrijf zelf, maximaal 5 dagen voordat het koppel wordt geslacht. Het betreft koppels die geëxporteerd worden en waar geen meting van voetzoollaesies plaatsvindt in het slachthuis van bestemming, of koppels die in kleine slachthuizen in Nederland worden geslacht.
+
+- 2. De opgeleide controleur, bedoeld in [artikel 6.5 derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&hoofdstuk=6&artikel=6.5&z=2015-01-01&g=2015-01-01), heeft in elk geval de Cursus monitoring voetzoollaesies of een gelijkwaardige cursus met goed gevolg afgesloten, en is geen werknemer van de pluimveehouder voor wie de beoordeling wordt uitgevoerd.
 
 - 3. Per stal worden 100 levende vleeskuikens beoordeeld, waarbij ten minste 4 steekproeven in de stal (bijvoorbeeld 4 keer 25 dieren) worden genomen, genomen op locaties verdeeld over de stal, minimaal 2 locaties tegen de muur en de overige locaties tussen voer- en drinklijnen in. Zie voorbeeld hieronder.
 
