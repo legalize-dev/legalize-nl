@@ -4,7 +4,7 @@ identifier: "BWBR0012950"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012950"
 soort: "wet"
@@ -44,17 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is wettelijke bepali
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
+Werkt terug tot en met 29 april 1999, met uitzondering van de artikelen 6, 8, 9, 10 en 12, eerste lid.
+
 ##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Raadsverordening: [Verordening nr. 718/1999](31999R0718) van de Raad van de Europese Unie van 29 maart 1999 betreffende het beleid ten aanzien van de capaciteit van de communautaire binnenvaartvloot met het oog op de bevordering van het vervoer over de binnenwateren (PbEG L 90);
 
-- b. Onze Minister: Onze Minister van Verkeer en Waterstaat;
+- b. Onze Minister: Onze Minister van Infrastructuur en Milieu;
 
 - c. lidstaten: de betrokken lidstaten, bedoeld in artikel 3, eerste lid, van de Raadsverordening;
 
-- d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Verkeer en Waterstaat.
+- d. fonds voor de binnenvaart: artikel 05.34 van de begroting van Infrastructuur en Milieu.
 
 ##### Artikel 2
 
@@ -72,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4).
+De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan infrastructuur en milieu, bedoeld in [artikel 4 van de Wet overleg infrastructuur en milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0008410&artikel=4).
 
 ##### Artikel 4
 
@@ -92,7 +94,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet en de Raadsver
 
 - a. de bij of krachtens [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) aangewezen ambtenaren,
 
-- b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Verkeer en Waterstaat.
+- b. de door Onze Minister aangewezen ambtenaren van het Ministerie van Infrastructuur en Milieu.
 
 ##### Artikel 8
 
@@ -122,7 +124,7 @@ Met betrekking tot de behandeling van bezwaar of beroep tegen een krachtens de W
 
 ##### Artikel 14
 
-1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2013-01-01&g=2013-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2013-01-01&g=2013-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2013-01-01&g=2013-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2013-01-01&g=2013-01-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2013-01-01&g=2013-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 29 april 1999, met uitzondering van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=6&z=2015-01-01&g=2015-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=8&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=9&z=2015-01-01&g=2015-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=10&z=2015-01-01&g=2015-01-01) en [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012950&artikel=12&z=2015-01-01&g=2015-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 2. Deze wet vervalt op het tijdstip waarop de Raadsverordening vervalt.
 
