@@ -4,7 +4,7 @@ identifier: "BWBR0034363"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2013-12-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034363"
 soort: "wet"
@@ -50,23 +50,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **beheerder:** beheerder van de lokale spoorweginfrastructuur die als zodanig is aangewezen op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2013-12-14&g=2013-12-14);
+- **beheerder:** beheerder van de lokale spoorweginfrastructuur die als zodanig is aangewezen op grond van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=3&artikel=18&z=2015-01-01&g=2015-01-01);
 
-- **dagelijks bestuur:** dagelijks bestuur van een plusregio;
+- **dagelijks bestuur:** dagelijks bestuur van een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
 
 - **Locaalspoor- en Tramwegwet:** [Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](https://wetten.overheid.nl/jci1.3:c:BWBR0001866) (Stb. 1900, 118);
 
-- **lokaal spoorwegverkeerssysteem:** verkeerssysteem van de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2013-12-14&g=2013-12-14), als zodanig aangewezen lokale spoorweg;
+- **lokaal spoorwegverkeerssysteem:** verkeerssysteem van de krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01), als zodanig aangewezen lokale spoorweg;
 
-- **lokale spoorweg:** spoorweg die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2013-12-14&g=2013-12-14), als zodanig is aangewezen;
+- **lokale spoorweg:** spoorweg die krachtens [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01), als zodanig is aangewezen;
 
-- **lokale spoorweginfrastructuur:** de elementen, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2013-12-14&g=2013-12-14);
+- **lokale spoorweginfrastructuur:** de elementen, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01);
 
-- **Metroreglement:** [Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003454) (Stb. 1981, 700);
+- **Metroreglement:** [Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0003454&wetgeving) (Stb. 1981, 700);
 
 - **Onze Minister:** Onze Minister van Infrastructuur en Milieu;
-
-- **plusregio:** regio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;
 
 - **rechthebbende:** eigenaar, bezitter of degene die een recht van erfpacht, opstal, vruchtgebruik, gebruik, huur of pacht heeft;
 
@@ -84,11 +82,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **spoorvoertuig:** voertuig, bestemd voor verkeer over de lokale spoorweg;
 
-- **toezichthouder:** de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2013-12-14&g=2013-12-14);
+- **toezichthouder:** de bij besluit van Onze Minister aangewezen personen, bedoeld in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=7&artikel=42&z=2015-01-01&g=2015-01-01);
 
 - **vervoerder:** onderneming die met een spoorvoertuig vervoer verricht over een lokale spoorweg;
 
-- **wegbeheerder:** overheden, genoemd in de [artikelen 15 tot en met 17 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) dan wel de plusregio voor zover het wegbeheer krachtens de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) door de wegbeheerder aan de plusregio is overgedragen;
+- **wegbeheerder:** overheden, genoemd in de [artikelen 15 tot en met 17 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) of, indien van toepassing, het openbaar lichaam als bedoeld in [artikel 20, derde lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) voor zover het wegbeheer aan het openbaar lichaam is overgedragen;
 
 - **weggebruiker:** weggebruiker als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1);
 
@@ -114,7 +112,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-1. De [hoofdstukken 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&z=2013-12-14&g=2013-12-14) zijn uitsluitend van toepassing op lokale spoorwegen die uitgesloten kunnen worden van het toepassingsgebied van [richtlijn 2001/14/EG](32001L0014) en van de uitvoeringsmaatregelen bij [richtlijn 2008/57/EG](32008L0057) en [richtlijn 2004/49/EG](32004L0049).
+1. De [hoofdstukken 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=2&z=2015-01-01&g=2015-01-01) zijn uitsluitend van toepassing op lokale spoorwegen die uitgesloten kunnen worden van het toepassingsgebied van [richtlijn 2001/14/EG](32001L0014) en van de uitvoeringsmaatregelen bij [richtlijn 2008/57/EG](32008L0057) en [richtlijn 2004/49/EG](32004L0049).
 
 2. Tenzij bij of krachtens deze wet anders is bepaald, zijn lokale spoorwegen als bedoeld in het eerste lid uitgesloten van het toepassingsgebied van [richtlijn 2001/14/EG](32001L0014) en van de uitvoeringsmaatregelen bij [richtlijn 2008/57/EG](32008L0057) en [richtlijn 2004/49/EG](32004L0049). Vervoerders die gebruik maken van een dergelijke lokale spoorweg zijn uitgesloten van het toepassingsgebied van [richtlijn 95/18/EG](31995L0018). Bestuurders op een dergelijke spoorweg zijn vrijgesteld van de uitvoeringsmaatregelen bij [richtlijn 2007/59/EG](32007L0059).
 
@@ -122,7 +120,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De regels, bedoeld in het derde lid, kunnen in ieder geval inhouden het geheel of gedeeltelijk van toepassing verklaren van deze wet, de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=2) of de op die wetten berustende bepalingen.
 
-5. In het koninklijk besluit, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2013-12-14&g=2013-12-14), wordt vermeld of het een lokale spoorweg als bedoeld in het eerste of het derde lid betreft.
+5. In het koninklijk besluit, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&hoofdstuk=1&artikel=2&z=2015-01-01&g=2015-01-01), wordt vermeld of het een lokale spoorweg als bedoeld in het eerste of het derde lid betreft.
 
 ### Hoofdstuk 2. Zorg voor de veiligheid op en nabij de lokale spoorwegen
 
