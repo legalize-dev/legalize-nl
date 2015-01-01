@@ -4,7 +4,7 @@ identifier: "BWBR0007311"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-09-13"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007311"
 soort: "AMvB"
@@ -108,7 +108,7 @@ Voor een personenauto of bestelauto die is voorzien van een installatie voor het
 
 - –. bescheiden waaruit blijkt dat de gehandicapte beschikt over een rolstoel als bedoeld in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) die is verstrekt in het kader van een beschikking ingevolge de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) of een beschikking van het Uitvoeringsinstituut werknemersverzekeringen, bedoeld in [artikel 2, eerste lid, van de Wet structuur uitvoeringsorganisaties werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=2), dan wel waarvoor hij beschikt over een verklaring van een arts die is afgegeven ten hoogste zes weken voorafgaand aan de datum van indiening van het verzoek, dat hij voor zijn vervoer is aangewezen op het gebruik van een dergelijke rolstoel;
 
-- –. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het bewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de bestelauto; en
+- –. een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor de bestelauto; en
 
 - b. de bestelauto uitsluitend wordt gebruikt voor het in [artikel 24a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=24a) bedoelde vervoer, alsmede voor het persoonlijk gebruik, gebruik door inwonende gezinsleden daaronder begrepen, van de gehandicapte en, in geval dit een ander is, van de houder van de bestelauto.
 
@@ -228,7 +228,7 @@ Vervallen
 
 ##### Artikel 12
 
-1. De vrijstelling van belasting, bedoeld in [artikel 72, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in [hoofdstuk XA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa), wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangehouden register van opgegeven kentekens, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.
+1. De vrijstelling van belasting, bedoeld in [artikel 72, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=72) wordt verleend, respectievelijk het overgangsrecht oudere motorrijtuigen, bedoeld in [hoofdstuk XA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&hoofdstuk=Xa), wordt toegepast, indien de ingevolge die bepaling respectievelijk dat hoofdstuk vereiste ouderdom, respectievelijk het tijdstip van eerste ingebruikneming, blijkt uit het kentekenregister, dan wel deze ouderdom of dit tijdstip aan de hand van bescheiden wordt aangetoond.
 
 2. De vrijstelling, bedoeld in het eerste lid, wordt voor zover het vrachtauto’s en autobussen betreft slechts verleend, indien de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig uitsluitend niet-bedrijfsmatig wordt gebruikt.
 
@@ -272,7 +272,7 @@ Vervallen
 
 Vrijstelling van belasting voor motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen wordt verleend indien:
 
-- a. het kenteken van het motorrijtuig op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet, is ingeschreven in het krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) aangehouden register van opgegeven kentekens; en
+- a. het motorrijtuig te naam is gesteld in het kentekenregister op naam van een openbaar lichaam of van een bedrijf dat zich bezighoudt met werkzaamheden waarbij deze motorrijtuigen worden ingezet; en
 
 - b. de houder van het motorrijtuig een verklaring overlegt dat het motorrijtuig is ingericht en uitsluitend wordt gebruikt als een in de aanhef genoemd motorrijtuig.
 
@@ -306,13 +306,13 @@ Vrijstelling van belasting voor motorrijtuigen waarmee met het oog op een ingevo
 
 ##### Artikel 23
 
-1. Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien:
+1. Vrijstelling van belasting voor motorrijtuigen die blijkens een ingevolge de Wet personenvervoer of de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470) afgegeven vergunning, dan wel voor zover afgegeven een vergunningbewijs, zijn bestemd om daarmee als personenauto openbaar vervoer of taxivervoer te verrichten en daarvoor geheel of nagenoeg geheel worden gebruikt, wordt verleend indien worden overgelegd:
 
-- a. een afschrift van de vergunning of van het vergunningbewijs wordt overgelegd;
+- a. een afschrift van de vergunning of van het vergunningbewijs;
 
-- b. een afschrift van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat is afgegeven voor het motorrijtuig wordt overgelegd; en
+- b. een afschrift van de kentekencard of van de delen I en II, de delen I en I B of deel I A en B van het kentekenbewijs dat ingevolge [artikel 36, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) is afgegeven voor het motorrijtuig; en
 
-- c. een verklaring wordt overgelegd van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470).
+- c. een verklaring van de exploitant van het motorrijtuig dat het motorrijtuig geheel of nagenoeg geheel wordt gebruikt voor het verrichten van openbaar vervoer of taxivervoer in de zin van de [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470).
 
 2. Op een met de inspecteur afgesproken tijdstip worden jaarlijks een afschrift als bedoeld in het eerste lid, onderdeel a, en een verklaring als bedoeld in het eerste lid, onderdeel c, overgelegd.
 
@@ -338,13 +338,13 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 - b. het motorrijtuig blijkens een kilometerregistratie voor ten minste 50% zakelijk buiten Nederland wordt gebruikt; het zakelijk gebruik buiten Nederland wordt per kalenderjaar bepaald, waarbij de afstand die wordt overbrugd van de woonplaats naar de in het buitenland gelegen werkplaats en omgekeerd buiten beschouwing blijft; en
 
-- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2014-09-13&g=2014-09-13).
+- c. de houder niet een werknemer is als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 27
 
-1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2014-09-13&g=2014-09-13), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2014-09-13&g=2014-09-13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2014-09-13&g=2014-09-13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2014-09-13&g=2014-09-13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2014-09-13&g=2014-09-13), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2014-09-13&g=2014-09-13), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2014-09-13&g=2014-09-13), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2014-09-13&g=2014-09-13) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2014-09-13&g=2014-09-13), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2014-09-13&g=2014-09-13), wordt voor vrachtauto’s en autobussen op verzoek verleend.
+1. De vrijstellingen, bedoeld in de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=8&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=13&z=2015-01-01&g=2015-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=14&z=2015-01-01&g=2015-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=17&z=2015-01-01&g=2015-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=19&z=2015-01-01&g=2015-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=21&z=2015-01-01&g=2015-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=23&z=2015-01-01&g=2015-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2015-01-01&g=2015-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2015-01-01&g=2015-01-01), worden op verzoek verleend. De vrijstelling, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=12&z=2015-01-01&g=2015-01-01), wordt voor vrachtauto’s en autobussen op verzoek verleend.
 
-2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2014-09-13&g=2014-09-13) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2014-09-13&g=2014-09-13) van dit besluit.
+2. Ingeval voor een motorrijtuig een verzoek wordt ingediend om vrijstelling van de belasting van personenauto’s en motorrijwielen ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=2) of [artikel 3 van het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005807&artikel=3), geldt dit verzoek mede als verzoek om toepassing van de vrijstelling ingevolge [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=25&z=2015-01-01&g=2015-01-01) onderscheidenlijk [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=26&z=2015-01-01&g=2015-01-01) van dit besluit.
 
 3. Het verzoek wordt bij de inspecteur ingediend vóór de aanvang van het tijdvak, onderscheidenlijk van het gebruik van de weg in Nederland met het motorrijtuig.
 
@@ -390,17 +390,17 @@ Vrijstelling van belasting voor motorrijtuigen die zijn geregistreerd in het bui
 
 ##### Artikel 30
 
-1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2014-09-13&g=2014-09-13) dat:
+1. Voor motorrijtuigen waarvoor tot 1 april 1995 een vrijstelling van belasting gold op grond van [artikel 9 van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=9), en waarvoor op grond van de artikelen 71 tot en met 73 van de wet aanspraak op een vrijstelling kan worden gemaakt, geldt in afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2015-01-01&g=2015-01-01) dat:
 
 - a. indien de vrijstelling onder de voorwaarde van een vergunning van de inspecteur is verleend, het verzoek om vrijstelling wordt ingediend vóór de datum waarop de vergunning afloopt, dan wel, indien de vergunning voor onbepaalde tijd is afgegeven, vóór 1 juli 1995;
 
-- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2014-09-13&g=2014-09-13), worden overgelegd vóór 1 juli 1995.
+- b. indien de vrijstelling niet onder de voorwaarde van een vergunning is verleend, de verklaringen, bedoeld in [artikel 27, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=IV&artikel=27&z=2015-01-01&g=2015-01-01), worden overgelegd vóór 1 juli 1995.
 
 2. In de in het eerste lid genoemde gevallen wordt de vrijstelling geacht te zijn verleend op grond van de wet tot de in het eerste lid genoemde tijdstippen.
 
 ##### Artikel 31
 
-1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2014-09-13&g=2014-09-13).
+1. Het Uitvoeringsbesluit motorrijtuigenbelasting 1966 wordt ingetrokken, met dien verstande dat het van toepassing blijft voor de gevallen bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0007311&hoofdstuk=V&artikel=30&z=2015-01-01&g=2015-01-01).
 
 2. Het Besluit tot vrijstelling van motorrijtuigenbelasting voor buitenlanders wordt ingetrokken.
 
@@ -578,7 +578,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Bij het verzoek worden bescheiden overgelegd waaruit blijkt dat wordt voldaan aan de in het eerste lid gestelde voorwaarden, alsmede een opgave van het kenteken van de personenauto.
 
-7. Indien een motorrijtuig waarvoor [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling van het kentekenbewijs aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.
+7. Indien een motorrijtuig waarvoor [artikel 23a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=23a) reeds van toepassing is van houder wisselt, wordt de aanvraag om wijziging van de tenaamstelling aangemerkt als een verzoek om toepassing van artikel 23a, eerste lid, van de wet. Het vijfde en zesde lid zijn alsdan niet van toepassing.
 
 8. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Tenzij in de beschikking anders is bepaald, werkt deze terug tot op het tijdstip waarop het verzoek is ingediend.
 
