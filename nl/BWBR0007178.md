@@ -4,7 +4,7 @@ identifier: "BWBR0007178"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007178"
 soort: "AMvB"
@@ -49,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), en [70, vierde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+1. Dit besluit geeft uitvoering aan de [artikelen 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=20), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22), [27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=27), [33, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=33), [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=34), [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=35), [44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44), [45, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=45), [51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=51), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), [59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59), [59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), [64, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64), [67, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=67), [68, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=68), [69, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=69), [70, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70), en [93, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=93).
 
 2. In dit besluit wordt verstaan onder de wet: de [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168).
 
@@ -115,7 +115,7 @@ Voor de toepassing van [artikel 11i, eerste lid, van de wet](https://wetten.over
 
 ##### Artikel 5
 
-Vervallen
+Voor de toepassing van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=22) wordt de toepassing van stoffen, preparaten of voorwerpen binnen een inrichting waar afvalstoffen worden verbrand, geacht hetzij verband te houden met de bedrijfsvoering van de inrichting, hetzij deel uit te maken van het bedrijfsproces dat leidt tot de nuttige toepassing of verwijdering van afvalstoffen, indien de stoffen, preparaten of voorwerpen in de inrichting dienen voor de activiteiten, dan wel bestaan uit de materialen of voorwerpen, bedoeld in [artikel 4, onderdelen a, f, g, h, i, of k](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=IV&artikel=4&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 5a
 
@@ -341,7 +341,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk VIa. Vliegbelasting
+### Hoofdstuk VII. Verpakkingenbelasting
 
 ##### Artikel 9
 
@@ -427,7 +427,7 @@ Het brengen, bedoeld in [artikel 35, tweede lid, onderdeel a, van de wet](https:
 
 ##### Artikel 16
 
-1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2014-04-01&g=2014-04-01), worden vermeld:
+1. In de vervoersopdracht, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=V&artikel=14&z=2015-01-01&g=2015-01-01), worden vermeld:
 
 - a. de naam en het adres van degene die de vervoersopdracht opmaakt dan wel van degene in wiens opdracht zij wordt opgemaakt;
 
@@ -571,13 +571,15 @@ Vervallen
 
 ##### Artikel 27
 
-1. Het tijdvak waarover een teruggaaf van belasting als bedoeld in [artikel 70, eerste tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
+1. Het tijdvak waarover een teruggaaf van belasting als bedoeld in [artikel 70, eerste tot en met derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70) wordt verleend is het kalenderkwartaal. De inspecteur kan op verzoek een ander tijdvak aanwijzen.
 
-2. Het verzoek om teruggaaf wordt gedaan binnen dertien weken na het einde van het in het eerste lid bedoelde tijdvak waarin het aardgas of de elektriciteit is gebruikt op een in [artikel 64, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
+2. Het verzoek om teruggaaf van belasting wordt gedaan binnen dertien weken na het einde van het in het eerste lid bedoelde tijdvak waarin het aardgas of de elektriciteit is gebruikt op een in [artikel 64, eerste, derde of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=64) bedoelde wijze.
 
-3. Teruggaaf wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
+3. Teruggaaf van belasting wordt alleen verleend indien de aankoopfactuur en de van belang zijnde gegevens en verklaringen over de bestemming van het aardgas of de elektriciteit waarop de teruggaaf betrekking heeft, worden overgelegd en indien de administratie van degene die om teruggaaf verzoekt voldoet aan bij ministeriële regeling te stellen voorwaarden.
 
-4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+4. [Artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de teruggaaf, bedoeld in [artikel 70, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
+
+5. [Artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&hoofdstuk=VI&artikel=22&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de teruggaaf van belasting, bedoeld in [artikel 70, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=70).
 
 ### Hoofdstuk VII. Vliegbelasting
 
@@ -591,7 +593,7 @@ Vervallen
 
 Vervallen
 
-### Hoofdstuk IX. Slotbepalingen
+### Hoofdstuk VIa. Vliegbelasting
 
 ##### Artikel 30
 
@@ -701,7 +703,7 @@ Vervallen
 
 ### Afdeling 2. Groenten en fruit
 
-### Hoofdstuk VIII. Algemene bepaling
+### Hoofdstuk IX. Slotbepalingen
 
 ### Hoofdstuk VIII. Algemene bepaling
 
@@ -737,13 +739,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het verlaagde tarief, bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), kan alleen worden toegepast bij de vaststelling van de belasting die verschuldigd wordt op het tijdstip van de uitreiking van de eindfactuur over de verbruiksperiode waarin degene die de levering verricht van de coöperatie een opgaaf heeft ontvangen van de hoeveelheid door de coöperatie opgewekte elektriciteit die zij aan het lid van de coöperatie heeft toegerekend. Daarbij wordt de verlaging van het tarief toegepast op de elektriciteit die over de gehele verbruiksperiode is geleverd, voor zover ter zake wordt voldaan aan de bij of krachtens artikel 59a van de wet en, in voorkomend geval, bij [artikel 59b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b) gestelde voorwaarden en beperkingen.
 
-2. De elektriciteit die is opgewekt door een coöperatie met behulp van een productie-installatie als bedoeld in [artikel 59a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), komt slechts in aanmerking voor toerekening als bedoeld in artikel 59a, tweede lid, onderdeel c, van de wet, voor zover daarvoor garanties van oorsprong voor duurzame elektriciteit als bedoeld in [artikel 1, onderdeel x, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) zijn verstrekt. Voor de toepassing van de eerste volzin worden slechts de garanties van oorsprong in aanmerking genomen die betrekking hebben op de hoeveelheid elektriciteit die de coöperatie in de productieperiode via de aansluiting heeft geleverd, verminderd met de hoeveelheid elektriciteit die in dezelfde periode via de aansluiting aan de coöperatie is geleverd.
+2. De elektriciteit die is opgewekt door een coöperatie met behulp van een productie-installatie als bedoeld in [artikel 59a, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), komt slechts in aanmerking voor toerekening als bedoeld in artikel 59a, tweede lid, onderdeel a, van de wet, voor zover daarvoor garanties van oorsprong voor duurzame elektriciteit als bedoeld in [artikel 1, onderdeel x, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1) zijn verstrekt. Voor de toepassing van de eerste volzin worden slechts de garanties van oorsprong in aanmerking genomen die betrekking hebben op de hoeveelheid elektriciteit die de coöperatie in de productieperiode via de aansluiting heeft geleverd, verminderd met de hoeveelheid elektriciteit die in dezelfde periode via de aansluiting aan de coöperatie is geleverd.
 
 3. Het verlaagde tarief, bedoeld in het eerste lid, wordt slechts toegepast indien de coöperatie aan degene die de levering verricht:
 
 - a. een afschrift heeft overgelegd van de beschikking waaruit blijkt dat de coöperatie op het tijdstip van de levering was aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a); en
 
-- b. een schriftelijke verklaring heeft overgelegd dat wordt voldaan aan de bij of krachtens [artikel 59a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en, indien het een vereniging van eigenaars betreft, bij [artikel 59b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b), aan de coöperatie, de productie-installatie en de onroerende zaken, bedoeld in artikel 59a, tweede lid, onderdeel b, van de wet, gestelde voorwaarden en beperkingen.
+- b. een schriftelijke verklaring heeft overgelegd dat wordt voldaan aan de bij of krachtens [artikel 59a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en, indien het een vereniging van eigenaars betreft, bij [artikel 59b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b), aan de coöperatie en de productie-installatie gestelde voorwaarden en beperkingen.
 
 ### Hoofdstuk VII. Verpakkingenbelasting
 
@@ -757,10 +759,48 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk VIa. Vliegbelasting
 
+### Hoofdstuk VIa. Vliegbelasting
+
+### Afdeling 1. Sierteelt
+
+### Hoofdstuk VIII. Algemene bepaling
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 11a
+
+Als een installatie als bedoeld in [artikel 28, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=28), wordt mede aangemerkt een installatie waarin blijkens boeken en bescheiden uitsluitend zuivere biomassa of naar haar aard zuivere biomassa wordt verbrand.
+
+### Hoofdstuk V. Kolenbelasting
+
+### Hoofdstuk VI. Energiebelasting
+
 ### Hoofdstuk VII. Verpakkingenbelasting
 
 ### Afdeling 1. Sierteelt
 
+### Afdeling 2. Groenten en fruit
+
+### Hoofdstuk VIII. Algemene bepaling
+
 ### Hoofdstuk IX. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
+
+##### Artikel 11b
+
+1. De vrijstelling, bedoeld in [artikel 29a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=29a), wordt verleend indien uit de administratie van de belastingplichtige blijkt welk gedeelte van de hoeveelheid afvalstoffen die in het tijdvak van aangifte ter verwijdering aan de inrichting is afgegeven, bestaat uit zuiveringsslib dat is bestemd om binnen de inrichting te worden verbrand.
+
+2. De verbranding van het zuiveringsslib, bedoeld in het eerste lid, moet plaatsvinden binnen drie jaar na de afgifte van dat zuiveringsslib aan de inrichting. De datum van verbranding wordt vastgelegd in de administratie, bedoeld in het eerste lid.
+
+3. Bij regeling van Onze Minister kunnen ten behoeve van de uitvoering van dit artikel nadere regels worden gesteld.
+
+### Hoofdstuk V. Kolenbelasting
+
+### Hoofdstuk VI. Energiebelasting
+
+### Afdeling 1. Sierteelt
+
+### Afdeling 2. Groenten en fruit
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
