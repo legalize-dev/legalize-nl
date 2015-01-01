@@ -4,7 +4,7 @@ identifier: "BWBR0037254"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037254"
 soort: "wet"
@@ -47,7 +47,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de loonbelasting 1964.
 
 ##### Artikel IV
 
@@ -71,11 +71,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel X
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de accijns.
 
 ##### Artikel XI
 
@@ -99,7 +99,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel XVII
 
@@ -111,7 +111,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Belastingplan 2015.
 
 ##### Artikel XX
 
