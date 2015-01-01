@@ -4,7 +4,7 @@ identifier: "BWBR0003453"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0003453"
 soort: "AMvB"
@@ -70,7 +70,7 @@ In de commissie hebben zitting;
 
 - i. één lid, dat benoemd wordt op voordracht van de Koninklijke Nederlandse Toeristenbond, ANWB;
 
-- j. één lid, te benoemen door Onze Minister op voordracht van de Nederlandse Vereniging van Boseigenaren en het Bosschap gezamenlijk.
+- j. één lid, te benoemen door Onze Minister op voordracht van de Nederlandse Vereniging van Boseigenaren.
 
 ##### Artikel 3
 
