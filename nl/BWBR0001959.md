@@ -4,7 +4,7 @@ identifier: "BWBR0001959"
 country: "nl"
 rank: "wet"
 publication_date: "2023-05-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0001959"
 soort: "wet"
@@ -84,9 +84,9 @@ De officier van justitie kan, als waarborg voor de kosten, ter zake van de meded
 
 ##### Artikel 7
 
-1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2013-01-01&g=2013-01-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
+1. De officier van justitie zal het exploit met "gezien" teekenen en de in het laatste [lid van artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2015-01-01&g=2015-01-01) dezer wet bedoelde afschriften, met vertalingen, ter verdere behandeling doen toekomen aan den bevoegden Nederlandschen consulairen ambtenaar. Hij verzoekt dezen ambtenaar tevens de vertalingen voor overeenstemmend te verklaren.
 
-2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2013-01-01&g=2013-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2013-01-01&g=2013-01-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
+2. Is aan de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=5&z=2015-01-01&g=2015-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=6&z=2015-01-01&g=2015-01-01) dezer wet niet voldaan, dan weigert de officier van justitie de doorzending der stukken, echter niet dan na getracht te hebben de naleving daarvan zooveel mogelijk te bevorderen.
 
 ##### Artikel 8
 
@@ -102,23 +102,19 @@ Verschijnt de gedaagde ten beteekenden rechtsdage niet, dan zal, indien de eisch
 
 ##### Artikel 10
 
-1. Behoudens het bepaalde bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=11&z=2013-01-01&g=2013-01-01) zendt de officier van justitie, wien eene rogatoire commissie overeenkomstig artikel 7 van het verdrag is overgemaakt, deze door aan de kantonrechter van de rechtbank, binnen welks rechtsgebied de uitvoering, geheel of gedeeltelijk, moet plaats vinden. Deze geeft aan de rogatoire commissie uitvoering, voor zoover deze binnen zijn gebied moet geschieden.
+1. De rechtbank aan wie overeenkomstig artikel 7 van het verdrag een rogatoire commissie is overgemaakt geeft uitvoering aan de rogatoire commissie. Oordeelt de rechtbank aan wie de rogatoire commissie is toegezonden dat de uitvoering door een andere rechtbank dient te geschieden, dan zendt zij de commissie aan deze rechtbank. Deze rechtbank is aan de doorzending gebonden.
 
-2. Moet de uitvoering binnen het gebied van meer rechtbanken geschieden, dan zendt de kantonrechter, door wien de rogatoire commissie, voor zooveel hem betreft, reeds is uitgevoerd, deze met de stukken onverwijld aan de kantonrechter van de rechtbank van het arrondissement waarin de uitvoering alsnog geschieden moet, met gelijktijdige mededeeling van deze doorzending aan den officier van justitie.
+2. Indien de uitvoering van de rogatoire commissie in verschillende rechtsgebieden dient plaats te vinden, is elk van de rechtbanken van deze rechtsgebieden bevoegd de commissie in haar geheel uit te voeren.
 
-3. Bij verschil over de vraag, welke rechtbank de rogatoire commissie heeft uit te voeren, beslist Onze Minister van Justitie.
-
-4. De officier van justitie geeft van elke doorzending onverwijld kennis aan de autoriteit, welke hem de rogatoire commissie heeft overgemaakt.
+3. De rogatoire commissie kan worden verwezen naar de kantonrechter. De kantonrechter is aan deze verwijzing gebonden.
 
 ##### Artikel 11
 
-1. Onze Minister van Justitie kan eene andere rechterlijke autoriteit dan den kantonrechter ter uitvoering van de rogatoire commissie aanwijzen, ingeval de aard dezer commissie daartoe aanleiding geeft.
-
-2. Oordeelt de officier van justitie, wien de rogatoire commissie is overgemaakt, dat er reden kan zijn tot toepassing van het vorige lid, dan vraagt hij de beslissing van Onzen voornoemden Minister.
+Vervallen
 
 ##### Artikel 12
 
-Oordeelt de officier van justitie, wien de rogatoire commissie is overgemaakt, of de rechter, wien zij is doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2013-01-01&g=2013-01-01) dezer wet overeenkomstige toepassing.
+Oordeelt de rechter, aan wie de rogatoire commissie is overgemaakt of doorgezonden, dat het geval, bedoeld bij letter **f** van artikel 7 van het verdrag, aanwezig is, dan vindt [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=2&z=2015-01-01&g=2015-01-01) dezer wet overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -126,7 +122,7 @@ Indien een persoon, die ter zake van eene rogatoire commissie moet worden gehoor
 
 ##### Artikel 14
 
-Zoodra de rechter de rogatoire commissie heeft afgedaan, zendt hij aan den bij [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0001959&artikel=10&z=2013-01-01&g=2013-01-01) dezer wet bedoelden officier van justitie de ontvangen stukken terug, vermeerderd met de stukken, waaruit van de uitvoering blijkt, en met eene opgave van kosten als bedoeld bij letter **b** van artikel 10 van het verdrag.
+Vervallen
 
 ##### Artikel 15
 
