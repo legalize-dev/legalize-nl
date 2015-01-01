@@ -4,7 +4,7 @@ identifier: "BWBR0011049"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-11-14"
-last_updated: "2013-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011049"
 soort: "AMvB"
@@ -78,11 +78,11 @@ Een verzekerde als bedoeld in de [artikelen 7a, eerste lid](https://wetten.overh
 
 1. De pensioengerechtigde, bedoeld in [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a) heeft recht op een toeslag indien deze pensioengerechtigde werkzaamheden in het algemeen belang verricht.
 
-2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdelen a of c, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die niet in Nederland woont en werkzaamheden in het algemeen belang verricht heeft recht op ouderdomspensioen alsof hij in Nederland woont.
+2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die niet in Nederland woont en werkzaamheden in het algemeen belang verricht heeft recht op ouderdomspensioen alsof hij in Nederland woont.
 
 ##### Artikel 6. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij werkzaamheden in het algemeen belang verricht en het eigen kind, het aangehuwde kind of het pleegkind woont in hetzelfde land, Nederland of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan.
+De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij werkzaamheden in het algemeen belang verricht en het eigen kind, het aangehuwde kind of het pleegkind woont in hetzelfde land of indien de verzekerde recht op kinderbijslag zou hebben indien hij in Nederland zou wonen.
 
 ##### Artikel 7. Recht op nabestaandenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
@@ -112,11 +112,11 @@ Een verzekerde als bedoeld in de [artikelen 7a, eerste lid](https://wetten.overh
 
 1. De pensioengerechtigde, bedoeld in [artikel 8a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8a) heeft recht op een toeslag indien deze pensioengerechtigde in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont.
 
-2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdelen a of c, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont heeft recht op ouderdomspensioen alsof hij in Nederland woont.
+2. Een pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=9) die in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont heeft recht op ouderdomspensioen alsof hij in Nederland woont.
 
 ##### Artikel 12. Recht op kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij dan wel het eigen kind, het aangehuwde kind of het pleegkind in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op kinderbijslag kan bestaan.
+De verzekerde, bedoeld in [artikel 7b, eerste lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=7b), heeft recht op kinderbijslag, indien hij dan wel het eigen kind, het aangehuwde kind of het pleegkind in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba woont dan wel in Nederland, of indien de verzekerde woont in Curaçao, Sint Maarten, Aruba of in de openbare lichamen Bonaire, Sint Eustatius of Saba en hij recht op kinderbijslag zou hebben indien hij in Nederland zou wonen.
 
 ##### Artikel 13. Recht op nabestaandenuitkering en wezenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
