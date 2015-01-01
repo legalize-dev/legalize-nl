@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -378,13 +378,7 @@ Voor de toepassing van [artikel 3.146, tweede lid, van de Wet inkomstenbelasting
 
 - 2. Voor de verrekening van een verlies uit aanmerkelijk belang van de kalenderjaren 2001, 2002 en 2003 met de drie voorafgaande kalenderjaren, bedoeld in [artikel 4.49, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.49), wordt onder inkomens uit aanmerkelijk belang mede begrepen winsten uit aanmerkelijk belang zoals vastgesteld onder het regime van de Wet op de inkomstenbelasting 1964.
 
-- 1. Indien het kalenderjaar 1998 als laatste jaar is begrepen in een tijdvak waarover een teruggaaf is verleend als bedoeld in artikel 66a van de Wet op de inkomstenbelasting 1964, in dat jaar binnenlandse belastingplicht ontstaat of de belastingplichtige de leeftijd van 65 jaar bereikt, geldt voor de kalenderjaren 1999 en 2000, in afwijking in zoverre van dat artikel, in plaats van een tijdvak van drie aaneengesloten gehele kalenderjaren een tijdvak van twee aaneengesloten gehele kalenderjaren.
-
-- 2. Indien het eerste lid toepassing vindt, bedraagt het drempelbedrag, bedoeld in artikel 66a, tweede lid, van de Wet op de inkomstenbelasting 1964 € 363.
-
-- 3. Indien de belastingplichtige in het kalenderjaar 2003 overlijdt of ophoudt binnenlands belastingplichtig te zijn en tevens het keuzerecht, bedoeld in [artikel 2.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), niet geldend kan maken, geldt voor de kalenderjaren 2001 en 2002, in afwijking in zoverre van [artikel 3.154 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), in plaats van een tijdvak van drie aaneengesloten gehele kalenderjaren een tijdvak van twee aaneengesloten gehele kalenderjaren.
-
-- 4. Indien het derde lid toepassing vindt, bedraagt het drempelbedrag, bedoeld in [artikel 3.154, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154) € 363.
+Vervallen.
 
 - 1. Indien op of na 1 januari 2001 belastbaar loon wordt genoten in de vorm van uitkeringen of verstrekkingen ineens wegens overlijden of invaliditeit ten gevolge van een ongeval dat voor 1 januari 2001 heeft plaatsgevonden, bedraagt de belasting op dit bestanddeel van het belastbare inkomen uit werk en woning, voorzover het belastbare inkomen uit werk en woning meer bedraagt dan het bedrag, genoemd in de eerste kolom, derde regel, van de tabel in [artikel 2.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.10), 20%.
 
@@ -523,8 +517,6 @@ De termijn van op 31 december 2000 bestaande schulden die zijn aangegaan ter ver
 - 2. De rente begrepen in een kapitaalsuitkering uit levensverzekering die volgens de in het eerste lid, eerste volzin, bedoelde bepalingen tot de inkomsten behoort, wordt voor de toepassing van de Wet inkomstenbelasting 2001 aangemerkt als inkomen uit werk en woning.
 
 - 3. Indien de verzekeringnemer of, in geval van een onherroepelijke begunstiging, de begunstigde anders dan door overlijden ophoudt binnenlands belastingplichtig te zijn, wordt een in onderdeel AL, eerste lid, eerste volzin, bedoelde levensverzekering geacht op het onmiddellijk daaraan voorafgaande tijdstip tot uitkering te zijn gekomen bij de verzekeringnemer of, in geval van een onherroepelijke begunstiging, bij de begunstigde en de hoogte van de uitkering gesteld op de waarde in het economische verkeer op dat tijdstip van de verzekering. Onder ophouden binnenlands belastingplichtig te zijn wordt mede verstaan de situatie waarin de verzekeringnemer respectievelijk de begunstigde voor de toepassing van de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland of een verdrag ter voorkoming van dubbele belasting wordt geacht geen inwoner van Nederland meer te zijn.
-
-- 4. Een keuze als bedoeld in [artikel 2.5, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5) geldt niet voor de toepassing van het derde lid.
 
 - 1. De rente begrepen in een op of na 1 januari 2001 genoten kapitaalsuitkering uit levensverzekering ter zake van een in onderdeel AL, eerste lid, tweede volzin, bedoelde levensverzekering – voor zover deze rente volgens de bepalingen van de Wet op de inkomstenbelasting 1964, zoals deze luidden op 31 december 2000, tot de inkomsten uit vermogen zou worden gerekend – wordt voor de toepassing van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) in aanmerking genomen als inkomen uit werk en woning. Artikel 25, derde lid, van de Wet op de inkomstenbelasting 1964, zoals dat luidde op 31 december 2000, is daarbij van overeenkomstige toepassing.
 
@@ -768,9 +760,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2014-01-01&g=2014-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2015-01-01&g=2015-01-01), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2014-01-01&g=2014-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2015-01-01&g=2015-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
