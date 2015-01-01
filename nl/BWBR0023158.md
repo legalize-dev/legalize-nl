@@ -4,7 +4,7 @@ identifier: "BWBR0023158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-24"
-last_updated: "2014-01-06"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023158"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ het besluit: het [Besluit uitvoering sociale werkvoorziening en begeleid werken]
 
 de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
-### Hoofdstuk 2. Indicatie en herindicatie
+### Hoofdstuk 2. Herindicatie
 
 ##### Artikel 2. Inschakeling deskundigen bij het onderzoek
 
@@ -60,77 +60,45 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 2. Bij het onderzoek, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3) vindt multidisciplinair overleg plaats met een team van deskundigen bestaande uit een arbeidsdeskundige, een arts en een psycholoog, indien:
 
-- a. als gevolg van tegenstrijdige informatie van afzonderlijke deskundigen onduidelijkheid bestaat of de aanvrager al dan niet tot de doelgroep behoort, of
+- a. als gevolg van tegenstrijdige informatie van afzonderlijke deskundigen onduidelijkheid bestaat of de geïndiceerde al dan niet tot de doelgroep behoort, of
 
-- b. anderszins bij het Uitvoeringsinstituut werknemersverzekeringen gerede twijfel bestaat of de aanvrager al dan niet tot de doelgroep behoort.
+- b. anderszins bij het Uitvoeringsinstituut werknemersverzekeringen gerede twijfel bestaat of de geïndiceerde al dan niet tot de doelgroep behoort.
 
 ##### Artikel 3. Onverenigbare functies
 
-1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2014-01-06&g=2014-01-06) kan niet tevens zijn:
+1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2015-01-01&g=2015-01-01) kan niet tevens zijn:
 
-- a. werknemer in dienst van de gemeente waarvan de aanvrager ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
+- a. werknemer in dienst van de gemeente waarvan de geïndiceerde ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
 
-- b. werknemer in dienst van of bestuurslid werkend ten behoeve van een door het college van de gemeente waarvan de aanvrager ingezetene is voor de uitvoering van de wet aangewezen rechtspersoon of organisatie waarvan die rechtspersoon houder is van aandelen die ten minste de helft van de stemmen in de algemene vergadering van die organisatie vertegenwoordigen dan wel waarin die rechtspersoon anderszins op directe of indirecte wijze de bestuurlijke zeggenschap heeft;
+- b. werknemer in dienst van of bestuurslid werkend ten behoeve van een door het college van de gemeente waarvan de geïndiceerde ingezetene is voor de uitvoering van de wet aangewezen rechtspersoon of organisatie waarvan die rechtspersoon houder is van aandelen die ten minste de helft van de stemmen in de algemene vergadering van die organisatie vertegenwoordigen dan wel waarin die rechtspersoon anderszins op directe of indirecte wijze de bestuurlijke zeggenschap heeft;
 
-- c. werknemer in dienst van of bestuurslid werkend ten behoeve van een door het college van de gemeente waarvan de aanvrager ingezetene is ingeschakelde begeleidingsorganisatie als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=11) en [14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=14);
+- c. werknemer in dienst van of bestuurslid werkend ten behoeve van een door het college van de gemeente waarvan de geïndiceerde ingezetene is ingeschakelde begeleidingsorganisatie als bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=8) en [9 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=9);
 
-- d. werknemer in dienst van een interne of externe arbodienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), die verantwoordelijk is voor de uitvoering van de verplichtingen die voortvloeien uit [artikel 14, derde lid, laatste volzin, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) in de sociale werkvoorziening van de gemeente waarvan de aanvrager ingezetene is.
+- d. werknemer in dienst van een interne of externe arbodienst als bedoeld in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346), die verantwoordelijk is voor de uitvoering van de verplichtingen die voortvloeien uit [artikel 14, derde lid, laatste volzin, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) in de sociale werkvoorziening van de gemeente waarvan de geïndiceerde ingezetene is.
 
-2. Indien de gemeente waarvan de aanvrager ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet gedeeltelijk heeft overgedragen wordt voor de toepassing van het eerste lid voor die gemeente in de plaats gesteld de deelnemende gemeenten aan de gemeenschappelijke regeling. Indien de gemeente waarvan de aanvrager ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet volledig heeft overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) wordt voor de toepassing van het eerste lid voor het college van die gemeente mede gelezen het bestuur van dat openbaar lichaam.
+2. Indien de gemeente waarvan de geïndiceerde ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet gedeeltelijk heeft overgedragen wordt voor de toepassing van het eerste lid voor die gemeente in de plaats gesteld de deelnemende gemeenten aan de gemeenschappelijke regeling. Indien de gemeente waarvan de geïndiceerde ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet volledig heeft overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) wordt voor de toepassing van het eerste lid voor het college van die gemeente mede gelezen het bestuur van dat openbaar lichaam.
 
 ##### Artikel 4. Beschikbaarheid
 
-1. De geïndiceerde is beschikbaar om een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7) te aanvaarden tenzij:
-
-- a. hij in verband met ongeschiktheid ten gevolge van ziekte of gebrek niet in staat is tot het verrichten van arbeid onder aangepaste omstandigheden indien hij dat gedurende een ononderbroken periode van ten minste 13 weken is geweest;
-
-- b. hem rechtens zijn vrijheid is ontnomen;
-
-- c. hij buiten Nederland woont;
-
-- d. hij een voltijdsscholing of -opleiding volgt, tenzij de voltijdsscholing of -opleiding bedoeld is om aansluiting te vinden met het aanvaarden van een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7); of
-
-- e. uit zijn houding en gedragingen ondubbelzinnig blijkt dat hij niet bereid is een dienstbetrekking als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2), of [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7) te aanvaarden.
-
-2. Het eerste lid, onderdeel b, is niet van toepassing op de geïndiceerde die behoort tot een categorie van personen als bedoeld in [artikel 1 van het Besluit extramurale vrijheidsbeneming en sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0011136&artikel=1).
+Vervallen
 
 ### Hoofdstuk 3. Financiering
 
 ##### Artikel 5. Garantiestelling
 
-1. Het percentage, bedoeld in [artikel 16, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt 94 voor het jaar 2014.
-
-2. Het totaal aantal arbeidsjaren, bedoeld in factor D in [artikel 16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), bedraagt:
-
-- –. voor het jaar 2008 3.826,66;
-
-- –. voor het jaar 2009 1.371,36;
-
-- –. voor het jaar 2010 745,02;
-
-- –. voor het jaar 2011 623,13;
-
-- –. voor het jaar 2012 275,82;
-
-- –. voor het jaar 2013 270,65;
-
-- –. voor het jaar 2014 120,47.
+Vervallen
 
 ##### Artikel 6. Betaalbaarstelling
 
-1. Van de uitkering, bedoeld in [artikel 8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8), wordt in de maand mei 14,75 procent betaalbaar gesteld en in de overige maanden 7,75 procent.
-
-2. De betalingen vinden plaats op of omstreeks de 15e dag van iedere maand.
+Vervallen
 
 ##### Artikel 7. Opschorting van betaling
 
-1. Indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken noodzakelijk voor het financieel beheer van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), schort de minister de betaling van de uitkering, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8), voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.
-
-2. De betaling van de uitkering wordt hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin de aanvullende informatie, bedoeld in het eerste lid, is ontvangen door de minister.
+Vervallen
 
 ##### Artikel 8. Nadere voorwaarden Stimuleringsuitkering begeleid werken
 
-Een dienstbetrekking als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7) wordt pas aangemerkt als begeleid werken in de zin van [artikel 18 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=18) indien deze is aangegaan voor ten minste zes maanden.
+Vervallen
 
 ### Hoofdstuk 4. Informatievoorziening
 
@@ -140,7 +108,7 @@ Het college draagt er zorg voor dat de minister desgevraagd aanvullende informat
 
 ##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
-Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2014-01-06&g=2014-01-06) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
+Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
 ##### Artikel 11. Statistiek sociale werkvoorziening
 
@@ -148,11 +116,11 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 2. Het college en het Uitvoeringsinstituut werknemersverzekeringen verstrekken binnen zes weken na afloop van de desbetreffende halfjaarsperiode de gegevens, bedoeld in het eerste lid, aan een daartoe aan de minister aangewezen bewerker op een door de bewerker te bepalen wijze.
 
-3. Als bewerker is aangewezen Research voor Beleid.
+3. Als bewerker is aangewezen Panteia.
 
 ##### Artikel 12. De bewerker
 
-1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2014-01-06&g=2014-01-06), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
+1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
 2. De persoonsgegevens worden slechts in opdracht van de minister aan derden verstrekt ten behoeve van onderzoek waarvoor de persoonsgegevens noodzakelijk zijn.
 
@@ -168,39 +136,67 @@ Deze regeling treedt in werking met ingang van 1 januari 2008.
 
 ##### Artikel 15. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2008.
+Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2015.
 
-## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2014-01-06&g=2014-01-06) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2008
+## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
 
-### Statistiek Wsw
+### Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
-### Toelichting op de Statistiek
+### Toelichting op de Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+
+### Inleiding
+
+Met de inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) is de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) afgesloten voor nieuwe instroom. De Wsw-statistiek richt zich met ingang van 1 januari 2015 derhalve op het volgen van het zittend bestand Wsw. Het zittend bestand Wsw bestaat uit die mensen die op 31 december 2014 een dienstbetrekking hadden op grond van de Wsw. De Statistiek Wsw geeft inzicht in de samenstelling van het zittend bestand en de mate waarin het zittend bestand werkzaam is en blijft.
 
 ### Welke personen
 
-De personen over wie de statistische gegevens worden verstrekt, zijn dezelfde als die waarover gemeenten tevens de financiële verantwoordingsinformatie verstrekken. Voor de onderscheiden groepen uit de doelgroep betekent dit concreet het volgende:
-
-### Eenheid van berichtgeving
-
-Van elke persoon omtrent wie een indicatiebesluit is opgesteld, die op de wachtlijst staat of die tot het werknemersbestand behoort, wordt een apart record aangemaakt. Het record bevat de waarden van alle kenmerken die van de betrokkene bekend kunnen zijn.
+De personen over wie de statistische gegevens worden verstrekt, zijn de personen die na inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) tot de Wsw-doelgroep behoren. Deze personen hebben op 31 december 2014 een dienstbetrekking op basis van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). Voor de onderscheiden groepen uit de doelgroep betekent dit concreet het volgende:
 
 Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
 
-In overleg met de externe bewerker kan tot een andere wijze van berichtgeving worden besloten (bijvoorbeeld uitsluitend de verstrekking van gegevens over mutaties).
+Van elke persoon behorende tot het zittend bestand [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) wordt een apart record aangemaakt. Het record bevat de waarden van alle kenmerken die van de betrokkene bekend kunnen zijn.
 
 ### Begin en einde van berichtgeving over een persoon
 
-Over een persoon wordt begonnen met informatieverstrekking in de volgende gevallen:
+In overleg met de externe bewerker kan tot een andere wijze van berichtgeving worden besloten (bijvoorbeeld uitsluitend de verstrekking van gegevens over mutaties).
 
 De berichtgeving wordt in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
 
-Over dezelfde persoon vindt over een halfjaarsperiode afzonderlijke berichtgeving plaats als sprake is van uitstroom uit het werknemersbestand, direct gevolgd door:
+De personen waarover in de Wsw-statistiek wordt gerapporteerd zijn die personen die op 31 december 2014 een Wsw-dienstbetrekking dan wel een arbeidsovereenkomst op grond van begeleid werken hebben. Bij het vervallen van de Wsw-indicatie, uitstroom vanwege VUT/pensioen of overlijden van de persoon wordt berichtgeving beëindigd (na de periode waarin de beëindiging is gemeld). De persoon behoort niet meer tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ### Wijzigingen van kenmerken en peildatum voor berichtgeving
 
-Een nieuw indicatiebesluit leidt tot een actualisering van de gegevens bij het onderdeel besluit/advies. Dit geldt zowel voor een herindicatie van personen die op de wachtlijst zijn geplaatst als, voor zover sprake is plaatsing in het werknemersbestand vanaf 1 januari 1998, van personen met een dienstbetrekking of arbeidsovereenkomst.
+Als de dienstbetrekking danwel arbeidsovereenkomst wordt beëindigd, wordt bij kenmerk 27 de ontslagreden en bij kenmerk 28 een uitstroombestemming vermeld.
+
+Als de dienstbetrekking of arbeidsovereenkomst van de betrokkene vanwege verhuizing wordt beëindigd, wordt de berichtgeving niet beëindigd, maar worden de gegevens aangevuld met die over de dienstbetrekking of arbeidsovereenkomst.
+
+### Aantallen
+
+Deze afzonderlijke berichtgeving houdt in, dat het record van de persoon wordt afgesloten bij de uitstroom uit het werknemersbestand, en dat er een nieuw record wordt aangemaakt voor dezelfde persoon. Op deze manier blijven reeds ingevoerde gegevens (in het ‘oude’ record) over de dienstbetrekking en/of arbeidsovereenkomst van deze persoon bewaard. In het nieuwe record wordt de bestaande informatie overgenomen uit het oude record. Actualisering van de informatie op deze kenmerken vindt vanaf dat moment in het nieuwe record plaats.
+
+### Niet van toepassing zijnde gegevens
+
+Het kan voorkomen dat de betrokkene al eerder van werkvorm heeft gewisseld. Wanneer de betrokkene dan opnieuw wisselt, zijn de kenmerken van de nieuwe werkvorm reeds gevuld met ‘oude’ informatie. In dit geval wordt die oude informatie overschreven en vervangen door de actuele.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
+
+### Eenheid van berichtgeving
+
+Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
+
+### Begin en einde van berichtgeving over een persoon
+
+De berichtgeving wordt dus enkel in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
+
+Over dezelfde persoon vindt over een halfjaarsperiode afzonderlijke berichtgeving plaats als sprake is van uitstroom uit het werknemersbestand, direct gevolgd door:
+
+N.B.: een overgang naar een andere werkvorm binnen de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (dus een arbeidsovereenkomst na beëindiging van een dienstbetrekking of een dienstbetrekking na beëindiging van een arbeidsovereenkomst) telt niet als uitstroom uit het werknemersbestand. De kenmerken 27 en 28 blijven dan ook met nullen gevuld. De einddatum van de oude werkvorm wordt aangegeven bij het kenmerk 20 (einddatum dienstbetrekking) of 24 (einddatum arbeidsovereenkomst), en de begindatum van de nieuwe werkvorm wordt aangegeven bij het kenmerk 18 (dienstbetrekking) of 23 (arbeidsovereenkomst). Omdat wisseling van werkvorm niet als uitstroom uit het werknemersbestand geldt, wordt geen nieuwe berichtgeving gestart.
+
+### Wijzigingen van kenmerken en peildatum voor berichtgeving
+
+Een nieuw indicatiebesluit leidt tot een actualisering van de gegevens bij het onderdeel besluit/advies. Dit geldt zowel voor een herindicatie van personen zonder diensbetrekking of arbeidsovereenkomst als, voor zover sprake is plaatsing in het werknemersbestand vanaf 1 januari 1998, van personen met een dienstbetrekking of arbeidsovereenkomst.
 
 Bij gegevens waarin zich een wijziging kan voordoen, is de situatie op de laatste dag van het betreffende halfjaar bepalend (c.q. de situatie direct voorafgaand aan uitstroom).
 
