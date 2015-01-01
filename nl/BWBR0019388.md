@@ -4,7 +4,7 @@ identifier: "BWBR0019388"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2014-04-15"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019388"
 soort: "wet"
@@ -50,11 +50,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. huisvestingsvergunning: vergunning als bedoeld in [artikel 7, eerste lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=7);
+- a. huisvestingsvergunning: vergunning als bedoeld in [artikel 8 van de Huisvestingswet 2014](onbekend);
 
 - b. regio: gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd;
 
-- c. huisvestingsverordening: verordening als bedoeld in [artikel 2 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2);
+- c. huisvestingsverordening: verordening als bedoeld in [artikel 4 van de Huisvestingswet 2014](onbekend);
 
 - d. Onze Minister: Onze Minister voor Wonen en Rijksdienst;
 
@@ -64,7 +64,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2014-04-15&g=2014-04-15).
+Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aangewezen overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 3
 
@@ -104,33 +104,33 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 ##### Artikel 5
 
-1. Onze Minister kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2014-04-15&g=2014-04-15) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2014-04-15&g=2014-04-15) eisen kunnen worden gesteld.
+1. Onze Minister kan op aanvraag van de gemeenteraad gebieden aanwijzen waarin aan woningzoekenden op grond van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=8&z=2015-01-01&g=2015-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=9&z=2015-01-01&g=2015-01-01) eisen kunnen worden gesteld.
 
-2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad vier maal met telkens ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2014-04-15&g=2014-04-15) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2014-04-15&g=2014-04-15) zijn van overeenkomstige toepassing.
+2. De aanwijzing, bedoeld in het eerste lid, geschiedt voor de duur van ten hoogste vier jaar. Deze termijn kan op aanvraag van de gemeenteraad vier maal met telkens ten hoogste vier jaar worden verlengd. Het eerste lid van dit artikel en de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
+1. Bij de aanvraag, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), maakt de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk dat de beoogde aanwijzing van de in de aanvraag genoemde gebieden:
 
 - a. noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente, en
 
 - b. voldoet aan de eisen van subsidiariteit en proportionaliteit.
 
-2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
+2. De aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.
 
-3. Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.
+3. Onze Minister kan gedeputeerde staten advies vragen over de mogelijkheden, bedoeld in het tweede lid.
 
-4. Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
+4. Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.
 
 ##### Artikel 7
 
-1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), in indien hem is gebleken dat:
+1. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), in indien hem is gebleken dat:
 
-- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2014-04-15&g=2014-04-15), of
+- a. niet langer wordt voldaan aan de voorwaarden gesteld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01), of
 
-- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
+- b. de woningzoekenden, aan wie als gevolg van de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, onvoldoende mogelijkheden hebben om binnen de regio waarin de gemeente is gelegen voor hen passende huisvesting te vinden.
 
-2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), voorts in indien de gemeenteraad daarom verzoekt.
+2. Onze Minister trekt de aanwijzing, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), voorts in indien de gemeenteraad daarom verzoekt.
 
 ##### Artikel 8
 
@@ -150,21 +150,19 @@ Dit hoofdstuk is van toepassing in kansenzones, die door de gemeenteraad zijn aa
 
 2. De gemeenteraad bepaalt in de huisvestingsverordening dat burgemeester en wethouders aan een woningzoekende die niet voldoet aan de eisen, genoemd in het eerste lid, een huisvestingsvergunning voor het in gebruik nemen van woonruimte als bedoeld in dat lid kunnen verlenen, indien het weigeren van die huisvestingsvergunning tot een onbillijkheid van overwegende aard zou leiden.
 
-3. De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=7), [84, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=84), en [85 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=85) zijn van overeenkomstige toepassing.
+3. De [artikelen 8](onbekend) en [35 van de Huisvestingswet 2014](onbekend) zijn van overeenkomstige toepassing.
 
-4. De [artikelen 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=13a) en [13c van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=13c) zijn niet van toepassing.
+4. De [artikelen 14](onbekend) en [15 van de Huisvestingswet 2014](onbekend) zijn niet van toepassing.
 
 ##### Artikel 9
 
 1. De gemeenteraad kan, indien dat naar zijn oordeel noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente en voldoet aan de eisen van subsidiariteit en proportionaliteit, in de huisvestingsverordening bepalen dat voor daarbij aan te wijzen categorieën van woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden die voldoen aan in die verordening vastgelegde sociaal-economische kenmerken.
 
-2. De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in [artikel 11, eerste lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=11).
+2. De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in [artikel 12, eerste lid, van de Huisvestingswet 2014](onbekend).
 
 ##### Artikel 10
 
-1. In afwijking van [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2) stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), ten aanzien van de gebieden aangewezen op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15), de huisvestingsverordening vast.
-
-2. De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019388&hoofdstuk=3&artikel=5&z=2014-04-15&g=2014-04-15) aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.
+Vervallen
 
 ### Hoofdstuk 4. Wijziging van enkele wetten
 
