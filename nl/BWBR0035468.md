@@ -4,7 +4,7 @@ identifier: "BWBR0035468"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-01"
-last_updated: "2014-08-20"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035468"
 soort: "AMvB"
@@ -60,6 +60,6 @@ Het [Besluit RDA](https://wetten.overheid.nl/jci1.3:c:BWBR0030972) zoals dat onm
 
 ##### Artikel IV
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel A, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035468&artikel=I&z=2014-08-20&g=2014-08-20), dat in werking treedt met ingang van 1 januari 2015.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van [artikel I, onderdeel A, onder 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035468&artikel=I&z=2015-01-01&g=2015-01-01), dat in werking treedt met ingang van 1 januari 2015.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
