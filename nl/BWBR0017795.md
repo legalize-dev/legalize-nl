@@ -4,7 +4,7 @@ identifier: "BWBR0017795"
 country: "nl"
 rank: "kb"
 publication_date: "2015-01-01"
-last_updated: "2014-12-14"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017795"
 soort: "KB"
@@ -53,6 +53,6 @@ Dit besluit treedt in werking met ingang van 1 januari 2005, danwel, indien het 
 
 Dit besluit wordt aangehaald als: Besluit hoofdrailnet.
 
-## Bijlage. , behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017795&artikel=1&z=2014-12-14&g=2014-12-14) van het Besluit hoofdrailnet
+## Bijlage. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017795&artikel=1&z=2015-01-01&g=2015-01-01) van het Besluit hoofdrailnet
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
