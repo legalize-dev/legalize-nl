@@ -4,7 +4,7 @@ identifier: "BWBR0033613"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-10-01"
-last_updated: "2013-10-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033613"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 1. Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de minimumleeftijd voor deelname aan een kansspel.
 
-2. Dit lid is nog niet in werking getreden.
+2. Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de risico’s van onmatige deelneming aan kansspelen door middel van het plaatsen van een slogan.
 
 3. Bij elke afzonderlijke wervings- en reclameactiviteit wordt op voor de consument voldoende zichtbare wijze gewezen op de internetpagina van de vergunninghouder alwaar informatie verkregen kan worden over de in [artikel 5, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=5), beschreven onderwerpen.
 
@@ -148,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 7. Indicatoren en informatieverplichting
 
-1. Het informeren van de deelnemer aan kansspelen over de gevaren van kansspelverslaving en de toegang tot verslavingszorg, bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), vindt plaats door een leidinggevende die een cursus heeft gevolgd in de zin van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2013-10-01&g=2013-10-01), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=5&z=2013-10-01&g=2013-10-01), van deze regeling.
+1. Het informeren van de deelnemer aan kansspelen over de gevaren van kansspelverslaving en de toegang tot verslavingszorg, bedoeld in [artikel 7, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), vindt plaats door een leidinggevende die een cursus heeft gevolgd in de zin van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2015-01-01&g=2015-01-01), of [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=5&z=2015-01-01&g=2015-01-01), van deze regeling.
 
 2. Mogelijke indicatoren, bedoeld in [artikel 7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=7), die kunnen duiden op onmatige deelneming, of een dreiging daarvan, zijn in ieder geval:
 
@@ -162,15 +162,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 8. Overgangsregeling
 
-Cursussen, zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2013-10-01&g=2013-10-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2013-10-01&g=2013-10-01) van deze regeling, die door de leidinggevenden en personen, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), reeds met goed gevolg zijn voltooid op het moment van inwerkingtreding van deze regeling zijn evenzeer geldig.
+Cursussen, zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=3&artikel=4&z=2015-01-01&g=2015-01-01) van deze regeling, die door de leidinggevenden en personen, bedoeld in [artikel 8 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412&artikel=8), reeds met goed gevolg zijn voltooid op het moment van inwerkingtreding van deze regeling zijn evenzeer geldig.
 
 ##### Artikel 9. Inwerkingtreding
 
-1. Deze regeling treedt in werking met ingang van het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412) in werking treedt met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2013-10-01&g=2013-10-01).
+1. Deze regeling treedt in werking met ingang van het tijdstip waarop het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033412) in werking treedt met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01).
 
-2. [Artikel 3, eerst en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2013-10-01&g=2013-10-01), van deze regeling treden in werking per 1 oktober 2013.
+2. [Artikel 3, eerst en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), van deze regeling treden in werking per 1 oktober 2013.
 
-3. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2013-10-01&g=2013-10-01), van deze regeling treedt in werking per 1 januari 2015.
+3. [Artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033613&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), van deze regeling treedt in werking per 1 januari 2015.
 
 ##### Artikel 10. Citeertitel
 
