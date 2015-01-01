@@ -4,7 +4,7 @@ identifier: "BWBR0030105"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030105"
 soort: "wet"
@@ -185,7 +185,7 @@ Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel XXXIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel XXXV
 
@@ -241,7 +241,7 @@ Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
 1. Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden de [artikelen XXXIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXXIII&z=2013-01-01&g=2013-01-01), en [XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXXIV&z=2013-01-01&g=2013-01-01) in werking met ingang van 1 januari 2015.
+2. In afwijking van het eerste lid treden de [artikelen XXXIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXXIII&z=2015-01-01&g=2015-01-01), en [XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXXIV&z=2015-01-01&g=2015-01-01) in werking met ingang van 1 januari 2015.
 
 ##### Artikel XLIV
 
