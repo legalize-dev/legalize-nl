@@ -4,7 +4,7 @@ identifier: "BWBR0008154"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-01"
-last_updated: "2001-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008154"
 soort: "ministeriele-regeling"
@@ -54,11 +54,11 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-Na ontvangst van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=9&z=2001-01-01&g=2001-01-01) bedoelde bescheiden stellen de bij de betreffende liquiditeitsregeling betrokken ministers een maximaal toelaatbare bedrag voor een lening, alsmede een gemiddeld toelaatbaar bedrag voor een lening aan de Lisv-, SVb, en Zfr-clusters vast. Van de hiervoor bedoelde vaststelling worden de fondsen schriftelijk in kennis gesteld.
+Na ontvangst van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=9&z=2015-01-01&g=2015-01-01) bedoelde bescheiden stellen de bij de betreffende liquiditeitsregeling betrokken ministers een maximaal toelaatbare bedrag voor een lening, alsmede een gemiddeld toelaatbaar bedrag voor een lening aan de Lisv-, SVb, en Zfr-clusters vast. Van de hiervoor bedoelde vaststelling worden de fondsen schriftelijk in kennis gesteld.
 
 ##### Artikel 4
 
-1. De omvang van de in een kalenderjaar maximaal toelaatbare lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2001-01-01&g=2001-01-01), is voor de centrale sociale verzekeringsfondsen gezamenlijk gelijk aan de som van de volgende twee factoren:
+1. De omvang van de in een kalenderjaar maximaal toelaatbare lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2015-01-01&g=2015-01-01), is voor de centrale sociale verzekeringsfondsen gezamenlijk gelijk aan de som van de volgende twee factoren:
 
 - a. 50% van de som van de in het kalenderjaar te verwachten maximale tekorten aan liquide middelen van respectievelijk de Lisv-, SVb- en Zfr-cluster;
 
@@ -68,7 +68,7 @@ Na ontvangst van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00081
 
 3. De voor de centrale sociale verzekeringsfondsen gezamenlijk vastgestelde omvang van het maximaal toelaatbare voorschot wordt naar rato van de maximale tekorten aan liquide middelen van respectievelijk de Lisv-, SVb- en Zfr-cluster aan de betreffende cluster toegekend.
 
-4. Het gemiddeld toelaatbare bedrag voor een lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2001-01-01&g=2001-01-01), wordt voor de Lisv-, SVb- en Zfr-cluster vastgesteld op en percentage van het maximaal toelaatbare voorschot aan deze clusters. Dit percentage is gelijk aan de verhouding tussen de gemiddeld en maximaal per kalenderjaar voor iedere cluster verwachte tekorten aan liquide middelen.
+4. Het gemiddeld toelaatbare bedrag voor een lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2015-01-01&g=2015-01-01), wordt voor de Lisv-, SVb- en Zfr-cluster vastgesteld op en percentage van het maximaal toelaatbare voorschot aan deze clusters. Dit percentage is gelijk aan de verhouding tussen de gemiddeld en maximaal per kalenderjaar voor iedere cluster verwachte tekorten aan liquide middelen.
 
 ##### Artikel 5
 
@@ -88,7 +88,7 @@ De Minister van Financiën opent in de centrale administratie van ’s Rijks sch
 
 1. Indien een centraal sociaal verzekeringsfonds een verzoek om een lening indient, verplicht het zich om op verzoek van de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Financiën en de Minister van Volksgezondheid, Welzijn en Sport zo spoedig mogelijk alle informatie te verschaffen ten aanzien van de oorzaken die ten grondslag liggen aan het verzoek om een lening.
 
-2. Onverminderd het bepaalde in het eerste lid en in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=6&z=2001-01-01&g=2001-01-01) wordt bij het verzoek om een lening aangegeven gedurende welke termijn de lening maximaal wordt opgenomen.
+2. Onverminderd het bepaalde in het eerste lid en in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=6&z=2015-01-01&g=2015-01-01) wordt bij het verzoek om een lening aangegeven gedurende welke termijn de lening maximaal wordt opgenomen.
 
 3. Zodra een centraal sociaal verzekeringsfonds kenbaar wordt dat de in het tweede lid bedoelde termijn zal worden overschreden, wordt daarvan melding gedaan aan de Minister van Financiën. Daarbij wordt tevens vermeld voor welke termijn de lening langer benodigd is.
 
@@ -96,7 +96,7 @@ De Minister van Financiën opent in de centrale administratie van ’s Rijks sch
 
 ##### Artikel 9
 
-1. Ten behoeve van de vaststelling van de maximale en gemiddelde lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2001-01-01&g=2001-01-01), verstrekken de centrale sociale verzekeringsfondsen jaarlijks vóór 1 december van dat kalenderjaar een raming van de stand van de liquide middelen per ultimo van iedere maand over het komende kalenderjaar.
+1. Ten behoeve van de vaststelling van de maximale en gemiddelde lening, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008154&artikel=3&z=2015-01-01&g=2015-01-01), verstrekken de centrale sociale verzekeringsfondsen jaarlijks vóór 1 december van dat kalenderjaar een raming van de stand van de liquide middelen per ultimo van iedere maand over het komende kalenderjaar.
 
 2. Onverminderd het bepaalde in het eerste lid worden, op verzoek van de Minister van Sociale Zaken en Werkgelegenheid, de Minister van Financiën, en de Minister van Volksgezondheid, Welzijn en Sport, door de centrale sociale verzekeringsfondsen additionele ramingen van het liquiditeitsverloop verstrekt.
 
