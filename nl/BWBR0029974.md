@@ -4,7 +4,7 @@ identifier: "BWBR0029974"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-06-28"
-last_updated: "2012-05-09"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029974"
 soort: "AMvB"
@@ -62,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. **exploitant van reisinformatie:** degene die verzoekt om reisinformatie ten behoeve van het voeden en actualiseren van een reisinformatiesysteem als bedoeld in [artikel 10 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=10);
 
-- f. **concessieverlener:** een overheid als bedoeld in [artikel 20, tweede lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
+- f. **concessieverlener:** een overheid als bedoeld in [artikel 20, tweede en derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20);
 
 - g. **halte:** een gebouw of bouwwerk dat dient voor het betreden, gebruiken en verlaten van openbaar vervoer, in het bijzonder voor bus of tram;
 
@@ -86,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3
 
-De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2012-05-09&g=2012-05-09) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=17&z=2012-05-09&g=2012-05-09) voorgeschreven aanpassingen zijn de aanpassingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=2) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=8).
+De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2015-01-01&g=2015-01-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=17&z=2015-01-01&g=2015-01-01) voorgeschreven aanpassingen zijn de aanpassingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=2) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=8).
 
 ### Hoofdstuk 2. Voertuigen
 
@@ -130,15 +130,15 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 2. Indien een halte of station beschikt over balies, deuren, zittingen, leuningen en handgrepen zijn deze toegerust op een comfortabel en veilig gebruik voor personen met een functiebeperking.
 
-3. Indien een halte of station beschikt over bewegwijzering naar de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2012-05-09&g=2012-05-09), bedoelde voorzieningen en het aansluitende openbaar vervoer en taxivervoer, is deze op grafische en tactiele wijze beschikbaar.
+3. Indien een halte of station beschikt over bewegwijzering naar de in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), bedoelde voorzieningen en het aansluitende openbaar vervoer en taxivervoer, is deze op grafische en tactiele wijze beschikbaar.
 
-4. Een halte of station voor trein beschikt over personele assistentieverlening voor personen met een motorische functiebeperking bij het in- en uitstappen in een voertuig, indien niet wordt voldaan aan [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2012-05-09&g=2012-05-09).
+4. Een halte of station voor trein beschikt over personele assistentieverlening voor personen met een motorische functiebeperking bij het in- en uitstappen in een voertuig, indien niet wordt voldaan aan [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 7
 
-1. Een treinstation of een onderdeel daarvan voldoet aan [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2012-05-09&g=2012-05-09), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=6&z=2012-05-09&g=2012-05-09) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2012-05-09&g=2012-05-09) van dit besluit door het voldoen aan de in de beschikking van Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit «personen met beperkte mobiliteit» voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64) daaromtrent verplicht gestelde specificaties.
+1. Een treinstation of een onderdeel daarvan voldoet aan [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=6&z=2015-01-01&g=2015-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) van dit besluit door het voldoen aan de in de beschikking van Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit «personen met beperkte mobiliteit» voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64) daaromtrent verplicht gestelde specificaties.
 
-2. Een trein of een onderdeel daarvan voldoet aan [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2012-05-09&g=2012-05-09) van dit besluit door het voldoen aan de in de beschikking van Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit «personen met beperkte mobiliteit» voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64) daaromtrent verplicht gestelde specificaties.
+2. Een trein of een onderdeel daarvan voldoet aan [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) van dit besluit door het voldoen aan de in de beschikking van Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit «personen met beperkte mobiliteit» voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64) daaromtrent verplicht gestelde specificaties.
 
 ### Hoofdstuk 4. Reisinformatie
 
@@ -146,7 +146,7 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 1. Reisinformatie als bedoeld in [artikel 7, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=7) is voorafgaand aan de reis ten minste via internet in beeld en geluid en desgevraagd op schrift en per telefoon beschikbaar en bruikbaar voor personen met een functiebeperking.
 
-2. Het eerste lid is van overeenkomstige toepassing op informatie over de toegankelijkheid van openbaar vervoer voorzieningen als bedoeld in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2012-05-09&g=2012-05-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2012-05-09&g=2012-05-09).
+2. Het eerste lid is van overeenkomstige toepassing op informatie over de toegankelijkheid van openbaar vervoer voorzieningen als bedoeld in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 9
 
@@ -160,7 +160,7 @@ In voertuigen is reisinformatie over de aankomst bij tussengelegen haltes of sta
 
 ##### Artikel 11
 
-Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2012-05-09&g=2012-05-09) kan door vervoerders en beheerders tijdelijk worden afgeweken bij onvoorziene omstandigheden of omstandigheden waarin een ander maatschappelijk belang prevaleert ten opzichte van het belang van toegankelijk openbaar vervoer, en de beschikbare toegankelijkheid van dat vervoer als gevolg van die omstandigheden redelijkerwijs niet in stand kan blijven.
+Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2015-01-01&g=2015-01-01) kan door vervoerders en beheerders tijdelijk worden afgeweken bij onvoorziene omstandigheden of omstandigheden waarin een ander maatschappelijk belang prevaleert ten opzichte van het belang van toegankelijk openbaar vervoer, en de beschikbare toegankelijkheid van dat vervoer als gevolg van die omstandigheden redelijkerwijs niet in stand kan blijven.
 
 ##### Artikel 12
 
@@ -188,7 +188,7 @@ Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.
 
 ##### Artikel 14
 
-De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Minister van Infrastructuur en Milieu gegevens betreffende de mate waarin is voldaan aan het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=5&artikel=12&z=2012-05-09&g=2012-05-09), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=6&artikel=13&z=2012-05-09&g=2012-05-09) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2012-05-09&g=2012-05-09):
+De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Minister van Infrastructuur en Milieu gegevens betreffende de mate waarin is voldaan aan het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=5&artikel=12&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=6&artikel=13&z=2015-01-01&g=2015-01-01) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2015-01-01&g=2015-01-01):
 
 - a. de concessieverleners;
 
@@ -200,7 +200,7 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 ##### Artikel 15
 
-1. Concessieverleners, vervoerders, beheerders en exploitanten van reisinformatie zorgen voor de coördinatie en afstemming van de in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2012-05-09&g=2012-05-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2012-05-09&g=2012-05-09) bedoelde aanpassingen op zodanige wijze dat desbetreffende voertuigen, haltes, stations en reisinformatie zoveel mogelijk op aansluitende lijnen en geharmoniseerd toegankelijk zijn.
+1. Concessieverleners, vervoerders, beheerders en exploitanten van reisinformatie zorgen voor de coördinatie en afstemming van de in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2015-01-01&g=2015-01-01) bedoelde aanpassingen op zodanige wijze dat desbetreffende voertuigen, haltes, stations en reisinformatie zoveel mogelijk op aansluitende lijnen en geharmoniseerd toegankelijk zijn.
 
 2. De in het eerste lid bedoelde rechtspersonen of hun representatieve organisaties voeren ten minste jaarlijks overleg over de in dat lid bedoelde coördinatie en afstemming.
 
@@ -210,21 +210,21 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 1. Onze Minister kan in overeenstemming met Onze Minister van Infrastructuur en Milieu regels stellen over:
 
-- a. de mate of de aard van aanpassingen van voertuigen, haltes, stations, reisinformatie, bijstand en vervoervoorwaarden, bedoeld in de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), en het aandeel aangepaste voertuigen, haltes, stations of reisinformatievoorzieningen;
+- a. de mate of de aard van aanpassingen van voertuigen, haltes, stations, reisinformatie, bijstand en vervoervoorwaarden, bedoeld in de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), en het aandeel aangepaste voertuigen, haltes, stations of reisinformatievoorzieningen;
 
-- b. hetgeen moet worden verstaan onder nieuwe, vernieuwde of verbeterde voertuigen, stations, haltes of reisinformatie, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=17&z=2012-05-09&g=2012-05-09);
+- b. hetgeen moet worden verstaan onder nieuwe, vernieuwde of verbeterde voertuigen, stations, haltes of reisinformatie, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=17&z=2015-01-01&g=2015-01-01);
 
 - c. de uitvoering van een bindend besluit van de Raad van de Europese Unie of van het Europees Parlement en de Raad gezamenlijk of van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een Volkenrechtelijke organisatie;
 
-- d. overige aanpassingen die noodzakelijk zijn om voorzieningen in het openbaar vervoer toegankelijk te maken voor personen met een functiebeperking en de informatieverstrekking over de toegankelijkheid van die voorzieningen afkomstig van rechtspersonen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=7&artikel=14&z=2012-05-09&g=2012-05-09).
+- d. overige aanpassingen die noodzakelijk zijn om voorzieningen in het openbaar vervoer toegankelijk te maken voor personen met een functiebeperking en de informatieverstrekking over de toegankelijkheid van die voorzieningen afkomstig van rechtspersonen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=7&artikel=14&z=2015-01-01&g=2015-01-01).
 
 2. De in het eerste lid, onder a, c en d bedoelde regels kunnen per voertuig of voertuigcategorie, traject, halte, station of concessiegebied verschillend zijn.
 
 ##### Artikel 17
 
-1. Nieuwe, vernieuwde en verbeterde voertuigen, haltes, stations en reisinformatie zijn toegankelijk overeenkomstig de daarop betrekking hebbende [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09).
+1. Nieuwe, vernieuwde en verbeterde voertuigen, haltes, stations en reisinformatie zijn toegankelijk overeenkomstig de daarop betrekking hebbende [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01).
 
-2. Onverminderd het eerste lid en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2012-05-09&g=2012-05-09), zijn voertuigen, haltes, stations en reisinformatiesystemen die op het moment van inwerkingtreding van dit besluit in gebruik zijn, ingevolge de daarop betrekking hebbende [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2012-05-09&g=2012-05-09), aangepast:
+2. Onverminderd het eerste lid en [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2015-01-01&g=2015-01-01), zijn voertuigen, haltes, stations en reisinformatiesystemen die op het moment van inwerkingtreding van dit besluit in gebruik zijn, ingevolge de daarop betrekking hebbende [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), aangepast:
 
 - a. met ingang van 1 juli 2011, voor zover het betreft bussen en metro’s;
 
