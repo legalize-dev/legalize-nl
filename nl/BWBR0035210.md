@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Financiering in de vorm van leningen in het kader van DGGF onderdeel 1 zal worde
 
 Het verlenen van garanties in het kader van DGGF onderdeel 1 zal worden verankerd in een garantstellingsovereenkomst die als uitvoeringsovereenkomst bij de subsidiebeschikking hoort. De totstandkoming van de subsidiebeschikking wordt beheerst door het publiekrecht, de inhoud van de garantstellingsovereenkomst en de daaruit voorvloeiende individuele garantieverleningen door het privaatrecht. Dit betekent dat de subsidiebeschikking niet de details van de garantstellingsovereenkomst omvat. Voor elke garantiemogelijkheid is er een model garantstellingsovereenkomst.
 
-De subsidie wordt verleend onder de opschortende voorwaarde dat binnen een in de beschikking bepaalde termijn de beoogde financieringsovereenkomst tot stand komt. Een positieve beschikking biedt de aanvrager daarom nog niet de zekerheid dat de beoogde transactie doorgang zal vinden: die zekerheid bestaat pas als de overeenkomst tot stand is gekomen. Wel biedt de beschikking grond voor het vertrouwen dat de intentie van de minister gericht is op het bereiken van overeenstemming. In geval van garantieverlening zal de daadwerkelijke verstrekking van de garantie plaats vinden onder de opschortende voorwaarde dat de aanvragende financier daadwerkelijk tot verstrekking van de financiering waarvoor garantie is aangevraagd is overgegaan.
+De subsidie wordt verleend onder de opschortende voorwaarde dat binnen een in de beschikking bepaalde termijn de beoogde financieringsovereenkomst tot stand komt. Een positieve beschikking biedt de aanvrager daarom nog niet de zekerheid dat de beoogde transactie doorgang zal vinden: die zekerheid bestaat pas als de overeenkomst tot stand is gekomen. Wel biedt de beschikking grond voor het vertrouwen dat de intentie van de minister gericht is op het bereiken van overeenstemming. In geval van garantieverlening zal de daadwerkelijke verstrekking van de garantie plaats vinden onder de opschortende voorwaarde dat de (aanvragende) financier daadwerkelijk tot verstrekking van de financiering waarvoor garantie is aangevraagd is overgegaan.
 
 ### 2.4. Staatssteunkader
 
@@ -166,45 +166,55 @@ Het streven is om met lokale banken samen te werken en dan bij voorkeur met zoge
 
 De financier, de betreffende MKB onderneming en de aanvraag dienen te voldoen aan de in annex 2 opgesomde (relevante) voorwaarden en de overige (relevante) voorwaarden uit de Algemene groepsvrijstellingsverordening.
 
-### 3.7. Leningen of garanties onder de-minimis voorwaarden
+### 3.7. Garanties aan een MKB onderneming
 
-Indien een garantie of lening aan een MKB onderneming of financier niet onder marktconforme voorwaarden of onder de voorwaarden van de Algemene groepsvrijstellingsverordening kan worden verstrekt, kunnen de voorwaarden van de De-minimis verordening toegepast worden.
+De Minister kan op aanvraag van een MKB onderneming subsidie verstrekken in de vorm van een garantie ter dekking van eventuele verliezen op een verstrekte financiering (leningen en/of aandelenkapitaal) op grond van een tussen de MKB onderneming en financier gesloten of te sluiten financieringsovereenkomst, welke overeenkomst is aangegaan voor het doel van ontwikkelingsrelevante investeringen in een DGGF land. Met financier wordt in dit verband bedoeld: de financier, ingericht naar het recht van één van de lidstaten van de Europese Unie of de financier, zijnde een bank die gevestigd is in een DGGF-land.
 
-Voor een lening geldt dan dat voor de lening zekerheden zijn gesteld van ten minste 50% van de lening en het een lening betreft van ofwel maximaal € 1.000 000 (of maximaal € 500.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal vijf jaar ofwel maximaal € 500.000 (of maximaal € 250.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal tien jaar (artikel 4, derde lid, onderdeel b, van de De-minimisverordening).
+Door middel van deze mogelijkheid kan er vanuit DGGF borg gestaan worden voor een percentage voor de financiering die een financier verstrekt. de minister neemt een deel van de risico's over waardoor de financier eerder geneigd zal zijn financiering te verschaffen.
 
-Voor een garantie geldt dan dat de garantie niet meer dan 80% van de onderliggende lening bedraagt en ofwel het garantiebedrag maximaal€ 1.500.000 bedraagt (of maximaal € 750.000 bedraagt voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal vijf jaar heeft, ofwel het garantiebedrag maximaal € 750.000 bedraagt (of maximaal € 375.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal tien jaar heeft (artikel 4, zesde lid, onderdeel b, van de De-minimisverordening).
+De MKB onderneming, de financier en de aanvraag dienen te voldoen aan de in annex 2 opgesomde (relevante) voorwaarden en overige (relevante) voorwaarden uit de Algemene groepsvrijstellingsverordening.
 
 Er zal geen financiering worden verstrekt op basis van de de mimimis-verordeningen voor landbouw8Verordening (EU) Nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector, Pb. 2013, L 352/9. en visserij9Verordening (EU) Nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de visserij en aquacultuursector (Pb. 2014 L190/45)..
 
 ### Hoofdstuk 4. Hoofdstuk Criteria
 
-In het kader van deze beleidsregels vindt de beoordeling van aanvragen voor financiering en de besluitvorming over de inhoud van de daarop betrekking hebbende financieringsovereenkomst plaats aan de hand van een aantal criteria. Dit zijn onverminderd het bepaalde in het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) de hierna opgenomen criteria.
+Voor een lening geldt dan dat voor de lening zekerheden zijn gesteld van ten minste 50% van de lening en het een lening betreft van ofwel maximaal € 1.000 000 (of maximaal € 500.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal vijf jaar ofwel maximaal € 500.000 (of maximaal € 250.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) met een looptijd van maximaal tien jaar (artikel 4, derde lid, onderdeel b, van de De-minimisverordening).
 
 ### 4.1. Commerciële haalbaarheid
 
-Leningen en garantieverstrekkingen die ten laste komen van DGGF moeten commercieel haalbaar zijn, er moet dus sprake zijn van een goed uitgewerkte business case. De financiering wordt verstrekt als ondernemingsfinanciering en niet als projectfinanciering. Er zal in ieder geval aan de volgende voorwaarden moeten worden voldaan om in aanmerking te kunnen komen voor een DGGF lening en/of garantie:
+Er zal geen financiering worden verstrekt op basis van de de mimimis-verordeningen voor landbouw8Verordening (EU) Nr. 1408/2013 van de Commissie van 18 december 2013 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de landbouwsector, Pb. 2013, L 352/9. en visserij9Verordening (EU) Nr. 717/2014 van de Commissie van 27 juni 2014 inzake de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun in de visserij en aquacultuursector (Pb. 2014 L190/45)..
 
 Naast bovenstaande algemene criteria zullen in ieder geval de volgende instrument specifieke criteria gelden:
 
 ### 4.1.1. Lening aan een MKB onderneming
 
-### 4.1.2. Lening aan een financier, zijnde een bank die gevestigd is in een DGGF land
+### 4.1. Commerciële haalbaarheid
 
 ### 4.1.3. Lening aan een financier zijnde een investeringsfonds ingericht naar het recht van één van de lidstaten van de Europese Unie met het oog op het verwerven van participaties door deze financier (Fund-in Fund financiering)
 
 ### 4.1.4. Garantie aan een financier ingericht naar het recht van één van de lidstaten van de Europese Unie
 
-### 4.1.5. Garantie aan een financier, zijnde een bank die gevestigd is in een DGGF land
+### 4.1.1. Lening aan een MKB onderneming
 
-### 4.2. Ontwikkelingsrelevantie
+### 4.1.2. Lening aan een financier, zijnde een bank die gevestigd is in een DGGF land
 
 Ontwikkelingsrelevantie wordt gezien als de positieve bijdrage aan minimaal één van de volgende aspecten, waarbij geldt dat de score op ten minste een van deze aspecten positief moet zijn en de score op de overige aspecten ten minste neutraal:
 
-### 4.3. Additionaliteit
+### 4.1.4. Garantie aan een financier ingericht naar het recht van één van de lidstaten van de Europese Unie
 
 De te verstrekken financieringen zijn additioneel aan de markt en concurreren niet met bestaande financiers (geen ‘crowding-out’ effecten). Er kan dus alleen worden aangevraagd voor financiering als de commerciële markt niet bereid is (volledig) in de financiering te voorzien.
 
-### 4.4. Internationaal Maatschappelijk Verantwoord Ondernemen (IMVO)
+### 4.1.6. Garantie aan een MKB onderneming
+
+De MVO-beoordeling is een integraal onderdeel van de financieringsaanvraag. Aanvragers dienen te voldoen aan de OESO11OESO Richtlijnen voor Multinationale Ondernemingen, versie 2011. Zie voor Nederlandse versie: http://www.oesorichtlijnen.nl/oeso-richtlijnen/de-richtlijnen-t-kort richtlijnen voor multinationale ondernemingen. Deze richtlijnen maken duidelijk wat de Nederlandse overheid van het gedrag van ondernemingen verwacht. Ze bieden een handvat voor gedragscodes van ondernemingen om met verschillende aspecten van maatschappelijk verantwoord ondernemen om te gaan. De richtlijnen gaan onder andere in op milieukwesties, mensenrechten en arbeidsomstandigheden, maar bijvoorbeeld ook op corruptie, mededinging, ketenverantwoordelijkheid, belastingen en informatieverstrekking.
+
+Ontwikkelingsrelevantie wordt gezien als de positieve bijdrage aan minimaal één van de volgende aspecten, waarbij geldt dat de score op ten minste een van deze aspecten positief moet zijn en de score op de overige aspecten ten minste neutraal:
+
+Voor de MVO-beoordeling wordt de aangeleverde informatie beoordeeld aan de in het desbetreffende DGGF-land geldende wet- en regelgeving. De hierbij gehanteerde internationale richtlijnen zijn de IFC Performance Standards12http://www.ifc.org/performancestandards. 13In aanvulling hierop kunnen ook richtlijnen van multilaterale ontwikkelingsbanken, de Europese Unie of internationaal erkende sectorspecifieke standaarden worden gebruikt.
+
+De te verstrekken financieringen zijn additioneel aan de markt en concurreren niet met bestaande financiers (geen ‘crowding-out’ effecten). Er kan dus alleen worden aangevraagd voor financiering als de commerciële markt niet bereid is (volledig) in de financiering te voorzien.
+
+Aanvragers dienen een goede reputatie te hebben op het gebied van IMVO. Dit blijkt uit een vastgelegd IMVO-beleid voor de eigen onderneming. Het IMVO-beleid moet gebaseerd zijn op de uitgangspunten van OESO, en eventueel gecertificeerd volgens ISO 26.000. Het plan geeft aan hoe het IMVO-beleid in de praktijk wordt gebracht en wie daarvoor verantwoordelijk is.
 
 De MVO-beoordeling is een integraal onderdeel van de financieringsaanvraag. Aanvragers dienen te voldoen aan de OESO11OESO Richtlijnen voor Multinationale Ondernemingen, versie 2011. Zie voor Nederlandse versie: http://www.oesorichtlijnen.nl/oeso-richtlijnen/de-richtlijnen-t-kort richtlijnen voor multinationale ondernemingen. Deze richtlijnen maken duidelijk wat de Nederlandse overheid van het gedrag van ondernemingen verwacht. Ze bieden een handvat voor gedragscodes van ondernemingen om met verschillende aspecten van maatschappelijk verantwoord ondernemen om te gaan. De richtlijnen gaan onder andere in op milieukwesties, mensenrechten en arbeidsomstandigheden, maar bijvoorbeeld ook op corruptie, mededinging, ketenverantwoordelijkheid, belastingen en informatieverstrekking.
 
@@ -212,37 +222,37 @@ In het kader van de OESO richtlijnen wordt vereist dat bedrijven hun ketenverant
 
 Voor de MVO-beoordeling wordt de aangeleverde informatie beoordeeld aan de in het desbetreffende DGGF-land geldende wet- en regelgeving. De hierbij gehanteerde internationale richtlijnen zijn de IFC Performance Standards12http://www.ifc.org/performancestandards. 13In aanvulling hierop kunnen ook richtlijnen van multilaterale ontwikkelingsbanken, de Europese Unie of internationaal erkende sectorspecifieke standaarden worden gebruikt.
 
-Op basis van de risicoanalyse zal voor projecten met een hoog risico een plan moeten worden opgesteld om eventuele negatieve effecten te voorkomen dan wel te mitigeren. Afgesproken IMVO maatregelen zijn onderdeel van de financieringsovereenkomst. De aanvrager zal de in dit plan voorgestelde maatregelen uitvoeren en hierover communiceren.
+### Hoofdstuk 5. Procedure
 
-Aanvragers dienen een goede reputatie te hebben op het gebied van IMVO. Dit blijkt uit een vastgelegd IMVO-beleid voor de eigen onderneming. Het IMVO-beleid moet gebaseerd zijn op de uitgangspunten van OESO, en eventueel gecertificeerd volgens ISO 26.000. Het plan geeft aan hoe het IMVO-beleid in de praktijk wordt gebracht en wie daarvoor verantwoordelijk is.
+### 5.1. Uitvoerder
 
-De mate waarin de wederpartij van RVO zelf in staat moet zijn om de vereiste due diligence onderzoeken en de monitoring en rapportages met betrekking tot de voor de ontwikkelingsdoelstellingen en de IMVO relevante aspecten uit te voeren, hangt mede af van de betrokkenheid van meerdere partijen en de wijze waarop de financiering wordt vormgegeven: indien een lening of garantie wordt verstrekt aan een financier met het oog op de financiering van een derde partij, kunnen due diligence en monitoring worden uitgevoerd door de RVO indien deze als cofinancier optreedt van dezelfde onderneming. Indien RVO niet als cofinancier optreedt, zal de financier due diligence, monitoring en rapportages voor zijn rekening moeten nemen. Case by case zal beoordeeld worden welke partij hiermee zal worden belast.
+De mate waarin de wederpartij van RVO zelf in staat moet zijn om de vereiste due diligence onderzoeken en de monitoring en rapportages met betrekking tot de voor de ontwikkelingsdoelstellingen en de IMVO relevante aspecten uit te voeren, hangt mede af van de betrokkenheid van meerdere partijen en de wijze waarop de financiering wordt vormgegeven: indien een lening of garantie wordt verstrekt aan een financier met het oog op de financiering van een derde partij, kunnen due diligence en monitoring worden uitgevoerd door de RVO indien deze als cofinancier optreedt van dezelfde onderneming. Indien RVO niet als cofinancier optreedt, kan de financier due diligence, monitoring en rapportages voor zijn rekening moeten nemen. Case by case zal beoordeeld worden welke partij hiermee zal worden belast.
 
-Het DGGF zal geen activiteiten financieren die op de FMO uitsluitingslijst, te vinden op http://www.fmo.nl/exclusion-list, worden genoemd. Tevens zal van aanvragers worden geëist dat zij geen gebruik maken van kunstmatige constructies om hun winsten of te betalen bronheffingen te verlagen in DGGF landen. ‘Onder kunstmatige constructies’ vallen alle (juridisch legale) constructies, die enkel gericht zijn op het geheel of gedeeltelijk ontlopen van belastingen in DGGF landen dan wel het kunstmatig verlagen van de belastingaanslag in die landen.
+### 5.2. Aanvraag
 
 Aan de financiering zal de bijzondere meldingsplicht, bedoeld in de [Wet bestuurlijke boete meldingsplichten subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0032155), worden verbonden: De ontvanger van de financiering dient er zorg voor te dragen dat de projectpartners en de eerste wezenlijke toeleverancier geen gebruik maken van kinderarbeid en/of dwangarbeid, noch voor het project waar de aanvraag betrekking op heeft, noch voor andere activiteiten. De ontvanger dient eventuele feiten of omstandigheden die wijzen op kinder- of dwangarbeid bij deze bedrijven onverwijld te melden bij RVO.nl.
 
-### Hoofdstuk 5. Procedure
+In aanvulling op [artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=25) dient er bij toepassing van het bepaalde in 3.5 van deze beleidsregels een ingevulde en ondertekende de-minimisverklaring bijgevoegd te worden.
 
 ### 5.1. Uitvoerder
 
 De Minister heeft de uitvoering van deze beleidsregels opgedragen aan de Rijksdienst voor Ondernemend Nederland (RVO) en heeft RVO daartoe een passend mandaat en volmacht verstrekt. RVO is onderdeel van het ministerie van Economische Zaken en werkt bij de toepassing van deze beleidsregels onder verantwoordelijkheid van de minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-### 5.2. Aanvraag
-
-Afhankelijk van het gewenste instrument kan de MKB onderneming of de financier een aanvraag indienen bij RVO. RVO behandelt de aanvragen in volgorde van binnenkomst. RVO zal een aanvraagformulier beschikbaar stellen. De aanvraag kan in de Nederlandse of Engelse taal worden ingediend.
-
-In aanvulling op [artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=25) dient er bij toepassing van het bepaalde in 3.5 van deze beleidsregels een ingevulde en ondertekende de-minimisverklaring bijgevoegd te worden.
-
-### 5.3. Besluitvorming
-
-RVO bepaalt of de aanvraag zelfstandig of in combinatie met andere financiers verder wordt behandeld. RVO heeft het mandaat om op basis van eigen beoordeling zowel indirect als direct financiële overeenkomsten aan te gaan met een MKB onderneming.
-
 Uit oogpunt van een evenwichtige portefeuilleopbouw en risicobeheersing zal bij de toepassing van deze beleidsregels worden gestreefd naar een evenwichtige spreiding over aanvragers, type debiteuren, landen, sectoren en type financieringen.
 
 ### 5.4. Afwijzingsgronden
 
-Aanvragen worden allereerst getoetst aan ontvankelijkheidsvereisten als bedoeld in [afdeling 4.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.1)14http://wetten.overheid.nl/BWBR0005537/Hoofdstuk4/Titel41/Afdeling411. De aanvragen die op grond van deze ontvankelijkheidstoets in behandeling worden genomen, worden vervolgens beoordeeld in het licht van de criteria van deze beleidsregels. De minister wijst een aanvraag in ieder geval af indien niet wordt voldaan aan één of meer van deze criteria.
+In aanvulling op [artikel 25 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=25) dient er bij toepassing van het bepaalde in 3.5 van deze beleidsregels een ingevulde en ondertekende de-minimisverklaring bijgevoegd te worden.
+
+De minister kan een aanvraag voorts afwijzen indien honorering van de aanvraag tot een onevenwichtige spreiding als bedoeld in [artikel 8, derde lid, onder d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8) zou leiden.
+
+### 5.5. Transparantie
+
+Uit oogpunt van een evenwichtige portefeuilleopbouw en risicobeheersing zal bij de toepassing van deze beleidsregels worden gestreefd naar een evenwichtige spreiding over aanvragers, type debiteuren, landen, sectoren en type financieringen.
+
+De volgende informatie wordt op de website van RVO geplaatst:
+
+### 5.6. Klachtprocedure
 
 De minister kan een aanvraag voorts afwijzen indien honorering van de aanvraag tot een onevenwichtige spreiding als bedoeld in [artikel 8, derde lid, onder d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=8) zou leiden.
 
@@ -250,17 +260,17 @@ De minister kan een aanvraag voorts afwijzen indien honorering van de aanvraag t
 
 Vanuit het oogpunt van transparantie wordt 30 dagen voor afgifte van een financiering de niet-bedrijfsgevoelige informatie openbaar gemaakt. De datum van publicatie geldt als de eerste dag van de 30 dagen termijn.
 
-De volgende informatie wordt op de website van RVO geplaatst:
+### Annex 1. Landenlijst
 
-### 5.6. Klachtprocedure
+Landen met de aanduiding ‘F’ gelden voor de toepassing van deze beleidsregels als fragiele staat.
 
 Onverminderd de ingevolge de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) openstaande mogelijkheden van bezwaar en beroep beschikt RVO over een klachtenprocedure, die waarborgen biedt voor een behoorlijke, zorgvuldige, vlotte en onafhankelijke afhandeling van klachten over de wijze waarop RVO zich gedraagt in het kader van het beheer van het fonds.
 
-### 5.7. Monitoring en evaluatie
+Albanië
 
 Ten behoeve van het monitoren en evalueren van de werking van de beleidsregels en de bereikte resultaten en doelstellingen zal RVO de daartoe benodigde gegevens bij de betrokken aanvragers op kunnen vragen. Een daartoe strekkende verplichting zal aan de beschikking of de uitvoeringsovereenkomst verbonden kunnen worden.
 
-### Annex 1. Landenlijst
+Angola
 
 Landen met de aanduiding ‘F’ gelden voor de toepassing van deze beleidsregels als fragiele staat.
 
@@ -385,6 +395,62 @@ Thailand
 Tunesië
 
 Uganda
+
+### Annex 2. Artikel 21 van de Algemene groepsvrijstellingverordening
+
+Dit besluit wordt met de bijlage in de Staatscourant geplaatst.
+
+### 3.8. Leningen of garanties onder de-minimis voorwaarden
+
+Indien een garantie of lening aan een MKB onderneming of financier niet onder marktconforme voorwaarden of onder de voorwaarden van de Algemene groepsvrijstellingsverordening kan worden verstrekt, kunnen de voorwaarden van de De-minimis verordening toegepast worden.
+
+Voor een garantie geldt dan dat de garantie niet meer dan 80% van de onderliggende lening bedraagt en ofwel het garantiebedrag maximaal€ 1.500.000 bedraagt (of maximaal € 750.000 bedraagt voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal vijf jaar heeft, ofwel het garantiebedrag maximaal € 750.000 bedraagt (of maximaal € 375.000 voor ondernemingen die in het goederenvervoer over de weg actief zijn) en de garantie een looptijd van maximaal tien jaar heeft (artikel 4, zesde lid, onderdeel b, van de De-minimisverordening).
+
+### Hoofdstuk 4. Hoofdstuk Criteria
+
+In het kader van deze beleidsregels vindt de beoordeling van aanvragen voor financiering en de besluitvorming over de inhoud van de daarop betrekking hebbende financieringsovereenkomst plaats aan de hand van een aantal criteria. Dit zijn onverminderd het bepaalde in het [Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039) de hierna opgenomen criteria.
+
+Leningen en garantieverstrekkingen die ten laste komen van DGGF moeten commercieel haalbaar zijn, er moet dus sprake zijn van een goed uitgewerkte business case. De financiering wordt verstrekt als ondernemingsfinanciering en niet als projectfinanciering. Er zal in ieder geval aan de volgende voorwaarden moeten worden voldaan om in aanmerking te kunnen komen voor een DGGF lening en/of garantie:
+
+Naast bovenstaande algemene criteria zullen in ieder geval de volgende instrument specifieke criteria gelden:
+
+### 4.1.3. Lening aan een financier zijnde een investeringsfonds ingericht naar het recht van één van de lidstaten van de Europese Unie met het oog op het verwerven van participaties door deze financier (Fund-in Fund financiering)
+
+### 4.1.5. Garantie aan een financier, zijnde een bank die gevestigd is in een DGGF land
+
+### 4.2. Ontwikkelingsrelevantie
+
+### 4.3. Additionaliteit
+
+### 4.4. Internationaal Maatschappelijk Verantwoord Ondernemen (IMVO)
+
+Op basis van de risicoanalyse zal voor projecten met een hoog risico een plan moeten worden opgesteld om eventuele negatieve effecten te voorkomen dan wel te mitigeren. Afgesproken IMVO maatregelen zijn onderdeel van de financieringsovereenkomst. De aanvrager zal de in dit plan voorgestelde maatregelen uitvoeren en hierover communiceren.
+
+Aanvragers dienen een goede reputatie te hebben op het gebied van IMVO. Dit blijkt uit een vastgelegd IMVO-beleid voor de eigen onderneming. Het IMVO-beleid moet gebaseerd zijn op de uitgangspunten van OESO, en eventueel gecertificeerd volgens ISO 26.000. Het plan geeft aan hoe het IMVO-beleid in de praktijk wordt gebracht en wie daarvoor verantwoordelijk is.
+
+Het DGGF zal geen activiteiten financieren die op de FMO uitsluitingslijst, te vinden op http://www.fmo.nl/exclusion-list, worden genoemd. Tevens zal van aanvragers worden geëist dat zij geen gebruik maken van kunstmatige constructies om hun winsten of te betalen bronheffingen te verlagen in DGGF landen. ‘Onder kunstmatige constructies’ vallen alle (juridisch legale) constructies, die enkel gericht zijn op het geheel of gedeeltelijk ontlopen van belastingen in DGGF landen dan wel het kunstmatig verlagen van de belastingaanslag in die landen.
+
+### Hoofdstuk 5. Procedure
+
+### 5.2. Aanvraag
+
+Afhankelijk van het gewenste instrument kan de MKB onderneming of de financier een aanvraag indienen bij RVO. RVO behandelt de aanvragen in volgorde van binnenkomst. RVO zal een aanvraagformulier beschikbaar stellen. De aanvraag kan in de Nederlandse of Engelse taal worden ingediend.
+
+### 5.3. Besluitvorming
+
+RVO bepaalt of de aanvraag zelfstandig of in combinatie met andere financiers verder wordt behandeld. RVO heeft het mandaat om op basis van eigen beoordeling zowel indirect als direct financiële overeenkomsten aan te gaan met een MKB onderneming.
+
+### 5.4. Afwijzingsgronden
+
+Aanvragen worden allereerst getoetst aan ontvankelijkheidsvereisten als bedoeld in [afdeling 4.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.1)14http://wetten.overheid.nl/BWBR0005537/Hoofdstuk4/Titel41/Afdeling411. De aanvragen die op grond van deze ontvankelijkheidstoets in behandeling worden genomen, worden vervolgens beoordeeld in het licht van de criteria van deze beleidsregels. De minister wijst een aanvraag in ieder geval af indien niet wordt voldaan aan één of meer van deze criteria.
+
+De volgende informatie wordt op de website van RVO geplaatst:
+
+### 5.6. Klachtprocedure
+
+### 5.7. Monitoring en evaluatie
+
+### Annex 1. Landenlijst
 
 Vietnam
 
