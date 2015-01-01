@@ -4,7 +4,7 @@ identifier: "BWBR0022913"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-04-01"
-last_updated: "2014-04-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022913"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ Besluit:
 
 - j. **lasten:**
 
-- 1°. tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01);
+- 1°. tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2016-01-01&g=2015-01-01);
 
 - 2°. vergoedingen die door de SVB aan het instituut asbestslachtoffers worden verstrekt voor de advisering ten behoeve van deze regeling;
 
@@ -110,7 +110,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 - d. die niet in aanmerking kan komen voor een betaling op grond van [artikel 8 van de Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=8),
 
-- e. die geen tegemoetkoming heeft verkregen op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2a&z=2014-04-01&g=2014-04-01),
+- e. die geen tegemoetkoming heeft verkregen op grond van [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2a&z=2016-01-01&g=2015-01-01),
 
 - f. die geen betaling heeft verkregen op grond van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) of de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006),
 
@@ -122,17 +122,17 @@ Recht op een tegemoetkoming heeft een persoon:
 
 ##### Artikel 3
 
-1. Nabestaanden van de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), hebben recht op een tegemoetkoming, indien:
+1. Nabestaanden van de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), hebben recht op een tegemoetkoming, indien:
 
-- a. de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), is overleden nadat de aanvraag om tegemoetkoming door hem is ingediend, doch voordat op die aanvraag is beslist en [artikel 2, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), op hem van toepassing is, of
+- a. de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), is overleden nadat de aanvraag om tegemoetkoming door hem is ingediend, doch voordat op die aanvraag is beslist en [artikel 2, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), op hem van toepassing is, of
 
-- b. de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), is overleden in het tijdvak gelegen tussen 10 november 2006 tot 1 juni 2008 en [artikel 2, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), op hem van toepassing is.
+- b. de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), is overleden in het tijdvak gelegen tussen 10 november 2006 tot 1 juni 2008 en [artikel 2, onderdelen b tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), op hem van toepassing is.
 
-2. In het geval van het eerste lid, onderdeel a, of onderdeel b, voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), de aanvraag om tegemoetkoming heeft ingediend, geschiedt de beoordeling welke persoon of personen met toepassing van [artikel 1, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01), als nabestaande wordt aangemerkt, op basis van de omstandigheden op het tijdstip van overlijden van de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01).
+2. In het geval van het eerste lid, onderdeel a, of onderdeel b, voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), de aanvraag om tegemoetkoming heeft ingediend, geschiedt de beoordeling welke persoon of personen met toepassing van [artikel 1, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2016-01-01&g=2015-01-01), als nabestaande wordt aangemerkt, op basis van de omstandigheden op het tijdstip van overlijden van de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01).
 
-3. In het geval van het eerste lid, onderdeel b, voor zover de persoon, bedoeld in [artikel 2,](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) de aanvraag om tegemoetkoming niet heeft ingediend, geschiedt de beoordeling welke persoon of personen met toepassing van [artikel 1, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01), als nabestaande wordt aangemerkt, op basis van de omstandigheden op het tijdstip van de indiening van de aanvraag.
+3. In het geval van het eerste lid, onderdeel b, voor zover de persoon, bedoeld in [artikel 2,](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01) de aanvraag om tegemoetkoming niet heeft ingediend, geschiedt de beoordeling welke persoon of personen met toepassing van [artikel 1, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2016-01-01&g=2015-01-01), als nabestaande wordt aangemerkt, op basis van de omstandigheden op het tijdstip van de indiening van de aanvraag.
 
-4. Nabestaanden hebben alleen recht op een tegemoetkoming indien zij geen vergoeding van de immateriële schade in verband met het bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) bedoelde persoon geconstateerde maligne mesothelioom of de geconstateerde asbestose hebben ontvangen, dan wel in verband daarmee een bedrag hebben ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan.
+4. Nabestaanden hebben alleen recht op een tegemoetkoming indien zij geen vergoeding van de immateriële schade in verband met het bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01) bedoelde persoon geconstateerde maligne mesothelioom of de geconstateerde asbestose hebben ontvangen, dan wel in verband daarmee een bedrag hebben ontvangen dat lager is dan € 18.392,– ongeacht de vorm waarin die vergoeding is gedaan.
 
 5. In het geval van het eerste lid, onderdeel a, wordt de behandeling van de aanvraag ten behoeve van de nabestaanden voortgezet, tenzij deze schriftelijk te kennen geven daarop geen prijs te stellen.
 
@@ -142,7 +142,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 1. De tegemoetkoming strekt tot tegemoetkoming in immateriële schade en bedraagt € 18.392,– .
 
-2. Voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), of diens nabestaanden in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose reeds een vergoeding van de immateriële schade heeft of hebben ontvangen en die vergoeding lager is dan € 18.392,–, wordt de hoogte van de tegemoetkoming vastgesteld op het verschil tussen het ontvangen bedrag en € 18.392,– .
+2. Voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), of diens nabestaanden in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose reeds een vergoeding van de immateriële schade heeft of hebben ontvangen en die vergoeding lager is dan € 18.392,–, wordt de hoogte van de tegemoetkoming vastgesteld op het verschil tussen het ontvangen bedrag en € 18.392,– .
 
 3. Indien belasting ingevolge de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353)of premie voor de volksverzekeringen ingevolge de [Wet financiering sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) verschuldigd is, wordt voor de toepassing van het tweede lid de hoogte van de vergoeding in aanmerking genomen nadat daarop de verschuldigde belasting en premie in mindering zijn gebracht.
 
@@ -154,21 +154,21 @@ Recht op een tegemoetkoming heeft een persoon:
 
 2. Een aanvraag om een tegemoetkoming wordt bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier.
 
-3. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), verleent de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=74) om:
+3. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), verleent de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=74) om:
 
-- a. de immateriële schade langs gerechtelijke weg te verhalen tot het bedrag, bedoeld in[artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01), of tot een hoger bedrag wanneer dat is overeengekomen tussen de Minister en de mogelijk aansprakelijk te stellen partijen,
+- a. de immateriële schade langs gerechtelijke weg te verhalen tot het bedrag, bedoeld in[artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2016-01-01&g=2015-01-01), of tot een hoger bedrag wanneer dat is overeengekomen tussen de Minister en de mogelijk aansprakelijk te stellen partijen,
 
-- b. een mededeling als bedoeld in [artikel 106, tweede lid, tweede volzin, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=106), te doen, voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) deze mededeling niet zelf gedaan heeft, en
+- b. een mededeling als bedoeld in [artikel 106, tweede lid, tweede volzin, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=106), te doen, voor zover de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01) deze mededeling niet zelf gedaan heeft, en
 
-- c. de immateriële schadevergoeding namens de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), te innen.
+- c. de immateriële schadevergoeding namens de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), te innen.
 
-4. Indien de SVB geen gebruik maakt van de volmacht, bedoeld in het derde lid, en de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), na het indienen van de aanvraag immateriële schadevergoeding ontvangt, doet die persoon hiervan onverwijld mededeling aan de SVB en betaalt hij de tegemoetkoming geheel, of wanneer de schadevergoeding lager is dan de tegemoetkoming, de tegemoetkoming voor dat deel, terug aan de SVB.
+4. Indien de SVB geen gebruik maakt van de volmacht, bedoeld in het derde lid, en de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), na het indienen van de aanvraag immateriële schadevergoeding ontvangt, doet die persoon hiervan onverwijld mededeling aan de SVB en betaalt hij de tegemoetkoming geheel, of wanneer de schadevergoeding lager is dan de tegemoetkoming, de tegemoetkoming voor dat deel, terug aan de SVB.
 
 5. Indien de aanvraag om tegemoetkoming wordt gedaan door een nabestaande, zijn het tweede tot en met vierde lid van overeenkomstige toepassing.
 
 ##### Artikel 6
 
-1. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), verstrekt de SVB of de door haar aangewezen personen of instellingen bij de indiening van de aanvraag om tegemoetkoming in ieder geval:
+1. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), verstrekt de SVB of de door haar aangewezen personen of instellingen bij de indiening van de aanvraag om tegemoetkoming in ieder geval:
 
 - a. de inlichtingen en de bewijsstukken die noodzakelijk zijn ter vaststelling van maligne mesothelioom,
 
@@ -178,19 +178,19 @@ Recht op een tegemoetkoming heeft een persoon:
 
 - d. de inlichtingen en zo mogelijk de bewijsstukken inzake de blootstelling aan asbest en de periode waarin de blootstelling heeft plaatsgevonden.
 
-2. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), verstrekt de SVB of de door haar aangewezen personen of instellingen op verzoek of uit eigen beweging de overige inlichtingen en bewijsstukken die nodig zijn voor de uitvoering van deze regeling en verleent ook overigens de medewerking die redelijkerwijs nodig is.
+2. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), verstrekt de SVB of de door haar aangewezen personen of instellingen op verzoek of uit eigen beweging de overige inlichtingen en bewijsstukken die nodig zijn voor de uitvoering van deze regeling en verleent ook overigens de medewerking die redelijkerwijs nodig is.
 
-3. Indien de nabestaanden in het geval van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01), een aanvraag om tegemoetkoming indienen, zijn het eerste en het tweede lid op hen van overeenkomstige toepassing.
+3. Indien de nabestaanden in het geval van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01), een aanvraag om tegemoetkoming indienen, zijn het eerste en het tweede lid op hen van overeenkomstige toepassing.
 
-4. Indien de nabestaanden in het geval van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01), een recht op een tegemoetkoming hebben, is het tweede lid van overeenkomstige toepassing en verstrekken zij de SVB de inlichtingen en de bewijsstukken over de in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose door hen reeds ontvangen vergoedingen van de immateriële schade.
+4. Indien de nabestaanden in het geval van [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01), een recht op een tegemoetkoming hebben, is het tweede lid van overeenkomstige toepassing en verstrekken zij de SVB de inlichtingen en de bewijsstukken over de in verband met het geconstateerde maligne mesothelioom of de geconstateerde asbestose door hen reeds ontvangen vergoedingen van de immateriële schade.
 
-5. In het geval van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01), kunnen nabestaanden tot en met 30 november 2008 een aanvraag om tegemoetkoming indienen.
+5. In het geval van [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01), kunnen nabestaanden tot en met 30 november 2008 een aanvraag om tegemoetkoming indienen.
 
 #### § 4. Betaling en terugvordering
 
 ##### Artikel 7
 
-De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2a&z=2014-04-01&g=2014-04-01), of aan de nabestaanden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01).
+De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2a&z=2016-01-01&g=2015-01-01), of aan de nabestaanden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01).
 
 ##### Artikel 8
 
@@ -198,7 +198,7 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 - a. nadien alsnog een betaling heeft ontvangen waarmee rekening zou zijn gehouden bij de vaststelling van het recht op tegemoetkoming, of
 
-- b. de verplichtingen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2014-04-01&g=2014-04-01), en[artikel 6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=6&z=2014-04-01&g=2014-04-01), niet of niet behoorlijk heeft nagekomen en dit heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de tegemoetkoming.
+- b. de verplichtingen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2016-01-01&g=2015-01-01), en[artikel 6, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=6&z=2016-01-01&g=2015-01-01), niet of niet behoorlijk heeft nagekomen en dit heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van de tegemoetkoming.
 
 2. Indien daarvoor dringende redenen aanwezig zijn, kan de SVB besluiten geheel of gedeeltelijk van herziening of intrekking af te zien.
 
@@ -210,7 +210,7 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 1. Deze regeling wordt uitgevoerd door de SVB.
 
-2. De SVB kan [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), voor zover het de aaneengeslotenheid van de periode van ten minste 10 jaar betreft, buiten toepassing laten of daarvan afwijken indien naar het oordeel van de SVB het belang van deze regeling daartoe noodzaakt.
+2. De SVB kan [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), voor zover het de aaneengeslotenheid van de periode van ten minste 10 jaar betreft, buiten toepassing laten of daarvan afwijken indien naar het oordeel van de SVB het belang van deze regeling daartoe noodzaakt.
 
 ##### Artikel 10
 
@@ -254,13 +254,13 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 - e. het aantal bezwaar- en beroepsschriften,
 
-- f. het aantal gerechtelijke procedures, als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2014-04-01&g=2014-04-01),
+- f. het aantal gerechtelijke procedures, als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2016-01-01&g=2015-01-01),
 
-- g. het aantal gerechtelijke procedures waarbij een bedrag als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2014-04-01&g=2014-04-01), is verhaald,
+- g. het aantal gerechtelijke procedures waarbij een bedrag als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2016-01-01&g=2015-01-01), is verhaald,
 
-- h. de werkelijke lasten, verbijzonderd naar de kosten die daartoe in [artikel 1, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01), worden gerekend.
+- h. de werkelijke lasten, verbijzonderd naar de kosten die daartoe in [artikel 1, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2016-01-01&g=2015-01-01), worden gerekend.
 
-2. Bij de informatie, bedoeld in het eerste lid, verstrekt de SVB een raming van de lasten voor het komende kwartaal, verbijzonderd naar de kosten die daartoe in [artikel 1, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2014-04-01&g=2014-04-01), worden gerekend.
+2. Bij de informatie, bedoeld in het eerste lid, verstrekt de SVB een raming van de lasten voor het komende kwartaal, verbijzonderd naar de kosten die daartoe in [artikel 1, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2016-01-01&g=2015-01-01), worden gerekend.
 
 ##### Artikel 13
 
@@ -274,19 +274,19 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 5. Op de lasten van deze regeling komen in mindering:
 
-- a. de bedragen die op grond van [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2014-04-01&g=2014-04-01), zijn terugbetaald;
+- a. de bedragen die op grond van [artikel 5, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2016-01-01&g=2015-01-01), zijn terugbetaald;
 
-- b. de tegemoetkomingen die op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=4&artikel=8&z=2014-04-01&g=2014-04-01) zijn teruggevorderd en zijn terugbetaald.
+- b. de tegemoetkomingen die op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=4&artikel=8&z=2016-01-01&g=2015-01-01) zijn teruggevorderd en zijn terugbetaald.
 
 ##### Artikel 14
 
-In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2014-04-01&g=2014-04-01) kan in bijzondere gevallen een hogere of een lagere afdracht dan die bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2014-04-01&g=2014-04-01), worden verstrekt.
+In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2016-01-01&g=2015-01-01) kan in bijzondere gevallen een hogere of een lagere afdracht dan die bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2016-01-01&g=2015-01-01), worden verstrekt.
 
 ##### Artikel 15
 
 1. De SVB dient jaarlijks vóór 1 juli de afrekening in bij de Minister met betrekking tot de kasuitgaven in het kader van deze regeling over het afgelopen kalenderjaar. Op grond van deze afrekening vindt een betaling ten gunste of ten laste van de SVB plaats.
 
-2. De Minister stelt jaarlijks vóór 31 oktober, na ontvangst van de jaarrekening met een verklaring over de rechtmatigheid, de rijksbijdrage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2014-04-01&g=2014-04-01), definitief vast op de lasten van de SVB in het kader van deze regeling over het afgelopen kalenderjaar.
+2. De Minister stelt jaarlijks vóór 31 oktober, na ontvangst van de jaarrekening met een verklaring over de rechtmatigheid, de rijksbijdrage, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2016-01-01&g=2015-01-01), definitief vast op de lasten van de SVB in het kader van deze regeling over het afgelopen kalenderjaar.
 
 #### § 6. Wijzigingen regelgeving
 
@@ -312,7 +312,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 4a
 
-Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), die op grond van [artikel 19 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=19) in de Staatscourant voor een bepaald kalenderjaar bekend zijn gemaakt, geldt met ingang van dat kalenderjaar in de plaats van de bedragen, genoemd in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2014-04-01&g=2014-04-01).
+Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), die op grond van [artikel 19 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=19) in de Staatscourant voor een bepaald kalenderjaar bekend zijn gemaakt, geldt met ingang van dat kalenderjaar in de plaats van de bedragen, genoemd in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2016-01-01&g=2015-01-01).
 
 #### § 3. De aanvraag en informatieverplichtingen
 
@@ -328,7 +328,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-1. Recht op een tegemoetkoming, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), heeft een persoon:
+1. Recht op een tegemoetkoming, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), heeft een persoon:
 
 - a. die op het moment van indiening van de aanvraag in leven is,
 
@@ -336,9 +336,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. waarbij sprake is van een longfunctiebeperking als bedoeld in klasse 2, 3 of 4 van het protocol diagnostiek asbestose.
 
-2. In afwijking van het eerste lid heeft een persoon geen recht op een tegemoetkoming indien de persoon voor het geconstateerde maligne mesothelioom reeds een tegemoetkoming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01) heeft verkregen.
+2. In afwijking van het eerste lid heeft een persoon geen recht op een tegemoetkoming indien de persoon voor het geconstateerde maligne mesothelioom reeds een tegemoetkoming op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01) heeft verkregen.
 
-3. De [artikelen 2, onderdelen c en f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2014-04-01&g=2014-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2014-04-01&g=2014-04-01) en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing.
+3. De [artikelen 2, onderdelen c en f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2016-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2016-01-01&g=2015-01-01) en [5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=3&artikel=5&z=2016-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 #### § 3. De aanvraag en informatieverplichtingen
 
