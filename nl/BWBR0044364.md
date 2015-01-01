@@ -4,7 +4,7 @@ identifier: "BWBR0044364"
 country: "nl"
 rank: "wet"
 publication_date: "2021-06-03"
-last_updated: "2010-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0044364"
 soort: "wet"
@@ -41,8 +41,6 @@ entry_into_force: "2021-01-01"
 ##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
