@@ -4,7 +4,7 @@ identifier: "BWBR0034372"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-03"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034372"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 2. Bovenop de bezoldiging ontvangen de overige leden van de Kamer een toelage van € 2.850,– bruto per maand.
 
-3. [Artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2014-01-01), is van overeenkomstige toepassing.
+3. [Artikel 2, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
 ##### Artikel 4
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de tijd dat betrokkene direct voorafgaand aan zijn benoeming in de Kamer van Koophandel op basis van een arbeidsovereenkomst of aanstelling werkzaam is geweest bij de Vereniging Kamer van Koophandel Nederland, een Kamer van Koophandel of de Stichting Syntens.
 
-3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag, bedoeld in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2014-01-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=3&z=2014-01-01&g=2014-01-01).
+3. Als berekeningsbasis voor de hoogte van de uitkering, bedoeld in het eerste lid, geldt het salarisbedrag, bedoeld in [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), exclusief bijzondere toeslagen, maar inclusief de toelage, bedoeld in de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=2&z=2014-01-01&g=2015-01-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034372&artikel=3&z=2014-01-01&g=2015-01-01).
 
 4. Betrokkene heeft naast het bepaalde in het eerste lid tevens recht op een ontslagvergoeding van € 75.000,–.
 
