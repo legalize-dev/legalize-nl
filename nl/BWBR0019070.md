@@ -4,7 +4,7 @@ identifier: "BWBR0019070"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-04-01"
-last_updated: "2014-09-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019070"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Wijzigt het Besluit premiedifferentiatie WAO.
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=5&artikel=5.1&z=2014-09-01&g=2014-09-01) werkt terug tot en met 1 september 2005.
+2. [Artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01) werkt terug tot en met 1 september 2005.
 
 ##### Artikel 5.4. Citeertitel
 
@@ -120,7 +120,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 1. Het UWV stelt een sectorpremiepercentage vast ter dekking van de werkloosheidslasten. Het sectorpremiepercentage bedraagt ten hoogste het lastenplafond.
 
-2. Het UWV stelt voor de dekking van de overige ziekengeld- en WGA-lasten, bedoeld in [artikel 2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1a&z=2014-09-01&g=2014-09-01), en de WGA-staartlasten, bedoeld in [artikel 2.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1b&z=2014-09-01&g=2014-09-01), een opslagpercentage vast, waarmee het sectorpremiepercentage met betrekking tot dat sectorfonds wordt verhoogd.
+2. Het UWV stelt voor de dekking van de overige ziekengeld- en WGA-lasten, bedoeld in [artikel 2.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1a&z=2015-01-01&g=2015-01-01), en de WGA-staartlasten, bedoeld in [artikel 2.1b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1b&z=2015-01-01&g=2015-01-01), een opslagpercentage vast, waarmee het sectorpremiepercentage met betrekking tot dat sectorfonds wordt verhoogd.
 
 3. Indien in een sectorfonds op 31 december van het jaar waarin het sectorpremiepercentage wordt vastgesteld naar verwachting van het UWV een positief of negatief dekkingssaldo aanwezig zal zijn, stelt het UWV, in afwijking van het eerste lid, in dat kalenderjaar en de daaropvolgende kalenderjaren een zodanig sectorpremiepercentage vast dat het overschot dan wel tekort binnen drie kalenderjaren na die datum is ingelopen onderscheidenlijk aangezuiverd.
 
@@ -138,7 +138,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2.3. Vaststelling verschillende sectorpremiepercentages
 
-1. In afwijking van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2014-09-01&g=2014-09-01) stelt het UWV op bij ministeriële regeling te bepalen wijze sectorpremiepercentages, die voor verschillende categorieën van werknemers kunnen verschillen, vast voor de sectorfondsen van:
+1. In afwijking van [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-01-01&g=2015-01-01) stelt het UWV op bij ministeriële regeling te bepalen wijze sectorpremiepercentages, die voor verschillende categorieën van werknemers kunnen verschillen, vast voor de sectorfondsen van:
 
 - a. het agrarisch bedrijf;
 
@@ -184,7 +184,7 @@ Het gewogen gemiddelde van beide percentages bedraagt ten hoogste het lastenplaf
 
 3. Ingeval voor een sectorfonds gedurende een kalenderjaar meerdere malen een premiepercentage wordt vastgesteld, worden bij de berekening van het gemiddelde premiepercentage, bedoeld in het eerste lid, de desbetreffende premiepercentages gewogen naar rato van het deel van het kalenderjaar waarin deze premiepercentages golden.
 
-4. Bij de vaststelling van het gemiddelde premiepercentage voor het kalenderjaar 2014 wordt bij de bepaling van het gewogen gemiddelde van de sectorpremiepercentages geen rekening gehouden met de ziekengeldlasten en de WGA- lasten flexibele dienstbetrekkingen in verband met ziekengeld en uitkeringen als bedoeld in [artikel 2.5, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-09-01&g=2014-09-01), die zijn toegekend vanaf 1 januari 2012.
+4. Bij de vaststelling van het gemiddelde premiepercentage voor het kalenderjaar 2014 wordt bij de bepaling van het gewogen gemiddelde van de sectorpremiepercentages geen rekening gehouden met de ziekengeldlasten en de WGA- lasten flexibele dienstbetrekkingen in verband met ziekengeld en uitkeringen als bedoeld in [artikel 2.5, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2015-01-01&g=2015-01-01), die zijn toegekend vanaf 1 januari 2012.
 
 #### § 2. Uniforme premie [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
@@ -262,9 +262,9 @@ waarbij:
 
 ##### Artikel 2.9. Rekenpercentages en vervangende premie
 
-1. De rekenpercentages, bedoeld in [artikel 38, tweede lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), voor de verschillende lasten zijn gelijk aan de gemiddelde percentages, bedoeld in [artikel 2.8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01), vermeerderd of verminderd met:
+1. De rekenpercentages, bedoeld in [artikel 38, tweede lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), voor de verschillende lasten zijn gelijk aan de gemiddelde percentages, bedoeld in [artikel 2.8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01), vermeerderd of verminderd met:
 
-- a. een percentage ter compensatie van het naar verwachting over het kalenderjaar waarvoor de premie wordt vastgesteld optredende verschil tussen enerzijds de premie-inkomsten die worden verkregen indien de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), wordt gebaseerd op de desbetreffende gemiddelde percentages, bedoeld in [artikel 2.8, eerste, tweede onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01), en anderzijds het totaalbedrag van de verschillende lasten dat naar verwachting in het kalenderjaar waarvoor de premie wordt vastgesteld op grond van [artikel 117b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b) ten laste van de Werkhervattingskas komt, verminderd met de gelden die op grond van [artikel 117a, onderdelen b en c, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117a) naar verwachting ten gunste van de Werkhervattingskas komen;
+- a. een percentage ter compensatie van het naar verwachting over het kalenderjaar waarvoor de premie wordt vastgesteld optredende verschil tussen enerzijds de premie-inkomsten die worden verkregen indien de gedifferentieerde premie, bedoeld in [artikel 38 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), wordt gebaseerd op de desbetreffende gemiddelde percentages, bedoeld in [artikel 2.8, eerste, tweede onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01), en anderzijds het totaalbedrag van de verschillende lasten dat naar verwachting in het kalenderjaar waarvoor de premie wordt vastgesteld op grond van [artikel 117b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b) ten laste van de Werkhervattingskas komt, verminderd met de gelden die op grond van [artikel 117a, onderdelen b en c, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117a) naar verwachting ten gunste van de Werkhervattingskas komen;
 
 - b. een percentage, voor zover dit nodig of mogelijk is, rekening houdend met de verplichting, bedoeld in [artikel 113a van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=113a), betreffende het vormen en in stand houden van een voldoende reserve.
 
@@ -274,7 +274,7 @@ waarbij:
 
 ##### Artikel 2.10. Sectorale premies
 
-1. De sectorale premiecomponenten worden vastgesteld met toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01) waarbij voor de WGA-lasten vaste dienstbetrekkingen, WGA-lasten flexibele dienstbetrekkingen en ZW-lasten wordt uitgegaan van de desbetreffende uitkeringen, die worden toegekend aan werknemers van werkgevers in die sector, bedoeld in [artikel 95 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=95), en van het totaalbedrag van het premieplichtige loon van alle werkgevers, die tot die sector behoren, waarbij voor de bepaling van de premiecomponent WGA-lasten vaste dienstbetrekkingen het premieplichtige loon van de werkgevers, die eigenrisicodrager zijn als bedoeld in [artikel 40, eerste lid,onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) en voor de bepaling van de premiecomponent ZW-lasten het premieplichtig loon van de werkgevers, die eigenrisicodrager zijn als bedoeld in artikel 40, eerste lid, onderdeel a, buiten aanmerking wordt gelaten.
+1. De sectorale premiecomponenten worden vastgesteld met toepassing van [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01) waarbij voor de WGA-lasten vaste dienstbetrekkingen, WGA-lasten flexibele dienstbetrekkingen en ZW-lasten wordt uitgegaan van de desbetreffende uitkeringen, die worden toegekend aan werknemers van werkgevers in die sector, bedoeld in [artikel 95 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=95), en van het totaalbedrag van het premieplichtige loon van alle werkgevers, die tot die sector behoren, waarbij voor de bepaling van de premiecomponent WGA-lasten vaste dienstbetrekkingen het premieplichtige loon van de werkgevers, die eigenrisicodrager zijn als bedoeld in [artikel 40, eerste lid,onderdeel b, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) en voor de bepaling van de premiecomponent ZW-lasten het premieplichtig loon van de werkgevers, die eigenrisicodrager zijn als bedoeld in artikel 40, eerste lid, onderdeel a, buiten aanmerking wordt gelaten.
 
 2. Het UWV stelt het sectorale premiepercentage met toepassing van het eerste lid vast.
 
@@ -300,7 +300,7 @@ waarbij:
 
 6. Indien de werknemer bij het intreden van de gedeeltelijke arbeidsgeschiktheid, bedoeld in [artikel 5 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=5), bij meer dan één werkgever in dienstbetrekking stond, wordt voor de toepassing van het tweede lid de WGA-uitkering naar rato van de loonsom toegerekend aan die werkgevers. De WGA-uitkering wordt niet toegerekend aan de werkgever bij wie de werknemer met behoud van hetzelfde loon arbeid is blijven verrichten.
 
-7. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2014-09-01&g=2014-09-01), verminderd met een vierde van het gemiddelde percentage, bedoeld in artikel 2.8, eerste lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid.
+7. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2015-01-01&g=2015-01-01), verminderd met een vierde van het gemiddelde percentage, bedoeld in artikel 2.8, eerste lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid.
 
 ##### Artikel 2.12. Opslag of korting WGA-lasten flexibele dienstbetrekkingen
 
@@ -310,7 +310,7 @@ waarbij:
 
 3. Het gemiddelde werkgeversrisicopercentage wordt verkregen door het totaalbedrag aan uitkeringen van de aan werkgevers toe te rekenen WGA-lasten flexibele dienstbetrekkingen, die in het tweede kalenderjaar vóór het kalenderjaar waarvoor de premie wordt vastgesteld zijn betaald, te vermenigvuldigen met honderd en de uitkomst van deze berekening te delen door het totale premieplichtige loon in het tweede kalenderjaar vóór het kalenderjaar waarvoor de premie wordt vastgesteld.
 
-4. Voor de toepassing van het tweede en derde lid worden onder WGA-lasten flexibele dienstbetrekkingen mede begrepen de lasten van de WGA-uitkeringen als bedoeld in [artikel 117b, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b), die vanaf 1 januari 2012 zijn toegekend aan werknemers als bedoeld in [artikel 2.5, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-09-01&g=2014-09-01), die op grond van [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=104), en [108, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=108), zoals die artikelen luidden op 31 december 2013, ten laste van de sectorfondsen en, voor zover die zijn toegekend aan personen als bedoeld in [artikel 24 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), ten laste van het Uitvoeringsfonds voor de overheid zijn gekomen.
+4. Voor de toepassing van het tweede en derde lid worden onder WGA-lasten flexibele dienstbetrekkingen mede begrepen de lasten van de WGA-uitkeringen als bedoeld in [artikel 117b, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=117b), die vanaf 1 januari 2012 zijn toegekend aan werknemers als bedoeld in [artikel 2.5, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2015-01-01&g=2015-01-01), die op grond van [artikel 104, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=104), en [108, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=108), zoals die artikelen luidden op 31 december 2013, ten laste van de sectorfondsen en, voor zover die zijn toegekend aan personen als bedoeld in [artikel 24 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), ten laste van het Uitvoeringsfonds voor de overheid zijn gekomen.
 
 5. Indien een WGA-uitkering wordt toegekend direct aansluitend op een arbeidsongeschiktheidsuitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) wordt de duur van die uitkering in mindering gebracht op de periode dat de WGA-uitkering wordt toegerekend als bedoeld in het tweede lid.
 
@@ -324,7 +324,7 @@ waarbij:
 
 7. Indien de werknemer bij het intreden van de arbeidsongeschiktheid op grond waarvan hij ziekengeld ontving, bij meer dan één werkgever in dienstbetrekking stond, wordt voor de toepassing van het tweede lid de WGA-uitkering naar rato van de loonsom toegerekend aan die werkgevers.
 
-8. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2014-09-01&g=2014-09-01), verminderd met een vierde van het gemiddelde premiepercentage, bedoeld in artikel 2.8, tweede lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid. Indien de berekening op grond van de vorige zin leidt tot een uitkomst groter dan twee wordt deze breuk vastgesteld op twee.
+8. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2015-01-01&g=2015-01-01), verminderd met een vierde van het gemiddelde premiepercentage, bedoeld in artikel 2.8, tweede lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid. Indien de berekening op grond van de vorige zin leidt tot een uitkomst groter dan twee wordt deze breuk vastgesteld op twee.
 
 ##### Artikel 2.13. Opslag of korting ZW-lasten
 
@@ -342,11 +342,11 @@ waarbij:
 
 - b. aan de werknemer, bedoeld in onderdeel a, van wie het recht op een uitkering op grond van [artikelen 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19a), [19b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19b) of [19c van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=19c) is geëindigd dan wel niet is ingegaan, die aanspraak heeft op heropening dan wel recht heeft op ziekengeld.
 
-6. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2014-09-01&g=2014-09-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2014-09-01&g=2014-09-01), verminderd met een vierde van de gemiddelde premie, bedoeld in artikel 2.8, derde lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid. Indien de berekening op grond van de vorige zin leidt tot een uitkomst groter dan twee wordt deze breuk vastgesteld op twee.
+6. De op grond van dit artikel berekende opslagen of kortingen worden vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het rekenpercentage, berekend op grond van [artikel 2.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.8&z=2015-01-01&g=2015-01-01), en [2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2015-01-01&g=2015-01-01), verminderd met een vierde van de gemiddelde premie, bedoeld in artikel 2.8, derde lid, en de noemer door het gemiddelde werkgeversrisicopercentage, bedoeld in het derde lid. Indien de berekening op grond van de vorige zin leidt tot een uitkomst groter dan twee wordt deze breuk vastgesteld op twee.
 
 ##### Artikel 2.14. Premieplichtig loon uitkeringsinstellingen
 
-Bij de bepaling van het gemiddelde premieplichtig loon, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01), en [artikel 2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01), blijft buiten aanmerking:
+Bij de bepaling van het gemiddelde premieplichtig loon, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01), en [artikel 2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01), blijft buiten aanmerking:
 
 - 1°. loon uit vroegere dienstbetrekking indien de werkgever als inhoudingsplichtige in meer dan bijkomstige mate loon uit vroegere dienstbetrekking verstrekt;
 
@@ -356,9 +356,9 @@ Bij de bepaling van het gemiddelde premieplichtig loon, bedoeld in [artikel 2.11
 
 1. In geval van overgang van een onderneming in de zin van [artikel 662 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662), alsmede in geval van een dergelijke overgang bij faillissement:
 
-- a. worden bij de toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01) de WGA-uitkeringen, bedoeld in artikel 2.11, tweede lid en derde lid, en artikel 2.12, tweede en derde lid, en de ZW-uitkeringen, bedoeld in artikel 2.13, tweede en derde lid, die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
+- a. worden bij de toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01) de WGA-uitkeringen, bedoeld in artikel 2.11, tweede lid en derde lid, en artikel 2.12, tweede en derde lid, en de ZW-uitkeringen, bedoeld in artikel 2.13, tweede en derde lid, die zijn of worden toegekend aan de werknemer die op de eerste dag van de ongeschiktheid tot het verrichten van zijn arbeid in dienstbetrekking stond tot de werkgever die de onderneming heeft overgedragen, toegerekend aan de werkgever die de onderneming verkrijgt; en
 
-- b. wordt bij de toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig kalenderjaar telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat kalenderjaar, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
+- b. wordt bij de toepassing van [artikel 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), [2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01) en [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01) het ten laste van de werkgever die de onderneming heeft overgedragen, gekomen premieplichtig loon in enig kalenderjaar telkens opgeteld bij het premieplichtig loon van de werkgever die de onderneming verkrijgt in dat kalenderjaar, voordat het gemiddelde premieplichtig loon van laatstgenoemde werkgever wordt berekend.
 
 2. Indien slechts een deel van de onderneming overgaat, vindt het eerste lid toepassing naar rato van het deel van het totaalbedrag van premieplichtig loon in het overgegane deel van de onderneming van het totaalbedrag van premieplichtig loon in de gehele onderneming in het jaar voorafgaande aan dat van overgang.
 
@@ -368,7 +368,7 @@ Bij de bepaling van het gemiddelde premieplichtig loon, bedoeld in [artikel 2.11
 
 ##### Artikel 2.16. Niet gedurende gehele berekeningstijdvak werkgever
 
-Indien een werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2014-09-01&g=2014-09-01) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01) en [2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01), niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, het ten laste van die werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, waarin de werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in artikel 2.11, derde lid, 2.12, derde lid, en 2.13, derde lid, en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over de kalenderjaren in het tijdvak, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, waarin de werkgever de hoedanigheid van werkgever had.
+Indien een werkgever, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.15](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2015-01-01&g=2015-01-01) in een of meer van de kalenderjaren van het tijdvak, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01) en [2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01), niet de hoedanigheid van werkgever had, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, het ten laste van die werkgever komende gemiddelde premieplichtige loon per jaar berekend over het aantal kalenderjaren in het tijdvak, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, waarin de werkgever de hoedanigheid van werkgever had, waarna het verkregen percentage wordt vermenigvuldigd met een breuk, waarvan de teller wordt gevormd door het gemiddelde werkgeversrisicopercentage, bedoeld in artikel 2.11, derde lid, 2.12, derde lid, en 2.13, derde lid, en de noemer door het gemiddelde werkgeversrisicopercentage, berekend over de kalenderjaren in het tijdvak, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en 2.13, tweede lid, waarin de werkgever de hoedanigheid van werkgever had.
 
 ### Hoofdstuk 3. De financiering van de vrijwillige algemene ouderdomsverzekering en de vrijwillige nabestaandenverzekering
 
@@ -436,7 +436,7 @@ P x I – H, waarbij:
 
 - a. zij bij de vaststelling van die premie rekening dient te houden met de in dat kalenderjaar verschuldigde premie op grond van de verplichte verzekering ingevolge de [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) of de [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795); of
 
-- b. nog onduidelijk is of [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=3&artikel=3.3&z=2014-09-01&g=2014-09-01), van toepassing is.
+- b. nog onduidelijk is of [artikel 3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=3&artikel=3.3&z=2015-01-01&g=2015-01-01), van toepassing is.
 
 2. Zodra dat naar het oordeel van de SVB mogelijk is, wordt de over bedoeld kalenderjaar verschuldigde premie definitief vastgesteld.
 
@@ -470,81 +470,91 @@ Indien een verzekerde als bedoeld in [artikel 38 van de AOW](https://wetten.over
 
 In dit hoofdstuk wordt verstaan onder:
 
-- a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
+- a. **Onze Minister:** de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. AFBZ: het Algemeen Fonds Bijzondere Ziektekosten, genoemd in [artikel 89 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
+- b. **Flz:** het Fonds langdurige zorg, genoemd in [artikel 89 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=89);
 
-- c. AWBZ: de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- c. **Wlz:** de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- d. kosten van verstrekkingen en vergoedingen: kosten van verstrekkingen en vergoedingen ter zake van verleende zorg als bedoeld in [artikel 6 AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), niet zijnde forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
+- d. **kosten van zorg:** kosten van verleende zorg en overige diensten als bedoeld in [paragraaf 3.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&paragraaf=1), met uitzondering van de kosten van forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
 
-- e. beheerskosten: de beheerskosten van de in de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) geregelde verzekering, waaronder begrepen de kosten van controle in het kader van die verzekering en waaronder niet begrepen de beheerskosten voor forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
+- e. **beheerskosten:** de beheerskosten van de in de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde verzekering, waaronder begrepen de kosten van controle in het kader van die verzekering en waaronder niet begrepen de beheerskosten voor forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=2);
 
-- f. vervallen;
+- f. **Wlz-uitvoerder:** een Wlz-uitvoerder als bedoeld in [artikel 1.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1);
 
-- g. zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1);
+- g. **onverantwoorde uitgaven:** uitgaven waarvan de Nederlandse zorgautoriteit heeft vastgesteld dat ze niet noodzakelijk zijn voor de uitvoering van de verzekering ingevolge de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917);
 
-- h. verbindingskantoor: een verbindingskantoor als bedoeld in het [Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585);
+- h. **beheerskostenbudget:** de ten laste van het Flz voor de Wlz-uitvoerders beschikbare middelen ter dekking van de voor de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) te maken beheerskosten;
 
-- i. onverantwoorde uitgaven: uitgaven waarvan de Nederlandse zorgautoriteit heeft vastgesteld dat ze niet noodzakelijk zijn voor de uitvoering van de verzekering ingevolge de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- i. **CAK:** het CAK, genoemd in [artikel 6.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.1.1);
 
-- j. beheerskostenbudget: de ten laste van het AFBZ voor de zorgverzekeraars en de verbindingskantoren beschikbare middelen ter dekking van de voor de uitvoering van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) te maken beheerskosten die zij in hun hoedanigheid maken;
+- j. **zorgaanbieder:** een instelling als bedoeld in [artikel 1.1.1 van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=1.1.1) dan wel een solistisch werkende zorgverlener als bedoeld in dat artikel.
 
-- k. zorgautoriteit: de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078);
+##### Artikel 4.2. Vergoeding kosten van zorg die niet door CAK worden uitbetaald
 
-- l. Zorginstituut: het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
+1. Het Zorginstituut vergoedt uit het Flz jaarlijks aan de Wlz-uitvoerders de kosten van de zorg die niet door het CAK aan de zorgaanbieders worden uitbetaald.
 
-##### Artikel 4.2. Vergoeding verstrekkingen op basis van werkelijke kosten
+2. De vergoeding, bedoeld in het eerste lid, geschiedt naar de werkelijke kosten van de desbetreffende zorg.
 
-Het Zorginstituut vergoedt uit het AFBZ jaarlijks aan de zorgverzekeraars de kosten van verstrekkingen en vergoedingen naar werkelijke kosten. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.
+3. Bij de vergoeding, bedoeld in het eerste lid, blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.
 
-##### Artikel 4.3. Macrobudget beheerskosten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+##### Artikel 4.3. Macrobudget beheerskosten [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
-Onze Minister geeft het Zorginstituut jaarlijks een aanwijzing terzake van het voor alle zorgverzekeraars en verbindingskantoren tezamen voor dat kalenderjaar ten laste van het AFBZ komende beheerskostenbudget.
+1. Onze Minister geeft het Zorginstituut jaarlijks een aanwijzing terzake van het voor alle Wlz-uitvoerders tezamen voor dat kalenderjaar ten laste van het Flz komende beheerskostenbudget.
 
-##### Artikel 4.4. Uitkering zorgverzekeraar
+2. Bij de aanwijzing, bedoeld in het eerste lid, maakt Onze Minister een onderscheid tussen de beheerskosten die op grond van [artikel 4.2.4, tweede lid, Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) aangewezen Wlz-uitvoerders ontvangen voor de in dat artikellid genoemde taken en de beheerskosten die zij ontvangen voor hun overige bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) geregelde taken.
 
-1. Het Zorginstituut stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2014-09-01&g=2014-09-01) beschikbaar gestelde middelen, voor iedere zorgverzekeraar afzonderlijk ten laste van het AFBZ het beheerskostenbudget vast ter dekking van de beheerskosten die zij maken anders dan in de hoedanigheid van verbindingskantoor.
+##### Artikel 4.4. Beheerskostenbudget Wlz-uitvoerder
 
-2. De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van de door het Zorginstituut vast te stellen beleidsregels.
+1. Het Zorginstituut verdeelt de middelen, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2015-01-01&g=2015-01-01), jaarlijks over de Wlz-uitvoerders, leidende tot een beheerskostenbudget per Wlz-uitvoerder.
 
-3. De beleidsregels, bedoeld in het tweede lid, behoeven de goedkeuring van Onze Minister.
+2. Bij de verdeling van het beheerskostenbudget maakt het Zorginstituut voor een Wlz-uitvoerder die taken als bedoeld in [artikel 4.2.4, tweede lid, Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) uitvoert, inzichtelijk welk deel bestemd is voor het uitvoeren van die taken en welk deel voor het uitvoeren van zijn overige taken.
 
-4. In geval van onthouding van goedkeuring aan een beleidsregel stelt het Zorginstituut, met inachtneming van door Onze Minister te geven instructies, een nieuwe beleidsregel vast.
+3. De verdeling van het beheerskostenbudget geschiedt aan de hand van door het Zorginstituut vast te stellen beleidsregels.
 
-5. Indien Onze Minister aan de beleidsregel, bedoeld in het vierde lid, eveneens goedkeuring onthoudt, stelt hij terzake zelf de beleidsregel vast.
+4. De beleidsregels, bedoeld in het derde lid, behoeven de goedkeuring van Onze Minister.
 
-6. Het Zorginstituut keert jaarlijks uit het AFBZ aan een zorgverzekeraar het voor die zorgverzekeraar op grond van het eerste lid vastgestelde beheerskostenbudget uit.
+5. In geval van onthouding van goedkeuring aan een beleidsregel stelt het Zorginstituut, met inachtneming van door Onze Minister te geven instructies, een nieuwe beleidsregel vast.
 
-7. Indien een zorgverzekeraar op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het zesde lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.
+6. Indien Onze Minister aan de beleidsregel, bedoeld in het vijfde lid, eveneens goedkeuring onthoudt, stelt hij terzake zelf de beleidsregel vast.
 
-##### Artikel 4.5. Uitkering verbindingskantoren
+7. Het Zorginstituut keert jaarlijks uit het Flz aan een Wlz-uitvoerder het voor die Wlz-uitvoerder op grond van het eerste lid vastgestelde beheerskostenbudget uit.
 
-1. Het Zorginstituut stelt jaarlijks, in het kader van de verdeling van de voor het kalenderjaar krachtens [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.3&z=2014-09-01&g=2014-09-01) beschikbaar gestelde middelen, afzonderlijk voor ieder verbindingskantoor het beheerskostenbudget vast.
+8. Na het kalenderjaar waarvoor het beheerskostenbudget is verleend, stelt het Zorginstituut het beheerskostenbudget vast.
 
-2. De vaststelling van het beheerskostenbudget, bedoeld in het eerste lid, geschiedt aan de hand van door het Zorginstituut vast te stellen beleidsregels. Ten aanzien van die beleidsregels is [artikel 4.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.4&z=2014-09-01&g=2014-09-01), van overeenkomstige toepassing.
+9. Indien een Wlz-uitvoerder op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het zevende lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.
 
-3. Het Zorginstituut keert jaarlijks uit het AFBZ aan de verbindingskantoren het voor hen ingevolge het eerste lid vastgestelde beheerskostenbudget uit.
+##### Artikel 4.5. Beheerskosten bij uitbesteding van werkzaamheden
 
-4. Indien een verbindingskantoor op een naar het oordeel van de zorgautoriteit onverantwoorde wijze op zijn beheerskosten bespaart, wordt de uitkering, bedoeld in het eerste lid, voor het desbetreffende kalenderjaar door het Zorginstituut verlaagd met het bedrag van die besparing.
+1. Indien een Wlz-uitvoerder zijn overige taken, bedoeld in [artikel 4.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.4&z=2015-01-01&g=2015-01-01), geheel of gedeeltelijk uitbesteedt, betaalt hij degene waaraan hij deze taken uitbesteedt per verzekerde een bedrag aan beheerskosten dat is berekend op basis van door het Zorginstituut vast te stellen beleidsregels.
 
-5. Een verbindingskantoor houdt een reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aan.
+2. [Artikel 4.4, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.4&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-6. Het saldo van baten en lasten over enig boekjaar van een verbindingskantoor voor de beheerskosten die het in of in verband met die hoedanigheid maakt, wordt toegevoegd aan, onderscheidenlijk ten laste gebracht van de reserve, bedoeld in het vijfde lid. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.
+##### Artikel 4.6. Reserve uitvoering Wlz
 
-7. Bij het eindigen van de aanwijzing, bedoeld in [artikel 40 van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=40), zonder dat aansluitend een nieuwe aanwijzing plaatsvindt, stort het verbindingskantoor een bedrag ter hoogte van de reserve, bedoeld in het vijfde lid, binnen vier weken in het AFBZ.
+1. Een Wlz-uitvoerder houdt een reserve uitvoering [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) aan.
 
-##### Artikel 4.6. Reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+2. Het saldo van baten en lasten over enig boekjaar van een Wlz-uitvoerder van de beheerskosten die hij in of in verband met die hoedanigheid maakt, wordt toegevoegd aan, onderscheidenlijk ten laste gebracht van de reserve, bedoeld in het eerste lid. Daarbij blijven onverantwoorde uitgaven buiten beschouwing, tenzij de zorgautoriteit anders besluit.
 
-De reserve uitvoering [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), bedoeld in [artikel 4.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=4&artikel=4.5&z=2014-09-01&g=2014-09-01), ultimo enig jaar, bedraagt voor verbindingskantoren maximaal 20% van het beheerskostenbudget voor dat jaar. Indien het Zorginstituut vaststelt dat de reserve het gestelde maximum te boven gaat, stort het verbindingskantoor het door het Zorginstituut vastgestelde bedrag van de overschrijding binnen vier weken in het AFBZ.
+3. Het Zorginstituut bepaalt welk percentage rente de Wlz-uitvoerder over de reserve geacht wordt te maken.
+
+4. De reserve uitvoering Wlz bedraagt ultimo enig jaar maximaal 20% van het beheerskostenbudget voor dat jaar.
+
+5. Indien het Zorginstituut vaststelt dat de reserve het gestelde maximum te boven gaat, stort de Wlz-uitvoerder het door het Zorginstituut vastgestelde bedrag waarmee het maximum overschreden wordt binnen vier weken in het Flz.
+
+6. Binnen vier weken nadat hij de uitvoering van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) heeft beëindigd, stort de Wlz-uitvoerder een bedrag ter hoogte van de reserve, bedoeld in het eerste lid, in het Flz.
+
+7. Binnen twee jaar na het eindigen of wijzigen van een aanwijzing als bedoeld in [artikel 4.2.4, tweede lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4), bepaalt het Zorginstituut of de Wlz-uitvoerder een deel van zijn reserve in het Flz dient te storten en zo ja, hoe groot dat deel is. De Wlz-uitvoerder stort een op grond van de vorige zin bepaald deel binnen vier weken in het Flz.
 
 ##### Artikel 4.7. Toezicht op opgaven
 
-De zorgautoriteit is bevoegd opgaven en gegevens van een zorgverzekeraar of verbindingskantoor, die van invloed zijn op de omvang van de ten laste van het AFBZ beschikbare middelen en op de hoogte van de verstrekkingen en vergoedingen ingevolge dit hoofdstuk, op hun juistheid te beoordelen en te verbeteren.
+De zorgautoriteit is bevoegd opgaven en gegevens van een Wlz-uitvoerder die van invloed zijn op de omvang van de ten laste van het Flz beschikbare middelen en op de hoogte van de kosten van zorg, op hun juistheid te beoordelen en te verbeteren.
 
 ##### Artikel 4.8. Betaalbaarstelling
 
-Het Zorginstituut bepaalt met inachtneming van het [Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585) de wijze van betaalbaarstelling van de uitkeringen op grond van dit hoofdstuk.
+1. Het Zorginstituut bepaalt de wijze van betaalbaarstelling van de uitkeringen op grond van dit hoofdstuk en bepaalt welk percentage rente door de Wlz-uitvoerder dan wel het Zorginstituut verschuldigd is over verschillen tussen uitgekeerde bedragen en bedragen waarop de Wlz-uitvoerder na afloop van het kalenderjaar daadwerkelijk recht blijkt te hebben.
+
+2. Het Zorginstituut is bevoegd een verschil als bedoeld in het tweede lid, te verrekenen met een over een later kalenderjaar te verlenen beheerskostenbudget.
 
 ##### Artikel 4.9. Overgangsbepaling
 
@@ -626,7 +636,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Uitvoeringskosten [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
 
-### Hoofdstuk 5. Slotbepalingen
+### Hoofdstuk 4. Beheerskosten en enige zorgkosten uit het Fonds langdurige zorg
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -636,7 +646,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.2a. Vaststelling sectorpremiepercentage sector uitzendbedrijven
 
-1. Voor de vaststelling van het sectorpremiepercentage op grond van [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2014-09-01&g=2014-09-01), voor het sectorfonds waarin werkgevers op grond van [artikel 95 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=95) zijn ingedeeld, die zich in het kader van de uitoefening van hun bedrijf of beroep bezighouden met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die werknemers werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) is opgenomen, worden de werkloosheidslasten verminderd met de bijdrage, bedoeld in [artikel 103, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=103).
+1. Voor de vaststelling van het sectorpremiepercentage op grond van [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-01-01&g=2015-01-01), voor het sectorfonds waarin werkgevers op grond van [artikel 95 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=95) zijn ingedeeld, die zich in het kader van de uitoefening van hun bedrijf of beroep bezighouden met het ter beschikking stellen van arbeidskrachten aan een derde om krachtens een door deze aan de werkgever verstrekte opdracht arbeid te verrichten onder leiding en toezicht van de derde, waarbij die werknemers werkzaam zijn op basis van een uitzendovereenkomst als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), waarin tevens een beding als bedoeld in [artikel 691, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691) is opgenomen, worden de werkloosheidslasten verminderd met de bijdrage, bedoeld in [artikel 103, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=103).
 
 2. Voor de toepassing van dit artikel kunnen bij ministeriële regeling nadere regels worden gesteld.
 
@@ -668,13 +678,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2.1a. Fondsbelasting overige ziekengeld- en WGA lasten
 
-De overige ziekengeldlasten en WGA-lasten komen ten laste van een sectorfonds, met dien verstande dat de overige ziekengeldlasten en WGA-lasten die betrekking hebben op uitkeringen als bedoeld in [artikel 2.1, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2014-09-01&g=2014-09-01), toegekend aan de personen, bedoeld in [artikel 24 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), ten laste komen van het Uitvoeringsfonds voor de overheid.
+De overige ziekengeldlasten en WGA-lasten komen ten laste van een sectorfonds, met dien verstande dat de overige ziekengeldlasten en WGA-lasten die betrekking hebben op uitkeringen als bedoeld in [artikel 2.1, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=1&artikel=2.1&z=2015-01-01&g=2015-01-01), toegekend aan de personen, bedoeld in [artikel 24 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), ten laste komen van het Uitvoeringsfonds voor de overheid.
 
 ##### Artikel 2.1b. WGA-staartlasten
 
 1. De WGA-staartlasten komen ten laste van een sectorfonds met dien verstande dat de WGA-staartlasten die betrekking hebben op WGA-uitkeringen die worden toegekend aan de personen, bedoeld in [artikel 24 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=24), ten laste komen van het Uitvoeringsfonds voor de overheid.
 
-2. De eigenrisicodrager draagt het risico van de betaling van de WGA- uitkeringen aan werknemers, bedoeld in artikel 2.1, onderdeel h, en de overlijdensuitkeringen, bedoeld in [artikel 82, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82) , op grond van [artikel 84, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) niet, indien deze eigenrisicodrager een kleine werkgever als bedoeld in [artikel 2.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-09-01&g=2014-09-01), is of gedeeltelijk indien hij een middelgrote werkgever als bedoeld in artikel 2.5, eerste lid, onderdeel c, is, voor zover deze WGA-uitkeringen niet zijn toegekend of de wachttijd niet is ingegaan vóór de dag van ingang van een eerdere periode van eigenrisicodragen.
+2. De eigenrisicodrager draagt het risico van de betaling van de WGA- uitkeringen aan werknemers, bedoeld in artikel 2.1, onderdeel h, en de overlijdensuitkeringen, bedoeld in [artikel 82, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=82) , op grond van [artikel 84, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=84) niet, indien deze eigenrisicodrager een kleine werkgever als bedoeld in [artikel 2.5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2015-01-01&g=2015-01-01), is of gedeeltelijk indien hij een middelgrote werkgever als bedoeld in artikel 2.5, eerste lid, onderdeel c, is, voor zover deze WGA-uitkeringen niet zijn toegekend of de wachttijd niet is ingegaan vóór de dag van ingang van een eerdere periode van eigenrisicodragen.
 
 3. Indien de eigenrisicodrager een middelgrote werkgever is, wordt voor de toepassing van dit artikel het deel van de WGA- staartlasten in aanmerking genomen, dat bestaat uit deze lasten maal
 
@@ -682,9 +692,9 @@ waarbij:
 
 - –. loonsomwgr staat voor: de verzekerde loonsom van de middelgrote werkgever twee kalenderjaren voorafgaand aan de dag van aanvang van het eigenrisicodragen;
 
-- –. loonsomlaag staat voor: 10 maal het gemiddelde premieplichtige loon per werknemer, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-09-01&g=2014-09-01), twee kalenderjaren voorafgaand aan de dag van aanvang van het eigenrisicodragen;
+- –. loonsomlaag staat voor: 10 maal het gemiddelde premieplichtige loon per werknemer, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2015-01-01&g=2015-01-01), twee kalenderjaren voorafgaand aan de dag van aanvang van het eigenrisicodragen;
 
-- –. loonsomhoog staat voor: 100 maal het gemiddelde premieplichtige loon per werknemer, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2014-09-01&g=2014-09-01), twee kalenderjaren voorafgaand aan de dag van aanvang van het eigenrisicodragen.
+- –. loonsomhoog staat voor: 100 maal het gemiddelde premieplichtige loon per werknemer, bedoeld in [artikel 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.5&z=2015-01-01&g=2015-01-01), twee kalenderjaren voorafgaand aan de dag van aanvang van het eigenrisicodragen.
 
 4. De vermenigvuldigingsfactor, bedoeld in het derde lid, wordt naar beneden afgerond op twee cijfers achter de komma.
 
@@ -708,23 +718,23 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 2.17. Premiepercentage startende werkgever
 
-1. Voor een werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2014-09-01&g=2014-09-01), in het kalenderjaar waarvoor de premie wordt vastgesteld, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het kalenderjaar waarvoor de premie wordt vastgesteld de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2014-09-01&g=2014-09-01), gelijk aan de som van de rekenpercentages voor de WGA-lasten vaste dienstbetrekkingen, de WGA-lasten flexibele dienstbetrekkingen en de ZW-lasten, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2014-09-01&g=2014-09-01).
+1. Voor een werkgever die, zonder dat er sprake is van een overgang van een onderneming als bedoeld in [artikel 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.15&z=2015-01-01&g=2015-01-01), in het kalenderjaar waarvoor de premie wordt vastgesteld, of in het eerste of tweede kalenderjaar onmiddellijk voorafgaande aan het kalenderjaar waarvoor de premie wordt vastgesteld de hoedanigheid van werkgever heeft verkregen, is het percentage van de gedifferentieerde premie, bedoeld in [artikel 2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2015-01-01&g=2015-01-01), gelijk aan de som van de rekenpercentages voor de WGA-lasten vaste dienstbetrekkingen, de WGA-lasten flexibele dienstbetrekkingen en de ZW-lasten, bedoeld in [artikel 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.9&z=2015-01-01&g=2015-01-01).
 
 2. Van de startende werkgever, bedoeld in [artikel 40, negende lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) wordt in afwachting van de beslissing op aanvraag van het eigenrisicodragen, bedoeld in artikel 40, eerste lid, onderdeel a of onderdeel b, van de Wfsv met ingang van het tijdstip waarop hij aanvangt werkgever te zijn, het rekenpercentage voor de ZW-lasten respectievelijk het rekenpercentage voor de WGA-lasten vaste dienstbetrekkingen op nul gesteld.
 
 ##### Artikel 2.18. Opslag en korting bij te veel betaalde uitkering en regres
 
-1. Indien blijkt dat een WGA-uitkering als bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), of [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01), of een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en [2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01), in het kalenderjaar waarin het besluit tot toekenning van de WGA-uitkering of de uitkering op grond van de Ziektewet wordt ingetrokken of herzien, de aan de werkgever toe te rekenen WGA-lasten vaste dienstbetrekkingen, bedoeld in artikel 2.11, tweede lid, de aan de werkgever toe te rekenen WGA-lasten flexibele dienstbetrekkingen, bedoeld in artikel 2.12, tweede lid, onderscheidenlijk de aan de werkgever toe te rekenen uitkeringen op grond van de Ziektewet, bedoeld in artikel 2.13, tweede lid, verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde WGA-uitkering of uitkering op grond van de Ziektewet.
+1. Indien blijkt dat een WGA-uitkering als bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), of [2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01), of een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) geheel of ten dele ten onrechte is toegekend, wordt bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.11, tweede lid, 2.12, tweede lid, en [2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01), in het kalenderjaar waarin het besluit tot toekenning van de WGA-uitkering of de uitkering op grond van de Ziektewet wordt ingetrokken of herzien, de aan de werkgever toe te rekenen WGA-lasten vaste dienstbetrekkingen, bedoeld in artikel 2.11, tweede lid, de aan de werkgever toe te rekenen WGA-lasten flexibele dienstbetrekkingen, bedoeld in artikel 2.12, tweede lid, onderscheidenlijk de aan de werkgever toe te rekenen uitkeringen op grond van de Ziektewet, bedoeld in artikel 2.13, tweede lid, verminderd met een bedrag dat gelijk is aan het bedrag van de te veel betaalde WGA-uitkering of uitkering op grond van de Ziektewet.
 
-2. Indien een werkgever recht heeft op een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, worden, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2014-09-01&g=2014-09-01), met ingang van het kalenderjaar waarin de schadevergoeding is vastgesteld, gedurende een tijdvak van tien jaren, de aan de werkgever toe te rekenen WGA-lasten vaste dienstbetrekkingen, bedoeld in artikel 2.11, tweede lid, verminderd met een compensatiebedrag.
+2. Indien een werkgever recht heeft op een schadevergoeding als bedoeld in [artikel 107a, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=107a) dan wel een schadevergoeding op grond van een wettelijke regeling die daarmee naar aard en strekking overeenkomt, worden, op verzoek van de werkgever, bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in [artikel 2.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.11&z=2015-01-01&g=2015-01-01), met ingang van het kalenderjaar waarin de schadevergoeding is vastgesteld, gedurende een tijdvak van tien jaren, de aan de werkgever toe te rekenen WGA-lasten vaste dienstbetrekkingen, bedoeld in artikel 2.11, tweede lid, verminderd met een compensatiebedrag.
 
 3. Het compensatiebedrag, bedoeld in het tweede lid, wordt vastgesteld door het bedrag van de WGA-uitkering aan de betrokken werknemer jaarlijks gedurende tien jaar te vermenigvuldigen met het getal dat is verkregen door het bedrag van de schadevergoeding, bedoeld in het tweede lid, te delen door het loon over een tijdvak van 104 weken. Het getal, bedoeld in de eerste zin, bedraagt niet meer dan 1.
 
-4. Indien het UWV op grond van [artikel 52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a) verhaal heeft, worden de aan de werkgever toe te rekenen WGA- lasten flexibele dienstbetrekking en de ZW-lasten voor de toepassing van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2014-09-01&g=2014-09-01) en [artikel 2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2014-09-01&g=2014-09-01), bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.12, tweede en 2.13, tweede lid, verminderd met een bedrag gerelateerd aan het bedrag van de schadevergoeding, bedoeld in artikel 52a, eerste lid, van de Ziektewet.
+4. Indien het UWV op grond van [artikel 52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a) verhaal heeft, worden de aan de werkgever toe te rekenen WGA- lasten flexibele dienstbetrekking en de ZW-lasten voor de toepassing van [artikel 2.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.12&z=2015-01-01&g=2015-01-01) en [artikel 2.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.13&z=2015-01-01&g=2015-01-01), bij de berekening van het individuele werkgeversrisicopercentage, bedoeld in artikel 2.12, tweede en 2.13, tweede lid, verminderd met een bedrag gerelateerd aan het bedrag van de schadevergoeding, bedoeld in artikel 52a, eerste lid, van de Ziektewet.
 
 5. Het bedrag van de vermindering, bedoeld in het vierde lid, wordt bepaald door het bedrag van de WGA-uitkering en de uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) aan de betrokken werknemer te vermenigvuldigen met het getal dat is verkregen door het bedrag van het verhaal op grond van [artikel 52a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52a) te delen door het aan betrokken werknemer op grond van de Ziektewet uitgekeerde ziekengeld. Het getal, bedoeld in de eerste zin, bedraagt niet meer dan 1.
 
-6. Bij de toepassing van dit artikel is een minimumpremie als bedoeld in [artikel 2.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.16&z=2014-09-01&g=2014-09-01), niet van toepassing.
+6. Bij de toepassing van dit artikel is een minimumpremie als bedoeld in [artikel 2.6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.16&z=2015-01-01&g=2015-01-01), niet van toepassing.
 
 #### § 3. Premiekorting
 
@@ -732,8 +742,26 @@ Dit onderdeel is nog niet inwerking getreden
 
 [Artikel 47, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=47) is van overeenkomstige toepassing bij een dienstbetrekking met een werknemer die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking gedurende tenminste twee jaar recht heeft op een nabestaandenuitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en gedurende die twee jaar geen inkomen uit arbeid als bedoeld in de [artikelen 2:2, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=2:2), en [2:6, eerste lid, onderdeel b, onder 1° en 2°, van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=2:6) heeft genoten.
 
-#### § 4. Eigenrisicodragen [Ziektewet](onbekend)
+#### § 3. Premiekorting
 
 ##### Artikel 2.20. Overgangsrecht vervallen garantieverklaring eigenrisicodragen [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Vervallen
+
+##### Artikel 2.17a. Premiepercentage terugkerende werkgever
+
+1. Indien voor een grote of een middelgrote werkgever het eigenrisicodragen, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), eindigt of wordt beëindigd, wordt in afwijking van [artikel 2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2015-01-01&g=2015-01-01), onderscheidenlijk 2.6, vijfde lid, in verbinding met artikel 2.6, vierde lid, het individuele percentage van de premiecomponent van de ZW-lasten in het kalenderjaar van het einde van het eigenrisicodragen vastgesteld op de helft van het sectorale premiepercentage, bedoeld in [artikel 2.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.10&z=2015-01-01&g=2015-01-01).
+
+2. Indien het individuele percentage van de premiecomponent van de ZW-lasten, bedoeld in [artikel 2.6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.6&z=2015-01-01&g=2015-01-01), of in artikel 2.6, vijfde lid, in verbinding met artikel 2.6, vierde lid, hoger is dan de uitkomst van het eerste lid, wordt in het kalenderjaar van het einde van het eigenrisicodragen de gedifferentieerde premie voor de ZW-lasten, in afwijking van het eerste lid, vastgesteld op grond van artikel 2.6, vierde lid, of artikel 2.6, vijfde lid.
+
+3. De gedifferentieerde premie voor de ZW-lasten in het kalenderjaar volgend op het kalenderjaar van het einde van het eigenrisicodragen wordt voor de werkgever, bedoeld in het eerste lid, vastgesteld met overeenkomstige toepassing van het eerste en tweede lid.
+
+##### Artikel 2.17b. Premiepercentage terugkerende werkgever vóór 1 januari 2015
+
+1. Indien voor een grote of middelgrote werkgever het eigenrisicodragen, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), op verzoek van de werkgever wordt beëindigd met ingang van 1 juli 2014 of later en dit verzoek is ingediend na 20 maart 2014, of na laatstgenoemde datum het eigenrisicodragen van rechtswege is geëindigd of door de inspecteur is beëindigd zonder aanvraag van de werkgever, is [artikel 2.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&hoofdstuk=2&paragraaf=2&artikel=2.17a&z=2015-01-01&g=2015-01-01) van toepassing.
+
+2. Dit artikel vervalt met ingang van 1 januari 2016.
+
+#### § 4. Eigenrisicodragen [Ziektewet](onbekend)
+
+### Hoofdstuk 3. De financiering van de vrijwillige algemene ouderdomsverzekering en de vrijwillige nabestaandenverzekering
