@@ -4,7 +4,7 @@ identifier: "BWBR0005062"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2006-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005062"
 soort: "wet"
@@ -42,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-1. Onze Minister van Verkeer en Waterstaat kan aan een gemeente dan wel aan een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, of een provincie uit 's Rijks kas een bijdrage verlenen terzake van maatregelen ter bestrijding van de verkeersonveiligheid.
+1. Onze Minister van Verkeer en Waterstaat kan aan een gemeente dan wel aan een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) of een provincie uit 's Rijks kas een bijdrage verlenen terzake van maatregelen ter bestrijding van de verkeersonveiligheid.
 
 2. Bij algemene maatregel van bestuur worden regels gesteld omtrent de verlening van bijdragen als bedoeld in het eerste lid.
 
@@ -60,17 +60,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De regels bedoeld in het tweede lid van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2006-01-01&g=2006-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2006-01-01&g=2006-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=3&z=2006-01-01&g=2006-01-01) hebben betrekking op de tijdsduur van de geldigheid van de betrokken bijdrageregeling, de voorwaarden waaraan moet worden voldaan om voor een bijdrage in aanmerking te komen, de wijze van vaststelling van de uitkeringsbedragen per rechthebbende alsmede zonodig het totaalbedrag van de jaarlijks te verlenen bijdragen, de betaling van de bijdrage en de controle op de besteding daarvan.
+1. De regels bedoeld in het tweede lid van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2015-01-01&g=2015-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2015-01-01&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=3&z=2015-01-01&g=2015-01-01) hebben betrekking op de tijdsduur van de geldigheid van de betrokken bijdrageregeling, de voorwaarden waaraan moet worden voldaan om voor een bijdrage in aanmerking te komen, de wijze van vaststelling van de uitkeringsbedragen per rechthebbende alsmede zonodig het totaalbedrag van de jaarlijks te verlenen bijdragen, de betaling van de bijdrage en de controle op de besteding daarvan.
 
 2. Voor zover het bijdragen in de kosten van het beheer en onderhoud van hoofdvaarwegen betreft kunnen in de regels tevens voorschriften worden gegeven ter bescherming van de hoofdvaarwegfunctie.
 
-3. Bij een algemene maatregel van bestuur als bedoeld in het [tweede lid van de artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2006-01-01&g=2006-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2006-01-01&g=2006-01-01) kunnen onderwerpen worden aangewezen ten aanzien waarvan krachtens die maatregel regels kunnen worden gesteld.
+3. Bij een algemene maatregel van bestuur als bedoeld in het [tweede lid van de artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2015-01-01&g=2015-01-01) kunnen onderwerpen worden aangewezen ten aanzien waarvan krachtens die maatregel regels kunnen worden gesteld.
 
 ##### Artikel 5
 
-1. Een algemene maatregel van bestuur als bedoeld in het [tweede lid van de artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2006-01-01&g=2006-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2006-01-01&g=2006-01-01) treedt niet eerder in werking dan een maand na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
+1. Een algemene maatregel van bestuur als bedoeld in het [tweede lid van de artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=2&z=2015-01-01&g=2015-01-01) treedt niet eerder in werking dan een maand na de datum van uitgifte van het **Staatsblad** waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
-2. Een ministerieel besluit als bedoeld in het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=3&z=2006-01-01&g=2006-01-01) treedt niet eerder in werking dan een maand na de datum van uitgifte van de **Staatscourant** waarin zij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
+2. Een ministerieel besluit als bedoeld in het [tweede lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005062&artikel=3&z=2015-01-01&g=2015-01-01) treedt niet eerder in werking dan een maand na de datum van uitgifte van de **Staatscourant** waarin zij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.
 
 ##### Artikel 6
 
