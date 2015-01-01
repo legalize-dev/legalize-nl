@@ -4,7 +4,7 @@ identifier: "BWBR0030188"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-06"
-last_updated: "2013-02-26"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030188"
 soort: "ministeriele-regeling"
@@ -94,9 +94,9 @@ In de begroting en de meerjarenraming van de Raad worden de volgende onderdelen 
 
 ##### Artikel 4
 
-1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
+1. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel a en onderdeel b, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2015-01-01), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten tot een door de minister jaarlijks te bepalen maximum.
 
-2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2013-02-26), bestaat uit de werkelijk gemaakte kosten.
+2. De bijdrage in de kosten, bedoeld in [artikel 3, onderdeel b, onder 1 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=3&z=2013-02-26&g=2015-01-01), bestaat uit de werkelijk gemaakte kosten.
 
 ##### Artikel 5
 
@@ -146,7 +146,7 @@ De Sociale verzekeringsbank zendt de minister jaarlijks vóór 1 oktober een beg
 
 ##### Artikel 8
 
-In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), worden de volgende onderdelen onderscheiden:
+In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2015-01-01), worden de volgende onderdelen onderscheiden:
 
 - a. de reguliere kosten;
 
@@ -168,9 +168,9 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 ##### Artikel 9
 
-1. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit een door de minister jaarlijks vastgesteld bedrag.
+1. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2015-01-01), bestaat voor de onderscheiden kosten uit een door de minister jaarlijks vastgesteld bedrag.
 
-2. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 1, 2, 3, 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten.
+2. De bijdrage in de kosten, genoemd in [artikel 8, onder b, onderdelen 1, 2, 3, 5 en 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2015-01-01), bestaat voor de onderscheiden kosten uit de werkelijk gemaakte kosten.
 
 ##### Artikel 10
 
@@ -182,7 +182,7 @@ In de begroting en de meerjarenraming van de Sociale verzekeringsbank genoemd in
 
 ##### Artikel 11
 
-De egalisatiereserve per 31 december van enig jaar mag niet meer bedragen dan 10% van de laatste vaststelling van de bijdragen bedoeld in [artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8e&z=2013-02-26&g=2013-02-26).
+De egalisatiereserve per 31 december van enig jaar mag niet meer bedragen dan 10% van de laatste vaststelling van de bijdragen bedoeld in [artikel 8e, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8e&z=2013-02-26&g=2015-01-01).
 
 ##### Artikel 12
 
@@ -224,7 +224,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-1. Op basis van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), stelt de minister ten behoeve van de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), een normbegroting vast. De minister kan kosten aanwijzen die niet onder de normbegroting vallen.
+1. Op basis van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2015-01-01), stelt de minister ten behoeve van de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2015-01-01), een normbegroting vast. De minister kan kosten aanwijzen die niet onder de normbegroting vallen.
 
 2. Op basis van de normbegroting stelt de minister per product een tarief vast.
 
@@ -240,7 +240,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8c
 
-1. De bijdrage in de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2013-02-26), bestaat uit de som van de per product volgens de navolgende formule berekende bedragen:
+1. De bijdrage in de kosten, bedoeld in [artikel 8, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8&z=2013-02-26&g=2015-01-01), bestaat uit de som van de per product volgens de navolgende formule berekende bedragen:
 
 Pb x T.
 
@@ -250,29 +250,29 @@ In deze formule is:
 
 - T:. het tarief.
 
-2. In afwijking van het eerste lid kan de minister, na overleg met de Sociale verzekeringsbank, voor een naar aard te specificeren aantal eenheden van de begrote productie van een product, welke zich gezien de daaraan verbonden werklast en kosten onderscheiden van de gemiddelde werklast en kosten op basis waarvan het tarief, genoemd in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-02-26), is vastgesteld, de bijdrage in de kosten op een andere wijze vaststellen. In de formule, genoemd in het eerste lid, wordt daartoe Pb verlaagd met het aantal eenheden waarvoor de bijdrage op een andere wijze wordt vastgesteld.
+2. In afwijking van het eerste lid kan de minister, na overleg met de Sociale verzekeringsbank, voor een naar aard te specificeren aantal eenheden van de begrote productie van een product, welke zich gezien de daaraan verbonden werklast en kosten onderscheiden van de gemiddelde werklast en kosten op basis waarvan het tarief, genoemd in [artikel 8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2015-01-01), is vastgesteld, de bijdrage in de kosten op een andere wijze vaststellen. In de formule, genoemd in het eerste lid, wordt daartoe Pb verlaagd met het aantal eenheden waarvoor de bijdrage op een andere wijze wordt vastgesteld.
 
 ##### Artikel 8d
 
-De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), kan in de loop van enig jaar worden aangepast indien de ontwikkeling van de lonen of prijzen daartoe aanleiding geven.
+De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01), kan in de loop van enig jaar worden aangepast indien de ontwikkeling van de lonen of prijzen daartoe aanleiding geven.
 
 ##### Artikel 8e
 
-1. De minister beslist na de indiening van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2013-02-26), over de goedkeuring van deze begroting en doet de Sociale verzekeringsbank voor 1 december een vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26) toekomen.
+1. De minister beslist na de indiening van de begroting, genoemd in [artikel 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=7&z=2013-02-26&g=2015-01-01), over de goedkeuring van deze begroting en doet de Sociale verzekeringsbank voor 1 december een vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01) toekomen.
 
-2. De vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), is voorlopig.
+2. De vaststelling van de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01), is voorlopig.
 
-3. De vaststelling van de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), is definitief.
+3. De vaststelling van de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01), is definitief.
 
-4. Met betrekking tot de bijdrage bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), wordt in ieder geval medegedeeld de begrote productie en, voor zover van toepassing, het aantal eenheden waarop het bepaalde in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), van toepassing is en de wijze waarop de bijdrage zal worden vastgesteld.
+4. Met betrekking tot de bijdrage bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01), wordt in ieder geval medegedeeld de begrote productie en, voor zover van toepassing, het aantal eenheden waarop het bepaalde in [artikel 8c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01), van toepassing is en de wijze waarop de bijdrage zal worden vastgesteld.
 
-5. Met betrekking tot de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), wordt in ieder geval het door de minister vastgestelde bedrag medegedeeld.
+5. Met betrekking tot de bijdrage bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01), wordt in ieder geval het door de minister vastgestelde bedrag medegedeeld.
 
 ##### Artikel 8f
 
-1. Na ontvangst van de bescheiden, genoemd in [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), worden de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), definitief vastgesteld.
+1. Na ontvangst van de bescheiden, genoemd in [artikel 34, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), worden de bijdragen bedoeld in de [artikelen 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01) en [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01), definitief vastgesteld.
 
-2. De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2013-02-26), wordt verhoogd dan wel verlaagd met de som van de per product volgens de navolgende formule berekende bedragen:
+2. De bijdrage, bedoeld in [artikel 8c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8c&z=2013-02-26&g=2015-01-01), wordt verhoogd dan wel verlaagd met de som van de per product volgens de navolgende formule berekende bedragen:
 
 (Pr – Pb)T.
 
@@ -288,15 +288,15 @@ In deze formule is:
 
 ##### Artikel 9a
 
-De minister kan op verzoek van de Sociale verzekeringsbank de [artikelen 8a tot en met 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2013-02-26) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2013-02-26), buiten toepassing laten of daarvan afwijken voor zover strikte toepassing gelet op het belang dat deze artikelen beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+De minister kan op verzoek van de Sociale verzekeringsbank de [artikelen 8a tot en met 8f](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=8a&z=2013-02-26&g=2015-01-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=9&z=2013-02-26&g=2015-01-01), buiten toepassing laten of daarvan afwijken voor zover strikte toepassing gelet op het belang dat deze artikelen beogen te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 14
 
 Deze regeling wordt aangehaald als: Bekostigingsregeling Wuvo.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-02-26) van de Bekostigingsregeling Wuvo
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2015-01-01) van de Bekostigingsregeling Wuvo
 
-Onder product als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2013-02-26), wordt verstaan:
+Onder product als bedoeld in [artikel 1, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0030188&artikel=1&z=2013-02-26&g=2015-01-01), wordt verstaan:
 
 ### 1. Een eerste aanvraag
 
