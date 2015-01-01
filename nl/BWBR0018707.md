@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2014-09-13"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Dit besluit geeft uitvoering aan de [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [46 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=46).
+1. Dit besluit geeft uitvoering aan de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=32), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38), [38a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38a) en [46 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=46).
 
 2. Dit besluit verstaat onder:
 
@@ -98,7 +98,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2014-09-13&g=2014-09-13), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2015-01-01&g=2015-01-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
 2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
 
@@ -133,5 +133,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 5. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties draagt zorg voor de beschikbaarstelling en instandhouding van Mijnoverheid en voor de betrouwbare toegang van een gebruiker tot MijnOverheid.
 
 6. MijnOverheid-accounts die bestaan op de dag van inwerkingtreding van dit artikel worden aangemerkt als voorziening op grond van dit artikel.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1bis. Versnelde tenuitvoerlegging dwangbevel
+
+In situaties als bedoeld in [artikel 31a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=31a) kan de betekening en de tenuitvoerlegging van een dwangbevel geschieden op de uren en dagen, bedoeld in [artikel 64, eerste en tweede lid, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=64), indien in het kader van een actie die mede is gericht op de toepassing en handhaving van de wet op deze uren en dagen:
+
+- a. bekend wordt dat van de belanghebbende een bedrag wordt teruggevorderd ter zake waarvan terstond een dwangbevel wordt uitgevaardigd, of
+
+- b. een vermogensbestanddeel van de belanghebbende aan wie reeds een dwangbevel is betekend, wordt aangetroffen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
