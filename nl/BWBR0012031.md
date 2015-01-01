@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2014-07-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -47,7 +47,7 @@ Uitvoeringsregeling inkomstenbelasting 2001
 
 ##### Artikel 1. Reikwijdte en definitie
 
-1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9a), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [8.14b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1), [10bis.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) en [10a.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.9), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a) en [artikel XXXIII van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXXIII).
+1. Deze regeling geeft uitvoering aan de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5), [1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), [2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.10), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.16), [3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.17), [3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22), [3.27](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.27), [3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56), [3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.63](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.63), [3.83](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.83), [3.87](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.87), [3.104](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), [3.119aa](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa), [3.119c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119c), [3.119e](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119e), [3.119g](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119g), [3.138](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.138), [3.152](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.152), [3.154](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.154), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7), [4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.14), [4.17a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17a), [4.17b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17b), [4.17c](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.17c), [4.41](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.41), [4.51](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.51), [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), [6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.17), [6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.18), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.26), [6.38](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.38), [7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=7.2), [8.9a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.9a), [8.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14a), [9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.2), [9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), [9.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.6), [10bis.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.1), [10bis.5](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) en [10a.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.9), de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14) en [14a van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=14a) en [artikel XXXIII van het Belastingplan 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026958&artikel=XXXIII).
 
 2. Deze regeling verstaat onder:
 
@@ -63,9 +63,9 @@ Een kind wordt in belangrijke mate op kosten van de ouder onderhouden indien de 
 
 ### Hoofdstuk 2. Raamwerk (hoofdstuk 2 van de wet)
 
-##### Artikel 3. Woonplaatsfictie; keuzerecht voor buitenlandse belastingplichtigen; aanwijzing mogendheid
+##### Artikel 3. Woonplaatsfictie; aanwijzing mogendheid
 
-Voor de toepassing van [artikelen 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), en [2.5, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.5), worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.
+Voor de toepassing van [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.2), worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepaling bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.
 
 ##### Artikel 4. Toerekening tussen en binnen de belastbare inkomens
 
@@ -211,17 +211,9 @@ Vervallen
 
 - e. uitkeringen en verstrekkingen ingevolge de [Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017959);
 
-- f. uitkeringen en verstrekkingen ingevolge de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf;
+- f. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.
 
-- g. uitkeringen als bedoeld in artikel 5 van het Besluit taakverlichting alleenstaande werkenden/AAW;
-
-- h. inkomensondersteunende uitkeringen ingevolge [artikel 108, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=108), die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten;
-
-- i. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling verstrekkingen gerepatrieerden Libanon](https://wetten.overheid.nl/jci1.3:c:BWBR0020126);
-
-- j. uitkeringen en verstrekkingen ingevolge de [Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon](https://wetten.overheid.nl/jci1.3:c:BWBR0020553).
-
-2. Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0010997).
+2. Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in [artikel 3.104, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104), worden aangewezen: uitkeringen ingevolge de [Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0010997), zoals deze luidde op 31 december 2014.
 
 3. Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in [artikel 3.104, onderdeel o, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.104) worden aangewezen: voorzieningen in de zin van de [Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0008406).
 
@@ -229,9 +221,9 @@ Vervallen
 
 Indien in de overeenkomst ter zake van de verwerving van een eigen woning, ten behoeve van de uitvoering van het woonbeleid van de rijksoverheid of een gemeente, een clausule is opgenomen op grond waarvan bij niet-nakoming van die clausule een bedrag verschuldigd is, kan bij de vervreemding van die woning het bedrag dat ter zake van het niet nakomen van de clausule is betaald in mindering worden gebracht op het vervreemdingssaldo eigen woning, bedoeld in [artikel 3.119aa, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.119aa).
 
-##### Artikel 18. Negatieve uitgaven voor inkomensvoorzieningen; verminderingen en voorkoming dubbeltellingen
+##### Artikel 18. Negatieve uitgaven voor inkomensvoorzieningen; voorwaarden arbeidsongeschiktheid
 
-(GERESERVEERD)
+Van langdurige arbeidsongeschiktheid als bedoeld in [artikel 3.133, negende lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) is sprake indien uit een verklaring van een arts blijkt dat de belastingplichtige door ziekte of gebreken op het moment waarop de verklaring is afgegeven niet in staat is volledig de werkzaamheden te verrichten waarmee vóór het ontstaan van de arbeidsongeschiktheid het inkomen hoofdzakelijk werd verdiend en hiertoe vermoedelijk in de twaalf maanden na de afgifte van de verklaring ook niet in staat zal zijn.
 
 ##### Artikel 19. Uitgaven voor kinderopvang
 
@@ -321,9 +313,13 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 5. De inspecteur maakt het aanwijzen als een fonds op een daartoe geschikte wijze publiek bekend. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
-##### Artikel 30. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-natuurlijke persoon
+##### Artikel 30. Nettopensioen; in aanmerking te nemen dienstjaren en pensioengevend loon
 
-Vervallen
+1. Voor de bepaling van de perioden die voor de toepassing van [afdeling 5.3B van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3B) en de daarop berustende bepalingen in aanmerking komen als dienstjaren is [artikel 10a van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10a) van overeenkomstige toepassing.
+
+2. Voor de bepaling van de loonbestanddelen die voor de toepassing van [afdeling 5.3B van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3B) en de daarop berustende bepalingen in aanmerking komen als pensioengevend loon is [artikel 10b van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10b) van overeenkomstige toepassing.
+
+3. In afwijking in zoverre van het eerste en tweede lid zijn de [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=1a) en [11c tot en met 11f van het Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066&artikel=11c) van overeenkomstige toepassing voor de toepassing van [afdeling 5.3B van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=5.3B) en de daarop berustende bepalingen ingeval sprake is van een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7), waaraan een belastingplichtige deelneemt of heeft deelgenomen anders dan als werknemer als bedoeld in de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471).
 
 ##### Artikel 31. Beleggingen in durfkapitaal; vrijstelling directe beleggingen in durfkapitaal; beginnende ondernemer-rechtspersoon
 
@@ -353,41 +349,11 @@ Vervallen
 
 ##### Artikel 35. Uitgaven voor levensonderhoud van kinderen; beperkingen
 
-1. [Artikel 6.14, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.14) geldt niet voor:
-
-- a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in [artikel 64 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=64), ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) geldend maakt;
-
-- b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.
-
-2. Voor de toepassing van het eerste lid, onderdeel b, geldt dat:
-
-- a. de in [artikel 10 van het Besluit uitvoering kinderbijslag](onbekend) bedoelde persoon wiens recht op kinderbijslag niet wordt uitbetaald, zijn recht op kinderbijslag niet geldend maakt, en
-
-- b. de in [artikel 10 van het Besluit uitvoering kinderbijslag](onbekend) bedoelde persoon wiens recht op kinderbijslag aan hem geheel of gedeeltelijk wordt uitbetaald, zijn recht op kinderbijslag geheel geldend maakt.
-
-3. Het eerste lid, onderdeel b, is van overeenkomstige toepassing indien de belastingplichtige recht heeft op een tegemoetkoming volgens een naar aard en strekking met de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) overeenkomende buitenlandse regeling.
+Vervallen
 
 ##### Artikel 36. Uitgaven voor levensonderhoud van kinderen; omvang in aanmerking te nemen uitgaven
 
-1. De in [artikel 6.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.15) bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van:
-
-- a. € 205 per kalenderkwartaal indien het kind jonger dan 6 jaar is;
-
-- b. € 250 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;
-
-- c. € 290 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;
-
-- d. € 250 per kalenderkwartaal indien het kind 18 jaar of ouder is.
-
-2. Het in het eerste lid, onderdeel d, vermelde bedrag wordt verhoogd tot:
-
-- a. € 500, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 500 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;
-
-- b. € 750, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 750 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.
-
-3. Indien zowel de belastingplichtige als zijn partner uitgaven voor levensonderhoud van kinderen in aanmerking nemen, worden de in aanmerking te nemen bedragen gesteld op de helft van de bedragen vermeld in het eerste en tweede lid, zonodig naar boven af te ronden op een geheel getal.
-
-4. Voor de toepassing van de vorige leden is beslissend de toestand bij het begin van het kalenderkwartaal.
+Vervallen
 
 ##### Artikel 37. Uitgaven voor specifieke zorgkosten; dieetkosten
 
@@ -403,45 +369,44 @@ Vervallen
 | Hartziekten | decompensatio cordis, hartfalen | natriumbeperkt | € 100 |
 | Infectieziekten | aids | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
 | Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
-| Luchtwegen |   | energieverrijkt | € 600 |
+| Luchtwegen | chronische obstructieve longziekten (COPD) | energieverrijkt | € 600 |
 | Maag-, darm- en leverziekten | dumpingsyndroom | lactosebeperkt/lactosevrij | € 200 |
 | Maag-, darm- en leverziekten | chronische pancreatitis | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
 | Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
 | Maag-, darm- en leverziekten | cystic fibrosis | energieverrijkt | € 600 |
-| Maag-, darm- en leverziekten | coeliakie en ziekte van Dühring | glutenvrij | € 1.100 |
-| Maag-, darm- en leverziekten |   | glutenvrij in combinatie met lactosebeperkt/lactosevrij | € 1.250 |
+| Maag-, darm- en leverziekten | coeliakie en ziekte van Dühring | glutenvrij | € 1.000 |
+| Maag-, darm- en leverziekten | coeliakie en ziekte van Dühring | glutenvrij in combinatie met lactosebeperkt/lactosevrij | € 1.150 |
 | Maag-, darm- en leverziekten | overige | energieverrijkt met vitaminepreparaat | € 650 |
-| Maag-, darm- en leverziekten |   | energieverrijkt | € 600 |
-| Maag-, darm- en leverziekten |   | energieverrijkt in combinatie met MCT-vetverrijkt (met en zonder vitaminepreparaat) | € 1.500 |
-| Maag-, darm- en leverziekten |   | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
-| Maag-, darm- en leverziekten |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij | € 1.100 |
+| Maag-, darm- en leverziekten | overige | energieverrijkt | € 600 |
+|   |   | energieverrijkt in combinatie met MCT-vetverrijkt (met en zonder vitaminepreparaat) | € 1.350 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
+|   |   | energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij | € 1.100 |
 | Metabole ziekten | hypercholesterolemie | verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt | € 100 |
-| Metabole ziekten | vetstofwisselingsstoornis | vetbeperkt in combinatie met MCT-vetverrijkt | € 1.000 |
+| Metabole ziekten | vetstofwisselingsstoornis | vetbeperkt in combinatie met MCT-vetverrijkt | € 850 |
 | Metabole ziekten | fructose-intolerantie | fructosebeperkt | € 100 |
-| Metabole ziekten | galactosemie | galactosevrij | € 150 |
-| Metabole ziekten | sacharase isomaltase deficiëntie | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt | € 3.650 |
-| Metabole ziekten | eiwitstofwisselings stoornis (zoals PKU en hyperlysinemie) | sterk eiwitbeperkt | € 2.750 |
+| Metabole ziekten | galactosemie | galactosevrij | € 200 |
+|   | sacharase isomaltase deficiëntie | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt | € 3.900 |
+|   | eiwitstofwisselings stoornis (zoals PKU en hyperlysinemie) | sterk eiwitbeperkt | € 2.800 |
 | Nierziekten | nierziekten | natriumbeperkt | € 100 |
-|   | chronische nierinsufficiëntie met hemodialyse/peritoneale dialyse | eiwitverrijkt in combinatie met natriumbeperkt | € 250 |
-|   | nefrotisch syndroom | natriumbeperkt | € 100 |
+| Nierziekten | chronische nierinsufficiëntie met hemodialyse/ peritoneale dialyse | eiwitverrijkt in combinatie met natriumbeperkt | € 250 |
+| Nierziekten | nefrotisch syndroom | natriumbeperkt | € 100 |
 | Oncologie | oncologie | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
 | Oncologie | oncologie | energieverrijkt | € 600 |
-| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 200 |
-| Overige |   | soja-eiwitvrij | € 50 |
-| Overige |   | kippenei-eiwitvrij | € 50 |
-| Overige |   | lactosebeperkt/lactosevrij | € 200 |
-| Overige |   | tarwevrij | € 800 |
-| Overige |   | tarwevrij in combinatie met kippenei-eiwitvrij | € 1.000 |
-| Overige |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 250 |
-| Overige |   | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 350 |
-| Overige |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 400 |
-| Overige |   | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij | € 1.100 |
-| Overige |   | koemelkeiwitvrij in combinatie met glutenvrij | € 1.200 |
-| Overige |   | koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij | € 1.200 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij | € 250 |
+| Overige | voedselovergevoeligheid | soja-eiwitvrij | € 50 |
+| Overige | voedselovergevoeligheid | kippenei-eiwitvrij | € 100 |
+| Overige | voedselovergevoeligheid | lactosebeperkt/lactosevrij | € 200 |
+| Overige | voedselovergevoeligheid | tarwevrij | € 700 |
+| Overige | voedselovergevoeligheid | tarwevrij in combinatie met kippenei-eiwitvrij | € 850 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij | € 300 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met soja-eiwitvrij | € 350 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij | € 450 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij | € 1.100 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met glutenvrij | € 1.150 |
+| Overige | voedselovergevoeligheid | koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij | € 1.150 |
 | Overige | brandwonden | energieverrijkt in combinatie met eiwitverrijkt | € 850 |
-| Overige | lymfe lekkage | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt | € 1.250 |
-| Overige | epilepsie | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt | € 100 |
-| Overige | epilepsie | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt | € 950 |
+| Overige | lymfe lekkage | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt | € 1.100 |
+| Overige | epilepsie | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt | € 750 |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.
 
@@ -687,11 +652,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-07-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-07-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2014-07-01&g=2014-07-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -699,7 +664,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 9a. Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2010 tot en met 2012 ten opzichte van de periode 2009 tot en met 2011 niet is afgenomen.
+Met betrekking tot het kalenderjaar 2015 wordt voor de toepassing van [artikel 3.22, zesde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.22) vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2011 tot en met 2013 ten opzichte van de periode 2010 tot en met 2012 niet is afgenomen.
 
 ### Hoofdstuk 4. Heffingsgrondslag bij aanmerkelijk belang (hoofdstuk 4 van de wet)
 
@@ -713,27 +678,11 @@ Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van [artikel 3
 
 ##### Artikel 44c. Bedrag ouderschapsverlofkorting
 
-1. De ouderschapsverlofkorting bedraagt per uur ouderschapsverlof 1/8 van 50% van het wettelijke minimumloon per werkdag, zoals bepaald bij of krachtens [artikel 8 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8). Eerst nadat voor het totaal aantal uren ouderschapsverlof in het kalenderjaar aldus het bedrag aan korting is bepaald, wordt de regel toegepast dat de korting niet meer kan bedragen dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon.
-
-2. Voor de toepassing van de wet en het eerste lid wordt uitgegaan van het wettelijke minimumloon zoals dat per 1 januari van het kalenderjaar waarin de ouderschapsverlofkorting geldt, is vastgesteld.
-
-3. Indien de belastingplichtige in het voorafgaande kalenderjaar eveneens gebruik heeft gemaakt van zijn recht op ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6), kan voor de toepassing van [artikel 8.14b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=8.14b) in plaats van het in het voorafgaande kalenderjaar genoten belastbare loon worden uitgegaan van het in het kalenderjaar voorafgaand aan het ouderschapsverlof genoten belastbare loon.
+Vervallen
 
 ##### Artikel 44d. Verklaring ouderschapsverlof
 
-1. Voor de toepassing van de ouderschapsverlofkorting beschikt de werknemer over een door de werkgever ondertekende verklaring dat ouderschapsverlof als bedoeld in [hoofdstuk 6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=6) is opgenomen.
-
-2. Deze verklaring bevat ten minste:
-
-- a. naam, adres en woonplaats van de werkgever;
-
-- b. het loonheffingennummer van de werkgever;
-
-- c. naam en burgerservicenummer van de belastingplichtige;
-
-- d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;
-
-- e. het totaal aantal uren in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof.
+Vervallen
 
 ### Hoofdstuk 10. Overgangsrecht
 
@@ -847,9 +796,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-07-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-01-01&g=2015-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2014-07-01&g=2014-07-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-01-01&g=2015-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -921,7 +870,11 @@ Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobili
 
 - j. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);
 
-- k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406).
+- k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406);
+
+- l. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226);
+
+- m. Fietsactie 2014 Regio Twente (Stcrt. 2014, 22226).
 
 ##### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
 
@@ -1007,7 +960,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2014-07-01&g=2014-07-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2015-01-01&g=2015-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -1041,7 +994,13 @@ Als uitgaven als bedoeld in [artikel 6.18, eerste lid, onderdeel h, van de wet](
 
 - b. uitgaven voor de eerste twee in-vitrofertilisatiebehandelingen indien meer dan één embryo per poging wordt teruggeplaatst en de vrouw ten tijde van de behandeling jonger is dan 38 jaar;
 
-- c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, een onderarmschaalkruk, een rollator of een loophulp met drie of vier poten.
+- c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, een onderarmschaalkruk, een rollator of een loophulp met drie of vier poten;
+
+- d. uitgaven voor geestelijke gezondheidszorg voor een persoon die de leeftijd van 18 jaar nog niet heeft bereikt;
+
+- e. uitgaven voor dyslexiezorg voor een persoon die de leeftijd van 18 jaar nog niet heeft bereikt;
+
+- f. uitgaven voor een combinatietest in het kader van prenatale screening indien geen sprake is van een medische indicatie.
 
 ### Hoofdstuk 9. Wijze van heffing ([hoofdstuk 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=9))
 
