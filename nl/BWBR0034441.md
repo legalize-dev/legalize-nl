@@ -4,7 +4,7 @@ identifier: "BWBR0034441"
 country: "nl"
 rank: "zbo"
 publication_date: "2017-05-31"
-last_updated: "2013-12-21"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034441"
 soort: "zbo"
@@ -108,7 +108,7 @@ de Afdeling Bosbouwgewassen: 2.
 
 2. De Raad besluit met meerderheid van stemmen. Bij staking van stemmen beslist de voorzitter of, bij diens ontstentenis, de plaatsvervangend voorzitter.
 
-3. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=11&z=2013-12-21&g=2013-12-21), worden de besluiten van de Raad, voor zover zij besluiten zijn in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), gedagtekend en ondertekend door de voorzitter of de plaatsvervangend voorzitter en de secretaris of een adjunct-secretaris.
+3. Onverminderd [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=11&z=2013-12-21&g=2015-01-01), worden de besluiten van de Raad, voor zover zij besluiten zijn in de zin van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), gedagtekend en ondertekend door de voorzitter of de plaatsvervangend voorzitter en de secretaris of een adjunct-secretaris.
 
 ##### Artikel 7. (adviescommissies)
 
@@ -138,7 +138,7 @@ de Afdeling Bosbouwgewassen: 2.
 
 3. Het tweede lid is van overeenkomstige toepassing op getuigen en deskundigen, die naar aanleiding van een oproeping van de Raad zijn verschenen.
 
-4. Het hoofd van het Bureau voor plantenrassen stelt vacatiegelden en vergoedingen voor reis- en verblijfkosten vast voor de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=8&z=2013-12-21&g=2013-12-21) benoemde deskundigen.
+4. Het hoofd van het Bureau voor plantenrassen stelt vacatiegelden en vergoedingen voor reis- en verblijfkosten vast voor de ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=8&z=2013-12-21&g=2015-01-01) benoemde deskundigen.
 
 ##### Artikel 10. (vertegenwoordiging in en buiten rechte)
 
@@ -152,7 +152,7 @@ De Raad machtigt de secretaris of, bij diens ontstentenis, een adjunct-secretari
 
 3. Met betrekking tot de vaststelling van rasnamen is de secretaris bevoegd namens de Raad te besluiten, tenzij de belanghebbende uitdrukkelijk een beslissing van de Raad eist.
 
-4. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=6&z=2013-12-21&g=2013-12-21), worden ingevolge het eerste of het tweede lid genomen besluiten namens de Raad door de secretaris ondertekend.
+4. In afwijking van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034441&artikel=6&z=2013-12-21&g=2015-01-01), worden ingevolge het eerste of het tweede lid genomen besluiten namens de Raad door de secretaris ondertekend.
 
 5. De secretaris informeert de Raad over de aanvragen onderscheidenlijk de aanwijzingen en intrekkingen, die onder toepassing van het eerste onderscheidenlijk het tweede lid zijn afgehandeld.
 
