@@ -4,7 +4,7 @@ identifier: "BWBR0011173"
 country: "nl"
 rank: "wet"
 publication_date: "2025-01-01"
-last_updated: "2005-06-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011173"
 soort: "wet"
@@ -58,11 +58,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De werknemer kan de werkgever verzoeken om aanpassing van de uit zijn arbeidsovereenkomst of publiekrechtelijke aanstelling voortvloeiende arbeidsduur, indien de werknemer ten minste een jaar voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever. Voor de berekening van de termijn van een jaar worden perioden waarin arbeid wordt verricht, die elkaar opvolgen met een onderbreking van niet meer dan drie maanden samengeteld. De vorige volzin is van overeenkomstige toepassing op perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijs geacht moeten worden elkanders opvolger te zijn.
+1. De werknemer kan de werkgever verzoeken om aanpassing voor al dan niet wisselende perioden en met al dan niet verschillende omvang van de uit zijn arbeidsovereenkomst of publiekrechtelijke aanstelling voortvloeiende arbeidsduur, indien de werknemer ten minste een jaar voorafgaand aan het beoogde tijdstip van ingang van die aanpassing in dienst is bij die werkgever, behoudens onvoorziene omstandigheden. Voor de berekening van de termijn van een jaar worden perioden waarin arbeid wordt verricht, die elkaar opvolgen met een onderbreking van niet meer dan drie maanden samengeteld. De vorige volzin is van overeenkomstige toepassing op perioden waarin voor verschillende werkgevers arbeid wordt verricht die ten aanzien van de verrichte arbeid redelijkerwijs geacht moeten worden elkanders opvolger te zijn.
 
 2. Voor militaire ambtenaren wordt het recht op aanpassing van de arbeidsduur geregeld bij algemene maatregel van bestuur op voordracht van Onze Minister van Defensie en Onze Minister van Sociale Zaken en Werkgelegenheid met gebruikmaking van onbezoldigd verlof in verband met deeltijdarbeid.
 
-3. Het verzoek om aanpassing van de arbeidsduur wordt ten minste vier maanden vóór het beoogde tijdstip van ingang van de aanpassing schriftelijk bij de werkgever ingediend onder opgave van het tijdstip van ingang, de omvang van de aanpassing van de arbeidsduur per week of, als de arbeidsduur over een ander tijdvak is overeengekomen over dat tijdvak en de gewenste spreiding van de uren over de week of het anderszins overeengekomen tijdvak. De werknemer kan ten hoogste eenmaal per twee jaren, nadat de werkgever een verzoek om aanpassing van de arbeidsduur heeft ingewilligd of afgewezen, opnieuw een verzoek indienen.
+3. Het verzoek om aanpassing van de arbeidsduur wordt, behoudens onvoorziene omstandigheden, ten minste vier maanden vóór het beoogde tijdstip van ingang van de aanpassing schriftelijk bij de werkgever ingediend onder opgave van het tijdstip van ingang, de omvang van de aanpassing van de arbeidsduur per week of, als de arbeidsduur over een ander tijdvak is overeengekomen over dat tijdvak en de gewenste spreiding van de uren over de week of het anderszins overeengekomen tijdvak. De werknemer kan, behoudens onvoorziene omstandigheden, ten hoogste eenmaal per jaar, nadat de werkgever een verzoek om aanpassing van de arbeidsduur heeft ingewilligd of afgewezen, opnieuw een verzoek indienen.
 
 4. De werkgever pleegt overleg met de werknemer over diens verzoek.
 
