@@ -4,7 +4,7 @@ identifier: "BWBR0029323"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2025-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029323"
 soort: "AMvB-BES"
@@ -40,13 +40,15 @@ entry_into_force: "2019-12-18"
 
 ##### Artikel 1.1
 
-1. Dit besluit geeft uitvoering aan de [artikelen 8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39), [8.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.69), [8.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89), [8.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.95), [8.109](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.109) en [8.115a van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.115a), [artikel 3, vierde lid, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) en [artikel 14 van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=14).
+1. Dit besluit geeft uitvoering aan de [artikelen 8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39), [8.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.69), [8.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89), [8.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.95), [8.109](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.109), [8.115a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.115a) en [8.129 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129), [artikel 3, vierde lid, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) en [artikel 14 van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=14).
 
 2. Dit besluit verstaat onder:
 
 - a. **wet:** [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244);
 
-- b. **CBS versie 2 mei 1998:** door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities.
+- b. **CBS versie 2 mei 1998:** door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities;
+
+- c. **FATCA-verdrag:** het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22).
 
 ### Hoofdstuk 2. Kosten van vervolging
 
@@ -86,45 +88,45 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2.1
 
-Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2014-01-01&g=2014-01-01).
+Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 2.2
 
 Verschuldigd is:
 
-- a. voor het betekenen van een dwangschrift met bevel tot betaling: 1% van de gevorderde som, afgerond op gehele dollars naar beneden, met een minimum van USD 12 en een maximum van USD 2 800;
+- a. voor het betekenen van een dwangschrift met bevel tot betaling: USD 40, verhoogd met USD 3 voor elk geheel bedrag van USD 50 waarmee de gevorderde som USD 50 te boven gaat, met een maximum van USD 9333;
 
-- b. voor het ingevolge een wettelijk voorschrift doen van een ander exploot: USD 12;
+- b. voor het ingevolge een wettelijk voorschrift doen van een ander exploot: USD 40;
 
-- c. voor het geven van kwitantie door de met de tenuitvoerlegging van een dwangschrift belaste deurwaarder ter zake van een aan deze gedane betaling ter afwering van een beslaglegging op roerende zaken: USD 6;
+- c. voor het geven van kwitantie door de met de tenuitvoerlegging van een dwangschrift belaste deurwaarder ter zake van een aan deze gedane betaling ter afwering van een beslaglegging op roerende zaken: USD 20;
 
-- d. voor het ingevolge wettelijk voorschrift voor «gezien» doen tekenen van een exploot of een ander stuk: USD 3;
+- d. voor het ingevolge een wettelijk voorschrift voor »gezien» doen tekenen van een exploot of een ander stuk: USD 4;
 
-- e. voor het aanplakken van een exploot: USD 3;
+- e. voor het aanplakken van een exploot: USD 4;
 
-- f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3;
+- f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 4;
 
-- g. voor het verzenden van een aanmaning tot betaling: USD 1.
+- g. voor het verzenden van een aanmaning tot betaling: USD 8.
 
 ##### Artikel 2.3
 
 1. Verschuldigd is:
 
-- a. voor het in beslag nemen van een goed en het deswege opmaken van een proces-verbaal: USD 20;
+- a. voor het in beslag nemen van een goed en het deswege opmaken van een proces-verbaal: USD 40;
 
-- b. voor de verkoop van een goed en het deswege opmaken van een proces-verbaal: USD 28;
+- b. voor de verkoop van een goed en het deswege opmaken van een proces-verbaal: USD 50;
 
-- c. voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen van aankondiging van de verkoop in een dagblad: USD 12;
+- c. voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen van aankondiging van de verkoop in een dagblad: USD 24;
 
-- d. voor het ingevolge wettelijk voorschrift opmaken van een ander proces-verbaal: USD 12;
+- d. voor het ingevolge een wettelijk voorschrift opmaken van een ander proces-verbaal: USD 24;
 
-- e. voor iedere getuige: USD 8,50 per uur of voor zover de duur niet in volle uren kan worden gerekend, per gedeelte daarvan.
+- e. voor iedere getuige: USD 12 per uur of voor zover de duur niet in volle uren kan worden gerekend, per gedeelte daarvan.
 
 2. Indien de verrichtingen, bedoeld in de onderdelen a en b, ter plaatse langer dan twee uren duren, worden de genoemde bedragen verhoogd met USD 12 voor elk volgend uur of gedeelte daarvan.
 
 ##### Artikel 2.4
 
-1. Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: USD 8,50.
+1. Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: het bedrag van de werkelijke kosten.
 
 2. Het op grond van het eerste lid verschuldigde bedrag komt toe aan de bewaarder.
 
@@ -132,7 +134,7 @@ Verschuldigd is:
 
 ##### Artikel 2.5
 
-Naast de in de [artikelen 2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2014-01-01&g=2014-01-01) genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.
+Naast de in de [artikelen 2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2015-01-01&g=2015-01-01) genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.
 
 ### Hoofdstuk 3. Van inleners- en ketenaansprakelijkheid uitgezonderde sectoren
 
@@ -198,15 +200,15 @@ Een vergoeding van de kosten als bedoeld in de [artikelen 8.95](https://wetten.o
 
 1. Het bedrag van de kosten wordt bij de beslissing op het bezwaar, onderscheidenlijk bij de uitspraak van de rechter bepaald:
 
-- a. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01): overeenkomstig het in de bijlage bij dit besluit opgenomen tarief;
+- a. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01): overeenkomstig het in de bijlage bij dit besluit opgenomen tarief;
 
-- b. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01): op de vergoeding die ingevolge [artikel 40, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=40) is verschuldigd;
+- b. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01): op de vergoeding die ingevolge [artikel 40, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=40) is verschuldigd;
 
-- c. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01): overeenkomstig [artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&artikel=15);
+- c. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01): overeenkomstig [artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028448&artikel=15);
 
-- d. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01): overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen USD 2,25 en USD 36,30 per uur bedraagt;
+- d. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01): overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen USD 2,25 en USD 36,30 per uur bedraagt;
 
-- e. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01): op de werkelijke kosten.
+- e. ten aanzien van de kosten, bedoeld in [artikel 5.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01): op de werkelijke kosten.
 
 2. Indien een partij door de rechter gedeeltelijk in het gelijk wordt gesteld, kan het op grond van het eerste lid vastgestelde bedrag worden verminderd.
 
@@ -216,21 +218,21 @@ Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminde
 
 ##### Artikel 5.3
 
-1. Samenhangende zaken worden voor de toepassing van [artikel 5.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.2&z=2014-01-01&g=2014-01-01), beschouwd als één zaak.
+1. Samenhangende zaken worden voor de toepassing van [artikel 5.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.2&z=2015-01-01&g=2015-01-01), beschouwd als één zaak.
 
-2. Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01), is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.
+2. Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01), is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.
 
 ### Hoofdstuk 6. Bijstelling bedragen
 
 ##### Artikel 6.1
 
-De in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&z=2014-01-01&g=2014-01-01) voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.
+De in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&z=2015-01-01&g=2015-01-01) voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.
 
 ### Hoofdstuk 7. Sectoren ten aanzien waarvan [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) geen toepassing vindt
 
 ##### Artikel 7.1
 
-Ten aanzien van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=3&artikel=3.1&z=2014-01-01&g=2014-01-01) van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) niet van toepassing.
+Ten aanzien van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=3&artikel=3.1&z=2015-01-01&g=2015-01-01) van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) niet van toepassing.
 
 ### Hoofdstuk 8. Slotbepalingen
 
@@ -254,33 +256,93 @@ Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.o
 
 ### A2. **Bezwaar**
 
-### B. Waarde per punt
+### Tarief als bedoeld in [artikel 5.1, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01), van het Uitvoeringsbesluit Belastingwet BES
 
 ### B1. **Beroep**
 
 1 punt = USD 391
 
-### B2. **Bezwaar**
+### A1. **Beroep**
 
 1 punt = USD 196
 
-### C. Wegingsfactoren
+### B. Waarde per punt
 
-### C1. **Gewicht van de zaak**
+### B1. **Beroep**
 
 ### C2. **Samenhangende zaken**
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-### Hoofdstuk 8. Slotbepalingen
+### Hoofdstuk 7b. Gegevensuitwisseling
 
 ## Bijlage
 
 Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2014-01-01&g=2014-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
 
-### B. Waarde per punt
+### A. **Punten per proceshandeling**
 
 1 punt = USD 196
+
+### B2. **Bezwaar**
+
+### C2. **Samenhangende zaken**
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 7b.1
+
+1. Als administratieplichtigen als bedoeld in [artikel 8.129, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.
+
+2. Als gegevens en inlichtingen als bedoeld in [artikel 8.129, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129) worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
+
+3. Voor de toepassing van het eerste en tweede lid is het een financiële instelling, met inachtneming van artikel 4, zevende lid, van het FATCA-verdrag, toegestaan om in plaats van gebruik te maken van de begripsomschrijvingen in artikel 1 van het FATCA-verdrag en in de bijlagen van het FATCA-verdrag, gebruik te maken van dienovereenkomstige begripsomschrijvingen in de voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in artikel 4, zevende lid, van het FATCA-verdrag.
+
+4. Een administratieplichtige volgt de procedures die zijn opgenomen in bijlage I van het FATCA-verdrag teneinde Amerikaanse te rapporteren rekeningen te identificeren. Een administratieplichtige mag zich, met inachtneming van bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag, bij de toepassing van de eerste volzin baseren op door derden uitgevoerde procedures voor zover voorzien in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag.
+
+5. In afwijking van het vierde lid, eerste volzin, is het een administratieplichtige, met inachtneming van bijlage I, sectie I, onderdeel C, van het FATCA-verdrag, toegestaan om voor het identificeren van Amerikaanse te rapporteren rekeningen de procedures toe te passen die zijn opgenomen in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie I, onderdeel C, van het FATCA-verdrag. Van de mogelijkheid, bedoeld in de eerste volzin, kan gebruik worden gemaakt per sectie van bijlage I afzonderlijk, hetzij voor alle relevante financiële rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk. Het vierde lid, tweede volzin, is van overeenkomstige toepassing.
+
+6. Een administratieplichtige mag gebruikmaken van de keuzemogelijkheden, bedoeld in bijlage I, sectie II, onderdeel A, sectie III, onderdeel A, sectie IV, onderdeel A, en sectie V, onderdeel A, van het FATCA-verdrag. Een administratieplichtige die gebruikmaakt van een keuzemogelijkheid als bedoeld in de eerste volzin, is, afhankelijk van de gemaakte keuze, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, verplicht om met inachtneming van de bepalingen van het FATCA-verdrag, gegevens en inlichtingen te verstrekken over:
+
+- a. de rekeningen, bedoeld in bijlage I, sectie II, onderdeel A, onder 1 tot en met 4, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- b. de rekeningen, bedoeld in bijlage I, sectie III, onderdeel A, onder 1 en 2, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- c. de rekeningen, bedoeld in bijlage I, sectie IV, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;
+
+- d. de rekeningen, bedoeld in bijlage I, sectie V, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk.
+
+7. Ingeval ingevolge artikel 7 van het FATCA-verdrag gunstigere bepalingen van toepassing zijn dan ingevolge artikel 4 van het FATCA-verdrag en bijlage I van het FATCA-verdrag, mag een administratieplichtige deze gunstigere bepalingen toepassen. Onze Minister maakt de gunstigere bepalingen, bedoeld in de eerste volzin, op een daartoe geschikte wijze publiek bekend.
+
+8. Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt:
+
+- a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;
+
+- b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;
+
+- c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.
+
+9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
+
+##### Artikel 7b.2
+
+1. Als gegevens en inlichtingen als bedoeld in [artikel 8.129, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129) worden voor administratieplichtigen als bedoeld in [artikel 7b.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=7b&artikel=7b.1&z=2015-01-01&g=2015-01-01), mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.
+
+2. [Artikel 7b.1, derde, vierde, vijfde, zevende, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=7b&artikel=7b.1&z=2015-01-01&g=2015-01-01), is voor de toepassing van het eerste lid van overeenkomstige toepassing.
+
+### Hoofdstuk 8. Slotbepalingen
+
+## Bijlage
+
+Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.1&z=2015-01-01&g=2015-01-01), van het Uitvoeringsbesluit Belastingwet BES, wordt vastgesteld door aan de verrichte proceshandelingen punten toe te kennen overeenkomstig onderstaande lijst (A) en die punten te vermenigvuldigen met de waarde per punt (B) en met de toepasselijke wegingsfactoren (C).
+
+### A2. **Bezwaar**
+
+1 punt = USD 391
+
+1 punt = USD 196
+
+### C. Wegingsfactoren
 
 ### C1. **Gewicht van de zaak**
 
