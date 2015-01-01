@@ -4,7 +4,7 @@ identifier: "BWBR0034301"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-18"
-last_updated: "2013-12-11"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034301"
 soort: "ministeriele-regeling"
@@ -99,5 +99,15 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing en taakvervulling toezichthouders Kernenergiewet 2013.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Met het toezicht op de naleving van het bepaalde bij of krachtens de Kernenergiewet zijn belast de ambtenaren van de Inspectie Leefomgeving en Transport van het Ministerie van Infrastructuur en Milieu voor zover het hun werkterrein betreft.
+
+#### § 2. Taakvervulling
+
+#### § 3. Overgangs- en slotbepalingen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
