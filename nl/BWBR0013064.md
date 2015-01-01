@@ -4,7 +4,7 @@ identifier: "BWBR0013064"
 country: "nl"
 rank: "wet"
 publication_date: "2023-07-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013064"
 soort: "wet"
@@ -60,7 +60,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt verstaan on
 
 ##### Artikel 2
 
-De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse euromunten, bijzondere munten met de hoedanigheid van wettig betaalmiddel en munten zonder de hoedanigheid van wettig betaalmiddel.
+De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse euromunten, bijzondere munten met de hoedanigheid van wettig betaalmiddel, beleggingsmunten en munten zonder de hoedanigheid van wettig betaalmiddel.
 
 ##### Artikel 3
 
@@ -86,19 +86,19 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 
 - c. de zilveren dukaat.
 
-2. De gouden dukaat heeft een goudgehalte van 983 duizendsten met een afwijking van ten hoogste twee duizendsten, een gewicht van 3,494 gram met een afwijking van ten hoogste vier duizendsten en een middellijn van 21 millimeter.
+2. De gouden dukaat heeft een goudgehalte van 983 duizendste, een gewicht van 3,494 gram met een afwijking van ten hoogste vier duizendste en een middellijn van 21 millimeter.
 
-3. De dubbele gouden dukaat heeft een goudgehalte van 983 duizendsten met een afwijking van ten hoogste twee duizendsten, een gewicht van 6,988 gram met een afwijking van ten hoogste vier duizendsten en een middellijn van 26 millimeter.
+3. De dubbele gouden dukaat heeft een goudgehalte van 983 duizendste, een gewicht van 6,988 gram met een afwijking van ten hoogste vier duizendste en een middellijn van 26 millimeter.
 
 4. De beeldenaar van de gouden dukaat en de dubbele gouden dukaat is op de voorzijde een geharnaste man tussen de cijfers van het jaartal, met het omschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester: de beeldenaar is op de keerzijde binnen een versierd vierkant: MO. AUR REG. BELGII AD LEGEM IMPERII. De munten zijn voorzien van een kabelrand.
 
-5. De zilveren dukaat heeft een zilvergehalte van 873 duizendsten met een afwijking van ten hoogste drie duizendsten, een gewicht van 28,25 gram met een afwijking van ten hoogste vijf duizendsten en een middellijn van 40 millimeter.
+5. De zilveren dukaat heeft een zilvergehalte van 873 duizendste, een gewicht van 28,25 gram met een afwijking van ten hoogste vijf duizendste en een middellijn van 40 millimeter.
 
 6. De beeldenaar van de zilveren dukaat is op de voorzijde hetzij een geharnaste man met het Rijkswapen voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII, hetzij een geharnaste man met het wapen van een Nederlandse provincie voor het linkerbeen en met het opschrift: MO.NO.ARG.REG.BELGII en de naam van de provincie; is op de keerzijde het Rijkswapen met de Koninklijke Kroon tussen de cijfers van het jaartal, met het opschrift: CONCORDIA RES PARVAE CRESCUNT, het teken van de Koninklijke Nederlandse Munt en het teken van de muntmeester.
 
 ##### Artikel 6
 
-1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2014-01-01&g=2014-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
+1. De munten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=2&z=2015-01-01&g=2015-01-01), worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.
 
 2. De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.
 
@@ -106,25 +106,25 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 
 ##### Artikel 7
 
-Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2014-01-01&g=2014-01-01), geregeld.
+Bij ministeriële regeling worden de buitenomloopstelling en de inwisseling van buitenomloopgestelde bijzondere munten, als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01), geregeld.
 
 ##### Artikel 8
 
 1. Niemand is gehouden valse of vervalste munten aan te nemen.
 
-2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2014-01-01&g=2014-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2014-01-01&g=2014-01-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
+2. Euromunten en de munten, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4a&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2015-01-01&g=2015-01-01) die vermoed worden vals of vervalst te zijn, kunnen aan een door Onze minister aan te wijzen instantie ter beoordeling worden voorgelegd.
 
 3. Indien de munten naar het oordeel van de in het tweede lid bedoelde instantie vals of vervalst zijn, worden ze in beslag genomen. Indien de munten naar het oordeel van die instantie niet vals of vervalst zijn:
 
-- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2014-01-01&g=2014-01-01) de nominale waarde vergoed;
+- a. wordt van euromunten of munten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=4&z=2015-01-01&g=2015-01-01) de nominale waarde vergoed;
 
-- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2014-01-01&g=2014-01-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
+- b. wordt van munten als bedoeld in de [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=5&z=2015-01-01&g=2015-01-01) de stoffelijke waarde vergoed of worden die munten teruggegeven in de staat waarin zij zijn ontvangen.
 
 4. Onze minister kan regels stellen betreffende de beoordeling, bedoeld in het tweede lid.
 
 ##### Artikel 9
 
-1. Euromunten en bijzondere munten met de hoedanigheid van wettig betaalmiddel die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2014-01-01&g=2014-01-01), aangewezen instantie.
+1. Euromunten en bijzondere munten met de hoedanigheid van wettig betaalmiddel die ongeschikt zijn voor de circulatie, kunnen worden ingeleverd bij de op grond van [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013064&artikel=8&z=2015-01-01&g=2015-01-01), aangewezen instantie.
 
 2. De in het eerste lid bedoelde instantie weigert munten in ontvangst te nemen, indien de ontvangst of behandeling daarvan gevaar voor de gezondheid van het behandelend personeel inhoudt.
 
@@ -165,5 +165,33 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 13
 
 Deze wet wordt aangehaald als: Muntwet 2002.
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
+
+##### Artikel 4a
+
+1. Beleggingsmunten zijn:
+
+- a. een gouden munt van tweehonderdvijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,093 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- b. een gouden munt van honderd-euro met een goudgehalte van 999,9 duizendste, een gewicht van 15,552 gram met een afwijking van ten hoogste 0,078 gram en een middellijn van 28,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- c. een gouden munt van vijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 7,776 gram met een afwijking van ten hoogste 0,062 gram en een middellijn van 22,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- d. een gouden munt van vijfentwintig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 3,110 gram met een afwijking van ten hoogste 0,037 gram en een middellijn van 16,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;
+
+- e. een zilveren munt van tweeëneenhalve-euro met een zilvergehalte van 999 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,25 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter.
+
+2. De beeldenaar van de beleggingsmunten is op de voorzijde de beeltenis en de naam van de Koning (Koningin) met de woorden «Koning (Koningin) der Nederlanden» en op de keerzijde het Gekroond rijkswapen met daaronder de tekst «Nederland», de waardeaanduiding, het gehalte edelmetaal, het jaartal van uitgifte, het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
+
+3. De beleggingsmunten hebben een geribbelde rand.
+
+##### Artikel 6a
+
+1. De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.
+
+2. De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.
+
+3. Het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester worden bij ministeriële regeling vastgesteld.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige invoering de hand zullen houden.
