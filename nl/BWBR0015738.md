@@ -4,7 +4,7 @@ identifier: "BWBR0015738"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-02"
-last_updated: "2014-07-12"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015738"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - a. minister: Minister van Sociale Zaken en Werkgelegenheid;
 
-- b. wet: [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
+- b. wet: [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703);
 
 - c. tekortgemeente: gemeente waarvan het college een verzoek om een incidentele aanvullende uitkering heeft ingediend;
 
@@ -56,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e. meerjarige aanvullende uitkering: de meerjarige aanvullende uitkering, bedoeld in [artikel 74, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=74);
 
-- f. toetsingscommissie: de toetsingscommissie Wet werk en bijstand, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
+- f. toetsingscommissie: de toetsingscommissie aanvullende uitkeringen Participatiewet, bedoeld in [artikel 73 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=73);
 
 - g. IOAW: [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044);
 
@@ -92,13 +92,21 @@ Vervallen
 
 2. Het bedrag waarmee de uitkering op grond van [artikel 71 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=71) wordt aangepast, wordt in gelijke delen verrekend met de voor het betreffende kalenderjaar resterende maandelijks te betalen delen van de uitkering, bedoeld in [artikel 69, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=69).
 
-3. Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in [artikel 10c, tweede lid, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10c), wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet.
+3. Elk van de drie delen waaruit de meerjarige aanvullende uitkering bestaat, bedoeld in [artikel 10c, tweede lid, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10c), zoals dit artikel luidde op 31 december 2014 wordt betaalbaar gesteld voor 1 april van het tweede kalenderjaar volgend op het kalenderjaar waar het desbetreffende deel op ziet.
+
+4. De incidentele aanvullende uitkering 2014 en de aanvullende uitkering 2015 worden betaalbaar gesteld voor 1 april 2016, respectievelijk 1 april 2017.
 
 #### § 4. Uit- en aanbesteding
 
-##### Artikel 6. Gegevens verdeelmodel 25.000+ gemeenten
+##### Artikel 6. Gegevens verdeelmodel 15.000+ gemeenten
 
-In de bijlage bij deze regeling zijn de peiljaren, peildata en gewichten opgenomen die gelden voor de verdeelmaatstaven, bedoeld in de bijlage bij het [Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183).
+In de bijlage bij deze regeling zijn:
+
+- a. in tabel 1 de gewichten opgenomen die gelden voor de variabelen, bedoeld in tabel 1 van de [bijlage bij het Besluit Participatiewet](358729);
+
+- b. in tabel 2 de coropgewichten opgenomen die gelden voor de te onderscheiden coropgebieden, bedoeld in tabel 1 van de [bijlage bij het Besluit Participatiewet](358729);
+
+- c. in tabel 3 zijn de peiljaren en de peildata opgenomen voor de kenmerken, bedoeld in tabel 2 en de omgevingskenmerken, bedoeld in tabel 1 van de [bijlage bij het Besluit Participatiewet](358729).
 
 #### § 5. Vrijlating uitkeringen en vergoedingen
 
@@ -150,11 +158,11 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 9. Reikwijdte
 
-Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2014.
+Deze paragraaf is van toepassing op de vaststelling van de aanspraak op vakantietoeslag over een inkomen ontvangen in het kalenderjaar 2015.
 
 ##### Artikel 10. In aanmerking te nemen vakantietoeslag
 
-Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2014-07-12&g=2014-07-12), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2014-07-12&g=2014-07-12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2014-07-12&g=2014-07-12) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2014-07-12&g=2014-07-12) berekende aanspraak op vakantietoeslag in aanmerking.
+Indien over het inkomen van de belanghebbende aanspraak op vakantietoeslag bestaat neemt het college bij de vaststelling van de hoogte van de algemene bijstand mede op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=11&z=2015-01-01&g=2015-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=12&z=2015-01-01&g=2015-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=13&z=2015-01-01&g=2015-01-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=6&artikel=14&z=2015-01-01&g=2015-01-01) berekende aanspraak op vakantietoeslag in aanmerking.
 
 ##### Artikel 11. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit tegenwoordige arbeid
 
@@ -163,11 +171,11 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 471,15 |   | 8,00% | x ink |   |   |   |
-| € | 471,15 | € | 510,98 |   | 5,10% | x ink |   |   |   |
-| € | 510,98 | € | 628,34 |   | 7,76% | x ink | – € | 13,60 |   |
-| € | 628,34 | € | 1.317,83 |   | 6,07% | x ink | – € | 3,02 |   |
-| € | 1.317,83 |   |   |   | 5,53% | x ink | – € | 2,74 |   |
+| € | 0,00 | € | 490,05 |   | 8,00% | x ink |   |   |   |
+| € | 490,05 | € | 531,45 |   | 5,08% | x ink |   |   |   |
+| € | 531,45 | € | 639,34 |   | 7,76% | x ink | – € | 14,25 |   |
+| € | 639,34 | € | 1.341,41 |   | 5,99% | x ink | – € | 2,96 |   |
+| € | 1.341,41 |   |   |   | 5,48% | x ink | – € | 2,70 |   |
 
 ##### Artikel 12. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) met inkomen uit vroegere arbeid
 
@@ -176,10 +184,10 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 447,71 |   | 8,00% | x ink |   |   |   |
-| € | 447,71 | € | 483,45 |   | 5,10% | x ink |   |   |   |
-| € | 483,45 | € | 1.143,07 |   | 8,00% | x ink | – € | 14,02 |   |
-| € | 1.143,07 |   |   |   | 7,28% | x ink | – € | 12,75 |   |
+| € | 0,00 | € | 465,76 |   | 8,00% | x ink |   |   |   |
+| € | 465,76 | € | 502,97 |   | 5,08% | x ink |   |   |   |
+| € | 502,97 | € | 1.156,40 |   | 8,00% | x ink | – € | 14,69 |   |
+| € | 1.156,40 |   |   |   | 7,31% | x ink | – € | 13,24 |   |
 
 ##### Artikel 13. Aanspraak op vakantietoeslag voor personen jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) voor wie geen rekening is gehouden met de algemene heffingskorting
 
@@ -188,28 +196,28 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bij een netto inkomen per maand | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | gelijk aan of meer dan | gelijk aan of meer dan | en minder dan | en minder dan | en minder dan | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag | bedraagt de aanspraak op vakantietoeslag |
-| € | 0,00 | € | 967,82 |   | 8,00% | x ink |   |   |   |
-| € | 967,82 |   |   |   | 7,28% | x ink |   |   |   |
+| € | 0,00 | € | 972,81 |   | 7,99% | x ink |   |   |   |
+| € | 972,81 |   |   |   | 7,31% | x ink |   |   |   |
 
 ##### Artikel 14. Aanspraak op vakantietoeslag voor personen die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt
 
 1. Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en het inkomen van de belanghebbende bestaat uit een gekort ouderdomspensioen en toeslag als bedoeld in [artikel 13 van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=13) bedraagt de daarbij behorende aanspraak op vakantietoeslag voor:
 
-| a. alleenstaande | a. alleenstaande | a. alleenstaande | a. alleenstaande | 6,53% | x ink |   |
-| --- | --- | --- | --- | --- | --- | --- |
-| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |
-| – het inkomen € 1.017,77 of meer bedraagt | – het inkomen € 1.017,77 of meer bedraagt | – het inkomen € 1.017,77 of meer bedraagt | – het inkomen € 1.017,77 of meer bedraagt | 6,64% | x ink | – € 14,28 |
-| – het inkomen lager is dan € 1.017,77 | – het inkomen lager is dan € 1.017,77 | – het inkomen lager is dan € 1.017,77 | – het inkomen lager is dan € 1.017,77 | 6,64% | x ink |   |
-| c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | 6,82% | x ink |   |
-| d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien |   |   |   |
-| – het inkomen € 850,38 of meer bedraagt | – het inkomen € 850,38 of meer bedraagt | – het inkomen € 850,38 of meer bedraagt | – het inkomen € 850,38 of meer bedraagt | 6,83% | x ink | – € 11,94 |
-| – het inkomen lager is dan € 850,38 | – het inkomen lager is dan € 850,38 | – het inkomen lager is dan € 850,38 | – het inkomen lager is dan € 850,38 | 6,83% | x ink |   |
+| a. alleenstaande |   |   |   | 6,38% | x ink |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| b. alleenstaande ouder, indien | b. alleenstaande ouder, indien | b. alleenstaande ouder, indien |   |   |   |   |   |
+| – het inkomen € 1.042,55 of meer bedraagt | – het inkomen € 1.042,55 of meer bedraagt | – het inkomen € 1.042,55 of meer bedraagt | – het inkomen € 1.042,55 of meer bedraagt | 6,24% | x ink | – € 13,49 |   |
+| – het inkomen lager is dan € 1.042,55 | – het inkomen lager is dan € 1.042,55 | – het inkomen lager is dan € 1.042,55 |   | 6,24% | x ink |   |   |
+| c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | c. gehuwden, waarvan beide echtgenoten de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) hebben bereikt | 6,68% | x ink |   |   |
+| d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien | d. gehuwden, waarvan een echtgenoot de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a) heeft bereikt en de andere echtgenoot jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, indien |   |   |   |
+| – het inkomen € 865,13 of meer bedraagt | – het inkomen € 865,13 of meer bedraagt | – het inkomen € 865,13 of meer bedraagt | – het inkomen € 865,13 of meer bedraagt | 6,68% | x ink | – € 12,06 |   |
+| – het inkomen lager is dan € 865,13 | – het inkomen lager is dan € 865,13 | – het inkomen lager is dan € 865,13 |   | 6,69% | x ink |   |   |
 
 2. Indien de belanghebbende, bedoeld in het eerste lid, naast het gekorte ouderdomspensioen en toeslag, bedoeld in het eerste lid, een ander inkomen heeft dat recht geeft op vakantietoeslag bedraagt de aanspraak op die vakantietoeslag 8% van dat andere inkomen.
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
-##### Artikel 15. Incidentele aanvullende uitkering
+##### Artikel 15. Incidentele aanvullende uitkering 2014
 
 1. Een verzoek tot een incidentele aanvullende uitkering wordt in de periode van 1 januari tot en met 31 juli van het kalenderjaar volgend op het kalenderjaar waarop het verzoek betrekking heeft, door de toetsingscommissie ontvangen. Een verzoek, dat door de toetsingscommissie wordt ontvangen na 31 juli wordt niet behandeld, met dien verstande dat indien [artikel 8b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=8b), onderscheidenlijk [artikel 40 van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=40) en [artikel 40 van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=40) van toepassing is het verzoek niet in behandeling wordt genomen indien het wordt ontvangen na 31 augustus.
 
@@ -221,7 +229,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 - a. een uitzonderlijke situatie op de arbeidsmarkt, en
 
-- b. een overstijging als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), die niet het gevolg is van:
+- b. een overstijging als bedoeld in [artikel 10, eerste lid, onderdeel b, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), die niet het gevolg is van:
 
 - 1°. onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), welke onrechtmatigheid blijkt uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), of
 
@@ -239,7 +247,7 @@ Indien de belanghebbende de pensioengerechtigde leeftijd, bedoeld in [artikel 7a
 
 8. Indien naar het oordeel van de toetsingscommissie met betrekking tot een gemeente met maximaal 40.000 inwoners geen sprake is van een uitzonderlijke situatie op de arbeidsmarkt als bedoeld in het vierde lid, onderdeel a, kan de toetsingscommissie het gevoerde gemeentelijk beleid en de uitvoering daarvan bij de oordeelsvorming betrekken en indien dat beleid of de uitvoering daarvan daartoe aanleiding geeft, alsnog tot het oordeel komen dat het verzoek voor inwilliging in aanmerking kan komen, tenzij het gemeentelijk handhavings- en sanctiebeleid, dan wel de uitvoering daarvan naar het oordeel van de toetsingscommissie ontoereikend is.
 
-9. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
+9. Met betrekking tot gemeenten met 10.000 of minder inwoners kan een verzoek tot een incidentele aanvullende uitkering voor inwilliging in aanmerking komen, indien naar het oordeel van de toetsingscommissie de overstijging, bedoeld in artikel in [artikel 10, eerste lid, onderdeel b, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10), niet het gevolg is van een onrechtmatige uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044) of de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163).
 
 #### § 7. Toetsingscriteria aanvullende uitkering gemeente
 
@@ -249,7 +257,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2004.
 
 ##### Artikel 17. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling WWB, IOAW en IOAZ.
+Deze regeling wordt aangehaald als: Regeling Participatiewet, IOAW en IOAZ.
 
 ## Bijlage 1
 
@@ -293,7 +301,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a. Indexering
 
-1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2014-07-12&g=2014-07-12), herzien met het percentage van deze wijziging.
+1. Met ingang van de dag waarop de bedragen, genoemd in [artikel 2, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) wijzigen, worden de bedragen, genoemd in [artikel 7, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=5&artikel=7&z=2015-01-01&g=2015-01-01), herzien met het percentage van deze wijziging.
 
 2. Van de herziene bedragen, bedoeld in het eerste lid, en van de dag waarop de herziening plaatsvindt wordt door de minister mededeling gedaan in de Staatscourant.
 
@@ -313,7 +321,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 1. Een verzoek tot een meerjarige aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 31 maart van het eerste kalenderjaar waarop het verzoek betrekking heeft.
 
-2. Een verzoek als bedoeld in het eerste lid gaat vergezeld van gegevens op grond waarvan de toetsingscommissie kan beoordelen of voldaan is aan de vereisten, genoemd in [artikel 10a, eerste lid, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a).
+2. Een verzoek als bedoeld in het eerste lid gaat vergezeld van gegevens op grond waarvan de toetsingscommissie kan beoordelen of voldaan is aan de vereisten, genoemd in [artikel 10a, eerste lid, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a).
 
 3. Een verzoek tot een meerjarige aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.
 
@@ -323,15 +331,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 - a. beslist uiterlijk 31 december van het kalenderjaar waarin het verzoek als bedoeld in het eerste lid is ingediend of dat verzoek wordt gehonoreerd en of de eigen bijdrage 2,5%, 5% of 7,5% bedraagt;
 
-- b. stelt, na toewijzing van het verzoek, de hoogte van elk van de delen vast binnen zes weken na 15 juli van het kalenderjaar volgend op het kalenderjaar waarop het desbetreffende deel betrekking heeft of, indien een gemeente haar verantwoording over de uitvoering van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) niet uiterlijk 15 juli bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.
+- b. stelt, van een toegewezen verzoek, de hoogte van het uitkeringsdeel dat betrekking heeft op 2014 vast binnen zes weken na 15 juli 2015 of, indien een gemeente haar verantwoording over de uitvoering van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) in 2014 op de wijze als bedoeld in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) niet uiterlijk 15 juli 2015 bij Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ingediend, binnen zes weken na indiening van de verantwoordingsinformatie.
 
-6. Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a), bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.
+6. Het percentage, bedoeld in [artikel 10a, eerste lid, onderdeel c, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a), bedraagt 4,2% voor het kalenderjaar 2011 en 0% voor de kalenderjaren 2012 en 2013.
 
 #### § 8. Slotbepalingen
 
 ##### Artikel 6a. Correctiefactor te late indiening verantwoordingsinformatie
 
-De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit WWB 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=8a), bedraagt 5%.
+De correctiefactor, bedoeld in [artikel 8a, tweede lid, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=8a), bedraagt 5%.
 
 #### § 6. Vakantietoeslag
 
@@ -412,32 +420,119 @@ Deze regeling is mede gebaseerd op de [artikelen 20a, tiende lid](https://wetten
 
 Vervallen
 
-## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2014-07-12&g=2014-07-12) van de Regeling WWB, IOAW en IOAZ
+## Bijlage. Voorlopig verslag over de uitvoering [Wet werk en bijstand 2006](onbekend)
 
-Voor de verdeelmaatstaven, bedoeld in de [bijlage bij het Besluit WWB 2007](onbekend), gelden de volgende peiljaren, peildata en gewichten:
+Vervallen
 
-| Verdeelmaatstaf | Verdeelmaatstaf | Peiljaar | Peildatum | Gewicht |
-| --- | --- | --- | --- | --- |
-| **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** | **Sociale en demografische structuur** |
-| 1. | Lage inkomens 15–64 jaar (in % van de huishoudens van 15-64 jaar met inkomen) | 2008–2010 | – | 36,033 |
-| 2. | Eénouderhuishoudens van 15–44 jaar (in % van huishoudens van 15-64 jaar) | 2011–2013 | – | 97,863 |
-| 3. | Arbeidsongeschiktheidsuitkeringen: WIA, WAO, WAJONG en WAZ (in % van inwoners van 15–64 jaar) | 2012 | 31 december | –25,736 |
-| 4. | Totaal allochtonen van 15–64 jaar (in % van alle inwoners van 15-64 jaar) | 2011–2013 | – | 2,070 |
-| 5. | Laagopgeleiden 15–64 jaar (in % van inwoners van 15-64 jaar) | 2010–2012 | – | 5,981 |
-| **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** | **Centrumfunctie en stedelijkheid** |
-| 6. | Huurwoningen (in % van het totaal aantal woningen) | 2012 | 1 januari | 4,628 |
-| 7. | Relatief regionaal klantenpotentieel (regionaal klantenpotentieel in % van het aantal inwoners) | 2012 | 1 januari | 1,974 |
-| 8. | Inwoners stedelijk gebied (aantal inwoners in gebied met meer dan 1000 omgevingsadressen per vierkante kilometer, in % van het aantal inwoners) | 2012 | 1 januari | –2,150 |
-| **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** | **Conjunctuur en economische structuur** |
-| 9. | Werkzame beroepsbevolking (in % van totale beroepsbevolking) op COROP-niveau | 2010–2012 | – | –51,794 |
-| 10. | Banen handel en horeca in COROP-regio (in % totaal aantal banen COROP-regio) | 2011 | december | –17,230 |
-| 11. | Procentuele gemiddelde jaarlijkse banengroei in COROP-regio | 2009–2011 | – | –28,524 |
-| 12. | Aantal banen in COROP-regio (in % van de beroepsbevolking in COROP-regio) | 2011 | december | –1,782 |
-| 13. | Gemiddelde jaarlijkse bevolkingsgroei 15–64 jaar | 2008–2012 | – | –22,685 |
-| **Overig** | **Overig** | **Overig** | **Overig** | **Overig** |
-| 14. | Vaste voet per huishouden van 15–64 jaar | – | – | 4.777,639 |
-| **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** | **Overige berekeningsgegevens** |
-| Totaal aantal inwoners | Totaal aantal inwoners | 2013 | 1 januari |   |
-| Aantal huishoudens 15-64 jaar | Aantal huishoudens 15-64 jaar | 2013 | 1 januari |   |
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
+
+##### Artikel 15aa. Aanvullende uitkering Participatiewet 2015
+
+1. Een verzoek tot een aanvullende uitkering wordt door de toetsingscommissie ontvangen in de periode van 1 januari tot en met 15 augustus 2016.
+
+2. Een verzoek als bedoeld in het eerste lid gaat vergezeld van documenten waaruit blijkt dat voldaan is aan [artikel 10a, tweede lid, van het Besluit Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0020183&artikel=10a).
+
+3. Een verzoek tot een aanvullende uitkering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.
+
+4. Een verzoek dat door de toetsingscommissie wordt ontvangen na 15 augustus 2016 wordt niet in behandeling genomen.
+
+5. De toetsingscommissie adviseert de minister uiterlijk 31 oktober 2016 over de te nemen beslissing.
+
+6. De toetsingscommissie kan de minister voor 15 oktober 2016 verzoeken om een aantal adviezen later dan 31 oktober vast te stellen.
+
+7. Indien de minister aan een verzoek als bedoeld in het zesde lid voldoet, bepaalt hij daarbij het aantal adviezen dat later kan worden vastgesteld en de datum waarop deze adviezen uiterlijk door de minister worden ontvangen.
+
+#### § 7a. Verrekening IOAW en IOAZ
+
+#### § 8. Slotbepalingen
+
+## Bijlage. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0015738&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01) van de Regeling WWB, IOAW en IOAZ
+
+Voor de variabelen en kenmerken, bedoeld in de bijlage bij het Besluit Participatiewet, gelden de in de tabellen 1, 2 en 3 genoemde gewichten, peiljaren en peildata:
+
+| Variabelen verklaringsmodel | gewichten |
+| --- | --- |
+| **Huishoudenskenmerken** |   |
+| Eenoudergezin met een vrouw aan het hoofd | 0,9929893 |
+| Eenoudergezin met een man aan het hoofd | 0,1954754 |
+| Paar zonder kinderen | – 1,855849 |
+| Paar met kinderen | – 0,912608 |
+| Aanwezigheid van een persoon in de leeftijd van 15-24 jaar | – 0,7454493 |
+| Aanwezigheid van een persoon in de leeftijd van 55-65 jaar | 0,3685052 |
+| Wonend in een koopwoning | – 2,237492 |
+| Hebben van een niet-westerse achtergrond | 0,7389134 |
+| Aanwezigheid van een persoon met als hoogst voltooide opleiding maximaal MBO-2 | 0,6825488 |
+| Aanwezigheid van een persoon met als hoogst voltooide opleiding minimaal HBO | – 0,3606156 |
+| Aanwezigheid van een persoon met een arbeidsbeperking | 1,386715 |
+| Aanwezigheid van een persoon met een arbeidsongeschiktheidsuitkering | – 1,51222 |
+|   |   |
+| **Omgevingskenmerken** |   |
+| Gemiddelde WOZ-waarde (logaritmisch, buurt) | – 0,9823706 |
+| Matige leefbaarheid (buurt; score leefbaarheid ‘matig positief’ of lager) | 0,1115834 |
+| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) | – 5,157323 |
+| Aantal werkzame personen gedeeld door het aantal personen behorend tot de potentiële beroepsbevolking (COROP) | – 0,0336733 |
+| Constante | 9,27598783115645 |
+
+| Coropnummer | Corop-gebied | Gewichten |
+| --- | --- | --- |
+| 1 | Oost-Groningen | 0,0287366 |
+| 2 | Delfzijl en omgeving | 0,0041691 |
+| 3 | Overig Groningen | – 0,0020034 |
+| 4 | Noord-Friesland | 0,0511672 |
+| 5 | Zuidwest-Friesland | 0,0131981 |
+| 6 | Zuidoost-Friesland | 0,0305847 |
+| 7 | Noord-Drenthe | – 0,0156851 |
+| 8 | Zuidoost-Drenthe | 0,0341706 |
+| 9 | Zuidwest-Drenthe | – 0,0054661 |
+| 10 | Noord-Overijssel | 0,0175785 |
+| 11 | Zuidwest-Overijssel | – 0,0103792 |
+| 12 | Twente | – 0,0059694 |
+| 13 | Veluwe | – 0,0013673 |
+| 14 | Achterhoek | 0,0177850 |
+| 15 | Arnhem/Nijmegen | 0,0144432 |
+| 16 | Zuidwest-Gelderland | 0,0042343 |
+| 17 | Utrecht | 0,0138466 |
+| 18 | Kop van Noord-Holland | – 0,0349887 |
+| 19 | Alkmaar en omgeving | 0,0109207 |
+| 20 | IJmond | – 0,0309076 |
+| 21 | Agglomeratie Haarlem | – 0,0137986 |
+| 22 | Zaanstreek | – 0,0893619 |
+| 23 | Groot-Amsterdam | 0,0064124 |
+| 24 | Het Gooi en Vechtstreek | 0,0240646 |
+| 25 | Agglomeratie Leiden en Bollenstreek | – 0,0599105 |
+| 26 | Agglomeratie 's-Gravenhage | – 0,0206919 |
+| 27 | Delft en Westland | – 0,0143820 |
+| 28 | Oost-Zuid-Holland | – 0,0306929 |
+| 29 | Groot-Rijnmond | 0,0203106 |
+| 30 | Zuidoost-Zuid-Holland | – 0,0276734 |
+| 31 | Zeeuwsch-Vlaanderen | 0,0074094 |
+| 32 | Overig Zeeland | – 0,0058358 |
+| 33 | West-Noord-Brabant | 0,0015704 |
+| 34 | Midden-Noord-Brabant | 0,0491554 |
+| 35 | Noordoost-Noord-Brabant | 0,0091813 |
+| 36 | Zuidoost-Noord-Brabant | 0,1024445 |
+| 37 | Noord-Limburg | 0,0164543 |
+| 38 | Midden-Limburg | 0,0100414 |
+| 39 | Zuid-Limburg | – 0,0575708 |
+| 40 | Flevoland | 0,0196012 |
+
+| Kenmerken van gemeenten | Peiljaren | Peildata |
+| --- | --- | --- |
+| Aantal huishoudens van 15–64 jaar | 2014 | 1-1-2014 |
+| Totaal aantal huishoudens van 15–64 jaar, uitgesplitst naar alleenstaanden, eenoudergezinnen man, eenoudergezinnen vrouw, paren zonder kinderen en paren met kinderen | 2014 | 1-1-2014 |
+| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden van 15–64 jaar en van een niet-westerse herkomst | 2014 | 1-1-2014 |
+| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden in de leeftijd van 15–24 jaar | 2014 | 1-1-2014 |
+| Aantal huishoudens van 15–64 jaar met een persoon in het huishouden in de leeftijd van 55–64 jaar | 2014 | 1-1-2014 |
+| Percentage inwoners van 15–64 jaar met een arbeidsongeschiktheidsuitkering | 2013 | Ultimo 2013 |
+| Percentage inwoners van 15–64 jaar met een lage opleiding | 2011–2013 | – |
+| Percentage inwoners van 15–64 jaar met een hoge opleiding | 2011–2013 | – |
+| Percentage inwoners van 15–64 jaar met een arbeidsbeperking | 2009–2013 | – |
+| Percentage koopwoningen | 2012 | 1-1-2012 |
+| Percentage inwoners wonend in een buurt met een matige leefbaarheid | 2012 | – |
+| **Overige omgevingskenmerken** |   |   |
+| Gemiddelde WOZ-waarde (logaritmisch, buurt) | 2012 | 1-1-2012 (waardepeildatum 1-1-2011) |
+| Arbeidsmarktkansen voor hoogopgeleiden (met correcties voor grensoverschrijdende pendel) – gemeente | 2012 | – |
+| Aantal werkzame personen gedeeld door het aantal personen behorend tot de potentiële beroepsbevolking (COROP) = Netto participatie op COROP-niveau | 2013 | – |
+| COROP-indeling | 2014 | 1-1-2014 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die met ingang van 23 oktober 2003 ter inzage worden gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid te ’s-Gravenhage.
