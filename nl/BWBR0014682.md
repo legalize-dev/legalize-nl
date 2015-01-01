@@ -4,7 +4,7 @@ identifier: "BWBR0014682"
 country: "nl"
 rank: "wet"
 publication_date: "2022-01-01"
-last_updated: "2012-08-27"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014682"
 soort: "wet"
@@ -190,7 +190,7 @@ Een erkenning kan worden ingetrokken indien niet meer wordt voldaan aan het bepa
 
 2. Onze Minister verleent slechts een vergunning aan een laboratorium dat aannemelijk heeft gemaakt dat het kan voldoen aan de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake voor donoren vereiste laboratoriumtesten.
 
-3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2012-08-27&g=2012-08-27) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2012-08-27&g=2012-08-27) zijn van overeenkomstige toepassing.
+3. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=10&z=2015-01-01&g=2015-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=11&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing.
 
 ##### Artikel 13
 
@@ -244,9 +244,9 @@ Vervallen
 
 Vervallen
 
-##### Artikel 13
+##### Artikel 23
 
-Vervallen
+Een vergunning, verleend aan een orgaanbank op grond van [artikel 28 van de Wet op de orgaandonatie](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=28), wordt gelijkgesteld met een erkenning op grond van deze wet.
 
 ##### Artikel 14
 
@@ -260,7 +260,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 20a
 
-Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2012-08-27&g=2012-08-27), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2012-08-27&g=2012-08-27), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2012-08-27&g=2012-08-27), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2012-08-27&g=2012-08-27), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2012-08-27&g=2012-08-27).
+Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,– op te leggen ter zake van een gedraging die in strijd is met het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=I&artikel=3&z=2015-01-01&g=2015-01-01), [4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=5&z=2015-01-01&g=2015-01-01), [7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=II&artikel=7&z=2015-01-01&g=2015-01-01), of [20](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=IV&artikel=20&z=2015-01-01&g=2015-01-01).
 
 ##### Artikel 21
 
@@ -341,3 +341,11 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 Deze wet wordt aangehaald als: Wet veiligheid en kwaliteit lichaamsmateriaal.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 13
+
+1. De kosten die samenhangen met de verlening van de erkenning, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014682&hoofdstuk=III&artikel=9&z=2015-01-01&g=2015-01-01), kunnen ten laste worden gebracht van de aanvrager van het document.
+
+2. Bij de houder van de erkenning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.
+
+3. De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.
