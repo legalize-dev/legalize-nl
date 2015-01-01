@@ -4,7 +4,7 @@ identifier: "BWBR0025870"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-06-06"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025870"
 soort: "ministeriele-regeling"
@@ -90,11 +90,11 @@ De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolg
 
 - c. de kosten voor zorg, andere diensten of huishoudelijke verzorging aan de donor, waar van toepassing op indicatie, verleend in het kader van de voorbereiding van, de uitvoering van en het herstel na de donatie, bestaande uit:
 
-- 1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- 1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving);
 
-- 2°. de eigen bijdrage van de donor voor huishoudelijke verzorging verleend uit hoofde van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031);
+- 2°. de bijdrage van de donor voor een maatwerkvoorziening of persoonsgebonden budget ten behoeve van de zelfredzaamheid verleend krachtens de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&wetgeving);
 
-- 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614);
+- 3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving);
 
 - d. de kosten van reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie:
 
@@ -178,16 +178,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2014-06-06&g=2014-06-06), kan de minister de subsidie verhogen indien:
+1. Onverminderd [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2015-01-01&g=2015-01-01), kan de minister de subsidie verhogen indien:
 
 - a. de donor na 31 december 2010 is ontslagen uit het ziekenhuis waar de donatie is uitgevoerd dan wel, in geval de donatie niet is uitgevoerd, na 31 december 2010 de eerste kosten heeft gemaakt waarvoor subsidie wordt aangevraagd, en
 
-- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2014-06-06&g=2014-06-06), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
+- b. de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2015-01-01&g=2015-01-01), over het peiljaar lager zijn dan de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het jaar waarin de donatie wordt uitgevoerd.
 
-2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2014-06-06&g=2014-06-06), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
+2. De verhoging is het verschil tussen de gederfde belastbare inkomsten, berekend overeenkomstig [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=4&z=2015-01-01&g=2015-01-01), over het jaar waarin de donatie wordt uitgevoerd en de gederfde belastbare inkomsten, berekend overeenkomstig artikel 4, eerste lid, onder a, over het peiljaar.
 
 3. Bij de berekening van de gederfde belastbare inkomsten per week over het jaar waarin de donatie wordt uitgevoerd, blijft de tijd voor de voorbereiding van, de uitvoering van en het herstel na de donatie buiten beschouwing.
 
-4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2014-06-06&g=2014-06-06), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2014-06-06&g=2014-06-06) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2014-06-06&g=2014-06-06) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
+4. De verhoging kan ook worden verstrekt indien de subsidie reeds is vastgesteld. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=5&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=6&z=2015-01-01&g=2015-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0025870&artikel=7&z=2015-01-01&g=2015-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de termijn, bedoeld in artikel 5, tweede lid, twee jaar bedraagt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
