@@ -4,7 +4,7 @@ identifier: "BWBR0012741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2012-07-03"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012741"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-In een normaal beveiligde inrichting of afdeling worden jeugdigen, als bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), geplaatst alsmede jeugdigen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=2&artikel=2&z=2012-07-03&g=2012-07-03) niet in aanmerking komen voor plaatsing in een beperkt beveiligde inrichting of afdeling.
+In een normaal beveiligde inrichting of afdeling worden jeugdigen, als bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), geplaatst alsmede jeugdigen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=2&artikel=2&z=2012-07-03&g=2015-01-01) niet in aanmerking komen voor plaatsing in een beperkt beveiligde inrichting of afdeling.
 
 #### Paragraaf 3. Inrichtingen en afdelingen voor bijzondere opvang dan wel behandeling
 
@@ -114,11 +114,11 @@ Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de
 
 3. Indien de jeugdige een verzoek heeft ingediend als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=19) vraagt de selectiefunctionaris de directeur om advies.
 
-4. De selectiefunctionaris neemt met inachtneming van de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22a) en [22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22b) en op grond van de voordracht dan wel het advies van de directeur en de stukken die bij de voordracht of het advies zijn gevoegd en met inachtneming van [artikel 12, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) een beslissing over de overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2012-07-03).
+4. De selectiefunctionaris neemt met inachtneming van de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22a) en [22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22b) en op grond van de voordracht dan wel het advies van de directeur en de stukken die bij de voordracht of het advies zijn gevoegd en met inachtneming van [artikel 12, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) een beslissing over de overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01).
 
-5. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2012-07-03), met inachtneming van [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c).
+5. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01), met inachtneming van [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c).
 
-6. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2012-07-03), met inachtneming van [artikel 22d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22d).
+6. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01), met inachtneming van [artikel 22d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22d).
 
 ##### Artikel 9
 
