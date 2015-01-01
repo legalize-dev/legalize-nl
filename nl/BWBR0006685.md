@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2014-01-01"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2014-01-01&g=2014-01-01);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -75,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het plaatsen van asielzoekers op gemeentelijke opvangplaatsen, alsmede het betalen van bijdragen aan de desbetreffende gemeente ten behoeve van de kosten van deze opvang;
 
-- d. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 60a, onderdeel a, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=60a) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
+- d. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](511509) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
 
 - e. door Onze Minister aan het COA op te dragen andere taken die samenhangen met de opvang van asielzoekers.
 
@@ -93,7 +93,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -135,11 +135,11 @@ Het COA heeft een bestuur en een raad van toezicht.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01).
 
 2. Alle bevoegdheden van het COA die niet bij of krachtens de wet aan de raad van toezicht zijn toegekend, komen toe aan het bestuur.
 
-3. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2014-01-01&g=2014-01-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+3. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
@@ -181,7 +181,7 @@ Het COA heeft een bestuur en een raad van toezicht.
 
 4. De raad van toezicht adviseert Onze Minister in ieder geval omtrent:
 
-- a. het reglement van het bestuur, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=8&z=2014-01-01&g=2014-01-01), en
+- a. het reglement van het bestuur, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), en
 
 - b. de aan het lidmaatschap van het bestuur verbonden bezoldiging of schadeloosstelling, bedoeld in [artikel 14 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
 
@@ -189,7 +189,7 @@ Het COA heeft een bestuur en een raad van toezicht.
 
 6. De raad van toezicht bespreekt ten minste eens per jaar in afwezigheid van het bestuur zijn functioneren, dat van het bestuur en de daaraan te verbinden conclusies met Onze Minister.
 
-7. Indien het jaarverslag van de raad van toezicht niet tezamen met het jaarverslag van het bestuur, bedoeld in [artikel 10, zevende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=10&z=2014-01-01&g=2014-01-01), wordt uitgebracht, stelt de raad van toezicht zijn jaarverslag, in afwijking van [artikel 18 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), binnen een maand na de vaststelling van de jaarrekening op.
+7. Indien het jaarverslag van de raad van toezicht niet tezamen met het jaarverslag van het bestuur, bedoeld in [artikel 10, zevende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01), wordt uitgebracht, stelt de raad van toezicht zijn jaarverslag, in afwijking van [artikel 18 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), binnen een maand na de vaststelling van de jaarrekening op.
 
 #### § 3. Ministeriële bevoegdheden
 
@@ -341,9 +341,9 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het bestuur stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.
 
-2. Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031&artikel=1).
+2. Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1).
 
-3. Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1 van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1).
+3. Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 4. Het bestuur bevordert de kennis en het gebruik van de meldcode.
 
