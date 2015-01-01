@@ -4,7 +4,7 @@ identifier: "BWBR0034369"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-01"
-last_updated: "2013-12-18"
+last_updated: "2015-01-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034369"
 soort: "wet"
@@ -58,19 +58,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 1. De bepalingen van het burgerlijk recht zijn op het ouderlijk gezag van toepassing, voor zover niet uit deze wet het tegendeel volgt.
 
-2. Niet van toepassing zijn de [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=235), [241 tot en met 242](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), [253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha), [253l](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253l), [253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253s), [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t), [254](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=254), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266), [269](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=269), [272](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=272), [342, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=242), [344](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=344), [349](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=349) en [370 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=370).
+2. Niet van toepassing zijn de [artikelen 235](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=235), [241 tot en met 242](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241), [253ha](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253ha), [253l](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253l), [253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253s), [253t](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253t), [253z](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253z), [255](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255), [257](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=257), [266](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=266), [268](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=268), [342, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=242), [344](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=344), [349](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=349) en [370 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=370).
 
 ##### Artikel 3
 
-1. Bij de uitoefening van het ouderlijk gezag, zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2013-12-18&g=2013-12-18), wordt Onze voornoemde echtgenote bijgestaan door een College van Toezicht, dat aanstonds na het in werking treden van deze wet wordt samengesteld.
+1. Bij de uitoefening van het ouderlijk gezag, zoals bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01), wordt Onze voornoemde echtgenote bijgestaan door een College van Toezicht, dat aanstonds na het in werking treden van deze wet wordt samengesteld.
 
 2. Leden van dit College zijn twee bij koninklijk besluit, de Raad van State gehoord, aan te wijzen Nederlanders alsmede de vicepresident van de Raad van State, de president van de Algemene Rekenkamer en de president van de Hoge Raad der Nederlanden.
 
-3. Zo spoedig mogelijk nadat de minderjarige opvolger Koning is geworden en de leden de bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=6&z=2013-12-18&g=2013-12-18) voorgeschreven eed of belofte hebben afgelegd, roept de vicepresident van de Raad van State, die als voorzitter van het College fungeert, het College bijeen teneinde een secretaris te doen benoemen en de orde der werkzaamheden en de bijeenkomsten te doen regelen.
+3. Zo spoedig mogelijk nadat de minderjarige opvolger Koning is geworden en de leden de bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=6&z=2015-01-01&g=2015-01-01) voorgeschreven eed of belofte hebben afgelegd, roept de vicepresident van de Raad van State, die als voorzitter van het College fungeert, het College bijeen teneinde een secretaris te doen benoemen en de orde der werkzaamheden en de bijeenkomsten te doen regelen.
 
 ##### Artikel 4
 
-1. De bij koninklijk besluit aangewezen leden van het College kunnen, zolang de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2013-12-18&g=2013-12-18), bedoelde situatie zich niet voordoet, bij koninklijk besluit, de Raad van State gehoord, worden ontslagen en vervangen.
+1. De bij koninklijk besluit aangewezen leden van het College kunnen, zolang de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde situatie zich niet voordoet, bij koninklijk besluit, de Raad van State gehoord, worden ontslagen en vervangen.
 
 2. Gedurende de periode dat Onze voornoemde echtgenote het ouderlijk gezag over ten minste een van de uit Ons huwelijk geboren minderjarige kinderen uitoefent, kunnen zij worden ontslagen en vervangen bij wet.
 
@@ -100,7 +100,7 @@ Alvorens het lidmaatschap te aanvaarden legt elk lid van het College in handen v
 
 ##### Artikel 8
 
-1. Zo spoedig mogelijk nadat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2013-12-18&g=2013-12-18) bedoelde situatie zich voordoet, gaat Onze voornoemde echtgenote, in tegenwoordigheid van drie leden van het College, daartoe door het College aangewezen, over tot inventarisering van het vermogen van elk van de minderjarigen.
+1. Zo spoedig mogelijk nadat de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034369&artikel=1&z=2015-01-01&g=2015-01-01) bedoelde situatie zich voordoet, gaat Onze voornoemde echtgenote, in tegenwoordigheid van drie leden van het College, daartoe door het College aangewezen, over tot inventarisering van het vermogen van elk van de minderjarigen.
 
 2. Deze boedelbeschrijving wordt opgemaakt bij notariële akte.
 
