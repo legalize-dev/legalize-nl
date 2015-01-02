@@ -4,7 +4,7 @@ identifier: "BWBR0036013"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2015-01-01"
+last_updated: "2015-01-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036013"
 soort: "wet"
@@ -235,7 +235,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXXVIa. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in [artikel IX, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=IX&z=2015-01-01&g=2015-01-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in [artikel IX, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=IX&z=2015-01-02&g=2015-01-02), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
 
 2. Dit artikel vervalt zes maanden na de inwerkingtreding van het artikelonderdeel, genoemd in het eerste lid.
 
@@ -245,7 +245,7 @@ De [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) wor
 
 ##### Artikel XXXVIc. Overgangsrecht in verband met intrekking [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-1. Op uitkeringen die zijn verleend of verstrekt aan een college van burgemeester en wethouders op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) voor het tijdstip van inwerkingtreding van [artikel XXXVIB](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XXXVIb&z=2015-01-01&g=2015-01-01) van deze wet blijven de Wet participatiebudget en de daarop berustende bepalingen zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding artikel XXXVIB van deze wet, van toepassing.
+1. Op uitkeringen die zijn verleend of verstrekt aan een college van burgemeester en wethouders op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) voor het tijdstip van inwerkingtreding van [artikel XXXVIB](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XXXVIb&z=2015-01-02&g=2015-01-02) van deze wet blijven de Wet participatiebudget en de daarop berustende bepalingen zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding artikel XXXVIB van deze wet, van toepassing.
 
 2. Middelen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=2) of [artikel 4 van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=4) of daarop berustende bepalingen zijn gereserveerd voor besteding in 2015 met uitzondering van het bedrag dat door Onze Minister van Onderwijs, Cultuur en Wetenschap beschikbaar is gesteld, kunnen door het college van burgemeester en wethouders in 2015 vrij worden besteed binnen de kaders van een integratie-uitkering op grond van de Financiële-verhoudingswet. Dit gereserveerde bedrag wordt niet teruggevorderd op de wijze, bedoeld in artikel 4, tweede en derde lid, van de Wet participatiebudget, zoals dat artikel luidde op de dag, bedoeld in het eerste lid.
 
