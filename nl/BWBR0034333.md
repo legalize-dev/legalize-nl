@@ -4,7 +4,7 @@ identifier: "BWBR0034333"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-01-06"
-last_updated: "2014-01-06"
+last_updated: "2015-01-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034333"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 30 oktober 2013
 Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 25 november 2013, nr. 2013-0000662142;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Wet basisregistratie personen in werking treedt.
 
 ### Hoofdstuk 1. Ministerie van Buitenlandse Zaken
 
@@ -274,7 +276,7 @@ Wijzigingsbesluit Besluit donorregister (wijziging donorformulier)
 
 ##### Artikel 11.1
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306) in werking treedt, met uitzondering van [artikel 2.6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034333&hoofdstuk=2&artikel=2.6&z=2014-01-06&g=2014-01-06), dat een jaar na dat tijdstip in werking treedt.
+Dit besluit treedt in werking op het tijdstip waarop de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0034306) in werking treedt, met uitzondering van [artikel 2.6, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034333&hoofdstuk=2&artikel=2.6&z=2015-01-06&g=2015-01-06), dat een jaar na dat tijdstip in werking treedt.
 
 ##### Artikel 11.2
 
