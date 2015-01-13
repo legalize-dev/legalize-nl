@@ -4,7 +4,7 @@ identifier: "BWBR0013130"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-01-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013130"
 soort: "AMvB"
@@ -72,10 +72,6 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2a
 
-1. [Hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) is van overeenkomstige toepassing op iedere wijziging van de organisatiestructuur, de omvang of de taakinhoud van een tot de rechterlijke macht behorend gerecht, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak, het bureau van de Raad voor de rechtspraak, het parket bij de Hoge Raad, een tot het openbaar ministerie behorend parket, een onder de Raad voor de rechtspraak of het College van procureurs-generaal ressorterende dienst, of een onderdeel daarvan, niet zijnde de rijksrecherche, waaraan personele consequenties zijn verbonden.
-
-2. Indien de bepalingen van [hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) worden toegepast op een rechtbank, een gerechtshof, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak of het bureau van de Raad voor de rechtspraak, dient voor Onze Minister telkens te worden gelezen: het gerechtsbestuur of de Raad voor de rechtspraak.
-
-3. Voor de toepassing van [hoofdstuk VII van het Algemeen rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&hoofdstuk=VII) is van overtolligheid eveneens sprake indien binnen het te reorganiseren tot de rechterlijke macht behorend gerecht, de Centrale Raad van Beroep, het College van Beroep voor het bedrijfsleven, de Raad voor de rechtspraak, het bureau van de Raad voor de rechtspraak, het parket bij de Hoge Raad, een tot het openbaar ministerie behorend parket, een onder de Raad voor de rechtspraak of het College van procureurs-generaal ressorterende dienst, of een onderdeel daarvan, niet zijnde de rijksrecherche, meer ambtenaren een vergelijkbare of uitwisselbare functie vervullen en het totale aantal van die functies zodanig wordt verminderd dat onvoldoende van die functies voor de betrokken ambtenaren resteren.
+Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
