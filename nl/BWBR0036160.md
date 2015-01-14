@@ -4,7 +4,7 @@ identifier: "BWBR0036160"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-05-23"
-last_updated: "2014-03-21"
+last_updated: "2015-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036160"
 soort: "ministeriele-regeling"
@@ -38,11 +38,11 @@ entry_into_force: "2015-01-14"
 
 ##### Artikel 1. Opening aanvraagtijdvak
 
-Dit onderdeel is nog niet inwerking getreden
+Aanvragen op grond van de [Regeling cofinanciering sectorplannen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&wetgeving) kunnen worden ingediend gedurende de periode van 15 januari 2015 tot en met 29 mei 2015.
 
 ##### Artikel 2. Subsidieplafond
 
-Dit onderdeel is nog niet inwerking getreden
+Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036160&artikel=1&z=2015-01-14&g=2015-01-14), bedraagt 150 miljoen EUR.
 
 ##### Artikel 3. Wijziging van andere wetgeving
 
@@ -50,7 +50,9 @@ Wijzigt de Regeling openstelling aanvraagtijdvak en vaststelling subsidieplafond
 
 ##### Artikel 4. Inwerkingtreding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling, met uitzondering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036160&artikel=3&z=2015-01-14&g=2015-01-14), treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036160&artikel=3&z=2015-01-14&g=2015-01-14) treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 21 maart 2014.
 
 Gelet op [artikel 1.4 van de Regeling cofinanciering sectorplannen](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&artikel=1.4) en [artikel 1.4 van de Regeling cofinanciering sectorplannen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035840&artikel=1.4);
 
