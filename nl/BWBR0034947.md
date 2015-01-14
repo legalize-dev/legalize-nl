@@ -4,7 +4,7 @@ identifier: "BWBR0034947"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-14"
-last_updated: "2014-03-21"
+last_updated: "2015-01-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034947"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Aanvragen op grond van de [Regeling cofinanciering sectorplannen](https://wetten
 
 ##### Artikel 2. Subsidieplafond
 
-Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034947&artikel=1&z=2014-03-21&g=2014-03-21), bedraagt 200 miljoen EUR.
+Het subsidieplafond voor het aanvraagtijdvak, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034947&artikel=1&z=2015-01-14&g=2015-01-14), bedraagt 205 miljoen EUR.
 
 ##### Artikel 3. Inwerkingtreding
 
