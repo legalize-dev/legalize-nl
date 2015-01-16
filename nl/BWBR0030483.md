@@ -4,7 +4,7 @@ identifier: "BWBR0030483"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-16"
-last_updated: "2012-01-01"
+last_updated: "2015-01-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030483"
 soort: "ministeriele-regeling"
@@ -40,23 +40,25 @@ Gelet op [artikel 9a, tweede lid, van de Wet opneming buitenlandse kinderen ter 
 
 Besluit:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet Wet opneming buitenlandse kinderen ter adoptie (tegemoetkoming gemaakte kosten interlandelijke adoptie) in werking treedt.
+
 ##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
 - a. **de Wet:** de [Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447);
 
-- b. **het Agentschap:** het Agentschap SZW van het Ministerie van Sociale Zaken en Werkgelegenheid.
+- b. **de Centrale autoriteit internationale kinderaangelegenheden:** de Centrale autoriteit internationale kinderaangelegenheden bij het Ministerie van Veiligheid en Justitie.
 
 ##### Artikel 2. Regels omtrent de aanvraag van de tegemoetkoming
 
 Op grond van [hoofdstuk 3A van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&hoofdstuk=3a) kan adoptiefouders een tegemoetkoming worden verleend in de gemaakte kosten met betrekking tot interlandelijke adoptie. Ten aanzien van de aanvraag van de tegemoetkoming gelden de volgende regels:
 
-- 1. De aanvraag voor een tegemoetkoming wordt ingediend bij het Agentschap.
+- 1. De aanvraag voor een tegemoetkoming wordt ingediend bij de Centrale autoriteit internationale kinderaangelegenheden.
 
 - 2. De aanvraag kan worden ingediend vanaf het moment van inwerkingtreding van deze regeling.
 
-- 3. De aanvraag wordt schriftelijk of digitaal ingediend met gebruikmaking van een ondertekend formulier zoals dat verkrijgbaar is bij het Agentschap.
+- 3. De aanvraag wordt schriftelijk of digitaal ingediend met gebruikmaking van een ondertekend formulier zoals dat verkrijgbaar is bij de Centrale autoriteit internationale kinderaangelegenheden.
 
 ##### Artikel 3. Inwerkingtreding
 
