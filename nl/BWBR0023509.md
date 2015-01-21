@@ -4,7 +4,7 @@ identifier: "BWBR0023509"
 country: "nl"
 rank: "zbo"
 publication_date: "2023-10-03"
-last_updated: "2013-07-11"
+last_updated: "2015-01-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023509"
 soort: "zbo"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-De inspecteurs van de directie Handhaving van UWV worden aangewezen als toezichthouders, belast met het toezicht op de naleving van in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) en [artikel 32d van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d) bedoelde wet- en regelgeving en het bepaalde in de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54) en [55 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), voor zover het geen verplichtingen betreft die betrekking hebben op UWV.
+De inspecteurs en de themaonderzoekers van de directie Handhaving van UWV worden aangewezen als toezichthouders, belast met het toezicht op de naleving van in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30) en [artikel 32d van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32d) bedoelde wet- en regelgeving en het bepaalde in de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=54) en [55 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=55), voor zover het geen verplichtingen betreft die betrekking hebben op UWV.
 
 ##### Artikel 2
 
