@@ -4,7 +4,7 @@ identifier: "BWBR0032381"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-02"
-last_updated: "2013-01-01"
+last_updated: "2015-01-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032381"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Veiligheidsregio Zuid-Holland Zuid is voor regio Zuid-Holland Zuid de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4).
+Dienst Gezondheid & Jeugd Zuid-Holland Zuid is voor regio Zuid-Holland Zuid de Regionale Ambulancevoorziening, bedoeld in [artikel 4 van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=4).
 
 ##### Artikel 2
 
