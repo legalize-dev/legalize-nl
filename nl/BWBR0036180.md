@@ -4,7 +4,7 @@ identifier: "BWBR0036180"
 country: "nl"
 rank: "kb"
 publication_date: "2015-01-24"
-last_updated: "2015-01-01"
+last_updated: "2015-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036180"
 soort: "KB"
@@ -51,7 +51,7 @@ De taken van het ministerie van Defensie en van het ministerie van Binnenlandse 
 
 ##### Artikel 3
 
-De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036180&artikel=1&z=2015-01-24&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036180&artikel=2&z=2015-01-24&g=2015-01-01) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Defensie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister voor Wonen en Rijksdienst.
+De organisatorische, personele en rechtspositionele aspecten van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036180&artikel=1&z=2015-01-24&g=2015-01-24) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036180&artikel=2&z=2015-01-24&g=2015-01-24) bedoelde herindeling van departementale taken worden uitgewerkt in overleg tussen Onze Minister van Defensie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 4
 
