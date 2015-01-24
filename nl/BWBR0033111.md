@@ -4,7 +4,7 @@ identifier: "BWBR0033111"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-01-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033111"
 soort: "ministeriele-regeling"
@@ -44,7 +44,13 @@ Besluit:
 
 De kostenvergoeding bedoeld in [artikel 48, tweede lid, van het Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544&artikel=48), bedraagt voor een:
 
-- a. **verklaring omtrent het gedrag natuurlijke personen:**€ 24,55, indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd, en € 30,05 in alle andere gevallen;
+- a. verklaring omtrent het gedrag natuurlijke personen:
+
+- 1°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd: € 24,55;
+
+- 2°. indien deze rechtstreeks elektronisch bij de Minister van Veiligheid en Justitie wordt aangevraagd teneinde op vrijwillige basis te werken met minderjarigen of verstandelijk beperkten: € 0,00, voor zover voldaan wordt aan nader te stellen beleidsregels;
+
+- 3°. in alle andere gevallen: € 30,05;
 
 - b. verklaring omtrent het gedrag rechtspersonen: € 147,50.
 
