@@ -4,7 +4,7 @@ identifier: "BWBR0009867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-03-01"
-last_updated: "2014-05-01"
+last_updated: "2015-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009867"
 soort: "AMvB"
@@ -116,7 +116,7 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dode dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
 
-- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2014-05-01&g=2014-05-01) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
+- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2015-01-29&g=2015-01-29) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
 
 - d. een nauwkeurige beschrijving van de nadelige gevolgen die de activiteit voor het Antarctisch milieu zal of kan veroorzaken, alsmede de aard en omvang van de te onderscheiden vormen van nadelige gevolgen, en de tijdseenheden waarbinnen deze zich kunnen voordoen, waaronder in ieder geval worden begrepen:
 
@@ -138,21 +138,37 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 1°. een beschrijving van de voorzorgsmaatregelen die worden getroffen om te voorkomen dat onbedoeld niet-steriele aarde en niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, gisten en schimmels binnen het Antarctisch gebied worden gebracht.
 
-- 2°. dit onderdeel is nog niet in werking getreden;
+- 2°. een beschrijving van de preventieve maatregelen die worden getroffen ter vermindering van het risico van milieubedreigende noodsituaties en de mogelijke gevolgen daarvan;
 
 - f. de nadelige invloeden die de activiteit kan hebben op andere bestaande of geplande activiteiten in het Antarctische gebied die de aanvrager redelijkerwijs bekend kunnen zijn, alsmede de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om deze invloeden zoveel mogelijk te voorkomen of te beperken;
 
 - g. de wijze en momenten waarop gedurende de uitvoering van de activiteit de nadelige gevolgen die de activiteit veroorzaakt, worden vastgesteld en geregistreerd;
 
-- h. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om snel en doeltreffend ongevallen te bestrijden, met name ongevallen die gevolgen voor het milieu kunnen hebben;
+- h. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om de gezondheid en veiligheid van de mens te waarborgen;
 
-- i. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen die voor de beslissing op de aanvraag van belang kunnen zijn;
+- i. de maatregelen – waaronder technologieën en procedures worden begrepen – die zijn of worden getroffen om snel en doeltreffend ongevallen te bestrijden, met name ongevallen die gevolgen voor het milieu kunnen hebben, waaronder een rampenplan waarin tenminste is aangegeven:
 
-- j. eventuele contacten die met andere organisatoren van activiteiten naar het Antarctisch gebied zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;
+- 1°. hoe de gezondheid en veiligheid, opsporing en redding, medische zorg en evacuatie van de deelnemers aan de activiteit wordt gewaarborgd en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
 
-- k. eventuele contacten die met andere landen die partij zijn bij het Protocol zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;
+- 2°. hoe ongevallen met mogelijk nadelige gevolgen voor het Antarctisch milieu worden bestreden en wie betrokken is bij de uitvoering van dat onderdeel van het rampenplan;
 
-- l. verzekeringen of andere financiële waarborgen die zijn verkregen ter dekking van de kosten die gemoeid zijn met de uitvoering van de activiteit en ter dekking van de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.
+- 3°. indien de organisator bij de uitvoering van het rampenplan afhankelijk is van de ondersteuning door partijen of andere organisatoren, een afschrift van de overeenkomst waaruit blijkt dat deze zich daartoe hebben verbonden;
+
+- j. de voor de aanvrager redelijkerwijs te verwachten ontwikkelingen die voor de beslissing op de aanvraag van belang kunnen zijn;
+
+- k. eventuele contacten die met andere organisatoren van activiteiten naar het Antarctisch gebied zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;
+
+- l. eventuele contacten die met andere landen die partij zijn bij het Protocol zijn gelegd in verband met de uitvoering van de activiteit, alsmede het doel van deze contacten;
+
+- m. een afschrift van de verzekeringspolis of een bewijs van andere financiële waarborgen die door de organisator zijn verkregen ter dekking van:
+
+- 1°. de kosten die betrekking hebben op opsporings- en reddingsacties, medische zorg en evacuatie. Voor zover de activiteit plaatsvindt aan boord van een schip of een luchtvaartuig, kan de organisator volstaan met het aantonen dat de verzekering of financiële zekerheid door een ander dan de organisator in stand wordt gehouden;
+
+- 2°. zijn aansprakelijkheid ingevolge [artikel 25c, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25c), tot een bedrag berekend overeenkomstig [artikel 25e, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009449&artikel=25e);
+
+- 3°. de kosten die gemoeid zijn met de uitvoering van de activiteit;
+
+- 4°. de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.
 
 ##### Artikel 4
 
@@ -204,7 +220,7 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
 
-- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2014-05-01&g=2014-05-01), met betrekking tot deze handelingen;
+- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2015-01-29&g=2015-01-29), met betrekking tot deze handelingen;
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
 
@@ -226,7 +242,15 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ##### Artikel 7a
 
-Dit onderdeel is nog niet inwerking getreden
+Indien de aanvraag mede betrekking heeft op het vanaf een schip aan land gaan in het Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens:
+
+- a. hoe wordt samengewerkt met andere in het desbetreffende deel van het Antarctisch gebied aanwezige organisatoren, om te voorkomen dat zich meer dan één toeristenschip bij een aanlandplaats bevindt;
+
+- b. hoe wordt gegarandeerd dat bij die aanlandingen het aantal passagiers dat tegelijkertijd aan wal is, op ieder moment beperkt blijft tot ten hoogste 100 personen;
+
+- c. hoe wordt gegarandeerd dat bij die aanlandingen er minimaal 1 gids per 20 passagiers aanwezig is;
+
+- d. over welke kwalificaties de gids, bedoeld in onderdeel c, beschikt.
 
 #### § 4. Slotbepalingen
 
