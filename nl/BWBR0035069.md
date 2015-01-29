@@ -4,7 +4,7 @@ identifier: "BWBR0035069"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-01-29"
-last_updated: "2014-05-01"
+last_updated: "2015-01-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035069"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Als formulier, bedoeld in [artikel 2, tweede lid, van het Besluit bescherming An
 
 ##### Artikel 2
 
-Op aanvragen die zijn ingediend voor de datum van inwerkingtreding van deze regeling blijft de regeling, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035069&artikel=3&z=2014-05-01&g=2014-05-01), van toepassing.
+Op aanvragen die zijn ingediend voor de datum van inwerkingtreding van deze regeling blijft de regeling, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035069&artikel=3&z=2015-01-29&g=2015-01-29), van toepassing.
 
 ##### Artikel 3
 
-De [Regeling van de Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer en de Minister van Landbouw, Natuurbeheer en Visserij van 2 november 2000, houdende de vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0011752&wetgeving) (Stcrt. 2000, 237) wordt ingetrokken.
+De [Regeling van de Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer en de Minister van Landbouw, Natuurbeheer en Visserij van 2 november 2000, houdende de vaststelling van het formulier voor het aanvragen van een vergunning op grond van de Wet bescherming Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBR0011752) (Stcrt. 2000, 237) wordt ingetrokken.
 
 ##### Artikel 4
 
@@ -60,6 +60,6 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling wordt aangehaald als: Regeling vaststelling formulier vergunningaanvragen Wet bescherming Antarctica.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035069&artikel=1&z=2014-05-01&g=2014-05-01)
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035069&artikel=1&z=2015-01-29&g=2015-01-29)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
