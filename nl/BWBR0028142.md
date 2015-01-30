@@ -4,7 +4,7 @@ identifier: "BWBR0028142"
 country: "nl"
 rank: "wet_bes"
 publication_date: "2025-02-12"
-last_updated: "2014-03-19"
+last_updated: "2015-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028142"
 soort: "wet-BES"
@@ -127,15 +127,23 @@ De gezaghebber is voorzitter van de eilandsraad.
 
 ##### Artikel 11
 
-1. Voor het lidmaatschap van de eilandsraad is vereist dat men Nederlander en ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.
+1. Voor het lidmaatschap van de eilandsraad is vereist dat men ingezetene van het openbaar lichaam is, de leeftijd van achttien jaar heeft bereikt en niet is uitgesloten van het kiesrecht.
 
 2. Onder ingezetene wordt verstaan hij die zijn werkelijke woonplaats in het openbaar lichaam heeft.
 
 3. Hij die als ingezetene met een adres is ingeschreven in de bevolkingsadministratie van een openbaar lichaam, wordt, behoudens bewijs van het tegendeel, geacht werkelijke woonplaats te hebben in het openbaar lichaam.
 
+4. Zij die geen Nederlander zijn, dienen tevens te voldoen aan de vereisten dat:
+
+- a. zij rechtmatig in Nederland verblijven op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3) of [artikel 6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6) of op grond van een verdrag tussen een internationale organisatie en de Staat der Nederlanden inzake de zetel van deze organisatie in Nederland, en
+
+- b. zij onmiddellijk voorafgaand aan de dag waarop de eilandsraad beslist over de toelating als lid tot de eilandsraad gedurende een onafgebroken periode van tenminste vijf jaren ingezetene van Nederland waren en beschikten over een verblijfsrecht als bedoeld onder a, dan wel rechtmatig in Nederland verbleven op grond van [artikel 8, onder a, b, c, d, e of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
+
+5. Geen lid van de eilandsraad kunnen zijn zij die geen Nederlander zijn, en als door andere staten uitgezonden leden van diplomatieke of consulaire vertegenwoordigingen, in Nederland werkzaam zijn, alsmede hun niet-Nederlandse echtgenoten, geregistreerde partners of levensgezellen en kinderen, voor zover dezen met hen een gemeenschappelijke huishouding voeren.
+
 ##### Artikel 12
 
-Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van de eilandsraad hij die na de laatstgehouden periodieke verkiezing van de leden van de eilandsraad wegens handelen in strijd met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19) van het lidmaatschap van de eilandsraad is vervallen verklaard.
+Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot lid van de eilandsraad hij die na de laatstgehouden periodieke verkiezing van de leden van de eilandsraad wegens handelen in strijd met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30) van het lidmaatschap van de eilandsraad is vervallen verklaard.
 
 ##### Artikel 13
 
@@ -173,7 +181,7 @@ Ter vervulling van een tussentijds opengevallen plaats is niet benoembaar tot li
 
 2. In afwijking van het eerste lid, aanhef en onder i, kan een lid van de eilandsraad tevens eilandgedeputeerde zijn van het openbaar lichaam waar hij lid van de eilandsraad is gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2014-03-19&g=2014-03-19), aftreden, of
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2015-01-30&g=2015-01-30), aftreden, of
 
 - b. aanvangt op het tijdstip van zijn benoeming tot eilandgedeputeerde en eindigt op het tijdstip met ingang waarvan de geloofsbrief van zijn opvolger als lid van de eilandsraad is goedgekeurd of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.
 
@@ -283,7 +291,7 @@ De eilandsraad vergadert na de periodieke verkiezing van zijn leden voor de eers
 
 1. De gezaghebber roept de leden schriftelijk tot de vergadering op.
 
-2. Tegelijkertijd met de oproeping brengt de gezaghebber dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de stukken, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2014-03-19&g=2014-03-19), worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
+2. Tegelijkertijd met de oproeping brengt de gezaghebber dag, tijdstip en plaats van de vergadering ter openbare kennis. De agenda en de daarbij behorende voorstellen met uitzondering van de stukken, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2015-01-30&g=2015-01-30), worden tegelijkertijd met de oproeping en op een bij de openbare kennisgeving aan te geven wijze ter inzage gelegd.
 
 ##### Artikel 21
 
@@ -317,7 +325,7 @@ De leden van het eilandsbestuur en andere personen die deelnemen aan de beraadsl
 
 5. Van een vergadering met gesloten deuren wordt een afzonderlijk verslag opgemaakt, dat niet openbaar wordt gemaakt tenzij de eilandsraad anders beslist.
 
-6. De eilandsraad maakt de besluitenlijst van zijn vergaderingen terstond na de vaststelling daarvan openbaar op de in het openbaar lichaam gebruikelijke wijze. De eilandsraad laat de openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2014-03-19&g=2014-03-19) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
+6. De eilandsraad maakt de besluitenlijst van zijn vergaderingen terstond na de vaststelling daarvan openbaar op de in het openbaar lichaam gebruikelijke wijze. De eilandsraad laat de openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2015-01-30&g=2015-01-30) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
 
 ##### Artikel 25
 
@@ -389,7 +397,7 @@ De leden van de eilandsraad stemmen zonder last.
 
 - a. ingeval opnieuw wordt gestemd over een voorstel of over een benoeming, voordracht of aanbeveling van een of meer personen ten aanzien van wie in een vorige vergadering een stemming op grond van dat lid niet geldig was;
 
-- b. in een vergadering als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=21&z=2014-03-19&g=2014-03-19), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=21&z=2014-03-19&g=2014-03-19), niet geopende vergadering aan de orde waren gesteld.
+- b. in een vergadering als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=21&z=2015-01-30&g=2015-01-30), voor zover het betreft onderwerpen die in de daaraan voorafgaande, ingevolge [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=21&z=2015-01-30&g=2015-01-30), niet geopende vergadering aan de orde waren gesteld.
 
 ##### Artikel 31
 
@@ -421,7 +429,7 @@ De leden van de eilandsraad stemmen zonder last.
 
 ##### Artikel 34
 
-De stukken die van de eilandsraad uitgaan, worden door de gezaghebber ondertekend en door de eilandgriffier medeondertekend. Bij verhindering of ontstentenis van de gezaghebber worden de stukken die van de eilandsraad uitgaan ondertekend door degene die krachtens [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=90&z=2014-03-19&g=2014-03-19) de gezaghebber als voorzitter van de eilandsraad vervangt.
+De stukken die van de eilandsraad uitgaan, worden door de gezaghebber ondertekend en door de eilandgriffier medeondertekend. Bij verhindering of ontstentenis van de gezaghebber worden de stukken die van de eilandsraad uitgaan ondertekend door degene die krachtens [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=90&z=2015-01-30&g=2015-01-30) de gezaghebber als voorzitter van de eilandsraad vervangt.
 
 ##### Artikel 35
 
@@ -457,7 +465,7 @@ Het aantal eilandgedeputeerden bedraagt:
 
 ##### Artikel 39
 
-1. Voor de functie van eilandgedeputeerde gelden de vereisten voor het lidmaatschap van de eilandsraad, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=11&z=2014-03-19&g=2014-03-19).
+1. Voor de functie van eilandgedeputeerde gelden de vereisten voor het lidmaatschap van de eilandsraad, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=11&z=2015-01-30&g=2015-01-30).
 
 2. De eilandsraad kan voor de duur van een jaar ontheffing verlenen van het vereiste van ingezetenschap.
 
@@ -497,7 +505,7 @@ Het aantal eilandgedeputeerden bedraagt:
 
 2. In afwijking van het eerste lid, aanhef en onderdeel h, kan een eilandgedeputeerde tevens lid zijn van de eilandsraad van het openbaar lichaam waar hij eilandgedeputeerde is gedurende het tijdvak dat:
 
-- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2014-03-19&g=2014-03-19), aftreden, of
+- a. aanvangt op de dag van de stemming voor de verkiezing van de leden van de eilandsraad en eindigt op het tijdstip waarop de eilandgedeputeerden ingevolge [artikel 54, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2015-01-30&g=2015-01-30), aftreden, of
 
 - b. aanvangt op het tijdstip van zijn benoeming tot eilandgedeputeerde en eindigt op het tijdstip met ingang waarvan de goedkeuring van de geloofsbrief van zijn opvolger als lid van de eilandsraad onherroepelijk is geworden of waarop het centraal stembureau heeft beslist dat geen opvolger kan worden benoemd.
 
@@ -541,7 +549,7 @@ De benoeming van eilandgedeputeerden na de verkiezing van de leden van de eiland
 
 ##### Artikel 43
 
-In het geval van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=42&z=2014-03-19&g=2014-03-19) gaat de benoeming van degene die zijn benoeming tot eilandgedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het aantal eilandgedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
+In het geval van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=42&z=2015-01-30&g=2015-01-30) gaat de benoeming van degene die zijn benoeming tot eilandgedeputeerde heeft aangenomen, in op het tijdstip waarop ten minste de helft van het aantal eilandgedeputeerden zijn benoeming heeft aangenomen of, indien de aanneming van de benoeming op een later tijdstip plaatsvindt, op dat tijdstip.
 
 ##### Artikel 44
 
@@ -619,7 +627,7 @@ So help me God Almighty!
 
 - d. de vermelding of aan de nevenfuncties inkomsten of voordelen in welke vorm dan ook, zijn verbonden en voorzover een geldelijke vergoeding daaraan is verbonden de omvang daarvan.
 
-2. [Artikel 41, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=41&z=2014-03-19&g=2014-03-19), is van toepassing.
+2. [Artikel 41, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=41&z=2015-01-30&g=2015-01-30), is van toepassing.
 
 3. Geen opgave hoeft te worden gedaan van belangen, zaken, met uitzondering van onroerende zaken, rechten, vorderingen en schulden, waarvan de waarde niet meer dan USD 11 175 bedraagt.
 
@@ -629,19 +637,19 @@ So help me God Almighty!
 
 ##### Artikel 50
 
-De Rijksvertegenwoordiger bewaart de verklaringen, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19), gedurende tien jaren, te rekenen vanaf het tijdstip waarop hij deze heeft ontvangen. Na afloop van deze termijn draagt hij zorg voor de vernietiging hiervan.
+De Rijksvertegenwoordiger bewaart de verklaringen, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30), gedurende tien jaren, te rekenen vanaf het tijdstip waarop hij deze heeft ontvangen. Na afloop van deze termijn draagt hij zorg voor de vernietiging hiervan.
 
 ##### Artikel 51
 
-De Rijksvertegenwoordiger en degenen die in zijn opdracht handelen zijn verplicht tot geheimhouding van de op grond van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19) ontvangen verklaringen. Zij verstrekken de verklaringen of doen hierover slechts mededeling aan instanties die zijn belast met de opsporing en vervolging van strafbare feiten.
+De Rijksvertegenwoordiger en degenen die in zijn opdracht handelen zijn verplicht tot geheimhouding van de op grond van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30) ontvangen verklaringen. Zij verstrekken de verklaringen of doen hierover slechts mededeling aan instanties die zijn belast met de opsporing en vervolging van strafbare feiten.
 
 ##### Artikel 52
 
-Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19), niet tijdig bij de Rijksvertegenwoordiger indient, informeert deze onverwijld de eilandsraad.
+Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30), niet tijdig bij de Rijksvertegenwoordiger indient, informeert deze onverwijld de eilandsraad.
 
 ##### Artikel 53
 
-1. [Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing op de eilandgedeputeerden.
+1. [Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing op de eilandgedeputeerden.
 
 2. De eilandsraad stelt voor de eilandgedeputeerden een gedragscode vast.
 
@@ -679,7 +687,7 @@ Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wet
 
 ##### Artikel 57
 
-1. Indien degene wiens benoeming tot eilandgedeputeerde is ingegaan, een functie bekleedt als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2014-03-19&g=2014-03-19), en het tweede of vierde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
+1. Indien degene wiens benoeming tot eilandgedeputeerde is ingegaan, een functie bekleedt als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2015-01-30&g=2015-01-30), en het tweede of vierde lid van dat artikel niet van toepassing zijn, draagt hij er onverwijld zorg voor dat hij uit die functie wordt ontheven.
 
 2. De eilandsraad verleent hem ontslag indien hij dit nalaat.
 
@@ -691,7 +699,7 @@ Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wet
 
 ##### Artikel 58
 
-1. Tegen een besluit van de gezaghebber als bedoeld in [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=57&z=2014-03-19&g=2014-03-19), kan de eilandgedeputeerde beroep instellen bij het Gemeenschappelijk Hof van Justitie van Curaçao, Aruba, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
+1. Tegen een besluit van de gezaghebber als bedoeld in [artikel 57, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=57&z=2015-01-30&g=2015-01-30), kan de eilandgedeputeerde beroep instellen bij het Gemeenschappelijk Hof van Justitie van Curaçao, Aruba, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 2. [De Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455) is voor zoveel nodig van overeenkomstige toepassing, met uitzondering van de [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=54) en [55](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=55) en [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=1) en [3 van hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&paragraaf=3).
 
@@ -701,9 +709,9 @@ Indien een eilandgedeputeerde de verklaring, bedoeld in [artikel 49](https://wet
 
 ##### Artikel 59
 
-1. Indien een eilandgedeputeerde niet langer voldoet aan de vereisten voor de functie van eilandgedeputeerde, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=39&z=2014-03-19&g=2014-03-19), of een functie gaat bekleden als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2014-03-19&g=2014-03-19), en het tweede of vierde lid van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan de eilandsraad.
+1. Indien een eilandgedeputeerde niet langer voldoet aan de vereisten voor de functie van eilandgedeputeerde, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=39&z=2015-01-30&g=2015-01-30), of een functie gaat bekleden als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2015-01-30&g=2015-01-30), en het tweede of vierde lid van dat artikel niet van toepassing zijn, neemt hij onmiddellijk ontslag. Hij doet hiervan schriftelijk mededeling aan de eilandsraad.
 
-2. De [artikelen 57, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=57&z=2014-03-19&g=2014-03-19), en [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=58&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing.
+2. De [artikelen 57, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=57&z=2015-01-30&g=2015-01-30), en [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=58&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing.
 
 ##### Artikel 60
 
@@ -761,7 +769,7 @@ De leden van het bestuurscollege en andere personen die deelnemen aan de beraads
 
 ##### Artikel 69
 
-De [artikelen 29, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=29&z=2014-03-19&g=2014-03-19), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=30&z=2014-03-19&g=2014-03-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=31&z=2014-03-19&g=2014-03-19) zijn ten aanzien van de vergaderingen van het bestuurscollege van overeenkomstige toepassing.
+De [artikelen 29, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=29&z=2015-01-30&g=2015-01-30), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=30&z=2015-01-30&g=2015-01-30) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=31&z=2015-01-30&g=2015-01-30) zijn ten aanzien van de vergaderingen van het bestuurscollege van overeenkomstige toepassing.
 
 ##### Artikel 70
 
@@ -783,7 +791,7 @@ De [artikelen 29, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3
 
 2. Het bestuurscollege laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.
 
-3. Het bestuurscollege maakt de besluitenlijst van zijn vergaderingen terstond na de vaststelling daarvan openbaar op de in het openbaar lichaam gebruikelijke wijze. Het bestuurscollege laat de openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=66&z=2014-03-19&g=2014-03-19) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
+3. Het bestuurscollege maakt de besluitenlijst van zijn vergaderingen terstond na de vaststelling daarvan openbaar op de in het openbaar lichaam gebruikelijke wijze. Het bestuurscollege laat de openbaarmaking achterwege voor zover het aangelegenheden betreft ten aanzien waarvan op grond van [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=66&z=2015-01-30&g=2015-01-30) geheimhouding is opgelegd of ten aanzien waarvan openbaarmaking in strijd is met het openbaar belang.
 
 ### Afdeling IV. De gezaghebber
 
@@ -935,17 +943,17 @@ So help me God Almighty!
 
 1. Bloed- of aanverwantschap tot en met de tweede graad of huwelijk mag niet bestaan tussen de gezaghebber en een ander lid van het bestuurscollege.
 
-2. [Artikel 41, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=41&z=2014-03-19&g=2014-03-19), is van toepassing.
+2. [Artikel 41, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=41&z=2015-01-30&g=2015-01-30), is van toepassing.
 
 ##### Artikel 82
 
-1. [Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing op de gezaghebber.
+1. [Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing op de gezaghebber.
 
 2. De eilandsraad stelt voor de gezaghebber een gedragscode vast.
 
 ##### Artikel 83
 
-De [artikelen 49 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op de gezaghebber, met dien verstande dat in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19) voor «ontslag» wordt gelezen «ontslag onderscheidenlijk afloop van de benoemingstermijn» en dat in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=52&z=2014-03-19&g=2014-03-19) voor «eilandsraad» wordt gelezen «Onze Minister».
+De [artikelen 49 tot en met 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op de gezaghebber, met dien verstande dat in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30) voor «ontslag» wordt gelezen «ontslag onderscheidenlijk afloop van de benoemingstermijn» en dat in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=52&z=2015-01-30&g=2015-01-30) voor «eilandsraad» wordt gelezen «Onze Minister».
 
 ##### Artikel 84
 
@@ -999,9 +1007,9 @@ Bij koninklijk besluit wordt bepaald, welke de onderscheidingstekenen van de gez
 
 ##### Artikel 91
 
-1. Indien de Rijksvertegenwoordiger het in het belang van het openbaar lichaam nodig oordeelt, voorziet hij in afwijking van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=90&z=2014-03-19&g=2014-03-19) in de waarneming. Alvorens daartoe over te gaan hoort hij de eilandsraad, tenzij gewichtige redenen zich daartegen verzetten.
+1. Indien de Rijksvertegenwoordiger het in het belang van het openbaar lichaam nodig oordeelt, voorziet hij in afwijking van [artikel 90](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=90&z=2015-01-30&g=2015-01-30) in de waarneming. Alvorens daartoe over te gaan hoort hij de eilandsraad, tenzij gewichtige redenen zich daartegen verzetten.
 
-2. Hij die door de Rijksvertegenwoordiger met de waarneming van het ambt van gezaghebber is belast, legt in handen van de Rijksvertegenwoordiger een overeenkomstig [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=77&z=2014-03-19&g=2014-03-19) luidende eed (verklaring en belofte) af.
+2. Hij die door de Rijksvertegenwoordiger met de waarneming van het ambt van gezaghebber is belast, legt in handen van de Rijksvertegenwoordiger een overeenkomstig [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=77&z=2015-01-30&g=2015-01-30) luidende eed (verklaring en belofte) af.
 
 ##### Artikel 92
 
@@ -1009,7 +1017,7 @@ De toekenning van een vergoeding ten laste van het openbaar lichaam aan degene d
 
 ##### Artikel 93
 
-Ten aanzien van degene die met de waarneming van het ambt van gezaghebber is belast, zijn de [artikelen 80 tot en met 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=80&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
+Ten aanzien van degene die met de waarneming van het ambt van gezaghebber is belast, zijn de [artikelen 80 tot en met 82](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=80&z=2015-01-30&g=2015-01-30) van overeenkomstige toepassing.
 
 ##### Artikel 94
 
@@ -1049,7 +1057,7 @@ De eilandsraden stellen gezamenlijk bij eilandsverordening een gezamenlijke reke
 
 - a. indien hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- b. indien hij handelt in strijd met [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=101&z=2014-03-19&g=2014-03-19).
+- b. indien hij handelt in strijd met [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=101&z=2015-01-30&g=2015-01-30).
 
 ##### Artikel 97
 
@@ -1061,13 +1069,13 @@ De eilandsraden stellen gezamenlijk bij eilandsverordening een gezamenlijke reke
 
 - c. hij onder curatele is gesteld, in staat van faillissement is verklaard, surséance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-2. De eilandsraad kan een door hem benoemd lid van de gezamenlijke rekenkamer op non-actief stellen, indien tegen dit lid een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden, genoemd in [artikel 96, zesde lid, onderdeel a, en zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=96&z=2014-03-19&g=2014-03-19), zouden kunnen leiden.
+2. De eilandsraad kan een door hem benoemd lid van de gezamenlijke rekenkamer op non-actief stellen, indien tegen dit lid een gerechtelijk onderzoek ter zake van een misdrijf wordt ingesteld of indien er een ander ernstig vermoeden is van het bestaan van feiten en omstandigheden die tot ontslag, anders dan op gronden, genoemd in [artikel 96, zesde lid, onderdeel a, en zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=96&z=2015-01-30&g=2015-01-30), zouden kunnen leiden.
 
 3. De eilandsraad beëindigt de non-activiteit zodra de grond voor de maatregel is vervallen, met dien verstande dat in een geval als bedoeld in het tweede lid de non-activiteit in ieder geval eindigt na zes maanden. In dat geval kan de eilandsraad de maatregel telkens voor ten hoogste drie maanden verlengen.
 
 ##### Artikel 98
 
-[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2014-03-19&g=2014-03-19) is van overeenkomstige toepassing op de leden van de gezamenlijke rekenkamer.
+[Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2015-01-30&g=2015-01-30) is van overeenkomstige toepassing op de leden van de gezamenlijke rekenkamer.
 
 ##### Artikel 99
 
@@ -1095,7 +1103,7 @@ De eilandsraden stellen gezamenlijk bij eilandsverordening een gezamenlijke reke
 
 - k. gezamenlijke ombudsman of lid van de gezamenlijke ombudscommissie;
 
-- l. lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2014-03-19&g=2014-03-19) en [118](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=118&z=2014-03-19&g=2014-03-19);
+- l. lid van een commissie als bedoeld in de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2015-01-30&g=2015-01-30) en [118](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=118&z=2015-01-30&g=2015-01-30);
 
 - m. ambtenaar, door of vanwege het bestuur van een openbaar lichaam aangesteld of daaraan ondergeschikt;
 
@@ -1153,7 +1161,7 @@ So help me God Almighty!
 
 ##### Artikel 101
 
-[Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing op de leden van de gezamenlijke rekenkamer.
+[Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing op de leden van de gezamenlijke rekenkamer.
 
 ##### Artikel 102
 
@@ -1217,7 +1225,7 @@ Indien de eilandsraden een gezamenlijke ombudsman of een gezamenlijke ombudscomm
 
 - b. wanneer hij door ziekte of gebreken blijvend ongeschikt is zijn functie te vervullen;
 
-- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=110&z=2014-03-19&g=2014-03-19);
+- c. bij de aanvaarding van een betrekking als bedoeld in [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=110&z=2015-01-30&g=2015-01-30);
 
 - d. wanneer hij bij onherroepelijk geworden rechterlijke uitspraak wegens misdrijf is veroordeeld, dan wel hem bij zulk een uitspraak een maatregel is opgelegd die vrijheidsbeneming tot gevolg heeft;
 
@@ -1237,7 +1245,7 @@ Indien de eilandsraden een gezamenlijke ombudsman of een gezamenlijke ombudscomm
 
 1. De gezamenlijke ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
-2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2014-03-19&g=2014-03-19) is van overeenkomstige toepassing op de gezamenlijke ombudsman.
+2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=13&z=2015-01-30&g=2015-01-30) is van overeenkomstige toepassing op de gezamenlijke ombudsman.
 
 ##### Artikel 111
 
@@ -1311,7 +1319,7 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 1. De gezamenlijke ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de eilandsraden.
 
-2. Op de gezamenlijke ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 109, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=109&z=2014-03-19&g=2014-03-19), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=110&z=2014-03-19&g=2014-03-19), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=111&z=2014-03-19&g=2014-03-19), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=112&z=2014-03-19&g=2014-03-19) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=114&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
+2. Op de gezamenlijke ombudscommissie en op ieder lid afzonderlijk zijn de [artikelen 109, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=109&z=2015-01-30&g=2015-01-30), [110](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=110&z=2015-01-30&g=2015-01-30), [111](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=111&z=2015-01-30&g=2015-01-30), [112](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=112&z=2015-01-30&g=2015-01-30) en [114](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VI&paragraaf=2&artikel=114&z=2015-01-30&g=2015-01-30) van overeenkomstige toepassing.
 
 ### Afdeling VII. De commissies
 
@@ -1325,11 +1333,11 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 4. Een lid van de eilandsraad is voorzitter van een eilandsraadscommissie.
 
-5. De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2014-03-19&g=2014-03-19) en [22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=22&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op een vergadering van een eilandsraadscommissie, met dien verstande dat in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2014-03-19&g=2014-03-19) voor «gezaghebber» wordt gelezen «voorzitter van een eilandsraadscommissie» en in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=24&z=2014-03-19&g=2014-03-19), voor «[artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2014-03-19&g=2014-03-19)» wordt gelezen «[artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2014-03-19&g=2014-03-19)».
+5. De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2015-01-30&g=2015-01-30) en [22 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=22&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op een vergadering van een eilandsraadscommissie, met dien verstande dat in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2015-01-30&g=2015-01-30) voor «gezaghebber» wordt gelezen «voorzitter van een eilandsraadscommissie» en in [artikel 24, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=24&z=2015-01-30&g=2015-01-30), voor «[artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=26&z=2015-01-30&g=2015-01-30)» wordt gelezen «[artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2015-01-30&g=2015-01-30)».
 
 ##### Artikel 118
 
-1. De eilandsraad, het bestuurscollege of de gezaghebber kan andere commissies dan de commissies, bedoeld in [artikel 117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2014-03-19&g=2014-03-19), instellen.
+1. De eilandsraad, het bestuurscollege of de gezaghebber kan andere commissies dan de commissies, bedoeld in [artikel 117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2015-01-30&g=2015-01-30), instellen.
 
 2. De gezaghebber en de eilandgedeputeerden zijn geen lid van een door de eilandsraad ingestelde andere commissie. Leden van de eilandsraad zijn geen lid van een door het bestuurscollege of de gezaghebber ingestelde commissie.
 
@@ -1337,7 +1345,7 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 4. De eilandsraad, het bestuurscollege onderscheidenlijk de gezaghebber regelt ten aanzien van een door hem ingestelde andere commissie de openbaarheid van de vergaderingen.
 
-5. De [artikelen 129, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=2&artikel=129&z=2014-03-19&g=2014-03-19), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2014-03-19&g=2014-03-19) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
+5. De [artikelen 129, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=2&artikel=129&z=2015-01-30&g=2015-01-30), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2015-01-30&g=2015-01-30) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op een besluit tot instelling van een andere commissie.
 
 ##### Artikel 119
 
@@ -1355,7 +1363,7 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 2. De eilandsraad kan bij eilandsverordening regels stellen over de tegemoetkoming in of vergoeding van bijzondere kosten en over andere financiële voorzieningen die verband houden met de vervulling van het lidmaatschap van de eilandsraad.
 
-3. Het eerste en tweede lid zijn niet van toepassing op een lid van de eilandsraad dat met inachtneming van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2014-03-19&g=2014-03-19), tevens eilandgedeputeerde is.
+3. Het eerste en tweede lid zijn niet van toepassing op een lid van de eilandsraad dat met inachtneming van [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2015-01-30&g=2015-01-30), tevens eilandgedeputeerde is.
 
 4. De eilandsverordeningen, bedoeld in het eerste en tweede lid, worden vastgesteld overeenkomstig bij of krachtens algemene maatregel van bestuur te stellen regels.
 
@@ -1367,17 +1375,17 @@ De gezamenlijke ombudsman ontvangt een bij eilandsverordening van de eilandsrade
 
 - b. van reis- en verblijfkosten in verband met reizen binnen het openbaar lichaam.
 
-2. In bijzondere gevallen kan de eilandsraad bij eilandsverordening bepalen dat de leden van het dagelijks bestuur van een commissie als bedoeld in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=118&z=2014-03-19&g=2014-03-19), een vaste vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten ontvangen.
+2. In bijzondere gevallen kan de eilandsraad bij eilandsverordening bepalen dat de leden van het dagelijks bestuur van een commissie als bedoeld in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=118&z=2015-01-30&g=2015-01-30), een vaste vergoeding voor hun werkzaamheden en een tegemoetkoming in de kosten ontvangen.
 
 3. Ten aanzien van de vergoeding, bedoeld in het eerste lid, onderdeel a, worden bij of krachtens algemene maatregel van bestuur nadere regels gesteld. Ten aanzien van de overige vergoedingen bedoeld in dit artikel kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld.
 
 ##### Artikel 122
 
-Aan de leden van de eilandsraad en de personen, genoemd in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2014-03-19&g=2014-03-19), vindt vergoeding van reis- en verblijfkosten, gemaakt in verband met reizen buiten het grondgebied van het openbaar lichaam ter uitvoering van een beslissing van het eilandsbestuur, slechts plaats overeenkomstig door de eilandsraad bij eilandsverordening vastgestelde regels.
+Aan de leden van de eilandsraad en de personen, genoemd in [artikel 121, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=121&z=2015-01-30&g=2015-01-30), vindt vergoeding van reis- en verblijfkosten, gemaakt in verband met reizen buiten het grondgebied van het openbaar lichaam ter uitvoering van een beslissing van het eilandsbestuur, slechts plaats overeenkomstig door de eilandsraad bij eilandsverordening vastgestelde regels.
 
 ##### Artikel 122a
 
-De eilandsverordeningen, bedoeld in de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=120&z=2014-03-19&g=2014-03-19), worden aan de Rijksvertegenwoordiger gezonden.
+De eilandsverordeningen, bedoeld in de [artikelen 120 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=120&z=2015-01-30&g=2015-01-30), worden aan de Rijksvertegenwoordiger gezonden.
 
 ##### Artikel 123
 
@@ -1397,7 +1405,7 @@ De eilandsverordeningen, bedoeld in de [artikelen 120 tot en met 122](https://we
 
 ##### Artikel 125
 
-[Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing op de eilandsecretaris en de eilandgriffier.
+[Artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing op de eilandsecretaris en de eilandgriffier.
 
 #### § 2. De eilandsecretaris
 
@@ -1421,7 +1429,7 @@ De eilandsecretaris is in de vergadering van het bestuurscollege aanwezig.
 
 1. Het bestuurscollege regelt de vervanging van de eilandsecretaris.
 
-2. De [artikelen 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=124&z=2014-03-19&g=2014-03-19) en [125 tot en met 128](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=125&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op degene die de eilandsecretaris vervangt.
+2. De [artikelen 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=124&z=2015-01-30&g=2015-01-30) en [125 tot en met 128](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=125&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op degene die de eilandsecretaris vervangt.
 
 #### § 3. De eilandgriffier
 
@@ -1443,7 +1451,7 @@ De eilandgriffier is in de vergadering van de eilandsraad aanwezig.
 
 1. De eilandsraad regelt de vervanging van de eilandgriffier.
 
-2. De [artikelen 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=124&z=2014-03-19&g=2014-03-19), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=125&z=2014-03-19&g=2014-03-19), [130 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=130&z=2014-03-19&g=2014-03-19) en [135](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=135&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op degene die de eilandgriffier vervangt.
+2. De [artikelen 124, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=124&z=2015-01-30&g=2015-01-30), [125](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=1&artikel=125&z=2015-01-30&g=2015-01-30), [130 tot en met 132](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=130&z=2015-01-30&g=2015-01-30) en [135](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IX&paragraaf=3&artikel=135&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op degene die de eilandgriffier vervangt.
 
 ##### Artikel 134
 
@@ -1467,7 +1475,7 @@ Een besluit houdende de benoeming, bevordering, schorsing of ontslag van de eila
 
 2. Regeling en bestuur kunnen van het eilandsbestuur worden gevorderd bij of krachtens een andere dan deze wet of de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151) ter verzekering van de uitvoering daarvan, met dien verstande dat het geven van aanwijzingen aan het eilandsbestuur en het aan het eilandsbestuur opleggen of in zijn plaats vaststellen van beslissingen, slechts kan geschieden indien de bevoegdheid daartoe bij de wet is toegekend.
 
-3. Onverminderd de [artikelen 138, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2014-03-19&g=2014-03-19), en [213, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=II&artikel=213&z=2014-03-19&g=2014-03-19), worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken openbare lichamen blijven, door het Rijk aan hen vergoed.
+3. Onverminderd de [artikelen 138, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2015-01-30&g=2015-01-30), en [213, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=II&artikel=213&z=2015-01-30&g=2015-01-30), worden de kosten, verbonden aan de uitvoering van het tweede lid, voor zover zij ten laste van de betrokken openbare lichamen blijven, door het Rijk aan hen vergoed.
 
 ##### Artikel 137
 
@@ -1493,13 +1501,13 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 ##### Artikel 139
 
-1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2014-03-19&g=2014-03-19) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
+1. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2015-01-30&g=2015-01-30) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt alleen gevorderd, indien:
 
 - a. dit noodzakelijk is uit een oogpunt van afstemming tussen het beleid van het openbaar lichaam en het beleid van het Rijk, of
 
 - b. de ontwikkeling van beleid op een nieuw beleidsterrein dit noodzakelijk maakt.
 
-2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2014-03-19&g=2014-03-19) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
+2. Het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2015-01-30&g=2015-01-30) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt niet gevorderd, indien:
 
 - a. het eilandsbestuur daardoor ontoelaatbaar beperkt wordt in zijn inhoudelijke of financiële beleidsruimte;
 
@@ -1511,7 +1519,7 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 - e. het uitsluitend dient tot het verkrijgen van informatie.
 
-3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2014-03-19&g=2014-03-19) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens artikel 138 en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
+3. Indien in een voorstel van wet tot invoering of wijziging van bepalingen waarbij het vaststellen van een plan of een beleidsverslag als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=138&z=2015-01-30&g=2015-01-30) en het ter voorbereiding daarvan volgen van een voorgeschreven procedure wordt gevorderd, wordt afgeweken van het bepaalde bij of krachtens artikel 138 en dit artikel, wordt die afwijking gemotiveerd in de bij het voorstel behorende toelichting.
 
 #### § 2. Bestuursdwang
 
@@ -1543,7 +1551,7 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen de openba
 
 ##### Artikel 141
 
-1. In geval van toepassing van [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=3&artikel=231&z=2014-03-19&g=2014-03-19) kan de Rijksvertegenwoordiger een last onder bestuursdwang opleggen namens het eilandsbestuur en ten laste van het openbaar lichaam. [Artikel 140, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=2&artikel=140&z=2014-03-19&g=2014-03-19), zijn alsdan van overeenkomstige toepassing met dien verstande dat de machtiging, bedoeld in het vijfde lid, onderdeel a, wordt verleend door de Rijksvertegenwoordiger, het legitimatiebewijs, bedoeld in het vijfde lid, onderdeel b, wordt uitgegeven door de Rijksvertegenwoordiger en dat het schriftelijk verslag, bedoeld in het vijfde lid, onderdeel c, wordt toegezonden aan de Rijksvertegenwoordiger.
+1. In geval van toepassing van [artikel 231](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=3&artikel=231&z=2015-01-30&g=2015-01-30) kan de Rijksvertegenwoordiger een last onder bestuursdwang opleggen namens het eilandsbestuur en ten laste van het openbaar lichaam. [Artikel 140, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=2&artikel=140&z=2015-01-30&g=2015-01-30), zijn alsdan van overeenkomstige toepassing met dien verstande dat de machtiging, bedoeld in het vijfde lid, onderdeel a, wordt verleend door de Rijksvertegenwoordiger, het legitimatiebewijs, bedoeld in het vijfde lid, onderdeel b, wordt uitgegeven door de Rijksvertegenwoordiger en dat het schriftelijk verslag, bedoeld in het vijfde lid, onderdeel c, wordt toegezonden aan de Rijksvertegenwoordiger.
 
 2. Het openbaar lichaam heeft in dat geval voor het bedrag van de te zijnen laste gebrachte kosten verhaal op de overtreder.
 
@@ -1583,11 +1591,11 @@ De bekendgemaakte besluiten treden in werking met ingang van de achtste dag na d
 
 ##### Artikel 146
 
-Een besluit als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2014-03-19&g=2014-03-19) op overtreding waarvan straf is gesteld, wordt na de bekendmaking medegedeeld aan het parket in eerste aanleg.
+Een besluit als bedoeld in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2015-01-30&g=2015-01-30) op overtreding waarvan straf is gesteld, wordt na de bekendmaking medegedeeld aan het parket in eerste aanleg.
 
 ##### Artikel 147
 
-Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschriften inhouden, zijn de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2014-03-19&g=2014-03-19), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=145&z=2014-03-19&g=2014-03-19) en [146](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=146&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing, met dien verstande dat de mededeling aan het parket in eerste aanleg geschiedt binnen een week.
+Met betrekking tot de intrekking van besluiten die algemeen verbindende voorschriften inhouden, zijn de [artikelen 142](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2015-01-30&g=2015-01-30), [145](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=145&z=2015-01-30&g=2015-01-30) en [146](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=146&z=2015-01-30&g=2015-01-30) van overeenkomstige toepassing, met dien verstande dat de mededeling aan het parket in eerste aanleg geschiedt binnen een week.
 
 #### § 4. Termijnen
 
@@ -1601,9 +1609,9 @@ Op termijnen gesteld in een eilandsverordening zijn de [artikelen 1 tot en met 4
 
 1. Eilandsverordeningen worden door de eilandsraad vastgesteld voor zover de bevoegdheid daartoe niet bij de wet of door de eilandsraad krachtens de wet aan het bestuurscollege of de gezaghebber is toegekend.
 
-2. De overige bevoegdheden, bedoeld in [artikel 136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=136&z=2014-03-19&g=2014-03-19), berusten bij de eilandsraad.
+2. De overige bevoegdheden, bedoeld in [artikel 136, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=136&z=2015-01-30&g=2015-01-30), berusten bij de eilandsraad.
 
-3. De overige bevoegdheden, bedoeld in [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=136&z=2014-03-19&g=2014-03-19), berusten bij het bestuurscollege, voor zover deze niet bij of krachtens de wet aan de eilandsraad of de gezaghebber zijn toegekend.
+3. De overige bevoegdheden, bedoeld in [artikel 136, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=1&artikel=136&z=2015-01-30&g=2015-01-30), berusten bij het bestuurscollege, voor zover deze niet bij of krachtens de wet aan de eilandsraad of de gezaghebber zijn toegekend.
 
 ##### Artikel 150
 
@@ -1617,7 +1625,7 @@ Op termijnen gesteld in een eilandsverordening zijn de [artikelen 1 tot en met 4
 
 1. Een lid van de eilandsraad kan een voorstel tot wijziging van een voor de vergadering van de eilandsraad geagendeerde ontwerp-eilandsverordening of ontwerp-beslissing indienen.
 
-2. [Artikel 150, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=150&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
+2. [Artikel 150, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=150&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 152
 
@@ -1671,7 +1679,7 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 ##### Artikel 157
 
-1. De eilandsraad kan op overtreding van zijn eilandsverordeningen en van het bestuurscollege waaraan ingevolge [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=166&z=2014-03-19&g=2014-03-19) verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.
+1. De eilandsraad kan op overtreding van zijn eilandsverordeningen en van het bestuurscollege waaraan ingevolge [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=166&z=2015-01-30&g=2015-01-30) verordenende bevoegdheid is gedelegeerd, straf stellen maar geen andere of zwaardere dan hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie, al dan niet met openbaarmaking van de rechterlijke uitspraak.
 
 2. Indien een krachtens het eerste lid strafbaar gestelde overtreding van voorschriften met betrekking tot het plaatsen of laten staan van motorrijtuigen op parkeerterreinen of weggedeelten, bedoeld in [artikel 56 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=56) wordt begaan door een bij de ontdekking van het feit onbekend gebleven bestuurder van een motorrijtuig, kunnen de op het feit gestelde straffen worden opgelegd aan de eigenaar of houder van dat motorrijtuig voor zover deze niet reeds naast de bestuurder voor dat feit aansprakelijk is.
 
@@ -1689,7 +1697,7 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 2. De gezaghebber oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
 
-- a. jegens personen die een door de raad bij eilandsverordening vastgesteld en daartoe aangewezen specifiek voorschrift dat strekt tot handhaving van de openbare orde of beperking van gevaar in omstandigheden als bedoeld in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2014-03-19&g=2014-03-19), groepsgewijs niet naleven, en
+- a. jegens personen die een door de raad bij eilandsverordening vastgesteld en daartoe aangewezen specifiek voorschrift dat strekt tot handhaving van de openbare orde of beperking van gevaar in omstandigheden als bedoeld in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2015-01-30&g=2015-01-30), groepsgewijs niet naleven, en
 
 - b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
 
@@ -1727,7 +1735,7 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 1. Een lid van de eilandsraad kan het bestuurscollege of de gezaghebber mondeling of schriftelijk vragen stellen.
 
-2. Een lid van de eilandsraad kan de eilandsraad verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2014-03-19&g=2014-03-19), om het bestuurscollege of de gezaghebber hierover inlichtingen te vragen. De eilandsraad stelt hierover nadere regels.
+2. Een lid van de eilandsraad kan de eilandsraad verlof vragen tot het houden van een interpellatie over een onderwerp dat niet staat vermeld op de agenda, bedoeld in [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=20&z=2015-01-30&g=2015-01-30), om het bestuurscollege of de gezaghebber hierover inlichtingen te vragen. De eilandsraad stelt hierover nadere regels.
 
 ##### Artikel 160
 
@@ -1737,27 +1745,27 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 3. Het onderzoek wordt uitgevoerd door een door de eilandsraad in te stellen onderzoekscommissie. De commissie heeft ten minste drie leden en bestaat uitsluitend uit leden van de eilandsraad.
 
-4. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2014-03-19&g=2014-03-19), [117, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2014-03-19&g=2014-03-19), en [119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2014-03-19&g=2014-03-19), zijn van overeenkomstige toepassing op de onderzoekscommissie.
+4. De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=23&z=2015-01-30&g=2015-01-30), [117, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=117&z=2015-01-30&g=2015-01-30), en [119, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VII&artikel=119&z=2015-01-30&g=2015-01-30), zijn van overeenkomstige toepassing op de onderzoekscommissie.
 
 5. De onderzoekscommissie kan de bij deze wet verleende bevoegdheden uitsluitend uitoefenen, indien ten minste drie van haar leden aanwezig zijn.
 
 6. De bevoegdheden en werkzaamheden van een onderzoekscommissie worden niet geschorst door het aftreden van de eilandsraad.
 
-7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek zijn de [artikelen 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2014-03-19&g=2014-03-19), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2014-03-19&g=2014-03-19) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
+7. Op het besluit tot instelling van een onderzoek en tot instelling van een onderzoekscommissie, alsmede het besluit tot wijziging van de omschrijving van het onderwerp van een onderzoek zijn de [artikelen 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2015-01-30&g=2015-01-30), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2015-01-30&g=2015-01-30) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2015-01-30&g=2015-01-30) van overeenkomstige toepassing.
 
 8. Alvorens de eilandsraad besluit tot een onderzoek, stelt hij bij eilandsverordening nadere regels met betrekking tot deze onderzoeken. In elk geval worden daarin regels opgenomen over de wijze waarop ambtelijke bijstand wordt verleend aan de commissie.
 
 ##### Artikel 161
 
-1. Leden en gewezen leden van de eilandsraad, de gezaghebber en gewezen gezaghebbers, eilandgedeputeerden en gewezen eilandgedeputeerden, leden en gewezen leden van de gezamenlijke rekenkamer, leden en gewezen leden van een door de eilandsraad, het bestuurscollege of de gezaghebber ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het eilandsbestuur aangesteld of daaraan ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2014-03-19&g=2014-03-19) nodig is.
+1. Leden en gewezen leden van de eilandsraad, de gezaghebber en gewezen gezaghebbers, eilandgedeputeerden en gewezen eilandgedeputeerden, leden en gewezen leden van de gezamenlijke rekenkamer, leden en gewezen leden van een door de eilandsraad, het bestuurscollege of de gezaghebber ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het eilandsbestuur aangesteld of daaraan ondergeschikt, zijn verplicht te voldoen aan een vordering van de onderzoekscommissie tot het verschaffen van inzage in, het nemen van afschrift van of het anderszins laten kennisnemen van alle bescheiden waarover zij beschikken en waarvan naar het redelijk oordeel van de onderzoekscommissie inzage, afschrift of kennisneming anderszins voor het doen van een onderzoek als bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2015-01-30&g=2015-01-30) nodig is.
 
 2. Indien een vordering als bedoeld in het eerste lid betrekking heeft op bescheiden die afkomstig zijn van een instelling van de Europese Unie of van het Rijk en kennisneming van die bescheiden door de onderzoekscommissie het belang van de Europese Unie of de Staat kan schaden, wordt niet dan met toestemming van Onze Minister aan de vordering voldaan.
 
-3. Ambtenaren, door of vanwege het eilandsbestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2014-03-19&g=2014-03-19) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
+3. Ambtenaren, door of vanwege het eilandsbestuur aangesteld of daaraan ondergeschikt, zijn gehouden om aan een onderzoek als bedoeld in [artikel 160](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2015-01-30&g=2015-01-30) alle door de onderzoekscommissie gevorderde medewerking te verlenen.
 
 ##### Artikel 162
 
-1. Personen als bedoeld in [artikel 161](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2014-03-19&g=2014-03-19) zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
+1. Personen als bedoeld in [artikel 161](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2015-01-30&g=2015-01-30) zijn verplicht te voldoen aan een oproep van de onderzoekscommissie om als getuige of deskundige te worden gehoord.
 
 2. Een getuige of deskundige die door de onderzoekscommissie wordt gehoord, is niet tevens lid van de onderzoekscommissie.
 
@@ -1789,7 +1797,7 @@ De eilandsraad stelt een eilandsverordening vast waarin regels worden gesteld me
 
 2. Zij die uit hoofde van hun ambt, beroep of betrekking tot geheimhouding verplicht zijn, kunnen zich verschonen getuigenis af te leggen, doch uitsluitend met betrekking tot hetgeen waarvan de wetenschap aan hen als zodanig is toevertrouwd. Zij kunnen inzage, afschrift of kennisneming anderszins weigeren van bescheiden of gedeelten daarvan tot welke hun plicht tot geheimhouding zich uitstrekt.
 
-3. De gezaghebber en gewezen gezaghebbers, eilandgedeputeerden en gewezen eilandgedeputeerden, leden en gewezen leden van een door het bestuurscollege of de gezaghebber ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het bestuurscollege aangesteld of daaraan ondergeschikt, zijn niet verplicht aan [artikel 161](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2014-03-19&g=2014-03-19) en [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=162&z=2014-03-19&g=2014-03-19) te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
+3. De gezaghebber en gewezen gezaghebbers, eilandgedeputeerden en gewezen eilandgedeputeerden, leden en gewezen leden van een door het bestuurscollege of de gezaghebber ingestelde commissie, ambtenaren en gewezen ambtenaren, door of vanwege het bestuurscollege aangesteld of daaraan ondergeschikt, zijn niet verplicht aan [artikel 161](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=161&z=2015-01-30&g=2015-01-30) en [artikel 162](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=162&z=2015-01-30&g=2015-01-30) te voldoen, indien het verstrekken van de inlichtingen in strijd is met het openbaar belang.
 
 4. De onderzoekscommissie kan verlangen dat een beroep als bedoeld in het derde lid op strijd met het openbaar belang wordt bevestigd door het bestuurscollege, of, voor zover de inlichtingen betrekking hebben op het door de gezaghebber gevoerde bestuur, door de gezaghebber.
 
@@ -1805,7 +1813,7 @@ Het bestuurscollege neemt de door de eilandsraad geraamde kosten voor een onderz
 
 - a. de instelling van de gezamenlijke rekenkamer;
 
-- b. de instelling van een onderzoek, bedoeld in [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2014-03-19&g=2014-03-19);
+- b. de instelling van een onderzoek, bedoeld in [artikel 160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=160&z=2015-01-30&g=2015-01-30);
 
 - c. de vaststelling of wijziging van de begroting, bedoeld in [artikel 15 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=15);
 
@@ -1821,11 +1829,11 @@ Het bestuurscollege neemt de door de eilandsraad geraamde kosten voor een onderz
 
 3. De bevoegdheid tot het vaststellen van eilandsverordeningen, door strafbepaling of bestuursdwang te handhaven, kan de eilandsraad slechts overdragen voor zover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door hem in zijn eilandsverordeningen aangewezen onderwerpen.
 
-4. De [artikelen 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2014-03-19&g=2014-03-19), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2014-03-19&g=2014-03-19) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2014-03-19&g=2014-03-19) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
+4. De [artikelen 142, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=142&z=2015-01-30&g=2015-01-30), [143](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=143&z=2015-01-30&g=2015-01-30) en [144](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=I&paragraaf=3&artikel=144&z=2015-01-30&g=2015-01-30) zijn van overeenkomstige toepassing op een besluit dat wordt genomen op grond van het eerste lid.
 
 ##### Artikel 167
 
-1. De voorschriften met betrekking tot de bevoegdheid van de eilandsraad, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=166&z=2014-03-19&g=2014-03-19) overgedragen bevoegdheden van overeenkomstige toepassing.
+1. De voorschriften met betrekking tot de bevoegdheid van de eilandsraad, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de ingevolge [artikel 166](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=166&z=2015-01-30&g=2015-01-30) overgedragen bevoegdheden van overeenkomstige toepassing.
 
 2. Onder de in het eerste lid bedoelde voorschriften zijn niet begrepen die betreffende vergaderingen.
 
@@ -1877,9 +1885,9 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 3. Zij geven de eilandsraad mondeling of schriftelijk de door een of meer leden gevraagde inlichtingen, tenzij het verstrekken ervan in strijd is met het openbaar belang.
 
-4. Zij geven de eilandsraad vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 168, eerste lid, onderdeel e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=III&artikel=168&z=2014-03-19&g=2014-03-19), indien de eilandsraad daarom verzoekt of indien de uitoefening ingrijpende gevolgen kan hebben voor het openbaar lichaam. In het laatste geval neemt het bestuurscollege geen besluit dan nadat de eilandsraad in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het bestuurscollege te brengen.
+4. Zij geven de eilandsraad vooraf inlichtingen over de uitoefening van de bevoegdheden, bedoeld in [artikel 168, eerste lid, onderdeel e, f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=III&artikel=168&z=2015-01-30&g=2015-01-30), indien de eilandsraad daarom verzoekt of indien de uitoefening ingrijpende gevolgen kan hebben voor het openbaar lichaam. In het laatste geval neemt het bestuurscollege geen besluit dan nadat de eilandsraad in de gelegenheid is gesteld zijn wensen en bedenkingen ter kennis van het bestuurscollege te brengen.
 
-5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 168, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=III&artikel=168&z=2014-03-19&g=2014-03-19), geen uitstel kan lijden, geven zij in afwijking van het vierde lid de eilandsraad zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
+5. Indien de uitoefening van de bevoegdheid, bedoeld in [artikel 168, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=III&artikel=168&z=2015-01-30&g=2015-01-30), geen uitstel kan lijden, geven zij in afwijking van het vierde lid de eilandsraad zo spoedig mogelijk inlichtingen over de uitoefening van deze bevoegdheid en het terzake genomen besluit.
 
 ### Afdeling IV. De bevoegdheid van de gezaghebber
 
@@ -1947,7 +1955,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 ##### Artikel 179
 
-1. Wanneer een omstandigheid als bedoeld in [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2014-03-19&g=2014-03-19) zich voordoet, kan de gezaghebber algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.
+1. Wanneer een omstandigheid als bedoeld in [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2015-01-30&g=2015-01-30) zich voordoet, kan de gezaghebber algemeen verbindende voorschriften geven die ter handhaving van de openbare orde of ter beperking van gevaar nodig zijn. Daarbij kan van andere dan bij de [Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840) gestelde voorschriften worden afgeweken. Hij maakt deze voorschriften bekend op een door hem te bepalen wijze.
 
 2. De gezaghebber brengt de voorschriften zo spoedig mogelijk ter kennis van de eilandsraad, van de Rijksvertegenwoordiger en van de officier van justitie, hoofd van het parket in eerste aanleg.
 
@@ -1957,7 +1965,7 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 5. De Rijksvertegenwoordiger kan de werking van de voorschriften opschorten zolang zij niet bekrachtigd zijn. Het opschorten stuit onmiddellijk de werking van de voorschriften.
 
-6. Zodra een omstandigheid als bedoeld in [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2014-03-19&g=2014-03-19), zich niet langer voordoet, trekt de gezaghebber de voorschriften in. Het tweede lid is van overeenkomstige toepassing.
+6. Zodra een omstandigheid als bedoeld in [artikel 178, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2015-01-30&g=2015-01-30), zich niet langer voordoet, trekt de gezaghebber de voorschriften in. Het tweede lid is van overeenkomstige toepassing.
 
 ##### Artikel 180
 
@@ -1965,17 +1973,17 @@ Het bestuurscollege kan een in het openbaar lichaam dienstdoende ambtenaar van p
 
 2. De gezaghebber oefent de bevoegdheid, bedoeld in het eerste lid, slechts uit:
 
-- a. jegens personen die door hem daartoe aangewezen specifieke onderdelen van een bevel als bedoeld in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2014-03-19&g=2014-03-19) of van een algemeen verbindend voorschrift als bedoeld in [artikel 179](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=179&z=2014-03-19&g=2014-03-19), groepsgewijs niet naleven, en
+- a. jegens personen die door hem daartoe aangewezen specifieke onderdelen van een bevel als bedoeld in [artikel 178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2015-01-30&g=2015-01-30) of van een algemeen verbindend voorschrift als bedoeld in [artikel 179](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=179&z=2015-01-30&g=2015-01-30), groepsgewijs niet naleven, en
 
 - b. indien het ophouden noodzakelijk is ter voorkoming van voortzetting of herhaling van de niet-naleving en de naleving redelijkerwijs niet op andere geschikte wijze kan worden verzekerd.
 
-3. [Artikel 158, derde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=158&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
+3. [Artikel 158, derde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=158&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 181
 
 1. De gezaghebber kan een in het openbaar lichaam dienstdoende ambtenaar van politie machtigen in zijn naam besluiten te nemen of andere handelingen te verrichten.
 
-2. Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=155&z=2014-03-19&g=2014-03-19), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=158&z=2014-03-19&g=2014-03-19), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=174&z=2014-03-19&g=2014-03-19), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=175&z=2014-03-19&g=2014-03-19), [176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=176&z=2014-03-19&g=2014-03-19), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=177&z=2014-03-19&g=2014-03-19), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2014-03-19&g=2014-03-19), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=179&z=2014-03-19&g=2014-03-19) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=180&z=2014-03-19&g=2014-03-19) en tot uitvoering van beslissingen van de eilandsraad.
+2. Geen machtiging wordt verleend tot het nemen van besluiten ingevolge de [artikelen 155](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=155&z=2015-01-30&g=2015-01-30), [158](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=158&z=2015-01-30&g=2015-01-30), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=174&z=2015-01-30&g=2015-01-30), [175](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=175&z=2015-01-30&g=2015-01-30), [176, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=176&z=2015-01-30&g=2015-01-30), [177](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=177&z=2015-01-30&g=2015-01-30), [178](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=178&z=2015-01-30&g=2015-01-30), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=179&z=2015-01-30&g=2015-01-30) en [180](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=IV&artikel=180&z=2015-01-30&g=2015-01-30) en tot uitvoering van beslissingen van de eilandsraad.
 
 ##### Artikel 182
 
@@ -2103,7 +2111,7 @@ Zo waarlijk helpe mij God Almachtig!»
 
 2. De Rijksvertegenwoordiger meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, aan Onze Minister.
 
-3. De Rijksvertegenwoordiger maakt nevenfuncties, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot Rijksvertegenwoordiger of aanvaarding van een nevenfunctie en geschiedt door terinzaggelegging van een opgave van de functies op het Bureau van de Rijksvertegenwoordiger, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=202&z=2014-03-19&g=2014-03-19).
+3. De Rijksvertegenwoordiger maakt nevenfuncties, anders dan uit hoofde van zijn ambt van Rijksvertegenwoordiger, openbaar. De openbaarmaking vindt plaats terstond na benoeming tot Rijksvertegenwoordiger of aanvaarding van een nevenfunctie en geschiedt door terinzaggelegging van een opgave van de functies op het Bureau van de Rijksvertegenwoordiger, bedoeld in [artikel 202, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=202&z=2015-01-30&g=2015-01-30).
 
 4. De Rijksvertegenwoordiger maakt tevens de inkomsten uit de nevenfuncties, bedoeld in het derde lid, openbaar. Openbaarmaking geschiedt door terinzagelegging op het Bureau van de Rijksvertegenwoordiger uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.
 
@@ -2205,7 +2213,7 @@ Het ambt van Rijksvertegenwoordiger ontheft van alle bij of krachtens de wet opg
 
 2. De waarnemend Rijksvertegenwoordiger wordt bij koninklijk besluit op voordracht van Onze Minister benoemd voor de tijd van zes jaar.
 
-3. Ten aanzien van de waarnemend Rijksvertegenwoordiger zijn de [artikelen 188, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=188&z=2014-03-19&g=2014-03-19), [189 tot en met 192](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=189&z=2014-03-19&g=2014-03-19), [194 tot en met 196](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=194&z=2014-03-19&g=2014-03-19), [198](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=198&z=2014-03-19&g=2014-03-19) en [199](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=199&z=2014-03-19&g=2014-03-19) van overeenkomstige toepassing.
+3. Ten aanzien van de waarnemend Rijksvertegenwoordiger zijn de [artikelen 188, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=188&z=2015-01-30&g=2015-01-30), [189 tot en met 192](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=189&z=2015-01-30&g=2015-01-30), [194 tot en met 196](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=194&z=2015-01-30&g=2015-01-30), [198](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=198&z=2015-01-30&g=2015-01-30) en [199](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=I&paragraaf=1&artikel=199&z=2015-01-30&g=2015-01-30) van overeenkomstige toepassing.
 
 ##### Artikel 201
 
@@ -2245,9 +2253,9 @@ Voor zover dit niet bij wet is geschied, worden bij of krachtens algemene maatre
 
 - c. het doen van een aanbeveling tot benoeming en een voorstel tot herbenoeming van de gezaghebber;
 
-- d. het goedkeuren van de eilandsverordeningen bedoeld in de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2014-03-19&g=2014-03-19), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=35&z=2014-03-19&g=2014-03-19), [105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=105&z=2014-03-19&g=2014-03-19), en [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=123&z=2014-03-19&g=2014-03-19);
+- d. het goedkeuren van de eilandsverordeningen bedoeld in de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2015-01-30&g=2015-01-30), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=35&z=2015-01-30&g=2015-01-30), [105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=V&artikel=105&z=2015-01-30&g=2015-01-30), en [123, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=123&z=2015-01-30&g=2015-01-30);
 
-- e. het verlenen van ontheffingen als bedoeld in de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19) en [85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=85&z=2014-03-19&g=2014-03-19);
+- e. het verlenen van ontheffingen als bedoeld in de [artikelen 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30) en [85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=85&z=2015-01-30&g=2015-01-30);
 
 - f. het bevorderen van de samenwerking tussen de in de openbare lichamen werkzame rijksambtenaren onderling en met de eilandsbesturen;
 
@@ -2379,7 +2387,7 @@ De gezaghebber zendt elk eilandsbesluit van algemene strekking, dat niet is beke
 
 ##### Artikel 222
 
-1. Indien een besluit naar het oordeel van de Rijksvertegenwoordiger voor vernietiging in aanmerking komt, doet hij daarvan binnen twee dagen na de bekendmaking van het besluit, of, indien het betreft een besluit als bedoeld in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=221&z=2014-03-19&g=2014-03-19), binnen twee dagen nadat het te zijner kennis is gekomen, mededeling aan Onze Minister wie het aangaat. Hij geeft hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast.
+1. Indien een besluit naar het oordeel van de Rijksvertegenwoordiger voor vernietiging in aanmerking komt, doet hij daarvan binnen twee dagen na de bekendmaking van het besluit, of, indien het betreft een besluit als bedoeld in [artikel 221](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=221&z=2015-01-30&g=2015-01-30), binnen twee dagen nadat het te zijner kennis is gekomen, mededeling aan Onze Minister wie het aangaat. Hij geeft hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast.
 
 2. Het besluit ten aanzien waarvan het eerste lid toepassing heeft gevonden, wordt niet of niet verder uitgevoerd, voordat van Onze Minister wie het aangaat de mededeling is ontvangen, dat voor schorsing of vernietiging geen redenen bestaan. Indien het besluit niet binnen vier weken na de dagtekening van de mededeling van de Rijksvertegenwoordiger is geschorst of vernietigd, wordt het uitgevoerd.
 
@@ -2389,7 +2397,7 @@ De gezaghebber zendt elk eilandsbesluit van algemene strekking, dat niet is beke
 
 2. De Rijksvertegenwoordiger zendt de stukken, vergezeld van zijn advies, binnen een week na de dagtekening van de mededeling van de gezaghebber toe aan Onze Minister wie het aangaat.
 
-3. [Artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=222&z=2014-03-19&g=2014-03-19), is van overeenkomstige toepassing.
+3. [Artikel 222, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=222&z=2015-01-30&g=2015-01-30), is van overeenkomstige toepassing.
 
 ##### Artikel 224
 
@@ -2417,7 +2425,7 @@ Het eilandsbestuur neemt opnieuw een besluit omtrent het onderwerp van het verni
 
 ##### Artikel 229
 
-1. In afwijking van [artikel 3, eerste lid onderdeel a, en tweede lid van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=3) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=220&z=2014-03-19&g=2014-03-19) binnen zes weken nadat het besluit is bekendgemaakt beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
+1. In afwijking van [artikel 3, eerste lid onderdeel a, en tweede lid van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=3) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 220](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=V&afdeling=III&paragraaf=2&artikel=220&z=2015-01-30&g=2015-01-30) binnen zes weken nadat het besluit is bekendgemaakt beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
 2. Geen beroep kan worden ingesteld tegen de weigering om de vernietiging te bevorderen en tegen het niet tijdig nemen van een besluit tot vernietiging.
 
@@ -2435,7 +2443,7 @@ Wanneer de eilandsraad bij of krachtens een andere dan deze wet of de [Wet finan
 
 ##### Artikel 232
 
-Bij de wet kunnen met afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=I&artikel=5&z=2014-03-19&g=2014-03-19) en [149](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=149&z=2014-03-19&g=2014-03-19) voorzieningen worden getroffen voor het geval het bestuur van een openbaar lichaam zijn taken grovelijk verwaarloost.
+Bij de wet kunnen met afwijking van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=I&artikel=5&z=2015-01-30&g=2015-01-30) en [149](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=149&z=2015-01-30&g=2015-01-30) voorzieningen worden getroffen voor het geval het bestuur van een openbaar lichaam zijn taken grovelijk verwaarloost.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
@@ -2447,17 +2455,17 @@ Bij de wet kunnen met afwijking van de [artikelen 5](https://wetten.overheid.nl/
 
 3. Tot het moment van aftreden, bedoeld in het tweede lid:
 
-- a. is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2014-03-19&g=2014-03-19) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield;
+- a. is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2015-01-30&g=2015-01-30) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield;
 
-- b. worden de vergoeding, tegemoetkoming in de kosten en andere financiële voorzieningen, bedoeld in [artikel 120, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=120&z=2014-03-19&g=2014-03-19), vastgesteld bij algemene maatregel van bestuur in plaats van bij eilandsverordening.
+- b. worden de vergoeding, tegemoetkoming in de kosten en andere financiële voorzieningen, bedoeld in [artikel 120, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=VIII&artikel=120&z=2015-01-30&g=2015-01-30), vastgesteld bij algemene maatregel van bestuur in plaats van bij eilandsverordening.
 
-4. In afwijking van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2014-03-19&g=2014-03-19), wordt een eilandsverordening als bedoeld in artikel 14, vierde lid, onderdeel d, die betrekking heeft op de eilandsraad van Sint Eustatius of Saba die op 2 maart 2011 wordt gekozen uiterlijk vastgesteld op 1 december 2010.
+4. In afwijking van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=14&z=2015-01-30&g=2015-01-30), wordt een eilandsverordening als bedoeld in artikel 14, vierde lid, onderdeel d, die betrekking heeft op de eilandsraad van Sint Eustatius of Saba die op 2 maart 2011 wordt gekozen uiterlijk vastgesteld op 1 december 2010.
 
 ##### Artikel 234
 
 1. De gedeputeerden, die op de dag voor de inwerkingtreding van deze wet fungeren als gedeputeerden van de eilandgebieden Bonaire, Sint Eustatius en Saba, worden geacht voor de resterende duur van hun benoeming te zijn benoemd door de eilandsraad van het openbaar lichaam Bonaire, het openbaar lichaam Sint Eustatius, onderscheidenlijk het openbaar lichaam Saba, tot eilandgedeputeerde van het openbaar lichaam Bonaire, het openbaar lichaam Sint Eustatius, onderscheidenlijk het openbaar lichaam Saba.
 
-2. Tot het moment dat de eilandgedeputeerden voor de eerste keer na de inwerkingtreding van deze wet op grond van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2014-03-19&g=2014-03-19) zijn afgetreden bedraagt het aantal eilandgedeputeerden:
+2. Tot het moment dat de eilandgedeputeerden voor de eerste keer na de inwerkingtreding van deze wet op grond van [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=54&z=2015-01-30&g=2015-01-30) zijn afgetreden bedraagt het aantal eilandgedeputeerden:
 
 - a. vier in het openbaar lichaam Bonaire;
 
@@ -2465,11 +2473,11 @@ Bij de wet kunnen met afwijking van de [artikelen 5](https://wetten.overheid.nl/
 
 3. Tot het moment van aftreden, bedoeld in het tweede lid:
 
-- a. is [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2014-03-19&g=2014-03-19) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield;
+- a. is [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=40&z=2015-01-30&g=2015-01-30) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield;
 
-- b. is [artikel 56, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=56&z=2014-03-19&g=2014-03-19), niet van toepassing.
+- b. is [artikel 56, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=56&z=2015-01-30&g=2015-01-30), niet van toepassing.
 
-4. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2014-03-19&g=2014-03-19) is niet van toepassing op de eilandgedeputeerden, bedoeld in het eerste lid.
+4. [Artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=49&z=2015-01-30&g=2015-01-30) is niet van toepassing op de eilandgedeputeerden, bedoeld in het eerste lid.
 
 ##### Artikel 235
 
@@ -2477,11 +2485,11 @@ Bij de wet kunnen met afwijking van de [artikelen 5](https://wetten.overheid.nl/
 
 2. Ten aanzien van de gezaghebbers, bedoeld in het eerste lid, is gedurende de resterende tijd van hun benoeming:
 
-- a. [artikel 78, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=78&z=2014-03-19&g=2014-03-19), niet van toepassing;
+- a. [artikel 78, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=78&z=2015-01-30&g=2015-01-30), niet van toepassing;
 
-- b. [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=80&z=2014-03-19&g=2014-03-19) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield.
+- b. [artikel 80](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=80&z=2015-01-30&g=2015-01-30) slechts van toepassing voor zover de Eilandenregeling Nederlandse Antillen, zoals die luidde op de dag voor de inwerkingtreding van deze wet, ter zake eveneens een verbod inhield.
 
-3. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=83&z=2014-03-19&g=2014-03-19) is niet van toepassing op de gezaghebbers, bedoeld in het eerste lid.
+3. [Artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=83&z=2015-01-30&g=2015-01-30) is niet van toepassing op de gezaghebbers, bedoeld in het eerste lid.
 
 ##### Artikel 236
 
@@ -2493,11 +2501,11 @@ De gezamenlijke rekenkamer wordt ingesteld binnen twee jaar na inwerkingtreding 
 
 2. Tot de datum waarop de eilandgriffier wordt benoemd staat de eilandsecretaris de eilandsraad en de door hem ingestelde commissies bij de uitoefening van hun taak terzijde.
 
-3. Tot de datum waarop de eilandgriffier is benoemd blijft de medeondertekening van de stukken die van de eilandsraad uitgaan, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=34&z=2014-03-19&g=2014-03-19), achterwege.
+3. Tot de datum waarop de eilandgriffier is benoemd blijft de medeondertekening van de stukken die van de eilandsraad uitgaan, bedoeld in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=34&z=2015-01-30&g=2015-01-30), achterwege.
 
 ##### Artikel 238
 
-De eilandsverordeningen, bedoeld in de [artikelen 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=35&z=2014-03-19&g=2014-03-19) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=154&z=2014-03-19&g=2014-03-19), alsmede de gedragscodes, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2014-03-19&g=2014-03-19), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=53&z=2014-03-19&g=2014-03-19) en [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=82&z=2014-03-19&g=2014-03-19), worden vastgesteld binnen een jaar na de dag van de inwerkingtreding van deze wet.
+De eilandsverordeningen, bedoeld in de [artikelen 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=35&z=2015-01-30&g=2015-01-30) en [154](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=IV&afdeling=II&artikel=154&z=2015-01-30&g=2015-01-30), alsmede de gedragscodes, bedoeld in de [artikelen 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=II&artikel=16&z=2015-01-30&g=2015-01-30), [53, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=III&artikel=53&z=2015-01-30&g=2015-01-30) en [82, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&hoofdstuk=III&afdeling=IV&artikel=82&z=2015-01-30&g=2015-01-30), worden vastgesteld binnen een jaar na de dag van de inwerkingtreding van deze wet.
 
 ##### Artikel 239
 
