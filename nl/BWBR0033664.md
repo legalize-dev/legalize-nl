@@ -4,7 +4,7 @@ identifier: "BWBR0033664"
 country: "nl"
 rank: "wet"
 publication_date: "2015-01-30"
-last_updated: "2013-12-01"
+last_updated: "2015-01-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033664"
 soort: "wet"
@@ -71,7 +71,7 @@ Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel VI
 
