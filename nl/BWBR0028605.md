@@ -4,7 +4,7 @@ identifier: "BWBR0028605"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2025-12-06"
-last_updated: "2010-10-10"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028605"
 soort: "ministeriele-regeling-BES"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - c. **het besluit:** het [Besluit basisadministraties persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028622);
 
-- d. **de systeembeschrijving basisadministraties BES:** de systeembeschrijving basisadministraties BES, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10);
+- d. **de systeembeschrijving basisadministraties BES:** de systeembeschrijving basisadministraties BES, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=2&artikel=3&z=2015-01-31&g=2015-01-31);
 
-- e. **de systeembeschrijving verstrekkingenvoorziening BES:** de systeembeschrijving verstrekkingenvoorziening BES, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10);
+- e. **de systeembeschrijving verstrekkingenvoorziening BES:** de systeembeschrijving verstrekkingenvoorziening BES, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31);
 
 - f. **het geautomatiseerde systeem van het openbaar lichaam:** het geautomatiseerde systeem waarmee het bestuurscollege uitvoering geeft aan de regels, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3);
 
@@ -80,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de regels omtrent de verzending en de ontvangst van berichten door de basisadministraties in verband met de uitvoering van [artikel 3a, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3a).
 
-2. De systeembeschrijving basisadministraties BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.0, dat als bijlage bij deze regeling is gevoegd.
+2. De systeembeschrijving basisadministraties BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.2, dat als bijlage bij deze regeling is gevoegd.
 
 ##### Artikel 4
 
@@ -120,7 +120,7 @@ Er zijn de nodige voorzieningen van technische en organisatorische aard ter beve
 
 - c. de regels omtrent de verzending en de ontvangst van berichten door de verstrekkingenvoorziening in verband met de uitvoering van [artikel 3a, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028208&artikel=3a).
 
-2. De systeembeschrijving verstrekkingenvoorziening BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.0, dat als bijlage bij deze regeling is gevoegd.
+2. De systeembeschrijving verstrekkingenvoorziening BES wordt gevormd door de op de onderwerpen, genoemd in het eerste lid, betrekking hebbende en als zodanig gemarkeerde hoofdstukken en bijlagen, of onderdelen daarvan, van het Logisch Ontwerp BES, versie 1.2, dat als bijlage bij deze regeling is gevoegd.
 
 ##### Artikel 7
 
@@ -146,7 +146,7 @@ Er zijn de nodige voorzieningen van technische en organisatorische aard ter beve
 
 ##### Artikel 9
 
-De systematische wijzen van verstrekking van gegevens, bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&artikel=31), zijn de wijzen die overeenkomstig [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), zijn beschreven in de systeembeschrijving verstrekkingenvoorziening BES.
+De systematische wijzen van verstrekking van gegevens, bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028622&artikel=31), zijn de wijzen die overeenkomstig [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), zijn beschreven in de systeembeschrijving verstrekkingenvoorziening BES.
 
 #### § 3. De uitwisseling van berichten met de verstrekkingenvoorziening
 
@@ -200,25 +200,25 @@ Berichten aan of van een betrokkene komen ten laste van die betrokkene.
 
 2. De minister bepaalt dit bedrag, gelet op:
 
-- a. de voor het lopende jaar te verwachten kosten als bedoeld in [artikel 14, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2010-10-10&g=2010-10-10), verminderd met het saldo over het vorige jaar;
+- a. de voor het lopende jaar te verwachten kosten als bedoeld in [artikel 14, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2015-01-31&g=2015-01-31), verminderd met het saldo over het vorige jaar;
 
 - b. het voor het volgende jaar te verwachten aantal berichten dat op grond van artikel 15 ten laste komt van de betrokkenen.
 
-3. Het saldo over het vorige jaar wordt gevonden door het aantal gerealiseerde berichten dat ten laste komt van de betrokkenen te vermenigvuldigen met het bedrag per bericht voor dat jaar en dit product te verminderen met de kosten, bedoeld in [artikel 14, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2010-10-10&g=2010-10-10), in dat jaar.
+3. Het saldo over het vorige jaar wordt gevonden door het aantal gerealiseerde berichten dat ten laste komt van de betrokkenen te vermenigvuldigen met het bedrag per bericht voor dat jaar en dit product te verminderen met de kosten, bedoeld in [artikel 14, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2015-01-31&g=2015-01-31), in dat jaar.
 
 4. De minister deelt het bedrag, bedoeld in het eerste lid, in september van elk jaar mede aan de betrokkenen.
 
-5. Indien de berichten met behulp van optische schijf of magneetschijf worden verzonden, wordt de prijs van een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), verhoogd met € 400 per verstrekking in verband met de kosten, bedoeld in [artikel 14, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2010-10-10&g=2010-10-10).
+5. Indien de berichten met behulp van optische schijf of magneetschijf worden verzonden, wordt de prijs van een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), verhoogd met € 400 per verstrekking in verband met de kosten, bedoeld in [artikel 14, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=14&z=2015-01-31&g=2015-01-31).
 
 ##### Artikel 17
 
-In afwijking van [artikel 16, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10), worden de bedragen voor de jaren 2010 tot en met 2012 als volgt vastgesteld:
+In afwijking van [artikel 16, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2015-01-31&g=2015-01-31), worden de bedragen voor de jaren 2010 tot en met 2012 als volgt vastgesteld:
 
-- a. De prijs voor een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), bedraagt € 0,15 per bericht.
+- a. De prijs voor een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), bedraagt € 0,15 per bericht.
 
-- b. De prijs voor een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), bedraagt voor de eerste verstrekking: € 3.500.
+- b. De prijs voor een verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), bedraagt voor de eerste verstrekking: € 3.500.
 
-- c. De prijs voor iedere volgende verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), die aan dezelfde voorwaarden voldoet als de eerste verstrekking en periodiek plaatsvindt, bedraagt:
+- c. De prijs voor iedere volgende verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), die aan dezelfde voorwaarden voldoet als de eerste verstrekking en periodiek plaatsvindt, bedraagt:
 
 - 1°. voor een dagelijkse verstrekking: € 50;
 
@@ -232,17 +232,17 @@ In afwijking van [artikel 16, eerste tot en met vierde lid](https://wetten.overh
 
 - 6°. voor een jaarlijkse verstrekking: € 3.000.
 
-- d. De prijs voor iedere volgende verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2010-10-10&g=2010-10-10), die aan dezelfde voorwaarden voldoet als de eerste verstrekking en niet periodiek plaatsvindt, bedraagt: € 3.000.
+- d. De prijs voor iedere volgende verstrekking als bedoeld in [artikel 6, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31), die aan dezelfde voorwaarden voldoet als de eerste verstrekking en niet periodiek plaatsvindt, bedraagt: € 3.000.
 
 ##### Artikel 18
 
 De bijdrage van een betrokkene bestaat uit maandelijkse betalingen. Hiertoe stelt de minister maandelijks het bedrag vast, dat aan de betrokkene in rekening wordt gebracht. De vaststelling geschiedt op basis van:
 
-- a. het op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10), vastgestelde, dan wel in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), genoemde bedrag per bericht voor het lopende jaar;
+- a. het op grond van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2015-01-31&g=2015-01-31), vastgestelde, dan wel in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=17&z=2015-01-31&g=2015-01-31), genoemde bedrag per bericht voor het lopende jaar;
 
-- b. het aantal berichten dat gedurende de desbetreffende maand op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=15&z=2010-10-10&g=2010-10-10) ten laste van de betrokkene komt;
+- b. het aantal berichten dat gedurende de desbetreffende maand op grond van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=15&z=2015-01-31&g=2015-01-31) ten laste van de betrokkene komt;
 
-- c. de bedragen die gedurende de desbetreffende maand op grond van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2010-10-10&g=2010-10-10), en [artikel 17, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=17&z=2010-10-10&g=2010-10-10), ten laste van de betrokkene kunnen worden gebracht.
+- c. de bedragen die gedurende de desbetreffende maand op grond van [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=16&z=2015-01-31&g=2015-01-31), en [artikel 17, eerste lid, onder b, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=4&artikel=17&z=2015-01-31&g=2015-01-31), ten laste van de betrokkene kunnen worden gebracht.
 
 ### Hoofdstuk 5. Slotbepalingen
 
@@ -254,8 +254,8 @@ Deze regeling treedt in werking op het tijdstip waarop de [Wet basisadministrati
 
 Deze regeling wordt aangehaald als: Regeling basisadministraties persoonsgegevens BES.
 
-## Bijlage
+## Bijlage. bij de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=2&artikel=3&z=2015-01-31&g=2015-01-31), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028605&hoofdstuk=3&paragraaf=1&artikel=6&z=2015-01-31&g=2015-01-31)
 
-Ligt ter inzage bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange Vijverberg 11 te ’s-Gravenhage.
+[Ter inzage gelegd bij het Agentschap Basisadministratie Persoonsgegevens en Reisdocumenten (BPR) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties, Turfmarkt 147, Den Haag.]
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlage, die ter inzage wordt gelegd bij het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten, Lange Vijverberg 11 te ’s-Gravenhage.
