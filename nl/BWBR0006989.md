@@ -4,7 +4,7 @@ identifier: "BWBR0006989"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-04-07"
-last_updated: "2006-02-12"
+last_updated: "2015-01-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006989"
 soort: "ministeriele-regeling"
@@ -40,7 +40,7 @@ Besluiten:
 
 ##### Artikel 1
 
-Als ambtenaren, belast met het toezicht op de naleving van het bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) bepaalde, worden aangewezen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de buitengewone opsporingsambtenaren van de Belastingdienst/ECD van het Ministerie van Financiën, de ambtenaren van de Algemene Inspectiedienst , de ambtenaren van de Erfgoedinspectie van het Ministerie van Onderwijs, Cultuur en Wetenschappen en de commandanten van de Nederlandse oorlogsschepen.
+Als ambtenaren, belast met het toezicht op de naleving van het bij of krachtens de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) bepaalde, worden aangewezen de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, de buitengewone opsporingsambtenaren van de Belastingdienst/ECD van het Ministerie van Financiën, de ambtenaren van de Algemene Inspectiedienst , de ambtenaren van de Erfgoedinspectie van het Ministerie van Onderwijs, Cultuur en Wetenschappen, de ambtenaren van de Inspectie Leefomgeving en Transport en de commandanten van de Nederlandse oorlogsschepen.
 
 ##### Artikel 2
 
