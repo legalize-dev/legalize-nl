@@ -4,7 +4,7 @@ identifier: "BWBR0034905"
 country: "nl"
 rank: "amvb"
 publication_date: "2023-01-13"
-last_updated: "2015-01-01"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034905"
 soort: "AMvB"
@@ -90,9 +90,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. **wet:** [Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424).
 
-2. Onder partner wordt in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2014-07-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=III&artikel=6&z=2014-07-01&g=2015-01-01), [7, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=7&z=2014-07-01&g=2015-01-01), [8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2014-07-01&g=2015-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2014-07-01&g=2015-01-01), mede verstaan de bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende echtgenoot of geregistreerde partner.
+2. Onder partner wordt in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2015-02-01&g=2015-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=III&artikel=6&z=2015-02-01&g=2015-02-01), [7, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=7&z=2015-02-01&g=2015-02-01), [8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2015-02-01&g=2015-02-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2015-02-01&g=2015-02-01), mede verstaan de bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende echtgenoot of geregistreerde partner.
 
-3. Onder kind wordt in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2014-07-01&g=2015-01-01), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2014-07-01&g=2015-01-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=9&z=2014-07-01&g=2015-01-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2014-07-01&g=2015-01-01), mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
+3. Onder kind wordt in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2015-02-01&g=2015-02-01), [8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2015-02-01&g=2015-02-01), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=9&z=2015-02-01&g=2015-02-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2015-02-01&g=2015-02-01), mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
 
 ##### Artikel 2
 
@@ -112,13 +112,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. al naar gelang de remigrant of zijn partner rechthebbende zijn op verstrekkingen voor medische zorg op grond van een verdrag tussen Nederland en het bestemmingsland of de [Verordening (EG) 883/04](31904R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels.
 
-5. De hoogte van het bruto bedrag van de remigratie-uitkering wordt bepaald naar de toestand op de datum van vertrek uit Nederland, een en ander onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=7&z=2014-07-01&g=2015-01-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2014-07-01&g=2015-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2014-07-01&g=2015-01-01).
+5. De hoogte van het bruto bedrag van de remigratie-uitkering wordt bepaald naar de toestand op de datum van vertrek uit Nederland, een en ander onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=7&z=2015-02-01&g=2015-02-01), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2015-02-01&g=2015-02-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2015-02-01&g=2015-02-01).
 
 ##### Artikel 3
 
-1. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2014-07-01&g=2015-01-01), worden jaarlijks gewijzigd aan de hand van de helft van het percentage waarmee in het voorafgaande kalenderjaar het bedrag, genoemd in [artikel 8, eerste lid, onder c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
+1. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2015-02-01&g=2015-02-01), worden jaarlijks gewijzigd aan de hand van de helft van het percentage waarmee in het voorafgaande kalenderjaar het bedrag, genoemd in [artikel 8, eerste lid, onder c, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
 
-2. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2014-07-01&g=2015-01-01), kunnen door Onze Minister worden gewijzigd indien de noodzakelijke kosten van bestaan in het bestemmingsland dusdanig wijzigen dat daartoe aanleiding bestaat.
+2. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2015-02-01&g=2015-02-01), kunnen door Onze Minister worden gewijzigd indien de noodzakelijke kosten van bestaan in het bestemmingsland dusdanig wijzigen dat daartoe aanleiding bestaat.
 
 ##### Artikel 4
 
@@ -130,7 +130,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Het bruto bedrag van de tegemoetkoming, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=4), wordt bij ministeriële regeling vastgesteld.
 
-2. De [artikelen 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2014-07-01&g=2015-01-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=3&z=2014-07-01&g=2015-01-01), zijn van overeenkomstige toepassing op het bedrag, bedoeld in het eerste lid.
+2. De [artikelen 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2015-02-01&g=2015-02-01), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=3&z=2015-02-01&g=2015-02-01), zijn van overeenkomstige toepassing op het bedrag, bedoeld in het eerste lid.
 
 3. Het bedrag, bedoeld in het eerste lid, wordt per maand uitbetaald.
 
@@ -142,7 +142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. In het bruto bedrag van een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) wordt niet begrepen de tegemoetkoming op grond van [artikel 29a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a).
 
-3. Op de remigratie-uitkering wordt niet in mindering gebracht het bruto bedrag van de tegemoetkoming op grond van de [Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](https://wetten.overheid.nl/jci1.3:c:BWBR0029984), waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering wordt verstrekt aanspraak heeft.
+3. Op de remigratie-uitkering wordt niet in mindering gebracht het bruto bedrag van de tegemoetkoming op grond van [artikel 33a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33a), waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering wordt verstrekt aanspraak heeft.
 
 ### Hoofdstuk IV. Tijdstip waarop het recht op voorzieningen ingaat en vervalt
 
@@ -208,11 +208,11 @@ Personen die zijn geremigreerd op grond van de [wet](https://wetten.overheid.nl/
 
 2. De [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=10) en [11 van het Uitvoeringbesluit Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=11) zoals dat luidde voor het tijdstip van inwerkingtreding van dit besluit, blijven van toepassing op personen die voor dat tijdstip zijn geremigreerd of een aanvraag voor remigratievoorzieningen bij de Sociale verzekeringsbank hebben ingediend.
 
-3. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=3&z=2014-07-01&g=2015-01-01), is niet van toepassing op personen die zijn geremigreerd vóór 1 april 2000.
+3. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=3&z=2015-02-01&g=2015-02-01), is niet van toepassing op personen die zijn geremigreerd vóór 1 april 2000.
 
 ##### Artikel 18
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet)](https://wetten.overheid.nl/jci1.3:c:BWBR0033774) (Stb. 2013, 331) in werking treedt, met uitzondering van de [artikelen 13, aanhef en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=13&z=2014-07-01&g=2015-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=15&z=2014-07-01&g=2015-01-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
+Dit besluit treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet)](https://wetten.overheid.nl/jci1.3:c:BWBR0033774) (Stb. 2013, 331) in werking treedt, met uitzondering van de [artikelen 13, aanhef en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=13&z=2015-02-01&g=2015-02-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=15&z=2015-02-01&g=2015-02-01), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 ##### Artikel 19
 
