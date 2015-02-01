@@ -4,7 +4,7 @@ identifier: "BWBR0031508"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031508"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Treedt in werking op het tijdstip, waarop de artikelen I, II, III en IV van de W
 
 ##### Artikel 1. Woonlandfactor
 
-Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=12), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=18), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=25), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29), [29a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a), en [67, twaalfde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67), [2, tiende en elfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en [62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=62), voor een woonland anders dan:
+Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=12), [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=17), [18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=18), [29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29), [29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a), en [67, negende lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=67), [2, elfde en twaalfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en [62, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=62), voor een woonland anders dan:
 
 - a. Nederland,
 
@@ -60,11 +60,11 @@ Het percentage, bedoeld in de [artikelen 12, tweede lid, van de Algemene Kinderb
 
 - a. de ouder aanspraak heeft op kindgebonden budget voor meer dan een kind; en
 
-- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-01-01&g=2015-01-01), bedoelde landen als woonland in aanmerking wordt genomen,
+- b. voor een of meer van die kinderen voor de toepassing van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) een ander land dan een van de in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), bedoelde landen als woonland in aanmerking wordt genomen,
 
-wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-01-01&g=2015-01-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
+wordt voor de vaststelling van de hoogte van het kindgebonden budget het hoogste bedrag aan kindgebonden budget op grond van [artikel 2, tweede, vierde en vijfde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) en de verhoging, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2) gekoppeld aan het kind dat woont in het land met het hoogste percentage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), en wordt vervolgens steeds het daarop volgende hoogste bedrag aan kindgebonden budget gekoppeld aan het kind dat woont in het land met het daarop volgende hoogste percentage. Bij een gelijk percentage wordt het hoogste bedrag aan kindgebonden budget gekoppeld aan het kind met de hoogste leeftijd.
 
-2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-01-01&g=2015-01-01), een percentage van 100.
+2. Voor de toepassing van het eerste lid hebben de landen, bedoeld in [artikel 1, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01), een percentage van 100.
 
 ##### Artikel 3. Inwerkingtreding
 
@@ -74,7 +74,7 @@ Deze regeling treedt voor wat betreft de [artikelen I](https://wetten.overheid.n
 
 Deze regeling wordt aangehaald als: Regeling woonlandbeginsel in de sociale zekerheid 2012.
 
-## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-01-01&g=2015-01-01) van de Regeling woonlandbeginsel in de sociale zekerheid 2012
+## Bijlage. als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1&z=2015-02-01&g=2015-02-01) van de Regeling woonlandbeginsel in de sociale zekerheid 2012
 
 | Land: | Woonlandfactor: |
 | --- | --- |
