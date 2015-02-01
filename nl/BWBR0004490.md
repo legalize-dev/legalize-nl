@@ -4,7 +4,7 @@ identifier: "BWBR0004490"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-02-01"
-last_updated: "2012-02-24"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004490"
 soort: "AMvB"
@@ -110,7 +110,7 @@ Voor de verrekening met het buitengewoon pensioen worden niet in aanmerking geno
 
 - g. de van de Sociale verzekeringsbank krachtens [artikel 4:98 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:98) ontvangen wettelijke rente;
 
-- h. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a) en [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](https://wetten.overheid.nl/jci1.3:c:BWBR0029984&artikel=3).
+- h. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a) en [artikel 33a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33a).
 
 ##### Artikel 6
 
@@ -142,11 +142,11 @@ Vervallen
 
 ##### Artikel 13
 
-1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2012-02-24&g=2012-02-24), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2012-02-24&g=2012-02-24) terug tot en met 1 januari 1983.
+1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) terug tot en met 1 januari 1983.
 
-2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2012-02-24&g=2012-02-24), werkt terug tot en met 1 januari 1987.
+2. [Artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), werkt terug tot en met 1 januari 1987.
 
-3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2012-02-24&g=2012-02-24) werkt terug tot en met 1 april 1988.
+3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) werkt terug tot en met 1 april 1988.
 
 ##### Artikel 14
 
