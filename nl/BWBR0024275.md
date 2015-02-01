@@ -4,7 +4,7 @@ identifier: "BWBR0024275"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024275"
 soort: "ministeriele-regeling"
@@ -122,7 +122,9 @@ Argentinië, Aruba, Australië, Brazilië, Canada, Curaçao, Frans Polynesië, G
 
 - i. het openbaar ministerie;
 
-- j. de politie.
+- j. de politie;
+
+- k. de kansspelautoriteit.
 
 2. De leden van de commissie worden door de Minister van Financiën en de Minister van Justitie gezamenlijk aangewezen. Bij de samenstelling van de commissie streven de Minister van Financiën en de Minister van Justitie naar een evenwichtige vertegenwoordiging van de instellingen, bedoeld in het eerste lid, onderdeel c.
 
