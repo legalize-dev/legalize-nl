@@ -4,7 +4,7 @@ identifier: "BWBR0025830"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-01"
-last_updated: "2015-01-01"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025830"
 soort: "AMvB"
@@ -70,19 +70,21 @@ De [artikelen 8 tot en met 10 van het Besluit eigen bijdrage rechtsbijstand](htt
 
 ##### Artikel 4
 
-1. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 49,– per 1 januari 2014: € 53, indien in een zaak minder dan vier uur mediation wordt verleend.
+1. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 53,–, indien in een zaak minder dan vier uur mediation wordt verleend.
 
-2. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2014: € 105, indien in een zaak vier uur of meer mediation wordt verleend.
+2. De eigen bijdrage, die een natuurlijk persoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 105,–, indien in een zaak vier uur of meer mediation wordt verleend.
 
-3. In afwijking van het eerste en tweede lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 49,– per 1 januari 2014: € 53, indien:
+3. In afwijking van het eerste en tweede lid bedraagt de eigen bijdrage die een natuurlijk persoon in een zaak verschuldigd is voor de verlening van mediation, ongeacht de duur van de verlening van mediation, € 53,– , indien:
 
 - a. uitsluitend zijn inkomen of vermogen in aanmerking wordt genomen en het inkomen ten hoogste € 16 800,– per 1 januari 2014: € 18.000 bedraagt; of
 
 - b. in andere gevallen, het inkomen ten hoogste € 23 400,– per 1 januari 2014: € 25.200 bedraagt.
 
-4. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 98,– per 1 januari 2014: € 105.
+4. De eigen bijdrage, die een rechtspersoon verschuldigd is voor de verlening van mediation op basis van een toevoeging, bedraagt € 105,–.
 
 5. [Artikel 3 van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=3) is van overeenkomstige toepassing ten aanzien van de inkomensgrenzen, bedoeld in het derde lid, alsmede de hoogten van de eigen bijdragen, bedoeld in het eerste tot en met vierde lid.
+
+6. In de periode tot 1 januari 2019 wordt ten aanzien van de eigen bijdragen, bedoeld in het eerste tot en met vierde lid, geen toepassing gegeven aan het bepaalde in [artikel 3, eerste lid, van het Besluit eigen bijdrage rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0025277&artikel=3).
 
 ##### Artikel 5
 
@@ -110,7 +112,9 @@ Indien een toevoeging ten behoeve van mediation wordt verleend in een zaak waari
 
 4. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3), [4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=4), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27) zijn van overeenkomstige toepassing.
 
-5. De vaststelling van de vergoeding, bedoeld in het eerste lid, vindt plaats met toepassing van het basisbedrag, bedoeld in het derde lid, de vergoeding, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=9&z=2013-12-23&g=2015-01-01), alsmede de vergoedingen overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de mediation is verricht.
+5. De vaststelling van de vergoeding, bedoeld in het eerste lid, vindt plaats met toepassing van het basisbedrag, bedoeld in het derde lid, de vergoeding, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=9&z=2015-02-01&g=2015-02-01), alsmede de vergoedingen overeenkomstig de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=26) en [27 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=27), die golden ten tijde van de afgifte van de toevoeging op grond waarvan de mediation is verricht.
+
+6. In afwijking van het vierde lid, wordt in de periode tot 1 januari 2019 geen toepassing gegeven aan het bepaalde in [artikel 3, tweede lid, van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=3).
 
 ##### Artikel 8
 
@@ -136,11 +140,11 @@ De [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&ar
 
 - a. de mediator bij zijn aanvraag tot vaststelling van de vergoeding, indien als resultaat van de mediation een vaststellingsovereenkomst is gesloten en een rechtzoekende uit hoofde hiervan een vordering met betrekking tot een geldsom ter hoogte van tenminste 50% van het heffingvrij vermogen heeft, van deze vordering melding maakt; en
 
-- b. de vergoeding wordt vastgesteld met inachtneming van [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=7&z=2013-12-23&g=2015-01-01), van dit besluit.
+- b. de vergoeding wordt vastgesteld met inachtneming van [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=7&z=2015-02-01&g=2015-02-01), van dit besluit.
 
 ##### Artikel 11
 
-1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=10&z=2013-12-23&g=2015-01-01), de vergoeding aan de mediator.
+1. Het bestuur betaalt overeenkomstig de vaststelling, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025830&hoofdstuk=4&artikel=10&z=2015-02-01&g=2015-02-01), de vergoeding aan de mediator.
 
 2. De [artikelen 32, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=32), en [33 van het Besluit vergoedingen rechtsbijstand 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011018&artikel=33) zijn van overeenkomstige toepassing ten aanzien van de in het eerste lid bedoelde betaling.
 
