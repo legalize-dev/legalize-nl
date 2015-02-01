@@ -4,7 +4,7 @@ identifier: "BWBR0011947"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-02-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011947"
 soort: "ministeriele-regeling"
@@ -94,9 +94,9 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 - d. een bedrag van € 118.771,00 ten behoeve van aanvullende pensioenvoorzieningen. Rechten op lijfrenten, bedoeld in de onderdelen a of b, alsmede polissen van levensverzekering, bedoeld in onderdeel c, worden op dit bedrag, tot ten hoogste een bedrag van € 118.771,00 in mindering gebracht.
 
-2. Tot de schulden behoren niet premies en bijdragen ter zake van rechten welke ingevolge [artikel 4, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=4&z=2015-01-01&g=2015-01-01) en [artikel 5, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=5&z=2015-01-01&g=2015-01-01) niet tot de bezittingen behoren.
+2. Tot de schulden behoren niet premies en bijdragen ter zake van rechten welke ingevolge [artikel 4, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=4&z=2015-02-01&g=2015-02-01) en [artikel 5, eerste lid, onderdeel a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=5&z=2015-02-01&g=2015-02-01) niet tot de bezittingen behoren.
 
-3. De Minister van Sociale Zaken en Werkgelegenheid herziet, met ingang van de dag waarop het netto minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wijzigt, met het percentage van deze wijziging, het bedrag genoemd in het eerste lid, onderdeel d.
+3. Het bedrag, genoemd in het eerste lid, onderdeel d, wordt met ingang van de dag waarop het netto minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wijzigt, met het percentage van deze wijziging gewijzigd en wordt door of namens Onze Minister bekendgemaakt in de Staatscourant.
 
 ##### Artikel 6
 
@@ -150,7 +150,7 @@ Indien bezittingen in het zicht van de beëindiging van het bedrijf of beroep zi
 
 ##### Artikel 12
 
-Burgemeester en wethouders kunnen [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=8&z=2015-01-01&g=2015-01-01), buiten toepassing laten, indien toepassing van die waardering zal leiden tot onbillijkheden van overwegende aard.
+Burgemeester en wethouders kunnen [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=8&z=2015-02-01&g=2015-02-01), buiten toepassing laten, indien toepassing van die waardering zal leiden tot onbillijkheden van overwegende aard.
 
 ##### Artikel 13
 
