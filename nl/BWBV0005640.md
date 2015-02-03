@@ -4,7 +4,7 @@ identifier: "BWBV0005640"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-02-03"
-last_updated: "2014-03-13"
+last_updated: "2015-02-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005640"
 soort: "verdrag"
@@ -32,7 +32,7 @@ entry_into_force: "2012-09-27"
 ---
 # Verdrag tot instelling van het Europees Stabiliteitsmechanisme tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland
 
-De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”);
+De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”);
 
 Vastbesloten de financiële stabiliteit van de eurozone te waarborgen;
 
@@ -50,7 +50,7 @@ De strikte inachtneming van het kader van de Europese Unie, het geïntegreerde m
 
 Op 9 december 2011 zijn de staatshoofden dan wel regeringsleiders van de lidstaten die de euro als munt hebben overeengekomen stappen te zetten in de richting van een sterkere economische unie met inbegrip van een begrotingspact en een versterkte coördinatie van het economische beleid die moet worden uitgevoerd middels een internationale overeenkomst, het Verdrag inzake stabiliteit, coördinatie en governance in de economische en monetaire unie („VSCG”). Het VSCG zal bijdragen aan de ontwikkeling van engere coördinatie in de eurozone om te zorgen voor een volgehouden, degelijk en krachtig beheer van de openbare financiën en richt zich zodoende op een van de belangrijkste bronnen van financiële instabiliteit. Het Verdrag en het VSCG vullen elkaar aan in het bevorderen van budgettaire verantwoordelijkheid en solidariteit in de economische en monetaire unie. Onderkend en afgesproken wordt dat het verlenen van financiële bijstand in het kader van nieuwe programma’s uit hoofde van het ESM, vanaf 1 maart 2013, zal afhangen van de ratificatie van het VSCG door het betrokken ESM-lid en, bij het verstrijken van de in artikel 3, lid 2, VSCG bedoelde omzettingstermijn, van het naleven van de voorschriften van dat artikel.
 
-Gezien de sterke verwevenheid van de eurozone kunnen ernstige risico’s voor de financiële stabiliteit van de lidstaten die de euro als munt hebben, de financiële stabiliteit van de eurozone als geheel in gevaar brengen. Daarom kan het ESM stabiliteitssteun verstrekken op basis van stringente voorwaarden die passend zijn voor het gekozen financiële-bijstandinstrument, indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel en van de lidstaten ervan te waarborgen. Het aanvankelijke maximale leningvolume van het ESM is vastgesteld op 500 000 miljoen EUR, met inbegrip van de uitstaande EFSF-stabiliteitssteun. Voorafgaand aan de inwerkingtreding van dit Verdrag zal echter worden nagegaan of het maximale geconsolideerde leningvolume van het ESM en de EFSF toereikend is. Indien het aangewezen is, zal het volume door de Raad van gouverneurs van het ESM verhoogd worden, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13), bij de inwerkingtreding van dit Verdrag.
+Gezien de sterke verwevenheid van de eurozone kunnen ernstige risico’s voor de financiële stabiliteit van de lidstaten die de euro als munt hebben, de financiële stabiliteit van de eurozone als geheel in gevaar brengen. Daarom kan het ESM stabiliteitssteun verstrekken op basis van stringente voorwaarden die passend zijn voor het gekozen financiële-bijstandinstrument, indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel en van de lidstaten ervan te waarborgen. Het aanvankelijke maximale leningvolume van het ESM is vastgesteld op 500 000 miljoen EUR, met inbegrip van de uitstaande EFSF-stabiliteitssteun. Voorafgaand aan de inwerkingtreding van dit Verdrag zal echter worden nagegaan of het maximale geconsolideerde leningvolume van het ESM en de EFSF toereikend is. Indien het aangewezen is, zal het volume door de Raad van gouverneurs van het ESM verhoogd worden, overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03), bij de inwerkingtreding van dit Verdrag.
 
 Alle lidstaten van de eurozone worden ESM-leden. Wanneer een lidstaat van de Europese Unie toetreedt tot de eurozone, dient hij een ESM-lid te worden, met alle rechten en verplichtingen welke met die van de Verdragsluitende partijen overeenstemmen.
 
@@ -68,7 +68,7 @@ Net als het IMF zal het ESM stabiliteitssteun verlenen aan ESM-leden waarvoor de
 
 De lidstaten van de eurozone steunen gelijkwaardigheid in crediteurenstatus voor het ESM en andere staten die, in coördinatie met het ESM, leningen verstrekken op bilateraal niveau.
 
-In de ESM-leningsvoorwaarden voor lidstaten waarvoor een macro-economisch aanpassingsprogramma geldt, met inbegrip van de voorwaarden bedoeld in [artikel 40 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=40&z=2014-03-13&g=2014-03-13), moeten de financierings- en operationele kosten van het ESM worden afgedekt; de voorwaarden dienen aan te sluiten bij de leningsvoorwaarden van de overeenkomsten inzake financiële bijstand die ondertekend werden tussen de EFSF, Ierland en de Central Bank of Ireland enerzijds en de EFSF, de Portugese Republiek en de Banco de Portugal anderzijds.
+In de ESM-leningsvoorwaarden voor lidstaten waarvoor een macro-economisch aanpassingsprogramma geldt, met inbegrip van de voorwaarden bedoeld in [artikel 40 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=40&z=2015-02-03&g=2015-02-03), moeten de financierings- en operationele kosten van het ESM worden afgedekt; de voorwaarden dienen aan te sluiten bij de leningsvoorwaarden van de overeenkomsten inzake financiële bijstand die ondertekend werden tussen de EFSF, Ierland en de Central Bank of Ireland enerzijds en de EFSF, de Portugese Republiek en de Banco de Portugal anderzijds.
 
 Geschillen tussen de Verdragsluitende partijen onderling of tussen de Verdragsluitende partijen en het ESM in verband met de uitlegging en de toepassing van dit Verdrag, dienen overeenkomstig [artikel 273 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273) („VWEU”) aan de rechtsmacht van het Hof van Justitie van de Europese Unie te worden onderworpen.
 
@@ -88,9 +88,9 @@ Zijn overeengekomen hetgeen volgt:
 
 1. Het lidmaatschap van het ESM staat open voor de andere lidstaten van de Europese Unie vanaf de inwerkingtreding van het overeenkomstig [artikel 140, lid 2, VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=140) vastgestelde besluit van de Raad van de Europese Unie tot intrekking van hun derogatie de euro aan te nemen.
 
-2. Nieuwe ESM-leden worden overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2014-03-13&g=2014-03-13) onder dezelfde voorwaarden als bestaande ESM-leden tot het ESM toegelaten.
+2. Nieuwe ESM-leden worden overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2015-02-03&g=2015-02-03) onder dezelfde voorwaarden als bestaande ESM-leden tot het ESM toegelaten.
 
-3. Een nieuwe lidstaat die tot het ESM toetreedt na de instelling ervan, ontvangt aandelen in het ESM in ruil voor zijn kapitaalinbreng, die wordt berekend overeenkomstig de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13) bepaalde bijdragesleutel.
+3. Een nieuwe lidstaat die tot het ESM toetreedt na de instelling ervan, ontvangt aandelen in het ESM in ruil voor zijn kapitaalinbreng, die wordt berekend overeenkomstig de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03) bepaalde bijdragesleutel.
 
 ##### Artikel 3. Doel
 
@@ -106,7 +106,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van stabil
 
 3. Voor de aanneming van een besluit in onderlinge overeenstemming is eenparigheid van stemmen vereist van de leden die aan de stemming deelnemen. Onthoudingen beletten niet dat een besluit in onderlinge overeenstemming wordt aangenomen.
 
-4. In afwijking van lid 3 wordt gebruik gemaakt van een spoedstemprocedure indien de Commissie en de ECB beide concluderen dat als niet dringend een besluit tot verlening of tenuitvoerlegging van financiële bijstand, zoals gedefinieerd in de [artikelen 13 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), wordt vastgesteld, zulks de economische en financiële duurzaamheid van de eurozone in gevaar kan brengen. Voor de aanneming van een besluit in onderlinge overeenstemming door de Raad van gouverneurs als bedoeld in [artikel 5, lid 6, onder f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2014-03-13&g=2014-03-13), en de Raad van bewind volgens die spoedprocedure is een gekwalificeerde meerderheid van 85% van de uitgebrachte stemmen vereist.
+4. In afwijking van lid 3 wordt gebruik gemaakt van een spoedstemprocedure indien de Commissie en de ECB beide concluderen dat als niet dringend een besluit tot verlening of tenuitvoerlegging van financiële bijstand, zoals gedefinieerd in de [artikelen 13 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), wordt vastgesteld, zulks de economische en financiële duurzaamheid van de eurozone in gevaar kan brengen. Voor de aanneming van een besluit in onderlinge overeenstemming door de Raad van gouverneurs als bedoeld in [artikel 5, lid 6, onder f) en g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2015-02-03&g=2015-02-03), en de Raad van bewind volgens die spoedprocedure is een gekwalificeerde meerderheid van 85% van de uitgebrachte stemmen vereist.
 
 Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure, gebeurt een overdracht van het reservefonds en/of het volgestorte kapitaal naar een noodreservefonds om een buffer te vormen die specifiek als doel heeft de risico’s die voortkomen uit de uit hoofde van die spoedprocedure verleende financiële steun af te dekken. De Raad van bewind kan besluiten het noodreservefonds af te schaffen en de inhoud ervan weer aan het reservefonds en/of het volgestorte kapitaal over te dragen.
 
@@ -114,9 +114,9 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 6. Voor de aanneming van een besluit met gewone meerderheid van stemmen is een meerderheid van de uitgebrachte stemmen vereist.
 
-7. De stemrechten van elk ESM-lid welke door een door dit ESM-lid aangestelde persoon of diens vertegenwoordiger in de Raad van gouverneurs of de Raad van bewind worden uitgeoefend, zijn gelijk aan het aan het betrokken lid toegewezen aantal aandelen in het maatschappelijk kapitaal van het ESM zoals vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2014-03-13&g=2014-03-13) bij dit Verdrag.
+7. De stemrechten van elk ESM-lid welke door een door dit ESM-lid aangestelde persoon of diens vertegenwoordiger in de Raad van gouverneurs of de Raad van bewind worden uitgeoefend, zijn gelijk aan het aan het betrokken lid toegewezen aantal aandelen in het maatschappelijk kapitaal van het ESM zoals vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2015-02-03&g=2015-02-03) bij dit Verdrag.
 
-8. Ingeval een ESM-lid verzuimt een deel van het bedrag te betalen dat het verschuldigd is uit hoofde van de krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2014-03-13&g=2014-03-13), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2014-03-13&g=2014-03-13)en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13) op hem rustende verplichtingen in verband met volgestorte aandelen of opvragingen van kapitaal, dan wel uit hoofde van de krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=16&z=2014-03-13&g=2014-03-13) of [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=17&z=2014-03-13&g=2014-03-13) op hem rustende verplichtingen in verband met de terugbetaling van de financiële bijstand, is het betrokken ESM-lid, zolang dat verzuim voortduurt, niet gerechtigd zijn stemrechten uit te oefenen. De stemmingsdrempels worden dienovereenkomstig herberekend.
+8. Ingeval een ESM-lid verzuimt een deel van het bedrag te betalen dat het verschuldigd is uit hoofde van de krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2015-02-03&g=2015-02-03), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2015-02-03&g=2015-02-03)en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03) op hem rustende verplichtingen in verband met volgestorte aandelen of opvragingen van kapitaal, dan wel uit hoofde van de krachtens de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=16&z=2015-02-03&g=2015-02-03) of [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=17&z=2015-02-03&g=2015-02-03) op hem rustende verplichtingen in verband met de terugbetaling van de financiële bijstand, is het betrokken ESM-lid, zolang dat verzuim voortduurt, niet gerechtigd zijn stemrechten uit te oefenen. De stemmingsdrempels worden dienovereenkomstig herberekend.
 
 ##### Artikel 5. Raad van gouverneurs
 
@@ -132,59 +132,59 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 6. De Raad van gouverneurs neemt in onderlinge overeenstemming de volgende besluiten:
 
-- a. om het noodreservefonds af te schaffen en de inhoud ervan weer aan het reservefonds en/of het volgestorte kapitaal over te dragen, in overeenstemming met [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=4&z=2014-03-13&g=2014-03-13);
+- a. om het noodreservefonds af te schaffen en de inhoud ervan weer aan het reservefonds en/of het volgestorte kapitaal over te dragen, in overeenstemming met [artikel 4, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=4&z=2015-02-03&g=2015-02-03);
 
-- b. om nieuwe aandelen uit te geven tegen andere voorwaarden dan a pari overeenkomstig [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2014-03-13&g=2014-03-13);
+- b. om nieuwe aandelen uit te geven tegen andere voorwaarden dan a pari overeenkomstig [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2015-02-03&g=2015-02-03);
 
-- c. om over te gaan tot de opvragingen van kapitaal overeenkomstig [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2014-03-13&g=2014-03-13);
+- c. om over te gaan tot de opvragingen van kapitaal overeenkomstig [artikel 9, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2015-02-03&g=2015-02-03);
 
-- d. om het maatschappelijk kapitaal te wijzigen en het maximale leningvolume van het ESM aan te passen overeenkomstig [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13);
+- d. om het maatschappelijk kapitaal te wijzigen en het maximale leningvolume van het ESM aan te passen overeenkomstig [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03);
 
-- e. om rekening te houden met een mogelijke actualisering van de sleutel voor de inschrijving op het kapitaal van de ECB overeenkomstig [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13), en de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) aan te brengen wijzigingen overeenkomstig artikel 11, lid 6;
+- e. om rekening te houden met een mogelijke actualisering van de sleutel voor de inschrijving op het kapitaal van de ECB overeenkomstig [artikel 11, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03), en de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) aan te brengen wijzigingen overeenkomstig artikel 11, lid 6;
 
-- f. om stabiliteitssteun door het ESM te verstrekken, met inbegrip van de voorwaarden inzake economisch beleid zoals vastgelegd in het in [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), bedoelde memorandum van overeenstemming, en om de keuze van instrumenten en de financiële en andere voorwaarden vast te stellen overeenkomstig de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2014-03-13&g=2014-03-13);
+- f. om stabiliteitssteun door het ESM te verstrekken, met inbegrip van de voorwaarden inzake economisch beleid zoals vastgelegd in het in [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), bedoelde memorandum van overeenstemming, en om de keuze van instrumenten en de financiële en andere voorwaarden vast te stellen overeenkomstig de [artikelen 12 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2015-02-03&g=2015-02-03);
 
-- g. om aan de Europese Commissie mandaat te verlenen om, in overleg met de ECB, te onderhandelen over de aan elke financiële bijstand verbonden economische beleidsvoorwaarden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13);
+- g. om aan de Europese Commissie mandaat te verlenen om, in overleg met de ECB, te onderhandelen over de aan elke financiële bijstand verbonden economische beleidsvoorwaarden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03);
 
-- h. om het prijsstellingsbeleid en de prijsstellingsrichtsnoeren voor de financiële bijstand te wijzigen overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=20&z=2014-03-13&g=2014-03-13);
+- h. om het prijsstellingsbeleid en de prijsstellingsrichtsnoeren voor de financiële bijstand te wijzigen overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=20&z=2015-02-03&g=2015-02-03);
 
-- i. om de lijst van financiële-bijstandinstrumenten die door het ESM kunnen worden gebruikt te wijzigen overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=19&z=2014-03-13&g=2014-03-13);
+- i. om de lijst van financiële-bijstandinstrumenten die door het ESM kunnen worden gebruikt te wijzigen overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=19&z=2015-02-03&g=2015-02-03);
 
-- j. om de uitvoeringsregels van de overdracht van EFSF-steun aan het ESM vast te stellen overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=40&z=2014-03-13&g=2014-03-13);
+- j. om de uitvoeringsregels van de overdracht van EFSF-steun aan het ESM vast te stellen overeenkomstig [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=40&z=2015-02-03&g=2015-02-03);
 
-- k. om de aanvraag tot toetreding tot het ESM door nieuwe leden goed te keuren overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2014-03-13&g=2014-03-13);
+- k. om de aanvraag tot toetreding tot het ESM door nieuwe leden goed te keuren overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2015-02-03&g=2015-02-03);
 
-- l. om aanpassingen aan dit Verdrag aan te brengen als rechtstreeks gevolg van de toetreding van nieuwe leden, met inbegrip van de wijzigingen die in de verdeling van het kapitaal onder de ESM-leden moeten worden aangebracht, en de berekening van deze verdeling als rechtstreeks gevolg van de toetreding van een nieuw lid tot het ESM overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2014-03-13&g=2014-03-13); en
+- l. om aanpassingen aan dit Verdrag aan te brengen als rechtstreeks gevolg van de toetreding van nieuwe leden, met inbegrip van de wijzigingen die in de verdeling van het kapitaal onder de ESM-leden moeten worden aangebracht, en de berekening van deze verdeling als rechtstreeks gevolg van de toetreding van een nieuw lid tot het ESM overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2015-02-03&g=2015-02-03); en
 
 - m. om aan de Raad van bewind de in dit artikel opgesomde taken te delegeren.
 
 7. De Raad van gouverneurs neemt met gekwalificeerde meerderheid van stemmen de volgende besluiten:
 
-- a. om de gedetailleerde technische voorwaarden voor de toetreding van een nieuw lid tot het ESM overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2014-03-13&g=2014-03-13) te bepalen;
+- a. om de gedetailleerde technische voorwaarden voor de toetreding van een nieuw lid tot het ESM overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2015-02-03&g=2015-02-03) te bepalen;
 
 - b. om te worden voorgezeten door de voorzitter van de Eurogroep dan wel om met gekwalificeerde meerderheid van stemmen de voorzitter en de vicevoorzitter van de Raad van gouverneurs te kiezen overeenkomstig lid 2;
 
 - c. om de organisatievoorschriften van het ESM en het reglement van orde van de Raad van gouverneurs en de Raad van bewind (waarin het recht is opgenomen om comités en ondersteunende organen op te richten) vast te leggen overeenkomstig lid 9;
 
-- d. om de lijst van activiteiten die onverenigbaar zijn met de functie van bewindvoerder of plaatsvervangend bewindvoerder vast te stellen overeenkomstig [artikel 6, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=6&z=2014-03-13&g=2014-03-13);
+- d. om de lijst van activiteiten die onverenigbaar zijn met de functie van bewindvoerder of plaatsvervangend bewindvoerder vast te stellen overeenkomstig [artikel 6, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=6&z=2015-02-03&g=2015-02-03);
 
-- e. om de directeur te benoemen en diens ambtstermijn te beëindigen overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=7&z=2014-03-13&g=2014-03-13);
+- e. om de directeur te benoemen en diens ambtstermijn te beëindigen overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=7&z=2015-02-03&g=2015-02-03);
 
-- f. om andere fondsen in te stellen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=24&z=2014-03-13&g=2014-03-13);
+- f. om andere fondsen in te stellen overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=24&z=2015-02-03&g=2015-02-03);
 
-- g. betreffende de te ondernemen acties om een schuld van een ESM-lid terug te vorderen overeenkomstig [artikel 25, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=25&z=2014-03-13&g=2014-03-13);
+- g. betreffende de te ondernemen acties om een schuld van een ESM-lid terug te vorderen overeenkomstig [artikel 25, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=25&z=2015-02-03&g=2015-02-03);
 
-- h. om de jaarrekening van het ESM goed te keuren overeenkomstig [artikel 27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=27&z=2014-03-13&g=2014-03-13);
+- h. om de jaarrekening van het ESM goed te keuren overeenkomstig [artikel 27, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=27&z=2015-02-03&g=2015-02-03);
 
-- i. om de leden van het auditcomité te benoemen overeenkomstig [artikel 30, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=30&z=2014-03-13&g=2014-03-13);
+- i. om de leden van het auditcomité te benoemen overeenkomstig [artikel 30, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=30&z=2015-02-03&g=2015-02-03);
 
-- j. om de externe auditors te aanvaarden overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=29&z=2014-03-13&g=2014-03-13);
+- j. om de externe auditors te aanvaarden overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=29&z=2015-02-03&g=2015-02-03);
 
-- k. om de immuniteit van de voorzitter van de Raad van gouverneurs, een gouverneur, een plaatsvervangend gouverneur, een bewindvoerder, een plaatsvervangend bewindvoerder of de directeur op te heffen overeenkomstig [artikel 35, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=35&z=2014-03-13&g=2014-03-13);
+- k. om de immuniteit van de voorzitter van de Raad van gouverneurs, een gouverneur, een plaatsvervangend gouverneur, een bewindvoerder, een plaatsvervangend bewindvoerder of de directeur op te heffen overeenkomstig [artikel 35, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=35&z=2015-02-03&g=2015-02-03);
 
-- l. om het op het ESM-personeel toepasselijke belastingregime vast te stellen overeenkomstig [artikel 36, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=36&z=2014-03-13&g=2014-03-13);
+- l. om het op het ESM-personeel toepasselijke belastingregime vast te stellen overeenkomstig [artikel 36, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=36&z=2015-02-03&g=2015-02-03);
 
-- m. betreffende een geschil overeenkomstig [artikel 37, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=37&z=2014-03-13&g=2014-03-13); en
+- m. betreffende een geschil overeenkomstig [artikel 37, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=6&artikel=37&z=2015-02-03&g=2015-02-03); en
 
 - n. alle andere noodzakelijke besluiten waarin dit Verdrag niet uitdrukkelijk voorziet.
 
@@ -202,9 +202,9 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 4. Andere personen, zoals onder meer vertegenwoordigers van instellingen of organisaties, kunnen door de Raad van gouverneurs op ad-hocbasis worden uitgenodigd om vergaderingen bij te wonen als waarnemers.
 
-5. De Raad van bewind neemt besluiten bij gekwalificeerde meerderheid van stemmen, tenzij in dit Verdrag anders is vermeld. Besluiten die genomen worden op grond van door de Raad van gouverneurs gedelegeerde bevoegdheden worden vastgesteld in overeenstemming met de in [artikel 5, leden 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2014-03-13&g=2014-03-13), vastgestelde toepasselijke stemmingsregels.
+5. De Raad van bewind neemt besluiten bij gekwalificeerde meerderheid van stemmen, tenzij in dit Verdrag anders is vermeld. Besluiten die genomen worden op grond van door de Raad van gouverneurs gedelegeerde bevoegdheden worden vastgesteld in overeenstemming met de in [artikel 5, leden 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2015-02-03&g=2015-02-03), vastgestelde toepasselijke stemmingsregels.
 
-6. Zonder afbreuk te doen aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2014-03-13&g=2014-03-13) omschreven bevoegdheden van de Raad van gouverneurs, draagt de Raad van bewind er zorg voor dat het ESM wordt beheerd in overeenstemming met dit Verdrag en met de organisatievoorschriften van het ESM die door de Raad van gouverneurs zijn vastgesteld. De Raad van bewind neemt de besluiten waarvoor hij krachtens dit Verdrag bevoegd is of die door de Raad van gouverneurs aan hem zijn gedelegeerd.
+6. Zonder afbreuk te doen aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=2&artikel=5&z=2015-02-03&g=2015-02-03) omschreven bevoegdheden van de Raad van gouverneurs, draagt de Raad van bewind er zorg voor dat het ESM wordt beheerd in overeenstemming met dit Verdrag en met de organisatievoorschriften van het ESM die door de Raad van gouverneurs zijn vastgesteld. De Raad van bewind neemt de besluiten waarvoor hij krachtens dit Verdrag bevoegd is of die door de Raad van gouverneurs aan hem zijn gedelegeerd.
 
 7. Indien een functie in de Raad van bewind openvalt, wordt deze onmiddellijk opgevuld overeenkomstig lid 1.
 
@@ -226,13 +226,13 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 ##### Artikel 8. Maatschappelijk kapitaal
 
-1. Het maatschappelijk kapitaal bedraagt 701.935,3 miljoen EUR. Het is verdeeld in zeven miljoen negentienduizend driehonderddrieënvijftig aandelen, elk met een nominale waarde van 100 000 EUR, waarop kan worden ingeschreven volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13) omschreven en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) bepaalde oorspronkelijke bijdragesleutel.
+1. Het maatschappelijk kapitaal bedraagt 704.798,7 miljoen EUR. Het is verdeeld in zeven miljoen zevenenveertigduizend negenhonderdzevenentachtig aandelen, elk met een nominale waarde van 100 000 EUR, waarop kan worden ingeschreven volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03) omschreven en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) bepaalde oorspronkelijke bijdragesleutel.
 
-2. Het maatschappelijk kapitaal is verdeeld in volgestorte aandelen en niet-volgestorte aandelen. De oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen bedraagt 80.221,2 miljoen EUR. De aandelen in het maatschappelijk kapitaal waarop aanvankelijk wordt ingeschreven, worden uitgegeven a pari. De andere aandelen worden eveneens a pari uitgegeven, tenzij de Raad van gouverneurs onder bijzondere omstandigheden besluit deze onder andere voorwaarden uit te geven.
+2. Het maatschappelijk kapitaal is verdeeld in volgestorte aandelen en niet-volgestorte aandelen. De oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen bedraagt 80.548,4 miljoen EUR. De aandelen in het maatschappelijk kapitaal waarop aanvankelijk wordt ingeschreven, worden uitgegeven a pari. De andere aandelen worden eveneens a pari uitgegeven, tenzij de Raad van gouverneurs onder bijzondere omstandigheden besluit deze onder andere voorwaarden uit te geven.
 
-3. De aandelen in het maatschappelijk kapitaal worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar ingeval de overdrachten ten doel hebben uitvoering te geven aan aanpassingen in de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13) bepaalde bijdragesleutel, waarbij aandelen in die mate worden overgedragen dat de verdeling van de aandelen met de aangepaste sleutel overeenkomt.
+3. De aandelen in het maatschappelijk kapitaal worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar ingeval de overdrachten ten doel hebben uitvoering te geven aan aanpassingen in de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03) bepaalde bijdragesleutel, waarbij aandelen in die mate worden overgedragen dat de verdeling van de aandelen met de aangepaste sleutel overeenkomt.
 
-4. De ESM-leden verbinden er zich hierbij onherroepelijk en onvoorwaardelijk toe hun bijdrage tot het maatschappelijk kapitaal te leveren overeenkomstig hun in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) vermelde bijdragesleutel. Zij geven tijdig gevolg aan alle opvragingen van kapitaal overeenkomstig de in dit Verdrag vastgelegde voorwaarden.
+4. De ESM-leden verbinden er zich hierbij onherroepelijk en onvoorwaardelijk toe hun bijdrage tot het maatschappelijk kapitaal te leveren overeenkomstig hun in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) vermelde bijdragesleutel. Zij geven tijdig gevolg aan alle opvragingen van kapitaal overeenkomstig de in dit Verdrag vastgelegde voorwaarden.
 
 5. De aansprakelijkheid van elk ESM-lid blijft onder alle omstandigheden beperkt tot zijn aandeel in het maatschappelijk kapitaal tegen de uitgifteprijs ervan. De ESM-leden zijn niet op grond van hun lidmaatschap aansprakelijk voor verplichtingen van het ESM. De verplichting van ESM-leden om overeenkomstig dit Verdrag tot het maatschappelijk kapitaal bij te dragen, wordt onverlet gelaten door het feit dat een dergelijk ESM-lid in aanmerking komt voor financiële bijstand van het ESM of dergelijke bijstand ontvangt.
 
@@ -240,7 +240,7 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 1. De Raad van gouverneurs kan te allen tijde niet-volgestort maatschappelijk kapitaal opvragen en een passende termijn vaststellen voor de betaling ervan door de ESM-leden.
 
-2. De Raad van bewind kan bij besluit met gewone meerderheid van stemmen niet-volgestort maatschappelijk kapitaal opvragen om het niveau van het volgestort kapitaal te herstellen wanneer het bedrag van het volgestort kapitaal als gevolg van de absorptie van verliezen is gedaald tot onder het in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2014-03-13&g=2014-03-13), vastgelegde niveau, dat door de Raad van gouverneurs kan worden gewijzigd volgens de procedure van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13), en een passende termijn vaststellen voor de betaling ervan door de ESM-leden.
+2. De Raad van bewind kan bij besluit met gewone meerderheid van stemmen niet-volgestort maatschappelijk kapitaal opvragen om het niveau van het volgestort kapitaal te herstellen wanneer het bedrag van het volgestort kapitaal als gevolg van de absorptie van verliezen is gedaald tot onder het in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2015-02-03&g=2015-02-03), vastgelegde niveau, dat door de Raad van gouverneurs kan worden gewijzigd volgens de procedure van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03), en een passende termijn vaststellen voor de betaling ervan door de ESM-leden.
 
 3. De directeur vraagt tijdig niet-volgestort maatschappelijk kapitaal op wanneer dat nodig is om te vermijden dat het ESM een geplande of andere betalingsverplichting jegens crediteuren van het ESM niet nakomt. De directeur stelt de Raad van bewind en de Raad van gouverneurs van een dergelijke opvraging in kennis. Wanneer een potentieel tekort aan ESM-middelen wordt vastgesteld, verricht de directeur deze opvraging(en) van kapitaal zo spoedig mogelijk teneinde te waarborgen dat het ESM over voldoende middelen beschikt om de aan crediteuren verschuldigde betalingen volledig en op tijd te kunnen verrichten. De ESM-leden verbinden er zich hierbij onherroepelijk en onvoorwaardelijk toe op verzoek elke door de directeur overeenkomstig dit lid verrichte opvraging van kapitaal te betalen binnen een termijn van zeven dagen na ontvangst.
 
@@ -248,29 +248,29 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 ##### Artikel 10. Wijzigingen in het maatschappelijk kapitaal
 
-1. De Raad van gouverneurs evalueert op gezette tijden en ten minste om de vijf jaar het maximale leningvolume en de toereikendheid van het maatschappelijk kapitaal van het ESM. Hij kan besluiten het maatschappelijk kapitaal te wijzigen en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2014-03-13&g=2014-03-13) en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2014-03-13&g=2014-03-13) dienovereenkomstig aan te passen. Dit besluit treedt in werking nadat de ESM-leden de depositaris in kennis hebben gesteld van de voltooiing van hun toepasselijke nationale procedures. De nieuwe aandelen worden aan de ESM-leden toegewezen volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13) en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) bepaalde bijdragesleutel.
+1. De Raad van gouverneurs evalueert op gezette tijden en ten minste om de vijf jaar het maximale leningvolume en de toereikendheid van het maatschappelijk kapitaal van het ESM. Hij kan besluiten het maatschappelijk kapitaal te wijzigen en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2015-02-03&g=2015-02-03) en [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2015-02-03&g=2015-02-03) dienovereenkomstig aan te passen. Dit besluit treedt in werking nadat de ESM-leden de depositaris in kennis hebben gesteld van de voltooiing van hun toepasselijke nationale procedures. De nieuwe aandelen worden aan de ESM-leden toegewezen volgens de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03) en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) bepaalde bijdragesleutel.
 
 2. De Raad van bewind stelt de gedetailleerde voorwaarden vast die gelden voor alle of een deel van de wijzigingen die uit hoofde van lid 1 in het kapitaal worden aangebracht.
 
-3. Zodra een lidstaat van de Europese Unie als nieuw lid toetreedt tot het ESM, wordt het maatschappelijk kapitaal van het ESM automatisch verhoogd door de op dat ogenblik geldende respectieve bedragen te vermenigvuldigen met de ratio tussen de weging, in het kader van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2014-03-13&g=2014-03-13) bepaalde aangepaste bijdragesleutel, van het nieuwe ESM-lid enerzijds en die van de bestaande ESM-leden anderzijds.
+3. Zodra een lidstaat van de Europese Unie als nieuw lid toetreedt tot het ESM, wordt het maatschappelijk kapitaal van het ESM automatisch verhoogd door de op dat ogenblik geldende respectieve bedragen te vermenigvuldigen met de ratio tussen de weging, in het kader van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=11&z=2015-02-03&g=2015-02-03) bepaalde aangepaste bijdragesleutel, van het nieuwe ESM-lid enerzijds en die van de bestaande ESM-leden anderzijds.
 
 ##### Artikel 11. Bijdragesleutel
 
 1. De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is, behoudens de leden 2 en 3, gebaseerd op de sleutel voor de inschrijving van de nationale centrale banken van de ESM-leden op het kapitaal van de ECB, welke is vastgesteld overeenkomstig [artikel 29 van Protocol (nr. 4) betreffende de statuten van het Europees Stelsel van centrale banken en van de Europese Centrale Bank (de „ESCB-statuten”)](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=29), dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en aan het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht.
 
-2. De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13).
+2. De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM is vermeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03).
 
 3. De bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM wordt aangepast wanneer:
 
-- a. een lidstaat van de Europese Unie als nieuw lid toetreedt tot het ESM en het maatschappelijk kapitaal van het ESM automatisch wordt verhoogd als gespecificeerd in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13); of
+- a. een lidstaat van de Europese Unie als nieuw lid toetreedt tot het ESM en het maatschappelijk kapitaal van het ESM automatisch wordt verhoogd als gespecificeerd in [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03); of
 
-- b. een einde komt aan de overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=42&z=2014-03-13&g=2014-03-13) vastgestelde tijdelijke correctie die gedurende een periode van twaalf jaar voor een ESM-lid is toegepast.
+- b. een einde komt aan de overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=42&z=2015-02-03&g=2015-02-03) vastgestelde tijdelijke correctie die gedurende een periode van twaalf jaar voor een ESM-lid is toegepast.
 
-4. De Raad van gouverneurs kan besluiten rekening te houden met eventuele actualiseringen van de in lid 1 bedoelde sleutel voor de inschrijving op het kapitaal van de ECB wanneer de bijdragesleutel aangepast wordt overeenkomstig lid 3 of wanneer er een verandering optreedt in het maatschappelijk kapitaal, zoals gespecificeerd in [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13).
+4. De Raad van gouverneurs kan besluiten rekening te houden met eventuele actualiseringen van de in lid 1 bedoelde sleutel voor de inschrijving op het kapitaal van de ECB wanneer de bijdragesleutel aangepast wordt overeenkomstig lid 3 of wanneer er een verandering optreedt in het maatschappelijk kapitaal, zoals gespecificeerd in [artikel 10, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03).
 
 5. Indien de bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM wordt aangepast, dragen de ESM-leden onderling maatschappelijk kapitaal over in die mate dat de verdeling van het maatschappelijk kapitaal met de aangepaste sleutel overeenkomt.
 
-6. Bij elke bij dit artikel bedoelde aanpassing wordt [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) gewijzigd bij besluit van de Raad van gouverneurs.
+6. Bij elke bij dit artikel bedoelde aanpassing wordt [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) gewijzigd bij besluit van de Raad van gouverneurs.
 
 7. De Raad van bewind treft alle andere maatregelen die voor de toepassing van dit artikel nodig zijn.
 
@@ -280,7 +280,7 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 1. Indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel en van de lidstaten ervan te waarborgen, kan het ESM stabiliteitssteun aan een ESM-lid verstrekken op basis van stringente voorwaarden die passend zijn voor het gekozen financiële-bijstandinstrument. Deze voorwaarden kunnen gaan van een macro-economisch aanpassingsprogramma tot de voortdurende inachtneming van vooraf vastgestelde voorwaarden om voor stabiliteitssteun in aanmerking te komen.
 
-2. Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=19&z=2014-03-13&g=2014-03-13), kan ESM-stabiliteitssteun worden toegekend met behulp van de instrumenten waarin in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=14&z=2014-03-13&g=2014-03-13) is voorzien.
+2. Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=19&z=2015-02-03&g=2015-02-03), kan ESM-stabiliteitssteun worden toegekend met behulp van de instrumenten waarin in de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=14&z=2015-02-03&g=2015-02-03) is voorzien.
 
 3. Vanaf 1 januari 2013 worden in alle nieuwe overheidsobligaties van de eurozone met een looptijd van meer dan een jaar collectieve-actieclausules opgenomen op zulke wijze dat zij dezelfde rechtsgevolgen hebben.
 
@@ -288,7 +288,7 @@ Indien gebruik wordt gemaakt van de in de eerste alinea bedoelde spoedprocedure,
 
 1. Een ESM-lid kan tot de voorzitter van de Raad van gouverneurs een verzoek om stabiliteitssteun richten. In een dergelijk verzoek word(t)(en) de te overwegen financiële-bijstandinstrument(en) aangegeven. Na ontvangst van een dergelijk verzoek vertrouwt de voorzitter van de Raad van gouverneurs de Europese Commissie toe om, in overleg met de ECB:
 
-- a. te onderzoeken of er een risico voor de financiële stabiliteit van de eurozone als geheel of van de lidstaten ervan bestaat, tenzij de ECB reeds een analyse overeenkomstig [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=18&z=2014-03-13&g=2014-03-13), heeft voorgelegd;
+- a. te onderzoeken of er een risico voor de financiële stabiliteit van de eurozone als geheel of van de lidstaten ervan bestaat, tenzij de ECB reeds een analyse overeenkomstig [artikel 18, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=18&z=2015-02-03&g=2015-02-03), heeft voorgelegd;
 
 - b. te onderzoeken of de overheidsschuld houdbaar is. Verwacht wordt dat een dergelijk onderzoek, steeds als dit passend en mogelijk is, samen met het IMF wordt verricht;
 
@@ -310,15 +310,15 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 ##### Artikel 14. Preventieve financiële bijstand van het ESM
 
-1. De Raad van gouverneurs kan overeenkomstig [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2014-03-13&g=2014-03-13), besluiten preventieve financiële bijstand te verlenen in de vorm van een aan voorwaarden onderworpen preventieve kredietlijn, dan wel in de vorm van een kredietlijn tegen verscherpte voorwaarden.
+1. De Raad van gouverneurs kan overeenkomstig [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2015-02-03&g=2015-02-03), besluiten preventieve financiële bijstand te verlenen in de vorm van een aan voorwaarden onderworpen preventieve kredietlijn, dan wel in de vorm van een kredietlijn tegen verscherpte voorwaarden.
 
-2. De aan de preventieve financiële bijstand van het ESM verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), beschreven in het memorandum van overeenstemming.
+2. De aan de preventieve financiële bijstand van het ESM verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), beschreven in het memorandum van overeenstemming.
 
 3. De financiële en andere voorwaarden van de preventieve financiële bijstand van het ESM worden vastgelegd in een door de directeur te ondertekenen akkoord over de preventieve financiële-bijstandfaciliteit.
 
 4. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van de preventieve financiële bijstand van het ESM.
 
-5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), besluit de Raad van bewind in onderlinge overeenstemming of de kredietlijn moet worden gehandhaafd.
+5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), besluit de Raad van bewind in onderlinge overeenstemming of de kredietlijn moet worden gehandhaafd.
 
 6. Nadat het ESM-lid een eerste keer middelen heeft opgenomen (via een lening of een aankoop op de primaire markt), besluit de Raad van bewind in onderlinge overeenstemming op voorstel van de directeur en op basis van een onderzoek van de Europese Commissie in overleg met de ECB of de kredietlijn nog steeds adequaat is, dan wel of een andere vorm van financiële bijstand is vereist.
 
@@ -326,45 +326,45 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 1. De Raad van gouverneurs kan besluiten een ESM-lid financiële bijstand in de vorm van leningen te verlenen met het specifieke doel de financiële instellingen van dat ESM-lid te herkapitaliseren.
 
-2. De voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), beschreven in het memorandum van overeenstemming.
+2. De voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), beschreven in het memorandum van overeenstemming.
 
 3. Onverminderd de [artikelen 107](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=107) en [108 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=108) worden de financiële en andere voorwaarden die aan financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid verbonden zijn, vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.
 
 4. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van financiële bijstand voor de herkapitalisatie van financiële instellingen van een ESM-lid.
 
-5. In voorkomend geval, neemt de Raad van bewind in onderlinge overeenstemming op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), een besluit over de uitbetaling van de na de eerste tranche volgende tranches van de financiële bijstand.
+5. In voorkomend geval, neemt de Raad van bewind in onderlinge overeenstemming op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), een besluit over de uitbetaling van de na de eerste tranche volgende tranches van de financiële bijstand.
 
 ##### Artikel 16. ESM-leningen
 
-1. De Raad van gouverneurs kan overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2014-03-13&g=2014-03-13) besluiten financiële bijstand in de vorm van een lening aan een ESM-lid te verlenen.
+1. De Raad van gouverneurs kan overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2015-02-03&g=2015-02-03) besluiten financiële bijstand in de vorm van een lening aan een ESM-lid te verlenen.
 
-2. De aan de ESM-leningen verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), opgenomen in een macro-economisch aanpassingsprogramma dat in het memorandum van overeenstemming wordt beschreven.
+2. De aan de ESM-leningen verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), opgenomen in een macro-economisch aanpassingsprogramma dat in het memorandum van overeenstemming wordt beschreven.
 
 3. De financiële en andere voorwaarden van elke ESM-lening worden vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.
 
 4. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van ESM-leningen.
 
-5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), neemt de Raad van bewind in onderlinge overeenstemming een besluit over de uitbetaling van de na de eerste tranche volgende tranches van de financiële bijstand.
+5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), neemt de Raad van bewind in onderlinge overeenstemming een besluit over de uitbetaling van de na de eerste tranche volgende tranches van de financiële bijstand.
 
 ##### Artikel 17. Steunvoorziening op de primaire markt
 
-1. De Raad van gouverneurs kan overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2014-03-13&g=2014-03-13) besluiten regelingen te treffen voor de aankoop van obligaties van een ESM-lid op de primaire markt ten behoeve van een maximale kostenefficiëntie van de financiële bijstand.
+1. De Raad van gouverneurs kan overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2015-02-03&g=2015-02-03) besluiten regelingen te treffen voor de aankoop van obligaties van een ESM-lid op de primaire markt ten behoeve van een maximale kostenefficiëntie van de financiële bijstand.
 
-2. De aan de steunvoorziening op de primaire markt verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), beschreven in het memorandum van overeenstemming.
+2. De aan de steunvoorziening op de primaire markt verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), beschreven in het memorandum van overeenstemming.
 
 3. De financiële en andere voorwaarden waaronder de aankoop van obligaties plaatsvindt, worden vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.
 
 4. De Raad van bewind stelt de gedetailleerde richtsnoeren vast die gelden voor de regels van tenuitvoerlegging van de steunvoorziening op de primaire markt.
 
-5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), neemt de Raad van bewind in onderlinge overeenstemming een besluit tot uitbetaling van de financiële bijstand aan een lidstaat die via operaties op de primaire markt bijstand ontvangt.
+5. Op voorstel van de directeur en na ontvangst van een verslag van de Europese Commissie overeenkomstig [artikel 13, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), neemt de Raad van bewind in onderlinge overeenstemming een besluit tot uitbetaling van de financiële bijstand aan een lidstaat die via operaties op de primaire markt bijstand ontvangt.
 
 ##### Artikel 18. Steunvoorziening op de secundaire markt
 
-1. De Raad van gouverneurs kan overeenkomstig [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2014-03-13&g=2014-03-13), besluiten regelingen te treffen om operaties op de secundaire markt met betrekking tot de obligaties van een ESM-lid te verrichten.
+1. De Raad van gouverneurs kan overeenkomstig [artikel 12, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=12&z=2015-02-03&g=2015-02-03), besluiten regelingen te treffen om operaties op de secundaire markt met betrekking tot de obligaties van een ESM-lid te verrichten.
 
 2. Besluiten over interventies op de secundaire markt om besmetting tegen te gaan, worden genomen op basis van een analyse van de ECB waarin wordt erkend dat er van uitzonderlijke omstandigheden op de financiële markten en risico’s voor de financiële stabiliteit sprake is.
 
-3. De aan de steunvoorziening op de secundaire markt verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13), beschreven in het memorandum van overeenstemming.
+3. De aan de steunvoorziening op de secundaire markt verbonden voorwaarden worden overeenkomstig [artikel 13, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03), beschreven in het memorandum van overeenstemming.
 
 4. De financiële en andere voorwaarden waaronder de operaties op de secundaire markt plaats dienen te vinden, worden vastgelegd in een door de directeur te ondertekenen akkoord over de financiële-bijstandfaciliteit.
 
@@ -374,7 +374,7 @@ Het memorandum van overeenstemming is volledig consistent met de maatregelen tot
 
 ##### Artikel 19. Evaluatie van de lijst van financiële-bijstandinstrumenten
 
-De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=14&z=2014-03-13&g=2014-03-13) voorzien, aan een evaluatie onderwerpen en besluiten daarin wijzigingen aan te brengen.
+De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=14&z=2015-02-03&g=2015-02-03) voorzien, aan een evaluatie onderwerpen en besluiten daarin wijzigingen aan te brengen.
 
 ##### Artikel 20. Prijsstellingsbeleid
 
@@ -402,7 +402,7 @@ De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 1
 
 ##### Artikel 23. Dividendbeleid
 
-1. De Raad van bewind kan met gewone meerderheid van stemmen besluiten een dividend aan de ESM-leden uit te keren wanneer het gezamenlijk bedrag van het volgestort kapitaal en het reservefonds meer bedraagt dan vereist is om de kredietverleningscapaciteit van het ESM te handhaven en wanneer de beleggingsopbrengst niet vereist is om een tekort in de voldoening van de crediteuren te vermijden. Dividenden worden uitgekeerd naar rato van de bijdragen aan het volgestort kapitaal, rekening houdend met de mogelijke versnelde betaling als bedoeld in [artikel 41, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=41&z=2014-03-13&g=2014-03-13).
+1. De Raad van bewind kan met gewone meerderheid van stemmen besluiten een dividend aan de ESM-leden uit te keren wanneer het gezamenlijk bedrag van het volgestort kapitaal en het reservefonds meer bedraagt dan vereist is om de kredietverleningscapaciteit van het ESM te handhaven en wanneer de beleggingsopbrengst niet vereist is om een tekort in de voldoening van de crediteuren te vermijden. Dividenden worden uitgekeerd naar rato van de bijdragen aan het volgestort kapitaal, rekening houdend met de mogelijke versnelde betaling als bedoeld in [artikel 41, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=7&artikel=41&z=2015-02-03&g=2015-02-03).
 
 2. Zolang het ESM geen financiële bijstand aan een van zijn leden heeft verleend, wordt de opbrengst van de belegging van het volgestort kapitaal van het ESM aan de ESM-leden uitgekeerd volgens hun respectieve bijdrage aan het volgestort kapitaal, na aftrek van de operationele kosten, mits de beoogde effectieve kredietverleningscapaciteit volledig beschikbaar is.
 
@@ -412,7 +412,7 @@ De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 1
 
 1. De Raad van gouverneurs stelt een reservefonds en, indien nodig, andere fondsen in.
 
-2. Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=23&z=2014-03-13&g=2014-03-13), worden de uit de ESM-operaties voortvloeiende netto-inkomsten en de van de ESM-leden ontvangen opbrengsten van de financiële sancties uit hoofde van de multilaterale toezichtprocedure, de buitensporigtekortprocedure en de procedure bij macro-economische onevenwichtigheden in het kader van het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) opzijgezet in een reservefonds.
+2. Onverminderd [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=5&artikel=23&z=2015-02-03&g=2015-02-03), worden de uit de ESM-operaties voortvloeiende netto-inkomsten en de van de ESM-leden ontvangen opbrengsten van de financiële sancties uit hoofde van de multilaterale toezichtprocedure, de buitensporigtekortprocedure en de procedure bij macro-economische onevenwichtigheden in het kader van het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) opzijgezet in een reservefonds.
 
 3. De middelen van het reservefonds worden belegd overeenkomstig door de Raad van bewind vast te stellen richtsnoeren.
 
@@ -426,9 +426,9 @@ De Raad kan de lijst van financiële-bijstandinstrumenten waarin de [artikelen 1
 
 - b. ten tweede het volgestort kapitaal; en
 
-- c. ten slotte een passend bedrag van het niet-volgestort maatschappelijk kapitaal, dat overeenkomstig [artikel 9, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2014-03-13&g=2014-03-13), wordt opgevraagd.
+- c. ten slotte een passend bedrag van het niet-volgestort maatschappelijk kapitaal, dat overeenkomstig [artikel 9, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2015-02-03&g=2015-02-03), wordt opgevraagd.
 
-2. Indien een ESM-lid verzuimt de betaling te verrichten die uit hoofde van een opvraging van kapitaal overeenkomstig [artikel 9, lid 2 of 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2014-03-13&g=2014-03-13), wordt verlangd, vindt een herziene, verhoogde opvraging van kapitaal bij alle ESM-leden plaats om ervoor te zorgen dat het ESM het vereiste totaalbedrag aan volgestort kapitaal ontvangt. De Raad van gouverneurs stelt een passende gedragslijn vast om ervoor te zorgen dat het betrokken ESM-lid zijn schuld jegens het ESM binnen een redelijke termijn vereffent. De Raad van gouverneurs heeft het recht de betaling van achterstandsrente over het achterstallige bedrag te eisen.
+2. Indien een ESM-lid verzuimt de betaling te verrichten die uit hoofde van een opvraging van kapitaal overeenkomstig [artikel 9, lid 2 of 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=9&z=2015-02-03&g=2015-02-03), wordt verlangd, vindt een herziene, verhoogde opvraging van kapitaal bij alle ESM-leden plaats om ervoor te zorgen dat het ESM het vereiste totaalbedrag aan volgestort kapitaal ontvangt. De Raad van gouverneurs stelt een passende gedragslijn vast om ervoor te zorgen dat het betrokken ESM-lid zijn schuld jegens het ESM binnen een redelijke termijn vereffent. De Raad van gouverneurs heeft het recht de betaling van achterstandsrente over het achterstallige bedrag te eisen.
 
 3. Wanneer een ESM-lid zijn in lid 2 bedoelde schuld jegens het ESM vereffent, wordt het overschot aan kapitaal aan de overige ESM-leden terugbetaald volgens door de Raad van gouverneurs vast te stellen regels.
 
@@ -552,11 +552,11 @@ Met het oog op het bereiken van zijn doelen is het ESM gemachtigd overeenkomstig
 
 ##### Artikel 39. Verhouding met leningen door de EFSF
 
-Tijdens de overgangsfase die loopt van de inwerkingtreding van dit Verdrag tot de volledige opheffing van de EFSF, ligt het geconsolideerde bedrag aan door het ESM en de EFSF verstrekte leningen niet hoger dan 500 000 miljoen EUR, onverminderd de regelmatige evaluatie van de toereikendheid van het maximale leningvolume overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13). De Raad van bewind stelt gedetailleerde richtsnoeren vast voor de berekening van de capaciteit voor het toekennen van nieuwe leningen teneinde te voorkomen dat het geconsolideerde leningplafond wordt overschreden.
+Tijdens de overgangsfase die loopt van de inwerkingtreding van dit Verdrag tot de volledige opheffing van de EFSF, ligt het geconsolideerde bedrag aan door het ESM en de EFSF verstrekte leningen niet hoger dan 500 000 miljoen EUR, onverminderd de regelmatige evaluatie van de toereikendheid van het maximale leningvolume overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03). De Raad van bewind stelt gedetailleerde richtsnoeren vast voor de berekening van de capaciteit voor het toekennen van nieuwe leningen teneinde te voorkomen dat het geconsolideerde leningplafond wordt overschreden.
 
 ##### Artikel 40. Overdracht van EFSF-steun
 
-1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2014-03-13&g=2014-03-13) kan de Raad van gouverneurs besluiten dat de toezeggingen tot het verlenen van financiële bijstand aan een ESM-lid welke de EFSF in het kader van haar akkoord met het betrokken lid heeft gedaan, door het ESM worden overgenomen, voor zover deze toezeggingen verband houden met niet-uitbetaalde en niet-gefinancierde delen van leenfaciliteiten.
+1. In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=4&artikel=13&z=2015-02-03&g=2015-02-03) kan de Raad van gouverneurs besluiten dat de toezeggingen tot het verlenen van financiële bijstand aan een ESM-lid welke de EFSF in het kader van haar akkoord met het betrokken lid heeft gedaan, door het ESM worden overgenomen, voor zover deze toezeggingen verband houden met niet-uitbetaalde en niet-gefinancierde delen van leenfaciliteiten.
 
 2. Het ESM kan, indien het daartoe door zijn Raad van gouverneurs wordt gemachtigd, de rechten van de EFSF verwerven en de verplichtingen van de EFSF overnemen, met name ten aanzien van alle of een deel van haar uitstaande rechten en verplichtingen in het kader van en in verband met haar bestaande leenfaciliteiten.
 
@@ -572,9 +572,9 @@ Tijdens de overgangsfase die loopt van de inwerkingtreding van dit Verdrag tot d
 
 ##### Artikel 42. Tijdelijke correctie van de bijdragesleutel
 
-1. Aanvankelijk schrijven de ESM-leden op het maatschappelijk kapitaal in op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) vermelde oorspronkelijke bijdragesleutel. De tijdelijke correctie die in deze oorspronkelijke bijdragesleutel is verwerkt, is van toepassing voor een periode van twaalf jaar te rekenen vanaf de datum van aanneming van de euro door het betrokken ESM-lid.
+1. Aanvankelijk schrijven de ESM-leden op het maatschappelijk kapitaal in op basis van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) vermelde oorspronkelijke bijdragesleutel. De tijdelijke correctie die in deze oorspronkelijke bijdragesleutel is verwerkt, is van toepassing voor een periode van twaalf jaar te rekenen vanaf de datum van aanneming van de euro door het betrokken ESM-lid.
 
-2. Indien het in euro luidend bruto binnenlands product (bbp) per capita tegen marktprijzen van een nieuw ESM-lid in het jaar onmiddellijk voorafgaand aan zijn toetreding tot het ESM minder dan 75% van het gemiddeld bbp per capita tegen marktprijzen van de Europese Unie bedraagt, dan wordt op zijn overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2014-03-13&g=2014-03-13) vastgestelde bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM een tijdelijke correctie toegepast en is deze gelijk aan de som van:
+2. Indien het in euro luidend bruto binnenlands product (bbp) per capita tegen marktprijzen van een nieuw ESM-lid in het jaar onmiddellijk voorafgaand aan zijn toetreding tot het ESM minder dan 75% van het gemiddeld bbp per capita tegen marktprijzen van de Europese Unie bedraagt, dan wordt op zijn overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=10&z=2015-02-03&g=2015-02-03) vastgestelde bijdragesleutel voor de inschrijving op het maatschappelijk kapitaal van het ESM een tijdelijke correctie toegepast en is deze gelijk aan de som van:
 
 - a. 25% van het procentuele aandeel in het ECB-kapitaal van de nationale centrale bank van het betrokken ESM-lid, zoals bepaald overeenkomstig [artikel 29 van de ESCB-statuten](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=29); en
 
@@ -594,15 +594,15 @@ Tijdens de overgangsfase die loopt van de inwerkingtreding van dit Verdrag tot d
 
 ##### Artikel 44. Toetreding
 
-Overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=1&artikel=2&z=2014-03-13&g=2014-03-13) staat dit Verdrag open voor toetreding door andere lidstaten van de Europese Unie na indiening van een toetredingsaanvraag door een dergelijke lidstaat van de Europese Unie bij het ESM nadat de Raad van de Europese Unie overeenkomstig [artikel 140, lid 2, VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=140) het besluit tot intrekking van zijn derogatie de euro aan te nemen heeft vastgesteld. De Raad van gouverneurs hecht zijn goedkeuring aan de toetredingsaanvraag van het nieuwe ESM-lid en aan de aan de toetreding verbonden gedetailleerde technische voorwaarden, alsook aan de aanpassingen die als rechtstreeks gevolg van de toetreding aan het Verdrag moeten worden aangebracht. Na de goedkeuring van de aanvraag door de Raad van gouverneurs treden de nieuwe ESM-leden toe na neerlegging van de akten van toetreding bij de depositaris, die de andere ESM-leden daarvan in kennis stelt.
+Overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=1&artikel=2&z=2015-02-03&g=2015-02-03) staat dit Verdrag open voor toetreding door andere lidstaten van de Europese Unie na indiening van een toetredingsaanvraag door een dergelijke lidstaat van de Europese Unie bij het ESM nadat de Raad van de Europese Unie overeenkomstig [artikel 140, lid 2, VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=140) het besluit tot intrekking van zijn derogatie de euro aan te nemen heeft vastgesteld. De Raad van gouverneurs hecht zijn goedkeuring aan de toetredingsaanvraag van het nieuwe ESM-lid en aan de aan de toetreding verbonden gedetailleerde technische voorwaarden, alsook aan de aanpassingen die als rechtstreeks gevolg van de toetreding aan het Verdrag moeten worden aangebracht. Na de goedkeuring van de aanvraag door de Raad van gouverneurs treden de nieuwe ESM-leden toe na neerlegging van de akten van toetreding bij de depositaris, die de andere ESM-leden daarvan in kennis stelt.
 
 ##### Artikel 45. Bijlagen
 
 De volgende bijlagen bij dit Verdrag maken een integrerend deel daarvan uit:
 
-- 1. [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13): Sleutel voor de ESM-bijdrage; en
+- 1. [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03): Sleutel voor de ESM-bijdrage; en
 
-- 2. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2014-03-13&g=2014-03-13): Inschrijvingen op het maatschappelijk kapitaal.
+- 2. [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2015-02-03&g=2015-02-03): Inschrijvingen op het maatschappelijk kapitaal.
 
 ##### Artikel 46. Neerlegging
 
@@ -616,12 +616,14 @@ Dit Verdrag wordt neergelegd bij het secretariaat-generaal van de Raad van de Eu
 
 ##### Artikel 48. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking op de datum waarop de akten van bekrachtiging, goedkeuring of aanvaarding zijn neergelegd door de ondertekenaars waarvan de oorspronkelijke inschrijvingen ten minste 90% van het totale aantal inschrijvingen vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2014-03-13&g=2014-03-13) vertegenwoordigen. Indien nodig wordt de lijst van ESM-leden aangepast. De in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2014-03-13&g=2014-03-13) vermelde sleutel wordt dan herberekend, en het in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2014-03-13&g=2014-03-13), en bijlage II vermelde totale maatschappelijk kapitaal en de in artikel 8, lid 2, vermelde oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen worden dienovereenkomstig verminderd.
+1. Dit Verdrag treedt in werking op de datum waarop de akten van bekrachtiging, goedkeuring of aanvaarding zijn neergelegd door de ondertekenaars waarvan de oorspronkelijke inschrijvingen ten minste 90% van het totale aantal inschrijvingen vermeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=II&z=2015-02-03&g=2015-02-03) vertegenwoordigen. Indien nodig wordt de lijst van ESM-leden aangepast. De in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&bijlage=I&z=2015-02-03&g=2015-02-03) vermelde sleutel wordt dan herberekend, en het in [artikel 8, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=3&artikel=8&z=2015-02-03&g=2015-02-03), en bijlage II vermelde totale maatschappelijk kapitaal en de in artikel 8, lid 2, vermelde oorspronkelijke totale geaggregeerde nominale waarde van de volgestorte aandelen worden dienovereenkomstig verminderd.
 
 2. Dit Verdrag treedt voor elke ondertekenaar die nadien zijn akte van bekrachtiging, goedkeuring of aanvaarding neerlegt, in werking op de dag volgend op de datum van neerlegging.
 
-3. Voor elke lidstaat die overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2014-03-13&g=2014-03-13) tot dit Verdrag toetreedt, treedt dit Verdrag in werking op de twintigste dag volgend op de neerlegging van zijn akte van toetreding.
+3. Voor elke lidstaat die overeenkomstig [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0005640&hoofdstuk=8&artikel=44&z=2015-02-03&g=2015-02-03) tot dit Verdrag toetreedt, treedt dit Verdrag in werking op de twintigste dag volgend op de neerlegging van zijn akte van toetreding.
 
 GEDAAN te Brussel op de tweede februari van het jaar tweeduizend en twaalf in één oorspronkelijk exemplaar, waarvan de Duitse, Engelse, Estse, Finse, Franse, Griekse, Ierse, Italiaanse, Maltese, Nederlandse, Portugese, Sloveense, Slowaakse, Spaanse en Zweedse tekst gelijkelijk authentiek zijn; het wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen.
 
 Bij de toetreding van de Republiek Letland wordt de Letse tekst gelijkelijk authentiek; deze wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen.
+
+Bij de toetreding van de Republiek Litouwen wordt de Litouwse tekst gelijkelijk authentiek; deze wordt neergelegd in het archief van de depositaris, die een naar behoren voor eensluidend gewaarmerkt afschrift doet toekomen aan alle verdragspartijen.
