@@ -230,30 +230,3 @@ Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-af
 | Naam: Datum: Handtekening: |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a. Grondslag
-
-Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
-
-## Bijlage 2. behorende bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01)
-
-| Conformiteitverklaring [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01) – Regeling vaststelling van de status einde-afval van recyclinggranulaat |
-| --- |
-| 1. Producent (naam inschrijving KvK): Adres: Contactpersoon: Tel: Fax: E-mail |
-| 2. Type recyclinggranulaat: |
-|   |
-| Beoogde toepassing: |
-| 3. Nummer certificaat (indien van toepassing): |
-|   |
-| of Referentie partijkeuring [Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929) (indien van toepassing): |
-|   |
-| en, Nummer Europese norm volgens welke het product is geproduceerd: |
-|   |
-| 4. a. Het recyclinggranulaat waarop genoemd certificaatnummer van toepassing is, voldoet aan het gestelde in de regeling. |
-|   |
-| b. Het recyclinggranulaat is geproduceerd onder een kwaliteitsborgingsysteem dat ten minste voldoet aan het gestelde in [artikel 7, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=6&z=2024-01-01&g=2024-01-01), van de Regeling vaststelling van de status einde-afval van recyclinggranulaat. |
-| 5. Ik bevestig dat bovenstaande informatie volledig en correct is. |
-|   |
-| Naam: Datum: Handtekening: |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
