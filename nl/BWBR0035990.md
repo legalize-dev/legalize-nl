@@ -4,7 +4,7 @@ identifier: "BWBR0035990"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-26"
-last_updated: "2015-01-01"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035990"
 soort: "AMvB"
@@ -80,11 +80,11 @@ Wijzigt het Overdrachtsbesluit Sanctiewet 1977.
 
 ##### Artikel IX
 
-In afwijking van de [artikelen 40d tot en met 40j van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d), blijven de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1), [124a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124a), [124b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) en [artikel 124c van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124c) en [artikel 135, eerste lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), zoals die onmiddellijk voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-01-01&g=2015-01-01) luidden, gedurende twaalf maanden vanaf het tijdstip van inwerkingtreding van artikel I, onderdeel H, van toepassing op:
+In afwijking van de [artikelen 40d tot en met 40j van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=40d), blijven de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=1), [124a](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124a), [124b](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b) en [artikel 124c van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124c) en [artikel 135, eerste lid, van het Besluit Gedragstoezicht financiële ondernemingen Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=135), zoals die onmiddellijk voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-02-07&g=2015-02-07) luidden, gedurende twaalf maanden vanaf het tijdstip van inwerkingtreding van artikel I, onderdeel H, van toepassing op:
 
-- a. obligaties die behoren tot voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-01-01&g=2015-01-01), overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b), zoals dat artikel onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidde, geregistreerde categorieën; en
+- a. obligaties die behoren tot voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-02-07&g=2015-02-07), overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b), zoals dat artikel onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidde, geregistreerde categorieën; en
 
-- b. categorieën obligaties ten aanzien waarvan voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-01-01&g=2015-01-01), een verzoek tot opname in een openbaar register overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b), zoals dat artikel onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidde, is gedaan, waarop de Nederlandsche Bank voor inwerkingtreding van artikel I, onderdeel H, niet heeft beslist.
+- b. categorieën obligaties ten aanzien waarvan voor inwerkingtreding van [artikel I, onderdeel H](https://wetten.overheid.nl/jci1.3:c:BWBR0035990&artikel=I&z=2015-02-07&g=2015-02-07), een verzoek tot opname in een openbaar register overeenkomstig [artikel 124b van het Besluit prudentiële regels Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020420&artikel=124b), zoals dat artikel onmiddellijk voor inwerkingtreding van artikel I, onderdeel H luidde, is gedaan, waarop de Nederlandsche Bank voor inwerkingtreding van artikel I, onderdeel H, niet heeft beslist.
 
 ##### Artikel X
 
