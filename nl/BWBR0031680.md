@@ -4,7 +4,7 @@ identifier: "BWBR0031680"
 country: "nl"
 rank: "wet"
 publication_date: "2015-02-07"
-last_updated: "2013-01-01"
+last_updated: "2015-02-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031680"
 soort: "wet"
@@ -62,17 +62,7 @@ Wijzigt de Wet op het financieel toezicht.
 
 ##### Artikel V
 
-1. [Artikel 1:112 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:112) is niet van toepassing op:
-
-- a. beloningen over perioden waarin voorafgaand aan de inwerkingtreding van dat artikel steun is genoten, indien die steun reeds voor 6 oktober 2011 was verleend en voorafgaand aan het tijdstip van inwerkingtreding van dat artikel was beëindigd;
-
-- b. beloningen van dagelijks beleidsbepalers, niet zijnde bestuurders, voor zover het steun betreft die is verleend aan een financiële onderneming voor 7 februari 2012.
-
-2. [Artikel 1:112, eerste lid, aanhef en onderdeel a, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:112) is, indien een financiële onderneming op het tijdstip van inwerkingtreding van dat artikel steun geniet en deze steun reeds voor 6 oktober 2011 was verleend, niet van toepassing op reeds voor 26 oktober 2011 toegekende, maar nog niet uitgekeerde beloningen van haar bestuurders.
-
-3. In afwijking van [artikel 1:112, eerste lid, onderdeel b, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:112) wordt, indien een financiële onderneming op het tijdstip van inwerkingtreding van dat artikel steun geniet, en deze steun reeds voor 6 oktober 2011 was verleend, bij het bepalen van de waarde van de overige delen van de beloning van haar bestuurders uitgegaan van de waarde die deze overige delen van de beloning hadden op het tijdstip van inwerkingtreding van dat artikel, met dien verstande dat de voor de toepassing van artikel 1:112, eerste lid, onderdeel b, in acht te nemen waarde ten hoogste 120% van de waarde op 26 oktober 2011 bedraagt.
-
-4. In een geval als bedoeld in [artikel 1:112, vijfde of zesde lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:112) wordt voor de toepassing van het tweede en derde lid voor «financiële onderneming» gelezen: de aan het hoofd van de groep staande groepsmaatschappij, onderscheidenlijk de binnen de groep hiërarchisch hoogste groepsmaatschappij met zetel in Nederland.
+Vervallen
 
 ##### Artikel Va
 
@@ -80,9 +70,9 @@ In afwijking van [artikel 1:102, derde lid, van de Wet op het financieel toezich
 
 ##### Artikel VI
 
-1. Deze wet, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2013-01-01&g=2013-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2013-01-01&g=2013-01-01) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2013-01-01&g=2013-01-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
+1. Deze wet, met uitzondering van de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2015-02-07&g=2015-02-07), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2015-02-07&g=2015-02-07) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2015-02-07&g=2015-02-07), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen verschillend kan worden vastgesteld.
 
-2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2013-01-01&g=2013-01-01), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2013-01-01&g=2013-01-01) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2013-01-01&g=2013-01-01) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2013-01-01&g=2013-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2013-01-01&g=2013-01-01) werken, voor financiële ondernemingen waaraan na 6 oktober 2011 steun wordt verleend, terug tot en met 6 oktober 2011.
+2. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2015-02-07&g=2015-02-07), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2015-02-07&g=2015-02-07) en [Va](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=Va&z=2015-02-07&g=2015-02-07) treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. De [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=IV&z=2015-02-07&g=2015-02-07) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=V&z=2015-02-07&g=2015-02-07) werken, voor financiële ondernemingen waaraan na 6 oktober 2011 steun wordt verleend, terug tot en met 6 oktober 2011.
 
 ##### Artikel VII
 
