@@ -4,7 +4,7 @@ identifier: "BWBR0032525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-02-10"
-last_updated: "2014-04-01"
+last_updated: "2015-02-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032525"
 soort: "ministeriele-regeling"
@@ -62,9 +62,9 @@ Deze regeling wordt aangehaald als: Regeling risicoverevening 2013.
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 30 september 2012.
 
-2. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=6&artikel=23&z=2014-04-01&g=2014-04-01) werkt terug tot en met 1 januari 2012.
+2. [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=6&artikel=23&z=2015-02-10&g=2015-02-10) werkt terug tot en met 1 januari 2012.
 
-3. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=7&artikel=24&z=2014-04-01&g=2014-04-01) werkt voor zover dat betrekking heeft op het jaar 2010 terug tot en met 1 januari 2010 en voor zover dat betrekking heeft op het jaar 2011 terug tot en met 1 januari 2011.
+3. [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=7&artikel=24&z=2015-02-10&g=2015-02-10) werkt voor zover dat betrekking heeft op het jaar 2010 terug tot en met 1 januari 2010 en voor zover dat betrekking heeft op het jaar 2011 terug tot en met 1 januari 2011.
 
 ## Bijlage 1. behorende bij [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2012-12-21&g=2011-01-01) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2012-12-21&g=2011-01-01)
 
@@ -120,7 +120,7 @@ Besluit:
 
 - j. **geriatrische revalidatiezorg:** zorg zoals omschreven in [artikel 2.5 c van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5c).
 
-2. Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), is € 550, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.
+2. Het bedrag, bedoeld in [artikel 1, onderdeel x, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), is € 400, en het bedrag, bedoeld in artikel 1, onderdeel y, van het Besluit zorgverzekering is € 2 750.
 
 ##### Artikel 2
 
@@ -154,15 +154,15 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 5
 
-1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6) en [3.8 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2014-04-01&g=2014-04-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2014-04-01&g=2014-04-01).
+1. De klassen en gewichten, bedoeld in de [artikelen 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6) en [3.8 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), zijn vermeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2015-02-10&g=2015-02-10) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2015-02-10&g=2015-02-10).
 
 2. Het Zorginstituut verdeelt het macro-deelbedrag vaste zorgkosten over zorgverzekeraars aan de hand van de gemiddelde vaste kosten per verzekerde per zorgverzekeraar in het jaar 2011, de landelijke vaste kostenfactor 2013 en de geraamde aantallen verzekerden voor het vereveningsjaar 2013.
 
 ##### Artikel 6
 
-1. In afwijking van artikel 5, eerste lid, [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2014-04-01&g=2014-04-01), tabel 1.2, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2014-04-01&g=2014-04-01), tabel 2.4, wordt een verzekerde die in het buitenland woont ingedeeld in de FKG-klassen ‘Geen FKG’ en ‘Geen FKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van het gewicht van de FKG-klassen ‘Geen FKG’ respectievelijk ‘Geen FKG psychische aandoeningen’ zoals dat op grond van bijlage 1, tabel 1.2, en bijlage 2, tabel 2.4, voor in Nederland wonende verzekerden geldt.
+1. In afwijking van artikel 5, eerste lid, [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2015-02-10&g=2015-02-10), tabel 1.2, en [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2015-02-10&g=2015-02-10), tabel 2.4, wordt een verzekerde die in het buitenland woont ingedeeld in de FKG-klassen ‘Geen FKG’ en ‘Geen FKG psychische aandoeningen’, waarbij voor hem het gewicht van die klassen door het Zorginstituut wordt vastgesteld op een percentage van het gewicht van de FKG-klassen ‘Geen FKG’ respectievelijk ‘Geen FKG psychische aandoeningen’ zoals dat op grond van bijlage 1, tabel 1.2, en bijlage 2, tabel 2.4, voor in Nederland wonende verzekerden geldt.
 
-2. In afwijking van artikel 5, eerste lid, en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2014-04-01&g=2014-04-01), tabel 1.3, wordt een verzekerde die in het buitenland woont ingedeeld in de DKG-klasse ‘0’, waarbij voor hem het gewicht van die klasse door het Zorginstituut wordt vastgesteld op een percentage van het gewicht van de DKG-klasse ‘0’ zoals dat op grond van bijlage 1, tabel 1.3, voor in Nederland wonende verzekerden geldt.
+2. In afwijking van artikel 5, eerste lid, en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2015-02-10&g=2015-02-10), tabel 1.3, wordt een verzekerde die in het buitenland woont ingedeeld in de DKG-klasse ‘0’, waarbij voor hem het gewicht van die klasse door het Zorginstituut wordt vastgesteld op een percentage van het gewicht van de DKG-klasse ‘0’ zoals dat op grond van bijlage 1, tabel 1.3, voor in Nederland wonende verzekerden geldt.
 
 ##### Artikel 7
 
@@ -176,7 +176,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 1. Het Zorginstituut raamt de opbrengst van het verplicht eigen risico per zorgverzekeraar, bedoeld in [artikel 3.10, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), door het geraamde aantal verzekerden van achttien jaar en ouder, te verminderen met het geraamde aantal verzekerden, bedoeld in [artikel 24 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24), en het resultaat te vermenigvuldigen met de geraamde opbrengst van het verplicht eigen risico per verzekerde.
 
-2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het criterium ‘Geen FKG’, als onder de criteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=4&z=2014-04-01&g=2014-04-01) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
+2. Het Zorginstituut gaat voor de bepaling van de geraamde opbrengst per verzekerde, bedoeld in het eerste lid, voor verzekerden van achttien jaar of ouder die zowel onder het criterium ‘Geen FKG’, als onder de criteria ‘DKG 0’ en ‘Geen MHK’ vallen, uit van verzekerdenaantallen onderverdeeld in klassen naar leeftijd en geslacht, aard van het inkomen, en regio en de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=4&z=2015-02-10&g=2015-02-10) genoemde gewichten. Hierbij wordt de in de bijlage 4 aangegeven klassenindeling van de criteria aangehouden.
 
 3. De geraamde opbrengst per verzekerde, bedoeld in het eerste lid, bedraagt € 313,51 voor verzekerden van achttien jaar of ouder waarop het tweede lid niet van toepassing is.
 
@@ -190,15 +190,15 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 ##### Artikel 10
 
-1. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van de deelbedragen ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’, gaat het Zorginstituut uit van de verhouding tussen de gewichten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2014-04-01&g=2014-04-01).
+1. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van de deelbedragen ‘variabele kosten van medisch-specialistische zorg’ en ‘kosten van overige prestaties’, gaat het Zorginstituut uit van de verhouding tussen de gewichten, opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=1&z=2015-02-10&g=2015-02-10).
 
-2. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het Zorginstituut voor zover het de herberekening van de kosten van verzekerden van jonger dan achttien jaar betreft uit van de verhouding tussen de gewichten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2014-04-01&g=2014-04-01), tabel 2.1, en gaat het voor zover het de herberekening van de kosten van verzekerden van achttien jaar en ouder betreft uit van de verhouding tussen de gewichten, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3&z=2014-04-01&g=2014-04-01).
+2. Voor de in [artikel 3.11, vijfde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11) bedoelde herberekening van de gewichten ten behoeve van de in [artikel 3.12, eerste lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12) bedoelde berekening van het deelbedrag ‘kosten van geneeskundige geestelijke gezondheidszorg’, gaat het Zorginstituut voor zover het de herberekening van de kosten van verzekerden van jonger dan achttien jaar betreft uit van de verhouding tussen de gewichten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=2&z=2015-02-10&g=2015-02-10), tabel 2.1, en gaat het voor zover het de herberekening van de kosten van verzekerden van achttien jaar en ouder betreft uit van de verhouding tussen de gewichten, opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&bijlage=3&z=2015-02-10&g=2015-02-10).
 
 ##### Artikel 11
 
-1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=12&z=2014-04-01&g=2014-04-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=18&z=2014-04-01&g=2014-04-01) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele kosten van medisch-specialistische zorg’, ‘geneeskundige geestelijke gezondheidszorg’ en ‘overige prestaties’, de relevante gewichten.
+1. Nadat het Zorginstituut de gerealiseerde kosten op de in de [artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=12&z=2015-02-10&g=2015-02-10), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=18&z=2015-02-10&g=2015-02-10) beschreven wijze heeft toegedeeld, herberekent het Zorginstituut voor de clusters ‘variabele kosten van medisch-specialistische zorg’, ‘geneeskundige geestelijke gezondheidszorg’ en ‘overige prestaties’, de relevante gewichten.
 
-2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties, van gerealiseerde aantallen verzekerden per klasse van ieder criterium en van de verhouding tussen de gewichten in de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01) genoemde bijlagen.
+2. Het Zorginstituut gaat bij de herberekening, bedoeld in het eerste lid, uit van de gerealiseerde kosten voor elk van de in het eerste lid genoemde clusters van prestaties, van gerealiseerde aantallen verzekerden per klasse van ieder criterium en van de verhouding tussen de gewichten in de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10) genoemde bijlagen.
 
 3. De gerealiseerde aantallen verzekerden per klasse van ieder criterium worden voor de hiernavolgende criteria aan de hand van realisatiecijfers over de volgende jaren berekend:
 
@@ -280,7 +280,7 @@ De beschikbare middelen voor het verstrekken van de bijdragen aan zorgverzekeraa
 
 5. Het Zorginstituut merkt de kosten van prestaties, geleverd door instellingen die meedoen aan experimenten in de zin van de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), voor een door hem per instelling voor medisch-specialistisch zorg vast te stellen percentage aan als kosten van het cluster ‘vaste zorgkosten’.
 
-6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=14&z=2014-04-01&g=2014-04-01).
+6. Het percentage per instelling, bedoeld in het vijfde lid, is gelijk aan 100 minus het percentage, bedoeld in [artikel 14, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=14&z=2015-02-10&g=2015-02-10).
 
 7. Het Zorginstituut merkt de kosten van geriatrische revalidatiezorg voor 100 procent aan als kosten van het cluster ‘vaste zorgkosten’.
 
@@ -324,9 +324,9 @@ Het Zorginstituut past als volgt hoge kostencompensatie toe op het herberekende 
 
 ##### Artikel 20
 
-1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.
+1. De opbrengst van de nominale rekenpremie, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2015-02-10&g=2015-02-10), met dien verstande, dat wordt uitgegaan van het gerealiseerde aantal zorgverzekeringen waarvoor premie moest worden betaald bij de zorgverzekeraar.
 
-2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=8&z=2014-04-01&g=2014-04-01), met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.
+2. De opbrengst van het verplicht eigen risico, bedoeld in [artikel 3.19, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), wordt berekend overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=8&z=2015-02-10&g=2015-02-10), met dien verstande, dat wordt uitgegaan van de gerealiseerde aantallen in dat artikel bedoelde verzekerden.
 
 ### Hoofdstuk 4. Aanvullingen op de vereveningsbijdrage aan een zorgverzekeraar
 
@@ -344,11 +344,11 @@ De betaling van de bijdrage geschiedt overeenkomstig door het Zorginstituut te s
 
 ### Hoofdstuk 7. Slotbepalingen
 
-## Bijlage 1. behorende bij [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)
+## Bijlage 1. behorende bij [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2015-02-10&g=2015-02-10) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)
 
 De bijlage betreft kosten van zorg behorende tot de clusters ‘variabele kosten van medisch-specialistische zorg’ en ‘overige prestaties’.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01)) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2015-02-10&g=2015-02-10)) en vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)).
 
 |   |   | Variabele kosten van medisch-specialistische zorg | Kosten van overige prestaties |
 | --- | --- | --- | --- |
@@ -503,11 +503,11 @@ De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening va
 | MHK 3 jaar hoge kosten in top 4 procent | 3.826,59 | 5.179,35 |
 | MHK 3 jaar hoge kosten in top 1,5 procent | 8.354,40 | 13.281,83 |
 
-## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01) en, wat betreft tabel 2.1, bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)
+## Bijlage 2. behorende bij [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=5&z=2015-02-10&g=2015-02-10) en, wat betreft tabel 2.1, bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)
 
 De bijlage betreft de kosten van zorg behorende tot de clusters ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden jonger dan achttien jaar en ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder.
 
-De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar en vormen wat betreft tabel 2.1 de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar ([art. 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)).
+De in deze bijlage genoemde gewichten zijn bedoeld voor de ex ante berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar en vormen wat betreft tabel 2.1 de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van de kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar ([art. 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)).
 
 De gewichten bevatten geen correctie voor hogekostencompensatie.
 
@@ -625,11 +625,11 @@ De gewichten bevatten geen correctie voor hogekostencompensatie.
 | Niet | –84,53 |
 | Wel | 5.656,90 |
 
-## Bijlage 3. behorende bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)
+## Bijlage 3. behorende bij [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)
 
 De bijlage betreft kosten van zorg behorend tot de cluster ‘geneeskundige geestelijke gezondheidszorg’ voor verzekerden van achttien jaar en ouder.
 
-De in deze bijlage genoemde gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2014-04-01&g=2014-04-01)).
+De in deze bijlage genoemde gewichten vormen de basis voor de herberekening van de gewichten ten behoeve van de ex post berekening van het normatieve bedrag ten behoeve van een zorgverzekeraar ([art. 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=10&z=2015-02-10&g=2015-02-10)).
 
 De gewichten bevatten een correctie voor hogekostencompensatie.
 
@@ -732,16 +732,16 @@ De gewichten bevatten een correctie voor hogekostencompensatie.
 |   | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder |
 | --- | --- |
 | Kosten geneeskundige ggz boven lage drempel | Kosten geneeskundige ggz boven lage drempel |
-| Niet | Zie [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01) |
+| Niet | Zie [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10) |
 | Wel | 1.158,12 |
 
 |   | Kosten van geneeskundige ggz voor verzekerden van achttien jaar en ouder |
 | --- | --- |
 | Kosten geneeskundige ggz boven hoge drempel | Kosten geneeskundige ggz boven hoge drempel |
-| Niet | Zie [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01) |
+| Niet | Zie [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=11&z=2015-02-10&g=2015-02-10) |
 | Wel | 4.460,00 |
 
-## Bijlage 4. behorende bij [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=20&z=2014-04-01&g=2014-04-01)
+## Bijlage 4. behorende bij [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=2&artikel=7&z=2015-02-10&g=2015-02-10), en [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&hoofdstuk=3&artikel=20&z=2015-02-10&g=2015-02-10)
 
 De bijlage betreft het eigen risico.
 
