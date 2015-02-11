@@ -4,7 +4,7 @@ identifier: "BWBR0036258"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-07-02"
-last_updated: "2015-01-01"
+last_updated: "2015-02-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036258"
 soort: "ministeriele-regeling"
@@ -68,11 +68,11 @@ Aan de directeur en de sectorhoofden worden de aan de algemeen directeur verleen
 
 ##### Artikel 4. : Omvang ondermandaat
 
-Het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2015-02-11&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2015-02-11&g=2015-01-01) verleende ondermandaat omvat niet de bevoegdheid tot het beslissen op bezwaar.
+Het in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2015-02-11&g=2015-02-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2015-02-11&g=2015-02-11) verleende ondermandaat omvat niet de bevoegdheid tot het beslissen op bezwaar.
 
 ##### Artikel 5. : Volmacht en machtiging
 
-Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2015-02-11&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2015-02-11&g=2015-01-01) verleende ondermandaat omvat overeenkomstig [artikel 30 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=30) mede de doorverlening van volmacht en machtiging.
+Het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=2&z=2015-02-11&g=2015-02-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036258&artikel=3&z=2015-02-11&g=2015-02-11) verleende ondermandaat omvat overeenkomstig [artikel 30 van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030951&artikel=30) mede de doorverlening van volmacht en machtiging.
 
 ##### Artikel 6. : Uitoefening ondermandaat, volmacht en machtiging
 
