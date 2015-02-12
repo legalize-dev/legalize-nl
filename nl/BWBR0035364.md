@@ -4,7 +4,7 @@ identifier: "BWBR0035364"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-06-24"
-last_updated: "2014-07-19"
+last_updated: "2015-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035364"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **ministers:** Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2014-07-19&g=2014-07-19).
+- b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2015-02-12&g=2015-02-12).
 
 ##### Artikel 2. Instelling en taak
 
@@ -68,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie stelt haar eigen werkwijze vast.
 
-6. De commissie rapporteert uiterlijk 31 januari 2015 over haar werkzaamheden aan de ministers.
+6. De commissie rapporteert uiterlijk 31 maart 2015 over haar werkzaamheden aan de ministers.
 
 7. Na het uitbrengen van het rapport is de commissie ontbonden.
 
@@ -102,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 1. De leden van de commissie kunnen zich onder meer voor het inwinnen van inlichtingen rechtstreeks wenden tot alle instanties en personen die aan het uitvoeren van haar taak kunnen bijdragen.
 
-2. De commissie en het secretariaat gaan vertrouwelijk om met de informatie die zij in het kader van de evaluatie ontvangen. De commissie maakt uitsluitend het in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2014-07-19&g=2014-07-19), bedoelde rapport openbaar.
+2. De commissie en het secretariaat gaan vertrouwelijk om met de informatie die zij in het kader van de evaluatie ontvangen. De commissie maakt uitsluitend het in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2015-02-12&g=2015-02-12), bedoelde rapport openbaar.
 
 3. De commissie stelt een protocol vast over de wijze waarop zij de evaluatie uitvoert.
 
@@ -114,7 +114,7 @@ De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De to
 
 ##### Artikel 7. Archiefbescheiden
 
-1. De archiefbescheiden van de commissie, voor zover niet afkomstig van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2014-07-19&g=2014-07-19) bedoelde organisaties, worden na afloop van het evaluatie overgebracht naar het archief van het Ministerie van Veiligheid en Justitie.
+1. De archiefbescheiden van de commissie, voor zover niet afkomstig van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2015-02-12&g=2015-02-12) bedoelde organisaties, worden na afloop van het evaluatie overgebracht naar het archief van het Ministerie van Veiligheid en Justitie.
 
 2. Het beheer van de archiefbescheiden vindt plaats met inachtneming van de door commissie in haar protocol aangegeven vertrouwelijkheid.
 
