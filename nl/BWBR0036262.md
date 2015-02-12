@@ -4,7 +4,7 @@ identifier: "BWBR0036262"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-02-12"
-last_updated: "2015-01-01"
+last_updated: "2015-02-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036262"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ De [Vergoedingsregeling gemeenten voor handhaving parkeren en overlast 2010](htt
 
 ##### Artikel 2. Overgangsbepaling
 
-Bestaande aanspraken van de gemeenten die voor 1 januari 2015 op grond van de regeling genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036262&artikel=1&z=2015-02-12&g=2015-01-01) tot stand zijn gekomen, worden overeenkomstig de regeling genoemd in artikel 1 afgedaan.
+Bestaande aanspraken van de gemeenten die voor 1 januari 2015 op grond van de regeling genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036262&artikel=1&z=2015-02-12&g=2015-02-12) tot stand zijn gekomen, worden overeenkomstig de regeling genoemd in artikel 1 afgedaan.
 
 ##### Artikel 3. Slotbepaling
 
