@@ -4,7 +4,7 @@ identifier: "BWBR0036348"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-02-27"
-last_updated: "2015-01-01"
+last_updated: "2015-02-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036348"
 soort: "zbo"
@@ -46,7 +46,7 @@ Aan de manager Operations van Stichting Centraal Orgaan voor Kwaliteitsaangelege
 
 ##### Artikel 2
 
-Aan de stafmedewerker Beleid en Besluitvorming van Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel wordt ondermandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036348&artikel=1&z=2015-02-27&g=2015-01-01) van dit besluit, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan de stafmedewerker Beleid en Besluitvorming van Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel wordt ondermandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036348&artikel=1&z=2015-02-27&g=2015-02-27) van dit besluit, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 3
 
