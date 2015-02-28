@@ -4,7 +4,7 @@ identifier: "BWBR0032215"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-12-19"
-last_updated: "2014-03-20"
+last_updated: "2015-02-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032215"
 soort: "ministeriele-regeling"
@@ -76,9 +76,13 @@ Besluit:
 
 ##### Artikel 2
 
-1. De constanten, bedoeld in [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8), C1, lengte, C2, lengte, C3, lengte, C1, benzine, C2, benzine, C3, benzine, C1, diesel, C2, diesel en C3, dieselworden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Hierbij wordt het aantal verkochte auto’s van elke uitvoering in rekening gebracht. Varianten van voertuigtypen met een lengte x breedte groter dan 11 m2 worden bij de berekening van deze constanten buiten beschouwing gelaten.
+1. De constanten, bedoeld in [artikel 8 van het Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8), C1, lengte, C2, lengte, C3, lengte, C1, benzine, C2, benzine, C3, benzine, C1, diesel, C2, diesel en C3, dieselworden berekend met behulp van de zogenoemde kleinste-kwadraten-methode. Bij de berekening van deze constanten worden buiten beschouwing gelaten:
 
-2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2014-03-20&g=2014-03-20) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
+- –. varianten van voertuigtypen met een lengte x breedte groter dan 11 m2, en
+
+- –. uitvoeringen van voertuigtypen met een CO2-uitstoot kleiner of gelijk aan 50 gram per kilometer.
+
+2. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032215&artikel=1&z=2015-02-28&g=2015-02-28) bedoelde waarden CO2-uitstoottotaal gem. benzine en CO2-uitstoottotaal gem. diesel hebben betrekking op de gemiddelde CO2-uitstoot van nieuwe benzine- en dieselpersonenauto’s bij een voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s. De waarden CO2-uitstoottotaal gemiddelde benzine en CO2-uitstoottotaal gemiddelde diesel worden bepaald met behulp van de formules in artikel 1, tweede lid, onderdelen D1 en D2. De voertuiggrootte behorend bij de gemiddelde CO2-uitstoot van alle auto’s wordt gevonden in de vorm van de gecorrigeerde lengte x breedte waarde, waarbij het gewogen gemiddelde van de met behulp van de formules in artikel 1, tweede lid, , onderdelen D1 en D2 gevonden gemiddelde CO2-waarden voor benzineauto's resp. dieselauto's gelijk is aan de gemiddelde CO2-uitstoot van alle verkochte nieuwe personenauto’s.
 
 3. De constanten en waarden worden berekend op basis van de gegevens omtrent CO2-uitstoot, de lengte, de breedte en de aantallen nieuwe personenauto’s, die zijn verkocht in de twee kalenderjaren voorafgaand aan het kalenderjaar, waarin de constanten en waarden worden vastgesteld.
 
