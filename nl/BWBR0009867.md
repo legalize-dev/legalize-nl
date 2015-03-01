@@ -4,7 +4,7 @@ identifier: "BWBR0009867"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-03-01"
-last_updated: "2015-01-29"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009867"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - e. gevaarlijke stoffen en preparaten: stoffen en preparaten die behoren tot een of meer van de in [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.1) aangewezen categorieën;
 
-- f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onder f, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1).
+- f. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1).
 
 #### § 2. De wijze waarop de aanvraag om een vergunning moet geschieden
 
@@ -116,7 +116,7 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 5°. aard en hoeveelheid voedsel, waaronder soort en aantallen van planten en dode dieren die bestemd als voedsel binnen het Antarctisch gebied worden gebracht;
 
-- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2015-01-29&g=2015-01-29) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
+- 6°. de soorten, aantallen, en indien van toepassing de leeftijden en geslachten van de planten of de levende organismen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=5&z=2015-03-01&g=2015-03-01) die binnen het Antarctisch gebied worden gebracht en de redenen voor het binnenbrengen in het Antarctisch gebied;
 
 - d. een nauwkeurige beschrijving van de nadelige gevolgen die de activiteit voor het Antarctisch milieu zal of kan veroorzaken, alsmede de aard en omvang van de te onderscheiden vormen van nadelige gevolgen, en de tijdseenheden waarbinnen deze zich kunnen voordoen, waaronder in ieder geval worden begrepen:
 
@@ -220,7 +220,7 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - 2°. de precieze aanduiding van de plaatsen waar en data en tijden waarop deze handelingen worden uitgevoerd;
 
-- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2015-01-29&g=2015-01-29), met betrekking tot deze handelingen;
+- 3°. een specificatie van de gegevens als bedoeld in [artikel 3, onderdeel c tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0009867&paragraaf=3&artikel=3&z=2015-03-01&g=2015-03-01), met betrekking tot deze handelingen;
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
 
