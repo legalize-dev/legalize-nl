@@ -4,7 +4,7 @@ identifier: "BWBV0006469"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-03-01"
-last_updated: "2006-12-12"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006469"
 soort: "verdrag"
@@ -154,7 +154,7 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 - 4. tijdige uitwisseling van informatie die van invloed kan zijn op de samenwerking;
 
-- 5. passende bescherming van intellectuele-eigendomsrechten, zoals bedoeld in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=8&z=2006-12-12&g=2006-12-12);
+- 5. passende bescherming van intellectuele-eigendomsrechten, zoals bedoeld in [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=8&z=2015-03-01&g=2015-03-01);
 
 - 6. vrije toegang tot de satellietnavigatiediensten op het grondgebied van de partijen;
 
@@ -162,7 +162,7 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 ##### Artikel 4. Toepassingsgebied van de samenwerking
 
-1. Samenwerking op het gebied van satellietnavigatie en -tijdssynchronisatie kan worden opgezet in de sectoren wetenschappelijk onderzoek, industriële fabricage, opleiding, toepassing, ontwikkeling van diensten en markten, handel, radiospectrum, integriteit, normalisering en certificering, en veiligheid. De partijen kunnen, volgens het mechanisme van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=14&z=2006-12-12&g=2006-12-12), besluiten deze lijst aan te passen.
+1. Samenwerking op het gebied van satellietnavigatie en -tijdssynchronisatie kan worden opgezet in de sectoren wetenschappelijk onderzoek, industriële fabricage, opleiding, toepassing, ontwikkeling van diensten en markten, handel, radiospectrum, integriteit, normalisering en certificering, en veiligheid. De partijen kunnen, volgens het mechanisme van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=14&z=2015-03-01&g=2015-03-01), besluiten deze lijst aan te passen.
 
 2. Deze overeenkomst is niet van toepassing op samenwerking tussen de partijen op de hieronder in de punten 2.1 tot en met 2.6 vermelde gebieden. De partijen kunnen, indien zij het erover eens zijn dat zulks hun tot wederzijds voordeel zal strekken, de samenwerking tot deze gebieden uitbreiden, mits zij daartoe passende overeenkomsten sluiten; het betreft:
 
@@ -182,7 +182,7 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 ##### Artikel 5. Vorm van de samenwerking
 
-1. Onverminderd de toepasselijke regelgeving wordt door de partijen een zo breed mogelijke samenwerking in het kader van deze overeenkomst bevorderd in die zin dat vergelijkbare mogelijkheden worden geboden voor deelname aan de samenwerking in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2006-12-12&g=2006-12-12) genoemde sectoren.
+1. Onverminderd de toepasselijke regelgeving wordt door de partijen een zo breed mogelijke samenwerking in het kader van deze overeenkomst bevorderd in die zin dat vergelijkbare mogelijkheden worden geboden voor deelname aan de samenwerking in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2015-03-01&g=2015-03-01) genoemde sectoren.
 
 2. De partijen komen overeen samen te werken zoals is bepaald in de artikelen 6 tot en met 13.
 
@@ -208,7 +208,7 @@ Het gezamenlijke onderzoek moet bijdragen aan de planning van de toekomstige ont
 
 2. Ten behoeve van de industriële samenwerking verlenen en waarborgen de partijen, in overeenstemming met de strengste internationale normen, op de gebieden en in de sectoren die van belang zijn voor de ontwikkeling en exploitatie van Galileo/Egnos, een adequate en effectieve bescherming van de rechten van intellectuele, industriële en commerciële eigendom, waaronder begrepen effectieve middelen van rechtshandhaving.
 
-3. De uitvoer door Marokko naar derde landen van gevoelige goederen en technologieën die specifiek ontwikkeld en gefinancierd worden in het kader van het Galileo-programma moet vooraf door de bevoegde beveiligingsinstantie van Galileo zijn goedgekeurd, indien deze instantie heeft aanbevolen om deze goederen te onderwerpen aan een uitvoervergunning in overeenstemming met de toepasselijke regelgeving. Voorts voorziet elke in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2006-12-12&g=2006-12-12), bedoelde overeenkomst in een passend mechanisme, volgens hetwelk Marokko kan aanbevelen om bepaalde goederen aan een uitvoervergunning te onderwerpen.
+3. De uitvoer door Marokko naar derde landen van gevoelige goederen en technologieën die specifiek ontwikkeld en gefinancierd worden in het kader van het Galileo-programma moet vooraf door de bevoegde beveiligingsinstantie van Galileo zijn goedgekeurd, indien deze instantie heeft aanbevolen om deze goederen te onderwerpen aan een uitvoervergunning in overeenstemming met de toepasselijke regelgeving. Voorts voorziet elke in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2015-03-01&g=2015-03-01), bedoelde overeenkomst in een passend mechanisme, volgens hetwelk Marokko kan aanbevelen om bepaalde goederen aan een uitvoervergunning te onderwerpen.
 
 4. De partijen bevorderen nauwere banden tussen de bevoegde instanties van Marokko en het Europees Ruimteagentschap, teneinde het bereiken van de doelstellingen van de overeenkomst te bevorderen.
 
@@ -250,7 +250,7 @@ Een van de doelstellingen van de coördinatie is een breed en innovatief gebruik
 
 3. De partijen treffen alle haalbare maatregelen om de continuïteit en de beveiliging van de satellietnavigatiediensten en de corresponderende infrastructuur op hun grondgebied te verzekeren. Overlay van Galileo-signalen is zonder voorafgaande toestemming van de andere partij niet toegestaan.
 
-4. Elke uitwisseling van gerubriceerde informatie als bedoeld in [artikel 4, lid 2, punt 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2006-12-12&g=2006-12-12), vergt een veiligheidsovereenkomst tussen de partijen. De beginselen, de procedures en het toepassingsgebied worden door de bevoegde veiligheidsinstanties van de partijen vastgesteld.
+4. Elke uitwisseling van gerubriceerde informatie als bedoeld in [artikel 4, lid 2, punt 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2015-03-01&g=2015-03-01), vergt een veiligheidsovereenkomst tussen de partijen. De beginselen, de procedures en het toepassingsgebied worden door de bevoegde veiligheidsinstanties van de partijen vastgesteld.
 
 ##### Artikel 13. Aansprakelijkheid en kostendekking
 
@@ -260,7 +260,7 @@ De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeli
 
 1. De samenwerking krachtens deze overeenkomst wordt, namens Marokko, door de Regering van Marokko en, namens de Gemeenschap en haar lidstaten, door de Europese Commissie gecoördineerd en bevorderd.
 
-2. In overeenstemming met de doelstelling in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=1&z=2006-12-12&g=2006-12-12) stellen de partijen, met het oog op het beheer van deze overeenkomst, de in de [Associatieovereenkomst van maart 2000](https://wetten.overheid.nl/jci1.3:c:BWBV0001337) bedoelde samenwerkingsmechanismen vast.
+2. In overeenstemming met de doelstelling in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=1&z=2015-03-01&g=2015-03-01) stellen de partijen, met het oog op het beheer van deze overeenkomst, de in de [Associatieovereenkomst van maart 2000](https://wetten.overheid.nl/jci1.3:c:BWBV0001337) bedoelde samenwerkingsmechanismen vast.
 
 3. De partijen komen overeen dat Marokko de mogelijkheid wordt geboden om overeenkomstig de toepasselijke wetgeving en procedures deel te nemen aan de werkzaamheden van de Europese GNSS-toezichtautoriteit.
 
