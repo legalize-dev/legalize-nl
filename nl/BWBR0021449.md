@@ -4,7 +4,7 @@ identifier: "BWBR0021449"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2015-03-01"
-last_updated: "2012-04-17"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0021449"
 soort: "beleidsregel"
@@ -39,15 +39,15 @@ entry_into_force: "1999-04-01"
 
 Deze richtlijn ziet op het delict lasterlijke aanklacht, zoals bedoeld in [art. 268 WvSr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=268). Indien er sprake is van de toepassing van dwangmiddelen dient dit als strafverzwarende omstandigheid mee te wegen in de beoordeling. Eventuele discriminatoire aspecten dienen strafverzwarend te worden beoordeeld.
 
-### Aard van de richtlijn
-
-Commuun
-
 ### Basisdelicten
 
 – Lasterlijke aanklacht
 
 ### Wettekst
+
+– Lasterlijke aanklacht
+
+### Lasterlijke aanklacht
 
 – [Wetboek van Strafrecht art. 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=268)
 
@@ -86,3 +86,7 @@ Geen
 Geen
 
 Geen
+
+### Aard van de richtlijn
+
+### Basisdelict
