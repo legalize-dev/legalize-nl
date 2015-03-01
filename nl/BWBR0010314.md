@@ -4,7 +4,7 @@ identifier: "BWBR0010314"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-05-26"
-last_updated: "2008-06-01"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010314"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Als wetenschappelijk onderzoek waarvan het onderzoekprotocol een positief oordee
 
 - f. wetenschappelijk onderzoek gericht op de ontwikkeling van celtherapie, waarbij gebruik wordt gemaakt van levende cellen;
 
-- g. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1, eerste lid, onderdeel f, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1) bevat.
+- g. wetenschappelijk onderzoek met een geneesmiddel dat genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1) bevat.
 
 ##### Artikel 2
 
