@@ -4,7 +4,7 @@ identifier: "BWBR0006755"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2010-10-01"
+last_updated: "2015-03-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006755"
 soort: "AMvB"
@@ -62,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 - 2°. voor wat betreft dier- en plantpathogenen een ernstige ziekte kunnen veroorzaken, en waarbij het waarschijnlijk is dat deze organismen zich in het milieu verspreiden, of die een toxine produceren met een LD50 voor vertebraten van minder dan 100 microgram per kilogram lichaamsgewicht.
 
-- d. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1, onderdeel f, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=1);
+- d. genetisch gemodificeerde organismen: genetisch gemodificeerde organismen als bedoeld in [artikel 1.1 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.1);
 
 - e. activiteit met genetisch gemodificeerde organismen: vervaardiging van of handeling met genetisch gemodificeerde organismen;
 
@@ -74,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit wordt onder bevolking tevens de beheerders van voor publiek opengestelde inrichtingen, waaronder scholen en ziekenhuizen, verstaan.
 
-3. Dit besluit is uitsluitend van toepassing op activiteiten met genetisch gemodificeerde organismen op het bij ministeriële regeling krachtens het [Besluit genetisch gemodificeerde organismen](https://wetten.overheid.nl/jci1.3:c:BWBR0004703) aangewezen hoogste of op een na hoogste niveau in:
+3. Dit besluit is uitsluitend van toepassing op activiteiten met genetisch gemodificeerde organismen op inperkingsniveau III of IV, als bedoeld in het [Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&wetgeving), in:
 
 - a. laboratoria voor de vervaardiging van en handelingen met genetisch gemodificeerde micro-organismen;
 
@@ -85,6 +85,8 @@ Hebben goedgevonden en verstaan:
 - d. dierverblijven waarin genetisch gemodificeerde micro-organismen worden toegepast;
 
 - e. procesinstallaties waarin genetisch gemodificeerde micro-organismen worden toegepast.
+
+4. In afwijking van het derde lid is dit besluit niet van toepassing op ingeperkt gebruik als bedoeld in [artikel 2.1, eerste lid, onder a en b, van het Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=2.1).
 
 ### Hoofdstuk II. Verschaffing van informatie aan het bestuur van de veiligheidsregio en aan de burgemeester
 
@@ -162,7 +164,7 @@ Dit geldt niet voor zover deze informatie reeds op grond van andere voorschrifte
 
 6. De gebruiker zendt de ingevolge het tweede tot en met vijfde lid verschafte informatie onmiddellijk tevens aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-7. Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=3&z=2010-10-01&g=2010-10-01) van overeenkomstige toepassing.
+7. Voor zover de informatie, bedoeld in het tweede tot en met vijfde lid, betrekking heeft op toepassing van gevaarlijke micro-organismen dan wel op een activiteit met genetisch gemodificeerde organismen, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=3&z=2015-03-01&g=2015-03-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk III. Verschaffing van informatie aan de bevolking
 
@@ -192,7 +194,7 @@ Dit geldt niet voor zover deze informatie reeds op grond van andere voorschrifte
 
 ##### Artikel 6
 
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), in ieder geval:
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp in een inrichting, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), in ieder geval:
 
 - a. de naam van degene die de inrichting drijft en de naam en het adres van de desbetreffende inrichting;
 
@@ -214,7 +216,7 @@ De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan 
 
 ##### Artikel 7
 
-De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01):
+De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan de bevolking verschaft omvat, voor zover deze betrekking heeft op een mogelijke ramp met stralingsgevaar en waarvan de gevolgen in beginsel beperkt zullen blijven tot de gemeente waar de ramp zich voordoet, in aanvulling op de informatie, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01):
 
 - a. basiskennis over radioactiviteit en de gevolgen daarvan voor de bevolking of het milieu;
 
@@ -222,19 +224,19 @@ De informatie die het bestuur van de veiligheidsregio over mogelijke rampen aan 
 
 ##### Artikel 8
 
-Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2a&artikel=6a&z=2010-10-01&g=2010-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2010-10-01&g=2010-10-01), permanent toegankelijk is voor het publiek.
+Het bestuur van de veiligheidsregio draagt er zorg voor dat de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2015-03-01&g=2015-03-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2a&artikel=6a&z=2015-03-01&g=2015-03-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2015-03-01&g=2015-03-01), permanent toegankelijk is voor het publiek.
 
 #### § 4. Frequentie van de verschaffing van informatie over alle typen van mogelijke rampen
 
 ##### Artikel 9
 
-1. De informatie, bedoeld in [artikel 5, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), wordt ten minste één maal per jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
+1. De informatie, bedoeld in [artikel 5, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), wordt ten minste één maal per jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
 
 2. De informatie als bedoeld in het eerste lid die betrekking of mede betrekking heeft op een inrichting of een afvalvoorziening categorie A wordt ten minste één maal per drie jaar opnieuw bezien en zo nodig bijgewerkt. Bijwerking vindt voorts in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting of een afvalvoorziening categorie A worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
 
-3. De informatie, bedoeld in de [artikelen 5, onder a en d tot en met g, en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
+3. De informatie, bedoeld in de [artikelen 5, onder a en d tot en met g, en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), wordt ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is bijgewerkt. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht.
 
-4. De verschaffing van informatie als bedoeld in [artikel 5, onder a en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), die betrekking of mede betrekking heeft op een inrichting of een afvalvoorziening categorie A alsmede van de informatie, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2a&artikel=6a&z=2010-10-01&g=2010-10-01), geschiedt ten minste één maal in de vijf jaar en voorts telkens wanneer de informatie is bijgewerkt. Ten minste één maal per drie jaar wordt bezien of bijwerking nodig is. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting of een afvalvoorziening categorie A worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
+4. De verschaffing van informatie als bedoeld in [artikel 5, onder a en d tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), die betrekking of mede betrekking heeft op een inrichting of een afvalvoorziening categorie A alsmede van de informatie, bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2015-03-01&g=2015-03-01) en [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2a&artikel=6a&z=2015-03-01&g=2015-03-01), geschiedt ten minste één maal in de vijf jaar en voorts telkens wanneer de informatie is bijgewerkt. Ten minste één maal per drie jaar wordt bezien of bijwerking nodig is. Bijwerking vindt in ieder geval plaats wanneer in de beschreven maatregelen significante wijzigingen worden aangebracht en wanneer wijzigingen in de inrichting of een afvalvoorziening categorie A worden aangebracht die voor de gevaren van rampen belangrijke gevolgen kunnen hebben.
 
 5. Het bestuur van de veiligheidsregio verschaft de informatie, bedoeld in het derde en vierde lid, eerder en werkt deze eerder bij, indien naar zijn oordeel ontwikkelingen in de kennis over de veiligheid en over de beoordeling van risico’s en over een doelmatige rampenbestrijding hiertoe nopen.
 
@@ -304,9 +306,9 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 13
 
-1. Het bestuur van de veiligheidsregio waarin een inrichting geheel of in hoofdzaak is gelegen, verschaft de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01), die betrekking heeft op die inrichting, tevens aan Onze Minister. Indien de bevolking of het milieu van een andere staat kan worden getroffen door een ramp in die inrichting, verstrekt het bestuur van de veiligheidsregio tevens de informatie, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2010-10-01&g=2010-10-01), aan Onze Minister.
+1. Het bestuur van de veiligheidsregio waarin een inrichting geheel of in hoofdzaak is gelegen, verschaft de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2015-03-01&g=2015-03-01), die betrekking heeft op die inrichting, tevens aan Onze Minister. Indien de bevolking of het milieu van een andere staat kan worden getroffen door een ramp in die inrichting, verstrekt het bestuur van de veiligheidsregio tevens de informatie, bedoeld in [artikel 12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2015-03-01&g=2015-03-01), aan Onze Minister.
 
-2. Indien de bevolking of het milieu van een andere staat kan worden getroffen door een ramp tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verschaft het bestuur van de veiligheidsregio waarin die toepassing plaatsvindt of waar zich stralingsgevaar kan voordoen de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-01&g=2010-10-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2010-10-01&g=2010-10-01) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2010-10-01&g=2010-10-01), tevens aan Onze Minister.
+2. Indien de bevolking of het milieu van een andere staat kan worden getroffen door een ramp tijdens een toepassing op grote schaal van gevaarlijke micro-organismen dan wel tijdens een activiteit met genetisch gemodificeerde organismen of met stralingsgevaar, verschaft het bestuur van de veiligheidsregio waarin die toepassing plaatsvindt of waar zich stralingsgevaar kan voordoen de informatie, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=1&artikel=5&z=2015-03-01&g=2015-03-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=3&artikel=7&z=2015-03-01&g=2015-03-01) en [12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2015-03-01&g=2015-03-01), tevens aan Onze Minister.
 
 3. De verschaffing van informatie over een toepassing op grote schaal van gevaarlijke micro-organismen dan wel een activiteit met genetisch gemodificeerde organismen, bedoeld in het tweede lid, geschiedt voordat die toepassing begint.
 
@@ -316,7 +318,7 @@ De artikelen van dit hoofdstuk worden ten aanzien van informatie die betrekking 
 
 ##### Artikel 14
 
-1. Indien de bevolking of het milieu van een andere staat wordt getroffen of dreigt te worden getroffen door een ramp of crisis, verschaft de voorzitter van de veiligheidsregio de informatie, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=6&artikel=11&z=2010-10-01&g=2010-10-01) en [12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2010-10-01&g=2010-10-01), tevens aan Onze Minister.
+1. Indien de bevolking of het milieu van een andere staat wordt getroffen of dreigt te worden getroffen door een ramp of crisis, verschaft de voorzitter van de veiligheidsregio de informatie, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=6&artikel=11&z=2015-03-01&g=2015-03-01) en [12, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=IV&artikel=12&z=2015-03-01&g=2015-03-01), tevens aan Onze Minister.
 
 2. Onze Minister verstrekt de informatie, bedoeld in het eerste lid, aan de betrokken staat.
 
@@ -332,7 +334,7 @@ Vervallen
 
 ##### Artikel 16
 
-Handelen in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-01&g=2010-10-01) en handelen in strijd met [artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2010-10-01&g=2010-10-01), door degene die de inrichting drijft dan wel de gebruiker, en handelen in strijd met [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2010-10-01&g=2010-10-01), door degene die een afvalvoorziening categorie A drijft, is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
+Handelen in strijd met [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=1&artikel=2&z=2015-03-01&g=2015-03-01) en handelen in strijd met [artikel 4, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2015-03-01&g=2015-03-01), door degene die de inrichting drijft dan wel de gebruiker, en handelen in strijd met [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=II&paragraaf=2&artikel=4&z=2015-03-01&g=2015-03-01), door degene die een afvalvoorziening categorie A drijft, is een strafbaar feit als bedoeld in [artikel 1a, onder 1°, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1a).
 
 ##### Artikel 17
 
@@ -346,7 +348,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 6a
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2010-10-01&g=2010-10-01) is van overeenkomstige toepassing op een mogelijke ramp in een afvalvoorziening categorie A, met dien verstande dat:
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006755&hoofdstuk=III&paragraaf=2&artikel=6&z=2015-03-01&g=2015-03-01) is van overeenkomstige toepassing op een mogelijke ramp in een afvalvoorziening categorie A, met dien verstande dat:
 
 - a. in onderdeel b in plaats van «[Besluit risico’s zware ongevallen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010475)» wordt gelezen «[Besluit beheer winningsafvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0023903)» en in plaats van «een veiligheidsrapport» wordt gelezen: het document, bedoeld in [artikel 3, vijfde lid, van het Besluit beheer winningsafvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0023903&artikel=3);
 
