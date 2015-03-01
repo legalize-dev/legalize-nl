@@ -115,9 +115,3 @@ Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging algeme
 ### Onderdeel D – ruimte
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Onderdeel E – Luchtvaart
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
