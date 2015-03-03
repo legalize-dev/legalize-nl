@@ -4,7 +4,7 @@ identifier: "BWBR0036367"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-12"
-last_updated: "2015-03-01"
+last_updated: "2015-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036367"
 soort: "ministeriele-regeling"
@@ -62,7 +62,7 @@ Het Besluit ondermandaat, volmacht en machtiging Rijksinstituut voor Volksgezond
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop het [Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&wetgeving) in werking treedt.
+Dit besluit treedt in werking met ingang van het tijdstip waarop het [Besluit mandaat, volmacht en machtiging Rijksinstituut voor Volksgezondheid en Milieu Besluit en Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0036366) in werking treedt.
 
 ##### Artikel 5
 
