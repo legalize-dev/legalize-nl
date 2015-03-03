@@ -4,7 +4,7 @@ identifier: "BWBR0036366"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-02-12"
-last_updated: "2015-03-01"
+last_updated: "2015-03-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036366"
 soort: "ministeriele-regeling"
@@ -46,13 +46,13 @@ BESLUIT:
 
 In dit besluit wordt verstaan onder:
 
-- **Besluit:** [Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&wetgeving);
+- **Besluit:** [Besluit genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035090);
 
 - **doelbewuste introductie in het milieu:** doelbewuste introductie als bedoeld in [artikel 1.3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.3);
 
 - **ingeperkt gebruik:** ingeperkt gebruik als bedoeld in [artikel 1.2 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035090&artikel=1.2);
 
-- **Regeling:** [Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035072&wetgeving).
+- **Regeling:** [Regeling genetisch gemodificeerde organismen milieubeheer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0035072).
 
 ##### Artikel 2
 
@@ -74,15 +74,15 @@ De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu word
 
 ##### Artikel 4
 
-De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-01), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
+De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt mandaat verleend tot het beslissen op bezwaarschriften tegen besluiten als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-03), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-03), voor zover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.
 
 ##### Artikel 5
 
 De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu wordt volmacht en machtiging verleend tot:
 
-- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-01) bedoelde besluiten; en
+- a. het verrichten van alle handelingen ter voorbereiding en ter uitvoering van de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-03), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-03) bedoelde besluiten; en
 
-- b. het voeren van procedures bij de rechter over de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-01) bedoelde besluiten, alsmede het verrichten van daarbij behorende handelingen.
+- b. het voeren van procedures bij de rechter over de in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-03), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=3&z=2015-03-03&g=2015-03-03) bedoelde besluiten, alsmede het verrichten van daarbij behorende handelingen.
 
 ##### Artikel 6
 
@@ -94,11 +94,11 @@ De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu word
 
 ##### Artikel 7
 
-De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-01), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
+De directeur-generaal van het Rijksinstituut voor Volksgezondheid en Milieu kan met betrekking tot zijn bevoegdheden, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-03), ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.
 
 ##### Artikel 8
 
-Indien uitvoering wordt gegeven aan de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-01) luidt de ondertekening:
+Indien uitvoering wordt gegeven aan de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036366&artikel=2&z=2015-03-03&g=2015-03-03) luidt de ondertekening:
 
 DE STAATSSECRETARIS VAN INFRASTRUCTUUR EN MILIEU,
 
