@@ -4,7 +4,7 @@ identifier: "BWBR0034162"
 country: "nl"
 rank: "wet"
 publication_date: "2023-01-01"
-last_updated: "2014-08-01"
+last_updated: "2015-03-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034162"
 soort: "wet"
@@ -48,9 +48,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
-- **instelling:** rechtspersoon die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01) subsidie ontvangt,
+- **instelling:** rechtspersoon die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04) of [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04) subsidie ontvangt,
 
-- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap, en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken, Landbouw en Innovatie.
+- **Onze Minister:** Onze Minister van Onderwijs, Cultuur en Wetenschap, en, voor wat betreft het landbouwonderwijs, Onze Minister van Economische Zaken.
 
 ##### Artikel 2. **Taken Stichting SLO**
 
@@ -82,13 +82,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. het uitvoeren van aanvullende activiteiten die samenhangen met de taken, genoemd in dit artikel.
 
-2. Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor de taken, genoemd in dit artikel.
+2. Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor de taken, genoemd in het eerste lid.
 
 3. Onze Minister kan Stichting Cito Instituut voor Toetsontwikkeling subsidie verstrekken voor het ontwikkelen van de toetsen, bedoeld in [artikel 11, zevende lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=11).
 
 ##### Artikel 4. **Subsidieverlening per boekjaar**
 
-Subsidies voor de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01) worden per boekjaar verstrekt.
+Subsidies voor de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04) worden per boekjaar verstrekt.
 
 ##### Artikel 5. **Kaderbrief SLOA**
 
@@ -128,25 +128,25 @@ Onverminderd de mogelijkheden tot weigering van subsidieverlening ingevolge de [
 
 2. Bij de regels, bedoeld in het eerste lid, wordt voor zover nodig onderscheid gemaakt tussen subsidie voor:
 
-- a. de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01), en
+- a. de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04), en
 
-- b. de taken, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01), en [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01).
+- b. de taken, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04), en [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04).
 
 ##### Artikel 8. **Subsidieplafond**
 
-1. Onze Minister stelt jaarlijks het bedrag vast dat ten hoogste beschikbaar is voor de verlening van subsidies ten behoeve van de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01). Hij bepaalt daarbij hoe het beschikbare bedrag of de beschikbare bedragen worden verdeeld.
+1. Onze Minister stelt jaarlijks het bedrag vast dat ten hoogste beschikbaar is voor de verlening van subsidies ten behoeve van de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04), en [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04). Hij bepaalt daarbij hoe het beschikbare bedrag of de beschikbare bedragen worden verdeeld.
 
-2. Onze Minister kan jaarlijks het bedrag vaststellen dat ten hoogste beschikbaar is voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01), en [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01). Hij kan daarbij bepalen hoe het beschikbare bedrag of de beschikbare bedragen worden verdeeld.
+2. Onze Minister kan jaarlijks het bedrag vaststellen dat ten hoogste beschikbaar is voor de activiteiten, genoemd in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04), en [artikel 3, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04). Hij kan daarbij bepalen hoe het beschikbare bedrag of de beschikbare bedragen worden verdeeld.
 
 ##### Artikel 9. **Openbaarheid**
 
-De voor de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01), gebruikte gegevens en de resultaten van die taken worden door de instellingen openbaar gemaakt, tenzij bijzondere omstandigheden zich hiertegen verzetten. Bij ministeriële regeling en bij de subsidieverlening kan worden bepaald dat openbaarmaking geheel of gedeeltelijk achterwege blijft.
+De voor de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04), gebruikte gegevens en de resultaten van die taken worden door de instellingen openbaar gemaakt, tenzij bijzondere omstandigheden zich hiertegen verzetten. Bij ministeriële regeling en bij de subsidieverlening kan worden bepaald dat openbaarmaking geheel of gedeeltelijk achterwege blijft.
 
 ##### Artikel 10. **Intellectueel eigendom**
 
-1. Tenzij anders overeengekomen werkt de instelling mee aan het overdragen van intellectuele eigendomsrechten ten behoeve van Onze Minister ter zake van de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01), en doet voor zover de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) dit toestaat, tevens afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.
+1. Tenzij anders overeengekomen werkt de instelling mee aan het overdragen van intellectuele eigendomsrechten ten behoeve van Onze Minister ter zake van de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04), en doet voor zover de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886) dit toestaat, tevens afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.
 
-2. Voor zover de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2016-08-12&g=2014-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2016-08-12&g=2014-08-01), tot stand komen met gebruikmaking van reeds bestaande, niet aan de instelling toekomende intellectuele eigendomsrechten, draagt de instelling zorg voor het verlenen van adequate gebruiksrechten aan Onze Minister.
+2. Voor zover de taken, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2&z=2015-03-04&g=2015-03-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3&z=2015-03-04&g=2015-03-04), tot stand komen met gebruikmaking van reeds bestaande, niet aan de instelling toekomende intellectuele eigendomsrechten, draagt de instelling zorg voor het verlenen van adequate gebruiksrechten aan Onze Minister.
 
 ##### Artikel 11. **Toezicht**
 
@@ -168,7 +168,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ##### Artikel 13. **Overgangsbepalingen**
 
-1. Na de inwerkingtreding van deze wet berust de [Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820) mede op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=7&z=2016-08-12&g=2014-08-01) van deze wet.
+1. Na de inwerkingtreding van deze wet berust de [Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820) mede op [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=7&z=2015-03-04&g=2015-03-04) van deze wet.
 
 2. De [Wet subsidiëring landelijke onderwijsondersteunende activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0008725) wordt ingetrokken.
 
