@@ -4,7 +4,7 @@ identifier: "BWBR0036261"
 country: "nl"
 rank: "wet"
 publication_date: "2017-09-01"
-last_updated: "2015-02-11"
+last_updated: "2015-03-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036261"
 soort: "wet"
@@ -64,7 +64,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ##### Artikel VIII. Wijziging [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
@@ -82,9 +82,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden van [artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2015-02-11&g=2015-02-11), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.
+2. In afwijking van het eerste lid treden van [artikel I de onderdelen AQ, subonderdeel 1, en BE, subonderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2015-03-05&g=2015-03-05), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werken terug tot en met 1 september 2010.
 
-3. In afwijking van het eerste lid treedt [artikel I, onderdeel CQ](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2015-02-11&g=2015-02-11), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.
+3. In afwijking van het eerste lid treedt [artikel I, onderdeel CQ](https://wetten.overheid.nl/jci1.3:c:BWBR0036261&artikel=I&z=2015-03-05&g=2015-03-05), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
 ##### Artikel XII. Citeertitel
 
