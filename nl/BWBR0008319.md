@@ -4,7 +4,7 @@ identifier: "BWBR0008319"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-06"
-last_updated: "2008-06-01"
+last_updated: "2015-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008319"
 soort: "ministeriele-regeling"
@@ -46,33 +46,33 @@ Er is een Rijkscommissie voor export-, import-, en investeringsgaranties, te noe
 
 ##### Artikel 2
 
-De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikkelingen en vraagstukken alsmede knelpunten en mogelijke oplossingen daarvoor, op het gebied van export-kredietverzekering en -financiering en op het terrein van de herverzekeringen als bedoeld in [artikel 3, tweede lid van de kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3).
+De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikkelingen en vraagstukken alsmede knelpunten en mogelijke oplossingen daarvoor, op het gebied van export-kredietverzekering en -financiering en investeringsverzekeringen als bedoeld in [artikel 3, tweede lid van de kaderwet financiële verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886&artikel=3).
 
 ##### Artikel 3
 
-1. De Rijkscommissie brengt ieder jaar voor 1 april verslag uit over haar werkzaamheden in het voorgaande jaar en stelt tevens een jaarplan op voor het komende jaar.
+1. De Rijkscommissie brengt desgevraagd verslag uit over haar werkzaamheden aan de Minister van Financiën en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-2. Jaarverslagen en jaarplannen als bedoeld in het eerste lid, worden uitgebracht aan de Ministers van Financiën en van Economische Zaken.
+2. De Rijkscommissie kan besluiten om een jaarplan op te stellen voor het komende jaar.
 
 ##### Artikel 4
 
-1. De Rijkscommissie bestaat uit maximaal zevenentwintig leden.
+1. De Rijkscommissie bestaat uit een voorzitter en ten hoogste zesentwintig andere leden.
 
-2. De leden zijn:
+2. De voorzitter en de andere leden worden benoemd door de Minister van Financiën.
 
-- a. de voorzitter, die wordt benoemd door de Minister van Financiën;
+3. Als lid kunnen worden benoemd:
 
-- b. deskundigen op het gebied van industrie, landbouw, handel, dienstverleningsbedrijven, bank- en verzekeringswezen en daarin werkzaam, die worden benoemd door de Minister van Financiën in overeenstemming met Onze Minister van Economische Zaken.
+- a. deskundigen die een functie bekleden op het gebied van industrie, landbouw, handel, dienstverleningsbedrijven, bank- en verzekeringswezen;
 
-- c. twee vertegenwoordigers uit het georganiseerde bedrijfsleven die worden benoemd door de Minister van Financiën, in overeenstemming met de Minister van Economische Zaken.
+- b. vertegenwoordigers uit het georganiseerde bedrijfsleven;
 
-- d. vertegenwoordigers van toegelaten kredietverzekeringsmaatschappijen, die worden benoemd door de Minister van Financiën.
+- c. vertegenwoordigers van toegelaten kredietverzekeringsmaatschappijen;
 
-- e. twee vertegenwoordigers van de Minister van Financiën en de Minister van Economische Zaken, die worden benoemd door de Minister van Financiën.
+- d. vertegenwoordigers van de Minister van Financiën en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking.
 
-3. Voor de in het tweede lid onder de onderdelen b. tot en met e. genoemde leden kan de Minister van Financiën plaatsvervangende leden benoemen.
+4. Voor de in het derde lid genoemde leden kan de Minister van Financiën plaatsvervangende leden benoemen.
 
-4. De Rijkscommissie wordt ondersteund door een secretaris, die benoemd en ontslagen wordt door de Minister van Financiën. De secretaris is geen lid van de Rijkscommissie.
+5. De Rijkscommissie wordt ondersteund door een secretaris, die benoemd en ontslagen wordt door de Minister van Financiën. De secretaris is geen lid van de Rijkscommissie.
 
 ##### Artikel 5
 
@@ -80,13 +80,9 @@ De Rijkscommissie heeft tot taak overleg te voeren over (inter)nationale ontwikk
 
 2. Indien de secretaris tijdelijk niet in staat is om zijn taak te vervullen en onverwijld in het secretariaat moet worden voorzien, zorgt de voorzitter dat de taak van de secretaris naar behoren wordt uitgevoerd.
 
-3. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is. De onder [artikel 4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008319&artikel=4&z=2008-06-01&g=2008-06-01), bedoelde leden worden niet meer dan eenmaal herbenoemd.
+3. De leden en de plaatsvervangende leden worden benoemd voor een periode van vijf jaar, waarna herbenoeming mogelijk is.
 
-4. Bij tussentijdse vacature treedt de nieuwbenoemde, wat de duur van zijn benoeming betreft, in de plaats van zijn voorganger.
-
-5. Het lidmaatschap vervalt indien een lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
-
-6. Het plaatsvervangend lidmaatschap vervalt indien een plaatsvervangend lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
+4. Het lidmaatschap vervalt indien een lid de functie, waaraan de deskundigheid wordt ontleend, niet meer bekleedt.
 
 ##### Artikel 6
 
@@ -111,5 +107,11 @@ Vervallen
 ##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 1997.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 10
+
+Deze regeling wordt aangehaald als: Regeling Rijkscommissie voor export.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
