@@ -4,7 +4,7 @@ identifier: "BWBR0036382"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-07-05"
-last_updated: "2014-06-06"
+last_updated: "2015-03-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036382"
 soort: "ministeriele-regeling"
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 - a. **ambtenaar:** de ambtenaar van politie, bedoeld in [artikel 2, onderdeel a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
 
-- b. **uniform:** het samenstel van de door de korpschef op grond van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036382&artikel=3&z=2015-03-06&g=2014-06-06), vastgestelde lijst met kledingstukken en de in de bijlage genoemde uitmonstering;
+- b. **uniform:** het samenstel van de door de korpschef op grond van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036382&artikel=3&z=2015-03-06&g=2015-03-06), vastgestelde lijst met kledingstukken en de in de bijlage genoemde uitmonstering;
 
 ##### Artikel 2
 
@@ -73,7 +73,7 @@ Het uniform blijft eigendom van de politie en wordt door de korpschef ingenomen 
 
 ##### Artikel 5
 
-De [Kledingregeling voor de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006553&wetgeving) wordt ingetrokken.
+De [Kledingregeling voor de politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006553) wordt ingetrokken.
 
 ##### Artikel 6
 
