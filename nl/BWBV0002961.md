@@ -4,7 +4,7 @@ identifier: "BWBV0002961"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-03-09"
-last_updated: "2000-06-17"
+last_updated: "2015-03-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0002961"
 soort: "verdrag"
@@ -73,7 +73,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - d. „de Organisatie”: het in [artikel 2, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2) bedoelde lichaam;
 
-- e. „beschermd gebied”: een gebied dat wordt beschermd uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=4&z=2000-06-17&g=2000-06-17) van dit Protocol;
+- e. „beschermd gebied”: een gebied dat wordt beschermd uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=4&z=2015-03-09&g=2015-03-09) van dit Protocol;
 
 - f. „uitstervende soorten”: dier- en plantesoorten of ondersoorten of hun populaties die in hun gehele verspreidingsgebied of een gedeelte daarvan met uitsterven worden bedreigd en waarvan het voortbestaan niet waarschijnlijk is indien de factoren die ze in gevaar brengen blijven bestaan;
 
@@ -83,19 +83,19 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - ii. die zeldzaam zijn, omdat ze gewoonlijk voorkomen in een beperkt verspreidingsgebied of leefmilieu, of dun verspreid zijn over een groter gebied en die in aantal teruglopen of dreigen terug te lopen en mogelijk met uitsterven worden bedreigd of uitsterven;
 
-- h. „beschermde soorten”: dier- en plantesoorten of ondersoorten of hun populaties die worden beschermd uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2000-06-17&g=2000-06-17) van dit Protocol;
+- h. „beschermde soorten”: dier- en plantesoorten of ondersoorten of hun populaties die worden beschermd uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2015-03-09&g=2015-03-09) van dit Protocol;
 
 - i. „inheemse soorten”: dier- en plantesoorten of ondersoorten of hun populaties waarvan de verspreiding is beperkt tot een bepaald gebied;
 
-- j. „Bijlage I”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende plantesoorten bevat die vallen onder de in artikel 1 omschreven categorieën en die de in [artikel 11, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17), aangegeven beschermingsmaatregelen behoeven; De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii;
+- j. „Bijlage I”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende plantesoorten bevat die vallen onder de in artikel 1 omschreven categorieën en die de in [artikel 11, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven; De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii;
 
-- k. „Bijlage II”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende diersoorten bevat die vallen onder de in artikel 1 omschreven categorie en die de in [artikel 11, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii; en
+- k. „Bijlage II”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende diersoorten bevat die vallen onder de in artikel 1 omschreven categorie en die de in [artikel 11, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii; en
 
-- l. „Bijlage III”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende dier- en plantesoorten bevat die op verstandige en verantwoorde wijze kunnen worden benut en die de in [artikel 11, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii.
+- l. „Bijlage III”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende dier- en plantesoorten bevat die op verstandige en verantwoorde wijze kunnen worden benut en die de in [artikel 11, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii.
 
 ##### Artikel 2. Algemene bepalingen
 
-1. Dit Protocol is van toepassing op het Caribisch gebied zoals omschreven in [artikel 1, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=1&z=2000-06-17&g=2000-06-17).
+1. Dit Protocol is van toepassing op het Caribisch gebied zoals omschreven in [artikel 1, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=1&z=2015-03-09&g=2015-03-09).
 
 2. De bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) met betrekking tot de protocollen daarbij zijn op dit Protocol van toepassing, met inbegrip van met name de [leden 2 en 3 van artikel 3 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=3).
 
@@ -153,7 +153,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 - j. het reguleren of verbieden van handel in en in- en uitvoer van bedreigde of uitstervende diersoorten of delen, produkten of eieren daarvan, en van bedreigde of uitstervende plantesoorten of delen of produkten daarvan en archeologische voorwerpen die uit beschermde gebieden afkomstig zijn;
 
-- k. het reguleren of verbieden van industriële activiteiten en andere activiteiten die niet verenigbaar zijn met de vormen van gebruik waarin voor het gebied is voorzien krachtens nationale maatregelen en/of evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2000-06-17&g=2000-06-17); en
+- k. het reguleren of verbieden van industriële activiteiten en andere activiteiten die niet verenigbaar zijn met de vormen van gebruik waarin voor het gebied is voorzien krachtens nationale maatregelen en/of evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09); en
 
 - l. het reguleren van toeristische en recreatieve activiteiten die de ecosystemen van beschermde gebieden of het voortbestaan van bedreigde of uitstervende dier- en plantesoorten zouden kunnen bedreigen; en
 
@@ -161,7 +161,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder
 
 ##### Artikel 6. Plannings- en beheersregels voor beschermde gebieden
 
-1. Ten einde de voordelen van beschermde gebieden optimaal te benutten en de daadwerkelijke uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=5&z=2000-06-17&g=2000-06-17) uiteengezette maatregelen te waarborgen, neemt elke Partij voor beschermde gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, plannings-, beheers- en uitvoeringsmaatregelen en past deze toe. Daarbij houdt elke Partij rekening met de door de Wetenschappelijke en Technische Raadgevende Commissie vastgestelde richtlijnen en criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17), die zijn aangenomen op de vergaderingen van de Partijen.
+1. Ten einde de voordelen van beschermde gebieden optimaal te benutten en de daadwerkelijke uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=5&z=2015-03-09&g=2015-03-09) uiteengezette maatregelen te waarborgen, neemt elke Partij voor beschermde gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, plannings-, beheers- en uitvoeringsmaatregelen en past deze toe. Daarbij houdt elke Partij rekening met de door de Wetenschappelijke en Technische Raadgevende Commissie vastgestelde richtlijnen en criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09), die zijn aangenomen op de vergaderingen van de Partijen.
 
 2. Deze maatregelen dienen te omvatten:
 
@@ -193,17 +193,17 @@ Daartoe stellen de Partijen een lijst van beschermde gebieden op. De Partijen:
 
 - a. erkennen het bijzondere belang van in de lijst opgenomen gebieden voor het Caribisch gebied;
 
-- b. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2000-06-17&g=2000-06-17);
+- b. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09);
 
-- c. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2000-06-17&g=2000-06-17); en
+- c. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2015-03-09&g=2015-03-09); en
 
 - d. verlenen geen machtiging voor en gaan niet over tot activiteiten die afbreuk doen aan de doelstellingen waarvoor een in de lijst opgenomen gebied werd ingesteld.
 
 3. De procedure voor de opstelling van deze lijst van beschermde gebieden is als volgt:
 
-- a. De Partij die soevereiniteit, soevereine rechten of rechtsmacht over een beschermd gebied uitoefent, draagt het voor voor opneming in de lijst van beschermde gebieden. De voordracht geschiedt in overeenstemming met de richtlijnen en criteria betreffende de kenschetsing, de keuze, de instelling, het beheer, de bescherming en enige andere aangelegenheid, door de Partijen aangenomen uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17). Elke Partij die een voordracht doet, verstrekt via de Organisatie aan de Wetenschappelijke en Technische Raadgevende Commissie de nodige tot staving dienende stukken, met inbegrip van met name de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2000-06-17&g=2000-06-17), genoemde gegevens;
+- a. De Partij die soevereiniteit, soevereine rechten of rechtsmacht over een beschermd gebied uitoefent, draagt het voor voor opneming in de lijst van beschermde gebieden. De voordracht geschiedt in overeenstemming met de richtlijnen en criteria betreffende de kenschetsing, de keuze, de instelling, het beheer, de bescherming en enige andere aangelegenheid, door de Partijen aangenomen uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09). Elke Partij die een voordracht doet, verstrekt via de Organisatie aan de Wetenschappelijke en Technische Raadgevende Commissie de nodige tot staving dienende stukken, met inbegrip van met name de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09), genoemde gegevens;
 
-- b. Nadat de Wetenschappelijke en Technische Raadgevende Commissie de voordracht en de tot staving dienende stukken heeft beoordeeld, brengt zij de Organisatie ervan op de hoogte of aan de uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17) vastgestelde richtlijnen en criteria is voldaan. Indien aan deze richtlijnen en criteria is voldaan brengt de Organisatie de Vergadering van Verdragsluitende Partijen op de hoogte, die het voorgedragen gebied in de lijst van beschermde gebieden opneemt.
+- b. Nadat de Wetenschappelijke en Technische Raadgevende Commissie de voordracht en de tot staving dienende stukken heeft beoordeeld, brengt zij de Organisatie ervan op de hoogte of aan de uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) vastgestelde richtlijnen en criteria is voldaan. Indien aan deze richtlijnen en criteria is voldaan brengt de Organisatie de Vergadering van Verdragsluitende Partijen op de hoogte, die het voorgedragen gebied in de lijst van beschermde gebieden opneemt.
 
 ##### Artikel 8. Instelling van bufferzones
 
@@ -239,7 +239,7 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 
 7. De Partijen treffen, indien mogelijk, voorzieningen voor de repatriëring van illegaal uitgevoerde beschermde soorten. Partijen dienen zich in te spannen om deze soorten uit te zetten in het wild of, indien dit niet gelukt, voorzieningen te treffen om ze te gebruiken in wetenschappelijke onderzoeken of voor algemene vormingsdoeleinden.
 
-8. De maatregelen die Partijen nemen uit hoofde van dit artikel zijn ondergeschikt aan hun verplichtingen uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17) en mogen geenszins afbreuk doen aan die verplichtingen.
+8. De maatregelen die Partijen nemen uit hoofde van dit artikel zijn ondergeschikt aan hun verplichtingen uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) en mogen geenszins afbreuk doen aan die verplichtingen.
 
 ##### Artikel 11. Gemeenschappelijke maatregelen voor de bescherming van wilde dier- en plantesoorten
 
@@ -269,17 +269,17 @@ Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een be
 
 3. De Partijen kennen tevens prioriteit toe
 
-- a. aan de in de bijlagen vervatte soorten ten behoeve van wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2000-06-17&g=2000-06-17); en
+- a. aan de in de bijlagen vervatte soorten ten behoeve van wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09); en
 
-- b. aan de in de bijlagen vervatte soorten ten behoeve van de wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2000-06-17&g=2000-06-17).
+- b. aan de in de bijlagen vervatte soorten ten behoeve van de wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2015-03-09&g=2015-03-09).
 
 4. De procedure tot wijziging van de bijlagen is als volgt:
 
-- a. iedere Partij kan uitstervende of bedreigde dier- of plantesoorten voordragen voor opneming en doorhaling in deze bijlagen en dient via de Organisatie bij de Wetenschappelijke en Technische Raadgevende Commissie tot staving dienende stukken in, met inbegrip van met name de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2000-06-17&g=2000-06-17) genoemde gegevens. De voordracht geschiedt in overeenstemming met de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17) door de Partijen aangenomen richtlijnen en criteria;
+- a. iedere Partij kan uitstervende of bedreigde dier- of plantesoorten voordragen voor opneming en doorhaling in deze bijlagen en dient via de Organisatie bij de Wetenschappelijke en Technische Raadgevende Commissie tot staving dienende stukken in, met inbegrip van met name de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09) genoemde gegevens. De voordracht geschiedt in overeenstemming met de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) door de Partijen aangenomen richtlijnen en criteria;
 
-- b. de Wetenschappelijke en Technische Raadgevende Commissie beziet en beoordeelt de voordrachten en tot staving dienende stukken en maakt haar standpunten bekend aan de vergaderingen van Partijen, gehouden overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=23&z=2000-06-17&g=2000-06-17);
+- b. de Wetenschappelijke en Technische Raadgevende Commissie beziet en beoordeelt de voordrachten en tot staving dienende stukken en maakt haar standpunten bekend aan de vergaderingen van Partijen, gehouden overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=23&z=2015-03-09&g=2015-03-09);
 
-- c. de Partijen bezien de voordrachten, tot staving dienende stukken en verslagen van de Wetenschappelijke en Technische Raadgevende Commissie. Een soort wordt, indien mogelijk, door middel van consensus in de lijsten in de bijlagen opgenomen, en anders bij een meerderheid van drie vierde van de aanwezige Partijen die hun stem uitbrengen, ten volle rekening houdend met het advies van de Wetenschappelijke en Technische Raadgevende Commissie dat de voordracht en de tot staving dienende stukken voldoen aan de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17) vastgestelde gemeenschappelijke richtlijnen en criteria;
+- c. de Partijen bezien de voordrachten, tot staving dienende stukken en verslagen van de Wetenschappelijke en Technische Raadgevende Commissie. Een soort wordt, indien mogelijk, door middel van consensus in de lijsten in de bijlagen opgenomen, en anders bij een meerderheid van drie vierde van de aanwezige Partijen die hun stem uitbrengen, ten volle rekening houdend met het advies van de Wetenschappelijke en Technische Raadgevende Commissie dat de voordracht en de tot staving dienende stukken voldoen aan de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) vastgestelde gemeenschappelijke richtlijnen en criteria;
 
 - d. een Partij kan in de uitoefening van haar soevereiniteit of soevereine rechten een voorbehoud maken ten aanzien van de opneming van een bepaalde soort in een lijst in een bijlage door middel van een schriftelijke kennisgeving aan de Depositaris binnen 90 dagen na de stemming van de Partijen. De Depositaris stelt alle Partijen onverwijld in kennis van elk uit hoofde van deze bepaling ontvangen voorbehoud;
 
@@ -383,7 +383,7 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - g. bedreigingen voor de beschermde soorten, hun leefmilieus en daarmee samenhangende ecosystemen, met name bedreigingen die hun oorsprong vinden buiten het rechtsgebied van de Partij.
 
-4. De door de Partijen aan de Organisatie verstrekte verslagen worden gebruikt voor de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2000-06-17&g=2000-06-17) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=22&z=2000-06-17&g=2000-06-17) genoemde doeleinden.
+4. De door de Partijen aan de Organisatie verstrekte verslagen worden gebruikt voor de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2015-03-09&g=2015-03-09) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=22&z=2015-03-09&g=2015-03-09) genoemde doeleinden.
 
 ##### Artikel 20. Wetenschappelijke en Technische Raadgevende Commissie
 
@@ -393,17 +393,17 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 3. De Commissie heeft tot taak de Partijen via de Organisatie te adviseren inzake de volgende wetenschappelijke en technische aangelegenheden die verband houden met het Protocol:
 
-- a. het opnemen van beschermde gebieden in lijsten op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2000-06-17&g=2000-06-17) bepaalde wijze;
+- a. het opnemen van beschermde gebieden in lijsten op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) bepaalde wijze;
 
-- b. het opnemen van beschermde soorten in lijsten op de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17) bepaalde wijze;
+- b. het opnemen van beschermde soorten in lijsten op de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) bepaalde wijze;
 
 - c. verslagen inzake het beheer en de bescherming van beschermde gebieden en soorten en hun leefmilieus;
 
 - d. voorstellen voor technische bijstand ten behoeve van opleiding, onderzoek, vorming en beheer (met inbegrip van plannen voor herstel voor soorten);
 
-- e. het evalueren van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2000-06-17&g=2000-06-17);
+- e. het evalueren van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09);
 
-- f. het opstellen van gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17); en
+- f. het opstellen van gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09); en
 
 - g. andere maatregelen met betrekking tot de toepassing van dit Protocol, met inbegrip van de aan haar door de vergaderingen van de Partijen opgedragen maatregelen.
 
@@ -431,29 +431,29 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - a. het beleggen en verzorgen van de vergaderingen van de Partijen;
 
-- b. het verlenen van bijstand bij het werven van fondsen als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2000-06-17&g=2000-06-17);
+- b. het verlenen van bijstand bij het werven van fondsen als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2015-03-09&g=2015-03-09);
 
 - c. het verlenen van bijstand aan de Partijen en de Wetenschappelijke en Technische Raadgevende Commissie in samenwerking met de bevoegde internationale, intergouvernementele en niet-gouvernementele organisaties bij:
 
-- -. het bevorderen van programma's voor technisch en wetenschappelijk onderzoek als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2000-06-17&g=2000-06-17);
+- -. het bevorderen van programma's voor technisch en wetenschappelijk onderzoek als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09);
 
-- -. het bevorderen van de uitwisseling van wetenschappelijke en technische informatie tussen de Partijen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=16&z=2000-06-17&g=2000-06-17);
+- -. het bevorderen van de uitwisseling van wetenschappelijke en technische informatie tussen de Partijen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=16&z=2015-03-09&g=2015-03-09);
 
-- -. het opstellen van aanbevelingen voor gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17);
+- -. het opstellen van aanbevelingen voor gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09);
 
-- -. het opstellen, indien gewenst, van beheersplannen voor beschermde gebieden en soorten overeenkomstig, onderscheidenlijk, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=6&z=2000-06-17&g=2000-06-17) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2000-06-17&g=2000-06-17);
+- -. het opstellen, indien gewenst, van beheersplannen voor beschermde gebieden en soorten overeenkomstig, onderscheidenlijk, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=6&z=2015-03-09&g=2015-03-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2015-03-09&g=2015-03-09);
 
-- -. het ontwikkelen van samenwerkingsprogramma's overeenkomstig de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2000-06-17&g=2000-06-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17);
+- -. het ontwikkelen van samenwerkingsprogramma's overeenkomstig de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09);
 
-- -. het opstellen, indien gewenst, van evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2000-06-17&g=2000-06-17);
+- -. het opstellen, indien gewenst, van evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09);
 
 - -. het samenstellen van vormingsmateriaal bestemd voor verschillende door de Partijen vastgestelde doelgroepen;
 
 - -. het repatriëren van illegaal uitgevoerde wilde dier- en plantesoorten en delen of produkten daarvan;
 
-- d. het opstellen van gemeenschappelijke modellen die voor Partijen als uitgangspunt dienen bij het doen toekomen van kennisgevingen en verslagen aan de Organisatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2000-06-17&g=2000-06-17);
+- d. het opstellen van gemeenschappelijke modellen die voor Partijen als uitgangspunt dienen bij het doen toekomen van kennisgevingen en verslagen aan de Organisatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09);
 
-- e. het bijhouden en bijwerken van gegevensbanken van beschermde gebieden en soorten die de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2000-06-17&g=2000-06-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17) bedoelde gegevens bevatten, alsmede het periodiek uitgeven van bijgewerkte gidsen van beschermde gebieden en soorten;
+- e. het bijhouden en bijwerken van gegevensbanken van beschermde gebieden en soorten die de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) bedoelde gegevens bevatten, alsmede het periodiek uitgeven van bijgewerkte gidsen van beschermde gebieden en soorten;
 
 - f. het samenstellen van gidsen, verslagen en technische studies die nodig kunnen zijn voor de toepassing van dit Protocol;
 
@@ -469,19 +469,19 @@ Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uit
 
 - a. het volgen van en richting geven aan de toepassing van dit Protocol;
 
-- b. het goedkeuren van de besteding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2000-06-17&g=2000-06-17) bedoelde fondsen;
+- b. het goedkeuren van de besteding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2015-03-09&g=2015-03-09) bedoelde fondsen;
 
 - c. het toezien op en het geven van richtsnoeren voor het beleid van de Organisatie;
 
 - d. het beoordelen van de doeltreffendheid van de aangenomen maatregelen tot beheer en bescherming van gebieden en soorten en het bestuderen van de noodzaak andere maatregelen te nemen, met name in de vorm van bijlagen bij en wijzigingen op dit Protocol of de bijlagen daarbij;
 
-- e. het begeleiden en bevorderen van de instelling en ontwikkeling van het netwerk van beschermde gebieden en van herstelplannen voor beschermde soorten bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2000-06-17&g=2000-06-17) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2000-06-17&g=2000-06-17).
+- e. het begeleiden en bevorderen van de instelling en ontwikkeling van het netwerk van beschermde gebieden en van herstelplannen voor beschermde soorten bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09).
 
-- f. het aannemen en herzien, indien nodig, van de richtlijnen en criteria bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2000-06-17&g=2000-06-17);
+- f. het aannemen en herzien, indien nodig, van de richtlijnen en criteria bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09);
 
-- g. het bestuderen van de adviezen en aanbevelingen van de Wetenschappelijke en Technische Raadgevende Commissie uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2000-06-17&g=2000-06-17);
+- g. het bestuderen van de adviezen en aanbevelingen van de Wetenschappelijke en Technische Raadgevende Commissie uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2015-03-09&g=2015-03-09);
 
-- h. het bestuderen van de krachtens [artikel 22 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=22) en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2000-06-17&g=2000-06-17) van dit Protocol door de Partijen aan de Organisatie toegezonden verslagen, alsmede andere informatie die de Partijen de Organisatie of de vergadering van de Partijen doen toekomen; en
+- h. het bestuderen van de krachtens [artikel 22 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=22) en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09) van dit Protocol door de Partijen aan de Organisatie toegezonden verslagen, alsmede andere informatie die de Partijen de Organisatie of de vergadering van de Partijen doen toekomen; en
 
 - i. in voorkomend geval, het verrichten van andere werkzaamheden.
 
@@ -501,7 +501,7 @@ De oorspronkelijke versie van de bijlagen, die een integrerend deel van dit Prot
 
 1. Dit Protocol en de daarbij behorende bijlagen, nadat zij door de Verdragsluitende Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) zijn aangenomen, zullen overeenkomstig de in [artikel 28, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=28) vastgestelde procedure in werking treden.
 
-2. Het Protocol treedt eerst in werking wanneer de oorspronkelijke bijlagen in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=26&z=2000-06-17&g=2000-06-17) zijn aangenomen.
+2. Het Protocol treedt eerst in werking wanneer de oorspronkelijke bijlagen in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=26&z=2015-03-09&g=2015-03-09) zijn aangenomen.
 
 ##### Artikel 28. Ondertekening
 
