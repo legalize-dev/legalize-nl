@@ -105,13 +105,3 @@ Ligt ter inzage bij het ministerie.
 Ligt ter inzage bij het ministerie.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2015-03-10&g=2015-03-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2015-03-10&g=2015-03-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2015-03-10&g=2015-03-10) bij dit besluit liggen bij het ministerie ter inzage.
-
-##### Artikel 4a
-
-De uit dit besluit voortvloeiende bevoegdheden gaan in geval van afwezigheid van de gemandateerde over op diens plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.
-
-## Bijlage 3
-
-Ligt ter inzage bij het ministerie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=1&z=2016-04-22&g=2016-02-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=2&z=2016-04-22&g=2016-02-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036388&bijlage=3&z=2016-04-22&g=2016-02-01) bij dit besluit liggen bij het ministerie ter inzage.
