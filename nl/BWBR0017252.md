@@ -4,7 +4,7 @@ identifier: "BWBR0017252"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-01"
-last_updated: "2014-07-01"
+last_updated: "2015-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017252"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 3. Betaling voorschot
 
-1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01), van:
+1. De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&artikel=5.16) een periodiek voorschot op het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=2&z=2015-03-11&g=2015-03-11), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -76,7 +76,7 @@ Voor 1 oktober van elk kalenderjaar verstrekt de Sociale verzekeringsbank aan de
 
 ##### Artikel 4. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2014-07-01&g=2014-07-01), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=2&artikel=3&z=2015-03-11&g=2015-03-11), met betrekking tot de kinderopvangtoeslag buitenland opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -176,7 +176,7 @@ Vervallen
 
 ##### Artikel 12. Verslag
 
-Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-07-01&g=2014-07-01) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
+Het college verstrekt aan de minister uiterlijk op 1 juli van elk kalenderjaar, overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2015-03-11&g=2015-03-11) bij deze regeling opgenomen model, gegevens over het voorafgaande kalenderjaar over de uitvoering van de aan het college bij of krachtens de wet opgedragen taken.
 
 #### Paragraaf 7. Kinderopvang buiten Nederland
 
@@ -216,7 +216,7 @@ Vervallen
 
 ##### Artikel 17. Overgangsbepaling met betrekking tot gemeentelijk verslag
 
-De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-07-01&g=2014-07-01) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
+De verplichting van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2015-03-11&g=2015-03-11) geldt voor het eerst over het kalenderjaar volgend op het kalenderjaar waarop dat artikel in werking is getreden.
 
 ##### Artikel 18. Tijdstip van inwerkingtreding
 
@@ -410,7 +410,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. Gespecialiseerd pedagogisch medewerker 4 kinderopvang; Onderwijsassistent; Onderwijsassistent PO/SO (primair onderwijs/speciaal onderwijs); Pedagogisch medewerker 3 kinderopvang; Pedagogisch Werker 3 Kinderopvang; Pedagogisch Werker 4 Kinderopvang; Pedagogisch Werker niveau 3; Pedagogisch Werker niveau 4; Sociaal-Cultureel Werker (SCW); Sociaal Pedagogisch Werker 3 (SPW-3); Sociaal Pedagogisch Werker 4 (SPW4); Sport en Bewegen (niveau 3 en 4); Sport- en bewegingscoördinator (niveau 4); Sport- en bewegingsleider (niveau 3); en en
 
-- b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); akte hoofdleidster kleuteronderwijs; akte Kleuterleidster A; akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; Cultureel werk (CW); Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociale Arbeid (SA, SA2 of SAII); Sociale Dienstverlening (SD, SA, SA1 of SAI); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.
+- b. A verpleegkundige; Activiteitenbegeleider (AB); Activiteitenbegeleiding (AB); Agogisch Werk (AW); Agogisch Werk/Residentieel Werk (AW/RW); Agogisch Werk/Cultureel Werk (AW/CW); Akte hoofdleidster kleuteronderwijs; Akte Kleuterleidster A; Akte Kleuterleidster B; Akte van bekwaamheid als hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als leidster aan kleuterscholen; Akte van bekwaamheid als leidster bij het kleuteronderwijs; Arbeidstherapie (AT); A-Verpleegkundige; A-verpleegster; A-verpleger; B Verpleegkundige; B-Verpleegkundige; B-verpleger; CIOS algemeen sportleider/ster; Cultureel werk (CW); Diploma A (ziekenverpleging); Diploma MHNO kinderverzorgster voor het jonge kind; Getuigschrift A (ziekenverpleging); Getuigschrift B (ziekenverpleging); Extramurale gezondheidszorg (EMGZ); Inrichtingswerk (IW); Kinderbescherming A; Kinderbescherming B; Kinderverzorging en Opvoeding; Kinderverzorging/Jeugdverzorging (KV/JV); Kinderverzorgster (KV); Kinderverzorging/Jeugdverzorging 2 (KV/JV 2); Kinderverzorging/Jeugdverzorging 3 (KV/JV 3); Kinderverzorgster van de centrale raad voor de kinderuitzending; Kultureel werk (KW); Leidster kindercentra (niet van OVDB); Leidster Kindercentra van de OVDB of onder de WEB; Leidster Kindercentra landelijke stg. OVDB; Maatschappelijke zorg (medewerker gehandicaptenzorg); Medewerker Gehandicaptenzorg niveau 3; Medewerker gehandicaptenzorg niveau 4; Medewerker maatschappelijke zorg; Pedagogisch medewerker 4 jeugdzorg; Pedagogisch werker; Pedagogisch werker 3; Pedagogisch Werker kinderopvang; Pedagogisch Werker 4 Jeugdzorg; Pedagogisch Werker Jeugdzorg – niveau 4; Pedagogisch werker niveau 4 Jeugdzorg; Persoonlijk begeleider gehandicaptenzorg niveau 4; Residentieel Werk (RW); Sociaal Agogisch 2; Sociaal Agogisch II; Sociaal-agogisch II richting (MBO SA II) (semi) residentiële hulpverlening; Sociaal Agogisch II (MBO-SA II) afstudeerrichting Kultureelwerk; Sociaal Cultureel Werk; Sociaal Dienstverlener (SD); Sociaal Pedagogisch Werker; Sociaal Pedagogisch Werk Kinderopvang MBO niveau 3; Sociale Arbeid (SA, SA2 of SAII); Sociale Arbeid/Sociaal Dienstverlener (SA/SD); Sociale Dienstverlening (SD, SA, SA1 of SAI); Sociaal Pedagogisch Werker (SPW; lang of onder WEB); SPW lang; Vakopleiding Leidster kindercentra (conform de WEB); Verdere Scholing in Dienstverband (VSID) richting kinderdagverblijven; Verpleegkunde; Verpleegkunde A; Verpleegkunde B; Verpleegkunde Z; Verpleegkundige; Verpleegkundige Z; Verplegende (VP); Verpleging (VP); Verpleging A; Verpleging B; Verzorgende (VZ niveau 3 of VZ lang); Verzorgende beroepen (VZ); Verzorgende Individuele Gezondheidszorg (VIG); Verzorging (VZ); Z Verpleegkundige; Z-Verpleegkundige; Zwakzinnigenzorg.
 
 2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een beroepsopleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de beroepsopleidingen genoemd in het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de beroepsopleidingen, genoemd in het eerste lid, aan te wijzen als een beroepsopleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze beroepsopleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
@@ -422,7 +422,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - a. Culturele en Maatschappelijke vorming (CMV); Kunstzinnig vormende opleiding op HBO-niveau (docentenrichting binnenkunstonderwijs of kunstzinnige richting binnen lerarenopleiding); Leraar basisonderwijs (aan Hogeschool, PABO of IPABO); Leraar lichamelijke oefening (ALO); Pedagogiek (HBO-bachelor); Sociaal Pedagogische Hulpverlening (SPH); Sport en Bewegen; en
 
-- b. Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Bachelor of Nursing; Creatieve therapie (waaronder Mikojel); Cultureel Werk (CW); Docent Dans; Docent Drama; Docerend musicus; Educatieve therapie (Mikojel); Extramurale gezondheidszorg (EMGZ); Hogere sociaal-pedagogische opleiding van leiders op het terrein van jeugdvorming en volksontwikkeling; Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar voortgezet onderwijs van eerste graad in tekenen; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); NXX (volgens de Wet op het voortgezet onderwijs); Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Verpleegkunde.
+- b. Akte Muziekonderwijs A Algemene Muzikale Vorming; Akte Lager onderwijs zonder hoofdakte (oude kweekschoolopleiding); Akte van bekwaamheid als hoofdonderwijzer(es); Akte van bekwaamheid als leidster of hoofdleidster bij het kleuteronderwijs; Akte van bekwaamheid als onderwijzer(es); Akte van bekwaamheid als volledig bevoegd onderwijzer(es); Akte van bekwaamheid NXX (volgens de Wet op het voortgezet onderwijs); Aktiviteitenleidersopleiding (van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Akte van bekwaamheid N XI; Akte van bekwaamheid tot het geven van middelbaar onderwijs in de lichamelijke oefening; Akte van Bekwaamheid van de tweede graad tot het geven van voortgezet onderwijs in Textiele Werkvormen alsmede in (een ander vak); Akte van Bekwaamheid voor het geven van Lager Onderwijs in het vak Lichamelijke Oefening; Akte van Bekwaamheid voor het geven van Lager Onderwijs in het vak Nuttige Handwerken voor Meisjes; Applicatiecursus leraar basisonderwijs (als vervolg op en in combinatie met kleuterakte A/B); Applicatiecursus volledig bevoegd onderwijzer(es); Pedagogisch management Kinderopvang; Associate Degree Pedagogisch Educatief Medewerker; Associate Degree Kinderopvang; Associate Degree Onderwijsondersteuner Omgangskunde; Bachelor of Nursing; Creatieve therapie (waaronder van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Cultureel Werk (CW); Docent Beeldende Kunst en Vormgeving; Docent Dans; Docent Drama; Docent Mime; Docerend musicus; Educatieve therapie (van Mikojel: Middeloo, Kopse Hof, Jelburg of Sittard); Extramurale gezondheidszorg (EMGZ); HBO-bachelor-SPH, CMV, WMD; Hogere Beroepsopleiding voor Verpleegkundigen; Hogere sociaal-pedagogische opleiding van leider(st)s op het terrein van jeugdvorming en volksontwikkeling (van Middeloo, Kopse Hof, Jelburg of Sittard); Hoofdonderwijzer; Inrichtingswerk (IW); Jeugdwelzijnswerk; Kinderverzorging en kinderopvoeding; Kinderverzorging en opvoeding; Kreatief Educatief Werk; Kunstzinnige therapie; Leraar speciaal onderwijs; Leraar voortgezet onderwijs van eerste graad in tekenen; Leraar voortgezet Onderwijs van eerste graad in handvaardigheid; Leraar voortgezet onderwijs van de eerste graad in lichamelijke oefening; Lerarenopleiding Omgangskunde; Lerarenopleiding Verzorging/Gezondheidskunde; Lerarenopleiding Verzorging/Huishoudkunde; Maatschappelijk Werk (MW); Maatschappelijk Werk en Dienstverlening (MWD); Overgangsbewijs naar laatste jaar pedagogische academie; Pedagogiek MO-A of kandidaatsexamen Pedagogiek; Pedagogische Academie; Sociaal kunstzinnige therapie; Verpleegkunde; 3e jaar deeltijd volgend Sociaal Pedagogisch Hulpverlener (SPH); 3e jaar deeltijd volgend Cultureel Maatschappelijke vorming (CMV); 3e jaar deeltijd volgend Maatschappelijk Werk en Dienstverlening (MWD).
 
 2. In aanvulling op het eerste lid kan de minister op aanvraag besluiten een opleiding, waarvan het curriculum voor ten minste 90% vergelijkbaar is met het curriculum van een van de opleidingen uit het eerste lid, onder a, of waarvan het curriculum identiek is aan het curriculum van een van de opleidingen, genoemd in het eerste lid, aan te wijzen als een opleiding waarmee de aanvrager, indien hij in het bezit is van een getuigschrift van deze opleiding, eveneens voldoet aan de in [artikel 13, eerste lid, onderdeel a, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) opgenomen eis.
 
@@ -430,45 +430,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10c
 
-Als opleiding, bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op tenminste het niveau, bedoeld in[artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
+Als opleidingen als bedoeld in [artikel 4, eerste lid, onderdeel a, van het Besluit basisvoorwaarden kwaliteit voorschoolse educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0027961&artikel=4), op ten minste het niveau, bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2), worden aangewezen:
 
-- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de beroepsopleidingen, genoemd in de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01) en [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01);
+- a. voor de beroepskracht voorschoolse educatie in een kindercentrum: de betreffende beroepsopleidingen, genoemd in de collectieve arbeidsovereenkomst kinderopvang 2012–2014 voor kindercentra en gastouders, aangemeld op 12 november 2014;
 
-- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de beroepsopleidingen, genoemd in [artikel 10a, onderdeel a, b, d, f, g, n, o, p, s, t, v, x, hh, ii, kk, mm, nn, pp of ss](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01), en de beroepsopleidingen, genoemd in [artikel 10b, onderdelen a, i, k, l, y, g of h](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01), alsmede:
-
-- a. Branche Ervaren Peuterspeelzaalleidster (BEP),
-
-- b. Agogisch Werk/Residentieel Werk (AW/RW),
-
-- c. Agogisch Werk/Cultureel Werk (AW/CW),
-
-- d. Sociale Arbeid/Sociaal Dienstverlener (SA/SD),
-
-- e. Sociaal Pedagogisch Werker (SPW),
-
-- f. Kinderverzorging/Jeugdverzorging 2 (KV/JV 2),
-
-- g. Kinderverzorging/Jeugdverzorging 3 (KV/JV 3),
-
-- h. Leidster Kindercentra landelijke stg. OVDB;
-
-- i. Overgangsbewijs naar laatste jaar pedagogische academie,
-
-- j. Lerarenopleiding Omgangskunde,
-
-- k. Verpleegkundige A,
-
-- l. Verpleegkundige B,
-
-- m. Verpleegkundige Z,
-
-- n. HBO-bachelor-SPH, CMV, MWD,
-
-- o. 3e jaar deeltijd volgend Sociaal Pedagogisch Hulpverlener (SPH),
-
-- p. 3e jaar deeltijd volgend Cultureel Maatschappelijke vorming (CMV), en
-
-- q. 3e jaar deeltijd volgend Maatschappelijk Werk en Dienstverlening (MWD).
+- b. voor de beroepskracht voorschoolse educatie in een peuterspeelzaal: de betreffende beroepsopleidingen, genoemd in de collectieve arbeidsovereenkomst Welzijn & Maatschappelijke Dienstverlening, 2014–2016, aangemeld op 30 december 2014.
 
 #### Paragraaf 5. Administratie van gegevens bij kindercentra en gastouderbureaus
 
@@ -514,7 +480,7 @@ Vervallen
 
 ##### Artikel 9b. Systeembeschrijving
 
-De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2014-07-01&g=2014-07-01).
+De systeembeschrijving, bedoeld in [artikel 4, vijfde lid, van het Besluit registers](https://wetten.overheid.nl/jci1.3:c:BWBR0030892&artikel=4), wordt vastgesteld overeenkomstig de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&bijlage=2&z=2015-03-11&g=2015-03-11).
 
 ##### Artikel 9c. Taak Dienst Uitvoering Onderwijs
 
@@ -3024,29 +2990,9 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10d. Bewijsstukken van met goed gevolg afgesloten onderricht dat in elk geval omvat eerste hulp aan kinderen bij ongevallen
 
-1. Voor de toepassing van [artikel 13, derde lid, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden de volgende bewijsstukken aangewezen:
+1. Voor de toepassing van [artikel 13, derde lid, van het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621&artikel=13) worden door de minister bewijsstukken aangewezen in de vorm van geregistreerde certificaten inzake het met goed gevolg afgesloten onderricht dat in elk geval eerste hulp aan kinderen bij ongevallen omvat.
 
-- a. geregistreerd certificaat Eerste Hulp aan kinderen van het Oranje Kruis,
-
-- b. geregistreerd certificaat Spoedeisende Hulpverlening bij Slachtoffers (SEHSO) van NedCert,
-
-- c. geregistreerd certificaat Acute Zorg bij kinderen van NIKTA,
-
-- d. geregistreerd certificaat Acute Zorgverlener Module Kind en Omgeving van NIKTA,
-
-- e. geregistreerd certificaat Eerstehulpverlener van NIKTA,
-
-- f. geregistreerd certificaat Spoedeisende Hulpverlening bij Kinderen (SEHBK) van NedCert,
-
-- g. geregistreerd certificaat Basis Eerstehulpverlener-LPEV met de aantekening Eerste hulp aan Kinderen van Stichting LPEV,
-
-- h. geregistreerd certificaat Eerste Hulp aan Baby’s en Kinderen van het Nederlandse Rode Kruis, of
-
-- i. geregistreerd certificaat 'Eerste Hulp bij werken met kinderen' van het Nederlands Instituut voor Bedrijfshulpverlening.
-
-2. In aanvulling op het eerste lid kan de minister een certificaat aanwijzen waarmee eveneens wordt voldaan aan de in [artikel 13, eerste lid, onderdeel b, het Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0026824&artikel=2) opgenomen eis.
-
-3. Een aanwijzing, bedoeld in het tweede lid, kan alleen plaatsvinden indien het certificaat slechts wordt afgegeven indien ten minste de volgende inhoudelijke criteria zijn getoetst:
+2. Een aanwijzing, bedoeld in het eerste lid, vindt alleen plaats indien het certificaat slechts wordt afgegeven wanneer ten minste aan de volgende inhoudelijke criteria wordt voldaan:
 
 - a. aantoonbare kennis van en inzicht in de voor eerstehulpverlening relevante fysieke verschillen tussen zuigelingen, kinderen en volwassenen;
 
@@ -3058,21 +3004,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - e. aantoonbare kennis van en inzicht in de wijze waarop ongevallen bij zuigelingen en kinderen kunnen worden voorkomen.
 
-4. Een aanwijzing, bedoeld in het tweede lid, kan alleen plaatsvinden indien naast de criteria, genoemd het derde lid, tevens ten minste aan de volgende processuele criteria is voldaan:
+3. Een aanwijzing, bedoeld in het eerste lid, kan alleen plaatsvinden indien naast de criteria met betrekking tot het certificaat, genoemd het tweede lid, tevens door de certificerende instantie ten minste aan de volgende processuele criteria is voldaan:
 
-- a. de certificerende instantie is onafhankelijk;
+- a. zij is onafhankelijk;
 
-- b. de certificerende instantie verzorgt zelf geen onderwijs met betrekking tot het te verlenen certificaat;
+- b. zij verzorgt zelf geen onderwijs met betrekking tot het te verlenen certificaat;
 
-- c. de certificerende instantie biedt zelf geen onderwijs aan met betrekking tot het te verlenen certificaat;
+- c. zij biedt zelf geen onderwijs aan met betrekking tot het te verlenen certificaat;
 
-- d. de certificerende instantie schrijft geen onderwijsmethode en onderwijsmateriaal voor met betrekking tot het te verlenen certificaat;
+- d. zij schrijft geen onderwijsmethode en onderwijsmateriaal voor met betrekking tot het te verlenen certificaat;
 
-- e. de certificerende instantie geeft zelf het certificaat af voor maximaal twee jaar;
+- e. zij geeft zelf het certificaat af voor maximaal twee jaar;
 
-- f. de certificerende instantie ziet zelf toe op de kwaliteit van het voor het verkrijgen van het certificaat af te leggen examen; en
+- f. zij ziet zelf toe op de kwaliteit van het voor het verkrijgen van het certificaat af te leggen examen; en
 
-- g. de certificerende instantie registreert zelf de behaalde certificaten en de geldigheidsduur in een register.
+- g. zij registreert zelf de behaalde certificaten en de geldigheidsduur in een register.
 
 #### Paragraaf 5. Administratie van gegevens bij kindercentra en gastouderbureaus
 
@@ -3088,7 +3034,7 @@ Deze regeling berust mede op [artikel 4, eerste lid, van het Besluit basisvoorwa
 
 ## Bijlage 1e
 
-## Bijlage 1. , behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2014-07-01&g=2014-07-01)
+## Bijlage 1. , behorende bij [artikel 9b](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=3&artikel=9b&z=2015-03-11&g=2015-03-11)
 
 ### Projectstartarchitectuur Landelijk Register Kinderopvang
 
@@ -3654,7 +3600,7 @@ Vervallen
 
 ##### Artikel 10e
 
-1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2014-07-01&g=2014-07-01), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2014-07-01&g=2014-07-01) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2014-07-01&g=2014-07-01).
+1. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van alle benodigde werkzaamheden, waaronder het vaststellen en ondertekenen van stukken, ter uitvoering van de bevoegdheid van de minister, genoemd in de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10&z=2015-03-11&g=2015-03-11), [10a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10a&z=2015-03-11&g=2015-03-11) en [10b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=4&artikel=10b&z=2015-03-11&g=2015-03-11).
 
 2. Aan de Directeur-generaal van de Dienst Uitvoering Onderwijs wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in het eerste lid en met dien verstande dat de Directeur-generaal geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat de Directeur-generaal in mandaat heeft genomen.
 
@@ -3854,7 +3800,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17c
 
-Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2014-07-01&g=2014-07-01), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
+Indien een ouder op 31 december 2013 gebruik maakte van een buiten Nederland gevestigd kindercentrum of gevestigde gastouder als bedoeld in de [artikelen 16a tot en met 16d](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=7a&artikel=16a&z=2015-03-11&g=2015-03-11), zoals deze luidden op 31 december 2013, wordt dit kindercentrum of deze gastouder voor het gebruik door deze ouder tot 1 januari 2015 aangemerkt als een in het register buitenlandse kinderopvang ingeschreven voorziening als bedoeld in [artikel 1.48, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.48).
 
 ## Bijlage 1a
 
@@ -3884,6 +3830,6 @@ Vervallen
 
 Vervallen
 
-## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2014-07-01&g=2014-07-01)
+## Bijlage 2. , behorende bij [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017252&paragraaf=6&artikel=12&z=2015-03-11&g=2015-03-11)
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
