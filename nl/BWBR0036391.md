@@ -4,7 +4,7 @@ identifier: "BWBR0036391"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-11"
-last_updated: "2015-02-01"
+last_updated: "2015-03-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036391"
 soort: "ministeriele-regeling"
@@ -78,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036391&artikel=2&z=2015-03-11&g=2015-02-01), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
+De subsidie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036391&artikel=2&z=2015-03-11&g=2015-03-11), bedraagt ten hoogste het bedrag dat uit de begroting van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties blijkt.
 
 ##### Artikel 4
 
@@ -102,7 +102,7 @@ De stichting dient de aanvraag tot subsidievaststelling in voor 1 april van het 
 
 3. De hoogte van de egalisatiereserve is ten hoogste 10% van het subsidiebedrag voor het betreffende boekjaar. Indien op 31 december van een boekjaar de egalisatiereserve meer dan 10% van het over dat jaar verstrekte subsidiebedrag bedraagt, dient het meerdere teruggestort te worden op de bankrekening van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-4. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de uitvoering van het activiteitenprogramma, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036391&artikel=2&z=2015-03-11&g=2015-02-01).
+4. De egalisatiereserve wordt uitsluitend aangewend voor kosten die direct samenhangen met de uitvoering van het activiteitenprogramma, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036391&artikel=2&z=2015-03-11&g=2015-03-11).
 
 ##### Artikel 8
 
