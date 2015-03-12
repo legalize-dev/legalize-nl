@@ -4,7 +4,7 @@ identifier: "BWBR0028908"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-07-26"
-last_updated: "2015-01-01"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028908"
 soort: "ministeriele-regeling"
@@ -66,7 +66,9 @@ Besluit:
 
 - k. de indiening van verzoeken strekkende tot het verkrijgen van een machtiging van de kantonrechter onderscheidenlijk het doen van mededelingen of afleggen van verklaringen aan de kantonrechter ingevolge de [artikelen 17 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=17), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=26) en [193 lid 1 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=193);
 
-- l. de indiening van verzoekschriften als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=28) en [30 van de Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=30).
+- l. de indiening van verzoekschriften als bedoeld in de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=28) en [30 van de Maatregel teboekgestelde schepen 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005260&artikel=30);
+
+- m. de indiening van een verzoek tot wijziging van een in een andere lidstaat gelaste beschermingsmaatregel, zoals bedoeld in [artikel 5 van de Uitvoeringswet verordening wederzijdse erkenning van beschermingsmaatregelen in burgerlijke zaken](522379).
 
 2. Eveneens wordt geen griffierecht geheven:
 
