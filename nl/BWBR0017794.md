@@ -4,7 +4,7 @@ identifier: "BWBR0017794"
 country: "nl"
 rank: "kb"
 publication_date: "2020-10-15"
-last_updated: "2012-12-01"
+last_updated: "2015-03-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017794"
 soort: "KB"
@@ -43,9 +43,9 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2012-12-01&g=2012-12-01).
+1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=1&z=2015-03-12&g=2015-03-12).
 
-2. Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2012-12-01&g=2012-12-01) bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2012-12-01&g=2012-12-01) genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=20).
+2. Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2015-03-12&g=2015-03-12) bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&bijlage=2&z=2015-03-12&g=2015-03-12) genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=20).
 
 ##### Artikel 2
 
@@ -65,13 +65,13 @@ De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wo
 
 ##### Artikel 4
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2012-12-01&g=2012-12-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2012-12-01&g=2012-12-01), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=2&z=2015-03-12&g=2015-03-12) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=3&z=2015-03-12&g=2015-03-12), die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=16) in werking treden.
 
 ##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2012-12-01&g=2012-12-01), van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 1. behorend bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2015-03-12&g=2015-03-12), van het Besluit aanwijzing hoofdspoorwegen
 
 In deze bijlage wordt verstaan onder:
 
@@ -191,7 +191,7 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 18. Hoofddorp–Rotterdam West, inclusief de daarbij horende aansluitingen.
 
-## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2012-12-01&g=2012-12-01) van het Besluit aanwijzing hoofdspoorwegen
+## Bijlage 2. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017794&artikel=1&z=2015-03-12&g=2015-03-12) van het Besluit aanwijzing hoofdspoorwegen
 
 - a. De volgende spoorwegen zijn hoofdspoorwegen:
 
@@ -245,26 +245,24 @@ De volgende spoorwegen, daarbij inbegrepen de niet genoemde verbindingsbogen die
 
 - 20. Roosendaal Industrieterrein;
 
-- 21. Roosendaal Borchwerf;
+- 21. Alphen aan de Rijn, Industrieterrein Rijnhaven;
 
-- 22. Alphen aan de Rijn, Industrieterrein Rijnhaven;
+- 22. Tilburg, De Loven;
 
-- 23. Tilburg, De Loven;
+- 23. Hengelo Zuid;
 
-- 24. Hengelo Zuid;
+- 24. Born, Franciscushaven;
 
-- 25. Born, Franciscushaven;
+- 25. Axel, Axelse Vlakte;
 
-- 26. Axel, Axelse Vlakte;
+- 26. Venlo Tradeport;
 
-- 27. Venlo Tradeport;
+- 27. Almelo Dollegoor;
 
-- 28. Almelo Dollegoor;
+- 28. Almelo Bedrijvenpark Twente;
 
-- 29. Almelo Bedrijvenpark Twente;
+- 29. Arnhem, gemeentelijke stamlijn;
 
-- 30. Arnhem, gemeentelijke stamlijn;
-
-- 31. Oss-Elzenburg.
+- 30. Oss-Elzenburg.
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
