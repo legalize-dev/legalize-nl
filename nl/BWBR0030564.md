@@ -4,7 +4,7 @@ identifier: "BWBR0030564"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030564"
 soort: "ministeriele-regeling"
@@ -50,11 +50,11 @@ In deze regeling wordt verstaan onder:
 
 - **controle-instelling:** bedrijf dat de controle, bedoeld in [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=42), uitvoert;
 
-- **controleprotocol:** inspectieprotocol voor uitvoering inspectie Wet basisregistraties adressen en gebouwen, zoals gepubliceerd op www.bag.vrom.nl;
+- **controleprotocol:** inspectieprotocol voor uitvoering inspectie Wet basisregistraties adressen en gebouwen, zoals gepubliceerd op www.basisregistratiesienm.nl;
 
 - **minister:** Minister van Infrastructuur en Milieu;
 
-- **Raad voor Accreditatie:** Stichting Raad voor Accreditatie te Utrecht;
+- **NEN:** stichting NEN te Delft;
 
 - **wet:** [Wet basisregistraties adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466).
 
@@ -62,9 +62,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De controle-instelling beschikt over een accreditatie voor de uitvoering van de controle, bedoeld in [artikel 42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=42), die is afgegeven op basis van NEN-EN-ISO/IEC 17020:2004 door de Raad voor Accreditatie of een andere accreditatie-instelling die erkend is in een lidstaat van de Europese Unie.
+1. Aan de eisen, bedoeld in [artikel 42, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=42) wordt voldaan door bedrijven waaraan sinds 1 januari 2012 op basis van NEN-EN-ISO/IEC 17020:2004 een accreditatie is afgegeven voor de uitvoering van de controle.
 
-2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in het eerste lid.
+2. Aan de eisen wordt voorts voldaan door bedrijven die blijkens een verklaring van het NEN of een vergelijkbare instelling in een lidstaat van de Europese Unie in staat zijn om de controle uit te voeren overeenkomstig het controleprotocol.
+
+3. Controle-instellingen als bedoeld in het eerste en tweede lid worden opgenomen op een lijst, gepubliceerd op www.basisregistratiesienm.nl.
 
 ##### Artikel 3
 
@@ -108,9 +110,9 @@ De controle-instelling voert zelf de controle feitelijk uit.
 
 ##### Artikel 8
 
-1. De termijn voor uitvoering van de hernieuwde controle, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=43), vangt aan op het moment dat het controlerapport door de controle-instelling is vastgesteld dan wel op het tijdstip dat deze op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2015-01-01), uiterlijk had moeten zijn vastgesteld.
+1. De termijn voor uitvoering van de hernieuwde controle, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023466&artikel=43), vangt aan op het moment dat het controlerapport door de controle-instelling is vastgesteld dan wel op het tijdstip dat deze op grond van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2015-03-13&g=2015-03-13), uiterlijk had moeten zijn vastgesteld.
 
-2. Op de hernieuwde controle zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=3&z=2012-01-01&g=2015-01-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=5&z=2012-01-01&g=2015-01-01), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2012-01-01&g=2015-01-01) van overeenkomstige toepassing, met dien verstande dat de hernieuwde controle respectievelijk het daarover vast te stellen controlerapport alleen betrekking heeft op de onderdelen, bedoeld in artikel 5, tweede lid, die bij de controle niet voldeden aan de eisen.
+2. Op de hernieuwde controle zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=3&z=2015-03-13&g=2015-03-13), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=5&z=2015-03-13&g=2015-03-13), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030564&hoofdstuk=2&artikel=6&z=2015-03-13&g=2015-03-13) van overeenkomstige toepassing, met dien verstande dat de hernieuwde controle respectievelijk het daarover vast te stellen controlerapport alleen betrekking heeft op de onderdelen, bedoeld in artikel 5, tweede lid, die bij de controle niet voldeden aan de eisen.
 
 ### Hoofdstuk 4. Slotbepalingen
 
