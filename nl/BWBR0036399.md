@@ -4,7 +4,7 @@ identifier: "BWBR0036399"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-14"
-last_updated: "2014-04-01"
+last_updated: "2015-03-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036399"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Wijzigt de Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VW
 
 ##### Artikel II
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030162&artikel=2) zoals dat luidde onmiddellijk voor het tijdstip van inwerkingtreding, blijft van toepassing ten aanzien van bestuursleden waarvan de benoeming voor dat tijdstip plaatsvond.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt voor wat betreft [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036399&artikel=I&z=2015-03-14&g=2015-03-14), voor de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a) terug tot en met 1 januari 2015 en voor de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b) tot en met 1 april 2014.
 
 Gelet op de [artikelen 59a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), en [59b, vijfde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b) en [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
