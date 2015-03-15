@@ -4,7 +4,7 @@ identifier: "BWBR0029695"
 country: "nl"
 rank: "wet"
 publication_date: "2015-03-15"
-last_updated: "2014-04-01"
+last_updated: "2015-03-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029695"
 soort: "wet"
@@ -87,17 +87,15 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 1. Beschikkingen tot oplegging van een boete als bedoeld in [artikel 96 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=96), zoals dat artikel luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel, worden ingetrokken indien op eerstbedoelde dag tegen deze beschikkingen nog bezwaar of beroep kon worden ingesteld dan wel indien op die dag bezwaar of beroep was ingesteld en nog niet op dat bezwaar of beroep was beslist.
 
-2. Beschikkingen tot oplegging van een boete als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), zoals dat artikel luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel, worden herzien indien op eerstbedoelde dag tegen deze beschikkingen nog bezwaar of beroep kon worden ingesteld dan wel indien op die dag bezwaar of beroep was ingesteld en nog niet op dat bezwaar of beroep was beslist, en een boete op grond van dat artikel zoals dat na inwerkingtreding van [artikel II, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2014-04-01&g=2014-04-01) luidt voor de overtreder tot een lager boetebedrag leidt dan de opgelegde boete.
+2. Beschikkingen tot oplegging van een boete als bedoeld in [artikel 69 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69), zoals dat artikel luidde op de dag voorafgaande aan de datum van inwerkingtreding van dit artikel, worden herzien indien op eerstbedoelde dag tegen deze beschikkingen nog bezwaar of beroep kon worden ingesteld dan wel indien op die dag bezwaar of beroep was ingesteld en nog niet op dat bezwaar of beroep was beslist, en een boete op grond van dat artikel zoals dat na inwerkingtreding van [artikel II, onderdeel P](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2015-03-15&g=2015-03-15) luidt voor de overtreder tot een lager boetebedrag leidt dan de opgelegde boete.
 
 ##### Artikel XI
 
-1. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) en van [artikel X van de wet van 18 juli 2009 tot Wijziging van de Zorgverzekeringswet, de Wet op de zorgtoeslag en enige ander wetten, houdende maatregelen om ook wanbetalers voor hun zorgverzekering te laten betalen (structurele maatregelen wanbetalers zorgverzekering)](https://wetten.overheid.nl/jci1.3:c:BWBR0026276&artikel=X), Stb. 2009, 356, beslist het Zorginstituut op bezwaren tegen ter uitvoering van [artikel 18e van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18e) genomen beschikkingen als bedoeld in de [artikelen 18f](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18f) of [18g van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=18g), binnen twaalf weken, indien het bezwaarschrift is ontvangen binnen drie jaar na de datum van inwerkingtreding van [artikel II, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2014-04-01&g=2014-04-01), van deze wet.
-
-2. Dit artikel vervalt met ingang van het vierde jaar na de datum van inwerkingtreding van [artikel II, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2014-04-01&g=2014-04-01), van deze wet, met dien verstande dat het van toepassing blijft ten aanzien van op dat tijdstip aanhangige bezwaren.
+Vervallen
 
 ##### Artikel XIA
 
-Op beroepen inzake een beschikking als bedoeld in [artikel 5, vierde lid, tweede volzin, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), zoals die volzin luidde onmiddellijk voorafgaande aan de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=I&z=2014-04-01&g=2014-04-01), beslist de Afdeling bestuursrechtspraak van de Raad van State.
+Op beroepen inzake een beschikking als bedoeld in [artikel 5, vierde lid, tweede volzin, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), zoals die volzin luidde onmiddellijk voorafgaande aan de inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=I&z=2015-03-15&g=2015-03-15), beslist de Afdeling bestuursrechtspraak van de Raad van State.
 
 ##### Artikel XII
 
@@ -107,8 +105,8 @@ Onze Minister van Volksgezondheid, Welzijn en Sport zendt binnen drie jaar na de
 
 1. De artikelen van deze wet treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=VI&z=2014-04-01&g=2014-04-01), werkt terug tot en met 1 september 2009.
+2. [Artikel VI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=VI&z=2015-03-15&g=2015-03-15), werkt terug tot en met 1 september 2009.
 
-3. In het koninklijk besluit, bedoeld in het eerste lid, kan worden bepaald dat [artikel II, onderdelen P en S, en artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2014-04-01&g=2014-04-01), terugwerken tot en met een in dat besluit te bepalen tijdstip.
+3. In het koninklijk besluit, bedoeld in het eerste lid, kan worden bepaald dat [artikel II, onderdelen P en S, en artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0029695&artikel=II&z=2015-03-15&g=2015-03-15), terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
