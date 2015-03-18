@@ -4,7 +4,7 @@ identifier: "BWBR0036411"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2017-12-09"
-last_updated: "2014-01-01"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036411"
 soort: "AMvB-BES"
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **bijzondere uitkering:** een uitkering voor het realiseren van integrale projecten;
 
-- –. **integrale projecten:** projecten die ten minste twee van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2014-01-01) genoemde beleidsterreinen omvatten;
+- –. **integrale projecten:** projecten die ten minste twee van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2015-03-18) genoemde beleidsterreinen omvatten;
 
 - –. **wet:** [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151).
 
@@ -64,9 +64,9 @@ Onze Minister kan over de kalenderjaren 2014, 2015 en 2016 bijzondere uitkeringe
 
 1. De aanvraag voor één of meerdere bijzondere uitkeringen wordt door een bestuurscollege van een openbaar lichaam gedaan aan Onze Minister van Sociale Zaken en Werkgelegenheid, middels een door die Minister te verstrekken formulier.
 
-2. De aanvraag vermeldt tenminste de integrale projecten en de wijze waarop deze bijdragen aan de te realiseren doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2014-01-01).
+2. De aanvraag vermeldt tenminste de integrale projecten en de wijze waarop deze bijdragen aan de te realiseren doelen, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2015-03-18).
 
-3. Een aanvraag wordt uiterlijk op 15 november van een kalenderjaar, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2014-01-01), ingediend.
+3. Een aanvraag wordt uiterlijk op 15 november van een kalenderjaar, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=2&z=2015-03-18&g=2015-03-18), ingediend.
 
 4. Onze Minister van Sociale Zaken en Werkgelegenheid beslist, in overeenstemming met Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister voor Wonen en Rijksdienst, op de aanvraag.
 
@@ -76,7 +76,7 @@ Het jaarlijkse totale bedrag voor bijzondere uitkeringen wordt per kalenderjaar 
 
 ##### Artikel 5. Verstrekking en vaststelling
 
-1. Onze Minister verstrekt de bijzondere uitkering aan een openbaar lichaam zo spoedig mogelijk na de beslissing, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=3&z=2015-03-18&g=2014-01-01).
+1. Onze Minister verstrekt de bijzondere uitkering aan een openbaar lichaam zo spoedig mogelijk na de beslissing, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=3&z=2015-03-18&g=2015-03-18).
 
 2. Onze Minister stelt de bijzondere uitkering uiterlijk vast in het derde jaar dat volgt op het jaar waarin de bijzondere uitkering is aangevraagd.
 
