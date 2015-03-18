@@ -4,7 +4,7 @@ identifier: "BWBR0036412"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-03-18"
-last_updated: "2015-01-01"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036412"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - **gerechtigde:** gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57);
 
-- **hogesnelheidsnet:** hoofdspoorweginfrastructuur als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=2&z=2015-03-18&g=2015-01-01);
+- **hogesnelheidsnet:** hoofdspoorweginfrastructuur als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=2&z=2015-03-18&g=2015-03-18);
 
 - **HSL-kilometer:** door een trein af te leggen kilometer op het hogesnelheidsnet waarvoor met een toegangsovereenkomst aan een gerechtigde capaciteit is toegedeeld, overeenkomstig het daarvoor door de beheerder gebruikte registratiesysteem;
 
@@ -70,7 +70,7 @@ Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Sp
 
 ##### Artikel 3
 
-1. De gerechtigde en de beheerder komen een HSL-heffing overeen gelijk aan het tarief per HSL-kilometer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=4&z=2015-03-18&g=2015-01-01), vermenigvuldigd met het aantal HSL-kilometers van de gerechtigde. Daarvan blijven buiten beschouwing de HSL-kilometers die zijn toe te rekenen aan:
+1. De gerechtigde en de beheerder komen een HSL-heffing overeen gelijk aan het tarief per HSL-kilometer, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=4&z=2015-03-18&g=2015-03-18), vermenigvuldigd met het aantal HSL-kilometers van de gerechtigde. Daarvan blijven buiten beschouwing de HSL-kilometers die zijn toe te rekenen aan:
 
 - a. paden die de gerechtigde geheel of gedeeltelijk niet heeft kunnen gebruiken ten gevolge van het buiten gebruik zijn van enig deel van de spoorweginfrastructuur, bedoeld in het tweede lid, onder a;
 
@@ -128,11 +128,11 @@ Als hoofdspoorweginfrastructuur in de zin van [artikel 62, tweede lid, van de Sp
 
 ##### Artikel 5
 
-De gerechtigde is de HSL-heffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=3&z=2015-03-18&g=2015-01-01), verschuldigd per 1 februari na afloop van het kalenderjaar waarop de HSL-heffing betrekking heeft op basis van een door de beheerder na afloop van dat kalenderjaar te maken prognose. Zodra de HSL-heffing definitief vaststaat, wordt het te veel of te weinig betaalde verrekend.
+De gerechtigde is de HSL-heffing, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036412&artikel=3&z=2015-03-18&g=2015-03-18), verschuldigd per 1 februari na afloop van het kalenderjaar waarop de HSL-heffing betrekking heeft op basis van een door de beheerder na afloop van dat kalenderjaar te maken prognose. Zodra de HSL-heffing definitief vaststaat, wordt het te veel of te weinig betaalde verrekend.
 
 ##### Artikel 6
 
-Het [Besluit HSL-heffing](https://wetten.overheid.nl/jci1.3:c:BWBR0025849&wetgeving) wordt ingetrokken.
+Het [Besluit HSL-heffing](https://wetten.overheid.nl/jci1.3:c:BWBR0025849) wordt ingetrokken.
 
 ##### Artikel 7
 
