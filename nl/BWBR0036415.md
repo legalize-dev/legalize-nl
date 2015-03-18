@@ -4,7 +4,7 @@ identifier: "BWBR0036415"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-18"
-last_updated: "2015-01-01"
+last_updated: "2015-03-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036415"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit:
 
 ##### Artikel 1
 
-De besteedbare middelen ter dekking van de voor de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&wetgeving) te maken beheerskosten bedragen voor het jaar 2015 € 144,421 miljoen.
+De besteedbare middelen ter dekking van de voor de uitvoering van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) te maken beheerskosten bedragen voor het jaar 2015 € 144,421 miljoen.
 
 ##### Artikel 2
 
-Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036415&artikel=1&z=2015-03-18&g=2015-01-01) genoemde bedrag is € 69,281 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 75,140 miljoen voor de overige bij of krachtens die wet geregelde taken.
+Van het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036415&artikel=1&z=2015-03-18&g=2015-03-18) genoemde bedrag is € 69,281 miljoen beschikbaar voor de taken, bedoeld in [artikel 4.2.4, tweede lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=4.2.4) en € 75,140 miljoen voor de overige bij of krachtens die wet geregelde taken.
 
 ##### Artikel 3
 
