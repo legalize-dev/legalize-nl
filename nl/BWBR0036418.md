@@ -4,7 +4,7 @@ identifier: "BWBR0036418"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-19"
-last_updated: "2014-10-01"
+last_updated: "2015-03-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036418"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ In deze regeling wordt verstaan onder:
 
 - 2°. vierentwintig uur per dag zorg in de nabijheid beschikbaar moet zijn en die zorg gepaard gaat met een of meer specifieke verpleegkundige handelingen;
 
-- –. **kinderdienstencentrum:** een instelling als bedoeld in de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) die krachtens die wet is toegelaten voor het verlenen van begeleiding of behandeling, en die zorg verleent als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=5&z=2015-03-19&g=2014-10-01);
+- –. **kinderdienstencentrum:** een instelling als bedoeld in de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) die krachtens die wet is toegelaten voor het verlenen van begeleiding of behandeling, en die zorg verleent als bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=5&z=2015-03-19&g=2015-03-19);
 
 - –. **kortdurend verblijf:** hetgeen daaronder wordt verstaan in [artikel 9a van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=9a);
 
@@ -77,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De groepen, bedoeld in [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) worden in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=3&z=2015-03-19&g=2014-10-01) van deze regeling omschreven, met dien verstande dat tot de daar bedoelde groepen niet behoren:
+De groepen, bedoeld in [artikel 11.1.1, zesde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=11.1.1) worden in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=3&z=2015-03-19&g=2015-03-19) van deze regeling omschreven, met dien verstande dat tot de daar bedoelde groepen niet behoren:
 
 - a. verzekerden die krachtens hun indicatiebesluit zijn aangewezen op verblijf of voortgezet verblijf,
 
@@ -141,9 +141,9 @@ Deze regeling wordt aangehaald als: Regeling Wlz-indiceerbaren.
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 oktober 2014.
 
-## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01) van de Regeling Wlz-indiceerbaren
+## Bijlage. behorende bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19) van de Regeling Wlz-indiceerbaren
 
-- 1. Voor de berekening van het aantal uren, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01), wordt een indicatie voor ‘begeleiding individueel’ of ‘persoonlijke verzorging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:
+- 1. Voor de berekening van het aantal uren, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19), wordt een indicatie voor ‘begeleiding individueel’ of ‘persoonlijke verzorging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:
 
 | klasse | uren |
 | --- | --- |
@@ -156,7 +156,7 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 | 7 | 18,0 |
 | 8 | 22,5 |
 
-- 2. Voor de berekening van het aantal uren, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01), wordt een indicatie voor ‘verpleging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:
+- 2. Voor de berekening van het aantal uren, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19), wordt een indicatie voor ‘verpleging’ in een van de hiernavolgende klassen aangemerkt als een indicatie voor het na de klasse genoemde aantal uren:
 
 | klasse | uren |
 | --- | --- |
@@ -169,10 +169,10 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 | 6 | 14,5 |
 | 7 | 18,0 |
 
-- 3. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘begeleiding individueel’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘begeleiding individueel’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01), bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.
+- 3. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘begeleiding individueel’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘begeleiding individueel’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19), bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.
 
-- 4. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘persoonlijke verzorging’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘persoonlijke verzorging’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01), bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.
+- 4. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘persoonlijke verzorging’ en daartoe klasse 8 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘persoonlijke verzorging’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19), bepaald door het aantal van 25 te vermeerderen met het aantal extra geïndiceerde uren.
 
-- 5. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘verpleging’ en daartoe klasse 7 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘verpleging’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2014-10-01), bepaald door het aantal van 20 te vermeerderen met het aantal extra geïndiceerde uren.
+- 5. Indien een verzekerde krachtens zijn indicatiebesluit is aangewezen op ‘verpleging’ en daartoe klasse 7 vermeerderd met extra geïndiceerde uren geïndiceerd heeft gekregen, wordt het aantal uren ‘verpleging’, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036418&artikel=7&z=2015-03-19&g=2015-03-19), bepaald door het aantal van 20 te vermeerderen met het aantal extra geïndiceerde uren.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
