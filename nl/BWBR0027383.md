@@ -4,7 +4,7 @@ identifier: "BWBR0027383"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-04-26"
-last_updated: "2015-01-01"
+last_updated: "2015-03-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0027383"
 soort: "AMvB"
@@ -68,23 +68,23 @@ Vervallen
 
 ##### Artikel 5. Beeldende kunst en vormgeving
 
-Voor het stimuleren van beeldende kunst en vormgeving ontvangen de gemeenten, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=5&z=2015-01-01&g=2015-01-01), met ingang van 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor het stimuleren van beeldende kunst en vormgeving ontvangen de gemeenten, genoemd in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=5&z=2015-03-21&g=2015-03-21), met ingang van 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 6. Bewonersinitiatieven wijken
 
-Voor bewonersinitiatieven ter verbetering van de leefbaarheid en versterking van de sociale cohesie in wijken ontvangen de gemeenten, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=6&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor bewonersinitiatieven ter verbetering van de leefbaarheid en versterking van de sociale cohesie in wijken ontvangen de gemeenten, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=6&z=2015-03-21&g=2015-03-21), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 7. Bibliotheekvoorzieningen in kleinere gemeenten
 
-Voor het verbeteren van bibliotheekvoorzieningen ontvangen de gemeenten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=7&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2012 jaarlijks de in die bijlage genoemde uitkering.
+Voor het verbeteren van bibliotheekvoorzieningen ontvangen de gemeenten, genoemd in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=7&z=2015-03-21&g=2015-03-21), in de jaren 2008 tot en met 2012 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 8. BTW-compensatie waterschapswegen
 
-Ter compensatie van de BTW die gemeenten hebben betaald vanwege wettelijk verplichte bijdragen aan waterschappen voor het onderhoud van wegen, ontvangen de gemeenten, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=8&z=2015-01-01&g=2015-01-01), in de jaren 2007 tot en met 2015 de in die bijlage genoemde uitkering.
+Ter compensatie van de BTW die gemeenten hebben betaald vanwege wettelijk verplichte bijdragen aan waterschappen voor het onderhoud van wegen, ontvangen de gemeenten, genoemd in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=8&z=2015-03-21&g=2015-03-21), in de jaren 2007 tot en met 2015 de in die bijlage genoemde uitkering.
 
 ##### Artikel 9. Combinatiefuncties brede school sport en cultuur
 
-Voor het bekostigen van combinatiefuncties ter bevordering van brede scholen met sport en cultuur ontvangen de gemeenten, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=9&z=2015-01-01&g=2015-01-01), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
+Voor het bekostigen van combinatiefuncties ter bevordering van brede scholen met sport en cultuur ontvangen de gemeenten, genoemd in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=9&z=2015-03-21&g=2015-03-21), in de jaren 2008 en 2009 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 10. Compensatie derving OZB op bedrijfswoningen
 
@@ -100,15 +100,11 @@ Vervallen
 
 ##### Artikel 13. Homo-emancipatiebeleid
 
-Voor het verbeteren van de sociale acceptatie van homoseksualiteit en het bestrijden van discriminatie, intimidatie en geweld tegen homoseksuelen ontvangen de gemeenten, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=13&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor het verbeteren van de sociale acceptatie van homoseksualiteit en het bestrijden van discriminatie, intimidatie en geweld tegen homoseksuelen ontvangen de gemeenten, genoemd in [bijlage 13](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=13&z=2015-03-21&g=2015-03-21), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 14. Nationaal actieplan sport en bewegen
 
-1. Voor deelname aan het Nationaal actieplan sport en bewegen ontvangen de gemeenten, genoemd in [bijlage 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=14&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
-
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 14-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=14-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 14-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=14-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+Vervallen
 
 ##### Artikel 15. Opvoeden in de buurt
 
@@ -116,7 +112,7 @@ Vervallen
 
 ##### Artikel 16. Participatie van vrouwen uit etnische minderheden
 
-Voor de bevordering van de participatie van vrouwen uit etnische minderheden ontvangen de gemeenten, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=16&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
+Voor de bevordering van de participatie van vrouwen uit etnische minderheden ontvangen de gemeenten, genoemd in [bijlage 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=16&z=2015-03-21&g=2015-03-21), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
 
 ##### Artikel 17. Pilot toezicht Drank- en Horecawet
 
@@ -124,7 +120,7 @@ Vervallen
 
 ##### Artikel 18. Pilot gemengde scholen
 
-[Bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=18&z=2015-01-01&g=2015-01-01) wordt voor de jaren 2010 en 2011 voor de in die bijlage genoemde gemeenten gewijzigd.
+[Bijlage 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=18&z=2015-03-21&g=2015-03-21) wordt voor de jaren 2010 en 2011 voor de in die bijlage genoemde gemeenten gewijzigd.
 
 ##### Artikel 19. Pilot voorschoolse en vroegschoolse educatie
 
@@ -132,11 +128,11 @@ Vervallen
 
 ##### Artikel 20. Polarisatie en radicalisering
 
-De gemeenten, genoemd in [bijlage 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=20a&z=2015-01-01&g=2015-01-01), ontvangen in de jaren 2010 en 2011 het in die bijlage genoemde bedrag.
+De gemeenten, genoemd in [bijlage 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=20a&z=2015-03-21&g=2015-03-21), ontvangen in de jaren 2010 en 2011 het in die bijlage genoemde bedrag.
 
 ##### Artikel 21. Regionale fraudeplatforms
 
-Voor deelname aan het landelijk netwerk interventieteams fraudebestrijding ontvangen de gemeenten, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=21&z=2015-01-01&g=2015-01-01), met ingang van 2007 jaarlijks € 222.857.
+Voor deelname aan het landelijk netwerk interventieteams fraudebestrijding ontvangen de gemeenten, genoemd in [bijlage 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=21&z=2015-03-21&g=2015-03-21), met ingang van 2007 jaarlijks € 222.857.
 
 ##### Artikel 22. Stemcomputers
 
@@ -144,37 +140,39 @@ Vervallen
 
 ##### Artikel 23. Taalcoaches
 
-1. Voor het opzetten van projecten voor taalcoaches in het kader van de inburgering van nieuwkomers, ontvangen de gemeenten, genoemd in [bijlage 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=23&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2011 de in die bijlage genoemde uitkering.
-
-2. Bijlage 23 vervalt en wordt vervangen door de in dit besluit opgenomen [bijlage 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=23a&z=2015-01-01&g=2015-01-01).
+Vervallen
 
 ##### Artikel 24. Tijdbeleid
 
-Voor de flexibilisering van de openings- en arbeidstijden van zorg- en dienstverleners ontvangen de gemeenten, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=24&z=2015-01-01&g=2015-01-01), in het jaar 2008 € 50.000.
+Voor de flexibilisering van de openings- en arbeidstijden van zorg- en dienstverleners ontvangen de gemeenten, genoemd in [bijlage 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=24&z=2015-03-21&g=2015-03-21), in het jaar 2008 € 50.000.
 
 ##### Artikel 25. TSIOC
 
-Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangen de gemeenten genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=25&z=2015-01-01&g=2015-01-01) in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
+Voor de kosten van formatieplaatsen voor opsporing en controle in het kader van de intensivering van de handhaving van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) ontvangen de gemeenten genoemd in [bijlage 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=25&z=2015-03-21&g=2015-03-21) in de jaren 2007 tot en met 2010 jaarlijks de in die bijlage genoemde uitkering.
 
 ##### Artikel 26. Uitvoering Wet inburgering
 
 Vervallen
 
-##### Artikel 27. Uitvoering [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+##### Artikel 27. Uitvoering [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031)
 
-Voor de uitvoering van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) ontvangen de gemeenten:
+Voor de uitvoering van de [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) ontvangen de gemeenten:
 
-- a. in het jaar 2007 de uitkering genoemd in [bijlage 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27a&z=2015-01-01&g=2015-01-01).
+- a. in het jaar 2007 de uitkering genoemd in [bijlage 27a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27a&z=2015-03-21&g=2015-03-21).
 
-- b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in [bijlage 27b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27b&z=2015-01-01&g=2015-01-01) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. [Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=3) is van overeenkomstige toepassing op deze uitkering;
+- b. met ingang van 2008 jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in bijlage 27b worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering. [Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=3) is van overeenkomstige toepassing op deze uitkering;
 
-- c. De gemeenten, genoemd in [bijlage 27c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27c&z=2015-01-01&g=2015-01-01), ontvangen voor het jaar 2008 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
+- c. De gemeenten, genoemd in [bijlage 27c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27c&z=2015-03-21&g=2015-03-21), ontvangen voor het jaar 2008 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
 
-- d. De gemeenten, genoemd in [bijlage 27d](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27d&z=2015-01-01&g=2015-01-01), ontvangen voor het jaar 2009 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
+- d. De gemeenten, genoemd in [bijlage 27d](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27d&z=2015-03-21&g=2015-03-21), ontvangen voor het jaar 2009 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
 
-- e. [Bijlage 27d](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27d&z=2015-01-01&g=2015-01-01) vervalt en wordt vervangen door de in dit besluit opgenomen bijlage 27e.
+- e. [Bijlage 27d](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27d&z=2015-03-21&g=2015-03-21) vervalt en wordt vervangen door de in dit besluit opgenomen bijlage 27e.
 
-- f. De gemeenten, genoemd in [bijlage 27f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27f&z=2015-01-01&g=2015-01-01), ontvangen voor het jaar 2010 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
+- f. De gemeenten, genoemd in [bijlage 27f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27f&z=2015-03-21&g=2015-03-21), ontvangen voor het jaar 2010 op basis van de in onderdeel b genoemde maatstaven het in die bijlage genoemde bedrag.
+
+- g. Met ingang van 2011 ontvangen gemeenten jaarlijks een uitkering waarbij de verdeelmaatstaven genoemd in [bijlage 27g](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27g&z=2015-03-21&g=2015-03-21) worden gehanteerd voor de verdeling van het totaal beschikbare bedrag voor de uitkering. Artikel 3, derde tot en met vijfde lid, van het Besluit financiële verhoudingen 2001 is van overeenkomstige toepassing op deze uitkering;
+
+- h. De gemeenten, genoemd in [bijlage 27h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=27h&z=2015-03-21&g=2015-03-21), ontvangen voor het jaar 2011 op basis van de in onderdeel g genoemde verdeelmaatstaven het in die bijlage genoemde bedrag.
 
 ##### Artikel 28. Veilige publieke taak
 
@@ -182,7 +180,7 @@ Vervallen
 
 ##### Artikel 29. Wijkactieplannen
 
-Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29&z=2015-01-01&g=2015-01-01), in de jaren 2008 tot en met 2010 de in die bijlage genoemde uitkering.
+Voor de financiering van wijkactieplannen ontvangen de gemeenten, genoemd in [bijlage 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29&z=2015-03-21&g=2015-03-21), in de jaren 2008 tot en met 2010 de in die bijlage genoemde uitkering.
 
 #### § 2. Uitkeringen aan gemeenten
 
@@ -192,7 +190,7 @@ Vervallen
 
 ##### Artikel 31. Cultuurparticipatie
 
-Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies de uitkering, genoemd in [bijlage 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31a&z=2015-01-01&g=2015-01-01) en de gemeenten genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2015-01-01&g=2015-01-01) jaarlijks in de jaren 2009 tot en met 2012 de in die bijlage genoemde uitkering.
+Voor de uitvoering van het programma cultuurparticipatie ontvangen de provincies de uitkering, genoemd in [bijlage 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31a&z=2015-03-21&g=2015-03-21) en de gemeenten genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2015-03-21&g=2015-03-21) jaarlijks in de jaren 2009 tot en met 2012 de in die bijlage genoemde uitkering.
 
 #### § 4. Slotbepalingen
 
@@ -4324,13 +4322,15 @@ Vervallen
 
 ##### Artikel 2c. Regionale luchthavens
 
-1. Ten behoeve van de overgang van het bevoegde gezag over de regionale luchthavens naar de provincies ontvangen de provincies, genoemd in [bijlage 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c&z=2015-01-01&g=2015-01-01), in 2009 de in die bijlage genoemde uitkering.
+1. Ten behoeve van de overgang van het bevoegde gezag over de regionale luchthavens naar de provincies ontvangen de provincies, genoemd in [bijlage 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c&z=2015-03-21&g=2015-03-21), in 2009 de in die bijlage genoemde uitkering.
 
-2. In het jaar 2010 ontvangen de provincies, genoemd in [bijlage 2c-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2010 ontvangen de provincies, genoemd in [bijlage 2c-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 2c-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 2c-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-4. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2c-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+4. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2c-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+5. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2c-5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2c-5&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 2d. Stimulering lokale klimaatinitiatieven (SLOK), provincies
 
@@ -4340,13 +4340,7 @@ Vervallen
 
 ##### Artikel 29a. Aanpak Marokkaans-Nederlandse probleemjongeren
 
-1. Voor de bekostiging van de aanpak van Marokkaans-Nederlandse probleemjongeren ontvangen de gemeenten genoemd in [bijlage 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29a&z=2015-01-01&g=2015-01-01), in het jaar 2009 de in die bijlage genoemde uitkering.
-
-2. In het jaar 2010 ontvangen de gemeenten genoemd in [bijlage 29a-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29a-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29a-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29a-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29a-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29a-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+Vervallen
 
 ##### Artikel 29b. Alle troeven in handen, gemeenten
 
@@ -4354,13 +4348,7 @@ Vervallen
 
 ##### Artikel 29c. Antillianengemeenten
 
-1. De gemeenten genoemd in [bijlage 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29c&z=2015-01-01&g=2015-01-01), waarvoor tot 1 januari 2009 de Bestuurlijke Arrangementen Antilliaanse Risicojongeren golden, ontvangen in 2009 de in die bijlage genoemde uitkering.
-
-2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29c-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29c-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29c-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29c-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29c-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29c-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+Vervallen
 
 ##### Artikel 29d. Budget 40+ wijken
 
@@ -4384,33 +4372,31 @@ Vervallen
 
 ##### Artikel 29i. Herbestemming aandachtswijken
 
-1. Voor het stimuleren van herbestemming van waardevol en karakteristiek erfgoed en herontwikkeling van bijzondere terreinen in de veertig aandachtswijken ontvangen de gemeenten, genoemd in [bijlage 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29i&z=2015-01-01&g=2015-01-01), in het jaar 2009 de in die bijlage genoemde uitkering.
-
-2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29i-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29i-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29i-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29i-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29i-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29i-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+Vervallen
 
 ##### Artikel 29j. Herstructurering bedrijventerreinen
 
-1. Voor de herstructurering van bedrijventerreinen ontvangen de in [bijlage 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j&z=2015-01-01&g=2015-01-01) genoemde gemeenten in 2009 de in die bijlage genoemde uitkering.
+1. Voor de herstructurering van bedrijventerreinen ontvangen de in [bijlage 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j&z=2015-03-21&g=2015-03-21) genoemde gemeenten in 2009 de in die bijlage genoemde uitkering.
 
-2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29j-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29j-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29j-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29j-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29j-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29j-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-##### Artikel 29k. Impuls brede scholen combinatiefuncties tweede tranche
+5. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29j-5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29j-5&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-1. Voor de realisatie van combinatiefuncties bij brede scholen ontvangen de gemeenten, genoemd in [bijlage 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k&z=2015-01-01&g=2015-01-01), in het jaar 2009 voor de tweede tranche de in die bijlage genoemde uitkering.
+##### Artikel 29k. Buurtsportcoaches
 
-2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29k-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. Voor de realisatie van combinatiefuncties bij brede scholen ontvangen de gemeenten, genoemd in [bijlage 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k&z=2015-03-21&g=2015-03-21), in het jaar 2009 voor de tweede tranche de in die bijlage genoemde uitkering.
 
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29k-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29k-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29k-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29k-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29k-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+5. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29k-5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29k-5&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29m. Jeugdwerkloosheid
 
@@ -4422,13 +4408,15 @@ Vervallen
 
 ##### Artikel 29o. Spoorse doorsnijdingen tweede tranche
 
-1. Voor het opheffen of verminderen van de barrièrewerking van het spoor ontvangen de gemeenten, genoemd in [bijlage 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o&z=2015-01-01&g=2015-01-01), in 2009 de in die bijlage genoemde uitkering.
+1. Voor het opheffen of verminderen van de barrièrewerking van het spoor ontvangen de gemeenten, genoemd in [bijlage 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o&z=2015-03-21&g=2015-03-21), in 2009 de in die bijlage genoemde uitkering.
 
-2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29o-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2010 ontvangen de gemeenten, genoemd in [bijlage 29o-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29o-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29o-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29o-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-4&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+4. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29o-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+5. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29o-5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29o-5&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29p. Stimulering lokale klimaatinitiatieven (SLOK), gemeenten
 
@@ -7951,11 +7939,13 @@ Vervallen
 
 ##### Artikel 29ij. Gezond in de stad
 
-1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ij&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ij&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29ij-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ij-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29ij-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ij-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 3. In het jaar 2012 ontvangen de gemeenten, genoemd in bijlage 29y-3, de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ij-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ij-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29z. Hogeschool Almere
 
@@ -7975,11 +7965,13 @@ Vervallen
 
 ##### Artikel 29dd. Jeugd
 
-1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29dd-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29dd-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29dd-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29dd-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29dd-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29dd-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29ee. Leefbaarheid en veiligheid
 
@@ -7995,35 +7987,31 @@ Vervallen
 
 ##### Artikel 29hh. Rolstoelvoorzieningen Arnhem
 
-1. In het jaar 2010 ontvangt de gemeente Arnhem € 1.400.000.
-
-2. In het jaar 2011 ontvangt de gemeente Arnhem € 300.000.
-
-3. In het jaar 2012 ontvangt de gemeente Arnhem € 300.000.
+Vervallen
 
 ##### Artikel 29ii. Vadercentra
 
-1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ii&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29ii-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ii-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29ii-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ii-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+Vervallen
 
 ##### Artikel 29jj. Versterking peuterspeelzaalwerk
 
-1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29jj-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29jj-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29jj-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29jj-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29jj-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jj-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29kk. Vrouwenopvang
 
-1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen gemeenten, genoemd in [bijlage 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29kk-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten, genoemd in [bijlage 29kk-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29kk-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29kk-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29kk-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29kk-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29ll. Wachtlijsten kinderopvang
 
@@ -8045,19 +8033,23 @@ Vervallen
 
 ##### Artikel 31b. Bedrijventerreinen (Topperprojecten)
 
-1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in [bijlage 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 31b-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 31b-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 31b-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 31b-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 31b-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31b-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 31c. Bodemsanering
 
-1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangen de gemeenten en provincies, genoemd in [bijlage 31c-4](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31c-4&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 31d. Krimp
 
@@ -8065,11 +8057,13 @@ Vervallen
 
 ##### Artikel 31e. Regiospecifiek pakket Zuiderzeelijn
 
-1. In het jaar 2010 ontvangen de gemeente Assen € 13.039.000 en provincies, genoemd in [bijlage 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+1. In het jaar 2010 ontvangen de gemeente Assen € 13.039.000 en provincies, genoemd in [bijlage 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-2. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31e-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+2. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31e-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
-3. In het jaar 2012 ontvangen de gemeente en provincies, genoemd in [bijlage 31e-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e-3&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+3. In het jaar 2012 ontvangen de gemeente en provincies, genoemd in [bijlage 31e-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31e-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+4. In het jaar 2013 ontvangt de provincie Groningen € 10.468.000.
 
 ##### Artikel 31f. Stimulering lokale klimaatinitiatieven (SLOK)
 
@@ -8991,71 +8985,95 @@ Vervallen
 
 Vervallen
 
-## Bijlage 2m. , genoemd in [artikel 2m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2m&z=2015-01-01&g=2015-01-01). Uitname provinciefonds
+## Bijlage 2c. genoemd in [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2c&z=2015-03-21&g=2015-03-21). Regionale luchthavens
 
-Vervallen
+| **Provincie** | **Uitkering 2009** |
+| --- | --- |
+| Groningen | € 7.952 |
+| Fryslân | € 19.949 |
+| Drenthe | € 7.132 |
+| Overijssel | € 16.970 |
+| Gelderland | € 17.353 |
+| Utrecht | € 2.651 |
+| Noord-Holland | € 28.174 |
+| Zuid-Holland | € 13.992 |
+| Zeeland | € 15.467 |
+| Noord-Brabant | € 21.028 |
+| Limburg | € 15.139 |
+| Flevoland | € 5.301 |
+| **Totaal** | **€ 171.108** |
 
-## Bijlage 2p. , genoemd in [artikel 2p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2p&z=2015-01-01&g=2015-01-01). Asbest en zonnepanelen
+## Bijlage 2c-2. genoemd in [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2c&z=2015-03-21&g=2015-03-21). Regionale luchthavens
+
+| **Provincie** | **Uitkering 2010** |
+| --- | --- |
+| Groningen | € 43.702 |
+| Fryslân | € 110.616 |
+| Drenthe | € 36.863 |
+| Overijssel | € 101.902 |
+| Gelderland | € 97.694 |
+| Utrecht | € 15.917 |
+| Noord-Holland | € 169.178 |
+| Zuid-Holland | € 71.507 |
+| Zeeland | € 92.875 |
+| Noord-Brabant | € 119.753 |
+| Limburg | € 83.683 |
+| Flevoland | € 24.310 |
+| **Totaal** | **€ 968.000** |
+
+## Bijlage 2c-3. genoemd in [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2c&z=2015-03-21&g=2015-03-21). Regionale luchthavens
+
+| **Provincie** | **Uitkering 2011** |
+| --- | --- |
+| Groningen | € 41.696 |
+| Fryslân | € 137.680 |
+| Drenthe | € 61.140 |
+| Overijssel | € 49.366 |
+| Gelderland | € 177.858 |
+| Utrecht | € 44.936 |
+| Noord-Holland | € 89.870 |
+| Zuid-Holland | € 118.230 |
+| Zeeland | € 59.118 |
+| Noord-Brabant | € 134.271 |
+| Limburg | € 53.902 |
+| Flevoland | € 22.467 |
+| **Totaal** | **€ 990.534** |
+
+## Bijlage 2c-4. genoemd in [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2c&z=2015-03-21&g=2015-03-21). Regionale luchthavens
 
 | Provincie | Uitkering 2012 |   |
 | --- | --- | --- |
-| Drenthe | € 1.044.000 |   |
-| Flevoland | € 523.000 |   |
-| Fryslân | € 1.590.000 |   |
-| Gelderland | € 3.418.000 |   |
-| Groningen | € 928.000 |   |
-| Limburg | € 1.365.000 |   |
-| Noord-Brabant | € 3.568.000 |   |
-| Noord-Holland | € 1.387.000 |   |
-| Overijssel | € 2.464.000 |   |
-| Utrecht | € 813.000 |   |
-| Zeeland | € 896.000 |   |
-| Zuid-Holland | € 2.004.000 |   |
-| Totaal | € 20.000.000 |   |
+| Drenthe | € 56.437 |   |
+| Flevoland | € 20.739 |   |
+| Fryslân | € 130.823 |   |
+| Gelderland | € 164.177 |   |
+| Groningen | € 38.489 |   |
+| Limburg | € 49.756 |   |
+| Noord-Brabant | € 123.942 |   |
+| Noord-Holland | € 86.649 |   |
+| Overijssel | € 45.569 |   |
+| Utrecht | € 41.479 |   |
+| Zeeland | € 66.109 |   |
+| Zuid-Holland | € 109.135 |   |
+| Totaal | € 933.304 |   |
 
-## Bijlage 2q. genoemd in [artikel 2q](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2q&z=2015-01-01&g=2015-01-01). Beter benutten
+## Bijlage 2c-5. genoemd in [artikel 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2c&z=2015-03-21&g=2015-03-21). Regionale luchthavens
 
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Groningen | € 750.000 |   |
-| Overijssel | € 520.000 |   |
-| Totaal | € 1.270.000 |   |
-
-## Bijlage 2r. genoemd in [artikel 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2r&z=2015-01-01&g=2015-01-01). DU Ontwikkel / OEM-variabel
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 25.252.850 |   |
-| Flevoland | € 21.887.693 |   |
-| Fryslân | € 23.197.475 |   |
-| Gelderland | € 6.743.816 |   |
-| Groningen | € 17.260.966 |   |
-| Limburg | € 27.094.848 |   |
-| Noord-Brabant | € 50.283.421 |   |
-| Noord-Holland | € 65.848.597 |   |
-| Overijssel | € 26.331.489 |   |
-| Utrecht | € 42.868.977 |   |
-| Zeeland | € 20.063.311 |   |
-| Zuid-Holland | € 91.633.680 |   |
-| Totaal | € 418.467.123 |   |
-
-## Bijlage 2u. genoemd in [artikel 2u](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2u&z=2015-01-01&g=2015-01-01). Monumenten
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 494.185 |   |
-| Flevoland | € 118.541 |   |
-| Fryslân | € 1.463.888 |   |
-| Gelderland | € 1.670.808 |   |
-| Groningen | € 902.832 |   |
-| Limburg | € 1.777.234 |   |
-| Noord-Brabant | € 1.722.352 |   |
-| Noord-Holland | € 4.717.863 |   |
-| Overijssel | € 1.249.181 |   |
-| Utrecht | € 1.526.928 |   |
-| Zeeland | € 1.327.425 |   |
-| Zuid-Holland | € 3.028.763 |   |
-| Totaal | € 20.000.000 |   |
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 56.437 |
+| Flevoland | € 20.739 |
+| Fryslân | € 130.823 |
+| Gelderland | € 164.177 |
+| Groningen | € 38.489 |
+| Limburg | € 49.756 |
+| Noord-Brabant | € 123.942 |
+| Noord-Holland | € 86.649 |
+| Overijssel | € 45.569 |
+| Utrecht | € 41.479 |
+| Zeeland | € 66.109 |
+| Zuid-Holland | € 109.135 |
+| **Totaal** | **€ 933.304** |
 
 ## Bijlage 2v. , genoemd in [artikel 2v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2v&z=2015-01-01&g=2015-01-01). Programmatische aanpak stikstof
 
@@ -9093,7 +9111,205 @@ Vervallen
 | Zuid-Holland | € 179.941 |   |
 | Totaal | € 1.200.000 |   |
 
-## Bijlage 2x. genoemd in [artikel 2x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2x&z=2015-01-01&g=2015-01-01). Natuur
+## Bijlage 2i. genoemd in [artikel 2i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2i&z=2015-03-21&g=2015-03-21). Externe veiligheid
+
+| **Provincie** | **Uitkering 2011** |
+| --- | --- |
+| Groningen | € 896.000 |
+| Fryslân | € 771.000 |
+| Drenthe | € 498.000 |
+| Overijssel | € 1.252.000 |
+| Gelderland | € 2.314.000 |
+| Utrecht | € 961.000 |
+| Noord-Holland | € 2.249.000 |
+| Zuid-Holland | € 4.966.000 |
+| Zeeland | € 904.000 |
+| Noord-Brabant | € 3.374.000 |
+| Limburg | € 1.481.000 |
+| Flevoland | € 334.000 |
+| **Totaal** | **€ 20.000.000** |
+
+## Bijlage 2i-2. genoemd in [artikel 2i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2i&z=2015-03-21&g=2015-03-21). Externe veiligheid
+
+| Provincie | Uitkering 2012 |   |
+| --- | --- | --- |
+| Drenthe | € 498.000 |   |
+| Flevoland | € 334.000 |   |
+| Fryslân | € 771.000 |   |
+| Gelderland | € 2.314.000 |   |
+| Groningen | € 896.000 |   |
+| Limburg | € 1.481.000 |   |
+| Noord-Brabant | € 3.374.000 |   |
+| Noord-Holland | € 2.249.000 |   |
+| Overijssel | € 1.252.000 |   |
+| Utrecht | € 961.000 |   |
+| Zeeland | € 904.000 |   |
+| Zuid-Holland | € 4.966.000 |   |
+| Totaal | € 20.000.000 |   |
+
+## Bijlage 2i-3. genoemd in [artikel 2i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2i&z=2015-03-21&g=2015-03-21). Externe veiligheid
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 498.000 |
+| Flevoland | € 334.000 |
+| Fryslân | € 771.000 |
+| Gelderland | € 2.314.000 |
+| Groningen | € 896.000 |
+| Limburg | € 1.481.000 |
+| Noord-Brabant | € 3.374.000 |
+| Noord-Holland | € 2.249.000 |
+| Overijssel | € 1.252.000 |
+| Utrecht | € 961.000 |
+| Zeeland | € 904.000 |
+| Zuid-Holland | € 4.966.000 |
+| **Totaal** | **€ 20.000.000** |
+
+## Bijlage 2k. , genoemd in [artikel 2k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2k&z=2015-03-21&g=2015-03-21). Muskusrattenbestrijding
+
+Vervallen
+
+## Bijlage 2l. , genoemd in [artikel 2l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2l&z=2015-03-21&g=2015-03-21). Regionale uitvoeringsdiensten (RUD)
+
+Vervallen
+
+## Bijlage 2m. , genoemd in [artikel 2m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2m&z=2015-03-21&g=2015-03-21). Uitname provinciefonds
+
+Vervallen
+
+## Bijlage 2p. , genoemd in [artikel 2p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2p&z=2015-03-21&g=2015-03-21). Asbest en zonnepanelen
+
+Vervallen
+
+## Bijlage 2q. genoemd in [artikel 2q](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2q&z=2015-03-21&g=2015-03-21). Beter benutten
+
+| Provincie | Uitkering 2012 |   |
+| --- | --- | --- |
+| Groningen | € 750.000 |   |
+| Overijssel | € 520.000 |   |
+| Totaal | € 1.270.000 |   |
+
+## Bijlage 2q-2. genoemd in [artikel 2q](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2q&z=2015-03-21&g=2015-03-21). Beter benutten
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Groningen | € 4.500.000 |
+| Overijssel | € 480.000 |
+| **Totaal** | **€ 4.980.000** |
+
+## Bijlage 2r. genoemd in [artikel 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2r&z=2015-03-21&g=2015-03-21). DU Ontwikkel / OEM-variabel
+
+| Provincie | Uitkering 2012 |   |
+| --- | --- | --- |
+| Drenthe | € 25.252.850 |   |
+| Flevoland | € 21.887.693 |   |
+| Fryslân | € 23.197.475 |   |
+| Gelderland | € 6.743.816 |   |
+| Groningen | € 17.260.966 |   |
+| Limburg | € 27.094.848 |   |
+| Noord-Brabant | € 50.283.421 |   |
+| Noord-Holland | € 65.848.597 |   |
+| Overijssel | € 26.331.489 |   |
+| Utrecht | € 42.868.977 |   |
+| Zeeland | € 20.063.311 |   |
+| Zuid-Holland | € 91.633.680 |   |
+| Totaal | € 418.467.123 |   |
+
+## Bijlage 2r-2. genoemd in [artikel 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2r&z=2015-03-21&g=2015-03-21). DU Ontwikkel / OEM-variabel
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 23.916.539 |
+| Flevoland | € 21.071.891 |
+| Fryslân | € 21.158.399 |
+| Gelderland | € 1.362.297 |
+| Groningen | € 12.996.235 |
+| Limburg | € 24.020.731 |
+| Noord-Brabant | € 39.341.801 |
+| Noord-Holland | € 59.817.425 |
+| Overijssel | € 23.619.446 |
+| Utrecht | € 40.801.435 |
+| Zeeland | € 16.587.165 |
+| Zuid-Holland | € 77.971.218 |
+| **Totaal** | **€ 362.664.582** |
+
+## Bijlage 2u. genoemd in [artikel 2u](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2u&z=2015-03-21&g=2015-03-21). Monumenten
+
+| Provincie | Uitkering 2012 |   |
+| --- | --- | --- |
+| Drenthe | € 494.185 |   |
+| Flevoland | € 118.541 |   |
+| Fryslân | € 1.463.888 |   |
+| Gelderland | € 1.670.808 |   |
+| Groningen | € 902.832 |   |
+| Limburg | € 1.777.234 |   |
+| Noord-Brabant | € 1.722.352 |   |
+| Noord-Holland | € 4.717.863 |   |
+| Overijssel | € 1.249.181 |   |
+| Utrecht | € 1.526.928 |   |
+| Zeeland | € 1.327.425 |   |
+| Zuid-Holland | € 3.028.763 |   |
+| Totaal | € 20.000.000 |   |
+
+## Bijlage 2u-2. genoemd in [artikel 2u](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2u&z=2015-03-21&g=2015-03-21). Monumenten
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 494.185 |
+| Flevoland | € 118.541 |
+| Fryslân | € 1.463.888 |
+| Gelderland | € 1.670.808 |
+| Groningen | € 902.832 |
+| Limburg | € 1.777.234 |
+| Noord-Brabant | € 1.722.352 |
+| Noord-Holland | € 4.717.863 |
+| Overijssel | € 1.249.181 |
+| Utrecht | € 1.526.928 |
+| Zeeland | € 1.327.425 |
+| Zuid-Holland | € 3.028.763 |
+| **Totaal** | **€ 20.000.000** |
+
+## Bijlage 2v. , genoemd in [artikel 2v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2v&z=2015-03-21&g=2015-03-21). Programmatische aanpak stikstof
+
+Vervallen
+
+## Bijlage 2w. genoemd in [artikel 2w](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2w&z=2015-03-21&g=2015-03-21). Zwemwaterrichtlijn EU
+
+| Provincie | Uitkering 2012 |   |
+| --- | --- | --- |
+| Drenthe | € 77.007 |   |
+| Flevoland | € 56.991 |   |
+| Fryslân | € 89.873 |   |
+| Gelderland | € 119.896 |   |
+| Groningen | € 85.584 |   |
+| Limburg | € 71.288 |   |
+| Noord-Brabant | € 139.911 |   |
+| Noord-Holland | € 169.934 |   |
+| Overijssel | € 54.132 |   |
+| Utrecht | € 49.843 |   |
+| Zeeland | € 105.600 |   |
+| Zuid-Holland | € 179.941 |   |
+| Totaal | € 1.200.000 |   |
+
+## Bijlage 2w-2. genoemd in [artikel 2w](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2w&z=2015-03-21&g=2015-03-21). Zwemwaterrichtlijn EU
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 77.007 |
+| Flevoland | € 56.991 |
+| Fryslân | € 89.873 |
+| Gelderland | € 119.896 |
+| Groningen | € 85.584 |
+| Limburg | € 71.288 |
+| Noord-Brabant | € 139.911 |
+| Noord-Holland | € 169.934 |
+| Overijssel | € 54.132 |
+| Utrecht | € 49.843 |
+| Zeeland | € 105.600 |
+| Zuid-Holland | € 179.941 |
+| **Totaal** | **€ 1.200.000** |
+
+## Bijlage 2x. genoemd in [artikel 2x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2x&z=2015-03-21&g=2015-03-21). Natuur
 
 | Provincie | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -9109,11 +9325,55 @@ Vervallen
 | Zuid-Holland | € 62.020.000 |   |
 | Totaal | € 308.410.000 |   |
 
-## Bijlage 3. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) Aanpak kindermishandeling
+## Bijlage 2x-2. genoemd in [artikel 2x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2x&z=2015-03-21&g=2015-03-21). Natuur
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 22.070.000 |
+| Flevoland | € 18.260.000 |
+| Fryslân | € 26.890.000 |
+| Gelderland | € 60.770.000 |
+| Groningen | € 13.530.000 |
+| Limburg | € 31.490.000 |
+| Noord-Brabant | € 72.160.000 |
+| Noord-Holland | € 7.930.000 |
+| Overijssel | € 32.780.000 |
+| Utrecht | € 36.230.000 |
+| Zeeland | € 2.030.000 |
+| Zuid-Holland | € 69.430.000 |
+| **Totaal** | **€ 393.570.000** |
+
+## Bijlage 2y. genoemd in [artikel 2y](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2y&z=2015-03-21&g=2015-03-21). Afsluitdijk
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Fryslân | € 665.706 |
+| Groningen | € 500.000 |
+| **Totaal** | **€ 1.165.706** |
+
+## Bijlage 2z. , genoemd in [artikel 2z](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=1&artikel=2z&z=2015-03-21&g=2015-03-21). Agrarisch natuurbeheer
+
+| **Provincie** | **Uitkering 2013** |
+| --- | --- |
+| Drenthe | € 39.723 |
+| Flevoland | € 65.887 |
+| Fryslân | € 542.260 |
+| Gelderland | € 102.153 |
+| Groningen | € 295.575 |
+| Limburg | € 79.213 |
+| Noord-Brabant | € 83.500 |
+| Noord-Holland | € 270.887 |
+| Overijssel | € 75.405 |
+| Utrecht | € 144.123 |
+| Zeeland | € 22.591 |
+| Zuid-Holland | € 281.962 |
+| **Totaal** | **€ 2.003.279** |
+
+## Bijlage 3. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2015-03-21&g=2015-03-21) Aanpak kindermishandeling
 
 Vervallen
 
-## Bijlage 3-2. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01). Aanpak kindermishandeling
+## Bijlage 3-2. , genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=3&z=2015-03-21&g=2015-03-21). Aanpak kindermishandeling
 
 Vervallen
 
@@ -9121,7 +9381,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 5. genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=5&z=2015-01-01&g=2015-01-01) Beeldende kunst en vormgeving
+## Bijlage 5. genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=5&z=2015-03-21&g=2015-03-21) Beeldende kunst en vormgeving
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -9167,7 +9427,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 7. genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=7&z=2015-01-01&g=2015-01-01) Bibliotheekvoorzieningen in kleinere gemeenten
+## Bijlage 7. genoemd in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=7&z=2015-03-21&g=2015-03-21) Bibliotheekvoorzieningen in kleinere gemeenten
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -9469,7 +9729,7 @@ Vervallen
 | Zundert | € 23.809 |   |
 | Zwartewaterland | € 25.031 |   |
 
-## Bijlage 8. , genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01) BTW-compensatie waterschapswegen
+## Bijlage 8. , genoemd in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=8&z=2015-03-21&g=2015-03-21) BTW-compensatie waterschapswegen
 
 | Gemeente | Uitkering 2007 | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 | Uitkering 2012 | Uitkering 2013 | Uitkering 2014 | Uitkering 2015 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9587,7 +9847,7 @@ Vervallen
 | Zuidhorn | € 1.084 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 | € 0 |
 | Zwijndrecht | € 66.494 | € 11.825 | € 12.287 | € 12.760 | € 13.244 | € 13.738 | € 14.244 | € 14.762 | € 15.102 |
 
-## Bijlage 9. genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=9&z=2015-01-01&g=2015-01-01). Combinatiefuncties brede school sport en cultuur eerste tranche
+## Bijlage 9. genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=9&z=2015-03-21&g=2015-03-21). Combinatiefuncties brede school sport en cultuur eerste tranche
 
 | **Gemeente** | **Uitkering 2009 excl. looncompensatie** | **Looncompensatie** | **Uitkering 2009 incl. looncompensatie** |
 | --- | --- | --- | --- |
@@ -9647,248 +9907,145 @@ Vervallen
 
 Vervallen
 
-## Bijlage 14. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-01-01&g=2015-01-01) Nationaal actieplan sport en bewegen
+## Bijlage 14. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-03-21&g=2015-03-21) Nationaal actieplan sport en bewegen
 
-| Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 |
-| --- | --- | --- | --- |
-|   |   |   |   |
-| Achtkarspelen |   |   | € 66.286 |
-| Alkmaar |   |   | € 149.199 |
-| Almelo |   |   | € 127.096 |
-| Amsterdam | € 476.442 | € 952.884 | € 476.442 |
-| Appingedam |   |   | € 34.374 |
-| Arnhem | € 75.000 | € 150.000 | € 75.000 |
-| Assen |   |   | € 119.391 |
-| Baarle-Nassau | € 20.022 | € 40.044 | € 20.022 |
-| Bedum |   |   | € 31.202 |
-| Bellingwedde | € 28.542 | € 57.084 | € 28.542 |
-| Bergen op Zoom |   |   | € 120.440 |
-| Bolsward | € 28.797 | € 57.594 | € 28.797 |
-| Borger-Odoorn |   |   | € 62.594 |
-| Brunssum | € 69.180 | € 138.360 | € 69.180 |
-| Coevorden |   |   | € 70.000 |
-| Cuijk | € 58.498 | € 116.996 | € 58.498 |
-| Dantumadiel | € 48.922 | € 97.844 | € 48.922 |
-| De Marne |   |   | € 31.508 |
-| Delft | € 150.379 | € 300.758 | € 150.379 |
-| Delfzijl | € 65.306 | € 130.612 | € 65.306 |
-| Den Helder |   |   | € 7.500 |
-| Deventer |   |   | € 151.617 |
-| Doesburg |   |   | € 33.186 |
-| Dordrecht |   |   | € 164.271 |
-| Echt-Susteren | € 73.518 | € 147.035 | € 73.518 |
-| Eemsmond | € 43.420 | € 86.840 | € 43.420 |
-| Eindhoven | € 209.850 | € 419.699 | € 209.850 |
-| Emmen | € 159.416 | € 318.832 | € 159.416 |
-| Enkhuizen | € 45.652 | € 91.304 | € 45.652 |
-| Enschede | € 75.000 | € 150.000 | € 75.000 |
-| Ferwerderadiel | € 26.682 | € 53.364 | € 26.682 |
-| Franekeradeel |   |   | € 25.625 |
-| Gaasterlan-Sleat | € 28.125 | € 56.250 | € 28.125 |
-| Geertruidenberg |   |   | € 2.500 |
-| Goes |   |   | € 50.000 |
-| Groesbeek | € 47.814 | € 95.628 | € 47.814 |
-| Groningen |   |   | € 195.807 |
-| Grootegast | € 34.296 | € 68.592 | € 34.296 |
-| Hardenberg |   |   | € 112.158 |
-| Harlingen |   |   | € 40.930 |
-| Heerenveen |   |   | € 89.164 |
-| Heerlen |   |   | € 145.537 |
-| Hengelo |   |   | € 93.500 |
-| Hoogeveen | € 106.575 | € 213.149 | € 106.575 |
-| Hoogezand-Sappemeer | € 76.588 | € 153.176 | € 76.588 |
-| Hoorn |   |   | € 123.174 |
-| Kerkrade | € 98.154 | € 196.307 | € 98.154 |
-| Landgraaf |   |   | € 83.299 |
-| Leek |   |   | € 48.380 |
-| Leerdam | € 51.376 | € 102.752 | € 51.376 |
-| Leeuwarden |   |   | € 41.250 |
-| Lelystad |   |   | € 127.252 |
-| Lemsterland |   |   | € 36.868 |
-| Littenseradiel | € 31.700 | € 63.400 | € 31.700 |
-| Losser | € 54.970 | € 109.940 | € 54.970 |
-| Maastricht | € 164.519 | € 329.038 | € 164.519 |
-| Marum | € 30.132 | € 60.264 | € 30.132 |
-| Menterwolde | € 35.110 | € 70.220 | € 35.110 |
-| Meppel |   |   | € 71.631 |
-| Middelburg |   |   | € 95.901 |
-| Neder-Betuwe |   |   | € 54.618 |
-| Nijefurd | € 31.772 | € 63.544 | € 31.772 |
-| Nijmegen | € 185.454 | € 370.907 | € 185.454 |
-| Noord-Beveland |   |   | € 21.801 |
-| Oldambt |   |   | € 106.195 |
-| Ooststellingwerf |   |   | € 62.448 |
-| Opmeer |   |   | € 32.424 |
-| Opsterland |   |   | € 94.166 |
-| Peel en Maas |   |   | € 49.092 |
-| Pekela |   |   | € 36.608 |
-| Reusel-De Mierden |   |   | € 7.500 |
-| Reiderland | € 21.009 | € 42.018 |   |
-| Roermond | € 106.372 | € 212.744 | € 106.372 |
-| Rotterdam | € 397.029 | € 794.058 | € 397.029 |
-| Rozenburg | € 35.360 | € 70.720 | € 35.360 |
-| Scheemda | € 38.234 | € 76.468 |   |
-| Schiedam |   |   | € 130.162 |
-| ’s-Gravenhage |   |   | € 341.971 |
-| Sittard-Geleen |   |   | € 151.245 |
-| Skarsterlan |   |   | € 64.102 |
-| Smallingerland |   |   | € 40.000 |
-| Sneek |   |   | € 74.659 |
-| Stadskanaal | € 76.185 | € 152.369 | € 76.185 |
-| Stede Broec |   |   | € 52.690 |
-| Steenwijkerland | € 89.691 | € 179.381 | € 89.691 |
-| Stein |   |   | € 12.500 |
-| Terneuzen |   |   | € 30.000 |
-| Tholen |   |   | € 60.310 |
-| Tilburg |   |   | € 205.630 |
-| Twenterand | € 50.000 | € 100.000 | € 50.000 |
-| Utrecht |   |   | € 249.201 |
-| Vaals |   |   | € 29.877 |
-| Veendam |   |   | € 66.234 |
-| Venlo | € 147.091 | € 294.182 | € 147.091 |
-| Vlaardingen |   |   | € 126.461 |
-| Vlagtwedde |   |   | € 37.500 |
-| Vlieland | € 3.411 | € 6.822 | € 3.411 |
-| Vlissingen |   |   | € 92.535 |
-| Wageningen |   |   | € 78.520 |
-| Weststellingwerf |   |   | € 61.000 |
-| Winschoten | € 46.952 | € 93.904 |   |
-| Wunseradiel | € 33.794 | € 67.588 | € 33.794 |
-| Zaanstad |   |   | € 175.701 |
-| **Totaal** |   |   | **€ 8.666.934** |
+Vervallen
 
-## Bijlage 14-3. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-01-01&g=2015-01-01). National actieplan sport en bewegen
+## Bijlage 14-3. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-03-21&g=2015-03-21). National actieplan sport en bewegen
 
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Achtkarspelen | € 132.572 |
-| Alkmaar | € 298.398 |
-| Almelo | € 254.192 |
-| Appingedam | € 68.748 |
-| Assen | € 238.782 |
-| Bedum | € 62.404 |
-| Bergen op Zoom | € 240.880 |
-| Borger-Odoorn | € 125.188 |
-| Coevorden | € 140.000 |
-| De Marne | € 63.016 |
-| Den Helder | € 15.000 |
-| Deventer | € 303.234 |
-| Doesburg | € 66.372 |
-| Dordrecht | € 328.541 |
-| Franekeradeel | € 51.250 |
-| Geertruidenberg | € 5.000 |
-| Goes | € 100.000 |
-| Groningen | € 391.613 |
-| Hardenberg | € 224.315 |
-| Harlingen | € 81.860 |
-| Heerenveen | € 178.328 |
-| Heerlen | € 291.074 |
-| Hengelo | € 187.000 |
-| Hoorn | € 246.348 |
-| Landgraaf | € 166.598 |
-| Leek | € 96.760 |
-| Leeuwarden | € 82.500 |
-| Lelystad | € 254.504 |
-| Lemsterland | € 73.736 |
-| Meppel | € 143.261 |
-| Middelburg | € 191.801 |
-| Neder-Betuwe | € 109.236 |
-| Noord-Beveland | € 43.602 |
-| Ooststellingwerf | € 124.896 |
-| Opmeer | € 64.848 |
-| Opsterland | € 188.332 |
-| Peel en Maas | € 98.184 |
-| Pekela | € 73.216 |
-| Reusel-De Mierden | € 15.000 |
-| Schiedam | € 260.324 |
-| ’s-Gravenhage | € 683.941 |
-| Sittard-Geleen | € 302.490 |
-| Skarsterlan | € 128.204 |
-| Smallingerland | € 80.000 |
-| Stede Broec | € 105.380 |
-| Stein | € 25.000 |
-| Sudwest Fryslan | € 149.318 |
-| Terneuzen | € 60.000 |
-| Tholen | € 120.620 |
-| Utrecht | € 498.402 |
-| Vaals | € 59.754 |
-| Veendam | € 132.468 |
-| Vlaardingen | € 252.922 |
-| Vlagtwedde | € 75.000 |
-| Vlissingen | € 185.069 |
-| Wageningen | € 157.040 |
-| Weststellingwerf | € 122.000 |
-| Zaanstad | € 351.402 |
-| **Totaal** | **€ 9.569.923** |
+Vervallen
 
-## Bijlage 14-4. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-01-01&g=2015-01-01). Nationaal actieplan sport en bewegen
+## Bijlage 14-4. , genoemd in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=14&z=2015-03-21&g=2015-03-21). Nationaal actieplan sport en bewegen
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Achtkarspelen | € 66.286 |   |
-| Alkmaar | € 149.199 |   |
-| Almelo | € 127.096 |   |
-| Appingedam | € 34.374 |   |
-| Assen | € 119.391 |   |
-| Bedum | € 31.202 |   |
-| Bergen op Zoom | € 120.440 |   |
-| Borger-Odoorn | € 62.594 |   |
-| Coevorden | € 70.000 |   |
-| De Marne | € 31.508 |   |
-| Den Helder | € 7.500 |   |
-| Deventer | € 151.617 |   |
-| Doesburg | € 33.186 |   |
-| Dordrecht | € 164.271 |   |
-| Franekeradeel | € 25.625 |   |
-| Geertruidenberg | € 2.500 |   |
-| Goes | € 50.000 |   |
-| Groningen | € 195.807 |   |
-| Hardenberg | € 112.158 |   |
-| Harlingen | € 40.930 |   |
-| Heerenveen | € 89.164 |   |
-| Heerlen | € 145.537 |   |
-| Hengelo O | € 93.500 |   |
-| Hoorn | € 123.174 |   |
-| Landgraaf | € 83.299 |   |
-| Leek | € 48.380 |   |
-| Leeuwarden | € 41.250 |   |
-| Lelystad | € 127.252 |   |
-| Lemsterland | € 36.868 |   |
-| Meppel | € 71.631 |   |
-| Neder-Betuwe | € 54.618 |   |
-| Noord-Beveland | € 21.801 |   |
-| Ooststellingwerf | € 62.448 |   |
-| Opmeer | € 32.424 |   |
-| Opsterland | € 94.166 |   |
-| Peel en Maas | € 49.092 |   |
-| Pekela | € 36.608 |   |
-| Reusel-De Mierden | € 7.500 |   |
-| Schiedam | € 130.162 |   |
-| ’s-Gravenhage | € 341.971 |   |
-| Sittard-Geleen | € 151.245 |   |
-| Skarsterlan | € 64.102 |   |
-| Smallingerland | € 40.000 |   |
-| Stede Broec | € 52.690 |   |
-| Stein | € 12.500 |   |
-| Sudwest Fryslan | € 74.659 |   |
-| Terneuzen | € 30.000 |   |
-| Tholen | € 60.310 |   |
-| Utrecht | € 249.201 |   |
-| Vaals | € 29.877 |   |
-| Veendam | € 66.234 |   |
-| Vlaardingen | € 126.461 |   |
-| Vlagtwedde | € 37.500 |   |
-| Vlissingen | € 92.535 |   |
-| Wageningen | € 78.520 |   |
-| Weststellingwerf | € 61.000 |   |
-| Zaanstad | € 175.701 |   |
-| Totaal | € 4.689.064 |   |
+Vervallen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 29xx. Maatschappelijke opvang
+
+Voor de maatschappelijke opvang ontvangen de gemeenten:
+
+- a. Met ingang van 2010 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in [bijlage 29xx-a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-a&z=2015-03-21&g=2015-03-21) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering.
+
+- b. In het jaar 2010 de in [bijlage 29xx-b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-b&z=2015-03-21&g=2015-03-21) genoemde bedragen.
+
+- c. De gemeenten, genoemd in [bijlage 29xx-c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-c&z=2015-03-21&g=2015-03-21), ontvangen voor het jaar 2011 op basis van de in onderdeel a genoemde maatstaven het in die bijlage genoemde bedrag.
+
+#### § 3. Uitkeringen aan zowel gemeenten als provincies
+
+#### § 3. Uitkeringen aan zowel gemeenten als provincies
 
 ## Bijlage 15. , genoemd in artikel 15 Opvoeden in de buurt
 
 Vervallen
 
-## Bijlage 16. genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01) Participatie van vrouwen uit etnische minderheden
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2i. Externe veiligheid
+
+1. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 2i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2i&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2i-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2i-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2i-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2i-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 2j. Innovatie energiebesparing gebouwde omgeving
+
+Vervallen
+
+##### Artikel 2k. Muskusrattenbestrijding
+
+Vervallen
+
+##### Artikel 2l. Regionale uitvoeringsdiensten (RUD)
+
+Vervallen
+
+##### Artikel 2m. Uitname provinciefonds
+
+Vervallen
+
+##### Artikel 2n. Waddenfonds
+
+1. In het jaar 2011 ontvangt de provincie Fryslân € 33.000.000.
+
+2. In het jaar 2012 ontvangt de provincie Fryslân € 95.369.000.
+
+3. In het jaar 2013 ontvangt de provincie Fryslân € 36.824.000.
+
+##### Artikel 2o. Werkmaatschappij Markermeer-IJmeer
+
+Vervallen
+
+#### § 2. Uitkeringen aan gemeenten
+
+##### Artikel 29oo. Bestaand Rotterdams gebied
+
+1. In 2011 ontvangt de gemeente Rotterdam € 2.527.000.
+
+2. In het jaar 2012 ontvangt de gemeente Rotterdam € 2.527.000.
+
+3. In het jaar 2013 ontvangt de gemeente Rotterdam € 2.527.000.
+
+##### Artikel 29pp. Eigen kracht
+
+1. In 2011 ontvangen de gemeenten, genoemd in [bijlage 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29pp&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29pp-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29pp-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29pp-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29pp-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 29qq. Nazorg ex-gedetineerden
+
+Vervallen
+
+##### Artikel 29rr. Onderwijsexperiment Zwanenbos
+
+Vervallen
+
+##### Artikel 31h. Stimuleringsregeling oversampling WoON
+
+Vervallen
+
+##### Artikel 31i. Investeringsbudget stedelijke vernieuwing (ISV)
+
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31i&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31i-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31i-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de gemeenten en provincies, genoemd in [bijlage 31i-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31i-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 31j. Nationale gebiedsontwikkelingen
+
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31j&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31j-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31j-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de gemeenten en provincies, genoemd in [bijlage 31j-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31j-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 31k. Green Deal
+
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31k&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31k-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31k-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de gemeenten en provincies, genoemd in [bijlage 31k-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31k-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 31l. Pieken in de Delta
+
+Vervallen
+
+##### Artikel 31m. Sterke regio’s
+
+1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31m&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 31m-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31m-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+3. In het jaar 2013 ontvangen de gemeente en provincies, genoemd in [bijlage 31m-3](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31m-3&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+#### § 4. Slotbepalingen
+
+## Bijlage 16. genoemd in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=16&z=2015-03-21&g=2015-03-21) Participatie van vrouwen uit etnische minderheden
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
 | --- | --- | --- | --- | --- |
@@ -9920,7 +10077,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 18. genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=18&z=2015-01-01&g=2015-01-01). Pilot gemengde scholen
+## Bijlage 18. genoemd in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=18&z=2015-03-21&g=2015-03-21). Pilot gemengde scholen
 
 | **Gemeente** | **Uitkering 2009** | **Uitkering 2010** | **Uitkering 2011** |
 | --- | --- | --- | --- |
@@ -9942,7 +10099,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 20. genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2015-01-01&g=2015-01-01). Polarisatie en radicalisering
+## Bijlage 20. genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2015-03-21&g=2015-03-21). Polarisatie en radicalisering
 
 | **Gemeente** | **Uitkering 2009** | **Uitkering 2010** | **Uitkering 2011** |
 | --- | --- | --- | --- |
@@ -9972,7 +10129,7 @@ Vervallen
 | Zoetermeer | € 36.700 | € 27.500 | € 14.500 |
 | **Totaal** | **€ 2.982.905** | **€ 842.250** | **€ 63.500** |
 
-## Bijlage 20a. genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2015-01-01&g=2015-01-01). Polarisatie en radicalisering
+## Bijlage 20a. genoemd in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=20&z=2015-03-21&g=2015-03-21). Polarisatie en radicalisering
 
 | **Gemeente** | **Uitkering 2010** | **Uitkering 2011** |
 | --- | --- | --- |
@@ -10002,7 +10159,7 @@ Vervallen
 | Zoetermeer | € 27.500 | € 14.500 |
 | **Totaal** | **€ 3.882.250** | **€ 638.500** |
 
-## Bijlage 21. genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=21&z=2015-01-01&g=2015-01-01) Regionale fraudeplatforms
+## Bijlage 21. genoemd in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=21&z=2015-03-21&g=2015-03-21) Regionale fraudeplatforms
 
 Gemeente
 
@@ -10028,238 +10185,15 @@ Utrecht
 
 Vervallen
 
-## Bijlage 23. bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2015-01-01&g=2015-01-01) Taalcoaches
+## Bijlage 23. bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2015-03-21&g=2015-03-21) Taalcoaches
 
 Vervallen
 
-## Bijlage 23a. , genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2015-01-01&g=2015-01-01). Taalcoaches
+## Bijlage 23a. , genoemd in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=23&z=2015-03-21&g=2015-03-21). Taalcoaches
 
-| Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 | Uitkering 2011 |
-| --- | --- | --- | --- | --- |
-| Aa en Hunze |   | € 11.250 | € 6.750 | € 4.500 |
-| Aalsmeer |   | € 22.500 | € 13.500 | € 9.000 |
-| Alkmaar | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Almelo | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Almere | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Alphen aan den Rijn | € 112.500 | € 67.500 | € 22.500 | € 22.500 |
-| Amersfoort | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Amstelveen | € 90.000 | € 54.000 | € 18.000 | € 18.000 |
-| Amsterdam | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Apeldoorn | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Arnhem | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Assen |   | € 11.250 | € 6.750 | € 4.500 |
-| Asten |   | € 11.250 | € 6.750 | € 4.500 |
-| Baarn |   | € 22.500 | € 13.500 | € 9.000 |
-| Barneveld |   | € 22.500 | € 13.500 | € 9.000 |
-| Beesel |   | € 11.250 | € 6.750 | € 4.500 |
-| Bellingwedde |   | € 11.250 | € 6.750 | € 4.500 |
-| Bergeijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Bergen op Zoom |   | € 37.500 | € 22.500 | € 15.000 |
-| Berkelland |   | € 22.500 | € 13.500 | € 9.000 |
-| Bernheze |   | € 11.250 | € 6.750 | € 4.500 |
-| Best |   | € 11.250 | € 6.750 | € 4.500 |
-| Beuningen |   | € 11.250 | € 6.750 | € 4.500 |
-| Beverwijk |   | € 22.500 | € 13.500 | € 9.000 |
-| Bladel |   | € 11.250 | € 6.750 | € 4.500 |
-| Bloemendaal |   | € 11.250 | € 6.750 | € 4.500 |
-| Bodegraven |   | € 11.250 | € 6.750 |   |
-| Bodegraven-Reeuwijk |   |   |   | € 4.500 |
-| Borger-Odoorn |   | € 11.250 | € 6.750 | € 4.500 |
-| Borsele |   | € 11.250 | € 6.750 | € 4.500 |
-| Boxmeer |   | € 11.250 | € 6.750 | € 4.500 |
-| Breda | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Bronckhorst |   | € 11.250 | € 6.750 | € 4.500 |
-| Brummen |   | € 11.250 | € 6.750 | € 4.500 |
-| Brunssum |   | € 22.500 | € 13.500 | € 9.000 |
-| Bunnik |   | € 11.250 | € 6.750 | € 4.500 |
-| Buren |   | € 11.250 | € 6.750 | € 4.500 |
-| Capelle aan den IJssel | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Castricum |   | € 11.250 | € 6.750 | € 4.500 |
-| Coevorden |   | € 11.250 | € 6.750 | € 4.500 |
-| Cuijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Culemborg |   | € 11.250 | € 6.750 | € 4.500 |
-| Dalfsen |   | € 11.250 | € 6.750 | € 4.500 |
-| Dantumadiel |   | € 22.500 | € 13.500 | € 9.000 |
-| De Bilt |   | € 11.250 | € 6.750 | € 4.500 |
-| De Ronde Venen |   | € 11.250 | € 6.750 | € 4.500 |
-| Delft | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Delfzijl |   | € 37.500 | € 22.500 | € 15.000 |
-| Den Helder |   | € 37.500 | € 22.500 | € 15.000 |
-| Deurne |   | € 22.500 | € 13.500 | € 9.000 |
-| Deventer | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Doesburg |   | € 11.250 | € 6.750 | € 4.500 |
-| Doetinchem |   | € 22.500 | € 13.500 | € 9.000 |
-| Dongeradeel |   | € 22.500 | € 13.500 | € 9.000 |
-| Dordrecht | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Drechterland |   | € 11.250 | € 6.750 | € 4.500 |
-| Drimmelen |   | € 11.250 | € 6.750 | € 4.500 |
-| Dronten |   | € 37.500 | € 22.500 | € 15.000 |
-| Duiven |   | € 22.500 | € 13.500 | € 9.000 |
-| Echt-Susteren |   | € 11.250 | € 6.750 | € 4.500 |
-| Ede | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Eersel |   | € 11.250 | € 6.750 | € 4.500 |
-| Eindhoven | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Emmen |   | € 37.500 | € 22.500 | € 15.000 |
-| Enschede | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Epe |   | € 11.250 | € 6.750 | € 4.500 |
-| Ermelo |   | € 22.500 | € 13.500 | € 9.000 |
-| Etten-Leur |   | € 11.250 | € 6.750 | € 4.500 |
-| Geertruidenberg |   | € 11.250 | € 6.750 | € 4.500 |
-| Geldermalsen |   | € 11.250 | € 6.750 | € 4.500 |
-| Geldrop-Mierlo |   | € 11.250 | € 6.750 | € 4.500 |
-| Gemert-Bakel |   | € 11.250 | € 6.750 | € 4.500 |
-| Gilze en Rijen |   | € 22.500 | € 13.500 | € 9.000 |
-| Goes |   | € 22.500 | € 13.500 | € 9.000 |
-| Goirle |   | € 11.250 | € 6.750 | € 4.500 |
-| Gouda | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Groningen |   | € 75.000 | € 45.000 | € 30.000 |
-| Haaksbergen |   | € 22.500 | € 13.500 | € 9.000 |
-| Haarlem | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Haarlemmermeer | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Halderberge |   | € 22.500 | € 13.500 | € 9.000 |
-| Harderwijk |   | € 37.500 | € 22.500 | € 15.000 |
-| Hattem |   | € 11.250 | € 6.750 | € 4.500 |
-| Heemskerk |   | € 22.500 | € 13.500 | € 9.000 |
-| Heemstede |   | € 11.250 | € 6.750 | € 4.500 |
-| Heerde |   | € 11.250 | € 6.750 | € 4.500 |
-| Heerlen | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Helden |   | € 22.500 |   |   |
-| Hellendoorn |   | € 11.250 | € 6.750 | € 4.500 |
-| Hellevoetsluis |   | € 22.500 | € 13.500 | € 9.000 |
-| Helmond | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Hengelo | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Heusden |   | € 37.500 | € 22.500 | € 15.000 |
-| Hillegom |   | € 37.500 | € 22.500 | € 15.000 |
-| Hilversum | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Hoogeveen |   | € 11.250 | € 6.750 | € 4.500 |
-| Hoogezand-Sappemeer |   | € 37.500 | € 22.500 | € 15.000 |
-| Hoorn | € 56.250 | € 33.750 | € 11.250 | € 11.250 |
-| Hulst |   | € 11.250 | € 6.750 | € 4.500 |
-| Kaag en Braassem |   | € 11.250 | € 6.750 | € 4.500 |
-| Kampen |   | € 11.250 | € 6.750 | € 4.500 |
-| Kerkrade |   | € 22.500 | € 13.500 | € 9.000 |
-| Landgraaf |   | € 37.500 | € 22.500 | € 15.000 |
-| Langedijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Leek |   | € 22.500 | € 13.500 | € 9.000 |
-| Leeuwarden | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Leiden | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Leiderdorp |   | € 11.250 | € 6.750 | € 4.500 |
-| Leidschendam-Voorburg | € 56.250 | € 33.750 | € 11.250 | € 11.250 |
-| Lelystad | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Leudal |   | € 22.500 | € 13.500 | € 9.000 |
-| Leusden |   | € 11.250 | € 6.750 | € 4.500 |
-| Lingewaard |   | € 22.500 | € 13.500 | € 9.000 |
-| Loppersum |   | € 11.250 | € 6.750 | € 4.500 |
-| Maarssen |   | € 11.250 | € 6.750 |   |
-| Maasdriel |   | € 11.250 | € 6.750 | € 4.500 |
-| Maasgouw |   | € 11.250 | € 6.750 | € 4.500 |
-| Maassluis |   | € 22.500 | € 13.500 | € 9.000 |
-| Maastricht | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Menterwolde |   | € 11.250 | € 6.750 | € 4.500 |
-| Meppel |   | € 11.250 | € 6.750 | € 4.500 |
-| Middelburg |   | € 22.500 | € 13.500 | € 9.000 |
-| Midden Drenthe |   | € 11.250 | € 6.750 | € 4.500 |
-| Moerdijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Montferland |   | € 11.250 | € 6.750 | € 4.500 |
-| Neder-Betuwe |   | € 11.250 | € 6.750 | € 4.500 |
-| Nederweert |   | € 11.250 | € 6.750 | € 4.500 |
-| Neerijnen |   | € 11.250 | € 6.750 | € 4.500 |
-| Nieuwegein | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Nijkerk |   | € 11.250 | € 6.750 | € 4.500 |
-| Nijmegen | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Noordenveld |   | € 11.250 | € 6.750 | € 4.500 |
-| Oegstgeest |   | € 11.250 | € 6.750 | € 4.500 |
-| Oirschot |   | € 11.250 | € 6.750 | € 4.500 |
-| Oisterwijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Oldambt |   |   | € 20.250 | € 13.500 |
-| Oldenzaal |   | € 22.500 | € 13.500 | € 9.000 |
-| Ommen |   | € 11.250 | € 6.750 | € 4.500 |
-| Oosterhout |   | € 11.250 | € 6.750 | € 4.500 |
-| Oss | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Ouder-Amstel |   | € 11.250 | € 6.750 | € 4.500 |
-| Overbetuwe |   | € 22.500 | € 13.500 | € 9.000 |
-| Peel en Maas |   |   | € 13.500 | € 9.000 |
-| Purmerend | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Raalte |   | € 22.500 | € 13.500 | € 9.000 |
-| Reiderland |   | € 11.250 |   |   |
-| Renkum |   | € 22.500 | € 13.500 | € 9.000 |
-| Reusel-De Mierden |   | € 11.250 | € 6.750 | € 4.500 |
-| Rheden |   | € 22.500 | € 13.500 | € 9.000 |
-| Rhenen |   | € 11.250 | € 6.750 | € 4.500 |
-| Ridderkerk |   | € 22.500 | € 13.500 | € 9.000 |
-| Rijnwaarden |   | € 11.250 | € 6.750 | € 4.500 |
-| Rijssen-Holten |   | € 22.500 | € 13.500 | € 9.000 |
-| Rijswijk |   | € 22.500 | € 13.500 | € 9.000 |
-| Roermond | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Roosendaal | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Rotterdam | € 75.000 | € 45.000 | € 15.000 | € 24.000 |
-| Rozenburg |   | € 22.500 | € 13.500 |   |
-| Scheemda |   | € 11.250 |   |   |
-| Schiedam | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Schijndel |   | € 11.250 | € 6.750 | € 4.500 |
-| Schoonhoven |   | € 11.250 | € 6.750 | € 4.500 |
-| Schouwen-Duiveland |   | € 22.500 | € 13.500 | € 9.000 |
-| ’s-Gravenhage | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| ’s-Hertogenbosch | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Sint-Michielsgestel |   | € 11.250 | € 6.750 | € 4.500 |
-| Sittard-Geleen |   | € 11.250 | € 6.750 | € 4.500 |
-| Smallingerland |   | € 37.500 | € 22.500 | € 15.000 |
-| Soest |   | € 37.500 | € 22.500 | € 15.000 |
-| Someren |   | € 11.250 | € 6.750 | € 4.500 |
-| Spijkenisse | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Staphorst |   | € 11.250 | € 6.750 | € 4.500 |
-| Steenwijkerland |   | € 22.500 | € 13.500 | € 9.000 |
-| Stichtse Vecht |   |   |   | € 4.500 |
-| Terneuzen |   | € 37.500 | € 22.500 | € 15.000 |
-| Tiel |   | € 22.500 | € 13.500 | € 9.000 |
-| Tilburg | € 112.500 | € 67.500 | € 22.500 | € 22.500 |
-| Tynaarlo |   | € 11.250 | € 6.750 | € 4.500 |
-| Tytsjerksteradiel |   | € 11.250 | € 6.750 | € 4.500 |
-| Uden |   | € 22.500 | € 13.500 | € 9.000 |
-| Uithoorn |   | € 22.500 | € 13.500 | € 9.000 |
-| Utrecht | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Utrechtse Heuvelrug |   | € 22.500 | € 13.500 | € 9.000 |
-| Valkenburg aan de Geul |   | € 11.250 | € 6.750 | € 4.500 |
-| Veendam |   | € 11.250 | € 6.750 | € 4.500 |
-| Veenendaal |   | € 37.500 | € 22.500 | € 15.000 |
-| Veghel |   | € 22.500 | € 13.500 | € 9.000 |
-| Velsen |   | € 11.250 | € 6.750 | € 4.500 |
-| Venlo | € 168.750 | € 101.250 | € 33.750 | € 33.750 |
-| Venray |   | € 11.250 | € 6.750 | € 4.500 |
-| Vianen |   | € 11.250 | € 6.750 | € 4.500 |
-| Vlaardingen | € 37.500 | € 22.500 | € 7.500 | € 7.500 |
-| Vlagtwedde |   | € 22.500 | € 13.500 | € 9.000 |
-| Vlist |   | € 11.250 | € 6.750 | € 4.500 |
-| Voorst |   | € 11.250 | € 6.750 | € 4.500 |
-| Vught |   | € 11.250 | € 6.750 | € 4.500 |
-| Waalwijk |   | € 11.250 | € 6.750 | € 4.500 |
-| Waddinxveen |   | € 22.500 | € 13.500 | € 9.000 |
-| Wageningen |   | € 22.500 | € 13.500 | € 9.000 |
-| Weert |   | € 37.500 | € 22.500 | € 15.000 |
-| Werkendam |   | € 45.000 | € 27.000 | € 18.000 |
-| West Maas en Waal |   | € 11.250 | € 6.750 | € 4.500 |
-| Westervoort |   | € 22.500 | € 13.500 | € 9.000 |
-| Westland |   | € 22.500 | € 13.500 | € 9.000 |
-| Westvoorne |   | € 11.250 | € 6.750 | € 4.500 |
-| Wijchen |   | € 11.250 | € 6.750 | € 4.500 |
-| Wijdemeren |   | € 11.250 | € 6.750 | € 4.500 |
-| Wijk bij Duurstede |   | € 11.250 | € 6.750 | € 4.500 |
-| Winschoten |   | € 11.250 |   |   |
-| Winterswijk |   | € 22.500 | € 13.500 | € 9.000 |
-| Woensdrecht |   | € 11.250 | € 6.750 | € 4.500 |
-| Woerden |   | € 11.250 | € 6.750 | € 4.500 |
-| Zaanstad | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Zaltbommel |   | € 11.250 | € 6.750 | € 4.500 |
-| Zeewolde |   | € 11.250 | € 6.750 | € 4.500 |
-| Zeist |   | € 22.500 | € 13.500 | € 9.000 |
-| Zevenaar |   | € 37.500 | € 22.500 | € 15.000 |
-| Zijpe |   | € 75.000 | € 45.000 | € 30.000 |
-| Zoetermeer | € 75.000 | € 45.000 | € 15.000 | € 15.000 |
-| Zutphen |   | € 11.250 | € 6.750 | € 4.500 |
-| Zwolle |   | € 37.500 | € 22.500 | € 15.000 |
-| Totaal | € 4.215.000 | € 5.589.000 | € 2.679.000 | € 2.067.000 |
+Vervallen
 
-## Bijlage 24. genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=24&z=2015-01-01&g=2015-01-01) Tijdbeleid
+## Bijlage 24. genoemd in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=24&z=2015-03-21&g=2015-03-21) Tijdbeleid
 
 Gemeente
 
@@ -10279,7 +10213,7 @@ Maarssen
 
 Zaanstad
 
-## Bijlage 25. genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=25&z=2015-01-01&g=2015-01-01) TSIOC
+## Bijlage 25. genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=25&z=2015-03-21&g=2015-03-21) TSIOC
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -10420,53 +10354,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 27b. , genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01): Uitvoering [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+## Bijlage 27b. , genoemd in [artikel 27, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21): Uitvoering [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
-| Maatstaf | Definitie verdeelmaatstaf | Bron | Peildatum of tijdsaanduiding (indien deze anders luidt dan 1 januari van het uitkeringsjaar) |
-| --- | --- | --- | --- |
-| 1. Inwoners. | Het aantal inwoners in de gemeente. | CBS |   |
-| 2. Inwoners tot 20 jaar. | Het aantal inwoners in de gemeente jonger dan 20 jaar. | CBS |   |
-| 3. Inwoners tot 65 jaar. | Het aantal inwoners in de gemeente jonger dan 65 jaar. | CBS |   |
-| 4. Inwoners 65 tot 75 jaar. | Het aantal inwoners in de gemeente ouder dan 64 jaar en jonger dan 75 jaar. | CBS |   |
-| 5. Inwoners 75 tot 85 jaar | Het aantal inwoners in de gemeente ouder dan 74 en jonger dan 85 jaar. | CBS |   |
-| 6. Inwoners 85 jaar en ouder. | Het aantal inwoners in de gemeente ouder dan 84 jaar. | CBS |   |
-| 7. Eenpersoonshuishoudens 65 tot 75 jaar. | Het aantal particuliere huishoudens in de gemeente bestaande uit één persoon die ouder is dan 64 jaar en jonger dan 75 jaar. | CBS |   |
-| 8. Eenpersoonshuishoudens 75 tot 85 jaar. | Het aantal particuliere huishoudens in de gemeente bestaande uit één persoon die ouder is dan 74 jaar en jonger dan 85 jaar. | CBS |   |
-| 9. Eenpersoonshuishoudens 85 jaar en ouder. | Het aantal particuliere huishoudens in de gemeente bestaande uit één persoon die ouder is dan 84 jaar. | CBS |   |
-| 10. Huishoudens met een laag inkomen | Het aantal huishoudens in de gemeente met een inkomen hoger dan inkomensgrens S en niet hoger dan inkomensgrens T. Inkomensgrens S wordt zodanig bepaald dat juist bij 10% van het landelijke aantal huishoudens het inkomen onder de grens ligt. Inkomensgrens T wordt zodanig bepaald dat juist bij 40% van het landelijk aantal huishoudens het inkomen onder de grens ligt. | CBS | De meest recente op het uitkeringsjaar of een daarvóór gelegen tijdstip betrekking hebbende inkomensstatistiek, voor zover deze is bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar. |
-| 11. Huishoudens met een laag inkomen met drempel. | Het aantal huishoudens in de gemeente volgens maatstaf 10, voor zover dit aantal meer is dan 10% van het aantal woonruimten in de gemeente. | CBS | Zie maatstaf 10. |
-| 12. Woonruimten. | Het aantal woonruimten volgens de administratieve woningtelling van het CBS: | CBS |   |
-|   | a. woningen (zelfstandige woonruimten); |   |   |
-|   | b. wooneenheden (woonruimten met voor het wonen kenmerkende gemeenschappelijke voorzieningen, zoals studenten- en verpleegsterflats); |   |   |
-|   | c. recreatiewoningen (woonruimten bestemd voor recreatieve doeleinden); |   |   |
-|   | d. bijzondere woongebouwen (woonruimten bestemd voor de woongebouwen huisvesting van institutionele huishoudens zoals bejaardenoorden, verpleeghuizen en gezinsvervangende tehuizen). |   |   |
-|   | Van de bijzondere woongebouwen wordt de capaciteit vastgesteld. De capaciteit is te omschrijven als het totaal aantal leden van het institutionele huishouden dat in het bijzondere woongebouw gehuisvest kan c.q. mag worden. Deze capaciteit is bijvoorbeeld het aantal bedden in een bejaardenoord, het aantal pupillen in een gezinsvervangend tehuis en het aantal cellen in een gevangenis. |   |   |
-| 13. Huishoudens met referentiepersoon ouder dan 64 jaar afhankelijk van het aantal huishoudens met een laag inkomen. | De uitkomst van de berekening: (X/Y) * Z = maatstaf 13. X = De uitkomst van maatstaf 11 Y = De uitkomst van maatstaf 12 Z = som van a, b en c | CBS |   |
-|   | a. aantal particuliere huishoudens waarvan de referentiepersoon ouder is dan 64 jaar en jonger dan 75 jaar: gewogen met factor 1; |   |   |
-|   | b. aantal particuliere huishoudens waarvan de referentiepersoon ouder is dan 74 jaar en jonger dan 85 jaar: gewogen met factor 4; |   |   |
-|   | c. aantal particuliere huishoudens waarvan de referentiepersoon ouder is dan 84 jaar:gewogen met factor 7. |   |   |
-|   | De referentiepersoon wordt als volgt bepaald: |   |   |
-|   | • als er een paar is van ongelijk geslacht: de man; |   |   |
-|   | • als het paar van gelijk geslacht is: de oudste van het paar; |   |   |
-|   | • als het een een-ouder-huishouden is: de ouder; |   |   |
-|   | • in alle andere huishoudens: de oudste man, of, als deze ontbreekt, de oudste vrouw. |   |   |
-| 14. Uitkeringsontvangers. | Het aantal personen jonger dan 65 jaar met een uitkering volgens: |   | 31 december voorafgaand aan het Uitkeringsjaar |
-|   | 1. Het aantal personen met een loonbetaling op grond van de [Wet Sociale Werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (tot en met 2008). Sinds 2009 is volgende definitie van toepassing: | 1. Sociale Werkplaatsen (2008)/CBS (sinds 2009). |   |
-|   | Het aantal volgens de Wet sociale werkvoorziening (Wsw) geïndiceerde inwoners in een gemeente die een dienstbetrekking als bedoeld in [artikel 1 van de Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=1) hebben. De volgens de Wsw geïndiceerde personen die op een wachtlijst staan en beschikbaar zijn om een dienstbetrekking te aanvaarden worden meegeteld | 2a: het Algemeen burgerlijke pensioenfonds; |   |
-|   | 2. het totaal aantal personen jonger dan 65 jaar dat een periodieke uitkering ontvangt op grond van: | 2b-2e: het Uitvoeringsinstituut Werknemers Verzekeringen (UWV); |   |
-|   | a. de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen; | 2b-2e: het Uitvoeringsinstituut Werknemers Verzekeringen (UWV); |   |
-|   | b. de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656); | 2b-2e: het Uitvoeringsinstituut Werknemers Verzekeringen (UWV); |   |
-|   | c. de [Wet arbeidsongeschiktheidsverzekering jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008656); | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg. |   |
-|   | d. de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524); | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg. |   |
-|   | e. de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057); | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg. |   |
-|   | f. het Reglement van het Algemeen Mijnwerkersfonds | 2f: het Algemeen Mijnwerkersfonds van de steenkolenmijnen in Limburg. |   |
-| 15. Minderheden. | Het aantal inwoners van de gemeente waarvan ten minste een ouder geboren is in Suriname, de Nederlandse Antillen, Aruba, Turkije of Marokko, alsmede het aantal vreemdelingen dat blijkens de basisregistratie personen rechtmatig verblijf heeft op grond van een verblijfsvergunning als bedoeld in [artikel 8, onderdeel c of d, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8). | CBS |   |
-| 16. Omgevingsadressendichtheid. | Het gemiddelde aantal adressen per vierkante km dat een adres binnen zijn omgeving heeft. Als omgeving van een adres wordt een cirkel aangehouden met een straal van 1 km rondom dat adres. Vervolgens vermenigvuldigd met het aantal woonruimten in de gemeente gedeeld door 1000. | CBS |   |
-| 17. Klantenpotentieel regionaal. | Het aantal potentiële regionale klanten van een woonkern is het aantal klanten dat een woonkern van een gemeente aantrekt uit alle woonkernen binnen een straal van 60 kilometer rondom de eigen woonkern, met inbegrip van die woonkern zelf. Verondersteld wordt dat de regionale aantrekkingskracht van een kern toeneemt met het kwadraat van het aantal inwoners van die kern en afneemt met het kwadraat van de afstand tot die kern. Het totaal aantal potentiële regionale klanten in Nederland is gelijk aan het aantal inwoners. | CBS |   |
-| 18. Gezondheidszorg bedden. | Het aantal bedden in de gemeente dat beschikbaar is voor geestelijke gezondheidszorg, verpleeghuiszorg en zwakzinnigenzorg, berekend naar rato van de volgende factoren: a. aantal bedden in de geestelijke gezondheidszorg: factor 26; b. aantal bedden voor verpleeghuiszorg: factor 132,3; c. aantal bedden voor zwakzinnigenzorg: factor 365. | VWS | Gebaseerd op peildatum die gebruikt werd bij de vaststelling van de specifieke uitkering BBAG 2004. |
-| 19. Vast bedrag. | Één eenheid voor iedere gemeente. |   |   |
+Vervallen
 
-## Bijlage 27c. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01). [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (WMO)
+## Bijlage 27c. genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
 
 | **Gemeente** | **Uitkering 2008** |
 | --- | --- |
@@ -10915,7 +10807,11 @@ Vervallen
 | Zwolle | € 9.739.700 |
 | **Totaal** | **€ 1.469.545.416** |
 
-## Bijlage 27e. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01). [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (WMO)
+## Bijlage 27d. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
+
+Vervallen
+
+## Bijlage 27e. genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
 
 | Gemeente | Uitkering 2009 |   |
 | --- | --- | --- |
@@ -11362,21 +11258,7 @@ Vervallen
 | Zwolle | € 10.374.119 |   |
 | Totaal | € 1.535.349.553 |   |
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 29xx. Maatschappelijke opvang
-
-Voor de maatschappelijke opvang ontvangen de gemeenten:
-
-- a. Met ingang van 2010 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in [bijlage 29xx-a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-a&z=2015-01-01&g=2015-01-01) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering.
-
-- b. In het jaar 2010 de in [bijlage 29xx-b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29xx-b&z=2015-01-01&g=2015-01-01) genoemde bedragen.
-
-#### § 3. Uitkeringen aan zowel gemeenten als provincies
-
-#### § 3. Uitkeringen aan zowel gemeenten als provincies
-
-## Bijlage 27f. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01). [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (WMO)
+## Bijlage 27f. genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
 
 | Gemeente | Uitkering 2010 |   |
 | --- | --- | --- |
@@ -11813,103 +11695,464 @@ Voor de maatschappelijke opvang ontvangen de gemeenten:
 | Zwolle | € 10.157.028 |   |
 | Totaal | € 1.540.963.628 |   |
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+## Bijlage 27g. genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
 
-##### Artikel 2i. Externe veiligheid
+| **Maatstaf** | **Omschrijving maatstaf** | **Bron** | **Peildatum (t = uitkerinfgsjaar)** |
+| --- | --- | --- | --- |
+| Inwoners | Inwoners op 1-1-uitkeringsjaar | CBS | 1 januari jaar t |
+| Jongeren | Inwoners jonger dan 20 jaar op 1-1- uitkeringsjaar | CBS | 1 januari jaar t |
+| Inwoners < 65 jaar | Inwoners jonger dan 65 jaar op 1-1- uitkeringsjaar | CBS | 1 januari jaar t |
+| inwoners 65 jaar en jonger dan 75 jaar | Inwoners 65 t/m 74 jaar op 1-1-uitkeringsjaar | CBS | 1 januari jaar t |
+| Inwoners 75 jaar en jonger dan 85 jaar | Inwoners 75 t/m 84 jaar op 1-1-uitkeringsjaar | CBS | 1 januari jaar t |
+| Inwoners 85 jaar en ouder | Inwoners 85 jaar of ouder op 1-1-uitkeringsjaar | CBS | 1 januari jaar t |
+| Eenpersoonshuishoudens van 65 t/m 74 jaar | Eenpersoonshuishouden (particuliere huishoudens) 65 t/m 74 jaar | CBS | 1 januari jaar t |
+| Eenpersoonshuishoudens van 75 t/m 84 jaar | Eenpersoonshuishouden (particuliere huishoudens) 75 t/m 84 jaar | CBS | 1 januari jaar t |
+| Eenpersoonshuishoudens van 85 jaar en ouder | Eenpersoonshuishouden (particuliere huishoudens) 85 jaar en ouder | CBS | 1 januari jaar t |
+| Huishoudens met laag inkomen | Maatstaf uit algemene uitkering gemeentefonds | CBS | Betaalmaand mei jaar t |
+| Woonruimten | Maatstaf uit algemene uitkering gemeentefonds | CBS | Betaalmaand mei jaar t |
+| Huishoudens met laag inkomen (drempel) | Maatstaf uit algemene uitkering gemeentefonds | CBS | Betaalmaand mei jaar t |
+| Particuliere huishoudens 65–74 jaar | Particuliere huishoudens, leeftijd van referentiepersoon 65 t/m 74 jaar | CBS | 1 januari jaar t |
+| Particuliere huishoudens 75–84 jaar | Particuliere huishoudens, leeftijd van referentiepersoon 75 t/m 84 jaar | CBS | 1 januari jaar t |
+| Particuliere huishoudens 85 jaar en ouder | Particuliere huishoudens, leeftijd van referentiepersoon 85 jaar en ouder | CBS | 1 januari jaar t |
+| Gemiddeld gestandaardiseerde inkomen (alle gemeenten) | Gemiddeld gestandaardiseerde inkomen (alle gemeenten) van alle particuliere huishoudens. | CBS, bewerkt door BZK | De meest recente op het uitkeringsjaar of een daarvóór gelegen jaar betrekking hebbende inkomensstatistiek, voor zover deze is bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar |
+| Gemiddeld gestandaardiseerde inkomen (gemeente) | Gemiddeld gestandaardiseerde inkomen (gemeente) van alle particuliere huishoudens. | CBS, bewerkt door BZK | De meest recente op het uitkeringsjaar of een daarvóór gelegen jaar betrekking hebbende inkomensstatistiek, voor zover deze is bekendgemaakt op uiterlijk 1 september van het tweede jaar volgend op het uitkeringsjaar |
+| Farmaceutische Kosten Groep (FKG) | Betreft het aantal verzekerden dat in het peiljaar een medicijn gebruikte dat voorkomt in het referentiebestand voor de Farmacie Kosten Groepen (FKG’s) in het kader van de risicoverevening Zorgverzekeringswet met een standaarddagdosering van meer dan 180, waarbij sprake is van meervoudige FKG’s. | Vektis | Declaratiegegevens t-2, FKG’s volgens risicovereveningsmodel jaar t |
+| Inwoners jaar t-2 | Inwoners jaar t-2 waarbij t het uitkeringsjaar is | CBS | 1 januari jaar t-2 |
+| Uitkeringsontvangers | Maatstaf uit algemene uitkering gemeentefonds | CBS, UWV, SZW, APG, Het Algemeen mijnwerkersfonds van de steenkolenmijnen Limburg | ultimo jaar t-1 |
+| Bijstandsontvangers | Maatstaf uit algemene uitkering gemeentefonds | CBS | ultimo jaar t-1 |
+| Minderheden | Maatstaf uit algemene uitkering gemeentefonds | CBS | 1 januari jaar t |
+| Omgevingsadressendichtheid | Maatstaf uit algemene uitkering gemeentefonds | CBS | 1 januari jaar t |
+| Klantenpotentieel regionaal | Maatstaf uit algemene uitkering gemeentefonds | CBS | 1 januari jaar t |
+| Aantal bedden in de geestelijke gezondheidszorg (GGZbed) | Aantal bedden in bepaalde Awbz-instellingen | VWS | 2004 |
+| Aantal bedden in het verpleeghuis (VPHbed) | Aantal bedden in bepaalde Awbz-instellingen | VWS | 2004 |
+| Aantal bedden in de zwakzinnigenzorg | Aantal bedden in bepaalde Awbz-instellingen | VWS | 2004 |
+| Vast bedrag voor iedere gemeente |   |   |   |
 
-1. In het jaar 2011 ontvangen de provincies, genoemd in [bijlage 2i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2i&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+## Bijlage 27h. genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-03-21&g=2015-03-21). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) (WMO)
 
-2. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2i-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2i-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
+| **Gemeente** | **Uitkering 2011** |
+| --- | --- |
+| Aa en Hunze | € 2.495.773 |
+| Aalburg | € 944.736 |
+| Aalsmeer | € 1.978.953 |
+| Aalten | € 2.854.306 |
+| Achtkarspelen | € 2.819.012 |
+| Alblasserdam | € 1.801.888 |
+| Albrandswaard | € 1.287.431 |
+| Alkmaar | € 8.422.411 |
+| Almelo | € 7.736.830 |
+| Almere | € 9.724.085 |
+| Alphen aan den Rijn | € 5.205.998 |
+| Alphen-Chaam | € 694.697 |
+| Ameland | € 275.800 |
+| Amersfoort | € 9.799.212 |
+| Amstelveen | € 6.919.795 |
+| Amsterdam | € 59.708.623 |
+| Anna Paulowna | € 955.233 |
+| Apeldoorn | € 14.938.932 |
+| Appingedam | € 1.810.550 |
+| Arnhem | € 13.037.310 |
+| Assen | € 6.083.751 |
+| Asten | € 1.187.966 |
+| Baarle-Nassau | € 715.996 |
+| Baarn | € 2.632.053 |
+| Barendrecht | € 2.508.241 |
+| Barneveld | € 3.221.763 |
+| Bedum | € 995.654 |
+| Beek | € 1.765.086 |
+| Beemster | € 654.534 |
+| Beesel | € 1.306.393 |
+| Bellingwedde | € 1.255.952 |
+| Bergambacht | € 668.183 |
+| Bergeijk | € 1.310.096 |
+| Bergen L | € 1.438.491 |
+| Bergen NH | € 2.705.267 |
+| Bergen op Zoom | € 6.907.603 |
+| Berkelland | € 4.325.903 |
+| Bernheze | € 2.165.356 |
+| Bernisse | € 877.894 |
+| Best | € 2.025.065 |
+| Beuningen | € 1.722.805 |
+| Beverwijk | € 4.014.376 |
+| Binnenmaas | € 2.177.776 |
+| Bladel | € 1.416.202 |
+| Blaricum | € 546.570 |
+| Bloemendaal | € 1.387.528 |
+| Boarnsterhim | € 1.470.523 |
+| Bodegraven-Reeuwijk | € 2.108.348 |
+| Boekel | € 657.725 |
+| Borger-Odoorn | € 2.660.144 |
+| Borne | € 1.843.275 |
+| Borsele | € 1.760.103 |
+| Boskoop | € 1.035.322 |
+| Boxmeer | € 2.356.631 |
+| Boxtel | € 2.536.733 |
+| Breda | € 15.209.484 |
+| Brielle | € 1.079.418 |
+| Bronckhorst | € 3.721.927 |
+| Brummen | € 2.124.598 |
+| Brunssum | € 4.116.440 |
+| Bunnik | € 947.292 |
+| Bunschoten | € 1.151.799 |
+| Buren | € 1.660.555 |
+| Bussum | € 2.918.093 |
+| Capelle aan den IJssel | € 5.698.384 |
+| Castricum | € 2.701.053 |
+| Coevorden | € 3.992.850 |
+| Cranendonck | € 1.706.405 |
+| Cromstrijen | € 1.015.577 |
+| Cuijk | € 2.154.857 |
+| Culemborg | € 1.951.856 |
+| Dalfsen | € 2.155.193 |
+| Dantumadiel | € 2.245.658 |
+| De Bilt | € 3.780.049 |
+| De Marne | € 1.215.222 |
+| De Ronde Venen | € 2.541.267 |
+| De Wolden | € 2.253.340 |
+| Delft | € 8.341.650 |
+| Delfzijl | € 3.518.725 |
+| Den Helder | € 6.008.553 |
+| Deurne | € 2.712.430 |
+| Deventer | € 8.928.795 |
+| Diemen | € 1.803.304 |
+| Dinkelland | € 2.043.494 |
+| Dirksland | € 795.248 |
+| Doesburg | € 1.299.031 |
+| Doetinchem | € 5.764.504 |
+| Dongen | € 2.210.973 |
+| Dongeradeel | € 2.643.878 |
+| Dordrecht | € 11.476.419 |
+| Drechterland | € 1.230.941 |
+| Drimmelen | € 2.208.003 |
+| Dronten | € 2.751.339 |
+| Druten | € 1.391.364 |
+| Duiven | € 1.703.915 |
+| Echt-Susteren | € 3.510.703 |
+| Edam-Volendam | € 1.809.883 |
+| Ede | € 8.476.571 |
+| Eemnes | € 512.396 |
+| Eemsmond | € 1.842.330 |
+| Eersel | € 1.474.894 |
+| Eijsden-Margraten | € 2.060.002 |
+| Eindhoven | € 21.953.334 |
+| Elburg | € 1.711.895 |
+| Emmen | € 13.264.918 |
+| Enkhuizen | € 1.673.754 |
+| Enschede | € 16.240.467 |
+| Epe | € 3.459.725 |
+| Ermelo | € 2.694.158 |
+| Etten-Leur | € 3.419.909 |
+| Ferwerderadiel | € 783.399 |
+| Franekeradeel | € 2.240.172 |
+| Gaasterlan-Sleat | € 1.041.001 |
+| Geertruidenberg | € 1.896.766 |
+| Geldermalsen | € 1.749.020 |
+| Geldrop-Mierlo | € 3.449.616 |
+| Gemert-Bakel | € 2.235.694 |
+| Gennep | € 1.861.281 |
+| Giessenlanden | € 847.427 |
+| Gilze en Rijen | € 2.069.793 |
+| Goedereede | € 989.448 |
+| Goes | € 4.177.776 |
+| Goirle | € 1.753.843 |
+| Gorinchem | € 3.395.001 |
+| Gouda | € 5.849.339 |
+| Graafstroom | € 492.978 |
+| Graft-De Rijp | € 426.732 |
+| Grave | € 1.095.482 |
+| Groesbeek | € 2.229.667 |
+| Groningen | € 14.875.939 |
+| Grootegast | € 1.056.137 |
+| Gulpen-Wittem | € 1.454.117 |
+| Haaksbergen | € 2.097.830 |
+| Haaren | € 1.151.732 |
+| Haarlem | € 13.371.665 |
+| Haarlemmerliede Spaarnw | € 363.713 |
+| Haarlemmermeer | € 7.979.542 |
+| Halderberge | € 2.860.952 |
+| Hardenberg | € 5.160.040 |
+| Harderwijk | € 3.823.227 |
+| Hardinxveld-Giessendam | € 1.511.297 |
+| Haren | € 1.742.952 |
+| Harenkarspel | € 1.055.840 |
+| Harlingen | € 1.761.272 |
+| Hattem | € 1.032.048 |
+| Heemskerk | € 3.665.319 |
+| Heemstede | € 2.406.285 |
+| Heerde | € 1.736.839 |
+| Heerenveen | € 4.717.919 |
+| Heerhugowaard | € 3.269.400 |
+| Heerlen | € 12.997.110 |
+| Heeze-Leende | € 1.290.195 |
+| Heiloo | € 1.827.338 |
+| Hellendoorn | € 3.204.224 |
+| Hellevoetsluis | € 2.956.852 |
+| Helmond | € 7.439.113 |
+| Hendrik-Ido-Ambacht | € 1.750.475 |
+| Hengelo O | € 8.074.115 |
+| Het Bildt | € 1.106.761 |
+| Heumen | € 1.123.897 |
+| Heusden | € 3.322.766 |
+| Hillegom | € 1.758.227 |
+| Hilvarenbeek | € 1.040.537 |
+| Hilversum | € 8.144.822 |
+| Hof van Twente | € 3.366.366 |
+| Hoogeveen | € 6.456.015 |
+| Hoogezand-Sappemeer | € 4.440.703 |
+| Hoorn | € 5.728.483 |
+| Horst aan de Maas | € 3.287.712 |
+| Houten | € 2.073.789 |
+| Huizen | € 3.312.802 |
+| Hulst | € 3.050.861 |
+| IJsselstein | € 2.196.112 |
+| Kaag en Braassem | € 1.637.886 |
+| Kampen | € 4.295.044 |
+| Kapelle | € 950.397 |
+| Katwijk | € 4.615.584 |
+| Kerkrade | € 6.693.881 |
+| Koggenland | € 1.372.899 |
+| Kollumerland en Nwkruisl | € 1.309.503 |
+| Korendijk | € 775.446 |
+| Krimpen aan den IJssel | € 2.345.943 |
+| Laarbeek | € 1.635.012 |
+| Landerd | € 1.097.957 |
+| Landgraaf | € 4.680.803 |
+| Landsmeer | € 778.186 |
+| Langedijk | € 1.485.728 |
+| Lansingerland | € 2.235.167 |
+| Laren | € 867.311 |
+| Leek | € 1.899.552 |
+| Leerdam | € 2.125.249 |
+| Leeuwarden | € 10.425.752 |
+| Leeuwarderadeel | € 1.021.355 |
+| Leiden | € 8.555.970 |
+| Leiderdorp | € 2.060.194 |
+| Leidschendam-Voorburg | € 7.341.598 |
+| Lelystad | € 5.267.004 |
+| Lemsterland | € 1.142.059 |
+| Leudal | € 2.865.850 |
+| Leusden | € 1.746.762 |
+| Liesveld | € 537.200 |
+| Lingewaal | € 703.101 |
+| Lingewaard | € 3.413.661 |
+| Lisse | € 1.895.893 |
+| Littenseradiel | € 760.778 |
+| Lochem | € 3.178.834 |
+| Loon op Zand | € 2.078.122 |
+| Lopik | € 788.737 |
+| Loppersum | € 1.083.897 |
+| Losser | € 2.342.694 |
+| Maasdonk | € 740.263 |
+| Maasdriel | € 1.799.402 |
+| Maasgouw | € 2.613.841 |
+| Maassluis | € 3.049.922 |
+| Maastricht | € 13.981.207 |
+| Marum | € 820.917 |
+| Medemblik | € 3.153.426 |
+| Meerssen | € 1.839.773 |
+| Menameradiel | € 1.200.392 |
+| Menterwolde | € 1.235.954 |
+| Meppel | € 3.108.857 |
+| Middelburg | € 4.833.790 |
+| Middelharnis | € 1.768.419 |
+| Midden Drenthe | € 3.284.309 |
+| Midden-Delfland | € 950.671 |
+| Mill en Sint Hubert | € 987.056 |
+| Millingen aan de Rijn | € 569.431 |
+| Moerdijk | € 3.080.008 |
+| Montferland | € 3.591.435 |
+| Montfoort U | € 711.413 |
+| Mook en Middelaar | € 601.894 |
+| Muiden | € 409.299 |
+| Naarden | € 1.181.922 |
+| Neder-Betuwe | € 1.743.494 |
+| Nederlek | € 1.232.895 |
+| Nederweert | € 1.405.464 |
+| Neerijnen | € 782.700 |
+| Niedorp | € 686.770 |
+| Nieuwegein | € 4.454.361 |
+| Nieuwkoop | € 1.722.171 |
+| Nieuw-Lekkerland | € 575.931 |
+| Nijkerk | € 2.731.065 |
+| Nijmegen | € 14.770.976 |
+| Noord-Beveland | € 770.318 |
+| Noordenveld | € 3.133.798 |
+| Noordoostpolder | € 3.530.329 |
+| Noordwijk | € 2.198.191 |
+| Noordwijkerhout | € 1.294.380 |
+| Nuenen c.a. | € 1.453.702 |
+| Nunspeet | € 2.321.033 |
+| Nuth | € 1.629.497 |
+| Oegstgeest | € 1.300.889 |
+| Oirschot | € 1.206.944 |
+| Oisterwijk | € 2.322.921 |
+| Oldambt | € 5.625.353 |
+| Oldebroek | € 1.722.630 |
+| Oldenzaal | € 3.198.681 |
+| Olst-Wijhe | € 1.536.160 |
+| Ommen | € 1.496.825 |
+| Onderbanken | € 867.328 |
+| Oost Gelre | € 2.628.482 |
+| Oosterhout | € 4.764.564 |
+| Oostflakkee | € 992.558 |
+| Ooststellingwerf | € 2.898.770 |
+| Oostzaan | € 655.277 |
+| Opmeer | € 838.594 |
+| Opsterland | € 2.751.352 |
+| Oss | € 7.760.501 |
+| Oud-Beijerland | € 1.708.369 |
+| Oude IJsselstreek | € 4.311.189 |
+| Ouder-Amstel | € 908.721 |
+| Ouderkerk | € 604.037 |
+| Oudewater | € 685.656 |
+| Overbetuwe | € 3.135.767 |
+| Papendrecht | € 2.541.883 |
+| Peel en Maas | € 3.333.377 |
+| Pekela | € 1.830.647 |
+| Pijnacker-Nootdorp | € 2.245.986 |
+| Purmerend | € 7.424.215 |
+| Putten | € 1.947.870 |
+| Raalte | € 3.136.066 |
+| Reimerswaal | € 1.919.690 |
+| Renkum | € 3.430.205 |
+| Renswoude | € 243.399 |
+| Reusel-De Mierden | € 894.410 |
+| Rheden | € 5.480.013 |
+| Rhenen | € 1.565.931 |
+| Ridderkerk | € 4.935.491 |
+| Rijnwaarden | € 964.117 |
+| Rijnwoude | € 1.181.632 |
+| Rijssen-Holten | € 3.127.030 |
+| Rijswijk | € 6.031.926 |
+| Roerdalen | € 2.000.513 |
+| Roermond | € 6.088.146 |
+| Roosendaal | € 7.647.974 |
+| Rotterdam | € 64.053.563 |
+| Rozendaal | € 86.017 |
+| Rucphen | € 2.439.084 |
+| Schagen (oud) | € 1.754.344 |
+| Schermer | € 266.095 |
+| Scherpenzeel | € 674.645 |
+| Schiedam | € 7.755.317 |
+| Schiermonnikoog | € 130.382 |
+| Schijndel | € 1.934.748 |
+| Schinnen | € 1.231.355 |
+| Schoonhoven | € 1.018.355 |
+| Schouwen-Duiveland | € 3.440.935 |
+| ’s-Gravenhage | € 43.951.670 |
+| ’s-Hertogenbosch | € 11.992.467 |
+| Simpelveld | € 1.176.665 |
+| Sint-Anthonis | € 922.162 |
+| Sint-Michielsgestel | € 2.230.887 |
+| Sint-Oedenrode | € 1.437.076 |
+| Sittard-Geleen | € 11.302.907 |
+| Skarsterlan | € 2.516.210 |
+| Sliedrecht | € 2.719.203 |
+| Slochteren | € 1.240.439 |
+| Sluis | € 2.925.255 |
+| Smallingerland | € 5.999.283 |
+| Soest | € 3.864.298 |
+| Someren | € 1.450.957 |
+| Son en Breugel | € 1.199.342 |
+| Spijkenisse | € 6.069.298 |
+| Stadskanaal | € 4.704.156 |
+| Staphorst | € 890.521 |
+| Stede Broec | € 1.618.558 |
+| Steenbergen | € 2.130.484 |
+| Steenwijkerland | € 4.722.162 |
+| Stein | € 2.700.888 |
+| Stichtse Vecht | € 4.194.151 |
+| Strijen | € 767.291 |
+| Sudwest Fryslan | € 7.719.168 |
+| Ten Boer | € 559.756 |
+| Terneuzen | € 6.244.564 |
+| Terschelling | € 375.613 |
+| Texel | € 1.206.641 |
+| Teylingen | € 2.189.909 |
+| Tholen | € 2.505.736 |
+| Tiel | € 3.199.011 |
+| Tilburg | € 19.116.972 |
+| Tubbergen | € 1.587.795 |
+| Twenterand | € 2.924.925 |
+| Tynaarlo | € 2.967.616 |
+| Tytsjerksteradiel | € 3.026.706 |
+| Ubbergen | € 1.017.316 |
+| Uden | € 3.294.322 |
+| Uitgeest | € 694.294 |
+| Uithoorn | € 2.137.624 |
+| Urk | € 639.325 |
+| Utrecht | € 19.009.780 |
+| Utrechtse Heuvelrug | € 4.182.395 |
+| Vaals | € 1.213.763 |
+| Valkenburg aan de Geul | € 2.076.220 |
+| Valkenswaard | € 3.088.646 |
+| Veendam | € 3.535.640 |
+| Veenendaal | € 5.090.014 |
+| Veere | € 1.753.886 |
+| Veghel | € 2.850.061 |
+| Veldhoven | € 3.533.157 |
+| Velsen | € 6.289.021 |
+| Venlo | € 10.912.659 |
+| Venray | € 3.613.092 |
+| Vianen | € 1.478.057 |
+| Vlaardingen | € 8.251.575 |
+| Vlagtwedde | € 2.329.529 |
+| Vlieland | € 104.542 |
+| Vlissingen | € 5.276.199 |
+| Vlist | € 734.350 |
+| Voerendaal | € 1.238.128 |
+| Voorschoten | € 1.770.715 |
+| Voorst | € 2.250.286 |
+| Vught | € 2.130.765 |
+| Waalre | € 1.210.377 |
+| Waalwijk | € 4.384.808 |
+| Waddinxveen | € 1.969.967 |
+| Wageningen | € 2.360.118 |
+| Wassenaar | € 1.748.201 |
+| Waterland | € 1.224.931 |
+| Weert | € 4.733.293 |
+| Weesp | € 1.491.506 |
+| Werkendam | € 1.947.481 |
+| West Maas en Waal | € 1.500.931 |
+| Westerveld | € 2.157.248 |
+| Westervoort | € 1.135.385 |
+| Westland | € 7.119.272 |
+| Weststellingwerf | € 2.946.790 |
+| Westvoorne | € 1.028.712 |
+| Wierden | € 1.697.030 |
+| Wieringen | € 863.249 |
+| Wieringermeer | € 1.022.814 |
+| Wijchen | € 3.207.279 |
+| Wijdemeren | € 1.654.091 |
+| Wijk bij Duurstede | € 1.324.009 |
+| Winsum | € 1.116.574 |
+| Winterswijk | € 3.278.735 |
+| Woensdrecht | € 1.871.600 |
+| Woerden | € 3.200.172 |
+| Wormerland | € 1.238.669 |
+| Woudenberg | € 868.358 |
+| Woudrichem | € 1.106.041 |
+| Zaanstad | € 13.336.102 |
+| Zaltbommel | € 1.896.772 |
+| Zandvoort | € 2.042.431 |
+| Zederik | € 949.335 |
+| Zeevang | € 390.272 |
+| Zeewolde | € 878.132 |
+| Zeist | € 5.434.336 |
+| Zevenaar | € 3.081.043 |
+| Zijpe | € 800.430 |
+| Zoetermeer | € 8.796.189 |
+| Zoeterwoude | € 641.747 |
+| Zuidhorn | € 1.422.128 |
+| Zuidplas | € 2.305.085 |
+| Zundert | € 2.141.333 |
+| Zutphen | € 4.710.163 |
+| Zwartewaterland | € 1.508.784 |
+| Zwijndrecht | € 4.597.893 |
+| Zwolle | € 9.397.622 |
+| **Totaal** | **€ 1.455.985.635** |
 
-##### Artikel 2j. Innovatie energiebesparing gebouwde omgeving
-
-Vervallen
-
-##### Artikel 2k. Muskusrattenbestrijding
-
-Vervallen
-
-##### Artikel 2l. Regionale uitvoeringsdiensten (RUD)
-
-Vervallen
-
-##### Artikel 2m. Uitname provinciefonds
-
-Vervallen
-
-##### Artikel 2n. Waddenfonds
-
-1. In het jaar 2011 ontvangt de provincie Fryslân € 33.000.000.
-
-2. In het jaar 2012 ontvangt de provincie Fryslân € 95.369.000.
-
-##### Artikel 2o. Werkmaatschappij Markermeer-IJmeer
-
-1. In het jaar 2011 ontvangt de provincie Flevoland € 210.000.
-
-2. 2. In het jaar 2012 ontvangt de provincie Flevoland € 210.000.
-
-#### § 2. Uitkeringen aan gemeenten
-
-##### Artikel 29oo. Bestaand Rotterdams gebied
-
-1. In 2011 ontvangt de gemeente Rotterdam € 2.527.000.
-
-2. In het jaar 2012 ontvangt de gemeente Rotterdam € 2.527.000.
-
-##### Artikel 29pp. Eigen kracht
-
-1. In 2011 ontvangen de gemeenten, genoemd in [bijlage 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29pp&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29pp-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29pp-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 29qq. Nazorg ex-gedetineerden
-
-Vervallen
-
-##### Artikel 29rr. Onderwijsexperiment Zwanenbos
-
-Vervallen
-
-##### Artikel 31h. Stimuleringsregeling oversampling WoON
-
-Vervallen
-
-##### Artikel 31i. Investeringsbudget stedelijke vernieuwing (ISV)
-
-1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31i&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31i-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31i-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 31j. Nationale gebiedsontwikkelingen
-
-1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31j&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31j-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31j-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 31k. Green Deal
-
-1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31k&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31k-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31k-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 31l. Pieken in de Delta
-
-Vervallen
-
-##### Artikel 31m. Sterke regio’s
-
-1. In het jaar 2011 ontvangen de gemeenten en provincies, genoemd in [bijlage 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31m&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-2. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 31m-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31m-2&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-#### § 4. Slotbepalingen
-
-## Bijlage 27d. , genoemd in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=27&z=2015-01-01&g=2015-01-01). [Wet maatschappelijke ondersteuning](https://wetten.overheid.nl/jci1.3:c:BWBR0020031) (WMO)
-
-Vervallen
-
-## Bijlage 29. genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29&z=2015-01-01&g=2015-01-01) Wijkactieplannen
+## Bijlage 29. genoemd in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29&z=2015-03-21&g=2015-03-21) Wijkactieplannen
 
 | Gemeente | Uitkering 2008 | Uitkering 2009 | Uitkering 2010 |
 | --- | --- | --- | --- |
@@ -11937,89 +12180,17 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29a-2. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-01-01&g=2015-01-01). Aanpak Marokkaans-Nederlandse probleemjongeren
+## Bijlage 29a-2. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-03-21&g=2015-03-21). Aanpak Marokkaans-Nederlandse probleemjongeren
 
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Amersfoort | € 131.386 |
-| Amsterdam | € 4.344.672 |
-| Culemborg | € 80.000 |
-| Ede | € 80.000 |
-| Eindhoven | € 161.876 |
-| Gorinchem | € 80.000 |
-| Gouda | € 201.918 |
-| Helmond | € 104.944 |
-| Leiden | € 155.803 |
-| Lelystad | € 80.000 |
-| Maassluis | € 80.000 |
-| Nijmegen | € 101.592 |
-| Oosterhout | € 80.000 |
-| Roosendaal | € 123.542 |
-| Rotterdam | € 2.566.388 |
-| Schiedam | € 80.000 |
-| ’s-Gravenhage | € 1.743.835 |
-| ’s-Hertogenbosch | € 135.877 |
-| Tilburg | € 157.638 |
-| Utrecht | € 1.715.062 |
-| Veenendaal | € 93.116 |
-| Zeist | € 102.351 |
-| **Totaal** | **€ 12.400.000** |
+Vervallen
 
-## Bijlage 29a-3. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-01-01&g=2015-01-01). Aanpak Marokkaans-Nederlandse probleemjongeren
+## Bijlage 29a-3. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-03-21&g=2015-03-21). Aanpak Marokkaans-Nederlandse probleemjongeren
 
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Amersfoort | € 131.386 |
-| Amsterdam | € 4.344.672 |
-| Culemborg | € 80.000 |
-| Ede | € 80.000 |
-| Eindhoven | € 161.876 |
-| Gorinchem | € 80.000 |
-| Gouda | € 201.918 |
-| Helmond | € 104.944 |
-| Leiden | € 155.803 |
-| Lelystad | € 80.000 |
-| Maassluis | € 80.000 |
-| Nijmegen | € 101.592 |
-| Oosterhout | € 80.000 |
-| Roosendaal | € 123.542 |
-| Rotterdam | € 2.566.388 |
-| Schiedam | € 80.000 |
-| ’s-Gravenhage | € 1.743.835 |
-| ’s-Hertogenbosch | € 135.877 |
-| Tilburg | € 157.638 |
-| Utrecht | € 1.715.062 |
-| Veenendaal | € 93.116 |
-| Zeist | € 102.351 |
-| **Totaal** | **€ 12.400.000** |
+Vervallen
 
-## Bijlage 29a-4. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-01-01&g=2015-01-01). Aanpak Marokkaans-Nederlandse probleemjongeren
+## Bijlage 29a-4. , genoemd in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29a&z=2015-03-21&g=2015-03-21). Aanpak Marokkaans-Nederlandse probleemjongeren
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Amersfoort | € 131.386 |   |
-| Amsterdam | € 4.344.672 |   |
-| Culemborg | € 80.000 |   |
-| Ede | € 80.000 |   |
-| Eindhoven | € 161.876 |   |
-| Gorinchem | € 80.000 |   |
-| Gouda | € 201.918 |   |
-| Helmond | € 104.944 |   |
-| Leiden | € 155.803 |   |
-| Lelystad | € 80.000 |   |
-| Maassluis | € 80.000 |   |
-| Nijmegen | € 101.592 |   |
-| Oosterhout | € 80.000 |   |
-| Roosendaal | € 123.542 |   |
-| Rotterdam | € 2.566.388 |   |
-| Schiedam | € 80.000 |   |
-| ’s-Gravenhage | € 1.743.835 |   |
-| ’s-Hertogenbosch | € 135.877 |   |
-| Tilburg | € 157.638 |   |
-| Utrecht | € 1.715.062 |   |
-| Veenendaal | € 93.116 |   |
-| Zeist | € 102.351 |   |
-| Totaal | € 12.400.000 |   |
+Vervallen
 
 ## Bijlage 29b. , genoemd in artikel 29b. Alle troeven in handen gemeenten
 
@@ -12029,89 +12200,17 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29c-2. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-01-01&g=2015-01-01). Antillianengemeenten
+## Bijlage 29c-2. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-03-21&g=2015-03-21). Antillianengemeenten
 
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Almere | € 220.000 |
-| Amersfoort | € 85.000 |
-| Amsterdam | € 522.500 |
-| Breda | € 115.000 |
-| Capelle aan den IJssel | € 92.500 |
-| Den Helder | € 87.500 |
-| Dordrecht | € 200.000 |
-| Eindhoven | € 137.500 |
-| Groningen | € 195.000 |
-| Hellevoetsluis | € 45.000 |
-| Leeuwarden | € 57.500 |
-| Lelystad | € 92.500 |
-| Nijmegen | € 107.500 |
-| Rotterdam | € 1.172.500 |
-| Schiedam | € 97.500 |
-| ’s-Gravenhage | € 570.000 |
-| Spijkenisse | € 95.000 |
-| Tilburg | € 257.500 |
-| Vlaardingen | € 82.500 |
-| Vlissingen | € 47.500 |
-| Zoetermeer | € 122.500 |
-| Zwolle | € 82.500 |
-| **Totaal** | **€ 4.485.000** |
+Vervallen
 
-## Bijlage 29c-3. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-01-01&g=2015-01-01). Antillianengemeenten
+## Bijlage 29c-3. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-03-21&g=2015-03-21). Antillianengemeenten
 
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Almere | € 220.000 |
-| Amersfoort | € 85.000 |
-| Amsterdam | € 522.500 |
-| Breda | € 115.000 |
-| Capelle aan den IJssel | € 92.500 |
-| Den Helder | € 87.500 |
-| Dordrecht | € 200.000 |
-| Eindhoven | € 137.500 |
-| Groningen | € 195.000 |
-| Hellevoetsluis | € 45.000 |
-| Leeuwarden | € 57.500 |
-| Lelystad | € 92.500 |
-| Nijmegen | € 107.500 |
-| Rotterdam | € 1.172.500 |
-| Schiedam | € 97.500 |
-| ’s-Gravenhage | € 570.000 |
-| Spijkenisse | € 95.000 |
-| Tilburg | € 257.500 |
-| Vlaardingen | € 82.500 |
-| Vlissingen | € 47.500 |
-| Zoetermeer | € 122.500 |
-| Zwolle | € 82.500 |
-| **Totaal** | **€ 4.485.000** |
+Vervallen
 
-## Bijlage 29c-4. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-01-01&g=2015-01-01). Antillianengemeenten
+## Bijlage 29c-4. , genoemd in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29c&z=2015-03-21&g=2015-03-21). Antillianengemeenten
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Almere | € 220.000 |   |
-| Amersfoort | € 85.000 |   |
-| Amsterdam | € 522.500 |   |
-| Breda | € 115.000 |   |
-| Capelle aan den IJssel | € 92.500 |   |
-| Den Helder | € 87.500 |   |
-| Dordrecht | € 200.000 |   |
-| Eindhoven | € 137.500 |   |
-| Groningen | € 195.000 |   |
-| Hellevoetsluis | € 45.000 |   |
-| Leeuwarden | € 57.500 |   |
-| Lelystad | € 92.500 |   |
-| Nijmegen | € 107.500 |   |
-| Rotterdam | € 1.172.500 |   |
-| Schiedam | € 97.500 |   |
-| ’s-Gravenhage | € 570.000 |   |
-| Spijkenisse | € 95.000 |   |
-| Tilburg | € 257.500 |   |
-| Vlaardingen | € 82.500 |   |
-| Vlissingen | € 47.500 |   |
-| Zoetermeer | € 122.500 |   |
-| Zwolle | € 82.500 |   |
-| Totaal | € 4.485.000 |   |
+Vervallen
 
 ## Bijlage 29d. , genoemd in artikel 29d. Budget 40+ wijken
 
@@ -12133,65 +12232,23 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29i-2. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-01-01&g=2015-01-01). Herbestemming aandachtswijken
+## Bijlage 29i-2. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-03-21&g=2015-03-21). Herbestemming aandachtswijken
 
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Amersfoort | € 178.000 |
-| Amsterdam | € 429.000 |
-| Arnhem | € 175.000 |
-| Deventer | € 4.000 |
-| Eindhoven | € 135.000 |
-| Enschede | € 7.000 |
-| Groningen | € 19.000 |
-| Heerlen | € 41.000 |
-| Leeuwarden | € 23.000 |
-| Maastricht | € 89.000 |
-| Rotterdam | € 495.749 |
-| ’s-Gravenhage | € 364.500 |
-| Utrecht | € 31.000 |
-| Zaanstad | € 5.000 |
-| **Totaal** | **€ 1.996.249** |
+Vervallen
 
-## Bijlage 29i-3. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-01-01&g=2015-01-01). Herbestemming aandachtswijken
+## Bijlage 29i-3. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-03-21&g=2015-03-21). Herbestemming aandachtswijken
 
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Amsterdam | € 674.000 |
-| Arnhem | € 109.000 |
-| Deventer | € 21.000 |
-| Eindhoven | € 89.000 |
-| Enschede | € 37.000 |
-| Groningen | € 99.000 |
-| Heerlen | € 93.000 |
-| Rotterdam | € 496.000 |
-| ’s-Gravenhage | € 202.000 |
-| Utrecht | € 155.000 |
-| Zaanstad | € 25.000 |
-| **Totaal** | **€ 2.000.000** |
+Vervallen
 
-## Bijlage 29i-4. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-01-01&g=2015-01-01). Herbestemming aandachtswijken
+## Bijlage 29i-4. , genoemd in [artikel 29i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29i&z=2015-03-21&g=2015-03-21). Herbestemming aandachtswijken
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Amsterdam | € 131.112 |   |
-| Arnhem | € 22.500 |   |
-| Deventer | € 4.660 |   |
-| Eindhoven | € 19.000 |   |
-| Enschede | € 8.750 |   |
-| Groningen | € 20.000 |   |
-| Heerlen | € 19.000 |   |
-| Rotterdam | € 95.268 |   |
-| ’s-Gravenhage | € 40.375 |   |
-| Utrecht | € 30.430 |   |
-| Zaanstad | € 5.000 |   |
-| Totaal | € 396.095 |   |
+Vervallen
 
 ## Bijlage 29j. , genoemd in artikel 29j. Herstructurering bedrijventerreinen
 
 Vervallen
 
-## Bijlage 29j-2. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-01-01&g=2015-01-01). Herstructurering bedrijventerreinen
+## Bijlage 29j-2. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-03-21&g=2015-03-21). Herstructurering bedrijventerreinen
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -12201,7 +12258,7 @@ Vervallen
 | Veendam | € 5.000.000 |
 | **Totaal** | **€ 25.000.000** |
 
-## Bijlage 29j-3. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-01-01&g=2015-01-01). Herstructurering bedrijventerreinen
+## Bijlage 29j-3. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-03-21&g=2015-03-21). Herstructurering bedrijventerreinen
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -12217,7 +12274,7 @@ Vervallen
 | Zwolle | € 5.000.000 |
 | **Totaal** | **€ 14.482.000** |
 
-## Bijlage 29j-4. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-01-01&g=2015-01-01). Herstructurering bedrijventerreinen
+## Bijlage 29j-4. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-03-21&g=2015-03-21). Herstructurering bedrijventerreinen
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -12236,11 +12293,19 @@ Vervallen
 | Zaanstad | € 384.000 |   |
 | Totaal | € 4.943.419 |   |
 
+## Bijlage 29j-5. genoemd in [artikel 29j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29j&z=2015-03-21&g=2015-03-21). Herstructurering bedrijventerreinen
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Oss | € 325.000 |
+| Rotterdam | € 530.000 |
+| **Totaal** | **€ 855.000** |
+
 ## Bijlage 29k. , genoemd in artikel 29k. Impuls brede scholen combinatiefuncties tweede tranche
 
 Vervallen
 
-## Bijlage 29k-2. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-01-01&g=2015-01-01). Impuls brede scholen combinatiefuncties
+## Bijlage 29k-2. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-03-21&g=2015-03-21). Impuls brede scholen combinatiefuncties
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -12460,7 +12525,7 @@ Vervallen
 | Zwolle | € 205.400 |
 | **Totaal** | **€ 28.286.424** |
 
-## Bijlage 29k-3. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-01-01&g=2015-01-01). Impuls brede scholen combinatiefuncties
+## Bijlage 29k-3. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-03-21&g=2015-03-21). Impuls brede scholen combinatiefuncties
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -12789,7 +12854,7 @@ Vervallen
 | Zwolle | € 205.400 |
 | **Totaal** | **€ 31.258.648** |
 
-## Bijlage 29k-4. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-01-01&g=2015-01-01). Impuls brede scholen combinatiefuncties
+## Bijlage 29k-4. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-03-21&g=2015-03-21). Impuls brede scholen combinatiefuncties
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -13168,15 +13233,398 @@ Vervallen
 | Zwolle | € 402.720 |   |
 | Totaal | € 47.231.940 |   |
 
+## Bijlage 29k-5. genoemd in [artikel 29k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29k&z=2015-03-21&g=2015-03-21). Buurtsportcoaches
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Aa en Hunze | € 101.640 |
+| Aalburg | € 61.320 |
+| Aalsmeer | € 88.080 |
+| Achtkarspelen | € 122.360 |
+| Alblasserdam | € 73.200 |
+| Albrandswaard | € 79.680 |
+| Alkmaar | € 359.520 |
+| Almelo | € 303.800 |
+| Almere | € 784.560 |
+| Alphen aan den Rijn | € 302.120 |
+| Alphen-Chaam | € 40.040 |
+| Ameland | € 28.000 |
+| Amersfoort | € 543.120 |
+| Amstelveen | € 124.920 |
+| Amsterdam | € 2.583.840 |
+| Apeldoorn | € 626.080 |
+| Appingedam | € 38.160 |
+| Arnhem | € 516.320 |
+| Assen | € 281.400 |
+| Asten | € 72.240 |
+| Baarn | € 53.280 |
+| Barendrecht | € 145.000 |
+| Barneveld | € 266.560 |
+| Bedum | € 34.200 |
+| Beek | € 45.400 |
+| Beemster | € 25.600 |
+| Beesel | € 55.160 |
+| Bellingwedde | € 33.040 |
+| Bergambacht | € 25.120 |
+| Bergeijk | € 44.960 |
+| Bergen L | € 23.760 |
+| Bergen NH | € 81.400 |
+| Bergen op Zoom | € 183.600 |
+| Berkelland | € 189.560 |
+| Bernheze | € 57.480 |
+| Bernisse | € 36.000 |
+| Best | € 94.200 |
+| Beuningen | € 81.600 |
+| Beverwijk | € 61.320 |
+| Bladel | € 70.800 |
+| Bloemendaal | € 67.400 |
+| Boarnsterhim | € 73.200 |
+| Bodegraven-Reeuwijk | € 106.000 |
+| Boekel | € 33.000 |
+| Borger-Odoorn | € 105.000 |
+| Borne | € 91.840 |
+| Borsele | € 102.760 |
+| Boskoop | € 70.560 |
+| Boxmeer | € 124.880 |
+| Boxtel | € 89.400 |
+| Breda | € 659.960 |
+| Brielle | € 27.000 |
+| Bronckhorst | € 134.400 |
+| Brummen | € 75.120 |
+| Brunssum | € 72.800 |
+| Bunnik | € 26.400 |
+| Bunschoten | € 40.920 |
+| Buren | € 47.640 |
+| Capelle aan den IJssel | € 223.920 |
+| Castricum | € 106.000 |
+| Coevorden | € 61.680 |
+| Cranendonck | € 78.680 |
+| Cromstrijen | € 37.200 |
+| Cuijk | € 103.320 |
+| Culemborg | € 91.800 |
+| Dalfsen | € 52.680 |
+| Dantumadiel | € 86.240 |
+| De Bilt | € 123.800 |
+| De Marne | € 30.600 |
+| De Ronde Venen | € 194.600 |
+| De Wolden | € 101.080 |
+| Delft | € 306.320 |
+| Delfzijl | € 75.000 |
+| Den Helder | € 222.040 |
+| Deurne | € 133.280 |
+| Deventer | € 396.200 |
+| Diemen | € 93.240 |
+| Dinkelland | € 123.760 |
+| Doesburg | € 35.200 |
+| Doetinchem | € 232.680 |
+| Dongen | € 90.480 |
+| Dongeradeel | € 109.200 |
+| Dordrecht | € 481.600 |
+| Drechterland | € 82.600 |
+| Drimmelen | € 76.800 |
+| Dronten | € 129.000 |
+| Druten | € 80.920 |
+| Duiven | € 125.720 |
+| Echt-Susteren | € 113.960 |
+| Edam-Volendam | € 126.560 |
+| Ede | € 209.040 |
+| Eemsmond | € 51.000 |
+| Eersel | € 54.400 |
+| Eijsden-Margraten | € 39.400 |
+| Eindhoven | € 726.320 |
+| Elburg | € 102.760 |
+| Emmen | € 366.480 |
+| Enkhuizen | € 71.680 |
+| Enschede | € 579.880 |
+| Epe | € 129.080 |
+| Ermelo | € 93.840 |
+| Etten-Leur | € 118.800 |
+| Ferwerderadiel | € 39.480 |
+| Franekeradeel | € 74.880 |
+| Gaasterlan-Sleat | € 44.240 |
+| Geertruidenberg | € 57.600 |
+| Geldermalsen | € 69.760 |
+| Geldrop-Mierlo | € 65.760 |
+| Gemert-Bakel | € 101.760 |
+| Gennep | € 55.920 |
+| Giessenlanden | € 46.800 |
+| Gilze en Rijen | € 106.400 |
+| Goeree-Overflakkee | € 174.000 |
+| Goes | € 142.240 |
+| Goirle | € 37.320 |
+| Gorinchem | € 140.840 |
+| Gouda | € 308.000 |
+| Graft-De Rijp | € 16.960 |
+| Grave | € 54.600 |
+| Groesbeek | € 52.400 |
+| Groningen | € 519.960 |
+| Grootegast | € 33.600 |
+| Gulpen-Wittem | € 22.320 |
+| Haaksbergen | € 72.600 |
+| Haarlem | € 462.480 |
+| Haarlemmerliede Spaarnw | € 23.800 |
+| Haarlemmermeer | € 535.680 |
+| Halderberge | € 64.320 |
+| Hardenberg | € 269.920 |
+| Harderwijk | € 185.640 |
+| Hardinxveld-Giessendam | € 61.000 |
+| Haren | € 44.320 |
+| Harlingen | € 45.200 |
+| Hattem | € 36.200 |
+| Heemskerk | € 157.080 |
+| Heemstede | € 88.560 |
+| Heerde | € 74.760 |
+| Heerenveen | € 171.080 |
+| Heerhugowaard | € 160.400 |
+| Heerlen | € 300.160 |
+| Heeze-Leende | € 62.160 |
+| Heiloo | € 64.400 |
+| Hellendoorn | € 151.200 |
+| Hellevoetsluis | € 68.400 |
+| Helmond | € 317.520 |
+| Hendrik-Ido-Ambacht | € 120.120 |
+| Hengelo O | € 335.720 |
+| Heusden | € 185.640 |
+| Hillegom | € 68.880 |
+| Hilvarenbeek | € 49.000 |
+| Hilversum | € 135.600 |
+| Hof van Twente | € 145.600 |
+| Hollands Kroon | € 207.480 |
+| Hoogeveen | € 159.400 |
+| Hoogezand-Sappemeer | € 133.280 |
+| Hoorn | € 247.440 |
+| Horst aan de Maas | € 150.480 |
+| Houten | € 234.920 |
+| Huizen | € 127.400 |
+| Hulst | € 90.960 |
+| IJsselstein | € 141.360 |
+| Kaag en Braassem | € 47.280 |
+| Kampen | € 233.240 |
+| Kapelle | € 56.280 |
+| Katwijk | € 281.960 |
+| Koggenland | € 84.240 |
+| Krimpen aan den IJssel | € 87.600 |
+| Laarbeek | € 65.200 |
+| Landgraaf | € 95.200 |
+| Landsmeer | € 17.880 |
+| Langedijk | € 121.240 |
+| Lansingerland | € 135.520 |
+| Leek | € 58.800 |
+| Leerdam | € 90.160 |
+| Leeuwarden | € 280.560 |
+| Leiden | € 284.600 |
+| Leiderdorp | € 48.720 |
+| Leidschendam-Voorburg | € 150.240 |
+| Lelystad | € 318.640 |
+| Lemsterland | € 58.240 |
+| Leudal | € 154.000 |
+| Leusden | € 89.000 |
+| Lingewaal | € 34.800 |
+| Lingewaard | € 137.400 |
+| Lisse | € 65.200 |
+| Littenseradiel | € 37.600 |
+| Lochem | € 111.120 |
+| Loon op Zand | € 67.000 |
+| Lopik | € 70.280 |
+| Loppersum | € 19.440 |
+| Losser | € 77.520 |
+| Maasdonk | € 22.440 |
+| Maasgouw | € 74.640 |
+| Maassluis | € 70.080 |
+| Maastricht | € 362.320 |
+| Marum | € 32.800 |
+| Medemblik | € 185.920 |
+| Meerssen | € 32.040 |
+| Menterwolde | € 36.600 |
+| Meppel | € 91.800 |
+| Middelburg | € 191.520 |
+| Midden Drenthe | € 60.000 |
+| Midden-Delfland | € 60.400 |
+| Mill en Sint Hubert | € 46.760 |
+| Millingen aan de Rijn | € 10.560 |
+| Moerdijk | € 104.000 |
+| Molenwaard | € 88.000 |
+| Montferland | € 102.800 |
+| Montfoort U | € 64.960 |
+| Muiden | € 29.400 |
+| Naarden | € 80.360 |
+| Neder-Betuwe | € 102.000 |
+| Nederlek | € 43.200 |
+| Nederweert | € 68.880 |
+| Neerijnen | € 39.800 |
+| Nieuwegein | € 235.200 |
+| Nieuwkoop | € 50.760 |
+| Nijkerk | € 176.120 |
+| Nijmegen | € 538.720 |
+| Noord-Beveland | € 18.200 |
+| Noordenveld | € 90.600 |
+| Noordoostpolder | € 157.600 |
+| Noordwijk | € 64.400 |
+| Noordwijkerhout | € 54.240 |
+| Nunspeet | € 107.280 |
+| Nuth | € 39.800 |
+| Oirschot | € 78.120 |
+| Oisterwijk | € 109.200 |
+| Oldambt | € 103.800 |
+| Oldebroek | € 74.400 |
+| Oldenzaal | € 132.720 |
+| Olst-Wijhe | € 76.720 |
+| Ommen | € 71.960 |
+| Oost Gelre | € 113.760 |
+| Oosterhout | € 214.480 |
+| Ooststellingwerf | € 92.400 |
+| Oostzaan | € 40.320 |
+| Opmeer | € 52.920 |
+| Opsterland | € 93.000 |
+| Oss | € 346.360 |
+| Oud-Beijerland | € 91.440 |
+| Oude IJsselstreek | € 144.000 |
+| Ouder-Amstel | € 54.880 |
+| Ouderkerk | € 16.080 |
+| Oudewater | € 19.320 |
+| Papendrecht | € 56.040 |
+| Peel en Maas | € 155.280 |
+| Pekela | € 29.920 |
+| Pijnacker-Nootdorp | € 158.600 |
+| Purmerend | € 323.120 |
+| Putten | € 76.000 |
+| Raalte | € 165.200 |
+| Reimerswaal | € 74.000 |
+| Renkum | € 119.840 |
+| Reusel-De Mierden | € 50.400 |
+| Rheden | € 157.080 |
+| Rhenen | € 57.800 |
+| Ridderkerk | € 157.640 |
+| Rijnwoude | € 80.920 |
+| Rijssen-Holten | € 155.520 |
+| Rijswijk | € 144.760 |
+| Roerdalen | € 74.760 |
+| Roermond | € 173.520 |
+| Roosendaal | € 132.000 |
+| Rotterdam | € 2.257.640 |
+| Schagen | € 196.840 |
+| Schermer | € 23.520 |
+| Scherpenzeel | € 24.800 |
+| Schiedam | € 207.200 |
+| Schiermonnikoog | € 20.000 |
+| Schijndel | € 95.480 |
+| Schinnen | € 36.200 |
+| Schoonhoven | € 50.960 |
+| Schouwen-Duiveland | € 55.560 |
+| ’s-Gravenhage | € 1.840.160 |
+| ’s-Hertogenbosch | € 518.840 |
+| Simpelveld | € 40.040 |
+| Sint-Anthonis | € 54.040 |
+| Sint-Michielsgestel | € 51.720 |
+| Sint-Oedenrode | € 54.000 |
+| Sittard-Geleen | € 348.600 |
+| Skarsterlan | € 120.400 |
+| Sliedrecht | € 71.200 |
+| Slochteren | € 46.200 |
+| Sluis | € 83.440 |
+| Smallingerland | € 165.800 |
+| Son en Breugel | € 28.920 |
+| Spijkenisse | € 292.600 |
+| Stadskanaal | € 131.880 |
+| Staphorst | € 65.400 |
+| Stede Broec | € 81.120 |
+| Steenbergen | € 92.120 |
+| Steenwijkerland | € 105.120 |
+| Stein | € 66.800 |
+| Stichtse Vecht | € 261.800 |
+| Strijen | € 27.000 |
+| Sudwest Fryslan | € 305.760 |
+| Ten Boer | € 34.720 |
+| Terneuzen | € 181.680 |
+| Terschelling | € 28.000 |
+| Texel | € 56.840 |
+| Teylingen | € 69.480 |
+| Tholen | € 119.560 |
+| Tiel | € 133.200 |
+| Tilburg | € 753.480 |
+| Tubbergen | € 104.720 |
+| Twenterand | € 87.360 |
+| Tynaarlo | € 129.640 |
+| Tytsjerksteradiel | € 137.200 |
+| Ubbergen | € 35.840 |
+| Uden | € 170.800 |
+| Uithoorn | € 118.720 |
+| Urk | € 122.640 |
+| Utrecht | € 1.009.120 |
+| Utrechtse Heuvelrug | € 200.760 |
+| Vaals | € 18.240 |
+| Valkenburg aan de Geul | € 40.000 |
+| Valkenswaard | € 82.400 |
+| Veendam | € 61.760 |
+| Veenendaal | € 165.600 |
+| Veere | € 65.000 |
+| Veghel | € 69.600 |
+| Veldhoven | € 124.400 |
+| Velsen | € 163.040 |
+| Venlo | € 382.760 |
+| Venray | € 104.160 |
+| Vianen | € 85.400 |
+| Vlaardingen | € 224.400 |
+| Vlagtwedde | € 62.160 |
+| Vlieland | € 20.000 |
+| Vlissingen | € 161.560 |
+| Vlist | € 43.680 |
+| Voerendaal | € 40.080 |
+| Voorschoten | € 68.400 |
+| Voorst | € 94.360 |
+| Vught | € 45.840 |
+| Waalre | € 51.800 |
+| Waalwijk | € 179.200 |
+| Waddinxveen | € 80.400 |
+| Wageningen | € 48.840 |
+| Wassenaar | € 61.280 |
+| Waterland | € 49.800 |
+| Weert | € 186.760 |
+| Weesp | € 45.400 |
+| Werkendam | € 117.320 |
+| West Maas en Waal | € 75.600 |
+| Westerveld | € 62.160 |
+| Westervoort | € 49.200 |
+| Westland | € 189.120 |
+| Weststellingwerf | € 72.000 |
+| Westvoorne | € 38.200 |
+| Wierden | € 104.440 |
+| Wijchen | € 174.440 |
+| Wijdemeren | € 69.200 |
+| Wijk bij Duurstede | € 61.920 |
+| Winsum | € 45.400 |
+| Winterswijk | € 104.160 |
+| Woensdrecht | € 57.400 |
+| Woerden | € 188.160 |
+| Wormerland | € 48.400 |
+| Woudenberg | € 54.600 |
+| Woudrichem | € 44.800 |
+| Zaanstad | € 571.760 |
+| Zaltbommel | € 109.200 |
+| Zandvoort | € 53.760 |
+| Zederik | € 45.400 |
+| Zeevang | € 24.480 |
+| Zeewolde | € 112.560 |
+| Zeist | € 241.640 |
+| Zevenaar | € 52.680 |
+| Zoetermeer | € 425.760 |
+| Zuidhorn | € 51.680 |
+| Zuidplas | € 188.720 |
+| Zundert | € 58.600 |
+| Zwartewaterland | € 84.600 |
+| Zwijndrecht | € 171.640 |
+| Zwolle | € 469.840 |
+| **Totaal** | **€ 55.212.080** |
+
 ## Bijlage 29l. , genoemd in artikel 29l. Innovatietrajecten inburgering
 
 Vervallen
 
-## Bijlage 29l-2. , genoemd in [artikel 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29l&z=2015-01-01&g=2015-01-01). Innovatietrajecten inburgering
+## Bijlage 29l-2. , genoemd in [artikel 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29l&z=2015-03-21&g=2015-03-21). Innovatietrajecten inburgering
 
 Vervallen
 
-## Bijlage 29l-3. , genoemd in [artikel 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29l&z=2015-01-01&g=2015-01-01). Innovatietrajecten inburgering
+## Bijlage 29l-3. , genoemd in [artikel 29l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29l&z=2015-03-21&g=2015-03-21). Innovatietrajecten inburgering
 
 Vervallen
 
@@ -13184,11 +13632,19 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29m-2. , genoemd in [artikel 29m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29m&z=2015-01-01&g=2015-01-01). Jeugdwerkloosheid
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 3. Uitkeringen aan zowel gemeenten als provincies
+
+#### § 4. Slotbepalingen
+
+## Bijlage 29m-2. , genoemd in [artikel 29m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29m&z=2015-03-21&g=2015-03-21). Jeugdwerkloosheid
 
 Vervallen
 
-## Bijlage 29m-3. , genoemd in [artikel 29m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29m&z=2015-01-01&g=2015-01-01). Jeugdwerkloosheid
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+## Bijlage 29m-3. , genoemd in [artikel 29m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29m&z=2015-03-21&g=2015-03-21). Jeugdwerkloosheid
 
 Vervallen
 
@@ -13200,7 +13656,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29o-2. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-01-01&g=2015-01-01). Spoorse doorsnijdingen
+## Bijlage 29o-2. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-03-21&g=2015-03-21). Spoorse doorsnijdingen
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -13226,7 +13682,7 @@ Vervallen
 | Zutphen | € 57.135 |
 | **Totaal** | **€ 37.321.303** |
 
-## Bijlage 29o-3. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-01-01&g=2015-01-01). Spoorse doorsnijdingen
+## Bijlage 29o-3. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-03-21&g=2015-03-21). Spoorse doorsnijdingen
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -13253,7 +13709,117 @@ Vervallen
 | Zutphen | € 79.989 |
 | **Totaal** | **€ 47.549.903** |
 
-## Bijlage 29o-4. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-01-01&g=2015-01-01). Spoorse doorsnijdingen
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 2p. Asbest en zonnepanelen
+
+Vervallen
+
+##### Artikel 2q. Beter benutten
+
+1. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2q](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2q&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2q-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2q-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 2r. DU Ontwikkel / OEM-variabel
+
+1. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2r&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2r-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2r-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 2s. Julianasluis
+
+Vervallen
+
+##### Artikel 2t. Kwaliteitsakkoord basisonderwijs
+
+Vervallen
+
+##### Artikel 2u. Monumenten
+
+1. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2u](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2u&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2u-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2u-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 2v. Programmatische aanpak stikstof
+
+Vervallen
+
+##### Artikel 2w. Zwemwaterrichtlijn EU
+
+1. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2w](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2w&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2w-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2w-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 2x. Natuur
+
+1. In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2x&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2x-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2x-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+#### § 2. Uitkeringen aan gemeenten
+
+##### Artikel 29ss. Centra voor Jeugd en Gezin
+
+Voor de Centra voor Jeugd en Gezin ontvangen de gemeenten: Met ingang van 2012 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in [bijlage 29ss-a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ss-a&z=2015-03-21&g=2015-03-21) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering.
+
+##### Artikel 29tt. Focusgemeenten
+
+Vervallen
+
+##### Artikel 29uu. IODS kwaliteitsprojecten
+
+Vervallen
+
+##### Artikel 29vv. Kwaliteitssprong Zuid
+
+1. In het jaar 2012 ontvangt de gemeente Rotterdam € 1.400.000.
+
+2. In het jaar 2013 ontvangt de gemeente Rotterdam € 1.400.000.
+
+##### Artikel 29ww. LHBT emancipatiebeleid
+
+1. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29ww](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ww&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ww-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ww-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 29yy. Nationaal Actieprogramma Rotterdam Zuid
+
+Vervallen
+
+##### Artikel 29zz. Platform Woonoverlast
+
+Vervallen
+
+##### Artikel 29aaa. Quick wins binnenhavens
+
+1. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29aaa](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29aaa&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangt de gemeente Waalwijk € 4.643.000.
+
+##### Artikel 29bbb. Vsv-programmagelden RMC-regio’s G4
+
+1. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29bbb&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29bbb-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29bbb-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+##### Artikel 29ccc. We Can Young
+
+1. In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ccc&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ccc-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ccc-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+#### § 3. Uitkeringen aan zowel gemeenten als provincies
+
+##### Artikel 31n. Invoeringskosten Jeugdzorg
+
+1. In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31n&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+2. In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 31n-2](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31n-2&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
+
+#### § 4. Slotbepalingen
+
+## Bijlage 29o-4. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-03-21&g=2015-03-21). Spoorse doorsnijdingen
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -13268,6 +13834,18 @@ Vervallen
 | Zutphen | € 79.989 |   |
 | Zwijndrecht | € 227.200 |   |
 | Totaal | € 11.922.208 |   |
+
+## Bijlage 29o-5. genoemd in [artikel 29o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29o&z=2015-03-21&g=2015-03-21). Spoorse doorsnijdingen
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Gouda | € 1.792.753 |
+| Heerhugowaard | € 1.062.503 |
+| Heerlen | € 1.000.000 |
+| Helmond | € 7.717.314 |
+| Leiden | € 11.900.000 |
+| Zutphen | € 141.694 |
+| **Totaal** | **€ 23.614.264** |
 
 ## Bijlage 29p. , genoemd in artikel 29p. Stimulering lokale klimaatinitiatieven (SLOK), gemeenten
 
@@ -13293,11 +13871,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29v. , genoemd in [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29v&z=2015-01-01&g=2015-01-01). Arbeidsparticipatie alleenstaande ouders
+## Bijlage 29v. , genoemd in [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29v&z=2015-03-21&g=2015-03-21). Arbeidsparticipatie alleenstaande ouders
 
 Vervallen
 
-## Bijlage 29v-2. , genoemd in [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29v&z=2015-01-01&g=2015-01-01). Arbeidsparticipatie alleenstaande ouders
+## Bijlage 29v-2. , genoemd in [artikel 29v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29v&z=2015-03-21&g=2015-03-21). Arbeidsparticipatie alleenstaande ouders
 
 Vervallen
 
@@ -13305,15 +13883,15 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29x. , genoemd in [artikel 29x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29x&z=2015-01-01&g=2015-01-01). Emancipatie Duizend en één kracht
+## Bijlage 29x. , genoemd in [artikel 29x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29x&z=2015-03-21&g=2015-03-21). Emancipatie Duizend en één kracht
 
 Vervallen
 
-## Bijlage 29x-2. , genoemd in [artikel 29x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29x&z=2015-01-01&g=2015-01-01). Emancipatie Duizend en één kracht
+## Bijlage 29x-2. , genoemd in [artikel 29x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29x&z=2015-03-21&g=2015-03-21). Emancipatie Duizend en één kracht
 
 Vervallen
 
-## Bijlage 29ij. genoemd in [artikel 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-01-01&g=2015-01-01). Gezond in de stad
+## Bijlage 29ij. genoemd in [artikel 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-03-21&g=2015-03-21). Gezond in de stad
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -13350,7 +13928,7 @@ Vervallen
 | Zwolle | € 34.353 |
 | **Totaal** | **€ 5.022.740** |
 
-## Bijlage 29ij-2. genoemd in [artikel 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-01-01&g=2015-01-01). Gezond in de stad
+## Bijlage 29ij-2. genoemd in [artikel 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-03-21&g=2015-03-21). Gezond in de stad
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -13387,7 +13965,7 @@ Vervallen
 | Zwolle | € 34.353 |
 | **Totaal** | **€ 5.022.740** |
 
-## Bijlage 29y-3. genoemd in [artikel 29y](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-01-01&g=2015-01-01). Gezond in de stad
+## Bijlage 29y-3. genoemd in [artikel 29y](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-03-21&g=2015-03-21). Gezond in de stad
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -13424,6 +14002,43 @@ Vervallen
 | Zwolle | € 34.353 |   |
 | Totaal | € 5.022.740 |   |
 
+## Bijlage 29ij-4. genoemd in [artikel 29ij](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ij&z=2015-03-21&g=2015-03-21). Gezond in de stad
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Alkmaar | € 40.643 |
+| Almelo | € 48.868 |
+| Amersfoort | € 68.705 |
+| Amsterdam | € 1.115.251 |
+| Arnhem | € 110.315 |
+| Breda | € 74.027 |
+| Deventer | € 51.287 |
+| Dordrecht | € 108.864 |
+| Eindhoven | € 126.766 |
+| Emmen | € 29.514 |
+| Enschede | € 101.123 |
+| Groningen | € 46.932 |
+| Haarlem | € 79.350 |
+| Heerlen | € 41.610 |
+| Helmond | € 60.480 |
+| Hengelo O | € 24.676 |
+| Leeuwarden | € 35.804 |
+| Leiden | € 62.415 |
+| Lelystad | € 49.835 |
+| Maastricht | € 41.126 |
+| Nijmegen | € 76.931 |
+| Rotterdam | € 1.162.183 |
+| Schiedam | € 106.929 |
+| ’s-Gravenhage | € 688.504 |
+| ’s-Hertogenbosch | € 63.383 |
+| Sittard-Geleen | € 22.740 |
+| Tilburg | € 126.282 |
+| Utrecht | € 277.724 |
+| Venlo | € 58.545 |
+| Zaanstad | € 87.575 |
+| Zwolle | € 34.353 |
+| **Totaal** | **€ 5.022.740** |
+
 ## Bijlage 29aa. , genoemd in artikel 29aa. Inburgering (instapcursussen)
 
 Vervallen
@@ -13432,19 +14047,11 @@ Vervallen
 
 Vervallen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-#### § 3. Uitkeringen aan zowel gemeenten als provincies
-
-#### § 4. Slotbepalingen
-
 ## Bijlage 29cc. , genoemd in artikel 29cc. Inburgering (uitvoeringskosten)
 
 Vervallen
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-## Bijlage 29dd. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-01-01&g=2015-01-01). Jeugd
+## Bijlage 29dd. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-03-21&g=2015-03-21). Jeugd
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -13485,7 +14092,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 207.412 |
 | **Totaal** | **€ 21.700.000** |
 
-## Bijlage 29dd-2. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-01-01&g=2015-01-01). Jeugd
+## Bijlage 29dd-2. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-03-21&g=2015-03-21). Jeugd
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -13526,7 +14133,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 207.412 |
 | **Totaal** | **€ 21.700.000** |
 
-## Bijlage 29dd-3. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-01-01&g=2015-01-01). Jeugd
+## Bijlage 29dd-3. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-03-21&g=2015-03-21). Jeugd
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -13567,101 +14174,54 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 207.412 |   |
 | Totaal | € 25.500.000 |   |
 
-## Bijlage 29ee. , genoemd in [artikel 29ee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ee&z=2015-01-01&g=2015-01-01). Leefbaarheid en veiligheid
+## Bijlage 29dd-4. genoemd in [artikel 29dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29dd&z=2015-03-21&g=2015-03-21). Jeugd
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Alkmaar | € 165.775 |
+| Almelo | € 296.468 |
+| Almere | € 457.617 |
+| Amersfoort | € 128.380 |
+| Amsterdam | € 4.209.153 |
+| Apeldoorn | € 75.177 |
+| Arnhem | € 565.178 |
+| Breda | € 436.799 |
+| Deventer | € 235.941 |
+| Dordrecht | € 525.469 |
+| Ede | € 58.600 |
+| Eindhoven | € 422.920 |
+| Emmen | € 82.888 |
+| Enschede | € 793.023 |
+| Groningen | € 553.998 |
+| Haarlem | € 313.817 |
+| Heerlen | € 277.192 |
+| Helmond | € 264.084 |
+| Hengelo O | € 74.792 |
+| Leeuwarden | € 142.644 |
+| Leiden | € 213.580 |
+| Lelystad | € 463.015 |
+| Maastricht | € 230.543 |
+| Nijmegen | € 605.273 |
+| Rotterdam | € 8.207.313 |
+| Schiedam | € 316.901 |
+| ’s-Gravenhage | € 2.139.274 |
+| ’s-Hertogenbosch | € 340.803 |
+| Sittard-Geleen | € 176.185 |
+| Tilburg | € 826.949 |
+| Utrecht | € 907.524 |
+| Venlo | € 424.462 |
+| Zaanstad | € 256.374 |
+| Zoetermeer | € 104.477 |
+| Zwolle | € 207.412 |
+| **Totaal** | **€ 25.500.000** |
+
+## Bijlage 29ee. , genoemd in [artikel 29ee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ee&z=2015-03-21&g=2015-03-21). Leefbaarheid en veiligheid
 
 Vervallen
 
-## Bijlage 29ee-2. , genoemd in [artikel 29ee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ee&z=2015-01-01&g=2015-01-01). Leefbaarheid en veiligheid
+## Bijlage 29ee-2. , genoemd in [artikel 29ee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ee&z=2015-03-21&g=2015-03-21). Leefbaarheid en veiligheid
 
 Vervallen
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel 2p. Asbest en zonnepanelen
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2p&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2q. Beter benutten
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2q](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2q&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2r. DU Ontwikkel / OEM-variabel
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2r&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2s. Julianasluis
-
-In het jaar 2012 ontvangt de provincie Zuid-Holland € 2.700.000.
-
-##### Artikel 2t. Kwaliteitsakkoord basisonderwijs
-
-In het jaar 2012 ontvangt de provincie Groningen € 200.000.
-
-##### Artikel 2u. Monumenten
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2u](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2u&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2v. Programmatische aanpak stikstof
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2v](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2v&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2w. Zwemwaterrichtlijn EU
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2w](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2w&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 2x. Natuur
-
-In het jaar 2012 ontvangen de provincies, genoemd in [bijlage 2x](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2x&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-#### § 2. Uitkeringen aan gemeenten
-
-##### Artikel 29ss. Centra voor Jeugd en Gezin
-
-Voor de Centra voor Jeugd en Gezin ontvangen de gemeenten: Met ingang van 2012 jaarlijks via een decentralisatie-uitkering uit het gemeentefonds een bedrag waarbij de verdeelmaatstaven genoemd in [bijlage 29ss-a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ss-a&z=2015-01-01&g=2015-01-01) worden gehanteerd voor de verdeling van het totale beschikbare bedrag voor de uitkering.
-
-##### Artikel 29tt. Focusgemeenten
-
-In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29tt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29tt&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 29uu. IODS kwaliteitsprojecten
-
-In het jaar 2012 ontvangt de gemeente Midden-Delfland € 9.665.000.
-
-##### Artikel 29vv. Kwaliteitssprong Zuid
-
-In het jaar 2012 ontvangt de gemeente Rotterdam € 1.400.000.
-
-##### Artikel 29ww. LHBT emancipatiebeleid
-
-In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29ww](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ww&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 29yy. Nationaal Actieprogramma Rotterdam Zuid
-
-In het jaar 2012 ontvangt de gemeente Rotterdam € 30.000.000.
-
-##### Artikel 29zz. Platform Woonoverlast
-
-In het jaar 2012 ontvangt de gemeente Amersfoort € 50.000.
-
-##### Artikel 29aaa. Quick wins binnenhavens
-
-In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29aaa](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29aaa&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 29bbb. Vsv-programmagelden RMC-regio’s G4
-
-In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29bbb&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-##### Artikel 29ccc. We Can Young
-
-In het jaar 2012 ontvangen de gemeenten, genoemd in [bijlage 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ccc&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-#### § 3. Uitkeringen aan zowel gemeenten als provincies
-
-##### Artikel 31n. Invoeringskosten Jeugdzorg
-
-In het jaar 2012 ontvangen de gemeenten en provincies, genoemd in [bijlage 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31n&z=2015-01-01&g=2015-01-01), de in die bijlage genoemde uitkering.
-
-#### § 4. Slotbepalingen
 
 ## Bijlage 29ff. , genoemd in artikel 29ff. Loondispensatie
 
@@ -13671,67 +14231,19 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29ii. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-01-01&g=2015-01-01). Vadercentra
+## Bijlage 29ii. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-03-21&g=2015-03-21). Vadercentra
 
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Amersfoort | € 50.000 |
-| Breda | € 50.000 |
-| Deventer | € 50.000 |
-| Eindhoven | € 50.000 |
-| Groningen | € 50.000 |
-| Haarlem | € 50.000 |
-| Leeuwarden | € 50.000 |
-| Leidschendam-Voorburg | € 50.000 |
-| Nijmegen | € 50.000 |
-| Oosterhout | € 50.000 |
-| ’s-Gravenhage | € 50.000 |
-| Tilburg | € 50.000 |
-| Vlaardingen | € 50.000 |
-| Zoetermeer | € 50.000 |
-| **Totaal** | **€ 700.000** |
+Vervallen
 
-## Bijlage 29ii-2. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-01-01&g=2015-01-01). Vadercentra
+## Bijlage 29ii-2. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-03-21&g=2015-03-21). Vadercentra
 
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Amersfoort | € 50.000 |
-| Breda | € 50.000 |
-| Deventer | € 50.000 |
-| Eindhoven | € 50.000 |
-| Groningen | € 50.000 |
-| Haarlem | € 50.000 |
-| Leeuwarden | € 50.000 |
-| Leidschendam-Voorburg | € 50.000 |
-| Nijmegen | € 50.000 |
-| Oosterhout | € 49.000 |
-| ’s-Gravenhage | € 50.000 |
-| Tilburg | € 50.000 |
-| Vlaardingen | € 50.000 |
-| Zoetermeer | € 50.000 |
-| **Totaal** | **€ 699.000** |
+Vervallen
 
-## Bijlage 29ii-3. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-01-01&g=2015-01-01). Vadercentra
+## Bijlage 29ii-3. , genoemd in [artikel 29ii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ii&z=2015-03-21&g=2015-03-21). Vadercentra
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Amersfoort | € 50.000 |   |
-| Breda | € 50.000 |   |
-| Deventer | € 50.000 |   |
-| Eindhoven | € 50.000 |   |
-| Groningen | € 50.000 |   |
-| Haarlem | € 50.000 |   |
-| Leeuwarden | € 50.000 |   |
-| Leidschendam-Voorburg | € 50.000 |   |
-| Nijmegen | € 50.000 |   |
-| Oosterhout | € 50.000 |   |
-| ’s-Gravenhage | € 50.000 |   |
-| Tilburg | € 50.000 |   |
-| Vlaardingen | € 50.000 |   |
-| Zoetermeer | € 50.000 |   |
-| Totaal | € 700.000 |   |
+Vervallen
 
-## Bijlage 29jj. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-01-01&g=2015-01-01). Versterking peuterspeelzaalwerk
+## Bijlage 29jj. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-03-21&g=2015-03-21). Versterking peuterspeelzaalwerk
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -14168,7 +14680,7 @@ Vervallen
 | Zwolle | € 210.337 |
 | **Totaal** | **€ 35.000.002** |
 
-## Bijlage 29jj-2. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-01-01&g=2015-01-01). Versterking peuterspeelzaalwerk
+## Bijlage 29jj-2. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-03-21&g=2015-03-21). Versterking peuterspeelzaalwerk
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -14592,7 +15104,7 @@ Vervallen
 | Zwolle | € 210.337,18 |
 | **Totaal** | **€ 35.000.001,62** |
 
-## Bijlage 29jj-3. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-01-01&g=2015-01-01). Versterking peuterspeelzaalwerk
+## Bijlage 29jj-3. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-03-21&g=2015-03-21). Versterking peuterspeelzaalwerk
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15013,7 +15525,421 @@ Vervallen
 | Zwolle | 210.337,18 |   |
 | Totaal | 35.000.001,62 |   |
 
-## Bijlage 29kk. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-01-01&g=2015-01-01). Vrouwenopvang
+## Bijlage 29jj-4. genoemd in [artikel 29jj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jj&z=2015-03-21&g=2015-03-21). Versterking peuterspeelzaalwerk
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Aa en Hunze | € 115.699,70 |
+| Aalburg | € 40.977,78 |
+| Aalsmeer | € 50.616,54 |
+| Aalten | € 69.067,38 |
+| Achtkarspelen | € 80.948,56 |
+| Alblasserdam | € 36.196,74 |
+| Albrandswaard | € 43.541,68 |
+| Alkmaar | € 146.371,84 |
+| Almelo | € 133.267,10 |
+| Almere | € 382.334,48 |
+| Alphen aan den Rijn | € 131.971,46 |
+| Alphen-Chaam | € 36.918,96 |
+| Ameland | € 18.297,72 |
+| Amersfoort | € 266.348,36 |
+| Amstelveen | € 128.976,56 |
+| Amsterdam | € 1.084.404,82 |
+| Apeldoorn | € 309.683,84 |
+| Appingedam | € 21.508,42 |
+| Arnhem | € 223.217,46 |
+| Assen | € 124.457,96 |
+| Asten | € 38.690,38 |
+| Baarle-Nassau | € 25.111,04 |
+| Baarn | € 45.436,80 |
+| Barendrecht | € 90.266,06 |
+| Barneveld | € 144.373,62 |
+| Bedum | € 27.986,64 |
+| Beek | € 32.021,16 |
+| Beemster | € 28.031,20 |
+| Beesel | € 27.967,70 |
+| Bellingwedde | € 46.283,94 |
+| Bergambacht | € 27.526,84 |
+| Bergeijk | € 56.271,14 |
+| Bergen L | € 50.910,82 |
+| Bergen NH | € 66.143,00 |
+| Bergen op Zoom | € 120.177,06 |
+| Berkelland | € 129.284,92 |
+| Bernheze | € 73.478,62 |
+| Bernisse | € 35.495,56 |
+| Best | € 58.355,86 |
+| Beuningen | € 59.217,04 |
+| Beverwijk | € 62.448,58 |
+| Binnenmaas | € 68.244,04 |
+| Bladel | € 51.479,66 |
+| Blaricum | € 19.778,20 |
+| Bloemendaal | € 47.398,54 |
+| Boarnsterhim | € 70.506,98 |
+| Bodegraven-Reeuwijk | € 91.753,76 |
+| Boekel | € 28.575,62 |
+| Borger-Odoorn | € 125.269,46 |
+| Borne | € 43.415,90 |
+| Borsele | € 86.745,60 |
+| Boskoop | € 35.675,16 |
+| Boxmeer | € 78.628,90 |
+| Boxtel | € 61.529,16 |
+| Breda | € 284.860,58 |
+| Brielle | € 34.023,52 |
+| Bronckhorst | € 123.692,86 |
+| Brummen | € 53.075,46 |
+| Brunssum | € 44.000,28 |
+| Bunnik | € 33.273,70 |
+| Bunschoten | € 44.279,98 |
+| Buren | € 88.088,50 |
+| Bussum | € 54.254,96 |
+| Capelle aan den IJssel | € 106.222,76 |
+| Castricum | € 71.241,32 |
+| Coevorden | € 130.679,94 |
+| Cranendonck | € 52.104,56 |
+| Cromstrijen | € 34.081,14 |
+| Cuijk | € 54.039,68 |
+| Culemborg | € 54.672,58 |
+| Dalfsen | € 81.880,02 |
+| Dantumadiel | € 57.840,12 |
+| De Bilt | € 90.534,64 |
+| De Marne | € 60.906,12 |
+| De Ronde Venen | € 121.591,16 |
+| De Wolden | € 98.179,14 |
+| Delft | € 135.530,16 |
+| Delfzijl | € 73.204,64 |
+| Den Helder | € 98.457,08 |
+| Deurne | € 74.496,74 |
+| Deventer | € 181.035,04 |
+| Diemen | € 40.685,38 |
+| Dinkelland | € 83.233,00 |
+| Doesburg | € 21.561,84 |
+| Doetinchem | € 108.949,84 |
+| Dongen | € 51.132,74 |
+| Dongeradeel | € 95.222,36 |
+| Dordrecht | € 199.100,92 |
+| Drechterland | € 53.900,72 |
+| Drimmelen | € 63.963,78 |
+| Dronten | € 116.045,96 |
+| Druten | € 43.825,34 |
+| Duiven | € 58.382,28 |
+| Echt-Susteren | € 73.538,48 |
+| Edam-Volendam | € 52.625,66 |
+| Ede | € 261.460,28 |
+| Eemnes | € 23.202,92 |
+| Eemsmond | € 67.600,64 |
+| Eersel | € 55.150,70 |
+| Eijsden-Margraten | € 71.982,42 |
+| Eindhoven | € 306.221,68 |
+| Elburg | € 55.355,50 |
+| Emmen | € 253.443,00 |
+| Enkhuizen | € 31.157,60 |
+| Enschede | € 264.170,36 |
+| Epe | € 88.771,54 |
+| Ermelo | € 60.841,56 |
+| Etten-Leur | € 73.910,64 |
+| Ferwerderadiel | € 37.297,88 |
+| Franekeradeel | € 63.099,58 |
+| Gaasterlan-Sleat | € 50.656,82 |
+| Geertruidenberg | € 37.624,38 |
+| Geldermalsen | € 68.141,26 |
+| Geldrop-Mierlo | € 66.468,36 |
+| Gemert-Bakel | € 73.015,96 |
+| Gennep | € 42.194,64 |
+| Giessenlanden | € 49.193,26 |
+| Gilze en Rijen | € 56.792,52 |
+| Goeree-Overflakkee | € 141.943,60 |
+| Goes | € 75.378,42 |
+| Goirle | € 42.615,72 |
+| Gorinchem | € 58.860,92 |
+| Gouda | € 124.465,38 |
+| Graft-De Rijp | € 20.105,42 |
+| Grave | € 28.716,58 |
+| Groesbeek | € 45.153,16 |
+| Groningen | € 255.221,98 |
+| Grootegast | € 47.265,42 |
+| Gulpen-Wittem | € 61.474,76 |
+| Haaksbergen | € 60.810,58 |
+| Haaren | € 39.816,84 |
+| Haarlem | € 219.919,66 |
+| Haarlemmerliede Spaarnw | € 18.101,02 |
+| Haarlemmermeer | € 315.063,54 |
+| Halderberge | € 67.942,36 |
+| Hardenberg | € 173.754,02 |
+| Harderwijk | € 81.514,70 |
+| Hardinxveld-Giessendam | € 38.438,76 |
+| Haren | € 41.495,74 |
+| Harlingen | € 30.664,16 |
+| Hattem | € 25.850,14 |
+| Heemskerk | € 70.178,40 |
+| Heemstede | € 44.822,02 |
+| Heerde | € 51.077,34 |
+| Heerenveen | € 114.505,32 |
+| Heerhugowaard | € 99.638,62 |
+| Heerlen | € 127.765,90 |
+| Heeze-Leende | € 45.156,30 |
+| Heiloo | € 40.295,54 |
+| Hellendoorn | € 85.995,98 |
+| Hellevoetsluis | € 69.476,36 |
+| Helmond | € 152.487,56 |
+| Hendrik-Ido-Ambacht | € 49.846,50 |
+| Hengelo O | € 140.588,76 |
+| Het Bildt | € 43.781,06 |
+| Heumen | € 40.063,16 |
+| Heusden | € 87.646,84 |
+| Hillegom | € 36.383,36 |
+| Hilvarenbeek | € 46.421,44 |
+| Hilversum | € 135.975,34 |
+| Hof van Twente | € 92.293,10 |
+| Hollands Kroon | € 165.281,42 |
+| Hoogeveen | € 128.434,40 |
+| Hoogezand-Sappemeer | € 68.036,38 |
+| Hoorn | € 117.909,44 |
+| Horst aan de Maas | € 96.862,34 |
+| Houten | € 114.376,04 |
+| Huizen | € 80.158,68 |
+| Hulst | € 90.169,72 |
+| IJsselstein | € 67.180,16 |
+| Kaag en Braassem | € 73.241,62 |
+| Kampen | € 119.998,70 |
+| Kapelle | € 32.425,98 |
+| Katwijk | € 119.412,42 |
+| Kerkrade | € 64.261,14 |
+| Koggenland | € 77.546,58 |
+| Kollumerland en Nwkruisl | € 52.602,98 |
+| Korendijk | € 38.548,70 |
+| Krimpen aan den IJssel | € 50.526,00 |
+| Laarbeek | € 50.264,46 |
+| Landerd | € 41.159,72 |
+| Landgraaf | € 57.525,84 |
+| Landsmeer | € 28.579,66 |
+| Langedijk | € 54.883,50 |
+| Lansingerland | € 110.771,86 |
+| Laren | € 18.634,52 |
+| Leek | € 47.673,64 |
+| Leerdam | € 45.575,94 |
+| Leeuwarden | € 150.748,26 |
+| Leeuwarderadeel | € 29.501,80 |
+| Leiden | € 169.446,48 |
+| Leiderdorp | € 48.994,98 |
+| Leidschendam-Voorburg | € 109.507,46 |
+| Lelystad | € 156.033,42 |
+| Lemsterland | € 42.288,60 |
+| Leudal | € 101.315,82 |
+| Leusden | € 64.777,00 |
+| Lingewaal | € 37.842,98 |
+| Lingewaard | € 88.754,48 |
+| Lisse | € 42.493,30 |
+| Littenseradiel | € 72.699,66 |
+| Lochem | € 103.297,92 |
+| Loon op Zand | € 48.878,90 |
+| Lopik | € 62.160,24 |
+| Loppersum | € 54.572,52 |
+| Losser | € 56.018,46 |
+| Maasdonk | € 34.395,42 |
+| Maasdriel | € 68.411,10 |
+| Maasgouw | € 52.840,34 |
+| Maassluis | € 50.443,54 |
+| Maastricht | € 162.732,66 |
+| Marum | € 36.736,56 |
+| Medemblik | € 122.569,06 |
+| Meerssen | € 43.747,92 |
+| Menameradiel | € 48.074,88 |
+| Menterwolde | € 38.180,60 |
+| Meppel | € 65.572,66 |
+| Middelburg | € 87.681,82 |
+| Midden Drenthe | € 140.817,98 |
+| Midden-Delfland | € 51.387,74 |
+| Mill en Sint Hubert | € 33.893,32 |
+| Millingen aan de Rijn | € 12.368,10 |
+| Moerdijk | € 107.874,40 |
+| Molenwaard | € 103.095,52 |
+| Montferland | € 85.383,96 |
+| Montfoort U | € 36.060,22 |
+| Mook en Middelaar | € 21.840,10 |
+| Muiden | € 17.860,12 |
+| Naarden | € 36.645,90 |
+| Neder-Betuwe | € 71.291,30 |
+| Nederlek | € 36.431,26 |
+| Nederweert | € 47.254,02 |
+| Neerijnen | € 47.159,50 |
+| Nieuwegein | € 96.713,98 |
+| Nieuwkoop | € 83.205,38 |
+| Nijkerk | € 92.019,00 |
+| Nijmegen | € 237.659,70 |
+| Noord-Beveland | € 40.890,74 |
+| Noordenveld | € 97.111,58 |
+| Noordoostpolder | € 155.268,24 |
+| Noordwijk | € 46.597,52 |
+| Noordwijkerhout | € 39.071,22 |
+| Nuenen c.a. | € 46.033,62 |
+| Nunspeet | € 79.342,96 |
+| Nuth | € 33.724,70 |
+| Oegstgeest | € 41.049,90 |
+| Oirschot | € 49.544,36 |
+| Oisterwijk | € 52.383,32 |
+| Oldambt | € 114.785,02 |
+| Oldebroek | € 63.464,60 |
+| Oldenzaal | € 55.636,48 |
+| Olst-Wijhe | € 56.995,22 |
+| Ommen | € 73.988,96 |
+| Onderbanken | € 21.162,00 |
+| Oost Gelre | € 74.669,30 |
+| Oosterhout | € 102.410,40 |
+| Ooststellingwerf | € 92.011,70 |
+| Oostzaan | € 21.789,70 |
+| Opmeer | € 38.435,44 |
+| Opsterland | € 110.058,92 |
+| Oss | € 177.046,08 |
+| Oud-Beijerland | € 46.699,96 |
+| Oude IJsselstreek | € 96.867,42 |
+| Ouder-Amstel | € 29.005,44 |
+| Ouderkerk | € 27.600,36 |
+| Oudewater | € 26.662,68 |
+| Overbetuwe | € 111.411,22 |
+| Papendrecht | € 53.902,10 |
+| Peel en Maas | € 107.907,62 |
+| Pekela | € 32.150,92 |
+| Pijnacker-Nootdorp | € 104.953,76 |
+| Purmerend | € 131.519,78 |
+| Putten | € 64.269,98 |
+| Raalte | € 98.697,18 |
+| Reimerswaal | € 68.653,04 |
+| Renkum | € 59.989,48 |
+| Renswoude | € 12.690,50 |
+| Reusel-De Mierden | € 38.217,38 |
+| Rheden | € 83.854,34 |
+| Rhenen | € 48.400,04 |
+| Ridderkerk | € 70.112,86 |
+| Rijnwaarden | € 31.695,04 |
+| Rijnwoude | € 52.894,80 |
+| Rijssen-Holten | € 94.230,26 |
+| Rijswijk | € 60.770,96 |
+| Roerdalen | € 57.045,72 |
+| Roermond | € 98.034,80 |
+| Roosendaal | € 148.517,40 |
+| Rotterdam | € 938.711,88 |
+| Rozendaal | € 7.044,10 |
+| Rucphen | € 44.574,40 |
+| Schagen | € 134.471,94 |
+| Schermer | € 29.320,20 |
+| Scherpenzeel | € 20.175,38 |
+| Schiedam | € 119.798,50 |
+| Schiermonnikoog | € 9.172,82 |
+| Schijndel | € 45.028,54 |
+| Schinnen | € 27.179,98 |
+| Schoonhoven | € 22.521,42 |
+| Schouwen-Duiveland | € 111.333,48 |
+| ’s-Gravenhage | € 747.538,60 |
+| ’s-Hertogenbosch | € 221.562,86 |
+| Simpelveld | € 20.457,44 |
+| Sint-Anthonis | € 41.478,82 |
+| Sint-Michielsgestel | € 63.934,70 |
+| Sint-Oedenrode | € 44.324,84 |
+| Sittard-Geleen | € 150.762,40 |
+| Skarsterlan | € 103.643,62 |
+| Sliedrecht | € 42.314,74 |
+| Slochteren | € 63.551,04 |
+| Sluis | € 98.057,46 |
+| Smallingerland | € 118.273,42 |
+| Soest | € 87.344,58 |
+| Someren | € 46.590,14 |
+| Son en Breugel | € 34.065,68 |
+| Spijkenisse | € 118.990,70 |
+| Stadskanaal | € 87.291,66 |
+| Staphorst | € 60.015,58 |
+| Stede Broec | € 40.360,12 |
+| Steenbergen | € 64.156,04 |
+| Steenwijkerland | € 153.233,72 |
+| Stein | € 43.440,76 |
+| Stichtse Vecht | € 149.549,26 |
+| Strijen | € 28.337,30 |
+| Sudwest Fryslan | € 270.451,06 |
+| Ten Boer | € 30.247,80 |
+| Terneuzen | € 148.576,98 |
+| Terschelling | € 32.352,02 |
+| Texel | € 75.455,64 |
+| Teylingen | € 81.927,28 |
+| Tholen | € 80.502,72 |
+| Tiel | € 80.684,66 |
+| Tilburg | € 325.224,10 |
+| Tubbergen | € 74.419,02 |
+| Twenterand | € 87.812,76 |
+| Tynaarlo | € 98.429,42 |
+| Tytsjerksteradiel | € 105.960,62 |
+| Ubbergen | € 27.442,80 |
+| Uden | € 78.361,68 |
+| Uitgeest | € 25.703,26 |
+| Uithoorn | € 50.205,04 |
+| Urk | € 51.646,52 |
+| Utrecht | € 446.855,20 |
+| Utrechtse Heuvelrug | € 118.050,80 |
+| Vaals | € 24.756,32 |
+| Valkenburg aan de Geul | € 35.933,08 |
+| Valkenswaard | € 55.818,96 |
+| Veendam | € 58.539,88 |
+| Veenendaal | € 118.637,48 |
+| Veere | € 78.059,26 |
+| Veghel | € 88.094,24 |
+| Veldhoven | € 74.350,22 |
+| Velsen | € 126.106,28 |
+| Venlo | € 189.062,90 |
+| Venray | € 122.308,90 |
+| Vianen | € 44.241,92 |
+| Vlaardingen | € 106.834,06 |
+| Vlagtwedde | € 64.779,20 |
+| Vlieland | € 10.579,80 |
+| Vlissingen | € 72.108,96 |
+| Vlist | € 34.811,66 |
+| Voerendaal | € 31.306,16 |
+| Voorschoten | € 40.482,30 |
+| Voorst | € 77.315,44 |
+| Vught | € 50.871,30 |
+| Waalre | € 32.108,52 |
+| Waalwijk | € 83.697,72 |
+| Waddinxveen | € 50.177,78 |
+| Wageningen | € 55.743,30 |
+| Wassenaar | € 52.587,24 |
+| Waterland | € 49.221,24 |
+| Weert | € 91.947,16 |
+| Weesp | € 32.532,76 |
+| Werkendam | € 73.967,76 |
+| West Maas en Waal | € 54.659,84 |
+| Westerveld | € 103.046,82 |
+| Westervoort | € 29.280,02 |
+| Westland | € 191.059,30 |
+| Weststellingwerf | € 94.770,30 |
+| Westvoorne | € 34.983,22 |
+| Wierden | € 59.290,26 |
+| Wijchen | € 86.758,44 |
+| Wijdemeren | € 62.526,26 |
+| Wijk bij Duurstede | € 52.357,68 |
+| Winsum | € 50.361,22 |
+| Winterswijk | € 76.595,14 |
+| Woensdrecht | € 51.280,32 |
+| Woerden | € 110.894,06 |
+| Wormerland | € 37.175,08 |
+| Woudenberg | € 27.298,50 |
+| Woudrichem | € 43.551,08 |
+| Zaanstad | € 246.645,86 |
+| Zaltbommel | € 76.295,10 |
+| Zandvoort | € 28.163,72 |
+| Zederik | € 51.065,94 |
+| Zeevang | € 33.601,90 |
+| Zeewolde | € 75.659,28 |
+| Zeist | € 113.633,92 |
+| Zevenaar | € 66.892,26 |
+| Zoetermeer | € 205.496,70 |
+| Zoeterwoude | € 24.965,88 |
+| Zuidhorn | € 69.774,14 |
+| Zuidplas | € 97.967,60 |
+| Zundert | € 52.673,40 |
+| Zutphen | € 83.056,78 |
+| Zwartewaterland | € 60.979,54 |
+| Zwijndrecht | € 74.629,80 |
+| Zwolle | € 210.337,18 |
+| **Totaal** | **€ 35.000.001,62** |
+
+## Bijlage 29kk. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-03-21&g=2015-03-21). Vrouwenopvang
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -15054,7 +15980,7 @@ Vervallen
 | Zwolle | € 71.708 |
 | **Totaal** | **€ 2.400.001** |
 
-## Bijlage 29kk-2. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-01-01&g=2015-01-01). Vrouwenopvang
+## Bijlage 29kk-2. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-03-21&g=2015-03-21). Vrouwenopvang
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -15095,7 +16021,7 @@ Vervallen
 | Zwolle | € 3.042.779 |
 | **Totaal** | **€ 95.223.056** |
 
-## Bijlage 29kk-3. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-01-01&g=2015-01-01). Vrouwenopvang
+## Bijlage 29kk-3. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-03-21&g=2015-03-21). Vrouwenopvang
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15136,6 +16062,47 @@ Vervallen
 | Zwolle | € 3.340.396 |   |
 | Totaal | € 105.552.057 |   |
 
+## Bijlage 29kk-4. genoemd in [artikel 29kk](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29kk&z=2015-03-21&g=2015-03-21). Vrouwenopvang
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Den Helder | € 1.038.174 |
+| Vlaardingen | € 1.074.204 |
+| Helmond | € 1.118.331 |
+| Hilversum | € 1.285.315 |
+| Spijkenisse | € 1.386.682 |
+| Ede | € 1.406.017 |
+| Heerlen | € 1.428.518 |
+| Zaanstad | € 1.587.965 |
+| Vlissingen | € 1.840.193 |
+| Delft | € 1.868.581 |
+| Amersfoort | € 1.913.217 |
+| Dordrecht | € 1.977.746 |
+| Almere | € 1.995.488 |
+| Alkmaar | € 2.081.818 |
+| Gouda | € 2.194.653 |
+| Emmen | € 2.250.464 |
+| Venlo | € 2.367.959 |
+| Nijmegen | € 2.507.622 |
+| Apeldoorn | € 2.519.173 |
+| Maastricht | € 2.677.986 |
+| Haarlem | € 2.804.457 |
+| Eindhoven | € 2.842.738 |
+| Enschede | € 3.254.767 |
+| ’s-Hertogenbosch | € 3.341.643 |
+| Zwolle | € 3.408.480 |
+| Groningen | € 3.989.620 |
+| Leiden | € 4.316.835 |
+| Leeuwarden | € 4.449.555 |
+| Tilburg | € 5.164.612 |
+| Utrecht | € 5.422.421 |
+| ’s-Gravenhage | € 5.499.457 |
+| Arnhem | € 5.772.212 |
+| Rotterdam | € 6.130.321 |
+| Breda | € 6.405.661 |
+| Amsterdam | € 8.636.116 |
+| **Totaal** | **€ 107.959.001** |
+
 ## Bijlage 29ll. , genoemd in artikel 29ll. Wachtlijsten kinderopvang
 
 Vervallen
@@ -15144,15 +16111,15 @@ Vervallen
 
 Vervallen
 
-## Bijlage 29nn. , genoemd in [artikel 29nn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nn&z=2015-01-01&g=2015-01-01). Uitvoeringskosten [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
+## Bijlage 29nn. , genoemd in [artikel 29nn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nn&z=2015-03-21&g=2015-03-21). Uitvoeringskosten [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
 Vervallen
 
-## Bijlage 29nn-2. , genoemd in [artikel 29nn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nn&z=2015-01-01&g=2015-01-01). Uitvoeringskosten [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
+## Bijlage 29nn-2. , genoemd in [artikel 29nn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nn&z=2015-03-21&g=2015-03-21). Uitvoeringskosten [Wet werk en inkomen kunstenaars](https://wetten.overheid.nl/jci1.3:c:BWBR0017837)
 
 Vervallen
 
-## Bijlage 29pp. genoemd in [artikel 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29pp&z=2015-01-01&g=2015-01-01). Eigen kracht
+## Bijlage 29pp. genoemd in [artikel 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29pp&z=2015-03-21&g=2015-03-21). Eigen kracht
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -15180,7 +16147,7 @@ Vervallen
 | Zeist | € 50.000 |
 | **Totaal** | **€ 1.900.000** |
 
-## Bijlage 29pp-2. genoemd in [artikel 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29pp&z=2015-01-01&g=2015-01-01). Eigen kracht
+## Bijlage 29pp-2. genoemd in [artikel 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29pp&z=2015-03-21&g=2015-03-21). Eigen kracht
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15204,11 +16171,35 @@ Vervallen
 | Zeist | € 50.000 |   |
 | Totaal | € 900.000 |   |
 
-## Bijlage 29qq. , genoemd in [artikel 29qq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29qq&z=2015-01-01&g=2015-01-01). Nazorg ex-gedetineerden
+## Bijlage 29pp-3. genoemd in [artikel 29pp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29pp&z=2015-03-21&g=2015-03-21). Eigen kracht
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Groningen | € 50.000 |
+| Leeuwarden | € 50.000 |
+| Deventer | € 50.000 |
+| Enschede | € 50.000 |
+| Hengelo O | € 50.000 |
+| Doetinchem | € 50.000 |
+| Nijmegen | € 50.000 |
+| Tiel | € 50.000 |
+| Amersfoort | € 50.000 |
+| Zeist | € 50.000 |
+| Alkmaar | € 50.000 |
+| Haarlem | € 50.000 |
+| Delft | € 50.000 |
+| Breda | € 50.000 |
+| Eindhoven | € 50.000 |
+| Helmond | € 50.000 |
+| Tilburg | € 50.000 |
+| Almere | € 50.000 |
+| **Totaal** | **€ 900.000** |
+
+## Bijlage 29qq. , genoemd in [artikel 29qq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29qq&z=2015-03-21&g=2015-03-21). Nazorg ex-gedetineerden
 
 Vervallen
 
-## Bijlage 29ss-a. genoemd in [artikel 29ss](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ss&z=2015-01-01&g=2015-01-01). Centra voor Jeugd en Gezin
+## Bijlage 29ss-a. genoemd in [artikel 29ss](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ss&z=2015-03-21&g=2015-03-21). Centra voor Jeugd en Gezin
 
 | Maatstaf | Omschrijving maatstaf | Bron | Peildatum |
 | --- | --- | --- | --- |
@@ -15217,26 +16208,11 @@ Vervallen
 | inwoners 0 t/m 18 jaar | Aantal inwoners van 18 jaar en jonger | CBS | 1 januari uitkeringsjaar |
 | minderheden | Bevolking naar herkomstgroepering (Marokko, voormalige Ned. Antillen en Aruba, Suriname en Turkije) | CBS | 1 januari uitkeringsjaar |
 
-## Bijlage 29tt. , genoemd in [artikel 29tt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29tt&z=2015-01-01&g=2015-01-01). Focusgemeenten
+## Bijlage 29tt. , genoemd in [artikel 29tt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29tt&z=2015-03-21&g=2015-03-21). Focusgemeenten
 
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Amsterdam | € 148.000 |   |
-| Breda | € 148.000 |   |
-| Eindhoven | € 148.000 |   |
-| Emmen | € 148.000 |   |
-| Enschede | € 148.000 |   |
-| Hoogeveen | € 148.000 |   |
-| Leeuwarden | € 148.000 |   |
-| Pijnacker-Nootdorp | € 74.000 |   |
-| Raalte | € 148.000 |   |
-| Rotterdam | € 148.000 |   |
-| Tynaarlo | € 148.000 |   |
-| Zaanstad | € 148.000 |   |
-| Zoetermeer | € 74.000 |   |
-| Totaal | € 1.776.000 |   |
+Vervallen
 
-## Bijlage 29ww. genoemd in [artikel 29ww](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ww&z=2015-01-01&g=2015-01-01). LHBT emancipatiebeleid
+## Bijlage 29ww. genoemd in [artikel 29ww](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ww&z=2015-03-21&g=2015-03-21). LHBT emancipatiebeleid
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15282,7 +16258,54 @@ Vervallen
 | Zwolle | € 20.000 |   |
 | Totaal | € 920.000 |   |
 
-## Bijlage 29xx-a. genoemd in [artikel 29xx](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29xx&z=2015-01-01&g=2015-01-01). Maatschappelijke opvang
+## Bijlage 29ww-2. genoemd in [artikel 29ww](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ww&z=2015-03-21&g=2015-03-21). LHBT emancipatiebeleid
+
+| **Gemeente** | **Uitkering 2013** |
+| --- | --- |
+| Alkmaar | € 20.000 |
+| Almere | € 20.000 |
+| Amersfoort | € 20.000 |
+| Amsterdam | € 100.000 |
+| Arnhem | € 20.000 |
+| Breda | € 20.000 |
+| Capelle aan den IJssel | € 20.000 |
+| Delft | € 20.000 |
+| Deventer | € 20.000 |
+| Dordrecht | € 20.000 |
+| Eindhoven | € 20.000 |
+| Enschede | € 20.000 |
+| Goes | € 20.000 |
+| Groningen | € 20.000 |
+| Haarlem | € 20.000 |
+| Heerlen | € 20.000 |
+| Helmond | € 20.000 |
+| Hengelo O | € 20.000 |
+| Hoorn | € 20.000 |
+| Leeuwarden | € 20.000 |
+| Leiden | € 20.000 |
+| Leidschendam-Voorburg | € 20.000 |
+| Lelystad | € 20.000 |
+| Maastricht | € 20.000 |
+| Middelburg | € 20.000 |
+| Nijmegen | € 20.000 |
+| Oss | € 20.000 |
+| Purmerend | € 20.000 |
+| Rotterdam | € 100.000 |
+| Schiedam | € 20.000 |
+| ’s-Gravenhage | € 100.000 |
+| ’s-Hertogenbosch | € 20.000 |
+| Sittard-Geleen | € 20.000 |
+| Sudwest Fryslan | € 20.000 |
+| Tilburg | € 20.000 |
+| Utrecht | € 100.000 |
+| Venlo | € 20.000 |
+| Vlissingen | € 20.000 |
+| Westland | € 20.000 |
+| Zoetermeer | € 20.000 |
+| Zwolle | € 20.000 |
+| **Totaal** | **€ 1.140.000** |
+
+## Bijlage 29xx-a. genoemd in [artikel 29xx](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29xx&z=2015-03-21&g=2015-03-21). Maatschappelijke opvang
 
 | Maatstaf | Omschrijving maatstaf | Bron | Peildatum |
 | --- | --- | --- | --- |
@@ -15300,7 +16323,7 @@ Vervallen
 
 * omgezet naar centrumgemeente = som van alle gemeenten in de regio van de betreffende centrumgemeente.
 
-## Bijlage 29xx-b. genoemd in [artikel 29xx](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29xx&z=2015-01-01&g=2015-01-01). Maatschappelijke opvang
+## Bijlage 29xx-b. genoemd in [artikel 29xx](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29xx&z=2015-03-21&g=2015-03-21). Maatschappelijke opvang
 
 | Gemeente | Uitkering 2010 |   |
 | --- | --- | --- |
@@ -15349,7 +16372,56 @@ Vervallen
 | Zwolle | € 7.985.251 |   |
 | Totaal | € 307.828.115 |   |
 
-## Bijlage 29aaa. genoemd in [artikel 29aaa](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29aaa&z=2015-01-01&g=2015-01-01). Quick wins binnenhavens
+## Bijlage 29xx-c. genoemd in [artikel 29xx](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29xx&z=2015-03-21&g=2015-03-21). Maatschappelijke opvang
+
+| **Gemeente** | **Uitkering 2011** |
+| --- | --- |
+| Alkmaar | 2.833.948,00 |
+| Almelo | 2.461.168,00 |
+| Almere | 5.118.614,00 |
+| Amersfoort | 4.390.096,00 |
+| Amsterdam | 40.402.586,00 |
+| Apeldoorn | 5.774.620,00 |
+| Arnhem | 7.667.232,00 |
+| Assen | 3.798.289,00 |
+| Bergen op Zoom | 2.424.783,00 |
+| Breda | 5.912.931,00 |
+| Delft | 2.584.141,00 |
+| Den Helder | 1.447.446,00 |
+| Deventer | 3.017.680,00 |
+| Doetinchem | 2.948.012,00 |
+| Dordrecht | 6.058.427,00 |
+| Ede | 2.167.209,00 |
+| Eindhoven | 12.206.034,00 |
+| Emmen | 2.342.216,00 |
+| Enschede | 7.054.892,00 |
+| Gouda | 1.843.737,00 |
+| Groningen | 13.131.422,00 |
+| Haarlem | 6.587.177,00 |
+| Heerlen | 6.205.529,00 |
+| Helmond | 2.904.250,00 |
+| Hilversum | 2.603.113,00 |
+| Hoorn | 1.952.873,00 |
+| Leeuwarden | 13.226.453,00 |
+| Leiden | 5.306.248,00 |
+| Maastricht | 6.988.957,00 |
+| Nijmegen | 7.973.300,00 |
+| Oss | 3.201.235,00 |
+| Purmerend | 1.223.032,00 |
+| Rotterdam | 36.875.904,00 |
+| ’s-Gravenhage | 20.372.663,00 |
+| ’s-Hertogenbosch | 4.323.504,00 |
+| Spijkenisse | 2.607.581,00 |
+| Tilburg | 7.851.785,00 |
+| Utrecht | 17.005.596,00 |
+| Venlo | 6.675.422,00 |
+| Vlaardingen | 2.051.044,00 |
+| Vlissingen | 5.900.636,00 |
+| Zaanstad | 2.124.112,00 |
+| Zwolle | 7.682.220,00 |
+| **Totaal** | **€ 307.228.117** |
+
+## Bijlage 29aaa. genoemd in [artikel 29aaa](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29aaa&z=2015-03-21&g=2015-03-21). Quick wins binnenhavens
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15359,7 +16431,7 @@ Vervallen
 | Venray | € 4.000.000 |   |
 | Totaal | € 10.014.240 |   |
 
-## Bijlage 29bbb. genoemd in [artikel 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29bbb&z=2015-01-01&g=2015-01-01). Vsv-programmagelden RMC-regio’s G4
+## Bijlage 29bbb. genoemd in [artikel 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29bbb&z=2015-03-21&g=2015-03-21). Vsv-programmagelden RMC-regio’s G4
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -15369,1059 +16441,9 @@ Vervallen
 | Utrecht | € 875.000 |   |
 | Totaal | € 6.125.000 |   |
 
-## Bijlage 29ccc. genoemd in [artikel 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ccc&z=2015-01-01&g=2015-01-01). We Can Young
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Alkmaar | € 20.000 |   |
-| Almere | € 20.000 |   |
-| Amsterdam | € 20.000 |   |
-| Apeldoorn | € 20.000 |   |
-| Arnhem | € 20.000 |   |
-| Breda | € 20.000 |   |
-| Delft | € 20.000 |   |
-| Dordrecht | € 20.000 |   |
-| Eindhoven | € 20.000 |   |
-| Groningen | € 20.000 |   |
-| Helmond | € 20.000 |   |
-| Leiden | € 20.000 |   |
-| ’s-Gravenhage | € 20.000 |   |
-| Tilburg | € 20.000 |   |
-| Zwolle | € 20.000 |   |
-| Totaal | € 300.000 |   |
-
-## Bijlage 30a. , genoemd in artikel 30 Antidiscriminatievoorzieningen voor provincies
-
-Vervallen
-
-## Bijlage 30b. , genoemd in artikel 30: Antidiscriminatievoorzieningen voor gemeenten
-
-Vervallen
-
-## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-01-01&g=2015-01-01) Cultuurparticipatie voor provincies
-
-Vervallen
-
-## Bijlage 31a*. genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-01-01&g=2015-01-01). Alle troeven in handen
-
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Arnhem | € 23.077 |
-| Delft | € 33.462 |
-| Deventer | € 46.154 |
-| Dordrecht | € 17.143 |
-| Eindhoven | € 85.714 |
-| Groningen | € 42.148 |
-| Haarlem | € 46.154 |
-| Haarlemmermeer | € 23.077 |
-| Leeuwarden | € 23.077 |
-| Leidschendam-Voorburg | € 23.077 |
-| Maastricht | € 85.714 |
-| Nijmegen | € 23.077 |
-| Rotterdam | € 46.154 |
-| ’s-Gravenhage | € 23.077 |
-| ’s-Hertogenbosch | € 46.154 |
-| Sittard-Geleen | € 39.231 |
-| Smallingerland | € 11.538 |
-| Veenendaal | € 16.247 |
-| Zaanstad | € 45.992 |
-| **Totaal** | **€ 700.267** |
-
-| **Provincie** | **Uitkering 2010** |
-| --- | --- |
-| Groningen | € 46.154 |
-| Fryslân | € 46.154 |
-| Utrecht | € 42.857 |
-| Noord-Holland | € 42.857 |
-| Zeeland | € 42.857 |
-| **Totaal** | **€ 220.879** |
-
-## Bijlage 31a-2. , genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-01-01&g=2015-01-01). Alle troeven in handen
-
-Vervallen
-
-## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-01-01&g=2015-01-01) Cultuurparticipatie voor gemeenten
-
-| Gemeente | Uitkering |   |
-| --- | --- | --- |
-|   |   |   |
-| Alkmaar | € 74.397 |   |
-| Almere | € 142.930 |   |
-| Amersfoort | € 109.853 |   |
-| Amsterdam | € 839.459 |   |
-| Apeldoorn | € 122.896 |   |
-| Arnhem | € 161.103 |   |
-| Breda | € 134.576 |   |
-| Delft | € 75.349 |   |
-| Deventer | € 76.327 |   |
-| Dordrecht | € 93.647 |   |
-| Ede | € 84.925 |   |
-| Eindhoven | € 236.960 |   |
-| Emmen | € 85.977 |   |
-| Enschede | € 174.558 |   |
-| Groningen | € 205.223 |   |
-| Haarlem | € 116.098 |   |
-| Haarlemmermeer | € 109.221 |   |
-| Heerlen | € 71.524 |   |
-| Helmond | € 67.988 |   |
-| Hengelo O | € 64.329 |   |
-| Leeuwarden | € 72.950 |   |
-| Leiden | € 92.813 |   |
-| Maastricht | € 134.513 |   |
-| Nijmegen | € 127.117 |   |
-| Rotterdam | € 659.986 |   |
-| ’s-Gravenhage | € 535.553 |   |
-| ’s-Hertogenbosch | € 107.162 |   |
-| Sittard-Geleen | € 76.034 |   |
-| Tilburg | € 158.995 |   |
-| Utrecht | € 325.893 |   |
-| Venlo | € 72.752 |   |
-| Westland | € 78.107 |   |
-| Zaanstad | € 111.708 |   |
-| Zoetermeer | € 93.239 |   |
-| Zwolle | € 90.562 |   |
-
-## Bijlage 31b*. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-01-01&g=2015-01-01). Bedrijventerreinen (Topperprojecten)
-
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Almelo | € 1.834.429 |
-| Enschede | € 1.670.466 |
-| Maastricht | € 4.395.000 |
-| Nijmegen | € 2.400.000 |
-| Roosendaal | € 1.237.655 |
-| Schiedam | € 4.421.942 |
-| Tilburg | € 2.400.000 |
-| **Totaal** | **€ 18.359.492** |
-
-| **Provincie** | **Uitkering 2010** |
-| --- | --- |
-| Groningen | € 1.811.057 |
-| Fryslân | € 2.047.282 |
-| Drenthe | € 1.811.057 |
-| Overijssel | € 3.779.598 |
-| Gelderland | € 4.960.722 |
-| Utrecht | € 1.968.541 |
-| Noord-Holland | € 5.315.060 |
-| Zuid-Holland | € 5.078.834 |
-| Zeeland | € 1.535.462 |
-| Noord-Brabant | € 5.629.282 |
-| Limburg | € 4.488.272 |
-| Flevoland | € 1.574.833 |
-| **Totaal** | **€ 40.000.000** |
-
-## Bijlage 31b-2. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-01-01&g=2015-01-01). Bedrijventerreinen
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Overijssel | € 550.000 |
-| Gelderland | € 2.002.000 |
-| Zuid-Holland | € 6.520.000 |
-| Zeeland | € 463.000 |
-| Noord-Brabant | € 303.000 |
-| Limburg | € 7.200.000 |
-| **Totaal** | **€ 17.038.000** |
-
-## Bijlage 31b-3. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-01-01&g=2015-01-01). Bedrijventerreinen
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 1.101.576 |   |
-| Flevoland | € 957.892 |   |
-| Fryslân | € 1.245.259 |   |
-| Gelderland | € 3.966.359 |   |
-| Groningen | € 1.101.576 |   |
-| Limburg | € 2.729.992 |   |
-| Noord-Brabant | € 3.782.011 |   |
-| Noord-Holland | € 3.232.885 |   |
-| Overijssel | € 2.948.940 |   |
-| Utrecht | € 1.197.365 |   |
-| Zeeland | € 1.480.944 |   |
-| Zuid-Holland | € 4.888.201 |   |
-| Totaal | € 28.633.000 |   |
-
-## Bijlage 31c. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-01-01&g=2015-01-01). Bodemsanering
-
-| **Gemeente** | **Uitkering 2010** |
-| --- | --- |
-| Alkmaar | € 410.384 |
-| Almelo | € 458.042 |
-| Amersfoort | € 393.717 |
-| Amsterdam | € 9.542.040 |
-| Arnhem | € 460.493 |
-| Breda | € 531.243 |
-| Deventer | € 437.354 |
-| Dordrecht | € 409.731 |
-| Eindhoven | € 432.824 |
-| Emmen | € 667.336 |
-| Enschede | € 539.558 |
-| Groningen | € 540.210 |
-| Haarlem | € 947.992 |
-| Heerlen | € 424.591 |
-| Helmond | € 379.759 |
-| Hengelo O | € 492.116 |
-| Leeuwarden | € 451.609 |
-| Leiden | € 425.680 |
-| Maastricht | € 479.837 |
-| Nijmegen | € 425.075 |
-| Rotterdam | € 6.397.123 |
-| Schiedam | € 391.539 |
-| ’s-Gravenhage | € 1.409.508 |
-| ’s-Hertogenbosch | € 2.064.007 |
-| Sittard-Geleen | € 2.991 |
-| Tilburg | € 674.035 |
-| Utrecht | € 391.243 |
-| Venlo | € 517.894 |
-| Zaanstad | € 1.305.241 |
-| Zwolle | € 403.113 |
-| **Totaal** | **€ 32.406.285** |
-
-| **Provincie** | **Uitkering 2010** |
-| --- | --- |
-| Groningen | € 2.239.912 |
-| Fryslân | € 3.665.481 |
-| Drenthe | € 1.246.209 |
-| Overijssel | € 3.755.347 |
-| Gelderland | € 9.567.039 |
-| Utrecht | € 1.392.144 |
-| Noord-Holland | € 6.546.112 |
-| Zuid-Holland | € 9.169.293 |
-| Zeeland | € 475.963 |
-| Noord-Brabant | € 26.424.074 |
-| Limburg | € 726.865 |
-| Flevoland | € 230.640 |
-| **Totaal** | **€ 65.439.079** |
-
-## Bijlage 31c-2. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-01-01&g=2015-01-01). Bodemsanering
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Alkmaar | € 409.337 |
-| Almelo | € 456.888 |
-| Amersfoort | € 392.728 |
-| Amsterdam | € 4.537.101 |
-| Arnhem | € 459.455 |
-| Breda | € 529.961 |
-| Deventer | € 436.255 |
-| Dordrecht | € 408.687 |
-| Eindhoven | € 431.720 |
-| Emmen | € 665.738 |
-| Enschede | € 538.215 |
-| Groningen | € 538.830 |
-| Haarlem | € 947.027 |
-| Heerlen | € 423.527 |
-| Helmond | € 928.790 |
-| Hengelo O | € 490.904 |
-| Leeuwarden | € 450.467 |
-| Leiden | € 424.593 |
-| Maastricht | € 478.633 |
-| Nijmegen | € 424.019 |
-| Rotterdam | € 1.394.514 |
-| Schiedam | € 390.539 |
-| ’s-Gravenhage | € 1.405.804 |
-| ’s-Hertogenbosch | € 363.088 |
-| Sittard-Geleen | € 2.991 |
-| Tilburg | € 1.072.352 |
-| Utrecht | € 389.663 |
-| Venlo | € 516.694 |
-| Zaanstad | € 1.304.012 |
-| Zwolle | € 402.122 |
-| **Totaal** | **€ 21.614.654** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Groningen | € 2.232.744 |
-| Fryslân | € 3.657.177 |
-| Drenthe | € 1.239.143 |
-| Overijssel | € 17.423.492 |
-| Gelderland | € 14.053.915 |
-| Utrecht | € 1.385.337 |
-| Noord-Holland | € 6.134.373 |
-| Zuid-Holland | € 10.200.970 |
-| Zeeland | € 470.611 |
-| Noord-Brabant | € 13.508.470 |
-| Limburg | € 720.015 |
-| Flevoland | € 227.463 |
-| **Totaal** | **€ 71.253.710** |
-
-## Bijlage 31c-3. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-01-01&g=2015-01-01). Bodemsanering
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Alkmaar | € 407.151 |   |
-| Almelo | € 454.478 |   |
-| Amersfoort | € 390.663 |   |
-| Amsterdam | € 4.626.788 |   |
-| Arnhem | € 457.287 |   |
-| Breda | € 527.285 |   |
-| Deventer | € 433.961 |   |
-| Dordrecht | € 406.507 |   |
-| Eindhoven | € 429.413 |   |
-| Emmen | € 662.402 |   |
-| Enschede | € 1.135.412 |   |
-| Groningen | € 535.948 |   |
-| Haarlem | € 945.011 |   |
-| Heerlen | € 421.305 |   |
-| Helmond | € 376.768 |   |
-| Hengelo O | € 488.373 |   |
-| Leeuwarden | € 448.081 |   |
-| Leiden | € 422.322 |   |
-| Maastricht | € 476.119 |   |
-| Nijmegen | € 421.815 |   |
-| Rotterdam | € 1.389.066 |   |
-| Schiedam | € 388.450 |   |
-| ’s-Gravenhage | € 1.398.070 |   |
-| ’s-Hertogenbosch | € 361.169 |   |
-| Sittard-Geleen | € 2.991 |   |
-| Tilburg | € 668.837 |   |
-| Utrecht | € 386.365 |   |
-| Venlo | € 514.187 |   |
-| Zaanstad | € 11.301.444 |   |
-| Zwolle | € 450.051 |   |
-| Totaal | € 31.327.719 |   |
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 1.249.894 |   |
-| Flevoland | € 232.297 |   |
-| Fryslân | € 3.669.812 |   |
-| Gelderland | € 14.573.884 |   |
-| Groningen | € 2.243.651 |   |
-| Limburg | € 730.438 |   |
-| Noord-Brabant | € 13.414.957 |   |
-| Noord-Holland | € 6.152.234 |   |
-| Overijssel | € 15.233.923 |   |
-| Utrecht | € 1.395.694 |   |
-| Zeeland | € 478.755 |   |
-| Zuid-Holland | € 10.228.850 |   |
-| Totaal | € 69.604.389 |   |
-
-## Bijlage 31d. , genoemd in artikel 31d. Krimp
-
-Vervallen
-
-## Bijlage 31e. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-01-01&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
-
-| **Provincie** | **Uitkering 2010** |
-| --- | --- |
-| Groningen | € 8.102.319 |
-| Fryslân | € 17.948.095 |
-| Drenthe | € 1.727.426 |
-| Flevoland | € 1.658.329 |
-| **Totaal** | **€ 29.436.169** |
-
-## Bijlage 31e-2. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-01-01&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Assen | € 7.306.660 |
-| **Totaal** | **€ 7.306.660** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Groningen | € 4.324.406 |
-| Fryslân | € 9.862.225 |
-| Drenthe | € 866.129 |
-| Flevoland | € 831.483 |
-| **Totaal** | **€ 15.884.243** |
-
-## Bijlage 31e-3. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-01-01&g=2015-01-01). Zuiderzeelijn
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Assen | € 16.482.000 |   |
-| Totaal | € 16.482.000 |   |
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 2.647.235 |   |
-| Flevoland | € 1.130.930 |   |
-| Fryslân | € 23.578.534 |   |
-| Groningen | € 19.718.039 |   |
-| Totaal | € 47.074.738 |   |
-
-## Bijlage 31f. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-01-01&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
-
-Vervallen
-
-## Bijlage 31f-2. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-01-01&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
-
-Vervallen
-
-## Bijlage 31g. , genoemd in artikel 31g. Tijdbeleid
-
-Vervallen
-
-## Bijlage 31h. , genoemd in [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31h&z=2015-01-01&g=2015-01-01). Stimuleringsregeling oversampling WoOn
-
-Vervallen
-
-## Bijlage 31i. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-01-01&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Alkmaar | € 1.758.930 |
-| Almelo | € 1.350.326 |
-| Amersfoort | € 1.303.045 |
-| Amsterdam | € 55.923.744 |
-| Arnhem | € 4.915.138 |
-| Breda | € 1.830.545 |
-| Deventer | € 1.944.612 |
-| Dordrecht | € 3.154.396 |
-| Eindhoven | € 3.314.927 |
-| Emmen | € 994.768 |
-| Enschede | € 3.743.413 |
-| Groningen | € 10.328.868 |
-| Haarlem | € 3.830.021 |
-| Heerlen | € 3.422.057 |
-| Helmond | € 807.274 |
-| Hengelo O | € 1.525.252 |
-| Leeuwarden | € 4.453.546 |
-| Leiden | € 2.875.489 |
-| Lelystad | € 85.743 |
-| Maastricht | € 2.282.873 |
-| Nijmegen | € 3.493.472 |
-| Rotterdam | € 42.948.812 |
-| Schiedam | € 3.740.953 |
-| ’s-Gravenhage | € 28.508.199 |
-| ’s-Hertogenbosch | € 1.069.630 |
-| Sittard-Geleen | € 1.713.968 |
-| Tilburg | € 3.008.209 |
-| Utrecht | € 9.643.308 |
-| Venlo | € 1.843.494 |
-| Zaanstad | € 2.488.623 |
-| Zwolle | € 1.624.395 |
-| **Totaal** | **€ 209.928.030** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Groningen | € 5.337.194 |
-| Fryslân | € 5.267.803 |
-| Drenthe | € 2.702.364 |
-| Overijssel | € 3.594.709 |
-| Gelderland | € 8.194.508 |
-| Utrecht | € 2.967.607 |
-| Noord-Holland | € 8.135.988 |
-| Zuid-Holland | € 16.935.465 |
-| Zeeland | € 4.981.101 |
-| Noord-Brabant | € 10.454.869 |
-| Limburg | € 6.648.347 |
-| Flevoland | € 1.166.954 |
-| **Totaal** | **€ 76.386.909** |
-
-## Bijlage 31i-2. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-01-01&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Alkmaar | € 1.316.200 |   |
-| Almelo | € 955.555 |   |
-| Amersfoort | € 1.055.889 |   |
-| Amsterdam | € 41.465.483 |   |
-| Arnhem | € 3.333.809 |   |
-| Breda | € 1.359.184 |   |
-| Deventer | € 1.350.441 |   |
-| Dordrecht | € 2.080.849 |   |
-| Eindhoven | € 2.336.042 |   |
-| Emmen | € 794.309 |   |
-| Enschede | € 2.560.494 |   |
-| Groningen | € 6.807.296 |   |
-| Haarlem | € 2.606.069 |   |
-| Heerlen | € 2.242.405 |   |
-| Helmond | € 584.085 |   |
-| Hengelo O | € 1.086.503 |   |
-| Leeuwarden | € 3.038.455 |   |
-| Leiden | € 1.977.552 |   |
-| Lelystad | € 52.930 |   |
-| Maastricht | € 1.608.216 |   |
-| Nijmegen | € 2.451.899 |   |
-| Rotterdam | € 29.151.210 |   |
-| Schiedam | € 2.426.344 |   |
-| ’s-Gravenhage | € 20.038.293 |   |
-| ’s-Hertogenbosch | € 751.984 |   |
-| Sittard-Geleen | € 1.172.518 |   |
-| Tilburg | € 2.202.352 |   |
-| Utrecht | € 6.558.690 |   |
-| Venlo | € 1.333.312 |   |
-| Zaanstad | € 1.926.479 |   |
-| Zwolle | € 1.186.524 |   |
-| Totaal | € 147.811.371 |   |
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 2.202.242 |   |
-| Flevoland | € 1.352.041 |   |
-| Fryslân | € 4.079.551 |   |
-| Gelderland | € 6.744.109 |   |
-| Groningen | € 4.140.597 |   |
-| Limburg | € 4.792.392 |   |
-| Noord-Brabant | € 8.121.826 |   |
-| Noord-Holland | € 6.336.267 |   |
-| Overijssel | € 2.755.702 |   |
-| Utrecht | € 2.405.414 |   |
-| Zeeland | € 3.685.161 |   |
-| Zuid-Holland | € 12.418.267 |   |
-| Totaal | € 59.033.569 |   |
-
-## Bijlage 31j. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-01-01&g=2015-01-01). Nationale gebiedsontwikkelingen
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Almere | € 17.200.000 |
-| Amsterdam | € 5.000.000 |
-| Eindhoven | € 4.080.000 |
-| Enschede | € 560.000 |
-| Groningen | € 280.000 |
-| Hengelo O | € 160.000 |
-| Leeuwarden | € 412.000 |
-| Zaltbommel | € 200.000 |
-| Zwartewaterland | € 40.000 |
-| **Totaal** | **€ 27.932.000** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Utrecht | € 282.000 |
-| Noord-Holland | € 480.000 |
-| Zeeland | € 1.500.000 |
-| **Totaal** | **€ 2.262.000** |
-
-## Bijlage 31j-2. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-01-01&g=2015-01-01). Nationale gebiedsontwikkelingen
-
-| Gemeente | Project | Uitkering 2012 |
-| --- | --- | --- |
-| Amsterdam | Noordelijke IJ-overs | € 4.888.000 |
-| Apeldoorn | Kanaalzone | € 2.200.000 |
-| Culemborg | Hollandse Waterlinie | € 500.000 |
-| ’s-Gravenhage | Scheveningen boulevard | € 4.430.000 |
-| Dordrecht | Westelijke Dordtse Oever | € 2.000.000 |
-| Eindhoven | A2 zone | € 2.720.000 |
-| Emmen | Dierenpark | € 4.000.000 |
-| Enschede | Muziekkwartier | € 560.000 |
-| Groningen | Centrale zone | € 3.200.000 |
-| Groningen | Europark | € 280.000 |
-| Heerlen | Oranje Park | € 800.000 |
-| Hengelo | Hart van Zuid | € 160.000 |
-| Leeuwarden | Nieuw Zaailand | € 412.000 |
-| Rotterdam | Hart van Zuid | € 5.032.000 |
-| Tilburg | Spoorzone | € 631.000 |
-| Zaandam | Inverdan | € 532.000 |
-| Zaltbommel | Station/vesting | € 200.000 |
-| Zwartewaterland | Bedrijventerrein | € 40.000 |
-| Totaal |   | € 32.585.000 |
-
-| Provincie | Project | Uitkering 2012 |
-| --- | --- | --- |
-| Gelderland | Traverze Dieren | € 23.365.000 |
-| Noord-Holland | Naardermeer | € 480.000 |
-| Overijssel | IJsseldelta | € 4.500.000 |
-| Utrecht | Fort Vechten | € 282.000 |
-| Zeeland | Waterduinen | € 1.500.000 |
-| Zeeland | Maintenance Value Park en Mobiliteitscentrum Zalco | € 1.700.000 |
-| Zuid-Holland | Nieuw Reijerswaard | € 12.750.000 |
-| Zuid-Holland | Oude Rijn zone | € 11.300.000 |
-| Totaal |   | € 55.877.000 |
-
-## Bijlage 31k. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-01-01&g=2015-01-01). Green Deal
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Rotterdam | € 1.000.000 |
-| **Totaal** | **€ 1.000.000** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Drenthe | € 3.000.000 |
-| Overijssel | € 3.000.000 |
-| **Totaal** | **€ 6.000.000** |
-
-## Bijlage 31k-2. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-01-01&g=2015-01-01). Green Deal
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Amsterdam | € 550.034 |   |
-| Rotterdam | € 60.000 |   |
-| Totaal | € 610.034 |   |
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 84.000 |   |
-| Flevoland | € 585.000 |   |
-| Groningen | € 210.000 |   |
-| Limburg | € 2.752.000 |   |
-| Noord-Brabant | € 3.000.000 |   |
-| Overijssel | € 2.000.000 |   |
-| Zeeland | € 500.000 |   |
-| Totaal | € 9.131.000 |   |
-
-## Bijlage 31l. , genoemd in [artikel 31l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31l&z=2015-01-01&g=2015-01-01). Pieken in de Delta
-
-Vervallen
-
-## Bijlage 31m. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2015-01-01&g=2015-01-01). Sterke regio’s
-
-| **Gemeente** | **Uitkering 2011** |
-| --- | --- |
-| Haarlemmermeer | € 4.000.000 |
-| Leiden | € 8.000.000 |
-| **Totaal** | **€ 12.000.000** |
-
-| **Provincie** | **Uitkering 2011** |
-| --- | --- |
-| Fryslân | € 3.840.000 |
-| Drenthe | € 3.840.000 |
-| Noord-Holland | € 3.000.000 |
-| Zuid-Holland | € 1.400.000 |
-| **Totaal** | **€ 12.080.000** |
-
-## Bijlage 31m-2. genoemd in artikel 31m. Sterke regio’s
-
-| Provincie | Project | Uitkering 2012 |
-| --- | --- | --- |
-| Drenthe | Groen gas Wijster | € 960.000 |
-| Fryslân | Verduurzaming Waddengas | € 960.000 |
-| Noord-Holland | Verbinding Greenport | € 4.470.000 |
-| Zuid-Holland | Coolport | € 1.800.000 |
-| Totaal |   | € 8.190.000 |
-
-## Bijlage 31n. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2015-01-01&g=2015-01-01). Invoeringskosten Jeugdzorg
-
-| Gemeente | Uitkering 2012 |   |
-| --- | --- | --- |
-| Aa en Hunze | € 18.871 |   |
-| Aalburg | € 14.851 |   |
-| Aalsmeer | € 22.473 |   |
-| Aalten | € 20.402 |   |
-| Achtkarspelen | € 21.367 |   |
-| Alblasserdam | € 17.762 |   |
-| Albrandswaard | € 19.686 |   |
-| Alkmaar | € 45.157 |   |
-| Almelo | € 40.748 |   |
-| Almere | € 105.515 |   |
-| Alphen aan den Rijn | € 40.642 |   |
-| Alphen-Chaam | € 12.383 |   |
-| Ameland | € 9.946 |   |
-| Amersfoort | € 79.623 |   |
-| Amstelveen | € 40.868 |   |
-| Amsterdam | € 294.139 |   |
-| Apeldoorn | € 73.720 |   |
-| Appingedam | € 13.006 |   |
-| Arnhem | € 66.283 |   |
-| Assen | € 39.071 |   |
-| Asten | € 15.655 |   |
-| Baarle-Nassau | € 10.644 |   |
-| Baarn | € 18.383 |   |
-| Barendrecht | € 32.023 |   |
-| Barneveld | € 37.240 |   |
-| Bedum | € 12.970 |   |
-| Beek | € 14.498 |   |
-| Beemster | € 12.065 |   |
-| Beesel | € 14.066 |   |
-| Bellingwedde | € 11.719 |   |
-| Bergambacht | € 13.136 |   |
-| Bergeijk | € 16.286 |   |
-| Bergen L | € 13.752 |   |
-| Bergen NH | € 19.942 |   |
-| Bergen op Zoom | € 34.552 |   |
-| Berkelland | € 27.710 |   |
-| Bernheze | € 22.235 |   |
-| Bernisse | € 13.286 |   |
-| Best | € 21.753 |   |
-| Beuningen | € 19.742 |   |
-| Beverwijk | € 24.494 |   |
-| Binnenmaas | € 20.136 |   |
-| Bladel | € 16.870 |   |
-| Blaricum | € 12.007 |   |
-| Bloemendaal | € 18.459 |   |
-| Boarnsterhim | € 17.332 |   |
-| Bodegraven-Reeuwijk | € 23.924 |   |
-| Boekel | € 13.194 |   |
-| Borger-Odoorn | € 18.989 |   |
-| Borne | € 18.037 |   |
-| Borsele | € 19.119 |   |
-| Boskoop | € 15.555 |   |
-| Boxmeer | € 20.876 |   |
-| Boxtel | € 21.571 |   |
-| Breda | € 78.893 |   |
-| Brielle | € 14.717 |   |
-| Bronckhorst | € 24.396 |   |
-| Brummen | € 17.302 |   |
-| Brunssum | € 18.563 |   |
-| Bunnik | € 14.987 |   |
-| Bunschoten | € 18.491 |   |
-| Buren | € 20.012 |   |
-| Bussum | € 23.330 |   |
-| Capelle aan den IJssel | € 35.863 |   |
-| Castricum | € 23.088 |   |
-| Coevorden | € 23.434 |   |
-| Cranendonck | € 16.494 |   |
-| Cromstrijen | € 13.568 |   |
-| Cuijk | € 19.175 |   |
-| Culemborg | € 21.701 |   |
-| Dalfsen | € 21.427 |   |
-| Dantumadiel | € 16.928 |   |
-| De Bilt | € 26.568 |   |
-| De Marne | € 12.617 |   |
-| De Ronde Venen | € 27.826 |   |
-| De Wolden | € 18.697 |   |
-| Delft | € 39.617 |   |
-| Delfzijl | € 18.533 |   |
-| Den Helder | € 30.318 |   |
-| Deurne | € 21.919 |   |
-| Deventer | € 51.222 |   |
-| Diemen | € 18.131 |   |
-| Dinkelland | € 20.922 |   |
-| Dirksland | € 12.429 |   |
-| Doesburg | € 13.256 |   |
-| Doetinchem | € 32.219 |   |
-| Dongen | € 19.105 |   |
-| Dongeradeel | € 19.199 |   |
-| Dordrecht | € 57.870 |   |
-| Drechterland | € 17.240 |   |
-| Drimmelen | € 19.163 |   |
-| Dronten | € 27.588 |   |
-| Druten | € 16.712 |   |
-| Duiven | € 20.770 |   |
-| Echt-Susteren | € 19.690 |   |
-| Edam-Volendam | € 21.637 |   |
-| Ede | € 59.613 |   |
-| Eemnes | € 12.667 |   |
-| Eemsmond | € 15.483 |   |
-| Eersel | € 15.953 |   |
-| Eijsden-Margraten | € 18.421 |   |
-| Eindhoven | € 87.142 |   |
-| Elburg | € 19.191 |   |
-| Emmen | € 53.011 |   |
-| Enkhuizen | € 15.977 |   |
-| Enschede | € 70.324 |   |
-| Epe | € 21.781 |   |
-| Ermelo | € 19.349 |   |
-| Etten-Leur | € 26.175 |   |
-| Ferwerderadiel | € 12.521 |   |
-| Franekeradeel | € 17.434 |   |
-| Gaasterlan-Sleat | € 12.817 |   |
-| Geertruidenberg | € 17.144 |   |
-| Geldermalsen | € 21.070 |   |
-| Geldrop-Mierlo | € 24.328 |   |
-| Gemert-Bakel | € 20.988 |   |
-| Gennep | € 15.459 |   |
-| Giessenlanden | € 15.143 |   |
-| Gilze en Rijen | € 19.431 |   |
-| Goedereede | € 13.466 |   |
-| Goes | € 22.903 |   |
-| Goirle | € 17.852 |   |
-| Gorinchem | € 23.640 |   |
-| Gouda | € 40.224 |   |
-| Graafstroom | € 13.890 |   |
-| Graft-De Rijp | € 11.305 |   |
-| Grave | € 14.032 |   |
-| Groesbeek | € 15.597 |   |
-| Groningen | € 65.525 |   |
-| Grootegast | € 14.446 |   |
-| Gulpen-Wittem | € 13.258 |   |
-| Haaksbergen | € 19.135 |   |
-| Haaren | € 14.360 |   |
-| Haarlem | € 67.616 |   |
-| Haarlemmerliede Spaarnw | € 10.740 |   |
-| Haarlemmermeer | € 76.784 |   |
-| Halderberge | € 19.956 |   |
-| Hardenberg | € 36.960 |   |
-| Harderwijk | € 28.927 |   |
-| Hardinxveld-Giessendam | € 17.120 |   |
-| Haren | € 16.213 |   |
-| Harenkarspel | € 16.320 |   |
-| Harlingen | € 15.067 |   |
-| Hattem | € 13.710 |   |
-| Heemskerk | € 24.428 |   |
-| Heemstede | € 19.778 |   |
-| Heerde | € 16.207 |   |
-| Heerenveen | € 26.618 |   |
-| Heerhugowaard | € 33.114 |   |
-| Heerlen | € 38.159 |   |
-| Heeze-Leende | € 14.755 |   |
-| Heiloo | € 18.005 |   |
-| Hellendoorn | € 24.240 |   |
-| Hellevoetsluis | € 24.474 |   |
-| Helmond | € 48.687 |   |
-| Hendrik-Ido-Ambacht | € 22.045 |   |
-| Hengelo O | € 43.436 |   |
-| Het Bildt | € 13.418 |   |
-| Heumen | € 15.919 |   |
-| Heusden | € 27.130 |   |
-| Hillegom | € 16.746 |   |
-| Hilvarenbeek | € 15.127 |   |
-| Hilversum | € 42.893 |   |
-| Hof van Twente | € 23.690 |   |
-| Hollands Kroon | € 55.030 |   |
-| Hoogeveen | € 32.501 |   |
-| Hoogezand-Sappemeer | € 22.529 |   |
-| Hoorn | € 39.549 |   |
-| Horst aan de Maas | € 26.786 |   |
-| Houten | € 33.478 |   |
-| Huizen | € 26.209 |   |
-| Hulst | € 19.003 |   |
-| IJsselstein | € 25.435 |   |
-| Kaag en Braassem | € 19.641 |   |
-| Kampen | € 33.506 |   |
-| Kapelle | € 14.418 |   |
-| Katwijk | € 37.582 |   |
-| Kerkrade | € 22.865 |   |
-| Koggenland | € 18.789 |   |
-| Kollumerland en Nwkruisl | € 14.236 |   |
-| Korendijk | € 13.224 |   |
-| Krimpen aan den IJssel | € 21.006 |   |
-| Laarbeek | € 17.706 |   |
-| Landerd | € 15.117 |   |
-| Landgraaf | € 21.429 |   |
-| Landsmeer | € 12.507 |   |
-| Langedijk | € 21.232 |   |
-| Lansingerland | € 37.124 |   |
-| Laren | € 12.795 |   |
-| Leek | € 17.112 |   |
-| Leerdam | € 17.706 |   |
-| Leeuwarden | € 43.740 |   |
-| Leeuwarderadeel | € 13.050 |   |
-| Leiden | € 49.731 |   |
-| Leiderdorp | € 19.942 |   |
-| Leidschendam-Voorburg | € 35.535 |   |
-| Lelystad | € 43.482 |   |
-| Lemsterland | € 14.633 |   |
-| Leudal | € 23.312 |   |
-| Leusden | € 21.302 |   |
-| Liesveld | € 13.426 |   |
-| Lingewaal | € 13.366 |   |
-| Lingewaard | € 29.007 |   |
-| Lisse | € 17.866 |   |
-| Littenseradiel | € 13.886 |   |
-| Lochem | € 21.979 |   |
-| Loon op Zand | € 17.862 |   |
-| Lopik | € 15.539 |   |
-| Loppersum | € 12.859 |   |
-| Losser | € 17.852 |   |
-| Maasdonk | € 13.562 |   |
-| Maasdriel | € 18.977 |   |
-| Maasgouw | € 17.002 |   |
-| Maassluis | € 21.118 |   |
-| Maastricht | € 43.960 |   |
-| Marum | € 13.280 |   |
-| Medemblik | € 27.944 |   |
-| Meerssen | € 15.759 |   |
-| Menameradiel | € 14.715 |   |
-| Menterwolde | € 13.492 |   |
-| Meppel | € 22.959 |   |
-| Middelburg | € 28.465 |   |
-| Middelharnis | € 16.139 |   |
-| Midden Drenthe | € 22.799 |   |
-| Midden-Delfland | € 17.122 |   |
-| Mill en Sint Hubert | € 13.178 |   |
-| Millingen aan de Rijn | € 10.894 |   |
-| Moerdijk | € 23.698 |   |
-| Montferland | € 22.767 |   |
-| Montfoort U | € 15.187 |   |
-| Mook en Middelaar | € 11.729 |   |
-| Muiden | € 11.321 |   |
-| Naarden | € 17.060 |   |
-| Neder-Betuwe | € 20.738 |   |
-| Nederlek | € 14.134 |   |
-| Nederweert | € 15.183 |   |
-| Neerijnen | € 14.252 |   |
-| Nieuwegein | € 32.723 |   |
-| Nieuwkoop | € 20.302 |   |
-| Nieuw-Lekkerland | € 13.794 |   |
-| Nijkerk | € 27.370 |   |
-| Nijmegen | € 65.315 |   |
-| Noord-Beveland | € 11.068 |   |
-| Noordenveld | € 21.176 |   |
-| Noordoostpolder | € 31.348 |   |
-| Noordwijk | € 17.991 |   |
-| Noordwijkerhout | € 14.865 |   |
-| Nuenen c.a. | € 17.662 |   |
-| Nunspeet | € 21.381 |   |
-| Nuth | € 13.854 |   |
-| Oegstgeest | € 18.711 |   |
-| Oirschot | € 16.227 |   |
-| Oisterwijk | € 19.109 |   |
-| Oldambt | € 23.296 |   |
-| Oldebroek | € 19.043 |   |
-| Oldenzaal | € 22.597 |   |
-| Olst-Wijhe | € 16.348 |   |
-| Ommen | € 15.761 |   |
-| Onderbanken | € 11.343 |   |
-| Oost Gelre | € 22.237 |   |
-| Oosterhout | € 30.852 |   |
-| Oostflakkee | € 12.595 |   |
-| Ooststellingwerf | € 19.205 |   |
-| Oostzaan | € 12.389 |   |
-| Opmeer | € 13.754 |   |
-| Opsterland | € 22.335 |   |
-| Oss | € 44.026 |   |
-| Oud-Beijerland | € 19.219 |   |
-| Oude IJsselstreek | € 25.517 |   |
-| Ouder-Amstel | € 14.082 |   |
-| Ouderkerk | € 12.273 |   |
-| Oudewater | € 12.972 |   |
-| Overbetuwe | € 30.814 |   |
-| Papendrecht | € 22.249 |   |
-| Peel en Maas | € 26.788 |   |
-| Pekela | € 13.588 |   |
-| Pijnacker-Nootdorp | € 35.387 |   |
-| Purmerend | € 41.446 |   |
-| Putten | € 19.672 |   |
-| Raalte | € 24.767 |   |
-| Reimerswaal | € 19.810 |   |
-| Renkum | € 20.800 |   |
-| Renswoude | € 10.944 |   |
-| Reusel-De Mierden | € 13.522 |   |
-| Rheden | € 24.973 |   |
-| Rhenen | € 17.382 |   |
-| Ridderkerk | € 24.741 |   |
-| Rijnwaarden | € 13.020 |   |
-| Rijnwoude | € 16.546 |   |
-| Rijssen-Holten | € 27.982 |   |
-| Rijswijk | € 23.466 |   |
-| Roerdalen | € 15.973 |   |
-| Roermond | € 29.545 |   |
-| Roosendaal | € 40.162 |   |
-| Rotterdam | € 248.155 |   |
-| Rozendaal | € 9.039 |   |
-| Rucphen | € 16.133 |   |
-| Schagen (oud) | € 15.947 |   |
-| Schermer | € 10.900 |   |
-| Scherpenzeel | € 13.108 |   |
-| Schiedam | € 38.817 |   |
-| Schiermonnikoog | € 8.747 |   |
-| Schijndel | € 18.063 |   |
-| Schinnen | € 13.378 |   |
-| Schoonhoven | € 13.598 |   |
-| Schouwen-Duiveland | € 21.771 |   |
-| ’s-Gravenhage | € 212.923 |   |
-| ’s-Hertogenbosch | € 64.686 |   |
-| Simpelveld | € 12.239 |   |
-| Sint-Anthonis | € 13.780 |   |
-| Sint-Michielsgestel | € 20.950 |   |
-| Sint-Oedenrode | € 16.169 |   |
-| Sittard-Geleen | € 42.437 |   |
-| Skarsterlan | € 20.946 |   |
-| Sliedrecht | € 18.887 |   |
-| Slochteren | € 15.303 |   |
-| Sluis | € 16.588 |   |
-| Smallingerland | € 32.981 |   |
-| Soest | € 28.277 |   |
-| Someren | € 16.219 |   |
-| Son en Breugel | € 15.697 |   |
-| Spijkenisse | € 37.054 |   |
-| Stadskanaal | € 21.733 |   |
-| Staphorst | € 18.055 |   |
-| Stede Broec | € 18.083 |   |
-| Steenbergen | € 17.628 |   |
-| Steenwijkerland | € 27.202 |   |
-| Stein | € 17.622 |   |
-| Stichtse Vecht | € 35.863 |   |
-| Strijen | € 12.003 |   |
-| Sudwest Fryslan | € 45.811 |   |
-| Ten Boer | € 12.103 |   |
-| Terneuzen | € 29.651 |   |
-| Terschelling | € 10.086 |   |
-| Texel | € 14.172 |   |
-| Teylingen | € 25.237 |   |
-| Tholen | € 20.856 |   |
-| Tiel | € 27.448 |   |
-| Tilburg | € 88.809 |   |
-| Tubbergen | € 19.111 |   |
-| Twenterand | € 24.687 |   |
-| Tynaarlo | € 22.421 |   |
-| Tytsjerksteradiel | € 22.725 |   |
-| Ubbergen | € 12.113 |   |
-| Uden | € 26.125 |   |
-| Uitgeest | € 14.488 |   |
-| Uithoorn | € 20.996 |   |
-| Urk | € 21.953 |   |
-| Utrecht | € 128.999 |   |
-| Utrechtse Heuvelrug | € 29.355 |   |
-| Vaals | € 11.433 |   |
-| Valkenburg aan de Geul | € 13.988 |   |
-| Valkenswaard | € 19.826 |   |
-| Veendam | € 19.637 |   |
-| Veenendaal | € 38.687 |   |
-| Veere | € 17.690 |   |
-| Veghel | € 25.213 |   |
-| Veldhoven | € 26.133 |   |
-| Velsen | € 37.024 |   |
-| Venlo | € 47.232 |   |
-| Venray | € 26.894 |   |
-| Vianen | € 17.052 |   |
-| Vlaardingen | € 35.511 |   |
-| Vlagtwedde | € 14.611 |   |
-| Vlieland | € 8.851 |   |
-| Vlissingen | € 24.709 |   |
-| Vlist | € 12.803 |   |
-| Voerendaal | € 13.056 |   |
-| Voorschoten | € 19.103 |   |
-| Voorst | € 17.956 |   |
-| Vught | € 19.642 |   |
-| Waalre | € 15.705 |   |
-| Waalwijk | € 27.014 |   |
-| Waddinxveen | € 19.543 |   |
-| Wageningen | € 20.578 |   |
-| Wassenaar | € 19.619 |   |
-| Waterland | € 15.373 |   |
-| Weert | € 27.336 |   |
-| Weesp | € 15.277 |   |
-| Werkendam | € 20.536 |   |
-| West Maas en Waal | € 16.139 |   |
-| Westerveld | € 15.955 |   |
-| Westervoort | € 14.911 |   |
-| Westland | € 53.548 |   |
-| Weststellingwerf | € 19.039 |   |
-| Westvoorne | € 13.720 |   |
-| Wierden | € 19.319 |   |
-| Wijchen | € 26.574 |   |
-| Wijdemeren | € 18.235 |   |
-| Wijk bij Duurstede | € 18.931 |   |
-| Winsum | € 14.989 |   |
-| Winterswijk | € 20.830 |   |
-| Woensdrecht | € 16.798 |   |
-| Woerden | € 32.093 |   |
-| Wormerland | € 15.225 |   |
-| Woudenberg | € 14.494 |   |
-| Woudrichem | € 14.875 |   |
-| Zaanstad | € 70.922 |   |
-| Zaltbommel | € 21.899 |   |
-| Zandvoort | € 13.862 |   |
-| Zederik | € 14.919 |   |
-| Zeevang | € 11.263 |   |
-| Zeewolde | € 20.416 |   |
-| Zeist | € 34.544 |   |
-| Zevenaar | € 21.092 |   |
-| Zijpe | € 13.362 |   |
-| Zoetermeer | € 60.732 |   |
-| Zoeterwoude | € 11.837 |   |
-| Zuidhorn | € 17.818 |   |
-| Zuidplas | € 27.288 |   |
-| Zundert | € 16.714 |   |
-| Zutphen | € 29.409 |   |
-| Zwartewaterland | € 20.606 |   |
-| Zwijndrecht | € 26.099 |   |
-| Zwolle | € 61.064 |   |
-| Totaal | € 10.500.002 |   |
-
-| Provincie | Uitkering 2012 |   |
-| --- | --- | --- |
-| Drenthe | € 100.000 |   |
-| Flevoland | € 200.000 |   |
-| Fryslân | € 100.000 |   |
-| Gelderland | € 100.000 |   |
-| Groningen | € 100.000 |   |
-| Limburg | € 100.000 |   |
-| Noord-Brabant | € 100.000 |   |
-| Noord-Holland | € 100.000 |   |
-| Overijssel | € 100.000 |   |
-| Utrecht | € 100.000 |   |
-| Zeeland | € 100.000 |   |
-| Zuid-Holland | € 100.000 |   |
-| Totaal | € 1.300.000 |   |
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage 29bbb-2. genoemd in [artikel 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29bbb&z=2015-03-21&g=2015-01-01). Vsv-programmagelden RMC-regio’s G4
+## Bijlage 29bbb-2. genoemd in [artikel 29bbb](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29bbb&z=2015-03-21&g=2015-03-21). Vsv-programmagelden RMC-regio’s G4
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -16431,7 +16453,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Utrecht | € 1.300.000 |
 | **Totaal** | **€ 6.700.000** |
 
-## Bijlage 29ccc. genoemd in [artikel 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ccc&z=2015-03-21&g=2015-01-01). We Can Young
+## Bijlage 29ccc. genoemd in [artikel 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ccc&z=2015-03-21&g=2015-03-21). We Can Young
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -16452,7 +16474,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 20.000 |   |
 | Totaal | € 300.000 |   |
 
-## Bijlage 29ccc-2. genoemd in [artikel 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ccc&z=2015-03-21&g=2015-01-01). We Can Young
+## Bijlage 29ccc-2. genoemd in [artikel 29ccc](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ccc&z=2015-03-21&g=2015-03-21). We Can Young
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -16477,11 +16499,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 2y. Afsluitdijk
 
-In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2y](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2y&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2y](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2y&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 2z. Agrarisch natuurbeheer
 
-In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2z](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2z&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de provincies, genoemd in [bijlage 2z](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2z&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 2aa. Life Sciences Park Oss
 
@@ -16493,33 +16515,33 @@ In het jaar 2013 ontvangt de provincie Flevoland € 34.000.
 
 ##### Artikel 29ddd. ESF-programma
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ddd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ddd&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ddd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ddd&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29eee. Uitvoeringskosten inburgering
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29eee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29eee&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29eee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29eee&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29fff. Jeugdwerkloosheid
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29fff](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29fff&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29fff](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29fff&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29ggg. Veiligheidshuizen
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ggg](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ggg&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29ggg](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ggg&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29hhh. Werkgeversdienstverlening
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29hhh](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29hhh&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29hhh](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29hhh&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29iii. Zichtbare schakel
 
-In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29iii&z=2015-03-21&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29iii&z=2015-03-21&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 #### § 3. Uitkeringen aan zowel gemeenten als provincies
 
 #### § 4. Slotbepalingen
 
-## Bijlage 29ddd. , genoemd in [artikel 29ddd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ddd&z=2015-03-21&g=2015-01-01). ESF-programma
+## Bijlage 29ddd. , genoemd in [artikel 29ddd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ddd&z=2015-03-21&g=2015-03-21). ESF-programma
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -16560,7 +16582,7 @@ In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wett
 | Zwolle | € 100.000 |
 | **Totaal** | **€ 3.500.000** |
 
-## Bijlage 29eee. , genoemd in [artikel 29eee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29eee&z=2015-03-21&g=2015-01-01). Uitvoeringskosten inburgering
+## Bijlage 29eee. , genoemd in [artikel 29eee](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29eee&z=2015-03-21&g=2015-03-21). Uitvoeringskosten inburgering
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -16972,7 +16994,7 @@ In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wett
 | Zwolle | € 94.080 |
 | **Totaal** | **€ 19.999.989** |
 
-## Bijlage 29fff. genoemd in [artikel 29fff](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29fff&z=2015-03-21&g=2015-01-01). Jeugdwerkloosheid
+## Bijlage 29fff. genoemd in [artikel 29fff](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29fff&z=2015-03-21&g=2015-03-21). Jeugdwerkloosheid
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17013,7 +17035,7 @@ In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wett
 | Zwolle | € 662.500 |
 | **Totaal** | **€ 24.496.500** |
 
-## Bijlage 29ggg. genoemd in [artikel 29ggg](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ggg&z=2015-03-21&g=2015-01-01). Veiligheidshuizen
+## Bijlage 29ggg. genoemd in [artikel 29ggg](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ggg&z=2015-03-21&g=2015-03-21). Veiligheidshuizen
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17044,7 +17066,7 @@ In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wett
 | Zwolle | 215.600,00 |
 | **Totaal** | **€ 7.699.230** |
 
-## Bijlage 29hhh. , genoemd in [artikel 29hhh](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29hhh&z=2015-03-21&g=2015-01-01). Werkgeversdienstverlening
+## Bijlage 29hhh. , genoemd in [artikel 29hhh](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29hhh&z=2015-03-21&g=2015-03-21). Werkgeversdienstverlening
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17085,7 +17107,7 @@ In het jaar 2013 ontvangen de gemeenten, genoemd in [bijlage 29iii](https://wett
 | Zwolle | € 130.000 |
 | **Totaal** | **€ 4.550.000** |
 
-## Bijlage 29iii. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2015-03-21&g=2015-01-01). Zichtbare schakel
+## Bijlage 29iii. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2015-03-21&g=2015-03-21). Zichtbare schakel
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17158,11 +17180,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-03-21&g=2015-01-01) Cultuurparticipatie voor provincies
+## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-03-21&g=2015-03-21) Cultuurparticipatie voor provincies
 
 Vervallen
 
-## Bijlage 31a*. genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-03-21&g=2015-01-01). Alle troeven in handen
+## Bijlage 31a*. genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-03-21&g=2015-03-21). Alle troeven in handen
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -17196,11 +17218,11 @@ Vervallen
 | Zeeland | € 42.857 |
 | **Totaal** | **€ 220.879** |
 
-## Bijlage 31a-2. , genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-03-21&g=2015-01-01). Alle troeven in handen
+## Bijlage 31a-2. , genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2015-03-21&g=2015-03-21). Alle troeven in handen
 
 Vervallen
 
-## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-03-21&g=2015-01-01) Cultuurparticipatie voor gemeenten
+## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2015-03-21&g=2015-03-21) Cultuurparticipatie voor gemeenten
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -17241,7 +17263,7 @@ Vervallen
 | Zoetermeer | € 93.239 |   |
 | Zwolle | € 90.562 |   |
 
-## Bijlage 31b*. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-01-01). Bedrijventerreinen (Topperprojecten)
+## Bijlage 31b*. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-03-21). Bedrijventerreinen (Topperprojecten)
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -17270,7 +17292,7 @@ Vervallen
 | Flevoland | € 1.574.833 |
 | **Totaal** | **€ 40.000.000** |
 
-## Bijlage 31b-2. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-2. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-03-21). Bedrijventerreinen
 
 | **Provincie** | **Uitkering 2011** |
 | --- | --- |
@@ -17282,7 +17304,7 @@ Vervallen
 | Limburg | € 7.200.000 |
 | **Totaal** | **€ 17.038.000** |
 
-## Bijlage 31b-3. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-3. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-03-21). Bedrijventerreinen
 
 | Provincie | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -17300,7 +17322,7 @@ Vervallen
 | Zuid-Holland | € 4.888.201 |   |
 | Totaal | € 28.633.000 |   |
 
-## Bijlage 31b-4. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-4. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2015-03-21&g=2015-03-21). Bedrijventerreinen
 
 | **Provincie** | **Uitkering 2013** |
 | --- | --- |
@@ -17318,7 +17340,7 @@ Vervallen
 | Zuid-Holland | € 5.687.987 |
 | **Totaal** | **€ 33.055.000** |
 
-## Bijlage 31c. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-01-01). Bodemsanering
+## Bijlage 31c. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -17370,7 +17392,7 @@ Vervallen
 | Flevoland | € 230.640 |
 | **Totaal** | **€ 65.439.079** |
 
-## Bijlage 31c-2. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-01-01). Bodemsanering
+## Bijlage 31c-2. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17422,7 +17444,7 @@ Vervallen
 | Flevoland | € 227.463 |
 | **Totaal** | **€ 71.253.710** |
 
-## Bijlage 31c-3. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-01-01). Bodemsanering
+## Bijlage 31c-3. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-03-21). Bodemsanering
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -17474,7 +17496,7 @@ Vervallen
 | Zuid-Holland | € 10.228.850 |   |
 | Totaal | € 69.604.389 |   |
 
-## Bijlage 31c-4. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-01-01). Bodemsanering
+## Bijlage 31c-4. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2015-03-21&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17530,7 +17552,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31e. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
+## Bijlage 31e. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-03-21). Regiospecifiek pakket Zuiderzeelijn
 
 | **Provincie** | **Uitkering 2010** |
 | --- | --- |
@@ -17540,7 +17562,7 @@ Vervallen
 | Flevoland | € 1.658.329 |
 | **Totaal** | **€ 29.436.169** |
 
-## Bijlage 31e-2. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
+## Bijlage 31e-2. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-03-21). Regiospecifiek pakket Zuiderzeelijn
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17555,7 +17577,7 @@ Vervallen
 | Flevoland | € 831.483 |
 | **Totaal** | **€ 15.884.243** |
 
-## Bijlage 31e-3. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-01-01). Zuiderzeelijn
+## Bijlage 31e-3. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2015-03-21&g=2015-03-21). Zuiderzeelijn
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -17570,11 +17592,11 @@ Vervallen
 | Groningen | € 19.718.039 |   |
 | Totaal | € 47.074.738 |   |
 
-## Bijlage 31f. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-03-21&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
+## Bijlage 31f. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-03-21&g=2015-03-21). Stimulering lokale klimaatinitiatieven (SLOK)
 
 Vervallen
 
-## Bijlage 31f-2. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-03-21&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
+## Bijlage 31f-2. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2015-03-21&g=2015-03-21). Stimulering lokale klimaatinitiatieven (SLOK)
 
 Vervallen
 
@@ -17582,11 +17604,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31h. , genoemd in [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31h&z=2015-03-21&g=2015-01-01). Stimuleringsregeling oversampling WoOn
+## Bijlage 31h. , genoemd in [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31h&z=2015-03-21&g=2015-03-21). Stimuleringsregeling oversampling WoOn
 
 Vervallen
 
-## Bijlage 31i. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17639,7 +17661,7 @@ Vervallen
 | Flevoland | € 1.166.954 |
 | **Totaal** | **€ 76.386.909** |
 
-## Bijlage 31i-2. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i-2. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -17692,7 +17714,7 @@ Vervallen
 | Zuid-Holland | € 12.418.267 |   |
 | Totaal | € 59.033.569 |   |
 
-## Bijlage 31i-3. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i-3. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2015-03-21&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17745,7 +17767,7 @@ Vervallen
 | Zuid-Holland | € 12.803.034 |
 | **Totaal** | **€ 60.635.541** |
 
-## Bijlage 31j. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17767,7 +17789,7 @@ Vervallen
 | Zeeland | € 1.500.000 |
 | **Totaal** | **€ 2.262.000** |
 
-## Bijlage 31j-2. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j-2. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | Gemeente | Project | Uitkering 2012 |
 | --- | --- | --- |
@@ -17803,7 +17825,7 @@ Vervallen
 | Zuid-Holland | Oude Rijn zone | € 11.300.000 |
 | Totaal |   | € 55.877.000 |
 
-## Bijlage 31j-3. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j-3. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2015-03-21&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | **Gemeente** | **Project** | **Uitkering 2013** |
 | --- | --- | --- |
@@ -17835,7 +17857,7 @@ Vervallen
 | Zuid-Holland | Oude Rijn zone | € 3.000.000 |
 | **Totaal** |   | **€ 22.213.000** |
 
-## Bijlage 31k. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-01-01). Green Deal
+## Bijlage 31k. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-03-21). Green Deal
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17848,7 +17870,7 @@ Vervallen
 | Overijssel | € 3.000.000 |
 | **Totaal** | **€ 6.000.000** |
 
-## Bijlage 31k-2. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-01-01). Green Deal
+## Bijlage 31k-2. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-03-21). Green Deal
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -17867,7 +17889,7 @@ Vervallen
 | Zeeland | € 500.000 |   |
 | Totaal | € 9.131.000 |   |
 
-## Bijlage 31k-3. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-01-01). Green Deal
+## Bijlage 31k-3. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2015-03-21&g=2015-03-21). Green Deal
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17884,11 +17906,11 @@ Vervallen
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 3.168.000** |
 
-## Bijlage 31l. , genoemd in [artikel 31l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31l&z=2015-03-21&g=2015-01-01). Pieken in de Delta
+## Bijlage 31l. , genoemd in [artikel 31l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31l&z=2015-03-21&g=2015-03-21). Pieken in de Delta
 
 Vervallen
 
-## Bijlage 31m. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2015-03-21&g=2015-01-01). Sterke regio’s
+## Bijlage 31m. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2015-03-21&g=2015-03-21). Sterke regio’s
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -17914,7 +17936,7 @@ Vervallen
 | Zuid-Holland | Coolport | € 1.800.000 |
 | Totaal |   | € 8.190.000 |
 
-## Bijlage 31m-3. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2015-03-21&g=2015-01-01). Sterke regio’s
+## Bijlage 31m-3. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2015-03-21&g=2015-03-21). Sterke regio’s
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -17926,7 +17948,7 @@ Vervallen
 | Zuid-Holland | € 1.800.000 |
 | **Totaal** | **€ 1.800.000** |
 
-## Bijlage 31n. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2015-03-21&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2015-03-21&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -18363,7 +18385,7 @@ Vervallen
 | Zuid-Holland | € 100.000 |   |
 | Totaal | € 1.300.000 |   |
 
-## Bijlage 31n-2. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2015-03-21&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n-2. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2015-03-21&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -18795,7 +18817,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage 29iii. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2016-03-09&g=2015-01-01). Zichtbare schakel
+## Bijlage 29iii. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2016-03-09&g=2015-03-21). Zichtbare schakel
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -18860,7 +18882,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 119.612 |
 | **Totaal** | **€ 10.000.002** |
 
-## Bijlage 29iii2. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2016-03-09&g=2015-01-01). Zichtbare schakel
+## Bijlage 29iii2. genoemd in [artikel 29iii](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29iii&z=2016-03-09&g=2015-03-21). Zichtbare schakel
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -18925,7 +18947,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zwolle | € 119.612 |
 | **Totaal** | **€ 10.000.002** |
 
-## Bijlage 29jjj. genoemd in [artikel 29jjj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jjj&z=2016-03-09&g=2015-01-01). Vergunningverlening, toezicht en handhaving
+## Bijlage 29jjj. genoemd in [artikel 29jjj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29jjj&z=2016-03-09&g=2015-03-21). Vergunningverlening, toezicht en handhaving
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -19322,13 +19344,13 @@ In het jaar 2014 ontvangt de provincie Overijssel € 1.000.000.
 
 ##### Artikel 2dd. Natuur
 
-In het jaar 2014 ontvangen de provincies, genoemd in [bijlage 2dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2dd&z=2016-03-09&g=2015-01-01), de in de bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de provincies, genoemd in [bijlage 2dd](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=2dd&z=2016-03-09&g=2015-03-21), de in de bijlage genoemde uitkering.
 
 #### § 2. Uitkeringen aan gemeenten
 
 ##### Artikel 29jjj. Vergunningverlening, toezicht en handhaving
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29jjj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jjj&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29jjj](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29jjj&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29kkk. Regionaal actieplan «investeren in perspectief»
 
@@ -19340,11 +19362,11 @@ In het jaar 2014 ontvangt de gemeente Leeuwarden € 2.5270.000.
 
 ##### Artikel 29mmm. Faciliteitenbesluit opvangcentra
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29mmm](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29mmm&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29mmm](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29mmm&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29nnn. Implementatie Participatiewet
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29nnn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29nnn&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29nnn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29nnn&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29ooo. IOSD Kwaliteitsprojecten
 
@@ -19352,11 +19374,11 @@ In het jaar 2014 ontvangt de gemeente Midden-Delftland € 8.350.000.
 
 ##### Artikel 29ppp. Koopkrachttegemoetkoming
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29ppp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ppp&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29ppp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ppp&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29qqq. Meetsysteem Geluidsnet
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29qqq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29qqq&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29qqq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29qqq&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 29rrr. Ondersteuning raadsman Loppersum
 
@@ -19368,7 +19390,7 @@ In het jaar 2014 ontvangt de gemeente Delft € 356.000.
 
 ##### Artikel 29ttt. Pilot Participatieverklaring
 
-In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29ttt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ttt&z=2016-03-09&g=2015-01-01) de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de gemeenten, genoemd in [bijlage 29ttt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=29ttt&z=2016-03-09&g=2015-03-21) de in die bijlage genoemde uitkering.
 
 ##### Artikel 29uuu. Spoorwegverbinding Roosendaal
 
@@ -19382,15 +19404,15 @@ In het jaar 2014 ontvangen de gemeenten, genoemd in bijlage 29vvv, de in die bij
 
 ##### artikel 31o. Stimuleringsregeling Oversampling WoOn
 
-In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31o&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31o&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 ##### Artikel 31p. Erfgoed en ruimte
 
-In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31p&z=2016-03-09&g=2015-01-01), de in die bijlage genoemde uitkering.
+In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&bijlage=31p&z=2016-03-09&g=2015-03-21), de in die bijlage genoemde uitkering.
 
 #### § 4. Slotbepalingen
 
-## Bijlage 29mmm. genoemd in [artikel 29mmm](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29mmm&z=2016-03-09&g=2015-01-01). Faciliteitenbesluit opvangcentra
+## Bijlage 29mmm. genoemd in [artikel 29mmm](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29mmm&z=2016-03-09&g=2015-03-21). Faciliteitenbesluit opvangcentra
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -19432,7 +19454,7 @@ In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](
 | Zeist | € 101.444 |
 | **Totaal** | **€ 3.060.701** |
 
-## Bijlage 29nnn. genoemd in [artikel 29nnn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nnn&z=2016-03-09&g=2015-01-01). Implementatie Participatiewet
+## Bijlage 29nnn. genoemd in [artikel 29nnn](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29nnn&z=2016-03-09&g=2015-03-21). Implementatie Participatiewet
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -19473,7 +19495,7 @@ In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](
 | Zwolle | € 100.000 |
 | **Totaal** | **€ 3.500.000** |
 
-## Bijlage 29ppp. genoemd in [artikel 29ppp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ppp&z=2016-03-09&g=2015-01-01). Koopkrachttegemoetkoming
+## Bijlage 29ppp. genoemd in [artikel 29ppp](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ppp&z=2016-03-09&g=2015-03-21). Koopkrachttegemoetkoming
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -19882,7 +19904,7 @@ In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](
 | Zwolle | € 439.596 |
 | **Totaal** | **€ 66.000.007** |
 
-## Bijlage 29qqq. genoemd in [artikel 29qqq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29qqq&z=2016-03-09&g=2015-01-01). Meetsysteem Geluidsnet
+## Bijlage 29qqq. genoemd in [artikel 29qqq](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29qqq&z=2016-03-09&g=2015-03-21). Meetsysteem Geluidsnet
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -19891,7 +19913,7 @@ In het jaar 2014 ontvangen de provincies en gemeenten, genoemd in [bijlage 31p](
 | Schinnen | € 11.600 |
 | **Totaal** | **€ 38.700** |
 
-## Bijlage 29ttt. genoemd in [artikel 29ttt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ttt&z=2016-03-09&g=2015-01-01). Pilot Participatieverklaring
+## Bijlage 29ttt. genoemd in [artikel 29ttt](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=2&artikel=29ttt&z=2016-03-09&g=2015-03-21). Pilot Participatieverklaring
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -20327,11 +20349,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2016-03-09&g=2015-01-01) Cultuurparticipatie voor provincies
+## Bijlage 31a. , genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2016-03-09&g=2015-03-21) Cultuurparticipatie voor provincies
 
 Vervallen
 
-## Bijlage 31a*. genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2016-03-09&g=2015-01-01). Alle troeven in handen
+## Bijlage 31a*. genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2016-03-09&g=2015-03-21). Alle troeven in handen
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -20365,11 +20387,11 @@ Vervallen
 | Zeeland | € 42.857 |
 | **Totaal** | **€ 220.879** |
 
-## Bijlage 31a-2. , genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2016-03-09&g=2015-01-01). Alle troeven in handen
+## Bijlage 31a-2. , genoemd in [artikel 31a](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31a&z=2016-03-09&g=2015-03-21). Alle troeven in handen
 
 Vervallen
 
-## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2016-03-09&g=2015-01-01) Cultuurparticipatie voor gemeenten
+## Bijlage 31b. genoemd in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31&z=2016-03-09&g=2015-03-21) Cultuurparticipatie voor gemeenten
 
 | Gemeente | Uitkering |   |
 | --- | --- | --- |
@@ -20410,7 +20432,7 @@ Vervallen
 | Zoetermeer | € 93.239 |   |
 | Zwolle | € 90.562 |   |
 
-## Bijlage 31b*. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-01-01). Bedrijventerreinen (Topperprojecten)
+## Bijlage 31b*. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-03-21). Bedrijventerreinen (Topperprojecten)
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -20439,7 +20461,7 @@ Vervallen
 | Flevoland | € 1.574.833 |
 | **Totaal** | **€ 40.000.000** |
 
-## Bijlage 31b-2. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-2. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-03-21). Bedrijventerreinen
 
 | **Provincie** | **Uitkering 2011** |
 | --- | --- |
@@ -20451,7 +20473,7 @@ Vervallen
 | Limburg | € 7.200.000 |
 | **Totaal** | **€ 17.038.000** |
 
-## Bijlage 31b-3. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-3. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-03-21). Bedrijventerreinen
 
 | Provincie | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -20469,7 +20491,7 @@ Vervallen
 | Zuid-Holland | € 4.888.201 |   |
 | Totaal | € 28.633.000 |   |
 
-## Bijlage 31b-4. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-4. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-03-21). Bedrijventerreinen
 
 | **Provincie** | **Uitkering 2013** |
 | --- | --- |
@@ -20487,7 +20509,7 @@ Vervallen
 | Zuid-Holland | € 5.687.987 |
 | **Totaal** | **€ 33.055.000** |
 
-## Bijlage 31b-5. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-01-01). Bedrijventerreinen
+## Bijlage 31b-5. genoemd in [artikel 31b](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31b&z=2016-03-09&g=2015-03-21). Bedrijventerreinen
 
 | **Provincie** | **Uitkering 2014** |
 | --- | --- |
@@ -20505,7 +20527,7 @@ Vervallen
 | Zuid-Holland | € 5.944.033 |
 | **Totaal** | **€ 22.588.000** |
 
-## Bijlage 31c. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-01-01). Bodemsanering
+## Bijlage 31c. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2010** |
 | --- | --- |
@@ -20557,7 +20579,7 @@ Vervallen
 | Flevoland | € 230.640 |
 | **Totaal** | **€ 65.439.079** |
 
-## Bijlage 31c-2. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-01-01). Bodemsanering
+## Bijlage 31c-2. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -20609,7 +20631,7 @@ Vervallen
 | Flevoland | € 227.463 |
 | **Totaal** | **€ 71.253.710** |
 
-## Bijlage 31c-3. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-01-01). Bodemsanering
+## Bijlage 31c-3. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-03-21). Bodemsanering
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -20661,7 +20683,7 @@ Vervallen
 | Zuid-Holland | € 10.228.850 |   |
 | Totaal | € 69.604.389 |   |
 
-## Bijlage 31c-4. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-01-01). Bodemsanering
+## Bijlage 31c-4. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -20713,7 +20735,7 @@ Vervallen
 | Zuid-Holland | € 9.726.630 |
 | **Totaal** | **€ 66.296.644** |
 
-## Bijlage 31c-5. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-01-01). Bodemsanering
+## Bijlage 31c-5. genoemd in [artikel 31c](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31c&z=2016-03-09&g=2015-03-21). Bodemsanering
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -20769,7 +20791,7 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31e. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
+## Bijlage 31e. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-03-21). Regiospecifiek pakket Zuiderzeelijn
 
 | **Provincie** | **Uitkering 2010** |
 | --- | --- |
@@ -20779,7 +20801,7 @@ Vervallen
 | Flevoland | € 1.658.329 |
 | **Totaal** | **€ 29.436.169** |
 
-## Bijlage 31e-2. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
+## Bijlage 31e-2. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-03-21). Regiospecifiek pakket Zuiderzeelijn
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -20794,7 +20816,7 @@ Vervallen
 | Flevoland | € 831.483 |
 | **Totaal** | **€ 15.884.243** |
 
-## Bijlage 31e-3. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-01-01). Zuiderzeelijn
+## Bijlage 31e-3. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-03-21). Zuiderzeelijn
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -20809,7 +20831,7 @@ Vervallen
 | Groningen | € 19.718.039 |   |
 | Totaal | € 47.074.738 |   |
 
-## Bijlage 31e-4. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-01-01). Regiospecifiek pakket Zuiderzeelijn
+## Bijlage 31e-4. genoemd in [artikel 31e](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31e&z=2016-03-09&g=2015-03-21). Regiospecifiek pakket Zuiderzeelijn
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -20824,11 +20846,11 @@ Vervallen
 | Groningen | € 11.490.035 |
 | **Totaal** | **€ 32.518.967** |
 
-## Bijlage 31f. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2016-03-09&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
+## Bijlage 31f. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2016-03-09&g=2015-03-21). Stimulering lokale klimaatinitiatieven (SLOK)
 
 Vervallen
 
-## Bijlage 31f-2. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2016-03-09&g=2015-01-01). Stimulering lokale klimaatinitiatieven (SLOK)
+## Bijlage 31f-2. , genoemd in [artikel 31f](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31f&z=2016-03-09&g=2015-03-21). Stimulering lokale klimaatinitiatieven (SLOK)
 
 Vervallen
 
@@ -20836,11 +20858,11 @@ Vervallen
 
 Vervallen
 
-## Bijlage 31h. , genoemd in [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31h&z=2016-03-09&g=2015-01-01). Stimuleringsregeling oversampling WoOn
+## Bijlage 31h. , genoemd in [artikel 31h](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31h&z=2016-03-09&g=2015-03-21). Stimuleringsregeling oversampling WoOn
 
 Vervallen
 
-## Bijlage 31i. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -20893,7 +20915,7 @@ Vervallen
 | Flevoland | € 1.166.954 |
 | **Totaal** | **€ 76.386.909** |
 
-## Bijlage 31i-2. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i-2. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -20946,7 +20968,7 @@ Vervallen
 | Zuid-Holland | € 12.418.267 |   |
 | Totaal | € 59.033.569 |   |
 
-## Bijlage 31i-3. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i-3. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -20999,7 +21021,7 @@ Vervallen
 | Zuid-Holland | € 12.803.034 |
 | **Totaal** | **€ 60.635.541** |
 
-## Bijlage 31i-4. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-01-01). Investeringsbudget stedelijke vernieuwing (ISV)
+## Bijlage 31i-4. genoemd in [artikel 31i](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31i&z=2016-03-09&g=2015-03-21). Investeringsbudget stedelijke vernieuwing (ISV)
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -21052,7 +21074,7 @@ Vervallen
 | Zuid-Holland | € 11.675.303 |
 | **Totaal** | **€ 55.455.719** |
 
-## Bijlage 31j. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -21074,7 +21096,7 @@ Vervallen
 | Zeeland | € 1.500.000 |
 | **Totaal** | **€ 2.262.000** |
 
-## Bijlage 31j-2. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j-2. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | Gemeente | Project | Uitkering 2012 |
 | --- | --- | --- |
@@ -21110,7 +21132,7 @@ Vervallen
 | Zuid-Holland | Oude Rijn zone | € 11.300.000 |
 | Totaal |   | € 55.877.000 |
 
-## Bijlage 31j-3. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j-3. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | **Gemeente** | **Project** | **Uitkering 2013** |
 | --- | --- | --- |
@@ -21142,7 +21164,7 @@ Vervallen
 | Zuid-Holland | Oude Rijn zone | € 3.000.000 |
 | **Totaal** |   | **€ 22.213.000** |
 
-## Bijlage 31j-4. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-01-01). Nationale gebiedsontwikkelingen
+## Bijlage 31j-4. genoemd in [artikel 31j](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31j&z=2016-03-09&g=2015-03-21). Nationale gebiedsontwikkelingen
 
 | **Gemeente** | **Project** | **Uitkering 2014** |
 | --- | --- | --- |
@@ -21168,7 +21190,7 @@ Vervallen
 | Zuid-Holland | Oude Rijn zone en Zuidplaspolder | Zeeland |
 | **Totaal** |   | **€ 38.598.000** |
 
-## Bijlage 31k. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-01-01). Green Deal
+## Bijlage 31k. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-03-21). Green Deal
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -21181,7 +21203,7 @@ Vervallen
 | Overijssel | € 3.000.000 |
 | **Totaal** | **€ 6.000.000** |
 
-## Bijlage 31k-2. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-01-01). Green Deal
+## Bijlage 31k-2. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-03-21). Green Deal
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -21200,7 +21222,7 @@ Vervallen
 | Zeeland | € 500.000 |   |
 | Totaal | € 9.131.000 |   |
 
-## Bijlage 31k-3. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-01-01). Green Deal
+## Bijlage 31k-3. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-03-21). Green Deal
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -21217,7 +21239,7 @@ Vervallen
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 3.168.000** |
 
-## Bijlage 31k-4. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-01-01). Green Deal
+## Bijlage 31k-4. genoemd in [artikel 31k](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31k&z=2016-03-09&g=2015-03-21). Green Deal
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -21237,11 +21259,11 @@ Vervallen
 | Zuid-Holland | € 125.000 |
 | **Totaal** | **€ 4.512.000** |
 
-## Bijlage 31l. , genoemd in [artikel 31l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31l&z=2016-03-09&g=2015-01-01). Pieken in de Delta
+## Bijlage 31l. , genoemd in [artikel 31l](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31l&z=2016-03-09&g=2015-03-21). Pieken in de Delta
 
 Vervallen
 
-## Bijlage 31m. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-01-01). Sterke regio’s
+## Bijlage 31m. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-03-21). Sterke regio’s
 
 | **Gemeente** | **Uitkering 2011** |
 | --- | --- |
@@ -21267,7 +21289,7 @@ Vervallen
 | Zuid-Holland | Coolport | € 1.800.000 |
 | Totaal |   | € 8.190.000 |
 
-## Bijlage 31m-3. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-01-01). Sterke regio’s
+## Bijlage 31m-3. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-03-21). Sterke regio’s
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -21279,14 +21301,14 @@ Vervallen
 | Zuid-Holland | € 1.800.000 |
 | **Totaal** | **€ 1.800.000** |
 
-## Bijlage 31m-4. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-01-01). Sterke regio’s
+## Bijlage 31m-4. genoemd in [artikel 31m](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31m&z=2016-03-09&g=2015-03-21). Sterke regio’s
 
 | **Provincie** | **Uitkering 2014** |
 | --- | --- |
 | Zuid-Holland | € 1.700.000 |
 | **Totaal** | **€ 1.700.000** |
 
-## Bijlage 31n. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | Gemeente | Uitkering 2012 |   |
 | --- | --- | --- |
@@ -21723,7 +21745,7 @@ Vervallen
 | Zuid-Holland | € 100.000 |   |
 | Totaal | € 1.300.000 |   |
 
-## Bijlage 31n-2. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n-2. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | **Gemeente** | **Uitkering 2013** |
 | --- | --- |
@@ -22153,7 +22175,7 @@ Vervallen
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 1.950.000** |
 
-## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2016-03-09&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -22578,7 +22600,7 @@ Vervallen
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 1.950.000** |
 
-## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2016-03-09&g=2015-01-01). Stimuleringsregeling Oversampling WoOn
+## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2016-03-09&g=2015-03-21). Stimuleringsregeling Oversampling WoOn
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -22606,7 +22628,7 @@ Vervallen
 | Zeeland | € 32.387 |
 | **Totaal** | **€ 37.418** |
 
-## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2016-03-09&g=2015-01-01). Erfgoed en ruimte
+## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2016-03-09&g=2015-03-21). Erfgoed en ruimte
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -22639,7 +22661,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2017-10-26&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2017-10-26&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -23064,7 +23086,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 1.950.000** |
 
-## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2017-10-26&g=2015-01-01). Stimuleringsregeling Oversampling WoOn
+## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2017-10-26&g=2015-03-21). Stimuleringsregeling Oversampling WoOn
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -23092,7 +23114,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zeeland | € 32.387 |
 | **Totaal** | **€ 37.418** |
 
-## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2017-10-26&g=2015-01-01). Erfgoed en ruimte
+## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2017-10-26&g=2015-03-21). Erfgoed en ruimte
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -23125,7 +23147,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2019-04-26&g=2015-01-01). Invoeringskosten Jeugdzorg
+## Bijlage 31n-3. genoemd in [artikel 31n](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31n&z=2019-04-26&g=2015-03-21). Invoeringskosten Jeugdzorg
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -23550,7 +23572,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zuid-Holland | € 150.000 |
 | **Totaal** | **€ 1.950.000** |
 
-## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2019-04-26&g=2015-01-01). Stimuleringsregeling Oversampling WoOn
+## Bijlage 31o. genoemd in [artikel 31o](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31o&z=2019-04-26&g=2015-03-21). Stimuleringsregeling Oversampling WoOn
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
@@ -23578,7 +23600,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 | Zeeland | € 32.387 |
 | **Totaal** | **€ 37.418** |
 
-## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2019-04-26&g=2015-01-01). Erfgoed en ruimte
+## Bijlage 31p. genoemd in [artikel 31p](https://wetten.overheid.nl/jci1.3:c:BWBR0027383&paragraaf=3&artikel=31p&z=2019-04-26&g=2015-03-21). Erfgoed en ruimte
 
 | **Gemeente** | **Uitkering 2014** |
 | --- | --- |
