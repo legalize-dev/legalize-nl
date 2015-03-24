@@ -4,7 +4,7 @@ identifier: "BWBR0030266"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-04-01"
-last_updated: "2011-07-17"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030266"
 soort: "ministeriele-regeling"
@@ -462,7 +462,7 @@ De directeur kan besluiten je in afzondering te plaatsen. Afzondering vinden we 
 
 Hoelang je kunt worden afgezonderd is afhankelijk van je leeftijd:
 
-Als je langer dan 24 uur afgezonderd wordt, zorgt de directeur ervoor dat de commissie van toezicht van de inrichting, de inrichtingsarts of diens vervanger en je ouders of je voogd, stiefouder of pleegouders of de stichting onmiddellijk hiervan op de hoogte wordt of worden gesteld.
+Als je langer dan 24 uur afgezonderd wordt, zorgt de directeur ervoor dat de commissie van toezicht van de inrichting, de inrichtingsarts of diens vervanger en je ouders of je voogd, stiefouder of pleegouders of de gecertificeerde instelling onmiddellijk hiervan op de hoogte wordt of worden gesteld.
 
 Als de afzondering per direct uitgevoerd moet worden, mag ook een personeelslid of een medewerker de maatregel opleggen, echter voor maximaal vijftien uur. Dat moet dan wel direct aan de directeur worden gemeld.
 
@@ -470,7 +470,7 @@ De vierde mogelijke ordemaatregel is de tijdelijke overplaatsing. De directeur k
 
 De directeur kan alleen beslissen dat je tijdelijk in een andere inrichting wordt geplaatst na overleg met een gedragsdeskundige en de selectiefunctionaris.
 
-Een tijdelijke plaatsing kan maximaal veertien dagen duren. De directeur kan de maatregel met maximaal veertien dagen verlengen als na overleg met de directeur van de andere inrichting, een gedragsdeskundige en de selectiefunctionaris is gebleken dat de noodzaak nog steeds aanwezig is en er plaats is. De directeur stelt je ouders of je voogd, stiefouder of pleegouders of de stichting onmiddellijk op de hoogte van de tijdelijke plaatsing en een eventuele verlenging.
+Een tijdelijke plaatsing kan maximaal veertien dagen duren. De directeur kan de maatregel met maximaal veertien dagen verlengen als na overleg met de directeur van de andere inrichting, een gedragsdeskundige en de selectiefunctionaris is gebleken dat de noodzaak nog steeds aanwezig is en er plaats is. De directeur stelt je ouders of je voogd, stiefouder of pleegouders of de gecertificeerde instelling onmiddellijk op de hoogte van de tijdelijke plaatsing en een eventuele verlenging.
 
 **Nadere regelgeving:**
 
@@ -488,7 +488,7 @@ Bij het opleggen van een geldboete geeft de directeur gelijk aan welke straf je 
 
 Deze straffen kunnen ook voorwaardelijk worden opgelegd met een proeftijd van maximaal twee maanden. Een voorwaarde waar je je in ieder geval aan moet houden, is dat je geen feiten meer zult plegen die de orde of de veiligheid in de inrichting in gevaar brengen of de ongestoorde tenuitvoerlegging van je vrijheidsbeneming verstoren. Bij een voorwaardelijke straf kan de directeur ook andere voorwaarden aan je gedrag stellen. De voorwaarden waar je aan moet voldoen, worden je schriftelijk meegedeeld. Een proeftijd loopt gewoon door als je naar een andere inrichting wordt overgeplaatst.
 
-Je ouders of je voogd, stiefouder of pleegouders dan wel de stichting worden van het opleggen van een disciplinaire straf en van de reden daarvan geïnformeerd. Indien je achttien jaar of ouder bent moet je hiermee instemmen.
+Je ouders of je voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling worden van het opleggen van een disciplinaire straf en van de reden daarvan geïnformeerd. Indien je achttien jaar of ouder bent moet je hiermee instemmen.
 
 **Nadere regelgeving:**
 
