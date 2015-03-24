@@ -4,7 +4,7 @@ identifier: "BWBR0012741"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012741"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-In een normaal beveiligde inrichting of afdeling worden jeugdigen, als bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), geplaatst alsmede jeugdigen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=2&artikel=2&z=2012-07-03&g=2015-01-01) niet in aanmerking komen voor plaatsing in een beperkt beveiligde inrichting of afdeling.
+In een normaal beveiligde inrichting of afdeling worden jeugdigen, als bedoeld in [artikel 8, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8), geplaatst alsmede jeugdigen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=2&artikel=2&z=2015-03-24&g=2015-03-24) niet in aanmerking komen voor plaatsing in een beperkt beveiligde inrichting of afdeling.
 
 #### Paragraaf 3. Inrichtingen en afdelingen voor bijzondere opvang dan wel behandeling
 
@@ -114,11 +114,11 @@ Indien de selectiefunctionaris afwijkt van de in [artikel 12, vijfde lid, van de
 
 3. Indien de jeugdige een verzoek heeft ingediend als bedoeld in [artikel 19, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=19) vraagt de selectiefunctionaris de directeur om advies.
 
-4. De selectiefunctionaris neemt met inachtneming van de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22a) en [22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22b) en op grond van de voordracht dan wel het advies van de directeur en de stukken die bij de voordracht of het advies zijn gevoegd en met inachtneming van [artikel 12, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) een beslissing over de overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01).
+4. De selectiefunctionaris neemt met inachtneming van de [artikelen 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22a) en [22b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22b) en op grond van de voordracht dan wel het advies van de directeur en de stukken die bij de voordracht of het advies zijn gevoegd en met inachtneming van [artikel 12, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=12) een beslissing over de overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2015-03-24&g=2015-03-24).
 
-5. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01), met inachtneming van [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c).
+5. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2015-03-24&g=2015-03-24), met inachtneming van [artikel 22c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22c).
 
-6. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2012-07-03&g=2015-01-01), met inachtneming van [artikel 22d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22d).
+6. De selectiefunctionaris neemt de beslissing tot overplaatsing naar een afdeling als bedoeld in [artikel 4, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0012741&paragraaf=3&artikel=4&z=2015-03-24&g=2015-03-24), met inachtneming van [artikel 22d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=22d).
 
 ##### Artikel 9
 
@@ -168,15 +168,15 @@ Vervallen
 
 1. Indien overbrenging naar een algemeen ziekenhuis dan wel een andere instelling als bedoeld in [artikel 47, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=47) medisch geïndiceerd is, gaat de directeur tot overbrenging over. In bijzondere gevallen, waaronder het risico van onttrekking door de jeugdige aan het toezicht en de veiligheid voor anderen onvoldoende gewaarborgd wordt, kan de jeugdige worden overgebracht naar het Penitentiair Ziekenhuis, bedoeld in [artikel 32 van de Regeling selectie, plaatsing en overplaatsing gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=32).
 
-2. Indien de overbrenging een voorlopig gehechte jeugdige betreft, dan wel bij het vonnis een executie-indicator is gegeven, vraagt de directeur toestemming aan het openbaar ministerie. Indien de overbrenging een jeugdige betreft die met toepassing van [artikel 29k, tweede lid, van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29k) in een inrichting is geplaatst, overlegt de directeur met de de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1).
+2. Indien de overbrenging een voorlopig gehechte jeugdige betreft, dan wel bij het vonnis een executie-indicator is gegeven, vraagt de directeur toestemming aan het openbaar ministerie. Indien de overbrenging een jeugdige betreft die met toepassing van [artikel 6.2.2, tweede lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.2.2) in een inrichting is geplaatst, overlegt de directeur met de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 3. Indien het verblijf in een ziekenhuis dan wel een andere instelling zonder toezicht, gelet op het risico van onttrekking aan het toezicht door de jeugdige, onverantwoord is, treft de directeur maatregelen welke noodzakelijk zijn voor de bewaking van de jeugdige. De directeur maakt hierover in een zo vroeg mogelijk stadium afspraken over met de directie van het ziekenhuis.
 
 4. De inrichting van herkomst volgt gedurende het verblijf in het ziekenhuis dan wel een andere instelling het behandelingsverloop en treedt als aanspreekpunt op bij eventuele bijzonderheden en incidenten.
 
-5. Indien spoedeisende medische zorg geboden is, kan afgeweken worden van de in dit artikel gestelde procedure. De directeur vraagt in dat geval achteraf toestemming aan het openbaar ministerie of overlegt met de de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1).
+5. Indien spoedeisende medische zorg geboden is, kan afgeweken worden van de in dit artikel gestelde procedure. De directeur vraagt in dat geval achteraf toestemming aan het openbaar ministerie of overlegt met de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-6. De directeur meldt de plaatsing in het ziekenhuis dan wel in een andere instelling en de beëindiging van die plaatsing aan de selectiefunctionaris. De beëindiging van de plaatsing wordt tevens gemeld aan de de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1).
+6. De directeur meldt de plaatsing in het ziekenhuis dan wel in een andere instelling en de beëindiging van die plaatsing aan de selectiefunctionaris. De beëindiging van de plaatsing wordt tevens gemeld aan de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 #### Paragraaf 7. Slotbepalingen
 
