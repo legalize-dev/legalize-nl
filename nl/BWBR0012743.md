@@ -4,7 +4,7 @@ identifier: "BWBR0012743"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-24"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012743"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2012-07-03&g=2015-01-01), genoemde middelen.
+1. Als mechanisch middel in de zin van [artikel 38 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=38) worden slechts toegepast de in [artikel 1, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012743&artikel=1&z=2015-03-24&g=2015-03-24), genoemde middelen.
 
 2. Indien de toestand van de jeugdige dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.
 
@@ -88,11 +88,11 @@ Een mechanisch middel voldoet aan de volgende eisen:
 
 ##### Artikel 5
 
-Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) daarvan zo spoedig mogelijk op de hoogte.
+Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders en de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) daarvan zo spoedig mogelijk op de hoogte.
 
 ##### Artikel 6
 
-1. De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1) worden in de gelegenheid gesteld kennis te nemen van het protocol.
+1. De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders en de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) worden in de gelegenheid gesteld kennis te nemen van het protocol.
 
 2. Het protocol omvat in elk geval:
 
