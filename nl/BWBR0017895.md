@@ -4,7 +4,7 @@ identifier: "BWBR0017895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017895"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
-- a. stichting: de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1);
+- a. gecertificeerde instelling: gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
 - b. langdurige detentie: strafduur van meer dan zes maanden;
 
@@ -52,7 +52,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. In de volgende gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige:
+1. In de volgende gevallen kan de raad voor de kinderbescherming de gecertificeerde instelling inschakelen voor vrijwillige begeleiding van een jeugdige:
 
 - a. na langdurige detentie, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt;
 
@@ -60,7 +60,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - c. na een maatregel tot plaatsing in een inrichting voor jeugdigen, mits de jeugdige bij ontslag uit een justitiële jeugdinrichting de leeftijd van 18 jaar nog niet heeft bereikt.
 
-2. In de volgende gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige:
+2. In de volgende gevallen kan de raad voor de kinderbescherming de gecertificeerde instelling inschakelen voor vrijwillige begeleiding van een jeugdige:
 
 - a. nadat tegen de jeugdige een proces-verbaal is opgemaakt zonder dat de jeugdige in verzekering is gesteld;
 
@@ -68,25 +68,25 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - c. indien een jeugdige in voorlopige hechtenis is gesteld.
 
-3. De raad voor de kinderbescherming kan de stichting inschakelen voor vrijwillige begeleiding tijdens en na een taakstraf van een jeugdige.
+3. De raad voor de kinderbescherming kan de gecertificeerde instelling inschakelen voor vrijwillige begeleiding tijdens en na een taakstraf van een jeugdige.
 
 ##### Artikel 3
 
-1. Begeleiding als bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), duurt tot maximaal zes maanden na ontslag van de jeugdige uit de inrichting.
+1. Begeleiding als bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), duurt tot maximaal zes maanden na ontslag van de jeugdige uit de inrichting.
 
-2. Begeleiding als bedoeld in [artikel 2, tweede lid, onder a en b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), eindigt op de datum van de strafzitting doch in ieder geval na een termijn van maximaal zes maanden.
+2. Begeleiding als bedoeld in [artikel 2, tweede lid, onder a en b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), eindigt op de datum van de strafzitting doch in ieder geval na een termijn van maximaal zes maanden.
 
-3. Begeleiding als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), duurt tot maximaal zes maanden na beëindiging van de taakstraf.
+3. Begeleiding als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), duurt tot maximaal zes maanden na beëindiging van de taakstraf.
 
-4. De termijn van de begeleiding, bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), kan eenmaal met zes maanden worden verlengd op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming.
+4. De termijn van de begeleiding, bedoeld in [artikel 2, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), kan eenmaal met zes maanden worden verlengd op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming.
 
-5. De termijn van de begeleiding, bedoeld in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), kan op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming worden verlengd.
+5. De termijn van de begeleiding, bedoeld in [artikel 2, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), kan op een daartoe gemotiveerd verzoek van de raad voor de kinderbescherming worden verlengd.
 
 ##### Artikel 4
 
-1. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), vangen drie à zes maanden voor het tijdstip waarop de jeugdige de inrichting zal verlaten aan.
+1. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), vangen drie à zes maanden voor het tijdstip waarop de jeugdige de inrichting zal verlaten aan.
 
-2. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2012-07-03&g=2015-01-01), vangen, indien de begeleidende instantie niet al eerder contact met de jeugdige had, aan vanaf het moment dat de jeugdige zich in detentie bevindt.
+2. De begeleidende werkzaamheden, bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017895&artikel=2&z=2015-03-24&g=2015-03-24), vangen, indien de begeleidende instantie niet al eerder contact met de jeugdige had, aan vanaf het moment dat de jeugdige zich in detentie bevindt.
 
 ##### Artikel 5
 
