@@ -4,7 +4,7 @@ identifier: "BWBR0019150"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019150"
 soort: "ministeriele-regeling"
@@ -186,7 +186,7 @@ Vervallen
 
 ##### Artikel 3.8. Vaststelling WW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2015-01-01&g=2015-01-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten voor de sector uitzendbedrijven, wordt verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.6&z=2015-03-24&g=2015-03-24).
 
 2. Per sectoronderdeel wordt het gewogen gemiddelde vastgesteld van het percentage, bedoeld in het eerste lid.
 
@@ -204,11 +204,11 @@ De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, b
 
 - a. de grafische industrie exclusief het fotografisch bedrijf, bedoeld in onderdeel b;
 
-- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling.
+- b. het fotografisch bedrijf, al of niet verbonden met een detailhandel in fotoartikelen, bedoeld in sector 9, onderdeel 5, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24) bij deze regeling.
 
 ##### Artikel 3.11. Vaststelling WW-deel en ZW-deel van het sectorpremiepercentage
 
-1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage voor de dekking van de daar bedoelde overige ziekengeld- en WGA-lasten en WGA-staartlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2015-01-01&g=2015-01-01).
+1. Het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten en het op grond van [artikel 2.2, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) vastgestelde opslagpercentage voor de dekking van de daar bedoelde overige ziekengeld- en WGA-lasten en WGA-staartlasten voor de sector grafische industrie, worden verschillend vastgesteld voor de sectoronderdelen, genoemd in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=3.10&z=2015-03-24&g=2015-03-24).
 
 2. Het deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten wordt per sectoronderdeel berekend aan de hand van het gemiddelde risico per sectoronderdeel over de laatste vier jaar.
 
@@ -258,7 +258,7 @@ De sector grafische industrie wordt ingedeeld in de volgende sectoronderdelen, b
 
 ##### Artikel 3.14. Bepaling sectorale premiepercentages
 
-De sectorale premiecomponent voor de WGA-lasten vaste dienstbetrekkingen van de sectorale premiepercentages bedoeld in [artikel 2.10, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10), voor de sectoren 26 en 27, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling, is gelijk aan het gemiddelde van deze premiecomponent van de sectorale premiepercentages voor de sectoren 25 tot en met 32.
+De sectorale premiecomponent voor de WGA-lasten vaste dienstbetrekkingen van de sectorale premiepercentages bedoeld in [artikel 2.10, tweede lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10), voor de sectoren 26 en 27, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24) bij deze regeling, is gelijk aan het gemiddelde van deze premiecomponent van de sectorale premiepercentages voor de sectoren 25 tot en met 32.
 
 ### Afdeling 3. Eigenrisicodragen
 
@@ -352,11 +352,11 @@ Vervallen
 
 1. Wanneer het verzoek een rechtspersoon betreft, wordt de verklaring ingediend bij de SVB door het op grond van een wettelijk voorschrift of statuten van die rechtspersoon daartoe bevoegde orgaan.
 
-2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2015-01-01&g=2015-01-01) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
+2. Onverminderd [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.2&z=2015-03-24&g=2015-03-24) houdt de verklaring, bedoeld in het eerste lid, tevens in, dat de natuurlijke personen, die behoren tot het orgaan, dat op grond van een wettelijk voorschrift of de statuten bevoegd is te besluiten de ontheffing aan te vragen, in meerderheid overwegende gemoedsbezwaren hebben.
 
 3. Bij het verzoek, bedoeld in het eerste lid, worden gevoegd:
 
-- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2015-01-01&g=2015-01-01);
+- a. een afschrift van de aan elk van de tot de in het tweede lid bedoelde meerderheid behorende natuurlijke personen verleende ontheffing, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2015-03-24&g=2015-03-24);
 
 - b. een gewaarmerkt afschrift van de statuten van de rechtspersoon, en
 
@@ -392,7 +392,7 @@ Degene, die is ontheven van zijn verplichtingen als werkgever, is verplicht te z
 
 - b. indien naar het oordeel van de SVB de gemoedsbezwaren, op grond waarvan de ontheffing is verleend, niet langer geacht kunnen worden te bestaan.
 
-2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2015-01-01&g=2015-01-01) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
+2. De ontheffing kan worden ingetrokken, indien verplichtingen, die nog op de degene aan wie ontheffing is verleend rusten ingevolge de in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=4&artikel=4.1&z=2015-03-24&g=2015-03-24) genoemde wetten, of die hem bij deze regeling zijn opgelegd, niet door hem worden nageleefd.
 
 3. De SVB kan bij de intrekking tevens bepalen, dat een verzoek om ontheffing gedaan binnen twee jaren na de dagtekening van de intrekking, enkel op die grond niet-ontvankelijk kan worden verklaard.
 
@@ -552,13 +552,13 @@ Het bedrijfs- en beroepsleven wordt ingedeeld in de volgende genummerde sectoren
 
 - 69. Telecommunicatie
 
-##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01)
+##### Artikel 5.2. Werkzaamheden in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24)
 
-Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
+Tot elke sector van het bedrijfs- en beroepsleven worden gerekend de werkzaamheden, verricht in de takken van bedrijf of beroep of gedeelten daarvan, welke in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24) zijn vermeld. Werkzaamheden die een overheidswerkgever als werkgever doet verrichten, worden gerekend tot een van de sectoren 61 tot en met 66.
 
-##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01)
+##### Artikel 5.3. Werkzaamheden niet in [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24)
 
-Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
+Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24) bij deze regeling zijn vermeld, worden geacht te behoren tot een sector van het bedrijfs- en beroepsleven, waartoe takken van bedrijf en beroep behoren, waarin werkzaamheden worden verricht, welke naar de aard het meest met de eerstbedoelde werkzaamheden overeenkomen.
 
 ##### Artikel 5.4. Concernregelen en aansluiting van nevenbedrijven en neveninstellingen
 
@@ -590,7 +590,7 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.7. Generaalpardonregeling
 
-1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2015-01-01&g=2015-01-01) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2015-01-01&g=2015-01-01) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2015-01-01&g=2015-01-01) zou zijn aangesloten.
+1. Een werkgever als bedoeld in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2015-03-24&g=2015-03-24) of de ondernemingsraad die aan de onderneming van die werkgever is verbonden, kan aan de inspecteur verzoeken te beslissen dat die werkgever is aangesloten bij die sector waarbij hij op grond van [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.5&z=2015-03-24&g=2015-03-24) en zonder het bepaalde in [artikel 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.6&z=2015-03-24&g=2015-03-24) zou zijn aangesloten.
 
 2. Een verzoek als bedoeld in het eerste lid, wordt ingewilligd indien tussen de werkgever en de aan zijn onderneming verbonden ondernemingsraad daarover overeenstemming bestaat.
 
@@ -620,17 +620,17 @@ Werkzaamheden, verricht in takken van bedrijf en beroep, welke niet in [bijlage 
 
 ##### Artikel 5.10. Informatieverplichting SVB
 
-Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2015-01-01&g=2015-01-01), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
+Binnen twee maanden na afloop van enig kalenderjaar verstrekt de SVB aan het UWV een lijst met namen van de werknemers, bedoeld in [artikel 5.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2015-03-24&g=2015-03-24), alsmede een overzicht van de aan hen in dat jaar verstrekte remigratiebijdragen.
 
 ##### Artikel 5.11. Betalingsverplichting UWV
 
-Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2015-01-01&g=2015-01-01), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2015-01-01&g=2015-01-01), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
+Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.10&z=2015-03-24&g=2015-03-24), betaalt het UWV de vergoeding, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=2&artikel=5.9&z=2015-03-24&g=2015-03-24), onder overlegging van een lijst met namen van de personen op wie de vergoeding betrekking heeft.
 
 #### § 1. Indeling in sectoren
 
 ##### Artikel 5.12. Begripsbepalingen
 
-1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+1. In [artikel 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-03-24&g=2015-03-24) wordt verstaan onder:
 
 - a. de verzekerde loonsom: het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van het Algemeen Werkloosheidsfonds zou ontvangen, indien [artikel 17, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) buiten toepassing zou blijven;
 
@@ -638,7 +638,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - c. de drempelwaarde: 0,2 procentpunt.
 
-2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+2. In [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2015-03-24&g=2015-03-24) wordt verstaan onder:
 
 - a. **de verzekerde loonsom:** het totaalbedrag van het loon, bedoeld in [artikel 26 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=26), waarover het UWV in een kalenderjaar de premies ten gunste van een sectorfonds ontvangt, met uitzondering van het loon, waarop [artikel 28, tweede lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=28) van toepassing is;
 
@@ -646,7 +646,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 - c. **de drempelwaarde:** 0,4 procentpunt.
 
-3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-01-01&g=2015-01-01) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+3. In de [artikelen 5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-03-24&g=2015-03-24) en[5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.14&z=2015-03-24&g=2015-03-24) wordt verstaan onder:
 
 - a. het lastenpercentage: het percentage van de verzekerde loonsom in een kalenderjaar waarin de werkloosheidslasten van dat kalenderjaar tot uitdrukking komen;
 
@@ -662,9 +662,9 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 1. Het UWV wijst, met inachtneming van het tweede lid, de sectorfondsen aan waarvoor een reserve voor de werkloosheidslasten wordt gevormd en in standgehouden.
 
-2. Een reserve voor de werkloosheidslasten wordt niet gevormd en in standgehouden als niet wordt voldaan aan de voorwaarden, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-01-01&g=2015-01-01), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2015-01-01&g=2015-01-01).
+2. Een reserve voor de werkloosheidslasten wordt niet gevormd en in standgehouden als niet wordt voldaan aan de voorwaarden, bedoeld in [artikel 5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-03-24&g=2015-03-24), onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2015-03-24&g=2015-03-24).
 
-3. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2015-01-01&g=2015-01-01).
+3. [Artikel 5.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.13&z=2015-03-24&g=2015-03-24), is van overeenkomstige toepassing op de omvang van de reserve voor de werkloosheidslasten, onder toepassing van [artikel 5.12, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=3&artikel=5.12&z=2015-03-24&g=2015-03-24).
 
 4. Bij de toepassing van het tweede lid wordt de wijziging van het lastenpercentage van de werkloosheidslasten in 1996 op nihil gesteld en worden de lastenpercentages in 1998 herberekend met een correctiefactor die door het UWV per sector is vastgesteld.
 
@@ -672,7 +672,7 @@ Binnen zes maanden na afloop van het kalenderjaar, bedoeld in [artikel 5.10](htt
 
 ##### Artikel 5.15. Begripsbepalingen
 
-In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+In deze afdeling en [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&z=2015-03-24&g=2015-03-24) wordt verstaan onder:
 
 - a. een rekening-courant: een rekening in de centrale administratie van ’s Rijks schatkist bij het ministerie van Financiën op naam van een rekening-couranthouder, waarop dagelijks het geldelijk tegoed (positief of negatief) wordt bijgehouden van de betrokken rekening-couranthouder bij het Rijk en de mutaties in het tegoed;
 
@@ -704,7 +704,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de afdrachten van de door de rijksbelastingdienst geïnde premies aan de rekening-couranthouders ten behoeve van de desbetreffende fondsen;
 
-- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2015-01-01&g=2015-01-01);
+- c. de creditrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2015-03-24&g=2015-03-24);
 
 - d. de bijschrijvingen op het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -714,7 +714,7 @@ In de centrale administratie van 's Rijks schatkist worden de volgende rekeninge
 
 - b. de eventuele terugbetalingen aan de rijksbelastingdienst samenhangende met de afdrachten, bedoeld in het eerste lid, onderdeel b;
 
-- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2015-01-01&g=2015-01-01);
+- c. de debetrente, bedoeld in [artikel 5.18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.18&z=2015-03-24&g=2015-03-24);
 
 - d. de afschrijvingen van het tegoed van ’s Rijks schatkist bij een bankinstelling door de rekening-couranthouders.
 
@@ -766,7 +766,7 @@ De rekening-couranthouder is bevoegd een bedrag van ten hoogste € 2,5 miljoen 
 
 ##### Artikel 5.22. Rapportageverplichting rijksbelastingdienst
 
-1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2015-01-01&g=2015-01-01) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2015-01-01&g=2015-01-01) aan de Minister van Financiën en de SVB, het UWV en het Zorginstituut.
+1. De rijksbelastingdienst rapporteert uiterlijk de tiende werkdag na afloop van de maand over de opbrengsten, bedoeld in de [artikelen 5.20](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.20&z=2015-03-24&g=2015-03-24) en [5.21](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.21&z=2015-03-24&g=2015-03-24) aan de Minister van Financiën en de SVB, het UWV en het Zorginstituut.
 
 2. In afwijking van het eerste lid vindt de rapportage over de laatste maand van het kalenderjaar uiterlijk de vijftiende werkdag na afloop van het kalenderjaar plaats.
 
@@ -804,7 +804,7 @@ In deze afdeling wordt verstaan onder:
 
 ##### Artikel 5.25. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.24&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de eerste dag van elke maand, en
 
@@ -822,7 +822,7 @@ Vervallen
 
 ##### Artikel 5.28. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten opgenomen, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.25&z=2015-01-01&g=2015-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten opgenomen, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=2&artikel=5.25&z=2015-03-24&g=2015-03-24), uitgesplitst naar uitkeringslasten en uitvoeringskosten.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -836,11 +836,11 @@ Vervallen
 
 1. Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds, uitgesplitst naar uitkeringslasten, tegemoetkomingen en toeslagen per maand en uitvoeringskosten per jaar.
 
-2. De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar de in [artikel 5.29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.29a&z=2015-01-01&g=2015-01-01), genoemde wetten, met uitzondering van onderdeel b.
+2. De bedragen in de opgave, bedoeld in het eerste lid, worden gespecificeerd naar de in [artikel 5.29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.29a&z=2015-03-24&g=2015-03-24), genoemde wetten, met uitzondering van onderdeel b.
 
 ##### Artikel 5.31. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.30&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde uitkeringslasten, toeslagen en tegemoetkomingen met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -858,7 +858,7 @@ Vervallen
 
 ##### Artikel 5.34. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.31&z=2015-01-01&g=2015-01-01), met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in [artikel 5.29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.29a&z=2015-01-01&g=2015-01-01), genoemde wetten, met uitzondering van onderdeel b.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.31&z=2015-03-24&g=2015-03-24), met betrekking tot hetToeslagenfonds en het Wajong-fonds opgenomen, waarbij de gegevens met betrekking tot het Toeslagenfonds tevens worden gespecificeerd naar de in [artikel 5.29a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.29a&z=2015-03-24&g=2015-03-24), genoemde wetten, met uitzondering van onderdeel b.
 
 2. De overige baten en lasten met betrekking tot het Toeslagenfonds en het Wajong-fonds kunnen in de jaarrekening, bedoeld in het eerste lid, worden toegerekend aan respectievelijk de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
@@ -878,7 +878,7 @@ Vervallen
 
 ##### Artikel 5.37. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.36&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.36&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -888,7 +888,7 @@ Vervallen
 
 ##### Artikel 5.38. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.37&z=2015-01-01&g=2015-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot hetArbeidsongeschiktheidsfonds opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=4&artikel=5.37&z=2015-03-24&g=2015-03-24), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot hetArbeidsongeschiktheidsfonds opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -926,7 +926,7 @@ Arbeidsongeschiktheidsfonds.
 
 ##### Artikel 6.2. Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling terug werkt tot en met 1 januari 2005.
+Deze regeling treedt in werking met ingang van 1 januari 2006 waarbij [onderdeel 19 van bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&bijlage=1&z=2015-03-24&g=2015-03-24) bij deze regeling terug werkt tot en met 1 januari 2005.
 
 ##### Artikel 6.3. Citeertitel
 
@@ -1028,15 +1028,13 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 ### **1. Agrarisch bedrijf, omvattende:**
 
-### **1. Agrarisch bedrijf, omvattende:**
-
 ### **2. Tabakverwerkende industrie, omvattende:**
 
 ### **3. Bouwbedrijf,omvattende:**
 
 ### **4. Baggerbedrijf, omvattende:**
 
-### **5. Houten emballage-industrie, houtwaren- en borstelindustrie, omvattende:**
+### **4. Baggerbedrijf, omvattende:**
 
 ### **5. Houten emballage-industrie, houtwaren- en borstelindustrie, omvattende:**
 
@@ -1050,6 +1048,8 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 ### **10. Metaalindustrie, omvattende:**
 
+### **10. Metaalindustrie, omvattende:**
+
 ### **12. Metaal- en technische bedrijfstakken, omvattende:**
 
 ### **11. Elektrotechnische industrie:**
@@ -1057,8 +1057,6 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 ### **11. Elektrotechnische industrie:**
 
 ### **15. Slagersbedrijven**
-
-### **12. Metaal- en technische bedrijfstakken, omvattende:**
 
 ### **12. Metaal- en technische bedrijfstakken, omvattende:**
 
@@ -1068,9 +1066,11 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 ### **15. Slagersbedrijven**
 
+### **16. Slagers overig, omvattende:**
+
 Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.820.575 hebben
 
-### **17. Detailhandel en ambachten, omvattende:**
+### **18. Reiniging**
 
 Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigingsbedrijven e.d.
 
@@ -1080,27 +1080,27 @@ Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigings
 
 ### **20. Havenbedrijven, omvattende:**
 
-### **20. Havenbedrijven, omvattende:**
+### **21. Havenclassificeerders**
 
 ### **21. Havenclassificeerders**
 
 ### **22. Binnenscheepvaart, omvattende:**
 
-### **22. Binnenscheepvaart, omvattende:**
+### **23. Visserij, omvattende:**
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
-### **24. Koopvaardij,omvattende:**
+### **25. Vervoer KLM**
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
-### **26. Vervoer NS**
+### **27. Vervoer posterijen, omvattende:**
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
-### **28. Taxivervoer**
+### **29. Openbaar vervoer**
 
 ## Bijlage 2. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2006-01-01&g=2006-05-01)
 
@@ -1260,7 +1260,7 @@ Tot de elektrotechnische industrie behoort, mits in de betrokken onderneming, re
 
 De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinning.
 
-### **16. Slagers overig, omvattende:**
+### **17. Detailhandel en ambachten, omvattende:**
 
 Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigingsbedrijven e.d.
 
@@ -1268,11 +1268,11 @@ Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigings
 
 Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigingsbedrijven e.d.
 
-### **23. Visserij, omvattende:**
+### **24. Koopvaardij,omvattende:**
 
 Contractcatering.
 
-### **25. Vervoer KLM**
+### **26. Vervoer NS**
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
@@ -1280,7 +1280,7 @@ Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009
 
 Contractcatering.
 
-### **29. Openbaar vervoer**
+### **30. Besloten busvervoer**
 
 ## Bijlage 3. , behorend bij [artikel 5.32](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.32&z=2008-01-01&g=2008-01-01)
 
@@ -1377,7 +1377,7 @@ Contractcatering.
 
 Contractcatering.
 
-### **31. Overig personenvervoer te land en in de lucht**
+### **32. Overig goederenvervoer te land en in de lucht**
 
 ## Bijlage 4. , behorend bij [artikel 5.33](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=3&paragraaf=3&artikel=5.33&z=2008-01-01&g=2008-01-01)
 
@@ -1536,17 +1536,17 @@ Onder vervaardigen, als bedoeld onder I en II, wordt eveneens verstaan het assem
 
 Postvervoerbedrijven als bedoeld in [artikel 2, onderdeel e, van de Postwet 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025572&artikel=2).
 
-### **30. Besloten busvervoer**
+### **31. Overig personenvervoer te land en in de lucht**
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
-### **32. Overig goederenvervoer te land en in de lucht**
+### **33. Horeca algemeen, omvattende:**
 
 Contractcatering.
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **36 en 37: Vervallen**
+### **38. Banken, omvattende:**
 
 ## Bijlage 4
 
@@ -1587,7 +1587,7 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 Gedetailleerde omschrijving van de metaalindustrie:
 
-### **33. Horeca algemeen, omvattende:**
+### **34. Horeca catering**
 
 Contractcatering.
 
@@ -1595,7 +1595,7 @@ Contractcatering.
 
 ten behoeve van deze werkzaamheden.
 
-### **38. Banken, omvattende:**
+### **39. Verzekeringswezen**
 
 ## Bijlage 3
 
@@ -1611,7 +1611,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel 5.41. Kosten BKWI
 
-1. De kosten van het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel dat in het bijzonder is belast met het beheer van de elektronische voorzieningen, komen als bedoeld in [artikel 5.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=1&artikel=5.40&z=2015-01-01&g=2015-01-01), direct ten laste van de rijksbijdrage aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=45).
+1. De kosten van het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel dat in het bijzonder is belast met het beheer van de elektronische voorzieningen, komen als bedoeld in [artikel 5.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=1&artikel=5.40&z=2015-03-24&g=2015-03-24), direct ten laste van de rijksbijdrage aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=45).
 
 2. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant van het UWV, bedoeld in [artikel 120, eerste lid, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=120), een periodiek voorschot ter hoogte van 1/12de deel van de in het eerste lid bedoelde kosten, met als valutadag de vijftiende dag van elke maand. De Minister kan na overleg met het UWV voor het in [artikel 5.21, tweede lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=5.21) bedoelde organisatieonderdeel van het in de eerste zin genoemde bedrag afwijken.
 
@@ -1625,13 +1625,13 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 Tot de elektrotechnische industrie behoort, mits in de betrokken onderneming, rekening houdende met het in de bedrijfstak geldende normale aantal arbeidsuren, in de regel gedurende ten minste 1200 uren per week door bij die onderneming in dienst zijnde werknemers werkzaamheden worden verricht met uitzondering van het elektrotechnische installateursbedrijf (voor zover niet betreffende het elektrotechnische scheepsinstallatiebedrijf), het radio- en televisieïnstallateurs- en reparateursbedrijf, het neoninstallateursbedrijf en het elektrotechnische nettenbouwbedrijf : het bedrijf van vervaardigen en/of herstellen van apparaten, installaties, stoffen, toestellen, voorwerpen, e.d., die elektrische energie of haar componenten afgeven, bewaren, gebruiken, meten, omzetten, overbrengen, schakelen, transformeren, verbruiken, verdelen, voortbrengen of waarneembaar maken, zoals:
 
-### **35. Gezondheid, geestelijke en maatschappelijke belangen, omvattende:**
+### **36 en 37: Vervallen**
 
 Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdicht ballastbed, dwarsliggers en rails op bouwrijp gemaakte spoordijken, spoorbruggen, viaducten en tunnels, alsmede het verrichten van herstel en onderhoud (operationeel beheer) aan genoemde railstructuren, alsmede de verhuur met bemanning van specifiek groot materieel
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
-### **41. Groothandel I (met inbegrip van daartoe behorende nevenwerkzaamheden, welke uitsluitend of praktisch uitsluitend ten behoeve van de eigen groothandel worden verricht), omvattende:**
+### **42. Groothandel II (met inbegrip van daartoe behorende nevenwerkzaamheden, welke uitsluitend of praktisch uitsluitend ten behoeve van de eigen groothandel worden verricht), omvattende:**
 
 ## Bijlage 4
 
@@ -1679,7 +1679,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken e
 
 ##### Artikel 5.51. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.50](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.50&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.50](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.50&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -1689,7 +1689,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken e
 
 ##### Artikel 5.52. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.51&z=2015-01-01&g=2015-01-01), met betrekking tot de WKB opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=3&artikel=5.51&z=2015-03-24&g=2015-03-24), met betrekking tot de WKB opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -1711,23 +1711,23 @@ Onder vervaardigen, als bedoeld onder I en II, wordt eveneens verstaan het assem
 
 Onder vervaardigen wordt eveneens verstaan het assembleren, monteren en samenstellen uit van derden betrokken onderdelen.
 
-### **39. Verzekeringswezen**
-
 ### **40. Uitgeverij**
+
+### **41. Groothandel I (met inbegrip van daartoe behorende nevenwerkzaamheden, welke uitsluitend of praktisch uitsluitend ten behoeve van de eigen groothandel worden verricht), omvattende:**
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
-### **42. Groothandel II (met inbegrip van daartoe behorende nevenwerkzaamheden, welke uitsluitend of praktisch uitsluitend ten behoeve van de eigen groothandel worden verricht), omvattende:**
+### **43. Zakelijke Dienstverlening I, omvattende:**
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **44. Zakelijke Dienstverlening II, omvattende:**
+### **45. Zakelijke Dienstverlening III, omvattende:**
 
 Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdicht ballastbed, dwarsliggers en rails op bouwrijp gemaakte spoordijken, spoorbruggen, viaducten en tunnels, alsmede het verrichten van herstel en onderhoud (operationeel beheer) aan genoemde railstructuren, alsmede de verhuur met bemanning van specifiek groot materieel
 
 Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 
-### **47. Textielindustrie, omvattende:**
+### **48. Steen-, cement, glas- en keramische industrie, omvattende:**
 
 ## Bijlage 7
 
@@ -1874,15 +1874,15 @@ Hier worden bedoeld schoonmaakbedrijven, glazenwassersbedrijven, gevelreinigings
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **43. Zakelijke Dienstverlening I, omvattende:**
+### **44. Zakelijke Dienstverlening II, omvattende:**
 
 Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de hiervoor vermelde overheidssectoren.
 
-### **45. Zakelijke Dienstverlening III, omvattende:**
+### **46. Zuivelindustrie, omvattende:**
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
-### **48. Steen-, cement, glas- en keramische industrie, omvattende:**
+### **49. Chemische industrie, omvattende**
 
 ## Bijlage 5
 
@@ -1902,7 +1902,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken e
 
 ##### Artikel 5.44. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=2&artikel=5.43&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.43](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=2&artikel=5.43&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -1920,7 +1920,7 @@ Vervallen
 
 ##### Artikel 5.47. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=2&artikel=5.44&z=2015-01-01&g=2015-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot de toekenning van AIO opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=2&artikel=5.44&z=2015-03-24&g=2015-03-24), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot de toekenning van AIO opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -1940,7 +1940,7 @@ Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmat
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **50. Voedingsindustrie, omvattende:**
+### **51. Algemene industrie, omvattende:**
 
 ## Bijlage 2
 
@@ -1994,23 +1994,23 @@ De baggerbedrijven, inclusief de rijswerkersbedrijven en de zand- en grindwinnin
 
 Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.890.425 hebben
 
-### **46. Zuivelindustrie, omvattende:**
+### **47. Textielindustrie, omvattende:**
 
-### **49. Chemische industrie, omvattende**
-
-Het mortelbedrijf voor zover het betreft natte mortel.
-
-### **51. Algemene industrie, omvattende:**
-
-Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
-
-### **53. Bewakingsondernemingen**
-
-Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
+### **50. Voedingsindustrie, omvattende:**
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **56. Schildersbedrijf**
+### **52. Uitzendbedrijven, omvattende:**
+
+Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
+
+### **54. Culturele instellingen, omvattende:**
+
+Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
+
+Het mortelbedrijf voor zover het betreft natte mortel.
+
+### **57. Stukadoorsbedrijf, omvattende:**
 
 ## Bijlage 3
 
@@ -2090,15 +2090,15 @@ Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenmin
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
-### **52. Uitzendbedrijven, omvattende:**
+### **53. Bewakingsondernemingen**
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **54. Culturele instellingen, omvattende:**
+### **55. Overige takken van bedrijf en beroep, omvattende:**
 
 Het mortelbedrijf voor zover het betreft natte mortel.
 
-### **57. Stukadoorsbedrijf, omvattende:**
+### **58. Dakdekkersbedrijf, omvattende:**
 
 ## Bijlage 2
 
@@ -2162,11 +2162,11 @@ Vervallen
 
 ## Bijlage 1. , behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.2&z=2012-01-01&g=2012-01-01)
 
-Gedetailleerde omschrijving van de metaalindustrie:
+Onder vervaardigen, als bedoeld onder I en II, wordt eveneens verstaan het assembleren, monteren en samenstellen uit van derden betrokken onderdelen.
 
 Tot de elektrotechnische industrie behoort, mits in de betrokken onderneming, rekening houdende met het in de bedrijfstak geldende normale aantal arbeidsuren, in de regel gedurende ten minste 1200 uren per week door bij die onderneming in dienst zijnde werknemers werkzaamheden worden verricht met uitzondering van het elektrotechnische installateursbedrijf (voor zover niet betreffende het elektrotechnische scheepsinstallatiebedrijf), het radio- en televisieïnstallateurs- en reparateursbedrijf, het neoninstallateursbedrijf en het elektrotechnische nettenbouwbedrijf : het bedrijf van vervaardigen en/of herstellen van apparaten, installaties, stoffen, toestellen, voorwerpen, e.d., die elektrische energie of haar componenten afgeven, bewaren, gebruiken, meten, omzetten, overbrengen, schakelen, transformeren, verbruiken, verdelen, voortbrengen of waarneembaar maken, zoals:
 
-### **55. Overige takken van bedrijf en beroep, omvattende:**
+### **56. Schildersbedrijf**
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
@@ -2180,7 +2180,7 @@ Het mortelbedrijf voor zover het betreft natte mortel.
 
 Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de hiervoor vermelde overheidssectoren.
 
-### **61. Overheid, onderwijs en wetenschappen, omvattende:**
+### **62. Overheid, rijk, politie en rechterlijke macht, omvattende:**
 
 ## Bijlage 3
 
@@ -2238,7 +2238,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Onder vervaardigen, als bedoeld onder I en II, wordt eveneens verstaan het assembleren, monteren en samenstellen uit van derden betrokken onderdelen.
 
-Tot de elektrotechnische industrie behoort, mits in de betrokken onderneming, rekening houdende met het in de bedrijfstak geldende normale aantal arbeidsuren, in de regel gedurende ten minste 1200 uren per week door bij die onderneming in dienst zijnde werknemers werkzaamheden worden verricht met uitzondering van het elektrotechnische installateursbedrijf (voor zover niet betreffende het elektrotechnische scheepsinstallatiebedrijf), het radio- en televisieïnstallateurs- en reparateursbedrijf, het neoninstallateursbedrijf en het elektrotechnische nettenbouwbedrijf : het bedrijf van vervaardigen en/of herstellen van apparaten, installaties, stoffen, toestellen, voorwerpen, e.d., die elektrische energie of haar componenten afgeven, bewaren, gebruiken, meten, omzetten, overbrengen, schakelen, transformeren, verbruiken, verdelen, voortbrengen of waarneembaar maken, zoals:
+Onder vervaardigen wordt eveneens verstaan het assembleren, monteren en samenstellen uit van derden betrokken onderdelen.
 
 Het dakdekkersbedrijf voor zover worden verwerkt bitumen, asfalt en kunststofmaterialen.
 
@@ -2250,7 +2250,7 @@ Het mortelbedrijf voor zover het betreft natte mortel.
 
 Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 
-### **62. Overheid, rijk, politie en rechterlijke macht, omvattende:**
+### **63. Overheid, defensie omvattende:**
 
 ## Bijlage 3
 
@@ -2282,7 +2282,7 @@ Bij de vaststelling van de opslagpercentages, bedoeld in [artikel 2.2, tweede li
 
 ##### Artikel 3.5a. Bijdrage sector uitzendbedrijven
 
-1. De bijdrage, bedoeld in [artikel 2.2a van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2a), wordt in aanmerking genomen bij het voor de sector uitzendbedrijven vaststellen van het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) bedoelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.8&z=2015-01-01&g=2015-01-01).
+1. De bijdrage, bedoeld in [artikel 2.2a van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2a), wordt in aanmerking genomen bij het voor de sector uitzendbedrijven vaststellen van het op grond van [artikel 2.2, eerste lid, van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.2) bedoelde deel van het sectorpremiepercentage ter dekking van de werkloosheidslasten, bedoeld in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=2&paragraaf=1&artikel=3.8&z=2015-03-24&g=2015-03-24).
 
 2. De bijdrage bedraagt € 85.000.000.
 
@@ -2316,13 +2316,13 @@ Bij de vaststelling van de opslagpercentages, bedoeld in [artikel 2.2, tweede li
 
 Scheepsonderhoud- en classificeerdersbedrijven.
 
-### **60. Steenhouwersbedrijf**
+### **61. Overheid, onderwijs en wetenschappen, omvattende:**
 
 Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdicht ballastbed, dwarsliggers en rails op bouwrijp gemaakte spoordijken, spoorbruggen, viaducten en tunnels, alsmede het verrichten van herstel en onderhoud (operationeel beheer) aan genoemde railstructuren, alsmede de verhuur met bemanning van specifiek groot materieel
 
 Instellingen of diensten die zich bezighouden met de feitelijke uitvoering van:
 
-### **65. Overheid, openbare nutsbedrijven**
+### **66. Overheid, overige instellingen, omvattende:**
 
 ## Bijlage 4
 
@@ -2380,7 +2380,7 @@ Voor de werkgever geldt het sectorpremiepercentage, bedoeld in [artikel 2.1, ond
 
 Warenhuizen en filiaalbedrijven in de detailhandel die een loonsom WW van tenminste € 5.730.604 hebben
 
-### **64. Overheid, provincies, gemeenten en waterschappen, omvattende:**
+### **65. Overheid, openbare nutsbedrijven**
 
 Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de hiervoor vermelde overheidssectoren.
 
@@ -2388,11 +2388,11 @@ Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de
 
 ### **67. Werk en (re)Integratie, omvattende:**
 
-## Bijlage 2
+## Bijlage 3
 
 Vervallen
 
-## Bijlage 3
+## Bijlage 4
 
 Vervallen
 
@@ -2434,7 +2434,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 Overheidsinstellingen, welke qua activiteiten niet zijn te rangschikken onder de hiervoor vermelde overheidssectoren.
 
-### **63. Overheid, defensie omvattende:**
+### **64. Overheid, provincies, gemeenten en waterschappen, omvattende:**
 
 ### **66. Overheid, overige instellingen, omvattende:**
 
@@ -2452,7 +2452,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken e
 
 ##### Artikel 5.55. Betaling voorschot
 
-1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-01-01&g=2015-01-01), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.54](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=4&artikel=5.54&z=2015-01-01&g=2015-01-01), van:
+1. De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=2&artikel=5.16&z=2015-03-24&g=2015-03-24), een periodiek voorschot op het bedrag, bedoeld in [artikel 5.54](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=4&artikel=5.54&z=2015-03-24&g=2015-03-24), van:
 
 - a. geraamde kosten voor remigratievoorzieningen met als valutadatum de tweeëntwintigste dag van elke maand, en
 
@@ -2462,7 +2462,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de Minister van Sociale Zaken e
 
 ##### Artikel 5.56. Afrekening
 
-1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=4&artikel=5.55&z=2015-01-01&g=2015-01-01), uitgesplitst naar kosten voor remigratievoorzieningen en uitvoeringskosten, met betrekking tot de remigratiekosten opgenomen.
+1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 5.55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=4&artikel=5.55&z=2015-03-24&g=2015-03-24), uitgesplitst naar kosten voor remigratievoorzieningen en uitvoeringskosten, met betrekking tot de remigratiekosten opgenomen.
 
 2. Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34), rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.
 
@@ -2480,10 +2480,6 @@ Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdich
 
 ### **69. Telecommunicatie, omvattende:**
 
-## Bijlage 4
-
-Vervallen
-
 ## Bijlage 5
 
 Vervallen
@@ -2493,6 +2489,10 @@ Vervallen
 Vervallen
 
 ## Bijlage 7
+
+Vervallen
+
+## Bijlage 8
 
 Vervallen
 
@@ -2562,9 +2562,9 @@ Voor de toepassing van [artikel 48b van de Wfsv](https://wetten.overheid.nl/jci1
 
 Ten aanzien van de toepassing van de [artikelen 48a](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=48a) en [48b van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=48b):
 
-- a. zijn de [artikelen 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.19&z=2015-01-01&g=2015-01-01), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.22&z=2015-01-01&g=2015-01-01) en [3.24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.24&z=2015-01-01&g=2015-01-01), van overeenkomstige toepassing;
+- a. zijn de [artikelen 3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.19&z=2015-03-24&g=2015-03-24), [3.22](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.22&z=2015-03-24&g=2015-03-24) en [3.24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.24&z=2015-03-24&g=2015-03-24), van overeenkomstige toepassing;
 
-- b. is [artikel 3.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.24a&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing met dien verstande dat voor het kalenderjaar 2014 geldt dat de premiekorting, bedoeld in [artikel 48a van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=48a), door de werkgever verrekend kan worden in de aangiftetijdvakken die betrekking hebben op de periode vanaf 1 juli 2014.
+- b. is [artikel 3.24a](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=3&afdeling=5&artikel=3.24a&z=2015-03-24&g=2015-03-24) van overeenkomstige toepassing met dien verstande dat voor het kalenderjaar 2014 geldt dat de premiekorting, bedoeld in [artikel 48a van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=48a), door de werkgever verrekend kan worden in de aangiftetijdvakken die betrekking hebben op de periode vanaf 1 juli 2014.
 
 ### Hoofdstuk 5. De fondsen
 
@@ -2582,15 +2582,15 @@ Ten aanzien van de toepassing van de [artikelen 48a](https://wetten.overheid.nl/
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage 1. , behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.2&z=2015-01-01&g=2015-01-01)
+## Bijlage 1. , behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.2&z=2015-03-24&g=2015-03-24)
 
 ### **68. Railbouw, omvattende:**
 
-Het (doen) uitvoeren van werkzaamheden aangaande het (aan)leggen van een verdicht ballastbed, dwarsliggers en rails op bouwrijp gemaakte spoordijken, spoorbruggen, viaducten en tunnels, alsmede het verrichten van herstel en onderhoud (operationeel beheer) aan genoemde railstructuren, alsmede de verhuur met bemanning van specifiek groot materieel
+ten behoeve van deze werkzaamheden.
 
 ### **69. Telecommunicatie, omvattende:**
 
-## Bijlage 8
+## Bijlage 9
 
 Vervallen
 
@@ -2598,7 +2598,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ##### Artikel 5.41a. Uitvoeringskosten beoordeling gemeentelijke doelgroep
 
-1. De uitvoeringskosten van het UWV voor de beoordelingen van de verdienmogelijkheid van het wettelijk minimumloon, bedoeld in [artikel 3.5, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.5), de werkzaamheden ten behoeve van de vaststelling of een persoon medisch urenbeperkt is als bedoeld in [artikel 6b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6b) en de werkzaamheden ten behoeve van de vaststelling of een persoon uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden heeft tot arbeidsparticipatie, bedoeld in [artikel 10b, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) komen als bedoeld in [artikel 5.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=1&artikel=5.40&z=2015-10-16&g=2015-01-01), ten laste van de rijksbijdragen aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=45).
+1. De uitvoeringskosten van het UWV voor de beoordelingen van de verdienmogelijkheid van het wettelijk minimumloon, bedoeld in [artikel 3.5, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.5), de werkzaamheden ten behoeve van de vaststelling of een persoon medisch urenbeperkt is als bedoeld in [artikel 6b, vierde lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=6b) en de werkzaamheden ten behoeve van de vaststelling of een persoon uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden heeft tot arbeidsparticipatie, bedoeld in [artikel 10b, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10b) komen als bedoeld in [artikel 5.40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=4&paragraaf=1&artikel=5.40&z=2015-10-16&g=2015-03-24), ten laste van de rijksbijdragen aan het UWV, bedoeld in [artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=45).
 
 2. Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde uitvoeringskosten.
 
@@ -2616,7 +2616,7 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 ### Hoofdstuk 6. Slotbepalingen
 
-## Bijlage 1. , behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.2&z=2015-10-16&g=2015-01-01)
+## Bijlage 1. , behorend bij [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0019150&hoofdstuk=5&afdeling=1&paragraaf=1&artikel=5.2&z=2015-10-16&g=2015-03-24)
 
 ten behoeve van deze werkzaamheden.
 
