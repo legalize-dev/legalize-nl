@@ -4,7 +4,7 @@ identifier: "BWBR0012746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012746"
 soort: "ministeriele-regeling"
@@ -108,19 +108,15 @@ Voor erkenning kan worden voorgedragen:
 
 ##### Artikel 6
 
-1. De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=1), een werkgever of een derde organisatie.
+1. De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1), een werkgever of een derde organisatie.
 
-2. Indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die:
+2. Bij de aanvraag om erkenning van het scholings- en trainingsprogramma vermeldt de organisatie de erkenning of toelating, indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die:
 
 - a. op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) als zorginstelling is aangemerkt;
 
 - b. een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1) die is toegelaten voor het verlenen van zorg als bedoeld in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
 
-- c. door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling;
-
-- d. op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving) erkend is;
-
-- e. vermeldt de organisatie bij de aanvraag om erkenning van het scholings- en trainingsprogramma de erkenning of toelating.
+- c. door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling.
 
 3. Indien het scholing- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie, die niet door een in het tweede lid genoemd Ministerie of krachtens een daar genoemde wet erkend of toegelaten is, wordt bij de aanvraag om erkenning van het scholings- en trainingsprogramma de betrouwbaarheid van de derde-organisatie getoetst.
 
