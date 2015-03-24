@@ -4,7 +4,7 @@ identifier: "BWBR0019297"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-24"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019297"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ Besluit:
 
 3. Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.
 
-4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
+4. Onder voormalig pleegkind als bedoeld in het derde lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&wetgeving) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
 ##### Artikel 2. Aanvraagtermijnen loon- en inkomenssuppletie
 
@@ -194,7 +194,7 @@ Voor de toepassing van [artikel 15b, eerste lid, van het Reïntegratiebesluit](h
 
 ##### Artikel 12b. Aftrekbare kosten
 
-[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2015-01-01&g=2015-01-01).
+[Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2&artikel=6&z=2015-03-24&g=2015-03-24) is van overeenkomstige toepassing op het inkomen, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0019297&paragraaf=2a&artikel=12a&z=2015-03-24&g=2015-03-24).
 
 #### § 3. Fondsbelasting ten behoeve van het Reïntegratiefonds
 
