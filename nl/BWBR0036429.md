@@ -4,7 +4,7 @@ identifier: "BWBR0036429"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-03-25"
-last_updated: "2013-04-01"
+last_updated: "2015-03-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036429"
 soort: "ministeriele-regeling"
@@ -41,13 +41,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Ten aanzien van de in het tweede lid genoemde artikelen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&wetgeving) wordt mandaat en machtiging verleend aan de volgende functionarissen werkzaam bij Rijkswaterstaat Midden-Nederland:
+1. Ten aanzien van de in het tweede lid genoemde artikelen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) wordt mandaat en machtiging verleend aan de volgende functionarissen werkzaam bij Rijkswaterstaat Midden-Nederland:
 
 - a. de directeur Netwerkontwikkeling;
 
 - b. het hoofd van de afdeling Vergunningen.
 
-2. De in het eerste lid bedoelde artikelen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&wetgeving) zijn:
+2. De in het eerste lid bedoelde artikelen van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628) zijn:
 
 [1.01, onderdeel A 14°](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.01);
 
