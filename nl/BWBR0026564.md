@@ -4,7 +4,7 @@ identifier: "BWBR0026564"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-07-30"
-last_updated: "2012-07-01"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026564"
 soort: "ministeriele-regeling"
@@ -74,13 +74,13 @@ Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [art
 
 ##### Artikel 4
 
-1. De Lden-contouren, de Lden-grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=1&z=2012-07-01&g=2012-07-01) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door het Nationaal Lucht- en Ruimtevaartlaboratorium opgestelde Indelingslijst luchtvaartuigtypen en van de Appendices van de voorschriften voor de berekening van de geluidbelasting in Lden.
+1. De Lden-contouren, de Lden-grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=1&z=2015-03-26&g=2015-03-26) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door het Nationaal Lucht- en Ruimtevaartlaboratorium opgestelde Indelingslijst luchtvaartuigtypen en van de Appendices van de voorschriften voor de berekening van de geluidbelasting in Lden.
 
 2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde indelingslijst of appendices wordt mededeling gedaan in de Staatscourant.
 
 ##### Artikel 5
 
-1. De 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=2&z=2012-07-01&g=2012-07-01) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.
+1. De 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=2&z=2015-03-26&g=2015-03-26) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.
 
 2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde lijst wordt mededeling gedaan in de Staatscourant.
 
@@ -90,7 +90,7 @@ Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden
 
 ##### Artikel 7
 
-1. De omvang van het veiligheidsgebied als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=13) wordt vastgesteld overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=3&z=2012-07-01&g=2012-07-01) van deze regeling opgenomen voorschrift.
+1. De omvang van het veiligheidsgebied als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=13) wordt vastgesteld overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=3&z=2015-03-26&g=2015-03-26) van deze regeling opgenomen voorschrift.
 
 2. In het veiligheidsgebied:
 
@@ -100,13 +100,13 @@ Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden
 
 - c. zijn abrupte overgangen en plotseling tegengestelde hellingen niet toegestaan.
 
-3. In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2012-07-01&g=2012-07-01) bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.
+3. In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2015-03-26&g=2015-03-26) bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.
 
 ##### Artikel 8
 
 1. Het gebied met hoogtebeperkingen in verband met de vliegveiligheid als bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=14) wordt vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag, met uitzondering van de onderdelen 4.1.11, 4.1.12, 4.1.17 tot en met 4.1.24, 4.2.3, 4.2.4, 4.2.5, 4.2.10 tot en met 4.2.12, 4.2.14, 4.2.15, 4.2.18 tot en met 4.2.21, 4.2.25, 4.2.27, 4.3.1, 4.3.2, 4.4.1, 4.4.2, figuur 4-2 en de in tabel 4-1 opgenomen inner approach surface, inner transitional surface en balked landing surface en de daarbij behorende dimensies, en met dien verstande dat:
 
-- a. voor luchthavens met een approach runway met code number 1 of 2 als bedoeld in tabel 4-1 de outer horizontal surface en de conical surface worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=5&z=2012-07-01&g=2012-07-01) van deze regeling;
+- a. voor luchthavens met een approach runway met code number 1, 2, 3 of 4 als bedoeld in tabel 4-1 de outer horizontal surface en de conical surface worden vastgesteld overeenkomstig [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=5&z=2015-03-26&g=2015-03-26) van deze regeling;
 
 - b. voor het bepalen van een in tabel 4-1 en tabel 4-2 opgenomen code number gebruik wordt gemaakt van tabel 1-1 in deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag;
 
@@ -130,7 +130,7 @@ Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden
 
 ##### Artikel 9
 
-Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=15) alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=6&z=2012-07-01&g=2012-07-01) van deze regeling opgenomen voorschrift.
+Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=15) alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=6&z=2015-03-26&g=2015-03-26) van deze regeling opgenomen voorschrift.
 
 ##### Artikel 10
 
@@ -160,7 +160,7 @@ Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://
 
 - 3°. uitbreiding van het banenstelsel op een bestaande luchthaven; of
 
-- 4°. verdraaiing van een baan op een bestaande luchthaven: een kaart van het gebied berekend overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2012-07-01&g=2012-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2012-07-01&g=2012-07-01) met daarin aangegeven de objecten die hoger zijn dan de op basis van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2012-07-01&g=2012-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2012-07-01&g=2012-07-01) toegestane maximale bouwhoogte en een kaart van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2012-07-01&g=2012-07-01) berekende gebieden met daarop aangegeven de obstakels en hellingen die niet voldoen aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2012-07-01&g=2012-07-01) gestelde eisen;
+- 4°. verdraaiing van een baan op een bestaande luchthaven: een kaart van het gebied berekend overeenkomstig de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2015-03-26&g=2015-03-26) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2015-03-26&g=2015-03-26) met daarin aangegeven de objecten die hoger zijn dan de op basis van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2015-03-26&g=2015-03-26) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2015-03-26&g=2015-03-26) toegestane maximale bouwhoogte en een kaart van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2015-03-26&g=2015-03-26) berekende gebieden met daarop aangegeven de obstakels en hellingen die niet voldoen aan de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2015-03-26&g=2015-03-26) gestelde eisen;
 
 - e. indien de aanvraag betrekking heeft op een luchthaven met een instrumentbaan categorie I, II of III op een terrein dat nog niet eerder als luchthaven in gebruik is geweest: een onderzoek op grond waarvan kan worden beoordeeld in hoeverre het grondgebruik in een straal van 6 kilometer rond het luchthavengebied gevaar oplevert voor de vliegveiligheid in verband met vogelaanvaringen; en
 
@@ -172,13 +172,13 @@ Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://
 
 ##### Artikel 12
 
-De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01) zijn van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01), en de termijn bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01), worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van [artikel 8.54, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54), geen afwijkende bepalingen zijn vastgesteld.
+De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26) zijn van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26), en de termijn bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26), worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van [artikel 8.54, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54), geen afwijkende bepalingen zijn vastgesteld.
 
 ##### Artikel 13
 
-1. De exploitant van de luchthaven registreert en berekent de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2012-07-01&g=2012-07-01) van deze regeling aangegeven gegevens over de daarbij aangegeven tijdvakken.
+1. De exploitant van de luchthaven registreert en berekent de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2015-03-26&g=2015-03-26) van deze regeling aangegeven gegevens over de daarbij aangegeven tijdvakken.
 
-2. De exploitant van de luchthaven verstrekt deze gegevens binnen de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2012-07-01&g=2012-07-01) van deze regeling vermelde termijn aan de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.
+2. De exploitant van de luchthaven verstrekt deze gegevens binnen de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2015-03-26&g=2015-03-26) van deze regeling vermelde termijn aan de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.
 
 3. In het geval van een dreigende overschrijding van een in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarde kan de Inspecteur-Generaal een andere dan de in het tweede lid bedoelde termijn bepalen waarbinnen de exploitant de desbetreffende in het eerste lid bedoelde gegevens dient te verstrekken.
 
@@ -186,7 +186,7 @@ De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&
 
 De exploitant van de luchthaven:
 
-- a. maakt dagelijks een back-up van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde gegevens;
+- a. maakt dagelijks een back-up van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26), bedoelde gegevens;
 
 - b. bewaart de gegevens gedurende een periode van 5 jaar;
 
@@ -194,11 +194,11 @@ De exploitant van de luchthaven:
 
 ##### Artikel 15
 
-De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01), uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren.
+De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26), uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren.
 
 ##### Artikel 16
 
-De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2012-07-01&g=2012-07-01), bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand.
+De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26), bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand.
 
 ##### Artikel 17
 
@@ -242,7 +242,7 @@ Deze regeling kan worden aangehaald als: Regeling burgerluchthavens.
 
 Deze regeling treedt in werking met ingang van 1 november 2009.
 
-## Bijlage 1. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2012-07-01&g=2012-07-01) van de Regeling burgerluchthavens
+## Bijlage 1. als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens
 
 ### Voorschrift voor de berekening van de Lden-geluidbelasting in dB(A) voor overige burgerluchthavens
 
@@ -264,7 +264,7 @@ Het voorliggende voorschrift is gebaseerd op het berekeningsvoorschrift dat voor
 
 Vliegtuigbewegingen op een luchthaven uitgevoerd met alle ‘jet’ vliegtuigen en alle vliegtuigtypes met een startgewicht van meer dan 6000 kilogram met uitzondering van de helikopters.
 
-Het voorschrift heeft tot doel om op eenduidige wijze de berekeningsmethodiek, waarmee conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2012-07-01&g=2012-07-01) van de Regeling burgerluchthavens de Lden-geluidbelasting voor de overige burgerluchthavens dient te worden berekend, vast te leggen. Voor het uitvoeren van een berekening zijn, naast een algemeen toepasbare berekeningswijze, invoergegevens benodigd. Deel II van deze beschrijving gaat nader in op de invoergegevens. Een deel van de toe te passen invoergegevens is vastgelegd in de Appendices van de voorschriften voor de berekening van de geluidbelasting [Ref. 2]. Deze Appendices zijn separaat gebundeld maar maken integraal onderdeel uit van het voorschrift.
+Het voorschrift heeft tot doel om op eenduidige wijze de berekeningsmethodiek, waarmee conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens de Lden-geluidbelasting voor de overige burgerluchthavens dient te worden berekend, vast te leggen. Voor het uitvoeren van een berekening zijn, naast een algemeen toepasbare berekeningswijze, invoergegevens benodigd. Deel II van deze beschrijving gaat nader in op de invoergegevens. Een deel van de toe te passen invoergegevens is vastgelegd in de Appendices van de voorschriften voor de berekening van de geluidbelasting [Ref. 2]. Deze Appendices zijn separaat gebundeld maar maken integraal onderdeel uit van het voorschrift.
 
 Op grond van dit voorschrift kan de Lden-geluidbelasting worden berekend die wordt veroorzaakt door de op overige burgerluchthavens landende en startende luchtvaartuigen. Het betreft daarbij de geluidbelasting in netwerkpunten en handhavingspunten. Voor wat betreft de geluidbelasting in handhavingspunten gaat het daarbij om zowel de berekening van de grenswaarden (geluidbelastingberekening) als de berekening van de gerealiseerde geluidbelasting (handhavingsberekening). Een berekening voor netwerkpunten wordt gemaakt voor het kunnen bepalen van Lden-contouren (geluidbelastingberekening). In dit voorschrift is tevens beschreven op welke wijze geluidcontouren dienen te worden afgeleid, uitgaande van de berekende geluidbelastingwaarden in de netwerkpunten.
 
@@ -594,7 +594,7 @@ Voor het vaststellen van een luchthavenbesluit moeten de 10-5 en 10-6 plaatsgebo
 
 ### 1.2. Doel van het voorschrift
 
-Dit voorschrift heeft tot doel op eenduidige wijze de berekeningsmethodieken te beschrijven, waarmee conform [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2012-07-01&g=2012-07-01) van deze regeling burgerluchthavens de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht van de overige burgerluchthavens dienen te worden uitgerekend en bepaald.
+Dit voorschrift heeft tot doel op eenduidige wijze de berekeningsmethodieken te beschrijven, waarmee conform [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2015-03-26&g=2015-03-26) van deze regeling burgerluchthavens de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht van de overige burgerluchthavens dienen te worden uitgerekend en bepaald.
 
 ### 1.3. Scope van het voorschrift
 
@@ -890,7 +890,7 @@ De breedte van het gebied bedraagt:
 
 De breedte van het gebied bedraagt:
 
-## Bijlage 5. als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2012-07-01&g=2012-07-01)
+## Bijlage 5. als bedoeld in [artikel 8, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2015-03-26&g=2015-03-26)
 
 ## Bijlage 5. als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=8&z=2010-07-01&g=2010-07-01)
 
@@ -900,11 +900,13 @@ De breedte van het gebied bedraagt:
 
 ### Berekeningsvoorschrift
 
-De dimensie van de outer horizontal surface en de conical surface voor een approach runway met baancode 1 of 2 wordt bepaald overeenkomstig de onderstaande afmetingen.
+De dimensie van de outer horizontal surface en de conical surface voor een approach runway met baancode 1, 2, 3 of 4 wordt bepaald overeenkomstig de onderstaande hoogte en afstand ten opzicht van de hartlijn van de baan.
 
-## Bijlage 6. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2010-07-01&g=2010-07-01)
+## Bijlage 6. als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=9&z=2015-03-26&g=2015-03-26)
 
 ### Berekeningsvoorschrift hoogtebeperkingen en omvang gebieden met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding
+
+Het gebied en de hoogtebeperkingen worden voor de onderscheidenlijk aangeduide apparatuur berekend aan de hand van de onderstaande tabellen en figuren.
 
 Figuur 1 Omnidirectionele systemen
 
@@ -914,9 +916,7 @@ Figuur 2 Directionele systemen
 
 Figuur 3 3D Weergave voor directionele systemen
 
-Figuur 3 3D Weergave voor directionele systemen
-
-## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2010-07-01&g=2010-07-01) van de Regeling burgerluchthavens
+## Bijlage 7. als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens
 
 | Gegevens | Tijdvak | Termijn |
 | --- | --- | --- |
@@ -928,7 +928,7 @@ Figuur 3 3D Weergave voor directionele systemen
 | Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar. | Twee weken na afloop van het tijdvak |
 | Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
 
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2010-07-01&g=2010-07-01) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2015-03-26&g=2015-03-26) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
 
 ### Deel I. Achtergrond voorschrift en beknopte beschrijving berekeningsmethodiek
 
@@ -998,7 +998,7 @@ Alleen de in de Appendices [Ref. 2] vermelde geluidsgegevens mogen bij de bereke
 
 ### 7. Voorbereiding handhavingsberekeningen
 
-Het voorliggende voorschrift is, conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2012-07-01&g=2012-07-01) van de Regeling burgerluchthavens, van toepassing voor zowel geluidbelastingberekeningen als handhavingsberekeningen. Ten aanzien van de invoer van een handhavingsberekening zijn er een aantal specifieke voorschriften welke onderstaand beschreven worden.
+Het voorliggende voorschrift is, conform [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=4&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens, van toepassing voor zowel geluidbelastingberekeningen als handhavingsberekeningen. Ten aanzien van de invoer van een handhavingsberekening zijn er een aantal specifieke voorschriften welke onderstaand beschreven worden.
 
 Bij het samenstellen van de invoer voor een handhavingsberekening gelden de volgende specifieke voorschriften.
 
@@ -1056,7 +1056,7 @@ Hieruit ontstaan (n+3) lineaire vergelijkingen in (n+3) coëfficiënten ai. Oplo
 
 Voor luchthavens met klein en/of groot verkeer gebeurt het tekenen van de contouren door het verbinden van punten op onderlinge afstand van 10 meter, waarvan de coördinaten berekend zijn met de strooklatfuncties, beschreven in § A.4. Voor helikopterluchthavens vindt het tekenen van contouren plaats door het verbinden van punten op onderlinge afstand van 2 meter. Bij gesloten contouren worden het eerste en het laatste punt beide vervangen door hun gemiddelde. Naast de hoofdcontour kunnen zogenaamde contoureilanden worden vastgesteld. Oneigenlijke contoureilanden, die het gevolg kunnen zijn van onvoldoende nauwkeurigheid in de rekenmethode ter bepaling van geluidbelastingscontouren, worden niet weergegeven.
 
-## Bijlage 2. als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2012-07-01&g=2012-07-01) van de Regeling burgerluchthavens
+## Bijlage 2. als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2015-03-26&g=2015-03-26) van de Regeling burgerluchthavens
 
 ### Voorschrift voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het Totaal risicogewicht voor overige burgerluchthavens
 
@@ -1066,7 +1066,7 @@ Voor luchthavens met klein en/of groot verkeer gebeurt het tekenen van de contou
 
 ### 1.1. Algemeen
 
-Dit voorschrift geeft aanwijzingen voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht (TRG) van het luchthavenluchtverkeer als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2012-07-01&g=2012-07-01) van deze Regeling burgerluchthavens.
+Dit voorschrift geeft aanwijzingen voor de berekening en bepaling van de 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht (TRG) van het luchthavenluchtverkeer als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=5&z=2015-03-26&g=2015-03-26) van deze Regeling burgerluchthavens.
 
 ### 1.4. Beknopte beschrijving van het voorschrift
 
@@ -1162,7 +1162,7 @@ Het zoeken naar achtereenvolgende omslagpunten wordt gestaakt indien aan één v
 
 Bij het stileren dienen de volgende uitgangspunten in acht te worden genomen:
 
-## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2012-07-01&g=2012-07-01)
+## Bijlage 3. bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=2&artikel=7&z=2015-03-26&g=2015-03-26)
 
 ### Berekeningsvoorschrift veiligheidsgebied
 
@@ -1172,7 +1172,7 @@ Bij het stileren dienen de volgende uitgangspunten in acht te worden genomen:
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-### Berekeningsvoorschrift outer horizontal surface en conical surface voor approach runways met code number 1 en 2
+### Berekeningsvoorschrift outer horizontal surface en conical surface voor approach runways met code number 1, 2, 3, en 4
 
 De dimensie van de outer horizontal surface en de conical surface voor een approach runway met baancode 1 of 2 wordt bepaald overeenkomstig de onderstaande afmetingen.
 
@@ -1195,3 +1195,5 @@ Het gebied en de hoogtebeperkingen worden voor de onderscheidenlijk aangeduide a
 | Het externe veiligheidsrisico indien in een luchthavenbesluit of luchthavenregeling een totaal risicogewicht is opgenomen. | Vanaf het begin van het gebruiksjaar tot het moment dat het externe veiligheidsrisico hoger is dan de in het luchthavenbesluit of luchthavenregeling aangegeven grenswaarde in dat gebruiksjaar. | Vier werkdagen na afloop van het tijdvak |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2012-07-01&g=2012-07-01) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
+
+In deze bijlage wordt verstaan onder:
