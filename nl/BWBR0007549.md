@@ -4,7 +4,7 @@ identifier: "BWBR0007549"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-03-26"
-last_updated: "2015-01-01"
+last_updated: "2015-03-26"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007549"
 soort: "pbo"
@@ -44,7 +44,7 @@ De aanwijzing en voorschriften als bedoeld in [artikel 15a, tweede lid](https://
 
 In dit besluit wordt verstaan onder:
 
-- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2015-01-01);
+- a. organisatie: de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2015-03-26&g=2015-03-26);
 
 - b. samenwerkingsverband: een samenwerkingsverband als bedoeld in artikel 2 van de Dienstverleningsverordening registerloodsen;
 
@@ -64,13 +64,9 @@ In dit besluit wordt verstaan onder:
 
 - a. De kosten van het functioneel leeftijdspensioen voor voormalige registerloodsen, de kosten van het krachtens collectieve arbeidsovereenkomst toegekende recht op functioneel leeftijdsontslag van het personeel belast met de uitvoering van de taken als bedoeld in onderdeel c en de reserveringen met betrekking tot het functioneel leeftijdspensioen en functioneel leeftijdsontslag bedoeld in de [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=7a) en [8a van de Financiële verordening Loodswezen](https://wetten.overheid.nl/jci1.3:c:BWBR0007548&artikel=8a);
 
-- b. Het budget van de Nederlandse loodsencorporatie ter vergoeding van:
+- b. Het budget van de Nederlandse loodsencorporatie ter vergoeding van kosten met betrekking tot de door de algemene raad en de besturen van de regionale loodsencorporaties bij of krachtens de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) te verzorgen taken;
 
-- 1°. kosten met betrekking tot adspirant-registerloodsen;
-
-- 2°. kosten met betrekking tot de door de algemene raad en de besturen van de regionale loodsencorporaties bij of krachtens de [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365) te verzorgen taken;
-
-- c. De kosten met betrekking tot de inning van de loodsgelden en de taken ten behoeve van de door de registerloodsen te verlenen diensten, een en ander volgens de regels met betrekking tot de samenwerkingsverbanden;
+- c. De kosten met betrekking tot de inning van de loodsgelden en de taken ten behoeve van de door de registerloodsen te verlenen diensten, een en ander volgens de regels met betrekking tot de samenwerkingsverbanden en de kosten met betrekking tot toezicht op het Loodswezen, waaronder het toezicht op de totstandkoming van de loodsgeldtarieven;
 
 - d. Vergoedingen ten behoeve van registerloodsen ter zake van:
 
@@ -96,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4
 
-De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2008-11-28&g=2015-01-01).
+De algemene raad is gerechtigd op kosten van de organisatie het nodige te doen verrichten hetgeen in strijd met het bepaalde bij of krachtens dit besluit geschiedt of wordt nagelaten. De algemene raad kan de organisatie verplichten tot het stellen van zekerheid voor de betalingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007549&artikel=2&z=2015-03-26&g=2015-03-26).
 
 ##### Artikel 5
 
