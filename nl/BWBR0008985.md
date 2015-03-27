@@ -4,7 +4,7 @@ identifier: "BWBR0008985"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2006-05-24"
+last_updated: "2015-03-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008985"
 soort: "AMvB"
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - a. wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251);
 
-- b. ambulanceverpleegkundige: een verpleegkundige die in het bezit is van het getuigschrift ambulanceverpleegkundige dat is afgegeven door de Stichting Opleidingen Scholing Ambulancehulpverlening.
+- b. ambulanceverpleegkundige: een verpleegkundige als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27).
 
 ##### Artikel 2
 
@@ -68,7 +68,7 @@ Onverminderd artikel 33 van de wet, wordt tot het gebied van deskundigheid van d
 
 ##### Artikel 3
 
-Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=2&z=2006-05-24&g=2006-05-24), worden tot het gebied van deskundigheid van de ambulanceverpleegkundige gerekend het zonder toezicht door en tussenkomst van de opdrachtgever:
+Onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=2&z=2015-03-27&g=2015-03-27), worden tot het gebied van deskundigheid van de ambulanceverpleegkundige gerekend het zonder toezicht door en tussenkomst van de opdrachtgever:
 
 - a. toepassen van electieve cardioversie;
 
@@ -91,5 +91,47 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 ##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit functionele zelfstandigheid.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
+
+##### Artikel 3a
+
+1. Bevoegd tot het verrichten van handelingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3&z=2015-03-27&g=2015-03-27) is de verpleegkundige die in het bezit is van:
+
+- a. een getuigschrift waaruit blijkt dat met goed gevolg een door onze Minister aangewezen opleiding tot ambulanceverpleegkundige is afgerond; of
+
+- b. een getuigschrift voor ambulanceverpleegkundige dat vóór 1 september 2015 is afgegeven door of namens Stichting Opleidingen Scholingen Ambulancehulpverlening.
+
+2. Een opleiding als bedoeld in het eerste lid onder a, kan door onze Minister worden aangewezen, indien:
+
+- 1°. de organisatie die de opleiding verzorgt de volgende voorwaarden hanteert om de ambulanceverpleegkundige in opleiding toe te laten:
+
+- a. de ambulanceverpleegkundige in opleiding heeft een aanstelling als zodanig voor ten minste 24 uur per week;
+
+- b. er is een werkbegeleider op de werkplek beschikbaar in het bezit van een getuigschrift als bedoeld in het eerste lid, onder a of b, die de praktijkopdrachten van de ambulanceverpleegkundige in opleiding begeleidt; en
+
+- c. tussen de ambulanceverpleegkundige in opleiding en de werkgever zijn afspraken gemaakt en vastgelegd over de praktijkbegeleiding;
+
+- 2°. de opleiding is erkend door Stichting College Zorg Opleidingen;
+
+- 3°. de opleiding een studielast heeft van ten minste 1.109 uren bestaande uit ten minste 925 praktijkuren en 184 theorie-uren.
+
+##### Artikel 3b
+
+1. Voor het verkrijgen van een aanwijzing als bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27):
+
+- a. wordt een aanvraag gedaan door de organisatie die de opleiding verzorgt;
+
+- b. worden door de aanvrager bescheiden overgelegd waaruit blijkt dat de opleiding aan de vereisten voldoet, bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27).
+
+2. De aanwijzing van een opleiding als bedoeld in [artikel 3a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27), heeft een geldigheidsduur van ten hoogste vijf jaar.
+
+3. Indien in de opleiding, bedoeld in [artikel 3a, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27), wijzigingen plaatsvinden die betrekking hebben op de vereisten, bedoeld in artikel 3a, tweede lid, stelt de organisatie waarvan de opleiding is aangewezen onze Minister daarvan zo spoedig mogelijk op de hoogte.
+
+4. De organisatie waarvan de opleiding is aangewezen, verstrekt onze Minister op verzoek informatie die noodzakelijk is om te beoordelen of de opleiding op enig moment voldoet aan de bij deze regeling gestelde eisen.
+
+5. Onze Minister kan een aanwijzing intrekken zodra de opleiding niet of niet langer voldoet aan de in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0008985&artikel=3a&z=2015-03-27&g=2015-03-27) gestelde eisen of indien niet voldaan wordt aan het verzoek als bedoeld in het vierde lid.
+
+6. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de Staatscourant.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
