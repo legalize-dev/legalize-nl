@@ -4,7 +4,7 @@ identifier: "BWBR0008800"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-08-01"
-last_updated: "2014-07-02"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008800"
 soort: "ministeriele-regeling"
@@ -96,7 +96,7 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 - a. voorwerpen die voor wat betreft hun vorm en afmetingen een sprekende gelijkenis vertonen met vuurwapens of met voor ontploffing bestemde voorwerpen, met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG;
 
-- b. voorwerpen vermeld op lijst a of lijst b van de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&bijlage=I&z=2014-07-02&g=2014-07-02), alsmede niet in die bijlage genoemde voorwerpen die voor wat betreft hun vorm en afmetingen daarmee een sprekende gelijkenis vertonen, met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG;
+- b. voorwerpen vermeld op lijst a of lijst b van de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&bijlage=I&z=2015-03-28&g=2015-03-28), alsmede niet in die bijlage genoemde voorwerpen die voor wat betreft hun vorm en afmetingen daarmee een sprekende gelijkenis vertonen, met uitzondering van speelgoedvoorwerpen als bedoeld in de Richtlijn 2009/48/EG;
 
 - c. lucht-, gas- en veerdrukwapens die zodanig zijn gewijzigd dat het dragen niet of minder zichtbaar is;
 
@@ -120,15 +120,15 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 ##### Artikel 5
 
-1. Een voorschrift, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2014-07-02&g=2014-07-02), wordt slechts gegeven indien en voorzolang de noodzaak tot bewapening aannemelijk is en de bekwaamheid van opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en de buitengewoon opsporingsambtenaar in de omgang met het wapen en de munitie is aangetoond.
+1. Een voorschrift, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2015-03-28&g=2015-03-28), wordt slechts gegeven indien en voorzolang de noodzaak tot bewapening aannemelijk is en de bekwaamheid van opsporingsambtenaren van de bijzondere opsporingsdiensten, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2) en de buitengewoon opsporingsambtenaar in de omgang met het wapen en de munitie is aangetoond.
 
 2. Aan een voorschrift kunnen voorwaarden en beperkingen worden verbonden die betrekking hebben op de veiligheid, de bekwaamheid in de omgang met wapens en munitie, alsmede op de opslag en het vervoer daarvan.
 
-3. Indien aan het voorschrift een beperking is verbonden, geldt de vrijstelling in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2014-07-02&g=2014-07-02), slechts voorzover het voorschrift reikt.
+3. Indien aan het voorschrift een beperking is verbonden, geldt de vrijstelling in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2015-03-28&g=2015-03-28), slechts voorzover het voorschrift reikt.
 
 ##### Artikel 6
 
-1. Het voorschrift, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2014-07-02&g=2014-07-02), kan uitsluitend betrekking hebben op:
+1. Het voorschrift, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=4&z=2015-03-28&g=2015-03-28), kan uitsluitend betrekking hebben op:
 
 - a. een korte wapenstok als bedoeld in [artikel 12 van het Aanwijzingsbesluit bewapening en uitrusting politie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034439&artikel=12);
 
@@ -206,7 +206,7 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 ##### Artikel 10
 
-[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=9&z=2014-07-02&g=2014-07-02), van deze regeling is niet van toepassing, indien de aangevraagde erkenning, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=9), bedrijven betreft waarin:
+[Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=9&z=2015-03-28&g=2015-03-28), van deze regeling is niet van toepassing, indien de aangevraagde erkenning, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=9), bedrijven betreft waarin:
 
 - a. geen andere onder de wet vallende voorwerpen dan noodsignaalmiddelen worden hersteld of verhandeld, hieronder mede verstaan het verhandelen van bijbehorende munitie;
 
@@ -232,7 +232,7 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 - d. is niet toegankelijk voor publiek, tenzij daar tevens toezichthoudend personeel aanwezig is.
 
-2. Het bepaalde in het eerste lid, onder a en b, is niet van toepassing op de bedrijfsruimte van de erkende, bedoeld in [artikel 10, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=10&z=2014-07-02&g=2014-07-02).
+2. Het bepaalde in het eerste lid, onder a en b, is niet van toepassing op de bedrijfsruimte van de erkende, bedoeld in [artikel 10, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=10&z=2015-03-28&g=2015-03-28).
 
 3. In de bedrijfsruimte van de erkende worden vuistvuurwapens niet uitgestald op een plaats die vanaf de openbare weg zichtbaar is.
 
@@ -244,7 +244,7 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 ##### Artikel 12
 
-1. De erkenninghouder of de in het bewijs van erkenning genoemde beheerder houdt een doorlopend register bij waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie, onderdelen en hulpstukken als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3) daaronder mede begrepen, worden aangetekend, met uitzondering van patroonhouders en -magazijnen, airsoftapparaten, lucht-, gas- en veerdrukwapens van categorie IV en van die wapens of munitie waarvoor ingevolge één van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=18&z=2014-07-02&g=2014-07-02), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=19&z=2014-07-02&g=2014-07-02), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=20&z=2014-07-02&g=2014-07-02), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=21&z=2014-07-02&g=2014-07-02), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2014-07-02&g=2014-07-02) een vrijstelling geldt.
+1. De erkenninghouder of de in het bewijs van erkenning genoemde beheerder houdt een doorlopend register bij waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie, onderdelen en hulpstukken als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=3) daaronder mede begrepen, worden aangetekend, met uitzondering van patroonhouders en -magazijnen, airsoftapparaten, lucht-, gas- en veerdrukwapens van categorie IV en van die wapens of munitie waarvoor ingevolge één van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=18&z=2015-03-28&g=2015-03-28), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=19&z=2015-03-28&g=2015-03-28), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=20&z=2015-03-28&g=2015-03-28), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=21&z=2015-03-28&g=2015-03-28), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2015-03-28&g=2015-03-28) een vrijstelling geldt.
 
 2. Het in het eerste lid genoemde register bestaat uit de volgende afzonderlijke registraties:
 
@@ -274,7 +274,7 @@ Als voorwerpen van categorie I, onder 7°, die een ernstige bedreiging van perso
 
 9. De erkenninghouder of de in het bewijs van erkenning genoemde beheerder verstrekt voor de zevende dag van elke kalendermaand aan de korpschef een door hem per bladzijde ondertekende en gedateerde kopie dan wel, voorzover het een geautomatiseerd te verwerken registratie betreft, een uitdraai van het gedeelte van elk van de in het tweede lid onder a t/m d genoemde registraties, dat betrekking heeft op de voorgaande kalendermaand, onder gelijktijdige afgifte van de door hem in die periode ingenomen verloven tot verkrijging. Op verzoek van de korpschef overlegt hij tevens maandelijks een kopie dan wel, voorzover het een geautomatiseerd te verwerken registratie betreft, een uitdraai van het desbetreffende gedeelte van de in het tweede lid onder e genoemde registratie.
 
-10. De erkenninghouder of de in het bewijs van erkenning genoemde beheerder die handelt in lucht-, gas-, of veerdrukwapens van categorie IV, airsoftapparaat, patroonhouders of -magazijnen bedoeld in [artikel 18, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=18&z=2014-07-02&g=2014-07-02), van deze regeling, stroomstootwapens bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=21&z=2014-07-02&g=2014-07-02), van deze regeling, of in noodsignaalmiddelen en bijbehorende munitie bedoeld in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2014-07-02&g=2014-07-02), van deze regeling houdt ten aanzien van de verkoop van die lucht-, gas-, of veerdrukwapens, airsoftapparaten, patroonhouders of -magazijnen, stroomstootwapens of noodsignaalmiddelen een register waarin kolomsgewijs en achtereenvolgens wordt aangetekend: de datum van overdracht, het aantal, het fabrikaat en type van de overgedragen voorwerpen, de naam en het adres van degene aan wie wordt overgedragen, alsmede het soort en nummer van diens legitimatiebewijs. De in dit register opgenomen gegevens blijven tenminste gedurende zeven jaren bewaard.
+10. De erkenninghouder of de in het bewijs van erkenning genoemde beheerder die handelt in lucht-, gas-, of veerdrukwapens van categorie IV, airsoftapparaat, patroonhouders of -magazijnen bedoeld in [artikel 18, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=18&z=2015-03-28&g=2015-03-28), van deze regeling, stroomstootwapens bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=21&z=2015-03-28&g=2015-03-28), van deze regeling, of in noodsignaalmiddelen en bijbehorende munitie bedoeld in [artikel 22, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2015-03-28&g=2015-03-28), van deze regeling houdt ten aanzien van de verkoop van die lucht-, gas-, of veerdrukwapens, airsoftapparaten, patroonhouders of -magazijnen, stroomstootwapens of noodsignaalmiddelen een register waarin kolomsgewijs en achtereenvolgens wordt aangetekend: de datum van overdracht, het aantal, het fabrikaat en type van de overgedragen voorwerpen, de naam en het adres van degene aan wie wordt overgedragen, alsmede het soort en nummer van diens legitimatiebewijs. De in dit register opgenomen gegevens blijven tenminste gedurende zeven jaren bewaard.
 
 ##### Artikel 13
 
@@ -330,7 +330,7 @@ Van het verbod in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl
 
 ##### Artikel 18
 
-1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=3&artikel=3&z=2014-07-02&g=2014-07-02) van deze regeling wordt van het verbod in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=26), en [31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=31) vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en overdragen van:
+1. Onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=3&artikel=3&z=2015-03-28&g=2015-03-28) van deze regeling wordt van het verbod in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14), [22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=26), en [31, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=31) vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en overdragen van:
 
 - a. vuurwapens die voor gebruik als zodanig ongeschikt zijn gemaakt op de wijze, beschreven in bijlage II bij deze regeling;
 
@@ -414,13 +414,13 @@ Van het verbod van [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:
 
 ##### Artikel 23
 
-1. Van het verbod van [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14), wordt vrijstelling verleend aan in het buitenland wonende personen van 18 jaar en ouder die met hun vaartuig een vaste ligplaats in Nederland hebben, voor het doen binnenkomen of uitgaan van andere noodsignaalmiddelen dan bedoeld in [artikel 22, tweede lid, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2014-07-02&g=2014-07-02), van deze regeling.
+1. Van het verbod van [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=14), wordt vrijstelling verleend aan in het buitenland wonende personen van 18 jaar en ouder die met hun vaartuig een vaste ligplaats in Nederland hebben, voor het doen binnenkomen of uitgaan van andere noodsignaalmiddelen dan bedoeld in [artikel 22, tweede lid, onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2015-03-28&g=2015-03-28), van deze regeling.
 
 2. De vrijstelling ingevolge het eerste lid geldt slechts voor personen die de meegevoerde noodsignaalmiddelen in Nederland krachtens een verlof voorhanden mogen hebben.
 
 ##### Artikel 24
 
-Van het verbod in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2014-07-02&g=2014-07-02), van deze regeling, aan de door de Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Markeerdienst van het Ministerie van Infrastructuur en Milieu.’
+Van het verbod in [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=22), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=11&artikel=22&z=2015-03-28&g=2015-03-28), van deze regeling, aan de door de Minister van Infrastructuur en Milieu aangewezen ambtenaren van de Markeerdienst van het Ministerie van Infrastructuur en Milieu.’
 
 ##### Artikel 25
 
@@ -436,7 +436,7 @@ Van het verbod in [artikel 26, eerste lid, van de wet](https://wetten.overheid.n
 
 3. Voorzover het lucht-, gas- of veerdrukwapens betreft geldt, in afwijking van het tweede lid, de vrijstelling in het eerste lid slechts voor:
 
-- a. personen die door middel van een bewijs van lidmaatschap kunnen aantonen ten minste drie maanden lid te zijn van een schietvereniging, zoals bedoeld in [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=1&artikel=1&z=2014-07-02&g=2014-07-02), van deze regeling; en
+- a. personen die door middel van een bewijs van lidmaatschap kunnen aantonen ten minste drie maanden lid te zijn van een schietvereniging, zoals bedoeld in [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=1&artikel=1&z=2015-03-28&g=2015-03-28), van deze regeling; en
 
 - b. lucht-, gas- en veerdrukwapens die zijn toegelaten in het Schiet- en wedstrijdreglement van de Koninklijke Nederlandse Schutters Associatie.
 
@@ -446,7 +446,7 @@ Van het verbod in [artikel 26, eerste lid, van de wet](https://wetten.overheid.n
 
 2. De vrijstelling ingevolge het eerste lid geldt voorzover het lucht-, gas-, of veerdrukwapens betreft uitsluitend indien:
 
-- a. de persoon aan wie de in het eerste lid bedoelde voorwerpen worden overgedragen een verklaring, die niet ouder is dan veertien dagen, van het bestuur van de vereniging overlegt, waaruit blijkt dat hij tenminste 3 maanden lid is van een schietvereniging, zoals bedoeld in [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=1&artikel=1&z=2014-07-02&g=2014-07-02), van deze regeling;
+- a. de persoon aan wie de in het eerste lid bedoelde voorwerpen worden overgedragen een verklaring, die niet ouder is dan veertien dagen, van het bestuur van de vereniging overlegt, waaruit blijkt dat hij tenminste 3 maanden lid is van een schietvereniging, zoals bedoeld in [artikel 1, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=1&artikel=1&z=2015-03-28&g=2015-03-28), van deze regeling;
 
 - b. het betreft lucht-, gas- en veerdrukwapens die zijn toegelaten in het Schiet- en wedstrijdreglement van de Koninklijke Nederlandse Schutters Associatie; en
 
@@ -480,7 +480,7 @@ Van het verbod in [artikel 26, eerste lid, van de wet](https://wetten.overheid.n
 
 Van het verbod van [artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=27) wordt vrijstelling verleend voor:
 
-- a. het dragen van lucht-, gas- en veerdrukwapens van categorie IV aan personen aan wie deze overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9&artikel=15&z=2014-07-02&g=2014-07-02) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9&artikel=16&z=2014-07-02&g=2014-07-02) van deze regeling ter beschikking worden gesteld. Artikel 15, tweede lid, onder b en c, en artikel 16, tweede lid, onder b en c, van deze regeling zijn van overeenkomstige toepassing;
+- a. het dragen van lucht-, gas- en veerdrukwapens van categorie IV aan personen aan wie deze overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9&artikel=15&z=2015-03-28&g=2015-03-28) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9&artikel=16&z=2015-03-28&g=2015-03-28) van deze regeling ter beschikking worden gesteld. Artikel 15, tweede lid, onder b en c, en artikel 16, tweede lid, onder b en c, van deze regeling zijn van overeenkomstige toepassing;
 
 - b. het dragen van een wapen van categorie IV, onder 1°, aan personen ten aanzien van wie het wapen deel uitmaakt van hun duikuitrusting tijdens de beoefening van de duiksport.
 
@@ -548,7 +548,7 @@ Vervallen
 
 ##### Artikel 38a
 
-De in de [artikelen 34, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=14&artikel=34&z=2014-07-02&g=2014-07-02), en [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=15&artikel=40&z=2014-07-02&g=2014-07-02), genoemde melding omvat een omschrijving van de goederen alsmede de vermelding van:
+De in de [artikelen 34, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=14&artikel=34&z=2015-03-28&g=2015-03-28), en [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=15&artikel=40&z=2015-03-28&g=2015-03-28), genoemde melding omvat een omschrijving van de goederen alsmede de vermelding van:
 
 - a. de hoeveelheid goederen;
 
@@ -614,7 +614,7 @@ De in de [artikelen 34, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1
 
 4. Een aanvrager van een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28), moet in de twaalf maanden voorafgaand aan de aanvraag minimaal achttien schietbeurten verrichten, tenzij het tekort aan schietbeurten de aanvrager van het verlof redelijkerwijs niet kan worden aangerekend.
 
-5. Een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28), ten behoeve van de schietsport wordt alleen verleend voor de wapens en munitie waarmee de sportschutter binnen het verband van zijn schietvereniging, welke voldoet aan de eisen als bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=16a&artikel=43a&z=2014-07-02&g=2014-07-02), een schietsportdiscipline beoefent.
+5. Een verlof tot het voorhanden hebben van wapens en munitie, zoals bedoeld in [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28), ten behoeve van de schietsport wordt alleen verleend voor de wapens en munitie waarmee de sportschutter binnen het verband van zijn schietvereniging, welke voldoet aan de eisen als bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=16a&artikel=43a&z=2015-03-28&g=2015-03-28), een schietsportdiscipline beoefent.
 
 6. Het eerste lid is niet van toepassing op een houder van een verlof tot het voorhanden hebben van wapens en munitie gedurende het eerste verlofjaar. Deze houder mag ten hoogste een wapen welke geschikt is voor een Olympische schietsportdiscipline voorhanden hebben.
 
@@ -694,7 +694,7 @@ De in de [artikelen 34, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1
 
 ##### Artikel 48
 
-Voor het indienen van een verzoek om een erkenning, een consent, een vergunning of een verlof wordt gebruik gemaakt van een formulier overeenkomstig het daarvoor in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&bijlage=III&z=2014-07-02&g=2014-07-02) bij deze beschikking vastgestelde model dan wel de als bijlagen bij de [Circulaire wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0038281) opgenomen formulieren.
+Voor het indienen van een verzoek om een erkenning, een consent, een vergunning of een verlof wordt gebruik gemaakt van een formulier overeenkomstig het daarvoor in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&bijlage=III&z=2015-03-28&g=2015-03-28) bij deze beschikking vastgestelde model dan wel de als bijlagen bij de [Circulaire wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0038281) opgenomen formulieren.
 
 ##### Artikel 49
 
@@ -708,13 +708,13 @@ Voor het indienen van een verzoek om een erkenning, een consent, een vergunning 
 
 1. De onkostenvergoeding, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=41), bedraagt voor:
 
-- a. een ontheffing of de wijziging of verlenging daarvan: € 50,–
+- a. een ontheffing of de wijziging of verlenging daarvan: € 80,–
 
-- b. een erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=10&z=2014-07-02&g=2014-07-02) van deze regeling: € 50,– voor ieder jaar waarvoor de erkenning geldt;
+- b. een erkenning als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=6&artikel=10&z=2015-03-28&g=2015-03-28) van deze regeling: € 50,– voor ieder jaar waarvoor de erkenning geldt
 
-- c. een erkenning, niet zijnde een erkenning als bedoeld onder b: € 500,– voor ieder jaar waarvoor de erkenning geldt;
+- c. een erkenning, niet zijnde een erkenning als bedoeld onder b: € 500,– voor ieder jaar waarvoor de erkenning geldt
 
-- d. het afgeven van een nieuw bewijs van erkenning uitsluitend ten gevolge van een wijziging van de beheerder: € 10,–
+- d. de afgifte van een nieuw bewijs van erkenning uitsluitend ten gevolge van een wijziging van de beheerder: € 10,–
 
 - e. een consent: € 0,–
 
@@ -722,19 +722,15 @@ Voor het indienen van een verzoek om een erkenning, een consent, een vergunning 
 
 - g. een verlof tot vervoer, niet zijnde een verlof als bedoeld onder f: € 5,–
 
-- h. een verlof tot het voorhanden hebben of het verlengen van de geldigheidsduur daarvan: € 10,–
+- h. een uitvoervergunning conform verordening (EU) 258/2012: € 0,–
 
-- i. een verlof tot dragen € 10,–
+- i. een Europese vuurwapenpas:
 
-- j. een verlof tot verkrijging € 5,–
+- 1°. voor de afgifte daarvan€ 40,–, of
 
-- k. een Europese vuurwapenpas:
+- 2°. voor de verlenging van de geldigheidsduur daarvan € 5,–;
 
-- 1°. voor de afgifte daarvan € 40,–
-
-- 2°. voor de verlenging van de geldigheidsduur daarvan € 5,–
-
-- l. het afgeven van een nieuw document, met uitzondering van de documenten genoemd in het eerste lid, onder a en k, uitsluitend ten gevolge van een redactionele wijziging daarin: € 5,–
+- j. de afgifte van een nieuw document, met uitzondering van de documenten genoemd in het eerste lid, onder a en e, uitsluitend ten gevolge van een redactionele wijziging daarin: € 5,–.
 
 2. Voorzover ter uitvoering van [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=40) regels zijn gegeven over combinatie van de daarin genoemde bescheiden bedraagt de onkostenvergoeding voor een dergelijke combinatie niet meer dan het bedrag dat verschuldigd zou zijn voor dat deel van de combinatie waarvoor de hoogste vergoeding geldt.
 
@@ -768,7 +764,7 @@ Vervallen
 
 ##### Artikel 55
 
-[Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=20&z=2014-07-02&g=2014-07-02), alsmede de aanduiding 1. voor het eerste lid, vervalt op 1 mei 1998.
+[Artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=10&artikel=20&z=2015-03-28&g=2015-03-28), alsmede de aanduiding 1. voor het eerste lid, vervalt op 1 mei 1998.
 
 ##### Artikel 56
 
@@ -964,11 +960,11 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 1. Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend voor het voorhanden hebben van airsoftapparaten voor de beoefening van de airsoftsport in verenigingsverband aan personen die ten minste de leeftijd van achttien jaar hebben bereikt en door middel van:
 
-- a. een bewijs van voorlopig lidmaatschap kunnen aantonen aspirant-lid te zijn van de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), of
+- a. een bewijs van voorlopig lidmaatschap kunnen aantonen aspirant-lid te zijn van de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), of
 
-- b. een bewijs kunnen aantonen door de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), als introducé te zijn aangewezen.
+- b. een bewijs kunnen aantonen door de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), als introducé te zijn aangewezen.
 
-2. Van het verbod in artikel 13, eerste lid, van de wet wordt aan een persoon als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in het eerste lid, onder a en b, en wordt aan laatstbedoelde personen vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in artikel 17a, eerste lid.
+2. Van het verbod in artikel 13, eerste lid, van de wet wordt aan een persoon als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in het eerste lid, onder a en b, en wordt aan laatstbedoelde personen vrijstelling verleend voor het overdragen van airsoftapparaten aan personen als bedoeld in artikel 17a, eerste lid.
 
 ##### Artikel 17c
 
@@ -976,11 +972,11 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 2. De vrijstelling ingevolge het eerste lid geldt slechts:
 
-- a. voor personen als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02);
+- a. voor personen als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28);
 
-- b. voor personen als bedoeld in [artikel 17b, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17b&z=2014-07-02&g=2014-07-02), indien en zolang zij tezamen met een persoon als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), de airsoftsport beoefenen;
+- b. voor personen als bedoeld in [artikel 17b, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17b&z=2015-03-28&g=2015-03-28), indien en zolang zij tezamen met een persoon als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), de airsoftsport beoefenen;
 
-- c. voor de beoefening van door de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), georganiseerde airsoftsport ten behoeve waarvan voorafgaande schriftelijke toestemming van de korpschef is verleend, welke toestemming in ieder geval wordt onthouden of ingetrokken indien geen redelijke maatregelen ter voorkoming van bedreiging en afdreiging door de airsoftapparaten zijn getroffen, dan wel indien misbruik is te vrezen;
+- c. voor de beoefening van door de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), georganiseerde airsoftsport ten behoeve waarvan voorafgaande schriftelijke toestemming van de korpschef is verleend, welke toestemming in ieder geval wordt onthouden of ingetrokken indien geen redelijke maatregelen ter voorkoming van bedreiging en afdreiging door de airsoftapparaten zijn getroffen, dan wel indien misbruik is te vrezen;
 
 - d. gedurende de tijden waarop het sportevenement plaatsvindt;
 
@@ -988,7 +984,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 ##### Artikel 17d
 
-1. Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan erkenninghouders en personen als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), voor het doen binnenkomen of doen uitgaan van airsoftapparaten die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.
+1. Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan erkenninghouders en personen als bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), voor het doen binnenkomen of doen uitgaan van airsoftapparaten die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.
 
 2. Van het verbod in artikel 13, eerste lid, van de wet wordt vrijstelling verleend aan erkenninghouders voor het vervaardigen, transformeren, voor derden herstellen, overdragen, voorhanden hebben en vervoeren van airsoftapparaten.
 
@@ -998,7 +994,7 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 
 2. De vrijstelling ingevolge het eerste lid geldt slechts:
 
-- a. voor personen die blijkens een schriftelijke uitnodiging of verklaring van de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2014-07-02&g=2014-07-02), gedurende een daarin vermeld tijdvak in Nederland de airsoftsport gaan beoefenen of hebben beoefend en die in het land van herkomst bevoegd zijn de meegebrachte airsoftapparaten voorhanden te hebben;
+- a. voor personen die blijkens een schriftelijke uitnodiging of verklaring van de airsoftvereniging, bedoeld in [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=9a&artikel=17a&z=2015-03-28&g=2015-03-28), gedurende een daarin vermeld tijdvak in Nederland de airsoftsport gaan beoefenen of hebben beoefend en die in het land van herkomst bevoegd zijn de meegebrachte airsoftapparaten voorhanden te hebben;
 
 - b. vanaf de tweede dag voor, tot en met de tweede dag na het in onderdeel a bedoelde tijdvak.
 
@@ -1096,7 +1092,7 @@ De [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&ar
 
 ##### Artikel 6b
 
-1. De wapens en de munitie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=6&z=2014-07-02&g=2014-07-02) en [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=6a&z=2014-07-02&g=2014-07-02), worden door het Politiedienstencentrum aangeschaft en afgevoerd, met uitzondering van de afvoer van de pepperspray, de verdekte pepperspray en de munitie, voor zover deze na gebruik geen werkzame bestanddelen meer bevatten.
+1. De wapens en de munitie, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=6&z=2015-03-28&g=2015-03-28) en [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0008800&paragraaf=4&artikel=6a&z=2015-03-28&g=2015-03-28), worden door het Politiedienstencentrum aangeschaft en afgevoerd, met uitzondering van de afvoer van de pepperspray, de verdekte pepperspray en de munitie, voor zover deze na gebruik geen werkzame bestanddelen meer bevatten.
 
 2. De Minister kan in bijzondere gevallen toestemming verlenen om af te wijken van het eerste lid.
 
@@ -1118,17 +1114,17 @@ De [artikelen 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&ar
 
 #### 21. Toezicht
 
-#### 22. Overgangs- en slotbepalingen
+#### 21. Toezicht
+
+## Bijlage I
+
+Ligt ter inzage bij het Ministerie van Justitie te Den Haag.
 
 ## Bijlage I
 
 Ligt ter inzage bij het Ministerie van Justitie te Den Haag.
 
 ## Bijlage II
-
-Ligt ter inzage bij het Ministerie van Justitie te Den Haag.
-
-## Bijlage III
 
 Ligt ter inzage bij het Ministerie van Justitie te Den Haag.
 
@@ -1165,6 +1161,28 @@ Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de b
 14. Het aantal wapens op het verlof van de vereniging dient in redelijke verhouding te staan tot het aantal leden dat regelmatig gebruik maakt van die wapens.
 
 #### 21. Toezicht
+
+#### 22. Overgangs- en slotbepalingen
+
+## Bijlage III
+
+Ligt ter inzage bij het Ministerie van Justitie te Den Haag.
+
+Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100, Den Haag.
+
+##### Artikel 50a
+
+1. De onkostenvergoeding, bedoeld in [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=41), bedraagt voor een verlof tot het voorhanden hebben, dragen of verkrijgen van een wapen als bedoeld in de [artikelen 26 tot en met 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=26):
+
+- a. voor de afgifte daarvan: €65,–;
+
+- b. voor de verlenging van de geldigheidsduur daarvan: €30,–;
+
+- c. voor de wijziging daarvan: €15,–;
+
+- d. voor de afgifte van een nieuw verlof als gevolg van het verlies daarvan: € 15,–.
+
+2. De onkostenvergoeding voor een combinatie van de in dit artikel genoemde bescheiden bedraagt niet meer dan het bedrag dat verschuldigd zou zijn voor dat deel van de combinatie waarvoor de hoogste vergoeding geldt.
 
 #### 22. Overgangs- en slotbepalingen
 
