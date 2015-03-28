@@ -4,7 +4,7 @@ identifier: "BWBR0013829"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-06-27"
-last_updated: "2012-10-01"
+last_updated: "2015-03-28"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013829"
 soort: "ministeriele-regeling"
@@ -58,23 +58,23 @@ Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid
 
 - e. een aanduiding van de plaats waar en de datum en het tijdstip waarop de gedraging is geconstateerd.
 
-2. In de gevallen, bedoeld in [artikel 31, eerste en tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=31), kan voor de beschikking gebruik worden gemaakt van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2012-10-01&g=2012-10-01).
+2. In de gevallen, bedoeld in [artikel 31, eerste en tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=31), kan voor de beschikking gebruik worden gemaakt van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28).
 
 ##### Artikel 3
 
-1. Het papier van blad A1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2012-10-01&g=2012-10-01), is wit.
+1. Het papier van blad A1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28), is wit.
 
-2. Het papier van blad B1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2012-10-01&g=2012-10-01), is geel.
+2. Het papier van blad B1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28), is geel.
 
 3. De kleur van de tekst op de bladen, genoemd in het eerste en tweede lid, is zwart.
 
 ##### Artikel 4
 
-De tekst van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2012-10-01&g=2012-10-01), kan qua terminologie worden aangepast indien dit noodzakelijk is in het kader van de handhaving van de bepalingen op het terrein van de lucht- en scheepvaartwetgeving.
+De tekst van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28), kan qua terminologie worden aangepast indien dit noodzakelijk is in het kader van de handhaving van de bepalingen op het terrein van de lucht- en scheepvaartwetgeving.
 
 ##### Artikel 5
 
-1. Bij geautomatiseerde verbalisering kan van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2012-10-01&g=2012-10-01), worden afgeweken.
+1. Bij geautomatiseerde verbalisering kan van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28), worden afgeweken.
 
 2. Bij geautomatiseerde verbalisering wordt aan de betrokkene onderscheidenlijk de verdachte de informatie verstrekt zoals deze voor dat geval is voorgeschreven op blad A1.
 
@@ -98,7 +98,7 @@ Deze regeling wordt aangehaald als: Regeling modellen en formulieren ten behoeve
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-## Bijlage
+## Bijlage. zoals vastgesteld krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2015-03-28&g=2015-03-28) van de Regeling modellen en formulieren t.b.v. de handhaving
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
