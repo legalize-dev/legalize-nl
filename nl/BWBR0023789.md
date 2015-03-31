@@ -4,7 +4,7 @@ identifier: "BWBR0023789"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-03-31"
-last_updated: "2011-07-14"
+last_updated: "2015-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023789"
 soort: "zbo"
@@ -59,7 +59,7 @@ In dit besluit wordt verstaan onder:
 
 - c. termijngebonden verplichting: een verplichting waaraan de betrokkene binnen een bij of krachtens de wet vastgestelde termijn moet hebben voldaan;
 
-- d. eerste, tweede, derde en vierde categorie: de categorieën, genoemd in de [artikelen 3 tot en met 7 van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=3);
+- d. eerste, tweede, derde, vierde en vijfde categorie: de categorieën, genoemd in de [artikelen 3 tot en met 7a van het Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=3);
 
 - e. re-integratie: het verkrijgen en vergroten van mogelijkheden tot het verrichten van arbeid en de inschakeling in arbeid;
 
@@ -75,7 +75,9 @@ In dit besluit wordt verstaan onder:
 
 - c. 25 procent van het uitkeringsbedrag gedurende vier maanden bij het niet naleven van een verplichting uit de derde categorie;
 
-- d. blijvende gehele weigering van de uitkering bij het niet naleven van een verplichting uit de vierde categorie.
+- d. blijvende gehele weigering van de uitkering bij het niet naleven van een verplichting uit de vierde categorie;
+
+- e. 25, 50 of 100% van het uitkeringsbedrag gedurende drie maanden bij het niet naleven van een verplichting uit de vijfde categorie. Het percentage is afhankelijk van de aard, de ernst en de gevolgen van de overtreding.
 
 2. Een maatregel waarvan de hoogte, berekend over de duur waarvoor die maatregel wordt opgelegd, minder zou bedragen dan € 25, wordt vastgesteld op € 25.
 
