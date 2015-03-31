@@ -4,7 +4,7 @@ identifier: "BWBR0032452"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-03-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032452"
 soort: "ministeriele-regeling"
@@ -98,6 +98,10 @@ De melding, bedoeld in [artikel 5.2, eerste en tweede lid, van de wet](https://w
 
 2. De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4), [5.5, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.5), en [5.6, eerste en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6).
 
+3. De inspecteur-generaal van het onderwijs kan ten aanzien van de aan hem toekomende bevoegdheden, bedoeld in het tweede lid, ondermandaat verlenen.
+
+4. De inspecteur-generaal van het onderwijs is bevoegd te beslissen op een bezwaarschrift dat is ingediend tegen een in ondermandaat genomen besluit ter aanwending van de bevoegdheden, bedoeld in het tweede lid.
+
 ##### Artikel 7. Toezicht en handhaving door het Commissariaat voor de Media
 
 1. De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in [artikel 7.11, tweede lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) zijn belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en deze regeling ten aanzien van de rechtspersonen, genoemd onder de nummers 18 en 19 in [bijlage 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=1) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’.
@@ -154,7 +158,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7a. Begripsbepaling toezicht overige OCW-sectoren
 
-In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2015-01-01&g=2015-01-01) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2015-01-01&g=2015-01-01), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2015-01-01&g=2015-01-01), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
+In de [artikelen 7b tot en met 7k](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7b&z=2015-03-31&g=2015-03-31) wordt onder instellingen verstaan: rechtspersonen op wie de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=6&z=2015-03-31&g=2015-03-31), en het Commissariaat voor de Media, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=3&artikel=7&z=2015-03-31&g=2015-03-31), en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat.
 
 ##### Artikel 7b. Sector primair onderwijs voor zover geen onderwijsinstelling
 
@@ -250,7 +254,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 7k.1. Cultuurfondsen
 
-1. Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2a&artikel=5b&z=2015-01-01&g=2015-01-01) worden, voor zover de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) op die instelling van toepassing is, de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
+1. Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0032452&paragraaf=2a&artikel=5b&z=2015-03-31&g=2015-03-31) worden, voor zover de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) op die instelling van toepassing is, de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
 
 2. Indien meer dan één van de in het eerste lid bedoelde fondsen subsidie verstrekken aan een instelling als bedoeld in het eerste lid, is het fonds dat de hoogste subsidie verstrekt aan de instelling belast met het toezicht op de naleving van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) en de regeling.
 
