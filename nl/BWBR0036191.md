@@ -87,23 +87,3 @@ Deze regeling treedt in werking met ingang van 1 april 2015.
 Deze regeling wordt aangehaald als: Regeling extra vergunningen publieke mediadienst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan een lokale publieke media-instelling is voor het gelijktijdig digitaal uitzenden van de radioprogramma’s die met gebruikmaking van de vergunningen, bedoeld in [artikel 3.7, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.7), analoog worden uitgezonden, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar voor het gebruik van frequentieruimte als bedoeld in nationale voetnoot HOL007B van het Nationaal Frequentieplan 2014 in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeente waar de instelling media-aanbod verzorgt.
-
-2. Per lokale publieke media-instelling wordt ten hoogste één vergunning verleend voor het gebruik van één twaalfde deel van de capaciteit in een allotment.
-
-3. Indien in een allotment onvoldoende capaciteit beschikbaar is om voor alle aanvragen van lokale publieke media-instellingen een vergunning te verlenen, worden zij aan hen verleend op volgorde van binnenkomst van de aanvragen.
-
-4. Tot en met een door de minister te bepalen tijdstip vormt de capaciteit, bedoeld in het eerste lid, zes twaalfde deel van de capaciteit in een allotment.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 4a
-
-1. Voor de verlening van een vergunning als bedoeld in [artikel 3.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8) aan elk van de lokale publieke media-instellingen van de gemeenten Amsterdam, Den Haag, Rotterdam en Utrecht is, voor zover dat technisch mogelijk is en doelmatig frequentiegebruik zich daartegen niet verzet, capaciteit beschikbaar voor één programmakanaal voor de lokale verspreiding van multiculturele radioprogramma’s die overwegend zijn bestemd voor jongeren en jong volwassenen, in een allotment waarvan het dekkingsgebied geheel of gedeeltelijk overlapt met de gemeenten Amsterdam, Den Haag, Rotterdam of Utrecht.
-
-2. De in het eerste lid bedoelde capaciteit vormt één achttiende deel van de capaciteit van het desbetreffende allotment en is bestemd voor het in elk geval gelijktijdig digitaal uitzenden van de radioprogramma’s die worden uitgezonden in de FM-band met gebruikmaking van de vergunning, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036191&artikel=4&z=2023-12-07&g=2023-12-07).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
