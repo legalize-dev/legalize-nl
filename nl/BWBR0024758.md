@@ -4,7 +4,7 @@ identifier: "BWBR0024758"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2014-11-29"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024758"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wet
 
 - a. als behorende tot categorie A: de burgerhaven van de gemeente Rotterdam,
 
-- b. als behorende tot categorie B: de burgerhavens van de gemeenten Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.
+- b. als behorende tot categorie B: de burgerhavens van de gemeenten Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Moerdijk, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.
 
 2. Ter uitvoering van [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) worden de volgende burgerluchthavens aangewezen:
 
@@ -110,7 +110,7 @@ De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wet
 
 ##### Artikel 7
 
-De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot afgifte van het certificaat van sanitaire controle van schepen en van het certificaat tot vrijstelling van sanitaire controle van schepen: Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Rotterdam, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.
+De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot afgifte van het certificaat van sanitaire controle van schepen en van het certificaat tot vrijstelling van sanitaire controle van schepen: Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Moerdijk, Rotterdam, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 8
 
@@ -136,7 +136,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - –. 12 uur bij schepen met 500 en meer opvarenden, anders dan bemanningsleden.
 
-3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-11-29&g=2014-11-29), bedraagt € 98,63.
+3. Het tarief voor het verlengen van het certificaat, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2015-04-01&g=2015-04-01), bedraagt € 98,63.
 
 4. De in het eerste lid genoemde bedragen worden vermeerderd met voorrijkosten van € 24,66 per kwartier.
 
@@ -160,7 +160,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 ##### Artikel 11
 
-De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-11-29&g=2014-11-29), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
+De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
 ##### Artikel 12
 
@@ -170,7 +170,7 @@ De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
-- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2014-11-29&g=2014-11-29), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
+- a. te worden ondertekend door de huisarts of, indien het een organisatie betreft, door de eindverantwoordelijke arts, bedoeld in [artikel 10, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2015-04-01&g=2015-04-01), of door de verpleegkundige, die de indicatiestelling voor de vaccinatie heeft verricht, onder verantwoordelijkheid van deze arts,
 
 - b. volledig te zijn ingevuld in de Engelse of Franse taal,
 
@@ -202,7 +202,7 @@ Deze regeling treedt in werking met ingang van 1 december 2008.
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
-## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2014-11-29&g=2014-11-29) van de Regeling publieke gezondheid
+## Bijlage. ex [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=2&artikel=8&z=2015-04-01&g=2015-04-01) van de Regeling publieke gezondheid
 
 ### Programma van eisen sanitaire controle van schepen
 
