@@ -4,7 +4,7 @@ identifier: "BWBR0038831"
 country: "nl"
 rank: "wet"
 publication_date: "2020-03-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038831"
 soort: "wet"
@@ -46,8 +46,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
 Wijzigt de Algemene nabestaandenwet.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III. [Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221)
 
