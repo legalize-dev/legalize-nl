@@ -4,7 +4,7 @@ identifier: "BWBR0007090"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007090"
 soort: "ministeriele-regeling"
@@ -64,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - h. een overschrijvingsbewijs: model 13.1;
 
-- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
+- i. een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto, een deel I A van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers dan wel een deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een handelaarskenteken: model 14.1;
 
 - j. een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs voor een personenauto, een motorfiets, een bromfiets, een driewielig motorrijtuig, een aanhangwagen of een bedrijfsauto dan wel een deel I B van een na 30 mei 2004 afgegeven kentekenbewijs, bevattende de lettergroep AA, CD of CDJ dan wel de lettergroep BN, GN of GV en twee groepen van twee cijfers: model 15.1;
 
@@ -72,7 +72,11 @@ In deze regeling wordt verstaan onder:
 
 - l. een deel II van een na 30 mei 2004 afgegeven tweedelig kentekenbewijs: model 17.1;
 
-- m. een kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokentekenbewijs): model: 19.1.
+- m. een na 30 mei 2004 maar voor 1 april 2015 afgegeven kentekenbewijs, bevattende een kenteken als bedoeld in [artikel 4, vijfde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) (transitokentekenbewijs): model: 19.1;
+
+- n. een kentekencard bevattende een handelaarskenteken: model 5.2;
+
+- o. een kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken): model 19.2.
 
 2. De volgende, in de bijlage van dit besluit opgenomen, modellen worden vastgesteld:
 
@@ -126,13 +130,13 @@ Vervallen
 
 - a. een motorfiets,
 
-- b. bromfiets,
+- b. bromfiets op twee wielen,
 
 - c. een bedrijfsauto met een maximum massa van meer dan 3500 kg,
 
 - d. een aanhangwagen, of;
 
-- e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, voor zover het voertuig 15 jaar of ouder is.
+- e. een ander voertuig dan de in de onderdelen a, b, c en d genoemde, niet zijnde een voertuig als genoemd in [artikel 1 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=1), voor zover het voertuig 15 jaar of ouder is.
 
 3. Indien het voertuig definitief bestemd is voor gebruik buiten de weg, bedoeld in [artikel 40b, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=40b), verklaart de Dienst Wegverkeer de tenaamstelling vervallen indien het voertuig bestemd is om als voertuig buiten de weg te worden gebruikt ten behoeve van:
 
@@ -204,19 +208,21 @@ Voorzijde (kleur:wit en grijs)
 
 Achterzijde (kleur: overwegend groen)
 
-Model 6.1 Deel I van een kentekenbewijs, bevattende de lettergroep BN of GN en twee groepen van twee cijfers
+Model 5.2 Kentekencard bevattende een handelaarskenteken
+
+Model 6.1
 
 Vervallen.
 
-Model 7.1 Deel I van het driedelig kentekenbewijs voor een personenauto
+Model 7.1
 
 Vervallen.
 
-Model 8.1 Deel I van een driedelig kentekenbewijs voor een motorfiets of een driewielig motorrijtuig
+Model 8.1
 
 Vervallen.
 
-Model 9.1 Deel I van een driedelig kentekenbewijs voor een bedrijfsauto
+Model 9.1
 
 Vervallen.
 
@@ -228,7 +234,7 @@ Achterzijde (kleur: overwegend groen)
 
 Model 11.1 Voor 1 juni 2004 afgegeven bedrijfsvoorraad deel II
 
-Model 12.1 Deel III
+Model 12.1
 
 Vervallen.
 
@@ -278,11 +284,13 @@ Model 18.1
 
 Model 19.1
 
-**Deel I van een kentekenbewijs, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)**
+**Deel I van een na 30 mei 2004 maar voor 1 april 2015 afgegeven, bevattende een kenteken als bedoeld in artikel 4, vijfde lid, onder b, van het Kentekenreglement (transitokentekenbewijs)**
 
 **Voorzijde (kleur: wit)**
 
 **Achterzijde (kleur: overwegend blauw)**
+
+Model 19.2 Kentekencard bevattende een kenteken als bedoeld in artikel 4, vijfde lid, van het Kentekenreglement (transitokenteken)
 
 Model A.1 Vrijwaringsbewijs, af te geven door de Dienst Wegverkeer
 
@@ -300,7 +308,7 @@ Kleur: groen
 
 Model B.2 Vrijwaringsbewijs, af te geven door een erkend bedrijf.
 
-Model C.1 Ontvangstbewijs dat wordt verstrekt door de Dienst Wegverkeer na een aanvraag van een kentekenbewijs of deel daarvan
+Model C.1
 
 Vervallen.
 
