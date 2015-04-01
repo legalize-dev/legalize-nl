@@ -4,7 +4,7 @@ identifier: "BWBR0031909"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031909"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ BESLUIT:
 
 In deze regeling wordt verstaan onder:
 
-- **commissie:** commissie als bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=2&z=2014-01-01&g=2014-01-01);
+- **commissie:** commissie als bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=2&z=2015-04-01&g=2015-04-01);
 
 - **minister:** Minister van Infrastructuur en Milieu;
 
@@ -56,7 +56,7 @@ Er is een Commissie regionaal overleg luchthaven Eelde.
 
 ##### Artikel 3. luchthaven Lelystad
 
-Dit onderdeel is nog niet inwerking getreden
+Er is een Commissie regionaal overleg luchthaven Lelystad.
 
 ##### Artikel 4. luchthaven Maastricht
 
@@ -154,9 +154,9 @@ De commissie stelt jaarlijks vóór 15 oktober een jaarplan op voor het komende 
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst met uitzondering van:
 
-- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=3&z=2014-01-01&g=2014-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=4&z=2014-01-01&g=2014-01-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=5&z=2014-01-01&g=2014-01-01) die ieder afzonderlijk in werking treden op het tijdstip dat voor de desbetreffende luchthaven de regeling, bedoeld in [artikel X van de wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en de decentralisatie van bevoegdheden naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) in werking treedt;
+- a. de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=3&z=2015-04-01&g=2015-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=4&z=2015-04-01&g=2015-04-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=5&z=2015-04-01&g=2015-04-01) die ieder afzonderlijk in werking treden op het tijdstip dat voor de desbetreffende luchthaven de regeling, bedoeld in [artikel X van de wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en de decentralisatie van bevoegdheden naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) in werking treedt;
 
-- b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=6&z=2014-01-01&g=2014-01-01), dat inwerking treedt op het tijdstip dat de regeling, bedoeld in [artikel 8.70, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70) in werking treedt.
+- b. [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031909&artikel=6&z=2015-04-01&g=2015-04-01), dat inwerking treedt op het tijdstip dat de regeling, bedoeld in [artikel 8.70, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.70) in werking treedt.
 
 ##### Artikel 15. Citeertitel
 
