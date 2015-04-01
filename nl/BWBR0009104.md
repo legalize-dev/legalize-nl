@@ -4,7 +4,7 @@ identifier: "BWBR0009104"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-10-01"
-last_updated: "2013-12-07"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009104"
 soort: "ministeriele-regeling"
@@ -55,7 +55,7 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
-5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2013-12-07&g=2013-12-07) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2013-12-07&g=2013-12-07) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
+5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2015-04-01&g=2015-04-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2015-04-01&g=2015-04-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
@@ -157,7 +157,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - –. elektronische signaleringsborden.
 
-18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2013-12-07&g=2013-12-07) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
+18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2015-04-01&g=2015-04-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
 ##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
@@ -191,7 +191,7 @@ Niet retroreflecterend behoeven te zijn:
 
 - bij gevarenpunten: 60, 50 km/h.
 
-3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2013-12-07&g=2013-12-07), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
+3. Binnen de bebouwde kom mag bord A1 worden geplaatst in afwijking van het bepaalde in [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2015-04-01&g=2015-04-01), Paragraaf 1 onder punt 2, om zonodig te herinneren aan de algemene snelheidslimiet van 50 km/h.
 
 4. 15 km/h en 15 km/h zone, 30 km/h en 30 km/h zone, 60 km/h en 60 km/h zone
 
@@ -313,9 +313,9 @@ Geen andere dan de volgende maximumsnelheden worden vastgesteld op wegvakken op 
 
 1. Dit bord wordt in beginsel boven de rijbaan aangebracht.
 
-1. Het bord wordt geplaatst, bij of voor de ingang van tunnels, genoemd in de [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054).
+1. Het bord wordt geplaatst bij of voor de ingang van tunnels, genoemd in de [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054), dan wel op wegen die zijn aangewezen op grond van [artikel 20, eerste lid, van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=20).
 
-2. Het bord wordt voorzien van een onderbord, overeenkomstig artikel 3 van hoofdstuk II van [bijlage 2 van de Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2).
+2. Het bord wordt bij toepassing voor de onder 1. bedoelde tunnels voorzien van een onderbord, overeenkomstig [bijlage 2, hoofdstuk 2, artikel 3, van de Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=2), en bij toepassing op de onder 1. bedoelde aangewezen wegen voorzien van een onderbord waarin dezelfde systematiek als voor tunnels wordt gebruikt dan wel een andere aanduiding van stoffen overeenkomstig internationale regelgeving.
 
 1. Op autosnelwegen en autowegen wordt een vooraanduiding in de vorm van bord L10 geplaatst.
 
