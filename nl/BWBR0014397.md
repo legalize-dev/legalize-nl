@@ -4,7 +4,7 @@ identifier: "BWBR0014397"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014397"
 soort: "AMvB"
@@ -62,17 +62,17 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2
 
-De exploitant van een luchtvaartterrein zorgt dat de beveiligingsmedewerker zijn taak uitvoert met inachtneming van de [paragrafen 2 tot en met 4 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&z=2013-01-01&g=2013-01-01).
+De exploitant van een luchtvaartterrein zorgt dat de beveiligingsmedewerker zijn taak uitvoert met inachtneming van de [paragrafen 2 tot en met 4 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&z=2015-04-01&g=2015-04-01).
 
 ##### Artikel 3
 
-Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37e), bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01). De opgave bevat daartoe in ieder geval:
+Het plan met betrekking tot de beveiliging, bedoeld in [artikel 37e van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37e), bevat een opgave van de wijze waarop de exploitant van een luchtvaartterrein uitvoering geeft aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01). De opgave bevat daartoe in ieder geval:
 
 - a. de wijze waarop de exploitant voorziet in controle op de taakuitoefening door de beveiligingsmedewerkers,
 
 - b. de maatregelen die de exploitant jegens de beveiligingsorganisatie treft bij taakuitoefening in strijd met dit besluit en
 
-- c. een weergave van de contractuele bepalingen die ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01) gelden of zullen gelden tussen de exploitant en de beveiligingsorganisatie.
+- c. een weergave van de contractuele bepalingen die ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01) gelden of zullen gelden tussen de exploitant en de beveiligingsorganisatie.
 
 ##### Artikel 4
 
@@ -160,9 +160,9 @@ Paragraaf 2 is van overeenkomstige toepassing op:
 
 ##### Artikel 12
 
-1. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=5&z=2013-01-01&g=2013-01-01) en de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01) zijn van overeenkomstige toepassing op de controle van ruimbagage.
+1. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=5&z=2015-04-01&g=2015-04-01) en de [artikelen 7 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de controle van ruimbagage.
 
-2. In afwijking van het eerste lid is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2013-01-01&g=2013-01-01), niet van toepassing indien de passagier zich voor zover redelijkerwijs valt na te gaan kennelijk niet op het luchtvaartterrein bevindt.
+2. In afwijking van het eerste lid is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014397&paragraaf=2&artikel=7&z=2015-04-01&g=2015-04-01), niet van toepassing indien de passagier zich voor zover redelijkerwijs valt na te gaan kennelijk niet op het luchtvaartterrein bevindt.
 
 ##### Artikel 13
 
@@ -221,6 +221,28 @@ Voor aanvang van de vlucht informeert de Koninklijke marechaussee de luchtvaartm
 1. Ten aanzien van het vervoer van air marshals ingevolge [artikel 37ada van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37ada) gelden tussen Onze Minister en de luchtvaartmaatschappij de voor het vervoer rechtens geldende dan wel gebruikelijke tarieven en voorwaarden. Bij gebreke van zowel rechtens geldende als gebruikelijke tarieven en voorwaarden, gelden de door Onze Minister vastgestelde tarieven en voorwaarden.
 
 2. Onze Minister kan regels stellen ter aanvulling van de rechtens geldende of gebruikelijke tarieven en voorwaarden.
+
+#### § 6. Slotbepalingen
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 11a
+
+1. Personen die werkzaam zijn op een luchtvaartterrein en die toegang hebben tot de om beveiligingsredenen beperkt toegankelijke zones van de in [artikel 37b, eerste lid, onder b en c, van de Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267&artikel=37b) bedoelde delen van dat luchtvaartterrein, beschikken over een door een exploitant van een luchtvaartterrein verstrekt of erkend toegangsbewijs.
+
+2. Alvorens het toegangsbewijs als bedoeld in het eerste lid, wordt verstrekt, wordt een achtergrondonderzoek ingesteld. Ten aanzien van de personen bedoeld in het eerste lid, betreft dit onderzoek de afgifte van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28), die is gekoppeld aan continue controle op nieuwe gegevens in de justitiële documentatie van de houder van de verklaring. Ten aanzien van personen die een functie vervullen of willen vervullen die is aangewezen als vertrouwensfunctie, betreft dit onderzoek de afgifte van een verklaring als bedoeld in [artikel 1, onder b, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
+
+3. De exploitant van een luchtvaartterrein registreert de voor- en achternaam van de persoon aan wie een toegangsbewijs als bedoeld in het eerste lid, wordt verstrekt, alsmede andere identificerende gegevens die noodzakelijk zijn voor de uitvoering van de continue controle, bedoeld in het tweede lid. Met het oog op de toepassing van het vierde lid verstrekt de exploitant deze gegevens periodiek aan Onze Minister van Veiligheid en Justitie.
+
+4. Indien de exploitant van een luchtvaartterrein vermoedt dat degene die bij de aanvraag van het toegangsbewijs een verklaring omtrent het gedrag, als bedoeld in het tweede lid, heeft overgelegd, niet meer voldoet aan de eisen voor de afgifte daarvan, verlangt de exploitant dat die persoon binnen een door de exploitant vast te stellen termijn opnieuw verzoekt om afgifte van een verklaring omtrent het gedrag. Het toegangsbewijs van de desbetreffende persoon wordt door de exploitant onmiddellijk geblokkeerd.
+
+5. Het toegangsbewijs van de persoon bedoeld in het vierde lid die niet binnen een redelijke termijn een verklaring omtrent het gedrag overlegt, wordt ingenomen.
+
+#### § 4. Controle van ruimbagage
+
+#### § 5. Controle van vracht
+
+#### § 5a. Inzet van air marshals
 
 #### § 6. Slotbepalingen
 
