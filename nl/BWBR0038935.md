@@ -4,7 +4,7 @@ identifier: "BWBR0038935"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2008-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038935"
 soort: "AMvB"
@@ -52,8 +52,6 @@ Dit onderdeel is nog niet inwerking getreden
 
 Wijzigt het Besluit ex artikel 66a ANW.
 
-Dit onderdeel is nog niet inwerking getreden
-
 ##### Artikel IV. [Besluit gelijkstelling loondervingsuitkering Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004092)
 
 Wijzigt het Besluit gelijkstelling loondervingsuitkering Toeslagenwet.
@@ -83,15 +81,3 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel IX. Citeertitel
 
 Dit onderdeel is nog niet inwerking getreden
-
-Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 4 november 2016, nr. 2016-0000235780;
-
-Gelet op de [artikelen 1a:4, vierde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=1a:4), [13, zevende lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=13), [66a, derde lid, van de Algemene Nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=66a), [8a, derde lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a), [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=5), [artikel 33, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33), [73, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73), en [73a, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a), [38b, eerste lid, onderdeel d, en derde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b), [6, derde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=6), [13, derde lid, van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=13), [6, derde lid, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=6) en [2.1.1, vierde en vijfde lid, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=2.1.1);
-
-De Afdeling advisering van de Raad van State gehoord (advies van 9 december 2016, nr. W12.16.0363/III);
-
-Gezien het nader rapport van van Sociale Zaken en Werkgelegenheid van 19 december 2016, nr. 2016-0000267848;
-
-Hebben goedgevonden en verstaan:
-
-Onze Minister van Sociale Zaken en Werkgelegenheid is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
