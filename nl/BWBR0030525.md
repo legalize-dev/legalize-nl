@@ -4,7 +4,7 @@ identifier: "BWBR0030525"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030525"
 soort: "ministeriele-regeling"
@@ -49,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 - **erkenning:** erkenning als bedoeld in [artikel 79, achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79);
 
-- **erkenninghouder:** houder van een bewijs als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01);
+- **erkenninghouder:** houder van een bewijs als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2015-04-01&g=2015-04-01);
 
 - **inrichting:** bedrijf of bedrijven waarin een erkenninghouder van een mobiele activeringseenheid werkzaamheden als bedoeld in deze regeling verricht;
 
@@ -67,7 +67,7 @@ De aanvraag voor een erkenning wordt bij de Dienst Wegverkeer ingediend door mid
 
 ##### Artikel 3
 
-1. Een erkenning wordt verleend aan een natuurlijk persoon of rechtspersoon voor een of meer in Nederland gevestigde werkplaatsen of op naam van de aanvrager geregistreerde mobiele activeringseenheden die elk voldoen aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01) gestelde eisen.
+1. Een erkenning wordt verleend aan een natuurlijk persoon of rechtspersoon voor een of meer in Nederland gevestigde werkplaatsen of op naam van de aanvrager geregistreerde mobiele activeringseenheden die elk voldoen aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2015-04-01&g=2015-04-01) gestelde eisen.
 
 2. Een erkenning wordt voor onbepaalde tijd verleend.
 
@@ -95,7 +95,7 @@ De Dienst Wegverkeer kent aan de erkenninghouder toegangscodes toe voor het door
 
 ##### Artikel 6
 
-1. Een erkenning voor een werkplaats wordt verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en beschikt over een werkplaats die:
+1. Een erkenning wordt verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2) en beschikt over een werkplaats die:
 
 - a. verwarmd, overdekt, behoorlijk af te sluiten en goed verlicht is;
 
@@ -117,7 +117,7 @@ De Dienst Wegverkeer kent aan de erkenninghouder toegangscodes toe voor het door
 
 3. Het eerste lid, onder a en b, zijn van overeenkomstige toepassing op een inrichting.
 
-4. De apparatuur, bedoeld in het eerste lid, onder c, 1° tot en met 3°, is deugdelijk, verkeert in goede staat van onderhoud en werkt aantoonbaar binnen de toleranties die voor de boordcomputer op grond van de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945) zijn gesteld.
+4. De apparatuur, bedoeld in het eerste lid, onder c, 1° tot en met 3°, is deugdelijk, verkeert in goede staat van onderhoud en werkt aantoonbaar binnen de toleranties die voor de boordcomputer op grond van de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&wetgeving) zijn gesteld.
 
 5. Met apparatuur als bedoeld in het vierde lid wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en dat voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
@@ -133,7 +133,7 @@ De Dienst Wegverkeer kent aan de erkenninghouder toegangscodes toe voor het door
 
 ##### Artikel 8
 
-1. De erkenninghouder meldt onmiddellijk bij de Dienst Wegverkeer wijzigingen van of aanvullingen op de gegevens als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-01&g=2014-01-01).
+1. De erkenninghouder meldt onmiddellijk bij de Dienst Wegverkeer wijzigingen van of aanvullingen op de gegevens als bedoeld in [artikel 3, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=3&z=2015-04-01&g=2015-04-01).
 
 2. Voor wijzigingen van of aanvullingen op gegevens als bedoeld in het eerste lid, voor zover het inrichtingen betreft, geldt een behandeltermijn van twee werkdagen.
 
@@ -141,7 +141,7 @@ De Dienst Wegverkeer kent aan de erkenninghouder toegangscodes toe voor het door
 
 De erkenninghouder draagt er zorg voor dat:
 
-- a. de keuringskaart, bedoeld in [artikel 1 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=1), en de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01), niet toegankelijk zijn voor onbevoegden;
+- a. de keuringskaart, bedoeld in [artikel 1 van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=1), en de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2015-04-01&g=2015-04-01), niet toegankelijk zijn voor onbevoegden;
 
 - b. de organisatie en inrichting van de werkplaats of de mobiele activeringseenheid, de daar aanwezige gereedschappen en apparatuur, de werkwijzen en controlemethoden en de kundigheid van het bij de werkzaamheden betrokken personeel, zodanig zijn dat een goede uitvoering van de werkzaamheden krachtens de erkenning is gewaarborgd.
 
@@ -181,7 +181,7 @@ Bij de activering worden de volgende handelingen verricht:
 
 ##### Artikel 14
 
-1. Bij de deactivering van de boordcomputer worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, zesde lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=6).
+1. Bij de deactivering van de boordcomputer, als bedoeld in de [Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&wetgeving) worden alle in het geheugen geregistreerde gegevens overgebracht naar een externe gegevensdrager, met uitzondering van de gegevens, bedoeld in [artikel 6, zesde lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=6).
 
 2. Na overbrenging van de gegevens, bedoeld in het eerste lid, worden die gegevens gewist, met uitzondering van de gegevens, bedoeld in [artikel 22, tweede lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=22).
 
@@ -197,9 +197,9 @@ Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, wa
 
 ##### Artikel 17
 
-1. Nadat er werkzaamheden aan de boordcomputer zijn verricht, worden de volgende gegevens aan de Dienst Wegverkeer gemeld:
+1. Nadat er werkzaamheden aan de boordcomputer zijn verricht ingeval van toepassing van [artikel 31, vijfde lid, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=31), worden de volgende gegevens aan de Dienst Wegverkeer gemeld:
 
-- a. de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2014-01-01&g=2014-01-01);
+- a. de toegangscodes, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=1&artikel=5&z=2015-04-01&g=2015-04-01);
 
 - b. het kenteken en de meldcode, gevormd door de laatste vier cijfers van het voertuigidentificatienummer;
 
@@ -239,7 +239,7 @@ Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, wa
 
 - 2°. een korte omschrijving van het uitgevoerde werk.
 
-3. De erkenninghouder neemt de door de Dienst Wegverkeer gegeven aanwijzingen in acht.
+3. De erkenninghouder neemt de door de Dienst Wegverkeer gegeven aanwijzingen met betrekking tot de levering van de in het eerste en tweede lid bedoelde gegevens in acht.
 
 ##### Artikel 18
 
@@ -249,21 +249,21 @@ Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, wa
 
 ##### Artikel 19
 
-1. De erkenninghouder bewaart de gegevens, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&artikel=14&z=2014-01-01&g=2014-01-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&artikel=15&z=2014-01-01&g=2014-01-01) gedurende ten minste zes maanden vanaf de datum van gegevensoverdracht.
+1. De erkenninghouder bewaart de gegevens, bedoeld in de [artikelen 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&artikel=14&z=2015-04-01&g=2015-04-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&artikel=15&z=2015-04-01&g=2015-04-01) gedurende ten minste zes maanden vanaf de datum van gegevensoverdracht.
 
-2. De erkenninghouder bewaart de gegevens, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2014-01-01&g=2014-01-01), gedurende ten minste 104 weken, vanaf het tijdstip van registratie.
+2. De erkenninghouder bewaart de gegevens, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2015-04-01&g=2015-04-01), gedurende ten minste 104 weken, vanaf het tijdstip van registratie.
 
 3. De erkenninghouder bewaart een gewaarmerkte kopie van elk certificaat van onmogelijkheid van gegevensoverdracht, bedoeld in [artikel 19, vijfde lid, van de Regeling gebruik boordcomputer en boordcomputerkaarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&artikel=19), gedurende ten minste 104 weken vanaf de datum van afgifte.
 
 4. De gegevens, bedoeld in het eerste en tweede lid en de kopie, bedoeld in het derde lid, worden op zodanige wijze bewaard, dat zij niet toegankelijk zijn voor onbevoegden.
 
-5. In de gegevens, bedoeld in het eerste en tweede lid, mogen geen wijzigingen worden aangebracht.
+5. In de gegevens, bedoeld in het eerste en tweede lid, en in de documenten, bedoeld in het derde lid, mogen geen wijzigingen worden aangebracht.
 
 #### § 4. Voorschriften betreffende toezicht door de Dienst Wegverkeer
 
 ##### Artikel 20
 
-1. Indien de Dienst Wegverkeer de erkenninghouder na een melding als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2014-01-01&g=2014-01-01), mededeelt dat de werkzaamheden aan toezicht ter plaatse worden onderworpen draagt de erkenninghouder er zorg voor dat de auto ongeacht het tijdstip van aanvang van dat toezicht gedurende negentig minuten na het tijdstip van melding niet uit de werkplaats of inrichting wordt verwijderd.
+1. Indien de Dienst Wegverkeer de erkenninghouder na een melding als bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2015-04-01&g=2015-04-01), mededeelt dat de werkzaamheden aan toezicht ter plaatse worden onderworpen draagt de erkenninghouder er zorg voor dat de auto ongeacht het tijdstip van aanvang van dat toezicht gedurende negentig minuten na het tijdstip van melding niet uit de werkplaats of inrichting wordt verwijderd.
 
 2. In het geval, bedoeld in het eerste lid, is de erkenninghouder verplicht:
 
@@ -279,7 +279,7 @@ Nadat de boordcomputer is hersteld, wordt door middel van een korte rijproef, wa
 
 ##### Artikel 21
 
-Indien bij het toezicht wordt vastgesteld dat bij het verrichten van de werkzaamheden aan de boordcomputer de voorschriften, bedoeld in [hoofdstuk 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&z=2014-01-01&g=2014-01-01), niet in acht zijn genomen, wordt de melding, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2014-01-01&g=2014-01-01), door de Dienst Wegverkeer ongedaan gemaakt.
+Indien bij het toezicht wordt vastgesteld dat bij het verrichten van de werkzaamheden aan de boordcomputer de voorschriften, bedoeld in [hoofdstuk 3, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=2&z=2015-04-01&g=2015-04-01), niet in acht zijn genomen, wordt de melding, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&paragraaf=3&artikel=17&z=2015-04-01&g=2015-04-01), door de Dienst Wegverkeer ongedaan gemaakt.
 
 ### Hoofdstuk 4. Wijziging, schorsing en intrekking van een erkenning
 
@@ -289,11 +289,11 @@ Indien bij het toezicht wordt vastgesteld dat bij het verrichten van de werkzaam
 
 - a. daarom verzoekt;
 
-- b. niet meer voldoet aan de erkenningseisen, neergelegd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2014-01-01&g=2014-01-01).
+- b. niet meer voldoet aan de erkenningseisen, neergelegd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=2&paragraaf=2&artikel=6&z=2015-04-01&g=2015-04-01).
 
 2. Een erkenning kan worden ingetrokken indien de erkenninghouder:
 
-- a. in strijd handelt met de erkenningsvoorschriften, neergelegd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&z=2014-01-01&g=2014-01-01)
+- a. in strijd handelt met de erkenningsvoorschriften, neergelegd in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=3&z=2015-04-01&g=2015-04-01)
 
 - b. het aan het toezicht verbonden tarief als bedoeld in [artikel 12:2, derde lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=12:2) niet voldoet.
 
@@ -301,7 +301,7 @@ Indien bij het toezicht wordt vastgesteld dat bij het verrichten van de werkzaam
 
 ##### Artikel 23
 
-1. In een geval als bedoeld in [artikel 22, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=4&artikel=22&z=2014-01-01&g=2014-01-01), kan, in plaats van intrekking van de erkenning, worden overgegaan tot schorsing van de erkenning voor een termijn van ten hoogste 12 weken.
+1. In een geval als bedoeld in [artikel 22, eerste lid, onder b, of tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01), kan, in plaats van intrekking van de erkenning, worden overgegaan tot schorsing van de erkenning voor een termijn van ten hoogste 12 weken.
 
 2. De Dienst Wegverkeer meldt een gehele of gedeeltelijke schorsing onmiddellijk aan de minister.
 
