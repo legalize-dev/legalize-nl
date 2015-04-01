@@ -4,7 +4,7 @@ identifier: "BWBR0005812"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005812"
 soort: "ministeriele-regeling"
@@ -104,7 +104,7 @@ Als een bescheid als bedoeld in [artikel 5 van het besluit](https://wetten.overh
 
 ##### Artikel 8
 
-Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld.
+Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het volume in aanmerking genomen dat op de verpakking is vermeld, mits de wijze waarop dat is vastgesteld en de aanduiding ervan voldoen aan de voorschriften gesteld bij het [Warenwetbesluit hoeveelheden voorverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&wetgeving).
 
 ### Hoofdstuk III. Uitslag
 
@@ -120,7 +120,7 @@ Indien alcoholvrije dranken zijn verpakt in kleinhandelsverpakking, wordt het vo
 
 In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=14) van overeenkomstige toepassing verklaarde [artikel 40, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=40) kunnen als inrichting in aanmerking komen:
 
-- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2015-01-01&g=2015-01-01);
+- a. plaatsen van waaruit alcoholvrije dranken worden geleverd met vrijstelling van belasting als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=IV&afdeling=1&artikel=19&z=2015-04-01&g=2015-04-01);
 
 - b. plaatsen van waaruit, onder door de inspecteur te stellen voorwaarden, alcoholvrije dranken worden afgeleverd aan verbruikers;
 
@@ -186,7 +186,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - gemiddeld in een aangiftetijdvak met een vervoersopdracht vanuit een derde land, vanuit een plaats voor tijdelijke opslag of na beëindiging van een EU-douaneregeling wordt overgebracht naar de inrichting.
 
-3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2015-01-01&g=2015-01-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
+3. Indien op grond van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=III&afdeling=2&artikel=13&z=2015-04-01&g=2015-04-01) toestemming is verleend voor het doen van één aangifte voor twee of meer inrichtingen worden de afzonderlijke zekerheidstellingen voor de desbetreffende inrichtingen vervangen door één zekerheid die voor die inrichtingen tezamen van toepassing is. Het hierbij in acht te nemen belastingbelang wordt gevormd door het totale belastingbelang dat op basis van het tweede lid voor de desbetreffende inrichtingen is vastgesteld.
 
 4. De zekerheid bedraagt ten minste 5 percent en ten hoogste 100 percent van het belastingbelang met een maximum van € 2.250.000.
 
@@ -282,7 +282,7 @@ In afwijking van het in [artikel 14, tweede lid, van de wet](https://wetten.over
 
 - b. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een derde land: elektronische of geprinte exemplaren van het uitvoergeleidedocument of de aangifte ten uitvoer alsmede van de bevestiging van uitgang, welke documenten zijn vereist op grond van de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1);
 
-- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2015-01-01&g=2015-01-01).
+- c. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden overgebracht naar een andere lidstaat: een afschrift van het bescheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005812&hoofdstuk=I&afdeling=2&artikel=4&z=2015-04-01&g=2015-04-01).
 
 - d. ingeval de na afloop van het onderzoek, de controle of de smaaktest resterende alcoholvrije dranken worden vernietigd onder ambtelijk toezicht een afschrift van de ter zake opgemaakte ambtelijke verklaring.
 
