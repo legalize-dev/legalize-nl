@@ -4,7 +4,7 @@ identifier: "BWBR0020917"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020917"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ entry_into_force: "2023-07-01"
 
 Gelet op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2), [70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70), [109, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=109), en [158 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=158); [artikel 81, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) en [153 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=153); [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=9), [23, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=23), [25, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25) en [27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27); [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12) en [22, vierde lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=22); [artikel 8, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163); [artikel 50, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=50); [artikel 67, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=67) en [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=7), en [artikel 10 van de Wet verevening pensioenrechten bij scheiding](https://wetten.overheid.nl/jci1.3:c:BWBR0006641&artikel=10);
 
-Met betrekking tot de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=32&z=2015-01-01&g=2015-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=33&z=2015-01-01&g=2015-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=34&z=2015-01-01&g=2015-01-01) handelend in overeenstemming met de Minister van Justitie;
+Met betrekking tot de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=32&z=2015-04-01&g=2015-04-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=33&z=2015-04-01&g=2015-04-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=5&artikel=34&z=2015-04-01&g=2015-04-01) handelend in overeenstemming met de Minister van Justitie;
 
 Besluit:
 
@@ -56,7 +56,7 @@ Als categorie van personen als bedoeld in [artikel 2, derde lid, van de Pensioen
 
 ##### Artikel 2. Aangewezen instellingen
 
-Als instelling als bedoeld in [artikel 70, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70) dan wel [artikel 81, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1&z=2015-01-01&g=2015-01-01) genoemde instellingen en aan die instellingen verbonden pensioenuitvoerders, aangewezen.
+Als instelling als bedoeld in [artikel 70, tweede lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=70) dan wel [artikel 81, tweede lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=81) worden de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=1&z=2015-04-01&g=2015-04-01) genoemde instellingen en aan die instellingen verbonden pensioenuitvoerders, aangewezen.
 
 ##### Artikel 3. Aangewezen verenigingen
 
@@ -138,7 +138,7 @@ De prijsinflatie, bedoeld in [artikel 9, vierde lid, van het Besluit uitvoering 
 
 ##### Artikel 17. Verschuldigde rente
 
-Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [artikel 25, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), rekent de ontvangende uitvoerder, met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-01-01&g=2015-01-01), terug welk deel van de overdrachtswaarde als verschuldigde rente moet worden aangemerkt over de periode tussen de betaaldatum en de overdrachtsdatum.
+Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [artikel 25, vierde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=25), rekent de ontvangende uitvoerder, met toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=16&z=2015-04-01&g=2015-04-01), terug welk deel van de overdrachtswaarde als verschuldigde rente moet worden aangemerkt over de periode tussen de betaaldatum en de overdrachtsdatum.
 
 ##### Artikel 18. Het standaardtarief
 
@@ -162,13 +162,13 @@ Wanneer waardeoverdracht plaatsvindt van een pensioenaanspraak als bedoeld in [a
 
 6. Voor de berekening van het partnerpensioen wordt de gehuwdheidsfrequentie op 1 gesteld op de datum waarop het ouderdomspensioen op grond van een pensioenregeling aanvangt.
 
-7. Voor het ouderdomspensioen en het partnerpensioen dat is opgebouwd vóór 1 januari 2002, dan wel 1 januari 2006, indien sprake is van perioden van opbouw op grond van een beroepspensioenregeling, wordt uitgegaan van de gehuwdheidsfrequenties, opgenomen in [artikel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2015-01-01&g=2015-01-01). Mannen worden geacht gehuwd te zijn met een drie jaar jongere partner, vrouwen worden geacht gehuwd te zijn met een drie jaar oudere partner.
+7. Voor het ouderdomspensioen en het partnerpensioen dat is opgebouwd vóór 1 januari 2002, dan wel 1 januari 2006, indien sprake is van perioden van opbouw op grond van een beroepspensioenregeling, wordt uitgegaan van de gehuwdheidsfrequenties, opgenomen in [artikel 1 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2015-04-01&g=2015-04-01). Mannen worden geacht gehuwd te zijn met een drie jaar jongere partner, vrouwen worden geacht gehuwd te zijn met een drie jaar oudere partner.
 
 8. De contantewaardefactoren worden gebaseerd op de pensioenleeftijd en het verschil tussen de pensioendatum en de overdrachtsdatum in jaren en maanden die de overdragende uitvoerder hanteert.
 
 ##### Artikel 19. Berekening pensioenaanspraken
 
-1. De berekening van de pensioenaanspraken, bedoeld in [artikel 27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27), wordt gemaakt volgens de formules en symbolen, opgenomen in [artikel 2 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2015-01-01&g=2015-01-01).
+1. De berekening van de pensioenaanspraken, bedoeld in [artikel 27, eerste lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=27), wordt gemaakt volgens de formules en symbolen, opgenomen in [artikel 2 van bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=2&z=2015-04-01&g=2015-04-01).
 
 2. De contantewaardefactoren worden gebaseerd op de pensioenleeftijd en het verschil tussen de pensioenleeftijd en de overdrachtsdatum in jaren en maanden die de ontvangende uitvoerder hanteert.
 
@@ -202,7 +202,7 @@ Vervallen
 
 1. Voor de berekening van het vereist eigen vermogen per risicofactor volgens het standaardmodel, bedoeld in [artikel 12, eerste lid, van het Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871&artikel=12), gaat het fonds uit van een scenariomethode op basis van de volgende risicofactoren:
 
-- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2015-01-01&g=2015-01-01) opgenomen rentefactoren;
+- a. het renterisico wordt bepaald aan de hand van het voor het fonds in termen van netto verlies meest negatieve scenario van een rentestijging c.q. rentedaling op basis van de in artikel 1 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2015-04-01&g=2015-04-01) opgenomen rentefactoren;
 
 - b. het aandelen- en vastgoedrisico wordt bepaald aan de hand van een daling van de waarde van de beleggingen in:
 
@@ -210,7 +210,7 @@ Vervallen
 
 - 2°. aandelen opkomende markten met 40%;
 
-- 3°. niet beursgenoteerde aandelen met 40%; en
+- 3°. niet-beursgenoteerde aandelen met 40%; en
 
 - 4°. niet-beursgenoteerd vastgoed met 15%, waarbij de waarde van de beleggingen wordt aangepast voor financiering met vreemd vermogen;
 
@@ -248,7 +248,7 @@ Vervallen
 
 ##### Artikel 25. Correlaties
 
-1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-01-01&g=2015-01-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
+1. Bij de samenvoeging van het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-04-01&g=2015-04-01) tot het totale vereist eigen vermogen wordt uitgegaan van de volgende correlaties:
 
 - a. tussen het aandelen- en vastgoedrisico enerzijds en het renterisico anderzijds: een correlatie ρ1 2 van 0,40 indien het scenario voor het renterisico is gebaseerd op een rentedaling en nihil indien wordt uitgegaan van een rentestijging;
 
@@ -262,7 +262,7 @@ Vervallen
 
 - f. tussen de overige risico’s: een correlatie van 0.
 
-2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2015-01-01&g=2015-01-01) opgenomen formules en de in dat onderdeel beschreven procedures gebruikt.
+2. Voor de berekeningen, bedoeld in het eerste lid, worden de in artikel 2 van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&bijlage=3&z=2015-04-01&g=2015-04-01) opgenomen formules en de in dat onderdeel beschreven procedures gebruikt.
 
 ##### Artikel 26. Partiële interne modellen
 
@@ -272,7 +272,7 @@ Vervallen
 
 3. De methodieken en procedures voor het gebruik en vaststelling van een of meer partiële interne modellen sluiten aan op de aard, omvang en complexiteit van de betreffende risico’s in de portefeuille. Het fonds legt de methodieken en procedures vast.
 
-4. Een partieel intern model is specifiek voor een belegging of beleggingsportefeuille van het fonds en onderscheidt zich van de risicoscenario’s zoals omschreven in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-01-01&g=2015-01-01).
+4. Een partieel intern model is specifiek voor een belegging of beleggingsportefeuille van het fonds en onderscheidt zich van de risicoscenario’s zoals omschreven in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-04-01&g=2015-04-01).
 
 5. Voor de vaststelling van het vereist eigen vermogen wordt de uitkomst van de doorrekening van een partieel intern model opgeteld bij de uitkomst van het standaardmodel. Op verzoek mogen fondsen onderbouwd en na voorafgaande goedkeuring door De Nederlandsche Bank van deze methode afwijken.
 
@@ -300,13 +300,13 @@ Vervallen
 
 - a. geeft, als de uitkomsten van het intern model verschillen met die van het voorgaande jaar, aan De Nederlandsche Bank aan waaruit die verschillen bestaan; en
 
-- b. dient bij De Nederlandsche Bank eens in de 3 jaar een analyse in volgens het standaardmodel als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-01-01&g=2015-01-01).
+- b. dient bij De Nederlandsche Bank eens in de 3 jaar een analyse in volgens het standaardmodel als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-04-01&g=2015-04-01).
 
 6. De Nederlandsche Bank kan aan de toestemming, bedoeld in het eerste lid, voorwaarden verbinden.
 
 ##### Artikel 29. Overgangsregeling
 
-1. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2015-01-01&g=2015-01-01), kan De Nederlandsche Bank een fonds dat niet voldoet aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2015-01-01&g=2015-01-01), genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
+1. In afwijking van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2015-04-01&g=2015-04-01), kan De Nederlandsche Bank een fonds dat niet voldoet aan de in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=28&z=2015-04-01&g=2015-04-01), genoemde regels toestemming verlenen voor het toepassen van een intern model, indien:
 
 - a. naar het oordeel van De Nederlandsche Bank de regels waaraan het fonds niet voldoet het gebruik van een intern model niet belemmeren; en
 
@@ -318,7 +318,7 @@ Vervallen
 
 ##### Artikel 30. Haalbaarheidstoets
 
-1. Voor de toepassing van dit artikel en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30a&z=2015-01-01&g=2015-01-01), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30b&z=2015-01-01&g=2015-01-01) en [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30c&z=2015-01-01&g=2015-01-01) wordt verstaan onder:
+1. Voor de toepassing van dit artikel en de [artikelen 30a](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30a&z=2015-04-01&g=2015-04-01), [30b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30b&z=2015-04-01&g=2015-04-01) en [30c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30c&z=2015-04-01&g=2015-04-01) wordt verstaan onder:
 
 - a. **rapportagedatum:** de datum vanaf welke de haalbaarheidstoets wordt uitgevoerd over het aantal prognosejaren;
 
@@ -500,13 +500,13 @@ Vervallen
 
 Matrix verzekerde regelingen ten aanzien van toeslagen over pensioenaanspraken en pensioenrechten (is toeslag voor pensioengerechtigden, gewezen deelnemers en deelnemers):
 
-1. De gehuwdheidsfrequenties, bedoeld in [artikel 18, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-01-01&g=2015-01-01), luiden als volgt:
+1. De gehuwdheidsfrequenties, bedoeld in [artikel 18, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-01&g=2015-04-01), luiden als volgt:
 
 2. In het eerste lid betekent de aanduiding ‘x’: de leeftijd van de deelnemer.
 
 1. De gehuwdheidsfrequenties, bedoeld in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2010-12-28&g=2011-01-01), luiden als volgt:
 
-1. De formules voor de berekening van de pensioenaanspraken, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2015-01-01&g=2015-01-01), luiden als volgt:
+1. De formules voor de berekening van de pensioenaanspraken, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2015-04-01&g=2015-04-01), luiden als volgt:
 
 2. De in het eerste lid gebruikte symbolen en afkortingen hebben de volgende betekenis:
 
@@ -572,7 +572,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 - d. de datum van inlevering is niet later dan de datum van inlevering van de staten, bedoeld in onderdeel b.
 
-3. Na voorafgaande toestemming van De Nederlandsche Bank kan een fonds afwijken van het eerste en tweede lid en van [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30&z=2015-01-01&g=2015-01-01).
+3. Na voorafgaande toestemming van De Nederlandsche Bank kan een fonds afwijken van het eerste en tweede lid en van [artikel 30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=2&artikel=30&z=2015-04-01&g=2015-04-01).
 
 4. De Nederlandsche Bank kan nadere regels stellen over de bij de haalbaarheidstoets te leveren gegevens en de wijze waarop de gegevens worden geleverd.
 
@@ -594,28 +594,7 @@ Matrix fondsen ten aanzien van toeslagen over pensioenaanspraken en pensioenrech
 
 ## Bijlage 1b
 
-| soort deelnemer / soort regeling |   |   |   |
-| --- | --- | --- | --- |
-|   |   |   |   |
-|   | Deelnemer | Gewezen deelnemer | Pensioengerechtigde |
-| **Uitkeringsovereenkomsten** |   |   |   |
-| Eindloonregeling | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Zolang u werkt, bouwt u ieder jaar pensioen op. Dit noemen we het opgebouwde pensioen. Uw opgebouwde pensioen groeit mee met de stijging van uw loon. Hoeveel pensioen u krijgt als u stopt met werken, wordt dus helemaal gebaseerd op het loon dat u vlak daarvoor heeft ontvangen. | Label | Label |
-|   |   |   |   |
-| (Voorwaardelijk) geïndexeerde middelloonregeling | Label | Label | Label |
-|   |   |   |   |
-| Middelloonregeling zonder toeslagverlening in de opbouwfase | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Zolang u werkt, bouwt u ieder jaar pensioen op. Dit noemen we het opgebouwde pensioen. Zolang u werkt, groeit uw opgebouwde pensioen niet mee met de stijging van de prijzen. Hoeveel pensioen u krijgt als u stopt met werken, wordt gebaseerd op het gemiddelde van het loon dat u hebt verdiend. | Label | Label |
-|   |   |   |   |
-| Vastebedragenregeling | Label | Label | Label |
-|   |   |   |   |
-| **Kapitaalovereenkomsten** |   |   |   |
-|   | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Dat is niet zeker. Hoe hoog uw pensioen straks is, hangt vooral af van: – de afspraak die u hebt over hoeveel kapitaal er voor uw pensioen is, en – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Dat is niet zeker. Hoe hoog uw pensioen straks is, hangt vooral af van: – de afspraak die u hebt over hoeveel kapitaal er voor uw pensioen is, en – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Alleen als u dat zelf geregeld heeft. Uw <werkgever/pensioenfonds> heeft namelijk niets geregeld om uw pensioen aan te passen aan het stijgen van de prijzen. |
-|   |   |   |   |
-| **Premieovereenkomsten** |   |   |   |
-| Regeling voorziet in onmiddellijke aankoop van pensioenaanspraak die verhoogd kan worden met toeslagen | Label | Label | Label |
-|   |   |   |   |
-| Regeling voorziet in aankoop van kapitaal | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Die vraag kunnen we niet beantwoorden. Hoe hoog uw pensioen straks is, weten we nog niet. Hoeveel pensioen u krijgt, hangt namelijk vooral af van: – hoeveel pensioenpremie is betaald; – hoeveel kapitaal <en winst> er is; – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Die vraag kunnen we niet beantwoorden. Hoe hoog uw pensioen straks is, weten we nog niet. Hoeveel pensioen u krijgt, hangt namelijk vooral af van: – hoeveel pensioenpremie is betaald; – hoeveel kapitaal <en winst> er is; – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Alleen als u dat zelf geregeld heeft. Uw <werkgever/pensioenfonds> heeft namelijk niets geregeld om uw pensioen aan te passen aan het stijgen van de prijzen. |
-|   |   |   |   |
-| Regeling voorziet in belegging | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Die vraag kunnen we niet beantwoorden. Hoe hoog uw pensioen straks is, weten we nog niet. Hoeveel pensioen u krijgt, hangt namelijk vooral af van: – hoeveel pensioenpremie is betaald; – hoeveel kapitaal er is na het beleggen van de pensioenpremies; – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Die vraag kunnen we niet beantwoorden. Hoe hoog uw pensioen straks is, weten we nog niet. Hoeveel pensioen u krijgt, hangt namelijk vooral af van: – hoeveel pensioenpremie is betaald; – hoeveel kapitaal er is na het beleggen van de pensioenpremies; – hoeveel pensioen u met dat kapitaal kunt kopen. | **Tekst in plaats van label:** Kunt u met uw pensioen in de toekomst nog evenveel kopen? Alleen als u dat zelf geregeld heeft. Uw <werkgever/pensioenfonds> heeft namelijk niets geregeld om uw pensioen aan te passen aan het stijgen van de prijzen. |
+Vervallen
 
 ### **Artikel 1**
 
@@ -623,7 +602,7 @@ kps-NP: de contantewaardefactor voor nabestaandenpensioen volgens het standaardt
 
 ### Artikel 1. Rentefactoren voor het bepalen van het vereist eigen vermogen voor renterisico
 
-Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-01-01&g=2015-01-01) wordt als volgt aangeduid:
+Het vereist eigen vermogen per risicofactor als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-04-01&g=2015-04-01) wordt als volgt aangeduid:
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
@@ -639,7 +618,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 Matrix fondsen ten aanzien van toeslagen over pensioenaanspraken en pensioenrechten (is toeslag voor pensioengerechtigden, gewezen deelnemers en deelnemers):
 
-## Bijlage 2. als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-01-01&g=2015-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2015-01-01&g=2015-01-01)
+## Bijlage 2. als bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-01&g=2015-04-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=2&paragraaf=2&artikel=19&z=2015-04-01&g=2015-04-01)
 
 ### **Artikel 2. Formules en procedure standaardmodel**
 
@@ -892,11 +871,11 @@ waarbij ρ1 2 = 0,40 en ρ1 5 = 0,40 indien voor S1 wordt uitgegaan van een rent
 
 ### **Artikel 4. Benaderingsmethode kredietrisico**
 
-In deze formule komt het vereist vermogen voor het aandelen- en beursgenoteerd vastgoedrisico S2 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-01-01&g=2015-01-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten, inclusief beursgenoteerd vastgoed (S2A), aandelen opkomende markten (S2B), niet-beursgenoteerde aandelen (S2C) en niet-beursgenoteerd vastgoed (S2D) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S2) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S2A tot en met S2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S2 aan de hand van de formule:
+In deze formule komt het vereist vermogen voor het aandelen- en beursgenoteerd vastgoedrisico S2 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-04-01&g=2015-04-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor respectievelijk aandelen ontwikkelde markten, inclusief beursgenoteerd vastgoed (S2A), aandelen opkomende markten (S2B), niet-beursgenoteerde aandelen (S2C) en niet-beursgenoteerd vastgoed (S2D) tot het totale vereist eigen vermogen voor aandelen- en vastgoedrisico (S2) rekening wordt gehouden met de mogelijke statistische samenhang tussen de effecten van de scenario’s. Bij de aggregatie wordt uitgegaan van een uniforme correlatie ρ’ van 0,75. De componenten S2A tot en met S2D worden vervolgens gecombineerd tot het totaal vereist eigen vermogen voor aandelen- en vastgoedrisico S2 aan de hand van de formule:
 
 waarbij ρ' = 0,75.
 
-In deze formule komt het vereist vermogen voor het valutarisico S3 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-01-01&g=2015-01-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor valutarisico, (S3), rekening wordt gehouden met een correlatie (ρ) van 0,50 tussen valuta in ontwikkelde markten; 0,75 tussen valuta in opkomende markten en 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds. Het vereist vermogen voor valutarisico wordt vastgesteld voor enerzijds ontwikkelde markten (S3 A) en anderzijds opkomende markten (S3 B) en gecombineerd aan de hand van de volgende formules:
+In deze formule komt het vereist vermogen voor het valutarisico S3 als volgt tot stand. In [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-04-01&g=2015-04-01) is bepaald dat in het standaardmodel bij de aggregatie van het vereist eigen vermogen voor valutarisico, (S3), rekening wordt gehouden met een correlatie (ρ) van 0,50 tussen valuta in ontwikkelde markten; 0,75 tussen valuta in opkomende markten en 0,25 tussen het valutarisico voor ontwikkelde markten enerzijds en het valutarisico voor opkomende markten anderzijds. Het vereist vermogen voor valutarisico wordt vastgesteld voor enerzijds ontwikkelde markten (S3 A) en anderzijds opkomende markten (S3 B) en gecombineerd aan de hand van de volgende formules:
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
@@ -1028,7 +1007,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### 3a. Gelijkstelling met pensioen
 
-1. De uitkeringen, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) worden gelijkgesteld met pensioen in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) indien wordt voldaan aan de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-01-01&g=2015-01-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3c&z=2015-01-01&g=2015-01-01) en de pensioendatum ligt voor 1 januari 2014.
+1. De uitkeringen, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) worden gelijkgesteld met pensioen in de zin van [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) of [artikel 1 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=1) indien wordt voldaan aan de [artikelen 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-04-01&g=2015-04-01) en [3c](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3c&z=2015-04-01&g=2015-04-01) en de pensioendatum ligt voor 1 januari 2014.
 
 2. Indien het pensioen, bedoeld in het eerste lid, ouderdomspensioen is, voldoet dit ouderdomspensioen aan [artikel 15 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=15) of [artikel 31 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=31).
 
@@ -1042,19 +1021,19 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### 3c. De levenslange uitkering
 
-1. De levenslange uitkering, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2), wordt ingekocht tijdens de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-01-01&g=2015-01-01).
+1. De levenslange uitkering, bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2), wordt ingekocht tijdens de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-04-01&g=2015-04-01).
 
-2. Indien de pensioengerechtigde in het laatste jaar van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-01-01&g=2015-01-01), niet binnen een door de pensioenuitvoerder gestelde termijn overgaat tot inkoop van een levenslange uitkering, gaat de pensioenuitvoerder over tot aanwending van het resterend kapitaal, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3d&z=2015-01-01&g=2015-01-01), voor een levenslange uitkering.
+2. Indien de pensioengerechtigde in het laatste jaar van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-04-01&g=2015-04-01), niet binnen een door de pensioenuitvoerder gestelde termijn overgaat tot inkoop van een levenslange uitkering, gaat de pensioenuitvoerder over tot aanwending van het resterend kapitaal, bedoeld in [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3d&z=2015-04-01&g=2015-04-01), voor een levenslange uitkering.
 
 3. De hoogte van de levenslange uitkering varieert na ingang niet.
 
 ##### 3d. Resterend kapitaal
 
-1. Het kapitaal dat na aankoop van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-01-01&g=2015-01-01), resteert wordt door de pensioenuitvoerder zodanig samengesteld dat de risico’s vergelijkbaar of lager zijn dan voor de aankoop van de tijdelijke uitkering.
+1. Het kapitaal dat na aankoop van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-04-01&g=2015-04-01), resteert wordt door de pensioenuitvoerder zodanig samengesteld dat de risico’s vergelijkbaar of lager zijn dan voor de aankoop van de tijdelijke uitkering.
 
 2. Indien de pensioengerechtigde de verantwoordelijkheid voor de beleggingen heeft overgenomen, adviseert de pensioenuitvoerder de pensioengerechtigde over de spreiding van de beleggingen conform het eerste lid.
 
-3. In de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-01-01&g=2015-01-01), ontvangt de pensioengerechtigde, naast de informatie die op grond van [artikel 44 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=44) of [artikel 55 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=55) wordt verstrekt, voor zover van toepassing ten minste een keer per jaar informatie over:
+3. In de uitkeringsperiode van de tijdelijke uitkering, bedoeld in [artikel 3b](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3b&z=2015-04-01&g=2015-04-01), ontvangt de pensioengerechtigde, naast de informatie die op grond van [artikel 44 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=44) of [artikel 55 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=55) wordt verstrekt, voor zover van toepassing ten minste een keer per jaar informatie over:
 
 - a. de hoogte van het resterende kapitaal; en
 
@@ -1062,7 +1041,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ##### 3e. Verplichting pensioenuitvoerder
 
-1. De pensioenuitvoerder is verplicht om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde mee te werken aan een splitsing als bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) indien het op de pensioendatum beschikbaar komende kapitaal tenminste € 10.000 bedraagt en met inachtneming van de [artikelen 3a tot en met 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3a&z=2015-01-01&g=2015-01-01).
+1. De pensioenuitvoerder is verplicht om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde mee te werken aan een splitsing als bedoeld in [artikel 2, negende lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=2) of [artikel 2, vierde lid, van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=2) indien het op de pensioendatum beschikbaar komende kapitaal tenminste € 10.000 bedraagt en met inachtneming van de [artikelen 3a tot en met 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1a&artikel=3a&z=2015-04-01&g=2015-04-01).
 
 2. De pensioenuitvoerder informeert de daarvoor in aanmerking komende deelnemer, gewezen deelnemer of andere aanspraakgerechtigde tijdig over hetgeen in deze paragraaf is bepaald.
 
@@ -1211,7 +1190,7 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 ### Hoofdstuk 5. Wijziging overige Ministeriele regelingen
 
-## Bijlage 1. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1&artikel=2&z=2015-01-01&g=2015-01-01)
+## Bijlage 1. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=1&paragraaf=1&artikel=2&z=2015-04-01&g=2015-04-01)
 
 1. Het Europees Centrum voor Kernonderzoek (CERN), bedoeld in het op 1 juli 1953 te Parijs tot stand gekomen Verdrag betreffende de instelling van een Europese Organisatie voor Kernonderzoek;
 
@@ -1251,8 +1230,12 @@ Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden gepl
 
 19) de Europese politiedienst (Europol), bedoeld in de op 26 juli 1995 te Brussel tot stand gekomen Overeenkomst op grond van artikel K.3 van het Verdrag betreffende de Europese Unie tot oprichting van een Europese politiedienst (Europol-overeenkomst);
 
-20) de Europese Investeringsbank, bedoeld in artikel 9 van het Verdrag tot oprichting van de Europese Gemeenschap en het op 25 maart 1957 te Rome tot stand gekomen Protocol betreffende de statuten van de Europese Investeringsbank.
+20) de Europese Investeringsbank, bedoeld in artikel 9 van het Verdrag tot oprichting van de Europese Gemeenschap en het op 25 maart 1957 te Rome tot stand gekomen Protocol betreffende de statuten van de Europese Investeringsbank;
 
-## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-01-01&g=2015-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-01-01&g=2015-01-01) van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling
+21. het Instituut voor veiligheidsstudies van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een instituut voor veiligheidsstudies van de Europese Unie;
+
+22. het Satellietcentrum van de Europese Unie, bedoeld in het op 20 juli 2001 te Brussel tot stand gekomen Gemeenschappelijk optreden van de Raad betreffende de oprichting van een satellietcentrum van de Europese Unie.
+
+## Bijlage 3. als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=24&z=2015-04-01&g=2015-04-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0020917&hoofdstuk=3&paragraaf=1&artikel=25&z=2015-04-01&g=2015-04-01) van de Regeling Pensioenwet en Wet verplichte beroepspensioenregeling
 
 Deze regeling zal met toelichting en de bijlagen in de Staatscourant worden geplaatst.
