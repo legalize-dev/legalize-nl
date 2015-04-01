@@ -70,16 +70,3 @@ Deze regeling treedt in werking op 1 april 2015.
 | **Ruwe glycerine** **Samenstelling** (massaprocent): Glycerine: minimaal 70% (CAS 56-81-5, EINECS 200-289-5) en indien aanwezig: – TFM*: maximaal 1,0% – Water: maximaal 30% – Zout: maximaal 0,05% – Methanol: maximaal 0,05% * TFM: Total Fatty Matter (totaal aan vetachtige stoffen) | Productie van vetzuren uit dierlijke of plantaardige vetten en oliën |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 1a
-
-Onder ‘onmiddellijk worden gebruikt zonder enige verdere verwerking anders dan die welke bij normale productiepraktijken gangbaar is’, als bedoeld in artikel 5, eerste lid, onderdeel b, van de kaderrichtlijn afvalstoffen, wordt in ieder geval verstaan het verwerkingsproces dat ten aanzien van een stof, preparaat of voorwerp is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&bijlage=1&z=2024-01-01&g=2024-01-01).
-
-## Bijlage 2. als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036424&artikel=2&z=2024-01-01&g=2024-01-01) van de Regeling criteria bijproducten kaderrichtlijn afvalstoffen
-
-| Stof, preparaat of voorwerp | Productieproces van herkomst |
-| --- | --- |
-| **Ruwe glycerine** **Samenstelling** (massaprocent): glycerine: 70% – 95% (CAS 56-81-5, EINECS 200-289-5) en indien aanwezig: – Methanol: maximaal 2% – MONG*: maximaal 10% – Zout (NaCl): maximaal 10% – Water: maximaal 20% * MONG: overige organische stoffen of materialen | Productie van biodiesel |
-| **Ruwe glycerine** **Samenstelling** (massaprocent): Glycerine: minimaal 70% (CAS 56-81-5, EINECS 200-289-5) en indien aanwezig: – TFM*: maximaal 1,0% – Water: maximaal 30% – Zout: maximaal 0,05% – Methanol: maximaal 0,05% * TFM: Total Fatty Matter (totaal aan vetachtige stoffen) | Productie van vetzuren uit dierlijke of plantaardige vetten en oliën |
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
