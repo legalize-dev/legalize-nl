@@ -4,7 +4,7 @@ identifier: "BWBR0009723"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2015-03-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009723"
 soort: "AMvB"
@@ -46,6 +46,8 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
+Werkt terug tot en met 1 juli 1996.
+
 ##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
@@ -58,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - d. verzekeraar: een financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van verzekeraar mag uitoefenen;
 
-- e. onverzekerbaar: onverzekerbaar als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-03-01).
+- e. onverzekerbaar: onverzekerbaar als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-04-01).
 
 ##### Artikel 2. Onverzekerbaar
 
@@ -80,11 +82,11 @@ Voor de toepassing van dit besluit is onverzekerbaar de echtgenoot:
 
 3. Bij de aanmelding wordt een mededeling van een verzekeraar overgelegd waaruit blijkt dat de echtgenoot onverzekerbaar is.
 
-4. De Bank stelt vast of de persoon en de echtgenoot aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=1&z=2015-03-01&g=2015-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-03-01) en [3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=3&z=2015-03-01&g=2015-03-01), voldoen.
+4. De Bank stelt vast of de persoon en de echtgenoot aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=1&z=2015-03-01&g=2015-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-04-01) en [3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=3&z=2015-03-01&g=2015-04-01), voldoen.
 
 ##### Artikel 4. Betaling van de bijdrage
 
-1. Nadat de Bank heeft vastgesteld dat de persoon en de echtgenoot aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=1&z=2015-03-01&g=2015-03-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-03-01) en [3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=3&z=2015-03-01&g=2015-03-01) voldoen, wordt de persoon na het overlijden van de echtgenoot aangemerkt als geboren voor 1 janauri 1950 mits de persoon of de echtgenoot vanaf 1 juli 1999 tot de eerste dag van de maand volgend op de dag van het overlijden van de persoon of van de echtgenoot, een maandelijks verschuldigde bijdrage aan de Bank heeft betaald.
+1. Nadat de Bank heeft vastgesteld dat de persoon en de echtgenoot aan de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=1&z=2015-03-01&g=2015-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=2&z=2015-03-01&g=2015-04-01) en [3, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=3&z=2015-03-01&g=2015-04-01) voldoen, wordt de persoon na het overlijden van de echtgenoot aangemerkt als geboren voor 1 janauri 1950 mits de persoon of de echtgenoot vanaf 1 juli 1999 tot de eerste dag van de maand volgend op de dag van het overlijden van de persoon of van de echtgenoot, een maandelijks verschuldigde bijdrage aan de Bank heeft betaald.
 
 2. De hoogte van de bijdrage wordt jaarlijks met ingang van 1 januari gewijzigd met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van de bijdrage is gebaseerd en wordt door of namens Onze Minister bekendgemaakt in de Staatscourant.
 
@@ -92,13 +94,13 @@ Voor de toepassing van dit besluit is onverzekerbaar de echtgenoot:
 
 ##### Artikel 5. Niet aangemerkt als geboren voor 1 januari 1950
 
-1. Indien de bijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=4&z=2015-03-01&g=2015-03-01), na een door de Bank vastgestelde termijn niet of niet geheel is betaald, wordt de persoon vanaf de dag dat de daarover verschuldigde bijdrage niet is betaald, niet langer aangemerkt als geboren voor 1 januari 1950.
+1. Indien de bijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=4&z=2015-03-01&g=2015-04-01), na een door de Bank vastgestelde termijn niet of niet geheel is betaald, wordt de persoon vanaf de dag dat de daarover verschuldigde bijdrage niet is betaald, niet langer aangemerkt als geboren voor 1 januari 1950.
 
 2. De Bank kan, in afwijking van het eerste lid, de termijn verlengen of opnieuw vaststellen, indien de toepassing ervan zou leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 6. Bevoegdheid tot betalen bijdrage door persoon na overlijden echtgenoot
 
-Indien op de dag van het overlijden van de echtgenoot de verschuldigde bijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=4&z=2015-03-01&g=2015-03-01), niet of niet geheel is betaald wordt de persoon door de Bank, uiterlijk tot de door de Bank op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=5&z=2015-03-01&g=2015-03-01) vastgestelde termijn is verstreken, in de gelegenheid gesteld de bijdrage alsnog te voldoen.
+Indien op de dag van het overlijden van de echtgenoot de verschuldigde bijdrage, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=4&z=2015-03-01&g=2015-04-01), niet of niet geheel is betaald wordt de persoon door de Bank, uiterlijk tot de door de Bank op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009723&artikel=5&z=2015-03-01&g=2015-04-01) vastgestelde termijn is verstreken, in de gelegenheid gesteld de bijdrage alsnog te voldoen.
 
 ##### Artikel 7. Vergoeding aan verzekeraars
 
