@@ -4,7 +4,7 @@ identifier: "BWBR0035782"
 country: "nl"
 rank: "wet"
 publication_date: "2015-04-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035782"
 soort: "wet"
@@ -59,6 +59,8 @@ Wijzigt de Algemene Ouderdomswet.
 Wijzigt de Algemene wet bestuursrecht.
 
 ##### Artikel 1.3a
+
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -292,6 +294,8 @@ Wijzigt deze wet.
 
 ##### Artikel 3.8
 
+Wijzigt de Wijzigingswet Boek 1 van het Burgerlijk Wetboek, enz. (herziening maatregelen kinderbescherming).
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel 3.9
@@ -336,7 +340,7 @@ Wijzigt de Wet langdurige zorg (Kst. 33 891).
 
 ##### Artikel 4.1
 
-[Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035782&hoofdstuk=1&artikel=1.7&z=2015-01-01&g=2015-01-01) treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
+[Artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0035782&hoofdstuk=1&artikel=1.7&z=2015-04-01&g=2015-04-01) treedt in werking op de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. De overige artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel 4.2
 
