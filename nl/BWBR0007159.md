@@ -4,7 +4,7 @@ identifier: "BWBR0007159"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007159"
 soort: "ministeriele-regeling"
@@ -683,7 +683,7 @@ Berekeningen voor de toepassing van [artikel 47, eerste lid, onderdeel p, van de
 
 ##### Artikel 17
 
-Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2015-01-01&g=2015-01-01) van overeenkomstige toepassing.
+Op de administratie van de fiscaal vertegenwoordiger, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=54), is [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=28&z=2015-04-01&g=2015-04-01) van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -885,7 +885,7 @@ De verklaring, bedoeld in [artikel 22, eerste, derde of vierde lid, van het besl
 
 - e. het netto elektrisch rendement van de installatie.
 
-2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2015-01-01&g=2015-01-01) van belang zijnde bedrijfshandelingen.
+2. De administratie van een installatie waarin zuivere biomassa wordt verwerkt op een wijze als bedoeld in het eerste lid, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens zijn opgenomen omtrent alle voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=14&z=2015-04-01&g=2015-04-01) van belang zijnde bedrijfshandelingen.
 
 3. De administratie van een installatie waarin biomassa zodanig wordt verwerkt dat daaruit stortgas, rioolwaterzuiveringsgas of biogas wordt gewonnen, dient zodanig te zijn ingericht dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen welke van belang zijn voor de jaarlijkse vaststelling van de door de installatie gewonnen en aan het distributienet geleverde hoeveelheid stortgas, rioolwaterzuiveringsgas, of biogas.
 
@@ -991,7 +991,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 2. Indien een aangewezen coöperatie als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) niet of niet langer voldoet aan de voorwaarden voor aanwijzing, doet zij daarvan onverwijld schriftelijk mededeling aan de inspecteur en aan ieder met wie zij een overeenkomst heeft als bedoeld in artikel 59a, eerste lid, van de wet.
 
-3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2015-01-01&g=2015-01-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
+3. In geval van intrekking van de aanwijzing door de inspecteur als bedoeld in [artikel 19a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007159&hoofdstuk=VI&artikel=19a&z=2015-04-01&g=2015-04-01), doet de coöperatie daarvan onverwijld schriftelijk mededeling aan ieder aan wie zij ingevolge het eerste lid een afschrift van de beschikking inhoudende de aanwijzing heeft verstrekt. Daarbij verstrekt zij een afschrift van de beschikking waarmee de aanwijzing door de inspecteur wordt ingetrokken.
 
 4. De coöperatie die is aangewezen als bedoeld in [artikel 59a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), richt haar administratie zodanig in, dat daarin op overzichtelijke wijze alle gegevens zijn opgenomen die voor de verlaging, bedoeld in artikel 59a, eerste lid van de wet, van belang kunnen zijn.
 
@@ -1001,7 +1001,7 @@ De wijziging of intrekking van de aanwijzing geschiedt bij voor bezwaar vatbare 
 
 7. De coöperatie vermeldt bij de opgaaf, bedoeld in het zesde lid, of de garanties van oorsprong, bedoeld in [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), zijn geboekt op een eindverbruikersrekening van de coöperatie zelf, dan wel op een handelsaccount.
 
-8. De coöperatie verstrekt tezamen met de opgaaf, bedoeld in het zesde lid, de verklaring, bedoeld in [artikel 21b, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b). Hierin verklaart de coöperatie dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59a, tweede lid, onderdelen a, b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), dan wel, indien het een vereniging van eigenaars betreft, dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59 a, tweede lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b).
+8. De coöperatie verstrekt tezamen met de opgaaf, bedoeld in het zesde lid, de verklaring, bedoeld in [artikel 21b, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b). Hierin verklaart de coöperatie dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59a, tweede lid, onderdelen a, b, c en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b), dan wel, indien het een vereniging van eigenaars betreft, dat wordt voldaan aan de voorwaarden en beperkingen, bedoeld in [artikel 59 a, tweede lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59a), en [artikel 59b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=59b) en [artikel 21b, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007178&artikel=21b).
 
 ### Hoofdstuk VII. Vliegbelasting
 
