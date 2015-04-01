@@ -4,7 +4,7 @@ identifier: "BWBR0012031"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-17"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012031"
 soort: "ministeriele-regeling"
@@ -652,11 +652,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Vóór 1 januari 2005 vastgestelde lijfrenten die niet in geldeenheden luiden:
 
-- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
+- 1. Op een lijfrente waarvan vóór 1 januari 2005 de hoogte van de termijnen in beleggingseenheden (units) met de verzekeraar is overeengekomen, blijft [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-04-01&g=2015-04-01) buiten toepassing en kan de lijfrente-overeenkomst worden tenuitvoergelegd zoals is overeengekomen.
 
-- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) wel van toepassing.
+- 2. Indien ter zake van een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 met de verzekeraar een wijziging van methode van berekening van de termijnen in units of in euro’s wordt overeengekomen, is met ingang van de datum van die wijziging [art. 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-04-01&g=2015-04-01) wel van toepassing.
 
-- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-01-01&g=2015-01-01) van toepassing op de laatstgenoemde lijfrente.
+- 3. Indien een lijfrente als bedoeld in het eerste lid op of na 1 januari 2005 wordt omgezet in een andere lijfrente, is [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=1&artikel=2a&z=2015-04-01&g=2015-04-01) van toepassing op de laatstgenoemde lijfrente.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
@@ -796,9 +796,9 @@ Vervallen
 
 5. Ingeval het fonds is aangewezen met een ingroeiperiode en na afloop van die periode niet wordt voldaan aan het hoofdzakelijkheidscriterium, heeft de intrekking terugwerkende kracht tot en met de eerste dag na het aflopen van die periode.
 
-6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-01-01&g=2015-01-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
+6. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-04-01&g=2015-04-01), bedoelde mededeling onverwijld heeft gedaan, heeft de intrekking geen terugwerkende kracht.
 
-7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-01-01&g=2015-01-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
+7. Indien het fonds de in [artikel 29a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=5&artikel=29a&z=2015-04-01&g=2015-04-01), bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen.
 
 8. Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend.
 
@@ -850,31 +850,23 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 Als mobiliteitsprojecten in het kader van het project Anders betalen voor mobiliteit of het programma Beter Benutten als bedoeld in [artikel 3.13, eerste lid, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) worden aangewezen:
 
-- a. Spitsmijden A15 als bedoeld in het Uitvoeringsconvenant Spitsmijden A15 (Stcrt. 2009, 14);
+- a. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);
 
-- b. Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug als bedoeld in het Uitvoeringsconvenant Mobiliteitsprojecten SLIM Prijzen en SLIM Prijzen Waalbrug (Stcrt. 2009, 18102);
+- b. Mobiliteitsproject Spitsmijden A12-corridor (Stcrt. 2011, 19634);
 
-- c. Mobiliteitproject Beloningsmaatregel Utrecht Oost als bedoeld in het Uitvoeringsconvenant Mobiliteitsproject Beloningsmaatregel Utrecht Oost (Stcrt. 2009, 18120);
+- c. Pedelec (Stcrt. 2013, 34274);
 
-- d. Mobiliteitsproject Spitsmijden A12-corridor (Stcrt. 2011, 19634);
+- d. B-riders (Stcrt. 2013, 34274);
 
-- e. Twentse E-fiets actie 2013 (Stcrt. 2013, 34274);
+- e. Fietsimpuls Maastricht-beloningsysteem voor Forensen (Stcrt. 2013, 34274);
 
-- f. Pedelec (Stcrt. 2013, 34274);
+- f. Stimulering E-Bike (Stcrt. 2013, 34274);
 
-- g. B-riders (Stcrt. 2013, 34274);
+- g. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);
 
-- h. Fietsimpuls Maastricht-beloningsysteem voor Forensen (Stcrt. 2013, 34274);
+- h. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406);
 
-- i. Stimulering E-Bike (Stcrt. 2013, 34274);
-
-- j. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);
-
-- k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406);
-
-- l. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226);
-
-- m. Fietsactie 2014 Regio Twente (Stcrt. 2014, 22226).
+- i. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226).
 
 ##### Artikel 26a. Verzoek om toepassing doorschuifregelingen bij vererving, bij verdeling van de nalatenschap binnen twee jaar of bij schenking
 
@@ -960,7 +952,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst
 
 ##### Artikel 45e. Overgangsrecht verliezen op geldleningen aan beginnende ondernemers; verliezen op beleggingen in durfkapitaal
 
-[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2015-01-01&g=2015-01-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
+[Artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0012031&hoofdstuk=6&artikel=34&z=2015-04-01&g=2015-04-01), zoals dat artikel op 31 december 2010 luidde, blijft van toepassing op verliezen op vóór 1 januari 2011 verstrekte geldleningen als bedoeld in [artikel 6.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.8), van de wet, zoals dat lid op 31 december 2010 luidde.
 
 ### Hoofdstuk 11. Overgangs- en slotbepalingen ([hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=11))
 
