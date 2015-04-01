@@ -4,7 +4,7 @@ identifier: "BWBR0036465"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036465"
 soort: "ministeriele-regeling-BES"
@@ -38,9 +38,9 @@ entry_into_force: "2016-12-20"
 
 ##### Artikel 1. Bezoldigingschalen
 
-1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 juli 2013 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+1. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 juli 2013 zoals in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=1&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2014 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+2. De bezoldigingschalen voor de ambtenaren in dienst van de staat zijn per 1 januari 2014 zoals in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=2&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
 ##### Artikel 2. Garantietreden
 
@@ -56,31 +56,31 @@ entry_into_force: "2016-12-20"
 
 1. Dit artikel is uitsluitend van toepassing op ambtenaren in dienst van de staat die hun functie in 2013 naar het oordeel van het bevoegde gezag, dat is neergelegd in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12) of [artikel 25 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=25), naar behoren hebben vervuld.
 
-2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=3&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=3&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=4&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=4&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=5&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=5&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=6&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=6&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
 ##### Artikel 4. Inpastabellen geen goede beoordeling 2013
 
 1. Dit artikel is uitsluitend van toepassing op ambtenaren in dienst van de staat ten aanzien van wie niet in een formele beoordeling als bedoeld in [artikel 12, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=12) of [artikel 25 van het Besluit rechtspositie korps politie BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=25) is neergelegd dat zij hun functie in 2013 naar behoren hebben vervuld.
 
-2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=7&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+2. De inpastabel voor de ambtenaren in dienst van de staat met uitzondering van de ambtenaren, bedoeld in het derde tot en met vijfde lid, is zoals in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=7&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=8&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+3. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Dienst Justitiële Inrichtingen BES is zoals in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=8&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=9&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+4. De inpastabel voor de ambtenaren in dienst van de staat die werkzaam zijn bij de Douane BES is zoals in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=9&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=10&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+5. De inpastabel voor de ambtenaren in dienst van de staat en aangesteld voor de uitvoering van de politietaak en voor de aspirant alsmede voor de ambtenaren in dienst van de staat die werkzaam zijn voor de Koninklijke Marechaussee is zoals in [bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=10&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
 ##### Artikel 5. Bezoldiging geestelijke
 
-1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+1. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 juli 2013 zoals in [bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=11&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
-2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-01-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2015-04-01&g=2015-01-01) van deze regeling is vermeld.
+2. In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), zijn de bezoldigingschalen voor de ambtenaren in dienst van de staat en werkzaam als geestelijke per 1 januari 2014 zoals in [bijlage 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&bijlage=12&z=2015-04-01&g=2015-04-01) van deze regeling is vermeld.
 
 ##### Artikel 6. Extra toelage IBTers etc
 
@@ -88,15 +88,21 @@ Aan de ambtenaar in dienst van de staat en werkzaam bij de Dienst Justitiële In
 
 ##### Artikel 7. Bovenwindentoelage
 
-Dit onderdeel is nog niet inwerking getreden
+De standplaatstoelage, bedoeld in [artikel 28, tweede lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt zestien en drietiende procent van de bezoldiging.
 
 ##### Artikel 8. Saba/Statiatoelage
 
-Dit onderdeel is nog niet inwerking getreden
+De Saba/Statiatoelage, bedoeld in [artikel 28, derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt met ingang van 1 april 2015 tweeënhalf procent van de bezoldiging.
 
 ##### Artikel 9. Vereveningstoelage
 
-Dit onderdeel is nog niet inwerking getreden
+De toelage, bedoeld in [artikel 28, derde lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=28), bedraagt met ingang van 1 april 2015:
+
+- a. 0% van de bezoldiging voor de ambtenaar die werkzaam is op Bonaire,
+
+- b. 9,6% van de bezoldiging voor de ambtenaar die werkzaam is op Sint Eustatius, en
+
+- c. 9,5% van de bezoldiging voor de ambtenaar die werkzaam is op Saba.
 
 ##### Artikel 10. Vergoeding vrijwillige ambtenaar van politie
 
@@ -104,15 +110,23 @@ De vergoeding, bedoeld in [artikel 23b van het Besluit rechtspositie korps polit
 
 ##### Artikel 11
 
-Dit onderdeel is nog niet inwerking getreden
+1. De [Regeling bezoldiging Rijksambtenaren BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035545) wordt ingetrokken.
+
+2. De [Regeling standplaatstoelage ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028782) wordt ingetrokken.
 
 ##### Artikel 12
 
-Dit onderdeel is nog niet inwerking getreden
+1. Deze regeling treedt in werking met ingang van 1 april 2015.
+
+2. De [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=2&z=2015-04-01&g=2015-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=10&z=2015-04-01&g=2015-04-01) werken terug tot en met 1 juli 2013.
+
+3. De [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), en [5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), werken terug tot en met 1 januari 2014.
+
+4. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=6&z=2015-04-01&g=2015-04-01) werkt terug tot en met 1 januari 2015.
 
 ##### Artikel 13
 
-Dit onderdeel is nog niet inwerking getreden
+Deze regeling wordt aangehaald als: Regeling bezoldiging Rijksambtenaren BES 2013–2015.
 
 ## Bijlage 1. , behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
@@ -122,9 +136,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 2. , behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2013-07-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 2. , behorend bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
+### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
 ## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
@@ -152,11 +166,69 @@ Dit onderdeel is nog niet inwerking getreden
 
 ## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2013-07-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 9. , behorend bij [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
 
-### Bezoldiging Geestelijken BES per 1 januari 2013
+### Inpastabel Rijksambtenaren Douane BES zonder goede beoordeling 2013
 
-## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+## Bijlage 10. , behorend bij [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+**Inpastabel Rijksambtenaren politie en KMAR BES zonder goede beoordeling 2013**
+
+| was: | wordt: |   | was: | wordt: |   | was: | wordt: |   | was: | wordt: |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| schaal 4 | schaal 4 |   | schaal 5 | schaal 5 |   | schaal 6 | schaal 6 |   | schaal 7 | schaal 7 |
+| nr | nr |   | nr | nr |   | nr | nr |   | nr | nr |
+| 1 | 9 |   | 1 | 13 |   | 1 | 13 |   | 1 | 14 |
+| 2 | 10 |   | 2 | 14 |   | 2 | 14 |   | 2 | 15 |
+| 3 | 11 |   | 3 | 15 |   | 3 | 15 |   | 3 | GPT 16 |
+| 4 | 12 |   | 4 | GPT 16 |   | 4 | GPT 16 |   | 4 | GPT 17 |
+| 5 | 13 |   | 5 | GPT 17 |   | 5 | GPT 17 |   | 5 | GPT 18 |
+| 6 | 14 |   | 6 | GPT 18 |   | 6 | GPT 18 |   | 6 | GPT 19 |
+| 7 | 15 |   | 7 | GPT 19 |   | 7 | GPT 19 |   | 7 | GPT 20 |
+| 8 | GPT 16 |   | 8 | GPT 20 |   | 8 | GPT 20 |   | 8 | GPT 20 |
+| 9 | GPT 17 |   | 9 | GPT 21 |   | 9 | GPT 21 |   | 9 | GPT 21 |
+| 10 | GPT 18 |   | 10 | GPT 22 |   | 10 | GPT 22 |   | 10 | GPT 22 |
+| 11 | GPT 19 |   | 11 | GPT 23 |   | 11 | GPT 23 |   | 11 | GPT 23 |
+| 12 | GPT 20 |   | 12 | GPT 24 |   | 12 | GPT 24 |   | 12 | GPT 24 |
+|   |   |   | 13 | GPT 25 |   | 13 | GPT 24 |   | 13 | GPT 25 |
+|   |   |   | 14 | GPT 26 |   |   |   |   |   |   |
+|   |   |   | 15 | GPT 27 |   |   |   |   |   |   |
+
+| was: | wordt: |   | was: | wordt: |   | was: | wordt: |   | was: | wordt: |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| schaal 8 | schaal 8 |   | schaal 9 | schaal 9 |   | schaal 10 | schaal 10 |   | schaal 11 | schaal 11 |
+| nr | nr |   | nr | nr |   | nr | nr |   | nr | nr |
+| 1 | 12 |   | 1 | 13 |   | 1 | 13 |   | 1 | 10 |
+| 2 | 13 |   | 2 | 14 |   | 2 | 14 |   | 2 | 11 |
+| 3 | 14 |   | 3 | 15 |   | 3 | 15 |   | 3 | 12 |
+| 4 | 15 |   | 4 | GPT 16 |   | 4 | GPT 16 |   | 4 | 13 |
+| 5 | GPT 16 |   | 5 | GPT 17 |   | 5 | GPT 17 |   | 5 | 14 |
+| 6 | GPT 17 |   | 6 | GPT 18 |   | 6 | GPT 18 |   | 6 | 15 |
+| 7 | GPT 18 |   | 7 | GPT 18 |   | 7 | GPT 18 |   | 7 | GPT 16 |
+| 8 | GPT 19 |   | 8 | GPT 19 |   | 8 | GPT 19 |   | 8 | GPT 17 |
+| 9 | GPT 19 |   | 9 | GPT 20 |   | 9 | GPT 20 |   | 9 | GPT 17 |
+| 10 | GPT 20 |   | 10 | GPT 21 |   | 10 | GPT 20 |   |   |   |
+| 11 | GPT 21 |   | 11 | GPT 21 |   | 11 | GPT 20 |   |   |   |
+| 12 | GPT 22 |   | 12 | GPT 22 |   |   |   |   |   |   |
+| 13 | GPT 23 |   | 13 | GPT 22 |   |   |   |   |   |   |
+| 14 | GPT 23 |   |   |   |   |   |   |   |   |   |
+| 15 | GPT 24 |   |   |   |   |   |   |   |   |   |
+
+| was: | wordt: |   | was: | wordt: |   |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| schaal 12 | schaal 12 |   | schaal 13 | schaal 13 |   |   |   |   |   |   |
+| nr | nr |   | nr | nr |   |   |   |   |   |   |
+| 1 | 9 |   | 1 | 6 |   |   |   |   |   |   |
+| 2 | 10 |   | 2 | 7 |   |   |   |   |   |   |
+| 3 | 11 |   | 3 | 10 |   |   |   |   |   |   |
+| 4 | 12 |   | 4 | 11 |   |   |   |   |   |   |
+| 5 | 13 |   | 5 | 12 |   |   |   |   |   |   |
+| 6 | 14 |   | 6 | 13 |   |   |   |   |   |   |
+| 7 | 15 |   | 7 | 14 |   |   |   |   |   |   |
+| 8 | GPT 16 |   | 8 | 15 |   |   |   |   |   |   |
+| 9 | GPT 17 |   | 9 | GPT 16 |   |   |   |   |   |   |
+|   |   |   | 10 | GPT 17 |   |   |   |   |   |   |
+|   |   |   | 11 | GPT 18 |   |   |   |   |   |   |
 
 ### Bezoldigingschalen Rijksambtenaren BES per 1 januari 2014
 
@@ -229,3 +301,49 @@ Dit onderdeel is nog niet inwerking getreden
 ## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-01-01), van de Regeling bezoldiging Rijksambtenaren BES
 
 ### Bezoldiging Geestelijken BES per 1 januari 2014
+
+Gelet op de [artikelen 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=14) en [15, eerste lid, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=15), de [artikelen 1, onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=1), [23b](https://wetten.overheid.nl/jci1.3:c:BWBR0028767&artikel=23b), 23f en 23g, eerste lid, van het Besluit rechtspositie korps politie BES en de [artikelen 25aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25aa), en [artikel 29, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=29);
+
+Besluit:
+
+## Bijlage 1. , behorend bij [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=1&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Bezoldigingschalen Rijksambtenaren BES per 1 juli 2013
+
+* de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
+
+* de garantietreden GRT16, GRT17 en GRT 18 zijn alleen van toepassing voor ambtenaren van wie de bezoldiging tot 1 juli 2013 was vastgesteld op een bezoldigingstrede, als bedoeld in [artikel 1, onder f, van het Bezoldigingsbesluit 1998 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028491&artikel=1), zoals dat tot die datum luidde, die voorzien was van de aanduiding ‘G.T.’, en voor de ambtenaren die tot 1 juli 2013 uitzicht hadden op een dergelijke bezoldigingstrede.
+
+## Bijlage 3. , behorend bij [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Inpastabel Rijksambtenaren BES met goede beoordeling 2013
+
+## Bijlage 4. , behorend bij [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES met goede beoordeling 2013
+
+## Bijlage 5. , behorend bij [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Inpastabel Rijksambtenaren Douane BES met goede beoordeling 2013
+
+## Bijlage 6. , behorend bij [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=3&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Inpastabel Rijksambtenaren politie en KMAR BES met goede beoordeling 2013
+
+## Bijlage 7. , behorend bij [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES
+
+### Inpastabel Rijkambtenaren BES zonder goede beoordeling 2013–2015
+
+## Bijlage 8. , behorend bij [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=4&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Inpastabel Rijksambtenaren Dienst Justitiële Inrichtingen BES zonder goede beoordeling 2013
+
+## Bijlage 11. , behorend bij [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES 2013–2015
+
+### Bezoldiging Geestelijken BES per 1 januari 2013
+
+## Bijlage 12. , behorend bij [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036465&artikel=5&z=2015-04-01&g=2015-04-01), van de Regeling bezoldiging Rijksambtenaren BES
+
+### Bezoldiging Geestelijken BES per 1 januari 2014
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
