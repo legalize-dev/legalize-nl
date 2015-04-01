@@ -4,7 +4,7 @@ identifier: "BWBR0028554"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2015-04-01"
-last_updated: "2013-02-09"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028554"
 soort: "AMvB-BES"
@@ -53,11 +53,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **nabestaande:** degene met wie de politieke gezagdrager, de gewezen politieke gezagdrager of de gepensioneerde politieke gezagdrager op de dag van overlijden gehuwd was;
 
-- g. **bevoegde gezag;**
-
-- 1°. Onze Minister wat betreft gewezen of gepensioneerde gezaghebbers;
-
-- 2°. het bestuurscollege van het betrokken openbaar lichaam wat betreft gewezen of gepensioneerde eilandgedeputeerden en leden van de eilandsraad.
+- g. **bevoegde gezag:** het bestuurscollege van het betrokken openbaar lichaam.
 
 ##### Artikel 1a
 
@@ -83,11 +79,11 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 2. Indien betrokkene de functie van politieke gezagdrager met één of meer onderbrekingen heeft vervuld, wordt voor de berekening van de duur van de uitkering in aanmerking genomen de tijd waarin de betrokkene in een tijdvak direct voorafgaande aan het laatste ontslag een functie van politieke gezagdrager heeft vervuld, indien die functies voor ten hoogste een zesde deel van dat tijdvak zijn onderbroken.
 
-3. In het geval van beëindiging van de uitkering op grond van [artikel 8, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2013-02-09&g=2013-02-09), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop de eerstbedoelde uitkering zou zijn geëindigd, indien daarvan het recht niet tussentijds was geëindigd.
+3. In het geval van beëindiging van de uitkering op grond van [artikel 8, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2015-04-01&g=2015-04-01), wordt de volgende uitkering toegekend ten minste tot het tijdstip waarop de eerstbedoelde uitkering zou zijn geëindigd, indien daarvan het recht niet tussentijds was geëindigd.
 
 ##### Artikel 3a
 
-1. De betrokkene die recht heeft op een uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=2&z=2013-02-09&g=2013-02-09), is verplicht:
+1. De betrokkene die recht heeft op een uitkering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=2&z=2015-04-01&g=2015-04-01), is verplicht:
 
 - a. in voldoende mate te trachten passende arbeid te vinden;
 
@@ -125,19 +121,19 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 5. Dit artikel is niet van toepassing op de betrokkene die:
 
-- a. een ambt heeft aanvaard als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2013-02-09&g=2013-02-09), en daaruit inkomsten geniet ten bedrage van 70% of meer van de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2013-02-09&g=2013-02-09);
+- a. een ambt heeft aanvaard als bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), en daaruit inkomsten geniet ten bedrage van 70% of meer van de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01);
 
-- b. recht heeft op een voortgezette uitkering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=5&z=2013-02-09&g=2013-02-09).
+- b. recht heeft op een voortgezette uitkering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=5&z=2015-04-01&g=2015-04-01).
 
 6. Dit artikel is niet van toepassing gedurende de eerste drie maanden na het aftreden van de betrokkene.
 
 ##### Artikel 3b
 
-1. Het bevoegde gezag kan de betrokkene, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2013-02-09&g=2013-02-09), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
+1. Het bevoegde gezag kan de betrokkene, bedoeld in [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01), verplichten zich bij het gericht zoeken naar en verwerven van passende arbeid planmatig te laten begeleiden en ondersteunen.
 
 2. Het bevoegde gezag verstrekt de betrokkene een tegemoetkoming in de kosten van planmatige begeleiding en ondersteuning bij het gericht zoeken naar en verwerven van passende arbeid.
 
-3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als politieke gezagdrager per jaar genoten bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2013-02-09&g=2013-02-09). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
+3. De tegemoetkoming bedraagt ten hoogste 20% van de laatstelijk als politieke gezagdrager per jaar genoten bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01). De verplichte planmatige begeleiding en ondersteuning, bedoeld in het eerste lid, wordt volledig vergoed.
 
 4. Bij ministeriële regeling worden regels gesteld omtrent:
 
@@ -149,7 +145,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 ##### Artikel 3c
 
-1. Indien de betrokkene een bij of krachtens [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2013-02-09&g=2013-02-09) of [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3b&z=2013-02-09&g=2013-02-09) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit het bevoegde gezag tot gehele of gedeeltelijke inhouding van de uitkering. Het bevoegde gezag is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan betrokkene op grond van dit besluit.
+1. Indien de betrokkene een bij of krachtens [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) of [3b](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3b&z=2015-04-01&g=2015-04-01) geregelde verplichting niet of niet behoorlijk is nagekomen, besluit het bevoegde gezag tot gehele of gedeeltelijke inhouding van de uitkering. Het bevoegde gezag is bevoegd tot verrekening van de inhouding van de uitkering met betalingen aan betrokkene op grond van dit besluit.
 
 2. Bij ministeriële regeling worden regels gesteld met betrekking tot de uitvoering van het eerste lid.
 
@@ -161,15 +157,15 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 3. In afwijking van het tweede lid, worden onkostenvergoedingen, onder welke benaming dan ook, niet gerekend tot de bezoldiging.
 
-4. Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2013-02-09&g=2013-02-09).
+4. Als de bezoldiging van de ambtenaren, bedoeld in [artikel 1, eerste lid, van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=1), wijziging ondergaat, wordt met ingang van de datum waarop die wijziging ingaat de uitkering, bedoeld in het eerste lid, overeenkomstig deze wijziging aangepast, onder nadere vaststelling voor zoveel nodig, van de bedragen, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01).
 
 5. Bij ministeriële regeling, kunnen omtrent de vaststelling van de bezoldiging bedoeld in het tweede lid, en de overeenkomstige wijziging bedoeld in het vierde lid, nadere regels worden gesteld.
 
 ##### Artikel 5
 
-1. Indien de gewezen politieke gezagdrager op de dag waarop de duur van de uitkering eindigt, door ziekten of gebreken ongeschikt is om zijn vroegere functie van politieke gezagdrager te vervullen, wordt de uitkering voor de duur van de ongeschiktheid voortgezet met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=6&z=2013-02-09&g=2013-02-09).
+1. Indien de gewezen politieke gezagdrager op de dag waarop de duur van de uitkering eindigt, door ziekten of gebreken ongeschikt is om zijn vroegere functie van politieke gezagdrager te vervullen, wordt de uitkering voor de duur van de ongeschiktheid voortgezet met inachtneming van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=6&z=2015-04-01&g=2015-04-01).
 
-2. De voortgezette uitkering bedraagt 70% van de bezoldiging bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2013-02-09&g=2013-02-09).
+2. De voortgezette uitkering bedraagt 70% van de bezoldiging bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01).
 
 3. Ter beantwoording van de vraag of sprake is van ongeschiktheid bedoeld in het eerste lid, doet het bevoegde gezag een onderzoek instellen door een door hem aangewezen commissie van geneeskundigen.
 
@@ -179,7 +175,7 @@ Dit besluit is niet van toepassing op een lid van de eilandsraad van een openbaa
 
 2. Een aanvraag bedoeld in het eerste lid, wordt door betrokkene uiterlijk drie maanden voor het einde van de uitkering, respectievelijk het verstrijken van de in het eerste lid bedoelde termijn gedaan.
 
-3. Ter beantwoording van de vraag of sprake is van ongeschiktheid na afloop van een in het eerste lid bedoelde termijn, kan het bevoegde gezag een onderzoek doen instellen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=5&z=2013-02-09&g=2013-02-09).
+3. Ter beantwoording van de vraag of sprake is van ongeschiktheid na afloop van een in het eerste lid bedoelde termijn, kan het bevoegde gezag een onderzoek doen instellen als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=5&z=2015-04-01&g=2015-04-01).
 
 ##### Artikel 7
 
@@ -243,19 +239,19 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 - a. **diensttijd**
 
-- 1°. de tijd gedurende welke de politieke gezagdrager een functie als genoemd in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2013-02-09&g=2013-02-09), heeft vervuld;
+- 1°. de tijd gedurende welke de politieke gezagdrager een functie als genoemd in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), heeft vervuld;
 
-- 2°. de tijd waarin recht bestond op een uitkering ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2013-02-09&g=2013-02-09);
+- 2°. de tijd waarin recht bestond op een uitkering ingevolge [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2015-04-01&g=2015-04-01);
 
-- b. **berekeningsgrondslag:** de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2013-02-09&g=2013-02-09), gerekend over een jaar, die de betrokkene op de dag voorafgaande aan het ontslag in die functie ontving;
+- b. **berekeningsgrondslag:** de bezoldiging, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=4&z=2015-04-01&g=2015-04-01), gerekend over een jaar, die de betrokkene op de dag voorafgaande aan het ontslag in die functie ontving;
 
 - c. **franchise:** 10/7 van de tot een jaarbedrag herleide uitkering van het wettelijk ouderdomspensioen, bedoeld in de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459), zoals deze geldt op de dag waarop het recht op pensioen ingaat. De franchise wordt naar boven afgerond op hele dollars;
 
-- d. **pensioengrondslag:** de berekeningsgrondslag op de dag waarop het recht op pensioen ingaat, zonodig aangepast overeenkomstig de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=14&z=2013-02-09&g=2013-02-09), verminderd met de franchise.
+- d. **pensioengrondslag:** de berekeningsgrondslag op de dag waarop het recht op pensioen ingaat, zonodig aangepast overeenkomstig de bepalingen in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=14&z=2015-04-01&g=2015-04-01), verminderd met de franchise.
 
-2. De tijd bedoeld in het eerste lid, sub a, onderdeel 2, geldt voor de helft van die tijd als diensttijd. Voor zover en voor zolang de uitkering wordt verminderd op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=7&z=2013-02-09&g=2013-02-09) geldt die tijd niet als diensttijd.
+2. De tijd bedoeld in het eerste lid, sub a, onderdeel 2, geldt voor de helft van die tijd als diensttijd. Voor zover en voor zolang de uitkering wordt verminderd op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=7&z=2015-04-01&g=2015-04-01) geldt die tijd niet als diensttijd.
 
-3. Indien de betrokkene meerdere malen in dezelfde categorie als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2013-02-09&g=2013-02-09), een functie als politieke gezagdrager heeft vervuld, geldt voor de toepassing van het eerste lid, sub b, het laatste ontslag in de functie behorend tot die categorie.
+3. Indien de betrokkene meerdere malen in dezelfde categorie als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), een functie als politieke gezagdrager heeft vervuld, geldt voor de toepassing van het eerste lid, sub b, het laatste ontslag in de functie behorend tot die categorie.
 
 ##### Artikel 13
 
@@ -267,7 +263,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 2. Voor de toepassing van het eerste lid, sub b, wordt een resterende diensttijd van minder dan een maand voor een gehele maand gerekend.
 
-3. Het pensioen van de politieke gezagdrager en gewezen politieke gezagdrager die in meerdere categorieën als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2013-02-09&g=2013-02-09), een functie als politieke gezagdrager heeft vervuld, bedraagt de som van de voor ieder van die categorieën afzonderlijk berekende bedragen op basis van de bij de onderscheiden categorieën behorende diensttijd, berekeningsgrondslag en pensioengrondslag.
+3. Het pensioen van de politieke gezagdrager en gewezen politieke gezagdrager die in meerdere categorieën als bedoeld in [artikel 1, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=1&artikel=1&z=2015-04-01&g=2015-04-01), een functie als politieke gezagdrager heeft vervuld, bedraagt de som van de voor ieder van die categorieën afzonderlijk berekende bedragen op basis van de bij de onderscheiden categorieën behorende diensttijd, berekeningsgrondslag en pensioengrondslag.
 
 4. Bij de toepassing van het eerste tot en met derde lid wordt, indien het bedrag van de berekeningsgrondslag kleiner is dan drie keer het bedrag van de franchise en voor zover het die berekeningsgrondslag betreft, het pensioen berekend als percentage van de berekeningsgrondslag waarbij 2,25% als jaarlijks percentage geldt en 52,5% als maximum.
 
@@ -319,7 +315,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 - b. die naar het oordeel van het bevoegde gezag ten gevolge van ziekten of gebreken blijvend buiten staat zijn om met arbeid die voor hun krachten is berekend, eenderde te verdienen van hetgeen lichamelijk en geestelijk gezonde kinderen van gelijke leeftijd in staat zijn met zodanige arbeid te verdienen.
 
-3. Het eerste en tweede lid zijn niet van toepassing op deze kinderen, indien zij zijn geboren, dan wel de pleegouderlijke zorg is begonnen nadat aan de betrokkene ontslag als politieke gezagdrager is verleend. [Artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=15&z=2013-02-09&g=2013-02-09), zijn van overeenkomstige toepassing.
+3. Het eerste en tweede lid zijn niet van toepassing op deze kinderen, indien zij zijn geboren, dan wel de pleegouderlijke zorg is begonnen nadat aan de betrokkene ontslag als politieke gezagdrager is verleend. [Artikel 15, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=15&z=2015-04-01&g=2015-04-01), zijn van overeenkomstige toepassing.
 
 ##### Artikel 18
 
@@ -335,7 +331,7 @@ De uitkering wordt, over een maand berekend, in maandelijkse termijnen betaald.
 
 - a. als politieke gezagdrager vóór het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6), vijf zevende gedeelte van het pensioen waarop die politieke gezagdrager aanspraak zou hebben kunnen maken, indien hij het ambt tot het bereiken van evengenoemde leeftijd zou hebben bekleed;
 
-- b. als gewezen politieke gezagdrager in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop die gewezen politieke gezagdrager recht zou hebben, indien hij tot het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld in de mate waarin deze op grond van het bepaalde in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=12&z=2013-02-09&g=2013-02-09), als diensttijd geldt op de dag van overlijden.
+- b. als gewezen politieke gezagdrager in de periode, waarover hem een uitkering is toegekend, vijf zevende deel van het pensioen waarop die gewezen politieke gezagdrager recht zou hebben, indien hij tot het bereiken van de leeftijd als bedoeld in [artikel 6 van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=6) recht op uitkering zou hebben gehad, met dien verstande, dat voor de berekening van het pensioen de diensttijd wordt doorgeteld in de mate waarin deze op grond van het bepaalde in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=12&z=2015-04-01&g=2015-04-01), als diensttijd geldt op de dag van overlijden.
 
 ##### Artikel 20
 
@@ -355,17 +351,17 @@ Indien een nabestaande hertrouwt, wordt het pensioen van betrokkene opnieuw vast
 
 - a. voor elk kind wiens overlevende ouder aan het overlijden van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager recht op pensioen ontleent, veertien procent;
 
-- b. voor elk ander kind, achtentwintig procent, van het pensioen van de overledene, berekend met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=19&z=2013-02-09&g=2013-02-09).
+- b. voor elk ander kind, achtentwintig procent, van het pensioen van de overledene, berekend met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=19&z=2015-04-01&g=2015-04-01).
 
-2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande die op het tijdstip van het overlijden van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager de pleegouderlijke zorg had van het kind, bedoeld in [artikel 17, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=17&z=2013-02-09&g=2013-02-09).
+2. Voor de toepassing van het eerste lid wordt onder ouder mede begrepen de nabestaande die op het tijdstip van het overlijden van de politieke gezagdrager, gewezen politieke gezagdrager of gepensioneerde politieke gezagdrager de pleegouderlijke zorg had van het kind, bedoeld in [artikel 17, eerste lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=17&z=2015-04-01&g=2015-04-01).
 
 ##### Artikel 23
 
-1. Het wezenpensioen wordt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2013-02-09&g=2013-02-09) herberekend, wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
+1. Het wezenpensioen wordt overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01) herberekend, wanneer het nabestaandenpensioen of het bijzonder nabestaandenpensioen van de ouder wegens diens overlijden is geëindigd.
 
-2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=21&z=2013-02-09&g=2013-02-09) wegens hertrouwen opnieuw wordt vastgesteld, wordt het wezenpensioen bedoeld in [artikel 22, eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2013-02-09&g=2013-02-09), verhoogd met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=19&z=2013-02-09&g=2013-02-09), vóór en na toepassing van artikel 21 zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
+2. Wanneer het nabestaandenpensioen van de ouder krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=21&z=2015-04-01&g=2015-04-01) wegens hertrouwen opnieuw wordt vastgesteld, wordt het wezenpensioen bedoeld in [artikel 22, eerste lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01), verhoogd met een bedrag, dat zich verhoudt tot het bedrag van dat wezenpensioen, zoals het verschil tussen het nabestaandenpensioen bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=19&z=2015-04-01&g=2015-04-01), vóór en na toepassing van artikel 21 zich verhoudt tot dat nabestaandenpensioen vóór die toepassing.
 
-3. Voor de toepassing van dit artikel is [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2013-02-09&g=2013-02-09), van overeenkomstige toepassing.
+3. Voor de toepassing van dit artikel is [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01), van overeenkomstige toepassing.
 
 ##### Artikel 24
 
@@ -403,7 +399,7 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 1. Het bevoegde gezag draagt zorg voor de betaling van de uitkeringen van de politieke gezagdragers.
 
-2. Het bevoegde gezag kan ten aanzien van de pensioenen, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&z=2013-02-09&g=2013-02-09) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&z=2013-02-09&g=2013-02-09), een pensioenfonds machtigen om namens deze dit besluit uit te voeren.
+2. Het bevoegde gezag kan ten aanzien van de pensioenen, bedoeld in de [hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&z=2015-04-01&g=2015-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&z=2015-04-01&g=2015-04-01), een pensioenfonds machtigen om namens deze dit besluit uit te voeren.
 
 3. Bij ministeriële regeling, kunnen over de wijze van uitvoering van het tweede lid nadere regels worden gesteld.
 
@@ -415,7 +411,7 @@ Het tijdelijk pensioen is gelijk aan het pensioen waarop recht zou bestaan indie
 
 ##### Artikel 29
 
-Bij ministeriële regeling, kunnen nadere regels worden gesteld omtrent het toezicht op de uitvoering door de bestuurscolleges van de uitkeringen bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2013-02-09&g=2013-02-09).
+Bij ministeriële regeling, kunnen nadere regels worden gesteld omtrent het toezicht op de uitvoering door de bestuurscolleges van de uitkeringen bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&z=2015-04-01&g=2015-04-01).
 
 ##### Artikel 30
 
@@ -429,13 +425,13 @@ Op de bezoldiging van de politieke gezagdrager en op de uitkering van de gewezen
 
 ##### Artikel 32
 
-De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&z=2013-02-09&g=2013-02-09), die voortvloeien uit de aanspraken die gezaghebbers, eilandgedeputeerden en leden van de eilandsraad van de openbare lichamen op grond van dit besluit hebben, komen ten laste van de begroting van de onderscheiden openbare lichamen.
+De uitkeringen en pensioenen, daaronder begrepen de pensioenen bedoeld in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&z=2015-04-01&g=2015-04-01), die voortvloeien uit de aanspraken die gezaghebbers, eilandgedeputeerden en leden van de eilandsraad van de openbare lichamen op grond van dit besluit hebben, komen ten laste van de begroting van de onderscheiden openbare lichamen.
 
 ##### Artikel 33
 
-1. Indien langer pensioen is betaald dan overeenstemt met de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2013-02-09&g=2013-02-09) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=5&artikel=30&z=2013-02-09&g=2013-02-09), wordt het teveel betaalde teruggevorderd.
+1. Indien langer pensioen is betaald dan overeenstemt met de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=8&z=2015-04-01&g=2015-04-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=5&artikel=30&z=2015-04-01&g=2015-04-01), wordt het teveel betaalde teruggevorderd.
 
-2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=18&z=2013-02-09&g=2013-02-09), is betaald, worden teruggevorderd.
+2. Indien een vermiste in leven blijkt te zijn, kan hetgeen aan tijdelijk pensioen, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=18&z=2015-04-01&g=2015-04-01), is betaald, worden teruggevorderd.
 
 3. De betaling van teruggevorderde bedragen als bedoeld in het eerste en tweede lid, geschiedt binnen de termijnen die het bevoegde gezag vaststelt.
 
@@ -467,11 +463,11 @@ Vervallen
 
 ##### Artikel 37
 
-1. Een ieder die recht heeft op uitkering of pensioen, die niet voldoet aan het bepaalde in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2013-02-09&g=2013-02-09) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2013-02-09&g=2013-02-09), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
+1. Een ieder die recht heeft op uitkering of pensioen, die niet voldoet aan het bepaalde in de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2015-04-01&g=2015-04-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2015-04-01&g=2015-04-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
 
-2. Een ieder die recht heeft op uitkering of pensioen, die ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2013-02-09&g=2013-02-09) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2013-02-09&g=2013-02-09) een inlichting verstrekt waarvan de onjuistheid hem bekend is, wordt gestraft met een hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
+2. Een ieder die recht heeft op uitkering of pensioen, die ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2015-04-01&g=2015-04-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2015-04-01&g=2015-04-01) een inlichting verstrekt waarvan de onjuistheid hem bekend is, wordt gestraft met een hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
 
-3. Een ieder die recht heeft op uitkering of pensioen, die ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2013-02-09&g=2013-02-09) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2013-02-09&g=2013-02-09) een onjuiste inlichting verstrekt met het oogmerk het bevoegde gezag, dan wel het personeel dat namens dit gezag met de uitvoering van dit besluit is belast, te bewegen tot een handeling die door de genoemden zonder die inlichting niet zou zijn verricht, wordt gestraft met een hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
+3. Een ieder die recht heeft op uitkering of pensioen, die ter uitvoering van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=35&z=2015-04-01&g=2015-04-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=36&z=2015-04-01&g=2015-04-01) een onjuiste inlichting verstrekt met het oogmerk het bevoegde gezag, dan wel het personeel dat namens dit gezag met de uitvoering van dit besluit is belast, te bewegen tot een handeling die door de genoemden zonder die inlichting niet zou zijn verricht, wordt gestraft met een hechtenis van ten hoogste een jaar of geldboete van de derde categorie.
 
 4. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen, het in het derde lid strafbaar gestelde feit is een misdrijf.
 
@@ -491,11 +487,11 @@ De volgende artikelen en wetten worden ingetrokken:
 
 ##### Artikel 39
 
-1. Op degene die voorafgaande aan de datum waarop dit besluit in werking treedt tijd heeft doorgebracht als minister, gevolmachtigd minister, staatssecretaris, statenlid of gezaghebber en als zodanig uitzicht of recht heeft op een pensioen op grond van een pensioenregeling, blijft in afwijking van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=7&artikel=37&z=2013-02-09&g=2013-02-09) voor het pensioen die regeling van toepassing.
+1. Op degene die voorafgaande aan de datum waarop dit besluit in werking treedt tijd heeft doorgebracht als minister, gevolmachtigd minister, staatssecretaris, statenlid of gezaghebber en als zodanig uitzicht of recht heeft op een pensioen op grond van een pensioenregeling, blijft in afwijking van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=8&artikel=38&z=2015-04-01&g=2015-04-01) voor het pensioen die regeling van toepassing.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing op de rechten van nabestaanden, wezen en op overigen met recht op pensioen uit hoofde van hun relatie met degenen, bedoeld in het eerste lid.
 
-3. Voor degene die op of na de dag van inwerkingtreding van dit besluit tijd doorbrengt als politieke gezagdrager en aan die tijd uitzicht of recht op pensioen ontleent op grond van een pensioenregeling als bedoeld in het eerste lid, telt die tijd niet mee als diensttijd als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=12&z=2013-02-09&g=2013-02-09) en blijft gedurende die tijd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=6&artikel=31&z=2013-02-09&g=2013-02-09) buiten toepassing.
+3. Voor degene die op of na de dag van inwerkingtreding van dit besluit tijd doorbrengt als politieke gezagdrager en aan die tijd uitzicht of recht op pensioen ontleent op grond van een pensioenregeling als bedoeld in het eerste lid, telt die tijd niet mee als diensttijd als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=12&z=2015-04-01&g=2015-04-01) en blijft gedurende die tijd [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=6&artikel=31&z=2015-04-01&g=2015-04-01) buiten toepassing.
 
 4. In afwijking van de in het eerste lid bedoelde regelingen heeft de weduwe, weduwnaar en wees recht op pensioen indien de politieke gezagsdrager na het bereiken van de zestig jarige leeftijd in het huwelijk is getreden, mits dat huwelijk voorafgaande aan diens ontslag is gesloten.
 
@@ -503,21 +499,21 @@ De volgende artikelen en wetten worden ingetrokken:
 
 1. De gedeputeerden en eilandsraadsleden van de eilandgebieden Bonaire, Saba, Sint Eustatius en Sint Maarten aan wie vóór de datum van inwerkingtreding van dit besluit ontslag is verleend, alsmede de woordvoerders van het voormalige Eilandgebied de Bovenwindse eilanden, als bedoeld in artikel 1, onder II, van de Landsverordening van 21 juli 1980 tot wijziging van de Staatsregeling van de Nederlandse Antillen (P.B. 1980, no. 190), hebben vanaf die datum recht op een pensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
 
-2. Indien de gedeputeerden en eilandsraadsleden, bedoeld in het eerste lid, na de datum van inwerkingtreding van dit besluit in hetzelfde eilandgebied weer als eilandsraadslid respectievelijk gedeputeerde optreden, wordt bij de diensttijd, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=13&z=2013-02-09&g=2013-02-09), meegeteld de diensttijd uit hoofde van het optreden als eilandsraadslid respectievelijk gedeputeerde vóór de datum van inwerkingtreding van dit besluit.
+2. Indien de gedeputeerden en eilandsraadsleden, bedoeld in het eerste lid, na de datum van inwerkingtreding van dit besluit in hetzelfde eilandgebied weer als eilandsraadslid respectievelijk gedeputeerde optreden, wordt bij de diensttijd, bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=3&artikel=13&z=2015-04-01&g=2015-04-01), meegeteld de diensttijd uit hoofde van het optreden als eilandsraadslid respectievelijk gedeputeerde vóór de datum van inwerkingtreding van dit besluit.
 
-3. De nabestaanden, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=15&z=2013-02-09&g=2013-02-09), van een overleden gedeputeerde, eilandsraadslid of woordvoerder, bedoeld in het eerste lid, hebben vanaf het tijdtip van overlijden van betrokkene, doch niet eerder dan de datum van inwerkingtreding van dit besluit, recht op een nabestaandenpensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
+3. De nabestaanden, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=15&z=2015-04-01&g=2015-04-01), van een overleden gedeputeerde, eilandsraadslid of woordvoerder, bedoeld in het eerste lid, hebben vanaf het tijdtip van overlijden van betrokkene, doch niet eerder dan de datum van inwerkingtreding van dit besluit, recht op een nabestaandenpensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
 
 4. De vrouw of man met wie een overleden gedeputeerde, eilandsraadslid of woordvoerder, bedoeld in het eerste lid, gehuwd is geweest, heeft vanaf het tijdstip van overlijden van betrokkene, doch niet eerder dan de datum van inwerkingtreding van dit besluit, recht op een bijzonder nabestaandenpensioen met inachtneming van het bij of krachtens dit besluit bepaalde, mits hij of zij, met inachtneming van het bij of krachtens dit besluit bepaalde, recht op nabestaandenpensioen zou hebben gehad, indien de gedeputeerde, het eilandsraadslid of de woordvoerder zou zijn overleden op de dag waarop het vonnis, waarbij de echtscheiding of de ontbinding van het huwelijk is uitgesproken, in het daartoe krachtens wet ingestelde register.
 
-5. De wezen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2013-02-09&g=2013-02-09), van een overleden gedeputeerde, eilandsraadslid of woordvoerder, bedoeld in het eerste lid, hebben vanaf het tijdstip van overlijden van betrokkene, doch niet eerder dan de datum van inwerkingtreding van dit besluit, recht op een wezenpensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
+5. De wezen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=22&z=2015-04-01&g=2015-04-01), van een overleden gedeputeerde, eilandsraadslid of woordvoerder, bedoeld in het eerste lid, hebben vanaf het tijdstip van overlijden van betrokkene, doch niet eerder dan de datum van inwerkingtreding van dit besluit, recht op een wezenpensioen met inachtneming van het bij of krachtens dit besluit bepaalde.
 
-6. Indien de gedeputeerden, eilandsraadsleden en woordvoerders, bedoeld in het eerste lid, overlijden na de datum van inwerkintreding van dit besluit hebben de personen, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=26&z=2013-02-09&g=2013-02-09), recht op een overlijdensuitkering met inachtneming van het bij of krachtens dit besluit bepaalde.
+6. Indien de gedeputeerden, eilandsraadsleden en woordvoerders, bedoeld in het eerste lid, overlijden na de datum van inwerkintreding van dit besluit hebben de personen, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=4&artikel=26&z=2015-04-01&g=2015-04-01), recht op een overlijdensuitkering met inachtneming van het bij of krachtens dit besluit bepaalde.
 
 ##### Artikel 40a
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid, treden de [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2013-02-09&g=2013-02-09) in werking:
+2. In afwijking van het eerste lid, treden de [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) in werking:
 
 - a. voor de gezaghebber van Bonaire: op het moment dat voor de eerste keer na de inwerkingtreding van de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142) een gezaghebber van Bonaire wordt benoemd of herbenoemd.
 
@@ -525,9 +521,9 @@ De volgende artikelen en wetten worden ingetrokken:
 
 - c. voor de gezaghebber van Saba: op het moment dat voor de eerste keer na de inwerkingtreding van de [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142) een gezaghebber van Saba wordt benoemd of herbenoemd.
 
-3. De [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2013-02-09&g=2013-02-09) zijn niet van toepassing op de leden van de eilandsraden, bedoeld in [artikel 233, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=233).
+3. De [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) zijn niet van toepassing op de leden van de eilandsraden, bedoeld in [artikel 233, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=233).
 
-4. De [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2013-02-09&g=2013-02-09) zijn niet van toepassing op de gedeputeerden, bedoeld in [artikel 234, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=234).
+4. De [artikelen 3a tot en met 3c](https://wetten.overheid.nl/jci1.3:c:BWBR0028554&hoofdstuk=2&artikel=3a&z=2015-04-01&g=2015-04-01) zijn niet van toepassing op de gedeputeerden, bedoeld in [artikel 234, eerste lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=234).
 
 ##### Artikel 40b
 
