@@ -4,7 +4,7 @@ identifier: "BWBR0024139"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-02-05"
-last_updated: "2013-07-01"
+last_updated: "2015-04-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024139"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 10 april 2008, nr. W10.07.0401/III);
 Gezien het nader rapport van Onze Minister van Economische Zaken van 23 juni 2008, nr. WJZ 8056339;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop de Algemene douanewet in werking treedt.
 
 #### § 1. Begripsbepalingen
 
@@ -130,11 +132,13 @@ Bij ministeriële regeling kan Onze Minister om redenen van openbare veiligheid 
 
 - b. indien Onze Minister dit noodzakelijk acht voor de bescherming van de wezenlijke belangen van de nationale veiligheid.
 
+4. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
+
 ##### Artikel 6
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2015-04-01&g=2015-04-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2013-07-01&g=2013-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=5&z=2015-04-01&g=2015-04-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -188,6 +192,8 @@ Het is verboden om de goederen, bedoeld in lijst 2 van onderdeel B van de Bijlag
 
 2. Het eerste lid is niet van toepassing op de uitvoer uit Nederland van militaire goederen als bedoeld in [artikel 3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3).
 
+3. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
+
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 4a
@@ -234,9 +240,9 @@ Onze Minister kan een door hem afgegeven vergunning als bedoeld in artikel 9, tw
 
 ##### Artikel 12
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2013-07-01&g=2013-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2015-04-01&g=2015-04-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2013-07-01&g=2013-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van a[rtikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=11&z=2015-04-01&g=2015-04-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -300,11 +306,13 @@ Vervallen
 
 - b. indien dit noodzakelijk is voor de bescherming van de wezenlijke belangen van de nationale veiligheid.
 
+4. Een vergunning wordt in ieder geval niet verleend voor zover dit voortvloeit uit internationale verplichtingen.
+
 ##### Artikel 19
 
-1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2013-07-01&g=2013-07-01).
+1. Bij ministeriële regeling kan vrijstelling worden verleend van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2015-04-01&g=2015-04-01).
 
-2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2013-07-01&g=2013-07-01).
+2. Onze Minister kan op aanvraag ontheffing verlenen van [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=18&z=2015-04-01&g=2015-04-01).
 
 3. Vrijstellingen en ontheffingen kunnen onder beperkingen worden verleend en er kunnen voorschriften en voorwaarden aan worden verbonden.
 
@@ -402,9 +410,9 @@ Vervallen
 
 ##### Artikel 28
 
-1. Een vergunning als bedoeld in de [artikelen 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4b&z=2013-07-01&g=2013-07-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4c&z=2013-07-01&g=2013-07-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=7&z=2013-07-01&g=2013-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=8&z=2013-07-01&g=2013-07-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=14&z=2013-07-01&g=2013-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=15&z=2013-07-01&g=2013-07-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=21&z=2013-07-01&g=2013-07-01), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=23&z=2013-07-01&g=2013-07-01), kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+1. Een vergunning als bedoeld in de [artikelen 4b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4b&z=2015-04-01&g=2015-04-01), [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=2&artikel=4c&z=2015-04-01&g=2015-04-01), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=7&z=2015-04-01&g=2015-04-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=8&z=2015-04-01&g=2015-04-01), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=14&z=2015-04-01&g=2015-04-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=15&z=2015-04-01&g=2015-04-01), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=21&z=2015-04-01&g=2015-04-01), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=23&z=2015-04-01&g=2015-04-01), kan worden geweigerd, respectievelijk ingetrokken, in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
-2. Een ontheffing als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2013-07-01&g=2013-07-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=12&z=2013-07-01&g=2013-07-01), en [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=19&z=2013-07-01&g=2013-07-01), kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
+2. Een ontheffing als bedoeld in de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=3&artikel=6&z=2015-04-01&g=2015-04-01), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=4&artikel=12&z=2015-04-01&g=2015-04-01), en [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024139&paragraaf=5&artikel=19&z=2015-04-01&g=2015-04-01), kan mede worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
 3. Voordat toepassing wordt gegeven aan het eerste of tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
