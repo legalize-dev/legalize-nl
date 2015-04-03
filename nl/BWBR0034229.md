@@ -4,7 +4,7 @@ identifier: "BWBR0034229"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-04-03"
-last_updated: "2013-11-28"
+last_updated: "2015-04-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034229"
 soort: "zbo"
@@ -64,29 +64,19 @@ Besluit:
 
 ##### Artikel 2. Relatie
 
-Elk door een omroepvereniging te verstrekken voordeel in het kader van ledenwerving en aan bestaande leden dient te zijn gekoppeld aan de identiteit of het media-aanbod van de omroepvereniging.
+Elk door een omroepvereniging te verstrekken voordeel aan bestaande leden dient te zijn gekoppeld aan de identiteit of het media-aanbod van de omroepvereniging.
 
 ##### Artikel 3. Toelaatbaarheid aanbieden en verstrekken ledenvoordeel
 
-Het is omroepverenigingen toegestaan op geld waardeerbare voordelen aan te bieden en te verstrekken aan:
+1. Het is omroepverenigingen toegestaan op geld waardeerbare voordelen aan te bieden en te verstrekken aan bestaande leden, mits de te verstrekken voordelen bescheiden van aard zijn en in ieder geval in redelijke verhouding staan tot de hoogte van de contributie en de duur van het lidmaatschap.
 
-- 1. nieuwe leden in het kader van ledenwerving voor de desbetreffende omroepvereniging, voor zover het voordeel bestaat uit:
-
-- a. een korting op de jaarlijkse kosten van een abonnement op een programmablad van de omroepvereniging, waarbij de waarde van de korting niet meer bedraagt dan de jaarcontributie welke door de betrokken omroepvereniging in rekening is gebracht; dan wel
-
-- b. een korting ter waarde van genoemde jaarcontributie op de prijs van een af te nemen product of andere dienst, niet zijnde het lidmaatschap zelf,
-
-- 2. bestaande leden, mits de te verstrekken voordelen bescheiden van aard zijn en in ieder geval in redelijke verhouding staan tot de hoogte van de contributie en de duur van het lidmaatschap.
-
-- 3. Bij de berekening van de korting of de voordelen bedoeld in dit artikel wordt uitgegaan van de blijkens de inkoopfactuur voor het betrokken geschenk door de omroepvereniging betaalde inkoopprijs met inbegrip van de daarover verschuldigde BTW.
+2. Bij de berekening van de voordelen bedoeld in dit artikel wordt uitgegaan van de blijkens de inkoopfactuur voor het betrokken geschenk door de omroepvereniging betaalde inkoopprijs met inbegrip van de daarover verschuldigde BTW.
 
 ##### Artikel 4. Oproepen in het media-aanbod ten aanzien van ledenvoordelen
 
 1. Het video- en audiogedeelte van het media-aanbod bevat buiten het aanbod dat wordt verzorgd door de Ster, geen oproepen over het verstrekken van op geld waardeerbare voordelen aan bestaande leden.
 
 2. Binnen het tekst- en grafische gedeelte van het media-aanbod zijn oproepen over het verstrekken van op geld waardeerbare voordelen aan bestaande leden toegestaan indien het aandeel van dergelijke oproepen beperkt is in hoeveelheid en duur en niet overheersend is.
-
-3. Op oproepen in het media-aanbod over het verstrekken van op geld waardeerbare voordelen in het kader van ledenwerving is [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034229&artikel=7&z=2013-11-28&g=2013-11-28) van overeenkomstige toepassing.
 
 #### Ledenwerfactiviteiten
 
