@@ -4,7 +4,7 @@ identifier: "BWBR0036494"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-04-08"
-last_updated: "2013-04-15"
+last_updated: "2015-04-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036494"
 soort: "ministeriele-regeling"
@@ -36,7 +36,7 @@ entry_into_force: "2015-04-08"
 ---
 # Besluit van de Minister-President, Minister van Algemene Zaken van 1 april 2015, nr. 3801559, tot instelling van de AZ commissie monitoring VWNW (Instellingsbesluit AZ commissie monitoring VWNW)
 
-Gelet op onderdeel 17 van de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](493339) van 11 april 2013;
+Gelet op onderdeel 17 van de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](onbekend) van 11 april 2013;
 
 Gehoord het Departementaal Georganiseerd Overleg AZ;
 
@@ -54,7 +54,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **DGO AZ:** Departementaal Georganiseerd Overleg bij het ministerie van Algemene Zaken;
 
-- e. **Overeenkomst:** de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](493339);
+- e. **Overeenkomst:** de [Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid](onbekend);
 
 - f. **Besluit:** Besluit van werk naar werk beleid voor de sector Rijk 2013-2015.
 
@@ -64,7 +64,7 @@ Er is een AZ commissie monitoring VWNW.
 
 ##### Artikel 3. Taak
 
-De commissie is belast met het monitoren van de uitvoering van de [overeenkomst](493339) en het besluit voor het departement en daarover tweemaal per jaar (en desgewenst tussentijds) te rapporteren aan het Sectoroverleg Rijk.
+De commissie is belast met het monitoren van de uitvoering van de [overeenkomst](onbekend) en het besluit voor het departement en daarover tweemaal per jaar (en desgewenst tussentijds) te rapporteren aan het Sectoroverleg Rijk.
 
 ##### Artikel 4. Samenstelling
 
