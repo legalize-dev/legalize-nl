@@ -4,7 +4,7 @@ identifier: "BWBR0033761"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-11-14"
-last_updated: "2015-03-24"
+last_updated: "2015-04-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033761"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **algemene opleiding:** een interne of externe opleiding, niet zijnde bedrijfsspecifieke training, teneinde de leerling vakspecifieke beroepsvaardigheden aan te leren;
 
-- –. **arbeidsmarktregio:** een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=1&z=2015-03-24&g=2015-03-24) bij deze regeling;
+- –. **arbeidsmarktregio:** een arbeidsmarktregio die is opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=1&z=2015-04-09&g=2015-04-09) bij deze regeling;
 
 - –. **arbeidsorganisatie:** iedere eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;
 
@@ -62,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **CAO:** een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=1);
 
-- –. **centrale werkgeversorganisatie:** een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=2&z=2015-03-24&g=2015-03-24) bij deze regeling;
+- –. **centrale werkgeversorganisatie:** een organisatie van werkgevers die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=2&z=2015-04-09&g=2015-04-09) bij deze regeling;
 
 - –. **cofinanciering:** het percentage van de kosten in de begroting van het sectorplan dat op grond van deze regeling wordt gesubsidieerd;
 
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **samenwerkingsverband:** een samenwerkingsverband dat ten minste bestaat uit een of meer werkgeversorganisaties en een of meer werknemersorganisaties;
 
-- –. **sector:** een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=3&z=2015-03-24&g=2015-03-24) bij deze regeling;
+- –. **sector:** een sector die is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&bijlage=3&z=2015-04-09&g=2015-04-09) bij deze regeling;
 
 - –. **sectorplan:** een door een hoofdaanvrager namens een samenwerkingsverband ingediend plan met maatregelen voor knelpunten die blijkens een sectoranalyse in de betreffende sector aanwezig zijn;
 
@@ -140,7 +140,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 1.5. Verdeling
 
-1. Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.3&z=2015-03-24&g=2015-03-24).
+1. Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.3&z=2015-04-09&g=2015-04-09).
 
 2. Wanneer de hoofdaanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag tot cofinanciering.
 
@@ -186,7 +186,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 - –. een Kenniscentrum beroepsonderwijs bedrijfsleven.
 
-5. De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2015-03-24&g=2015-03-24).
+5. De hoofdaanvrager toont aan te beschikken over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2015-04-09&g=2015-04-09).
 
 6. Indien de hoofdaanvrager niet beschikt over een eigen vermogen van ten minste 80% van het aangevraagde subsidiebedrag, stelt het samenwerkingsverband zich garant voor een bedrag van ten minste 80% van het aangevraagde subsidiebedrag.
 
@@ -198,11 +198,11 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 ##### Artikel 2.3. De aanvraag
 
-1. Het aangevraagde subsidiebedrag bedraagt ten minste 250.000 EUR, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2015-03-24&g=2015-03-24).
+1. Het aangevraagde subsidiebedrag bedraagt ten minste 250.000 EUR, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2015-04-09&g=2015-04-09).
 
 2. De subsidieaanvraag wordt gedaan middels een door de minister verstrekt elektronisch formulier.
 
-3. De minister kan in afwijking van het tweede lid en [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.4&z=2015-03-24&g=2015-03-24), besluiten een of meer samenwerkingsverbanden aan te wijzen die in de gelegenheid worden gesteld voorafgaand aan het eerste aanvraagtijdvak en zonder gebruikmaking van het elektronisch formulier een aanvraag in te dienen. Dit besluit wordt in de Staatscourant gepubliceerd.
+3. De minister kan in afwijking van het tweede lid en [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.4&z=2015-04-09&g=2015-04-09), besluiten een of meer samenwerkingsverbanden aan te wijzen die in de gelegenheid worden gesteld voorafgaand aan het eerste aanvraagtijdvak en zonder gebruikmaking van het elektronisch formulier een aanvraag in te dienen. Dit besluit wordt in de Staatscourant gepubliceerd.
 
 4. De subsidieaanvraag wordt niet in behandeling genomen indien de hoofdaanvrager in hetzelfde aanvraagtijdvak reeds een aanvraag heeft ingediend met betrekking tot dezelfde sectoren, branches of arbeidsmarktregio’s.
 
@@ -238,7 +238,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid
 
 4. In de beschikking wordt de periode opgenomen waarbinnen de maatregelen waarvoor cofinanciering wordt toegekend worden uitgevoerd. Tevens wordt in de beschikking het maximumbedrag bepaald dat aan subsidie tegemoet kan worden gezien. Bij de bepaling van dit bedrag wordt uitgegaan van het totaal van de kosten van de maatregelen waarvoor cofinanciering wordt aangevraagd, zoals door de hoofdaanvrager geraamd in zijn aanvraag tot cofinanciering, met dien verstande dat bepaalde, in de beschikking te vermelden, maatregelen en kostenposten buiten beschouwing kunnen worden gelaten dan wel op een lager bedrag kunnen worden bepaald, voor zover de desbetreffende uitgaven redelijkerwijs niet noodzakelijk geacht worden voor de uitvoering van het sectorplan, dan wel uit anderen hoofde worden vergoed.
 
-5. In de beschikking worden de prestaties benoemd waarvoor subsidie wordt verleend en waarop de verantwoording en de subsidievaststelling zal plaatsvinden, en wordt aan de hand van het tijdpad, bedoeld in [artikel 2.3, vijfde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.3&z=2015-03-24&g=2015-03-24), aangegeven in welke periode deze prestaties worden behaald en of hiervoor voorschotten worden verleend.
+5. In de beschikking worden de prestaties benoemd waarvoor subsidie wordt verleend en waarop de verantwoording en de subsidievaststelling zal plaatsvinden, en wordt aan de hand van het tijdpad, bedoeld in [artikel 2.3, vijfde lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.3&z=2015-04-09&g=2015-04-09), aangegeven in welke periode deze prestaties worden behaald en of hiervoor voorschotten worden verleend.
 
 6. Aan de beschikking tot verlening van subsidie kunnen nadere verplichtingen worden verbonden.
 
@@ -308,7 +308,7 @@ Voor cofinanciering komen in aanmerking:
 
 - c. kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;
 
-- d. kosten van maatregelen die worden uitgevoerd door aan het sectorplan deelnemende ondernemingen, tenzij het betreft de kosten van maatregelen, genoemd in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.2&z=2015-03-24&g=2015-03-24), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.3&z=2015-03-24&g=2015-03-24), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.4&z=2015-03-24&g=2015-03-24) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.5&z=2015-03-24&g=2015-03-24);
+- d. kosten van maatregelen die worden uitgevoerd door aan het sectorplan deelnemende ondernemingen, tenzij het betreft de kosten van maatregelen, genoemd in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.2&z=2015-04-09&g=2015-04-09), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.3&z=2015-04-09&g=2015-04-09), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.4&z=2015-04-09&g=2015-04-09) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.5&z=2015-04-09&g=2015-04-09);
 
 - e. kosten van maatregelen die de mededinging ongunstig kunnen beïnvloeden.
 
@@ -342,11 +342,11 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 2. De maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag niet meer dan 2 miljoen euro per onderneming per opleidingsproject bedraagt.
 
-3. [Artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2015-03-24&g=2015-03-24), en [artikel 5.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.2&z=2015-03-24&g=2015-03-24), zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van BBL, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.4&z=2015-03-24&g=2015-03-24), een aanvang wordt gemaakt met de uitvoering. In afwijking van [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.5&z=2015-03-24&g=2015-03-24), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronische formulier.
+3. [Artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2015-04-09&g=2015-04-09), en [artikel 5.2, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.2&z=2015-04-09&g=2015-04-09), zijn niet van toepassing indien de maatregelen bestaan uit scholing in de vorm van BBL, mits er binnen twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.4&z=2015-04-09&g=2015-04-09), een aanvang wordt gemaakt met de uitvoering. In afwijking van [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.5&z=2015-04-09&g=2015-04-09), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van alle in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van zesendertig maanden na de datum van die subsidiebeschikking een aanvraag tot subsidievaststelling van het volledige sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronische formulier.
 
-4. In afwijking van het eerste lid en [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.1&z=2015-03-24&g=2015-03-24), bedraagt de subsidie voor een BBL 20% van de subsidiabele kosten, waarbij de subsidiabele kosten uitsluitend bestaan uit de loonkosten gedurende de eerste twee jaren van diegene die de opleiding volgt, waarbij het component brutoloon van de loonkosten dat voor subsidie in aanmerking komt, is gemaximeerd op het voor die persoon geldende wettelijk minimumloon.
+4. In afwijking van het eerste lid en [artikel 5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.1&z=2015-04-09&g=2015-04-09), bedraagt de subsidie voor een BBL 20% van de subsidiabele kosten, waarbij de subsidiabele kosten uitsluitend bestaan uit de loonkosten gedurende de eerste twee jaren van diegene die de opleiding volgt, waarbij het component brutoloon van de loonkosten dat voor subsidie in aanmerking komt, is gemaximeerd op het voor die persoon geldende wettelijk minimumloon.
 
-5. Indien een BBL later aanvangt dan twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.4&z=2015-03-24&g=2015-03-24), en vierentwintig maanden of langer duurt, kan deze BBL voor cofinanciering in aanmerking komen voor de duur van de BBL, doch maximaal voor een periode tot 36 maanden na de datum van de subsidiebeschikking.
+5. Indien een BBL later aanvangt dan twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.4&z=2015-04-09&g=2015-04-09), en vierentwintig maanden of langer duurt, kan deze BBL voor cofinanciering in aanmerking komen voor de duur van de BBL, doch maximaal voor een periode tot 36 maanden na de datum van de subsidiebeschikking.
 
 ##### Artikel 4.4. Maatregelen voor indienstneming van kwetsbare werknemers
 
@@ -356,7 +356,7 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 3. In afwijking van het tweede lid komt de indienstneming van kwetsbare werknemers eveneens voor cofinanciering in aanmerking indien de vacature of de vacatures niet zijn ontstaan door afvloeiingen maar door ontslag op initiatief van de werknemer, handicap, ouderdomspensionering, vermindering van werktijd op initiatief van de werknemer of gewettigd ontslag om dringende redenen.
 
-4. De maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag en het subsidiebedrag dat wordt verleend op grond van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.5&z=2015-03-24&g=2015-03-24) tezamen niet meer dan 5 miljoen euro per onderneming per project bedraagt.
+4. De maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag en het subsidiebedrag dat wordt verleend op grond van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.5&z=2015-04-09&g=2015-04-09) tezamen niet meer dan 5 miljoen euro per onderneming per project bedraagt.
 
 ##### Artikel 4.5. Maatregelen voor indienstneming van werkloze jongeren
 
@@ -368,7 +368,7 @@ Vervallen
 
 1. De subsidie ten behoeve van maatregelen bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
-2. In afwijking van het eerste lid bedraagt de subsidie 100% van de subsidiabele kosten voor de maatregel bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.4&z=2015-03-24&g=2015-03-24).
+2. In afwijking van het eerste lid bedraagt de subsidie 100% van de subsidiabele kosten voor de maatregel bedoeld in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.4&z=2015-04-09&g=2015-04-09).
 
 3. Indien bij het indienen, dan wel bij het controleren van de einddeclaratie blijkt, dat minder dan 60% van de totale subsidiabele kosten, genoemd in de beschikking tot subsidieverlening, is gerealiseerd, wordt het subsidiebedrag op nihil vastgesteld.
 
@@ -406,25 +406,27 @@ Vervallen
 
 1. Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
-2. Voor zover de uitvoering van het sectorplan door toepassing van [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.3&z=2015-03-24&g=2015-03-24), een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
+2. Voor zover de uitvoering van het sectorplan door toepassing van [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2a&z=2015-04-09&g=2015-04-09) of [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.3&z=2015-04-09&g=2015-04-09), een periode beslaat van meer dan 24 maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die 24 maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
 3. De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.
 
-4. Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.3&z=2015-03-24&g=2015-03-24) kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), volgens een door de minister voor te schrijven model.
+4. Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.3&z=2015-04-09&g=2015-04-09) kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), volgens een door de minister voor te schrijven model.
 
 ##### Artikel 5.5. Einddeclaratie en subsidievaststelling
 
-1. De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2015-03-24&g=2015-03-24), een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronisch formulier.
+1. De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2015-04-09&g=2015-04-09), een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronisch formulier.
 
 2. Bij het verzoek tot vaststelling van subsidie wordt een verantwoording inclusief einddeclaratie gevoegd. De hoofdaanvrager verstrekt bij de verantwoording het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt. De verantwoording bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
-3. De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.
+3. Indien de minister toestemming heeft gegeven om een sectorplan te verlengen als bedoeld in [artikel 1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2a&z=2015-04-09&g=2015-04-09), dient de hoofdaanvrager binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van een termijn van dertig maanden na de datum van die subsidiebeschikking, een verzoek tot vaststelling van subsidie van het sectorplan in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde (elektronisch) formulier.
+
+4. De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.
 
 ##### Artikel 5.6. Overhead
 
 1. Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% van een forfaitair bedrag als bedoeld in het vierde lid, voor cofinanciering in aanmerking.
 
-2. Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.4&z=2015-03-24&g=2015-03-24), en de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211).
+2. Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in [artikel 5.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.4&z=2015-04-09&g=2015-04-09), en de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211).
 
 3. De kosten voor overhead worden niet in de begroting bij de aanvraag tot cofinanciering opgenomen doch door de minister vastgesteld op een percentage van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten.
 
@@ -617,6 +619,178 @@ Vereniging VNO-NCW
 Koninklijke Vereniging MKB-Nederland
 
 Vereniging Land- en Tuinbouworganisatie Nederland
+
+## Bijlage 2. Centrale werkgeversorganisaties
+
+Vereniging VNO-NCW
+
+Koninklijke Vereniging MKB-Nederland
+
+Vereniging Land- en Tuinbouworganisatie Nederland
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+##### Artikel 1.2a. Verlenging looptijd sectorplannen
+
+1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2015-04-09&g=2015-04-09), onverminderd van toepassing blijft.
+
+2. Het verzoek, bedoeld in het eerste lid, wordt niet eerder ingediend dan het moment waarop het tussentijds voortgangsverslag, bedoeld in [artikel 5.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.4&z=2015-04-09&g=2015-04-09), is overlegd en niet later dan het moment waarop 24 maanden zijn verstreken na de datum van de subsidiebeschikking.
+
+### Hoofdstuk 2. Subsidieverlening
+
+### Hoofdstuk 3. Subsidiabele kosten en maatregelen
+
+### Hoofdstuk 4. Plannen met uitvoering op ondernemingsniveau
+
+### Hoofdstuk 5. Subsidieverstrekking
+
+### Hoofdstuk 6. Evaluatie
+
+### Hoofdstuk 7. Slotbepalingen
+
+## Bijlage 1. Arbeidsmarktregio’s
+
+Het Uitvoeringsinstituut Werknemersverzekeingen en gemeenten hanteren voor de Nederlandse arbeidsmarkt een indeling in 35 arbeidsmarktregio’s. Per regio is er een centrumgemeente, hieronder aangeduid met *.
+
+### Achterhoek
+
+Aalten | Berkelland | Bronckhorst | Doesburg | *Doetinchem | Montferland | Oost Gelre | Oude IJsselstreek | Winterswijk
+
+### Drechtsteden
+
+Alblasserdam | *Dordrecht| Hendrik-Ido-Ambacht | Papendrecht | Sliedrecht | Zwijndrecht
+
+### Drenthe
+
+Borger-Odoorn | Coevorden | De Wolden | *Emmen | Hoogeveen | Midden-Drenthe
+
+### Flevoland
+
+*Almere | Dronten | Lelystad | Noordoostpolder | Urk
+
+### Food Valley
+
+Barneveld | *Ede | Renswoude | Rhenen | Scherpenzeel | Veenendaal | Wageningen
+
+### Friesland
+
+Achtkarspelen | Ameland | Boarnsterhim | Dantumadiel | Dongeradeel | Ferwerderadiel | Franekeradeel | Gaasterlân-Sleat | Harlingen | Heerenveen | Het Bildt | Kollumerland Ca | *Leeuwarden | Leeuwarderadeel | Lemsterland | Littenseradiel | Menameradiel | Ooststellingwerf | Opsterland | Schiermonnikoog | Skarsterlân | Smallingerland | Súdwest-Fryslân | Terschelling | Tytsjerksteradiel | Vlieland | Weststellingwerf
+
+### Gooi- en Vechstreek
+
+Blaricum | Bussum | Eemnes | *Hilversum | Huizen | Laren | Muiden | Naarden | Weesp | Wijdemeren
+
+### Gorinchem
+
+Giessenlanden | *Gorinchem | Hardinxveld-Giessendam | Leerdam | Lingewaal | Molenwaard | Zederik
+
+### Groningen
+
+Aa en Hunze | Appingedam | Assen | Bedum | Bellingwedde | De Marne | Delfzijl | Eemsmond | *Groningen | Grootegast | Haren | Hoogezand-Sappemeer | Leek | Loppersum | Marum | Menterwolde | Noordenveld | Oldambt | Pekela | Slochteren | Stadskanaal | Ten Boer | Tynaarlo | Veendam | Vlagtwedde | Winsum | Zuidhorn
+
+### Groot-Amsterdam
+
+Aalsmeer | Amstelveen | *Amsterdam | De Ronde Venen | Diemen | Landsmeer | Haarlemmermeer | Ouder-Amstel | Uithoorn
+
+### Haaglanden
+
+Delft | Midden-Delfland | Rijswijk | *’s-Gravenhage | Westland
+
+### Helmond-De Peel
+
+Asten | Deurne | Geldrop-Mierlo | Gemert-Bakel | *Helmond | Laarbeek | Someren
+
+### Holland Rijnland
+
+Alphen aan den Rijn | Boskoop | Hillegom | Kaag en Braassem | Katwijk | *Leiden | Leiderdorp | Lisse | Nieuwkoop | Noordwijk | Noordwijkerhout | Oegstgeest | Rijnwoude | Teylingen | Zoeterwoude
+
+### Ijsselvechtstreek
+
+Dalfsen | Hardenberg | Hattem | Heerde | Kampen | Meppel | Oldebroek | Ommen | Raalte | Staphorst | Steenwijkerland | Westerveld | Zwartewaterland | *Zwolle
+
+### Midden-Brabant
+
+Alphen-Chaam (5130–5131) | Baarle-Nassau | Dongen | Gilze en Rijen | Goirle | Heusden | Hilvarenbeek | Loon op Zand | Oisterwijk | *Tilburg | Waalwijk
+
+### Midden-Gelderland
+
+*Arnhem | Duiven | Lingewaard | Overbetuwe | Renkum | Rheden | Rijnwaarden | Rozendaal | Westervoort | Zevenaar
+
+### Midden-Holland
+
+Bergambacht | Bodegraven-Reeuwijk | *Gouda | Nederlek | Ouderkerk | Schoonhoven | Vlist | Waddinxveen | Zuidplas
+
+### Midden-Limburg
+
+Echt-Susteren | Leudal | Maasgouw | Nederweert | Roerdalen | *Roermond | Weert
+
+### Midden-Utrecht
+
+Bunnik | De Bilt | Houten | IJsselstein | Lopik | Montfoort | Nieuwegein | Oudewater | Stichtse Vecht | *Utrecht | Utrechtse Heuvelrug | Vianen | Wijk bij Duurstede | Woerden | Zeist
+
+### Noord-Holland Noord
+
+*Alkmaar | Bergen NH | Castricum | Den Helder | Drechterland | Enkhuizen | Graft-De Rijp | Heerhugowaard | Heiloo | Hollands Kroon | Hoorn | Koggenland | Langedijk | Medemblik | Opmeer | Schagen | Schermer | Stede Broec | Texel
+
+### Noord-Limburg
+
+Beesel | Bergen LB | Gennep | Horst aan de Maas | Peel en Maas | *Venlo | Venray
+
+### Noordoost-Brabant
+
+Boxmeer | Bernheze | Boekel | Boxtel | Cuijk | Grave | Haaren | Mill en Sint Hubert | *’sHertogenbosch | Landerd | Maasdonk | Oss | Schijndel | Sint Anthonis | Sint-Michielsgestel |Sint-Oedenrode | Uden | Veghel | Vught
+
+### Oost-Utrecht
+
+*Amersfoort | Baarn | Bunschoten | Leusden | Nijkerk | Soest | Woudenberg
+
+### Rijnmond
+
+Albrandswaard | Barendrecht | Bernisse | Binnenmaas | Brielle | Capelle aan den IJssel | Cromstrijen | Goeree-Overflakkee | Hellevoetsluis | Korendijk | Krimpen aan den IJssel | Maassluis | Oud-Beijerland | Ridderkerk | *Rotterdam | Schiedam | Spijkenisse | Strijen | Vlaardingen | Westvoorne
+
+### Rivierenland
+
+Buren | Culemborg | Geldermalsen | Neder-Betuwe | Maasdriel | Neerijnen | *Tiel | West Maas en Waal | Zaltbommel
+
+### Stedendriehoek
+
+*Apeldoorn | Brummen | Deventer | Elburg | Epe | Ermelo | Harderwijk | Lochem | Nunspeet | Olst-Wijhe | Putten | Voorst | Zeewolde | Zutphen
+
+### Twente
+
+Almelo | Borne | Dinkelland | *Enschede | Haaksbergen | Hellendoorn | Hengelo | Hof van Twente | Losser | Oldenzaal | Rijssen-Holten | Tubbergen | Twenterand | Wierden
+
+### West-Brabant
+
+Aalburg | Alphen-Chaam (4855–4861) | Bergen op Zoom | *Breda | Drimmelen | Etten-Leur | Geertruidenberg | Halderberge | Moerdijk | Oosterhout | Roosendaal | Rucphen | Steenbergen | Werkendam | Woensdrecht | Woudrichem | Zundert
+
+### Zaanstreek/Waterland
+
+Beemster | Edam-Volendam | Oostzaan | Purmerend | Waterland | Wormerland | *Zaanstad | Zeevang
+
+### Zeeland
+
+Borsele, *Goes, Hulst, Kapelle, Middelburg, Noord Beveland, Reimerswaal, Schouwen-Duiveland, Sluis, Terneuzen, Tholen, Veere, Vlissingen
+
+### Zuid-Holland Centraal
+
+Lansingerland | Leidschendam-Voorburg | Pijnacker-Nootdorp | Voorschoten | Wassenaar |*Zoetermeer
+
+### Zuid-Gelderland
+
+Beuningen | Druten | Groesbeek | Heumen | Millingen aan de Rijn | Mook en Middelaar | *Nijmegen | Ubbergen | Wijchen
+
+### Zuid-Kennemerland
+
+Beverwijk | Bloemendaal | *Haarlem | Haarlemmerliede Ca | Heemskerk | Heemstede | Uitgeest | Velsen | Zandvoort
+
+### Zuid-Limburg
+
+Beek | Brunssum | Eijsden-Margraten | Gulpen-Wittem | *Heerlen | Kerkrade | Landgraaf | Maastricht | Meerssen | Nuth | Onderbanken | Schinnen | Simpelveld | Sittard-Geleen | Stein | Vaals | Valkenburg aan de Geul | Voerendaal
+
+### Zuidoost-Brabant
+
+Bergeijk | Best | Bladel | Cranendonck | Eersel | *Eindhoven | Heeze-Leende | Nuenen Ca | Oirschot | Reusel-De Mierden | Son en Breugel | Valkenswaard | Veldhoven | Waalre
 
 ## Bijlage 3. Sectorindeling
 
