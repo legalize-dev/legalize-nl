@@ -4,7 +4,7 @@ identifier: "BWBR0022061"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-02-12"
-last_updated: "2014-08-01"
+last_updated: "2015-04-10"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022061"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ Besluit:
 
 ##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
-De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2014-08-01&g=2014-08-01) bij deze regeling.
+De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2015-04-10&g=2015-04-10) bij deze regeling.
 
 ##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
@@ -146,7 +146,7 @@ De volgende regelingen worden ingetrokken:
 
 ##### Artikel 5. De periode 1 augustus 2007 tot en met 31 juli 2008
 
-De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2014-08-01&g=2014-08-01), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2.
+De bepalingen in de regelingen, genoemd in [artikel 4, onder g tot en met w](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=4&z=2015-04-10&g=2015-04-10), blijven voor wat betreft de gemengde leerweg voor de periode 1 augustus 2007 tot en met 31 juli 2008 van toepassing voor de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar en kunnen, door het bevoegd gezag van de school te bepalen, in de plaats treden van de examenprogramma’s genoemd in bijlage 2 bij artikel 2.
 
 ##### Artikel 6. Inwerkingtreding
 
@@ -160,7 +160,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Ligt ter inzage in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2014-08-01&g=2014-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2015-04-10&g=2015-04-10) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -168,7 +168,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 De examenprogramma’s 2.47 techniek-breed, 2.48 ICT-route, 2.49 technologie in de gemengde leerweg, 2.50 intersectoraal, 2.51 sport, dienstverlening en veiligheid en 2.52 lichamelijke opvoeding 2 als genoemd in bijlage 2 zijn voor het eerst van toepassing op leerlingen die in het schooljaar 2008-2009 beginnen met opleidingen in het derde jaar vmbo. Voor de scholen die op basis van de [Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0020469), danwel op basis van de [Beleidsregel LO2 in het vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0020139), reeds zijn gestart met deze examenprogramma’s, zijn deze programma’s ook van toepassing op leerlingen die in het schooljaar 2008–2009 beginnen met opleidingen in het vierde jaar vmbo.
 
-## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2014-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 1. behorende bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=1&z=2016-09-27&g=2015-04-10) van de Regeling examenprogramma’s voortgezet onderwijs
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -344,7 +344,7 @@ Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E.
 
 **Domein E**: Informatievaardigheden
 
-### Latijnse taal en cultuur (LTC)
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -492,7 +492,7 @@ Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoeg
 
 ### Examenprogramma maatschappijleer vwo
 
-### Examenprogramma maatschappijleer vwo
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -501,8 +501,6 @@ Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoeg
 ### Het schoolexamen
 
 ### Het schoolexamen
-
-### De examenstof
 
 ### De examenstof
 
@@ -536,19 +534,21 @@ Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoeg
 
 ### Subdomein D3:. De praktijk van de verzorgingsstaat
 
+### Subdomein D4:. Internationale vergelijking en internationale organisaties
+
 Het eindexamen bestaat uit het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
 Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof. De domeinen A en B behoren altijd tot de examenstof.
 
-### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
+### Subdomein E3:. De praktijk van de pluriforme samenleving
 
 Het schoolexamen heeft betrekking op:
 
 ### Examenprogramma maatschappijleer havo
 
-### Examenprogramma maatschappijleer havo
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -608,7 +608,7 @@ Het schoolexamen heeft betrekking op:
 
 Het eindexamen bestaat uit het schoolexamen.
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein F1:. Kenmerken van het zonnestelsel en het heelal
 
@@ -1320,7 +1320,7 @@ Domein G Maatschappij, chemie en technologie
 
 ### De examenstof
 
-### De examenstof
+### Domein A:. Vaardigheden
 
 ### Algemene vaardigheden (profieloverstijgend niveau)
 
@@ -1800,7 +1800,7 @@ Wat in onderstaande tekst gecursiveerd is, geldt alleen voor het examenprogramma
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het centraal examen
 
@@ -2340,11 +2340,11 @@ Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoeg
 
 ### Domein B:. Praktijk
 
-### Domein B:. Praktijk
+### Domein C:. Oriëntatie op studie en beroep
 
 ### Examenprogramma kunst (muziek) vwo
 
-### Examenprogramma kunst (muziek) vwo
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -2362,8 +2362,6 @@ Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoeg
 
 ### Domein A:. Vaktheorie
 
-### De examenstof
-
 ### Domein A:. Vaktheorie
 
 ### Subdomein A1:. Waarnemen en weten
@@ -2378,9 +2376,11 @@ Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoeg
 
 ### Subdomein B2:. Improviseren en componeren
 
-### Examenprogramma kunst (muziek) havo
+### Domein C:. Oriëntatie op studie en beroep
 
 ### Examenprogramma kunst (muziek) havo
+
+### Het eindexamen
 
 ### Het eindexamen
 
@@ -2398,7 +2398,7 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
-### De examenstof
+### Domein A:. Vaktheorie
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
@@ -2550,7 +2550,7 @@ Het centraal examen is dat van het vak kunst (algemeen).
 
 ### Domein A:. Vaktheorie
 
-### De examenstof
+### Domein A:. Vaktheorie
 
 Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
@@ -2628,7 +2628,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Subdomein A3:. Muziek en cultuur
 
-### Subdomein A3:. Muziek en cultuur
+### Domein B:. Praktijk
 
 ### Subdomein B1:. Zingen en spelen
 
@@ -2852,7 +2852,7 @@ Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende 
 
 ### Het eindexamen
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 ### Het schoolexamen
 
@@ -3552,19 +3552,19 @@ Het eindexamen bestaat uit het schoolexamen.
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
-### Subdomein D4:. Internationale vergelijking en internationale organisaties
-
 ### Domein E:. Pluriforme samenleving
 
 ### Subdomein E1:. Geschiedenis van de pluriforme samenleving
 
-### Subdomein E3:. De praktijk van de pluriforme samenleving
+### Subdomein E2:. Grondrechten die horen bij de pluriforme samenleving
+
+### Subdomein E4:. Internationale vergelijking en internationale organisaties
 
 Het eindexamen bestaat uit het schoolexamen.
 
 Het eindexamen bestaat uit het schoolexamen.
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
@@ -3862,7 +3862,7 @@ Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het b
 
 Het eindexamen bestaat uit het centraal examen en het schoolexamen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.
 
@@ -4206,7 +4206,7 @@ Het centraal examen heeft betrekking op domein A.
 
 ### Subdomein E1:. Toekomstoriëntati**e**
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het examenprogramma bestaat uit de volgende domeinen:
 
@@ -4742,7 +4742,7 @@ Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoeg
 
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
-### Subdomein A3:. Analyseren
+### Domein B:. Praktijk
 
 Het centraal examen heeft betrekking op domein A.
 
@@ -4806,7 +4806,7 @@ Administratie, handel en administratie, handel en verkoop, mode en commercie (me
 
 ² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
-[2] Het CvTE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/5; deze bepaling kan per leerweg verschillen.
+² Het CvE kan bepalen dat het centraal examen geen betrekking heeft op MVT/K/7; deze bepaling kan per leerweg verschillen.
 
 ### 2.7. Arabische taal
 
@@ -5232,7 +5232,7 @@ Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen t
 
 **subdomein 1**: Reflectie op klassieke teksten
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Domein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur
 
@@ -5248,7 +5248,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
-Het eindexamen bestaat uit het schoolexamen.
+Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.
 
@@ -5402,13 +5402,13 @@ Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende 
 
 Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
 Het centraal examen is dat van het vak kunst (algemeen).
 
 Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.
 
-Het eindexamen bestaat uit het centraal examen en het schoolexamen.
+Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:
 
 Het centraal examen is dat van het vak kunst (algemeen).
 
@@ -5732,7 +5732,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het centraal examen heeft betrekking op domein A.
 
-## Bijlage II. behorende bij Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. , behorende bij artikel 2 van de Regeling examenprogramma’s voortgezet onderwijs
 
 ² Het schoolexamen moet in ieder geval bestaan uit 3 exameneenheden naar keuze van de school te maken uit GS/K/4, GS/K/6, GS/K/7, GS/K/8, en GS/K/9.
 
@@ -5890,7 +5890,7 @@ Het examenprogramma bestaat uit de volgende domeinen:
 
 Het schoolexamen heeft betrekking op:
 
-## Bijlage 2. , behorende bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&artikel=2&z=2016-09-27&g=2014-08-01) van de Regeling examenprogramma’s voortgezet onderwijs
+## Bijlage 2. , behorende bij artikel 2 van de Regeling examenprogramma’s voortgezet onderwijs
 
 ¹ De school kan één of meer van de exameneenheden V1 t/m V6 in de Gemengde en Theoretische Leerweg toetsen op het schoolexamen maar is daartoe niet verplicht.
 
@@ -5905,5 +5905,7 @@ De school geeft in een leerplan Techniek Breed aan welke van de niet verplichte 
 Sectordeel Techniek
 
 De school geeft in een leerplan Intersectoraal aan welke van de niet verplichte exameneenheden worden aangeboden en licht deze keuze toe. In het leerplan Intersectoraal vermeldt de school welke eindtermen de school binnen de exameneenheden aanbiedt, welke keuze de kandidaten maken binnen het beschikbare aanbod.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
