@@ -4,7 +4,7 @@ identifier: "BWBR0020326"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-04-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020326"
 soort: "AMvB"
@@ -60,7 +60,7 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - b. instellingen waarvan de werkzaamheden zijn gericht op donatie of transplantatie van weefsel of organen;
 
-- c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
+- c. personen ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of door personen als bedoeld in [artikel 34 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover het betreft werkzaamheden in het kader van hun beroepsuitoefening met uitzondering van bedrijfsgeneeskundige zorg of verzekeringsgeneeskundige zorg, al dan niet onder eigen verantwoordelijkheid uitgevoerd, en die niet zijn begrepen onder [artikel 1, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
 2. Als zorg in de zin van de wet worden tevens aangewezen werkzaamheden in het kader van de verlening van zorg die krachtens [artikel 3, vierde lid, van het Interimbesluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0029333&artikel=3) bij ministeriële regeling als forensische zorg is aangemerkt.
 
@@ -84,9 +84,9 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - d. hulpmiddelenzorg;
 
-- e. vervoer, anders dan ten aanzien waarvan de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) van toepassing is;
+- e. vervoer;
 
-- f. vervoer als bedoeld in [artikel 3.1.1, eerste lid, onderdeel f, van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1);
+- f. vervallen;
 
 - g. woningaanpassingen als bedoeld in [artikel 3.1.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.3);
 
@@ -102,7 +102,15 @@ In dit besluit wordt verstaan onder wet: [Wet marktordening gezondheidszorg](htt
 
 - m. zorg die ten laste van een persoonsgebonden budget als bedoeld in [artikel 3.3.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.3) wordt gefinancierd.
 
-2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien de zorg, bedoeld in het eerste lid onder f en h tot en met l, geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht.
+2. De [artikelen 50 tot en met 56 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) zijn wel van toepassing indien:
+
+- a. de zorg, bedoeld in het eerste lid, onderdeel e en h tot en met l geleverd wordt door of vanwege een instelling in de zin van de [Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) of deel uitmaakt van een prestatie of geheel van prestaties waarvoor een tarief in rekening wordt gebracht; of
+
+- b. het vervoer betreft:
+
+- 1°. bedoeld in [artikel 2.13 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.13); of
+
+- 2°. bedoeld in [artikel 2.14 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.14), van een minderjarige in verband met zorg als bedoeld in [artikel 2.10, tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10).
 
 ##### Artikel 4
 
