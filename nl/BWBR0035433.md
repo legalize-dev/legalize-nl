@@ -4,7 +4,7 @@ identifier: "BWBR0035433"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-31"
-last_updated: "2015-01-01"
+last_updated: "2015-04-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035433"
 soort: "ministeriele-regeling"
@@ -56,9 +56,9 @@ Besluit:
 
 - e. **tweede trimesterbehandeling:** zwangerschapsafbreking na een periode van 12 weken amenorroe;
 
-- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01);
+- f. **consult:** consult, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2015-04-15&g=2015-04-15);
 
-- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2015-01-01&g=2015-01-01);
+- g. **behandeling:** behandeling, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=1&artikel=4&z=2015-04-15&g=2015-04-15);
 
 - h. **jaarrekening:** jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361);
 
@@ -98,23 +98,23 @@ Besluit:
 
 De subsidie bedraagt:
 
-- a. € 96,59 per consult waarna de zwangerschapsafbreking is gestaakt;
+- a. € 97,91 per consult waarna de zwangerschapsafbreking is gestaakt;
 
-- b. € 434,34 per eerste trimesterbehandeling;
+- b. € 439,93 per eerste trimesterbehandeling;
 
-- c. € 549,46 per eerste trimesterbehandeling met diepe sedatie of algehele anesthesie;
+- c. € 556,44 per eerste trimesterbehandeling met diepe sedatie of algehele anesthesie;
 
-- d. € 776,62 per eerste trimesterbehandeling met prostaglandine;
+- d. € 786,28 per eerste trimesterbehandeling met prostaglandine;
 
-- e. € 891,74 per eerste trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine;
+- e. € 902,79 per eerste trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine;
 
-- f. € 652,96 per tweede trimesterbehandeling;
+- f. € 661,63 per tweede trimesterbehandeling;
 
-- g. € 768,08 per tweede trimesterbehandeling met diepe sedatie of algehele anesthesie;
+- g. € 778,15 per tweede trimesterbehandeling met diepe sedatie of algehele anesthesie;
 
-- h. € 995,24 per tweede trimesterbehandeling met prostaglandine;
+- h. € 1007,98 per tweede trimesterbehandeling met prostaglandine;
 
-- i. € 1.110,36 per tweede trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine.
+- i. € 1.124,50 per tweede trimesterbehandeling met zowel diepe sedatie of algehele anesthesie, als prostaglandine.
 
 ##### Artikel 5
 
@@ -182,7 +182,7 @@ De minister bepaalt bij het besluit tot verlening van de subsidie:
 
 1. De minister verleent bij het besluit tot verlening van een subsidie ambtshalve tevens de volgende voorschotten: in januari 8%, februari 8%, maart 8%, april 7%, mei 16%, juni 7%, juli 8%, augustus 8%, september 7%, oktober 8%, november 8% en december 7% van het bedrag van de verleende subsidie.
 
-2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01) is bepaald, kan de minister van het eerste lid afwijken.
+2. Op verzoek van de subsidieontvanger of indien een aanvraag van een subsidie later is ingediend dan in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2015-04-15&g=2015-04-15) is bepaald, kan de minister van het eerste lid afwijken.
 
 ##### Artikel 11
 
@@ -338,9 +338,9 @@ De minister kan bij de verlening van de subsidie verplichtingen opleggen als bed
 
 ##### Artikel 27
 
-1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2015-01-01&g=2015-01-01), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=2&artikel=6&z=2015-04-15&g=2015-04-15), wordt de aanvraag tot verlening van de subsidie voor het jaar 2015 uiterlijk 31 december 2014 ingediend. [Artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2015-04-15&g=2015-04-15), is van overeenkomstige toepassing.
 
-2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2015-01-01&g=2015-01-01), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
+2. In afwijking van [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035433&paragraaf=3&artikel=10&z=2015-04-15&g=2015-04-15), kan de minister na ontvangst van de aanvraag tot verlening van de subsidie voor het jaar 2015 ambtshalve voorschotten verlenen ten behoeve van de maanden januari, februari en maart 2015.
 
 ##### Artikel 28
 
