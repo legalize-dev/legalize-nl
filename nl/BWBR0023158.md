@@ -4,7 +4,7 @@ identifier: "BWBR0023158"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-24"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023158"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ##### Artikel 3. Onverenigbare functies
 
-1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2015-01-01&g=2015-01-01) kan niet tevens zijn:
+1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2015-09-25&g=2015-05-01) kan niet tevens zijn:
 
 - a. werknemer in dienst van de gemeente waarvan de geïndiceerde ingezetene is of lid van het college of van de gemeenteraad van die gemeente;
 
@@ -108,7 +108,7 @@ Het college draagt er zorg voor dat de minister desgevraagd aanvullende informat
 
 ##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
-Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2015-01-01&g=2015-01-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
+Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2015-09-25&g=2015-05-01) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
 ##### Artikel 11. Statistiek sociale werkvoorziening
 
@@ -120,7 +120,7 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 ##### Artikel 12. De bewerker
 
-1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
+1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-09-25&g=2015-05-01), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
 2. De persoonsgegevens worden slechts in opdracht van de minister aan derden verstrekt ten behoeve van onderzoek waarvoor de persoonsgegevens noodzakelijk zijn.
 
@@ -138,15 +138,15 @@ Deze regeling treedt in werking met ingang van 1 januari 2008.
 
 Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2015.
 
-## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-01-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
+## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-01-01&g=2015-05-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
 
 ### Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
-### Toelichting op de Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
+### Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
-### Inleiding
+### Toelichting op de Statistiek [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903)
 
 Met de inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) is de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) afgesloten voor nieuwe instroom. De Wsw-statistiek richt zich met ingang van 1 januari 2015 derhalve op het volgen van het zittend bestand Wsw. Het zittend bestand Wsw bestaat uit die mensen die op 31 december 2014 een dienstbetrekking hadden op grond van de Wsw. De Statistiek Wsw geeft inzicht in de samenstelling van het zittend bestand en de mate waarin het zittend bestand werkzaam is en blijft.
 
@@ -154,49 +154,91 @@ Met de inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.ov
 
 De personen over wie de statistische gegevens worden verstrekt, zijn de personen die na inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) tot de Wsw-doelgroep behoren. Deze personen hebben op 31 december 2014 een dienstbetrekking op basis van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). Voor de onderscheiden groepen uit de doelgroep betekent dit concreet het volgende:
 
-Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
+De personen over wie de statistische gegevens worden verstrekt, zijn de personen die na inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) tot de Wsw-doelgroep behoren. Deze personen hebben op 31 december 2014 een dienstbetrekking op basis van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903). Voor de onderscheiden groepen uit de doelgroep betekent dit concreet het volgende:
 
 Van elke persoon behorende tot het zittend bestand [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) wordt een apart record aangemaakt. Het record bevat de waarden van alle kenmerken die van de betrokkene bekend kunnen zijn.
 
 ### Begin en einde van berichtgeving over een persoon
 
-In overleg met de externe bewerker kan tot een andere wijze van berichtgeving worden besloten (bijvoorbeeld uitsluitend de verstrekking van gegevens over mutaties).
+Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
 
-De berichtgeving wordt in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
+In overleg met de externe bewerker kan tot een andere wijze van berichtgeving worden besloten (bijvoorbeeld uitsluitend de verstrekking van gegevens over mutaties).
 
 De personen waarover in de Wsw-statistiek wordt gerapporteerd zijn die personen die op 31 december 2014 een Wsw-dienstbetrekking dan wel een arbeidsovereenkomst op grond van begeleid werken hebben. Bij het vervallen van de Wsw-indicatie, uitstroom vanwege VUT/pensioen of overlijden van de persoon wordt berichtgeving beëindigd (na de periode waarin de beëindiging is gemeld). De persoon behoort niet meer tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
 ### Wijzigingen van kenmerken en peildatum voor berichtgeving
 
-Als de dienstbetrekking danwel arbeidsovereenkomst wordt beëindigd, wordt bij kenmerk 27 de ontslagreden en bij kenmerk 28 een uitstroombestemming vermeld.
+De berichtgeving wordt dus enkel in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
 
-Als de dienstbetrekking of arbeidsovereenkomst van de betrokkene vanwege verhuizing wordt beëindigd, wordt de berichtgeving niet beëindigd, maar worden de gegevens aangevuld met die over de dienstbetrekking of arbeidsovereenkomst.
+Als de dienstbetrekking danwel arbeidsovereenkomst wordt beëindigd, wordt bij kenmerk 27 de ontslagreden en bij kenmerk 28 een uitstroombestemming vermeld.
 
 ### Aantallen
 
-Deze afzonderlijke berichtgeving houdt in, dat het record van de persoon wordt afgesloten bij de uitstroom uit het werknemersbestand, en dat er een nieuw record wordt aangemaakt voor dezelfde persoon. Op deze manier blijven reeds ingevoerde gegevens (in het ‘oude’ record) over de dienstbetrekking en/of arbeidsovereenkomst van deze persoon bewaard. In het nieuwe record wordt de bestaande informatie overgenomen uit het oude record. Actualisering van de informatie op deze kenmerken vindt vanaf dat moment in het nieuwe record plaats.
+Over dezelfde persoon vindt over een halfjaarsperiode afzonderlijke berichtgeving plaats als sprake is van uitstroom uit het werknemersbestand, direct gevolgd door:
 
 ### Niet van toepassing zijnde gegevens
 
-Het kan voorkomen dat de betrokkene al eerder van werkvorm heeft gewisseld. Wanneer de betrokkene dan opnieuw wisselt, zijn de kenmerken van de nieuwe werkvorm reeds gevuld met ‘oude’ informatie. In dit geval wordt die oude informatie overschreven en vervangen door de actuele.
+N.B.: een overgang naar een andere werkvorm binnen de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (dus een arbeidsovereenkomst na beëindiging van een dienstbetrekking of een dienstbetrekking na beëindiging van een arbeidsovereenkomst) telt niet als uitstroom uit het werknemersbestand. De kenmerken 27 en 28 blijven dan ook met nullen gevuld. De einddatum van de oude werkvorm wordt aangegeven bij het kenmerk 20 (einddatum dienstbetrekking) of 24 (einddatum arbeidsovereenkomst), en de begindatum van de nieuwe werkvorm wordt aangegeven bij het kenmerk 18 (dienstbetrekking) of 23 (arbeidsovereenkomst). Omdat wisseling van werkvorm niet als uitstroom uit het werknemersbestand geldt, wordt geen nieuwe berichtgeving gestart.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
 
 ### Eenheid van berichtgeving
 
-Voor de vermelding van de kenmerken is niet van belang of daarin een wijziging is opgetreden ten opzichte van de voorafgaande halfjaarsperiode. Eerder vermelde gegevens worden derhalve opnieuw verstrekt, ook indien daarin geen wijzigingen zijn opgetreden.
+Van elke persoon behorende tot het zittend bestand [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) wordt een apart record aangemaakt. Het record bevat de waarden van alle kenmerken die van de betrokkene bekend kunnen zijn.
 
 ### Begin en einde van berichtgeving over een persoon
 
-De berichtgeving wordt dus enkel in de volgende gevallen beëindigd (na de periode waarin de beëindiging is gemeld):
+De personen waarover in de Wsw-statistiek wordt gerapporteerd zijn die personen die op 31 december 2014 een Wsw-dienstbetrekking dan wel een arbeidsovereenkomst op grond van begeleid werken hebben. Bij het vervallen van de Wsw-indicatie, uitstroom vanwege VUT/pensioen of overlijden van de persoon wordt berichtgeving beëindigd (na de periode waarin de beëindiging is gemeld). De persoon behoort niet meer tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
-Over dezelfde persoon vindt over een halfjaarsperiode afzonderlijke berichtgeving plaats als sprake is van uitstroom uit het werknemersbestand, direct gevolgd door:
+Als de dienstbetrekking of arbeidsovereenkomst van de betrokkene vanwege verhuizing wordt beëindigd, wordt de berichtgeving niet beëindigd, maar worden de gegevens aangevuld met die over de dienstbetrekking of arbeidsovereenkomst.
 
-N.B.: een overgang naar een andere werkvorm binnen de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (dus een arbeidsovereenkomst na beëindiging van een dienstbetrekking of een dienstbetrekking na beëindiging van een arbeidsovereenkomst) telt niet als uitstroom uit het werknemersbestand. De kenmerken 27 en 28 blijven dan ook met nullen gevuld. De einddatum van de oude werkvorm wordt aangegeven bij het kenmerk 20 (einddatum dienstbetrekking) of 24 (einddatum arbeidsovereenkomst), en de begindatum van de nieuwe werkvorm wordt aangegeven bij het kenmerk 18 (dienstbetrekking) of 23 (arbeidsovereenkomst). Omdat wisseling van werkvorm niet als uitstroom uit het werknemersbestand geldt, wordt geen nieuwe berichtgeving gestart.
+Deze afzonderlijke berichtgeving houdt in, dat het record van de persoon wordt afgesloten bij de uitstroom uit het werknemersbestand, en dat er een nieuw record wordt aangemaakt voor dezelfde persoon. Op deze manier blijven reeds ingevoerde gegevens (in het ‘oude’ record) over de dienstbetrekking en/of arbeidsovereenkomst van deze persoon bewaard. In het nieuwe record wordt de bestaande informatie overgenomen uit het oude record. Actualisering van de informatie op deze kenmerken vindt vanaf dat moment in het nieuwe record plaats.
 
 ### Wijzigingen van kenmerken en peildatum voor berichtgeving
 
 Een nieuw indicatiebesluit leidt tot een actualisering van de gegevens bij het onderdeel besluit/advies. Dit geldt zowel voor een herindicatie van personen zonder diensbetrekking of arbeidsovereenkomst als, voor zover sprake is plaatsing in het werknemersbestand vanaf 1 januari 1998, van personen met een dienstbetrekking of arbeidsovereenkomst.
+
+Een nieuw indicatiebesluit leidt tot een actualisering van de gegevens bij het onderdeel besluit/advies. Dit geldt zowel voor een herindicatie van personen zonder diensbetrekking of arbeidsovereenkomst als, voor zover sprake is plaatsing in het werknemersbestand vanaf 1 januari 1998, van personen met een dienstbetrekking of arbeidsovereenkomst.
+
+### Aantallen
+
+Aantallen worden, waar van toepassing, afgerond op hele eenheden.
+
+### Niet van toepassing zijnde gegevens
+
+Als een gegeven (nog) niet van toepassing is, wordt het met nullen gevuld.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
+
+##### Artikel 12a. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551&wetgeving)
+
+1. De gegevens, bedoeld in [artikel 19 van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=19), betreffen de gegevens die zijn vermeld in de bijlage bij deze regeling met betrekking tot de volgende rubrieken: Besluit/advies indicatie, Wachtlijst, Dienstbetrekking en Arbeidsovereenkomst (begeleid werken) alsmede het burgerservicenummer van de betrokken persoon.
+
+2. Het college verstrekt de gegevens, bedoeld in het eerste lid, aan een daartoe door de minister aangewezen bewerker op een door de bewerker te bepalen wijze.
+
+3. De bewerker, bedoeld in het tweede lid, verwerkt de gegevens op een door de minister te bepalen wijze.
+
+4. De bewerker is gemachtigd de gegevens te verstrekken aan het Uitvoeringsinstituut werknemersverzekeringen op een door de minister, na overleg met het UWV, te bepalen wijze.
+
+5. Als bewerker is aangewezen Panteia.
+
+### Hoofdstuk 5. Slotbepalingen
+
+## Bijlage. behorend bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2015-09-25&g=2015-05-01) van de Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
+
+### Inleiding
+
+Met de inwerkingtreding van de [invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving) is de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) afgesloten voor nieuwe instroom. De Wsw-statistiek richt zich met ingang van 1 januari 2015 derhalve op het volgen van het zittend bestand Wsw. Het zittend bestand Wsw bestaat uit die mensen die op 31 december 2014 een dienstbetrekking hadden op grond van de Wsw. De Statistiek Wsw geeft inzicht in de samenstelling van het zittend bestand en de mate waarin het zittend bestand werkzaam is en blijft.
+
+### Welke personen
+
+### Eenheid van berichtgeving
+
+### Begin en einde van berichtgeving over een persoon
+
+Het kan voorkomen dat de betrokkene al eerder van werkvorm heeft gewisseld. Wanneer de betrokkene dan opnieuw wisselt, zijn de kenmerken van de nieuwe werkvorm reeds gevuld met ‘oude’ informatie. In dit geval wordt die oude informatie overschreven en vervangen door de actuele.
+
+### Wijzigingen van kenmerken en peildatum voor berichtgeving
 
 Bij gegevens waarin zich een wijziging kan voordoen, is de situatie op de laatste dag van het betreffende halfjaar bepalend (c.q. de situatie direct voorafgaand aan uitstroom).
 
