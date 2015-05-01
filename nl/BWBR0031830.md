@@ -4,7 +4,7 @@ identifier: "BWBR0031830"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031830"
 soort: "ministeriele-regeling"
@@ -62,19 +62,19 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Statistiek uitkeringen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2015-09-25&g=2015-05-01) bij deze regeling opgenomen model, gegevens over uitkeringen en over de personen aan wie in de desbetreffende maand een uitkering is verleend, of ten behoeve van wie loonkostensubsidie is verstrekt.
 
 ##### Artikel 3. Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2015-09-25&g=2015-05-01) bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7), en over de personen die van die voorziening feitelijk gebruik hebben gemaakt.
 
 ##### Artikel 4. Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2015-09-25&g=2015-05-01) bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703), de [IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044), de [IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163), de [WIJ](https://wetten.overheid.nl/jci1.3:c:BWBR0026054) en de [WWIK](https://wetten.overheid.nl/jci1.3:c:BWBR0017837) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd.
 
 ##### Artikel 5. Centraal Bureau voor de Statistiek of bewerker
 
-1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-01-01&g=2015-01-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
+1. Het college verstrekt de gegevens, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-09-25&g=2015-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2015-09-25&g=2015-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-09-25&g=2015-05-01), door tussenkomst van het Centraal Bureau voor de Statistiek, waarbij de gegevensverstrekking plaatsvindt op een door de directeur-generaal van de statistiek te bepalen wijze, of door tussenkomst van een door de minister aan te wijzen externe bewerker.
 
 2. Indien een bewerker wordt aangewezen wordt van de aanwijzing van de bewerker mededeling gedaan in de Staatscourant.
 
@@ -82,13 +82,13 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 4. Door de bewerker worden geen persoonsgegevens of verwerkte persoonsgegevens aan derden verstrekt, behoudens in opdracht van de minister.
 
-5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2015-01-01&g=2015-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-01-01&g=2015-01-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
+5. De minister kan persoonsgegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-09-25&g=2015-05-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=3&z=2015-09-25&g=2015-05-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-09-25&g=2015-05-01) die door tussenkomst van een bewerker worden verkregen verstrekken aan het Centraal Bureau voor de Statistiek ten behoeve van het verrichten van statistisch onderzoek.
 
 ##### Artikel 6. Statistieken door SVB
 
-1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2015-01-01&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2015-01-01&g=2015-01-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-01-01&g=2015-01-01).
+1. Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47a) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=1&z=2015-09-25&g=2015-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=3&z=2015-09-25&g=2015-05-01) bij deze regeling opgenomen model, gegevens als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=2&z=2015-09-25&g=2015-05-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=4&z=2015-09-25&g=2015-05-01).
 
-2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2015-01-01&g=2015-01-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
+2. De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2015-09-25&g=2015-05-01), of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.
 
 ##### Artikel 7. Intrekking regeling
 
@@ -103,6 +103,202 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als : Regeling statistiek Participatiewet, IOAW en IOAZ 2015
+
+## Bijlage 1. Overzicht kenmerken bijstandsuitkeringsstatistiek
+
+Hieronder staan de kenmerken in het aan te leveren BUS-bestand beschreven. Bij ieder kenmerk wordt het bereik aangegeven waaraan een waarde van het betreffende kenmerk moet voldoen, indien over het kenmerk informatie is opgenomen in het XML-bestand. Het CBS controleert of de aangeleverde kenmerken binnen het geldige waardenbereik liggen. Daarnaast voert het CBS verschillende controles uit na ontvangst van het BUS-bestand. Een overzicht van een aantal van deze controles is te vinden op de website www.cbs.nl/sz. Deze lijst wordt regelmatig bijgewerkt.
+
+Let op: Met [jjjj] wordt bedoeld de 4-cijferige aanduiding voor het jaar
+
+Met [mm] wordt bedoeld de 2-cijferige aanduiding van de maand
+
+Met [ab] wordt bedoeld: een tekstwaarde van 2 posities
+
+Met [12] wordt bedoeld: een numerieke waarde van 2 posities
+
+Met (abcde) wordt bedoeld: een tekstwaarde van minimaal 1 en maximaal 5 posities
+
+Met ab wordt bedoeld: exact de letters ‘ab’
+
+Met 12 wordt bedoeld: exact de waarde ‘12’
+
+Met [a1234] wordt bedoeld: een plus- of minteken op de eerste positie gevolgd door numerieke waarden op de posities 2 t/m 5
+
+Met [jjjjmmdd] wordt bedoeld: een datumaanduiding waarbij de eerste 4 posities het jaar aanduiden, de 5e en 6e positie de maand, en de 7e en 8e positie de dag van de maand
+
+Met incl. VT en excl. VT wordt bedoeld: het bedrag op te geven inclusief vakantietoeslag of het bedrag op te geven exclusief vakantietoeslag
+
+| **GEGEVENS LEVERING** | **GEGEVENS LEVERING** | **GEGEVENS LEVERING** | **GEGEVENS LEVERING** |
+| --- | --- | --- | --- |
+|   |   |   |   |
+| 1 | STATISTIEKJAAR |   | [jjjj] |
+|   |   |   |   |
+| 2 | STATISTIEKMAAND |   | [mm] |
+|   |   |   |   |
+| 3 | BERICHTGEVERCODE |   | [1234] |
+|   |   |   |   |
+| 4 | GEMEENTECODE |   |   |
+|   | CBS-gemeentecode |   | [1234] |
+|   |   |   |   |
+| 5 | NAAM SOFTWAREPAKKET |   |   |
+|   | CiVision Samenlevingszaken (PinkRoccade) | sam |   |
+|   | GWS4all (Centric) | gws |   |
+|   | Socrates (WiGo4It) | soc |   |
+|   | AIO (Sociale Verzekeringsbank) | aio |   |
+|   | EBB-Rapportage (Horlings & Eerbeek) | ebb |   |
+|   | Central Station (Obec Software Engineering) | cso |   |
+|   | Ander pakket | and |   |
+|   |   |   |   |
+| 6 | RELEASE-/VERSIENUMMER SOFTWAREPAKKET |   | (abcdefghijkl) |
+|   |   |   |   |
+| **GEGEVENS UITKERING** | **GEGEVENS UITKERING** | **GEGEVENS UITKERING** | **GEGEVENS UITKERING** |
+|   |   |   |   |
+| 7 | REGISTRATIENUMMER UITKERING |   | (abcdefghijklmno) |
+|   |   |   |   |
+| 8 | STATISTIEKCODE |   |   |
+|   | algemene bijstand |   | 01 |
+|   | IOAW |   | 02 |
+|   | IOAZ |   | 03 |
+|   | periodiek bijzondere bijstand |   | 11 |
+|   | eenmalig bijzondere bijstand |   | 12 |
+|   | BBZ |   | 14 |
+|   |   |   |   |
+| 9 | NADERE CLASSIFICATIE BBZ |   |   |
+|   | zelfstandige, beginnend |   | 1 |
+|   | zelfstandige, oudere |   | 2 |
+|   | zelfstandige, beëindigende |   | 3 |
+|   | zelfstandige, overig |   | 5 |
+|   |   |   |   |
+| 10 | LEEFVORM |   |   |
+|   | alleenstaande |   | 1 |
+|   | alleenstaande ouder |   | 2 |
+|   | gehuwden en samenwonenden |   | 3 |
+|   | anders |   | 4 |
+|   |   |   |   |
+| 11 | AANTAL KOSTENDELERS |   | [12] |
+|   |   |   |   |
+| 12 | BEDRAG BIJSTANDSNORM/GRONDSLAG (incl. vt) |   | [1234] |
+|   |   |   |   |
+| 13 | BEDRAG VERMINDERING UITKERING N.A.V. AFSTEMMING (incl. vt) |   | [a1234] |
+|   |   |   |   |
+| 14 | BEDRAG INKOMSTEN UITKERING (incl. vt) |   | [a1234] |
+|   |   |   |   |
+| 15 | BETAALBAAR GESTELD BEDRAG UITKERING (excl. vt) |   | [123456] |
+|   |   |   |   |
+| 16 | Datum invoering administratie |   | [jjjjmmdd] |
+|   |   |   |   |
+| 17 | CLUSTER BIJZONDERE BIJSTAND |   |   |
+|   | directe levensbehoeften |   | a |
+|   | voorzieningen voor het huishouden |   | b |
+|   | voorzieningen voor wonen |   | c |
+|   | voorzieningen voor opvang |   | d |
+|   | kosten uit maatschappelijke zorg |   | e |
+|   | financiële transacties |   | f |
+|   | uitstroombevordering |   | g |
+|   | medische dienstverlening |   | h |
+|   | overige kostensoorten |   | i |
+|   | kosten wel in statistiek maar geen bijzondere bijstand |   | j |
+|   | individuele inkomenstoeslag |   | k |
+|   | individuele studietoeslag |   | l |
+|   | collectieve aanvullende zorgverzekering |   | m |
+|   |   |   |   |
+| **GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)** | **GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)** | **GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)** | **GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)** |
+|   |   |   |   |
+| 18 | BURGERSERVICENUMMER |   | [123456789] |
+|   |   |   |   |
+| 19 | GEBOORTEDATUM |   | [jjjjmmdd] |
+|   |   |   |   |
+| 20 | GESLACHT |   |   |
+|   | man |   | 1 |
+|   | vrouw |   | 2 |
+|   |   |   |   |
+| 21 | HUISVESTING |   |   |
+|   | huurder |   | 1 |
+|   | eigenaar |   | 2 |
+|   | inwonend |   | 3 |
+|   | in inrichting |   | 4 |
+|   | adresloos |   | 5 |
+|   | geen vaste woon- of verblijfplaats en niet adresloos |   | 6 |
+|   |   |   |   |
+| 22 | AANVANGSDATUM UITKERING PERSOON |   | [jjjjmmdd] |
+|   |   |   |   |
+| 23 | EINDDATUM UITKERING PERSOON |   | [jjjjmmdd] |
+|   |   |   |   |
+| 24 | ONTHEFFING ARBEIDSVERPLICHTING VAN TOEPASSING |   |   |
+|   | nee |   | 2 |
+|   | ja, artikel 9a, |   | 4 |
+|   | Participatiewet |   | 4 |
+|   | ja, artikel 9, lid 1a, Participatiewet |   | 5 |
+|   |   |   |   |
+|   | ja, artikel 9, lid 5, Participatiewet |   | 6 |
+|   |   |   |   |
+| 25 | EINDDATUM ONTHEFFING |   | [jjjjmmdd] |
+|   |   |   |   |
+| 26 | REDEN BEËINDIGING ONTHEFFING OF OPSCHORTING |   |   |
+|   | beëindiging wegens niet nakomen verplichtingen plan van aanpak |   | 1 |
+|   | beëindiging wegens bereiken maximale termijn ontheffing |   | 2 |
+|   | opschorting wegens bereiken 5-jarige leeftijd jongste kind |   | 3 |
+|   | opschorting op verzoek van de ouder |   | 4 |
+|   | overige reden beëindiging |   | 5 |
+|   |   |   |   |
+| 27 | UITVOERING TEGENPRESTATIE |   |   |
+|   | ja |   | 1 |
+|   | nee |   | 1 |
+|   |   |   |   |
+| 28 | REDEN VERMINDERING N.A.V. AFSTEMMING |   |   |
+|   | op het vlak van plicht tot arbeidsinschakeling |   | 01 |
+|   |   |   |   |
+|   | agressie |   | 03 |
+|   | niet nakomen tegenprestatie |   | 05 |
+|   | niet nakomen verplichtingen plan van aanpak |   | 06 |
+|   | niet (voldoende) zoeken naar werk in zoekperiode van 4 weken |   | 07 |
+|   | niet (voldoende) zoeken naar scholing in zoekperiode van 4 weken |   | 08 |
+|   | oorzaak bij partner |   | 98 |
+|   |   |   |   |
+| 29 | AANVANGSDATUM VERMINDERING |   | [jjjjmmdd] |
+|   |   |   |   |
+| 30 | EINDDATUM VERMINDERING |   | [jjjjmmdd] |
+|   |   |   |   |
+| 31 | SOORT INKOMSTEN |   |   |
+|   | (deeltijd) arbeid in dienstbetrekking |   | 11 |
+|   | vermogensopbrengsten |   | 18 |
+|   | kinderalimentatie |   | 23 |
+|   | partneralimentatie |   | 24 |
+|   | heffingskortingen |   | 31 |
+|   | andere inkomsten |   | 98 |
+|   |   |   |   |
+| 32 | BEDRAG INKOMSTEN PERSOON, incl. vt |   | [a1234] |
+|   |   |   |   |
+| 33 | VRIJLATING INKOMSTEN (per inkomstensoort) |   |   |
+|   | ja |   | 1 |
+|   | nee |   | 2 |
+|   |   |   |   |
+| 34 | REDEN BEËINDIGING UITKERING PERSOON |   |   |
+|   | gaan volgen van onderwijs met studiefinanciering |   | 01 |
+|   | aangaan relatie |   | 02 |
+|   | bereiken AOW-gerechtigde leeftijd |   | 03 |
+|   | overlijden |   | 04 |
+|   | detentie |   | 05 |
+|   | kunnen volgen van onderwijs maar dit niet doen |   | 06 |
+|   | overschrijden maximale verblijfsduur buitenland |   | 07 |
+|   |   |   |   |
+|   | **verkregen inkomsten uit:** |   |   |
+|   | arbeid in dienstbetrekking/uitkering ziekte |   | 11 |
+|   | zelfstandig beroep of bedrijf |   | 13 |
+|   | uitkering werkloosheid |   | 14 |
+|   | uitkering arbeidsongeschiktheid |   | 15 |
+|   | alimentatie |   | 17 |
+|   | vermogensopbrengsten |   | 18 |
+|   | ander inkomen |   | 19 |
+|   |   |   |   |
+|   | **administratieve redenen:** |   |   |
+|   | geen inlichtingen |   | 31 |
+|   | verhuizing naar andere gemeente |   | 32 |
+|   | verhuizing naar buitenland |   | 33 |
+|   | niet verschenen op herhaalde oproep inlichtingenplicht |   | 34 |
+|   | niet verschenen op herhaalde oproep re-integratiegesprek |   | 35 |
+|   | oorzaak bij partner |   | 97 |
+|   | andere oorzaak |   | 98 |
 
 ## Bijlage 1. Overzicht kenmerken bijstandsuitkeringsstatistiek
 
@@ -354,6 +550,14 @@ Met [jjjjmmdd] wordt bedoeld: een volledige datumaanduiding.
 |   | **detentie of zwangerschap** | **3** |
 | **Gegevens loonkostensubsidie** | **Gegevens loonkostensubsidie** | **Gegevens loonkostensubsidie** |
 | 19. | Loonwaarde | [123] |
+
+Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
+
+##### Artikel 6a. Gegevens ten behoeve van de doelgroepregistratie
+
+1. De gegevens, bedoeld in [artikel 3.4, eerste lid, van het Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267&artikel=3.4), betreffen het gegeven of een persoon werkzaam is op een ID-baan of WIW-baan en het burgerservicenummer van de betrokken persoon als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&bijlage=2&z=2015-09-25&g=2015-05-01) bij deze regeling.
+
+2. Het Centraal Bureau voor de Statistiek is gemachtigd de gegevens, bedoeld in het eerste lid, die het verkrijgt op grond van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031830&artikel=5&z=2015-09-25&g=2015-05-01), te verstrekken aan het UWV op een door de minister, na overleg met het Centraal Bureau voor de Statistiek en het UWV, te bepalen wijze.
 
 ## Bijlage 3. : Overzicht kenmerken statistiek vorderingen, boeten en sancties gemeenten
 
