@@ -189,17 +189,3 @@ Bij afwezigheid of verhindering van de directeur SV worden, voor de duur van de 
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 8a
-
-Aan de hoofden van de taakvelden wordt volmacht verleend tot het aangaan van overeenkomsten met een waarde van ten hoogste € 75.000,– per overeenkomst inclusief btw. Dit geldt voor:
-
-- a. het organiseren en accorderen van activiteiten binnen hun eigen taakveld;
-
-- b. het accorderen van het door het eigen taakveld ingediende voorstellen/uitgaven zoals opgenomen in het vastgestelde, danwel gedurende het jaar bijgestelde, bestedingsplan van de directie;
-
-- c. personele ontwikkeling van medewerkers zoals opleidingen en begeleiding.
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
