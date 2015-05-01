@@ -4,7 +4,7 @@ identifier: "BWBR0036097"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036097"
 soort: "ministeriele-regeling"
@@ -50,9 +50,9 @@ In deze regeling wordt verstaan onder besluit: [Besluit doorberekening kosten AC
 
 ##### Artikel 2
 
-1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2015-01-01&g=2015-01-01) bedoelde bedragen.
+1. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2015-05-01&g=2015-05-01) bedoelde bedragen.
 
-2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2015-01-01&g=2015-01-01) bedoelde bedragen.
+2. De bedragen ter vergoeding van de kosten van de beschikkingen, bedoeld in [artikel 4, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=4) zijn de in de [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=2&z=2015-05-01&g=2015-05-01) bedoelde bedragen.
 
 #### § 3. Doorberekening door middel van toerekening
 
@@ -100,7 +100,7 @@ Het bedrag van de omzet, bedoeld in [artikel 12, derde lid, van het besluit](htt
 
 - c. nummers bestemd voor elektronische communicatiediensten voor geautomatiseerde toepassingen.
 
-2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2015-01-01&g=2015-01-01). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
+2. De correctie vindt plaats per nummer, tenzij het gaat om een nummer als bedoeld in de subcategorieën, genoemd in [artikel 3, onderdelen b, e of f](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=3&z=2015-05-01&g=2015-05-01). Alsdan wordt gecorrigeerd per het aantal nummers, genoemd in het desbetreffende onderdeel.
 
 3. De correctie vindt plaats per marktorganisatie, tenzij er sprake is van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b). Alsdan vindt de correctie plaats per groep.
 
@@ -156,7 +156,7 @@ Deze regeling wordt aangehaald als: Regeling doorberekening kosten ACM.
 
 ### B
 
-### C
+### A
 
 ## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01), van de Regeling doorberekening kosten ACM
 
@@ -168,5 +168,59 @@ Deze regeling wordt aangehaald als: Regeling doorberekening kosten ACM.
 | Beschikking als bedoeld in [artikel 40 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40) | € 2.325 |
 | Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
 | Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+Binnen de categorie, genoemd in [artikel 10, tweede lid, onderdeel c, onder 3°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&artikel=10) worden de volgende subcategorieën van diensten van certificatiedienstverleners onderscheiden:
+
+- a. diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950);
+
+- b. diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
+
+##### Artikel 7a
+
+1. De bedragen ter vergoeding van de kosten die met toepassing van [hoofdstuk 3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035712&hoofdstuk=3) door middel van toerekening worden doorberekend, zijn de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=3&z=2015-05-01&g=2015-05-01) bedoelde bedragen.
+
+2. In afwijking van het eerste lid bevat [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&bijlage=1&z=2015-05-01&g=2015-05-01) de bedragen ter vergoeding van de kosten van het toezicht op de naleving van het bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) bepaalde inzake van het gebruik van nummers.
+
+#### § 4. Wijziging van andere regelingen
+
+#### § 5. Slotbepalingen
+
+## Bijlage 1. Behorende bij de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2015-05-01&g=2015-05-01), en [7a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2015-05-01&g=2015-05-01), van de Regeling doorbereking kosten ACM
+
+### B
+
+### C
+
+## Bijlage 2. Behorende bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=2&artikel=2&z=2015-05-01&g=2015-05-01), van de Regeling doorberekening kosten ACM
+
+| Beschikking | Bedrag voor het inwilligen van de aanvraag, het geheel of gedeeltelijk afwijzen ervan of ingeval van intrekking van de aanvraag voordat daarop door de ACM is beslist |
+| --- | --- |
+| Beschikking omtrent de registratie van een certificatiedienstverlener zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) | € 3.030 |
+| Beschikking als bedoeld in [artikel 25 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25) | € 2.325 |
+| Beschikking als bedoeld in [artikel 37 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=37) | € 17.450 |
+| Beschikking als bedoeld in [artikel 40 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=40) | € 2.325 |
+| Beschikking als bedoeld in [artikel 44 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=44) | € 34.900 |
+| Beschikking als bedoeld in [artikel 46 van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=46) | € 2.325 |
+
+## Bijlage 3. behorende bij [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036097&paragraaf=3&artikel=7a&z=2015-05-01&g=2015-05-01), van de Regeling doorberekening kosten ACM
+
+| Categorie | Bedrag ter vergoeding van de kosten van de ACM die met toepassing van hoofdstuk 3 van het besluit door middel van toerekening worden doorberekend |
+| --- | --- |
+| Regionaal netbeheer elektriciteit | 0,0485% van de relevante omzet |
+| Regionaal netbeheer gas | 0,1018% van de relevante omzet |
+| Landelijk netbeheer elektriciteit | € 1.977.495 |
+| Landelijk netbeheer gas | € 2.408.988 |
+| Warmtelevering | 0% van de relevante omzet |
+| Universele postdienst | € 273.995 |
+| Niet-universele postdienst | 0,07422% van de relevante omzet |
+| Openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken en bijbehorende faciliteiten | 0,04053% van de relevante omzet |
+| Diensten van certificatiedienstverleners zonder een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) | € 3,04 per op 1 januari 2015 aan het publiek afgegeven certificaat |
+| Diensten van certificatiedienstverleners met een geldig bewijs van toetsing op grond van het bepaalde bij of krachtens de [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950) | € 1,52 per op 1 januari 2015 aan het publiek afgegeven certificaat |
+| Loodswezen | € 297.611 |
+| Luchtvaart | € 141.633 |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
