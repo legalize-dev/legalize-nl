@@ -4,7 +4,7 @@ identifier: "BWBR0035947"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035947"
 soort: "AMvB"
@@ -62,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen brengt het advies uit, uiterlijk acht weken nadat het een verzoek van het college hiertoe heeft ontvangen.
 
-3. Het college vergoedt aan het Uitvoeringsinstituut werknemersverzekeringen de kosten voor het verrichten van de werkzaamheden, bedoeld in het eerste lid.
+3. Bij ministeriële regeling kunnen regels worden gesteld voor de vergoeding van de kosten van de werkzaamheden, bedoeld in het eerste lid, door het college aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 ##### Artikel 3. Beoordeling
 
-1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2015-01-01&g=2015-01-01), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
+1. In het kader van de werkzaamheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035947&artikel=2&z=2015-05-01&g=2015-05-01), verricht het Uitvoeringsinstituut werknemersverzekeringen onderzoek naar de vraag of de persoon met arbeidsvermogen bij het verrichten van werkzaamheden is aangewezen op:
 
 - a. een of meer technische of organisatorische aanpassingen die niet binnen redelijke grenzen door een werkgever kunnen worden gerealiseerd;
 
