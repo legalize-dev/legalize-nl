@@ -4,7 +4,7 @@ identifier: "BWBR0017240"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-28"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017240"
 soort: "AMvB"
@@ -106,7 +106,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de mogelijkheid, dat de geïndiceerde met de aanpassingen in staat is regelmatig arbeid in de sociale werkvoorziening of begeleid werken te verrichten;
 
-- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2015-01-01&g=2015-01-01);
+- e. de indeling in een arbeidshandicapcategorie als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=4&z=2015-05-01&g=2015-05-01);
 
 - f. de mogelijkheid, dat de geïndiceerde een advies voor begeleid werken kan worden gegeven.
 
@@ -208,9 +208,11 @@ Vervallen
 
 Vervallen
 
-##### Artikel 19. Betaalbaarstelling
+##### Artikel 19. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551)
 
-Vervallen
+1. Het college verstrekt gegevens uit de administratie aangelegd voor uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551) aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover deze noodzakelijk zijn voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.
+
+2. Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen bewerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.
 
 ##### Artikel 20. Opschorting betaalbaarstelling
 
@@ -278,9 +280,13 @@ Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en 
 
 ### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2005-01-01&g=2005-01-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
 
-### ad 4
+### ad 3
 
 ### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2012-07-01&g=2012-07-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
+
+Het kan zijn dat het niet mogelijk is op deze manier de noodzakelijke specifieke aanpassingen te realiseren. Het zal dan gaan om een breed scala van aanpassingen, die praktisch alleen binnen de sociale werkvoorziening kunnen worden gerealiseerd. Hieronder kunnen worden verstaan technische aanpassingen aan de werkplek en werkomgeving die niet door de uitvoeringsinstelling worden vergoed, omdat ze in de gegeven omstandigheid te kostbaar zijn. Ook kan het gaan om aanpassingen die, ongeacht de kosten, alleen al op technische gronden binnen het gewone bedrijf niet goed te realiseren zijn. Andere aanpassingen kunnen op een meer organisatorisch vlak liggen. Hiervoor geldt eveneens dat sommige aanpassingen op dit gebied niet in het gewone bedrijf kunnen worden gerealiseerd, omdat het productieproces een dergelijke aanpassing eenvoudig niet toelaat. Te denken valt hierbij aan een noodzakelijke specifieke vergaande taakdeling in het uitvoerende productiewerk, gelet op de lichamelijke, verstandelijke of psychische beperking van de aanvrager.
+
+Beperkingen hoeven niet per definitie een normale arbeidsparticipatie in de weg te staan. Zo kan bij een relatief geringe beperking en een recent arbeidsverleden de nadruk sterker liggen op de vraag in hoeverre het mogelijk is te werken onder normale omstandigheden, al dan niet met gebruikmaking van aanpassingen van de arbeidsplaats ter compensatie van een substantieel verminderde arbeidsprestatie. Redelijkerwijs geldt hierbij wat gebruikelijk is bij toepassing van voorzieningen op basis van de arbeidsongeschikheidswetten of de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 Het kan zijn dat het niet mogelijk is op deze manier de noodzakelijke specifieke aanpassingen te realiseren. Het zal dan gaan om een breed scala van aanpassingen, die praktisch alleen binnen de sociale werkvoorziening kunnen worden gerealiseerd. Hieronder kunnen worden verstaan technische aanpassingen aan de werkplek en werkomgeving die niet door de uitvoeringsinstelling worden vergoed, omdat ze in de gegeven omstandigheid te kostbaar zijn. Ook kan het gaan om aanpassingen die, ongeacht de kosten, alleen al op technische gronden binnen het gewone bedrijf niet goed te realiseren zijn. Andere aanpassingen kunnen op een meer organisatorisch vlak liggen. Hiervoor geldt eveneens dat sommige aanpassingen op dit gebied niet in het gewone bedrijf kunnen worden gerealiseerd, omdat het productieproces een dergelijke aanpassing eenvoudig niet toelaat. Te denken valt hierbij aan een noodzakelijke specifieke vergaande taakdeling in het uitvoerende productiewerk, gelet op de lichamelijke, verstandelijke of psychische beperking van de aanvrager.
 
@@ -288,17 +294,17 @@ Dergelijke taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorzien
 
 Verder zijn er aanpassingen op het organisatorische gebied denkbaar die in het geheel niet van het gewone bedrijf kunnen worden vereist of gerealiseerd, zoals een permanente specifiek deskundige werkbegeleiding.
 
-Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
-
-Het is voor de toetsbaarheid van de beoordeling van belang dat alle overwegingen die tot het eindoordeel leiden, schriftelijk worden vastgelegd, onder verwijzing naar in het dossier aanwezige bevindingen van eigen of door anderen verricht onderzoek. Het door anderen verricht onderzoek zal door UWV gewogen worden op kwaliteit en onafhankelijkheid.
-
 ### Vraag 1 tot en met 6 (Beoordeling wel of geen doelgroep (boven- en ondergrens))
 
-### ad 1
+### ad 5
 
-Voor het beantwoorden van de eerste vraag moet uitsluitsel worden verkregen op grond van gegevens uit het medische dossier, uit psychologische onderzoeken, uit rapportages van school et cetera, al dan niet nader onderzocht.
+Wanneer wordt geconstateerd dat noodzakelijke aanpassingen redelijkerwijs niet te realiseren zijn buiten het kader van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (i.c. zonder Wsw-subsidie), moet worden vastgesteld of zulks wél mogelijk is binnen de Wsw (in een SW-dienstbetrekking of met Wsw-begeleid werken). De bepaling van wat een redelijke grens is kan niet eenduidig en scherp worden afgebakend. Als richtlijn bij de beoordeling geldt hiervoor twee maal het maximale Wsw-subsidiebedrag per arbeidsplaats van 36 uur bij een eenmalige investering, en een vierde van het maximale Wsw-subsidiebedrag per arbeidsplaats van 36 uur bij structurele kosten.
 
-Naast de beoordeling of eventuele noodzakelijke aanpassingen binnen de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) kunnen worden gerealiseerd, wordt beoordeeld of de aanvrager in voldoende mate in staat is binnen de Wsw te functioneren.
+Verder moet de aanvrager tenminste in staat worden geacht te kunnen functioneren op een rustige plek in een kleine industriële afdeling, kantoor of buitenobject; enig contact met collega’s zal daarbij niet uitgesloten zijn. Voor een redelijke grens van aanpassing van de werktijd geldt een maximale reductie tot een dagdeel per werkdag. Diegenen voor wie de noodzakelijke aanpassingen redelijkerwijs niet gerealiseerd kunnen worden binnen de sociale werkvoorziening worden geacht tot de doelgroep van een voorziening voor ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang) te behoren. Deze aanvragers zullen via de gemeenten voor die indicatieprocedure kunnen worden aangemeld.
+
+Vergaande taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorziening, waarbij de toelaatbare limiet is het verrichten van de eenvoudigste functies. De noodzaak tot uitsplitsing kan immers niet zodanig zijn dat het vervullen van de allereenvoudigste functies het vermogen van de aanvrager te boven gaat. Een functioneringsniveau, waarbij de aanvrager aangewezen is op intensievere begeleiding dan hierboven aangegeven, minder dan een uur aaneengesloten kan werken, of slechts een prestatie kan leveren van minder dan 15 procent, wordt beschouwd als niet (meer) passend binnen een arbeidsorganisatie/SW-bedrijf. Ook hierbij geldt dat het percentage van 15 procent een richtlijn is. Diegenen, die conform bovenstaande criteria niet tot regelmatige arbeid in staat zijn vanwege de aard van hun beperkingen, behoren tot de doelgroep van de ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang). Zij worden beschouwd als niet (meer) passend binnen een arbeidsorganisatie.
+
+### Vraag 7 en 8 (Beoordeling handicapcategorie)
 
 Vergaande taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorziening, waarbij de toelaatbare limiet is het verrichten van de eenvoudigste functies. De noodzaak tot uitsplitsing kan immers niet zodanig zijn dat het vervullen van de allereenvoudigste functies het vermogen van de aanvrager te boven gaat. Een functioneringsniveau, waarbij de aanvrager aangewezen is op intensievere begeleiding dan hierboven aangegeven, minder dan een uur aaneengesloten kan werken, of slechts een prestatie kan leveren van minder dan 15 procent, wordt beschouwd als niet (meer) passend binnen een arbeidsorganisatie/SW-bedrijf. Ook hierbij geldt dat het percentage van 15 procent een richtlijn is. Diegenen, die conform bovenstaande criteria niet tot regelmatige arbeid in staat zijn vanwege de aard van hun beperkingen, behoren tot de doelgroep van de ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang). Zij worden beschouwd als niet (meer) passend binnen een arbeidsorganisatie.
 
@@ -310,33 +316,29 @@ De handicapcategorie wordt vastgesteld op basis van twee factoren: de mate van v
 
 Voor het bepalen van de (niet)vérstrekkendheid van de noodzakelijke aanpassingen gelden de volgende richtlijnen:
 
-### ad 3
+Als niet vérstrekkend worden gezien:
 
 Als vérstrekkend worden gezien:
 
-Het kan zijn dat het niet mogelijk is op deze manier de noodzakelijke specifieke aanpassingen te realiseren. Het zal dan gaan om een breed scala van aanpassingen, die praktisch alleen binnen de sociale werkvoorziening kunnen worden gerealiseerd. Hieronder kunnen worden verstaan technische aanpassingen aan de werkplek en werkomgeving die niet door de uitvoeringsinstelling worden vergoed, omdat ze in de gegeven omstandigheid te kostbaar zijn. Ook kan het gaan om aanpassingen die, ongeacht de kosten, alleen al op technische gronden binnen het gewone bedrijf niet goed te realiseren zijn. Andere aanpassingen kunnen op een meer organisatorisch vlak liggen. Hiervoor geldt eveneens dat sommige aanpassingen op dit gebied niet in het gewone bedrijf kunnen worden gerealiseerd, omdat het productieproces een dergelijke aanpassing eenvoudig niet toelaat. Te denken valt hierbij aan een noodzakelijke specifieke vergaande taakdeling in het uitvoerende productiewerk, gelet op de lichamelijke, verstandelijke of psychische beperking van de aanvrager.
+In geval van twijfel over het prestatieplafond zullen de uitkomsten uit arbeidskundig testonderzoek en/of arbeidssimulatie duidelijkheid kunnen verschaffen. De uiteindelijke feitelijke arbeidsprestatie, die sterk mede afhankelijk is van buiten de persoon gelegen factoren, wordt niet als criterium beschouwd.
 
 Op basis van het beargumenteerd oordeel worden de prestatiemogelijkheden (het «prestatieplafond») vastgesteld. Hierbij wordt uitgegaan van de geïndiceerde aangepaste omstandigheden of eventuele verlaagde eisen met betrekking tot het werktempo. Dergelijke aangepaste eisen kunnen worden gezien als een noodzakelijke aanpassingsmaatregel, die al dan niet op een werkplek gerealiseerd kan worden. Een dergelijke maatregel zal een verminderde individuele prestatie per gewerkt uur tot gevolg hebben. Niet bij elke taak of functie zal een dergelijke aanpassing mogelijk zijn, ongeacht de eventuele financiële compensatie voor de resulterende verminderde prestatie.
 
-In geval van twijfel over het prestatieplafond zullen de uitkomsten uit arbeidskundig testonderzoek en/of arbeidssimulatie duidelijkheid kunnen verschaffen. De uiteindelijke feitelijke arbeidsprestatie, die sterk mede afhankelijk is van buiten de persoon gelegen factoren, wordt niet als criterium beschouwd.
+### Vraag 9 en 10 (Begeleid werken)
 
 Van personen met een matig verstandelijke handicap mag worden aangenomen dat zij niet in staat zijn tot het leveren van een prestatie van 50 procent of meer. Dit geldt eveneens voor personen met een ernstig psychische handicap.
 
-### Vraag 9 en 10 (Begeleid werken)
+Nadat onder punt 5 van het beslisschema is vastgesteld dat het totaal van de onder punt 3 van het beslisschema genoemde aanpassingen binnen redelijke grenzen binnen het kader van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) te realiseren zijn, zal moeten worden nagegaan of dit mogelijk is bij een reguliere werkgever.
 
-Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
+### ad 9
 
 Nadat onder punt 5 van het beslisschema is vastgesteld dat het totaal van de onder punt 3 van het beslisschema genoemde aanpassingen binnen redelijke grenzen binnen het kader van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) te realiseren zijn, zal moeten worden nagegaan of dit mogelijk is bij een reguliere werkgever.
 
-### ad 6
+Omdat de werksetting in de begeleid werkenomgeving over het algemeen vooraf niet bekend zal zijn, zal de toetsing van deze punten marginaal zijn, in die zin dat uitsluitend aanpassingen een positieve indicatie in de weg zullen staan, die met grote waarschijnlijkheid nergens buiten de sociale werkvoorziening gerealiseerd (kunnen) worden. Dat in de praktijk de noodzaak tot het voorzien in aanpassingen het vinden van een begeleid werkenarbeidsplaats zou kunnen bemoeilijken, is geen reden om de aanvrager een dergelijke optie te onthouden. Aanpassingen op het punt van speciale werkbegeleiding en van werktempo worden door het begeleid werken op grond van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008114&artikel=7) zelf mogelijk gemaakt, door middel van subsidie voor de werkgever om te voorzien in deskundige begeleiding op de werkplek en in compensatie van de verminderde productiviteit van de aanvrager ten gevolge van diens beperkingen.
 
-Verder moet de aanvrager tenminste in staat worden geacht te kunnen functioneren op een rustige plek in een kleine industriële afdeling, kantoor of buitenobject; enig contact met collega’s zal daarbij niet uitgesloten zijn. Voor een redelijke grens van aanpassing van de werktijd geldt een maximale reductie tot een dagdeel per werkdag. Diegenen voor wie de noodzakelijke aanpassingen redelijkerwijs niet gerealiseerd kunnen worden binnen de sociale werkvoorziening worden geacht tot de doelgroep van een voorziening voor ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang) te behoren. Deze aanvragers zullen via de gemeenten voor die indicatieprocedure kunnen worden aangemeld.
+### ad 10
 
 Bij de beslissing of de aanvrager wel of niet tot de Wsw-doelgroep behoort is in stap zes van de beslistabel al vastgesteld dat de noodzakelijke persoonlijke werkbegeleiding voor de aanvrager gelimiteerd kan blijven tot gemiddeld maximaal 15 procent van de werktijd.
-
-### Vraag 7 en 8 (Beoordeling handicapcategorie)
-
-Vergaande taakdelingen zijn in beginsel wel mogelijk in de sociale werkvoorziening, waarbij de toelaatbare limiet is het verrichten van de eenvoudigste functies. De noodzaak tot uitsplitsing kan immers niet zodanig zijn dat het vervullen van de allereenvoudigste functies het vermogen van de aanvrager te boven gaat. Een functioneringsniveau, waarbij de aanvrager aangewezen is op intensievere begeleiding dan hierboven aangegeven, minder dan een uur aaneengesloten kan werken, of slechts een prestatie kan leveren van minder dan 15 procent, wordt beschouwd als niet (meer) passend binnen een arbeidsorganisatie/SW-bedrijf. Ook hierbij geldt dat het percentage van 15 procent een richtlijn is. Diegenen, die conform bovenstaande criteria niet tot regelmatige arbeid in staat zijn vanwege de aard van hun beperkingen, behoren tot de doelgroep van de ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang). Zij worden beschouwd als niet (meer) passend binnen een arbeidsorganisatie.
 
 ### Vraag 7 en 8 (Beoordeling handicapcategorie)
 
@@ -410,11 +412,11 @@ B voor het aantal geïndiceerde inwoners van alle gemeenten samen dat een dienst
 
 ## Bijlage
 
-### TOELICHTING
+### ad 4
 
 ### Algemeen
 
-Wanneer wordt geconstateerd dat noodzakelijke aanpassingen redelijkerwijs niet te realiseren zijn buiten het kader van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) (i.c. zonder Wsw-subsidie), moet worden vastgesteld of zulks wél mogelijk is binnen de Wsw (in een SW-dienstbetrekking of met Wsw-begeleid werken). De bepaling van wat een redelijke grens is kan niet eenduidig en scherp worden afgebakend. Als richtlijn bij de beoordeling geldt hiervoor twee maal het maximale Wsw-subsidiebedrag per arbeidsplaats van 36 uur bij een eenmalige investering, en een vierde van het maximale Wsw-subsidiebedrag per arbeidsplaats van 36 uur bij structurele kosten.
+Diegenen, die tot arbeid in staat zijn en voor wie de noodzakelijke aanpassingen over het algemeen gerealiseerd kunnen worden in een overigens normale arbeidsomgeving, worden geacht tot de reïntegratiedoelgroep van gemeente of UWV te behoren. Deze groep komt in aanmerking voor een door UWV op te stellen reïntegratieadvies.
 
 Verder moet de aanvrager tenminste in staat worden geacht te kunnen functioneren op een rustige plek in een kleine industriële afdeling, kantoor of buitenobject; enig contact met collega’s zal daarbij niet uitgesloten zijn. Voor een redelijke grens van aanpassing van de werktijd geldt een maximale reductie tot een dagdeel per werkdag. Diegenen voor wie de noodzakelijke aanpassingen redelijkerwijs niet gerealiseerd kunnen worden binnen de sociale werkvoorziening worden geacht tot de doelgroep van een voorziening voor ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang) te behoren. Deze aanvragers zullen via de gemeenten voor die indicatieprocedure kunnen worden aangemeld.
 
@@ -422,13 +424,13 @@ Verder moet de aanvrager tenminste in staat worden geacht te kunnen functioneren
 
 ### ad 1
 
-In het dossier moeten de beperkingen van lichamelijke, verstandelijke of psychische aard met name zijn genoemd en welomschreven. Daarnaast moeten deze zijn weergegeven in termen en codes zoals gekwalificeerd in de Nederlandse vertaling van de International Classification of Functioning, Disability and Health (ICF) van de Wereld Gezondheidsorganisatie (WHO) en gespecificeerd in de hoofdstukken 1 t/m 8 van de classificaties van Functies en Anatomische eigenschappen van de ICF, zoals deze luiden op 1 januari 2008.
+Naast de beoordeling of eventuele noodzakelijke aanpassingen binnen de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) kunnen worden gerealiseerd, wordt beoordeeld of de aanvrager in voldoende mate in staat is binnen de Wsw te functioneren.
 
 ### ad 8
 
-Verder zijn er aanpassingen op het organisatorische gebied denkbaar die in het geheel niet van het gewone bedrijf kunnen worden vereist of gerealiseerd, zoals een permanente specifiek deskundige werkbegeleiding.
+In geval van twijfel over het prestatieplafond zullen de uitkomsten uit arbeidskundig testonderzoek en/of arbeidssimulatie duidelijkheid kunnen verschaffen. De uiteindelijke feitelijke arbeidsprestatie, die sterk mede afhankelijk is van buiten de persoon gelegen factoren, wordt niet als criterium beschouwd.
 
-### ad 5
+### Vraag 9 en 10 (Begeleid werken)
 
 Omdat de werksetting in de begeleid werkenomgeving over het algemeen vooraf niet bekend zal zijn, zal de toetsing van deze punten marginaal zijn, in die zin dat uitsluitend aanpassingen een positieve indicatie in de weg zullen staan, die met grote waarschijnlijkheid nergens buiten de sociale werkvoorziening gerealiseerd (kunnen) worden. Dat in de praktijk de noodzaak tot het voorzien in aanpassingen het vinden van een begeleid werkenarbeidsplaats zou kunnen bemoeilijken, is geen reden om de aanvrager een dergelijke optie te onthouden. Aanpassingen op het punt van speciale werkbegeleiding en van werktempo worden door het begeleid werken op grond van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008114&artikel=7) zelf mogelijk gemaakt, door middel van subsidie voor de werkgever om te voorzien in deskundige begeleiding op de werkplek en in compensatie van de verminderde productiviteit van de aanvrager ten gevolge van diens beperkingen.
 
@@ -470,17 +472,17 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### TOELICHTING
 
-### Algemeen
+### Beslisschema behorende bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=3&z=2015-05-01&g=2015-05-01) van het Besluit uitvoering sociale werkvoorziening en begeleid werken
+
+Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de Wsw. UWV neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat UWV bij de indicatiestelling afgeeft.
+
+Het komen tot een indicatiestelling van het behoren tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de arbeidshandicapcategorie en het begeleid werkenadvies is een proces dat geordend kan worden in een aantal te onderscheiden of opeenvolgende beslissingen. Voor de helderheid en de toetsbaarheid van de gedachtegang zijn deze te nemen beslissingen geformuleerd als opeenvolgende ja/nee keuzes, hoewel het gaat om oordelen die in de praktijk in samenhang gevormd zullen worden.
 
 Het werken met beslisschema’s in het kader van de indicatiestelling [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) is een goed functionerende methode sinds de invoering van de Wsw. UWV neemt deze methode van de gemeenten over. Van de gelegenheid is gebruik gemaakt de voorheen bestaande beslistabellen «behoren tot de doelgroep», «indeling in arbeidshandicapcategorie» en «geïndiceerd voor begeleid werken» te incorporeren. De belistabel «geïndiceerd voor scholing» is vervallen nu dat geen onderdeel meer uitmaakt van het advies dat UWV bij de indicatiestelling afgeeft.
 
 Het komen tot een indicatiestelling van het behoren tot de doelgroep van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), de arbeidshandicapcategorie en het begeleid werkenadvies is een proces dat geordend kan worden in een aantal te onderscheiden of opeenvolgende beslissingen. Voor de helderheid en de toetsbaarheid van de gedachtegang zijn deze te nemen beslissingen geformuleerd als opeenvolgende ja/nee keuzes, hoewel het gaat om oordelen die in de praktijk in samenhang gevormd zullen worden.
 
 Het is voor de toetsbaarheid van de beoordeling van belang dat alle overwegingen die tot het eindoordeel leiden, schriftelijk worden vastgelegd, onder verwijzing naar in het dossier aanwezige bevindingen van eigen of door anderen verricht onderzoek. Het door anderen verricht onderzoek zal door UWV gewogen worden op kwaliteit en onafhankelijkheid.
-
-De meningsvorming door de betrokken deskundige(n) zal niet altijd tot stand komen op grond van uitsluitend overduidelijke, doorslaggevende feiten. Soms zal het eindoordeel het resultaat zijn van afwegingen en taxaties. Hierom ook kan de indicatiestelling niet zonder meer gereduceerd worden tot een louter administratieve afhandeling.
-
-Een precieze aanduiding van de noodzakelijke aanpassingen en van de beperkingen waarmee rekening moet worden gehouden, kan uiteraard pas gegeven worden na een functiegericht onderzoek bij de feitelijke plaatsing. Deze precieze aanduiding maakt daarom geen onderdeel uit van de indicatiestelling, maar zal door de gemeente, als verantwoordelijke voor de uitvoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) bij de voorbereiding van de plaatsing van geïndiceerde worden vastgesteld.
 
 ### Vraag 1 tot en met 6 (Beoordeling wel of geen doelgroep (boven- en ondergrens))
 
@@ -490,17 +492,17 @@ Voor het beantwoorden van de eerste vraag moet uitsluitsel worden verkregen op g
 
 In het dossier moeten de beperkingen van lichamelijke, verstandelijke of psychische aard met name zijn genoemd en welomschreven. Daarnaast moeten deze zijn weergegeven in termen en codes zoals gekwalificeerd in de Nederlandse vertaling van de International Classification of Functioning, Disability and Health (ICF) van de Wereld Gezondheidsorganisatie (WHO) en gespecificeerd in de hoofdstukken 1 t/m 8 van de classificaties van Functies en Anatomische eigenschappen van de ICF, zoals deze luiden op 1 januari 2008.
 
+Voor het beantwoorden van de eerste vraag moet uitsluitsel worden verkregen op grond van gegevens uit het medische dossier, uit psychologische onderzoeken, uit rapportages van school et cetera, al dan niet nader onderzocht.
+
+### ad 2
+
 Het kan voorkomen dat in medische dossiers niet de internationale codeclassificatie is opgenomen. Om te voorkomen dat UWV alleen voor het verkrijgen van de juiste code een arts moet inschakelen, kan UWV daarvan afzien. Voorwaarde is wel dat overduidelijk moet zijn dat de verkregen informatie op zich voldoende is om tot een besluit te komen.
 
 ### ad 2
 
 Bij het beantwoorden van de tweede vraag gaat het meer in het bijzonder in hoeverre de geconstateerde beperkingen – afzonderlijk, dan wel in samenhang gezien – het functioneren van de aanvrager in een normale arbeidsomgeving in de weg staan. Hierbij moet UWV rekening houden met hetgeen voor de aanvrager als passende arbeid kan worden beschouwd. Over het algemeen kan worden gesteld dat lichamelijke, verstandelijke of psychische beperkingen – strikt genomen – gezien moeten worden in het licht van feitelijk te verrichten activiteiten, om te kunnen beoordelen of er sprake is van een handicap. Daarbij moet dan bovendien in beschouwing worden genomen in hoeverre er compensatiemogelijkheden zijn, bij de persoon zelf of met behulp van aanpassingen en hulpmiddelen in de omgeving. In extremo kan dit inhouden dat een vergaand of volledig verlies van doorgaans onmisbare lichamelijke functies in sommige gevallen óf geen rol van betekenis speelt bij bepaalde activiteiten, óf nagenoeg geheel gecompenseerd kan worden door technische of personele voorzieningen of door buitengewone vaardigheden van de persoon. Het kan echter ook zo zijn dat forse fysieke beperkingen bij anderen op voorhand een onmiskenbare handicap betekenen in vele situaties, zeker als de verstandelijke capaciteiten en de psychische gesteldheid geen beduidend tegenwicht bieden. Evenzo zullen aanmerkelijke verstandelijke of psychische beperkingen in veel omstandigheden een niet te miskennen handicap zijn, die een als normaal geaccepteerd functioneren in de weg staan. In het bijzonder kan het samengaan van meerdere beperkingen leiden tot een beduidende handicap in uiteenlopende situaties, zelfs als deze beperkingen afzonderlijk mogelijk relatief mild zijn.
 
-### ad 3
-
 Wanneer de aanvrager niet in staat kan worden geacht om zonder aanpassingen arbeid te verrichten, wordt de vraag gesteld of het verrichten van arbeid wél mogelijk is met behulp van aanpassingen. Diegenen, die vanwege hun beperkingen ook niet met behulp van aanpassingen tot arbeid in staat zijn, worden geacht tot de doelgroep van een voorziening voor ondersteunende en activerende begeleiding in het kader van de AWBZ (dagopvang) te behoren. Deze aanvragers zullen via de gemeenten voor die indicatieprocedure kunnen worden aangemeld.
-
-Beperkingen hoeven niet per definitie een normale arbeidsparticipatie in de weg te staan. Zo kan bij een relatief geringe beperking en een recent arbeidsverleden de nadruk sterker liggen op de vraag in hoeverre het mogelijk is te werken onder normale omstandigheden, al dan niet met gebruikmaking van aanpassingen van de arbeidsplaats ter compensatie van een substantieel verminderde arbeidsprestatie. Redelijkerwijs geldt hierbij wat gebruikelijk is bij toepassing van voorzieningen op basis van de arbeidsongeschikheidswetten of de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
 ### ad 5
 
@@ -509,5 +511,31 @@ Als niet vérstrekkend worden gezien:
 ### ad 9
 
 ### ad 10
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
+
+### Hoofdstuk 4. Informatieverstrekking
+
+## Bijlage
+
+### TOELICHTING
+
+### Algemeen
+
+De meningsvorming door de betrokken deskundige(n) zal niet altijd tot stand komen op grond van uitsluitend overduidelijke, doorslaggevende feiten. Soms zal het eindoordeel het resultaat zijn van afwegingen en taxaties. Hierom ook kan de indicatiestelling niet zonder meer gereduceerd worden tot een louter administratieve afhandeling.
+
+Een precieze aanduiding van de noodzakelijke aanpassingen en van de beperkingen waarmee rekening moet worden gehouden, kan uiteraard pas gegeven worden na een functiegericht onderzoek bij de feitelijke plaatsing. Deze precieze aanduiding maakt daarom geen onderdeel uit van de indicatiestelling, maar zal door de gemeente, als verantwoordelijke voor de uitvoering van de [Wsw](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) bij de voorbereiding van de plaatsing van geïndiceerde worden vastgesteld.
+
+### Vraag 1 tot en met 6 (Beoordeling wel of geen doelgroep (boven- en ondergrens))
+
+### ad 1
+
+In het dossier moeten de beperkingen van lichamelijke, verstandelijke of psychische aard met name zijn genoemd en welomschreven. Daarnaast moeten deze zijn weergegeven in termen en codes zoals gekwalificeerd in de Nederlandse vertaling van de International Classification of Functioning, Disability and Health (ICF) van de Wereld Gezondheidsorganisatie (WHO) en gespecificeerd in de hoofdstukken 1 t/m 8 van de classificaties van Functies en Anatomische eigenschappen van de ICF, zoals deze luiden op 1 januari 2008.
+
+### ad 6
+
+### ad 8
+
+Er zijn evenwel situaties denkbaar waarin aanwezigheid of acute beschikbaarheid van speciale begeleiding nodig is, zonder dat daarbij sprake is van feitelijke **werkbegeleiding**. Het gaat dan om de noodzakelijke aanwezigheid van deskundige begeleiding voor noodgevallen. In dergelijke gevallen zal de feitelijke inzet van de begeleiding gelimiteerd blijven tot (ver) beneden de 15 procent van de werktijd van de aanvrager, maar kan langere of zelfs permanente aanwezigheid van de deskundige begeleiding op de werkvloer noodzakelijk zijn om in geval van nood te kunnen optreden. Van een reguliere werkgever kan in de regel niet verwacht wordt dat dergelijke (semi)permanente begeleiding aanwezig is. Indien de noodzaak van dergelijke aanwezigheid of acute beschikbaarheid niet gelimiteerd kan blijven tot 15 procent van de werktijd, wordt begeleid werken bij een reguliere werkgever daarom voor de aanvrager als niet passend beschouwd.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
