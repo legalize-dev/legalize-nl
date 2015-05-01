@@ -4,7 +4,7 @@ identifier: "BWBR0035210"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-08-03"
-last_updated: "2015-01-01"
+last_updated: "2015-05-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035210"
 soort: "ministeriele-regeling"
@@ -322,6 +322,8 @@ Ghana
 
 Guatemala
 
+Guinee
+
 India
 
 Indonesië
@@ -337,6 +339,8 @@ Kenia
 Kosovo (F)
 
 Laos
+
+Liberia
 
 Libië (F)
 
@@ -391,10 +395,6 @@ Suriname
 Tanzania
 
 Thailand
-
-Tunesië
-
-Uganda
 
 ### Annex 2. Artikel 21 van de Algemene groepsvrijstellingverordening
 
@@ -452,11 +452,19 @@ De volgende informatie wordt op de website van RVO geplaatst:
 
 ### Annex 1. Landenlijst
 
+Tunesië
+
+Uganda
+
 Vietnam
 
 Zambia
 
 Zimbabwe (F)
+
+### Annex 2. Artikel 21 van de Algemene groepsvrijstellingverordening
+
+Dit besluit wordt met de bijlage in de Staatscourant geplaatst.
 
 Zuid-Afrika
 
