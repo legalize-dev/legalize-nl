@@ -4,7 +4,7 @@ identifier: "BWBR0009521"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-05-02"
-last_updated: "2004-05-19"
+last_updated: "2015-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009521"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder college: college, genoemd in [artikel 2, eerste lid, van de Wet Onafhankelijke post- en telecommunicatieautoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807&artikel=2).
+Vervallen
 
 ##### Artikel 2
 
@@ -49,11 +49,11 @@ In dit besluit wordt verstaan onder college: college, genoemd in [artikel 2, eer
 
 2. De lengte van een nummer bedraagt vijf cijfers.
 
-3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning of reservering bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
+3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
 
 ##### Artikel 3
 
-Een nummer dat is toegekend of gereserveerd, kan niet nogmaals worden toegekend of gereserveerd.
+Een nummer dat is toegekend, kan niet nogmaals worden toegekend.
 
 ##### Artikel 4
 
@@ -61,7 +61,7 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 - a. de nummerhouder neemt het bij dit besluit bepaalde alsmede de geldende aanbevelingen van de International Telecommunication Union (ITU-T) in acht;
 
-- b. de nummerhouder is verplicht het nummer te gebruiken voor een netwerkpunt in het transitdomein van het nationale telefoonverkeer, ten behoeve van een signaleringskoppeling voor openbare elektronische communicatiedienst tussen het netwerkpunt waarvoor het nummer is aangevraagd, en één of meer andere netwerkpunten in het transitdomein van het nationale telefoonverkeer.
+- b. de nummerhouder is verplicht in het kader van een door hem aangeboden of afgenomen openbare elektronische communicatiedienst het nummer te gebruiken voor een netwerkpunt in het transitdomein van het nationale elektronische communicatieverkeer, ten behoeve van een signaleringskoppeling voor een openbare elektronische communicatiedienst, tussen het netwerkpunt waarvoor het nummer is aangevraagd, en één of meer andere netwerkpunten in het transitdomein van het nationale elektronische communicatieverkeer;
 
 - c. de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling.
 
@@ -83,9 +83,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 Dit besluit wordt aangehaald als: Nummerplan transitnetwerk signaleringspuntcodes.
 
-## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=2&z=2004-05-19&g=2004-05-19), van het Nummerplan transitnetwerk signaleringspuntcodes
+## Bijlage. als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009521&artikel=2&z=2015-05-02&g=2015-05-02), van het Nummerplan transitnetwerk signaleringspuntcodes
 
-| **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** | **Signaleringspuntcodes beschikbaar voor toekenning of reservering** |
+| **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** | **Signaleringspuntcodes beschikbaar voor toekenning** |
 | --- | --- | --- | --- | --- | --- |
 | **netwerk** **indicator** | **zone** | **netwerk(deel)** | **punt** | **bestemming** | **nummer** **lengte** |
 | binair 11 | 0 | 000 t/m 255 | 0 t/m 7 | transit netwerkpunt | 5 |
