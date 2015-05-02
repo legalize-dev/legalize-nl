@@ -4,7 +4,7 @@ identifier: "BWBR0008836"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-09-23"
-last_updated: "2013-11-27"
+last_updated: "2015-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008836"
 soort: "ministeriele-regeling"
@@ -46,11 +46,11 @@ Besluit:
 
 2. De lengte van een nummer bedraagt vijf cijfers.
 
-3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning of reservering bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
+3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
 
 ##### Artikel 2
 
-Een nummer dat is toegekend of gereserveerd, kan niet nogmaals worden toegekend of gereserveerd.
+Een nummer dat is toegekend, kan niet nogmaals worden toegekend.
 
 ##### Artikel 3
 
@@ -58,7 +58,7 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 - a. de nummerhouder neemt het bij dit besluit bepaalde alsmede de geldende ITU-T aanbevelingen in acht;
 
-- b. de nummerhouder is verplicht het nummer te gebruiken voor een directe en internationale signaleringskoppeling ten behoeve van grensoverschrijdende openbare elektronische communicatiediensten tussen het netwerkpunt in Nederland waarvoor het nummer is aangevraagd en minimaal één ander buitenlands netwerkpunt;
+- b. de nummerhouder is verplicht in het kader van een door hem aangeboden of afgenomen openbare elektronische communicatiedienst het nummer te gebruiken voor een directe en internationale signaleringskoppeling ten behoeve van grensoverschrijdende openbare elektronische communicatiediensten tussen het netwerkpunt in Nederland waarvoor het nummer is aangevraagd en minimaal één ander buitenlands netwerkpunt;
 
 - c. de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling.
 
@@ -80,9 +80,9 @@ Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcode
 
 Dit besluit met bijbehorende bijlage en toelichting wordt ter inzage gelegd bij de Onafhankelijke Post en Telecommuncatie Autoriteit.
 
-## Bijlage. , bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2013-11-27&g=2013-11-27), van het Nummerplan internationale signaleringspuntcodes
+## Bijlage. , bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008836&artikel=1&z=2015-05-02&g=2015-05-02), van het Nummerplan internationale signaleringspuntcodes
 
-| Beschikbaar voor toekenning of reservering | Bestemming van de nummers | Lengte van de nummers |
+| Beschikbaar voor toekenning | Bestemming van de nummers | Lengte van de nummers |
 | --- | --- | --- |
 | 2-002-0 tot en met 2-002-7 | internationaal netwerkpunt | 5 |
 | 2-006-0 tot en met 2-006-7 | internationaal netwerkpunt | 5 |
