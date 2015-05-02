@@ -4,7 +4,7 @@ identifier: "BWBR0025520"
 country: "nl"
 rank: "amvb"
 publication_date: "2018-07-01"
-last_updated: "2012-01-01"
+last_updated: "2015-05-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025520"
 soort: "AMvB"
@@ -118,7 +118,7 @@ Krachtens [artikel 10, eerste lid, onderdeel a, van de wet](https://wetten.overh
 
 - c. een schriftelijke melding of kennisgeving van de aanvang en het gereedkomen van bouw- of sloopwerkzaamheden met betrekking tot een pand of verblijfsobject;
 
-- d. een beslissing tot verlening van een vergunning als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=30), of [33 van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=33), alsmede de wijziging of intrekking daarvan;
+- d. een beslissing tot verlening van een vergunning als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=21) of [22 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=22), alsmede de wijziging of intrekking daarvan;
 
 - e. een beslissing tot vaststelling van een standplaats, alsmede de wijziging of intrekking daarvan;
 
