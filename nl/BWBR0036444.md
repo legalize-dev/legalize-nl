@@ -4,7 +4,7 @@ identifier: "BWBR0036444"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-05-05"
-last_updated: "2015-03-28"
+last_updated: "2015-05-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036444"
 soort: "ministeriele-regeling"
@@ -130,7 +130,7 @@ De basis voor een partnerschap in het kader van het SRGR Partnerschap Fonds is e
 
 ### 2.2.3. Track Record
 
-Om als SRGR partner te worden geselecteerd, is het van belang dat potentiële partners de Minister ervan kunnen overtuigen dat zij daadwerkelijk in staat zijn de veranderstrategie op resultaatgebieden 1 en/of 4, zoals omschreven in de door hen opgestelde **Theory (**of **Theories**) **of Change**, met succes uit te voeren en/of te bewerkstellingen. Hiertoe dient elke aanvrager een **Track Record** op te stellen, waarin de ervaringen, geboekte resultaten en geleerde lessen van de organisatie en/of de alliantiepartners ten aanzien van de problematiek in de **Theory of Change** worden gepresenteerd. Het **Track Record** dient als basis om te kunnen bepalen of de indiener, of in het geval van een alliantie, het samenwerkingsverband van meerdere organisaties, over de vereiste expertise, effectiviteit, lerend vermogen, flexibiliteit en resultaatgerichtheid beschikt om de gewenste veranderingen op het terrein van SRGR teweeg te brengen en/of te bewerkstellingen en als zodanig in aanmerking kan komen voor een SRGR partnerschap met de Minister.
+Om als SRGR partner te worden geselecteerd, is het van belang dat potentiële partners de Minister ervan kunnen overtuigen dat zij daadwerkelijk in staat zijn de veranderstrategie op resultaatgebieden 1 en/of 4, zoals omschreven in de door hen opgestelde **Theory (**of **Theories**) **of Change**, met succes uit te voeren en/of te bewerkstellingen. Hiertoe dient elke aanvrager een **Track Record** op te stellen, waarin de ervaringen, geboekte resultaten en geleerde lessen van de organisatie, de alliantiepartners en/of de alliantie ten aanzien van de problematiek in de **Theory of Change** worden gepresenteerd. Het **Track Record** dient als basis om te kunnen bepalen of de indiener, of in het geval van een alliantie, het samenwerkingsverband van meerdere organisaties, over de vereiste expertise, effectiviteit, lerend vermogen, flexibiliteit en resultaatgerichtheid beschikt om de gewenste veranderingen op het terrein van SRGR teweeg te brengen en/of te bewerkstellingen en als zodanig in aanmerking kan komen voor een SRGR partnerschap met de Minister.
 
 ### 2.3. Wie komen als partner in aanmerking?
 
@@ -192,7 +192,7 @@ De kwaliteit van de **Theory of Change**wordt beoordeeld aan de hand van maatsta
 
 ### 3.3.2(b). Beoordeling van het Track Record
 
-Uit het **Track Record** blijkt de ervaring en het succes van de organisatie of alliantie op het gebied van SRGR en in het bijzonder ten aanzien van de veranderingen die zij met die partnerschap willen bewerkstellingen zoals beschreven in de **Theory of Change**. Het track record wordt gepresenteerd in de vorm van minstens 3 en maximaal 5 casussen waaruit blijkt:
+Uit het **Track Record** blijkt de ervaring en het succes van de organisatie, de alliantiepartners en/of de alliantie op het gebied van SRGR en in het bijzonder ten aanzien van de veranderingen die zij met die partnerschap willen bewerkstellingen zoals beschreven in de **Theory of Change**. Het track record wordt gepresenteerd in de vorm van minstens 3 en maximaal 5 casussen waaruit blijkt:
 
 De kwaliteit van het **Track Record** wordt beoordeeld aan de hand van maatstaven die in deel III-2 van in het bijgevoegde aanvraagstramien verder zijn uitgewerkt met betrekking tot bovengenoemde factoren.
 
@@ -200,9 +200,9 @@ De kwaliteit van het **Track Record** wordt beoordeeld aan de hand van maatstave
 
 De toets op de drempelcriteria vindt plaats door medewerkers van het Ministerie van Buitenlandse Zaken.
 
-De beoordeling van de **Theory of Change** en het **Track Record** wordt uitgevoerd door het Ministerie van Buitenlandse Zaken en externe experts. Zij zullen ook een gesprek voeren met indienende organisaties of allianties, waarin deze de gelegenheid krijgen hun aanvraag nader toe te lichten en vragen die over hun aanvraag zijn gerezen, te beantwoorden.
+De beoordeling van de **Theory of Change** en het **Track Record** wordt uitgevoerd door het Ministerie van Buitenlandse Zaken en externe experts.
 
-Er zullen maximaal 6 partners worden geselecteerd. Dit gebeurt aan de hand van de beoordeling van de **Theory of Change**en het **Track Record** en van het gesprek met de potentiële partners aan de hand van de maatstaven zoals uitgewerkt in deel III van het aanvraagstramien. Om in aanmerking te kunnen komen als SRGR partner zal de kwaliteit van zowel **Theory of Change** als het **Track Record** als voldoende moeten zijn beoordeeld. De organisaties of allianties die daarbij het beste aan de maatstaven voldoen, komen in principe als eerste in aanmerking als SRGR partner, maar er wordt bij de selectie van partners tevens gestreefd naar een evenwichtige spreiding van partnerschappen over verschillende (sub)thema’s van de twee resultaatgebieden 1 (jongeren) en 4 (rechten), zoals genoemd onder paragraaf 2.1.
+Er zullen maximaal 6 partners worden geselecteerd. Dit gebeurt aan de hand van de beoordeling van de **Theory of Change**en het **Track Record** aan de hand van de maatstaven zoals uitgewerkt in deel III van het aanvraagstramien. Om in aanmerking te kunnen komen als SRGR partner zal de kwaliteit van zowel **Theory of Change** als het **Track Record** als voldoende moeten zijn beoordeeld. De organisaties of allianties die daarbij het beste aan de maatstaven voldoen, komen in principe als eerste in aanmerking als SRGR partner, maar er wordt bij de selectie van partners tevens gestreefd naar een evenwichtige spreiding van partnerschappen over verschillende (sub)thema’s van de twee resultaatgebieden 1 (jongeren) en 4 (rechten), zoals genoemd onder paragraaf 2.1.
 
 ### 4. Monitoring en evaluatie
 
@@ -318,11 +318,11 @@ De vorm van presentatie van deze **Theory (**of **Theories) of Change** is vrij.
 
 Voor organisaties die zijn geselecteerd als strategisch partner in het kader van het beleidskader Samenspraak en Tegenspraak wordt verwacht dat zij in hun **Theory of Change**overtuigend beschrijven op welke wijze, de **Theories of Change** voor beide (beoogde) partnerschappen elkaar aanvullen12http://www.rijksoverheid.nl/documenten-en-publicaties/publicaties/2015/01/30/samenspraak-en-tegenspraak-selectie-van-de-strategische-partnerschappen-op-alfabetische-volgorde.html. Het al dan niet geselecteerd zijn als partner onder Samenspraak en Tegenspraak heeft overigens verder geen invloed op de beoordeling van de **Theory of Change** in het kader van het Speerpunt SRGR Fonds.
 
-Elke **Theory of Change** is niet langer dan **4.000** woorden (ongeveer 8 pagina’s op basis van een A4 met standaard marge, 12-punts lettergrootte en een regelafstand van 1,5).
+Elke **Theory of Change** is niet langer dan **4.000** woorden (ongeveer 8 pagina’s op basis van een A4 met standaard marge, 12-punts lettergrootte en een regelafstand van 1,5). Voor organisaties die zijn geselecteerd (als penvoerder of zelfstandige organisatie) als strategisch partner in het kader van het beleidskader Samenspraak en Tegenspraak geldt dat zij de beschrijving hoe de Theories of Change voor beide (beoogde) partnerschappen op elkaar aansluiten in een aparte bijlage mogen aanleveren, indien deze niet past in de Theory of Change (dit dan wel duidelijk vermelden).
 
 ### III.2. Track Record
 
-U beschrijft aan de hand van casussen (**minimaal 3 en maximaal 5**) uit de laatste 3 jaar voorafgaand aan 1 januari 2015 de ervaring van de organisatie of de alliantie met programma’s die zijn gericht op de vier resultaatgebieden van het Nederlandse SRGR-beleid (paragraaf 2.1 van de beleidsregels). De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie of alliantie op het terrein van SRGR en in het bijzonder van de veranderingen die zij met dit partnerschap willen bewerkstellingen en die worden beschreven in de **Theory of Change**. De vorm van presenteren is vrij. De kwaliteit van het Track Record wordt bepaald aan de hand van de volgende maatstaven die betrekking hebben op de factoren waarop elk Track Record in ieder geval inzicht dient te bieden:
+U beschrijft aan de hand van casussen (**minimaal 3 en maximaal 5**) uit de laatste 3 jaar voorafgaand aan 1 januari 2015 de ervaring van de organisatie, de alliantiepartners en/of de alliantie met programma’s die zijn gericht op de vier resultaatgebieden van het Nederlandse SRGR-beleid (paragraaf 2.1 van de beleidsregels). Daarbij geldt dat het een organisatie die onderdeel is van een internationale confederatie is toegestaan om in zijn Track Record resultaten op te nemen die zijn behaald binnen en/of door onderdelen van de confederatie, mits wordt aangetoond dat de eigen organisatie op bijvoorbeeld financiële wijze of anderszins een bijdrage heeft geleverd aan die resultaten. De casussen stelt u zo op dat het beoordelingsteam zich een oordeel kan vormen over de visie, werkwijze en capaciteit van de organisatie, de alliantiepartners en/of de alliantie op het terrein van SRGR en in het bijzonder van de veranderingen die zij met dit partnerschap willen bewerkstellingen en die worden beschreven in de **Theory of Change**. De vorm van presenteren is vrij. De kwaliteit van het Track Record wordt bepaald aan de hand van de volgende maatstaven die betrekking hebben op de factoren waarop elk Track Record in ieder geval inzicht dient te bieden:
 
 **Expertise en effectiviteit**
 
