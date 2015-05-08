@@ -4,7 +4,7 @@ identifier: "BWBR0036333"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-06-16"
-last_updated: "2015-02-25"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036333"
 soort: "ministeriele-regeling"
@@ -42,11 +42,11 @@ Besluit
 
 ##### Artikel 1
 
-De digitale vervanging van archiefbescheiden heeft betrekking op
+De digitale vervanging van archiefbescheiden heeft betrekking op:
 
-- a. alle papieren archiefbescheiden van het ministerie die zijn ontvangen en opgemaakt in de periode 2011-2014, en
+- a. alle te vernietigen papieren archiefbescheiden van het ministerie van vóór 2011;
 
-- b. op alle papieren archiefbescheiden die zullen worden ontvangen en opgemaakt in de periode tot en met tien jaar na inwerkingtreding van dit besluit.
+- b. alle te bewaren en te vernietigen papieren archiefbescheiden van het ministerie vanaf 2011 tot en met tien jaar na inwerkingtreding van dit besluit.
 
 ##### Artikel 2
 
@@ -120,7 +120,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 Deze regeling wordt aangehaald als: Vervangingsbesluit BZ 2015.
 
-## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036333&artikel=3&z=2015-05-08&g=2015-02-25)
+## Bijlage. als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036333&artikel=3&z=2015-05-08&g=2015-05-08)
 
 Documenten die in papieren vorm worden aangehouden zijn:
 
@@ -138,23 +138,13 @@ Documenten die in papieren vorm worden aangehouden zijn:
 
 Documenten die tijdelijk1Bij te bewaren documenten wordt vastgesteld of de bewijslast op het moment van overdracht aan het Nationaal Archief nog van belang is. Als dat het geval is, worden deze in papieren vorm overgedragen. in papieren vorm worden aangehouden zijn:
 
-- 4. Documenten waarin het ministerie namens de Staat in het civielrecht optreedt als contractspartij bij privaatrechtelijke rechtsverhoudingen, waaronder:
+- 4. Documenten waarin het ministerie namens de Staat in het civielrecht optreedt als contractspartij bij privaatrechtelijke rechtsverhoudingen, namelijk:
 
-- •. koop- en huurcontracten;
-
-- •. documenten in aanbestedingstrajecten;
-
-- •. schikkingsonderhandelingen;
-
-- •. burgerlijke processen;
+- •. koop- en huurcontracten van onroerende zaken;
 
 - •. gerechtelijke uitspraken;
 
-- •. expertiserapporten;
-
-- •. notariële akten;
-
-- •. documenten die een rechtsverhouding vestigen, wijzigen of een bewijsfunctie hebben.
+- •. notariële akten.
 
 - 5. Processtukken waarbij in geval van meningsverschillen terug wordt gegrepen op papieren documenten:
 
