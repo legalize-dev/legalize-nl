@@ -4,7 +4,7 @@ identifier: "BWBV0006369"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-05-08"
-last_updated: "2011-06-01"
+last_updated: "2015-05-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006369"
 soort: "verdrag"
@@ -66,7 +66,7 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „Verdrag” het Verdrag tot oprichting van het Caribisch Volksgezondheidsinstituut (hierna te noemen „CARPHA”);
 
-- „geassocieerd lid” een geassocieerd lid van CARPHA dat is toegelaten overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=3&z=2011-06-01&g=2011-06-01);
+- „geassocieerd lid” een geassocieerd lid van CARPHA dat is toegelaten overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=3&z=2015-05-08&g=2015-05-08);
 
 - „bestuurslid” een lid van de raad van bestuur;
 
@@ -74,7 +74,7 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „Caribische Gemeenschap” de Caribische Gemeenschap ingesteld bij het Herziene Verdrag;
 
-- „CARPHA” het Caribisch Volksgezondheidsinstituut opgericht ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=2&z=2011-06-01&g=2011-06-01);
+- „CARPHA” het Caribisch Volksgezondheidsinstituut opgericht ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=2&z=2015-05-08&g=2015-05-08);
 
 - „CCH” de Caribbean Cooperation in Health het regionaal strategisch kader voor samenwerking op het gebied van gezondheid, goedgekeurd door de conferentie van de ministers belast met de volksgezondheid en bij de verklaring van Nassau in juli 2001 bekrachtigd door de conferentie van regeringsleiders van de Caribische Gemeenschap;
 
@@ -86,15 +86,15 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „COHSOD” de Council for Human and Social Development van de Caribische Gemeenschap;
 
-- „raad” de raad van ministers, opgericht bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2011-06-01&g=2011-06-01);
+- „raad” de raad van ministers, opgericht bij [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2015-05-08&g=2015-05-08);
 
 - „CRDTL” het Caribbean Regional Drug Testing Laboratory, opgericht bij intergouvernementele overeenkomst op 16 december 1974 gesloten tussen de leden van de Caribische Gemeenschap;
 
-- „de raad van bestuur” de raad van bestuur opgericht bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=6&z=2011-06-01&g=2011-06-01);
+- „de raad van bestuur” de raad van bestuur opgericht bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=6&z=2015-05-08&g=2015-05-08);
 
-- „uitvoerend directeur” de uitvoerend directeur van CARPHA benoemd overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=13&z=2011-06-01&g=2011-06-01);
+- „uitvoerend directeur” de uitvoerend directeur van CARPHA benoemd overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=13&z=2015-05-08&g=2015-05-08);
 
-- „orgaan” een entiteit opgericht bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=6&z=2011-06-01&g=2011-06-01);
+- „orgaan” een entiteit opgericht bij [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=6&z=2015-05-08&g=2015-05-08);
 
 - „lid” een land dat het Verdrag ondertekend heeft;
 
@@ -106,7 +106,7 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „Secretaris-Generaal” de Secretaris-Generaal van de Caribische Gemeenschap;
 
-- „technisch adviescomité” het comité opgericht bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=11&z=2011-06-01&g=2011-06-01).
+- „technisch adviescomité” het comité opgericht bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=11&z=2015-05-08&g=2015-05-08).
 
 ##### Artikel 2. Oprichting van CARPHA als een instantie van de Caribische Gemeenschap
 
@@ -150,7 +150,7 @@ De doelstellingen van CARPHA zijn:
 
 ##### Artikel 5. Functies
 
-Teneinde de doelstellingen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=4&z=2011-06-01&g=2011-06-01) te verwezenlijken verricht CARPHA de volgende taken:
+Teneinde de doelstellingen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=4&z=2015-05-08&g=2015-05-08) te verwezenlijken verricht CARPHA de volgende taken:
 
 - a. verschaffen van een wetenschappelijke onderbouwing voor de besluitvorming en het beleid inzake de volksgezondheid in de Cariben, met inbegrip van het formuleren, verzamelen, onderhouden en analyseren van minimumdatasets, analyses van de gezondheidssituatie, het kritisch analyseren van de gevolgen van maatschappelijke en andere bepalende factoren voor de gezondheid en reageren op interventies op het gebied van de volksgezondheid;
 
@@ -216,19 +216,19 @@ Ter bevordering van de doelstellingen van CARPHA –
 
 - e. verspreidt de raad informatie onder regeringen en andere instanties ter verbetering van de gezondheid en preventie van ziekte;
 
-- f. benoemt de raad overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=9&z=2011-06-01&g=2011-06-01) de leden van de raad van bestuur;
+- f. benoemt de raad overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=9&z=2015-05-08&g=2015-05-08) de leden van de raad van bestuur;
 
 - g. voorziet de raad de raad van bestuur van algemene of specifieke beleidsinstructies;
 
-- h. keurt de raad de leidinggevende functies goed waarop [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=14&z=2011-06-01&g=2011-06-01) van toepassing is;
+- h. keurt de raad de leidinggevende functies goed waarop [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=14&z=2015-05-08&g=2015-05-08) van toepassing is;
 
 - i. keurt de raad regelingen voor samenwerking en andere regelingen goed die CARPHA moet aangaan op voorstel van de raad van bestuur;
 
 - j. toetst de raad periodiek de adequaatheid van de bepalingen van dit Verdrag, het beleid en de maatregelen ten behoeve van de volksgezondheid in de Caribische Gemeenschap;
 
-- k. doet de raad de leden aanbevelingen over de bijdragen van de leden en geassocieerde leden aan de begroting van CARPHA in overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2011-06-01&g=2011-06-01);
+- k. doet de raad de leden aanbevelingen over de bijdragen van de leden en geassocieerde leden aan de begroting van CARPHA in overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2015-05-08&g=2015-05-08);
 
-- l. behandelt de raad de periodieke- en de kapitaalbegroting van CARPHA en keurt deze goed op grond van de aanbevelingen van de raad van bestuur in overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2011-06-01&g=2011-06-01);
+- l. behandelt de raad de periodieke- en de kapitaalbegroting van CARPHA en keurt deze goed op grond van de aanbevelingen van de raad van bestuur in overeenstemming met [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=7&z=2015-05-08&g=2015-05-08);
 
 - m. stelt de raad passende mechanismen vast voor duurzame financiering;
 
@@ -290,9 +290,9 @@ De raad van bestuur verricht de volgende taken:
 
 - f. goedkeuren van de personeelsvoorschriften, het administratief beleid en de procedures van CARPHA;
 
-- g. goedkeuren van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=14&z=2011-06-01&g=2011-06-01) door de directeur van de raad van bestuur te benoemen directeuren;
+- g. goedkeuren van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=14&z=2015-05-08&g=2015-05-08) door de directeur van de raad van bestuur te benoemen directeuren;
 
-- h. instellen van het technisch adviescomité en goedkeuren van de benoeming van de leden van het technisch adviescomité in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=11&z=2011-06-01&g=2011-06-01);
+- h. instellen van het technisch adviescomité en goedkeuren van de benoeming van de leden van het technisch adviescomité in overeenstemming met [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=11&z=2015-05-08&g=2015-05-08);
 
 - i. toetsen en goedkeuren van de aanbevelingen en rapporten van het technisch adviescomité;
 
@@ -320,7 +320,7 @@ De raad van bestuur verricht de volgende taken:
 
 2. Het technisch adviescomité bestaat uit de volgende leden:
 
-- a. zes hoofden van gezondheidsdiensten die bij toerbeurt worden gekozen ter vertegenwoordiging van de leden van CARPHA, niet zijnde hoofden van gezondheidsinstanties benoemd overeenkomstig [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=9&z=2011-06-01&g=2011-06-01);
+- a. zes hoofden van gezondheidsdiensten die bij toerbeurt worden gekozen ter vertegenwoordiging van de leden van CARPHA, niet zijnde hoofden van gezondheidsinstanties benoemd overeenkomstig [artikel 9, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=9&z=2015-05-08&g=2015-05-08);
 
 - b. een persoon die door de universiteiten binnen de Caribische Gemeenschap gezamenlijk wordt voorgedragen;
 
@@ -442,7 +442,7 @@ Het technisch secretariaat verricht de volgende taken:
 
 - b. bijdragen van andere staten of instanties binnen of buiten het Caribisch gebied;
 
-- c. schenkingen uit elke bron ten behoeve van de financiering van onderzoek, het verzamelen en verspreiden van informatie, advisering, projecten, capaciteitsopbouw en elk ander doel dat verenigbaar is met zijn doelstellingen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=4&z=2011-06-01&g=2011-06-01); en
+- c. schenkingen uit elke bron ten behoeve van de financiering van onderzoek, het verzamelen en verspreiden van informatie, advisering, projecten, capaciteitsopbouw en elk ander doel dat verenigbaar is met zijn doelstellingen vervat in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=4&z=2015-05-08&g=2015-05-08); en
 
 - d. elke andere bron of ander mechanisme voor duurzame financiering zoals vastgesteld door de raad, met inbegrip van de oprichting van een trustfonds of reservefonds.
 
@@ -540,7 +540,7 @@ Elk lid neemt passende maatregelen ter uitvoering van de bepalingen van de artik
 
 1. Elke kwestie omtrent de interpretatie of toepassing van de bepalingen van dit Verdrag waarin niet uitdrukkelijk elders is voorzien wordt ter beslissing voorgelegd aan de raad.
 
-2. In elk geval waarin de raad heeft beslist overeenkomstig het eerste lid van dit artikel kan een lid vorderen dat de kwestie wordt voorgelegd aan een scheidsgerecht dat in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=29&z=2011-06-01&g=2011-06-01) wordt ingesteld en een bindende uitspraak doet.
+2. In elk geval waarin de raad heeft beslist overeenkomstig het eerste lid van dit artikel kan een lid vorderen dat de kwestie wordt voorgelegd aan een scheidsgerecht dat in overeenstemming met [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=29&z=2015-05-08&g=2015-05-08) wordt ingesteld en een bindende uitspraak doet.
 
 In afwachting van en onverminderd de beslissing van het scheidsgerecht, kan CARPHA optreden overeenkomstig de beslissing van de raad.
 
@@ -622,7 +622,7 @@ De Secretaris-Generaal van de Caribische Gemeenschap treedt op als depositaris v
 
 ##### Artikel 39. Inwerkingtreding
 
-Dit Verdrag treedt in werking na de ondertekening door acht leden en geassocieerde leden van de Caribische Gemeenschap overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=37&z=2011-06-01&g=2011-06-01).
+Dit Verdrag treedt in werking na de ondertekening door acht leden en geassocieerde leden van de Caribische Gemeenschap overeenkomstig [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0006369&artikel=37&z=2015-05-08&g=2015-05-08).
 
 ##### Artikel 40. Registratie
 
