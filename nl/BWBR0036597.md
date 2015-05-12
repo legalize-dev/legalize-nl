@@ -4,7 +4,7 @@ identifier: "BWBR0036597"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-05-12"
-last_updated: "2015-04-12"
+last_updated: "2015-05-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036597"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Staatssecretaris:** Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-04-12).
+- b. **commissie:** commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12).
 
 ##### Artikel 2. Instelling en taak
 
@@ -82,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 4. Instellingsduur
 
-De commissie wordt ingesteld voor de duur van tien jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit. De Staatssecretaris kan besluiten de commissie eerder op te heffen als het bij het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-04-12) bedoelde beleidskader behorende budget is uitgeput.
+De commissie wordt ingesteld voor de duur van tien jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit. De Staatssecretaris kan besluiten de commissie eerder op te heffen als het bij het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036597&artikel=2&z=2015-05-12&g=2015-05-12) bedoelde beleidskader behorende budget is uitgeput.
 
 ##### Artikel 5. Leden
 
