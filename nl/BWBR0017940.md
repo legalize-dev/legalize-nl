@@ -4,7 +4,7 @@ identifier: "BWBR0017940"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-11-09"
-last_updated: "2012-08-30"
+last_updated: "2015-05-13"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017940"
 soort: "ministeriele-regeling"
@@ -37,6 +37,8 @@ entry_into_force: "2005-02-01"
 Gelet op [Richtlijn nr. 1999/35/EG](31999L0035) van de Raad van de Europese Unie van 29 april 1999 betreffende een stelsel van verplichte onderzoeken voor de veilige exploitatie van geregelde diensten met ro-ro-veerboten en hogesnelheidspassagiersvaartuigen (PbEG L 138) alsmede op de [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=22), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=27), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=29), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=44), [45, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=46), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=53), en [55, vijfde lid, van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=55), [artikel 4, derde en vierde lid, van het Rijksbesluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017680&artikel=4) en de [artikelen 1, eerste lid, onderdeel o](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=11) en [13 van het Besluit Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017681&artikel=13);
 
 Besluit:
+
+Treedt in werking op het krachtens artikel 97, eerste lid, eerste volzin, van de Rijkswet Onderzoeksraad voor veiligheid vastgestelde tijdstip.
 
 #### § 1. Begripsomschrijvingen
 
@@ -120,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2012-08-30&g=2012-08-30) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
+1. De [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2015-05-13&g=2015-05-13) zijn niet van toepassing op voorvallen waarbij geen andere zaak of persoon is betrokken dan een zaak of persoon in gebruik bij onderscheidenlijk in de uitoefening van een functie ten behoeve van:
 
 - a. de Minister van Defensie,
 
@@ -128,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 - c. een organisatie waarvan het beheer is opgedragen aan de Minister van Defensie.
 
-2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2012-08-30&g=2012-08-30) slechts van toepassing voor zover het die andere zaak of persoon betreft.
+2. Indien bij een voorval als bedoeld in het eerste lid tevens een andere zaak of persoon is betrokken dan in dat lid bedoeld, zijn de [artikelen 5 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13) en [15 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=15&z=2015-05-13&g=2015-05-13) slechts van toepassing voor zover het die andere zaak of persoon betreft.
 
 #### § 3. Staten met een aanmerkelijk belang
 
@@ -270,7 +272,7 @@ In geval van een voorval met een zeeschip wordt onder staat met aanmerkelijk bel
 
 - d. de internationale burgerluchtvaartorganisatie indien het om een luchtvaartuig gaat met een startmassa van meer dan 2250 kg of een vliegtuig met straalmotoren.
 
-2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2012-08-30&g=2012-08-30), is van overeenkomstige toepassing.
+2. [Artikel 5, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=5&artikel=5&z=2015-05-13&g=2015-05-13), is van overeenkomstige toepassing.
 
 ##### Artikel 8
 
@@ -344,7 +346,7 @@ De raad is, ingeval een staat waarvan burgers dodelijk of ernstig letsel hebben 
 
 - e. een afschrift van het eindrapport te ontvangen.
 
-#### § 9. Rapport
+#### § 8. Rechten andere staat
 
 ##### Artikel 14
 
@@ -430,7 +432,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 8a
 
-1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad zo spoedig mogelijk een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).
+1. Indien de raad een onderzoek instelt naar een voorval in verband met een spoorweg zendt de raad binnen één week nadat besloten is een onderzoek in te stellen een melding ter zake aan het Europees Spoorwegbureau, genoemd in artikel 1, van verordening (EG) nr. 881/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 tot oprichting van een Europees Spoorwegbureau (‘Spoorwegbureauverordening’) (PbEG L 164).
 
 2. De melding bevat de datum, de tijd, en de plaats van het voorval, alsmede het type voorval en de gevolgen ervan in termen van doden, gewonden en materiële schade.
 
@@ -450,7 +452,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 17b
 
-Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2012-08-30&g=2012-08-30), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+Een wijziging van bijlage V bij richtlijn 2004/49/EG gaat voor de toepassing van [artikel 17a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017940&paragraaf=9&artikel=17a&z=2015-05-13&g=2015-05-13), gelden met ingang van de waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven
+
+#### § 10. Vergoedingen
+
+#### § 11. Overgangs- en slotbepalingen
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 12a
+
+Indien de raad een onderzoek instelt naar een voorval, waar een spoorwegonderneming als bedoeld in artikel 3, onder c, van richtlijn 2004/49/EG met een vergunning van een andere lidstaat bij betrokken is, nodigt hij het onderzoeksorgaan, bedoeld in artikel 21 van richtlijn 2004/49/EG, van die lidstaat uit deel te nemen aan het onderzoek.
+
+#### § 9. Rapport
 
 #### § 10. Vergoedingen
 
