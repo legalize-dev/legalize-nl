@@ -4,7 +4,7 @@ identifier: "BWBR0036616"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2016-04-09"
-last_updated: "2015-04-28"
+last_updated: "2015-05-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036616"
 soort: "ministeriele-regeling"
@@ -44,7 +44,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. **Deskundigengroep:** Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036616&artikel=2&z=2015-05-14&g=2015-04-28).
+- b. **Deskundigengroep:** Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036616&artikel=2&z=2015-05-14&g=2015-05-14).
 
 ##### Artikel 2
 
