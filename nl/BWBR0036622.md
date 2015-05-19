@@ -129,9 +129,3 @@ Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van
 Dit besluit wordt aangehaald als: Mandaatbesluit beheer en bevoegdheden directeur bedrijfsvoering Hoge Raad 2015.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 5a
-
-De directeur bedrijfsvoering wordt bij afwezigheid vervangen door het hoofd van de afdeling Personeel en Organisatie.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
