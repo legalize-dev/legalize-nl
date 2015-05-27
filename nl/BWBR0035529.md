@@ -4,7 +4,7 @@ identifier: "BWBR0035529"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-09-12"
+last_updated: "2015-05-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035529"
 soort: "ministeriele-regeling"
@@ -72,7 +72,7 @@ De commissie bestaat uit de volgende leden.
 
 1. De benoeming geschiedt voor de duur van de commissie. Bij tussentijds vertrek van een lid kunnen de ministers een ander lid benoemen.
 
-2. De commissie wordt opgeheven met ingang van 1 september 2015 of zodra het advies is uitgebracht.
+2. De commissie wordt opgeheven met ingang van 1 april 2016 of zodra het advies is uitgebracht.
 
 ##### Artikel 4
 
