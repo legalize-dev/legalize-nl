@@ -4,7 +4,7 @@ identifier: "BWBR0034760"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2014-04-01"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034760"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Afdeling advisering van de Raad van State gehoord (advies van 22 januari 2014
 Gezien het nader rapport van de Staatssecretaris van Veiligheid en Justitie van 28 januari 2014, nr. 476742;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 2, zevende tot en met negende lid van artikel 383, onderdeel P, zevende tot en met negende lid van artikel 435, onderdeel AA, onder 3, van de Wet wijziging curatele, beschermingsbewind en mentorschap in werking treedt.
 
 ### Hoofdstuk 1. Algemeen
 
@@ -162,7 +164,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de voor de curator beschikbare documenten die de verzorging, verpleging, behandeling en begeleiding van de onder curatele gestelde betreffen,
 
-- c. de vastlegging van de contacten van de curator met de onder curatele gestelde, dan wel een aantekening over het uitblijven van contact op grond van [artikel 5, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01).
+- c. de vastlegging van de contacten van de curator met de onder curatele gestelde, dan wel een aantekening over het uitblijven van contact op grond van [artikel 5, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=5&z=2015-06-01&g=2015-06-01).
 
 3. Het eerste lid en het tweede lid, onderdelen a en c, zijn van overeenkomstige toepassing op bewindvoerders.
 
@@ -196,7 +198,7 @@ en werkt in overeenstemming met de beschreven processen.
 
 - e. de continuïteit van de werkzaamheden in geval van ziekte of uitval van de curator, en
 
-- f. het voldoen aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=9&z=2014-04-01&g=2014-04-01) gestelde eisen,
+- f. het voldoen aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=9&z=2015-06-01&g=2015-06-01) gestelde eisen,
 
 en werkt in overeenstemming met deze waarborgen.
 
@@ -252,7 +254,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 - d. hoeveel klachten er gedurende het desbetreffende jaar zijn ingediend,
 
-- e. hoeveel klachten gedurende het desbetreffende jaar binnen de in [artikel 6, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=6&z=2014-04-01&g=2014-04-01) bedoelde termijn zijn afgehandeld, en
+- e. hoeveel klachten gedurende het desbetreffende jaar binnen de in [artikel 6, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=6&z=2015-06-01&g=2015-06-01) bedoelde termijn zijn afgehandeld, en
 
 - f. hoeveel klachten gedurende het desbetreffende jaar gegrond zijn verklaard.
 
@@ -264,13 +266,13 @@ en werkt in overeenstemming met deze waarborgen.
 
 ##### Artikel 11
 
-1. De curator verleent opdracht aan een accountant om te onderzoeken of de curator voldoet aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01) gestelde eisen, alsmede aan de verplichtingen, bedoeld in [artikel 386, derde lid, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386) en in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2014-04-01&g=2014-04-01), dan wel, voor zover van toepassing, in [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
+1. De curator verleent opdracht aan een accountant om te onderzoeken of de curator voldoet aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2015-06-01&g=2015-06-01) gestelde eisen, alsmede aan de verplichtingen, bedoeld in [artikel 386, derde lid, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386) en in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2015-06-01&g=2015-06-01), dan wel, voor zover van toepassing, in [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
-2. Het onderzoek naar de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=8&z=2014-04-01&g=2014-04-01) gestelde eisen en naar de verplichting, bedoeld in [artikel 386, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), kan plaatsvinden door middel van een steekproef van ten minste tien dossiers of, in geval van meer dan honderd dossiers, tien procent van de dossiers, tot ten hoogste honderd dossiers.
+2. Het onderzoek naar de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2015-06-01&g=2015-06-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01) gestelde eisen en naar de verplichting, bedoeld in [artikel 386, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), kan plaatsvinden door middel van een steekproef van ten minste tien dossiers of, in geval van meer dan honderd dossiers, tien procent van de dossiers, tot ten hoogste honderd dossiers.
 
-3. De accountant geeft zijn bevindingen omtrent de wijze waarop aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01) gestelde eisen en de in [artikel 386, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), bedoelde verplichting is voldaan, weer in het verslag, bedoeld in [artikel 383, achtste lid, onderdeel b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383).
+3. De accountant geeft zijn bevindingen omtrent de wijze waarop aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2015-06-01&g=2015-06-01) gestelde eisen en de in [artikel 386, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), bedoelde verplichting is voldaan, weer in het verslag, bedoeld in [artikel 383, achtste lid, onderdeel b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383).
 
-4. De accountant geeft de uitslag van het onderzoek omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstige [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) weer in een verklaring. [Artikel 393, derde tot en met zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is van overeenkomstige toepassing op de verklaring omtrent de balans en de staat van baten en lasten.
+4. De accountant geeft de uitslag van het onderzoek omtrent de balans en staat van baten en lasten, bedoeld in [artikel 10 van Boek 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=10), dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstige [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) weer in een verklaring. [Artikel 393, derde tot en met zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is van overeenkomstige toepassing op de verklaring omtrent de balans en de staat van baten en lasten. Een curator die voldoet aan de eisen in [artikel 3, onderdeel f, van de Regeling verslaggeving Wet Toelating Zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019252&artikel=3) kan volstaan met een samenstellingsverklaring van een accountant ten aanzien van de uitslag van het onderzoek, bedoeld in de eerste zin.
 
 5. Het in het derde lid bedoelde verslag van de accountant omvat in ieder geval:
 
@@ -286,9 +288,9 @@ en werkt in overeenstemming met deze waarborgen.
 
 7. Het eerste tot en met zesde lid is van overeenkomstige toepassing op bewindvoerders, met dien verstande dat voor het in het eerste en derde lid genoemde [artikel 386, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), moet worden gelezen [artikel 436, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=436).
 
-8. Het eerste tot en met zesde lid is van overeenkomstige toepassing op mentoren, met dien verstande dat de mentor in plaats van aan een accountant, opdracht kan verlenen aan een deskundige als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=3&artikel=12&z=2014-04-01&g=2014-04-01), om te onderzoeken of de mentor voldoet aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01) gestelde eisen, dat het onderzoek geen betrekking heeft op de verplichting, bedoeld in [artikel 386, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386) en dat een mentor die voldoet aan de eisen in [artikel 3, onderdeel f, van de Regeling verslaggeving Wet Toelating Zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0019252&artikel=3) kan volstaan met een samenstellingsverklaring van een accountant ten aanzien van de uitslag van het onderzoek, bedoeld in het vierde lid.
+8. Het eerste tot en met zesde lid is van overeenkomstige toepassing op mentoren, met dien verstande dat de mentor in plaats van aan een accountant, opdracht kan verlenen aan een deskundige als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=3&artikel=12&z=2015-06-01&g=2015-06-01), om te onderzoeken of de mentor voldoet aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2015-06-01&g=2015-06-01) gestelde eisen en dat het onderzoek geen betrekking heeft op de verplichting, bedoeld in [artikel 386, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386).
 
-9. Onverminderd hetgeen is bepaald in [artikel 383, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), en [artikel 435, negende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435) zijn van het in het eerste lid bedoelde onderzoek van de accountant naar de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=8&z=2014-04-01&g=2014-04-01) gestelde eisen vrijgesteld:
+9. Onverminderd hetgeen is bepaald in [artikel 383, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), en [artikel 435, negende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435) zijn van het in het eerste lid bedoelde onderzoek van de accountant naar de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=8&z=2015-06-01&g=2015-06-01) gestelde eisen vrijgesteld:
 
 - a. zij die een financiële onderneming zijn die ingevolge de Wet op het financieel toezicht het bedrijf van bank mogen uitoefenen,
 
@@ -300,7 +302,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 ##### Artikel 12
 
-1. De kantonrechter kan op verzoek van de mentor of ambtshalve een deskundige benoemen die bericht over de vraag of de mentor voldoet aan de eisen gesteld in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2014-04-01&g=2014-04-01).
+1. De kantonrechter kan op verzoek van de mentor of ambtshalve een deskundige benoemen die bericht over de vraag of de mentor voldoet aan de eisen gesteld in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2015-06-01&g=2015-06-01).
 
 2. De benoeming, bedoeld in het eerste lid, geldt voor de duur van ten hoogste drie jaren. Herbenoeming voor ten hoogste deze termijn is mogelijk.
 
@@ -308,9 +310,9 @@ en werkt in overeenstemming met deze waarborgen.
 
 ##### Artikel 13
 
-1. De curator legt, tezamen met zijn verklaring, bedoeld in [artikel 383, achtste lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), aan de kantonrechter die hem benoemt, dan wel ten overstaan van wie hij rekening en verantwoording aflegt, de documenten over, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=2&z=2014-04-01&g=2014-04-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=3&z=2014-04-01&g=2014-04-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2014-04-01&g=2014-04-01).
+1. De curator legt, tezamen met zijn verklaring, bedoeld in [artikel 383, achtste lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), aan de kantonrechter die hem benoemt, dan wel ten overstaan van wie hij rekening en verantwoording aflegt, de documenten over, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=2&z=2015-06-01&g=2015-06-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2015-06-01&g=2015-06-01).
 
-2. De curator legt het verslag, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=3&artikel=11&z=2014-04-01&g=2014-04-01), en de verklaring, bedoeld in artikel 11, vierde lid, over aan de kantonrechter die hem benoemt, dan wel ten overstaan van wie hij rekening en verantwoording aflegt.
+2. De curator legt het verslag, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=3&artikel=11&z=2015-06-01&g=2015-06-01), en de verklaring, bedoeld in artikel 11, vierde lid, over aan de kantonrechter die hem benoemt, dan wel ten overstaan van wie hij rekening en verantwoording aflegt.
 
 3. Heeft de curator in de twaalf maanden voorafgaande aan zijn benoeming, dan wel aan het indienen van de rekening en verantwoording, reeds de in het eerste en tweede lid bedoelde documenten overgelegd, dan vermeldt hij bij zijn benoeming, dan wel bij de rekening en verantwoording, de datum van overlegging en bij welke kantonrechter hij de documenten heeft overgelegd.
 
@@ -320,7 +322,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 6. Het eerste en tweede lid zijn van overeenkomstige toepassing op mentoren, met dien verstande dat de mentor de in het eerste en tweede lid bedoelde documenten, overlegt aan de kantonrechter die hem benoemt dan wel aan wie hij verslag uitbrengt en dat voor [artikel 383, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), moet worden gelezen [artikel 452, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452). Heeft de mentor in de 24 maanden voorafgaande aan zijn benoeming, dan wel aan het uitbrengen van het verslag, reeds de in het eerste en tweede lid bedoelde documenten overgelegd, dan vermeldt hij bij zijn benoeming, dan wel bij het verslag, de datum van de verklaring en bij welke kantonrechter hij de verklaring heeft overgelegd.
 
-7. Van het overleggen van de documenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=2&z=2014-04-01&g=2014-04-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=3&z=2014-04-01&g=2014-04-01), zijn vrijgesteld:
+7. Van het overleggen van de documenten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=2&z=2015-06-01&g=2015-06-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=3&z=2015-06-01&g=2015-06-01), zijn vrijgesteld:
 
 - a. zij die een financiële onderneming zijn die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) het bedrijf van bank mogen uitoefenen,
 
