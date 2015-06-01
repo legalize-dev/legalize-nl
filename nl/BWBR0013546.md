@@ -4,7 +4,7 @@ identifier: "BWBR0013546"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2011-03-05"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013546"
 soort: "ministeriele-regeling"
@@ -61,77 +61,47 @@ Vervallen
 
 1. Een afvalstof die in de afvalstoffenlijst is ingedeeld in complementaire categorieën wordt gerubriceerd onder de met een asterisk aangeduide categorie indien wordt vastgesteld dat de afvalstof een of meer eigenschappen bezit als bedoeld in bijlage III bij de kaderrichtlijn afvalstoffen.
 
-2. Een afvalstof bezit de eigenschappen, bedoeld in de onderdelen H3 tot en met H8, H10 en H11 van de bijlage, bedoeld in het eerste lid, indien deze een of meer van de volgende eigenschappen bezit:
+2. Bij het bepalen van de gevaarlijke eigenschappen van afvalstoffen, bedoeld in bijlage III bij de kaderrichtlijn afvalstoffen, worden de gevolgen van het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van een afvalstof, niet in aanmerking genomen.
 
-- a. een vlampunt ≤ 55 °C,
-
-- b. een of meer als zeer vergiftig ingedeelde stoffen met een totale concentratie ≥ 0,1%,
-
-- c. een of meer als vergiftig ingedeelde stoffen met een totale concentratie ≥ 3%,
-
-- d. een of meer als schadelijk ingedeelde stoffen met een totale concentratie ≥ 25%,
-
-- e. een of meer als R 35 ingedeelde bijtende stoffen met een totale concentratie ≥ 1%,
-
-- f. een of meer als R 34 ingedeelde bijten de stoffen met een totale concentratie ≥ 5%,
-
-- g. een of meer als R 41 ingedeelde irriterende stoffen met een totale concentratie ≥ 10%,
-
-- h. een of meer als R 36, R 37 of R 38 ingedeelde irriterende stoffen met een totale concentratie ≥ 20%,
-
-- i. een stof waarvan bekend is dat ze kankerverwekkend is (categorie 1 of 2) met een concentratie ≥ 0,1%,
-
-- j. een stof waarvan bekend is dat ze kankerverwekkend is (categorie 3) met een concentratie ≥ 1%,
-
-- k. een als R60 of R61 ingedeelde voor de voortplanting vergiftige stof (categorie 1 of 2) met een concentratie ≥ 0,5%,
-
-- l. een als R62 of R63 ingedeelde voor de voortplanting vergiftige stof (categorie 3) met een concentratie ≥ 5%,
-
-- m. een als R 46 ingedeelde mutagene stof (categorie 1 of 2) met een concentratie ≥ 0,1%,
-
-- n. een als R 40 ingedeelde mutagene stof (categorie 3) met een concentratie ≥ 1%.
-
-3. Bij het bepalen van de concentraties, bedoeld in het tweede lid, worden de gevolgen van het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van een afvalstof, niet in aanmerking genomen.
-
-4. Het derde lid is niet van toepassing indien een omgevingsvergunning voor een inrichting of een ontheffing als bedoeld in [artikel 10.63 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.
+3. Het tweede lid is niet van toepassing indien een omgevingsvergunning voor een inrichting of een ontheffing als bedoeld in [artikel 10.63 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.63) is verleend die mede betrekking heeft op het verdampen van een gevaarlijke stof of het verdunnen, vermengen of uitlogen van afvalstoffen.
 
 ##### Artikel 5
 
-1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2011-03-05&g=2011-03-05) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
+1. Bij het vaststellen of een afvalstof de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2015-06-01&g=2015-06-01) bedoelde eigenschappen bezit, wordt het tweede tot en met het vierde lid in acht genomen.
 
 2. Afvalstoffen worden als volgt bemonsterd:
 
-- a. afgewerkte olie volgens NEN-EN-ISO 3170: uitgave 1998,
+- a. afgewerkte olie volgens NEN-EN-ISO 3170: uitgave 2004,
 
-- b. olie uit elektrische toestellen volgens NEN 10567: uitgave 1993,
+- b. olie uit elektrische uitrusting volgens NEN-EN-IEC 60567: uitgave 2012,
 
 - c. bitumen en teerproducten volgens NEN 3940: uitgave 1982,
 
-- d. asbest in afval en puingranulaat volgens ontwerp NEN 5897: uitgave 1999,
+- d. asbest in afval en recyclinggranulaat volgens ontwerp NEN 5897: uitgave 2014,
 
 - e. de overige afvalstoffen volgens NVN 5860: uitgave 1999.
 
 3. De voorbehandeling van monsters geschiedt als volgt:
 
-- a. monsters die worden ontsloten voor de bepaling van elementen worden behandeld volgens ontwerp NEN-EN 13657: uitgave 1999,
+- a. monsters die worden ontsloten voor de bepaling van elementen worden behandeld volgens ontwerp NEN-EN 13657: uitgave 2002,
 
 - b. monsters ter bepaling van overige organische en anorganische stoffen worden behandeld volgens NVN 5870: uitgave 1998.
 
 4. De analyse van:
 
-- a. asbest in afval en puingranulaat geschiedt volgens ontwerp NEN 5897: uitgave 1999,
+- a. asbest in afval en recyclinggranulaat geschiedt volgens ontwerp NEN 5897: uitgave 2014,
 
-- b. het totaal PCB-gehalte in afgewerkte olie geschiedt volgens EN 12766-1: uitgave 2000 en wordt berekend volgens EN 12766-2: uitgave 2001,
+- b. het totaal PCB-gehalte in afgewerkte olie geschiedt volgens NEN-EN 12766-1: uitgave 2000 en wordt berekend volgens NEN-EN 12766-2: uitgave 2001,
 
-- c. het EOX-gehalte in afgewerkte olie geschiedt volgens NEN 7425: uitgave 1999,
+- c. het EOX-gehalte in afgewerkte olie geschiedt volgens NEN-EN 14077: uitgave 2004,
 
-- d. overige stoffen geschiedt volgens ontwerp NEN 5878: uitgave 2001.
+- d. overige stoffen geschiedt volgens NEN 5878: uitgave 2006.
 
 5. Met de methoden, bedoeld in het eerste tot en met vierde lid, worden gelijkgesteld de methoden die volgens een wettelijk voorschrift zijn voorgeschreven in een andere lidstaat van de Europese Unie dan wel in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die ten minste gelijkwaardig zijn.
 
 ##### Artikel 6
 
-De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2011-03-05&g=2011-03-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2011-03-05&g=2011-03-05) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
+De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=4&z=2015-06-01&g=2015-06-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0013546&artikel=5&z=2015-06-01&g=2015-06-01) zijn van overeenkomstige toepassing op de beoordeling, bedoeld in [artikel 1.1, tiende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 
 ##### Artikel 7
 
