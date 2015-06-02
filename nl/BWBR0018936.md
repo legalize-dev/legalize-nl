@@ -4,7 +4,7 @@ identifier: "BWBR0018936"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-05-02"
-last_updated: "2014-05-17"
+last_updated: "2015-06-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018936"
 soort: "ministeriele-regeling"
@@ -50,15 +50,13 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden te handelen in strijd met artikel 2 van [Verordening (EG) nr. 889/2005](32005R0889) van de Raad van de Europese Unie van 13 juni 2005 tot vaststelling van bepaalde beperkende maatregelen ten aanzien van de Democratische Republiek Congo en tot intrekking van [Verordening (EG) nr. 1727/2003](32003R1727).
-
-2. Het verbod, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3 van [Verordening (EG) nr. 889/2005](32005R0889) van toepassing is.
+Vervallen
 
 ##### Artikel 2
 
-1. Het is verboden te handelen in strijd met de artikelen 2 en 6, eerste lid, van [Verordening (EG) nr. 1183/2005](32005R1183) van de Raad van de Europese Unie van 18 juli 2005 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen bepaalde personen die handelen in strijd met het wapenembargo tegen de Democratische Republiek Congo.
+1. Het is verboden te handelen in strijd met artikel 1 bis, artikel 2, artikel 6, eerste lid, en artikel 7 ter van [Verordening (EG) nr. 1183/2005](32005R1183) van de Raad van de Europese Unie van 18 juli 2005 tot vaststelling van bepaalde specifieke beperkende maatregelen tegen bepaalde personen die handelen in strijd met het wapenembargo tegen de Democratische Republiek Congo.
 
-2. Het verbod te handelen in strijd met artikel 2, bedoeld in het eerste lid, geldt niet in gevallen waarin artikel 3, 4 of 5 van [Verordening (EG) nr. 1183/2005](32005R1183) van toepassing is.
+2. Het verbod, bedoeld in het eerste lid, is niet van toepassing in de gevallen waarin artikel 1 ter, artikel 3, artikel 4 of artikel 5 van Verordening (EG) nr. 1183/2005 van toepassing is.
 
 ##### Artikel 3
 
@@ -66,7 +64,7 @@ Besluit:
 
 2. Het eerste lid is niet van toepassing op:
 
-- a. militaire goederen, militaire technologie of onderdelen daarvan uitsluitend bestemd ter ondersteuning van of voor gebruik door de VN-missie in de Democratische Republiek Congo (MONUC);
+- a. militaire goederen, militaire technologie of onderdelen daarvan uitsluitend bestemd ter ondersteuning van of voor gebruik door de Stabilisatiecommissie van de Verenigde Naties in de Democratische Republiek Congo (MONUSCO);
 
 - b. beschermende kledingstukken, waaronder scherfwerende vesten en militaire helmen, die door VN-personeel, vertegenwoordigers van de media, medewerkers van humanitaire organisaties en ontwikkelingswerkers en aanverwant personeel louter voor hun eigen bescherming tijdelijk naar de Democratische Republiek Congo worden uitgevoerd;
 
@@ -92,6 +90,8 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 3a
 
-De bevoegde autoriteit, bedoeld in artikel 3, eerste lid, van Verordening (EG) nr. 889/2005 van de Raad van de Europese Unie van 13 juni 2005 tot vaststelling van bepaalde beperkende maatregelen ten aanzien van de Democratische Republiek Congo en tot intrekking van Verordening (EG) nr. 1727/2003 (Pb EG L 152), is de Minister van Economische Zaken voor zover het betreft technische bijstand, bedoeld in voornoemd artikel 3, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 3, eerste lid.
+1. De bevoegde autoriteit, bedoeld in artikel 1 ter, eerste lid, van Verordening (EG) nr. 1183/2005 is de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft technische bijstand, bedoeld in voornoemd artikel 1 ter, eerste lid. De bevoegde autoriteit is de Minister van Financiën voor zover het betreft financiering en financiële bijstand, bedoeld in voornoemd artikel 1 ter, eerste lid.
+
+2. De bevoegde autoriteit, bedoeld in de artikelen 3 en 4 van Verordening (EG) nr. 1183/2005 is de Minister van Financiën voor zover het betreft de vrijgave van bevroren tegoeden en de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking voor zover het betreft de vrijgave van economische middelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
