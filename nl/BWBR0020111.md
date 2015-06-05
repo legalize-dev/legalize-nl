@@ -4,7 +4,7 @@ identifier: "BWBR0020111"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-12-31"
-last_updated: "2008-07-19"
+last_updated: "2015-06-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020111"
 soort: "AMvB"
@@ -70,13 +70,13 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Onze Minister van Verkeer en Waterstaat geeft op aanvraag een AOC af indien wordt voldaan aan:
+1. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een AOC af indien wordt voldaan aan:
 
 - a. voor vluchten met een vliegtuig: bijlage III bij EG-verordening 3922/91;
 
 - b. voor vluchten met een helikopter: JAR-OPS 3.
 
-2. Onze Minister van Verkeer en Waterstaat maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
+2. Onze Minister van Infrastructuur en Milieu maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
 
 3. Bij ministeriële regeling kunnen ten aanzien van de gegevens, die bij een aanvraag om afgifte of wijziging dan wel het instandhouden van een AOC dienen te worden verstrekt, regels worden gesteld.
 
@@ -88,9 +88,9 @@ Vervallen
 
 ##### Artikel 4
 
-1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2008-07-19&g=2008-07-19), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
+1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-06-05&g=2015-06-05), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
 
-2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2008-07-19&g=2008-07-19), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
+2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-06-05&g=2015-06-05), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 5
 
@@ -118,7 +118,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 ##### Artikel 8
 
-Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2008-07-19&g=2008-07-19), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2008-07-19&g=2008-07-19), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2008-07-19&g=2008-07-19), is een strafbaar feit.
+Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2015-06-05&g=2015-06-05), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2015-06-05&g=2015-06-05), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2015-06-05&g=2015-06-05), is een strafbaar feit.
 
 ##### Artikel 9
 
@@ -131,5 +131,15 @@ Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip,
 ##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit vluchtuitvoering.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
+
+##### Artikel 1a
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 5a
+
+De hoogte en de wijze van betaling van de vergoeding voor de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover dit besluit hier niet reeds in voorziet, wordt bij ministeriële regeling vastgesteld.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad wordt geplaatst.
