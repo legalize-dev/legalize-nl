@@ -4,7 +4,7 @@ identifier: "BWBR0030482"
 country: "nl"
 rank: "zbo"
 publication_date: "2026-01-01"
-last_updated: "2015-06-01"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030482"
 soort: "zbo"
@@ -43,21 +43,23 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- a. **Wmg:** de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Stb. 2006, 415);
+- a. **Wmg:** [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) (Stb. 2006, 415);
 
-- b. **NZa:** de Nederlandse Zorgautoriteit, als bedoeld in [artikel 3, eerste lid van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
+- b. **NZa:** Nederlandse Zorgautoriteit, als bedoeld in [artikel 3, eerste lid van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3);
 
-- c. **de Raad van Bestuur:** de voorzitter en de overige leden van de NZa gezamenlijk, als bedoeld in [artikel 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4);
+- c. **Raad van Bestuur:** voorzitter en de overige leden van de NZa gezamenlijk, als bedoeld in [artikel 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4);
 
-- d. **de voorzitter:** de voorzitter van de Raad van Bestuur;
+- d. **voorzitter:** voorzitter van de Raad van Bestuur;
 
-- e. **portefeuillehouder:** het lid dat door de Raad van Bestuur voor een bepaald aandachtsgebied is aangewezen als eerst verantwoordelijk bestuurslid;
+- e. **portefeuillehouder:** lid dat door de Raad van Bestuur voor een bepaald aandachtsgebied is aangewezen als eerst verantwoordelijk bestuurslid;
 
-- f. **directeur:** de leidinggevende van een directie;
+- f. **directeur:** leidinggevende van een directie;
 
-- g. **unitmanager:** de leidinggevende van één van de units;
+- g. **unitmanager:** leidinggevende van één van de units;
 
-- h. **medewerkers:** personeel in tijdelijke of vaste dienst of als gedetacheerde bij de NZa werkzaam.
+- h. **medewerker:** persoon in tijdelijke of vaste dienst of als gedetacheerde bij de NZa werkzaam;
+
+- i. **DBC’s:** Diagnose Behandeling Combinaties.
 
 ##### Artikel 2. Directie Zorgmarkten Care
 
@@ -69,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 1. De directie Zorgmarkten Cure is ten aanzien van de zorgmarkten cure belast met het monitoren van deze zorgmarkten, met bekostiging en tarief- en prestatieregulering en met advisering dan wel het doen van uitvoeringstoetsen op het gebied van marktordening.
 
-2. De directie Zorgmarkten Cure kent de units Eerstelijnszorg en Ketens, Tweedelijns Somatische Zorg en Geestelijke Gezondheidszorg.
+2. De directie Zorgmarkten Cure kent de units Eerstelijnszorg en Ketens, Tweedelijns Somatische Zorg, Geestelijke Gezondheidszorg en Intake en Ontwikkeling DBC’s.
 
 ##### Artikel 4. Directie Toezicht en Handhaving
 
@@ -77,29 +79,35 @@ In dit besluit wordt verstaan onder:
 
 2. De directie Toezicht en Handhaving kent de units Markttoezicht en Toezicht Zorgaanbieders, Detectie en Toezicht Zorgaanbieders, Toezicht Zorgverzekeraars en de unit Toezicht Transparantie en Zorgplicht.
 
-##### Artikel 5. Directie Bedrijfsvoering en informatie
+##### Artikel 5. Directie Bedrijfsvoering
 
-1. De directie Bedrijfsvoering en Informatie is belast met de uitvoering van projecten, met personele, financiële en facilitaire ondersteuning, met de informatievoorziening van de NZa, met procesmanagement, met organisatieontwikkeling en met het beheer van de informatielijn.
+1. De directie Bedrijfsvoering is belast met de uitvoering van projecten, met personele, financiële en facilitaire ondersteuning, met de informatievoorziening van de NZa, met procesmanagement, met organisatieontwikkeling en met het technisch beheer van applicaties en systemen.
 
-2. De directie Bedrijfsvoering en Informatie bestaat uit de units Informatie- en Facilitair Management, Informatie- en Coördinatiecentrum, Financiën en Control en de Projectenpool.
+2. De directie Bedrijfsvoering bestaat uit de units Informatie- en Facilitair Management, IT, Financiën en Control en de Projectenpool.
 
-##### Artikel 6. Directie Strategie en Juridische Zaken
+##### Artikel 6. Directie Informatie Service Centrum
+
+1. De Directie Informatie Service Centrum is belast met het verzamelen, beheren en doorleveren van data, het afhandelen van vragen en het leveren van services en informatie ten behoeve van externe en interne stakeholders en technische realisatie en beheer van prestaties en tarieven.
+
+2. De Directie Informatie Service Centrum bestaat uit de units Service Centrum Prestaties en Tarieven, Informatie en Contact Centrum, en Zorginformatiecentrum.
+
+##### Artikel 7. Directie Strategie en Juridische Zaken
 
 1. De directie Strategie en Juridische Zaken is belast met advisering op economisch, medisch en juridisch gebied van de Raad van Bestuur en de beleidsdirecties, kennisontwikkeling en onderzoek, strategie en communicatie, bestuursondersteuning, relatiebeheer, bestuurlijke kaderstelling en control en juridische zaken.
 
 2. De directie Strategie en Juridische Zaken bestaat uit de units Economisch en Medisch Bureau, Strategie en Bestuursondersteuning, Communicatie en Juridische Zaken.
 
-##### Artikel 7. Unit Human Resource Management
+##### Artikel 8. Unit Human Resource Management
 
 De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing en organisatie-ontwikkeling, arbeidsvoorwaarden, de HR-cyclus, personeels in- en uitstroom, opleiding, coaching, conflictbemiddeling, gezondheidszorg, het ondersteunen van de unitmanagers en directeuren bij de uitvoering van het HRM-beleid en de advisering van de Raad van Bestuur op het gebied van organisatie- en personele vraagstukken.
 
-##### Artikel 8. Binnen beleid en begroting
+##### Artikel 9. Binnen beleid en begroting
 
-1. De op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=10&z=2015-06-01&g=2015-06-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2015-06-01&g=2015-06-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=12&z=2015-06-01&g=2015-06-01) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2015-06-01&g=2015-06-01) bij dit besluit.
+1. De op grond van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=11&z=2015-06-06&g=2015-06-06), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=12&z=2015-06-06&g=2015-06-06) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=13&z=2015-06-06&g=2015-06-06) van dit besluit verleende bevoegdheden gelden voor de uitoefening van taken binnen het door de Raad van Bestuur vastgestelde beleid, de begroting en de personeelsformatie en overeenkomstig de door de Raad van Bestuur vastgestelde richtlijnen, waaronder de richtlijnen opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=1&z=2015-06-06&g=2015-06-06) bij dit besluit.
 
 2. Directeuren en de unitmanager HRM oefenen hun bevoegdheden uit in overleg met hun portefeuillehouder.
 
-##### Artikel 9. Afwezigheid of ontstentenis
+##### Artikel 10. Afwezigheid of ontstentenis
 
 1. Bij afwezigheid of ontstentenis van een directeur aan wie krachtens dit besluit een bevoegdheid is toegekend, valt deze bevoegdheid toe aan zijn of haar door de Raad van Bestuur benoemde plaatsvervanger.
 
@@ -107,7 +115,7 @@ De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing e
 
 3. Bij afwezigheid of ontstentenis van de unitmanager HRM vallen diens bevoegdheden toe aan de portefeuillehouder HRM.
 
-##### Artikel 10. Mandaat
+##### Artikel 11. Mandaat
 
 1. Directeuren zijn met inachtneming van het tweede, vijfde en zesde lid, voor de uitvoering van de werkzaamheden van hun directie, bevoegd om namens de NZa beschikkingen te nemen, met uitzondering van beschikkingen als bedoeld in de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=48), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49), [85 tot en met 90 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=85) en beschikkingen op bezwaar.
 
@@ -121,17 +129,17 @@ De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing e
 
 6. De portefeuillehouder Toezicht en Handhaving is bevoegd om beschikkingen te nemen tot het ter openbare kennis brengen van een aanwijzing en een last onder dwangsom.
 
-7. De unitmanager HRM is, met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2015-06-01&g=2015-06-01), bevoegd voor de uitvoering van de werkzaamheden van zijn unit, namens de NZa beschikkingen te nemen betreffende verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), betreffende dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, betreffende de rechtspositie van het personeel van zijn unit, met uitzondering van beschikkingen tot het aanstellen, bevorderen en ontslaan en beschikkingen tot het verlenen van een voorschot op het salaris, tot het geven van een gratificatie en tot het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
+7. De unitmanager HRM is, met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&artikel=8&z=2015-06-06&g=2015-06-06), bevoegd voor de uitvoering van de werkzaamheden van zijn unit, namens de NZa beschikkingen te nemen betreffende verzoeken krachtens de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), betreffende dwangsombeschikkingen in verband met het niet-tijdig beslissen op een aanvraag of een bezwaarschrift, betreffende de rechtspositie van het personeel van zijn unit, met uitzondering van beschikkingen tot het aanstellen, bevorderen en ontslaan van personeel en beschikkingen tot het verlenen van een voorschot op het salaris, tot het geven van een gratificatie en tot het vaststellen van een beoordeling en de daaruit voortvloeiende besluiten.
 
-##### Artikel 11. Volmacht
+##### Artikel 12. Volmacht
 
-1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-01&g=2015-06-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+1. Directeuren onderscheidenlijk leden van de Raad van Bestuur zijn voor de uitvoering van de werkzaamheden van hun directie onderscheidenlijk het aandachtsgebied waarvoor de portefeuillehouder verantwoordelijk is, bevoegd namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-06-06) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-01&g=2015-06-01) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+2. Directeuren zijn bevoegd tot het verlenen van ondervolmacht aan hun unitmanagers om voor de uitvoering van de werkzaamheden van hun unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met in achtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-06-06) opgenomen maxima ten aanzien van de uit die rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-3. De unitmanager HRM is bevoegd voor de uitvoering van werkzaamheden van zijn unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-01&g=2015-06-01) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
+3. De unitmanager HRM is bevoegd voor de uitvoering van werkzaamheden van zijn unit namens de NZa privaatrechtelijke rechtshandelingen te verrichten met inachtneming van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030482&bijlage=2&z=2015-06-06&g=2015-06-06) opgenomen maxima ten aanzien van de uit de rechtshandelingen voor de NZa voortvloeiende financiële verplichtingen.
 
-##### Artikel 12. Machtiging
+##### Artikel 13. Machtiging
 
 1. De leden van de Raad van Bestuur zijn bevoegd namens de NZa handelingen te verrichten, anders dan besluiten en privaatrechtelijke rechtshandelingen.
 
@@ -143,31 +151,25 @@ De unit Human Resource Management (HRM) is belast met persoonlijke ontplooiing e
 
 5. De unitmanagers zijn bevoegd voor de bevoegdheden als bedoeld in het derde lid verdere machtiging te verlenen aan de medewerkers van de onder hun verantwoordelijkheid vallende unit, voor zover het de normale functie-uitoefening van die medewerkers betreft.
 
-##### Artikel 13. Vertegenwoordiging
+##### Artikel 14. Vertegenwoordiging
 
 De juristen van de unit Juridische Zaken zijn bevoegd de NZa te vertegenwoordigen in gerechtelijke procedures en mediation en daartoe alle noodzakelijke proces- en feitelijke handelingen te verrichten.
 
-##### Artikel 14. Hoorzittingen
+##### Artikel 15. Hoorzittingen
 
 1. Behoudens ten aanzien van gevallen waarin een adviescommissie ex [artikel 7:13 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13) is ingesteld, maken de portefeuillehouders met de manager van de unit Juridische Zaken afspraken over het voorzitterschap van hoorzittingen in bezwaarprocedures en ter voorbereiding van een boetebesluit.
 
 2. De hoorzittingen zijn niet openbaar.
 
-##### Artikel 15. Aanwijzing toezichthouders
+##### Artikel 16. Aanwijzing toezichthouders
 
 1. Als medewerkers die belast zijn met het toezicht op de naleving van de bepalingen in de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), de [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) en de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving) als bedoeld in [artikel 72, lid 1, onder b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=72), zijn aangewezen alle medewerkers van de NZa, met uitzondering van de directeur Strategie en Juridische Zaken, de unitmanager Juridische Zaken en de secretaresses van de NZa.
 
 2. De voorzitter ondertekent de legitimatiebewijzen van de ingevolge het eerste lid van dit artikel aangewezen medewerkers.
 
-##### Artikel 16. Betalingsopdrachten
+##### Artikel 17. Betalingsopdrachten
 
 Overeenkomstig de met de bankinstelling afgesproken betalingsprocedure zijn de leden van de Raad van Bestuur en de door de Raad van Bestuur aangewezen medewerkers bevoegd tot het verstrekken van betalingsopdrachten ter zake van door of namens de NZa aangegane financiële verplichtingen.
-
-##### Artikel 17. Inwerkingtreding en vervanging eerdere versies
-
-1. Dit besluit treedt in werking op 1 oktober 2011.
-
-2. Dit besluit vervangt alle versies van het [Besluit organisatie, mandaat, volmacht en machtiging NZa](https://wetten.overheid.nl/jci1.3:c:BWBR0030379) die voor 1 oktober 2011 zijn vastgesteld en alle wijzigingsbesluiten waarmee daarin wijzigingen zijn aangebracht.
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
@@ -217,9 +219,11 @@ Directeuren onderscheidenlijk leden van de Raad van Bestuur en unitmanagers zijn
 
 (Onder)volmachten kunnen uitsluitend worden uitgeoefend met in achtneming van de door de Raad van Bestuur vastgestelde budgetten en met inachtneming van de door de Raad van Bestuur vastgestelde richtlijnen.
 
-##### Artikel 18. Citeertitel
+##### Artikel 18. Inwerkingtreding en vervanging eerdere versies
 
-Dit besluit met inbegrip van de bijlagen wordt aangehaald als Besluit organisatie, mandaat, volmacht en machtiging NZa.
+1. Dit besluit treedt in werking op 1 oktober 2011.
+
+2. Dit besluit vervangt alle versies van het [Besluit organisatie, mandaat, volmacht en machtiging NZa](https://wetten.overheid.nl/jci1.3:c:BWBR0030379) die voor 1 oktober 2011 zijn vastgesteld en alle wijzigingsbesluiten waarmee daarin wijzigingen zijn aangebracht.
 
 ## Bijlage 1. Werkwijze NZa – sturing en verantwoording
 
