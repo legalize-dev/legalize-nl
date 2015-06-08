@@ -4,7 +4,7 @@ identifier: "BWBV0005123"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-06-08"
-last_updated: "1996-05-02"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005123"
 soort: "verdrag"
@@ -54,7 +54,7 @@ Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij di
 
 ##### Artikel 3
 
-Wijzigt het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976; Londen, 19 november 1976.
+Zie de bijgevoegde geconsolideerde tekst van het Verdrag, zoals gewijzigd bij dit Protocol.
 
 ##### Artikel 4
 
@@ -252,15 +252,15 @@ Wanneer een persoon, die krachtens de regels van dit Verdrag gerechtigd is zijn 
 
 - a. met betrekking tot vorderingen ter zake van dood of letsel:
 
-- i. 2 miljoen rekeneenheden voor een schip met een tonnage van niet meer dan 2.000 ton,
+- i. 3,02 miljoen rekeneenheden voor een schip met een tonnage van niet meer dan 2.000 ton,
 
-- ii. voor een schip met een groter tonnage, het volgende bedrag geteld bij dat genoemd onder i: per ton tussen 2.001 en 30.000 ton, 800 rekeneenheden; per ton tussen 30.001 en 70.000 ton, 600 rekeneenheden; en per ton boven 70.000 ton, 400 rekeneenheden,
+- ii. voor een schip met een groter tonnage, het volgende bedrag geteld bij dat genoemd onder i: per ton tussen 2.001 en 30.000 ton, 1.208 rekeneenheden; per ton tussen 30.001 en 70.000 ton, 906 rekeneenheden; en per ton boven 70.000 ton, 604 rekeneenheden,
 
 - b. met betrekking tot alle andere vorderingen:
 
-- i. 1 miljoen rekeneenheden voor een schip met een tonnage van niet meer dan 2.000 ton,
+- i. 1,51 miljoen rekeneenheden voor een schip met een tonnage van niet meer dan 2.000 ton,
 
-- ii. voor een schip met een groter tonnage, het volgende bedrag geteld bij dat genoemd onder i: per ton tussen 2.001 en 30.000 ton, 400 rekeneenheden; per ton tussen 30.001 en 70.000 ton, 300 rekeneenheden; en per ton boven 70.000 ton, 200 rekeneenheden.
+- ii. voor een schip met een groter tonnage, het volgende bedrag geteld bij dat genoemd onder i: per ton tussen 2.001 en 30.000 ton, 604 rekeneenheden; per ton tussen 30.001 en 70.000 ton, 453 rekeneenheden; en per ton boven 70.000 ton, 302 rekeneenheden.
 
 2. Wanneer het bedrag, berekend overeenkomstig het eerste lid, letter a, onvoldoende is voor de volledige betaling der daarin genoemde vorderingen, is het bedrag berekend overeenkomstig het eerste lid, letter b, beschikbaar voor betaling van het onbetaalde saldo van de in het eerste lid, letter a, genoemde vorderingen en dit onbetaalde saldo deelt naar evenredigheid mee met de in het eerste lid, letter b, genoemde vorderingen.
 
