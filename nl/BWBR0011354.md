@@ -4,7 +4,7 @@ identifier: "BWBR0011354"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011354"
 soort: "wet"
@@ -396,7 +396,7 @@ Vervallen.
 
 - 2. Het eerste lid is niet van toepassing op rechten van lidmaatschap van coöperaties indien die rechten direct en uitsluitend of nagenoeg uitsluitend het recht op uitsluitend of nagenoeg uitsluitend gebruik belichamen van een gebouw of van een gedeelte daarvan dat blijkens zijn inrichting is bestemd om als afzonderlijk geheel te worden gebruikt.
 
-- 1. Voor de toepassing van de onderdelen AB, AC, AD, AE, AF, AG en AI worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in [artikel 2, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) gelijkgesteld met aandelen in vennootschappen met een in aandelen verdeeld kapitaal en worden de fondsen gelijkgesteld met vennootschappen.
+- 1. Voor de toepassing van de onderdelen AB, AC, AD, AE, AF, AG en AI worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in [artikel 2, derde lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) gelijkgesteld met aandelen in vennootschappen met een in aandelen verdeeld kapitaal en worden de fondsen gelijkgesteld met vennootschappen.
 
 - 2. Voor de beoordeling van de vraag of een belastingplichtige een aanmerkelijk belang heeft in een fonds voor gemene rekening wordt zijn bezit aan bewijzen van deelgerechtigdheid in het fonds uitgedrukt als een percentage van de in omloop zijnde bewijzen van deelgerechtigdheid, waarbij andere dan enkelvoudige bewijzen van deelgerechtigdheid worden herleid tot een daarmee overeenstemmend aantal enkelvoudige bewijzen.
 
@@ -760,9 +760,9 @@ Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in de
 
 ##### Artikel II. Inwerkingtreding
 
-1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2015-01-01&g=2015-01-01), dat in werking treedt op 31 december 2000.
+1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2015-06-12), dat in werking treedt op 31 december 2000.
 
-2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2015-01-01&g=2015-01-01), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
+2. In afwijking van het eerste lid, treedt [hoofdstuk 2, artikel 1, onderdelen Dc en Dd](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2018-01-01&g=2015-06-12), in werking op een bij koninklijk besluit te bepalen tijdstip dat zo nodig terugwerkende kracht kan hebben tot 1 januari 2001.
 
 3. Deze wet wordt aangehaald als: Invoeringswet Wet inkomstenbelasting 2001.
 
