@@ -4,7 +4,7 @@ identifier: "BWBV0005506"
 country: "nl"
 rank: "verdrag"
 publication_date: "2022-04-27"
-last_updated: "2007-05-11"
+last_updated: "2015-06-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005506"
 soort: "verdrag"
@@ -252,7 +252,7 @@ De Leden hebben recht op het volgende aantal vertegenwoordigers:
 | Litouwen | 4 |
 | Luxemburg | 3 |
 | Malta | 3 |
-| Moldavië | 5 |
+| De Republiek Moldavië | 5 |
 | Monaco | 2 |
 | Montenegro | 3 |
 | Nederland | 7 |
@@ -260,7 +260,7 @@ De Leden hebben recht op het volgende aantal vertegenwoordigers:
 | Polen | 12 |
 | Portugal | 7 |
 | Roemenië | 10 |
-| Rusland | 18 |
+| Russische Federatie | 18 |
 | San Marino | 2 |
 | Servië | 7 |
 | De Slowaakse Republiek | 5 |
@@ -268,10 +268,10 @@ De Leden hebben recht op het volgende aantal vertegenwoordigers:
 | Spanje | 12 |
 | Zweden | 6 |
 | Zwitserland | 6 |
-| De Voormalige Joegoslavische Republiek Macedonië | 3 |
-| Turkije | 12 |
+| „De Voormalige Joegoslavische Republiek Macedonië” | 3 |
+| Turkije | 18 |
 | Oekraïne | 12 |
-| Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland | 18 |
+| Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland | 18 |
 
 ##### Artikel 27
 
