@@ -4,7 +4,7 @@ identifier: "BWBR0036683"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-06-17"
-last_updated: "2015-02-27"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036683"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ In dit besluit wordt verstaan onder:
 
 - a. **Staatssecretaris:** Staatssecretaris van Infrastructuur en Milieu;
 
-- b. **commissie:** de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL, ingesteld bij de [Regeling instelling Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL](https://wetten.overheid.nl/jci1.3:c:BWBR0036679&wetgeving);
+- b. **commissie:** de Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL, ingesteld bij de [Regeling instelling Adviescommissie Onderzoek arbeidsvoorwaarden en FLNA LVNL](https://wetten.overheid.nl/jci1.3:c:BWBR0036679);
 
 - c. **LVNL:** Luchtverkeersleiding Nederland;
 
