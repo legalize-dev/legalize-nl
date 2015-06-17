@@ -4,7 +4,7 @@ identifier: "BWBR0035202"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-06-17"
-last_updated: "2015-06-01"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035202"
 soort: "pbo"
@@ -44,7 +44,7 @@ Besluit vast te stellen:
 
 In deze verordening wordt verstaan onder:
 
-- a. **aspirant:** degene die de opleiding tot registerloods gaat volgen of volgt gedurende de periode dat hij beschikt over een geldig bewijs tot deelname aan die opleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-01&g=2015-06-01);
+- a. **aspirant:** degene die de opleiding tot registerloods gaat volgen of volgt gedurende de periode dat hij beschikt over een geldig bewijs tot deelname aan die opleiding, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-17&g=2015-06-17);
 
 - b. **bewijs tot deelname:** een bewijs van toelating voor de opleiding, overeenkomstig [artikel 7.30b, eerste lid van de Wet op Hoger onderwijs en Wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.30b);
 
@@ -52,7 +52,7 @@ In deze verordening wordt verstaan onder:
 
 ##### Artikel 2. Inschrijvingsverklaring
 
-Voor de inschrijvingsverklaring wordt het model vastgesteld dat als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=I&z=2015-06-01&g=2015-06-01) bij deze verordening is gevoegd.
+Voor de inschrijvingsverklaring wordt het model vastgesteld dat als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=I&z=2015-06-17&g=2015-06-17) bij deze verordening is gevoegd.
 
 #### Paragraaf 2. Doorhaling van de inschrijving in het Loodsenregister
 
@@ -64,17 +64,15 @@ De inschrijving in het register, bedoeld in [artikel 21, eerste lid, van de Lood
 
 ##### Artikel 4. Studievergoeding en betaling
 
-1. De algemene raad draagt er zorg voor dat aan de aspirant onder de voorwaarden genoemd in een geldig bewijs tot deelname, waarvan een model bij deze verordening is toegevoegd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=II&z=2015-06-01&g=2015-06-01), een studievergoeding van € 3.262,92 bruto per maand wordt uitgekeerd. Deze vergoeding wordt door een daartoe door de algemene raad aangewezen organisatie en in overeenstemming met het verantwoordelijke orgaan van die organisatie voor het eind van de maand waarover de betaling verschuldigd is uitgekeerd.
+1. De algemene raad draagt er zorg voor dat aan de aspirant onder de voorwaarden genoemd in een geldig bewijs tot deelname, waarvan een model bij deze verordening is toegevoegd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&bijlage=II&z=2015-06-17&g=2015-06-17), een studievergoeding van € 3.262,92 bruto per maand wordt uitgekeerd. Deze vergoeding wordt door een daartoe door de algemene raad aangewezen organisatie en in overeenstemming met het verantwoordelijke orgaan van die organisatie voor het eind van de maand waarover de betaling verschuldigd is uitgekeerd.
 
 2. De studievergoeding wordt jaarlijks op de eerste dag van het kalenderjaar, beginnend in 2015 geïndexeerd overeenkomstig de indexering bedoeld in [artikel 3.1 van het Besluit Markttoezicht registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0023123&artikel=3.1).
-
-3. De algemene raad draagt er zorg voor dat de aspirant onder de voorwaarden genoemd in het bewijs tot deelname aanspraak kan maken op de vangnetregeling bij arbeidsongeschiktheid tot aan het invaliditeitspensioen, het invaliditeitspensioen en daarop aansluitend ouderdomspensioen, volgens de bepalingen van het Pensioenreglement voor a spirant-registerloodsen van de Stichting Beroepspensioenfonds Loodsen, gevestigd te Rotterdam en in geval van overlijden de nabestaanden zich kunnen beroepen op het weduwen- en wezenpensioen, volgens de bepalingen van dat reglement.
 
 #### Paragraaf 4. Overige bepalingen
 
 ##### Artikel 5
 
-De [Deelnemings- en Inschrijvingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0024643&wetgeving) wordt ingetrokken.
+De [Deelnemings- en Inschrijvingsverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0024643) wordt ingetrokken.
 
 ##### Artikel 6. Overgangsrecht
 
@@ -88,9 +86,9 @@ Deze verordening treedt in werking met ingang van de eerste dag na dagtekening v
 
 Deze verordening wordt aangehaald als: Deelnemings- en Inschrijvingsverordening registerloodsen 2014.
 
-## Bijlage I. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=1&artikel=2&z=2015-06-01&g=2015-06-01) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
+## Bijlage I. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=1&artikel=2&z=2015-06-17&g=2015-06-17) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
 
-## Bijlage II. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-01&g=2015-06-01) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
+## Bijlage II. Behoort bij de Deelnemings- en Inschrijvingsverordening registerloodsen 2014 bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035202&paragraaf=3&artikel=4&z=2015-06-17&g=2015-06-17) vastgesteld bij besluit van de ledenvergadering van de Nederlandse Loodsencorporatie op 3 juni 2014 te Rotterdam, nr. 1
 
 ### Model
 
