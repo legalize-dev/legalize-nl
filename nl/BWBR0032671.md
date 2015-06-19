@@ -4,7 +4,7 @@ identifier: "BWBR0032671"
 country: "nl"
 rank: "wet"
 publication_date: "2015-06-19"
-last_updated: "2013-01-01"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032671"
 soort: "wet"
@@ -228,15 +228,15 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 - b. aanmaningen of dwangbevelen die door de ontvanger, bedoeld in [artikel 33f, zevende lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f), zoals dit luidde op 31 december 2012, voor 1 januari 2013 zijn verzonden, onderscheidenlijk uitgevaardigd, geacht worden te zijn verzonden, onderscheidenlijk uitgevaardigd, door het met ingang van 1 januari 2013 bevoegde bestuursorgaan;
 
-- c. [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XVII&z=2013-01-01&g=2013-01-01), voor het eerst toepassing vindt met betrekking tot tegemoetkomingen waarvoor een verzoek om opgaaf is gedaan op of na 1 januari 2013;
+- c. [artikel XVII, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XVII&z=2015-06-19&g=2015-06-19), voor het eerst toepassing vindt met betrekking tot tegemoetkomingen waarvoor een verzoek om opgaaf is gedaan op of na 1 januari 2013;
 
-- d. [artikel XXV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXV&z=2013-01-01&g=2013-01-01), toepassing vindt voordat de [artikelen II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=II), [III, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=III), en [XXX, onderdeel G, van de Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXX) worden toegepast;
+- d. [artikel XXV, onderdelen A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXV&z=2015-06-19&g=2015-06-19), toepassing vindt voordat de [artikelen II, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=II), [III, onderdeel K](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=III), en [XXX, onderdeel G, van de Wet uniformering loonbegrip](https://wetten.overheid.nl/jci1.3:c:BWBR0030105&artikel=XXX) worden toegepast;
 
-- e. [artikel XXVI, onderdelen Ba en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXVI&z=2013-01-01&g=2013-01-01), toepassing vindt voordat de [artikelen XXVIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII), en [XXXIV van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXXIV) worden toegepast.
+- e. [artikel XXVI, onderdelen Ba en C](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXVI&z=2015-06-19&g=2015-06-19), toepassing vindt voordat de [artikelen XXVIII, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXVIII), en [XXXIV van het Belastingplan 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030999&artikel=XXXIV) worden toegepast.
 
-2. [Artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIV&z=2013-01-01&g=2013-01-01), werkt terug tot en met 1 januari 2012.
+2. [Artikel XIV, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIV&z=2015-06-19&g=2015-06-19), werkt terug tot en met 1 januari 2012.
 
-3. [Artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIII&z=2013-01-01&g=2013-01-01), werkt terug tot en met 20 juli 2012.
+3. [Artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIII&z=2015-06-19&g=2015-06-19), werkt terug tot en met 20 juli 2012.
 
 ##### Artikel XXXVI
 
