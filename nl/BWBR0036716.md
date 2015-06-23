@@ -4,7 +4,7 @@ identifier: "BWBR0036716"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-06-23"
-last_updated: "2013-01-01"
+last_updated: "2015-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036716"
 soort: "ministeriele-regeling"
@@ -70,11 +70,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - c. **Besluit:** [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971);
 
-- d. **bijlage:** [bijlage behorende bij de artikelen 2 en 4 van het Besluit](478189).
+- d. **bijlage:** [bijlage behorende bij de artikelen 2 en 4 van het Besluit](onbekend).
 
 ##### Artikel 2. werkingssfeer
 
-Deze aanwijzing is van toepassing op medisch specialistische zorg als bedoeld in [onderdeel B, aanhef en onder 3 tot en met 9, 12 en 13 van de bijlage](478189).
+Deze aanwijzing is van toepassing op medisch specialistische zorg als bedoeld in [onderdeel B, aanhef en onder 3 tot en met 9, 12 en 13 van de bijlage](onbekend).
 
 ##### Artikel 3. opdrachtverlening
 
@@ -82,17 +82,17 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing regels of beleidsrege
 
 ##### Artikel 4. spoedeisende hulp
 
-1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 7, van de bijlage](478189).
+1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 7, van de bijlage](onbekend).
 
 2. Voor de zorgaanbieders die voor deze zorg in 2012 een beschikbaarheidbijdrage ontvingen en deze blijven ontvangen voor het jaar 2013 gaat de zorgautoriteit uit van de hoogte van de beschikbaarheidbijdrage 2012.
 
-3. Voor zorgaanbieders die in 2012 geen beschikbaarheidbijdrage voor deze zorg ontvingen, verstrekt de zorgautoriteit een beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 7 van de bijlage](478189).
+3. Voor zorgaanbieders die in 2012 geen beschikbaarheidbijdrage voor deze zorg ontvingen, verstrekt de zorgautoriteit een beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 7 van de bijlage](onbekend).
 
 ##### Artikel 5. acute verloskunde
 
-1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](478189).
+1. De zorgautoriteit verleent een beschikbaarheidbijdrage en stelt deze vast voor zorg als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](onbekend).
 
-2. De zorgautoriteit verstrekt de beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](478189).
+2. De zorgautoriteit verstrekt de beschikbaarheidbijdrage uitsluitend onder de voorwaarde dat die bijdrage tot doel heeft een dreigende verslechtering in de bereikbaarheid te voorkomen ten opzichte van de thans bestaande landelijke situatie, uitgaande van gevoeligheid voor de zogenaamde 45-minuten bereikbaarheidsnorm als bedoeld in [onderdeel B, aanhef en onder 8, van de bijlage](onbekend).
 
 ##### Artikel 6
 
