@@ -4,7 +4,7 @@ identifier: "BWBR0036697"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-06-23"
-last_updated: "2014-01-01"
+last_updated: "2015-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036697"
 soort: "ministeriele-regeling"
@@ -39,8 +39,6 @@ entry_into_force: "2015-06-23"
 Gelet op [artikel 2, eerste en vierde lid van het Besluit informatievoorziening WPO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029578&artikel=2), [artikel 17, vijfde lid, van het Bekostigingsbesluit WVO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029598&artikel=17) en de [artikelen 1.3.1, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.3.1) en [2.3.2, tweede lid, van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=2.3.2);
 
 Besluit:
-
-De terugwerkende kracht betreft Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel I
 
