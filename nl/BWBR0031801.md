@@ -4,7 +4,7 @@ identifier: "BWBR0031801"
 country: "nl"
 rank: "ministeriele_regeling_bes"
 publication_date: "2023-03-16"
-last_updated: "2014-01-01"
+last_updated: "2015-06-23"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031801"
 soort: "ministeriele-regeling-BES"
@@ -46,19 +46,21 @@ In deze regeling wordt verstaan onder:
 
 - **bevoegd gezag:** het bevoegd gezag, bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1), of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
-- **onderwijsinstelling:** een bekostigde school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), dan wel een instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
+- **onderwijsinstelling:** een bekostigde school of een expertisecentrum onderwijszorg als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1) of in [artikel 1 van de Wet voortgezet onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030284&artikel=1), dan wel een instelling of een expertisecentrum onderwijszorg als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=1.1.1);
 
 - **jaarrekening:** het onderdeel van het jaarverslag, bestaande uit de balans, de staat van baten en lasten, het kasstroomoverzicht, de toelichting op de balans en de staat van baten en lasten – waaronder het overzicht: ‘niet uit de balans blijkende zaken’ – en de overige gegevens;
 
-- **jaarverslag:** het verslag, bestaande uit een bestuursverslag, een jaarrekening en andere gegevens, waarmee het bevoegd gezag interne en externe belanghebbenden informeert over het gevoerde beleid en de gang van zaken bij de instelling, de uitkomsten van het gevoerde beleid in het jaar waarover verslag wordt gedaan alsmede de aanwending van middelen in dat jaar en verantwoording aflegt overeenkomstig de gestelde wettelijke eisen.
+- **jaarverslag:** het verslag, bestaande uit een bestuursverslag, een jaarrekening en andere gegevens, waarmee het bevoegd gezag interne en externe belanghebbenden informeert over het gevoerde beleid en de gang van zaken bij de instelling, de uitkomsten van het gevoerde beleid in het jaar waarover verslag wordt gedaan alsmede de aanwending van middelen in dat jaar en verantwoording aflegt overeenkomstig de gestelde wettelijke eisen;
 
-##### Artikel 2. Voorschriften voor de inrichting van het jaarverslag door de onderwijsinstellingen
+- **jaarverslaggeving**: het geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, waarvan is aangegeven dat zij deel uitmaken van de jaarverslaggeving.
 
-Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepalingen en modellen en de nadere aanwijzingen van deze regeling. Onvermijdelijke afwijkingen, of voor het geven van het inzicht noodzakelijke afwijkingen, ten opzichte van de voorschriften in deze regeling worden in het betreffende onderdeel van het jaarverslag aangegeven.
+##### Artikel 2. Voorschriften voor de inrichting van het jaarverslag door de onderwijsinstellingen, inclusief de jaarrekening
+
+De jaarverslaggeving, inclusief de jaarrekening, wordt ingericht en ingediend overeenkomstig de wettelijke bepalingen en de modellen en nadere aanwijzingen van deze regeling. Als basis voor de inrichting van de posten uit de jaarrekening gelden de inrichtingsvoorschriften zoals bedoeld in boek 2, titel 9 van het Burgerlijk Wetboek BES en de richtlijnen zoals gepubliceerd door de Raad voor de Jaarverslaggeving. Onvermijdelijke afwijkingen of voor het geven van het inzicht noodzakelijke afwijkingen ten opzichte van de voorschriften in deze regeling worden in het jaarverslag aangegeven.
 
 ##### Artikel 3. Specifieke inrichtingsvoorschriften
 
-1. Het jaarverslag wordt wat betreft het onderdeel bestuursverslag, gepubliceerd in de voertaal van het desbetreffende eiland. De andere onderdelen van het jaarverslag worden in het Nederlands opgesteld.
+1. De jaarverslaggeving wordt gepubliceerd in de Nederlandse taal en wordt daarnaast bij voorkeur tevens gepubliceerd in de voertaal van het desbetreffende eiland.
 
 2. De bedragen worden aangegeven in USD.
 
@@ -72,7 +74,7 @@ Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepali
 
 7. Ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, blijft het model van de bijlage, onder A, beperkt tot die posten waarvoor die toerekening wel mogelijk is.
 
-8. Separaat van het jaarverslag wordt door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens.
+8. Aan het jaarverslag wordt een onderdeel toegevoegd waarin het bevoegd gezag met gebruikmaking van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=2&z=2015-06-23&g=2015-06-23) bij deze regeling opgenomen set gegevens en de daarbij behorende toelichting de resultaten van het financiële beleid over het verslagjaar aangeeft. Daarnaast rapporteert het bevoegd gezag in dit onderdeel in meerjarenperspectief over de drie verslagjaren volgend op het verslagjaar. Deze rapportage omvat ook het risicomanagement en het interne toezicht.
 
 ##### Artikel 4. Bestuursverslag
 
@@ -108,7 +110,7 @@ Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepali
 
 - f. overige gegevens.
 
-2. In de jaarrekening worden gesegmenteerde overzichten en toelichtingen opgenomen als sprake is van meerdere onderwijssectoren binnen het bevoegd gezag of indien dit voor het geven van het vereiste inzicht noodzakelijk is.
+2. De jaarrekening kan gesegmenteerde overzichten en toelichtingen bevatten indien dit voor het geven van inzicht noodzakelijk is.
 
 3. In de jaarrekening worden de cijfers vergeleken met de overeenkomstige cijfers van het voorafgaande jaar (jaar t-1).
 
@@ -136,7 +138,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ## Bijlage 2. behorende bij de Regeling jaarverslaggeving onderwijs BES
 
-### Bijlage bij [artikel 4, 8e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2015-06-23&g=2014-01-01)
+### Bijlage bij [artikel 4, 8e lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&artikel=3&z=2015-06-23&g=2015-06-23)
 
 Set gegevens voor de continuïteitsparagraaf, voor zover van toepassing
 
@@ -183,5 +185,7 @@ In deze rapportage, onderdeel van het jaarverslag, geeft het toezichthoudend org
 ## Bijlage. behorende bij de Regeling jaarverslaggeving onderwijs BES
 
 ### Model Jaarrekening
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
