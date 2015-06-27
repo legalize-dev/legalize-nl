@@ -4,7 +4,7 @@ identifier: "BWBR0014172"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2019-02-08"
-last_updated: "2014-10-08"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014172"
 soort: "beleidsregel"
@@ -82,7 +82,7 @@ PROBAS heeft tot doel:
 
 - a. de naleving te bevorderen van de verdragsverplichtingen en de verplichtingen uit internationale overeenkomsten daaronder begrepen de rechten en plichten van geprivilegieerden, en
 
-- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2014-10-08&g=2014-10-08), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
+- b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2015-06-27&g=2015-06-27), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
 
 ##### Artikel 4. Soorten opgenomen persoonsgegevens
 
@@ -118,31 +118,29 @@ Vervallen
 
 ##### Artikel 7. Verstrekking aan afnemers
 
-1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2014-10-08&g=2014-10-08), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
+1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2015-06-27&g=2015-06-27), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
 
 2. Een verzoek, bedoeld in het eerste lid, is niet nodig ten aanzien van een verstrekking aan de volgende afnemers:
 
-- a. De Belastingdienst Douane, ondernemingen en particulieren,
+- a. Het Ministerie van Financiën (de Belastingdienst),
 
-- b. De Basisregistratie personen,
+- b. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),
 
-- c. Het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (AIVD),
+- c. Het Ministerie van Defensie (MIVD en de Koninklijke Marechaussee),
 
-- d. Het Ministerie van Defensie (MIVD),
+- d. De gemeenten,
 
-- e. De gemeenten in verband met gemeentelijke belastingen,
+- e. De Nationale Politie,
 
-- f. De staf van de Koninklijke Marechaussee,
+- f. De Immigratie- en Naturalisatiedienst,
 
-- g. De korpschef van de politie,
+- g. De Sociale Verzekeringsbank,
 
-- h. De politiediensten van Nederland,
+- h. Het Rijksinstituut voor Volksgezondheid en Milieu,
 
-- i. De vreemdelingendiensten,
+- i. De waterschappen, en
 
-- j. De Sociale Verzekeringsbank, en
-
-- k. Het Rijksinstituut voor Volksgezondheid en Milieu.
+- j. De RDW.
 
 3. Uit PROBAS kunnen op verzoek persoonsgegevens worden verstrekt aan derden indien zulks wordt vereist ingevolge een wettelijk voorschrift of indien zulks geschiedt met toestemming van de geprivilegieerde. Vanaf 15 jaar na het overlijden van de geprivilegieerde kunnen slechts diens bloedverwanten tot en met de tweede graad en diens aanverwanten tot en met de eerste graad om persoonsgegevens verzoeken.
 
@@ -158,7 +156,7 @@ Vervallen
 
 2. Bij de uitvoering van de werkzaamheden verbonden aan PROBAS worden procedures gevolgd die zoveel mogelijk waarborgen dat de persoonsgegevens in PROBAS juist en volledig zijn. DKP stelt hiervoor een schriftelijke instructie vast.
 
-3. Indien aan DKP, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2014-10-08&g=2014-10-08) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DKP zo spoedig mogelijk zorg voor verbetering van die gegevens.
+3. Indien aan DKP, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2015-06-27&g=2015-06-27) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DKP zo spoedig mogelijk zorg voor verbetering van die gegevens.
 
 ##### Artikel 9. Kennisgeving
 
