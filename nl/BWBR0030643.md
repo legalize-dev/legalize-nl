@@ -4,7 +4,7 @@ identifier: "BWBR0030643"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-06-01"
-last_updated: "2012-10-20"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030643"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1
 
-Het Hoofd van de afdeling Boete, Dwangsom en Inning van de directie Informatiehuishouding en Inspectieondersteuning van de Inspectie SZW wordt aangewezen als de ambtenaar, bedoeld in:
+Het Hoofd van de afdeling Boete, Dwangsom en Inning van de directie Informatiehuishouding en Inspectieondersteuning van de Inspectie SZW en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, worden aangewezen als de ambtenaar, bedoeld in:
 
 - a. [artikel 34, eerste lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34);
 
@@ -56,7 +56,7 @@ Het Hoofd van de afdeling Boete, Dwangsom en Inning van de directie Informatiehu
 
 ##### Artikel 2
 
-Het Hoofd van de afdeling Boete, Dwangsom en Inning, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2012-10-20&g=2012-10-20), is ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2). van de Algemene wet bestuursrecht.
+Het Hoofd van de afdeling Boete, Dwangsom en Inning, en de door het Hoofd aangewezen, onder hem ressorterende plaatsvervangers, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030643&artikel=1&z=2015-06-27&g=2015-06-27), zijn ten behoeve van de door hem opgelegde boeten bevoegd tot het nemen van de besluiten, genoemd in de [artikelen 4:94](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:94), [4:96](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:96), [4:99](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:99), [4:112](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:112), [4:113](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:113) en [5:10](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:10) juncto [paragraaf 4.4.4.2. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.4.4.2).
 
 ##### Artikel 3
 
