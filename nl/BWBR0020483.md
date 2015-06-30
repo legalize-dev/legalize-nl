@@ -4,7 +4,7 @@ identifier: "BWBR0020483"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020483"
 soort: "AMvB"
@@ -62,6 +62,8 @@ In dit besluit wordt verstaan onder:
 
 **Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
 
+**Wazo:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
+
 **Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
 
 **WGA-uitkering**: een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
@@ -114,13 +116,13 @@ Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een
 
 ##### Artikel 5. Eenmalige ontheffing
 
-1. Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-01-01&g=2015-01-01) kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), ziekengeld, WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.
+1. Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-06-30&g=2015-06-30) kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), ziekengeld, WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.
 
-2. Een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2015-01-01&g=2015-01-01) of een ontheffing als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2015-01-01&g=2015-01-01) kan eenmalig worden verleend per toestand of gebeurtenis.
+2. Een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2015-06-30&g=2015-06-30) of een ontheffing als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2015-06-30&g=2015-06-30) kan eenmalig worden verleend per toestand of gebeurtenis.
 
 ##### Artikel 6. Nadere regelgeving
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-01-01&g=2015-01-01) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-06-30&g=2015-06-30) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -155,5 +157,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 - c. tien weken na de dag van de geboorte van het kind zijn verstreken, indien de moeder geen recht had op bevallingsverlof of een bevallingsuitkering als bedoeld in [afdeling 2 van hoofdstuk 3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2).
 
 3. Indien [artikel 3:1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), of [artikel 3:18, tweede lid, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) van toepassing, is eindigt de ontheffing, in afwijking van het tweede lid, na afloop van de overeenkomstig die artikelen geldende verlenging.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 1a. Aanvulling wettelijke grondslag
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel 6a. Overgangsrecht
+
+Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
