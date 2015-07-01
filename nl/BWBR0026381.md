@@ -4,7 +4,7 @@ identifier: "BWBR0026381"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2023-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026381"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- **aanhoudings- en ondersteuningseenheden:** eenheden als bedoeld in [artikel 18 van de Regeling beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032673&artikel=18) en eenheden van de Koninklijke marechaussee die met dezelfde taken zijn belast.
+- **aanhoudings- en ondersteuningseenheden:** eenheden als bedoeld in [artikel 16, eerste lid, van het Besluit beheer politie](525529) en eenheden van de Koninklijke marechaussee die met dezelfde taken zijn belast.
 
 ##### Artikel 2
 
@@ -84,7 +84,7 @@ Vervallen
 
 1. De voorzitter van het College van procureurs-generaal is bevoegd in naam van de Minister van Veiligheid en Justitie te beslissen op een verzoek tot bijstand van de Dienst speciale interventies, tenzij het een situatie betreft:
 
-- a. waarvoor geen standaard inzetscenario als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=8&z=2013-01-01&g=2013-01-01), voorhanden is; of
+- a. waarvoor geen standaard inzetscenario als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=8&z=2015-07-01&g=2015-07-01), voorhanden is; of
 
 - b. waarin zich meerdere incidenten op verschillende locaties tegelijkertijd voordoen, waartussen vermoedelijk een verband bestaat; of
 
