@@ -4,7 +4,7 @@ identifier: "BWBR0006468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006468"
 soort: "ministeriele-regeling"
@@ -58,47 +58,75 @@ In deze regeling wordt verstaan onder:
 
 - f. **verlof:** een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht;
 
-- g. **pensioen of prepensioen:** een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
+- g. **pensioen of prepensioen:** een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+
+- h. **loondervingsuitkeringen:**
+
+- 1°. uitkeringen op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+
+- 2°. uitkeringen op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
+
+- 3°. hetgeen wordt genoten op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of de bezoldiging op grond van [artikel 76a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a);
+
+- 4°. uitkeringen op grond van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) en [131 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131);
+
+- 5°. uitkeringen bij ziekte of werkloosheid op grond van een regeling die geldt voor personen die op grond van [artikel 6, eerste lid, onderdeel a of onderdeel b, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) onderscheidenlijk [artikel 6, eerste lid, onderdeel a of onderdeel b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), niet op grond van die wet verzekerd zijn;
+
+- 6°. een uit een dienstbetrekking voortvloeiende periodieke uitkering bij wijze van oudedagsvoorziening, dan wel een uitkering die voorafgaat aan die uitkering of het bereiken van de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a);
+
+- 7°. uitkeringen op grond van de wetgeving van Aruba, Curaçao, Sint Maarten, of van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba, een andere Mogendheid of een volkenrechtelijke organisatie die naar aard en strekking overeenkomen met de uitkeringen, bedoeld onder 1° tot en met 6°;
+
+- 8°. uitkeringen en inkomensvoorzieningen op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving), de [Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving) en de [Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving) en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.
 
 ##### Artikel 2
 
-1. Onder inkomen als bedoeld in [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48), worden mede verstaan de volgende uitkeringen, indien deze ter zake van die arbeid worden verleend:
+1. Onder loon als bedoeld in de [artikelen 44, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58, tweede lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [3:48, tweede lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) wordt verstaan het loon in de zin van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer in de zin van die wet, met uitzondering van:
 
-- a. een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waaronder begrepen een uitkering op grond van [artikel 46 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46);
+- a. het loon uit vroegere dienstbetrekking in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
 
-- b. een uitkering bij ziekte krachtens een regeling, welke geldt voor personen, die op grond van [artikel 6, eerste lid, onderdeel a of b, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) niet ingevolge die wet verzekerd zijn;
+- b. loondervingsuitkeringen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de door de werkgever betaalde aanvullingen op die uitkeringen;
 
-- c. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;
+- c. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
 
-- d. een uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
+- d. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in [artikel 39d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d), zonder dat er sprake is van onbetaald extra verlof.
 
-- e. een uitkering bij werkloosheid krachtens een regeling, welke geldt voor personen, die op grond van [artikel 6, onderdeel a of b, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), niet ingevolge die wet verzekerd zijn;
+2. Onder loon als bedoeld in de [artikelen 44, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58, tweede lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [3:48, tweede lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48), wordt tevens verstaan een van de volgende uitkeringen, indien deze wordt genoten omdat de betrokkene arbeid in dienstbetrekking verricht of heeft verricht:
 
-- f. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;
+- a. een uitkering bij ziekte krachtens een regeling, die geldt voor personen, die op grond van [artikel 6, eerste lid, onderdeel a of b, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) niet op grond van die wet verzekerd zijn;
 
-- g. een uitkering als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) en [131 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131);
+- b. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;
 
-- h. een uitkering op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&hoofdstuk=3), [afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2);
+- c. een uitkering bij werkloosheid krachtens een regeling, die geldt voor personen, die op grond van [artikel 6, onderdeel a of b, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), niet op grond van die wet verzekerd zijn;
 
-- i. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land.
+- d. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;
 
-2. Ingeval recht ontstaat op doorbetaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of van bezoldiging als bedoeld in [artikel 76a van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), wordt tevens onder inkomen verstaan het inkomen dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging.
+- e. een uitkering als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) en [131 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131);
+
+- f. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land;
+
+3. Indien de uitkering, bedoeld in het tweede lid, of een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) wegens het verrichten van arbeid in dienstbetrekking, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode geheel of gedeeltelijk niet wordt uitbetaald, wordt voor de vaststelling van het loon gehandeld alsof die uitkering wel volledig is uitbetaald.
+
+4. Indien betrokkene recht heeft op een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2) wegens het verrichten van arbeid in dienstbetrekking, wordt, vanaf de eerste dag van het aangiftetijdvak waarin de uitkering aanvangt, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het recht ontstond op die uitkering.
+
+5. Ingeval recht ontstaat op doorbetaling van loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of van bezoldiging als bedoeld in [artikel 76a van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), wordt vanaf de eerste dag van het aangiftetijdvak waarin dat recht is ontstaan, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging. Indien geen recht op doorbetaling van het loon of bezoldiging bestaat door toepassing van artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of een algemeen verbindend voorschrift als bedoeld in [artikel 76b, eerste tot en met derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), wordt het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.
+
+6. Indien recht bestaat op doorbetaling van het loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of bezoldiging als bedoeld in [artikel 76a van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), wordt vanaf de eerste dag van het aangiftetijdvak waarin dat recht is ontstaan, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin recht ontstond op die doorbetaling van loon of bezoldiging. Indien geen recht op doorbetaling van het loon of bezoldiging bestaat op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of [artikel 76b, eerste tot en met derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), wordt het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.
+
+7. Indien betrokkene met verlof is dan wel pensioen of prepensioen ontvangt, wordt vanaf de eerste dag van het aangiftetijdvak waarin het verlof is aangevangen dan wel waarin het recht ontstond op pensioen of prepensioen, tevens onder loon verstaan het loon dat werd genoten in het aangiftetijdvak voor het aangiftetijdvak waarin het verlof is aangevangen dan wel waarin het recht op pensioen of prepensioen ontstond.
+
+8. Bij de vaststelling van het loon kan het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantie bijslag en extra periodiek salaris in aanmerking worden genomen in plaats van het in de relevante aangiftetijdvakken betaalde bedrag aan vakantiebijslag en extra periodiek salaris.
 
 ##### Artikel 3
 
-1. Indien de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-01-01&g=2015-01-01), door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode niet wordt uitbetaald, wordt voor de toepassing van [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) gehandeld alsof die uitkering wel is uitbetaald.
+1. Het aan de persoon uit te betalen bedrag aan arbeidsongeschiktheidsuitkering, bedoeld in de [artikelen 2, derde, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01) en [2a, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2015-07-01&g=2015-07-01), wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van een in artikel 2, vierde lid, of artikel 2a, vierde lid, bedoelde uitkering dan wel het op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) ontvangen loon.
 
-2. Indien degene op wie [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 3:48 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) van toepassing is recht heeft op een uitkering als bedoeld in [artikel 2, eerste lid, onderdeel a, d of h](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-01-01&g=2015-01-01), wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij een uitkering krachtens de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), onderscheidenlijk de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), onderscheidenlijk [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), ontvangt, gelijk aan het inkomen, waarmee laatstelijk vóór de aanvang van de ongeschiktheid tot werken, onderscheidenlijk de werkloosheid, onderscheidenlijk het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg bij de toepassing van laatstgenoemde artikelen rekening is gehouden.
+2. In afwijking van [artikel 2, vierde, vijfde, zesde of zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), en [artikel 2a, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2015-07-01&g=2015-07-01), wordt bij een per aangiftetijdvak wisselend loon of inkomen, als loon of inkomen aangemerkt het gemiddelde van het loon of inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin:
 
-3. Het aan de persoon, bedoeld in het eerste, tweede, vijfde of zesde lid, uit te betalen bedrag aan arbeidsongeschiktheidsuitkering wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van de in [artikel 2, eerste lid, onderdeel a, d of h](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-01-01&g=2015-01-01), bedoelde uitkering dan wel het op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) ontvangen loon.
+- a. recht ontstond op loondoorbetaling als bedoeld in [artikel 2, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01),
 
-4. Indien degene op wie [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 3:48 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) van toepassing is, met verlof is dan wel pensioen of prepensioen ontvangt wordt voor de toepassing van genoemde artikelen 44, 58 en 3:48 gehandeld alsof hij tijdens dat verlof dan wel tijdens het ontvangen van dat pensioen of prepensioen een inkomen heeft dat gelijk is aan het inkomen waarmee laatstelijk vóór de aanvang van het verlof dan wel het ontvangen van pensioen of prepensioen bij de toepassing van die artikelen rekening is gehouden.
+- b. recht ontstond op uitkering als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), of [artikel 2a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2015-07-01&g=2015-07-01); of
 
-5. Indien geen recht op doorbetaling van loon of bezoldiging bestaat door toepassing van [artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of een algemeen verbindend voorschrift als bedoeld in [artikel 76b, eerste tot en met derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), wordt voor de toepassing van [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.
-
-6. Indien geen recht bestaat op doorbetaling van loon of bezoldiging die naar aard en strekking overeenkomt met loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) of bezoldiging als bedoeld in [artikel 76a van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a), op gronden die naar aard en strekking overeenkomen met artikel 629, derde of negende lid, van Boek 7 van het Burgerlijk Wetboek of [artikel 76b, eerste tot en met derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76b), wordt voor de toepassing van [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) het loon of bezoldiging in aanmerking genomen als ware er wel recht op doorbetaling.
-
-7. Voor de toepassing van [artikel 2, tweede lid, het tweede, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-01-01&g=2015-01-01), wordt bij een per aangiftetijdvak wisselend inkomen in afwijking van het tweede, vierde, vijfde of zesde lid als inkomen aangemerkt het gemiddelde van het inkomen in de drie aangiftetijdvakken voor het aangiftetijdvak waarin recht ontstond op loondoorbetaling, bedoeld in artikel 2, tweede lid, het vijfde of zesde lid, recht ontstond op uitkering, bedoeld in het tweede lid dan wel, waarin het pensioen, prepensioen of verlof, bedoeld in het vierde lid, aanving.
+- c. waarin het pensioen, prepensioen of verlof, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01) of [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), aanving.
 
 ##### Artikel 4
 
@@ -128,15 +156,15 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-Indien [artikel 4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2015-01-01&g=2015-01-01), van toepassing is, is [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) voor onbeperkte duur van toepassing.
+Indien [artikel 4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2015-07-01&g=2015-07-01), van toepassing is, is [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58, eerste lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) voor onbeperkte duur van toepassing.
 
 ##### Artikel 6
 
-[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=3&z=2015-01-01&g=2015-01-01), is niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof artikel 3, vierde lid, buiten toepassing blijft tot het einde van die verlofperiode.
+De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), en [2a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2015-07-01&g=2015-07-01), zijn niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof de artikelen 2, vierde lid, en 2a, vierde lid, buiten toepassing blijven tot het einde van die verlofperiode.
 
 ##### Artikel 7
 
-[Artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=3&z=2015-01-01&g=2015-01-01), is niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3) is aangegaan en die:
+De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), en [2a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2015-07-01&g=2015-07-01), zijn niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3) is aangegaan en die:
 
 - a. in de periode van 1 mei 2009 tot 1 juli 2012 prepensioen is gaan ontvangen of
 
@@ -209,3 +237,51 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 - a. in de periode van 1 mei 2009 tot 1 juli 2012 prepensioen is gaan ontvangen of
 
 - b. in de periode van 1 mei 2009 tot 1 juli 2012 de normpensioenleeftijd, bedoeld in artikel 1.1, onderdeel B, van het Pensioenreglement SW (in werking getreden op 1 januari 2006 en laatstelijk gewijzigd op 7 maart 2008) bereikt en op of na 1 juli 2012 prepensioen gaat ontvangen.
+
+##### Artikel 2a
+
+1. Onder inkomen als bedoeld in de [artikelen 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [3:48, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) wordt verstaan:
+
+- a. het loon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01);
+
+- b. de volgende uitkeringen die worden genoten omdat betrokkene anders dan in dienstbetrekking arbeid verricht of heeft verricht:
+
+- 1°. een uitkering bij ziekte krachtens een regeling, die geldt voor personen, die op grond van [artikel 6, eerste lid, onderdeel a of b, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) niet op grond van die wet verzekerd zijn;
+
+- 2°. een uitkering bij ziekte krachtens de sociale wetgeving van een ander land;
+
+- 3°. een uitkering bij werkloosheid krachtens een regeling, die geldt voor personen, die op grond van [artikel 6, onderdeel a of b, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=6), niet op grond van die wet verzekerd zijn;
+
+- 4°. een uitkering bij werkloosheid krachtens de sociale wetgeving van een ander land;
+
+- 5°. een uitkering als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=6), [51](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=51) en [131 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=131);
+
+- 6°. een uitkering bij zwangerschap, bevalling, adoptie of pleegzorg krachtens de sociale wetgeving van een ander land;
+
+- c. het loon in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), voor zover de verzekerde of de jonggehandicapte niet als werknemer als bedoeld in [artikel 1, onderdeel o, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=1), inkomen verdient, met uitzondering van:
+
+- 1°. het loon uit vroegere dienstbetrekking in de zin van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471);
+
+- 2°. loondervingsuitkeringen, al dan niet vermeerderd met een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043) en de door de werkgever betaalde aanvullingen op die uitkeringen;
+
+- 3°. de eindheffingsbestanddelen, bedoeld in [artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31);
+
+- 4°. een uitkering die de werknemer heeft genoten op grond van de aanspraak, bedoeld in [artikel 39d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39d), zonder dat er sprake is van onbetaald extra verlof;
+
+- d. het belastbaar loon of het belastbaar resultaat uit overige werkzaamheden, bedoeld in [paragraaf 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.3.1), onderscheidenlijk [paragraaf 3.4.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.4.1), behoudens voor zover het een werkzaamheid betreft als bedoeld in de [artikelen 3.91, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.91), en [artikel 3.92 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.92), voor zover de verzekerde of de jonggehandicapte geen werknemer is als bedoeld in de [artikel 2, eerste lid, of onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01);
+
+- e. de belastbare winst uit onderneming, bedoeld in [paragraaf 3.2.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.2.1), vermeerderd met de ondernemersaftrek, bedoeld in [artikel 3.74 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.74) en vermeerderd met de MKB-winstvrijstelling, bedoeld in [artikel 3.79a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79a), met dien verstande dat de bestanddelen van de winst, bedoeld in [artikel 3.78, derde lid, onderdelen a, b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78), niet geacht worden te behoren tot de winst.
+
+2. Indien een uitkering als bedoeld in het eerste lid, onderdeel b, of een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.78) die niet wordt genoten in verband met het verrichten van arbeid in dienstbetrekking, door toedoen van de betrokkene of in verband met het doormaken van een wachtperiode geheel of gedeeltelijk niet wordt uitbetaald, wordt voor de vaststelling van het inkomen gehandeld alsof die uitkering wel volledig is uitbetaald.
+
+3. Indien de berekening van het resultaat uit overige werkzaamheden, bedoeld in het eerste lid, onderdeel d, of de winst, bedoeld in het eerste lid, onderdeel e, leidt tot een negatief bedrag, wordt het resultaat, onderscheidenlijk de winst op nihil gesteld.
+
+4. Indien betrokkene recht heeft op een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), wordt, indien deze niet wordt genoten in verband met het verrichten van arbeid in dienstbetrekking, tevens onder inkomen verstaan het inkomen dat laatstelijk werd genoten voor aanvang van de ongeschiktheid tot werken, de werkloosheid of het ontstaan van het recht op uitkering op grond van hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg.
+
+5. Indien betrokkene met verlof is dan wel pensioen of prepensioen ontvangt, wordt, indien betrokkene geen werknemer is in de zin van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2015-07-01&g=2015-07-01), tevens onder inkomen verstaan het inkomen dat laatstelijk werd genoten voor aanvang van dat verlof, pensioen of prepensioen.
+
+6. Bij de vaststelling van het inkomen kan het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantiebijslag en extra periodiek salaris in aanmerking worden genomen in plaats van het in de relevante aangiftetijdvakken betaalde bedrag aan vakantiebijslag en extra periodiek salaris.
+
+##### Artikel 8a
+
+Deze regeling berust op de [artikelen 44, achtste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58, zevende lid van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [3:48, achtste lid van Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48).
