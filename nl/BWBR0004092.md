@@ -4,7 +4,7 @@ identifier: "BWBR0004092"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-12-28"
-last_updated: "2012-03-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004092"
 soort: "AMvB"
@@ -66,7 +66,7 @@ Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wet
 
 1. Voor de toepassing van [artikel 8a, eerste lid, van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=8a) wordt met de loondervingsuitkering gelijkgesteld al het inkomen uit arbeid of overig inkomen van de persoon die aanspraak maakt op toeslag, indien die persoon:
 
-- a. niet volledig werkloos is en zijn dagloon niet verlaagd is naar evenredigheid van de verloren arbeidsuren;
+- a. recht heeft op een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045);
 
 - b. recht heeft op een uitkering op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) met toepassing van [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) of [31 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31); of
 
@@ -267,5 +267,11 @@ Dit besluit berust mede op [artikel 8a, derde lid, van de Toeslagenwet](https://
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+
+Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
+
+##### Artikel 4a
+
+[Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004092&artikel=3&z=2015-07-01&g=2015-07-01), zoals dat luidde voor de inwerkingtreding van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enige technische wijzigingen in enkele besluiten (Stb. 242), blijft van toepassing als de loondervingsuitkering een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) betreft en het recht op die uitkering is ontstaan voor 1 juli 2015.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.
