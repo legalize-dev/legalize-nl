@@ -4,7 +4,7 @@ identifier: "BWBR0026017"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026017"
 soort: "ministeriele-regeling"
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Bevoegdheid verrekening met werkgever
 
-Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2015-01-01&g=2015-01-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
+Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2015-07-01&g=2015-07-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
 ##### Artikel 3. Standaard regeling voor uitstel van betaling
 
@@ -198,13 +198,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 1a
 
-Deze regeling berust mede op de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37).
+Deze regeling berust mede op de [artikelen 27a, elfde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24), [35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=35), en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
 
-Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2015-01-01&g=2015-01-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
+Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=8&z=2015-07-01&g=2015-07-01) geldt ten aanzien van vorderingen die zijn ontstaan voor 1 januari 2013 een tijdsduur van 5 jaar.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
