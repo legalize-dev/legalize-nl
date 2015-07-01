@@ -4,7 +4,7 @@ identifier: "BWBR0037254"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037254"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2015-07-01"
 
 ##### Artikel I
 
-Wijzigt de Wet inkomstenbelasting 2001.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel II
 
@@ -47,7 +47,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel III
 
-Wijzigt de Wet op de loonbelasting 1964.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -75,7 +75,7 @@ Wijzigt de Wet belastingen op milieugrondslag.
 
 ##### Artikel X
 
-Wijzigt de Wet op de accijns.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XI
 
@@ -87,11 +87,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIII
 
-Wijzigt de Invorderingswet 1990.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV
 
-Wijzigt de Algemene wet inkomensafhankelijke regelingen.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XV
 
@@ -99,7 +99,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
-Wijzigt de Belastingwet BES.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
@@ -111,7 +111,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX
 
-Wijzigt het Belastingplan 2015.
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XX
 
@@ -120,3 +120,11 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXI
 
 Dit onderdeel is nog niet inwerking getreden
+
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+
+Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belastingwetten en enige andere wetten enkele wijzigingen van overwegend technische aard aan te brengen;
+
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
