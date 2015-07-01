@@ -4,7 +4,7 @@ identifier: "BWBR0036636"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-01-01"
-last_updated: "2015-05-28"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036636"
 soort: "AMvB"
@@ -88,15 +88,15 @@ Wijzigt dit besluit.
 
 ##### Artikel 4
 
-Het [Organisatiebesluit raad voor de kinderbescherming 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019732&wetgeving) wordt ingetrokken.
+Het [Organisatiebesluit raad voor de kinderbescherming 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019732) wordt ingetrokken.
 
 ##### Artikel 5
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Besluit externe klachtencommissie raad voor de kinderbescherming.
 
 ##### Artikel 6
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2015-05-28&g=2015-05-28) dat met ingang van 1 juli 2015 in werking treedt.
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036636&artikel=5&z=2015-07-01&g=2015-07-01) dat met ingang van 1 juli 2015 in werking treedt.
 
 ##### Artikel 7
 
