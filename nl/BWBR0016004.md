@@ -4,7 +4,7 @@ identifier: "BWBR0016004"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-10-27"
-last_updated: "2011-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016004"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 ##### Artikel 1. Begripsbepalingen
 
-1. Van vakantie genieten als bedoeld in [artikel 19, eerste lid, onderdeel j, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [artikel 6, eerste lid, onderdeel d, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6) is sprake gedurende de periode waarover de werknemer of de uitkeringsgerechtigde:
+1. Van vakantie genieten als bedoeld in [artikel 19, eerste lid, onderdeel k, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [artikel 6, eerste lid, onderdeel e, van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=6) is sprake gedurende de periode waarover de werknemer of de uitkeringsgerechtigde:
 
 - a. verklaart vakantie te genieten;
 
@@ -56,19 +56,19 @@ Besluit:
 
 2. De uitkeringsgerechtigde kan per kalenderjaar gedurende 20 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394).
 
-3. In afwijking van het eerste lid geldt een termijn van 65 dagen voor de werknemer, bedoeld in de [artikelen 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=5), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7) en [8, eerste lid, van de Regeling vrijstelling verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=8).
+3. In afwijking van het eerste lid geldt een termijn van 65 dagen voor de werknemer, bedoeld in [artikel 7 van de Regeling vrijstelling verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7).
 
-4. In afwijking van het tweede lid geldt een termijn van 65 dagen voor de IOW-gerechtigde, bedoeld in de [artikelen 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=5), en [7 van de Regeling vrijstelling verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7).
+4. In afwijking van het tweede lid geldt een termijn van 65 dagen voor de IOW-gerechtigde, bedoeld in [artikel 7 van de Regeling vrijstelling verplichtingen sociale zekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0019305&artikel=7).
 
 ##### Artikel 3. In mindering brengen
 
-1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), wordt in mindering gebracht:
+1. Op het aantal dagen, bedoeld in [artikel 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2015-07-01&g=2015-07-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste werkloosheidsdag in het desbetreffende kalenderjaar, gedeeld door 13;
 
 - b. het aantal dagen waarop de werknemer in het desbetreffende kalenderjaar vakantie heeft genoten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), met uitzondering van vakantiedagen die tevens nationale of christelijke feestdagen zijn.
 
-2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), wordt in mindering gebracht:
+2. Op het aantal dagen, bedoeld in [artikel 2, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2015-07-01&g=2015-07-01), wordt in mindering gebracht:
 
 - a. vijf maal het aantal hele weken voor de eerste dag waarop recht op een uitkering op grond van de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) bestond in het desbetreffende kalenderjaar, gedeeld door 13;
 
@@ -80,7 +80,7 @@ Het aantal dagen, berekend volgens de voorgaande artikelen, wordt rekenkundig op
 
 ##### Artikel 5. Overgangsbepaling
 
-De werknemer die op 31 december 2003 op grond van artikel 2, tweede lid, van de regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 januari 1992, nr. 92342 (Stcrt. 19), per kalenderjaar gedurende 13 weken vakantie kon genieten met behoud van zijn recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) kan, in afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016004&artikel=2&z=2009-12-01&g=2011-01-01), in 2004 gedurende maximaal 65 dagen vakantie genieten met behoud van zijn recht op uitkering op grond van de Werkloosheidswet, voorzover hij voor de datum van inwerkingtreding van deze regeling verplichtingen daartoe is aangegaan.
+Vervallen
 
 ##### Artikel 6. Intrekking
 
