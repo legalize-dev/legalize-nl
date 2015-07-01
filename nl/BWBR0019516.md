@@ -4,7 +4,7 @@ identifier: "BWBR0019516"
 country: "nl"
 rank: "wet"
 publication_date: "2024-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019516"
 soort: "wet"
@@ -59,7 +59,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. hulpverleningsdiensten: de politie, de brandweer en de GHOR, bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1);
 
-- e. bouwen: hetgeen onder bouwen wordt verstaan in [artikel 1, eerste lid, onderdeel a, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- e. bouwen: hetgeen onder bouwen wordt verstaan in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
 - f. bestemmingsplan: een bestemmingsplan als bedoeld in de Wet ruimtelijke ordening, met inbegrip van een rijksinpassingsplan en een provinciaal inpassingsplan als bedoeld in die wet, alsmede een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.12) van het bestemmingsplan wordt afgeweken;
 
@@ -119,11 +119,11 @@ Vervallen
 
 3. Aan de vergunning, bedoeld in het eerste lid, worden geen voorschriften verbonden. Zij wordt niet onder beperkingen verleend.
 
-4. In afwijking van het derde lid, kan de vergunning, bedoeld in het eerste lid, worden verleend onder de voorwaarde dat onvolkomenheden in de uitvoering van de gekozen gestandaardiseerde uitrusting, bedoeld in [artikel 6b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-01-01&g=2015-01-01), of in de uitvoering van de gekozen voorzieningen op grond van artikel 6b, derde lid, binnen een door het bevoegd gezag te bepalen termijn zijn hersteld, mits de tunnel ondanks de onvolkomenheden voldoet aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), genoemde norm.
+4. In afwijking van het derde lid, kan de vergunning, bedoeld in het eerste lid, worden verleend onder de voorwaarde dat onvolkomenheden in de uitvoering van de gekozen gestandaardiseerde uitrusting, bedoeld in [artikel 6b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-07-01&g=2015-07-01), of in de uitvoering van de gekozen voorzieningen op grond van artikel 6b, derde lid, binnen een door het bevoegd gezag te bepalen termijn zijn hersteld, mits de tunnel ondanks de onvolkomenheden voldoet aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), genoemde norm.
 
 5. De vergunning, bedoeld in het eerste lid, wordt geweigerd indien:
 
-- a. de uitrusting van de tunnel niet is uitgevoerd overeenkomstig de krachtens [artikel 6b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-01-01&g=2015-01-01), gekozen gestandaardiseerde uitrusting of niet is uitgevoerd volgens de uitrusting die is gekozen op grond van artikel 6b, derde lid;
+- a. de uitrusting van de tunnel niet is uitgevoerd overeenkomstig de krachtens [artikel 6b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-07-01&g=2015-07-01), gekozen gestandaardiseerde uitrusting of niet is uitgevoerd volgens de uitrusting die is gekozen op grond van artikel 6b, derde lid;
 
 - b. de tunnel niet voldoet aan het overige bepaalde bij of krachtens deze wet, of
 
@@ -149,7 +149,7 @@ De tunnelbeheerder draagt zorg voor een actueel tunnelveiligheidsdossier. Bij mi
 
 - a. doet het bevoegd college van burgemeester en wethouders daarvan onverwijld mededeling aan de tunnelbeheerder, de veiligheidsbeambte, Onze Minister en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-01-01&g=2015-01-01), intrekken.
+- b. kan het bevoegd college van burgemeester en wethouders de vergunning, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-07-01&g=2015-07-01), intrekken.
 
 ##### Artikel 12
 
@@ -187,13 +187,13 @@ Ten aanzien van tunnels ten behoeve waarvan de bouwvergunning voor 2 mei 2006 is
 
 - b. voor andere dan de in onderdeel a bedoelde tunnels: voor 1 mei 2019.
 
-2. Maatregelen ten aanzien van tunnels, die voor 1 juli 2013 voor het openbare verkeer opengesteld zijn of opengesteld geweest zijn, die nodig zijn om te voldoen aan het bepaalde bij of krachtens deze wet, of die nodig zijn om te voldoen aan de norm, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), worden genomen:
+2. Maatregelen ten aanzien van tunnels, die voor 1 juli 2013 voor het openbare verkeer opengesteld zijn of opengesteld geweest zijn, die nodig zijn om te voldoen aan het bepaalde bij of krachtens deze wet, of die nodig zijn om te voldoen aan de norm, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), worden genomen:
 
 - a. voor tunnels in het Nederlands deel van het trans-Europees wegennet met een lengte van meer dan 500 meter: voor 1 mei 2014;
 
 - b. voor andere dan de in onderdeel a bedoelde tunnels: voor 1 mei 2019.
 
-3. De [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-01-01&g=2015-01-01) en [8, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-01-01&g=2015-01-01), zijn niet van toepassing op:
+3. De [artikelen 6b](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-07-01&g=2015-07-01) en [8, vijfde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-07-01&g=2015-07-01), zijn niet van toepassing op:
 
 - a. tunnels waarvoor op 1 juli 2013 reeds een tracébesluit als bedoeld in [artikel 9 van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9) is genomen of waarvoor een bestemmingsplan of een wijziging van een bestemmingsplan is vastgesteld;
 
@@ -217,7 +217,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. Een gestandaardiseerde uitrusting als bedoeld in het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie en:
 
-- a. indien uit een risicoanalyse, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), blijkt dat bij toepassing van de gestandaardiseerde uitrusting in een tunnel met de fysieke kenmerken van de opengestelde of in aanbouw zijnde tunnels, aan de in artikel 6, eerste lid, genoemde norm wordt voldaan, en
+- a. indien uit een risicoanalyse, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), blijkt dat bij toepassing van de gestandaardiseerde uitrusting in een tunnel met de fysieke kenmerken van de opengestelde of in aanbouw zijnde tunnels, aan de in artikel 6, eerste lid, genoemde norm wordt voldaan, en
 
 - b. nadat het Veiligheidsberaad, bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1), in de gelegenheid is gesteld daarover advies uit te brengen.
 
@@ -225,13 +225,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6b
 
-1. De tunnelbeheerder past in de tunnel een krachtens [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6a&z=2015-01-01&g=2015-01-01), vastgestelde gestandaardiseerde uitrusting toe.
+1. De tunnelbeheerder past in de tunnel een krachtens [artikel 6a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6a&z=2015-07-01&g=2015-07-01), vastgestelde gestandaardiseerde uitrusting toe.
 
-2. Indien overwogen wordt een tunnel te bouwen, laat de tunnelbeheerder een risicoanalyse als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), uitvoeren ten aanzien van de tunnel zoals bij het vaststellen van het tracé voorzien wordt.
+2. Indien overwogen wordt een tunnel te bouwen, laat de tunnelbeheerder een risicoanalyse als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), uitvoeren ten aanzien van de tunnel zoals bij het vaststellen van het tracé voorzien wordt.
 
 3. De tunnelbeheerder kan van de gestandaardiseerde uitrusting, als bedoeld in het eerste lid, uitsluitend afwijken indien:
 
-- a. dit noodzakelijk is om aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), genoemde norm te voldoen, en
+- a. dit noodzakelijk is om aan de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), genoemde norm te voldoen, en
 
 - b. de tunnelbeheerder daarover advies heeft ingewonnen bij de veiligheidsbeambte, en
 
@@ -255,7 +255,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6c
 
-1. De tunnelbeheerder stelt, na overleg met de veiligheidsbeambte, een tunnelveiligheidsplan op waarin alle veiligheidsaspecten die een rol spelen bij de keuze van de locatie, het ontwerp en het beoogde gebruik, worden afgewogen. De risicoanalyse bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), maakt daarvan onderdeel uit.
+1. De tunnelbeheerder stelt, na overleg met de veiligheidsbeambte, een tunnelveiligheidsplan op waarin alle veiligheidsaspecten die een rol spelen bij de keuze van de locatie, het ontwerp en het beoogde gebruik, worden afgewogen. De risicoanalyse bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), maakt daarvan onderdeel uit.
 
 2. Het tunnelveiligheidsplan wordt vastgesteld voorafgaand aan de vaststelling van het tracébesluit, bedoeld in [artikel 9 van de Tracéwet](https://wetten.overheid.nl/jci1.3:c:BWBR0006147&artikel=9), of voorafgaand aan de vaststelling van een bestemmingsplan of van een wijziging daarvan als bedoeld in de [Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449).
 
@@ -263,21 +263,21 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ##### Artikel 6d
 
-1. Indien overwogen wordt de constructie, de voorzieningen of het gebruik van een tunnel wezenlijk te wijzigen, laat de tunnelbeheerder een risicoanalyse als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), uitvoeren.
+1. Indien overwogen wordt de constructie, de voorzieningen of het gebruik van een tunnel wezenlijk te wijzigen, laat de tunnelbeheerder een risicoanalyse als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), uitvoeren.
 
-2. Een wezenlijke wijziging van een tunnel vindt uitsluitend plaats indien uit de risicoanalyse, bedoeld in het eerste lid, blijkt dat het risico niet groter is dan de veiligheidsnorm, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01).
+2. Een wezenlijke wijziging van een tunnel vindt uitsluitend plaats indien uit de risicoanalyse, bedoeld in het eerste lid, blijkt dat het risico niet groter is dan de veiligheidsnorm, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01).
 
-3. [Artikel 6b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing op de keuze van de uitrusting die met de wezenlijke wijziging samenhangt.
+3. [Artikel 6b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6b&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing op de keuze van de uitrusting die met de wezenlijke wijziging samenhangt.
 
 ##### Artikel 8a
 
 1. Het is verboden een tunnel na een wezenlijke wijziging van de constructie, de voorzieningen dan wel het gebruik van de tunnel voor het verkeer open te stellen zonder daartoe strekkende vergunning van het bevoegd college van burgemeester en wethouders.
 
-2. [Artikel 8, tweede, derde, vierde en vijfde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+2. [Artikel 8, tweede, derde, vierde en vijfde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=8&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 ##### Artikel 8b
 
-Het is verboden een tunnel voor het verkeer in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2015-01-01&g=2015-01-01).
+Het is verboden een tunnel voor het verkeer in gebruik te hebben zonder of in afwijking van het veiligheidsbeheerplan, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=7&z=2015-07-01&g=2015-07-01).
 
 ### Hoofdstuk 2. Wijziging van andere wetten
 
@@ -285,6 +285,6 @@ Het is verboden een tunnel voor het verkeer in gebruik te hebben zonder of in af
 
 ##### Artikel 18a
 
-Een door de Commissie voor de tunnelveiligheid afgegeven advies overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-01-01&g=2015-01-01), zoals dit luidde voor inwerkingtreding van deze wet, blijft onderdeel uitmaken van het tunnelveiligheidsdossier, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=10&z=2015-01-01&g=2015-01-01), voor zover het advies verenigbaar is met deze wet.
+Een door de Commissie voor de tunnelveiligheid afgegeven advies overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=6&z=2015-07-01&g=2015-07-01), zoals dit luidde voor inwerkingtreding van deze wet, blijft onderdeel uitmaken van het tunnelveiligheidsdossier, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019516&hoofdstuk=1&artikel=10&z=2015-07-01&g=2015-07-01), voor zover het advies verenigbaar is met deze wet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
