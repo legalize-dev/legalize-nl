@@ -4,7 +4,7 @@ identifier: "BWBR0035385"
 country: "nl"
 rank: "wet"
 publication_date: "2018-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035385"
 soort: "wet"
@@ -109,47 +109,17 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ##### Artikel XVII. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=I&z=2015-01-01&g=2015-01-01), [II, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II&z=2015-01-01&g=2015-01-01), [III, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=III&z=2015-01-01&g=2015-01-01), [IX, onderdelen A en H](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=IX&z=2015-01-01&g=2015-01-01), en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVIII&z=2015-01-01&g=2015-01-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.
+1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de [artikelen I, onderdeel I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=I&z=2015-07-01&g=2015-07-01), [II, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=II&z=2015-07-01&g=2015-07-01), [III, onderdelen A en E](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=III&z=2015-07-01&g=2015-07-01), [IX, onderdelen A en H](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=IX&z=2015-07-01&g=2015-07-01), en [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVIII&z=2015-07-01&g=2015-07-01) van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.
 
 2. Dit artikel vervalt zes maanden na de inwerkingtreding van de artikelen, genoemd in het eerste lid.
 
-##### Artikel XVIII. Overgangsrecht Wet werk en bijstand
+##### Artikel XVIII. Overgangsrecht [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
-1. Op de alleenstaande, alleenstaande ouder of gehuwde die op 31 december 2014 recht heeft op algemene bijstand en met een of meer meerderjarige personen, waarbij de echtgenoot van de gehuwde niet meetelt tenzij deze echtgenoot geen recht op algemene bijstand heeft, in dezelfde woning zijn hoofdverblijf heeft:
-
-- a. zijn de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=25), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=29), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=38) en [53a van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=53a), zoals deze bepalingen luidden op 31 december 2014, van toepassing, en
-
-- b. is [artikel 22a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22a) niet van toepassing,
-
-tot 1 juli 2015.
-
-2. Indien het netto minimumloon wijzigt met ingang van 1 januari 2015, worden bij de toepassing van het eerste lid, de normen, genoemd in de in het eerste lid, onderdeel a, genoemde [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), en het bedrag, genoemd in het in het eerste lid, onderdeel a, genoemde artikel 25, tweede lid, toegepast, zoals ze zouden luiden na herziening met het percentage van deze wijziging.
-
-3. Bij de toepassing van het eerste lid worden de normen, genoemd in het in het eerste lid, onderdeel a, genoemde [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22), toegepast zoals ze zouden luiden met toepassing van [artikel 37a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=37a) waarbij wordt uitgegaan van het netto minimumloon zoals dat luidt op 1 januari 2015.
-
-4. Bij de toepassing van het eerste lid wordt, indien het gaat om een persoon als bedoeld in het eerste lid die aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in [artikel 2, zesde lid, van de Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2):
-
-- a. in [artikel 20, tweede lid, onderdeel a, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=20), zoals deze bepaling luidde op 31 december 2014 voor «506,78» gelezen: 234,88 per 1 januari 2015: € 237,16,
-
-- b. in [artikel 21, onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=21), zoals deze bepaling luidde op 31 december 2014 voor «951,64» gelezen: 679,75 per 1 januari 2015: € 686,31,
-
-- c. in [artikel 22, onderdeel b, van de Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22), zoals deze bepaling luidde op 31 december 2014 voor «1.313,82» gelezen: 1.044,01 per 1 januari 2015: € 1.077,63,
-
-tot 1 juli 2015.
-
-5. Op de persoon:
-
-- a. die op 31 december 2014 recht had op algemene bijstand, en
-
-- b. op wie het eerste lid niet van toepassing is,
-
-wordt tot 1 juli 2015 in [artikel 53a, derde lid, onderdeel a, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=53a) voor «30%» gelezen: 50%.
-
-6. Dit artikel vervalt met ingang van 1 juli 2015.
+Vervallen
 
 ##### Artikel XIX. Overgangsrecht [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
-Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2015-01-01&g=2015-01-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
+Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van [artikel XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&artikel=XVI&z=2015-07-01&g=2015-07-01) de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing.
 
 ##### Artikel XX. Inwerkingtreding
 
