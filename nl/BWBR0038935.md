@@ -4,7 +4,7 @@ identifier: "BWBR0038935"
 country: "nl"
 rank: "amvb"
 publication_date: "2017-01-01"
-last_updated: "2015-04-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038935"
 soort: "AMvB"
@@ -51,6 +51,8 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III. [Besluit ex artikel 66a ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0009723)
 
 Wijzigt het Besluit ex artikel 66a ANW.
+
+Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV. [Besluit gelijkstelling loondervingsuitkering Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004092)
 
