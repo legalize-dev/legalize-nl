@@ -4,7 +4,7 @@ identifier: "BWBR0036405"
 country: "nl"
 rank: "kb"
 publication_date: "2015-07-01"
-last_updated: "1944-12-07"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036405"
 soort: "KB"
@@ -52,7 +52,7 @@ De Bronzen Leeuw wordt door Ons toegekend aan militairen in dienst van het Konin
 
 ##### Artikel 3
 
-De Bronzen Leeuw kan, om redenen, vermeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=2&z=1944-12-07&g=1944-12-07), mede worden toegekend aan:
+De Bronzen Leeuw kan, om redenen, vermeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=2&z=2015-07-01&g=2015-07-01), mede worden toegekend aan:
 
 - 1. niet-militairen, Nederlander of Nederlandsch onderdaan zijnde;
 
@@ -100,7 +100,7 @@ De Bevelhebber der Nederlandsche Strijdkrachten zal van het toekennen van den Br
 
 ##### Artikel 13
 
-De toekenning volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=11&z=1944-12-07&g=1944-12-07) kan niet posthuum geschieden.
+De toekenning volgens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=11&z=2015-07-01&g=2015-07-01) kan niet posthuum geschieden.
 
 ##### Artikel 14
 
@@ -108,6 +108,12 @@ Voorstellen tot het ontnemen van een Bronzen Leeuw, verleend door den Bevelhebbe
 
 ##### Artikel 15
 
-Wij behouden ons het recht voor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=11&z=1944-12-07&g=1944-12-07) aan den Bevelhebber der Nederlandsche Strijdkrachten gegeven bevoegdheid te allen tijde in te trekken.
+Wij behouden ons het recht voor de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=11&z=2015-07-01&g=2015-07-01) aan den Bevelhebber der Nederlandsche Strijdkrachten gegeven bevoegdheid te allen tijde in te trekken.
+
+Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
+
+##### Artikel 6a
+
+Ingaande 1 januari 2017 moet een verzoek om toekenning van de Bronzen Leeuw zijn ingediend binnen tien jaar na de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036405&artikel=2&z=2015-07-01&g=2015-07-01) genoemde daden.
 
 Onze Ministers van Algemeene Zaken, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Scheepvaart en van Koloniën zijn, ieder voor zooveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het Staatsblad zal worden geplaatst.
