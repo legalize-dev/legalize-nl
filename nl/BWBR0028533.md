@@ -4,7 +4,7 @@ identifier: "BWBR0028533"
 country: "nl"
 rank: "amvb_bes"
 publication_date: "2022-07-01"
-last_updated: "2011-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028533"
 soort: "AMvB-BES"
@@ -53,15 +53,17 @@ Niet verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://w
 
 - c. degene, voor wie bij ministeriële regeling is bepaald dat hij niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die is verzekerd op grond van een buiten de openbare lichamen Bonaire, Sint Eustatius of Saba geldende wettelijke regeling voor de geldelijke gevolgen van ouderdom;
 
-- d. het eigen, het aangehuwde of het pleegkind van degene, die op grond van [artikel 5, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) of op grond van onderdeel b of c niet is verzekerd, mits het kind binnen de openbare lichamen Bonaire, Sint Eustatius of Saba geen bedrijf of beroep uitoefent, noch inkomstenbelasting op grond van de [Wet inkomstenbelasting BES](onbekend) is verschuldigd;
+- d. het eigen, het aangehuwde of het pleegkind van degene, die op grond van [artikel 5, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) of op grond van onderdeel b of c niet is verzekerd, mits het kind binnen de openbare lichamen Bonaire, Sint Eustatius of Saba geen bedrijf of beroep uitoefent, noch inkomstenbelasting op grond van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) is verschuldigd;
 
 - e. degene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba woont en gewoonlijk slechts gedurende korte tijd wordt geëngageerd om binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te werken als:
 
 - 1°. leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
 
-- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport.
+- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
 
-- f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
+- f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba;
+
+- g. de persoon die uitsluitend wegens studieredenen in de openbare lichamen Bonaire, Sint Eustatius of Saba woont en direct daaraan voorafgaande woonde in Nederland, zolang betrokkene niet in de openbare lichamen werkt.
 
 ##### Artikel 3. Gelijkstelling met Nederlanders
 
@@ -103,15 +105,15 @@ Niet als verzekerde op grond van de [Wet algemene weduwen- en wezenverzekering B
 
 - c. degene, voor wie bij ministeriële regeling is bepaald dat hij niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die verzekerd is op grond van een buiten de openbare lichamen Bonaire, Sint Eustatius of Saba geldende wettelijke regeling inzake weduwen-, weduwnaars- en wezenpensioen;
 
-- d. het eigen, het aangehuwde of het pleegkind van degene, die op grond van [artikel 5, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) of op grond van de onderdelen b en c niet is verzekerd, mits het kind binnen de openbare lichamen Bonaire, Sint Eustatius of Saba geen bedrijf of beroep uitoefent, noch inkomstenbelasting op grond van de [Wet inkomstenbelasting BES](onbekend) is verschuldigd;
+- d. het eigen, het aangehuwde of het pleegkind van degene, die op grond van [artikel 5, tweede lid, van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=5) of op grond van de onderdelen b en c niet is verzekerd, mits het kind binnen de openbare lichamen Bonaire, Sint Eustatius of Saba geen bedrijf of beroep uitoefent, noch inkomstenbelasting op grond van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) is verschuldigd;
 
 - e. degene, die buiten de openbare lichamen Bonaire, Sint Eustatius of Saba woont en gewoonlijk slechts gedurende korte tijd wordt geëngageerd om binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te werken als:
 
-- f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
-
 - 1°. leider of lid van een orkest, als solist, gastdirigent, voordrachtskunstenaar, goochelaar of anderszins als musicus of artiest;
 
-- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport.
+- 2°. wielrenner, worstelaar, bokser of in het algemeen tot het als beroep uitoefenen van een tak van sport;
+
+- f. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 ##### Artikel 7. Gelijkstelling met Nederlander
 
@@ -130,3 +132,11 @@ Dit besluit berust op de [artikelen 5, derde en vierde lid](https://wetten.overh
 ##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES.
+
+##### Artikel 1a. Uitbreiding kring verzekerden bij studeren in het Europese deel van Nederland
+
+Verzekerd op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) blijft de persoon die uitsluitend om studieredenen in Nederland woont en direct daaraan voorafgaand woonde in de openbare lichamen Bonaire, Sint Eustatius of Saba, zolang die persoon niet in Nederland werkt.
+
+#### § 2. Uitbreiding en beperking kring van verzekerden [Wet algemene weduwen en wezenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028387)
+
+#### § 3. Slotbepalingen
