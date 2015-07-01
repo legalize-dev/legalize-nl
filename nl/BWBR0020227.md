@@ -4,7 +4,7 @@ identifier: "BWBR0020227"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2014-11-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020227"
 soort: "ministeriele-regeling"
@@ -39,6 +39,8 @@ entry_into_force: "2013-01-19"
 Gelet op de [artikelen 107, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=107), en [116, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=116) en [119, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=119), [120](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=120) en [122, eerste en tweede lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=122);
 
 Besluit:
+
+Treedt in werking op het tijdstip waarop artikel I, onderdelen A, B, C, D tot en met F, G, H tot en met K, L, M, N, O, P en Pa, van de Wijzigingswet Wegenverkeerswet 1994 (wijziging procedure aanvraag en afgifte rijbewijzen) (Stb. 321) in werking treedt.
 
 ##### Artikel 1. De bevoegdheid tot het bestellen en in ontvangst nemen van rijbewijzen
 
@@ -76,7 +78,7 @@ Besluit:
 
 ##### Artikel 4. Het transport en de aflevering van de aangevraagde rijbewijzen
 
-1. De aangevraagde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2014-11-01&g=2014-11-01) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de aanvraag een spoedaanvraag betreft, die op een werkdag vóór 15.00 uur door de Dienst Wegverkeer is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
+1. De aangevraagde rijbewijzen worden maximaal vier werkdagen na ontvangst van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2015-07-01&g=2015-07-01) bedoelde aanvraag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd. Indien de aanvraag een spoedaanvraag betreft, die op een werkdag vóór 15.00 uur door de Dienst Wegverkeer is ontvangen, wordt het aangevraagde rijbewijs de volgende werkdag vóór 9.00 uur bij de in de aanvraag genoemde afgiftelocatie afgeleverd.
 
 2. De transporteur zorgt voor de aflevering van de aangevraagde rijbewijzen door middel van een beveiligd transport.
 
@@ -102,7 +104,7 @@ Besluit:
 
 ##### Artikel 5. Het inklaren van de ontvangen rijbewijzen
 
-1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2014-11-01&g=2014-11-01), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
+1. Na de aflevering van de rijbewijzen controleert de tot het in ontvangst nemen bevoegde persoon of de levering overeenstemt met de in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020227&artikel=3&z=2015-07-01&g=2015-07-01), bedoelde gereedmelding en of de geleverde rijbewijzen juist en onbeschadigd zijn.
 
 2. De afgeleverde rijbewijzen worden op de dag van aflevering in het rijbewijzenregister geregistreerd.
 
