@@ -4,7 +4,7 @@ identifier: "BWBR0015905"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2003-11-27"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015905"
 soort: "ministeriele-regeling"
@@ -47,5 +47,15 @@ Naast de ambtenaren, genoemd in [artikel 20, eerste lid, van de Wet inzake bloed
 ##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
+
+Dit besluit zal in de Staatscourant worden geplaatst.
+
+##### Artikel 1a
+
+Naast de ambtenaren, genoemd in [artikel 20, eerste lid, van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=20), zijn met het toezicht op het bepaalde bij en krachtens [artikel 11a van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=11a) belast de ambtenaren van de Inspectie Militaire Gezondheidszorg.
+
+##### Artikel 3
+
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders bloedvoorziening.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
