@@ -4,7 +4,7 @@ identifier: "BWBR0019147"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-22"
-last_updated: "2014-12-12"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019147"
 soort: "ministeriele-regeling"
@@ -44,19 +44,11 @@ Besluit:
 
 ##### Artikel 1
 
-1. Het is verboden deel te nemen aan het luchtverkeer:
-
-- a. met een licht onbemand luchtvaartuig, niet zijnde een modelluchtvaartuig of onbemande vrije ballon, waarvan de totale startmassa niet meer dan 150 kg bedraagt en de maximale snelheid lager is dan 129,64 k/u (70 knopen);
-
-- b. met een modelluchtvaartuig zijnde een luchtvaartuig van geringe afmetingen, niet in staat een mens te dragen, waarvan de totale startmassa niet meer dan 25 kilogram bedraagt, indien dit luchtvaartuig wordt gebruikt uit hoofde van een bedrijf of beroep dan wel tegen vergoeding of met baat.
-
-2. Het verbod, bedoeld in artikel 1, eerste lid, aanhef en onder b, is niet van toepassing op het gebruik van een modelluchtvaartuig voor vlieglessen.
-
-3. Deze regeling is niet van toepassing op vluchten met militaire onbemande luchtvaartuigen.
+Vervallen
 
 ##### Artikel 2
 
-Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012, het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&wetgeving) en [artikel 1, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019147&artikel=1&z=2014-12-12&g=2014-12-12) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
+Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012 en het [Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&wetgeving) gelden voor een vlucht met een modelluchtvaartuig de volgende regels:
 
 - a. de vlucht wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen;
 
@@ -72,19 +64,21 @@ Onverminderd paragraaf SERA.3201 van verordening (EU) nr. 923/2012, het [Besluit
 
 - g. gecontroleerde vluchten zijn niet toegestaan;
 
-- h. vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G, mits
+- h. vluchten zijn toegestaan tot een hoogte van maximaal 120 meter boven de grond of het water in luchtruim met klasse G, mits
 
 - 1°. voor vluchten binnen een afstand van 3 km van een ongecontroleerde luchthaven of een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt, waarvoor krachtens [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) ontheffing is verleend, geen bezwaar bestaat bij de exploitant van de luchthaven respectievelijk de houder van de ontheffing;
 
 - 2°. voor vluchten binnen een gebied waarin laag mag worden gevlogen door civiele of militaire luchtvaartuigen iemand met de bestuurder van het modelluchtvaartuig meekijkt om deze te kunnen waarschuwen voor luchtvaartuigen;
 
-- i. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
+- i. in afwijking van onderdeel h zijn vluchten binnen het verband van een bij de Koninklijke Nederlandse Vereniging voor Luchtvaart of de Federatie Limburgse Radio Controle Vliegers aangesloten vereniging toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim klasse G, mits wordt voldaan aan de in dat onderdeel genoemde voorwaarden;
 
-- j. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
+- j. vluchten zijn toegestaan tot een hoogte van maximaal 450 meter boven de grond of het water, mits dit gebeurt binnen een aerodrome traffic zone van een militaire luchthaven waarop modelvliegen is toegestaan en dit gebied exclusief voor modelvliegen wordt gebruikt of met de andere gebruiker(s) sluitende afspraken zijn gemaakt inzake separatie;
 
-- k. de regels voor de bediening van boordapparatuur voor het beantwoorden van vragen door radargrondstations gelden niet;
+- k. vluchten zijn toegestaan in luchtruim met klasse C, mits op schriftelijk verzoek van belanghebbende een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant;
 
-- l. de regels voor de navigatie- en telecommunicatie-installaties waarmee een luchtvaartuig voor het uitvoeren van een VFR-vlucht is uitgerust, gelden niet.
+- l. de regels voor de bediening van boordapparatuur voor het beantwoorden van vragen door radargrondstations gelden niet;
+
+- m. de regels voor de navigatie- en telecommunicatie-installaties waarmee een luchtvaartuig voor het uitvoeren van een VFR-vlucht is uitgerust, gelden niet.
 
 ##### Artikel 3
 
