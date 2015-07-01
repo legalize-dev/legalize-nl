@@ -4,7 +4,7 @@ identifier: "BWBR0020111"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-12-31"
-last_updated: "2015-06-05"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020111"
 soort: "AMvB"
@@ -60,6 +60,14 @@ Hebben goedgevonden en verstaan:
 
 **luchtwerk:** een vlucht met een vliegtuig of helikopter waarbij dit of deze gebruikt wordt voor speciale diensten zoals bijvoorbeeld landbouw, fotografie, film, onderzoek, observatie en patrouille, reddingsoperaties of reclame;
 
+**modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
+
+**ROC:** aan een onderneming afgegeven AOC waarin wordt verklaard dat de betrokken luchtvaartexploitant beschikt over beroepsbekwaamheid en organisatie om een onbemande RPA en het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type-ontwerp gespecificeerde onderdelen veilig te exploiteren (Remotely piloted aircraft system operator certificate);
+
+**RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
+
+**RPAS:** RPA, het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type ontwerp gespecificeerde componenten;
+
 **vliegtuig:** gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;
 
 **vrije ballon:** luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht om ten minste één persoon te vervoeren;
@@ -70,17 +78,19 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 2
 
-1. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een AOC af indien wordt voldaan aan:
+1. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een AOC, niet zijnde een ROC af indien wordt voldaan aan:
 
 - a. voor vluchten met een vliegtuig: bijlage III bij EG-verordening 3922/91;
 
 - b. voor vluchten met een helikopter: JAR-OPS 3.
 
-2. Onze Minister van Infrastructuur en Milieu maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
+2. Onze Minister van Infrastructuur en Milieu geeft op aanvraag een ROC af indien wordt voldaan aan de bij ministeriële regeling te stellen eisen.
 
-3. Bij ministeriële regeling kunnen ten aanzien van de gegevens, die bij een aanvraag om afgifte of wijziging dan wel het instandhouden van een AOC dienen te worden verstrekt, regels worden gesteld.
+3. Onze Minister van Infrastructuur en Milieu maakt de tekst van JAR-OPS 3 bekend middels een mededeling in de Staatscourant waarin is aangegeven waar de tekst ter inzage is gelegd. Van een wijziging in de tekst wordt eveneens mededeling gedaan in de Staatscourant.
 
-4. Een AOC wordt afgegeven voor onbepaalde tijd.
+4. Bij ministeriële regeling kunnen ten aanzien van de gegevens, die bij een aanvraag om afgifte of wijziging dan wel het instandhouden van een AOC dienen te worden verstrekt, regels worden gesteld.
+
+5. Een AOC wordt afgegeven voor onbepaalde tijd.
 
 ##### Artikel 3
 
@@ -88,9 +98,9 @@ Vervallen
 
 ##### Artikel 4
 
-1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-06-05&g=2015-06-05), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
+1. De uitvoering van een vlucht, krachtens een AOC afgegeven op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-07-01&g=2015-07-01), voldoet aan de regels, bedoeld in het desbetreffende onderdeel van dat lid.
 
-2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-06-05&g=2015-06-05), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
+2. Onverminderd het eerste lid, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de uitvoering van een vlucht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=2&z=2015-07-01&g=2015-07-01), in verband met de veiligheid van de vluchtuitvoering en de beveiliging van de burgerluchtvaart.
 
 ##### Artikel 5
 
@@ -102,7 +112,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 - a. vluchten met een luchtschip;
 
-- b. luchtwerk;
+- b. luchtwerk anders dan met een RPA;
 
 - c. vluchten met een vrije ballon.
 
@@ -118,7 +128,7 @@ Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de ve
 
 ##### Artikel 8
 
-Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2015-06-05&g=2015-06-05), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2015-06-05&g=2015-06-05), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2015-06-05&g=2015-06-05), is een strafbaar feit.
+Handelen in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=4&z=2015-07-01&g=2015-07-01), [6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=6&z=2015-07-01&g=2015-07-01), en [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020111&artikel=7&z=2015-07-01&g=2015-07-01), is een strafbaar feit.
 
 ##### Artikel 9
 
@@ -136,7 +146,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a
 
-Dit onderdeel is nog niet inwerking getreden
+[Artikel 4.1, tweede lid, laatste zin, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1) is niet van toepassing op een ROC.
 
 ##### Artikel 5a
 
