@@ -4,7 +4,7 @@ identifier: "BWBR0006685"
 country: "nl"
 rank: "wet"
 publication_date: "2025-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006685"
 soort: "wet"
@@ -49,7 +49,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
-- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2015-01-01&g=2015-01-01);
+- b. COA: het Centraal Orgaan opvang asielzoekers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01);
 
 - c. Kaderwet: de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495);
 
@@ -75,7 +75,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het plaatsen van asielzoekers op gemeentelijke opvangplaatsen, alsmede het betalen van bijdragen aan de desbetreffende gemeente ten behoeve van de kosten van deze opvang;
 
-- d. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](511509) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
+- d. werkzaamheden met betrekking tot de bemiddeling bij de uitstroom van verblijfsgerechtigden als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Huisvestingswet 2014](onbekend) naar door burgemeester en wethouders beschikbaar gestelde huisvesting;
 
 - e. door Onze Minister aan het COA op te dragen andere taken die samenhangen met de opvang van asielzoekers.
 
@@ -93,7 +93,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 4
 
-Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
+Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01), doet Onze Minister, voor zover dat gevolgen heeft voor de uitoefening van openbaar gezag door het COA, daarvan mededeling aan beide Kamers der Staten-Generaal.
 
 ##### Artikel 5
 
@@ -111,21 +111,15 @@ Bij de toepassing van [artikel 3, tweede en derde lid](https://wetten.overheid.n
 
 ##### Artikel 7
 
-Het COA heeft een bestuur en een raad van toezicht.
+Het COA heeft een bestuur.
 
 ##### Artikel 8
 
 1. Het bestuur bestaat uit ten hoogste drie leden, waaronder de voorzitter. Het bestuur besluit bij meerderheid van stemmen. Bij het staken van stemmen geeft de stem van de voorzitter de doorslag.
 
-2. Het lidmaatschap van het bestuur is onverenigbaar met het lidmaatschap van de raad van toezicht.
+2. De leden van het bestuur worden benoemd voor vier jaren. De aftredende leden kunnen ten hoogste tweemaal worden herbenoemd.
 
-3. Behoudens spoedeisende gevallen stelt Onze Minister de raad van toezicht in de gelegenheid voor iedere te vervullen plaats in het bestuur een voordracht te doen van ten minste een persoon, waarvan Onze Minister niet afwijkt dan na overleg met de raad van toezicht.
-
-4. De leden van het bestuur worden benoemd voor vier jaren. De aftredende leden kunnen ten hoogste tweemaal worden herbenoemd.
-
-5. De raad van toezicht kan leden van het bestuur voordragen voor schorsing of ontslag, waarvan Onze Minister niet afwijkt dan na overleg met de raad. Behoudens een dergelijke voordracht en behoudens spoedeisende gevallen stelt Onze Minister de raad van toezicht in de gelegenheid zijn gevoelen kenbaar te maken over de voorgenomen schorsing of ontslag van een lid van het bestuur.
-
-6. Het bestuur stelt een reglement vast, dat in ieder geval voorziet in:
+3. Het bestuur stelt een reglement vast, dat in ieder geval voorziet in:
 
 - a. de vervanging van de voorzitter bij diens schorsing of ontstentenis;
 
@@ -135,61 +129,17 @@ Het COA heeft een bestuur en een raad van toezicht.
 
 ##### Artikel 9
 
-1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01).
+1. Het bestuur is belast met de dagelijkse leiding van het COA en draagt zorg voor een goede uitvoering van de taken, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01).
 
-2. Alle bevoegdheden van het COA die niet bij of krachtens de wet aan de raad van toezicht zijn toegekend, komen toe aan het bestuur.
-
-3. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-01-01&g=2015-01-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
+2. Een besluit van het bestuur om werkzaamheden, die de uitvoering van taken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01) betreffen, door derden te laten uitvoeren, behoeft voor zover het door Onze Minister aangegeven werkzaamheden betreft zijn goedkeuring.
 
 ##### Artikel 10
 
-1. De raad van toezicht bestaat uit ten minste drie en ten hoogste vijf leden, waaronder de voorzitter.
-
-2. De Minister stelt de raad van toezicht in de gelegenheid voor iedere te vervullen plaats in de raad een voordracht te doen van ten minste een persoon, waarvan Onze Minister niet afwijkt dan na overleg met de raad van toezicht.
-
-3. De raad van toezicht wijst uit zijn midden een plaatsvervangend voorzitter aan.
-
-4. De leden van de raad van toezicht worden benoemd voor vier jaren. De aftredende leden kunnen ten hoogste tweemaal worden herbenoemd.
-
-5. De raad van toezicht kan leden van de raad voordragen voor schorsing of ontslag, waarvan Onze Minister niet afwijkt dan na overleg met de raad. Behoudens een dergelijke voordracht stelt Onze Minister de raad in de gelegenheid zijn gevoelen kenbaar te maken over de voorgenomen schorsing of ontslag van een lid van de raad.
-
-6. De raad van toezicht stelt een reglement vast, dat in ieder geval voorziet in:
-
-- a. zijn werkwijze en de wijze van zijn besluitvorming;
-
-- b. de mogelijkheid tot instelling van commissies.
+Vervallen
 
 ##### Artikel 11
 
-1. De raad van toezicht ziet toe op de werkzaamheden van het bestuur en staat deze met raad terzijde.
-
-2. Goedkeuring dan wel instemming van de raad van toezicht behoeven de besluiten van het bestuur betreffende:
-
-- a. het activiteitenplan;
-
-- b. de begroting;
-
-- c. de jaarrekening;
-
-- d. het jaarverslag;
-
-- e. het doen van investeringen of desinvesteringen, die een door de raad van toezicht vast te stellen bedrag te boven gaan, en
-
-- f. het aangaan van meerjarige exploitatie-overeenkomsten, die een door de raad van toezicht vast te stellen bedrag te boven gaan.
-
-3. De raad van toezicht kan goedkeuring of instemming als bedoeld in het tweede lid onthouden wegens strijd met het recht of op de grond dat het besluit de doelmatige en behoorlijke taakuitoefening door het COA kan belemmeren.
-
-4. De raad van toezicht adviseert Onze Minister in ieder geval omtrent:
-
-- a. het reglement van het bestuur, bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=8&z=2015-01-01&g=2015-01-01), en
-
-- b. de aan het lidmaatschap van het bestuur verbonden bezoldiging of schadeloosstelling, bedoeld in [artikel 14 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
-
-5. De raad van toezicht wijst de accountant, bedoeld in [artikel 35, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), aan.
-
-6. De raad van toezicht bespreekt ten minste eens per jaar in afwezigheid van het bestuur zijn functioneren, dat van het bestuur en de daaraan te verbinden conclusies met Onze Minister.
-
-7. Indien het jaarverslag van de raad van toezicht niet tezamen met het jaarverslag van het bestuur, bedoeld in [artikel 10, zevende lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&paragraaf=2&artikel=10&z=2015-01-01&g=2015-01-01), wordt uitgebracht, stelt de raad van toezicht zijn jaarverslag, in afwijking van [artikel 18 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), binnen een maand na de vaststelling van de jaarrekening op.
+Vervallen
 
 #### § 3. Ministeriële bevoegdheden
 
@@ -205,7 +155,7 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 
 ##### Artikel 14
 
-1. Onze Minister, het bestuur en de raad van toezicht verstrekken elkaar tijdig alle voor de uitoefening van hun taken benodigde inlichtingen.
+1. Onze Minister en het bestuur verstrekken elkaar tijdig alle voor de uitoefening van hun taken benodigde inlichtingen.
 
 2. Onze Minister kan regels stellen met betrekking tot de verstrekking aan en door hem van inlichtingen als bedoeld in het eerste lid.
 
@@ -281,7 +231,7 @@ Het COA wordt in en buiten rechte vertegenwoordigd door de voorzitter van het be
 
 2. De accountant geeft binnen dertien weken na afloop van het boekjaar een schriftelijke verklaring af over de naleving van de aan de subsidie verbonden verplichtingen.
 
-3. Het bestuur en de raad van toezicht werken mee aan door Onze Minister in te stellen onderzoeken, die noodzakelijk zijn voor de uitvoering van de taak van het ministerie.
+3. Het bestuur werkt mee aan door Onze Minister in te stellen onderzoeken, die noodzakelijk zijn voor de uitvoering van de taak van het ministerie.
 
 #### § 6. Overgangs- en slotbepalingen
 
