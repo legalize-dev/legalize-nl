@@ -4,7 +4,7 @@ identifier: "BWBR0032545"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-02"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032545"
 soort: "ministeriele-regeling"
@@ -48,7 +48,7 @@ Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](https://w
 
 - b. hij als gevolg van feestdagen, een schadeloosstelling wegens loonderving heeft ontvangen;
 
-- c. hij een schadeloosstelling of vergoeding wegens het beëindigen van de dienstbetrekking heeft ontvangen;
+- c. hij een schadeloosstelling of vergoeding wegens het beëindigen van de dienstbetrekking heeft ontvangen, met uitzondering van de transitievergoeding, bedoeld in [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) en de gelijkwaardige voorziening, bedoeld in [artikel 673b, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673b);
 
 - d. dit het gevolg is van werktijdverkorting waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend;
 
@@ -64,11 +64,11 @@ Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](https://w
 
 ##### Artikel 2. Vaststelling uren gelijkgesteld aan arbeidsuren einde dienstbetrekking
 
-1. Heeft de werknemer inkomsten ontvangen als bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01), dan wordt voor de vaststelling van uren die worden gelijkgesteld met arbeidsuren een bedrag aan inkomsten in aanmerking genomen tot aan het bedrag aan loon dat de werknemer zou hebben ontvangen indien de dienstbetrekking door opzegging met inachtneming van de rechtens geldende termijn zou zijn geëindigd. Onder inkomsten als bedoeld in de eerste zin wordt niet verstaan een door de rechter toegewezen vergoeding van proceskosten. Onder de rechtens geldende termijn, bedoeld in de eerste zin, wordt verstaan de termijn die de werkgever of de werknemer op grond van [artikel 672 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672), de [artikelen 94 tot en met 97 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=94) of een overeenkomstige bepaling van een soortgelijke regeling ieder voor zich bij opzegging in acht behoort te nemen. In geval de dienstbetrekking is geëindigd met wederzijds goedvinden wordt onder de rechtens geldende termijn, bedoeld in de eerste zin, verstaan de termijn die de werkgever op grond van artikel 672 van Boek 7 van het Burgerlijk Wetboek, de artikelen 94 tot en met 97 van het Algemeen Rijksambtenarenreglement of een overeenkomstige bepaling van een soortgelijke regeling bij opzegging in acht behoort te nemen. Het in de eerste zin bedoelde bedrag wordt toegerekend aan de periode onmiddellijk volgend op de laatste dag van de dienstbetrekking, waarbij:
+1. Heeft de werknemer inkomsten als bedoeld in [artikel 1, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01), ontvangen dan wordt voor de vaststelling van uren die worden gelijkgesteld met arbeidsuren een bedrag aan inkomsten in aanmerking genomen tot aan het bedrag aan loon dat de werknemer zou hebben ontvangen indien de dienstbetrekking door opzegging met inachtneming van de rechtens geldende termijn zou zijn geëindigd. Onder de rechtens geldende termijn, bedoeld in de eerste zin, wordt verstaan de termijn, bedoeld in de [artikelen 672 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=672) en [94 tot en met 97 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=94) of een overeenkomstige bepaling van een soortgelijke regeling. Het in de eerste zin bedoelde bedrag wordt toegerekend aan de periode onmiddellijk volgend op de laatste dag van de dienstbetrekking, waarbij als datum waarop de dienstbetrekking geacht wordt te zijn opgezegd de datum geldt waarop:
 
-- a. indien de dienstbetrekking is geëindigd door ontbinding als datum waarop de dienstbetrekking geacht wordt te zijn opgezegd de datum geldt van de beschikking tot ontbinding; of
+- a. de beëindiging schriftelijk is overeengekomen; of
 
-- b. indien de dienstbetrekking is geëindigd met wederzijds goedvinden als datum waarop de dienstbetrekking geacht wordt te zijn opgezegd de datum geldt waarop de beëindiging schriftelijk is overeengekomen, dan wel, bij gebrek aan een schriftelijke beëindigingsovereenkomst, de laatste dag van de dienstbetrekking.
+- b. de werkgever de arbeidsovereenkomst heeft opgezegd.
 
 2. Het aantal uren dat met arbeidsuren wordt gelijkgesteld, wordt vastgesteld door het bedrag dat wordt toegerekend aan de periode onmiddellijk volgend op de laatste dag van de dienstbetrekking te delen door het voor de werknemer laatstelijk geldende uurloon dan wel indien de werknemer niet tegen een overeengekomen uurloon werkzaam was, te delen door een door UWV vast te stellen bedrag per uur dat daarvoor redelijkerwijs in aanmerking komt. Het berekende aantal uren wordt toegerekend aan dezelfde periode als waaraan het bedrag in de eerste volzin wordt toegerekend.
 
@@ -76,13 +76,13 @@ Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](https://w
 
 ##### Artikel 3. Vaststelling uren gelijkgesteld aan arbeidsuren bij ziekte of arbeidsongeschiktheid
 
-1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel g respectievelijk i, gelijkgesteld wordt, gelijk aan:
+1. Indien de periode van ziekte of arbeidsongeschiktheid dan wel de periode waarover een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01), is ontvangen, gelet op het arbeidspatroon van de werknemer, aansluit op een periode waarin de werknemer arbeidsuren had, is het aantal uren dat op grond van artikel 1, onderdeel g respectievelijk i, gelijkgesteld wordt, gelijk aan:
 
-- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01), en hij een vast aantal arbeidsuren had; of
+- a. het aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01), en hij een vast aantal arbeidsuren had; of
 
-- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01), en hij geen aantal vaste arbeidsuren had.
+- b. het gemiddeld aantal arbeidsuren dat de werknemer zou hebben gehad indien hij niet ziek of arbeidsongeschikt zou zijn geworden dan wel zich geen situatie zou hebben voorgedaan op grond waarvan hij recht heeft op een uitkering als bedoeld in het [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01), en hij geen aantal vaste arbeidsuren had.
 
-2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01), niet werkzaam was.
+2. Het gemiddeld aantal arbeidsuren, bedoeld in het eerste lid, onderdeel b, wordt berekend over de periode, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), met dien verstande dat buiten aanmerking blijven de in die periode gelegen uren, waarop hij ten gevolge van ziekte of arbeidsongeschiktheid dan wel de situatie op grond waarvan hij recht heeft op een uitkering als bedoeld in [artikel 1, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01), niet werkzaam was.
 
 ##### Artikel 4. Berekening van het gemiddeld aantal arbeidsuren in geval van ploegendienst of arbeidsduurverkorting in de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
@@ -96,7 +96,7 @@ Met een arbeidsuur als bedoeld in [artikel 1a van de Werkloosheidswet](https://w
 
 2. Voor de toepassing van het eerste lid wordt de arbeidsduurverkorting geacht gelijkelijk te zijn verspreid over een periode van een kalenderjaar. Indien de werknemer in een kalenderweek meer uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid gelijkgesteld met arbeidsuren. Indien de werknemer in een kalenderweek minder uren arbeidsduurverkorting heeft genoten dan het op jaarbasis vastgesteld gemiddeld aantal per week, wordt het verschil voor de toepassing van het eerste lid buiten beschouwing gelaten.
 
-3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2013-01-01&g=2013-01-01) zijn gelijkgesteld met arbeidsuren.
+3. Het eerste lid is van overeenkomstige toepassing indien voor de berekening van het aantal arbeidsuren, bedoeld in [artikel 16, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), uren waarin de werknemer niet heeft gewerkt als gevolg van compensatieverlofdagen op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=1&z=2015-07-01&g=2015-07-01) zijn gelijkgesteld met arbeidsuren.
 
 ##### Artikel 5. Het buiten beschouwing laten van arbeidsuren bij een andere werkgever
 
@@ -122,25 +122,11 @@ Kalenderweken waarin de werknemer geen arbeidsuren heeft ten gevolge van ploegen
 
 ##### Artikel 8. Volgorde beëindiging uitkeringsrechten
 
-1. Indien de werknemer meer dan één recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) heeft en zich een omstandigheid als bedoeld in [artikel 20, eerste lid, onderdelen a en b, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), voordoet, worden voor de toepassing van het tweede, derde en vierde lid van dat artikel de uitkeringsrechten beëindigd in de volgorde waarin zij zijn ontstaan.
-
-2. Het UWV neemt, in afwijking van het eerste lid, een andere volgorde in acht, indien de toepassing van dat lid tot een kennelijk onjuiste uitkomst leidt.
-
-3. In de situatie, bedoeld in het tweede lid, wordt voor de vaststelling van de volgorde, waarin de uitkeringsrechten worden beëindigd, uitgegaan van een samenhang tussen de werkloosheidssituaties en de reden van beëindiging van het recht op uitkering.
-
-4. Een samenhang als bedoeld in het derde lid wordt vastgesteld aan de hand van:
-
-- a. het beroep of de beroepen van de werknemer;
-
-- b. de bedrijfstak of bedrijfstakken waarin de werknemer werkzaam is;
-
-- c. het aantal verloren arbeidsuren en het aantal arbeidsuren waarmee het uitkeringsrecht moet worden beëindigd;
-
-- d. de hoogte van het loon.
+Vervallen
 
 ##### Artikel 9. Vaststellen beleidsregels UWV
 
-Met in achtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=2&z=2013-01-01&g=2013-01-01) kan het UWV beleidsregels vaststellen ter nadere invulling van deze regeling.
+Met in achtneming van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032545&artikel=2&z=2015-07-01&g=2015-07-01) kan het UWV beleidsregels vaststellen ter nadere invulling van deze regeling.
 
 ##### Artikel 10. Intrekking regelingen
 
@@ -153,5 +139,11 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 ##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Gelijkstellingsregeling arbeidsuren.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 9a. Overgangsrecht
+
+Dit onderdeel is nog niet inwerking getreden
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
