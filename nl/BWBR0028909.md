@@ -4,7 +4,7 @@ identifier: "BWBR0028909"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-06-26"
-last_updated: "2014-04-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0028909"
 soort: "beleidsregel"
@@ -52,21 +52,21 @@ Indien cao-partijen in hun cao een dispensatiebepaling hebben opgenomen en daarv
 
 ### 3.1. Algemeen
 
-Een verzoek tot avv van cao-bepalingen moet schriftelijk bij de Minister van Sociale Zaken en Werkgelegenheid worden ingediend en wordt namens deze behandeld door de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid. Een verzoek kan worden aangevraagd door één of meer werkgevers of door één of meer verenigingen van werkgevers of werknemers die partij zijn bij de cao ([art 4 lid 1 Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4)).
+Een verzoek tot avv van cao-bepalingen en een verzoek tot verlenging van de duur van een avv-besluit moet schriftelijk bij de Minister van Sociale Zaken en Werkgelegenheid worden ingediend en wordt namens deze behandeld door de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving van het Ministerie van Sociale Zaken en Werkgelegenheid. Een verzoek kan worden aangevraagd door één of meer werkgevers of door één of meer verenigingen van werkgevers of werknemers die partij zijn bij de cao ([art 4 lid 1 Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4)). Een verzoek tot verlenging van de duur van een besluit tot avv kan worden aangevraagd door alle werkgevers of verenigingen van werkgevers en van werknemers die partij zijn bij de collectieve arbeidsovereenkomst ([art. 4a lid 1 Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4a)).
 
-De minister heeft op grond van [artikel 4, tweede en vijfde lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4) regels vastgesteld betreffende het aanvragen van avv. De eisen voor de aanvraag zijn vastgelegd in [Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051). Een aanvraag wordt eerst in behandeling genomen, indien deze voldoet aan de in dit besluit genoemde vereisten. De directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving zal de aanvrager zonodig zo spoedig mogelijk verwittigen van onvolledigheid van de toegezonden bescheiden, en van eventueel gewenste aanvullende informatie zoals bedoeld in [artikel 2;3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&artikel=2:3).
+De minister heeft op grond van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4), juncto [artikel 4a, derde lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4a) regels vastgesteld betreffende het aanvragen van avv en het aanvragen van verlenging daarvan. De eisen voor de aanvragen zijn vastgelegd in het [Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&wetgeving). Een aanvraag wordt eerst in behandeling genomen, indien deze voldoet aan de in dit besluit genoemde vereisten. De directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving zal de aanvrager zonodig zo spoedig mogelijk verwittigen van onvolledigheid van de toegezonden bescheiden, en van eventueel gewenste aanvullende informatie zoals bedoeld in [artikel 2;3 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&artikel=2:3).
 
-De inhoudelijke toetsing van verzoeken tot avv van cao-bepalingen vindt plaats op grond van de [Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987), het recht en het avv-beleid zoals verwoord in respectievelijk paragraaf 4, 5 en 6 van dit toetsingskader. Bepalingen worden getoetst op basis van de ingediende tekst en in principe niet op de mogelijke toepassingspraktijk. De toetsing aan het recht betreft toetsing op kennelijke strijdigheid met het recht. Ambtelijke correctie op voor avv voorgedragen cao-bepalingen door bijvoorbeeld het schrappen van (onderdelen van) artikelen of het plaatsen van voetnoten vindt in principe niet plaats.
+De inhoudelijke toetsing van verzoeken tot avv van cao-bepalingen vindt plaats op grond van de [Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&wetgeving), het recht en het avv-beleid zoals verwoord in respectievelijk paragraaf 4, 5 en 6 van dit toetsingskader. Bepalingen worden getoetst op basis van de ingediende tekst en in principe niet op de mogelijke toepassingspraktijk. De toetsing aan het recht betreft toetsing op kennelijke strijdigheid met het recht. Ambtelijke correctie op voor avv voorgedragen cao-bepalingen door bijvoorbeeld het schrappen van (onderdelen van) artikelen of het plaatsen van voetnoten vindt in principe niet plaats.
 
 ### 3.2. Bedenkingen
 
-Tegen een verzoek tot avv kunnen binnen een termijn van drie weken, genoemd in de bekendmaking van het verzoek in de Staatscourant door belanghebbenden bedenkingen worden ingebracht ([artikel 4, derde lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4)). Buiten de periode van tervisielegging ingediende bedenkingen worden niet in behandeling genomen.
+Tegen een verzoek van cao-bepalingen tot avv kunnen binnen een termijn van drie weken, genoemd in de bekendmaking van het verzoek in de Staatscourant door belanghebbenden bedenkingen worden ingebracht ([artikel 4, derde lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=4)). Buiten de periode van tervisielegging ingediende bedenkingen worden niet in behandeling genomen. Bedenkingen tegen een in de Staatscourant bekendgemaakt verzoek om verlenging van een besluit tot avv worden niet gehonoreerd.
 
 Bedenkingen kunnen zonodig door de directie Uitvoeringstaken Arbeidsvoorwaardenwetgeving aan cao-partijen worden voorgelegd met het verzoek om een reactie binnen een termijn van drie weken. Eerst na een reactie van partijen kan de bedenkingenprocedure weer worden voortgezet.
 
 De bedenkingen, de reactie van cao-partijen en het voorgenomen besluit van de Minister of eventueel specifieke vragen van de Minister worden aan de Stichting van de Arbeid voorgelegd met een verzoek om een reactie, tenzij de bedenkingen in het licht van staand beleid evident kansloos zijn. Voorbeelden van bedenkingen dieals evident kansloos zullen worden aangemerkt zijn bedenkingen:
 
-De Stichting van de Arbeid wordt geïnformeerd over besluiten betreffende evident kansloze en herhalingsbedenkingen. De Stichting wordt ook geïnformeerd over aanhoudende werkingssfeergeschillen (zie paragraaf 6.2.) zodat zij kan bezien of haar tussenkomst wenselijk is. Van een besluit tot algemeen verbindend verklaring van cao-bepalingen wordt mededeling gedaan in de Staatscourant. Het besluit wordt met redenen omkleed indien tegen het verzoek bedenkingen zijn ingebracht. De indiener van bedenkingen wordt schriftelijk geïnformeerd over het genomen besluit.
+De Stichting van de Arbeid wordt geïnformeerd over besluiten betreffende evident kansloze en herhalingsbedenkingen. De Stichting wordt ook geïnformeerd over aanhoudende werkingssfeergeschillen (zie paragraaf 6.2.) zodat zij kan bezien of haar tussenkomst wenselijk is. Van een besluit tot algemeen verbindend verklaring van cao-bepalingen wordt mededeling gedaan in de Staatscourant. Van een besluit tot algemeen verbindend verklaring van cao-bepalingen en van een besluit tot verlenging van de duur van een avv-besluit wordt mededeling gedaan in de Staatscourant. Het besluit tot avv wordt met redenen omkleed indien tegen het verzoek bedenkingen zijn ingebracht. De indiener van bedenkingen wordt schriftelijk geïnformeerd over het genomen besluit.
 
 ### 4. [Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987)
 
@@ -84,7 +84,7 @@ De beoordeling van de onder de tweede en derde categorie bedoelde situaties is u
 
 Bij een avv-verzoek worden de representativiteitsgegevens en de hiervoor gehanteerde onderzoeksmethodiek opgegeven. Deze opgave kan worden ingediend aan de hand van het formulier representativiteitsgegevens (zie [artikel 2:2, eerste lid, onderdeel d van het Besluit aanmelding collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&artikel=2:2)). Gebruikmaking van dit formulier is vereist ingeval van een representativiteitspercentage onder de 60% en ingeval beargumenteerde bedenkingen tegen de representativiteit daartoe aanleiding geven. De bij het avv-verzoek opgegeven aantallen zijn van recente datum. Dit betekent dat de representativiteitsgegevens in beginsel niet ouder mogen zijn dan één jaar, te rekenen vanaf de ingangsdatum van de cao.
 
-De minister kan periodiek steekproefsgewijs onderzoek laten uitvoeren naar de kwaliteit van de representativiteitsgegevens. Partijen stellen daartoe desgewenst de relevante gegevens beschikbaar.
+De minister kan periodiek steekproefsgewijs onderzoek laten uitvoeren naar de kwaliteit van de representativiteitsgegevens. Partijen stellen daartoe desgewenst de relevante gegevens beschikbaar. In het kader van een verzoek tot verlenging van een besluit tot avv is geen representativiteitsopgave vereist.
 
 ### 4.2. Wel of geen cao
 
@@ -102,7 +102,7 @@ Niet voor avv in aanmerking komen:
 
 ### 4.4. Werkingsduur
 
-Avv treedt in werking de dag na publicatie van het besluit in de Staatscourant, dan wel op de in het besluit genoemde datum, en loopt tot maximaal de einddatum van de cao. De maximale looptijd van een besluit tot avv bedraagt 2 jaar, met uitzondering van bepalingen ten aanzien van fondsen ([artikel 2, tweede lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Een avv-besluit met betrekking tot fondsen kan voor een maximale looptijd van vijf jaar gelden (artikel 2, tweede lid, Wet AVV juncto [artikel 18, Wet CAO](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=18)).
+Avv treedt in werking de dag na publicatie van het besluit in de Staatscourant, dan wel op de in het besluit genoemde datum, en loopt tot maximaal de einddatum van de cao. De maximale looptijd van een besluit tot avv bedraagt 2 jaar, behoudens eenmalige verlenging voor ten hoogste één jaar ([artikel 2, tweede lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Een avv-besluit met betrekking tot fondsen kan voor een maximale looptijd van vijf jaar gelden (artikel 2, tweede lid, Wet AVV juncto [artikel 18, Wet CAO)](https://wetten.overheid.nl/jci1.3:c:BWBR0001937&artikel=18), behoudens eenmalige verlenging voor ten hoogste één jaar (artikel 2, tweede lid, Wet AVV).
 
 Wanneer het avv-verzoek betrekking heeft op cao-bepalingen met een verschillende looptijd kunnen de langer lopende bepalingen voor die langere duur algemeen verbindend worden verklaard mits ook de werkingssfeerbepalingen van de cao daarin voorzien. Een besluit tot avv heeft geen terugwerkende kracht. Dit impliceert dat cao-bepalingen die uitdrukkelijk tot een bepaald tijdstip van kracht zijn niet voor avv in aanmerking komen indien dat tijdstip gelegen is voor de inwerkingtreding van het avv-besluit. Evenmin komen voor avv in aanmerking cao-bepalingen ingevolge welke een eenmalig recht wordt toegekend, te verkrijgen op een tijdstip dat voor (of na) de werkingsduur van het avv-besluit ligt. Dit geldt ook ten aanzien van bepalingen waarin een eenmalige verplichting wordt opgelegd, te voldoen op een tijdstip dat voor (of na) de werkingsduur van het avv-besluit ligt. Bepalingen die avv als voorwaarde voor inwerkingtreding daarvan stellen komen niet voor avv in aanmerking.
 
@@ -174,7 +174,7 @@ Bedenkingen in verband met onvoldoende toegang tot het cao-overleg zijn doorgaan
 
 ### 7. Dispensatie
 
-Avv heeft tot doel de totstandkoming en de inhoud van collectieve afspraken over arbeidsvoorwaarden te ondersteunen, met als beoogd effect te voorkomen dat niet gebonden werkgevers en werknemers door onderbieding concurreren op arbeidsvoorwaarden. De minister heeft de bevoegdheid om uitzonderingen te maken op de algemeenverbindendverklaring ([artikel 2, eerste lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Nadere regels over deze bevoegdheid zijn neergelegd in het [Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051). Deze bevoegdheid is, blijkens de memorie van toelichting (Bijlage Handelingen II 1936/37, 274 nr. 3), behalve ter voorkoming van samenloop van collectieve regelingen met name gegeven om rekening te houden met de situatie dat de verbindendverklaring in het algemeen wel gemotiveerd is, doch voor bepaalde ondernemingen op gegronde bezwaren zou stuiten omdat de situatie van de onderneming(en) verschilt van de ondernemingen die onder de avv’de cao vallen. Uitzondering van avv maakt in die gevallen maatwerk in de collectieve arbeidsvoorwaardenvorming in een afzonderlijke onderneming of subsector mogelijk.
+Avv heeft tot doel de totstandkoming en de inhoud van collectieve afspraken over arbeidsvoorwaarden te ondersteunen, met als beoogd effect te voorkomen dat niet gebonden werkgevers en werknemers door onderbieding concurreren op arbeidsvoorwaarden. De minister heeft de bevoegdheid om uitzonderingen te maken op de algemeenverbindendverklaring ([artikel 2, eerste lid, Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2)). Nadere regels over deze bevoegdheid zijn neergelegd in het [Besluit aanmelding van collectieve arbeidsovereenkomsten en het verzoeken om algemeen verbindend verklaring](https://wetten.overheid.nl/jci1.3:c:BWBR0010051&wetgeving). Deze bevoegdheid is, blijkens de memorie van toelichting (Bijlage Handelingen II 1936/37, 274 nr. 3), behalve ter voorkoming van samenloop van collectieve regelingen met name gegeven om rekening te houden met de situatie dat de verbindendverklaring in het algemeen wel gemotiveerd is, doch voor bepaalde ondernemingen op gegronde bezwaren zou stuiten omdat de situatie van de onderneming(en) verschilt van de ondernemingen die onder de avv’de cao vallen. Uitzondering van avv maakt in die gevallen maatwerk in de collectieve arbeidsvoorwaardenvorming in een afzonderlijke onderneming of subsector mogelijk.
 
 Belangrijke uitgangspunten in het cao- en avv-beleid zijn de eigen verantwoordelijkheid van cao-partijen voor de afbakening van de werkingssfeer en dat dispensatie zoveel mogelijk door cao-partijen zelf wordt geregeld, teneinde voor de desbetreffende sector maatwerk te realiseren. De daarvoor beschikbare mogelijkheden zijn:
 
@@ -184,7 +184,7 @@ Bij deze beschrijving van de procedure wordt tevens vermeld dat de beslissing op
 
 Voor zover werkgevers niet al door maatregelen van de cao-partijen zelf van de werking van de cao zijn uitgesloten, kan de minister toepassing geven aan zijn bevoegdheid uit hoofde van [art. 2 Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2) tot het verlenen van dispensatie van algemeenverbindendverklaring.
 
-Het verlenen van dispensatie geschiedt in lijn met de doelstelling van de [Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987). Een verzoek om dispensatie wordt alleen in behandeling genomen wanneer deze is voorzien van een motivering waaruit blijkt dat de beoogde dispensatie aansluit bij deze doelstelling.
+Het verlenen van dispensatie geschiedt in lijn met de doelstelling van de [Wet AVV](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&wetgeving). Een verzoek om dispensatie wordt alleen in behandeling genomen wanneer deze is voorzien van een motivering waaruit blijkt dat de beoogde dispensatie aansluit bij deze doelstelling.
 
 In de motivering komen in ieder geval de volgende elementen aan bod:
 
@@ -200,7 +200,7 @@ Een verzoek om dispensatie wordt nietgehonoreerdindien één van de volgende sit
 
 ### 8. Citeertitel
 
-Gelet op het belang dat als zodanig met AVV is gemoeid, zijn de in het kader van de dispensatieprocedure gestelde termijnen kort. Als door de verzoeker binnen de gestelde termijnen niet of niet voldoende wordt gereageerd, wordt het verzoek om dispensatie niet gehonoreerd.
+Gelet op het belang dat als zodanig met AVV is gemoeid, zijn de in het kader van de dispensatieprocedure gestelde termijnen kort. Als door de verzoeker binnen de gestelde termijnen niet of niet voldoende wordt gereageerd, wordt het verzoek om dispensatie niet gehonoreerd. Verzoeken om dispensatie van een besluit tot verlenging van een avv-besluit worden niet gehonoreerd.
 
 ### 8. Citeertitel
 
@@ -211,6 +211,20 @@ Deze beleidsregel wordt aangehaald als: Toetsingskader Algemeen Verbindend Verkl
 Dit toetsingskader wordt gepubliceerd in de Staatscourant.
 
 Verzoeken om dispensatie in verband met gebondenheid aan een eigen rechtsgeldige subsector-cao waarvan bepalingen algemeen verbindend zijn verklaard c.q. ten aanzien van welke bepalingen om avv is verzocht, worden aangehouden totdat de overlap van de werkingssfeer tussen beide cao’s is opgelost.
+
+### 10. Werkingsduur
+
+Dit toetsingskader geldt vanaf 1 januari 1999.
+
+Door de minister van een besluit tot avv verleende dispensaties blijven voor de duur van de verlenging van dat besluit tot avv automatisch gelden.
+
+### 8. Citeertitel
+
+Deze beleidsregel wordt aangehaald als: Toetsingskader Algemeen Verbindend Verklaring CAO-bepalingen (AVV).
+
+### 9. Publicatie
+
+Dit toetsingskader wordt gepubliceerd in de Staatscourant.
 
 ### 10. Werkingsduur
 
