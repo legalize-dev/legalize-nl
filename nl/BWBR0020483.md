@@ -4,7 +4,7 @@ identifier: "BWBR0020483"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-01-01"
-last_updated: "2015-06-30"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020483"
 soort: "AMvB"
@@ -50,21 +50,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:
 
-**IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving);
+**IOW:** [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
-**IOW-uitkering:** een uitkering op grond van de [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&wetgeving);
+**IOW-uitkering:** een uitkering op grond van de [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394);
 
 **mantelzorg**: noodzakelijke zorg voor een zieke of gehandicapte;
 
-**uitkeringsgerechtigde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving), die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2), die recht heeft op een WGA-uitkering respectievelijk een WW-uitkering, of de jonggehandicapte die recht heeft op arbeidsondersteuning, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) en [2:17 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:17), de verzekerde die ziekengeld ontvangt of de persoon die recht heeft op een IOW-uitkering;
+**uitkeringsgerechtigde**: de verzekerde, bedoeld in de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), die zijn resterende verdiencapaciteit als bedoeld in [paragraaf 7.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&paragraaf=7.2) niet volledig benut of de werknemer, bedoeld in [hoofdstuk 1, paragraaf 2, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&paragraaf=2), die recht heeft op een WGA-uitkering respectievelijk een WW-uitkering, of de jonggehandicapte die recht heeft op arbeidsondersteuning, bedoeld in [artikel 2:15](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15) en [2:17 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:17), de verzekerde die ziekengeld ontvangt of de persoon die recht heeft op een IOW-uitkering;
 
-**vrijwilligerswerk**: onbetaalde en onverplichte activiteiten binnen een organisatie die een ideële doelstelling heeft of een maatschappelijk nut nastreeft, welke activiteiten doorgaans een aanvullend karakter hebben op bestaande maatschappelijke voorzieningen;
-
-**Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving);
+**Wajong:** [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657);
 
 **Wazo:** [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008);
 
-**Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving);
+**Wet WIA**: [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057);
 
 **WGA-uitkering**: een werkhervattingsuitkering gedeeltelijk arbeidsgeschikten als bedoeld in [hoofdstuk 7 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7);
 
@@ -78,21 +76,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 2. Ontheffing in verband met vrijwilligerswerk
 
-1. Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichting, bedoeld in [artikel 30, eerste lid, onderdeel b, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), [artikel 2:39, derde lid, onderdeel f, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39), [artikel 30, eerste lid, onderdeel b, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), [artikel 24, eerste lid, onderdeel b, onder 1°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), of in [artikel 15, onderdeel b, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), indien:
-
-- a. de uitkeringsgerechtigde een gebleken grote afstand heeft tot de arbeidsmarkt;
-
-- b. het verrichten van vrijwilligerswerk er tezamen met de ontheffing naar het oordeel van het UWV toe bijdraagt dat de afstand van de uitkeringsgerechtigde tot de arbeidsmarkt wordt verkleind; en
-
-- c. de uitkeringsgerechtigde gedurende de duur van die ontheffing gemiddeld ten minste 20 uur per week vrijwilligerswerk verricht.
-
-2. Het UWV kan na afloop van de periode, bedoeld in het eerste lid, de ontheffing al dan niet op aanvraag van de uitkeringsgerechtigde eenmalig verlengen met een periode van maximaal zes maanden, indien:
-
-- a. de uitkeringsgerechtigde voldoet aan de in het eerste lid gestelde voorwaarden; en
-
-- b. de afstand van de uitkeringsgerechtigde tot de arbeidsmarkt is verkleind als gevolg van de ontheffing en een verlenging van de ontheffing er tezamen met het verrichten van vrijwilligerswerk naar het oordeel van het UWV toe bijdraagt dat de afstand van de uitkeringsgerechtigde tot de arbeidsmarkt verder wordt verkleind.
-
-3. Het UWV kan al dan niet op aanvraag van de uitkeringsgerechtigde na afloop van de periode waarover op grond van het eerste en tweede lid ontheffing is verleend, de ontheffing telkens verlengen met een periode van een maand, indien de uitkeringsgerechtigde gedurende die maand gemiddeld ten minste 20 uur per week vrijwilligerswerk verricht en het niet verlengen van die ontheffing gezien de individuele omstandigheden van de uitkeringsgerechtigde zal leiden tot een onbillijkheid van overwegende aard.
+Vervallen
 
 ##### Artikel 3. Ontheffing in verband met mantelzorg
 
@@ -102,27 +86,21 @@ In dit besluit wordt verstaan onder:
 
 - b. die mantelzorg zodanig intensief is, dat in redelijkheid niet van hem kan worden gevraagd te voldoen aan die verplichtingen.
 
-2. Het UWV kan na afloop van de periode, bedoeld in het eerste lid, de ontheffing op aanvraag van de uitkeringsgerechtigde eenmalig verlengen met een periode van maximaal zes maanden, indien:
-
-- a. de uitkeringsgerechtigde voldoet aan de in het eerste lid gestelde voorwaarden; en
-
-- b. de verwachting is dat hij op korte termijn niet meer aan die voorwaarden zal voldoen.
-
-3. Het UWV kan al dan niet op aanvraag van de uitkeringsgerechtigde na afloop van de periode waarover op grond van het eerste en tweede lid ontheffing is verleend, de ontheffing telkens verlengen met een periode van een maand, indien is voldaan aan de voorwaarden, bedoeld in het eerste en tweede lid, en het niet verlengen van die ontheffing gezien de individuele omstandigheden van de uitkeringsgerechtigde zal leiden tot een onbillijkheid van overwegende aard.
+2. Het UWV kan al dan niet op aanvraag van de uitkeringsgerechtigde na afloop van de periode waarover op grond van het eerste lid ontheffing is verleend, de ontheffing telkens verlengen met een periode van een maand, indien nog steeds wordt voldaan aan de voorwaarden, bedoeld in het eerste lid, en het niet verlengen van die ontheffing gezien de individuele omstandigheden van de uitkeringsgerechtigde zal leiden tot een onbillijkheid van overwegende aard.
 
 ##### Artikel 4. Ontheffing in verband met calamiteiten
 
-Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal vier weken ontheffing verlenen van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), de [artikelen 2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), en [2:39, derde lid, onderdelen e, f en g, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39), [artikel 30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) of in de [artikelen 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12), [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), indien van die uitkeringsgerechtigde tijdelijk redelijkerwijs niet kan worden verlangd dat hij aan die verplichtingen voldoet in verband met een plotselinge, ernstige crisissituatie in de privé-sfeer.
+1. Het UWV kan aan een uitkeringsgerechtigde al dan niet op diens aanvraag voor een periode van maximaal zes maanden ontheffing verlenen van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), de [artikelen 2:31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), en [2:39, derde lid, onderdelen e, f en g, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39), [artikel 30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) of in de [artikelen 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12), [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), indien van die uitkeringsgerechtigde tijdelijk redelijkerwijs niet kan worden verlangd dat hij aan die verplichtingen voldoet in verband met een plotselinge, ernstige crisissituatie in de privé-sfeer.
+
+2. Het UWV kan al dan niet op aanvraag van de uitkeringsgerechtigde na afloop van de periode waarover op grond van het eerste lid ontheffing is verleend, de ontheffing aansluitend verlengen tot maximaal zes maanden, indien nog steeds wordt voldaan aan de voorwaarden, bedoeld in het eerste lid.
 
 ##### Artikel 5. Eenmalige ontheffing
 
-1. Een ontheffing als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-06-30&g=2015-06-30) kan aan een uitkeringsgerechtigde gedurende de duur van zijn WW-uitkering, recht op arbeidsondersteuning, bedoeld in [artikel 2:15 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:15), ziekengeld, WGA-uitkering of IOW-uitkering slechts eenmalig worden verleend.
-
-2. Een ontheffing als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2015-06-30&g=2015-06-30) of een ontheffing als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2015-06-30&g=2015-06-30) kan eenmalig worden verleend per toestand of gebeurtenis.
+Een ontheffing als bedoeld in de [artikelen 3 tot en met 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2015-07-01&g=2015-07-01) kan eenmalig worden verleend per toestand of gebeurtenis.
 
 ##### Artikel 6. Nadere regelgeving
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-06-30&g=2015-06-30) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de in de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-07-01&g=2015-07-01) gestelde voorwaarden en de wijze waarop aangetoond kan worden dat aan die voorwaarden is voldaan.
 
 ##### Artikel 7. Inwerkingtreding
 
@@ -162,10 +140,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1a. Aanvulling wettelijke grondslag
 
-Dit onderdeel is nog niet inwerking getreden
+Dit besluit berust op de [artikelen 24, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, vierde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [32, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=32), [16, tweede lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16), [2:33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:33), en [2:39, zevende lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:39) en [30aa, derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30aa).
 
 ##### Artikel 6a. Overgangsrecht
 
-Dit onderdeel is nog niet inwerking getreden
+Indien door het UWV aan de uitkeringsgerechtigde, voor de inwerkingtreding van artikel IV van het besluit van 18 juni 2015, houdende wijziging van enige algemene maatregelen van bestuur in verband met de Wet werk en zekerheid, het invoeren van een ontheffing in verband met de zorg voor een pasgeboren kind bij overlijden van de moeder, een wijziging van het Remigratiebesluit in verband met de berekenwijze van de jaarlijkse indexatie van de remigratie-uitkeringen, het vrijlaten van de afkoopsom klein pensioen voor verschillende uitkeringen in het Algemeen inkomensbesluit socialezekerheidswetten alsmede enkele technische wijzigingen in enkele besluiten (Stb. 242), een ontheffing is verleend op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=2&z=2015-07-01&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=3&z=2015-07-01&g=2015-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0020483&artikel=4&z=2015-07-01&g=2015-07-01), blijven de artikelen 2, 3 en 4 zoals deze luidden voor die inwerkingtreding van toepassing voor de uitkeringsgerechtigde gedurende de resterende duur van die ontheffing.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
