@@ -4,7 +4,7 @@ identifier: "BWBR0016347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-08-01"
-last_updated: "2004-03-12"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016347"
 soort: "ministeriele-regeling"
@@ -41,11 +41,11 @@ Besluit:
 
 ##### Artikel 1
 
-Sectorwerkgever van het personeel dat werkzaam is in de sector Academische Ziekenhuizen is: de Vereniging Academische Ziekenhuizen.
+Sectorwerkgever van het personeel dat werkzaam is in de sector Academische Ziekenhuizen is: de Nederlandse Federatie van Universitair Medische Centra.
 
 ##### Artikel 2
 
-Sectorwerkgever van het personeel dat werkzaam is in de sector Hoger Beroepsonderwijs is: de HBO-raad, vereniging van hogescholen.
+Sectorwerkgever van het personeel dat werkzaam is in de sector Hoger Beroepsonderwijs is: de Vereniging Hogescholen.
 
 ##### Artikel 3
 
@@ -62,3 +62,11 @@ Sectorwerkgever van het personeel dat werkzaam is in de sector Beroepsonderwijs 
 ##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
+
+##### Artikel 5a
+
+Sectorwerkgever van het personeel dat werkzaam is in de sector primair onderwijs: de vereniging PO-raad.
+
+##### Artikel 5b
+
+Sectorwerkgever van het personeel dat werkzaam is in de sector voortgezet onderwijs: de vereniging VO-raad.
