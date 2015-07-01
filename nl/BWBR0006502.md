@@ -4,7 +4,7 @@ identifier: "BWBR0006502"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2014-11-29"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0006502"
 soort: "wet"
@@ -94,7 +94,7 @@ Deze wet laat onverlet:
 
 - a. de [Wet gelijke behandeling van mannen en vrouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0003299);
 
-- b. de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [647](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=647), [667](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=667) en [670 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670).
+- b. de [artikelen 646](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=646), [667](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=667) en [670 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670).
 
 ##### Artikel 5
 
@@ -116,15 +116,17 @@ Deze wet laat onverlet:
 
 - h. arbeidsomstandigheden.
 
-2. Het eerste lid laat onverlet:
+2. Het eerste lid laat onverlet dat:
 
-- a. de vrijheid van een instelling op godsdienstige of levensbeschouwelijke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;
+- a. een instelling op godsdienstige of levensbeschouwelijke grondslag,
 
-- b. de vrijheid van een instelling op politieke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;
+- b. een instelling van bijzonder onderwijs, of
 
-- c. de vrijheid van een instelling van bijzonder onderwijs om eisen te stellen over de vervulling van een functie, die, gelet op het doel van de instelling, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat en
+- c. een instelling op politieke grondslag,
 
-- d. de vrijheid van gemeenten om onderscheid te maken op grond van godsdienst of levensovertuiging ten aanzien van een ambtenaar of buitengewoon ambtenaar van de burgerlijke stand die in de uitoefening van zijn ambt onderscheid maakt, tenzij het door hem gemaakte onderscheid is gebaseerd op een algemeen verbindend voorschrift.
+ten aanzien van personen die voor haar werkzaam zijn onderscheid mag maken op grond van godsdienst, levensovertuiging of politieke gezindheid, voor zover deze kenmerken vanwege de aard van de betrokken specifieke beroepsactiviteit of de context waarin deze wordt uitgeoefend een wezenlijk, legitiem en gerechtvaardigd beroepsvereiste vormen, gezien de grondslag van de instelling. Een zodanig onderscheid mag niet verder gaan dan passend is, gelet op de houding van goede trouw en loyaliteit aan de grondslag van de instelling die van de voor haar werkzame personen mag worden verlangd, en mag niet leiden tot onderscheid op een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2015-07-01&g=2015-07-01) genoemde grond, onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01).
+
+2a. Het eerste lid laat tevens onverlet de vrijheid van gemeenten om onderscheid te maken op grond van godsdienst of levensovertuiging ten aanzien van een ambtenaar of buitengewoon ambtenaar van de burgerlijke stand die in de uitoefening van zijn ambt onderscheid maakt, tenzij het door hem gemaakte onderscheid is gebaseerd op een algemeen verbindend voorschrift.
 
 3. Het eerste lid is niet van toepassing indien:
 
@@ -156,7 +158,7 @@ Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot
 
 - d. door natuurlijke personen die niet handelen in de uitoefening van een beroep of bedrijf, voor zover het aanbod in het openbaar geschiedt.
 
-2. Het eerste lid, onderdeel c, laat onverlet de vrijheid van een instelling van bijzonder onderwijs om bij de toelating en ten aanzien van de deelname aan het onderwijs eisen te stellen, die gelet op het doel van de instelling nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat. Onderscheid op grond van geslacht is alleen toegestaan, indien de eigen aard van de instelling dit eist en voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn.
+2. Het eerste lid, onderdeel c, laat onverlet dat een instelling van bijzonder onderwijs bij de toelating en ten aanzien van de deelname aan het onderwijs onderscheid mag maken op grond van godsdienst, levensovertuiging of geslacht, voor zover deze kenmerken vanwege de aard van het onderwijs een wezenlijk, legitiem en gerechtvaardigd vereiste vormen, gezien de grondslag van de instelling. Onderscheid op grond van geslacht is slechts toegestaan, indien voor leerlingen van beide geslachten gelijkwaardige voorzieningen aanwezig zijn. Een zodanig onderscheid mag niet verder gaan dan passend is, gelet op de houding van goede trouw en loyaliteit aan de grondslag van de instelling die van leerlingen mag worden verlangd en mag niet leiden tot onderscheid op een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2015-07-01&g=2015-07-01) genoemde grond, onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01).
 
 3. Het eerste lid, onderdelen a en d, is niet van toepassing indien:
 
@@ -168,13 +170,7 @@ Onderscheid is verboden met betrekking tot de voorwaarden voor en de toegang tot
 
 ##### Artikel 8
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29) of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29) of terzake bijstand heeft verleend, is vernietigbaar.
-
-2. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
-
-3. Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.
-
-4. De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 5 of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
 
 ##### Artikel 9
 
@@ -310,11 +306,11 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het in deze wet neergelegde verbod van onderscheid houdt mede in een verbod van intimidatie en een verbod van seksuele intimidatie.
 
-2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2014-11-29&g=2014-11-29), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
+2. Onder intimidatie als bedoeld in het eerste lid wordt verstaan: gedrag dat met de hoedanigheden of gedragingen, bedoeld in [artikel 1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2015-07-01&g=2015-07-01), verband houdt en dat tot doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast en dat een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
 3. Onder seksuele intimidatie als bedoeld in het eerste lid wordt verstaan: enige vorm van verbaal, non-verbaal of fysiek gedrag met een seksuele connotatie dat als doel of gevolg heeft dat de waardigheid van de persoon wordt aangetast, in het bijzonder wanneer een bedreigende, vijandige, beledigende, vernederende of kwetsende omgeving wordt gecreëerd.
 
-4. Op het in deze wet neergelegde verbod van intimidatie en van seksuele intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2014-11-29&g=2014-11-29), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2014-11-29&g=2014-11-29), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2014-11-29&g=2014-11-29), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-29&g=2014-11-29).
+4. Op het in deze wet neergelegde verbod van intimidatie en van seksuele intimidatie zijn niet van toepassing de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [5, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=5&z=2015-07-01&g=2015-07-01), [6a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=3&artikel=6a&z=2015-07-01&g=2015-07-01), en [7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2015-07-01&g=2015-07-01).
 
 #### § 2. Algemene uitzonderingen
 
@@ -324,17 +320,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een werkgevers- of werknemersorganisatie of een vereniging van beroepsgenoten, alsmede bij de voordelen die uit dat lidmaatschap of uit die betrokkenheid voortvloeien.
 
-2. Het eerste lid laat onverlet:
+2. Het eerste lid laat onverlet dat:
 
-- a. de vrijheid van een op godsdienstige of levensbeschouwelijke grondslag gebaseerde organisatie of vereniging om eisen te stellen, die gelet op haar doel, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat en
+- a. een op godsdienstige of levensbeschouwelijke grondslag gebaseerde organisatie of vereniging, of
 
-- b. de vrijheid van een op politieke grondslag gebaseerde organisatie of vereniging om eisen te stellen, die gelet op haar doel, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat.
+- b. een op politieke grondslag gebaseerde organisatie of vereniging,
+
+ten aanzien van personen die door een lidmaatschap of anderszins bij haar betrokken zijn onderscheid mag maken op grond van godsdienst, levensovertuiging of politieke gezindheid, voor zover deze kenmerken vanwege de aard van de betrokkenheid of de context waarin specifieke activiteiten worden uitgeoefend een wezenlijk, legitiem en gerechtvaardigd vereiste vormen, gezien de grondslag van de organisatie of vereniging. Een zodanig onderscheid mag niet verder gaan dan passend is, gelet op de houding van goede trouw en loyaliteit aan de grondslag van de organisatie of vereniging die van de daarbij betrokkenen mag worden verlangd, en mag niet leiden tot onderscheid op een andere in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1&z=2015-07-01&g=2015-07-01) genoemde grond, onverminderd [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01).
 
 #### § 4. Overige bepalingen op sociaal-economisch terrein
 
 ##### Artikel 7a
 
-1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2014-11-29&g=2014-11-29) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
+1. Onverminderd [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=4&artikel=7&z=2015-07-01&g=2015-07-01) is onderscheid op grond van ras verboden bij sociale bescherming, daaronder begrepen sociale zekerheid, en sociale voordelen.
 
 2. Bij algemene maatregel van bestuur kunnen de begrippen sociale bescherming, sociale zekerheid en sociale voordelen, bedoeld in het eerste lid, worden omschreven. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -344,7 +342,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 1. Het is verboden personen te benadelen wegens het feit dat zij in of buiten rechte een beroep hebben gedaan op deze wet of ter zake bijstand hebben verleend.
 
-2. Het feit dat een persoon het in [artikel 1a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1a&z=2014-11-29&g=2014-11-29), bedoelde gedrag afwijst of lijdzaam ondergaat, mag niet ten grondslag liggen aan een beslissing die die persoon treft.
+2. Het feit dat een persoon het in [artikel 1a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&hoofdstuk=1&paragraaf=1&artikel=1a&z=2015-07-01&g=2015-07-01), bedoelde gedrag afwijst of lijdzaam ondergaat, mag niet ten grondslag liggen aan een beslissing die die persoon treft.
 
 ##### Artikel 10
 
