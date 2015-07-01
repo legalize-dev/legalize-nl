@@ -4,7 +4,7 @@ identifier: "BWBR0013257"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-01"
-last_updated: "2012-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013257"
 soort: "ministeriele-regeling"
@@ -43,23 +43,23 @@ Besluit:
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
-##### Artikel 2. Bezoldiging
+##### Artikel 2. Beloning
 
-1. De bezoldiging van een lid bedraagt € 172.709 bruto per jaar.
+1. De beloning wordt bij beschikking vastgesteld, waarbij de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) in acht wordt genomen.
 
-2. Het bedrag, bedoeld in het eerste lid, is inclusief een vakantie- en een eindejaarsuitkering overeenkomstig de bepalingen van de voor het UWV geldende CAO.
+2. Het bedrag van de beloning is inclusief een vakantie- en een eindejaarsuitkering overeenkomstig de bepalingen van de voor het UWV geldende CAO.
 
-3. De bezoldiging, bedoeld in het eerste lid, wordt, met uitzondering van vakantie- en eindejaarsuitkering, uitbetaald in gelijke maandelijkse termijnen.
+3. De beloning, bedoeld in het eerste lid, wordt, met uitzondering van vakantie- en eindejaarsuitkering, uitbetaald in gelijke maandelijkse termijnen.
 
 De vakantie- en eindejaarsuitkering worden eens per jaar uitbetaald, in de maanden mei respectievelijk december van ieder jaar.
 
-4. Het bedrag, bedoeld in het eerste lid, wordt aangepast aan de ontwikkeling van de lonen in de voor het UWV geldende CAO.
+4. Het bedrag van de beloning wordt aangepast aan de ontwikkeling van het bezoldigingsmaximum, bedoeld in [artikel 2.3, eerste lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.3).
 
 ##### Artikel 3. Kostenvergoedingen
 
 1. Een lid heeft recht op een vergoeding van reis- en verblijfkosten overeenkomstig de regeling van het UWV voor het vergoeden van reis- en verblijfkosten.
 
-2. Een lid ontvangt een representatievergoeding overeenkomstig het [Besluit vergoeding representatiekosten rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006102).
+2. Een lid ontvangt een representatievergoeding overeenkomstig het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950).
 
 ##### Artikel 4. Verlof
 
@@ -67,7 +67,7 @@ Een lid heeft aanspraak op de verloffaciliteiten die gelden voor de personen in 
 
 ##### Artikel 5. Arbeidsongeschiktheid
 
-In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of gebreken, zwangerschap of bevalling zijn de bepalingen ten aanzien van doorbetaling van de bezoldiging van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950), alsmede de suppletieregeling gedeeltelijke arbeidsongeschiktheid van de sector rijk, van overeenkomstige toepassing.
+In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of gebreken, zwangerschap of bevalling zijn de bepalingen ten aanzien van doorbetaling van de bezoldiging van het [Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950) van overeenkomstige toepassing.
 
 ##### Artikel 6. Ontslag en niet-herbenoeming
 
@@ -97,8 +97,6 @@ In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte of 
 
 3. Voor zover niet anders is vermeld zijn de bepalingen van de voor het UWV geldende CAO van overeenkomstige toepassing.
 
-4. Het werkgeversdeel van de premie voor de pensioenregeling komt ten laste van het UWV tot een bedrag van maximaal € 28.767.
-
 ##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Rechtspositieregeling lid Raad van bestuur UWV.
@@ -106,5 +104,11 @@ Deze regeling wordt aangehaald als: Rechtspositieregeling lid Raad van bestuur U
 ##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2002.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Overgangsrecht zittende leden
+
+Op de beloning van een lid wiens benoeming heeft plaatsgevonden voor 1 juli 2015, blijft [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013257&artikel=2&z=2015-07-01&g=2015-07-01) van deze regeling van toepassing, zoals dit luidde op 30 juni 2015, tot de datum met ingang waarvan dit lid wordt herbenoemd.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
