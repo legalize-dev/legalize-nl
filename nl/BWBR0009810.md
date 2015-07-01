@@ -4,7 +4,7 @@ identifier: "BWBR0009810"
 country: "nl"
 rank: "wet"
 publication_date: "2025-02-12"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009810"
 soort: "wet"
@@ -62,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - c. wooncomplex: een verzameling van ten minste 25 in elkaars nabijheid gelegen woongelegenheden welke financieel, administratief, qua bouwwijze of anderszins een eenheid vormen;
 
-- d. verhuurder: een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;
+- d. verhuurder: een toegelaten instelling als bedoeld in [artikel 19, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19), dan wel een eigenaar van ten minste 25 voor verhuur bestemde woongelegenheden in Nederland, of degene die door die eigenaar gevolmachtigd is namens hem op te treden;
 
 - e. huurder: huurder van een woongelegenheid van een verhuurder als bedoeld onder d, welke huurder daarin zijn hoofdverblijf heeft;
 
@@ -90,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. de verhuurder en de in de aanhef eerstbedoelde huurdersorganisatie anders zijn overeengekomen, onverminderd het bepaalde in onderdeel a.
 
-3. Tot de onderwerpen, bedoeld in het tweede lid, onderdeel a, worden in elk geval gerekend de onderwerpen, genoemd in [artikel 3, tweede lid, onderdelen b, h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01).
+3. Tot de onderwerpen, bedoeld in het tweede lid, onderdeel a, worden in elk geval gerekend de onderwerpen, genoemd in [artikel 3, tweede lid, onderdelen b, h en j](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01).
 
 ### Hoofdstuk 2. Informatie- en adviesrecht van huurdersorganiaties
 
@@ -130,13 +130,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 4
 
-1. De verhuurder informeert de betrokken huurdersorganisatie en de betrokken bewonerscommissie eigener beweging schriftelijk over zijn voornemens tot wijzigingen in het door hem gevoerde beleid of beheer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01). [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
+1. De verhuurder informeert de betrokken huurdersorganisatie en de betrokken bewonerscommissie eigener beweging schriftelijk over zijn voornemens tot wijzigingen in het door hem gevoerde beleid of beheer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01). [Artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 2. De verhuurder geeft daarbij aan, wat de beweegredenen zijn voor zijn voornemens en welke gevolgen daaruit voor de betrokken huurders voortvloeien.
 
 ##### Artikel 5
 
-1. De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid of beheer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01), niet uit dan nadat hij binnen een door hem aan te geven periode van ten minste zes weken na het verstrekken van de informatie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), de huurdersorganisatie of de bewonerscommissie in staat heeft gesteld met hem over de verstrekte informatie overleg te voeren en, indien de huurdersorganisatie of de bewonerscommissie dat wenst, daarover een schriftelijk advies uit te brengen.
+1. De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid of beheer, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01), niet uit dan nadat hij binnen een door hem aan te geven periode van ten minste zes weken na het verstrekken van de informatie overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-07-01&g=2015-07-01), de huurdersorganisatie of de bewonerscommissie in staat heeft gesteld met hem over de verstrekte informatie overleg te voeren en, indien de huurdersorganisatie of de bewonerscommissie dat wenst, daarover een schriftelijk advies uit te brengen.
 
 2. Binnen veertien dagen na ontvangst van een schriftelijk advies als bedoeld in het eerste lid deelt de verhuurder, indien hij het advies geheel of gedeeltelijk niet volgt, schriftelijk aan de huurdersorganisatie of de bewonerscommissie de redenen daarvoor mee.
 
@@ -154,11 +154,9 @@ Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie of
 
 ##### Artikel 7
 
-1. De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5&z=2015-01-01&g=2015-01-01) en [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5b&z=2015-01-01&g=2015-01-01). Onder deze kosten worden mede de kosten van scholingsactiviteiten begrepen.
+1. De verhuurder vergoedt aan de huurdersorganisatie de kosten die rechtstreeks samenhangen met en redelijkerwijs noodzakelijk zijn voor de vervulling van de taken, genoemd in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-07-01&g=2015-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5&z=2015-07-01&g=2015-07-01) en [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5b&z=2015-07-01&g=2015-07-01). Onder deze kosten worden in ieder geval begrepen de kosten van het uitnodigen van deskundigen en het vragen van inlichtingen en adviezen als bedoeld in [artikel 5d](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5d&z=2015-07-01&g=2015-07-01), en de kosten van scholings- en vormingsactiviteiten als bedoeld in [artikel 5e](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5e&z=2015-07-01&g=2015-07-01).
 
-2. Vergoeding van de in het eerste lid bedoelde kosten geschiedt binnen vier weken na het tijdstip waarop de verhuurder van de huurdersorganisatie een voldoende gespecificeerde rekening heeft ontvangen. De verhuurder is slechts verplicht tot betaling, voorzover de kosten betrekking hebben op een tijdvak van ten hoogste 15 maanden, voorafgaande aan het tijdstip van indiening van de rekening.
-
-3. De verhuurder en de huurdersorganisatie kunnen overeenkomen dat de in een kalenderjaar gemaakte kosten, bedoeld in het eerste lid, worden vastgesteld op een bepaald bedrag, dat de huurdersorganisatie naar eigen inzicht kan besteden. De huurdersorganisatie legt binnen twee maanden na afloop van het jaar, bedoeld in de eerste volzin, aan de verhuurder verantwoording af over de besteding van de ter beschikking gestelde gelden. Kosten waardoor het hier bedoelde bedrag zal worden overschreden, komen slechts ten laste van de verhuurder, voorzover hij in het dragen daarvan toestemt.
+2. De verhuurder en de huurdersorganisatie komen overeen dat de in een kalenderjaar gemaakte kosten, bedoeld in het eerste lid, worden vastgesteld op een bepaald bedrag, dat de huurdersorganisatie naar eigen inzicht kan besteden. De huurdersorganisatie legt binnen twee maanden na afloop van het jaar, bedoeld in de eerste volzin, aan de verhuurder verantwoording af over de besteding van de ter beschikking gestelde gelden. Kosten waardoor het hier bedoelde bedrag zal worden overschreden, komen slechts ten laste van de verhuurder, voorzover hij in het dragen daarvan toestemt.
 
 ### Hoofdstuk 3. Geschillenregeling
 
@@ -170,7 +168,7 @@ Bij schriftelijke overeenkomst tussen de verhuurder en de huurdersorganisatie of
 
 3. Indien de kantonrechter wordt verzocht te bepalen dat een door de verhuurder genomen besluit tot wijziging van zijn beleid niet mag worden uitgevoerd, kan de kantonrechter bepalen dat een zodanig besluit niet mag worden uitgevoerd, indien:
 
-- a. dat besluit afwijkt van een advies als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5&z=2015-01-01&g=2015-01-01), en
+- a. dat besluit afwijkt van een advies als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=5&z=2015-07-01&g=2015-07-01), en
 
 - b. de verhuurder de beslissing tot afwijking van het advies niet heeft onderbouwd of de verhuurder naar het oordeel van de kantonrechter onder afweging van de betrokken belangen niet in redelijkheid tot afwijking van het advies had kunnen komen.
 
@@ -186,7 +184,7 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de 
 
 2. Indien voor het tijdstip van inwerkingtreding van deze wet enig orgaan, niet zijnde een huurdersorganisatie, in het bijzonder werkzaam is ter behartiging van de gemeenschappelijke belangen van de huurders bij een verhuurder, wordt dat orgaan tot twee jaar na de inwerkingtreding van deze wet, doch uiterlijk tot het tijdstip met ingang waarvan een huurdersorganisatie voor de betrokken huurders is opgericht, aangemerkt als huurdersorganisatie.
 
-3. De in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=7&z=2015-01-01&g=2015-01-01), genoemde verplichting voor de huurdersorganisatie tot indiening van een begroting dient voor het kalenderjaar waarin deze wet in werking treedt, te worden ingediend binnen twee maanden na de inwerkingtreding van deze wet.
+3. De in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=7&z=2015-07-01&g=2015-07-01), genoemde verplichting voor de huurdersorganisatie tot indiening van een begroting dient voor het kalenderjaar waarin deze wet in werking treedt, te worden ingediend binnen twee maanden na de inwerkingtreding van deze wet.
 
 ##### Artikel 11
 
@@ -212,9 +210,9 @@ De verhuurder voert een voornemen tot wijziging in het door hem gevoerde beleid 
 
 1. De huurdersorganisatie, de bewonerscommissie en de huurder kunnen met de verhuurder schriftelijk nadere afspraken maken over de onderwerpen waarover door de verhuurder informatie wordt gegeven.
 
-2. Indien de huurdersorganisatie of de bewonerscommissie de verhuurder te kennen heeft gegeven met hem overleg te willen voeren over door de verhuurder verstrekte informatie als bedoeld in het eerste lid of de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01) biedt de verhuurder daarvoor de gelegenheid.
+2. Indien de huurdersorganisatie of de bewonerscommissie de verhuurder te kennen heeft gegeven met hem overleg te willen voeren over door de verhuurder verstrekte informatie als bedoeld in het eerste lid of de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-07-01&g=2015-07-01) biedt de verhuurder daarvoor de gelegenheid.
 
-3. De verhuurder voert ten minste een maal per jaar met de betrokken huurdersorganisaties en de betrokken bewonerscommissies overleg, niet zijnde een overleg over verstrekte informatie als bedoeld in het eerste lid of de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-01-01&g=2015-01-01). Die huurdersorganisaties en bewonerscommissies kunnen gezamenlijk voor dat overleg worden uitgenodigd.
+3. De verhuurder voert ten minste een maal per jaar met de betrokken huurdersorganisaties en de betrokken bewonerscommissies overleg, niet zijnde een overleg over verstrekte informatie als bedoeld in het eerste lid of de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009810&hoofdstuk=2&artikel=4&z=2015-07-01&g=2015-07-01). Die huurdersorganisaties en bewonerscommissies kunnen gezamenlijk voor dat overleg worden uitgenodigd.
 
 4. De huurdersorganisatie en de bewonerscommissie kunnen onderwerpen aandragen voor de agenda van elk overleg met de verhuurder. De verhuurder kan slechts met redenen omkleed weigeren een zodanig onderwerp op de agenda te zetten en daarover overleg te voeren.
 
@@ -226,7 +224,7 @@ De verhuurder verstrekt ten behoeve van de oprichting, organisatie, of vertegenw
 
 ### Hoofdstuk 3. Geschillenregeling
 
-### Hoofdstuk 4. Slotbepalingen
+### Hoofdstuk 3. Geschillenregeling
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
@@ -235,6 +233,24 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 1. Wanneer de huurcommissie, bedoeld in [artikel 3a van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=3a), op een verzoek van de huurdersorganisatie, bewonerscommissie, huurder of verhuurder uitspraak heeft gedaan, worden partijen geacht te zijn overeengekomen wat in die uitspraak is vastgesteld, tenzij een van hen binnen acht weken nadat aan hen afschrift van die uitspraak is verzonden, een beslissing van de rechter heeft gevorderd over het punt waarover de huurcommissie om een uitspraak was verzocht.
 
 2. Tegen een beslissing krachtens dit artikel is geen hogere voorziening toegelaten.
+
+### Hoofdstuk 4. Slotbepalingen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 5d
+
+1. De huurdersorganisatie kan een of meer deskundigen uitnodigen tot het bijwonen van een overleg, met het oog op de behandeling van een bepaald onderwerp.
+
+2. De huurdersorganisatie kan in een overleg aan de in het eerste lid bedoelde deskundigen inlichtingen en adviezen vragen.
+
+3. Een deskundige kan door de huurdersorganisatie eveneens worden uitgenodigd een schriftelijk advies uit te brengen.
+
+##### Artikel 5e
+
+1. De verhuurder biedt de leden van het bestuur van de huurdersorganisatie gedurende een door de verhuurder en de huurdersorganisatie gezamenlijk vast te stellen aantal dagen per jaar de gelegenheid om de scholing en vorming te ontvangen welke zij in verband met de vervulling van hun taak nodig oordelen.
+
+2. De verhuurder en de huurdersorganisatie stellen het aantal dagen, bedoeld in het eerste lid, vast op een zodanig aantal als de betrokken leden van het bestuur van de huurdersorganisatie voor de vervulling van hun taak redelijkerwijs nodig hebben, met dien verstande dat het aantal dagen niet lager vastgesteld kan worden dan drie per jaar.
 
 ### Hoofdstuk 4. Slotbepalingen
 
