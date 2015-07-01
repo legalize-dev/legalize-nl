@@ -273,31 +273,3 @@ Bij afwezigheid van de directeur WBJA worden, voor de duur van de afwezigheid of
 3. Deze regeling wordt aangehaald als: Organisatie-, mandaat- en volmachtbesluit WBJA 2015.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 12a
-
-Het hoofd van de afdeling JA-BBS is bij afwezigheid of verhindering van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden bevoegd tot het ondertekenen van een beslissing op een verzoek om informatie op grond van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
-
-#### § 4. Slotbepalingen
-
-Deze regeling zal in de Staatscourant worden geplaatst.
-
-##### Artikel 3a
-
-1. Het hoofd van de afdeling WAS is verantwoordelijk voor de volgende taken:
-
-- a. het bevorderen van de kwaliteit van de wet- en regelgeving van het ministerie;
-
-- b. het behandelen van wetgevende aspecten van departements- en rijksbrede onderwerpen;
-
-- c. het ontwerpen van de teksten van alle wetten, algemene maatregelen van bestuur en ministeriële regelingen op het terrein van arbeidsrelaties en sociale verzekeringen;
-
-- d. het adaptieve onderhoud van de subsidiesteunmaatregelen als gevolg van de COVID-pandemie;
-
-- e. het adviseren over het gebruik van het instrument regelgeving;
-
-- f. de implementatie van internationale verdragen en regelingen, onverminderd [artikel 6, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036932&paragraaf=2&artikel=6&z=2022-10-13&g=2022-05-01).
-
-2. Het hoofd van de afdeling WAS is voorts belast met taken op het gebied van wetgevingskwaliteitsbeleid.
-
-#### § 3. Bevoegdheden
