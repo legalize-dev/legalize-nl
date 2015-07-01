@@ -4,7 +4,7 @@ identifier: "BWBR0012923"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2015-05-08"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012923"
 soort: "ministeriele-regeling"
@@ -75,9 +75,9 @@ De aanvraag tot registratie of erkenning dan wel hernieuwde afgifte van een regi
 
 ##### Artikel 3
 
-1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H) gyroplane of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-05-08&g=2015-05-08).
+1. De minister registreert op aanvraag een opleidingsinstelling voor de opleiding RPL(A)MLA, RPL(H) gyroplane, RPA-L of de module RT indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-07-01&g=2015-07-01).
 
-2. Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2015-05-08&g=2015-05-08).
+2. Onze Minister erkent een opleidingsinstelling met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 4
 
@@ -99,6 +99,18 @@ De aanvraag tot registratie gaat vergezeld van:
 
 - 4°. exemplaar van de syllabus die wordt gebruikt;
 
+- 5°. verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat de training zal worden uitgevoerd in overeenstemming met deze regeling;
+
+- c. voor de registratie van een opleidingsinstelling voor RPA L:
+
+- 1°. naam of model van het trainingshandboek en het examenhandboek dat wordt gebruikt;
+
+- 2°. kopie van het intern trainingsprogramma voor zowel theoriedocenten als vlieginstructeurs;
+
+- 3°. beschrijving van de accommodatie en theorie-instructievoorziening;
+
+- 4°. overzicht en curriculum vitae van het bij de opleiding betrokken leidinggevend en onderwijzend personeel; en
+
 - 5°. verklaring waarin de aanvrager aangeeft dat de aangeleverde informatie juist is en dat de training zal worden uitgevoerd in overeenstemming met deze regeling.
 
 ##### Artikel 5
@@ -109,19 +121,25 @@ De aanvraag tot registratie gaat vergezeld van:
 
 3. In afwijking van het eerste lid wordt een registratie voor onbepaalde tijd verleend, indien de registratie enkel betrekking heeft op de module RT.
 
+4. De registratie van een opleidinginstelling voor RPA-L kan met terugwerkende kracht worden verleend.
+
+5. In afwijking van het eerste lid is de registratie van een opleidinginstelling voor RPA-L die met terugwerkende kracht is verleend geldig tot een jaar na de datum van deze registratie.
+
 #### § 2.3. Opnieuw afgeven
 
 ##### Artikel 6
 
-1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-05-08&g=2015-05-08).
+1. De minister registreert op aanvraag een opleidingsinstelling opnieuw voor ten hoogste twee jaar indien de aanvrager voldoet aan de eisen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-07-01&g=2015-07-01).
 
 2. In afwijking van het eerste lid is opnieuw registreren met betrekking tot de opleidingen RPL(A)SE piston (land) en RPL(A)TMG mogelijk voor ten hoogste twee jaar tot uiterlijk 8 april 2018.
 
-3. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2015-05-08&g=2015-05-08).
+3. De minister verlengt op aanvraag de erkenning van een erkende taalbeoordelingsinstantie indien de aanvrager voldoet aan de eis, bedoeld in [artikel 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=11a&z=2015-07-01&g=2015-07-01).
+
+4. De minister registreert op aanvraag een opleidingsinstelling voor RPA-L opnieuw voor de termijn van twee jaar, indien de aanvrager voldoet aan de eisen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 7
 
-De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2015-05-08&g=2015-05-08), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
+De aanvraag tot opnieuw registreren van een opleidingsinstelling gaat vergezeld van die gegevens en bescheiden, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2015-07-01&g=2015-07-01), ten aanzien waarvan wijzigingen hebben plaatsgevonden.
 
 #### § 2.4. Wijziging
 
@@ -135,7 +153,7 @@ Een geregistreerde opleidingsinstelling of erkende taalbeoordelingsinstantie ste
 
 2. Het eerste lid is van overeenkomstige toepassing op erkende taalbeoordelingsinstanties.
 
-3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2015-05-08&g=2015-05-08) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2015-05-08&g=2015-05-08) van overeenkomstige toepassing.
+3. Met betrekking tot het eerste lid zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Inhoudelijke eisen voor registratie, kwalificatie en erkenning
 
@@ -143,9 +161,9 @@ Een geregistreerde opleidingsinstelling of erkende taalbeoordelingsinstantie ste
 
 1. Voor registratie van een opleidingsinstelling dient de aanvrager aan de volgende eisen te voldoen:
 
-- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2015-05-08&g=2015-05-08) bij deze regeling;
+- a. wat betreft de opleidingsinstelling: de eisen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=1&z=2015-07-01&g=2015-07-01) bij deze regeling;
 
-- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2015-05-08&g=2015-05-08) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2015-05-08&g=2015-05-08) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2015-05-08&g=2015-05-08) bij deze regeling.
+- b. wat betreft de aangeboden opleidingen: 1°. voor SE-SPA CR de eisen, bedoeld in JAR-FCL 1.261; 2°. voor RPL de eisen, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=2&z=2015-07-01&g=2015-07-01) bij deze regeling; 3°. voor RFI de eisen, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=3&z=2015-07-01&g=2015-07-01) bij deze regeling; 4°. voor de module RT de eisen, bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4&z=2015-07-01&g=2015-07-01) bij deze regeling; 5°. voor RPA-L, de eis dat de opleidingsinstelling zorg draagt voor correct, volledig en passend lesmateriaal ten behoeve van een theorie- en praktijkopleiding en voor een procedure die waarborgt dat de examens op correcte en passende wijze worden afgenomen door examinatoren die niet de theorie- en praktijkopleiding hebben verzorgd van de kandidaat die de examens aflegt.
 
 2. Het eerste lid, onderdeel a, is niet van toepassing op de registratie van een opleidingsinstelling met betrekking tot de module RT.
 
@@ -157,7 +175,7 @@ Vervallen
 
 ##### Artikel 12
 
-Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2015-05-08&g=2015-05-08) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
+Een bewijs van registratie, onderscheidenlijk, een registratie, afgegeven op basis van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2015-07-01&g=2015-07-01) van de Regeling opleidingsinstellingen voor luchtvarenden, worden een bewijs van registratie, onderscheidenlijk, een registratie op basis van de Regeling opleidingsinstellingen voor luchtvarenden 2001.
 
 ##### Artikel 13
 
@@ -189,7 +207,7 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-05-08&g=2015-05-08)
+## Bijlage 2. bedoeld in [artikel 10, eerste lid, onderdeel b, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-07-01&g=2015-07-01)
 
 ##### Artikel 11a
 
@@ -305,6 +323,6 @@ Elke helikopter inclusief gyroplane is voorzien van een dubbel besturingssysteem
 
 De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(H), inclusief het theorie-gedeelte voor communicatie.
 
-## Bijlage 4. bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-05-08&g=2015-05-08), van de Regeling opleidingsinstellingen voor luchtvarenden 2001
+## Bijlage 4. bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&hoofdstuk=3&artikel=10&z=2015-07-01&g=2015-07-01), van de Regeling opleidingsinstellingen voor luchtvarenden 2001
 
 Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
