@@ -4,7 +4,7 @@ identifier: "BWBR0002014"
 country: "nl"
 rank: "kb"
 publication_date: "2020-01-01"
-last_updated: "2009-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002014"
 soort: "KB"
@@ -90,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-Voor zover in dit besluit wordt afgeweken van bestaande wetten en verordeningen, daaronder begrepen de afdelingen 1 tot en met 9 van titel 10 van Boek 7 van het Burgerlijk Wetboek, de Arbeidsgeschillenwet 1923, de [Wet op de collectieve arbeidsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0001937) en de [Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987), is dit besluit van kracht, zolang een nadere wettelijke regeling niet tot stand is gekomen.
+Vervallen
 
 #### Tweede titel. Van het aangaan en het beëindigen der arbeidsverhouding en daarmede verband houdende onderwerpen
 
@@ -104,31 +104,7 @@ Vervallen
 
 ##### Artikel 6
 
-1. De werkgever behoeft voor de opzegging van de arbeidsverhouding voorafgaande toestemming van het Uitvoeringsinstituut werknemersverzekeringen.
-
-2. De werkgever behoeft deze toestemming niet:
-
-- a. indien de opzegging onverwijld geschiedt om een dringende reden, onder gelijktijdige mededeling van die reden aan de werknemer ;
-
-- b. tijdens de proeftijd;
-
-- c. indien de opzegging geschiedt ten gevolge van faillissement van de werkgever of toepassing ten aanzien van hem de schuldsaneringsregeling natuurlijke personen.
-
-3. Bij ministeriële regeling worden regels gesteld met betrekking tot de toestemming als bedoeld in het eerste lid.
-
-4. Alvorens een beslissing inzake het verlenen van toestemming krachtens het eerste lid wordt genomen, hoort het Uitvoeringsinstituut werknemersverzekeringen vertegenwoordigers van de in aanmerking komende organisaties van werkgevers en werknemers, behoudens in bij ministeriële regeling bepaalde gevallen.
-
-5. Onze Minister kan het Uitvoeringsinstituut werknemersverzekeringen aanwijzingen geven met betrekking tot de uitoefening van de bevoegdheid tot het verlenen van toestemming als bedoeld in het eerste lid. Hij treedt daarbij niet in de besluitvorming in individuele gevallen.
-
-6. Bij ministeriële regeling kunnen voorzieningen worden getroffen voor het geval het Uitvoeringsinstituut werknemersverzekeringen zijn uit dit artikel voortvloeiende verplichtingen niet naar behoren nakomt.
-
-7. Het Uitvoeringsinstituut werknemersverzekeringen brengt aan Onze Minister verslag uit over de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend. Bij ministeriële regeling worden hieromtrent nadere regels gesteld.
-
-8. Het Uitvoeringsinstituut werknemersverzekeringen is verplicht aan Onze Minister desgevraagd binnen een daartoe gestelde termijn en op de aangegeven wijze kosteloos alle opgaven te verstrekken betreffende de wijze waarop de bevoegdheid tot het verlenen van de toestemming is uitgeoefend.
-
-9. Van het eerste lid kan bij ministeriële regeling voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing of vrijstelling worden verleend.
-
-10. Tegen beslissingen van het Uitvoeringsinstituut werknemersverzekeringen inzake het verlenen van toestemming op grond van het eerste lid staat geen beroep open bij het College van Beroep voor het Bedrijfsleven.
+Vervallen
 
 ##### Artikel 7
 
@@ -144,23 +120,17 @@ Vervallen
 
 - b. ten aanzien van die werknemers, wier week- of maandloon op een vast bedrag is vastgesteld en niet daaronder daalt bij de werktijdverkorting;
 
-- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2009-01-01&g=2009-01-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
+- c. voor de tijd, gedurende welke een door Onze Minister goedgekeurde wachtgeldregeling, als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=10&z=2015-07-01&g=2015-07-01), van kracht is, ten aanzien van de onder die wachtgeldregeling vallende werknemers.
 
 3. Van het bepaalde in het eerste lid kan voorts door of vanwege Onze Minister voor bepaalde werknemers of groepen van werknemers voorwaardelijk of onvoorwaardelijk ontheffing worden verleend.
 
 ##### Artikel 9
 
-1. Een opzegging zonder de op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=6&z=2009-01-01&g=2009-01-01) vereiste toestemming is vernietigbaar.
-
-2. Handelingen in strijd met [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&titeldeel=Tweede&artikel=8&z=2009-01-01&g=2009-01-01), zijn vernietigbaar.
-
-3. De werknemer kan gedurende zes maanden een beroep op deze vernietigingsgrond doen.
+Vervallen
 
 ##### Artikel 10
 
-1. De werkgever, die ten gevolge van tijdelijke stilstand van of slapte in de onderneming niet voldoende werkgelegenheid voor zijn werknemers heeft, kan een wachtgeldregeling voor hen treffen. Deze wachtgeldregeling behoeft de toestemming van Onze Minister. In de kosten van de wachtgeldregeling kan de werkgever onder bepaalde voorwaarden van Overheidswege een tegemoetkoming worden verleend.
-
-2. Ter uitvoering van het bepaalde in het vorige lid worden door Onze Minister nadere bepalingen vastgesteld.
+Vervallen
 
 #### Derde titel. Van de lonen en andere arbeidsvoorwaarden
 
@@ -246,7 +216,7 @@ Vervallen
 
 ##### Artikel 30
 
-Burgerlijke rechtsvorderingen van werkgevers of werknemers, welke voortvloeien uit niet-naleving van het bepaalde bij of krachtens dit besluit, worden geacht betrekkelijk te zijn tot een arbeidsovereenkomst. De artikelen 131 en 241 van Boek 2 (Rechtspersonen) van het Burgerlijk Wetboek blijven echter op deze vorderingen van toepassing.
+Vervallen
 
 ##### Artikel 31
 
@@ -254,14 +224,10 @@ Vervallen
 
 ##### Artikel 32
 
-Onze Minister kan bevoegdheden, welke krachtens dit besluit aan hem of aan het Uitvoeringsinstituut werknemersverzekeringen toekomen, overdragen aan organisaties uit het bedrijfsleven.
+Vervallen
 
 ##### Artikel 33
 
-1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg niet kan worden uitgeoefend, treedt in werking met ingang van 15 oktober 1945.
-
-2. Met ingang van die datum vervalt het Buitengewoon Besluit Arbeidsverhoudingen (Besluit van 17 juli 1944, **Staatsblad** no. E 52, laatstelijk gewijzigd bij besluit van 29 december 1944, **Staatsblad** no. E 157).
-
-Dit besluit kan worden aangehaald onder de titel: Buitengewoon Besluit Arbeidsverhoudingen 1945.
+Vervallen
 
 Onze Minister van Sociale Zaken is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.
