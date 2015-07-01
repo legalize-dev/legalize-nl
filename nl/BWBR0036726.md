@@ -63,15 +63,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 Deze regeling wordt aangehaald als: Regeling aanwijzing leden korpsleiding en leiding landelijke en regionale eenheden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
-
-##### Artikel 2a
-
-Naast de politiechef bestaat de leiding van een regionale eenheid uit de volgende leden:
-
-- a. een hoofd Operatiën, tevens plaatsvervangend politiechef;
-
-- b. een hoofd Operatiën;
-
-- c. een hoofd Bedrijfsvoering.
-
-Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
