@@ -335,25 +335,3 @@ Deze regeling wordt aangehaald als: Ontslagregeling.
 Deze regeling treedt in werking met ingang van 1 juli 2015.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 2a. Beoordeling noodzaak verval van arbeidsplaatsen bij democratisch genomen besluiten die betrekking hebben op overheidswerkgevers
-
-Een overheidswerkgever die bij het UWV een schriftelijk verzoek indient om toestemming om op te zeggen op grond van bedrijfseconomische omstandigheden als bedoeld in [artikel 669, derde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669), geeft aan in het schriftelijke verzoek op welke wijze, binnen de democratische structuur waarin de overheidswerkgever opereert een bepaalde organisatie dan wel een onderdeel van een bepaalde overheidsorganisatie wordt opgeheven, gereorganiseerd of gekort dient te worden. De overheidswerkgever geeft daarbij concreet aan hoe de beslissing om de organisatie te veranderen tot stand is gekomen en welke, indien aan de orde, democratisch genomen besluiten aan de beslissing om toestemming te vragen om op te zeggen ten grondslag liggen.
-
-#### § 3. Regels met betrekking tot herplaatsing en de redelijke termijn, bedoeld in [artikel 669 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=669)
-
-#### § 4. Regels met betrekking tot het bepalen van de volgorde van ontslag bij het vervallen van arbeidsplaatsen wegens bedrijfseconomische omstandigheden
-
-#### § 5. Regels met betrekking tot het eerst beëindigen van andere arbeidsrelaties
-
-#### § 6. Regels met betrekking tot de wederindiensttredingsvoorwaarde
-
-#### § 7. Regels met betrekking tot het ontslag van de payrollwerknemer
-
-#### § 8. Regels met betrekking tot de transitievergoeding
-
-#### § 9. Regels met betrekking tot de [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
-
-#### § 10. Slotbepalingen
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
