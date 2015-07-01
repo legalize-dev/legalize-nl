@@ -4,7 +4,7 @@ identifier: "BWBR0008023"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2015-04-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008023"
 soort: "ministeriele-regeling"
@@ -5480,6 +5480,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | IMATINIB-400-MG-TABLET | IMATINIB-400-MG-TABLET | 80.23854100 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/01/198/010 | Glivec tablet filmomhuld 400mg |   |
+| Productgroep | Maximumprijs |   |
+| IMIGLUCERASE-400-IE-POED. V. INFUSIE,FLACON | IMIGLUCERASE-400-IE-POED. V. INFUSIE,FLACON |   |
+| Registratienummer EU/1/97/053/003 | Artikelnaam Cerezyme infusiepoeder flacon 400e | 1568.54636800 per stuk |
 | Productgroep |   | Maximumprijs |
 | IMIPRAMINE-10-MG-TABLET | IMIPRAMINE-10-MG-TABLET | 0.03423000 per stuk |
 | Registratienummer | Artikelnaam |   |
@@ -11259,6 +11262,9 @@ Deze regeling wordt aangehaald als: Regeling maximumprijzen geneesmiddelen.
 | VANDETANIB-300-MG-TABLET | VANDETANIB-300-MG-TABLET | 172.39744800 per stuk |
 | Registratienummer | Artikelnaam |   |
 | EU/1/11/749/002 | Caprelsa tablet 300mg |   |
+| Productgroep | Maximumprijs |   |
+| VELAGLUCERASE ALFA-400-IE-POED. V. INFUSIE,FLACON | VELAGLUCERASE ALFA-400-IE-POED. V. INFUSIE,FLACON |   |
+| Registratienummer EU/1/10/646/002 | Artikelnaam Vpriv infusiepoeder flacon 400e | 1570.75500000 per stuk |
 | Productgroep |   | Maximumprijs |
 | VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | VENLAFAXINE-150-MG-CAPSULE, MET GEREGULEERDE AFGIFTE | 0.71103800 per stuk |
 | Registratienummer | Artikelnaam |   |
