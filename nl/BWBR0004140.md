@@ -4,7 +4,7 @@ identifier: "BWBR0004140"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-01"
-last_updated: "2014-12-05"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0004140"
 soort: "AMvB"
@@ -44,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in[artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:
+Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=162) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:
 
 - 1°. de Stichting Pensioenfonds ABP en het Spoorwegenpensioenfonds;
 
@@ -59,6 +59,8 @@ Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in[ar
 - 6°. de keuringsinstellingen, bedoeld in [artikel 87 van de Zaaizaad- en plantgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002541&artikel=87);
 
 - 7°. de privaatrechtelijke rechtspersonen, bedoeld in [artikel 8 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8).
+
+- 8°. de toegelaten instellingen, bedoeld in [artikel 19 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=19).
 
 ##### Artikel 2
 
