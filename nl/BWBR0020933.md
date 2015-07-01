@@ -4,7 +4,7 @@ identifier: "BWBR0020933"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-01-01"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020933"
 soort: "ministeriele-regeling"
@@ -44,17 +44,15 @@ Besluiten:
 
 In deze regeling wordt verstaan onder:
 
-- a. aanhoudings- en ondersteuningseenheid: onderdeel als bedoeld in [artikel 18 van de Regeling beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032673&artikel=18);
+- a. aanhoudings- en ondersteuningseenheid: een onderdeel als bedoeld in [artikel 16, eerste lid, van het Besluit beheer politie](onbekend);
 
 - b. aanhoudings- en ondersteuningseenheid van de Koninklijke marechaussee: aanhoudings- en ondersteuningseenheid die is ondergebracht bij de Brigade Speciale Beveiligingsopdrachten van de Koninklijke marechaussee;
 
-- c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2);
-
-- d. regionale eenheid: de regionale eenheid waar een aanhoudings- en ondersteuningseenheid organisatorisch is ondergebracht.
+- c. de Dienst Speciale Interventies: de dienst, bedoeld in [artikel 2 van de Regeling Dienst speciale interventies](https://wetten.overheid.nl/jci1.3:c:BWBR0026381&artikel=2).
 
 ##### Artikel 2
 
-Er is binnen een samenwerkingsgebied van regionale eenheden, genoemd in de bijlage bij deze regeling, een aanhoudings- en ondersteuningseenheid, die als herkenbare organisatorische en bedrijfsmatige eenheid deel uit maakt van de regionale eenheid.
+Vervallen
 
 ##### Artikel 3
 
@@ -128,12 +126,16 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 10a
 
-Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5), [30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30), en [57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57).
+Deze regeling berust op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=5) en [57 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57) en [artikel 16, tweede lid, van het Besluit beheer politie](onbekend).
 
 ## Bijlage
+
+Vervallen
 
 ### **Indeling samenwerkingsgebieden en aanwijzing centrumkorpsen (behorende bij artikel 2 van deze regeling)**
 
 Tot het samenwerkingsgebied, behorend bij centrumkorps Brabant Zuidoost, behoren de volgende politieregio’s:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
