@@ -4,7 +4,7 @@ identifier: "BWBR0035998"
 country: "nl"
 rank: "amvb"
 publication_date: "2020-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035998"
 soort: "AMvB"
@@ -50,15 +50,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-- a. **vergoeding:** de door de werkgever aan de werknemer verschuldigde vergoeding, op grond van [artikel 668, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668);
+- a. **vergoeding:** de door de werkgever aan de werknemer verschuldigde vergoeding, op grond van [artikel 668, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668) of de transitievergoeding, bedoeld in [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673);
 
-- b. dit onderdeel is nog niet in werking getreden;
+- b. **vaste looncomponenten:** bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen looncomponenten, waarvan de hoogte niet bepaald wordt door het functioneren van de werknemer of de resultaten van de onderneming;
 
-- c. dit onderdeel is nog niet in werking getreden.
+- c. **variabele looncomponenten:** bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen looncomponenten, waarvan de hoogte bepaald wordt door het functioneren van de werknemer of de resultaten van de onderneming.
 
 ##### Artikel 2. Loon
 
-1. Voor de toepassing van [artikel 668, derde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668) wordt onder loon verstaan: het bruto uurloon vermenigvuldigd met de overeengekomen arbeidsduur per maand, of, indien geen of een wisselende arbeidsduur is overeengekomen, het bruto uurloon vermenigvuldigd met het gemiddelde aantal gewerkte uren per maand:
+1. Voor de toepassing van [artikel 668, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=668), en [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) wordt onder loon verstaan: het bruto uurloon vermenigvuldigd met de overeengekomen arbeidsduur per maand, of, indien geen of een wisselende arbeidsduur is overeengekomen, het bruto uurloon vermenigvuldigd met het gemiddelde aantal gewerkte uren per maand:
 
 - a. in de twaalf maanden voorafgaand aan het moment waarop de arbeidsovereenkomst eindigt; of
 
@@ -72,11 +72,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ##### Artikel 3. Uitbreiding loon transitievergoeding
 
-Dit onderdeel is nog niet inwerking getreden
+1. Het loon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2015-07-01&g=2015-07-01), wordt voor de toepassing van [artikel 673, tweede lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673) vermeerderd met:
 
-##### Artikel 4. Wijziging [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-01-01&g=2015-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2015-01-01&g=2015-01-01)
+- a. de vakantiebijslag en de vaste eindejaarsuitkering waar de werknemer binnen twaalf maanden aanspraak op zou hebben bij voortzetting van de arbeidsovereenkomst, gedeeld door twaalf;
 
-Dit onderdeel is nog niet inwerking getreden
+- b. de overeengekomen vaste looncomponenten verschuldigd in de twaalf maanden voorafgaand aan het moment waarop de arbeidsovereenkomst eindigt, gedeeld door twaalf;
+
+- c. de overeengekomen variabele looncomponenten verschuldigd in de drie kalenderjaren voorafgaande aan het jaar waarin de arbeidsovereenkomst eindigt, gedeeld door zesendertig.
+
+2. Het getal, waardoor het bedrag aan verschuldigde looncomponenten, bedoeld in het eerste lid, wordt gedeeld, wordt naar rato aangepast indien de duur van de arbeidsovereenkomst korter was dan de periode, bedoeld in het eerste lid, onderdeel a, b of c.
+
+##### Artikel 4. Wijziging [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-07-01&g=2015-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=2&z=2015-07-01&g=2015-07-01)
+
+Wijzigt dit besluit.
 
 ##### Artikel 5. Citeertitel
 
@@ -84,6 +92,6 @@ Dit besluit wordt aangehaald als: Besluit loonbegrip vergoeding aanzegtermijn en
 
 ##### Artikel 6. Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2015-01-01&g=2015-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=4&z=2015-01-01&g=2015-01-01), die met ingang van 1 juli 2015 in werking treden.
+Dit besluit treedt in werking met ingang van 1 januari 2015, met uitzondering van de [artikelen 1, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=1&z=2015-07-01&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=3&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0035998&artikel=4&z=2015-07-01&g=2015-07-01), die met ingang van 1 juli 2015 in werking treden.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
