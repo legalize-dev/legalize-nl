@@ -4,7 +4,7 @@ identifier: "BWBR0011362"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-04-01"
-last_updated: "2015-04-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011362"
 soort: "ministeriele-regeling"
@@ -42,7 +42,7 @@ Besluit:
 
 1. In deze regeling wordt verstaan onder:
 
-- a. **groep 1:** rijbewijzen van de categorieën A1, A2, A, B en BE;
+- a. **groep 1:** rijbewijzen van de categorieën A1, A2, A, B, B+ E en T;
 
 - b. **groep 2:** rijbewijzen van de categorieën C, C1, CE, C1E, D, D1, DE en D1E.
 
@@ -1156,7 +1156,7 @@ In uitzonderlijke omstandigheden kunnen personen met een visus tussen 0,4 en 0,5
 
 ### 3.2.1.1. Rijden met een monoculair bioptisch telescoop systeem
 
-Onder strikte voorwaarden kan een persoon die de visus van 0,5 bereikt met behulp van een monoculair bioptisch telescoopsysteem geschikt worden verklaard voor een rijbewijs van de categorie B.
+Onder strikte voorwaarden kan een persoon die de visus van 0,5 bereikt met behulp van een monoculair bioptisch telescoopsysteem geschikt worden verklaard voor een rijbewijs van de categorieën B en T.
 
 De visus van het beste oog dient, eventueel gecorrigeerd, ten minste 0,8 te bedragen en van het minder goede oog, eventueel gecorrigeerd, ten minste 0,1.
 
