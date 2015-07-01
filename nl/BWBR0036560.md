@@ -61,7 +61,3 @@ Deze regeling wordt aangehaald als: Regeling eisen praktijkexamen rijbewijscateg
 ### Eind- en toetstermen voor het praktijkexamen voor de rijbewijscategorie T
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-In deze toetsmatrijs staat wat u moet kunnen en kennen. De toetsmatrijs vormt daarom de basis van de opleiding en het examen.
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
