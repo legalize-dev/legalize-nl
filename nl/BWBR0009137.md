@@ -4,7 +4,7 @@ identifier: "BWBR0009137"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009137"
 soort: "ministeriele-regeling"
@@ -98,7 +98,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 ##### Artikel 7a
 
-Deze regeling berust op [artikel 30, tweede lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=30).
+Deze regeling berust op [artikel 25 van het Besluit beheer politie](525529).
 
 ## Bijlage
 
