@@ -4,7 +4,7 @@ identifier: "BWBR0029672"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-04-03"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0029672"
 soort: "wet"
@@ -113,13 +113,19 @@ Vervallen
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
-- a. de inrichting van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van koude,
+- a. de inrichting van een energiekostenraming, een verbruiks- en indicatief kostenoverzicht en een factuur inzake het verbruik van koude,
 
 - b. de frequentie van een verbruiks- en indicatief kostenoverzicht inzake het verbruik van koude,
 
-- c. het verstrekken van gegevens over het verbruik van koude, en
+- c. het verstrekken van gegevens over het verbruik van koude,
 
 - d. degenen die de informatie, bedoeld in de onderdelen a, b en c, verstrekken,
+
+- e. het op verzoek van een afnemer toesturen van facturen, factureringsinformatie en energiekostenramingen, eventueel langs elektronische weg,
+
+- f. de kosten van toegang tot meetgegevens en van facturatie en
+
+- g. degenen die om de informatie, bedoeld in onderdeel e, kunnen verzoeken,
 
 welke regels kunnen verschillen per categorie van ontvangers van de informatie, bedoeld in de onderdelen a, b en c.
 
@@ -133,7 +139,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ##### Artikel 6
 
-1. De [artikelen 2, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-04-03&g=2015-04-03), [4 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-04-03&g=2015-04-03) zijn van overeenkomstige toepassing ten aanzien van elektriciteit, gas en warmte, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder:
+1. De [artikelen 2, eerste, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [4 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01) zijn van overeenkomstige toepassing ten aanzien van elektriciteit, gas en warmte, met dien verstande dat voor dit artikel en de daarop berustende bepalingen wordt verstaan onder:
 
 - a. **beheerder van een elektriciteitsnet:** de netbeheerder, bedoeld in [artikel 1, onderdeel k, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=1);
 
@@ -145,7 +151,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 - e. **eindafnemer van warmte:** een persoon die warmte afneemt van een warmtenet en een aansluiting heeft die groter is dan 100 kW.
 
-2. [Artikel 2, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-04-03&g=2015-04-03), zijn van overeenkomstige toepassing ten aanzien van warmte, voor zover die aan een aansluiting wordt geleverd die groter is dan 100 kW, met dien verstande dat in artikel 2, zevende lid, in plaats van leveringspunt, warmtewisselaar wordt gelezen.
+2. [Artikel 2, zevende tot en met tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), zijn van overeenkomstige toepassing ten aanzien van warmte, voor zover die aan een aansluiting wordt geleverd die groter is dan 100 kW, met dien verstande dat in artikel 2, zevende lid, in plaats van leveringspunt, warmtewisselaar wordt gelezen.
 
 #### § 6. Monitoring
 
@@ -175,9 +181,9 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ##### Artikel 8
 
-1. Onze Minister kan een ander opdragen werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-04-03&g=2015-04-03). In dat geval zijn artikel 7, tweede en derde lid, van overeenkomstige toepassing.
+1. Onze Minister kan een ander opdragen werkzaamheden te verrichten ter uitvoering van de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-07-01&g=2015-07-01). In dat geval zijn artikel 7, tweede en derde lid, van overeenkomstige toepassing.
 
-2. Indien de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-04-03&g=2015-04-03), aan een ander is opgedragen en deze bij de uitvoering van deze taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
+2. Indien de taak, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-07-01&g=2015-07-01), aan een ander is opgedragen en deze bij de uitvoering van deze taak de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is hij verplicht tot geheimhouding van de gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht.
 
 ### Hoofdstuk 2. Energiebesparing energiegerelateerde producten
 
@@ -199,9 +205,9 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ##### Artikel 11
 
-1. Indien toepassing wordt gegeven aan [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), wijst Onze Minister een of meer instellingen aan, die de in die bepaling bedoelde keuringen verrichten.
+1. Indien toepassing wordt gegeven aan [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), wijst Onze Minister een of meer instellingen aan, die de in die bepaling bedoelde keuringen verrichten.
 
-2. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van een keuring als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), regels worden gesteld omtrent:
+2. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van een keuring als bedoeld in [artikel 10, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), regels worden gesteld omtrent:
 
 - a. de aanvraag;
 
@@ -221,7 +227,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 ##### Artikel 12
 
-1. Indien met betrekking tot het type, waartoe een energiegerelateerd product behoort, goedkeuring is voorgeschreven en verkregen, is de vervaardiger of de importeur van de betrokken energiegerelateerde producten gehouden een ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-04-03&g=2015-04-03), aangewezen instelling in de gelegenheid te stellen te controleren of energiegerelateerde producten overeenkomstig het goedgekeurde type zijn of worden vervaardigd.
+1. Indien met betrekking tot het type, waartoe een energiegerelateerd product behoort, goedkeuring is voorgeschreven en verkregen, is de vervaardiger of de importeur van de betrokken energiegerelateerde producten gehouden een ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-07-01&g=2015-07-01), aangewezen instelling in de gelegenheid te stellen te controleren of energiegerelateerde producten overeenkomstig het goedgekeurde type zijn of worden vervaardigd.
 
 2. Indien met betrekking tot enige categorie van energiegerelateerde producten goedkeuring van het type is voorgeschreven, kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld omtrent:
 
@@ -231,7 +237,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 - c. de vergoeding van de voor de controle gemaakte kosten van de ingevolge artikel 11, eerste lid, aangewezen instelling.
 
-3. De ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-04-03&g=2015-04-03), aangewezen instelling wijst de personen aan, die met de controle zullen zijn belast.
+3. De ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-07-01&g=2015-07-01), aangewezen instelling wijst de personen aan, die met de controle zullen zijn belast.
 
 4. De vervaardiger of de importeur van de energiegerelateerde producten is gehouden aan de ingevolge het derde lid aangewezen personen, indien deze zich behoorlijk als zodanig hebben bekendgemaakt, alle medewerking te verlenen en alle inlichtingen met betrekking tot die energiegerelateerde producten te verstrekken, die zij redelijkerwijs bij de vervulling van hun taak behoeven.
 
@@ -263,17 +269,17 @@ Bij algemene maatregel van bestuur worden regels gesteld over de informatie die 
 
 3. De eisen, bedoeld in het tweede lid, onderdelen a of b, kunnen worden gesteld met betrekking tot een bij of krachtens het besluit aangegeven groep van energiegerelateerde producten. Daarbij kunnen regels worden gesteld volgens welke bij een onderzoek als bedoeld in het tweede lid, onderdeel d, aan de hand van onderzoek met betrekking tot een uit die groep genomen steekproef kan worden getoetst of aan de eisen is voldaan.
 
-4. Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2015-04-03&g=2015-04-03) van overeenkomstige toepassing.
+4. Met betrekking tot keuringen als bedoeld in het tweede lid, onderdeel f, is [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 14
 
-1. De regels, bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03), zijn niet van toepassing op energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding.
+1. De regels, bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), en [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01), zijn niet van toepassing op energiegerelateerde producten in woningen of op erven in de sfeer van de particuliere huishouding.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de gelijkstelling met een huishouding als bedoeld in het eerste lid.
 
 ##### Artikel 15
 
-Indien regels als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.
+Indien regels als bedoeld in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) worden gesteld, wordt daarbij tevens een termijn bepaald, waarna die regels van toepassing zijn ten aanzien van energiegerelateerde producten, die bij het in werking treden van de regels reeds vervaardigd en in Nederland aanwezig zijn.
 
 #### § 2. Overige bepalingen
 
@@ -309,7 +315,7 @@ Voor zover energiegerelateerde producten bij of krachtens [titel 9.4 van de Wet 
 
 ##### Artikel 19
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-04-03&g=2015-04-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-04-03&g=2015-04-03), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-04-03&g=2015-04-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-04-03&g=2015-04-03) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-04-03&g=2015-04-03), is belast de Autoriteit Consument en Markt.
+Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-07-01&g=2015-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-07-01&g=2015-07-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-07-01&g=2015-07-01), is belast de Autoriteit Consument en Markt.
 
 ##### Artikel 20
 
@@ -317,11 +323,11 @@ Vervallen
 
 ##### Artikel 21
 
-De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-04-03&g=2015-04-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-04-03&g=2015-04-03), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-04-03&g=2015-04-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-04-03&g=2015-04-03) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-04-03&g=2015-04-03), bepaalde.
+De Autoriteit Consument en Markt kan een last onder dwangsom opleggen terzake van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-07-01&g=2015-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-07-01&g=2015-07-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-07-01&g=2015-07-01), bepaalde.
 
 ##### Artikel 22
 
-De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-04-03&g=2015-04-03), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-04-03&g=2015-04-03), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-04-03&g=2015-04-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-04-03&g=2015-04-03) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-04-03&g=2015-04-03), bepaalde, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000.
+De Autoriteit Consument en Markt kan in geval van overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=2&artikel=2&z=2015-07-01&g=2015-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=3&artikel=4&z=2015-07-01&g=2015-07-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=4&artikel=5&z=2015-07-01&g=2015-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=5&artikel=6&z=2015-07-01&g=2015-07-01) en [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=1&paragraaf=6&artikel=7&z=2015-07-01&g=2015-07-01), bepaalde, de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000.
 
 ##### Artikel 23
 
@@ -359,7 +365,7 @@ Vervallen
 
 ##### Artikel 31
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 10 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01) zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
@@ -369,7 +375,7 @@ Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wette
 
 ##### Artikel 33
 
-1. Bij algemene maatregel van bestuur kan worden bepaald, dat, in geval aan [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03), toepassing is gegeven of in andere bij dat besluit aangewezen categorieën van gevallen de krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2015-04-03&g=2015-04-03), aangewezen ambtenaren volgens bij of krachtens dat besluit gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij dat besluit omschreven groep van energiegerelateerde producten, kunnen vaststellen of die groep voldoet aan de bij dat besluit aangewezen eisen of voorschriften, gesteld krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03).
+1. Bij algemene maatregel van bestuur kan worden bepaald, dat, in geval aan [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01), toepassing is gegeven of in andere bij dat besluit aangewezen categorieën van gevallen de krachtens [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=4&artikel=31&z=2015-07-01&g=2015-07-01), aangewezen ambtenaren volgens bij of krachtens dat besluit gestelde regels aan de hand van een onderzoek van een deel, dat als steekproef is genomen uit een bij dat besluit omschreven groep van energiegerelateerde producten, kunnen vaststellen of die groep voldoet aan de bij dat besluit aangewezen eisen of voorschriften, gesteld krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01).
 
 2. Tot de regels, bedoeld in het eerste lid, kunnen betrekking hebben op:
 
@@ -383,7 +389,7 @@ Van elk krachtens [artikel 5:18 van de Algemene wet bestuursrecht](https://wette
 
 - b. de desbetreffende groep of een deel daarvan niet mag worden afgeleverd alvorens ten aanzien daarvan de maatregelen zijn genomen, die bij of krachtens dat besluit zijn voorgeschreven;
 
-- c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) bepaalde;
+- c. in de bij het besluit aangewezen gevallen er geen sprake is van een strafbaar feit wegens overtreding van het krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) bepaalde;
 
 - d. de desbetreffende groep niet in de handel mag worden gebracht, uit de handel wordt genomen, of niet in gebruik genomen mag worden.
 
@@ -425,29 +431,29 @@ Wijzigt deze wet.
 
 Na de inwerkingtreding van deze wet berust:
 
-- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet;
+- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet;
+- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- c. het [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet;
+- c. het [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- d. het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) van deze wet;
+- d. het [Besluit etikettering energiegebruik personenauto’s](https://wetten.overheid.nl/jci1.3:c:BWBR0011761) op [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- e. het [Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0005384) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-04-03&g=2015-04-03), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=14&z=2015-04-03&g=2015-04-03), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=15&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet;
+- e. het [Besluit gastoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0005384) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=11&z=2015-07-01&g=2015-07-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=12&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=14&z=2015-07-01&g=2015-07-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=15&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- f. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet;
+- f. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet;
 
-- g. het [Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007551) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet.
+- g. het [Kaderbesluit etikettering energiegebruik huishoudelijke apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0007551) op de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet.
 
 ##### Artikel 41
 
-Indien [artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)](https://wetten.overheid.nl/jci1.3:c:BWBR0022654&artikel=IV) (Kamerstukken II [2006/07](32006L0007), 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03) van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt:
+Indien [artikel IV, eerste lid, van het bij koninklijke boodschap van 9 februari 2007 ingediende voorstel van wet houdende wijziging van de Wet milieubeheer, de Wet energiebesparing toestellen en de Wet op de economische delicten ten behoeve van de implementatie van richtlijn nr. 2005/32/EG van het Europees Parlement en de Raad van de Europese Unie van 6 juli 2005 betreffende de totstandbrenging van een kader voor het vaststellen van eisen inzake ecologisch ontwerp voor energieverbruikende producten en tot wijziging van richtlijn 92/42/EEG van de Raad en de richtlijnen 96/57/EG en 2000/55/EG van het Europees Parlement en de Raad (Implementatiewet EG-richtlijn ecologisch ontwerp energieverbruikende producten)](https://wetten.overheid.nl/jci1.3:c:BWBR0022654&artikel=IV) (Kamerstukken II [2006/07](32006L0007), 30 958, nr. 2) tot wet wordt verheven en in werking treedt voor het tijdstip waarop [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01) van deze wet in werking treedt, berust op het tijdstip waarop artikel 10 van deze wet in werking treedt:
 
-- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
+- a. het [Besluit energie-efficiëntienormen koel- en vriesapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0008756) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
 
-- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
+- b. het [Besluit energierendementseisen voorschakelapparaten voor fluorescentielampen](https://wetten.overheid.nl/jci1.3:c:BWBR0012851) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4);
 
-- c. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-04-03&g=2015-04-03), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-04-03&g=2015-04-03) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-04-03&g=2015-04-03) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
+- c. het [Besluit rendementseisen cv-ketels](https://wetten.overheid.nl/jci1.3:c:BWBR0005828) op de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=10&z=2015-07-01&g=2015-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=1&artikel=13&z=2015-07-01&g=2015-07-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&hoofdstuk=2&paragraaf=2&artikel=18&z=2015-07-01&g=2015-07-01) van deze wet en [artikel 9.4.4, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.4.4).
 
 ##### Artikel 42
 
