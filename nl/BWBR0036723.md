@@ -141,9 +141,3 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 Deze regeling wordt aangehaald als: Regeling toezicht arrestantenzorg politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
-
-##### Artikel 8a
-
-Deze regeling berust op [artikel 50, vijfde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50).
-
-Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
