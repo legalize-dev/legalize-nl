@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -59,7 +59,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. [Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ##### Artikel VIa. [Cessantiawet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028304)
 
@@ -75,11 +75,11 @@ Wijzigt de Participatiewet.
 
 ##### Artikel IX. [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Toeslagenwet.
 
 ##### Artikel X. [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Werkloosheidswet.
 
 ##### Artikel Xa. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
@@ -99,19 +99,19 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIV. [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeid vreemdelingen.
 
 ##### Artikel XV. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 ##### Artikel XVI. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
 ##### Artikel XVII. [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet financiering sociale verzekeringen.
 
 ##### Artikel XVIII. [Wet flexibel werken](https://wetten.overheid.nl/jci1.3:c:BWBR0011173&wetgeving)
 
@@ -119,7 +119,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XIX. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.
 
 ##### Artikel XX. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163)
 
@@ -139,7 +139,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXIV. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 ##### Artikel XXV. [Wet ongevallenverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028497)
 
@@ -147,7 +147,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXVI. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ##### Artikel XXVII. [Wet op het kindgebonden budget](https://wetten.overheid.nl/jci1.3:c:BWBR0022751)
 
@@ -171,7 +171,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ##### Artikel XXXIII. [Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728)
 
@@ -179,7 +179,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXIV. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Ziektewet.
 
 ##### Artikel XXXV. Eenmalige aanpassing bedragen
 
