@@ -4,7 +4,7 @@ identifier: "BWBR0039362"
 country: "nl"
 rank: "wet"
 publication_date: "2017-06-10"
-last_updated: "2010-10-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0039362"
 soort: "wet"
@@ -61,34 +61,6 @@ Wijzigt de Wet veiligheidsregio’s.
 
 Dit onderdeel is nog niet inwerking getreden
 
-## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=2&z=2017-06-10&g=2010-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=3&z=2017-06-10&g=2010-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=4&z=2017-06-10&g=2010-10-01)
+## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=2&z=2017-06-10&g=2015-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=3&z=2017-06-10&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=4&z=2017-06-10&g=2015-07-01)
 
 Dit onderdeel is nog niet inwerking getreden
-
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
-
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de gemeenten Franekeradeel, het Bildt, Menameradiel en het noordwestelijke deel van Littenseradiel samen te voegen tot de nieuwe gemeente Waadhoeke, de gemeente Leeuwarderadeel en het noordoostelijke deel van de gemeente Littenseradiel toe te voegen aan de gemeente Leeuwarden, en het zuidelijke deel van de gemeente Littenseradiel toe te voegen aan de gemeente Súdwest-Fryslân;
-
-Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
-
-##### Artikel 1
-
-Met ingang van de datum van herindeling worden de gemeenten Franekeradeel, het Bildt, Leeuwarderadeel, Littenseradiel en Menameradiel opgeheven.
-
-##### Artikel 2
-
-Met ingang van de datum van herindeling wordt de nieuwe gemeente Waadhoeke ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Franekeradeel, het Bildt, Menameradiel en een deel van het grondgebied van de op te heffen gemeente Littenseradiel, zoals aangegeven op de bij deze wet behorende kaart.
-
-##### Artikel 3
-
-Met ingang van de datum van herindeling wordt het grondgebied van de op te heffen gemeente Leeuwarderadeel en een deel van het grondgebied van de op te heffen gemeente Littenseradiel toegevoegd aan de gemeente Leeuwarden door een grenswijziging van de gemeente Leeuwarden, zoals aangegeven op de bij deze wet behorende kaart.
-
-##### Artikel 4
-
-Met ingang van de datum van herindeling wordt een deel van het grondgebied van de op te heffen gemeente Littenseradiel toegevoegd aan de gemeente Súdwest-Fryslân door een grenswijziging van de gemeente Súdwest-Fryslân, zoals aangegeven op de bij deze wet behorende kaart.
-
-#### § 2. Overige bepalingen
-
-## Kaart. genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=2&z=2017-06-10&g=2017-06-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=3&z=2017-06-10&g=2017-06-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0039362&paragraaf=1&artikel=4&z=2017-06-10&g=2017-06-10)
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
