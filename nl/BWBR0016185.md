@@ -4,7 +4,7 @@ identifier: "BWBR0016185"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2012-10-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016185"
 soort: "wet"
@@ -124,7 +124,7 @@ Onderscheid is verboden bij het lidmaatschap van of de betrokkenheid bij een wer
 
 - c. anderszins objectief gerechtvaardigd is door een legitiem doel en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
-2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2012-10-01&g=2012-10-01).
+2. Het eerste lid is niet van toepassing in geval van intimidatie als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=1&artikel=2&z=2015-07-01&g=2015-07-01).
 
 #### Pensioenen
 
@@ -154,15 +154,7 @@ Het is verboden om personen te benadelen wegens het feit dat zij in of buiten re
 
 ##### Artikel 11
 
-1. Beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2012-10-01&g=2012-10-01), is vernietigbaar.
-
-2. Beëindiging van de arbeidsverhouding door de werkgever vanwege het feit dat in of buiten rechte een beroep is gedaan op deze wet of terzake bijstand is verleend, is vernietigbaar.
-
-3. Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=8), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste en het tweede lid. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=55) is niet van toepassing.
-
-4. Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.
-
-5. De beëindiging, bedoeld in het eerste en tweede lid, maakt de werkgever niet schadeplichtig.
+In geval van een beëindiging van de arbeidsverhouding door de werkgever in strijd met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0016185&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01), of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op deze wet of ter zake bijstand heeft verleend, is [artikel 681 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=681) van overeenkomstige toepassing.
 
 #### Bewijslast
 
