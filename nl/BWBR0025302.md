@@ -4,7 +4,7 @@ identifier: "BWBR0025302"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-12-12"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025302"
 soort: "AMvB"
@@ -54,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 - **ander geluidsgevoelig gebouw:** gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **gebouw:** gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- **gebouw:** gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
 - **geluidscontour:** de lijn die punten verbindt waar de geluidsbelasting een gelijke waarde heeft;
 
@@ -78,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 - **vergunning voor het bouwen:** vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=40) dan wel vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1);
 
-- **VFR-vlucht:** VFR-vlucht als bedoeld in [artikel 1 van het Besluit luchtverkeer 2014](517469);
+- **VFR-vlucht:** VFR-vlucht als bedoeld in [artikel 1 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=1);
 
 - **wet:** [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
@@ -128,7 +128,7 @@ en waarin het teken «L» staat voor het maximaal geluidsniveau in dB(A) dat voo
 
 ##### Artikel 4
 
-Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12), genoemde luchthavens is de grenswaarde voor de maximaal toelaatbare geluidsbelasting buiten de geluidszone 35 Kosteneenheden.
+Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2015-07-01&g=2015-07-01), genoemde luchthavens is de grenswaarde voor de maximaal toelaatbare geluidsbelasting buiten de geluidszone 35 Kosteneenheden.
 
 #### § 2.3. De maximaal toelaatbare geluidsbelasting binnen de geluidszone
 
@@ -142,7 +142,7 @@ Voor de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 6
 
-In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2014-12-12&g=2014-12-12), is de maximaal toelaatbare geluidsbelasting van woningen en andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2014-12-12&g=2014-12-12) 45 Kosteneenheden:
+In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2015-07-01&g=2015-07-01), is de maximaal toelaatbare geluidsbelasting van woningen en andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2015-07-01&g=2015-07-01) 45 Kosteneenheden:
 
 - 1°. voor woningen of andere geluidsgevoelige gebouwen die een open plek in de bestaande, te handhaven bebouwing opvullen;
 
@@ -154,7 +154,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 7
 
-In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2014-12-12&g=2014-12-12), is de maximaal toelaatbare geluidsbelasting van woningen of andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2014-12-12&g=2014-12-12) 65 Kosteneenheden:
+In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2015-07-01&g=2015-07-01), is de maximaal toelaatbare geluidsbelasting van woningen of andere geluidsgevoelige gebouwen als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.1&artikel=5&z=2015-07-01&g=2015-07-01) 65 Kosteneenheden:
 
 - 1°. voor woningen of andere geluidsgevoelige gebouwen die een open plek in de bestaande, te handhaven bebouwing binnen de bebouwde kom opvullen;
 
@@ -176,7 +176,7 @@ In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ##### Artikel 9
 
-In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2014-12-12&g=2014-12-12) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een woning als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2014-12-12&g=2014-12-12) indien:
+In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2015-07-01&g=2015-07-01) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een woning als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.1&artikel=8&z=2015-07-01&g=2015-07-01) indien:
 
 - a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.24) j° [8.32 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.32) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;
 
@@ -194,7 +194,7 @@ In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoo
 
 ##### Artikel 11
 
-In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2014-12-12&g=2014-12-12) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2014-12-12&g=2014-12-12) indien:
+In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2015-07-01&g=2015-07-01) is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw als bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=2&paragraaf=2.3&sub-paragraaf=2.3.2&sub-paragraaf=2.3.2.2&artikel=10&z=2015-07-01&g=2015-07-01) indien:
 
 - a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.24) j° [8.32 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.32) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;
 
@@ -226,7 +226,7 @@ De maximaal toelaatbare geluidsbelasting van een ligplaats die op het tijdstip v
 
 ##### Artikel 15
 
-Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12), genoemde luchthavens een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant is verleend, bedraagt de grenswaarde voor de maximaal toelaatbare geluidsbelasting voor het burgerluchtverkeer 35 Kosteneenheden en voor het militaire luchtverkeer 35 Kosteneenheden.
+Indien op de in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2015-07-01&g=2015-07-01), genoemde luchthavens een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant is verleend, bedraagt de grenswaarde voor de maximaal toelaatbare geluidsbelasting voor het burgerluchtverkeer 35 Kosteneenheden en voor het militaire luchtverkeer 35 Kosteneenheden.
 
 ### Hoofdstuk 3. Regels met betrekking tot maximale hoogte van objecten
 
@@ -320,7 +320,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 22
 
-1. Recreatieve burgerluchtvaart wordt uitsluitend beoefend in aanwezigheid van een voor de betrokken vorm van recreatieve burgerluchtvaart bevoegde coördinator als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2014-12-12&g=2014-12-12).
+1. Recreatieve burgerluchtvaart wordt uitsluitend beoefend in aanwezigheid van een voor de betrokken vorm van recreatieve burgerluchtvaart bevoegde coördinator als bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=23&z=2015-07-01&g=2015-07-01).
 
 2. Onverminderd het eerste lid wordt recreatieve burgerluchtvaart buiten de reguliere openstellingstijden van de betrokken luchthaven uitsluitend beoefend in aanwezigheid van een hoofdvliegcoördinator.
 
@@ -362,7 +362,7 @@ In deze paragraaf wordt verstaan onder:
 
 ##### Artikel 25
 
-Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=21&z=2014-12-12&g=2014-12-12) kan de recreatieve burgerluchtvaart buiten de reguliere openstellingtijden van de betrokken luchthaven gebruik maken van de luchthaven, indien wordt voldaan aan de volgende voorwaarden:
+Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=21&z=2015-07-01&g=2015-07-01) kan de recreatieve burgerluchtvaart buiten de reguliere openstellingtijden van de betrokken luchthaven gebruik maken van de luchthaven, indien wordt voldaan aan de volgende voorwaarden:
 
 - a. een hoofdvliegcoördinator is aanwezig;
 
@@ -380,7 +380,7 @@ Onverminderd [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofds
 
 3. Er wordt niet gestart of geland met een sleepvliegtuig vanaf of op een militaire luchthaven anders dan voor sleepvliegen.
 
-4. Tijdens sleepvliegen worden geen passagiers medegevoerd met dien verstande dat het is toegestaan dat tijdens controlevluchten als bedoeld in [artikel 20, onder c, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2014-12-12&g=2014-12-12), een tweede bevoegd sleepvlieger meevliegt en dat tijdens de in [artikel 20, eerste lid, onder c, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2014-12-12&g=2014-12-12), bedoelde vluchten, gedurende het vluchtgedeelte dat niet daadwerkelijk wordt gesleept, de bestuurder van het over te slepen zweefvliegtuig wordt meegevoerd.
+4. Tijdens sleepvliegen worden geen passagiers medegevoerd met dien verstande dat het is toegestaan dat tijdens controlevluchten als bedoeld in [artikel 20, onder c, onderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2015-07-01&g=2015-07-01), een tweede bevoegd sleepvlieger meevliegt en dat tijdens de in [artikel 20, eerste lid, onder c, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=4&paragraaf=4.2&artikel=20&z=2015-07-01&g=2015-07-01), bedoelde vluchten, gedurende het vluchtgedeelte dat niet daadwerkelijk wordt gesleept, de bestuurder van het over te slepen zweefvliegtuig wordt meegevoerd.
 
 ##### Artikel 27
 
@@ -410,7 +410,7 @@ Bij regeling van Onze Minister kunnen met betrekking tot het gebruik van de luch
 
 ##### Artikel 30
 
-Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2014-12-12&g=2014-12-12), aangewezen helihavens.
+Dit hoofdstuk is van toepassing op de ingevolge [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0025302&hoofdstuk=1&artikel=2&z=2015-07-01&g=2015-07-01), aangewezen helihavens.
 
 ##### Artikel 31
 
