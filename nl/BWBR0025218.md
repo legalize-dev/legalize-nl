@@ -4,7 +4,7 @@ identifier: "BWBR0025218"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2012-05-26"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0025218"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artike
 
 Besluiten:
 
+Treedt in werking op het tijdstip waarop artikel I van de Wet elektronische bekendmaking in werking treedt.
+
 ##### Artikel 1
 
 Het Staatsblad en de Staatscourant worden uitgegeven op www.officielebekendmakingen.nl.
@@ -64,7 +66,7 @@ Vervangende uitgifte van het Staatsblad onderscheidenlijk de Staatscourant als b
 
 - a. door middel van publicatie op een door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan te wijzen vervangend internetadres,
 
-- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2012-05-26&g=2012-05-26) genoemde uitgiftepunt, of
+- b. door middel van een papieren uitgave, te verstrekken door een nooddistributiepunt dat wordt ingericht door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0025218&artikel=4&z=2015-07-01&g=2015-07-01) genoemde uitgiftepunt, of
 
 - c. op een andere door de Minister van Veiligheid en Justitie onderscheidenlijk de Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen wijze.
 
@@ -79,5 +81,11 @@ Deze regeling treedt in werking op het tijdstip waarop [artikel I van de Wet ele
 ##### Artikel 6
 
 Deze regeling wordt aangehaald als: Bekendmakingsregeling.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 3a
+
+De minister van Binnenlandse Zaken en Koninkrijksrelaties brengt aan de Koninklijke Beroepsorganisatie voor Gerechtsdeurwaarders kosten in rekening voor het publiceren van uittreksels van exploten als bedoeld in [artikel 54, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=54) in de Staatscourant ter hoogte van € 5 per uittreksel.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
