@@ -4,7 +4,7 @@ identifier: "BWBR0036645"
 country: "nl"
 rank: "wet"
 publication_date: "2017-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036645"
 soort: "wet"
@@ -47,15 +47,15 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 ##### Artikel IIA
 
-Dit onderdeel is nog niet inwerking getreden
+In afwijking van [artikel I, onderdelen J, K en O](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=I&z=2015-07-01&g=2015-07-01) en [artikel II, onderdelen I, J en N](https://wetten.overheid.nl/jci1.3:c:BWBR0036645&artikel=II&z=2015-07-01&g=2015-07-01), geldt de verplichting om de opgaven, indicaties en gegevens, bedoeld in de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=45), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=46) en [51 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=51) en de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=56), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=57) en [62 van de Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831&artikel=62), weer te geven op basis van een pessimistisch scenario, een verwacht scenario en een optimistisch scenario, niet tot een bij koninklijk besluit te bepalen tijdstip.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en kunnen terugwerken tot en met een in dat besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 ##### Artikel IV
 
-Dit onderdeel is nog niet inwerking getreden
+Deze wet wordt aangehaald als: Wet pensioencommunicatie.
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
