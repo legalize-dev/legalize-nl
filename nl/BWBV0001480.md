@@ -4,7 +4,7 @@ identifier: "BWBV0001480"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-07-01"
-last_updated: "2015-04-21"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001480"
 soort: "verdrag"
@@ -57,7 +57,7 @@ Zijn derhalve het volgende overeengekomen:
 
 - d. „bevoegde autoriteit”, met betrekking tot het Koninkrijk der Nederlanden: de minister van Sociale Zaken en Werkgelegenheid van Nederland, en met betrekking tot de Republiek der Filipijnen: de President-Directeur van het socialeverzekeringsstelsel;
 
-- e. „bevoegd orgaan”, met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in [artikel 2, eerste lid, onderdeel A, onder i, ii en iii](https://wetten.overheid.nl/jci1.3:c:BWBV0001480&artikel=2&z=2015-04-21&g=2015-04-21): het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger, en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onderdeel A, onder iv en v: de Sociale Verzekeringsbank; met betrekking tot de Republiek der Filipijnen: het socialezekerheidsstelsel voor de werknemers in de private sector en het verzekeringsstelsel voor de overheidsdienst voor werknemers in de publieke sector;
+- e. „bevoegd orgaan”, met betrekking tot het Koninkrijk der Nederlanden betreffende de wetgeving bedoeld in [artikel 2, eerste lid, onderdeel A, onder i, ii en iii](https://wetten.overheid.nl/jci1.3:c:BWBV0001480&artikel=2&z=2015-07-01&g=2015-07-01): het Landelijk Instituut Sociale Verzekeringen, p/a Gak Nederland BV of zijn rechtsopvolger, en betreffende de wetgeving bedoeld in artikel 2, eerste lid, onderdeel A, onder iv en v: de Sociale Verzekeringsbank; met betrekking tot de Republiek der Filipijnen: het socialezekerheidsstelsel voor de werknemers in de private sector en het verzekeringsstelsel voor de overheidsdienst voor werknemers in de publieke sector;
 
 - f. „instantie”, elke organisatie die betrokken is bij de uitvoering van dit Verdrag, met inbegrip van het bevolkingsregister, de belastingautoriteiten, het huwelijksregister, arbeidsbureaus, scholen en andere onderwijsinstellingen, handelsautoriteiten, de politie, het gevangeniswezen en immigratiediensten;
 
