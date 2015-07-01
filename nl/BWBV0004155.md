@@ -4,7 +4,7 @@ identifier: "BWBV0004155"
 country: "nl"
 rank: "verdrag"
 publication_date: "2025-01-01"
-last_updated: "2012-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0004155"
 soort: "verdrag"
@@ -64,7 +64,7 @@ De COTIF 1980 wordt gewijzigd volgens de in de bijlage opgenomen versie, die een
 
 - a. van de ondertekeningen van dit Protocol en van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding,
 
-- b. van de datum waarop dit Protocol ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=4&z=2012-01-01&g=2012-01-01) in werking treedt,
+- b. van de datum waarop dit Protocol ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=4&z=2015-07-01&g=2015-07-01) in werking treedt,
 
 en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
@@ -82,25 +82,25 @@ en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van he
 
 § 1. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de voorlopige depositaris de Lidstaten kennis heeft gegeven van de nederlegging van de akte waardoor de voorwaarden van artikel 20, § 2 van de COTIF 1980 zijn vervuld. Als Lidstaten in de zin van dit artikel 20, § 2 worden de Staten aangemerkt, die ten tijde van het besluit van de vijfde Algemene Vergadering Lidstaten waren en dit nog steeds zijn op het tijdstip waarop de voorwaarden voor de inwerkingtreding van dit Protocol zijn vervuld.
 
-§ 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=3&z=2012-01-01&g=2012-01-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
+§ 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=3&z=2015-07-01&g=2015-07-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
 
 ##### Artikel 5. Verklaringen en voorbehouden
 
-De in [artikel 42, § 1 van het Verdrag in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01) bedoelde verklaringen en voorbehouden kunnen op elk tijdstip worden afgelegd of gemaakt, zelfs voor de inwerkingtreding van dit Protocol. Deze verklaringen en voorbehouden worden van kracht op het tijdstip van inwerkingtreding van dit Protocol.
+De in [artikel 42, § 1 van het Verdrag in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01) bedoelde verklaringen en voorbehouden kunnen op elk tijdstip worden afgelegd of gemaakt, zelfs voor de inwerkingtreding van dit Protocol. Deze verklaringen en voorbehouden worden van kracht op het tijdstip van inwerkingtreding van dit Protocol.
 
 ##### Artikel 6. Overgangsbepalingen
 
 § 1. Uiterlijk zes maanden na de inwerkingtreding van dit Protocol roept de Secretaris-Generaal van de OTIF de Algemene Vergadering bijeen teneinde:
 
-- a. de leden van het Comité van Beheer voor de komende periode aan te wijzen ([artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01)) en, in voorkomend geval, tot de beëindiging van het mandaat van het zittende Comité van Beheer te besluiten,
+- a. de leden van het Comité van Beheer voor de komende periode aan te wijzen ([artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01)) en, in voorkomend geval, tot de beëindiging van het mandaat van het zittende Comité van Beheer te besluiten,
 
-- b. het maximale bedrag, per tijdvak van zes jaar, vast te stellen voor de uitgaven van de Organisatie in iedere begrotingsperiode ([artikel 14, § 2, onder e van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01)), en
+- b. het maximale bedrag, per tijdvak van zes jaar, vast te stellen voor de uitgaven van de Organisatie in iedere begrotingsperiode ([artikel 14, § 2, onder e van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01)), en
 
-- c. in voorkomend geval over te gaan tot de verkiezing van de Secretaris-Generaal ([artikel 14, § 2, onder c van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01)).
+- c. in voorkomend geval over te gaan tot de verkiezing van de Secretaris-Generaal ([artikel 14, § 2, onder c van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01)).
 
 § 2. Uiterlijk drie maanden na de inwerkingtreding van dit Protocol, roept de Secretaris-Generaal van de OTIF de Commissie van technisch deskundigen bijeen.
 
-§ 3. Na de inwerkingtreding van dit Protocol vervalt het overeenkomstig artikel 6, § 2, onder b van de COTIF 1980 vastgestelde mandaat van het Comité van Beheer op de door de Algemene Vergadering vastgestelde datum; deze datum valt samen met de aanvang van het mandaat van de door de Algemene Vergadering aangewezen leden en plaatsvervangende leden van het Comité van Beheer ([artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01)).
+§ 3. Na de inwerkingtreding van dit Protocol vervalt het overeenkomstig artikel 6, § 2, onder b van de COTIF 1980 vastgestelde mandaat van het Comité van Beheer op de door de Algemene Vergadering vastgestelde datum; deze datum valt samen met de aanvang van het mandaat van de door de Algemene Vergadering aangewezen leden en plaatsvervangende leden van het Comité van Beheer ([artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01)).
 
 § 4. Het mandaat van de Directeur-Generaal van het Centraal Bureau, die in functie is op het tijdstip van inwerkingtreding van dit Protocol, vervalt aan het einde van de periode waarvoor hij overeenkomstig artikel 7, § 2, onder d van de COTIF 1980 is benoemd. Vanaf het tijdstip van inwerkingtreding van dit Protocol oefent hij de functie van Secretaris-Generaal uit.
 
@@ -118,11 +118,11 @@ De onderdelen a tot en met c hebben betrekking op het jaar waarin dit Protocol i
 
 § 6. De definitieve bijdragen van de Lidstaten, die verschuldigd zijn voor het jaar waarin dit Protocol in werking treedt, worden berekend op basis van artikel 11, § 1 van de COTIF 1980.
 
-§ 7. Op verzoek van de Lidstaat waarvan de krachtens [artikel 26 van het Verdrag in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) berekende bijdrage hoger is dan die welke voor het jaar 1999 verschuldigd is, kan de Algemene Vergadering de bijdrage van deze Lidstaat voor de drie jaren die volgen op het jaar van de inwerkingtreding van dit Protocol vaststellen met inachtneming van de volgende beginselen:
+§ 7. Op verzoek van de Lidstaat waarvan de krachtens [artikel 26 van het Verdrag in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) berekende bijdrage hoger is dan die welke voor het jaar 1999 verschuldigd is, kan de Algemene Vergadering de bijdrage van deze Lidstaat voor de drie jaren die volgen op het jaar van de inwerkingtreding van dit Protocol vaststellen met inachtneming van de volgende beginselen:
 
-- a. de overgangsbijdrage wordt vastgesteld op basis van de in bovengenoemd [artikel 26, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) bedoelde minimale bijdrage of van de voor het jaar 1999 verschuldigde bijdrage, indien deze hoger is dan de minimale bijdrage;
+- a. de overgangsbijdrage wordt vastgesteld op basis van de in bovengenoemd [artikel 26, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) bedoelde minimale bijdrage of van de voor het jaar 1999 verschuldigde bijdrage, indien deze hoger is dan de minimale bijdrage;
 
-- b. de bijdrage wordt geleidelijk in maximaal drie stappen aangepast tot het niveau van de krachtens bovengenoemd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) berekende definitieve bijdrage.
+- b. de bijdrage wordt geleidelijk in maximaal drie stappen aangepast tot het niveau van de krachtens bovengenoemd [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) berekende definitieve bijdrage.
 
 Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage verschuldigd zijn, die in elk geval verschuldigd blijft.
 
@@ -184,13 +184,13 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 ##### Artikel 3. Internationale samenwerking
 
-§ 1. De Lidstaten verplichten zich ertoe hun internationale samenwerking op spoorweggebied in beginsel te concentreren binnen de Organisatie, voorzover er sprake is van een samenhang met de taken die haar overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2012-01-01&g=2012-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2012-01-01&g=2012-01-01) zijn opgedragen. Teneinde dit doel te bereiken zullen de Lidstaten alle maatregelen treffen die nodig en nuttig zijn voor de aanpassing van de multilaterale internationale verdragen en overeenkomsten waarbij zij partij zijn, voorzover deze verdragen en overeenkomsten betrekking hebben op internationale samenwerking op spoorweggebied en deze aan andere intergouvernementele en niet-gouvernementele organisaties bevoegdheden overdragen, die samenvallen met de aan de Organisatie opgedragen taken.
+§ 1. De Lidstaten verplichten zich ertoe hun internationale samenwerking op spoorweggebied in beginsel te concentreren binnen de Organisatie, voorzover er sprake is van een samenhang met de taken die haar overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2015-07-01&g=2015-07-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2015-07-01&g=2015-07-01) zijn opgedragen. Teneinde dit doel te bereiken zullen de Lidstaten alle maatregelen treffen die nodig en nuttig zijn voor de aanpassing van de multilaterale internationale verdragen en overeenkomsten waarbij zij partij zijn, voorzover deze verdragen en overeenkomsten betrekking hebben op internationale samenwerking op spoorweggebied en deze aan andere intergouvernementele en niet-gouvernementele organisaties bevoegdheden overdragen, die samenvallen met de aan de Organisatie opgedragen taken.
 
 § 2. De uit § 1 voortvloeiende verplichtingen voor de Lidstaten, die tevens lid zijn van de Europese Gemeenschappen of als Staat partij zijn bij de [Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070), hebben geen voorrang op hun verplichtingen uit hoofde van hun lidmaatschap van de Europese Gemeenschappen of uit hoofde van hun hoedanigheid van Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
 ##### Artikel 4. Overname en overdracht van bevoegdheden
 
-§ 1. De Organisatie is, bij besluit van de Algemene Vergadering, bevoegd, in overeenstemming met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2012-01-01&g=2012-01-01) genoemde doelen, tot het overnemen van bevoegdheden, middelen en verplichtingen die aan haar worden overgedragen door andere intergouvernementele organisaties krachtens met deze organisaties gesloten overeenkomsten.
+§ 1. De Organisatie is, bij besluit van de Algemene Vergadering, bevoegd, in overeenstemming met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2015-07-01&g=2015-07-01) genoemde doelen, tot het overnemen van bevoegdheden, middelen en verplichtingen die aan haar worden overgedragen door andere intergouvernementele organisaties krachtens met deze organisaties gesloten overeenkomsten.
 
 § 2. De Organisatie kan, bij besluit van de Algemene Vergadering, bevoegdheden, middelen en verplichtingen aan andere intergouvernementele organisaties overdragen krachtens met deze organisaties gesloten overeenkomsten.
 
@@ -212,7 +212,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 ##### Artikel 6. Uniforme regelen
 
-§ 1. Het internationale spoorwegverkeer en de toelating van spoorwegmaterieel tot gebruik in het internationale verkeer, worden, voorzover er geen verklaringen of voorbehouden overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01) zijn afgelegd of gemaakt, geregeld door:
+§ 1. Het internationale spoorwegverkeer en de toelating van spoorwegmaterieel tot gebruik in het internationale verkeer, worden, voorzover er geen verklaringen of voorbehouden overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01) zijn afgelegd of gemaakt, geregeld door:
 
 - a. de „Uniforme Regelen betreffende de overeenkomst van internationaal spoorwegvervoer van reizigers (CIV)”, Aanhangsel A bij het Verdrag,
 
@@ -228,13 +228,13 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 - g. de „Uniforme Regelen betreffende de technische toelating van spoorwegmaterieel dat wordt gebruikt in internationaal verkeer (ATMF)”, Aanhangsel G bij het Verdrag,
 
-- h. andere door de Organisatie, overeenkomstig [artikel 2, § 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2012-01-01&g=2012-01-01) ontwikkelde uniforme rechtsstelsels, die eveneens worden opgenomen in Aanhangsels bij het Verdrag.
+- h. andere door de Organisatie, overeenkomstig [artikel 2, § 2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2015-07-01&g=2015-07-01) ontwikkelde uniforme rechtsstelsels, die eveneens worden opgenomen in Aanhangsels bij het Verdrag.
 
 § 2. De Uniforme Regelen, het Reglement en de stelsels genoemd in § 1 vormen met hun Bijlagen een integrerend deel van het Verdrag.
 
 ##### Artikel 7. Omschrijving van het begrip „Verdrag”
 
-In de onderstaande bepalingen wordt onder het begrip „Verdrag” verstaan: het eigenlijke Verdrag, het in [artikel 1, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01) bedoelde Protocol en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=6&z=2012-01-01&g=2012-01-01) bedoelde Aanhangsels met hun Bijlagen.
+In de onderstaande bepalingen wordt onder het begrip „Verdrag” verstaan: het eigenlijke Verdrag, het in [artikel 1, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01) bedoelde Protocol en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=6&z=2015-07-01&g=2015-07-01) bedoelde Aanhangsels met hun Bijlagen.
 
 ## TITEL II. GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -304,7 +304,7 @@ De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter
 
 § 2. De Algemene Vergadering kan besluiten tot de tijdelijke instelling van andere commissies voor specifieke taken.
 
-§ 3. Bij de vaststelling van het quorum in de Algemene Vergadering en in de in § 1, onder c tot en met f bedoelde Commissies wordt geen rekening gehouden met de Lidstaten die geen stemrecht hebben ([artikel 14, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01), [artikel 26, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) of [artikel 40, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2012-01-01&g=2012-01-01)).
+§ 3. Bij de vaststelling van het quorum in de Algemene Vergadering en in de in § 1, onder c tot en met f bedoelde Commissies wordt geen rekening gehouden met de Lidstaten die geen stemrecht hebben ([artikel 14, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01), [artikel 26, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) of [artikel 40, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2015-07-01&g=2015-07-01)).
 
 § 4. Het voorzitterschap van de Algemene Vergadering, het voorzitterschap van het Comité van Beheer alsmede de functie van Secretaris-Generaal moeten in beginsel worden toebedeeld aan onderdanen van verschillende Lidstaten.
 
@@ -316,45 +316,45 @@ De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter
 
 - a. stelt haar huishoudelijk reglement op;
 
-- b. benoemt de leden van het Comité van Beheer alsook een plaatsvervangend lid voor ieder van hen en kiest de Lidstaat die het voorzitterschap van het Comité van Beheer zal bekleden ([artikel 15, §§ 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2012-01-01&g=2012-01-01));
+- b. benoemt de leden van het Comité van Beheer alsook een plaatsvervangend lid voor ieder van hen en kiest de Lidstaat die het voorzitterschap van het Comité van Beheer zal bekleden ([artikel 15, §§ 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2015-07-01&g=2015-07-01));
 
-- c. kiest de Secretaris-Generaal ([artikel 21, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=21&z=2012-01-01&g=2012-01-01));
+- c. kiest de Secretaris-Generaal ([artikel 21, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=21&z=2015-07-01&g=2015-07-01));
 
 - d. geeft richtlijnen betreffende de werkzaamheden van het Comité van Beheer en van de Secretaris-Generaal;
 
-- e. stelt, voor een periode van zes jaar, het maximale bedrag vast voor de uitgaven van de Organisatie in iedere begrotingsperiode ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=25&z=2012-01-01&g=2012-01-01)); bij gebreke hiervan, geeft zij voor een periode van maximaal zes jaar richtlijnen voor de begrenzing van deze uitgaven;
+- e. stelt, voor een periode van zes jaar, het maximale bedrag vast voor de uitgaven van de Organisatie in iedere begrotingsperiode ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=25&z=2015-07-01&g=2015-07-01)); bij gebreke hiervan, geeft zij voor een periode van maximaal zes jaar richtlijnen voor de begrenzing van deze uitgaven;
 
-- f. besluit of de zetel van de Organisatie in een andere plaats wordt gevestigd ([artikel 1, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01));
+- f. besluit of de zetel van de Organisatie in een andere plaats wordt gevestigd ([artikel 1, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01));
 
-- g. besluit over de invoering van andere werktalen ([artikel 1, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01));
+- g. besluit over de invoering van andere werktalen ([artikel 1, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01));
 
-- h. besluit over de overname van andere bevoegdheden door de Organisatie ([artikel 4, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2012-01-01&g=2012-01-01)) alsook over de overdracht van bevoegdheden van de Organisatie aan een andere intergouvernementele organisatie ([artikel 4, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2012-01-01&g=2012-01-01));
+- h. besluit over de overname van andere bevoegdheden door de Organisatie ([artikel 4, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2015-07-01&g=2015-07-01)) alsook over de overdracht van bevoegdheden van de Organisatie aan een andere intergouvernementele organisatie ([artikel 4, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2015-07-01&g=2015-07-01));
 
-- i. besluit, in voorkomend geval, tot de tijdelijke instelling van andere commissies voor specifieke taken ([artikel 13, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01));
+- i. besluit, in voorkomend geval, tot de tijdelijke instelling van andere commissies voor specifieke taken ([artikel 13, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01));
 
-- j. onderzoekt of de houding van een Staat moet worden beschouwd als een stilzwijgende opzegging ([artikel 26, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01));
+- j. onderzoekt of de houding van een Staat moet worden beschouwd als een stilzwijgende opzegging ([artikel 26, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01));
 
-- k. besluit over het opdragen van de uitvoering van de controle van de boekhouding aan een andere Lidstaat dan de Staat waar de zetel is gevestigd ([artikel 27, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2012-01-01&g=2012-01-01));
+- k. besluit over het opdragen van de uitvoering van de controle van de boekhouding aan een andere Lidstaat dan de Staat waar de zetel is gevestigd ([artikel 27, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2015-07-01&g=2015-07-01));
 
-- l. besluit over voorstellen tot wijziging van het Verdrag ([artikel 33, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01));
+- l. besluit over voorstellen tot wijziging van het Verdrag ([artikel 33, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01));
 
-- m. besluit over verzoeken tot toetreding die aan haar worden voorgelegd ([artikel 37, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2012-01-01&g=2012-01-01));
+- m. besluit over verzoeken tot toetreding die aan haar worden voorgelegd ([artikel 37, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2015-07-01&g=2015-07-01));
 
-- n. besluit over de voorwaarden voor toetreding door een regionale organisatie voor economische integratie ([artikel 38, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=38&z=2012-01-01&g=2012-01-01));
+- n. besluit over de voorwaarden voor toetreding door een regionale organisatie voor economische integratie ([artikel 38, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=38&z=2015-07-01&g=2015-07-01));
 
-- o. besluit over verzoeken tot associatie die aan haar worden voorgelegd ([artikel 39, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=39&z=2012-01-01&g=2012-01-01));
+- o. besluit over verzoeken tot associatie die aan haar worden voorgelegd ([artikel 39, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=39&z=2015-07-01&g=2015-07-01));
 
-- p. besluit over de ontbinding van de Organisatie en over de eventuele overdracht van haar bevoegdheden aan een andere intergouvernementele organisatie ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=43&z=2012-01-01&g=2012-01-01));
+- p. besluit over de ontbinding van de Organisatie en over de eventuele overdracht van haar bevoegdheden aan een andere intergouvernementele organisatie ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=43&z=2015-07-01&g=2015-07-01));
 
 - q. besluit over andere kwesties die op de agenda zijn geplaatst.
 
-§ 3. De Secretaris-Generaal roept de Algemene Vergadering bijeen eenmaal in de drie jaar dan wel op verzoek van een derde van de Lidstaten of van het Comité van Beheer, alsmede in de in de [artikelen 33, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01) en [37, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2012-01-01&g=2012-01-01) bedoelde gevallen. De Secretaris-Generaal zendt, uiterlijk drie maanden voor de opening van de zitting, de ontwerpagenda aan de Lidstaten, onder de in het in § 2, onder a bedoelde huishoudelijk reglement vastgestelde voorwaarden.
+§ 3. De Secretaris-Generaal roept de Algemene Vergadering bijeen eenmaal in de drie jaar dan wel op verzoek van een derde van de Lidstaten of van het Comité van Beheer, alsmede in de in de [artikelen 33, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01) en [37, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2015-07-01&g=2015-07-01) bedoelde gevallen. De Secretaris-Generaal zendt, uiterlijk drie maanden voor de opening van de zitting, de ontwerpagenda aan de Lidstaten, onder de in het in § 2, onder a bedoelde huishoudelijk reglement vastgestelde voorwaarden.
 
-§ 4. Het quorum van de Algemene Vergadering ([artikel 13 § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01)) wordt bereikt wanneer de meerderheid van de Lidstaten hierin is vertegenwoordigd. Een Lidstaat kan zich laten vertegenwoordigen door een andere Lidstaat; een Staat kan evenwel niet meer dan één andere Staat vertegenwoordigen.
+§ 4. Het quorum van de Algemene Vergadering ([artikel 13 § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01)) wordt bereikt wanneer de meerderheid van de Lidstaten hierin is vertegenwoordigd. Een Lidstaat kan zich laten vertegenwoordigen door een andere Lidstaat; een Staat kan evenwel niet meer dan één andere Staat vertegenwoordigen.
 
-§ 5. In geval van stemming in de Algemene Vergadering over wijzigingen van de Aanhangsels bij het Verdrag, hebben de Lidstaten die, overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01), een verklaring met betrekking tot het desbetreffende Aanhangsel hebben afgelegd, geen stemrecht.
+§ 5. In geval van stemming in de Algemene Vergadering over wijzigingen van de Aanhangsels bij het Verdrag, hebben de Lidstaten die, overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01), een verklaring met betrekking tot het desbetreffende Aanhangsel hebben afgelegd, geen stemrecht.
 
-§ 6. De besluiten van de Algemene Vergadering worden genomen met meerderheid van de bij de stemming vertegenwoordigde Lidstaten, behalve in de gevallen van § 2, onder e, f, g, h, l en p alsook van [artikel 34, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2012-01-01&g=2012-01-01) waarvoor een meerderheid van twee derde vereist is. In het geval van § 2, onder l is een meerderheid van twee derde evenwel niet vereist wanneer het voorstellen betreft tot wijziging van het eigenlijke Verdrag, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=9&z=2012-01-01&g=2012-01-01) en [27, §§ 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2012-01-01&g=2012-01-01) en van het in [artikel 1, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01) bedoelde Protocol.
+§ 6. De besluiten van de Algemene Vergadering worden genomen met meerderheid van de bij de stemming vertegenwoordigde Lidstaten, behalve in de gevallen van § 2, onder e, f, g, h, l en p alsook van [artikel 34, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2015-07-01&g=2015-07-01) waarvoor een meerderheid van twee derde vereist is. In het geval van § 2, onder l is een meerderheid van twee derde evenwel niet vereist wanneer het voorstellen betreft tot wijziging van het eigenlijke Verdrag, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=9&z=2015-07-01&g=2015-07-01) en [27, §§ 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2015-07-01&g=2015-07-01) en van het in [artikel 1, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01) bedoelde Protocol.
 
 § 7. Op uitnodiging van de Secretaris-Generaal, met instemming van de meerderheid van de Lidstaten, kunnen
 
@@ -388,19 +388,19 @@ met een adviserende stem deelnemen aan de zittingen van de Algemene Vergadering.
 
 - f. keurt het werkprogramma, de begroting, het verslag en de rekeningen van de Organisatie goed;
 
-- g. stelt op basis van de goedgekeurde rekeningen de door de Lidstaten overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) verschuldigde definitieve bijdrage vast voor de afgelopen twee kalenderjaren, alsook de hoogte van het door de Lidstaten overeenkomstig artikel 26, § 5 voor het lopende jaar en voor het volgende kalenderjaar verschuldigde voorschot;
+- g. stelt op basis van de goedgekeurde rekeningen de door de Lidstaten overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) verschuldigde definitieve bijdrage vast voor de afgelopen twee kalenderjaren, alsook de hoogte van het door de Lidstaten overeenkomstig artikel 26, § 5 voor het lopende jaar en voor het volgende kalenderjaar verschuldigde voorschot;
 
-- h. bepaalt de taken van de Organisatie die betrekking hebben op alle Lidstaten of slechts enkele Lidstaten, alsook de dientengevolge door deze Lidstaten te dragen uitgaven ([artikel 26, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01));
+- h. bepaalt de taken van de Organisatie die betrekking hebben op alle Lidstaten of slechts enkele Lidstaten, alsook de dientengevolge door deze Lidstaten te dragen uitgaven ([artikel 26, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01));
 
-- i. stelt de hoogte van de specifieke vergoedingen vast ([artikel 26, § 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01));
+- i. stelt de hoogte van de specifieke vergoedingen vast ([artikel 26, § 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01));
 
-- j. geeft bijzondere richtlijnen betreffende de controle van de boekhouding ([artikel 27, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2012-01-01&g=2012-01-01));
+- j. geeft bijzondere richtlijnen betreffende de controle van de boekhouding ([artikel 27, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2015-07-01&g=2015-07-01));
 
-- k. keurt goed dat de Organisatie administratieve taken op zich neemt ([artikel 4, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2012-01-01&g=2012-01-01)) en stelt de door de betrokken Lidstaat verschuldigde specifieke bijdrage vast;
+- k. keurt goed dat de Organisatie administratieve taken op zich neemt ([artikel 4, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2015-07-01&g=2015-07-01)) en stelt de door de betrokken Lidstaat verschuldigde specifieke bijdrage vast;
 
 - l. deelt aan de Lidstaten het verslag, de rekeningen alsmede zijn besluiten en aanbevelingen mede;
 
-- m. stelt een verslag op over zijn werkzaamheden, evenals voorstellen inzake zijn nieuwe samenstelling en deelt deze stukken, met het oog op de Algemene Vergadering die een besluit moet nemen omtrent zijn samenstelling ([artikel 14, § 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01)), uiterlijk twee maanden voor de opening van de zitting aan de Lidstaten mede;
+- m. stelt een verslag op over zijn werkzaamheden, evenals voorstellen inzake zijn nieuwe samenstelling en deelt deze stukken, met het oog op de Algemene Vergadering die een besluit moet nemen omtrent zijn samenstelling ([artikel 14, § 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01)), uiterlijk twee maanden voor de opening van de zitting aan de Lidstaten mede;
 
 - n. controleert het beheer van de Secretaris-Generaal;
 
@@ -408,9 +408,9 @@ met een adviserende stem deelnemen aan de zittingen van de Algemene Vergadering.
 
 - p. geeft met redenen omklede adviezen over vraagstukken die van belang kunnen zijn voor de werkzaamheden van de Organisatie en die het Comité worden voorgelegd door een Lidstaat of door de Secretaris-Generaal;
 
-- q. beslecht geschillen tussen een Lidstaat en de Secretaris-Generaal met betrekking tot zijn functie als depositaris ([artikel 36, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=36&z=2012-01-01&g=2012-01-01));
+- q. beslecht geschillen tussen een Lidstaat en de Secretaris-Generaal met betrekking tot zijn functie als depositaris ([artikel 36, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=36&z=2015-07-01&g=2015-07-01));
 
-- r. besluit over verzoeken om schorsing van het lidmaatschap ([artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2012-01-01&g=2012-01-01)).
+- r. besluit over verzoeken om schorsing van het lidmaatschap ([artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2015-07-01&g=2015-07-01)).
 
 § 6. Het quorum van het Comité wordt bereikt wanneer twee derde van de leden hierin is vertegenwoordigd. Een Lidstaat kan zich laten vertegenwoordigen door een andere Lidstaat; een lid kan evenwel niet meer dan één ander lid vertegenwoordigen.
 
@@ -432,7 +432,7 @@ met een adviserende stem deelnemen aan de zittingen van de Algemene Vergadering.
 
 ##### Artikel 16. Commissies
 
-§ 1. De in [artikel 13, § 1, onder c tot en met f en § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01) bedoelde Commissies zijn in beginsel samengesteld uit alle Lidstaten. Wanneer de Herzieningscommissie, de Commissie van RID-deskundigen of de Commissie van technisch deskundigen in het kader van hun bevoegdheden beraadslagen en besluiten over wijzigingen van de Aanhangsels bij het Verdrag, zijn de Lidstaten die, overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01), een verklaring hebben afgelegd met betrekking tot de desbetreffende Aanhangsels, geen lid van de betrokken Commissie.
+§ 1. De in [artikel 13, § 1, onder c tot en met f en § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01) bedoelde Commissies zijn in beginsel samengesteld uit alle Lidstaten. Wanneer de Herzieningscommissie, de Commissie van RID-deskundigen of de Commissie van technisch deskundigen in het kader van hun bevoegdheden beraadslagen en besluiten over wijzigingen van de Aanhangsels bij het Verdrag, zijn de Lidstaten die, overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01), een verklaring hebben afgelegd met betrekking tot de desbetreffende Aanhangsels, geen lid van de betrokken Commissie.
 
 § 2. De Secretaris-Generaal roept de Commissies bijeen hetzij op eigen initiatief, hetzij op verzoek van vijf Lidstaten of van het Comité van Beheer. De Secretaris-Generaal zendt de ontwerp-agenda uiterlijk twee maanden voor de opening van de zitting aan de Lidstaten.
 
@@ -472,13 +472,13 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 - b. onderzoekt de overeenkomstig artikel 33, § 2 ter beslissing aan de Algemene Vergadering voor te leggen voorstellen.
 
-§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01)) van de Herzieningscommissie wordt bereikt wanneer de meerderheid van de Lidstaten hierin is vertegenwoordigd.
+§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01)) van de Herzieningscommissie wordt bereikt wanneer de meerderheid van de Lidstaten hierin is vertegenwoordigd.
 
 ##### Artikel 18. Commissie van RID-deskundigen
 
-§ 1. De Commissie van RID-deskundigen besluit, overeenkomstig [artikel 33, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01), over voorstellen tot wijziging van het Verdrag.
+§ 1. De Commissie van RID-deskundigen besluit, overeenkomstig [artikel 33, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01), over voorstellen tot wijziging van het Verdrag.
 
-§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01)) van de Commissie van RID-deskundigen wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
+§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01)) van de Commissie van RID-deskundigen wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
 
 ##### Artikel 19. Commissie vergemakkelijking spoorwegverkeer
 
@@ -488,7 +488,7 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 - b. beveelt normen, methoden, procedures en handelwijzen aan met betrekking tot de vergemakkelijking van het spoorwegverkeer.
 
-§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01)) van de Commissie vergemakkelijking spoorwegverkeer wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
+§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01)) van de Commissie vergemakkelijking spoorwegverkeer wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
 
 ##### Artikel 20. Commissie van technisch deskundigen
 
@@ -500,11 +500,11 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 - c. ziet toe op de toepassing van de technische normen en de uniforme technische voorschriften met betrekking tot spoorwegmaterieel bestemd voor gebruik in het internationale verkeer en onderzoekt de ontwikkeling hiervan met het oog op de verbindendverklaring of aanneming hiervan overeenkomstig de in de artikelen 5 en 6 van de Uniforme Regelen APTU bedoelde procedures;
 
-- d. besluit, overeenkomstig [artikel 33, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01), over voorstellen tot wijziging van het Verdrag;
+- d. besluit, overeenkomstig [artikel 33, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01), over voorstellen tot wijziging van het Verdrag;
 
 - e. behandelt alle overige aangelegenheden die haar overeenkomstig de Uniforme Regelen APTU en Uniforme Regelen ATMF worden opgedragen.
 
-§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01)) van de Commissie van technisch deskundigen wordt bereikt wanneer de helft van de Lidstaten, in de zin van [artikel 16, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2012-01-01&g=2012-01-01), hierin is vertegenwoordigd. Bij het nemen van besluiten over de bepalingen van de Bijlagen van de Uniforme Regelen APTU hebben de Lidstaten die, overeenkomstig [artikel 35, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01), ten aanzien van de desbetreffende bepalingen bezwaar hebben gemaakt of, overeenkomstig artikel 9, § 1 van de Uniforme Regelen APTU, een verklaring hebben afgelegd, geen stemrecht.
+§ 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01)) van de Commissie van technisch deskundigen wordt bereikt wanneer de helft van de Lidstaten, in de zin van [artikel 16, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2015-07-01&g=2015-07-01), hierin is vertegenwoordigd. Bij het nemen van besluiten over de bepalingen van de Bijlagen van de Uniforme Regelen APTU hebben de Lidstaten die, overeenkomstig [artikel 35, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01), ten aanzien van de desbetreffende bepalingen bezwaar hebben gemaakt of, overeenkomstig artikel 9, § 1 van de Uniforme Regelen APTU, een verklaring hebben afgelegd, geen stemrecht.
 
 § 3. De Commissie van technisch deskundigen kan hetzij technische normen verbindend verklaren of uniforme technische voorschriften aannemen, hetzij weigeren deze verbindend te verklaren of aan te nemen; de Commissie van technisch deskundigen kan de normen of voorschriften in geen geval wijzigen.
 
@@ -516,21 +516,21 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 3. Tot de werkzaamheden van de Secretaris-Generaal behoort met name:
 
-- a. het vervullen van de taken van depositaris ([artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=36&z=2012-01-01&g=2012-01-01));
+- a. het vervullen van de taken van depositaris ([artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=36&z=2015-07-01&g=2015-07-01));
 
 - b. het naar buiten vertegenwoordigen van de Organisatie;
 
-- c. het aan de Lidstaten mededelen van de door de Algemene Vergadering en door de Commissies genomen besluiten ([artikel 34, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2012-01-01&g=2012-01-01); [artikel 35, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01));
+- c. het aan de Lidstaten mededelen van de door de Algemene Vergadering en door de Commissies genomen besluiten ([artikel 34, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2015-07-01&g=2015-07-01); [artikel 35, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01));
 
 - d. het uitvoeren van de taken die door de andere organen van de Organisatie aan hem worden toevertrouwd;
 
 - e. het onderzoeken van voorstellen van de Lidstaten tot wijziging van het Verdrag, eventueel met hulp van deskundigen;
 
-- f. het bijeenroepen van de Algemene Vergadering en de Commissies [(artikel 14, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01); [artikel 16, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2012-01-01&g=2012-01-01));
+- f. het bijeenroepen van de Algemene Vergadering en de Commissies [(artikel 14, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01); [artikel 16, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2015-07-01&g=2015-07-01));
 
 - g. het tijdig aan de Lidstaten toezenden van de documenten die nodig zijn voor de zittingen van de verschillende organen;
 
-- h. het opstellen van het werkprogramma, de ontwerpbegroting en het verslag van de Organisatie en het ter goedkeuring daarvan voorleggen aan het Comité van Beheer ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=25&z=2012-01-01&g=2012-01-01));
+- h. het opstellen van het werkprogramma, de ontwerpbegroting en het verslag van de Organisatie en het ter goedkeuring daarvan voorleggen aan het Comité van Beheer ([artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=25&z=2015-07-01&g=2015-07-01));
 
 - i. het beheren van de financiën van de Organisatie binnen het kader van de goedgekeurde begroting;
 
@@ -538,21 +538,21 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 - k. het op verzoek van alle betrokken partijen geven van adviezen over geschillen over de interpretatie of de toepassing van het Verdrag;
 
-- l. het vervullen van de taken die hem door [Titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) worden toegekend;
+- l. het vervullen van de taken die hem door [Titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2015-07-01&g=2015-07-01) worden toegekend;
 
-- m. het ontvangen van de mededelingen van de Lidstaten, internationale organisaties en verenigingen, bedoeld in [artikel 16, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2012-01-01&g=2012-01-01), en van de ondernemingen (vervoerders, infrastructuurbeheerders, enzovoort) die aan het internationale spoorwegverkeer deelnemen en eventueel het hiervan kennis geven aan de andere Lidstaten, internationale organisaties en verenigingen alsmede aan de ondernemingen;
+- m. het ontvangen van de mededelingen van de Lidstaten, internationale organisaties en verenigingen, bedoeld in [artikel 16, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2015-07-01&g=2015-07-01), en van de ondernemingen (vervoerders, infrastructuurbeheerders, enzovoort) die aan het internationale spoorwegverkeer deelnemen en eventueel het hiervan kennis geven aan de andere Lidstaten, internationale organisaties en verenigingen alsmede aan de ondernemingen;
 
 - n. het leiding geven aan het personeel van de Organisatie;
 
 - o. het tijdig op de hoogte stellen van de Lidstaten van de vacatures bij de Organisatie;
 
-- p. het bijhouden en publiceren van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) bedoelde lijsten van de lijnen.
+- p. het bijhouden en publiceren van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) bedoelde lijsten van de lijnen.
 
 § 4. De Secretaris-Generaal kan op eigen initiatief voorstellen doen tot wijziging van het Verdrag.
 
 ##### Artikel 22. Personeel van de Organisatie
 
-De rechten en plichten van het personeel van de Organisatie worden vastgelegd in het door het Comité van Beheer overeenkomstig [artikel 15, § 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2012-01-01&g=2012-01-01) opgestelde statuut van het personeel.
+De rechten en plichten van het personeel van de Organisatie worden vastgelegd in het door het Comité van Beheer overeenkomstig [artikel 15, § 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2015-07-01&g=2015-07-01) opgestelde statuut van het personeel.
 
 ##### Artikel 23. Tijdschrift
 
@@ -592,13 +592,13 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 ##### Artikel 26. Financiering van de uitgaven
 
-§ 1. Behoudens de §§ 2 tot en met 4 worden de uitgaven van de Organisatie die niet door andere inkomsten worden gedekt, gedragen door de Lidstaten voor twee vijfde deel, op basis van de verdeelsleutel voor de bijdragen van het stelsel van de Verenigde Naties, en voor drie vijfde naar evenredigheid van de totale lengte van de spoorweginfrastructuur alsook van de overeenkomstig [artikel 24, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) ingeschreven lijnen over zee en binnenwateren. De lijnen over zee en binnenwateren worden evenwel slechts gerekend voor de helft van hun lengte.
+§ 1. Behoudens de §§ 2 tot en met 4 worden de uitgaven van de Organisatie die niet door andere inkomsten worden gedekt, gedragen door de Lidstaten voor twee vijfde deel, op basis van de verdeelsleutel voor de bijdragen van het stelsel van de Verenigde Naties, en voor drie vijfde naar evenredigheid van de totale lengte van de spoorweginfrastructuur alsook van de overeenkomstig [artikel 24, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) ingeschreven lijnen over zee en binnenwateren. De lijnen over zee en binnenwateren worden evenwel slechts gerekend voor de helft van hun lengte.
 
 § 2. Wanneer een Lidstaat een voorbehoud overeenkomstig artikel 1, § 6 van de Uniforme Regelen CIV of overeenkomstig artikel 1, § 6 van de Uniforme Regelen CIM heeft gemaakt, wordt de in § 1 bedoelde formule voor de bijdragen als volgt toegepast:
 
-- a. in plaats van de totale lengte van de spoorweginfrastructuur op het grondgebied van die Lidstaat, wordt slechts rekening gehouden met de lengte van de spoorweglijnen die overeenkomstig [artikel 24, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) zijn ingeschreven;
+- a. in plaats van de totale lengte van de spoorweginfrastructuur op het grondgebied van die Lidstaat, wordt slechts rekening gehouden met de lengte van de spoorweglijnen die overeenkomstig [artikel 24, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) zijn ingeschreven;
 
-- b. het deel van de bijdrage volgens het stelsel van de Verenigde Naties wordt berekend naar evenredigheid van de lengte van de overeenkomstig [artikel 24, §§ 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) ingeschreven lijnen in verhouding tot de totale lengte van de spoorweginfrastructuur op het grondgebied van die Lidstaat en de lengte van de overeenkomstig artikel 24, § 1 ingeschreven lijnen; deze bijdrage kan in geen geval lager zijn dan 0,01 procent.
+- b. het deel van de bijdrage volgens het stelsel van de Verenigde Naties wordt berekend naar evenredigheid van de lengte van de overeenkomstig [artikel 24, §§ 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) ingeschreven lijnen in verhouding tot de totale lengte van de spoorweginfrastructuur op het grondgebied van die Lidstaat en de lengte van de overeenkomstig artikel 24, § 1 ingeschreven lijnen; deze bijdrage kan in geen geval lager zijn dan 0,01 procent.
 
 § 3. Iedere Lidstaat draagt ten minste 0,25 procent en ten hoogste 15 procent van de bijdragen.
 
@@ -608,7 +608,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 - b. op slechts enkele Lidstaten betrekking hebben en de uitgaven die volgens dezelfde formule door deze Lidstaten worden gedragen.
 
-§ 3 is van overeenkomstige toepassing. Deze bepalingen laten [artikel 4, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2012-01-01&g=2012-01-01) onverlet.
+§ 3 is van overeenkomstige toepassing. Deze bepalingen laten [artikel 4, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2015-07-01&g=2015-07-01) onverlet.
 
 § 5. De bijdragen van de Lidstaten aan de uitgaven van de Organisatie zijn verschuldigd in de vorm van een voorschot, betaalbaar in twee termijnen, uiterlijk op 31 oktober van ieder van de twee jaar waarop de begroting betrekking heeft. Het voorschot wordt vastgesteld op basis van de definitief verschuldigde bijdrage over de twee voorgaande jaren.
 
@@ -616,69 +616,23 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 § 7. Na 31 december van het jaar van de mededeling door de Secretaris-Generaal overeenkomstig § 6 is over de verschuldigde bedragen voor de twee voorgaande kalenderjaren rente verschuldigd ten bedrage van vijf procent per jaar. Indien een Lidstaat een jaar na deze datum zijn bijdrage niet heeft betaald, wordt zijn stemrecht geschorst, totdat hij aan de verplichting tot betaling heeft voldaan. Na verloop van nog eens twee jaar onderzoekt de Algemene Vergadering of de houding van die Staat moet worden beschouwd als een stilzwijgende opzegging van het Verdrag en stelt zij daarbij eventueel de datum vast waarop deze opzegging van kracht wordt.
 
-§ 8. De vervallen bijdragen blijven verschuldigd in de gevallen van opzegging krachtens § 7 of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2012-01-01&g=2012-01-01) alsmede in de in [artikel 40, § 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2012-01-01&g=2012-01-01) bedoelde gevallen van schorsing van het stemrecht.
+§ 8. De vervallen bijdragen blijven verschuldigd in de gevallen van opzegging krachtens § 7 of [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2015-07-01&g=2015-07-01) alsmede in de in [artikel 40, § 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=40&z=2015-07-01&g=2015-07-01) bedoelde gevallen van schorsing van het stemrecht.
 
 § 9. De niet-geïnde bijdragen worden gedekt uit de middelen van de Organisatie.
 
 § 10. De Lidstaat die het Verdrag heeft opgezegd, kan opnieuw Lidstaat worden door toetreding, op voorwaarde dat hij de door hem verschuldigde bedragen heeft betaald.
 
-§ 11. De Organisatie heft een vergoeding ter dekking van de bijzondere kosten die voortvloeien uit de in [artikel 21, § 3, onder j tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=21&z=2012-01-01&g=2012-01-01) bedoelde werkzaamheden. In de in artikel 21, § 3, onder j en k bedoelde gevallen wordt deze vergoeding vastgesteld door het Comité van Beheer op voorstel van de Secretaris-Generaal; in het in artikel 21, § 3, onder l bedoelde geval is [artikel 31, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=31&z=2012-01-01&g=2012-01-01) van toepassing.
+§ 11. De Organisatie heft een vergoeding ter dekking van de bijzondere kosten die voortvloeien uit de in [artikel 21, § 3, onder j tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=21&z=2015-07-01&g=2015-07-01) bedoelde werkzaamheden. In de in artikel 21, § 3, onder j en k bedoelde gevallen wordt deze vergoeding vastgesteld door het Comité van Beheer op voorstel van de Secretaris-Generaal; in het in artikel 21, § 3, onder l bedoelde geval is [artikel 31, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=31&z=2015-07-01&g=2015-07-01) van toepassing.
 
 ##### Artikel 27. Controle van de boekhouding
 
-§ 1. Tenzij de Algemene Vergadering overeenkomstig [artikel 14, § 2, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01) anders besluit, wordt de controle van de boekhouding uitgevoerd door de Lidstaat waar de zetel is gevestigd volgens de regels van dit artikel en, behoudens alle bijzondere richtlijnen van het Comité van Beheer, in overeenstemming met het reglement betreffende de financiën en de boekhouding van de Organisatie ([artikel 15, § 5, onder e](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2012-01-01&g=2012-01-01)).
+§ 1. Tenzij de Algemene Vergadering overeenkomstig [artikel 14, § 2, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01), anders besluit, wordt de controle van de boekhouding uitgevoerd door de Lidstaat waar de zetel is gevestigd volgens de regels van dit artikel en, behoudens alle bijzondere richtlijnen van het Comité van Beheer, in overeenstemming met het reglement betreffende de financiën en de boekhouding van de Organisatie ([artikel 15, § 5, onder e](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2015-07-01&g=2015-07-01)).
 
-§ 2. De controleur onderzoekt naar eigen inzicht de boekhouding van de Organisatie, met inbegrip van alle beheerde fondsen en speciale rekeningen, om zich ervan te vergewissen dat:
+§ 2. De controleur heeft te allen tijde onbeperkte inzage in alle boeken, geschriften, boekhoudkundige documenten en andere informatiebronnen die hij nodig meent te hebben.
 
-- a. de financiële staten overeenstemmen met de boeken en geschriften van de Organisatie;
+§ 3. De controleur deelt aan het Comité van Beheer en de Secretaris-Generaal zijn bevindingen mee als gevolg van de controle. Bovendien kan hij elk commentaar leveren dat hij passend acht betreffende het financieel verslag van de Secretaris-Generaal.
 
-- b. de financiële verrichtingen waarop die staten betrekking hebben, zijn uitgevoerd in overeenstemming met de voorschriften en reglementen, de budgettaire bepalingen en de andere richtlijnen van de Organisatie;
-
-- c. de waardepapieren en het contante geld die in een bank of kas zijn gedeponeerd gecontroleerd werden aan de hand van rechtstreeks van de depothouders ontvangen certificaten, of daadwerkelijk geteld werden;
-
-- d. de interne controles, met inbegrip van het interne onderzoek van de boekhouding, doeltreffend zijn;
-
-- e. alle activa en passiva, alsook alle overschotten en tekorten, zijn geboekt volgens procedures die hij bevredigend acht.
-
-§ 3. De controleur heeft te allen tijde onbeperkte inzage in alle boeken, geschriften, boekhoudkundige documenten en andere informatiebronnen die hij nodig meent te hebben.
-
-§ 4. De controleur vermeldt in zijn verslag over de financiële verrichtingen:
-
-- a. de aard en de draagwijdte van het door hem uitgevoerde onderzoek;
-
-- b. de elementen die verband houden met de volledigheid of de juistheid van de boekhouding, eventueel met inbegrip van:
-
-- 1. de voor de juiste interpretatie en de juiste beoordeling van de boekhouding vereiste gegevens;
-
-- 2. elk bedrag dat geïnd had moeten worden, maar niet geboekt is;
-
-- 3. elk bedrag dat een regelmatige of voorwaardelijke uitgavenverplichting inhoudt en dat niet geboekt is of waarmee in de financiële staten geen rekening is gehouden;
-
-- 4. de uitgaven waarvoor geen toereikende bewijsstukken zijn overgelegd;
-
-- 5. het bijhouden van de boeken in de goede en voorgeschreven wijze; gevallen waarin de vorm en inhoud van de financiële staten afwijken van de algemeen erkende en altijd gehanteerde boekhoudkundige beginselen moeten worden gemeld;
-
-- c. andere kwesties waarop de aandacht van het Comité van Beheer moet worden gevestigd, zoals:
-
-- 1. gevallen van fraude of vermoedelijke fraude;
-
-- 2. verspilling of onregelmatig gebruik van fondsen of andere tegoeden van de Organisatie (ook al zou de boekhouding in orde zijn op het punt van de uitgevoerde verrichting);
-
-- 3. uitgaven die op een later tijdstip aanzienlijke kosten voor de Organisatie zouden kunnen meebrengen;
-
-- 4. elke tekortkoming, algemeen of bijzonder, in het controlesysteem van de ontvangsten en uitgaven of de leveringen en het materiaal;
-
-- 5. uitgaven die niet stroken met de intenties van het Comité van Beheer, rekening houdend met officieel toegestane overboekingen binnen de begroting;
-
-- 6. kredietoverschrijdingen, rekening houdend met de wijzigingen voortvloeiend uit officieel toegestane overboekingen binnen de begroting;
-
-- 7. uitgaven die niet overeenstemmen met de daarvoor geldende machtigingen;
-
-- d. de juistheid of onjuistheid van de boekhouding inzake de leveringen en het materiaal, vastgesteld op basis van de inventarisatie en de controle van de boeken.
-
-Bovendien kan het verslag handelen over verrichtingen die tijdens een vorige begrotingsperiode werden geboekt en waarover nieuwe gegevens verkregen werden, alsook over verrichtingen die in de loop van een volgende begrotingsperiode moeten plaatsvinden en waarvan het wenselijk lijkt dat het Comité van Beheer er vooraf van op de hoogte wordt gesteld.
-
-§ 5. De controleur deelt aan het Comité van Beheer en de Secretaris-Generaal zijn bevindingen mee als gevolg van de controle. Bovendien kan hij elk commentaar leveren dat hij passend acht betreffende het financieel verslag van de Secretaris-Generaal.
+§ 4. Het mandaat inzake controle van de boekhouding wordt omschreven in het reglement betreffende de financiën en de boekhouding en door het daaraan gehechte aanvullende mandaat.
 
 ## TITEL V. ARBITRAGE
 
@@ -686,7 +640,7 @@ Bovendien kan het verslag handelen over verrichtingen die tijdens een vorige beg
 
 § 1. De geschillen tussen de Lidstaten voortvloeiende uit de interpretatie of de toepassing van het Verdrag, alsmede de geschillen tussen de Lidstaten en de Organisatie voortvloeiende uit de interpretatie of de toepassing van het Protocol over de voorrechten en immuniteiten, kunnen, op verzoek van een van de partijen, worden voorgelegd aan een scheidsgerecht. De partijen zijn vrij te beslissen over de samenstelling van het scheidsgerecht en over de scheidsrechterlijke procedure.
 
-§ 2. De andere geschillen voortvloeiende uit de interpretatie of de toepassing van het Verdrag of van andere, in overeenstemming met [artikel 2, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2012-01-01&g=2012-01-01) door de Organisatie opgestelde verdragen, indien zij niet in der minne zijn geregeld of ter beslissing zijn voorgelegd aan de gewone rechter, kunnen in onderling overleg tussen de betrokken partijen worden voorgelegd aan een scheidsgerecht. De [artikelen 29 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=29&z=2012-01-01&g=2012-01-01) zijn van toepassing op de samenstelling van het scheidsgerecht en op de scheidsrechterlijke procedure.
+§ 2. De andere geschillen voortvloeiende uit de interpretatie of de toepassing van het Verdrag of van andere, in overeenstemming met [artikel 2, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2015-07-01&g=2015-07-01) door de Organisatie opgestelde verdragen, indien zij niet in der minne zijn geregeld of ter beslissing zijn voorgelegd aan de gewone rechter, kunnen in onderling overleg tussen de betrokken partijen worden voorgelegd aan een scheidsgerecht. De [artikelen 29 tot en met 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=29&z=2015-07-01&g=2015-07-01) zijn van toepassing op de samenstelling van het scheidsgerecht en op de scheidsrechterlijke procedure.
 
 § 3. Iedere Staat kan zich, bij zijn verzoek om toetreding tot het Verdrag, het recht voorbehouden het bepaalde in § 1 en § 2 niet of slechts voor een gedeelte toe te passen.
 
@@ -742,19 +696,19 @@ De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt ger
 
 § 2. De Algemene Vergadering beslist over de voorstellen tot wijziging van het Verdrag, voorzover in de §§ 4 tot en met 6 niets anders is bepaald.
 
-§ 3. Wanneer een wijzigingsvoorstel is voorgelegd aan de Algemene Vergadering kan deze met de in [artikel 14, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2012-01-01&g=2012-01-01) bedoelde meerderheid besluiten, dat dit voorstel naar zijn aard nauw verband houdt met een of meer bepalingen van de Aanhangsels bij het Verdrag. In dit geval, alsook in de in de §§ 4 tot en met 6, tweede volzin bedoelde gevallen is de Algemene Vergadering eveneens bevoegd een besluit te nemen over de wijziging van deze bepaling of bepalingen van de Aanhangsels.
+§ 3. Wanneer een wijzigingsvoorstel is voorgelegd aan de Algemene Vergadering kan deze met de in [artikel 14, § 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2015-07-01&g=2015-07-01) bedoelde meerderheid besluiten, dat dit voorstel naar zijn aard nauw verband houdt met een of meer bepalingen van de Aanhangsels bij het Verdrag. In dit geval, alsook in de in de §§ 4 tot en met 6, tweede volzin bedoelde gevallen is de Algemene Vergadering eveneens bevoegd een besluit te nemen over de wijziging van deze bepaling of bepalingen van de Aanhangsels.
 
 § 4. Behoudens de besluiten van de Algemene Vergadering, genomen volgens § 3, eerste volzin, beslist de Herzieningscommissie over de wijzigingsvoorstellen met betrekking tot:
 
-- a. de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=9&z=2012-01-01&g=2012-01-01) en [27, §§ 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2012-01-01&g=2012-01-01);
+- a. de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=9&z=2015-07-01&g=2015-07-01) en [27, §§ 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=27&z=2015-07-01&g=2015-07-01);
 
-- b. de Uniforme Regelen CIV, met uitzondering van de artikelen 1, 2, 5, [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=16&z=2012-01-01&g=2012-01-01), [26 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2012-01-01&g=2012-01-01), [41 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2012-01-01&g=2012-01-01) en [56 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2012-01-01&g=2012-01-01);
+- b. de Uniforme Regelen CIV, met uitzondering van de artikelen 1, 2, 5, [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=6&z=2015-07-01&g=2015-07-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=16&z=2015-07-01&g=2015-07-01), [26 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2015-07-01&g=2015-07-01), [41 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2015-07-01&g=2015-07-01) en [56 tot en met 60](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2015-07-01&g=2015-07-01);
 
-- c. de Uniforme Regelen CIM, met uitzondering van de artikelen 1, 5, 6, §§ 1 en 2, de artikelen 8, 12, [13, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=13&z=2012-01-01&g=2012-01-01), de artikelen 14, [15, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=15&z=2012-01-01&g=2012-01-01), [artikel 19, §§ 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2012-01-01&g=2012-01-01), alsmede de artikelen 23 tot en met 27, [30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01), [36 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=36&z=2012-01-01&g=2012-01-01) en [44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=44&z=2012-01-01&g=2012-01-01);
+- c. de Uniforme Regelen CIM, met uitzondering van de artikelen 1, 5, 6, §§ 1 en 2, de artikelen 8, 12, [13, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=13&z=2015-07-01&g=2015-07-01), de artikelen 14, [15, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=15&z=2015-07-01&g=2015-07-01), [artikel 19, §§ 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2015-07-01&g=2015-07-01), alsmede de artikelen 23 tot en met 27, [30 tot en met 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01), [36 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=36&z=2015-07-01&g=2015-07-01) en [44 tot en met 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=44&z=2015-07-01&g=2015-07-01);
 
 - d. de Uniforme Regelen CUV, met uitzondering van de artikelen 1, 4, 5 en 7 tot en met 12;
 
-- e. de Uniforme Regelen CUI, met uitzondering van de artikelen 1, 2, 4, [8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2012-01-01&g=2012-01-01), 17 tot en met 19, [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=21&z=2012-01-01&g=2012-01-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=23&z=2012-01-01&g=2012-01-01);
+- e. de Uniforme Regelen CUI, met uitzondering van de artikelen 1, 2, 4, [8 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2015-07-01&g=2015-07-01), 17 tot en met 19, [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=21&z=2015-07-01&g=2015-07-01) en [23 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=23&z=2015-07-01&g=2015-07-01);
 
 - f. de Uniforme Regelen APTU , met uitzondering van de artikelen 1, 3 en 9 tot en met 11, alsmede de Bijlagen van deze Uniforme Regelen;
 
@@ -772,7 +726,7 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 2. De wijzigingen van het Verdrag zelf, waartoe de Algemene Vergadering heeft besloten, treden twaalf maanden na goedkeuring daarvan door twee derde van de Lidstaten in werking voor alle Lidstaten met uitzondering van die welke, voordat de wijzigingen van kracht worden, een verklaring hebben afgelegd waarin zij stellen dat zij de genoemde wijzigingen niet goedkeuren.
 
-§ 3. De wijzigingen van de Aanhangsels bij het Verdrag waartoe de Algemene Vergadering heeft besloten, treden twaalf maanden na goedkeuring daarvan door de helft van de Lidstaten die geen verklaring overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01) hebben afgelegd, in werking voor alle Lidstaten met uitzondering van die welke, voordat de wijzigingen in werking treden, een verklaring hebben afgelegd waarin zij stellen dat zij de genoemde wijzigingen niet goedkeuren en van die welke een verklaring overeenkomstig artikel 42, § 1, eerste volzin hebben afgelegd.
+§ 3. De wijzigingen van de Aanhangsels bij het Verdrag waartoe de Algemene Vergadering heeft besloten, treden twaalf maanden na goedkeuring daarvan door de helft van de Lidstaten die geen verklaring overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01) hebben afgelegd, in werking voor alle Lidstaten met uitzondering van die welke, voordat de wijzigingen in werking treden, een verklaring hebben afgelegd waarin zij stellen dat zij de genoemde wijzigingen niet goedkeuren en van die welke een verklaring overeenkomstig artikel 42, § 1, eerste volzin hebben afgelegd.
 
 § 4. De Lidstaten doen de Secretaris-Generaal hun kennisgevingen toekomen inzake de goedkeuring van de wijzigingen van het Verdrag waartoe de Algemene Vergadering heeft besloten, alsmede hun verklaringen waarin zij stellen dat zij deze wijzigingen niet goedkeuren. De Secretaris-Generaal stelt de andere Lidstaten hiervan op de hoogte.
 
@@ -820,27 +774,27 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 4. In geval van bezwaar van ten minste vijf Lidstaten binnen de in § 3 bedoelde termijn, wordt het verzoek tot toetreding voorgelegd aan de Algemene Vergadering, die daarover een besluit neemt.
 
-§ 5. Behoudens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01), kan elke toetreding tot het Verdrag slechts betrekking hebben op het Verdrag in de versie die geldt op het tijdstip waarop de toetreding van kracht wordt.
+§ 5. Behoudens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01), kan elke toetreding tot het Verdrag slechts betrekking hebben op het Verdrag in de versie die geldt op het tijdstip waarop de toetreding van kracht wordt.
 
 ##### Artikel 38. Toetreding door regionale organisaties voor economische integratie
 
 § 1. De toetreding tot het Verdrag staat open voor regionale organisaties voor economische integratie die zelf de bevoegdheid hebben voor hun leden bindende wetgeving aan te nemen met betrekking tot de aangelegenheden die in dit Verdrag worden geregeld en waarvan een of meer Lidstaten lid zijn. De voorwaarden van deze toetreding worden vastgelegd in een overeenkomst tussen de Organisatie en de regionale organisatie.
 
-§ 2. De regionale organisatie kan de rechten die haar leden krachtens het Verdrag bezitten, uitoefenen voorzover deze rechten betrekking hebben op aangelegenheden die onder haar bevoegdheid vallen. Dit geldt eveneens voor de verplichtingen die ingevolge dit Verdrag op de Lidstaten rusten, met uitzondering van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01) bedoelde financiële verplichtingen.
+§ 2. De regionale organisatie kan de rechten die haar leden krachtens het Verdrag bezitten, uitoefenen voorzover deze rechten betrekking hebben op aangelegenheden die onder haar bevoegdheid vallen. Dit geldt eveneens voor de verplichtingen die ingevolge dit Verdrag op de Lidstaten rusten, met uitzondering van de in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01) bedoelde financiële verplichtingen.
 
-§ 3. Met betrekking tot de uitoefening van het in [artikel 35, §§ 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01) bedoelde stemrecht en recht van bezwaar, beschikt de regionale organisatie over een aantal stemmen dat gelijk is aan haar aantal leden die tevens Lidstaten van de Organisatie zijn. Deze laatste kunnen hun rechten, met name het stemrecht, slechts uitoefenen voorzover § 2 dit toelaat. Ten aanzien van [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&z=2012-01-01&g=2012-01-01) heeft de regionale organisatie geen stemrecht.
+§ 3. Met betrekking tot de uitoefening van het in [artikel 35, §§ 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01) bedoelde stemrecht en recht van bezwaar, beschikt de regionale organisatie over een aantal stemmen dat gelijk is aan haar aantal leden die tevens Lidstaten van de Organisatie zijn. Deze laatste kunnen hun rechten, met name het stemrecht, slechts uitoefenen voorzover § 2 dit toelaat. Ten aanzien van [Titel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&z=2015-07-01&g=2015-07-01) heeft de regionale organisatie geen stemrecht.
 
-§ 4. Voor de beëindiging van het lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+§ 4. Voor de beëindiging van het lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 39. Geassocieerde leden
 
-§ 1. Elke Staat op het grondgebied waarvan een spoorweginfrastructuur wordt geëxploiteerd, kan geassocieerd lid van de Organisatie worden. [Artikel 37, §§ 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+§ 1. Elke Staat op het grondgebied waarvan een spoorweginfrastructuur wordt geëxploiteerd, kan geassocieerd lid van de Organisatie worden. [Artikel 37, §§ 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing.
 
-§ 2. Een geassocieerd lid kan slechts met een adviserende stem deelnemen aan de werkzaamheden van de in [artikel 13, § 1, onder a en c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01) bedoelde organen.
+§ 2. Een geassocieerd lid kan slechts met een adviserende stem deelnemen aan de werkzaamheden van de in [artikel 13, § 1, onder a en c tot en met f](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01) bedoelde organen.
 
-Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Beheer. Een geassocieerd lid draagt met 0,25 procent van de bijdragen bij aan de uitgaven van de Organisatie ([artikel 26, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2012-01-01&g=2012-01-01)).
+Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Beheer. Een geassocieerd lid draagt met 0,25 procent van de bijdragen bij aan de uitgaven van de Organisatie ([artikel 26, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=26&z=2015-07-01&g=2015-07-01)).
 
-§ 3. Voor de beëindiging van het geassocieerd lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing.
+§ 3. Voor de beëindiging van het geassocieerd lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing.
 
 ##### Artikel 40. Schorsing van het lidmaatschap
 
@@ -856,7 +810,7 @@ Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Behe
 
 - b. het stemrecht in de organen van de Organisatie wordt geschorst;
 
-- c. het recht van bezwaar ingevolge [artikel 34, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2012-01-01&g=2012-01-01) en ingevolge [artikel 35, §§ 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01) wordt geschorst.
+- c. het recht van bezwaar ingevolge [artikel 34, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2015-07-01&g=2015-07-01) en ingevolge [artikel 35, §§ 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01) wordt geschorst.
 
 ##### Artikel 41. Opzegging van het Verdrag
 
@@ -878,7 +832,7 @@ Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Behe
 
 ##### Artikel 44. Overgangsbepaling
 
-In de gevallen bedoeld in [artikel 34, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2012-01-01&g=2012-01-01), [artikel 35, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01), [artikel 41, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2012-01-01&g=2012-01-01) en [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01), blijft het recht dat gold op het tijdstip van het sluiten van de overeenkomsten onderworpen aan de Uniforme Regelen CIV, de Uniforme Regelen CIM, de Uniforme Regelen CUV of de Uniforme Regelen CUI van toepassing op bestaande overeenkomsten.
+In de gevallen bedoeld in [artikel 34, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2015-07-01&g=2015-07-01), [artikel 35, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01), [artikel 41, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2015-07-01&g=2015-07-01) en [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01), blijft het recht dat gold op het tijdstip van het sluiten van de overeenkomsten onderworpen aan de Uniforme Regelen CIV, de Uniforme Regelen CIM, de Uniforme Regelen CUV of de Uniforme Regelen CUI van toepassing op bestaande overeenkomsten.
 
 ##### Artikel 45. Teksten van het Verdrag
 
@@ -922,7 +876,7 @@ Indien een onteigening om redenen van algemeen belang noodzakelijk is, moeten al
 
 ##### Artikel 5. Officiële werkzaamheden
 
-De in dit Protocol bedoelde officiële werkzaamheden van de Organisatie zijn de werkzaamheden die overeenstemmen met de doelstellingen omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2012-01-01&g=2012-01-01) van de Organisatie.
+De in dit Protocol bedoelde officiële werkzaamheden van de Organisatie zijn de werkzaamheden die overeenstemmen met de doelstellingen omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2015-07-01&g=2015-07-01) van de Organisatie.
 
 ##### Artikel 6. Geldverkeer
 
@@ -998,11 +952,11 @@ De deskundigen op wie de Organisatie een beroep doet, genieten, wanneer zij func
 
 Geen enkele Lidstaat is verplicht de voorrechten en immuniteiten genoemd:
 
-- a. in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=8&z=2012-01-01&g=2012-01-01), met uitzondering van onder d,
+- a. in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=8&z=2015-07-01&g=2015-07-01), met uitzondering van onder d,
 
-- b. in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=9&z=2012-01-01&g=2012-01-01), met uitzondering van onder a, b en d,
+- b. in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=9&z=2015-07-01&g=2015-07-01), met uitzondering van onder a, b en d,
 
-- c. in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=10&z=2012-01-01&g=2012-01-01), met uitzondering van onder a en b
+- c. in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=10&z=2015-07-01&g=2015-07-01), met uitzondering van onder a en b
 
 te verlenen aan zijn eigen onderdanen of aan de personen die in deze Staat hun permanente woonplaats hebben.
 
@@ -1018,7 +972,7 @@ De Organisatie kan met een of verscheidene Lidstaten aanvullende overeenkomsten 
 
 § 2. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het grensoverschrijdende vervoer per spoor, een binnenlands vervoer over de weg of over binnenwateren van een Lidstaat omvat, zijn deze Uniforme Regelen van toepassing.
 
-§ 3. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het vervoer per spoor, een vervoer over zee of een grensoverschrijdend vervoer over binnenwateren omvat, zijn deze Uniforme Regelen van toepassing, indien het vervoer over zee of het vervoer over binnenwateren wordt uitgevoerd over de lijnen die zijn ingeschreven op de in [artikel 24, § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) bedoelde lijst van de lijnen.
+§ 3. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het vervoer per spoor, een vervoer over zee of een grensoverschrijdend vervoer over binnenwateren omvat, zijn deze Uniforme Regelen van toepassing, indien het vervoer over zee of het vervoer over binnenwateren wordt uitgevoerd over de lijnen die zijn ingeschreven op de in [artikel 24, § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) bedoelde lijst van de lijnen.
 
 § 4. Deze Uniforme Regelen zijn, voor wat betreft de aansprakelijkheid van de vervoerder in geval van dood of letsel van reizigers, eveneens van toepassing op personen die een zending begeleiden die wordt vervoerd overeenkomstig de Uniforme Regelen betreffende de overeenkomst van internationaal spoorwegvervoer van goederen (CIM).
 
@@ -1160,7 +1114,7 @@ De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meene
 
 § 1. De contractuele verplichtingen met betrekking tot het vervoer van bagage moeten worden vastgelegd in een bagagebewijs dat aan de reiziger wordt overhandigd.
 
-§ 2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2012-01-01&g=2012-01-01) tast het ontbreken, de onregelmatigheid of het verlies van het bagagebewijs noch het bestaan, noch de geldigheid aan van bedingen met betrekking tot het vervoer van bagage, die onderworpen blijven aan deze Uniforme Regelen.
+§ 2. Onverminderd [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2015-07-01&g=2015-07-01) tast het ontbreken, de onregelmatigheid of het verlies van het bagagebewijs noch het bestaan, noch de geldigheid aan van bedingen met betrekking tot het vervoer van bagage, die onderworpen blijven aan deze Uniforme Regelen.
 
 § 3. Het bagagebewijs levert volledig bewijs, behoudens tegenbewijs, van de inschrijving van de bagage en van de voorwaarden van het vervoer ervan.
 
@@ -1168,7 +1122,7 @@ De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meene
 
 ##### Artikel 17. Bagagebewijs
 
-§ 1. De Algemene vervoervoorwaarden bepalen de vorm en de inhoud van het bagagebewijs, alsmede de taal waarin en de lettertekens waarmee het moet worden gedrukt en ingevuld. [Artikel 7, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+§ 1. De Algemene vervoervoorwaarden bepalen de vorm en de inhoud van het bagagebewijs, alsmede de taal waarin en de lettertekens waarmee het moet worden gedrukt en ingevuld. [Artikel 7, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing.
 
 § 2. Op het bagagebewijs moet ten minste worden vermeld:
 
@@ -1238,7 +1192,7 @@ De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoerv
 
 § 1. De contractuele verplichtingen met betrekking tot het vervoer van voertuigen moeten worden vastgelegd in een vervoerbewijs dat aan de reiziger wordt overhandigd. Dit vervoerbewijs kan deel uitmaken van het vervoerbewijs van de reiziger.
 
-§ 2. De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoervoorwaarden regelen de vorm en de inhoud van het vervoerbewijs, alsmede de taal waarin en de lettertekens waarmee het moet worden gedrukt en ingevuld. [Artikel 7, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+§ 2. De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoervoorwaarden regelen de vorm en de inhoud van het vervoerbewijs, alsmede de taal waarin en de lettertekens waarmee het moet worden gedrukt en ingevuld. [Artikel 7, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing.
 
 § 3. Op het vervoerbewijs moet ten minste worden vermeld:
 
@@ -1252,7 +1206,7 @@ De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoerv
 
 ##### Artikel 25. Toepasselijk recht
 
-Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&z=2012-01-01&g=2012-01-01) betreffende het vervoer van bagage van toepassing op voertuigen.
+Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&z=2015-07-01&g=2015-07-01) betreffende het vervoer van bagage van toepassing op voertuigen.
 
 ## TITEL IV. AANSPRAKELIJKHEID VAN DE VERVOERDER
 
@@ -1282,7 +1236,7 @@ Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III]
 
 - a. de ten gevolge van het overlijden noodzakelijke kosten, met name die van het vervoer van het stoffelijk overschot en de lijkbezorging;
 
-- b. indien de dood niet onmiddellijk is ingetreden, de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2012-01-01&g=2012-01-01) bedoelde schadevergoeding.
+- b. indien de dood niet onmiddellijk is ingetreden, de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2015-07-01&g=2015-07-01) bedoelde schadevergoeding.
 
 § 2. Indien door de dood van de reiziger andere personen, jegens wie hij een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de reiziger zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
@@ -1296,11 +1250,11 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel van de rei
 
 ##### Artikel 29. Vergoeding van andere personenschade
 
-Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2012-01-01&g=2012-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2012-01-01&g=2012-01-01) bedoelde personenschade moet vergoeden.
+Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2015-07-01&g=2015-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2015-07-01&g=2015-07-01) bedoelde personenschade moet vergoeden.
 
 ##### Artikel 30. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
-§ 1. De in de [artikelen 27, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2012-01-01&g=2012-01-01) en [28 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2012-01-01&g=2012-01-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de gewonde reiziger of de in artikel 27, § 2 bedoelde rechthebbenden zulks verlangen.
+§ 1. De in de [artikelen 27, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2015-07-01&g=2015-07-01) en [28 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2015-07-01&g=2015-07-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de gewonde reiziger of de in artikel 27, § 2 bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per reiziger een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
@@ -1308,7 +1262,7 @@ Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in d
 
 § 1. Behoudens § 2 zijn de bepalingen betreffende de aansprakelijkheid in geval van dood en letsel van reizigers niet van toepassing op schade die is ontstaan tijdens het vervoer dat overeenkomstig de vervoerovereenkomst geen spoorwegvervoer was.
 
-§ 2. Wanneer evenwel spoorvoertuigen per veerboot worden vervoerd, zijn de bepalingen betreffende de aansprakelijkheid in geval van dood en letsel van reizigers van toepassing op de in [artikel 26, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2012-01-01&g=2012-01-01) en [artikel 33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01) bedoelde schade veroorzaakt door een ongeval in verband met de uitoefening van het spoorwegbedrijf dat aan de reiziger is overkomen tijdens zijn verblijf in die voertuigen of bij het in- of uitstappen.
+§ 2. Wanneer evenwel spoorvoertuigen per veerboot worden vervoerd, zijn de bepalingen betreffende de aansprakelijkheid in geval van dood en letsel van reizigers van toepassing op de in [artikel 26, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2015-07-01&g=2015-07-01) en [artikel 33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2015-07-01&g=2015-07-01) bedoelde schade veroorzaakt door een ongeval in verband met de uitoefening van het spoorwegbedrijf dat aan de reiziger is overkomen tijdens zijn verblijf in die voertuigen of bij het in- of uitstappen.
 
 § 3. Wanneer de uitoefening van het spoorwegbedrijf ten gevolge van buitengewone omstandigheden tijdelijk wordt onderbroken en de reizigers met een ander vervoermiddel worden vervoerd, is de vervoerder krachtens deze Uniforme Regelen aansprakelijk.
 
@@ -1326,7 +1280,7 @@ Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in d
 
 - c. het gedrag van een derde, dat de vervoerder, ondanks de zorgvuldigheid vereist in de omstandigheden van het geval, niet kon vermijden en waarvan hij de gevolgen niet kon verhinderen; een andere onderneming die dezelfde spoorweginfrastructuur gebruikt, wordt niet aangemerkt als een derde; het recht van regres wordt niet aangetast.
 
-§ 3. Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in § 1 bedoelde schade moet vergoeden. Deze bepaling laat [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=3&artikel=44&z=2012-01-01&g=2012-01-01) onverlet.
+§ 3. Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in § 1 bedoelde schade moet vergoeden. Deze bepaling laat [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=3&artikel=44&z=2015-07-01&g=2015-07-01) onverlet.
 
 ### HOOFDSTUK III. AANSPRAKELIJKHEID VOOR HANDBAGAGE, DIEREN, BAGAGE EN VOERTUIGEN
 
@@ -1334,13 +1288,13 @@ Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in d
 
 ##### Artikel 33. Aansprakelijkheid
 
-§ 1. In geval van dood en letsel van reizigers is de vervoerder bovendien aansprakelijk voor de schade ten gevolge van het gehele of gedeeltelijke verlies of van beschadiging van voorwerpen die de reiziger bij zich droeg of als handbagage bij zich had; dit geldt eveneens voor de dieren die de reiziger meegenomen had. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2012-01-01&g=2012-01-01) is van overeenkomstige toepassing.
+§ 1. In geval van dood en letsel van reizigers is de vervoerder bovendien aansprakelijk voor de schade ten gevolge van het gehele of gedeeltelijke verlies of van beschadiging van voorwerpen die de reiziger bij zich droeg of als handbagage bij zich had; dit geldt eveneens voor de dieren die de reiziger meegenomen had. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2015-07-01&g=2015-07-01) is van overeenkomstige toepassing.
 
-§ 2. Overigens is de vervoerder slechts aansprakelijk voor schade ten gevolge van het gehele of gedeeltelijke verlies van voorwerpen, handbagage of dieren, waarover de reiziger overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=II&artikel=15&z=2012-01-01&g=2012-01-01) verplicht is toezicht uit te oefenen, indien deze schade wordt veroorzaakt door schuld van de vervoerder. De overige artikelen van Titel IV, met uitzondering van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=51&z=2012-01-01&g=2012-01-01), en Titel VI zijn in dit geval niet van toepassing.
+§ 2. Overigens is de vervoerder slechts aansprakelijk voor schade ten gevolge van het gehele of gedeeltelijke verlies van voorwerpen, handbagage of dieren, waarover de reiziger overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=II&artikel=15&z=2015-07-01&g=2015-07-01) verplicht is toezicht uit te oefenen, indien deze schade wordt veroorzaakt door schuld van de vervoerder. De overige artikelen van Titel IV, met uitzondering van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=51&z=2015-07-01&g=2015-07-01), en Titel VI zijn in dit geval niet van toepassing.
 
 ##### Artikel 34. Beperking van schadevergoeding in geval van verlies of beschadiging van voorwerpen
 
-Wanneer de vervoerder krachtens [artikel 33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01) aansprakelijk is, moet hij de schade vergoeden tot ten hoogste 1400 rekeneenheden per reiziger.
+Wanneer de vervoerder krachtens [artikel 33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2015-07-01&g=2015-07-01) aansprakelijk is, moet hij de schade vergoeden tot ten hoogste 1400 rekeneenheden per reiziger.
 
 ##### Artikel 35. Ontheffing van aansprakelijkheid
 
@@ -1364,9 +1318,9 @@ De vervoerder is jegens de reiziger niet aansprakelijk voor schade ten gevolge v
 
 ##### Artikel 37. Bewijslast
 
-§ 1. Het bewijs dat het verlies, de beschadiging of de vertraging in de aflevering door een van de in [artikel 36, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2012-01-01&g=2012-01-01) genoemde feiten is veroorzaakt, rust op de vervoerder.
+§ 1. Het bewijs dat het verlies, de beschadiging of de vertraging in de aflevering door een van de in [artikel 36, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2015-07-01&g=2015-07-01) genoemde feiten is veroorzaakt, rust op de vervoerder.
 
-§ 2. Wanneer de vervoerder bewijst dat het verlies of de beschadiging, gelet op de omstandigheden van het geval, kan zijn ontstaan uit een of meer van de in [artikel 36, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2012-01-01&g=2012-01-01) genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging daardoor is veroorzaakt. De rechthebbende heeft evenwel het recht te bewijzen dat de schade geheel of gedeeltelijk niet door een van deze risico's is veroorzaakt.
+§ 2. Wanneer de vervoerder bewijst dat het verlies of de beschadiging, gelet op de omstandigheden van het geval, kan zijn ontstaan uit een of meer van de in [artikel 36, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2015-07-01&g=2015-07-01) genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging daardoor is veroorzaakt. De rechthebbende heeft evenwel het recht te bewijzen dat de schade geheel of gedeeltelijk niet door een van deze risico's is veroorzaakt.
 
 ##### Artikel 38. Opvolgende vervoerders
 
@@ -1376,7 +1330,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 1. Wanneer de vervoerder de uitvoering van het vervoer geheel of gedeeltelijk heeft toevertrouwd aan een ondervervoerder, al dan niet op grond van een aan hem in de vervoerovereenkomst toegekende bevoegdheid, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer.
 
-§ 2. Alle bepalingen van deze Uniforme Regelen die betrekking hebben op de aansprakelijkheid van de vervoerder zijn ook van toepassing op de aansprakelijkheid van de ondervervoerder met betrekking tot het door hem verrichte vervoer. Wanneer een vordering wordt ingesteld tegen zijn ondergeschikten en andere personen van wier diensten de ondervervoerder gebruik maakt bij de uitvoering van het vervoer, zijn de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=48&z=2012-01-01&g=2012-01-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=52&z=2012-01-01&g=2012-01-01) van toepassing.
+§ 2. Alle bepalingen van deze Uniforme Regelen die betrekking hebben op de aansprakelijkheid van de vervoerder zijn ook van toepassing op de aansprakelijkheid van de ondervervoerder met betrekking tot het door hem verrichte vervoer. Wanneer een vordering wordt ingesteld tegen zijn ondergeschikten en andere personen van wier diensten de ondervervoerder gebruik maakt bij de uitvoering van het vervoer, zijn de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=48&z=2015-07-01&g=2015-07-01) en [52](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=52&z=2015-07-01&g=2015-07-01) van toepassing.
 
 § 3. Een bijzondere overeenkomst waarin de vervoerder verplichtingen op zich neemt die niet op hem rusten krachtens deze Uniforme Regelen of waarin hij afziet van rechten die hem ingevolge deze Uniforme Regelen zijn toegekend, is niet bindend voor de ondervervoerder die hiermee niet uitdrukkelijk en schriftelijk heeft ingestemd. Ongeacht of de ondervervoerder deze overeenkomst al dan niet heeft aanvaard, blijft de vervoerder niettemin gebonden aan de uit deze bijzondere overeenkomst voortvloeiende verplichtingen of afstand van rechten.
 
@@ -1388,11 +1342,11 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 ##### Artikel 40. Vermoeden van verlies
 
-§ 1. De rechthebbende kan zonder nader bewijs een collo als verloren beschouwen, wanneer het niet binnen 14 dagen na het overeenkomstig [artikel 22, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2012-01-01&g=2012-01-01) gedane verzoek tot aflevering aan hem is afgeleverd of te zijner beschikking is gesteld.
+§ 1. De rechthebbende kan zonder nader bewijs een collo als verloren beschouwen, wanneer het niet binnen 14 dagen na het overeenkomstig [artikel 22, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2015-07-01&g=2015-07-01) gedane verzoek tot aflevering aan hem is afgeleverd of te zijner beschikking is gesteld.
 
 § 2. Indien een als verloren beschouwd collo binnen een jaar na het verzoek tot aflevering wordt teruggevonden, moet de vervoerder daarvan kennis geven aan de rechthebbende, wanneer zijn adres bekend is of kan worden achterhaald.
 
-§ 3. Binnen dertig dagen na ontvangst van de in § 2 bedoelde kennisgeving kan de rechthebbende verzoeken dat het collo aan hem wordt afgeleverd. In dit geval moet hij de kosten voor het vervoer van het collo van de plaats van verzending tot de plaats van aflevering betalen en de ontvangen schadevergoeding terugbetalen, onder aftrek, in voorkomend geval, van de kosten die in deze schadevergoeding begrepen zouden zijn geweest. Hij behoudt niettemin zijn in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=43&z=2012-01-01&g=2012-01-01) bedoelde rechten op schadevergoeding voor vertraging in de aflevering.
+§ 3. Binnen dertig dagen na ontvangst van de in § 2 bedoelde kennisgeving kan de rechthebbende verzoeken dat het collo aan hem wordt afgeleverd. In dit geval moet hij de kosten voor het vervoer van het collo van de plaats van verzending tot de plaats van aflevering betalen en de ontvangen schadevergoeding terugbetalen, onder aftrek, in voorkomend geval, van de kosten die in deze schadevergoeding begrepen zouden zijn geweest. Hij behoudt niettemin zijn in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=43&z=2015-07-01&g=2015-07-01) bedoelde rechten op schadevergoeding voor vertraging in de aflevering.
 
 § 4. Indien het teruggevonden collo niet binnen de in § 3 bedoelde termijn is opgeëist of indien het collo meer dan een jaar na het verzoek tot aflevering wordt teruggevonden, beschikt de vervoerder daarover overeenkomstig de wetten en voorschriften die gelden op de plaats waar het collo zich bevindt.
 
@@ -1428,13 +1382,13 @@ De wijze van vergoeding, per ontbrekend kilogram of per collo, wordt in de Algem
 
 De wijze van vergoeding, per kilogram of per collo, wordt in de Algemene vervoervoorwaarden geregeld.
 
-§ 2. In geval van geheel verlies van de bagage komt de in § 1 bedoelde schadevergoeding niet bovenop die bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2012-01-01&g=2012-01-01).
+§ 2. In geval van geheel verlies van de bagage komt de in § 1 bedoelde schadevergoeding niet bovenop die bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2015-07-01&g=2015-07-01).
 
 § 3. In geval van gedeeltelijk verlies van de bagage wordt de in § 1 bedoelde schadevergoeding voor het niet verloren gedeelte betaald.
 
-§ 4. In geval van beschadiging van de bagage die niet het gevolg is van de vertraging in de aflevering, komt, in voorkomend geval, de in § 1 bedoelde schadevergoeding bovenop die bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=42&z=2012-01-01&g=2012-01-01).
+§ 4. In geval van beschadiging van de bagage die niet het gevolg is van de vertraging in de aflevering, komt, in voorkomend geval, de in § 1 bedoelde schadevergoeding bovenop die bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=42&z=2015-07-01&g=2015-07-01).
 
-§ 5. In geen geval kan de som van de in § 1 bedoelde schadevergoeding en die van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2012-01-01&g=2012-01-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=42&z=2012-01-01&g=2012-01-01) hoger zijn dan de schadevergoeding die verschuldigd is in geval van geheel verlies van de bagage.
+§ 5. In geen geval kan de som van de in § 1 bedoelde schadevergoeding en die van de [artikelen 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=41&z=2015-07-01&g=2015-07-01) en [42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=42&z=2015-07-01&g=2015-07-01) hoger zijn dan de schadevergoeding die verschuldigd is in geval van geheel verlies van de bagage.
 
 ### AFDELING 3. VOERTUIGEN
 
@@ -1456,7 +1410,7 @@ Bij geheel of gedeeltelijk verlies van een voertuig wordt de aan de rechthebbend
 
 ##### Artikel 47. Toepasselijk recht
 
-Behoudens de bepalingen van deze Afdeling zijn de bepalingen van [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&z=2012-01-01&g=2012-01-01) met betrekking tot de aansprakelijkheid voor bagage van toepassing op voertuigen.
+Behoudens de bepalingen van deze Afdeling zijn de bepalingen van [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&z=2015-07-01&g=2015-07-01) met betrekking tot de aansprakelijkheid voor bagage van toepassing op voertuigen.
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -1468,9 +1422,9 @@ De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers die geldt op de dag en de plaats van betaling van de schadevergoeding.
 
-§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van het indienen van de in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2012-01-01&g=2012-01-01) bedoelde vordering buiten rechte of, bij gebreke daarvan, vanaf de dag van het instellen van de rechtsvordering.
+§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van het indienen van de in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2015-07-01&g=2015-07-01) bedoelde vordering buiten rechte of, bij gebreke daarvan, vanaf de dag van het instellen van de rechtsvordering.
 
-§ 3. Voor de krachtens de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2012-01-01&g=2012-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2012-01-01&g=2012-01-01) verschuldigde schadevergoeding loopt de rente evenwel vanaf de dag, waarop de voor de vaststelling van het vergoedingsbedrag bepalende feiten zijn voorgevallen, indien deze dag later valt dan die van het indienen van de vordering buiten rechte of van het instellen van de rechtsvordering.
+§ 3. Voor de krachtens de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2015-07-01&g=2015-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2015-07-01&g=2015-07-01) verschuldigde schadevergoeding loopt de rente evenwel vanaf de dag, waarop de voor de vaststelling van het vergoedingsbedrag bepalende feiten zijn voorgevallen, indien deze dag later valt dan die van het indienen van de vordering buiten rechte of van het instellen van de rechtsvordering.
 
 § 4. Met betrekking tot bagage is de rente slechts verschuldigd, indien de schadevergoeding meer bedraagt dan 16 rekeneenheden per bagagebewijs.
 
@@ -1488,7 +1442,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
-§ 2. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de vervoerder krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=51&z=2012-01-01&g=2012-01-01) aansprakelijk is.
+§ 2. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de vervoerder krachtens [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=51&z=2015-07-01&g=2015-07-01) aansprakelijk is.
 
 ## TITEL V. AANSPRAKELIJKHEID VAN DE REIZIGER
 
@@ -1508,7 +1462,7 @@ of
 
 - b. veroorzaakt door voorwerpen of dieren die hij meeneemt,
 
-tenzij hij bewijst dat de schade een gevolg is van omstandigheden die hij, ondanks de zorgvuldigheid vereist in de omstandigheden van het geval, niet kon vermijden en waarvan hij de gevolgen niet kon verhinderen. Deze bepaling laat de aansprakelijkheid die op de vervoerder kan rusten krachtens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2012-01-01&g=2012-01-01) en [33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2012-01-01&g=2012-01-01) onverlet.
+tenzij hij bewijst dat de schade een gevolg is van omstandigheden die hij, ondanks de zorgvuldigheid vereist in de omstandigheden van het geval, niet kon vermijden en waarvan hij de gevolgen niet kon verhinderen. Deze bepaling laat de aansprakelijkheid die op de vervoerder kan rusten krachtens de [artikelen 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2015-07-01&g=2015-07-01) en [33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2015-07-01&g=2015-07-01) onverlet.
 
 ## TITEL VI. UITOEFENING VAN RECHTEN
 
@@ -1526,13 +1480,13 @@ tenzij hij bewijst dat de schade een gevolg is van omstandigheden die hij, ondan
 
 Wanneer het een vervoer betreft dat het onderwerp vormt van een en dezelfde overeenkomst en dat wordt verricht door opvolgende vervoerders kunnen de vorderingen buiten rechte worden ingediend zowel bij de eerste als bij de laatste vervoerder alsook bij de vervoerder die zijn hoofdzetel of bijkantoor of vestiging waar de vervoerovereenkomst werd gesloten, heeft in de Staat waarin de reiziger zijn woonplaats of gewone verblijfplaats heeft.
 
-§ 2. Andere vorderingen buiten rechte met betrekking tot de vervoerovereenkomst moeten schriftelijk bij de in [artikel 56, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2012-01-01&g=2012-01-01) bedoelde vervoerder worden ingediend.
+§ 2. Andere vorderingen buiten rechte met betrekking tot de vervoerovereenkomst moeten schriftelijk bij de in [artikel 56, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2015-07-01&g=2015-07-01) bedoelde vervoerder worden ingediend.
 
 § 3. De stukken die de rechthebbende bij zijn vordering buiten rechte wil voegen, moeten worden overgelegd in origineel of, in voorkomend geval op verzoek van de vervoerder, in een naar behoren gewaarmerkt afschrift. Bij de regeling van de vordering buiten rechte kan de vervoerder de teruggave van het vervoerbewijs, het bagagebewijs en het vervoerbewijs van het voertuig verlangen.
 
 ##### Artikel 56. Vervoerders die in rechte kunnen worden aangesproken
 
-§ 1. De op de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers gegronde rechtsvordering kan slechts worden ingesteld tegen een krachtens [artikel 26, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2012-01-01&g=2012-01-01) aansprakelijke vervoerder.
+§ 1. De op de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers gegronde rechtsvordering kan slechts worden ingesteld tegen een krachtens [artikel 26, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2015-07-01&g=2015-07-01) aansprakelijke vervoerder.
 
 § 2. Behoudens § 4 kunnen andere op de vervoerovereenkomst gegronde rechtsvorderingen van reizigers uitsluitend worden ingesteld tegen de eerste of laatste vervoerder of tegen de vervoerder die dat deel van het vervoer verrichtte gedurende welke het feit dat tot de rechtsvordering heeft geleid, zich heeft voorgedaan.
 
@@ -1554,13 +1508,13 @@ Wanneer het een vervoer betreft dat het onderwerp vormt van een en dezelfde over
 
 ##### Artikel 58. Verval van de vordering in geval van dood en letsel
 
-§ 1. Elke vordering van de rechthebbende, gegrond op de aansprakelijkheid van de vervoerder in geval van dood of letsel van reizigers, vervalt indien hij niet binnen twaalf maanden, te rekenen vanaf het ogenblik dat hij kennis heeft van de schade, het aan de reiziger overkomen ongeval heeft meegedeeld aan een van de vervoerders, bij wie een vordering buiten rechte kan worden ingesteld volgens [artikel 55, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2012-01-01&g=2012-01-01).
+§ 1. Elke vordering van de rechthebbende, gegrond op de aansprakelijkheid van de vervoerder in geval van dood of letsel van reizigers, vervalt indien hij niet binnen twaalf maanden, te rekenen vanaf het ogenblik dat hij kennis heeft van de schade, het aan de reiziger overkomen ongeval heeft meegedeeld aan een van de vervoerders, bij wie een vordering buiten rechte kan worden ingesteld volgens [artikel 55, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2015-07-01&g=2015-07-01).
 
 Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerder, moet deze aan hem een bevestiging van de mondelinge kennisgeving afgeven.
 
 § 2. De vordering vervalt evenwel niet, indien
 
-- a. de rechthebbende binnen de in § 1 bedoelde termijn een vordering buiten rechte bij een van de in [artikel 55, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2012-01-01&g=2012-01-01) bedoelde vervoerders heeft ingediend;
+- a. de rechthebbende binnen de in § 1 bedoelde termijn een vordering buiten rechte bij een van de in [artikel 55, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2015-07-01&g=2015-07-01) bedoelde vervoerders heeft ingediend;
 
 - b. de aansprakelijke vervoerder binnen de in § 1 bedoelde termijn op een andere wijze kennis heeft gekregen van het aan de reiziger overkomen ongeval;
 
@@ -1576,17 +1530,17 @@ Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerde
 
 - a. in geval van gedeeltelijk verlies of beschadiging, indien
 
-- 1. het verlies of de beschadiging overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2012-01-01&g=2012-01-01) is vastgesteld vóór de inontvangstneming van de bagage door de rechthebbende;
+- 1. het verlies of de beschadiging overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2015-07-01&g=2015-07-01) is vastgesteld vóór de inontvangstneming van de bagage door de rechthebbende;
 
-- 2. de vaststelling, die overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2012-01-01&g=2012-01-01) had moeten geschieden, slechts door de schuld van de vervoerder achterwege is gebleven;
+- 2. de vaststelling, die overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2015-07-01&g=2015-07-01) had moeten geschieden, slechts door de schuld van de vervoerder achterwege is gebleven;
 
 - b. in geval van uiterlijk niet waarneembare schade, die is vastgesteld na de inontvangstneming van de bagage door de rechthebbende, indien deze
 
-- 1. de vaststelling overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2012-01-01&g=2012-01-01) onmiddellijk na de ontdekking van de schade en uiterlijk binnen drie dagen na de inontvangstneming van de bagage verlangt, en
+- 1. de vaststelling overeenkomstig [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=54&z=2015-07-01&g=2015-07-01) onmiddellijk na de ontdekking van de schade en uiterlijk binnen drie dagen na de inontvangstneming van de bagage verlangt, en
 
 - 2. bovendien bewijst, dat de schade tussen de aanneming ten vervoer door de vervoerder en de aflevering is ontstaan;
 
-- c. in geval van vertraging in de aflevering, indien de rechthebbende zijn rechten binnen eenentwintig dagen bij een van de in [artikel 56, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2012-01-01&g=2012-01-01) bedoelde vervoerders heeft doen gelden;
+- c. in geval van vertraging in de aflevering, indien de rechthebbende zijn rechten binnen eenentwintig dagen bij een van de in [artikel 56, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=56&z=2015-07-01&g=2015-07-01) bedoelde vervoerders heeft doen gelden;
 
 - d. indien de rechthebbende bewijst dat de schade het gevolg is van de schuld van de vervoerder.
 
@@ -1602,7 +1556,7 @@ Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerde
 
 § 3. De in § 2 bedoelde verjaring neemt een aanvang bij rechtsvorderingen:
 
-- a. tot schadevergoeding wegens geheel verlies: op de veertiende dag na afloop van de in [artikel 22, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2012-01-01&g=2012-01-01) bedoelde termijn;
+- a. tot schadevergoeding wegens geheel verlies: op de veertiende dag na afloop van de in [artikel 22, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2015-07-01&g=2015-07-01) bedoelde termijn;
 
 - b. tot schadevergoeding wegens gedeeltelijk verlies, beschadiging of vertraging in de aflevering: op de dag van de aflevering;
 
@@ -1610,7 +1564,7 @@ Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerde
 
 De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn begrepen.
 
-§ 4. Ingeval overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2012-01-01&g=2012-01-01) een schriftelijke vordering buiten rechte met de nodige bewijsstukken is ingediend, is de verjaring geschorst tot de dag waarop de vervoerder de vordering schriftelijk afwijst en de bijgevoegde stukken terugzendt. Bij gedeeltelijke erkenning van de vordering begint de verjaringstermijn weer te lopen voor het nog betwiste gedeelte van de vordering. Het bewijs van de ontvangst van de vordering of van het antwoord en van de teruggave van de stukken rust op de partij die zich daarop beroept. Latere vorderingen buiten rechte met dezelfde inhoud schorsen de verjaring niet.
+§ 4. Ingeval overeenkomstig [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2015-07-01&g=2015-07-01) een schriftelijke vordering buiten rechte met de nodige bewijsstukken is ingediend, is de verjaring geschorst tot de dag waarop de vervoerder de vordering schriftelijk afwijst en de bijgevoegde stukken terugzendt. Bij gedeeltelijke erkenning van de vordering begint de verjaringstermijn weer te lopen voor het nog betwiste gedeelte van de vordering. Het bewijs van de ontvangst van de vordering of van het antwoord en van de teruggave van de stukken rust op de partij die zich daarop beroept. Latere vorderingen buiten rechte met dezelfde inhoud schorsen de verjaring niet.
 
 § 5. Een verjaarde rechtsvordering kan niet meer in rechte worden ingesteld, zelfs niet bij wijze van tegeneis of verweer.
 
@@ -1622,7 +1576,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 § 1. Elke vervoerder moet aan de betrokken vervoerders het hun toekomende aandeel betalen van een vervoerprijs, die hij heeft geïnd of had moet innen. De wijze van betaling wordt in een overeenkomst tussen de vervoerders vastgelegd.
 
-§ 2. [Artikel 6, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=6&z=2012-01-01&g=2012-01-01), [artikel 16, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=16&z=2012-01-01&g=2012-01-01) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=IV&artikel=25&z=2012-01-01&g=2012-01-01) zijn eveneens van toepassing op de betrekkingen tussen opvolgende vervoerders.
+§ 2. [Artikel 6, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=6&z=2015-07-01&g=2015-07-01), [artikel 16, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=16&z=2015-07-01&g=2015-07-01) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=IV&artikel=25&z=2015-07-01&g=2015-07-01) zijn eveneens van toepassing op de betrekkingen tussen opvolgende vervoerders.
 
 ##### Artikel 62. Recht van regres
 
@@ -1638,7 +1592,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ##### Artikel 63. Regres-procedure
 
-§ 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2012-01-01&g=2012-01-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
+§ 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2015-07-01&g=2015-07-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
 
 § 2. De vervoerder die het regres uitoefent, moet zijn vordering instellen in één en hetzelfde geding tegen alle vervoerders met wie hij geen schikking heeft getroffen, op straffe van verlies van regres jegens de niet gedagvaarde vervoerders.
 
@@ -1652,7 +1606,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ##### Artikel 64. Overeenkomsten betreffende regres
 
-De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=61&z=2012-01-01&g=2012-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2012-01-01&g=2012-01-01).
+De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=61&z=2015-07-01&g=2015-07-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2015-07-01&g=2015-07-01).
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
@@ -1664,7 +1618,7 @@ De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [ar
 
 § 3. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het grensoverschrijdende vervoer per spoor, een binnenlands vervoer over de weg of de binnenwateren van een Lidstaat omvat, zijn deze Uniforme Regelen van toepassing.
 
-§ 4. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het vervoer per spoor, een vervoer over zee of een grensoverschrijdend vervoer over de binnenwateren omvat, zijn deze Uniforme Regelen van toepassing, indien het vervoer over zee of het vervoer over binnenwateren wordt uitgevoerd over de lijnen die zijn ingeschreven op de in [artikel 24, § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) bedoelde lijst van de lijnen.
+§ 4. Wanneer een internationaal vervoer dat het onderwerp vormt van een en dezelfde overeenkomst, in aanvulling op het vervoer per spoor, een vervoer over zee of een grensoverschrijdend vervoer over de binnenwateren omvat, zijn deze Uniforme Regelen van toepassing, indien het vervoer over zee of het vervoer over binnenwateren wordt uitgevoerd over de lijnen die zijn ingeschreven op de in [artikel 24, § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) bedoelde lijst van de lijnen.
 
 § 5. Deze Uniforme Regelen zijn niet van toepassing op het vervoer tussen stations gelegen op het grondgebied van aangrenzende Staten, wanneer de infrastructuur van deze stations wordt beheerd door een of meer beheerders van infrastructuur behorend tot een van deze Staten.
 
@@ -1720,7 +1674,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 6. Voor iedere zending moet een vrachtbrief worden opgemaakt. Behoudens anders overeengekomen tussen de afzender en de vervoerder kan een vrachtbrief slechts betrekking hebben op de lading van één spoorwagen.
 
-§ 7. In geval van een vervoer over het douanegebied van de Europese Gemeenschap of over het gebied, waarin de regeling gemeenschappelijk douanevervoer toegepast wordt, moet iedere zending begeleid worden door een met de vereisten van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2012-01-01&g=2012-01-01) overeenstemmende vrachtbrief.
+§ 7. In geval van een vervoer over het douanegebied van de Europese Gemeenschap of over het gebied, waarin de regeling gemeenschappelijk douanevervoer toegepast wordt, moet iedere zending begeleid worden door een met de vereisten van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2015-07-01&g=2015-07-01) overeenstemmende vrachtbrief.
 
 § 8. De internationale verenigingen van vervoerders stellen de uniforme modellen van de vrachtbrieven vast in overleg met de internationale verenigingen van gebruikers en de in de Lidstaten bevoegde instanties inzake douane-aangelegenheden alsmede met iedere intergouvernementele organisatie van regionale economische integratie die een eigen wetgevende bevoegdheid heeft inzake douane-aangelegenheden.
 
@@ -1802,7 +1756,7 @@ Wanneer de afzender heeft verzuimd de door het RID voorgeschreven aanduidingen t
 
 § 1. Behoudens andersluidend beding tussen de afzender en de vervoerder moeten de kosten (vrachtprijs, bijkomende kosten, douanerechten en andere kosten, die vanaf het sluiten van de overeenkomst tot de aflevering ontstaan) door de afzender worden betaald.
 
-§ 2. Wanneer, op grond van een beding tussen de afzender en de vervoerder, de kosten ten laste van de geadresseerde worden gelegd en wanneer de geadresseerde noch de vrachtbrief in ontvangst genomen heeft, noch zijn rechten uit de vervoerovereenkomst overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) heeft doen gelden, noch de vervoerovereenkomst overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) heeft gewijzigd, blijven de kosten ten laste van de afzender.
+§ 2. Wanneer, op grond van een beding tussen de afzender en de vervoerder, de kosten ten laste van de geadresseerde worden gelegd en wanneer de geadresseerde noch de vrachtbrief in ontvangst genomen heeft, noch zijn rechten uit de vervoerovereenkomst overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) heeft doen gelden, noch de vervoerovereenkomst overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) heeft gewijzigd, blijven de kosten ten laste van de afzender.
 
 ##### Artikel 11. Onderzoek
 
@@ -1840,7 +1794,7 @@ De afzender is jegens de vervoerder aansprakelijk voor alle schade en kosten ver
 
 § 3. De vervoerder is aansprakelijk voor de gevolgen van het verlies of het onregelmatig gebruik van de op de vrachtbrief vermelde en bijgevoegde of hem overhandigde bescheiden, tenzij het verlies of de door het onregelmatig gebruik van deze bescheiden veroorzaakte schade het gevolg is van omstandigheden die de vervoerder niet kon vermijden of waarvan hij de gevolgen niet kon verhinderen. De eventuele schadevergoeding bedraagt evenwel niet meer dan die in geval van verlies van de goederen.
 
-§ 4. De afzender, door een vermelding op de vrachtbrief, of de geadresseerde, door een opdracht overeenkomstig [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01), kan vragen:
+§ 4. De afzender, door een vermelding op de vrachtbrief, of de geadresseerde, door een opdracht overeenkomstig [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01), kan vragen:
 
 - a. dat bij het naleven van de vereiste douane- of andere overheidsvoorschriften hijzelf aanwezig is ofwel zich doet vertegenwoordigen door een gevolmachtigde om alle inlichtingen te verschaffen en de ter zake dienende opmerkingen te maken;
 
@@ -1904,7 +1858,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 - b. de opslag van de goederen bij de vervoerder of de inbewaringgeving ervan bij een expediteur of in een openbare douaneloods.
 
-§ 3. Na de aankomst van de goederen op de plaats van aflevering kan de geadresseerde aan de vervoerder verzoeken hem de vrachtbrief te overhandigen en aan hem de goederen af te leveren. Indien het verlies van de goederen is vastgesteld of indien de goederen niet binnen de in [artikel 29, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=29&z=2012-01-01&g=2012-01-01) bedoelde termijn aangekomen zijn, kan de geadresseerde in eigen naam zijn rechten uit de vervoerovereenkomst jegens de vervoerder doen gelden.
+§ 3. Na de aankomst van de goederen op de plaats van aflevering kan de geadresseerde aan de vervoerder verzoeken hem de vrachtbrief te overhandigen en aan hem de goederen af te leveren. Indien het verlies van de goederen is vastgesteld of indien de goederen niet binnen de in [artikel 29, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=29&z=2015-07-01&g=2015-07-01) bedoelde termijn aangekomen zijn, kan de geadresseerde in eigen naam zijn rechten uit de vervoerovereenkomst jegens de vervoerder doen gelden.
 
 § 4. De rechthebbende kan de ontvangst van de goederen weigeren, zelfs na de inontvangstname van de vrachtbrief en het betalen van vorderingen voortvloeiend uit de vervoerovereenkomst, zolang niet is overgegaan tot de onderzoeken waar hij om heeft verzocht met het oog op het vaststellen van de beweerde schade.
 
@@ -1930,7 +1884,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 - b. de goederen aangenomen heeft;
 
-- c. zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) heeft doen gelden;
+- c. zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) heeft doen gelden;
 
 - d. overeenkomstig § 3 bevoegd is nadere opdrachten te geven; vanaf dat ogenblik moet de vervoerder de nadere opdrachten en aanwijzingen van de geadresseerde opvolgen.
 
@@ -1942,17 +1896,17 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 - b. de goederen heeft aangenomen;
 
-- c. zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) heeft doen gelden;
+- c. zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) heeft doen gelden;
 
-- d. overeenkomstig § 5 voorgeschreven heeft de goederen af te leveren aan een derde, en wanneer deze zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) heeft doen gelden.
+- d. overeenkomstig § 5 voorgeschreven heeft de goederen af te leveren aan een derde, en wanneer deze zijn rechten overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) heeft doen gelden.
 
 § 5. Indien de geadresseerde heeft voorgeschreven de goederen aan een derde af te leveren, is deze laatste niet bevoegd om de vervoerovereenkomst te wijzigen.
 
 ##### Artikel 19. Uitoefening van het beschikkingsrecht
 
-§ 1. Wanneer de afzender of in geval van [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) de geadresseerde de vervoerovereenkomst wil wijzigen door latere opdrachten, moet hij de vervoerder de duplicaat-vrachtbrief aanbieden waarop de wijzigingen aangebracht moeten zijn.
+§ 1. Wanneer de afzender of in geval van [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) de geadresseerde de vervoerovereenkomst wil wijzigen door latere opdrachten, moet hij de vervoerder de duplicaat-vrachtbrief aanbieden waarop de wijzigingen aangebracht moeten zijn.
 
-§ 2. De afzender of in geval van [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) de geadresseerde moet de vervoerder alle kosten en de schade vergoeden die voortvloeien uit het uitvoeren van de latere wijzigingen.
+§ 2. De afzender of in geval van [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) de geadresseerde moet de vervoerder alle kosten en de schade vergoeden die voortvloeien uit het uitvoeren van de latere wijzigingen.
 
 § 3. Het uitvoeren van latere wijzigingen moet mogelijk, geoorloofd en redelijk zijn op het ogenblik waarop de opdrachten aan degene die deze moet uitvoeren, bereiken en mag met name noch de gebruikelijke bedrijfsuitoefening van de vervoeronderneming belemmeren, noch de afzenders en geadresseerden van andere zendingen benadelen.
 
@@ -1978,7 +1932,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 3. In geval de geadresseerde weigert de goederen in ontvangst te nemen, is de afzender gerechtigd tot het geven van instructies, zelfs indien hij de duplicaat-vrachtbrief niet kan overleggen.
 
-§ 4. Wanneer de belemmering in de aflevering optreedt, nadat de geadresseerde de vervoerovereenkomst overeenkomstig [artikel 19, §§ 3 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2012-01-01&g=2012-01-01) gewijzigd heeft, moet de vervoerder deze geadresseerde inlichten.
+§ 4. Wanneer de belemmering in de aflevering optreedt, nadat de geadresseerde de vervoerovereenkomst overeenkomstig [artikel 19, §§ 3 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2015-07-01&g=2015-07-01) gewijzigd heeft, moet de vervoerder deze geadresseerde inlichten.
 
 ##### Artikel 22. Gevolgen van de belemmeringen in het vervoer en in de aflevering
 
@@ -1990,11 +1944,11 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 - c. het niet of niet tijdig ontvangen van door hem verzochte instructie,
 
-- d. het nemen van een beslissing overeenkomstig [artikel 20, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=20&z=2012-01-01&g=2012-01-01), zonder instructies gevraagd te hebben,
+- d. het nemen van een beslissing overeenkomstig [artikel 20, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=20&z=2015-07-01&g=2015-07-01), zonder instructies gevraagd te hebben,
 
 tenzij deze kosten door zijn schuld veroorzaakt zijn. Hij kan met name de vrachtprijs voor het werkelijk gereden vervoertraject in rekening brengen en aanspraak maken op de daarmee overeenstemmende afleveringstermijn.
 
-§ 2. In de gevallen bedoeld in [artikel 20, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=20&z=2012-01-01&g=2012-01-01) en in [artikel 21, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=21&z=2012-01-01&g=2012-01-01) kan de vervoerder de goederen onmiddellijk en op kosten van de rechthebbende lossen. Na het lossen wordt het vervoer geacht beëindigd te zijn. De vervoerder bewaart vervolgens de goederen voor rekening van de rechthebbende. Hij kan de goederen evenwel toevertrouwen aan een derde en is dan slechts aansprakelijk voor de oordeelkundige keuze van die derde. De goederen blijven belast met de uit de vervoerovereenkomst voortvloeiende schuldvorderingen en alle andere kosten.
+§ 2. In de gevallen bedoeld in [artikel 20, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=20&z=2015-07-01&g=2015-07-01) en in [artikel 21, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=21&z=2015-07-01&g=2015-07-01) kan de vervoerder de goederen onmiddellijk en op kosten van de rechthebbende lossen. Na het lossen wordt het vervoer geacht beëindigd te zijn. De vervoerder bewaart vervolgens de goederen voor rekening van de rechthebbende. Hij kan de goederen evenwel toevertrouwen aan een derde en is dan slechts aansprakelijk voor de oordeelkundige keuze van die derde. De goederen blijven belast met de uit de vervoerovereenkomst voortvloeiende schuldvorderingen en alle andere kosten.
 
 § 3. De vervoerder kan zonder instructies van de rechthebbende af te wachten tot de verkoop van de goederen overgaan, wanneer de bederfelijke aard of de toestand van de goederen dit rechtvaardigt of wanneer de bewaarkosten niet in redelijke verhouding staan met de waarde der goederen. In andere gevallen kan hij eveneens tot de verkoop overgaan wanneer hij niet binnen een redelijke termijn van de rechthebbende andersluidende instructies heeft ontvangen, waarvan de uitvoering redelijkerwijs kan worden gevorderd.
 
@@ -2050,7 +2004,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 1. Wanneer de vervoerder de uitvoering van het vervoer geheel of gedeeltelijk heeft toevertrouwd aan een ondervervoerder, al dan niet op grond van een aan hem in de vervoerovereenkomst toegekende bevoegdheid, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer.
 
-§ 2. Alle bepalingen van deze Uniforme Regelen die betrekking hebben op de aansprakelijkheid van de vervoerder zijn ook van toepassing op de aansprakelijkheid van de ondervervoerder met betrekking tot het door hem verrichte vervoer. Wanneer een vordering wordt ingesteld tegen zijn ondergeschikten en andere personen van wier diensten de ondervervoerder gebruik maakt bij de uitvoering van het vervoer, zijn de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=36&z=2012-01-01&g=2012-01-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=41&z=2012-01-01&g=2012-01-01) van toepassing.
+§ 2. Alle bepalingen van deze Uniforme Regelen die betrekking hebben op de aansprakelijkheid van de vervoerder zijn ook van toepassing op de aansprakelijkheid van de ondervervoerder met betrekking tot het door hem verrichte vervoer. Wanneer een vordering wordt ingesteld tegen zijn ondergeschikten en andere personen van wier diensten de ondervervoerder gebruik maakt bij de uitvoering van het vervoer, zijn de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=36&z=2015-07-01&g=2015-07-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=41&z=2015-07-01&g=2015-07-01) van toepassing.
 
 § 3. Een bijzondere overeenkomst waarin de vervoerder verplichtingen op zich neemt die niet op hem rusten krachtens deze Uniforme Regelen, of waarin hij afziet van rechten die hem ingevolge deze Uniforme Regelen zijn toegekend, is niet bindend voor de ondervervoerder die hiermee niet uitdrukkelijk en schriftelijk heeft ingestemd. Ongeacht of de ondervervoerder deze overeenkomst al dan niet heeft aanvaard, blijft de vervoerder niettemin gebonden aan de uit deze bijzondere overeenkomst voortvloeiende verplichtingen of afstand van rechten.
 
@@ -2074,7 +2028,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 2. De rechthebbende kan bij het ontvangen van de schadevergoeding voor de verloren goederen schriftelijk verzoeken er onverwijld in kennis van te worden gesteld in geval de goederen zijn teruggevonden binnen een jaar na de betaling van de schadevergoeding. De vervoerder bevestigt dit verzoek schriftelijk.
 
-§ 3. Binnen dertig dagen na ontvangst van de in § 2 bedoelde kennisgeving kan de rechthebbende verzoeken dat de goederen aan hem worden afgeleverd tegen betaling van de schuldvorderingen die uit de vrachtbrief voortvloeien en tegen terugbetaling van de ontvangen schadevergoeding, onder aftrek, in voorkomend geval, van de kosten die in deze schadevergoeding begrepen zouden zijn geweest. Hij behoudt niettemin zijn in [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=33&z=2012-01-01&g=2012-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=35&z=2012-01-01&g=2012-01-01) bedoelde rechten op schadevergoeding voor overschrijding van de afleveringstermijn.
+§ 3. Binnen dertig dagen na ontvangst van de in § 2 bedoelde kennisgeving kan de rechthebbende verzoeken dat de goederen aan hem worden afgeleverd tegen betaling van de schuldvorderingen die uit de vrachtbrief voortvloeien en tegen terugbetaling van de ontvangen schadevergoeding, onder aftrek, in voorkomend geval, van de kosten die in deze schadevergoeding begrepen zouden zijn geweest. Hij behoudt niettemin zijn in [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=33&z=2015-07-01&g=2015-07-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=35&z=2015-07-01&g=2015-07-01) bedoelde rechten op schadevergoeding voor overschrijding van de afleveringstermijn.
 
 § 4. Bij gebreke van een in § 2 bedoeld verzoek of van binnen de in § 3 bedoelde termijn gegeven instructies, of indien de goederen meer dan een jaar na de betaling van de schadevergoeding teruggevonden zijn, beschikt de vervoerder daarover overeenkomstig de wetten en voorschriften die gelden op de plaats waar de goederen zich bevinden.
 
@@ -2102,11 +2056,11 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 4. In geval van geheel verlies van het goed of in geval van verlies van colli vindt voor de berekening van de schadevergoeding geen aftrek plaats wegens gewichtsverlies tijdens het vervoer.
 
-§ 5. Dit artikel laat de artikelen 23 en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=25&z=2012-01-01&g=2012-01-01) onverlet.
+§ 5. Dit artikel laat de artikelen 23 en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=25&z=2015-07-01&g=2015-07-01) onverlet.
 
 ##### Artikel 32. Schadevergoeding in geval van beschadiging
 
-§ 1. In geval van beschadiging van de goederen moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen gelijk aan de waardevermindering van de goederen. Dit bedrag wordt berekend door op de overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01) bepaalde waarde van de goederen het op de plaats van bestemming vastgestelde percentage van de waardevermindering toe te passen.
+§ 1. In geval van beschadiging van de goederen moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen gelijk aan de waardevermindering van de goederen. Dit bedrag wordt berekend door op de overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01) bepaalde waarde van de goederen het op de plaats van bestemming vastgestelde percentage van de waardevermindering toe te passen.
 
 § 2. De schadevergoeding bedraagt niet meer dan:
 
@@ -2116,45 +2070,45 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 3. In geval van beschadiging van een op eigen wielen rollend spoorvoertuig dat als te vervoeren goed ten vervoer is aangeboden of van beschadiging van een intermodale transporteenheid of van hun bestanddelen wordt de aansprakelijkheid beperkt tot de herstelkosten, met uitsluiting van elke andere schadevergoeding. De schadevergoeding bedraagt niet meer dan het in geval van verlies te betalen bedrag.
 
-§ 4. De vervoerder moet bovendien de in [artikel 30, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01) vermelde kosten in de in § 1 bepaalde verhouding terugbetalen.
+§ 4. De vervoerder moet bovendien de in [artikel 30, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01) vermelde kosten in de in § 1 bepaalde verhouding terugbetalen.
 
 ##### Artikel 33. Schadevergoeding in geval van overschrijding van de afleveringstermijn
 
 § 1. Indien een schade, met inbegrip van een beschadiging, voortvloeit uit het overschrijden van de afleveringstermijn, moet de vervoerder een schadevergoeding betalen die niet meer bedraagt dan het viervoud van de vrachtprijs.
 
-§ 2. In geval van geheel verlies van de goederen komt de in § 1 bedoelde schadevergoeding niet bovenop die bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01).
+§ 2. In geval van geheel verlies van de goederen komt de in § 1 bedoelde schadevergoeding niet bovenop die bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01).
 
 § 3. In geval van gedeeltelijk verlies van de goederen bedraagt de in § 1 bepaalde schadevergoeding niet meer dan het viervoud van de vrachtprijs van het niet verloren gedeelte van de zending.
 
-§ 4. In geval van beschadiging van goederen die niet het gevolg is van de overschrijding van de afleveringstermijn komt, in voorkomend geval, de in § 1 bedoelde schadevergoeding bovenop die bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2012-01-01&g=2012-01-01).
+§ 4. In geval van beschadiging van goederen die niet het gevolg is van de overschrijding van de afleveringstermijn komt, in voorkomend geval, de in § 1 bedoelde schadevergoeding bovenop die bedoeld in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2015-07-01&g=2015-07-01).
 
-§ 5. In geen geval kan de som van de in § 1 bedoelde schadevergoeding en die van de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2012-01-01&g=2012-01-01) hoger zijn dan de schadevergoeding die verschuldigd is in geval van geheel verlies van de goederen.
+§ 5. In geen geval kan de som van de in § 1 bedoelde schadevergoeding en die van de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2015-07-01&g=2015-07-01) hoger zijn dan de schadevergoeding die verschuldigd is in geval van geheel verlies van de goederen.
 
-§ 6. Wanneer de afleveringstermijn overeenkomstig [artikel 16, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2012-01-01&g=2012-01-01) is vastgesteld bij overeenkomst, kan daarin in een van § 1 afwijkende regeling tot schadevergoeding voorzien worden. Indien in dit geval de in [artikel 16, §§ 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2012-01-01&g=2012-01-01) bedoelde afleveringstermijnen overschreden worden, kan de rechthebbende hetzij de schadevergoeding uit de bovenvermelde overeenkomst verlangen, hetzij de schadevergoeding die in de §§ 1 tot en met 5 is voorzien.
+§ 6. Wanneer de afleveringstermijn overeenkomstig [artikel 16, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2015-07-01&g=2015-07-01) is vastgesteld bij overeenkomst, kan daarin in een van § 1 afwijkende regeling tot schadevergoeding voorzien worden. Indien in dit geval de in [artikel 16, §§ 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2015-07-01&g=2015-07-01) bedoelde afleveringstermijnen overschreden worden, kan de rechthebbende hetzij de schadevergoeding uit de bovenvermelde overeenkomst verlangen, hetzij de schadevergoeding die in de §§ 1 tot en met 5 is voorzien.
 
 ##### Artikel 34. Schadevergoeding in geval van aangifte van waarde
 
-De afzender en de vervoerder kunnen overeenkomen dat de afzender in de vrachtbrief een waarde der goederen opneemt die het in [artikel 30, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01) voorgeschreven maximumbedrag overschrijdt. In dat geval treedt het aangegeven bedrag in de plaats van dit maximumbedrag.
+De afzender en de vervoerder kunnen overeenkomen dat de afzender in de vrachtbrief een waarde der goederen opneemt die het in [artikel 30, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01) voorgeschreven maximumbedrag overschrijdt. In dat geval treedt het aangegeven bedrag in de plaats van dit maximumbedrag.
 
 ##### Artikel 35. Schadevergoeding in geval van belang bij de aflevering
 
-De afzender en de vervoerder kunnen overeenkomen dat de afzender een bijzonder belang bij de aflevering aangeeft door op de vrachtbrief een bedrag in cijfers te vermelden voor het geval van verlies of beschadiging en het geval van overschrijding van de afleveringstermijn. In geval van aangifte van een belang bij de aflevering kan boven op de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2012-01-01&g=2012-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=33&z=2012-01-01&g=2012-01-01) bedoelde schadevergoedingen de vergoeding van de overige bewezen schade verlangd worden tot ten hoogste het bedrag van het aangegeven belang.
+De afzender en de vervoerder kunnen overeenkomen dat de afzender een bijzonder belang bij de aflevering aangeeft door op de vrachtbrief een bedrag in cijfers te vermelden voor het geval van verlies of beschadiging en het geval van overschrijding van de afleveringstermijn. In geval van aangifte van een belang bij de aflevering kan boven op de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2015-07-01&g=2015-07-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=33&z=2015-07-01&g=2015-07-01) bedoelde schadevergoedingen de vergoeding van de overige bewezen schade verlangd worden tot ten hoogste het bedrag van het aangegeven belang.
 
 ##### Artikel 36. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
-De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=15&z=2012-01-01&g=2012-01-01), [19, §§ 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2012-01-01&g=2012-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2012-01-01&g=2012-01-01), [32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2012-01-01&g=2012-01-01) bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
+De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=15&z=2015-07-01&g=2015-07-01), [19, §§ 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2015-07-01&g=2015-07-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2015-07-01&g=2015-07-01), [32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2015-07-01&g=2015-07-01) bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
 ##### Artikel 37. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers die geldt op de dag en de plaats van betaling van de schadevergoeding.
 
-§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van het indienen van de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=43&z=2012-01-01&g=2012-01-01) bedoelde vordering buiten rechte of, bij gebreke daarvan, vanaf de dag van het instellen van de rechtsvordering.
+§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van het indienen van de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=43&z=2015-07-01&g=2015-07-01) bedoelde vordering buiten rechte of, bij gebreke daarvan, vanaf de dag van het instellen van de rechtsvordering.
 
 § 3. Indien de rechthebbende niet binnen een hem gestelde redelijke termijn de voor de definitieve regeling van de vordering nodige bewijsstukken aan de vervoerder overlegt, loopt de rente niet tussen de afloop van deze termijn en de daadwerkelijke overlegging van de stukken.
 
 ##### Artikel 38. Aansprakelijkheid in spoor/zeevervoer
 
-§ 1. Voor spoor/zeevervoer over de in [artikel 24 § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01) bedoelde lijnen over zee kan iedere Lidstaat door een desbetreffende vermelding op de lijst van de aan de Uniforme Regelen onderworpen lijnen te doen opnemen, het geheel van de hierna genoemde gronden tot uitsluiting van de aansprakelijkheid toevoegen aan de in artikel 23 genoemde gronden:
+§ 1. Voor spoor/zeevervoer over de in [artikel 24 § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01) bedoelde lijnen over zee kan iedere Lidstaat door een desbetreffende vermelding op de lijst van de aan de Uniforme Regelen onderworpen lijnen te doen opnemen, het geheel van de hierna genoemde gronden tot uitsluiting van de aansprakelijkheid toevoegen aan de in artikel 23 genoemde gronden:
 
 - a. brand, mits de vervoerder bewijst dat deze niet is veroorzaakt door toedoen of schuld van hemzelf, de kapitein, de scheepsbemanning, de loods of zijn ondergeschikten;
 
@@ -2168,7 +2122,7 @@ De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&ti
 
 § 3. Wanneer de vervoerder zich op de in § 1 vermelde ontheffingsgronden beroept, blijft hij niettemin aansprakelijk, indien de rechthebbende het bewijs levert dat het verlies, de beschadiging of de overschrijding van de afleveringstermijn te wijten is aan de schuld van de vervoerder, de kapitein, de scheepsbemanning, de loods of de ondergeschikten van de vervoerder.
 
-§ 4. Wanneer eenzelfde zeetraject wordt geëxploiteerd door meer ondernemingen, die ingeschreven zijn op de lijst der lijnen overeenkomstig [artikel 24 § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2012-01-01&g=2012-01-01), moet het op dit traject toepasselijke aansprakelijkheidsregime voor al deze ondernemingen hetzelfde zijn. Bovendien, wanneer deze ondernemingen op verzoek van meer Lidstaten op de lijst zijn ingeschreven, moeten deze Staten van te voren overeenstemming bereiken over het toe te passen aansprakelijkheidsregime.
+§ 4. Wanneer eenzelfde zeetraject wordt geëxploiteerd door meer ondernemingen, die ingeschreven zijn op de lijst der lijnen overeenkomstig [artikel 24 § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2015-07-01&g=2015-07-01), moet het op dit traject toepasselijke aansprakelijkheidsregime voor al deze ondernemingen hetzelfde zijn. Bovendien, wanneer deze ondernemingen op verzoek van meer Lidstaten op de lijst zijn ingeschreven, moeten deze Staten van te voren overeenstemming bereiken over het toe te passen aansprakelijkheidsregime.
 
 § 5. De overeenkomstig de §§ 1 en 4 genomen maatregelen worden aan de Secretaris-Generaal meegedeeld. Zij treden niet eerder in werking dan na verloop van dertig dagen te rekenen vanaf de dag waarop de Secretaris-Generaal de andere Staten in kennis heeft gesteld van deze maatregelen. Zendingen onderweg worden door deze maatregelen niet getroffen.
 
@@ -2184,7 +2138,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
-§ 2. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de vervoerder krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=40&z=2012-01-01&g=2012-01-01) aansprakelijk is.
+§ 2. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de vervoerder krachtens [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=40&z=2015-07-01&g=2015-07-01) aansprakelijk is.
 
 ## TITEL IV. UITOEFENING VAN RECHTEN
 
@@ -2220,7 +2174,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 - 2. de goederen heeft aangenomen of
 
-- 3. de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) of [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) toekomende rechten heeft doen gelden;
+- 3. de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) of [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) toekomende rechten heeft doen gelden;
 
 - b. de geadresseerde vanaf het tijdstip waarop hij
 
@@ -2228,9 +2182,9 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 - 2. de goederen heeft aangenomen of
 
-- 3. de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) of [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) toekomende rechten heeft doen gelden.
+- 3. de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) of [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) toekomende rechten heeft doen gelden.
 
-§ 2. Het recht van de geadresseerde om een rechtsvordering in te stellen, vervalt zodra de door hem overeenkomstig [artikel 18, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2012-01-01&g=2012-01-01) aangewezen persoon de vrachtbrief in ontvangst heeft genomen, de goederen heeft aangenomen of de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2012-01-01&g=2012-01-01) toekomende rechten heeft doen gelden.
+§ 2. Het recht van de geadresseerde om een rechtsvordering in te stellen, vervalt zodra de door hem overeenkomstig [artikel 18, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2015-07-01&g=2015-07-01) aangewezen persoon de vrachtbrief in ontvangst heeft genomen, de goederen heeft aangenomen of de hem krachtens [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2015-07-01&g=2015-07-01) toekomende rechten heeft doen gelden.
 
 § 3. De rechtsvordering tot terugbetaling van een bedrag dat op grond van de vervoerovereenkomst betaald is, komt slechts toe aan degene die de betaling heeft gedaan.
 
@@ -2276,21 +2230,21 @@ Het instellen van een rechtsvordering bij een andere rechter is niet mogelijk.
 
 - a. in geval van gedeeltelijk verlies of beschadiging, indien
 
-- 1. het verlies of de beschadiging overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2012-01-01&g=2012-01-01) is vastgesteld vóór de inontvangstneming van de goederen door de rechthebbende;
+- 1. het verlies of de beschadiging overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2015-07-01&g=2015-07-01) is vastgesteld vóór de inontvangstneming van de goederen door de rechthebbende;
 
-- 2. de vaststelling, die overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2012-01-01&g=2012-01-01) had moeten geschieden, slechts door de schuld van de vervoerder achterwege is gebleven;
+- 2. de vaststelling, die overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2015-07-01&g=2015-07-01) had moeten geschieden, slechts door de schuld van de vervoerder achterwege is gebleven;
 
 - b. in geval van uiterlijk niet waarneembare schade, die is vastgesteld na de inontvangstneming van de goederen door de rechthebbende, indien deze
 
-- 1. de vaststelling overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2012-01-01&g=2012-01-01) onmiddellijk na de ontdekking van de schade en uiterlijk binnen zeven dagen na de inontvangstneming van de goederen verlangt, en
+- 1. de vaststelling overeenkomstig [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=42&z=2015-07-01&g=2015-07-01) onmiddellijk na de ontdekking van de schade en uiterlijk binnen zeven dagen na de inontvangstneming van de goederen verlangt, en
 
 - 2. bovendien bewijst, dat de schade tussen de aanneming ten vervoer van de goederen en de aflevering is ontstaan;
 
-- c. in geval van overschrijding van de afleveringstermijn, indien de rechthebbende zijn rechten binnen zestig dagen bij een van de in [artikel 45, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=45&z=2012-01-01&g=2012-01-01) bedoelde vervoerders heeft doen gelden;
+- c. in geval van overschrijding van de afleveringstermijn, indien de rechthebbende zijn rechten binnen zestig dagen bij een van de in [artikel 45, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=45&z=2015-07-01&g=2015-07-01) bedoelde vervoerders heeft doen gelden;
 
 - d. indien de rechthebbende bewijst dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-§ 3. Indien de goederen overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01) doorgezonden zijn, vervallen de vorderingen uit een der voorafgaande vervoerovereenkomsten in geval van gedeeltelijk verlies of beschadiging als betrof het een enkele overeenkomst.
+§ 3. Indien de goederen overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=28&z=2015-07-01&g=2015-07-01) doorgezonden zijn, vervallen de vorderingen uit een der voorafgaande vervoerovereenkomsten in geval van gedeeltelijk verlies of beschadiging als betrof het een enkele overeenkomst.
 
 ##### Artikel 48. Verjaring
 
@@ -2302,7 +2256,7 @@ Het instellen van een rechtsvordering bij een andere rechter is niet mogelijk.
 
 - c. gegrond is op een schade ontstaan uit een handeling of nalaten geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien;
 
-- d. gegrond is op één van de aan de doorzending voorafgaande vervoerovereenkomsten, in het geval bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=28&z=2012-01-01&g=2012-01-01).
+- d. gegrond is op één van de aan de doorzending voorafgaande vervoerovereenkomsten, in het geval bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=28&z=2015-07-01&g=2015-07-01).
 
 § 2. De verjaring neemt een aanvang bij rechtsvorderingen:
 
@@ -2342,7 +2296,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ##### Artikel 51. Regresprocedure
 
-§ 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2012-01-01&g=2012-01-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
+§ 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2015-07-01&g=2015-07-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
 
 § 2. De vervoerder die het regres uitoefent, moet zijn vordering instellen in één en hetzelfde geding tegen alle vervoerders met wie hij geen schikking heeft getroffen, op straffe van verlies van regres jegens de niet gedagvaarde vervoerders.
 
@@ -2356,7 +2310,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ##### Artikel 52. Overeenkomsten betreffende regres
 
-De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=49&z=2012-01-01&g=2012-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2012-01-01&g=2012-01-01).
+De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=49&z=2015-07-01&g=2015-07-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -3146,7 +3100,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 ##### Artikel 1bis. Begripsomschrijvingen
 
-Voor de toepassing van dit Reglement en de Bijlage daarbij wordt onder „ RID-Verdragsstaat” elke Lidstaat van de Organisatie verstaan die geen verklaring ten aanzien van dit Reglement heeft afgelegd, in overeenstemming met [artikel 42, §1, eerste volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01).
+Voor de toepassing van dit Reglement en de Bijlage daarbij wordt onder „ RID-Verdragsstaat” elke Lidstaat van de Organisatie verstaan die geen verklaring ten aanzien van dit Reglement heeft afgelegd, in overeenstemming met [artikel 42, §1, eerste volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01).
 
 ##### Artikel 2. Vrijstellingen
 
@@ -3166,7 +3120,7 @@ Het vervoer, waarop dit Reglement van toepassing is, blijft onderworpen aan de a
 
 - a. de gevaarlijke goederen, die tot het vervoer zijn toegelaten overeenkomstig de Bijlage met inachtneming van de toepasselijke maximale hoeveelheden en de bijzondere voorwaarden voor het vervoer in andere treinen dan goederentreinen;
 
-- b. de gevaarlijke goederen, die onder de bijzondere voorwaarden van de Bijlage als handbagage, aangegeven bagage of in of op voertuigen in de zin van [artikel 12 van de Uniforme Regelen CIV](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=I&artikel=12&z=2012-01-01&g=2012-01-01) vervoerd worden.
+- b. de gevaarlijke goederen, die onder de bijzondere voorwaarden van de Bijlage als handbagage, aangegeven bagage of in of op voertuigen in de zin van [artikel 12 van de Uniforme Regelen CIV](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=I&artikel=12&z=2015-07-01&g=2015-07-01) vervoerd worden.
 
 § 2. Gevaarlijke goederen mogen uitsluitend als handbagage worden meegenomen of worden verzonden of vervoerd als aangegeven bagage of aan boord van voertuigen indien zij voldoen aan de bijzondere voorwaarden van de Bijlage.
 
@@ -3186,7 +3140,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - b. „voertuig”: elk voertuig dat zich op eigen wielen kan voortbewegen langs spoorstaven en dat niet is voorzien van tractiemiddelen;
 
-- c. „houder”: degene die een voertuig duurzaam economisch exploiteert als vervoermiddel, ongeacht of hij er de eigenaar van is of het recht heeft erover te beschikken;
+- c. „houder”: de persoon of entiteit die eigenaar van een voertuig is of het recht heeft erover te beschikken en dit voertuig als vervoermiddel exploiteert;
 
 - d. „depotstation”: de plaats die op het voertuig is vermeld en waarnaar dit voertuig, overeenkomstig de voorwaarden in de gebruiksovereenkomst, kan of moet worden teruggezonden.
 
@@ -3282,7 +3236,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 § 1. Deze Uniforme Regelen zijn van toepassing op elke overeenkomst inzake het gebruik van een spoorweginfrastructuur ten behoeve van internationaal vervoer in de zin van de Uniforme Regelen CIV en Uniforme Regelen CIM. Dit geldt ongeacht de zetel en de nationaliteit van de partijen bij de overeenkomst. Deze Uniforme Regelen zijn eveneens van toepassing, wanneer de spoorweginfrastructuur wordt beheerd of gebruikt door Staten of overheidsinstellingen of -organisaties.
 
-§ 2. Behoudens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=21&z=2012-01-01&g=2012-01-01) zijn deze Uniforme Regelen niet van toepassing op andere rechtsverhoudingen, zoals met name:
+§ 2. Behoudens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&artikel=21&z=2015-07-01&g=2015-07-01) zijn deze Uniforme Regelen niet van toepassing op andere rechtsverhoudingen, zoals met name:
 
 - a. de aansprakelijkheid van de vervoerder of de beheerder jegens hun ondergeschikten of jegens andere personen, van wier diensten zij gebruik maken bij de uitvoering van hun taken;
 
@@ -3910,9 +3864,9 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 ##### Artikel 5bis. Wetgeving die onverlet blijft
 
-§ 1. De bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=5&z=2012-01-01&g=2012-01-01) alsmede die van de artikelen 6, 7 en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=22&z=2012-01-01&g=2012-01-01) laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen uit hoofde van de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, onverlet; hetzelfde geldt, in voorkomend geval, voor het gemeenschapsrecht.
+§ 1. De bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=5&z=2015-07-01&g=2015-07-01) alsmede die van de artikelen 6, 7 en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=22&z=2015-07-01&g=2015-07-01) laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen uit hoofde van de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, onverlet; hetzelfde geldt, in voorkomend geval, voor het recht van de Europese Unie.
 
-§ 2. De bepalingen van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2012-01-01&g=2012-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2012-01-01&g=2012-01-01) laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen in een Lidstaat van de Europese Gemeenschap of in een Staat waar het gemeenschapsrecht van toepassing is uit hoofde van internationale overeenkomsten met de Europese Gemeenschap, onverlet.
+§ 2. De bepalingen van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2015-07-01&g=2015-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2015-07-01&g=2015-07-01) laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen in een Lidstaat van de Europese Unie of in een Staat waar het recht van de Europese Unie van toepassing is uit hoofde van internationale overeenkomsten met de Europese Unie, onverlet.
 
 § 3. De bepalingen van §§ 1 en 2 betreffen in het bijzonder:
 
@@ -3936,7 +3890,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 § 2. De vervoerder moet de beheerder in kennis stellen van elke gebeurtenis die de geldigheid van zijn vergunning, van zijn veiligheidscertificaten of van andere bewijsstukken kan aantasten.
 
-§ 3. De beheerder kan verlangen dat de vervoerder bewijst dat hij een toereikende aansprakelijkheidsverzekering heeft gesloten of gelijkwaardige maatregelen heeft getroffen ter dekking van alle vorderingen, ongeacht de rechtsgrond, zoals bedoeld in de [artikelen 9 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2012-01-01&g=2012-01-01). De vervoerder moet jaarlijks door middel van een naar behoren opgestelde verklaring bewijzen dat de aansprakelijkheidsverzekering of de gelijkwaardige maatregelen nog steeds bestaan; hij moet de beheerder kennisgeven van elke wijziging hiervan, voordat deze van kracht wordt.
+§ 3. De beheerder kan verlangen dat de vervoerder bewijst dat hij een toereikende aansprakelijkheidsverzekering heeft gesloten of gelijkwaardige maatregelen heeft getroffen ter dekking van alle vorderingen, ongeacht de rechtsgrond, zoals bedoeld in de [artikelen 9 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2015-07-01&g=2015-07-01). De vervoerder moet jaarlijks door middel van een naar behoren opgestelde verklaring bewijzen dat de aansprakelijkheidsverzekering of de gelijkwaardige maatregelen nog steeds bestaan; hij moet de beheerder kennisgeven van elke wijziging hiervan, voordat deze van kracht wordt.
 
 § 4. De partijen bij de overeenkomst moeten elkaar in kennis stellen van elke gebeurtenis die de uitvoering van de door hen gesloten overeenkomst zou kunnen verhinderen.
 
@@ -4022,11 +3976,11 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 ##### Artikel 10. Medeschuld
 
-§ 1. Wanneer oorzaken die aan de beheerder en oorzaken die aan de vervoerder toe te rekenen zijn, hebben bijgedragen aan de schade, is iedere partij bij de overeenkomst slechts aansprakelijk voorzover de oorzaken die krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2012-01-01&g=2012-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2012-01-01&g=2012-01-01) aan haar toe te rekenen zijn, aan de schade hebben bijgedragen. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, draagt iedere partij de door haar geleden schade.
+§ 1. Wanneer oorzaken die aan de beheerder en oorzaken die aan de vervoerder toe te rekenen zijn, hebben bijgedragen aan de schade, is iedere partij bij de overeenkomst slechts aansprakelijk voorzover de oorzaken die krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2015-07-01&g=2015-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2015-07-01&g=2015-07-01) aan haar toe te rekenen zijn, aan de schade hebben bijgedragen. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, draagt iedere partij de door haar geleden schade.
 
 § 2. Paragraaf 1 is van overeenkomstige toepassing, wanneer aan de beheerder toe te rekenen oorzaken en aan meer vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt, toe te rekenen oorzaken aan de schade hebben bijgedragen.
 
-§ 3. In geval van schade zoals bedoeld in [artikel 9, is § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2012-01-01&g=2012-01-01) van overeenkomstige toepassing, wanneer oorzaken die hebben bijgedragen aan de schade, toe te rekenen zijn aan meerdere vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, zijn de vervoerders jegens de beheerder voor gelijke delen aansprakelijk.
+§ 3. In geval van schade zoals bedoeld in [artikel 9, is § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2015-07-01&g=2015-07-01) van overeenkomstige toepassing, wanneer oorzaken die hebben bijgedragen aan de schade, toe te rekenen zijn aan meerdere vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, zijn de vervoerders jegens de beheerder voor gelijke delen aansprakelijk.
 
 ##### Artikel 11. Schadevergoeding in geval van dood
 
@@ -4034,7 +3988,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 - a. de ten gevolge van het overlijden noodzakelijke kosten, met name die van het vervoer van het stoffelijk overschot en de lijkbezorging;
 
-- b. indien de dood niet onmiddellijk is ingetreden, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde schadevergoeding.
+- b. indien de dood niet onmiddellijk is ingetreden, de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2015-07-01&g=2015-07-01) bedoelde schadevergoeding.
 
 § 2. Indien door de dood personen, jegens wie de overledene een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de overledene zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
@@ -4048,11 +4002,11 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de s
 
 ##### Artikel 13. Vergoeding van andere personenschade
 
-Het nationale recht bepaalt of, en in welke mate, de beheerder of de vervoerder andere dan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2012-01-01&g=2012-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde personenschade moet vergoeden.
+Het nationale recht bepaalt of, en in welke mate, de beheerder of de vervoerder andere dan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2015-07-01&g=2015-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2015-07-01&g=2015-07-01) bedoelde personenschade moet vergoeden.
 
 ##### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
-§ 1. De in de [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2012-01-01&g=2012-01-01) en [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2012-01-01&g=2012-01-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de benadeelde persoon of de in [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2012-01-01&g=2012-01-01) bedoelde rechthebbenden zulks verlangen.
+§ 1. De in de [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2015-07-01&g=2015-07-01) en [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2015-07-01&g=2015-07-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de benadeelde persoon of de in [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2015-07-01&g=2015-07-01) bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per persoon een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
@@ -4064,7 +4018,7 @@ De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers geldend op de dag en de plaats van betaling van de schadevergoeding.
 
-§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van aanvang van een bemiddelingsprocedure, van het beroep op het in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) bedoelde scheidsgerecht of van het instellen van de rechtsvordering.
+§ 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van aanvang van een bemiddelingsprocedure, van het beroep op het in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2015-07-01&g=2015-07-01) bedoelde scheidsgerecht of van het instellen van de rechtsvordering.
 
 ##### Artikel 17. Aansprakelijkheid in geval van een kernongeval
 
@@ -4094,7 +4048,7 @@ De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun rech
 
 ##### Artikel 22. Bemiddelingsprocedure
 
-De partijen bij de overeenkomst kunnen bemiddelingsprocedures overeenkomen of een beroep doen op een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) voorgeschreven scheidsgerecht.
+De partijen bij de overeenkomst kunnen bemiddelingsprocedures overeenkomen of een beroep doen op een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2015-07-01&g=2015-07-01) voorgeschreven scheidsgerecht.
 
 ##### Artikel 23. Regres
 
@@ -4116,7 +4070,7 @@ De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of
 
 § 4. Een regresvordering door een aansprakelijk gestelde persoon kan zelfs na verloop van de in § 1 bedoelde verjaringstermijn worden ingesteld, indien zulks geschiedt binnen de termijn die hiervoor is bepaald in de wet van de Staat waar de procedure is aangevangen. Deze termijn kan echter niet korter zijn dan negentig dagen te rekenen van de dag waarop de persoon die de regresvordering instelt, de vordering buiten rechte heeft geregeld of zelf betekening van de dagvaarding heeft ontvangen.
 
-§ 5. De verjaring wordt geschorst, wanneer de partijen bij het geschil een bemiddelingsprocedure overeenkomen of de zaak aanhangig maken bij een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) voorgeschreven scheidsgerecht.
+§ 5. De verjaring wordt geschorst, wanneer de partijen bij het geschil een bemiddelingsprocedure overeenkomen of de zaak aanhangig maken bij een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2015-07-01&g=2015-07-01) voorgeschreven scheidsgerecht.
 
 § 6. Overigens geldt voor de schorsing en de stuiting van de verjaring het nationale recht.
 
@@ -4168,7 +4122,7 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 ##### Artikel 5. Verbindendverklaring van technische normen
 
-§ 1. De Commissie van technisch deskundigen beslist of een technische norm of onderdelen daarvan verbindend worden verklaard in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2012-01-01&g=2012-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2012-01-01&g=2012-01-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01).
+§ 1. De Commissie van technisch deskundigen beslist of een technische norm of onderdelen daarvan verbindend worden verklaard in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2015-07-01&g=2015-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2015-07-01&g=2015-07-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01).
 
 § 2. Een verzoek om verbindendverklaring van een technische norm kan ingediend worden door:
 
@@ -4186,7 +4140,7 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 ##### Artikel 6. Aanneming van UTP’s
 
-§ 1. De Commissie van technisch deskundigen beslist over de aanneming van een UTP of van een bepaling tot wijziging ervan in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2012-01-01&g=2012-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2012-01-01&g=2012-01-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2012-01-01&g=2012-01-01). De beslissingen treden in werking in overeenstemming met [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01).
+§ 1. De Commissie van technisch deskundigen beslist over de aanneming van een UTP of van een bepaling tot wijziging ervan in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2015-07-01&g=2015-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2015-07-01&g=2015-07-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2015-07-01&g=2015-07-01). De beslissingen treden in werking in overeenstemming met [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01).
 
 § 2. Een verzoek voor het aannemen van een UTP of van een bepaling tot wijziging ervan volgens § 1 kan ingediend worden door:
 
@@ -4198,7 +4152,7 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 ##### Artikel 7. Vorm van de verzoeken
 
-De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-Generaal en gericht aan de Commissie van technisch deskundigen in een van de werktalen volgens [artikel 1, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01). De Commissie van technisch deskundigen kan een verzoek afwijzen, indien zij meent dat het verzoek niet volledig, samenhangend, behoorlijk gemotiveerd of gerechtvaardigd is. Het verzoek moet een raming van de sociale, economische en milieukundige gevolgen bevatten.
+De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-Generaal en gericht aan de Commissie van technisch deskundigen in een van de werktalen volgens [artikel 1, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01). De Commissie van technisch deskundigen kan een verzoek afwijzen, indien zij meent dat het verzoek niet volledig, samenhangend, behoorlijk gemotiveerd of gerechtvaardigd is. Het verzoek moet een raming van de sociale, economische en milieukundige gevolgen bevatten.
 
 ##### Artikel 7a. Raming van de gevolgen
 
@@ -4214,9 +4168,9 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 2. In beginsel is op elk subsysteem één UTP van toepassing. Zo nodig kunnen op een subsysteem diverse UTP’s van toepassing zijn en kan een UTP op meerdere subsystemen van toepassing zijn.
 
-§ 2a. De UTP’s zijn van toepassing op nieuwe subsystemen. Zij zijn ook van toepassing op een bestaand subsysteem dat is vernieuwd of verbeterd en in overeenstemming is met de migratiestrategie bedoeld in § 4, onderdeel f.
+§ 2a. De UTP’s zijn van toepassing op nieuwe subsystemen. Zij zijn ook van toepassing op een bestaand subsysteem dat is vernieuwd of verbeterd. De toepassing dient in overeenstemming te zijn met de migratiestrategie bedoeld in § 4, onder f.
 
-§ 3. Na de kennisgevingsprocedure bedoeld in [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01) en ten minste een maand voor de inwerkingtreding, publiceert de Secretaris-Generaal op de website van de Organisatie:
+§ 3. Na de kennisgevingsprocedure bedoeld in [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01) en ten minste een maand voor de inwerkingtreding, publiceert de Secretaris-Generaal op de website van de Organisatie:
 
 - a. de aangenomen UTP waarvan kennisgeving is gedaan;
 
@@ -4250,7 +4204,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 8. De Commissie van technisch deskundigen kan UTP’s aannemen die niet verwijzen naar subsystemen, bijvoorbeeld algemene bepalingen, essentiële eisen of beoordelingsmodules.
 
-§ 9. De UTP’s verschijnen in een formaat bestaande uit twee kolommen. Wanneer de tekst over de volle breedte van de pagina verschijnt zonder kolommen is deze gelijk aan de desbetreffende teksten van de technische specificaties inzake operabiliteit (TSI) van de Europese Gemeenschap. Wanneer de tekst verdeeld is over twee kolommen wijkt deze af voor de UTP’s en voor de desbetreffende TSI’s of andere regelgeving van de Europese Gemeenschap. De linkerkolom bevat de tekst van de UTP (OTIF-voorschriften) en de rechterkolom bevat de TSI-tekst (Europese Gemeenschap). Uiterst rechts staat de verwijzing naar de TSI.
+§ 9. De UTP’s verschijnen in een formaat bestaande uit twee kolommen. Wanneer de tekst over de volle breedte van de pagina verschijnt zonder kolommen is deze gelijk aan de desbetreffende teksten van de technische specificaties inzake operabiliteit (TSI) van de Europese Unie. Wanneer de tekst verdeeld is over twee kolommen wijkt deze af voor de UTP’s en voor de desbetreffende TSI’s of andere regelgeving van de Europese Unie. De linkerkolom bevat de tekst van de UTP (OTIF-voorschriften) en de rechterkolom bevat de TSI-tekst (Europese Unie). Uiterst rechts staat de verwijzing naar de TSI.
 
 ##### Artikel 8a. Vastgestelde gebreken in UTP’s
 
@@ -4266,7 +4220,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 1. Elke Verdragsstaat kan, binnen een termijn van vier maanden te rekenen vanaf de dag van de bekendmaking door de Secretaris-Generaal van het besluit van de Commissie van technisch deskundigen, ten overstaan van hem een met redenen omklede verklaring afleggen op grond waarvan hij de verbindendverklaarde technische norm of de aangenomen UTP met betrekking tot de spoorweginfrastructuur op zijn grondgebied en het verkeer op deze infrastructuur niet of slechts gedeeltelijk zal toepassen.
 
-§ 2. De Verdragsstaten die een verklaring hebben afgelegd overeenkomstig § 1 worden niet in aanmerking genomen bij het bepalen van het aantal Staten die overeenkomstig [artikel 35, § 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2012-01-01&g=2012-01-01) een bezwaar moeten aantekenen waardoor een beslissing van de Commissie van technisch deskundigen niet in werking treedt.
+§ 2. De Verdragsstaten die een verklaring hebben afgelegd overeenkomstig § 1 worden niet in aanmerking genomen bij het bepalen van het aantal Staten die overeenkomstig [artikel 35, § 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2015-07-01&g=2015-07-01) een bezwaar moeten aantekenen waardoor een beslissing van de Commissie van technisch deskundigen niet in werking treedt.
 
 § 3. De Staat die een verklaring heeft afgelegd overeenkomstig § 1 kan deze op elk moment intrekken door de Secretaris-Generaal hiervan in kennis te stellen. Deze intrekking wordt van kracht op de eerste dag van de tweede maand die volgt op de kennisgeving.
 
@@ -4286,7 +4240,7 @@ De inwerkingtreding in alle Staten die partij zijn bij het Internationale Verdra
 
 ##### Artikel 12. Nationale technische specificaties
 
-§ 1. De Verdragsstaten waarborgen dat de Secretaris-Generaal in kennis wordt gesteld van hun nationale technische specificaties die van toepassing zijn op spoorvoertuigen en ander spoorwegmaterieel. De Secretaris-Generaal publiceert deze specificaties in de databank genoemd in artikel 13 van de Uniforme Regelen van de ATMF.
+§ 1. De Verdragsstaten waarborgen dat de Secretaris-Generaal in kennis wordt gesteld van hun nationale technische specificaties die van toepassing zijn op spoorvoertuigen. De Secretaris-Generaal publiceert deze specificaties in de databank genoemd in artikel 13 van de Uniforme Regelen van de ATMF.
 
 De informatie wordt meegedeeld aan de Secretaris-Generaal binnen drie maanden na de datum waarop de herziene Uniforme Regelen in werking treden.
 
@@ -4326,25 +4280,33 @@ Deze Uniforme Regelen leggen de procedure vast volgens welke spoorvoertuigen en 
 
 Voor de toepassing van deze Uniforme Regelen en hun toekomstige Bijlage(n), de APTU Uniforme Regelen en hun Bijlage(n) en de APTU Uniforme Technische Voorschriften (UTP) zijn de volgende begripsomschrijvingen van toepassing:
 
-- a. „ongeval”, een ongewenste of onbedoelde plotselinge gebeurtenis of reeks gebeurtenissen van die aard met schadelijke gevolgen; ongevallen worden in de volgende categorieën onderverdeeld: botsingen, ontsporingen, ongevallen op spoorwegovergangen, persoonlijke ongevallen veroorzaakt door rollend materieel in rijdende toestand, branden en andere ongevallen;
+- a. „ongeval”, een ongewenste of onbedoelde plotselinge gebeurtenis of specifieke reeks gebeurtenissen van die aard met schadelijke gevolgen; ongevallen worden in de volgende categorieën onderverdeeld: botsingen, ontsporingen, ongevallen op spoorwegovergangen, persoonlijke ongevallen veroorzaakt door rollend materieel in rijdende toestand, branden en andere ongevallen;
 
-- b. „constructietypetoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit een constructietype spoorvoertuig toelaat op grond waarvan het gebruik wordt toegestaan van voertuigen die met dat type overeenkomen;
+- ab. „accreditatie”, een verklaring door een nationale accreditatie-instantie dat een overeenstemmingsbeoordelingsorgaan voldoet aan de eisen van de Europese geharmoniseerde normen of toepasselijke internationale normen en, wanneer van toepassing, alle aanvullende eisen, waaronder de eisen vermeld in de relevante sectorale regelingen, om een specifieke overeenstemmingsbeoordelingsactiviteit uit te voeren.
 
-- c. „gebruikstoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit elk spoorvoertuig of ander spoorwegmaterieel toelaat tot het rijden in het internationaal verkeer;
+- ac. „accreditatie-instantie”, de enige instantie in een Verdragsstaat die accreditaties uitvoert krachtens de haar door de staat verleende bevoegdheid.
 
-- d. „Commissie van technisch deskundigen”, de Commissie voorzien in [artikel 13, § 1, onderdeel f, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2012-01-01&g=2012-01-01).
+- b. „constructietypetoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit een constructietype spoorvoertuig toelaat op grond waarvan de exploitatie wordt toegestaan van voertuigen die met dat type overeenkomen, zoals blijkt uit een certificaat van het typeontwerp;
 
-- da. „aanbestedende dienst”, elke openbare of particuliere entiteit die opdracht geeft voor het ontwerp of de constructie of de vernieuwing of verbetering van een subsysteem. Deze entiteit kan een spoorwegonderneming, een infrastructuurbeheerder, een houder of een concessionaris die belast is met de uitvoering van een project zijn;
+- c. „gebruikstoelating”, het verleende recht uit hoofde waarvan de bevoegde autoriteit elk spoorvoertuig toelaat tot het rijden in het internationaal verkeer, zoals blijkt uit een gebruikscertificaat;
 
-- e. „Verdragsstaat”, elke Lidstaat van de Organisatie, die geen verklaring met betrekking tot deze Uniforme Regelen heeft afgelegd overeenkomstig [artikel 42, § 1, eerste zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2012-01-01&g=2012-01-01);
+- ca. „gebruikscertificaat”, de door de bevoegde autoriteit afgegeven verklaring inzake toelating tot gebruik, met inbegrip van de voorwaarden van de toelating;
 
-- f. „verklaring”, het bewijs van een beoordeling of onderdeel van beoordelingen verricht teneinde te bevestigen dat een voertuig, constructietype of een element van een constructie voldoet aan de bepalingen van de APTU Uniforme Regelen en de UTP’s (met inbegrip van relevante specifieke gevallen en nationale specificaties die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen);
+- cb. „verificatiecertificaat”, de door een beoordelingsentiteit afgegeven verklaring dat de verificatie is uitgevoerd met een positief resultaat;
 
-- g. „element van een constructie” of „onderdeel”, een basiscomponent, groep componenten, deel van een samenstel of volledig samenstel van materieel, deel uitmakend of bestemd om deel uit te maken van een spoorvoertuig, ander spoorwegmaterieel of infrastructuur; het begrip „element van een constructie” dekt niet alleen materiële, maar ook immateriële objecten, zoals programmatuur;
+- d. „Commissie van technisch deskundigen”, de Commissie voorzien in [artikel 13, § 1, onderdeel f, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2015-07-01&g=2015-07-01);
 
-- h. „de met het onderhoud belaste entiteit” (ECM), de entiteit die belast is met het onderhoud van een voertuig en als zodanig geregistreerd is in het voertuigenregister overeenkomstig artikel 13; deze omschrijving is eveneens van toepassing op ander spoorwegmaterieel;
+- da. „aanbestedende dienst”, elke openbare of particuliere entiteit die opdracht geeft voor het ontwerp en/of de constructie of de vernieuwing of verbetering van een subsysteem. Deze entiteit kan een spoorwegonderneming, een infrastructuurbeheerder, een houder of een concessionaris belast met de uitvoering van een project zijn;
 
-- i. „essentiële eisen, alle in de APTU Uniforme Regelen omschreven voorwaarden waaraan het spoorwegsysteem, de subsystemen en de interoperabiliteitsonderdelen, met inbegrip van de interfaces, moeten voldoen;
+- e. „Verdragsstaat”, elke Lidstaat van de Organisatie die geen verklaring met betrekking tot deze Uniforme Regelen heeft afgelegd overeenkomstig [artikel 42, § 1, eerste zin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2015-07-01&g=2015-07-01);
+
+- f. „certificaat van het typeontwerp”, de door de bevoegde autoriteit afgegeven verklaring inzake toelating van een constructietype, met inbegrip van de voorwaarden van de toelating;
+
+- g. „element van een constructie”, ook wel „interoperabiliteitsonderdeel” genoemd, een basiscomponent, groep componenten, deel van een samenstel of volledig samenstel van materieel, deel uitmakend of bestemd om deel uit te maken van een spoorvoertuig of spoorweginfrastructuur; het begrip „element van een constructie” dekt niet alleen materiële, maar ook immateriële objecten, zoals programmatuur;
+
+- h. [gereserveerd]
+
+- i. „essentiële eisen”, alle in de toepasselijke UTP’s omschreven voorwaarden waaraan het spoorwegsysteem, de subsystemen en de interoperabiliteitsonderdelen, met inbegrip van de interfaces, moeten voldoen;
 
 - j. „incident”, elk ander voorval dan een ongeval of een ernstig ongeval, dat verband houdt met de exploitatie van treinen en dat de veiligheid van de exploitatie aantast;
 
@@ -4352,55 +4314,57 @@ Voor de toepassing van deze Uniforme Regelen en hun toekomstige Bijlage(n), de A
 
 - l. „internationaal verkeer”, het rijden van spoorvoertuigen over spoorlijnen die gelegen zijn op het grondgebied van ten minste twee Verdragsstaten;
 
-- m. „onderzoek”, een procedure die beoogt ongevallen en incidenten te voorkomen, waaronder de verzameling en analyse van informatie, het trekken van conclusies, daarbij inbegrepen het vaststellen van de oorzaken (handelingen, verzuimen, gebeurtenissen, omstandigheden of een combinatie daarvan die tot het ongeval of incident hebben geleid) en, waar nodig, het doen van veiligheidsaanbevelingen.
+- m. „onderzoek”, een procedure teneinde ongevallen en incidenten te voorkomen, waaronder het verzamelen en analyseren van informatie, het trekken van conclusies, daarbij inbegrepen het vaststellen van de oorzaken (handelingen, verzuimen, gebeurtenissen, omstandigheden of een combinatie daarvan die tot het ongeval of incident hebben geleid) en, waar nodig, het doen van veiligheidsaanbevelingen;
 
 - n. „houder”, de persoon of entiteit die eigenaar is van een voertuig of het recht heeft het te gebruiken, het voertuig exploiteert als vervoermiddel en als zodanig geregistreerd is in het voertuigenregister bedoeld in artikel 13;
 
-- o. „onderhoudsdossier”, document(en) waarin de inspecties en onderhoudswerkzaamheden worden beschreven die uitgevoerd moeten worden aan een (type) voertuig of ander spoorwegmaterieel en dat/die is/zijn opgezet volgens de regels en specificaties in de UTP’s, met inbegrip van eventuele specifieke gevallen en van kracht zijnde nationale technische specificaties, overeenkomstig artikel 12 van de APTU Uniforme Regelen;
+- o. „onderhoudsdossier”, document(en) waarin de inspecties en onderhoudswerkzaamheden worden beschreven die uitgevoerd moeten worden aan een voertuig en dat/die is/zijn opgezet volgens de regels en bepalingen in de UTP’s, met inbegrip van eventuele specifieke gevallen en van kracht zijnde nationale technische specificaties, overeenkomstig artikel 12 van de APTU Uniforme Regelen. Het onderhoudsdossier bevat het dossier omtrent de staat van onderhoud zoals omschreven onder p;
 
-- p. „dossier omtrent staat van onderhoud”, de documentatie met betrekking tot een toegelaten voertuig of ander spoorwegmaterieel over de gebruiksgeschiedenis, de verrichte inspecties en onderhoudswerkzaamheden;
+- p. „dossier omtrent de staat van onderhoud”, de documentatie met betrekking tot een toegelaten voertuig over de gebruiksgeschiedenis, de verrichte inspecties en onderhoudswerkzaamheden;
 
 - q. „netwerk”, de lijnen, stations, terminals en alle soorten vaste uitrusting die nodig zijn voor een veilige en continue werking van het spoorwegsysteem;
 
-- r. „open punten”, de technische aspecten die betrekking hebben op essentiële eisen die niet expliciet aan de orde komen in een UTP;
+- r. „open punten”, de technische aspecten die betrekking hebben op essentiële eisen die niet aan de orde komen in een UTP en expliciet als zodanig in die UTP worden vermeld;
 
-- s. „ander spoorwegmaterieel”, elk spoorwegmaterieel dat bestemd is voor gebruik in het internationaal verkeer en dat geen spoorvoertuig is;
+- s. [gereserveerd]
 
-- t. „spoorwegvervoeronderneming”, elke privaatrechtelijke of publiekrechtelijke onderneming:
+- t. spoorwegvervoeronderneming”, of „spoorwegonderneming”, elke privaatrechtelijke of publiekrechtelijke onderneming waaraan uit hoofde van de van kracht zijnde wetgeving de bevoegdheid of een vergunning is verleend personen of goederen per spoor te vervoeren en die voor de tractie dient te zorgen; hieronder vallen tevens ondernemingen die uitsluitend de tractie verzorgen;
 
-- –. waaraan de bevoegdheid is verleend personen of goederen per spoor te vervoeren en die voor de tractie zorgt of
+- u. spoorweginfrastructuur” (of alleen „infrastructuur”), alle spoorlijnen en vaste installaties, voor zover deze nodig zijn voor de compatibiliteit met spoorvoertuigen toegelaten overeenkomstig deze Uniforme Regelen en voor het veilig rijden van deze voertuigen;
 
-- –. die uitsluitend de tractie verzorgt;
-
-- u. „spoorweginfrastructuur” (of alleen „infrastructuur”), alle spoorlijnen en vaste installaties, voor zover deze nodig zijn voor de compatibiliteit met spoorvoertuigen en ander spoorwegmaterieel toegelaten overeenkomstig deze Uniforme Regelen en voor het rijden in alle veiligheid van deze voertuigen en ander spoorwegmaterieel;
-
-- v. „spoorwegmaterieel”, spoorvoertuigen, ander spoorwegmaterieel en spoorweginfrastructuren;
+- v. „spoorwegmaterieel”, spoorvoertuigen en spoorweginfrastructuren;
 
 - w. „spoorvoertuig”, elk voertuig dat geschikt is om zich met of zonder tractie op eigen wielen voort te bewegen over spoorlijnen;
 
-- x. „regionale organisatie”, een organisatie zoals omschreven in artikel 38 van het Verdrag binnen de exclusieve bevoegdheid die haar door de Verdragsstaten werd verleend;
+- wa. „erkenning”:
+
+- 1. erkenning door een bevoegd nationaal orgaan, anders dan de accreditatie-instantie, dat een entiteit aan de toepasselijke eisen voldoet, of
+
+- 2. de aanvaarding door een bevoegde autoriteit van certificaten, documentatie of testresultaten die door een entiteit van een andere Verdragsstaat worden afgegeven;
+
+- x. „regionale organisatie”, een organisatie zoals omschreven in [artikel 38 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=38&z=2015-07-01&g=2015-07-01) binnen de exclusieve bevoegdheid die haar door de Verdragsstaten is verleend;
 
 - y. „vernieuwing”, belangrijke vervangingswerkzaamheden uitgevoerd op een subsysteem of deel van een subsysteem en die geen wijziging van de algemene prestaties van het subsysteem tot gevolg hebben;
 
-- ya. „RID”, Aanhangsel C bij het Verdrag;
-
 - z. „ernstig ongeval”, elke botsing of ontsporing van treinen, waarbij ten minste één persoon omkomt of vijf of meer personen ernstig gewond raken of grote schade aan het rollend materieel, de infrastructuur of het milieu wordt veroorzaakt, dan wel elk soortgelijk ongeval dat duidelijk consequenties heeft voor de regelgeving op het gebied van de veiligheid op het spoor of het veiligheidsbeheer; onder „grote schade” wordt verstaan schade waarvan de totale kosten onmiddellijk door de onderzoekende instantie op ten minste 1,8 miljoen SDR kunnen worden geraamd;
 
-- aa. „specifiek geval”, elk deel van het spoorwegsysteem van de Verdragsstaten waarvoor om geografische of topografische redenen of omwille van het stadsmilieu of de coherentie met het bestaande systeem, bijzondere tijdelijke of definitieve bepalingen in de UTP’s moeten worden opgenomen. Dergelijke gevallen zijn bijvoorbeeld spoorlijnen en -netwerken die niet verbonden zijn met de rest van het netwerk, het profiel, de spoorwijdte of de spoorafstand, alsmede voertuigen en ander spoorwegmaterieel die uitsluitend bestemd zijn voor lokaal, regionaal of historisch gebruik en voertuigen en ander spoorwegmaterieel afkomstig uit of bestemd voor derde landen;
+- aa. „specifiek geval”, elk deel van het spoorwegsysteem van de Verdragsstaten waarvoor om geografische of topografische redenen of omwille van het stadsmilieu of de compatibiliteit met het bestaande systeem, bijzondere tijdelijke of definitieve bepalingen in de UTP’s moeten worden opgenomen. Dergelijke gevallen zijn bijvoorbeeld spoorlijnen en -netwerken die niet verbonden zijn met de rest van het netwerk, het profiel, de spoorwijdte of de spoorafstand, alsmede voertuigen en ander spoorwegmaterieel die uitsluitend bestemd zijn voor lokaal, regionaal of historisch gebruik en voertuigen afkomstig uit of bestemd voor derde landen;
 
-- bb. „subsysteem”, het resultaat van de onderverdeling van het spoorwegsysteem, zoals in de UTP’s aangegeven; deze subsystemen waarvoor essentiële eisen moeten worden gedefinieerd, kunnen van structurele of functionele aard zijn;
+- bb. „subsystemen”, het resultaat van de onderverdeling van het spoorwegsysteem, zoals in de UTP’s aangegeven; deze subsystemen waarvoor essentiële eisen moeten worden gedefinieerd, kunnen van structurele of functionele aard zijn;
 
-- cc. „technische toelating”, de procedure die door de bevoegde autoriteit wordt gevolgd om een spoorvoertuig of ander spoorwegmaterieel tot het rijden of tot het gebruik in het internationaal verkeer toe te laten of om een constructietype toe te laten;
+- cc. „technische toelating”, de procedure die door de bevoegde autoriteit wordt gevolgd om een spoorvoertuig tot het rijden of tot het gebruik in het internationaal verkeer toe te laten of om een constructietype toe te laten;
 
-- dd. „technisch certificaat”, het officiële bewijs van de technische toelating in de vorm van een geldig certificaat van de typetoelating of een geldig gebruikscertificaat;
+- dd. [gereserveerd]
 
-- ee. „technisch dossier”, de documentatie met betrekking tot het voertuig of ander spoorwegmaterieel die alle technische kenmerken van het type bevat (typekenmerken), met inbegrip van een gebruikershandleiding en de nodige kenmerken om het desbetreffende object of de desbetreffende objecten te identificeren;
+- ee. „technisch dossier”, de documentatie met betrekking tot het voertuig die alle technische kenmerken bevat, met inbegrip van een gebruikershandleiding en de nodige kenmerken om het desbetreffende object of de desbetreffende objecten te identificeren, zoals omschreven in de relevante UTP;
 
-- eea. „TSI”, de technische specificaties inzake interoperabiliteit aangenomen in overeenstemming met [Richtlijnen 96/48/EG](31996L0048), [2001/16/EG](32001L0016) en [2008/57/EG](32008L0057) die op elk subsysteem of deel van een subsysteem van toepassing zijn teneinde te voldoen aan de essentiële eisen en de interoperabiliteit van het spoorwegsysteem te waarborgen;
+- ee1. „trein”, een formatie die van tractie is voorzien, bestaat uit een of meer spoorvoertuigen en gereed is om te worden geëxploiteerd;
 
-- ff. „constructietype”, de elementaire ontwerpkenmerken van het spoorvoertuig of ander spoorwegmaterieel waarop een afzonderlijk onderzoekscertificaat omschreven in beoordelingsmodule SB van de UTP’s van toepassing is;
+- eea. „TSI”, de technische specificaties inzake interoperabiliteit aangenomen in overeenstemming met [Richtlijnen 96/48/EG](31996L0048), [2001/16/EG](32001L0016) of [2008/57/EG](32008L0057) die op elk subsysteem of deel van een subsysteem van toepassing zijn teneinde te voldoen aan de essentiële eisen en de interoperabiliteit van het spoorwegsysteem te waarborgen;
 
-- gg. „verbetering”, belangrijke werkzaamheden waarbij een subsysteem of deel van een subsysteem wordt gewijzigd en die een verbetering van de algemene prestaties van het subsysteem tot gevolg hebben.
+- ff. „constructietype”, de elementaire ontwerpkenmerken van het spoorvoertuig waarop een afzonderlijk onderzoekscertificaat of ontwerpcertificaat omschreven in respectievelijk beoordelingsmodule SB en SH1 van de UTP GEN-D van toepassing is;
+
+- gg. „verbetering”, belangrijke werkzaamheden waarbij een subsysteem of deel van een subsysteem wordt gewijzigd en die verbetering van de algemene prestaties van het subsysteem tot gevolg hebben.
 
 ##### Artikel 3. Toelating tot het internationaal verkeer
 
@@ -4416,37 +4380,43 @@ Voor de toepassing van deze Uniforme Regelen en hun toekomstige Bijlage(n), de A
 
 § 3. De §§ 1 en 2 alsmede de volgende artikelen zijn van overeenkomstige toepassing op de technische toelating van ander spoorwegmaterieel en op de elementen van constructie van voertuigen of ander spoorwegmaterieel.
 
-##### Artikel 3a. Relatie met andere internationale overeenkomsten
+##### Artikel 3a. Verhouding tot andere internationale overeenkomsten
 
-§ 1. Spoorvoertuigen en ander spoorwegmaterieel in dienst gesteld overeenkomstig het van toepassing zijnde recht van de Europese Gemeenschap (EG) en de desbetreffende nationale wetgeving worden geacht door alle Verdragsstaten overeenkomstig deze Uniforme Regelen te zijn toegelaten voor gebruik:
+§ 1. Spoorvoertuigen in dienst gesteld overeenkomstig de van toepassing zijnde wetgeving van de Europese Unie (EU) en de desbetreffende nationale wetgeving worden geacht door alle Verdragsstaten overeenkomstig deze Uniforme Regelen te zijn toegelaten voor gebruik:
 
-- a. indien de bepalingen van de van toepassing zijnde TSI’s en de desbetreffende UTP’s volledig met elkaar overeenstemmen, en
+- a. indien de bepalingen van de van toepassing zijnde TSI’s en de desbetreffende UTP’s volledig met elkaar overeenstemmen en
 
-- b. mits de reeks van toepassing zijnde TSI’s op grond waarvan het spoorvoertuig of ander spoorwegmaterieel is toegelaten, betrekking hebben op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en
+- b. mits de reeks van toepassing zijnde TSI’s op grond waarvan het spoorvoertuig is toegelaten, betrekking heeft op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en
 
 - c. mits deze TSI’s geen open punten ter zake van de technische compatibiliteit met de infrastructuur bevatten en
 
-- d. mits op het voertuig of ander spoorwegmaterieel geen afwijking van toepassing is.
+- d. mits op het voertuig geen afwijking van toepassing is en
 
-Indien niet aan deze voorwaarden wordt voldaan, is artikel 6, § 4, van toepassing op het voertuig of het overige spoorwegmaterieel.
+- e. mits voor het voertuig geen specifieke gevallen gelden die de voorwaarden van toelating of vergunning voor indienststelling beperken.
 
-§ 2. Spoorvoertuigen en ander spoorwegmaterieel die zijn toegelaten voor gebruik overeenkomstig deze Uniforme Regelen worden geacht in de Lidstaten van de Europese Gemeenschap in dienst te zijn gesteld alsmede in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen
+Indien niet aan de voorwaarden van a tot en met e wordt voldaan, is artikel 6 § 4 van toepassing.
 
-- a. indien de bepalingen van de van toepassing zijnde UTP’s en de desbetreffende TSI’s volledig met elkaar overeenkomen en
+§ 2. Spoorvoertuigen die zijn toegelaten voor gebruik overeenkomstig deze Uniforme Regelen worden geacht in de Lidstaten van de Europese Unie vergunning voor indienststelling te hebben verkregen alsmede in de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen
 
-- b. mits de reeks van toepassing zijnde UTP’s op grond waarvan het spoorvoertuig of ander spoorwegmaterieel is toegelaten, betrekking hebben op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en
+- a. indien de bepalingen in de van toepassing zijnde UTP’s en de desbetreffende TSI’s volledig met elkaar overeenstemmen en
+
+- b. mits de reeks van toepassing zijnde UTP’s op grond waarvan het spoorvoertuig is toegelaten, betrekking heeft op alle aspecten van de desbetreffende subsystemen die deel uitmaken van het voertuig en
 
 - c. mits deze UTP’s geen open punten ter zake van de technische compatibiliteit met de infrastructuur bevatten en
 
-- d. mits op het voertuig of ander spoorwegmaterieel geen afwijking van toepassing is.
+- d. mits op het voertuig geen afwijking van toepassing is en
 
-Indien niet aan deze voorwaarden wordt voldaan, moet het voertuig of ander spoorwegmaterieel worden goedgekeurd overeenkomstig de wetgeving die van toepassing is in de Lidstaten van de Europese Gemeenschap en in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen.
+- e. mits voor het voertuig geen specifieke gevallen gelden die de voorwaarden van toelating of vergunning voor indienststelling beperken.
 
-§ 3. De gebruikstoelating, het gebruik en het onderhoud van in de Lidstaten van de Europese Gemeenschap gebruikte spoorvoertuigen en ander spoorwegmaterieel worden geregeld in het van toepassing zijnde gemeenschaps- en nationale recht. Deze bepaling is tevens van toepassing op Verdragsstaten die het relevante recht van de Europese Gemeenschap ingevolge met haar gesloten internationale overeenkomsten toepassen.
+Indien niet aan de voorwaarden van a tot en met e wordt voldaan, moet het voertuig worden goedgekeurd overeenkomstig de wetgeving die van toepassing is in de Lidstaten van de Europese Unie en in de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen.
+
+§ 3. De vergunning voor indienststelling, het gebruik en het onderhoud van uitsluitend voor gebruik in de Lidstaten van de Europese Unie beoogde spoorvoertuigen worden geregeld in het van toepassing zijnde Unie- en nationale recht. Deze bepaling is tevens van toepassing op Verdragsstaten die het relevante Unierecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen.
+
+Voor spoorwegondernemingen en infrastructuurbeheerders die binnen de EU werkzaam zijn heeft het Unierecht voorrang boven de bepalingen van deze Uniforme Regelen.
 
 § 4. §§ 1 tot en met 2 zijn van overeenkomstige toepassing op toelatingen en goedkeuringen van voertuigtypes.
 
-§ 5. Een met het onderhoud van een goederenwagen belaste entiteit (ECM), die gecertificeerd is overeenkomstig [artikel 15, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15&z=2012-01-01&g=2012-01-01), wordt geacht te zijn gecertificeerd overeenkomstig het van toepassing zijnde recht van de Europese Gemeenschap en de desbetreffende nationale wetgeving en vice versa, ingeval van volledige overeenstemming tussen het certificeringssysteem aangenomen overeenkomstig artikel 14a, vijfde lid, van [richtlijn 2004/49/EG](32004L0049) inzake de veiligheid op de communautaire spoorwegen en de overeenkomstig artikel 15, § 2, door de Commissie van technisch deskundigen aangenomen regels.
+§ 5. Een met het onderhoud1)De eisen die betrekking hebben op de met het onderhoud belaste entiteit zijn vervat in artikel 15. van een goederenwagen belaste entiteit (ECM), die gecertificeerd is overeenkomstig [artikel 15, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15&z=2015-07-01&g=2015-07-01), wordt geacht te zijn gecertificeerd overeenkomstig de van toepassing zijnde wetgeving van de Europese Unie en de desbetreffende nationale wetgeving en vice versa, ingeval van volledige overeenstemming tussen het certificeringssysteem aangenomen overeenkomstig artikel 14a, vijfde lid, van [richtlijn 2004/49/EG](32004L0049) inzake de veiligheid op de communautaire spoorwegen en de overeenkomstig artikel 15, § 2, door de Commissie van technisch deskundigen aangenomen regels. Deze aangenomen regels zijn vervat in Aanhangsel A bij deze Uniforme Regelen.
 
 ##### Artikel 4. Procedure
 
@@ -4456,21 +4426,27 @@ Indien niet aan deze voorwaarden wordt voldaan, moet het voertuig of ander spoor
 
 - b. hetzij in twee opeenvolgende fasen, door het verlenen van:
 
-- –. de typetoelating voor een bepaald type constructie,
+- –. de typetoelating voor een bepaald constructietype,
 
-- –. en vervolgens de gebruikstoelating voor de afzonderlijke voertuigen die overeenkomen met dit type constructie door een vereenvoudigde procedure die bevestigt dat zij tot dit type behoren.
+- –. en vervolgens de gebruikstoelating voor de afzonderlijke voertuigen die overeenkomen met dit constructietype door een procedure die bevestigt dat zij tot dit type behoren.
 
-§ 2. De beoordelingen over de conformiteit van een voertuig of element van de constructie met de bepalingen van de UTP’s waarop de toelating is gebaseerd, kunnen in beoordelingsmodules worden opgesplitst, waarbij voor elke module een afzonderlijke verklaring wordt afgegeven. De beoordelingsmodules en de vorm van de verklaring worden vastgesteld door de Commissie van technisch deskundigen.
+Indien het voertuig in een enkele fase wordt toegelaten wordt tegelijkertijd ook het constructietype van het voertuig toegelaten.
+
+§ 2. Een voertuig of een element van de constructie wordt beoordeeld op conformiteit met de bepalingen van de UTP’s en de toepasselijke nationale technische eisen. De beoordelingsprocedures en inhoud van UTP-certificaten zijn vervat in de relevante UTP’s.
+
+De Commissie van technisch deskundigen is bevoegd de beoordelingsprocedures en de inhoud van UTP-certificaten te wijzigen of in te trekken.
+
+De beoordelingen over de conformiteit van een voertuig met de bepalingen van de UTP waarop de toelating is gebaseerd, kunnen door de beoordelende entiteit in bepaalde onderdelen worden opgesplitst of in bepaalde fases worden gecontroleerd, waarbij voor elk van de onderdelen of fases een afzonderlijke tussentijdse verklaring inzake verificatie wordt afgegeven.
 
 § 3. Op de procedures voor de technische toelating van spoorweginfrastructuur zijn de bepalingen van toepassing die van kracht zijn in de desbetreffende Verdragsstaat.
 
 ##### Artikel 5. Bevoegde autoriteit
 
-§ 1. De technische toelating behoort tot de taak van de nationale of internationale autoriteit die overeenkomstig de van kracht zijnde wetten en voorschriften in iedere Verdragsstaat bevoegd is.
+§ 1. De technische toelating behoort tot de taak van de nationale of internationale autoriteit die overeenkomstig de van kracht zijnde wetten en voorschriften in iedere Verdragsstaat bevoegd is, hierna te noemen de bevoegde autoriteit.
 
-§ 2. De in § 1 genoemde autoriteiten kunnen of moeten, indien voorgeschreven door de in hun Staat van kracht zijnde bepalingen, de bevoegdheid voor het uitvoeren van beoordelingen, met inbegrip van de afgifte van de bijhorende verklaringen, geheel of gedeeltelijk overdragen aan daartoe erkende organen die in hun Staat gevestigd zijn.
+§ 2. De bevoegde autoriteiten kunnen of moeten indien voorgeschreven door de in hun Staat van kracht zijnde bepalingen, de bevoegdheid voor het uitvoeren van beoordelingen, met inbegrip van de afgifte van de bijhorende verklaringen inzake verificatie, geheel of gedeeltelijk overdragen aan beoordelende entiteiten.
 
-De overdracht van bevoegdheden aan:
+Het overdragen van bevoegdheden aan:
 
 - a. een spoorwegonderneming,
 
@@ -4478,57 +4454,41 @@ De overdracht van bevoegdheden aan:
 
 - c. een houder,
 
-- d. een met het onderhoud belaste entiteit (ECM),
+- d. een met het onderhoud belaste entiteit (ECM), overeenkomstig [artikel 15,](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15&z=2015-07-01&g=2015-07-01)
 
 - e. een ontwerper of fabrikant van spoorwegmaterieel die al dan niet rechtstreeks betrokken is bij de vervaardiging van spoorwegmaterieel,
 
-met inbegrip van dochterondernemingen van deze entiteiten, is verboden.
+met inbegrip van dochterondernemingen van deze entiteiten is verboden.
 
-§ 3. Om als geschikt te worden aangemerkt moeten de organen genoemd in § 2 voldoen aan de volgende voorwaarden:
+§ 3. Om erkend of geaccrediteerd te worden moet een in § 2 genoemde beoordelende entiteit voldoen aan de volgende voorwaarden:
 
-- a. Het orgaan moet qua organisatie, juridische structuur en besluitvorming onafhankelijk zijn van spoorwegondernemingen, infrastructuurbeheerders, aanvragers en entiteiten belast met de inkoop; zijn directeur en het personeel dat belast is met de uitvoering van de beoordelingen of de afgifte van certificaten en verklaringen mogen noch direct noch als bevoegde vertegenwoordigers betrokken zijn bij het ontwerp, de vervaardiging, de constructie of het onderhoud van de onderdelen, voertuigen of spoorwegmaterieel noch bij het gebruik ervan. Dit laat de mogelijkheid van het uitwisselen van technische informatie tussen de fabrikant of bouwer en dat orgaan onverlet.
+- a. De beoordelende entiteit moet qua organisatie, juridische structuur en besluitvorming onafhankelijk zijn van spoorwegondernemingen, infrastructuurbeheerders, aanvragers en entiteiten belast met de inkoop;
 
-- b. Het orgaan en het voor de beoordelingen verantwoordelijke personeel verrichten de beoordelingen met de grootst mogelijke professionele integriteit en de grootst mogelijke technische competentie en blijven daarbij gevrijwaard van enige pressie en prikkel, in het bijzonder van financiële aard, met name van personen of groepen die belang hebben bij de resultaten van de beoordelingen, die hun oordeel of de resultaten van hun inspectie zouden kunnen beïnvloeden.
+- b. Met name de beoordelende entiteit en het voor de beoordelingen verantwoordelijke personeel zijn in functioneel opzicht onafhankelijk van de organen belast met het onderzoek bij ongevallen;
 
-- c. Met name het orgaan en het voor de beoordelingen verantwoordelijke personeel zijn in functioneel opzicht onafhankelijk van de organen belast met het onderzoek bij ongevallen.
+- c. De beoordelende entiteit voldoet aan de eisen zoals vervat in de relevante UTP’s.
 
-- d. Het orgaan heeft personeel in dienst en beschikt over de nodigde middelen voor het adequaat verrichten van de technisch-administratieve taken die verband houden met de beoordelingen; het kan voorts beschikken over de uitrusting die nodig is voor uitzonderlijke beoordelingen.
+§ 4. De eisen van § 3 zijn van overeenkomstige toepassing op de bevoegde autoriteit wat betreft de in § 2 genoemde taken die niet aan een beoordelende entiteit zijn overgedragen.
 
-- e. Het voor de beoordelingen verantwoordelijke personeel moet:
+§ 5. Een Verdragsstaat waarborgt via kennisgeving of indien nodig via de middelen voorzien in het Unierecht of het recht van de Staten die het Unierecht ingevolge internationale overeenkomsten met de Europese Unie toepassen, dat de Secretaris-Generaal in kennis wordt gesteld van de bevoegde autoriteit, de beoordelende entiteiten en, indien van toepassing de accreditatie-instantie of het in artikel 2, onderdeel wa 1., bedoelde bevoegde nationale orgaan, waarbij per orgaan de verantwoordelijkheidsgebieden worden vermeld. De Secretaris-Generaal publiceert een lijst van bevoegde autoriteiten, beoordelende entiteiten en accreditatie-instanties of bevoegde nationale organen, hun identificatienummers, indien van toepassing, en verantwoordelijkheidsgebieden en houdt de lijst actueel.
 
-- –. technisch en beroepsmatig naar behoren opgeleid zijn,
+§ 6. De Verdragsstaten waarborgen dat passend toezicht wordt uitgeoefend op de in § 2 bedoelde beoordelende entiteiten en trekken de bevoegdheden in van een beoordelende entiteit die niet langer voldoet aan de criteria bedoeld in § 3, in welk geval zij de Secretaris-Generaal onverwijld in kennis stellen.
 
-- –. beschikken over voldoende kennis van de eisen met betrekking tot de beoordelingen die het verricht en er voldoende ervaring mee hebben, en
-
-- –. in staat zijn de certificaten, dossiers en verslagen op te stellen die het officiële dossier vormen van de verrichte beoordelingen.
-
-- f. De onafhankelijkheid van het voor de beoordelingen verantwoordelijke personeel wordt gewaarborgd. Geen enkele beoordelaar mag worden beloond op grond van het aantal verrichte beoordelingen of de uitkomsten daarvan.
-
-- g. Het orgaan verzekert zich tegen wettelijke aansprakelijkheid tenzij die aansprakelijkheid volgens het nationale recht berust bij de Staat of tenzij de beoordelingen rechtstreeks door de Verdragsstaat worden verricht.
-
-- h. Het personeel van het orgaan heeft een professionele geheimhoudingsplicht ten aanzien van al hetgeen het bij de uitoefening van zijn taken verneemt (met uitzondering van de bevoegde administratieve autoriteiten in de Staat waar het deze werkzaamheden verricht) op grond van deze Uniforme Regelen of een wettelijk vereiste en/of voorschrift van de Verdragsstaat, met inbegrip van, indiennodig, het recht van de Europese Gemeenschap.
-
-§ 4. De bepalingen van § 3 zijn van overeenkomstige toepassing op de autoriteiten belast met de technische toelating.
-
-§ 5. Een Verdragsstaat waarborgt via kennisgeving of indien nodig via de middelen voorzien in het gemeenschapsrecht of het recht van de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen, dat de Secretaris-Generaal in kennis wordt gesteld van de organen die verantwoordelijk zijn voor het verrichten van de beoordelingen, verificaties en goedkeuringen, waarbij per orgaan de verantwoordelijkheidsgebieden worden vermeld. De Secretaris-Generaal publiceert een lijst van organen, hun identificatienummers en verantwoordelijkheidsgebieden en houdt de lijst actueel.
-
-§ 6. De Verdragsstaten waarborgen dat een passend toezicht wordt uitgeoefend op de in § 2 bedoelde organen en trekken de bevoegdheden in van organen die niet langer voldoen aan de criteria bedoeld in § 3, in welk geval zij de Secretaris-Generaal onverwijld in kennis stellen.
-
-§ 7. Een Verdragsstaat die meent dat een autoriteit van een andere Verdragsstaat die belast is met de beoordeling of goedkeuring of een orgaan waaraan hij zijn bevoegdheid heeft overgedragen, niet voldoet aan de criteria van § 3, kan de kwestie voorleggen aan de Commissie van technisch deskundigen die de desbetreffende Verdragsstaat binnen vier maanden in kennis stelt van de wijzigingen van enigerlei aard die eventueel nodig zijn opdat het orgaan de aan hem overgedragen bevoegdheden kan behouden. In dit verband kan de Commissie van technisch deskundigen besluiten de Verdragsstaat te gelasten de verleende goedkeuringen gebaseerd op de werkzaamheden verricht door het orgaan of de autoriteit in kwestie op te schorten of in te trekken.
+§ 7. Een Verdragsstaat die meent dat een beoordelende entiteit of bevoegde autoriteit van een andere Verdragsstaat niet voldoet aan de criteria van § 3, kan de kwestie voorleggen aan de Commissie van technisch deskundigen die de desbetreffende Verdragsstaat binnen vier maanden in kennis stelt van de wijzigingen van enigerlei aard die nodig zijn opdat de beoordelende entiteit of autoriteit de aan haar overgedragen bevoegdheden kan behouden. In dit verband kan de Commissie van technisch deskundigen besluiten de Verdragsstaat te gelasten de afgegeven technische certificaten gebaseerd op de werkzaamheden verricht door de beoordelende entiteit of de autoriteit in kwestie op te schorten of in te trekken.
 
 ##### Artikel 6. Geldigheid van technische certificaten
 
-§ 1. De overeenkomstig deze Uniforme Regelen door de bevoegde autoriteit van een Verdragsstaat afgegeven technische certificaten gelden in alle andere Verdragsstaten. Op het rijden en het gebruik op het grondgebied van deze andere Staten zijn evenwel de in dit artikel omschreven voorwaarden van toepassing.
+§ 1. De overeenkomstig deze Uniforme Regelen door de bevoegde autoriteit van een Verdragsstaat afgegeven technische certificaten, zoals omschreven in artikel 11, gelden in alle andere Verdragsstaten. Op het rijden en het gebruik van de voertuigen waarop deze certificaten betrekking hebben op het grondgebied van deze andere Staten zijn evenwel de in dit artikel omschreven voorwaarden van toepassing.
 
 § 2. Met een gebruikstoelating mogen spoorwegondernemingen een voertuig uitsluitend op infrastructuren gebruiken die volgens de specificaties en andere voorwaarden van de toelating met het voertuig compatibel zijn; de spoorwegonderneming is verantwoordelijk voor de waarborging daarvan.
 
-§ 3. Onverminderd [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=3a&z=2012-01-01&g=2012-01-01) houdt een gebruikstoelating die is afgegeven voor een voertuig dat beantwoordt aan alle van toepassing zijnde UTP’s in dat het voertuig is toegelaten om vrij te rijden op het grondgebied van andere Verdragsstaten, mits
+§ 3. Onverminderd [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=3a&z=2015-07-01&g=2015-07-01) is een gebruikstoelating die is afgegeven voor een voertuig dat beantwoordt aan alle van toepassing zijnde UTP’s geldig op het grondgebied van andere Verdragsstaten, mits
 
 - a. alle essentiële eisen in deze UTP’s aan de orde komen en
 
 - b. dit voertuig niet
 
-- –. behoort tot een specifiek geval of
+- –. behoort tot een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat of
 
 - –. valt onder open punten die verband houden met de technische compatibiliteit met de infrastructuur of
 
@@ -4538,61 +4498,67 @@ De voorwaarden voor het vrije verkeer kunnen ook worden omschreven in de desbetr
 
 - a. Indien in een Verdragsstaat een gebruikstoelating is afgegeven voor een voertuig:
 
-- –. dat behoort tot een specifiek geval, valt onder een open punt dat verband houdt met de technische compatibiliteit met de infrastructuur of valt onder een afwijking, of
+- –. dat behoort tot een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat, valt onder een open punt dat verband houdt met de technische compatibiliteit met de infrastructuur of valt onder een afwijking, of
 
 - –. dat niet voldoet aan de UTP’s wat betreft rollend materieel en alle overige relevante bepalingen, of
 
-- b. indien niet alle essentiële eisen aan de orde komen in de UTP’s, kunnen de bevoegde autoriteiten van de andere Staten alvorens een aanvullende gebruikstoelating af te geven de aanvrager om aanvullende technische gegevens verzoeken, zoals een risicoanalyse of tests van het voertuig.
+- b. indien niet alle essentiële eisen aan de orde komen in de UTP’s, kunnen de bevoegde autoriteiten van de andere Staten alvorens een aanvullende gebruikstoelating af te geven de aanvrager om aanvullende technische gegevens verzoeken, zoals een risicoanalyse en/of tests van het voertuig. Voor het deel van het voertuig dat voldoet aan een UTP of een deel ervan, moeten de bevoegde autoriteiten de verificaties aanvaarden die volgens de UTP’s door andere bevoegde autoriteiten of beoordelende entiteiten zijn verricht. Voor het overige deel van het voertuig nemen de bevoegde autoriteiten de in artikel 13 van de APTU Uniforme Regelen bedoelde equivalentietabel volledig in aanmerking. Niet opnieuw beoordeeld wordt of voldaan wordt aan:
 
-§ 4. Voor het deel van het voertuig dat voldoet aan een UTP of een deel ervan, moeten de bevoegde autoriteiten de verificaties aanvaarden die volgens de UTP’s door andere bevoegde autoriteiten zijn verricht. Voor het overige deel van het voertuig nemen de bevoegde autoriteiten de in artikel 13 van de APTU Uniforme Regelen bedoelde equivalentietabel volledig in aanmerking. Niet opnieuw beoordeeld wordt of voldaan wordt aan:
+- –. identieke bepalingen en equivalent verklaarde bepalingen,
 
-- a. identieke bepalingen en equivalent verklaarde bepalingen,
+- –. bepalingen die geen verband houden met een specifiek geval dat van invloed is op de technische compatibiliteit met het netwerk van de desbetreffende Verdragsstaat en
 
-- b. bepalingen die geen verband houden met een specifiek geval en
-
-- c. bepalingen die geen verband houden met de technische compatibiliteit met de infrastructuur.
+- –. bepalingen die geen verband houden met de technische compatibiliteit met de infrastructuur.
 
 § 5. §§ 2 tot en met 4 zijn van overeenkomstige toepassing op de toelating van een constructietype.
 
 ##### Artikel 6a. Erkenning van documentatie
 
-§ 1. Beoordelingen, verklaringen en andere overeenkomstig deze Uniforme Regelen opgestelde documentatie worden als zodanig aanvaard door de autoriteiten en bevoegde organen, de spoorwegondernemingen, de houders en de infrastructuurbeheerders in alle Verdragsstaten.
+§ 1. Beoordelingen, verklaringen en andere overeenkomstig deze Uniforme Regelen opgestelde documentatie worden als zodanig aanvaard door de autoriteiten en bevoegde organen, de spoorwegvervoerondernemingen, de houders en de infrastructuurbeheerders in alle Verdragsstaten.
 
 § 2. Indien een vereiste of bepaling in overeenstemming met artikel 13 van de APTU Uniforme Regelen equivalent is verklaard, worden de desbetreffende beoordelingen en tests die reeds zijn uitgevoerd en gedocumenteerd niet herhaald.
 
 ##### Artikel 6b. Erkenning van technische en operationele tests
 
-De Commissie van technisch deskundigen kan regels aannemen bestemd om te worden opgenomen in een Bijlage bij deze Uniforme Regelen en specificaties bestemd om te worden opgenomen in een of meer UTP’s inzake de bepalingen met betrekking tot technische inspecties, dossiers omtrent staat van onderhoud van de toegelaten voertuigen en operationele tests zoals remtests voor treinen en hun wederzijdse erkenning.
+De Commissie van technisch deskundigen kan regels aannemen die worden opgenomen in een Bijlage bij deze Uniforme Regelen en specificaties om te worden opgenomen in een of meer UTP’s inzake de bepalingen met betrekking tot technische inspecties, onderhoudsdossiers van de toegelaten voertuigen en operationele tests zoals remtests voor treinen en hun wederzijdse erkenning.
 
 ##### Artikel 7. Voorschriften voor voertuigen
 
-§ 1. Teneinde te worden toegelaten tot het rijden in het internationaal verkeer en deze toelating te behouden moet een spoorvoertuig voldoen aan:
+§ 1. Teneinde te worden toegelaten tot het rijden in het internationaal verkeer moet een spoorvoertuig voldoen aan:
 
-- a. de UTP’s en
+- a. de van toepassing zijnde UTP’s en
 
-- b. indien van toepassing, de bepalingen vervat in de RID.
+- b. indien van toepassing, de bepalingen vervat in de RID en
 
-§ 2. Indien er geen UTP van toepassing is op het subsysteem wordt de technische toelating gebaseerd op de van toepassing zijnde nationale technische specificaties die overeenkomstig artikel 12 van de APTU Uniforme Regelen van kracht zijn in de Staat waar een verzoek om technische toelating wordt gedaan.
+- c. alle andere specificaties teneinde aan de van toepassing zijnde essentiële eisen te voldoen.
 
-§ 3. Indien de UTP’s niet alle essentiële eisen bevatten of bij specifieke gevallen of open punten, wordt de technische toelating gebaseerd op:
+§ 1a. Voertuigen moeten op het tijdstip van toelating, verbetering of vernieuwing voldoen aan de van toepassing zijnde UTP’s, overeenkomstig deze Uniforme Regelen; deze conformiteit moet worden gehandhaafd zolang het voertuig in gebruik is.
 
-- a. de bepalingen van de UTP’s,
+§ 2. Indien er geen UTP’s van toepassing zijn op het subsysteem wordt de technische toelating gebaseerd op de van toepassing zijnde nationale technische specificaties die overeenkomstig artikel 12 van de APTU Uniforme Regelen van kracht zijn in de Verdragsstaat waar een verzoek om technische toelating wordt gedaan.
 
-- b. indien van toepassing, de bepalingen van de RID en
+§ 3. Indien niet alle UTP’s die op voertuigen betrekking hebben van kracht zijn of bij specifieke gevallen of open punten wordt de technische toelating gebaseerd op:
+
+- a. de in de UTP’s vervatte bepalingen,
+
+- b. indien van toepassing, de bepalingen vervat in de RID en
 
 - c. van toepassing zijnde nationale technische specificaties die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen.
 
 ##### Artikel 7a. Afwijkingen
 
-De Commissie van technisch deskundigen neemt richtlijnen of bindende voorschriften aan voor afwijkingen van de bepalingen van artikel 7 en voor de methoden die voor de beoordelingen worden en mogen worden gebruikt.
+De Commissie van technisch deskundigen is bevoegd richtlijnen of bindende voorschriften aan te nemen voor afwijkingen van de structurele en functionele UTP’s.
+
+Deze richtlijnen en bepalingen zijn vervat in Aanhangsel B bij deze Uniforme Regelen.
 
 ##### Artikel 8. Voorschriften voor spoorweginfrastructuur
 
-§ 1. Teneinde te waarborgen dat een tot het rijden in het internationaal verkeer toegelaten spoorvoertuig in overeenstemming met deze Uniforme Regelen veilig rijdt op de spoorweginfrastructuur en ermee compatibel is , moet deze voldoen aan
+§ 1. Spoorweginfrastructuur moet voldoen aan:
 
-- a. de bepalingen van de UTP’s en
+- a. de in de UTP’s vervatte bepalingen en
 
-- b. indien van toepassing, de bepalingen van de RID.
+- b. indien van toepassing, de bepalingen van de RID,
+
+- c. alle andere specificaties teneinde aan de van toepassing zijnde essentiële eisen te voldoen.
 
 § 2. Op de toelating van de infrastructuur en het toezicht op het onderhoud ervan blijven de bepalingen van toepassing die van kracht zijn in de Verdragsstaat waar de infrastructuur zich bevindt.
 
@@ -4608,57 +4574,51 @@ De Commissie van technisch deskundigen neemt richtlijnen of bindende voorschrift
 
 § 1. De verlening van een technisch certificaat is afhankelijk van het constructietype van een spoorvoertuig of het spoorvoertuig zelf.
 
-§ 2. Een aanvraag van een technisch certificaat kan ingediend worden door:
+§ 2. [gereserveerd]
 
-- a. de fabrikant,
+§ 3. Een aanvraag van een technisch certificaat kan ingediend worden bij de bevoegde autoriteit van elke Verdragsstaat.
 
-- b. een spoorwegonderneming,
+§ 3a. Een aanvraag voor een beoordeling en afgifte van de overeenkomstige UTP-certificaten en -verklaringen kan worden ingediend bij een beoordelende entiteit waaraan een bevoegde autoriteit geheel of gedeeltelijk de bevoegdheid voor het uitvoeren van beoordelingen heeft overgedragen, overeenkomstig artikel 5, § 2.
 
-- c. de houder van het voertuig,
+§ 4. Indien artikel 6, § 4 van toepassing is op het voertuig, vermeldt de aanvrager de Verdragsstaten (of in voorkomend geval, de lijnen) waarvoor technische certificaten vereist zijn om het vrije verkeer te waarborgen; in dit geval moeten de bevoegde autoriteiten en beoordelende entiteiten samenwerken teneinde de procedure voor de aanvrager te vergemakkelijken.
 
-- d. de eigenaar van het voertuig,
+§ 5. Alle kosten die voortvloeien uit de toelatingsprocedure komen ten laste van de aanvrager, tenzij anders is voorzien in de wetten en voorschriften die van kracht zijn in de Staat waar de gebruikstoelating wordt afgegeven. Het afgeven van gebruikstoelatingen door de bevoegde autoriteit met winstoogmerk is verboden.
 
-- e. de infrastructuurbeheerder.
+§ 5a. Alle beslissingen, beoordelingen, tests, etc. geschieden op non-discriminatoire wijze.
 
-§ 3. De aanvraag van een technisch certificaat met inbegrip van de desbetreffende verklaringen kan worden gericht aan elke bevoegde autoriteit of elk orgaan van een van de Verdragsstaten binnen het kader van bevoegdheden bedoeld in artikel 5.
+§ 6. De aanvrager stelt een technisch dossier op met de volgens de relevante UTP’s vereiste gegevens en voegt deze bij zijn aanvraag. De beoordelende entiteit stelt het technisch dossier samen.
 
-§ 4. Indien artikel 6, § 4, van toepassing is op het voertuig, vermeldt de aanvrager de Verdragsstaten (of in voorkomend geval, de lijnen) waarvoor technische certificaten vereist zijn om het vrije verkeer te waarborgen; in dit geval moeten de bevoegde autoriteiten en beoordelende organen samenwerken teneinde de procedure voor de aanvrager te vergemakkelijken.
+§ 7. Elke uitgevoerde beoordeling wordt door de beoordelende entiteit beschreven in een beoordelingsrapport ter onderbouwing van de uitgevoerde beoordelingen en vermeldt de bepalingen op grond waarvan het object is beoordeeld en of de beoordeling positief of negatief is.
 
-§ 5. Alle kosten die voortvloeien uit de toelatingsprocedure komen ten laste van de aanvrager, tenzij anders is voorzien in de wetten en voorschriften die van kracht zijn in de Staat waar de goedkeuring wordt verleend. Technische toelatingen met winstoogmerk zijn verboden.
+§ 8. Bij de aanvraag van een gebruikscertificaat via de procedure voor technische toelating (artikel 4, § 1, onderdeel b.) wordt het certificaat van het typeontwerp, opgesteld in overeenstemming met artikel 11, § 2, gevoegd en wordt op adequate wijze aangetoond dat de voertuigen waarvoor een gebruikscertificaat wordt aangevraagd overeenkomen met dat constructietype.
 
-5a. Alle beslissingen, beoordelingen, tests, etc. geschieden op niet-discriminatoire wijze.
-
-§ 6. De aanvrager stelt een technisch dossier en een onderhoudsdossier op met de volgens de UTP’s vereiste gegevens en voegt deze bij zijn aanvraag. Het beoordelende orgaan controleert en corrigeert deze dossiers en voegt er relevante gegevens aan toe zodat deze de kenmerken van het voertuig weergeven.
-
-§ 7. Elke uitgevoerde beoordeling wordt door de beoordelaar beschreven in een beoordelingsrapport ter onderbouwing van de uitgevoerde beoordelingen en vermeldt de bepalingen op grond waarvan het object is beoordeeld en of de beoordeling positief of negatief is.
-
-§ 8. Bij de aanvraag van een gebruikscertificaat via de vereenvoudigde procedure voor technische toelating (artikel 4, § 1, onderdeel b.) wordt het certificaat van de typetoelating, opgesteld in overeenstemming met artikel 11, § 2, gevoegd en wordt op adequate wijze aangetoond dat de voertuigen waarvoor een gebruikscertificaat wordt aangevraagd overeenkomen met dat constructietype.
+Voor nieuwe voertuigen kan dit passend worden aangetoond door de afgifte van een UTP-verificatiecertificaat door een beoordelende entiteit overeenkomstig de relevante UTP.
 
 § 9. Een technisch certificaat wordt in principe voor onbepaalde tijd verleend; het kan van algemene of beperkte strekking zijn.
 
-§ 10. Indien de relevante criteria in de voorschriften vermeld in artikel 7 op grond waarvan een constructietype is toegelaten zijn gewijzigd en er geen relevante overgangsbepalingen zijn, beslist de Verdragsstaat waarin het certificaat van de typetoelating is afgegeven na overleg met de andere Staten waarin het certificaat geldig is volgens artikel 6, of het certificaat onverkort geldig kan blijven dan wel moet worden aangepast. De te controleren criteria, ingeval van vernieuwing van een toelating van een constructietype, mogen alleen de gewijzigde bepalingen omvatten. De genoemde aanpassing laat reeds verleende gebruikstoelatingen op grond van eerder toegelaten types onverlet.
+§ 10. Indien de relevante bepalingen in de voorschriften vermeld in artikel 7 op grond waarvan een constructietype is toegelaten zijn gewijzigd en er geen relevante overgangsbepalingen zijn, beslist de Verdragsstaat waarin het certificaat van het typeontwerp is afgegeven na overleg met de andere Staten waarin het certificaat geldig is volgens artikel 6, of het certificaat onverkort geldig kan blijven dan wel moet worden aangepast voor de toelating van nieuwe voertuigen volgens dat type. De te controleren criteria bij vernieuwing van een toelating van een constructietype mogen alleen de gewijzigde bepalingen omvatten. De genoemde aanpassing laat reeds verleende gebruikstoelatingen op grond van eerder toegelaten types onverlet.
 
-§ 11. Bij vernieuwing of herziening zendt de aanbestedende dienst of de fabrikant de desbetreffende Verdragsstaat een dossier waarin het project wordt beschreven. De Verdragsstaat onderzoekt dit dossier en beslist, rekening houdend met de in de van toepassing zijnde UTP’s aangegeven implementatiestrategie, of de omvang van de werkzaamheden inhoudt dat een nieuwe gebruikstoelating in de zin van deze Uniforme Regelen noodzakelijk is.
+§ 11. Bij vernieuwing of verbetering zendt de aanbestedende dienst of de fabrikant de desbetreffende Verdragsstaat een dossier waarin het project wordt beschreven. De Verdragsstaat onderzoekt dit dossier en beslist, rekening houdend met de in de van toepassing zijnde UTP’s aangegeven implementatiestrategie, of de omvang van de werkzaamheden inhoudt dat een nieuwe gebruikstoelating in de zin van deze Uniforme Regelen noodzakelijk is.
 
 Een nieuwe gebruikstoelating is vereist indien het algehele veiligheidsniveau van het desbetreffende subsysteem geschaad kan worden door de beoogde werkzaamheden. Indien een nieuwe toelating nodig is, beslist de Verdragsstaat in hoeverre de bepalingen van de desbetreffende UTP’s op het project moeten worden toegepast.
 
 De Verdragsstaat neemt zijn beslissing uiterlijk vier maanden na de indiening van het volledige dossier door de aanvrager.
 
-Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden toegepast stelt de Verdragsstaat de Secretaris-Generaal in kennis van:
+Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden toegepast, moet het voertuig aan een nieuwe toelating worden onderworpen waarop de voorwaarden van artikel 6, § 4 van toepassing zijn en stelt de Verdragsstaat de Secretaris-Generaal in kennis van:
 
 - a. de reden waarom een UTP niet volledig wordt toegepast,
 
 - b. de technische criteria die in plaats van de UTP’s van toepassing zijn en
 
-- c. de organen die verantwoordelijk zijn voor het verschaffen van de ingevolge a en b vereiste gegevens.
+- c. de organen die verantwoordelijk zijn voor het beoordelen van de onder b bedoelde technische gegevens.
 
 De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan op de website van de Organisatie.
 
-§ 12. § 11 is van overeenkomstige toepassing op een certificaat van de typetoelating en op elke verklaring betreffende de constructie of de elementen van de desbetreffende constructie.
+§ 12. § 11 is van overeenkomstige toepassing op een certificaat van het typeontwerp en elke verklaring betreffende de constructie of de onderdelen van de desbetreffende constructie.
 
-##### Artikel 10a. Regels voor de intrekking of schorsing van technische certificaten
+##### Artikel 10a. Regels voor de intrekking of opschorting van technische certificaten
 
-§ 1. Indien de bevoegde autoriteit van een Verdragsstaat niet zijnde de staat die de (eerste) gebruikstoelating heeft verleend, vaststelt dat niet voldaan wordt aan de eisen, stelt zij, met alle details, de autoriteit die de (eerste) toelating heeft verleend in kennis; indien de niet-naleving betrekking heeft op een certificaat van de typetoelating, wordt tevens de autoriteit die dit certificaat heeft verleend in kennis gesteld.
+§ 1. Indien de bevoegde autoriteit van een Verdragsstaat niet zijnde de staat die de (eerste) gebruikstoelating heeft verleend, vaststelt dat niet voldaan wordt aan de eisen, stelt zij de autoriteit die de (eerste) toelating heeft verleend met alle details in kennis; indien de niet-naleving betrekking heeft op een certificaat van het typeontwerp, wordt tevens de autoriteit die dit certificaat heeft afgegeven in kennis gesteld.
 
 § 2. Een gebruikscertificaat kan worden ingetrokken
 
@@ -4666,17 +4626,17 @@ De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan o
 
 - –. de voorschriften vervat in de UTP’s en in de van toepassing zijnde nationale voorschriften die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen, of
 
-- –. de bijzondere toelatingsvoorwaarden uit hoofde van artikel 7a, of
+- –. de bijzondere toelatingsvoorwaarden uit hoofde van artikel 7a of
 
 - –. de constructie- en uitrustingsvoorschriften in het RID, of
 
 - b. indien de houder niet voldoet aan de eis van de bevoegde autoriteit de gebreken binnen de voorgeschreven termijn te verhelpen of
 
-- c. indien de voorschriften en voorwaarden die voortvloeien uit een beperkte toelating uit hoofde van artikel 10, § 10 niet vervuld of geëerbiedigd worden.
+- c. indien niet voldaan wordt aan de voorschriften en voorwaarden die voortvloeien uit een beperkte toelating uit hoofde van artikel 10, § 10.
 
-§ 3. Uitsluitend de autoriteit die een certificaat van de typetoelating of gebruikscertificaat heeft verleend kan het intrekken.
+§ 3. Uitsluitend de autoriteit die een certificaat van het typeontwerp of gebruikscertificaat heeft verleend kan het intrekken.
 
-§ 4. Een gebruikscertificaat wordt geschorst:
+§ 4. Een gebruikscertificaat wordt opgeschort:
 
 - a. indien het technisch onderzoek, de inspecties, het onderhoud en de revisies van het spoorvoertuig zoals voorgeschreven in zijn onderhoudsdossier, in de UTP’s, in de bijzondere voorwaarden voor een toelating uit hoofde van artikel 7a of de in de RID vervatte constructie- en uitrustingsvoorschriften niet worden uitgevoerd (of indien de termijnen niet worden nageleefd);
 
@@ -4684,19 +4644,19 @@ De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan o
 
 - c. indien niet voldaan wordt aan deze Uniforme Regelen en de voorschriften vervat in de UTP’s;
 
-- d. indien niet voldaan wordt aan de ingevolge artikel 12 van de APTU Uniforme Regelen van kracht zijnde toepasselijke nationale bepalingen of de ingevolge artikel 13 van de APTU Uniforme Regelen daaraan equivalent verklaarde bepalingen. De geldigheid van het certificaat wordt opgeschort voor de betrokken Verdragsstaat of Verdragsstaten.
+- d. indien niet voldaan wordt aan de ingevolge artikel 12 van de APTU Uniforme Regelen van kracht zijnde toepasselijke nationale bepalingen of de ingevolge artikel 13 van de APTU Uniforme Regelen daaraan equivalent verklaarde bepalingen. Het certificaat wordt opgeschort voor de betrokken Verdragsstaat of Verdragsstaten.
 
-§ 5. Het gebruikscertificaat vervalt wanneer het spoorvoertuig buiten dienst wordt gesteld. De bevoegde autoriteit die de gebruikstoelating heeft verleend wordt in kennis gesteld van de buitendienststelling.
+§ 5. Het gebruikscertificaat vervalt wanneer het spoorvoertuig buiten dienst wordt gesteld. Van de buitendienststelling wordt overeenkomstig artikel 13, § 4 kennis gegeven.
 
 § 6. §§ 1 tot en met 4 zijn van overeenkomstige toepassing op een certificaat van het typeontwerp.
 
 ##### Artikel 10b. Regels voor beoordelingen en procedures
 
-§ 1. De Commissie van technisch deskundigen is bevoegd andere bindende bepalingen aan te nemen voor beoordelingen en procedureregels voor technische toelating.
+§ 1. De Commissie van technisch deskundigen is bevoegd andere bindende bepalingen aan te nemen voor beoordelingen en procedureregels voor technische toelating. Bepalingen voor de beoordelingen zijn vervat in de relevante UTP.
 
 § 2. Aanvullend op, maar niet in strijd met de door de Commissie van technisch deskundigen ingevolge § 1 vastgestelde bepalingen, kunnen Verdragsstaten of regionale organisaties bepalingen aannemen (of handhaven) voor gedetailleerde niet-discriminatoire verplichte procedures voor beoordelingen en de eisen inzake verklaringen. De Secretaris-Generaal wordt in kennis gesteld van deze bepalingen, die de Commissie van technisch deskundigen in kennis stelt, waarna de bepalingen door de Organisatie worden gepubliceerd.
 
-##### Artikel 11. Technische certificaten en verklaringen
+##### Artikel 11. Technische certificaten
 
 § 1. De constructietypetoelating en de gebruikstoelating worden vastgelegd in afzonderlijke documenten genoemd: „Certificaat van het typeontwerp” en „Gebruikscertificaat”.
 
@@ -4704,9 +4664,9 @@ De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan o
 
 - a. vermeldt de ontwerper en de beoogde fabrikant van het constructietype van het spoorvoertuig;
 
-- b. gaat vergezeld van het technisch dossier en het onderhoudsdossier in de bijlagen;
+- b. gaat vergezeld van het technisch dossier in de bijlagen;
 
-- c. omschrijft in voorkomend geval de bijzondere gebruiksbeperkingen en -voorwaarden inzake het verkeer van het constructietype van een spoorvoertuig en daarmee overeenkomende spoorvoertuigen;
+- c. omschrijft in voorkomend geval de bijzondere gebruiksbeperkingen en voorwaarden voor het constructietype van een spoorvoertuig en daarmee overeenkomende spoorvoertuigen;
 
 - d. gaat vergezeld van het beoordelingsrapport/de beoordelingsrapporten in de bijlage(n);
 
@@ -4714,7 +4674,9 @@ De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan o
 
 - f. vermeldt de bevoegde autoriteit die het certificaat heeft afgegeven, de datum van afgifte en is voorzien van de handtekening van de autoriteit;
 
-- g. vermeldt in voorkomend geval de geldigheidsduur van het certificaat.
+- g. vermeldt in voorkomend geval de geldigheidsduur van het certificaat;
+
+- h. gaat voor voertuigen waarop artikel 6, § 4 van toepassing is vergezeld van afschriften van eventuele aanvullende nationale toelatingen.
 
 § 3. Het gebruikscertificaat bevat:
 
@@ -4726,71 +4688,73 @@ De Secretaris-Generaal publiceert de informatie waarvan kennisgeving is gedaan o
 
 - d. in voorkomend geval de geldigheidsduur van het certificaat.
 
-§ 4. Het gebruikscertificaat kan betrekking hebben op een groep individuele voertuigen van hetzelfde type, in welk geval de overeenkomstig § 3 vereiste gegevens voor elk van de voertuigen van de groep afzonderlijk worden vermeld; het technisch dossier bevat een lijst met identificeerbare documentatie betreffende de tests die op ieder voertuig zijn uitgevoerd.
+§ 4. Het gebruikscertificaat kan betrekking hebben op een groep individuele voertuigen van hetzelfde type, in welk geval de overeenkomstig § 3 vereiste gegevens voor elk van de voertuigen van de groep afzonderlijk worden vermeld; het technisch dossier bevat een lijst met identificeerbare documentatie betreffende de tests die op elk voertuig zijn uitgevoerd.
 
-§ 5. Het technisch dossier en het onderhoudsdossier bevatten de vereiste informatie overeenkomstig de bepalingen in de UTP’s.
+§ 5. Het technisch dossier bevat de vereiste informatie overeenkomstig de bepalingen in de UTP’s.
 
-§ 6. De certificaten worden afgedrukt in een van de werktalen overeenkomstig [artikel 1, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2012-01-01&g=2012-01-01).
+§ 6. De certificaten worden afgedrukt in een van de werktalen overeenkomstig [artikel 1, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2015-07-01&g=2015-07-01).
 
-§ 7. De certificaten en verklaringen worden afgegeven aan de aanvrager.
+§ 7. De in §§ 2 en 3 genoemde certificaten worden door de bevoegde autoriteit aan de aanvrager afgegeven.
 
-§ 8. Het gebruikscertificaat heeft betrekking op het object. Zodra het voertuig in gebruik is, overhandigt de houder van het gebruikscertificaat (met inbegrip van het technisch dossier en het onderhoudsdossier), indien deze niet de feitelijke houder is, het onverwijld aan de feitelijke houder met inbegrip van het dossier omtrent de staat van onderhoud en stelt alle (aanvullende) gedetailleerde instructies voor onderhoud en gebruik die hij nog in bezit heeft ter beschikking.
+§ 8. Het gebruikscertificaat heeft betrekking op het object. Zodra het voertuig in gebruik is, overhandigt de houder van het gebruikscertificaat (met inbegrip van het technisch dossier), indien deze niet de feitelijke houder is, het onverwijld aan de feitelijke houder met inbegrip van het onderhoudsdossier en stelt alle instructies voor onderhoud en gebruik die hij nog in bezit heeft ter beschikking.
 
-§ 9. § 8 is van overeenkomstige toepassing op voertuigen en spoorwegmaterieel dat overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2012-01-01&g=2012-01-01) is toegelaten, waarbij de desbetreffende documentatie bestaat uit de documentatie met betrekking tot de goedkeuring en andere documentatie die informatie bevat die geheel of gedeeltelijk beantwoordt aan de specificaties voor het technisch dossier, het onderhoudsdossier en het dossier omtrent de staat van onderhoud.
+§ 9. § 8 is van overeenkomstige toepassing op voertuigen en spoorwegmaterieel dat overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2015-07-01&g=2015-07-01) is toegelaten, waarbij de desbetreffende documentatie bestaat uit de documentatie met betrekking tot de goedkeuring en andere documentatie die informatie bevat die geheel of gedeeltelijk beantwoordt aan de specificaties voor het technisch dossier en onderhoudsdossier.
 
 ##### Artikel 12. Standaardmodellen
 
-§ 1. De Organisatie schrijft uniforme modellen voor van de certificaten bedoeld in artikel 11, van de verklaringen waartoe ingevolge artikel 4, § 2, besloten is en van het beoordelingsrapport ingevolge artikel 10, § 7.
+§ 1. De Organisatie schrijft uniforme modellen voor van de certificaten bedoeld in artikel 11 en van het beoordelingsrapport ingevolge artikel 10, § 7.
 
-§ 2. De modellen worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen.
+§ 2. De modellen worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen en worden gepubliceerd op de website van de organisatie.
 
-§ 3. De Commissie van technisch deskundigen kan besluiten dat certificaten en verklaringen volgens een ander omschreven model dan hetgeen in de Uniforme Regelen wordt voorgeschreven, maar die wel de ingevolge artikel 11 vereiste gegevens bevatten, als gelijkwaardig substituut mogen worden aangemerkt.
+§ 3. De Commissie van technisch deskundigen kan besluiten dat certificaten volgens een ander omschreven model dan hetgeen in de Uniforme Regelen wordt voorgeschreven, mits die de ingevolge artikel 11 vereiste gegevens bevatten, als gelijkwaardig substituut mogen worden aangemerkt.
 
 ##### Artikel 13. Registers
 
-§ 1. Er wordt een register in de vorm van een elektronische databank opgericht die informatie over spoorvoertuigen bevat ter zake waarvan een gebruikscertificaat is afgegeven en de constructietypes ter zake waarvan een certificaat van het typeontwerp is afgegeven en het wordt onder de verantwoordelijkheid van de Organisatie bijgehouden. Het register omvat spoorvoertuigen die zijn toegelaten overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2012-01-01&g=2012-01-01); het kan tevens spoorvoertuigen bevatten die uitsluitend voor het rijden in nationaal verkeer zijn toegelaten.
+§ 1. Er wordt een nationaal voertuigregister (NVR) in de vorm van een elektronische databank opgericht die informatie over spoorvoertuigen bevat ter zake waarvan een gebruikscertificaat is afgegeven. Het register omvat tevens spoorvoertuigen die zijn toegelaten overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2015-07-01&g=2015-07-01); het kan tevens spoorvoertuigen bevatten die uitsluitend voor het rijden in nationaal verkeer zijn toegelaten.
 
-§ 2. De databank bevat voorts een register met informatie betreffende de bevoegde autoriteiten en organen waaraan overeenkomstig artikel 5 de bevoegdheid werd overgedragen alsmede de overeenkomstig [artikel 15, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15&z=2012-01-01&g=2012-01-01) geaccrediteerde/erkende inspecteurs.
+§ 1a. De Organisatie richt een register op van certificaten van met het onderhoud belaste entiteiten (ECM) en certificatie-instanties van deze entiteiten en houdt dit actueel, of maakt dit register toegankelijk.
 
-§ 3. De Commissie van technisch deskundigen kan besluiten andere gegevens ten behoeve van de exploitatie van de spoorwegen in de databank op te nemen, zoals informatie inzake verklaringen, inspecties en onderhoud van de toegelaten voertuigen (waaronder de datum van de volgende voorziene inspectie), informatie over ongevallen en incidenten en registers met de codering van voertuigen, locaties, spoorwegondernemingen, houders, infrastructuurbeheerders, werkplaatsen, fabrikanten, met het onderhoud belaste entiteiten (ECM), etc.
+§ 1b. De Organisatie richt een register op van markeringscodes van houders van voertuigen en houdt dit actueel, of maakt dit register toegankelijk
 
-§ 4. De Commissie van technisch deskundigen stelt de technisch-functionele architectuur van de databank vast alsmede welke gegevens vereist zijn, hoe en wanneer de gegevens moeten worden aangeleverd, welke toegangsrechten er zullen zijn alsmede andere administratieve en organisatorische bepalingen, zoals de toe te passen databasestructuur. In alle gevallen dient de Secretaris-Generaal onverwijld in kennis te worden gesteld van een verandering van de houder, van de ECM, van een buiten dienst stelling, van een officieel stilzetten, van schorsingen en intrekkingen van certificaten, van verklaringen of andere documenten en van veranderingen aan een voertuig die afwijken van de toegelaten typeconstructie.
+§ 2. [gereserveerd]
+
+§ 3. De Commissie van technisch deskundigen kan besluiten andere gegevens ten behoeve van de exploitatie van de spoorwegen in een databank op te nemen, zoals typeontwerpen, informatie inzake verklaringen, inspecties en onderhoud van de toegelaten voertuigen (waaronder de datum van de volgende voorziene inspectie), informatie die nodig is om te kunnen vaststellen of er technische compabiliteit is tussen voertuig en netwerk, informatie over ongevallen en incidenten en registers met de codering van voertuigen, locaties, spoorwegvervoerondernemingen, houders, infrastructuurbeheerders, werkplaatsen, fabrikanten, etc.
+
+§ 4. De Commissie van technisch deskundigen is bevoegd te besluiten de in dit artikel genoemde registers en databases te wijzigen, samen te voegen of in te trekken. De Commissie van technisch deskundigen stelt de technisch-functionele architectuur van de in dit artikel genoemde registers vast en kan ook specificeren welke gegevens deze moeten bevatten, hoe en wanneer de gegevens moeten worden aangeleverd, welke toegangsrechten er zullen zijn alsmede andere administratieve en organisatorische bepalingen, zoals de toe te passen databasestructuur. In alle gevallen dient de registratiehouder de entiteit die het register bijhoudt onverwijld in kennis te stellen bij wijziging van de houder, van de ECM, van een buitendienststelling, van een officieel stilzetten, van opschortingen en intrekkingen van certificaten, van verklaringen of andere bewijsstukken en van veranderingen aan een voertuig die afwijken van het toegelaten constructietype.
 
 § 5. Voor de toepassing van dit artikel neemt de Commissie van technisch deskundigen door Verdragsstaten en regionale organisaties opgezette registers in acht teneinde onnodige belasting voor de betrokken partijen zoals regionale organisaties, Verdragsstaten, bevoegde autoriteiten en de industrie te voorkomen. Teneinde ook de kosten voor de Organisatie tot een minimum te beperken en een coherent registersysteem te bewerkstelligen, stemmen alle betrokken partijen hun plannen en de ontwikkeling van registers die onder deze Uniforme Regelen vallen af met de Organisatie.
 
-§ 6. De in de databank geregistreerde gegevens worden aangemerkt als weerlegbaar bewijs van de technische toelating van een spoorvoertuig.
+§ 6. De volgens § 1 in de databank geregistreerde gegevens worden aangemerkt als voldoende bewijs van de technische toelating van een spoorvoertuig.
 
-§ 7. De Commissie van technisch deskundigen kan besluiten dat de kosten van oprichting en beheer van de databank geheel of gedeeltelijk worden gedragen door de gebruikers; het aanleveren en wijzigen van gegevens dient kosteloos te geschieden, maar het raadplegen van de gegevens kan onderworpen worden aan vergoeding.
+§ 7. De Commissie van technisch deskundigen kan besluiten dat de kosten van oprichting en beheer van de databank geheel of gedeeltelijk worden gedragen door de gebruikers.
 
 ##### Artikel 14. Opschriften en tekens
 
-§ 1. De spoorvoertuigen die toegelaten zijn in het verkeer moeten zijn voorzien van:
+§ 1. De spoorvoertuigen die toegelaten zijn tot het verkeer moeten zijn voorzien van de in de UTP’s voorgeschreven opschriften en tekens, met inbegrip van een uniek voertuignummer.
 
-- a. een teken dat duidelijk aangeeft dat zij overeenkomstig deze Uniforme Regelen zijn toegelaten tot het rijden in het internationaal verkeer, en
+De bevoegde autoriteit die de (eerste) gebruikstoelating verleent moet waarborgen dat aan elk voertuig een alfanumerieke identificatiecode wordt toegekend. Deze code die de landcode van de eerste Staat van (eerste) toelating omvat, moet op elk voertuig worden aangebracht en worden opgenomen in het NVR van die Staat.
 
-- b. de andere opschriften en tekens voorgeschreven in de UTP’s, met inbegrip van een unieke identificatiecode (het nummer van het voertuig).
+§ 2. De Commissie van technisch deskundigen kan een teken vastleggen waarmee wordt aangetoond dat het voertuig waarop het teken is aangebracht tot het internationale verkeer is toegelaten overeenkomstig deze Uniforme Regelen.
 
-De bevoegde autoriteit die de gebruikstoelating verleent, moet waarborgen dat aan elk voertuig een alfanumerieke identificatiecode wordt toegekend. Deze code die de landcode van de eerste Staat van toelating omvat, moet op elk voertuig worden aangebracht en overeenkomstig artikel 13 worden opgenomen in het nationaal voertuigenregister (NVR) van die Staat.
+§ 3. De Commissie van technisch deskundigen kan de overgangsperiodes vaststellen gedurende welke de tot het rijden in het internationaal verkeer toegelaten spoorvoertuigen voorzien mogen zijn van opschriften en tekens die afwijken van hetgeen wordt voorgeschreven in §§ 1 en 2.
 
-§ 2. De Commissie van technisch deskundigen legt het in § 1, onderdeel a, voorziene teken vast alsmede de overgangsperiodes gedurende welke de tot het rijden in het internationaal verkeer toegelaten spoorvoertuigen voorzien mogen zijn van opschriften en tekens die afwijken van hetgeen wordt voorgeschreven in § 1.
+##### Artikel 15. Onderhoud van voertuigen
 
-##### Artikel 15. Onderhoud
+§ 1. De spoorvoertuigen moeten in een zodanig goede staat van onderhoud gehouden worden dat zij voldoen aan de in artikel 7 omschreven bepalingen. Hun staat bij het rijden of bij het gebruik in het internationaal verkeer mag op geen enkele wijze schadelijk zijn voor de operationele veiligheid, de infrastructuur, het milieu of de volksgezondheid. De spoorvoertuigen moeten daartoe beschikbaar gesteld worden voor en onderworpen worden aan de revisies, inspecties en het onderhoud zoals voorgeschreven in het onderhoudsdossier. Het is de verantwoordelijkheid van de houder hiertoe een ECM aan te wijzen.
 
-§ 1. De spoorvoertuigen en het andere spoorwegmaterieel moeten in een zodanig goede staat gehouden worden dat zij voortdurend voldoen aan de in de UTP’s omschreven bepalingen en dat hun staat bij het rijden of bij het gebruik in het internationaal verkeer op geen enkele wijze schadelijk is voor de operationele veiligheid of de infrastructuur, het milieu en de volksgezondheid. De spoorvoertuigen en het andere spoorwegmaterieel moeten daartoe beschikbaar gesteld worden voor en onderworpen worden aan de revisies, inspecties en het onderhoud zoals voorgeschreven in het aan het gebruikscertificaat gehechte onderhoudsdossier, de UTP’s, de bijzondere voorwaarden bij toelating uit hoofde van artikel 7a en in de bepalingen vervat in het RID.
+§ 2. Alvorens te worden toegelaten tot het verkeer of het gebruik op het netwerk moet voor elk spoorvoertuig een ECM worden aangewezen en deze entiteit wordt geregistreerd in de databank bedoeld in artikel 13. De ECM draagt er door middel van een onderhoudssysteem zorg voor dat de voertuigen met het onderhoud waarvan zij belast is, in staat zijn veilig te rijden. De ECM kan gebruikmaken van onderaannemers, met inbegrip van onderhoudswerkplaatsen.
 
-§ 2. Alvorens te worden toegelaten tot de exploitatie of het gebruik op het netwerk moet voor elk spoorvoertuig een met het onderhoud belaste entiteit (ECM) worden toegewezen, die wordt geregistreerd in de databank bedoeld in artikel 13. Een spoorwegonderneming, een infrastructuurbeheerder of houder kan een ECM zijn. De ECM draagt er door middel van een onderhoudssysteem zorg voor dat de voertuigen met het onderhoud waarvan zij belast is, in staat zijn veilig te rijden. De ECM doet het onderhoud zelf of geeft het in onderaanneming van een onderhoudsbedrijf.
+De Commissie van technisch deskundigen is bevoegd de regels voor certificering en inspectie van ECM’s en onderhoudswerkplaatsen aan te nemen en te wijzigen. Deze regels staan vervat in Aanhangsel A bij deze Uniforme Regelen.
 
-De ECM voor goederenwagens moet beschikken over een geldig certificaat, afgegeven door een externe door een van de Verdragsstaten geaccrediteerde/erkende inspecteur.
+De ECM voor een goederenwagen wordt gecertificeerd door een ECM-certificatie-instantie die in een van de Verdragsstaten is geaccrediteerd of erkend overeenkomstig Aanhangsel A bij deze Uniforme Regelen.
 
-De Commissie van technisch deskundigen neemt nadere gedetailleerde regels aan voor de certificering en inspectie van ECM’s, voor geaccrediteerde/erkende inspecteurs, hun accreditatie/erkenning, de controles en de controlecertificaten. Deze regels geven aan of ze equivalent zijn aan de criteria voor het certificeringssysteem voor ECM’s die zijn aangenomen in de Europese Gemeenschap of in de Staten die het gemeenschapsrecht ingevolge internationale overeenkomsten met de Europese Gemeenschap toepassen.
+§ 3. Voor zover nodig voor het onderhoud stelt de houder aan de ECM de elementen ter beschikking die betrekking hebben op instructies inzake revisies, voortdurende of periodieke monitoring, bijstelling en onderhoud.
 
-Deze regels, die tevens regels omvatten voor de intrekking en schorsing van certificaten en accreditaties, worden omschreven in een Bijlage bij deze Uniforme Regelen en vormen een integrerend onderdeel daarvan.
+De ECM moet, hetzij rechtstreeks hetzij via de houder, waarborgen dat betrouwbare informatie over onderhoud en beperkingen die van invloed zijn op de exploitatie, noodzakelijk en voldoende om een veilige exploitatie te verzekeren, beschikbaar zijn voor de spoorwegexploitant.
 
-§ 3. Een spoorwegexploitant is verantwoordelijk voor het veilig rijden van haar treinen en waakt erover dat de ingezette voertuigen naar behoren worden onderhouden. De ECM moet daarom waarborgen dat betrouwbare informatie over en gegevens van het onderhoudsproces beschikbaar zijn voor de spoorwegexploitant en dat de spoorwegexploitant de ECM tijdig voorziet van informatie en gegevens over de exploitatie van de voertuigen en ander spoorwegmaterieel waarvoor de ECM verantwoordelijk is. In beide gevallen worden de desbetreffende informatie en gegevens gespecifieerd in de in § 2 bedoelde Bijlage.
+De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te zijner tijd voorzien van informatie over de exploitatie van de voertuigen (met inbegrip van afgelegde kilometers, type en omvang van de activiteiten, ongevallen of incidenten) waarvoor de ECM verantwoordelijk is.
 
-§ 4. De ECM van een toegelaten voertuig legt van dat voertuig een dossier omtrent de staat van onderhoud aan en houdt dit actueel. Het dossier moet beschikbaar zijn voor inspecties door de bevoegde nationale autoriteit.
-
-§ 5. De Commissie van technisch deskundigen kan richtlijnen of voorschriften aannemen voor de certificering en controle van onderhoudsbedrijven en de wederzijdse erkenning van de certificaten en controles. Voorschriften overeenkomstig deze paragraaf worden omschreven in een Bijlage bij deze Uniforme Regelen, vormen er een integrerend onderdeel van en worden gepubliceerd op de website van de Organisatie.
+§ 4. De ECM van een toegelaten voertuig legt van dat voertuig een onderhoudsdossier en dossier omtrent de staat van onderhoud aan en houdt deze actueel. De ECM stelt de houder in kennis van updates van het dossier omtrent de staat van onderhoud. De dossiers moeten beschikbaar zijn voor inspectie door de bevoegde nationale autoriteit.
 
 ##### Artikel 16. Ongevallen, incidenten en ernstige schade
 
@@ -4845,6 +4809,84 @@ Deze regels, die tevens regels omvatten voor de intrekking en schorsing van cert
 ##### Artikel 20. Geschillen
 
 Geschillen omtrent de technische toelating van spoorvoertuigen en ander spoorwegmaterieel beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) ook aan het scheidsgerecht worden voorgelegd.
+
+EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs Gouvernements respectifs ont signé le présent Protocole.
+
+FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des langues française, allemande et anglaise; ces exemplaires restent déposés dans les archives de l'OTIF. Des copies certifiées conformes en seront remises à chacun des Etats membres.
+
+##### Artikel 15a. Samenstelling en exploitatie van treinen
+
+§ 1. De spoorwegvervoeronderneming beheerst de risico’s die met haar activiteiten samenhangen, met name de risico’s die verband houden met de exploitatie van treinen. Daartoe waarborgt zij dat deze treinen voldoen aan de essentiële eisen en zal met name:
+
+- a. de juiste en veilige samenstelling en voorbereiding van treinen waarborgen, met inbegrip van controles vóór vertrek,
+
+- b. met informatie in acht nemen die nodig is voor de veilige exploitatie van elk voertuig, met inbegrip van mogelijke beperkingen voor de exploitatie,
+
+- c. voertuigen uitsluitend gebruiken met inachtneming van de gebruiksvoorwaarden en -beperkingen ervan,
+
+- d. verplicht zijn te voldoen aan de exploitatievoorschriften voor voertuigen in internationaal verkeer, zoals die omschreven in de relevante UTP’s,
+
+- e. waarborgen dat aan elk voertuig een ECM is toegewezen en dat deze ECM, wanneer nodig, over een geldig certificaat beschikt.
+
+§ 2. De in § 1 vervatte regels zijn van overeenkomstige toepassing op entiteiten anders dan spoorwegondernemingen die treinen onder hun eigen verantwoordelijkheid exploiteren.
+
+§ 3. Voor zover nodig voor de exploitatie stelt de houder elke spoorwegonderneming die het voertuig exploiteert de elementen ter beschikking die betrekking hebben op de gebruiksvoorwaarden en -beperkingen en inzake revisies en voortdurende of periodieke monitoring.
+
+§ 4. Voor zover nodig voor de exploitatie stelt de infrastructuurmanager elke spoorwegonderneming die het voertuig op zijn netwerk exploiteert de elementen ter beschikking die betrekking hebben op de kenmerken van de infrastructuur.
+
+##### Artikel 16. Ongevallen, incidenten en ernstige schade
+
+§ 1. Bij ongevallen of incidenten met of ernstige schade aan spoorvoertuigen zijn alle betrokkenen (de infrastructuurbeheerders, de houders, de ECM, de betrokken spoorwegondernemingen en eventuele andere actoren) verplicht:
+
+- a. onverwijld alle nodige maatregelen te nemen teneinde de veiligheid van het spoorwegverkeer te waarborgen en het milieu en de volksgezondheid te beschermen en
+
+- b. de oorzaken van het ongeval, het incident of de ernstige schade vast te stellen.
+
+§ 1a. De maatregelen overeenkomstig § 1 moeten op elkaar worden afgestemd. Tenzij anders bepaald in de van kracht zijnde bepalingen in de desbetreffende Staat is de beheerder van de infrastructuur belast met de afstemming. Aanvullend op de onderzoeksplicht van de betrokken partijen kan de Verdragsstaat een onafhankelijk onderzoek gelasten.
+
+§ 2. Een voertuig wordt geacht ernstig te zijn beschadigd wanneer het niet eenvoudig zodanig hersteld kan worden dat het in een trein kan worden opgenomen en op eigen wielen kan rijden zonder dat de exploitatie in gevaar wordt gebracht. Indien de reparatie binnen tweeënzeventig uur kan worden uitgevoerd of de kosten in totaal minder dan 0,18 miljoen SDR bedragen, wordt de schade niet als ernstig aangemerkt.
+
+§ 3. Van ongevallen, incidenten en ernstige schade wordt onverwijld kennisgeving gedaan aan de autoriteit die of het orgaan dat het voertuig heeft toegelaten tot het verkeer. Die autoriteit of dat orgaan kan verlangen dat het al dan niet herstelde voertuig wordt getoond teneinde te onderzoeken of de verleende gebruikstoelating nog geldig is. In voorkomend geval moet de procedure voor de gebruikstoelating worden overgedaan.
+
+§ 4. De Verdragsstaten houden registers bij, publiceren onderzoeksrapporten met inbegrip van hun bevindingen en aanbevelingen en stellen de betrokken autoriteit en de Organisatie in kennis van de oorzaken van ongevallen, incidenten en ernstige schade in het internationaal verkeer die zich hebben voorgedaan op hun grondgebied. De Commissie van technisch deskundigen kan de oorzaken van ernstige ongevallen, incidenten en ernstige schade in het internationaal verkeer onderzoeken teneinde eventueel voorschriften voor de constructie en exploitatie van spoorvoertuigen in de UTP’s op te stellen en kan, zo nodig binnen korte termijn beslissen Verdragsstaten op te dragen de desbetreffende afgegeven gebruikscertificaten, certificaten van het typeontwerp of verklaringen op te schorten.
+
+§ 5. De Commissie van technisch deskundigen kan nadere bindende regels opstellen en aannemen voor het onderzoek naar ernstige ongevallen, incidenten en ernstige schade, alsmede eisen stellen aan onafhankelijke onderzoeksorganen van een staat alsmede de vorm en inhoud van rapporten. Ook kan zij de waarden/getallen in § 2 en in artikel 2, onderdeel ff., wijzigen.
+
+##### Artikel 17. Stilzetten en weigeren van voertuigen
+
+§ 1. Een bevoegde autoriteit, een spoorwegonderneming of een infrastructuurbeheerder mag spoorvoertuigen niet beletten te rijden op compatibele spoorweginfrastructuren, wanneer ze voldoen aan deze Uniforme Regelen, de in de UTP’s vervatte voorschriften, de eventueel door de toelatende autoriteit gestelde bijzondere voorwaarden voor de toelating alsmede aan de in het RID vervatte voorschriften voor constructie en exploitatie.
+
+Dit artikel laat de verantwoordelijkheid van de spoorwegonderneming zoals omschreven in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15a&z=2015-07-01&g=2015-07-01) onverlet.
+
+§ 2. Het recht van een bevoegde autoriteit een voertuig te inspecteren en stil te zetten indien vermoed wordt dat § 1 niet in acht is genomen blijft onverlet; onderzoek teneinde zekerheid te verkrijgen moet evenwel zo spoedig mogelijk en in elk geval binnen 24 uur plaatsvinden.
+
+§ 3. Indien een Verdragsstaat een certificaat evenwel niet binnen de in artikel 5, § 7, of [artikel 16, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=16&z=2015-07-01&g=2015-07-01), bedoelde termijn opschort of intrekt, zijn andere Verdragsstaten bevoegd het voertuig of de voertuigen in kwestie te weigeren of stil te zetten.
+
+##### Artikel 18. Niet in acht nemen van de voorschriften
+
+§ 1. Met inachtneming van § 2 en [artikel 10a, § 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=10a&z=2015-07-01&g=2015-07-01), worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarvan de bevoegde autoriteit de gebruikstoelating heeft verleend, met inbegrip van de regels inzake wetsconflicten.
+
+§ 2. De civielrechtelijke en strafrechtelijke gevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s worden voor zover het de infrastructuur betreft geregeld door de voorschriften die van kracht zijn in de Verdragsstaat waarin de infrastructuurbeheerder zijn zetel heeft, met inbegrip van de regels inzake wetsconflicten.
+
+##### Artikel 19. Overgangsbepalingen
+
+§ 1. [gereserveerd]
+
+§ 2. Deze Uniforme Regelen zijn niet van toepassing op gebruikstoelatingen die vóór 1 januari 2011 werden verleend voor op 1 januari 2011 bestaande voertuigen die met RIV respectievelijk RIC gemarkeerd zijn ten bewijze van het feit dat ze op dat moment voldoen aan de technische bepalingen van de RIV-overeenkomst 2000 (herziene versie van 1 januari 2004) respectievelijk de RIC-overeenkomst, en voor bestaande voertuigen die niet met RIV of RIC zijn gemarkeerd, maar volgens bilaterale of multilaterale overeenkomsten tussen Verdragsstaten waarvan kennisgeving is gedaan aan de Organisatie wel zijn toegelaten en gemarkeerd.
+
+§ 3. Onverminderd § 5 is de oorspronkelijke toelating overeenkomstig § 2 geldig totdat voor het voertuig een nieuwe toelating nodig is overeenkomstig artikel 10, § 11.
+
+§ 4. De in artikel 14 bedoelde opschriften en tekens, alsmede de in de database opgeslagen gegevens bedoeld in artikel 13, § 1, worden aangemerkt als voldoende bewijs van de goedkeuring. Elke niet toegelaten wijziging van deze markering wordt als fraude beschouwd en vervolgd krachtens het nationale recht.
+
+§ 5. Onverminderd deze overgangsbepaling moeten het voertuig en zijn documentatie voldoen aan de van kracht zijnde bepalingen van de UTP’s inzake markering en onderhoud; tevens moet worden gewaarborgd dat voldaan wordt aan de bepalingen van het van kracht zijnde RID, indien van toepassing. De Commissie van technisch deskundigen kan tevens een met redenen omkleed besluit nemen dat omwille van de veiligheid en interoperabiliteit aan de in de UTP ingevoerde voorschriften vóór een bepaalde termijn moet worden voldaan.
+
+§ 6. Bestaande voertuigen die niet vallen onder het toepassingsgebied van § 2 kunnen op verzoek van een aanvrager aan een bevoegde autoriteit worden toegestaan voor gebruik. Deze bevoegde autoriteit kan de aanvrager verzoeken om aanvullende technische informatie, dat wil zeggen een risicoanalyse en/of tests van het voertuig, alvorens het aanvullend voor gebruik toe te laten. Desalniettemin nemen de bevoegde autoriteiten de equivalentietabel bedoeld in artikel 13 van de APTU Uniforme Regelen volledig in acht.
+
+§ 7. De Commissie van technisch deskundigen kan aanvullende overgangsbepalingen aannemen.
+
+##### Artikel 20. Geschillen
+
+Geschillen omtrent de technische toelating van spoorvoertuigen beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2015-07-01&g=2015-07-01) ook aan het scheidsgerecht worden voorgelegd.
 
 EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs Gouvernements respectifs ont signé le présent Protocole.
 
