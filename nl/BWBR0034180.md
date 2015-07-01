@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2015-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -42,9 +42,9 @@ Besluit:
 
 ##### Artikel 1
 
-1. Als de modellen, bedoeld in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) en het [Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632), worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.
+1. Als de modellen, bedoeld in de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627), de [Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443), het [Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632) en het [Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521), worden de modellen vastgesteld die in de bijlage bij artikel 1 van deze regeling bij deze regeling zijn opgenomen.
 
-2. De tekst van de modellen in de bijlage bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.
+2. De tekst van de modellen in de bijlage bij artikel 1 van deze regeling bij deze regeling kan redactioneel worden aangepast voor een specifieke doelgroep of voor de digitale toepassing, indien dat de leesbaarheid of doelmatigheid van het model ten goede komt.
 
 ##### Artikel 2
 
@@ -56,7 +56,7 @@ Deze regeling treedt in werking met ingang van 1 december 2013.
 
 ##### Artikel 4
 
-Deze regeling wordt aangehaald als: Kiesregeling.
+Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ## Bijlage
 
@@ -64,11 +64,9 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model D 3-1. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van de Tweede Kamer
 
-### Model D 3-2. Registratieformulier voor kiezers in Aruba, Curaçao en Sint Maarten voor de verkiezing van de Tweede Kamer
+### Model D 3-1. ([Wrr 21](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=21)) Registratieformulier voor kiezers buiten Nederland
 
-### Model D 3-3. Registratieformulier voor kiezers buiten Nederland voor de verkiezing van het Europees Parlement
-
-### Model D 3-4. Registreren voor de verkiezing van de leden van het Europees Parlement in Aruba, Curaçao en Sint Maarten
+### Model D 3-2. ([Wrr 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=21a)) Registratieformulier voor kiezers in Aruba, Curaçao en Sint Maarten
 
 ### Model G 1-1. Verzoek tot registratie van een aanduiding
 
@@ -110,11 +108,11 @@ Deze regeling wordt aangehaald als: Kiesregeling.
 
 ### Model J 7
 
-### Model J 7-1. De technische eisen aan de stempas, de kiezerspas, het volmachtsbewijs en het briefstembewijs
+### Model J 7
 
 ### Model J 7-1. De technische eisen aan de stempas, de kiezerspas, het volmachtsbewijs en het briefstembewijs
 
-(voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
+### Model J 16. Kiezershandleiding
 
 (voorzijde)1Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring.
 
@@ -124,43 +122,41 @@ STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Genera
 
 KANDIDATENLIJSTEN5Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. In geval van een lijstencombinatie dient (dienen) onder het nummer en de aanduiding het (de) nummer(s) van de lijst(en) te worden vermeld waarmee de lijstencombinatie is aangegaan, voorafgegaan door de woorden ‘gecombineerd met’. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd.
 
-### Model K 4. Kiezerspas
+enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
 
 ### Model K 4. Kiezerspas
 
 ### Model K 4
 
-### Model K 6. Verzoek om een kiezerspas
+### Model K 6. ([Wrr 60](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=60)) Verzoek om een kiezerspas
 
-### Model L 8. Verzoek om bij volmacht te stemmen
+### Model L 8. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Verzoek om bij volmacht te stemmen
 
 ### Model L 11
 
-¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
+### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
 
-### Model M 6-1. (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
 ### Model M 6-2. Briefstembewijs
 
+### Model M 6-3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Enveloppe voor het stembiljet
+
 Stembiljet (kleur wit)
 
-### Model M 6-3. Enveloppe voor het stembiljet
+### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
 
-### Model N 10-1. Proces-verbaal van een stembureau
+### Model N 10-2a. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Proces-verbaal van de vooropening bij een briefstembureau
 
-### Model N 10-1. Proces-verbaal van een stembureau
+### Model N 10-2b. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Proces-verbaal van de telling bij een briefstembureau
 
-### Model N 10-1. Bijlage: aantal stemmen per lijst en kandidaat
+### Model N 10-2b. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
 
-### Model N 10-2a. Proces-verbaal van de vooropening bij een briefstembureau
+### Model N 11. ([Wrr 67](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=67)) Vaststelling aantal stemmen in gemeente/openbaar lichaam
 
-### Model N 10-2b. Proces-verbaal van de telling bij een briefstembureau
+### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement / de provinciale staten van een provincie met meer dan één kieskring / het referendum
 
-### Model N 10-2b. Bijlage: aantal stemmen per lijst en kandidaat
-
-### Model N 11. Vaststelling aantal stemmen in gemeente/openbaar lichaam
-
-### Model O 3. Proces-verbaal van het hoofdstembureau voor de verkiezing van de Tweede Kamer / het Europees Parlement/de provinciale staten van een provincie met meer dan één kieskring
+### Model O 3. ([Wrr 73](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=73)) Bijlage: bezwaren
 
 ### Model P 22-1. Proces-verbaal van de verkiezingsuitslag van de Tweede Kamer / het Europees Parlement / provinciale staten
 
@@ -192,27 +188,31 @@ Stembiljet (kleur wit)
 
 ### Model Y 35. Verklaring dat u in de lidstaat van uw herkomst niet bent uitgesloten van het recht om gekozen te worden/Declaration of non-exclusion from the right to stand for election in your home Member State
 
+### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
+
+### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
+
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2015-01-01&g=2015-01-01) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2015-07-01&g=2015-07-01) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
-### Model J 16. Kiezershandleiding
+### Model J 20
 
-enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.
+U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
 
-### Model M 3. Verzoek om per brief te stemmen
+### Model M 6-1. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
-### Model M 6-2. Briefstembewijs
+### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Proces-verbaal van een stembureau
 
 Stembiljet (kleur wit)
 
-### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
+### Model Wrr 29-1. Inleidend verzoek
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
 
@@ -230,10 +230,50 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 Stembiljet (kleur wit)
 
-### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
+### Model Wrr 29-2. Inleidend verzoek
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-01-01&g=2015-01-01) van de Kies- en referendumregeling
 
 Dit onderdeel is nog niet inwerking getreden
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 2b
+
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2015-07-01&g=2015-07-01) van deze regeling opgenomen eisen.
+
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+
+De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:
+
+### Model Wrr 37. Proces-verbaal van de beoordeling van het inleidend verzoek
+
+### Model Wrr 41-1. Definitief verzoek
+
+### Model Wrr 41-2. Definitief verzoek
+
+### Model Wrr 52. Proces-verbaal van de beoordeling van het definitief verzoek
+
+### Model Wrr 52. Bijlage
+
+### Model Wrr 83. Proces-verbaal van de uitslag van het referendum
+
+### Model Wrr 83. Bijlage: bezwaren en geschillen
+
+### Model Wrr 116. Vaststelling van het aantal in een openbaar lichaam ingediende verzoeken tot het houden van een referendum (inleidend verzoek)
+
+### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+
+### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
+
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
+
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+
+### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
+
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
