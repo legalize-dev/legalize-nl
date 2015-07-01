@@ -4,7 +4,7 @@ identifier: "BWBR0036029"
 country: "nl"
 rank: "wet"
 publication_date: "2018-09-19"
-last_updated: "2015-01-10"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036029"
 soort: "wet"
@@ -66,7 +66,7 @@ Wijzigt de Beginselenwet justitiële jeugdinrichtingen.
 
 ##### Artikel V
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Belastingwet BES.
 
 ##### Artikel VI
 
@@ -234,15 +234,15 @@ Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ##### Artikel XLII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.
 
 ##### Artikel XLIII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal.
 
 ##### Artikel XLIV
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof.
 
 ##### Artikel XLV
 
@@ -272,7 +272,7 @@ Wijzigt de Wet forensische zorg.
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=IV&z=2015-01-10&g=2015-01-10) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=XVI&z=2015-01-10&g=2015-01-10) van deze wet in werking met ingang van de datum van inwerkingtreding van de Wet van 7 februari 2013 tot wijziging van de Gemeentewet en enige andere wetten in verband met het afschaffen van de bevoegdheid van gemeentebesturen om deelgemeenten in te stellen (**Stb.** 2013, 76). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na die datum, treden de artikelen IV en XVI van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
+2. In afwijking van het eerste lid treden de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=IV&z=2015-07-01&g=2015-07-01) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0036029&artikel=XVI&z=2015-07-01&g=2015-07-01) van deze wet in werking met ingang van de datum van inwerkingtreding van de Wet van 7 februari 2013 tot wijziging van de Gemeentewet en enige andere wetten in verband met het afschaffen van de bevoegdheid van gemeentebesturen om deelgemeenten in te stellen (**Stb.** 2013, 76). Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven op of na die datum, treden de artikelen IV en XVI van deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst.
 
 ##### Artikel XLVIII
 
