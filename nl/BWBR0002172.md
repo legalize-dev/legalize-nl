@@ -4,7 +4,7 @@ identifier: "BWBR0002172"
 country: "nl"
 rank: "wet"
 publication_date: "2015-07-01"
-last_updated: "2006-02-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0002172"
 soort: "wet"
@@ -56,7 +56,7 @@ De aanvraag tot het doen aanbrengen van de formule tot gedwongen tenuitvoerleggi
 
 4. Onze voornoemde Minister zendt de genoemde stukken onverwijld aan de Griffier van de Hoge Raad der Nederlanden.
 
-5. Deze griffier geeft, binnen een week na de ontvangst van de stukken, na accoordbevinding van de authenticiteit van de expeditie, aan de expeditie de vorm van een grosse. Hij doet zulks door de volgende formule aan het hoofd, ter zijde of aan het slot van de expeditie te plaatsen: "In naam der Koningin", gevolgd door de vermelding van de dagtekening en van zijn functie en door zijn handtekening. Indien is bepaald, dat de tekst van de uitspraak of beschikking in een bepaalde taal ingeval van onderlinge tegenspraak beslissend is, moet de formule worden geplaatst op de in die taal gestelde authentieke expeditie.
+5. Deze griffier geeft, binnen een week na de ontvangst van de stukken, na accoordbevinding van de authenticiteit van de expeditie, aan de expeditie de vorm van een grosse. Hij doet zulks door de volgende formule aan het hoofd, ter zijde of aan het slot van de expeditie te plaatsen: “In naam van de Koning”, gevolgd door de vermelding van de dagtekening en van zijn functie en door zijn handtekening. Indien is bepaald, dat de tekst van de uitspraak of beschikking in een bepaalde taal ingeval van onderlinge tegenspraak beslissend is, moet de formule worden geplaatst op de in die taal gestelde authentieke expeditie.
 
 6. De griffier geeft de grosse onverwijld af aan de in lid 1 bedoelde partij.
 
