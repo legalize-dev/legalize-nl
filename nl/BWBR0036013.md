@@ -4,7 +4,7 @@ identifier: "BWBR0036013"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2015-06-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036013"
 soort: "wet"
@@ -53,7 +53,9 @@ Wijzigt de Algemene Ouderdomswet.
 
 Wijzigt de Algemene wet bestuursrecht.
 
-##### Artikel IVa. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&wetgeving)
+##### Artikel IVa. [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614)
+
+Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -75,13 +77,13 @@ Wijzigt de Cessantiawet BES.
 
 ##### Artikel VIc. [Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Faillissementswet.
 
 ##### Artikel VII. [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
 
 Wijzigt de Gemeentewet.
 
-##### Artikel VIIa. [Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&wetgeving)
+##### Artikel VIIa. [Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333)
 
 Wijzigt de Invoeringswet Participatiewet.
 
@@ -125,11 +127,11 @@ Wijzigt de Wet allocatie arbeidskrachten door intermediairs.
 
 Wijzigt de Wet arbeid en zorg.
 
-##### Artikel XV. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&wetgeving)
+##### Artikel XV. [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657)
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.
 
-##### Artikel XVI. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&wetgeving)
+##### Artikel XVI. [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656)
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
@@ -149,13 +151,13 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
-##### Artikel XXa. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385&wetgeving)
+##### Artikel XXa. [Wet maatregelen Wet werk en bijstand en enkele andere wetten](https://wetten.overheid.nl/jci1.3:c:BWBR0035385)
 
 Wijzigt de Wet maatregelen Wet werk en bijstand en enkele andere wetten.
 
 ##### Artikel XXI. [Wet melding collectief ontslag](https://wetten.overheid.nl/jci1.3:c:BWBR0003026)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet melding collectief ontslag.
 
 ##### Artikel XXII. [Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638)
 
@@ -165,7 +167,7 @@ Wijzigt de Wet minimumloon en minimumvakantiebijslag.
 
 Wijzigt de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen.
 
-##### Artikel XXIV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&wetgeving)
+##### Artikel XXIV. [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
@@ -197,7 +199,7 @@ Wijzigt de Wet sociale werkvoorziening.
 
 Wijzigt de Wet overgangsregeling arbeidsongeschiktheidsverzekering.
 
-##### Artikel XXX. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&wetgeving)
+##### Artikel XXX. [Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060)
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen.
 
@@ -213,11 +215,11 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-##### Artikel XXXIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&wetgeving)
+##### Artikel XXXIII. [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057)
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
-##### Artikel XXXIV. [Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&wetgeving)
+##### Artikel XXXIV. [Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254)
 
 Wijzigt de Wet werk en zekerheid.
 
@@ -227,6 +229,8 @@ Wijzigt de Wet ziekteverzekering BES.
 
 ##### Artikel XXXVa. [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
+
 Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXXVI. [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
@@ -235,9 +239,7 @@ Wijzigt de Ziektewet.
 
 ##### Artikel XXXVIa. Eenmalige aanpassing bedragen
 
-1. Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in [artikel IX, onderdeel Ga](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=IX&z=2015-06-01&g=2015-06-01), van deze wet eenmalig aanpassen na de datum van inwerkingtreding van dat artikelonderdeel.
-
-2. Dit artikel vervalt zes maanden na de inwerkingtreding van het artikelonderdeel, genoemd in het eerste lid.
+Vervallen
 
 ##### Artikel XXXVIb. Intrekking [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
@@ -245,11 +247,11 @@ De [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) wor
 
 ##### Artikel XXXVIc. Overgangsrecht in verband met intrekking [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039)
 
-1. Op uitkeringen die zijn verleend of verstrekt aan een college van burgemeester en wethouders op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) voor het tijdstip van inwerkingtreding van [artikel XXXVIB](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XXXVIb&z=2015-06-01&g=2015-06-01) van deze wet blijven de Wet participatiebudget en de daarop berustende bepalingen zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding artikel XXXVIB van deze wet, van toepassing.
+1. Op uitkeringen die zijn verleend of verstrekt aan een college van burgemeester en wethouders op grond van de [Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039) voor het tijdstip van inwerkingtreding van [artikel XXXVIB](https://wetten.overheid.nl/jci1.3:c:BWBR0036013&artikel=XXXVIb&z=2015-07-01&g=2015-07-01) van deze wet blijven de Wet participatiebudget en de daarop berustende bepalingen zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding artikel XXXVIB van deze wet, van toepassing.
 
 2. Middelen die op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=2) of [artikel 4 van de Wet participatiebudget](https://wetten.overheid.nl/jci1.3:c:BWBR0025039&artikel=4) of daarop berustende bepalingen zijn gereserveerd voor besteding in 2015 met uitzondering van het bedrag dat door Onze Minister van Onderwijs, Cultuur en Wetenschap beschikbaar is gesteld, kunnen door het college van burgemeester en wethouders in 2015 vrij worden besteed binnen de kaders van een integratie-uitkering op grond van de Financiële-verhoudingswet. Dit gereserveerde bedrag wordt niet teruggevorderd op de wijze, bedoeld in artikel 4, tweede en derde lid, van de Wet participatiebudget, zoals dat artikel luidde op de dag, bedoeld in het eerste lid.
 
-##### Artikel XXXVId. [Wet aanpassing financieel toetsingskader](https://wetten.overheid.nl/jci1.3:c:BWBR0036084&wetgeving)
+##### Artikel XXXVId. [Wet aanpassing financieel toetsingskader](https://wetten.overheid.nl/jci1.3:c:BWBR0036084)
 
 Wijzigt de Wet aanpassing financieel toetsingskader.
 
