@@ -4,7 +4,7 @@ identifier: "BWBR0008060"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2017-03-18"
-last_updated: "2013-01-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008060"
 soort: "ministeriele-regeling"
@@ -54,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 14 van de Regeling financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032664&artikel=14).
+De gelden voor de jaarlijkse abonnementskosten van twee aansluitingen per regionale of landelijke eenheid worden toegevoegd aan en opgenomen in de algemene bijdrage, bedoeld in [artikel 9, tweede lid, van het Besluit financieel beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036711&artikel=9).
 
 ##### Artikel 4
 
