@@ -4,7 +4,7 @@ identifier: "BWBR0019756"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2013-07-01"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019756"
 soort: "wet"
@@ -47,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ##### Artikel 1
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties of Onze Minister voor Immigratie, Integratie en Asiel.
+In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties of Onze Minister voor Wonen en Rijksdienst.
 
 ##### Artikel 2
 
@@ -61,17 +61,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder Onze Ministe
 
 - d. de Koninkrijksrelaties en de openbare lichamen Bonaire, Sint Eustatius en Saba;
 
-- e. het bouwen, het wonen en de woonomgeving;
+- e. het bouwen, het wonen en de woonomgeving.
 
-- f. de inburgering en integratie;
-
-- g. immigratie en asiel.
-
-2. Onze Minister kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen, die zijn genoemd in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties voor het desbetreffende jaar, of voor een voorafgaand jaar, voor zover daarin een beschikking tot subsidieverstrekking is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.
+2. Onze Minister kan voorts subsidies verstrekken voor activiteiten op het gebied van de onderwerpen, die zijn genoemd in de begrotingsstaat, onderdeel uitgaven en verplichtingen, behorend bij de wet, houdende vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties of de begrotingsstaten van Wonen en Rijksdienst voor het desbetreffende jaar, of voor een voorafgaand jaar, voor zover daarin een beschikking tot subsidieverstrekking is gegeven. Indien bij de aanvang van enig jaar bedoelde wet nog niet in werking is getreden, wordt tot die inwerkingtreding het voorstel daartoe in aanmerking genomen.
 
 ##### Artikel 3
 
-1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2&z=2013-07-01&g=2013-07-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
+1. Bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister kunnen de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2&z=2015-07-01&g=2015-07-01) bedoelde activiteiten waarvoor subsidie kan worden verstrekt nader worden bepaald en kunnen criteria voor die verstrekking worden vastgesteld.
 
 2. Bij of krachtens algemene maatregel van bestuur of bij een ministeriële regeling als bedoeld in het eerste lid wordt voorzien in de vaststelling van een subsidieplafond en de regeling van de wijze van verdeling ervan, tenzij Onze Minister van Financiën heeft ingestemd met het achterwege laten daarvan.
 
