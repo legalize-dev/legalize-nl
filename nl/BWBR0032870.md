@@ -4,7 +4,7 @@ identifier: "BWBR0032870"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-07-01"
-last_updated: "2013-01-19"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032870"
 soort: "pbo"
@@ -56,115 +56,45 @@ De taken en bevoegdheden die bij of krachtens de Wet op de ondernemingsraden zij
 
 ##### Artikel 3
 
-1. Er is een Bestuurskamer.
-
-2. De leden van de Bestuurskamer worden door de Raad uit zijn midden benoemd.
-
-3. De Bestuurskamer bestaat uit negen leden, gelijkelijk verdeeld over de drie geledingen van de Raad.
-
-4. De zittingsperiode van de Bestuurskamer is gelijk aan de zittingsperiode van de Raad.
-
-5. Voor elk lid kan een plaatsvervanger worden benoemd, al dan niet uit het midden van de Raad.
-
-6. De Raad benoemt de voorzitter uit de onafhankelijke geleding van de Raad.
-
-7. Indien een besluit van de Bestuurskamer niet unaniem is, wordt dat besluit genomen bij meerderheid van stemmen, waarbij binnen elk der geledingen de stemverhoudingen gelden zoals die voortvloeien uit de ledenaantallen in de Raad. Bij besluiten genomen op grond van het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032870&paragraaf=3&artikel=5&z=2013-01-19&g=2013-01-19) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0032870&paragraaf=3&artikel=6&z=2013-01-19&g=2013-01-19) is het stemrecht voorbehouden aan de leden en plaatsvervangers uit het midden van de Raad.
+Het dagelijks bestuur wordt belast met de voorbereiding van door de Raad uit te brengen adviezen die de taken van de Raad als bestuursorgaan betreffen.
 
 ##### Artikel 4
 
-1. De Bestuurskamer wordt belast met de voorbereiding van door de Raad uit te brengen adviezen die de taken van de Raad als bestuursorgaan betreffen.
-
-2. De Bestuurskamer is gemachtigd namens de Raad van advies te dienen over onderwerpen samenhangend met [het tweede hoofdstuk van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&hoofdstuk=Tweede).
+De taken en bevoegdheden die in het [Besluit opheffing Landbouwschap](https://wetten.overheid.nl/jci1.3:c:BWBR0011674) zijn toegekend aan de Raad worden gedelegeerd aan het dagelijks bestuur.
 
 ##### Artikel 5
 
-De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Bestuurskamer:
-
-- a. [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=74);
-
-- b. [artikel 90, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=90);
-
-- c. [artikel 106, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=106);
-
-- d. [artikel 115](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=115);
-
-- e. [artikel 116, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=116);
-
-- f. [artikel 121, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=121);
-
-- g. [artikel 122a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=122a);
-
-- h. [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=125);
-
-- i. [artikel 125a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=125a);
-
-- j. [artikel 129](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=129);
-
-- k. [artikel 137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=137).
+De taken en bevoegdheden die op grond van [artikel LIII van de Wet opheffing bedrijfslichamen](https://wetten.overheid.nl/jci1.3:c:BWBR0036083&artikel=LIII) en de [artikelen 126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) en [134, tweede lid, van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=134), zoals die luidden onmiddellijk voorafgaande aan de inwerkingtreding van de [Wet opheffing bedrijfslichamen](https://wetten.overheid.nl/jci1.3:c:BWBR0036083), zijn toegekend aan de Raad worden gedelegeerd aan de voorzitter van de Raad.
 
 ##### Artikel 6
 
-De taken en bevoegdheden die op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009276&artikel=10) en [11 van de Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276&artikel=11) zijn toegekend aan de Raad worden gedelegeerd aan de Bestuurskamer.
+De [Instellingsverordening Bestuurskamer 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024271) wordt ingetrokken.
 
 #### § 4. Toezichtkamer
 
 ##### Artikel 7
 
-1. Er is een Toezichtkamer.
-
-2. De Toezichtkamer bestaat uit drie leden die allen deel uitmaken van de onafhankelijke geleding van de Raad. Ten minste één van de leden is lid van de Bestuurskamer.
-
-3. De zittingsperiode van de Toezichtkamer is gelijk aan de zittingsperiode van de Raad.
+Deze verordening treedt in werking met ingang van de dag na de dag van bekendmaking in het Verordeningenblad Bedrijfsorganisatie.
 
 ##### Artikel 8
 
-De taken en bevoegdheden die op grond van de hieronder genoemde bepalingen uit de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) zijn toegekend aan de Raad worden, met uitzondering van de bevoegdheid tot het maken van verordeningen, gedelegeerd aan de Toezichtkamer:
+Deze verordening wordt aangehaald als: Verordening bestuurlijke taken SER.
 
-- a. [artikel 65, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=65);
-
-- b. [artikel 69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=69);
-
-- c. [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=77);
-
-- d. [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=83);
-
-- e. [artikel 92a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=92a);
-
-- f. [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=94);
-
-- g. [artikel 97, tweede lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=97);
-
-- h. [artikel 109, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=109);
-
-- i. [artikel 119](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=119);
-
-- j. [artikel 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=120);
-
-- k. [artikel 124, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=124);
-
-- l. [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=125);
-
-- m. [artikel 126, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126);
-
-- n. [artikel 134, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=134);
-
-- o. [artikel 137, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=137);
-
-- p. [artikel 137a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=137a).
+Deze verordening zal met de toelichting in het Verordeningenblad Bedrijfsorganisatie worden geplaatst.
 
 ##### Artikel 9
 
-De bevoegdheid tot het verlenen van de instemming, bedoeld in [artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=46), wordt gedelegeerd aan de Toezichtkamer.
+Vervallen
 
 #### § 5. Aanpassings- en overgangsbepalingen
 
 ##### Artikel 10
 
-Na inwerkingtreding van deze verordening berust de [Verordening financiën bedrijfslichamen 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029876) mede op het bepaalde in de [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032870&paragraaf=3&z=2013-01-19&g=2013-01-19) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032870&paragraaf=4&z=2013-01-19&g=2013-01-19) van deze verordening.
+Vervallen
 
 ##### Artikel 11
 
-Wijzigt de Verordening financiën bedrijfslichamen 2011.
+Vervallen
 
 #### § 6. Slotbepalingen
 
