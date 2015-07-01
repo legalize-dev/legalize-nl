@@ -4,7 +4,7 @@ identifier: "BWBR0036547"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-07-01"
-last_updated: "2015-04-25"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036547"
 soort: "AMvB"
@@ -56,8 +56,8 @@ Onze Minister van Infrastructuur en Milieu zendt binnen drie jaar na de inwerkin
 
 ##### Artikel III
 
-1. Dit besluit treedt in werking met ingang van 13 april 2015, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036547&artikel=I&z=2015-04-25&g=2015-04-25). Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 12 april 2015, treedt dit besluit, met uitzondering van artikel I, onderdeel B, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 13 april 2015.
+1. Dit besluit treedt in werking met ingang van 13 april 2015, met uitzondering van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036547&artikel=I&z=2015-07-01&g=2015-07-01). Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 12 april 2015, treedt dit besluit, met uitzondering van artikel I, onderdeel B, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 13 april 2015.
 
-2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036547&artikel=I&z=2015-04-25&g=2015-04-25), van dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdeel J, van de wet van 19 november 2014 tot wijziging van de Spoorwegwet en de Wet personenvervoer 2000 in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder regels inzake bijzondere spoorwegen, en vereenvoudiging van het vergunningenregime hoofdspoorwegen, en in verband met de invoering van een verblijfsverbod voor voorzieningen openbaarvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0036166&artikel=I) (**Stb.** 2015, 92), in werking treedt.
+2. [Artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036547&artikel=I&z=2015-07-01&g=2015-07-01), van dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdeel J, van de wet van 19 november 2014 tot wijziging van de Spoorwegwet en de Wet personenvervoer 2000 in verband met een tweede tranche van uitvoeringsmaatregelen van het kabinetsstandpunt «Spoor in beweging», waaronder regels inzake bijzondere spoorwegen, en vereenvoudiging van het vergunningenregime hoofdspoorwegen, en in verband met de invoering van een verblijfsverbod voor voorzieningen openbaarvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0036166&artikel=I) (**Stb.** 2015, 92), in werking treedt.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
