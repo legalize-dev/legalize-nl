@@ -4,7 +4,7 @@ identifier: "BWBR0026525"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-01-01"
-last_updated: "2014-12-12"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0026525"
 soort: "AMvB"
@@ -64,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 - **beperkt kwetsbaar gebouw:** gebouw met een kantoor-, cel-, industrie-, sport- of logiesfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **gebouw:** gebouw als bedoeld in [artikel 1 van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
+- **gebouw:** gebouw als bedoeld in [artikel 1, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=1);
 
 - **geluidsgevoelig gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
@@ -76,15 +76,19 @@ Hebben goedgevonden en verstaan:
 
 - **kwetsbaar gebouw:** gebouw met een onderwijs- of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1);
 
-- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2014-12-12&g=2014-12-12);
+- **Lden:** geluidbelasting van luchtvaartuigen uitgedrukt in Lden dB(A) en berekend op de wijze, bedoeld in [artikel 3, vierde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=2&artikel=3&z=2015-07-01&g=2015-07-01);
 
 - **luchtschip:** luchtvaartuig, lichter dan lucht, dat is voorzien van een voortstuwingsinrichting en een besturingsinrichting;
 
 - **micro light aeroplane:** MLA als bedoeld in het [Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922);
 
+- **modelluchtvaartuig:** luchtvaartuig, niet in staat een mens te dragen, en uitsluitend gebruikt voor luchtvaartvertoning, recreatie of sport;
+
 - **obstakel:** object dat zich boven het maaiveld bevindt en zich niet voortbeweegt;
 
 - **overig gebouw:** gebouw niet zijnde een woning, een beperkt kwetsbaar gebouw of een kwetsbaar gebouw;
+
+- **RPA:** op afstand bestuurd luchtvaartuig (remotely piloted aircraft), onbemand, niet zijnde een modelluchtvaartuig;
 
 - **valscherm:** scherm dat dient om de daalsnelheid van een persoon zodanig te beperken dat hij veilig de begane grond kan bereiken;
 
@@ -246,7 +250,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 ##### Artikel 12
 
-1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
+1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun bestemming onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 2. In het gebied dat gelegen is op of binnen de contour van 56 dB(A) Lden is nieuwbouw van een woning en een geluidsgevoelig gebouw niet toegestaan.
 
@@ -284,7 +288,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de vliegveiligheid is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -292,7 +296,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding is geen object toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
-2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
+2. [Artikel 13, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=13&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -316,7 +320,7 @@ Het luchthavenbesluit bevat in ieder geval:
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
-2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2014-12-12&g=2014-12-12), is van overeenkomstige toepassing.
+2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.4&artikel=16&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing.
 
 3. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
@@ -336,7 +340,7 @@ Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de
 
 Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50) worden aangewezen:
 
-- a. modelvliegtuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt;
+- a. Modelluchtvaartuigen waarvan de totale massa ten hoogste 25 kilogram bedraagt en RPA’s waarvan de totale massa ten hoogste 25 kilogram bedraagt;
 
 - b. ballonnen die op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een diameter van ten hoogste 2 meter of een inhoud van ten hoogste 4 kubieke meter hebben, alsmede aan elkaar gekoppelde ballonnen waarvan de gezamenlijke diameter en inhoud deze waarden niet te boven gaan;
 
@@ -376,7 +380,7 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 - d. micro light aeroplanes;
 
-- e. onbemande luchtvaartuigen tot 150 kilogram;
+- e. RPA’s waarvan de totale massa meer dan 25 kilogram maar niet meer dan 150 kilogram bedraagt;
 
 - f. vliegtuigen die deelnemen aan een luchtvaartvertoning;
 
