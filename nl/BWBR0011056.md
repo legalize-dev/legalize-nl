@@ -4,7 +4,7 @@ identifier: "BWBR0011056"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-01-01"
-last_updated: "2014-09-30"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011056"
 soort: "ministeriele-regeling"
@@ -40,7 +40,9 @@ Besluit:
 
 ##### Artikel 1
 
-De begroting en de jaarrekening van Stichting Sanquin worden ingericht met inachtneming van de bijlage behorend bij deze regeling.
+1. De begroting en de jaarrekening van de Bloedvoorzieningsorganisatie worden ingericht met inachtneming van de bijlage behorend bij deze regeling.
+
+2. De begroting en het beleidsplan van de Bloedvoorzieningsorganisatie worden jaarlijks vóór 15 oktober bij de Minister van Volksgezondheid, Welzijn en Sport ingediend.
 
 ##### Artikel 2
 
@@ -48,9 +50,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ##### Artikel 3
 
-Deze regeling wordt aangehaald als: Regeling inrichting begroting en jaarrekening Sanquin.
+Deze regeling wordt aangehaald als: Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie.
 
-## Bijlage. bij de Regeling inrichting begroting en jaarrekening Sanquin
+## Bijlage. bij de Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie
 
 ### Hoofdstuk 1. Regels ten aanzien van de begroting
 
@@ -210,7 +212,7 @@ Voornemens tot het aangaan of beëindigen van samenwerkingsverbanden zoals deeln
 
 ### Hoofdstuk 4. Indiening van een jaarplan
 
-Uiterlijk op 1 januari van het jaar t verstrekt Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Sanquin Bloedbank voor de jaren t tot en met t+5. Daarbij dient de Minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Sanquin Bloedbank in het jaar t+1 ten opzichte van het jaar t.
+Uiterlijk op 15 maart van het jaar t verstrekt Sanquin een meerjarenraming met toelichting van de baten, lasten en afzetgegevens van de divisie Sanquin Bloedbank voor de jaren t tot en met t+5. Daarbij dient de Minister geïnformeerd te worden over de te verwachten omvangrijke kostenveranderingen voor de divisie Sanquin Bloedbank in het jaar t+1 ten opzichte van het jaar t.
 
 Daarbij dient tevens de Minister geïnformeerd te worden over te verwachten omvangrijke kostenveranderingen voor de bloedbankdivisies in het jaar t+1 ten opzichte van het jaar t.
 
