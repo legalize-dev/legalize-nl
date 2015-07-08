@@ -4,7 +4,7 @@ identifier: "BWBR0034782"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-01-01"
-last_updated: "2014-02-14"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034782"
 soort: "ministeriele-regeling"
@@ -150,15 +150,15 @@ Een distributeur neemt bij het ter beschikking stellen van een nieuw apparaat ee
 
 ##### Artikel 6. Mogelijkheid producenten opzetten eigen innamesysteem voor afgedankte elektrische en elektronische apparatuur van particulieren
 
-Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2014-02-14&g=2014-02-14), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
+Onverminderd de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08), mogen producenten innamesystemen voor afgedankte elektrische en elektronische apparatuur van particuliere huishoudens invoeren en exploiteren mits deze systemen in overeenstemming zijn met de doelstellingen van [richtlijn nr. 2012/19](32012L0019)/EU.
 
 ##### Artikel 7. Weigeren inname verontreinigde afgedankte elektrische en elektronische apparatuur
 
-De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2014-02-14&g=2014-02-14), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
+De inzameling en het achterlaten, bedoeld in de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08), kan worden geweigerd indien de afgedankte elektrische en elektronische apparatuur bij gebruik is verontreinigd en daardoor een risico voor de gezondheid of veiligheid oplevert voor medewerkers van degene die inneemt.
 
 ##### Artikel 8. Gescheiden inzameling afgedankte elektrische en elektronische apparatuur van andere dan particuliere huishoudens
 
-Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2014-02-14&g=2014-02-14) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
+Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=14&z=2015-07-08&g=2015-07-08) draagt een producent zorg voor de gescheiden inzameling van afgedankte door hem in de handel gebrachte elektrische en elektronische apparatuur, niet zijnde afgedankte elektrische en elektronische apparatuur van particuliere huishoudens.
 
 ##### Artikel 9. Vervoer en voorbereiding voor hergebruik van ingezamelde afgedankte elektrische en elektronische apparatuur
 
@@ -210,7 +210,7 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 2. Een producent die op de markt aanwezig is op het moment waarop de kosten ontstaan van het beheer van afgedankte elektrische en elektronische apparatuur van particuliere huishoudens welke apparatuur op of voor 13 augustus 2005 in de handel is gebracht, draagt zorg voor de financiering van het beheer van die afgedankte apparatuur naar evenredigheid van zijn marktaandeel op het moment waarop de kosten van het afvalbeheer ontstaan.
 
-3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2014-02-14&g=2014-02-14) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2014-02-14&g=2014-02-14) genoemde distributeur.
+3. De in het eerste en tweede lid genoemde zorg voor financiering begint bij de afgifte op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=3&z=2015-07-08&g=2015-07-08) bedoelde plaats alsmede bij de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=4&z=2015-07-08&g=2015-07-08) genoemde distributeur.
 
 4. Bij het in de handel brengen van elektrische en elektronische apparatuur als bedoeld in het eerste lid stelt de producent een waarborg waaruit blijkt dat de inzameling, verwerking, nuttige toepassing en milieuhygiënisch verantwoorde verwijdering van die apparatuur, wanneer die wordt afgedankt, zal worden gefinancierd overeenkomstig het eerste lid.
 
@@ -242,13 +242,13 @@ Het bevoegd gezag verbindt zodanige voorschriften aan een omgevingsvergunning vo
 
 4. Elektrische en elektronische apparatuur waarbij na 13 augustus 2005 in de handel brengen heeft plaatsgevonden, is voorzien van de expliciete vermelding dat in de handel brengen na 13 augustus 2005 heeft plaatsgevonden.
 
-##### Artikel 17. Ingebouwde batterijen en accu’s moeten eenvoudig uit afgedankte elektrische en elektronische apparatuur verwijderd kunnen worden
+##### Artikel 17. Ingebouwde batterijen en accu’s
 
-1. Het is verboden elektrische en elektronische apparatuur in te voeren, voor handelsdoeleinden voorhanden te hebben, aan een ander ter beschikking te stellen of uit te voeren indien de ingebouwde batterijen en accu’s niet eenvoudig uit de apparatuur gehaald kunnen worden.
+1. Het is verboden elektrische en elektronische apparatuur in te voeren, voor handelsdoeleinden voorhanden te hebben, aan een ander ter beschikking te stellen of uit te voeren indien de ingebouwde batterijen en accu’s niet eenvoudig door van de producent onafhankelijke gekwalificeerde vaklieden uit de apparatuur gehaald kunnen worden voor zover deze niet eenvoudig door de eindgebruiker uit de apparatuur gehaald kunnen worden.
 
 2. Een gebruiksaanwijzing bij apparatuur vermeldt:
 
-- a. de wijze waarop de batterijen en accu’s uit de elektrische en elektronische apparatuur gehaald kunnen worden;
+- a. de wijze waarop de batterijen en accu’s door de eindgebruiker dan wel door van de producent onafhankelijke gekwalificeerde vaklieden uit de elektrische en elektronische apparatuur gehaald kunnen worden;
 
 - b. informatie over het type batterij of accu, dat in de elektrische en elektronische apparatuur is ingebouwd.
 
@@ -312,7 +312,7 @@ Een wijziging van de bijlagen bij [richtlijn nr. 2012/19](32012L0019)/EU gaat vo
 
 ##### Artikel 24
 
-De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2014-02-14&g=2014-02-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2014-02-14&g=2014-02-14), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2014-02-14&g=2014-02-14), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2014-02-14&g=2014-02-14), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2014-02-14&g=2014-02-14), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2014-02-14&g=2014-02-14) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2014-02-14&g=2014-02-14) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
+De [Regeling beheer elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017053) wordt ingetrokken met dien verstande dat [artikel 16 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0017053&artikel=16) van toepassing blijft ten aanzien van de resultaten van de uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=7&z=2015-07-08&g=2015-07-08), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=8&z=2015-07-08&g=2015-07-08), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=9&z=2015-07-08&g=2015-07-08), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=10&z=2015-07-08&g=2015-07-08), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=11&z=2015-07-08&g=2015-07-08), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=12&z=2015-07-08&g=2015-07-08) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034782&artikel=13&z=2015-07-08&g=2015-07-08) alsmede over de hoeveelheid op de markt gebrachte elektrische en elektronische apparatuur in 2013.
 
 ##### Artikel 25
 
