@@ -4,7 +4,7 @@ identifier: "BWBR0036803"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-09"
-last_updated: "2015-01-01"
+last_updated: "2015-07-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036803"
 soort: "ministeriele-regeling"
@@ -52,11 +52,11 @@ Aan Gedeputeerde Staten wordt mandaat, volmacht en machtiging verleend voor het 
 
 ##### Artikel 3
 
-Aan Gedeputeerde Staten wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=2&z=2015-07-09&g=2015-01-01), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
+Aan Gedeputeerde Staten wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=2&z=2015-07-09&g=2015-07-09), waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
 ##### Artikel 4
 
-1. Gedeputeerde Staten kunnen voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=2&z=2015-07-09&g=2015-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=3&z=2015-07-09&g=2015-01-01) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de medewerkers van de Provincie Noord-Brabant overeenkomstig hun eigen mandaatregels.
+1. Gedeputeerde Staten kunnen voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=2&z=2015-07-09&g=2015-07-09) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0036803&artikel=3&z=2015-07-09&g=2015-07-09) bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de medewerkers van de Provincie Noord-Brabant overeenkomstig hun eigen mandaatregels.
 
 2. Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in het vorige lid wordt gezonden aan de directeur Wetgeving en Juridische Zaken van het Ministerie van Economische Zaken en aan degenen aan wie krachtens het besluit ondermandaat, volmacht en machtiging is verleend.
 
