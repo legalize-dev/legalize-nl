@@ -4,7 +4,7 @@ identifier: "BWBR0033783"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033783"
 soort: "pbo"
@@ -42,11 +42,11 @@ Stelt de volgende verordening vast:
 
 2. De vergoeding, bedoeld in het eerste lid bedraagt op jaarbasis voor:
 
-- –. de voorzitter van het bestuur € 71.250,–;
+- –. de voorzitter van het bestuur € 72.100,–;
 
-- –. de plaatsvervangend voorzitter van het bestuur € 35.625,–; bij vervanging van de voorzitter voor een langere termijn dan één maand ontvangt de plaatsvervangend voorzitter voor de volledige vervangingsperiode naar rato de vergoeding toekomende aan de voorzitter in plaats van de vergoeding voor de plaatsvervangend voorzitter;
+- –. de plaatsvervangend voorzitter van het bestuur € 36.050,–; bij vervanging van de voorzitter voor een langere termijn dan één maand ontvangt de plaatsvervangend voorzitter voor de volledige vervangingsperiode naar rato de vergoeding toekomende aan de voorzitter in plaats van de vergoeding voor de plaatsvervangend voorzitter;
 
-- –. de overige leden van het bestuur € 8.550,–.
+- –. de overige leden van het bestuur € 8.650,–.
 
 3. Een lid van het bestuur heeft niet langer recht op een vaste vergoeding indien en voor zover het lid langer dan drie maanden niet betrokken is geweest bij de uitoefening van de taak van het bestuur, tenzij van het lid in de bedoelde periode geen betrokkenheid is verlangd.
 
@@ -58,9 +58,11 @@ Stelt de volgende verordening vast:
 
 ##### Artikel 2
 
-1. Een lid van het bestuur, met uitzondering van de voorzitter en de plaatsvervangend voorzitter, heeft slechts recht op presentiegeld als hij op verzoek van het bestuur deelneemt aan andere bijeenkomsten dan de vergaderingen van het bestuur.
+1. De leden van het bestuur hebben voor het bijwonen van hun vergaderingen of andere bijeenkomsten dan hun vergaderingen, recht op een vergoeding van reistijdkosten.
 
-2. In afwijking van het eerste lid heeft een lid van het bestuur voor het bijwonen van andere bijeenkomsten dan de vergaderingen van het bestuur geen recht op presentiegeld als hij:
+2. Een lid van het bestuur, met uitzondering van de voorzitter en de plaatsvervangend voorzitter, heeft slechts recht op presentiegeld als hij op verzoek van het bestuur deelneemt aan andere bijeenkomsten dan de vergaderingen van het bestuur.
+
+3. In afwijking van het tweede lid heeft een lid van het bestuur voor het bijwonen van andere bijeenkomsten dan de vergaderingen van het bestuur geen recht op presentiegeld als hij:
 
 - a. werkzaam is bij een accountantspraktijk of een accountantsafdeling waar meer dan tien accountants werkzaam zijn, het desbetreffende lid van het bestuur daaronder begrepen;
 
@@ -68,7 +70,7 @@ Stelt de volgende verordening vast:
 
 - c. werkzaam is bij het Rijk of een gemeente, een provincie, een waterschap, een gemeenschappelijke regeling, een universiteit, een academisch ziekenhuis of een zelfstandig bestuursorgaan vallend onder de werking van de [Kaderwet ZBO’s](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) waar meer dan honderd medewerkers zijn aangesteld.
 
-3. Het bestuur kan aan de voorzitters, de plaatsvervangend voorzitters of de leden van commissies of overige gremia voor het bijwonen van vergaderingen of bijeenkomsten het recht op presentiegeld toekennen.
+4. Het bestuur kan aan de voorzitters, de plaatsvervangend voorzitters of de leden van commissies of overige gremia voor het bijwonen van vergaderingen of bijeenkomsten het recht op presentiegeld toekennen.
 
 ##### Artikel 3
 
@@ -82,7 +84,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ##### Artikel 5
 
-1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2015-01-01&g=2015-01-01) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2015-01-01&g=2015-01-01) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
+1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2015-07-11&g=2015-07-11) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2015-07-11&g=2015-07-11) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
 
 2. Het bestuur kan verlangen dat aan hem bewijsstukken worden overgelegd waaruit de juistheid van de ingediende declaratie blijkt.
 
@@ -104,6 +106,8 @@ De [Verordening op de kostenvergoedingen](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. Een dagdeel omvat een tijdsperiode van vier uur.
 
-3. Parkeer-, tol- en veergelden en vergoedingen voor reiskosten en reistijdkosten worden geacht te zijn begrepen in de vergoeding bedoeld in het eerste lid.
+3. De vergoeding, bedoeld in artikel 2, eerste lid, bedraagt € 0,77 per afgelegde kilometer boven een totale reisafstand van honderd kilometer.
 
-4. In afwijking van het eerste lid bedraagt het presentiegeld voor deelname aan een telefonische vergadering of een vergadering via elektronische weg € 90,– per vergadering.
+4. Parkeer-, tol- en veergelden en vergoedingen voor reiskosten worden geacht te zijn begrepen in de vergoedingen bedoeld in het eerste en derde lid.
+
+5. In afwijking van het eerste lid bedraagt het presentiegeld voor deelname aan een telefonische vergadering of een vergadering via elektronische weg € 90,– per vergadering.
