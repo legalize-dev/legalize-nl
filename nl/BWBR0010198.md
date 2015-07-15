@@ -4,7 +4,7 @@ identifier: "BWBR0010198"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-10-03"
-last_updated: "2013-11-13"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010198"
 soort: "ministeriele-regeling"
@@ -49,25 +49,25 @@ In dit besluit wordt verstaan onder:
 
 2. De lengte van een geografisch nummer bedraagt tien cijfers.
 
-3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2013-11-13&g=2013-11-13), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2013-11-13&g=2013-11-13), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2013-11-13&g=2013-11-13).
+3. De lengte van een niet-geografisch nummer kan varieren en is aangegeven in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2015-07-15&g=2015-07-15), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2015-07-15&g=2015-07-15), genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2015-07-15&g=2015-07-15).
 
 ##### Artikel 3
 
 In de bij dit besluit behorende:
 
-- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2013-11-13&g=2013-11-13) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
+- a. [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2015-07-15&g=2015-07-15) worden de bestemmingen vastgesteld voor nummers voor telefoon- en ISDN-diensten;
 
-- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2013-11-13&g=2013-11-13) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
+- b. [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2015-07-15&g=2015-07-15) worden de netnummergebieden, genoemd in bijlage 1, vastgesteld;
 
-- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
+- c. [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15) wordt de verbijzondering naar nummerlengte van de nummerreeksen 0800, 0900, 0906, 0909 en 140X vastgesteld;
 
-- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2013-11-13&g=2013-11-13) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
+- d. [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=4&z=2015-07-15&g=2015-07-15) worden voorwaarden gesteld aan het recht op het gebruik van nummers in de nummerreeks 116.
 
 ##### Artikel 4
 
 1. Een geografisch nummer waarvan het abonneenummer begint met één van de cijfers 0, 1 en 9, is niet beschikbaar voor toekenning of reservering.
 
-2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2013-11-13&g=2013-11-13), behorende bij dit besluit, beschikbaar zonder toekenning of reservering.
+2. Een nummer uit de reeks 014 is in afwijking van het bepaalde in het eerste veld van de tabelkop van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=1&z=2015-07-15&g=2015-07-15), behorende bij dit besluit, beschikbaar zonder toekenning of reservering.
 
 ##### Artikel 5
 
@@ -85,7 +85,7 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 1. Dit besluit wordt aangehaald als: Nummerplan telefoon- en ISDN-diensten.
 
-2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2013-11-13&g=2013-11-13) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
+2. [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2015-07-15&g=2015-07-15) van dit besluit ligt ter inzage bij het college, Zurichtoren, 3e verdieping, Muzenstraat 41, 2511 WB te Den Haag.
 
 ## Bijlage 1. als bedoeld in artikel 3, onder a, van het Nummerplan telefoon- en ISDN-diensten
 
@@ -1338,7 +1338,7 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektronische communicatiedienst die voor het publiek beschikbaar is voor alleen uitgaande gesprekken, onderscheidenlijk alleen inkomende gesprekken, en waarbij sprake is van een directe overdracht en routering van signalen.
 
-## Bijlage 1. , behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2013-11-13&g=2013-11-13), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 1. behorend bij [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2015-07-15&g=2015-07-15), van het Nummerplan telefoon- en ISDN-diensten
 
 | Beschikbaar voor toekenning of reservering | Niet beschikbaar voor toekenning of reservering | Bestemming van de nummers (geografisch en niet-geografisch) | Lengte van de nummers | Nummers van uitzonderlijke economische waarden |
 | --- | --- | --- | --- | --- |
@@ -1633,7 +1633,7 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 | 079 |   | Zoetermeer | 10 | Nee |
 |   |   |   |   |   |
 | 08... | 08... | Overige diensten |   |   |
-| 0800-0... 0800-1... 0800-2... 0800-3... 0800-400... t/m 0800-405... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13), tabel 0800 | Nee |
+| 0800-0... 0800-1... 0800-2... 0800-3... 0800-400... t/m 0800-405... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15), tabel 0800 | Nee |
 | 0800-406... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen | 11 | Nee |
 | 0800-407... t/m 0800-409... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
 | 0800-41... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen | 8 | Nee |
@@ -1643,7 +1643,7 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 | 0800-46... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen | 8 | Nee |
 | 0800-47... 0800-48... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 11 | Nee |
 | 0800-49... |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen | 8 | Nee |
-| 0800-5 0800-6 0800-7 0800-8 0800-9 |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13), tabel 0800 | Nee |
+| 0800-5 0800-6 0800-7 0800-8 0800-9 |   | Gratis informatiediensten, zonder verkeerstarief als bedoeld in artikel 1, onderdeel k, van de Regeling universele dienstverlening en eindgebruikersbelangen, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15), tabel 0800 | Nee |
 |   | 0801 |   |   |   |
 |   | 0802 |   |   |   |
 |   | 0803 |   |   |   |
@@ -1664,16 +1664,16 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 |   | 089 |   |   |   |
 |   |   |   |   |   |
 | 09... | 09... | Overige diensten |   |   |
-| 0900 |   | Gratis of betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – amusementsdiensten of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13), tabel 0900 | Nee |
+| 0900 |   | Gratis of betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – amusementsdiensten of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15), tabel 0900 | Nee |
 |   | 0901 |   |   |   |
 |   | 0902 |   |   |   |
 |   | 0903 |   |   |   |
 |   | 0904 |   |   |   |
 |   | 0905 |   |   |   |
-| 0906 |   | Gratis of betaalde informatiediensten | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13), tabel 0906 | Nee |
+| 0906 |   | Gratis of betaalde informatiediensten | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15), tabel 0906 | Nee |
 |   | 0907 |   |   |   |
 |   | 0908 |   |   |   |
-| 0909 |   | Gratis of betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13), tabel 0909 | Nee |
+| 0909 |   | Gratis of betaalde informatiediensten, met uitsluiting van: – diensten van erotische, seksuele of pornografische aard of die daar (in)direct naar verwijzen; – diensten waarvan het hoofddoel is om de duur van het gesprek te verlengen | 8, 11 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15), tabel 0909 | Nee |
 | 091 |   | Openbare elektronische communicatiediensten | 10 | Nee |
 |   | 092 |   |   |   |
 |   | 093 |   |   |   |
@@ -1729,7 +1729,7 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 |   |   |   |   |   |
 | 14... | 14... | Geharmoniseerde nummers voor diensten met een bijzonder maatschappelijk belang |   |   |
 | 1400 |   | Contactcentrum van de rijksoverheid | 4 | Nee |
-| 1401 t/m 1405 |   | Contactcentra van de gemeenten | 5,6 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2013-11-13&g=2013-11-13) tabel 140x | Nee |
+| 1401 t/m 1405 |   | Contactcentra van de gemeenten | 5,6 zie [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=3&z=2015-07-15&g=2015-07-15) tabel 140x | Nee |
 |   | 1406 |   |   |   |
 | 1407.. |   | Contactcentra van de gemeenten | 5 | Nee |
 |   | 14080 t/m 14087 |   |   |   |
@@ -1744,7 +1744,7 @@ In dit besluit wordt onder de openbare telefoondienst mede verstaan: een elektro
 |   |   |   |   |   |
 | 16 |   | Carrierselectiedienst Nummer dat een gebruiker van een openbare telefoondienst de mogelijkheid biedt om het voor die dienst noodzakelijke transport van de uitgaande gegevens door een andere aanbieder van een openbare telefoondienst te laten verzorgen. De gebruiker kan van deze mogelijkheid gebruikmaken door het hier bedoelde nummer te kiezen onmiddellijk voorafgaand aan het nummer waarmee hij normaliter had kunnen volstaan. | 4 | Nee |
 |   | 17 |   |   |   |
-| 18 | 1818 | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee primair en tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee, en waarmee aanvullend openbaar beschikbare algemene informatie over de naam, het adres dan wel de locatie, de bereikbaarheid en de dienstverlening van abonnees opgevraagd kan worden aan de hand van door de oproeper verstrekte zoektermen. | 4 |   |
+| 18 | 1818 | Toegang tot gratis of betaalde abonnee-informatiediensten, waarmee tenminste telefoonnummers kunnen worden opgevraagd aan de hand van gegevens betreffende de naam in combinatie met gegevens betreffende het adres en huisnummer, postcode of de woonplaats van de abonnee, en waarmee aanvullende openbaar beschikbare algemene informatie over de naam, het adres dan wel de locatie, de bereikbaarheid en de dienstverlening van abonnees opgevraagd kan worden aan de hand van door de oproeper verstrekte zoektermen. | 4 |   |
 |   | 19 | Geharmoniseerde Europese korte nummers |   |   |
 |   | 2 | Gebruik wordt uitgefaseerd |   |   |
 |   | 3 | Gebruik wordt uitgefaseerd |   |   |
@@ -1771,7 +1771,7 @@ Ligt ter inzage bij het college, Zurichtoren, 3e verdieping, te Den Haag.
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2007-05-17&g=2007-05-17) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2013-11-13&g=2013-11-13), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 3. als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2015-07-15&g=2015-07-15), van het Nummerplan telefoon- en ISDN-diensten
 
 |   | **0** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1848,13 +1848,13 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 ##### Artikel 1d
 
-1. Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, wordt, in afwijking van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=1c&z=2013-11-13&g=2013-11-13), eerste lid, met ingang van 1 juni 2014 een nummer uit de reeks 0970 gebruikt.
+1. Voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, wordt, in afwijking van [artikel 1c](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=1c&z=2015-07-15&g=2015-07-15), eerste lid, met ingang van 1 juni 2014 een nummer uit de reeks 0970 gebruikt.
 
-2. [Artikel 1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=1c&z=2013-11-13&g=2013-11-13), is van toepassing.
+2. [Artikel 1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=1c&z=2015-07-15&g=2015-07-15), is van toepassing.
 
 3. Indien een ander nummer dan een nummer uit de reeksen 067, 0800, 084, 087, 090, 0970 of 1 voor 1 juni 2014 in gebruik is genomen voor een elektronische communicatiedienst voor een geautomatiseerde toepassing waarbij door een eindgebruiker voor in totaal maximaal 1000 nummers een of meerdere overeenkomsten worden gesloten met een aanbieder van elektronische communicatiediensten, is het verboden dit nummer na de beëindiging van de overeenkomst voor de desbetreffende elektronische communicatiedienst opnieuw te gebruiken voor het verzorgen van een elektronische communicatiedienst voor een geautomatiseerde toepassing.
 
-## Bijlage 4. als bedoeld in [artikel 3, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2013-11-13&g=2013-11-13), van het Nummerplan telefoon- en ISDN-diensten
+## Bijlage 4. als bedoeld in [artikel 3, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&artikel=3&z=2015-07-15&g=2015-07-15), van het Nummerplan telefoon- en ISDN-diensten
 
 | Nummer | Kwalificatie van de dienst en voorwaarden aan het recht op het gebruik |
 | --- | --- |
@@ -1878,4 +1878,4 @@ Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staats
 
 Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2012-05-04&g=2012-05-04) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
 
-Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2013-11-13&g=2013-11-13) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
+Dit besluit zal met de daarbij behorende bijlagen en de toelichting in de Staatscourant worden geplaatst, met uitzondering van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010198&bijlage=2&z=2015-07-15&g=2015-07-15) die ter inzage ligt bij het college, Babylon kantorencomplex B, 3e verdieping, 2595 AA te Den Haag.
