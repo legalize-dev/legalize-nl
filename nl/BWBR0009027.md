@@ -4,7 +4,7 @@ identifier: "BWBR0009027"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-01"
-last_updated: "2012-10-01"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0009027"
 soort: "AMvB"
@@ -88,7 +88,9 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit en de daarop berustende bepalingen wordt onder het IJsselmeer mede verstaan de daaraan gelegen open havens.
 
-3. Waar het IJsselmeer in verbinding staat met andere binnenwateren geldt als grens:
+3. In dit besluit en de daarop berustende bepalingen wordt onder het IJsselmeer mede verstaan het Markermeer en het IJmeer.
+
+4. Waar het IJsselmeer in verbinding staat met andere binnenwateren geldt als grens:
 
 - a. waar geen open verbinding is, de dichtst bij het IJsselmeer gelegen waterkering;
 
@@ -154,9 +156,11 @@ Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis
 
 - c. het staand net: 101 mm
 
-2. Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 20 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel aan de bovenzijde van de fuik. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.
+2. In afwijking van het eerste lid, onderdeel c, kan bij ministeriële regeling worden bepaald dat het in een daarbij te bepalen periode verboden is met het staand net te vissen, indien de maaswijdte kleiner is dan het in die regeling genoemde aantal millimeters.
 
-3. Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
+3. Het is verboden met de aalfuik te vissen, indien de maaswijdte kleiner is dan 20 mm tenzij in de buitenwand daarvan een aantal zuiver ronde ringetjes van metaal of enige andere niet rekbare stof met een middellijn van tenminste 13 mm binnenwerks zijn geplaatst binnen 20 mazen achter de aanhechting van de laatste inkeling of de laatste hoepel aan de bovenzijde van de fuik. Dit aantal bedraagt bij 300 of minder mazen opzet om de eerste hoepel achter de vleugels tenminste twee en bij meer dan 300 mazen opzet om de eerste hoepel achter de vleugels tenminste vier.
+
+4. Het is verboden te vissen met een vistuig,, indien met betrekking tot dat vistuig enige handeling is verricht of enig middel is aangewend, waardoor het ontsnappen van vis kan worden bemoeilijkt of belet.
 
 ##### Artikel 5
 
@@ -222,7 +226,7 @@ Bij ministeriële regeling kan het vissen in daarbij aan te wijzen wateren binne
 
 1. Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien:
 
-- a. het gebruik daarvan in het betrokken water bij of krachtens de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2012-10-01&g=2012-10-01) verboden is;
+- a. het gebruik daarvan in het betrokken water bij of krachtens de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2015-07-15&g=2015-07-15) verboden is;
 
 - b. men niet bevoegd is daarmee te vissen;
 
@@ -268,9 +272,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 10a
 
-1. Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.
+1. Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.
 
-2. Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.
+2. In aanvulling op het eerste lid, is een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, tevens verplicht een administratie te voeren en aan Onze Minister periodiek of op verzoek opgave te doen van andere bij ministeriële regeling aangewezen gegevens betreffende visserij-inspanning, dan wel andere gegevens die van belang kunnen zijn voor het bepalen van de visstand in het IJsselmeer.
+
+3. Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -282,7 +288,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 7a
 
-1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2012-10-01&g=2012-10-01), tenzij dat vissen plaatsvindt in het IJsselmeer.
+1. Het is verboden te vissen met de vistuigen genoemd in [artikel 2, eerste lid, onderdelen c tot en met q](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=2&z=2015-07-15&g=2015-07-15), tenzij dat vissen plaatsvindt in het IJsselmeer.
 
 2. Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in [artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=21), die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.
 
