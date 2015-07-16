@@ -4,7 +4,7 @@ identifier: "BWBR0017977"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2019-12-31"
-last_updated: "2015-07-01"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017977"
 soort: "ministeriele-regeling"
@@ -68,7 +68,7 @@ Besluit:
 
 ##### Artikel 2
 
-1. De Bloedvoorzieningsorganisatie deelt de Minister de gegevens mede, bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=I&z=2015-07-01&g=2015-07-01).
+1. De Bloedvoorzieningsorganisatie deelt de Minister de gegevens mede, bedoeld in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=I&z=2015-07-16&g=2015-07-16).
 
 2. De Bloedvoorzieningsorganisatie behoeft voor ingrijpende wijziging in haar werkzaamheden de schriftelijke toestemming van de Minister.
 
@@ -80,11 +80,11 @@ Besluit:
 
 - –. de Minister ter zake van de aanwijzingsprocedure, bedoeld in [artikel 3 van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3), de nodige informatie ontvangt;
 
-- –. de voorschriften van de [artikelen 4 tot met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2015-07-01&g=2015-07-01) in de Bloedvoorzieningsorganisatie worden toegepast.
+- –. de voorschriften van de [artikelen 4 tot met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2015-07-16&g=2015-07-16) in de Bloedvoorzieningsorganisatie worden toegepast.
 
 2. De Bloedvoorzieningsorganisatie draagt de uitvoering van de in het eerste lid genoemde taken op aan een persoon die ten minste:
 
-- a. houder is van een diploma, certificaat of ander bewijsstuk ter afsluiting van een universitaire opleiding op het gebied van geneeskunde of biologie, of van een door de Minister als gelijkwaardig erkende opleiding;
+- a. houder is van een diploma, certificaat of ander bewijsstuk ter afsluiting van een universitaire opleiding op het gebied van geneeskunde, biologie of farmacie, of van een door de Minister als gelijkwaardig erkende opleiding;
 
 - b. na het behalen van het diploma tenminste twee jaar praktijkervaring op relevante gebieden heeft opgedaan in een of meer instellingen die activiteiten mogen verrichten met betrekking tot het inzamelen of testen van bloed en bloedbestanddelen van menselijke oorsprong of met betrekking tot het bewerken, opslaan en distribueren daarvan.
 
@@ -106,7 +106,7 @@ Het kwaliteitssysteem, bedoeld in [artikel 6 van de Wet inzake bloedvoorziening]
 
 1. De Bloedvoorzieningsorganisatie houdt documentatie bij over de operationele procedures, richtsnoeren, handboeken en handleidingen, alsmede rapportageformulieren.
 
-2. De Bloedvoorzieningsorganisatie houdt een administratie bij van de gegevens, genoemd in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=II&z=2015-07-01&g=2015-07-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-01&g=2015-07-01) en in artikel 29, onder b, c en d, van de Richtlijn. Deze gegevens worden ten minste 15 jaar bewaard.
+2. De Bloedvoorzieningsorganisatie houdt een administratie bij van de gegevens, genoemd in de [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=II&z=2015-07-16&g=2015-07-16) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-16&g=2015-07-16) en in artikel 29, onder b, c en d, van de Richtlijn. Deze gegevens worden ten minste 15 jaar bewaard.
 
 ##### Artikel 7
 
@@ -114,7 +114,7 @@ Het kwaliteitssysteem, bedoeld in [artikel 6 van de Wet inzake bloedvoorziening]
 
 2. Ten aanzien van bloed en bloedbestanddelen die uit derde landen zijn ingevoerd, past de Bloedvoorzieningsorganisatie een donoridentificatiesysteem toe dat een gelijke mate van traceerbaarheid mogelijk maakt.
 
-3. Het systeem dat de Bloedvoorzieningsorganisatie gebruikt voor het etiketteren van bloed en bloedbestanddelen die door haar worden ingezameld, getest, bewerkt, opgeslagen, vrijgegeven of gedistribueerd, voldoet aan het in het eerste lid bedoelde identificatiesysteem en de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=III&z=2015-07-01&g=2015-07-01) opgenomen etiketteringsvoorschriften.
+3. Het systeem dat de Bloedvoorzieningsorganisatie gebruikt voor het etiketteren van bloed en bloedbestanddelen die door haar worden ingezameld, getest, bewerkt, opgeslagen, vrijgegeven of gedistribueerd, voldoet aan het in het eerste lid bedoelde identificatiesysteem en de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=III&z=2015-07-16&g=2015-07-16) opgenomen etiketteringsvoorschriften.
 
 4. Gegevens die noodzakelijk zijn voor volledige traceerbaarheid overeenkomstig dit artikel, worden ten minste 30 jaar bewaard.
 
@@ -142,9 +142,9 @@ Elke donatie van bloed of bloedbestanddelen wordt voorafgegaan door een onderzoe
 
 ##### Artikel 12
 
-1. De Bloedvoorzieningsorganisatie zorgt ervoor dat alle donaties van bloed en bloedbestanddelen worden getest overeenkomstig de voorschriften van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-01&g=2015-07-01).
+1. De Bloedvoorzieningsorganisatie zorgt ervoor dat alle donaties van bloed en bloedbestanddelen worden getest overeenkomstig de voorschriften van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-16&g=2015-07-16).
 
-2. Ingevoerd bloed en ingevoerde bloedbestanddelen worden getest overeenkomstig de voorschriften van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-01&g=2015-07-01).
+2. Ingevoerd bloed en ingevoerde bloedbestanddelen worden getest overeenkomstig de voorschriften van [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&bijlage=IV&z=2015-07-16&g=2015-07-16).
 
 ##### Artikel 13
 
@@ -278,11 +278,11 @@ Deze regeling zal met de bijlagen en de toelichting in de Staatscourant worden g
 
 De Minister van Defensie neemt bij het uitvoeren van de taken bedoeld in [artikel 11a van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=11a) de volgende voorschriften in acht, met dien verstande dat voor ‘Bloedvoorzieningsorganisatie’ wordt verstaan de organisatie belast met de militaire bloedvoorziening:
 
-- a. het bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=2&z=2015-07-01&g=2015-07-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2015-07-01&g=2015-07-01), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=6&z=2015-07-01&g=2015-07-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=7&z=2015-07-01&g=2015-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=8&z=2015-07-01&g=2015-07-01) en [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=13&z=2015-07-01&g=2015-07-01), bepaalde;
+- a. het bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=2&z=2015-07-16&g=2015-07-16), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=4&z=2015-07-16&g=2015-07-16), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=6&z=2015-07-16&g=2015-07-16), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=7&z=2015-07-16&g=2015-07-16), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=8&z=2015-07-16&g=2015-07-16) en [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=13&z=2015-07-16&g=2015-07-16), bepaalde;
 
-- b. het bij of krachtens de [artikelen 3, eerste lid, eerste onderdeel, en tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=3&z=2015-07-01&g=2015-07-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=5&z=2015-07-01&g=2015-07-01) bepaalde, met uitzondering van de eisen die betrekking hebben op het inzamelen van bloed; en
+- b. het bij of krachtens de [artikelen 3, eerste lid, eerste onderdeel, en tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=3&z=2015-07-16&g=2015-07-16), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=5&z=2015-07-16&g=2015-07-16) bepaalde, met uitzondering van de eisen die betrekking hebben op het inzamelen van bloed; en
 
-- c. het bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=2&z=2015-07-01&g=2015-07-01), bepaalde voor zover het wijzigingen betreft die gevolgen hebben voor de kwaliteit en de veiligheid van bloed- en tussenproducten.
+- c. het bij [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017977&artikel=2&z=2015-07-16&g=2015-07-16), bepaalde voor zover het wijzigingen betreft die gevolgen hebben voor de kwaliteit en de veiligheid van bloed- en tussenproducten.
 
 ##### Artikel 14b
 
