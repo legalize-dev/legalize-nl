@@ -127,13 +127,3 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 | belastingcapaciteit |   |   |   |   |
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
-
-### Tabel 1
-
-In de paragraaf weerstandsvermogen en risicobeheersing op de begroting wordt de onderstaande tabel gebruikt:
-
-### Tabel 2
-
-In de paragraaf weerstandsvermogen en risicobeheersing in het jaarverslag wordt de onderstaande tabel gebruikt:
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
