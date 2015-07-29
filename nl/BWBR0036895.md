@@ -4,7 +4,7 @@ identifier: "BWBR0036895"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-07-29"
-last_updated: "2014-01-01"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036895"
 soort: "ministeriele-regeling"
@@ -86,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 5
 
-1. Boven en behalve het salaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036895&artikel=4&z=2015-07-29&g=2014-01-01), genieten de voorzitter en de andere leden een vakantie-uitkering, een eindejaarsuitkering, een ziektekostenvergoeding en een vergoeding van verplaatsingskosten met overeenkomstige toepassing van de regels die gelden voor de ambtenaren in de sector Rijk.
+1. Boven en behalve het salaris, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036895&artikel=4&z=2015-07-29&g=2015-07-29), genieten de voorzitter en de andere leden een vakantie-uitkering, een eindejaarsuitkering, een ziektekostenvergoeding en een vergoeding van verplaatsingskosten met overeenkomstige toepassing van de regels die gelden voor de ambtenaren in de sector Rijk.
 
 2. Indien aan de ambtenaren in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangen de voorzitter en de andere leden deze op gelijke voet.
 
