@@ -4,7 +4,7 @@ identifier: "BWBR0030484"
 country: "nl"
 rank: "pbo"
 publication_date: "2020-01-18"
-last_updated: "2013-12-01"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030484"
 soort: "pbo"
@@ -141,19 +141,17 @@ De notaris dient ervoor zorg te dragen dat de inrichting en organisatie van zijn
 
 - a. schaden die lopen tot vijfentwintig miljoen euro (€ 25.000.000) moeten zijn gedekt;
 
-- b. deelname aan de verzekering die de KNB collectief ten behoeve van de leden sluit en die schaden dekt, lopende van een miljoen euro (€ 1.000.000) tot vijfentwintig miljoen euro (€ 25.000.000), is verplicht. Een aandeel in de kosten van deze verzekering wordt via de jaarlijkse ledenbijdrage bij de verzekerde notaris in rekening gebracht;
+- b. het te verzekeren risico moet zijn gedekt via een te goeder naam en faam bekend staande verzekeringsmaatschappij;
 
-- c. het zelf te verzekeren risico van nul tot een miljoen euro (€ 1.000.000) moet zijn gedekt via een te goeder naam en faam bekend staande verzekeringsmaatschappij;
-
-- d. de onder c. bedoelde verzekering dient te voldoen aan de volgende voorwaarden:
+- c. de verzekering of verzekeringen dienen minimaal te voldoen aan de volgende voorwaarden:
 
 - 1. de verzekering van de notaris dekt ook in geval van zijn schorsing of ontzetting mede de aansprakelijkheid van de protocolverzekerden en de kandidaat-notaris die het notarisambt waarneemt in de zin van de Wet op het notarisambt;
 
 - 2. de verzekering dekt mede de burgerrechtelijke aansprakelijkheid van de notaris voor handelen en nalaten van personen die onder zijn verantwoordelijkheid werkzaam zijn;
 
-- 3. de verzekerde limieten vormen het minimaal door de notaris te verzekeren bedrag van één miljoen euro (€ 1.000.000) per aanspraak en twee miljoen euro (€ 2.000.000) per verzekeringsjaar; zij gelden onafhankelijk van elkaar voor de notaris en per individuele protocolvoorganger;
+- 3. de verzekerde limieten vormen het minimaal door de notaris te verzekeren bedrag van vijfentwintig miljoen euro (€ 25.000.000) per aanspraak en vijftig miljoen euro (€ 50.000.000) per verzekeringsjaar; zij gelden onafhankelijk van elkaar voor de notaris en per individuele protocolvoorganger;
 
-- 4. voor de protocolverzekerden mag geen eigen risico gelden;
+- 4. voor de protocolverzekerden mag geen eigen risico gelden. De protocolontvanger moet het protocol verzekeren voor minimaal hetzelfde bedrag als waarvoor de protocolhouder was verzekerd;
 
 - 5. indien een schade van de protocolverzekerden niet gedekt is op basis van de polisvoorwaarden van de protocolopvolger dient dekking te worden geboden overeenkomstig de polisvoorwaarden die voor de protocolvoorganger(s) van kracht waren ten tijde van het begaan van de fout, echter als waren die polisvoorwaarden op basis van het systeem waarbij voor de polisdekking het moment van de aanspraak of de omstandighedenmelding bepalend is voor de polisdekking (claims made basis);
 
