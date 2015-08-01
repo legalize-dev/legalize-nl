@@ -4,7 +4,7 @@ identifier: "BWBR0035259"
 country: "nl"
 rank: "wet"
 publication_date: "2016-01-01"
-last_updated: "2015-07-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035259"
 soort: "wet"
@@ -151,11 +151,11 @@ Wijzigt de Wet studiefinanciering 2000.
 
 ##### Artikel Xa. [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet tegemoetkoming onderwijsbijdrage en schoolkosten.
 
 ##### Artikel Xb. [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.
 
 ##### Artikel Xc. Samenloop voorstel van Wet sociaal leenstelsel masterfase
 
