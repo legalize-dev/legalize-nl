@@ -4,7 +4,7 @@ identifier: "BWBR0018707"
 country: "nl"
 rank: "amvb"
 publication_date: "2026-02-13"
-last_updated: "2015-01-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018707"
 soort: "AMvB"
@@ -90,7 +90,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - 2°. **door de gastouder:** gegevens inzake het kinderopvangcontract, waaronder in elk geval begrepen de uurprijs voor de kinderopvang en het aantal kinderen en uren waarvoor kinderopvang wordt genoten;
 
-- c. voor zover het de toekenning van zorgtoeslagen betreft: door de zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), gegevens inzake de zorgverzekering.
+- c. voor zover het de toekenning van huurtoeslagen of kinderopvangtoeslagen betreft: door financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mogen uitoefenen, bankafschriften met betrekking tot het berekeningsjaar waarop de toekenning betrekking heeft waaruit de betaalde huur of betaalde kosten van kinderopvang blijken, gedurende een periode van maximaal vijf jaren na de laatste dag van het berekeningsjaar waarop de toekenning betrekking heeft;
+
+- d. voor zover het de toekenning van zorgtoeslagen betreft: door de zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1), gegevens inzake de zorgverzekering;
+
+- e. voor zover het de terugvordering van huurtoeslagen, kinderopvangtoeslagen, zorgtoeslagen of kindgebonden budgetten betreft: door financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mogen uitoefenen, de naam, het adres, de woonplaats en de geboortedatum, van derden die kunnen beschikken over de bankrekening waarop een voorschot of tegemoetkoming is uitbetaald, gedurende een periode van maximaal vijf jaren na de laatste dag van het berekeningsjaar waarop de terugvordering betrekking heeft.
 
 2. Aan de Belastingdienst/Toeslagen worden door financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mogen uitoefenen de volgende gegevens inzake bankrekeningen verstrekt: het bankrekeningnummer en de naam, het adres, de woonplaats en de geboortedatum van de houder van de bankrekening.
 
@@ -98,7 +102,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1b
 
-1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2015-01-01&g=2015-01-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
+1. De verstrekking van gegevens en inlichtingen ingevolge [artikel 38, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=38) aan de Belastingdienst/Toeslagen vindt plaats onder vermelding van het burgerservicenummer van degene op wie de gegevens betrekking hebben en geschiedt op de door de Belastingdienst/Toeslagen voorgeschreven wijze. De Belastingdienst/Toeslagen kan voor de toepassing van [artikel 1a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018707&artikel=1a&z=2015-08-01&g=2015-08-01), bepalen dat de vermelding van het burgerservicenummer achterwege blijft.
 
 2. Degene op wie de gegevens betrekking hebben, dienen hiertoe hun burgerservicenummer bekend te maken aan de instelling die de gegevensverstrekking aan de Belastingdienst/Toeslagen verzorgt.
 
