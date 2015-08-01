@@ -4,7 +4,7 @@ identifier: "BWBR0016347"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-08-01"
-last_updated: "2015-07-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016347"
 soort: "ministeriele-regeling"
@@ -57,7 +57,7 @@ Sectorwerkgever van het personeel dat werkzaam is in de sector Onderzoekinstelli
 
 ##### Artikel 5
 
-Sectorwerkgever van het personeel dat werkzaam is in de sector Beroepsonderwijs en volwasseneneducatie: de Bve-raad en Colo.
+Sectorwerkgever van het personeel dat werkzaam is in de sector Beroepsonderwijs en volwasseneneducatie: de vereniging MBO raad en de Stichting SBB.
 
 ##### Artikel 6
 
