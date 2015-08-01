@@ -59,9 +59,3 @@ Het [Rechtspositiebesluit WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR00151
 Dit besluit treedt in werking op 1 augustus 2015.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
-
-##### Artikel IIa. Omhangbepaling
-
-Dit besluit berust op [artikel X van de Wet tot wijziging van enige wetten in verband met de normalisering van de rechtspositie van ambtenaren in het onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0042739&artikel=X).
-
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
