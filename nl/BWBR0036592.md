@@ -4,7 +4,7 @@ identifier: "BWBR0036592"
 country: "nl"
 rank: "wet"
 publication_date: "2022-08-01"
-last_updated: "2015-06-18"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036592"
 soort: "wet"
@@ -49,11 +49,11 @@ Wijzigt de Wet educatie en beroepsonderwijs.
 
 ##### Artikel II. Wijziging [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het onderwijstoezicht.
 
 ##### Artikel III. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet op het voortgezet onderwijs.
 
 ##### Artikel IV. Wijziging [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)
 
@@ -71,7 +71,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - d. de overige activa en de passiva van de kenniscentra, voor zover deze zijn toe te rekenen aan de wettelijke taken van de kenniscentra,
 
-2. Een overeenkomst als bedoeld in het eerste lid leidt ertoe dat het kenniscentrum beroepsonderwijs bedrijfsleven na de beëindiging van de bekostiging op grond van [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=VI&z=2015-06-18&g=2015-06-18) geen financiële aanspraken op het Rijk meer heeft.
+2. Een overeenkomst als bedoeld in het eerste lid leidt ertoe dat het kenniscentrum beroepsonderwijs bedrijfsleven na de beëindiging van de bekostiging op grond van [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=VI&z=2015-08-01&g=2015-08-01) geen financiële aanspraken op het Rijk meer heeft.
 
 3. Het kenniscentrum beroepsonderwijs bedrijfsleven en de rechtspersoon, bedoeld in het eerste lid, leggen voor 1 juni 2015, of, indien dat later is, binnen 2 maanden na de inwerkingtreding van dit artikel een overeenkomst die voldoet aan de eisen, bedoeld in het eerste en tweede lid, ter goedkeuring voor aan Onze Minister.
 
@@ -83,9 +83,9 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI. Einde taken en bekostiging kenniscentra beroepsonderwijs bedrijfsleven
 
-1. De wettelijke taken en de aanspraak op bekostiging van de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) zoals luidend op 31 juli 2015, vervallen met ingang van de datum waarop [artikel I, met uitzondering van onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=I&z=2015-06-18&g=2015-06-18), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=II&z=2015-06-18&g=2015-06-18), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=III&z=2015-06-18&g=2015-06-18) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=IV&z=2015-06-18&g=2015-06-18) van deze wet in werking treden.
+1. De wettelijke taken en de aanspraak op bekostiging van de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1) zoals luidend op 31 juli 2015, vervallen met ingang van de datum waarop [artikel I, met uitzondering van onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=I&z=2015-08-01&g=2015-08-01), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=II&z=2015-08-01&g=2015-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=III&z=2015-08-01&g=2015-08-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=IV&z=2015-08-01&g=2015-08-01) van deze wet in werking treden.
 
-2. Indien op de dag waarop [artikel I, met uitzondering van onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=I&z=2015-06-18&g=2015-06-18), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=II&z=2015-06-18&g=2015-06-18), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=III&z=2015-06-18&g=2015-06-18) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=IV&z=2015-06-18&g=2015-06-18) in werking treden nog geen rechtspersoon als bedoeld in artikel I, onderdeel B, is aangewezen, blijven tot een bij koninklijk besluit te bepalen datum
+2. Indien op de dag waarop [artikel I, met uitzondering van onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=I&z=2015-08-01&g=2015-08-01), en de [artikelen II](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=II&z=2015-08-01&g=2015-08-01), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=III&z=2015-08-01&g=2015-08-01) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=IV&z=2015-08-01&g=2015-08-01) in werking treden nog geen rechtspersoon als bedoeld in artikel I, onderdeel B, is aangewezen, blijven tot een bij koninklijk besluit te bepalen datum
 
 - a. de wettelijke taken en de aanspraak op bekostiging van de kenniscentra beroepsonderwijs bedrijfsleven van kracht, en
 
@@ -95,11 +95,15 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VII. Handhaving erkenning leerbedrijven
 
-Dit onderdeel is nog niet inwerking getreden
+1. Bedrijven en organisaties die op de datum voorafgaande aan de datum van inwerkingtreding van [artikel I, onderdeel N](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=I&z=2015-08-01&g=2015-08-01), beschikken over een gunstige beoordeling op grond van [artikel 7.2.10, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10) zoals luidend op eerstbedoelde datum, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 7.2.10, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs.
+
+2. Bedrijven en organisaties die op de datum voorafgaande aan de datum van inwerkingtreding van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=III&z=2015-08-01&g=2015-08-01), beschikken over een gunstige beoordeling op grond van [artikel 10b4, tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b4) zoals luidend op eerstbedoelde datum, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 10b4, derde lid, eerste volzin, van de Wet op het voortgezet onderwijs.
+
+3. Bedrijven en organisaties die beschikken over een gunstige beoordeling op grond van [artikel VI, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036592&artikel=VI&z=2015-08-01&g=2015-08-01), juncto [artikel 7.2.10, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.10) of [10b4 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10b4) zoals luidend op 31 juli 2015, worden aangemerkt als leerbedrijven met een erkenning als bedoeld in artikel 7.2.10, tweede lid, eerste volzin, van de Wet educatie en beroepsonderwijs onderscheidenlijk artikel 10b4, derde lid, eerste volzin, van de Wet op het voortgezet onderwijs.
 
 ##### Artikel VIIa. Evaluatiebepaling
 
-Dit onderdeel is nog niet inwerking getreden
+Onze Minister van Onderwijs, Cultuur en Wetenschap zendt binnen drie jaar na de inwerkingtreding van deze wet, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ##### Artikel VIII. Inwerkingtreding
 
