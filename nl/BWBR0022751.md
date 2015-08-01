@@ -4,7 +4,7 @@ identifier: "BWBR0022751"
 country: "nl"
 rank: "wet"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0022751"
 soort: "wet"
@@ -80,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Voor een kind dat 12 jaar of ouder is, maar jonger is dan 16 jaar bedraagt de verhoging van het kindgebonden budget € 231.
 
-5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 296.
+5. Voor een kind dat 16 of 17 jaar is, bedraagt de verhoging van het kindgebonden budget met ingang van de kalendermaand na de maand waarin het kind de leeftijd van 16 jaar heeft bereikt € 412.
 
 6. De ouder die geen partner heeft, heeft aanspraak op een verhoging van het kindgebonden budget van € 2.800,– per 1 januari 2015: € 3.050,–.
 
@@ -110,11 +110,11 @@ bedraagt het kindgebonden budget een volgens bij ministeriële regeling te stell
 
 ##### Artikel 3. Wijziging bedragen
 
-1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2015-01-01&g=2015-01-01), en [2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zevende lid, worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister bekend gemaakt in de Staatscourant.
+1. De bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2015-08-01&g=2015-08-01), en [2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zevende lid, worden met ingang van 1 januari van elk kalenderjaar gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2). De gewijzigde bedragen worden door of namens Onze Minister bekend gemaakt in de Staatscourant.
 
 2. Indien er aanleiding is om de bedragen, bedoeld in het eerste lid, te verhogen op een andere wijze dan op grond van het eerste lid, worden de bedragen vastgesteld bij algemene maatregel van bestuur.
 
-3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2015-01-01&g=2015-01-01), en [2, tweede, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01).
+3. De overeenkomstig het eerste en tweede lid aangepaste bedragen treden in de plaats van de bedragen, genoemd in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=1&z=2015-08-01&g=2015-08-01), en [2, tweede, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01).
 
 4. Indien een verhoging als bedoeld in het tweede lid wordt toegepast, vindt deze verhoging plaats nadat het eerste lid toepassing heeft gevonden.
 
@@ -138,21 +138,21 @@ wordt geacht een aanvraag als bedoeld in [artikel 15 van de Algemene wet inkomen
 
 ##### Artikel 6. Overgangsbepaling integratie [Wet tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
+1. De bedragen, genoemd in [artikel 2, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), en het bedrag van het gezamenlijk toetsingsinkomen, bedoeld in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), worden voor het berekeningsjaar 2009 aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01).
+2. De overeenkomstig het eerste lid voor het berekeningsjaar 2009 aangepaste bedragen treden in de plaats van de bedragen, genoemd in [artikel 2, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01).
 
-3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
+3. De verhoging van het kindgebonden budget, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), heeft betrekking op berekeningsjaren vanaf het jaar 2010.
 
 ##### Artikel 6a. Overgangsbepaling aanspraak kindgebonden budget
 
-[Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel IV, onderdeel A, onder 1, van de Wet vereenvoudiging regelingen SVB](https://wetten.overheid.nl/jci1.3:c:BWBR0033114&artikel=IV), blijft van toepassing op een ouder voor het kind voor wie de ouder op de datum van die inwerkingtreding op grond van [artikel 7aa van de Algemene kinderbijslagwet](15879) geen recht op kinderbijslag heeft.
+[Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van [artikel IV, onderdeel A, onder 1, van de Wet vereenvoudiging regelingen SVB](https://wetten.overheid.nl/jci1.3:c:BWBR0033114&artikel=IV), blijft van toepassing op een ouder voor het kind voor wie de ouder op de datum van die inwerkingtreding op grond van [artikel 7aa van de Algemene kinderbijslagwet](15879) geen recht op kinderbijslag heeft.
 
 ##### Artikel 7. Niet-indexeren bedragen in berekeningsjaren 2010 tot en met 2015
 
-1. Bij het begin van het jaar 2010 tot en met 2014 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, voor de berekeningsjaren 2010 tot en met 2014 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2015-01-01&g=2015-01-01).
+1. Bij het begin van het jaar 2010 tot en met 2014 worden de bedragen, genoemd in [artikel 2, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), en het bedrag van het gezamenlijke toetsingsinkomen, bedoeld in artikel 2, zesde lid, voor de berekeningsjaren 2010 tot en met 2014 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2015-08-01&g=2015-08-01).
 
-2. Bij het begin van het jaar 2015 worden de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-01-01&g=2015-01-01), en het bedrag van het toetsingsinkomen, bedoeld in artikel 2, zevende lid, voor het berekeningsjaar 2015 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2015-01-01&g=2015-01-01).
+2. Bij het begin van het jaar 2015 worden de bedragen, genoemd in [artikel 2, tweede, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=2&z=2015-08-01&g=2015-08-01), en het bedrag van het toetsingsinkomen, bedoeld in artikel 2, zevende lid, voor het berekeningsjaar 2015 niet gewijzigd overeenkomstig [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022751&artikel=3&z=2015-08-01&g=2015-08-01).
 
 ##### Artikel 8. Wijziging van de [Wet werk en bijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0015703)
 
