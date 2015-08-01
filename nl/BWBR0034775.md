@@ -4,7 +4,7 @@ identifier: "BWBR0034775"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-07-01"
-last_updated: "2014-07-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034775"
 soort: "AMvB"
@@ -76,6 +76,8 @@ In dit besluit wordt verstaan onder:
 
 - 5°. aan een van de misdrijven omschreven in de [artikelen 162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162a), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166) en [385d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385d), wanneer de verdachte zich in Nederland bevindt;
 
+- 6°. aan een van de misdrijven omschreven in de [artikelen 134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [140a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140a), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161quater), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162a), [163](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=163), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=173a), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=191), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288), [288a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288a), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=352), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=354), [381](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=381), [385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385a), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385b), [385c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385c), [385d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385d), in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79) en [80 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=3), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=17), en [33b van de Wet explosieven voor civiel gebruik](https://wetten.overheid.nl/jci1.3:c:BWBR0006803&artikel=33b) in samenhang met [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=2), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3), of [4 van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=4) in samenhang met artikel 1 van de Wet op de economische delicten, in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3) of [4 van de Uitvoeringswet verdrag biologische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4), in samenhang met artikel 1 van de Wet op de economische delicten, voor zover het feit valt onder de omschrijving van artikel 1 van het op 10 september 2010 te Beijing tot stand gekomen Verdrag tot bestrijding van wederrechtelijke gedragingen betreffende de burgerluchtvaart of van artikel II van het op 10 september 2010 te Beijing tot stand gekomen Aanvullend Protocol bij het Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen en hetzij het feit is gepleegd tegen een Nederlander, hetzij de verdachte zich in Nederland bevindt;
+
 - b.
 
 - 1°. aan een van de misdrijven omschreven in de [artikelen 140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=140), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=157), [161quater](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161quater), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [173a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=173a), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [302](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=302), [303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=303), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=352), [354](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=354), [385a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385a), [385b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385b), [385c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385c) en [413 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=413), in de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=79) en [80 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=80), in de artikelen [2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=3) en [4 van de Uitvoeringswet verdrag biologische wapens in samenhang](https://wetten.overheid.nl/jci1.3:c:BWBR0003385&artikel=4) met [artikel 1 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1), en in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=2) en [3, eerste lid, van de Uitvoeringswet verdrag chemische wapens](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&artikel=3) in samenhang met artikel 1 van de Wet op de economische delicten, indien het feit is begaan tegen een Nederlands zeegaand vaartuig, hetzij tegen of aan boord van enig ander zeegaand vaartuig en de verdachte zich in Nederland bevindt;
@@ -128,17 +130,17 @@ In dit besluit wordt verstaan onder:
 
 1. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
-- a. aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177) en [177a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177a), voor zover het feit is begaan tegen een Nederlander of een Nederlandse ambtenaar en daarop door de wet van het land waar het begaan is, straf is gesteld;
+- a. Aan het misdrijf omschreven in [artikel 177 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), voor zover het feit is begaan tegen een Nederlander of een Nederlandse ambtenaar en daarop door de wet van het land waar het is begaan, straf is gesteld;
 
-- b. aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [177a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177a), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227b) en [323a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=323a), voor zover het feit is begaan door een Nederlandse ambtenaar of door een persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie en daarop door de wet van het land waar het is begaan, straf is gesteld;
+- b. aan een van de misdrijven omschreven in de [artikelen 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=177), [225](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=227b) en [323a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=323a), voor zover het feit is begaan door een Nederlandse ambtenaar of door een persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie en daarop door de wet van het land waar het is begaan, straf is gesteld;
 
 - c. aan een terroristisch misdrijf, indien het misdrijf is begaan met het oogmerk de bevolking of een deel der bevolking van Nederland vrees aan te jagen, een Nederlandse overheid of een in Nederland gevestigde instelling of organisatie van de Europese Unie wederrechtelijk te dwingen iets te doen, niet te doen of te dulden, of de fundamentele politieke, constitutionele, economische of sociale structuren van Nederland of een in Nederland gevestigde instelling of organisatie van de Europese Unie ernstig te ontwrichten of te vernietigen;
 
 - d. aan een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf, indien het misdrijf is begaan met het oogmerk een terroristisch misdrijf als in onderdeel c omschreven voor te bereiden of gemakkelijk te maken.
 
-2. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een terroristisch misdrijf dan wel een van de misdrijven omschreven in de [artikelen 225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [311, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312), alsmede [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317), jo. 312, tweede lid, onder 5°, van de wet.
+2. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die een vaste woon- of verblijfplaats in Nederland heeft, die zich buiten Nederland schuldig maakt aan een terroristisch misdrijf dan wel een van de misdrijven omschreven in de [artikelen 131, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [132, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=132), [134a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=134a), [205, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=205), [225, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [311, eerste lid, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=311), [312, tweede lid, onder 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312), alsmede [317, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317), jo. 312, tweede lid, onder 5°, van de wet.
 
-3. De Nederlandse strafwet is toepasselijk op de persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 362 tot en met 364a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=362).
+3. De Nederlandse strafwet is toepasselijk op de persoon in de openbare dienst van een in Nederland gevestigde volkenrechtelijke organisatie die zich buiten Nederland schuldig maakt aan een van de misdrijven omschreven in de [artikelen 363 tot en met 364a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=363).
 
 4. De Nederlandse strafwet is toepasselijk op de Nederlander of de vreemdeling die in Nederland een vaste woon- of verblijfplaats heeft, die zich buiten Nederland schuldig maakt aan het misdrijf omschreven in [artikel 273f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=273f).
 
@@ -160,26 +162,26 @@ Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extrater
 
 ## Bijlage. bij het Besluit internationale verplichtingen extraterritoriale rechtsmacht
 
-### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, eerste lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2014-07-01&g=2014-07-01)
+### [Artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=2&artikel=2&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2014-07-01&g=2014-07-01)
+### [Artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=3&artikel=3&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2014-07-01&g=2014-07-01)
+### [Artikel 4, eerste lid, onder a en b, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2014-07-01&g=2014-07-01)
+### [Artikel 4, eerste lid, onder c en d, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2014-07-01&g=2014-07-01)
+### [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2015-08-01&g=2015-08-01)
 
-### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2014-07-01&g=2014-07-01)
+### [Artikel 4, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034775&paragraaf=4&artikel=4&z=2015-08-01&g=2015-08-01)
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
