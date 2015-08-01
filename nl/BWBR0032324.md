@@ -4,7 +4,7 @@ identifier: "BWBR0032324"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032324"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ De gebieden, bedoeld in [artikel 17a, derde lid, van de Wet op het voortgezet on
 
 ##### Artikel 3. Gemeentelijke herindeling en wijziging gemeentenaam
 
-1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2015-01-01&g=2015-01-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2015-01-01&g=2015-01-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
+1. Bij wijziging van een of meer gemeentenamen als gevolg van een herindeling op grond van [artikel 3, eerste lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=3) die de indeling in gebieden, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=1&z=2015-08-01&g=2015-08-01) en [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032324&artikel=2&z=2015-08-01&g=2015-08-01), niet wijzigt, treedt de naam van de nieuwe gemeente dan wel treden de namen van de nieuwe gemeenten op de datum van de herindeling in de plaats van de betreffende, in de bijlage van deze regeling opgenomen naam dan wel namen.
 
 2. Indien op grond van [artikel 158, eerste lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=158) de naam van een gemeente wordt gewijzigd, treedt de gewijzigde naam op het moment van de naamswijziging in de plaats van de in de bijlage van deze regeling opgenomen oorspronkelijke naam.
 
@@ -1833,7 +1833,7 @@ Deze bijlage behoort bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR003
 | 4117 | Buren | PO2508 | VO2508 |
 | 4119 | Buren | PO2508 | VO2508 |
 | 4121 | Vianen | PO2605 | VO2605 |
-| 4122 | Vianen | PO2605 | VO2605 |
+| 4122 | Vianen | PO2816 | VO2605 |
 | 4124 | Vianen | PO2605 | VO2605 |
 | 4126 | Zederik | PO2816 | VO2814 |
 | 4128 | Zederik | PO2816 | VO2814 |
