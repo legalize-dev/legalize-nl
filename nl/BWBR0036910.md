@@ -4,7 +4,7 @@ identifier: "BWBR0036910"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-08-04"
-last_updated: "2015-01-01"
+last_updated: "2015-08-04"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036910"
 soort: "zbo"
@@ -48,13 +48,13 @@ Dit protocol wordt gepubliceerd in de Staatscourant
 
 Dit protocol maakt voor zover dit betrekking heeft op de zorgverzekeraar integraal onderdeel uit van de NZa Nadere Regel TH/NR-001: [Regeling controle en administratie zorgverzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0032492).
 
-Dit protocol bestaat uit een algemeen deel (hoofdstuk 1), [deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-01-01) werkzaamheden accountant (hoofdstuk 2 tot en met 9) en [deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-01-01) normenkaders zorgverzekeraar (hoofdstuk 10).
+Dit protocol bestaat uit een algemeen deel (hoofdstuk 1), [deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-08-04) werkzaamheden accountant (hoofdstuk 2 tot en met 9) en [deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-08-04) normenkaders zorgverzekeraar (hoofdstuk 10).
 
 Hoofdstuk 1 geeft algemene uitgangspunten van het onderzoek weer die zowel van toepassing zijn voor de accountant en/of de zorgverzekeraars
 
-[Deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-01-01) geeft de kaders voor de door de accountant uit te voeren controle en onderzoek naar de financiële verantwoordingen en het uitvoeringsverslag welke opgeleverd moeten worden in 2016 en de accountantsproducten die hieruit voortvloeien.
+[Deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-08-04) geeft de kaders voor de door de accountant uit te voeren controle en onderzoek naar de financiële verantwoordingen en het uitvoeringsverslag welke opgeleverd moeten worden in 2016 en de accountantsproducten die hieruit voortvloeien.
 
-[Deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-01-01) geeft normen waaraan zorgverzekeraars op het gebied van formele en materiële controles, gepast gebruik en fraudeonderzoek moeten voldoen.
+[Deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-08-04) geeft normen waaraan zorgverzekeraars op het gebied van formele en materiële controles, gepast gebruik en fraudeonderzoek moeten voldoen.
 
 ### 1.2. Voorschriften accountant en zorgverzekeraar
 
@@ -254,7 +254,7 @@ De accountant is niet verplicht om zijn oordeel over de materiële controle stat
 
 ### 2.3. Werkzaamheden gepast gebruik en fraudeonderzoek
 
-De accountant stelt vast dat de zorgverzekeraar zich op basis van het normenkader voor ‘gepast gebruik8Dit betreft de onderdelen ‘stand van de wetenschap en praktijk’ en ‘redelijkerwijs aangewezen’. De uitkomsten van de controles op indicatievoorwaarden vallen onder de formele controle en betrekt de accountant bij de strekking van de af te geven controleverklaring en assurance-rapporten.’ en ‘fraudeonderzoek’, zoals opgenomen in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-01-01) van dit protocol, heeft verantwoord in het uitvoeringsverslag. De accountant geeft de bevindingen van dit onderzoek weer in het rapport van feitelijke bevindingen. Zie hiervoor ook hoofdstuk 10.
+De accountant stelt vast dat de zorgverzekeraar zich op basis van het normenkader voor ‘gepast gebruik8Dit betreft de onderdelen ‘stand van de wetenschap en praktijk’ en ‘redelijkerwijs aangewezen’. De uitkomsten van de controles op indicatievoorwaarden vallen onder de formele controle en betrekt de accountant bij de strekking van de af te geven controleverklaring en assurance-rapporten.’ en ‘fraudeonderzoek’, zoals opgenomen in [deel B](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=B&z=2015-08-04&g=2015-08-04) van dit protocol, heeft verantwoord in het uitvoeringsverslag. De accountant geeft de bevindingen van dit onderzoek weer in het rapport van feitelijke bevindingen. Zie hiervoor ook hoofdstuk 10.
 
 Bij de financiële verantwoordingen wordt een controleverklaring c.q. worden assurance-rapporten verstrekt. De werkzaamheden die de zorgverzekeraar en de accountant op gepast gebruik en fraudeonderzoek uitvoeren kunnen leiden tot fouten en onzekerheden in deze financiële verantwoordingen. De accountant stelt vast dat de gevonden fouten in de financiële verantwoordingen zijn gecorrigeerd. De accountant betrekt de bevindingen vanuit dit onderzoek bij de strekking van de af te geven controleverklaring en assurance-rapporten.
 
@@ -278,7 +278,7 @@ De accountant betrekt voor het onderzoek naar de jaarstaat Zvw, onderdeel A, de 
 
 ### 3.4. Accountantsproduct
 
-De externe accountant geeft een controleverklaring af bij de jaarstaat A. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=1&z=2015-08-04&g=2015-01-01) is hiervoor een model opgenomen.
+De externe accountant geeft een controleverklaring af bij de jaarstaat A. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=1&z=2015-08-04&g=2015-08-04) is hiervoor een model opgenomen.
 
 De accountant neemt in zijn dossier een memorandum/considerans op met daarin de onderzoeksbevindingen, conclusies per onderwerp van de jaarstaat A en een foutentabel met niet-gecorrigeerde onjuistheden en onzekerheden.
 
@@ -302,7 +302,7 @@ Voor beide opgaven:
 
 ### 4.4. Accountantsproduct
 
-Voor de opgave verzekerde periode en persoonskenmerken en de bijbehorende bestuursverklaring alsmede voor de opgave persoonskenmerken is een assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-01-01) opgenomen model.
+Voor de opgave verzekerde periode en persoonskenmerken en de bijbehorende bestuursverklaring alsmede voor de opgave persoonskenmerken is een assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-08-04) opgenomen model.
 
 De accountant neemt in zijn dossier een memorandum op, inclusief foutentabel, met daarin opgenomen de onderzoeksbevindingen en conclusie.
 
@@ -346,7 +346,7 @@ Voor het onderzoek van de accountant naar het bestand DBC- gegevens somatisch, D
 
 ### 5.4. Accountantsproduct
 
-Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-01-01) opgenomen model.
+Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-08-04) opgenomen model.
 
 De accountant neemt in zijn dossier per opgave een memorandum, inclusief foutentabel, op met daarin opgenomen de onderzoeksbevindingen en conclusies.
 
@@ -368,7 +368,7 @@ Voor het onderzoek van de accountant naar de opgave betrekt de accountant de vol
 
 ### 6.3. Accountantsproduct
 
-Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-01-01) opgenomen model.
+Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-08-04) opgenomen model.
 
 De accountant neemt in zijn dossier per opgave een memorandum, inclusief foutentabel, op met daarin opgenomen de onderzoeksbevindingen en conclusies.
 
@@ -398,7 +398,7 @@ Het is een bijzondere situatie dat de foutentabel moet worden bevroren naar de s
 
 ### 7.3. Accountantsproduct
 
-Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-01-01) opgenomen model.
+Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-08-04) opgenomen model.
 
 De accountant neemt in zijn dossier per opgave een memorandum, inclusief foutentabel, op met daarin opgenomen de onderzoeksbevindingen en conclusies.
 
@@ -428,7 +428,7 @@ Het is een bijzondere situatie dat de foutentabel moet worden bevroren naar de s
 
 ### 8.3. Accountantsproduct
 
-Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-01-01) opgenomen model.
+Voor de bestanden en bijhorende bestuursverklaringen zijn modellen voor het assurance-rapport voorgeschreven, conform het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=2&z=2015-08-04&g=2015-08-04) opgenomen model.
 
 De accountant neemt in zijn dossier per opgave een memorandum, inclusief foutentabel, op met daarin opgenomen de onderzoeksbevindingen en conclusies.
 
@@ -446,7 +446,7 @@ In paragraaf 9.3 wordt het op te leveren accountantsproduct genoemd.
 
 ### 9.2.1. Voldoen aan de verantwoordingsvoorschriften
 
-De accountant stelt vast of het uitvoeringsverslag Zvw conform het ‘[Informatiemodel uitvoeringsverslag Zvw 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036099&wetgeving)’ van de NZa is opgesteld. Als het uitvoeringsverslag is opgenomen in het Maatschappelijk Verslag (Informatiemodel ZN), mag het onderzoek van de accountant worden beperkt tot de uitvraag van de NZa (Informatiemodel uitvoeringsverslag).
+De accountant stelt vast of het uitvoeringsverslag Zvw conform het ‘[Informatiemodel uitvoeringsverslag Zvw 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036099)’ van de NZa is opgesteld. Als het uitvoeringsverslag is opgenomen in het Maatschappelijk Verslag (Informatiemodel ZN), mag het onderzoek van de accountant worden beperkt tot de uitvraag van de NZa (Informatiemodel uitvoeringsverslag).
 
 De accountant geeft de bevindingen van dit onderzoek weer in het rapport van feitelijke bevindingen.
 
@@ -456,7 +456,7 @@ De accountant stelt vast of de niet-financiële informatie in het uitvoeringsver
 
 De niet-financiële informatie betreft de kwantitatieve, zoals kengetallen en getalsmatige indicatoren, en kwalitatieve informatie in de vorm van beschrijvende teksten in het uitvoeringsverslag.
 
-De aansluiting door de accountant van de niet-financiële informatie mag in geval van verantwoording via het maatschappelijk verslag beperkt blijven tot de onderwerpen die de NZa uitgevraagd heeft in haar [Informatiemodel uitvoeringsverslag Zvw 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036099&wetgeving).
+De aansluiting door de accountant van de niet-financiële informatie mag in geval van verantwoording via het maatschappelijk verslag beperkt blijven tot de onderwerpen die de NZa uitgevraagd heeft in haar [Informatiemodel uitvoeringsverslag Zvw 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036099).
 
 De accountant geeft de bevindingen van dit onderzoek weer in het rapport van feitelijke bevindingen.
 
@@ -498,7 +498,7 @@ De accountant onderzoekt de naleving van de wettelijke bepalingen [Zvw](https://
 
 ### 9.3. Accountantsproduct
 
-De accountant legt zijn onderzoeksbevindingen vast in een rapport van feitelijke bevindingen volgens de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=3&z=2015-08-04&g=2015-01-01) voorgeschreven inrichting.
+De accountant legt zijn onderzoeksbevindingen vast in een rapport van feitelijke bevindingen volgens de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&bijlage=3&z=2015-08-04&g=2015-08-04) voorgeschreven inrichting.
 
 Van de accountant wordt geen oordeel of conclusie verwacht over de toereikendheid en volledigheid van de inspanningen van de zorgverzekeraar, noch een eigen interpretatie van de toetsingspunten. Het is voldoende dat de accountant vaststelt dat de beweringen in het uitvoeringsverslag aansluiten op de onderliggende informatie. Ook wordt van de accountant geen medisch inhoudelijke kennis verwacht.
 
@@ -514,7 +514,7 @@ Per 1 januari 2013 is de ‘[Regeling controle en administratie zorgverzekeraars
 
 In dit hoofdstuk zijn de volgende normenkaders opgenomen:
 
-Er zijn geen wijzigingen in de normenkaders ten opzichte van het voorgaande [protocol Zvw (oplevering 2015)](https://wetten.overheid.nl/jci1.3:c:BWBR0035772&wetgeving).
+Er zijn geen wijzigingen in de normenkaders ten opzichte van het voorgaande [protocol Zvw (oplevering 2015)](https://wetten.overheid.nl/jci1.3:c:BWBR0035772).
 
 De normenkaders in dit hoofdstuk hebben in de praktijk een overlap, welke in onderstaande tabel op hoofdlijn inzichtelijk is gemaakt:
 
@@ -604,7 +604,7 @@ Uitgangspunten (veldnormen) voor de bestrijding van zorgfraude zijn verder opgen
 
 Voor het onderzoek naar de uitvoering van fraudeonderzoek is een normenkader opgesteld, waaraan de zorgverzekeraar moet voldoen en waarover hij zich moet verantwoorden.
 
-## Bijlage. Bijlagen bij [deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-01-01) – werkzaamheden accountant:
+## Bijlage. Bijlagen bij [deel A](https://wetten.overheid.nl/jci1.3:c:BWBR0036910&deel=A&z=2015-08-04&g=2015-08-04) – werkzaamheden accountant:
 
 - 1. Voorbeeld tekst Controleverklaring
 
