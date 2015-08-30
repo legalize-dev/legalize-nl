@@ -4,7 +4,7 @@ identifier: "BWBR0018486"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-12-04"
-last_updated: "2014-01-01"
+last_updated: "2015-08-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018486"
 soort: "ministeriele-regeling"
@@ -41,7 +41,7 @@ Als toevoeging aan de graden Bachelor en Master, verleend na het met goed gevolg
 
 ##### Artikel 1a. Afkorting andere toevoeging wetenschappelijk onderwijs
 
-De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2014-01-01&g=2014-01-01), worden als volgt afgekort:
+De graden met toevoeging, als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018486&artikel=1&z=2015-08-30&g=2015-08-30), worden als volgt afgekort:
 
 - a. Bachelor met de toevoeging ‘of Laws’: LLB;
 
@@ -94,6 +94,12 @@ Deze bijlage behoort bij de Regeling titulatuur hoger onderwijs.
 ### Afwijking in verband met de internationale herkenbaarheid
 
 Als het instellingsbestuur kan motiveren dat in een specifiek geval deze lijst niet aansluit bij de internationale herkenbaarheid van de opleiding, kan de NVAO de voorgestelde toevoeging aan een graad van het instellingsbestuur positief beoordelen. Hierbij waakt de NVAO voor de eenheid van de opleidingsspecifieke graden.
+
+### Invoering nieuwe graden aan het begin van een studiejaar
+
+Op verzoek van degene die in enig studiejaar een bachelor- of masteropleiding met succes heeft afgerond en op grond daarvan een getuigschrift heeft ontvangen met daarop vermeld een graad met een toevoeging en indien de toevoeging van deze graad van deze opleiding gedurende datzelfde studiejaar wordt gewijzigd, verstrekt het instellingsbestuur binnen het studiejaar na afstuderen tegen inlevering van het desbetreffende getuigschrift een getuigschrift waarop de graad met de gewijzigde toevoeging is vermeld.
+
+### Overgangsbepalingen in verband met wijzigingen in het referentiekader
 
 ### Naamswijziging opleiding
 
