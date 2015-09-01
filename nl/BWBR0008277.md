@@ -4,7 +4,7 @@ identifier: "BWBR0008277"
 country: "nl"
 rank: "wet"
 publication_date: "2026-04-01"
-last_updated: "2010-10-10"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0008277"
 soort: "wet"
@@ -48,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1. In deze wet wordt verstaan onder:
 
-- a. vertrouwensfunctie: een functie die krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2010-10-10&g=2010-10-10), als zodanig is aangewezen;
+- a. vertrouwensfunctie: een functie die krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2015-09-01&g=2015-09-01), als zodanig is aangewezen;
 
 - b. verklaring: een verklaring dat uit het oogpunt van de nationale veiligheid geen bezwaar bestaat tegen vervulling van een bepaalde vertrouwensfunctie door een bepaalde persoon;
 
@@ -62,15 +62,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. degene aan wie een ander ter beschikking wordt gesteld voor het verrichten van arbeid als bedoeld onder **a**.
 
-3. In deze wet wordt mede onder werkgever verstaan degene die, zonder werkgever te zijn in de zin van het tweede lid, een ander een vertrouwensfunctie laat vervullen en die bij de aanwijzing, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2010-10-10&g=2010-10-10), als zodanig wordt aangewezen.
+3. In deze wet wordt mede onder werkgever verstaan degene die, zonder werkgever te zijn in de zin van het tweede lid, een ander een vertrouwensfunctie laat vervullen en die bij de aanwijzing, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2015-09-01&g=2015-09-01), als zodanig wordt aangewezen.
 
 ##### Artikel 2
 
-Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie, dan wel indien het een functie betreft die als vertrouwensfunctie moet worden aangemerkt in verband met de daarmee samenhangende noodzaak om toegang te hebben tot militaire installaties, treden, voor de toepassing van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2010-10-10&g=2010-10-10) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2010-10-10&g=2010-10-10) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=16&z=2010-10-10&g=2010-10-10), Onze Minister van Defensie en de Militaire Inlichtingen- en Veiligheidsdienst in de plaats van respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Algemene Inlichtingen- en Veiligheidsdienst.
+Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie, dan wel indien het een functie betreft die als vertrouwensfunctie moet worden aangemerkt in verband met de daarmee samenhangende noodzaak om toegang te hebben tot militaire installaties, treden, voor de toepassing van het bepaalde in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2015-09-01&g=2015-09-01) tot en met [10](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2015-09-01&g=2015-09-01) en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=16&z=2015-09-01&g=2015-09-01), Onze Minister van Defensie en de Militaire Inlichtingen- en Veiligheidsdienst in de plaats van respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Algemene Inlichtingen- en Veiligheidsdienst.
 
 ##### Artikel 3
 
-1. Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat wijst, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, functies die de mogelijkheid bieden de nationale veiligheid te schaden aan als vertrouwensfuncties. Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat doet van de aanwijzing terstond mededeling aan de werkgever die het aangaat. Indien geen sprake is van een werkgever in de zin van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1&z=2010-10-10&g=2010-10-10), wordt in de aanwijzing tevens aangegeven wie als werkgever in de zin van deze wet wordt aangemerkt.
+1. Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat wijst, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, functies die de mogelijkheid bieden de nationale veiligheid te schaden aan als vertrouwensfuncties. Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat doet van de aanwijzing terstond mededeling aan de werkgever die het aangaat. Indien geen sprake is van een werkgever in de zin van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1&z=2015-09-01&g=2015-09-01), wordt in de aanwijzing tevens aangegeven wie als werkgever in de zin van deze wet wordt aangemerkt.
 
 2. De werkgever, of degene ten aanzien van wie het voornemen bestaat hem als zodanig aan te merken overeenkomstig het eerste lid, derde volzin, geeft desgevraagd aan Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat en aan het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst de inlichtingen over de inrichting van zijn dienst, bedrijf of instelling, die nodig zijn voor de beoordeling van de mate waarin een functie de mogelijkheid biedt de nationale veiligheid te schaden.
 
@@ -96,7 +96,9 @@ Indien een vertrouwensfunctie wordt uitgeoefend bij het Ministerie van Defensie,
 
 ##### Artikel 6
 
-In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2010-10-10&g=2010-10-10) en 5 beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring.
+1. In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2015-09-01&g=2015-09-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5&z=2015-09-01&g=2015-09-01) beslist Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zo spoedig mogelijk, doch uiterlijk binnen acht weken, omtrent het afgeven van een verklaring.
+
+2. De termijn voor het geven van een beschikking wordt opgeschort met ingang van de dag waarop Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties de betrokkene uitnodigt nadere gegevens te verstrekken, tot de dag waarop die gegevens zijn ontvangen of de voor verstrekking gestelde termijn ongebruikt is verstreken.
 
 ##### Artikel 7
 
@@ -114,9 +116,7 @@ In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 8
 
-1. Weigering van een verklaring geschiedt door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat.
-
-2. Een verklaring kan slechts worden geweigerd, indien onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien het veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om daarover een oordeel te geven.
+Een verklaring kan slechts worden geweigerd, indien onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien het veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om daarover een oordeel te geven.
 
 ##### Artikel 9
 
@@ -126,7 +126,7 @@ In de gevallen als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BW
 
 ##### Artikel 10
 
-1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is, in overeenstemming met Onze Minister dan wel het bevoegd gezag van een Hoog College van Staat, bevoegd tot het intrekken van de verklaring, indien hem blijkt dat onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen.
+1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd tot het intrekken van de verklaring, indien hem blijkt dat onvoldoende waarborgen aanwezig zijn dat de betrokkene onder alle omstandigheden de uit de vertrouwensfunctie voortvloeiende plichten getrouwelijk zal volbrengen of indien een nieuw veiligheidsonderzoek onvoldoende gegevens heeft kunnen opleveren om vast te stellen dat voldoende waarborgen aanwezig zijn.
 
 2. Indien een verklaring is ingetrokken, ontheft de werkgever de betrokken persoon zo spoedig mogelijk, doch uiterlijk binnen acht weken na de intrekking van de verklaring, uit de vertrouwensfunctie.
 
@@ -136,7 +136,7 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 ##### Artikel 12
 
-1. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2010-10-10&g=2010-10-10), is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5) of van [hoofdstuk VII van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&hoofdstuk=VII).
+1. [Artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2015-09-01&g=2015-09-01), is niet van toepassing in gevallen waarin een persoon met een vertrouwensfunctie wordt belast in het kader van de vervulling van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5) of van [hoofdstuk VII van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&hoofdstuk=VII).
 
 2. In de gevallen, bedoeld in het eerste lid, wordt het veiligheidsonderzoek niet eerder ingesteld dan twaalf weken voordat de betrokkene dient op te komen voor het vervullen van werkelijke dienst in de zin van [paragraaf 5 van hoofdstuk 1 van de Kaderwet dienstplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0008589&paragraaf=5) of van [hoofdstuk VII van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&hoofdstuk=VII). Van het instellen van een veiligheidsonderzoek wordt vooraf mededeling gedaan aan de betrokkene.
 
@@ -164,19 +164,19 @@ Deze wet is niet van toepassing op de leden van de rechterlijke macht met rechts
 
 ##### Artikel 14
 
-1. Hij die niet of niet tijdig voldoet aan een verplichting als bedoeld in een van de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2010-10-10&g=2010-10-10), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2010-10-10&g=2010-10-10), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5&z=2010-10-10&g=2010-10-10), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2010-10-10&g=2010-10-10), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de derde categorie.
+1. Hij die niet of niet tijdig voldoet aan een in de [artikelen 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2015-09-01&g=2015-09-01), [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2015-09-01&g=2015-09-01), [5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5&z=2015-09-01&g=2015-09-01), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10&z=2015-09-01&g=2015-09-01), opgenomen verplichting, wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de vierde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
 ##### Artikel 15
 
-Functies die vóór de inwerkingtreding van deze wet als vertrouwensfunctie zijn aangewezen, worden gelijkgesteld met op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2010-10-10&g=2010-10-10) aangewezen vertrouwensfuncties.
+Functies die vóór de inwerkingtreding van deze wet als vertrouwensfunctie zijn aangewezen, worden gelijkgesteld met op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=3&z=2015-09-01&g=2015-09-01) aangewezen vertrouwensfuncties.
 
 ##### Artikel 16
 
-1. Een persoon die op het tijdstip van inwerkingtreding van deze wet belast is met een vertrouwensfunctie, wordt gelijkgesteld met een persoon ten aanzien van wie op dat tijdstip een verklaring als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2010-10-10&g=2010-10-10), en 6 is afgegeven.
+1. Een persoon die op het tijdstip van inwerkingtreding van deze wet belast is met een vertrouwensfunctie, wordt gelijkgesteld met een persoon ten aanzien van wie op dat tijdstip een verklaring als bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=4&z=2015-09-01&g=2015-09-01), en 6 is afgegeven.
 
-2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9&z=2010-10-10&g=2010-10-10) is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gedurende vijf jaren na het tijdstip van inwerkingtreding van deze wet ten aanzien van een persoon als bedoeld in het eerste lid tevens bevoegd een hernieuwd veiligheidsonderzoek te doen instellen, indien sinds het laatste ten aanzien van die persoon ingestelde veiligheidsonderzoek een termijn van vijf jaren is verstreken.
+2. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9&z=2015-09-01&g=2015-09-01) is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties gedurende vijf jaren na het tijdstip van inwerkingtreding van deze wet ten aanzien van een persoon als bedoeld in het eerste lid tevens bevoegd een hernieuwd veiligheidsonderzoek te doen instellen, indien sinds het laatste ten aanzien van die persoon ingestelde veiligheidsonderzoek een termijn van vijf jaren is verstreken.
 
 ##### Artikel 17
 
@@ -213,5 +213,13 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 1. Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 2. Indien een besluit op grond van deze wet is gericht op een natuurlijke of een rechtspersoon, die woonplaats heeft onderscheidenlijk is gevestigd in de openbare lichamen Bonaire, Sint Eustatius of Saba, kan een natuurlijke persoon of een rechtspersoon, die door het besluit rechtstreeks in zijn belang is getroffen, beroep instellen bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. De Wet administratieve rechtspraak BES is van overeenkomstige toepassing.
+
+Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 9a
+
+1. De kosten die samenhangen met het verrichten van een veiligheidsonderzoek als bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=7&z=2015-09-01&g=2015-09-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=9&z=2015-09-01&g=2015-09-01) komen ten laste van de werkgever.
+
+2. De bedragen ter vergoeding van de kosten worden bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgesteld.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
