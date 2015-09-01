@@ -155,9 +155,3 @@ Deze regeling treedt in werking met ingang van 1 september 2015. De beleidsregel
 Deze regeling wordt aangehaald als: Beleidsregel versneld vwo en/of verrijkt vwo.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
-
-##### Artikel 9a. Omhang
-
-Deze beleidsregel is gebaseerd op [artikel 9.3 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=9.3).
-
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de website (www.duo.nl) van DUO van het Ministerie van Onderwijs, Cultuur en Wetenschap, alsmede op het digitale informatiepunt voor onderwijs en talentontwikkeling (www.talentstimuleren.nl) van Stichting Leerplan Ontwikkeling.
