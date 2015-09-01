@@ -4,7 +4,7 @@ identifier: "BWBR0011522"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2011-12-29"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0011522"
 soort: "ministeriele-regeling"
@@ -61,31 +61,11 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2. Onderwijskaart
 
-1. De onderwijskaart, bedoeld in artikel 2 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de Minister, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling is ingeschreven.
-
-2. De ingevulde onderwijskaart bevat naast de in artikel 2, vierde lid, van het besluit genoemde gegevens:
-
-- a. geboortedatum en geslacht van de leerling en, indien deze minderjarig is, van de wettelijke vertegenwoordiger,
-
-- b. datum waarop de leerling is ingeschreven,
-
-- c. schooljaar waarop de inschrijving betrekking heeft,
-
-- d. verklaring bedoeld in art 2, eerste lid, van het besluit,
-
-- e. door de lesgeldplichtige op grond van artikel 4 van het besluit gekozen wijze van betaling,
-
-- f. ondertekening door de lesgeldplichtige.
-
-3. De Minister draagt zorg voor tijdige verstrekking van onderwijskaarten aan de lesgeldplichtigen en aan de dagscholen.
+Vervallen
 
 ##### Artikel 3. Bewijs van uitschrijving
 
-1. Het bewijs van uitschrijving, bedoeld in artikel 3 van het besluit, bestaat uit 3, wat de gegevens betreft, gelijkluidende delen. Na inschrijving van de leerling is een deel bestemd voor de Minister, een deel voor de lesgeldplichtige en een deel voor de dagschool waaraan de leerling was ingeschreven.
-
-2. Het ingevulde bewijs van uitschrijving bevat de in artikel 3, tweede lid, van het besluit genoemde gegevens.
-
-3. Bewijzen van uitschrijving worden door de Minister aan de dagscholen verstrekt.
+Vervallen
 
 ##### Artikel 4. Termijnbetaling lesgeld bij inschrijving na 30 september
 
