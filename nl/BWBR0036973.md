@@ -177,19 +177,3 @@ Dit besluit treedt in werking met ingang van 1 september 2015. Indien de Staatsc
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie macrodoelmatigheid mbo.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 7a. Procedure vaststellen advies fusie
-
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2017-08-01&g=2017-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
-
-2. De commissie zendt uiterlijk 8 weken na ontvangst van de volledige aanvraag voor goedkeuring van een fusie dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog toegezonden dient te worden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
-
-##### Artikel 7b. Procedure vaststellen advies kleinschalige en unieke beroepsopleidingen
-
-1. Waar het gaat om de taken, bedoeld in [artikel 2, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0036973&artikel=2&z=2018-10-25&g=2018-08-01), legt de commissie haar oordeel naar aanleiding van een onderzoek vast in een advies aan de minister.
-
-2. De commissie zendt uiterlijk 8 weken na ontvangst van het signaal, bedoeld in artikel 8 van de beleidsregel dit advies aan de minister. Indien het advies niet binnen 8 weken kan worden toegezonden, stelt de commissie de minister daarvan in kennis. De minister bepaalt in overleg met de commissie de termijn waarbinnen het rapport alsnog aan de minister wordt toegezonden.
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
