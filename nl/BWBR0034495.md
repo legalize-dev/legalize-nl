@@ -4,7 +4,7 @@ identifier: "BWBR0034495"
 country: "nl"
 rank: "beleidsregel"
 publication_date: "2024-09-01"
-last_updated: "2014-01-01"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034495"
 soort: "beleidsregel"
@@ -40,31 +40,41 @@ Hierbij bericht de Minister van Onderwijs, Cultuur en Wetenschap te hebben beslo
 
 ##### Artikel 1. Begripsbepalingen
 
-In deze beleidsregel wordt verstaan onder:
+1. In deze beleidsregel wordt verstaan onder:
 
 - a. **WSF 2000:** [Wet studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453),
 
-- b. **thuiswonende studerende:** studerende die niet een uitwonende studerende is,
+- b. **thuiswonende deelnemer:** deelnemer die niet een uitwonende deelnemer is,
 
-- c. **uitwonende studerende:** uitwonende studerende als bedoeld in [artikel 1.1, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.1),
+- c. **uitwonende deelnemer:** deelnemer die voldoet aan de verplichtingen, bedoeld in [artikel 1.5 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=1.5),
 
-- d. **adres van de onderwijsinstelling:** het adres waar de studerende daadwerkelijk aan het onderwijs deelneemt,
+- d. **student:** degene die hoger onderwijs volgt, niet zijnde extraneus,
 
-- e. **stageadres:** het adres waar de studerende daadwerkelijk zijn stage vervult,
+- e. **studerende:** thuis- en uitwonende deelnemer of student,
 
-- f. **woonadres:** adres waaronder de studerende in de gemeentelijke basisadministratie persoonsgegevens staat ingeschreven.
+- f. **adres van de onderwijsinstelling:** het adres waar de studerende daadwerkelijk aan het onderwijs deelneemt,
+
+- g. **stageadres:** het adres waar de studerende daadwerkelijk zijn stage vervult,
+
+- h. **woonadres:** adres waaronder de studerende in de basisregistratie personen staat ingeschreven.
+
+2. In afwijking van het eerste lid wordt onder thuiswonende, onderscheidenlijk uitwonende deelnemer eveneens verstaan de thuiswonende, onderscheidenlijk uitwonende student die op grond van [artikel 12.14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14) nog een basisbeurs ontvangt voor een thuiswonende of uitwonende student.
 
 ##### Artikel 2. Doelgroepen
 
-1. Op verzoek van een thuiswonende studerende, die kan aantonen dat hij voor het verkeer tussen het woonadres en het adres van de onderwijsinstelling waarbij hij is ingeschreven of het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Dienst Uitvoering Onderwijs het meerdere vergoeden.
+1. Op verzoek van een thuiswonende deelnemer, die kan aantonen dat hij voor het verkeer tussen het woonadres en het adres van de onderwijsinstelling waarbij hij is ingeschreven of het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Minister van Onderwijs, Cultuur en Wetenschap het meerdere vergoeden.
 
-2. Op verzoek van een uitwonende studerende, die kan aantonen dat hij voor het verkeer tussen het woonadres en het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Dienst Uitvoering Onderwijs het meerdere vergoeden.
+2. Op verzoek van een uitwonende deelnemer, die kan aantonen dat hij voor het verkeer tussen het woonadres en het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Minister van Onderwijs, Cultuur en Wetenschap het meerdere vergoeden.
 
-3. Op verzoek van een thuiswonende studerende, die kan aantonen dat hij de onderwijsinstelling, waarbij hij is ingeschreven, of het stageadres, met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
+3. Op verzoek van een student, die kan aantonen dat hij voor het verkeer tussen het woonadres en het adres van de onderwijsinstelling waarbij hij is ingeschreven of het stageadres voor het vervoer als voetganger op een pontveer per maand meer dan € 30,– moet besteden, kan de Minister van Onderwijs, Cultuur en Wetenschap het meerdere vergoeden.
 
-4. Op verzoek van een uitwonende studerende, die kan aantonen dat hij het stageadres met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Dienst Uitvoering Onderwijs een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
+4. Op verzoek van een thuiswonende deelnemer, die kan aantonen dat hij de onderwijsinstelling, waarbij hij is ingeschreven, of het stageadres, met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Minister van Onderwijs, Cultuur en Wetenschap een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
 
-5. Het derde en vierde lid zijn niet van toepassing indien de afstand tussen het adres van de onderwijsinstelling of het stageadres en het woonadres van de studerende minder dan 10 kilometer bedraagt.
+5. Op verzoek van een uitwonende deelnemer, die kan aantonen dat hij het stageadres met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Minister van Onderwijs, Cultuur en Wetenschap een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
+
+6. Op verzoek van een student, die kan aantonen dat hij de onderwijsinstelling, waarbij hij is ingeschreven of het stageadres, met gebruikmaking van het openbaar vervoer niet of niet tijdig kan bereiken of met gebruikmaking van het openbaar vervoer niet meer thuis kan komen, kan de Minister van Onderwijs, Cultuur en Wetenschap een tegemoetkoming toekennen gelijk aan het bedrag, bedoeld in [artikel 5.3, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.3).
+
+7. Het vierde tot en met zesde lid zijn niet van toepassing indien de afstand tussen het adres van de onderwijsinstelling of het stageadres en het woonadres van de studerende minder dan 10 kilometer bedraagt.
 
 ##### Artikel 3. Reikwijdte
 
