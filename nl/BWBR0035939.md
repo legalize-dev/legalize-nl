@@ -4,7 +4,7 @@ identifier: "BWBR0035939"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035939"
 soort: "ministeriele-regeling"
@@ -70,52 +70,58 @@ Het rentepercentage, bedoeld in [artikel 6.3 van de WSF 2000](https://wetten.ove
 
 ### Hoofdstuk 2. Normen [WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453)
 
-##### Artikel 4. Aanpassing toetsingsinkomen partner
+##### Artikel 4. Toetsingsinkomen partner
 
 Met ingang van 1 januari 2015 wordt het bedrag, genoemd in [artikel 3.4, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.4), vastgesteld op € 9.234,45.
 
-##### Artikel 5. Aanpassing vrije voet veronderstelde ouderlijke bijdrage
+##### Artikel 5. Vrije voet veronderstelde ouderlijke bijdrage
 
 Met ingang van 1 januari 2015 worden de bedragen, genoemd in [artikel 3.9, derde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.9), vastgesteld op € 16.890,62 respectievelijk € 21.399,51.
 
-##### Artikel 6. Aanpassing vrije voet eigen inkomsten studerende
+##### Artikel 6. Vordering wegens eigen inkomsten studerende
 
-Met ingang van 1 januari 2015 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), vastgesteld op € 13.856,11.
+1. Met ingang van 1 januari 2015 wordt het bedrag, genoemd in [artikel 3.17, eerste lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), vastgesteld op € 13.856,11.
 
-##### Artikel 7. Aanpassing normbedragen studiefinanciering
+2. Naar de maatstaf van 1 januari 2015 bedraagt het bedrag, genoemd in [artikel 3.17, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.17), € 332,30.
 
-Met ingang van 1 januari 2015 worden de bedragen, genoemd in de overzichten 1 en 2 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18), als volgt vastgesteld:
+##### Artikel 7. Normbedragen studiefinanciering
 
-|   | Hoger onderwijs | Beroepsonderwijs |
-| --- | --- | --- |
-| Levensonderhoud |   |   |
-| a. thuiswonend | € 649,34 | € 496,64 |
-| b. uitwonend | € 854,13 | € 701,42 |
+De bedragen, genoemd in de overzichten 1 en 2 van [artikel 3.18 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) luiden per maand naar de maatstaf van 1 januari 2015 als volgt:
 
-|   | Hoger onderwijs | Beroepsonderwijs |
-| --- | --- | --- |
-| Basisbeurs (excl. Toeslagen) |   |   |
-| a. thuiswonend | € 102,77 | € 81,02 |
-| b. uitwonend | € 286,15 | € 264,40 |
-| Maximale aanvullende beurs/lening (of veronderstelde ouderlijke bijdrage) |   |   |
-| a. thuiswonende | € 245,30 | € 332,30 |
-| b. uitwonend | € 266,71 | € 353,70 |
-| Basislening | € 301,27 | € 176,49 |
-| Toeslag partner | € 598,95 | € 598,95 |
+| **A. Beroepsonderwijs** |   |
+| --- | --- |
+| Normbedrag thuiswonend | € 496,64 |
+| Normbedrag uitwonend | € 701,42 |
+| **B. Hoger onderwijs** |   |
+| Normbedrag | € 854,13 |
 
-##### Artikel 8. Aanpassing maximale hoogte lening
+| **A. Beroepsonderwijs** |   |
+| --- | --- |
+| Basisbeurs (exclusief toeslag eenoudergezin) |   |
+| thuiswonend | € 81,02 |
+| uitwonend | € 264,40 |
+| Basislening |   |
+| thuis- en uitwonend | € 176,49 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage |   |
+| thuiswonend | € 239,13 |
+| uitwonend | € 260,53 |
+| **B. Hoger onderwijs** |   |
+| Basislening | € 475,91 |
+| Maximale aanvullende beurs/lening of veronderstelde ouderlijke bijdrage | € 378,22 |
 
-Van 1 januari 2015 tot 1 januari 2016 wordt het bedrag, genoemd in de [artikelen 4.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), [5.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), en [10.3, derde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=10.3), vastgesteld op € 916,96.
+##### Artikel 8. Maximale hoogte lening
+
+Van 1 januari 2015 tot 1 januari 2016 wordt het bedrag, genoemd in de [artikelen 4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.7), [4.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=4.18), en [5.2, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=5.2), vastgesteld op € 916,96.
 
 ### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
 
-##### Artikel 9. Aanpassingen grensbedragen draagkracht en toetsingsinkomen
+##### Artikel 9. Grensbedragen draagkracht en toetsingsinkomen
 
 1. Met ingang van schooljaar 2015–2016 wordt het grensbedrag draagkracht, bedoeld in [artikel 2.23, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=2.23), vastgesteld op € 33.329,43.
 
 2. Met ingang van 1 januari 2015 wordt het grensbedrag toetsingsinkomen, bedoeld in [artikel 10.5, tweede lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.5), vastgesteld op € 3.746,89.
 
-##### Artikel 10. Aanpassing normbedragen basistoelage
+##### Artikel 10. Normbedragen basistoelage
 
 Met ingang van 1 januari 2015 wordt de hoogte van de basistoelage per kalendermaand, bedoeld in [artikel 4.3 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.3), als volgt vastgesteld:
 
@@ -123,7 +129,7 @@ Met ingang van 1 januari 2015 wordt de hoogte van de basistoelage per kalenderma
 
 - b. € 260,03 voor een uitwonende leerling.
 
-##### Artikel 11. Aanpassing normbedragen tegemoetkoming schoolkosten ex [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6)
+##### Artikel 11. Normbedragen tegemoetkoming schoolkosten ex [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6)
 
 Met ingang van schooljaar 2015–2016 wordt de tegemoetkoming schoolkosten, bedoeld in [artikel 4.6 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=4.6), als volgt vastgesteld:
 
@@ -135,11 +141,11 @@ Met ingang van schooljaar 2015–2016 wordt de tegemoetkoming schoolkosten, bedo
 | e. speciaal onderwijs en voortgezet speciaal onderwijs | € 52,24 |
 | f. voortgezet algemeen volwassenen onderwijs (vavo) | € 115,17 |
 
-##### Artikel 12. Aanpassing normbedrag tegemoetkoming schoolkosten ex [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4)
+##### Artikel 12. Normbedrag tegemoetkoming schoolkosten ex [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4)
 
 Met ingang van het schooljaar 2015-2016 wordt de tegemoetkoming schoolkosten, bedoeld in [artikel 5.4 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.4), vastgesteld op € 724,40.
 
-##### Artikel 13. Aanpassing normbedrag tegemoetkoming schoolkosten ex [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10)
+##### Artikel 13. Normbedragen tegemoetkoming schoolkosten ex [artikel 5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10)
 
 Met ingang van het schooljaar 2015–2016 wordt de tegemoetkoming schoolkosten, bedoeld in de overzichten 1 en 2 van [artikel 5.10 van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=5.10), als volgt vastgesteld:
 
@@ -159,7 +165,7 @@ Met ingang van het schooljaar 2015–2016 wordt de tegemoetkoming schoolkosten, 
 | 270 tot 540 en voor 1 januari minder dan 270 | € 52,21 + € 52,20 naar rato aantal minuten dat onderwijs wordt gevolgd |
 | Minder dan 270 | nihil |
 
-##### Artikel 14. Aanpassing normbedrag tegemoetkoming schoolkosten ex [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7)
+##### Artikel 14. Normbedragen tegemoetkoming schoolkosten ex [artikel 10.7](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7)
 
 Met ingang van het schooljaar of studiejaar 2015–2016 wordt de tegemoetkoming in de schoolkosten, genoemd in [artikel 10.7, derde lid, van de WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438&artikel=10.7), als volgt vastgesteld:
 
@@ -171,7 +177,7 @@ Met ingang van het schooljaar of studiejaar 2015–2016 wordt de tegemoetkoming 
 
 ### Hoofdstuk 4. Normen [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
 
-##### Artikel 15. Aanpassing normbedragen studiefinanciering en opstarttoelage BES
+##### Artikel 15. Normbedragen studiefinanciering en opstarttoelage BES
 
 Met ingang van 1 januari 2015 worden de bedragen, bedoeld in [artikel 2.2 van de WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.2), als volgt vastgesteld:
 
@@ -194,26 +200,55 @@ Met ingang van 1 januari 2015 worden de bedragen, bedoeld in [artikel 2.2 van de
 
 ##### Artikel 16. Maximale verrekenbedrag 2015 in de [Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&wetgeving)
 
-In [artikel 6.1, derde lid, van de Regeling studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011595&artikel=6.1) komt de tweede volzin te luiden: Wanneer die maandbetalingen naar de maatstaf van 1 januari 2015 hoger zijn dan € 162,87, geschiedt de verrekening met dat bedrag.
+Vervallen
 
 ##### Artikel 17. Maximale verrekenbedrag 2015 in de [Regeling tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012690)
 
-In [artikel 3.1, derde lid, van de Regeling tegemoetkoming onderwijsbijdrage en schoolkosten](https://wetten.overheid.nl/jci1.3:c:BWBR0012690&artikel=3.1) komt de tweede volzin te luiden: Wanneer die betalingen naar de maatstaf van 1 januari 2015 hoger zijn dan € 61,31, geschiedt de verrekening met dat bedrag.
+Vervallen
 
 ##### Artikel 18. Maximale verrekenbedrag 2015 in de [Regeling studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030183)
 
-In [artikel 5.1, derde lid, van de Regeling studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&artikel=5.1) komt de tweede volzin te luiden: Wanneer die maandbetalingen naar de maatstaf van 1 januari 2015 hoger zijn dan USD 241,24, geschiedt de verrekening met dat bedrag.
+Vervallen
 
-### Hoofdstuk 6. Slotbepalingen
+### Hoofdstuk 5. Wijziging bedragen in andere regelingen
 
 ##### Artikel 19. Inwerkingtreding en vervaldatum
 
-1. Deze regeling treedt in werking met ingang van 1 januari 2015 en vervalt met ingang van 1 augustus 2016.
-
-2. Indien de Staatscourant, waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2014, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2015.
+Vervallen
 
 ##### Artikel 20. Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling normen WSF 2000, WTOS en WSF BES, voor het jaar 2015.
+Deze regeling wordt aangehaald als: Regeling normen WSF 2000, WTOS en WSF BES.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+##### Artikel 8a. Normbedrag kwijtschelding studieschuld
+
+Naar de maatstaf van 1 januari 2015 bedraagt het bedrag, genoemd in [artikel 6.2a, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2a), € 1.230,12.
+
+##### Artikel 8b. Normbedragen cohortgarantie
+
+Naar de maatstaf van 1 januari 2015 bedragen de bedragen, genoemd in [artikel 12.14, tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.14):
+
+|   | thuiswonende | uitwonende |
+| --- | --- | --- |
+| a. maandbedrag als bedoeld in overzicht 1 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 649,34 | € 854,13 |
+| b. basisbeurs als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 102,77 | € 286,15 |
+| c. maximale aanvullende beurs of lening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 245,30 | € 266,71 |
+| d. basislening als bedoeld in overzicht 2 van [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=3.18) | € 301,27 | € 301,27 |
+
+##### Artikel 8c. Normbedrag verhoogde aanvullende beurs
+
+Naar de maatstaf van 1 januari 2015 bedragen de bedragen, genoemd in [artikel 12.16, eerste en tweede lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.16), € 266,71 onderscheidenlijk € 109,67.
+
+##### Artikel 8d. Normbedrag partnertoeslag
+
+Naar de maatstaf van 1 januari 2015 bedraagt het bedrag, genoemd in [artikel 12.17, vierde lid, van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=12.17), € 598,95.
+
+### Hoofdstuk 3. Normen [WTOS](https://wetten.overheid.nl/jci1.3:c:BWBR0012438)
+
+### Hoofdstuk 4. Normen [WSF BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393)
+
+### Hoofdstuk 6. Slotbepalingen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
