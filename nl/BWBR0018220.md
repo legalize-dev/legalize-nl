@@ -4,7 +4,7 @@ identifier: "BWBR0018220"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-09-01"
-last_updated: "2010-01-01"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018220"
 soort: "ministeriele-regeling"
@@ -40,6 +40,8 @@ Gelet op:
 • de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=10), en [11, tweede lid, van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0018259&artikel=11);
 
 Besluit
+
+De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -79,9 +81,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3. Besluitvorming
 
-1. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), voor 1 augustus 2005.
+1. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2015-09-01&g=2015-09-01), voor 1 augustus 2005.
 
-2. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2010-01-01&g=2010-01-01), uiterlijk 1 februari 2006.
+2. De minister neemt een besluit op een aanvraag als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018220&hoofdstuk=2&artikel=2&z=2015-09-01&g=2015-09-01), uiterlijk 1 februari 2006.
 
 ### Hoofdstuk 3. Lening
 
@@ -113,7 +115,7 @@ Het bedrag van de lening wordt toegevoegd aan de lening, bedoeld in [artikel 3.1
 
 ##### Artikel 9. Terugbetaling
 
-Op de terugbetaling van de lening zijn de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2), [6.4 tot en met 6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.10), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) en [7.3 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.3) van overeenkomstige toepassing.
+Op de terugbetaling van de lening zijn de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.2), [6.4 tot en met 6.17](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=6.10), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.1) en [7.3 van de WSF 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011453&artikel=7.3) van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Slotbepalingen
 
