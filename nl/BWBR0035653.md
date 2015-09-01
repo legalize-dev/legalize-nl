@@ -4,7 +4,7 @@ identifier: "BWBR0035653"
 country: "nl"
 rank: "wet"
 publication_date: "2020-01-01"
-last_updated: "2015-07-01"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035653"
 soort: "wet"
@@ -53,9 +53,11 @@ Wijzigt de Wet op de lijkbezorging.
 
 ##### Artikel III
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
 ##### Artikel IIIA
+
+Wijzigt de Wijzigingswet tot herziening van Titel 4 van Boek 1 van het Burgerlijk Wetboek, enz. (Stb. 1993/555).
 
 Dit onderdeel is nog niet inwerking getreden
 
