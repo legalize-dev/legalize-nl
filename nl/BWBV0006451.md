@@ -4,7 +4,7 @@ identifier: "BWBV0006451"
 country: "nl"
 rank: "verdrag"
 publication_date: "2018-09-01"
-last_updated: "2015-03-02"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0006451"
 soort: "verdrag"
@@ -94,11 +94,11 @@ Dit Verdrag strekt tot het regelen van aangelegenheden in verband met of voortvl
 
 1. Op de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting, met inbegrip van het recht van gedetineerden te verzoeken om overplaatsing naar de zendstaat, is uitsluitend het recht van de zendstaat van toepassing, tenzij in dit Verdrag anders wordt bepaald.
 
-2. Op de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-03-02&g=2015-03-02), is uitsluitend het recht van de ontvangststaat van toepassing.
+2. Op de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-09-01&g=2015-09-01), is uitsluitend het recht van de ontvangststaat van toepassing.
 
 ##### Artikel 5. Persoonsgegevens
 
-Persoonsgegevens die voor de toepassing van dit Verdrag worden verstrekt, mogen slechts worden gebruikt voor het doel van dit Verdrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=2&z=2015-03-02&g=2015-03-02).
+Persoonsgegevens die voor de toepassing van dit Verdrag worden verstrekt, mogen slechts worden gebruikt voor het doel van dit Verdrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=2&z=2015-09-01&g=2015-09-01).
 
 ##### Artikel 6. Bevoegdheden en verantwoordelijkheden van de directeur
 
@@ -112,7 +112,7 @@ Persoonsgegevens die voor de toepassing van dit Verdrag worden verstrekt, mogen 
 
 ##### Artikel 7. Personeel
 
-De ontvangststaat levert het personeel dat nodig is voor de uitvoering van de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-03-02&g=2015-03-02). Inkrimping van het personeel dient uitdrukkelijk te worden overeengekomen met de directeur.
+De ontvangststaat levert het personeel dat nodig is voor de uitvoering van de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-09-01&g=2015-09-01). Inkrimping van het personeel dient uitdrukkelijk te worden overeengekomen met de directeur.
 
 ## DEEL II. BEPALINGEN BETREFFENDE DE TENUITVOERLEGGING VAN VONNISSEN
 
@@ -224,11 +224,11 @@ De bevoegde autoriteiten van de ontvangststaat zijn verantwoordelijk voor handha
 
 ##### Artikel 18. Strafrechtelijke samenwerking met het oog op onvrijwillige terugkeer in detentie
 
-1. Indien een gedetineerde zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, anders dan tijdens vervoer, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=11&z=2015-03-02&g=2015-03-02), of tijdens verblijf in een medisch centrum, als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=12&z=2015-03-02&g=2015-03-02), zijn de tussen de ontvangststaat en de zendstaat geldende verdragen en regelingen inzake internationale strafrechtelijke samenwerking onverkort van toepassing.
+1. Indien een gedetineerde zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, anders dan tijdens vervoer, als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=11&z=2015-09-01&g=2015-09-01), of tijdens verblijf in een medisch centrum, als bedoeld in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=12&z=2015-09-01&g=2015-09-01), zijn de tussen de ontvangststaat en de zendstaat geldende verdragen en regelingen inzake internationale strafrechtelijke samenwerking onverkort van toepassing.
 
-2. Een gedetineerde die zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt ten gevolge van situaties als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=13&z=2015-03-02&g=2015-03-02) en [17, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=III&artikel=17&z=2015-03-02&g=2015-03-02), terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, kan op verzoek van de directeur door de bevoegde autoriteiten van de ontvangststaat worden aangehouden voor de duur van ten hoogste zes uren − de uren tussen middernacht en negen uur ’s ochtends niet meegerekend − in afwachting van een signalering in het Schengen-informatiesysteem met het oog op zijn uitlevering.
+2. Een gedetineerde die zich buiten de penitentiaire inrichting op het grondgebied van de ontvangststaat bevindt ten gevolge van situaties als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=13&z=2015-09-01&g=2015-09-01) en [17, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=III&artikel=17&z=2015-09-01&g=2015-09-01), terwijl de tenuitvoerlegging van het Noorse vonnis niet is beëindigd, kan op verzoek van de directeur door de bevoegde autoriteiten van de ontvangststaat worden aangehouden voor de duur van ten hoogste zes uren − de uren tussen middernacht en negen uur ’s ochtends niet meegerekend − in afwachting van een signalering in het Schengen-informatiesysteem met het oog op zijn uitlevering.
 
-3. Een gedetineerde die zich buiten de penitentiaire inrichting bevindt ten gevolge van een situatie bedoeld in [artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=12&z=2015-03-02&g=2015-03-02), wordt naar de penitentiaire inrichting teruggebracht.
+3. Een gedetineerde die zich buiten de penitentiaire inrichting bevindt ten gevolge van een situatie bedoeld in [artikel 12, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=12&z=2015-09-01&g=2015-09-01), wordt naar de penitentiaire inrichting teruggebracht.
 
 ##### Artikel 19. Strafrechtelijk onderzoek wegens andere feiten
 
@@ -264,7 +264,7 @@ Ongeacht waar deze zich bevinden zijn het meubilair en andere in de penitentiair
 
 ##### Artikel 24. Uitzondering op de bepalingen inzake onschendbaarheid en immuniteit
 
-De bepalingen inzake onschendbaarheid en immuniteit in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=21&z=2015-03-02&g=2015-03-02), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=22&z=2015-03-02&g=2015-03-02) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=23&z=2015-03-02&g=2015-03-02) vinden geen toepassing in gevallen waarin het strafrecht van de ontvangststaat van toepassing is.
+De bepalingen inzake onschendbaarheid en immuniteit in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=21&z=2015-09-01&g=2015-09-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=22&z=2015-09-01&g=2015-09-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=IV&artikel=23&z=2015-09-01&g=2015-09-01) vinden geen toepassing in gevallen waarin het strafrecht van de ontvangststaat van toepassing is.
 
 ##### Artikel 25. Immuniteit van de directeur
 
@@ -278,7 +278,7 @@ De bepalingen inzake onschendbaarheid en immuniteit in de [artikelen 21](https:/
 
 ##### Artikel 26. Kosten
 
-De kosten van de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=27&z=2015-03-02&g=2015-03-02) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=28&z=2015-03-02&g=2015-03-02), worden, met inachtneming van het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=29&z=2015-03-02&g=2015-03-02), door de zendstaat vergoed aan de ontvangststaat. Kosten van de beveiliging van de penitentiaire inrichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=15&z=2015-03-02&g=2015-03-02), worden gedragen door de ontvangststaat.
+De kosten van de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inrichting, bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=27&z=2015-09-01&g=2015-09-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=28&z=2015-09-01&g=2015-09-01), worden, met inachtneming van het bepaalde in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=29&z=2015-09-01&g=2015-09-01), door de zendstaat vergoed aan de ontvangststaat. Kosten van de beveiliging van de penitentiaire inrichting, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=II&artikel=15&z=2015-09-01&g=2015-09-01), worden gedragen door de ontvangststaat.
 
 ##### Artikel 27. Vergoeding voor het gebruik van de penitentiaire inrichting
 
@@ -288,11 +288,11 @@ De kosten van de tenuitvoerlegging van Noorse vonnissen in de penitentiaire inri
 
 ##### Artikel 28. Overige kosten
 
-De vergoeding van overige kosten vindt plaats in overeenstemming met de regelingen die in de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-03-02&g=2015-03-02), zijn vastgelegd.
+De vergoeding van overige kosten vindt plaats in overeenstemming met de regelingen die in de samenwerkingsovereenkomst, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=I&artikel=3&z=2015-09-01&g=2015-09-01), zijn vastgelegd.
 
 ##### Artikel 29. Indexering
 
-1. De in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=27&z=2015-03-02&g=2015-03-02) en in de samenwerkingsovereenkomst in overeenstemming met [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=28&z=2015-03-02&g=2015-03-02) vermelde vergoedingen zijn gebaseerd op het prijspeil van 2015. Deze vergoedingen zullen jaarlijks op 1 januari van elk jaar worden geïndexeerd, voor het eerst op 1 januari 2016.
+1. De in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=27&z=2015-09-01&g=2015-09-01) en in de samenwerkingsovereenkomst in overeenstemming met [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=V&artikel=28&z=2015-09-01&g=2015-09-01) vermelde vergoedingen zijn gebaseerd op het prijspeil van 2015. Deze vergoedingen zullen jaarlijks op 1 januari van elk jaar worden geïndexeerd, voor het eerst op 1 januari 2016.
 
 2. De in het eerste lid bedoelde indexering vindt plaats aan de hand van de indexcijfers (**Prijs overheidsconsumptie & Prijs overheidsconsumptie, netto materieel)** die jaarlijks door het Centraal Planbureau van de ontvangststaat worden vastgesteld. Deze indexcijfers hebben betrekking op de elementen loonkosten, huisvesting en exploitatie.
 
@@ -304,7 +304,7 @@ De vergoeding van overige kosten vindt plaats in overeenstemming met de regeling
 
 - −. op 1 januari voor het jaar 2018.
 
-4. In geval van verlenging als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=VI&artikel=31&z=2015-03-02&g=2015-03-02) is het voorgaande lid van overeenkomstige toepassing.
+4. In geval van verlenging als bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=VI&artikel=31&z=2015-09-01&g=2015-09-01) is het voorgaande lid van overeenkomstige toepassing.
 
 ## DEEL VI. SLOTBEPALINGEN
 
@@ -340,7 +340,7 @@ Dit Verdrag is uitsluitend van toepassing op het deel van het Koninkrijk der Ned
 
 1. Dit Verdrag treedt in werking op de eerste dag van de eerste maand nadat beide partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
 
-2. Dit Verdrag eindigt drie jaar na de inwerkingtreding ervan of, in het geval van de toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=VI&artikel=31&z=2015-03-02&g=2015-03-02), wanneer de verlengingstermijn is verstreken.
+2. Dit Verdrag eindigt drie jaar na de inwerkingtreding ervan of, in het geval van de toepassing van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0006451&deel=VI&artikel=31&z=2015-09-01&g=2015-09-01), wanneer de verlengingstermijn is verstreken.
 
 IN WITNESS WHEREOF, the undersigned, duly authorized thereto, have signed this Agreement.
 
