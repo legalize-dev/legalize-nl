@@ -4,7 +4,7 @@ identifier: "BWBR0036972"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-09-02"
-last_updated: "2015-07-01"
+last_updated: "2015-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036972"
 soort: "zbo"
@@ -73,7 +73,7 @@ In dit besluit wordt verstaan onder:
 
 1. De ontslagadviescommissie heeft tot taak om – desgevraagd – UWV in individuele gevallen te adviseren over verzoeken om toestemming om de arbeidsovereenkomst op te zeggen vanwege bedrijfseconomische redenen. UWV vraagt de ontslagadviescommissie om advies indien ten aanzien van een verzoek om toestemming waar onduidelijkheid bestaat over de toepassing van de regels bij de beslissing die genomen moet worden en daar waar (sector)specifieke kennis waarover de leden van deze commissie uit hoofde van hun hoedanigheid beschikken, noodzakelijk is voor het kunnen beoordelen van het verzoek. Advies wordt alleen ingewonnen in situaties van ontslag om bedrijfseconomische redenen.
 
-2. De ontslagadviescommissie neemt bij haar adviezen het Burgerlijk Wetboek, de [Ontslagregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036599&wetgeving), de [Regeling UWV ontslagprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0036593&wetgeving) en de door UWV vastgestelde uitvoeringsregels in acht.
+2. De ontslagadviescommissie neemt bij haar adviezen het Burgerlijk Wetboek, de [Ontslagregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0036599), de [Regeling UWV ontslagprocedure](https://wetten.overheid.nl/jci1.3:c:BWBR0036593) en de door UWV vastgestelde uitvoeringsregels in acht.
 
 ##### Artikel 4. Samenstelling en benoemingsvereisten
 
@@ -121,7 +121,7 @@ In dit besluit wordt verstaan onder:
 
 - c. indien een wetswijziging dit noodzakelijk maakt.
 
-2. UWV kan tussentijds ontslag verlenen na raadpleging van de voordragende organisatie, wegens het niet (meer) voldoen aan de vereisten als genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036972&artikel=4&z=2015-09-02&g=2015-07-01) of indien zich naar het oordeel van UWV een zwaarwegende reden voordoet.
+2. UWV kan tussentijds ontslag verlenen na raadpleging van de voordragende organisatie, wegens het niet (meer) voldoen aan de vereisten als genoemd in [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036972&artikel=4&z=2015-09-02&g=2015-09-02) of indien zich naar het oordeel van UWV een zwaarwegende reden voordoet.
 
 3. UWV meldt het tussentijds ontslag aan het lid en de voordragende organisatie.
 
@@ -187,9 +187,9 @@ UWV draagt zorg voor tijdige informatie aan de ontslagadviescommissie over wijzi
 
 ##### Artikel 16. Intrekking en overgangsrecht
 
-1. Het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876&wetgeving) wordt ingetrokken.
+1. Het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876) wordt ingetrokken.
 
-2. De bepalingen van het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876&wetgeving) blijven van kracht voor de advisering door de ontslagadviescommissies over de te nemen beslissingen ter zake van verzoeken om toestemming te verlenen om de arbeidsverhouding te beëindigen zoals die zijn ingediend vóór 1 juli 2015.
+2. De bepalingen van het [Reglement ontslagadviescommissies UWV 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026876) blijven van kracht voor de advisering door de ontslagadviescommissies over de te nemen beslissingen ter zake van verzoeken om toestemming te verlenen om de arbeidsverhouding te beëindigen zoals die zijn ingediend vóór 1 juli 2015.
 
 ##### Artikel 17
 
