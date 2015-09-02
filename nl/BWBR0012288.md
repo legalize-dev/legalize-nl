@@ -4,7 +4,7 @@ identifier: "BWBR0012288"
 country: "nl"
 rank: "circulaire"
 publication_date: "2026-04-04"
-last_updated: "2015-08-21"
+last_updated: "2015-09-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012288"
 soort: "circulaire"
@@ -1977,7 +1977,7 @@ Geen bijzonderheden.
 
 ### 8.1. Besluitmoratorium
 
-Geen bijzonderheden.
+Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 43, eerste lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=43).
 
 ### 8.2. Artikel 1F Vluchtelingenverdrag
 
@@ -1999,7 +1999,7 @@ Geen bijzonderheden.
 
 De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, aanhef en onder a, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29) aan de vreemdeling uit Tibet die aannemelijk maakt dat hij tot een of meerdere van deze groepen behoort.
 
-### 8.4. Ernstige schade in de zin van artikel 29, eerste lid, onder b, Vw
+### 8.4. Ernstige schade in de zin van [artikel 29, eerste lid, onder b, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=29)
 
 Tibetanen kunnen te maken hebben met repressie in China, als zij:
 
@@ -2033,7 +2033,7 @@ Geen bijzonderheden.
 
 Geen bijzonderheden.
 
-Geen bijzonderheden.
+Ten aanzien van Oeigoeren afkomstig uit China geldt een besluit in de zin van [artikel 45, vierde lid, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=45).
 
 ### 8.8. Bijzonderheden
 
@@ -3549,7 +3549,7 @@ De IND neemt aan dat geen vlucht- en vestigingsalternatief in Eritrea aanwezig i
 
 ### 11.6. Adequate opvang alleenstaande minderjarige vreemdelingen
 
-In China is adequate opvang in de zin van [paragraaf B8/6](onbekend) Vc.
+In China is adequate opvang in de zin van [paragraaf B8/6 Vc](onbekend).
 
 ### 8.7. Vertrekmoratorium
 
