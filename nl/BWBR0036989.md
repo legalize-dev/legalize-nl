@@ -4,7 +4,7 @@ identifier: "BWBR0036989"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-09-05"
-last_updated: "2013-04-08"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036989"
 soort: "ministeriele-regeling"
@@ -46,7 +46,7 @@ Besluit:
 
 In dit besluit wordt verstaan onder:
 
-- **bewindspersoon:** Minister van Infrastructuur en Milieu, indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2013-04-08), bedoelde bevoegdheden op diens terrein liggen, of Staatssecretaris van Infrastructuur en Milieu, indien die bevoegdheden op het terrein van de laatstgenoemde liggen;
+- **bewindspersoon:** Minister van Infrastructuur en Milieu, indien de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2015-09-05), bedoelde bevoegdheden op diens terrein liggen, of Staatssecretaris van Infrastructuur en Milieu, indien die bevoegdheden op het terrein van de laatstgenoemde liggen;
 
 - **medisch certificaat:** certificaat als bedoeld in Bijlage IV (Part Med), van de verordening;
 
@@ -70,7 +70,7 @@ Dit besluit is van toepassing op besluiten met betrekking tot:
 
 - a. de in de bijlage bij dit besluit onder A en B bedoelde functionarissen en instanties met betrekking tot de afgifte van medische verklaringen klasse 3, de verlenging daarvan of het verbinden van een beperking aan een verklaring als bedoeld in [artikel 15, met uitzondering van het vijfde lid, onderdelen e tot en met h, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010686&artikel=15);
 
-- b. de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2013-04-08) onder C bedoelde functionarissen met betrekking tot:
+- b. de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2015-09-05) onder C bedoelde functionarissen met betrekking tot:
 
 - 1°. de afgifte van medische verklaringen klasse 3, de verlenging daarvan, het verbinden van een beperking aan een verklaring of het wijzigen dan wel opheffen van een beperking als bedoeld in [artikel 15 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0010686&artikel=15);
 
@@ -90,7 +90,7 @@ De in artikel 3 bedoelde functionarissen en instanties zijn gehouden:
 
 ##### Artikel 5
 
-Aan de Inspecteur-Generaal Leefomgeving en Transport en de Directeur ILT/Luchtvaart van de Inspectie Leefomgeving en Transport wordt machtiging verleend tot het geven van de in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=4&z=2015-09-05&g=2013-04-08), bedoelde instructies en bij het toezicht op een goede uitvoering van dit besluit tot het nemen van die proportionele maatregelen die hen gepast voorkomen.
+Aan de Inspecteur-Generaal Leefomgeving en Transport en de Directeur ILT/Luchtvaart van de Inspectie Leefomgeving en Transport wordt machtiging verleend tot het geven van de in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=4&z=2015-09-05&g=2015-09-05), bedoelde instructies en bij het toezicht op een goede uitvoering van dit besluit tot het nemen van die proportionele maatregelen die hen gepast voorkomen.
 
 ##### Artikel 6
 
@@ -98,7 +98,7 @@ Een medische verklaring en een medisch certificaat worden gesteld op een documen
 
 ##### Artikel 7
 
-1. Het in een document vastleggen van besluiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2013-04-08), of hetgeen op basis van een machtiging wordt verricht, geschiedt op briefpapier waarop het Rijkslogo is geplaatst.
+1. Het in een document vastleggen van besluiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2015-09-05), of hetgeen op basis van een machtiging wordt verricht, geschiedt op briefpapier waarop het Rijkslogo is geplaatst.
 
 2. De ondertekening van een document als bedoeld in het eerste lid luidt:
 
@@ -116,7 +116,7 @@ Een medische verklaring en een medisch certificaat worden gesteld op een documen
 
 ##### Artikel 8
 
-Het [Besluit mandaat medische verklaringen voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0024148&wetgeving) wordt ingetrokken.
+Het [Besluit mandaat medische verklaringen voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0024148) wordt ingetrokken.
 
 ##### Artikel 9
 
@@ -126,7 +126,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015.
 
-## Bijlage. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2013-04-08), van het Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015
+## Bijlage. bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2015-09-05), van het Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015
 
 ### A. Instanties
 
