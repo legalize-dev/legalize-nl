@@ -4,7 +4,7 @@ identifier: "BWBR0014919"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-01-01"
-last_updated: "2015-07-01"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014919"
 soort: "AMvB"
@@ -48,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder:
+1. In dit besluit wordt verstaan onder:
 
 - a. **Raad:** de Raad voor strafrechtstoepassing en jeugdbescherming;
 
-- b. **wet:** de [Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0011940);
+- b. **wet:** de[Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510);
 
 - c. **sectievoorzitter:** de voorzitter van een sectie, als bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=11);
 
@@ -63,6 +63,8 @@ In dit besluit wordt verstaan onder:
 - f. **beroepscommissie:** commissie aan wie de rechtsprekende taak van de Raad is opgedragen;
 
 - g. **vergadering:** plenaire vergadering van de Raad, vergadering van het bestuur, vergadering van een sectie, de vergadering van een preadviescommissie, de vergadering van de rechtspraakkamer en de vergadering van een beroepscommissie.
+
+2. Dit besluit berust op [artikel 8 van de Instellingswet Raad voor strafrechtstoepassing en jeugdbescherming 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036510&artikel=8).
 
 ##### Artikel 2
 
@@ -82,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 2. De voorzitter van de preadviescommissie ontvangt een vergoeding per vergadering van 130% van de hoogte van de vergoeding bedoeld in het eerste lid.
 
-3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2012-11-17&g=2015-07-01).
+3. De voorzitter en de leden van de preadviescommissie die een bezoek afleggen aan een plaats waar een vrijheidsstraf, vrijheidsbeperkende straf, vrijheidsbenemende maatregel of vrijheidsbeperkende maatregel ten wordt uitvoer gelegd, ontvangt per bezoek een vergoeding van gelijke hoogte als in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2015-09-09&g=2015-09-09).
 
 ##### Artikel 5
 
@@ -102,7 +104,7 @@ De leden en de plaatsvervangende leden van de Raad hebben overeenkomstig het [Re
 
 ##### Artikel 8
 
-De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2012-11-17&g=2015-07-01), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2012-11-17&g=2015-07-01), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
+De [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=3&z=2015-09-09&g=2015-09-09), en [4, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014919&artikel=4&z=2015-09-09&g=2015-09-09), zijn van overeenkomstige toepassing op de vergoeding van de werkzaamheden van personen als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011940&artikel=14).
 
 ##### Artikel 9
 
