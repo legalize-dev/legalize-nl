@@ -4,7 +4,7 @@ identifier: "BWBR0036995"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-01-01"
-last_updated: "2014-10-01"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036995"
 soort: "ministeriele-regeling"
@@ -52,7 +52,7 @@ Als personen belast met het toezicht op de naleving van de [Wet normering bezold
 
 ##### Artikel 2
 
-Het Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2012, nr. DWJZ-3147986, houdende aanwijzing toezichthouders Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector Volksgezondheid, Welzijn en Sport ([Besluit aanwijzing toezichthouders WNT/VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032594&wetgeving)) wordt ingetrokken.
+Het Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2012, nr. DWJZ-3147986, houdende aanwijzing toezichthouders Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector Volksgezondheid, Welzijn en Sport ([Besluit aanwijzing toezichthouders WNT/VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0032594)) wordt ingetrokken.
 
 ##### Artikel 3
 
