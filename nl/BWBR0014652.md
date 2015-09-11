@@ -4,7 +4,7 @@ identifier: "BWBR0014652"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-07-01"
-last_updated: "2011-11-30"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0014652"
 soort: "ministeriele-regeling"
@@ -66,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - **Maritieme Veiligheidscommissie:** de gelijknamige commissie van de Internationale Maritieme Organisatie van de Verenigde Naties;
 
-- **NEN-EN-ISO/IEC 17020 (2011):** de met de desbetreffende aanduiding overeenkomende norm, uitgegeven door het Nederlands Normalisatie-instituut te Delft;
+- **NEN-EN-ISO/IEC 17020:** NEN-EN-ISO/IEC 17020:2012 en: Europese norm voor Conformiteitsbeoordeling – Algemene criteria voor het functioneren van verschillende soorten instellingen die keuringen uitvoeren, maart 2012;
 
 - **richtlijn:** richtlijn nr. 2009/15/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 inzake gemeenschappelijke voorschriften en normen voor met de inspectie en controle van schepen belaste organisaties en voor de desbetreffende werkzaamheden van maritieme instanties (PbEG L 131);
 
@@ -96,11 +96,11 @@ Indien de erkenning van een organisatie op grond van de verordening wordt ingetr
 
 1. Een aanwijzing als klassenbureau kan met inachtneming van artikel 8 van de richtlijn worden geschorst of ingetrokken, indien door een handeling of nalatigheid van de aangewezen organisatie ernstig gevaar voor de veiligheid of het milieu is of kan ontstaan.
 
-2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2011-11-30&g=2011-11-30).
+2. Een aanwijzing kan voorts worden ingetrokken, indien niet meer wordt voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=3&z=2015-09-11&g=2015-09-11).
 
 ##### Artikel 6
 
-Eenbesluittot aanwijzing als bedoeld in de [artikelen 5a tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5a&z=2011-11-30&g=2011-11-30) kan worden ingetrokken, indien niet meer wordt voldaan aan de dienaangaande erkenningscriteria, dan wel indien bij de uitvoering niet meer wordt voldaan aan de daartoe gestelde eisen.
+Eenbesluittot aanwijzing als bedoeld in de [artikelen 5a tot en met 5h](https://wetten.overheid.nl/jci1.3:c:BWBR0014652&artikel=5a&z=2015-09-11&g=2015-09-11) kan worden ingetrokken, indien niet meer wordt voldaan aan de dienaangaande erkenningscriteria, dan wel indien bij de uitvoering niet meer wordt voldaan aan de daartoe gestelde eisen.
 
 ##### Artikel 7
 
@@ -124,7 +124,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 ##### Artikel 5b
 
-1. Als keuringsinstantie voor opblaasbare reddingmiddelen kunnen worden aangewezen rechtspersonen die voldoen aan de erkenningscriteria, opgenomen in Resolutie A.761(18) (Recommendation on conditions for the approval of servicing stations for inflatable liferafts) van de Algemene Vergadering.
+1. Als keuringsinstantie voor opblaasbare reddingmiddelen kunnen worden aangewezen rechtspersonen die voldoen aan de erkenningscriteria, opgenomen in Resolutie A.761(18) (Recommendation on conditions for the approval of servicing stations for inflatable liferafts), zoals gewijzigd op 17 november 2014 door resolutie MSC.388(94) van de Algemene Vergadering.
 
 2. In afwijking van het eerste lid voldoen rechtspersonen, die kunnen worden aangewezen door de bevoegde autoriteiten buiten het Koninkrijk, aan de ter plaatse gestelde erkenningcriteria.
 
@@ -156,7 +156,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 - d. de rechtspersoon heeft een verzekering afgesloten voor wettelijke aansprakelijkheid met een dekking van minimaal € 4.000.000.
 
-2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
+2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
@@ -172,7 +172,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 - d. de rechtspersoon heeft een verzekering afgesloten voor wettelijke aansprakelijkheid met een dekking van minimaal € 4.000.000.
 
-2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
+2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
 
 ##### Artikel 5f
 
@@ -212,7 +212,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 - f. de rechtspersoon is voor het doen van de onderzoeken door tenminste twee klassenbureaus aangewezen als onderaannemer.
 
-2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 (2011) of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
+2. De uitvoering van de onderzoeken geschiedt met inachtneming van NEN-EN-ISO/IEC 17020 of een daarmee vergelijkbaar kwaliteitsborgingssysteem.
 
 3. De aanwijzing tot keuringsinstantie voor radio-uitrusting heeft een geldigheidsduur van ten hoogste 5 jaar.
 
