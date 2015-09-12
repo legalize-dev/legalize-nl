@@ -4,7 +4,7 @@ identifier: "BWBR0034180"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-02-16"
-last_updated: "2015-07-01"
+last_updated: "2015-09-12"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0034180"
 soort: "ministeriele-regeling"
@@ -106,7 +106,7 @@ Deze regeling wordt aangehaald als: Kies- en referendumregeling.
 
 ### Model I 10. Ferbining kandidatelisten ta listkombinaasje
 
-### Model J 7
+### Model J 7. Stempas
 
 ### Model J 7
 
@@ -132,17 +132,19 @@ enz.6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte t
 
 ### Model L 8. ([Wrr 61](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=61)) Verzoek om bij volmacht te stemmen
 
-### Model L 11
+### Model L 11. Schriftelijk volmachtbewijs
 
 ### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
+### Model M 6-1. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+
 ### Model M 6-2. Briefstembewijs
 
-### Model M 6-3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Enveloppe voor het stembiljet
-
 Stembiljet (kleur wit)
+
+### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Proces-verbaal van een stembureau
 
 ### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Bijlage: aantal stemmen per lijst en kandidaat (bij verkiezingen)
 
@@ -190,13 +192,11 @@ Stembiljet (kleur wit)
 
 ### Model Ya 7. Begeleidingsverklaring bij stukken voor de kandidaatstelling
 
-### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
-
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2a
 
-De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2015-07-01&g=2015-07-01) bij artikel 2a van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=2&z=2015-09-12&g=2015-09-12) bij artikel 2a van deze regeling opgenomen eisen.
 
 ## Bijlage
 
@@ -204,15 +204,15 @@ De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](http
 
 U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is.
 
-### Model M 6-1. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) (kleur oranje, internationaal postformat EN-C5). Retourenveloppe voor het stemmen per brief
+### Model M 3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Verzoek om per brief te stemmen
 
 ¹ Indien de retourenveloppe bestemd is voor een kiezer die woont op Aruba, Curaçao of Sint Maarten, dan wel verblijft in een land waar een briefstembureau is gevestigd, wordt de enveloppe geadresseerd aan de Nederlandse Vertegenwoordiging, dan wel de voorzitter van het desbetreffende briefstembureau.
 
-### Model N 10-1. ([Wrr 66](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=66)) Proces-verbaal van een stembureau
+### Model M 6-3. ([Wrr 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=62)) Enveloppe voor het stembiljet
 
 Stembiljet (kleur wit)
 
-### Model Wrr 29-1. Inleidend verzoek
+### Model Ya 9. Begeleidingsverklaring bij stukken voor het herstel van verzuimen
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2014-10-14&g=2014-10-14) van de Kies- en referendumregeling
 
@@ -230,7 +230,7 @@ U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat 
 
 Stembiljet (kleur wit)
 
-### Model Wrr 29-2. Inleidend verzoek
+### Model Wrr 29-1. Inleidend verzoek
 
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-01-01&g=2015-01-01) van de Kies- en referendumregeling
 
@@ -240,11 +240,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ##### Artikel 2b
 
-De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2015-07-01&g=2015-07-01) van deze regeling opgenomen eisen.
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de in de [bijlage bij artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&bijlage=3&z=2015-09-12&g=2015-09-12) van deze regeling opgenomen eisen.
 
-## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+## Bijlage. bij [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=1&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
-De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:
+De stempas voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:
+
+### Model Wrr 29-2. Inleidend verzoek
 
 ### Model Wrr 37. Proces-verbaal van de beoordeling van het inleidend verzoek
 
@@ -262,8 +264,6 @@ De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart
 
 ### Model Wrr 116. Vaststelling van het aantal in een openbaar lichaam ingediende verzoeken tot het houden van een referendum (inleidend verzoek)
 
-### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
-
 ## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
@@ -271,6 +271,24 @@ De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart
 De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
 
 ## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-07-01&g=2015-07-01) van de Kies- en referendumregeling
+
+### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
+
+De programmatuur, bedoeld in [artikel 16 van het Besluit raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036521&artikel=16), ten behoeve van de berekening van de uitslag van het referendum, voldoet aan de volgende eisen:
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:
+
+### Model Wrr 118. Vaststelling van het aantal in een openbaar lichaam ingediende ondersteuningsverklaringen (definitief verzoek)
+
+## Bijlage 2. bij [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2a&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
+
+### Eisen aan de programmatuur die door de centrale stembureaus wordt gebruikt ten behoeve van de vaststelling van de uitslag van verkiezingen of de berekening van de zetelverdeling
+
+De programmatuur, bedoeld in [artikel P 1, eerste lid, van het Kiesbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004632&artikel=P_1), ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling, voldoet aan de volgende eisen:
+
+## Bijlage 3. bij [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0034180&artikel=2b&z=2015-09-12&g=2015-09-12) van de Kies- en referendumregeling
 
 ### Eisen aan de programmatuur die door het centraal stembureau wordt gebruikt ten behoeve van de berekening van de uitslag van het referendum
 
