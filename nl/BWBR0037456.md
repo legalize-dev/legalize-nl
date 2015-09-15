@@ -4,7 +4,7 @@ identifier: "BWBR0037456"
 country: "nl"
 rank: "wet"
 publication_date: "2021-01-01"
-last_updated: "2015-01-01"
+last_updated: "2015-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037456"
 soort: "wet"
@@ -104,7 +104,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVII
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Invorderingswet 1990.
 
 ##### Artikel XVIII
 
