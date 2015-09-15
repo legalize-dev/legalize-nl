@@ -4,7 +4,7 @@ identifier: "BWBR0037468"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2020-07-01"
-last_updated: "2015-06-12"
+last_updated: "2015-09-15"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037468"
 soort: "ministeriele-regeling"
@@ -167,8 +167,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XXV
 
