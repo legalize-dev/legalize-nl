@@ -4,7 +4,7 @@ identifier: "BWBR0007648"
 country: "nl"
 rank: "amvb"
 publication_date: "2022-08-27"
-last_updated: "2015-09-01"
+last_updated: "2015-09-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0007648"
 soort: "AMvB"
@@ -88,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 ##### Artikel 3
 
-In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2015-09-18&g=2015-09-01), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2015-09-18&g=2015-09-01), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
+In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2015-09-18&g=2015-09-18), kunnen degenen die de bevoegdheid hadden verkregen of waren toegelaten tot de uitoefening van een in artikel 104, vierde lid, van de wet genoemd beroep, dan wel de bevoegdheid hadden verkregen tot het voeren van de titel van verpleegkundige vóór het tijdstip waarop artikel 3, eerste lid, van de wet ten aanzien van het desbetreffende beroep in werking is getreden, bij de indiening van de aanvrage om inschrijving, behalve het in [artikel 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=2&z=2015-09-18&g=2015-09-18), bedoelde formulier, een fotokopie verstrekken van het getuigschrift of de beschikking waaraan zij de desbetreffende bevoegdheid of toelating ontlenen.
 
 ##### Artikel 4
 
@@ -138,9 +138,9 @@ Aan een ieder die dat verlangt, wordt meegedeeld hetgeen in het register staat a
 
 ##### Artikel 7
 
-1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2015-09-18&g=2015-09-01), bedoelde instanties.
+1. Van de totstandkoming van een inschrijving in een register met toepassing van [artikel 41, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en van de duur van die inschrijving of van de aard van de andere beperkingen die aan die inschrijving zijn verbonden, wordt kennis gegeven in de **Staatscourant** en, indien deze bekend zijn, aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2015-09-18&g=2015-09-18), bedoelde instanties.
 
-2. Van de doorhaling van een inschrijving die met toepassing van [artikel 42, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) is geschied, en van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2015-09-18&g=2015-09-01), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
+2. Van de doorhaling van een inschrijving die met toepassing van [artikel 42, tweede lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=42) is geschied, en van de doorhaling van een met toepassing van [artikel 41 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41) tot stand gekomen inschrijving op grond van het intreden of bekend worden van omstandigheden als bedoeld in [artikel 7, onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=7), ten aanzien van de betrokkene, wordt kennis gegeven aan de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007648&artikel=5&z=2015-09-18&g=2015-09-18), bedoelde instanties, in een of meer dag- of weekbladen die in het gebied waarin de betrokkene zijn beroep uitoefent, worden verspreid, in de Staatscourant en door middel van publicatie op daartoe bestemde websites op internet.
 
 ##### Artikel 8
 
@@ -158,10 +158,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 8a
 
-1. In dit artikel wordt verstaan onder transparantieregister: het register ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds een arts, apotheker, tandarts, verloskundige, of een verpleegkundige als bedoeld in [artikel 36, veertiende lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), gehouden door de Stichting Transparantieregister Zorg.
+1. In dit artikel wordt verstaan onder transparantieregister: het register, gehouden door de Stichting Transparantie Zorg, ter bevordering van de transparantie inzake financiële betrekkingen tussen enerzijds een arts, apotheker, tandarts, verloskundige, of een verpleegkundige als bedoeld in [artikel 36, veertiende lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=36), en anderzijds ondernemers als bedoeld in [artikel 82, eerste lid, onderdeel b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), de personen, bedoeld in de [artikelen 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=1), en [4, tweede en derde lid, van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=4), en de personen, bedoeld in de [artikelen 1, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=1), en [3, tweede lid, van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=3).
 
 2. Bij de verwerking van persoonsgegevens in het transparantieregister wordt het nummer, bedoeld in [artikel 3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), gebruikt door de rechtspersoon die het transparantieregister houdt.
 
-3. De ondernemers, bedoeld in het eerste lid, zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het register aan de rechtspersoon verstrekken, het in het tweede lid bedoelde nummer te vermelden van degene op wie de gegevens betrekking hebben.
+3. De ondernemers, bedoeld in [artikel 82, eerste lid, onderdeel b, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), de personen, bedoeld in de [artikelen 1, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=82), en [4, tweede en derde lid, van het Besluit medische hulpmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007307&artikel=4), en de personen, bedoeld in de [artikelen 1, eerste lid, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=1), en [3, tweede lid, van het Besluit in-vitro diagnostica](https://wetten.overheid.nl/jci1.3:c:BWBR0012610&artikel=3) zijn gehouden bij de gegevens inzake de in het eerste lid bedoelde financiële betrekkingen die zij ten behoeve van de vermelding in het register aan de rechtspersoon verstrekken, het in het tweede lid bedoelde nummer te vermelden van degene op wie de gegevens betrekking hebben.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
