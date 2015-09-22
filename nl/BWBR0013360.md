@@ -4,7 +4,7 @@ identifier: "BWBR0013360"
 country: "nl"
 rank: "amvb"
 publication_date: "2024-10-01"
-last_updated: "2014-12-13"
+last_updated: "2015-09-22"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0013360"
 soort: "AMvB"
@@ -40,15 +40,15 @@ Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en
 
 Gelet op de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=24), [32, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=32), en [artikel 39, derde lid, van de Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892&artikel=39), [artikel 3 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), [artikel 2c, derde lid, van de Wet rampen en zware ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0003765&artikel=2c) en de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) en [20 van de Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), [artikel 74c van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74c), [artikel 18, derde lid, van de Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798&artikel=18), artikel 9, vijfde lid, onder b, van de Wet wapens en munitie,
 
-voor zover het betreft [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.3&z=2014-12-13&g=2014-12-13), gelet op de [artikelen 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.2), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.5) en [8.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.7),
+voor zover het betreft [artikel 5.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.3&z=2015-09-22&g=2015-09-22), gelet op de [artikelen 8.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.2), [8.5](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.5) en [8.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.7),
 
-voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), [1.2.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2014-12-13&g=2014-12-13), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2014-12-13&g=2014-12-13), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2014-12-13&g=2014-12-13), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2014-12-13&g=2014-12-13), [2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2014-12-13&g=2014-12-13) en [5.1.9 tot en met 5.1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.9&z=2014-12-13&g=2014-12-13), gelet op de [artikelen 8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.19), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) en [8.41 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41),
+voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), [1.2.2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2015-09-22&g=2015-09-22), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2015-09-22&g=2015-09-22), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2015-09-22&g=2015-09-22), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-09-22&g=2015-09-22), [2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2015-09-22&g=2015-09-22) en [5.1.9 tot en met 5.1.14](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.9&z=2015-09-22&g=2015-09-22), gelet op de [artikelen 8.19](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.19), [8.40](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.40) en [8.41 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.41),
 
-voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), [1.2.2, eerste lid, onder b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2014-12-13&g=2014-12-13), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2014-12-13&g=2014-12-13), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2014-12-13&g=2014-12-13), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2014-12-13&g=2014-12-13), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2014-12-13&g=2014-12-13) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2014-12-13&g=2014-12-13), gelet op [artikel 8.44 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44),
+voor zover het betreft de [artikelen 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), [1.2.2, eerste lid, onder b, en tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2015-09-22&g=2015-09-22), [1.4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=4&artikel=1.4.3&z=2015-09-22&g=2015-09-22), [2.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2015-09-22&g=2015-09-22), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2015-09-22&g=2015-09-22), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2015-09-22&g=2015-09-22) en [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2015-09-22&g=2015-09-22), gelet op [artikel 8.44 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.44),
 
-voor zover het betreft de [artikelen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2014-12-13&g=2014-12-13), gelet op de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1) en [5.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.3), en
+voor zover het betreft de [artikelen 4.1 tot en met 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.1&z=2015-09-22&g=2015-09-22), gelet op de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1) en [5.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.3), en
 
-voor zover het betreft [artikel 5.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.6&z=2014-12-13&g=2014-12-13), gelet op [artikel 18.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4);
+voor zover het betreft [artikel 5.1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=1&artikel=5.1.6&z=2015-09-22&g=2015-09-22), gelet op [artikel 18.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4);
 
 De Raad van State gehoord (advies van 13 december 2001, nr. W08.01.0495/V);
 
@@ -102,29 +102,29 @@ Hebben goedgevonden en verstaan:
 
 - bouwstrook: gedeelte van het perceel dat op grond van het voor het betrokken gebied geldende bestemmingsplan dan wel de daarvoor geldende beheersverordening voor de bouw van een beperkt kwetsbaar of kwetsbaar object is bestemd;
 
-- categorie 1, 2, 3 en 4: categorie 1, 2, 3 onderscheidenlijk 4 als bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13);
+- Categorie F1, F2, F3 en F4: categorie F1, F2, F3 onderscheidenlijk F4 als bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22);
 
-- categorie T1 en T2: categorie T1 onderscheidenlijk T2 als bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13);
+- categorie T1 en T2: categorie T1 onderscheidenlijk T2 als bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22);
 
-- CE-markering: CE-markering, bedoeld in artikel 11 en bijlage IV van de EG-richtlijn pyrotechnische artikelen;
+- CE-markering: CE-markering als bedoeld in de artikelen 19 en 20 van de EU-richtlijn pyrotechnische artikelen;
 
-- consumentenvuurwerk: vuurwerk dat is ingedeeld in categorie 1, 2 of 3 en dat bij of krachtens dit besluit is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik;
+- consumentenvuurwerk: vuurwerk dat is ingedeeld in categorie F1, F2 of F3 en dat bij of krachtens dit besluit is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik;
 
-- distributeur: natuurlijke of rechtspersoon in de leveringsketen die in de uitoefening van zijn bedrijf een pyrotechnisch artikel op de markt beschikbaar maakt;
+- distributeur: natuurlijk of rechtspersoon in de toeleveringsketen, niet zijnde de fabrikant of de importeur, die vuurwerk of pyrotechnische artikelen voor theatergebruik op de markt aanbiedt;
 
-- EG-richtlijn pyrotechnische artikelen: richtlijn nr. 2007/23/EG van het Europees Parlement en de Raad van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154);
+- EU-richtlijn pyrotechnische artikelen: richtlijn nr. 2013/29/EU van het Europees Parlement en de Raad van 12 juni 2013 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van pyrotechnische artikelen (herschikking) (PbEU L 178);
 
-- fabrikant: natuurlijke of rechtspersoon die een pyrotechnisch artikel ontwerpt, fabriceert of laat ontwerpen of fabriceren, met de bedoeling het in de handel brengen, onder zijn eigen naam of handelsmerk;
+- fabrikant: natuurlijke of rechtspersoon die vuurwerk of een pyrotechnisch artikel voor theatergebruik vervaardigt of laat ontwerpen of vervaardigen en dat vuurwerk of pyrotechnische artikel voor theatergebruik onder zijn naam of merknaam verhandelt;
 
-- fop- en schertsvuurwerk: consumentenvuurwerk dat is ingedeeld in categorie 1 alsmede ander, als zodanig bij ministeriële regeling aangewezen consumentenvuurwerk;
+- fop- en schertsvuurwerk: consumentenvuurwerk dat is ingedeeld in categorie F1 alsmede ander, als zodanig bij ministeriële regeling aangewezen consumentenvuurwerk;
 
 - geprojecteerd beperkt kwetsbaar of kwetsbaar object: nog niet aanwezig beperkt kwetsbaar of kwetsbaar object dat op grond van het voor het betrokken gebied geldende bestemmingsplan dan wel de daarvoor geldende beheersverordening toelaatbaar is;
 
 - grondgebied van de Europese Unie: gebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is;
 
-- importeur: op het grondgebied van de Europese Unie gevestigde natuurlijke of rechtspersoon die in de uitoefening van zijn bedrijf een uit een derde land afkomstig pyrotechnisch artikel voor het eerst op de gemeenschapsmarkt beschikbaar maakt;
+- importeur: in de Europese Unie gevestigde natuurlijke of rechtspersoon die vuurwerk of een pyrotechnisch artikel voor theatergebruik uit een derde land in de Europese Unie in de handel brengt;
 
-- in de handel brengen: voor de eerste keer op het grondgebied van de Europese Unie in de handel beschikbaar stellen, al dan niet tegen betaling, van een afzonderlijk product, met het oog op distributie of gebruik ervan;
+- in de handel brengen: het voor het eerst in de Europese Unie op de markt aanbieden van vuurwerk of een pyrotechnisch artikel voor theatergebruik;
 
 - inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;
 
@@ -156,25 +156,31 @@ Hebben goedgevonden en verstaan:
 
 - luchthaven: luchthaven als bedoeld in de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555);
 
+- Marktdeelnemers: fabrikant, importeur en distributeur;
+
 - NEM: netto explosieve massa, zijnde de totale hoeveelheid pyrotechnische stof of preparaat, met eventuele toevoegingen, in vuurwerk of pyrotechnische artikelen voor theatergebruik;
 
-- ontbrandingstoestemming: toestemming als bedoeld in [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- ontbrandingstoestemming: toestemming als bedoeld in [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
-- persoon met gespecialiseerde kennis: persoon, aangewezen bij [artikel 1.1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.2a&z=2014-12-13&g=2014-12-13);
+- Op de markt aanbieden: het in het kader van een handelsactiviteit, al dan niet tegen betaling, verstrekken van vuurwerk of een pyrotechnisch artikel voor theatergebruik met het oog op distributie, consumptie of gebruik op de markt van de Unie;
+
+- persoon met gespecialiseerde kennis: persoon, aangewezen bij [artikel 1.1.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.2a&z=2015-09-22&g=2015-09-22);
 
 - primaire verpakking: verpakking waarin zich meer dan één exemplaar bevindt van eenzelfde type vuurwerk, bedoeld om in zijn geheel aan de particulier ter beschikking te worden gesteld;
 
-- professioneel vuurwerk: vuurwerk dat is ingedeeld in categorie 4 alsmede vuurwerk dat is ingedeeld in categorie 2 of 3 en dat niet bij of krachtens dit besluit is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik;
+- professioneel vuurwerk: vuurwerk dat is ingedeeld in categorie F4 alsmede vuurwerk dat is ingedeeld in categorie F2 of F3 en dat niet bij of krachtens dit besluit is aangewezen als vuurwerk dat ter beschikking mag worden gesteld voor particulier gebruik;
 
 - pyrotechnisch artikel: artikel dat explosieve stoffen of een explosief mengsel van stoffen bevat die tot doel hebben warmte, licht, geluid, gas of rook dan wel een combinatie van dergelijke verschijnselen te produceren door middel van zichzelf onderhoudende exotherme chemische reacties;
 
 - pyrotechnische artikelen voor theatergebruik: pyrotechnische artikelen die bestemd zijn voor binnenshuis of buitenshuis plaatsvindend podiumgebruik, met inbegrip van film- en TV-producties of soortgelijke vormen van gebruik;
 
+- Richtlijn 2007/23/EG: Richtlijn 2007/23/EG van het Europees Parlement en de Raad van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen (PbEU L 154);
+
 - theatervuurwerk: met het oog op de opslag ervan door Onze Minister aangewezen pyrotechnische artikelen voor theatergebruik, ingedeeld in categorie T1 of categorie T2;
 
-- toepassingsvergunning: vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- toepassingsvergunning: vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
-- veiligheidsafstand: afstand die met het oog op de kwaliteit van het milieu voor zover het betreft externe veiligheid ten minste moet zijn gelegen tussen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) en [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13), of een onderdeel van een zodanige inrichting, dan wel een zodanige inrichting waarvoor het geldende bestemmingsplan dan wel de daarvoor geldende beheersverordening verlening van een vergunning voor het bouwen daarvan als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) toelaat enerzijds en beperkt kwetsbare of kwetsbare objecten en geprojecteerde beperkt kwetsbare of kwetsbare objecten anderzijds;
+- veiligheidsafstand: afstand die met het oog op de kwaliteit van het milieu voor zover het betreft externe veiligheid ten minste moet zijn gelegen tussen een inrichting als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) en [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22), of een onderdeel van een zodanige inrichting, dan wel een zodanige inrichting waarvoor het geldende bestemmingsplan dan wel de daarvoor geldende beheersverordening verlening van een vergunning voor het bouwen daarvan als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) toelaat enerzijds en beperkt kwetsbare of kwetsbare objecten en geprojecteerde beperkt kwetsbare of kwetsbare objecten anderzijds;
 
 - vuurwerk: pyrotechnische artikelen ter vermaak;
 
@@ -194,11 +200,11 @@ Hebben goedgevonden en verstaan:
 
 3. Onder professioneel vuurwerk wordt mede verstaan: een door Onze Minister aangewezen stof of een preparaat, een voorwerp of een onderdeel van een voorwerp dan wel een stof of een preparaat, een voorwerp of een onderdeel van een voorwerp dat behoort tot een door Onze Minister bij ministeriële regeling aangewezen categorie, voor zover die stof of dat preparaat, dat voorwerp of dat onderdeel van een voorwerp kennelijk is bestemd of wordt gebruikt om voor vermakelijkheidsdoeleinden effecten te bewerkstelligen.
 
-4. Voor de toepassing van de [artikelen 1.2.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2014-12-13&g=2014-12-13), [2.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2014-12-13&g=2014-12-13)[2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2014-12-13&g=2014-12-13), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2014-12-13&g=2014-12-13), [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2014-12-13&g=2014-12-13) wordt onder het begrip particulier mede verstaan een exploitant van een bedrijf zonder rechtspersoonlijkheid of een rechtspersoon die:
+4. Voor de toepassing van de [artikelen 1.2.2, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2015-09-22&g=2015-09-22), [2.1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2015-09-22&g=2015-09-22)[2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2015-09-22&g=2015-09-22), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2015-09-22&g=2015-09-22), [2.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.4&z=2015-09-22&g=2015-09-22) wordt onder het begrip particulier mede verstaan een exploitant van een bedrijf zonder rechtspersoonlijkheid of een rechtspersoon die:
 
-- a. geen inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13);
+- a. geen inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22);
 
-- b. geen houder is van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- b. geen houder is van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
 - c. in het buitenland is gevestigd en wiens bedrijfsmatige activiteit niet bestaat uit het verhandelen van of het tot ontbranding brengen van vuurwerk.
 
@@ -216,8 +222,6 @@ Hebben goedgevonden en verstaan:
 
 - f. maatwerkvoorschrift: maatwerkvoorschrift als bedoeld in [artikel 1.2 van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=1.2).
 
-6. Door de fabrikant voor eigen gebruik vervaardigd vuurwerk waarvan het gebruik op zijn grondgebied door een lidstaat van de Europese Unie is goedgekeurd, wordt niet geacht in de handel te zijn gebracht.
-
 ##### Artikel 1.1.2
 
 Vervallen
@@ -232,11 +236,13 @@ Dit besluit is van toepassing op vuurwerk en pyrotechnische artikelen voor theat
 
 - c. vuurwerk en pyrotechnische artikelen voor theatergebruik die in het kader van internationaal vervoer per zeeschip of vliegtuig binnen het grondgebied van Nederland worden gebracht en niet in Nederland worden gelost of rechtstreeks worden overgeladen naar een ander zeeschip onderscheidenlijk vliegtuig;
 
-- d. vuurwerk waarvoor regels zijn gesteld bij het [Warenwetbesluit Speelgoed](https://wetten.overheid.nl/jci1.3:c:BWBR0005094).
+- d. vuurwerk waarvoor regels zijn gesteld bij het [Warenwetbesluit Speelgoed 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0029619);
+
+- e. vuurwerk dat door een fabrikant voor eigen gebruik is vervaardigd en dat door Onze Minister uitsluitend voor gebruik op zijn grondgebied is goedgekeurd en dat op het grondgebied van Nederland blijft.
 
 ##### Artikel 1.1.4
 
-1. De [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2014-12-13&g=2014-12-13) en [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13) zijn niet van toepassing op de opslag van vuurwerk of pyrotechnische artikelen voor theatergebruik in inrichtingen waarvoor een omgevingsvergunning is verleend die betrekking heeft op de opslag van vuurwerk of pyrotechnische artikelen voor theatergebruik, voor zover deze plaatsvindt gedurende ten hoogste 48 uur te rekenen vanaf het moment van opslaan en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van de artikelen en de overbrenging daarvan naar een andere vervoersmodaliteit dan waarlangs de artikelen zijn ontvangen, voor zover daadwerkelijk in aansluitend vervoer is voorzien en het betrokken artikel in de oorspronkelijke verpakking blijft.
+1. De [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22), [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2015-09-22&g=2015-09-22) en [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22) zijn niet van toepassing op de opslag van vuurwerk of pyrotechnische artikelen voor theatergebruik in inrichtingen waarvoor een omgevingsvergunning is verleend die betrekking heeft op de opslag van vuurwerk of pyrotechnische artikelen voor theatergebruik, voor zover deze plaatsvindt gedurende ten hoogste 48 uur te rekenen vanaf het moment van opslaan en in afwachting van aansluitend vervoer naar een vooraf bekende ontvanger, met inbegrip van het laden en lossen van de artikelen en de overbrenging daarvan naar een andere vervoersmodaliteit dan waarlangs de artikelen zijn ontvangen, voor zover daadwerkelijk in aansluitend vervoer is voorzien en het betrokken artikel in de oorspronkelijke verpakking blijft.
 
 2. Voor de berekening van de in het eerste lid bedoelde termijn van 48 uur worden zaterdagen, zondagen en algemeen erkende feestdagen in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) niet meegerekend.
 
@@ -244,7 +250,7 @@ Dit besluit is van toepassing op vuurwerk en pyrotechnische artikelen voor theat
 
 ##### Artikel 1.1.5
 
-De [artikelen 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2014-12-13&g=2014-12-13), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2014-12-13&g=2014-12-13), [3A.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=3&artikel=3A.3.1&z=2014-12-13&g=2014-12-13) en [3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13) zijn niet van toepassing op instellingen die vuurwerk of pyrotechnische artikelen voor theatergebruik bedrijfsmatig en uitsluitend ten behoeve van onderzoek tot ontbranding brengen.
+De [artikelen 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2015-09-22&g=2015-09-22), [3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.1&z=2015-09-22&g=2015-09-22), [3A.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=3&artikel=3A.3.1&z=2015-09-22&g=2015-09-22) en [3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22) zijn niet van toepassing op instellingen die vuurwerk of pyrotechnische artikelen voor theatergebruik bedrijfsmatig en uitsluitend ten behoeve van onderzoek tot ontbranding brengen.
 
 ##### Artikel 1.1.6
 
@@ -274,7 +280,7 @@ Vervallen
 
 - c. voorwerpen, vervoermiddelen, stoffen, gelden of andere betaalmiddelen voorhanden te hebben, waarvan hij weet of ernstige reden heeft te vermoeden dat zij bestemd zijn tot het verrichten van die handelingen.
 
-6. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten het grondgebied van Nederland te brengen zonder dat het voornemen daartoe met inachtneming van [artikel 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2014-12-13&g=2014-12-13) is gemeld.
+6. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten het grondgebied van Nederland te brengen zonder dat het voornemen daartoe met inachtneming van [artikel 1.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2015-09-22&g=2015-09-22) is gemeld.
 
 7. Van bestemd voor particulier gebruik als bedoeld in het eerste lid is in ieder geval sprake indien:
 
@@ -290,31 +296,31 @@ Vervallen
 
 ##### Artikel 1.2.3
 
-Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten een daartoe bestemde inrichting te vervaardigen of, behoudens het bepaalde in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), te bewerken.
+Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten een daartoe bestemde inrichting te vervaardigen of, behoudens het bepaalde in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), te bewerken.
 
 ##### Artikel 1.2.4
 
 1. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden te hebben buiten een inrichting als bedoeld in:
 
-- a. [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13);
+- a. [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22);
 
-- b. [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13) waarvoor een omgevingsvergunning is verleend die betrekking heeft op de opslag van vuurwerk;
+- b. [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22) waarvoor een omgevingsvergunning is verleend die betrekking heeft op de opslag van vuurwerk;
 
-- c. [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13) waarvoor een melding is gedaan krachtens [artikel 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2014-12-13&g=2014-12-13).
+- c. [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22) waarvoor een melding is gedaan krachtens [artikel 2.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2015-09-22&g=2015-09-22).
 
 2. Het eerste lid is niet van toepassing:
 
-- a. tijdens de perioden dat consumentenvuurwerk ingevolge [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2014-12-13&g=2014-12-13) ter beschikking mag worden gesteld of ingevolge [artikel 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2014-12-13&g=2014-12-13) tot ontbranding mag worden gebracht, indien niet meer dan 25 kilogram consumentenvuurwerk voorhanden is;
+- a. tijdens de perioden dat consumentenvuurwerk ingevolge [artikel 2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2015-09-22&g=2015-09-22) ter beschikking mag worden gesteld of ingevolge [artikel 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2015-09-22&g=2015-09-22) tot ontbranding mag worden gebracht, indien niet meer dan 25 kilogram consumentenvuurwerk voorhanden is;
 
 - b. buiten de perioden, bedoeld onder a, indien niet meer dan 25 kilogram consumentenvuurwerk voorhanden is op een plaats die niet voor het publiek toegankelijk is;
 
-- c. tijdens het tot ontbranding brengen van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), alsmede gedurende ten hoogste zestien uur daaraan voorafgaand, met dien verstande dat niet meer vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden zijn dan redelijkerwijs tot ontbranding zullen worden gebracht;
+- c. tijdens het tot ontbranding brengen van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), alsmede gedurende ten hoogste zestien uur daaraan voorafgaand, met dien verstande dat niet meer vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden zijn dan redelijkerwijs tot ontbranding zullen worden gebracht;
 
-- d. gedurende ten hoogste 12 uur nadat is of zou worden aangevangen met het tot ontbranding van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13) en het vuurwerk of de pyrotechnische artikelen voor theatergebruik voorhanden zijn op een plaats die niet voor het publiek toegankelijk is en op een zodanige wijze dat geen gevaar voor personen is te duchten, met dien verstande dat niet meer vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden zijn dan redelijkerwijs tot ontbranding zouden worden gebracht.
+- d. gedurende ten hoogste 12 uur nadat is of zou worden aangevangen met het tot ontbranding van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22) en het vuurwerk of de pyrotechnische artikelen voor theatergebruik voorhanden zijn op een plaats die niet voor het publiek toegankelijk is en op een zodanige wijze dat geen gevaar voor personen is te duchten, met dien verstande dat niet meer vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden zijn dan redelijkerwijs tot ontbranding zouden worden gebracht.
 
 3. Gedeputeerde staten van de provincie waarin het professioneel vuurwerk of de pyrotechnische artikelen voor theatergebruik tot ontbranding zullen worden gebracht kunnen bij de ontbrandingstoestemming in plaats van de tijdsduur, genoemd in het tweede lid, onder c, een andere tijdsduur vaststellen.
 
-4. Het eerste lid is tevens niet van toepassing indien het vuurwerk of de pyrotechnische artikelen voor theatergebruik worden vervoerd overeenkomstig de eisen gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) en met inachtneming van [artikel 1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2014-12-13&g=2014-12-13).
+4. Het eerste lid is tevens niet van toepassing indien het vuurwerk of de pyrotechnische artikelen voor theatergebruik worden vervoerd overeenkomstig de eisen gesteld bij of krachtens de [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606) en met inachtneming van [artikel 1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2015-09-22&g=2015-09-22).
 
 ##### Artikel 1.2.5
 
@@ -322,13 +328,13 @@ Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten 
 
 - a. het laten staan en het laten liggen van een vervoermiddel waarin of waarop zich vuurwerk of pyrotechnische artikelen voor theatergebruik bevinden, in verband met:
 
-- 1°. de toepassing van [artikel 1.2.4, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2014-12-13&g=2014-12-13),
+- 1°. de toepassing van [artikel 1.2.4, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2015-09-22&g=2015-09-22),
 
 - 2°. een wettelijk voorschrift dat dat voorschrijft in verband met weersomstandigheden.
 
 - b. het ononderbroken beladen van een vervoermiddel met vuurwerk of pyrotechnische artikelen voor theatergebruik en het ononderbroken lossen daaruit, of
 
-- c. het in inrichtingen als bedoeld in [artikel 1.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13):
+- c. het in inrichtingen als bedoeld in [artikel 1.1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22):
 
 - 1°. laten staan en laten liggen van een vervoermiddel waarin of waarop zich vuurwerk of pyrotechnische artikelen voor theatergebruik bevinden,
 
@@ -340,9 +346,9 @@ Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik buiten 
 
 - a. die ingevolge het bij of krachtens dit besluit bepaalde, dit vuurwerk of deze pyrotechnische artikelen voor theatergebruik mag opslaan,
 
-- b. die houder is van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), of
+- b. die houder is van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), of
 
-- c. wiens gegevens, als het vuurwerk of pyrotechnische artikelen voor theatergebruik buiten het grondgebied van Nederland worden gebracht, zijn verstrekt bij de melding, bedoeld in [artikel 1.3.2, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2014-12-13&g=2014-12-13).
+- c. wiens gegevens, als het vuurwerk of pyrotechnische artikelen voor theatergebruik buiten het grondgebied van Nederland worden gebracht, zijn verstrekt bij de melding, bedoeld in [artikel 1.3.2, vierde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.2&z=2015-09-22&g=2015-09-22).
 
 ##### Artikel 1.2.6
 
@@ -372,7 +378,7 @@ Het is een ieder die anders dan beroepshalve vuurwerk of pyrotechnische artikele
 
 2. Degene die het vuurwerk of pyrotechnische artikelen voor theatergebruik opslaat draagt ervoor zorg dat op artikelen die verpakt worden opgeslagen de aanduiding van de klasse waarin de artikelen volgens bijlage A van het ADR zijn ingedeeld als vuurwerk aanwezig is en blijft en dat hij in het bezit is van de schriftelijke verklaring, bedoeld in het eerste lid, onder b.
 
-3. Het eerste lid, onder c , is niet van toepassing op vuurwerk of pyrotechnische artikelen voor theatergebruik waarvan op het moment dat deze artikelen binnen het grondgebied van Nederland worden gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van «48 uur» gelezen: twee weken.
+3. Het eerste lid, onder c , is niet van toepassing op vuurwerk of pyrotechnische artikelen voor theatergebruik waarvan op het moment dat deze artikelen binnen het grondgebied van Nederland worden gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van «48 uur» gelezen: twee weken.
 
 ##### Artikel 1.3.2
 
@@ -380,7 +386,7 @@ Het is een ieder die anders dan beroepshalve vuurwerk of pyrotechnische artikele
 
 2. In afwijking van het eerste lid is het degene die consumentenvuurwerk in de periode van 15 december tot 1 januari binnen of buiten het grondgebied van Nederland brengt, toegestaan het voornemen hiertoe ten minste 24 uur van te voren elektronisch bij Onze Minister te melden.
 
-3. In afwijking van het eerste lid is het binnen 24 uur nadat is of zou worden aangevangen met het tot ontbranding brengen van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), toegestaan de resterende artikelen buiten het grondgebied van Nederland te brengen zonder voorafgaande melding, met dien verstande dat binnen een werkdag na het buiten het grondgebied van Nederland brengen van de artikelen, door degene die de artikelen buiten Nederland heeft gebracht een melding aan Onze Minister wordt gedaan.
+3. In afwijking van het eerste lid is het binnen 24 uur nadat is of zou worden aangevangen met het tot ontbranding brengen van professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik overeenkomstig [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), toegestaan de resterende artikelen buiten het grondgebied van Nederland te brengen zonder voorafgaande melding, met dien verstande dat binnen een werkdag na het buiten het grondgebied van Nederland brengen van de artikelen, door degene die de artikelen buiten Nederland heeft gebracht een melding aan Onze Minister wordt gedaan.
 
 4. Bij de melding worden in ieder geval de volgende gegevens verstrekt:
 
@@ -444,7 +450,7 @@ meldt voordat de terbeschikkingstelling plaatsvindt elektronisch het voornemen h
 
 ##### Artikel 1.4.3
 
-1. Degene die een inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13) draagt er zorg voor dat burgemeester en wethouders en de burgemeester van de gemeente waarin de inrichting is gelegen, en het bestuur van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de volgende actuele gegevens:
+1. Degene die een inrichting drijft als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), [2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22) draagt er zorg voor dat burgemeester en wethouders en de burgemeester van de gemeente waarin de inrichting is gelegen, en het bestuur van de regionale brandweer, bij de toegang tot de inrichting direct toegang hebben tot in ieder geval de volgende actuele gegevens:
 
 - a. de classificatie van het vuurwerk of de pyrotechnische artikelen voor theatergebruik volgens het ADR en de opgeslagen hoeveelheid verpakt en onverpakt vuurwerk of pyrotechnische artikelen voor theatergebruik in kilogrammen;
 
@@ -452,7 +458,7 @@ meldt voordat de terbeschikkingstelling plaatsvindt elektronisch het voornemen h
 
 - c. de plaats waar de artikelen binnen de inrichting zijn opgeslagen.
 
-2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die in een inrichting professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden heeft die zijn aangewezen ingevolge [artikel 1.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2014-12-13&g=2014-12-13).
+2. Het eerste lid is van overeenkomstige toepassing ten aanzien van degene die in een inrichting professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik voorhanden heeft die zijn aangewezen ingevolge [artikel 1.1.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2015-09-22&g=2015-09-22).
 
 ### Hoofdstuk 2. Consumentenvuurwerk
 
@@ -466,7 +472,7 @@ Bij regeling van Onze Minister wordt vuurwerk aangewezen dat ter beschikking mag
 
 1. Verpakt consumentenvuurwerk is bij het opslaan en het voorhanden hebben anders dan door particulieren, op zodanige wijze verpakt dat het volgens bijlage A van het ADR, uitsluitend kan worden aangemerkt als vuurwerk behorende tot klasse 1.4G of 1.4S.
 
-2. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van «48 uur» gelezen: twee weken.
+2. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van «48 uur» gelezen: twee weken.
 
 ##### Artikel 2.1.3
 
@@ -476,17 +482,17 @@ Bij regeling van Onze Minister wordt vuurwerk aangewezen dat ter beschikking mag
 
 - b. een vermelding of afbeelding van de soort van het vuurwerk waaruit duidelijk blijkt wat de te verwachten effecten tijdens het functioneren zijn;
 
-- c. de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de fabrikant;
+- c. de naam, de geregistreerde handelsnaam of de geregistreerde merknaam van de fabrikant en één postadres waarop contact met hem kan worden opgenomen;
 
-- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de importeur;
+- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de gegevens, genoemd onder c, en de naam, geregistreerde handelsnaam of geregistreerde merknaam van de importeur en het postadres waarop contact met hem kan worden opgenomen;
 
-- e. indien de importeur niet in Nederland is gevestigd: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
+- e. indien de importeur niet in Nederland is gevestigd: de gegevens, genoemd onder c en d, en de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
 
-- f. de naam en het type van het artikel, het door de fabrikant bij de vervaardiging toegekende artikelnummer dat dient ter identificatie van het vuurwerk en, voor zover het vuurwerk betreft dat is ingedeeld in categorie 3, het productiejaar van het vuurwerk;
+- f. de naam en het type van het artikel, het door de fabrikant bij de vervaardiging toegekende artikelnummer dat dient ter identificatie van het vuurwerk en, voor zover het vuurwerk betreft dat is ingedeeld in categorie F3, het productiejaar van het vuurwerk, het registratienummer en het product-, partij- of serienummer van het product;
 
-- g. de minimumleeftijd voor het verkopen of anderszins ter beschikking stellen van het consumentenvuurwerk, bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2014-12-13&g=2014-12-13);
+- g. de minimumleeftijd voor het verkopen of anderszins ter beschikking stellen van het consumentenvuurwerk, bedoeld in [artikel 2.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.5&z=2015-09-22&g=2015-09-22);
 
-- h. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13), waartoe het consumentenvuurwerk behoort;
+- h. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22), waartoe het consumentenvuurwerk behoort;
 
 - i. de NEM;
 
@@ -494,19 +500,19 @@ Bij regeling van Onze Minister wordt vuurwerk aangewezen dat ter beschikking mag
 
 2. Consumentenvuurwerk is voorts voorzien van de volgende informatie:
 
-voor zover het betreft categorie 1: in voorkomend geval: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand;
+voor zover het betreft categorie F1: in voorkomend geval: «uitsluitend buitenshuis te gebruiken» en een minimale veiligheidsafstand;
 
-voor zover het betreft categorie 2: «uitsluitend buitenshuis te gebruiken» en, in voorkomend geval, de minimale veiligheidsafstand(en);
+voor zover het betreft categorie F2: «uitsluitend buitenshuis te gebruiken» en, in voorkomend geval, een minimale veiligheidsafstand(en);
 
-voor zover het betreft categorie 3: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand(en).
+voor zover het betreft categorie F3: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand(en).
 
-3. Het eerste en tweede lid gelden niet voor consumentenvuurwerk van geringe afmeting, mits dat vuurwerk zich in een primaire verpakking bevindt waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht.
+3. Het eerste en tweede lid gelden niet voor consumentenvuurwerk van geringe afmeting, mits dat vuurwerk zich in een primaire verpakking bevindt waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht. De gegevens, bedoeld in het eerste lid, onder c, d en e, worden, indien vermelding op het vuurwerk niet mogelijk is, vermeld op een bij het vuurwerk gevoegd document.
 
-4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse taal gesteld, zichtbaar, leesbaar en onuitwisbaar.
+4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse taal gesteld, zichtbaar, leesbaar, duidelijk, begrijpelijk en onuitwisbaar.
 
-5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op consumentenvuurwerk dat zal worden verkocht in een andere lidstaat van de Europese Unie gesteld in de officiële taal of talen van het desbetreffende land.
+5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op consumentenvuurwerk dat aan de consument zal worden aangeboden in een andere lidstaat van de Europese Unie gesteld in de officiële taal of talen van het desbetreffende land.
 
-6. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van «48 uur» gelezen: twee weken.
+6. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van «48 uur» gelezen: twee weken.
 
 7. Consumentenvuurwerk is voorts voorzien van de informatie waartoe met betrekking tot vuurwerk is besloten met toepassing van artikel 18, eerste lid, onder c, van de EG-richtlijn pyrotechnische artikelen. Indien de informatie, bedoeld in de eerste volzin, zou afwijken van het bepaalde in het eerste of tweede lid, blijft het in die leden bepaalde in zoverre buiten toepassing. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
 
@@ -518,7 +524,7 @@ Het is verboden vuurwerk dat niet voldoet aan de ter uitwerking van dit besluit 
 
 ##### Artikel 2.2.1
 
-1. Degene die een inrichting drijft, waar consumentenvuurwerk wordt opgeslagen, herverpakt of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 1, onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2014-12-13&g=2014-12-13), en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13). Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
+1. Degene die een inrichting drijft, waar consumentenvuurwerk wordt opgeslagen, herverpakt of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 1, onder A, B en C](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2015-09-22&g=2015-09-22), en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22). Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
 
 2. Indien een inrichting tot een krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1) aangewezen categorie behoort, niet uitsluitend omdat daarin vuurwerk wordt opgeslagen, geldt een voor de inrichting verleende omgevingsvergunning ook voor het oprichten, in werking hebben of veranderen van de inrichting, dan wel het veranderen van de werking daarvan, voor zover dit oprichten, in werking hebben of veranderen dan wel veranderen van de werking betrekking heeft op het opslaan van vuurwerk.
 
@@ -528,7 +534,7 @@ Vervallen
 
 ##### Artikel 2.2.3
 
-1. Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2014-12-13&g=2014-12-13), onder B, opgenomen voorschrift, voor zover dat bij het voorschrift is aangegeven.
+1. Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2015-09-22&g=2015-09-22), onder B, opgenomen voorschrift, voor zover dat bij het voorschrift is aangegeven.
 
 2. De maatwerkvoorschriften gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de maatwerkvoorschriften worden nageleefd.
 
@@ -540,7 +546,7 @@ Vervallen
 
 1. Degene die een inrichting opricht waar ten hoogste 10.000 kilogram consumentenvuurwerk wordt opgeslagen, meldt dit ten minste vier weken voor de oprichting schriftelijk aan het bevoegd gezag. Het bevoegd gezag zendt onverwijld een afschrift van de melding aan Onze Minister en aan het bestuur van de regionale brandweer. De verzending van het afschrift aan Onze Minister geschiedt langs elektronische weg. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop het afschrift wordt verzonden.
 
-2. Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), en het veranderen van de werking daarvan.
+2. Het eerste lid is van overeenkomstige toepassing met betrekking tot het veranderen van een inrichting, als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), en het veranderen van de werking daarvan.
 
 3. Bij de meldingen worden vermeld:
 
@@ -562,7 +568,7 @@ Vervallen
 
 ##### Artikel 2.2.5
 
-Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2014-12-13&g=2014-12-13), onderscheidenlijk een afschrift van een verleende omgevingsvergunning aan Onze Minister.
+Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.4&z=2015-09-22&g=2015-09-22), onderscheidenlijk een afschrift van een verleende omgevingsvergunning aan Onze Minister.
 
 #### § 3. Verkoop en tot ontbranding brengen van consumentenvuurwerk
 
@@ -570,7 +576,7 @@ Het bevoegd gezag zendt een afschrift van een melding als bedoeld in [artikel 2.
 
 Het is verboden consumentenvuurwerk voor handelsdoeleinden ter beschikking te stellen aan een ander dan:
 
-- a. degene die een inrichting drijft als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13);
+- a. degene die een inrichting drijft als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22);
 
 - b. een in het buitenland gevestigde ondernemer wiens bedrijfsmatige activiteit bestaat uit het verhandelen van vuurwerk en die gerechtigd is het vuurwerk op te slaan of te bewerken, dan wel, indien de betrokken persoon het vuurwerk tot ontbranding zal brengen, gerechtigd is het vuurwerk tot ontbranding te brengen.
 
@@ -586,17 +592,17 @@ Het is verboden per levering meer dan 25 kilogram consumentenvuurwerk aan een pa
 
 ##### Artikel 2.3.4
 
-Het is verboden consumentenvuurwerk aan een particulier bedrijfsmatig ter beschikking te stellen op een andere plaats dan een verkoopruimte die voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2014-12-13&g=2014-12-13) gestelde voorschriften en de door het bevoegd gezag overeenkomstig [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2014-12-13&g=2014-12-13) gestelde maatwerkvoorschriften.
+Het is verboden consumentenvuurwerk aan een particulier bedrijfsmatig ter beschikking te stellen op een andere plaats dan een verkoopruimte die voldoet aan de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2015-09-22&g=2015-09-22) gestelde voorschriften en de door het bevoegd gezag overeenkomstig [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-09-22&g=2015-09-22) gestelde maatwerkvoorschriften.
 
 ##### Artikel 2.3.5
 
 Het is verboden consumentenvuurwerk te verkopen of anderszins ter beschikking te stellen aan particulieren jonger dan:
 
-Voor zover het betreft categorie 1: 12 jaar;
+Voor zover het betreft categorie F1: 12 jaar;
 
-Voor zover het betreft categorie 2: 16 jaar;
+Voor zover het betreft categorie F2: 16 jaar;
 
-Voor zover het betreft categorie 3: 18 jaar.
+Voor zover het betreft categorie F3: 18 jaar.
 
 ##### Artikel 2.3.6
 
@@ -604,7 +610,7 @@ Het is verboden vuurwerk, anders dan bedrijfsmatig, tot ontbranding te brengen o
 
 ##### Artikel 2.3.7
 
-De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2014-12-13&g=2014-12-13), [1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2014-12-13&g=2014-12-13), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2014-12-13&g=2014-12-13), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2014-12-13&g=2014-12-13) en [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2014-12-13&g=2014-12-13) gelden niet ten aanzien van fop- en schertsvuurwerk.
+De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.4&z=2015-09-22&g=2015-09-22), [1.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.5&z=2015-09-22&g=2015-09-22), [2.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.2&z=2015-09-22&g=2015-09-22), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.3&z=2015-09-22&g=2015-09-22) en [2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2015-09-22&g=2015-09-22) gelden niet ten aanzien van fop- en schertsvuurwerk.
 
 ### Hoofdstuk 3. Professioneel vuurwerk
 
@@ -618,15 +624,15 @@ De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1
 
 - b. een vermelding of afbeelding van de soort van het vuurwerk waaruit duidelijk blijkt wat de te verwachten effecten tijdens het functioneren zijn;
 
-- c. de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de fabrikant;
+- c. de naam, de geregistreerde handelsnaam of de geregistreerde merknaam van de fabrikant en één postadres waarop contact met hem kan worden opgenomen;
 
-- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de importeur;
+- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de gegevens, genoemd onder c, en de naam, geregistreerde handelsnaam of geregistreerde merknaam van de importeur en het postadres waarop contact met hem kan worden opgenomen;
 
-- e. indien de importeur niet in Nederland is gevestigd: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
+- e. indien de importeur niet in Nederland is gevestigd: de gegevens, genoemd onder c en d, en de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
 
-- f. de naam en het type van het artikel, het door de fabrikant bij de vervaardiging toegekende artikelnummer dat dient ter identificatie van het vuurwerk en, voor zover het vuurwerk betreft dat is ingedeeld in categorie 3 of 4, het productiejaar van het vuurwerk;
+- f. de naam en het type van het artikel, het door de fabrikant bij de vervaardiging toegekende registratienummer en het product-, partij- of serienummer van het product en, voor zover het vuurwerk betreft dat is ingedeeld in categorie F3 of F4, het productiejaar van het vuurwerk;
 
-- g. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13), waartoe het professionele vuurwerk behoort;
+- g. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22), waartoe het professionele vuurwerk behoort;
 
 - h. de NEM;
 
@@ -634,33 +640,33 @@ De [artikelen 1.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1
 
 2. De verpakking van professioneel vuurwerk is voorts voorzien van de volgende informatie:
 
-voor zover het betreft categorie 2: „uitsluitend buitenshuis te gebruiken» en, in voorkomend geval, de minimale veiligheidsafstand(en);
+voor zover het betreft categorie F2: „uitsluitend buitenshuis te gebruiken» en, in voorkomend geval, de minimale veiligheidsafstand(en);
 
-voor zover het betreft categorie 3: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand(en);
+voor zover het betreft categorie F3: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand(en);
 
-voor zover het betreft categorie 4: «uitsluitend door personen met gespecialiseerde kennis te gebruiken» en de minimale veiligheidsafstand(en).
+voor zover het betreft categorie F4: «uitsluitend door personen met gespecialiseerde kennis te gebruiken» en de minimale veiligheidsafstand(en).
 
-3. Het eerste en tweede lid gelden niet voor professioneel vuurwerk van geringe afmeting, mits dat vuurwerk zich in een verpakking bevindt waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht.
+3. Het eerste en tweede lid gelden niet voor professioneel vuurwerk van geringe afmeting, mits dat vuurwerk zich in een verpakking bevindt waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht. De gegevens, bedoeld in het eerste lid, onder c, d en e, worden, indien vermelding op het vuurwerk niet mogelijk is, vermeld op een bij het vuurwerk gevoegd document.
 
-4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse, Duitse, Engelse of Franse taal gesteld, zichtbaar, leesbaar en onuitwisbaar.
+4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse, Duitse, Engelse of Franse taal gesteld, zichtbaar, leesbaar, duidelijk, begrijpelijk en onuitwisbaar.
 
-5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op professioneel vuurwerk dat zal worden verkocht in een andere lidstaat van de Europese Unie, gesteld in de officiële taal of talen van het desbetreffende land.
+5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op professioneel vuurwerk dat aan een persoon met gespecialiseerde kennis zal worden aangeboden in een andere lidstaat van de Europese Unie, gesteld in de officiële taal of talen van het desbetreffende land.
 
-6. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van «48 uur» gelezen: twee weken.
+6. Dit artikel is niet van toepassing op vuurwerk waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat het binnen 48 uur weer buiten het grondgebied van Nederland zal worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van «48 uur» gelezen: twee weken.
 
-7. Professioneel vuurwerk is voorts voorzien van de informatie waartoe met betrekking tot professioneel vuurwerk is besloten met toepassing van artikel 18, eerste lid, onder c, van de EG-richtlijn pyrotechnische artikelen. Indien de informatie, bedoeld in de eerste volzin, zou afwijken van het bepaalde in het eerste of tweede lid, blijft het in die leden bepaalde in zoverre buiten toepassing. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
+7. Professioneel vuurwerk is voorts voorzien van de informatie waartoe met betrekking tot professioneel vuurwerk is besloten met toepassing van artikel 18, eerste lid, onder c, van de EU-richtlijn pyrotechnische artikelen. Indien de informatie, bedoeld in de eerste volzin, zou afwijken van het bepaalde in het eerste of tweede lid, blijft het in die leden bepaalde in zoverre buiten toepassing. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
 
 #### § 2. Opslaan en bewerken van professioneel vuurwerk
 
 ##### Artikel 3.2.1
 
-1. Degene die een inrichting drijft, waar professioneel vuurwerk al dan niet tezamen met consumentenvuurwerk of pyrotechnische artikelen voor theatergebruik wordt opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2014-12-13&g=2014-12-13) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13).
+1. Degene die een inrichting drijft, waar professioneel vuurwerk al dan niet tezamen met consumentenvuurwerk of pyrotechnische artikelen voor theatergebruik wordt opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2015-09-22&g=2015-09-22) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22).
 
 2. Degene die de inrichting drijft draagt er zorg voor dat de voorschriften worden nageleefd.
 
 ##### Artikel 3.2.2
 
-1. Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2014-12-13&g=2014-12-13), onder B, opgenomen voorschrift, voor zover dat bij het voorschrift is aangegeven.
+1. Het bevoegd gezag kan maatwerkvoorschriften stellen met betrekking tot een in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2015-09-22&g=2015-09-22), onder B, opgenomen voorschrift, voor zover dat bij het voorschrift is aangegeven.
 
 2. De maatwerkvoorschriften gelden voor een ieder die de inrichting drijft. Deze draagt er zorg voor dat de maatwerkvoorschriften worden nageleefd.
 
@@ -670,7 +676,7 @@ voor zover het betreft categorie 4: «uitsluitend door personen met gespecialise
 
 ##### Artikel 3.2.3
 
-1. Degene die een inrichting drijft als bedoeld in [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13):
+1. Degene die een inrichting drijft als bedoeld in [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22):
 
 - a. stelt naar het oordeel van het bevoegd gezag op genoegzame wijze door verzekering of anderszins financiële zekerheid ter dekking van de aansprakelijkheid, bedoeld in [boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289), waartoe het drijven van de inrichting aanleiding kan geven;
 
@@ -718,23 +724,23 @@ Vervallen
 
 ##### Artikel 4.1
 
-1. De veiligheidsafstanden, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) worden, voor zover deze in acht genomen moeten worden bij de vaststelling van een besluit als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13), aangemerkt als grenswaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1).
+1. De veiligheidsafstanden, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) worden, voor zover deze in acht genomen moeten worden bij de vaststelling van een besluit als bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2015-09-22&g=2015-09-22), aangemerkt als grenswaarde als bedoeld in [artikel 5.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.1).
 
 2. Indien de kwaliteit van een gebied waarvoor de veiligheidsafstand in acht moet worden genomen, beter is dan de grenswaarde aangeeft, treedt de kwaliteit van dat gebied niet in de plaats van de grenswaarde.
 
 ##### Artikel 4.2
 
-1. Het bevoegd gezag neemt de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) gestelde afstanden in acht bij:
+1. Het bevoegd gezag neemt de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) gestelde afstanden in acht bij:
 
 - a. het vaststellen van een bestemmings- of inpassingsplan of een beheersverordening als bedoeld in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.1), [3.26](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.26) of [3.28](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.28), onderscheidenlijk [artikel 3.38 van de Wet ruimtelijke ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.38);
 
 - b. het wijzigen van een bestemmingsplan overeenkomstig [artikel 3.6, eerste lid, onder a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020449&artikel=3.6).
 
-2. Gedeputeerde staten nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) gestelde afstanden in acht bij de verlening of wijziging van een omgevingsvergunning.
+2. Gedeputeerde staten nemen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) gestelde afstanden in acht bij de verlening of wijziging van een omgevingsvergunning.
 
-3. Het tweede lid is niet van toepassing ten aanzien van inrichtingen als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13).
+3. Het tweede lid is niet van toepassing ten aanzien van inrichtingen als bedoeld in [artikel 1.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22).
 
-4. In afwijking van het eerste en tweede lid kan het bevoegd gezag een kleinere afstand dan genoemd in [bijlage 3, onder 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13), vaststellen, indien het desbetreffende besluit betrekking heeft op:
+4. In afwijking van het eerste en tweede lid kan het bevoegd gezag een kleinere afstand dan genoemd in [bijlage 3, onder 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22), vaststellen, indien het desbetreffende besluit betrekking heeft op:
 
 - a. een inrichting waar theatervuurwerk al dan niet tezamen met consumentenvuurwerk wordt opgeslagen of bewerkt,
 
@@ -748,9 +754,9 @@ Vervallen
 
 ##### Artikel 4.3
 
-1. Indien voor het desbetreffende gebied een bestemmingsplan geldt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw waar vuurwerk wordt opgeslagen of bewerkt binnen een inrichting als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13), tot aan de bestemmingsgrens.
+1. Indien voor het desbetreffende gebied een bestemmingsplan geldt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw waar vuurwerk wordt opgeslagen of bewerkt binnen een inrichting als bedoeld in [artikel 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22), tot aan de bestemmingsgrens.
 
-2. Indien een bestemmingsplan voor het desbetreffende gebied ontbreekt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw, bedoeld in het eerste lid, tot aan de eigendomsgrens van het gebied dat behoort bij het beperkt kwetsbare of kwetsbare object.
+2. Indien een bestemmingsplan voor het desbetreffende gebied ontbreekt, gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw, bedoeld in het eerste lid, tot aan de eigendomsgrens van het gebied dat behoort bij het beperkt kwetsbare of kwetsbare object.
 
 3. In afwijking van het eerste lid gelden de veiligheidsafstanden tot tien meter vanaf het beperkt kwetsbare of kwetsbare object of het geprojecteerde beperkt kwetsbare of kwetsbare object, indien:
 
@@ -766,7 +772,7 @@ Vervallen
 
 - b. het object een woonwagen is die meer dan tien meter van de eigendomsgrens van het desbetreffende perceel of van het gebied dat voor woonwagens is aangewezen, is geplaatst.
 
-6. In afwijking van het eerste tot en met vijfde lid gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw, bedoeld in het eerste lid, tot aan de ligplaats van een woonschip.
+6. In afwijking van het eerste tot en met vijfde lid gelden de veiligheidsafstanden, tenzij in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) anders is aangegeven, vanaf de uitwendige scheidingsconstructie, bedoeld in [artikel 1.1 van het Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461&artikel=1.1), van het gebouw, bedoeld in het eerste lid, tot aan de ligplaats van een woonschip.
 
 ##### Artikel 4.4
 
@@ -774,7 +780,7 @@ Vervallen
 
 ### Hoofdstuk 2. Consumentenvuurwerk
 
-#### § 1. Eisen aan consumentenvuurwerk
+#### § 2D. Identificatie van marktdeelnemers
 
 ##### Artikel 5.1.1
 
@@ -864,23 +870,23 @@ Wijzigt het Besluit vervoer gevaarlijke stoffen.
 
 ##### Artikel 5.3.1
 
-De nadere eisen, gesteld krachtens [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2014-12-13&g=2014-12-13) of [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2014-12-13&g=2014-12-13), alsmede de toestemmingen, verleend krachtens voorschrift 1.8 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2014-12-13&g=2014-12-13), die voor een inrichting onmiddellijk voor 1 juli 2012 in werking en onherroepelijk waren, worden gelijkgesteld met maatwerkvoorschriften.
+De nadere eisen, gesteld krachtens [artikel 2.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.3&z=2015-09-22&g=2015-09-22) of [3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2015-09-22&g=2015-09-22), alsmede de toestemmingen, verleend krachtens voorschrift 1.8 van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2015-09-22&g=2015-09-22), die voor een inrichting onmiddellijk voor 1 juli 2012 in werking en onherroepelijk waren, worden gelijkgesteld met maatwerkvoorschriften.
 
 ##### Artikel 5.3.2
 
-1. Een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), die onmiddellijk voor 1 juli 2012 van kracht en onherroepelijk is, wordt gelijkgesteld met een toepassingsvergunning.
+1. Een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), die onmiddellijk voor 1 juli 2012 van kracht en onherroepelijk is, wordt gelijkgesteld met een toepassingsvergunning.
 
-2. Een toestemming als bedoeld in [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), die onmiddellijk voor 1 juli 2012 van kracht en onherroepelijk is, wordt gelijkgesteld met een ontbrandingstoestemming.
+2. Een toestemming als bedoeld in [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), die onmiddellijk voor 1 juli 2012 van kracht en onherroepelijk is, wordt gelijkgesteld met een ontbrandingstoestemming.
 
 ##### Artikel 5.3.3
 
 1. Het recht zoals dat gold onmiddellijk voor 1 juli 2012 blijft van toepassing op:
 
-- a. de voorbereiding en vaststelling van de beschikking op een aanvraag om een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), of een toestemming als bedoeld in [artikel 3B.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3&z=2014-12-13&g=2014-12-13), of een aanvraag om een beschikking tot wijziging of intrekking daarvan, indien voor die datum een aanvraag is ingediend;
+- a. de voorbereiding en vaststelling van de beschikking op een aanvraag om een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), of een toestemming als bedoeld in [artikel 3B.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3&z=2015-09-22&g=2015-09-22), of een aanvraag om een beschikking tot wijziging of intrekking daarvan, indien voor die datum een aanvraag is ingediend;
 
-- b. de voorbereiding en vaststelling van een ambtshalve te geven beschikking tot wijziging of intrekking van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), indien voor die datum van het ontwerpbesluit mededeling is gedaan met overeenkomstige toepassing van [artikel 3:19, tweede lid, onderdelen b en c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:19);
+- b. de voorbereiding en vaststelling van een ambtshalve te geven beschikking tot wijziging of intrekking van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), indien voor die datum van het ontwerpbesluit mededeling is gedaan met overeenkomstige toepassing van [artikel 3:19, tweede lid, onderdelen b en c, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:19);
 
-- c. een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), of een toestemming als bedoeld in [artikel 3B.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3&z=2014-12-13&g=2014-12-13), of een beschikking tot wijziging of intrekking daarvan, die nog niet onherroepelijk is.
+- c. een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), of een toestemming als bedoeld in [artikel 3B.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3&z=2015-09-22&g=2015-09-22), of een beschikking tot wijziging of intrekking daarvan, die nog niet onherroepelijk is.
 
 2. In gevallen als bedoeld in het eerste lid wordt:
 
@@ -892,7 +898,7 @@ op het tijdstip waarop de betrokken beschikking onherroepelijk is geworden.
 
 ##### Artikel 5.3.4
 
-Een melding die is gedaan op grond van [artikel 3B.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.4&z=2014-12-13&g=2014-12-13), zoals dat artikel luidde onmiddellijk voor 1 juli 2012, behoudt haar geldigheid tot vier weken na die datum.
+Een melding die is gedaan op grond van [artikel 3B.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.4&z=2015-09-22&g=2015-09-22), zoals dat artikel luidde onmiddellijk voor 1 juli 2012, behoudt haar geldigheid tot vier weken na die datum.
 
 #### § 4. Slotbepalingen
 
@@ -1120,6 +1126,78 @@ Het bevoegd gezag kan bij maatwerkvoorschrift aanvullende eisen stellen aan het 
 
 ### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
 
+2. Voor zover een NEN-norm of NPR-richtlijn waarnaar in een voorschrift verwezen wordt, betrekking heeft op de uitvoering van constructies, toestellen en apparaten, wordt bedoeld de laatste vóór 1 juli 2012 uitgegeven norm met de daarop tot die datum uitgegeven aanvullingen of correctiebladen dan wel – voor zover het op voornoemde datum reeds bestaande constructies, toestellen en apparaten betreft – de norm die bij de aanleg of installatie van die constructies, toestellen en apparaten is toegepast, tenzij in het voorschrift anders is bepaald.
+
+3. Met de in deze bijlage, onder A, onderdeel 1, onder c, d en i, bedoelde normen en de in deze bijlage, onder A, onderdeel 1, onder k, bedoelde voorschriften, worden gelijkgesteld normen en voorschriften die worden gesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat bindend is voor Nederland, en die ten minste een gelijkwaardig niveau waarborgen.
+
+4. Met de in deze bijlage, onder B, voorschrift 5.2 bedoelde inspectie-instelling die is geaccrediteerd door de Stichting Raad voor Accreditatie wordt gelijkgesteld een inspectie-instelling die is geaccrediteerd door een instelling in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat bindend is voor Nederland, en die aan ten minste een gelijkwaardig niveau voldoet.
+
+5. In deze bijlage wordt theatervuurwerk, tenzij in het voorschrift anders is bepaald, gelijkgesteld aan consumentenvuurwerk.
+
+6. Bij ministeriële regeling wordt bepaald welke versie van het memorandum nr. 60 moet worden toegepast of wordt een document aangewezen dat in de plaats van het memorandum moet worden toegepast.
+
+7. In de begripsomschrijvingen van brandwerendheid van bouwdelen en van deur-, luik- en raamconstructies wordt in plaats van «NEN 6069, uitgave 2005» gelezen «NEN 6069, uitgave 1991» voor zover de bepalingen in deze bijlage betrekking hebben op bouwdelen of deur-, luik- en raamconstructies die voor 1 juli 2012 tot stand zijn gebracht.
+
+5.2. De brandbeveiligingsinstallatie is ontworpen, aangelegd, opgeleverd en onderhouden overeenkomstig een programma van eisen, opgesteld conform memorandum nr. 60. Het programma van eisen is beoordeeld door een inspectie-instelling. Deze inspectie-instelling voldoet voor wat betreft het uitvoeren van beoordelingen en inspecties van brandbeveiligingsinstallaties op basis van memorandum nr. 60 aan EN 45004 en is daarbij een type A inspectie-instelling. De inspectie-instelling is geaccrediteerd door de Stichting Raad voor Accreditatie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de vierde volzin. Het programma van eisen is goedgekeurd door het bevoegd gezag, voordat met de aanleg van de brandbeveiligingsinstallatie wordt begonnen. Het programma van eisen, alsmede het bewijs van beoordeling door de inspectie-instelling is binnen de inrichting aanwezig.
+
+4.1 Gedurende de openingstijden van de winkel is tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk per verkoopruimte niet meer dan 500 kg consumentenvuurwerk aanwezig. Indien meerdere verkoopruimten aanwezig zijn, mag per brandcompartiment maximaal één verkoopruimte aanwezig zijn. Buiten deze tijden is in de verkoopruimten geen ander consumentenvuurwerk dan fop- en schertsvuurwerk aanwezig en in totaal daarvan niet meer dan 200 kg.
+
+1.1 De voorschriften van deze bijlage zijn niet van toepassing op fop- en schertsvuurwerk, mits binnen de inrichting niet meer dan 200 kg fop- en schertsvuurwerk aanwezig is.
+
+1.2 Bij de vaststelling van de in deze bijlage genoemde hoeveelheden vuurwerk wordt, indien meer dan 200 kg fop- en schertsvuurwerk aanwezig is, 10 kg fop- en schertsvuurwerk gelijk gesteld aan 1 kg consumentenvuurwerk.
+
+1.3 Consumentenvuurwerk is, behalve tijdens intern transport, alleen aanwezig in de daarvoor bestemde bewaarplaats, bufferbewaarplaats en verkoopruimte en alleen in de hoeveelheden, op die tijdstippen en op de wijze die genoemd is in de voorschriften ten aanzien van de betreffende ruimte. Consumentenvuurwerk wordt onmiddellijk na levering in de (buffer)bewaarplaats opgeborgen, waarbij het vervoermiddel waarmee het consumentenvuurwerk wordt aangeleverd niet onbewaakt blijft staan, tenzij het vervoermiddel zich bevindt op een voor onbevoegden afgesloten terrein.
+
+1.4 Degene die de inrichting drijft heeft de in zijn inrichting werkzame personen die belast zijn met de verkoop van consumentenvuurwerk, het gereedmaken van vuurwerkpakketten en het de bewaarplaats inbrengen of uitnemen van consumentenvuurwerk, een schriftelijke instructie verstrekt, die erop gericht is gedragingen hunnerzijds, die tot gevolg kunnen hebben dat een voorschrift of maatwerkvoorschrift wordt overtreden, uit te sluiten en die erop gericht is dat voornoemde personen zijn geïnstrueerd over het gevaar van consumentenvuurwerk en de wijze van brandbestrijding in geval van calamiteiten.
+
+1.5 Gevallen of beschadigd consumentenvuurwerk wordt onmiddellijk opgeraapt. Beschadigd consumentenvuurwerk wordt bewaard in een verpakking die antistatisch is en zo stevig en sterk is dat de verpakking afdoende tegen elke normale behandeling bestand is. Beschadigd vuurwerk wordt bewaard in de bufferbewaarplaats, of, indien geen bufferbewaarplaats aanwezig is, in de bewaarplaats. De verpakking is voorzien van het opschrift «BERGING». Een vrijgekomen ontplofbare of pyrotechnische stof wordt bevochtigd met water, tenzij dit leidt tot ongewenste reacties, zorgvuldig opgeruimd en op dezelfde wijze als gevallen of beschadigd consumentenvuurwerk bewaard.
+
+1.6 Op de toegangsdeur van alle ruimten waar consumentenvuurwerk aanwezig is, wordt een veiligheidssymbool aangebracht, waarmee het ontploffingsgevaar wordt aangeduid. Hierbij wordt gebruik gemaakt van de in [bijlage XVIII bij de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII) opgenomen borden.
+
+1.7 Binnen de inrichting mag niet worden gerookt en mag geen vuur of open vlam aanwezig zijn. Bij iedere ingang van de inrichting is een verbodsbord aanwezig dat voldoet aan de intrinsieke kenmerken van het in [bijlage XVIII bij de Arbeidsomstandighedenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII) opgenomen verbodsbord waaruit blijkt dat vuur, open vlam en roken verboden zijn.
+
+1.8 Alle ruimten waar consumentenvuurwerk aanwezig mag zijn, zijn op de begane grond gesitueerd. In afwijking hiervan kan het bevoegd gezag bij maatwerkvoorschrift bepalen dat onder daarbij aangegeven voorwaarden consumentenvuurwerk ook aanwezig mag zijn in een kelder of op de eerste verdieping indien deze ruimten naar het oordeel van het bevoegd gezag voldoende bereikbaar en toegankelijk zijn met het oog op brandbestrijding. Alvorens een zodanige beschikking te geven, stelt het bevoegd gezag het bestuur van de regionale brandweer binnen wiens gebied de inrichting geheel of in hoofdzaak is gelegen, in de gelegenheid hierover advies uit te brengen.
+
+1.9 De afstand van ruimten waar consumentenvuurwerk aanwezig mag zijn tot licht of zeer licht ontvlambare stoffen en drukhouders, met uitzondering van brandblusmiddelen, is ten minste 5 m. In de ruimte waar het afleveren van consumentenvuurwerk plaatsvindt, mogen geen licht of zeer licht ontvlambare stoffen en drukhouders, met uitzondering van brandblusmiddelen, aanwezig zijn.
+
+### D. Opslag van meer dan 1 000 kilogram consumentenvuurwerk
+
+1.11 Opdat een brand binnen redelijke tijd kan worden geblust, heeft een inrichting één of meer brandslanghaspels, waarbij aan de volgende voorwaarden is voldaan:
+
+Het bevoegd gezag kan bij maatwerkvoorschrift aanvullende eisen stellen aan het aantal brandslanghaspels en de situering van de brandslanghaspels.
+
+1.12 Een brandslanghaspel is steeds voor onmiddellijk gebruik beschikbaar en kan onbelemmerd worden bereikt. Een brandslanghaspel wordt jaarlijks door een deskundige gecontroleerd op zijn deugdelijkheid.
+
+1.13 Het lossen van een voertuig met consumentenvuurwerk mag niet geschieden gelijktijdig met het lossen van een tankwagen met motorbrandstoffen, tenzij het voertuig zich op meer dan 25 meter afstand bevindt van de tankwagen.
+
+6.2 Indien vanuit de deuropening van de bufferbewaarplaats de toegangsdeur van de verkoopruimte, van een bewaarplaats of van een andere bufferbewaarplaats visueel kan worden waargenomen, dient, gemeten vanaf de deuropening van de bufferbewaarplaats tot de deuropening van de andere ruimte, de volgende afstand in acht te worden genomen:
+
+2.1 De (buffer)bewaarplaats wordt gelijkgesteld met een brandcompartiment. De brandwerendheid van een (buffer)bewaarplaats is niet lager dan 60 minuten. De brandwerendheid van een (buffer)bewaarplaats naar een andere (buffer)bewaarplaats is niet lager dan 120 minuten. Bovendien zijn de wanden, vloer en afdekking van een (buffer)bewaarplaats vervaardigd van metselwerk, beton of cellenbeton. Doorvoeringen van leidingen zijn met dezelfde brandwerendheid afgewerkt. Ander materiaal dan metselwerk, beton of cellenbeton kan worden toegepast indien het bevoegd gezag heeft beslist dat daarmee ten minste dezelfde brandwerendheid en constructieve stevigheid wordt bereikt.
+
+2.2 Indien de toegangsdeuren van bewaarplaatsen, bufferbewaarplaatsen dan wel verkoopruimten zich naast elkaar bevinden, steekt de constructieve scheiding ten minste 300 mm uit tussen de toegangsdeuren van de betreffende bewaarplaats, bufferbewaarplaats dan wel verkoopruimte.
+
+2.3 In de (buffer)bewaarplaats zijn, behalve de toegangsdeur, in de wanden en de afdekking geen openingen of ramen aanwezig, tenzij het ventilatieopeningen betreft die zodanig zijn uitgevoerd dat de brandwerendheid van de (buffer) bewaarplaats voldoet aan voorschrift 2.1.
+
+2.4 De toegangsdeur van de (buffer)bewaarplaats:
+
+2.5 De deur van de (buffer-)bewaarplaats bevindt zich niet:
+
+2.6 De scheidingsconstructie tussen de ruimte waarin de deur van de (buffer-)bewaarplaats zich bevindt en de verkoopruimte heeft een brandwerendheid die niet lager is dan 30 minuten en bevat naast de zelfsluitende toegangsdeur naar de verkoopruimte geen openingen of ramen die opengezet kunnen worden.
+
+2.7 Voor de verwarming van de (buffer)bewaarplaats worden slechts toestellen gebruikt, waarbij water voor de warmteoverdracht wordt toegepast. De maximale oppervlaktetemperatuur van de verwarmingsapparatuur mag niet boven 100°C kunnen komen.
+
+2.8 Als de toegangsdeur van de (buffer)bewaarplaats kan worden bereikt via een terrein dat voor derden toegankelijk is, is op een afstand van ten minste 4 m van de toegangsdeur een deugdelijke (erf)afscheiding aanwezig waardoor onbevoegden geen toegang hebben tot het terrein.
+
+2.9 Binnen de (buffer)bewaarplaats bevindt zich geen gasleiding of brandstofleiding.
+
+### Paragraaf 3. Gebruik van een bewaarplaats en van een bufferbewaarplaats
+
+3.1 In de (buffer)bewaarplaats mogen geen consumentenvuurwerk en andere goederen gelijktijdig aanwezig zijn.
+
+3.2 In de bufferbewaarplaats mogen geen andere werkzaamheden worden verricht dan:
+
+Dit voorschrift is niet van toepassing indien geen opslag van vuurwerk plaatsvindt.
+
 3.3 In de bewaarplaats mogen geen andere werkzaamheden worden verricht dan het inbrengen of uitnemen van verpakt consumentenvuurwerk. Dit voorschrift is niet van toepassing indien geen opslag van vuurwerk plaatsvindt.
 
 3.4 Met uitzondering van de tijd die nodig is voor het inbrengen of uitnemen van consumentenvuurwerk moet de deur van de (buffer)bewaarplaats gesloten worden gehouden.
@@ -1132,7 +1210,7 @@ Het bevoegd gezag kan bij maatwerkvoorschrift aanvullende eisen stellen aan het 
 
 3.7 Bij stapeling van verpakt consumentenvuurwerk wordt de maximale hoogte van een stapel mede bepaald door de sterkte van het verpakkingsmateriaal. De onderste lagen worden niet zodanig vervormd of beschadigd door het gewicht van de hoger gelegen lagen, dat het verpakkingsmateriaal zijn functie en beschermende werking verliest.
 
-5.2. De brandbeveiligingsinstallatie is ontworpen, aangelegd, opgeleverd en onderhouden overeenkomstig een programma van eisen, opgesteld conform memorandum nr. 60. Het programma van eisen is beoordeeld door een inspectie-instelling. Deze inspectie-instelling voldoet voor wat betreft het uitvoeren van beoordelingen en inspecties van brandbeveiligingsinstallaties op basis van memorandum nr. 60 aan EN 45004 en is daarbij een type A inspectie-instelling. De inspectie-instelling is geaccrediteerd door de Stichting Raad voor Accreditatie. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de vierde volzin. Het programma van eisen is goedgekeurd door het bevoegd gezag, voordat met de aanleg van de brandbeveiligingsinstallatie wordt begonnen. Het programma van eisen, alsmede het bewijs van beoordeling door de inspectie-instelling is binnen de inrichting aanwezig.
+1.4 In de bewaarplaats en in de bewerkingsruimte is een automatische sprinklerinstallatie met automatische doormelding naar de centrale meldkamer van de brandweer aanwezig.
 
 4.1 Gedurende de openingstijden van de winkel is tijdens de toegestane verkoopdagen voor de verkoop van consumentenvuurwerk per verkoopruimte niet meer dan 500 kg consumentenvuurwerk aanwezig. Indien meerdere verkoopruimten aanwezig zijn, mag per brandcompartiment maximaal één verkoopruimte aanwezig zijn. Buiten deze tijden is in de verkoopruimten geen ander consumentenvuurwerk dan fop- en schertsvuurwerk aanwezig en in totaal daarvan niet meer dan 200 kg.
 
@@ -1140,7 +1218,7 @@ Het bevoegd gezag kan bij maatwerkvoorschrift aanvullende eisen stellen aan het 
 
 4.3 Het afleveren van consumentenvuurwerk vindt plaats onder bereik van het water van de automatische sprinklerinstallatie.
 
-5.6 De wijze waarop verpakt of onverpakt consumentenvuurwerk wordt opgeslagen heeft geen negatieve invloed op de functionele werking van de automatische sprinklerinstallatie. Daartoe is de wijze van opslaan tenminste in overeenstemming met de uitgangspunten die ten aanzien daarvan ten grondslag hebben gelegen aan het ontwerp van de automatische sprinklerinstallatie, zoals deze zijn neergelegd in het Programma van Eisen.
+1.8 Vervallen.
 
 5.1 De bewaarplaats, de bufferbewaarplaats en de verkoopruimte zijn voorzien van een automatische sprinklerinstallatie. In de directe nabijheid van de bewaarplaats, de bufferbewaarplaats en de verkoopruimte is een brandmeldinstallatie aanwezig.
 
@@ -1154,11 +1232,11 @@ Het bevoegd gezag kan bij maatwerkvoorschrift aanvullende eisen stellen aan het 
 
 5.6 De wijze waarop verpakt of onverpakt consumentenvuurwerk wordt opgeslagen heeft geen negatieve invloed op de functionele werking van de automatische sprinklerinstallatie. Daartoe is de wijze van opslaan tenminste in overeenstemming met de uitgangspunten die ten aanzien daarvan ten grondslag hebben gelegen aan het ontwerp van de automatische sprinklerinstallatie, zoals deze zijn neergelegd in het uitgangspuntendocument. Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan de wijze waarop verpakt of onverpakt consumentenvuurwerk wordt opgeslagen.
 
-### D. Opslag van meer dan 1 000 kilogram consumentenvuurwerk
+5.7 Iedere vijf jaar vanaf de goedkeuring van het uitgangspuntendocument door het bevoegd gezag wordt dat document beoordeeld door een inspectie-instelling als bedoeld in voorschrift 5.2. De beoordeling bestaat in ieder geval uit een beoordeling van de gehanteerde uitgangspunten en normen in het uitgangspuntendocument in relatie tot de uitgangspunten en normen die gezien de actuele stand der techniek gehanteerd worden op het moment van de beoordeling en in relatie tot de doorgevoerde wijzigingen.
 
-5.8 Op grond van de beoordeling, bedoeld in voorschrift 5.7, kan het bevoegd gezag besluiten de beschikking omtrent de goedkeuring van het uitgangspuntendocument in te trekken.
+### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
 
-In een inrichting waar ten hoogste 1 000 kg consumentenvuurwerk mag worden opgeslagen, mag ten hoogste één bufferbewaarplaats aanwezig zijn.
+2.9 In een bewaarplaats voldoen de gebruikte apparatuur en de installaties aan de in NPR 7910-2 genoemde voorschriften voor zone 22. De maximaal toegelaten oppervlaktetemperatuur van de gebruikte apparatuur en de installaties is 100°C.
 
 6.1 Indien vanuit de deuropening van de bewaarplaats de toegangsdeur van de verkoopruimte of van een andere bewaarplaats visueel kan worden waargenomen, dient, gemeten vanaf de deuropening van de bewaarplaats tot de deuropening van de andere ruimte, de volgende afstand in acht te worden genomen:
 
@@ -1170,21 +1248,21 @@ Indien in de inrichting niet meer dan 10 000 kg consumentenvuurwerk, niet zijnde
 
 6.3 Indien de toegangsdeur, bedoeld in de voorschriften 6.1 en 6.2, niet visueel kan worden waargenomen en niet aan de daar genoemde afstanden wordt voldaan, zijn tussen de deuropening van de bewaarplaats onderscheidenlijk de bufferbewaarplaats en die toegangsdeur voldoende bouwkundige voorzieningen aangebracht om brandoverslag te voorkomen. De bouwkundige voorzieningen, bedoeld in de eerste volzin, zijn vervaardigd door metselwerk of met beton of cellenbeton en hebben een brandwerendheid die niet lager is dan 60 minuten. Ander materiaal dan metselwerk, beton of cellenbeton kan worden toegepast indien het bevoegd gezag heeft beslist dat daarmee ten minste dezelfde brandwerendheid en constructieve stevigheid wordt bereikt.
 
-6.4 Teneinde domino-effecten tussen ruimten waar consumentenvuurwerk aanwezig kan zijn en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn te voorkomen, worden vanaf de (buffer)bewaarplaats ten opzichte van die onderdelen ten minste de in [bijlage 3, onderdeel B, onder 1.2 en 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13) gestelde veiligheidsafstanden in acht genomen. Teneinde domino-effecten als bedoeld in de eerste volzin te voorkomen, kan het bevoegd gezag bij maatwerkvoorschrift een grotere interne veiligheidsafstand eisen dan uit de toepassing van die volzin voortvloeit.
+6.4 Teneinde domino-effecten tussen ruimten waar consumentenvuurwerk aanwezig kan zijn en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn te voorkomen, worden vanaf de (buffer)bewaarplaats ten opzichte van die onderdelen ten minste de in [bijlage 3, onderdeel B, onder 1.2 en 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22) gestelde veiligheidsafstanden in acht genomen. Teneinde domino-effecten als bedoeld in de eerste volzin te voorkomen, kan het bevoegd gezag bij maatwerkvoorschrift een grotere interne veiligheidsafstand eisen dan uit de toepassing van die volzin voortvloeit.
 
-2. Voor zover een NEN-norm of NPR-richtlijn waarnaar in een voorschrift verwezen wordt, betrekking heeft op de uitvoering van constructies, toestellen en apparaten, wordt bedoeld de laatste vóór de datum, waarop dit besluit in het Staatsblad is geplaatst, uitgegeven norm met de daarop tot die datum uitgegeven aanvullingen of correctiebladen dan wel – voor zover het op voornoemde datum reeds bestaande constructies, toestellen en apparaten betreft – de norm die bij de aanleg of installatie van die constructies, toestellen en apparaten is toegepast, tenzij in het voorschrift anders is bepaald.
+2.7 Ter voorkoming van opeenhoping van stof en ter vergemakkelijking van de reiniging, zijn de muren glad afgewerkt zonder horizontale lijsten of randen.
 
 1. In een inrichting waar niet meer dan 10 000 kg consumentenvuurwerk mag worden opgeslagen:
 
 2. In een inrichting waar meer dan 10 000 kg consumentenvuurwerk mag worden opgeslagen:
 
-5. In deze bijlage wordt onder vuurwerk begrepen professioneel vuurwerk, pyrotechnische artikelen voor theatergebruik alsmede consumentenvuurwerk.
+## Bijlage 2. Voorschriften voor het opslaan en bewerken van professioneel vuurwerk en pyrotechnische artikelen voor theatergebruik, al dan niet tezamen met consumentenvuurwerk, als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22)
 
-1.2 De voorschriften van deze bijlage zijn niet van toepassing op fop- en schertsvuurwerk, mits binnen de inrichting niet meer dan 200 kg fop- en schertsvuurwerk aanwezig is.
+### A. Begripsbepalingen
 
 1. In deze bijlage wordt verstaan onder:
 
-### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
+### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
 
 3. Met de in deze bijlage, onder A, onderdeel 1, sub c, d en i, en onder B, onderdelen 2.15 en 2.22, bedoelde normen en de in deze bijlage onder A, onderdeel 1, sub j, bedoelde voorschriften, worden gelijkgesteld normen en voorschriften die worden gesteld in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat bindend is voor Nederland, en die ten minste een gelijkwaardig niveau waarborgen.
 
@@ -1193,78 +1271,6 @@ Indien in de inrichting niet meer dan 10 000 kg consumentenvuurwerk, niet zijnde
 5. In deze bijlage wordt onder vuurwerk begrepen professioneel vuurwerk, pyrotechnische artikelen voor theatergebruik alsmede consumentenvuurwerk.
 
 6. In de begripsomschrijvingen van brandwerendheid van bouwdelen en brandwerendheid van deur-, luik- en raamconstructies wordt in plaats van «NEN 6069, uitgave 2005» gelezen «NEN 6069, uitgave 1991» voor zover de bepalingen in deze bijlage betrekking hebben op bouwdelen of deur-, luik- en raamconstructies die voor 1 juli 2012 tot stand zijn gebracht.
-
-1.6 De bewaarplaats, bufferbewaarplaats en verkoopruimte worden niet eerder in gebruik genomen dan nadat door een inspectie-instelling als bedoeld in voorschrift 1.5 een goedkeurend inspectierapport is afgegeven of nadat een certificaat door een daartoe op basis van EN 45011 door de Raad voor Accreditatie geaccrediteerde certificatie-instelling is afgegeven. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de eerste volzin. Uit het goedkeurend inspectierapport of het certificaat blijkt dat de brandbeveiligingsinstallatie voldoet aan het goedgekeurde programma van eisen. Het goedkeurend inspectierapport of het certificaat is binnen de inrichting aanwezig.
-
-1.7 Iedere twaalf maanden na aanleg van de brandbeveiligingsinstallatie wordt door een inspectie-instelling als bedoeld in voorschrift 1.5 beoordeeld of de brandbeveiligingsinstallatie functioneert en is onderhouden conform het in voorschrift 1.5 bedoelde goedgekeurde programma van eisen. De inspectierapporten zijn binnen de inrichting aanwezig. Een bewaarplaats of een bewerkingsruimte is niet in gebruik indien uit een inspectierapport blijkt dat de brandbeveiligingsinstallatie niet voldoet aan het in voorschrift 1.5 bedoelde goedgekeurde programma van eisen.
-
-1.1 Binnen de inrichting mag de totale netto explosieve massa niet meer bedragen dan 6 000 kg. Dit voorschrift geldt niet voor het ononderbroken lossen van vuurwerk uit een vervoermiddel in de inrichting.
-
-1.2 De voorschriften van deze bijlage zijn niet van toepassing op fop- en schertsvuurwerk, mits binnen de inrichting niet meer dan 200 kg fop- en schertsvuurwerk aanwezig is.
-
-1.3 Bij de vaststelling van de in deze bijlage genoemde hoeveelheden vuurwerk wordt, indien meer dan 200 kg fop- en schertsvuurwerk aanwezig is, 10 kg fop- en schertsvuurwerk gelijk gesteld aan 1 kg consumentenvuurwerk.
-
-1.4 In de bewaarplaats en in de bewerkingsruimte is een automatische sprinklerinstallatie met automatische doormelding naar de centrale meldkamer van de brandweer aanwezig.
-
-1.5 De brandbeveiligingsinstallatie is ontworpen, aangelegd, opgeleverd en onderhouden overeenkomstig een uitgangspuntendocument. Het uitgangspuntendocument is beoordeeld door een door de Stichting Raad voor Accreditatie geaccrediteerde NEN-EN-ISO/IEC 17020 type A inspectie-instelling wat betreft het uitvoeren van beoordelingen en inspecties ten aanzien van brandbeveiligingsinstallaties. Met toepassing van [artikel 28, eerste lid, laatste zinsnede van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de tweede volzin. Het uitgangspuntendocument en de beoordeling door de inspectie-instelling zijn goedgekeurd door het bevoegd gezag, voordat met de aanleg van de brandbeveiligingsinstallatie wordt begonnen. Het uitgangspuntendocument en de beoordeling door de inspectie-instelling zijn binnen de inrichting aanwezig.
-
-1.6 De bewaarplaats, bufferbewaarplaats en verkoopruimte worden niet eerder in gebruik genomen dan nadat een inspectie-instelling als bedoeld in voorschrift 1.5 een inspectierapport heeft afgegeven waaruit blijkt dat de brandbeveiligingsinstallatie voldoet aan het goedgekeurde uitgangspuntendocument. Het inspectierapport, bedoeld in de eerste volzin, is binnen de inrichting aanwezig.
-
-1.7 Iedere twaalf maanden na aanleg van de brandbeveiligingsinstallatie wordt door een inspectie-instelling als bedoeld in voorschrift 1.5 beoordeeld of de brandbeveiligingsinstallatie functioneert en is onderhouden conform het in voorschrift 1.5 bedoelde goedgekeurde uitgangspuntendocument. De inspectierapporten zijn binnen de inrichting aanwezig. Een bewaarplaats of een bewerkingsruimte is niet in gebruik zolang uit het laatst opgestelde inspectierapport blijkt dat de brandbeveiligingsinstallatie niet voldoet aan het goedgekeurde uitgangspuntendocument.
-
-1.8 Vervallen.
-
-1.9 De wijze waarop vuurwerk wordt opgeslagen heeft geen negatieve invloed op de functionele werking van de automatische sprinklerinstallatie. Daartoe is de wijze van opslaan tenminste in overeenstemming met de uitgangspunten die ten aanzien daarvan ten grondslag hebben gelegen aan het ontwerp van de automatische sprinklerinstallatie, zoals deze zijn neergelegd in het uitgangspuntendocument. Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan de wijze waarop verpakt of onverpakt vuurwerk wordt opgeslagen.
-
-1.10 In de bewaarplaats en in de bewerkingsruimte is ten minste één draagbaar blustoestel aanwezig, met een inhoud van ten minste 12 kg ABC-bluspoeder, waarvan het ABC-bluspoeder minstens 40% ammoniumfosfaat bevat. De loopafstand vanaf elk willekeurig punt in de bewaarplaats en in de bewerkingsruimte tot aan een blustoestel bedraagt maximaal 20 m.
-
-1.11 Opdat een brand binnen redelijke tijd kan worden geblust, heeft een bewaarplaats en een bewerkingsruimte één of meer brandslanghaspels, waarbij aan de volgende voorwaarden is voldaan:
-
-1.12 De brandslanghaspel is steeds voor onmiddellijk gebruik beschikbaar en kan onbelemmerd worden bereikt. De brandslanghaspel wordt jaarlijks door een deskundige gecontroleerd op zijn deugdelijkheid.
-
-1.13 Teneinde domino-effecten te voorkomen, is voldoende afstand in acht genomen tussen de bewaarplaats onderscheidenlijk de bewerkingsruimte en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn. Daartoe mag een brand ter plaatse van andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn op de gevel van de bewaarplaats onderscheidenlijk de bewerkingsruimte geen grotere stralingsbelasting dan 15 kW per m2 veroorzaken. Om domino-effecten te voorkomen kan het bevoegd gezag bij maatwerkvoorschrift een grotere interne veiligheidsafstand eisen dan uit de toepassing van de tweede volzin voortvloeit.
-
-1.14 Teneinde instantane sympathische reacties door grondschok, drukgolf, thermische effecten en uitgeworpen brokstukken en artikelfragmenten te voorkomen, dient voldoende afstand te worden aangehouden tussen bewaarplaatsen en bewerkingsruimten en tussen deze plaatsen en ruimten onderling.
-
-1.15 Iedere vijf jaar vanaf de goedkeuring van het uitgangspuntendocument door het bevoegd gezag wordt dat document beoordeeld door een inspectie-instelling als bedoeld in voorschrift 1.5. De beoordeling bestaat in ieder geval uit een beoordeling van de gehanteerde uitgangspunten en normen in het uitgangspuntendocument in relatie tot de uitgangspunten en normen die gezien de actuele stand der techniek gehanteerd worden op het moment van de beoordeling en in relatie tot eventuele doorgevoerde wijzigingen.
-
-### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
-
-2.9 In een bewaarplaats voldoen de gebruikte apparatuur en de installaties aan de in NPR 7910-2 genoemde voorschriften voor zone 22. De maximaal toegelaten oppervlaktetemperatuur van de gebruikte apparatuur en de installaties is 100°C.
-
-2.1 Een bewaarplaats wordt gelijkgesteld met een brandcompartiment. De brandwerendheid van een bewaarplaats is niet lager dan 60 minuten. Bovendien zijn de wanden, vloer en afdekking van een bewaarplaats vervaardigd van metselwerk, beton of gasbeton.
-
-2.2 Van een bewaarplaats zijn, behalve de toegangsdeur en de ventilatieopeningen, in de wanden en de afdekking geen openingen of ramen aanwezig.
-
-2.3 De toegangsdeur van de bewaarplaats:
-
-2.4 Met het oog op een goede ventilatie zijn in de muren vlak boven de vloer en vlak onder of in het dak voldoende afsluitbare en met roosters afgeschermde ventilatieopeningen aangebracht, waarvan het totale oppervlak ten minste 0,5% van het vloeroppervlak bedraagt. Ventilatieopeningen zijn voorzien van vlamkerende roosters.
-
-2.5 Ventilatie- en afzuiginstallaties zijn zo geconstrueerd, dat zich hierin geen stoffen kunnen ophopen dan wel zodanig samenkomen, dat gevaar van brand of explosie ontstaat. Voorts is de installatie zodanig geconstrueerd en geaard, dat de weerstand, gemeten tussen elk deel van de installatie en de aardleiding, ten hoogste 1 ohm bedraagt. Zij moeten jaarlijks worden gecontroleerd door een onafhankelijke deskundige.
-
-2.6 De vloeren vertonen geen scheuren of kieren en zijn afgewerkt met een deklaag, die ter voorkoming van stofvorming slechts weinig aan slijtage onderhevig is, en die bovendien niet elektriciteit-isolerend (weerstand kleiner dan 10 000 000 ohm) is. Vloeren in bewaarplaatsen zijn volledig vonkvrij. De grootte van de weerstand wordt ten minste eenmaal per 6 maanden gemeten door een onafhankelijke deskundige.
-
-2.7 Ter voorkoming van opeenhoping van stof en ter vergemakkelijking van de reiniging, zijn de muren glad afgewerkt zonder horizontale lijsten of randen.
-
-2.8 Transformator- en schakelgebouwen zijn zo geconstrueerd, dat zij geen gevaar opleveren voor bewaarplaatsen die in de nabijheid van die gebouwen liggen. Zij zijn ten minste 15 m daarvan verwijderd.
-
-2.9 In een bewaarplaats voldoen de gebruikte apparatuur en de installaties aan de in NPR 7910-2 genoemde voorschriften voor zone 22. De maximaal toegelaten oppervlaktetemperatuur van de gebruikte apparatuur en de installaties is 100°C.
-
-## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2002-07-01&g=2002-07-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2002-07-01&g=2002-07-01), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2002-07-01&g=2002-07-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2002-07-01&g=2002-07-01)
-
-### A. Begripsbepalingen
-
-2.12 Een bovengrondse elektriciteitsleiding nadert de bewaarplaats niet dichter dan 15 m. Leidt de leiding naar de bewaarplaats, dan is zij vanaf die afstand tot het bereiken van een schakel- en verdeelinrichting ondergronds aangebracht.
-
-### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
-
-2.14 De elektrische installatie is verdeeld in groepen, die kunnen worden in- en uitgeschakeld met behulp van groepschakelaars op het schakelbord, bedoeld in het vorige voorschrift. Daarop is tevens een direct bedienbare hoofdschakelaar aangebracht waarmee de gehele installatie kan worden uitgeschakeld.
-
-2.15 De bewaarplaats is afdoende beveiligd tegen blikseminslag. Daartoe is de bewaarplaats voorzien van een bliksemafleidinstallatie die voldoet aan de eisen van NEN 1014. In afwijking van NEN 1014 wordt de installatie jaarlijks gecontroleerd. Een afschrift van het rapport van de controle is binnen de inrichting aanwezig.
-
-2.16 Rondom de bewaarplaats is op een afstand van ten minste 15 m een deugdelijke afrastering van metaalvlechtwerk met een hoogte van ten minste 2 m aanwezig. De toegangspoort in de afrastering wordt alleen geopend voor werkzaamheden of controle in de bewaarplaats en is verder afgesloten. Binnen de afrastering bevindt zich geen naaldhoutbeplanting en binnen een afstand van 5 m van de bewaarplaats bevindt zich bovendien geen loofhout. Daarnaast bevinden zich binnen de afrastering geen goederen, snoeimateriaal en overige materialen die door vuur tot ontbranding kunnen worden gebracht.
-
-2.17 In een bewaarplaats wordt voor verwarming uitsluitend gebruik gemaakt van:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1350,11 +1356,11 @@ Vervallen
 
 ### Paragraaf 4. Verkoopruimte
 
-Dit voorschrift is niet van toepassing indien geen opslag van vuurwerk plaatsvindt.
+1. In deze bijlage wordt verstaan onder:
 
-### Paragraaf 4. Verkoopruimte
+### B. Voorschriften
 
-5.7 Iedere vijf jaar vanaf de goedkeuring van het uitgangspuntendocument door het bevoegd gezag wordt dat document beoordeeld door een inspectie-instelling als bedoeld in voorschrift 5.2. De beoordeling bestaat in ieder geval uit een beoordeling van de gehanteerde uitgangspunten en normen in het uitgangspuntendocument in relatie tot de uitgangspunten en normen die gezien de actuele stand der techniek gehanteerd worden op het moment van de beoordeling en in relatie tot de doorgevoerde wijzigingen.
+1.10 In de bewaarplaats en de bufferbewaarplaats voldoet de gebruikte apparatuur en de installaties aan de in NPR 7910-2 genoemde voorschriften voor zone 22. De maximaal toegelaten oppervlaktetemperatuur is 100°C.
 
 ### A. Begripsbepalingen
 
@@ -1362,7 +1368,7 @@ Dit voorschrift is niet van toepassing indien geen opslag van vuurwerk plaatsvin
 
 ### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
 
-1.16 Op grond van de beoordeling, bedoeld in voorschrift 1.15, kan het bevoegd gezag besluiten de beschikking omtrent de goedkeuring van het uitgangspuntendocument in te trekken.
+5.8 Op grond van de beoordeling, bedoeld in voorschrift 5.7, kan het bevoegd gezag besluiten de beschikking omtrent de goedkeuring van het uitgangspuntendocument in te trekken.
 
 ### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
 
@@ -1370,23 +1376,23 @@ Dit voorschrift is niet van toepassing indien geen opslag van vuurwerk plaatsvin
 
 2.11 Horizontaal lopende gedeelten van de elektriciteitsleiding zijn buiten handbereik geplaatst dan wel in de vloer gelegd. Indien daartoe aanleiding bestaat, zijn zij tegen stoten afgeschermd.
 
-2.13 In een bewaarplaats zijn geen schakel- en verdeelinrichtingen of contactdozen aangebracht. Dergelijke apparatuur is aangebracht op een schakelbord aan de buitenzijde van de bewaarplaats.
+2. Voor zover een NEN-norm of NPR-richtlijn waarnaar in een voorschrift verwezen wordt, betrekking heeft op de uitvoering van constructies, toestellen en apparaten, wordt bedoeld de laatste vóór 1 juli 2012 uitgegeven norm met de daarop tot die datum uitgegeven aanvullingen of correctiebladen dan wel – voor zover het op voornoemde datum reeds bestaande constructies, toestellen en apparaten betreft – de norm die bij de aanleg of installatie van die constructies, toestellen en apparaten is toegepast, tenzij in het voorschrift anders is bepaald.
 
 ## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2004-05-05&g=2004-05-05), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2004-05-05&g=2004-05-05), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2004-05-05&g=2004-05-05) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2004-05-05&g=2004-05-05)
 
-### A. Begripsbepalingen
+### B. Voorschriften
 
 2.19 Bij elektrische verwarming als bedoeld in voorschrift 2.17, onder b, worden alleen afgesloten radiatoren gebruikt. De oppervlaktetemperatuur van die radiatoren mag ten hoogste 100°C bedragen.
 
 ### A. Begripsbepalingen
 
-2.21 De voorschriften 2.1 tot en met 2.20 zijn van overeenkomstige toepassing op de constructie van een bewerkingsruimte, met dien verstande dat:
+1.2 De voorschriften van deze bijlage zijn niet van toepassing op fop- en schertsvuurwerk, mits binnen de inrichting niet meer dan 200 kg fop- en schertsvuurwerk aanwezig is.
 
-2.22 In de bewerkingsruimte is een zodanige leiding aangebracht, dat het mogelijk is gereedschappen en werktuigen door middel van deze leiding te aarden. De leiding is verbonden aan een aardelektrode overeenkomstig NEN 1014. Dezelfde aardelektrode wordt niet toegepast voor de bliksembeveiligingsinstallatie.
+1.3 Bij de vaststelling van de in deze bijlage genoemde hoeveelheden vuurwerk wordt, indien meer dan 200 kg fop- en schertsvuurwerk aanwezig is, 10 kg fop- en schertsvuurwerk gelijk gesteld aan 1 kg consumentenvuurwerk.
 
-2.23 In de bewerkingsruimte is een aparte ruimte aanwezig, waar overkleding en schoeisel kunnen worden geborgen.
+1.4 In de bewaarplaats en in de bewerkingsruimte is een automatische sprinklerinstallatie met automatische doormelding naar de centrale meldkamer van de brandweer aanwezig.
 
-2.24 Bij de ingang van de bewerkingsruimte is een aardingsmogelijkheid aanwezig.
+1.5 De brandbeveiligingsinstallatie is ontworpen, aangelegd, opgeleverd en onderhouden overeenkomstig een uitgangspuntendocument. Het uitgangspuntendocument is beoordeeld door een door de Stichting Raad voor Accreditatie geaccrediteerde NEN-EN-ISO/IEC 17020 type A inspectie-instelling wat betreft het uitvoeren van beoordelingen en inspecties ten aanzien van brandbeveiligingsinstallaties. Met toepassing van [artikel 28, eerste lid, laatste zinsnede van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om accreditatie als bedoeld in de tweede volzin. Het uitgangspuntendocument en de beoordeling door de inspectie-instelling zijn goedgekeurd door het bevoegd gezag, voordat met de aanleg van de brandbeveiligingsinstallatie wordt begonnen. Het uitgangspuntendocument en de beoordeling door de inspectie-instelling zijn binnen de inrichting aanwezig.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1416,23 +1422,23 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
 
-### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
+### Paragraaf 1. Algemene voorschriften voor de opslag en voor de verkoop
 
 ### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
 
 ### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
 
-### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
+### C. Opslag van ten hoogste 10 000 kilogram consumentenvuurwerk
 
 ## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2008-01-01&g=2008-01-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2008-01-01&g=2008-01-01), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2008-01-01&g=2008-01-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2008-01-01&g=2008-01-01)
 
-### A. Begripsbepalingen
+### Paragraaf 1. Algemene voorschriften
 
-2.20 Alle radiatoren en leidingen zijn zodanig aangelegd en afgeschermd, dat zij niet onopzettelijk kunnen worden aangeraakt en dat er geen voorwerpen op kunnen worden geplaatst.
+1.1 Binnen de inrichting mag de totale netto explosieve massa niet meer bedragen dan 6 000 kg. Dit voorschrift geldt niet voor het ononderbroken lossen van vuurwerk uit een vervoermiddel in de inrichting.
 
 ### B. Veiligheidsafstanden
 
-3.9 De bewaarplaats is zodanig ingericht dat visuele inspectie van vuurwerk mogelijk is en het inbrengen en uitnemen van vuurwerk niet wordt belemmerd. In een betreedbare bewaarplaats is daarom ten minste één gangpad met een breedte van ten minste 75 cm aanwezig.
+1.6 De bewaarplaats, bufferbewaarplaats en verkoopruimte worden niet eerder in gebruik genomen dan nadat een inspectie-instelling als bedoeld in voorschrift 1.5 een inspectierapport heeft afgegeven waaruit blijkt dat de brandbeveiligingsinstallatie voldoet aan het goedgekeurde uitgangspuntendocument. Het inspectierapport, bedoeld in de eerste volzin, is binnen de inrichting aanwezig.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1478,7 +1484,7 @@ Dit besluit berust mede op de [artikelen 9.2.1.4](https://wetten.overheid.nl/jci
 
 ### B. Veiligheidsafstanden
 
-3.1 In de bewaarplaats worden geen andere goederen dan vuurwerk en daarvoor benodigde materialen en hulpmiddelen opgeslagen. Indien in de bewaarplaats vuurwerk is opgeslagen, dan mogen in die bewaarplaats geen bewerkingen plaatsvinden.
+1.7 Iedere twaalf maanden na aanleg van de brandbeveiligingsinstallatie wordt door een inspectie-instelling als bedoeld in voorschrift 1.5 beoordeeld of de brandbeveiligingsinstallatie functioneert en is onderhouden conform het in voorschrift 1.5 bedoelde goedgekeurde uitgangspuntendocument. De inspectierapporten zijn binnen de inrichting aanwezig. Een bewaarplaats of een bewerkingsruimte is niet in gebruik zolang uit het laatst opgestelde inspectierapport blijkt dat de brandbeveiligingsinstallatie niet voldoet aan het goedgekeurde uitgangspuntendocument.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -1486,9 +1492,9 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 1. Als een persoon met gespecialiseerde kennis worden aangewezen:
 
-- a. een persoon die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13);
+- a. een persoon die een inrichting drijft als bedoeld in [artikel 3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22) of [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22);
 
-- b. een houder van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- b. een houder van een vergunning als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
 - c. medewerkers van de politie in de uitoefening van hun functie;
 
@@ -1502,11 +1508,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 1.1.7
 
-Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
-
-- a. de invoering van een traceerbaarheidssysteem als bedoeld in artikel 18, tweede lid onder a, van de EG-richtlijn pyrotechnische artikelen;
-
-- b. het aanleggen van gemeenschappelijke criteria voor het regelmatig verzamelen en bijwerken van gegevens over ongevallen in verband met pyrotechnische artikelen, als bedoeld in artikel 18, tweede lid onder b, van de EG-richtlijn pyrotechnische artikelen.
+Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de praktische regelingen voor het regelmatig verzamelen en bijwerken van gegevens over ongevallen, als bedoeld in artikel 43, onder b, van de EU-richtlijn pyrotechnische artikelen.
 
 ##### Artikel 1.1.8
 
@@ -1516,7 +1518,7 @@ Vervallen
 
 ##### Artikel 1.2.2a
 
-Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2014-12-13&g=2014-12-13), [2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2014-12-13&g=2014-12-13), en [2.1.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2014-12-13&g=2014-12-13), dan wel [3.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2014-12-13&g=2014-12-13), en [3A.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2014-12-13&g=2014-12-13), vuurwerk of pyrotechnische artikelen voor theatergebruik op te slaan of te bewerken indien niet wordt voldaan aan de voorschriften die zijn gesteld krachtens [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), dan wel krachtens dit besluit.
+Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=3&artikel=1.3.1&z=2015-09-22&g=2015-09-22), [2.1.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.2&z=2015-09-22&g=2015-09-22), en [2.1.3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), dan wel [3.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22), en [3A.1.1, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22), vuurwerk of pyrotechnische artikelen voor theatergebruik op te slaan of te bewerken indien niet wordt voldaan aan de voorschriften die zijn gesteld krachtens [artikel 9.2.2.1, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), dan wel krachtens dit besluit.
 
 #### § 3. Binnen en buiten het grondgebied van Nederland brengen
 
@@ -1530,53 +1532,79 @@ Het is verboden, behoudens het bepaalde in de [artikelen 1.3.1, derde lid](https
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
-- **aangemelde instantie:** aangemelde instantie als bedoeld in artikel 10 van de EG-richtlijn pyrotechnische artikelen;
+- **aangemelde instanties:** aangemelde instanties als bedoeld in artikel 21 van de EU-richtlijn pyrotechnische artikelen;
 
-- **bijlage I van de EG-richtlijn pyrotechnische artikelen:** bijlage I bij de EG-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld;
+- **aangewezen instantie:** een instantie, aangewezen door Onze Minister, die conformiteitsbeoordelingsactiviteiten verricht, zoals onder meer het ijken, testen, certificeren en inspecteren;
 
-- **bijlage II van de EG-richtlijn pyrotechnische artikelen:** bijlage II bij de EG-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld, voor zover het betreft de in het tweede lid genoemde onderdelen van de bijlage, en bijlage II bij de EG-richtlijn pyrotechnische artikelen voor de overige onderdelen van de bijlage;
+- **accreditatie:** accreditatie zoals gedefinieerd in artikel 2, tiende lid, van de Verordening;
 
-- **conformiteitsbeoordelingsprocedure:** procedure als bedoeld in bijlage II van de EG-richtlijn pyrotechnische artikelen;
+- **bevoegde autoriteit:** Onze Minister;
 
-- **fundamentele veiligheidseisen:** fundamentele veiligheidseisen, bedoeld in bijlage I van de EG-richtlijn pyrotechnische artikelen;
+- **bijlage I bij de EU-richtlijn:** bijlage I bij de EU-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld;
 
-- **geharmoniseerde norm:** Europese norm die op basis van een mandaat van de Europese Commissie door een Europees normalisatie-instituut is goedgekeurd overeenkomstig de in richtlijn 98/34/EG van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften (**PB L 204)** vastgestelde procedures;
+- **bijlage II bij de EU-richtlijn:** bijlage II bij de EU-richtlijn pyrotechnische artikelen, naar de tekst zoals deze bij die richtlijn is vastgesteld, voor zover het betreft de in het tweede lid genoemde onderdelen van de bijlage, en bijlage II bij de EU-richtlijn pyrotechnische artikelen voor de overige onderdelen van de bijlage;
 
-- **module B, C, D, E, G en H:** module B, C, D, E, G en H als bedoeld in bijlage II van de EG-richtlijn pyrotechnische artikelen.
+- **conformiteitsbeoordeling:** proces waarin wordt beoordeeld of voldaan is aan de essentiële veiligheidseisen;
 
-2. De in het eerste lid, in de begripsomschrijving van bijlage II van de EG-richtlijn pyrotechnische artikelen, bedoelde onderdelen van die bijlage zijn:
+- **conformiteitsbeoordelingsprocedure:** procedure als bedoeld in bijlage II bij de EU-richtlijn;
 
-- a. Module B, de onderdelen 6 tot en met 9;
+- **essentiële veiligheidseisen:** essentiële veiligheidseisen als bedoeld in bijlage I bij de EU-richtlijn;
 
-- b. Module C, de onderdelen 2 tot en met 4;
+- **EU-conformiteitsverklaring:** verklaring dat een product voldoet aan de eisen van de EU-richtlijn pyrotechnische artikelen als bedoeld in artikel 18, eerste tot en met derde lid, van die richtlijn;
 
-- c. Module D, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6;
+- **geharmoniseerde norm:** geharmoniseerde norm als bedoeld in artikel 2, eerste lid, onder c, van Verordening (EU) nr. 1025/2012 van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de richtlijnen 89/686/EEG en 93/15/EEG van de Raad alsmede de richtlijnen 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG en 2009/105/EG van het Europees Parlement en de Raad en tot intrekking van beschikking 87/95/EEG van de raad en besluit nr. 1673/2006/EG van het Europees Parlement en de Raad;
 
-- d. Module E, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6;
+- **harmonisatiewetgeving van de Europese Unie:** alle wetgeving van de Europese Unie die de voorwaarden voor het verhandelen van producten harmoniseert;
 
-- e. Module H, de onderdelen 3.4, 4.2 tot en met 4.4, 5 en 6.
+- **markttoezicht:** hetgeen daaronder in hoofdstuk 5 van de EU-richtlijn pyrotechnische artikelen wordt verstaan;
+
+- **markttoezichthouder:** de in artikel 5:10, eerste lid, van de Wet algemene bepalingen omgevingsrecht bedoelde ambtenaren, die handelen in het kader van het markttoezicht
+
+- **module B, C2, D, E, G en H:** module B, C2, D, E, G en H als bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen;
+
+- **nationale accreditatie-instantie:** nationale accreditatie-instantie zoals gedefinieerd in artikel 2, elfde lid, van de Verordening;
+
+- **technische specificatie:** document dat de technische vereisten voorschrijft waaraan vuurwerk of een pyrotechnisch artikel voor theatergebruik moet voldoen;
+
+- **terugroepen:** maatregel waarmee wordt beoogd vuurwerk of een pyrotechnisch artikel voor theatergebruik te doen terugkeren dat al aan de eindgebruiker ter beschikking is gesteld;
+
+- **uit de handel nemen:** maatregel waarmee wordt beoogd te voorkomen dat vuurwerk of een pyrotechnisch artikel voor theatergebruik dat zich in de toeleveringsketen bevindt, op de markt wordt aangeboden;
+
+- **Verordening:** Verordening (EG) nr. 765/2008 van het Europees parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van Verordening (EEG) nr. 339/93;
+
+2. De in het eerste lid, in de begripsomschrijving van bijlage II bij de EU-richtlijn, bedoelde onderdelen van die bijlage zijn:
+
+- a. Module B, de onderdelen 7, tweede alinea, tot en met 9;
+
+- b. Module C2, de onderdelen 2 tot en met 4.2, voor zover het betreft het ter beschikking houden van de EU-conformiteitsverklaring;
+
+- c. Module D, de onderdelen 3.4, 3.5, 4.2 tot en met 4.4, 6 en 7;
+
+- d. Module E, de onderdelen 3.4, 3.5, 4.2 tot en met 4.4, 6 en 7;
+
+- e. Module H, de onderdelen 3.4, 3,5, 4.2 tot en met 4.4, 6 en 7.
 
 ##### Artikel 1A.1.2
 
-1. Een wijziging van artikel 10 of 11 van de EG-richtlijn pyrotechnische artikelen, van bijlage II van de EG-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in [artikel 1A.1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.1&z=2014-12-13&g=2014-12-13), en van bijlage III of IV van de EG-richtlijn pyrotechnische artikelen gaat voor de toepassing van dit besluit en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
+1. Een wijziging van artikel 10 van de EU-richtlijn pyrotechnische artikelen, van bijlage II bij de EU-richtlijn pyrotechnische artikelen, met uitzondering van de onderdelen, genoemd in artikel 1A.1.1, tweede lid, en van bijlage III of IV bij de EU-richtlijn pyrotechnische artikelen gaat voor de toepassing van dit besluit en de daarop berustende bepalingen gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn of het betrokken wijzigingsbesluit uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-2. Onze Minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid, daarvan mededeling in de Staatscourant.
+2. Onze Minister doet meteen na het van kracht worden van een wijziging als bedoeld in het eerste lid daarvan mededeling in de Staatscourant.
 
 ##### Artikel 1A.1.3
 
-1. De fabrikant brengt vuurwerk of pyrotechnische artikelen voor theatergebruik in een bepaalde categorie onder op grond van toepassing, doel en gevaar, met inbegrip van hun geluidniveau.
+1. De fabrikant brengt het vuurwerk of het pyrotechnische artikel voor theatergebruik in een bepaalde categorie onder op grond van toepassing, doel en gevaar, met inbegrip van hun geluidniveau.
 
 2. Een aangemelde instantie bevestigt de categorisering als onderdeel van de conformiteitsbeoordelingsprocedure.
 
 3. De categorieën luiden als volgt:
 
-- a). **vuurwerk** Categorie 1: vuurwerk dat zeer weinig gevaar en een te verwaarlozen geluidsniveau oplevert en bestemd is voor gebruik in een besloten ruimte, inclusief vuurwerk dat bestemd is voor gebruik binnenshuis; Categorie 2: vuurwerk dat weinig gevaar en een laag geluidsniveau oplevert en bestemd is voor gebruik buitenshuis in een afgebakende plaats; Categorie 3: vuurwerk dat middelmatig gevaar oplevert en bestemd is voor gebruik buitenshuis in een grote open ruimte, en waarvan het geluidsniveau niet schadelijk is voor de menselijke gezondheid; Categorie 4: vuurwerk dat veel gevaar oplevert en uitsluitend bestemd is voor gebruik door personen met gespecialiseerde kennis, en waarvan het geluidsniveau niet schadelijk is voor de menselijke gezondheid.
+- a. **vuurwerk** Categorie F1: vuurwerk dat zeer weinig gevaar en een te verwaarlozen geluidsniveau oplevert en bestemd is voor gebruik in een besloten ruimte, inclusief vuurwerk dat bestemd is voor gebruik binnenshuis; Categorie F2: vuurwerk dat weinig gevaar en een laag geluidsniveau oplevert en bestemd is voor gebruik buitenshuis in een afgebakende plaats; Categorie F3: vuurwerk dat middelmatig gevaar oplevert en bestemd is voor gebruik buitenshuis in een grote open ruimte, en waarvan het geluidsniveau niet schadelijk is voor de menselijke gezondheid; Categorie F4: vuurwerk dat veel gevaar oplevert en uitsluitend bestemd is voor gebruik door personen met gespecialiseerde kennis, en waarvan het geluidsniveau niet schadelijk is voor de menselijke gezondheid.
 
-- b). **pyrotechnische artikelen voor theatergebruik** Categorie T1: pyrotechnische artikelen voor podiumgebruik met gering gevaar; Categorie T2: pyrotechnische artikelen voor podiumgebruik die uitsluitend bestemd zijn om door personen met gespecialiseerde kennis te worden gebruikt.
+- b. **pyrotechnische artikelen voor theatergebruik** Categorie T1: pyrotechnische artikelen voor podiumgebruik met gering gevaar; Categorie T2: pyrotechnische artikelen voor podiumgebruik die uitsluitend bestemd zijn om door personen met gespecialiseerde kennis te worden gebruikt.
 
 ##### Artikel 1A.1.4
 
-De fabrikant zorgt ervoor dat vuurwerk of pyrotechnische artikelen voor theatergebruik voldoen aan de fundamentele veiligheidseisen.
+Vuurwerk of pyrotechnische artikelen voor theatergebruik die in overeenstemming zijn met geharmoniseerde normen of delen daarvan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de essentiële veiligheidseisen die door die normen of delen daarvan worden bestreken.
 
 ##### Artikel 1A.1.5
 
@@ -1602,23 +1630,27 @@ Distributeurs nemen de nodige zorgvuldigheid in acht. Met name vergewissen zij z
 
 ##### Artikel 1A.3.1
 
-Vuurwerk en pyrotechnische artikelen voor theatergebruik worden onderworpen aan een conformiteitsbeoordelingsprocedure overeenkomstig deze paragraaf.
+1. Vuurwerk en pyrotechnische artikelen voor theatergebruik worden onderworpen aan een conformiteitsbeoordelingsprocedure overeenkomstig bijlage II bij de EU-richtlijn pyrotechnische artikelen.
+
+2. De fabrikant voldoet aan de verplichtingen die uit hoofde van bijlage II bij de EU-richtlijn pyrotechnische artikelen aan hem worden gesteld.
+
+3. De aangewezen instantie voldoet aan de verplichtingen die uit hoofde van bijlage II bij de EU-richtlijn pyrotechnische artikelen aan haar worden gesteld.
 
 ##### Artikel 1A.3.2
 
 De fabrikant kiest een van de navolgende conformiteitsbeoordelingsprocedures, volgens welke de door hem gekozen aangemelde instantie de conformiteitsbeoordelingsprocedure uitvoert:
 
-- a). het EG-typeonderzoek (module B), en naar keuze van de fabrikant hetzij:
+- a. het EU-typeonderzoek (module B), en naar keuze van de fabrikant een van de volgende procedures:
 
-- 1°. de overeenstemming met het type (module C),
+- 1°. conformiteit met het type op basis van interne productiecontrole plus productcontroles onder toezicht met willekeurige tussenpozen (module C2);
 
-- 2°. de productiekwaliteitsborging (module D), of,
+- 2°. conformiteit met het type op basis van de kwaliteitsborging van het productieproces (module D); of
 
-- 3°. de productkwaliteitsborging (module E);
+- 3°. conformiteit met het type op basis van productkwaliteitsborging (module E);
 
-- b). de eenheidskeuring (module G), of,
+- b. conformiteit op basis van eenheidskeuring (module G);
 
-- c). de algehele productkwaliteitsborging (module H), voor zover het gaat om vuurwerk van categorie 4.
+- c. conformiteit op basis van volledige kwaliteitsborging (module H), voor zover het gaat om vuurwerk van categorie F4.
 
 ##### Artikel 1A.3.3
 
@@ -1704,77 +1736,87 @@ De fabrikant kiest een van de navolgende conformiteitsbeoordelingsprocedures, vo
 
 ##### Artikel 1A.4.1
 
-1. Nadat de conformiteitsbeoordelingsprocedure met succes is uitgevoerd, worden de pyrotechnische artikelen zichtbaar, leesbaar en onuitwisbaar voorzien van de CE-markering.
+1. De CE-markering wordt zichtbaar, leesbaar en onuitwisbaar op het vuurwerk of het pyrotechnische artikel voor theatergebruik aangebracht. Wanneer dit gezien de aard van het artikel niet mogelijk of niet gerechtvaardigd is, wordt de CE-markering aangebracht op de verpakking en in de begeleidende documenten.
 
-2. Het eerste lid geldt niet voor vuurwerk en pyrotechnische artikelen voor theatergebruik van geringe afmeting, mits
+2. De CE-markering wordt aangebracht voordat het vuurwerk of pyrotechnische artikel voor theatergebruik in de handel wordt gebracht.
 
-- a. aan deze artikelen een identificatieplaatje is bevestigd waarop de in het eerste lid bedoelde gegevens zijn aangebracht, of
+3. Indien de aangemelde instantie betrokken is geweest bij de productiecontrolefase, wordt de CE-markering gevolgd door het identificatienummer van die aangemelde instantie.
 
-- b. deze artikelen zich in een primaire verpakking bevinden waarop de in het eerste lid bedoelde gegevens zijn aangebracht.
-
-3. Het identificatieplaatje, bedoeld in het tweede lid, onder a, moet zodanig zijn ontworpen dat hergebruik onmogelijk is.
-
-4. Het is verboden andere markeringen op pyrotechnische artikelen aan te brengen indien:
-
-- a. zij tot onduidelijkheid kunnen leiden ten aanzien van de betekenis en de vorm van de CE-markering, en
-
-- b. de zichtbaarheid en de leesbaarheid van de CE-markering daardoor in het gedrang komen.
-
-5. Indien de pyrotechnische artikelen tevens vallen onder de reikwijdte van andere bindende besluiten van instellingen van de Europese Unie die een CE-markering voorschrijven dan de EG-richtlijn pyrotechnische artikelen, geeft deze markering aan dat deze artikelen ook geacht worden aan de bepalingen van de andere toepasselijke wetgeving te voldoen.
+4. Het identificatienummer, bedoeld in het derde lid, wordt aangebracht door de aangemelde instantie zelf, dan wel overeenkomstig haar instructies door de fabrikant.
 
 #### § 5. Aangewezen instantie
 
 ##### Artikel 1A.5.1
 
-1. Onze Minister kan een instantie aanwijzen die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedures. Onze Minister meldt de aangewezen instantie aan overeenkomstig artikel 10 van de EG-richtlijn pyrotechnische artikelen.
+1. Onze Minister kan een instantie, die hiertoe een verzoek heeft ingediend overeenkomstig [artikel 1A.5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.2&z=2015-09-22&g=2015-09-22), aanwijzen die bevoegd is tot het uitvoeren van de conformiteitsbeoordelingsprocedure. Onze Minister meldt de aangewezen instantie aan overeenkomstig artikel 21 van de EU-richtlijn pyrotechnische artikelen.
 
-2. De aan te wijzen instantie moet ten minste voldoen aan de minimumcriteria, opgenomen in bijlage III van de EG-richtlijn pyrotechnische artikelen. Aan de aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de minimumcriteria als bedoeld in bijlage III van de EG-richtlijn pyrotechnische artikelen.
+2. De aangewezen instantie voldoet aan de eisen, genoemd in de [artikelen 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22).
 
-3. Indien de aan te wijzen instantie voldoet aan de beoordelingscriteria die in de geharmoniseerde normen voor aangewezen instanties zijn vastgesteld, wordt zij geacht aan de desbetreffende minimumcriteria te voldoen.
+3. Aan de aanwijzing kunnen voorschriften worden verbonden ter uitvoering van de eisen, genoemd in de [artikelen 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22).
 
 ##### Artikel 1A.5.2
 
-1. In het kader van de beoordeling van de conformiteit is de aangewezen instantie in elk geval bevoegd tot het nemen van de volgende besluiten:
+1. Een instantie die wenst te worden aangewezen in de zin van [artikel 1A.5.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.1&z=2015-09-22&g=2015-09-22), dient een verzoek tot aanwijzing in bij Onze Minister.
 
-- a. het beslissen omtrent de afgifte van een verklaring van EG-typeonderzoek in het kader van de toepassing van module B, als bedoeld in bijlage II van de EG-richtlijn pyrotechnische artikelen, onderdeel 1, onder 5;
+2. Het verzoek tot aanwijzing, genoemd in het eerste lid, gaat vergezeld van:
 
-- b. het beslissen omtrent de afgifte van een aanvullende goedkeuring in het kader van de toepassing van module B, als bedoeld in bijlage II van de EG-richtlijn pyrotechnische artikelen, onderdeel 1, onder 6;
+- a. een beschrijving van de conformiteitsbeoordelingsactiviteiten, de conformiteitbeoordelingsmodule(s), genoemd in bijlage II bij de EU-richtlijn pyrotechnische artikelen en het pyrotechnische artikel of de pyrotechnische artikelen waarvoor de instantie verklaart bekwaam te zijn, en
 
-- c. het beslissen omtrent het beoordelen of opnieuw beoordelen van het kwaliteitssysteem in het kader van de toepassing van module D, als bedoeld in bijlage II van de EG-richtlijn pyrotechnische artikelen, onderdeel 3, onder 3.3 en 3.4.
-
-2. Een goedkeurende beoordeling kan door de aangewezen instantie worden ingetrokken indien de fabrikant niet langer voldoet aan de vereisten voor een goedkeurende beoordeling.
+- b. het accreditatiecertificaat dat is afgegeven door een nationale accreditatie-instantie, waarin wordt verklaard dat de instantie voldoet aan de eisen, genoemd in de [artikelen 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22).
 
 ##### Artikel 1A.5.3
 
-Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij of krachtens dit besluit door de aangewezen instantie.
+1. De aangewezen instantie is onafhankelijk van de door haar beoordeelde organisaties en het door haar beoordeeld vuurwerk of de door haar beoordeelde pyrotechnische artikelen voor theatergebruik.
+
+2. De aangewezen instantie, haar hoogste leidinggevenden en het personeel dat de conformiteitsbeoordelingstaken verricht, zijn niet de ontwerper, fabrikant, leverancier, installateur, koper, eigenaar, gebruiker of onderhouder van het vuurwerk, de pyrotechnische artikelen voor theatergebruik, of explosieve stoffen, noch de vertegenwoordiger van een van die partijen. Dit belet echter niet het gebruik van pyrotechnische artikelen of explosieve stoffen die nodig zijn voor de activiteiten van de aangewezen instantie of het gebruik van vuurwerk of pyrotechnische artikelen voor theatergebruik voor persoonlijke doeleinden.
+
+3. De aangewezen instantie, haar hoogste leidinggevenden en het personeel dat de conformiteitsbeoordelingstaken verricht, zijn niet rechtstreeks of als vertegenwoordiger van de betrokken partijen betrokken bij het ontwerpen, vervaardigen of bouwen, verhandelen, installeren, gebruiken of onderhouden van vuurwerk, pyrotechnische artikelen voor theatergebruik of explosieve stoffen. Zij oefenen geen activiteiten uit die hun onafhankelijke oordeel of hun integriteit met betrekking tot conformiteitsbeoordelingsactiviteiten waarvoor zij zijn aangewezen in het gedrang kunnen brengen. Dit geldt met name voor adviesdiensten.
+
+4. De aangewezen instantie waarborgt dat activiteiten van haar dochterondernemingen of onderaannemers geen afbreuk doen aan de vertrouwelijkheid, objectiviteit of onpartijdigheid van de conformiteitsbeoordelingsactiviteiten die de aangewezen instantie verricht;
 
 ##### Artikel 1A.5.4
 
-De aangewezen instantie verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
+1. De aangewezen instantie en haar personeel voeren de conformiteitsbeoordelingsactiviteiten uit met de grootste mate van beroepsintegriteit en met de vereiste technische bekwaamheid op het specifieke gebied.
+
+2. De aangewezen instantie en haar personeel zijn vrij van elke druk en beïnvloeding, met name van financiële aard, die hun oordeel of de resultaten van hun conformiteitsbeoordelingsactiviteiten kunnen beïnvloeden, met name van personen of groepen van personen die belang hebben bij de resultaten van deze activiteiten.
 
 ##### Artikel 1A.5.5
 
-De aangewezen instantie beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de beoordeelde pyrotechnische artikelen afdoende te identificeren.
+1. De aangewezen instantie is in staat alle conformiteitsbeoordelingstaken te verrichten die in bijlage II bij de EU-richtlijn pyrotechnische artikelen aan haar zijn toegewezen en waarvoor zij is aangewezen, ongeacht of deze taak door de aangewezen instantie zelf of namens haar en onder haar verantwoordelijkheid wordt verricht.
+
+2. De aangewezen instantie beschikt te allen tijde, voor elke conformiteitsbeoordelingsprocedure en voor elk soort en elke categorie vuurwerk of pyrotechnische artikelen voor theatergebruik waarvoor zij is aangemeld over:
+
+- a. benodigd personeel met technische kennis en voldoende passende ervaring om de conformiteitsbeoordelingstaken te verrichten;
+
+- b. beschrijvingen van de procedures voor de uitvoering van de conformiteitsbeoordeling, waarbij de transparantie en de mogelijkheid tot reproductie van deze procedures worden gewaarborgd;
+
+- c. gepast beleid en geschikte procedures om een onderscheid te maken tussen taken die zij als aangewezen instantie verricht en andere activiteiten; en
+
+- d. procedures voor de uitoefening van haar activiteiten die naar behoren rekening houden met de omvang van een onderneming, de sector waarin zij actief is, de structuur ervan, de relatieve complexiteit van de producttechnologie in kwestie en het massa- of seriële karakter van het productieproces.
+
+3. Een aangewezen instantie beschikt over de noodzakelijke middelen om de technische en administratieve taken, die zijn verbonden met de conformiteitsbeoordelingsactiviteiten, op passende wijze uit te voeren en heeft toegang tot alle noodzakelijke apparatuur en faciliteiten.
 
 ##### Artikel 1A.5.6
 
-1. Indien een wijziging optreedt in de gegevens op grond waarvan de instantie is aangewezen, doet de instantie hiervan terstond mededeling aan Onze Minister.
+Het personeel van de aangewezen instantie dat verantwoordelijk is voor de conformiteitsbeoordelingstaken beschikt over:
 
-2. Indien de aangewezen instantie voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instantie hiervan terstond mededeling aan Onze Minister. In dat geval worden door de instantie de gegevens, bedoeld in [artikel 1A.5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.5&z=2014-12-13&g=2014-12-13) overgedragen aan Onze Minister.
+- a. een gedegen technische en beroepsopleiding die alle relevante conformiteitsbeoordelingsactiviteiten omvat waarvoor de instantie is aangewezen;
+
+- b. een voldoende kennis van de eisen inzake de beoordelingen die de aangewezen instantie verricht en voldoende bevoegdheden om deze beoordelingen uit te voeren;
+
+- c. voldoende kennis van en inzicht in de essentiële veiligheidseisen, de toepasselijke geharmoniseerde normen en de relevante bepalingen van de harmonisatiewetgeving van de Europese Unie en van het bij of krachtens dit besluit bepaalde; en
+
+- d. de bekwaamheid om certificaten, dossiers en rapporten op te stellen die aantonen dat de beoordelingen zijn verricht.
 
 ##### Artikel 1A.5.7
 
-1. Onze Minister kan de aanwijzing wijzigen of intrekken.
+1. De aangewezen instantie waarborgt haar onpartijdigheid en die van haar leidinggevenden en haar personeel dat de conformiteitsbeoordelingstaken verricht.
 
-2. Onze Minister trekt de aanwijzing in elk geval in indien is gebleken dat de instantie niet of niet langer voldoet aan de minimumcriteria, opgenomen in bijlage III van de EG-richtlijn pyrotechnische artikelen.
-
-3. Onze Minister stelt de andere lidstaten van de Europese Unie en de Europese Commissie onverwijld op de hoogte van het intrekken van de aanwijzing.
+2. De beloning van leidinggevenden en personeel van de aangewezen instantie hangt niet af van het aantal uitgevoerde beoordelingen of van de resultaten daarvan;
 
 ##### Artikel 1A.5.8
 
-1. Indien de aanwijzing van de instantie wordt ingetrokken, behouden de door deze instantie afgegeven certificaten van overeenstemming en bijbehorende documenten hun geldigheid.
-
-2. Indien er een dreigend of rechtstreeks gevaar is voor de gezondheid of de veiligheid, kan Onze Minister, in afwijking van het eerste lid, verklaren dat een of meer certificaten van overeenstemming en bijbehorende documenten hun geldigheid hebben verloren.
+De aangewezen instantie heeft een geldige aansprakelijkheidsverzekering.
 
 ### Hoofdstuk 2. Consumentenvuurwerk
 
@@ -1794,7 +1836,7 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 ### Hoofdstuk 3a. Pyrotechnische artikelen voor theatergebruik
 
-### Hoofdstuk 3b. Het tot ontbranding brengen van vuurwerk en pyrotechnische artikelen voor theatergebruik
+### Hoofdstuk 2. Consumentenvuurwerk
 
 ### Hoofdstuk 4. Veiligheidsafstanden
 
@@ -1808,45 +1850,49 @@ De aangewezen instantie beschikt over een behoorlijke administratie waarin de ge
 
 ##### Artikel 5.3.5
 
-1. De [artikelen 1A.1.3 tot en met 1A.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13) en [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2014-12-13&g=2014-12-13) zijn eerst met ingang van 4 juli 2013 van toepassing op vuurwerk behorende tot categorie 4 en pyrotechnische artikelen voor theatergebruik.
+1. De [artikelen 1A.1.3 tot en met 1A.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22) en [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22) zoals die luidden vóór 1 juli 2015 zijn eerst met ingang van 4 juli 2013 van toepassing op vuurwerk behorende tot categorie F4 en pyrotechnische artikelen voor theatergebruik.
 
-2. Tot en met 3 juli 2017 wordt onder professioneel vuurwerk mede verstaan vuurwerk dat niet behoort tot categorie 1, 2 of 3 en wel behoort tot :
+2. Tot en met 3 juli 2017 wordt onder professioneel vuurwerk mede verstaan vuurwerk dat niet behoort tot categorie F1, F2 of F3 en wel behoort tot :
 
-- a. professioneel vuurwerk als bedoeld in [artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2014-12-13&g=2014-12-13) van het Vuurwerkbesluit, zoals dit artikel luidde op 3 juli 2010,
+- a. professioneel vuurwerk als bedoeld in [artikel 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.1&z=2015-09-22&g=2015-09-22) van het Vuurwerkbesluit, zoals dit artikel luidde op 3 juli 2010,
 
-- b. vuurwerk bestemd voor particulier gebruik als bedoeld in [artikel 1.2.2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2014-12-13&g=2014-12-13), of
+- b. vuurwerk bestemd voor particulier gebruik als bedoeld in [artikel 1.2.2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=2&artikel=1.2.2&z=2015-09-22&g=2015-09-22), of
 
 - c. vuurwerk waarvan de bestemming niet kan worden vastgesteld.
 
-3. [Artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2014-12-13&g=2014-12-13) van het Vuurwerkbesluit, zoals dat artikel luidde op 3 juli 2010, blijft tot en met 3 juli 2017 van toepassing op professioneel vuurwerk als bedoeld in het tweede lid.
+3. [Artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22) van het Vuurwerkbesluit, zoals dat artikel luidde op 3 juli 2010, blijft tot en met 3 juli 2017 van toepassing op professioneel vuurwerk als bedoeld in het tweede lid.
 
-4. Tot en met 3 juli 2013 is het in de handel brengen van vuurwerk behorende tot categorie 4 en van pyrotechnische artikelen voor theatergebruik behorende tot categorie T1 of T2 slechts toegestaan overeenkomstig de artikelen van dit besluit genoemd in het eerste lid, dan wel [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2014-12-13&g=2014-12-13), zoals dat artikel luidde op 3 juli 2010.
+4. Tot en met 3 juli 2013 is het in de handel brengen van vuurwerk behorende tot categorie F4 en van pyrotechnische artikelen voor theatergebruik behorende tot categorie T1 of T2 slechts toegestaan overeenkomstig de artikelen van dit besluit genoemd in het eerste lid, dan wel [artikel 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22), zoals dat artikel luidde op 3 juli 2010.
 
 5. Vuurwerk dat voor 4 juli 2010 in Nederland in de handel is gebracht en voldoet aan de eisen voor consumentenvuurwerk die zijn gesteld bij of krachtens het Vuurwerkbesluit dat gold op 3 juli 2010, mag tot en met 3 juli 2014 in Nederland worden verhandeld of gebruikt overeenkomstig dat besluit.
 
 6. Vuurwerk dat voor 4 juli 2013 in Nederland in de handel is gebracht en voldoet aan de eisen voor professioneel vuurwerk die zijn gesteld bij of krachtens het Vuurwerkbesluit zoals dat gold op 3 juli 2010, mag tot en met 3 juli 2017 in Nederland worden verhandeld of gebruikt overeenkomstig dat besluit.
 
+7. Vuurwerk en pyrotechnische artikelen voor theatergebruik die voldoen aan dit besluit zoals dat onmiddellijk vóór de inwerkingtreding van het besluit van 8 september 2015 tot wijziging van het Vuurwerkbesluit ter implementatie van richtlijn nr. 2013/29/EU van het Europees Parlement en de Raad van 12 juni 2013 betreffende de harmonisatie van de wetgevingen van de lidstaten inzake het op de markt aanbieden van pyrotechnische artikelen (herschikking) (PbEU L 178) en uitvoeringsrichtlijn 2014/58/EU van 16 april 2014 van de Commissie betreffende het opzetten van een traceerbaarheidssysteem voor pyrotechnische artikelen overeenkomstig Richtlijn 2007/23/EG (PbEU L 115) (Stb. 2015, nr. 332) luidde en die vóór dat tijdstip in de handel zijn gebracht, mogen ook na dat tijdstip op de markt worden aangeboden.
+
+8. Conformiteitscertificaten, verstrekt uit hoofde van Richtlijn 2007/23/EG van het Europees Parlement en de Raad van 23 mei 2007 betreffende het in de handel brengen van pyrotechnische artikelen, zijn geldig uit hoofde van de EU-richtlijn pyrotechnische artikelen.
+
 ##### Artikel 5.3.6
 
-1. Een vergunning, verleend op grond van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2014-12-13&g=2014-12-13) van het Vuurwerkbesluit, zoals dit gold tot en met 3 juli 2010, wordt na die datum aangemerkt als een vergunning krachtens [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), van het Vuurwerkbesluit.
+1. Een vergunning, verleend op grond van [artikel 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2015-09-22&g=2015-09-22) van het Vuurwerkbesluit, zoals dit gold tot en met 3 juli 2010, wordt na die datum aangemerkt als een vergunning krachtens [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), van het Vuurwerkbesluit.
 
-2. Een toestemming als bedoeld in [artikel 3.3.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2014-12-13&g=2014-12-13), van het Vuurwerkbesluit, zoals dit gold tot en met 3 juli 2010, wordt na die datum aangemerkt als een toestemming als bedoeld in [artikel 3B.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), van het Vuurwerkbesluit.
+2. Een toestemming als bedoeld in [artikel 3.3.2, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2015-09-22&g=2015-09-22), van het Vuurwerkbesluit, zoals dit gold tot en met 3 juli 2010, wordt na die datum aangemerkt als een toestemming als bedoeld in [artikel 3B.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), van het Vuurwerkbesluit.
 
 3. Een vergunning als bedoeld in het eerste lid, en een toestemming als bedoeld in het tweede lid, gelden tevens voor consumentenvuurwerk en pyrotechnische artikelen voor theatergebruik.
 
 ##### Artikel 5.3.7
 
-1. De [artikelen 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2014-12-13&g=2014-12-13), [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2014-12-13&g=2014-12-13) en [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.4&z=2014-12-13&g=2014-12-13) van het Vuurwerkbesluit zoals dat gold tot en met 3 juli 2010 blijven van toepassing op voor 4 juli 2010 ingediende aanvragen van onderstaande besluiten, totdat deze onherroepelijk zijn geworden:
+1. De [artikelen 3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.2&z=2015-09-22&g=2015-09-22), [3.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.3&z=2015-09-22&g=2015-09-22) en [3.3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=3&artikel=3.3.4&z=2015-09-22&g=2015-09-22) van het Vuurwerkbesluit zoals dat gold tot en met 3 juli 2010 blijven van toepassing op voor 4 juli 2010 ingediende aanvragen van onderstaande besluiten, totdat deze onherroepelijk zijn geworden:
 
 - a. een besluit inzake het verlenen, wijzigen of intrekken van een vergunning voor het tot ontbranding brengen, ten behoeve daarvan opbouwen, installeren, bewerken, dan wel na ontbranding verwijderen van professioneel vuurwerk;
 
 - b. een besluit inzake het verlenen, wijzigen of intrekken van een toestemming voor het tot ontbranding brengen, ten behoeve daarvan opbouwen, installeren, bewerken, dan wel na ontbranding verwijderen van professioneel vuurwerk.
 
-2. [Artikel 5.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=3&artikel=5.3.6&z=2014-12-13&g=2014-12-13) is van overeenkomstige toepassing.
+2. [Artikel 5.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=5&paragraaf=3&artikel=5.3.6&z=2015-09-22&g=2015-09-22) is van overeenkomstige toepassing.
 
 ##### Artikel 5.3.8
 
-Een certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), dat voor 4 juli 2010 is afgegeven aan de houder van een vergunning als bedoeld in [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), geldt, indien het betrekking heeft of mede betrekking heeft op professioneel vuurwerk, mede voor consumentenvuurwerk en pyrotechnische artikelen voor theatergebruik.
+Een certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), dat voor 4 juli 2010 is afgegeven aan de houder van een vergunning als bedoeld in [artikel 3B.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), geldt, indien het betrekking heeft of mede betrekking heeft op professioneel vuurwerk, mede voor consumentenvuurwerk en pyrotechnische artikelen voor theatergebruik.
 
 #### § 4. Slotbepalingen
 
@@ -1860,7 +1906,7 @@ Een certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van 
 
 ### Paragraaf 6. Afstanden tot objecten binnen de inrichting
 
-### Paragraaf 4. Verkoopruimte
+### A. Begripsbepalingen
 
 ### D. Opslag van meer dan 1 000 kilogram consumentenvuurwerk
 
@@ -1874,9 +1920,81 @@ Een certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van 
 
 ### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
 
-3.2 Onbruikbaar vuurwerk dat vanwege de gevaarlijke toestand waarin het verkeert in aanmerking komt voor vernietiging of voor speciale behandeling, mag niet met ander vuurwerk in dezelfde bewaarplaats worden opgeslagen. Hetzelfde geldt voor professioneel vuurwerk waarvan de toestand of herkomst onbekend is.
+1.8 Vervallen.
 
 ### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
+
+1.10 In de bewaarplaats en in de bewerkingsruimte is ten minste één draagbaar blustoestel aanwezig, met een inhoud van ten minste 12 kg ABC-bluspoeder, waarvan het ABC-bluspoeder minstens 40% ammoniumfosfaat bevat. De loopafstand vanaf elk willekeurig punt in de bewaarplaats en in de bewerkingsruimte tot aan een blustoestel bedraagt maximaal 20 m.
+
+1.11 Opdat een brand binnen redelijke tijd kan worden geblust, heeft een bewaarplaats en een bewerkingsruimte één of meer brandslanghaspels, waarbij aan de volgende voorwaarden is voldaan:
+
+1.12 De brandslanghaspel is steeds voor onmiddellijk gebruik beschikbaar en kan onbelemmerd worden bereikt. De brandslanghaspel wordt jaarlijks door een deskundige gecontroleerd op zijn deugdelijkheid.
+
+1.13 Teneinde domino-effecten te voorkomen, is voldoende afstand in acht genomen tussen de bewaarplaats onderscheidenlijk de bewerkingsruimte en andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn. Daartoe mag een brand ter plaatse van andere onderdelen van de inrichting waar gevaarlijke stoffen aanwezig kunnen zijn op de gevel van de bewaarplaats onderscheidenlijk de bewerkingsruimte geen grotere stralingsbelasting dan 15 kW per m2 veroorzaken. Om domino-effecten te voorkomen kan het bevoegd gezag bij maatwerkvoorschrift een grotere interne veiligheidsafstand eisen dan uit de toepassing van de tweede volzin voortvloeit.
+
+1.14 Teneinde instantane sympathische reacties door grondschok, drukgolf, thermische effecten en uitgeworpen brokstukken en artikelfragmenten te voorkomen, dient voldoende afstand te worden aangehouden tussen bewaarplaatsen en bewerkingsruimten en tussen deze plaatsen en ruimten onderling.
+
+1.15 Iedere vijf jaar vanaf de goedkeuring van het uitgangspuntendocument door het bevoegd gezag wordt dat document beoordeeld door een inspectie-instelling als bedoeld in voorschrift 1.5. De beoordeling bestaat in ieder geval uit een beoordeling van de gehanteerde uitgangspunten en normen in het uitgangspuntendocument in relatie tot de uitgangspunten en normen die gezien de actuele stand der techniek gehanteerd worden op het moment van de beoordeling en in relatie tot eventuele doorgevoerde wijzigingen.
+
+1.16 Op grond van de beoordeling, bedoeld in voorschrift 1.15, kan het bevoegd gezag besluiten de beschikking omtrent de goedkeuring van het uitgangspuntendocument in te trekken.
+
+Elektrische ontstekingsmiddelen die niet aan deze eisen voldoen, worden als onveilig beschouwd.
+
+2.1 Een bewaarplaats wordt gelijkgesteld met een brandcompartiment. De brandwerendheid van een bewaarplaats is niet lager dan 60 minuten. Bovendien zijn de wanden, vloer en afdekking van een bewaarplaats vervaardigd van metselwerk, beton of gasbeton.
+
+2.2 Van een bewaarplaats zijn, behalve de toegangsdeur en de ventilatieopeningen, in de wanden en de afdekking geen openingen of ramen aanwezig.
+
+2.3 De toegangsdeur van de bewaarplaats:
+
+2.4 Met het oog op een goede ventilatie zijn in de muren vlak boven de vloer en vlak onder of in het dak voldoende afsluitbare en met roosters afgeschermde ventilatieopeningen aangebracht, waarvan het totale oppervlak ten minste 0,5% van het vloeroppervlak bedraagt. Ventilatieopeningen zijn voorzien van vlamkerende roosters.
+
+2.5 Ventilatie- en afzuiginstallaties zijn zo geconstrueerd, dat zich hierin geen stoffen kunnen ophopen dan wel zodanig samenkomen, dat gevaar van brand of explosie ontstaat. Voorts is de installatie zodanig geconstrueerd en geaard, dat de weerstand, gemeten tussen elk deel van de installatie en de aardleiding, ten hoogste 1 ohm bedraagt. Zij moeten jaarlijks worden gecontroleerd door een onafhankelijke deskundige.
+
+2.6 De vloeren vertonen geen scheuren of kieren en zijn afgewerkt met een deklaag, die ter voorkoming van stofvorming slechts weinig aan slijtage onderhevig is, en die bovendien niet elektriciteit-isolerend (weerstand kleiner dan 10 000 000 ohm) is. Vloeren in bewaarplaatsen zijn volledig vonkvrij. De grootte van de weerstand wordt ten minste eenmaal per 6 maanden gemeten door een onafhankelijke deskundige.
+
+2.7 Ter voorkoming van opeenhoping van stof en ter vergemakkelijking van de reiniging, zijn de muren glad afgewerkt zonder horizontale lijsten of randen.
+
+2.8 Transformator- en schakelgebouwen zijn zo geconstrueerd, dat zij geen gevaar opleveren voor bewaarplaatsen die in de nabijheid van die gebouwen liggen. Zij zijn ten minste 15 m daarvan verwijderd.
+
+2.9 In een bewaarplaats voldoen de gebruikte apparatuur en de installaties aan de in NPR 7910-2 genoemde voorschriften voor zone 22. De maximaal toegelaten oppervlaktetemperatuur van de gebruikte apparatuur en de installaties is 100°C.
+
+2.10 De elektrische installatie draagt een permanent karakter en bestaat uitsluitend uit vaste leidingen.
+
+2.11 Horizontaal lopende gedeelten van de elektriciteitsleiding zijn buiten handbereik geplaatst dan wel in de vloer gelegd. Indien daartoe aanleiding bestaat, zijn zij tegen stoten afgeschermd.
+
+2.12 Een bovengrondse elektriciteitsleiding nadert de bewaarplaats niet dichter dan 15 m. Leidt de leiding naar de bewaarplaats, dan is zij vanaf die afstand tot het bereiken van een schakel- en verdeelinrichting ondergronds aangebracht.
+
+2.13 In een bewaarplaats zijn geen schakel- en verdeelinrichtingen of contactdozen aangebracht. Dergelijke apparatuur is aangebracht op een schakelbord aan de buitenzijde van de bewaarplaats.
+
+### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
+
+2.15 De bewaarplaats is afdoende beveiligd tegen blikseminslag. Daartoe is de bewaarplaats voorzien van een bliksemafleidinstallatie die voldoet aan de eisen van NEN 1014. In afwijking van NEN 1014 wordt de installatie jaarlijks gecontroleerd. Een afschrift van het rapport van de controle is binnen de inrichting aanwezig.
+
+2.16 Rondom de bewaarplaats is op een afstand van ten minste 15 m een deugdelijke afrastering van metaalvlechtwerk met een hoogte van ten minste 2 m aanwezig. De toegangspoort in de afrastering wordt alleen geopend voor werkzaamheden of controle in de bewaarplaats en is verder afgesloten. Binnen de afrastering bevindt zich geen naaldhoutbeplanting en binnen een afstand van 5 m van de bewaarplaats bevindt zich bovendien geen loofhout. Daarnaast bevinden zich binnen de afrastering geen goederen, snoeimateriaal en overige materialen die door vuur tot ontbranding kunnen worden gebracht.
+
+2.17 In een bewaarplaats wordt voor verwarming uitsluitend gebruik gemaakt van:
+
+2.18 Bij centrale verwarming als bedoeld in voorschrift 2.17, onder a, wordt alleen gebruik worden gemaakt van water onder lage druk. De warmtebron is tenminste 15 m van de bewerkingsruimte verwijderd, doch bij voorkeur op een grotere afstand. Indien de afstand minder dan 25 m bedraagt, is op de rookgasafvoer van de centrale verwarming een vonkenvanger geplaatst.
+
+2.19 Bij elektrische verwarming als bedoeld in voorschrift 2.17, onder b, worden alleen afgesloten radiatoren gebruikt. De oppervlaktetemperatuur van die radiatoren mag ten hoogste 100°C bedragen.
+
+2.20 Alle radiatoren en leidingen zijn zodanig aangelegd en afgeschermd, dat zij niet onopzettelijk kunnen worden aangeraakt en dat er geen voorwerpen op kunnen worden geplaatst.
+
+2.21 De voorschriften 2.1 tot en met 2.20 zijn van overeenkomstige toepassing op de constructie van een bewerkingsruimte, met dien verstande dat:
+
+2.22 In de bewerkingsruimte is een zodanige leiding aangebracht, dat het mogelijk is gereedschappen en werktuigen door middel van deze leiding te aarden. De leiding is verbonden aan een aardelektrode overeenkomstig NEN 1014. Dezelfde aardelektrode wordt niet toegepast voor de bliksembeveiligingsinstallatie.
+
+2.23 In de bewerkingsruimte is een aparte ruimte aanwezig, waar overkleding en schoeisel kunnen worden geborgen.
+
+2.24 Bij de ingang van de bewerkingsruimte is een aardingsmogelijkheid aanwezig.
+
+## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2009-12-30&g=2009-12-30), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2009-12-30&g=2009-12-30), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2009-12-30&g=2009-12-30) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2009-12-30&g=2009-12-30)
+
+### A. Begripsbepalingen
+
+3.2 Onbruikbaar vuurwerk dat vanwege de gevaarlijke toestand waarin het verkeert in aanmerking komt voor vernietiging of voor speciale behandeling, mag niet met ander vuurwerk in dezelfde bewaarplaats worden opgeslagen. Hetzelfde geldt voor professioneel vuurwerk waarvan de toestand of herkomst onbekend is.
+
+### B. Veiligheidsafstanden
 
 3.4 Voordat met herstelwerkzaamheden aan een bewaarplaats of een bewerkingsruimte wordt begonnen, is de bewaarplaats onderscheidenlijk de bewerkingsruimte geheel leeg en schoongemaakt. Indien deze werkzaamheden door derden worden uitgevoerd, vindt de aanvang daarvan niet eerder plaats dan nadat degene die de inrichting drijft daarvoor schriftelijk toestemming heeft gegeven.
 
@@ -1886,109 +2004,39 @@ Een certificaat van vakbekwaamheid als bedoeld in [artikel 4.9, tweede lid, van 
 
 3.7 Bij het verplaatsen en (om)stapelen van vuurwerk wordt met de nodige voorzichtigheid gehandeld, waarbij niet wordt gegooid of gesleept met het vuurwerk. Vooral ten aanzien van beschadigd professioneel vuurwerk en ten aanzien van professioneel vuurwerk waarvan de verpakking is geschonden, is uiterste behoedzaamheid geboden.
 
-3.8 Indien professioneel vuurwerk van een hoogte van meer dan 1,5 m is gevallen of zodanig is terechtgekomen dat de verpakking of het professioneel vuurwerk zelf is beschadigd, draagt degene die de inrichting drijft er voor zorg dat het vuurwerk niet wordt verplaatst en dat het vuurwerk onmiddellijk wordt geïnspecteerd.
-
-3.9 De bewaarplaats is zodanig ingericht dat visuele inspectie van vuurwerk mogelijk is en het inbrengen en uitnemen van vuurwerk niet wordt belemmerd. In een betreedbare bewaarplaats is daarom ten minste één gangpad met een breedte van ten minste 75 cm aanwezig.
-
-3.10 Binnen de inrichting worden uitsluitend veilige elektrische ontstekingsmiddelen opgeslagen. Elektrische ontstekingsmiddelen kunnen als veilig worden beschouwd, indien zij:
-
-Elektrische ontstekingsmiddelen die niet aan deze eisen voldoen, worden als onveilig beschouwd.
-
-3.11 Veilige ontstekingsmiddelen worden niet blootgesteld aan hogere veldsterkten of aan grotere vermogensdichtheden dan die waarin zij zijn beproefd.
-
-3.12 Elektrische ontstekingsmiddelen zijn steeds kortgesloten en verpakt in metaal.
-
-3.13 Een bewaarplaats, waarin geen vuurwerk wordt ingebracht, uitgenomen of omgestapeld, alsmede de toegangspoort in de afrastering van deze bewaarplaats is afgesloten. De sleutels, alle voorzien van een sleutelplaat met het nummer van de betrokken deur, worden opgeborgen in een afgesloten kast in het kantoorgebouw. De reservesleutels worden elders in of bij de inrichting opgeborgen in een afgesloten kast.
-
-3.14 De bewaarplaats en de bewerkingsruimte worden goed schoon gehouden. Papierafval, pallets, gebruikte poetslappen en andere ontbrandbare zaken mogen daarin nimmer worden achtergelaten.
-
-3.15 Stoffen en voorwerpen uit ADR-klasse 1 die behoren tot verschillende compatibiliteitsgroepen, zoals die zijn aangegeven in het ADR met de letters A tot en met J, K tot en met N en S, worden gecompartimenteerd opgeslagen, tenzij deze stoffen en voorwerpen gezamenlijk kunnen worden opgeslagen zonder dat:
-
-Het bevoegd gezag kan een maatwerkvoorschrift vaststellen met betrekking tot de compartimentering van de opslag van stoffen en voorwerpen uit verschillende compatibiliteitsgroepen in één ruimte.
-
-3.16 In een bewerkingsruimte mag, onverminderd voorschrift 3.15, uitsluitend professioneel vuurwerk, dat behoort tot dezelfde compatibiliteitsgroep gelijktijdig aanwezig zijn. Dit voorschrift is niet van toepassing op de kortstondige gelijktijdige aanwezigheid van bij elkaar behorende componenten die behoren tot verschillende compatibiliteitsgroepen tijdens het uitpakken, uit elkaar nemen, in elkaar zetten (samenstellen) en inpakken van dat vuurwerk.
-
-4.10 Mechanische transportmiddelen die in een bewerkingsruimte worden toegepast voldoen onverminderd het gestelde in voorschrift 4.9 aan de volgende eisen:
-
-4.1 Werktafels zijn voorzien van een dekplaat van geleidend vonkvrij materiaal, die op deugdelijke wijze is geaard.
-
-4.2 Alle werktuigen, gereedschappen en instrumenten, die tijdens het gebruik statische elektriciteit kunnen opwekken, zijn op deugdelijke wijze geaard. De weerstand tussen elk deel van het werktuig, gereedschap en instrument en de aardleiding mag ten hoogste 1 ohm bedragen.
-
-4.3 Werktuigen zijn waar nodig voorzien van afschermplaten of kappen. De plaatdikte daarvan is afgestemd op de mogelijk optredende hitte-, druk- of scherfwerking.
-
-4.4 Automatische en halfautomatische werktuigen, waarop gevulde vuurwerkartikelen worden bewerkt, zijn voorzien van een drukschakelaar, zodat de machine stopt, wanneer de schakelaar wordt losgelaten. Deze schakelaar mag ook als voet- of knieschakelaar zijn uitgevoerd.
-
-4.5 De werktuigen, gereedschappen en instrumenten verkeren in goede staat. Indien zij niet zijn voorgeschreven door de inrichtinghouder voor de uitvoering van de werkzaamheden, worden zij niet gebruikt.
-
-### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
-
-4.7 Indien aan werktuigen, gereedschappen of instrumenten herstellingen moeten worden verricht, wordt dit materieel ter plaatse eerst zorgvuldig schoongemaakt en van alle explosieve stof ontdaan. De herstellingen worden slechts uitgevoerd door deskundig personeel en niet eerder dan nadat alle vuurwerk uit de betrokken ruimte is verwijderd.
-
-4.8 Voor de (hulp)transportmiddelen wordt elektriciteit voor de aandrijving gebruikt. Zij worden periodiek nagekeken op eventuele gebreken en slijtageverschijnselen. Voor incidentele werkzaamheden binnen de bewaarplaats, alsmede binnen een afstand van 15 m tot de bewaarplaats, worden geen transportmiddelen en andere machines of apparatuur gebruikt die zijn voorzien van een verbrandingsmotor. Deze eisen gelden ook voor werkzaamheden die worden uitgevoerd door derden, zoals onderhoudsbedrijven en hoveniersbedrijven, tenzij het materiaal is uitgerust met een dieselmotor.
-
-4.9 Mechanische transportmiddelen voldoen aan de volgende eisen:
-
-4.10 Mechanische transportmiddelen die in een bewerkingsruimte worden toegepast voldoen onverminderd het gestelde in voorschrift 4.9 aan de volgende eisen:
-
-In plaats van of naast mechanische transportmiddelen mogen ook transportmiddelen worden gebruikt, die met handkracht worden voortbewogen, waarbij de wielen zijn voorzien van rubberbanden.
-
-4.11 Rolbanen, transportkettingen en dergelijke zijn dusdanig beveiligd, dat er geen vuurwerkartikelen af kunnen vallen. Bedoelde hulpmiddelen moeten eveneens deugdelijk zijn geaard overeenkomstig voorschrift 4.2. Mechanische transportkettingen en -banden zijn op elke handelingsplaats voorzien van een schakelaar, die de ketting of band buiten gebruik kan stellen.
-
-4.12 De transportmiddelen worden regelmatig nagezien op eventuele gebreken en slijtageverschijnselen. Voorschrift 4.7 is van overeenkomstige toepassing.
-
-4.13 De hijsapparatuur is op deugdelijke wijze geaard. Voorschrift 4.2 is van overeenkomstige toepassing.
-
-5.10 Indien het in de nabijheid van de bewerkingsruimte onweert (wanneer tussen bliksem en donderslag minder dan 10 seconden zijn verlopen), worden de werkzaamheden in de bewerkingsruimte en/of de bewaarplaats gestaakt. Iedereen verlaat de bewerkingsruimte en/of de bewaarplaats die vervolgens wordt afgesloten. Het werk mag pas worden hervat, wanneer het onweer volledig is overgedreven. Indien blikseminslag wordt geconstateerd, wordt de werking van de bliksembeveiligingsinstallaties, naast de reguliere controle volgens voorschrift 2.15, direct gecontroleerd door een onafhankelijke deskundige. Een afschrift van het rapport van de controle is binnen de inrichting aanwezig.
-
-5.1 Degene die de inrichting drijft zorgt er voor dat het personeel steeds op de hoogte is van zijn taak en bekend is met het gereedschap, dat het daarbij moet gebruiken. Derden mogen slechts werkzaamheden in of aan een bewaarplaats of bewerkingsruimte verrichten, indien zij in het bezit zijn van een schriftelijke werkopdracht. Degene die de inrichting drijft ziet erop toe dat daarbij de veiligheidsvoorschriften, die voor de betrokken bewaarplaats of bewerkingsruimte gelden, worden nageleefd.
-
-## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2009-12-30&g=2009-12-30), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2009-12-30&g=2009-12-30), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2009-12-30&g=2009-12-30) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2009-12-30&g=2009-12-30)
-
-### A. Begripsbepalingen
-
-5.4 Door de inrichtinghouder wordt het personeel regelmatig gewezen op de gevaren, die zijn verbonden aan het uitvoeren van werkzaamheden aan vuurwerk. Het personeel mag alleen die activiteiten uitvoeren die zijn opgedragen door de inrichtinghouder.
-
-### B. Veiligheidsafstanden
-
-5.6 Op de toegangsdeur van de bewaarplaats en van de bewerkingsruimte wordt een veiligheidssymbool aangebracht, waarmee het ontploffingsgevaar wordt aangeduid. Hierbij wordt gebruik gemaakt van de in bijlage XVIII bij de Arbeidsomstandighedenregeling opgenomen borden.
-
-5.7 Het personeel wordt uitgebreid voorgelicht omtrent de voorzieningen, die in verband met de veiligheid zijn getroffen. Voorts oefent het personeel de toepassing van die voorzieningen.
-
-5.8 Het personeel bevindt zich uitsluitend op de plaats waar het de opgedragen werkzaamheden moet verrichten en mag zich aldaar uitsluitend met de eigen taak bezig houden. Het is hun verboden zich elders op te houden, tenzij door degene die de inrichting drijft daarvoor toestemming is verleend.
-
-5.9 Het is het personeel verboden tijdens de rustpauzes in de bewerkingsruimte te verblijven, met uitzondering van een wacht, die toezicht houdt op de in bewerking zijnde vuurwerkartikelen.
-
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1A.2.1
 
-1. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen die niet voldoen aan de fundamentele veiligheidseisen.
+1. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik die niet voldoen aan de essentiële veiligheidseisen in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen.
 
-2. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel te brengen voorhanden te hebben of aan een ander ter beschikking te stellen indien die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure.
+2. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik die niet zijn onderworpen aan de conformiteitsbeoordelingsprocedure conform de [artikelen 1A.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.1&z=2015-09-22&g=2015-09-22) en [1A.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.2&z=2015-09-22&g=2015-09-22) in de handel te brengen, voorhanden te hebben of aan een ander ter beschikking te stellen.
 
-3. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de [artikelen 1A.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=4&artikel=1A.4.1&z=2014-12-13&g=2014-12-13), [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2014-12-13&g=2014-12-13), [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2014-12-13&g=2014-12-13) en [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2014-12-13&g=2014-12-13) met betrekking tot de aanduiding en het bezigen van vermeldingen.
+3. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel te brengen, voorhanden te hebben, aan een ander ter beschikking te stellen of te gebruiken anders dan met inachtneming van de voorschriften gesteld bij of krachtens de[artikelen 1A.4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=4&artikel=1A.4.1&z=2015-09-22&g=2015-09-22), [2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22) en [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22) met betrekking tot de aanduiding en het bezigen van vermeldingen.
 
-4. Het is verboden te handelen in strijd met de [artikelen 1A.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.3&z=2014-12-13&g=2014-12-13), [1A.3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.5&z=2014-12-13&g=2014-12-13), [1A.3.7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.7&z=2014-12-13&g=2014-12-13), [1A.3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.8&z=2014-12-13&g=2014-12-13) en [1A.3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.9&z=2014-12-13&g=2014-12-13).
+4. Het is verboden vuurwerk of pyrotechnische artikelen voor theatergebruik in de handel te brengen zonder dat hiervoor, overeenkomstig [artikel 1A.4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=4&artikel=1A.4.2&z=2015-09-22&g=2015-09-22), een EU-conformiteitsverklaring is opgesteld.
+
+5. Het is voor fabrikanten verboden te handelen in strijd met bijlage II bij de EU-richtlijn.
 
 ##### Artikel 1A.2.2
 
-1. [Artikel 1A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=2&artikel=1A.2.1&z=2014-12-13&g=2014-12-13) is niet van toepassing op vuurwerk en pyrotechnische artikelen voor theatergebruik die niet in overeenstemming zijn met de bepalingen van EG-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor de marketing van pyrotechnische artikelen, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 1A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=2&artikel=1A.2.1&z=2015-09-22&g=2015-09-22) is niet van toepassing op vuurwerk en pyrotechnische artikelen voor theatergebruik die niet in overeenstemming zijn met de bepalingen van EU-richtlijn pyrotechnische artikelen en die worden getoond en gebruikt op handelsbeurzen, tentoonstellingen en demonstraties voor het verhandelen van vuurwerk en pyrotechnische artikelen voor theatergebruik, mits is voldaan aan het bepaalde in het derde lid.
 
-2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen pas verkocht worden nadat ze door de fabrikant, wanneer die is gevestigd op het grondgebied van de Europese Unie, of door de importeur in overeenstemming zijn gebracht met de bepalingen van de in het eerste lid genoemde richtlijn.
+2. Artikelen als bedoeld in het eerste lid mogen pas verkocht worden nadat ze in overeenstemming zijn gebracht met de bepalingen van de EU-richtlijn pyrotechnische artikelen.
 
-3. Op pyrotechnische artikelen als bedoeld in het eerste lid:
+3. Op de artikelen, bedoeld in het eerste lid:
 
 - a. wordt een zichtbaar teken aangebracht waaruit duidelijk de naam en de datum van de handelsbeurs, tentoonstelling of demonstratie blijken;
 
-- b. is aangegeven dat de artikelen niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen, en niet verkocht mogen worden.
+- b. is aangegeven dat de artikelen niet in overeenstemming zijn met de bepalingen van de EU-richtlijn pyrotechnische artikelen en niet verkocht mogen worden.
 
 ##### Artikel 1A.2.3
 
-1. [Artikel 1A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=2&artikel=1A.2.1&z=2014-12-13&g=2014-12-13) is niet van toepassing op vuurwerk en pyrotechnische artikelen voor theatergebruik die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EG-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
+1. [Artikel 1A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=2&artikel=1A.2.1&z=2015-09-22&g=2015-09-22) is niet van toepassing op vuurwerk en pyrotechnische artikelen voor theatergebruik die voor onderzoeks-, ontwikkelings- en testdoeleinden zijn geproduceerd en niet met de bepalingen van de EU-richtlijn pyrotechnische artikelen in overeenstemming zijn. Deze artikelen mogen vrij circuleren en worden gebruikt, mits is voldaan aan het bepaalde in het derde lid.
 
-2. Pyrotechnische artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
+2. Artikelen als bedoeld in het eerste lid mogen niet beschikbaar worden gesteld of worden gebruikt voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
 
-3. Op pyrotechnische artikelen als bedoeld in het eerste lid wordt een zichtbaar teken aangebracht waaruit duidelijk blijkt dat ze niet in overeenstemming zijn met de bepalingen van de EG-richtlijn pyrotechnische artikelen en niet beschikbaar zijn voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
+3. Op de artikelen, bedoeld in het eerste lid, wordt een zichtbaar teken aangebracht waaruit duidelijk blijkt dat ze niet in overeenstemming zijn met de bepalingen van de EU-richtlijn pyrotechnische artikelen en niet beschikbaar zijn voor andere doeleinden dan voor ontwikkeling, tests en onderzoek.
 
 #### § 3. Conformiteitsbeoordelingsprocedure
 
@@ -2016,45 +2064,45 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. een vermelding of afbeelding van de soort van het artikel waaruit duidelijk blijkt wat de te verwachten effecten tijdens het functioneren zijn;
 
-- c. de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de fabrikant;
+- c. de naam, de geregistreerde handelsnaam of de geregistreerde merknaam van de fabrikant en één postadres waarop contact met hem kan worden opgenomen;
 
-- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de importeur;
+- d. indien de fabrikant niet is gevestigd op het grondgebied van de Europese Unie: de gegevens, genoemd onder c, en de naam, geregistreerde handelsnaam of geregistreerde merknaam van de importeur en het postadres waarop contact met hem kan worden opgenomen;
 
-- e. indien de importeur niet in Nederland is gevestigd: de naam van de fabrikant, de naam, de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
+- e. indien de importeur niet in Nederland is gevestigd: de gegevens, genoemd onder c en d, en de handelsnaam of het handelsmerk en de naam en de plaats van vestiging van de distributeur;
 
-- f. De naam en het type van het artikel en het door de fabrikant bij de vervaardiging toegekende artikelnummer dat dient ter identificatie van het artikel;
+- f. De naam en het type van het artikel en het door de fabrikant bij de vervaardiging toegekende registratienummer en het product-, partij- of serienummer van het product;
 
-- g. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2014-12-13&g=2014-12-13), waartoe het artikel behoort;
+- g. de categorie, bedoeld in [artikel 1A.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=1&artikel=1A.1.3&z=2015-09-22&g=2015-09-22), waartoe het artikel behoort;
 
 - h. de NEM;
 
 - i. een gebruiksaanwijzing met zodanige aanwijzingen en waarschuwingen dat bij het dienovereenkomstig handelen geen letsel of schade bij de gebruiker en omstanders kan ontstaan.
 
-2. Op pyrotechnische artikelen voor theatergebruik moet voorts de volgende informatie staan: voor zover het betreft categorie T1: in voorkomend geval: «uitsluitend buitenshuis te gebruiken» en een minimale veiligheidsafstand; voor zover het betreft categorie T2: «uitsluitend door personen met gespecialiseerde kennis te gebruiken» en een minimale veiligheidsafstand(en).
+2. Op pyrotechnische artikelen voor theatergebruik moet voorts de volgende informatie staan: voor zover het betreft categorie T1: in voorkomend geval: «uitsluitend buitenshuis te gebruiken» en de minimale veiligheidsafstand; voor zover het betreft categorie T2: «uitsluitend door personen met gespecialiseerde kennis te gebruiken» en de minimale veiligheidsafstand(en).
 
-3. Het eerste en tweede lid gelden niet voor pyrotechnische artikelen voor theatergebruik van geringe afmeting, mits die artikelen zich in een verpakking bevinden waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht.
+3. Het eerste en tweede lid gelden niet voor pyrotechnische artikelen voor theatergebruik van geringe afmeting, mits die artikelen zich in een verpakking bevinden waarop de in het eerste en tweede lid bedoelde gegevens zijn aangebracht. De gegevens, bedoeld in het eerste lid, onder c, d en e, worden, indien vermelding op het pyrotechnisch artikel voor theatergebruik niet mogelijk is, vermeld op een bij het pyrotechnisch artikel voor theatergebruik gevoegd document.
 
-4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse, Duitse, Engelse of Franse taal gesteld, zichtbaar, leesbaar en onuitwisbaar.
+4. De aanduiding en de gegevens, bedoeld in het eerste en tweede lid, zijn in de Nederlandse, Duitse, Engelse of Franse taal gesteld, zichtbaar, leesbaar, duidelijk, begrijpelijk en onuitwisbaar.
 
 5. In afwijking van het vierde lid worden de aanduiding en de gegevens, bedoeld in het eerste en tweede lid, op pyrotechnische artikelen voor theatergebruik die zullen worden verkocht in een andere lidstaat van de Europese Unie gesteld in de officiële taal of talen van het desbetreffende land.
 
-6. Dit artikel is niet van toepassing op pyrotechnische artikelen voor theatergebruik waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van «48 uur» gelezen: twee weken.
+6. Dit artikel is niet van toepassing op pyrotechnische artikelen voor theatergebruik waarvan op het moment dat het binnen het grondgebied van Nederland wordt gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van «48 uur» gelezen: twee weken.
 
-7. Pyrotechnische artikelen voor theatergebruikmoeten voorts zijn voorzien van de informatie waartoe met betrekking tot deze artikelen is besloten met toepassing van artikel 18, eerste lid, onder c, van de EG-richtlijn pyrotechnische artikelen. Indien de informatie, bedoeld in de eerste volzin, zou afwijken van het bepaalde in het eerste of tweede lid, blijft het in die leden bepaalde in zoverre buiten toepassing. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
+7. Pyrotechnische artikelen voor theatergebruikmoeten voorts zijn voorzien van de informatie waartoe met betrekking tot deze artikelen is besloten met toepassing van artikel 18, eerste lid, onder c, van de EU-richtlijn pyrotechnische artikelen. Indien de informatie, bedoeld in de eerste volzin, zou afwijken van het bepaalde in het eerste of tweede lid, blijft het in die leden bepaalde in zoverre buiten toepassing. Het derde tot en met zesde lid zijn van overeenkomstige toepassing.
 
 ##### Artikel 3A.1.2
 
 1. Verpakt theatervuurwerk is bij het opslaan en het voorhanden hebben op zodanige wijze verpakt dat zij volgens bijlage A van het ADR, uitsluitend kunnen worden aangemerkt als artikelen behorende tot klasse 1.4G of 1.4S.
 
-2. Dit artikel is niet van toepassing op theatervuurwerk waarvan op het moment dat zij binnen het grondgebied van Nederland worden gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2014-12-13&g=2014-12-13), wordt in plaats van 48 uur gelezen: twee weken.
+2. Dit artikel is niet van toepassing op theatervuurwerk waarvan op het moment dat zij binnen het grondgebied van Nederland worden gebracht, naar het oordeel van Onze Minister genoegzaam wordt aangetoond dat zij binnen 48 uur weer buiten het grondgebied van Nederland zullen worden gebracht. Indien sprake is van opslag als bedoeld in [artikel 1.1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1&paragraaf=1&artikel=1.1.4&z=2015-09-22&g=2015-09-22), wordt in plaats van 48 uur gelezen: twee weken.
 
-#### § 2. Opslaan en bewerken van pyrotechnische artikelen voor theatergebruik
+#### § 2. Opslaan en bewerken van consumentenvuurwerk
 
 ##### Artikel 3A.2.1
 
-1. Degene die een inrichting drijft waar pyrotechnische artikelen voor theatergebruik al dan niet tezamen met consumentenvuurwerk of professioneel vuurwerk worden opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2014-12-13&g=2014-12-13) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13).
+1. Degene die een inrichting drijft waar pyrotechnische artikelen voor theatergebruik al dan niet tezamen met consumentenvuurwerk of professioneel vuurwerk worden opgeslagen of bewerkt, voldoet aan de voorschriften die zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=2&z=2015-09-22&g=2015-09-22) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22).
 
-2. In afwijking van het eerste lid voldoet degene die een inrichting drijft waar theatervuurwerk al dan niet tezamen met consumentenvuurwerk worden opgeslagen, aan de voorschriften die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2014-12-13&g=2014-12-13) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2014-12-13&g=2014-12-13).
+2. In afwijking van het eerste lid voldoet degene die een inrichting drijft waar theatervuurwerk al dan niet tezamen met consumentenvuurwerk worden opgeslagen, aan de voorschriften die zijn opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=1&z=2015-09-22&g=2015-09-22) en aan de veiligheidsafstanden die van toepassing zijn ingevolge [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&bijlage=3&z=2015-09-22&g=2015-09-22).
 
 3. Het eerste en tweede lid zijn niet van toepassing indien er sprake is van opslag van uitsluitend theatervuurwerk in een hoeveelheid van ten hoogste 25 kilogram en het [Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762) van toepassing is op die opslag of aan de omgevingsvergunning, een voorschrift is verbonden, waarvan de inhoud overeenkomt met [artikel 4.11 van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&artikel=4.11).
 
@@ -2064,7 +2112,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ##### Artikel 3A.2.2
 
-De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2014-12-13&g=2014-12-13), [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2014-12-13&g=2014-12-13) en [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.4&z=2014-12-13&g=2014-12-13) zijn van overeenkomstige toepassing.
+De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.2&z=2015-09-22&g=2015-09-22), [3.2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2015-09-22&g=2015-09-22) en [3.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.4&z=2015-09-22&g=2015-09-22) zijn van overeenkomstige toepassing.
 
 #### § 3. Verkoop van pyrotechnische artikelen voor theatergebruik
 
@@ -2078,7 +2126,7 @@ De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3
 
 ##### Artikel 3B.1
 
-1. Met uitzondering van de situatie, bedoeld in [artikel 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2014-12-13&g=2014-12-13), is het verboden zonder een daartoe verleende vergunning consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding te brengen, ten behoeve daarvan op te bouwen, te installeren, te bewerken, dan wel na ontbranding te verwijderen.
+1. Met uitzondering van de situatie, bedoeld in [artikel 2.3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=3&artikel=2.3.6&z=2015-09-22&g=2015-09-22), is het verboden zonder een daartoe verleende vergunning consumentenvuurwerk, professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding te brengen, ten behoeve daarvan op te bouwen, te installeren, te bewerken, dan wel na ontbranding te verwijderen.
 
 2. Onze Minister beslist op een aanvraag om een toepassingsvergunning.
 
@@ -2086,13 +2134,13 @@ De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3
 
 - a. voorafgaand aan het tot ontbranding brengen van vuurwerk of pyrotechnische artikelen voor theatergebruik door de aanvrager toestemming is verkregen van gedeputeerde staten van de provincie waarin de artikelen tot ontbranding zullen worden gebracht en de aan de toestemming verbonden voorschriften worden nageleefd;
 
-- b. het tot ontbranding te brengen vuurwerk en de tot ontbranding te brengen pyrotechnische artikelen voor theatergebruik afkomstig zijn uit een inrichting als bedoeld in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), of [3A.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13), of een inrichting ten aanzien waarvan de in [artikel 4.11, eerste lid, van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&artikel=4.11) opgenomen verplichting geldt, dan wel rechtstreeks afkomstig zijn uit het buitenland.
+- b. het tot ontbranding te brengen vuurwerk en de tot ontbranding te brengen pyrotechnische artikelen voor theatergebruik afkomstig zijn uit een inrichting als bedoeld in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22), of [3A.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22), of een inrichting ten aanzien waarvan de in [artikel 4.11, eerste lid, van de Activiteitenregeling milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022830&artikel=4.11) opgenomen verplichting geldt, dan wel rechtstreeks afkomstig zijn uit het buitenland.
 
 4. Aan de toepassingsvergunning worden voorts voorschriften verbonden in het belang van de bescherming van de gezondheid van de mens en van het milieu. Zij kan onder beperkingen worden verleend.
 
 5. Degene aan wie een toepassingsvergunning is verleend, is gehouden de in het derde en vierde lid bedoelde voorschriften na te leven.
 
-6. De toepassingsvergunning vervalt op het moment dat de geldigheidsduur van het certificaat van vakbekwaamheid, bedoeld in [artikel 3B.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.2&z=2014-12-13&g=2014-12-13), afloopt. Is de toepassingsvergunning verleend aan een onderneming dan vervalt de toepassingsvergunning eveneens op het moment dat er geen persoon aan wie een certificaat van vakbekwaamheid, bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), is afgegeven, meer werkzaam is voor de onderneming.
+6. De toepassingsvergunning vervalt op het moment dat de geldigheidsduur van het certificaat van vakbekwaamheid, bedoeld in [artikel 3B.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.2&z=2015-09-22&g=2015-09-22), afloopt. Is de toepassingsvergunning verleend aan een onderneming dan vervalt de toepassingsvergunning eveneens op het moment dat er geen persoon aan wie een certificaat van vakbekwaamheid, bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), is afgegeven, meer werkzaam is voor de onderneming.
 
 ##### Artikel 3B.2
 
@@ -2112,7 +2160,7 @@ De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3
 
 3. De aanvrager stelt naar het oordeel van het bevoegd gezag bij de aanvraag op genoegzame wijze door verzekering of anderszins financiële zekerheid ter dekking van de aansprakelijkheid, bedoeld in [boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289) ter zake van de in het eerste lid, onder b, bedoelde handelingen.
 
-4. De zekerheid bedraagt ten minste € 2 500 000,00 per gebeurtenis en wordt in ieder geval in stand gehouden tot het moment waarop de vergunning vervalt. [Artikel 3.2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2014-12-13&g=2014-12-13), is van overeenkomstige toepassing.
+4. De zekerheid bedraagt ten minste € 2 500 000,00 per gebeurtenis en wordt in ieder geval in stand gehouden tot het moment waarop de vergunning vervalt. [Artikel 3.2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.3&z=2015-09-22&g=2015-09-22), is van overeenkomstige toepassing.
 
 5. Met een verklaring omtrent het gedrag als bedoeld in het tweede lid, onder e, wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
@@ -2124,13 +2172,13 @@ De [artikelen 3.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3
 
 1. De ontbrandingstoestemming kan worden geweigerd in het belang van de bescherming van de gezondheid van de mens en van het milieu.
 
-2. Aan de ontbrandingstoestemming kunnen voorschriften worden verbonden in het belang van de bescherming van de gezondheid van de mens en van het milieu. De voorschriften kunnen afwijken van regels gesteld in de regeling, bedoeld in [artikel 3B.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.7&z=2014-12-13&g=2014-12-13).
+2. Aan de ontbrandingstoestemming kunnen voorschriften worden verbonden in het belang van de bescherming van de gezondheid van de mens en van het milieu. De voorschriften kunnen afwijken van regels gesteld in de regeling, bedoeld in [artikel 3B.7](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.7&z=2015-09-22&g=2015-09-22).
 
 3. Degene aan wie de toestemming is verleend, is gehouden de in het tweede lid bedoelde voorschriften na te leven.
 
 ##### Artikel 3B.4
 
-1. In afwijking van [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13), kan degene aan wie een toepassingsvergunning is verleend en die:
+1. In afwijking van [artikel 3B.1, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22), kan degene aan wie een toepassingsvergunning is verleend en die:
 
 - a. ten hoogste 20 kilogram theatervuurwerk tot ontbranding wil brengen, of
 
@@ -2146,7 +2194,7 @@ voorafgaand aan het tot ontbranding brengen volstaan met een melding aan gedeput
 
 5. In afwijking van het vierde lid kunnen gedeputeerde staten na overleg met de burgemeester en het bestuur, bedoeld in het derde lid, in bijzondere omstandigheden een kortere termijn voor de melding toestaan.
 
-6. [Artikel 3B.3a, eerste lid, eerste en tweede volzin, tweede, vierde en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3a&z=2014-12-13&g=2014-12-13), is van overeenkomstige toepassing op een melding als bedoeld in het eerste lid.
+6. [Artikel 3B.3a, eerste lid, eerste en tweede volzin, tweede, vierde en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.3a&z=2015-09-22&g=2015-09-22), is van overeenkomstige toepassing op een melding als bedoeld in het eerste lid.
 
 ##### Artikel 3B.5
 
@@ -2158,9 +2206,9 @@ voorafgaand aan het tot ontbranding brengen volstaan met een melding aan gedeput
 
 1. Degene aan wie een toepassingsvergunning is verleend, houdt een register bij waarin zijn vermeld:
 
-- a. de persoon of personen aan wie een certificaat van vakbekwaamheid is afgegeven als bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), en door wie of onder wier toezicht bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik worden verricht, als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- a. de persoon of personen aan wie een certificaat van vakbekwaamheid is afgegeven als bedoeld in [artikel 4.9, tweede lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), en door wie of onder wier toezicht bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik worden verricht, als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
-- b. de personen die onder toezicht van de onder a bedoelde persoon of personen bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik verrichten als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2014-12-13&g=2014-12-13);
+- b. de personen die onder toezicht van de onder a bedoelde persoon of personen bedrijfsmatig handelingen met vuurwerk of pyrotechnische artikelen voor theatergebruik verrichten als bedoeld in [artikel 3B.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.1&z=2015-09-22&g=2015-09-22);
 
 - c. de evenementen en voorstellingen, waarbij vuurwerk of pyrotechnische artikelen voor theatergebruik tot ontbranding zijn gebracht en de daarbij tot ontbranding gebrachte typen en hoeveelheden vuurwerk of pyrotechnische artikelen voor theatergebruik in kilogrammen alsmede de weigeraars, met vermelding van de door de fabrikant bij de vervaardiging toegekende artikelnummers die dienen ter identificatie van het vuurwerk of de pyrotechnische artikelen voor theatergebruik;
 
@@ -2206,63 +2254,63 @@ voorafgaand aan het tot ontbranding brengen volstaan met een melding aan gedeput
 
 ### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
 
-3.3 In een bewaarplaats worden geen werkzaamheden verricht, met uitzondering van werkzaamheden die rechtstreeks verband houden met de opslag van vuurwerk. Het vuurwerk wordt uitsluitend binnengebracht, eventueel (om)gestapeld en naar buiten gebracht. De bewaarplaats wordt schoongehouden.
+1.9 De wijze waarop vuurwerk wordt opgeslagen heeft geen negatieve invloed op de functionele werking van de automatische sprinklerinstallatie. Daartoe is de wijze van opslaan tenminste in overeenstemming met de uitgangspunten die ten aanzien daarvan ten grondslag hebben gelegen aan het ontwerp van de automatische sprinklerinstallatie, zoals deze zijn neergelegd in het uitgangspuntendocument. Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan de wijze waarop verpakt of onverpakt vuurwerk wordt opgeslagen.
 
 ### Paragraaf 4. Voorschriften voor de uitrusting in de bewerkingsruimte
 
 ### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
 
-4.6 Ten minste eenmaal per maand worden alle werktuigen, gereedschappen en instrumenten op goede werking en beveiliging gecontroleerd. Deze controle wordt ook bij de aanvang van elke nieuwe werkzaamheid uitgevoerd. Wanneer gebreken worden geconstateerd of vermoed, wordt het betrokken materieel onmiddellijk uit de bewerkingsruimte verwijderd of voor gebruik geblokkeerd.
+2.14 De elektrische installatie is verdeeld in groepen, die kunnen worden in- en uitgeschakeld met behulp van groepschakelaars op het schakelbord, bedoeld in het vorige voorschrift. Daarop is tevens een direct bedienbare hoofdschakelaar aangebracht waarmee de gehele installatie kan worden uitgeschakeld.
 
 5.2 Degene die de inrichting drijft stelt richtlijnen vast voor de wijze, waarop bij een eventuele brand alarm moet worden geslagen, de personen of instanties in dat geval moeten worden gewaarschuwd en de handelingen die ieder personeelslid in geval van alarm moet verrichten of nalaten. Het bevoegd gezag kan een maatwerkvoorschrift vaststellen met betrekking tot de wijze waarop bij een brandalarm moet worden geslagen.
 
-5.3 Een beginnende brand moet onmiddellijk met alle beschikbare blusmiddelen worden bestreden, ongeacht de gevarenklasse waartoe het betrokken vuurwerk behoort. De wijze waarop een brandverkenning kan worden uitgevoerd of een zich uitbreidende brand kan worden bestreden, wordt bepaald door de gevarenklasse en het type vuurwerk dat in de bewaarplaats is opgeslagen.
+3.1 In de bewaarplaats worden geen andere goederen dan vuurwerk en daarvoor benodigde materialen en hulpmiddelen opgeslagen. Indien in de bewaarplaats vuurwerk is opgeslagen, dan mogen in die bewaarplaats geen bewerkingen plaatsvinden.
 
-5.5 Binnen de afrastering rondom de bewaarplaats en de bewerkingsruimte wordt niet gerookt en is geen open vuur aanwezig. Het is tevens verboden lucifers, aanstekers of andere vlamverwekkers voorhanden te hebben. Dit verbod geldt ook voor het dragen van elektronische (communicatie)middelen, zoals portofoons, mobiele telefoons, buzzers, zend- of ontvangsthorloges en dergelijke. Het laatstgenoemde verbod geldt niet in noodsituaties voor zover het bevoegd gezag en hulpverleners ter plaatse toestemming hebben gegeven voor het gebruik van de genoemde (communicatie)middelen. Deze verboden zijn aangegeven door op elke zijde van de afrastering en op de toegangsdeur van de bewaarplaats een verbodsbord overeenkomstig bijlage XVIII bij de Arbeidsomstandighedenregeling aan te brengen waaruit de betreffende verboden blijken.
+3.3 In een bewaarplaats worden geen werkzaamheden verricht, met uitzondering van werkzaamheden die rechtstreeks verband houden met de opslag van vuurwerk. Het vuurwerk wordt uitsluitend binnengebracht, eventueel (om)gestapeld en naar buiten gebracht. De bewaarplaats wordt schoongehouden.
 
 ### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
 
-5.10 Indien het in de nabijheid van de bewerkingsruimte onweert (wanneer tussen bliksem en donderslag minder dan 10 seconden zijn verlopen), worden de werkzaamheden in de bewerkingsruimte en/of de bewaarplaats gestaakt. Iedereen verlaat de bewerkingsruimte en/of de bewaarplaats die vervolgens wordt afgesloten. Het werk mag pas worden hervat, wanneer het onweer volledig is overgedreven. Indien blikseminslag wordt geconstateerd, wordt de werking van de bliksembeveiligingsinstallaties, naast de reguliere controle volgens voorschrift 2.15, direct gecontroleerd door een onafhankelijke deskundige. Een afschrift van het rapport van de controle is binnen de inrichting aanwezig.
+3.8 Indien professioneel vuurwerk van een hoogte van meer dan 1,5 m is gevallen of zodanig is terechtgekomen dat de verpakking of het professioneel vuurwerk zelf is beschadigd, draagt degene die de inrichting drijft er voor zorg dat het vuurwerk niet wordt verplaatst en dat het vuurwerk onmiddellijk wordt geïnspecteerd.
 
-5.11 Het personeel moet goed bekend zijn met de brandalarmregelingen.
+3.9 De bewaarplaats is zodanig ingericht dat visuele inspectie van vuurwerk mogelijk is en het inbrengen en uitnemen van vuurwerk niet wordt belemmerd. In een betreedbare bewaarplaats is daarom ten minste één gangpad met een breedte van ten minste 75 cm aanwezig.
 
-5.12 Een voldoende aantal leden van het personeel is geïnstrueerd over het hanteren van de brandblusapparatuur. Dit personeel moet bekend zijn met de plaats van deze apparatuur.
+3.10 Binnen de inrichting worden uitsluitend veilige elektrische ontstekingsmiddelen opgeslagen. Elektrische ontstekingsmiddelen kunnen als veilig worden beschouwd, indien zij:
 
-5.13 Bij brand in de onmiddellijke nabijheid van de bewerkingsruimte, die gevaar oplevert voor de bewerkingsruimte, moet de deur van de bewerkingsruimte worden gesloten. Bovendien dienen bij voorkeur de volgende veiligheidsmaatregelen te worden getroffen:
+Elektrische ontstekingsmiddelen die niet aan deze eisen voldoen, worden als onveilig beschouwd.
 
-5.14 Wanneer het personeel iets ongewoons bemerkt aan een gebouw, materieel, materiaal of bewerking of aan het gedrag van een persoon, wordt dit gemeld aan degene die de inrichting drijft. Het betrokken materieel of materiaal wordt direct terzijde gesteld. De betrokken bewerking wordt direct gestaakt.
+3.11 Veilige ontstekingsmiddelen worden niet blootgesteld aan hogere veldsterkten of aan grotere vermogensdichtheden dan die waarin zij zijn beproefd.
 
-5.15 Personeel dat een ruimte betreedt waarin professioneel vuurwerk wordt bewerkt, moet zich van tevoren elektrisch ontladen.
+3.12 Elektrische ontstekingsmiddelen zijn steeds kortgesloten en verpakt in metaal.
 
-5.16 Gedurende de werkzaamheden is het personeel gekleed in een overall of in een werkbroek en werkkiel van stevige stof. Werkkleding van personeel, werkzaam in ruimten waar explosieve stof wordt bewerkt, wordt ten minste eenmaal per week gewassen. In de werkkleding mogen geen andere voorwerpen dan een zakdoek worden meegenomen. De overige persoonlijke bezittingen moeten worden achtergelaten in het kleedlokaal.
+3.13 Een bewaarplaats, waarin geen vuurwerk wordt ingebracht, uitgenomen of omgestapeld, alsmede de toegangspoort in de afrastering van deze bewaarplaats is afgesloten. De sleutels, alle voorzien van een sleutelplaat met het nummer van de betrokken deur, worden opgeborgen in een afgesloten kast in het kantoorgebouw. De reservesleutels worden elders in of bij de inrichting opgeborgen in een afgesloten kast.
 
-5.17 Bij het werken met zwart buskruit draagt het personeel een hoofddeksel dat daartoe ter beschikking wordt gesteld door degene die de inrichting drijft.
+3.14 De bewaarplaats en de bewerkingsruimte worden goed schoon gehouden. Papierafval, pallets, gebruikte poetslappen en andere ontbrandbare zaken mogen daarin nimmer worden achtergelaten.
 
-5.18 In ruimten waar vuurwerk wordt bewerkt, worden vonkvrije schoenen gedragen. Deze schoenen mogen, nadat bedoelde ruimten zijn verlaten, niet worden aangehouden.
+3.15 Stoffen en voorwerpen uit ADR-klasse 1 die behoren tot verschillende compatibiliteitsgroepen, zoals die zijn aangegeven in het ADR met de letters A tot en met J, K tot en met N en S, worden gecompartimenteerd opgeslagen, tenzij deze stoffen en voorwerpen gezamenlijk kunnen worden opgeslagen zonder dat:
 
-5.19 Het personeel maakt uitsluitend gebruik van de gereedschappen en hulpmiddelen die voor de uitvoering van de werkzaamheden zijn voorgeschreven.
+Het bevoegd gezag kan een maatwerkvoorschrift vaststellen met betrekking tot de compartimentering van de opslag van stoffen en voorwerpen uit verschillende compatibiliteitsgroepen in één ruimte.
 
 ## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2012-01-01&g=2012-01-01), [2.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.2&z=2012-01-01&g=2012-01-01), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2012-01-01&g=2012-01-01) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2012-01-01&g=2012-01-01)
 
-### A. Begripsbepalingen
+### Paragraaf 4. Voorschriften voor de uitrusting in de bewerkingsruimte
 
-6.10 Vuurwerk, ontstekers en ontstekingsmiddelen blijven niet in een bewerkingsruimte achter, tenzij deze voorwerpen op veilige wijze worden opgeborgen in speciaal daarvoor ingerichte kasten of worden voorzien van een deugdelijke verpakking.
+4.1 Werktafels zijn voorzien van een dekplaat van geleidend vonkvrij materiaal, die op deugdelijke wijze is geaard.
 
 ### B. Veiligheidsafstanden
 
-6.2 In elke bewerkingsruimte is een vat, bestemd voor afval, geplaatst, dat na de beëindiging van de werkzaamheden wordt geledigd. Tevens is in de bewerkingsruimte een vat, vervaardigd van vonkvrij en geleidend materiaal, geplaatst, bestemd voor het afval van explosieve stoffen, dat voor het einde van de werkzaamheden wordt geledigd, waarna de explosieve stoffen zo spoedig mogelijk worden afgevoerd.
+4.3 Werktuigen zijn waar nodig voorzien van afschermplaten of kappen. De plaatdikte daarvan is afgestemd op de mogelijk optredende hitte-, druk- of scherfwerking.
 
-6.3 Tijdens werkzaamheden aan of met professioneel vuurwerk is de werkruimte overzichtelijk en zijn alleen die materialen en/of hulpmiddelen die zijn voorgeschreven ter uitvoering van de opgedragen werkzaamheden in de bewerkingsruimte aanwezig.
+4.4 Automatische en halfautomatische werktuigen, waarop gevulde vuurwerkartikelen worden bewerkt, zijn voorzien van een drukschakelaar, zodat de machine stopt, wanneer de schakelaar wordt losgelaten. Deze schakelaar mag ook als voet- of knieschakelaar zijn uitgevoerd.
 
-6.4 Degene die de inrichting drijft zorgt ervoor dat voor de aanvang van werkzaamheden aan vuurwerk een werkschema is vastgesteld.
+4.5 De werktuigen, gereedschappen en instrumenten verkeren in goede staat. Indien zij niet zijn voorgeschreven door de inrichtinghouder voor de uitvoering van de werkzaamheden, worden zij niet gebruikt.
 
-6.5 Het werkschema geeft uitsluitsel omtrent de volgende bijzonderheden, voor zover die van belang zijn voor de betrokken opdracht:
+4.6 Ten minste eenmaal per maand worden alle werktuigen, gereedschappen en instrumenten op goede werking en beveiliging gecontroleerd. Deze controle wordt ook bij de aanvang van elke nieuwe werkzaamheid uitgevoerd. Wanneer gebreken worden geconstateerd of vermoed, wordt het betrokken materieel onmiddellijk uit de bewerkingsruimte verwijderd of voor gebruik geblokkeerd.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
 ##### Artikel 1.4.4
 
-1. Degene die een inrichting drijft als bedoeld in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), draagt er zorg voor dat op 1 februari van elk jaar binnen de inrichting een overzicht aanwezig is van:
+1. Degene die een inrichting drijft als bedoeld in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), draagt er zorg voor dat op 1 februari van elk jaar binnen de inrichting een overzicht aanwezig is van:
 
 - a. de hoeveelheid ingekocht consumentenvuurwerk in de voorgaande 12 maanden;
 
@@ -2284,7 +2332,7 @@ Hij bewaart het overzicht gedurende een periode van ten minste 7 jaar vanaf de h
 
 #### § 2. Opslaan en bewerken van consumentenvuurwerk
 
-#### § 3. Verkoop en tot ontbranding brengen van consumentenvuurwerk
+#### § 4. CE-markering en EU-conformiteitsverklaring
 
 ### Hoofdstuk 3. Professioneel vuurwerk
 
@@ -2312,7 +2360,7 @@ Hij bewaart het overzicht gedurende een periode van ten minste 7 jaar vanaf de h
 
 - b. een afschrift van de toepassingsvergunning die aan de aanvrager is verleend;
 
-- c. een afschrift van het in [artikel 3B.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.2&z=2014-12-13&g=2014-12-13), bedoelde certificaat;
+- c. een afschrift van het in [artikel 3B.2, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3b&artikel=3B.2&z=2015-09-22&g=2015-09-22), bedoelde certificaat;
 
 - d. een schietlijst met daarin een overzicht van de toe te passen artikelen en per categorie artikelen de volgende gegevens:
 
@@ -2414,7 +2462,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het bedrijfs
 
 ### Paragraaf 1. Algemene voorschriften
 
-### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
+### Paragraaf 5. Automatische sprinklerinstallatie
 
 ### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
 
@@ -2424,7 +2472,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het bedrijfs
 
 ### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
 
-5.20 Bij het verrichten van werkzaamheden aan metalen onderdelen waarbij aantasting van het materiaal moet worden voorkomen, moeten handschoenen worden gedragen.
+3.16 In een bewerkingsruimte mag, onverminderd voorschrift 3.15, uitsluitend professioneel vuurwerk, dat behoort tot dezelfde compatibiliteitsgroep gelijktijdig aanwezig zijn. Dit voorschrift is niet van toepassing op de kortstondige gelijktijdige aanwezigheid van bij elkaar behorende componenten die behoren tot verschillende compatibiliteitsgroepen tijdens het uitpakken, uit elkaar nemen, in elkaar zetten (samenstellen) en inpakken van dat vuurwerk.
 
 5.21 Bij werkzaamheden waarbij het gevaar bestaat dat door elektrostatische ladingen brand of explosie ontstaat, mag geen kunststoffen of zijden kleding worden gedragen. Bij deze werkzaamheden wordt zodanig schoeisel gedragen, dat de weerstand tussen de persoon en de vloer ligt tussen 25 000 en 1 000 000 ohm.
 
@@ -2434,11 +2482,11 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het bedrijfs
 
 ### B. Veiligheidsafstanden
 
-6.6 In het werkschema wordt ieders taak nauwkeurig omschreven.
+4.7 Indien aan werktuigen, gereedschappen of instrumenten herstellingen moeten worden verricht, wordt dit materieel ter plaatse eerst zorgvuldig schoongemaakt en van alle explosieve stof ontdaan. De herstellingen worden slechts uitgevoerd door deskundig personeel en niet eerder dan nadat alle vuurwerk uit de betrokken ruimte is verwijderd.
 
-6.7 Degene die de inrichting drijft ziet erop toe dat een ieder op de hoogte is van de voor hem geldende bijzonderheden die in het betrokken werkschema zijn vastgelegd.
+4.8 Voor de (hulp)transportmiddelen wordt elektriciteit voor de aandrijving gebruikt. Zij worden periodiek nagekeken op eventuele gebreken en slijtageverschijnselen. Voor incidentele werkzaamheden binnen de bewaarplaats, alsmede binnen een afstand van 15 m tot de bewaarplaats, worden geen transportmiddelen en andere machines of apparatuur gebruikt die zijn voorzien van een verbrandingsmotor. Deze eisen gelden ook voor werkzaamheden die worden uitgevoerd door derden, zoals onderhoudsbedrijven en hoveniersbedrijven, tenzij het materiaal is uitgerust met een dieselmotor.
 
-6.8 Tijdens de werkzaamheden worden geen andere gereedschappen gebruikt dan die, welke in het werkschema zijn genoemd en aan het personeel zijn verstrekt.
+4.9 Mechanische transportmiddelen voldoen aan de volgende eisen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
@@ -2456,7 +2504,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Paragraaf 1. Algemene voorschriften
 
-### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
+### Paragraaf 6. Afstanden tot objecten binnen de inrichting
 
 ### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
 
@@ -2466,13 +2514,509 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
 
+4.2 Alle werktuigen, gereedschappen en instrumenten, die tijdens het gebruik statische elektriciteit kunnen opwekken, zijn op deugdelijke wijze geaard. De weerstand tussen elk deel van het werktuig, gereedschap en instrument en de aardleiding mag ten hoogste 1 ohm bedragen.
+
+4.10 Mechanische transportmiddelen die in een bewerkingsruimte worden toegepast voldoen onverminderd het gestelde in voorschrift 4.9 aan de volgende eisen:
+
+In plaats van of naast mechanische transportmiddelen mogen ook transportmiddelen worden gebruikt, die met handkracht worden voortbewogen, waarbij de wielen zijn voorzien van rubberbanden.
+
+## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13)
+
+### A. Begripsbepalingen
+
+4.13 De hijsapparatuur is op deugdelijke wijze geaard. Voorschrift 4.2 is van overeenkomstige toepassing.
+
+1.2 In de begripsomschrijvingen van brandwerendheid van bouwdelen en van deur-, luik- of raamconstructies wordt in plaats van «NEN 6069, uitgave 2005» gelezen «NEN 6069, uitgave 1991» voor zover de bepalingen in deze bijlage betrekking hebben op bouwdelen of deur-, luik- of raamconstructies die voor 1 juli 2012 tot stand zijn gebracht.
+
+### B. Veiligheidsafstanden
+
+5.2 Degene die de inrichting drijft stelt richtlijnen vast voor de wijze, waarop bij een eventuele brand alarm moet worden geslagen, de personen of instanties in dat geval moeten worden gewaarschuwd en de handelingen die ieder personeelslid in geval van alarm moet verrichten of nalaten. Het bevoegd gezag kan een maatwerkvoorschrift vaststellen met betrekking tot de wijze waarop bij een brandalarm moet worden geslagen.
+
+5.3 Een beginnende brand moet onmiddellijk met alle beschikbare blusmiddelen worden bestreden, ongeacht de gevarenklasse waartoe het betrokken vuurwerk behoort. De wijze waarop een brandverkenning kan worden uitgevoerd of een zich uitbreidende brand kan worden bestreden, wordt bepaald door de gevarenklasse en het type vuurwerk dat in de bewaarplaats is opgeslagen.
+
+5.4 Door de inrichtinghouder wordt het personeel regelmatig gewezen op de gevaren, die zijn verbonden aan het uitvoeren van werkzaamheden aan vuurwerk. Het personeel mag alleen die activiteiten uitvoeren die zijn opgedragen door de inrichtinghouder.
+
+5.5 Binnen de afrastering rondom de bewaarplaats en de bewerkingsruimte wordt niet gerookt en is geen open vuur aanwezig. Het is tevens verboden lucifers, aanstekers of andere vlamverwekkers voorhanden te hebben. Dit verbod geldt ook voor het dragen van elektronische (communicatie)middelen, zoals portofoons, mobiele telefoons, buzzers, zend- of ontvangsthorloges en dergelijke. Het laatstgenoemde verbod geldt niet in noodsituaties voor zover het bevoegd gezag en hulpverleners ter plaatse toestemming hebben gegeven voor het gebruik van de genoemde (communicatie)middelen. Deze verboden zijn aangegeven door op elke zijde van de afrastering en op de toegangsdeur van de bewaarplaats een verbodsbord overeenkomstig bijlage XVIII bij de Arbeidsomstandighedenregeling aan te brengen waaruit de betreffende verboden blijken.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+#### § 2. Verbodsbepalingen
+
+#### § 2A. Algemene verplichtingen van de fabrikant
+
+##### Artikel 1A.2A.1
+
+De fabrikant waarborgt dat vuurwerk en pyrotechnische artikelen voor theatergebruik worden ontworpen en vervaardigd overeenkomstig de essentiële veiligheidseisen.
+
+##### Artikel 1A.2A.2
+
+1. De fabrikant stelt de technische documentatie, genoemd in bijlage II bij de EU-richtlijn pyrotechnische artikelen op en laat de toepasselijke conformiteitsbeoordelingsprocedure uitvoeren, overeenkomstig de [artikelen 1A.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.1&z=2015-09-22&g=2015-09-22) en [1A.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=3&artikel=1A.3.2&z=2015-09-22&g=2015-09-22).
+
+2. Wanneer met de conformiteitsbeoordelingsprocedure is aangetoond dat vuurwerk of een pyrotechnisch artikel voor theatergebruik aan de toepasselijke eisen voldoet, stelt de fabrikant een EU-conformiteitsverklaring op en brengt hij de CE-markering aan.
+
+3. De fabrikant bewaart de technische documentatie en de EU-conformiteitsverklaring gedurende tien jaar nadat het vuurwerk of pyrotechnische artikel voor theatergebruik in de handel is gebracht.
+
+##### Artikel 1A.2A.3
+
+De fabrikant zorgt ervoor dat hij beschikt over procedures om de conformiteit van zijn serieproductie met EU-richtlijn pyrotechnische artikelen te blijven waarborgen. Er wordt terdege rekening gehouden met veranderingen in het ontwerp of in de kenmerken van het vuurwerk of het pyrotechnische artikel voor theatergebruik en met veranderingen in de geharmoniseerde normen of andere technische specificaties waarnaar in de EU-conformiteitsverklaring van het vuurwerk of het pyrotechnische artikel voor theatergebruik wordt verwezen.
+
+##### Artikel 1A.2A.4
+
+1. Met een met redenen omkleed verzoek kan de bevoegde autoriteit een of meer van de volgende maatregelen van de fabrikant vergen:
+
+- a. het uitvoeren van steekproeven op in de handel gebracht vuurwerk of in de handel gebrachte pyrotechnische artikelen voor theatergebruik;
+
+- b. het onderzoeken van klachten;
+
+- c. het onderzoeken van niet-conform vuurwerk of niet-conforme pyrotechnische artikelen voor theatergebruik;
+
+- d. het onderzoeken van teruggeroepen vuurwerk of pyrotechnische artikelen voor theatergebruik;
+
+- e. het bijhouden van een register met betrekking tot de onder b, c, en d bedoelde onderzoeken;
+
+- f. het op de hoogte houden van de distributeurs betreffende de genomen maatregelen.
+
+2. De bevoegde autoriteit kan het in het eerste lid bedoelde verzoek doen als dit gezien de risico’s van het vuurwerk of de pyrotechnische artikelen voor theatergebruik passend wordt geacht.
+
+3. De fabrikant voert de maatregelen uit met het oog op de bescherming van de gezondheid en veiligheid van de consumenten.
+
+##### Artikel 1A.2A.5
+
+De fabrikant zorgt ervoor dat door hem in de handel gebracht vuurwerk of pyrotechnisch artikelvoor theatergebruik is geëtiketteerd overeenkomstig de [artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22) of [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22).
+
+##### Artikel 1A.2A.6
+
+Indien de fabrikant van mening is of redenen heeft om aan te nemen dat door hem in de handel gebracht vuurwerk of een door hem in de handel gebracht pyrotechnisch artikel voor theatergebruik niet in overeenstemming is met de eisen bij of krachtens dit besluit:
+
+- a. neemt hij onmiddellijk alle corrigerende maatregelen die nodig zijn om het vuurwerk of pyrotechnisch artikel voor theatergebruik in overeenstemming te brengen met deze eisen of, zo nodig, uit de handel te nemen of terug te roepen, en
+
+- b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden, hiervan onmiddellijk op de hoogte. Indien hij het artikel in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit op de hoogte. Hierbij beschrijft hij in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.
+
+##### Artikel 1A.2A.7
+
+1. Op een met redenen omkleed verzoek van de bevoegde autoriteit of de bevoegde autoriteiten van andere lidstaten:
+
+- a. verstrekt de fabrikant aan deze autoriteit alle benodigde informatie en documentatie om de conformiteit van vuurwerk of pyrotechnische artikelen voor theatergebruik met de eisen gesteld bij of krachtens dit besluit aan te tonen, en
+
+- b. verleent de fabrikant medewerking aan alle genomen maatregelen om de risico’s van de door hem in de handel gebracht vuurwerk of door hem in de handel gebrachte pyrotechnische artikelen voor theatergebruik, uit te sluiten.
+
+2. De informatie en documentatie wordt op papier of elektronisch ter beschikking van de autoriteiten, bedoeld in het eerste lid, gesteld. Deze wordt gesteld in de Nederlandse of Engelse taal.
+
+##### Artikel 1A.2A.8
+
+Een importeur of een distributeur wordt als fabrikant beschouwd en voldoet aan de verplichtingen overeenkomstig dit hoofdstuk, wanneer hij vuurwerk of een pyrotechnisch artikel voor theatergebruik onder zijn eigen naam of merknaam in de handel brengt, of reeds in de handel gebracht vuurwerk of een reeds in de handel gebracht pyrotechnisch artikel voor theatergebruik zodanig wijzigt dat de conformiteit met de essentiële veiligheidseisen in het geding komt.
+
+#### § 2B. Algemene verplichtingen van de importeur
+
+##### Artikel 1A.2B.1
+
+De importeur brengt alleen vuurwerk en pyrotechnische artikelen voor theatergebruik in de handel die aan de essentiële veiligheidseisen voldoen.
+
+##### Artikel 1A.2B.2
+
+Alvorens vuurwerk of een pyrotechnisch artikel voor theatergebruik in de handel wordt gebracht:
+
+- a. vergewist de importeur zich ervan dat de fabrikant de conformiteitsbeoordelingsprocedure heeft uitgevoerd;
+
+- b. zorgt de importeur ervoor dat de fabrikant de technische documentatie heeft opgesteld;
+
+- c. zorgt de importeur ervoor dat het vuurwerk of pyrotechnisch artikel voor theatergebruik is voorzien van de CE-markering en vergezeld gaat van de voorgeschreven documenten; en
+
+- d. zorgt de importeur ervoor dat de fabrikant het vuurwerk of pyrotechnisch artikel voor theatergebruik heeft geëtiketteerd overeenkomstig de [artikelen 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22) of [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22).
+
+##### Artikel 1A.2B.3
+
+De importeur die van mening is of redenen heeft om aan te nemen dat vuurwerk of een pyrotechnisch artikel voor theatergebruik niet in overeenstemming is met de essentiële veiligheidseisen:
+
+- a. brengt het vuurwerk of pyrotechnisch artikel voor theatergebruik niet in de handel alvorens het in overeenstemming is gemaakt met de essentiële veiligheidseisen, en
+
+- b. brengt de fabrikant en de markttoezichthouder op de hoogte, indien het vuurwerk of pyrotechnisch artikel voor theatergebruik een risico vertoont.
+
+##### Artikel 1A.2B.4
+
+De importeur voldoet aan de aan hem gestelde eisen ingevolge de [artikelen 2.1.3, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [3.1.1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22), of [3A.1.1, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22).
+
+##### Artikel 1A.2B.5
+
+De importeur zorgt, gedurende de periode dat hij voor vuurwerk of pyrotechnische artikelen voor theatergebruik verantwoordelijk is, voor zodanige opslag- en vervoersomstandigheden ervan dat de conformiteit van het pyrotechnische artikel met de essentiële veiligheidseisen niet in het geding komt.
+
+##### Artikel 1A.2B.6
+
+1. Met een met redenen omkleed verzoek kan de bevoegde autoriteit een of meer van de volgende maatregelen van de importeur vergen:
+
+- a. het uitvoeren van steekproeven op in de handel gebracht vuurwerk of in de handel gebrachte pyrotechnische artikelen voor theatergebruik;
+
+- b. het onderzoeken van klachten;
+
+- c. het onderzoeken van niet-conform vuurwerk of niet-conforme pyrotechnische artikelen voor theatergebruik;
+
+- d. het onderzoeken van teruggeroepen vuurwerk of pyrotechnische artikelen voor theatergebruik;
+
+- e. het bijhouden van een register met betrekking tot de onder b, c, en d bedoelde onderzoeken;
+
+- f. het op de hoogte houden van de distributeurs betreffende de genomen maatregelen.
+
+2. De bevoegde autoriteit kan het verzoek, bedoeld in het eerste lid, doen als dit gezien de risico’s van het vuurwerk of de pyrotechnische artikelen voor theatergebruik passend wordt geacht.
+
+3. De importeur voert de maatregelen uit met het oog op de bescherming van de gezondheid en veiligheid van de consumenten.
+
+##### Artikel 1A.2B.7
+
+Indien een importeur van mening is of redenen heeft om aan te nemen dat door hem in de handel gebracht vuurwerk of een door hem in de handel gebracht pyrotechnisch artikel voor theatergebruik, niet in overeenstemming is met de eisen gesteld bij of krachtens dit besluit:
+
+- a. neemt hij onmiddellijk alle corrigerende maatregelen die nodig zijn om dat vuurwerk of pyrotechnisch artikel voor theatergebruik in overeenstemming te maken met die eisen of zo nodig uit de handel te nemen of terug te roepen; en
+
+- b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden, hiervan onmiddellijk op de hoogte. Indien hij de artikelen in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit onmiddellijk op de hoogte. Hierbij beschrijft de importeur in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.
+
+##### Artikel 1A.2B.8
+
+De importeur houdt gedurende tien jaar nadat het vuurwerk of pyrotechnisch artikel voor theatergebruik in de handel is gebracht, een kopie van de EU-conformiteitsverklaring ter beschikking van de markttoezichthouder en zorgt ervoor dat de technische documentatie op verzoek aan de markttoezichthouder kan worden verstrekt.
+
+##### Artikel 1A.2B.9
+
+1. Op een met redenen omkleed verzoek van de bevoegde autoriteit of de bevoegde autoriteiten van andere lidstaten:
+
+- a. verstrekt de importeur alle benodigde informatie en documentatie om de conformiteit van vuurwerk of pyrotechnische artikelen voor theatergebruik met de eisen gesteld bij of krachtens dit besluit aan te tonen; en
+
+- b. verleent de importeur medewerking aan alle genomen maatregelen om de risico’s van door hem in de handel gebracht vuurwerk of door hem in de handel gebrachte pyrotechnische artikelen voor theatergebruik uit te sluiten.
+
+2. De informatie en documentatie wordt op papier of elektronisch ter beschikking van de autoriteiten, bedoeld in het eerste lid, gesteld. Deze worden gesteld in de Nederlandse of Engelse taal.
+
+#### § 2C. Algemene verplichtingen van distributeurs
+
+##### Artikel 1A.2C.1
+
+De distributeur die vuurwerk of pyrotechnische artikelen voor theatergebruik op de markt aanbiedt, neemt de nodige zorgvuldigheid in acht ten aanzien van de eisen in dit besluit.
+
+##### Artikel 1A.2C.2
+
+Alvorens vuurwerk of pyrotechnische artikelen voor theatergebruik op de markt aan te bieden, controleert de distributeur of:
+
+- a. het artikel is voorzien van een CE-markering;
+
+- b. het artikel vergezeld gaat van de voorgeschreven documenten en van instructies en informatie aangaande de veiligheid, overeenkomstig [artikel 2.1.3, eerste lid, onder j, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [artikel 3.1.1, eerste lid, onder i, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22), en [artikel 3A.1.1, eerste lid, onder i, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22);
+
+- c. de fabrikant en de importeur aan de verplichtingen ingevolge[artikel 2.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=1&artikel=2.1.3&z=2015-09-22&g=2015-09-22), [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=1&artikel=3.1.1&z=2015-09-22&g=2015-09-22) en [3A.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=1&artikel=3A.1.1&z=2015-09-22&g=2015-09-22) hebben voldaan.
+
+##### Artikel 1A.2C.3
+
+De distributeur die van mening is of redenen heeft om aan te nemen dat vuurwerk of pyrotechnische artikelen voor theatergebruik niet in overeenstemming zijn met de essentiële veiligheidseisen:
+
+- a. biedt het vuurwerk of pyrotechnische artikel voor theatergebruik niet op de markt aan alvorens het in overeenstemming is gemaakt met de essentiële veiligheidseisen, en
+
+- b. brengt de fabrikant, de importeur en de markttoezichthouder hiervan op de hoogte, indien het vuurwerk of pyrotechnische artikel voor theatergebruik een risico vertoont.
+
+##### Artikel 1A.2C.4
+
+De distributeur zorgt gedurende de periode dat hij voor vuurwerk of pyrotechnische artikelen voor theatergebruik verantwoordelijk is, voor zodanige opslag- en vervoersomstandigheden ervan dat de conformiteit van het artikel met de essentiële veiligheidseisen niet in het gedrang komt.
+
+##### Artikel 1A.2C.5
+
+Indien een distributeur van mening is, of redenen heeft om aan te nemen, dat door hem op de markt aangeboden vuurwerk of pyrotechnisch artikel voor theatergebruik niet in overeenstemming is met de eisen gesteld bij of krachtens dit besluit:
+
+- a. ziet hij erop toe dat de nodige corrigerende maatregelen worden genomen om die artikelen in overeenstemming te maken of zo nodig uit de handel te nemen of terug te roepen; en
+
+- b. brengt hij, indien het artikel een risico vertoont, de bevoegde autoriteiten van de lidstaten waar hij het artikel op de markt heeft aangeboden hiervan onmiddellijk op de hoogte. Indien hij de artikelen in Nederland op de markt heeft aangeboden, brengt hij de bevoegde autoriteit op de hoogte. Hierbij beschrijft hij in het bijzonder uitvoerig de niet-conformiteit en alle genomen corrigerende maatregelen.
+
+##### Artikel 1A.2C.6
+
+1. Op een met redenen omkleed verzoek van de bevoegde autoriteit of bevoegde autoriteiten van andere lidstaten:
+
+- a. verstrekt de distributeur deze autoriteit alle benodigde informatie en documentatie om de conformiteit van vuurwerk of een pyrotechnisch artikel voor theatergebruik met de eisen gesteld bij of krachtens dit besluit aan te tonen; en
+
+- b. verleent de distributeur medewerking aan alle genomen maatregelen om de risico’s van de door hem in de handel gebrachte artikelen uit te sluiten.
+
+2. De informatie en documentatie, genoemd in het eerste lid, onder a, wordt op papier of elektronisch ter beschikking van de autoriteiten, genoemd in het eerste lid, gesteld.
+
+##### Artikel 1A.2D.1
+
+1. Op verzoek van de bevoegde autoriteit verstrekken de marktdeelnemers de volgende informatie:
+
+- a. welke marktdeelnemer vuurwerk of pyrotechnische artikelen voor theatergebruik aan hen heeft geleverd; en
+
+- b. aan welke marktdeelnemer zij vuurwerk of pyrotechnische artikelen voor theatergebruik hebben geleverd.
+
+2. De marktdeelnemers houden de informatie, genoemd in het eerste lid, ten minste tien jaar nadat het vuurwerk of het pyrotechnische artikel voor theatergebruik aan de marktdeelnemers is geleverd, dan wel nadat de marktdeelnemers het vuurwerk of het pyrotechnische artikel voor theatergebruik heeft geleverd, ter beschikking van de bevoegde autoriteit.
+
+#### § 2E. Eisen aan marktdeelnemers omtrent traceerbaarheid
+
+##### Artikel 1A.2E.1
+
+1. De fabrikant etiketteert vuurwerk en pyrotechnische artikel voor theatergebruik met een registratienummer dat wordt toegekend door de aangemelde instantie.
+
+2. Dit lid is nog niet in werking getreden.
+
+3. Dit lid is nog niet in werking getreden.
+
+##### Artikel 1A.2E.1A
+
+De fabrikant en importeur houden gegevens bij over de registratienummers van het vuurwerk en de pyrotechnische artikelen die zij op de markt aanbieden. Op verzoek van de bevoegde autoriteit stellen zij deze informatie ter beschikking van de bevoegde autoriteit.
+
+##### Artikel 1A.2E.2
+
+Dit onderdeel is nog niet inwerking getreden
+
+#### § 2F. Eisen aan marktdeelnemers omtrent risico-uitsluiting
+
+##### Artikel 1A.2F.1
+
+1. Indien de marktdeelnemer van de markttoezichthouder verneemt dat vuurwerk of een pyrotechnisch artikel voor theatergebruik, dat weliswaar in overeenstemming is met de essentiële veiligheidseisen en overige bepalingen van dit Besluit, toch een risico vormt voor de gezondheid of veiligheid van personen of voor andere aspecten van de bescherming van algemene belangen:
+
+- a. neemt hij alle passende maatregelen om ervoor te zorgen dat dit vuurwerk of dit pyrotechnische artikel voor theatergebruik dat risico niet meer meebrengt wanneer zij in de handel worden gebracht, of
+
+- b. neemt hij, binnen een door de markttoezichthouder vast te stellen termijn, dit vuurwerk of dit pyrotechnische artikel voor theatergebruik uit de handel of roept hij deze terug.
+
+2. De marktdeelnemer zorgt ervoor dat door hem genomen corrigerende maatregelen worden toegepast op alle betrokken vuurwerk of pyrotechnische artikelen voor theatergebruik die hij in de Europese Unie op de markt heeft aangeboden.
+
+#### § 3. Conformiteitsbeoordelingsprocedure
+
+##### Artikel 1A.4.2
+
+1. In de EU-conformiteitsverklaring wordt vermeld dat is aangetoond dat aan de essentiële veiligheidseisen is voldaan.
+
+2. De EU-conformiteitsverklaring:
+
+- a. komt qua structuur overeen met het model van bijlage III bij de EU-richtlijn pyrotechnische artikelen;
+
+- b. bevat de in de desbetreffende modules van bijlage II bij de EU-richtlijn pyrotechnische artikelen vermelde elementen;
+
+- c. wordt voortdurend bijgewerkt;
+
+- d. wordt vertaald in de taal of talen zoals gevraagd door de lidstaat waar het vuurwerk of het pyrotechnische artikel voor theatergebruik in de handel wordt gebracht of op de markt wordt aangeboden.
+
+3. De EU-conformiteitsverklaring die betrekking heeft op vuurwerk of pyrotechnische artikelen voor theatergebruik die binnen het grondgebied van Nederland in de handel worden gebracht of op de markt worden aangeboden, is gesteld in de Nederlandse taal.
+
+4. Indien voor vuurwerk of pyrotechnische artikelen voor theatergebruik uit hoofde van meer dan één handeling van de Europese Unie een EU-conformiteitsverklaring vereist is, wordt één EU-conformiteitsverklaring met betrekking tot al die handelingen van de Europese Unie opgesteld. In die verklaring moet duidelijk worden aangegeven om welke handelingen van de Europese Unie het gaat, met vermelding van de publicatiereferenties ervan.
+
+5. Door de EU-conformiteitsverklaring op te stellen neemt de fabrikant de verantwoordelijkheid voor de conformiteit van het vuurwerk of het pyrotechnische artikel voor theatergebruik met de eisen van de EU-richtlijn pyrotechnische artikelen op zich.
+
+#### § 5. Aangewezen instantie
+
+##### Artikel 1A.5.9
+
+1. Het personeel van een aangewezen instantie is gebonden aan het beroepsgeheim ten aanzien van alle informatie waarvan het kennisneemt bij de uitoefening van de taken van de aangewezen instantie uit hoofde van bijlage II bij de EU-richtlijn pyrotechnische artikelen of bij of krachtens dit besluit. De eigendomsrechten worden beschermd.
+
+2. Het beroepsgeheim, genoemd in het eerste lid, geldt niet ten opzichte van de bevoegde autoriteit.
+
+##### Artikel 1A.5.10
+
+1. De aangewezen instantie neemt deel aan of zorgt ervoor dat haar personeel dat de conformiteitsbeoordelingstaken verricht, op de hoogte is van:
+
+- a. de relevante normalisatieactiviteiten, en
+
+- b. de activiteiten van de coördinatiegroep van aangemelde instantie die is opgericht uit hoofde van de desbetreffende harmonisatiewetgeving van de Europese Unie.
+
+2. De aangewezen instantie hanteert de administratieve beslissingen en geproduceerde documenten van de coördinatiegroep, genoemd in het eerste lid, onder b, als algemene richtsnoeren.
+
+##### Artikel 1A.5.11
+
+Een conformiteitsbeoordelingsinstantie die aantoont dat zij voldoet aan de criteria in de ter zaken doende geharmoniseerde normen of delen ervan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, wordt geacht aan de eisen, genoemd in [artikel 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22), te voldoen, op voorwaarde dat de van toepassing zijnde geharmoniseerde normen de eisen dekken.
+
+##### Artikel 1A.5.12
+
+1. Indien de aangewezen instantie specifieke taken in verband met de conformiteitsbeoordeling uitbesteedt of door een dochteronderneming laat uitvoeren:
+
+- a. waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen, genoemd in [artikel 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22), voldoet;
+
+- b. brengt zij Onze Minister hiervan op de hoogte;
+
+- c. neemt zij de volledige verantwoordelijkheid op zich voor de taken die onderaannemers of dochterondernemingen verrichten, ongeacht waar deze gevestigd zijn;
+
+- d. houdt zij de relevante documenten over de beoordeling van de kwalificaties van de onderaannemer of dochteronderneming en over de door de onderaannemer of dochteronderneming uit hoofde van bijlage II bij de EU-richtlijn pyrotechnische artikelen uitgevoerde werkzaamheden ter beschikking van Onze Minister.
+
+2. Activiteiten mogen uitsluitend met instemming van de klant worden uitbesteed of door een dochteronderneming worden uitgevoerd.
+
+##### Artikel 1A.5.13
+
+1. De aangewezen instantie voert conformiteitsbeoordelingen uit. Zij voldoet aan de eisen die in bijlage II bij de EU-richtlijn pyrotechnische artikelen aan haar worden gesteld.
+
+2. De aangewezen instantie is bij uitvoering van de conformiteitsbeoordelingen, genoemd in het eerste lid, in elk geval bevoegd tot het nemen van de volgende besluiten:
+
+- a. beslissen omtrent afgifte van een verklaring van EU-typeonderzoek in het kader van de toepassing van module B, als bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen, onder 6;
+
+- b. beslissen omtrent afgifte van een aanvullende goedkeuring in het kader van de toepassing van module B, als bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen, onder 7;
+
+- c. beslissen omtrent beoordelen of opnieuw beoordelen van het kwaliteitssysteem in het kader van de toepassing van module D, als bedoeld in bijlage II bij de EU-richtlijn pyrotechnische artikelen, onder 3.3 en 3.5.
+
+3. De aangewezen instantie voert de conformiteitbeoordelingen op evenredige wijze uit, waarbij zij voorkomt dat de marktdeelnemers onnodig worden belast. De aangewezen instantie houdt hierbij naar behoren rekening met de volgende aspecten, waarbij zij de striktheid en het beschermingsniveau eerbiedigt die nodig zijn opdat het vuurwerk of het pyrotechnische artikel voor theatergebruik voldoet aan de essentiële veiligheidseisen:
+
+- a. de omvang van de onderneming;
+
+- b. de sector waarin zij actief is;
+
+- c. de structuur van de onderneming;
+
+- d. de relatieve technologische complexiteit van de producten; en
+
+- e. het massa- of seriële karakter van het productieproces.
+
+##### Artikel 1A.5.14
+
+1. De aangewezen instantie kent registratienummers toe ter identificatie van het vuurwerk of de pyrotechnische artikelen voor theatergebruik die aan een conformiteitsbeoordeling zijn onderworpen en ter identificatie van de fabrikanten van deze artikelen.
+
+2. De aangewezen instantie houdt een register bij van de registratienummers van vuurwerk en pyrotechnische artikelen voor theatergebruik waarvoor zij conformiteitcertificaten heeft afgegeven.
+
+3. Dit lid is nog niet in werking getreden.
+
+4. Dit lid is nog niet in werking getreden.
+
+5. Dit lid is nog niet in werking getreden.
+
+6. Dit lid is nog niet in werking getreden.
+
+##### Artikel 1A.5.15
+
+De aangewezen instantie verleent geen conformiteitscertificaat indien zij vaststelt dat een fabrikant niet heeft voldaan aan de essentiële veiligheidseisen of aan de overeenkomstige geharmoniseerde normen of andere technische specificaties. Zij verlangt dat de fabrikant de passende corrigerende maatregelen neemt.
+
+##### Artikel 1A.5.16
+
+1. De aangewezen instantie verlangt dat de fabrikant passende corrigerende maatregelen neemt, indien zij bij het toezicht op de conformiteit na verlening van een certificaat vaststelt dat vuurwerk of het pyrotechnische artikelen voor theatergebruik niet meer in overeenstemming is met de essentiële veiligheidseisen, de overeenkomstige geharmoniseerde normen of andere technische specificaties. Zo nodig schorst zij het certificaat of trekt zij dit in.
+
+2. Indien geen corrigerende maatregelen als bedoeld in het eerste lid worden genomen, worden de certificaten naargelang het geval door de aangewezen instantie geschorst, beperkt of ingetrokken.
+
+##### Artikel 1A.5.17
+
+De aangewezen instantie neemt rechtstreeks of via aangestelde vertegenwoordigers deel aan de werkzaamheden van het forum van aangemelde instanties.
+
+##### Artikel 1A.5.18
+
+1. Onze Minister ziet toe op de rechtmatige en doeltreffende uitvoering van het bepaalde bij of krachtens dit besluit door de aangewezen instantie.
+
+2. De aangewezen instantie brengt Onze Minister op de hoogte van:
+
+- a. elke weigering, beperking, schorsing of intrekking van certificaten;
+
+- b. omstandigheden die van invloed zijn op de werkingssfeer van of de voorwaarden voor de aanwijzing;
+
+- c. informatieverzoeken over conformiteitsbeoordelingsactiviteiten die zij van de markttoezichthouder of de marktautoriteiten uit andere lidstaten, ontvangen;
+
+3. Op verzoek van Onze Minister brengt de aangewezen instantie Onze Minister op de hoogte van de binnen haar werkingssfeer verrichte conformiteitsbeoordelingsactiviteiten, waaronder grensoverschrijdende activiteiten en uitbestedingen.
+
+4. De aangewezen instantie verstrekt relevante informatie over negatieve conformiteitsbeoordelingsresultaten en op verzoek over positieve conformiteitsbeoordelingsresultaten aan de andere aangemelde instanties die soortgelijke conformiteitsbeoordelingsactiviteiten voor dezelfde pyrotechnische artikelen verrichten.
+
+##### Artikel 1A.5.19
+
+De aangewezen instantie beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de beoordeelde pyrotechnische artikelen afdoende te identificeren.
+
+##### Artikel 1A.5.20
+
+1. Indien is gebleken dat de aangewezen instantie niet langer voldoet aan de eisen, genoemd in [artikel 1A.5.3 tot en met 1A.5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.3&z=2015-09-22&g=2015-09-22), of haar verplichtingen niet nakomt, kan Onze Minister de aanwijzing beperken, schorsen of intrekken, afhankelijk van de ernst van het niet-voldoen aan die eisen of het niet-nakomen van die verplichtingen.
+
+2. Onze Minister stelt de andere lidstaten van de Europese Unie en de Europese Commissie onverwijld op de hoogte van de maatregelen, genoemd in het eerste lid.
+
+3. Wanneer de aanwijzing wordt beperkt, geschorst, of ingetrokken, of de aangewezen instantie haar activiteiten heeft gestaakt:
+
+- a. stelt deze instantie, ook nadat de aanwijzing is beperkt, geschorst of ingetrokken, de dossiers op verzoek van Onze Minister, ter beschikking aan Onze Minister en de markttoezichthouder, of
+
+- b. draagt deze instantie de dossiers over aan een andere aangemelde instantie.
+
+#### § 1. Eisen aan consumentenvuurwerk
+
+#### § 3. Verkoop en tot ontbranding brengen van consumentenvuurwerk
+
+### Hoofdstuk 3. Professioneel vuurwerk
+
+#### § 1. Eisen aan professioneel vuurwerk
+
+#### § 2. Opslaan en bewerken van professioneel vuurwerk
+
+#### § 3. Verkoop en tot ontbranding brengen van professioneel vuurwerk
+
+### Hoofdstuk 3a. Pyrotechnische artikelen voor theatergebruik
+
+#### § 1. Eisen aan pyrotechnische artikelen voor theatergebruik
+
+#### § 2. Opslaan en bewerken van pyrotechnische artikelen voor theatergebruik
+
+#### § 3. Verkoop van pyrotechnische artikelen voor theatergebruik
+
+### Hoofdstuk 3b. Het tot ontbranding brengen van vuurwerk en pyrotechnische artikelen voor theatergebruik
+
+### Hoofdstuk 4. Veiligheidsafstanden
+
+### Hoofdstuk 5. Overgangs- en slotbepalingen
+
+#### § 1. Wijzigingsbepalingen
+
+#### § 2. Intrekking van regelgeving
+
+#### § 3. Overgangsbepalingen
+
+#### § 4. Slotbepalingen
+
+## Bijlage 1. Voorschriften voor het opslaan, herverpakken en bewerken van consumentenvuurwerk, als bedoeld in [artikel 2.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), en voor het opslaan en bewerken van theatervuurwerk, als bedoeld in [artikel 3A.2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22)
+
+### Paragraaf 2. Constructie van een bewaarplaats en van een bufferbewaarplaats
+
+### Paragraaf 4. Verkoopruimte
+
+### Paragraaf 2. Constructie van een bewaarplaats en van een bewerkingsruimte bestemd voor het opslaan of bewerken van vuurwerk
+
+### Paragraaf 3. Gebruik van een bewaarplaats en van een bewerkingsruimte
+
+4.11 Rolbanen, transportkettingen en dergelijke zijn dusdanig beveiligd, dat er geen vuurwerkartikelen af kunnen vallen. Bedoelde hulpmiddelen moeten eveneens deugdelijk zijn geaard overeenkomstig voorschrift 4.2. Mechanische transportkettingen en -banden zijn op elke handelingsplaats voorzien van een schakelaar, die de ketting of band buiten gebruik kan stellen.
+
+4.12 De transportmiddelen worden regelmatig nagezien op eventuele gebreken en slijtageverschijnselen. Voorschrift 4.7 is van overeenkomstige toepassing.
+
+### Paragraaf 5. Veiligheidsinstructies voor personen die werkzaamheden verrichten binnen de inrichting
+
+5.1 Degene die de inrichting drijft zorgt er voor dat het personeel steeds op de hoogte is van zijn taak en bekend is met het gereedschap, dat het daarbij moet gebruiken. Derden mogen slechts werkzaamheden in of aan een bewaarplaats of bewerkingsruimte verrichten, indien zij in het bezit zijn van een schriftelijke werkopdracht. Degene die de inrichting drijft ziet erop toe dat daarbij de veiligheidsvoorschriften, die voor de betrokken bewaarplaats of bewerkingsruimte gelden, worden nageleefd.
+
+5.6 Op de toegangsdeur van de bewaarplaats en van de bewerkingsruimte wordt een veiligheidssymbool aangebracht, waarmee het ontploffingsgevaar wordt aangeduid. Hierbij wordt gebruik gemaakt van de in bijlage XVIII bij de Arbeidsomstandighedenregeling opgenomen borden.
+
+5.7 Het personeel wordt uitgebreid voorgelicht omtrent de voorzieningen, die in verband met de veiligheid zijn getroffen. Voorts oefent het personeel de toepassing van die voorzieningen.
+
+5.8 Het personeel bevindt zich uitsluitend op de plaats waar het de opgedragen werkzaamheden moet verrichten en mag zich aldaar uitsluitend met de eigen taak bezig houden. Het is hun verboden zich elders op te houden, tenzij door degene die de inrichting drijft daarvoor toestemming is verleend.
+
+5.9 Het is het personeel verboden tijdens de rustpauzes in de bewerkingsruimte te verblijven, met uitzondering van een wacht, die toezicht houdt op de in bewerking zijnde vuurwerkartikelen.
+
+5.10 Indien het in de nabijheid van de bewerkingsruimte onweert (wanneer tussen bliksem en donderslag minder dan 10 seconden zijn verlopen), worden de werkzaamheden in de bewerkingsruimte en/of de bewaarplaats gestaakt. Iedereen verlaat de bewerkingsruimte en/of de bewaarplaats die vervolgens wordt afgesloten. Het werk mag pas worden hervat, wanneer het onweer volledig is overgedreven. Indien blikseminslag wordt geconstateerd, wordt de werking van de bliksembeveiligingsinstallaties, naast de reguliere controle volgens voorschrift 2.15, direct gecontroleerd door een onafhankelijke deskundige. Een afschrift van het rapport van de controle is binnen de inrichting aanwezig.
+
+5.11 Het personeel moet goed bekend zijn met de brandalarmregelingen.
+
+5.12 Een voldoende aantal leden van het personeel is geïnstrueerd over het hanteren van de brandblusapparatuur. Dit personeel moet bekend zijn met de plaats van deze apparatuur.
+
+5.13 Bij brand in de onmiddellijke nabijheid van de bewerkingsruimte, die gevaar oplevert voor de bewerkingsruimte, moet de deur van de bewerkingsruimte worden gesloten. Bovendien dienen bij voorkeur de volgende veiligheidsmaatregelen te worden getroffen:
+
+5.14 Wanneer het personeel iets ongewoons bemerkt aan een gebouw, materieel, materiaal of bewerking of aan het gedrag van een persoon, wordt dit gemeld aan degene die de inrichting drijft. Het betrokken materieel of materiaal wordt direct terzijde gesteld. De betrokken bewerking wordt direct gestaakt.
+
+5.15 Personeel dat een ruimte betreedt waarin professioneel vuurwerk wordt bewerkt, moet zich van tevoren elektrisch ontladen.
+
+5.16 Gedurende de werkzaamheden is het personeel gekleed in een overall of in een werkbroek en werkkiel van stevige stof. Werkkleding van personeel, werkzaam in ruimten waar explosieve stof wordt bewerkt, wordt ten minste eenmaal per week gewassen. In de werkkleding mogen geen andere voorwerpen dan een zakdoek worden meegenomen. De overige persoonlijke bezittingen moeten worden achtergelaten in het kleedlokaal.
+
+5.17 Bij het werken met zwart buskruit draagt het personeel een hoofddeksel dat daartoe ter beschikking wordt gesteld door degene die de inrichting drijft.
+
+5.18 In ruimten waar vuurwerk wordt bewerkt, worden vonkvrije schoenen gedragen. Deze schoenen mogen, nadat bedoelde ruimten zijn verlaten, niet worden aangehouden.
+
+5.19 Het personeel maakt uitsluitend gebruik van de gereedschappen en hulpmiddelen die voor de uitvoering van de werkzaamheden zijn voorgeschreven.
+
+5.20 Bij het verrichten van werkzaamheden aan metalen onderdelen waarbij aantasting van het materiaal moet worden voorkomen, moeten handschoenen worden gedragen.
+
+5.21 Bij werkzaamheden waarbij het gevaar bestaat dat door elektrostatische ladingen brand of explosie ontstaat, mag geen kunststoffen of zijden kleding worden gedragen. Bij deze werkzaamheden wordt zodanig schoeisel gedragen, dat de weerstand tussen de persoon en de vloer ligt tussen 25 000 en 1 000 000 ohm.
+
+### Paragraaf 6. Werkzaamheden aan professioneel vuurwerk
+
 6.1 Er zijn geen brandbare of brandgevaarlijke goederen of vloeistoffen in de werkruimte aanwezig, tenzij deze direct benodigd zijn voor of bij de werkzaamheden. Na afloop van de werkzaamheden worden deze hulpmiddelen onmiddellijk uit de bewerkingsruimte verwijderd.
+
+6.2 In elke bewerkingsruimte is een vat, bestemd voor afval, geplaatst, dat na de beëindiging van de werkzaamheden wordt geledigd. Tevens is in de bewerkingsruimte een vat, vervaardigd van vonkvrij en geleidend materiaal, geplaatst, bestemd voor het afval van explosieve stoffen, dat voor het einde van de werkzaamheden wordt geledigd, waarna de explosieve stoffen zo spoedig mogelijk worden afgevoerd.
+
+6.3 Tijdens werkzaamheden aan of met professioneel vuurwerk is de werkruimte overzichtelijk en zijn alleen die materialen en/of hulpmiddelen die zijn voorgeschreven ter uitvoering van de opgedragen werkzaamheden in de bewerkingsruimte aanwezig.
+
+6.4 Degene die de inrichting drijft zorgt ervoor dat voor de aanvang van werkzaamheden aan vuurwerk een werkschema is vastgesteld.
+
+6.5 Het werkschema geeft uitsluitsel omtrent de volgende bijzonderheden, voor zover die van belang zijn voor de betrokken opdracht:
+
+6.6 In het werkschema wordt ieders taak nauwkeurig omschreven.
+
+6.7 Degene die de inrichting drijft ziet erop toe dat een ieder op de hoogte is van de voor hem geldende bijzonderheden die in het betrokken werkschema zijn vastgelegd.
+
+6.8 Tijdens de werkzaamheden worden geen andere gereedschappen gebruikt dan die, welke in het werkschema zijn genoemd en aan het personeel zijn verstrekt.
 
 6.9 Bij het einde van de werktijd laat het personeel de werktuigen en gereedschappen, alsmede de banken, tafels enz. schoon en ordelijk achter. De vloer wordt zo nodig gereinigd. Brandbare vloeistoffen en andere artikelen, zoals oliedotten en afval van explosieve stof, worden uit de werkplaats verwijderd.
 
 6.10 Vuurwerk, ontstekers en ontstekingsmiddelen blijven niet in een bewerkingsruimte achter, tenzij deze voorwerpen op veilige wijze worden opgeborgen in speciaal daarvoor ingerichte kasten of worden voorzien van een deugdelijke verpakking.
 
-## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2014-12-13&g=2014-12-13), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2014-12-13&g=2014-12-13)
+## Bijlage 3. Veiligheidsafstanden als bedoeld in de [artikelen 2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=2&paragraaf=2&artikel=2.2.1&z=2015-09-22&g=2015-09-22), [3.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22), [3A.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22) en [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=4&artikel=4.2&z=2015-09-22&g=2015-09-22)
 
 ### A. Begripsbepalingen
 
@@ -2482,12 +3026,20 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### B. Veiligheidsafstanden
 
-1.1 Bij een inrichting waarin verpakt of onverpakt professioneel vuurwerk en pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2014-12-13&g=2014-12-13), of [3A.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2014-12-13&g=2014-12-13), aanwezig mag zijn, dient, gemeten vanaf de bewaarplaats en, indien aanwezig, de bewerkingsruimte, tot een beperkt kwetsbaar of kwetsbaar object en een geprojecteerd beperkt kwetsbaar of kwetsbaar object de volgende veiligheidsafstand in acht te worden genomen:
+1.1 Bij een inrichting waarin verpakt of onverpakt professioneel vuurwerk en pyrotechnische artikelen voor theatergebruik als bedoeld in [artikel 3.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3&paragraaf=2&artikel=3.2.1&z=2015-09-22&g=2015-09-22), of [3A.2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=3a&paragraaf=2&artikel=3A.2.1&z=2015-09-22&g=2015-09-22), aanwezig mag zijn, dient, gemeten vanaf de bewaarplaats en, indien aanwezig, de bewerkingsruimte, tot een beperkt kwetsbaar of kwetsbaar object en een geprojecteerd beperkt kwetsbaar of kwetsbaar object de volgende veiligheidsafstand in acht te worden genomen:
 
 1.2 a. Bij een inrichting waarin in totaal niet meer dan 10 000 kg consumentenvuurwerk aanwezig mag zijn, dient, gemeten vanaf de bewaarplaats en de bufferbewaarplaats in voorwaartse richting, tot een beperkt kwetsbaar of kwetsbaar object en een geprojecteerd beperkt kwetsbaar of kwetsbaar object een veiligheidsafstand van ten minste 8 meter in acht te worden genomen.
 
 b. Binnen de veiligheidsafstand in voorwaartse richting, het vrijwaringsgebied daaronder niet begrepen, mag in afwijking van onderdeel a een beperkt kwetsbaar of kwetsbaar object aanwezig zijn of geprojecteerd zijn, indien tussen de deuropening van de (buffer)bewaarplaats en dat object een scheidingsconstructie aanwezig is:
 
 1.3 Bij een inrichting waarin in totaal meer dan 10.000 kg consumentenvuurwerk al dan niet tezamen met theatervuurwerk aanwezig mag zijn:
+
+## Bijlage 4. Het registermodel waarnaar in [artikel 1A.5.14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&hoofdstuk=1a&paragraaf=5&artikel=1A.5.14&z=2015-09-22&g=2015-09-22), wordt verwezen.
+
+| **Registratienummer** | **Datum van afgifte van de verklaring van EU-typeonderzoek (module B), de verklaring van overeenstemming (module G) of goedkeuring van het kwaliteits-systeem (module H) en datum waarop de geldigheid verstrijkt, indien van toepassing** | **Fabrikant** | **Producttype (algemeen) en subtype, indien van toepassing** | **Conformiteitsmodule voor de productie-fase1** | **Aangemelde instantie die de conformiteitsbeoordeling van de productiefase uitvoert1** | **Aanvullende informatie** |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |   |
+
+1 Altijd in te vullen indien die onder de verantwoordelijkheid valt van de aangemelde instantie die de conformiteitsbeoordelingsprocedure uitvoert. Niet vereist voor conformiteitsbeoordelingsprocedures voor module G en H. Informatie moet worden verstrekt (indien bekend), indien een andere aangemelde instantie is betrokken.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
