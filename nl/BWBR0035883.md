@@ -4,7 +4,7 @@ identifier: "BWBR0035883"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2024-11-30"
-last_updated: "2015-01-01"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035883"
 soort: "ministeriele-regeling"
@@ -92,17 +92,17 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 ##### Artikel 4. Subsidieaanvraag en -verlening
 
-1. De subsidieontvanger dient jaarlijks uiterlijk 31 januari van het schooljaar waarin de eindtoets wordt aangeboden een aanvraag tot subsidieverlening in, voorzien van:
+1. De subsidieontvanger dient jaarlijks voor 1 maart van het schooljaar waarin de eindtoets wordt aangeboden een aanvraag tot subsidieverlening in, voorzien van:
 
 - a. een opgave van het aantal leerlingen dat in het betreffende schooljaar naar verwachting de eindtoets zal gaan maken, onderverdeeld naar BRIN-nummer van de school die de toets afneemt,
 
 - b. een verklaring van de subsidieontvanger dat de onderliggende gegevens van de opgave als bedoeld onder a en de aanmeldingen voor het verstrekken van de eindtoets van de betreffende schoolbesturen in de administratie aanwezig zijn en desgevraagd opgeleverd kunnen worden, en
 
-- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2015-01-01&g=2015-01-01), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
+- c. een verklaring van de subsidieontvanger dat deze voldoet aan de voorwaarden bedoeld in [artikel 2, eerste lid, onder a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=2&z=2015-09-25&g=2015-09-25), en zal voldoen aan de voorwaarden bedoeld in artikel 2, eerste lid, onder c en e.
 
 2. De subsidieontvanger maakt bij de aanvraag bedoeld in het eerste lid gebruik van het standaardformulier gepubliceerd op de website van DUO.
 
-3. Aanvragen die na 31 januari van het schooljaar waarin de eindtoets wordt aangeboden bij DUO binnenkomen worden afgewezen.
+3. Aanvragen die op of na 1 maart van het schooljaar waarin de eindtoets wordt aangeboden bij DUO binnenkomen worden afgewezen.
 
 4. De minister beslist uiterlijk binnen 6 weken op de aanvraag tot subsidieverlening.
 
@@ -110,21 +110,23 @@ Voor leerling 15.001 en verder: € 17 per leerling
 
 1. De subsidieontvanger dient jaarlijks de eindtoets van de desbetreffende jaargang in bij de onafhankelijke commissie, bedoeld in [artikel 9 van het Toetsbesluit PO](https://wetten.overheid.nl/jci1.3:c:BWBR0035216&artikel=9), voor 1 augustus van het schooljaar waarin de toets wordt afgenomen.
 
-2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2015-01-01&g=2015-01-01) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
+2. Ten behoeve van de vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2015-09-25&g=2015-09-25) dient de subsidieontvanger jaarlijks voor 1 augustus een opgave in van het aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets onderverdeeld naar BRIN-nummer van de school die de toets heeft afgenomen. De onderliggende gegevens van deze opgave zijn aanwezig in de administratie en kunnen desgevraagd worden geleverd.
 
 3. De subsidieontvanger verstrekt aan de minister alle inlichtingen die deze nodig acht ten behoeve van een goede uitvoering en naleving van deze regeling.
 
 ##### Artikel 6. Voorschot en vaststelling subsidie
 
-1. De subsidieontvanger ontvangt het totale subsidiebedrag in één keer bij wijze van voorschot voor 15 maart van het jaar van de subsidieaanvraag.
+1. De subsidieontvanger ontvangt het totale subsidiebedrag in één keer bij wijze van voorschot voor 15 april van het jaar van de subsidieaanvraag.
 
-2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2015-01-01&g=2015-01-01), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2015-01-01&g=2015-01-01).
+2. Het voorschot wordt vastgesteld op basis van de opgave van het aantal leerlingen als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2015-09-25&g=2015-09-25), en het vaste en variabele bedrag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=3&z=2015-09-25&g=2015-09-25).
 
 3. Het subsidiebedrag wordt jaarlijks voor 1 november vastgesteld op basis van de opgave van het feitelijk aantal leerlingen dat in het desbetreffende jaar heeft deelgenomen aan de eindtoets.
 
-##### Artikel 7. Besteding
+##### Artikel 7. Verantwoording
 
-De subsidie wordt uitsluitend aangewend voor het doel waarvoor zij is verstrekt.
+1. De subsidieontvanger verantwoordt de subsidieverlening aan de hand van een prestatieverklaring, die bestaat uit de opgave, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=6&z=2015-09-25&g=2015-09-25).
+
+2. Op deze regeling zijn de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=19), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=21) en [22 van de Regeling OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0028820&artikel=22) niet van toepassing.
 
 ##### Artikel 8. Begrotingsvoorbehoud
 
@@ -136,7 +138,7 @@ Deze regeling wordt jaarlijks gemonitord en kan naar aanleiding daarvan worden b
 
 ##### Artikel 10. Overgangsbepaling
 
-In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2015-01-01&g=2015-01-01), dient de subsidieontvanger in 2015 uiterlijk 28 februari een aanvraag tot subsidieverlening in. In afwijking van artikel 4, derde lid, worden in 2015 aanvragen die na 28 februari worden ingediend afgewezen.
+In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035883&artikel=4&z=2015-09-25&g=2015-09-25), dient de subsidieontvanger in 2015 uiterlijk 28 februari een aanvraag tot subsidieverlening in. In afwijking van artikel 4, derde lid, worden in 2015 aanvragen die na 28 februari worden ingediend afgewezen.
 
 ##### Artikel 11. Inwerkingtreding
 
