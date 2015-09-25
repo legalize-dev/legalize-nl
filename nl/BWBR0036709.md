@@ -4,7 +4,7 @@ identifier: "BWBR0036709"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036709"
 soort: "ministeriele-regeling"
@@ -70,7 +70,7 @@ De ratingbureaus, bedoeld in de [artikelen 13, eerste lid, onderdelen b en c](ht
 
 ##### Artikel 4
 
-De andere categorieën van instellingen, bedoeld in [artikel 13, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13), zijn instellingen als bedoeld in [artikel 1, eerste lid, onderdelen b, c en d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=1) met ten minste een single B-rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de ratingbureaus, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=3&z=2015-07-01&g=2015-07-01).
+De andere categorieën van instellingen, bedoeld in [artikel 13, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13), zijn instellingen als bedoeld in [artikel 1, eerste lid, onderdelen b, c en d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=1) met ten minste een single B-rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de ratingbureaus, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=I&paragraaf=2&artikel=3&z=2015-09-25&g=2015-09-25).
 
 #### § 3. Verdere algemene bepalingen
 
@@ -134,7 +134,7 @@ De andere categorieën van instellingen, bedoeld in [artikel 13, tweede lid, van
 
 ##### Artikel 8
 
-1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2015-07-01&g=2015-07-01), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
+1. De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2015-09-25&g=2015-09-25), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
 
 2. Indien de toegelaten instelling verzuimt de bij de melding ontbrekende bescheiden te verstrekken, kan de minister besluiten de melding niet in behandeling te nemen. Hij stelt de toegelaten instelling onverwijld daarvan in kennis.
 
@@ -202,7 +202,7 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 5. Indien uit de gegevens, bedoeld in het derde lid, een huishoudinkomen blijkt dat hoger is dan het bedrag, genoemd in [artikel 23, tweede lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), terwijl naar het oordeel van degene die als eigenaar de betrokken woongelegenheid wenst te betrekken het huishoudinkomen niet hoger is dan dat bedrag, kan hij dat oordeel met een onderbouwing daarvan aan de toegelaten instelling overleggen, in welk geval de gegevens, bedoeld in het eerste lid, onderdeel b, voorts zijn de gegevens overeenkomstig het vierde lid, onderdeel b, onder 1° en 2°.
 
-6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2015-07-01&g=2015-07-01) bij deze regeling.
+6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2015-09-25&g=2015-09-25) bij deze regeling.
 
 ##### Artikel 12
 
@@ -218,7 +218,7 @@ De combinatie van bedingen, bedoeld in [artikel 23, eerste lid, onderdeel b, van
 
 ##### Artikel 14
 
-De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2015-07-01&g=2015-07-01) bij deze regeling.
+De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2015-09-25&g=2015-09-25) bij deze regeling.
 
 ##### Artikel 15
 
@@ -244,7 +244,7 @@ De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](ht
 
 ##### Artikel 19
 
-Het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), wordt ingericht overeenkomstig het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=5&z=2015-07-01&g=2015-07-01) bij deze regeling opgenomen model.
+Het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), wordt ingericht overeenkomstig het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=5&z=2015-09-25&g=2015-09-25) bij deze regeling opgenomen model.
 
 #### § 2. Goedkeuring van werkzaamheden die niet behoren tot de diensten van algemeen economisch belang
 
@@ -320,7 +320,7 @@ Aan [artikel 49, tweede lid, onderdeel a, van het besluit](https://wetten.overhe
 
 - d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarvan dat inkomen zo nauwkeurig als redelijkerwijs mogelijk kan worden geschat.
 
-9. Aan het eerste lid, onderdeel b, en het achtste lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2015-07-01&g=2015-07-01) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
+9. Aan het eerste lid, onderdeel b, en het achtste lid, onderdeel d, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2015-09-25&g=2015-09-25) bij deze regeling. [Artikel 55, negende lid, tweede en derde volzin, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=55) is van overeenkomstige toepassing.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
@@ -434,7 +434,7 @@ Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.o
 
 - 1°. gevestigd zijn in een lidstaat die ten minste beschikt over een AA-rating afgegeven door ten minste twee van de ratingbureaus Moody’s, Standard and Poor’s en Fitch en
 
-- 2°. voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een AA-minusrating beschikken, afgegeven door ten minste twee van de in onderdeel 1° genoemde ratingbureaus, of, uitsluitend indien de middelen worden uitgezet voor een periode van minder dan drie maanden, voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een A-rating beschikken, afgegeven door ten minste twee van die ratingbureaus;
+- 2°. voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een A-rating beschikken, afgegeven door ten minste twee van de in onderdeel 1° genoemde ratingbureaus;
 
 - f. de bepaling dat toegelaten instellingen en dochtermaatschappijen slechts middelen uitzetten in waardepapieren die een garantie bevatten dat op de einddatum de inleg of de hoofdsom beschikbaar komt;
 
@@ -460,7 +460,7 @@ Het percentage, bedoeld in [artikel 54, eerste lid, van de wet](https://wetten.o
 
 ##### Artikel 43
 
-De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2015-07-01&g=2015-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2015-07-01&g=2015-07-01) bij deze regeling.
+De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2015-09-25&g=2015-09-25) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2015-09-25&g=2015-09-25) bij deze regeling.
 
 ### Hoofdstuk IV. Overgangs- en slotbepalingen
 
@@ -486,7 +486,7 @@ De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het bes
 
 2. Een toegelaten instelling die op het tijdstip van inwerkingtreding van de in het eerste lid genoemde [beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) belegde in strijd met die beleidsregels stelt een plan van aanpak op om dat beleggen binnen een redelijkerwijs haalbare termijn te beëindigen. De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in de eerste volzin, en de te hanteren termijn voor de in die volzin bedoelde beëindiging.
 
-3. De in het eerste lid genoemde [beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) heeft goedgekeurd.
+3. De in het eerste lid genoemde [beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) heeft goedgekeurd met dien verstande dat in [artikel 5 van de in het eerste lid genoemde beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036199&artikel=5) voor ‘AAminus-rating’ gelezen wordt ‘A-rating’ en dat daarin artikel 5, tweede lid, vervalt.
 
 #### § 2. Slotbepalingen
 
@@ -498,11 +498,11 @@ Deze regeling treedt in werking met ingang van 1 juli 2015.
 
 Deze regeling wordt aangehaald als: Regeling toegelaten instellingen volkshuisvesting 2015.
 
-## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2015-07-01&g=2015-07-01), en [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-07-01&g=2015-07-01), van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 1. bij de [artikelen 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=2&artikel=11&z=2015-09-25&g=2015-09-25), en [22, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-09-25&g=2015-09-25), van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 **Toelichting:**
 
-Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-07-01&g=2015-07-01) van de Regeling toegelaten instellingen volkshuisvesting 2015 (woningtoewijzing in het kader van de DAEB).
+Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in [artikel 22, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015 (woningtoewijzing in het kader van de DAEB).
 
 Schema A. betreft toetsing aan de hand van gegevens van de Belastingdienst.
 
@@ -512,7 +512,7 @@ De inkomenstoets voor de DAEB-toewijzingen dient per 1 juli 2015 te worden toege
 
 De uitkomst van de inkomenstoetsing voor de DAEB bepaalt tot welk toewijzingssegment de toewijzing wordt gerekend: de 80% voor de doelgroep, de 10% voor de middeninkomens of de 10% vrije toewijzingsruimte.
 
-De eisen die gesteld worden aan de over te leggen documentatie zijn neergelegd in het hiervoor genoemde [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-07-01&g=2015-07-01) en de toelichting daarop. Het vaststellen van het huishoudinkomen aan de hand van een IBRI (Inkomenverklaring o.b.v. de Basisregistratie Inkomens) of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna).
+De eisen die gesteld worden aan de over te leggen documentatie zijn neergelegd in het hiervoor genoemde [artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=2&artikel=22&z=2015-09-25&g=2015-09-25) en de toelichting daarop. Het vaststellen van het huishoudinkomen aan de hand van een IBRI (Inkomenverklaring o.b.v. de Basisregistratie Inkomens) of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna).
 
 Ter bepaling van het huishoudinkomen worden de verzamelinkomens uit het jaar 2014 respectievelijk 2013 geïndexeerd met index I1 (=1,0067) resp. index I2 (=1,0199). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2014, respectievelijk 2013.
 
@@ -552,7 +552,7 @@ Uitzonderingen:
 | ↓ | ↓ |
 | Zie voor inkomensgrenzen waaraan het huishoudinkomen moet worden getoetst: de bedragen bij laatste stap van toetsingsschema A. | Zie voor inkomensgrenzen waaraan het huishoudinkomen moet worden getoetst: de bedragen bij laatste stap van toetsingsschema A. |
 
-## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2015-07-01&g=2015-07-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 2. bij [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=3&artikel=14&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### Handboek modelmatig waarderen marktwaarde
 
@@ -1194,7 +1194,7 @@ De waardering op basis van de full versie met de genoemde vrijheidsgraden vereis
 
 (gereserveerd)
 
-## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2015-07-01&g=2015-07-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 5. bij [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1&artikel=19&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### Inhoudsopgave
 
@@ -1258,7 +1258,7 @@ overzicht aantallen huurwoongelegenheden en niet-woongelegenheden op corporatien
 
 ### 3.3.1. Balansprognose passiva (enkelvoudig t.i. (A) of geconsolideerd (B))
 
-## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-07-01&g=2015-07-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 6. bij [art. 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 ### Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
@@ -1272,7 +1272,7 @@ VERKLAREN TE ZIJN OVEREENGEKOMEN ALS VOLGT:
 
 TEN BLIJKE WAARVAN partijen aan dit document uitvoering hebben gegeven op de onderstaande datum welke in werking treedt op de datum genoemd op de eerste pagina van dit document.
 
-## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-07-01&g=2015-07-01) van de Regeling toegelaten instellingen volkshuisvesting 2015
+## Bijlage 7. bij [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=5&paragraaf=2&artikel=43&z=2015-09-25&g=2015-09-25) van de Regeling toegelaten instellingen volkshuisvesting 2015
 
 Financiële derivaten mogen uitsluitend worden aangetrokken onder de in de bijlage genoemde modelovereenkomst. Niet in de bijlage als zodanig opgenomen onderdeel van deze modelovereenkomst is het ISDA Master Agreement 2002. Deze Master Agreement 2002 is een gestandaardiseerd contract opgesteld door de International Swaps and Derivatives Association (ISDA), een organisatie voor handelaren in onderhandse derivaten wereldwijd en gevestigd in New York. De ISDA (en daarmee het Master Agreement 2002) zijn bereikbaar via website www.isda.org.
 
