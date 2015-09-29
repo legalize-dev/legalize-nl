@@ -4,7 +4,7 @@ identifier: "BWBR0033783"
 country: "nl"
 rank: "pbo"
 publication_date: "2023-01-01"
-last_updated: "2015-07-11"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033783"
 soort: "pbo"
@@ -84,7 +84,7 @@ Als verblijfkosten worden vergoed de werkelijk gemaakte kosten voor consumpties,
 
 ##### Artikel 5
 
-1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2015-07-11&g=2015-07-11) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2015-07-11&g=2015-07-11) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
+1. Declaraties voor vergoedingen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=2&z=2015-09-29&g=2015-09-29) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033783&artikel=4&z=2015-09-29&g=2015-09-29) moeten uiterlijk binnen één maand na afloop van het kwartaal waarin deze kosten zijn gemaakt bij het bureau van de NBA worden ingediend.
 
 2. Het bestuur kan verlangen dat aan hem bewijsstukken worden overgelegd waaruit de juistheid van de ingediende declaratie blijkt.
 
