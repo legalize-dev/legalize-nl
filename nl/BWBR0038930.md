@@ -4,7 +4,7 @@ identifier: "BWBR0038930"
 country: "nl"
 rank: "wet"
 publication_date: "2017-04-01"
-last_updated: "2015-09-15"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0038930"
 soort: "wet"
@@ -90,7 +90,17 @@ Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel VI
 
-Dit onderdeel is nog niet inwerking getreden
+Voor de toepassing van de [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672) worden mede aangemerkt als binnenlandse belastingplichtige die is onderworpen aan de vennootschapsbelasting:
+
+- a. voor de periode van 30 september 2015 tot en met 31 december 2015:
+
+- 1°. SNS Holding B.V.;
+
+- 2°. SNS Bank N.V.;
+
+- b. voor de periode van 1 oktober 2015 tot en met 31 december 2015: SRH N.V.;
+
+alsmede lichamen waarin deze rechtspersonen een belang hebben en de lichamen waarvan deze rechtspersonen een bestuurder kunnen benoemen of ontslaan.
 
 ##### Artikel VII
 
