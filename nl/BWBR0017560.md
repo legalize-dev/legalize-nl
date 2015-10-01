@@ -4,7 +4,7 @@ identifier: "BWBR0017560"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-07-01"
-last_updated: "2015-01-01"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0017560"
 soort: "ministeriele-regeling"
@@ -43,25 +43,21 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
-- a. DJI: Dienst Justitiële Inrichtingen van het ministerie van Justitie;
+- a. deelnemer: degene die deelneemt aan het penitentiair programma;
 
-- b. sectordirectie Gevangeniswezen: de sectordirecteur Gevangeniswezen van de DJI of diens plaatsvervanger;
+- b. reclasseringsinstelling: een instelling als bedoeld in [artikel 4 van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=4);
 
-- c. deelnemer: degene die deelneemt aan het penitentiair programma;
+- c. derde-organisatie: een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening aan justitiabelen, niet zijnde een inrichting of een reclasseringsinstelling;
 
-- d. reclasseringsinstelling: een instelling als bedoeld in [artikel 4 van de Reclasseringsregeling 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007120&artikel=4);
+- d. werkgever: het bedrijf waar de deelnemer arbeid verricht;
 
-- e. derde-organisatie: een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening aan justitiabelen, niet zijnde een inrichting of een reclasseringsinstelling;
-
-- f. werkgever: het bedrijf waar de deelnemer arbeid verricht;
-
-- g. uitvoeringsverantwoordelijke instantie: de instantie die verantwoordelijk is voor de uitvoering van een penitentiair programma.
+- e. uitvoeringsverantwoordelijke instantie: de instantie die verantwoordelijk is voor de uitvoering van een penitentiair programma.
 
 ##### Artikel 2
 
-1. De sectordirectie Gevangeniswezen kan een penitentiair programma of een onderdeel daarvan erkennen.
+1. De Minister kan een penitentiair programma of een onderdeel daarvan erkennen.
 
-2. De directeur, een reclasseringsinstelling of een derde-organisatie kan een voordracht voor erkenning van een penitentiair programma voorleggen aan de sectordirectie Gevangeniswezen.
+2. De directeur, een reclasseringsinstelling of een derde-organisatie kan een voordracht voor erkenning van een penitentiair programma voorleggen aan de Minister.
 
 ##### Artikel 3
 
@@ -77,9 +73,9 @@ Voor erkenning kunnen worden voorgedragen:
 
 2. Op de aanvraag tot erkenning wordt binnen drie maanden beslist.
 
-3. De sectordirectie Gevangeniswezen zendt een afschrift van zijn besluit aan de aanvrager. De sectordirectie Gevangeniswezen houdt tevens een lijst bij van erkende penitentiaire programma’s.
+3. De Minister zendt een afschrift van zijn besluit aan de aanvrager. De Minister houdt tevens een lijst bij van erkende penitentiaire programma’s.
 
-4. De erkenning kan door de sectordirectie Gevangeniswezen tussentijds worden ingetrokken indien:
+4. De erkenning kan door de Minister tussentijds worden ingetrokken indien:
 
 - a. voor het erkende standaardprogramma of module geen doelgroep meer bestaat;
 
@@ -91,7 +87,7 @@ Voor erkenning kunnen worden voorgedragen:
 
 5. De directeur van een penitentiaire inrichting, een reclasseringsinstelling of de derde-organisatie dient desgewenst uiterlijk drie maanden voor afloop van de termijn waarvoor de erkenning is gegeven een verzoek tot verlenging in.
 
-6. De sectordirectie Gevangeniswezen kan besluiten de erkenning niet te verlengen indien één of meer omstandigheden zich voordoen als bedoeld in het vierde lid, onder a tot en met d.
+6. De Minister kan besluiten de erkenning niet te verlengen indien één of meer omstandigheden zich voordoen als bedoeld in het vierde lid, onder a tot en met d.
 
 ##### Artikel 5
 
@@ -161,7 +157,7 @@ dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiai
 
 ##### Artikel 7
 
-1. De sectordirectie Gevangeniswezen wijst per hofressort één of meer inrichtingen aan waarbij de deelnemers administratief worden ingeschreven.
+1. De Minister wijst per hofressort één of meer inrichtingen aan waarbij de deelnemers administratief worden ingeschreven.
 
 2. Alleen inrichtingen en reclasseringsinstellingen kunnen aangemerkt worden als uitvoeringsverantwoordelijke instantie.
 
