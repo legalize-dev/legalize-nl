@@ -4,7 +4,7 @@ identifier: "BWBV0003114"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-10-01"
-last_updated: "2005-06-30"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0003114"
 soort: "verdrag"
@@ -48,9 +48,9 @@ Hebben besloten dit Verdrag te sluiten en zijn de volgende bepalingen overeengek
 
 1. Dit Verdrag is in internationale situaties van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt in burgerlijke of handelszaken.
 
-2. Voor de toepassing van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=II&z=2005-06-30&g=2005-06-30) is een situatie internationaal tenzij de partijen in dezelfde Verdragsluitende Staat hun verblijfplaats hebben en de betrekkingen tussen de partijen en alle andere voor het geschil terzake doende elementen, ongeacht de plaats van het aangewezen gerecht, uitsluitend met die Staat verbonden zijn.
+2. Voor de toepassing van [Hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=II&z=2015-10-01&g=2015-10-01) is een situatie internationaal tenzij de partijen in dezelfde Verdragsluitende Staat hun verblijfplaats hebben en de betrekkingen tussen de partijen en alle andere voor het geschil terzake doende elementen, ongeacht de plaats van het aangewezen gerecht, uitsluitend met die Staat verbonden zijn.
 
-3. Voor de toepassing van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&z=2005-06-30&g=2005-06-30) is een situatie internationaal wanneer om erkenning en tenuitvoerlegging van een buitenlandse beslissing wordt verzocht.
+3. Voor de toepassing van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&z=2015-10-01&g=2015-10-01) is een situatie internationaal wanneer om erkenning en tenuitvoerlegging van een buitenlandse beslissing wordt verzocht.
 
 ##### Artikel 2. Uitsluitingen van het toepassingsgebied
 
@@ -176,7 +176,7 @@ Dit Verdrag is niet van toepassing op voorlopige en bewarende maatregelen. Dit V
 
 4. Erkenning of tenuitvoerlegging kan worden opgeschort of geweigerd indien tegen de beslissing in de Staat waarin zij is gewezen, een rechtsmiddel is ingesteld of indien de termijn voor het instellen van een gewoon rechtsmiddel nog niet is verstreken. Een zodanige weigering vormt geen belemmering voor een hernieuwd verzoek om erkenning of tenuitvoerlegging van de beslissing.
 
-5. Dit artikel is eveneens van toepassing op een beslissing van een gerecht van een Verdragsluitende Staat na verwijzing van de zaak door het in die Verdragsluitende Staat aangewezen gerecht, als voorzien in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=II&artikel=5&z=2005-06-30&g=2005-06-30). Wanneer het aangewezen gerecht evenwel de vrijheid had om een zaak naar een ander gerecht te verwijzen, kan de erkenning of de tenuitvoerlegging worden geweigerd ten aanzien van een partij die in de Staat waar de beslissing is gegeven tijdig bezwaar heeft gemaakt tegen de verwijzing.
+5. Dit artikel is eveneens van toepassing op een beslissing van een gerecht van een Verdragsluitende Staat na verwijzing van de zaak door het in die Verdragsluitende Staat aangewezen gerecht, als voorzien in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=II&artikel=5&z=2015-10-01&g=2015-10-01). Wanneer het aangewezen gerecht evenwel de vrijheid had om een zaak naar een ander gerecht te verwijzen, kan de erkenning of de tenuitvoerlegging worden geweigerd ten aanzien van een partij die in de Staat waar de beslissing is gegeven tijdig bezwaar heeft gemaakt tegen de verwijzing.
 
 ##### Artikel 9. Weigering van erkenning of tenuitvoerlegging
 
@@ -202,9 +202,9 @@ Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
 ##### Artikel 10. Voorvragen
 
-1. Wanneer een aangelegenheid die ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=2&z=2005-06-30&g=2005-06-30), of ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2005-06-30&g=2005-06-30) uitgesloten is, als voorvraag aan de orde is gesteld, wordt de uitspraak met betrekking tot die aangelegenheid niet op grond van dit Verdrag erkend of ten uitvoer gelegd.
+1. Wanneer een aangelegenheid die ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=2&z=2015-10-01&g=2015-10-01), of ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) uitgesloten is, als voorvraag aan de orde is gesteld, wordt de uitspraak met betrekking tot die aangelegenheid niet op grond van dit Verdrag erkend of ten uitvoer gelegd.
 
-2. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover die beslissing is gebaseerd op een beslissing over een aangelegenheid die ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=2&z=2005-06-30&g=2005-06-30), is uitgesloten.
+2. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover die beslissing is gebaseerd op een beslissing over een aangelegenheid die ingevolge [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=2&z=2015-10-01&g=2015-10-01), is uitgesloten.
 
 3. In het geval van een uitspraak over de geldigheid van een intellectuele-eigendomsrecht anders dan een auteursrecht of een verwant recht, kan de erkenning of de tenuitvoerlegging ingevolge het voorgaande lid evenwel uitsluitend worden geweigerd of opgeschort indien:
 
@@ -212,7 +212,7 @@ Erkenning of tenuitvoerlegging kan worden geweigerd indien:
 
 - b. in die Staat een procedure inzake de geldigheid van het intellectuele-eigendomsrecht aanhangig is.
 
-4. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover de beslissing is gebaseerd op een uitspraak in een aangelegenheid die ingevolge een door de aangezochte Staat krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2005-06-30&g=2005-06-30) afgelegde verklaring uitgesloten is.
+4. De erkenning of de tenuitvoerlegging van een beslissing kan worden geweigerd indien en voor zover de beslissing is gebaseerd op een uitspraak in een aangelegenheid die ingevolge een door de aangezochte Staat krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) afgelegde verklaring uitgesloten is.
 
 ##### Artikel 11. Schadevergoeding
 
@@ -236,7 +236,7 @@ Gerechtelijke schikkingen die door een in een exclusief forumkeuzebeding aangewe
 
 - d. elk stuk dat benodigd is om aan te tonen dat de beslissing rechtsgevolg heeft of, indien van toepassing, uitvoerbaar is in de Staat waar de beslissing is gegeven;
 
-- e. in het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&artikel=12&z=2005-06-30&g=2005-06-30) bedoelde geval, een schriftelijke verklaring van een gerecht van de Staat waarin de beslissing is gegeven, dat de gerechtelijke schikking of een deel daarvan in die Staat op dezelfde wijze uitvoerbaar is als een beslissing.
+- e. in het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&artikel=12&z=2015-10-01&g=2015-10-01) bedoelde geval, een schriftelijke verklaring van een gerecht van de Staat waarin de beslissing is gegeven, dat de gerechtelijke schikking of een deel daarvan in die Staat op dezelfde wijze uitvoerbaar is als een beslissing.
 
 2. Indien de inhoud van de beslissing het voor het aangezochte gerecht niet mogelijk maakt na te gaan of aan de voorwaarden van dit Hoofdstuk is voldaan, kan dat gerecht elk benodigd stuk verlangen.
 
@@ -268,7 +268,7 @@ Erkenning of tenuitvoerlegging van een scheidbaar deel van een beslissing wordt 
 
 - a. een aangelegenheid waarop dit Verdrag niet van toepassing is; of
 
-- b. een toekenning van schadevergoeding waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&artikel=11&z=2005-06-30&g=2005-06-30) van toepassing zou kunnen zijn.
+- b. een toekenning van schadevergoeding waarop [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=III&artikel=11&z=2015-10-01&g=2015-10-01) van toepassing zou kunnen zijn.
 
 ##### Artikel 18. Geen legalisatie
 
@@ -294,7 +294,7 @@ Een Staat kan verklaren dat zijn gerechten kunnen weigeren een door een gerecht 
 
 ##### Artikel 22. Wederzijdse verklaringen inzake niet-exclusieve forumkeuzebedingen
 
-1. Een Verdragsluitende Staat kan verklaren dat zijn gerechten beslissingen zullen erkennen en ten uitvoer zullen leggen die zijn gegeven door gerechten van andere Verdragsluitende Staten die zijn aangewezen in een door twee of meer partijen gemaakt exclusief forumkeuzebeding dat voldoet aan de vereisten van [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=3&z=2005-06-30&g=2005-06-30), en waarin, met het oog op de kennisneming van geschillen die in verband met een bepaalde rechtsbetrekking zijn gerezen of zouden kunnen rijzen, een of meer gerechten van een of meer Verdragsluitende Staten zijn aangewezen (een niet-exclusief forumkeuzebeding).
+1. Een Verdragsluitende Staat kan verklaren dat zijn gerechten beslissingen zullen erkennen en ten uitvoer zullen leggen die zijn gegeven door gerechten van andere Verdragsluitende Staten die zijn aangewezen in een door twee of meer partijen gemaakt exclusief forumkeuzebeding dat voldoet aan de vereisten van [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=I&artikel=3&z=2015-10-01&g=2015-10-01), en waarin, met het oog op de kennisneming van geschillen die in verband met een bepaalde rechtsbetrekking zijn gerezen of zouden kunnen rijzen, een of meer gerechten van een of meer Verdragsluitende Staten zijn aangewezen (een niet-exclusief forumkeuzebeding).
 
 2. Wanneer om erkenning of tenuitvoerlegging van een in een Verdragsluitende Staat die een dergelijke verklaring heeft afgelegd, gegeven beslissing wordt verzocht in een andere Verdragsluitende Staat die een dergelijke verklaring heeft afgelegd, wordt de beslissing op grond van dit Verdrag erkend en ten uitvoer gelegd, indien:
 
@@ -380,7 +380,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 2. De Regionale Organisatie voor Economische Integratie doet, op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding, de depositaris schriftelijk mededeling van de in dit Verdrag geregelde aangelegenheden ter zake waarvan de bevoegdheid door haar lidstaten aan die organisatie is overgedragen. De organisatie doet de depositaris onverwijld mededeling van wijzigingen van haar bevoegdheid als vermeld in de meeste recente kennisgeving ingevolge dit lid.
 
-3. Ten behoeve van de inwerkingtreding van dit Verdrag telt een akte die wordt nedergelegd door een Regionale Organisatie voor Economische Integratie niet mee, tenzij de Regionale Organisatie voor Economische Integratie in overeenstemming met [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2005-06-30&g=2005-06-30) verklaart dat haar lidstaten geen Partij bij dit Verdrag zullen zijn.
+3. Ten behoeve van de inwerkingtreding van dit Verdrag telt een akte die wordt nedergelegd door een Regionale Organisatie voor Economische Integratie niet mee, tenzij de Regionale Organisatie voor Economische Integratie in overeenstemming met [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2015-10-01&g=2015-10-01) verklaart dat haar lidstaten geen Partij bij dit Verdrag zullen zijn.
 
 4. Alle verwijzingen naar een „Verdragsluitende Staat” of een „Staat” in dit Verdrag zijn in voorkomend geval eveneens van toepassing op een Regionale Organisatie voor Economische Integratie die Partij bij het Verdrag is.
 
@@ -392,17 +392,17 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ##### Artikel 31. Inwerkingtreding
 
-1. Dit Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2005-06-30&g=2005-06-30).
+1. Dit Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2015-10-01&g=2015-10-01).
 
 2. Vervolgens treedt dit Verdrag in werking:
 
 - a. voor iedere Staat of Regionale Organisatie voor Economische Integratie die het Verdrag daarna bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
 
-- b. voor een territoriale eenheid waartoe dit Verdrag overeenkomstig [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2005-06-30&g=2005-06-30), is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de verklaring bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2005-06-30&g=2005-06-30).
+- b. voor een territoriale eenheid waartoe dit Verdrag overeenkomstig [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2015-10-01&g=2015-10-01), is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving van de verklaring bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2015-10-01&g=2015-10-01).
 
 ##### Artikel 32. Verklaringen
 
-1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2005-06-30&g=2005-06-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2005-06-30&g=2005-06-30), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2005-06-30&g=2005-06-30), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=22&z=2005-06-30&g=2005-06-30) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2005-06-30&g=2005-06-30) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
+1. De in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2015-10-01&g=2015-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2015-10-01&g=2015-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=22&z=2015-10-01&g=2015-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2015-10-01&g=2015-10-01) bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
 
 2. Van verklaringen, wijzigingen en intrekkingen wordt aan de depositaris mededeling gedaan.
 
@@ -410,7 +410,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 4. Een op een later tijdstip afgelegde verklaring, en elke wijziging of intrekking van een verklaring, worden van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-5. Een verklaring ingevolge de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2005-06-30&g=2005-06-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2005-06-30&g=2005-06-30), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2005-06-30&g=2005-06-30) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2005-06-30&g=2005-06-30) is niet van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt voordat de verklaring van kracht wordt.
+5. Een verklaring ingevolge de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2015-10-01&g=2015-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2015-10-01&g=2015-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2015-10-01&g=2015-10-01) is niet van toepassing op exclusieve forumkeuzebedingen die zijn gemaakt voordat de verklaring van kracht wordt.
 
 ##### Artikel 33. Opzegging
 
@@ -420,15 +420,15 @@ De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrech
 
 ##### Artikel 34. Kennisgevingen door de depositaris
 
-De depositaris geeft de Leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere Staten en Regionale Organisaties voor Economische Integratie die in overeenstemming met de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2005-06-30&g=2005-06-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2005-06-30&g=2005-06-30) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2005-06-30&g=2005-06-30) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, kennis van het volgende:
+De depositaris geeft de Leden van de Haagse Conferentie voor Internationaal Privaatrecht en andere Staten en Regionale Organisaties voor Economische Integratie die in overeenstemming met de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2015-10-01&g=2015-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2015-10-01&g=2015-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2015-10-01&g=2015-10-01) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, kennis van het volgende:
 
-- a. de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2005-06-30&g=2005-06-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2005-06-30&g=2005-06-30) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2005-06-30&g=2005-06-30);
+- a. de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen bedoeld in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=27&z=2015-10-01&g=2015-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2015-10-01&g=2015-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2015-10-01&g=2015-10-01);
 
-- b. de datum waarop dit Verdrag in werking treedt overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=31&z=2005-06-30&g=2005-06-30);
+- b. de datum waarop dit Verdrag in werking treedt overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=31&z=2015-10-01&g=2015-10-01);
 
-- c. de kennisgevingen, verklaringen, wijzigingen en intrekkingen van verklaringen bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2005-06-30&g=2005-06-30), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2005-06-30&g=2005-06-30), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2005-06-30&g=2005-06-30), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=22&z=2005-06-30&g=2005-06-30), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2005-06-30&g=2005-06-30), [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2005-06-30&g=2005-06-30), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2005-06-30&g=2005-06-30) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2005-06-30&g=2005-06-30);
+- c. de kennisgevingen, verklaringen, wijzigingen en intrekkingen van verklaringen bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=19&z=2015-10-01&g=2015-10-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=20&z=2015-10-01&g=2015-10-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=21&z=2015-10-01&g=2015-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=22&z=2015-10-01&g=2015-10-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=IV&artikel=26&z=2015-10-01&g=2015-10-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=28&z=2015-10-01&g=2015-10-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=29&z=2015-10-01&g=2015-10-01) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=30&z=2015-10-01&g=2015-10-01);
 
-- d. de opzeggingen bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=33&z=2005-06-30&g=2005-06-30).
+- d. de opzeggingen bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0003114&hoofdstuk=V&artikel=33&z=2015-10-01&g=2015-10-01).
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 
