@@ -4,7 +4,7 @@ identifier: "BWBR0012739"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2011-07-17"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012739"
 soort: "ministeriele-regeling"
@@ -44,9 +44,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **bijzondere voorvallen:** de voorvallen, genoemd in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&artikel=2&z=2015-10-01&g=2015-10-01), van deze regeling;
+
+- b. **ontvluchting:** onttrekking van een jeugdige aan het op hem uitgeoefende toezicht vanuit een gesloten gebouw, vanaf een beveiligd terrein, tijdens transport of tijdens begeleid verblijf buiten de inrichting;
+
+- c. **DJI:** Dienst Justitiële Inrichtingen van het ministerie van Veiligheid en Justitie;
+
+- d. **divisiedirecteur ForZo/JJI:** de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI.
+
 ##### Artikel 2
 
-1. Bijzondere voorvallen die onmiddellijk door de directeur van de inrichting telefonisch en schriftelijk per fax of elektronische post aan de Sectordirectie Justitiële Jeugdinrichtingen worden gemeld, zijn de volgende:
+1. Bijzondere voorvallen die onmiddellijk door de directeur van de inrichting telefonisch en schriftelijk per elektronische post aan de divisiedirecteur ForZo/JJI worden gemeld, zijn de volgende:
 
 - a. ontvluchting van een jeugdige;
 
@@ -60,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - f. elk ander incident in of buiten de inrichting van ernstige, politiek gevoelige of publiciteitsgevoelige aard.
 
-2. Bijzondere voorvallen die uiterlijk de eerstvolgende werkdag schriftelijk per fax of elektronische post aan de Sectordirectie Justitiële Jeugdinrichtingen worden gemeld zijn de volgende:
+2. Bijzondere voorvallen die uiterlijk de eerstvolgende werkdag schriftelijk per elektronische post aan de divisiedirecteur ForZo/JJI worden gemeld zijn de volgende:
 
 - a. onttrekking aan, poging tot, of voorbereiding van onttrekking aan, het op hem uitgeoefende toezicht door een jeugdige uit een beperkt beveiligde inrichting of afdeling of vanaf een niet-beveiligd terrein;
 
@@ -84,9 +92,9 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 3
 
-1. Bij de melding bijzondere voorvallen wordt gebruik gemaakt van het formulier melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=1&z=2011-07-17&g=2011-07-17) bij deze regeling is gevoegd.
+1. Bij de melding bijzondere voorvallen wordt gebruik gemaakt van het formulier melding bijzonder voorval dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=1&z=2015-10-01&g=2015-10-01) bij deze regeling is gevoegd.
 
-2. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het formulier afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=2&z=2011-07-17&g=2011-07-17) bij deze regeling is gevoegd.
+2. De afloop van bijzonder voorvallen wordt schriftelijk gemeld met gebruikmaking van het formulier afhandeling bijzonder voorval dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012739&bijlage=2&z=2015-10-01&g=2015-10-01) bij deze regeling is gevoegd.
 
 ##### Artikel 4
 
