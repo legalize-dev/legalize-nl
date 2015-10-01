@@ -4,7 +4,7 @@ identifier: "BWBV0005135"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-10-01"
-last_updated: "2010-12-06"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0005135"
 soort: "verdrag"
@@ -74,19 +74,19 @@ Zijn het volgende overeengekomen:
 
 - b. „Toepassingsverordening”: [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels;
 
-- c. „bevoegde autoriteit”: de Ministers die, ieder wat hem betreft, belast zijn met de uitvoering van de wetgeving bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2010-12-06&g=2010-12-06) van dit Verdrag;
+- c. „bevoegde autoriteit”: de Ministers die, ieder wat hem betreft, belast zijn met de uitvoering van de wetgeving bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag;
 
 - d. „bevoegd orgaan” en „verbindingsorgaan”: de organen zoals gedefinieerd in artikel 1 sub q van de Verordening en artikel 1, tweede lid, sub b, van de Toepassingsverordening en die vermeld worden in de gegevensbank waarnaar wordt verwezen in artikel 88, vierde lid, van de Toepassingsverordening;
 
-- e. „gegevens”: alle gegevens die noodzakelijk zijn voor de uitvoering van de wetten en de vaststelling van het recht op de regelingen en voorzieningen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2010-12-06&g=2010-12-06) van dit Verdrag betreffende de burgerlijke staat, het inkomen en vermogen, woon- en verblijfplaats, sociaal verzekeringsnummer en alle overige gegevens waarvan de toekenning van uitkeringen afhangt.
+- e. „gegevens”: alle gegevens die noodzakelijk zijn voor de uitvoering van de wetten en de vaststelling van het recht op de regelingen en voorzieningen genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag betreffende de burgerlijke staat, het inkomen en vermogen, woon- en verblijfplaats, sociaal verzekeringsnummer en alle overige gegevens waarvan de toekenning van uitkeringen afhangt.
 
 2. Voor zover in dit Verdrag niet anders is bepaald hebben de gebruikte termen de betekenis zoals daaraan is toegekend in het eerste lid van dit artikel. Andere termen en uitdrukkingen die in dit Verdrag worden gebruikt of termen en uitdrukkingen die in dit Verdrag niet worden gedefinieerd, hebben de betekenis die daaraan respectievelijk in de wetgeving die wordt toegepast, wordt toegekend.
 
-3. Onverminderd het bepaalde in het eerste lid, sub d, van dit artikel worden voor de toepassing van de Nederlandse wetgeving inzake sociale bijstand en de Belgische wettelijke, niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend de bevoegde organen en verbindingsorganen aangeduid in de administratieve schikking zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag.
+3. Onverminderd het bepaalde in het eerste lid, sub d, van dit artikel worden voor de toepassing van de Nederlandse wetgeving inzake sociale bijstand en de Belgische wettelijke, niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend de bevoegde organen en verbindingsorganen aangeduid in de administratieve schikking zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
 ##### Artikel 2. Personele werkingssfeer
 
-Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele werkingssfeer van de Verordening, alsook op de personen die een uitkering aanvragen of ontvangen, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2010-12-06&g=2010-12-06), van dit Verdrag.
+Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele werkingssfeer van de Verordening, alsook op de personen die een uitkering aanvragen of ontvangen, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01), van dit Verdrag.
 
 ##### Artikel 3. Materiële werkingssfeer
 
@@ -94,7 +94,7 @@ Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele 
 
 2. Het is tevens van toepassing op de Nederlandse wetgeving inzake sociale bijstand en op de Belgische wettelijke, niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend.
 
-3. De in het tweede lid van dit artikel bedoelde uitkeringen worden vermeld in een bijlage bij de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag. Deze bijlage wordt voor zover nodig bijgewerkt in gemeenschappelijk overleg tussen de bevoegde autoriteiten.
+3. De in het tweede lid van dit artikel bedoelde uitkeringen worden vermeld in een bijlage bij de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag. Deze bijlage wordt voor zover nodig bijgewerkt in gemeenschappelijk overleg tussen de bevoegde autoriteiten.
 
 ##### Artikel 4. Territoriale werkingssfeer
 
@@ -112,7 +112,7 @@ De bevoegde autoriteiten informeren elkaar rechtstreeks en regelmatig over de fu
 
 ##### Artikel 6. Uitwisseling van statistische gegevens
 
-De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit, zoals is overeengekomen in de administratieve schikking bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag.
+De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit, zoals is overeengekomen in de administratieve schikking bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
 ##### Artikel 7. Werking van de wederzijdse administratieve bijstand
 
@@ -120,29 +120,29 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 2. Onverminderd het bepaalde in het eerste lid van dit artikel brengt het bevoegde orgaan van één van de Verdragsluitende Partijen, zonder voorafgaand verzoek en voor zover mogelijk, het bevoegde orgaan van de andere Verdragsluitende Partij op de hoogte van wijzigingen in de gegevens die van belang zijn voor de behandeling van dossiers van individuele gevallen waarmee laatstgenoemd orgaan belast is.
 
-3. Het bevoegde orgaan dat een informatieaanvraag ontvangt, geeft daaraan gevolg binnen de termijn voorzien in de samenwerkingsovereenkomsten, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2010-12-06&g=2010-12-06) van dit Verdrag. Deze termijn mag drie maanden niet overschrijden.
+3. Het bevoegde orgaan dat een informatieaanvraag ontvangt, geeft daaraan gevolg binnen de termijn voorzien in de samenwerkingsovereenkomsten, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2015-10-01&g=2015-10-01) van dit Verdrag. Deze termijn mag drie maanden niet overschrijden.
 
 4. De wederzijdse administratieve bijstand is kosteloos. De bevoegde organen kunnen echter overeenkomen dat bepaalde kosten worden vergoed.
 
 ##### Artikel 8. Bescherming van gegevens
 
-1. Met het oog op de toepassing van dit Verdrag verstrekken de bevoegde organen van beide Verdragsluitende Partijen gegevens, zoals bedoeld in [artikel 1, eerste lid, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=1&z=2010-12-06&g=2010-12-06), van dit Verdrag, met inachtneming van de mogelijkheden die in de respectievelijke wetgevingen voorzien zijn. Het betreft de gegevens die nodig zijn voor de terug- en invordering van de aan het bevoegde orgaan van een van de Verdragsluitende Partijen verschuldigde bedragen, voor de vastlegging van het bedrag van de verschuldigde bijdragen of heffingen, en voor de aanspraak op uitkeringen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2010-12-06&g=2010-12-06) van dit Verdrag.
+1. Met het oog op de toepassing van dit Verdrag verstrekken de bevoegde organen van beide Verdragsluitende Partijen gegevens, zoals bedoeld in [artikel 1, eerste lid, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=1&z=2015-10-01&g=2015-10-01), van dit Verdrag, met inachtneming van de mogelijkheden die in de respectievelijke wetgevingen voorzien zijn. Het betreft de gegevens die nodig zijn voor de terug- en invordering van de aan het bevoegde orgaan van een van de Verdragsluitende Partijen verschuldigde bedragen, voor de vastlegging van het bedrag van de verschuldigde bijdragen of heffingen, en voor de aanspraak op uitkeringen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
 2. Het bewaren, verwerken of verspreiden van gegevens door het bevoegde orgaan van de Verdragsluitende Partij waaraan deze gegevens worden verstrekt, is geregeld in de wetgeving betreffende de bescherming van de gegevens van deze Verdragsluitende Partij.
 
-3. Deze gegevens worden uitsluitend gebruikt voor de toepassing van de respectievelijke wetgevingen van de Verdragsluitende Partijen, met name voor de regels betreffende het bepalen van de toepasbare wetgeving en voor de regels betreffende het verifiëren, voor zover nodig, van het recht van de betrokken personen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2010-12-06&g=2010-12-06) van dit Verdrag bedoelde uitkeringen.
+3. Deze gegevens worden uitsluitend gebruikt voor de toepassing van de respectievelijke wetgevingen van de Verdragsluitende Partijen, met name voor de regels betreffende het bepalen van de toepasbare wetgeving en voor de regels betreffende het verifiëren, voor zover nodig, van het recht van de betrokken personen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag bedoelde uitkeringen.
 
 4. Voor de verstrekte inlichtingen en documenten geldt de regeling voor de bescherming van gegevens van toepassing op het grondgebied van iedere Verdragsluitende Partij, krachtens de nationale, internationale en communautaire normen en in het bijzonder [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
 
 ##### Artikel 9. Wijze van overdracht en in verband brengen van bestanden
 
-1. Voor iedere in het kader van dit artikel uitgevoerde handeling worden de principes op het gebied van noodzakelijkheid, proportionaliteit en de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=II&artikel=8&z=2010-12-06&g=2010-12-06) van dit Verdrag nageleefd. De consultatie van de bestanden door het bevoegde orgaan van een Verdragsluitende Partij moet, in voorkomend geval, onderworpen worden aan het systeem van voorafgaande machtiging.
+1. Voor iedere in het kader van dit artikel uitgevoerde handeling worden de principes op het gebied van noodzakelijkheid, proportionaliteit en de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=II&artikel=8&z=2015-10-01&g=2015-10-01) van dit Verdrag nageleefd. De consultatie van de bestanden door het bevoegde orgaan van een Verdragsluitende Partij moet, in voorkomend geval, onderworpen worden aan het systeem van voorafgaande machtiging.
 
 2. Het bevoegde orgaan van een Verdragsluitende Partij kan een bevoegd orgaan van de andere Verdragsluitende Partij, of iedere andere door de laatste aangeduide instelling, verzoeken haar bestanden te consulteren of over te dragen via elektronische weg om ze te doorzoeken, te vergelijken, te gebruiken, te verzamelen en te integreren in een automatisch of halfautomatisch proces.
 
 3. De aanvraag van het bevoegde orgaan bedoeld in het tweede lid van dit artikel heeft tot doel de bestrijding van het risico op fraude, misbruik en onjuistheden vast te stellen bij het bepalen van de toepasselijke wetgeving, de vaststelling van verschuldigde bijdragen en de beoordeling van het recht op uitkering. De aanvraag heeft betrekking op het controleren en verifiëren van de gegevens.
 
-4. Het bevoegde orgaan waaraan de aanvraag bedoeld in het tweede lid van dit artikel wordt gericht, bezorgt de gevraagde bestanden op de datum of volgens de periodiciteit die de bevoegde organen zijn overeengekomen in de samenwerkingsovereenkomsten als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2010-12-06&g=2010-12-06) van dit Verdrag.
+4. Het bevoegde orgaan waaraan de aanvraag bedoeld in het tweede lid van dit artikel wordt gericht, bezorgt de gevraagde bestanden op de datum of volgens de periodiciteit die de bevoegde organen zijn overeengekomen in de samenwerkingsovereenkomsten als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
 ## TITEL III. SAMENWERKING BETREFFENDE DE UITKERINGEN
 
@@ -168,7 +168,7 @@ Op basis van de in dit Verdrag vermelde inlichtingen en controles, kan een bevoe
 
 ##### Artikel 12. Procedure voor invordering en terugvordering
 
-De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toepassingsverordening door in de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag een procedure uit te werken voor de invordering van bijdragen en heffingen en de terugvordering van niet verschuldigde bedragen.
+De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toepassingsverordening door in de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag een procedure uit te werken voor de invordering van bijdragen en heffingen en de terugvordering van niet verschuldigde bedragen.
 
 ## TITEL V. SAMENWERKING BETREFFENDE DE CONTROLES
 
@@ -182,7 +182,7 @@ De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ond
 
 2. De vertegenwoordigers van bevoegde organen of verbindingsorganen van één van de Verdragsluitende Partijen nemen enkel als waarnemer deel aan de op het grondgebied van de andere Verdragsluitende Partij uitgevoerde controles en moeten steeds in staat zijn hun hoedanigheid te verantwoorden.
 
-3. De periodiciteit van deze controles, het benodigde aantal vertegenwoordigers voor de goede uitvoering van de controles alsook de nadere regels voor de evaluatie ervan worden in de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2010-12-06&g=2010-12-06) van dit Verdrag bedoelde samenwerkingsovereenkomsten opgenomen.
+3. De periodiciteit van deze controles, het benodigde aantal vertegenwoordigers voor de goede uitvoering van de controles alsook de nadere regels voor de evaluatie ervan worden in de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2015-10-01&g=2015-10-01) van dit Verdrag bedoelde samenwerkingsovereenkomsten opgenomen.
 
 ##### Artikel 15. Controle van de detacheringsvoorwaarden
 
@@ -198,7 +198,7 @@ De bevoegde autoriteiten sluiten een administratieve schikking om de nadere rege
 
 ##### Artikel 17. Samenwerkingsovereenkomsten
 
-De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen door de wet toegekende bevoegdheden, samenwerkingsovereenkomsten sluiten. Deze samenwerkingsovereenkomsten hebben betrekking op de in dit Verdrag bedoelde aangelegenheden, met uitsluiting van de aangelegenheden die geregeld zijn in de administratieve schikking, te sluiten op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag.
+De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen door de wet toegekende bevoegdheden, samenwerkingsovereenkomsten sluiten. Deze samenwerkingsovereenkomsten hebben betrekking op de in dit Verdrag bedoelde aangelegenheden, met uitsluiting van de aangelegenheden die geregeld zijn in de administratieve schikking, te sluiten op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
 ##### Artikel 18. De Gemengde Commissie en geschillenregeling
 
@@ -214,7 +214,7 @@ De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen d
 
 - c. één of meerdere door de Minister van Sociale Zaken en Werkgelegenheid aangewezen vertegenwoordigers.
 
-2. De administratieve schikking, zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2010-12-06&g=2010-12-06) van dit Verdrag, bepaalt de nadere regels voor de organisatie en werking van de Gemengde Commissie.
+2. De administratieve schikking, zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag, bepaalt de nadere regels voor de organisatie en werking van de Gemengde Commissie.
 
 ## TITEL VII. OVERGANGS- EN SLOTBEPALINGEN
 
