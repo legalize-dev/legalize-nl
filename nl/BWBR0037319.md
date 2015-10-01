@@ -4,7 +4,7 @@ identifier: "BWBR0037319"
 country: "nl"
 rank: "wet"
 publication_date: "2016-07-01"
-last_updated: "2015-07-01"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037319"
 soort: "wet"
@@ -39,7 +39,7 @@ entry_into_force: "2015-12-11"
 
 ##### Artikel I. [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
-Dit onderdeel is nog niet inwerking getreden
+Wijzigt de Algemene Kinderbijslagwet.
 
 ##### Artikel II. [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795)
 
