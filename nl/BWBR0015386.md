@@ -4,7 +4,7 @@ identifier: "BWBR0015386"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-01"
-last_updated: "2015-07-01"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0015386"
 soort: "ministeriele-regeling"
@@ -62,25 +62,25 @@ In deze regeling wordt verstaan onder:
 
 ##### Artikel 2
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2015-07-01&g=2015-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 oktober 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=I&z=2015-10-01&g=2015-10-01).
 
 ##### Artikel 3
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2015-07-01&g=2015-07-01).
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=1) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=II&z=2015-10-01&g=2015-10-01).
 
 ##### Artikel 4
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2015-07-01&g=2015-07-01).
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=235) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=III&z=2015-10-01&g=2015-10-01).
 
 ##### Artikel 5
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2015-07-01&g=2015-07-01).
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=236) zijn voor het tijdvak 1 juli 2015 tot en met 30 juni 2016 de bedragen, genoemd in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=IV&z=2015-10-01&g=2015-10-01).
 
 #### § 3. Maximale huurverhogingspercentages
 
 ##### Artikel 6
 
-1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2015-07-01&g=2015-07-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2015-07-01&g=2015-07-01) vervatte schema’s.
+1. De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de [bijlagen V](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=V&z=2015-10-01&g=2015-10-01) en [VI van deze regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VI&z=2015-10-01&g=2015-10-01) vervatte schema’s.
 
 2. Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=1), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.
 
@@ -150,7 +150,7 @@ De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 va
 
 ##### Artikel 12
 
-Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2015-07-01&g=2015-07-01).
+Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&paragraaf=7&artikel=11&z=2015-10-01&g=2015-10-01).
 
 #### § 5. Openbaar register
 
@@ -164,7 +164,7 @@ Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk 
 
 ##### Artikel 14
 
-Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2015-07-01&g=2015-07-01).
+Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=260), is het formulier als opgenomen in [bijlage VII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VII&z=2015-10-01&g=2015-10-01).
 
 #### § 9. Slotbepalingen
 
@@ -836,51 +836,53 @@ De maximale huurprijsgrens van woonwagens met een kwaliteit van minder dan 40 pu
 
 ## Bijlage I
 
-| punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag | punten | bedrag |
+| Punten | bedrag | Punten | bedrag | Punten | bedrag | Punten | bedrag | Punten | bedrag |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40 | 194,69 | 82 | 399,99 | 124 | 624,37 | 166 | 848,72 | 208 | 1.073,08 |
-| 41 | 199,56 | 83 | 405,34 | 125 | 629,71 | 167 | 854,06 | 209 | 1.078,42 |
-| 42 | 204,42 | 84 | 410,66 | 126 | 635,04 | 168 | 859,39 | 210 | 1.083,79 |
-| 43 | 209,29 | 85 | 416,02 | 127 | 640,38 | 169 | 864,77 | 211 | 1.089,10 |
-| 44 | 214,14 | 86 | 421,37 | 128 | 645,76 | 170 | 870,09 | 212 | 1.094,44 |
-| 45 | 219,00 | 87 | 426,70 | 129 | 651,06 | 171 | 875,42 | 213 | 1.099,79 |
-| 46 | 223,89 | 88 | 432,04 | 130 | 656,42 | 172 | 880,76 | 214 | 1.105,13 |
-| 47 | 228,75 | 89 | 437,38 | 131 | 661,75 | 173 | 886,12 | 215 | 1.110,47 |
-| 48 | 233,63 | 90 | 442,74 | 132 | 667,09 | 174 | 891,44 | 216 | 1.115,82 |
-| 49 | 238,49 | 91 | 448,07 | 133 | 672,44 | 175 | 896,79 | 217 | 1.121,16 |
-| 50 | 243,35 | 92 | 453,40 | 134 | 677,77 | 176 | 902,14 | 218 | 1.126,49 |
-| 51 | 248,19 | 93 | 458,76 | 135 | 683,13 | 177 | 907,47 | 219 | 1.131,84 |
-| 52 | 253,09 | 94 | 464,09 | 136 | 688,45 | 178 | 912,83 | 220 | 1.137,20 |
-| 53 | 257,94 | 95 | 469,43 | 137 | 693,81 | 179 | 918,17 | 221 | 1.142,51 |
-| 54 | 262,81 | 96 | 474,78 | 138 | 699,16 | 180 | 923,48 | 222 | 1.147,86 |
-| 55 | 267,68 | 97 | 480,13 | 139 | 704,48 | 181 | 928,85 | 223 | 1.153,21 |
-| 56 | 272,56 | 98 | 485,46 | 140 | 709,83 | 182 | 934,18 | 224 | 1.158,55 |
-| 57 | 277,38 | 99 | 490,82 | 141 | 715,19 | 183 | 939,53 | 225 | 1.163,88 |
-| 58 | 282,26 | 100 | 496,15 | 142 | 720,49 | 184 | 944,85 | 226 | 1.169,24 |
-| 59 | 287,15 | 101 | 501,48 | 143 | 725,84 | 185 | 950,22 | 227 | 1.174,58 |
-| 60 | 292,02 | 102 | 506,82 | 144 | 731,20 | 186 | 955,57 | 228 | 1.179,92 |
-| 61 | 296,85 | 103 | 512,18 | 145 | 736,55 | 187 | 960,90 | 229 | 1.185,27 |
-| 62 | 301,74 | 104 | 517,52 | 146 | 741,87 | 188 | 966,25 | 230 | 1.190,60 |
-| 63 | 306,60 | 105 | 522,84 | 147 | 747,23 | 189 | 971,59 | 231 | 1.195,92 |
-| 64 | 311,46 | 106 | 528,21 | 148 | 752,56 | 190 | 976,93 | 232 | 1.201,30 |
-| 65 | 316,33 | 107 | 533,55 | 149 | 757,92 | 191 | 982,28 | 233 | 1.206,63 |
-| 66 | 321,20 | 108 | 538,87 | 150 | 763,24 | 192 | 987,60 | 234 | 1.211,96 |
-| 67 | 326,07 | 109 | 544,23 | 151 | 768,58 | 193 | 992,95 | 235 | 1.217,31 |
-| 68 | 330,93 | 110 | 549,57 | 152 | 773,93 | 194 | 998,31 | 236 | 1.222,66 |
-| 69 | 335,78 | 111 | 554,91 | 153 | 779,27 | 195 | 1.003,64 | 237 | 1.228,00 |
-| 70 | 340,65 | 112 | 560,25 | 154 | 784,61 | 196 | 1.008,96 | 238 | 1.233,33 |
-| 71 | 345,51 | 113 | 565,58 | 155 | 789,95 | 197 | 1.014,31 | 239 | 1.238,69 |
-| 72 | 350,39 | 114 | 570,95 | 156 | 795,29 | 198 | 1.019,67 | 240 | 1.244,02 |
-| 73 | 355,24 | 115 | 576,28 | 157 | 800,66 | 199 | 1.025,00 | 241 | 1.249,36 |
-| 74 | 360,12 | 116 | 581,62 | 158 | 805,96 | 200 | 1.030,35 | 242 | 1.254,70 |
-| 75 | 364,99 | 117 | 586,96 | 159 | 811,34 | 201 | 1.035,68 | 243 | 1.260,04 |
-| 76 | 369,86 | 118 | 592,30 | 160 | 816,66 | 202 | 1.041,03 | 244 | 1.265,39 |
-| 77 | 374,70 | 119 | 597,64 | 161 | 822,00 | 203 | 1.046,37 | 245 | 1.270,74 |
-| 78 | 379,59 | 120 | 602,99 | 162 | 827,36 | 204 | 1.051,71 | 246 | 1.276,07 |
-| 79 | 384,45 | 121 | 608,33 | 163 | 832,68 | 205 | 1.057,05 | 247 | 1.281,39 |
-| 80 | 389,33 | 122 | 613,68 | 164 | 838,02 | 206 | 1.062,39 | 248 | 1.286,77 |
-| 81 | 394,64 | 123 | 619,01 | 165 | 843,37 | 207 | 1.067,76 | 249 | 1.292,10 |
-|   |   |   |   |   |   |   |   | 250 | 1.297,43 |
+| 40 | 187,30 | 82 | 384,79 | 124 | 600,65 | 166 | 816,47 | 208 | 1032,31 |
+| 41 | 191,98 | 83 | 389,94 | 125 | 605,79 | 167 | 821,61 | 209 | 1037,44 |
+| 42 | 196,66 | 84 | 395,06 | 126 | 610,91 | 168 | 826,74 | 210 | 1042,61 |
+| 43 | 201,34 | 85 | 400,22 | 127 | 616,05 | 169 | 831,91 | 211 | 1047,72 |
+| 44 | 206,01 | 86 | 405,36 | 128 | 621,23 | 170 | 837,03 | 212 | 1052,86 |
+| 45 | 210,68 | 87 | 410,49 | 129 | 626,32 | 171 | 842,16 | 213 | 1058,00 |
+| 46 | 215,39 | 88 | 415,63 | 130 | 631,48 | 172 | 847,30 | 214 | 1063,14 |
+| 47 | 220,06 | 89 | 420,76 | 131 | 636,61 | 173 | 852,45 | 215 | 1068,28 |
+| 48 | 224,76 | 90 | 425,92 | 132 | 641,74 | 174 | 857,57 | 216 | 1073,42 |
+| 49 | 229,43 | 91 | 431,05 | 133 | 646,89 | 175 | 862,72 | 217 | 1078,56 |
+| 50 | 234,11 | 92 | 436,17 | 134 | 652,02 | 176 | 867,86 | 218 | 1083,69 |
+| 51 | 238,76 | 93 | 441,33 | 135 | 657,18 | 177 | 872,99 | 219 | 1088,83 |
+| 52 | 243,48 | 94 | 446,46 | 136 | 662,29 | 178 | 878,15 | 220 | 1093,99 |
+| 53 | 248,14 | 95 | 451,60 | 137 | 667,45 | 179 | 883,28 | 221 | 1099,10 |
+| 54 | 252,83 | 96 | 456,74 | 138 | 672,60 | 180 | 888,39 | 222 | 1104,25 |
+| 55 | 257,51 | 97 | 461,89 | 139 | 677,71 | 181 | 893,56 | 223 | 1109,39 |
+| 56 | 262,21 | 98 | 467,02 | 140 | 682,86 | 182 | 898,69 | 224 | 1114,53 |
+| 57 | 266,84 | 99 | 472,17 | 141 | 688,02 | 183 | 903,83 | 225 | 1119,66 |
+| 58 | 271,54 | 100 | 477,30 | 142 | 693,12 | 184 | 908,95 | 226 | 1124,81 |
+| 59 | 276,24 | 101 | 482,43 | 143 | 698,26 | 185 | 914,12 | 227 | 1129,95 |
+| 60 | 280,93 | 102 | 487,56 | 144 | 703,42 | 186 | 919,26 | 228 | 1135,09 |
+| 61 | 285,57 | 103 | 492,72 | 145 | 708,57 | 187 | 924,39 | 229 | 1140,23 |
+| 62 | 290,28 | 104 | 497,86 | 146 | 713,68 | 188 | 929,54 | 230 | 1145,36 |
+| 63 | 294,95 | 105 | 502,98 | 147 | 718,84 | 189 | 934,67 | 231 | 1150,48 |
+| 64 | 299,63 | 106 | 508,14 | 148 | 723,97 | 190 | 939,81 | 232 | 1155,65 |
+| 65 | 304,31 | 107 | 513,28 | 149 | 729,12 | 191 | 944,96 | 233 | 1160,78 |
+| 66 | 309,00 | 108 | 518,40 | 150 | 734,24 | 192 | 950,08 | 234 | 1165,91 |
+| 67 | 313,68 | 109 | 523,55 | 151 | 739,38 | 193 | 955,22 | 235 | 1171,06 |
+| 68 | 318,36 | 110 | 528,69 | 152 | 744,52 | 194 | 960,38 | 236 | 1176,20 |
+| 69 | 323,02 | 111 | 533,83 | 153 | 749,66 | 195 | 965,51 | 237 | 1181,34 |
+| 70 | 327,71 | 112 | 538,96 | 154 | 754,80 | 196 | 970,62 | 238 | 1186,47 |
+| 71 | 332,38 | 113 | 544,09 | 155 | 759,94 | 197 | 975,77 | 239 | 1191,62 |
+| 72 | 337,08 | 114 | 549,26 | 156 | 765,07 | 198 | 980,93 | 240 | 1196,75 |
+| 73 | 341,74 | 115 | 554,39 | 157 | 770,24 | 199 | 986,05 | 241 | 1201,89 |
+| 74 | 346,44 | 116 | 559,52 | 158 | 775,34 | 200 | 991,20 | 242 | 1207,03 |
+| 75 | 351,12 | 117 | 564,66 | 159 | 780,51 | 201 | 996,33 | 243 | 1212,16 |
+| 76 | 355,81 | 118 | 569,80 | 160 | 785,63 | 202 | 1001,47 | 244 | 1217,31 |
+| 77 | 360,47 | 119 | 574,93 | 161 | 790,77 | 203 | 1006,61 | 245 | 1222,46 |
+| 78 | 365,17 | 120 | 580,08 | 162 | 795,92 | 204 | 1011,75 | 246 | 1227,58 |
+| 79 | 369,84 | 121 | 585,22 | 163 | 801,04 | 205 | 1016,89 | 247 | 1232,70 |
+| 80 | 374,54 | 122 | 590,36 | 164 | 806,18 | 206 | 1022,02 | 248 | 1237,88 |
+| 81 | 379,65 | 123 | 595,49 | 165 | 811,33 | 207 | 1027,19 | 249 | 1243,00 |
+|   |   |   |   |   |   |   |   | 250 | 1248,13 |
+
+De maximale huurprijsgrens van zelfstandige woningen met een kwaliteit van minder dan 40 punten is gelijk aan de maximale huurprijsgrens bij 40 punten: € 187,30 per maand.
 
 ## Bijlage II
 
@@ -1307,7 +1309,7 @@ De gegevens, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.
 
 ##### Artikel 14a
 
-Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2015-07-01&g=2015-07-01).
+Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=18), is het bedrag, genoemd in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0015386&bijlage=VIII&z=2015-10-01&g=2015-10-01).
 
 #### § 9. Slotbepalingen
 
