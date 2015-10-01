@@ -4,7 +4,7 @@ identifier: "BWBR0012746"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2015-03-24"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0012746"
 soort: "ministeriele-regeling"
@@ -44,11 +44,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder:
 
+- a. **derde-organisatie:** een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening;
+
+- b. **werkgever:** het bedrijf waar de deelnemer arbeid verricht.
+
 ##### Artikel 2
 
-1. De sectordirectie Justitiële Jeugdinrichtingen kan een scholings- en trainingsprogramma erkennen.
+1. De Minister kan een scholings- en trainingsprogramma erkennen.
 
-2. De directeur, de reclassering, de gezinsvoogdij-instelling of een derde-organisatie kan een voordracht voor erkenning van een scholings- en trainingsprogramma doen aan de sectordirectie Justitiële Jeugdinrichtingen.
+2. De directeur, de reclassering, de gezinsvoogdij-instelling of een derde-organisatie kan een voordracht voor erkenning van een scholings- en trainingsprogramma doen aan de Minister.
 
 ##### Artikel 3
 
@@ -62,7 +66,7 @@ Voor erkenning kan worden voorgedragen:
 
 1. De erkenning geschiedt voor de periode van maximaal drie jaren.
 
-2. De erkenning kan door de sectordirectie Justitiële Jeugdinrichtingen worden ingetrokken indien:
+2. De erkenning kan door de Minister worden ingetrokken indien:
 
 - a. voor het erkende standaardprogramma of de module geen doelgroep meer bestaat;
 
