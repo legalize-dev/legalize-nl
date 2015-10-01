@@ -4,7 +4,7 @@ identifier: "BWBR0016098"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-01"
-last_updated: "2009-05-01"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016098"
 soort: "ministeriele-regeling"
@@ -38,7 +38,7 @@ Besluit:
 
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=2&z=2009-05-01&g=2009-05-01).
+In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=2&z=2015-10-01&g=2015-10-01).
 
 ##### Artikel 2
 
@@ -116,7 +116,7 @@ De Minister houdt de door de ondernemers ingeleverde ritformulieren en de door h
 
 1. De bestuurder van een vrachtautocombinatie dient in het bezit te zijn van een geldig rijbewijs voor het besturen van motorrijtuigen van de rijbewijscategorieën C en E, alsmede van een getuigschrift van vakbekwaamheid voor het besturen van een vrachtauto.
 
-2. De bestuurder beschikt over een geldig certificaat van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, op grond van een met goed gevolg afgelegd aanvullend theorie-examen en aanvullend praktijkexamen voor het besturen van een betrokken vrachtautocombinatie. Daarbij wordt in het bijzonder gelet op het rekening houden met de belangen van andere weggebruikers, op de mentaliteit van de bestuurder en op de noodzaak van milieubewust en energiezuinig rijden.
+2. De bestuurder beschikt over een geldig certificaat van de Centraal Bureau Rijvaardigheidsbewijzen, op grond van een met goed gevolg afgelegd aanvullend theorie-examen en aanvullend praktijkexamen voor het besturen van een betrokken vrachtautocombinatie. Daarbij wordt in het bijzonder gelet op het rekening houden met de belangen van andere weggebruikers, op de mentaliteit van de bestuurder en op de noodzaak van milieubewust en energiezuinig rijden.
 
 3. Voorafgaand aan het afleggen van het examen dient een kandidaat schriftelijk te verklaren dat hij voldoet aan de navolgende eisen:
 
