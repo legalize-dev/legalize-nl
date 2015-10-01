@@ -4,7 +4,7 @@ identifier: "BWBR0023428"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-09-04"
-last_updated: "2015-03-24"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0023428"
 soort: "ministeriele-regeling"
@@ -46,37 +46,29 @@ Besluit:
 
 In deze Regeling wordt verstaan onder:
 
-- a. ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel bedoeld in de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) en de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) zich hieraan onttrekken op een wijze als genoemd in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-03-24&g=2015-03-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-03-24&g=2015-03-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-03-24&g=2015-03-24) van deze regeling;
+- a. ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel bedoeld in de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) en de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) zich hieraan onttrekken op een wijze als genoemd in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-10-01&g=2015-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-10-01&g=2015-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-10-01&g=2015-10-01) van deze regeling;
 
 - b. de DJI: de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;
 
-- c. de sectordirecteur GW: de sectordirecteur van de sector Gevangeniswezen van de DJI of diens plaatsvervanger;
+- c. de divisiedirecteur ForZo/JJI: de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI;
 
-- d. het BCL: het Bureau Capaciteitsbenutting en Logistiek van de afdeling Individuele Zaken van de sector GW;
+- d. de divisiedirecteur GW/VB: de directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring van de DJI;
 
-- e. de sectordirecteur BV: de sectordirecteur van de sector Bijzondere Voorzieningen van de DJI of diens plaatsvervanger;
+- e. de divisiedirecteur IZ: de directeur van de divisie Individuele Zaken van de DJI;
 
-- f. het BCV: het Bureau Coördinatie Vreemdelingenzaken van de sector BV;
+- f. het Landelijk Meldpunt: het meldpunt bij de Groep Opsporing Onttrekkingen (GOO) ressorterend onder de dienst Operationele samenwerking van de Landelijke eenheid belast met de opsporing van ongeoorloofd afwezigen genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-10-01&g=2015-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-10-01&g=2015-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-10-01&g=2015-10-01);
 
-- g. de directeur FZ: de directeur van de directie Forensische Zorg van de DJI of diens plaatsvervanger;
-
-- h. de afdeling Plaatsing: de afdeling Plaatsing van de directie FZ;
-
-- i. de sectordirecteur JJI: de sectordirecteur van de sector Justitiële Jeugdinrichtingen van de DJI of diens plaatsvervanger;
-
-- j. het Landelijk Meldpunt: het meldpunt bij de Groep Opsporing Onttrekkingen (GOO) ressorterend onder de dienst Operationele samenwerking van de Landelijke eenheid belast met de opsporing van ongeoorloofd afwezigen genoemd in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-03-24&g=2015-03-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-03-24&g=2015-03-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-03-24&g=2015-03-24);
-
-- k. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.
+- g. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.
 
 ##### Artikel 1.2. Aanvang en einde van ongeoorloofde afwezigheid
 
-1. Ongeoorloofde afwezigheid vangt aan op de dag van het zich onttrekken aan de tenuitvoerlegging bedoeld in [artikel 1.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=1&artikel=1.1&z=2015-03-24&g=2015-03-24).
+1. Ongeoorloofde afwezigheid vangt aan op de dag van het zich onttrekken aan de tenuitvoerlegging bedoeld in [artikel 1.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=1&artikel=1.1&z=2015-10-01&g=2015-10-01).
 
 2. Ongeoorloofde afwezigheid eindigt op de dag dat de ongeoorloofd afwezige zichzelf meldt of wordt aangehouden.
 
 ##### Artikel 1.3. Meldingsprocedure ongeoorloofde afwezigheid
 
-De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-03-24&g=2015-03-24), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-03-24&g=2015-03-24) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-03-24&g=2015-03-24) van deze regeling meldt ongeoorloofde afwezigheid en het einde daarvan aan de Minister van Veiligheid en Justitie, de politie en overige betrokkenen volgens de procedure beschreven in het betreffende hoofdstuk.
+De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2015-10-01&g=2015-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2015-10-01&g=2015-10-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2015-10-01&g=2015-10-01) van deze regeling meldt ongeoorloofde afwezigheid en het einde daarvan aan de Minister van Veiligheid en Justitie, de politie en overige betrokkenen volgens de procedure beschreven in het betreffende hoofdstuk.
 
 ### Hoofdstuk 2. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5a, tweede lid, van de penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a)
 
@@ -106,19 +98,19 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 ##### Artikel 2.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
-De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-03-24&g=2015-03-24) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de gedetineerde zich heeft onttrokken. In de gevallen waarin de ongeoorloofd afwezige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 2.2, onder b, c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-03-24&g=2015-03-24), berust die verantwoordelijkheid bij de directeur van de inrichting waar hij staat ingeschreven.
+De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-10-01&g=2015-10-01) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de gedetineerde zich heeft onttrokken. In de gevallen waarin de ongeoorloofd afwezige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 2.2, onder b, c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-10-01&g=2015-10-01), berust die verantwoordelijkheid bij de directeur van de inrichting waar hij staat ingeschreven.
 
 ##### Artikel 2.4. Indeling ongeoorloofd afwezigen
 
 In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolgende twee groepen ongeoorloofd afwezigen onderscheiden:
 
-- a. groep A omvat de gedetineerden die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-03-24&g=2015-03-24), en niet behoren tot groep B, onder 2°;
+- a. groep A omvat de gedetineerden die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-10-01&g=2015-10-01), en niet behoren tot groep B, onder 2°;
 
 - b. groep B omvat degenen die:
 
-- 1°. zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-03-24&g=2015-03-24);
+- 1°. zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 2.2, onder e tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-10-01&g=2015-10-01);
 
-- 2°. zich hebben onttrokken aan vreemdelingenbewaring op enige wijze als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-03-24&g=2015-03-24).
+- 2°. zich hebben onttrokken aan vreemdelingenbewaring op enige wijze als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-10-01&g=2015-10-01).
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
@@ -132,47 +124,47 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - a. het Landelijk Meldpunt;
 
-- b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.
+- b. de divisiedirecteur GW/VB; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.
 
-2. De directeur zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.
+2. De directeur zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.
 
-3. De directeur zendt uiterlijk de eerstvolgende werkdag het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector.
+3. De directeur zendt uiterlijk de eerstvolgende werkdag het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de divisiedirecteur GW/VB; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.
 
-4. De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.
+4. De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het Centraal Register Onttrekkingen.
 
-5. De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.
+5. De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar de divisiedirecteur IZ.
 
 ##### Artikel 2.7. Meldingen na constatering ongeoorloofde afwezigheid groep B
 
 1. De directeur meldt de ongeoorloofde afwezigheid behorend tot groep B, onder 1°, onmiddellijk na constatering ervan aan:
 
-- a. het CJIB, binnen kantooruren telefonisch, buiten kantooruren per elektronische post of per fax;
+- a. het CJIB, binnen kantooruren telefonisch, buiten kantooruren per elektronische post;
 
-- b. de sectordirecteur GW dan wel de sectordirecteur BV, indien de directeur van oordeel is dat de ongeoorloofde afwezigheid daartoe aanleiding geeft; de directeur meldt de ongeoorloofde afwezigheid alleen in dat geval telefonisch aan de accountmanager of piketambtenaar van de betreffende sector.
+- b. de divisiedirecteur GW/VB, indien de directeur van oordeel is dat de ongeoorloofde afwezigheid daartoe aanleiding geeft; de directeur meldt de ongeoorloofde afwezigheid alleen in dat geval telefonisch aan de door de divisiedirecteur aangewezen ambtenaar.
 
 2. De directeur meldt de ongeoorloofde afwezigheid van degene die zich heeft onttrokken aan vreemdelingenbewaring, behorend tot groep B, onder 2°, onmiddellijk na constatering ervan telefonisch aan:
 
 - a. de politie;
 
-- b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.
+- b. de divisiedirecteur GW/VB; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.
 
-3. De directeur zendt zo spoedig mogelijk na de meldingen, bedoeld in het eerste en tweede lid, het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan:
+3. De directeur zendt zo spoedig mogelijk na de meldingen, bedoeld in het eerste en tweede lid, het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan:
 
 - a. het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1°, dan wel de politie, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2°;
 
-- b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector; in geval van onttrekkingen als bedoeld in [artikel 2.2, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-03-24&g=2015-03-24), blijft deze melding achterwege.
+- b. de divisiedirecteur GW/VB; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar; in geval van onttrekkingen als bedoeld in [artikel 2.2, onder f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2015-10-01&g=2015-10-01), blijft deze melding achterwege.
 
-4. De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.
+4. De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het Centraal Register Onttrekkingen.
 
-5. De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.
+5. De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar de divisiedirecteur IZ.
 
 #### Paragraaf 3. Overige inlichtingen
 
 ##### Artikel 2.8. Overige inlichtingen
 
-1. De directeur verstrekt aan de sectordirecteur GW dan wel de sectordirecteur BV, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+1. De directeur verstrekt aan de divisiedirecteur GW/VB, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
-2. De directeur verstrekt aan het Landelijk Meldpunt, het CJIB, dan wel de politie, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+2. De directeur verstrekt aan het Landelijk Meldpunt, het CJIB, dan wel de politie, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
 #### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
@@ -182,13 +174,13 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - a. het Landelijk Meldpunt, onmiddellijk telefonisch;
 
-- b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe het hoofd van het BCL respectievelijk de piketambtenaar van de sector BV uiterlijk de eerstvolgende werkdag telefonisch op de hoogte.
+- b. de divisiedirecteur GW/VB of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar uiterlijk de eerstvolgende werkdag telefonisch op de hoogte.
 
-2. Indien de ongeoorloofd afwezige behorend tot groep B zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk per elektronische post of per fax:
+2. Indien de ongeoorloofd afwezige behorend tot groep B zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk per elektronische post:
 
 - a. het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1°, dan wel de politie, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2°;
 
-- b. het hoofd van het BCL dan wel het hoofd van het BCV.
+- b. de divisiedirecteur IZ.
 
 ### Hoofdstuk 3. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 7a, tweede lid, van de beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a)
 
@@ -220,7 +212,7 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 ##### Artikel 3.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
-De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-03-24&g=2015-03-24) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij het hoofd van de inrichting vanwaar de verpleegde zich heeft onttrokken. In de gevallen waarin de verpleegde zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 3.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2015-03-24&g=2015-03-24), berust die verantwoordelijkheid bij het hoofd van de inrichting waar de verpleegde staat ingeschreven.
+De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-10-01&g=2015-10-01) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij het hoofd van de inrichting vanwaar de verpleegde zich heeft onttrokken. In de gevallen waarin de verpleegde zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 3.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2015-10-01&g=2015-10-01), berust die verantwoordelijkheid bij het hoofd van de inrichting waar de verpleegde staat ingeschreven.
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
@@ -234,21 +226,21 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - a. het Landelijk Meldpunt;
 
-- b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.
+- b. de divisiedirecteur ForZo/JJI; het hoofd stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.
 
-2. Het hoofd zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.
+2. Het hoofd zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.
 
-3. Het hoofd zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de directeur FZ; het hoofd zendt dit formulier daartoe aan het hoofd van de afdeling of de piketambtenaar van de directie FZ.
+3. Het hoofd zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; het hoofd zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.
 
-4. Het hoofd meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van de afdeling Plaatsing ter registratie.
+4. Het hoofd meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het daartoe bestemde registatiesysteem.
 
 #### Paragraaf 3. Overige inlichtingen
 
 ##### Artikel 3.6. Overige inlichtingen
 
-1. Het hoofd verstrekt aan de directeur FZ, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+1. Het hoofd verstrekt aan de divisiedirecteur ForZo/JJI, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
-2. Het hoofd verstrekt aan het Landelijk Meldpunt, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+2. Het hoofd verstrekt aan het Landelijk Meldpunt, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
 #### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
@@ -258,7 +250,7 @@ Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inri
 
 - a. het Landelijk Meldpunt;
 
-- b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.
+- b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; het hoofd stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.
 
 ### Hoofdstuk 4. Meldingsprocedure bij ongeoorloofde afwezigheid als bedoeld in [artikel 5, tweede lid, van de beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5)
 
@@ -284,7 +276,7 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 ##### Artikel 4.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
-De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-03-24&g=2015-03-24) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de jeugdige zich heeft onttrokken. In de gevallen waarin de jeugdige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 4.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-03-24&g=2015-03-24), berust die verantwoordelijkheid bij de directeur van de inrichting waar de jeugdige staat ingeschreven.
+De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2015-10-01&g=2015-10-01) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de jeugdige zich heeft onttrokken. In de gevallen waarin de jeugdige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 4.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-10-01&g=2015-10-01), berust die verantwoordelijkheid bij de directeur van de inrichting waar de jeugdige staat ingeschreven.
 
 ##### Artikel 4.4. Indeling ongeoorloofd afwezigen
 
@@ -294,9 +286,9 @@ In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolge
 
 - 1°. de maatregel van plaatsing in een inrichting voor jeugdigen;
 
-- 2°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-03-24&g=2015-03-24);
+- 2°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-10-01&g=2015-10-01);
 
-- 3°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-03-24&g=2015-03-24).
+- 3°. een vrijheidsbenemende straf of vrijheidsbenemende maatregel anders dan bedoeld onder 1° van dit onderdeel of onder b van dit artikel, die zich hebben onttrokken aan de tenuitvoerlegging als bedoeld in [artikel 4.2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2015-10-01&g=2015-10-01).
 
 - b. de groep niet-strafrechtelijk geplaatsten omvat de jeugdigen:
 
@@ -314,89 +306,89 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 ##### Artikel 4.6. Meldingen na constatering ongeoorloofde afwezigheid strafrechtelijk geplaatsten
 
-1. De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), en van de strafrechtelijk geplaatste jeugdigen bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), onmiddellijk na constatering ervan telefonisch aan:
+1. De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), en van de strafrechtelijk geplaatste jeugdigen bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), onmiddellijk na constatering ervan telefonisch aan:
 
 - a. het Landelijk Meldpunt;
 
-- b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar telefonisch op de hoogte;
+- b. de divisiedirecteur ForZo/JJI; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte;
 
 - c. de gezagdragers van de ongeoorloofd afwezige.
 
-2. De directeur zendt binnen één uur na constatering van de in het eerste lid bedoelde ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.
+2. De directeur zendt binnen één uur na constatering van de in het eerste lid bedoelde ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.
 
-3. De directeur zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar.
+3. De directeur zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.
 
-4. De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen bedoeld in [artikel 4.4, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), onmiddellijk na constatering ervan telefonisch aan:
+4. De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen bedoeld in [artikel 4.4, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), onmiddellijk na constatering ervan telefonisch aan:
 
 - a. de politie;
 
 - b. de gezagdragers van de ongeoorloofd afwezige.
 
-5. De directeur zendt zo spoedig mogelijk na de in het vierde lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan:
+5. De directeur zendt zo spoedig mogelijk na de in het vierde lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan:
 
 - a. de politie;
 
-- b. de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar;
+- b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar;
 
 - c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd.
 
 ##### Artikel 4.7. Meldingen na constatering ongeoorloofde afwezigheid niet-strafrechtelijk geplaatsten
 
-1. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), onmiddellijk na constatering ervan telefonisch aan de betrokken gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
+1. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), onmiddellijk na constatering ervan telefonisch aan de betrokken gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-2. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), onmiddellijk na constatering ervan telefonisch aan:
+2. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), onmiddellijk na constatering ervan telefonisch aan:
 
 - a. de politie;
 
 - b. de gezagdragers van de ongeoorloofd afwezige.
 
-3. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), zo spoedig mogelijk na constatering ervan aan de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte.
+3. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), zo spoedig mogelijk na constatering ervan aan de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar per elektronische post op de hoogte.
 
 #### Paragraaf 3. Overige inlichtingen en registratie
 
 ##### Artikel 4.8. Overige inlichtingen
 
-1. De directeur verstrekt aan de sectordirecteur JJI, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+1. De directeur verstrekt aan de divisiedirecteur ForZo/JJI, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
-2. De directeur verstrekt aan het Landelijk Meldpunt dan wel de politie, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-03-24&g=2015-03-24) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
+2. De directeur verstrekt aan het Landelijk Meldpunt dan wel de politie, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2015-10-01&g=2015-10-01) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
 ##### Artikel 4.9. Registratie
 
-De directeur registreert de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag in het registratiesysteem van de sector JJI.
+De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het daartoe bestemde registratiesysteem.
 
 #### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
 ##### Artikel 4.10. Meldingen bij einde ongeoorloofde afwezigheid
 
-1. Indien de ongeoorloofd afwezige jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), of de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
+1. Indien de ongeoorloofd afwezige jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), of de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
 
 - a. het Landelijk Meldpunt, onmiddellijk telefonisch;
 
-- b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar uiterlijk de eerstvolgende werkdag per elektronische post of per fax op de hoogte;
+- b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar uiterlijk de eerstvolgende werkdag per elektronische post op de hoogte;
 
 - c. de gezagdragers van de jeugdige.
 
-2. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
+2. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder a, onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
 
-- a. de politie zo spoedig mogelijk per elektronische post of per fax;
+- a. de politie zo spoedig mogelijk per elektronische post;
 
-- b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;
+- b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar zo spoedig mogelijk per elektronische post op de hoogte;
 
-- c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd, zo spoedig mogelijk per elektronische post of per fax;
+- c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd, zo spoedig mogelijk per elektronische post;
 
 - d. de gezagdragers van de jeugdige.
 
-3. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk:
+3. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk:
 
-- a. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte;
+- a. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar per elektronische post op de hoogte;
 
 - b. de betrokken gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
-4. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder b, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-03-24&g=2015-03-24), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
+4. Indien de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder b, onder 2° en 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2015-10-01&g=2015-10-01), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
 
-- a. de politie zo spoedig mogelijk per elektronische post of per fax;
+- a. de politie zo spoedig mogelijk per elektronische post;
 
-- b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;
+- b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar zo spoedig mogelijk per elektronische post op de hoogte;
 
 - c. de gezagdragers van de jeugdige.
 
