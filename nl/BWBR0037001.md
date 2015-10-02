@@ -4,7 +4,7 @@ identifier: "BWBR0037001"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-02"
-last_updated: "2015-09-18"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037001"
 soort: "ministeriele-regeling"
@@ -52,9 +52,11 @@ Gelet op:
 
 Besluit:
 
+Inwerkingtreding voorheen door Stcrt. 2015/30171 gesteld op 1 november 2015.
+
 ##### Artikel 1
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=2&z=2015-09-18&g=2015-09-18).
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=2&z=2015-10-02&g=2015-10-02).
 
 ##### Artikel 2
 
@@ -86,23 +88,25 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, v
 
 1. Gemeente Ede brengt jaarlijks, voor 1 april, verslag uit over:
 
-- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=2&z=2015-09-18&g=2015-09-18) genoemde functie;
+- a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=2&z=2015-10-02&g=2015-10-02) genoemde functie;
 
 - b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;
 
 - c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.
 
-2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=5&z=2015-09-18&g=2015-09-18) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
+2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=5&z=2015-10-02&g=2015-10-02) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
 ##### Artikel 8
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=9&z=2015-09-18&g=2015-09-18) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037001&artikel=9&z=2015-10-02&g=2015-10-02) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
 ##### Artikel 9
 
 Het [Besluit buitengewoon opsporingsambtenaar Milieu en Welzijn, gemeente Ede 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028268) van 7 september 2010, nr. 5662775/Justis/10 zal vervallen op 18 september 2015.
+
+Dit besluit treedt in werking met ingang van 18 september 2015 en vervalt met ingang van 18 september 2020.
 
 ##### Artikel 10
 
