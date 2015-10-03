@@ -4,7 +4,7 @@ identifier: "BWBR0035491"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2015-10-03"
-last_updated: "2014-09-01"
+last_updated: "2015-10-03"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035491"
 soort: "ministeriele-regeling"
@@ -50,7 +50,7 @@ Als apparatuur als bedoeld in [artikel 5, tweede lid, onderdeel b, van het beslu
 
 ##### Artikel 3
 
-1. Als geneesmiddelen als bedoeld in [artikel 5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=5) worden aangewezen: ijzerpreparaten, oxytocine, moederkoornalkaloïden en hiervan afgeleide verbindingen, anti-D-rhesus immunoglobuline, hepatitis B immunoglobuline, hepatitis B vaccin, vitamine K, medicinale zuurstof, het inhalatie analgeticum Relivopan, orale anticonceptiva alsmede hormonale IUD’s.
+1. Als geneesmiddelen als bedoeld in [artikel 5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=5) worden aangewezen: ijzerpreparaten, oxytocine, moederkoornalkaloïden en hiervan afgeleide verbindingen, anti-D-rhesus immunoglobuline, hepatitis B immunoglobuline, hepatitis B vaccin, vitamine K, medicinale zuurstof, een inhalatie analgeticum dat een mengsel van 50% distikstofoxide en 50% zuurstof bevat en hormonale anticonceptiva.
 
 2. Als medisch hulpmiddel als bedoeld in [artikel 5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&artikel=5) wordt aangewezen niet-hormonale IUD’s.
 
