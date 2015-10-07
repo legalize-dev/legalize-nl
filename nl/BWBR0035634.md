@@ -4,7 +4,7 @@ identifier: "BWBR0035634"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2026-01-21"
-last_updated: "2014-10-15"
+last_updated: "2015-10-07"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035634"
 soort: "ministeriele-regeling"
@@ -218,6 +218,8 @@ Een erkende organisatie die verzoekt om een besluit als bedoeld in artikel 164, 
 
 - c. de wijze waarop de financiële bijdrage wordt besteed.
 
+3. Het eerste lid, onderdeel i, is niet van toepassing op voorschriften die betrekking hebben op het verrichten van onderzoek.
+
 ##### Artikel 5:6
 
 De minister stelt belanghebbenden in de gelegenheid om hun zienswijze kenbaar te maken omtrent een op grond van artikel 165 van [verordening 1308/2013](32013R1308) te nemen besluit.
@@ -248,7 +250,7 @@ Een erkende organisatie leeft, voor zover van toepassing, de voorschriften na al
 
 ##### Artikel 6:3
 
-In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2014-10-15&g=2014-10-15) kan de minister:
+In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:2&z=2015-10-07&g=2015-10-07) kan de minister:
 
 - a. de erkenning intrekken;
 
@@ -258,7 +260,7 @@ In geval van niet-naleving van een voorschrift als bedoeld in [artikel 6:2](http
 
 ##### Artikel 6:4
 
-Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2014-10-15&g=2014-10-15), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
+Een verzoek als bedoeld in artikelen 152, eerste of derde lid, 156, 157, eerste of derde lid, 164, eerste lid of 165, of een zienswijze als bedoeld in artikel 165, of het verstrekken van informatie als bedoeld in [artikel 6:1](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=6&artikel=6:1&z=2015-10-07&g=2015-10-07), wordt ingediend met behulp van een door de minister beschikbaar gesteld middel.
 
 ##### Artikel 6:5
 
