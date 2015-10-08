@@ -4,7 +4,7 @@ identifier: "BWBV0001986"
 country: "nl"
 rank: "verdrag"
 publication_date: "2015-10-08"
-last_updated: "1974-11-01"
+last_updated: "2015-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBV0001986"
 soort: "verdrag"
@@ -282,6 +282,8 @@ De Conferentie kan aan de door haar ingestelde commissies adviseurs toevoegen di
 - (v). ten aanzien van elke aanbeveling, op de door de Raad van Beheer vast te stellen tijdstippen aan de Directeur-Generaal van het Internationaal Arbeidsbureau verslag uitbrengen omtrent de stand van de wetgeving en de gebruiken in de bondsstaat, de deelstaten, de provincies of de kantons met betrekking tot de in de aanbeveling behandelde aangelegenheid, daarbij nauwkeurig aangevend in hoeverre aan de bepalingen van de aanbeveling gevolg is gegeven of zal worden gegeven alsmede welke wijzigingen van deze bepalingen zij eventueel noodzakelijk acht met het oog op de aanneming of de toepassing ervan.
 
 8. In geen geval mag de aanneming van een verdrag of een aanbeveling door de Conferentie, of de bekrachtiging van een verdrag door een Lid, worden beschouwd van invloed te zijn op een wet, uitspraak, gewoonte of overeenkomst die aan de betrokken werknemers gunstiger voorwaarden biedt dan het verdrag of de aanbeveling.
+
+9. Handelend op voorstel van de Raad van Beheer kan de Conferentie, met een meerderheid van twee derde der door de aanwezige afgevaardigden uitgebrachte stemmen, een verdrag dat conform de bepalingen van dit artikel is aangenomen intrekken indien blijkt dat het verdrag zijn doel heeft verloren of dat het geen zinvolle bijdrage meer levert aan de verwezenlijking van de doelstellingen van de Organisatie.
 
 ##### Artikel 20
 
