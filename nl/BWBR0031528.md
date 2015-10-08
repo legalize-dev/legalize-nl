@@ -4,7 +4,7 @@ identifier: "BWBR0031528"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2021-04-01"
-last_updated: "2012-05-03"
+last_updated: "2015-10-08"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0031528"
 soort: "ministeriele-regeling"
@@ -62,7 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - h. **halautomaat:** een kansspelautomaat bestemd voor opstelling in een speelautomatenhal als bedoeld in [paragraaf 4.4 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&sub-paragraaf=4.4);
 
-- i. **horeca-automaat:** een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino als bedoeld in [paragraaf 4.3 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&sub-paragraaf=4.3).
+- i. **horeca-automaat:** een kansspelautomaat niet bestemd voor opstelling in een speelautomatenhal of een speelcasino als bedoeld in [paragraaf 4.3 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&sub-paragraaf=4.3);
+
+- j. **aangifteformulier:** aangifteformulier als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=5&z=2015-10-08&g=2015-10-08), van deze regeling;
+
+- k. **raad van bestuur:** raad van bestuur van de kansspelautoriteit, bedoeld in [artikel 33a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33a).
 
 ##### Artikel 2
 
@@ -98,13 +102,23 @@ Deze regeling heeft betrekking op de heffing van de in [artikelen 33e](https://w
 
 ##### Artikel 5
 
-1. Het uitnodigen tot het doen van aangifte geschiedt door het uitreiken of toezenden van een aangiftebiljet waaruit blijkt de wijze van het doen van aangifte, een omschrijving van de gevraagde gegevens of bescheiden en de termijn waarbinnen aangifte moet worden gedaan.
+1. Het uitnodigen tot het doen van aangifte geschiedt door het toezenden van een aangifteformulier of door het toezenden van een verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld.
 
-2. Het aangiftebiljet kan langs elektronische weg verzonden worden.
+2. Uit het aangifteformulier blijkt in ieder geval:
+
+- a. de wijze van het doen van aangifte;
+
+- b. een omschrijving van de gevraagde gegevens of bescheiden;
+
+- c. de termijn, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031528&hoofdstuk=3&artikel=6&z=2015-10-08&g=2015-10-08), waarbinnen aangifte moet worden gedaan.
+
+3. Het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, kunnen langs elektronische weg worden toegezonden.
 
 ##### Artikel 6
 
-Indien het aangiftebiljet langs elektronische weg is toegezonden, wordt de aangifte gedaan door het langs elektronische weg toezenden van de gevraagde gegevens of bescheiden.
+1. De aangifte wordt gedaan binnen zes weken na toezending van het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, tenzij de raad van bestuur onder door hem te stellen voorwaarden uitstel heeft verleend van het doen van aangifte.
+
+2. Indien het aangifteformulier of de verwijzing naar het webadres waarop het aangifteformulier beschikbaar is gesteld, langs elektronische weg is toegezonden, wordt de aangifte gedaan door de gevraagde gegevens of bescheiden langs elektronische weg toe te zenden, tenzij de raad van bestuur onder door hem te stellen voorwaarden toestaat de aangifte op andere wijze toe te zenden.
 
 ##### Artikel 7
 
@@ -112,13 +126,11 @@ Indien het aangiftebiljet langs elektronische weg is toegezonden, wordt de aangi
 
 2. Voor de toepassing van het eerste lid kan de bepaling van het bedrag waarop de aanslag over het kalenderjaar vermoedelijk zal worden vastgesteld, geschieden op grond van de gegevens die hebben gediend ter vaststelling van de aanslag over het voorafgaande kalenderjaar en de gegevens die zijn ontvangen ten behoeve van het toezicht op de naleving van de voorschriften, gesteld bij of krachtens [Titel VA van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&titeldeel=VA).
 
-### Hoofdstuk 4. Uitzondering geheimhoudingsplicht
+### Hoofdstuk 4. Grondslag
 
 ##### Artikel 8
 
-1. De geheimhoudingsplicht, bedoeld in [artikel 67, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67) en [artikel 67, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=67) geldt niet voor verstrekking aan de Belastingdienst van gegevens die van belang kunnen zijn bij de heffing en invordering van rijksbelastingen of de uitvoering van andere aan de Belastingdienst bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002469) opgedragen taken.
-
-2. De in het eerste lid bedoelde gegevens worden verstrekt op verzoek van de Belastingdienst.
+Deze regeling berust op [artikel 33f, derde lid, van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=33f) en [artikel 6a van het Kansspelenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009067&artikel=6a).
 
 ### Hoofdstuk 5. Slotbepalingen
 
