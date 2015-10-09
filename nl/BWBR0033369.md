@@ -4,7 +4,7 @@ identifier: "BWBR0033369"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2018-04-07"
-last_updated: "2012-09-20"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0033369"
 soort: "ministeriele-regeling"
@@ -122,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 1. De commissie vergadert zo vaak de commissie dat nodig acht, met dien verstande dat de commissie ten minste twee keer per kalenderjaar vergadert met het bestuur.
 
-2. Aan het begin van ieder kalenderhalfjaar, doch voor eind februari respectievelijk eind september, zal de commissie schriftelijk rapporteren aan de staatssecretaris en de minister over de bevindingen van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033369&artikel=3&z=2012-09-20&g=2012-09-20) genoemde taken en bevoegdheden, met een afschrift aan het bestuur. De commissie kan deze rapportage mondeling toelichten aan de staatssecretaris en de minister. De voorzitter van het bestuur wordt in dat geval voor deze toelichting uitgenodigd.
+2. Aan het begin van ieder kalenderhalfjaar, doch voor eind februari respectievelijk eind september, zal de commissie schriftelijk rapporteren aan de staatssecretaris en de minister over de bevindingen van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033369&artikel=3&z=2012-09-20&g=2015-10-09) genoemde taken en bevoegdheden, met een afschrift aan het bestuur. De commissie kan deze rapportage mondeling toelichten aan de staatssecretaris en de minister. De voorzitter van het bestuur wordt in dat geval voor deze toelichting uitgenodigd.
 
 3. De staatssecretaris voorziet in administratieve ondersteuning van de commissie.
 
