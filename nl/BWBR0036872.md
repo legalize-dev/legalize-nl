@@ -4,7 +4,7 @@ identifier: "BWBR0036872"
 country: "nl"
 rank: "zbo"
 publication_date: "2015-10-14"
-last_updated: "2015-07-24"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0036872"
 soort: "zbo"
@@ -48,13 +48,15 @@ In deze regeling wordt verstaan onder:
 
 - **Fonds voor Cultuurparticipatie:** de stichting Fonds voor Cultuurparticipatie;
 
-- **School:** basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1); Schoolbestuur: het bevoegd gezag van een basisschool als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
+- **School:** basisschool of een speciale school voor basisonderwijs, als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in [artikel 1 van de Wet op de Expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1) of een school als bedoeld in [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
+
+- **Schoolbestuur:** het bevoegd gezag van een basisschool als bedoeld in [artikel 1 van de Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) en [artikel 1 van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=1);
 
 - **Locatie:** een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de [Wet op het Primair Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420);
 
 - **Samenwerkingsverband:** een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste twee schoolbesturen, waar ten minste 5 locaties onder vallen die deelnemen aan het project;
 
-- **Project:** een samenhangend geheel van activiteiten met betrekking tot de in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-07-24&g=2015-07-24) genoemde thema’s;
+- **Project:** een samenhangend geheel van activiteiten met betrekking tot de in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14) genoemde thema’s;
 
 - **Culturele omgeving:** de culturele instellingen die in de omgeving van de school aanwezig zijn, ofwel actief kunnen zijn op de school;
 
@@ -96,9 +98,9 @@ Flankerend aan de **Deelregeling Cultuureducatie met Kwaliteit in het primair on
 
 - b. een projectplan,
 
-- c. een gespecificeerde projectbegroting, waarbij een onderscheid in projectkosten als bedoeld in [artikel 2.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.5&z=2015-07-24&g=2015-07-24) wordt gemaakt.
+- c. een gespecificeerde projectbegroting, waarbij een onderscheid in projectkosten als bedoeld in [artikel 2.5.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.5&z=2015-10-14&g=2015-10-14) wordt gemaakt.
 
-- d. een verklaring als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.3&z=2015-07-24&g=2015-07-24), indien de aanvraag betrekking heeft op een samenwerkingsverband.
+- d. een verklaring als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.3&z=2015-10-14&g=2015-10-14), indien de aanvraag betrekking heeft op een samenwerkingsverband.
 
 4. Een projectplan als bedoeld in het derde lid, onder b, bevat een omschrijving van de ambitie van de aanvrager om cultuuronderwijs een stevige plek in het schoolcurriculum te geven door middel van professionalisering, waarbij hij ingaat op de volgende aspecten:
 
@@ -130,15 +132,15 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 ##### Artikel 2.3. Behandeling aanvragen
 
-1. Het bestuur verdeelt het beschikbare bedrag, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-07-24&g=2015-07-24), in de volgorde van ontvangst van de volledige aanvragen. Van een volledige aanvraag is sprake, indien wordt voldaan aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-07-24&g=2015-07-24).
+1. Het bestuur verdeelt het beschikbare bedrag, bedoeld in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-10-14&g=2015-10-14), in de volgorde van ontvangst van de volledige aanvragen. Van een volledige aanvraag is sprake, indien wordt voldaan aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14).
 
 2. Wanneer de subsidieaanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, geldt als datum en tijdstip van binnenkomst de datum en het tijdstip van ontvangst van de volledige aanvraag.
 
-3. Op een aanvraag wordt binnen een termijn van dertien weken na het sluiten van het aanvraagtijdvak , bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-07-24&g=2015-07-24), beslist.
+3. Op een aanvraag wordt binnen een termijn van dertien weken na het sluiten van het aanvraagtijdvak , bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.4&z=2015-10-14&g=2015-10-14), beslist.
 
 ##### Artikel 2.4. Aanvraagtijdvak en subsidieplafond
 
-1. Aanvragen voor projectsubsidie als bedoeld in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-07-24&g=2015-07-24) worden ingediend in de periode vanaf 1 juni 2015 tot 1 maart 2016 13:00 uur.
+1. Aanvragen voor projectsubsidie als bedoeld in [artikel 2.1.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14) worden ingediend in de periode vanaf 1 juni 2015 tot 1 maart 2016 13:00 uur.
 
 2. Het subsidieplafond voor deze regeling bedraagt € 2.500.000,–.
 
@@ -152,9 +154,9 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 1. Geen subsidie wordt verleend voor begrote kosten van projecten die voor de datum van indiening van de aanvraag ten behoeve van het project zijn ontwikkeld of uitgevoerd.
 
-2. Bij het bepalen van de hoogte van de subsidie worden alleen variabele projectkosten in aanmerking genomen die relevant zijn in het licht van de doelstelling van de regeling zoals omschreven in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.2&z=2015-07-24&g=2015-07-24).
+2. Bij het bepalen van de hoogte van de subsidie worden alleen variabele projectkosten in aanmerking genomen die relevant zijn in het licht van de doelstelling van de regeling zoals omschreven in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.2&z=2015-10-14&g=2015-10-14).
 
-3. Aan visietrajecten op bestuursniveau als bedoeld in [artikel 2.1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-07-24&g=2015-07-24), mag maximaal 10% van de subsidie worden besteed.
+3. Aan visietrajecten op bestuursniveau als bedoeld in [artikel 2.1, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14), mag maximaal 10% van de subsidie worden besteed.
 
 4. Bij het bepalen van de hoogte van de subsidie wordt het matching principe toegepast. De subsidieaanvrager dient ten minste 50% van de totale variabele projectkosten met eigen middelen te matchen. Deze middelen mogen ook gekapitaliseerde uren zijn.
 
@@ -162,7 +164,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 1. Aanvragen die voldoen aan de vereisten om voor subsidie in aanmerking te komen worden door het bestuur ter advies voorgelegd aan een adviescommissie.
 
-2. De adviescommissie beoordeelt de aanvragen aan de hand van de criteria genoemd in [artikel 2.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.7&z=2015-07-24&g=2015-07-24) van deze regeling.
+2. De adviescommissie beoordeelt de aanvragen aan de hand van de criteria genoemd in [artikel 2.7.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.7&z=2015-10-14&g=2015-10-14) van deze regeling.
 
 3. De adviescommissie stelt een advies op over het honoreren van een aanvraag.
 
@@ -170,7 +172,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 ##### Artikel 2.7. Criteria bij de beoordeling
 
-1. Aanvragen worden door de adviescommissie bedoeld in [artikel 2.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.6&z=2015-07-24&g=2015-07-24) getoetst op 3 criteria:
+1. Aanvragen worden door de adviescommissie bedoeld in [artikel 2.6.](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=2&artikel=2.6&z=2015-10-14&g=2015-10-14) getoetst op 3 criteria:
 
 - a. de kwaliteit van de aanvraag in relatie tot de doeleinden van de regeling,
 
@@ -198,7 +200,7 @@ Verantwoording, bevoorschotting, vaststelling en betaling van de subsidie geschi
 
 ##### Artikel 3.3. Leernetwerk
 
-1. De subsidieontvanger, de deelnemende locaties en de eventuele samenwerkingspartners in het samenwerkingsverband als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.3&z=2015-07-24&g=2015-07-24), committeren zich aan een leernetwerk. Dit netwerk is gericht op kennisdeling en kennisvermeerdering. Per project neemt minimaal één bestuurder en één schoolleider aan dit netwerk deel.
+1. De subsidieontvanger, de deelnemende locaties en de eventuele samenwerkingspartners in het samenwerkingsverband als bedoeld in [artikel 1.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036872&paragraaf=1&artikel=1.3&z=2015-10-14&g=2015-10-14), committeren zich aan een leernetwerk. Dit netwerk is gericht op kennisdeling en kennisvermeerdering. Per project neemt minimaal één bestuurder en één schoolleider aan dit netwerk deel.
 
 2. Het leernetwerk bestaat uit de volgende onderdelen:
 
