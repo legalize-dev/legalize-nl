@@ -4,7 +4,7 @@ identifier: "BWBR0019569"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-12-16"
-last_updated: "2015-07-09"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019569"
 soort: "ministeriele-regeling"
@@ -42,8 +42,6 @@ Gelet op [artikel 3.98b, vierde lid, van het Vreemdelingenbesluit 2000](https://
 
 Besluit:
 
-Treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland (Stb. 2006/28) in werking treedt.
-
 ##### Artikel 1. Algemeen
 
 1. In dit reglement wordt verstaan onder:
@@ -80,7 +78,7 @@ Treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland (S
 
 ##### Artikel 3. Gang van zaken voor en tijdens het examen
 
-1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2014-12-12&g=2015-07-09), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
+1. De deelnemer meldt zich onder medebrenging van het referentienummer, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019569&artikel=2&z=2015-10-14&g=2015-10-14), en het identiteitsdocument, bedoeld in [artikel 3.98b, derde lid, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.98b), ten minste vijftien minuten voor aanvang van het basisexamen op de door het hoofd aangegeven examenlocatie.
 
 2. Voor de aanvang van het basisexamen draagt de toezichthouder zorg voor:
 
@@ -158,6 +156,8 @@ Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
 
 ## Bijlage 1
 
+Vervallen
+
 Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
 
 ##### Artikel 2a. Maken van een afspraak
@@ -172,126 +172,6 @@ Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
 
 ## Bijlage 2. : overzicht ambassades en consultaten-generaal
 
-Hieronder vindt u een overzicht van alle ambassades en consulaten-generaal waar het basisexamen inburgering afgelegd kan worden.
-
-| Stad ambassade | Land ambassade |
-| --- | --- |
-| Abu Dhabi | Verenigde Arabische Emiraten |
-| Abuja | Nigeria |
-| Accra | Ghana |
-| Addis Abeba | Ethiopië |
-| Algiers | Algerije |
-| Almaty | Kazachstan |
-| Amman | Jordanië |
-| Ankara | Turkije |
-| Asmara | Eritrea |
-| Athene | Griekenland |
-| Bamako | Mali |
-| Bangkok | Thailand |
-| Barcelona | Spanje |
-| Beijing (Peking) | China |
-| Beiroet | Libanon |
-| Belgrado | Servië-Montenegro |
-| Berlijn | Duitsland |
-| Bern | Zwitserland |
-| Boekarest | Roemenië |
-| Bogotá | Colombia |
-| Brasília | Brazilië |
-| Brussel | België |
-| Buenos Aires | Argentinië |
-| Caracas | Venezuela |
-| Chicago, IL | Verenigde Staten van Amerika |
-| Colombo | Sri Lanka |
-| Cotonou | Benin |
-| Dakar | Senegal |
-| Damascus | Syrië |
-| Dar es Salaam | Tanzania |
-| Dhaka | Bangladesh |
-| Dubai | Verenigde Arabische Emiraten |
-| Dublin | Ierland |
-| Düsseldorf | Duitsland |
-| Guangzhou | China |
-| Guatemala | Guatemala |
-| Hanoi | Vietnam |
-| Havana | Cuba |
-| Helsinki (Helsingfors) | Finland |
-| Ho Chi Minh Stad | Vietnam |
-| Hongkong | China |
-| Islamabad | Pakistan |
-| Istanbul | Turkije |
-| Jakarta | Indonesië |
-| Kaapstad | Zuid-Afrika |
-| Kairo | Egypte |
-| Kampala | Uganda |
-| Khartoem | Sudan |
-| Kiev | Oekraïne |
-| Kigali | Rwanda |
-| Kinshasa | Congo DRC |
-| Koeweit | Koeweit |
-| Kopenhagen | Denemarken |
-| Kuala Lumpur | Maleisië |
-| La Paz | Bolivia |
-| Lima | Peru |
-| Lissabon | Portugal |
-| Londen | Verenigd Koninkrijk |
-| Luanda | Angola |
-| Lusaka | Zambia |
-| Madrid | Spanje |
-| Managua | Nicaragua |
-| Manilla | Filippijnen |
-| Mexico, D.F. | Mexico |
-| Miami, FL | Verenigde Staten van Amerika |
-| Milaan | Italië |
-| Montevideo | Uruguay |
-| Moskou | Rusland |
-| Mumbai | India |
-| Muscat | Oman |
-| Nairobi | Kenia |
-| New Delhi | India |
-| New York, NY | Verenigde Staten van Amerika |
-| Oranjestad | Aruba |
-| Ouagadougou | Burkina Faso |
-| Paramaribo | Suriname |
-| Parijs | Frankrijk |
-| Port of Spain | Trinidad en Tobago |
-| Pretoria | Zuid-Afrika |
-| Quito | Ecuador |
-| Rabat | Marokko |
-| Riga | Letland |
-| Rio de Janeiro | Brazilië |
-| Riyad | Saudi-Arabië |
-| Rome | Italië |
-| San Francisco, CA | Verenigde Staten van Amerika |
-| San José | Costa Rica |
-| Sana’a | Jemen |
-| Santiago de Chile | Chili |
-| Santo Domingo | Dominicaanse Republiek |
-| Sâo Paulo | Brazilië |
-| Sarajevo | Bosnië-Herzegovina |
-| Seoel | Zuid-Korea |
-| Shanghai | China |
-| Singapore | Singapore |
-| Skopje | Macedonië |
-| Sofia | Bulgarije |
-| St. Petersburg | Rusland |
-| Stockholm | Zweden |
-| Sydney | Australië |
-| Taipei | Taiwan |
-| Tbilisi | Georgië |
-| Teheran | Iran |
-| Tel Aviv | Israël |
-| Tirana | Albanië |
-| Tokio | Japan |
-| Toronto, ON | Canada |
-| Tripoli | Libië |
-| Tunis | Tunesië |
-| Vancouver, BC | Canada |
-| Warschau | Polen |
-| Washington, D.C. | Verenigde Staten van Amerika |
-| Wellington | Nieuw-Zeeland |
-| Wenen | Oostenrijk |
-| Willemstad | Curaçao |
-| Yaoundé | Kameroen |
-| Zagreb | Kroatië |
+Vervallen
 
 Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.
