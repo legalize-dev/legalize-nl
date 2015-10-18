@@ -4,7 +4,7 @@ identifier: "BWBR0032565"
 country: "nl"
 rank: "pbo"
 publication_date: "2015-10-18"
-last_updated: "2013-01-01"
+last_updated: "2015-10-18"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032565"
 soort: "pbo"
@@ -55,15 +55,19 @@ In deze verordening wordt verstaan onder:
 
 - c. **geschillencommissie:** de Geschillencommissie Notariaat, ingesteld en in stand gehouden door de SGC en de SGB, overeenkomstig hun statuten;
 
-- d. **kantoorklachtenregeling:** de schriftelijk aan de cliënt bekend gemaakte regeling die op het kantoor van de notaris geldt voor de behandeling van klachten van cliënten;
+- d. **kantoorklachtenregeling:** de schriftelijk of via de website van de notaris aan de cliënt bekend gemaakte regeling die op het kantoor van de notaris geldt voor de behandeling van klachten van cliënten;
 
 - e. **notaris:** de notaris, genoemd in [artikel 1 onder a. van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=1) alsmede de kandidaat-notaris, genoemd in artikel 1 onder b., daaronder begrepen de rechtsvorm waarin deze zijn praktijk uitoefent en het kantoor waarvan hij deel uitmaakt;
 
 - f. **bestuur:** het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=64);
 
-- g. **cliënt:** de afnemer van de diensten van een notaris;
+- g. **cliënt:** de afnemer van de diensten van de notaris;
 
-- h. **klacht:** een geschil over de totstandkoming of de uitvoering van een opdracht aan een notaris, al dan niet vergezeld van een vordering tot schade tot een bedrag van € 5.000, en over een door de notaris aan de cliënt verzonden declaratie.
+- h. **klacht:** een geschil over de totstandkoming of de uitvoering van een opdracht aan de notaris, al dan niet vergezeld van een vordering tot, en over een door de notaris aan de cliënt verzonden declaratie. Waarbij de hoogte van de declaratie of de schade niet hoger is dan € 10.000 inclusief eventueel verschuldigde BTW;
+
+- i. **declaratie:** De rekening of het samenstel van rekeningen met betrekking tot de werkzaamheden van de notaris die betrekking hebben op één en hetzelfde dossier;
+
+- j. **klachten- en geschillenregeling:** de onderhavige verordening.
 
 ##### Artikel 2
 
@@ -75,11 +79,13 @@ Als een klacht niet naar tevredenheid van de cliënt is opgelost, verwijst de no
 
 ##### Artikel 4
 
-Als een cliënt een declaratie van een notaris niet of niet volledig betaalt en de kantoorklachtenregeling heeft niet tot resultaat geleid, wendt de notaris zich tot de geschillencommissie voor de incasso.
+Als een cliënt een declaratie van een notaris niet of niet volledig betaalt en de kantoorklachtenregeling heeft niet tot resultaat geleid, kan de notaris zich tot de geschillencommissie wenden voor incasso.
 
 ##### Artikel 5
 
-De notaris verklaart de klachten- en geschillenregeling van toepassing op zijn dienstverlening in zijn algemene voorwaarden.
+1. De klachten- en geschillenregeling is van toepassing op de dienstverlening van de notaris. De notaris verwijst voor nadere informatie over deze regeling naar de publiekswebsite van de KNB.
+
+2. Daarnaast is de notaris verplicht om in zijn algemene voorwaarden een regeling op te nemen met betrekking tot aansprakelijkheid, de voorlichting omtrent de financiële gevolgen van zijn dienstverlening en het toepasselijke recht en regelgeving.
 
 ##### Artikel 6
 
