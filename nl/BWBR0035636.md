@@ -4,7 +4,7 @@ identifier: "BWBR0035636"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2025-12-10"
-last_updated: "2015-10-01"
+last_updated: "2015-10-21"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035636"
 soort: "ministeriele-regeling"
@@ -52,9 +52,9 @@ In deze regeling wordt verstaan onder:
 
 - f. **minister:** Minister van Volksgezondheid, Welzijn en Sport;
 
-- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2015-10-21&g=2015-10-01) van deze regeling;
+- g. **opleidingsinrichting:** opleidende zorginstelling die door de Registratiecommissie Geneeskundig Specialisten (RGS) is erkend voor het verzorgen van (een deel van) de opleiding tot psychiater zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2015-10-21&g=2015-10-21) van deze regeling;
 
-- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door de opleidingsinstelling voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2015-10-21&g=2015-10-01) van deze regeling;
+- h. **praktijkopleidinginstelling:** opleidende zorginstelling of zorgaanbieder die of het samenwerkingsverband van zorginstellingen en/of zorgaanbieders dat is erkend door de opleidingsinstelling voor het verzorgen van het praktijkgedeelte van de opleiding tot gezondheidszorgpsycholoog, klinisch psycholoog of psychotherapeut zoals genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=1&z=2015-10-21&g=2015-10-21) van deze regeling;
 
 - i. **opleidingsinstelling:** instelling die is erkend door de Registratiecommissie Specialismen Gezondheidszorgpsycholoog voor het verzorgen van de opleiding tot klinisch psycholoog of een rechtspersoon die een opleiding tot gezondheidszorgpsycholoog of psychotherapeut verzorgt en als zodanig is aangewezen door de Minister van VWS;
 
@@ -72,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. De subsidie wordt per kalenderjaar verstrekt.
 
-3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2015-10-21&g=2015-10-01) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
+3. De subsidie bedraagt per gerealiseerde opleidingsplaats in fte het bedrag dat in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&bijlage=2&z=2015-10-21&g=2015-10-21) bij deze regeling vermeld is bij de desbetreffende zorgopleiding. Een opleidingsplaats in fte bedraagt ten hoogste het aantal uren van het dienstverband overeenkomstig de van toepassing zijnde collectieve arbeidsovereenkomst of sectorale rechtspositieregeling.
 
 4. De subsidie wordt uitsluitend verstrekt aan een opleidingsinrichting die voor het verzorgen van (een deel van) de opleiding tot psychiater is erkend door de RGS of aan een praktijkopleidinginstelling die voor de desbetreffende zorgopleiding is erkend door de opleidingsinstelling of de RSG.
 
@@ -148,7 +148,7 @@ De subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verle
 
 ##### Artikel 10
 
-Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2015-10-21&g=2015-10-01), de aanvraag uiterlijk 1 november 2014 ontvangen.
+Ten behoeve van het subsidiejaar 2015 wordt in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035636&artikel=4&z=2015-10-21&g=2015-10-21), de aanvraag uiterlijk 1 november 2014 ontvangen.
 
 ##### Artikel 11
 
@@ -169,10 +169,20 @@ Deze regeling zal worden aangehaald als: Subsidieregeling Opleidingen in een Jeu
 
 |   | Naam | Plaats |
 | --- | --- | --- |
-| 1. | Curium, Academisch Centrum Kinder- en Jeugdpsychiatrie | Leiden |
-| 2 | Mutsaersstichting | Venlo |
+| 1. | Curium, Academisch centrum Kinder- en Jeugdpsychiatrie | Leiden |
+| 2. | Mutsaersstichting | Venlo |
 | 3. | Jeugdhulp Friesland | Leeuwarden |
-| 4. | Jutz | Breda |
+| 4. | Juzt | Breda |
+| 5. | Dekker & Dooyeweerd | Ede |
+| 6. | Dyslexiezorg Noord-Nederland DZNN | Joure |
+| 7. | Heldring en Ambulatorium | Zetten |
+| 8. | MOC ’t Kabouterhuis | Amsterdam |
+| 9. | Orthopedagogische Praktijk Ermelo | Ermelo |
+| 10. | Praktijk Rigtering B.V | Arnhem |
+| 11. | Praktijk voor leer- en gedragsadviezen | Hilversum |
+| 12. | Rebis | Oeffelt |
+| 13. | Jarabee | Hengeloo |
+| 14. | Centraal Nederland landelijke protestants-christelijke SBD | Nunspeet |
 
 ## Bijlage 2. Subsidiebedrag per opleidingsplaats per fte
 
