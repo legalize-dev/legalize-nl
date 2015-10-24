@@ -184,25 +184,3 @@ Noot:
 [artikel 69](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=69) zoals dat luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](https://wetten.overheid.nl/jci1.3:c:BWBR0032225).
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
-
-##### Artikel 6a. - Nieuwe grondslag
-
-Dit besluit berust mede op [artikel 9, eerste lid, aanhef en onder b, van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=9).
-
-## Bijlage
-
-### I. Inleiding
-
-In [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037110&artikel=4&z=2024-07-24&g=2024-07-24), van deze beleidsregels is bepaald dat overtredingen waarvoor ACM een bestuurlijke boete kan opleggen op grond van [artikel 45f, eerste lid, aanhef en onder a, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45f), [artikel 76, tweede lid, aanhef en onder a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=76), [artikel 9, eerste lid aanhef en onder b van de Uitvoeringswet EU-zeehavenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0044856&artikel=9), de [artikelen 8.25h, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.25h), en [11.24 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.24) en [artikel 96a](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96a) jo. [artikel 30a eerste en derde lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=30a), met uitzondering van overtredingen die door natuurlijke personen zijn begaan, worden beboet op basis van een promillage van de jaaromzet van de overtreder. De vaststelling van het promillage vindt plaats aan de hand van zes categorieën die oplopen in hoogte. Deze bijlage geeft aan in welke categorie de vorenbedoelde overtredingen zijn ingedeeld. De bijlage maakt integraal onderdeel uit van de Beleidsregels bestuurlijke boetes vervoerswetgeving ACM.
-
-### 1. [Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365)
-
-De overtredingen, bedoeld in [artikel 45f, eerste lid, aanhef en onder a, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=45f), die op grond van artikel 45f, tweede lid, van de Loodsenwet bestraft kunnen worden met een bestuurlijke boete van maximaal € 900.000,-, of indien dit meer is, 10% van de gezamenlijke omzet van de organisaties, aangewezen krachtens de [artikelen 15a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15a), en [15b, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15b), worden als volgt in categorieën ingedeeld:
-
-### 4. [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555)
-
-### 5. [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470)
-
-De overtredingen bedoeld in [artikel 96a eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=96a) jo. [artikel 30a eerste en derde lid van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=30a), die op grond van artikel 96a, eerste en tweede lid, van de Wet personenvervoer 2000 bestraft kunnen worden met een bestuurlijke boete van maximaal € 900.000,-, of indien dat meer is, 1% van de omzet van de overtreder worden als volgt in categorieën ingedeeld:
-
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
