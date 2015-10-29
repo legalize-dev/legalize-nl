@@ -4,7 +4,7 @@ identifier: "BWBR0030839"
 country: "nl"
 rank: "ministeriele_regeling"
 publication_date: "2022-08-01"
-last_updated: "2011-10-01"
+last_updated: "2015-10-29"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0030839"
 soort: "ministeriele-regeling"
@@ -44,15 +44,11 @@ Besluit:
 
 De in [artikel 7, eerste lid, onderdeel b, van het Bekostigingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005672&artikel=7) bedoelde gevallen betreffen leerlingen die tijdelijk verblijven in voorzieningen als bedoeld in:
 
-- a. de [Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissie voortgezet onderwijs en reboundvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0019676);
+- a. de [Regeling regionaal zorgbudget en regionale verwijzingscommissie voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0035215&wetgeving);
 
-- b. de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026422);
+- b. de [Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren](https://wetten.overheid.nl/jci1.3:c:BWBR0026422); en
 
-- c. de [Regeling aanvragen van een startsubsidie of subsidie veldinitiatief Passend Onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025815);
-
-- d. de [Beleidsregel experimenten Passend onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0025330);
-
-- e. [artikel 10h, derde lid, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=10h).
+- c. [artikel 17a, tweede lid en lid 10a, van de WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=17a).
 
 ##### Artikel 2
 
