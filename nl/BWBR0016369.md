@@ -4,7 +4,7 @@ identifier: "BWBR0016369"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2004-01-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0016369"
 soort: "AMvB"
@@ -57,7 +57,7 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel 3
 
-De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2004.
+De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het bestuursverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2004.
 
 ##### Artikel 4
 
