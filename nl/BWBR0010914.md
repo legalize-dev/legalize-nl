@@ -4,7 +4,7 @@ identifier: "BWBR0010914"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "1999-12-15"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0010914"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Wijzigt boek 2 van het Burgerlijk Wetboek.
 
 ##### Artikel 3
 
-De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2000.
+De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het bestuursverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 2000.
 
 ##### Artikel 4
 
