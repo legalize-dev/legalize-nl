@@ -4,7 +4,7 @@ identifier: "BWBR0005193"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "1991-09-21"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0005193"
 soort: "AMvB"
@@ -56,7 +56,7 @@ De bedragen genoemd in [artikel 397 lid 1 onder **a** en **b** van boek 2 van he
 
 ##### Artikel 3
 
-De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 1991.
+De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het bestuursverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 1991.
 
 ##### Artikel 4
 
