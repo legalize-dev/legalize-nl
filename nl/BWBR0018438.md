@@ -4,7 +4,7 @@ identifier: "BWBR0018438"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2005-07-27"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0018438"
 soort: "AMvB"
@@ -46,15 +46,21 @@ Gezien het nader rapport van Onze Minister van Justitie van 7 juni 2005, nr. 535
 
 Hebben goedgevonden en verstaan:
 
+Treedt in werking op het tijdstip waarop de Wijzigingswet boek 2 Burgerlijk Wetboek ter uitvoering van IAS-verordening, IAS 39-richtlijn en moderniseringsrichtlijn in werking treedt.
+
 ##### Artikel 1
 
 1. Onder de actuele waarde van activa of passiva wordt verstaan de waarde die is gebaseerd op actuele marktprijzen of op gegevens die op de datum van waardering geacht kunnen worden relevant te zijn voor de waarde.
 
-2. Als actuele waarde waartegen activa en passiva in de jaarrekening kunnen worden gewaardeerd, komt, afhankelijk van de soort activa of passiva dan wel van de omstandigheden, in aanmerking de vervangingswaarde, bedrijfswaarde, marktwaarde of opbrengstwaarde.
+2. Als actuele waarde waartegen activa en passiva in de jaarrekening kunnen worden gewaardeerd, komt, afhankelijk van de soort activa of passiva dan wel van de omstandigheden, in aanmerking de actuele kostprijs, bedrijfswaarde, marktwaarde of opbrengstwaarde.
 
 ##### Artikel 2
 
-Onder de vervangingswaarde wordt verstaan het bedrag dat nodig zou zijn om in de plaats van een actief dat bij de bedrijfsuitoefening is of wordt gebruikt, verbruikt of voortgebracht, een ander actief te verkrijgen of te vervaardigen dat voor de bedrijfsuitoefening een in economisch opzicht gelijke betekenis heeft.
+Onder de actuele kostprijs wordt verstaan:
+
+- a. de actuele inkoopprijs en de bijkomende kosten van een actief, verminderd met afschrijvingen; of
+
+- b. de actuele aanschaffingskosten van de gebruikte grond- en hulpstoffen en de overige kosten welke rechtstreeks aan de vervaardiging van een actief kunnen worden toegerekend, verminderd met afschrijvingen. In deze kosten kunnen worden opgenomen een redelijk deel van de indirecte kosten en de rente op schulden over het tijdvak dat aan de vervaardiging van het actief kan worden toegerekend.
 
 ##### Artikel 3
 
@@ -78,15 +84,15 @@ Een immaterieel vast actief kan slechts tegen de actuele waarde worden gewaardee
 
 ##### Artikel 7
 
-Indien materiële vaste activa of immateriële vaste activa, niet zijnde beleggingen, worden gewaardeerd tegen de actuele waarde, komt daarvoor in aanmerking de vervangingswaarde. Waardering geschiedt tegen de bedrijfswaarde indien en zolang deze lager is dan de vervangingswaarde. Waardering geschiedt tegen de opbrengstwaarde indien de rechtspersoon heeft besloten de materiële of immateriële vaste activa, niet zijnde beleggingen, te verkopen.
+Indien materiële vaste activa of immateriële vaste activa, niet zijnde beleggingen, worden gewaardeerd tegen de actuele waarde, komt daarvoor in aanmerking de actuele kostprijs. Waardering geschiedt tegen de bedrijfswaarde indien deze lager is dan de actuele kostprijs. Indien de opbrengstwaarde lager is dan de actuele kostprijs en hoger is dan de bedrijfswaarde, geschiedt de waardering tegen de opbrengstwaarde.
 
 ##### Artikel 8
 
-Indien voorraden, niet zijnde agrarische voorraden, worden gewaardeerd tegen de actuele waarde, komt daarvoor in aanmerking de vervangingswaarde. Waardering geschiedt tegen de opbrengstwaarde indien deze lager is dan de vervangingswaarde. Indien niet mag worden aangenomen dat voorraden zullen worden vervangen, worden zij tegen de opbrengstwaarde gewaardeerd. Indien agrarische voorraden worden gewaardeerd tegen de actuele waarde, komt daarvoor in aanmerking de opbrengstwaarde.
+Indien agrarische voorraden worden gewaardeerd tegen de actuele waarde, komt daarvoor in aanmerking de opbrengstwaarde.
 
 ##### Artikel 9
 
-In de toelichting wordt uiteengezet hoe de vervangingswaarde, bedrijfswaarde of opbrengstwaarde, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=7&z=2005-07-27&g=2005-07-27) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=8&z=2005-07-27&g=2005-07-27), is bepaald.
+In de toelichting wordt uiteengezet hoe de actuele kostprijs, bedrijfswaarde of opbrengstwaarde, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=7&z=2015-11-01&g=2015-11-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=8&z=2015-11-01&g=2015-11-01), is bepaald.
 
 ##### Artikel 10
 
@@ -136,7 +142,7 @@ In de toelichting wordt uiteengezet hoe de vervangingswaarde, bedrijfswaarde of 
 
 ##### Artikel 12
 
-Indien een deelneming tegen de netto-vermogenswaarde wordt gewaardeerd, zijn de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=6&z=2005-07-27&g=2005-07-27) van toepassing op de waardering van de activa van de rechtspersoon of vennootschap waarin wordt deelgenomen.
+Indien een deelneming tegen de netto-vermogenswaarde wordt gewaardeerd, zijn de [artikelen 6 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0018438&artikel=6&z=2015-11-01&g=2015-11-01) van toepassing op de waardering van de activa van de rechtspersoon of vennootschap waarin wordt deelgenomen.
 
 ##### Artikel 13
 
@@ -153,5 +159,11 @@ Indien het bij koninklijke boodschap van 7 september 2004 ingediende voorstel va
 ##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit actuele waarde.
+
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
+
+##### Artikel 5a
+
+Waardering tegen marktwaarde is niet toegestaan voor een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
