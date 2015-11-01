@@ -4,7 +4,7 @@ identifier: "BWBR0037464"
 country: "nl"
 rank: "amvb"
 publication_date: "2016-08-01"
-last_updated: "2015-09-15"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0037464"
 soort: "AMvB"
@@ -49,8 +49,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel IV
 
@@ -117,8 +115,6 @@ Dit onderdeel is nog niet inwerking getreden
 ##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
-
-Dit onderdeel is nog niet inwerking getreden
 
 ##### Artikel XVI
 
