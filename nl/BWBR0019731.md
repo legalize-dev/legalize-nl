@@ -4,7 +4,7 @@ identifier: "BWBR0019731"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2013-07-22"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0019731"
 soort: "AMvB"
@@ -48,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ##### Artikel 1
 
-1. In het jaarverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt mededeling gedaan omtrent:
+1. In het bestuursverslag van een vennootschap, waarvan aandelen of met medewerking van de vennootschap uitgegeven certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368), wordt mededeling gedaan omtrent:
 
 - a. de kapitaalstructuur van de vennootschap, het bestaan van verschillende soorten aandelen en de daaraan verbonden rechten en plichten en het percentage van het geplaatste kapitaal dat door elke soort wordt vertegenwoordigd;
 
@@ -72,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 - k. elke overeenkomst van de vennootschap met een bestuurder of werknemer die voorziet in een uitkering bij beëindiging van het dienstverband naar aanleiding van een openbaar bod in de zin van [artikel 5:70 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:70).
 
-2. Een toelichtend verslag omtrent de mededelingen bedoeld in het eerste lid wordt opgenomen in het jaarverslag.
+2. Een toelichtend verslag omtrent de mededelingen bedoeld in het eerste lid wordt opgenomen in het bestuursverslag.
 
 3. Het eerste lid is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten in de zin van [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), waarvan de rechten van deelneming, op verzoek van de deelnemers, ten laste van de activa van deze beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten direct of indirect worden ingekocht of terugbetaald.
 
