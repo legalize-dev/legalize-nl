@@ -4,7 +4,7 @@ identifier: "BWBR0032156"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2013-01-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0032156"
 soort: "AMvB"
@@ -78,19 +78,19 @@ Onze Minister kan voor incidentele bijdragen voor een bijzonder doel als bedoeld
 
 ##### Artikel 4
 
-De betaling van de bijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), vindt plaats in vier gelijke termijnen, op 15 januari, 15 april, 15 juli en 15 oktober.
+De betaling van de bijdrage, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2015-11-01&g=2015-11-01), vindt plaats in vier gelijke termijnen, op 15 januari, 15 april, 15 juli en 15 oktober.
 
 #### § 3. Besteding en verantwoording
 
 ##### Artikel 5
 
-Het bestuur besteedt de bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), aan de uitvoering van de taken, genoemd in [artikel 68, eerste lid, de onderdelen a, e, f, g en h, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=68).
+Het bestuur besteedt de bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2015-11-01&g=2015-11-01), aan de uitvoering van de taken, genoemd in [artikel 68, eerste lid, de onderdelen a, e, f, g en h, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=68).
 
 ##### Artikel 6
 
-1. Het bestuur zendt ten behoeve van de verantwoording over de besteding van de bijdragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01), uiterlijk 31 maart aan Onze Minister:
+1. Het bestuur zendt ten behoeve van de verantwoording over de besteding van de bijdragen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=2&z=2015-11-01&g=2015-11-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=3&z=2015-11-01&g=2015-11-01), uiterlijk 31 maart aan Onze Minister:
 
-- a. de jaarrekening en het jaarverslag, bedoeld in [Titel 9, Boek 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en
+- a. de jaarrekening en het bestuursverslag, bedoeld in [Titel 9, Boek 2, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), en
 
 - b. de accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -104,7 +104,7 @@ Het bestuur besteedt de bijdrage, bedoeld in [artikel 2](https://wetten.overheid
 
 ##### Artikel 7
 
-Onze Minister kan de betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=4&z=2013-01-01&g=2013-01-01), geheel of gedeeltelijk opschorten indien de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=3&artikel=6&z=2013-01-01&g=2013-01-01), bedoelde informatie niet tijdig of niet op de voorgeschreven wijze is verstrekt.
+Onze Minister kan de betalingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=2&artikel=4&z=2015-11-01&g=2015-11-01), geheel of gedeeltelijk opschorten indien de in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032156&paragraaf=3&artikel=6&z=2015-11-01&g=2015-11-01), bedoelde informatie niet tijdig of niet op de voorgeschreven wijze is verstrekt.
 
 #### § 4. Slotbepalingen
 
