@@ -4,7 +4,7 @@ identifier: "BWBR0024869"
 country: "nl"
 rank: "amvb"
 publication_date: "2025-10-04"
-last_updated: "2009-01-01"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024869"
 soort: "AMvB"
@@ -45,6 +45,8 @@ De Raad van State gehoord (advies van 22 oktober 2008, nr. W05.08.0425/I);
 Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, Sharon A.M. Dijksma, van 25 november 2008, nr. WJZ/72435 (2658), directie Wetgeving en Juridische Zaken; uitgebracht in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 Hebben goedgevonden en verstaan:
+
+Treedt in werking op het tijdstip waarop artikel 19a van de Wet overige OCW-subsidies in werking treedt.
 
 #### Paragraaf 1. Algemeen
 
@@ -148,33 +150,33 @@ De verlening van een intermediaire activiteit als bedoeld in [artikel 19a, tweed
 
 4. Op de kosten komen in mindering de voorzieningen die zijn terugbetaald en de baten die voortvloeien uit de uitvoering van deze regeling.
 
-##### Artikel 11. Nadere regels jaarverslag, jaarrekening, tussentijdse rapportages en accountantscontrole
+##### Artikel 11. Nadere regels bestuursverslag, jaarrekening, tussentijdse rapportages en accountantscontrole
 
-1. Het UWV biedt jaarlijks vóór 15 maart het gedeelte van het jaarverslag dat betrekking heeft op de uitvoering van dit besluit met het gedeelte van de jaarrekening dat daarop betrekking heeft aan Onze Minister aan. De verklaring omtrent de getrouwheid, bedoeld in [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), bevat een afzonderlijke verklaring over het gedeelte dat betrekking heeft op de uitvoering van dit besluit.
+1. Het UWV biedt jaarlijks vóór 15 maart het gedeelte van het bestuursverslag dat betrekking heeft op de uitvoering van dit besluit met het gedeelte van de jaarrekening dat daarop betrekking heeft aan Onze Minister aan. De verklaring omtrent de getrouwheid, bedoeld in [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), bevat een afzonderlijke verklaring over het gedeelte dat betrekking heeft op de uitvoering van dit besluit.
 
 2. De tussentijdse verslagen die het UWV opstelt op grond van [artikel 49, achtste lid, van de Wet structuur uitvoeringsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49) bevatten tevens een gedeelte over de uitvoering van dit besluit, welk gedeelte door het UWV wordt aangeboden aan Onze Minister.
 
 3. UWV biedt het gedeelte van de verslagen, bedoeld in het tweede lid, vóór 15 juni en 15 oktober aan.
 
-4. Het UWV neemt in het gedeelte van het jaarverslag met jaarrekening, bedoeld in het eerste lid, ten minste een verslag van de werkzaamheden en het gevoerde beleid met betrekking tot de voorzieningen, bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), op en tevens een toelichting op het gedeelte van de jaarrekening en de balans dat betrekking heeft op de uitvoering van dit besluit.
+4. Het UWV neemt in het gedeelte van het bestuursverslag met jaarrekening, bedoeld in het eerste lid, ten minste een verslag van de werkzaamheden en het gevoerde beleid met betrekking tot de voorzieningen, bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), op en tevens een toelichting op het gedeelte van de jaarrekening en de balans dat betrekking heeft op de uitvoering van dit besluit.
 
-5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
+5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2015-11-01&g=2015-11-01), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
 
 ##### Artikel 12. Tijdstip, inhoud en inrichting aanvraag voorschot, vaststelling kosten
 
 1. Het UWV dient jaarlijks vóór 1 december van het jaar voorafgaand aan het begrotingsjaar waarin de kosten zullen worden gemaakt de aanvraag om een voorschot aan Onze Minister in.
 
-2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2009-01-01&g=2009-01-01), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2009-01-01&g=2009-01-01).
+2. De aanvraag om een voorschot heeft betrekking op de kosten, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=10&z=2015-11-01&g=2015-11-01), en de ontvangsten op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) en is ten minste uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2015-11-01&g=2015-11-01).
 
 3. Onze Minister stelt de hoogte van het voorschot vast en verstrekt met ingang van het begrotingsjaar waarop het voorschot betrekking heeft maandelijks voor de 11e van de maand een twaalfde deel van het vastgestelde voorschot.
 
 4. Onze Minister kan, op verzoek van het UWV, de bevoorschotting aanpassen in de loop van een kalenderjaar.
 
-5. Onze Minister stelt binnen acht weken na ontvangst van het gedeelte van het jaarverslag en de jaarrekening dat betrekking heeft op de uitvoering van dit besluit de eindafrekening vast.
+5. Onze Minister stelt binnen acht weken na ontvangst van het gedeelte van het bestuursverslag en de jaarrekening dat betrekking heeft op de uitvoering van dit besluit de eindafrekening vast.
 
 ##### Artikel 13. Nadere regels
 
-Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het jaarverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2009-01-01&g=2009-01-01), worden ingericht en aangeboden.
+Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2015-11-01&g=2015-11-01), worden ingericht en aangeboden.
 
 ##### Artikel 14. Inwerkingtreding
 
