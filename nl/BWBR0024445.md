@@ -4,7 +4,7 @@ identifier: "BWBR0024445"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2008-09-10"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024445"
 soort: "AMvB"
@@ -64,9 +64,7 @@ In het boekjaar waarin de rechtspersoon voor het eerst de fiscale waarderingsgro
 
 1. In de toelichting wordt vermeld voor welke posten het gebruik van fiscale waarderingsgrondslagen leidt tot een afwijking van de waardering volgens [afdeling 6, titel 9, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=6), die van belang is voor het inzicht in het vermogen. Deze toelichting maakt deel uit van de jaarrekening die ingevolge [artikel 394 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) wordt gepubliceerd.
 
-2. In het boekjaar waarin een fiscale herinvesteringsreserve als bedoeld in [artikel 3.54 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) in mindering is gebracht op de aanschaffings- of voortbrengingskosten van een bedrijfsmiddel, wordt dit in de toelichting vermeld, met het bedrag van de afboeking van die reserve.
-
-3. In het boekjaar waarin op de voet van [artikel 3.31](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.31) of [artikel 3.34 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.34) willekeurig is afgeschreven en de afschrijving uitgaat boven het bedrag van de afschrijving wanneer niet willekeurig zou zijn afgeschreven, wordt dit in de toelichting vermeld, met het bedrag van de afschrijving.
+2. Dit artikel is niet van toepassing op een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
 
 ##### Artikel 4
 
