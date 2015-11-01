@@ -4,7 +4,7 @@ identifier: "BWBR0024950"
 country: "nl"
 rank: "amvb"
 publication_date: "2019-07-21"
-last_updated: "2013-07-22"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0024950"
 soort: "AMvB"
@@ -106,13 +106,13 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 ##### Artikel 3
 
-1. Het halfjaarverslag van een uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d), die verplicht is een geconsolideerde jaarrekening op te maken, bevat:
+1. Het halfjaarlijks bestuursverslag van een uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d), die verplicht is een geconsolideerde jaarrekening op te maken, bevat:
 
 - a. de transacties met verbonden partijen die in de eerste zes maanden van het lopende boekjaar hebben plaatsgevonden en die materiële gevolgen hebben gehad voor de financiële positie of resultaten van de uitgevende instelling in die periode; en
 
-- b. alle wijzigingen in de in het laatste algemeen verkrijgbaar gestelde jaarverslag beschreven transacties met verbonden partijen die materiële gevolgen kunnen hebben voor de financiële positie of resultaten van de uitgevende instelling in de eerste zes maanden van het lopende boekjaar.
+- b. alle wijzigingen in de in het laatste algemeen verkrijgbaar gestelde bestuursverslag beschreven transacties met verbonden partijen die materiële gevolgen kunnen hebben voor de financiële positie of resultaten van de uitgevende instelling in de eerste zes maanden van het lopende boekjaar.
 
-2. Indien de uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.
+2. Indien de uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25d) niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarlijks bestuursverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.
 
 ##### Artikel 4
 
@@ -152,7 +152,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 5. De uitgevende instelling doet de algemeenverkrijgbaarstelling van gereglementeerde informatie niet vergezellen van reclame-uitingen voor haar activiteiten, indien dit mogelijk misleidend is.
 
-6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2013-07-22&g=2013-07-22) bedoelde verplichtingen op die persoon.
+6. Indien de gereglementeerde informatie betrekking heeft op door een uitgevende instelling uitgegeven effecten ten aanzien waarvan door een persoon zonder toestemming van die uitgevende instelling om toelating tot de handel op een gereglementeerde markt van door de uitgevende instelling uitgegeven effecten is verzocht, rusten de in het eerste tot en met vijfde lid en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=IV&artikel=6&z=2015-11-01&g=2015-11-01) bedoelde verplichtingen op die persoon.
 
 ##### Artikel 6
 
@@ -184,9 +184,9 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 ##### Artikel 8
 
-1. Het jaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
+1. Het bestuursverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
 
-- a. een getrouw beeld van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling, alsmede een beschrijving van de voornaamste risico’s en onzekerheden waarmee zij geconfronteerd wordt. Het jaarverslag bevat een evenwichtige en volledige analyse van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling die in overeenstemming is met de omvang en de complexiteit van het bedrijf;
+- a. een getrouw beeld van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling, alsmede een beschrijving van de voornaamste risico’s en onzekerheden waarmee zij geconfronteerd wordt. Het bestuursverslag bevat een evenwichtige en volledige analyse van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling die in overeenstemming is met de omvang en de complexiteit van het bedrijf;
 
 - b. informatie over de belangrijke gebeurtenissen die na het einde van het boekjaar hebben plaatsgevonden; en
 
@@ -196,13 +196,13 @@ Desgevraagd verstrekt de uitgevende instelling de volgende informatie aan de Aut
 
 ##### Artikel 9
 
-1. Het halfjaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
+1. Het halfjaarlijks bestuursverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:25v) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten:
 
 - a. een overzicht van de verslagperiode; en
 
 - b. informatie over de waarschijnlijke toekomstige ontwikkeling van de uitgevende instelling in de resterende zes maanden van het boekjaar.
 
-2. Indien het een uitgevende instelling als bedoeld in het eerste lid betreft waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt, vermeldt het halfjaarverslag eveneens de belangrijkste transacties met verbonden partijen voor zover deze niet al doorlopend worden bekendgemaakt.
+2. Indien het een uitgevende instelling als bedoeld in het eerste lid betreft waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt, vermeldt het halfjaarlijks bestuursverslag eveneens de belangrijkste transacties met verbonden partijen voor zover deze niet al doorlopend worden bekendgemaakt.
 
 ##### Artikel 10
 
@@ -210,7 +210,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 - a. de conformiteit van de financiële overzichten met de toepasselijke verslaggevingsvoorschriften; en
 
-- b. de getrouwheid van het overzicht in het jaarverslag.
+- b. de getrouwheid van het overzicht in het bestuursverslag.
 
 ##### Artikel 11
 
@@ -238,7 +238,7 @@ Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan
 
 1. De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2013-07-22&g=2013-07-22) werkt terug tot en met 1 januari 2008.
+2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0024950&hoofdstuk=VI&artikel=16&z=2015-11-01&g=2015-11-01) werkt terug tot en met 1 januari 2008.
 
 ##### Artikel 19
 
