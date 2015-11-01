@@ -4,7 +4,7 @@ identifier: "BWBR0020406"
 country: "nl"
 rank: "amvb"
 publication_date: "2015-11-01"
-last_updated: "2006-10-25"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0020406"
 soort: "AMvB"
@@ -58,7 +58,7 @@ Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ##### Artikel 3
 
-Dit besluit is van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2007. De bepalingen van dit besluit kunnen worden toegepast op de jaarrekening en het jaarverslag die worden opgesteld over het boekjaar dat is aangevangen op of na 1 januari 2006.
+Dit besluit is van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2007. De bepalingen van dit besluit kunnen worden toegepast op de jaarrekening en het bestuursverslag die worden opgesteld over het boekjaar dat is aangevangen op of na 1 januari 2006.
 
 ##### Artikel 4
 
