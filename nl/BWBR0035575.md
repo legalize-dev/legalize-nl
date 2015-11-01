@@ -4,7 +4,7 @@ identifier: "BWBR0035575"
 country: "nl"
 rank: "amvb"
 publication_date: "2021-11-26"
-last_updated: "2014-09-25"
+last_updated: "2015-11-01"
 status: "in_force"
 source: "https://wetten.overheid.nl/BWBR0035575"
 soort: "AMvB"
@@ -88,17 +88,17 @@ Dit besluit is van toepassing op banken en beleggingsondernemingen met zetel in 
 
 ##### Artikel 4. (direct ingaande verplichtingen)
 
-1. Een bank of beleggingsonderneming maakt, in aanvulling op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3&z=2014-09-25&g=2014-09-25), de in de onderdelen a, b en c van dat lid bedoelde informatie over het laatst afgesloten boekjaar binnen vier weken na de inwerkingtreding van dit besluit openbaar.
+1. Een bank of beleggingsonderneming maakt, in aanvulling op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3&z=2015-11-01&g=2015-11-01), de in de onderdelen a, b en c van dat lid bedoelde informatie over het laatst afgesloten boekjaar binnen vier weken na de inwerkingtreding van dit besluit openbaar.
 
-2. Een bank of beleggingsonderneming die door de Financial Stability Board is aangemerkt als mondiaal systeemrelevant, overlegt binnen vier weken na de inwerkingtreding van dit besluit de informatie, bedoeld in [artikel 3, eerste lid, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3&z=2014-09-25&g=2014-09-25), over het laatst afgesloten boekjaar op vertrouwelijke basis aan de Europese Commissie en aan de Nederlandsche Bank.
+2. Een bank of beleggingsonderneming die door de Financial Stability Board is aangemerkt als mondiaal systeemrelevant, overlegt binnen vier weken na de inwerkingtreding van dit besluit de informatie, bedoeld in [artikel 3, eerste lid, onderdelen d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3&z=2015-11-01&g=2015-11-01), over het laatst afgesloten boekjaar op vertrouwelijke basis aan de Europese Commissie en aan de Nederlandsche Bank.
 
 3. [Artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is niet van toepassing op de informatie, bedoeld in het eerste en tweede lid.
 
 ##### Artikel 5. (bekendmaking rendement op activa)
 
-1. Een bank of beleggingsonderneming maakt in haar jaarverslag als een van de belangrijkste indicatoren haar rendement op activa bekend, berekend als de nettowinst gedeeld door het balanstotaal.
+1. Een bank of beleggingsonderneming maakt in haar bestuursverslag als een van de belangrijkste indicatoren haar rendement op activa bekend, berekend als de nettowinst gedeeld door het balanstotaal.
 
-2. Dit artikel is van toepassing op de jaarverslagen die worden opgesteld over de boekjaren die aanvangen op of na 1 januari 2014.
+2. Dit artikel is van toepassing op de bestuursverslagen die worden opgesteld over de boekjaren die aanvangen op of na 1 januari 2014.
 
 ##### Artikel 6. (inwerkingtreding)
 
